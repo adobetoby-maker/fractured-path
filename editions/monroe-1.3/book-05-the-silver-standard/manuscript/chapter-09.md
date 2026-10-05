@@ -248,7 +248,7 @@ The river academy was first. It had brought nine Irons, and nine Irons placed, e
 
 There had been a bout or two worth the trip. Lira had gone through the Iron draw without losing a touch she had not meant to give, and had won its final against the river academy's second entry in the last light of the afternoon, on a floor already half in shadow.
 
-Brom had taken the Copper. Karis had gone out in the third round to that same river academy second entry, a patient Blade who had studied her as carefully as she had studied him. Ephram had reached the semifinal and lost it to the Blade on the panel's figures, after four level exchanges, and had come off the floor looking thoughtful rather than sorry.
+Brom had taken the Copper. Karis had gone out in the third round to that same river academy second entry. He was a Blade too, though not the coastal Blade she had beaten in the morning: a patient one, who had studied her as carefully as she had studied him. Ephram had reached the semifinal and lost it to the Blade on the panel's figures, after four level exchanges, and had come off the floor looking thoughtful rather than sorry.
 
 On the hill the chancellor's office would enter the result in the house book in one line, without remark. Nobody who had stood on those steps would need the line to remember it.
 

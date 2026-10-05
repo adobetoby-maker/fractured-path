@@ -4,9 +4,9 @@ The rating table on the main floor stood in the open, at the south rope, where a
 
 Cael stood behind it for the whole of the first morning and watched.
 
-He had the observation notebook open on his forearm and a pencil, and he had told nobody what he meant to do, because he did not quite know himself. He knew only that he had been rated four times now, twice in a mock ring by people who loved him and twice at the wool town by strangers, and that he had never once watched the thing happen from the side where it happened. He had read about it, and Rooke had shown him a yellow card and drawn him a table. But the instrument itself he had only ever seen from the floor, which was the one place from which you could not see it at all.
+He had the observation notebook open on his forearm and a pencil, and he had told nobody what he meant to do, because he did not quite know himself. He knew only that he had been rated three times now, once in a mock ring by people who loved him and twice at the wool town by strangers, and that he had never once watched the thing happen from the side where it happened. He had read about it, and Rooke had shown him a yellow card and drawn him a table. But the instrument itself he had only ever seen from the floor, which was the one place from which you could not see it at all.
 
-So for the whole of that first morning he kept to the end of the trestle with his pencil while the Copper bracket fought in front of him, and his own bouts, which were a day away, could wait.
+So for the whole of that first morning he kept to the end of the trestle with his pencil while the Copper bracket fought in front of him, and his own bouts, which were two days away, could wait.
 
 There were five judges. They sat in a row behind a long trestle, each with a slate and a stick of chalk, and between each pair of them stood a small upright board, about the height of a man's head when he sat, so that no judge could see his neighbour's slate without leaning. None of them leaned, though Cael watched for it.
 
@@ -86,7 +86,7 @@ He sat up for another hour. Then he marked the page with a spill from the stove,
 
 Lira's draw put her against the guild champion in the first bout of the morning, because the draw at every meet set the foot of the seeding against its head, and Lira was the foot and he was the head.
 
-He was an Iron Rank Four of the mill guild, a Force Path, broad and quiet, with a miller's floury forearms. This was his third season at the head of the lower Iron here, the last two with its title, and according to Rooke's sheet he trained on this floor every day but the First-day. He knew every board in it. He knew which ones rang and which ones were dead, where the bars of light from the loading doors fell at each bell, how far it was from the tool racks to the north rope in steps. The hall was full for him. The mill workers had come up the hill in their aprons on their way to the morning shift, and they stood along the south rope three deep, and when he walked to his chalk they made a low pleased sound like a crowd greeting a horse it has backed before.
+He was an Iron Rank Four of the mill guild, a Force Path, broad and quiet, with a miller's floury forearms. This was his third season at the head of the Iron here, the last two with its title, and according to Rooke's sheet he trained on this floor every day but the First-day. He knew every board in it. He knew which ones rang and which ones were dead, where the bars of light from the loading doors fell at each bell, how far it was from the tool racks to the north rope in steps. The hall was full for him. The mill workers had come up the hill in their aprons on their way to the morning shift, and they stood along the south rope three deep, and when he walked to his chalk they made a low pleased sound like a crowd greeting a horse it has backed before.
 
 Lira walked to her chalk on the west side and did not look at the crowd. She did not look at the north-west corner, either, where the one pillar stood too close to the floor, though Cael knew she had looked at it on the afternoon they arrived and had not looked at it since.
 
@@ -174,9 +174,9 @@ Rooke called it from the rope before the glass had turned, in the flat voice he 
 
 He was right about the number.
 
-In the first exchange Karis did nothing at all for the first part of the glass. She stood on her chalk with her hands loose, as she had stood in front of the Shield that morning at the wool town, and let Lira come. Lira came, and burst wide, and landed, and came again, and Karis turned to face each landing and did not move toward any of them. She was counting. Cael knew the look.
+In the first exchange Karis did nothing at all for the first part of the glass. She stood on her chalk with her hands loose, as she had stood in front of the Shield at the wool town, and let Lira come. Lira came, and burst wide, and landed, and came again, and Karis turned to face each landing and did not move toward any of them. She was counting. Cael knew the look.
 
-Then Karis read Lira perfectly. Cael could see it happen from the bench, because he knew what each of them knew. Lira's burst had a tell. It was a small one, and Cael had seen it so often that he no longer noticed it: before she went, her left hand opened, a short flick of the fingers, as if she were throwing something away. Karis had seen it too. She had seen it in a hundred bouts from a hundred gallery rails, and written it down, and never once mentioned it to Lira. Now, when Lira's left hand flicked, Karis was already turning, and she set her ignition point on the place where Lira would land before Lira had left the ground. Lira landed into heat. It was only a flash, a contact's worth, a single point of warmth on the floor that made her landing foot jump. But it was enough for Karis to step in and touch her shoulder while the landing beat held her.
+Then Karis read Lira perfectly. Cael could see it happen from the bench, because he knew what each of them knew. Lira's burst had a tell. It was a small one, and Cael had seen it so often that he no longer noticed it: before she went, her left hand opened, a short flick of the fingers, as if she were throwing something away. Karis had seen it too. She had seen it in a hundred bouts from a hundred gallery rails, and written it down, and never once mentioned it to Lira. Now, when Lira's left hand flicked, Karis was already turning, and she was already moving toward the place where Lira would land before Lira had left the ground. Lira came down twenty feet away, into the landing beat, and Karis was there, and Karis's palm met her shoulder while the beat still held her. The ignition came with the palm. It was only a flash, a contact's worth, a single point of heat under the hand that made Lira's whole shoulder jump.
 
 "Touch. Halcenvane." The steward hesitated. "The—the Ember."
 
@@ -200,13 +200,13 @@ In the second exchange Lira did not burst at all for the first half of the glass
 
 Rooke, at the rope, had his arms folded and his chin down. "Two people who've eaten at the same table for years," he said, to no one, "and neither of them can surprise the other except on purpose." He did not seem displeased by this. He seemed, if anything, to be enjoying himself, which in Rooke showed only as a slight easing at the corners of the eyes.
 
-But Lira did better than that. In the third exchange, Cael watched her work it out. He saw her stand on her chalk while the glass turned and look at Karis, and then look down at her own hands, and then back at Karis's eyes, which were on her hands. He saw her understand.
+But Lira did better than taking things away. In the third exchange, Cael watched her work it out. He saw her stand on her chalk while the glass turned and look at Karis, and then look down at her own hands, and then back at Karis's eyes, which were on her hands. He saw her understand.
 
 She went on the walk again. Halfway through the glass, she opened her left hand. She flicked her fingers, wide and clear, exactly as she always did before she went.
 
 And she did not go.
 
-Karis was already turning. She had turned to that flick a hundred times in her head and once already that afternoon, and her body went before her mind could stop it, and her ignition point bloomed warm on an empty stretch of floor where Lira was not going to land. Lira stood where she was and watched it. Then she stepped in, unhurried, while Karis was still finishing the turn, and laid her palm flat on Karis's ribs.
+Karis was already turning. She had turned to that flick a hundred times in her head and once already that afternoon, and her body went before her mind could stop it: a long step toward the landing spot, and her hand out, committed, ready for a shoulder. The spot stayed empty. No heat came, because there was nothing there for her palm to meet. Lira stood where she was and watched it. Then she stepped in, unhurried, while Karis was still finishing the turn, and laid her palm flat on Karis's ribs.
 
 "Touch. Halcenvane. Two to one. Bout to the Wind."
 
@@ -250,7 +250,7 @@ So Cael went through the arch into the second room, where the upper Iron had fou
 
 The second room was smaller than the hall and lower, with a plain board floor and a row of high windows along its south wall that let the afternoon in at a slant. It had been the guild's dressing shop once, where the millstones were brought to have their faces cut. There were still grooves worn in the floor near the door where the stones had been rolled in on edge, and the panel's trestle stood across the old doorway into the yard, so that the five judges sat with their backs to a cold draught and did not seem to mind it.
 
-Ephram's opponent was the river academy's patient Blade, the same one.
+Ephram's opponent was the river academy's patient Blade, the same one who had beaten him at the wool town.
 
 Cael had not known that until he reached the rope, and when he saw the man walk to his chalk he understood at once why Ephram had been so quiet at the midday meal. This was the Blade who had put Karis out of the wool town's draw in the third round and then beaten Ephram in the semifinal on the panel's figures, after four level exchanges in which neither of them had touched the other. He was an Iron Rank Five, a little older than Ephram, lean, and very still. He fought like some men played draughts, waiting for the other player to make the move that lost.
 

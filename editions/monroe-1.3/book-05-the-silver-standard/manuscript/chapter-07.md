@@ -14,7 +14,7 @@ That was the first thing the morning taught him, and it took him the length of t
 
 Nobody was going to follow them. Nobody needed to.
 
-The meet card had been printed on cream stock and sent to every house in the region, with a block of five names under Halcenvane and the hall, the floor and the bell beside every bout. Anyone who wanted to know where Cael would be on the First-day at the fourth bell could buy the card for a copper and read it.
+The meet card had been printed on cream stock and sent to every house in the region, with a block of five names under Halcenvane and the hall, the floor and the bell beside every bracket bout. Anyone who wanted to know where Lira would be at the first bell on the First-day could buy the card for a copper and read it. Where Cael would be was harder to print, because nobody had challenged him yet, but the card said plainly enough that he would be there.
 
 A watcher on a road behind a wagon was a man paying good wages for news the printer gave away.
 

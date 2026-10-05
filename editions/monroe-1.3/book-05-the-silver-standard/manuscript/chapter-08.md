@@ -44,7 +44,7 @@ Brom walked over to the rope where the boy's coach stood. He bowed to the man, p
 
 The boy nodded several times, very fast, and went to his coach.
 
-The figure went up while the next bout was still on the floor: fifteen. A Copper figure, low in the band.
+The figure went up while the next bout was still on the floor: fifteen. A Copper figure, square in the middle of its band.
 
 "Fifteen," said Lira, with some indignation, when they read it. "For that."
 

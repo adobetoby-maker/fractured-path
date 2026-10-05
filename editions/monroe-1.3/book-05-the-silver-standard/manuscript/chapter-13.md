@@ -1,6 +1,6 @@
 # Chapter 13 — In-Band
 
-That night the frost came down off the tops for the first time, hard and white, and the guild's guest house turned out to own a single stove that was any use against it.
+That night a hard frost came down off the tops, harder and whiter than anything they had met on the road, and the guild's guest house turned out to own a single stove that was any use against it.
 
 Cael came down late from his room, where he had been writing with a blanket round his shoulders and his breath showing, and found that the long front room had rearranged itself while he was upstairs. Nobody had planned it. The great table had been hauled down the room toward the stove, scraping, by somebody strong, and the benches had followed it, and the whole delegation had come in round the heat the way cattle come in round a hayrick.
 
@@ -8,7 +8,7 @@ Karis sat at the table's end nearest the stove with the grey notebook and a cand
 
 And Ephram, regional champion of a day and a half's standing, sat across the table from Karis with Rooke's coaching notes on the bout spread in front of him, copying them out into a book of his own in his careful hand. Rooke had told him that afternoon that champions kept their own files. Ephram had gone straight out and bought the book.
 
-His place was the end of the bench by the wall. Nobody had ever said so. It had simply become his, in every room like this one, because he liked a wall behind him and a window where he could see it. He put his left leg up on a stool, because the calf still complained when it hung. Lira, without stopping her thumbs, nudged the oil tin along the hearth with her knee to make room for his foot.
+Cael's place was the end of the bench by the wall. Nobody had ever said so. It had simply become his, in every room like this one, because he liked a wall behind him and a window where he could see it. He put his left leg up on a stool, because the calf still complained when it hung. Lira, without stopping her thumbs, nudged the oil tin along the hearth with her knee to make room for his foot.
 
 He sat and let the stove's heat come into him.
 
@@ -68,7 +68,7 @@ And the highest of the six was twenty-four and a third, and the lowest was twent
 
 Three points. Top to bottom, across all of it, three points.
 
-Seln did not move. He let his eyes go up the board to the bracket leaves, where the hall's other fighters were. He knew most of their figures from the wool town already; he had copied those too. The river academy's patient Blade had rated eighteen at one meet and twenty-seven at the other. The guild champion, whose figures Seln had found in an old meet record in the guild's own hall the night before, ran from fifteen to twenty-seven across his last two seasons. Brom of Halcenvane, in the space of a single morning at the wool town, had rated fifteen and twenty-three. Even Lira, who was the steadiest fighter Seln had ever watched, ranged across five points over the two meets.
+Seln did not move. He let his eyes go up the board to the bracket leaves, where the hall's other fighters were. He knew most of their figures from the wool town already; he had copied those too. The river academy's patient Blade, the one who had beaten Ephram on figures at the wool town and lost to him here, had figures on this one board running from nineteen to twenty-six. The guild champion, whose figures Seln had found in an old meet record in the guild's own hall the night before, ran from fifteen to twenty-seven across his last two seasons. Brom of Halcenvane, in the space of a single morning at the wool town, had rated fifteen and twenty-three. Even Lira, the steadiest fighter Seln had ever watched, had rated twenty-seven in the morning and twenty-five in the afternoon of the same day.
 
 That was what fighters looked like on paper: they wobbled. They had bad mornings and good ones. They over-reached at home and under-reached in the cold, and they met styles that suited them and styles that did not. Across a season their figures spread like shot from a fowling-piece, ten points, twelve. That was not a fault in the instrument; it was the instrument working. Five honest hands, struck at the extremes, reading five honest days.
 
@@ -94,7 +94,7 @@ They had not. Seln said so, to the file.
 
 The enrollee waited. There was nobody else within forty feet of the document table, and Seln had seen to it that there would not be, by being there at the one hour of the morning when the hall was empty and the stewards were at breakfast.
 
-Seln did not look up. "There is a matter of arithmetic," he said. "The office has noted it." "Six exhibition figures this season. Two towns, two panels, six opponents at four levels. From the highest of the six to the lowest is three points." He laid a sheet square on the stack. "Every bracket fighter in this hall runs across ten points in a season, or twelve. Yours spreads three. An honest instrument scatters. When it stops scattering, the cause is not usually the instrument." He laid another sheet on top of the first. "The office draws no conclusion. It notes only that pencils are cheap, and that other people own them."
+Seln did not look up. "There is a matter of arithmetic," he said. "The office has noted it. Six exhibition figures this season. Two towns, two panels, six opponents at four levels. From the highest of the six to the lowest is three points." He laid a sheet square on the stack. "Every bracket fighter in this hall runs across ten points in a season, or twelve. Yours spreads three. An honest instrument scatters. When it stops scattering, the cause is not usually the instrument." He laid another sheet on top of the first. "The office draws no conclusion. It notes only that pencils are cheap, and that other people own them."
 
 He closed the file. Then, in the voice of a clerk reading out the small print, he added one sentence more.
 
@@ -106,7 +106,7 @@ He picked up the file and went out through the arch toward the guest house witho
 
 The provision's second evaluation took ninety minutes at noon that day, in a panelled room on the hall's upper floor that the mill guild lent out by the hour. A committee on flour weights had the room before them, and a christening lunch after. Nothing in the whole meet was duller, which was the best thing about it.
 
-Cael timed it anyway, out of habit, on Hesk's travel clock, which ran an hour fast in tournament weeks because he set it so.
+Cael timed it anyway, out of habit, on the travel clock Hesk had sent him. Hesk, who had raised him in a workshop at the far end of the country, made instruments that measured true, and this one ran an hour fast in tournament weeks because Cael set it so.
 
 The committee room had a long table and a portrait of a dead miller over the fireplace, and the panel sat along one side of the table with their backs to the portrait. It was the panel of record Gault had written into his calendar at the end of last term, in his ruled lines: *Gault, with two.* The two were a registry officer from the district seat, a careful dark man who had plainly read the whole file in the coach on the way and had the page numbers ready, and the host region's senior examiner, a stout grey woman who had sat on the meet's own panels all week and who said very little.
 
@@ -152,7 +152,7 @@ Cael wrote it at the window of the guest house that afternoon, with his shoulder
 
 *Yesterday I chose a figure for five judges, and they wrote it down in good faith: twenty-four, a careful distance under par. Today three officers measured me against myself on a borrowed plate, and found me exactly as unchanged as I'd decided to be. One instrument reads a performance. The other reads a file. Neither has ever once touched the thing they're measuring.*
 
-*Inventory, while I'm here. Wind: four bursts of five on hard boards against the yard-master, the hip after, the left calf tight from the exchange I held. Pressure: flat at the plate again, right shoulder paying, four blows a sitting the cap and one used today. Compression: held at a sleeve's width from the ganger's hand. Not on any record here. Ember: none spent; nobody here asked for it. Shadow: deployment none. Still.*
+*Inventory, while I'm here. Wind: five of five on hard boards yesterday, which is all the day sells free on that floor. Four went to the yard-master and one to the academy Irons, and the Bronze got a step. The hip after; the left calf tight from the exchange I held. Pressure: flat at the plate again, the right shoulder paying. The cap is four blows a sitting, and today took one. Compression: held at a sleeve's width from the ganger's hand. Not on any record here. Ember: none spent; nobody here asked for it. Shadow: deployment none. Still.*
 
 *At the end the man from the district seat said "routine," and Gault said "routine" back, and they shook hands on it. Not long ago a file like mine went upstairs at a run. Today it's a word two officers trade over a sealed minute while a christening waits on the stair.*
 
@@ -168,15 +168,13 @@ He did it at the stove, with the coaching file open on his knee and the meet rec
 
 Cael stopped.
 
-"Six figures." Rooke turned a page of the file with one finger. "I've had them up beside each other since noon. They keep time like a metronome." He closed the file. "Twenty years of coaching, and I've turned out every kind of fighter there is except that one. A real fighter has bad mornings. He rates high where he's comfortable and low where he isn't, and he goes up and down like everyone else, because he's alive."
+"Six figures." Rooke turned a page of the file with one finger. "I've had them up beside each other since noon. They keep time like a metronome." He closed the file. "Twenty years of coaching, and I've never turned one out before."
 
 He stood up, and put the file under his arm, and went in to supper.
 
 That was all. He said nothing about why the figures were tidy, or what might have made them so, or what a coach might want to know about a fighter whose figures kept time. All of that stayed where Rooke always left such things: on the far side of the table, with Cael. That was Rooke all through. He would mend what was written on a sheet and never once ask what had written it.
 
 So Cael sat by the stove alone, with his coat across his knees, and built the correction himself.
-
-He had the four documents in his head now, side by side. Lira, on the rail at home, with two figures: *I'd keep an eye on them.* Seln at the document table, with six: *Variance is cheap.* Rooke, with the whole sheet: *a metronome.* And the arithmetic itself, which he had done in his own head on the night of the yard-master and not let himself look at. Three people had seen it, by three different roads. Anybody with a pencil could see it.
 
 Where the figures sat was not the trouble. Strong Iron, low in its range, a careful boy with good feet: that was what he had built, and it was holding. What would give him away was how close together they sat. A real Iron who fought six different people in two different towns would wobble. He would have a bad morning against a style that did not suit him. He would over-reach in front of his own house and under-reach on a cold floor. Six bouts, and he had stamped out the same figure every time, like coins from one die. He had been so careful to keep the instrument from seeing too much that he had shown it something else instead, and the something else was the care.
 
@@ -224,7 +222,7 @@ Lira was quiet for a while.
 
 "You did."
 
-"I'm not saying it to be right." She pulled her coat closer round her. "I'm saying it because I don't like being right about this one. It means the thing you're doing is good enough that you have to start doing it badly on purpose so nobody notices how good it is." She looked at him sideways. "Does that hurt?"
+"I'm not saying it to be right." She pulled her coat closer round her. "I'm saying I'm sorry I was." She looked at him sideways. "Does that hurt?"
 
 "It already does."
 
@@ -236,12 +234,8 @@ Cael went up.
 
 He sat late with the Log on his knees by a candle, on the end of the bed, with Brom already asleep across the room, and wrote the entry that the meet had been building toward all week.
 
-He set the season down in figures before he let himself write the sentence. Exhibitions this season: six bouts unbeaten, none lost. Opponents from the sixth rank of Iron to the fifth of Bronze, and a retired Rank Nine on his own floor. The figures inside a band he had chosen, and too tidy, and a program written to fix the tidiness. Lira had not lost a bout, and had two titles to show for it. Neither had Brom, with two of his own. Ephram had his first. Karis had placed twice and come home two lines richer. The house first in the hills and second in the river country. The sentence he had brought onto the road with him tested against a ganger, a vain man, two careful academy Irons, an old master of a floor and a cheerful man with nine questions, and holding every time.
+He set the season down in figures before he let himself write the sentence. Exhibitions this season: six bouts unbeaten, none lost. Opponents from the sixth rank of Iron to the fifth of Bronze, and a retired Rank Nine on his own floor. The figures inside the band he had chosen. Lira had not lost a bout, and had two titles to show for it. Neither had Brom, with two of his own. Ephram had his first. Karis had placed twice and come home two lines richer. The house first in the hills and second in the river country. The sentence he had brought onto the road with him tested against a ganger, a vain man, two careful academy Irons, an old master of a floor and a cheerful man with nine questions, and holding every time.
 
 Then the entry.
 
 *Rated again. In-band again. The judges keep writing numbers that mean "strong Iron, ceiling unknown," and the honest entry is: I can beat anyone at my tier. I've tested that sentence for three years and it holds. What I haven't tested is what tier means when the word points at me. Not this season's problem.*
-
-There was nothing in it he could find to be untrue. He shut the Log.
-
-Across the room Brom turned over in his sleep and settled. Below in the yard the lantern burned over the two wagons, whose road and hour anyone could buy for a copper, and beyond them the frost lay white on the fields all the way to the dark line of the hills. It was a country that had been measuring everything in it for as long as anyone had kept records, carefully and fairly and well. Six times this season it had pointed its finest instrument at him. Six times it had written down the number he had picked for it, and filed it, and gone on.

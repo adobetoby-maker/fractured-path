@@ -126,7 +126,7 @@ Nothing happened. The old man did not stop or turn or put up a hand. He had trai
 
 But the read did not lie about bodies, and the read showed Cael what the old man no longer knew. For the space of a quarter-beat, as the light crossed his eyes, the yard-master's weight hung. It was the faintest hitch. His eyes narrowed against the glare without his asking them to, and for that quarter-beat his body did not quite know where Cael was, and it waited to be told.
 
-He had stopped seeing his floor's light. Lira's guild champion had walked past his pillar for years without seeing it, and for the same reason: it had always been there. It was the one thing in the hall the old man had never priced.
+He had stopped seeing his floor's light. Nobody had ever mentioned it to him, because nobody who trained on these boards had ever needed it, and a thing that has always been there stops being a thing at all. It was the one feature of the hall the old man had never priced.
 
 Cael stood in the middle of the third exchange with the answer in front of him, and did a sum.
 
@@ -194,7 +194,7 @@ Cael did not answer.
 
 He meant it as a compliment. Cael thanked him for it, as a compliment, and did not say that this particular auditor kept his own books in two hands.
 
-The figure went up when the time was up: twenty-four. A strong Iron performance, a respectable distance below par. The yard-master's own figure, beside it, was twenty-three, which was more than the gallery had expected and, Cael thought, about right.
+The figure went into the record at the proper interval, to be posted with the others on the last morning: twenty-four. A strong Iron performance, a respectable distance below par. The yard-master's own, beside it, was twenty-three, which was more than the gallery would have guessed and, Cael thought when he saw it, about right.
 
 He sat on the bench at the rope afterward and pressed his thumbs into the left calf until he found the knot of it, deep, just below the bend of the knee. Lira came and sat beside him and watched him do it.
 
@@ -212,7 +212,7 @@ She did not say anything else. She took his hands away from the calf and put her
 
 In the afternoon he fought the two academy Irons, and neither bout asked much of him.
 
-The first was a hill-house fighter who had been told to test the story and who did, earnestly, for four exchanges, coming at Cael with everything his coach had given him and giving it to him in order, like a boy reciting a lesson. Cael gave him a careful bout back and touched him twice. The second was a cautious Shield from the house down the valley who had clearly come to find out what the story looked like close to, and who fought three exchanges mostly from behind his coverage, renewing it steadily and watching. Cael gave him a careful bout too. He spent one burst across the two bouts, from firm ground, and nothing else.
+The first was a hill-house fighter who had been told to test the story and who did, earnestly, for four exchanges, coming at Cael with everything his coach had given him and giving it to him in order, like a boy reciting a lesson. Cael gave him a careful bout back and touched him twice. The second was a cautious Shield from the house down the valley who had clearly come to find out what the story looked like close to, and who fought three exchanges mostly from behind his coverage, renewing it steadily and watching. Cael gave him a careful bout too. He spent one burst across the two bouts, from firm ground. That made five for the day. Five free bursts was what these hard boards would sell him between waking and sleeping, however he cut the day into bouts, so whatever the last challenger asked of him would have to be answered on foot.
 
 The figures were twenty-two and twenty-one, and the calf held, though it complained.
 
@@ -230,11 +230,15 @@ Afterward he came straight to the rope, still breathing hard, and leaned on it w
 
 "Most people don't. It went about a quarter-beat early. If you load the right before the left, you'll hide it."
 
-"And the burst in the second, when you went over my sweep. Was that the full distance?"
+"And the second exchange, when I swept low. You stepped over it. Why not burst?"
 
-"About twenty feet. That's my documented distance. It's in the wool town's record, if you want it in writing."
+"It was low enough to step. A step costs less."
 
-"And the landing? You stopped dead after it. Every time. Is that deliberate?"
+"And the burst, when you do burst. The record at the wool town says twenty feet. Is that the full distance?"
+
+"About twenty feet. That's my documented distance. It's in the record, if you want it in writing."
+
+"And the landing? This morning, against the yard-master, you stopped dead after every burst. Every time. Is that deliberate?"
 
 "No," said Cael. "It's a cost. It happens every time. I can't help it."
 

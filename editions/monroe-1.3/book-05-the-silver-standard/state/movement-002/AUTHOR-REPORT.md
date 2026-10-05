@@ -435,3 +435,81 @@ I did not run a separate density count. The figure is left to the editorial pass
 13. **FRE 87.5** remains above the 72.3 target, as in M1 and Book 4.
 14. **The man in a travelling coat** buying meet records at the coaching inn is unnamed. He is a hint for M3's market only, and may or may not be the grey-wool compiler; M3 decides.
 15. **Words: 34,949 (wc)**, inside 33,500–36,500.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place, against `REPAIR-BRIEF.md` and the coordinator's rulings (OWNER-DECISIONS #38 aligned; #39 formats). Each change was read and written by hand as a single exact replacement. No rule-driven splitting or joining was used. Only ch7–13 and this report were edited. The source chapters were not reopened. **No git commands were run.**
+
+### Burst ledger by day (Cael; the free budget is per day on a floor, not per bout)
+
+| Day | Floor (free price) | Bouts | Bursts | Note |
+|---|---|---|---|---|
+| d33–d34 | — | road; arrival | 0 | d34 evening: the soft pine pressed with a foot, no burst |
+| d35 | wool-town pine (five, "maybe four" by the wall) | the ganger | 2 | both from firm boards (ch9) |
+| d36 | wool-town pine | the town Bronze | 0 | six openings declined; footwork and plain touches |
+| d37–d55 | — | none on the page | — | road, home and the mill-town bracket days |
+| d56 | mill-hall hard boards (five) | the yard-master; the two academy Irons; the *curiosity* Bronze | 4 + 1 + 0 = **5** | yard-master *One… Three… Four, of five* untouched; one burst across the academy Irons; a **step** over the Bronze's low sweep. Five is the day's free price, so nothing is billed to the next morning (ch12, "That made five for the day…") |
+| d57 | committee room | the provision's evaluation (plate only) | 0 | Pressure flat; right shoulder one blow of the four-a-sitting cap |
+
+Lira, for reference: d35 debut, four bursts in three exchanges against her per-bout rate of three. The bill was paid at dawn on d38 with two days at half work (d38–d39).
+
+The ch13 Log inventory now reads: *five of five on hard boards yesterday… Four went to the yard-master and one to the academy Irons, and the Bronze got a step.* The road paragraph (calf and shoulder eased) agrees.
+
+### Changelist by chapter
+
+- **ch7**
+  - ¶ on the card: the card lists the hall, floor and bell of every *bracket* bout. Lira's first-bell slot is the example. Cael's place "was harder to print, because nobody had challenged him yet" (cold/editorial line fix).
+- **ch8**
+  - The fifth man's 15 is now "square in the middle of its band" (Copper 12–17).
+- **ch9**
+  - Standings: the river academy's second entry is anchored as "a Blade too, though not the coastal Blade she had beaten in the morning" (the two-Blades referent).
+- **ch11**
+  - ¶7: "rated three times now, once in a mock ring". ¶9: "two days away".
+  - The guild champion: "his third season at the head of the Iron here" (the split is a host option, ruling 1).
+  - **Ember (P1):**
+    - First exchange: Karis reads the flick, is already at the landing spot, and her palm meets Lira's shoulder in the landing beat; the ignition comes with the palm ("a contact's worth" kept).
+    - Third exchange: the fake flick draws Karis's long step and committed hand to a landing spot that stays empty; "No heat came, because there was nothing there for her palm to meet." Lira steps inside the unfinished turn.
+    - Every beat and line kept: the exchange count, figures 25/22, "Since Greyvane", "two lines", the tell, "You've been watching my *hand*", the forecast and "Your hip."
+  - "as she had stood in front of the Shield at the wool town" ("that morning" dropped).
+  - "But Lira did better than taking things away" (referent after Rooke's aside).
+  - Ephram's final: "the same one who had beaten him at the wool town".
+- **ch12**
+  - The pillar comparison is cut. The gable light now reads as discovered: "Nobody had ever mentioned it to him, because nobody who trained on these boards had ever needed it…"
+  - The yard-master's figure "went into the record at the proper interval, to be posted with the others on the last morning".
+  - The academy Irons: one burst, which "made five for the day". The per-day-on-a-floor clause (P2.3) is here.
+  - The *curiosity* Bronze's questions: "You stepped over it. Why not burst?" / "It was low enough to step. A step costs less." The documented-distance and landing questions are re-anchored to the record and the yard-master bout.
+- **ch13**
+  - Frost: "a hard frost… harder and whiter than anything they had met on the road" (no "first").
+  - "Cael's place" (referent).
+  - Seln's comparison figures are made checkable:
+    - the patient Blade, "the one who had beaten Ephram on figures at the wool town and lost to him here", runs 19–26 on this board;
+    - Lira rated "twenty-seven in the morning and twenty-five in the afternoon of the same day" (ch11's figures; replaces the "five-point range").
+  - Seln's speech is one continuous quotation.
+  - Hesk introduced in a clause ("Hesk, who had raised him in a workshop at the far end of the country, made instruments that measured true"). The clock now "ran an hour fast in tournament weeks because Cael set it so".
+  - Inventory: the burst count corrected (above). "The cap is four blows a sitting, and today took one."
+  - **Thesis cut to twice** (Seln's arithmetic; Cael's own "how close together they sat"):
+    - Rooke keeps only the metronome and "Twenty years of coaching, and I've never turned one out before."
+    - The "four documents" recapitulation is cut.
+    - Lira's tailboard line becomes "I'm saying I'm sorry I was."
+    - The pole inventory drops "and too tidy, and a program…".
+  - **Ending:** the closing paragraph is cut. The movement now closes on protected item 21 itself, at the coaching inn on the road home, as the map places it, ending "Not this season's problem." The travelling-coat reader's finger stays on the exhibition leaf earlier in the scene.
+
+### Before / after (formula_metrics.py, ch7–13)
+
+| Measure | Before r1 | After r1 | Range |
+|---|---|---|---|
+| Words (prose) | 34,880 | 34,846 | 33,500–36,000 |
+| Words (wc) | 34,949 | 34,915 | |
+| Sentence mean | 13.51 | 13.51 | ≥ 13.3 |
+| ≥40-word share | 3.3% | 3.3% | ≤ 4.0% |
+| ≤5-word share | 28.4% | 28.4% | ≤ ~34% |
+| Paragraph median | 30.0 | 30 | ≤ 30 |
+| Words per scene | 997 | 996 | 850–1,050 |
+| FRE / FK | 87.5 / 4.41 | 87.5 / 4.41 | (FRE reported, not chased) |
+
+Checks after the last edit:
+- `ed.sh overlap book-05-the-silver-standard 2`: **0 unprotected**, 14 protected. The seven packet lines are now covered by the coordinator's patterns.
+- `ed.sh gates`: 0/0/0 on all seven chapters.
+- `sweep_probe.sh book-05-the-silver-standard 2 2`: **skeleton 1%, close 6%** on 1,568 sentences. By chapter: ch7 0/7 · ch8 0/7 · ch9 2/6 · ch10 1/5 · ch11 0/3 · ch12 2/4 · ch13 2/7.
+
+Chapter word counts after r1 (wc): 4,901 · 4,647 · 4,552 · 4,386 · 6,255 · 5,255 · 4,919.

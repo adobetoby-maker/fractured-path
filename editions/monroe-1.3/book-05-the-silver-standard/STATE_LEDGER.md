@@ -252,3 +252,209 @@ Known carry-forward injuries the plan expects, to be confirmed from the prose:
 
 
 **Movement 1 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied (ch6 'average the middle three, add the three columns'; ch1 'Rent from waking, every day, spent or not.' — Book 4's word 'rent' restored). Overlap 0/13, gates 0, probe 2%/10%, mean 13.30.
+
+## AFTER MOVEMENT 2 — chapters 7–13 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- FORMATS (OWNER-DECISIONS #39): exhibition bouts at most five exchanges, two touches ends it, short of two the one with more, level the figure; REGIONAL bracket bouts two touches inside four exchanges, level after four the figures decide; CONTINENTAL (Norhold) bouts score points per exchange across up to five exchanges — stated once on the page at Norhold (M5). The Iron split at the fifth rank is a HOST OPTION the mill town exercised; the confluence (M4) runs ONE Iron draw. The draw rule: foot of the seeding against its head; Lira's first bout need not be the top seed again.
+- RATING SCALE #38 with the PER-AXIS strike (for each mark the high and low of five struck, middle three averaged, the three averages added). Cael's six exhibition figures 23⅓, 22⅓, 24⅓, 21⅔, 21⅓, 23 → posted 23, 22, 24, 22, 21, 23; spread 3.00 (top of Iron into low strong Iron). Lira's range checkable: 27 morning, 25 afternoon, same day. Ratings post at the proper interval (exhibition figures are not chalked on the day).
+- BURSTS are a PER-DAY budget on a floor ('Five free bursts was what these hard boards would sell him between waking and sleeping'); the mill-town day = five (four vs the yard-master — 'One… Three… Four, of five' — one across the academy Irons, and a STEP over the Bronze's low sweep, not a burst).
+- EMBER IS CONTACT ONLY (B4 ch54): in the Karis–Lira semifinal the first ignition is Karis's palm on Lira's shoulder in the landing beat; the third-exchange fake draws Karis's committed hand to an empty landing spot with no heat. Lira's left-hand tell before her bursts is spent; she will fix it ('I'd only fix it').
+- Titles: Lira and Brom two each across the two meets (Brom unbeaten: 'bouts unbeaten, none lost'); Ephram's first regional final; Karis third in a 'three-exchange family argument'. Page thirty-one via Bracken's 'front third' pays Karis's ch6 strip. The movement ends on the first pole (protected item 21) at the coaching inn: 'Not this season's problem.' Year counts not incremented. Cael's mock-ring ratings: once (23.00); rated three times by ch11.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane weekdays (day N falls on weekday (N mod 7)+1, with d0 a First-day). No season names, no month names, no month order.
+
+| Day | Weekday | Event |
+|---|---|---|
+| d33 | Sixth-day | First light: two wagons over the ferry; the two coats on the landing stay put. The south road. Night at a waystation |
+| d34 | Seventh-day | Afternoon: wool town. Credentials (the clerk's niece); validation ("adjacent to it"). Sixth bell: two challenges filed. Evening: the third floor's soft pine; Lira at supper |
+| d35 | First-day | Opening slot: Lira vs the Iron R7 Stone. Second floor: Brom vs the fifth man; Brom vs the buried Copper R4. Karis's two bouts; Ephram watched. Midday: "Good bracket." After noon: Cael vs the ganger |
+| d36 | Second-day | Morning: Cael vs the town Bronze. Brackets finish (Lira the Iron title; Brom the Copper). Dusk: standings, second of six; Rooke's review |
+| d37 | Third-day | Wagons at first light; item-20 Log. At the wool town: the record posts at the first bell; the Bronze protests; ruling before noon. Evening: the courier at the waystation |
+| d38 | Fourth-day | Dawn: Lira's warm-up, half work d38–39. Home by evening |
+| d39 | Fifth-day | Half work on the oak; Brom "in sympathy"; Lira's band warning; Lira teaches the reserves |
+| d45 | Fourth-day | Evening: Bracken on the stair with the annotated manual |
+| d46–d52 | — | The road west, a week. Gault offers the manual on the third evening (d48); frost on the blankets on the fourth morning (d49) |
+| d53 | Fifth-day | Afternoon: the mill town; the hall; the board; the Iron split; Lira sees the pillar |
+| d54 | Sixth-day | Copper and the upper Iron's early rounds. Cael charts four bouts (eleven minutes). Brom takes Copper. Evening one: the architecture; p31 marked |
+| d55 | Seventh-day | Morning: Lira vs the guild champion. Early afternoon: Karis vs Lira. Afternoon: Ephram's upper-Iron final; Lira's lower-Iron final (two exchanges). Supper (Ephram pays). Evening two: page thirty-one |
+| d56 | First-day | Second bell: the yard-master. Afternoon: the academy Irons; the *curiosity* Bronze. Night: first hard frost; the stove night |
+| d57 | Second-day | First bell: record posted; Seln. A quarter past the second bell: "Variance is cheap." Noon: the provision's second evaluation, renewed. Afternoon: standings, first of five; the Log. Evening: Rooke's metronome; the program |
+| d58 | Third-day | Wagons at first light; Lira on the tailboard |
+| d59 | Fourth-day | Second night, a coaching inn: the records buyer; the first pole. (Home about d64 by the week's road; not on the page.) |
+
+**Every rating figure in the movement (#38: five judges; high and low struck; middle three averaged; marks to fifteen; ten = par; ratings to forty-five; par thirty).**
+
+| Bout | Result | Figure(s) | Band |
+|---|---|---|---|
+| Cael vs the ganger (Iron R6), wool town | 1–0 in five (exhibition) | **23.33 → 23** | strong Iron |
+| Cael vs the town Bronze (R3), wool town | 2–1 in three | **22.33 → 22** | strong Iron (below a Bronze's own band, about 25+) |
+| Cael vs the yard-master (retired Iron R9), mill town | 2–1 in five | **24.33 → 24**; the yard-master 23 | strong Iron |
+| Cael vs the academy Iron (hill house) | 2–0 in four | **21.66 → 22** | strong Iron |
+| Cael vs the academy Shield (valley house) | 2–0 in three | **21.33 → 21** | Iron |
+| Cael vs the *curiosity* Bronze (R5) | four exchanges | **23.00 → 23** | strong Iron |
+| **Spread of the six** | | **3.00 (21.33–24.33)**; Seln: "three points… inside four on any rounding" (he says "three points") | |
+| Lira vs the Iron R7 Stone | 2–1 in three | 26 | strong Iron / Silver-touched |
+| Lira vs the guild champion (Iron R4) | 2–1 in four | 27 | Silver-touched |
+| Lira vs Karis | 2–1 in three | Lira 25, Karis 22 | |
+| Brom vs the fifth man | conceded after one exchange | 15 | Copper |
+| Brom vs the buried Copper R4 | 2–1 in four | Brom 23, her 22 | |
+| Brom, mill-town Copper | three wins | 19, 21, 18 (third opponent 19) | |
+| Ephram vs the river Blade (upper-Iron final) | 2–1 in four | 26 | |
+| Karis, wool town, two bouts | wins | "low twenties" | |
+| Seln's comparison figures | | the river Blade 18 and 27 across two meets; the guild champion 15–27 across two seasons; Brom 15 and 23 in one morning; Lira about five points across two meets | |
+
+Bracket formats as now on the page:
+- Bracket bouts: two touches inside four exchanges; level after four, the figures decide.
+- Exhibitions, under the old provision: five exchanges at most; two touches ends it; short of two, the one with more touches; level, the figure.
+- Ratings round at the foot. The mill-town clerk chalks composites to two places, as the wool town's printed record did.
+
+**Standings.**
+- Wool town: Halcenvane second of six (the river academy first, on nine Irons).
+- Mill town: Halcenvane first of five (upper Iron, lower Iron and Copper).
+- Exhibitions: **six bouts unbeaten, none lost.**
+- Brackets:
+  - Lira has lost no bout, with two titles (wool-town Iron; mill-town lower Iron).
+  - Brom has lost no bout, with two (Copper at both).
+  - Ephram has one title (mill-town upper Iron), his first.
+  - Karis placed at both meets (out in round three at the wool town; lost the mill-town semifinal).
+
+**Bodies.**
+- **Cael:**
+  - Left calf tight from the yard-master's third exchange (the held exchange), eased on the road and not yet clear.
+  - Right shoulder: the plate's plain ache, one blow of the four-a-sitting cap, a day.
+  - Hip: the usual bill after four bursts on hard boards.
+  - Shadow rent from waking; drifts not mentioned this movement; deployment none.
+- **Lira:** the debut's bill (shoulder tight for a quarter hour; the landing hip on squats) cleared by two days of half work, d38–39. Fit at the mill town; sound at close.
+- **Brom:** left forearm, wrist to elbow, bruised by the hinge funnel (d35). It was yellow-green by d39, he fought the mill-town Copper on it, and it was yellow at the edges on the road. No other knock.
+- **Karis, Ephram:** fit.
+
+**Fragments and progression.**
+- Six confirmed plus the anomaly (not touched this movement). No new capability, and no change to the public record.
+- **Wind:** documented rate only.
+  - The ganger: 2 bursts on pine (Cael's estimate: five free there, perhaps four).
+  - The town Bronze: 0 noted.
+  - The yard-master: 4 of 5 on hard boards.
+  - The academy Irons: 1 between them.
+  - The *curiosity* Bronze: not counted; the burst's documented distance is quoted aloud.
+- **Read:** used throughout as "peculiar timing"; the gable-light hitch was read through it.
+- **Compression:** held at a sleeve's width (the ganger).
+- **Pressure:** flat at the plate again.
+- **Ember:** none spent.
+- **Shadow:** none.
+- New technique, not a fragment: herding by increments of refused angle; reading soft floor; the rhythm herd into the light.
+- **The engineered-scatter program** is designed and costed in the Log (four items). It begins at the next meet.
+
+**Knowledge.**
+- **Cael** knows:
+  - the Standard's procedure from the table (blind slates; the clerk; eleven minutes);
+  - the manual's architecture and page thirty-one (item 8) — the instrument leans downward and the office has ruled that it doesn't count;
+  - that the ganger, the adjudicator, Lira, Seln and Rooke have each seen *something* (management, or the narrow spread), and that none of them knows what;
+  - that meet records are bought by men in travelling coats.
+- **Karis** knows page thirty-one: she copied it from Rooke's own-cycle copy on the night of the mock bouts, and her strip is still in his book. She knows Lira will throw away a tell, and how long Lira takes to find someone's eyes. The note in the founding articles was not touched.
+- **Seln** infers that the boy is *setting* his figures. He says so as arithmetic, no more. He does not know the mechanism and does not try to imagine it. He arranged the empty hour at the document table, and no reason is given.
+- **Rooke** has seen the metronome and corrected the sheet, not the cause. He has written "more than one line" about the ruling. He has not found Karis's strip, or has not mentioned it.
+- **Bracken** read the whole annotated manual and pointed Cael at "the front third". Whether he saw the blind spot is implied, not stated.
+- **Lira** saw the band's shape with two figures and said so. She knows the program exists.
+- **Brom** knows the buried Copper is kept low, and wants "somebody" to file for her.
+- **The adjudicator, the ganger and the yard-master** each know only that he held back. The yard-master knows the fifth exchange was bought, and promised to tell nobody.
+
+**Resources.**
+- The annotated examiner's manual (present cycle), in Gault's case.
+- The wool-town record and ruling, and the mill-town record, in Seln's travel file.
+- Ephram's *Iron, upper draw* certificate and his own file book.
+- Karis's *Wool town* notebook section and her brown copybook.
+- Gault's finished letter (fourth draft) to the frame-maker.
+- The provision's renewal minute, sealed.
+- The travelling plate, in its felt bag.
+
+**Relationships.**
+- **Lira:** the out-loud argument, now about the band's shape. She leans on him on the tailboard.
+- **Karis–Lira:** "a family argument" with a forecast.
+- **Brom:** a fight bought and sold in public.
+- **Ephram:** trade partners; "you're owed".
+- **Rooke:** the near-silence continues ("what a coach is for").
+- **Seln:** one sentence, to the file.
+- **Gault:** shares the joke of the handle with Cael across a panel table.
+
+**Open threads.**
+- Opened:
+  - The engineered-scatter program (next meet).
+  - The man in the travelling coat who buys meet records (M3's market).
+  - The buried Copper's coach ("keeping"), carried only if wanted.
+  - Lira's spent tell.
+  - The mill-town Iron split (see owner flag 1).
+- Advanced:
+  - The "undersold" story.
+  - The ruling (Ephram predicts a frame; M4's innkeeper frames it).
+- Closed:
+  - Karis's strip (paid as page thirty-one).
+  - The first pole, written.
+
+## New canon minted (flag where marked)
+
+- **The exhibition format under the old provision (flag).** Five exchanges at most; two touches ends it; short of two, the one with more; level, the figure. Exhibition figures go into the meet record, which at the wool town posted the next morning; they are not chalked on the bracket board on the day.
+- **The wool town (texture).**
+  - The sheep market's pen rows roofed, with pine boards over the cobbles. The main floor's ramp over the old footings, high side to the hall.
+  - The third floor: a roped square of about thirty feet against the old market wall with drovers' iron rings; the pine sags about two strides out from the wall. Ephram's tip, half right ("wrong about the floor and right about the wall").
+  - Two boards in the square: the meet card and a chalked odds board.
+- **Roles (no names).**
+  - Wool town:
+    - The credentials clerk (about fifty); his niece at the river academy, who paid for a certified copy of the Greyvane transcript.
+    - The validation officer (she; grey hair cut short); her margin note *provision, extract*.
+    - The exhibition steward (thin, with a cold), cousin to the town Bronze R3.
+    - The ganger: Iron R6 of the quarry guild; runs gangs in the pits.
+    - The river academy: its first entry an Iron R7 Stone, the top seed; its second entry an Iron R5 Blade, "patient".
+    - The fifth man (about fifteen) and his grey-bearded coach, who concedes.
+    - The buried Copper R4 (she, about eighteen, Iron Skin); her lean coach in brown, "keeping".
+  - Mill town:
+    - The mill-town steward (cheerful, square; a former apprentice of the yard-master).
+    - The guild champion: Iron R4 Force; holds the lower-Iron title two seasons running; source R5, changed (flag 4).
+    - The yard-master: retired Iron R9.
+    - The academy Iron from a hill house; the Shield from a house down the valley.
+    - The *curiosity* Bronze R5: half guild, half academy, ink on his fingers, nine questions.
+    - The panel of record's two: a district-seat registry officer (a careful dark man) and the host region's senior examiner (a stout grey woman).
+  - Road home: a man in a travelling coat at the coaching inn.
+- **Results (flag).**
+  - Wool town:
+    - Lira won the Iron final over the river Blade.
+    - Brom won the Copper.
+    - Karis lost in round three, and Ephram his semifinal on figures, both to the Blade.
+    - Second of six.
+  - Mill town:
+    - Iron split at the fifth rank by the host "as the charter allowed" (flag 1).
+    - Lira won the lower Iron: the guild champion in round one, Karis in the semifinal, a valley Stone in the final in two.
+    - Ephram won the upper Iron over the Blade.
+    - Brom won the Copper.
+    - First of five.
+- **Lira's tell (flag).** Before a burst her left hand opens, a flick of the fingers. Karis had it on file "since Greyvane" and spent it. Lira now knows, and will "fix it"; she also knows that Cael watches her hip.
+- **Rooke's rate rule for Lira.** "One extra burst is a fair price for a wall… Two in one bout is a habit… I'll tell you when you can."
+- **Bracken and the annotated manual (flag).** Bought on the records budget the day the card came up. Brought to the top of the second floor's stair (he does not walk onto the floor). "You'll want the front third."
+- **Page thirty-one (flag).**
+  - In the present-cycle edition, the rule (item 8) sits about thirty pages in, with the office's note printed under it.
+  - In Rooke's own-cycle copy, the rule sits about a third of the way in, in "a chapter on the panel's conscience", and the note is written in the margin in an old examiner's ink.
+  - Karis's strip is still in Rooke's book.
+- **The rating table's procedure.** Small upright boards between judges; slates face down; one clerk; eleven minutes, bout to board, steady to within a quarter of a minute.
+- **The mill guild's hall.**
+  - The crane-beam track runs out through a slot in the east gable. In the morning the gable slot throws a narrow bright bar on a north-east to south-west diagonal across the main floor.
+  - The tool racks stand along the west end; the loading doors are at the east.
+  - The pillar near the north-west corner stands a stride in from both ropes.
+  - The second room is the old dressing shop, with stone-grooves in its floor.
+- **The provision's second evaluation (C8).** A committee room lent by the hour (between a flour-weights committee and a christening lunch). The travelling plate (a brass twin of the wing's, carried in a felt bag in Gault's case) was dropped on by the guild's shaft-proving frame. Ninety minutes, timed on Hesk's travel clock, which runs an hour fast in tournament weeks.
+- **Gault's letter.** The fourth draft; *profoundly* struck. Lira's advice: "That it's being used." The registry officer admires the stitching.
+- **Ephram.** The late half-turn of the front foot after the heel, then three different entries. *Iron, upper draw* is his first title, and he keeps his own file now.
+- **Seln's sentence (recomposed around the packet's line).**
+  - "There is a matter of arithmetic… The office has noted it."
+  - "An honest instrument scatters. When it stops scattering, the cause is not usually the instrument."
+  - "pencils are cheap, and… other people own them."
+  - **"Variance is cheap. Buy some."**
+- **Rooke's remark.** "They keep time like a metronome… A real fighter has bad mornings… because he's alive."
+- **The engineered-scatter program (Log).**
+  1. A slow first exchange against grapplers and leverage men, two points off.
+  2. A conceded point when the light is behind him, the floor soft or the crowd loud.
+  3. Three points up once a meet, on a good floor.
+  4. Rotated, and costed in advance.
+
