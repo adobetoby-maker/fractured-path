@@ -20,7 +20,7 @@ Rooke had changed the floor. The long room had a ring on it tonight, chalked in 
 
 It was an old book, thick, bound in a brown cloth that had faded nearly to grey, its spine broken in two places so that it fell open of its own accord.
 
-"The examiner's manual," said Rooke. "My copy. My cycle. The adjudication office issues one to every panel, and every coach who ever fought under the Standard has stolen one." He laid it open on the trestle in front of the middle chair. "Tonight this floor is a meet floor and these five chairs are a panel. Two bouts. Each to two touches inside four exchanges, the way the meets run them. Each fighter rated by all five of us on the three words. Strike high, strike low, average three, add three, and I read the figure out loud where everybody can hear it."
+"The examiner's manual," said Rooke. "My copy. My cycle. The adjudication office issues one to every panel, and every coach who ever fought under the Standard has stolen one." He laid it open on the trestle in front of the middle chair. "Tonight this floor is a meet floor and these five chairs are a panel. Two bouts. Each to two touches inside four exchanges, the way the meets run them. Each fighter rated by all five of us on the three words. Strike high, strike low, average the middle three, add the three columns, and I read the figure out loud where everybody can hear it."
 
 "And the point?" said Lira, from the rope.
 

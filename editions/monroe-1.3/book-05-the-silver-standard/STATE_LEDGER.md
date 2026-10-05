@@ -115,7 +115,7 @@ Known carry-forward injuries the plan expects, to be confirmed from the prose:
 - **M8:** Brom's far shoulder (the third-place trial).
 - **M9:** Cael's ignition-forearm burn, the left side shoulder to hip, the frameworks destabilized and then resettling across the road home. The Storm stability flag still stands at close.
 
-## AFTER MOVEMENT 1 — chapters 1–6 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 1 — chapters 1–6 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - THE RATING SCALE (OWNER-DECISIONS #38, default in force): five judges; each marks execution, control, effect on a scale that runs PAST ten to fifteen, ten = par (an ordinary good day for Silver, fifth rank); high and low totals struck, middle three averaged; a rating runs to forty-five; par thirty. Bands: Copper 12–17; Iron 18–21; strong Iron to Silver-touched 22–27; Silver 28–34 (par in its heart); Gold 35+. Bronze lies across the top of 22–27 (Rooke's aside) and is never on a card; the tournament brackets four tiers (Copper, Iron, Silver, Gold). Every worked figure in ch5–6 stands.
@@ -250,3 +250,5 @@ Known carry-forward injuries the plan expects, to be confirmed from the prose:
 - **Pine floors at the wool town (flag, M2 terrain):** they give on the left side of the main hall, by the old wall (via Ephram's cousin's house).
 - **The fair copies** of the card for each of the five.
 
+
+**Movement 1 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied (ch6 'average the middle three, add the three columns'; ch1 'Rent from waking, every day, spent or not.' — Book 4's word 'rent' restored). Overlap 0/13, gates 0, probe 2%/10%, mean 13.30.

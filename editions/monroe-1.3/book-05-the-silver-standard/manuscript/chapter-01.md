@@ -116,7 +116,7 @@ He stopped there, because the next part was the part that cost, and wrote it as 
 
 *Karis's spark, by her leave, in her hand. Four instants on a copper pot in front of the Compact's chairs. Two contacts a bout on a public floor; that's our rule, not theirs.*
 
-*The quiet thing from the stair. Never used. Costs from waking, every day. Drifts in the gaps, one this week. Useful where: nowhere yet. This is the second year of that answer.*
+*The quiet thing from the stair. Never used. Rent from waking, every day, spent or not. Drifts in the gaps, one this week. Useful where: nowhere yet. This is the second year of that answer.*
 
 *And the one I can't account for, the still place from session nine, which has stood at the foot of this list two years running. I can't call it back and I can't say why it came. It isn't a seventh, and I won't count it until I know what I'd be counting.*
 
