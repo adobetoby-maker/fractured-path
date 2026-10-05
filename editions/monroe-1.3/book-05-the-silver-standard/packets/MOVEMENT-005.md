@@ -8,6 +8,8 @@
 - Owner names: no new names. Use Daeva, Umber, Zerin, Marek, Ivenne, Ilsev, Havel and Vastin. The Concourse steward and the boy with the likeness stay unnamed.
 - Read before drafting: source `chapter-08.md` and `chapter-09.md`. The previous ending is `manuscript/chapter-26.md`. From `BOOK_MAP.md`, read §2 items 25–26, §3 A (road sparring; opening rounds) and E 5–6, §5 (Umber, Vastin, Havel), §6 (calendar), §10 items 11–12, 14, 17 (the Daeva first-read log), 40, and §11–§12 (C4, C14). Also `STATE_LEDGER.md`.
 
+[Coordinator 2026-10-05, OWNER-DECISIONS #39: at Norhold, continental bracket bouts score points per exchange across up to five exchanges. State this ONCE on the page when the continental format is first met. It carries Brom's 'round-two five-exchange bout' and the Lira–Zerin arithmetic.]
+
 ## Where we enter
 
 The delegation is in its first week on the seventeen-day road to Norhold, two wagons running downhill with the melt [B4-reconciled 2026-10-05: "spring" dropped, #35]. Rooke, Gault, Seln and the reserves travel; Withrow and Bracken will catch up. Cael charts the road as an education. The draw has not posted. Nobody at Halcenvane has seen Daeva closer than a woodcut.

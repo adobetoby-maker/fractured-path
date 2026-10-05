@@ -8,6 +8,8 @@
 - Owner names: no new names. The caravan captain, the barge-master, the confluence Rank 7 and the third-year reserves (use Path tags) stay unnamed.
 - Read before drafting: source `chapter-07.md`, and source `chapter-13.md` (its caravan-captain reference, and the Silver weave this movement must not pre-empt). The previous ending is `manuscript/chapter-19.md`. From `BOOK_MAP.md`, read §2 items 20–24, §3 A (fourth-meet rows; caravan captain), B 5–6, E 3–4, §5 (Vastin, Havel, Seln), §8 (caravan captain, barge-master), §10 items 9–10, 39, and §11–§12 (C2, C3, C11). Also `STATE_LEDGER.md`.
 
+[Coordinator 2026-10-05, OWNER-DECISIONS #39: the confluence runs ONE Iron draw (no split). Seeding follows foot-against-head; do not make Lira's first bout the top seed a third time running. If Lira wins the title with Ephram second and Karis third, stage or at least name Lira's win over Ephram in that draw. Regional bracket bouts: two touches inside four exchanges; level after four, the figures decide.]
+
 ## Where we enter
 
 The road home from the quarry town runs two days out of the hills. Cael's shoulder-seam is on its last half-day of rest. Two sheets, Zerin and Marek, ride in the delegation's file. Halcenvane needs "one ordinary result" at the fourth meet. The middle third of the book starts here, so the teaching density steps down to turning points.

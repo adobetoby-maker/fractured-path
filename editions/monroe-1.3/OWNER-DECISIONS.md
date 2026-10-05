@@ -80,7 +80,7 @@ The Book 5 plan was reconciled to the closed edition Book 4 (`book-05-the-silver
 
 ## #38 — Book 5's rating scale (coordinator default, 2026-10-05; B5 M1 review)
 As drafted, each judge's marks ran "out of ten" with ten as par. That made thirty the ceiling: "Above thirty: Gold" could never be reached, and par sat at the top of Silver. **Default in force:**
-- **Marks.** Each judge gives execution, control and effect a mark on a scale that runs PAST ten, to fifteen. Ten is par: an ordinary good day for Silver, fifth rank. Five judges mark; the high and low totals are struck and the middle three averaged. A rating can therefore run to forty-five, and par is thirty.
+- **Marks.** Each judge gives execution, control and effect a mark on a scale that runs PAST ten, to fifteen. Ten is par: an ordinary good day for Silver, fifth rank. Five judges mark; for each of the three marks the highest and lowest of the five are struck and the middle three averaged, and the three averages are added (the per-axis strike, as on the page in ch5/ch11). A rating can therefore run to forty-five, and par is thirty.
 - **Bands.**
 
   | Rating | Band |
@@ -96,3 +96,11 @@ As drafted, each judge's marks ran "out of ten" with ten as par. That made thirt
 - **Movement 2.** The coordinator re-scales MOVEMENT-002's Seln figures to this scale.
 
 The owner may choose a different scale. Whatever scale is chosen must let Gold be reached and must give Bronze a place.
+
+## #39 — Book 5 bout formats and the mill-town Iron split (coordinator default, 2026-10-05; B5 M2 review)
+These are defaults, and none blocks drafting:
+- **Exhibition bouts** (the demonstration provision): at most five exchanges. Two touches ends the bout; short of two, the fighter with more touches wins; if touches are level, the figure decides.
+- **Regional bracket bouts:** two touches inside four exchanges. Level after four, the figures decide.
+- **Continental (Norhold) bracket bouts:** a different regime. Points are scored per exchange across up to five exchanges. The rule is stated ONCE on the page at Norhold (M5), and it carries Brom's "round-two five-exchange bout" and the Lira–Zerin arithmetic in BOOK_MAP §8 ("naught-three, two-one, one-two, one-three").
+- **The Iron split at the fifth rank** is a HOST OPTION the charter allows. It is not custom. The mill town exercised it; the confluence (M4) runs one Iron draw. The ledger records which meets split.
+- **The draw rule** (foot of the seeding against its head) stands. Lira's first bout need not be the hardest every time; M4 varies it.
