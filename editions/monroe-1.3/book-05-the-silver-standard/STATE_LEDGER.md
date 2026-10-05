@@ -114,3 +114,139 @@ Known carry-forward injuries the plan expects, to be confirmed from the prose:
 - **M7:** Cael's left hip flexor and right-hand channel-burn (four days).
 - **M8:** Brom's far shoulder (the third-place trial).
 - **M9:** Cael's ignition-forearm burn, the left side shoulder to hip, the frameworks destabilized and then resettling across the road home. The Storm stability flag still stands at close.
+
+## AFTER MOVEMENT 1 — chapters 1–6 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- THE RATING SCALE (OWNER-DECISIONS #38, default in force): five judges; each marks execution, control, effect on a scale that runs PAST ten to fifteen, ten = par (an ordinary good day for Silver, fifth rank); high and low totals struck, middle three averaged; a rating runs to forty-five; par thirty. Bands: Copper 12–17; Iron 18–21; strong Iron to Silver-touched 22–27; Silver 28–34 (par in its heart); Gold 35+. Bronze lies across the top of 22–27 (Rooke's aside) and is never on a card; the tournament brackets four tiers (Copper, Iron, Silver, Gold). Every worked figure in ch5–6 stands.
+- YEAR COUNTS NOT INCREMENTED (Book 5 ch1 is ~twelve weeks after Book 4 ch62): the landing beat 'three years'; Compression unseen 'two years'; the anomaly 'two years running'; Lira's bursts 'three years'; the watchers 'two years'. Protected item 21's 'three years' unchanged (#37 O3).
+- CALENDAR: the response went down on the morning courier of the Sixth-day (d12); the memorandum's fourteen-day deadline lapsed on d21, crossed off, Bracken did not resubmit ('a true record… did not get any truer for being sent twice'); the card came up on the Fifth-day (d25): 'Thirteen days'. No season names ('A note for the cold term.'); house weekdays; no month order.
+- Bracken known 'a year'; the clause 'forty years ago, before you were born'; Seln on 'the last line' of the roster list. The charter's founding articles are older than the schedule where Karis found the provision and older than the clause, 'before the registry's last standardization'.
+- New canon accepted: the fourteen Silver students and one Gold on the hill are teaching fellows (the fellows' book, not the enrollment record); Vastin's recess room unlocated; the routing slip carries TWO INITIALS Vastin cannot place (new private thread — unresolved; carry forward); Hesk's reply letter; the buried Copper Rank Four is 'she'; seeds for M2: the page Karis marked in Rooke's manual; the wool town's pine floors.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Day 0 is convocation, a First-day; Halcenvane weekdays run First-day … Seventh-day, and Fifth-days fall on days 4, 11, 18 and 25. No season is named. No month is named, and no month order is given. The only date-names in the movement are the B4 recollections (the eleventh of Sowing; the note of the twentieth of Reaping). The first meet falls on about day 35, two days' drive south (the wool town).
+
+| Day | Weekday | Event |
+|---|---|---|
+| d−1 | (last day of the recess) | Dawn on the sprung oak: six bursts, the trial, one drift. Night: the Log closes the recess (inventory; "Open the year and find out.") |
+| d0 | First-day | Convocation at the second bell (Withrow's three numbers). The board in the covered walk (travel roster of eleven). Afternoon: the porter rechalks the long wall; the term counter rota replaces the recess sheet |
+| d4 | Fifth-day | Roster submission in the hour after the morning session (the entry instrument; the certification). The noon courier and ferry. Afternoon: the counter ("Pack for the third one…"). Fourth bell: Gault (the panel travels; the handle). Supper; the letter to Hesk; the item-19 Log |
+| d5 | Sixth-day | Seventh bell: Rooke's first squad session; Ephram's sheet signed; the learning fight; the profiles table; the broom in the common room |
+| d7 | — | The memorandum dated by the regional office |
+| d8 | Second-day | First bell: the memorandum at the records-hall counter. Withrow's sentence via Bracken. Night one of drafting |
+| d9 | Third-day | Afternoon: Karis finds the third schedule's line and runs up the stair |
+| d10 | Fourth-day | Night three: Bracken checks the four pages |
+| d11 | Fifth-day | Sixth bell: Withrow signs with Cael present |
+| d12 | Sixth-day | The response goes down on the morning courier. Second bell: Ephram's first supervised session. The silence begins |
+| d16 | Third-day | Hesk's reply by the evening coach (the fourth day of the silence) |
+| d17 | Fourth-day | Ephram's second session (*Better. Both.*) |
+| d18 | Fifth-day | Coursework at the counter ("Mm"). Evening, the sixth of the silence: Lira on the wall, with the card. The Log, *wealth* |
+| ≈d14–d24 | — | (Vastin, off the bluff) The advisory written and filed the day the request arrives. Silence. On the tenth day after, the printed card reaches him for information |
+| d25 | Fifth-day | Third bell: the card at the records-hall counter. Evening: the house moves (targets posted, cover sheet dated, forms filled); Ephram on the pine floors. The card Log at the rail |
+| d28 | First-day | Evening (first of the fifth week): the map-room briefing (Rooke's card; the Standard). Night: the honest want, and the managing, in the Log |
+| d29 | Second-day | Eighth bell: the mock exhibition |
+| d30 | Third-day | Late: Karis's note ("A note for the cold term."). The window; five days out |
+
+**Bodies.**
+- **Cael:** fit. Rested the hip on d30 by Rooke's order, after four bursts on the second floor's boards (worth five there). A stung left forearm from Ephram's lath (d29), a day's matter. The right shoulder is unused. Shadow rent runs from waking; drifts are in the gaps only; one in the last recess week. Zero deployment anywhere.
+- **Lira, Brom, Ephram:** fit. Ordinary floor knocks from the mock bouts. Brom's right fist is strapped from habit, healed.
+- **Karis:** fit.
+
+**Fragments and progression.**
+- Six confirmed plus the anomaly (uncounted). No new capability, and no public record changes.
+- In the mock bout Cael used only the public suite at documented rates (Wind bursts and the read). No Ember was used: Rooke's frames were "Feet only", and the bout used no contact technique.
+- Compression and Pressure were held. The forearm touch is costed in prose as the doctrine's price.
+- The Wind ceiling stays six on the sprung oak (about five on the second floor's boards). The landing beat is unshortened; the back-foot trial is logged as "a trial, not a gain".
+- New learned technique, not a fragment: **the heel correction against the second-year entry**, about one in three, then two in three, with the plain-entry mix still unsolved. Plus reading Ephram's shoulder drop. Both are skill, not capability.
+
+**Knowledge.**
+- **Cael** knows the Standard's architecture (marks, strikes, par thirty, the bands, weighting, exhibitions rated for the figure only). He has priced Lira, Brom and Ephram correctly ahead of the panel. He knows the abbreviation on the card and that some unseen hand let the advisory go through; he does not know Vastin wrote it. He saw Karis mark a page in Rooke's manual (he does not know which), and he saw her write a note in the founding articles (he does not know what).
+- **Karis** has the third schedule and the exhibition provisions; the note (contents unknown to anyone); and the marked page.
+- **Seln** said one sentence at the counter. Nothing was passed between them, and nothing was said of the B4 slip. "Thank you for the form." / "Mm." weekly.
+- **Vastin** knows the advisory, the routing slip's unknown initials, and that the roster stands. He has no knowledge of fragments and no suspicion of Seln.
+- **Rooke** has come as near as he ever has to asking, and has not asked.
+
+**Resources.**
+- The entry instrument, with its registry line.
+- The certified enrollment record, sent.
+- The memorandum; the four-page response (sent on the d12 morning courier); the printed card (a fair copy for each of the five).
+- Rooke's forty-one profiles (the delegation's) and his yellow rating card, left on the bench and returned.
+- Rooke's examiner's manual, with Karis's strip in it.
+- Gault's case with the handle.
+- The buff travel forms, filled in.
+- Hesk's reply, behind the observation notebook's front board with the pine-case note and "Sixteen suits you" (three sheets now).
+
+**Relationships.**
+- **Ephram:** "from rival to colleague" moves to trade partners (heel for shoulders). He takes the rating and minds losing the bout.
+- **Lira:** the procedure, "Who signed it?"; Cael lets her coach the broom.
+- **Brom:** priced at twenty-four by strangers' method, and the first sign he believes it.
+- **Withrow:** her reasons given once; he need never wonder.
+- **Rooke:** the near-question.
+- **Gault:** marks what the manual says.
+
+**Watchers.** Two and two on the bell, all movement. The recess's one dated change (a third coat at the ferry landing for one change, a market day in the ninth week of the recess) appears once, in the Log.
+
+**Open threads.**
+- Opened:
+  - The page Karis marked in Rooke's manual (the seed for "page thirty-one", M2).
+  - The buried fair-day Copper Rank Four (for Brom's M2 bout).
+  - The pine floors at the wool town.
+  - Lira's letter to Fiske, unanswered.
+  - The routing slip's two letters (Vastin, private).
+- Advanced: the note in the founding articles (one touch; to be kept unopened this book).
+- Closed: the roster question (printed); Ephram's "next term" sheet (signed d5).
+
+**Prose vs plan differences.**
+- (a) "A note for winter." became "A note for the cold term." (owner flag 1).
+- (b) The map-room briefing teaches the Standard through Rooke's own rating card. The scoring arithmetic is now concrete canon (owner flag 3).
+- (c) Hesk's letter sits in ch4, during the silence.
+- (d) Withrow's order-of-operations speech is mine. The source's wording is not used, and neither is the inspection line.
+- (e) Vastin's room is not the source's "western administration, third floor, river side". It is a high room in the Compact's house with a court and pigeons. No location is named.
+- (f) Gault's next evaluation is called "the provision's second" (per §12 C8 / N4).
+
+## New canon minted (flag where marked)
+
+- **The recess's one dated change (flag, O7):** a third coat at the ferry landing for one change on a market day in the ninth week. One Log line.
+- **Hesk's ninth letter** (shop roof; a clock brought back three times), and **Hesk's reply**, verbatim (flag): *A list is an honest thing if the man who keeps it is. Sounds like yours is. Mind your feet on strange floors, and pack wool; a hall is always colder than the man who booked it says. Glad about the handle. Every man should have one thing he's foolish about. — H.*
+- **Bracken** certified about three hundred season sheets across the recess; Cael carried the last bundle in the eleventh week. His sand box. "Every phrase in a form is a scar from some old fight." The form's drafter "dead for sixty years".
+- **The entry instrument's fifth line (flag, C7):** *Caelen Hesk-ward, 41-7843-V, enrolled practitioner; see demonstration provision, enrollment basis, filed.* The board's line: *Cael. See demonstration provision, enrollment basis, filed.* Karis explains the card's "C. Cael" as the host printer's cut.
+- **The fellows sentence (flag, B10):** the hill's fourteen Silvers and one Gold are teaching-track fellows in the fellows' book, not on the enrollment record; "Rooke fielded the yard's columns. The fellows would teach them."
+- **Travel roster roles:** "the Shield reserve and the Stone" (Path tags only).
+- **Withrow's convocation (flag):** "Three numbers": five (weeks), four (meets; Norhold the host), eighteen (years). The last side was "made of the people the house liked best".
+- **The buff form:** *Tournament travel: kit, equipment and floor declarations*, built over the recess.
+- **Gault's case (flag, minor):** dark oak, brass corners. The saddler-stitched handle was sent by the frame-maker. Gault has written him three drafts of a letter.
+- **Validation of exhibitions (flag):** the validation seat "will sign that it watched"; the card reads *exhibition*, the figure and the officer's initials, under a heading unused for forty years.
+- **The second-year entry (flag, technique):** two weights, the front honest and the back heel held; the correction is "wait for the heel" at the cost of the first share; the plain entry is mixed in; Ephram's shoulders drop on full commitment (since corrected). Rooke's boards: *Wait for the heel. Cost: the first share. Fine.* · *Enrollee: heel, one in three, nearer two. Ephram: shoulders. Good trade.* · *Better. Both.*
+- **Ephram's supervised sessions:** the sheet was signed on d5. Two a week at the second bell with Rooke at the rail; held d12 and d17.
+- **Rooke's profiles (flag, plants):**
+  - The Fenmark second-year: *Good. Schooled. Expects respect.*
+  - The hill-house Wind entry: "?".
+  - **The buried fair-day Iron Skin Copper Rank Four** (four bouts, all won, all short): *Rank Four on paper. Fights like a Seven. Buried. / Somebody's keeping her low on purpose.* Gendered "she" here; BOOK_MAP §3 A names the role only.
+- **The memorandum (flag, minor):** five houses; Halcenvane fourth; the other four faults clerical.
+- **The bracket rule's location (flag):** "the third schedule… between the fee table and the rules for travelling surgeons."
+- **The four pages:** Bracken asked to write page four. Page three sets the memorandum's sentences beside the charter's.
+- **Withrow's office:** the founding charter, framed; "I read it once a year."
+- **Lira's card on the wall (flag, minor):** three lines in Karis's hand: *1. It isn't his weight. 2. He'll carry it anyway. 3. Make him list who chose.* Under them, Brom's *Tell him the floor's still the floor.*
+- **Vastin's room and routing slip (flag):**
+  - A high room in the Compact's house, with a porter feeding pigeons in the court.
+  - The routing slip's column *Received. Logged. Assessed. Referred for advisory.*, with two unplaced initials on the fourth line.
+  - The long draft struck once and kept in his drawer; the dispatch slip.
+  - On the tenth day, the printed card filed for information.
+- **The Standard's arithmetic (flag: canon for M2–M9):**
+  - Each of five judges gives three marks (execution, control, effect), each out of ten, and **ten is par**.
+  - For each axis the highest and lowest are struck and the middle three averaged; the three figures are added, so **par is thirty**.
+  - Bands: above 30 Gold; 28–30 Silver; 22–27 strong Iron to Silver-touched; 18–21 Iron; 12–17 Copper.
+  - In standings the rating is weighted by bracket and result. An exhibition gives the figure only.
+  - Ratings round at the foot (25.7 → 26).
+- **Rooke's cycle card (flag):** an Iron-bracket bout he lost two touches to one in the fourth exchange; rated 26 to the winner's 24. "I've been in this trade a long time"; "twenty years of coaching" (consistent with BOOK_MAP's "twenty years").
+- **The mock exhibition (flag):**
+  - Ring: chalk, about forty feet, rope on iron stands.
+  - Panel: Gault, Karis, Rooke and the two reserves, with Rooke's own examiner's manual (his cycle's; the annotated one remains M2's).
+  - Ratings: Ephram 23.66, Cael 23.00 (8 / 8.66 / 6.33), Lira 26.33, Brom 23.66. Cael won 2–1; Lira won 2–1 in the fourth.
+- **Karis's strip** in Rooke's manual "about a third of the way in" (the seed for page thirty-one; the page is not stated).
+- **Pine floors at the wool town (flag, M2 terrain):** they give on the left side of the main hall, by the old wall (via Ephram's cousin's house).
+- **The fair copies** of the card for each of the five.
+

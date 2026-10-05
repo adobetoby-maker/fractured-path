@@ -112,7 +112,7 @@ It sat in the sixth pigeonhole, where the sixth pigeonhole had stood empty all l
 
 Cael knew who had built it. He looked at it exactly as long as a boy looks at a new form, and no longer.
 
-He had come down in the afternoon with the term's floor-allocation sheet, because any enrollee asking for floor time tied to his evaluations had to lodge it at the counter, and the counter was the counter. The season had made floor hours into money overnight. Half the house had remembered at breakfast that it needed supervised time on the oak. Four people stood ahead of him: a Mire third-year with a bandaged thumb, two Current girls quarrelling in whispers about a bout neither of them had fought, and a Stone first-year who had plainly never been in the wing before and was holding his form in both hands like a hymn sheet.
+He had come down in the afternoon with the term's floor-allocation sheet, because any enrollee asking for floor time tied to his evaluations had to lodge it at the counter, and the counter was the counter. The season had made floor hours into money overnight. Half the house had remembered at breakfast that it needed supervised time on the oak. Four people stood ahead of him: a Mire third-year with a bandaged thumb, two Current girls quarrelling in whispers about a bout neither of them had fought, and a Stone first-year who had plainly never been in the wing before and was holding his form in both hands like a summons.
 
 Behind the counter the desk clerk sat at his ledger by the window, adding a column under his breath and losing it whenever the Current girls' whispering rose. Gault's door was shut, with a voice behind it. And at the copying table, rising each time the queue moved to take the next sheet, the teaching assistant did the counter's work.
 
@@ -186,7 +186,7 @@ Now, in five weeks, the arrow turned round. He would climb into a wagon behind a
 
 He took out the observation notebook and wrote Gault's sentence under Gault's name, with the date, as he wrote everything. Then, because an honest ledger ran two columns, he wrote the other side under it.
 
-*And for one season, every officer who comes to look at me will be seated, badged, and printed in a meet program. For three years I've counted watchers out of windows. This year they'll come with seat numbers.*
+*And for one season, every officer who comes to look at me will be seated, badged, and printed in a meet program. For two years I've counted watchers out of windows. This year they'll come with seat numbers.*
 
 ---
 

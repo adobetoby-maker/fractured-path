@@ -90,15 +90,9 @@ He did it standing, with his spectacles on the end of his nose and the three cha
 
 "Good," he said, and took his spectacles off.
 
-Page one was the clause, standing alone at the top of its sheet with its citation, as she had left it on the first night.
+Pages one to three he passed in the end without a word changed: the clause on its own, its angry history, and the memorandum's sentences set beside the charter's until the gap between them showed. The last page was one paragraph long, and it was Bracken's.
 
-Page two was its history. Forty years ago a house with a long name and a short temper had kept two of its strongest practitioners off a qualifying side, both fit, both enrolled, to sweeten a bargain about postings with a richer house. The tournament's board, finding out, had written the fourth subsection into the sixth part the following year in language meant to make sure it could never be done again. *Shall field.* Not *may*. The duty ran against the house, and the house was performing it.
-
-Page three set the memorandum's own sentences beside the charter's, line against line, so that the gap between them showed. Seeding was the host's business under the bracket rules. Fielding was the house's business under the sixth part. The two words never met. And for the practitioner whom no seeding could reach, the third schedule had already laid down a road: scheduled per the demonstration-exhibition provisions; rated against the Standard for performance rating only. The charter had foreseen the objection and answered it before the objector was born.
-
-Page four was one paragraph long, and it was Bracken's.
-
-He had asked for it. That was the only time in two years Cael had known him ask for anything. On the second night, while Karis was still fighting the fifth part, he had stood at the end of the table and said, "If there's to be a last page, I'd like to write it," and Karis had looked at him and handed him the pencil.
+He had asked for it. That was the only time in a year Cael had known him ask for anything. On the second night, while Karis was still fighting the fifth part, he had stood at the end of the table and said, "If there's to be a last page, I'd like to write it," and Karis had looked at him and handed him the pencil.
 
 It said that the enrollment record was true, and had been certified so, without omission, as the charter required. It said that the house stood ready to comply with the charter's mandatory language in every particular. And it said that if the regional registrar should determine that a true enrollment record must be altered before it could be accepted, the house respectfully requested that instruction in writing, over the registrar's name.
 
@@ -126,13 +120,13 @@ A long desk bare of everything but the work in hand. A wall of grey file cases, 
 
 "Sit," said Withrow. "I want a witness who isn't on my staff."
 
-He sat in the chair across the desk from her. Bracken stood by the door. Withrow read the four pages through, slowly, at her own pace, initialling each margin where her initials already stood on an earlier draft. She read the fourth page twice. Then she put the pen down, squared the pages, and folded her hands on top of them, and looked at him across them.
+He sat in the chair across the desk from her while Bracken stood by the door. Withrow read the four pages through, slowly, at her own pace, initialling each margin where her initials already stood on an earlier draft. She read the fourth page twice, then put the pen down, squared the pages, and folded her hands on top of them, and looked at him across them.
 
 "When this seal goes down," she said, "the house stands behind you fighting this season, in front of everyone, start to finish. You should know why. I'll say it once, and then you need never wonder. A great many people this year are going to offer you their opinion of my reasons. Most of them will say ambition, and most of them will be about half right." Her face did not change. "I want this house at Norhold. I've wanted it since before you came up the road. Your enrollment helps, and I know it helps, and I'm not going to pretend to you or to anybody else that I don't know it."
 
 Cael waited. He had learned that Withrow did not need encouraging.
 
-"Now look at the sequence. It's the only part that matters." She lifted one finger from the stack. "First there was a house. I spent a good many years making it a house that does difficult things in writing, in front of witnesses, and gets them right." A second finger. "Then there were rules: their charter, written by their own board, forty years before you were born. Nobody here wrote a word of it." A third. "Then there were people who keep the rules as written. A registrar who signs true records because he can't bear to sign any other kind. A girl in a reading room who reads the whole of a thing, including the schedule between the fee table and the surgeons." She did not glance at Bracken by the door. "And last of all, there was you."
+"Now look at the sequence. It's the only part that matters." She lifted one finger from the stack. "First there was a house. I spent a good many years making it a house that does difficult things in writing, in front of witnesses, and gets them right." A second finger. "Then there were rules: their charter, written by their own board forty years ago, before you were born. Nobody here wrote a word of it." A third. "Then there were people who keep the rules as written. A registrar who signs true records because he can't bear to sign any other kind. A girl in a reading room who reads the whole of a thing, including the schedule between the fee table and the surgeons." She did not glance at Bracken by the door. "And last of all, there was you."
 
 She let the fingers lie flat again.
 
@@ -196,7 +190,7 @@ He turned it back.
 
 Then the silence began, and the house went on preparing for a season with its eyes turned very slightly toward the road.
 
-The response had gone down the bluff on the morning courier of the Sixth-day. After that, nothing came back up. The regional registrar did not write. The memorandum's fourteen days went on running down on the calendar behind Bracken's counter, one day a morning, each crossed off in his small neat stroke. The coats at the ferry landing and the road's foot changed on the bell, two and two, and Karis's marbled book got a line a day, and every line was the line above it.
+The response had gone down the bluff on the morning courier of the Sixth-day. After that nothing came back up, and the regional registrar did not write. The memorandum's fourteen days went on running down on the calendar behind Bracken's counter, one day a morning, each crossed off in his small neat stroke. In its turn the fourteenth was crossed off like the rest, and nothing went back down the hill to meet it. The house had answered once, in four pages, and Bracken did not resubmit; a true record, he told Brom when Brom asked, did not get any truer for being sent twice. The coats at the ferry landing and the road's foot changed on the bell, two and two, and Karis's marbled book got a line a day, and every line was the line above it.
 
 Nobody spoke to Cael about any of it. He put it together the way he put everything together, out of the things people were careful not to do.
 

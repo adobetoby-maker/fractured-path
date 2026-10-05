@@ -14,7 +14,7 @@ Then he did a thing he had done all his working life with a file that had come u
 
 The academy's response ran to four pages, in a clean clerk's hand, under the house's seal, signed by a chancellor whose name he had last seen at the foot of a great many documents in a records hall. The first page was a single line of a tournament charter and its citation, and nothing else at all. He looked at the white space under that line for longer than he looked at the line. Somebody had written sentences in that space and taken them out again. He could tell, because the space was too exact to be an accident; a person who had never put anything there would not have left it so cleanly empty.
 
-The second page was history. The third was argument, and it was good argument, the best he had read from a provincial house in some years: it did not tell the registrar he was wrong, only where in his own charter he might find himself already answered. It cited a schedule he had not known existed, and he went to his own shelf and found the charter and turned to the schedule and read it, and it was there.
+The second page was the clause's history, and the third was the best argument he had read from a provincial house in some years. It cited a schedule he had not known existed; he went to his own shelf and turned to it, and it was there.
 
 The fourth page was a paragraph. He read it twice.
 
@@ -128,7 +128,7 @@ He wrote it at the rail of the Crown yard's top tier that afternoon, with the ob
 
 He looked at it for a while. Then, under it, in a smaller hand:
 
-*Nine days, Karis says, between the response going down and the card coming up. Long enough for an answer. Too long for an easy one.*
+*Thirteen days, Karis says, between the response going down and the card coming up. Long enough for an answer. Too long for an easy one.*
 
 He did not know quite why he wrote that, except that it was true to the feel of the thing, and he had learned to write down what a thing felt like before he knew what it meant. He blotted it and went down to the second training floor, where Ephram was waiting with a lath and a fresh grievance about his shoulders.
 
@@ -146,7 +146,7 @@ It was a printed form, filled in by hand. At the top, a floor number and a brack
 
 "Execution," Karis read. "Control. Effect."
 
-"Every bout at every meet is rated on those three," said Rooke. "Five judges. Each one gives each fighter three marks, one for each word, out of ten. Look at my execution column."
+"Every bout at every meet is rated on those three," said Rooke. "Five judges. Each one gives each fighter three marks, one for each word. Look at my execution column."
 
 Karis read it down. "Seven. Eight. Nine. Eight. Eight."
 
@@ -172,11 +172,13 @@ He handed it to Brom this time, and Brom read the other fighter's grid slowly, w
 
 He turned to the table at the end of the cork.
 
-"Ten is par," he said. "Ten on each of the three, thirty in all, is what a practitioner at Silver tier and fifth rank does on an ordinary good day. Somebody measured that, a very long time ago, with a great many fighters and a great deal of care. It was witnessed and sealed. They lock it at the start of each cycle and nobody touches it until the cycle closes. Every judge on every panel is trained to that one picture and tested against it on old bouts, and struck off if they drift. They call it the Silver Standard."
+"Ten is par," he said. "A judge can mark past ten, all the way to fifteen, for work better than the mark; nobody in this room will see a fifteen given. But ten is par. Ten on each of the three, thirty in all, is what a practitioner at Silver tier and fifth rank does on an ordinary good day. Somebody measured that, a very long time ago, with a great many fighters and a great deal of care. It was witnessed and sealed. They lock it at the start of each cycle and nobody touches it until the cycle closes. Every judge on every panel is trained to that one picture and tested against it on old bouts, and struck off if they drift. They call it the Silver Standard."
 
 He let them look at the table. It was a list of bands, read down from the top.
 
-*Above thirty: Gold. Twenty-eight to thirty: Silver. Twenty-two to twenty-seven: strong Iron to Silver-touched. Eighteen to twenty-one: Iron. Twelve to seventeen: Copper.*
+*Thirty-five and above: Gold. Twenty-eight to thirty-four: Silver, with par at thirty in the heart of it. Twenty-two to twenty-seven: strong Iron to Silver-touched. Eighteen to twenty-one: Iron. Twelve to seventeen: Copper.*
+
+"A rating can run to forty-five," said Rooke. "Thirty is par, and Silver sits round it, a little below and a little above; Gold is what's left over the top." He laid a finger along the third line. "Bronze lives up here, across the top of that band. The tournament doesn't bracket Bronze, so you'll never see the word on a card."
 
 "A good Copper bout rates in the low teens," said Rooke. "A sound Iron rates about twenty. If you rate twenty-three, every coach in the stand writes your name down. In the standings, the rating gets weighted by your bracket and by whether you won, so a Copper win and an Iron win can go into the same house total and mean what they ought to. Out of an exhibition, there's no weighting and no total. There's only the figure." He did not look at Cael. Everyone else did, briefly, and then looked back at the table. "The rest is the road."
 
@@ -224,7 +226,7 @@ He wrote it at the window that night, with the fountain going below.
 
 *Rooke's card: a man who lost and was rated above the man who beat him. That's the whole of the Standard, and it's beautiful, and I sat in a cold room and admired it like a boy looking at a clock with its back off.*
 
-*Here it is, plain, because I've been careful for a year not to write it: I want that figure. Not the standings; the standings aren't mine to want. The number. Three marks out of ten from five strangers who were trained to look at everybody the same way, and who will look at me the same way. Nobody has ever pointed a thing at me that was built for everyone. I want to stand in front of it and be measured like anyone. I want it more than I've let myself say anywhere until tonight.*
+*Here it is, plain, because I've been careful for a year not to write it: I want that figure. Not the standings; the standings aren't mine to want. The number. Three marks against par from five strangers who were trained to look at everybody the same way, and who will look at me the same way. Nobody has ever pointed a thing at me that was built for everyone. I want to stand in front of it and be measured like anyone. I want it more than I've let myself say anywhere until tonight.*
 
 He read that over, and let it stand. Then, because the honest ledger ran two columns, he wrote the other side under it.
 

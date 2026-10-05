@@ -14,7 +14,9 @@ Ephram, who was strapping a wrist by the window, did not look up. But his hands 
 
 He spoke for perhaps two minutes after that. Cael wrote it down later almost word for word, because Rooke did not waste words and therefore did not leave any spare to be lost.
 
-"Every bracket at every meet is seeded off paper," he said. "Your formal tier puts you in a bracket. Your formal rank puts you on a line in it. The host sets the draw so the top rank meets the bottom rank first and the middle meets the middle, and nobody at the host's table ever looks at you, only at the line on your certificate." He looked at them now, one at a time. "So the paper puts Lira at the foot of the Iron seeding, because she's Rank One, and the first thing the draw will give her is somebody from the top of it. The paper puts Karis in the middle. It puts Ephram near the top, which is where he belongs. And it puts Brom in a Copper bracket, which is where he doesn't." Lira's face did not change. "Good," she said. "I'd rather start with the best of them. Then I know where the top is."
+"Every bracket at every meet is seeded off paper," he said. "Your formal tier puts you in a bracket. Your formal rank puts you on a line in it. The host sets the draw so the top rank meets the bottom rank first and the middle meets the middle, and nobody at the host's table ever looks at you, only at the line on your certificate." He looked at them now, one at a time. "So the paper puts Lira at the foot of the Iron seeding, because she's Rank One, and the first thing the draw will give her is somebody from the top of it. The paper puts Karis in the middle. It puts Ephram near the top, which is where he belongs. And it puts Brom in a Copper bracket, which is where he doesn't."
+
+Lira's face did not change. "Good," she said. "I'd rather start with the best of them. Then I know where the top is."
 
 "You'll know by the second bell of the first day," said Rooke. "And so will they." He turned to Brom. "You're in Copper, and I won't insult you by explaining Copper to you. Learn the sheets. Wait."
 
@@ -80,7 +82,7 @@ They went at half speed. Cael kept his eyes low, on the back foot, and let the r
 
 At speed it was another thing altogether.
 
-The trouble with waiting for the second weight was that the first weight was real. If he did not answer it, it was still coming. Ephram's front foot landed, and the lath came forward on the honest share of the weight, and Cael held his ground to watch the heel, and the lath was very close. The heel came up. He slipped. The lath took him on the sleeve as he went, a glancing scuff along the outside of the arm, nothing a panel would score, everything a coach would note.
+The trouble with waiting for the second weight was that the first weight was real. If he did not answer it, it was still coming. Ephram's front foot landed, and the lath came forward on the honest share of the weight, and Cael held his ground to watch the heel, and the lath was very close. The heel came up and he slipped, and the lath took him on the sleeve as he went, a glancing scuff along the outside of the arm, nothing a panel would score, everything a coach would note.
 
 He went back to the mark and set himself.
 
@@ -122,9 +124,9 @@ Cael read the Copper stack over Brom's shoulder before he read his own. Halfway 
 
 Brom read that sheet twice, which he did with no other. Then he turned it face down on the pile and put his hand flat on it, and went on to the next one.
 
-Cael read the stack the way he read everything, fast and then a second time slowly, and the room around him went quiet, as rooms did when he did that. The read was no use on paper; paper had no weight. But he had a second thing that worked on paper, which was the habit of three years of reading men who wanted to be misread, and it found him more in Rooke's three-word margins than in the long lines of record beside them. A man who wrote *studies you* about an opponent was paying her the highest compliment Rooke owned.
+Cael read the stack the way he read everything, fast and then a second time slowly, and the room around him went quiet, as rooms did when he did that. The read was no use on paper; paper had no weight. But he had a second thing that worked on paper, which was the habit of years spent reading men who wanted to be misread, and it found him more in Rooke's three-word margins than in the long lines of record beside them. A man who wrote *studies you* about an opponent was paying her the highest compliment Rooke owned.
 
-Brom read beside him. Brom read nothing alone if he could help it, and these were opponents, and opponents were documents, and documents were for the table with somebody beside you; so he stood at Cael's elbow and turned the Copper sheets over one by one, very slowly, his lips not moving, his big hand flat on each page as though to keep it from getting up. He read them all. He said nothing about any of them. When he had finished he squared the stack.
+Brom read beside him. Brom read nothing alone if he could help it, and these were opponents, and opponents were documents, and documents were for the table with somebody beside you; so he stood at Cael's elbow and turned the Copper sheets over one by one, very slowly, his lips not moving, his big hand flat on each page as though to keep it from getting up. He read them all and said nothing about any of them. When he had finished he squared the stack.
 
 "Enough," he said.
 
@@ -144,7 +146,7 @@ Karis had gone straight to the question mark. It was an Iron entry from a house 
 
 Lira had the Iron stack, and she had stopped at one sheet near the bottom, and she was not reading it. She was looking at the house name at its head.
 
-Fenmark. The house that had Kindled her at fourteen and read her Copper and sent her out into the world with six letters on a certificate. It had a fighter in the region's Iron bracket this year, a second-year, and Rooke had given him four words: *Good. Schooled. Expects respect.*
+Fenmark: the house that had Kindled her at fourteen and read her Copper and sent her out into the world with six letters on a certificate. It had a fighter in the region's Iron bracket this year, a second-year, and Rooke had given him four words: *Good. Schooled. Expects respect.*
 
 "They'll be at the meets," said Lira. Her voice had nothing on it at all, which was how Cael knew.
 
@@ -184,7 +186,7 @@ Lira turned and looked at him. "You watched it?"
 
 "Some of it." He nodded at the rug. "Go again. Load the back leg. Keep the heel down. Then let it go."
 
-She went again, and this time there was something in it: a front foot that took real weight, a back heel that stayed on the rug half a breath longer than it should have, and then the drive. It was clumsy and slow and a third of the speed of the thing on the second floor, and Cael's whole body still wanted to answer the front foot and go home. He made it wait. He watched the heel. When the heel came up he slipped right, outside, and the broom went past his hip into the coal scuttle with a crash that brought a protest through the wall from the room next door.
+She went again, and this time there was something in it: a front foot that took real weight, a back heel that stayed on the rug half a breath longer than it should have, and then the drive. It was clumsy and slow and a third of the speed of the thing on the second floor, and Cael's whole body still wanted to answer the front foot and go home. He made it wait and watched the heel, and when the heel came up he slipped right, outside, and the broom went past his hip into the coal scuttle with a crash that brought a protest through the wall from the room next door.
 
 "Sorry," called Lira at the wall, not sorry at all.
 
@@ -224,7 +226,7 @@ Cael looked at her.
 
 The memorandum came on the morning of the Second-day, four days after the courier, which Karis had predicted to within a day; and it came in a form nobody had predicted at all.
 
-There was no hearing notice. There was no ruling, no seal, no letter from anybody with a title. There was a single sheet from the regional qualifying registrar's office, printed on a press that was short of ink, headed *Deficiency memorandum: entries returned for correction*, and listing five houses in a column. One had dated its fee note to the wrong year. One had used last cycle's form. One had sent its schedule acknowledgment unsigned. One had a practitioner whose rank on the entry did not match the registry's extract. And one, the fourth on the list, was Halcenvane.
+There was no hearing notice, no ruling, no seal and no letter from anybody with a title. There was a single sheet from the regional qualifying registrar's office, printed on a press that was short of ink, headed *Deficiency memorandum: entries returned for correction*, and listing five houses in a column. One had dated its fee note to the wrong year, one had used last cycle's form, one had sent its schedule acknowledgment unsigned, and one had a practitioner whose rank on the entry did not match the registry's extract. The fourth on the list was Halcenvane.
 
 Bracken sent his boy up before the first bell had finished ringing. The four of them stood at the records-hall counter in their coats, still half asleep, and read it in turn.
 
@@ -248,17 +250,19 @@ Karis looked at him for a moment. He had said the thing she had been trying to s
 
 "We'll need four," said Karis. "And two more for you to check every citation against the house copies, because I won't have a single page number wrong in this."
 
-"You'll have a single page number wrong," said Bracken, "over my dead body and both my clerks'." He took the memorandum, read it once more, and folded it into the inside of his gown. "I'll take it up to the chancellor myself. She'll want to hear it from somebody who's held the paper."
+"You'll have a single page number wrong," said Bracken, "over my dead body and both my clerks'." He held out his hand for the memorandum.
 
-He was back within the half-hour, which was quick even for Bracken, with one sentence of Withrow's, which he gave them exactly as he had been given it.
-
-While he was gone Karis read the other four items aloud, because she would not let anybody leave a document half read. A wrong year on a fee note. Last cycle's form. A missing signature. A rank a year out of date. Brom, at the wrong year, had to sit down on the bench by the door.
+Karis did not give it to him at once. She read the other four items aloud first, because she would not let anybody leave a document half read. A wrong year on a fee note, last cycle's form, a missing signature, a rank a year out of date. Brom, at the wrong year, had to sit down on the bench by the door.
 
 "Clerical," said Karis, when she had finished. "Clerical, clerical, clerical. Every one a slip of the pen." Her finger came back to the fourth item, which was theirs. "And ours is dressed to look like the others. Same type, same length, same list, so that anybody reading down it would take it for clerical too." She took her finger away. "That's the cleverest thing on the whole sheet. I'd like to meet whoever thought of it, and I'd like a table between us when I did."
 
+Bracken took the memorandum, read it once more, and folded it into the inside of his gown. "I'll take it up to the chancellor myself. She'll want to hear it from somebody who's held the paper."
+
+He was back within the half-hour, which was quick even for Bracken, with one sentence of Withrow's. He gave it to them exactly as he had been given it.
+
 "She says: *Don't argue with the man. Quote him his own charter, slowly, and leave a chair at the table so that he can come round and sit on our side of it.*" Bracken took his pen out of its rest. "She says you're to have the long table in the records hall after the last bell, every night you need it, and the lamps. And she says she's heard the third meet's halls run cold, and she would like the house to get far enough to find out."
 
-Karis looked at Cael. Cael kept his face still.
+Karis looked at Cael, and Cael kept his face still.
 
 "A great many people," he said, "seem to know about the halls at the third meet."
 

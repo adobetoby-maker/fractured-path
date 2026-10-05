@@ -1,40 +1,8 @@
 # Chapter 1 — Closed
 
-On the last night of the recess Cael sat at his window with Hesk's pen and shut the twelve weeks in ink.
+On the last morning of the recess, before the light, Cael was out on the sprung oak of the Crown yard, paying for wind.
 
-The lamp stood at his left elbow. Below the window the residence court lay dark, and in the middle of it the fountain ran on in its stone basin, louder than it had any right to be. All term it had been a sound under other sounds, under boots on the stair and doors and somebody's argument about a bout three rooms away. For twelve weeks, with three parts in four of the house gone down the bluff to their families, it had been the loudest thing on the hill, and he had come to keep time by it.
-
-He wrote the way he closed anything: a line for each fact, and a price beside the fact.
-
-*Recess. Twelve weeks and four days. Closed tonight.*
-
-*Floor: sixty-one sessions. The figures live in the working ledger, not here.*
-
-*Letters: nine from Hesk. That isn't a correspondence; that's a campaign. He has decided that a house going out to be measured by a whole continent deserves letters on a war footing, and he has sent them, each in the large exact hand, each one shorter than the last. The ninth came up on the morning coach four days ago. The shop roof has been seen to. A customer has brought the same clock back three times and been told to stop winding it. And the last line reads: "Sleep now. You won't later."*
-
-*I have taken half of that advice.*
-
-He looked at the line and let it stand. Hesk would have liked it. Hesk had always liked a man to write down what he had not done, provided he wrote it in the same hand as everything else.
-
-*The coats: two at the ferry landing and two at the road's foot, changing on the bell every four hours, every day of the recess. Karis's marbled book has a line for each day, and every line is the line above it but one. On a market day in the ninth week a third coat stood at the landing for a single change, and was gone at the next bell, and has not come back. One man, four hours, in twelve weeks. Nobody decides anything about them now. They have become a line in somebody's budget, and a line in a budget outlives the man who wrote it.*
-
-*The wing: the counter sheet hung beside Gault's door the whole recess, every working day with the same name against it. The counter opened on every one of those days, for floor allocations, in a house with hardly anybody on its floors. Twice, by arrangement with Gault, I took coursework down. Twice I said thank you for the form, and twice I heard the one sound I always hear. Nobody on this bluff has said a word about that sheet. Everybody I live with has stood in front of it and read it to the bottom.*
-
-*Karis: ten weeks in the room with her name on the door, building the argument round the clause, and two on the charter's back matter, the annexes and schedules, because a thing she has not read is a thing that can surprise her. She tells me now that the argument will hold up under hostile questions. She never tells me that about anything until she has sat across a table from it herself, playing the other side, late, with the door locked, and lost.*
-
-*Bracken: three hundred season sheets, give or take, certified across the recess, every one in his own hand, at his own counter, with the door open to anybody who wanted to watch him do it. Nobody did. In the eleventh week I carried the last bundle down from the green-table boxes for him, because he'd let me, and he signed the last sheet while I stood there and sanded it and said, "That's the house's year. Strangers will read it now." Then he put the cap on his pen as though it were a lid on a jar.*
-
-*Ephram: one nod, on the library stair, in the ninth week. His sheet for floor time is still on Rooke's desk, unsigned, because Rooke was away. He hasn't asked about it. He won't.*
-
-*Gault: two letters to the man who builds frames, one of them very long. The new second notch is coming upriver with its maker in person, who is said to find the whole business humiliating.*
-
-He stopped there and capped the pen, because the next part of the page was the part that cost, and he wanted the day behind it first.
-
----
-
-He had been on the sprung oak that morning before the light.
-
-The Crown yard at that hour belonged to nobody. The porter's boards stood bare along the long wall, wiped down for the recess, with the ghost of last season's chalk still grey in the grain of the wood. Mist lay on the tiers. At the far end, by the wash-house, Brom had his shirt off in the cold and was working through his sheet at the striking post, slowly, just as Rooke had written it for him: nineteen exercises, round three, four mornings in the week. He had not missed a morning since the recess began, and he would not have mentioned it if he had been paid to.
+Halcenvane stood along the top of a bluff above the river Ost, a long grey academy of halls and tiers and covered walks, and for twelve weeks three parts in four of it had been empty. The Crown yard at that hour belonged to nobody. The porter's boards stood bare along the long wall, wiped down for the recess, with the ghost of last season's chalk still grey in the grain of the wood. Mist lay on the tiers. At the far end, by the wash-house, Brom had his shirt off in the cold and was working through his sheet at the striking post, slowly, just as Rooke had written it for him: nineteen exercises, round three, four mornings in the week. He had not missed a morning since the recess began, and he would not have mentioned it if he had been paid to.
 
 Lira sat on the rail of the lowest tier with her wrists half strapped and the rest of the tape held in her teeth.
 
@@ -50,7 +18,9 @@ She took the tape out of her mouth to tell him what she thought of that, and the
 
 He set his feet at the chalk.
 
-The first burst was nothing. It never was anything: the gather low in the belly, the leading hip loading like a drawn bow, the shove of air at his back like a door slammed by a draught, and then the floor coming up under him twenty feet on. He landed. The landing beat held him where he stood, the same short, locked pause it had held him in since the first burst he ever paid for, and then he was his own again and walked back.
+The burst was hers, in a way. Lira's Path was Wind, and she had been bursting across floors in front of him for three years, since long before either of them had heard of this bluff. Cael had no Path at all that the registry could name. What he had instead was a short list of things he had watched other people do until, at a cost, they had become things he could do too, and her burst had been the first of them. He had paid for it ever since, every time, in the same coin.
+
+The first one was nothing. It never was anything: the gather low in the belly, the leading hip loading like a drawn bow, the shove of air at his back like a door slammed by a draught, and then the floor coming up under him twenty feet on. He landed, and the landing beat held him where he stood, the same short, locked pause it had held him in since the first burst he ever paid for, and then he was his own again and walked back.
 
 The second was nothing. The third was a little less than nothing; he felt it arrive in the hip as a thin line drawn from the crest of the bone toward the inside of the knee, and he gave it its name in his head and kept going.
 
@@ -72,7 +42,7 @@ She wrote it on the back of her hand, which was where she wrote things, and woul
 
 And in the gap, it came.
 
-He did not feel it begin; he never did, and that was the whole trouble with it. One moment he was a boy sitting on a rail in the mist. The next he was something slightly less than that: not gone, only less, a place the eye slid over on its way to somewhere more interesting. He knew it had happened only because Lira's head turned toward him and her eyes went straight past his shoulder to the empty tiers, and then came back, and narrowed.
+He did not feel it begin; he never did, and that was the whole trouble with it. The newest and least welcome of the things he carried had come to him on a stair, in the third hour of a bad night, from a man who did not know he had given it, and it did one thing well: it made him hard to notice. It did that whether he wanted it or not. One moment he was a boy sitting on a rail in the mist. The next he was something slightly less than that: not gone, only less, a place the eye slid over on its way to somewhere more interesting. He knew it had happened only because Lira's head turned toward him and her eyes went straight past his shoulder to the empty tiers, and then came back, and narrowed.
 
 "One," she said.
 
@@ -114,39 +84,49 @@ He did not count her bursts, because she had asked him once not to. He counted t
 
 ---
 
-Now, at the window, with the fountain going on below and the lamp drawing a second room in the black glass, he uncapped the pen again and wrote the part that cost.
+That night he sat at his window with Hesk's pen and shut the twelve weeks in ink.
 
-*What I hold, at the year's open, since the year will want a list.*
+The lamp stood at his left elbow. Below the window the residence court lay dark, and in the middle of it the fountain ran on in its stone basin, louder than it had any right to be. All term it had been a sound under other sounds. For twelve weeks, with the house nearly empty, it had been the loudest thing on the hill, and he had come to keep time by it.
 
-*Six confirmed.*
+He wrote the way he closed anything, in the book he called the Log: a line for each fact, and a price beside the fact.
 
-*One. Wind-adjacent, from Lira. Ceiling: six bursts free on the sprung oak, fewer on stone, the seventh billed to the next morning and the eighth to the one after. Six all recess. That isn't a failure to climb. It's what the architecture sells at its present price, and the price is the work now, not the number. The landing beat is the length it has always been. Four years of trying to trim it.*
+*Recess. Twelve weeks and four days. Sixty-one sessions on the floor.*
 
-*Two. Pressure-adjacent, from the Bronze at Ardenmere. Held back at every plate on this bluff, both times: flat lines on the baseline and on the note of the twentieth. Its only paper is Vell's circuit record. Private cap, the circle's rule, not the registry's: four blows a sitting, billed to the right shoulder.*
+*Nine letters from Hesk, which isn't a correspondence, it's a campaign. The ninth ended: "Sleep now. You won't later." So far I've only managed the first half.*
 
-*Three. Iron-adjacent, from Brom. The read: weight and direction, early, never what a man means by them. Eleven clear of twelve at the fourth weight, called aloud. To every floor that has ever watched me it looks like peculiar timing. Cheapest thing I own.*
+*The coats at the bottom of the hill: two at the ferry landing, two at the road's foot, changing on the bell, every day. One change only in twelve weeks: on a market day in the ninth week a third man stood at the landing for four hours and was not seen again.*
 
-*Four. Compression-adjacent, from Reydan. Not on a scored floor or in front of a crowd since the bout at Ardenmere, and only in that circuit's ledger. No instrument here has measured it. Nobody official has ever seen it. Three years. I keep writing that line, and I keep meaning it as a fact and not a grievance.*
+*The wing's counter: open every working day of the recess, with the same clerk's name against every day on the sheet. Nobody on this bluff has said a word about that sheet. Everybody I live with has read it to the bottom.*
 
-*Five. Ember-adjacent, from Karis, by her leave, in her hand. One measurement on this bluff: four instants on the wing's copper pot. On a public floor, two contacts a bout. That's our rule, not the registry's.*
+*Bracken: three hundred season sheets certified across the recess, every one in his own hand. "That's the house's year," he said over the last of them. "Strangers will read it now."*
 
-*Six. Shadow-adjacent, Bronze, from a man who does not know. Deployment: none. Rent: from waking, every day, spent or not. Drifts in the gaps, never in the work; one this week. The two halves still will not sit together in my hands. Useful where: nowhere yet. This is the second year of that answer.*
+*Karis: ten weeks in a room with her name on the door, building the argument round the clause. She says it will hold up under hostile questions now. She only says that after she's played the other side herself, late, and lost.*
 
-He read the six through, and found that each line was true and that no line was the whole truth, which was the most a ledger could ever do; he had stopped holding it against them.
+He stopped there, because the next part was the part that cost, and wrote it as plainly as he could make it.
 
-Under the six went the entry that had stood in the same place three years running.
+*What I carry, at the year's open. Six things, and one I can't account for.*
 
-*Anomaly. Session nine. Tide-adjacent. Not called back. Not explained. Not counted, and it won't be counted until I know what it is I'd be counting.*
+*Lira's burst. Six free on the sprung oak, the seventh billed to the morning. The landing beat no shorter than it was three years ago.*
+
+*The push I took from the Bronze at Ardenmere. Never shown on this bluff; flat at every plate they've put me on. Four blows a sitting, paid in the right shoulder.*
+
+*Brom's read: weight and direction, early, never what a man means by them. Eleven of twelve at the fourth weight. To a watcher it looks like good timing. Cheapest thing I own.*
+
+*Reydan's give, the one that takes a blow and keeps it from going anywhere. Not seen on a scored floor since Ardenmere. Nobody official has ever seen it. Two years.*
+
+*Karis's spark, by her leave, in her hand. Four instants on a copper pot in front of the Compact's chairs. Two contacts a bout on a public floor; that's our rule, not theirs.*
+
+*The quiet thing from the stair. Never used. Costs from waking, every day. Drifts in the gaps, one this week. Useful where: nowhere yet. This is the second year of that answer.*
+
+*And the one I can't account for, the still place from session nine, which has stood at the foot of this list two years running. I can't call it back and I can't say why it came. It isn't a seventh, and I won't count it until I know what I'd be counting.*
 
 *Still open. Still real. Patience.*
 
-He blotted it and sat back and looked at the boy in the glass, who returned the look with an equally doubtful face.
-
-The record kept five of the six. Two of those five were out in the light, on paper that anybody with a registry pass and an afternoon could read. A thin third had been shown once, on a copper pot, in front of the Compact's chairs. All five had a paper trail somewhere, if a man knew which ledger to ask for. The sixth had none, and never would, if he had anything to say about it. One semester stamp, renewed in the enrollment book in Bracken's small upright hand. One provision, alive because somebody kept writing it down.
+He blotted it and sat back. The record the registry kept on him held five of the six. Two of those were out in the light, and a thin third had been shown once, on that copper pot. The sixth was on no paper anywhere, and he meant it to stay that way. Under all of it stood one semester stamp, renewed in the enrollment book in the registrar's small upright hand: the provision that let a boy with no Path be enrolled at all, alive because somebody kept writing it down.
 
 He bent to the page for the last of it.
 
-*I'm sixteen. I've said so out loud three times this recess, and each time it sounded less like a number somebody handed me and more like my own. I'm enrolled at a house that means to go out and be measured against the continent. Everybody else in it knows which box the season puts them in. Lira has a bracket. Brom has a bracket. Karis has a bracket. I have a provision and a clause.*
+*I'm sixteen. Everybody else in this house knows which box the season puts them in. Lira has a bracket. Brom has a bracket. Karis has a bracket. I have a provision and a clause.*
 
 *For the first time since Denvash I don't know what my part in a season is.*
 
@@ -204,7 +184,7 @@ The board was up in the covered walk before the hall was empty, and half the hou
 
 Cael read it from the back of the crowd, over heads. The selection standards took the left-hand sheet, in the hand of Bracken's inky-knuckled clerk. The meet schedule took the middle: four towns, four dates, the first of them five weeks out and two days' drive to the south. The travel roster for that first meet hung on the right, eleven lines long.
 
-Five competitors. Then the staff, Rooke and Gault. Two reserves from the third year, the Shield reserve and the Stone. A wagoner. And, on the tenth line, *S. Seln, assessment office: records and floor scheduling.*
+Five competitors, then the staff, Rooke and Gault; two reserves from the third year, the Shield reserve and the Stone; a wagoner. And, on the last line, *S. Seln, assessment office: records and floor scheduling.*
 
 Cael kept his face still.
 
@@ -234,7 +214,7 @@ Not by every measure. The hill had fourteen Silvers and one Gold, and none of th
 
 Ephram reached the foot of the roster and turned round to the four of them.
 
-He looked round at the four of them. "Eleven names and a citation. Every academy on the circuit gets a roster. We get a roster and a reading assignment." The kit went higher on his shoulder. "Good. Let the other side do the reading."
+"Eleven names and a citation. Every academy on the circuit gets a roster. We get a roster and a reading assignment." The kit went higher on his shoulder. "Good. Let the other side do the reading."
 
 He went off down the walk toward the yard without waiting for an answer. Lira watched him go with her head on one side.
 

@@ -314,3 +314,104 @@ ch3 and ch4 run short-sentenced: the learning fight's landing beats, the broom, 
 10. **Sentence mean is 13.08**, inside the range but below the 13.7 aim. ch3 and ch4 are the cause (see Formula).
 11. **Words 30,572 (wc)**, inside 29,500–32,500, about 430 under the ~31,000 aim.
 12. **No placeholders were needed.** Gwen and Abbot do not recur. No new names; roles are by Path tag or description only.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md` and the coordinator's rulings (OWNER-DECISIONS #38 for the scale; year counts restored to Book 4's; all other flags accepted). Every change was written by hand. Rebuilt passages were applied as exact before→after strings that failed on any miss. Only ch1–6 and this report were edited. The source chapters were not reopened. **No git commands were run.**
+
+### The rating scale as set (#38)
+
+Each of five judges marks execution, control and effect. Ten is par on each mark, and a judge may mark past ten, up to fifteen. For each of the three, the high and low marks are struck and the middle three averaged; the three figures are added. Par is thirty; the ceiling is forty-five.
+
+| Band | Rating |
+|---|---|
+| Gold | 35 and above (to 45) |
+| Silver | 28–34, with par (30) at its heart |
+| Strong Iron to Silver-touched | 22–27; Bronze lies across the top of this band (Rooke's aside; the tournament does not bracket Bronze, so the word never appears on a card) |
+| Iron | 18–21 |
+| Copper | 12–17 |
+
+On the page in ch5:
+- Rooke: "A judge can mark past ten, all the way to fifteen… But ten is par."
+- The band table, as above.
+- "A rating can run to forty-five… Thirty is par, and Silver sits round it… Gold is what's left over the top."
+- The Bronze aside.
+- "out of ten" removed from ¶149, and from the Log's "Three marks against par".
+
+Every worked figure stands. ch6's "thirty, twenty-eight, twenty-two" still reads true (par; the Silver floor; the strong-Iron floor) and is unchanged.
+
+### Changelist by chapter
+
+**ch1**
+- **The opening.** The chapter now opens on the oak ("On the last morning of the recess, before the light, Cael was out on the sprung oak of the Crown yard, paying for wind."). Two short paragraphs give a stranger footing: Halcenvane on the bluff over the Ost; no Path the registry can name, only things watched until they could be done "at a cost"; and what the quiet thing from the stair does (it makes him hard to notice, whether he wants it or not).
+- **The window.** The first recess recap and the six-line "adjacent" inventory are cut and merged into one window scene that night:
+  - The recap is five short Log lines: recess and sessions; Hesk and "Sleep now. You won't later."; the coats and the one dated change; the counter sheet; Bracken's three hundred sheets; Karis's ten weeks.
+  - The inventory is plain lines a listener can hear (Lira's burst; the push from Ardenmere; Brom's read; Reydan's give; Karis's spark; the quiet thing from the stair; the still place from session nine).
+  - Every ENTRY fact is kept: six free, the seventh billed; right shoulder, four blows a sitting; 11/12; Compression unseen; four instants and two contacts; Shadow rent, drifts, "second year of that answer"; "Still open. Still real. Patience."; the record keeps five, two public; the stamp; sixteen; "Open the year and find out."
+- **Year counts restored.** Landing beat "three years ago"; Compression "Two years"; the anomaly "stood at the foot of this list two years running"; Lira's bursts "for three years".
+- **The roster.** Seln is on "the last line".
+- **Ephram's duplicate beat removed.** "He looked round at the four of them" is cut.
+- **Overlap.** "I have taken half of that advice" is replaced by "So far I've only managed the first half."
+- **Joins.** Two clipped narrative runs joined.
+
+**ch2**
+- "like a hymn sheet" → "like a summons".
+- "For three years I've counted watchers" → "For two years" (since Ardenmere).
+
+**ch3**
+- Lira's "Good… I'd rather start with the best of them" now has its own paragraph.
+- **"She says".** The memorandum scene is reordered. Karis reads the other four items before Bracken takes the paper; he folds it, goes, and comes back. "He gave it to them exactly as he had been given it." then opens the Withrow sentence, so "She says" can only be Withrow's.
+- "the habit of three years" → "the habit of years".
+- **Joins.** Seven clipped narrative runs joined, all in narration and never in speech: the heel at speed; Brom's reading; Fenmark; the broom; the memorandum's no-notice; the four faults; "Karis looked at Cael, and Cael kept his face still."
+
+**ch4**
+- **Bracken's check.** The "Page one… Page two… Page three…" summary is cut to one sentence ("Pages one to three he passed in the end without a word changed…"). Bracken's checking ritual, page four in full, and the mirror exchange are kept whole.
+- **The lapsed deadline.** Added: "In its turn the fourteenth was crossed off like the rest, and nothing went back down the hill to meet it. The house had answered once, in four pages, and Bracken did not resubmit; a true record, he told Brom when Brom asked, did not get any truer for being sent twice."
+- **Counts.** Bracken "the only time in a year"; Withrow "forty years ago, before you were born". The history page's "Forty years ago…" went with the cut summary, so ch4 now has three "forty years", not four.
+- **Joins.** Three narrative joins in Withrow's office and the silence.
+
+**ch5**
+- **Vastin's pages.** Pages two and three are reduced to two sentences ("The second page was the clause's history, and the third was the best argument he had read from a provincial house in some years. It cited a schedule he had not known existed; he went to his own shelf and turned to it, and it was there."). Page one (the white space) and page four are kept in full.
+- **The scale (¶149/175/179).** As set out above.
+- "Nine days" → "**Thirteen days**" (response down on d12, card up on d25). The line "Long enough for an answer. Too long for an easy one." is untouched.
+
+**ch6**
+- **The charter sentence.** It now agrees with ch4: "the charter lay open in its oldest part, the founding articles, older than the schedule where she had found the exhibition provision and older than the clause, written long before the registry's last standardization."
+- **The section rule.** A rule now stands before "Cael stood alone in the long room", with a blank line before and after.
+- "turn on a sixpence" → "turn in his own length".
+- **Joins.** Eight narrative joins in the bout, the cards, the rope and the window: "He waited, and the heel came up…"; "Execution, eight, and that was fair."; "Par was not a number, though he had thought it was one…"; and others.
+
+### Before / after (formula_metrics.py, ch1–6)
+
+| Measure | Before r1 | After r1 |
+|---|---|---|
+| Words (formula / wc) | 30,509 / 30,572 | 29,975 / 30,038 |
+| Sentence mean | 13.08 | **13.30** (floor 13.2) |
+| ≥40-word share | 3.4% | 3.6% |
+| ≤5-word share | 32.8% | 31.8% |
+| Paragraph median | 26 | 26 |
+| Words per scene | 984 | 967 |
+| FRE / FK | 86.3 / 4.47 | 86.4 / 4.52 |
+
+Per chapter after r1 (mean / ≥40 / para median / words per scene):
+
+| Chapter | Mean | ≥40 | Para median | Words / scene |
+|---|---|---|---|---|
+| 1 | 14.1 | 3.9% | 27 | 937 |
+| 2 | 13.0 | 3.6% | 26 | 936 |
+| 3 | 12.4 | 2.8% | 26.5 | 987 |
+| 4 | 12.8 | 3.5% | 22 | 846 |
+| 5 | 13.4 | 3.4% | 27.5 | 1,296 (the Vastin window) |
+| 6 | 14.3 | 4.5% | 28.5 | 903 |
+
+### Checks after r1
+
+- `ed.sh overlap book-05-the-silver-standard 1`: **0 unprotected**, 13 protected. The mirror line is now covered by the coordinator's `protected-patterns.txt`.
+- `ed.sh gates book-05-the-silver-standard 1`: reader_standard=0, metadata=0, modern=0 on all six chapters.
+- `sweep_probe.sh book-05-the-silver-standard 1 1`: **skeleton 2%, close 10%** on 1,270 sentences (ch1 1/11 · ch2 3/10 · ch3 2/11 · ch4 1/11 · ch5 3/13 · ch6 0/5).
+- Length: **30,038 (wc)**, inside 29,500–32,000.
+- Greps after the last edit find none of "four years", "sixpence", "hymn", "tenth line" or "Nine days" in the chapters. The only "nine days" left is Vastin's own nine days of looking, in ch5. No season words.
+
+### Ledger notes from r1
+- The Day table above stands, with one addition. **d21** (the memorandum's fourteenth day, counted from its d7 date): crossed off and nothing sent; Bracken does not resubmit.
+- The year counts in Movement 1 are now Book 4's: landing beat three years; Compression unseen two years; the anomaly two years running; Lira three years. Protected item 21's "three years" (Movement 2) is unaffected.
