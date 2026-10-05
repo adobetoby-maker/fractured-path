@@ -1,6 +1,6 @@
 # Chapter 41 — Complete, Consistent
 
-Four of Assessor Ilsev's findings had come up the coast road with Seln, months ago, in a coach with a broken window. He had read them with his collar turned up against the draught, between one posting and the next, out of the plain professional habit of reading whatever he could find about anybody who might one day read him. He had shut the volume at the last stage before the river knowing one thing about her for certain. She went through what was put in front of her from the first line to the last, at the same pace throughout, and she did not want anything from it while she read. He had met clever readers in plenty. A reader who wanted nothing was something he had met perhaps twice, and both times it had frightened him.
+Seln had read four of Assessor Ilsev's findings on the road up from his last posting, in a coach with a broken window, out of the habit of reading whatever he could find about anybody who might one day read him. He had shut the volume knowing one thing about her for certain. She went through what was put in front of her from the first line to the last, at the same pace throughout, and she did not want anything from it while she read. A reader who wanted nothing was rarer than a clever one, and harder to be read by.
 
 So on Seventh-day afternoon, when the requisition came, he tried to read his term the way she would.
 
@@ -8,11 +8,11 @@ It had come up from Ostrand in the noon bag under the wing's seal, and it had cr
 
 *To the assessment office of the receiving institution: compile, under one covering index, the whole of this term's monitoring product on any enrollee held under provision, and keep it sealed against the senior evaluation seat's call.*
 
-He had initialled the bag's docket in the round hand, as the copying table initialled everything, and laid the sheet in Gault's tray between a query from the bursar and a letter about chalk. Then he had finished the afternoon's floor allocations to the last line. Gault had read the requisition at the third bell, and set it back on the copying table with one word pencilled in its margin, *Proceed*, and gone back into his office.
+He had laid it in Gault's tray between a query from the bursar and a letter about chalk, and finished the afternoon's floor allocations to the last line. At the third bell Gault had set it back on the copying table with one word pencilled in its margin: *Proceed*.
 
-The compiling was an afternoon's work at most. Every sheet was his own work, and Gault's filing left nothing to hunt for. He did it at the copying table in full view, with the desk clerk at her ledger six feet off murmuring figures to herself, because there was nothing in it that wanted a closed door.
+The compiling was an afternoon's work at most, since every sheet was his own. He did it at the copying table in full view, with the desk clerk at her ledger six feet off, because nothing in it wanted a closed door.
 
-Most of what he had sent down the river that term was carpentry: calendar extracts, floor issues, lists of associates, the plain joinery that coverage is made of. That went at the back, as appendices, in date order. In front of it went the product proper, which came to six filings. He laid the six side by side along the edge of the wood, squared each to the last, so that the whole term lay under his hand at once.
+Most of what he had sent down the river that term was carpentry: calendar extracts, floor issues, lists of associates. That went at the back, as appendices. In front of it went the product proper, which came to six filings. He laid the six side by side along the edge of the wood, squared each to the last, so that the whole term lay under his hand at once.
 
 Then he read them, as Ilsev would, from the first word to the last, with a finger moving under each line, and no hope in the reading at all.
 
@@ -38,17 +38,13 @@ He knew the words a reader would write under that. He had written them himself, 
 
 Nobody needed to suspect anything to write that. The sum wrote it.
 
-He looked at the six for the space of a few breaths. The desk clerk turned a page and said *forty-one* under her breath, and wrote it down. Somebody in the yard below was calling names off a list.
-
-Then he made up the file.
+He looked at the six for the space of a few breaths, while the desk clerk murmured *forty-one* and wrote it down. Then he made up the file.
 
 He tied each filing to its own appendices with pink tape, oldest first. He wrote the covering index in the upright, plain hand that he kept for product and used for nothing else: each sheet by its heading and its date, one line apiece. He put no note on it anywhere. A note is the start of an argument, and an argument is something a reader can take the other side of.
 
 He added nothing, and he took nothing out. The exception report stayed shut. Near its end stood a word he had once weighed for four seconds, and he did not open the report to weigh it again. Nothing in the bundle was false. Nothing in it was the whole of anything. At the fourth bell Gault's clerk took it from him across the counter with the rest of the day's paper and pressed the wing's seal into the wax over the tape, and locked it in the holding cabinet, where it would wait four days for the delegation.
 
-After supper he did the small things that a man does who has nothing on his mind. He stopped at the board in the covered walk and read the floor allocations he had written himself that afternoon, as if they were news. He nodded to the porter, who was chalking the next day's bouts on the long board by lamplight. He went up the staff stair at the pace of a man going to bed.
-
-There was nothing for the small case tonight. He did not take it out from under the shirts. He sat on the bed's edge, forearms on his knees, and listened for a while to the river under the bluff, and then he put the lamp out.
+After supper he read the floor allocations on the covered walk's board, which he had written himself, as if they were news, and went up the staff stair at the pace of a man going to bed. There was nothing for the small case tonight. He sat on the bed's edge for a while, listening to the river under the bluff, and then he put the lamp out.
 
 What he kept, he kept.
 
@@ -64,7 +60,7 @@ Halfway through the hour Merrick turned his head to look down the hall at Brom. 
 
 "Back to the bars, Merrick," said Rooke, without raising his voice and without seeming to have looked. "You'll see him on the tenth. Neither of you learns the other on my floor this week. If you want to study him, you've had a season." He stopped at the empty middle of the floor. "So has he."
 
-Merrick turned back to the bars. Somebody in the cohort laughed and was looked at, and stopped.
+Merrick turned back to the bars, and somebody in the cohort laughed and was looked at, and stopped.
 
 Cael watched Brom work.
 
@@ -104,7 +100,7 @@ Lira had her leg up on the chair when he came to her door after supper, with a w
 
 "Sit," she said. "Not on the bed. Brom sat on it this afternoon and now it's a hammock."
 
-He sat down on the boards against the wall, the notebook on his knee. It was a fat notebook by now. Three weeks of it, in the back, were headed *Fiske*.
+He sat down on the boards against the wall, the notebook on his knee. It was a fat notebook by now, and three weeks of it, in the back, were headed *Fiske*.
 
 Lira looked at it and looked away.
 
@@ -116,7 +112,7 @@ Lira looked at it and looked away.
 
 He waited.
 
-"Think about what she's got," said Lira. She did not look at him; she looked at the river. "She's got all of me now. The first time, I showed her my sequence for a whole exchange, step by step, so she'd learn it, and she learned it. Then I lied with it four times and she watched me do that. Then I walked in on my own feet and she watched that too. She knows I've four bursts on a good day and that the fourth costs me a week. She knows I can move my landing a foot with a half-step, because she watched me do it in front of eight hundred people. She knows where I learned to walk." Lira moved the cloth on her hip. "Last time she had a page about me with a hole in it, and I went through the hole. There isn't a hole now. She's had a month to sew it up, and she's the best on this hill at sewing."
+"Think about what she's got," said Lira. She did not look at him; she looked at the river. "She's got all of me now. The first time, I showed her my sequence for a whole exchange, step by step, so she'd learn it, and she learned it. Then I lied with it four times and she watched me do that. Then I walked in on my own feet and she watched that too. She knows I've four bursts on a good day and that the fourth is paid for out of tomorrow. She knows I can move my landing a foot with a half-step, because she watched me do it in front of eight hundred people. She knows where I learned to walk." Lira moved the cloth on her hip. "Last time she had a page about me with a hole in it, and I went through the hole. There isn't a hole now. She's had a month to sew it up, and she's the best on this hill at sewing."
 
 "So you want more, not less."
 
@@ -148,13 +144,25 @@ Lira looked at him for a long moment, surprised.
 
 "I'll tell him."
 
+Lira lay looking at the ceiling for a while.
+
+"If I win tomorrow," she said, "and Brom wins the day after, then on the nineteenth I fight him in front of an Archmarshal."
+
+"Yes."
+
+"Fiske told me to make them look." She said it slowly, as if laying the words out on a table one at a time to see how they sat together. "Win the crown, she said, and then make them look at you. The crown's only how you force it. I've been thinking about that for a month. I thought she meant the registry. Somebody at a desk in Fenmark with my flag in a queue under forty other flags." She turned her head on the floor and looked at him. "And now the most senior pair of eyes in the whole Compact is coming up our road on its own feet, and it's going to be sitting in the gallery on the nineteenth whether I like it or not, and it isn't coming for me at all. It's coming for you. I'm what happens to be on the boards while it's here."
+
+"Does that make it worse?"
+
+"It makes it funnier," said Lira. She did not laugh. "All my life I've wanted the people with the stamps to look at me properly, just once, instead of at a number on a card. And when they finally send the biggest stamp they've got, it's to look at somebody else, and I'm the fight it watches while it waits." She closed her eyes again. "I'm going to give it a very good fight. That's all. I'm not going to think about whether it sees me. If it's any good at its job, it will."
+
 They sat for a while without talking. A barge went past below, low in the water, and gave its long note and its two short ones to nobody in particular.
 
 "She'll be good tomorrow," said Lira, with her eyes shut. "She'll be better than last time. I want her to be. If I'm going to beat her, I don't want to beat a tired one." She was quiet. "She's the only person on this hill who's ever told me the truth without wanting anything for it. I'd like to give her the best bout she's ever had. Then I'd like to win it."
 
 ---
 
-Brom was at the post behind the second quadrangle when Cael came down, under the lamp, without his coat, on the eleventh exercise of the second round.
+Brom was at the post behind the second quadrangle when Cael came down, under the lamp, without his coat, on the seventh exercise of the second round.
 
 "Karis says I'm not to do these the night before a bout," he said, without stopping. "So I'm doing them two nights before. That's allowed. I asked."
 

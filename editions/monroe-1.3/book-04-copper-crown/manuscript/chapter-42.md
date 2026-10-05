@@ -2,7 +2,7 @@
 
 On the morning of the ninth of Reaping the registrar's outer office smelled of hot wax, and there were four boxes on the counter.
 
-Cael had come for his floor sheet. He came for it every First-day at the second bell, and so he was there, with his hand already out, for the last minute of a piece of work that had begun in a Greyvane carrel in the third week of a winter term and had been finished, in its final form, in six days in the room behind this one.
+Karis had asked him to be at the registrar's counter at the second bell, and had not said why. So he was there, standing at the dark wood with nothing in his hands, for the last minute of a piece of work that had begun in a Greyvane carrel in the third week of a term and had been finished, in its final form, in six days in the room behind this one.
 
 The boxes were plain grey pasteboard, the kind the stationer in Ostrand sold by the dozen, with brass corners and a cloth hinge. Three of them were already closed and tied with white tape, and on each lid in Bracken's hand was a single line: a number, and the words *Enrollment basis*, and the number of the box. The fourth stood open. Bracken was laying the last sheets into it from a stack at his elbow, one at a time, squaring each against the one below with the side of his hand.
 
@@ -10,15 +10,15 @@ Karis stood at the far end of the counter. She had her grey notebook clasped aga
 
 Nobody spoke. The senior clerk at his high desk had stopped writing and sat with his pen lifted.
 
-Bracken laid the last sheet. It was the first page of the index, which went on top, so that whoever opened the box would see it before anything else. He closed the lid. He took the white tape from the reel, measured it against the box without looking, cut it with the small knife from his waistcoat pocket, and tied it in a flat registrar's knot that would undo with one pull and with nothing else. Then he took the pen from behind his ear and wrote on the lid, *4 of 4*, and under that, smaller, *311*.
+Bracken laid the last sheet, which was the first page of the index and went on top, so that whoever opened the box would see it before anything else; then he closed the lid. He took the white tape from the reel, measured it against the box without looking, cut it with the small knife from his waistcoat pocket, and tied it in a flat registrar's knot that would undo with one pull and with nothing else. Then he took the pen from behind his ear and wrote on the lid, *4 of 4*, and under that, smaller, *311*.
 
 He set the box on the shelf behind him with the other three, and turned them all a little, so that the lettering faced the room.
 
 "Three hundred and eleven sheets," he said. "Every link in the chain copied from its own volume and sealed by the person who keeps the volume. Two searches for a repeal, by two people who never compared a line, finding the same nothing in the same places. The whole of the directive, all forty-one pages, tabbed where it matters and marked where a repeal would have to be. And one index. A reader who wishes us well will find what she needs in about forty breaths. A reader who wishes us ill will find it in about ninety, because she'll check everything twice on the way." He put the pen back behind his ear. "Whoever on that delegation asks to see the provision gets the shelf, in the order it stands, and a clerk to carry it across for them."
 
-He reached for Cael's floor sheet, initialled it, and held it out.
+He looked at Cael then, as though only now noticing that the enrollee was standing at his counter with no business there at all.
 
-Cael took it. He did not go.
+Cael stayed where he was.
 
 "Tell him the rest," said Karis, from the end of the counter. Her voice was not quite steady, and she was cross with it. "The part you told me."
 
@@ -28,7 +28,7 @@ Bracken looked at her, and then at Cael, for a long moment, as though deciding w
 
 The senior clerk lowered his pen to the page and began, very quietly, to write again.
 
-Cael went out into the covered walk with his floor sheet and stopped by the first pillar. He had to stop. The sentence had gone into him somewhere under the breastbone and was still going.
+Cael went out into the covered walk and stopped by the first pillar. He had to stop. The sentence had gone into him somewhere under the breastbone and was still going.
 
 He had been fourteen in the Denvash certification hall. A clerk behind a long counter there had written a word about him on a form, in about the time it takes to sneeze, and the word had followed him into every room he had entered since, and had stood there talking about him long after the clerk who wrote it had gone home to his supper. That was what files had always been, to him: true in rooms he was not in, kept by people who had long since gone home, and impossible to question or to stop.
 
@@ -44,11 +44,11 @@ He did not write it. He wrote, that evening, *Bracken closed the file. Karis has
 
 The Crown yard was full by the fourth bell, and it was a different kind of full from the fifteenth session.
 
-That afternoon, a month back, the yard had come to see a champion tested. Today it had come to see a question answered, and the question was harder. Everybody on the tiers had watched Lira take the top line by lying with the truth, and everybody had gone home and thought about it, and most of them had come to the same sum Cael had: that a trick like that worked once. Fiske had had a month to learn it. Whatever Lira did today, she could not do that again.
+That afternoon, a month back, the yard had come to see a champion tested. Today it had come to see a question answered, and the question was harder. Everybody on the tiers had watched Lira take the top line by lying with the truth, and everybody had gone home and thought about it, and most of them had come to the same sum Cael had: that a trick like that worked once. Fiske had had a month to learn it, and whatever Lira did today, she could not do that again.
 
-Cael sat in his usual place on the east tier, a third of the way up, with Brom on his left and Karis on his right, and did not count the crowd. He had made himself that promise at breakfast. In a yard this size the counting would take all of him, and the hold would go, and he had a hold to keep. So he gave himself the boards and nothing else. Everything outside the chalk could look after itself.
+Cael sat in his usual place on the east tier, a third of the way up, with Brom on his left and Karis on his right, and did not count the crowd. He had made himself that promise at breakfast. In a yard this size the counting would take all of him, and the hold would go, and he had a hold to keep. So he gave himself the boards and nothing else, and let everything outside the chalk look after itself.
 
-Fiske came out first. She walked to her chalk at the north end of the boards with her hands clasped behind her back, as she always did, and stood there looking at the floor between the two marks the way a carpenter studies a frame. Her face was perfectly calm. She had fought nobody on the top line for a month, and she looked, Cael thought, rested.
+Fiske came out first. She walked to her chalk at the north end of the boards with her hands clasped behind her back, as she always did, and stood there looking at the floor between the two marks the way a carpenter studies a frame. Her face was perfectly calm, and she had fought nobody on the top line for a month, and she looked, Cael thought, rested.
 
 Lira came out a few breaths after. She walked to her chalk with no hurry at all and crouched and laid her hand flat on the boards, and held it there a moment longer than usual, and stood up.
 
@@ -114,7 +114,7 @@ Karis wrote: *Two. L. goes before there is anything to go round. One each. That 
 
 Lira walked back to her chalk and did not look at the hip, because looking at it would have told the north end of the boards everything.
 
-It was not bad yet. It was the old line, crest to inner knee, lit up thin and bright from the one burst, the way a wire lights when you run too much through it. She could carry that. She had carried it on the foundry floor for two winters with a ladle of slag in her hands. What she could not carry was not knowing what came next, and she did not know, and neither, she was fairly sure, did Fiske.
+It was not bad yet: only the old line, crest to inner knee, lit up thin and bright from the one burst, the way a wire lights when you run too much through it. She could carry that; she had carried it on the foundry floor for two winters with a ladle of slag in her hands. What she could not carry was not knowing what came next, and she did not know, and neither, she was fairly sure, did Fiske.
 
 Fiske was at her chalk with her hands behind her back, looking at the boards.
 
@@ -132,7 +132,7 @@ She stood on her chalk and let Fiske look at her. She gave her nothing to read: 
 
 Then Fiske began to close them, one by one, without waiting.
 
-That was new. Last time Fiske had placed where Lira was going. Now she was placing where Lira might go, all of it, every likely place on the boards, before Lira had chosen any of them. A patch on the left. A patch at the fold. A patch where the turn would have come. It was expensive. Every declaration cost Fiske something, and she was spending them like a woman throwing coins into a well. But every one she spent made the floor smaller.
+That was new. Last time Fiske had placed where Lira was going. Now she was placing where Lira might go, all of it, every likely place on the boards, before Lira had chosen any of them. A patch on the left. A patch at the fold. A patch where the turn would have come. It was expensive, since every declaration cost Fiske something, and she was spending them like a woman throwing coins into a well. But every one she spent made the floor smaller.
 
 Lira waited until there were three places left, and then two.
 
@@ -142,7 +142,7 @@ Two, she thought. That's two.
 
 Fiske looked at her across the boards, and Lira saw her count it too.
 
-They spent the rest of the glass like that. Fiske closed and Lira waited; Fiske closed again and Lira slid one foot an inch on honest oak and Fiske had to decide whether the inch meant anything. Neither of them came near enough to touch. Up on the tiers somebody began a slow handclap and was hushed by the people around him. Lira did not hear it. She was listening to the hip, and to the sand.
+They spent the rest of the glass like that. Fiske closed and Lira waited; Fiske closed again and Lira slid one foot an inch on honest oak and Fiske had to decide whether the inch meant anything. Neither of them came near enough to touch. Up on the tiers somebody began a slow handclap and was hushed by the people around him. Lira did not hear it, because she was listening to the hip, and to the sand.
 
 "Even," said the table. "No touch. Third exchange."
 
@@ -150,7 +150,7 @@ One each, and one even. One to go.
 
 Lira walked back to her chalk on a leg that had begun, very slightly, to argue with her about which way was down.
 
-The arithmetic of the fourth was simple. Everybody in the yard knew it. If the fourth ended even, the bout was drawn, and a drawn bout kept the holder on the top line, and the holder was Lira. Fiske could not wait. Fiske had to take it.
+The arithmetic of the fourth was simple, and everybody in the yard knew it. If the fourth ended even, the bout was drawn, and a drawn bout kept the holder on the top line, and the holder was Lira. Fiske could not wait. Fiske had to take it.
 
 Which meant, Lira thought, standing on the chalk, that for the first time in their two bouts Fiske was the one who had to come.
 
@@ -166,7 +166,7 @@ She stood at the edge of her own slick, a long stride away, with her hands loose
 
 Lira understood. Fiske was not going to come across the oil to her. She had built a cage and put Lira in it and now she was going to wait at the bars for Lira to spend the last burst getting out, and then hit her in the landing beat, where everybody in the Copper column now knew a Wind fighter stood still. And if Lira did not burst, Fiske would wait until the sand was nearly gone and then come, at the last moment, when there would be no time left for anything but whatever Lira had kept.
 
-It was the right plan. Lira would have made the same one.
+It was the right plan, and Lira would have made the same one.
 
 The sand ran.
 
@@ -174,7 +174,7 @@ It was the longest minute she had ever stood through.
 
 She stood on the table of clean oak and did not burst. The hip burned. It had gone past bright now into something dull and deep and wide, a heat that filled the whole socket and spread down into the thigh, and it wanted, every moment, to be shifted. She did not shift it. Any shift was a lean, and a lean was a word, and Fiske was reading every word. So she stood on it, square, the way she had stood at the board at the fifth bell for three weeks with her breathing held level, and let it burn.
 
-On the tiers the noise had stopped. Eight hundred people sat without moving. She could hear the sand. She could hear, from a long way off, a barge on the river giving its long note, and nobody answering.
+On the tiers the noise had stopped, and eight hundred people sat without moving. She could hear the sand. She could hear, from a long way off, a barge on the river giving its long note, and nobody answering.
 
 Fiske waited. Her face did not change. But Lira, watching her eyes, saw them go once, quickly, to the glass on the table, and come back.
 
@@ -202,9 +202,9 @@ It did something in there she had never felt it do. Something gave, deep and sid
 
 She did not hear the yard come up. She heard it afterward, the way you hear thunder after the flash, a wall of noise from every tier at once that hit the lecture range and came back. In the moment she heard nothing but her own breath, and felt nothing but the floor under her right hand, because she had gone down on one knee on the oak at the edge of Fiske's patch and could not, for the moment, get up.
 
-Fiske was standing over her. Fiske's face had changed.
+Fiske was standing over her, and her face had changed.
 
-It was not a beaten face. Lira had seen plenty of those. It was the face Fiske had worn on the step a month ago, when she had said all the things she had carried for two years, and Lira had known then what it was, and knew now.
+It was not a beaten face, of which Lira had seen plenty. It was the face Fiske had worn on the step a month ago, when she had said all the things she had carried for two years, and Lira had known then what it was, and knew now.
 
 "You didn't run it," said Fiske. "Not once."
 
@@ -240,7 +240,7 @@ It took Cael most of a quarter-hour to get down to the floor. When he got there 
 
 "No," said Lira. Then, after a moment, honestly: "Once. On the oil."
 
-The instructor sat back on his heels and looked at her with the face of a man who has spent thirty years being lied to by fighters and has come to prefer it when they stop.
+The instructor sat back on his heels and looked at her with the face of a man who has spent a working lifetime being lied to by fighters and has come to prefer it when they stop.
 
 "Ice tonight. Ice in the morning. Nothing on it for four days, and I mean nothing, not a stair you can avoid, not a turn on that floor of yours. Then come and show me how it walks." He stood up. "It's a strain, and it's deep, and it'll mend. It won't mend by the nineteenth. You'll fight on it."
 
@@ -256,7 +256,7 @@ Lira looked up at the three of them.
 
 "You were going to. You were going to look at it all through supper." She held up a hand, and Brom took it, and pulled her up very carefully onto her good leg, and she leaned on his arm for a moment without pretending she was not. "Tomorrow's yours. Go and beat Merrick. Then we'll see."
 
-Cael stood back and said nothing at all. He had nothing in his notebook for this and did not want anything. He had watched her stand on a square of oak for a minute and choose, every second of it, not to spend the one thing she had left, and then spend something she had never once been told she owned.
+Cael stood back and said nothing at all, since he had nothing in his notebook for this and did not want anything. He had watched her stand on a square of oak for a minute and choose, every second of it, not to spend the one thing she had left, and then spend something she had never once been told she owned.
 
 Karis opened her notebook at last and showed him the fourth line, which she had written on the tier while the yard was still roaring.
 
@@ -270,7 +270,7 @@ Lira, three steps up, leaning on Brom, turned her head.
 
 "I've done it a thousand times," she said. "In the casting shed. With a ladle. Nobody ever paid to watch." She considered. "It's worse without the ladle. You don't know what to do with your hands."
 
-They took her up to the residence between them, slowly, one step at a time, by the long way round that had no stairs in it. Karis walked in front and opened every door before they reached it. Nobody talked about the hip. Brom talked about the slow handclap on the north tier, and whose it had been, and what he would do to the man if he ever found him. Lira laughed at him twice, and both times stopped laughing quickly, and both times nobody remarked on it.
+They took her up to the residence between them, slowly, one step at a time, by the long way round that had no stairs in it. Karis walked in front and opened every door before they reached it, and nobody talked about the hip. Brom talked about the slow handclap on the north tier, and whose it had been, and what he would do to the man if he ever found him. Lira laughed at him twice, and both times stopped laughing quickly, and both times nobody remarked on it.
 
 That night the leg went up on the chair with ice on it. Brom, for once, did not go down to the post, because it was the night before his own semifinal and Karis had stood in the passage with her arms folded until he gave in. He sat on the common room floor instead with his back against Lira's settle, and Karis sat at the table with the marbled book and wrote the coats.
 

@@ -1155,7 +1155,7 @@ Open threads now:
 
 **Movement 6 CLOSED (2026-10-05).** Sol recheck r1: CLOSE, no manuscript line fixes. Ledger end-state normalized to r1 (barge lad 3/8; alcove 8/17; the scout gave no name). Grey-book / Log wordings quoted above predate r1's compression — the manuscript governs.
 
-## After Movement 7 (chapters 44–51; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 7 (chapters 44–51; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Sol recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CALENDAR: the fortnight is counted from Dace's Wednesday visit (day 1) to the bout on Tuesday (day 14); Lira's training mornings run from Thursday; ordinals in ch47–51 now carry their weekday (e.g. 'the thirteenth day, the Monday' = the night before). Day-by-day table in AUTHOR-REPORT 'Repair r1'.
@@ -1325,3 +1325,5 @@ Open threads now:
     - the Monday card moved to the lit main floor.
 14. **Hesk memory:** Cael at nine in Hesk's workshop; a credit seller sent away; *anything that charges you nothing at the counter means to send the bill later. And it'll send it in a coin you never said you'd pay in.* *Flag.*
 
+
+**Movement 7 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch45 scene-separator spacing). All brief items resolved; overlap 0, gates 0, probe 1%/6%; mean 13.57, ≥40w 3.8%, 921 w/scene. Where the author end-state above predates r1 (ordinals, recaps), the manuscript governs.

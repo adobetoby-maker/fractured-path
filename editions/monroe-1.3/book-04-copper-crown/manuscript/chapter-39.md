@@ -1,12 +1,12 @@
 # Chapter 39 — Filing-Grade
 
-On the morning after the reading the door of the records hall's back room stood open, and Cael, waiting at the outer counter for a floor sheet, could see straight through it into a kind of weather.
+On the morning after the reading the door of the registrar's back room stood open, and Cael, waiting at the outer counter with a request slip of Karis's, could see straight through it into a kind of weather.
 
-There was paper on every flat surface in the room. It lay on the long table in squared stacks and on the window seat in fanned ones, and on the floor along one wall in a row of open boxes, each with a card propped against its side. Three of the registrar's clerks sat at the table with their sleeves pinned back, writing. A fourth stood at a slope desk by the window copying from a heavy volume, with a librarian at his elbow who checked each line as he finished it and pressed a small brass seal to the foot of the page. The room smelled of lamp oil and new ink. Nobody in it was talking.
+There was paper on every flat surface in the room. It lay on the long table in squared stacks and on the window seat in fanned ones, and on the floor along one wall in a row of open boxes, each with a card propped against its side. Three of the registrar's clerks sat at the table with their sleeves pinned back, writing. A fourth stood at a slope desk by the window copying from a heavy volume, with a librarian at his elbow who checked each line as he finished it and pressed a small brass seal to the foot of the page. The room smelled of lamp oil and new ink, and nobody in it was talking.
 
 Karis was on her knees beside the row of boxes with a card in her teeth.
 
-Bracken came out to the counter himself, wiping his fingers on a rag that had long since given up any hope of being clean. He took Cael's floor sheet, initialled it, and gave it back. Then, because Cael did not leave, he waited.
+Bracken came out to the counter himself, wiping his fingers on a rag that had long since given up any hope of being clean. He took Karis's slip, stamped it, and gave it back. Then, because Cael did not leave, he waited.
 
 "I'd like to help," said Cael. "If there's anything. Carrying. Copying. I write a fair hand."
 
@@ -40,7 +40,7 @@ Her chain of proof ran through thirty-odd volumes, from the founding schedule th
 
 The second decision was harder, and he would not have thought of it himself.
 
-At Greyvane, Karis had spent most of a winter proving a negative: that the clause had never been repealed, by searching every place a repeal could have been recorded and finding nothing in any of them. She could have done the search again with her eyes shut. That was exactly why she was not allowed to. Bracken took a clerk from his own office who had been away on leave for most of the term and had never seen a page of her notes, gave him the list of places a repeal would have to be recorded, and put him in a separate room on the floor above with the door shut. Karis was forbidden to speak to him about anything but the weather. He worked alone for four days. On the evening of the fourth he came downstairs with his findings tied in string, and Bracken laid them on the long table beside Karis's, and the two searches by two people who had never compared a word reached the same nothing in the same places.
+At Greyvane, Karis had spent eleven weeks proving a negative: that the clause had never been repealed, by searching every place a repeal could have been recorded and finding nothing in any of them. She could have done the search again with her eyes shut. That was exactly why she was not allowed to. Bracken took a clerk from his own office who had been away on leave for most of the term and had never seen a page of her notes, gave him the list of places a repeal would have to be recorded, and put him in a separate room on the floor above with the door shut. He worked alone up there for four days. On the evening of the fourth he came downstairs with his findings tied in string, and Bracken laid them on the long table beside Karis's, and the two searches by two people who had never compared a word reached the same nothing in the same places.
 
 Cael was at the counter when the clerk came down. He was a thin young man with spectacles and a bad cold, and he carried his bundle in front of him with both hands, like a dish he expected to be blamed for. Karis was at the long table. She had been forbidden to speak to him about anything but the weather, and she kept to it with a kind of ferocious exactness.
 
@@ -55,6 +55,8 @@ The third decision was about the directive. The standardization directive that h
 The last decision was the index, and Bracken wrote it himself.
 
 It was a numbered list of every sheet in the file. Beside each number stood one line, never more, saying what that sheet proved and nothing else. There were no adjectives anywhere in it, and nothing that argued. Cael read the first page of it over the counter, upside down, and saw at once what it was for. A delegation counsel with four hours, a sore back from the road and no patience at all could open the box, run her finger down the index, find the sheet that carried the weight of the whole matter, and have it in her hand inside a minute and a half, without asking a single person on the bluff for anything.
+
+On the fifth afternoon Karis tested it. She did not ask anyone's leave. She simply took the clerk with the cold, who had never seen the file's contents and had only searched for the absence of one thing, and sat him down at the long table in front of the first box with the index on top. Then she turned over the little sand-glass she used for timing her own reading. "The question," she said, "is whether this enrollment rests on a clause that has been repealed. Find me the sheet that answers it." The clerk ran his finger down the index, stopped, turned to the number, lifted out a sealed copy of a schedule with a white slip pinned to its margin, and laid it in front of her. Karis looked at the glass. A little under half of it had run. She turned it back over and wrote the figure in her notebook, and did not say anything at all, and Cael, from the doorway with his hands in his pockets, thought it was the most satisfied silence he had ever heard.
 
 He had built plans for a hundred bouts. This was the first he had seen built for an opponent the builder had never met, would never be allowed to speak to, and could not predict at all, except to know that she would be tired and suspicious and in a hurry. Nobody draws up a plan to beat a person like that. You built a thing that would still be standing whatever kind of person she turned out to be.
 
@@ -116,9 +118,9 @@ For a long moment he did nothing at all but look at it.
 
 He had met Havel twice. The first time was at Ardenmere, in the Unranked District, on a cold bright morning at the pump step, when a young assessor in a well-fitted grey coat and boots too new to have creased had come across the square with a credentials case held close against his side. He had read his questions off a form in a careful level voice. At the end he had asked one more question that was on no form, about why Cael had stayed at one address, and he had written the answer down at a slant across the page, in a hand that had suddenly stopped filling in a form. Cael had offered him a pear. Something had crossed the young man's face that looked like wanting one, and he had not taken it.
 
-The second time was at Greyvane, in the hearing room, where the same man had sat at the end of the delegation's table with a recorder's case open on his knees and a little brass sand-glass beside him, turning the glass every quarter of an hour and writing down every word that anybody said, including all of Cael's.
+The second time was at Greyvane, in the hearing room. The same man had sat at the end of the delegation's table with a recorder's case open on his knees and a little brass sand-glass beside him, turning the glass every quarter of an hour and writing down every word that anybody said, including all of Cael's.
 
-Now he was records officer on an Archmarshal's manifest. That was another grade, and a grade above the last one.
+Now he was records officer on an Archmarshal's manifest, which was another grade, and a grade above the last one.
 
 Cael wrote on the page, at the top, *Havel*, and under it, after a while: *He keeps going up a grade, and he keeps turning up wherever I am. I've never decided whether that's chance. I'm not going to decide tonight.*
 
@@ -128,7 +130,7 @@ He showed the page to Lira at supper, folded back so that only Havel's lines sho
 
 "The pear one."
 
-"You told me about him the same night. You said he wanted the pear and wouldn't let himself." She gave the page back. "And then he sat at Greyvane and wrote down every word you said for three days, and never once looked as if he liked or minded any of it."
+"You told me about him the same night. You said he wanted the pear and wouldn't let himself." She gave the page back. "And then he sat at Greyvane and wrote down every word you said for the whole of the hearing, and never once looked as if he liked or minded any of it."
 
 "That's him."
 
@@ -156,7 +158,7 @@ It was not a thin file. A thin file is a shape; it tells you that someone was th
 
 In the end he went and found Karis, because Karis read faster than he did and wanted things less.
 
-She came up to the long bay with ink still faint on her knuckles and went through every index he had been through, and the general catalogue after them, and then, without being asked, the visitors' books for the last forty years, which were kept in a press in the corner and smelled of mice. It took her most of the evening. She came back to his table with three slips.
+She came up to the long bay with ink still faint on her knuckles and went through every index he had been through, and the general catalogue after them, and then, without being asked, the visitors' books for the last forty years, which were kept in a press in the corner and smelled of mice. It took her most of the evening, and she came back to his table with three slips.
 
 "Three," she said. "In the whole library. A list of the officers present at a dedication, eleven years ago, down the coast. A list of seats at a dinner given for a retiring magistrate. And a list of those who stood witness at a swearing-in." She laid them in a row. "Every one of them is his name in a list. Not one of them is a word he said."
 

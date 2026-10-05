@@ -193,6 +193,7 @@ The kitchen was very quiet, and the range ticked as it cooled.
 "Well," said the heavyset man from behind his bill, after a while, "I'll be there," and turned the page.
 
 Lira picked up the charcoal and rubbed out the question marks beside every *B*, one by one, with her thumb.
+
 ---
 
 He sat at the crate desk late with the Log open at the back, under the lamp, and did not write for a long while.
