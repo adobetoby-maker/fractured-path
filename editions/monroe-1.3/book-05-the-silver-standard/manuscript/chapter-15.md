@@ -140,7 +140,7 @@ He stood in the landing beat until it released him and waited for his hips to st
 
 "Worse than the bursts." He rolled his hip, carefully. "The burst's the same everywhere. It's the floor that sends the bill."
 
-She nodded. "Three a bout for me, same as always. But the landings." She burst along the opposite rope, low and fast, and landed, and he saw her face. "That's a stone that hates you."
+She nodded. His four were a day's price on a floor; hers were a coach's ration for a single bout, and Rooke had never changed it. "Three a bout for me, same as always. But the landings." She burst along the opposite rope, low and fast, and landed, and he saw her face. "That's a stone that hates you."
 
 "It doesn't hate you. It just doesn't care."
 
@@ -288,7 +288,7 @@ She finished her wraps. She pulled the last turn tight with her teeth, the way s
 
 She said it to nobody, or to the coat-rack. Cael heard it anyway.
 
-He heard in it the whole of the five days on the road, and the milestone, and the years before the milestone, all of it concluding in three words at a coat-rack in a cold yard.
+He heard in it the whole of the five days of the silence, and the milestone, and the years before the milestone, all of it concluding in three words at a coat-rack in a cold yard.
 
 He had heard her say something like it once before, on another cold morning, outside another hall she had been afraid of. He gave it back to her.
 

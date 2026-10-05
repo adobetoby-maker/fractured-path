@@ -40,7 +40,7 @@ Seln asked what the dog was called. It was the right question. After that they w
 
 He had known, since the mill town, that the market would be here.
 
-He had copied the boy's figures off the board at the mill town with his own pencil and laid them beside the wool town's. Six figures, inside three points. He had said so across a document table to the boy, in the office's voice, and the boy had heard it.
+He had copied the boy's figures off the board at the mill town with his own pencil and laid them beside the wool town's. Six figures, inside three points. He had said so across a document table to the boy, in the voice of the office that had put him behind the wing's counter, and the boy had heard it.
 
 And Seln had known while he said it that he was not the only man on the circuit with a pencil. A column of figures that tidy was not only a warning. It was also a product. Somebody would be selling it.
 
@@ -50,7 +50,7 @@ The handicappers' runners drank at this alehouse after the boards closed. They w
 
 The compilers' readers drank here too, though they did not call themselves anything. They sat with the stewards and bought the stewards' evenings for the price of a jug, and went home early.
 
-By the time the alehouse put its lamps out, Seln knew that there was a file in the town on the provision boy from Halcenvane. He knew that it was the current edition, made since the mill town, and that a commercial house that sold such files across half the continent had made it.
+By the time the alehouse put its lamps out, Seln knew that there was a file in the town on the provision boy from Halcenvane. He knew that it was the current edition, made since the mill town, and that a commercial shop that sold such files across half the continent had made it.
 
 He knew roughly where the one copy in the quarry town was kept, and what kind of person kept it.
 
@@ -70,9 +70,7 @@ What it said, he kept to himself. It was good work. It was better work than most
 
 It was careful. It was dry. It did not guess where it could count. It knew a great deal about the boy that was true, and it knew nothing about him that mattered.
 
-He admired the paper before he admired anything else, because paper was where a house showed what it thought of itself. It was good rag stock, cut square and sewn at the spine with linen thread, the kind of paper a firm buys when it expects its product to be kept and consulted and not thrown on a fire after one reading.
-
-The hand was a clerk's hand, small and level and patient, and it did not change from the first page to the last, which meant one person had written the whole of it at a desk, from notes, without hurrying.
+He admired the paper before he admired anything else, because paper was where a shop showed what it thought of itself. It was good rag stock, cut square and sewn at the spine with linen thread, the kind of paper a firm buys when it expects its product to be kept and consulted and not thrown on a fire after one reading.
 
 There were no blots. Where a figure had been corrected, the old figure had been struck through once and left legible, so that a reader could see what had been changed and judge for himself whether the change was honest.
 
@@ -92,27 +90,13 @@ He did not need the question mark.
 
 He had had the word since last year, and he had not got it from figures.
 
-He had been standing in the east hall at Halcenvane last year, with the dial sheets held against his chest, when the post locked. He had seen what happened at the bay in less time than it took to see it.
+He had it from four things, and he had filed none of them. There was the post locking in the east hall, with the dial sheets against his chest, and two things the boy's record said he did not own arriving inside one breath. There was Jask, a third-year, telling the refectory queue for a week that the boy was *quick off a read*; the file that came home from the guest floor with nothing written on it, and his own line under it, *unmarked file. one of three. probably the third.*; and one slip of wing paper, cut small, in a hand that was nobody's.
 
-He had seen two things inside one breath that the boy's record said he did not own: a move forward on the Wind, into the face of a live danger, when every line of the record said the Wind only ever took him away; and a blow taken on a forearm that went into the forearm and did not come out.
-
-Seln had filed nothing about either of them. His brief had a category for exactly that sight, and he had not used it.
-
-Then there had been the third-year, Jask, telling the refectory queue for a week what the boy had told him at the foot of the lecture stair. *I'm quick off a read when I've slept.* Seln had heard it told six ways, and had let every one of them stand.
-
-Then there had been the file that came home from the guest floor with nothing written on it. He had looked at that file for an evening, and had written one line in his own hand on his own page, the kind of line he let himself write perhaps twice a year. *unmarked file. one of three. probably the third.*
-
-And there was one slip of wing paper, cut small with the wing's own knife, in a hand that was nobody's. He had written it once, and squared it, and sent it the only way it could go.
-
-Those were his reasons for knowing the word. He had never written them down together. He did not write them down now. He only laid them side by side in his head, beside the compiler's question mark, and looked at the difference between the two roads to the same place.
-
-He did not know what the boy was managing. He had never tried to know. He had made it a rule, over fifteen years, never to wonder past what was in front of him, and the rule had kept him alive and employed in rooms where wondering was not safe.
-
-He knew that something was being held. He knew it was being held well. That was all he knew, and he did not reach for any more.
+He laid the four beside the compiler's question mark and looked at the two roads to one word. He did not know what the boy was managing, and he had never tried to know; fifteen years of not wondering past what was in front of him had kept him employed in rooms where wondering was not safe. Something was being held, and held well. He did not reach for more.
 
 He turned back to the first page and began again, for how it had been made.
 
-A file is made the way a house is built. You cannot see the order of the work when it is finished, unless you know where to look. Seln knew where to look.
+A file is made the way a wall is built. You cannot see the order of the work when it is finished, unless you know where to look. Seln knew where to look.
 
 Every commercial file he had ever read on a fighter began with the fighter's bouts, because bouts were what the buyers paid for. This one did not. This one began with the door.
 
@@ -122,7 +106,7 @@ Only after the door had been set out, carefully, did the file come to the boy's 
 
 Door, record, man, company. It was a strange order for a fight file. It was an order a buyer would never ask for.
 
-It was the order of a house that had started building its stock before it had a single customer.
+It was the order of a shop that had started building its stock before it had a single customer.
 
 Seln knew that order. He had seen it once before, half a year ago, last term, at the top of a records-hall stair in the middle of the night.
 
@@ -134,21 +118,15 @@ The man had been caught, and his little book had gone to counsel. He had never k
 
 The wing had written two lines in the incident book that night. Seln knew the two lines well, because he had written them. *Pattern is consistent with private interest. Not Compact pattern.* He had written what he could prove, and put the pen down.
 
-On the first evening by the alehouse fire, among a great deal about the price of coal, one of the runners had told him how this particular house paid the people who read for it.
+There was also the matter of how this shop paid its readers, which a runner had let fall by the alehouse fire on the first evening, among a great deal about coal. Seln set that aside for the table. Karis Dellenmoor would ask for a reason, and it would be better to have one she had not heard.
 
-It paid in advance. It paid on paper, unsigned. It paid through boxes near water, let by the month and given up, so that no box was ever used twice and no reader ever had a name to sell.
-
-The runner had told him this because it was a grievance among the readers, who would have liked to be paid by somebody they could shout at.
-
-He held the stair and the alehouse fire in his head together, and let them sit until they agreed.
+He held the stair and the file's order in his head together, and let them sit until they agreed.
 
 They agreed. The Compact had never sent the reader up the stair. When the Compact wants a paper, it sends a clerk with a warrant to read it at the counter in daylight, and makes the registrar fetch the chair.
 
-The reader had been the house's buyer. Half a year ago, before the boy had fought a single bout on the circuit, the market had smelt a new product coming, and had sent a reader up a stair to fetch the first part of its stock.
+The reader had been the shop's buyer, sent half a year ago to fetch the first part of its stock before the boy had fought a single bout on the circuit. He had been caught, and the shop had shrugged and built the door from the public hearing instead. Now the product was on the shelf in every meet town on the circuit.
 
-The reader had been caught. The house had shrugged and built the door from the public hearing instead, as any shop does when a supplier fails. And now the product was on the shelf, in every meet town on the circuit, and anybody with the fee could read the boy's door before they read his bouts.
-
-Who had commissioned that first job, Seln could not say, and would never be able to say. The answer lay behind more than one pair of hands, in a trade built out of hands passing things along. He found that it did not matter. The real buyer had been the trade itself, filling its shelves ahead of the customers. That was only good shopkeeping.
+Who had first paid for that job, Seln would never be able to say, and he found that it did not matter. The real buyer had been the trade itself, filling its shelves ahead of the customers. That was only good shopkeeping.
 
 Private interest. He had written it half a year ago, carefully, as an inference. It was not an inference now.
 
@@ -168,9 +146,9 @@ The question was there, somewhere, the way a step is there in a dark stair. He w
 
 He walked back along the quay at a clerk's pace in the thin morning light, with the travel file under his arm, and closed the matter in the only ledger he had never had to lock.
 
-It was half a year old. It had been open the whole time, on Karis Dellenmoor's page at the back of her grey notebook and on his own page in his own head, and he had known it was open on both.
+It was half a year old. He had kept it open in his own head the whole time, and he had no doubt it was open in Karis Dellenmoor's grey notebook too, under a heading of its own.
 
-He found he was looking forward to watching her draw the line through it. She drew a very straight line.
+He found he was looking forward to watching her close it. He suspected she drew a very straight line.
 
 The rest was residue, and the residue was permanent.
 
@@ -202,7 +180,7 @@ The landlady had taken the last of the bowls and wiped the table and gone back t
 
 Seln did not move up the table. He spoke from where he was, to the teapot, more or less.
 
-"The office has closed last term's records-hall matter," he said. "The man on the stair. His job was bought by a commercial house that makes files on fighters and sells them up and down the continent. It was bought their way. What they were buying it for is on sale in this town tonight: a file on the enrollee, made since the mill town." He poured himself tea. "The office's finding: private interest, confirmed — the market, not the Compact. Who first paid for the job can't be found from here. In the office's view, it no longer matters."
+"The office has closed last term's records-hall matter," he said. "The man on the stair. His job was bought by a commercial shop that makes files on fighters and sells them up and down the continent. It was bought their way. What they were buying it for is on sale in this town tonight: a file on the enrollee, made since the mill town." He poured himself tea. "The office's finding: private interest, confirmed — the market, not the Compact. Who first paid for the job can't be found from here. In the office's view, it no longer matters."
 
 Nobody said anything for a moment.
 
@@ -214,11 +192,11 @@ Karis had the grey notebook open at the back, at the page of open lines. She had
 
 "How sure is the office?" she said.
 
-"The office would put its name to it before any panel you care to choose." He answered in his counting voice, flat as a column. "The house builds its files in a particular order, and the job on the stair was the first piece of that order. It pays its readers in a particular way, and the job on the stair was paid that way. Every buyer has a hand, as every clerk has one. This house has written its orders in the same hand since before any of us were born. It doesn't change its hand for one stair."
+"The office would put its name to it before any panel you care to choose." He answered in his counting voice, flat as a column. "The shop builds its files in a particular order, and the job on the stair was the first piece of that order. And it pays its readers in a particular way. In advance. On paper, unsigned. Through a box near water, let by the month and given up, so that no box is used twice and no reader ever has a name to sell. The readers in this town complain of it; they would like somebody to shout at." He moved the milk jug an inch to the left. "The man on the stair was paid through a box by the river, let for one month. Every buyer has a hand, as every clerk has one. This shop has written its orders in the same hand since before any of us were born. It doesn't change its hand for one stair."
 
 He drank some tea.
 
-"And there is an absence that confirms it," he said. "Suppose the client had been an office. The Compact, or the registry, or any body with a seal and a standing. An office that wants a thing and fails to get it asks again, louder, on better paper, with a name at the bottom. Nobody asked again. Instead, the house went round to the public hearing and built the door from that, more cheaply, and sold the file anyway." He set the cup down. "Offices insist. Shops make do. This one made do."
+"And there is an absence that confirms it," he said. "Suppose the client had been an office. The Compact, or the registry, or any body with a seal and a standing. An office that wants a thing and fails to get it asks again, louder, on better paper, with a name at the bottom. Nobody asked again. Instead, the shop went round to the public hearing and built the door from that, more cheaply, and sold the file anyway." He set the cup down. "Offices insist. Shops make do. This one made do."
 
 Karis looked at him for a long moment. Then she looked down at her page.
 

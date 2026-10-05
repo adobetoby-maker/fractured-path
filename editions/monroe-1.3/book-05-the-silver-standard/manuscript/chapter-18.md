@@ -92,7 +92,7 @@ Ephram did not look at them. He was still writing.
 
 ---
 
-Lira's semifinal asked her nothing she had not already answered. It was a Blade from a valley house who fought just as Rooke's sheet said he would, and she beat him in two exchanges on the main floor before the gallery had properly settled.
+Lira's semifinal asked her nothing she had not already answered. It was the other valley Blade, not the one Ephram had beaten, and he fought just as Rooke's sheet said he would, and she beat him in two exchanges on the main floor before the gallery had properly settled.
 
 Her final was in the afternoon, against the Stone.
 
@@ -108,7 +108,9 @@ She won the final in four exchanges, two touches to one, and she fought it off E
 
 She did not follow. She stopped in the middle of the floor on dry flags, and stood there, and let him go.
 
-The Stone stood by the north rope for some time, waiting for her. The gallery began to murmur. At last he came back out to the middle, because the glass was running and a fighter who will not come to his opponent cannot touch her. As he came off the damp slate onto the dry, his feet changed speed, and she was waiting for exactly that change. She took the touch there, and the fourth exchange's after it.
+The Stone stood by the north rope for some time, waiting for her. The gallery began to murmur, and the glass ran out with nobody touched.
+
+In the fourth he came back out to the middle at the call, because a fighter who will not come to his opponent cannot touch her. As he came off the damp slate onto the dry, his feet changed speed, and she was waiting for exactly that change. She took the touch there, and the bout with it.
 
 The figure was twenty-five. It was her third title of the season, and she had not lost a bout.
 

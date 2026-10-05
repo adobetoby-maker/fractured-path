@@ -460,3 +460,212 @@ Bracket formats as now on the page:
 
 
 **Movement 2 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied in ch12 (the Bronze's 'twenty feet' made hearsay — meet records are figure-only; 'when they posted' for the academy Irons' figures). Where the author end-state above predates r1 (Seln's comparison figures, Rooke's 'bad mornings', the Bronze 'not counted'), the manuscript governs. Overlap 0/14, gates 0, probe 1%/6%.
+
+## AFTER MOVEMENT 3 — chapters 14–19 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- THE MARKET is at the QUARRY TOWN (the third meet): the three coats (Auremont's two scouts, handicappers, compilers), the board-man, Brom's dossier returned 'like a dropped glove', Karis's information audit, Seln's cutaway and the table — all here, not at the mill town. The records-broker thread CLOSES BENIGN ('the market, not the Compact'); the dossier circulates permanently. 'Shop' is the word for the commercial compiler.
+- SELN infers management from the four items only (the post locking in the east hall; Jask, a third-year 'quick off a read'; the file back from the guest floor; the one slip of wing paper); no reason, no mechanism; the payment evidence given to Karis at the table; Karis's page is his inference. Seln has 'fifteen years' (new canon). 'Offices insist. Shops make do.' The null report: 'True. Complete in form. Empty.' closes the movement (d84, the quarry town's last morning).
+- FORMATS #39 (regional): exhibition ≤5 exchanges, two touches ends it, A CLEAN THROW COUNTS AS A TOUCH; brackets two touches inside four, level → figures. SLATE gives FOUR free bursts a day (per-day budget; Lira's 'three a bout' is a coach's per-bout rate). Lira's quarry-town Iron final: 2–1 in four (1–1 after two; the third runs out untouched on the wet north flags she refuses; the decider in the fourth) — her THIRD title; rated 25. Brom's funnel collects in the quarterfinal and semifinal; his honest final vs the southern coach's boy. Ephram's semifinal loss to the heat-shadow. Cael's band BROKEN: 26 / 20.
+- Cael vs the grappler foreman (a Stone Path): one hand on him; Compression banked at contact; the LEFT shoulder-seam wrenched, four days (d83–d86); Rooke to look at it on the road. The RIGHT shoulder stays Pressure's private cost. Fenmark's third-form gap is on the LEFT foot (the gap Lira named at fourteen; the drill book carries her name on that foot). Lira: 'The moment was three years of work, and I already had it.' (year counts NOT incremented). The equipment mistress unnamed. Auremont is NOT the banner-holder. Zerin's and Marek's sheets: 'She's faster than me right now.' / 'The dangerous direction.' — protected item 38 'This one's been mispriced too.' with Brom's referent ('Every one of us priced below what we fight like').
+- Clocks: the silence ran five days ('the five days of the silence'); the quay on the Fifth-day morning; Lira saving the coat-rack for two days. First third of the book closes here (~97,000 words).
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane weekdays (day N falls on weekday (N mod 7)+1). No season names, no month names, no month order.
+
+| Day | Weekday | Event |
+|---|---|---|
+| d64 | Second-day | Wagons home from the mill town (M2). Rooke takes the training sheet that evening |
+| d65 | Third-day | Rooke returns the sheet blank |
+| d66 | Fourth-day | Morning: the circular on the cohort board; breakfast ("the bill"). On the sprung oak: the slow-feet drill with the Stone reserve. Afternoon: Brom's hold; the costing Log |
+| d67 | Fifth-day | The counter; Bracken's pouch arranged. Evening: Karis's open lines; *The trade in records* |
+| d69 | Seventh-day | Wagons over the ferry at first light (two and two at the landing) |
+| d74 | — | Sixth day of the road: ice in the trough |
+| d76 | — | Eighth day: slate roofs |
+| d77 | First-day | Ninth day: the milestone; **the silence begins** |
+| d78 | Second-day | Tenth day: Log on the tailboard; the lake; arrival at dusk. Seln's first evening on the quay |
+| d79 | Third-day | The slate exchange; Rooke's cold-hall doctrine. Seln's second evening |
+| d80 | Fourth-day | The practice hour on the slate (four free); the draw; Brom in the dark. Seln's third night: reads the file |
+| d81 | Fifth-day | **Meet day one** ("eleven weeks" after d4). Dawn: Ephram's open-yard entry. The coat-rack ("Huh. It's small.", the end of the silence's fifth day); the southern coach's pages; Copper R1; the three coats; the midday dossier; the grey-wool woman. Seln returns the copy. Afternoon: **Lira vs Fenmark's second entry**; Brom's quarterfinal; Karis's quarterfinal; Ephram's quarterfinal. Supper: the drill book; **Seln's reconciliation** |
+| d82 | Sixth-day | *No book*; Lira's errand. Brom's semifinal. **Ephram's semifinal**; Lira's semifinal; afternoon Iron final (Lira); Copper final (Brom). Supper: the board-man; Ephram's freight; the eleven pages. Night: **the audit** |
+| d83 | Seventh-day | Exhibitions. Morning: the slate-country Blade (item three). After noon: **the grappler foreman**; strapping. Afternoon: the pouch and Hesk's letter. Evening: Rooke's coaches' supper (the extracts). Before midnight: the quay steps and Zerin. Late: the extracts dealt; Marek |
+| d84 | First-day | First light: Seln writes the quarterly and sends it north. First bell: the record posts (26 and 20; first of six). Wagons |
+
+**Every rating figure in the movement** (#38: five judges; per-axis strike; marks to fifteen; ten = par; ratings to forty-five; par thirty).
+
+| Bout | Result | Figure(s) | Band |
+|---|---|---|---|
+| Cael vs the slate-country Blade (Iron R5), exhibition, d83 | 2–0 in three | **26.00 → 26** (item three: "three points up, once a meet") | strong Iron / Silver-touched |
+| Cael vs the grappler foreman (Stone), exhibition, d83 | 2–1 in five | **20.33 → 20** (item one, two points by design plus one taken by the floor) | Iron |
+| **Cael's season, eight exhibitions** | eight bouts unbeaten, none lost | 23, 22, 24, 22, 21, 23, **26, 20**; spread 20.33–26.00 (5.67) | the band "breathes" |
+| Lira vs Fenmark's second entry (Iron QF) | 2–0 in three | Lira 26, the boy 21 | |
+| Lira vs a valley Blade (Iron SF) | 2–0 in two | not stated | |
+| Lira vs the home Stone (Iron F) | 2–1 in four | 25 | Lira's third title |
+| Ephram vs a valley Blade (Iron QF) | won in three | not stated | |
+| Ephram vs the home Stone (Iron SF) | 1–2 in four | Ephram 23, the Stone 24 | |
+| Karis vs the home Stone (Iron QF) | 1–1 after four, figures decide | Karis 22, the Stone 23 | |
+| Brom vs a hill-house Copper (R1) | 2–0 in two | not stated | |
+| Brom vs the wiry quarry Copper (QF) | 2–0 in two | not stated | funnel one |
+| Brom vs a valley Copper (SF) | 2–0 in three | not stated | funnel two |
+| Brom vs the southern boy (F) | 2–1 in four | Brom 23, the boy 21 | Brom's third title |
+
+**Standings.**
+- Quarry town: **Halcenvane first of six** (Lira the Iron; Brom the Copper; Ephram a semifinal; Karis a quarterfinal).
+- Circuit accumulation: **still second**, "by less than before".
+- One meet is left on the card. The threshold is "close enough to see", to be believed "when it comes up the road on a circular".
+- Titles to date: **Lira three** (no bout lost). **Brom three** (bouts unbeaten, none lost). **Ephram one.** Karis placed at all three meets.
+
+**Burst ledger by day (Cael; the free budget is per day on a floor).**
+
+| Day | Floor (free price) | Use | Bursts | Note |
+|---|---|---|---|---|
+| d66 | sprung oak (six) | slow-feet drill; Brom's hold | 0 | escapes on foot, by the floor's spring |
+| d80 | slate (four; "maybe three" cold) | practice hour | 1 | the test burst; the landing "a blow" |
+| d81–d82 | — | not fighting | 0 | |
+| d83 | slate (four) | the Blade (E3: 1); the grappler (E2 the knee burst; E5 the outside burst: 2) | **3 of 4** | nothing billed to the morning |
+
+- Lira: per-bout rate three. Against Fenmark, 0 bursts in E1, 1 in E2 (beneath the turn) and 0 in E3 (a step). Rooke's rule is restated on slate ("one extra might be a habit").
+
+**Bodies.**
+- **Cael:**
+  - **Left shoulder-seam wrenched, d83 (front of the joint, by a lever).** It is "not out… only angry". Gault strapped it and made a scarf sling. **Four days (d83–d86)**: "No pulling, no pushing, no hanging off it, no sleeping on it. I'll look at it on the road." (M4 clears it.)
+  - Back rung by the E1 throw onto slate, a day's matter.
+  - Hip: the usual after three bursts on stone.
+  - Right shoulder: untouched all movement.
+  - Shadow: rent from waking; "two drifts this week, both in the gaps"; deployment none.
+- **Lira, Brom, Karis, Ephram:** fit. Ordinary floor knocks only. Brom's M2 forearm bruise is not mentioned and is presumed healed.
+
+**Fragments and progression.**
+- Six confirmed plus the anomaly, which was not touched. No new capability and no public-record change.
+- Wind at documented rate (twenty feet; the landing beat). Slate priced at four a day.
+- Read: used throughout; "works better here than anywhere he had fought".
+- Compression: **kept banked at the grappler's contact**, at the cost of the left shoulder.
+- Pressure: untouched.
+- Ember: none (Cael). Karis used her own Ember at contact.
+- Shadow: none.
+- **The variance program ran:** item three (+3, the Blade) and item one (−2 by design, −1 actual, the grappler). Items two and four are not yet run. Rotation continues.
+- New technique, not a fragment: the slow-feet discipline ("early eyes, late feet", one in two). Its limit is now known: it costs heat on a cold floor, and slate gives no spring for the escape.
+
+**Knowledge.**
+- **Cael:**
+  - the scouting market's three coats;
+  - a commercial file on him in every meet town, built in the order door, record, man, company (told by Seln at the table);
+  - that the betting houses refuse to book him;
+  - that Auremont's junior scout writes only in his gaps (what she sees: unknown);
+  - that the records-hall reader's client was the market.
+- **Karis:**
+  - the trade in records;
+  - the open line struck ("Accepted.");
+  - the information policy (her rules);
+  - the panel clerk's eleven pages (cold and flag timing; panel practice against the manual; law and habit);
+  - the southern coach "watched our faces".
+- **Seln:**
+  - read the current file once, by one candle, twice through;
+  - saw the compiler's *Managed?*;
+  - matched the house's procurement to the stair job;
+  - returned the copy;
+  - **does not know the mechanism and does not wonder**. No reason is stated.
+  - He copied Karis's rules under *Delegation: correspondence and floor discipline.*
+  - His quarterly went north on d84.
+- **Lira:** Zerin's extract; that Fenmark keeps her drill in its second-year book, on the left foot; the equipment mistress nodded.
+- **Brom:** his own file's page three; Marek's extract ("holding him at One for reasons of their own").
+- **Ephram:** that his rehearsed entry was sold within a day.
+- **Rooke:** has seen the slow first exchange cost a shoulder. He said "We'll talk about the floor" and has not asked why. He bought the first continental extracts.
+- **Auremont:** has two scouts' charts of Cael, including the "gaps". The grey-wool woman's next edition will think him "a little less tidy".
+
+**Resources.**
+- Brom's file (four pages, page three), kept along its crease.
+- Ephram's file book, minus the page he gave Lira (folded in her wrap during the final).
+- Karis's long thin notebook (bought at the wool town; the clerk's eleven pages); the grey notebook's open lines, with the reader's heading struck; *The trade in records.*
+- Seln's travel file (the meet record copied d84; the policy sheet).
+- Rooke's continental extracts (Zerin, Marek and others; Lira holds hers).
+- Hesk's letter, behind the observation notebook's front board.
+- Bracken's pouch, running both ways. Gault's scarf as Cael's sling.
+
+**Relationships.**
+- **Lira:** Fenmark closes as a wound ("Huh. It's small."; "Institution's bankrupt; the person gets paid."). She gives the Fenmark boy his exit. She turns Cael's own bill back on him ("There's your bill"; "Tell Rooke the truth about the floor"). On Zerin she is "glad".
+- **Seln:** "Good." and one second too long; the Log's two professionals of one trade. With Karis: "Accepted."
+- **Brom:** "I'll stand near her and not say it"; with the southern boy, "You fought me. Not the paper."
+- **Ephram:** gives Lira his page; "That was your bout." He takes the audit's correction straight ("Closed floors").
+- **Karis:** becomes the delegation's policy-maker; "keep two columns".
+- **Rooke:** "Slow on purpose is still slow."
+- **Hesk:** a letter; the door line and "Ask me when the road runs home", logged and not pushed.
+
+**Open threads.**
+- Opened:
+  - Auremont's reading of Cael's resets (the "gaps"), unknown to him.
+  - Zerin (the Norhold semifinal line).
+  - Marek (Brom).
+  - Rooke's promised talk about the floor.
+- Advanced:
+  - the variance program (two of four items run, with costs);
+  - the threshold (close, awaiting a circular);
+  - Hesk's history (one touch).
+- Closed:
+  - the records-broker's client ("private interest, confirmed — the market, not the Compact"); the residue is a file in permanent circulation;
+  - Fenmark as a wound;
+  - the bill.
+
+**Prose vs plan differences.**
+- (a) **The whole second market is met at the quarry town**, not the mill town. M2 closed the mill town without it, and M2's author left the market to M3 (its flag 14). **Seln's cutaway runs on the quarry town's service side** (the alehouse on the quay), not "the mill town's service side" as the packet has it. See owner flag 1.
+- (b) Brom's file arrives at the quarry town. The packet's semifinal-funnel and honest final both happen there, as do the two later funnel collections. The packet's "collects twice" counts the quarterfinal and the semifinal, and "Do your own next season" belongs to the quarterfinal.
+- (c) Ephram's rehearsed entry is sold at the quarry town (a steward at the yard gate) and declined in both his quarterfinal and his semifinal.
+- (d) The null report closes the movement (d84). The packet places it before the quarry town; its order is the author's.
+- (e) Lira wins the quarry-town Iron, her third title; the packet does not specify. Ephram's itemised loss becomes her map.
+
+## New canon minted (flag where marked)
+
+- **The quarry town.**
+  - At the lake's head, all slate; quarry terraces up the mountain, with a lamp on the third terrace at night.
+  - The inn on the quay (two fires; a landlady who looks "for a long breath first").
+  - The alehouse at the quay's end.
+- **The slate exchange.**
+  - Built for stone lots and kept for the guild and the circuit; two iron stoves.
+  - The **main floor** in the middle, the coldest place in the building. The **west floor** by the west stove.
+  - The **north flags' skin of damp** off the windows. The **heat-shadow** over the stove end.
+  - The covered loading bay where the houses warm up (the iron coat-rack); the loading yard with a gate to the street.
+- **Slate's free price: four bursts a day** ("maybe three" cold). Flag: a number for M4+ stone floors.
+- **Rooke's cold-hall doctrine (flag).** Coats on until called, with Gault holding them; two warm-ups (an hour before, to a sweat, then a quarter-hour before); "nobody stands still" (walk a circle between exchanges); warm water, never cold; hands oiled and kept in the armpits.
+- **The slow-feet drill.**
+  - Rooke's three kinds of slow (feet, eyes, decision).
+  - *Early eyes, late feet. One in two. He holds like a gentleman. Find somebody who doesn't.*
+  - Brom's hold; "I'd not want to try that on stone."
+- **Bracken's pouch (flag, minor).** The records office's pouch on the hill coach (Second-day and Sixth-day), locked in Ostrand and unlocked by Seln, its letters sealed. Karis's audit makes it the delegation's only letter route.
+- **Karis's open-lines page.** Headings ruled, finished lines struck once and left legible; *The trade in records.*
+- **The compilers' house (flag).**
+  - Files are built door, record, man, company.
+  - Readers are paid in advance, unsigned, through boxes near water let by the month.
+  - Rag paper, linen-sewn; one clerk's hand; corrections struck legible.
+  - The basis section was built from the public hearing after the stair job failed.
+- **Brom's file.** Four close pages, sourced "Gallery observation and meet records". Page three is the old seam, with a four-step exploitation sequence.
+- **Roles (no names).**
+  - The southern coach (about fifty, small poor well-run house).
+  - The wiry quarry-country Copper.
+  - The valley Copper (Brom's semifinal).
+  - The southern boy (about seventeen, quick left hand).
+  - The board-man.
+  - The grey-wool woman.
+  - Auremont's two scouts (an older man who writes from memory after exchanges; a younger woman who writes in the gaps).
+  - The presiding adjudicator's clerk.
+  - The home house's Stone (heavy-framed).
+  - The slate-country Blade (Iron R5).
+  - A valley Blade (Lira's semifinal).
+  - **The grappler foreman (flag):** a **Stone Path, rooting kind**; runs a lifting gang on the third terrace (twelve years); went to the Bronze trials twice and came home both times; *my lads asked me to*.
+  - The Fenmark second entry (Wind, second-year).
+  - The tape-box woman (the equipment mistress, never named).
+- **Fenmark's doctrine (flag).**
+  - Four forms, "one for every year a student stayed": centre, press, turn, finish.
+  - **The third-form turn plants the left foot.** This is the half-beat gap Lira named at fourteen (B3: "the right foot for the third turn").
+  - The fourth form is a three-burst rising finish, "a third-year piece at the earliest".
+  - **A second-year drill carries Lira's name, on the left foot.**
+- **Exhibition rule (flag).** A clean throw onto the back counts as a touch.
+- **Lira's account.** The equipment mistress folded her things and carried them to the gate when the wing was shut to her.
+- **Hesk's letter (verbatim; flag):** *Your sheets come up the coast road to me now, about a week behind you, so I know you're in the slate country. Mind the cold in your hands up there. A cold hand lies about what it's holding.* / *For the Wind girl, if you think she'd take it from me: I have spent my life on instruments that other men gave up on, and I'll tell her what my trade knows and doesn't say in front of customers. When a place throws out what it doesn't know how to set right, the fault's in the workshop, never the instrument. The Wind girl has shown them that already, on paper with a stamp on it, which is the only paper such places read. Your grandmother proved a version of it once with a door. That's a tale for another day. Ask me when the road runs home.* / *You are on more men's scales now than I ever was. Mind the difference between the ones measuring you and the ones reading you. One sort wants a figure off you and goes home with it. The other sort wants to know you, and those are worth the trouble of an answer. — H.* The letter touches no history beyond the door line.
+- **Zerin's extract (flag):** *ZERIN — Auremont — Wind — Iron, Rank 9 — nineteen. Program entrant at twelve. Kindled at fourteen, within the program. Advanced on schedule, every season. Times below.* Burst intervals and sustained figures sit two tiers high, with an examiner's verification mark on the closing speed.
+- **Marek's extract (flag):** *MAREK — Rhagen Institute — Glass — Copper, Rank 1 — notations attached.* First-exchange verdicts; every touch marked at a "join"; "the same join… worked again and again until the flags came up." The Copper tier was cheaply compiled.
+- **Seln's quarterly (verbatim):** *Subject competed within the basis of his enrollment. Exhibitions conducted under charter provision; figures recorded, variation within the range expected. No undisclosed capability observed. Schedule continues. Routine.*
+- **Rooke's file line:** *Takes a loss like freight. Ready.*
+- **Seln's policy sheet:** *Delegation: correspondence and floor discipline.*
+

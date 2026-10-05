@@ -350,7 +350,7 @@ Lira came down the steps behind him with a sheet of paper in one hand and two mu
 
 She sat down on the cold slate beside him and held the paper folded against her knee with her whole hand flat on it.
 
-"Rooke went to the coaches' supper," she said. "Somebody there had the first continental pages. Only the houses that are already sure of a place at Norhold. Rooke paid for them, and then he came and found me before he showed anybody else, because he knows what I'm like at night with a page I haven't read." She held it out. "Read it. Then I'll tell you about the coat-rack. I've been saving the coat-rack."
+"Rooke went to the coaches' supper," she said. "Somebody there had the first continental pages. Only the houses that are already sure of a place at Norhold. Rooke paid for them, and then he came and found me before he showed anybody else, because he knows what I'm like at night with a page I haven't read." She held it out. "Read it. Then I'll tell you about the coat-rack. I've been saving the coat-rack for two days."
 
 He put down the mug and took the page in his right hand, and tilted it to the light from the inn's back window.
 
@@ -382,11 +382,11 @@ He waited.
 
 "For years I had a picture in my head." She looked out at the lake. "I walk into their hall in somebody else's colours, and they see me, and they know what they let go. I had it worked out to the last breath. I used to run it on the walk home from Vell's when I was too tired to sleep."
 
-She drank. "And this morning there they were, two lanes over, and I went to find the picture, and there was nothing there to find. I stood at that coat-rack with one wrist wrapped, looking for it."
+She drank. "And on the Fifth-day morning there they were, two lanes over, and I went to find the picture, and there was nothing there to find. I stood at that coat-rack with one wrist wrapped, looking for it."
 
 "I saw."
 
-"I know you did. You were standing where you always stand." She turned the mug in her hands. "So all day I've been asking where it went. And I think I know."
+"I know you did. You were standing where you always stand." She turned the mug in her hands. "So for two days I've been asking where it went. And I think I know."
 
 She looked at him. "The moment was three years of work, and I already had it. Vell's floor. Greyvane. The crown. That counting room at the station, and the frame, and the four seconds. Every one of those was the moment. I just kept waiting for them to be in the room for it. And somewhere on a wagon I stopped needing them in the room at all, and I never noticed I'd stopped."
 
@@ -442,9 +442,9 @@ Beside every touch stood the same small mark. Karis leaned across the table to l
 
 "Copper Rank One?" said Ephram, who had come round the table to see. "With that?"
 
-"That's a number somebody wrote down," said Brom. "Rhagen teaches by doctrine. They're holding him at One for reasons of their own."
+"That's a number somebody wrote down," said Brom. "Rhagen teaches by doctrine. They're holding him at One for reasons of their own. Same as the girl at the wool town they kept at Four. Same as my own card, come to that." He tapped the word *Copper* at the head of the tier. "Every one of us priced below what we fight like."
 
-He read the notations again from the top, slowly, all the way through. He read them as he ate, completely, and his face went still and heavy as it did for very few things. Cael had first seen it do that at Ardenmere, before either of them had a house or a rank, and had learned since then what it was for. It was the face Brom kept for a problem he respected.
+He read the notations again from the top, slowly and completely, all the way through, and his face went still and heavy as it did for very few things. Cael had first seen it do that at Ardenmere, before either of them had a house or a rank, and had learned since then what it was for. It was the face Brom kept for a problem he respected.
 
 Brom put the page down.
 
@@ -464,8 +464,6 @@ He looked at them, and then at the column he carried in his head, the six figure
 
 The band had come apart at both ends. It breathed. It looked like a fighter who had good days and bad ones, on floors that suited him and floors that did not.
 
-It had cost a shoulder to make it look like that, and he had paid for every point.
-
 Halcenvane stood first of six on the meet. Lira had taken the Iron and Brom the Copper. Ephram had a semifinal, and Karis a quarterfinal and a notebook full of the clerk.
 
 On the season's count the house was still second, by less than before, with one meet left on the card and the threshold close enough to see. Rooke read the board from the bottom up, folded his copy into his coat, and said, "Wagons."
@@ -473,12 +471,6 @@ On the season's count the house was still second, by less than before, with one 
 Nobody moved at once. Lira stood in front of the Iron leaf with her hands in her pockets and read her own name at the top of it, and the figure beside it, and the word under it that the clerk had chalked in square capitals: *Title.* She read it the way she had read the milestone on the ninth day of the road, all at once and without stopping. Then she did not look away from it. She looked at it for a good while, and Cael, standing behind her with his arm in a scarf, understood that this was the difference, and did not say anything.
 
 Brom read the Copper leaf with his head on one side and said, "Same line again," with deep satisfaction. Ephram copied the whole record into his file book, both brackets and the exhibitions and the house totals, standing up, in his careful hand, and when Karis asked him why, when Seln was already copying it, he said that a champion of the upper Iron kept his own files and that he did not intend to stop being one just because he had lost a semifinal. Gault picked up his case by its handle and held it a little higher than he needed to, so that the registry clerk at the next table could see the stitching.
-
-In the third row of the empty gallery, a woman in plain grey wool sat with a small notebook on her knee. Her round came to the exhibition leaf and stopped for its two heartbeats, and she wrote something, and went on.
-
-The next edition of somebody's file, Cael supposed, would think him a little less tidy than the last one had.
-
-Good. That was the product working.
 
 ---
 

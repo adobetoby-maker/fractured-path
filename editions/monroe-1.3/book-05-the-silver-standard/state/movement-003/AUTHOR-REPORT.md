@@ -406,3 +406,57 @@ Supporting beats:
 14. **Year counts:** "since Ardenmere" and "three years" (Cael's Log, dating from the circuit), and Lira's ruled line. Rooke's "twenty years" and the foreman's "twelve years" are incidental. No "four years".
 15. **FRE 88.7** remains above the 72.3 target, as in M1–M2.
 16. **Words: 32,788 (wc)**, inside 31,500–34,500.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place, against `REPAIR-BRIEF.md`. Each change was read and written by hand as a single exact replacement; no rule-driven splitting, joining or substitution. Only ch14–19 and this report were edited; the source chapters were not reopened; `pre-repair/` was not touched. **No git commands were run.**
+
+### Lira's Iron final, as now written (P1)
+
+**2–1 in four exchanges.** E1 the Stone's touch (the step off the warm flags); E2 Lira's touch from below the moving air (1–1); E3 the Stone gives ground toward the wet north flags, she refuses ("She did not follow… and let him go."), and the glass runs out with nobody touched; E4 he comes back to the middle at the call, his feet change speed onto dry slate, and her touch there ends the bout (2–1). Figure 25 unchanged. "That was your bout. I only fought it." kept. The report's ratings table ("2–1 in four … 25") already matches.
+
+### Before / after
+
+| Measure | Before r1 | After r1 |
+|---|---|---|
+| Words (wc), ch14–19 | 32,788 | 32,482 |
+| Prose words (metrics) | 32,716 | 32,407 |
+| Sentence mean | 13.96 | 13.94 |
+| ≤5-word share | 25.9% | 25.9% |
+| ≥40-word share | 3.0% | 3.0% |
+| Paragraph median (movement) | 28 | 28 |
+| Paragraph median, ch17 | 31 | 30 |
+| Words per scene | 1,022 | 1,013 |
+| FRE / FK | 88.7 / 4.35 | 88.8 / 4.34 |
+| `ed.sh overlap` (unprotected) | 0 (with the coordinator's patterns) | **0** (11 protected) |
+| `ed.sh gates` | 0 | **0** on all six |
+| `sweep_probe.sh` skeleton / close | 1% / 6% | **1% / 6%** (ch17 2% / 6%) |
+
+Per chapter after r1 (prose words / mean / paragraph median / words per scene): ch14 4,966 / 13.7 / 29 / 993 · ch15 5,220 / 14.6 / 27 / 1,044 · ch16 5,036 / 14.9 / 28 / 1,007 · ch17 4,674 / 13.9 / 30 / 935 · ch18 5,383 / 14.0 / 26 / 1,077 · ch19 7,131 / 13.1 / 28 / 1,019. Cumulative ch1–19: prose 97,241, sentence mean 13.58.
+
+### Changelist by chapter
+
+- **ch15**
+  - The coat-rack: "the whole of the five days on the road" → "the five days of the silence" (P2).
+  - The slate test: one narrative clause between Cael's "Four free on this, in a day" and Lira's "Three a bout for me": *His four were a day's price on a floor; hers were a coach's ration for a single bout, and Rooke had never changed it.* (P3 audio).
+- **ch16** — no change needed after ch18's tag (Ephram's quarterfinal opponent remains "a Blade from a valley house").
+- **ch17** (P3; net ≈ −300 words)
+  - "The office" anchored once: "in the voice of the office that had put him behind the wing's counter".
+  - "Shop" (or "firm") for the commercial compiler throughout: "a commercial shop", "where a shop showed what it thought of itself", "the order of a shop…", "the shop's buyer", and in Seln's table speech "a commercial shop", "The shop builds its files…", "This shop has written its orders…", "the shop went round to the public hearing". "A file is made the way a house is built" → "…a wall is built". ("Betting house" and the academies' "houses" are left as they are.)
+  - Paper paragraphs: one sentence cut (the clerk's-hand sentence).
+  - The reasons block (seven paragraphs) compressed to two paragraphs, four sentences of evidence: the post locking in the east hall, with the dial sheets against his chest, and two unowned things inside one breath; Jask, a third-year, telling the refectory queue the boy was *quick off a read*; the file home from the guest floor and *unmarked file. one of three. probably the third.*; one slip of wing paper in a hand that was nobody's. No reason, no mechanism; the Wind/forearm description is removed. "He had had the word since last year, and he had not got it from figures." kept.
+  - The in-head deduction keeps "Door, record, man, company" and the stair; the runner's payment evidence is **held back** ("Seln set that aside for the table. Karis Dellenmoor would ask for a reason, and it would be better to have one she had not heard."). The shop-paid-the-reader paragraphs are tightened.
+  - The table: Seln now gives Karis the payment method as new evidence (in advance; unsigned; a box near water let by the month and given up; the readers' grievance), set against the stair job's box by the river, before the confirming absence. "Offices insist. Shops make do." kept.
+  - Karis's page becomes Seln's inference: "he had no doubt it was open in Karis Dellenmoor's grey notebook too, under a heading of its own… He suspected she drew a very straight line."
+  - "*Managed?*", the read-twice lines and the quarterly are untouched.
+- **ch18**
+  - Lira's final: the third exchange runs out with nobody touched; the deciding touch comes in the fourth (P1).
+  - Lira's semifinal opponent tagged: "the other valley Blade, not the one Ephram had beaten" (P3 audio).
+- **ch19**
+  - The quay: "I've been saving the coat-rack for two days"; "And on the Fifth-day morning there they were"; "So for two days I've been asking where it went" (P2).
+  - Marek: "He read them as he ate" cut ("slowly and completely, all the way through"). **"mispriced *too*" given a referent without touching the protected line (BOOK_MAP §10 item 38, kept verbatim):** Brom now says before reading, "Same as the girl at the wool town they kept at Four. Same as my own card, come to that… Every one of us priced below what we fight like."
+  - The stacked codas: the board scene's restating sentences cut ("It had cost a shoulder to make it look like that…"; the grey-wool woman's round and "Good. That was the product working."). The board keeps the two figures, the band "breathing", the standings, "Wagons." and the companions at their leaves. **The null report remains the close** ("True. Complete in form. Empty.").
+
+### Notes for the coordinator
+- The brief offered "mispriced. The dangerous direction." as one fix for the referent; item 38 is protected wording, so the line stays exact and the referent is supplied by Brom's preceding speech instead.
+- Your accepted flag "an exhibition throw counts as a touch" is for the #39 note; I have not edited any file outside ch14–19 and this report.
