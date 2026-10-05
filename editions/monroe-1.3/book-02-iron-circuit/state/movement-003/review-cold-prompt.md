@@ -1,0 +1,1939 @@
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+7 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-16.md
+
+# Chapter 16 — Load First
+
+The keeper's book was public, which was the first thing about Ardenmere that Brom had liked. He had been reading it standing up at the end of her table for most of an hour before she looked at him over the top of the day's slips.
+
+"You read it from the back."
+
+"From the front of the volume."
+
+"That's what I said." She turned a slip over without looking at it. "Most of them want the last fortnight. Who's up, who's down, who they've drawn. You want two years ago."
+
+He did not want the last fortnight. A fortnight could be kept honestly by anybody who knew there was a stranger at the end of the table, and he had not walked all this way to find out whether the woman could be honest for a fortnight. So he had gone to the front of the current volume and come forward a page at a time, slowly, the way his grandmother's builder had once taught him to walk a new floor: weight on each board before you trust the next, and the load first, and the ornament never.
+
+There were five names in the book that he knew from other rooms. Three of them he had fought in the river city in his first winter away, and two in the second city in the spring after. He found all five and read every line under every one of them, and then he stood a while with his thumb in the page and thought about what he had found.
+
+The keeper rated low.
+
+She did not do it by much, and she did not do it to anybody in particular. But the man who had beaten him twice in the river city, whom that circuit's keeper had called a Bronze-equivalent in all but the paperwork, sat in this book at *Iron-equivalent, low range*, with a note beside him in her narrow upright hand: *left guard tires by the fifth*. It was true. Brom had lost to him twice before he found it out. The woman from the second city, whose keeper had rated her generously because a generous rating filled a card, was here one rung lower than she had been there, and the reason was written beside her too, in four words, and that was true as well.
+
+"Well?" said the keeper.
+
+"You rate low."
+
+"I rate what I've seen."
+
+"It comes to the same thing."
+
+"Usually." She dipped her pen. "Not always. When it doesn't, I say so, in front of the person, and I correct every line it touched. Which is more work than rating them right the first time, so I try to."
+
+He nodded, because that was an answer and he liked answers. He liked, too, that she had not asked him why he wanted to know. People in this building did not ask why. They asked what, and how much, and who.
+
+A low record was worth travelling for. Anything this book said about a fighter was a little less than the truth, and every keeper and travelling fighter in the loose talk that ran between the cities knew it. That was why the talk had settled on Ardenmere the way it had. In that talk a venue had a name the way a fighter did, and the name stuck because whoever carried a false one paid for it in their own credit the next time they vouched for anything. The river city's name in that talk was *purses honest, records loose*, and he had found it fair on both counts. Ardenmere had been given a longer verdict, always in the same words, from people who had never met each other: *the keeper's ledger is worth more than any registry entry.*
+
+It was four hundred miles from the river city to Ardenmere, and he had come the whole of it to find out whether the talk was right. He had come in pieces, on carriers' benches when he had the fare and on his own feet when he did not, with a month of hauling sacks for a miller in the middle of it, and a week on a ferry he had worked his passage on, and one long wet night under a hedge that he did not think about if he could help it.
+
+He turned the page.
+
+Under one name, and under almost every win that name had, the keeper had written two words that he had not seen her write under anybody else in two years of her book. *Atypical movement pattern.* Not under the Wind girls, nor the Blade who fought to a drum, nor the Stone pair the tannery lanes argued over. It came under one name, again and again, like a builder's mark cut into every stone of one wall.
+
+There had been a sentence at the back of the talk that brought him here, after the verdict about the ledger. It was always shorter and always said more quietly. *There's a boy at Ardenmere the registry can't sort.*
+
+Brom closed the book on his thumb and handed it back to her across the table.
+
+"Thank you."
+
+"It's a public book," said the keeper, and took it.
+
+---
+
+Cael came in at the side door with his hands in his armpits and the frost still on his collar. The first thing he saw, before the straw post or the slate or Lira, was a big man at Vell's table handing her book back to her.
+
+He had come to count the room before anything else, the way the ration had taught him. He did it now standing just inside the door: the sweepers at the north end, the chestnut man's brazier not yet lit, Dace at the slate with a stick of chalk in each hand, Vell at her table. And the big man, broad as the side door, turning away from the table with his hands empty, as if a book were a thing you put down when you had finished with it and did not think about again.
+
+It had been three weeks.
+
+He had not gone and spoken to him. He had written *I owe him a conversation. When he's ready* at the bottom of a page, and he had meant the second half of it as much as the first. In three weeks he had not once seen the man ready for anything. He had seen him at the back by the water barrel on two thin cards, the broad still shape on the last bench that Cael had once counted as part of the furniture. And at his own bout the week before, against a Shield from the salt end, he had seen him somewhere much nearer: at the rope by the north post, close, with his forearms folded on the top strand. He had not watched the Shield at all. He had watched Cael.
+
+Cael had won that bout in the third exchange. He had felt the man's attention on him the whole time, steady and patient and close, like the warmth of a stove at his back.
+
+Now the big man went past the slate without looking at it and out of the side door, and the cold came in where he had been.
+
+"He's been at her book an hour," said Lira.
+
+She was in the arch of the alcove with her staff on her shoulder and a cloth round her wrist that she no longer bothered to explain. Something had changed in her these last weeks. The way she stood had not; the way she came at him had. She still lost. She had lost twice since the clock, once to an Iron-equivalent Shield who sat her down in the fourth, and once to a Wind from the north gate who was better than anybody had known. But the losses had changed shape. They went longer and came out closer, and twice now she had come home from one with a thing she had learned and the bruise that bought it, and been happy about both.
+
+"From the back," said Cael.
+
+"From the very front. Vell said." She took the cloth off her wrist and put it back on again, tighter. "Are you going to talk to him?"
+
+"When he's ready."
+
+"You keep saying that. What does it look like? Him being ready?"
+
+He had no answer for that, and she knew he had none, and she went to the straw post and hit it, hard, twice, so that the sound went round the stone.
+
+They worked through the morning. She came in, and in, and in, as she did now, and he met her with his feet, and twice with the step. Each time the hip told him about it from the crest of the bone to the inside of the knee, the old line, the price he knew. Between rounds he sat on the bench and wrote in the grey book. He wrote in the new order now. *What it's made of* came first, then the hooks, then last and smallest the old list of what a fighter did. He had built the clock's page that way, and Dessa's, and the river-academy man's, and five more since. Every new page went slower than the old ones had, and every new one would still be true next season.
+
+At the bottom of the page he was working on, without quite meaning to, he wrote a single line with no name above it. *Big. Stands at the rope. Doesn't watch the fight. Watches me.*
+
+He looked at it and did not cross it out.
+
+Lira had come up behind him without his hearing, which she could still do when she wanted to, and read it over his shoulder.
+
+"That's not a page."
+
+"No."
+
+"That's a note to yourself that you're nervous."
+
+"It's a note that he's close." He shut the book. "From the barrel you can't see anything. He's moved in. He's been moving in for three weeks."
+
+She looked at him with her head on one side.
+
+"Then he's nearly ready," she said, and went back to the post.
+
+That night, from the desk, he watched the practice lamp in the north window over the alcoves until it went out a little after midnight. Then he heard her on the stairs. He did not go down and he did not ask, and in the morning she was at the post before he was.
+
+---
+
+The side door of the Ironyard was never locked in the daytime, and Brom had noticed it the first afternoon, as he noticed most doors.
+
+He went out of it now into the cold with the keeper's two words still in his head and stood a moment in the lane. It was a plain plank door on iron hinges, with a bar on the inside for the nights. In the daytime the bar stood leaning against the wall beside it, and anybody could walk in or out without asking and nobody minded.
+
+The gate at home had been the same. It had not been a plank door but a pair of tall iron gates between stone posts, at the foot of a long drive under old trees, with the family's mark worked into the iron at the top where the gates met. There had been a lock on them once, a great black lock the size of a loaf, but nobody alive had ever turned it. The key hung in the gatehouse on a nail and had rusted to it. In three generations nobody who lived in that house had needed to be kept in, or had wanted to be kept out of it, and so the gates stood ajar from one year's end to the next, and the gardeners' barrows went in and out between them.
+
+On the morning he left, it had not needed opening. He had gone through it sideways with his bag on his back, as he had gone through it a thousand times, and nobody had seen him go because nobody had thought to look.
+
+He had been fourteen. He thought about that sometimes: how easy it had been, how a house built on the certainty that no one belonging to it would ever want to go had left the way out standing open and never once considered it a door.
+
+Gold ran down through the family the way the drive ran down under the old trees. His grandmother's card said Gold, and so did his mother's, though if you went by the figures and not the card his mother sat nearer the top of Silver than the bottom of Gold. Nobody in the house had ever said so; the card said Gold, and the card was what people saw. His sister was two years older than he was and already two years into a guild placement in a city by the sea, and she was spoken of at the long table in the voice the family kept for a thing that was going to go well. Nobody in three generations of that house had been read at a station and come out anywhere but at the top of the ladder, or near enough to it that nobody mentioned the gap over the soup.
+
+His own had come out Iron Skin, Copper.
+
+He had stood in the station's bare room under the Arbiter with his mother's hand on his shoulder, and heard it read out in the clerk's flat voice. Iron Skin was a Path filed among the defensive ones, the kind that kept you whole. He was Copper, the first metal, with ten ranks to climb before anybody would look at him again.
+
+He had been training his body since he was twelve, because every child in that house was put to it at twelve, with a yard and a post and a man to stand over them. He could already take a fall on stone and get up from it. He had thought, standing in the bare room, that it was not a bad reading. Plenty of families would have been glad of it.
+
+His family had not been sorry, exactly. Nobody had been cruel; he had gone over that afterward many times, and it was true. There had been no shouting and no cold dinners. There had been, instead, a great many quiet conversations in the long room, some of which he was part of and most of which he was not. They were about training, and about which instructor might be got to see to it. A man had come to the house within the month, with very good letters, whose work it was to correct what had gone short. They talked about the station their friends kept, three days' ride off, and a good day to be read again on, after a year of the right work, so that the next reading would be better.
+
+It had been handled the way a leaking roof is handled, kindly and thoroughly and without any question that it was a leak.
+
+He had found that harder than cruelty would have been, and had found it out slowly. Cruelty you could stand against. Kindness that had already decided what you were needed correcting gave you nothing to put your weight on at all.
+
+So he had gone, before the conversations finished, with what he could carry, sideways through a gate nobody had locked.
+
+Standing in the lane outside the Ironyard, he looked at the bar leaning against the wall inside the plank door and thought that he liked this building better for having a bar. It meant somebody had thought about who came in.
+
+---
+
+He had chosen the river city for one reason only: it was the first place on the road where his family's name would mean nothing to anybody.
+
+It had a circuit in a boat shed by the eel market. There were two hundred standing on a good night and a keeper who wrote the results up the next morning from memory, in a hand that wandered down the page. The purses were paid in full and on the night, in coin you could bite. The record was whatever the keeper remembered, and on some mornings that was a good deal less than had happened.
+
+He had won his first bout there on the first night, against a man with no Path he could put a name to and a habit of swinging from the hip. He had won it the way he had been taught: with the wall.
+
+That was what his instructors had called it, and the old manuals too. You raised the hardness over the whole of yourself at once and held it, front and back and arms and head, and lived behind it. Nothing short of a Bronze could get through it while it held. He had held it through four exchanges while the hip-swinging man broke his knuckles on him, and in the fifth the man had stopped swinging and sat down and looked at his hands, and that was the bout.
+
+He lost the next three.
+
+He lost them all the same way, and it took him a while to understand it, because nobody at home had ever let him lose often enough to see the shape. The wall held. It held every time. But it cost. Holding it all over at once was like paying rent on every room of a house when you only ever sat in one of them. It was a slow, even draw from somewhere under his ribs that did not hurt at all until, quite suddenly, there was nothing left to draw. The men in the boat shed did not need to break the wall; they only needed to keep him holding it. They went round him, tapping, testing, never committing to anything he could catch, until somewhere about the fifth or sixth exchange the wall came down by itself because he had nothing left to hold it with. Then they hit him, and they meant it.
+
+That was the other thing nobody at home had taught him. In the yard at Velmere, the people who hit him had been paid to, and had wanted him to do well. In the boat shed they were paid if he lost. They hit to hurt, because a hurt man stopped sooner, and it was a different thing to be hit by somebody who wanted the hurt, a lesson that went in somewhere deeper than the bruise.
+
+By the end of the first month the losses were ahead of the wins. He kept going back, because he found that one honest loss in the boat shed told him more than a year of arranged wins in the yard had.
+
+The redirect came out of being poor.
+
+He had been lying awake on his cot above a chandler's after a fourth loss, doing the arithmetic. He had perhaps six exchanges of wall in him. The bouts went seven. So he could not hold the whole of it the whole of the time, and if he could not hold all of it, he had better hold only what he needed. He did not need his back if nobody was behind him, or his legs if nobody was kicking, or his arm until the instant something touched it.
+
+He had tried it the next morning against the post in the boat shed's back room. He held nothing. He let his forearm be only an arm, soft, ordinary, until the post's swinging pad was a finger's width from it, and then hardened that one hand's breadth of it, there, at that instant, and nothing else. It was clumsy for a week. He was early, or late, and the pad bruised him. But when he got it right it cost him almost nothing at all, a single sharp spend where the wall had been rent.
+
+He found the other thing a week after that, and found it by accident.
+
+A man in the boat shed threw a hard straight blow at his chest, and Brom hardened the place it would land, exactly as it landed, and was exactly right for once. The man went backward. He did not stagger off the blow the way men did off the wall, stopped like a cart against a gatepost. He went back and sideways, turned half round, with his own arm flung out wide past his shoulder as if somebody had taken hold of his fist and thrown it back at him along a line he had not sent it on.
+
+Brom had stood in the middle of the boat shed with his forearm stinging and two hundred people roaring, and understood that a hardness laid down at the right instant did not only refuse what came at it. It sent it back, turned, through the place where they touched.
+
+Nobody at home had taught it to him, because at home it had never been wanted. A boy only learns to be exact with what he has once being lavish with it starts losing him fights, and in the yard at Velmere nobody had been allowed to make him lose.
+
+---
+
+He had been in Ardenmere a little over two months, and he had spent the first weeks of them reading the building.
+
+He had found the keeper's book, and found it low. He had found the man who ran the slate, which took him one evening, and spent the next watching the man instead of the fights, because whoever ran the slate ran the room. He had found the floor: old foundry stone, thick and dense, that would take a full redirect into it without passing it on. The ceilings were low, which would punish any Path that wanted height, and his did not want any. The lamps had been hung by somebody who had thought about it, so that no corner of the fighting floor was ever dark. He had fought eight bouts on that stone and won seven, and the keeper had written him in at Iron-equivalent with no comment at all. He had found that he did not mind. A number earned slowly in a book that rated low was a number he could put his weight on.
+
+And he had found the boy the registry could not sort, on the east bench with a grey book on his knee.
+
+He had watched him first from the back, by the water barrel, for a month. From the back he could see what anybody could see. The boy prepared. He sat on the bench through other people's bouts for hours and filled pages, and then he won, and his wins had been decided days before, on the bench. He did by hand, with nothing but eyes and a pencil, what Brom did without trying.
+
+That was where the trouble began. From the back by the barrel, Brom could not read him at all.
+
+The read was part of the Path. It had come with the hardness at fourteen, in the same breath. It was a sense of the other person's weight, and not the weight of their body only. He had never found a way to say what it was like that satisfied him. The nearest was the beams of an old house: when you sat in a room with your hand flat on the timber, you could feel who was moving on the floor above you. You felt a heavy step or a light one, a child running, a man carrying something and setting it down. Every practitioner pressed on that sense a little, in a shape their Path gave them and their rank sharpened. A Blade was a thin hard line leaning forward. A Force was a slow loading, like a cart being filled sack by sack, and then a crack. A Wind was weight that was there on one board and then, with no step between, on the next. The unkindled were boards with nobody on them. In two years and three circuits he had felt so many shapes that he had stopped expecting new ones.
+
+But it reached only a little way. It was a close sense, the length of a bench and not much more, and from the back of the room the boy was a boy and nothing else.
+
+So one night he had moved down to the end of the east bench, where nobody sat, while the boy was deep in whatever he did with his eyes. He sat close enough to touch his sleeve, and laid his attention on him like a hand on a beam.
+
+It was not empty. He knew empty. This was something else, a weight that was not where weight should be. It was not wrong the way a stranger's Path was strange, but wrong the way a word in your own language can be, now and then, near enough to one you know that it trips your ear, and then not a word at all.
+
+He had sat with it through two exchanges and learned nothing more. Then, because he had been watching the boy's pencil as well, and the boy's pencil was writing all the wrong things, he had said so, and left.
+
+For three weeks since, he had stood at the rope.
+
+He had stood there at both of the boy's bouts in that time, close, with his forearms on the top strand, and read him while he fought, and on the nights between he had sat at the near end of whatever bench the boy was not on. In the fights it moved. Once, as the boy stepped short off his left hip in a way no legs did, there was a flicker of something very like Wind, there and gone. Once, longer, there was a density gathering into his arm that read for a moment almost like Pressure, and then did not. They came and went, now one shape and now another, and none of them stood the way a Path stands. They were like several weights moving on the floor above at once, none of them a whole person, all of them going round some middle point he could feel the pull of and could not find.
+
+He had told himself, the first time, that he had misread it, and that the room was too loud. By the second bout he had stopped telling himself anything, and stood at the rope with his hands gone still on the strand, as interested as he had been in anything since the boat shed.
+
+He found the slate man at the end of the card, chalking the next week's names, and went straight to it.
+
+"I want to fight the boy on the east bench."
+
+Dace did not stop chalking. "He's Assessed. Copper-equivalent in her book, and a few of those above it, if you look at what he's beaten."
+
+"I've looked."
+
+"He doesn't lose to people who come at him. He loses to people who wait."
+
+"I know."
+
+Dace finished the name he was writing, and then turned and looked at Brom properly for the first time in two months. It was a long look, top to bottom, the way a carter looks at a horse somebody wants to sell him. Brom stood still and let him.
+
+"You're Iron-equivalent," said Dace. "In her book."
+
+"Yes."
+
+"And you've stood at that rope for two of his bouts and not watched one fight on the floor." Dace put the chalk in his pocket. "Two weeks. I'll take the Stone pair off the main floor and put them on the side. Whatever this is, it's not an alcove bout. You'll have the whole room." He rubbed his chin with a chalky thumb. "The whole room will have you, too. You'd better be ready for that."
+
+Brom had not thought about the room at all. He thought about it now, briefly, and found he did not mind it, and nodded.
+
+"In the morning," he said, "I'll tell him."
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-17.md
+
+# Chapter 17 — Two Weeks
+
+He came the next morning, at the end of the drilling, when Lira had put her staff up on its pegs and Cael was sitting on the alcove bench with the grey book open and his hip telling him about the second burst.
+
+Cael saw him first in the edge of things, the way he saw most things now: a broad shape leaving the slate and coming across the bare stone where the big bouts went, not hurrying and not slowing. Lira saw him a moment later. She had been wringing the sweat out of her wrist cloth, and she stopped with it twisted in both hands.
+
+The big man stopped in the arch of the alcove. He did not lean on it, as Red Cap did, or stand to one side of it, as Vell did. He took the very middle of the arch, hands hanging loose, and filled it.
+
+"Brom. Iron Skin Path. We fight two weeks from today."
+
+Cael closed the book on his pencil.
+
+"I know who you are."
+
+Something moved across the big face, small and quick, gone before Cael could have written it down. It might have been surprise. It looked like a man who had stepped onto a stair he had counted and found it a little higher than he had counted it.
+
+"Do you."
+
+"You've been watching for three weeks."
+
+"You noticed."
+
+"Three weeks ago."
+
+There was a pause. In it Brom looked at him, and Cael looked back, and neither of them did anything with his hands. Behind Cael, Lira had not moved at all; he could feel her not moving.
+
+"What do you know about Iron Skin?"
+
+"Not enough."
+
+The corner of Brom's mouth went in, very slightly, in a way that on another face would have been the start of a smile and on this one seemed to be the whole of it.
+
+"Good. Two weeks."
+
+He turned to go. Then he stopped half turned, with one shoulder in the alcove and one out of it, and looked down at the grey book on Cael's knee.
+
+"You changed the order. Of the pages." He said it plainly, the way a man reads out a figure. "The week after. I saw it from the rope. Before, you wrote while they were still fighting. After, you sat longer, and wrote less, and wrote it first." He considered the book a moment longer. "You listened. Most people who get told their method's wrong spend a month being angry before they hear it. Some spend longer."
+
+He did not wait to be answered. He went off across the floor to the second alcove along, where nobody trained in the mornings, and took his coat off and hung it on a nail. Then he sat down on the bench there and began, slowly and without any hurry at all, to wind a strip of cloth round his left hand.
+
+Lira let out her breath.
+
+"He didn't say good morning."
+
+"No."
+
+"He didn't say a single word to me. He looked at me twice." She put the wrist cloth on the bench beside Cael, carefully, as if it might go off. "I counted him. Not his steps. His words. Everything he said, from *Brom* to the end." Her lips moved. "Ninety-odd. Not one of them was *hello*."
+
+"He doesn't spend them."
+
+"No. He saves them up and buys you with them." She looked across at the second alcove, where the big man had finished one hand and begun the other. "He's going to train there."
+
+"Where I can see him."
+
+"Where you can see him." She sat down. "He's letting you watch."
+
+Cael looked at the broad back bent over its hands, and thought about that, and found that it was the most interesting thing about the morning.
+
+---
+
+He wrote it in the grey book on the bench while Lira went to fetch the bread, and the page held very little, which was the first thing it told him.
+
+*Brom.* He wrote the name at the head. Under it, *Iron Skin. Formal tier not known. Iron-equivalent in Vell's book* (Dace would not clear the main floor for less, and Dace had chalked it at the top of the slate in yellow before the sweepers were done). Under that went the whole of what he knew about Iron Skin. It came to four lines, and he did not need to look anything up for any of them. It was a Path, filed with the defensive ones in every list he had ever seen. It made the body hard, or parts of it. Whoever trained it kept the rest to themselves, and nobody outside had any reason to know.
+
+Then the two times he had been near the man, which were the only things on the page he had seen with his own eyes.
+
+*Sat on the end of the east bench in my ten degrees for two exchanges and I didn't see him come. Luck, or he knows what my eyes cost me when I go deep. Read my method off my pencil, not my fighting. Then three weeks at the rope, close: watched me, not the floor. Saw the book change from the rope and knew what it meant.*
+
+He stopped and looked at that, and wrote the next line more slowly.
+
+*He does what I do. From a floor further down.*
+
+And under it, because a thing left unwritten did not get smaller: *He's told me the day. Two weeks. He's chosen a place to train where I can see him. He wants to be watched.*
+
+He tapped the pencil against his teeth. A man who let himself be studied either did not believe study would find anything, or believed it would find something he wanted found, or wanted very much to see what the studying looked like from the other side. Cael did not know which. He wrote all three down and put a small *?* beside each, and left them.
+
+Then he wrote the thing that was not tactics, because it was true and the book was for true things.
+
+*I think I'm looking forward to this. I think I'll lose it.*
+
+He looked at the second sentence for a long time. Every honest sum he could run said it. He did not know Iron Skin. He did not know this man. He had been watched by him for three weeks and more, from close, while he had watched nothing back. The calm arithmetic he ran on every bout before he agreed to it came out, this time, on the other side of the line, and he had never once made a bout go better by lying to the page about it.
+
+But the sum did not change the looking forward, and that was the strange part, and he sat with it. A year ago a loss had been a cost, plainly, a thing that went in the third column with the others and was paid. Somewhere since, it had become something he could choose to buy. He had bought the river-academy man's whole cut with a forearm. He had watched Lira buy five things off Dravin with her ribs. A loss to the right man, taken honestly and watched all the way through, might be worth more than any win on the slate this side of midwinter.
+
+"You've underlined *think*," said Lira, behind him, with a loaf under her arm.
+
+"Have I?"
+
+"Twice. The first one." She broke the end off the loaf and gave it to him. "You think you're looking forward to it. You *think* you'll lose. You're hedging both of them, and you never hedge." She sat down and broke off a piece for herself. "You've gone soft on him already."
+
+"I haven't met him."
+
+"You've met him. Ninety-odd words." She chewed. "That's more than he's said to anybody else in this building. I asked Vell."
+
+"When did you ask Vell?"
+
+"On the way to the bread." Lira looked very pleased with herself. "He's been here a little over two months. Eight bouts and seven wins. He lodges at the carters' inn by the north gate and pays a week ahead. He reads her book from the front." She took another bite. "And Vell says he's better than her number, and she put the number there herself, so she ought to know."
+
+---
+
+He went to Vell's book himself in the slack of the afternoon, when the card had not begun and the floor was empty except for the sweepers.
+
+Vell was writing up the morning's sparring for the newcomers, which she did not have to do and did anyway, and she pushed the book across to him without looking up. He stood at the end of her table where the big man had stood the day before, and found Brom's name, and read him from the back, the newest line first, the way everybody read it.
+
+There were eight lines. Seven of them were wins.
+
+They were short, even for Vell. Each one had the man's name, his Path, the exchange in which it ended. Under every one of the seven, in the narrow upright hand, there was the same thing in slightly different words, as if she had tried each time to find a new way to say it and each time had come back to the old one. *Took everything; gave nothing first.* *Did not begin.* *Opponent's own blows.* *Stood.* Under the fifth win, against an Iron-equivalent Force from the tannery end, she had written only *Stood*, and then, a little apart from it, in a smaller hand: *Force retired with the right wrist.*
+
+Cael read the seven twice. They told him what Corrin's knuckles had told him, and what the shut door of the alcove had told him: that nobody who had fought this man had been able to make him do anything at all. It was useful in the way a wall is useful to know about. It was not a map.
+
+Then he came to the eighth line, which was the first.
+
+It was a loss. It had been Brom's first bout on that stone, two months back, against a Shield from the river end whom Cael knew slightly, a careful heavy fighter who did nothing quickly. *B. to the Shield (Iron-equiv.). Seventh exchange. Hand up.* And under it, in Vell's hand, three words.
+
+*Did not know the floor.*
+
+Cael stood with his finger under the line for a long time.
+
+He knew the Shield's fighting. The Shield did not go first either, as a rule; he waited behind his guard and let people tire on it. Two men who began nothing had stood on the stone and looked at each other for seven exchanges, and at the end of it the big man had put his hand up. Cael tried to imagine it and could not. He could imagine only the end, and Vell's three words, and the seven lines after them in which the man had not lost again.
+
+*Did not know the floor.* It was not that the Shield had found something. It was that Brom had not yet found something, and then had gone away and found it, and come back.
+
+He turned the book back round and pushed it to Vell.
+
+"The Shield," he said.
+
+"First week." Vell went on writing. "He came in off the road and asked for a bout the same night, and Dace gave him one, because Dace likes to see what a stranger is before he decides what to do with him." She blotted a line. "He lost it on his feet. He stood seven exchanges on that floor as though it were a different floor, and something in him kept looking for a thing that wasn't there. Then he put his hand up, very politely, and went away." She dipped her pen. "He spent the next three weeks walking about the building. I saw him put his hand flat on the stone, once, in the corner by the barrel, when he thought nobody was looking. Like a man feeling for a draught."
+
+"And after that he didn't lose."
+
+"After that he didn't lose." Vell looked up at him then, over her spectacles. "You're thinking that's a weakness. A man who needs to learn a floor."
+
+"I'm thinking it's a habit."
+
+"Yes." She went back to her page. "It's a good one. He learned the floor in three weeks. Remember that, before you go thinking you've found him out. He's had a good deal longer than three weeks to learn you."
+
+Cael went back to the bench and wrote it under Brom's name, under *Iron Skin. Formal tier not known*.
+
+*One loss, first bout, the Shield. "Did not know the floor." Then three weeks learning it, hand on the stone. Then seven wins, nothing given first. He learns places before he fights in them. He's been learning me for longer than that.*
+
+---
+
+In the evening they went back down to the alcove, after the lamps were lit and the card was half done, because before any bout that mattered he measured himself first.
+
+He had learned that in the winter, from Lira, in the weeks of testing when she stood over him with a stick and called a stop at every burst. Last month's body belonged to somebody else, and a plan made for it would be fought by somebody else. So he stood on the chalk cross by the straw post with the noise of the card coming through the arch, and she stood off with the broom-handle measuring stick, and they began where they always began, with one.
+
+He dropped his left hip, and the floor went short, and he was half a body to the front-left with the breath stopped in him. He landed, and locked: two *ands* of nothing, the slow bright stillness he could not move in. Then it let go.
+
+"One," said Lira. "Same as ever."
+
+He did it to each line of the fan, front-left and left and back-left, and they were all the same as ever. The hip spoke after each, a thin line of warmth from the crest of the bone to the inside of the knee. It was his. It was his, and he could have priced it as quickly as a loaf.
+
+Then the harder thing.
+
+He had been trying to make two bursts go one after another since the week of the seam. A burst, the lock, and then, at the very instant the lock let go, before his feet had done anything else, a second burst off the far edge of it. For weeks it had not come. The first burst spent the half-breath, and the lock held him, and when it let go there was no breath left to spend on the second. His body would not go short again on empty lungs. It simply stood there on the chalk and wanted air.
+
+"Breathe first," said Lira. "Like I told you."
+
+She had told him a fortnight ago. He had not believed her, because it sounded too simple. Now he stood on the cross and filled himself before the first burst, more than he needed, as much as his chest would take, until his ribs stood out under his shirt. He spent half of it going short to the front-left. He held the rest through the lock, two *ands*, with it sitting in him like a coin in a closed hand, and the instant the lock let go he spent it, and went short again, left.
+
+He landed a full body and more from where he had started, with the hip burning in two places on the same line.
+
+Lira did not say anything for a moment.
+
+"That's two."
+
+He did it three more times, and it came three more times. Then once it did not. He came out of the lock with the second burst asked for and nothing there to answer, his breath half gone and his feet stuck on the chalk like a man who has reached for a stair rail that was not there. Then three more times it came again. Six in seven. He sat down on the bench and wrote it with his hand not quite steady.
+
+"Now three," he said.
+
+"No."
+
+"Once. To know."
+
+Lira looked at him with the stick in her hand. She had a way of looking at him when he asked to do a stupid thing for a good reason, as if she were deciding which of the two to answer.
+
+"Once," she said. "I'm calling it."
+
+He filled himself until his ribs hurt. He went short, and locked, and went short again off the edge of the lock, and locked again, and in the second lock he felt the breath go out of the bottom of him like water out of a cracked jug. He knew before the lock let go that there would be no third. He asked for it anyway, because he had said he would. Something in the hip moved, and stopped, and he came out of the second lock onto his knees with the alcove going grey at the edges, the lamps turning to smudges, and a ringing in his ears.
+
+"Stop," said Lira, from somewhere. "Stop. Breathe. That's it. Stop."
+
+He knelt on the stone and breathed, and after a while the lamps came back, one at a time, and the noise of the card, and Lira's boots in front of him.
+
+"I saw something," she said. "Before the two. Not the three, the two." She crouched. "Your chest. You fill it, and it goes up like a bellows, and then you go. Anybody who's watching your chest knows you're going two before you go."
+
+He thought about it, on his knees, and knew she was right.
+
+He wrote it sitting on the stone. Getting up could wait.
+
+*WIND-ADJACENT. Conditions (add): chain of two. Fill first, past need; spend half on the first burst; hold the rest through the lock; spend it as the lock lets go. Six in seven tonight. Claim: repeatable. Evidence: seen, L. counting. Ruling: yes. Costs (add): the fill shows. Chest up before I go. A new tell, and a big one. Chain of three: not there. Asked once to know. Grey, ringing, knees. Ruling: no. Don't ask again to find out what I already know.*
+
+He sat back on his heels.
+
+*Two weeks out. This is what I bring.*
+
+---
+
+The return came up to Coss in the Thursday tray, under a mill-race dispute and a tanner's permit, and he very nearly sent it on unread.
+
+He had been sending things on unread for most of a year, and doing it well. A contact of record kept his name on a file long after his visits were finished, for the convenience of somebody's register; it meant that every time a district assessor went out on it, a copy of the return came up two floors to his desk, *for information*. Information meant nothing was asked of him. He read the head, and put his thumb on the routing card to send it on, and did not sign anything. Most weeks there were a dozen of them.
+
+This one had *Ardenmere, river side* in the head, and under it the name.
+
+He sat with his thumb on the routing card and did not move it.
+
+The return was very short, and in a hand he did not know. It was a young man's hand, very level, with every letter the same height as its neighbour, as if the writer had ruled faint lines for himself and rubbed them out afterward. *Visit made. Subject found in district, morning. Address confirmed by keeper's book. Compliant. Nothing further.* Below it, in the same hand and the same size, as the standing instructions had lately required on every file of that class: *Supplementary marker entered on closure, as instructed.* And the initials, and the date.
+
+Havel. He knew the initials from the duty board; it was a name, and a face to go with it, and a pair of new boots in the corridor, and nothing more. Four years in, a careful one, whom nobody talked about because there was nothing to say.
+
+*Found in district, morning.*
+
+Coss put the return down on the desk and looked at the window, where the afternoon was going grey early over the yard.
+
+He knew how it would have gone, as surely as if he had been there. The young man would have gone in through the river gate in a coat that fitted him, with his case in his left hand, and walked up the tannery lane while the district quietly arranged itself round him. He would have gone to the house and read the book and been sent somewhere by somebody who did not want him in the house. And there at the somewhere, sitting in the open in front of everybody, would have been a boy of fifteen with nothing in his hands, already looking at him.
+
+*Compliant. Nothing further.*
+
+He had sat across a pie from that boy once, at a table in that district, and been asked whether he knew what a flag was. He had told the truth: he had not. Then he had gone home on the noon cart, and three days after a boy's bout in a yard, he had opened this same file at his desk and found out.
+
+He picked up the return again and read the second line once more. *Supplementary marker entered on closure, as instructed.* It was the green slip. Every file of that class had to have it now, since the Tuesday instructions a few weeks back. He had read the instruction himself on his own floor, and wondered for the length of one breath who had wanted it, and then not wondered, because wondering about instructions was a thing a man could only do for so long before it showed in his face.
+
+The boy's file was in the registry's long room now, shelved under the river-side district with everything else that had been visited and stamped and closed. He did not need it. It asked nothing of him. Information.
+
+At the end of the day, when the clerks were tying up the sacks and the corridor had begun to smell of the lamps being lit, he went down to the long room and asked for it by its number.
+
+---
+
+The registry's long room ran the length of the building's back, under the windows, with shelves to the ceiling on one side and a counter on the other. The clerk at the counter was a woman who had been there longer than Coss had, and she went and found the file without a word, because a contact of record could ask for his own file and nobody would ever write down that he had. She laid it on the counter between them and went back to her ledger.
+
+It was very thin. He had known it would be, and it still gave him a small cold turn to see how thin.
+
+He opened it.
+
+The cover leaf first, with the registry's stamps. The grey slip was not pinned inside it. He had not expected it to be. Working slips came off when a file went down to be shelved; that was the registry's rule, and the clerks unpinned them and kept them or burned them according to some other rule nobody had ever told him. That afternoon it had sat there, with its printed head and its code and its one date, the morning after the boy's bout, and he had looked at it for a long time and written nothing about it, and locked it in his drawer, and taken the key home. When his contact period ran out the file had gone down to the long room like every other, in a sack, and come off its pins.
+
+He turned to the classification block on the first leaf, and stopped.
+
+There were three lines in it.
+
+The first was the registry's, *[SHATTERED]*, with its stamp. The third was the young assessor's green slip, entered in that level hand, with *H.* and the date in the right-hand column, very neatly. Between them was a second line.
+
+It was in the short printed form the registry used for handling markers, a designation and a figure. The column at its right-hand end, where an officer's initials went, was empty.
+
+He stood at the counter and read the designation four times.
+
+It had no prefix that he knew. It was not his section's or regional's, and not the one the autumn sweep had carried on its orders. It was not anything in his register. The slip had carried a code with no prefix he knew either, and he had stared at that code long enough, on the afternoon he found it, that he could have sworn to the shape of it in his sleep: the run of letters, and the gap, and the figure after the gap. This line had the same shape. He was nearly sure of it.
+
+He could not be sure. That was the thing that went through him, standing at the counter in the long room with the lamps being lit along the shelves. He could not be sure, because he had not written the code down. He had sat that afternoon with his working log open on the desk in front of him, eleven years of plain black books bought with his own money, every file he had ever opened written up in them in his own hand, and he had left that day's page empty on purpose. It had been the first page he had ever left empty, and he had done it because a thing written down could be found, and he had not known who might come looking. And now the one thing he wanted most in the world to check against was not anywhere. It was not in the registry, or in his log, or anywhere but in his own memory of a slip of grey paper that had come off its pins and gone to wherever the clerks sent such things.
+
+Somewhere above his grade, and above his section head's, the same thing had been in this file once as a slip, and it was in it now as a line. Or it was a different thing that looked the same. Either way, nobody had signed it.
+
+Below it, the young man had signed his own.
+
+Coss looked at the *H.* in the right-hand column for a while. Havel would have read the leaf from top to bottom; anybody who wrote that hand read everything from top to bottom. He would have seen the empty column when he came to enter his own line under it. He might have taken it upstairs, and he had not. He had made his entry, neatly, under nobody's, and written *as instructed*, and closed the file. Coss knew exactly what that had cost him to do, because it was what Coss had done.
+
+He felt two things at once and did not like either. One was relief, plain and shameful, that the young man had not sent a note upstairs with his name on it. The other was the thought, which arrived whole and sat down in him and would not get up again, that he had now watched two men find the same nothing in the same file and say nothing about it, and that one of the two had learned it from the other without ever being told.
+
+The query form was in his drawer upstairs. He thought about it. He thought about the last one he had sent, months ago, about a sweep, and the word that had come back in the spring pouch in a hand he did not know. *Noted.* He thought about a slip of grey paper pinned inside a file with his own name on its cover, and he thought about the kitchen table at home, and a girl doing her sums with her tongue between her teeth.
+
+He had not asked then. He did not ask now.
+
+He closed the file and pushed it back across the counter, and the clerk put down her pen and took it and went off down the long room to shelve it, between a carter's licence and a widow's pension, where it had been.
+
+Upstairs, he put the return through on its routing card without a mark, as information. Then he took his working log out of his inside pocket and opened it on the desk to the day's page, and uncapped his pen.
+
+He sat for a long time.
+
+He did not write the code, because he did not have it. He did not write *same as before*, because he did not know that it was. He did not write *assessor H. entered under it and did not query*, because that was the young man's to write or not, and he had not. He found that there was nothing he could put on the page that was both true and safe. Every true thing he knew pointed upward, at a floor he had never stood on, and he had spent eleven years learning what happened to men who pointed there.
+
+So the page stayed empty. It was the second.
+
+He capped the pen, and put the log back inside his coat and buttoned the coat over it, and went home through the streets in the dark. At the kitchen table his daughter was drawing a map for her lessons, the river and the bridges and the gates, very carefully, with the Unranked District on the far bank left white because her master had told her nothing there needed drawing.
+
+"Was it a good day?" she asked, without looking up.
+
+"It was a day." He hung his coat on its peg and stood with his hand on it a moment, feeling the log through the cloth. "You've left that side blank."
+
+"We're meant to." She held the map up to the lamp. "Master says there's nothing over there."
+
+Coss looked at the white space on the far bank, where the market row ran up to a square with a pump in it, and a boy had sat on a step and been found.
+
+"Draw the bridges in properly," he said. "At least go as far as the gate."
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-18.md
+
+# Chapter 18 — Stimulus, Latency, Response
+
+The district's reading room was over the dyers' hall at the bottom of the market steps, up a stair that smelled of indigo and wet wool, and Cael had been in it perhaps a dozen times in a year.
+
+It was one long room under the roof with a stove at one end and a locked press at the other. Between them stood four tables, where men in fingerless gloves sat reading old notices and almanacs and the shipping lists from the river. Anybody could sit at the tables for nothing. The books in the press cost a copper each to have out, and the copper was the least of it. The keeper of the room, a thin old man with ink on both his cuffs, wrote your name in a book of his own beside the number of whatever you had taken, and kept the book forever.
+
+Cael stood at the press with his copper in his hand and looked at the old man's book, open on its slanted desk, with the pen beside it.
+
+Everything he gave them went in a file somewhere. He had written that on the officials page in his own hand. This was not the Compact, only an old man in a room over a dye works; but a name was a name, and the book was a book, and Cael had been fourteen in a hall with a dark Arbiter over his head and had learned there exactly how long a thing written down could last.
+
+"Name," said the old man.
+
+"Hesk-ward."
+
+The old man wrote it, slowly and well, and did not look up, and gave him the key.
+
+He took down everything in the press that so much as mentioned Iron Skin, which was three books. There was a big brown register of the Paths of the realm, a hundred years old and re-bound twice, and a smaller book on the defensive Paths in particular, and a guild almanac from a city up the coast with a chapter on the families who trained them. He carried all three to the table nearest the stove and sat with them through the whole of the cold afternoon.
+
+The register was laid out the way the Compact laid out everything, in rows. He had read its front pages before, in the spring, when he was trying to understand the ladder he had been put at the bottom of. There was the table of the metals, Copper and Iron and Bronze and Silver and Gold, with ten ranks to each and a line under the tenth where the station had to look at you again. There was the list of what each metal let you do and where it let you go: Copper the outer districts and the limited market; Iron the whole city, and the guild district with your credentials in your hand; Bronze the administrative core as well, where the gates were. And after the front pages came the Paths themselves, each one a row, with its branch and the metals at which anybody had ever been recorded holding it, and a line or two of what it did. There was no row in it for anybody who had not been given a Path, and he had stopped looking for one a long time ago.
+
+The register gave Iron Skin a line among the defensive Paths, between a Path for turning blows and another for standing, and said it hardened the body against force. It had been recorded at every metal from Copper to Gold, and at none above. The book on defensive Paths gave it a little more, and all of it was the same thing said at greater length. The almanac gave it four pages.
+
+He read the four pages twice, because he did not at first believe them. They were about who owned it. Here were the three guild houses that taught it, and when each had been founded and by whom. Here was which of them had quarrelled with which, and which families had sent their children to which house for four generations, and what those children had become. One page was nothing but a list of marriages. And in the middle of the second page, between the founding of one house and the founding of the next, there was a single sentence on what the Path did. *Its practitioners raise a hardness of the surface of the body at need, the art of which is the property of the houses named above.*
+
+He copied the sentence out exactly into the grey book. Under it he wrote: *Four pages on who owns it. One sentence on what it does. The registry's the same, only shorter.*
+
+He sat a while looking at the line.
+
+He had thought, coming up the dyers' stair, that he was going to read about a Path. He found he had read about a door instead, and the people who kept the key to it, and how long they had kept it. That was what the whole ladder was, he supposed, if you looked at it from far enough off: Copper, Iron, Bronze, and the guild letter, and the station, and a book in a hall with your name in it. It was four pages on who owned you and a sentence on what you could do.
+
+He thought of Lira at the top of Copper, at ten, with the door in front of her that only a guild's letter would open, and of the six guilds she had asked and the two halls she had walked to. He thought of the almanac's page of marriages. Somewhere at the back of the reading room the old man with the ink on his cuffs coughed and turned a page of his own book, the one with *Hesk-ward* in it now, and Cael found he did not mind it as much as he had at the press. An old man's book over a dye works was at least honest about what it was for. It wanted to know who had the key.
+
+He went to a second reading room the next afternoon, a cold one in the old chapel by the north gate, on the theory that a room nobody used might have older books. It had older books, and none of them said anything the first room's had not. After two days of rooms he stopped going to them.
+
+---
+
+He tried people next, which was harder, because people wanted to know why you were asking, and in the Ironyard everybody already knew.
+
+Corrin found him rather than the other way round. He was a big grey Stone fighter with a face like a split log, who had been fighting in the Ironyard since before Dace kept the slate. He no longer fought much, but he sat on the end of the front bench most nights with his hands on his stick and told whoever sat next to him what was wrong with the bout in front of them. He stopped Cael at the water barrel on the second evening.
+
+"You're asking round about Iron Skin."
+
+"I am."
+
+"Because of the big one." Corrin did not wait for an answer. "I fought one once. Years back, in a port up the coast, before your mother had you. A woman, not big. Iron Skin, Iron tier, and she looked at me like I was a horse she was thinking of buying." He worked his right hand open and shut on the head of his stick. The knuckles were thick, and two of them did not close all the way. "I'll tell you what it's like and you can make of it what you want. It's not her hitting you. She hardly hit me at all. It's your own hit. You put your best into her, everything you've got, and the hit comes back up your arm the wrong way, on a line you didn't send it on. Your wrist knows before your eyes do. Like punching water that decided, halfway, to be a wall."
+
+Cael wrote it down while the old man watched him do it.
+
+"Did you beat her?"
+
+"I did not." Corrin seemed to find this funny. "She stood there. I kept hitting her. Every time, it came back, a little worse. By the fourth I couldn't make a fist." He opened and shut the hand again. "Took a year to come right, and it never came all the way."
+
+"How did she stand?"
+
+Corrin looked at him with some respect, as if it were a better question than he had expected.
+
+"Like a gatepost. Back. Way back, on her heels, like somebody'd planted her and come back in a year to see if she'd taken." He snorted. "I thought it was a fault. I thought, she can't go anywhere from there. I was going to make her chase me. She didn't chase. Why would she?"
+
+"Did she ever start anything? Strike first?"
+
+Corrin thought about it, honestly.
+
+"Not that I noticed. Why would she? I was doing all the work for her."
+
+The second man Cael asked was a Blade from Orvet's gym who had lost to an Iron Skin in the second city, and he wanted mostly to talk about the injustice of it, and about a keeper who had scored it wrong, and about his own left knee. Cael listened politely for as long as he could and wrote down one word, *knee*, which turned out to be about the man and not the Path.
+
+Neither of them could tell him how it worked. They could tell him what it was like to be on the wrong end of it, and that was something; but it was a bruise and not a map. How a body learned to do it, what it cost, where it ran out: that lived inside three guild houses up the coast, behind four pages of marriages, in books that would never come down to a dye works in an Unranked District for a copper.
+
+So he would have to do it the way he did everything, which was by watching. He went back to the Ironyard and found that the man he needed to watch was already there, in the second alcove, waiting to be watched.
+
+---
+
+Brom trained in the hour after the noon meal, when the alcoves were nearly empty, and he did it with the newcomers.
+
+It took Cael the whole of the first session to understand what he was looking at. Three of them came down the floor at the hour from Keth's dawn ring, a boy with a broken front tooth and the girl with sacking in her hair and a tall slow lad who looked about twelve. Brom gave each of them a copper, out of a pouch on his belt, and stood up in the middle of the alcove with his hands at his sides, and the boy with the tooth hit him.
+
+He paid them to hit him. That was the arrangement. A copper a round, three rounds each, and they could hit him anywhere they liked as hard as they liked with anything they had. They queued up for it, and when they had had their three rounds they went back up the floor rubbing their wrists and looking pleased. Cael heard the girl with sacking in her hair say to the tall lad that it was the best copper she ever earned.
+
+Cael sat on the bench against the back wall of the alcove with the grey book open on his knee and his eyes doing what his eyes did now, and by the end of the hour he had a problem.
+
+The gaze did not work.
+
+He went down into it, carefully, a full exchange deep, and came up, and counted the room, and went down again; he kept the ration. And each time, at the bottom, there was nothing there. The hooks were built for a fighter who did things. Every fighter he had ever studied, every Path, gave him the same thing to work with: the space between deciding and doing. Somebody decided to strike, and the deciding leaked out of them. The hands went quiet, the breath went short, the weight went down into a heel, a shoulder settled, and then the strike came. Primed, building, committed: he had a hook for each and a count between them, and a page filled itself.
+
+Brom did not decide anything. He stood. The newcomers hit him, and things happened, and he answered them; but before anything was done to him, there was nothing to see at all. He was dormant all the way through. He was dormant the way a wall is dormant.
+
+Cael's page, at the end of the first hour, read: *Dormant. Dormant. Hit, left forearm, boy. Dormant. Hit, chest, girl. Dormant.* It read like a man writing *still shut* outside a shut door.
+
+He tried everything he had. He watched Brom's hands, which hung open and did nothing. He watched his shoulders, which did not settle or lift, and his eyes, which did not fix on any place on anybody but rested on the newcomer in front of him the way a man's eyes rest on weather. He watched the breath, and the breath was even, and he watched the feet, and the feet did not move. He went down into the hooks a second time, against the ration's grain, a whole round deep, and came up with his eyes aching and the alcove swimming and nothing at all in the margin but a row of the first hook, dormant, dormant, dormant, like a fence.
+
+The answers, when they came, were plain enough to see. The boy with the broken tooth swung at Brom's ribs with everything a twelve-year-old's arm could hold, and went off sideways as if a door had swung into him, and sat down on the stone, laughing. The girl with sacking in her hair struck at his forearm and her own fist came back past her ear. Cael wrote every one of them. But they were all ends. He had a page of ends and not one beginning.
+
+He sat with that. It was not a comfortable thing to sit with. For a year the gaze had been the one thing he could count on when everything else went wrong; on the worst nights the hooks had always come. Now he had put the whole of it on a man for an hour and it had come back empty. It was not a hard problem. It was a problem his method could not see.
+
+Across the alcove Brom paid off the tall lad, and sat down on his own bench, and began to unwind the cloth from his hands. He did not look at Cael. But as he finished the left hand and started on the right, he said, to the cloth, "Anything?"
+
+"No."
+
+Brom nodded, as if that were the answer he had expected and was satisfied with, and went on unwinding.
+
+---
+
+He found it that night, at the crate desk, with the lamp turned low and the first session's useless page open in front of him.
+
+He sat a long time first with nothing in his head but the shut door, and then, for no reason he could find, with Hesk's mill.
+
+He had been nine or ten. Hesk had taken him down to the wheel-house on a morning when the race was running high, and stood him by the great wooden shaft where it came in through the wall, and put his small hand flat on it. *Now watch the water.* The water had come down the race and hit the paddles, and Cael had felt nothing in the shaft at all, for a moment, for long enough to wonder whether Hesk was teasing him. Then the shaft had turned under his hand, all at once, with a knock, and somewhere through the wall the stones had begun to grind. *That's the slack,* Hesk had said. *Water hits, and the gears take it up, and then she turns. Every wheel has it. A new wheel hardly any. An old one more, and more every year. You count the slack and you know the wear before you ever open her up.*
+
+He had not thought about that morning in years.
+
+He had been looking at it the wrong way round. That was all. He had been watching the space before the hit, because in every fighter he had ever studied, the space before was where the truth leaked out. But a fighter who began nothing had nothing before. Everything Brom did came after: after the boy's fist, after the girl's elbow, after the touch. And if it came after, then there was a space there too, between the hit arriving and Brom's answer to it. A space could be measured. A thing that could be measured could be watched, and a thing that could be watched long enough gave up its shape.
+
+He turned to a clean page and ruled it in three columns, with a straightedge, slowly, because he wanted it right.
+
+Over the first he wrote *Stimulus*: what was done to him, where, by whom, how hard.
+
+Over the third he wrote *Response*: what came back, and how far it threw them.
+
+And over the middle column, the one he had never had a use for, the one that had always been only the space between his other columns, he wrote *Latency*.
+
+He looked at the three words for a long time. Then he took his pencil and wrote, very small, under the ruled head: *The gap is the subject. Not the hit. Not the answer. The time between.*
+
+But he had no clock. Nobody in the district had a clock that told less than a quarter-hour, and that only on the chapel by the north gate, which was usually wrong. He timed everything in a bout by his own breath. But his breath went short and long when he was interested, and he was very interested, and a measure that moved with his interest was no measure. He sat a while with his fingers on the inside of his own wrist, feeling the steady beat there, slow and even in the quiet room.
+
+That would do. It went faster when he was frightened, but he was not frightened of Brom. It went faster when he ran, but he would be sitting still. He counted it against the shadow of the lamp-flame moving on the wall, for long enough to trust it. Then he wrote *pulse* at the foot of the middle column, and went to bed.
+
+"You're taking your own pulse," said Lira, in the morning, at the alcove, watching him sit on the bench with two fingers on his wrist and his eyes on nothing.
+
+"I'm learning it."
+
+"You've had it all your life."
+
+"I've never listened to it." He let go of his wrist. "I need to know what one beat is. Exactly. So I can say a thing took one and a half."
+
+Lira looked at him for a moment, and then put two fingers on her own wrist and stood very still with her eyes half shut.
+
+"Mine's faster than yours."
+
+"Everybody's is faster than mine. I'm sitting down."
+
+"I'm not going to be able to stop doing this now," said Lira, with her fingers still on her wrist. "I'm going to be doing this all day. Thank you so much."
+
+---
+
+Keth caught him the next dawn, on the far side of the floor, where the newcomers' ring was chalked out on the stone in a circle that had been rubbed and redrawn so often it had a ghost of itself round it.
+
+Keth ran the ring at first light, before the sweepers, for anybody who turned up. He was a Blade who held his practice blade with the little finger off the grip, as if it had once been told to stay out of things and had never forgotten. Cael had a page on him, the one headed *No reason for this page*. The newcomers were at it already when Cael came in at the side door: the boy with the tooth, the girl with sacking in her hair, the tall slow lad, and four more, going at each other with sticks under Keth's eye while their breath went up in the cold.
+
+"They're yours," Keth said, when Cael came across. He did not say good morning either. Nobody in the Ironyard did, Cael had begun to notice, except the chestnut man. "The ones in the big man's alcove. Those three. They're mine first."
+
+"I know. I've seen them come down from here."
+
+"He asked me." Keth watched the tall lad lose his stick and go after it. "Before he gave them a copper. He came across here at dawn, the first week, and stood where you're standing, and said, *Your three. Can I pay them to hit me.* I said what for. He said, *They mean it.*" Keth's mouth moved at the corner. "I've run this ring a long while, and nobody's ever asked me whether he could borrow it."
+
+"Did you say yes?"
+
+"I said ask them." Keth turned the practice blade over in his hand, the little finger lifting off it as the grip came round. "They said yes before he'd finished asking. A copper's a copper." He was quiet for a moment, watching the girl with sacking in her hair. "But it's not the copper. Look at her."
+
+Cael looked. The girl was going at a boy of about her own size, and she was going at him in a way he had not seen her go at anybody a fortnight ago. Before, she had swung and shut her eyes, the way new people did, and flinched before the stick could touch her. Now she swung and kept them open. When the boy's stick came back at her she did not flinch from it. She watched it come.
+
+"Three days of hitting a man who sends it back at her," said Keth, "and she's stopped being frightened of the stick. I couldn't teach her that in a month. I tried." He said it plainly, without any sourness, the way he said everything, but Cael saw his little finger close on the grip and then lift off it again. "You can't tell somebody it's only a stick. They have to find out it comes back and they're still standing."
+
+"Are you sending him more?"
+
+"I'm sending him all of them." Keth looked at Cael then, for the first time. "What are you counting? Over there, on his bench. You've got your fingers on your arm like the chestnut man testing a coal."
+
+Cael thought about how much to say, and decided that Keth had told him something true and was owed something back.
+
+"The gap," he said. "After they hit him. Before he answers."
+
+Keth was silent a while. The tall lad had got his stick back and lost it again.
+
+"Everybody watches the hit," Keth said at last. "Or the answer, if they've any sense. Nobody watches the bit in the middle." He turned back to the ring. "That's a better thing to count than most of what you count. I've seen your book." And then, as Cael turned to go, without looking round: "Tell me what's in it. The middle. After."
+
+"After Tuesday?"
+
+"After you've found it." Keth lifted the practice blade, and the ring went quiet. "Again," he told the newcomers. "Eyes open."
+
+---
+
+By the fourth session the middle column had begun to fill, and he knew he had the right column.
+
+A newcomer's fist landed on Brom's forearm. Cael counted. Somewhere between the fist arriving and the newcomer going off sideways with his arm flung wide, there was a beat and a half. Not every time, but most times, on the first hit of a kind. When a fist came faster, the gap was shorter, about one. And when the same fist came the same way a second time, and a third, from the same newcomer, the gap shortened, down toward half a beat and sometimes less.
+
+He sat looking at that for longer than he looked at anything else that week. The gap got shorter as Brom got used to a thing. Whatever answered the hit was not a fixed reflex, the same every time like a door swinging on a spring. It learned. It learned inside a single hour, from three newcomers at a copper a round, and if he watched long enough he could almost draw the rate at which it learned.
+
+*Latency shortens with familiarity,* he wrote, and underlined *familiarity*, and then sat back.
+
+It meant that Brom would be slowest at the start of the bout, with everything new, and fastest at the end, when he had seen it all. A man who wanted to find a gap in him would have to find it early, before the gap closed, or find a way to keep showing him new things.
+
+He filed that and went on.
+
+The second thing was the breath, and it took him two more sessions to trust it.
+
+Brom breathed very evenly. Cael had taken it at first for nothing more than a big man's long lungs and his conditioning. But on the fifth afternoon he noticed the exceptions, and once he had noticed them he could not stop seeing them. Before certain hits, not all, Brom's breath went in a little deeper than the rhythm called for, and stayed in, for about half a beat, and then the hit landed. It was very small. It was not like the short held breath of a fighter priming, when the shoulders lift and the hands go still. It was lower than that, down in the belly. It was the breath of a man about to take the weight of a full sack off a cart, and settling himself under it before it came.
+
+He counted nine of them across two sessions before he wrote it down. Every one came before a hit that Brom answered hard, with the newcomer going off sideways. The hits Brom only took, that bounced off him and were done, had no breath before them.
+
+*Inhale, hold, about half a beat, before the hardening. Low, in the belly. Not deciding; settling. Nine seen. Only before the ones he sends back.*
+
+The third thing was his feet, and Cael found that one by doing it himself.
+
+He had been watching Brom stand for five days before he really looked at how. A Wind stood forward, light, ready to go. A Blade stood balanced, with the weight even, so as to cut from either foot. Brom stood back. His weight sat in his heels, more of it than Cael had ever seen in anybody who meant to fight, so far back that a little more and he would have been leaning on nothing. In the evening, alone in Lira's alcove, Cael tried it. He set his own feet as Brom's were set and let his weight go back and back until it sat where Brom's did, by his best guess about six parts in ten in the heels, and then he tried to step.
+
+He very nearly fell over.
+
+He could not go anywhere from there. Every step he tried had to begin by bringing his weight back over his toes first, a whole beat before he could move. For a fighter who meant to go anywhere it was useless, worse than useless, the kind of mistake a teacher would slap your legs for.
+
+But Brom did not mean to go anywhere. Cael stood there, feeling foolish and heavy, and thought about where a hit went when it came back off a hardened arm. It had to go somewhere. Some of it went back up the other man's arm, as Corrin had said. And some of it, surely, had to go down through Brom himself, through his legs and his heels into the stone. You did not stand like that to move. You stood like that to be a post driven into the ground, so that whatever came at you had nowhere to go but back the way it came.
+
+He wrote it standing up, leaning on the straw post.
+
+*Heels. Six in ten, more. Can't move off it — tried. Not a fault. The floor is part of it. Whatever he sends back goes through his heels first.*
+
+At the noon hour the next day, when Cael set his feet that way on the bench to feel it again, Brom glanced across the alcove at him for the first time in four sessions.
+
+"You'll fall over," he said.
+
+"I did. Last night."
+
+Brom considered this, with the cloth half wound round his hand.
+
+"Good," he said, and went back to the cloth.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-19.md
+
+# Chapter 19 — Leave It Home
+
+The other half of the two weeks was himself, and he put it off for three days, which was how he knew it was going to be bad.
+
+He did it in the end at the kitchen table after supper, when the heavyset man's wife had gone up and the sister with her, and the kitchen was warm and empty and smelled of Lira's pies. He opened the Power Log flat so that both entries showed at once, the Wind on the left-hand page and the Pressure on the right, and took a fresh sheet for his sums. The draught under the door kept lifting the corner of it, so he stood the salt cellar on it. Then he made himself go through it field by field, the way he would have gone through any other fighter's page. He took nothing for granted because it was his.
+
+He began with the Wind. He had had it longest, and he leaned on it hardest.
+
+*What it is*: a burst, off the left hip, half a body short, faster than legs. *Conditions*: asked, it goes left, front-left or back-left, the fan, and never right. *Costs*: the half-breath, the lock, the line from the hip's crest to the inside of the knee. He could ask for three in an exchange; a fourth found the hip spent and the lungs empty. And now the chain of two, with the fill that showed in his chest like a flag.
+
+He could have said all of it half asleep. Against nearly everybody, the sum came out on his side, because the burst was nearly always cheaper than the hit it took him out of.
+
+Then he wrote Brom's name at the top of the loose sheet and ran the sum again, and it did not come out at all.
+
+What the burst was for, the only thing it had ever been for, was being somewhere else when a blow arrived that somebody had meant. Somebody meant a blow, all the way, past the hinge where they could change their mind, and he went short off his hip and was not there when it arrived; and then they were in their recovery, going home, and he was out of the lock and into the gap. Every win he had on the slate that had a burst in it had been won like that.
+
+In all the hours Cael had watched him, Brom had never once meant a blow. He waited on his heels for other people to mean them. There would be nothing to step away from. Cael could burst to the front-left and the left and the back-left all night, paying half a breath and a line of hip every time, while Brom paid nothing. And Cael would end up standing in the middle of the main floor with grey at the edges of his eyes and a hip on fire, having made a very big man turn round on the spot.
+
+He made himself fill in the fields for it as if he were writing the entry for the first time, Claim and Evidence and Ruling under each, with the small *h* beside anything he had only been told. *Deployment range*: half a body, the fan, nothing to the right-rear quarter. *Conditions, against B.*: a man who stands on his heels and waits, so that nothing ever comes at me past its hinge unless he wants it to. *Evidence*: four days of the middle column. *Ruling*: the conditions the burst was built for will hardly ever be there.
+
+*Against him,* he wrote, *the burst is insurance. Not a weapon. Keep it for the one time he does come, if he comes. Don't spend it looking for a reason to.*
+
+Then the other one.
+
+He had been not thinking about the Pressure for a week, and he made himself think about it now, slowly, both faces.
+
+The taking face first, the old one: the slow gathering of a weight into the forearm or the shoulder over most of a breath, the sink in his stance that anybody could see, and a staggering blow spread out into one he could stand under. It was dear, slow and plain to see, but it was the thing that had kept him on his feet more than once. Against Brom it would buy nothing. A man who did not strike could not be stood under.
+
+And the giving face, the one he used. Ridden into a strike on the beat, it put a weight into his fist that his arm alone could never have found, and it left the hollow under his ribs after. Off the beat it went back up his own arm, which was why his left wrist ached in the cold. Three to a sequence, about, and he had never tried a fourth.
+
+He sat with the pencil over the sheet for a long time. Then he wrote what he had been not thinking.
+
+*Every hit I put into him, he sends back. That's the whole Path, as far as I can see it. A hardness at the place I touch, at the instant I touch, and my own hit back up my arm on a line I didn't send it on. The giving face makes my hit heavier. So every time I use it on him, I'm paying out of my own middle to make the hit that comes back at me bigger.*
+
+He underlined *bigger*.
+
+He thought, too, because it belonged on the same sheet, about the gaze. It was not a fragment, and it did not go in the Log, but it was the thing he had leaned on hardest all year, and it was half shut against this man. The hooks were made for the space before a strike, and Brom had no before. The middle column was new and rough and four days old. And at full depth he was still blind past ten degrees, and Brom had already shown him once, on the east bench, that he knew where the ten degrees ended.
+
+*Wind: insurance. Pressure, taking: nothing to take. Pressure, giving: worse than nothing. Feeds him. The gaze: half shut. He has no before.*
+
+He looked at it.
+
+*Everything I've built this year, both halves of it: against him one's a spare coat, and the other's a knife with the handle pointed at me. What's left: my feet. My hands. The middle column. Whatever I can find in two weeks of watching a man who wants to be watched. If I win this, the grey book wins it. The Log sits on the bench.*
+
+And under that, after a while, because it was also true and he did not want to lose it: *That's either the worst news I've had all year or the best test I've ever been handed. Probably it's both.*
+
+Lira came down at the end of it for a cup of water and read the sheet upside down over his shoulder, the whole of it, without a word. Then she drank her water standing at the table, looking at the wall, and put the cup down.
+
+"Tomorrow," she said. "Early. Before your big man's hour. I want the alcove to ourselves."
+
+---
+
+She was there before him, which she always was, with the lamp lit and her staff on her shoulder, and she did not begin with the post.
+
+"Nothing," she said, as soon as he came in at the arch. "No step. No middle. None of it. Not the taking or the giving or the burst. Just you."
+
+"For how long?"
+
+"Until I say."
+
+She stood in the middle of the alcove, and he saw what she had done before she had done anything at all. She had set her feet back. Her weight sat in her heels, far back, much further than he had ever seen her stand, and her staff was held low and loose across her body. She did not come at him. She stood there and waited for him to come at her, like a post driven into the ground.
+
+She was being Brom. Not well; she did not have the weight for it, and she did not have whatever it was that sent his hits back. But she had the shape: a fighter who began nothing and waited to answer. And she had a year of reading Cael from three paces off, which Brom had had for three weeks.
+
+He went in.
+
+He went in with his feet, as she had told him, and his short straight strike. She took it on the staff, and turned it, and did nothing else. He went round her, and she turned with him on her heels, and did nothing. He feinted, and she let it go by. He tried his short strike from the left, and the staff was there, and she let him have nothing back but the feel of wood.
+
+He went round her again, and she was still standing there, and something in his hip leaned. It was the old pull, the shortest way out of a thing that was not working: drop, go short to the front-left, come in at her side from somewhere she was not looking. He felt it lean, and he stopped it, because she had said *nothing*. In the half-beat it took him to stop it, the end of her staff came round and caught him on the point of the shoulder, not hard, very exactly.
+
+"There," said Lira. "Again."
+
+It happened again. He went in, and round, and his hip leaned toward the step he had promised not to use, and he stopped it, and in the stopping she hit him. Shoulder, ribs, shoulder again. The fourth time it was the side of his knee, which hurt more than it needed to.
+
+"You keep reaching for it," she said. She was breathing hard; it was not an easy thing she was doing, standing on her heels and answering him, and her face had gone pink along the cheekbones. "Every time, I watch you go for it and pull your hand back. The deciding costs you half a beat. With me, half a beat buys you a bruise. With him it buys him the whole exchange."
+
+"I know."
+
+"You don't know. If you knew, you'd stop." She came off her heels and set her staff on the floor. "Then quit deciding. Leave it home. Half of a thing is worse than none of it, once you're on the floor; you can't carry it halfway. Either it's there or it isn't, and if it's there you'll keep reaching, and if you keep reaching you'll keep paying." She pushed her hair back off her forehead. "It's not there. All right? You haven't got it. You've never had it. It's a thing somebody else has, in some other street."
+
+He stood on the stone with his shoulder aching and looked at her.
+
+"You told me something once," she said. "Last winter. You said a loss wasn't a loss if you got something out of it. Fine. Here's something out of your last four." She held up her hand and folded the fingers down. "Shoulder. Ribs. Shoulder. Knee. Every one of them, you were thinking about your hip. The step's been doing your thinking for a year, and the boy who was there before it hasn't been asked anything since." She dropped the hand. "He was good, you know. That boy. He came over the hills with a bag and nothing in his hip at all, and he stood at the canvas post at the Cinder House, and Renn knocked him down and Dessa knocked him down, and every time he got up having learned something. He didn't have a fragment to his name for three months. He kept himself alive in this district all that while on his feet and his eyes and nothing else."
+
+She picked up her staff and set her heels again, far back, and then did not begin at once.
+
+"I've got a Wind on Thursday's card," she said, to the post rather than to him. "Dace put me down last night. Iron-equivalent, guild-trained, a pin on his collar." She looked at the end of her staff. "I've watched him. Myself. I don't want your page."
+
+"I wasn't going to offer it."
+
+"You were. You had your hand on your pocket." She settled her weight. "So I'm doing this for you this morning, and you're doing it for me, because I need to know I can stand on my heels against somebody who keeps coming." She lifted her chin at him. "Now go and find him. He's in there somewhere. I've seen him."
+
+He went in.
+
+It was worse at first, and then for a moment it was better, and then worse again. But somewhere in the second hour, when his shoulder had gone past aching and into a kind of distant warmth, he went round her for the twentieth time and his hip did not lean. There was nothing there to lean toward. He was only a boy on a stone floor with his two feet and a short straight strike, and her staff, and the space between. He came in from the left on his feet, ordinarily, slowly, mortally, and for the first time that morning she had to give a step.
+
+"There," said Lira. "That's him." She did not hit him. She lowered her staff. "Again."
+
+That night it went into the Power Log, but in the margin, which was where he kept the things that were about himself.
+
+*L.: leave it home. You can't half-carry it. The deciding not to costs more than the doing. Find the one who was there before.*
+
+---
+
+After that he could not sleep, so he wrote to Hesk.
+
+He had not meant to. He had a letter half begun on the shelf from a fortnight back, about the frost and the price of lamp oil and the heavyset man's wife's sister, and he had meant to finish that one in the ordinary way and post it on the market day. Instead he took a clean sheet and sat at the crate desk with his shoulder warm and stiff where Lira's staff had found it four times, and wrote the date, and then sat for a long while with nothing under it.
+
+The boy who was there before. She had made him sound like somebody else, somebody Cael had known once and lost touch with. He found that he could not see him clearly at all. He could see the road over the hills, the long brown shoulder of it in the rain, and the milestones going by with the numbers on them getting smaller. He could see the canvas post at the Cinder House with the stuffing coming out at the seams. He could not see the boy. He had been inside him, which was the trouble. You could not watch a person you were being.
+
+But Hesk had watched him. Hesk had watched him for years, across the kitchen table and in the wheel-house, and had hardly ever told him what he saw. He had said *mind your feet*, and *eat something*, and let the rest go unsaid.
+
+*Dear Hesk,* he wrote at last. *I have a big bout on Tuesday week against a man I can't read yet, and I'm not going to win it with anything I've learned since I got here. Lira says I have to leave the new things at home and fight with what I brought. So I've been trying to remember what I brought, and I find I don't know. I know what I carried. I had the bag and the first notebook and the clothes I stood up in. I don't know what the boy carrying them was like. You'd know. I'm not asking you to tell me, because the letter won't get to you before Tuesday, and anyway I think I'm meant to find out on the floor. I only wanted you to know I'm looking for him.*
+
+He read it over. It was not the kind of letter he wrote. His letters to Hesk were lists, mostly, because Hesk liked lists. They held what things cost, who had won, what the river was doing. This had no list in it at all.
+
+He added one at the bottom anyway, so Hesk would know it was him. *Bread: two of yesterday's for one of today's, before the bell. Lamp oil: up a copper. Lira: winning, nearly. Hip: fine.*
+
+Then he folded it and put it with the other, unfinished one on the shelf, and lay down. It would reach Denvash in about a week. Whatever happened on the main floor would have happened by then, and Hesk would read the letter at the kitchen table knowing nothing of it, in the twenty minutes of sideways light, and Cael would be the only one of them who knew how it had come out. He thought that there was something fair in that, though he could not have said what, and on the thought he slept.
+
+---
+
+He had two bouts in the fortnight besides Brom, small ones, booked before the main floor was chalked. He went into the first of them with his attention somewhere else and knew it.
+
+The man was a Blade from Orvet's gym in the tannery lanes, a square quick fighter with a red neckcloth in Orvet's colours. Cael had watched him one evening, which was one evening less than he liked. *What it's made of*, the page said, short. *Orvet's school. Taught to shout and go. Goes at the word, every time. Doesn't build long; doesn't need to. Primed to committed in about a beat. Hates being made to wait.*
+
+That was the page. He had meant to watch him a second time and had sat in Brom's alcove instead, with his fingers on his wrist, and so the page was what he took to the rope.
+
+It was a side-floor bout on a thin evening card, between a Stone pair nobody had come to see and a Force who had not turned up, and the room was half empty and talking. The chestnut man had his brazier going by the north post and the smell of it lay over everything. Orvet himself was at the rope on the Blade's side, a short man with a voice like a dropped pan, and he had brought four of his own in the red neckcloths, who stood behind him and shouted every time the Blade so much as rolled his shoulders. The Blade warmed up in front of them in short bursts, going at the empty air the way Cael had seen him go at men, with a shout on every cut. He looked very good doing it. Cael, watching from his own mark, thought that a fighter who looked that good warming up had usually been told so a great deal, and filed it under *What it's made of* without writing it down.
+
+Lira was on the near bench with her staff across her knees. Brom was not in the room at all. Cael had looked for him, without meaning to, and found the rope by the north post empty, and was surprised by how much room an empty place could take up.
+
+"Begin," said Vell.
+
+The Blade went at the word, as the page said, with a shout that made two people on the bench behind Lira jump. Cael went with his feet, as Lira had taught him that morning, and the first exchange was all feet: the Blade coming and coming, cut on cut, each one off the front foot and each one with the shout behind it, and Cael giving ground and turning, giving ground and turning, round the edge of the circle with the chalk line a hand's breadth from his heels. Twice the Blade's cut came close enough that Cael felt the wind of it on his cheek, and once it took a strip off the shoulder of his shirt, and Orvet's four roared.
+
+He did not burst. He felt the hip lean, twice, the old pull, and he let it lean and did not answer it, and the deciding cost him as Lira had said it would: on the second time, half a beat of nothing that the Blade's next cut very nearly filled. He had decided, in the morning, that he would burst in this bout only when he had read the hinge first, and never otherwise, because he wanted to know something. It was harder to keep to than it had been to decide.
+
+Near the end of the exchange he put his own short strike into the Blade's ribs, once, on his feet, ordinarily, as the Blade came past him. It was not a hard strike. But it was the first thing in the bout that the Blade had not chosen, and Cael saw the man's face change as it landed, very slightly, the way a man's face changes when a step he has taken a thousand times is not where his foot expected.
+
+In the second exchange he broke his own rule, and found out the other half of what he wanted to know.
+
+The Blade went at the word again, and this time Cael was not ready for it, because he had been watching the Blade's shoulders and the Blade came off his back foot instead. The cut was coming before Cael had seen it begin. It was past its hinge and already on its way, flat and fast at his ribs, and his feet had nothing to say about it. His hip said it for him. He went short to the left without asking, because there was no time to ask. He landed crooked, with his weight caught on the wrong part of his foot, and locked, and the cut went through the place he had been.
+
+It cost him. He felt it go out of him like coin out of a split purse. The hip line flared from the crest of the bone to the knee, not a thin warm line but a bright one, and his knee buckled a finger's width in the lock and only just held. When the lock let go he had no breath to speak of, and none for the next ten beats of his pulse. He stood off the Blade with his feet and his strike and waited for it to come back, and it came back slowly.
+
+"End of the exchange."
+
+He walked to his mark with his lungs pulling and his hip shouting and thought, very clearly, *that was a reaction*. He had not read it. It had found him, and he had answered it from the bottom of himself, crooked, with nothing set.
+
+In the third he waited. He kept his feet going and his eyes on the Blade's middle, not his shoulders, and let himself go down, once, a short way, into the hooks. Primed: the hands going still on the hilt. Building: almost nothing, a Blade's build, a tightening in the forearm. And then the hinge. He saw it come, the back heel flattening and the eyes fixing on one place on Cael's left side and staying there, and in the instant before the cut came off that heel, he dropped his left hip.
+
+He went short to the front-left with his weight already set over his feet, because he had set it there while he watched, and landed square, and locked.
+
+The cut went through the air where he had been, a beat late for an empty place. In the lock he watched the Blade's whole arm go past its end, and the shoulder roll, and the man begin to go home.
+
+And it was cheap. That was the thing. He stood in the slow bright stillness of the lock and could feel how cheap it had been. The hip line was there, but thin, a pencil line and not a brushstroke. His breath had gone out on the half-breath and was already coming back, and the knee had not even thought about buckling. The same distance, the same half body to the front-left, the same lock. But it had cost him perhaps half of what the one in the second exchange had cost, perhaps less.
+
+The lock let go, and he was in the Blade's recovery with his short strike under the arm before the man had got home. The Blade went back two steps and sat down hard, and shut his eyes for a moment as if he were adding something up, and put his hand up.
+
+"Called," said Vell. "Hand up. Third exchange."
+
+Cael stood on the stone with his breath coming back easy and his hip only talking, not shouting, and thought about the two bursts side by side, the one that had found him and the one he had found. It was the same step. It had cost twice as much the first time, for no reason except that he had been late.
+
+The Blade got up on his own after a moment and came across the circle, rubbing his ribs under the red neckcloth, with Orvet's four gone quiet behind him.
+
+"In the second," he said. "You went somewhere. Sideways. It looked like it hurt."
+
+"It did."
+
+"In the third you went the same place and it didn't." The Blade frowned at him, not unkindly, as a man frowns at a sum that will not come out. "What changed?"
+
+Cael thought about telling him. It would have been easy, and the Blade had asked honestly, and there was nothing in it that would cost Cael anything on Tuesday. But he did not have it yet. He had one bout's worth of it, and a feeling, and one bout's worth of a thing said out loud to a stranger had a way of turning into something you believed.
+
+"I was late in the second," he said. "I wasn't, in the third."
+
+The Blade looked at him a moment longer, and then laughed, short, and shook his hand, and went back to Orvet, who began at once to tell him what he had done wrong in a voice the whole half-empty room could hear. Lira, on the near bench, had not moved. When Cael came off the floor she looked at his hip, and then at his face, and raised her eyebrows a very little, and he nodded, and she nodded back, and neither of them said anything at all.
+
+---
+
+Vell turned the book for him, and kept her thumb over the Blade's name, and he read *…Third exchange. Atypical movement pattern.* She had begun blotting it before he had finished.
+
+"You had your head somewhere else in the first," she said.
+
+"I did."
+
+"In the big one's alcove." She did not look up. "Half the floor's seen you sitting there with your fingers on your wrist like a doctor. They think you're ill."
+
+"I'm counting."
+
+"I know what you're doing. I've been keeping this book since before you could count." She blotted the line and closed the book on her finger and looked at him then, with her flat, thorough look. "I watched him twice before I wrote him in, you know. Your big one. You'll want to know what I thought."
+
+He did want to know, very much, and she could see it, and she let him want it for a moment before she went on.
+
+"I've got him at Iron-equivalent. It's not what he is. It's what he's shown me in eight bouts in this room, and I don't move a stranger's number for being good. I move it for being good for long enough." She tapped the closed book with one finger. "That's my habit. Every newcomer goes in low, and comes up a rung at a time, and I don't care who his family is or where he's walked from. A book that rates high is a book that has to come down, and coming down costs people money and pride, and they never forgive the book for it. Up costs nobody anything."
+
+"So he's better than his line."
+
+"A good deal, I'd say. I'd say it to nobody but you, and I'm only saying it because you'll find out in a fortnight anyway, the hard way." She opened the book again to the day's page and picked up her pen. "Mind you, it's not always a virtue. Keeping them low." She dipped the pen and did not write. "Now and then I keep one low a while longer than I should, because I've got into the habit of waiting, and the waiting starts to feel like care when it's only waiting." She wrote the next line. "Go and eat something. You look like you've been sick."
+
+He went, and thought on the way up the hill that she had not been talking about Brom at all, and wondered whether she knew she had not.
+
+That night, at the desk, with the hip still faintly warm under his hand, he wrote both bursts down one under the other, the bad one and the cheap one, with everything he could remember of each. Under them, before he had quite decided to, he wrote the thing he had begun to think in the lock.
+
+*Same step. Same distance. Half the price, when I'd read it first. The reading isn't a different thing from the burst. It might be what pays for it.*
+
+He looked at that, and did not underline it, because one bout was one bout. He put a small *?* beside it, and closed the book, and lay down, and went on thinking about it for a long time in the dark.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-20.md
+
+# Chapter 20 — Cheaper When Read
+
+The next morning he made a drill of it. When he wanted to believe something about himself and did not yet trust it, he made it run on chalk until it either held or fell over.
+
+Lira was minding a cut on her forearm from the evening before and did not want to spar, so she sat on the bench with the broom-handle stick across her knees and watched him chalk. He drew six marks on the alcove floor, small crosses, at uneven distances from one another and none of them more than a burst apart. He set them so that from any one of them the next lay somewhere in the fan to his left, front-left or left or back-left, and never in the empty quarter behind his right shoulder. Then he stood on the first and walked the course with his feet, slowly, three times, until he had the order by heart.
+
+"Now forget it," said Lira.
+
+"Half of it."
+
+"Which half?"
+
+"Whichever half I forget."
+
+So he walked it three more times while she talked to him about something else entirely: the heavyset man's wife's sister, and a hen the sister had bought at the market and brought home in a basket and lost in the yard. The order went soft in his head, so that some of the marks he knew and some he only half knew, and some he would have to look for.
+
+Then he ran it.
+
+He ran it two ways. The first way, he went on his own decision. He stood on a mark and looked for the next and found it, and set his weight over his feet and his breath in his chest while he looked, and only then, when everything in him was already pointing, dropped his hip and went short. The second way, he went on hers. He stood on a mark with his eyes on the floor and his body loose and waited, and Lira, from the bench, said *go*, as late as she could stand to and never at the same count twice. Then he had to find the mark and go in the same instant, from wherever his weight happened to be.
+
+He ran it twenty times each way, with a rest between every five, and after each five he sat down on the bench and put his hand on his hip and told her what it said.
+
+It said the same thing every time. When he went on his own decision, the line from the crest of the bone to the inside of the knee was thin, a pencil line. His breath came back in four or five beats of his pulse, and he could have gone again at once. When he went on hers, the line was a brushstroke, wide and warm. Twice in the second five his knee gave a finger's width on the landing, and his breath took twice as long to come back, and once, on the fourth, he went short half a pace less far than he meant and missed the mark altogether.
+
+"The same mark," said Lira, who had been keeping a tally on the end of her stick with her thumbnail. "The same distance. You went to the same place both ways. I watched your feet."
+
+"I know."
+
+"And one of them costs you twice the other."
+
+"About twice." He sat with his hand flat on his hip. "It's not the burst that costs. Or it's not only the burst. It's where I'm standing when I ask for it. If I've already put myself over my feet before I ask, it takes what it needs off the top. If I haven't, it has to take it from wherever it can find it, and it finds it from the bottom."
+
+Lira looked at the six crosses on the floor.
+
+"And you put yourself over your feet by looking."
+
+"By looking first." He opened the Power Log on his knee. "On the slate against the Blade I'd read his hinge, so I was set before I went. In the second exchange I hadn't read anything. It found me."
+
+He wrote it while she watched, slowly, under the Wind entry's *Costs*, Claim and Evidence and Ruling as he always did.
+
+*Claim: the cost of a burst isn't fixed. Depends on how ready I was when I asked, not only on how many I've done. Evidence: the Blade from Orvet's, ex 2 and ex 3; this morning, six marks, twenty and twenty, L. calling the late ones. Read first: thin line, breath back in four. Called late: wide line, breath back in eight or nine, knee twice, one short. Ruling: yes.*
+
+He stopped, and then added, under the ruling, what he had begun to think in the lock against the Blade and had not let himself write.
+
+*So the watching isn't a separate thing from the step. It's what pays for it. All year I've had them in two different books. They might be one tool.*
+
+Lira read it upside down and was quiet for a while.
+
+"You didn't know that."
+
+"No."
+
+"You've been doing it all year. Reading them and then going." She turned the stick over in her hands. "You just thought the reading was so you'd know where to go."
+
+"I thought it was so I'd know where. I didn't know it was also so I could afford to."
+
+"That's the kind of thing," said Lira, getting up off the bench, "that you're going to go round telling everybody you found, and it's been sitting in your hip all along, laughing at you." She held out her hand for the chalk. "Give me that. I'm going to draw a face on your crosses."
+
+---
+
+He did the other one alone, in the second hour, because the other one could hurt him and he did not want her watching it if it did.
+
+For months there had been a line in the Pressure entry with nothing after it but a question. *Upper limit of the giving face under sustained use: not known.* He had never wanted to find it by going past it. He still had the second sprain in his left wrist in cold weather, and that had been an off-beat misfire, nothing like the top of anything; he had no wish at all to learn what the top felt like from the far side. So he did what he had done in the winter with Lira's stick. He did not go looking for the edge. He walked toward it a step at a time, slowly, and meant to stop as soon as he could see it.
+
+He stood square to the padded post in the corner of the alcove and found his beat. That part was easy now; since the river-academy man he had known what a beat felt like from inside, and he could set one for himself by his breath and his feet. He threw his short straight strike on it, plain, three times, to wake the arm. Then on the fourth he let the giving face ride with it, the thing from his middle going out along his right arm and into the fist, and the post jumped on its rope.
+
+He rested for the length of an exchange, counting it on his pulse. Then two, on the beat, one after the other: the post jumped and jumped, and under his ribs the old hollow opened, small, the size of an egg. He rested again.
+
+Then three.
+
+The first went out clean. The second went out clean, and the hollow under his ribs was the size of a fist. The third went out, and he felt it go thinner as it went, as if it had had to be scraped up from the bottom of a jar. The post jumped, but less, and the hollow under his ribs had become a hole he could have put both hands in, and his breath had gone ragged at the edges. He stood with his fist still against the post and knew, as plainly as he had ever known anything about his own body, that if he asked for a fourth there would be something there, but not enough of it. What came might go into the post, or it might come back up his arm the way the off-beat ones did, and he would find out which only after it had happened.
+
+He did not throw the fourth.
+
+He stood back from the post and let his arm hang and breathed until the hole under his ribs had closed back into a hollow, and the hollow into nothing, which took a long time. Then he sat on the bench and wrote it, and wrote it as a boundary and not a crossing, because he had not crossed anything.
+
+*PRESSURE-ADJACENT. Costs (add): giving face, three on the beat in one sequence. First two clean. Third thinner, scraped up. The hollow under the ribs grew with each one: egg, fist, hole. Breath ragged after the third. Didn't throw a fourth. Ruling: three is the working ceiling. It isn't the thing that fails past three. It's me. The face draws from the same place that keeps my breath in order, and a fight can't be fought with that place empty. Whatever's past three, a bout that counts is the wrong place to meet it.*
+
+He read it back and thought about how it applied to the bout that mattered, and found it did not apply at all, and laughed out loud in the empty alcove. He was not going to use the giving face on Brom even once. He had just spent an hour learning exactly how much of a thing he would not be using.
+
+He wrote that down too, underneath, because it was funny and true: *Ceiling for B.: nought. See the sheet.*
+
+---
+
+Brom knew he was being timed by the third day.
+
+He had known he would be watched. He had chosen the second alcove because the boy's alcove looked straight into it across the corner of the floor, and he had chosen the hour after the noon meal because the floor was quiet then and there would be nothing else to look at. He had made a trade in his head the morning he told the boy the day: whatever the boy learned of him, he would learn as much of the boy, by watching the boy learn. It had seemed to him a fair trade. It still did.
+
+But he had not expected the fingers on the wrist.
+
+The boy sat on the bench against the back wall of Brom's alcove with his book open on his knee and two fingers of his left hand laid on the inside of his right wrist, and his eyes, while the newcomers came at Brom, went somewhere Brom could not follow. They went still. And when the boy with the broken tooth swung and Brom answered him, the boy on the bench moved his lips very slightly, counting, and wrote something in a column.
+
+Brom had worked it out by the end of that hour, and had to turn away to the post for a moment so that his face did not do anything in front of the newcomers.
+
+The boy was not watching the hits, nor the answers. He was timing the space between them, by his own pulse, because he had no clock.
+
+Nobody had ever timed that. His instructors at home had watched the hardening and the hits it turned, and his opponents had watched what came back up their arms. In two years and three circuits, nobody had ever sat down on a bench and asked how long it took him to make up his mind.
+
+On the fourth day, winding the cloth round his hands before the newcomers came, he thought about changing it.
+
+It would have been easy. He could be slow on purpose, or quick on purpose, or slow to the boy with the tooth and quick to the girl. He could feed the middle column a row of wrong numbers for ten days and let the boy walk onto the main floor with a page that was a lie. Brom's grandmother would have done it without thinking twice. She had said once, at the long table, that a fight was only the last page of a contract, and that the contract was won in the drafting.
+
+He finished winding the left hand and began the right, and decided not to.
+
+It was not a hard decision, when he looked at it. He had left a house where everybody had already decided what he was and was only waiting for the evidence to agree. He had walked four hundred miles to a room where a woman wrote down what people did, and nothing else, and where the number beside your name was the number you had earned on that stone. If he fed the boy false numbers and beat him with them, he would never know what he had beaten him with: whether it was himself, or the lie. And he wanted to know. He had wanted to know since the boat shed, when an honest loss had first taught him more than a year of arranged wins. He did not want to win anything he could not have put his weight on afterward.
+
+So he answered the newcomers as he would have answered anybody, and let the boy count, and every day the boy counted more and wrote less, which meant the page was filling.
+
+There was a second thing, and it was smaller, and he did not know what to do with it.
+
+The bench where the boy sat was not much more than the length of a bench away from where Brom stood, and so, without meaning to, every afternoon, Brom read him. He could not help it any more than he could help hearing a voice in the next room. And the boy sitting still with his fingers on his wrist read the way he had read on the east bench: a weight that was not where a weight ought to be, not empty, quiet. Once, on the fifth day, when one of the newcomers fell wrong and the boy's whole body leaned a finger's breadth toward catching her before he caught himself, the weight moved in him the way it moved in his fights: the short Wind-like flicker, there and gone, from a boy who had not even stood up.
+
+Brom stood very still in the middle of his alcove with the girl getting up off the stone in front of him, and did not look at the bench.
+
+He did not know what he was reading, and he did not like not knowing, and he found that he liked it very much at the same time. That evening, at the carters' inn by the north gate, eating his supper at the end of the long table where the drivers left him alone, he tried to put it into words for himself, the way he had once put the boat shed into arithmetic. He could not. The nearest he came was that he had spent two years building a library of every shape a person could make on the floor above him, and the boy was not a shape in it. The boy was the floor creaking where nobody stood.
+
+He paid his week ahead in the morning, as he always did, and went down the hill to be timed.
+
+---
+
+They argued about it over bread on the eighth morning, which was the first time all three of them had stood in the same place without a bout between them.
+
+The baker at the bottom of the row sold yesterday's loaves at the side door for half, on a ratio of his own that Lira had worked out over a year and swore by. Two of yesterday's for one of today's, but only before the bell at the chapel, and only if you did not look as though you had money. They were standing at the side door in the cold, Lira with the bread under her arm and Cael counting coppers into the baker's floury hand, when Brom came down the row from the north gate with his coat open and his breath going up in the air like a carthorse's.
+
+He stopped, because they were in his way, and looked at the bread.
+
+"Yesterday's," said Lira. "Half. Before the bell. You have to look poor."
+
+Brom considered his coat, which was good and plain and had been mended well, and then the baker.
+
+"I can't," he said.
+
+"No," said Lira, looking at him. "You really can't." She broke the end off a loaf and held it out to him. "Here. You can owe me."
+
+He took it, and they stood there, the three of them, at the baker's side door, and ate, and for a moment nobody said anything. Then Cael said, because it had been on his mind for two days and the bread had loosened it, "You get faster."
+
+Brom chewed.
+
+"Through the hour. On the same hit. The first time the boy with the tooth comes at your ribs, it's a beat and a half before you send it back. By the third it's half a beat."
+
+"You're timing your pulse," said Brom.
+
+"I'm timing you by my pulse."
+
+"Your pulse goes up when you're interested." He took another bite. "By the third hit you're interested. So your beats get shorter. So I look faster."
+
+Cael stopped with a piece of bread halfway to his mouth.
+
+"That's not—" He thought about it, honestly, standing in the cold. He had checked his pulse against the lamp-shadow in an empty room, and he had not checked it once since, in the alcove, with a big man sending newcomers sideways in front of him. "It doesn't go up that much."
+
+"How do you know?"
+
+"I'd notice."
+
+"You'd be counting," said Brom. "Not noticing."
+
+Lira had begun to laugh, silently, into her bread.
+
+"It's not my pulse," said Cael. "It's the same hit, from the same boy. Your answer comes sooner. I've watched it twenty times. Whatever does it in you is getting used to it. It learns."
+
+"Or you do."
+
+"Both, then."
+
+"Both," Brom agreed, which was the first time Cael had heard him agree to anything. He finished the end of the loaf and brushed the crumbs off his coat. "You should time it on her. Then you'd know which."
+
+"On me?" said Lira.
+
+"Your pulse doesn't go up when you watch me," Brom told her. "I've seen you watch me. You're bored."
+
+Lira stopped laughing.
+
+"I'm not bored. I'm reading you."
+
+"You're reading me bored." He nodded to the baker, who had been listening to all of it with great interest, and turned to go on down the hill. Then he turned back. "Thank you for the bread," he said to Lira, very seriously, and went.
+
+Lira watched his broad back go down the row until it turned the corner.
+
+"Does he ever say a whole thing?" she said. "Beginning, middle, end? Or does he just leave the middle out and make you go and fetch it?"
+
+"He says what's needed."
+
+"He said *you're reading me bored*." She tore off a piece of bread with some violence. "That wasn't needed. That was rude. It was rude, and it was four words, and it was right." She ate the bread. "I'm going to take your pulse in the alcove today. Every time he hits somebody. Just to show him."
+
+She did. Cael's pulse went up by about a fifth over the hour, which was enough to matter, and Brom's answers got faster by a good deal more than a fifth, which was enough to matter more. Cael wrote both down. Lira wrote nothing, but at the end of the hour she went across to Brom's alcove and told him the numbers, both of them, standing in his arch with her staff on her shoulder. He listened to all of it, nodding.
+
+"So it's both," he said.
+
+"It's both," said Lira. "You're welcome."
+
+---
+
+Brom trained twice most days now, after the noon meal and again in the evening when the card was thin, and Cael sat through both. By the seventh session he could draw the man, and he did, on a clean page, the way he had once drawn the fan of his own burst.
+
+It was a coverage map. He had made one for himself in the week of the seam, the fan of places the burst would go and the quarter it would not. This was the same thing turned inside out: not where a man could go but where he was hard, and when.
+
+Brom was not hard all over. That was the first thing the drawing told him, and he would not have believed it if he had not spent seven sessions watching where the newcomers' hits went and what came back from each. The hardening went where Brom trusted it to find the hit cleanly. His lead forearm, the left, which he held loose across his front, took the most, and turned the most back. So did the outer edge of his lead foot, when he set it to meet something; once, when the tall lad aimed a kick at it, he had turned the edge of the foot into the kick and sent the lad's whole leg back past him as if the stone had shrugged. Across the chest and the shoulders it was there, but less, and the answers came slower and sent the newcomers less far. And between that foot and the knee, on the shin and the ankle and the back of the calf, Cael had almost nothing written at all. Below the knee, the man was very nearly only a man.
+
+He sat looking at the empty place on the drawing for a long time.
+
+It might be that the hardening could not reach that far easily, from wherever in the man it came from. Or it might be that in two years nobody had ever made him pay for leaving it bare. Newcomers did not kick low; they did not know to. Most fighters in the Ironyard aimed at the middle of a man, because that was where a man was. Cael wrote both possibilities down beside the gap below the knee, and underlined the gap, and did not let himself decide which was true.
+
+At the ninth and tenth sessions he tested the other thing, and did it without telling Brom what it was for.
+
+He had seen it on the seventh, against the post. After a hard answer there was a moment, very short, before Brom was ready to give another. It was not a hesitation. It was more like the way a bow has to come back to straight before it can be drawn again: the hardening went, and then for a breath it was not there, and then it was. Against the newcomers, who came one at a time with rests between, it never mattered; nobody was quick enough or close enough to be in that moment. But a moment was a moment.
+
+So at the tenth, while Brom was working the padded post on his own between newcomers, Cael got up off the bench and went to stand by the post. He swung it himself, twice, quickly, one push and then another half a beat after, at two different speeds, so that it came back at Brom's forearm on a rhythm Brom had not set.
+
+Brom answered the first swing, and the post went off sideways on its rope. The second came at him in the bow's moment. He took it on the forearm without sending it anywhere, an ordinary arm taking an ordinary blow, and looked round.
+
+"That's not how you hit a post."
+
+"I wasn't hitting it."
+
+"You were hitting it at me." Brom put a hand on the post to stop it swinging. "You could ask what happens after I send one."
+
+"I could." Cael let go of the rope. "Then I'd know what you told me."
+
+Brom looked at him for a moment, and then took his hand off the post and went back to work, and Cael went back to the bench and wrote.
+
+*Reset. After a hard answer there's a gap before the next, about half a beat. Seen against the post: the second swing came in it and nothing came back. Claim: real. Evidence: one post, one swing, my hand on the rope. Ruling: real against a post.* And then, because he knew himself: *A post isn't a man trying to hit me back. Do not let a gap I found against rope and padding feel bigger than it is because I want it. Find it live or don't count it.*
+
+---
+
+He found it live at the eleventh session, and he found it because Lira lent Brom her dock partner.
+
+It happened without Cael. He came down the hill after the noon meal and found the broad man with the broken nose in the second alcove, with his coat off and his sleeves rolled to the elbow, and Brom standing in front of him with his hands wound, and Lira in the arch with her arms folded and an expression of great innocence.
+
+"He asked me," she said, before Cael could open his mouth. "This morning. At the post. He came across and stood in the arch and said, *Your partner. Does he hit hard.* That was it. Six words. I said yes. He said, *Can I borrow him.* I said he costs a mark an hour. He said, *Good.*" She unfolded her arms. "So I've lent him my partner for an hour, for a mark, and I've got the mark, and you've got something to watch that isn't a twelve-year-old."
+
+The dock partner was a Bronze washout, which meant he had once been sent somewhere better than this and had not been kept, and he hit like a man who had been taught by people who were paid well to teach. He did not come one at a time with rests between. He came in combinations, the way he came at Lira, three and four blows run together.
+
+Cael sat on the bench with his fingers on his wrist and the middle column ruled, and watched Brom work properly for the first time.
+
+For most of the hour, nothing broke. The dock partner came, and Brom answered, and the dock partner went sideways and came again; it was harder and faster than anything the newcomers could do, and Brom's answers were harder and faster to match it. Then, near the end, with both men breathing hard, the dock partner put four together as quickly as Cael had ever seen anybody put four together. A right to the ribs, a left to the forearm, a right to the shoulder, all three answered, each one sending the dock partner a little more off his line. And the fourth, a short left to the chest, came in the bow's moment.
+
+It did not come in half a beat of it. The moment was longer. Cael counted it on his pulse, which he had promised Lira he would watch, and it was two full beats from the third answer to the next time Brom's arm was hard: two beats in which the dock partner's left landed on an ordinary chest and Brom grunted and gave a step, the first step Cael had seen him give in all the sessions.
+
+Three hard answers, close together, and the fourth was slow.
+
+Cael sat on the bench very still. Then he wrote it in a hand that was not quite as small as usual.
+
+*Live. Dock partner, four in a run. Three answered hard. Then the gap: two beats, not half. Fourth landed. He gave a step.*
+
+And under it, because a number always had a question standing behind it, and this was the best question he had found since the reading room:
+
+*Static half a beat. Live, after three fast, two beats. It widens. So it isn't a moment; it's an account. Three hard answers draw it down, and the fourth comes slow because there's less in it. What does the hardening cost him? He pays for it somehow; everybody pays for everything. If three of them slow the fourth, it's drawing on something that runs out. What's he like with the account at nothing? And how long does it take him to fill it?*
+
+Across the alcove Brom paid the dock partner a mark of his own, though Lira had already had one for him, and the dock partner looked at the coin and then at Brom and put it in his pocket. Brom sat down on his own bench and began to unwind his hands, slowly. He did not look at Cael. But when the left hand was free he flexed it open and shut, twice, and then sat with it open on his knee, palm up, as if he were letting something drain out of it.
+
+Cael wrote that down as well.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-21.md
+
+# Chapter 21 — Off Side
+
+Lira watched the evening session over his shoulder that night, which she had not done once in all the sessions, and she watched it the way she watched a fighter she meant to fight.
+
+She stood behind the bench with her arms folded on the top of the alcove wall and her chin on her arms, and said nothing for most of the hour. Brom had the newcomers again, the boy with the tooth and the girl and the tall lad, and two more from Keth's ring whom Cael had not seen before. He gave each of them a copper and let them hit him, and sent them sideways, and paid the next. Cael counted on his wrist and wrote in the middle column. Behind him Lira breathed slowly through her nose, as she did when she was reading somebody, and once, when the tall lad's kick came back past him off the edge of Brom's foot, she made a small sound in her throat.
+
+"He's going to take everything you throw at him," she said at last, when the newcomers had gone and Brom was sitting on his own bench unwinding his hands. "And send it back."
+
+"Yes."
+
+"So what are you going to throw?"
+
+He had known she would ask, and he had the page open already. He turned it round on his knee so she could read it over his shoulder, which she did, slowly, with her lips moving.
+
+"There's a gap," he said. "After he answers hard. Before he can answer hard again. Against the post it's half a beat. Against your partner, after three in a row, it was two." He put his finger on the number. "It's not a moment. It's like a purse. Every hard answer takes something out of it, and if they come fast enough, the purse is lighter for the next one, and the next one comes slow."
+
+"And you're going to empty it."
+
+"I'm going to make him answer hard three times, close together, and put the fourth in the gap." He moved his finger to the drawing. "Low. Below the knee. That's where he's thinnest anyway. If I'm right about the gap and right about the knee, the fourth goes into a man who's only a man there, for two beats."
+
+Lira read the drawing for a long time.
+
+"When?"
+
+"Not the first exchange. In the first he's slowest, because everything's new, but he's also got a full purse, and he's watching me to learn me. Not the second, either. I'll use the first two to make him answer. Different things each time, so he can't get used to any of them. Hard enough that he has to send them back." He turned the page. "Then the third. By the third he's settled into what he thinks I am. And he's spent some."
+
+"Two to test, one to take."
+
+"Two to test, one to take."
+
+"And if there's no gap? On the main floor, with the whole room watching, and him trying?"
+
+"Then I'll know there isn't." He closed the book. "That's worth knowing too."
+
+Lira came round the end of the bench and sat down beside him, and looked across the alcove at Brom, who had finished his hands and was sitting with his left one open on his knee again, palm up, the way he had sat after the dock partner.
+
+"You're not planning to win," she said.
+
+"I'm planning to be right."
+
+"That's the same thing as not planning to win. It just sounds better."
+
+"It's planning to lose usefully." He looked at her sideways. "Somebody told me that, once. In the alcove. With her ribs strapped."
+
+She opened her mouth and shut it again. Then she laughed, once, and put her head back against the stone of the alcove wall.
+
+"I hate that you keep everything I say," she said. "I hate it. I'm going to start saying stupid things on purpose so you have to write those down too." She was quiet a while. "Is the knee in the Log, or in the grey book?"
+
+"The grey book. It's about him."
+
+"And what's in the Log? For this?"
+
+He opened the Power Log on his knee to the Pressure entry, to the bottom of it, where he had written the line in ink that morning, which he never did in the Log, because ink could not be rubbed out if he was wrong.
+
+*Against B.: no giving face. Not once. Not on the forearm, not on the chest, not anywhere he can harden. Every hit I make heavier, he sends back heavier. This is not a ceiling. It's a rule.*
+
+Lira read it, and then read it again.
+
+"You've locked it."
+
+"I've locked it."
+
+"You've got two things, and you've put one of them away before you've even walked onto the floor." She looked at him with something in her face he could not read. "And the other one's insurance."
+
+"And I've got the boy who was there before them," said Cael. "You found him for me."
+
+She did not answer that. But she put her shoulder against his for a moment, the way she did, and left it there until Brom got up across the floor and put his coat on and went out by the side door into the cold.
+
+---
+
+Lira could not eat the night before Wendel, and the whole kitchen knew it, because the heavyset man's wife had made the thing with the onions that Lira had once eaten three helpings of and asked how to make.
+
+They were all at the table, which did not often happen. The heavyset man sat at the end with his elbows on either side of his plate. His wife went back and forth between the stove and the table and did not sit down, as she never did until everybody else had finished. And the sister sat across from Cael, a round quick woman with a voice that filled corners, who had come for a week at midsummer and was still there with the frost on the yard pump. The hen she had bought at the market had turned up again after four days in the coal box, and laid an egg there, and now would lay nowhere else. The sister regarded this as a judgment on the household and said so at every meal.
+
+"You're not eating," she told Lira, about halfway through.
+
+"I'm eating."
+
+"You're moving it about. I can see the bottom of the plate in exactly the same places." The sister turned to Cael. "And you. They say you've got the big one on the main floor. Tuesday. It's all down the market."
+
+"Yes."
+
+"And are you going to win?"
+
+The table went quiet. The heavyset man's wife stopped with the pan in her hand.
+
+"Probably not," said Cael.
+
+The sister put her fork down. She looked at him with an expression of the deepest disapproval, as if he had said something improper at the table.
+
+"Well, you can't *say* that."
+
+"It's what I think."
+
+"Then you think it in your room. You don't say it over the onions." She turned to her sister for support. "Did you hear him? *Probably not.* In my day a boy said he'd knock the other fellow into the river, whether he could or not, and then everybody felt better."
+
+"He tells the truth at table," said the heavyset man, from the end. It was the longest thing Cael had heard him say indoors. "Leave him be."
+
+The sister opened her mouth, looked at the heavyset man, and closed it again, which Cael had not known she could do.
+
+The heavyset man went on eating. Then, without looking up from his plate, in the same flat voice, he said, "I went down."
+
+Lira looked up.
+
+"A while back. The night you had the lad from the salt end. The one with the drum." He wiped his plate with a piece of bread, carefully, all the way round. "Stood at the back by the door. Never been in the place. Twenty years on this row and never been in." He ate the bread. "You gave him the first one and then you had him. I saw that much. I don't know the rest of it. But I saw you had him."
+
+Nobody said anything. The sister was looking at her brother-in-law as though he had grown a second head.
+
+"You never said," said Lira.
+
+"You never asked." He pushed his plate away. "I'll go down tomorrow."
+
+Lira looked at her plate for a while. Then she picked up her fork and ate the thing with the onions, all of it, steadily, without saying anything else, and when she had finished the heavyset man's wife took the plate away and put another helping on it without asking and set it in front of her, and Lira ate that too.
+
+Later, on the stairs, she stopped on the landing outside her door with her hand on the latch.
+
+"Twenty years," she said. "And he went down to see me."
+
+"He went down to see you win."
+
+"He went down to see me." She opened her door. "He didn't know I would."
+
+---
+
+The Thursday card was full by the time the lamps were lit, which was more than it had any reason to be for a middle-of-the-week Wind bout, and Cael knew why and did not say so.
+
+Lira's line had been doing something strange in the betting man's chalk for a month. She lost, and lost, and then she beat the clock with his own drum, and the betting man had put the empty square beside her name that meant *don't know*. People who did not much care about Winds had begun to come on her nights to see which way the square would go. The four girls from the wall were on the second bench by the water barrel, in a row, with their knees together. The dock partner was at the rope by the north post. The river-academy man was on his bench three back with his hands flat on his knees, and nodded to Cael when Cael went past, a small nod, the left-handed man's nod.
+
+And Wendel was at his mark.
+
+Cael had a page on him. He had made it in the summer, when Wendel had first come over from the guild side and fought two Ironyard bouts and won both, and he had made it again in the new order a fortnight ago, without telling anybody. *What it's made of*: guild-trained, by people who were paid well and had taught him everything properly, in the right order. He fought in long beautiful sequences of three, each one building speed into the next. He wore a guild pin on his collar, a small enamelled thing, and he had worn it into the circuit both times as if he had forgotten it was there. Lira had crossed the street from pins like that one all the first winter she was in the city.
+
+He was tall and fair and perhaps twenty-five, and he stood at his mark the way the books said a Wind should stand, and looked across at Lira with polite interest, as a man looks at a dish he has not ordered.
+
+Lira did not look at the pin. She stood at hers with her staff grounded and her face doing nothing, the old face, and Cael at the rope saw the straight line of her neck and knew she had seen it.
+
+He did not take the grey book out. He had not taken it out for Dravin and he did not take it out now. It was in his pocket with the page on Wendel inside it. There was one line on that page that would have been worth more to her tonight than everything else on it together, and she had told him on the post four mornings ago that she had watched the man herself and did not want it.
+
+Somebody came and stood beside him at the rope.
+
+He did not need to turn his head. He knew the size of it in the edge of things, and the stillness. Brom folded his forearms on the top strand, a hand's width from Cael's, and looked at the floor.
+
+"She asked me not to watch her," said Brom.
+
+Cael turned his head then.
+
+"This morning. At the post." Brom did not look away from the floor. "She said, *Don't read me tonight. I don't want to know what I look like from in there.*" He considered the floor. "So I'm standing here, and I'm not."
+
+"Can you not? If you're this close?"
+
+"No," said Brom. "I can not look at it. Like not listening to the next room."
+
+"Begin," said Vell.
+
+---
+
+She went in.
+
+She went at the word, as she did now, two long steps closing the distance before there was any need to. The room made its sound of surprise, though it had seen her do it a dozen times by now; a room always made that sound. Wendel gave back one correct step to draw her, and she did not come where he had drawn her. She came to his right side.
+
+That was the first thing, and Cael did not understand it at first. She did not come straight at him, nor to his left, where his back foot was and where a Wind's step was easiest to follow. She came in close on his right, closer than she needed, so that her shoulder was nearly at his elbow, and she stayed there.
+
+Wendel began a sequence. Cael saw it begin, though he was not pulling the gaze; he did not need the gaze to see Wendel begin a sequence, because Wendel's sequences were beautiful and the room liked to watch them. The weight going short on his right hip, the first step off it, and the open hand coming round at the speed of the first part of a three-part thing. But she was on his right. He had no room on his right to go short into. His first step came out half the length it ought to have been, into the side of her shoulder, and the second part of the sequence had to come from his other hip, his left, all at once, without being built to.
+
+It came. It was a good sequence, and it came anyway, and on the third part his open hand caught her across the upper arm with a sound like a wet sheet on a line. She took it, and turned in, the way she had learned against Dravin, and gave it the strong side, and stayed.
+
+"End of the exchange."
+
+She walked back to her mark rolling the arm. Wendel walked back to his, and as he went Cael saw him glance down, once, at his own right foot, as if it had done something he had not asked it to.
+
+In the second she did it again. She came in on his right and stayed there, so close that he could not begin a sequence where he liked to begin it, and every time he tried, the sequence had to come round from the left instead. And on the left it came slower.
+
+Cael's hand closed on the strand.
+
+It was on his page. It was the line on his page, the one he had not given her. *Off side primes slow. His sequences build from the right; from the left the first part comes half a beat behind, every time, whatever he does.* He had seen it in the summer, in Wendel's second Ironyard bout, and written it down, and underlined it, and tonight he had kept his hand off his pocket on purpose so as not to give it to her.
+
+She had not needed it. She was not waiting for the slow side. She was making him use it. Every sequence he began, she had already made begin on the side where he was late. She came in on his right and stood there and dared him, and when the left began, half a beat behind, she was already inside it, with her staff coming. Once, twice, the staff caught him, on the hip and the ribs. Neither was a finishing blow, but they were the first clean hits anybody had put on Wendel in the Ironyard, and the room made a different sound.
+
+She had found it herself. Watching him from the benches in the summer, perhaps, or watching other guild Winds at night, or in some way she would never tell him. She had found the one thing on his page that mattered and built a way of fighting around it, and she had done it without his book. He stood at the rope and did not know what his own face was doing and did not care.
+
+"End of the exchange."
+
+Beside him Brom said, very quietly, without looking away from the floor: "That's a good thing she's doing."
+
+"I thought you weren't watching."
+
+"I'm not watching her. I'm watching him." Brom's forearms did not move on the strand. "He knows something's wrong and he doesn't know what. That's the worst place to fight from."
+
+---
+
+Wendel changed in the third, and he changed well, because he had been taught everything properly and that included what to do when a thing was not working.
+
+He changed his feet. He came out at the word with his left foot forward instead of his right, so that the side she had been crowding was now his back side, and the slow side was in front. It was a clean change and a correct one. For half the exchange it worked: she came in on what had been his right and found it was the wrong side now, and he began a sequence from his new front, quick, and she had to give ground for the first time in the bout.
+
+Then she changed too, inside the exchange.
+
+Cael saw her do it, and it was the thing he would remember longest out of the whole night. She did not go back to her mark and think about it. She gave two steps, and on the second step her feet were already somewhere else, round on his other side, on the new right. She was crowding him again before he had finished the sequence he had begun, and the next one had to come from the slow side, and she was inside it. He had changed in one exchange, and she had changed back inside half of one, and the room saw it.
+
+That was the whole of the fourth and the fifth, after that. They were long exchanges, longer than any of hers had been all autumn, both of them working hard. Wendel tried his feet again, and tried coming at her from range, and tried waiting; once he tried something very fine, a sequence that began on the slow side on purpose and was meant to be slow, so that she would go in and meet the quick part coming round behind it. Cael would have written a backwards hook in the margin for it. Lira did not go in. She stood off and let it go by and came in on the next one, and it was as if she had heard the lie in it.
+
+Each time Wendel found something new, it came an exchange late, an answer to the Lira who had been in front of him a minute ago. Each time she answered him, it was the Lira in front of him now. Cael had won a dozen bouts in his own year off exactly that gap, from the inside, without ever being able to see it. From the rope he could see it as plainly as a crack in a plate, and see how Wendel's face changed as he felt it widening.
+
+At the end of the fifth they were both breathing like bellows. Lira's upper arm, where the first sequence had caught her, had gone a dark red she would be wearing for a week. She walked to her mark and did not look at Cael. She looked at the floor in front of her, at the place where she would stand, with her lips not moving at all.
+
+"Begin."
+
+It ended in the sixth, quite quickly, after all that.
+
+He came out with his weight on his right side, his good side, square, as he had begun the bout, because he was tired and his body went home to the place it had been taught first. She came in on his right and crowded it, as she had in the first. He began from the left, because there was nowhere else to begin, and the left was half a beat behind. She was already moving before the first part of it came. She caught his open hand on the near end of the staff and sent it away on the far end and stepped with it, the catch and send with the step in it that she had found against Dravin, all in one motion with no stop. The far end of the staff came round into his ribs under the arm that had just gone past her, and he folded over it and went down on one knee on the stone.
+
+He stayed there a moment, breathing. Then he looked up at her, and Cael saw his face, and it was not angry. It was the face of a man who has been shown something he did not know about himself and is too honest to pretend he has not seen it.
+
+He put his hand up.
+
+"Called," said Vell. "Hand up. Sixth exchange."
+
+---
+
+The room came up off the benches. The four girls from the wall were standing on their bench, and the dock partner had his arms over his head. The betting man stood on his crate staring at his slate as if it had insulted him.
+
+Dace was across the floor before Wendel was on his feet. He came straight from the slate with a stick of chalk still in his hand, and stopped in front of Lira at her mark, and looked at her the way he had looked at Brom, top to bottom, like a carter at a horse.
+
+"Do you want it moved?" he said. "Your line. If you want it, I'll put it to her tonight. I'll put it to her myself."
+
+Lira looked past him at the rope. She looked at Cael.
+
+It was an old habit, he knew, from the first months, when she had asked him things with her eyes before she asked anybody else. He knew too, standing at the rope with his hand on the strand, that whatever he did with his face now she would carry into her answer. So he did nothing with it. He kept it still, not the still face that had bits, but a face with nothing in it at all for her to read, and he left her to it.
+
+She looked back at Dace.
+
+"Yes."
+
+Dace nodded once, as if that settled something he had been waiting a long time to have settled, and went off toward Vell's table.
+
+Wendel came across the circle to Lira on his own feet, with his hand pressed to his ribs, and stood in front of her. Up close he was even taller than he had looked from the rope. He reached up, slowly, and unpinned the small enamelled thing from his collar, and looked at it in his palm.
+
+"Where did you learn the right side?" he said. "Who showed you?"
+
+"Nobody." Lira held his eyes. "I watched you."
+
+Wendel looked at her for a long moment. Then he put the pin into his pocket, not back on his collar, and nodded to her, and went to his corner.
+
+At her table Vell was writing. Cael could see her from the rope. She was writing a good deal more than she usually wrote under anybody's bout, with her head bent low over the book and Dace standing at her elbow saying nothing. She did not turn the book toward Lira when Lira went to stand at the end of the table. She finished, and blotted it, and closed it with her hand flat on the cover.
+
+"In the morning," said Vell. "Come and read it in the morning. Not now, with your arm like that and half the room watching you." She looked at Lira over her spectacles. "I want you to read it sitting down."
+
+---
+
+Brom was still at the rope when the girls from the wall had carried Lira off up the floor to sit with them on the second bench, talking all at once. He had not moved his forearms off the strand the whole time.
+
+"She's going to hit Silver-tier before she's done," he said.
+
+Cael looked at him.
+
+"Not the circuit. The real one. The card." Brom's eyes followed Lira up the floor. "With a station and a seal. One day somebody'll have to give it to her, because there won't be any way not to."
+
+"Don't tell her that."
+
+"Why not?"
+
+"She'll want to know when."
+
+Brom almost smiled. It went in at the corner of his mouth and stayed there. Then the floor began to empty round them, and they walked out together through the side door into the lane without either of them deciding to, the big man and the boy, with the cold coming down between the roofs and their breath going up in the lamplight from the door.
+
+They walked up the hill a little way in silence. At the corner where the row went off toward the boarding house, Brom stopped.
+
+"There's a thing I want to ask you," said Brom. "Not Tuesday."
+
+"Ask."
+
+"What's it for?" He tipped his head back down the hill toward the Ironyard, and seemed to mean all of it at once: the bench, the grey book, the two fingers on the wrist, the column ruled with a straightedge. "The ones I've met who fight like you, it's for something plain. Coin. A number in a book. A father. I've watched you longer than three weeks now. It isn't any of those."
+
+Cael stood on the corner with the cold in his collar and thought about it for longer than the question seemed to need. There was a quick answer, and he had given it to the heavyset man and to Red Cap and once to a carter on the road, and it was true enough for them. He did not want to give it to this man.
+
+"To understand what I am," he said at last, "before anybody else gets to decide it for me."
+
+Brom waited. He was good at waiting; it was most of what he did.
+
+"There's a page in a hall in Denvash." Cael looked along the row at the lamp in the boarding-house window, because it was easier than looking up. "It's got my name on it, and the day, and one word, and the word isn't a Path. They didn't have a row to put me in. So they wrote down the nearest thing to nothing they had, and shut the book, and the next boy came up." He put his hands under his arms. "That was them deciding. It took about as long as it takes to say it. I'd rather take a year and get it right, from what I can actually see, than walk about wearing their word because they were quicker."
+
+Brom stood with his hands in his coat pockets and looked at the same lamp. A cart went by at the bottom of the hill, late, with its lantern swinging, and they both watched it go.
+
+"My family had a page on me," he said. "Not in a hall. At home, in the long room. Nobody wrote it down. They didn't need to; everybody had read it." He was quiet a moment. "It said I was a thing to be put right. Kindly. With good letters." The corner of his mouth went in. "I left before they'd finished the putting."
+
+"I thought you might have."
+
+"Did you." It was not a question. "I don't say much."
+
+"You read Vell's book from the front," said Cael. "Everybody else starts at the back, with the new names. Only somebody who grew up with a book on him reads one from the front, to see how it was kept." He shrugged. "I've been watching too."
+
+Brom looked down at him for a moment with an expression Cael had not seen on his face before, and could not have put a hook to. It did not look like surprise this time. It looked more like a man who has been carrying a thing a long way on his own, and has just found out that the person walking beside him could see the shape of it through the sack.
+
+"Five days," said Brom. "Dace has put the bill up for the door. Main floor." He turned to go on up toward the north gate, and then turned back, as he did, with one shoulder already gone. "I've never fought anything I couldn't read. I want to see what I do."
+
+He went off up the hill, and Cael stood on the corner and watched him go until the dark took him. Then he went home along the row to the boarding house, where the heavyset man was on the step with his arms folded.
+
+"Win?" said the heavyset man.
+
+"Not mine," said Cael. "Hers."
+
+The heavyset man looked at him for a moment. Then he got up and went in ahead of him to put the kettle on.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-02-iron-circuit/manuscript/chapter-22.md
+
+# Chapter 22 — The Shelf
+
+Lira knocked on the wall between their rooms before it was light, two knocks, which meant *are you awake*, and then a third, which meant *you are now*.
+
+They went down the hill together in the dark with the frost crunching under them and the lamps still lit at the corners. She did not say anything the whole way, and she held her left arm a little out from her side, where Wendel's first sequence had caught it. At the side door she stopped with her hand on the plank.
+
+"Stand at the slate," she said. "Not at the table. I don't want anybody at the table but me."
+
+"All right."
+
+"I mean it. If you're at the table I'll look at your face before I've read it, and then I'll have read your face and not the book." She pushed the door. "I'm doing this one without you."
+
+The sweepers had not come yet. The floor was grey and empty and smelled of last night's lamp oil and the cold coming up off the stone. Vell was already at her table, as she always was, with the book shut in front of her and a second stool set at the end of the table, the side nearest the door. Cael had never seen a second stool at Vell's table. Nobody sat at Vell's table. People stood at the end of it and read, and went away.
+
+Dace was at the slate with a rag, wiping out the last of Thursday's card. He did not look round when Cael came and stood beside him. He went on wiping.
+
+Lira went to the stool and stood by it for a moment. Then she sat down, carefully, with her bad arm held out of the way, and put her other hand flat on the table, and Vell turned the book round and pushed it across to her.
+
+From the slate Cael could see the top of Lira's head bent over the page, and her finger moving under the lines, and Vell sitting back on her own stool with her hands folded in her lap, watching the far wall. He could not see the page. He did not try to. He looked at the slate instead, where Dace had wiped everything out but one name in the top corner, in yellow, ringed twice. Lira's name was not on the slate at all.
+
+It took her a long time. It took her long enough to read it three times, which Cael thought she had, because her finger went back to the top twice.
+
+Then she said something to Vell that he did not hear, and Vell said something back, and Lira turned on the stool and looked across the floor, not at Cael, but at Dace.
+
+"You'll want me," said Dace, to the rag, and put it down.
+
+She showed it to Cael afterward, outside, on the cold step of the side door, with the book in her lap. Vell had let her bring it out, which nobody had ever been let do either.
+
+It was under Wendel's name, on Thursday's page. It was longer than anything Cael had ever seen Vell write under a single bout. The first part was the bout, plainly, in the narrow upright hand.
+
+*L. over Wendel (Iron-equiv., Wind, guild-trained). Called in the sixth. Took his right side in the first exchange and held it; made every sequence of his begin from the slow side; when he changed his feet in the third she changed back inside the same exchange. Long exchanges throughout. Her answers were to the man in front of her, not to the man of a minute ago.*
+
+Under that, a line by itself:
+
+*Her line to stand at Iron-equivalent, provisional, until two more bouts confirm it.*
+
+And under that, smaller, in the same hand but slower, as if the pen had been dipped for each word:
+
+*This line was held at Copper-equivalent for a month past the point where her bouts had moved it. The keeper called the holding care. It was habit. The fault is the keeper's, and is written here so that it stays.*
+
+Cael read the last part twice, as Lira had, and then sat looking at it.
+
+"She went back," said Lira. She turned the pages backward, slowly, with her good hand, through the month. Under each of her losses, in the margin, so small that he would not have seen it unless she had put her finger on it, Vell had made a mark: a short line and a figure, the figure of Thursday's page. "Every one. The clock. The Shield. The north-gate Wind. Every line it touched. She said she'd do that, once. To somebody. I heard her say it to your big man at the table, the day he read her book from the front, and I thought it was a thing people say."
+
+"It's a thing Vell says."
+
+"It's a thing Vell does." Lira shut the book and held it on her knees with both hands, the way she had held the wrist cloth the morning Brom first came to the alcove. "I asked her what was in the back cover. What she wrote, after the Dravin month. You know what she said?"
+
+"No."
+
+"*That's mine.*" Lira laughed, short. "Then she said, *I've put the part that's yours on the page.*" She was quiet a moment. "I don't know what to do with a person who writes down that she was wrong. Nobody's ever done it to me. The examiner didn't. The halls didn't. They just shut the door, and you were the one who was wrong for knocking."
+
+Cael did not say anything. He thought that there was nothing he could put next to that which would not make it smaller.
+
+Dace came out of the side door behind them with a stick of chalk in his hand and stood on the step.
+
+"Two confirming," he said. "I know. You'll want them next week."
+
+"I'll want them tomorrow."
+
+"You'll have them after Tuesday." Dace looked out at the lane, where the sweepers were coming down the hill with their brooms over their shoulders. "One thing on my main floor at a time, and on Tuesday the thing is them." He tipped his head at Cael without looking at him. "After that I'll find you two. Good ones. Not anybody you'd beat on a cold night."
+
+Lira opened her mouth, and shut it, and nodded.
+
+Dace went back in. When Cael followed him a little later, to take the book back to Vell's table for her, he saw that the slate had a new line in the corner under the yellow name. It was Lira's, a rung higher than it had ever stood, in white, with a small *p* after it, and a chalk ring round the *p*, once.
+
+---
+
+The bill was on the outside of the plank door by the middle of the morning, and by noon half the district had read it.
+
+Dace had written it on a board in chalk, in the same square capitals he used for the slate, and hung it on the nail where the notices about lost dogs and cheap lodgings usually went. It said very little. It said the day, and *MAIN FLOOR*, and the hour the lamps would be lit, and two names one above the other with a line between them.
+
+*BROM. IRON SKIN. IRON-EQUIV.*
+
+*CAEL. ASSESSED.*
+
+Cael stood in the lane and read it with the people going past him. He had seen his name chalked on the slate a hundred times. He had never seen it on the outside of the door before, where the street could read it, and it looked different there, smaller and more exposed, like a coat hung out to dry.
+
+The word under his name was the registry's. Dace had not had any other to put. Cael looked at it for a while, and found it did not sting the way it might have a year ago. It was only true, the way the bill was true: a day, a floor, an hour, two names.
+
+The betting man had moved his crate out into the lane for the occasion, under the eaves by the door, and had his slate propped against the wall beside him. He had two columns on it. The left was long and full of marks. The right was short.
+
+"Four to one," he said, when Cael came and stood in front of it. He did not seem embarrassed to say it to the boy whose name was at the head of the short column. People did not get embarrassed about prices in the Unranked District; a price was a fact, like weather. "Against you. It was three this morning. It's gone out since the bill went up."
+
+"Why?"
+
+The betting man looked at him with interest, the way he had looked at Lira's line the month she kept losing and he could not decide what it meant.
+
+"You don't lose to people who come at you," he said. "Everybody knows that. You've beaten every man on that slate who goes first." He tapped the long column with his chalk. "But you've lost to men who wait. Not many, and not lately, but the money's got a long memory and it remembers the spring. And your big man doesn't wait. He doesn't even start." He shrugged. "The money's seen a boy who wins by reading, against a man who's spent three weeks letting you read him, and it's decided that a man who lets you read him has a reason. Money's not clever. But it's honest about what it's seen."
+
+Cael nodded slowly.
+
+"Money is the quickest witness," he said.
+
+"Is that from your book?"
+
+"It was. About Lira."
+
+"Well." The betting man rubbed out a mark and wrote it again a little lower. "It's a good line. It cuts both ways, like most good lines."
+
+While they stood there, the river-academy man came up the lane from the river end with his coat buttoned to his chin. He did not stop to read the bill; he had read it already, by the look of him. He went to the betting man, and took a single coin out of his pocket, and laid it on the crate on the side of the short column, and waited while the betting man wrote it. Then he nodded to Cael, the small left-handed nod, and went on up the lane without a word.
+
+The betting man looked at the coin.
+
+"He's never laid a copper on anybody in a year," he said. "Not even himself."
+
+Red Cap had come out of nowhere, as he always did, and was standing at Cael's elbow with his cap pushed back, reading the bill with his lips moving.
+
+"The fruit woman's put a copper on the big one," she told Cael. "For luck, she says. She says she likes you better but she likes her copper best." He considered the slate. "Four to one's a lot."
+
+"It's what they've seen."
+
+"I haven't put anything on anybody." Red Cap pulled his cap down. "I'm waiting to see which way the square goes."
+
+---
+
+Dace let him walk the main floor before the noon meal, while the sweepers were moving the ropes.
+
+He had watched a hundred bouts on it from the east bench, with somebody else's name in yellow at the top of the slate, and he had always been too busy reading the fighters to read the stone. Now the floor was empty, and the Stone pair's posts were coming out of their sockets to be carried to the side floor, and the big square of old foundry stone in the middle of the Ironyard lay bare under the high windows with the morning on it.
+
+It was larger than he had remembered. Bouts on the side floors went from rope to rope in a few strides, and a Wind with any length to her could cross one in three. Here the ropes stood well back, a dozen good strides from one to the other, with room for a fighter to go a long way before anybody had to stop him. The stone was darker in the middle than at the edges, where years of feet had polished it, and in two places it was cracked across in long straight lines that somebody had filled with lead.
+
+He walked it from his mark to the far rope with his feet, slowly, counting. Then from his mark to the left-hand rope, and then the right.
+
+"What are you doing?" said Dace, from the slate. He had a coil of rope over his shoulder and did not sound as if he much minded.
+
+"Finding out where the room runs out."
+
+"It runs out at the rope. Same as anywhere."
+
+"Not the same as anywhere." Cael stood on his mark and looked to his left, to the front-left and the back-left, along the lines his burst would take if he asked it to. On the side floors there had never been more than a burst or two of room in any direction before the chalk came up under his heels. Here there were five, six, perhaps more. "On the side floor I can only go short twice before I'm in the rope. Here I could go all night."
+
+"Is that good?"
+
+"It's bad." Cael looked at the long dark stone. "It means I could spend everything I've got going round him, and never once run out of floor to tell me to stop."
+
+Dace looked at him for a moment, and then went back to his rope.
+
+The floor itself he tested last, because he thought he already knew what it would tell him. He went to the middle, where the stone was darkest, and stood on it the way Brom stood, with his weight back in his heels, six parts in ten. He felt the floor under him. It was the oldest stone in the building, laid when the place was still a foundry and men poured iron on it, and it was thick and dense and did not give anywhere; when he stamped, nothing came back at all, only a dull flat sound like a door closing in another house. A big man could send a whole hit down into that and the floor would take it and keep it and never pass it on.
+
+Brom had found this, he thought. Brom had walked this floor before he ever said a word to Dace about a bout. He had probably stood on this very spot in the dark middle.
+
+Corrin was on the end of the front bench with his hands on his stick, where he always was, watching the sweepers carry the posts as if they were doing it wrong.
+
+"Stone floor," he said, when Cael came off it. "Suits him."
+
+"I know."
+
+"Doesn't suit you." Corrin worked his thick knuckles on the head of the stick. "You want something with a bit of give in it, the way you go. A board floor. A barn." He snorted. "Too late for that now."
+
+Cael wrote it in the grey book standing up, with the book against the rope post.
+
+*Main floor. Twelve strides rope to rope. Room for five or six bursts in the fan before the rope; on the side floor, two. So the floor won't stop me spending. Only I can. Stone thick, old, dead underfoot; takes a hit and keeps it. His floor. He's stood on it.*
+
+And under it, smaller: *Mark the left. Take the mark with open room to my left, so if I need the insurance, it pays out. Ask Dace which mark is mine.*
+
+He asked. Dace, who had been listening to all of it with his back turned, said without turning round that the challenger chose his mark, and the challenger was Brom, and Brom had already told him he did not care which.
+
+"Then I'll have the north mark," said Cael.
+
+"You'll have the north mark," said Dace, and chalked it on the slate, small, under the yellow name, where nobody but the two of them would notice it.
+
+---
+
+He went to the noon session because it was the last one he would watch, and because he had said he would.
+
+The newcomers were there, and two more from Keth's ring behind them, and among the three he knew best the girl with sacking in her hair went first. Cael sat on the bench at the back of Brom's alcove with the grey book open and his fingers on his wrist, and watched her go at Brom's forearm with her eyes open, all the way, as Keth had said. She did not flinch when her own blow came back past her ear. She watched it go, turned with it, and set her feet again, and looked at Brom with an expression of great concentration, as though he were a sum.
+
+Brom noticed. Cael saw him notice: a very small stillness in the big face, the same one Cael had seen on the morning of *I know who you are*, when a stair had been a little higher than counted. At the end of her three rounds Brom took two coppers out of the pouch on his belt instead of one, and held them out to her on his open palm.
+
+The girl looked at the two coins and then at him.
+
+"That's two."
+
+"You kept them open," said Brom.
+
+She took the coppers, and went off up the floor holding them in her fist, and did not tell the tall lad what the second one was for.
+
+The tall lad went next, and did something nobody had told him to. On his second round he came in low and kicked at Brom's lead shin, a clumsy, honest kick off the wrong foot, the way a boy kicks a gate that will not open.
+
+Cael's pencil stopped.
+
+Brom took it. It landed on the shin below the knee, on the bare part of the drawing, and nothing came back from it at all; the lad's foot simply stopped against a big man's leg and fell away, and the lad hopped, and Brom shifted his weight a hand's width, no more. Then Brom looked down at his own shin for a moment, the way Wendel had looked at his own right foot the night before, as if it had done something he had not asked it to.
+
+He looked across the alcove at Cael.
+
+Cael kept his face still. He did not look at the page, or at the shin, or anywhere in particular. He wrote nothing. He sat with his fingers on his wrist and let his eyes rest on the tall lad, who was rubbing his foot and grinning, as if the kick were the only thing in the alcove worth watching.
+
+Brom held the look a moment longer. Then he turned back to the lad and nodded at him to go again, and the lad went again, at the chest this time, and went off sideways laughing.
+
+It was one kick, from a boy who did not know what he was doing. A man who knew what you were looking at could choose what you saw, and a man who did not lie to the column could still notice, as anybody would, that a boy had kicked him somewhere new. Cael did not write it as evidence. He wrote it, afterward, as a question, with the *?* beside it: *Shin, the tall lad, by accident. Nothing came back. He looked. Does he know now that I know? He knew already.*
+
+Cael filled the middle column for the last time. He did not need to. He had more than he could use. But he counted the gap through the first round and the second and the third, and wrote the beats down in a neat line, and saw the line do what it had done for twelve days: long, and then shorter, and then shorter, as the man got used to a thing. He wrote at the end of it, *Same. Every time.* It was a dull entry to finish on. He was glad of it. He had been afraid, a little, that on the last day the numbers would turn round and show him he had been wrong for twelve days, and they had not.
+
+The newcomers went. Brom paid the last of them and sat on his own bench across the alcove and began to unwind his hands, as he always did, slowly, the left first.
+
+The alcove was quiet. Out on the floor somebody was sweeping, and the sound came in through the arch, long and patient, like breathing.
+
+"You don't read people from the back of a room," said Cael.
+
+Brom went on unwinding. He did not look up.
+
+"You sat at the back for a month, by the water barrel. I counted you there. Then you came down and sat on the end of my bench, close enough to touch my sleeve, and you sat there two exchanges and went. Then three weeks at the rope. Not the back bench. The rope." Cael closed the grey book on his finger. "And now you sit there, a bench's length off, every day, and I've watched you not look at me. It's close, whatever you do. It doesn't reach far."
+
+The cloth came off the left hand. Brom laid it across his knee and smoothed it flat.
+
+"No," he said. "It doesn't."
+
+"It's part of the Path."
+
+"It came with it." Brom began on the right hand. "The same day. Fourteen."
+
+Cael waited. He had learned, in twelve days, that if he waited, the big man would sometimes go on, and sometimes not, and that asking again made the not more likely.
+
+"What do you see?" he said at last, because the waiting had gone on long enough to be its own kind of asking. "When you're close. When it's me."
+
+The cloth stopped.
+
+Brom sat with it half off his right hand and looked at the floor between them, at the old foundry stone, for so long that Cael thought he had decided not to answer. Out on the floor the sweeping went on, and stopped, and began again further off.
+
+"Something I've never seen before," said Brom.
+
+He finished the right hand. He laid that cloth on his knee too, on top of the first, and put his two hands flat on top of them both.
+
+"Everybody's got a weight," he said. "Not the body. The other thing. The Path, and what the rank's done to it. I feel it the way you feel a man walking on the floor upstairs, through a beam. Every one I've stood near, I've kept. Like a shelf in a room. Blades on one shelf. Forces on another. Winds. Stone. The ones with nothing yet, who aren't kindled; they've a shelf too, an empty one." He moved one thumb on the cloth. "Two years, three cities. I stopped finding new shelves a long while back. Everything I stood near went on one I'd already got."
+
+"And me."
+
+"I've been along every shelf," said Brom. "You're not on one."
+
+Cael sat very still on the bench.
+
+"Not empty," Brom went on, in the same flat, careful voice, as though he were reading a figure off a page and wanted to get every digit right. "I know empty. It's not that. And not wrong, the way a man's wrong when he's sick, or lying about his Path. It's weight where there oughtn't to be weight. Moving about. Never standing still in one place long enough to be a shape." He stopped, and seemed to go back over what he had said, and found it would do. "That's all. I haven't got a word for it. I don't think there is one."
+
+Cael found he had put his hand flat on the cover of the grey book, as if to keep it shut.
+
+He thought of the brown register in the reading room over the dyers' hall, a hundred years old, with a row in it for every Path that anybody had ever been recorded holding, and no row for anybody who had not been given one. He thought of a hall in Denvash, and a clerk's flat voice, and a word written down because there was nothing else to write. For a year he had believed that the trouble was the books. The books were old, and kept by people who owned the key, and had been built in rows by people who had only ever seen what fitted in a row. Now here was a man who had built his own book out of nothing but standing close to people, without a registry or an almanac or a guild, out of his own body, honestly, for two years. And his book had no shelf for him either.
+
+It ought to have frightened him. He waited for it to.
+
+It did not, quite. What came instead was harder to name, and steadier. It was something like the feeling of reading the same figure in two ledgers kept by two people who had never met, and knowing from that, better than from either one alone, that the figure was true.
+
+"The registry hasn't got a row for me," he said.
+
+"I know. I read your line in her book. *Assessed*." Brom looked at him for the first time since the cloth had stopped. "That's a word for *we looked and didn't find a word*."
+
+"Yes."
+
+"Mine's a shelf that isn't there." Brom turned one hand over on his knee, palm up, the way he had sat after the dock partner. "Same thing, I suppose. Only mine's not written down anywhere, so nobody can make you wear it."
+
+Cael almost laughed. He did not, because he could see that Brom had not meant it as a joke, and because it was the kindest thing anybody had said to him about it in a year.
+
+"Does it bother you?" he asked.
+
+Brom thought about it, honestly, as he seemed to think about everything, with the whole of his attention.
+
+"I don't like not knowing a thing," he said. "I never have. At home they used to say I'd take a clock apart to find out why it was late." He looked at his open hand. "But I've stood near that bench every day for twelve days, and I'd sooner have done that than anything I've done since the boat shed." The corner of his mouth went in. "So I don't know. Both."
+
+"Both," said Cael.
+
+They sat a while in the quiet alcove, the boy and the big man, with a bench's length of foundry stone between them.
+
+Cael did not tell him about the hip. He did not tell him about the Log, or the two entries in it, or the notices that came to nobody else. He had not decided not to; it simply did not come up in him to say. And Brom did not ask him what the weight was, or where it had come from, or what he thought it meant. He had said what he saw, and stopped where seeing stopped, and Cael understood that he would not go one step past it, any more than Vell would write a rung she had not watched someone climb.
+
+"Ask me something about Tuesday," said Brom, getting up, "and I won't answer it."
+
+"I wasn't going to."
+
+"Good." He put his coat on, and stood a moment in the arch of the alcove, filling it, as he had on the first morning. "Neither will I."
+
+---
+
+Lira was on the front step of the boarding house when he came up the row at dusk, sitting on the cold stone with her coat round her and her bad arm in her lap, as if she had been waiting, which she said she had not.
+
+He sat down beside her. Below them the row went down toward the river in steps of lamplight, and somewhere at the bottom of it a dog was barking at something that did not interest anybody else. Her arm had gone from red to a deep, even purple, the shape of an open hand.
+
+"The bill's up," she said. "Four to one. Red Cap told me. He's waiting to see which way the square goes."
+
+"I know."
+
+"I'd have put a copper on you, but it's bad luck to bet on your own side." She bumped him with her good shoulder. "Where've you been? You look like you've been told something."
+
+So he told her. He told her about the shelves, and the beam, and the weight that moved and did not stand still, and *something I've never seen before*. He told it as nearly as he could in Brom's own words, because he did not want to make them into his.
+
+Lira listened to all of it without interrupting, which she almost never did.
+
+"Well," she said at the end. "That's two of them now. The hall and him."
+
+"Yes."
+
+"Does it matter? That he hasn't got a shelf either?"
+
+"It matters that he looked. Properly. With nothing in it for him." Cael pulled his collar up. "And it means it's not only the books. It's not only the registry being old and stupid. A man who builds his own way of seeing, honest, from the ground up, still can't find me on it." He looked at the lamps going down the row. "So nobody's going to hand it to me. What I am. There isn't a book with it in. I'm going to have to work it out on my own."
+
+"On your own," said Lira.
+
+She said it flatly, without any question in it, so that it sat in the cold air between them and he could hear it.
+
+"Who measured your blind spot?" she said. "Seven times, with chalk, on the alcove floor, with you sitting there going *now* and *now* and *now* like a church bell?"
+
+"You did."
+
+"Who stood on her heels for two hours being a man she'd never fought, so you'd stop reaching for your hip?" She did not wait. "Whose dock partner showed you the gap? Who writes to you from Denvash every month to tell you to eat? Whose book do you read your own name in every morning, that's just this week written down that she was wrong, so you'd know the rest of it's right?" She turned and looked at him. "And who sat on a bench across from you for twelve days, letting you count him, and then told you what he saw when you asked him, when he didn't have to and it didn't win him anything?"
+
+He did not answer. He did not need to. She was not asking.
+
+"You're not doing it by yourself," said Lira. "You never have been. You just write it all down in a book with one name on the front, so it looks like you are." She looked away down the row again. "I don't mind. I like the book. But don't sit on my step and tell me *on your own*, Cael. Not to me. It's rude."
+
+He sat with that for a long while.
+
+He thought about the grey book, and about every page in it, and tried to think of one that had nobody else in it. He could not. Dessa was in it, and the clock, and the river-academy man, and Keth, and Ulric, and Corrin with his thick knuckles, and Hesk's mill-wheel on a page he had thought was only about Brom. Lira was on nearly every page, mostly in the margin, mostly as *L.*, as though she were a measurement and not a person.
+
+"I'll put your name in it," he said. "Properly. Not *L.*"
+
+"Put it in ink," said Lira. "You never put anything in ink. I want to be the thing you can't rub out." She leaned her good shoulder against his, and left it there. "And put the big one's in too. He's earned it. *Brom*, in ink, with a shelf drawn round it."
+
+"He'd hate that."
+
+"He'd pretend to hate it," said Lira. "And then he'd read it from the front."
+
+---
+
+When she had gone up, he went to the crate desk and lit the lamp and opened the grey book to a clean page, and before he wrote anything else he uncapped the ink.
+
+He went back first, through the whole of the two weeks, and wherever he had written *L.* he wrote *Lira* above it, small, in ink. It took a long time. There were more of them than he had thought, and some of them were on pages that had nothing to do with her at all, as if she had wandered into the margins of other people's fights. On the page about the middle column he wrote *Keth asked*, and on the coverage map he wrote *her partner*, and on the first page with Brom's name at the head of it, under *Iron Skin. Formal tier not known*, he wrote in ink, *Brom*, again, and then, because she had told him to and because it was true, a line round it with corners like a shelf.
+
+Then he turned to the clean page and wrote the plan.
+
+He wrote it plainly, as a hypothesis, the way he would have written a claim in the Log, because that was all it was until Tuesday made it something else.
+
+*B. on Tuesday. What I think is there:*
+
+*1. The gap. After a hard answer, before the next hard answer. Against the post, half a beat. Live, after three close together, two beats. It's an account, not a moment. Hard answers draw on it. Three fast enough, and the fourth comes slow.*
+
+*2. Below the knee. Thinnest place on the map. Either he can't reach it easily or nobody's made him. Don't know which. Doesn't matter if the fourth goes in during the two beats.*
+
+*3. Latency is longest when everything is new. It shortens with every repeat. So: never give him the same thing twice.*
+
+*Plan. Exchanges one and two: make him answer. Hard enough that he has to send them back. Different every time, so he learns nothing he can use. Feet and hands only. Watch the account. Don't try to win either of them.*
+
+*Exchange three: three in a run, close, from three different places. Fourth low, below the knee, in the gap. Two to test, one to take.*
+
+He stopped, and read it, and wrote under it the part that was not a plan but a rule, so that he would see it there on Tuesday morning when he was frightened and wanted it not to be true.
+
+*Pressure: locked. Not once. Not the giving face, not the taking. Every hit I make heavier, he sends back heavier. See the Log, in ink.*
+
+*Wind: insurance. Only if he commits, and only if I've read it first. Read first, it's cheap. Found by it, it's twice the price, and I can't afford twice on Tuesday.*
+
+*What I'm fighting with: my feet. My hands. The middle column. The boy who walked over the hills.*
+
+And then the last part, the one he made himself write because a plan without it was only a wish.
+
+*How I'll know I'm wrong. If the gap doesn't widen live, on the main floor, with him trying, I'll know by the end of the third. If the knee's hard, I'll know when my foot comes back up my leg. If either: then the plan is wrong and not the reading, and I've got four exchanges left to read why. A loss to the right man, watched all the way through, is still worth buying.*
+
+He sat back and looked at it.
+
+It was a good plan. He thought it was the best plan he had ever written, because every line in it had been seen, and counted, and argued over at a baker's side door, and nothing in it had been guessed. And he thought, too, as plainly as he had written *I think I'll lose it* on the first day of the two weeks, that it might not work at all. Brom had stood at the rope for three weeks and on a bench for twelve days, and had watched Cael learn him every single one of them. Whatever Cael had found, Brom had watched him find it. A man who knew where you were looking could choose what you saw.
+
+But he did not think Brom had chosen. He thought of the big man on the fourth day, winding the cloth round his hand, with a row of easy lies he could have fed into the middle column, and not feeding them. Cael could not have said how he knew that. It was not in any column. It was what Brom was made of.
+
+He wrote that down too, at the very bottom, in pencil, because it was not a measurement and he might be wrong.
+
+*He hasn't lied to the column. I'd stake the plan on it. I am staking the plan on it.*
+
+Through the window over the alcoves, at the north end of the Ironyard down the hill, the practice lamp was lit. It had been dark the night before, after Wendel, and now it was lit again, and somewhere under it Lira was doing the thing that was hers, with her arm purple to the elbow and her line a rung higher than it had ever stood. He watched it for a while, and did not go down.
+
+On the plank door at the bottom of the hill the bill was hanging in the dark, with his name under the line, and the registry's word under his name. In the lane beside it the betting man's slate stood against the wall where he had left it, with four to one chalked at the head of the short column and one coin from the river-academy man on that side, and a long column of other people's coins on the other.
+
+Four days.
+
+He capped the ink, and blew out the lamp, and lay down in the dark, and for the first time in two weeks he did not count anything at all.

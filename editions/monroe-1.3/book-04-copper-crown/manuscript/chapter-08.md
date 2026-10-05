@@ -24,7 +24,7 @@ It was the first thing Brom had said about the east hall in twelve days. He had 
 
 "What was the question?" said Karis.
 
-"Which of them was tired." Brom picked his spoon up. "I said the tall one, because he'd started setting his feet before he moved instead of while. He said yes. Then he said fourth bell." He took a mouthful and spoke round it. "I didn't want to talk about the bench. It sounded like I'd been put in a corner. But I hadn't. I don't know what I'd been put in. I learned more in twelve days of sitting than I did in my first year at the Ironyard."
+"Which of them was tired." Brom picked his spoon up. "I said the tall one, because he'd started setting his feet before he moved instead of while. He said yes. Then he said fourth bell." He kept talking through the porridge. "I kept quiet about the bench because it sounded like a corner, and it isn't one. I still couldn't tell you what it is. Twelve days on it taught me more than the whole of my first year at the Ironyard."
 
 Lira was looking at him with an expression Cael could not read at all.
 
@@ -42,7 +42,7 @@ Cael had watched him once before, for nine minutes, through a door. From above i
 
 Brom came in last, in his wraps, and Rooke pointed at the middle of the boards without looking at him.
 
-Four of the cohort came out to meet him.
+Out of the fourteen, Rooke sent him four.
 
 They did not come all at once. They came in turn, a short exchange each, then the next, and Cael understood within three turns that it had been arranged that way so that Brom would meet four different problems before he had finished solving the first. The first was a small quick girl who laughed when she was hit and was very seldom hit. The second was tall and loose and never came at him the same way twice. The third did almost nothing; she stood off at the edge of his reach and waited, and waited, and when Brom finally moved she was already somewhere else. The fourth was older than the others, seventeen or eighteen, with his weight carried forward on the balls of his feet even when he was standing still, and he did not look at Brom until the instant before he moved, and then he looked at nothing else.
 
@@ -52,7 +52,7 @@ Then he stopped writing, because the floor had begun to go too fast for the pen.
 
 ---
 
-Brom had been the hardest problem in every hall Cael had ever seen him in.
+In every hall Cael had known, Brom was the problem nobody solved.
 
 At the Ironyard, men twice his age had come off the boards shaking their hands out and laughing ruefully, because hitting Brom was like hitting a door that hit back. At Greyvane he had gone through the defensive cohort in a term, and Wray had needed her own two hands to find the one place in him that gave. He was big and he was patient. Iron Skin made the surface of him dense at the instant of contact, so that a strike landed on something more like stone than flesh, and then he did the thing he had built for himself in the years before anybody taught him anything. He let the strike commit, all the way, and only then took it and turned it, so that the force went on past him into nothing, and the striker went with it.
 
@@ -60,9 +60,9 @@ The quick girl touched him on the shoulder before he had finished setting his fe
 
 Rooke said, "Again."
 
-She touched him again, on the other shoulder, and laughed, and went back to the wall, and the tall one came out. He feinted high and went low and touched Brom on the hip, and then on the next exchange feinted low and went low anyway and touched him in the same place, and Cael saw Brom's face change: not hurt, but puzzled, like a man who has opened a familiar door and found a different room. The third girl stood off and waited, and Brom waited too, for a while, and then moved, because he was not built to wait forever, and she touched him on the wrist as he came. Then Ephram came out, and touched him three times in an exchange so short Cael counted it on the bench afterward by the rise and fall of his own breath and made it four breaths.
+Her second touch found the other shoulder; she laughed, and was back at the wall before the tall one had finished stepping out. He feinted high and went low and touched Brom on the hip, and then on the next exchange feinted low and went low anyway and touched him in the same place, and Cael saw Brom's face change: not hurt, but puzzled, like a man who has opened a familiar door and found a different room. The third girl stood off and waited, and Brom waited too, for a while, and then moved, because he was not built to wait forever, and she touched him on the wrist as he came. Then Ephram came out, and touched him three times in an exchange so short Cael counted it on the bench afterward by the rise and fall of his own breath and made it four breaths.
 
-Brom tried things. That was the part Cael would remember longest, more than the touches. He did not stand and suffer it. On the quick girl's third turn he dropped his weight early, before she came, so that she would arrive on a man already set, and she simply waited until his legs got tired of being set and came then. Against the tall one he stopped watching the feint and watched the hips, which was what Cael would have told him to do, and for two exchanges it worked; then the tall one began to feint with his hips as well. Against the waiting girl he tried waiting longer than she did, and found that she had been taught to wait by somebody far more patient than anybody who had ever taught Brom anything. Each idea bought him one exchange, sometimes two. Then the person in front of him had seen it, and it was spent.
+Brom tried things, and long after the touches had blurred together Cael would remember the trying. He did not stand and suffer it. On the quick girl's third turn he dropped his weight early, before she came, so that she would arrive on a man already set, and she simply waited until his legs got tired of being set and came then. Against the tall one he stopped watching the feint and watched the hips, which was what Cael would have told him to do, and for two exchanges it worked; then the tall one began to feint with his hips as well. Against the waiting girl he tried waiting longer than she did, and found that she had been taught to wait by somebody far more patient than anybody who had ever taught Brom anything. Each idea bought him one exchange, sometimes two. After that it was known, and on this floor a known idea was worth nothing.
 
 None of them ever explained. They did not need to. Each correction they made to him was written on his body in the one language every fighter on the floor could read, and he read it, and stored it, and was touched again.
 
@@ -72,13 +72,13 @@ He could see Brom counting. His lips moved after each touch.
 
 Somewhere around the twentieth minute the lips stopped moving.
 
-Cael wrote that down, because he knew exactly what it meant. Brom had counted everything for as long as Cael had known him: tallies in the pocket book, days of the clause, coppers on toll ledges. He had stopped counting because the count had begun to take some of the attention he needed for the next touch, and he had chosen the next touch. Cael did not think he had ever seen Brom choose anything over a count.
+Cael wrote that down, because he knew exactly what it meant. Brom had counted everything for as long as Cael had known him: tallies in the pocket book, days of the clause, coppers on toll ledges. He had stopped counting because the count had begun to take some of the attention he needed for the next touch, and he had chosen the next touch. It was the first time Cael had known a count lose.
 
 By the end of the hour Cael's own tally, kept in the margin in groups of five, stood at forty-three. Brom had touched somebody back perhaps six times, all of them against the tall one, and all of them the same way, and the tall one had stopped letting him after the sixth.
 
-What struck Cael, sitting above it with the pen going slack in his fingers, was how little luck there was anywhere on the floor. At the Ironyard and at Greyvane a fair share of every bout had been accident: a slip, a guess, a strike thrown at the wrong place that happened to find somebody standing in it. Here there was none of that. Four people had taken turns on Brom for an hour, each of them doing precisely what they had meant to do at a speed Brom had never in his life been asked to answer, and the forty-three marks in the margin were not forty-three pieces of luck but forty-three small arguments, each of them won.
+What struck Cael, sitting above it with the pen going slack in his fingers, was how little luck there was anywhere on the floor. At the Ironyard and at Greyvane a fair share of every bout had been accident: a slip, a guess, a strike thrown at the wrong place that happened to find somebody standing in it. Here there was none of it. For an hour four people had worked on Brom in turn, every one of them doing what they meant to and faster than anybody had ever asked him to answer. Cael looked at the margin. Forty-three marks and not an accident among them: forty-three small arguments, every one settled against him.
 
-Rooke said, "Enough," and the cohort went to the walls for water.
+At the hour Rooke said, "Enough." The cohort scattered to the walls and the water jugs.
 
 Then he walked across the floor to Brom and said something Cael could not hear. Brom listened with his head down. He nodded once, and then again, and then he did a thing Cael had never once seen him do with an instructor: he asked a question back. Rooke answered it in two words. Brom went to the wall.
 
@@ -86,9 +86,9 @@ Up on the gallery Cael found he had been holding his breath, and let it go, and 
 
 ---
 
-Brom came into the second-quadrangle common room at the fifth bell, walked past every chair in it, and sat down on the floor with his back against the wall under the window.
+At the fifth bell Brom came into the second-quadrangle common room, ignored every chair in it, and lowered himself to the floor under the window with his back to the plaster.
 
-He did not say anything. Lira looked up from the table where she had been not filling in a ladder form for most of the afternoon, and looked at Cael, and Cael shook his head very slightly. Karis put her pen down. The room's other occupants, two Iron girls arguing about a lecture, went on arguing about it. Brom sat with his hands on his knees and his eyes shut and his breathing slow and even, and the clock on the mantel ticked through most of a minute and a half.
+He did not say anything. At the table Lira had spent most of the afternoon not filling in a ladder form; she raised her eyes to Cael, and he gave the smallest shake of his head. Karis put her pen down. The room's other occupants, two Iron girls arguing about a lecture, went on arguing about it. Brom sat with his hands on his knees and his eyes shut and his breathing slow and even, and the clock on the mantel ticked through most of a minute and a half.
 
 Then he got up, without a word, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
 
@@ -100,11 +100,11 @@ Nobody had told him to. In three years Cael had never once seen Brom fetch ice f
 
 "He was counting?"
 
-"I was counting. He stopped at about twenty." Cael sat on the arm of a chair. "Four of them, in turns. Nothing hard. Nothing lucky either."
+"I was counting. He stopped at about twenty." Cael perched on a chair arm. "Four of them, in turns. Nothing hard. Nothing lucky either."
 
 Brom opened his eyes.
 
-"Was it forty-three?" Brom sounded interested, as if it were somebody else's figure. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And not one of them was trying to hurt me. That's the part I keep coming back to. Not one of them was trying to hurt me. They were all just right. Over and over again."
+"Was it forty-three?" Brom sounded interested, as if it were somebody else's figure. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And nobody was out to hurt me. That's what I keep coming back to. Not one of the four wanted me hurt. They were all just right. Over and over again."
 
 "You're Iron-equivalent," said Lira. She said it a little sharply, the way she said things she was going to defend. "Two years of circuit ratings. Greyvane's defensive cohort in a term."
 
@@ -116,7 +116,7 @@ Karis laughed out loud, and put her hand over her mouth, and laughed again behin
 
 "You're pleased," said Lira, disbelieving.
 
-"I'm *delighted*." Brom meant every syllable. "Wray found one thing in me with her hands, once, and it took her a term. This afternoon four of them found a dozen before the bell. Two years I've been the wall everybody else breaks on. You can't grumble about that out loud. People think you're showing off. But it's like being the one grown man at a children's game. Nobody learns anything, and you least of all." He pressed the ice down. "This afternoon I was the one problem in the hall that everybody else already had the answer to, and they gave me the answer, one at a time, and they were kind about it. I don't think I've ever had a better afternoon in my life."
+"I'm *delighted*." Brom meant every syllable. "Wray found one thing in me with her hands, once, and it took her a term. Today four of them found a dozen, and the bell hadn't even gone. Two years I've been the wall everybody else breaks on. You can't grumble about that out loud. People think you're showing off. But it's like being the one grown man at a children's game. Nobody learns anything, and you least of all." He pressed the ice down. "This afternoon I was the one problem in the hall that everybody else already had the answer to, and they gave me the answer, one at a time, and they were kind about it. Best afternoon I've had, I think. Ever."
 
 Karis had her notebook out by then, because she could not help it.
 
@@ -126,7 +126,7 @@ Karis had her notebook out by then, because she could not help it.
 
 "And you got none of them back."
 
-"Six," said Cael. "The tall one, six times, the same way. Then he stopped letting him."
+"Six," said Cael. "All off the tall one, all alike. Then he stopped allowing it."
 
 "Six," said Brom, with enormous satisfaction, as if it had been sixty.
 
@@ -138,7 +138,7 @@ Brom opened one eye.
 
 "Yes," he said. "They did."
 
-Lira looked down at the ladder form in front of her, which was four lines long and had been blank since noon. She did not pick it up. She did not say anything else. But she did not look away from it either, and Cael put that in the notebook later, on Lira's page, with the date and nothing else beside it.
+Her eyes went back to the ladder form: four lines, blank since noon. She did not pick it up. She did not say anything else. But she did not look away from it either, and Cael put that in the notebook later, on Lira's page, with the date and nothing else beside it.
 
 "What did Rooke say to you?" said Cael. "At the end."
 
@@ -150,29 +150,29 @@ Lira looked down at the ladder form in front of her, which was four lines long a
 
 ---
 
-It took Ephram three sessions, to the day, and Cael was on the gallery for all of them, and for the fortnight that came after.
+It took Ephram three sessions, to the day, and Cael was on the gallery for all of them and for the week of sessions after.
 
-By then Cael had a page for Ephram and was filling a second. He had placed him on the Iron board the first afternoon and checked him against the registrar's table on the second: Blade Path, Iron-tier, Rank Six, at the top of the Iron column, which at Halcenvane was the same as saying he was the best competitor on the bluff. There were fourteen Silver students on the hill and a Gold-tier fellow, and none of them was talked about the way Ephram was talked about, because none of them was on a column anybody could read from the yard. Here, *best* meant a place on a wall.
+By then Ephram had a page to himself in the notebook and was well into a second. He had placed him on the Iron board the first afternoon and checked him against the registrar's table on the second: Blade Path, Iron-tier, Rank Six, at the top of the Iron column, which at Halcenvane was the same as saying he was the best competitor on the bluff. The hill held fourteen Silver students and a Gold-tier fellow, yet the cohort spoke of none of them the way it spoke of Ephram, because no column in the yard carried their names. Here, *best* meant a place on a wall.
 
-He did not attack the place Wray had found. Cael understood that on the fourth day, with his pen stopped over the page. He made it.
+On the fourth day Cael's pen stopped over the page as he saw it. Ephram was not going after the place Wray had found. He was building it.
 
 Brom's turn needed a read. That was its nature and its strength: he let a strike commit, all the way, so that he knew precisely where its weight was going, and only then took it. But a read needed something to read. So Ephram gave him something. He sold Brom a strike with three-quarters of his weight behind it, honestly, enough to set the read going, and then took it back before the turn could close. The cost of that to Ephram was a sliver of a beat, a little lost balance he recovered as he stepped. The cost to Brom was the whole gap, every time: the full stretch between the read and the turn, spent on a strike that had never arrived. And Ephram could do it again at once, and again, because a Blade practitioner could recommit almost for nothing, and an Iron Skin turn could not be begun and abandoned without paying for the beginning.
 
-*Speed alone wouldn't do it,* Cael wrote, on the fifth day. *There isn't enough daylight between them. So he's running a trade where each repetition costs him less than it costs Brom, and he's running it over and over until the account closes. It's the cleanest thing I've seen anybody do to anybody on a floor.*
+*Speed alone wouldn't do it,* Cael wrote, on the fifth day. *There isn't enough daylight between them. So he's set up a trade that comes cheaper on his side of the ledger than on Brom's, every single time, and he means to keep trading until Brom's side is empty. It's the cleanest thing I've seen anybody do to anybody on a floor.*
 
 *Limit: it needs a big, patient man at the other end. Anybody quick would see the feeds for what they are and go round them. Against Brom there's almost nothing wrong with it.*
 
-*I think I could answer the trade. I'm not at all sure I could answer the man.*
+*I think I could answer the trade. The man is another matter.*
 
 On the sixth day he tried to chart a single exchange from start to finish, stroke by stroke, the way he would have charted it for himself before a bout, and it took him a page and a half.
 
-Ephram came off the wall with his weight forward and stopped two paces out. He sold a strike at the left shoulder, hips turning, the back foot pushing honestly into the oak, and Brom's read took it; Cael saw Brom's shoulders begin to settle into the turn. Ephram was already gone from it. He had pulled the strike back into his own centre before it reached the halfway mark, and stepped a hand to the right, and sold another at the same shoulder from the new angle. Brom's read took that too, because it was honest weight again, and Brom was a man who believed honest weight. On the third sale Brom did not turn. He held, and held, and the strike did not come, and in the instant he let himself believe it would not come at all, it came: full, clean, a flat hand laid along his ribs on the side he had just stopped guarding.
+Ephram came off the wall with his weight forward and stopped two paces out. He sold a strike at the left shoulder, hips turning, the back foot pushing honestly into the oak, and Brom's read took it; Cael saw Brom's shoulders begin to settle into the turn. Ephram was already gone from it. He had pulled the strike back into his own centre before it reached the halfway mark, and stepped a hand to the right, and sold another at the same shoulder from the new angle. Brom's read took that too, because it was honest weight again, and Brom was a man who believed honest weight. The third sale got no turn at all. Brom held, and held, and the strike did not come, and in the instant he let himself believe it would not come at all, it came: full, clean, a flat hand laid along his ribs on the side he had just stopped guarding.
 
 Three sales and a delivery. Perhaps four breaths. Ephram had spent a little balance three times and recovered it each time in the same step. Brom had spent the whole length of his gap three times over, and on the fourth time had nothing left in it.
 
-Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. A man who would not read could not turn, and a man who could not turn was only large. Brom took the touch, and nodded slowly, as if he had expected it, and went back to reading, because it was the only way he knew how to stand.
+Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. No read meant no turn, and without the turn there was nothing left of Brom but size. He accepted the touch with a slow nod, as though he had seen it coming, and went back to reading. He did not know another way to stand.
 
-Over the fortnight he watched it get worse instead of better, which he had not expected.
+Across that week Cael watched it get worse instead of better, which he had not expected.
 
 In the first sessions Brom fell for perhaps half the false feeds. A few days later it was more than half. By the tenth day, Ephram had stopped bothering to sell them very hard, because he no longer needed to, and Brom was turning on strikes that were barely a quarter committed, with his weight going out to meet a force that had already gone home. Cael sat on the gallery and watched his friend's best thing being used against him, a little more each afternoon, by a boy of seventeen or eighteen who never once looked pleased about it.
 
@@ -182,17 +182,17 @@ Rooke stood at the west end of the floor and let it happen. He did not stop it a
 
 ---
 
-Brom told it on the wall behind the second quadrangle on the thirtieth evening, with his forearms on the coping and the river going dark below, and he told it in three sentences that got shorter every time he came back to them.
+On the thirty-first evening, after the tenth session, they stood on the wall behind the second quadrangle with their forearms on the coping and the river darkening below. Brom tried three times to say it, and each try came out shorter.
 
 "He's teaching my body a lie."
 
 Cael waited.
 
-"Every one I fall for," said Brom, "the next comes cheaper. My body's learning to believe him." He turned his hands over on the stone. "It's like watching somebody teach a dog to come to the wrong whistle. A bit each afternoon. And you're stood there seeing it done, and you can't call the dog off, because the dog's you." He looked down at his hands on the stone. "He's very good."
+"Every one I fall for," said Brom, "the next comes cheaper. My body's learning to believe him." His hands turned palms up on the coping. "It's like watching somebody teach a dog to come to the wrong whistle. A bit each afternoon. And you're stood there seeing it done, and you can't call the dog off, because the dog's you." He studied his palms. "He's very good."
 
 "Have you told Rooke?"
 
-"Rooke told me." Brom laughed, one short breath. "Day three. Before Ephram had even found it. He said it to me at the wall while I was drinking." He hesitated, and then did something Cael had never seen him do in three years of roads and boarding houses and yards. He unwound his left wrap, a few turns, and held the inside of it toward the last of the light.
+"Rooke told me." Brom laughed, one short breath. "Day three. Before Ephram had even found it. Told me over the water jugs." He hesitated, and then did something Cael had never seen him do in three years of roads and boarding houses and yards. He unwound his left wrap, a few turns, and held the inside of it toward the last of the light.
 
 There was writing on it, in ink, in Brom's big careful hand, run round the inside of the cloth where it lay against the wrist.
 
@@ -218,7 +218,7 @@ Cael looked at him.
 
 "That could take the whole season."
 
-"He said so." Brom smiled faintly at the river. "He said I'd be worse for a season. I didn't think he meant it as a figure of speech." He straightened up off the coping, and stretched, and his shoulder cracked loudly in the dusk. "Keep your page, though. In a year I'd like to read it and see how stupid I looked."
+"He said so." Brom smiled faintly at the river. "A season, he told me, and I don't think Rooke says anything loosely." He straightened up off the coping, and stretched, and his shoulder cracked loudly in the dusk. "Keep your page, though. In a year I'd like to read it and see how stupid I looked."
 
 "You didn't look stupid."
 

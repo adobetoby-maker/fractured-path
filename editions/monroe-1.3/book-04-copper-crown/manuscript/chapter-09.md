@@ -2,7 +2,7 @@
 
 Lira put her name on the ladder on the twelfth of the month, two days inside the deadline, at the registrar's table on the rim of the Crown yard, and before she did it she read out every other name on the list to Cael from memory.
 
-She did not look at the page while she did it. She stood at the table with her hands behind her back and went down the list in the order the names had gone onto it, with a line for each: which hall, which Path, how they had walked up to the table and how they had walked away. Two hundred and nine Copper practitioners on the bluff, and something over sixty had signed by then, and she had been on the rim or in the tiers for every one of them.
+She never once glanced at the page. She stood at the table with her hands behind her back and went down the list in the order the names had gone onto it, with a line for each: which hall, which Path, how they had walked up to the table and how they had walked away. Two hundred and nine Copper practitioners on the bluff, and something over sixty had signed by then, and she had been on the rim or in the tiers for every one of them.
 
 "Third on the list. Stone, fourth-year. Came up the steps like he was going to argue with somebody and then didn't." She did not pause. "Fourth. Current, second-year, a girl. Signed with her left hand and then wished she hadn't. Fifth—"
 
@@ -16,13 +16,13 @@ The clerk at the registrar's table was a stooped young man with ink on both thum
 
 "Tell me anyway."
 
-He told her. It took him a minute and a half, and he told it in the voice of a man who had told it a good many times and expected to be argued with at the end. Until the brackets posted, near the middle of term, the yard ran practice hours on its open floors, with a faculty member at this table and every result written into the practice register, which lay beside the ladder book in black boards and could be read by anybody. But when the brackets were drawn, they were seeded from last season's closing order. A practitioner who had fought last season started from wherever last season had left them. A practitioner who had not, started at the foot.
+He told her. It took him most of two minutes, and he told it in the voice of a man who had told it a good many times and expected to be argued with at the end. Until the brackets posted, near the middle of term, the yard ran practice hours on its open floors, with a faculty member at this table and every result written into the practice register, which lay beside the ladder book in black boards and could be read by anybody. But when the brackets were drawn, they were seeded from last season's closing order. A practitioner who had fought last season started from wherever last season had left them. A practitioner who had not, started at the foot.
 
-"And a transfer," said the clerk, "hasn't fought last season. Not here. So a transferred file seeds low, whatever its record says from elsewhere. It isn't personal. It's the order of the book."
+"And a transfer," said the clerk, "hasn't fought last season. Not here. Whatever a transfer's papers say about other floors, the book puts it low. It isn't personal. It's the order of the book."
 
 "And if I'd signed on the first day?"
 
-"Then you'd have started at the foot on the first day." He looked faintly puzzled. "It's the same foot."
+"The foot. Only sooner." He looked faintly puzzled. "It's the same foot."
 
 "Good," said Lira. "Then I've lost nothing by watching."
 
@@ -44,7 +44,7 @@ They walked back round the rim together, under the empty tiers.
 
 She fought her first practice bout the next afternoon, and Cael was on the third tier to see it.
 
-The Crown yard ran differently on practice afternoons. The sunk floor was divided by chalk into three rings, and a faculty member sat at the registrar's table with the practice register open in front of him, and anybody on the ladder could put their name on a slate at the table's end and be paired with the next name of their bracket that was waiting. Bouts were short: three exchanges, each to a clean touch or called even, the supervising instructor's word final. The tiers were never more than a quarter full. But they were never empty, either, and Cael had noticed in his first week that the same faces came back every afternoon, sitting in the same places, with notebooks.
+The Crown yard ran differently on practice afternoons. The sunk floor was divided by chalk into three rings, and a faculty member sat at the registrar's table with the practice register open in front of him, and anybody on the ladder could put their name on a slate at the table's end and be paired with the next name of their bracket that was waiting. Bouts were short: first to three clean touches, with any exchange the instructor could not split called even and run again, and his word final. The tiers were never more than a quarter full. But they were never empty, either, and Cael had noticed in his first week that the same faces came back every afternoon, sitting in the same places, with notebooks.
 
 Lira was paired with a Stone Path fourth-year, Copper Rank Six, broad through the hips and thick through the neck. Cael had seen him fight twice. He fought the way Stone practitioners were taught to fight on every floor Cael had ever stood on: he stood his ground, and when a strike came he let the Path set his feet into the floor so that for a breath nothing in the world could move him, and then he struck back off that anchor with his whole weight behind it.
 
@@ -56,11 +56,11 @@ She came fast and low with the Wind at her heels and her weight forward, exactly
 
 "Touch," said the instructor at the table, without looking up from the register. "Stone. One."
 
-There was a small stir on the tiers. Somebody near Cael said, not quietly, "That's the transfer?"
+The tiers stirred. Somebody near Cael said, not quietly, "That's the transfer?"
 
 Lira went back to her chalk and stood a moment rubbing her arm, and Cael saw her eyes go to the Stone fourth-year's feet and stay there.
 
-She came at him again, just as fast and straight. He set his feet again. But this time, a stride out, she put her lead foot down short, a half-step that went nowhere, and the Wind did not carry her forward from it but sideways, low and quick along the chalk. The anchor had already taken. The Stone fourth-year was planted, with all the weight of the world in his heels and his strike gathering. Lira was not in front of him anymore. She was at his shoulder, and her flat hand was on the back of it, and he had not been able to turn because the Path that would have held him against anything had also held him still.
+She came at him again, just as fast and straight. He set his feet again. But this time, a stride out, she put her lead foot down short, a half-step that went nowhere, and the Wind did not carry her forward from it but sideways, low and quick along the chalk. The anchor had already taken. The Stone fourth-year was planted, with all the weight of the world in his heels and his strike gathering. The place in front of him was empty. She was at his shoulder, and her flat hand was on the back of it, and he had not been able to turn because the Path that would have held him against anything had also held him still.
 
 "Touch. Wind. One each."
 
@@ -72,7 +72,7 @@ On the fourth he anchored again, because there was nothing else he trusted, and 
 
 "Wind. Bout, three to one."
 
-The Stone fourth-year stood a moment. Then he laughed, short and surprised, and put out his hand, and Lira shook it. Cael saw her say something to him he could not hear. The fourth-year nodded slowly and said something back.
+The Stone fourth-year stood a moment. Then he laughed, short and surprised, and put out his hand, and Lira shook it. Cael saw her say something to him he could not hear. He answered with a slow nod and a few words of his own.
 
 At the table the instructor dipped his pen and wrote the line in the practice register, and Cael went down afterward to read it. *Lira, Wind, Copper Two (transfer), over* — the fourth-year's name — *Stone, Copper Six. Three to one. Practice.* In the margin, in the same hand, a small mark like a tick.
 
@@ -86,25 +86,25 @@ At the table the instructor dipped his pen and wrote the line in the practice re
 
 ---
 
-Inside ten days she had fought nine and won nine, and the practice register had every one of them written down in black ink, and the seeding had not moved by a line.
+By the thirty-fourth day, ten days after she signed, she had fought nine and won nine, and the practice register had every one of them written down in black ink, and the seeding had not moved by a line.
 
 Cael checked. He had made himself check, every three days, because a thing he believed without checking was a thing he was going to be wrong about one day in public. The ladder book showed the Copper column in last season's order, with the new names at the foot in the order they had signed, and Lira's was the sixty-fifth of sixty-five. Nine practice wins sat in the register a hand's width to the left, and the two books did not speak to each other at all.
 
-The porter, sweeping the tiers one evening, had stopped beside him at the rail and looked at the register over his shoulder for some time.
+One evening the porter had leaned his broom on the rail beside Cael and read the register across his shoulder, in no hurry at all.
 
 "Nine," said the porter, to the steps. "That's not usual."
 
-It was the only comment anybody official made.
+Nobody with a title said even that much.
 
 Not everybody was silent, though. The notebooks on the tiers had found her by the third bout. Cael counted them as he counted everything: four faces at first, then seven, then nine, the same people in the same places on the second and third tiers, writing when Lira walked out to her chalk and writing harder when she walked back. Some were Copper practitioners studying a name that would one day be in front of them. Two, he was nearly sure, were Iron, and had no reason on the ladder to care about a Copper transfer at all, except that they could see her as clearly as he could.
 
 Lira had seen them too. She said nothing about them. But from the fourth bout on she never opened the same way twice. She came straight, and then she came wide, and then she came so slowly that her opponent went out to meet her and found her already somewhere else. In the sixth bout she did not move off her chalk for the whole of the first exchange and let a Current second-year come all the way to her, which Cael had never in three years seen her do, and won it on the counter. The notebooks wrote it all down. By the ninth they had nine bouts of Lira and, as far as Cael could tell, not one thing they could use, because she had given them nine different fighters.
 
-"You're spending a lot," he said once, on the steps. "Showing them nine ways."
+Once, on the steps, he asked whether she could afford it. "Nine ways, and they've watched every one."
 
 "I've got more than nine." She did not slow down. "And they'll only have seen each one once."
 
-Lira read the books every evening. She had stopped saying anything about them after the first week, which Cael thought was worse, and she would stand at the board on the rim with her arms folded and her face set, and then walk away. On the thirty-fourth evening she did not walk away. She stood there long enough for him to come up beside her.
+Lira read the books every evening. She had stopped saying anything about them after the first week, which Cael thought was worse, and she would stand at the board on the rim with her arms folded and her face set, and then walk away. The thirty-fourth evening, she stayed, long enough for him to come up beside her.
 
 "Three a year," she said.
 
@@ -126,13 +126,13 @@ He waited.
 
 Her eyes stayed on the sixty-fifth line.
 
-"The bracket's not the trouble," she said at last. "I'll win the bracket. That's no boast. Nine bouts in, I've seen what the column's got, and there's nothing in it I can't answer." She unfolded her arms and laid one finger on the board, on her own name. "What I lie awake over is that it won't count. Win the whole column and you're still in the column. The only way out is an Arbiter writing a new tier on my paper. My paper tells the ladder where to put me. The ladder never writes a word back to my paper."
+"I'm not worried about the bracket," she said at last. "I'll win the bracket. That's no boast. Nine bouts in, I've seen what the column's got, and there's nothing in it I can't answer." She unfolded her arms and laid one finger on the board, on her own name. "What I lie awake over is that it won't count. Win the whole column and you're still in the column. The only way out is an Arbiter writing a new tier on my paper. My paper tells the ladder where to put me. The ladder never writes a word back to my paper."
 
 Cael thought about it. He thought about the short board on the end, the one headed Silver, where the school had run out of people to divide and had put everybody left into one column and given it the name of the top.
 
 "It goes one way," he said. "Certificate to bracket. Nothing comes back up."
 
-"Nothing comes back up." Lira took her finger off the board. "So it's a machine that takes things in and never gives anything out. What's the point of a thing like that?"
+"Nothing comes back up." Lira took her finger off the board. "So it's a machine that only swallows. What's a thing like that for?"
 
 No answer came to him. That night the question went into the notebook on a clean page of its own, with two lines ruled under it, and he left the rest of the page empty, because he did not want to fill it with something clever that was not true.
 
@@ -152,9 +152,9 @@ She did it twice more in the next nine minutes. Each time she let him come, and 
 
 *Price: she has to see first. For the first minute and a half she's collecting, and she opens badly, twice today, because she hadn't finished reading him. Somebody she's never seen could take her early.*
 
-*After that, in this bracket, I don't think anybody can. And everybody in this bracket knows it, which is why they all open against her like people who've already lost.*
+*After that, in this bracket, I don't think anybody can. The bracket knows it, too. They come out against her already beaten.*
 
-*Two years of defending against everything the Copper column could send. She's fought every answer it has. There aren't any left.*
+*Two years, and the whole Copper column has had its turn at her. She's fought every answer it has. There aren't any left.*
 
 When it was over she climbed out of the sunk floor by the north steps with a towel round her neck, and found Lira at the boards, and stopped.
 
@@ -172,7 +172,7 @@ Fiske went off to the water butt. Lira turned back to her own line. All round th
 
 Lira did not look after her. But on the walk back to the quadrangle she asked Cael, without turning her head, how long Fiske had spent collecting.
 
-"About a minute and a half," said Cael. "Both times she opened badly, it was inside the first minute and a half."
+"A minute and a half," said Cael. "Near enough. Both her bad openings fell inside it."
 
 Lira nodded, and said nothing else. Cael wrote it down that night on two pages, Fiske's and Lira's, with the same date, and drew a small line from one to the other in the margin. He did not know yet what the line meant, and he was not going to guess.
 
@@ -186,13 +186,13 @@ The wash-house was a low stone room with a copper boiler in one corner and a sto
 
 "Did you ask her?"
 
-"No. You don't ask a woman whether her cloth runs. It's like asking a carter whether his horse kicks." Brom looked at the shirt with real sorrow. "She'd have been offended."
+"No. You don't ask a woman whether her cloth runs. It's like asking a carter whether his horse kicks." Brom regarded the shirt sorrowfully. "She'd have been offended."
 
 "So instead you offended my shirt." Karis turned it round to see the back, which was worse. "Both of them. I brought exactly two good shirts four days down the road from Greyvane, Brom, because I knew there'd be a library committee and I wanted to look like somebody who could be trusted with a key."
 
 "You've got the key."
 
-"I've got the key because I argued for it in a grey shirt. I don't know what they'd have done if I'd come in this." She held it out at arm's length. "They'd have thought I'd been sleeping in the stacks."
+"I've got the key because I argued for it in a grey shirt." She held this one out at arm's length. "Walk in wearing that and they'd have taken me for somebody who sleeps in the stacks."
 
 "You have been sleeping in the stacks," said Lira, from the rack, without turning round. "Twice. I came to fetch you."
 
@@ -200,9 +200,9 @@ All that week Lira had said almost nothing that was not about the register or th
 
 "Fiske isn't Copper because she fights like a Copper," said Lira.
 
-All three of them looked at her. She was standing at the rack with a wet stocking in each hand.
+All three of them looked at her. She had a wet stocking in each hand and the rack at her back.
 
-"Fiske," said Lira. "She's Copper because nobody's had her reassessed. Same as me. Same queue. Only she hasn't even got a flag in it, because Halcenvane never sent one up for her, and Halcenvane never sent one because—" She stopped. Cael watched her get there, in front of them, with the stockings still in her hands. "Because she's winning. Let her lose the crown and somebody might bother. While she's got it, she's the champion of the Copper column, and a Copper champion is worth a great deal to this hill. Only she stops being worth it the day she stops being Copper."
+"Fiske," said Lira. "She's Copper because nobody's had her reassessed. Same as me. Same queue. Except there's no flag of hers in it at all. Halcenvane never sent one up. And the reason it never did—" She stopped. Cael watched her get there, in front of them, with the stockings still in her hands. "Because she's winning. If she lost the crown, someone might trouble to send it. As long as she holds it, this hill owns the best Copper fighter anybody's seen in years, and the hill likes owning her. Only she stops being worth it the day she stops being Copper."
 
 Karis lowered the shirt.
 
@@ -210,7 +210,7 @@ Karis lowered the shirt.
 
 "It's not an accusation." Lira hung one stocking on the rack. "That's the worst of it. Nobody chose it. Nobody ever called a meeting. Sending her flag up would cost some clerk a day's work and win him nothing, and leaving it costs nobody a thing, and the crown stays in its case. So it stays. Two years now." She hung the other stocking beside the first and stood looking at them. "Nobody's wicked. Nobody has to be."
 
-Cael heard himself speak before he had finished the thought, and finished it as he said it.
+The thought was only half built when Cael began to say it. He finished it aloud.
 
 "That's what a system is," he said slowly. "Not people deciding. It's what happens when nobody's got a reason to do the work."
 
@@ -240,4 +240,4 @@ Karis studied her. Then she held up the ruined shirt again, the colour of weak t
 
 "It is not a nice colour. It's an accident." Karis folded it over her arm. "That's not the same as nice. It only looks the same when you're the one who did it."
 
-Then she looked at Cael, and Cael looked at the notebook on his knee, at the question he had underlined twice on the thirty-fourth evening, with the empty space under it. He did not write the answer into the space, because it was not an answer yet. He wrote it on the next page instead, and dated it, and put Lira's name beside it, and then, because it had been his sentence and he wanted it honestly filed, his own.
+Then she looked at Cael, and Cael looked at the notebook on his knee, at the question he had underlined twice on the thirty-fourth evening, with the empty space under it. The space under it stayed empty, since this was not an answer yet. He wrote it on the next page instead, and dated it, and put Lira's name beside it, and then, because it had been his sentence and he wanted it honestly filed, his own.

@@ -1,14 +1,14 @@
 # Chapter 10 — Present Everywhere
 
-His own track arrived on a half-sheet, like everything else at Halcenvane, and it took him most of a week to see that the half-sheet was describing a hole.
+Like everything else at Halcenvane, his own track came on a half-sheet. He carried it about for most of a week before he saw the shape it described, which was a hole.
 
 *Assay-provision enrollee. Floor time: supervised, evaluation-linked, east and north halls, four sessions weekly at hours set by this office. Each session to be signed for by the supervising faculty member named on the office's rota. Lectures: open. Public proceedings of the academy: open.*
 
 It was generous. He understood that at once and was grateful for it. He could stand on any floor the office sent him to, under any instructor it named, and run whatever the record allowed; he could sit at the back of any lecture on the bluff, on any Path; he could be present at anything Halcenvane did in public, and Halcenvane did nearly everything in public. At Greyvane he had begged for half of this and been given a quarter. Here it came folded once, in a clerk's hand, without his asking.
 
-What the half-sheet did not say took him longer to read.
+The gaps in it were slower reading.
 
-He found it on the twenty-eighth day, at the registrar's table on the rim of the Crown yard, where he had gone to read Lira's line in the practice register and had stayed to read everything else. The ladder book lay open beside the register. He read the Copper column through, every name, two hundred and nine of them in last season's order and the new ones at the foot. Then he turned the page and read the Iron column, a hundred and thirty-eight, and then the short Silver column on the last page, and then he turned back to the beginning and stood with his hand flat on the book.
+He found the hole on the twenty-eighth day, back in Lira's first week on the ladder, when her line in the practice register still held only three wins. He was at the registrar's table on the rim of the Crown yard, where he had gone to read Lira's line in the practice register and had stayed to read everything else. The ladder book lay open beside the register. He read the Copper column through, every name, two hundred and nine of them in last season's order and the new ones at the foot. Then he turned the page and read the Iron column, a hundred and thirty-eight, and then the short Silver column on the last page, and then he turned back to the beginning and stood with his hand flat on the book.
 
 The clerk with ink on his thumbs looked up from the practice register and saw him standing there.
 
@@ -26,23 +26,23 @@ The clerk with ink on his thumbs looked up from the practice register and saw hi
 
 "No," the clerk agreed sadly. "The margin never does."
 
-He had known his name would not be there. A ladder is fed by certificates, and no certificate anywhere carried a tier against his name for it to be fed. He had known that since the porter wiped the boards. Knowing it and standing over four hundred and twelve names in a book with his hand on the page were different things.
+He had known his name would not be there. A ladder is fed by certificates, and no certificate anywhere carried a tier against his name for it to be fed. The porter wiping the boards had taught him that much. Knowing it and standing over four hundred and twelve names in a book with his hand on the page were different things.
 
-No line. No bracket, so no seed. No session pairings, no challenge windows, no slow climb of four rungs at a time. No crown, at any level of performance, in any year, under any circumstances at all. He could go down into the sunk floor tomorrow and put every practitioner on the bluff on the boards, one after another, with eleven hundred people watching, and not one stroke of chalk on any of the four walls would move. There was no place for it to move to.
+No line. No bracket, so no seed. No session pairings, no challenge windows, no slow climb of four rungs at a time. No crown, however well he fought and however many years he stayed. He could go down into the sunk floor tomorrow and put every practitioner on the bluff on the boards, one after another, with eleven hundred people watching, and not one stroke of chalk on any of the four walls would move. There was no place for it to move to.
 
 *Present everywhere. Eligible nowhere.*
 
-He wrote that on the steps, and then sat looking at it.
+The steps were where he wrote it. He did not get up for a while.
 
 At Greyvane he had made a discipline out of this, over a year, and called it a vantage point. If you could not compete, you could watch, and nobody measured the one in the corner, and the corner saw everything. He had believed it. He had built a good part of himself on it. Now he would learn, on this bluff, how much of that belief had been real and how much had only been comfort.
 
 *Honest answer, twenty-eighth day: mostly.*
 
-*The vantage is real. It's better here than anywhere I've ever stood. Twenty-two Paths are taught on these three halls; I'd charted eleven before I came, which leaves eleven I've never seen up close. Lattice. Ash. Mire. Eight more I've had only from a gallery. Any one of them would have been a year's work at the Ironyard.*
+*The vantage is real. It's better here than anywhere I've ever stood. These three halls teach twenty-two Paths. Half I'd charted before I came; the other half I've never been near. Lattice. Ash. Mire. Eight more I've had only from a gallery. Any one of them would have been a year's work at the Ironyard.*
 
-*Also true, and I'd rather it was on paper than not: I stood at the ladder book today for a long time reading four hundred and twelve names, and mine wasn't one of them, and it never will be, and I minded.*
+*Also true, and better on paper than not: today I read all four hundred and twelve names in the ladder book, slowly, and mine isn't there and won't ever be, and I minded.*
 
-*It isn't the crown. I could not care less about the crown. It's the line I want: one row on a wall, in somebody else's chalk, saying what I did between the first bell of a season and the last, where anybody walking past could read it and argue with it.*
+*Not the crown. I couldn't care less about the crown. What I want is the line: a row on a wall in somebody else's chalk, saying what I did from a season's first bell to its last, for anybody passing to read and argue with.*
 
 *I've wanted that since Denvash. It has never once been on offer. I should stop being surprised.*
 
@@ -52,13 +52,13 @@ At Greyvane he had made a discipline out of this, over a year, and called it a v
 
 After three weeks of sessions on the north hall's stone, the first that the office put on the east hall's timber was against Lira, and the supervisor that week was the Ash Path instructor from the lecture range.
 
-The office permitted it because the two of them lived on the same residence roster, and because a supervised session needed somebody on the floor, and Lira had put her name down for the slot before anybody else could think of it. The Ash instructor was a thin, stooped woman of perhaps sixty, with ash-grey hair cut short and a lecturer's habit of holding a book against her chest like a shield. She signed the sheet, sat down on the bench below the gallery, opened the book, and thereafter interfered with nothing.
+The office permitted it because the two of them lived on the same residence roster, and because a supervised session needed somebody on the floor, and Lira had put her name down for the slot before anybody else could think of it. The Ash instructor was a thin, stooped woman of perhaps sixty, with ash-grey hair cut short and a lecturer's habit of holding a book against her chest like a shield. She signed, took the bench under the gallery with the book still clasped to her, and did not interfere with a single thing.
 
 They used the Ardenmere terms. They had not needed to agree them; they had been the terms since the weeks after his ribs knit on the Ironyard boards. Lira fought him properly, full pace, and the instant anything showed that was not a plain body moving, she called it. *Stop.* Then he had a count of thirty, which she kept out loud, to get it down on the slate he kept at the edge of the floor before the edge of it went soft in his memory.
 
 The slate had been Lira's idea, in the beginning, on the Ironyard boards. Paper tore and ink smeared, and a page could not be propped against a post at the edge of a floor and read from three paces while his breath was still short. A slate could. He had carried one in his pack ever since, through Ardenmere and Greyvane and down four days of road, wrapped in an old shirt so it would not crack, and he propped it now against the leg of the bench at the east hall's edge, a pace from the Ash instructor's feet. She glanced at it, and at the stub of chalk lying beside it, and went back to her book.
 
-"You call it the instant anything shows," he said to Lira. "Not after. Not when it's finished."
+"The instant anything shows," he told Lira. "Not after. Not once it's done."
 
 "I know what I call." Lira rolled her shoulders. "I invented it. You only wrote it down."
 
@@ -74,7 +74,7 @@ The first burst carried him left and back.
 
 He went to the slate. She counted.
 
-He had expected the landing to be what it always was. A thousand times on stone he had paid it: the half-breath locked shut as each burst ended, and the jolt driving up from his heels into the leading hip, and he had braced for that without thinking, the way a man braces for a step he knows is there. The landing beat was the same length. It was always the same length; he had never once in three years been able to shorten it by a hair. But it did not come home the same way. It came down through his heels into the oak, and the oak took it, gave under it by what felt like the width of a finger, and gave it back, so that what reached his hip was not a blow but a kind of push, spread out and softened, like a wave arriving on a long flat beach instead of a wall.
+He was braced for the usual landing. A thousand times on stone he had paid it: the half-breath locked shut as each burst ended, and the jolt driving up from his heels into the leading hip, and he had braced for that without thinking, the way a man braces for a step he knows is there. The landing beat was the same length. Three years of trying had never trimmed it by a hair. But it did not come home the same way. It came down through his heels into the oak, and the oak took it, gave under it by what felt like the width of a finger, and gave it back, so that what reached his hip was not a blow but a kind of push, spread out and softened, like a wave arriving on a long flat beach instead of a wall.
 
 *Burst one, east hall timber,* he wrote, while she counted. *Landing beat: same length. Consequence: softer. Hip: a push, not a hit.*
 
@@ -86,7 +86,7 @@ He stood at the slate and looked at what he had written.
 
 "Fourth?" said Lira.
 
-"Fourth." He put the chalk down. "If it's what I think, this is the one that tells me."
+"Fourth." He put the chalk down. "This one decides it, if I'm right."
 
 She came at him, and he let her, and when the fourth burst came it came clean, with no shortfall at the end of it, and the landing went into the boards and up into him spread and wide.
 
@@ -112,7 +112,7 @@ Then he sat down with the binder, opened it at the page where three years ago he
 
 *Landing beat: unchanged in length. Still the same locked half-breath. Never shortened.*
 
-*What the landing costs afterward: changed. Four bursts on these boards leave my hip about where three used to leave it on Greyvane's stone. Call it a third off, session for session.*
+*What the landing costs afterward: changed. My hip pays the same bill for four bursts on these boards as it paid for three on Greyvane's stone. The same bill buys a third more work; burst for burst, each one costs about a quarter less.*
 
 *So on a floor like this one my working ceiling is four free, not three, and the fifth is the one that bills the next morning.*
 
@@ -122,15 +122,15 @@ He was not simply pleased. He sat at the desk by the window with the binder open
 
 *So the number I've been calling my ceiling was partly Wray's stone. Three years I've priced this fragment with a ruler that had a floor built into it, and I never once asked how much of the reading was me.*
 
-*And if that's true of the Wind, I don't know that it's untrue of anything else in here.*
+*And if the Wind was partly the floor, I can't vouch for a single other page in here.*
 
 He turned back through the binder. Every price in it had been measured somewhere: the read on the Ironyard's planks, Compression on a stone floor in a cold hall, Ember on a training floor with Karis counting. Every one of them had been written down as though it were a fact about him, and every one had been taken in one place, under one set of conditions, and never taken again anywhere else, because he had never had anywhere else to take it.
 
 *Every limit in this binder may be partly made of the room I measured it in. I don't know how much, or which. I'm going back through all of it, line by line, asking.*
 
-The Compression page was the one that kept him longest. Reydan's fragment did one thing: it took a push that arrived on him and sent it down through his bones into whatever he stood on. He had measured its price on a cold stone floor in a hall where the stone took everything he gave it and gave nothing back, a forearm ache delayed a minute and lasting two hours, a hand that shook. But a floor that gave and returned was not a floor that only took. If he sent a push down through himself into oak on bearers, the oak would give under it. And then, if the east hall's boards did with a push what they had done with his landing, they would give some of it back.
+He lingered longest over Compression. Reydan's fragment did one thing: it took a push that arrived on him and sent it down through his bones into whatever he stood on. He had measured its price on a cold stone floor in a hall where the stone took everything he gave it and gave nothing back, a forearm ache delayed a minute and lasting two hours, a hand that shook. Oak on bearers did not only take; it gave, and then it returned. If he sent a push down through himself into oak on bearers, the oak would give under it. And then, if the east hall's boards did with a push what they had done with his landing, they would give some of it back.
 
-He did not know where it would go when it came back. Into him, or out of him, or somewhere in between. He had never once stood on a floor that could answer.
+He did not know where it would go when it came back. Into him, or out of him, or somewhere in between. No floor he had stood on had ever answered back.
 
 *Compression, on sprung timber: never tried. Don't guess. Try it, under a supervisor, at the lowest weight there is, and write down what happens before deciding what it means.*
 
@@ -144,37 +144,37 @@ He started that night. Brom found him at the desk after the last bell with the l
 
 "Then go to bed," said Brom reasonably, "and take it longer tomorrow."
 
-Cael did not go to bed at once. He sat a while longer with the four pages under the lamp after Brom's door had shut along the passage, and found that the thing he felt was not, after all, dismay. It was closer to the feeling at the long table in Prynn's archive, the night Karis had laid two books side by side and the gap between them had turned out to be a door. For three years he had treated every price in the binder as a wall. Some of them might still be walls. But some of them, it seemed, were only the floor he had happened to be standing on when he measured them, and floors could be changed.
+He stayed up anyway, the four pages under the lamp, long after Brom's door had shut along the passage, and found the thing he felt was not, after all, dismay. It was closer to the feeling at the long table in Prynn's archive, the night Karis had laid two books side by side and the gap between them had turned out to be a door. For three years he had treated every price in the binder as a wall. Some of them might still be walls. But some of them, it seemed, were only the floor he had happened to be standing on when he measured them, and floors could be changed.
 
 ---
 
-He learned the rest from the supervisors, a lesson at a time, in whatever order the rota sent them.
+The rest he learned from the supervisors, one lesson to a name, in whatever order the rota dealt them.
 
-The assessment office never sent the same instructor twice in a fortnight. He understood why after the third week; a supervisor who saw him often would form a view, and a view was a thing the office would rather nobody had. So he was handed round the faculty like a document being initialled, and in his first month on the floors he trained in front of eleven of them, none more than twice.
+No instructor came back to him inside two weeks of the last time. By the third week he could see the reason: a supervisor who saw him often would start to hold an opinion, and opinions were the thing the office least wanted its faculty to have. He was passed from hand to hand like a paper going round for initials. Eleven of them signed for him in his first month on the floors, and none signed more than twice.
 
-Every one of them watched him the same way. They watched him first with the mild, unloaded attention of a teacher minding a student who was not theirs, half on the floor and half on whatever they had brought to read. And every one of them, without a single exception, watched him differently in the second part of the session.
+All eleven watched him alike. For the opening stretch of a session he got the easy, half-spent attention a teacher gives somebody else's pupil, one eye on the boards and the other on a book or a letter. Then, in the later stretch, every one of the eleven changed.
 
-He began timing it in the second week. The change came between the tenth minute and the nineteenth, and it was tied to nothing he could isolate except one thing. The moment the Wind framework ran at anything faster than a walk, the supervisor's attention changed its state, as plainly as water changes when it starts to boil, and it never went back. They put their books down. They stopped glancing at the door. They watched his feet and the place where his feet would land, and they went on watching until the bell.
+By the second week he was timing it. Somewhere between the tenth minute and the nineteenth it happened, and he could tie it to one thing only: the first time the Wind framework moved him faster than a walk. Their attention went over into a different state then, the way water goes over when it boils, and it stayed there. Books went down. Nobody glanced at the door again. They watched his feet, and the boards where his feet were going, until the bell.
 
-They did it in their own ways, which was how he learned to tell them apart. A Current Path lecturer, a cheerful round man who hummed, stopped humming at the eleventh minute and did not start again. A Shield instructor from the north hall, who had spent the first ten minutes writing letters on his knee, folded the letter in half at the thirteenth and sat on it, as though he were afraid it might watch instead of him. One elderly Stone master had come in with his eyes half shut, plainly expecting to doze, and at the nineteenth minute opened them both very wide and leaned forward on his stick and stayed leaning, quite motionless, until the bell. Cael wrote each one down: the instructor, the Path, the minute, the burst that came before it.
+Each had a way of doing it, and he learned them apart by their ways. The Current lecturer, round and cheerful, hummed through the first eleven minutes and never hummed again after. A Shield man from the north hall wrote letters on his knee until the thirteenth, then folded the page and sat on it, as if he feared it might watch in his place. An old Stone master arrived with his eyes half closed and every sign of meaning to sleep; at the nineteenth minute both eyes came wide, and he leaned forward on his stick and stayed leaning, still as a post, to the end. Cael kept a line for each: the Path, the minute, the burst just before.
 
-*Eleven supervisors. Eleven crossovers. No exceptions. Earliest at ten minutes, latest at nineteen. Mean, fourteen.*
+*Eleven supervisors, eleven crossovers, no exceptions. Ten minutes at the earliest, nineteen at the latest. Fourteen on average.*
 
-*In a month, not one of the eleven has asked me a single thing.*
+*A month, and not one of the eleven has put a question to me.*
 
-*At Greyvane people asked. All day, every day, badly, in corridors and at meals and through doors. Here, nobody asks. Eleven people who've each seen something they want to ask about have each, separately, not asked, and they've all not asked in exactly the same way.*
+*At Greyvane people asked. All day, every day, badly, in corridors and at meals and through doors. Here eleven people have each seen something worth a question, and each has kept it to themselves, separately, and they've all kept it in the same way.*
 
-*That isn't eleven people being polite. That's organized. Either it's discipline of a kind I've never seen in a faculty, or somebody has told them not to.*
+*Eleven polite people would not look so alike. This is organized. Either it's a faculty discipline I've never met, or somebody gave an order.*
 
-He sat with that for a long time.
+That kept him at the desk a good while.
 
-He could find out. He could stop the twelfth supervisor at the door and ask her plainly whether she had been told not to ask, and see what her face did. He could ask the porter, who would know, and would think it a dull thing to be asked. He could ask Bracken outright. Any of those would give him the answer. Any of those would also tell the whole faculty, within a day, that the assay enrollee had noticed their silence and was poking at it, and a silence that knew it was being watched would become a different kind of silence, and he would have spent a good deal to learn something he could do nothing with.
+There were ways to find out. He could stop the twelfth supervisor in the doorway, put it to her plainly and watch her face. The porter would know, and would find the question dull. Bracken could simply be asked. Any of the three would answer him, and any of the three would have the whole faculty knowing by the next day that the assay enrollee had noticed their silence and was prodding it. A silence that knew it was watched would turn into some other silence, and he would have paid a good deal for a fact he could not use.
 
-*Not worth it. The answer would cost more than it's worth to me. Leave it standing, and watch it.*
+*Not worth it. The answer costs more than it's worth to me. Leave it standing, and watch it.*
 
 It cost him something to write that. He had never in his life left a question standing when there was a way to an answer, and there were three ways to this one within a hundred paces of his room. But the habit of reaching for every answer was a habit, and Lira had told him on cracked stone at Greyvane what a habit was: a thing the other side could learn about you. He did not yet know who the other side was here. He would rather they did not learn it from him.
 
-There was one of the eleven he added to the eight.
+Of the eleven, one went into the eight.
 
 The Ash instructor had crossed over at the twelfth minute, like all the rest; he had the minute in the margin. But at the fourth burst, when her book had gone face down on her knee and she had been watching him with her whole face, she had seen him glance at her, and she had lifted the book again. It had not been embarrassment. He had watched a great many embarrassed people and knew the look. It had been a choice. She had wanted to stare and had decided, on purpose, in front of him, not to.
 
@@ -186,9 +186,9 @@ He did not know anybody else on the bluff who had made that choice where he coul
 
 On the thirty-second day Karis came into the common room carrying a single folded sheet in both hands, the way a person carries a bowl filled to the brim, and Cael, who had seen that walk perhaps twice in his life, put down his pen. It had taken her four meetings with Bracken and an afternoon in front of the library committee.
 
-She laid the sheet on the table and stayed on her feet.
+The sheet went down on the table. Karis stayed standing.
 
-"Terms," she said. "Three of them. One." She laid a finger on the first. "Carrel eleven, a key, overnight retention. I had that already. Now it's in writing, which means nobody can decide in a bad week that I didn't. Two. The third and fourth floors of the law range without an escort. Bracken says that's faculty-only by custom, and he's granted it on the grounds that I have *demonstrated documentary competence to the institution's benefit*." She said it with great relish. "That's the kindest sentence anybody's ever written about me, and it's in a register."
+"Terms," she said. "Three of them. One." She laid a finger on the first. "Carrel eleven, a key, overnight retention. I had that already. Now it's in writing, which means nobody can decide in a bad week that I didn't. Two. The third and fourth floors of the law range without an escort. By custom that's faculty only. Bracken's let me in regardless, because I have, quote, *shown a competence with documents to the benefit of the institution*." She said it with great relish. "That's the kindest sentence anybody's ever written about me, and it's in a register."
 
 "And three?" said Cael.
 
@@ -198,11 +198,11 @@ Her face changed. It became the face she wore for the four lines in the founding
 
 Brom lifted his head off the arm of the settle. "Why does that matter?"
 
-"Because of what happens at the end of a cycle." Karis finally sat. "The committee's charter has a clause about it. Clause six. Student work done in the library is gathered up at the close of each academic cycle and taken into the library's own holdings. Catalogued, shelved, opened to any reader on the bluff, or on the coast, or anybody who writes in with a fee." She tapped the third term. "Institutional work held by the registrar isn't. It stays in his cabinet, under his key, read by whoever he says may read it. It's a filing distinction."
+"Because of the sweep." Karis sat at last. "Clause six of the committee's charter. When a cycle closes, whatever a student has made in the library gets swept up into the library's own holdings. Catalogued, shelved, opened to any reader on the bluff, or on the coast, or anybody who writes in with a fee." She tapped the third term. "Institutional work held by the registrar isn't. It stays in his cabinet, under his key, read by whoever he says may read it. It's a filing distinction."
 
 "It's a filing distinction," said Brom, in the voice of a man trying to sound interested.
 
-"Filing distinctions are the whole of it." Karis said it without heat, as a plain fact. "Everybody thinks I'm fussing, right up until the morning they need one. I want this one on paper now, while nobody needs it." She looked at Cael. "Everything I write on your provision will have your name in it, all through. I'd rather it sat in Bracken's cabinet than on an open shelf."
+"Filing distinctions are the whole of it." There was no heat in it. "Everybody thinks I'm fussing, right up until the morning they need one. I want this one on paper now, while nobody needs it." She looked at Cael. "Everything I write on your provision will have your name in it, all through. I'd rather it sat in Bracken's cabinet than on an open shelf."
 
 Cael read the third term again. He thought about a delegation's boxes coming back up a hill under wax, a volume short, and an old woman at a high desk saying nothing about the gap.
 
@@ -212,11 +212,11 @@ Cael read the third term again. He thought about a delegation's boxes coming bac
 
 "Go on."
 
-"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. There are eleven bays on those two floors. And four of the eleven bays hold nothing but the decades my four lines come from."
+"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. Those two floors hold eleven bays. Four of them are nothing but the decades my four lines were written in."
 
 "How long to read them?"
 
-"Properly?" Karis said it the way other people talked about a feast. "Years. Years and years."
+"Properly?" She made it sound like a banquet. "Years. Years and years."
 
 "You sound pleased."
 
