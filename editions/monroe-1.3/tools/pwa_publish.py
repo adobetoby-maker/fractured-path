@@ -10,13 +10,16 @@ public/manuscripts/books/fractured-path-monroe-1.3/book-0K/manuscript/, regenera
 manuscript-index block from each chapter's H1, sets totalChapters = N and the subtitle's
 "· in progress" flag (dropped with --complete). Does not build, commit or push.
 """
-import argparse, re, shutil
+import argparse, json, re, shutil
 from pathlib import Path
 
 ED = Path(__file__).resolve().parents[1]
 APP = Path("/Users/drive/boundary-universe")
 BOOKS = {1: "book-01-the-shattered", 2: "book-02-iron-circuit", 3: "book-03-no-path-given", 4: "book-04-copper-crown",
          5: "book-05-the-silver-standard", 6: "book-06-the-compacts-hand", 7: "book-07-void-roads", 8: "book-08-before-the-paths"}
+def js(x):
+    return json.dumps(x, ensure_ascii=False)
+
 WORDS = {1: "ONE", 2: "TWO", 3: "THREE", 4: "FOUR", 5: "FIVE", 6: "SIX", 7: "SEVEN", 8: "EIGHT"}
 
 ap = argparse.ArgumentParser()
@@ -68,9 +71,8 @@ if a.new and f"export const {const}" not in t:
     anchor = re.search(rf"\n  \{{\n    id: {a.after_const},\n.*?\n  \}},\n", t, re.S)
     sub = f"The Fractured Path · Book {k} · Monroe 1.3 edition" + ("" if a.complete else " · in progress")
     entry = (f"  {{\n    id: {const},\n    seriesIndex: {a.series_index},\n    series: \"The Fractured Path\",\n"
-             f"    title: {a.title!r},\n    subtitle: \"{sub}\",\n    cover: \"{a.cover}\",\n    house: {a.house!r},\n"
-             f"    totalChapters: {n},\n    synopsis:\n      {a.synopsis!r},\n    description:\n      {a.description!r},\n  }},\n")
-    entry = re.sub(r"'([^'\n]*)'", lambda mm: '"' + mm.group(1).replace('"', '\\"') + '"', entry)
+             f"    title: {js(a.title)},\n    subtitle: \"{sub}\",\n    cover: \"{a.cover}\",\n    house: {js(a.house)},\n"
+             f"    totalChapters: {n},\n    synopsis:\n      {js(a.synopsis)},\n    description:\n      {js(a.description)},\n  }},\n")
     t = t[:anchor.end()] + entry + t[anchor.end():]
 em = re.search(rf"\n  \{{\n    id: {const},\n.*?\n  \}},\n", t, re.S)
 blk = em.group(0)
