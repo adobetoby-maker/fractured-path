@@ -158,7 +158,7 @@ When the man was among them, about a third fewer people looked at the rail at al
 
 Cael sat on his bed with the two columns on his knees and felt the skin of his arms tighten.
 
-It was a number. Nobody had ever given him a number for a Shadow Path, at any tier, and he did not think anybody had ever held one. And the number said the man was not hidden. People still looked at that rail when he leaned on it, two of every three who would have looked in any case. It leaned on everybody else. It took each passer's small, idle wish to look at a few people chatting by a wall and made that wish a fraction heavier to lift, as a hand on your shoulder makes your head a little harder to turn, and about a third of those wishes were never lifted.
+It was a number. Nobody had ever given him a number for a Shadow Path, at any tier, and he did not think anybody had ever held one. And the number said the man was not hidden. People still looked at that rail when he leaned on it, two of every three who would have looked in any case. The Path leaned on everybody else. It took each passer's small, idle wish to look at a few people chatting by a wall and made that wish a fraction heavier to lift, as a hand on your shoulder makes your head a little harder to turn, and about a third of those wishes were never lifted.
 
 That was not a wall round him. It was a toll on everybody near him.
 

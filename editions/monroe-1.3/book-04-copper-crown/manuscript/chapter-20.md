@@ -30,7 +30,7 @@ Fiske finished reading, and stood a moment longer, and then went away along the 
 
 He found Lira's name where he had stopped expecting to find it, and read it three times to be sure.
 
-*22. Lira. Wind. Cu 2. (transfer)*
+*Twenty-two. Lira. Wind. Copper Rank Two. Transfer.*
 
 Twenty-second. The clerk had told her the foot, and he had not been wrong: in the ladder book, where names went down in the order they signed, she stood on the sixty-fifth line, the last. But the ladder book was not the bracket. Twenty-second of ninety-one.
 

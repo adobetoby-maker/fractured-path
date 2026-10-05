@@ -316,3 +316,8 @@ Lira's price, in her words: "If he touches your paper wrong… that's the mornin
 - **Lira's vote price** (above). Brom's pencil on the outside of the right wrap (the M2 ink stays inside the left).
 - **The barge answer:** two short = *heard you* (fine for silence, double fine for a wrong answer).
 - **The Current first-year** at 74th (unnamed); the twenty-three shut out (names 69–91).
+
+### Movement 3 — CLOSED (2026-10-05, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 6 applied)
+- Ch15–21, ~32,560 words. Mean 13.86, ≥40w 4.1%, 902 w/scene; overlap 0 (8 protected); probe 1% / 13%; gates 0.
+- Recheck fixes: three narration-safe expansions of Cael's map shorthand (ch15); an explicit referent (ch18); a narration-safe bracket entry (ch20); a residual permanence overstatement removed from Fiske's classification passage (ch21).
+- Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–21, "in progress".

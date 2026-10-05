@@ -110,11 +110,11 @@ On the stair that afternoon, still hot about the ears, he gave it up. He was don
 
 What came of that did not look like the rest of the binder. It had no columns for confirmed, probable and discarded. It was a shorthand, pared down so he could write it walking, in a few strokes:
 
-*61 · 2b · hall 3 gall · W end by the turned post · all floor, both doors.*
+*Day sixty-one · second bell · hall three gallery · west end by the turned post · all floor, both doors.*
 
-*62 · 5b · yard · high W, mid of 5 · rings lengthwise, N stair, wing gate.*
+*Day sixty-two · fifth bell · yard · high west, middle of five · rings lengthwise, north stair, wing gate.*
 
-*63 · 3b · lect. stair · 2nd landing, wall side · whole stair, top to foot.*
+*Day sixty-three · third bell · lecture stair · second landing, wall side · whole stair, top to foot.*
 
 Day, bell, where the man had stood, what could be seen from there. Nothing about the man at all.
 
