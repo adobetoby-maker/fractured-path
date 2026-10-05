@@ -114,7 +114,7 @@ He touched him on the ribs.
 
 The barge-master stepped back. He looked at the floor between them for a moment like a pilot who has run aground where there was deep water yesterday.
 
-Cael walked his circle with the forearm held against his side. The steward let them both get their breath, and then called the fourth.
+Cael walked his circle, keeping the forearm against his side. The steward let them both get their breath, and then called the fourth.
 
 "Exchange."
 

@@ -108,7 +108,7 @@ Lira came to the rope for her water and said nothing to Rooke this time, and Roo
 
 In the third exchange the builder changed it twice, and Karis was right.
 
-He opened with a new shape that Cael had not seen him use in three bouts. It was a long line of short pushes, set one after another along the diagonal like stepping-stones, to cut the square in half and pen Lira in the smaller part. It was clever, and it was sound, and it would have beaten most of the Irons in the region.
+He opened with a new shape that had not been in either of his bouts the day before. It was a long line of short pushes, set one after another along the diagonal like stepping-stones, to cut the square in half and pen Lira in the smaller part. It was clever, and it was sound, and it would have beaten most of the Irons in the region.
 
 Lira did not look at the line. She looked at him.
 

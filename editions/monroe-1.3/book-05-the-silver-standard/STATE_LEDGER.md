@@ -672,7 +672,7 @@ Bracket formats as now on the page:
 
 **Movement 3 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — three applied (ch19 'So she nodded' the missed two-day quay line; ch17 the six-night stay; ch17 the evenings count against the third-night read). The grey-wool woman's 'a little less tidy' was cut in r1 — the manuscript governs. Overlap 0/11, gates 0, probe 1%/6%.
 
-## AFTER MOVEMENT 4 — chapters 20–26 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 4 — chapters 20–26 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - QUALIFIED at the waystation; first in the region. The CONFLUENCE: ONE Iron draw; both top seeds Rank Eight, ordered by registry date; Ephram beats the top seed in the quarterfinal; Lira's SEMIFINAL vs the Rank 7 builder won on the figures 27–25 ('the title in all but the paperwork'); the FINAL Lira over Ephram 2–1 (26–25) — Lira's regional title, Ephram second; NO bout for third (regional custom): Karis shares third with the builder. Brom's flat Copper season (the review machinery begins; not staged).
@@ -835,3 +835,5 @@ Bracket formats as now on the page:
 - **The provisional seedings** from the continental index (Rooke's early copy); the draw itself is made at the orientation.
 - **Departure:** Withrow shakes every hand, Seln's last; Withrow and Bracken follow in a week by the faster road; Ostrand on the bridge on a market day; snowdrops in Brom's buttonhole; Karis's new log line ("We've been published").
 
+
+**Movement 4 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied (ch23 the doubled 'walked his circle' line varied; ch22 'in three bouts' — Cael saw none of the builder's day-one bouts). Any author end-state line above saying Gault lost 'the bout for third' is SUPERSEDED: Gault was fourth on the figures (#40). Overlap 0/7, gates 0, probe 0%/5%.
