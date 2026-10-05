@@ -2,7 +2,7 @@
 
 Lira did not say good morning. She came under the arch at first light with her staff in her hand and her hair tied back hard, and before Cael had finished turning round from the post she was already low and already coming.
 
-He got his forearm up. That was all he got. The staff went past the forearm and took him across the ribs on the left side, not hard, but square, and he went back a step into the wall.
+He got his forearm up, and that was all he got. The staff went past the forearm and took him across the ribs on the left side, not hard, but square, and he went back a step into the wall.
 
 "That's one," said Lira, standing off. "You saw me come in. You saw me pick it up. You turned round to say something, and you were going to say it before you did anything else, and I hit you while you were deciding what it was." She reset, with the staff low across her body. "He'll not say good morning either."
 
@@ -10,7 +10,7 @@ He got his forearm up. That was all he got. The staff went past the forearm and 
 
 "That's the whole of the lesson. I'm not going to." She was already moving again.
 
-There was no beat before it. That was what she meant, and it took him the first hour to feel how much she meant it. Every opponent he had ever stood across from had told him, in some small way, that something was coming: a breath, a shoulder, the fourth hook, the moment when a body stopped gathering and committed. He had built his whole way of fighting out of those small tellings. Lira took them away. She came off a still stance with nothing before it, the way she had learned to come in the north-window nights, so that her first blow arrived out of the same stillness that had been there a heartbeat before. When he got a hand to it, it was only because his hand had been in the right place already, by luck.
+There was no beat before it. That was what she meant, and it took him the first hour to feel how much she meant it. Every opponent he had ever stood across from had told him, in some small way, that something was coming: a breath, a shoulder, the fourth hook, the moment when a body stopped gathering and committed. He had built his whole way of fighting out of those small tellings. Lira took them away, all of them, and came off a still stance with nothing before it, the way she had learned to come in the north-window nights, so that her first blow arrived out of the same stillness that had been there a heartbeat before. When he got a hand to it, it was only because his hand had been in the right place already, by luck.
 
 By the twentieth time she had hit him eleven times, and he had stopped counting.
 
@@ -20,7 +20,7 @@ By the twentieth time she had hit him eleven times, and he had stopped counting.
 
 "Anywhere. Round. Off the line. It doesn't matter at first." She was quiet a moment, and then said it more slowly, looking at her own hands on the staff. "Maud taught me that, with the backs of these. I stood still to catch her, every time, and every time she was waiting in the middle of my standing. When I met her moving there was no middle to wait in." She looked up at him. "It's the same thing. A man who fires with nothing before it has to fire at where you are. If where you are keeps changing, he has to choose. Make him choose."
 
-So he moved. He stood in front of her the way he had never stood in front of anybody, not still, not watching from a fixed place, but going round on short steps, left and right and back, with his weight never set long enough to be a target. It felt like being drunk. His eyes, which were used to settling on one place before he did anything, had nowhere to settle. She hit him less, but not much less, and twice when he went right she was there before him, because his right foot was still a beat slow and she knew it.
+So he moved. He stood in front of her the way he had never stood in front of anybody, not still, not watching from a fixed place, but going round on short steps, left and right and back, with his weight never set long enough to be a target. It felt like trying to stand up in a rowing boat. His eyes, which were used to settling on one place before he did anything, had nowhere to settle. She hit him less, but not much less, and twice when he went right she was there before him, because his right foot was still a beat slow and she knew it.
 
 "Right foot," she said, the second time. "That's tomorrow."
 
@@ -28,9 +28,23 @@ So he moved. He stood in front of her the way he had never stood in front of any
 
 "I did. Today you're learning to move at all." She came again with no beat before it.
 
-At the end of the hour he sat down on the bench against the back wall with his shirt stuck to him and his ribs and forearms singing, and she stood in the middle of the alcove opening and closing her right hand.
+Near the end of the hour she came at him from the left with nothing before it, and he used the hip.
 
-He saw the second knuckle of it. He saw her close it hard and her mouth go thin, and open it, and close it again, as she had at the kitchen table.
+He had not decided to; it was the old reflex, the one that had kept him whole since the Cinder House: a blow coming from the left and too close, and the hip dropping and loosening and taking him front-left round it, half a body, clean. He felt the burst go and was glad of it for the length of a breath. Then he was in the lock, two *ands* of bright stillness at the end of the burst, standing exactly where it had put him; and Lira was already there. She had not followed the burst. She had stepped once, without hurry, to the place the burst always ended, and the end of her staff was resting on his collarbone before the second *and* was out.
+
+She left it there a moment, so that he would feel where it was.
+
+"Bede counted two," she said. "He sat on a bench all season with a clerk's book and counted two. Do you think a man who's had masters paid to stand behind him since he was ten can't count two?" She took the staff away. "Your hip's a door. You go through it, and then you have to stand still in the doorway while it shuts behind you. That's the shape of it; you wrote it down yourself. Against him you go through that door when you know. When you've read him and the knock's told you and there's nobody at the other side. Not because you're frightened."
+
+"What do I do when I'm frightened?"
+
+"Use your feet. Your feet don't have a doorway." She went back to her mark. "They're slower, and they're stupid, and they're yours, and they can go anywhere. Even right, once I've finished with them."
+
+He stood a moment with the place on his collarbone where the staff had rested. For a year the hip had been the thing he reached for when the world came at him too fast, and he had thought of it as the best thing he owned, because it was the quickest. Now he saw that quickest was not the same as best against a man who would be waiting at the end of it. The lock had been a price he paid for a read, ever since the trials. Against Reydan it would be a price he paid for nothing, unless he had bought the read first.
+
+At the end of the hour he sat down on the bench against the back wall with his shirt stuck to him and his ribs and forearms singing, and she stood in the middle of the alcove opening and closing her left hand.
+
+He saw the second knuckle of the left. He saw her close it hard and her mouth go thin, and open it, and close it again, as she had at the kitchen table.
 
 "Your hand," he said.
 
@@ -68,7 +82,7 @@ He came down at noon with bread under one arm and nothing else, and stood in the
 
 "Everywhere, at the moment. So we start where it fails least." Brom stood up and went to the middle of the floor, and set his feet, and let his arms hang. "At rest. Me still. You still. A forearm off. I'll stand here and every so often I'll mean something, a push or a hit, and send it, slow. Sometimes I'll mean it and not send it. You knock at the meaning, from a planted foot, the way you've learned, and you tell me what came back before I move." He looked at Cael. "Twenty a session. No more; the bands stack. Then we'll see."
 
-Cael stood up. He went to a forearm's length from Brom and set his feet.
+Cael stood up and went to a forearm's length from Brom, and set his feet, and let the room go quiet round him the way he had learned to in the autumn.
 
 "May I?" he said.
 
@@ -78,9 +92,18 @@ Brom looked at him for a moment with his big patient face.
 
 So they began.
 
-It was quiet work, and it was slow, and nobody watching from the arch would have seen anything at all. Brom stood. Cael stood. Every little while Brom's weight gathered, deep in him, the way it gathered before he hardened and sent, and Cael knocked from his planted foot at the moment he thought the meaning came, and felt for what came back. Sometimes it came back clean: *there, and going forward, toward me*. Sometimes it came back as smear, a sense of somebody large and nothing more, like a word heard through a wall. And sometimes Brom meant nothing and sent nothing, and the knock came back with only the weight of a man standing, and Cael had to say *nothing* and be sure of it.
+It was quiet work, and it was slow, and nobody watching from the arch would have seen anything at all. Brom stood and Cael stood, a forearm apart, and every little while Brom's weight gathered, deep in him, the way it gathered before he hardened and sent, and Cael knocked from his planted foot at the moment he thought the meaning came, and felt for what came back. Sometimes it came back clean: *there, and going forward, toward me*. Sometimes it came back as smear, a sense of somebody large and nothing more, like a word heard through a wall. And sometimes Brom meant nothing and sent nothing, and the knock came back with only the weight of a man standing, and Cael had to say *nothing* and be sure of it.
 
 He kept the tally on the back of his hand in charcoal, as he had in the autumn, a stroke for every knock and a ring round the ones that answered.
+
+It was not like looking, and it never had been, which was why it was so hard to teach. Looking went out from him along a line, and came back with whatever was at the end of the line. The knock did not go anywhere. It was more like rapping once on a door he was already standing against and feeling, through his own knuckles and his own skin, which way the house on the other side was leaning. When it answered clean, the answer arrived all at once and without words, and he had to put the words to it afterward: *there; heavy; going forward*. When it smeared, there were no words to put. And every knock, answered or not, cost him a little behind the eyes, a thin stripe of ache that came a moment after and did not quite leave before the next.
+
+"Don't reach," said Brom, at the ninth. "You leaned. I felt you lean. It went to smear because you went after it."
+
+"I wanted it."
+
+"I know you did. It doesn't like being wanted." Brom stood easy again. "Mine was the same, the first year. I'd want to know what a man was, and lean at him to find out, and get nothing. You knock and you let it come back to you. You don't go and fetch it." He breathed out. "Again."
+
 
 At twenty Brom stood back and shook his arms out, and Cael held his hand up to the light from the arch and counted.
 
@@ -96,7 +119,23 @@ Cael sat beside him with the band coming up behind his eyes, thin and familiar. 
 
 "For now," said Brom, "that's a great deal more than nothing."
 
+He told Cael the order, sitting on the bench, while the band settled. At rest until it was four in five. Then Brom would move, and Cael would move, and it would fall to nothing again, and they would work it up again. Then Cael would be defending while he knocked, with blows coming at him that he had to deal with at the same time. Then the last stage, which Brom said was the only one that mattered: tired. Knocking at the end of a morning of Lira, with his legs gone and his breath short and his head full of everything else.
+
+"That's the one you'll need," said Brom. "Not the others. On that floor you'll be all four at once by the third exchange." He stood. "But you can't start there. You start where it holds, and you take things away from it one at a time, and you see what it can carry."
+
+Cael looked at the back of his hand, at the twelve rings and the eight bare strokes. He thought of how he had treated the knock since the autumn: as a thing he had, at whatever strength it came, the way a man has a voice or a limp. He had counted its failures and written them down and never once thought of them as a place to work. Brom had looked at the same number and seen a floor that had not been laid yet.
+
 ---
+
+They walked down to it after supper, in the dark, with the frost already coming on the cobbles and the lamps lit in the windows of the row. Brom said nothing for most of the way. Halfway down the second street he stopped under a lamp and stood there with his hands in his coat.
+
+"I hate this part," he said.
+
+"Which part?"
+
+"Going to a man's door to ask him for the worst day he ever had." Brom looked at the dark at the end of the street. "I did it at home, once, for my father. A man who'd lost to my uncle. My father wanted to know what my uncle did, and he sent me, because I was a boy and the man wouldn't hit a boy." He breathed out white. "He didn't hit me. He told me. And then he went in and shut his door and I heard him sit down on the other side of it. I was eleven." He started walking again. "If this one says no, we go home. I mean that."
+
+"I know you do."
 
 The cooper's was a long low shed off a yard of stacked staves, two streets down from the boarding house, and it smelled of oak and of the tannery behind it. A single lamp was lit in the back. Under it a man was working a heavy bag of sand hung from a beam: short, hard, quick blows from close in, with a sound like somebody beating a carpet very fast.
 
@@ -106,13 +145,13 @@ He stopped when Brom knocked on the open door, and turned, and Cael saw him see 
 
 "I'm Brom. This is Cael." Brom did not go in. "The dock man said you'd say no. We'll go, if you do."
 
-The man looked at them both for a while. He was perhaps twenty-seven or twenty-eight, not tall, with heavy shoulders and short forearms and big quick hands, and his knuckles had been broken and set more than once. His shirt was stained brown to the elbow with tannery bark. He had a quiet, flat voice, a coast voice, and he used it as if each word cost him something.
+The man looked at them both for a while before he answered. He was perhaps twenty-seven or twenty-eight, not tall, with heavy shoulders and short forearms and big quick hands, and his knuckles had been broken and set more than once. His shirt was stained brown to the elbow with tannery bark. He had a quiet, flat voice, a coast voice, and he used it as if each word cost him something.
 
 "Ansel," he said at last. "I've not eaten. There's a cookshop by the eel market does a stew. If you're buying, I'll tell you once, and then I'd like you not to ask me again."
 
 They sat at the end of the cookshop's long board, the three of them, with the stew in front of them and the steam going up. Ansel ate two spoonfuls and then sat with the spoon in his hand and did not eat any more. Brom, who never left food, ate nothing either, and after a while Cael understood that this was manners and put his own spoon down.
 
-"Three years ago," said Ansel. "Up the river, at the autumn invitational. I was at a house on the coast then. Bronze. They sent me up because I was quick, and because I'd beaten everything they'd put in front of me that year, and they thought I'd do them credit." He turned the spoon over. "I was better then than I am now. I want you to know that, so you know what it means."
+"Three years ago," said Ansel. "Up the river, at the autumn invitational. I was at a house on the coast then. Bronze. They sent me up because I was quick, and because I'd beaten everything they'd put in front of me that year, and they thought I'd do them credit." He turned the spoon over. "I was a better fighter that autumn than I've been any day since. I want you to know that, so you know what it means."
 
 "How old was he?"
 
@@ -126,7 +165,7 @@ He was quiet for so long that Cael thought he had finished.
 
 "Two exchanges." He said it flatly. "In the first I threw my best at him twice, the best I had, the quick work I'd been sent up the river for. He moved enough to let me see it miss and no more, both times, and watched what I did. I thought I was doing well. I thought, he can't touch me; he's only getting out of the way." He looked down at the stew. "In the second I went to throw it again, and he hit me before I'd finished deciding to. Not before I threw it. Before I'd finished deciding. He'd read the whole of me in the first exchange, everything I had, and he'd spent the first one finding out and the second one finishing. I was on the floor of a hall with three hundred people in it, and my house's master in the front row, inside a minute and a half."
 
-Brom said nothing. Cael said nothing. The cookshop man went by with a ladle and looked at their full bowls with some offence, and went away again.
+Neither Brom nor Cael said anything. The cookshop man went by with a ladle and looked at their full bowls with some offence, and went away again.
 
 "They didn't keep me," said Ansel. "Not for that, they'd say. For other things, that winter. But it was that." He put the spoon down very carefully beside the bowl, square to the edge of the board. "I've not said his name aloud on this hill in two years. Nobody here knows I was ever up the river. The dock man knows because he was in the hall that day and saw it, and he's never once said so, and I've been grateful to him every day of my life." He looked at Brom. "And now you."
 
@@ -138,15 +177,23 @@ Brom said nothing. Cael said nothing. The cookshop man went by with a ladle and 
 
 "I don't care about that. I want to tell you something, and then I'd like to go home." He leaned forward a little over the cold stew. "Don't try to work him out. Not early. That's what I did; I'd been taught to read a man and I went in reading, and he let me read, and while I was reading he was done with me. Whatever you've got for working people out, he's ahead of it. He was ahead of mine at nineteen." He sat back. "Survive first. Think second."
 
-He stood up. He left two coppers on the board beside his bowl, though Brom had said he was buying, and Brom did not argue.
+He stood up and left two coppers on the board beside his bowl, though Brom had said he was buying, and Brom did not argue.
 
 "That's all of it," said Ansel. "I'd like you not to ask me again." He went out into the dark without his coat done up, and they heard his feet go away up the eel-market steps, quick, and then they were gone.
+
+Brom sat looking at the two coppers for a long time. Then he picked up Ansel's bowl, and his own, and ate them both, cold, steadily, to the bottom, and wiped the second with bread.
+
+"He paid for his own," he said, when he had finished.
+
+"You told him you were buying."
+
+"I know." Brom put the coppers in his pocket rather than leave them on the board. "He didn't want it said, after, that he'd sold it for a bowl of stew. That's what that was." He stood up. "I'll give them back to him when he'll take them. That'll be a while."
 
 ---
 
 Cael sat at the crate desk that night a long time with the Log open and the stub of the knock tally still grey on the back of his hand.
 
-He wrote the twelve in twenty first, because it was a number and numbers were easy. Then he wrote Ansel's words, exactly, on a line by themselves near the top of the new page. He looked at them. Four words, and he had spent a year building a method, a notebook, a whole way of being in a room, and the four words said most of it, plainly, and said it backwards.
+He wrote the twelve in twenty first, because it was a number and numbers were easy. Then he wrote Ansel's words, exactly, on a line by themselves near the top of the new page. He looked at them for a long time. They were four words, and he had spent a year building a method, a notebook, a whole way of being in a room, and the four words said most of it, plainly, and said it backwards.
 
 *Survive first. Think second.*
 

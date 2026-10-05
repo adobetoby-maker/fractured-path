@@ -51,3 +51,7 @@ All other names in the listening proof's lexicon (`book-01-the-shattered/state/c
 
 ## #34 — Breeze licence and publication (OWNER, 2026-10-03)
 Publish the edition in books.worker-bee.app labeled exactly as Meridian is: "Listening audition, not production-approved; Breeze licence is non-commercial."
+
+## #35 — B4 month arithmetic (coordinator flag, 2026-10-05; extends C8 / BOOK_MAP §11)
+The edition's Book 4 calendar (closed M4: the Fiske bout ≈d141, Fiske's protected "Six weeks. I'll see you in the final.") puts the eleventh of Sowing (Cael's birthday, ≈d167) about sixteen days before the Copper final and the semester evaluation, which the plan dates in Reaping (inspection from "the twelfth day of Reaping"; the evaluation "the twentieth of Reaping"). Sixteen days cannot span from an eleventh to a nineteenth/twentieth of a different, ordinary-length month.
+**DEFAULT in force:** the prose never states month lengths, which month follows which, or a day count between a Sowing date and a Reaping date; day counts are stated only in days/weeks from events. The protected Sowing/Reaping dates stand. Owner may later rule the series calendar (e.g. Reaping as the month after Sowing with a shorter feast-month between, or moving the birthday earlier). Does not block.
