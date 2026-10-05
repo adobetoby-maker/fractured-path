@@ -322,7 +322,7 @@ Lira's price, in her words: "If he touches your paper wrong… that's the mornin
 - Recheck fixes: three narration-safe expansions of Cael's map shorthand (ch15); an explicit referent (ch18); a narration-safe bracket entry (ch20); a residual permanence overstatement removed from Fiske's classification passage (ch21).
 - Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–21, "in progress".
 
-## After Movement 4 (chapters 22–29; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 4 (chapters 22–29; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Sol recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - STANDINGS NOTATION (canon): the board figure is bouts unbeaten / bouts lost. Lira's first bout was her opening-session bout, DRAWN BY LOT (she won it 3–0 against Nyle in M3); it went into the record and moved her nowhere. ch25: 'six bouts unbeaten, none lost'; ch29 'Nine and nothing' in the same terms.
@@ -431,3 +431,5 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 - **Karis's watcher log** has marbled boards and covers four late changes in a month, each with a reason.
 - **Jask** turns his dial to the wall and moves up two lines on his term ledger (a forward glance into the following week).
 
+
+**Movement 4 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied: ch28 the incident line expanded for narration ("Hall three, north bay, sixth bell."). All brief items resolved; listening proof on all eight chapters; overlap 0, gates 0, probe 1%/13%; mean 13.64, ≥40w 4.4%, 872 w/scene.
