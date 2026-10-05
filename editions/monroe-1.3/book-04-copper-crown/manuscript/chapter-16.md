@@ -172,7 +172,7 @@ Lira did turn her head at that. "The assessor. At Ardenmere. With the coat that 
 
 "What did you notice first about him?"
 
-She thought, which she did properly when asked properly. "His pencil. He wrote in that little book where you could see him do it. And he'd look at you, and then look away at the street as if the street had called his name." She frowned at the water. "Like a boy sent to fetch something out of a room he's not sure he's allowed in. He kept checking the door."
+She thought, which she did properly when asked properly. "His pencil. He wrote in that little book where you could see him do it. And he'd look at you, and then look away at the street." She frowned at the water. "Like a boy sent to fetch something out of a room he's not sure he's allowed in. He kept checking the door."
 
 "He was checking the door," said Cael. "That's what it was. He spent half of every look on us and the other half on whether he ought to be looking. I thought he was clumsy. He wasn't clumsy. He was split down the middle."
 

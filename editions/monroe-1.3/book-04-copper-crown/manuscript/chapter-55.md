@@ -4,7 +4,7 @@ The Mire instructor racked the fourth weight with her own hands and tried the pa
 
 "Third trial," said Gault. "Feel it come, call where from, and be out of the square before it lands. Twelve."
 
-The read was on its stub, as he had told Karis it would be. All morning he had kept it at the thinnest layer, the one that cost nothing, because the hold and the reach drank from one cup and the cup was small. At its thinnest it would still find a falling weight a pace and a half out, but it would not find it early or clearly or leave him anything to spare.
+The read was on its stub, as he had told Karis it would be. All morning he had kept it at the thinnest layer, the one that cost nothing. At its thinnest it would still find a falling weight a pace and a half out, but it would not find it early or clearly or leave him anything to spare.
 
 He stood in the chalk with his back to the rail, and the pawl let go.
 
@@ -26,7 +26,7 @@ Gault wrote, and the last two came clean.
 
 "Eleven of twelve at the fourth weight," said Gault, "against seven of eight at the third in your second month." For a while his eyes went between the two columns. "Better. Not much better. As a term should be."
 
-Chest heaving in the chalk, Cael felt a thing his ledger had no column for: relief, so plain it was nearly comic. *On the number.* Weight four, clear eleven times in twelve, with his best instrument turned down to almost nothing: it was inside Karis's brackets, a call above the floor of them, which was exactly where a term should put it.
+Chest heaving in the chalk, Cael felt a thing his ledger had no column for: relief, so plain it was nearly comic. *On the number.* Weight four, clear eleven times in twelve, with his best instrument turned down to almost nothing: it was inside Karis's brackets, a call above the floor of them, which was where a term should put it.
 
 In the gap after, while the panel conferred, he chose the Mire instructor, who was easier than the clerk and more interesting. Rhythm: quick and impatient, the rhythm of a woman who did a thing and was done with it. Weight: forward, always forward, the shoulders inside her coat leaning toward the frame like a dog's toward a door it doesn't trust. Breath: short. Hands: in the pockets again, but the right one moving inside the cloth, working something over and over, a coin perhaps, or a key. Did it agree? It did. All of her was pointed at her apparatus, and it was the apparatus that worried her, not the boy; she had not forgotten a sticking notch from the second month. Throughout, the corner kept its place with hardly a thought from him.
 
@@ -38,11 +38,11 @@ The heaviest weight, the fifth, went onto the rack under the Mire instructor's h
 
 Feryn's fragment stirred in his right arm, and reached.
 
-He had carried it for three years, ever since a bout he had lost honestly, and it had always lived close under his skin. It did not keep a blow. It gathered a blow, and turned it, and sent it on somewhere else. It had been made for exactly the thing in his hands. If anybody had been marking answers right and wrong, it was the right one, and the little dial in the plate's housing would have swung round to a figure that nobody in the room had ever seen it show.
+He had carried it for three years, ever since a bout he had lost honestly, and it had always lived close under his skin. It did not keep a blow. It gathered a blow, and turned it, and sent it on somewhere else. It had been made for the very thing in his hands. If anybody had been marking answers right and wrong, it was the right one, and the little dial in the plate's housing would have swung round to a figure that nobody in the room had ever seen it show.
 
 It was not on this wing's record.
 
-It was written down elsewhere. Vell's copy of the Ardenmere circuit record held the bouts in which he had used it in public, years ago, before he knew enough to keep it back. But Gault's book had no line for it. Gault's book had a plate held low four times, with the shoulder taking everything, and a boy saying so before anybody asked. To bring the other thing out now would be a second surprise, on a third instrument, in a place the baseline had never pointed at, and a slip of wing paper had told him exactly how many surprises a sitting could afford.
+It was written down elsewhere. Vell's copy of the Ardenmere circuit record held the bouts in which he had used it in public, years ago, before he knew enough to keep it back. But Gault's book had no line for it. Gault's book had a plate held low four times, with the shoulder taking everything, and a boy saying so before anybody asked. To bring the other thing out now would be a second surprise, on a third instrument, in a place the baseline had never pointed at, and a slip of wing paper had told him how many surprises a sitting could afford.
 
 So he let the reaching go, as he had let it go on more floors than he could count, and his arm was only his arm.
 
@@ -142,9 +142,9 @@ Gault wrote for some while before he spoke.
 
 ---
 
-The porters needed eleven minutes to fetch the reserve frame from the far store and bolt it up, and Cael spent them on the rail by the west wall with his palms on the wood and his weight off the bad leg. The hip had gone past aching into simple noise, and the pressure behind his eyes from the hour-and-a-half mark had come all the way in and taken a chair.
+The porters needed a quarter of an hour to fetch the reserve frame from the far store and bolt it up, and Cael spent them on the rail by the west wall with his palms on the wood and his weight off the bad leg. The hip had gone past aching into simple noise, and the pressure behind his eyes from the hour-and-a-half mark had come all the way in and taken a chair.
 
-And he had gone thin. He had not felt it go, only come back, with a lurch like a missed stair. For two or three breaths after the weight hit the oak, while the frame rang and the chairs scraped and the Mire instructor tore at the release, his corner had simply not been there. Every face had been turned to the frame; nobody had spared the boy a glance. That was luck, and he would write it down as luck, though he had no column for luck and did not mean to start one.
+And he had gone thin. He had not felt it go, only come back, with a lurch. For two or three breaths after the weight hit the oak, while the frame rang and the chairs scraped and the Mire instructor tore at the release, his corner had simply not been there. Every face had been turned to the frame; nobody had spared the boy a glance. That was luck, and he would write it down as luck, though he had no column for luck and did not mean to start one.
 
 He kept his face turned from the east wall, but the oldest instrument he owned had started counting without being asked. It was the tally of glances he had built in the first weeks of term on the stairs of this very building, and it counted now.
 
@@ -152,7 +152,7 @@ Everybody had looked at the frame first, which was only natural, and then everyb
 
 The fourth chair: once, at the frame, with everybody else.
 
-After that, nothing. The man in grey had gone on looking round the room at his own steady pace, grid and wall and window, as he had for two hours, without his weight shifting in the chair or his hands moving on his thighs. His eyes did not come back to the rail once in all eleven minutes.
+After that, nothing. The man in grey had gone on looking round the room at his own steady pace, grid and wall and window, as he had for two hours, without his weight shifting in the chair or his hands moving on his thighs. His eyes did not come back to the rail once in all that quarter of an hour.
 
 Sitting there with his hip roaring, Cael understood. Nothing that year chilled him more.
 
@@ -214,7 +214,7 @@ Cael was at the door when the Mire instructor caught him up. She had her coat bu
 
 ---
 
-Lira was asleep on the stick against the gatepost, exactly as she had threatened.
+Lira was asleep on the stick against the gatepost, as she had threatened.
 
 Cael woke her gently, as instructed, with a finger on her sleeve. Her eyes opened at once and went to his face, and then to the way he was standing, with his weight off the leading leg, and she did not ask about the leg.
 
@@ -230,9 +230,9 @@ She shut her eyes again, briefly. "Say all of it."
 
 "I said it."
 
-She nodded once, as though a sum had come out, and pushed herself off the post onto the stick.
+She nodded, as though a sum had come out, and pushed herself off the post onto the stick.
 
-They went back across the quadrangle at the slowest pace the bluff had ever seen, two people with two good legs between them, one each, and took the residence stair a tread at a time. Brom was waiting on the landing with a bag of ice already in his strapped hand, and he held it out to Cael without a word.
+They went back across the quadrangle at the slowest pace the bluff had ever seen, two people with two good legs between them, one each, and took the residence stair a tread at a time. Brom was waiting on the landing with a bag of ice already in his strapped hand, and he held it out to Cael.
 
 Karis was in the common room with a book open on her knee at the page it had shown since the second bell. She shut it as they came in.
 
@@ -240,7 +240,7 @@ Karis was in the common room with a book open on her knee at the page it had sho
 
 He told her, and at *renewed* her eyes closed for a moment, which from Karis was as good as a shout.
 
-They arranged themselves in the common room like the survivors of a coach accident. Lira had the good chair and the cushion. Brom had the floor by the stove, with his iced knee out straight and his strapped hand resting on top of it. Cael took the settle and lay along it with the ice on his hip and his right arm folded on his chest, because the shoulder did not like it anywhere else. Karis, who was the only one of them still in one piece, looked round at the three of them for a long moment.
+They arranged themselves in the common room like the survivors of a coach accident. Lira had the good chair and the cushion. Brom had the floor by the stove, with his iced knee out straight and his strapped hand resting on top of it. Cael took the settle and lay along it with the ice on his hip and his right arm folded on his chest, because the shoulder did not like it anywhere else. Karis, who was the only one of them still in one piece, looked round at the three of them.
 
 "A champion, a finalist and a renewed enrollee," she said, and counted on her fingers. "Between the three of you, three working legs and four working arms. I'll fetch supper presently, because nobody else in this room can carry a tray."
 

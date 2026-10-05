@@ -62,7 +62,7 @@ Then he did what he should have done on the first day. He chose one student, a s
 
 At nine he was right about eight of them.
 
-At eleven he was right about seven, and wrong about the other four in ways that sounded exactly like being right. He had a girl stepping off on her left foot who was stepping off on her right. He had a boy holding his breath at the top of a push who was breathing out. He had an instructor standing at the west end who was standing at the east. The wrong answers did not come to him blurred or doubtful; they came complete, with all their details, as clear as the true ones. When he passed a dozen, the gaze did not lose its grip and go vague but went on handing him pictures, as sure and detailed as ever, with nothing behind them.
+At ten he was right about seven, and wrong about the other three in ways that sounded exactly like being right. He had a girl stepping off on her left foot who was stepping off on her right. He had a boy holding his breath at the top of a push who was breathing out. He had an instructor standing at the west end who was standing at the east. The wrong answers did not come to him blurred or doubtful; they came complete, with all their details, as clear as the true ones. When he passed a dozen, the gaze did not lose its grip and go vague but went on handing him pictures, as sure and detailed as ever, with nothing behind them.
 
 He sat on the bench with his hands between his knees and made himself put a price on it, honestly, there and then, before he could start to make it smaller.
 
@@ -78,7 +78,7 @@ It took most of the afternoon to stop feeling sick about it.
 
 He rebuilt it that evening in carrel eleven, because Karis had a door that shut and a lamp that did not smoke, and because he did not want to do it alone.
 
-He told her all of it first, and she listened without interrupting, with her chin on her hand, and was quiet for a while when he had finished.
+He told her all of it first, and she listened without interrupting, with her chin on her hand, and was quiet when he had finished.
 
 "You're trying to count every sheep on the hill," she said.
 

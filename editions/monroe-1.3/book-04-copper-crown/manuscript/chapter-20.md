@@ -12,7 +12,7 @@ They came in ones and twos at first, and then in a steady stream, between the be
 
 Most read upward. Their eyes went from their own name to the names above it, slowly, one at a time, and their lips moved. He could see them counting: four places up, the most the rules allowed a challenge to reach, and who was standing in those four places, and how they had looked on a practice afternoon. Those had come to climb. Some read downward instead, from their own name to the names below it, and their shoulders went very slightly up as they did it. Those had come to hold what they had. Cael noted, with real interest, that nearly all of the downward readers stood in the top third of a column, and that most of them were older, fourth-years and fifth-years. Holding was a thing people learned to want late.
 
-And a few, a very few, did neither. They read the whole column at once, top to bottom, the way you read a page and not a line. Then they turned and walked away.
+And a few, a very few, did neither. They read the whole column at once, top to bottom. Then they turned and walked away.
 
 In the Copper column he counted five of those all morning.
 
@@ -48,7 +48,7 @@ He found her an hour later in the north hall, on the stone, alone, running her e
 
 "It's six. From twenty-second, if you win every bout you're allowed and every one counts, it's six to the top. Not sixteen. You counted from the ladder book. The ladder book was the wrong book."
 
-Lira came to the end of the sequence and stood still, and looked at the floor for a moment.
+Lira came to the end of the sequence and stood still, looking at the floor.
 
 "Rank Two," she said. "That's what did it, isn't it? I read the half-sheet. The new names go in by rank." She laughed, but not as if anything were funny. "Two years I've been trying to get out from under what that paper says I am. And the first time it's ever done me a single kindness, it's because it's wrong in my favour by one rank instead of five." She rolled her neck. "Six. I'll take six. I'll even say thank you to it, once, out loud, here, where nobody can hear." She did not say it. "There. Done."
 
@@ -106,7 +106,7 @@ Then the yard did something he had not expected.
 
 It went quiet.
 
-He would fill two pages with it that night. Behind him the two Iron girls who had been arguing all afternoon stopped in the middle of a word. A first-year on the row below had both hands raised to clap and did not bring them together. The law lecturer who slept on the fourth tier every practice day was awake, and sitting up, with his hat in his lap. Two rows down a Copper fifth-year shut her notebook, slowly, as if somebody had told her the lesson was cancelled. For perhaps four seconds some eight hundred people on stone made no sound at all.
+He would fill two pages with it that night. Behind him the two Iron girls who had been arguing all afternoon stopped in the middle of a word. A first-year on the row below had both hands raised to clap and did not bring them together. The law lecturer who slept on the fourth tier every practice day was awake, and sitting up, with his hat in his lap. Two rows down a Copper fifth-year shut her notebook, slowly. For perhaps four seconds some eight hundred people on stone made no sound at all.
 
 It was not the hush of people who have been impressed. Impressed was loud, a roar and a stamping. Cael had heard this other quiet twice before, both times in the Ironyard, both times on nights when something happened on the boards that the crowd had no place in its head to put. Every person in that yard had been handed the sheet that morning and had believed it, as you believe a printed timetable. They had trusted that ninety-one names had been put in their right order by people who knew. And now, in eleven seconds, in front of all of them, the sheet had been caught out about one name, beyond any argument, and every one of them knew it at once, and not one of them could have said what it was they knew.
 

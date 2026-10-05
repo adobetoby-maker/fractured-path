@@ -80,7 +80,7 @@ He was braced for the usual landing. A thousand times on stone he had paid it: t
 
 "Twenty-eight," said Lira. "Twenty-nine. Thirty."
 
-They went again. He spent the second burst in the sixth minute, slipping her short step to the right, and the third in the eleventh, when she had stopped bothering with short steps and was simply faster than him on foot. Each time she called it; each time he wrote. The landings came down the same way, into the floor and back up softened. By the third his hip had begun to say something low and warm on the leading side, the way it did at the end of an evening on stone after two bursts, not three.
+They went again. He spent the second burst in the sixth minute, slipping her short step to the right, and the third in the twelfth, when she had stopped bothering with short steps and was simply faster than him on foot. Each time she called it; each time he wrote. The landings came down the same way, into the floor and back up softened. By the third his hip had begun to say something low and warm on the leading side, the way it did at the end of an evening on stone after two bursts, not three.
 
 He stood at the slate and looked at what he had written.
 
@@ -164,7 +164,7 @@ Each had a way of doing it, and he learned them apart by their ways. The Current
 
 *At Greyvane people asked. All day, every day, badly, in corridors and at meals and through doors. Here every one of them has seen something worth a question, and each has kept it to themselves, separately, and they've all kept it in the same way.*
 
-*Eleven polite people would not look so alike. This is organized. Either it's a faculty discipline I've never met, or somebody gave an order.*
+*That many polite people would not look so alike. This is organized. Either it's a faculty discipline I've never met, or somebody gave an order.*
 
 He sat over that a good while.
 

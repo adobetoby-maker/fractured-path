@@ -176,7 +176,7 @@ He had hoped she would not ask, and had known she would.
 
 "Thirteen days. Everywhere, every waking hour."
 
-Karis did not say anything. She looked at him for a moment, and then at the overlay rolled under his arm, and then at him again, and he watched the thing arrive in her face and then, a heartbeat later, in his own head, and felt the blood come up into his cheeks.
+Karis did not say anything. She looked at him, and then at the overlay rolled under his arm, and then at him again, and he watched the thing arrive in her face and then, a heartbeat later, in his own head, and felt the blood come up into his cheeks.
 
 "Oh," he said.
 

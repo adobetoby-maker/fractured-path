@@ -2,11 +2,11 @@
 
 Brom sent his challenge up the Copper ladder to Tarn for the twelfth session, and told nobody until it was on the board.
 
-Cael found it there on the morning of the posting, in the clerk's square hand among two dozen others: the Iron Skin's name, an arrow, and four lines higher on the Copper sheet a Blade third-year's. He stood in front of it for a while. Brom had beaten Merrick by refusing to turn, and the whole cohort had been feeding him short ever since to find out whether the refusal would hold, and it had held, mostly, for three weeks. Tarn was the best short feeder in the cohort. He was the one who had found the left heel.
+Cael found it there on the morning of the posting, in the clerk's square hand among two dozen others: the Iron Skin's name, an arrow, and four lines higher on the Copper sheet a Blade third-year's. He stood in front of it. Brom had beaten Merrick by refusing to turn, and the whole cohort had been feeding him short ever since to find out whether the refusal would hold, and it had held, mostly, for three weeks. Tarn was the best short feeder in the cohort. He was the one who had found the left heel.
 
 "You picked him," said Cael at breakfast.
 
-"I picked him." Brom did not look up from his bread. "If I can't hold against Tarn, I can't hold. Better to know on a Copper afternoon than in the final."
+"I picked him." Brom kept his eyes on his bread. "If I can't hold against Tarn, I can't hold. Better to know on a Copper afternoon than in the final."
 
 "You won't be in the final."
 
@@ -26,7 +26,7 @@ Brom came down into the sunk floor slowly, with his wraps on, the left with Rook
 
 Tarn fed.
 
-It was exactly what Cael had seen on the oak, only quicker. The strike came short and flat at Brom's left forearm, and it looked committed right up until the wrist, and behind the wrist there was nothing. Brom did not turn. The Iron Skin came up under the blow with a sound like a mallet on a post, and his weight stayed where it was, square, and the feed died on him as if he had been a wall.
+It was what Cael had seen on the oak, only quicker. The strike came short and flat at Brom's left forearm, and it looked committed right up until the wrist, and behind the wrist there was nothing. Brom did not turn. The Iron Skin came up under the blow with a dull knock, and his weight stayed where it was, square, and the feed died on him.
 
 Tarn fed again, shorter, and Brom held. A third, a fourth, so quick together that the tiers heard them as one rattle. Brom held all four, flat, at full price, and Cael could see the price from forty feet: the guard coming back a hair slower after each, the breath going short and hard.
 
@@ -40,7 +40,7 @@ On the second exchange Tarn changed nothing except the speed, and the speed was 
 
 "Blade. One each."
 
-The third went to Brom, ugly and short. He took three feeds flat on the forearm, each one a dull knock that Cael felt in his own teeth, and then simply walked forward through the front of himself like a man walking through a door he had decided was open, and Tarn, who had been waiting for a turn that did not come, found a hand on his breastbone. The fourth went to Tarn, because by then Brom had paid for eleven feeds at full price and the price had come due all at once in his legs. He was slow off the chalk, slow on the guard, slow on everything, and Tarn did not even need to feed him; he simply went round. Two each. On the east tier they could hear Brom's breath now, sawing in and out of him like a cross-cut through green wood.
+The third went to Brom, ugly and short. He took three feeds flat on the forearm, each one a dull knock that Cael felt in his own teeth, and then simply walked forward through the front of himself like a man walking through a door he had decided was open, and Tarn, who had been waiting for a turn that did not come, found a hand on his breastbone. The fourth went to Tarn, because by then Brom had paid for thirteen feeds at full price and the price had come due all at once in his legs. He was slow off the chalk, slow on the guard, slow on everything, and Tarn did not even need to feed him; he simply went round. Two each. On the east tier they could hear Brom's breath now, sawing in and out of him like a cross-cut through green wood.
 
 "He's empty," said Lira, very low.
 
@@ -66,9 +66,9 @@ Tarn had been waiting four feeds for that quarter of a second. Tarn's hands went
 
 "Blade," said the table. "Position. Three to two. Bout."
 
-Brom stood on the boundary for a moment with his arms half raised, as though the bout might go on if he only held them there long enough. Then he let them fall. He shook Tarn's hand, and Tarn said something to him, low, that made him nod once. He climbed out of the sunk floor slowly, with his mouth shut hard and the fingers of his left hand curling and uncurling at his side, which they did when he had been hit somewhere and had not yet found out where.
+Brom stood on the boundary for a moment with his arms half raised, as though the bout might go on if he only held them there long enough. Then he let them fall. He shook Tarn's hand, and Tarn said something to him, low, that made him nod. He climbed out of the sunk floor slowly, with his mouth shut hard and the fingers of his left hand curling and uncurling at his side, which they did when he had been hit somewhere and had not yet found out where.
 
-There was a bench at the floor's edge for fighters waiting their turn. He sat on the end of it as if somebody had dropped him there, and stared at the toes of his boots.
+There was a bench at the floor's edge for fighters waiting their turn. He sat down heavily on the end of it and stared at the toes of his boots.
 
 Cael came down from the tiers. He had nothing to tell Brom that Brom's body had not told him already, more plainly than any words could, so he told him nothing. He sat on the same bench, at its other end, leaving a good arm's length of empty plank between them. It was the old Ardenmere arrangement: the one who had lost sat where he fell, and the one who had not sat a little way off, near enough to be there and far enough not to crowd. In three years neither of them had ever once needed to say so.
 
@@ -78,7 +78,7 @@ After a while Brom said, to his boots, "Fifth."
 
 "Fifth."
 
-"I held four. I felt myself hold four. I was proud of the fourth." He turned his left hand over and looked into the palm as though there might be writing on it. "I don't remember the fifth. I remember it coming. Then I was on the line with no floor."
+"I held four. I felt myself hold four. I was proud of the fourth." He turned his left hand over and looked into the palm. "I don't remember the fifth. I remember it coming. Then I was on the line with no floor."
 
 "The heel came up."
 
@@ -152,13 +152,13 @@ By the ninth bell that night there was a page in her grey notebook, the same not
 
 "I'll say the date," said Karis. "Out loud. That's all."
 
-Brom looked at the page for a while with an expression Cael had seen on him once before, at Greyvane, when Karis had handed him a written copy of his own redirect drawn as a diagram with arrows. It was the look of a man being taken more seriously than he had braced for.
+Brom looked at the page with an expression Cael had seen on him once before, at Greyvane, when Karis had handed him a written copy of his own redirect drawn as a diagram with arrows. It was the look of a man being taken more seriously than he had braced for.
 
 "That's the most frightening thing anybody's said to me all season," he said. "Including Rooke."
 
 "Good," said Karis. "It's meant to be."
 
-He did the first four that night at the post behind the second quadrangle, by lamplight, with Karis on the coping and Cael feeding. They were every bit as dull as Rooke had promised, and they were dull in a way that made Cael understand, by the second of them, exactly how good Rooke was.
+He did the first four that night at the post behind the second quadrangle, by lamplight, with Karis on the coping and Cael feeding. They were every bit as dull as Rooke had promised, and they were dull in a way that made Cael understand, by the second of them, how good Rooke was.
 
 The first was nothing but this. Brom stood hardened, with the Iron Skin up along both forearms, and Cael leaned his weight slowly into Brom's left arm, not a strike, only a steady push such as a man gives a stuck door. Then, without letting the left arm soften by a hair, Brom had to move his weight a hand's breadth onto his right foot and back again, and then again, so that the drive began to grow on one side while the other side was still holding. It was the opposite of everything his body had been taught. Forty times. By the tenth his left heel was trying to lift at every shift, the way a dog tries to get up when it has been told to stay, and Brom had to stop and set it down again by main force and begin the shift over. Brom's forehead was wet by the twentieth. By the thirtieth he had begun to swear under his breath, in the inventive and entirely clean way he had learned from a foundry master at Ardenmere, which involved a great many kettles.
 
@@ -186,7 +186,7 @@ He wrote it in the Log that night under the four ticked boxes. *Rooke at the ben
 
 The cohort's Lira plan arrived at the thirteenth session, a week earlier than Cael had guessed, in the shape of a Current fourth-year whose card said Copper Rank Four.
 
-He was not a Blade. He had been on Rooke's floor all season by arrangement with his own instructor, which happened sometimes with fighters who wanted to be taken apart by people quicker than their own Path's halls could supply. Cael had a page on him, not long. Current rode force rather than meeting it; a Current fighter went along a strike the way a leaf goes along a stream, and came off it somewhere you had not planned for. This one was patient, and his patience had been sharpened all season by fourteen Blades who did not tolerate a wasted movement.
+He was not a Blade. He had been on Rooke's floor all season by arrangement with his own instructor, which happened sometimes with fighters who wanted to be taken apart by people quicker than their own Path's halls could supply. Cael had a page on him, not long. Current rode force rather than meeting it; a Current fighter went along a strike and came off it somewhere you had not planned for. This one was patient, and his patience had been sharpened all season by fourteen Blades who did not tolerate a wasted movement.
 
 He sent his challenge up to the second line, and the yard settled in to see whether the girl from the north could be made to wait.
 
@@ -216,7 +216,7 @@ On the fifth she did what the plan had forbidden her to make him wait for. She w
 
 "Wind. Three. Bout."
 
-Two bursts in nine minutes, and one more at the finish. The cohort sat on the lower south tier in their dark knot and did not clap, and Cael saw two of them lean together and talk, and one of them shook his head, slowly, the way a man shakes his head at a lock that ought to have opened.
+Two bursts in nine minutes, and one more at the finish. The cohort sat on the lower south tier in their dark knot and did not clap, and Cael saw two of them lean together and talk, and one of them shook his head, slowly.
 
 ---
 
@@ -224,7 +224,7 @@ He gave it to her that night on the wall, written out clean, on a fresh page tor
 
 *The cohort has a plan. Don't chase. Make her spend. Wait for the fourth landing beat. Today it broke on one fact: you only spent two. It will not fail against somebody who makes you spend four. If you go up at the fifteenth, she will make you spend four, your whole ceiling. She's watched every burst you've taken this season and so have I.*
 
-Lira read it in the last of the light, her knees up on the coping and her face doing nothing at all, and then she read it again. Then she folded it in half and in half again, very precisely, and put it inside her coat, and looked out at the ferry landing for a long time.
+Lira read it in the last of the light, her knees up on the coping and her face doing nothing at all, and then she read it again. Then she folded it in half and in half again, very precisely, and put it inside her coat, and looked out at the ferry landing.
 
 "I knew they were counting," she said.
 
@@ -242,9 +242,9 @@ Lira said nothing for a long while.
 
 Then she swung her feet down off the coping and walked away along the wall without a word, which from Lira could mean anything at all.
 
-He found out what it meant at the first bell next morning, when he came down to the north hall for his own supervised hour and found her there before him on the stone, alone. She was running the sequence at half pace. Three bursts, the third landing exactly where the cohort's plan would want it, and then, where a fourth would come, a half-step on her feet with no Wind in it at all, sideways and short, like the one she had used on Nyle. Then the fourth burst after it, from somewhere nobody counting landings would be standing.
+He found out what it meant at the first bell next morning, when he came down to the north hall for his own supervised hour and found her there before him on the stone, alone. She was running the sequence at half pace. Three bursts, the third landing where the cohort's plan would want it, and then, where a fourth would come, a half-step on her feet with no Wind in it at all, sideways and short, like the one she had used on Nyle. Then the fourth burst after it, from somewhere nobody counting landings would be standing.
 
-She ran it eleven times. On the twelfth she stopped and stood with her weight on the ball of her right foot and her breath going hard, and saw him in the doorway.
+She ran it nine times. On the tenth she stopped and stood with her weight on the ball of her right foot and her breath going hard, and saw him in the doorway.
 
 "Don't say anything," said Lira.
 
@@ -254,4 +254,4 @@ She ran it eleven times. On the twelfth she stopped and stood with her weight on
 
 "I know you would."
 
-"By the fifteenth," said Lira, "is a day late." And she went past him out of the door, and he heard her laugh once, short and surprised, on the other side of it, as though she had said something funnier than she had meant to.
+"By the fifteenth," said Lira, "is a day late." And she went past him out of the door, and he heard her laugh once, short and surprised, on the other side of it.

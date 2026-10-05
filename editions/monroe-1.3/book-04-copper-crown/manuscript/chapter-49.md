@@ -4,7 +4,7 @@ Recesses were where findings went wrong, in Ilsev's experience, so she did not t
 
 People talked in recesses. They stood at windows with cups and told each other what the morning had meant, and by the time the sitting began again, half of them had agreed on a meaning that nobody had read anywhere. She had seen it happen in a hundred halls, and so when the counsel rose and went out talking, with two of the clerks trailing after her, and the academy's people drifted to the far windows to stretch, Ilsev stayed in her chair and opened the file she had asked for.
 
-She had asked for it at the first bell, because the afternoon would come round to what the clause required term by term, and that touched the monitoring of the enrollee. Havel brought it at the recess and laid it at her elbow, square to the edge, and went back to the foot without a word. She liked that about him. He never told you he had done what you asked.
+She had asked for it at the first bell, because the afternoon would come round to what the clause required term by term, and that touched the monitoring of the enrollee. Havel brought it at the recess and laid it at her elbow, square to the edge, and went back to the foot. She liked that about him. He never told you he had done what you asked.
 
 The routing file was a long narrow ledger bound in grey, every request and transfer that had ever touched the subject's file entered one to a line, in a dozen hands over two years. She went down it from the top. A district office and a first filing. A records request in an autumn, with the designation in its priority field, two grades above anything its signatory could have entered. Greyvane: her own query, the return, her referral. A transfer to this house. And at the very end, the requisition for the wing's filings, and their return to the wing the evening before.
 
@@ -44,9 +44,9 @@ She took her working sheet from her case and wrote on it, small:
 
 *Misrouted, or no answer at all. Both go up. Neither is mine to settle.*
 
-There was a next thought. She could feel its edge, just past the end of the line, the way your foot feels the edge of a stair in the dark. She did not take it. She knew she was not taking it, and she was quite comfortable with that.
+There was a next thought. She could feel its edge, just past the end of the line. She did not take it. She knew she was not taking it, and she was quite comfortable with that.
 
-She had known a man once, early in her service, who had been right about a thing a full year before he could prove it. He had said so in writing, and when the proof came at last it proved him right in every particular. He had spent the rest of his career being right about it in a much smaller office. She had learned more from him than from anyone, and she had never once been tempted to be him. A mark in a registry with no author anyone could name was a thing. Things like that were slips, or they were somebody's practice. She had not one line of paper that told her which, and a guess was not a finding just because the guesser was senior.
+She had known a man once, early in her service, who had been right about a thing a full year before he could prove it, and had said so in writing, and had spent the rest of his career being right about it in a much smaller office. She had learned more from him than from anyone, and had never once been tempted to be him. A mark in a registry with no author anyone could name was a thing. Things like that were slips, or they were somebody's practice. She had not one line of paper that told her which, and a guess was not a finding just because the guesser was senior.
 
 ---
 
@@ -64,9 +64,9 @@ It left her the same choice it left everybody. She could take it as her answer, 
 
 She reached into her case for a referral form.
 
-The hall had nearly emptied round her. Somewhere behind her a clerk was moving chairs that did not need moving. One of the registrar's young men came along the table with a tray, and set a cup of tea at her elbow without a word, and went away. She did not look at it.
+The hall had nearly emptied round her. Somewhere behind her a clerk was moving chairs that did not need moving. One of the registrar's young men came along the table with a tray, and set a cup of tea at her elbow, and went away. She did not look at it.
 
-She filled the form in its own order, line by line, because the order was there to protect whoever would read it. First the date and reference of her referral from Greyvane. Then the date and reference of the sheet in front of her. Then the return's working words, written out in full, every one, with nothing put into her own words. A question that has been put into somebody's own words can be answered by answering their words instead of the question, and she had watched whole matters die of exactly that. Then, in the box at the foot headed *grounds for escalation*, one sentence. She wrote it without a pause, because she had known it since she reached the third line of the return.
+She filled the form in its own order, line by line, because the order was there to protect whoever would read it. First the date and reference of her referral from Greyvane. Then the date and reference of the sheet in front of her. Then the return's working words, written out in full, every one, with nothing put into her own words. A question that has been put into somebody's own words can be answered by answering their words instead of the question, and she had watched whole matters die of that. Then, in the box at the foot headed *grounds for escalation*, one sentence. She wrote it without a pause, because she had known it since she reached the third line of the return.
 
 *A determination that no originating authority exists is not a determination as to the designation's validity, and the designation remains live on an active file.*
 
@@ -78,31 +78,19 @@ It had taken eleven minutes by the clock over the door, which she had glanced at
 
 The tea at her elbow was cold. She drank all of it, in four swallows, and set the cup back in its saucer without a sound.
 
-Then she put the matter down, on purpose, the way she would set down a heavy case at the end of a road. A form was a place to leave a weight. That was what forms were for, whatever the people who printed them believed, and a woman who could not leave a filed thing where she had filed it would sooner or later file badly, just to be rid of it.
+Then she put the matter down, on purpose. A form was a place to leave a weight. That was what forms were for, whatever the people who printed them believed, and a woman who could not leave a filed thing where she had filed it would sooner or later file badly, just to be rid of it.
 
 Across the hall, against the far wall, the enrollee sat on his hard chair among the registrar's clerks, with a floor sheet on his knee and his eyes on nothing in particular. The designation she had just sent up for the third time sat on that boy's file, and had sat there since before the file was made. She did not look at him for longer than it took to see where he was. He was not her question, any more than he had been in hall three. The paper was her question.
 
-The counsel came back in, still talking. Ilsev turned to a clean page of her working sheet and waited for the afternoon.
+Cael had spent the recess on that hard chair, because a clerk would have, and because getting up to walk about was the kind of small change he had promised himself at dawn not to make. Of the whole delegation only two had kept their places: the Archmarshal, with his folder shut and his pen across it, and Ilsev, who had read something from a file and then written on a form for about eleven minutes, by Cael's count of his own breaths, and laid it in the records officer's tray, and drunk a cup of tea in four swallows. He did not know what it was. It was not his to know, and he did not write it on the back of his floor sheet. He only noticed that whatever she had read had not changed her face at all.
+
+He set the stake again. The counsel came back in, still talking, and the room filled up.
 
 ---
 
-Cael spent that first recess on his hard chair, because a clerk would have, and because standing up and walking about was the kind of small change he had promised himself at dawn not to make.
+The courier had come up the bluff the evening before on a tired horse, and Havel had signed for the satchel himself and entered every paper in the day-book before he opened it, as the rule said. The third was a single folded sheet with the registry's stamp, addressed to the senior evaluation seat. He had known what it was before he unfolded it, and had unfolded it all the same, to enter it properly, and had read it.
 
-The hall emptied round him in the ordinary way. Withrow and Bracken went to the far window with cups. Karis sat where she was and wrote, and did not look round. Of the whole delegation only two people stayed in their places. The Archmarshal sat with his folder shut and his pen across it, as still as he had been all morning. And Ilsev, at the near end of their side, read something from a file, and then took out a form and wrote on it for about eleven minutes, by Cael's count of his own breaths, and carried it down the table, and laid it in the records officer's tray, and came back and drank a cup of tea in four swallows.
-
-He did not know what it was. It was not his to know. A senior evaluator filing a form in a recess was the most ordinary thing in the world, and he made himself treat it so, and did not even write it on the back of his floor sheet. He only noticed, because he could not help noticing, that she had not gone to the window with the others, and that whatever she had read had not changed her face at all.
-
-He set the stake again, and watched the room fill up.
-
----
-
-The courier had come up the bluff the evening before in the last of the light, on a tired horse, and Havel had signed for his satchel himself, at the guest floor's door.
-
-He entered the satchel in the day-book before he opened it, as the rule said, and then each paper in its turn. The third was a single folded sheet with the registry's stamp, addressed to the senior evaluation seat. He had known what it was from the stamp and the place it had come from before he ever unfolded it. He had unfolded it all the same, to enter it properly, and he had read it.
-
-At Greyvane he had laid the first return on the corner of her table, where she would see it the moment she came in. He did not do that this time. He sat with this one in his hand for a little while, in the cold guest-floor passage.
-
-The card in his pocket said nothing about where a records officer laid a sheet. It said he was not to carry messages, or take papers, or accept anything offered; it did not say he must put a hard thing where it would be seen first. So he put it in the file, at the back of the correspondence, in its proper place, with a docket pinned to it in his own hand. She would come to it in her own order, at the end of everything else. He thought she would want to meet it that way.
+At Greyvane he had laid the first return on the corner of her table, where she would see it the moment she came in. This one he had sat with for a little while in the cold guest-floor passage. The card in his pocket said nothing about where a records officer laid a sheet; it did not say he must put a hard thing where it would be seen first. So he put it at the back of the correspondence, in its proper place, with a docket in his own hand, and let her come to it in her own order.
 
 Now, at the end of the first recess, he went down the table and collected the tray.
 
@@ -110,7 +98,7 @@ There were two sheets in it, and he knew them both. He logged them at his place 
 
 He read the new one as he entered it. He read everything he entered. A records officer who logs a sheet without reading it is a tray with legs, and if the service was going to use him as a tray, he would at least be a tray that knew what it was carrying.
 
-At Greyvane, when the first return came, he had watched her read the designation a third time after she had already referred it. She had looked at it the way a carter looks at a wheel that has come off on a straight dry road with nothing to have struck it. It was nearly the only sign he had ever seen her give that a thing had reached her.
+At Greyvane, when the first return came, he had watched her read the designation a third time after she had already referred it, which was nearly the only sign he had ever seen her give that a thing had reached her.
 
 Today she had not read it a third time. She had read it once, and filed again inside the recess, and drunk her tea cold. And Havel, at the foot of the table with his head bent over the ledger, found that it moved him more than the third reading had. The third reading had been a person puzzled. This was a person deciding to go on being puzzled, out loud, in ink, at the next level up, where people with better lamps would have to read it.
 
@@ -118,19 +106,13 @@ He initialled his lines and squared the ledger and turned the glass, and was rea
 
 Up the table, past the counsel, the Archmarshal's pen rose from his folder while Havel was entering the referral. It made one short mark, and was laid down crosswise again. Havel did not see it. He was looking at his ledger, which was his work.
 
----
-
-The second recess came at the fourth bell. The counsel wanted a box from the guest floor, and the hall broke up again; Havel needed a new roll for the recording case, because the morning had eaten most of the old one, so he went up the long stair to the delegation's working room.
-
-It was a narrow room with one window over the quadrangle, five hard chairs, a table, and the delegation's chests along the wall. Nobody was in it. He found a roll in the second chest and fitted it to the spindles and wound it on. Then, instead of going straight back down, he sat on the hard chair nearest the window, with the case on his knees, and took out the notebook.
-
-He did not often open it in a room that was not his own. But the counsel would want a quarter of an hour with her box, and the room was empty. His right hand ached in the web of the thumb, as it did by this hour of any long sitting, and he opened and closed it twice before he trusted it with a pencil.
+At the second recess, at the fourth bell, the counsel sent for a box from the guest floor, and Havel went up the long stair to the delegation's working room for a new roll, because the morning had eaten most of the old one. Nobody was in the room. He wound the roll onto its spindles, and then, instead of going straight back down, he sat on the hard chair by the window with the case on his knees and took out the notebook, which he did not often open in a room that was not his own. His right hand ached in the web of the thumb, as it did by this hour of any long sitting, and he opened and closed it twice before he trusted it with a pencil.
 
 The cover was cardboard, soft at the corners from his pocket. It had ninety pages, and four of them had been written on. He read the three entries over first, in order: a market and a marker, and *Noted*; a manual and four lines back, and *Asked. Told to stop. Stopped.*; Greyvane, and the one line he had let himself add there, *Not only me this time.*
 
 He dated the fourth and wrote it in the same dry hand as the others, because the sameness of the hand was the point. It was one line long: the Greyvane referral returned from the chain above, eleven months on, and refiled a level higher inside the recess, both sheets logged and cross-referenced in his own hand. It was true, and it said no more than he knew.
 
-He sat and looked at it. Below the window a man was crossing the quadrangle with a bucket, and the fire-watch boy's slate was hanging on its nail under the arch, wiped clean for the night to come. Two carriers now, Havel thought. Two of them, each holding one end of the same question, and neither of them cleared to be given the answer.
+He sat and looked at it. Below the window a man was crossing the quadrangle with a bucket, and the fire-watch boy's slate was hanging on its nail under the arch, wiped clean for the night to come. Two carriers now, Havel thought, each holding one end of the same question, and neither of them cleared to be given the answer.
 
 Then he broke his own rule. The rule was that the notebook held only what had happened, and nothing of what he made of it. Once, he thought, sitting there with the case on his knees. Once would not ruin it.
 
@@ -138,7 +120,7 @@ Then he broke his own rule. The rule was that the notebook held only what had ha
 
 He looked at the line. It was not like the lines above it. A stranger who found the notebook would know from it, and from nothing else in it, that it had been written by a man.
 
-He closed it and put it back in his inside pocket. He went down the long stair with the case held flat against his side, and he was in his chair at the foot of the table with the glass turned before the counsel came back with her box. There had always been another sitting after the recess, and there always would be. Whatever else he could not do about any of it, he could keep his ledger true and his count honest. He had been doing that much for two years, and he would go on.
+He closed it and put it back in his inside pocket. He went down the long stair with the case held flat against his side, and he was in his chair at the foot of the table with the glass turned before the counsel came back with her box. Whatever else he could not do about any of it, he could keep his ledger true and his count honest. He had been doing that much for two years, and he would go on.
 
 ---
 
@@ -150,7 +132,7 @@ He got up and went to stand a pace behind her, where a clerk would stand to take
 
 "I put you in this room," said Withrow, to the window, "because a person who's named in a scope reads the scope. That's a rule I've kept all my working life, and I'm not going to break it for an Archmarshal." She drank some of her tea. "I didn't put you here to enjoy it. If it's costing you more than a chair should cost a boy of sixteen, you'll tell me, and I'll find you a reason to be somewhere else for the afternoon, and nobody at that table will think twice about it."
 
-He thought about the two thin places in the morning, and the corner he had taken back twice, and the way the slack between the sheets had pulled at him like a tide pulling at a post.
+He thought about the two thin places in the morning, and the corner he had taken back twice, and the way the slack between the sheets had pulled at him.
 
 "It's costing," he said. "Not more than I can pay."
 
@@ -166,7 +148,7 @@ He went and sat down, and the corner of him that held his edges was steadier tha
 
 After the recess, Ilsev took the room.
 
-Cael had read six of her findings and built a page on her out of them, line by line, and he had never once seen her work. He had imagined her as a kind of very quiet hammer. She was nothing like that. She did not press anybody, and she did not argue with anybody, and her questions went off in directions he could not have guessed from his hard chair against the wall.
+Cael had read six of her findings and built a page on her out of them, and he had never once seen her work. He had imagined her as a kind of very quiet hammer. She was nothing like that. She did not press anybody or argue with anybody, and her questions went off in directions he could not have guessed.
 
 "Registrar," said Ilsev, "what does this clause require of the institution? I don't mean of the practitioner. I mean of the house."
 
@@ -180,7 +162,7 @@ Bracken read it.
 
 "Now read it again," said Ilsev. "But begin with the subordinate clause this time, and take the main clause after."
 
-Bracken looked at her for a moment without moving. Then he did as she asked. He read the same words in a new order, with not a letter changed, and the hall heard a different sentence. The first time through, it had been about a practitioner who must submit to evaluation. The second time, it was about an institution that must evaluate him, and keep the record of it, every term, without fail. It was the same law, but the weight sat on the other end of the scale. Cael felt the room lean toward the academy's side by about the width of a finger.
+Bracken looked at her without moving. Then he did as she asked. He read the same words in a new order, with not a letter changed, and the hall heard a different sentence. The first time through, it had been about a practitioner who must submit to evaluation. The second time, it was about an institution that must evaluate him, and keep the record of it, every term, without fail. It was the same law, but the weight sat on the other end of the scale. Cael felt the room lean toward the academy's side by about the width of a finger.
 
 Across the table, the Archmarshal sat with his folder closed and his pen across it. Cael had his margin count going on the back of his floor sheet by now, very small, in pencil. There were three marks from the morning. A fourth had come at the end of the first recess, when Havel bent over his ledger to log the tray, and the pen had lifted and marked and gone down. Cael had seen it from the wall. Havel had not.
 
@@ -194,7 +176,7 @@ Gault gave her one paragraph. There was no warmth in it and no hesitation, and C
 
 "What the clause wants for an assay-provision enrollee is a demonstration, in front of a panel of this house, measured against a standard this house fixes and keeps on paper. My wing fixed the standard at this enrollee's baseline, in his second month, and posted it on the board in the same week. The apparatus has been calibrated since then on a posted schedule, by a keeper who initials a card for every check, and the card hangs on my wall. On the twentieth we'll lay him against that standard, in the order it sets out, whether or not anyone from this delegation is in the room to watch. The clause doesn't hand me a standard. It tells me to set one, to apply it, and to write it down."
 
-He stopped, the way a man stops at the end of a column. Then, in exactly the same voice, he added one more line.
+He stopped, the way a man stops at the end of a column. Then, in the same voice, he added one more line.
 
 "I have. I do. I will."
 
@@ -206,7 +188,7 @@ Ilsev thanked him and bent over her working sheet for a while, writing in her sm
 
 "Counsel. Does the delegation say this enrollment is unlawful? Or does it say the enrollment is irregular? They are not the same finding, and they don't lead to the same place. I'd like to know which of them is in front of me."
 
-The counsel did not answer at once. Cael watched her forearms on the table. Her weight did not come forward. It stayed exactly where it was.
+The counsel did not answer at once. Cael watched her forearms on the table. Her weight did not come forward. It stayed where it was.
 
 "Irregular," she said.
 
@@ -226,7 +208,7 @@ For a moment there was no sound in the hall at all. Then there were only the sma
 
 Cael looked across the table.
 
-The Archmarshal's pen lay crosswise on the closed folder, where it had lain since Gault's last line. It did not rise. It had not risen for the counsel's best argument either, the one that had come down on the table like a weight. Nor for Withrow's answer, nor for the second certified copy coming out of the box, and it did not rise now, when a senior evaluator of the Compact stood up and said, into the record, that the boy on the hard chair by the wall was enrolled on sound law.
+The Archmarshal's pen lay crosswise on the closed folder, where it had lain since Gault's last line. It did not rise. It had not risen for the counsel's best argument either, nor for Withrow's answer, nor for the second certified copy coming out of the box, and it did not rise now, when a senior evaluator of the Compact stood up and said, into the record, that the boy on the hard chair by the wall was enrolled on sound law.
 
 The delegation's counsel had leaned over to her clerk. Cael, who had watched her forearms all day, saw that her weight had gone back in her chair, not forward. She said something short, and the clerk wrote it, and from the shape of her mouth Cael thought the word was *sound*. It did not look like a complaint. It looked like a craftsman's word about a joint that had held under her own weight.
 
@@ -274,9 +256,9 @@ It was Karis's foot. She had not turned round. Her pen had not stopped. She had 
 
 He was back inside his own edges before the breath was over. No method he had ever put in the ledger had ever done it half as fast.
 
-He sat very still and let the pressure behind his eyes come up and up until it reached its own top and stopped there, and he did not look down at Karis, and Karis did not look round at him. Her foot stayed where it was for one breath more. Then it slid away, back under her chair, and her pen went on writing as if it had never stopped.
+He sat very still and let the pressure behind his eyes come up and up until it reached its own top and stopped there, and he did not look down at Karis, and Karis did not look round at him. Her foot stayed where it was for one breath more. Then it slid away, back under her chair, and her pen went on writing.
 
-He set the stake again and held it, hard, through the rest of the list. Some while later the inky-knuckled clerk took back his folder without the least surprise, as if it were the most ordinary thing in the world to find it on that chair, and went on writing. The sitting closed at the seventh bell. People stood and stretched and talked. Within a minute the delegation's counsel had found Withrow's counsel and begun, very happily, to argue with her about the age of a binding.
+He set the stake again and held it, hard, through the rest of the list. Some while later the inky-knuckled clerk took back his folder without the least surprise, and went on writing. The sitting closed at the seventh bell. People stood and stretched and talked. Within a minute the delegation's counsel had found Withrow's counsel and begun, very happily, to argue with her about the age of a binding.
 
 Cael sat on in his chair, with the floor sheet on his knee, and wrote two more lines at the foot of the margin in the worst hand he had written all term.
 
@@ -292,7 +274,7 @@ Lira and Brom were on the records hall's steps when he came out, sitting side by
 
 "Sound law," said Cael. "Ilsev stood up and said it into the record. *Whatever else the delegation reports, the basis is sound law.*"
 
-Lira let out a breath that she seemed to have been holding since noon. Brom did not move at all for a moment. Then he put out one big hand and set it flat on the stone beside him, as if to make sure the step was still there.
+Lira let out a breath that she seemed to have been holding since noon. Brom did not move at all. Then he put out one big hand and set it flat on the stone beside him.
 
 "Karis?" he said.
 
@@ -306,7 +288,7 @@ Lira was looking at Cael's face, not at the door.
 
 He told her. Two thin, one bad. The folder.
 
-Lira did not say anything for a moment. Then she reached out and caught the toe of his boot with her own good foot and held it there, as if she were checking that it was attached to him.
+Lira did not say anything. Then she reached out and caught the toe of his boot with her own good foot and held it there.
 
 "I'd have stood on you," she said. "If I'd been in there."
 
@@ -316,9 +298,9 @@ Lira did not say anything for a moment. Then she reached out and caught the toe 
 
 "And the Archmarshal?" said Brom.
 
-Cael sat down on the step below them, because his legs had decided for him, and told them about the pen. Five marks in nine hours. How the copies had been compared, the index, the clerk who found a sheet in a breath, Havel's tray, Gault saying *write it down*. Nothing for the argument. Nothing for the finding.
+Cael sat down on the step below them, because his legs had decided for him, and told them about the pen: five marks in nine hours, every one for the house's paperwork, and nothing for the argument or the finding.
 
-Lira was quiet for a moment, with her hands round her knee.
+Lira was quiet, with her hands round her knee.
 
 "The beam," she said.
 
@@ -328,7 +310,7 @@ Lira was quiet for a moment, with her hands round her knee.
 
 "Five days," said Brom, "and then he will." He said it without any weight at all, the way he said the time of supper, and Cael was grateful to him for that more than he could have said.
 
-"Then we've got five days," said Lira, "to make sure the thing he weighs is worth the trouble." She hooked her good foot under Cael's boot again and gave it a small shove, as if to move him along. "Which starts with you eating."
+"Then we've got five days," said Lira, "to make sure the thing he weighs is worth the trouble." She hooked her good foot under Cael's boot again and gave it a small shove. "Which starts with you eating."
 
 The records hall's door opened behind them. Bracken stood in it with his sleeves pushed up and a pen behind each ear, which Cael had never seen before.
 

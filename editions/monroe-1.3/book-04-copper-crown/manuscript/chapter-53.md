@@ -18,7 +18,7 @@ Below them Brom made a noise that might have been a laugh or might have been his
 
 The climb took them a little over twenty minutes. Cael shouldered the common-room door wide and steered her to the good chair with arms by the stove. She sat without one word of argument. Nothing the practitioner had said frightened him half so much.
 
-For a while nobody did anything useful. Lira sat with her eyes shut until the colour came back into her face. Brom put the crown on the long table and stood frowning at it as if it owed him money, then let himself down onto the boards by the stove with the iced knee straight out, and Karis lit the good lamp and filled the kettle.
+For a while nobody did anything useful. Lira sat with her eyes shut until the colour came back into her face. Brom put the crown on the long table and stood frowning at it, then let himself down onto the boards by the stove with the iced knee straight out, and Karis lit the good lamp and filled the kettle.
 
 "Table," said Lira, without opening her eyes.
 
@@ -46,7 +46,7 @@ Brom did not pretend not to know what she meant. "You'd have known if I hadn't."
 
 Karis, filling the kettle, said, "It is now," and did not look round, and Lira laughed, and said it hurt, and laughed again.
 
-It was Brom's idea to build the wing out of the furniture, and he ran it from the floor like a foreman. The long table, pushed against the settle, became the panel's bench, and Karis's slate, propped on the mantel against the clock, became the wall where the order was posted. Two chairs set back to back stood for the rail of the frame. The hearthrug was the oak. A crack in the floorboards ran almost exactly where the brass crossing would be, and Brom pointed at it with deep satisfaction and named it the fourth brass from the near wall.
+It was Brom's idea to build the wing out of the furniture, and he ran it from the floor like a foreman. The long table, pushed against the settle, became the panel's bench, and Karis's slate, propped on the mantel against the clock, became the wall where the order was posted. Two chairs set back to back stood for the rail of the frame. The hearthrug was the oak. A crack in the floorboards ran very nearly where the brass crossing would be, and Brom pointed at it with deep satisfaction and named it the fourth brass from the near wall.
 
 "And I'm the frame," he said.
 
@@ -116,7 +116,7 @@ He took four more, and the book jumped the same distance each time, and his shou
 
 It took him three goes to make it look real, and he did not enjoy discovering that. In the end he let the arm fold a little further on every blow, and after the third he stepped back off the hearthrug and said he could not take another.
 
-Karis stood with her arms folded and looked at the slate for a long while.
+Karis stood with her arms folded and looked at the slate.
 
 "I hadn't seen that coming, and it would have had you." Her chalk rapped the lower bracket. "For two weeks you've planned against the roof. Don't go over; don't become a question. Now look where you just went. Under. That plate line sits in Gault's own log in Gault's own hand with *four, not eight* beside it, because you said it before he asked, and anybody in that room can lay tomorrow's line over it in the time it takes to blink. Go in frightened and clamp down on everything by feel, and you won't merely scrape the floor; you'll go clean through it. Then the record says that a boy got worse over a whole supervised term while the Compact sat and watched it happen."
 
@@ -146,7 +146,7 @@ Brom rubbed his fist. "You weren't reading me at the skin," he said slowly. "You
 
 Cael took hold of the nearest chair-back.
 
-He understood it about twenty seconds before he could say it, and those were the worst twenty seconds of the evening. Then he said it, because things of that kind were exactly what this room existed for.
+He understood it about twenty seconds before he could say it, and those were the worst twenty seconds of the evening. Then he said it, because things of that kind were what this room existed for.
 
 "The read's open. All the way down. Since the delegation came I've kept it shallow, because the hold and the reach drink from one cup and the cup is small, and the thin layer costs nothing; it reads a room, but it can't read a fist." He let go of the chair. "This afternoon in the yard I took my hand off it, because nobody was looking at me and I wanted to see the two of you properly. The hold was never in danger, because there was far too much to watch. But the read came all the way up while I was watching, and it's been up ever since, and I never noticed."
 
@@ -184,17 +184,17 @@ Partway through the hour he felt himself slip. It was not much. It was the feeli
 
 "There," said Lira.
 
-He looked round. She lay sideways across the good chair, the bad hip propped on a cushion under a cloth of ice, and in the polished arm of the chair, under her right thumb, there was a short row of marks scored into the wax with her thumbnail. He counted them from where he stood, and there were eleven.
+He looked round. She lay sideways across the good chair, the bad hip propped on a cushion under a cloth of ice, and in the polished arm of the chair, under her right thumb, there was a short row of marks scored into the wax with her thumbnail. He counted them from where he stood, and there were ten.
 
 "That's how many?"
 
-"That's how many I've seen tonight. You caught four. I watched your face when you did." She ran her thumb along the row. "Nine were nothing much, two or three seconds and back, and nobody else in the world would have seen them. I'm not being clever. I've looked at you for three years, and that's the only reason I can. But it's eleven."
+"That's how many I've seen tonight. You caught four. I watched your face when you did." She ran her thumb along the row. "Nine were nothing much, two or three seconds and back, and nobody else in the world would have seen them. I'm not being clever. I've looked at you for three years, and that's the only reason I can. But it's ten."
 
 "Where?"
 
-"That's the thing." She lifted her thumb. "Never while Brom was hitting you, and never while Karis was asking you something. Every one came while she had her back turned and you were standing on that crack waiting for her to finish. You were waiting, all eleven times."
+"That's the thing." She lifted her thumb. "Never while Brom was hitting you, and never while Karis was asking you something. Every one came while she had her back turned and you were standing on that crack waiting for her to finish. You were waiting, all ten times."
 
-Karis was chalking *eleven of eleven* on the slate before Lira had finished. "That isn't bad luck," she said, half to herself. "That's how it works."
+Karis was chalking *ten of ten* on the slate before Lira had finished. "That isn't bad luck," she said, half to herself. "That's how it works."
 
 Cael didn't move. The pieces were joining.
 
@@ -286,7 +286,7 @@ The new order went down twice, fair. Nothing else went into the stove. Then he w
 
 *Ledger, day twenty-one.*
 
-*Held: from waking, nineteen hours. Read: let up in the yard on purpose and never put back, which I found out at the table. Drifts: eleven by Lira's thumbnail, four by my own count, and all eleven in the gaps.*
+*Held: from waking, nineteen hours. Read: let up in the yard on purpose and never put back, which I found out at the table. Drifts: ten by Lira's thumbnail, four by my own count, and all ten in the gaps.*
 
 *Given tonight: a gap between two brackets with a registrar's sums under it. A way to look like a man working instead of a man carrying a full bowl. Something to do with the empty minutes that costs nothing, because it's the only part of me nobody handed me. And one thing more, which is where it belongs, and is ash.*
 

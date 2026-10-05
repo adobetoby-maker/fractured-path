@@ -8,7 +8,7 @@ He sat on the residence stair two steps below the landing with his back against 
 
 Cael sat down a step above him and took the mug in both hands.
 
-An hour earlier, in the black fourth hour after the last bell, he had driven the stake in while his eyes were still shut. That was the order of things now, and had been since the stair. Before the shutter or the cold or a single thought about the day, he reached for his own edges in the dark and found them, and fixed them where an ordinary person's would sit, and left a corner of himself standing guard there. Six names for the feeling had gone into the working ledger, and all six had been struck through. The least bad was a full cup carried across a crowded room, which weighed nothing and hurt nothing and simply could not be put down, and so took a corner of him that would be good for nothing else all day.
+An hour earlier, in the black fourth hour after the last bell, he had driven the stake in while his eyes were still shut, before the shutter or the cold or a single thought about the day, as he had every morning since the stair.
 
 It was ledger day twenty-two, and thirty-five days since the stair.
 
@@ -28,7 +28,7 @@ Brom drank, and thought, and worked it out loud in the slow way he worked out an
 
 Brom parked his mug next to its twin and got himself up against the wall, the good leg first and then the other, with the face of a man lifting a cart wheel, and considered Cael from above.
 
-"Here's what I think, then. Today the work that counts has no instrument pointed at it. Every one of them will be looking at the brass and the frame and the figures and thinking that's where the work is, and nobody in that room will ever know what the corner cost you." He reached down and knocked twice on the top of Cael's head with the knuckles of his good hand, softly, the way he knocked on a door he did not need to open. "I'll know. That's the best I've got."
+"Here's what I think, then. Today the work that counts has no instrument pointed at it. Every one of them will be looking at the brass and the frame and the figures and thinking that's where the work is, and nobody in that room will ever know what the corner cost you." He reached down and knocked twice on the top of Cael's head with the knuckles of his good hand, softly. "I'll know. That's the best I've got."
 
 "It's enough."
 
@@ -36,7 +36,7 @@ Brom parked his mug next to its twin and got himself up against the wall, the go
 
 On his way out Cael crossed the common room. The crown sat dull on the long table where Brom had left it, and on the mantel the slate still showed Karis's six lines and two brackets and, across the foot in her big chalk capitals, *ON THE NUMBER*. Twice he read it, and left it standing.
 
-The quadrangle was still grey when he crossed it, and so cold that his breath went ahead of him. Under the covered walk's north arch the fire-watch boy's slate hung on its nail with the night's hours chalked down it in large careful figures, the last of them straightened, by the look of it, more than once. Beyond the wall, down at the ferry landing, the lamp on its post was still lit, and as Cael passed the gap in the parapet the two grey coats under it changed with the bell. One walked off along the bank and his relief walked on, exactly as they had changed every four hours since the bridge. Nothing about the morning had been altered for him. He found that a comfort, and then found it funny that he did, and kept walking with the corner held.
+The quadrangle was still grey when he crossed it, and so cold that his breath went ahead of him. Under the covered walk's north arch the fire-watch boy's slate hung on its nail with the night's hours chalked down it in large careful figures, the last of them straightened, by the look of it, more than once. Beyond the wall, down at the ferry landing, the lamp on its post was still lit, and as Cael passed the gap in the parapet the two grey coats under it changed with the bell. One walked off along the bank and his relief walked on, as they had changed every four hours since the bridge. Nothing about the morning had been altered for him. He found that a comfort, and then found it funny that he did, and kept walking with the corner held.
 
 The wing's arch was ahead, and somebody was already waiting under it.
 
@@ -122,7 +122,7 @@ The drum went round behind the louvres, picking, with the pendulum ticking under
 
 His knees went and his hips dropped and the oak breathed under him; then came the toll at the front, the held half-breath with no air in him anywhere; and then the crossing was empty and he was most of a stride to its left and coming down. The boards took his heels and gave them back. The landing beat held him, as it always held him, for its half-breath of standing on the spot like a post somebody had driven in.
 
-The clerk did not look up. "Three brass left. A quarter forward." A figure followed, taken from the pendulum.
+The clerk kept his eyes on his pendulum. "Three brass left. A quarter forward." A figure followed, taken from the pendulum.
 
 The distance was what it had been at the baseline, but the figure was shorter, and Cael had already felt it shorter in his chest.
 
@@ -156,11 +156,11 @@ He set the pen down.
 
 "That is what the provision is for."
 
-Then a page turned, and that was all.
+Then a page turned.
 
 Along the east wall the counsel wrote, and Havel wrote because writing was what he had been sent to do, but Ilsev's freshly sharpened pencil had not touched her paper. Cael caught at the very edge of his eye that she had spent the whole trial watching the drum behind the louvres and not him. In the fourth chair nothing had moved.
 
-Then came the first gap, and he had been waiting for it the way you wait for a stair tread you know is loose.
+Then came the first gap, and he had been waiting for it.
 
 Gault leaned toward the Mire instructor and the two of them bent their heads over the sheet and talked low, with the Ash instructor leaning in to listen, and after that the clerk would be sent to the north wall and would take his time over it. A minute and a half, perhaps two, with nothing for anybody on the brass to do.
 
@@ -170,7 +170,7 @@ So he followed Lira's instruction and chose somebody, and the somebody he chose 
 
 The clerk was a thin man of about thirty, younger in the face than in the hands. He had kept the book through every hour Cael had ever spent in this room, and he sat at his sloped desk now with his pen lifted, waiting to be told what to write next. Cael took him from the top, the way he had been reading people since long before there was a single Path in him to read them with.
 
-Rhythm: slow and even, a breath and a half between movements of the pen, never hurried and never held. Weight: settled back, but with the shoulders a little forward over the desk, the way a man sits who has spent ten years over desks and quietly stopped noticing. Breath: through the nose, shallow, steady. Hands: the right one with the pen, the left laid flat along the ledger's edge to keep the page from lifting in the draught from the door. And did it all agree? It did. Every layer told the same story, of a man who was exactly what he seemed, a clerk minding his lines, with nothing else hidden in him anywhere.
+Rhythm: slow and even, a breath and a half between movements of the pen, never hurried and never held. Weight: settled back, but with the shoulders a little forward over the desk, ten years' worth of desks. Breath: through the nose, shallow, steady. Hands: the right one with the pen, the left laid flat along the ledger's edge to keep the page from lifting in the draught from the door. And did it all agree? It did. Every layer told the same story, of a man who was what he seemed, a clerk minding his lines, with nothing else hidden in him anywhere.
 
 Plain work, a little dull, and it held. The whole time he went down through the clerk, layer by layer, the corner stayed where he had fixed it, and he could feel it stay. The room had stopped asking him anything, so he had found a question of his own to ask it, and that was enough.
 
@@ -236,7 +236,7 @@ Cael waited on the crossing and went back to the clerk. The clerk held through t
 
 It was a good question, and that was what was wrong with it.
 
-To answer it honestly Cael had to go a long way in, down past the skin of his own palm after a moment that had taken no time at all. Then he had to pull it apart in front of a panel: what it was, and why it would not stay, and where in it the choosing sat. He had understood it himself only a quarter of an hour before, and finding words for Gault's book was like trying to describe a stair you are still standing on in the dark.
+To answer it honestly Cael had to go a long way in, down past the skin of his own palm after a moment that had taken no time at all. Then he had to pull it apart in front of a panel: what it was, and why it would not stay, and where in it the choosing sat. He had understood it himself only a quarter of an hour before, and finding words for Gault's book was like trying to describe a sneeze while it was still happening.
 
 Down he went after the words. Down there, unattended, the corner slid.
 
@@ -260,7 +260,7 @@ Into her book the Ash instructor laughed, or nearly. Gault's face did not change
 
 At the rail by the west wall Cael sat with his palms on the cold wood. Two minutes went on hunting down his edges and setting each one back where an ordinary boy of sixteen would wear it. Grudgingly they came, using up nearly the whole allowance, and left behind them an ache behind the eyes like the one the read sent after a long day. An hour and a half still to go: a poor sign.
 
-To the table and the wall alike, nothing had occurred. In the book it would read *fatigue affecting response quality*. True. *At the enrollee's request.* True. Nothing more, and that was true as well. That was the whole art of it.
+To the table and the wall alike, nothing had occurred. In the book it would read *fatigue affecting response quality*. True. *At the enrollee's request.* True. Nothing more, and that was true as well. That was the art of it.
 
 He got up off the rail.
 

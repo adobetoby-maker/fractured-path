@@ -16,7 +16,7 @@ It was not, as all four of them knew perfectly well. Since the Fiske bout Lira h
 
 So after a moment she unfolded her arms.
 
-"Right. The other side." She looked at the ceiling as if the case were written on it. "He's offering it in public, on a board, with Gault's name on the syllabus and every second-year who wants to be an assessor in the same room. You can't be quietly anything in a room full of second-years. If he wanted you on your own, that's the last place he'd put you." She stopped. "And you'd learn something from the only man on the bluff who could teach it, which isn't nothing. I'd have walked a long way at your age for a teacher like that." She looked down at Cael. "I still think no. I just can't make it as big as I'd like it to be."
+"Right. The other side." She looked at the ceiling. "He's offering it in public, on a board, with Gault's name on the syllabus and every second-year who wants to be an assessor in the same room. You can't be quietly anything in a room full of second-years. If he wanted you on your own, that's the last place he'd put you." She stopped. "And you'd learn something from the only man on the bluff who could teach it, which isn't nothing. I'd have walked a long way at your age for a teacher like that." She looked down at Cael. "I still think no. I just can't make it as big as I'd like it to be."
 
 "That's honest," said Karis.
 
@@ -44,7 +44,7 @@ Brom was sitting under the window with his back to the plaster, as he always sat
 
 "No. I don't." Brom looked up. "But if that's recruiting, it's the worst I've ever seen. My grandmother hired people all her life, clerks and factors and yard men, and the way you do it is you make it easy, and you make it quiet, and you make it feel like their own idea." He tapped the sheet. "He's done the opposite of every one of those. Your name goes on a sheet in the residence passage, where three hundred people walk by twice a day. You have to sit in a room with eight others who'll talk about it at supper. Wanting a boy near you on the quiet, you'd never in your life ask him to sign for it where the whole house can read it. If he wanted you, he'd have left you an easy way to refuse. He's left you a hard way to accept."
 
-Nobody had anything to add to that, and Lira looked at Brom for a long moment with an expression of mild betrayal, and then at the fireplace again.
+Nobody had anything to add to that, and Lira looked at Brom with an expression of mild betrayal, and then at the fireplace again.
 
 "I hate it when he does that," she said.
 
@@ -62,13 +62,13 @@ They waited.
 
 He laid Karis's marbled log open on the table between the four of them and turned it so that it faced the room. Eleven days since the pin, in her small hand and his scrawl and once in Lira's square capitals. Every change at the ferry landing and every change down at the road's foot, the bell, the faces where faces could be told apart, a tick for on time.
 
-Eleven rows of ticks. There was the pie, crossed out, and the cart in the road, and the dog, all from before the pin, and after the pin not one cross, not one face that was new, not one change by so much as a minute, only the same small upright tick, bell after bell, down the whole of the page and on to the next.
+Row after row of ticks. There was the pie, crossed out, and the cart in the road, and the dog, all from before the pin, and after the pin not one cross, not one face that was new, not one change by so much as a minute, only the same small upright tick, bell after bell, down the whole of the page and on to the next.
 
 "Here's what I know about the Compact," he said. "It answers paper with people, because people are all it has ever had to spend. Somebody writes something interesting at the bottom of the coast, and it goes up, and somebody reads it, and what comes back down is coats. More of them, or different ones, or closer. I've seen it every time anything about me has gone up." He touched the first row. "The registry's district office is half a morning down the river. Had the pin gone up whole, the river would have brought me an answer by now. Not a letter, either, but a man."
 
 "So nothing went up," said Lira.
 
-"Something went up; it must have. Sending nothing for a fortnight would leave a hole in his product that a clerk could see from the door, and he doesn't make holes clerks can see." Cael looked at the column. "But the afternoon wasn't in it, or not the part that matters. He watched me stand in front of a locked post and take an Iron-tier return on my arm and send it into the floor. And eleven days later there are the same two men at the landing that there were the morning before. One of them still has his stiff knee."
+"Something went up; it must have. Sending nothing for a fortnight would leave a hole in his product that a clerk could see from the door, and he doesn't make holes clerks can see." Cael looked at the column. "But the afternoon wasn't in it, or not the part that matters. He watched me stand in front of a locked post and take an Iron-tier return on my arm and send it into the floor. And today there are the same two men at the landing that there were the morning before. One of them still has his stiff knee."
 
 Karis had stopped writing, and sat looking at the column of ticks with her pencil held a little above the page.
 
@@ -86,7 +86,7 @@ The fourth line held Cael's eye.
 
 "I know."
 
-Karis looked at the pencil in her hand as though it belonged to someone else. "Now the part that isn't work, once only, and afterwards you'll all have the decency to forget it."
+Karis looked at the pencil in her hand. "Now the part that isn't work, once only, and afterwards you'll all have the decency to forget it."
 
 "Say it," said Brom.
 
@@ -96,9 +96,9 @@ The room was very quiet. Down on the river a barge called once, long, and nobody
 
 "Thank you," said Cael.
 
-"Don't thank me. I've told you it's unprofessional." But the corner of her mouth had gone tight in the way it did when she was pleased with something and refused to show it. "Write it down. Somewhere I don't have to look at it."
+"Don't thank me. I've told you it's unprofessional." But her mouth had gone tight in the way it did when she was pleased with something and refused to show it. "Write it down. Somewhere I don't have to look at it."
 
-Lira had listened to all of it with her chin on her fist. Now she reached over and turned the marbled log round to face her, and ran her finger down the eleven rows the way she ran it down the standings, looking for the line that did not belong.
+Lira had listened to all of it with her chin on her fist. Now she reached over and turned the marbled log round to face her, and ran her finger down the rows the way she ran it down the standings, looking for the line that did not belong.
 
 "So which one do you believe?"
 
@@ -108,7 +108,7 @@ Lira had listened to all of it with her chin on her fist. Now she reached over a
 
 "It's the only one I've got that I didn't make up." He shrugged. "Ask me again when something changes down there, if it ever does."
 
-"I'd like to meet the man with the knee," said Brom from the floor. "Eleven days, and I feel I know him. I could pick his walk out of a crowd at the fair." He thought about it. "I'd buy him a pie. He looks like a man who's never once been bought a pie."
+"I'd like to meet the man with the knee," said Brom from the floor. "All these days, and I feel I know him. I could pick his walk out of a crowd at the fair." He thought about it. "I'd buy him a pie. He looks like a man who's never once been bought a pie."
 
 "You can't buy a Compact watcher a pie," said Karis.
 
@@ -122,7 +122,7 @@ Karis opened her mouth, and closed it again, and looked at the column of ticks, 
 
 She swung her leg down off the settle and sat forward.
 
-"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it." She meant the minute they had all signed in this room a month before, whose second rule allowed a reach only inside an engagement Seln himself began. "If it's ever going to happen, that room is where it's likeliest." Her eyes stayed on Cael's and did not leave them. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
+"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it." She meant the minute they had all signed in this room a month before, whose second rule allowed a reach only inside an engagement the man began himself. "If it's ever going to happen, that room is where it's likeliest." Her eyes stayed on Cael's and did not leave them. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
 
 "It mightn't happen," said Brom.
 
@@ -144,7 +144,7 @@ So they wrote it, the four of them, at the common room table, in the last hour b
 
 They argued that for a quarter of an hour.
 
-Lira wanted nothing tolerable at all: one wrong thing, anywhere, and stop. Karis said that would stop him on the first morning, since last time had begun with two misfires before breakfast, and that a rule nobody could keep was only a way of feeling safe. Brom wanted to know what counted as wrong, and whether a slow burst was wrong or only tired, and whether the read going a beat late counted, since it went a beat late every time Cael had been counting anything. Cael wanted the line drawn where last time had ended, and said so, and Lira said that was exactly the kind of line a person drew when he meant to walk right up to it.
+Lira wanted nothing tolerable at all: one wrong thing, anywhere, and stop. Karis said that would stop him on the first morning, since last time had begun with two misfires before breakfast, and that a rule nobody could keep was only a way of feeling safe. Brom wanted to know what counted as wrong, and whether a slow burst was wrong or only tired, and whether the read going a beat late counted, since it went a beat late every time Cael had been counting anything. Cael wanted the line drawn where last time had ended, and said so, and Lira said that was just the kind of line a person drew when he meant to walk right up to it.
 
 "Within the hour," said Brom at one point, reading part two upside down. "Whatever the hour is. What if it's the fourth hour of the night?"
 
@@ -152,7 +152,7 @@ Lira wanted nothing tolerable at all: one wrong thing, anywhere, and stop. Karis
 
 "Wake Karis first," said Brom. "She's nicer about it."
 
-"I'm not," said Karis, without looking up. "I'm only quieter."
+"I'm not," said Karis, still writing. "I'm only quieter."
 
 In the end Karis wrote it in under the fourth part in her own hand: *Tolerable: one misfire in any session, self-correcting. Anything more, or anything that does not correct, or anything in the read: stop.*
 
@@ -186,13 +186,13 @@ It came out whole. That hardly ever happened.
 
 He left it as it stood. Then he wrote the working out underneath, because a conclusion with no working under it was only a thing you had decided to feel.
 
-*For a trap: he cut the door into his range himself, it costs the Compact nothing, and written down it's a clerk with a syllabus. Against: eleven days of the same two coats, and Brom's point, which I've tried and failed to break, that whatever the man lets me have I must claim myself, publicly, in ink. A trap wants to be walked into. This was a door made so I could walk past it.*
+*For a trap: he cut the door into his range himself, it costs the Compact nothing, and written down it's a clerk with a syllabus. Against: the same two coats, day after day, and Brom's point, which I've tried and failed to break, that whatever the man lets me have I must claim myself, publicly, in ink. A trap wants to be walked into. This was a door made so I could walk past it.*
 
 *What I think, put here so I can be shown wrong later where everybody can see: for thirteen weeks he has been careful around me. This morning, I think, he was careful on my behalf. Careful* for *me. I haven't one piece of evidence for that preposition, and it's the only part of today I'm sure of.*
 
 *What I'll do: sign the board, sit in the room, and learn the Path, if he teaches it.*
 
-*What I won't do is let a single morning shift how I read him, since he still draws the Compact's pay, a man who says nothing can begin saying something on any day he likes, and eleven days at a ferry landing is a very thin floor to build on.*
+*What I won't do is let a single morning shift how I read him, since he still draws the Compact's pay, a man who says nothing can begin saying something on any day he likes, and a column of ticks at a ferry landing is a very thin floor to build on.*
 
 *So: both. I read him as an officer, and I sit in his room anyway.*
 
@@ -230,7 +230,7 @@ And on the line below his own, in a large confident hand with a flourish under i
 
 "You don't know her."
 
-"I'll know her by Third-day, because she'll be sitting next to you." Brom said this with the calm of a man reading the weather. "People who draw eyes on sheets always sit next to the person they've decided is interesting. It's a law."
+"I'll know her by Third-day, because she'll be sitting next to you." Brom said this quite calmly. "People who draw eyes on sheets always sit next to the person they've decided is interesting. It's a law."
 
 "Whose law?"
 
@@ -246,13 +246,13 @@ Lira read the sheet on her way past with a bowl of something in each hand. She r
 
 "You always know where I am."
 
-"I know where you said you'd be. That's different." She shifted one bowl so she could hold it against her hip. "Eat something. You've been looking at that board as if it owes you money." And she went in.
+"I know where you said you'd be. That's different." She shifted one bowl so she could hold it against her hip. "Eat something. You've been staring at that board long enough." And she went in.
 
 Karis was waiting for Cael in the second-quadrangle wash-house afterward with the grey notebook, a lamp, a wooden rule a foot long, and the expression of great purpose she wore for any task that would produce a column of numbers nobody else would ever think to want, and which she would be able to look at in a month and know something by. Brom's sandbags hung from their beam in the corner where they had hung since the third week, three of them in a row, light, middle and heavy, with the knotted cord and the peg.
 
 "Part three," she said. "Measurements, while nothing is wrong. Sit."
 
-He sat on the upturned tub. She held the rule upright by its top end, with its foot between his open finger and thumb, and let go without warning. He caught it, and she looked at where his fingers had closed and wrote down a number, and did it eleven more times, and wrote eleven more numbers.
+He sat on the upturned tub. She held the rule upright by its top end, with its foot between his open finger and thumb, and let go without warning. He caught it, and she looked at where his fingers had closed and wrote down a number, and did it again and again, a dozen times in all, and wrote a number each time.
 
 "What does it tell you?"
 

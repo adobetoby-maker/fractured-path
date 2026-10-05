@@ -176,7 +176,7 @@ He thought about which sentence, since there were a great many in the notebook, 
 
 "On the nineteenth," he said slowly, "every person up on those tiers is going to watch a Copper final, because that's what the board says it is. And it isn't one. It's two Iron-equivalent practitioners nobody has ever let fight anyone their own size, getting to do it at last, in a bracket that was never built with either of you in mind." He turned the notebook over on his knee. "I've tried to write that down all season. It always comes out sounding like a letter home. It isn't. It's just what it is."
 
-Brom said, "Huh." For Brom, that was a speech.
+Brom said, "Huh."
 
 "And I can't be on that sheet," said Cael. "So I'll be on the tier. I used to mind that. I've stopped. Somebody up there ought to know what it's costing the two of you to be on those boards, and I'm the only one who does. So that's my job on the nineteenth. I'll do it properly."
 

@@ -4,17 +4,17 @@ Karis wrote one line for each exchange. Cael read them afterward on her grey pag
 
 *One. L. spends nothing. Why?*
 
-Before the word, Lira did what she had done before every bout since the Ironyard. She crouched at her chalk and laid the flat of one hand on the boards, as if asking them something, and stood, and rolled her neck once each way. The first winter, he had asked why. She had said it was so her hand would know the floor before her feet had to, and had refused to say another word on the subject for two years. Fiske, across the chalk, kept her hands clasped behind her and studied the boards between them, as a carpenter studies a frame before hanging the door in it.
+Before the word, Lira did what she had done before every bout since the Ironyard: crouched at her chalk, laid the flat of one hand on the boards, stood, and rolled her neck once each way. Fiske, across the chalk, kept her hands clasped behind her and studied the boards between them.
 
 At the table's word, Fiske gave ground.
 
-She always did; Cael had four pages that said so. Her art lived in arriving early, at the place another fighter was about to be, and she could not arrive early anywhere until she knew the fighter, so for the first stretch of every bout she was only learning, and learning made her clumsy. She stepped back off her line in the first breaths, and then again, nearly over her own chalk. Two openings, exactly as the pages promised, and on the tiers a hundred people sat forward at once.
+She always did; Cael had four pages that said so. Her art lived in arriving early, at the place another fighter was about to be, and she could not arrive early anywhere until she knew the fighter, so for the first stretch of every bout she was only learning, and learning made her clumsy. She stepped back off her line in the first breaths, and then again, nearly over her own chalk. Two openings, just as the pages promised, and on the tiers a hundred people sat forward at once.
 
 Lira let both of them go by.
 
-She did not even look at them. She stood on her chalk for a long moment after the word, quite still, with her weight on the ball of her right foot. Then she began, at a walk, to run her evasion sequence.
+She did not even look at them. She stood on her chalk after the word, quite still, with her weight on the ball of her right foot. Then she began, at a walk, to run her evasion sequence.
 
-Cael knew it the instant he saw the first step. Everybody who had ever trained beside her knew it. It was the drill she ran on the north hall's stone at half pace whenever her hip would let her do nothing else: eleven movements, always in the same order, a step left and a check, a turn, two steps right along an arc, a fold and a rise, round and back to where she began. She had run it ten thousand times. She ran it now on the yard's boards in front of eight hundred people at the pace of somebody showing a child how to tie a knot, with no Wind in it anywhere, and when she reached the end she began it again from the start.
+Cael knew it the instant he saw the first step. Everybody who had ever trained beside her knew it. It was the drill she ran on the north hall's stone at half pace whenever her hip would let her do nothing else: nine movements, always in the same order, a step left and a check, a turn, two steps right along an arc, a fold and a rise, round and back to where she began. She had run it ten thousand times. She ran it now on the yard's boards in front of eight hundred people at the pace of somebody showing a child how to tie a knot, with no Wind in it anywhere, and when she reached the end she began it again from the start.
 
 Fiske watched it.
 
@@ -44,7 +44,7 @@ At the word, Lira went into the sequence again, at speed now, the first step lef
 
 Fiske had already shut the arc.
 
-A second declaration, three beats after the first, into the place the sequence went next. Lira broke off again, and the third went down behind her, into the stretch of floor the fold would have brought her through, and in eleven seconds there was nowhere on the boards that the sequence could reach. Lira stood in a narrow patch of honest wood with oil on three sides of it, and every edge of the patch had been drawn by Fiske, from the copy Lira herself had handed her a minute earlier.
+A second declaration, three beats after the first, into the place the sequence went next. Lira broke off again, and the third went down behind her, into the stretch of floor the fold would have brought her through, and in a dozen heartbeats there was nowhere on the boards that the sequence could reach. Lira stood in a narrow patch of honest wood with oil on three sides of it, and every edge of the patch had been drawn by Fiske, from the copy Lira herself had handed her a minute earlier.
 
 Cael found that he was gripping the binder hard enough to bend its board.
 
@@ -126,7 +126,7 @@ Not slowly, as it had after Nyle. It went up all at once, every tier, so that th
 
 Down on the boards, Lira stood where she had touched, her hand still half raised, until the safety instructor walked out and laid his own hand very gently on her arm.
 
-In the west gallery Withrow had not stood. She sat exactly as she had sat all afternoon, upright and white-haired, with her two Ostrand guests on their feet on either side of her, clapping. She was not watching the floor. She was watching their faces, the way she always watched the faces beside her on these afternoons, and from the east tier Cael saw her turn her head and say something short to the woman on her left, who nodded slowly, twice, and took a small book out of her coat and wrote in it.
+In the west gallery Withrow had not stood. She sat as she had sat all afternoon, upright and white-haired, with her two Ostrand guests on their feet on either side of her, clapping. She was not watching the floor. She was watching their faces, the way she always watched the faces beside her on these afternoons, and from the east tier Cael saw her turn her head and say something short to the woman on her left, who nodded slowly, twice, and took a small book out of her coat and wrote in it.
 
 And in the brass of the lamp, high on the east side, in the shade, a small figure with something pale against its chest had not moved at all, through any of it. Cael saw that without looking for it, and let it go.
 
@@ -192,7 +192,7 @@ When she stopped, the lamp hissed.
 
 "And it was you."
 
-"It was the first time anybody on that sheet was able to." She said it without any pride, the way she would have told him the time. "That's an ugly thing to find out about where you live."
+"It was the first time anybody on that sheet was able to." She said it without any pride. "That's an ugly thing to find out about where you live."
 
 Karis had the pencil out. "May I write it down? Exactly as you said it."
 

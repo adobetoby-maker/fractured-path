@@ -10,7 +10,7 @@ Ten days. The oil on Fiske's boards had been ten days ago, and the click with it
 
 She sat up in two stages, because one stage was no longer on offer, and put her good foot on the floor first.
 
-The bad leg swung round after it, and took her. The first half arrived the ordinary way. The second half came a breath later, as though the hip had to be asked twice, and she felt it consider the question before it said yes.
+The bad leg swung round after it, and took her. The first half arrived the ordinary way. The second half came a breath later, and she felt the hip consider the question before it said yes.
 
 Two stages, then: that was today's answer, and no amount of waiting for the fourth bell would change it.
 
@@ -42,9 +42,9 @@ She took the stair a step at a time, with the rail doing half the work.
 
 The other three were at the long table in the common room. Nobody said good morning, which she was grateful for.
 
-Brom was eating porridge in the steady, joyless way he ate before a bout, as though it were a duty to the spoon. He did not look at her leg. She saw him not look at it. Somebody had told him not to, and she knew exactly who.
+Brom was eating porridge in the steady, joyless way he ate before a bout. He did not look at her leg. She saw him not look at it. Somebody had told him not to, and she knew who.
 
-Karis had the marbled book open beside her bowl. When Lira sat down, Karis reached under her chair without a word and brought up the two practice batons, still tied together in the middle with Lira's own hip bandage, in the ugly knot Lira had pulled tight nine days ago.
+Karis had the marbled book open beside her bowl. When Lira sat down, Karis reached under her chair and brought up the two practice batons, still tied together in the middle with Lira's own hip bandage, in the ugly knot Lira had pulled tight nine days ago.
 
 "Receipt," said Karis, and drew a line through her entry in the marbled book. "Returned in the condition received. I've been sleeping with them under my chair like a dog."
 
@@ -92,7 +92,7 @@ He climbed to his own place anyway. East tier, a third of the way up, on the sam
 
 He had turned the question over before he slept, whether to sit somewhere else, and kept coming back to the same answer. A new seat would say that today was not like other days, and the whole hill knew that already without his seat saying it too.
 
-It was ledger day twenty-one, and he had been holding since before he opened his eyes. The hold lay where he had set it in the dark, one corner of his attention bent inward and kept there, like a hand kept flat on a table so that the cloth will not slide.
+It was ledger day twenty-one, and he had been holding since before he opened his eyes. The hold lay where he had set it in the dark.
 
 It weighed a little more this morning than yesterday. Every morning it did, and every evening a little more again.
 
@@ -126,7 +126,7 @@ Two years the Copper Crown had sat on her shelf. Within the hour somebody else w
 
 The delegation came a little after her.
 
-Nobody had told the yard to keep the north tier's second row clear. It had kept it clear all the same, the way a crowd leaves a wide ring round a cart it does not trust.
+Nobody had told the yard to keep the north tier's second row clear. It had kept it clear all the same.
 
 First the counsel, talking over her shoulder, and then the two clerks, and then Ilsev, making a desk of the case across her knees. Last came the Archmarshal in his plain road grey, who took the middle of the row and sat.
 
@@ -140,9 +140,9 @@ With that, he put the whole north tier out of his mind on purpose, and kept it o
 
 He let the read up, too. That was a choice, and he made it with his eyes open.
 
-For nine days he had kept the read at its thinnest layer, because the reach at depth and the hold were paid out of one purse, and the purse was shallow. This afternoon, though, no one on the bluff would spare him a look. Every eye in the yard, the Archmarshal's among them, would be on the oak.
+For nine days he had kept the read at its thinnest layer, to spare the hold. This afternoon, though, no one on the bluff would spare him a look. Every eye in the yard, the Archmarshal's among them, would be on the oak.
 
-So he kept the hold exactly where it was, and took his hand off the read, and let it rise and see.
+So he kept the hold where it was, and took his hand off the read, and let it rise and see.
 
 ---
 
@@ -176,7 +176,7 @@ He looked at the north door instead, where the girl would come out.
 
 He knew her only from paper, and from corridors. On paper she was Wind, Copper, Rank Two, on a certificate three years old that nobody had looked at since.
 
-In the corridors this week she had been a girl walking very carefully on a bad leg and refusing, with her whole body, to be seen doing it. He had stepped aside for her once in the covered walk. She had thanked him the way you thank a door.
+In the corridors this week she had been a girl walking very carefully on a bad leg and refusing, with her whole body, to be seen doing it. He had stepped aside for her once in the covered walk. She had thanked him without looking at him.
 
 Now she was the top line of the Copper column, and the whole bluff had come to see her fight.
 
@@ -184,13 +184,13 @@ There was a thing he had not done that morning at Ardenmere. Somebody had held o
 
 He had thought about that pear more often since than any grown man should think about fruit. Sitting on the warm stone with nothing in his hands, he understood that this was a little like the pear. It was a thing he would like to have, and could not quite reach, and would not try to explain to anybody.
 
-He had asked himself on the stair, quite plainly, why he had come, and had got no better answer than that he wanted to. It was not a reason a records officer was trained to accept. He had accepted it anyway, and climbed the rest of the stair, and found the end seat free as if somebody had kept it for him.
+He had asked himself on the stair, quite plainly, why he had come, and had got no better answer than that he wanted to. It was not a reason a records officer was trained to accept. He had accepted it anyway, and climbed the rest of the stair, and found the end seat free.
 
 Along the row the Archmarshal shifted once, to settle the notebook more squarely on his knee, and was still again. Havel had sat at the same tables as that man since the road and had not heard him say thirty words that were not about a sheet of paper.
 
 What the notebook was for, he couldn't say. He did not want to know, particularly. A man who had spent his whole working life at the end of tables, writing down exactly what other people said, learned early that there were notebooks it was wiser not to wonder about. He had kept to that lesson through every posting he had ever had, and he kept to it now.
 
-Down on the boards a porter was sweeping the last of the dust from round the chalk marks with a long soft broom, slowly, the way a man sweeps a step before a wedding. Havel watched him do it and found he was enjoying it, which surprised him. He could not remember the last time he had sat anywhere without a sheet of paper on his knee and a pen expecting things of him. His right hand, which ached in the web of the thumb by the end of every long sitting, lay open and quiet on his thigh, and for once nothing in it hurt.
+Down on the boards a porter was sweeping the last of the dust from round the chalk marks with a long soft broom, slowly. Havel watched him do it and found he was enjoying it, which surprised him. He could not remember the last time he had sat anywhere without a sheet of paper on his knee and a pen expecting things of him. His right hand, which ached in the web of the thumb by the end of every long sitting, lay open and quiet on his thigh, and for once nothing in it hurt.
 
 He would watch, and that was all. He would go back down the stair afterward and be a records officer again, and nothing would be written anywhere to say he had climbed it.
 
@@ -218,7 +218,7 @@ She thought about Brom's number and put it away again, unplanned, where it belon
 
 Then she opened her eyes and walked out into the light.
 
-The sound hit her the way heat hits you when the furnace door opens: a solid, whole thing, everywhere at once. She did not hurry through it. Her pace to the chalk was her own, and slow today, and the yard saw it, and part of the noise turned.
+The sound hit her like the heat at an opened furnace door: a solid, whole thing, everywhere at once. She did not hurry through it. Her pace to the chalk was her own, and slow today, and the yard saw it, and part of the noise turned.
 
 Leading foot first, she took the chalk. The weight came down onto it in two halves, as it had in her room, with a small considering gap between them.
 
@@ -278,7 +278,7 @@ The question was the seam, whose address was common knowledge; nine of them had 
 
 When Brom took a blow on hardened skin, he took it superbly, and then there was a pause, short as a hiccup, while the taking finished and before the answer began. For that sliver of time there was nobody home behind the iron.
 
-Lira had been walking in through that pause for two years. She knew its every inch the way you know the stair in your own house in the dark.
+Lira had been walking in through that pause for two years. She knew its every inch.
 
 The first time, she asked plainly. She came in low off the chalk with a straight line at his lead thigh, not fast, meant to be taken, and as his skin went hard to take it she was already slipping round toward his open side, to be there when the pause opened.
 
@@ -294,7 +294,7 @@ Lira skipped back out of it, light, unhurt, with her eyebrows up.
 
 She asked again. This time she came at an angle, and halfway in she shifted her weight from one foot to the other, so that the blow would land a fraction late and stretch the pause out longer.
 
-It was lovely work, and good fighters had lost to it. Brom took the late blow and answered it on time, as if the lateness had been written on a card and handed to him beforehand.
+It was lovely work, and good fighters had lost to it. Brom took the late blow and answered it on time.
 
 The third time, Cael made a sound out loud, and only knew he had when Karis looked at him.
 

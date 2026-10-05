@@ -88,7 +88,7 @@ Karis put the notebook back in the satchel and buckled it before she answered.
 
 They put the last three volumes into the run between them, each into its pencilled place. Karis took the key from its nail and locked the door behind them and tried the handle twice, and then hung the key on her own wrist by its string, to give back to Bracken in the morning.
 
-At the end of the records hall she stopped and turned to him. For a moment she seemed about to say something more, and then she seemed to decide against it. She only put her inky hand flat on his sleeve for a moment, the way she had laid it on the closed directive, and took it away.
+At the end of the records hall she stopped and turned to him. She seemed about to say something more, and then to decide against it. She only put her inky hand flat on his sleeve, the way she had laid it on the closed directive, and took it away.
 
 "Thank you for the wall," she said. "You held it."
 
@@ -104,7 +104,7 @@ He stood for a while in the dark under the covered walk's north arch, where the 
 
 Nobody had asked him to straighten it. Nobody would check it until noon, when the bursar's clerk came to copy it down for his quarrel with the chandler. The boy did it anyway, because it was his slate and he wanted it right.
 
-Cael watched him do it and felt something he could not have put a name to; it was not quite comfort, but nearer to the feeling of finding, in a strange house, one door that opened the way doors ought to open.
+Cael watched him do it and felt something he could not have put a name to; it was not quite comfort, but it was near it.
 
 "Evening," said the boy, seeing him.
 
@@ -122,7 +122,7 @@ He finished the movement before he looked up. He always finished the movement.
 
 "Sound. Ilsev stood up and said it."
 
-Brom thought about that. Then he reached out and knocked twice with his knuckles on the floorboard beside him, softly, the way a man knocks on a door he does not need to open.
+Brom thought about that. Then he reached out and knocked twice with his knuckles on the floorboard beside him, softly.
 
 "Huh," he said, which from Brom was a celebration.
 
@@ -154,7 +154,7 @@ The lamp was low and the hour was late when Cael sat down at the window, and the
 
 *3. What I'm not going to do. Argue from it. A warden spent two years building cases against me out of things that looked alike. A closed list and a plain reading finished him. I'm not going to start doing it his way in the very week the list held.*
 
-He stopped there with the pen lifted. Down the bluff, the dark river kept on going. At the hour, down at the ferry landing, the two grey coats changed under their lamp on the bell, as they had changed every four hours since the bridge, as if there had never been a delegation on the hill at all.
+He stopped there with the pen lifted. Down the bluff, the dark river kept on going. At the hour, down at the ferry landing, the two grey coats changed under their lamp on the bell, as they had changed every four hours since the bridge.
 
 Then he wrote the fourth part, which was his own. It had been coming toward him all term, a step at a time, from somewhere a long way off, and tonight it had arrived.
 

@@ -222,7 +222,7 @@ He took her place at the post and gave Brom a dozen feeds, honest and empty mixe
 
 Brom came at him with his big hands open. The read laid his weight on Cael's forearm, left, then round, then dropping, and every time it laid it there in time. Not early, the way it had never been early. But on time, a full pace and a half, the old comfortable margin, the room he had lived in for two years without ever once noticing it was a room.
 
-He stopped and stood still at the post for a moment, and found his hands were not quite steady.
+He stopped and stood still at the post, and found his hands were not quite steady.
 
 "Back?" said Karis, who had been watching his face instead of the feeds.
 

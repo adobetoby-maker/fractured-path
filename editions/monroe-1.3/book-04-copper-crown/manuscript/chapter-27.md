@@ -24,7 +24,7 @@ THE CORE MUST BE FREE BEFORE DECLARATION. CHECK THE PIN.
 
 It was the Third-day before the fifteenth session, a supervised day, and his hour fell at the sixth bell.
 
-He had been seventeen days without counting. It came to him the way a dripping tap that has stopped comes to a man: not as a fact, but as a kind of quiet in the place where the fact used to be. His attention lay on the floor in front of him, whole and still.
+He had been seventeen days without counting. It came to him not as a fact but as a kind of quiet in the place where the fact used to be. His attention lay on the floor in front of him, whole and still.
 
 The Ash instructor had his sheet. She had read his drill through twice at the start of the hour, the way she read everything, and initialled it, and then gone to the south end of the hall where two second-years were learning a rope frame. Three more enrollees had the south bays, two at falls and one at a wall drill. A floor porter stood in the near doorway leaning on a broom he was not using. At the wall table by the west end, the teaching assistant from the assessment wing was gathering the week's dial sheets into a stack, as somebody from the wing did every Third-day.
 
@@ -70,7 +70,7 @@ He never chose the second.
 
 The swelling broke off the pad's face like a wave off a seawall.
 
-It met his forearm, and Reydan's fragment woke at the touch, as it always woke, without being asked. The blow went into him like a hammer into a bell. Only he did not ring. He hummed, and the hum ran away down through him: along the bones of the arm and across the shoulder, down his ribs and hip and both legs and out through his heels into the boards. For the length of that hum he was nothing but a road for it to travel.
+It met his forearm, and Reydan's fragment woke at the touch, as it always woke, without being asked. The blow went into him and he did not ring. He hummed, and the hum ran away down through him: along the bones of the arm and across the shoulder, down his ribs and hip and both legs and out through his heels into the boards. For the length of that hum he was nothing but a road for it to travel.
 
 The boards were oak on bearers, and they took it, and then they handed some back.
 
@@ -82,7 +82,7 @@ It was all that counted. Whatever had been bound for a third-year's breastbone w
 
 Then the landing beat had him.
 
-He had sent the framework forward, so the half-breath of locked arrival set him down exactly where he had gone: at the near face of the column, standing in the path the force had come along, unable to step or twist or lift a hand. For that half-breath he was a boy standing in front of a jammed post with nothing he could do. If anything else had been coming out of it he would have had to take it standing.
+He had sent the framework forward, so the half-breath of locked arrival set him down where he had gone: at the near face of the column, standing in the path the force had come along, unable to step or twist or lift a hand. For that half-breath he was a boy standing in front of a jammed post with nothing he could do. If anything else had been coming out of it he would have had to take it standing.
 
 Nothing else came. Whatever Jask had built, he had built once, and it was gone.
 
@@ -112,7 +112,7 @@ Then she turned round on her knees and did all of it again to Cael. *Squeeze.* H
 
 One second-year was off toward the warden's shed before the instructor had finished the word *warden*. The porter, sent to the wing for the duty clerk, went with his broom still on his shoulder. She moved everybody back out of the north bay with a single flat word, and nobody touched the post. One of the second-years, coming back, stood in front of it and read the brass plate aloud, every word, in a voice that was not steady, as though reading it might still help. Nobody had the heart to stop her.
 
-The floor warden came within the quarter-hour: a square grey woman in a leather apron, with oil worked into the creases of her knuckles. She crouched by the plinth without touching anything and looked at the raw shine on the collar for a long time. The word she said then was one Cael had never once heard from staff.
+The floor warden came within the quarter-hour: a square grey woman in a leather apron, with oil worked into the creases of her knuckles. She crouched by the plinth without touching anything and looked at the raw shine on the collar. The word she said then was one Cael had never once heard from staff.
 
 "That pin went in before I came here," she said, straightening, to nobody in particular. "Nine years. It's passed every inspection since, and passed them honestly; I stood and watched the last one done myself." She tapped the collar with one fingernail, very lightly. "That's tired metal. It gets tired inside where nobody can see, and then one day it's had enough. And if one of these has had enough, I'd not trust a single other pin on this hill."
 
@@ -126,9 +126,9 @@ Last of all he looked at Cael, still on one knee with his arm held against his c
 
 Rooke considered that for the length of a breath.
 
-"Most people go away from a thing like that," he said. "Even the quick ones. Especially the quick ones." Whether it was praise, Rooke left unsaid. He turned to the warden and asked her one question about the pin, quietly, and listened to the answer with his whole attention, and went out again without another word to anybody. Cael found afterward that of everything said to him that afternoon, it was the one sentence he kept turning over.
+"Most people go away from a thing like that," he said. "Even the quick ones. Especially the quick ones." Whether it was praise, Rooke left unsaid. He turned to the warden and asked her one question about the pin, quietly, and listened to the answer with his whole attention, and went out again. Cael found afterward that of everything said to him that afternoon, it was the one sentence he kept turning over.
 
-The warden chained the north bay's second post where it stood and sent the porter, back from the wing, to do the same to the two in the north hall. Then she stood looking round the hall at all of them with her hands on her hips, as though counting what she had nearly lost, and went to the wall table to write.
+The warden chained the north bay's second post where it stood and sent the porter, back from the wing, to do the same to the two in the north hall. Then she stood looking round the hall at all of them with her hands on her hips, and went to the wall table to write.
 
 Jask came looking for him a little later. Ordered to sit for an hour, he had lasted ten minutes.
 
@@ -140,7 +140,7 @@ Jask stood over him working his jaw.
 
 "About there."
 
-"And then you weren't." Jask frowned at the flags of the passage, as if he might find the distance written on them. "How?"
+"And then you weren't." Jask frowned at the flags of the passage. "How?"
 
 It was the most natural question in the world, from a decent man, and it had come a quarter of an hour sooner than Cael would have liked. He knew this question, and he had a rule for it older than the Log. Say something true. Say it flat. Stop before it is finished. A made-up answer had to be carried about and remembered for the rest of one's life. A true one, cut short, weighed nothing.
 
@@ -182,9 +182,9 @@ From each dot he ruled a short line to show which way its face had been turned.
 
 Seven lines ran anywhere but toward the post. One pointed at a needle.
 
-Then he put in the ninth dot, the one he had been leaving till last, at the wall table by the west end, and ruled its line, and the line ran eleven or twelve paces across open boards, with nothing in the way, straight into the bay.
+Then he put in the ninth dot, the one he had been leaving till last, at the wall table by the west end, and ruled its line, and the line ran a dozen paces across open boards, with nothing in the way, straight into the bay.
 
-For a long while he only looked. Then he wrote, slowly, under the drawing.
+He only looked, at first. Then he wrote, slowly, under the drawing.
 
 *Wind-adjacent, one deployment, sent forward into a live hazard. Every time I've done that before, I called it a mistake, because every time I did it there was nothing at the end worth going toward. Today there was. The framework, then: it goes where it's sent. It never preferred away. I preferred away, three years, because away was the only direction I ever had a reason for. It cost what it always costs: the toll going in, the landing coming out, a little of the hip. Plus a price I'd never paid, because I'd never sent it into anything live: the landing put me down inside the line, in front of the post, unable to move. Today the post was empty. On a different day it might not be.*
 
@@ -198,7 +198,7 @@ He stopped, and looked at the ninth dot, and then went on.
 
 *Eight of the nine had their faces turned away, or had their eyes on a needle. What they'll carry away is a clatter, a shout, and a third-year sitting on iron. Jask has a boy who was by the wall and then wasn't. He'll tell it in the refectory for a month and it'll grow every time, and it won't matter, because a story about a quick boy is a story everyone has heard before.*
 
-*The ninth had his face turned toward us. Eleven paces, open floor, nothing between. Gault has my baseline: one morning, six trials. This man has watched every supervised hour for twelve weeks. Nobody alive knows the size of what I do better. Afterward he never once looked my way, the whole quarter-hour, and I never looked his. I didn't need to look to know where his face had been.*
+*The ninth had his face turned toward us. A dozen paces, open floor, nothing between. Gault has my baseline: one morning, six trials. This man has watched every supervised hour for twelve weeks. Nobody alive knows the size of what I do better. Afterward he never once looked my way, the whole quarter-hour, and I never looked his. I didn't need to look to know where his face had been.*
 
 *So he knows. He doesn't know what I am. A blink won't tell anybody that. But he knows that what my baseline says and what happened at that post are different sizes. That's what he was sent here to find out. Today, he found it.*
 

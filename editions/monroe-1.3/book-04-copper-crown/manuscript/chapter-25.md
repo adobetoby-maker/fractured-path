@@ -34,7 +34,7 @@ Karis leaned over to read it upside down, as she always did.
 
 "Three's a structure." He looked at the line. "It goes in *probable* tonight. It goes in *confirmed* the first time it holds under something that isn't a post. A post is a friend. I want it to hold against something that doesn't care about me."
 
-Brom wiped his forearms on his shirt and frowned at the post as if it had said something.
+Brom wiped his forearms on his shirt and frowned at the post.
 
 "Explain it to me like I'm a carter," he said. "Not like I'm Karis."
 
@@ -56,7 +56,7 @@ Brom considered this with great seriousness.
 
 "That's the most insulting thing anybody's ever told me," said Brom happily. "I'm going to tell Merrick."
 
-"That's a very high standard," said Brom, when he had finished laughing at himself, "for a thing that's been right three times."
+"That's a very high standard," Brom added, when he had finished laughing at himself, "for a thing that's been right three times."
 
 "It's the standard I'd hold anybody else's read to." He closed the Log. "And the next time I need it, I don't think it'll be at a post."
 
@@ -92,7 +92,7 @@ The morning after the final, the same hand would chalk the same six letters. No 
 
 She noticed, after a while, that she was standing with her weight square on both feet.
 
-She never stood like that. Most days she lived on the ball of one foot, poised to be somewhere else. She noticed her breath too: slow, even, a little too even, the breath of somebody holding a thing level in both hands so it would not spill. She knew exactly what she looked like. She had seen Cael read it off strangers in the Ironyard and write it in his book. *Managed breath. Expensive. Costing her something.*
+She never stood like that. Most days she lived on the ball of one foot, poised to be somewhere else. She noticed her breath too: slow, even, a little too even. She knew what she looked like. She had seen Cael read it off strangers in the Ironyard and write it in his book. *Managed breath. Expensive. Costing her something.*
 
 Behind her, on the north stair, somebody stopped.
 
@@ -138,7 +138,7 @@ He read it twice. It was a good page, with six bouts' worth of evidence under it
 
 All the same, he went down to the practice rings the next afternoon to look at the man once more, because a page was a promise and he liked to see a promise kept before he handed it to anybody.
 
-The Shield fifth-year was on the second ring with a Current second-year who had asked him for a bout, which happened, Cael gathered, rather often. The older students sent their juniors to him the way a smith sends an apprentice to the oldest anvil in the shop, to learn what it is to strike something that does not move. He fought the second-year exactly as he fought the ladder. At the instructor's word he took a long breath, and planted his feet one after the other, and the pane came up glassy and wide off his left forearm, and then he waited. The Current girl waited too, for a while, politely. Then she tried to ride round the pane's edge on her own current, and he turned it a hand's breadth, no more, and she went round it into nothing and sat down on the boards.
+The Shield fifth-year was on the second ring with a Current second-year who had asked him for a bout, which happened, Cael gathered, rather often. The older students sent their juniors to him to learn what it is to strike something that does not move. He fought the second-year just as he fought the ladder. At the instructor's word he took a long breath, and planted his feet one after the other, and the pane came up glassy and wide off his left forearm, and then he waited. The Current girl waited too, for a while, politely. Then she tried to ride round the pane's edge on her own current, and he turned it a hand's breadth, no more, and she went round it into nothing and sat down on the boards.
 
 He helped her up and said something to her, quietly, and pointed at her feet. She nodded and went back to her chalk and tried again, and sat down again, and laughed.
 
@@ -150,7 +150,7 @@ That evening he gave it to Lira on the wall behind the second quadrangle. She re
 
 "But."
 
-"No but. It's a good page." She looked out at the ferry landing, where two grey coats stood under their lamp exactly where two grey coats always stood. "I'll think about it."
+"No but. It's a good page." She looked out at the ferry landing, where two grey coats stood under their lamp where two grey coats always stood. "I'll think about it."
 
 From Lira, that was not agreement. He knew it was not, and he did not press, because it was her bout.
 
@@ -182,7 +182,7 @@ Her second burst went left, along the pane's face, while his right foot was stil
 
 Cael counted from the table's word to the touch, and it was about eight seconds, and in the eight seconds she had spent four bursts. Four held half-breaths, none of them given back. Four landing beats, each one a half-breath when a Shield fighter with a set pane could have put her on the boards if the pane had been set. It had not been set once.
 
-He felt every one in his own leading hip, forty feet up. By the third he was feeling the line draw itself from crest to knee, and he knew exactly what it would look like on her tonight.
+He felt every one in his own leading hip, forty feet up. By the third he was feeling the line draw itself from crest to knee, and he knew what it would look like on her tonight.
 
 The Shield fifth-year went back to his chalk slowly, and stood there looking at the floor, not at her.
 
@@ -208,7 +208,7 @@ He found her on the north stair, three steps from the bottom, sitting. Her left 
 
 "You were going to look like that." She shut her eyes. "Sit down. Out of the way. Somebody'll come."
 
-He sat two steps above her, out of the way. He kept his hands on his knees. With the yard forty feet behind the arch, any hand held out to her would have been an insult. After a while Brom came through, and saw them, and without a word turned round and stood in the archway with his back to them and his arms folded, looking out into the yard like a man waiting for a friend who was late. Nobody came through the arch for the next quarter of an hour.
+He sat two steps above her, out of the way. He kept his hands on his knees. With the yard forty feet behind the arch, any hand held out to her would have been an insult. After a while Brom came through, and saw them, and turned round and stood in the archway with his back to them and his arms folded, looking out into the yard like a man waiting for a friend who was late. Nobody came through the arch for the next quarter of an hour.
 
 When she could stand she stood, and went up the stair one step at a time with her hand on the wall, and limped all the way to the residence, and Cael walked beside her and talked about the weather.
 
@@ -246,7 +246,7 @@ Karis had brought a basin of cold water and a cloth from the wash-house and set 
 
 "It's both," said Brom, from the big chair. "That's how you know it was Lira."
 
-Karis wrung out the cloth and folded it fresh and laid it back over the hip without a word, and Lira let her, and for a while nobody said anything at all. Cael sat and looked at the four bursts in his own Log, written in his own hand on the wrong page, and thought that a wrong page with the right result was perhaps the most useful thing he owned that week, and that he would rather have been right.
+Karis wrung out the cloth and folded it fresh and laid it back over the hip, and Lira let her, and for a while nobody said anything at all. Cael sat and looked at the four bursts in his own Log, written in his own hand on the wrong page, and thought that a wrong page with the right result was perhaps the most useful thing he owned that week, and that he would rather have been right.
 
 "Four bursts," said Karis at last, to the basin. "In eight seconds. Is that allowed?"
 
@@ -290,4 +290,4 @@ He waited.
 
 "Then they'll lose, and I'll have watched that too." She stopped walking at last and stood with her weight on the ball of her right foot, where it belonged. "I'm not going to take the brass off her limping, Cael. Not her. If I'm going to do it, I'm going to do it whole, with everything, in front of everybody, so she knows exactly what it was."
 
-He wrote it down that night, under her name, with the date: *Will send it up at the fifteenth. Her reasons, in order: the hip; four more pages; not to be seen in a hurry.* Then, under it, smaller: *The fourth reason she didn't give, and didn't need to.*
+That night it went under her name, with the date: *Will send it up at the fifteenth. Her reasons, in order: the hip; four more pages; not to be seen in a hurry.* Then, under it, smaller: *The fourth reason she didn't give, and didn't need to.*

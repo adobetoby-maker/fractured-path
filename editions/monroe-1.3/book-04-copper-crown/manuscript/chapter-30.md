@@ -8,7 +8,7 @@ He found nothing wrong with it, which was what made him uneasy. Sound conclusion
 
 So on the tenth night he fastened the shutter of his room on the staff corridor, turned the lamp down to a bead, and went over the argument one step at a time, as he would have gone over somebody else's.
 
-First step: the service depended not on its officers being honest but on its files being complete, because officers were posted, promoted and buried while the file outlived them all, and a gap in it was therefore a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet exactly where things got interesting, and ask him why.
+First step: the service depended not on its officers being honest but on its files being complete, because officers were posted, promoted and buried while the file outlived them all, and a gap in it was therefore a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet just where things got interesting, and ask him why.
 
 Second step. Gaps were always found; he had spent two years of his youth at a long table up the coast finding them. When one was found, the officer's whole defense was what he had known, and when; silence alone could sometimes be explained, but silence with nothing kept behind it left a man only his word, and he had twice watched what a covered man's word was worth at an inquiry. It was worth the paper it was not written on.
 
@@ -56,7 +56,7 @@ What lay beneath them he did not lift or count. None of it had been wanted in ye
 
 He locked it and slid everything home. Then, still kneeling, he took from his satchel four carbons he had drawn from the wing's drawer at locking-up, which nobody else ever opened.
 
-One was from his first month on the bluff. The rest were the three he had walked to the fish steps since the pin. He laid them in a row on the floorboards, the way a man lays out cards for patience.
+One was from his first month on the bluff. The rest were the three he had walked to the fish steps since the pin. He laid them in a row on the floorboards.
 
 *Subject's routine unchanged. Four supervised floor hours weekly. Attends every ladder session. Associates unchanged. Private notation continues.*
 
@@ -74,13 +74,13 @@ Long ago, at the long table up the coast, he had taught a room of new auditors w
 
 He put the carbons back in his satchel in their proper order. He knew how they would look to a reader with better access. He had known it on each of the three nights he walked them down the hill.
 
-He had filed them anyway. It came to him the way a man finds his boots wearing down along one edge: the fact registers, and is true, and he goes on walking in them. Then he turned the lamp out and slept without trouble until the second bell.
+He had filed them anyway. He knew that as a fact, and it was true, and he went on. Then he turned the lamp out and slept without trouble until the second bell.
 
 ---
 
 Two and two, on the bell.
 
-Cael wrote it in the margin of the observation notebook, under the date, as he had written it every evening and every morning since the pin. He was sitting on the coping of the wall behind the second quadrangle in the grey before breakfast, with his coat buttoned to the throat and Karis's marbled log open on the stone beside him. Down on the river street the relief had just walked up to the ferry landing, two grey coats coming and two going. They had nodded to each other like shopkeepers at the change of a shift, and the two going had turned for the town without looking back.
+Cael wrote it in the margin of the observation notebook, under the date, as he had written it every evening and every morning since the pin. He was sitting on the coping of the wall behind the second quadrangle in the grey before breakfast, with his coat buttoned to the throat and Karis's marbled log open on the stone beside him. Down on the river street the relief had just walked up to the ferry landing, two grey coats coming and two going. They had nodded to each other at the change, and the two going had turned for the town without looking back.
 
 Eleven days.
 
@@ -104,7 +104,7 @@ Footsteps came along the top of the wall, uneven, a long step and a careful one.
 
 "Because the window can't tell you it's nothing."
 
-"Neither can you." She ate. The hip had let her walk on the third day, as he had guessed it would, and this morning she had stopped pretending it was not there. By the week's end she meant to be back in hall one at a third of her pace, running the sequence on the stone with a face like a locked door. The shoulder that had taken the edge of Fiske's last delivery had come up purple. She carried her satchel on the other side now and had not once mentioned why.
+"Neither can you." She ate. The hip had let her walk on the third day, as he had guessed it would, and this morning she had stopped pretending it was not there. By Third-day she meant to be back in hall one at a third of her pace, running the sequence on the stone with a face like a locked door. The shoulder that had taken the edge of Fiske's last delivery had come up purple. She carried her satchel on the other side now and had not once mentioned why.
 
 Below them the sound of a mallet started up from the far side of the second quadrangle, where Brom's post stood. It was too early for the post. Then a voice that was certainly Karis's said a number, and the mallet stopped.
 
@@ -116,7 +116,7 @@ Below them the sound of a mallet started up from the far side of the second quad
 
 "She came anyway. She stood there and said the date. He says it's the most frightening thing that happens to him all week."
 
-Lira almost smiled. She looked down at the ferry landing, where the two new coats had settled under their lamp, and she was quiet for a time.
+Lira almost smiled. She looked down at the ferry landing, where the two new coats had settled under their lamp, and she was quiet.
 
 "Top line," she said at last, as if trying the words for fit. "Three days on the top line of the Copper standings. I keep going to the board to check it's still true."
 
@@ -198,7 +198,7 @@ A thing that was going to be decided was read to all three at once, with the doo
 
 After breakfast he had an hour before the lecture. He spent it walking.
 
-He went the length of the covered walk and back, past the board. Lira's name stood on the top line with Fiske's brass stud a line below it. The porter had chalked the date of the final in the corner the week before, very small, as though it embarrassed him. He went down the north stair and stepped over the third step without thinking and then, a moment later, thinking. He went out through the arch and along the edge of the yard and stood for a while at the rail above the river. A barge went down with its long note and its two short ones, and was answered from the bend.
+He went the length of the covered walk and back, past the board. Lira's name stood on the top line with Fiske's brass stud a line below it. The porter had chalked the date of the final in the corner the week before, very small. He went down the north stair and stepped over the third step without thinking and then, a moment later, thinking. He went out through the arch and along the edge of the yard and stood for a while at the rail above the river. A barge went down with its long note and its two short ones, and was answered from the bend.
 
 He was trying to work out what he wanted. He did not like the answer.
 
@@ -236,7 +236,7 @@ He had come out of the second landing and drifted, without deciding to, a few st
 
 He stood there long enough to be sure. Then he walked out of it into the middle of the floor, where anybody coming through that door would see him first, and finished the set in the open, all four bursts, under the high windows, in plain view of the Ash instructor and two Stone first-years waiting for the next bay and anybody else in the building who cared to look.
 
-"You went for the wall," said the Ash instructor when he came off the floor. She had not looked up from her book, as far as he had seen. "Halfway through the third. Something on the wall?"
+"You went for the wall," said the Ash instructor when he came off the floor. She had kept her eyes on her book, as far as he had seen. "Halfway through the third. Something on the wall?"
 
 "No," said Cael. "Something in my head."
 

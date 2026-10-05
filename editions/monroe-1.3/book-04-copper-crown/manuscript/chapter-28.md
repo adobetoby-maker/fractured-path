@@ -4,7 +4,7 @@ Of his four hands, the fourth was the one Seln used least and trusted most. The 
 
 The round clerk's script belonged to the copying table, and everybody in the wing had seen it. The quick cramped one was for his own notes, and nobody had. The third, a merchant's sloping hand with a flourish on its capitals, was for wrappers addressed to a cloth house up the coast that had never sold a yard of cloth. The fourth was upright and plain and a little old-fashioned, the hand of a man who had been taught to write by somebody strict, and it was for the product alone. He took it out that night a little after the ninth bell, in his room on the staff corridor, with the shutter fastened and the lamp turned down to a bead.
 
-On the table in front of him lay what the afternoon had left. The warden's draft, which he had copied himself at the wing's long table not two hours since, in the round hand, every word of it, because the wing copied everything. The duty clerk's entry, four lines long: *Hall three, north bay, sixth bell. Apparatus failure, resistance post. No evaluable content. Warden attending.* And the thing that was not on the table, because it was in him: eleven paces of open boards, and what had happened at the far end of them.
+On the table in front of him lay what the afternoon had left. The warden's draft, which he had copied himself at the wing's long table not two hours since, in the round hand, every word of it, because the wing copied everything. The duty clerk's entry, four lines long: *Hall three, north bay, sixth bell. Apparatus failure, resistance post. No evaluable content. Warden attending.* And the thing that was not on the table, because it was in him: a dozen paces of open boards, and what had happened at the far end of them.
 
 A clean sheet. The heading, *Exception report: floor incident*, because any afternoon outside the routine went up under that heading, whatever it was found to contain. The date. His brief's number. Then, before he wrote a word of the body, he did what he always did before a report that mattered, and called up the auditor.
 
@@ -16,7 +16,7 @@ He had stood with the dial sheets against his chest and watched a post lock at t
 
 In fifteen years he had never seen anybody get anywhere that fast, at that size, in that direction, toward the danger and not away. And then the boy's arm had taken the return the way a stone quay takes a barge coming in too fast: it had not given, and it had not broken, and the force had gone on down through the boy into the boards. Two things, at the least, and the file's classification had a name for neither.
 
-His brief had categories, as every brief did. The second of them was the one the whole posting existed to fill, if it ever needed filling: *observed capability materially in excess of the subject's documented baseline.* Seln had filed under it eleven times in fifteen years. Eleven times he had been right. Eleven people had gone, afterward, into files further up the coast that he had never been shown and had never asked to see.
+His brief had categories, as every brief did. The second of them was the one the whole posting existed to fill, if it ever needed filling: *observed capability materially in excess of the subject's documented baseline.* Seln had filed under it seven times in fifteen years. Seven times he had been right. Seven people had gone, afterward, into files further up the coast that he had never been shown and had never asked to see.
 
 He dipped his pen and wrote.
 
@@ -34,7 +34,7 @@ Gault's office had filed the baseline in the boy's first weeks, and it had been 
 
 So the young man found, on record, a boy who could move suddenly and could take a blow on his arm. In the report he found a boy who had moved suddenly and taken a blow on his arm, and a closing sentence saying the two agreed. Nothing quarrelled, and the red pencil did not move.
 
-Next he weighed it. He had a habit, Seln remembered, of lifting a report in his palm before he read it closely, as though he could feel its heft through the paper. He had learned in his first month that frightened officers wrote thin. A man with something to hide wanted to give the machine as little as he could, and so on the days that most needed a full account he sent up three lines and a signature. Seln had caught two men that way himself, at that long table, by nothing more than the thinness of what they sent on a busy day.
+Next he weighed it. He had a habit, Seln remembered, of lifting a report in his palm before he read it closely. He had learned in his first month that frightened officers wrote thin. A man with something to hide wanted to give the machine as little as he could, and so on the days that most needed a full account he sent up three lines and a signature. Seln had caught two men that way himself, at that long table, by nothing more than the thinness of what they sent on a busy day.
 
 So this report was not thin. Apparatus, cause, setting, the drill, the instructor's signature, the outcome, the warden, the posts, the pins, the enclosures. The young man hefted it in his imagined hand and set it down satisfied. It weighed what a day like that ought to weigh.
 
@@ -44,7 +44,7 @@ That was the hardest test, and the one Seln had been proudest of passing other m
 
 This report was warm about the pin.
 
-It lingered on the shear and the setting, the core and the collar, the warden coming within the quarter-hour, every post on the bluff withdrawn, every pin in the academy to be inspected and replaced. It was warm about the institution, and the young man would have nodded at that. Naturally the writer cared about the institution. It was what a man in an assessment wing was best placed to see. And an academy finding a flaw in nine years of its own apparatus was exactly the weather the analysts liked best.
+It lingered on the shear and the setting, the core and the collar, the warden coming within the quarter-hour, every post on the bluff withdrawn, every pin in the academy to be inspected and replaced. It was warm about the institution, and the young man would have nodded at that. Naturally the writer cared about the institution. It was what a man in an assessment wing was best placed to see. And an academy finding a flaw in nine years of its own apparatus was the weather the analysts liked best.
 
 And it was true. That was the whole of the art, and the young man with the red pencil had never understood it, because he had only ever been on the reading side of the table. A gap in a report did not survive because it was well hidden. It survived because every word around it was real.
 
@@ -70,7 +70,7 @@ At the foot of the last bend, by the toll board, two grey coats stamped under th
 
 Halfway along the river street it began to rain. It was a fine cold rain that did not so much fall as gather on him, on his shoulders and the brim of his hat and the backs of his hands. It was still gathering when he paid the courier's clerk by the fish steps from his own purse and watched the packet go into the canvas sack. It was still gathering an hour and ten minutes after he had left, on the last bend going up. He had made that walk five times this term and never once minded it, and he did not mind it now.
 
-It was past the eleventh bell when the duty key turned in the wing's side door. There was a week's ledger of floor hours waiting, to be added up and set against the instructors' sheets before morning.
+It was past the tenth bell when the duty key turned in the wing's side door. There was a week's ledger of floor hours waiting, to be added up and set against the instructors' sheets before morning.
 
 He added it up, four long columns, and got it right.
 
@@ -98,7 +98,7 @@ Nobody said anything for a while when he had finished.
 
 "Like a bell after somebody's stopped ringing it. It hasn't stopped." He moved the fingers of his left hand to show her they moved. "It's not the ordinary ache. I don't know what it is yet. I've written it down."
 
-Lira turned round then and looked at the arm, and then at him, for a long time, and he watched her decide not to say any of the first four things she wanted to say.
+Lira turned round then and looked at the arm, and then at him, and he watched her decide not to say any of the first four things she wanted to say.
 
 "Jask's walking about," she said instead.
 
@@ -150,9 +150,9 @@ Karis came out to the wall that evening with her own log, which she had kept sin
 
 "This is what nothing looks like," said Karis. "I wanted you to see it written down before you start reading something into the next pie."
 
-He studied the columns, which were steadier than his. She had been counting the coats for exactly as long as he had and had never once told him so.
+He studied the columns, which were steadier than his. She had been counting the coats for as long as he had and had never once told him so.
 
-On the morning of the fourth day he woke, and lay still before getting up, and took stock of himself as he did before anything that mattered, and found the hum in his forearm gone. It had not faded. It had simply stopped, sometime in the night, the way a sound stops that has been going on so long you have forgotten to hear it, and the arm under it was only an arm again, a little stiff, a little bruised along the outer bone where the sheet had struck. He wrote: *Compression: the hum, gone on the fourth morning. Arm sound.* Then he went out to watch the coats.
+On the morning of the fourth day he woke, and lay still before getting up, and took stock of himself as he did before anything that mattered, and found the hum in his forearm gone. It had not faded. It had simply stopped, sometime in the night, and the arm under it was only an arm again, a little stiff, a little bruised along the outer bone where the sheet had struck. He wrote: *Compression: the hum, gone on the fourth morning. Arm sound.* Then he went out to watch the coats.
 
 Two and two, on the bell.
 
@@ -176,7 +176,7 @@ Lira looked at him sideways.
 
 On the fifth day the minutes of the faculty's session went up on the board by the theater door, as they always did, and Cael read them because he read everything. Under *apparatus*, Rooke had moved that the floor warden's schedule for replacing every pin on the bluff be adopted in full and at once. The bursar had proposed phasing it over a year. Rooke's ground was minuted in his own words: *the next pin to fail will not wait for the bursar's year*. The motion was carried. Under it, in Bracken's own hand, was a note that the registrar's office would find the money from the reserve within a fortnight and would account for it at the next session.
 
-Jask's story, meanwhile, had grown in the refectory queue exactly as Cael had known it would. By the sixth day the assay boy had crossed the whole hall. By the seventh he had caught the post as it fell, though it had not fallen, and somebody on the lecture stair was telling it with a third-year flung through the air. Brom reported each version at supper with enormous solemnity, like a man reading out the weather from a far country.
+Jask's story, meanwhile, had grown in the refectory queue just as Cael had known it would. By the sixth day the assay boy had crossed the whole hall. By the seventh he had caught the post as it fell, though it had not fallen, and somebody on the lecture stair was telling it with a third-year flung through the air. Brom reported each version at supper with enormous solemnity, like a man reading out the weather from a far country.
 
 "Today you lifted the post over your head," he said on the seventh evening. "With one arm. The bad one."
 
@@ -204,9 +204,9 @@ Jask stared at him. "How do you know that?"
 
 "I wrote it down. Weeks ago. I write everybody down." He shrugged with his good shoulder. "Turn the dial to the wall for a set. See what you do when you can't see it."
 
-Jask considered this for a long moment with his mouth slightly open, like a man being handed back a coin he had not known he had dropped.
+Jask considered this with his mouth slightly open.
 
-His mouth stayed open a moment. "Odd thing to know about somebody."
+"Odd thing to know about somebody."
 
 "I know," said Cael. "I'm the assay one."
 
@@ -254,7 +254,7 @@ Cael had never seen it full, though he had seen it crowded, for Nyle and for the
 
 Withrow sat in the west gallery, upright and white-haired, with two people from Ostrand on either side of her whose coats Cael priced, without wanting to, at about a year of residence fees apiece.
 
-He counted, because he could not help counting crowds, the Silver-sheet enrollees he could see on the tiers. Eleven. There had not been more than two at any Copper bout all season.
+He counted, because he could not help counting crowds, the Silver-sheet enrollees he could see on the tiers. Twelve. There had not been more than two at any Copper bout all season.
 
 He did not look for the man with the forms. Twenty-five days now he had kept his eyes off the man. But the brass hood of the lamp hung where it always hung, at the edge of his eye. In its curve the upper east tier lay in afternoon shade, and in the shade, third in a knot of six, a small figure stood with something pale against its chest.
 

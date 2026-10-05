@@ -6,7 +6,7 @@ She had decided that on the stair coming up, and it had served her well enough f
 
 A yard was a document like any other. It had a heading and a body and a hand at the foot that signed it, and if you read it in order, and did not skip ahead to the parts that excited you, it would tell you a great deal about itself.
 
-The heading was the table: three faculty, one standing and two behind her with their hands clasped, and the glass between them on its little stand, and under the edge of the stand two folded sheets with seals on them. She had watched the registrar carry them out across the empty boards and lay them there, square to the edge, before the yard had filled. He had walked away again without a word to anybody.
+The heading was the table: three faculty, one standing and two behind her with their hands clasped, and the glass between them on its little stand, and under the edge of the stand two folded sheets with seals on them. She had watched the registrar carry them out across the empty boards and lay them there, square to the edge, before the yard had filled. He had walked away again.
 
 Nobody had told her what they were. She did not need telling. A man does not put a sealed paper under a sand-glass before a contest unless he wishes it to be seen that the paper came first.
 
@@ -24,11 +24,11 @@ Almost directly below Ilsev's knees, in the north tier's front row, the champion
 
 Her hands lay folded on her thigh, and her broad back was perfectly still, and only once, when the girl went down, had her head turned a quarter-inch and come back. Of all the signatures Ilsev had read in her working life, few had been steadier.
 
-Beside Ilsev, on her right, the Archmarshal sat with his notebook closed on his knee and his pen lying across the cover, exactly where he had laid it when he sat down.
+Beside Ilsev, on her right, the Archmarshal sat with his notebook closed on his knee and his pen lying across the cover, where he had laid it when he sat down.
 
 He watched the boards the way he watched a sitting, at an even pace, giving each part its share, and Ilsev did not try to read him. She had stopped trying on the second day of the road. A colleague's face was not her question.
 
-Nor was the boy on the east tier, a third of the way up, beside the Ember girl with the ink on her fingers. Ilsev knew exactly where he was sitting. She had known it since she sat down, as she knew where the doors were. She did not look at him.
+Nor was the boy on the east tier, a third of the way up, beside the Ember girl with the ink on her fingers. Ilsev knew where he was sitting. She had known it since she sat down, as she knew where the doors were. She did not look at him.
 
 Her own question was a long way off by now. Four days ago she had filled a form in eleven minutes and laid it in a tray, and since then it had gone down the bluff in a courier's satchel and up the river, one level higher than the last, to a room she would never see.
 
@@ -76,7 +76,7 @@ There was no burst and no Wind, nothing that cost her a held breath, only feet, 
 
 She walked him round the whole floor like that. Then she began again.
 
-Cael's own forearms ached, watching. He knew exactly what Brom's iron felt like arriving on a guard; he had a month of bruises from the wash-house to prove it.
+Cael's own forearms ached, watching. He knew what Brom's iron felt like arriving on a guard; he had a month of bruises from the wash-house to prove it.
 
 Lira had none of the things that make that bearable, because she had never once trained to be struck, and her whole body had been built round a single idea, which was that being hit meant something had already gone wrong. Each blow she caught travelled up her forearms and lodged in her shoulders. And every backward step came down on the leading leg, on a hip ten days old.
 
@@ -106,11 +106,11 @@ By Cael's private count the exchange had run four minutes and eleven seconds. He
 
 She had stopped pretending. The leading leg took her weight in two halves, and then in three.
 
-On the way she laid the flat of her hand on her own thigh, briefly, the way somebody touches a wall in the dark. He had never once seen her do that on a floor. It meant there was nothing left over for hiding, and she had decided that hiding had stopped being worth its price.
+On the way she laid the flat of her hand on her own thigh, briefly. He had never once seen her do that on a floor. It meant there was nothing left over for hiding, and she had decided that hiding had stopped being worth its price.
 
 Brom had seen it.
 
-He was up and back at his own chalk, rubbing the back of his knee. Cael watched it come over him: the eyes going to her thigh, half a breath of standing quite still, and then something in the shoulders settling, the way a man's shoulders settle when he has finished an argument with himself.
+He was up and back at his own chalk, rubbing the back of his knee. Cael watched it come over him: the eyes going to her thigh, half a breath of standing quite still, and then something in the shoulders settling.
 
 *He'll go for it*, Cael thought.
 
@@ -252,7 +252,7 @@ Cael got down to the floor a quarter of an hour later, through a crowd that did 
 
 "Seventh bell," Lira said, before he could ask anything. "Gault's office. He's filing for me, and Bracken's to bring the papers, and somebody from the delegation's been asked to witness." She winced as the practitioner pressed somewhere she did not like. "I can't do his stair. She won't let me try."
 
-"I won't," said the practitioner, without looking up.
+"I won't," said the practitioner, to the hip.
 
 "So you go." Lira looked at him. "Somebody has to hear it read who knows what it cost. You'll remember every word of it, and you won't turn it into anything it isn't. Tell Gault I named you. He'll want it in writing, so write it."
 
@@ -266,7 +266,7 @@ The note from the assessment office reached Ilsev a little after the sixth bell,
 
 A half-sheet, folded once, in the wing's trained hand. *The assessment office files at the seventh bell, in the Magister's office, an application of the second class. The office invites the senior evaluation seat of the visiting delegation to attend as witness, at her discretion. — Gault.*
 
-She read it twice. Then she set it squarely on the corner of the table and thought about it for exactly as long as it deserved, which was not long.
+She read it twice. Then she set it squarely on the corner of the table and thought about it for as long as it deserved, which was not long.
 
 An application of the second class was an application to a body outside the house. She knew which application this had to be, on this evening, from this office.
 
@@ -290,7 +290,7 @@ Ilsev noted him the way she noted the card on the wall.
 
 "Thank you," said Ilsev, and sat in the chair the clerk had set for her, and opened nothing.
 
-Gault read the application out. Paper of that class had to be heard by its witness as well as signed by her, and he read it in exactly the voice he used for a column of instrument checks.
+Gault read the application out. Paper of that class had to be heard by its witness as well as signed by her, and he read it in the voice he used for a column of instrument checks.
 
 It was the registry's own long form, the one with the blue rule down the margin, and Ilsev could have recited its printed lines in her sleep.
 
@@ -312,7 +312,7 @@ When Gault finished, she asked two questions.
 
 "By the adjudicating instructor," said Gault. "In her own hand, at the table, before she left the yard. Both safety seats have countersigned it. The clerk has copied nothing."
 
-Ilsev nodded once.
+Ilsev nodded.
 
 Those were the only two answers that mattered. A record certified after its result has been told the result. An account written by a clerk is an account of what the clerk was told.
 
@@ -322,7 +322,7 @@ Neither was true of this paper. The paper had been made in the right order, by t
 
 Her small upright hand went on the witness line, with the date beside it and the bell after. The clerk blotted it, and Gault initialled under her name. The registrar laid his two sheets on the application, square, and the clerk pinned them.
 
-That was all of it: four minutes by the clock over the door, and no speeches. Had anybody looked in from the passage, they would not have known that anything had just ended.
+It took four minutes by the clock over the door, and no speeches. Had anybody looked in from the passage, they would not have known that anything had just ended.
 
 Ilsev stood, and thanked the Magister, and nodded to the registrar.
 
@@ -378,7 +378,7 @@ Neither spoke for some time.
 
 "And?"
 
-Brom looked up at the empty tiers. He rolled the shoulder that had taken most of her afternoon, slowly, as if consulting it. He was a man who liked to agree with a thing properly, not just give way to it, and he took his time.
+Brom looked up at the empty tiers. He rolled the shoulder that had taken most of her afternoon, slowly, as if consulting it, and took his time.
 
 "Third one someday," he said.
 

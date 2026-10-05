@@ -72,7 +72,7 @@ Karis had the table. She had laid out her ledger and, beside it, a second notebo
 
 "Be as formal as you like," said Brom, with his eyes shut. "It's restful. It's like church, with sums."
 
-Karis wrote the day and the bell at the head of a clean page, and the four names under them, and under the names: *Business: one research finding, and the question that follows it.* She looked at the line for a moment as if weighing whether the word *question* was strong enough, and decided it was, and looked up.
+Karis wrote the day and the bell at the head of a clean page, and the four names under them, and under the names: *Business: one research finding, and the question that follows it.* She looked at the line as if weighing whether the word *question* was strong enough, and decided it was, and looked up.
 
 "I'll give you the finding," she said. "Then I'll stop. After that it isn't research any more, and I won't pretend I know more about the rest than any of you. I don't. I've tried."
 
