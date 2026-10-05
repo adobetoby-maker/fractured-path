@@ -252,7 +252,7 @@ He looked at that a while. Then, outside the fields, in the smaller hand:
 
 He closed the Log. On a loose page at the back of Hesk's notebook, where he kept the things that belonged in no book of his own, he wrote one more line, because the day had held it and he did not want sleep to take it away.
 
-*Last winter I came over the hills with a bag and a direction. Tonight three of us ate at a borrowed table and nobody in the room was afraid of anything. Somewhere up the hill there's a file with my name on it. Tonight I forgot it was there.*
+*A year and more ago I came over the hills with a bag and a direction. Tonight three of us ate at a borrowed table and nobody in the room was afraid of anything. Somewhere up the hill there's a file with my name on it. Tonight I forgot it was there.*
 
 Through the wall he could hear Lira still moving about, putting things away, humming something with no tune to it at all.
 

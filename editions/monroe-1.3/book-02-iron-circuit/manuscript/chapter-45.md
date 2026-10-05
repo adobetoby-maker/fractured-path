@@ -48,7 +48,7 @@ Cael turned that over. It was an odd thing to send ahead of you, not a threat, a
 
 Dace nodded, as if a figure had come out the way he had known it would. He turned to go, and then turned back to the arch.
 
-"One more thing. I've written up the river again this morning, to that keeper. I've asked him for anything his city has on this man. Anything written down." Dace's mouth went thin. "I've kept this card twenty years and I've never once asked another keeper for a thing. Not a line, not a word. We don't share; you know that. I'm asking this once, because I sent him your line, and that makes it a trade whether I like it or not." He tapped the arch with the pencil, once. "If it comes, you'll have it the day it comes."
+"One more thing. I've written up the river again this morning, to that keeper. I've asked him for anything his city has on this man. Anything written down." Dace's mouth went thin. "I've kept this card twelve years and I've never once asked another keeper for a thing. Not a line, not a word. We don't share; you know that. I'm asking this once, because I sent him your line, and that makes it a trade whether I like it or not." He tapped the arch with the pencil, once. "If it comes, you'll have it the day it comes."
 
 His shadow went off the floor, and the broom came back along the main room, and Cael stood in the alcove with his hands at his sides.
 
@@ -60,7 +60,7 @@ Feryn, the Bronze from his first year whose Pressure he carried now, a rank two 
 
 He sat with the notebook open and did not believe a word of it. A rank was what an examiner could see in a hall on a given day, and he knew exactly what that was worth: an Arbiter had once looked at him for eleven seconds and written down a single word.
 
-And the rank was not the worst of it. He turned to the back of the notebook, to his own method in its first form, the bench and the hooks and the three layers and the four months he had watched Keth, the Blade whose seam had won him his rating. Every fight he had ever won above his weight he had won on a bench first, watching; that was what the grey book was for, and what *he* was for, if he was honest. This time there was nothing to watch and never would be. No bout of the man's had been fought within three hundred miles, and if some carter had seen one in some town on the road it would not have mattered, because the man threw away whatever had been seen.
+And the rank was not the worst of it. He turned to the back of the notebook, to his own method in its first form, the bench and the hooks and the three layers and the three months he had watched Keth, the Blade whose seam had won him his rating. Every fight he had ever won above his weight he had won on a bench first, watching; that was what the grey book was for, and what *he* was for, if he was honest. This time there was nothing to watch and never would be. No bout of the man's had been fought within three hundred miles, and if some carter had seen one in some town on the road it would not have mattered, because the man threw away whatever had been seen.
 
 He had never walked into a fight owning nothing. He tried to imagine it, and could not, and that frightened him more than the rank.
 

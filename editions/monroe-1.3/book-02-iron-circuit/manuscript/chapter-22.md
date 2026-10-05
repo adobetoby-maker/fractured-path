@@ -106,7 +106,7 @@ The betting man looked at the coin.
 
 Red Cap had come out of nowhere, as he always did, and was standing at Cael's elbow with his cap pushed back, reading the bill with his lips moving.
 
-"The fruit woman's put a copper on the big one," she told Cael. "For luck, she says. She says she likes you better but she likes her copper best." He considered the slate. "Four to one's a lot."
+"The fruit woman's put a copper on the big one," he told Cael. "For luck, she says. She says she likes you better but she likes her copper best." He considered the slate. "Four to one's a lot."
 
 "It's what they've seen."
 

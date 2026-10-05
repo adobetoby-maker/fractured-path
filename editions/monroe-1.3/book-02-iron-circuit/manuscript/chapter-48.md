@@ -24,7 +24,7 @@ They were sitting like that when Dace's shadow came across the floor from the ar
 
 He did not come in. He held out a packet at arm's length, wrapped in oiled cloth against the weather and tied with the kind of tape Vell tied her books with, and Cael got up and took it from him.
 
-"From up the river," said Dace. "Came in on the noon carrier. The keeper there says it's not a letter. It's a thing that was written for somebody else, years back, and has sat in a drawer in his shop since, and nobody's asked for it in four years." His mouth went thin. "He says he hopes it's some use, and that he'd take it kindly if I sent it back when you've done with it. He wants it returned." Dace looked at the packet in Cael's hands. "That's what a trade costs. I've lent a man a line and he's lent me a book, and now we each owe the other the return of it. Twenty years I've not owed a keeper anything."
+"From up the river," said Dace. "Came in on the noon carrier. The keeper there says it's not a letter. It's a thing that was written for somebody else, years back, and has sat in a drawer in his shop since, and nobody's asked for it in four years." His mouth went thin. "He says he hopes it's some use, and that he'd take it kindly if I sent it back when you've done with it. He wants it returned." Dace looked at the packet in Cael's hands. "That's what a trade costs. I've lent a man a line and he's lent me a book, and now we each owe the other the return of it. Twelve years I've not owed a keeper anything."
 
 "Thank you."
 
@@ -60,7 +60,7 @@ Nobody said anything for a moment.
 
 "That's not my way of fighting," said Cael. "I work people out. It's the whole of what I do. The book, the bench, the gaze. If I stand in front of him and give him nothing, I've got nothing either."
 
-"I'm not saying stand there and give him nothing for five exchanges. The second time round he had the man down in two." Brom turned his cup on the table. "I'm saying you've got a kind of patience in you that you don't use on a floor any more. You sat four months on Keth before you said yes to him. Four months, watching, not doing anything about it. You've got faster since the autumn. You go in sooner. You trust the knock and the hip and you go." He looked at Cael across the lamp. "Faster isn't better against a man whose whole way of fighting is answering people who are in a hurry."
+"I'm not saying stand there and give him nothing for five exchanges. The second time round he had the man down in two." Brom turned his cup on the table. "I'm saying you've got a kind of patience in you that you don't use on a floor any more. You sat three months on Keth before you said yes to him. Three months, watching, not doing anything about it. You've got faster since the autumn. You go in sooner. You trust the knock and the hip and you go." He looked at Cael across the lamp. "Faster isn't better against a man whose whole way of fighting is answering people who are in a hurry."
 
 Cael opened his mouth and shut it again.
 
@@ -78,7 +78,7 @@ They both looked at her.
 
 Cael sat looking at the nine pages.
 
-He tried to imagine it: standing in front of a man like that, under every lamp in the Ironyard, and giving him nothing. Not watching for a gap, because a gap would mean he was hunting, and a hunting man was a man in a hurry. Not trying the hip, or the knock, or anything at all that would tell the man something new. Only standing, and moving, and staying alive, and letting the man bring his things one after another to a place where nothing came back. He could not picture himself doing it, though he could picture himself on the bench in the autumn, four months on Keth, doing exactly that with his eyes, never once going in. But on a floor, with the lamps and the noise and a man in front of him who could end it in a breath, every part of him would be shouting to go and find out.
+He tried to imagine it: standing in front of a man like that, under every lamp in the Ironyard, and giving him nothing. Not watching for a gap, because a gap would mean he was hunting, and a hunting man was a man in a hurry. Not trying the hip, or the knock, or anything at all that would tell the man something new. Only standing, and moving, and staying alive, and letting the man bring his things one after another to a place where nothing came back. He could not picture himself doing it, though he could picture himself on the bench in the autumn, three months on Keth, doing exactly that with his eyes, never once going in. But on a floor, with the lamps and the noise and a man in front of him who could end it in a breath, every part of him would be shouting to go and find out.
 
 He had thought, all evening, that the clerk's account was a list of the things he could not do. He saw now that one paragraph of it was a door, a small one, walked through once by a man nobody had expected and slammed in the rematch. But it had been walked through.
 

@@ -120,7 +120,7 @@ The lamp burned down a finger's width while he sat there. Then he got up and wen
 
 He answered it that evening. He wrote it himself, in his own left hand, because this one he would not have anybody write for him. It took him most of an hour, and the hand was terrible, and it was short.
 
-*I've two already. They've both seen all of it and neither of them has left, and they're both coming with me. I'll look for more. I'll write from the gate. — C.*
+*I've two already. They've both seen all of it and neither of them has left, and they're both coming with me. I'll look for more. I'll write when I arrive. — C.*
 
 He read it over once. It would do. Then, because Hesk would want to know and nobody else would ever tell him, he wrote underneath, smaller: *The arm's healing. I'm eating. L. holds the spoon.*
 

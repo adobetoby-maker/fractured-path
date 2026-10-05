@@ -14,13 +14,13 @@ Reydan took it. It was not heavy: nine pages and a board cover, wrapped against 
 
 "Did you read it?" he said.
 
-"Twice," said Dace. "And the boy read it once, in my back room, with me standing over him to see he didn't copy anything." He looked at Reydan sideways. "There's a line in it about the only bout you lost in the river halls. *Declined to be interesting for four exchanges.* The boy wrote that one down in his head, I'd swear. He had it by heart the next day."
+"Twice," said Dace. "And the boy had it a week at his own table, and gave it back tied the way it came." He looked at Reydan sideways. "There's a line in it about the only bout you lost in the river halls. *Declined to be interesting for four exchanges.* The boy wrote that one down in his head, I'd swear. He had it by heart the next day."
 
 Reydan stood with the parcel in his hands and thought about the stone, and the four exchanges, and a boy who had stood off and thrown nothing for the whole of the first one and let two open doors close in front of him.
 
 "Did he," he said.
 
-"He did." Dace looked out across the market. "For what it's worth, he didn't fight you the way that man did. I've seen a lot of bouts. He didn't decline anything. He was the most interesting thing on my floor in twenty years, and he was interesting on purpose, at the right moment, and not one exchange before." He shrugged. "That's a different thing. I thought you'd want to know it was a different thing."
+"He did." Dace looked out across the market. "For what it's worth, he didn't fight you the way that man did. I've seen a lot of bouts. He didn't decline anything. He was the most interesting thing on my floor in twelve years, and he was interesting on purpose, at the right moment, and not one exchange before." He shrugged. "That's a different thing. I thought you'd want to know it was a different thing."
 
 It turned out that Reydan did want to know it.
 

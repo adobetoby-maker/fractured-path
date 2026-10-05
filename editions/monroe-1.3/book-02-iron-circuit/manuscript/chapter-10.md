@@ -188,7 +188,7 @@ He thought about the man who had the bench before Hesk, whom Hesk had laughed at
 
 And he had found out because something wrote it down for him in a box with fields. He did not know whether that made him luckier than the others or only noisier.
 
-He folded the letter along its old creases and put it into the back of Hesk's leather notebook, where the others were, and went down to the kitchen, where Lira was making pies.
+He folded the letter along its old creases and put it into the back of Hesk's leather notebook, where the last one was, and went down to the kitchen, where Lira was making pies.
 
 She made them on the evenings she did not go to the docks, in the single iron pan the household let her use, at the end of the big table, and she made far too many, because she had learned to cook for a farmhouse and had never learned to cook for anything less. The heavyset man's wife sat at the other end of the table pretending not to watch, and there was flour on Lira's sleeve to the elbow.
 

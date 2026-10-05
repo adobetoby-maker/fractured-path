@@ -173,7 +173,7 @@ Cael took it.
 
 "I know."
 
-"Good." The corner of his mouth went in, and stayed in. "That means you get to choose the word."
+"Good. That means you get to choose the word." The corner of his mouth went in, and stayed in.
 
 ---
 
