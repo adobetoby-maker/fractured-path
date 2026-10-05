@@ -146,7 +146,7 @@ Cael looked at the wall. The name was already there, in white, on next week's ca
 
 "Only mine," he said.
 
-"Only yours." Dace rubbed out a dot beside another name and wrote it in somewhere else, as though the two things had nothing to do with each other. "He's been watching you, and he hasn't been watching anybody else, and he sat very still in the fifth exchange of your Ulric bout, and didn't cheer, and didn't groan, and went home." Dace turned his head and looked at Cael properly. "I don't have to put you on with him. There's a Shield from Fenrow who'd take the slot and fall over for the money. But I thought you'd rather know who's sitting in that seat than not."
+"Only yours." Dace rubbed out a dot beside another name and wrote it in somewhere else. "He's been watching you, and he hasn't been watching anybody else, and he sat very still in the fifth exchange of your Ulric bout, and didn't cheer, and didn't groan, and went home." Dace turned his head and looked at Cael properly. "I don't have to put you on with him. There's a Shield from Fenrow who'd take the slot and fall over for the money. But I thought you'd rather know who's sitting in that seat than not."
 
 Cael remembered him then. The third bench back from the east wall, a river-academy coat, both hands flat on his knees, and his eyes on the stone where the landing had been, not on the man who had fallen. He had seen it and filed it nowhere.
 

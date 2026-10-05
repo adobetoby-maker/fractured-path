@@ -716,3 +716,93 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 
 **Movement 6 CLOSED (2026-10-05).** Recheck r1 on the Claude Fable review seat (Sol out of quota): CLOSE WITH LINE FIXES — three applied (ch40 Log 'inside a day'; ch39 '41 pages'; ch44 'two different pages numbered eleven'). All brief items resolved; overlap 0/9, gates 0, probe 1%/10%; mean 13.61, ≥40w 3.7%, 1,018 w/scene.
+
+## After Movement 7 (chapters 45–50; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR: the 13th of Reaping (d177) the delegation's first morning; the facility review in hall three on the 14th (Gault's three questions, the receipt stamp, the taxonomy also on the 14th); the charter sitting on the 15th (d179); ends 'Four days to the final. Five to the twentieth.' No English weekday names — the book's scheme only. Lira's hip will be ten days old at the final (19th).
+- ILSEV: her interval is ELEVEN months (the edition calendar: her Greyvane referral went up the day before the Greyvane ruling); this is her SECOND return (B3 ch52 had the first); her new filing is her second referral. The return is quoted once on the page.
+- HAVEL: the C3 line set whole — 'Two years. Two of us now. Nothing has ever come back with a name on it.' (pattern-protected); his fourth entry written at the second recess; mark four on his side, unseen by him. 'A much younger man' is his own wry exaggeration.
+- VASTIN: no stated age; winter-stiff hand; the maxim at twenty-three, understood four years later; reads the hearing transcript (two public capabilities + a thin Ember exhibit) and the six-sheet appendix as a lesson about observer POSITION; does not detect Seln's nulls; his pen moves five times, only on procedure. The red bundle: ONE semester of fourteen demonstration sittings, Cael fifteen.
+- 'UNBOUND' once in Book 4 (ch50, lower-case, Karis's speech): the standardization directive is the only one; the terminology article is four articles from the transitional (conversion) article. ONE factual clause: *Shattered* is the word in brackets on Cael's own registry sheet, beside his number, in the Denvash station's hand. No theory; no link to his nature. 'A coincidence with good posture.'
+- Brom: four a week all season; on the night of his semifinal Rooke put him on one a night until the final. The facility-review drill: run on structure, the read off on purpose; Brom stops before the thirtieth repetition (54/60 clean). The ledger: 'Day sixteen of the ledger; twenty-nine since the stair.'
+- The inky-knuckled clerk sits 'two chairs along'. Seln named at the copying table. Small new canon accepted (delegation rules card; the wing observer's 'missed' mark; Lira's foundry weighbeam story; two Ilsev cases; Vastin's watch and coloured tapes; the delegation's guest floor and working room; Karis barred from the records hall until the 15th; Withrow at the recess window).
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Weekday anchor: d167 = Second-day; seven-day weeks. Only Reaping dates are named. No month order and no Sowing→Reaping count is stated (#35).
+
+| Day | Date | Event |
+|---|---|---|
+| d176 (Fourth-day) | the twelfth | Arrival (M6). That evening the wing's six-filing compilation crosses to the guest floor under the counsel's requisition; receiving stamp dated the twelfth |
+| **d177 (Fifth-day)** | **the thirteenth** | Cael's dawn stake. Lira off the stick (her four days end; six days to the final). **Vastin reads the filings before the first bell** (nine minutes, no mark) and tells the counsel he will sit the fifteenth. Records sittings on the provision's paper (registrar's boxes across at the second bell; a wing box at the fourth). Karis barred until the fifteenth. Ilsev crosses the walk before the third bell. Coursework on the day. Lira and Karis walk the yard. After the fourth bell, in rain: **Havel's inch**. Sixth bell: **fifth-line bout**, the Archmarshal from after the first call to the start of the fourth; supper thresholds with Brom. Night: Brom on the stair; bed at the eighth bell |
+| **d178 (Sixth-day)** | **the fourteenth** | Facility review. Morning: the delegation in the wing; **three questions to Gault**. Fourth bell: **hall three**, seven on the gallery, Ilsev's four questions, 54/60, "Read's off". Ledger day sixteen in the bearer yard. Library: Karis's question counts. Sixth bell: the wing's counter; **the case returned unmarked**; Gault tells Cael. Lira and the beam. After supper: **the taxonomy** on the top tier; the porter locks at the eighth. The registry's return comes up by the delegation's courier at the eighth bell; Havel files it at the back of the correspondence |
+| **d179 (Seventh-day)** | **the fifteenth** | **Enrollment-basis sitting**, second bell to seventh bell, two recesses. Morning: provenance (marks 1–2), supersession and Withrow, sheet sixty-two (mark 3), transitional article, three more attacks; **two thin drifts** in the attestation stretch. First recess: **Ilsev's return and second referral** (eleven minutes, cold tea); at its end Havel logs the tray (mark 4). Second recess (fourth bell): **Havel's fourth entry** in the working room; Withrow and Cael at the window. Afternoon: Ilsev's questions, Gault (mark 5), "Irregular", **the finding** a little after the sixth bell; the exhibit list; **the bad drift** (folder) and **Karis's foot**. After the seventh bell: the steps; the back-room re-shelving (**the word once**, the question); the fire-watch slate; Brom's box; the Log |
+| d183 | the nineteenth | Copper final, Lira–Brom (**four days**). Lira's hip ten days old |
+| d184 | the twentieth | Semester evaluation, observation reserved (**five days**) |
+
+**Cael — body.** Fit and uninjured. Ordinary forearm shake after the drill (contact work) plus a deeper shake from the purse running low (d178); eased in the cold within the hour. About ninety minutes where reading pressed "like a bruise". Heavy pressure behind the eyes through d179 evening; his handwriting is the worst of the term. No Wind, Compression, Pressure or Ember used.
+
+**Fragments.** **Six confirmed + the Tide anomaly** (not mentioned); the record keeps five. No change in count or ceilings.
+- **Iron-adjacent read:** the ambient layer stays on; the reach at depth was deliberately withheld for the whole fifty-minute drill on d178, because the reach and the idle state draw on one purse. Brom felt it within a few repetitions.
+- **Shadow-adjacent idle state:**
+  - held through the drill (one lean at the eighth, taken back);
+  - **three drifts on d179**: two thin in the morning attestation stretch, one bad in the afternoon exhibit list (the clerk's folder on the empty chair beside him). Nobody institutional noticed;
+  - Karis brought him back with her foot. Lira and Brom were told on the steps;
+  - **the lesson: the drift happens in gaps** (a sitting's slack), not in absorbing work. No countermeasure yet. The twentieth's panel confers between trials.
+- Working ledger day sixteen (d178), protected-format entry: Net *it isn't a capability. It's rent.*
+
+**Knowledge.**
+- Mechanism and acquisition: unchanged (Lira, Brom, Karis).
+- Cael knows: the Archmarshal's three questions to Gault (calibration), the unmarked case, the question counts, the five pen marks (all on procedure). He knows nothing of the return or the referral.
+- Karis and Cael: the transitional article sits four articles from the green-tabbed terminology articles; the register's later hand ("per standardization directive") refers to this directive. Held as a question only.
+- Ilsev and Havel: the second return and the second referral (eleven months after Greyvane); neither reaches an answer. Nobody else knows.
+- Vastin: has read the six filings (no mark, no detection) and the record four times; the margins are unchanged.
+- The delegation's facility review produced no question from the Archmarshal except three to Gault (registrar's log).
+
+**Documents and objects.**
+- The return (registry stamp; Havel's docket, eighth bell), the second referral (form, grounds; in Havel's tray, logged and cross-referenced to both).
+- Havel's notebook: four entries of ninety pages, plus the three-line rule-break.
+- The wing's compilation, back on the wing's shelf with the delegation's stamp dated the twelfth and no annotation.
+- The finding, in the record; also on the back of Cael's floor sheet for the sixteenth, with the five-mark list and the drift lines.
+- Karis's grey notebook: *Why retire a working method?* alone on a page; Brom's boxes ruled to the eighteenth (crossed through d179).
+- Cael's pages: the clerks; the counsel; Ilsev ("Exactly the person the papers describe"); Havel (gratitude settled; Lira's capitals); the eleventh ("stood still"); the taxonomy; working ledger day sixteen; the numbered Log.
+- Back-room volumes re-shelved; the key on Karis's wrist for Bracken.
+- The batons still in Karis's keeping until the nineteenth.
+
+**Companions and cast.**
+- **Lira:** Copper R2 formal; top line; finalist. Off the stick from d177; walks carefully. The hip is ten days old at the final.
+- **Brom:** finalist; round two of the nineteen, boxes kept nightly to the eighteenth; no sparring with Lira. "On the twentieth I'll think about nothing but you."
+- **Karis:** Iron R3; the provision held; the question written and stopped.
+- **Bracken:** the file praised by the counsel; "the best day a file can have".
+- **Gault:** told Cael once; his paragraph on the record.
+- **Withrow:** answered supersession herself; holding still.
+- **Rooke:** unchanged.
+- **Seln:** at the copying table; the compilation returned unmarked; no motive stated, case untouched.
+- **Havel:** fourth entry; "Two of us now."
+- **Ilsev:** second referral filed; put down.
+- **Vastin:** no age stated; left hand stiff on cold mornings; asked nothing about Cael; five marks on procedure; "He had filed no question."
+- **The counsel:** "Irregular."; "sound".
+
+**Watchers.** Two and two at the ferry landing and the road's foot, on the bell, unchanged through d179 (Karis's marbled log; seen changing on the bell from Cael's window).
+
+## New canon minted (flag where marked)
+
+- **Vastin's habits:** the plain brass watch set every Seventh-day against the best clock in the building, with the difference on a card in its lid; the record in three tapes (grey, red, string); four colours of pencil, one per pass; the oldest carriage chosen because nobody asked for it. His mentor at twenty-three (unnamed) was in a cellar office smelling of lamp soot and wet wool and spoke to him about twenty times in two years. The bad month: a posting-house bed, a finding built backward that died at its first review, his career "within a sheet of paper". He tells the counsel the first three days are hers; he watches the fire-watch boy correct a figure.
+- **Delegation lodging (flag, minor):** a guest floor in the administration range, plus a working room up the stair in the records hall building.
+- **The delegation's card (flag):** officers do not converse with any party under review outside a sitting, do not acknowledge such a party "beyond ordinary courtesy", and do not carry messages, take papers or accept anything offered.
+- **The three clerks:** the young one carries, the list clerk walks beside, and the eldest (bad left knee, left-handed) decides which box goes. Bracken's three clerks are the young one, the clerk with the cold, and the inky-knuckled clerk.
+- **Facility review:** the wing in the morning, then rooms in use. The seven on the gallery are the delegation without its escort. Every delegation query is logged by the registrar's office. Bracken's clerk to Karis: "a number isn't a document."
+- **The wing observer's protocol (flag):** a stroke for clean, a dot for not, a small cross for "I did not see" (eleven this term, two for sneezing). The same form for every witnessed hour, with a provision line. The Magister initials daily, and it crosses to the registrar the same afternoon.
+- **Ilsev (flag):** the four-volume district log with no gaps and nineteen filled-in places; the colleague right a year early; two past "legacy shorthand" answers.
+- **Lira (flag):** at the foundry the master proved the weighbeam with locked brass weights before every pour; in her second year there a beam had been filed on the pivot.
+- **The fifth-line bout:** a Force third-year (girl, chest-high opener) against a Stone fourth-year (roots); the Stone boy wins in the fifth. The table is the safety instructor and two adjudicators. About 140 people were there.
+- **The sitting:** Withrow's note ("Wall seat, our side. W."); a row of four chairs; the second certified schedule from a house on the coast four hundred miles off; the comparing clerk; the counsel's ninety breaths, matching Bracken's "ninety"; the stump argument; "Which is why the file answers it"; three further attacks (preamble, custom, the word *existing*).
+- **The return chain (flag):** at Greyvane, a query, then the first return, then a referral up on the Monday courier. Now a return from the chain above repeats the first two sentences and adds the third. Ilsev's second referral goes one level up from the returning office. Her own gloss: *available: at this clearance*.
+- **Havel:** files the return in its place rather than on her corner; the fourth entry is written at the second recess in the working room, not at night.
+- **Withrow** at the window at the second recess ("Don't tell her").
+- **Bracken:** twelve years in the office (BOOK_MAP's figure); "the best day a file can have".
+- **Karis's identification (flag):** the register's "per standardization directive" means this directive ("There's only one"), and the article that changed the word is one of its four green-tabbed terminology passages, four articles from the transitional article. It is held as a question; no new source names the word.
+- **Karis barred from the records hall until the fifteenth (flag, minor),** in writing by Bracken, so she can sit at the table on the fifteenth.
+

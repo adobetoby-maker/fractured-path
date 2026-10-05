@@ -6,17 +6,17 @@ It was one long room under the roof with a stove at one end and a locked press a
 
 Cael stood at the press with his copper in his hand and looked at the old man's book, open on its slanted desk, with the pen beside it.
 
-Everything he gave them went in a file somewhere. He had written that on the officials page in his own hand. This was not the Compact, only an old man in a room over a dye works; but a name was a name, and the book was a book, and Cael had been fourteen in a hall with a dark Arbiter over his head and had learned there exactly how long a thing written down could last.
+Everything he gave them went in a file somewhere. He had written that on the officials page in his own hand. This was not the Compact, only an old man in a room over a dye works; but a name was a name, and the book was a book, and Cael had been fourteen in a hall with a dark Arbiter over his head and had learned there how long a thing written down could last.
 
 "Name," said the old man.
 
 "Hesk-ward."
 
-The old man wrote it, slowly and well, and did not look up, and gave him the key.
+The old man wrote it, slowly and well, and gave him the key.
 
 He took down everything in the press that so much as mentioned Iron Skin, which was three books. There was a big brown register of the Paths of the realm, a hundred years old and re-bound twice, and a smaller book on the defensive Paths in particular, and a guild almanac from a city up the coast with a chapter on the families who trained them. He carried all three to the table nearest the stove and sat with them through the whole of the cold afternoon.
 
-The register was laid out the way the Compact laid out everything, in rows. He had read its front pages before, in the spring, when he was trying to understand the ladder he had been put at the bottom of. There was the table of the metals, Copper and Iron and Bronze and Silver and Gold, with ten ranks to each and a line under the tenth where the station had to look at you again. There was the list of what each metal let you do and where it let you go: Copper the outer districts and the limited market; Iron the whole city, and the guild district with your credentials in your hand; Bronze the administrative core as well, where the gates were. And after the front pages came the Paths themselves, each one a row, with its branch and the metals at which anybody had ever been recorded holding it, and a line or two of what it did. There was no row in it for anybody who had not been given a Path, and he had stopped looking for one a long time ago.
+The register was laid out as the Compact laid out everything, in rows. He had read its front pages before, in the spring, when he was trying to understand the ladder he had been put at the bottom of. There was the table of the metals, Copper and Iron and Bronze and Silver and Gold, with ten ranks to each and a line under the tenth where the station had to look at you again. There was the list of what each metal let you do and where it let you go: Copper the outer districts and the limited market; Iron the whole city, and the guild district with your credentials in your hand; Bronze the administrative core as well, where the gates were. And after the front pages came the Paths themselves, each one a row, with its branch and the metals at which anybody had ever been recorded holding it, and a line or two of what it did. There was no row in it for anybody who had not been given a Path, and he had stopped looking for one a long time ago.
 
 The register gave Iron Skin a line among the defensive Paths, between a Path for turning blows and another for standing, and said it hardened the body against force. It had been recorded at every metal from Copper to Gold, and at none above. The book on defensive Paths gave it a little more, and all of it was the same thing said at greater length. The almanac gave it four pages.
 
@@ -52,13 +52,13 @@ Cael wrote it down while the old man watched him do it.
 
 "How did she stand?"
 
-Corrin looked at him with some respect, as if it were a better question than he had expected.
+Corrin looked at him with some respect. It was a better question than he had expected.
 
 "Like a gatepost. Back. Way back, on her heels, like somebody'd planted her and come back in a year to see if she'd taken." He snorted. "I thought it was a fault. I thought, she can't go anywhere from there. I was going to make her chase me. She didn't chase. Why would she?"
 
 "Did she ever start anything? Strike first?"
 
-Corrin thought about it, honestly.
+Corrin thought about it.
 
 "Not that I noticed. Why would she? I was doing all the work for her."
 
@@ -66,7 +66,7 @@ The second man Cael asked was a Blade from Orvet's gym who had lost to an Iron S
 
 Neither of them could tell him how it worked. They could tell him what it was like to be on the wrong end of it, and that was something; but it was a bruise and not a map. How a body learned to do it, what it cost, where it ran out: that lived inside three guild houses up the coast, behind four pages of marriages, in books that would never come down to a dye works in an Unranked District for a copper.
 
-So he would have to do it the way he did everything, which was by watching. He went back to the Ironyard and found that the man he needed to watch was already there, in the second alcove, waiting to be watched.
+So he would have to do it as he did everything, by watching. He went back to the Ironyard and found that the man he needed to watch was already there, in the second alcove, waiting to be watched.
 
 ---
 
@@ -86,9 +86,9 @@ Brom did not decide anything. He stood, and the newcomers hit him, and he answer
 
 Cael's page, at the end of the first hour, read: *Dormant. Dormant. Hit, left forearm, boy. Dormant. Hit, chest, girl. Dormant.* It read like a man writing *still shut* outside a shut door.
 
-He tried everything he had, going round the man's body the way he would have gone round any fighter's: the hands, which hung open and did nothing; the shoulders, which neither settled nor lifted; the eyes, which did not fix on any place on anybody but rested on the newcomer in front of them the way a man's eyes rest on weather; the breath, which was even; and the feet, which did not move. He went down into the hooks a second time, against the ration's grain, a whole round deep, and came up with his eyes aching and the alcove swimming and nothing at all in the margin but a row of the first hook, dormant, dormant, dormant, like a fence.
+He tried everything he had, going round the man's body as he would have gone round any fighter's: the hands, which hung open and did nothing; the shoulders, which neither settled nor lifted; the eyes, which did not fix on any place on anybody but rested on the newcomer in front of them; the breath, which was even; and the feet, which did not move. He went down into the hooks a second time, against the ration's grain, a whole round deep, and came up with his eyes aching and the alcove swimming and nothing at all in the margin but a row of the first hook, dormant, dormant, dormant, like a fence.
 
-The answers, when they came, were plain enough to see. The boy with the broken tooth swung at Brom's ribs with everything a twelve-year-old's arm could hold, and went off sideways as if a door had swung into him, and sat down on the stone, laughing. The girl with sacking in her hair struck at his forearm and her own fist came back past her ear. Cael wrote every one of them, but they were all ends, and by the end of the hour he had a page of ends and not one beginning.
+The answers, when they came, were plain enough to see. The boy with the broken tooth swung at Brom's ribs with everything a twelve-year-old's arm could hold, and was flung off sideways and sat down on the stone, laughing. The girl with sacking in her hair struck at his forearm and her own fist came back past her ear. Cael wrote every one of them, but they were all ends, and by the end of the hour he had a page of ends and not one beginning.
 
 It was not a comfortable thing to sit with, because for a year the gaze had been the one thing he could count on when everything else went wrong, and on the worst nights the hooks had always come. Now he had put the whole of it on a man for an hour and it had come back empty. It was not a hard problem. It was a problem his method could not see.
 
@@ -96,7 +96,7 @@ Across the alcove Brom paid off the tall lad, and sat down on his own bench, and
 
 "No."
 
-Brom nodded, as if that were the answer he had expected and was satisfied with, and went on unwinding.
+Brom nodded, satisfied, and went on unwinding.
 
 ---
 
@@ -118,7 +118,7 @@ Over the third he wrote *Response*: what came back, and how far it threw them.
 
 And over the middle column, the one he had never had a use for, the one that had always been only the space between his other columns, he wrote *Latency*.
 
-He looked at the three words for a long time. Then he took his pencil and wrote, very small, under the ruled head: *The gap is the subject. Not the hit. Not the answer. The time between.*
+He looked at the three words. Then he took his pencil and wrote, very small, under the ruled head: *The gap is the subject. Not the hit. Not the answer. The time between.*
 
 But he had no clock. Nobody in the district had a clock that told less than a quarter-hour, and that only on the chapel by the north gate, which was usually wrong. He timed everything in a bout by his own breath. But his breath went short and long when he was interested, and he was very interested, and a measure that moved with his interest was no measure. He sat a while with his fingers on the inside of his own wrist, feeling the steady beat there, slow and even in the quiet room.
 
@@ -150,7 +150,7 @@ Keth ran the ring at first light, before the sweepers, for anybody who turned up
 
 "I know. I've seen them come down from here."
 
-"He asked me." Keth watched the tall lad lose his stick and go after it. "Before he gave them a copper. He came across here at dawn, the first week, and stood where you're standing, and said, *Your three. Can I pay them to hit me.* I said what for. He said, *They mean it.*" Keth's mouth moved at the corner. "I've run this ring a long while, and nobody's ever asked me whether he could borrow it."
+"He asked me." Keth watched the tall lad lose his stick and go after it. "Before he gave them a copper. He came across here at dawn, the first week, and stood where you're standing, and said, *Your three. Can I pay them to hit me.* I said what for. He said, *They mean it.*" Keth almost smiled. "I've run this ring a long while, and nobody's ever asked me whether he could borrow it."
 
 "Did you say yes?"
 
@@ -158,7 +158,7 @@ Keth ran the ring at first light, before the sweepers, for anybody who turned up
 
 Cael looked. The girl was going at a boy of about her own size, and she was going at him in a way he had not seen her go at anybody a fortnight ago. Before, she had swung and shut her eyes, the way new people did, and flinched before the stick could touch her. Now she swung and kept them open. When the boy's stick came back at her she did not flinch from it. She watched it come.
 
-"Three days of hitting a man who sends it back at her," said Keth, "and she's stopped being frightened of the stick. I couldn't teach her that in a month. I tried." He said it plainly, without any sourness, the way he said everything, but Cael saw his little finger close on the grip and then lift off it again. "You can't tell somebody it's only a stick. They have to find out it comes back and they're still standing."
+"Three days of hitting a man who sends it back at her," said Keth, "and she's stopped being frightened of the stick. I couldn't teach her that in a month. I tried." He said it without any sourness, as he said everything, but Cael saw his little finger close on the grip and then lift off it again. "You can't tell somebody it's only a stick. They have to find out it comes back and they're still standing."
 
 "Are you sending him more?"
 
@@ -178,11 +178,11 @@ Keth was silent a while. The tall lad had got his stick back and lost it again.
 
 ---
 
-By the fourth session the middle column had begun to fill, and he knew he had the right column, because he had found out at last exactly what went in it.
+By the fourth session the middle column had begun to fill, and he knew he had the right column, because he had found out at last what went in it.
 
-From the benches, a newcomer's fist on Brom's forearm looked like one thing: the knock, and the newcomer flung away. From close, with his fingers on his wrist, it was two things with a stillness between them. The knock came first. Then the fist stayed where it had landed, stopped dead against the arm as if it had hit a gatepost, and did not bounce, while Brom's knees gave a finger's width and the weight of the blow went down through him into his heels, the way Hesk's water went into the gears before the wheel turned. Then the arm turned, and the newcomer went off sideways with his own fist flung wide. That stillness, from the knock to the throw, was what Cael counted, and he called it the hold.
+From the benches, a newcomer's fist on Brom's forearm looked like one thing: the knock, and the newcomer flung away. From close, with his fingers on his wrist, it was two things with a stillness between them. The knock came first. Then the fist stayed where it had landed, stopped dead against the arm, and did not bounce, while Brom's knees gave a finger's width and the weight of the blow went down through him into his heels, the way Hesk's water went into the gears before the wheel turned. Then the arm turned, and the newcomer went off sideways with his own fist flung wide. That stillness, from the knock to the throw, was what Cael counted, and he called it the hold.
 
-On the first hit of a kind the hold ran close to a whole beat of his pulse. When the same fist came the same way a second time, and a third, from the same newcomer, the hold shortened toward half a beat and sometimes less, as if Brom spent it deciding where to send a thing and needed less time to decide once he had sent that thing somewhere before.
+On the first hit of a kind the hold ran close to a whole beat of his pulse. When the same fist came the same way a second time, and a third, from the same newcomer, the hold shortened toward half a beat and sometimes less. Brom seemed to spend it deciding where to send a thing, and to need less time to decide once he had sent that thing somewhere before.
 
 He sat looking at that for longer than he looked at anything else that week. Whatever answered the hit was not a fixed reflex, the same every time like a door swinging on a spring, because it learned, inside a single hour, from three newcomers at a copper a round; and if he watched long enough he could almost draw the rate at which it learned.
 
@@ -206,7 +206,7 @@ He very nearly fell over.
 
 He could not go anywhere from there. Every step he tried had to begin by bringing his weight back over his toes first, a whole beat before he could move. For a fighter who meant to go anywhere it was useless, worse than useless, the kind of mistake a teacher would slap your legs for.
 
-But Brom did not mean to go anywhere. Cael stood there, feeling foolish and heavy, and thought about where a hit went in the hold, when the knees gave their finger's width. It had to go somewhere, and if some of it went back up the other man's arm, as Corrin had said, then the rest of it, surely, went down through Brom himself, through his legs and his heels and into the stone. You did not stand like that to move. You stood like that to be a post driven into the ground, so that whatever came at you had nowhere to go but back the way it came.
+But Brom did not mean to go anywhere. Cael stood there, feeling foolish and heavy, and thought about where a hit went in the hold, when the knees gave. It had to go somewhere, and if some of it went back up the other man's arm, as Corrin had said, then the rest of it, surely, went down through Brom himself, through his legs and his heels and into the stone. You did not stand like that to move. You stood like that to be a post driven into the ground, so that whatever came at you had nowhere to go but back the way it came.
 
 He wrote it standing up, leaning on the straw post.
 

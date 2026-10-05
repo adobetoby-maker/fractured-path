@@ -2,17 +2,17 @@
 
 The query came up to Coss in the last inner-post round of a Monday afternoon, and he knew whose it was from the envelope.
 
-He knew the hand: every letter on the front was the same height as its neighbour, level as a ruled line, the hand of a young man who had been told once that neatness was a kind of honesty and had believed it. Coss had read that hand on a routing card some weeks ago, on a short return from the river side, and had gone down to the long room at the end of the day to look at a file he had no reason to look at. He had not expected to see it again so soon. He had not expected to see it at all.
+He knew the hand: every letter on the front was the same height as its neighbour, level as a ruled line, the hand of a young man who had been told once that neatness was a kind of honesty and had believed it. Coss had read that hand on a routing card some weeks ago, on a short return from the river side, and had gone down to the long room at the end of the day to look at a file he had no reason to look at.
 
 He opened it at his desk with the door shut and read it standing. It was four lines long. The third named the designation in full, and the fourth asked, as politely as a thing can be asked, where it had come from.
 
-So that was the line. Coss had seen a Level 4 perhaps twice in eleven years, both on sealed files, both with a name in the right-hand column that he had only ever seen in the duty records of the floors above him. The short printed form between the registry's stamp and the young man's green slip, with nothing in its column, was *that*. He sat down with the slip in his hand and felt the knowledge go through him slowly, the way cold goes through a man who has stepped off a bank into deeper water than he thought.
+So that was the line. Coss had seen a Level 4 perhaps twice in eleven years, both on sealed files, both with a name in the right-hand column that he had only ever seen in the duty records of the floors above him. The short printed form between the registry's stamp and the young man's green slip, with nothing in its column, was *that*. He sat down with the slip in his hand and felt the knowledge go through him slowly, like cold through a man who has stepped off a bank into deeper water than he thought.
 
 He thought, for a moment, of a table in the district a year and more ago, and a pie between them, and a boy of fourteen with his hands under the edge of it, asking him whether he knew what a flag was. He had told the boy the truth, which was that he did not. He knew now what this one was called. Knowing its name was not at all the same as knowing what it was, and he would have given a good deal to be back at that table not knowing either.
 
-But it was not the line that frightened him. It was that the question had been asked at all, by a careful junior with four years in, sent to the manual by a half-page of printed boxes the registry handed out by the hundred. Coss had kept it shut in his own head for over a year and told himself it was buried. It had never been buried. The registry's own paperwork had walked a young man straight up to it. If a review sheet could do that once, it would do it again; and some quarter, at some desk, a man with more rank than Havel, or less sense, would go to the shelf and write not *I am unable to confirm* but *who*.
+But it was not the line that frightened him. It was that the question had been asked at all, by a careful junior sent to the manual by a half-page of printed boxes the registry handed out by the hundred. Coss had kept it shut in his own head for over a year and told himself it was buried. If a review sheet could walk one young man straight up to it, it would do it again; and some quarter, at some desk, a man with more rank than Havel, or less sense, would go to the shelf and write not *I am unable to confirm* but *who*.
 
-He knew what he would write before he picked up his pen, and he did not let himself think about it any longer than it took, because thinking about it was the thing he was most afraid of. Three short sentences, an initial, the envelope. It answered nothing, and he had meant it to answer nothing. He told himself, folding it, that he was doing it for Havel, and it was true: a junior who asked *who* about a Level 4 would be known on every floor of the building by the end of the season.
+He knew what he would write before he picked up his pen, and did not let himself think about it any longer than it took. Three short sentences, an initial, the envelope. It answered nothing, and he had meant it to. He told himself, folding it, that he was doing it for Havel, and it was true: a junior who asked *who* about a Level 4 would be known on every floor of the building by the end of the season.
 
 It was not the whole truth, and he knew that too. He sealed it and put it in the out-tray for the last round, and sat looking at the empty tray after it had gone.
 
@@ -20,29 +20,25 @@ It was not the whole truth, and he knew that too. He sealed it and put it in the
 
 He wrote the other note that evening, at home, at the kitchen table, after his daughter had gone up.
 
-He had not done that before; he did not bring the work home. He had kept eleven years of plain black working logs in the drawer of his desk at the office, bought with his own money, and he had never once carried one through the door of this house. Tonight he had it buttoned inside his coat, and a sheet of the registry's supplementary-note paper folded inside the log, and he laid them both out on the scrubbed table under the lamp. He sat there with the pen in his hand for a long time while the fire went down.
+He did not bring the work home. He had kept eleven years of plain black working logs in his desk drawer at the office, bought with his own money, and had never once carried one through the door of this house. Tonight he laid one on the scrubbed table under the lamp, with a sheet of the registry's supplementary-note paper inside it, and sat with the pen in his hand while the fire went down.
 
 A supplementary note was not a query, and asked nobody anything. It went up, into the routing above an officer's own grade, with his name at the foot, and it said a thing he wanted the registry to know he had said. Most men wrote two or three in a career, when a file had gone bad and they wanted it on record that they had seen it go. Coss had never written one, because he had seen what became of men who did, mostly nothing, and he had always preferred nothing that he had chosen to nothing that was done to him.
 
-He wrote it plainly, in his upright hand, every stroke the same weight.
+He wrote it in his upright hand, every stroke the same weight.
 
 *Supplementary note. Ardenmere file, river side (Hesk-ward, C.). Monitoring staff on quarterly review have independently queried the Priority Level 4 designation entered in the classification block, which carries no authorizing signature or review date. I have instructed standard procedure. I recommend the designation be reviewed for its appropriate disclosure level, since further queries by staff in the ordinary course of review are now to be expected. Coss.*
 
-He read it back: it was careful, and it accused nobody. It did not say the line was wrong, or ask who had entered it, or mention the grey slip that had come and gone from the inside of the cover a year ago. It said only that a junior had noticed, and that others would, and that the officer of record had said so, on this date, in his own hand.
+He read it back. It accused nobody, and it did not mention the grey slip that had come and gone from the inside of the cover a year ago. It said only that a junior had noticed, and that others would, and that the officer of record had said so, on this date, in his own hand.
 
-That last part was what it was for. He made himself look at that, sitting at his own kitchen table where his daughter did her sums.
-
-It was not diligence, or not only. It was a man making sure that when this came up properly some day, at a level where somebody could demand an answer, there would be a sheet in the chain with *Coss* at the foot and a date that came before the asking. *I saw it. I said so. I said so first.* He was not proud of it, and he found he was not ashamed of it either, quite. A man who had spent eleven years keeping his head below a certain floor had very few ways left to stand up, and this was one of the small ones.
+That last part was what it was for, and he made himself look at it, at his own kitchen table where his daughter did her sums. It was not diligence, or not only. It was a man making sure that when this came up properly some day, at a level where somebody could demand an answer, there would be a sheet in the chain with *Coss* at the foot and a date that came before the asking. *I saw it. I said so. I said so first.* He was not proud of it, and he found he was not ashamed of it either, quite. A man who had spent eleven years keeping his head below a certain floor had very few ways left to stand up, and this was one of the small ones.
 
 He folded it and put it inside the log.
 
-Then he opened the log itself, not to today's page but back, past a year of ordinary entries, to the two pages he had left empty on purpose. The first was the day of the grey slip, and the second the day he had read Havel's return in the long room. They had stayed empty because a thing written down could be found, and he had thought that the safest thing.
-
-He turned forward to today's page and wrote on it.
+Then he opened the log. Behind a year of ordinary entries were the two pages he had left empty on purpose, the day of the grey slip and the day he had read Havel's return, because a thing written down could be found. He turned forward to today's page and wrote on it.
 
 *Ardenmere file. Queried by H. on quarterly review: the Level 4 designation, Section 12. Instructed standard procedure. Supplementary note filed upward, signed. Copy kept.*
 
-He looked at the line for a while, in the lamplight; it was the first thing about that file he had written in his own book in more than a year. It felt like stepping out from behind a wall into the middle of a street, and standing there, and waiting to see whether anything came.
+It was the first thing about that file he had written in his own book in more than a year. It felt like stepping out from behind a wall into the middle of a street, and waiting to see whether anything came.
 
 "You're writing at the table," said his daughter, from the stair.
 
@@ -62,7 +58,7 @@ The note went in the pouch on the Wednesday morning.
 
 On his way back up from the pouch room he passed the assessors' floor, as he passed it every day, and through the open door at the end of the corridor he saw Havel.
 
-The young man was at the duty board, reading the week's rota with his case in his left hand, as if he were going out. He was standing very straight, the way he wrote, with nothing in his face at all, and he did not look like a man who had been told to stop asking a question the afternoon before. He looked like a man reading a rota, which was what he was doing, and Coss understood that this was exactly what he had looked like every day for four years, and was the whole of his skill.
+The young man was at the duty board, reading the week's rota with his case in his left hand, ready to go out. He was standing as straight as he wrote, with nothing in his face at all, and he did not look like a man who had been told to stop asking a question the afternoon before. He looked like a man reading a rota, which was what he was doing, and Coss understood that this was what he had looked like every day for four years, and was the whole of his skill.
 
 Coss stopped in the corridor.
 
@@ -70,23 +66,21 @@ He did not know what he had meant to say. *It wasn't you.* *I'd have asked it to
 
 Havel finished reading the rota, and turned, and saw him.
 
-For a moment they looked at each other down the length of the corridor, the senior man in the doorway and the junior one at the board, and neither of them moved. Then Havel inclined his head, very slightly, as a junior did to anybody senior who happened to be passing. It was correct, and it was nothing, and Coss had the clear sense that the young man knew exactly who he was and exactly what he had written, and had decided, as Coss had decided, that the corridor was not the place.
+For a moment they looked at each other down the length of the corridor, the senior man in the doorway and the junior one at the board, and neither of them moved. Then Havel inclined his head, very slightly, as a junior did to anybody senior who happened to be passing. It was correct, and it was nothing, and Coss had the clear sense that the young man knew who he was and what he had written, and had decided, as Coss had decided, that the corridor was not the place.
 
 Coss nodded back, the same small amount, and went on up the stairs.
 
 He did not look for an answer on the Thursday or the Friday, because he knew how slowly the floors above him moved. He looked on the Monday after, when the upward pouch came back down, and there was nothing for him in it. He looked again the Monday after that.
 
-There was nothing all that month. There was no acknowledgement, which every note got, a slip with a stamp that said *received*. There was no *Noted*, which was what his last query had got, in the spring, in a hand he did not know. There was no instruction, and no summons, and no visit from anybody he had never met. The note had gone up into the floors above him, and the floors had taken it the way deep water takes a stone.
+There was nothing all that month. There was no acknowledgement, which every note got, a slip with a stamp that said *received*. There was no *Noted*, which was what his last query had got, in the spring, in a hand he did not know. There was no instruction, and no summons, and no visit from anybody he had never met. The note had gone up into the floors above him, and the floors had taken it without a ripple.
 
 By the third week he understood that the silence was not an oversight.
 
-He could not have said how he understood it, because nothing had been said to him. But he had worked in the building eleven years, and he knew the difference between a paper that had been lost and a paper that had been read. A lost paper made a small noise somewhere: a clerk asking after it, a routing card come back marked *not found*. This had made no noise at all. Somebody had read his note, and had decided, somewhere above any floor he could see, that it would not be answered. That was the answer.
+Nothing had been said to him. But he had worked in the building eleven years, and he knew the difference between a paper that had been lost and a paper that had been read. A lost paper made a small noise somewhere: a clerk asking after it, a routing card come back marked *not found*. This had made no noise at all. Somebody had read his note, and had decided, somewhere above any floor he could see, that it would not be answered. That was the answer.
 
 There was one thing left that he could do about it, and it was to do nothing. He did not write again, or go down to the long room to look at the file. When the river-side returns came up on the Thursday tray for information, he put his thumb on the routing card and signed nothing, as he had always done. If anybody ever went through his log they would find one line, one note, one date, and then nothing at all, which was the most a man could say in that building without saying anything.
 
-It cost him more than he had thought it would.
-
-It was not a large cost, and nothing in his days changed. He went in at the same hour and came home at the same hour, and his daughter drew her maps, and his returns were as clean as they had ever been. But there was something under all of it now that had not been there before, like a draught under a door in a house he had lived in for years. He had trusted the paper; that had been the whole of his working life: that the forms meant what they said. A line in its proper place said somebody with a right to put it there had put it there. He did not trust that any more, not entirely, and he did not think he ever would again.
+It cost him more than he had thought it would, though nothing in his days changed. He went in at the same hour and came home at the same hour, and his daughter drew her maps, and his returns were as clean as they had ever been. But there was something under all of it now that had not been there before, like a draught under a door in a house he had lived in for years. He had trusted the paper; that had been the whole of his working life: that the forms meant what they said. A line in its proper place said somebody with a right to put it there had put it there. He did not trust that any more, not entirely, and he did not think he ever would again.
 
 So he began to look.
 
@@ -154,11 +148,11 @@ It did not come. It did not go. It sat at the edge of his range, kept, and staye
 
 He did not know how long it was, and he did not count, because counting was a kind of asking. He sat with his hands on his knees and his eyes on the empty middle of the floor and let it lie against the far edge of his skin, and did not ask it anything.
 
-Nothing changed. That was the whole of it, for a long time, breath after breath. It did not rise when the last knot of fighters went out past it at the side door, close. It did not fall when the sweepers came in with their brooms. It did not shift when Dace began to wipe his wall, and the chalk dust went up white in the lamplight, and somebody dropped a bucket by the water barrel with a bang that made Cael's door shudder and nearly shut. He held it through the bang, and did not know how.
+Nothing changed. That was the whole of it, breath after breath. It did not rise when the last knot of fighters went out past it at the side door, close. It did not fall when the sweepers came in with their brooms. It did not shift when Dace began to wipe his wall, and the chalk dust went up white in the lamplight, and somebody dropped a bucket by the water barrel with a bang that made Cael's door shudder and nearly shut. He held it through the bang, and did not know how.
 
 At the other end of the bench Brom had not moved either. Once, very low, without turning his head, he said, "I have them. Barely. At the very end of mine." And a long while after that: "Whatever's under it, it isn't giving it to the room. It's like a lid."
 
-The band began. It came round Cael's head a notch at a time, as it had never done before, slowly, because he had never held anything this long. First a pressure at the temples, then a tightness behind the eyes, then a ring of ache that went all the way round, and still he did not let go. He thought of the hip in the lock, two *ands* of bright stillness, and of the canvas post at the Cinder House in the cold, and of a man on a bench at an estate wall for a month. He thought of nothing.
+The band began. It came round Cael's head a notch at a time, as it had never done before, slowly, because he had never held anything this long. First a pressure at the temples, then a tightness behind the eyes, then a ring of ache that went all the way round, and still he did not let go. He thought of the hip in the lock, two *ands* long, and of the canvas post at the Cinder House in the cold, and of a man on a bench at an estate wall for a month. He thought of nothing.
 
 The room emptied. The sweepers finished the near end of the floor and went to the far end. Dace began putting out the lamps along the east wall, one at a time, with the snuffer on its long pole, and the room went dimmer by halves.
 
@@ -178,13 +172,13 @@ They sat there a while longer without saying anything. The sweepers came back do
 
 "So did they."
 
-"So did they." Brom stood up, slowly, the way he did, a big man unfolding. He rolled his shoulders. "Did you get anything? Anything but *there*?"
+"So did they." Brom stood up slowly, a big man unfolding. He rolled his shoulders. "Did you get anything? Anything but *there*?"
 
 Cael thought about it with his palms pressed into his eyes.
 
 "No," he said. "The same as the other three times. Never more, never less, and the hard thing under." He made himself say the rest, all of it. "They stood exactly where I can only just reach, the whole time. They went when the lamps started going out. I don't know if either of those means anything." He took his hands down. "I'm not allowed to guess. I've been wrong once already."
 
-Brom looked down at him for a long moment.
+Brom looked down at him.
 
 "I've never sat still that long in my life," he said. "Not at the wall. Not ever." He held out his hand and pulled Cael up off the bench. "I thought I was the patient one."
 

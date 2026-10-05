@@ -4,7 +4,7 @@ On the Thursday he could not eat, and the heavyset man's wife did not try to mak
 
 She put the porridge in front of him anyway, as she put it in front of everybody. Half an hour later she took it away again without a word and gave it to the sister's hen, which lived in the coal box and ate anything. The heavyset man looked at Cael over the top of his carter's bill and said "Tonight?" Cael said yes. The heavyset man nodded and went back to the bill, which was the most he ever said about anything and was, Cael had come to understand, a great deal.
 
-Lira had eaten for both of them. She sat across the table with her staff against her chair and worked through two bowls and a heel of bread in a steady businesslike way, as if she were the one going out on the main floor and meant to be properly fuelled for it.
+Lira had eaten for both of them. She sat across the table with her staff against her chair and worked through two bowls and a heel of bread in a steady businesslike way.
 
 "You're not going to eat," she said.
 
@@ -16,7 +16,7 @@ Lira had eaten for both of them. She sat across the table with her staff against
 
 "Then lie down and don't sleep." She pointed her spoon at the ceiling. "Lie on your back and look at the beams. You've got a whole day and nothing in it but waiting, and you'll waste it all walking up and down that room till the sister comes up to see if you've gone mad." She ate. "I've seen you do it before a side floor. I'm not having it before a main one."
 
-He went up and lay on his back and looked at the beams, and she was right: it was better than walking up and down. Through the wall he could hear her come up after a while and go into her own room, and the small sounds of her winding a fresh cloth round her wrist, and then nothing. She did not go out to the alcove all morning, though it was her hour with the dock partner. He did not ask her about it later, and she did not say.
+He went up and lay on his back and looked at the beams, and she was right: it was better than walking up and down. Through the wall he could hear her come up and go into her own room, and the small sounds of her winding a fresh cloth round her wrist, and then nothing. She did not go out to the alcove all morning, though it was her hour with the dock partner. He did not ask her about it later, and she did not say.
 
 At noon Brom knocked on the door, once, as he had taught Cael to knock on a person, and came in without waiting and sat down on the end of the bed, which complained.
 
@@ -28,7 +28,7 @@ At noon Brom knocked on the door, once, as he had taught Cael to knock on a pers
 
 "Yes."
 
-"Good. Then it's not in your head any more. It's on the desk." He sat a while longer, a big quiet weight on the end of the bed, and Cael found that he did not mind the weight, and that the beams were easier to look at with it there. After a while Brom said, "You knock well now. Half, on a floor. That's more than I had at your age."
+"Good. Then it's not in your head any more. It's on the desk." He sat a while longer, a big quiet weight on the end of the bed, and Cael found that he did not mind the weight, and that the beams were easier to look at with it there. Then Brom said, "You knock well now. Half, on a floor. That's more than I had at your age."
 
 "You're a year older than me."
 
@@ -68,7 +68,7 @@ Cael nodded.
 
 "Is that why you've lit every lamp in the district?"
 
-"I've lit every lamp in the district," said Dace, "because if he loses to you I want everybody in the room to see exactly how, so nobody can come to my wall next week and tell me it was the light." He turned to go. "And if you lose to him, the same."
+"I've lit every lamp in the district," said Dace, "because if he loses to you I want everybody in the room to see how, so nobody can come to my wall next week and tell me it was the light." He turned to go. "And if you lose to him, the same."
 
 He had not been gone long when there was a scuffle at the arch and the tall lad from Keth's ring put his head round it, with the girl with sacking in her hair pushing at his back.
 
@@ -90,7 +90,7 @@ The girl with sacking in her hair had got her head under the tall lad's arm by n
 
 "I'll try not to."
 
-She thought about that, frowning, as if it were a sum she had been set and did not like the answer to. "Don't let him hurt you either," she said at last, and the two of them were gone, back to the front of the floor and the sitting still. Cael sat in the alcove with his hands on his knees and found that, for the first time all day, he wanted to laugh, and that it hurt somewhere under the ribs to want it.
+She thought about that, frowning. "Don't let him hurt you either," she said at last, and the two of them were gone, back to the front of the floor and the sitting still. Cael sat in the alcove with his hands on his knees and found that, for the first time all day, he wanted to laugh, and that it hurt somewhere under the ribs to want it.
 
 ---
 
@@ -106,7 +106,7 @@ She stood at the floor's edge in her usual place, with the main-floor book open 
 
 "Then it's a bout."
 
-Keth stood at the north mark with the practice blade low in his right hand and his little finger off the grip. He had dulled steel tonight, from the rack of main-floor blades that Dace kept locked behind his slate. A smith had rounded the edge, but not so round that it could not open a man's skin if it was drawn along it. He wore his ordinary shirt with the sleeves rolled, and he did not look at the crowd at all; he looked at Cael's feet, and then at Cael's face, and then back at the feet, the way he looked at a newcomer's feet in the ring.
+Keth stood at the north mark with the practice blade low in his right hand and his little finger off the grip. He had dulled steel tonight, from the rack of main-floor blades that Dace kept locked behind his slate. A smith had rounded the edge, but not so round that it could not open a man's skin if it was drawn along it. He wore his ordinary shirt with the sleeves rolled, and he did not look at the crowd at all; he looked at Cael's feet, and then at Cael's face, and then back at the feet.
 
 Cael came off the south mark slowly.
 
@@ -124,7 +124,7 @@ The cut came with no warning whatever, low across the front of Cael's thigh.
 
 And Cael was not there.
 
-He was half a body to the left and a little forward, in the lock, two *ands* of bright stillness with the dulled blade going by in front of him at the height of his knee. Then the lock let go and he was on his feet again, on the chalk, a long way outside Keth's next cut, breathing.
+He was half a body to the left and a little forward, in the lock, two *ands* of stillness with the dulled blade going by in front of him at the height of his knee. Then the lock let go and he was on his feet again, on the chalk, a long way outside Keth's next cut, breathing.
 
 He had not asked.
 
@@ -134,13 +134,13 @@ And it had not charged him. He went over himself standing off, at a walk, while 
 
 *First time.* He set the two words down at the back of himself, like a coin put in a pocket to be counted later, and turned to meet Keth, who was already coming round the chalk.
 
-Keth had seen it. He did not stop, but there was something in his face, a small lift at the corner of the mouth, as if a newcomer had done a thing in the ring that Keth had not taught him.
+Keth had seen it. He did not stop, but there was something in his face, a small lift at the corner of the mouth: a newcomer had done a thing in the ring that Keth had not taught him.
 
 He chained, then, for the first time that night.
 
 Cael pulled the gaze up to full depth, and the room narrowed at its edges, and he watched the chain come at the speed Keth used it against men who meant to beat him. It was high and across, two cuts in one breath, and the second finished long, a hand past where Cael's shoulder had been. And there it was, at the end of the second: the angle set, the feet behind, nothing to choose, and then the third out of what the second had left him.
 
-It was there at full speed, exactly as wide as it had been from a forearm away in the ring, and exactly as useless. Keth was throwing his chains from the very end of his reach, and the join opened two paces and more from where Cael stood. It was a small bright gap in a doorway on the far side of a yard, which he could see straight through and could not have reached in three strides.
+It was there at full speed, exactly as wide as it had been from a forearm away in the ring, and as useless. Keth was throwing his chains from the very end of his reach, and the join opened two paces and more from where Cael stood. It was a small bright gap in a doorway on the far side of a yard, which he could see straight through and could not have reached in three strides.
 
 He let it close, and stayed where he was.
 
@@ -158,7 +158,7 @@ The room came back in at the edges all at once: the lamps, the noise, the faces 
 
 The noise of the room had changed. It had come in to watch a boy with no Path do something nobody could explain, and what it had watched for a whole exchange was a boy walking backward round the edge of a floor. He could hear it in the noise: not anger yet, only a kind of puzzled restlessness, like a crowd at a race when the favourite has not yet bothered to run. Somebody near the street door shouted something about his feet. Somebody else laughed.
 
-At the north rope Lira had both hands on the top strand and was not looking at him at all, but at the stone a pace in front of his feet, as if she were reading the floor for him. Brom stood beside her with his arms folded on the top strand and his eyes on Keth.
+At the north rope Lira had both hands on the top strand and was not looking at him at all, but at the stone a pace in front of his feet, reading the floor for him. Brom stood beside her with his arms folded on the top strand and his eyes on Keth.
 
 Across the chalk Keth was not resting. He stood at his mark with the blade low, and he was looking at Cael's left hip.
 
@@ -176,7 +176,7 @@ The first knock went out from a planted foot as Keth came into a run, at the mea
 
 The second knock went out at the start of the next run, closer, a pace, and it answered.
 
-Keth was going forward and to his own right, hard, already committed, the whole of his weight set into the first cut of a three. For the length of the knock Cael had it as surely as if Keth had told him. Then he was shut, and the hip was free, and he did not need it. He stepped early, on his own feet, to the side Keth's weight was not going, and the first cut and the second went past him in the place he had left. He was a full breath ahead of the eyes, and it was a strange feeling, like reaching the bottom of a stair a step before you expect to.
+Keth was going forward and to his own right, hard, already committed, the whole of his weight set into the first cut of a three. For the length of the knock Cael was sure of it. Then he was shut, and the hip was free, and he did not need it. He stepped early, on his own feet, to the side Keth's weight was not going, and the first cut and the second went past him in the place he had left. He was a full breath ahead of the eyes, and it was a strange feeling, like reaching the bottom of a stair a step before you expect to.
 
 There was a sound from the rope, short and sharp. Lira.
 
@@ -196,7 +196,7 @@ Cael went round the chalk at a walk with his right hand over his left arm. When 
 
 And it had told him something he could not have bought any other way.
 
-He did the sum while he walked, with the arm stinging. Keth had a short cut, off the count, for a man who was timing him, and he had thrown it at Cael now, in the second exchange, in front of four hundred and fifty people, because he had felt himself being timed and it was the answer to that. A man did not throw his best things in the second exchange; he threw the things he would not mind losing, and the short cut was one of those. He had made it, Cael thought, for exactly this, for the men who read him, and he had spent it without a thought because it was the kind of thing a man made to spend.
+He did the sum while he walked, with the arm stinging. Keth had a short cut, off the count, for a man who was timing him, and he had thrown it at Cael now, in the second exchange, in front of four hundred and fifty people, because he had felt himself being timed and it was the answer to that. A man did not throw his best things in the second exchange; he threw the things he would not mind losing, and the short cut was one of those. He had made it, Cael thought, for this, for the men who read him, and he had spent it without a thought because it was the kind of thing a man made to spend.
 
 Which meant that the long finish was still underneath it, untouched, the thing Keth did not think about because he did not know it was there to think about. The chain was still the chain. The join was still the join. He had shown Cael the coat he wore over it, and nothing at all of what was under the coat.
 

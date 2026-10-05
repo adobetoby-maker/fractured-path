@@ -32,7 +32,7 @@ It was only at the long table under the north window, with the notebook open in 
 
 Havel had seen the boy at thirty feet and had known him at twenty, by the walk.
 
-He would have known that walk anywhere. He had watched it come across a square at Ardenmere toward a pump step, on a cold bright morning when he had been a much younger man with a much worse coat. It had changed since, grown longer in the stride and lighter on the heel, and it had stopped hurrying. But it still took the middle of whatever space it had been given and no more than the middle, as if somebody had once explained to the boy exactly how much room he was allowed and he had believed them.
+He would have known that walk anywhere. He had watched it come across a square at Ardenmere toward a pump step, on a cold bright morning two years ago, when he had worn a worse coat and been, he sometimes felt, a good deal younger than two years should account for. It had changed since, grown longer in the stride and lighter on the heel, and it had stopped hurrying. But it still took the middle of whatever space it had been given and no more than the middle, as if somebody had once explained to the boy exactly how much room he was allowed and he had believed them.
 
 The delegation's card was in Havel's inside pocket, beside the notebook. It was a small stiff card, printed, and every officer on the manifest had been handed one at the coast. Officers of the delegation did not converse with any party under review outside a sitting. They did not acknowledge any such party beyond ordinary courtesy. They did not carry messages, take papers, or accept anything offered.
 

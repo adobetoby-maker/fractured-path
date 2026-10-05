@@ -26,7 +26,7 @@ They did it for the rest of the hour. Brom shifted his weight and stepped, and C
 
 By the end of the hour the new column on his hand said seven out of fifteen.
 
-He looked at it for a long time while the band went round. Seven out of fifteen was not a law; it was one morning, in an alcove he knew, with a man he knew, who stood still for it far more than any man on a floor would. But it was nearer to half than anything he had had, and it had come from a place he had not been looking.
+He looked at it while the band went round. Seven out of fifteen was not a law; it was one morning, in an alcove he knew, with a man he knew, who stood still for it far more than any man on a floor would. But it was nearer to half than anything he had had, and it had come from a place he had not been looking.
 
 "There's another thing," said Brom, putting his coat on. "The ones that answer best, I'm going somewhere when they come. Not standing. Going." He buttoned the coat with his thick fingers, one button at a time. "If I've decided, it's loud. If I'm only standing there it's quiet, and you get your blur."
 
@@ -46,11 +46,11 @@ He had been carrying two halves of one thing in two different hands for a week, 
 
 "After, then."
 
-"After." Brom stood in the arch a moment longer, looking down at him. "You've gone a bit grey."
+"After." Brom stood in the arch a moment longer, looking down at him. "Your head's going."
 
 "It goes round."
 
-"I know it does. Eat something." He went.
+"I know it does. Sit a while before you stand." He went.
 
 ---
 
@@ -64,7 +64,7 @@ The square was still there under Keth's name, where it had been since the first 
 
 Cael stopped.
 
-"Yesterday. After the late card, while I was doing this." Dace touched the edge of the square with one finger, the way a man touches a sleeping animal to see whether it will wake. "He's left it empty half a season. Men have asked. Two of them asked twice. He said no to all of them, very politely, and went back to his newcomers. And last night he came over here and stood where you're standing and said yours." He turned round then. "I thought you'd rather hear it from me than from the board."
+"Yesterday. After the late card, while I was doing this." Dace touched the edge of the square with one finger, lightly. "He's left it empty half a season. Men have asked. Two of them asked twice. He said no to all of them, very politely, and went back to his newcomers. And last night he came over here and stood where you're standing and said yours." He turned round then. "I thought you'd rather hear it from me than from the board."
 
 "What did he say?"
 
@@ -124,15 +124,15 @@ The tall lad went with the boy with the tooth, and the sisters went with each ot
 
 "You've been watching me long enough," said Keth. "Have a go from this side."
 
-Cael felt the thing on his skin begin to stir, as it did now whenever he was close to anybody and his body was quiet. A forearm was where the knock was best. One knock, *there?*, and he would have Keth's weight and which way it was going, right at the join, at the place nobody had ever slowed down for.
+Cael felt the thing on his skin begin to stir; it did that now whenever he was close to anybody and his body was quiet. A forearm was where the knock was best. One knock, *there?*, and he would have Keth's weight and which way it was going, right at the join, at the place nobody had ever slowed down for.
 
 He let it close.
 
 He had not been asked, and this was not a bout. It was a man's own morning, given away for nothing to children, and Cael had come into it on that man's word. Whatever Keth gave off to the room, the room could have, and Cael's eyes were part of the room; going in was something else, and he did not have leave for it. He kept himself shut, and lifted the stick, and was a newcomer.
 
-They went through the chain slowly, Keth cutting and Cael meeting it with the ash, the way the ring was meant to: first cut, second cut, third. Keth's cuts were so light that they hardly touched the stick, and every one of them arrived exactly where it was meant to arrive. Cael's blocks were late twice and early once. Keth said nothing about either.
+They went through the chain slowly, Keth cutting and Cael meeting it with the ash, as the ring was meant to: first cut, second cut, third. Keth's cuts were so light that they hardly touched the stick, and every one of them arrived exactly where it was meant to arrive. Cael's blocks were late twice and early once. Keth said nothing about either.
 
-At the join, at the end of the second cut, the practice blade finished long, a hand past Cael's stick. Then there was the smallest stop, and the third came.
+At the join, at the end of the second cut, the practice blade finished long, past Cael's stick. Then there was the smallest stop, and the third came.
 
 From a forearm's length it was not a seam at all. It was a breath that had not quite been taken, and it lasted so short a time that if he had not had eleven pages telling him where to look he would have thought it was his own eyes blinking. But he had the pages, and it was there. It was there the second time and the third, and it was there when Keth sped up to show the dye-work sisters what the chain was for.
 
@@ -144,7 +144,7 @@ From a forearm's length it was not a seam at all. It was a breath that had not q
 
 "I've lost six," said the tall lad. "Six on the afternoon card. Six in a row."
 
-"Six." Keth crouched in front of him, with the blade across his own knees, so that his face was lower than the boy's. "Six is nothing. Do you know what I had, my second year? Eleven. Eleven in a row, on the side floors, to people who've all gone home to farm since." He said it seriously, as a man gives the price of corn. "Dace wanted to take me off his wall. I told him it was an educational period. I'd been sent to school by everybody in the building, I said, and I was learning a great deal, and I'd thank him not to interrupt my studies."
+"Six." Keth crouched in front of him, with the blade across his own knees, so that his face was lower than the boy's. "Six is nothing. Do you know what I had, my second year? Eleven. Eleven in a row, on the side floors, to people who've all gone home to farm since." He said it seriously. "Dace wanted to take me off his wall. I told him it was an educational period. I'd been sent to school by everybody in the building, I said, and I was learning a great deal, and I'd thank him not to interrupt my studies."
 
 The tall lad looked at him. One of the sisters laughed and stopped herself.
 
@@ -178,9 +178,9 @@ Cael did not deny it. He did not think it would have been honest to.
 
 "I don't mind," said Keth. "That's the thing I wanted to say. Everything I do on this floor, I do in front of people. I teach in front of them and I lose in front of them, and I've cried in front of them once, my first year, when I broke a man's wrist by mistake. A floor's the most public place in the world. If a man can see a thing from a bench, it's his." He lifted his finger off the grip and looked at it. "I'd only be sorry if you'd got it some other way."
 
-"I haven't." Cael heard himself say it, and was glad of it, and knew exactly how close he had come that morning to needing to say something else. "Only eyes. Only from where anybody could stand."
+"I haven't." Cael heard himself say it, and was glad of it, and knew how close he had come that morning to needing to say something else. "Only eyes. Only from where anybody could stand."
 
-"Then it's yours, fair, whatever it is." Keth was quiet for a little while. "So I asked for you because I want to know what three months of that bought. You've been reading the whole floor all season like a man reading the price board, and you lost to the big one and learned something from it, and you've beaten everything else they've put up. I've been the line at Iron in this building for four years. If you're past it, I want to be the one who finds out, and not somebody Dace books because the square's been empty too long." He paused. "And I'd like to see it. Whatever you've got on me, I'd like to see it come at me."
+"Then it's yours, fair, whatever it is." Keth was quiet a moment. "So I asked for you because I want to know what three months of that bought. You've been reading the whole floor all season like a man reading the price board, and you lost to the big one and learned something from it, and you've beaten everything else they've put up. I've been the line at Iron in this building for four years. If you're past it, I want to be the one who finds out, and not somebody Dace books because the square's been empty too long." He paused. "And I'd like to see it. Whatever you've got on me, I'd like to see it come at me."
 
 "It might not."
 
@@ -210,7 +210,7 @@ She had heard already. He could see that from the stair below. The district pass
 
 "I said a fortnight. He said take three."
 
-Lira finished the wrist and tied it off with her teeth, which the heavyset man's wife had told her twice not to do. Then she looked at him properly, in the light from her own open door, the way she looked at a fighter across a floor before *begin*, from the feet up.
+Lira finished the wrist and tied it off with her teeth, which the heavyset man's wife had told her twice not to do. Then she looked at him properly, in the light from her own open door, from the feet up.
 
 "You like him," she said.
 
@@ -236,9 +236,9 @@ It was the fullest page in the book. It had spilled over onto four others, and t
 
 He had looked again, from a forearm's length that morning, holding a stick, and it had been there.
 
-He wrote that under it, plainly. *From inside the ring, a forearm off: there. Slows every part of the chain for them but the join. Can't slow down there. Doesn't know it's there to slow down for.*
+He wrote that under it. *From inside the ring, a forearm off: there. Slows every part of the chain for them but the join. Can't slow down there. Doesn't know it's there to slow down for.*
 
-Then he sat with the pencil over the page for a long time, and the lamp ticked, and somewhere below him the heavyset man's wife was banking the kitchen range for the night.
+Then he sat with the pencil over the page, and the lamp ticked, and somewhere below him the heavyset man's wife was banking the kitchen range for the night.
 
 He had a rule about the book, though he had never written it in the book itself. The people in it were what they did on a floor, which was why their names had come out of it, all of them, and gone into marks that only he could read; and it was why he did not write what he thought of them, only what they did. A page was for a man's grip, and his count, and the place where his feet were late. It was not for whether you would have liked to sit on a bench with him, because that was no use to anybody, and on a floor it might very well be worse than no use.
 
@@ -246,7 +246,7 @@ He wrote it anyway, once, at the foot of the page, in the same small pencil as e
 
 *I like him.*
 
-He looked at it for a while. It was the only line on any page of the grey book that said what Cael thought rather than what somebody did, and it was true, and he was not going to rub it out. Keth had crouched beside a girl on the stone and waited for her to find her breath. He had told a boy who had lost six that he had lost eleven, and made a joke of it, and the joke had been for the boy and not for himself. He had sat on a bench and said that what a man could see from a bench was his, and meant it, and then asked to hear the yes from the man saying it.
+It was the only line on any page of the grey book that said what Cael thought rather than what somebody did, and it was true, and he was not going to rub it out. Keth had crouched beside a girl on the stone and waited for her to find her breath. He had told a boy who had lost six that he had lost eleven, and made a joke of it, and the joke had been for the boy and not for himself. He had sat on a bench and said that what a man could see from a bench was his, and meant it, and then asked to hear the yes from the man saying it.
 
 And Cael had a seam on him, at the join, in a place he had never once slowed down for. He had got it the fair way, and he would very likely use it, in front of everybody, on a floor this man had stood on as the line for four years.
 

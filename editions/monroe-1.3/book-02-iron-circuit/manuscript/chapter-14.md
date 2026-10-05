@@ -2,13 +2,13 @@
 
 Dace put her on with a clock.
 
-That was what the Ironyard called him, the young Blade from the salt end, and nobody used his name, though everybody knew it. He was nineteen and quick and Iron-equivalent in Vell's book since the spring, and he won by owning the time. He came out at the word and set a rhythm, a beat of his own, and made whoever was across from him fight to it, and by the third exchange they were dancing to his count without knowing it, and by the fourth he was hitting them on the beats they had not known were coming. The betting man would not take money on how long his bouts lasted, because they lasted exactly as long as the clock wanted them to.
+That was what the Ironyard called him, the young Blade from the salt end, and nobody used his name, though everybody knew it. He was nineteen and quick and Iron-equivalent in Vell's book since the spring, and he won by owning the time. He came out at the word and set a rhythm, a beat of his own, and made whoever was across from him fight to it, and by the third exchange they were dancing to his count without knowing it, and by the fourth he was hitting them on the beats they had not known were coming. The betting man would not take money on how long his bouts lasted, because they lasted as long as the clock wanted them to.
 
 "He's the worst match on my wall for you," Dace told Lira, at the slate, a week after the Force woman. "You're a waiter. You read and you answer. He doesn't give you anything to answer except his own time, and he gives it to you wrong."
 
 "Then put me on with him."
 
-Dace looked at her for a while, and at the ring he had drawn beside her name on the morning of Dravin, the one that meant *ask her afterward if she meant it*. Then he rubbed it out with his thumb.
+Dace looked at her, and at the ring he had drawn beside her name on the morning of Dravin, the one that meant *ask her afterward if she meant it*. Then he rubbed it out with his thumb.
 
 "I don't need to ask any more." He wrote the clock's name under hers.
 
@@ -38,7 +38,7 @@ He showed Lira the page on the evening before, closed, in his hand, knowing she 
 
 "There's one line on it I'd give you. Only one. It's not about what he does."
 
-She looked at the closed book for a long moment.
+She looked at the closed book.
 
 "No. Thank you. No." Then, as he was putting it away: "Is it a good line?"
 
@@ -50,7 +50,7 @@ She looked at the closed book for a long moment.
 
 She gave him the first exchange.
 
-Cael saw her do it, and saw that it was on purpose, but to the crowd it looked as if the clock had come out at the word and done what the clock always did. He set his beat, a quick hard tap-tap-tap of feet and blade, and Lira fell into it. She fell into it so naturally that by the middle of the exchange she was stepping on his beats and parrying on his beats and breathing on them. On the last of them he caught her a flat stinging cut across the outside of the thigh that she could not possibly have stepped, because she had been exactly where his count said she would be.
+Cael saw her do it, and saw that it was on purpose, but to the crowd the clock seemed to come out at the word and do what the clock always did. He set his beat, a quick hard tap-tap-tap of feet and blade, and Lira fell into it. She fell into it so naturally that by the middle of the exchange she was stepping on his beats and parrying on his beats and breathing on them. On the last of them he caught her a flat stinging cut across the outside of the thigh that she could not possibly have stepped, because she had been where his count said she would be.
 
 The benches liked it, and the betting man smiled a small private smile at his slate.
 
@@ -82,7 +82,7 @@ The clock walked back to his mark and did not shake his hands out but stood very
 
 At the rope the dock partner said, very quietly, to nobody, "Well, look at that."
 
-Cael came up out of the gaze and made himself count the room before anything else, as he had written in ink. There was the dock partner beside him, and the north post, and Vell's pen moving, and the betting man. He had stopped taking money altogether and was standing on his crate with his chalk held up like a man who has forgotten what he meant to write. And there was Lira at her mark with her eyes shut again and her lips going, and the outside of her left thigh, where the clock's cut had landed in the first, already stiffening. He could see it in the way she stood, keeping her weight off it. She would have to push off it in the next exchange, and she knew that too.
+Cael came up out of the gaze and made himself count the room before anything else, as he had written in ink. There was the dock partner beside him, and the north post, and Vell's pen moving, and the betting man. He had stopped taking money altogether and was standing on his crate with his chalk held up, forgetting what he had meant to write. And there was Lira at her mark with her eyes shut again and her lips going, and the outside of her left thigh, where the clock's cut had landed in the first, already stiffening. He could see it in the way she stood, keeping her weight off it. She would have to push off it in the next exchange, and she knew that too.
 
 It would cost her. Whatever she did next, she would do on a leg that had been hit, because she had let it be hit on purpose to learn a drum, as he had let his forearm be hit to learn a beat. It was the same trade. He found he did not like it any better from the rope.
 
@@ -94,19 +94,19 @@ It was not much, a hair, a quarter of a tap, to shake her out of his gaps. It wa
 
 He went back to his old count at once, as a frightened man goes back to his own house. She was in his gaps again before he had settled into it.
 
-But the thigh was telling on her now, a small hitch every time she pushed off the left leg, a catch of a quarter beat. Twice in that exchange the hitch threw her out of the gap and onto his beat, where his blade was waiting. Once he caught her on the forearm, glancing, and once on the hip. Both times she turned in, the way she had learned against Dravin, and took it on the strong side, and was back in the gaps on the next tap. She began to push off the right leg instead, which she never did, which was awkward and slower, and made it work by standing half a step closer to him than anybody sane would have stood.
+But the thigh was telling on her now, a small hitch every time she pushed off the left leg, a catch of a quarter beat. Twice in that exchange the hitch threw her out of the gap and onto his beat, where his blade was waiting. Once he caught her on the forearm, glancing, and once on the hip. Both times she turned in, as she had learned against Dravin, and took it on the strong side, and was back in the gaps on the next tap. She began to push off the right leg instead, which she never did, which was awkward and slower, and made it work by standing half a step closer to him than anybody sane would have stood.
 
 In the fourth he tried to go faster than she could. He drove his drum up, tap-tap-tap-tap, and for the first time in the bout she gave ground, a step and a step. Cael, deep in the hooks, saw her count go up with it, matching him gap for gap, faster, faster, her lips still moving. She could not hold it forever; nobody could hold that pace forever. But the clock could not hold it either, and the clock had never in his life had to hold his own count against somebody who was standing in its silences. At the end of the fourth exchange they were both breathing like bellows. The clock was looking at Lira with a face like a man who has been robbed in the street in broad daylight and cannot work out how.
 
 Cael came up out of the gaze with his head ringing.
 
-He had never seen her do this, and did not think she had known she could. In a year of mornings he had never once seen her match anybody's pace exactly, because she had never needed to. She had fought from outside people's reach, where pace did not matter, and you only had to match a man's time when you were standing close enough to be hurt by it. She had been standing that close for a month now, losing, getting sat down, coming home on both hands up the stairs, and here, at the end of the month, was a thing she could do that she would never have found from the outside.
+He had never seen her do this, and did not think she had known she could. In a year of mornings he had never once seen her match anybody's pace, because she had never needed to. She had fought from outside people's reach, where pace did not matter, and you only had to match a man's time when you were standing close enough to be hurt by it. She had been standing that close for a month now, losing, getting sat down, coming home on both hands up the stairs, and here, at the end of the month, was a thing she could do that she would never have found from the outside.
 
 "Begin."
 
 In the fifth she finished it with his own drum.
 
-The clock came out with his old count, the one he trusted, tap-tap-tap. Lira took it from him. She did not step into the gaps this time but on the beats, his beats, exactly, as she had in the first exchange when she had let him hit her. For three taps she was the clock's own shadow. The clock felt that too and began, from long habit, to set her up for the hit on the off beat, the way he had hit her in the first exchange.
+The clock came out with his old count, the one he trusted, tap-tap-tap. Lira took it from him. She did not step into the gaps this time but on the beats, his beats, exactly, as she had in the first exchange when she had let him hit her. For three taps she was the clock's own shadow. The clock felt that too and began, from long habit, to set her up for the hit on the off beat, as he had hit her in the first exchange.
 
 On the fourth tap she was not there.
 
@@ -124,13 +124,13 @@ At the rope the dock partner said, "Well, look at *that*," and put his face in h
 
 ---
 
-She was not smiling at Vell's table this time; she was too tired to smile. She stood with her hands flat on the edge of the table, her staff leaning against it, breathing hard, and looked at the book as if it were a long way off.
+She was not smiling at Vell's table this time; she was too tired to smile. She stood with her hands flat on the edge of the table, her staff leaning against it, breathing hard, and looked at the book from a long way off.
 
 Vell wrote. Cael read it upside down.
 
 *Lira, Copper formal, Wind. def. —* and the clock's name, which Cael read and did not keep — *(Iron-equiv., Blade). Fifth exchange. Pressed throughout. Matched pace.*
 
-Under it, in the margin of Lira's own line, where it had said in pencil all year *Copper-equivalent, high range*, Vell did not write anything at all. She looked at the old words for a long moment with her pencil above them.
+Under it, in the margin of Lira's own line, where it had said in pencil all year *Copper-equivalent, high range*, Vell did not write anything at all. She looked at the old words with her pencil above them.
 
 "Not yet," she said, to the line, not to Lira. "Nearer."
 
@@ -138,7 +138,7 @@ Then she closed the book.
 
 Lira did not seem to have heard; she was still looking at the table.
 
-"I didn't know I could do that," she said, to nobody, the way she had said it on the stone against Dravin. "The matching. I didn't know. I've never had to."
+"I didn't know I could do that," she said, to nobody, as she had said it on the stone against Dravin. "The matching. I didn't know. I've never had to."
 
 "You've never stood close enough to have to," said Cael.
 
@@ -166,7 +166,7 @@ He caught Cael's eye as Cael went past him on the way to the side door, and for 
 
 The betting man looked at him a long moment with his small flat eyes, and then laughed, once, through his nose.
 
-"Keep it, then. I'll find out next time the hard way, like everybody else." He turned his slate round and began to chalk a new line on it, at the bottom, under the evening's prices, where Cael could just read it. It was Lira's name, and beside it, where the betting man had always put a short price for a girl who won clean, a mark Cael had never seen him use for anybody. It was a small square with nothing written in it. "That's for *don't know*," said the betting man, without looking up. "I've never needed it before."
+"Keep it, then. I'll find out next time the hard way, like everybody else." He turned his slate round and began to chalk a new line on it, at the bottom, under the evening's prices, where Cael could just read it. It was Lira's name, and beside it, where the betting man had always put a short price for a girl who won clean, a mark Cael had never seen him use for anybody. It was a small square with nothing written in it. "That's for *don't know*," said the betting man, still chalking. "I've never needed it before."
 
 Cael wrote that night at the crate desk, in the grey book and not the Power Log, because it was about her and not him. He wrote it as a rule, which was the only way he could bear to write about her at all.
 
@@ -216,7 +216,7 @@ They did not happen to him. Nobody was rude, and nobody ran. A woman at a bread 
 
 It was not disorder; Havel had never thought it was, not even on his first case here. It was more like watching people play a card game whose rules everybody at the table had known since they were children and nobody would ever explain to a stranger. In the Ranked streets he could have told you what every person he passed was permitted to do and where it was written down. Here he could not have told you why a woman made change from her neighbour's box. He walked up the tannery lane with his case at his side and his face pleasant, writing none of it down, because none of it was against anything. The district was quietly arranging itself round him a few steps ahead, as a room arranges itself round a guest it has not invited and does not mean to offend. He felt, as he had felt each time before, very well-mannered and very foreign.
 
-The boarding house was where the file said it would be, two streets from the warehouse the whole district seemed to call the Ironyard, a name that was nowhere in his papers. It was a brick house at the blind end of a short row, and a heavyset man was sitting on its front step with his arms folded and his hat pushed back, watching Havel come down the row with exactly the expression he might have given a cloud.
+The boarding house was where the file said it would be, two streets from the warehouse the whole district seemed to call the Ironyard, a name that was nowhere in his papers. It was a brick house at the blind end of a short row, and a heavyset man was sitting on its front step with his arms folded and his hat pushed back, watching Havel come down the row with the expression he might have given a cloud.
 
 "I'm looking for Cael Hesk-ward," said Havel. "District compliance. A routine visit."
 
@@ -230,18 +230,18 @@ The heavyset man looked at the case, and at the coat, and at Havel's face, in th
 
 "No."
 
-Havel waited for more and got none. Boarding-house keepers in districts like this one gave an officer exactly what the law said they must and not a word over, and he did not blame them; in their place he would have done the same.
+Havel waited for more and got none. Boarding-house keepers in districts like this one gave an officer what the law said they must and not a word over, and he did not blame them; in their place he would have done the same.
 
 "Do you know where I might find him?"
 
-The heavyset man thought about it, honestly, as far as Havel could tell.
+The heavyset man thought about it, or seemed to.
 
 "Mornings," he said at last, "he's mostly at the market. Up top, where it opens out." He closed the book. "Or at the yard. But mornings, mostly, the market."
 
 Havel thanked him and stood a while on the row, as he always did, because hurrying a visit had never once in four years made it go better and standing still in a strange street told you things. The row went on round him, a woman with a basket, a man with a barrow, two girls with a rolled-up canvas between them, all of whom saw his coat and none of whom looked at it. Up the hill, somewhere past the end of the row, he could hear the noise of a big room, a regular slap and scuff and now and then a shout, like a gymnasium heard through a wall. He thought about going there; the file said nothing about it, and that was a reason to look. But the keeper had said *mornings, mostly, the market*, and Havel was a man who went where he had been told a thing would be before he went anywhere else.
 
-He came into the market at its foot, by a flight of worn stone steps going down toward the dyers' sheds, past a woman on the bottom stair behind three baskets of dried fruit who looked not at him but at the far end of the row, as if he were weather going by. The row was narrow and crowded and smelled of onions and wet rope and hot fat, and it did what the whole district had done, making way for him a step ahead and closing behind him a step after. He found, a little to his own surprise, that he admired it. He had been in Ranked markets where a grey coat made people stiff and loud and anxious to show him their stamps, and this was better, in its way. Nobody here was going to show him anything. They were simply going to let him pass.
+He came into the market at its foot, by a flight of worn stone steps going down toward the dyers' sheds, past a woman on the bottom stair behind three baskets of dried fruit who looked not at him but at the far end of the row. The row was narrow and crowded and smelled of onions and wet rope and hot fat, and it did what the whole district had done, making way for him a step ahead and closing behind him a step after. He found, a little to his own surprise, that he admired it. He had been in Ranked markets where a grey coat made people stiff and loud and anxious to show him their stamps, and this was better, in its way. Nobody here was going to show him anything. They were simply going to let him pass.
 
 At the top, where the row opened out into a square round a pump, he stopped and looked about him, as he had been taught.
 
-One of the faces, on the step of the pump, was already looking at him. It was a boy of fifteen or so with a twist of paper in his lap and a pear in his hand, sitting exactly where a person would sit who had nowhere in particular to be, and he was not getting up, and he was not looking away.
+One of the faces, on the step of the pump, was already looking at him. It was a boy of fifteen or so with a twist of paper in his lap and a pear in his hand, sitting where a person would sit who had nowhere in particular to be, and he was not getting up, and he was not looking away.

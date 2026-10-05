@@ -2,7 +2,7 @@
 
 He came the next morning, at the end of the drilling, when Lira had put her staff up on its pegs and Cael was sitting on the alcove bench with the grey book open and his hip telling him about the second burst.
 
-Cael saw him first in the edge of things, the way he saw most things now: a broad shape leaving the slate and coming across the bare stone where the big bouts went, not hurrying and not slowing. Lira saw him a moment later. She had been wringing the sweat out of her wrist cloth, and she stopped with it twisted in both hands.
+Cael saw him first in the edge of things, as he saw most things now: a broad shape leaving the slate and coming across the bare stone where the big bouts went, not hurrying and not slowing. Lira saw him a moment later. She had been wringing the sweat out of her wrist cloth, and she stopped with it twisted in both hands.
 
 The big man stopped in the arch of the alcove. He did not lean on it, as Red Cap did, or stand to one side of it, as Vell did. He took the very middle of the arch, hands hanging loose, and filled it.
 
@@ -34,7 +34,7 @@ The corner of Brom's mouth went in, very slightly, in a way that on another face
 
 He turned to go. Then he stopped half turned, with one shoulder in the alcove and one out of it, and looked down at the grey book on Cael's knee.
 
-"You changed the order. Of the pages." He said it plainly, the way a man reads out a figure. "The week after. I saw it from the rope. Before, you wrote while they were still fighting. After, you sat longer, and wrote less, and wrote it first." He considered the book a moment longer. "You listened. Most people who get told their method's wrong spend a month being angry before they hear it. Some spend longer."
+"You changed the order. Of the pages." He said it the way a man reads out a figure. "The week after. I saw it from the rope. Before, you wrote while they were still fighting. After, you sat longer, and wrote less, and wrote it first." He considered the book a moment longer. "You listened. Most people who get told their method's wrong spend a month being angry before they hear it. Some spend longer."
 
 He did not wait to be answered. He went off across the floor to the second alcove along, where nobody trained in the mornings, and took his coat off and hung it on a nail. Then he sat down on the bench there and began, slowly and without any hurry at all, to wind a strip of cloth round his left hand.
 
@@ -44,7 +44,7 @@ Lira let out her breath.
 
 "No."
 
-"He didn't say a single word to me. He looked at me twice." She put the wrist cloth on the bench beside Cael, carefully, as if it might go off. "I counted him. Not his steps. His words. Everything he said, from *Brom* to the end." Her lips moved. "Ninety-odd. Not one of them was *hello*."
+"He didn't say a single word to me. He looked at me twice." She put the wrist cloth on the bench beside Cael, carefully. "I counted him. Not his steps. His words. Everything he said, from *Brom* to the end." Her lips moved. "Ninety-odd. Not one of them was *hello*."
 
 "He doesn't spend them."
 
@@ -78,9 +78,9 @@ Then he wrote the thing that was not tactics, because it was true and the book w
 
 *I think I'm looking forward to this. I think I'll lose it.*
 
-He looked at the second sentence for a long time. Every honest sum he could run said it. He did not know Iron Skin. He did not know this man. He had been watched by him for three weeks and more, from close, while he had watched nothing back. The calm arithmetic he ran on every bout before he agreed to it came out, this time, on the other side of the line, and he had never once made a bout go better by lying to the page about it.
+He looked hard at the second sentence. Every honest sum he could run said it. He did not know Iron Skin. He did not know this man. He had been watched by him for three weeks and more, from close, while he had watched nothing back. The calm arithmetic he ran on every bout before he agreed to it came out, this time, on the other side of the line, and he had never once made a bout go better by lying to the page about it.
 
-But the sum did not change the looking forward, and that was the strange part, and he sat with it. A year ago a loss had been a cost, plainly, a thing that went in the third column with the others and was paid. Somewhere since, it had become something he could choose to buy. He had bought the river-academy man's whole cut with a forearm. He had watched Lira buy five things off Dravin with her ribs. A loss to the right man, taken honestly and watched all the way through, might be worth more than any win on the slate this side of midwinter.
+But the sum did not change the looking forward, and that was the strange part, and he sat with it. A year ago a loss had been a cost and nothing more, a thing that went in the third column with the others and was paid. Somewhere since, it had become something he could choose to buy. He had bought the river-academy man's whole cut with a forearm. He had watched Lira buy five things off Dravin with her ribs. A loss to the right man, taken straight and watched all the way through, might be worth more than any win on the slate this side of midwinter.
 
 "You've underlined *think*," said Lira, behind him, with a loaf under her arm.
 
@@ -114,7 +114,7 @@ It was a loss. It had been Brom's first bout on that stone, two months back, aga
 
 *Did not know the floor.*
 
-Cael stood with his finger under the line for a long time.
+Cael stood with his finger under the line.
 
 He knew the Shield's fighting. The Shield did not go first either, as a rule; he waited behind his guard and let people tire on it. Two men who began nothing had stood on the stone and looked at each other for seven exchanges, and at the end of it the big man had put his hand up. Cael tried to imagine it and could not. He could imagine only the end, and Vell's three words, and the seven lines after them in which the man had not lost again.
 
@@ -144,7 +144,7 @@ In the evening they went back down to the alcove, after the lamps were lit and t
 
 He had learned that in the winter, from Lira, in the weeks of testing when she stood over him with a stick and called a stop at every burst. Last month's body belonged to somebody else, and a plan made for it would be fought by somebody else. So he stood on the chalk cross by the straw post with the noise of the card coming through the arch, and she stood off with the broom-handle measuring stick, and they began where they always began, with one.
 
-He dropped his left hip, and the floor went short, and he was half a body to the front-left with the breath stopped in him. He landed, and locked: two *ands* of nothing, the slow bright stillness he could not move in. Then it let go.
+He dropped his left hip, and the floor went short, and he was half a body to the front-left with the breath stopped in him. He landed, and locked: two *ands* of nothing, the slow clear stillness he could not move in. Then it let go.
 
 "One," said Lira. "Same as ever."
 
@@ -164,7 +164,7 @@ Lira did not say anything for a moment.
 
 "That's two."
 
-He did it three more times, and it came three more times. Then once it did not. He came out of the lock with the second burst asked for and nothing there to answer, his breath half gone and his feet stuck on the chalk like a man who has reached for a stair rail that was not there. Then three more times it came again. Six in seven. He sat down on the bench and wrote it with his hand not quite steady.
+He did it three more times, and it came three more times. Then once it did not. He came out of the lock with the second burst asked for and nothing there to answer, his breath half gone and his feet stuck on the chalk. Then three more times it came again. Six in seven. He sat down on the bench and wrote it with his hand not quite steady.
 
 "Now three," he said.
 
@@ -172,11 +172,11 @@ He did it three more times, and it came three more times. Then once it did not. 
 
 "Once. To know."
 
-Lira looked at him with the stick in her hand. She had a way of looking at him when he asked to do a stupid thing for a good reason, as if she were deciding which of the two to answer.
+Lira looked at him with the stick in her hand. She had a way of looking at him when he asked to do a stupid thing for a good reason: she seemed to be deciding which of the two to answer.
 
 "Once," she said. "I'm calling it."
 
-He filled himself until his ribs hurt. He went short, and locked, and went short again off the edge of the lock, and locked again, and in the second lock he felt the breath go out of the bottom of him like water out of a cracked jug. He knew before the lock let go that there would be no third. He asked for it anyway, because he had said he would. Something in the hip moved, and stopped, and he came out of the second lock onto his knees with the alcove going grey at the edges, the lamps turning to smudges, and a ringing in his ears.
+He filled himself until his ribs hurt. He went short, and locked, and went short again off the edge of the lock, and locked again, and in the second lock he felt the breath go out of the bottom of him. He knew before the lock let go that there would be no third. He asked for it anyway, because he had said he would. Something in the hip moved, and stopped, and he came out of the second lock onto his knees with the alcove going grey at the edges, the lamps turning to smudges, and a ringing in his ears.
 
 "Stop," said Lira, from somewhere. "Stop. Breathe. That's it. Stop."
 
@@ -208,7 +208,7 @@ The return was very short, in a young man's level hand, with every letter the sa
 
 Havel. Coss knew him from the duty board: four years in, new boots in the corridor, a careful one whom nobody talked about because there was nothing to say.
 
-He knew, too, how the visit would have gone, as surely as if he had walked it himself. The young man would have gone in through the river gate with his case in his left hand and been sent up the hill by somebody who did not want him in the house, and there at the top, at the pump in the square, sitting in the open in front of everybody, would have been a boy of fifteen with nothing in his hands, already looking at him.
+He knew, too, how the visit would have gone; he could have walked it himself. The young man would have gone in through the river gate with his case in his left hand and been sent up the hill by somebody who did not want him in the house, and there at the top, at the pump in the square, sitting in the open in front of everybody, would have been a boy of fifteen with nothing in his hands, already looking at him.
 
 He wondered, for no reason he could have given, what the boy was doing now, this grey Thursday afternoon. Sitting on a bench somewhere with a book open on his knee, most likely, watching somebody who did not know yet how much was being written down about him.
 
@@ -228,7 +228,7 @@ There were three lines in it now. The first was the registry's, *[SHATTERED]*, w
 
 The designation had no prefix he knew. Its shape was the shape he remembered from the slip, the run of letters and the gap and the figure after it, and he was nearly sure it was the same code. He could not be sure. On the afternoon he found the slip he had sat with his working log open in front of him, eleven years of plain black books bought with his own money and every file he had ever opened written up in them in his own hand, and he had left that day's page empty on purpose, because a thing written down could be found. So the one thing he needed to check this line against was nowhere: not in the registry, not in his log, only in his memory of a slip of grey paper that had come off its pins and gone wherever the clerks sent such things.
 
-Under nobody's line, the young man had signed his own. Havel would have read the leaf from top to bottom, as anybody who wrote that hand read everything, and seen the empty column when he came to enter his line beneath it, and he had not taken it upstairs. He had written *as instructed* and closed the file. Coss knew exactly what that had cost him, because it was what Coss had done; and he felt two things at once, neither of which he liked. One was relief, plain and shameful, that the young man had sent no note upstairs with his name on it. The other was the thought that he had now watched two men find the same nothing in the same file and say nothing, and that one of them had learned it from the other without ever being told.
+Under nobody's line, the young man had signed his own. Havel would have read the leaf from top to bottom, as anybody who wrote that hand read everything, and seen the empty column when he came to enter his line beneath it, and he had not taken it upstairs. He had written *as instructed* and closed the file. Coss knew what that had cost him, because it was what Coss had done; and he felt two things at once, neither of which he liked. One was relief, plain and shameful, that the young man had sent no note upstairs with his name on it. The other was the thought that he had now watched two men find the same nothing in the same file and say nothing, and that one of them had learned it from the other without ever being told.
 
 The query form was in his drawer upstairs. He thought of the last one he had sent, months ago, and the single word that had come back in the spring pouch in a hand he did not know: *Noted.* He thought of the kitchen table at home, and a girl doing her sums with her tongue between her teeth.
 
@@ -236,13 +236,13 @@ He had not asked then. He did not ask now.
 
 He pushed the file back across the counter, and the clerk took it off down the long room to shelve it between a carter's licence and a widow's pension, where it had been.
 
-Upstairs he put the return through on its routing card without a mark. Then he opened his working log on the desk to the day's page and uncapped his pen, and sat for a long time. Every true thing he knew pointed upward, at a floor he had never stood on, and he had spent eleven years learning what happened to men who pointed there; there was nothing he could put on the page that was both true and safe.
+Upstairs he put the return through on its routing card without a mark. Then he opened his working log on the desk to the day's page and uncapped his pen, and sat. Every true thing he knew pointed upward, at a floor he had never stood on, and he had spent eleven years learning what happened to men who pointed there; there was nothing he could put on the page that was both true and safe.
 
 So the page stayed empty. It was the second.
 
 He went home through the streets in the dark with the log buttoned inside his coat. At the kitchen table his daughter was drawing a map for her lessons, the river and the bridges and the gates, very carefully, with the Unranked District on the far bank left white because her master had told her nothing there needed drawing.
 
-"Was it a good day?" she asked, without looking up.
+"Was it a good day?" she asked, still drawing.
 
 "It was a day." He hung his coat on its peg and stood with his hand on it a moment, feeling the log through the cloth. "You've left that side blank."
 

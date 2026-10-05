@@ -2,7 +2,7 @@
 
 The Stone from up the river was the widest person Cael had ever seen fight a Wind, and he stood on the south mark under the lamps as if the floor had been laid round him.
 
-He was not tall, perhaps a hand shorter than Lira, and twice as broad, with forearms like the stone they named his Path for. When he set his feet he set them the way a gatepost is set, a little apart and a little turned out, so that you could see the weight go down through them into the floor. He was Iron-equivalent in Vell's book, and had been for three seasons, and Dace had chosen him for exactly that. Cael understood it as soon as he saw the man stand: a provisional rating was a claim, and a confirming bout was the claim tested against somebody who would not give it to you. Nobody on Dace's wall gave anything to anybody less than this man did.
+He was not tall, perhaps a hand shorter than Lira, and twice as broad, with forearms like the stone they named his Path for. When he set his feet he set them the way a gatepost is set, a little apart and a little turned out, so that you could see the weight go down through them into the floor. He was Iron-equivalent in Vell's book, and had been for three seasons, and Dace had chosen him for that. Cael understood it as soon as he saw the man stand: a provisional rating was a claim, and a confirming bout was the claim tested against somebody who would not give it to you. Nobody on Dace's wall gave anything to anybody less than this man did.
 
 It was the main floor, the Thursday evening card, the third bout. The lamps were lit but not all of them, sixteen or so, a season Thursday and not a big night; there were perhaps two hundred on the benches. The four girls from the wall were in a row by the water barrel, with the dock partner behind them. Brom was at the rope beside Cael at the north post, with his coat on and his arms folded on the top strand, and he had said nothing since they came in.
 
@@ -24,11 +24,11 @@ Cael watched it, and in the second exchange the Stone began to send things at Li
 
 They were not hard strikes but short pushes off the forearm, flat, at the height where a Wind would catch them on the staff and turn them and send them on. That was what Lira did, every time: caught, turned, sent, with the step that did not stop riding through it. It was beautiful to watch from the rope. The Stone's pushes went round her like water round a post, and twice her staff came back off the catch into his ribs before he had his forearm home. The benches liked it, and a sound went along them each time, the sound of people seeing a thing they had come to see.
 
-But the Stone did not mind the ribs. He took the staff there without moving and sent another push, and another, at the same height, at the same hands. Cael, who had been reading feet for a year, saw the man's weight go a little further forward each time, a finger's width at a time. He was not trying to land them. He was timing the catch.
+But the Stone did not mind the ribs. He took the staff there without moving and sent another push, and another, at the same height, at the same hands. Cael, who had been reading feet for a year, saw the man's weight go a little further forward each time. He was not trying to land them. He was timing the catch.
 
 "There," said Brom.
 
-On the fifth push the Stone did not push. He let his forearm go into Lira's staff as if to be caught, and as her hands closed on the catch, he set his weight. It was the place Brom had told her about on the walk up the hill, the place in the middle where her hands had to turn the catch into a send. For less than half a beat the staff was held and not yet sent, and the Stone leaned into it with everything that made him a Stone.
+On the fifth push the Stone did not push. He let his forearm go into Lira's staff, offering the catch, and as her hands closed on the catch, he set his weight. It was the place Brom had told her about on the walk up the hill, the place in the middle where her hands had to turn the catch into a send. For less than half a beat the staff was held and not yet sent, and the Stone leaned into it with everything that made him a Stone.
 
 The staff went back into her own shoulder, and Cael heard it from the rope. Lira went two steps back across the stone, off her line, and the step that did not stop stopped.
 
@@ -46,7 +46,7 @@ Lira came to the north post for the reset and did not look at either of them. Sh
 
 "Every time you catch," said Brom. "As long as you're catching."
 
-Lira was quiet. In the middle of the floor the Stone stood on his mark with his weight down through his heels, not even breathing hard, looking at nothing, as a gatepost looks at a field.
+Lira was quiet. In the middle of the floor the Stone stood on his mark with his weight down through his heels, not even breathing hard, looking at nothing, a gatepost in a field.
 
 "I can't fix my hands in a reset," said Lira.
 
@@ -60,9 +60,9 @@ She went back out to her mark before either of them could answer, and rolled the
 
 Cael did not understand what she meant until the third exchange was half over, and then he understood all of it at once.
 
-She did not catch anything. The Stone sent his pushes at her hands, at the height and the time he had found, and her hands were not there. She was not there. She was round his left side, and the push went into air, and the Stone turned, a gatepost on a hinge. When he turned she had moved the angle again without moving a step, turning on her heel, the way she had taught Brom on a chalk line at first light. She was in front of him and outside his forearm, where a push could not reach her without his whole body following it.
+She did not catch anything. The Stone sent his pushes at her hands, at the height and the time he had found, and her hands were not there. She was not there. She was round his left side, and the push went into air, and the Stone turned, a gatepost on a hinge. When he turned she had moved the angle again without moving a step, turning on her heel, the turn she had taught Brom on a chalk line at first light. She was in front of him and outside his forearm, where a push could not reach her without his whole body following it.
 
-It was the feet. She had stopped fighting him with her hands, where she was Copper, and was fighting him entirely with her feet, where Brom had felt her past it on the first morning. She would not stand where a catch was needed; she made the Stone come to her, and every time he came, he came a little off his line, a little turned, his weight a finger's width the wrong way. And when it was the wrong way she sent the staff into it off the step that did not stop, without ever having caught a thing.
+It was the feet. She had stopped fighting him with her hands, where she was Copper, and was fighting him entirely with her feet, where Brom had felt her past it on the first morning. She would not stand where a catch was needed; she made the Stone come to her, and every time he came, he came a little off his line, a little turned, his weight a little the wrong way. And when it was the wrong way she sent the staff into it off the step that did not stop, without ever having caught a thing.
 
 It was slower than the other way. It cost her more ground and more breath, and twice the Stone nearly had her against the rope. But he could not find her hands, because she was not using them, and Cael watched the man begin to understand that. He watched him stop pushing, and stand, and wait for her to come in. She would not come in. He watched him decide he would have to go to her, and come off his heels to do it.
 
@@ -74,7 +74,7 @@ A Stone off his heels was a Stone that could be moved. In the fourth Lira moved 
 
 The four girls from the wall made a noise that went up into the beams, and the dock partner put both his arms in the air.
 
-Brom did not move at all, but stood at the rope with his arms still folded on the top strand and watched Lira go to the Stone and shake his hand. Cael saw the back of his neck go slowly red from the collar.
+Brom did not move at all, but stood at the rope with his arms still folded on the top strand and watched Lira go to the Stone and shake his hand.
 
 Vell wrote standing, as she did on the main floor now, the book on her forearm.
 
@@ -86,7 +86,7 @@ Lira came back to the north post with her shoulder held in and her face doing no
 
 "That's most of fixing a thing," said Brom.
 
-She looked at him, and then, without saying anything, she leaned very briefly against his arm with her good shoulder, the way you lean on a wall at the end of a long day. Brom stood quite still and let her, for perhaps a breath. Then she straightened up and went off to find a cold cloth for the shoulder, and Brom stood at the rope looking straight ahead of him, red to the ears.
+She looked at him, and then, without saying anything, she leaned very briefly against his arm with her good shoulder. Brom stood quite still and let her, for perhaps a breath. Then she straightened up and went off to find a cold cloth for the shoulder, and Brom stood at the rope looking straight ahead of him, red to the ears.
 
 Cael found that he had not written down a single thing all evening, and found, too, that he did not mind.
 
@@ -94,23 +94,23 @@ Cael found that he had not written down a single thing all evening, and found, t
 
 The first time the new sense lied to him, it was on an ordinary night, and the lie was nobody's fault but his.
 
-He had begun to do a thing at the end of every evening card, in the quiet after the last bout, while the benches emptied and Dace wiped his wall. He would sit on the end of the east bench, very still, with his hands on his knees, and let the door come open on its own, and take what the room gave him: who was there, where, and whether they moved. He did not go into anybody. That was the rule he had written, and the sweep kept to the room's side of it. He called it the sweep, privately, after the officers' sweeps, and was aware of the joke. Mostly there was nothing in the room but the sweepers and Vell. Sometimes there were a few late fighters at the water barrel, small weights at the edge of his range, going about their business. It cost him a little each night, a short band and a quarter-hour of aching eyes, and he paid it because the only way to learn the thing was to use it when there was nothing riding on it, and the end of a card was the only time he could find.
+He had begun to do a thing at the end of every evening card, in the quiet after the last bout, while the benches emptied and Dace wiped his wall. He would sit on the end of the east bench, very still, with his hands on his knees, and let the door come open on its own, and take what the room gave him: who was there, where, and whether they moved. He did not go into anybody. That was the rule he had written, and the sweep kept to the room's side of it. He called it the sweep, privately, after the officers' sweeps, and was aware of the joke. Mostly there was nothing in the room but the sweepers and Vell, and a few late fighters at the water barrel, going about their business. It cost him a little each night, a short band and a quarter-hour of aching eyes, and he paid it because the only way to learn the thing was to use it when there was nothing riding on it, and the end of a card was the only time he could find.
 
 On the fourth night of the sweep, at the very edge of his range, along the west wall where the lamps had already been put out, there was somebody.
 
-He felt it come in and his whole body went still in a different way. It was a weight, a long way off, at the limit of what he could reach sitting, and it did not move. It lay low, so low and so steady that it was almost nothing, a thin even pressure lying against the west wall in the dark, not moving, not changing. It was exactly the way, he thought, with his heart beginning to go, a person would hold himself who did not want to be found.
+He felt it come in and his whole body went still in a different way. It was a weight, a long way off, at the limit of what he could reach sitting, and it did not move. It lay low, so low and so steady that it was almost nothing, a thin even pressure lying against the west wall in the dark, not moving, not changing. It was the way, he thought, with his heart beginning to go, a person would hold himself who did not want to be found.
 
 He kept still, and did not go into it, and did not dare look. Ten breaths, fifteen, and it did not change by a hair.
 
-Then he stopped and thought, very deliberately, about what he actually had. He had *somebody*. He had *at the west wall, low*. He had *not moving*. That was the whole of it. Everything else, the not wanting to be found, the hiding, the dark, he had put there himself, between one breath and the next, because he had been afraid of exactly that for a year and his fear had been waiting at the door with its coat on.
+Then he stopped and thought, very deliberately, about what he actually had. He had *somebody*. He had *at the west wall, low*. He had *not moving*. That was the whole of it. Everything else, the not wanting to be found, the hiding, the dark, he had put there himself, between one breath and the next, because he had been afraid of that for a year and his fear had been waiting at the door with its coat on.
 
 He let the door shut, and stood up, with the band coming, and walked down the room along the west wall, not quickly, to see.
 
 It was a man asleep.
 
-He was a fighter, a big Force from the salt end whom Cael knew by sight. He had fought on the second card and lost, and had sat down on the end of the west bench in the dark to wait for a friend, and had gone to sleep there sitting up with his chin on his chest and his arms folded and his mouth a little open. He was snoring, very faintly. What came off him, this close, without Cael asking it anything, was only a man asleep: slow, low, going nowhere, the way a mill-wheel ticks over at night on the last of the race. Brom at supper had given off something like it, only older and banked. This was not banked; it was only sleep.
+He was a fighter, a big Force from the salt end whom Cael knew by sight. He had fought on the second card and lost, and had sat down on the end of the west bench in the dark to wait for a friend, and had gone to sleep there sitting up with his chin on his chest and his arms folded and his mouth a little open. He was snoring, very faintly. What came off him, this close, without Cael asking it anything, was only a man asleep: slow, low, going nowhere, a mill-wheel ticking over at night on the last of the race. Brom at supper had given off something like it, only older and banked. This was not banked; it was only sleep.
 
-Cael stood and looked at him for some time, a man asleep on a bench, and felt the band settle in behind his eyes, and was ashamed in a small sharp way that he would remember.
+Cael stood and looked at him, a man asleep on a bench, and felt the band settle in behind his eyes, and was ashamed in a small sharp way that he would remember.
 
 He wrote it in the Log that night, under the Iron-adjacent entry, and wrote all of it, because the mistake was the thing worth keeping.
 
@@ -132,23 +132,23 @@ There was the usual: a scatter of small weights, moving, going. He had learned t
 
 It was low, and it was still. His heart went, and he remembered the man asleep on the west bench and made it stop.
 
-He did not believe it, and he did not go into it. He only sat with it as the room gave it to him, the way you sit with a sound in the next room and let it tell you what it is.
+He did not believe it, and he did not go into it. He only sat with it as the room gave it to him, and let it tell him what it was.
 
-It was not sleep: he knew the sleeping man's slow rise and fall now, and this had none. It was not Brom's banked fire either, low and steady and never thought about. This was kept. Whatever reached him from the back wall reached him at exactly the same weight, breath after breath, not a hair more, not a hair less, as if somebody were minding it. It was the way a fighter stands primed and does not build, for a whole count of ten, because he has decided to. And there was something in it, faint, that he could feel without going looking, the way you can feel a stone under a blanket without lifting the blanket: a hardness kept back. It felt to his skin a little like what he had put his knuckles into on the alcove crosses for three mornings. It was not the same, but it was a cousin to it.
+It was not sleep: he knew the sleeping man's slow rise and fall now, and this had none. It was not Brom's banked fire either, low and steady and never thought about. This was kept. Whatever reached him from the back wall reached him at exactly the same weight, breath after breath, not a hair more, not a hair less. A fighter stands so, primed and not building, for a whole count of ten, because he has decided to. And there was something in it, faint, that he could feel without going looking, like a stone under a blanket: a hardness kept back. It felt to his skin a little like what he had put his knuckles into on the alcove crosses for three mornings. It was not the same, but it was a cousin to it.
 
 It was like a fire somebody had banked for the night and then sat up beside, awake, with their eyes on the coals.
 
-He turned his head, slowly, the way a man turns his head to look for a friend.
+He turned his head slowly, a man looking for a friend.
 
 There was somebody at the back wall, standing against the stone in the half-dark under the last lamp, in a plain dull coat with the collar up and a hat pulled low, with their hands in their pockets. They were not tall and not short, not broad and not slight, the kind of person the eye slid off without catching on anything. They were not looking at the floor, or at the people going, or at the betting man's crate. As far as Cael could tell under the hat brim, they were not looking at anything.
 
 Then the door shut, because he had looked, and the band came round his head, and when he could see properly again the place at the back wall was empty.
 
-He did not get up and go after them. He thought about it, with his heart going, and decided not to, and found when he examined the decision that it was not fear that had made it. A person who could stand at the back wall for a whole card and give off the same thing at every breath was a person who would be very good at not being followed. And he had nothing he could say to them, because he did not know what they were for.
+He did not go after them. It was not fear that decided it: a person who could stand at the back wall for a whole card and give off the same thing at every breath would be very good at not being followed, and he had nothing to say to them, because he did not know what they were for.
 
-He sat on the bench until the sweepers came, with the band round his head, going through it as he would have gone through a bout. Somebody, still, at the back wall for the length of a card. The same weight every breath, as if it were being kept so. Something hard underneath, a cousin to Brom's. Gone the moment he looked.
+He sat on the bench until the sweepers came, with the band round his head, going through it as he would have gone through a bout. Somebody, still, at the back wall for the length of a card. The same weight every breath, kept so. Something hard underneath, a cousin to Brom's. Gone the moment he looked.
 
-It was not the Compact; he was nearly sure of that. The one Compact man who had come for him had come to the front door with a lodgers' book in his hand and asked for him by name, and stood in the market square with a pencil and a pear. Officers came to doors. This one had come nowhere near him at all.
+It was not the Compact; he was nearly sure of that. The one Compact man who had come for him had come to the front door and asked for him by name. Officers came to doors. This one had come nowhere near him at all.
 
 He told Lira that night, at the kitchen table, before he told the book. He had not promised her this, but he thought, sitting across from her with the lamp between them, that it was the same promise, and that she would think so too.
 
@@ -174,9 +174,9 @@ Lira looked at him a long while.
 
 He saw them again ten days later, in the market, with Lira beside him and a loaf in his hand, and this time he paid for it.
 
-It was the middle of the morning, and the row was full. They had come up from the baker's to the pie stall at the top, because Lira wanted a pie and said she had earned one. Cael was walking with the thin thing open on his skin, asking it only the one small question, *is there anybody*, and it was saying *yes* and *yes* and *yes* in the way it did in a crowd, so often that it was nearly no use at all. He had only kept it open to practise.
+It was the middle of the morning, and the row was full. They had come up from the baker's to the pie stall at the top, because Lira wanted a pie and said she had earned one. Cael was walking with the thin thing open on his skin, asking it only the one small question, *is there anybody*, and it was saying *yes* and *yes* and *yes* as it did in a crowd, so often that it was nearly no use at all. He had only kept it open to practise.
 
-At the pie stall he stopped, to pay, and when he stopped, the door opened wider on its own, the way it did now when he stood still. And among all the *yes*es, close, four or five paces off across the stall row, there was one that did not come and go like the others. It sat, four or five paces off, and pressed on him at the one unchanging weight he had carried home from the back wall.
+At the pie stall he stopped, to pay, and when he stopped, the door opened wider on its own, as it did now whenever he stood still. And among all the *yes*es, close, four or five paces off across the stall row, there was one that did not come and go like the others. It sat, four or five paces off, and pressed on him at the one unchanging weight he had carried home from the back wall.
 
 He did not turn his head; he had learned that much. He did not go into it, either, though he wanted to more than he had wanted anything for weeks. He stood at the pie stall with his coin out and looked at the pies, and held the door open, and let it give him what it gave the street, until he was sure.
 
@@ -184,7 +184,7 @@ It was hard, because he was standing, not sitting. The row was full of people go
 
 He let it shut, and the band came round his head so hard that he put his hand out to the edge of the stall.
 
-When he could look, he looked across the stall row, as if at the paper stall beyond it. There was a plain dull coat at the paper stall with its back to him, its collar up, turning the pages of a broadsheet without reading it. As he looked, it folded the broadsheet and put it back on the pile, and went away down a side lane without once turning round, at an ordinary pace, as anybody might.
+When he could look, he looked across the stall row, toward the paper stall beyond it, idly. There was a plain dull coat at the paper stall with its back to him, its collar up, turning the pages of a broadsheet without reading it. As he looked, it folded the broadsheet and put it back on the pile, and went away down a side lane without once turning round, at an ordinary pace, as anybody might.
 
 "What?" said Lira.
 
@@ -196,7 +196,7 @@ The band lasted the rest of the morning and took his afternoon in the alcove wit
 
 *The market. Same one. Four or five paces, across the stalls, me standing, the row full. Held it about a minute to be sure, from outside: never more, never less, the hard thing under. Cost: the morning and the afternoon. They walked off as I looked, and didn't look back.*
 
-And under it, after a long time looking at the page:
+And under it:
 
 *They can keep that up for a whole card. A minute of them, on my feet, took my whole day. Right now they can wait much longer than I can listen. Watch whether that gets better or worse.*
 
@@ -236,7 +236,7 @@ Cael stood in the lane with his head aching and looked at it, and at the lane go
 
 "That's not a coincidence."
 
-"No." He watched the cobbles. "It's not the Compact either. I'm nearly sure. They'd come to the door." He thought about it, honestly. "And it's not a scout, I don't think. A scout wants you to know you've been seen. It's how they bargain. This one doesn't want me to know anything."
+"No." He watched the cobbles. "It's not the Compact either. I'm nearly sure. They'd come to the door." He thought about it. "And it's not a scout, I don't think. A scout wants you to know you've been seen. It's how they bargain. This one doesn't want me to know anything."
 
 Lira walked a while.
 

@@ -222,3 +222,63 @@ flesch_reading_ease 85.9 (target 72.3) · flesch_kincaid_grade 4.7 (target 6.8)
 10. **Withrow at the recess window** is a new scene (a Withrow beat; she owns the seating).
 11. **The placement bout** is staged as a ladder bout "for the fifth line" (Force vs Stone), not the source's 5th–8th placement round.
 12. **Unnamed by design:** the delegation counsel, Withrow's counsel, all clerks (delegation and registrar's), Vastin's mentor, the wing observer, the instrument woman, the fire-watch boy, the porter and his boy, the two fifth-line fighters.
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. Every change was chosen and worded by hand. Changes went in through the Edit tool or through exact before→after strings written by hand, and any miss failed. The source chapters were not reopened. Only ch45–50 and this report were edited. No git commands were run. Nothing moved in the calendar, so the day table above stands.
+
+### Changelist by chapter
+
+- **ch45**
+  - The red bundle is now ONE semester: "Fourteen demonstration sittings from a single semester", "One semester of a boy's sittings, fourteen of them… when the person producing them is fifteen". The "two years… fourteen and then fifteen" is gone; "month to month" became "week to week".
+  - Brom's boxes: "All season he had done them four a week, but on the night of his semifinal Rooke had put him on one a night until the final, and Karis had ruled a fresh page to match." This reconciles the ledger's four a week (round one finished ≈d160) with the nightly boxes ruled to the eighteenth.
+- **ch46**
+  - Havel: "a much younger man" becomes his own wry exaggeration: "two years ago, when he had worn a worse coat and been, he sometimes felt, a good deal younger than two years should account for."
+- **ch47**
+  - "Day sixteen of the ledger; twenty-nine since the stair" (the ledger began d163; the stair night was d149/150), so it agrees with "a month".
+  - The drill: "Before the thirtieth repetition of the left side, the last one the drill called for, Brom stopped". "The last one" now agrees, and 54/60 is unchanged.
+- **ch48**
+  - Seln is anchored at first sight ("the teaching assistant, Seln") and in the note ("Seln, at the copying table, writes true lines…").
+  - The inky-knuckled clerk is "two chairs along" at both mentions, matching ch49.
+- **ch49 (Priority 2)**
+  - Ilsev's Greyvane memory no longer re-quotes the return ("She had met the first two sentences before" carries it). The day names are now "on the last day of a week" and "the first courier of the next week", with no English weekday names (grep-clean across ch45–50).
+  - Her scene-one exposition (the routing file, the docket) and the shorthand/better-lamps passage are compressed.
+  - **New Cael beat (≈250 words) between the windows**, at the first recess. He stays in his chair, sees Ilsev file a form in about eleven minutes and lay it in the tray, does not know what it is, does not write it down, and sets the stake. The reader's knowledge advantage is kept: he learns nothing of the return.
+  - **Mark four stays where it was**, in Havel's section, unseen by Havel. Cael's list still records it as seen from the wall.
+  - Havel: the courier section is kept whole, including filing the return in its place. "Two carriers now…", "written by a man" and the three cross-referenced sheets are kept. The verbatim fourth entry is cut to a one-line summary in narration. The three-entry re-read is compressed.
+  - **The Havel line is rejoined**: *Two years. Two of us now. Nothing has ever come back with a name on it.*, followed by "He looked at the line."
+  - The second recess opens "At the second recess, again, Cael did not leave his chair."
+  - Net: ch49 7,163 → 6,829 wc (−334).
+- **ch50 (Priority 3 and the referent)**
+  - One factual line, in Cael's head, after Karis's speech: "*Shattered* was the word in brackets on Cael's own registry sheet, beside his number, in the Denvash station's hand." It carries no theory and no link from the word to his nature. "Unbound" still appears once in Book 4.
+  - "when Cael sat down at the window".
+  - **The close is rejoined** as one line: *Four days to the final. Five to the twentieth.* ("two short lines" in the lead-in).
+
+### Before / after (formula_metrics.py, ch45–50)
+
+| Measure | Before r1 | After r1 | Range / aim |
+|---|---|---|---|
+| Words (prose) | 30,119 | 29,862 (wc 29,929) | 29,000–31,000 |
+| Sentences | 2,181 | 2,152 | — |
+| Sentence mean | 13.81 | **13.88** | 13–15.5 |
+| ≥40-word share | 3.5% | **3.5%** | 2.5–4.5% |
+| ≤5-word share | 25.3% | 25.2% | ≤ ~34% |
+| Words per scene | 971.6 | **933.2** (26 breaks) | 850–1,050 |
+| Paragraph median | 29 | 28.5 | ≤ ~30 |
+| FK grade | 4.70 | 4.71 | 3.5–6 |
+| FRE | 85.9 | 86.0 | reported |
+
+**Words (wc):** ch45 5,708 · ch46 4,114 · ch47 4,549 · ch48 5,587 · ch49 6,829 · ch50 3,142 · **total 29,929**.
+
+**POV in ch49 after r1:** Cael ≈3,600, Ilsev ≈1,940, Havel ≈1,270 (scene counts). Cael now outweighs the two windows together. Movement windows are now ≈8,000 of ≈29,900.
+
+### Checks after repair
+
+- `ed.sh gates book-04-copper-crown 7`: 0 / 0 / 0 on all six chapters.
+- `sweep_probe.sh book-04-copper-crown 7 7`: **skeleton 1%, close 11%** on 1,332 sentences. By chapter: ch45 0/10 · ch46 0/7 · ch47 0/8 · ch48 1/14 · ch49 3/15 · ch50 0/12.
+- `ed.sh overlap book-04-copper-crown 7`: **1 unprotected, 8 protected.**
+  - The one run is the ruled, rejoined Havel line: ch49, 15 words, "years two of us now nothing has ever come back with a name on it".
+  - The source reads "*Four* years. Two of us now…", so the run shared with the source starts at "years". The protected pattern `two years two of us now nothing has ever come back with a name on it` is searched *inside* that run, and the run doesn't contain the leading "two", so it can never match.
+  - **Coordinator fix (outside my edit scope):** change the pattern line in `protected-patterns.txt` to `years two of us now nothing has ever come back with a name on it`, or anchor it as a regex that tolerates the missing first word. The text is set exactly as ruled and I did not reword it.
+  - The closing countdown line matches its pattern and counts as protected.
+- **Review artifacts:** while checking, I briefly overwrote the review's `source-overlap.tsv` and `.summary` in this folder with a post-repair run. I restored both by regenerating them, with the same tool and options, from the frozen `pre-repair/` chapters. They are back to the reviewed state (empty tsv; "0 unprotected… 10 protected"), and the r1 results are recorded here instead.

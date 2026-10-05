@@ -2,7 +2,7 @@
 
 At the sixth bell Cael went to the wing's counter for a floor sheet, because it was the evening he always went for one.
 
-The counter was the plainest place on the bluff. It was a long scrubbed board with a brass rail along the front, a chained pen, a pot of sand, and a slot for slips. Behind it the desk clerk sat on his high stool with the wing's ledger open. Behind him, at the copying table under the window, the teaching assistant was writing out somebody's timetable in a small cramped hand. He did not look up when the door opened. He never looked up when the door opened. Cael had a whole term of his not looking up, on a page that said almost nothing, and the page had not needed changing all week.
+The counter was the plainest place on the bluff. It was a long scrubbed board with a brass rail along the front, a chained pen, a pot of sand, and a slot for slips. Behind it the desk clerk sat on his high stool with the wing's ledger open. Behind him, at the copying table under the window, the teaching assistant, Seln, was writing out somebody's timetable in a small cramped hand. He did not look up when the door opened. He never looked up when the door opened. Cael had a whole term of his not looking up, on a page that said almost nothing, and the page had not needed changing all week.
 
 "Sixteenth," said Cael. "Hall three, the fourth bell, supervised."
 
@@ -94,7 +94,7 @@ He wrote it at the window when she had gone up, in fewer words than he had said 
 
 *Gault: three questions, all about the posts. Lira says he's proving the beam before the pour. She's right. Every measurer I've ever had began with the boy. Not him. This one started with the ruler.*
 
-*The case came back to the wing with his stamp on it and nothing else. Seln writes true lines about me that can't hurt me. Then the Archmarshal takes them, reads every line, and hands them back clean. That holds exactly as long as he goes on not marking them, and not one day longer.*
+*The case came back to the wing with his stamp on it and nothing else. Seln, at the copying table, writes true lines about me that can't hurt me. Then the Archmarshal takes them, reads every line, and hands them back clean. That holds exactly as long as he goes on not marking them, and not one day longer.*
 
 *Everything sits on one man, and he's the one I can't read. So, as Lira says, I'll read what he does.*
 
@@ -216,7 +216,7 @@ She argued something better.
 
 "The standardization directive didn't touch practitioner classification here and there," said the delegation's counsel. "It took the whole of it. It moved in, end to end, on purpose, and built a new house on the ground where the old one stood. When a later law takes over a whole field like that, an old clause left standing in the middle of the field isn't alive just because nobody remembered to pull it up. It's a stump. It has the shape of a law and none of the life. And an enrollment on a stump is an enrollment on nothing."
 
-It was a very good argument. It was better than very good. Cael had spent two years reading registry law because he had to, and he felt this one come down on the table with real weight. He felt it reach the academy's side. Bracken's pen stopped. Withrow's counsel drew a long breath and put her hand on her leather case. Karis had stopped writing altogether, and on the next chair along, the inky-knuckled clerk sat up very straight.
+It was a very good argument. It was better than very good. Cael had spent two years reading registry law because he had to, and he felt this one come down on the table with real weight. He felt it reach the academy's side. Bracken's pen stopped. Withrow's counsel drew a long breath and put her hand on her leather case. Karis had stopped writing altogether, and two chairs along from Cael, the inky-knuckled clerk sat up very straight.
 
 Withrow laid one hand flat on the table, and her counsel took her hand off the case.
 
@@ -256,7 +256,7 @@ The last attack broke. The counsel sat back and said, "Nothing further on repeal
 
 And it was in the slack of that stretch, between one sheet and the next, that the hold went thin.
 
-He did not feel it go. That was the whole trouble with it, and he knew it, and it still caught him. One moment he was listening to a clerk explain a seal. The next, with no seam between them, the clerk was saying something else, and there was a short piece of the sitting he could not account for, as if somebody had turned a page in his head while he was not looking. He took the corner back at once. Nobody had looked his way. The inky-knuckled clerk on the next chair was writing.
+He did not feel it go. That was the whole trouble with it, and he knew it, and it still caught him. One moment he was listening to a clerk explain a seal. The next, with no seam between them, the clerk was saying something else, and there was a short piece of the sitting he could not account for, as if somebody had turned a page in his head while he was not looking. He took the corner back at once. Nobody had looked his way. The inky-knuckled clerk, two chairs along, was writing.
 
 A little later, during a question about the date on the comparing clerk's sheet, it happened again. It was shorter this time, two breaths, perhaps three, and again he only caught it from the far side, after it was over.
 

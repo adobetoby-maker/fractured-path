@@ -16,7 +16,7 @@ He had spent a week after the back bench trying to make the read last while Brom
 
 So the next morning he tried it.
 
-He did not open the door, but stood, with Brom a forearm off in front of him, and kept himself shut, and did not want anything. Then, when Brom shifted his weight, he did a thing he had no word for yet. He did not open the door and hold it; he threw it open and shut it again in the same instant, hard, like a knock. And in the instant between the opening and the shutting he asked it one thing, sharp, the way you would call a single word into a dark barn: *there?*
+He did not open the door, but stood, with Brom a forearm off in front of him, and kept himself shut, and did not want anything. Then, when Brom shifted his weight, he did a thing he had no word for yet. He did not open the door and hold it; he threw it open and shut it again in the same instant, hard, like a knock. And in the instant between the opening and the shutting he asked it one thing, sharp, a single word called into the dark: *there?*
 
 Nothing came back but a blur, a smear of warm noise across the front of him like a lamp seen through a wet window, and then the band, small and quick, a pinch behind the eyes.
 
@@ -24,7 +24,7 @@ Nothing came back but a blur, a smear of warm noise across the front of him like
 
 The fourth time something came back.
 
-It was not much, and it lasted no longer than the knock itself. But in that instant, while he was stepping, with his own weight moving and Brom's moving, there was a weight in front of him and a little to his right, and it was awake. It was hard on its leading side and soft on its trailing side, the way a body is when it is going somewhere. He knew where Brom was and which way he was leaning before his eyes had told him. Then it was gone, the knock was over, and there was only the room, and Brom, and his own aching head.
+It was not much, and it lasted no longer than the knock itself. But in that instant, while he was stepping, with his own weight moving and Brom's moving, there was a weight in front of him and a little to his right, and it was awake. It was hard on its leading side and soft on its trailing side: a body going somewhere. He knew where Brom was and which way he was leaning before his eyes had told him. Then it was gone, the knock was over, and there was only the room, and Brom, and his own aching head.
 
 "That," said Cael.
 
@@ -58,7 +58,7 @@ Vell did not look up, but finished the line she was writing, and blotted it, and
 
 "I've got an afternoon. Any afternoon. Whenever suits."
 
-She sat back and looked at him over her spectacles for a long time. He thought she was going to say *sometime* again, as she had in the back room in his first fortnight, and he had decided on the walk down that if she did he would say *all right* and mean it.
+She sat back and looked at him over her spectacles. He thought she was going to say *sometime* again, as she had in the back room in his first fortnight, and he had decided on the walk down that if she did he would say *all right* and mean it.
 
 "Nobody opens those," she said. "Not even me, if I can help it. I've had practitioners at this table ask me. Old men wanting to see their grandfathers' bouts. A scholar from up the river who wrote me three letters. I've said no to all of them." She turned her pen in her fingers. "They're old, Cael. They were old when my keeper had them. Every time one's opened a little more of it goes, and nobody's ever going to make any more of them."
 
@@ -84,7 +84,7 @@ He listened.
 
 "Yes."
 
-"You turn a page from the outer corner. Only there. Never from the middle of the edge, never from the spine." She showed him with her own hand on the air, a light lift at the corner, as you would lift the edge of a sleeping child's blanket. "If it tears at the corner, it tears where there's nothing written. And you keep the other hand under the page while it turns, flat, to carry it."
+"You turn a page from the outer corner. Only there. Never from the middle of the edge, never from the spine." She showed him with her own hand on the air, a light lift at the corner. "If it tears at the corner, it tears where there's nothing written. And you keep the other hand under the page while it turns, flat, to carry it."
 
 "Yes."
 
@@ -92,13 +92,13 @@ He listened.
 
 He said the four rules back to her, in order. She nodded once, and opened the cupboard.
 
-The room was very quiet, the quietest he had been in for weeks, with nobody in it but the two of them and the books, and he felt the thin thing on his skin begin to come open by itself, the way it did now whenever he was still. Vell was a pace from him, and had been Bronze once, and would be a strong clear weight on the front of him if he let it come, and from there it was a short step to going in. He had not asked her. He let it close.
+The room was very quiet, the quietest he had been in for weeks, with nobody in it but the two of them and the books, and he felt the thin thing on his skin begin to come open by itself. Vell was a pace from him, and had been Bronze once, and would be a strong clear weight on the front of him if he let it come, and from there it was a short step to going in. He had not asked her. He let it close.
 
 Before the oldest ones she showed him the others, because she said he would not see what the old ones were without them. It was the closest he had ever come to hearing her give a lesson.
 
 Her own books first, along the wall. She took down one from near the end of the row, from her first years, and opened it on the table, and then one from ten years ago, and one from last season, and laid them side by side, open, square. Three books open at once: he looked at her, and she said, "Mine. I'll be careful with mine as I like." He looked at the three hands.
 
-They were all hers, and they were three different women. The earliest was stiff, every letter made separately and held, like a fighter standing in her stance a little too correctly to be comfortable in it. The middle one had loosened: the letters joined, and leaned, and the lines went across the page at one even pace. The last was so even that it hardly looked written at all; it looked as if it had been there before the paper. He could see thirty years in it, the way he could see a fighter's years in her feet.
+They were all hers, and they were three different women. The earliest was stiff, every letter made separately and held, like a fighter standing in her stance a little too correctly to be comfortable in it. The middle one had loosened: the letters joined, and leaned, and the lines went across the page at one even pace. The last was so even that it hardly looked written at all. He could see thirty years in it.
 
 "You can tell," said Vell, watching his face.
 
@@ -106,7 +106,7 @@ They were all hers, and they were three different women. The earliest was stiff,
 
 "It took me ten years to stop *keeping* the book and start just writing in it." She shut the three, one after another, and put them back. "Now his."
 
-His were in the cupboard, on the upper shelves: thirty-odd volumes, she said, she had never counted them properly because it seemed rude. They were in a rounder hand than hers, with bigger loops and a habit of writing the result first, in the margin, before the names, as though he had always wanted to know how a thing came out before he cared who had done it. Under the round hand, in the earliest of them, was another, cramped and sloping, with *Copper* spelt with two *p*s. The one-armed keeper.
+His were in the cupboard, on the upper shelves: thirty-odd volumes, she said, she had never counted them properly because it seemed rude. They were in a rounder hand than hers, with bigger loops and a habit of writing the result first, in the margin, before the names. He had always wanted to know how a thing came out, Vell said, before he cared who had done it. Under the round hand, in the earliest of them, was another, cramped and sloping, with *Copper* spelt with two *p*s. The one-armed keeper.
 
 "And under that," said Vell, and went down on one knee in front of the cupboard, stiffly, with her hand on its edge, "these."
 
@@ -120,7 +120,7 @@ Vell drew one out, the nearest, with both hands, slowly, as a man draws a sleepi
 
 The ink had gone the brown of old tea, and the hand was small and sharp and used short forms he did not know, whole words cut down to two letters and a stroke. It took him a moment to see that it was a ledger at all.
 
-It was. That was the strange thing, once he saw it: it was a keeper's book, laid out the way Vell's were laid out, a line to a bout, the same order. Two names. The outcome. A short note. A line of witnesses at the foot of each night.
+It was. That was the strange thing, once he saw it: it was a keeper's book, laid out like Vell's, a line to a bout, the same order. Two names. The outcome. A short note. A line of witnesses at the foot of each night.
 
 But the witnesses were not one name. Vell signed her own book as its witness, one name, hers, at the foot of the day. Here there were six at the foot of one night, seven at the foot of another. Some were signed and some were only marks, crosses and small drawings, a fish, a wheel. Six or seven people had stood at the edge of a floor, whatever floor it had been, and put their names to what they had seen, all together.
 
@@ -140,7 +140,7 @@ Past the middle of the book, on a page no different from the forty before it, he
 
 The name at the head of the line was gone. Damp had got to that corner of the page long ago and taken it, all but two letters at the end, which could have belonged to any name in the world. The opponent's name was whole, the outcome plain, a win, and the witnesses seven. The note in the line said, in the short forms, that the fighter's abilities matched nothing the keeper knew.
 
-And in the margin beside it, in a smaller hand than the line, cramped, the ink a little darker as if the keeper had pressed harder, there was a note.
+And in the margin beside it, in a smaller hand than the line, cramped, the ink a little darker where the keeper had pressed harder, there was a note.
 
 *Assessed per pre-registry terminology as [UNBOUND]. Abilities not matching any guild standard. Competed without incident.*
 
@@ -148,9 +148,9 @@ He read it three times.
 
 He did not move his face; he had learned that in the market square and at Vell's table and on a bench a bench's length from Brom, and he was very glad of it now. Vell was standing at his shoulder, and he did not want her to see anything in his face, because he did not know what was in it.
 
-There had been words before the registry. Somebody had called them *terminology*, as if they had been as formal once as the square print on a Compact file. And one of those words had been written, by a keeper, in a margin, beside a fighter whose abilities fitted no standard that keeper knew. Then the keeper had written that the fighter fought, and that nothing had come of it. *Competed without incident.* Nobody had stopped the bout, or taken the fighter away. The next line on the page was somebody else's.
+There had been words before the registry. Somebody had called them *terminology*, a word as formal as the square print on a Compact file. And one of those words had been written, by a keeper, in a margin, beside a fighter whose abilities fitted no standard that keeper knew. Then the keeper had written that the fighter fought, and that nothing had come of it. *Competed without incident.* Nobody had stopped the bout, or taken the fighter away. The next line on the page was somebody else's.
 
-He felt something in him lean toward the word, as the hip leaned toward a burst it had not been asked for. There was a column in Vell's book out on the floor, narrow, at the side of every line, with his own name beside it and nothing in it at all. Every other fighter's was filled. His had been empty for more than a year, and he had never minded, and he did not know why he was thinking of it now.
+He felt something in him lean toward the word, just as the hip leaned toward a burst it had not been asked for. There was a column in Vell's book out on the floor, narrow, at the side of every line, with his own name beside it and nothing in it at all. Every other fighter's was filled. His had been empty for more than a year, and he had never minded, and he did not know why he was thinking of it now.
 
 He made himself stop, because he knew this feeling; he had felt it in the Log on the night of the teaching day, with two things lying side by side as neatly as a lock and a key. The neatness had been the reason not to trust it then, and it was the reason now. One word, in one margin, beside one fighter whose name was gone. That was all it was. He had no evidence that it was about anybody but the person whose name the damp had taken.
 
@@ -198,7 +198,7 @@ Vell looked at him steadily. There was no surprise in her face at all.
 
 "I know," she said.
 
-They were quiet for a while, and out on the main floor he could hear the sweepers come in, and the long sound of the first broom.
+They were quiet, and out on the main floor he could hear the sweepers come in, and the long sound of the first broom.
 
 "Twenty years I've thought it," said Vell at last. "I can't prove a word of it. I haven't got a page in any book I could put in front of anybody that says so. I've only watched results that I saw with my own eyes go up the hill and come back down as something else, and other results that I never saw at all come down with seals on them. Enough of both, for long enough, that I believe my eyes and not their paper." She got up off the table. "That's not evidence. Don't you go writing it down as evidence."
 
@@ -224,7 +224,7 @@ Everything else was his. The pull toward it was his, and the empty column in Vel
 
 He would tell nobody.
 
-He thought about that for a long time, on the river wall, in the cold, because it was not like him any more. He had told Lira about the read through the wall, and about the watcher on the same day she asked. He had told Brom the whole of the Log. He had stood in Vell's back room and said the Compact falsified things out loud. He had spent a season learning that the things you keep shut cost you, and that some of them were about other people, who had a right to know.
+He thought about that on the river wall, in the cold, because it was not like him any more. He had told Lira about the read through the wall, and about the watcher on the same day she asked. He had told Brom the whole of the Log. He had stood in Vell's back room and said the Compact falsified things out loud. He had spent a season learning that the things you keep shut cost you, and that some of them were about other people, who had a right to know.
 
 But this had not happened to anybody he knew. It was one word in a margin, and he did not know what it meant. If he said it aloud, to Lira at the kitchen table or to Brom between crosses, he would have to say why he had copied it. Then he would have to say what he thought it meant, and he did not think anything yet. He only felt it, and a feeling said aloud becomes a claim, whether you mean it to or not. He had a book for claims, and this was not one.
 
@@ -240,7 +240,7 @@ Then he shut the book.
 
 It was a week after that, on a night with no card and the house quiet, that he took Keth's pages out and read them through from the beginning.
 
-He had not meant to; he had sat down at the crate desk to write up a side-floor afternoon and found that he had nothing to say about it; it had been a clean bout and a short one, a Blade from the salt end who had stood too square. So he had turned back through the grey book idly, the way you turn back through a letter you already know, and come to the page with *the finger* at its head, where Keth's name had been until the night of Dace's story, and *No reason for this page* underneath, and kept going.
+He had not meant to; he had sat down at the crate desk to write up a side-floor afternoon and found that he had nothing to say about it; it had been a clean bout and a short one, a Blade from the salt end who had stood too square. So he had turned back through the grey book idly, and come to the page with *the finger* at its head, where Keth's name had been until the night of Dace's story, and *No reason for this page* underneath, and kept going.
 
 There were a great many pages, more than he had known. There was the first, from the morning Dace had pointed him out, with the little finger off the grip and the cuts that finished long. Then the chosen count, the three cuts and the three counts and *The only one I've seen*. Then dawn after dawn in the newcomers' ring, a line or two each, in pencil, never more, on mornings when he had gone down early for no reason he had ever written down. *The finger shows the parry slow, then fast, then real.* *Watching feet again.* *Chained three cuts for the tall lad and the third was late.* There were pages from the side floors, from main-floor nights. There was a note from the night of the Brom bout about Keth on the end of the east bench, looking at Brom's chest.
 
@@ -252,7 +252,7 @@ It took him most of an hour to see it, and when he saw it, it had been there for
 
 Keth chose his count fresh every cut. That was the first thing anybody would write about him, and Cael had written it first, and it was true. But when Keth chained his cuts, two and then three in a run, as he did against anybody good, the choosing stopped for a moment between the second cut and the third. Cael had it on eleven pages, from eleven different weeks, written down as eleven different small things. *Third late.* *Feet stuck on the third.* *Didn't turn for the third, cut it square.* *Second finished long and he couldn't get the angle back.* Eleven times he had written it down, and every time he had thought it was that morning's fault, or the newcomer's, or Keth's tiredness.
 
-It was not any of those; it was the same thing. At the end of the second cut in a chain, Keth's blade finished long, the way it always did, the way of a man who had learned on a bigger blade. For an instant after it finished, the angle was set, and the feet had not yet caught up, and there was nothing Keth could choose. Then the third cut came out of whatever the second had left him. It was the smallest of seams, a sliver of a beat, and it opened at a range that was no use to anybody standing in front of him.
+It was not any of those; it was the same thing. At the end of the second cut in a chain, Keth's blade finished long, as it always did; he had learned on a bigger blade. For an instant after it finished, the angle was set, and the feet had not yet caught up, and there was nothing Keth could choose. Then the third cut came out of whatever the second had left him. It was the smallest of seams, a sliver of a beat, and it opened at a range that was no use to anybody standing in front of him.
 
 But it was there. It had been there eleven times. And Keth did not know it, Cael thought. He had watched Keth teach that chain to newcomers with his own hands, slowly, and he had never once slowed down there, at the seam. Nobody slows down at a place he cannot see.
 

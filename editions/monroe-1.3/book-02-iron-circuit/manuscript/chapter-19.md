@@ -2,7 +2,7 @@
 
 The other half of the two weeks was himself, and he put it off for three days, which was how he knew it was going to be bad.
 
-He did it in the end at the kitchen table after supper, when the heavyset man's wife had gone up and the sister with her, and the kitchen was warm and empty and smelled of Lira's pies. He opened the Power Log flat so that both entries showed at once, the Wind on the left-hand page and the Pressure on the right, and took a fresh sheet for his sums. The draught under the door kept lifting the corner of it, so he stood the salt cellar on it. Then he made himself go through it field by field, the way he would have gone through any other fighter's page, taking nothing for granted because it was his.
+He did it in the end at the kitchen table after supper, when the heavyset man's wife had gone up and the sister with her, and the kitchen was warm and empty and smelled of Lira's pies. He opened the Power Log flat so that both entries showed at once, the Wind on the left-hand page and the Pressure on the right, and took a fresh sheet for his sums. The draught under the door kept lifting the corner of it, so he stood the salt cellar on it. Then he made himself go through it field by field, as he would have gone through any other fighter's page, taking nothing for granted because it was his.
 
 He began with the Wind. He had had it longest, and he leaned on it hardest.
 
@@ -16,7 +16,7 @@ What the burst was for, the only thing it had ever been for, was being somewhere
 
 In all the hours Cael had watched him, Brom had never once meant a blow; he waited on his heels for other people to mean them, and so there would be nothing to step away from. Cael could burst to the front-left and the left and the back-left all night, paying half a breath and a line of hip every time, while Brom paid nothing. And Cael would end up standing in the middle of the main floor with grey at the edges of his eyes and a hip on fire, having made a very big man turn round on the spot.
 
-He made himself fill in the fields for it as if he were writing the entry for the first time, Claim and Evidence and Ruling under each, with the small *h* beside anything he had only been told. *Deployment range*: half a body, the fan, nothing to the right-rear quarter. *Conditions, against B.*: a man who stands on his heels and waits, so that nothing ever comes at me past its hinge unless he wants it to. *Evidence*: four days of the middle column. *Ruling*: the conditions the burst was built for will hardly ever be there.
+He made himself fill in the fields for it fresh, Claim and Evidence and Ruling under each, with the small *h* beside anything he had only been told. *Deployment range*: half a body, the fan, nothing to the right-rear quarter. *Conditions, against B.*: a man who stands on his heels and waits, so that nothing ever comes at me past its hinge unless he wants it to. *Evidence*: four days of the middle column. *Ruling*: the conditions the burst was built for will hardly ever be there.
 
 *Against him,* he wrote, *the burst is insurance. Not a weapon. Keep it for the one time he does come, if he comes. Don't spend it looking for a reason to.*
 
@@ -28,7 +28,7 @@ The taking face first, the old one: the slow gathering of a weight into the fore
 
 And the giving face, the one he used. Ridden into a strike on the beat, it put a weight into his fist that his arm alone could never have found, and it left the hollow under his ribs after. Off the beat it went back up his own arm, which was why his left wrist ached in the cold. Three to a sequence, about, and he had never tried a fourth.
 
-He sat with the pencil over the sheet for a long time. Then he wrote what he had been not thinking.
+He sat with the pencil over the sheet. Then he wrote what he had been not thinking.
 
 *Every hit I put into him, he sends back. That's the whole Path, as far as I can see it. A hardness at the place I touch, at the instant I touch, and my own hit back up my arm on a line I didn't send it on. The giving face makes my hit heavier. So every time I use it on him, I'm paying out of my own middle to make the hit that comes back at me bigger.*
 
@@ -100,7 +100,7 @@ That night it went into the Power Log, but in the margin, which was where he kep
 
 After that he could not sleep, so he wrote to Hesk.
 
-He had not meant to. He had a letter half begun on the shelf from a fortnight back, about the frost and the price of lamp oil and the heavyset man's wife's sister, and he had meant to finish that one in the ordinary way and post it on the market day. Instead he took a clean sheet and sat at the crate desk with his shoulder warm and stiff where Lira's staff had found it four times, and wrote the date, and then sat for a long while with nothing under it.
+He had not meant to. He had a letter half begun on the shelf from a fortnight back, about the frost and the price of lamp oil and the heavyset man's wife's sister, and he had meant to finish that one in the ordinary way and post it on the market day. Instead he took a clean sheet and sat at the crate desk with his shoulder warm and stiff where Lira's staff had found it four times, and wrote the date, and then sat with nothing under it.
 
 The boy who was there before. She had made him sound like somebody else, somebody Cael had known once and lost touch with. He found that he could not see him clearly at all. He could see the road over the hills, the long brown shoulder of it in the rain, and the milestones going by with the numbers on them getting smaller. He could see the canvas post at the Cinder House with the stuffing coming out at the seams. He could not see the boy. He had been inside him, which was the trouble. You could not watch a person you were being.
 
@@ -122,23 +122,23 @@ The man was a Blade from Orvet's gym in the tannery lanes, a square quick fighte
 
 That was the page. He had meant to watch him a second time and had sat in Brom's alcove instead, with his fingers on his wrist, and so the page was what he took to the rope.
 
-It was a side-floor bout on a thin evening card, between a Stone pair nobody had come to see and a Force who had not turned up, and the room was half empty and talking. The chestnut man had his brazier going by the north post and the smell of it lay over everything. Orvet himself was at the rope on the Blade's side, a short man with a voice like a dropped pan, and he had brought four of his own in the red neckcloths, who stood behind him and shouted every time the Blade so much as rolled his shoulders. The Blade warmed up in front of them in short bursts, going at the empty air the way Cael had seen him go at men, with a shout on every cut. He looked very good doing it. Cael, watching from his own mark, thought that a fighter who looked that good warming up had usually been told so a great deal, and filed it under *What it's made of* without writing it down.
+It was a side-floor bout on a thin evening card, between a Stone pair nobody had come to see and a Force who had not turned up, and the room was half empty and talking. The chestnut man had his brazier going by the north post and the smell of it lay over everything. Orvet himself was at the rope on the Blade's side, a short man with a voice like a dropped pan, and he had brought four of his own in the red neckcloths, who stood behind him and shouted every time the Blade so much as rolled his shoulders. The Blade warmed up in front of them in short bursts, going at the empty air as Cael had seen him go at men, with a shout on every cut. He looked very good doing it. Cael, watching from his own mark, thought that a fighter who looked that good warming up had usually been told so a great deal, and filed it under *What it's made of* without writing it down.
 
 Lira was on the near bench with her staff across her knees. Brom was not in the room at all. Cael had looked for him, without meaning to, and found the rope by the north post empty, and was surprised by how much room an empty place could take up.
 
 "Begin," said Vell.
 
-The Blade went at the word, as the page said, with a shout that made two people on the bench behind Lira jump. Cael went with his feet, as Lira had taught him that morning, and the first exchange was all feet: the Blade coming and coming, cut on cut, each one off the front foot and each one with the shout behind it, and Cael giving ground and turning, giving ground and turning, round the edge of the circle with the chalk line a hand's breadth from his heels. Twice the Blade's cut came close enough that Cael felt the wind of it on his cheek, and once it took a strip off the shoulder of his shirt, and Orvet's four roared.
+The Blade went at the word, as the page said, with a shout that made two people on the bench behind Lira jump. Cael went with his feet, as Lira had taught him that morning, and the first exchange was all feet: the Blade coming and coming, cut on cut, each one off the front foot and each one with the shout behind it, and Cael giving ground and turning, giving ground and turning, round the edge of the circle with the chalk line close behind his heels. Twice the Blade's cut came close enough that Cael felt the wind of it on his cheek, and once it took a strip off the shoulder of his shirt, and Orvet's four roared.
 
 He did not burst. He felt the hip lean, twice, the old pull, and he let it lean and did not answer it, and the deciding cost him as Lira had said it would: on the second time, half a beat of nothing that the Blade's next cut very nearly filled. He had decided, in the morning, that he would burst in this bout only when he had read the hinge first, and never otherwise, because he wanted to know something. It was harder to keep to than it had been to decide.
 
-Near the end of the exchange he put his own short strike into the Blade's ribs, once, on his feet, ordinarily, as the Blade came past him. It was not a hard strike. But it was the first thing in the bout that the Blade had not chosen, and Cael saw the man's face change as it landed, very slightly, the way a man's face changes when a step he has taken a thousand times is not where his foot expected.
+Near the end of the exchange he put his own short strike into the Blade's ribs, once, on his feet, ordinarily, as the Blade came past him. It was not a hard strike. But it was the first thing in the bout that the Blade had not chosen, and Cael saw the man's face change as it landed, very slightly.
 
 In the second exchange he broke his own rule, and found out the other half of what he wanted to know.
 
 The Blade went at the word again, and this time Cael was not ready for it, because he had been watching the Blade's shoulders and the Blade came off his back foot instead. The cut was coming before Cael had seen it begin. It was past its hinge and already on its way, flat and fast at his ribs, and his feet had nothing to say about it. His hip said it for him. He went short to the left without asking, because there was no time to ask. He landed crooked, with his weight caught on the wrong part of his foot, and locked, and the cut went through the place he had been.
 
-It cost him. He felt it go out of him like coin out of a split purse. The hip line flared from the crest of the bone to the knee, not a thin warm line but a bright one, and his knee buckled a finger's width in the lock and only just held. When the lock let go he had no breath to speak of, and none for the next ten beats of his pulse. He stood off the Blade with his feet and his strike and waited for it to come back, and it came back slowly.
+It cost him. He felt it go out of him like coin out of a split purse. The hip line flared from the crest of the bone to the knee, not a thin warm line but a bright one, and his knee buckled a little in the lock and only just held. When the lock let go he had no breath to speak of, and none for the next ten beats of his pulse. He stood off the Blade with his feet and his strike and waited for it to come back, and it came back slowly.
 
 "End of the exchange."
 
@@ -152,7 +152,7 @@ The cut went through the air where he had been, a beat late for an empty place. 
 
 And it was cheap. That was the thing. He stood in the slow bright stillness of the lock and could feel how cheap it had been. The hip line was there, but thin, a pencil line and not a brushstroke. His breath had gone out on the half-breath and was already coming back, and the knee had not even thought about buckling. The same distance, the same half body to the front-left, the same lock. But it had cost him perhaps half of what the one in the second exchange had cost, perhaps less.
 
-The lock let go, and he was in the Blade's recovery with his short strike under the arm before the man had got home. The Blade went back two steps and sat down hard, and shut his eyes for a moment as if he were adding something up, and put his hand up.
+The lock let go, and he was in the Blade's recovery with his short strike under the arm before the man had got home. The Blade went back two steps and sat down hard, and shut his eyes for a moment, and put his hand up.
 
 "Called," said Vell. "Hand up. Third exchange."
 
@@ -164,9 +164,9 @@ The Blade got up on his own after a moment and came across the circle, rubbing h
 
 "It did."
 
-"In the third you went the same place and it didn't." The Blade frowned at him, not unkindly, as a man frowns at a sum that will not come out. "What changed?"
+"In the third you went the same place and it didn't." The Blade frowned at him, not unkindly. "What changed?"
 
-Cael thought about telling him. It would have been easy, and the Blade had asked honestly, and there was nothing in it that would cost Cael anything on Tuesday. But he did not have it yet. He had one bout's worth of it, and a feeling, and one bout's worth of a thing said out loud to a stranger had a way of turning into something you believed.
+Cael thought about telling him. It would have been easy, and the Blade had asked fairly, and there was nothing in it that would cost Cael anything on Tuesday. But he did not have it yet. He had one bout's worth of it, and a feeling, and one bout's worth of a thing said out loud to a stranger had a way of turning into something you believed.
 
 "I was late in the second," he said. "I wasn't, in the third."
 
@@ -200,4 +200,4 @@ That night, at the desk, with the hip still faintly warm under his hand, he wrot
 
 *Same step. Same distance. Half the price, when I'd read it first. The reading isn't a different thing from the burst. It might be what pays for it.*
 
-He looked at that, and did not underline it, because one bout was one bout. He put a small *?* beside it, and closed the book, and lay down, and went on thinking about it for a long time in the dark.
+He looked at that, and did not underline it, because one bout was one bout. He put a small *?* beside it, and closed the book, and lay down, and went on thinking about it in the dark.

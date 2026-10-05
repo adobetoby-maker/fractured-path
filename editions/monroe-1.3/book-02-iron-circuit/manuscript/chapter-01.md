@@ -40,7 +40,7 @@ By the end of the third exchange Ulric was standing taller. His guard had come u
 
 In the fourth, Cael watched the heel.
 
-It was where the page had said it would be. Every time Ulric meant a strike, rather than merely offered one, the weight went back into his rear heel a half-beat before anything else moved, as if he were leaning on a door before he opened it. The hands could say anything they liked above it. The heel did not lie, because a heel cannot be made to lie without moving the whole body, and moving the whole body costs too much. Under the heel, three times out of four in the bouts Cael had watched, and twice already tonight, there had been the other thing, the thing he had come for: just before a committed downward cut, Ulric's right shoulder dropped. It sagged, a little, like a man setting down a bucket, and then the cut came. Somewhere, years ago, a guild instructor had probably told him about it. Somewhere, years ago, he had probably listened, and fixed it for a month, and then forgotten.
+It was where the page had said it would be. Every time Ulric meant a strike, rather than merely offered one, the weight went back into his rear heel a half-beat before anything else moved. The hands could say anything they liked above it. The heel did not lie, because a heel cannot be made to lie without moving the whole body, and moving the whole body costs too much. Under the heel, three times out of four in the bouts Cael had watched, and twice already tonight, there had been the other thing, the thing he had come for: just before a committed downward cut, Ulric's right shoulder dropped. It sagged, a little, like a man setting down a bucket, and then the cut came. Somewhere, years ago, a guild instructor had probably told him about it. Somewhere, years ago, he had probably listened, and fixed it for a month, and then forgotten.
 
 Cael did not use it in the fourth. He let it go by twice and stepped out of the cuts the slow way, with his feet, and let Ulric see that he had had to work for it.
 
@@ -64,7 +64,7 @@ His weight came back into his heels all at once, and he was locked. For half a b
 
 He went in through the door.
 
-It was not an elegant strike. It was the short straight one from the hip that Lira had given him a year ago and drilled into him since, the one strike he owned outright. It went in under Ulric's arm at the bottom of the ribs while the cut was still travelling. He felt it land the way you feel a key turn. Ulric made a sound with no word in it and folded round the place, and his feet, which had been so certain, got in each other's way. He dropped to a knee on the stone, and put his left hand flat on the floor, and after a moment he lifted his right one, open, toward Vell's table.
+It was not an elegant strike. It was the short straight one from the hip that Lira had given him a year ago and drilled into him since, the one strike he owned outright. It went in under Ulric's arm at the bottom of the ribs while the cut was still travelling. He felt it land. Ulric made a sound with no word in it and folded round the place, and his feet, which had been so certain, got in each other's way. He dropped to a knee on the stone, and put his left hand flat on the floor, and after a moment he lifted his right one, open, toward Vell's table.
 
 "Called," said Vell. "Hand up. Fifth exchange."
 

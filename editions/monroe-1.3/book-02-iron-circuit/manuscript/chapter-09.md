@@ -6,7 +6,7 @@ He had come to her table in the grey part of the morning, before the benches fil
 
 *Copper formal. Blade. River academy, two years out.* Then the six bouts, one under another in her narrow upright hand, four wins and two losses. Under every win she had written the exchange it ended in, as she always did: second, third, second, fourth. Under the losses she had written nothing at all except the other fighter's name.
 
-He read them twice. Then he read them a third time with his finger beside the lines, because something in the numbers was standing up and he wanted to see it plainly before he let himself believe it.
+He read them twice. Then he read them a third time with his finger beside the lines, because something in the numbers was standing up and he wanted to see it clearly before he let himself believe it.
 
 "Every win ends one exchange after the other man does something."
 
@@ -28,7 +28,7 @@ He had four bouts of the river-academy man on Vell's six lines, and not one of t
 
 Not once in a year had Cael gone into a week knowing less about the other fighter than the other fighter knew about him.
 
-He found he did not mind it as much as he would have expected. Part of that was plain fairness. He had done exactly this to Ulric, and to eleven others before Ulric, and he had never once thought about how it felt from the other side of the rope. Part of it was something else. A man who would spend a month of evenings on a hard bench to win one assessed bout was a man who had decided something about Cael, and had decided it carefully, and that was a kind of information too. It told him the man was patient and thorough, and that he believed there was one thing worth waiting for, and only one.
+He found he did not mind it as much as he would have expected. Part of that was plain fairness. He had done the same to Ulric, and to eleven others before Ulric, and he had never once thought about how it felt from the other side of the rope. Part of it was something else. A man who would spend a month of evenings on a hard bench to win one assessed bout was a man who had decided something about Cael, and had decided it carefully, and that was a kind of information too. It told him the man was patient and thorough, and that he believed there was one thing worth waiting for, and only one.
 
 He stood in front of the wall with the chalk dust from somebody's sleeve drifting down in the light from the high windows and turned it over. A man who waited for something to be spent, and had watched for a month the one thing Cael spent every time. A man who had sat very still in the fifth exchange of the Ulric bout with his eyes on the stone where the landing had been. There was no mystery left in it, if he was honest.
 
@@ -50,7 +50,7 @@ He drew it for her with Red Cap's chalk. There was the fan, the old fan from the
 
 "If I land there, facing the way I'll be facing, with my left guard already high before I go, the guard's the nearest thing to him. He's a Blade. A Blade wants the head or the ribs. To get to my ribs from where he'll be, he has to come round the guard, and that's a long way round in half a breath. To get to my head he has to go through the forearm." He tapped the ring. "So he hits the forearm. That's the hit. I can't move in the lock, but I can choose where my arm is before I go into it."
 
-Lira squatted on her heels and looked at the ring for a long moment.
+Lira squatted on her heels and looked at the ring.
 
 "You're going to let him hit you on the arm. So you can stand there for two *ands* and watch him do it."
 
@@ -60,11 +60,11 @@ Lira squatted on her heels and looked at the ring for a long moment.
 
 "It's the rule. The one from the trials. The burst stays in my hip if anybody close enough to hit me has a hit I haven't priced." He sat back. "I'm not breaking it. I'm pricing it. The forearm's the price. I've paid more than that for less."
 
-She thought about it, and the stubborn set went out of her jaw a little as she thought, the way it always did when she was given something to work on instead of something to push against.
+She thought about it, and the stubborn set went out of her jaw a little as she thought. It always did when she was given something to work on instead of something to push against.
 
 "All right. Get up. I'll be a river-academy coat."
 
-She was a very good one. She stood off and gave him nothing, her staff loose and low, her weight even, and her eyes not on his face but on the floor at his left front, where the ring was. He found it unnerving to be waited for so well. He shuffled and feinted and she did not move. When at last he dropped his hip and let the floor go short, half a body to the front-left with his guard already high, he was not even all the way down before her staff was coming. He locked, and the staff hit the outside of his left forearm exactly where he had said it would, not hard, a third of what she could have put into it.
+She was a very good one. She stood off and gave him nothing, her staff loose and low, her weight even, and her eyes not on his face but on the floor at his left front, where the ring was. He found it unnerving to be waited for so well. He shuffled and feinted and she did not move. When at last he dropped his hip and let the floor go short, half a body to the front-left with his guard already high, he was not even all the way down before her staff was coming. He locked, and the staff hit the outside of his left forearm where he had said it would, not hard, a third of what she could have put into it.
 
 And for two *ands* he could do nothing but look.
 
@@ -72,7 +72,7 @@ He had been in the lock a thousand times. It had always been a strange still pla
 
 Then the lock let go, and he was moving into her right side with his short strike before he had told himself to.
 
-He pulled it a finger's width from her ribs. She looked down at his fist and then up at him.
+He pulled it short of her ribs. She looked down at his fist and then up at him.
 
 "Well. That's bought."
 
@@ -102,7 +102,7 @@ The benches did not like it. Somebody near the betting corner groaned. Somebody 
 
 "End of the exchange."
 
-In the second it was the same, and worse. The man did not come forward at all. He stood a step off his mark with his blade low and turned on his heels as Cael moved round him, the way a door turns on its hinges. When Cael closed, he gave ground with his feet, neatly, never more than he had to. When Cael stopped closing, he stopped. Once, in the middle of the exchange, Cael threw his short straight strike at the man's guard, honestly, to see what came back. What came back was a tidy parry and a step away, and those eyes going down to the hip again.
+In the second it was the same, and worse. The man did not come forward at all. He stood a step off his mark with his blade low and turned on his heels as Cael moved round him. When Cael closed, he gave ground with his feet, neatly, never more than he had to. When Cael stopped closing, he stopped. Once, in the middle of the exchange, Cael threw his short straight strike at the man's guard, to see what came back. What came back was a tidy parry and a step away, and those eyes going down to the hip again.
 
 He was not going to commit. He was not going to give Cael a thing to read until Cael had paid him first.
 
@@ -112,17 +112,17 @@ He let the wish go past the top of his picture, with the hands and the roof beam
 
 "End of the exchange."
 
-At the rope Lira did not move her hands at all. She stood with her arms folded on the top strand and looked at him, and he could see that she was counting, the way she counted the lock, under her breath.
+At the rope Lira did not move her hands at all. She stood with her arms folded on the top strand and looked at him, and he could see that she was counting under her breath, as she counted the lock.
 
 In the third exchange he showed the man his hip.
 
-He did not burst. He only let it drop, the width of a fingernail, the first beginning of the thing, the way he had let it drop a thousand mornings on the straw. Then he stopped it, and stepped with his feet instead, slow and mortal, to the left. The man's eyes went to the floor at Cael's front-left, to the exact place where the ring had been on the alcove stone. His back foot came up onto its toes and then, when there was nobody there, went down again, and his eyes came back.
+He did not burst. He only let it begin to drop, as it had begun a thousand mornings on the straw. Then he stopped it, and stepped with his feet instead, slow and mortal, to the left. The man's eyes went to the floor at Cael's front-left, to the exact place where the ring had been on the alcove stone. His back foot came up onto its toes and then, when there was nobody there, went down again, and his eyes came back.
 
 That was all. Nobody on the benches could have seen it. But Cael had seen it, and now he knew two things he had only guessed. The man knew the fan. And he had been told it, or had worked it out, so well that his body went to the landing before his mind had decided whether there would be one.
 
 "End of the exchange."
 
-Cael walked back to his mark. His mouth was dry and his hands were steady, and his left forearm, which had a blue stripe across it under the sleeve from three mornings ago, ached a little in the warm air, as though it knew what was coming for it.
+Cael walked back to his mark. His mouth was dry and his hands were steady, and his left forearm, which had a blue stripe across it under the sleeve from three mornings ago, ached a little in the warm air.
 
 ---
 
@@ -140,7 +140,7 @@ He had started before Cael was halfway across. Cael saw that in the first instan
 
 The cut came down onto the guard.
 
-It hit the outside of his left forearm, a hand's width below the elbow, on top of the stripe Lira had put there. It hit hard. This was not a third of anybody's strength. A white bright pain went up the arm into the shoulder and down into the fingers, and the fingers went numb, and the forearm folded an inch against the side of his head and held there, because there was nowhere else for it to go.
+It hit the outside of his left forearm, just below the elbow, on top of the stripe Lira had put there. It hit hard. This was not a third of anybody's strength. A white bright pain went up the arm into the shoulder and down into the fingers, and the fingers went numb, and the forearm folded an inch against the side of his head and held there, because there was nowhere else for it to go.
 
 He did not look at the pain. He had priced it. He looked at the man.
 
@@ -162,7 +162,7 @@ The man folded round it. His blade, halfway through its tidy turn, went on turni
 
 The room let its breath out all at once, and then made a great deal of noise.
 
-Cael stood where he was. His left arm hung at his side, and he could not feel his fingers, and under his ribs there was a cold hollow where the giving face had drawn on him. His hip had begun its long familiar complaint from the crest of the bone to the knee. He did not mind any of it. He stood on the stone a step from where he had landed and found that he was shaking very slightly, not from the hit or the cost, but from what he had seen in the lock. He had seen a whole committed strike from start to finish, as plainly as print.
+Cael stood where he was. His left arm hung at his side, and he could not feel his fingers, and under his ribs there was a cold hollow where the giving face had drawn on him. His hip had begun its long familiar complaint from the crest of the bone to the knee. He did not mind any of it. He stood on the stone a step from where he had landed and found that he was shaking very slightly, not from the hit or the cost, but from what he had seen in the lock. He had seen a whole committed strike from start to finish, clear as print.
 
 He had not known, until this minute, how much he wanted to see that again.
 
@@ -198,7 +198,7 @@ He went to the east bench and sat down on the plank with the Power Log open on h
 
 *WIND-ADJACENT. Costs (add): the landing spent on purpose, first time against a stranger. Hit chosen before the burst: outside of the left forearm, guard high. Taken as priced. Arm numb to the fingers for the rest of the card (seen). Bought: one whole committed strike, start to end, and the man's beat. Answer came out of the lock already moving, on his beat, with the giving face on it. Hollow under the ribs after. Ruling: the trade holds against somebody who means it.*
 
-He looked at that, and it was right, and he let it stand. Then he sat with the pencil over the page for a long time without writing anything else, because the thing that was really on his mind did not belong in any of the six fields.
+He looked at that, and it was right, and he let it stand. Then he sat with the pencil over the page without writing anything else, because the thing that was really on his mind did not belong in any of the six fields.
 
 In the lock, he had seen a commitment whole. He had seen the push of the foot and the reach of the arm and the shoulder that had nothing left, and the wrist beginning its tidy turn. He had seen all of it because, for half a breath, there had been nothing else he could do but see. And he thought that every fighter he had ever faced must have done that, the whole of it, every time they meant a strike. Ulric had done it. Dessa had done it twice, across a rope from him in his first months, and every fighter between had done it in front of him at full speed, with all its parts there to be read, while he caught only the edges of it, a heel, a shoulder, a breath, because the edges were all that speed had let him have.
 
@@ -210,7 +210,7 @@ When he lifted his head the card was nearly done, and the benches had begun to e
 
 Then Lira was in front of him, reaching for his arm, and he forgot the man by the barrel entirely.
 
-She did not say anything at first. She took his left wrist in both hands, very gently, and turned the arm over in the lamplight, and pushed the sleeve back. The bruise was already coming up across the old stripe, darker and wider, the shape of a long flat cut, and she looked at it the way she looked at a fighter's feet.
+She did not say anything at first. She took his left wrist in both hands, very gently, and turned the arm over in the lamplight, and pushed the sleeve back. The bruise was already coming up across the old stripe, darker and wider, the shape of a long flat cut, and she looked at it hard.
 
 "Can you feel your fingers?"
 
@@ -228,8 +228,8 @@ He thought about it. "The thumb."
 
 "What thing?"
 
-"The thing yours does when the Power Log's wrong." She leaned her head back against the brick. "I'm not going to the alcove tonight," she said, as if somebody had asked her. "I'm going to sit here till you've finished writing, and then I'm going to walk you home, and then I'm going to put that arm in cold water whether you like it or not."
+"The thing yours does when the Power Log's wrong." She leaned her head back against the brick. "I'm not going to the alcove tonight," she said, though nobody had asked her. "I'm going to sit here till you've finished writing, and then I'm going to walk you home, and then I'm going to put that arm in cold water whether you like it or not."
 
 He did not argue. He went back to his writing, and she sat beside him with her eyes shut, and the benches emptied round them until there was nobody left in the Ironyard but the sweepers and the two of them and the lamp on its hook above the plank.
 
-She walked him home up the hill with her hand under his good elbow, as if he were somebody's grandfather. He let her, because the hip had begun to tell him about the four bursts of the week all at once and the stairs at the boarding house were going to be a long conversation. At the top of them she sat him on his bed and fetched the basin and the jug, and put the arm in the cold water to the elbow. She held it there with both hands when he tried to take it out, and would not let go until the water had stopped feeling cold and started feeling like nothing at all.
+She walked him home up the hill with her hand under his good elbow. He let her, because the hip had begun to tell him about the four bursts of the week all at once and the stairs at the boarding house were going to be a long conversation. At the top of them she sat him on his bed and fetched the basin and the jug, and put the arm in the cold water to the elbow. She held it there with both hands when he tried to take it out, and would not let go until the water had stopped feeling cold and started feeling like nothing at all.

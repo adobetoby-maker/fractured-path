@@ -2,13 +2,13 @@
 
 That morning, an hour before the grey coat came up out of the market row, Red Cap came into the alcove at a walk, which was how Cael knew.
 
-He was very bad at walking when he wanted to run. He came across the floor from the big door with his arms stiff at his sides, his cap pushed back and a stick of chalk forgotten in one fist. When he reached the arch he leaned on it with great carelessness, as if he had only stopped by to pass the time, and said to the straw post, "One coat."
+He was very bad at walking when he wanted to run. He came across the floor from the big door with his arms stiff at his sides, his cap pushed back and a stick of chalk forgotten in one fist. When he reached the arch he leaned on it with great carelessness and said to the straw post, "One coat."
 
 Lira stopped with her staff in the air.
 
 "One."
 
-"On his own. At your house. He's had the book off the big man and read it and he's standing in the row." Red Cap took the chalk out of his fist and looked at it as if he did not know how it had got there. "Not a sweep. There's nobody with him. He hasn't got the other one, the one with the boots. He's young. He's just standing there."
+"On his own. At your house. He's had the book off the big man and read it and he's standing in the row." Red Cap took the chalk out of his fist and looked at it. "Not a sweep. There's nobody with him. He hasn't got the other one, the one with the boots. He's young. He's just standing there."
 
 Cael sat down on the bench at the back of the alcove and made himself not do anything for the length of three breaths.
 
@@ -36,7 +36,7 @@ There was a price, and he had written it on the officials page after the fifth s
 
 She looked back at him a moment, and then she set her staff and hit the post, hard, once, so that the whole alcove rang, and then again.
 
-He went out by the side door and down the back lane behind the paper stall, and came into the market at the bottom by the dyers' steps, walking slowly, as if he had nowhere in particular to be. The fruit woman was on her stair behind her baskets with her hands folded in her lap.
+He went out by the side door and down the back lane behind the paper stall, and came into the market at the bottom by the dyers' steps, walking slowly, a boy with nowhere in particular to be. The fruit woman was on her stair behind her baskets with her hands folded in her lap.
 
 "Pears."
 
@@ -54,7 +54,7 @@ It was not much of a square: a wide place where four lanes met, with a pump in t
 
 He sat down on the pump step in the thin cold sunlight, ate a pear, and waited.
 
-He saw the officer first, as he had known he would; he had a whole page about how they moved. The man came up out of the market row a quarter of an hour later, young, as Red Cap had said, twenty-two or twenty-three, in a grey coat that fitted him properly and boots that did not. The boots were too new, the leather not yet creased across the toes, which on the officials page, under *rank by boots*, meant a junior man. He held his credentials case in his left hand close against his side, and as he came into the open he touched it once with his right, quickly, the way a man touches a pocket to be sure his purse is still there. Then his eyes went round the square in the order the page said they would go: the notice board first, then the doorways, then the faces.
+He saw the officer first, as he had known he would; he had a whole page about how they moved. The man came up out of the market row a quarter of an hour later, young, as Red Cap had said, twenty-two or twenty-three, in a grey coat that fitted him properly and boots that did not. The boots were too new, the leather not yet creased across the toes, which on the officials page, under *rank by boots*, meant a junior man. He held his credentials case in his left hand close against his side, and as he came into the open he touched it once with his right, quickly, to be sure it was still there. Then his eyes went round the square in the order the page said they would go: the notice board first, then the doorways, then the faces.
 
 So far, he was the page. But Cael had a newer page now, with *What it's made of* at the top of it. He sat on the pump step with a pear in his hand and asked it of the young man in the grey coat. He walked carefully. He did not walk like an officer who wanted to be noticed, or like one who was afraid, but like a man following a set of instructions he had read through twice before he set out and meant to follow exactly. His coat was buttoned to the top. His hair was cut very short and very even. When he looked at the faces in the square, he looked at each one for the same length of time, the pie woman and the dog and the boy on the pump step, as if it would be unfair to look longer at any of them.
 
@@ -66,11 +66,11 @@ The officer's eyes came round to the pump step, and stopped, and he came across 
 
 "Yes."
 
-"Assessor Havel. District compliance." He opened the case and showed what was inside it, the seal and the folded paper, and closed it again. The showing was not for Cael but for the form, the way Vell spoke a result aloud while she wrote it because the record was always spoken. "A few questions. It's a routine review."
+"Assessor Havel. District compliance." He opened the case and showed what was inside it, the seal and the folded paper, and closed it again. The showing was not for Cael but for the form. "A few questions. It's a routine review."
 
 "Go ahead."
 
-The officer took a small book from inside his coat and a pencil from behind it and opened the book on the flat of the case. He did not sit down. He stood in front of the pump step with his weight even on both of his too-new boots. He read the first question off the page in a level careful voice, as if he had been asked to read it aloud and was taking care to get every word right.
+The officer took a small book from inside his coat and a pencil from behind it and opened the book on the flat of the case. He did not sit down. He stood in front of the pump step with his weight even on both of his too-new boots. He read the first question off the page in a level careful voice, taking care to get every word right.
 
 "You're continuing to reside in an Unranked District?"
 
@@ -100,7 +100,7 @@ The officer looked at him.
 
 "Is it against the rules?"
 
-"No." The officer seemed to think about that, as if he were checking whether it was true. "No. It's just not one I've heard before. People in your position usually treat a district as somewhere to stop on the way to somewhere else."
+"No." The officer seemed to check whether that was true. "No. It's just not one I've heard before. People in your position usually treat a district as somewhere to stop on the way to somewhere else."
 
 Cael looked past him at the square, at the pump and the dogs in the thin sun, and the pie woman, and the long row of stalls going down to the dyers' steps. He thought about how much to give. A little truth cost very little, he had found, if you chose which little.
 
@@ -122,7 +122,7 @@ The officer looked at the pears, and for a moment Cael thought he might take one
 
 "They're the best in the district. Ask anybody at the bottom of the steps."
 
-The officer nodded, as if he would remember it, and went back across the square the way he had come, his case at his side; he did not touch it this time. Cael watched him go down the market row between the stalls until he was a grey coat among other coats, and then not even that.
+The officer nodded, and went back across the square the way he had come, his case at his side; he did not touch it this time. Cael watched him go down the market row between the stalls until he was a grey coat among other coats, and then not even that.
 
 He ate the third pear. It was a good pear.
 
@@ -134,7 +134,7 @@ He ate the third pear. It was a good pear.
 
 "What was he like?"
 
-He thought about it. "Tidy. He looked at everybody in the square for the same length of time, as if it would be unkind to look longer at somebody. He wanted it done right more than he wanted anything to come of it."
+He thought about it. "Tidy. He looked at everybody in the square for the same length of time. He didn't want to be unkind to anybody by looking longer. He wanted it done right more than he wanted anything to come of it."
 
 "You've done his page already." Lira was trying not to smile. "*What he's made of.*"
 
@@ -214,9 +214,9 @@ He set the green slip down on the desk.
 
 ---
 
-He thought for a while about taking it upstairs.
+He thought about taking it upstairs.
 
-There was a proper way, and he knew it as he knew the forms: a note to his supervisor, in the standard words, *Query regarding a classification marker of unknown origin on file such-and-such, entered without authorization or date. Requesting clarification.* The supervisor would read it in the morning, and send it on, or not. And Havel would be the young assessor who had sent a note upstairs about a line in a file above his grade. He had seen what became of young assessors who sent notes upstairs, mostly nothing and sometimes something. They became known, which in his work was not a good thing to become. The question would travel up with the man who had asked it, until somewhere a long way above him somebody who knew exactly what the line meant saw his name for the first time, attached to a question about it.
+There was a proper way, and he knew it as he knew the forms: a note to his supervisor, in the standard words, *Query regarding a classification marker of unknown origin on file such-and-such, entered without authorization or date. Requesting clarification.* The supervisor would read it in the morning, and send it on, or not. And Havel would be the young assessor who had sent a note upstairs about a line in a file above his grade. He had seen what became of young assessors who sent notes upstairs, mostly nothing and sometimes something. They became known, which in his work was not a good thing to become. The question would travel up with the man who had asked it, until somewhere a long way above him somebody who knew what the line meant saw his name for the first time, attached to a question about it.
 
 He did not know that the line mattered. He knew only that the file was thin for its class, and that the line had no name, and that the boy had been calm, and that any one of those was nothing; and he was honest enough to know that he could not decide what the three were together, and that not being able to decide was not the same as having found something.
 
@@ -230,7 +230,7 @@ He picked up the green slip and entered the supplementary marker on the third li
 
 He closed the file and set it on the pile for the morning's return.
 
-Then he opened his own notebook, the one with the cardboard cover that never went into any office drawer, to the day's page where the slip that said *file thin for class* was still clipped. He sat for a long time with the pencil over the paper, trying to write the thing exactly, no more than he knew, the way a form would have wanted it if there had been a form for it.
+Then he opened his own notebook, the one with the cardboard cover that never went into any office drawer, to the day's page where the slip that said *file thin for class* was still clipped. He sat with the pencil over the paper, trying to write the thing exactly, no more than he knew, the way a form would have wanted it if there had been a form for it.
 
 *Hesk-ward, Ardenmere, river side. Visit compliant. A marker under the classification I did not enter and cannot trace to any officer or date. Above my grade by its form. File thin for class. Not raised. Kept.*
 
@@ -238,7 +238,7 @@ He read it back. It was true, and it said no more than he knew. He wrote one mor
 
 *He offered me a pear.*
 
-He did not know why he had written that, and he looked at it for a while and did not cross it out.
+He did not know why he had written that, and he looked at it and did not cross it out.
 
 Then he folded the slip into the notebook, put the notebook in his inside pocket, and blew out the lamp. He went home through the Ranked streets, which were wide and named and quiet, with every stall shut and every scale stamped. He made himself a supper of bread and an egg in his room, and went to bed and lay a while listening to the carts. He thought once more about the empty column at the end of the line, and then made himself stop, as he made himself stop at the end of every file, and slept.
 

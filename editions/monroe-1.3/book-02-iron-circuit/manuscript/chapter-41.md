@@ -8,7 +8,7 @@ She said so at the side door of the Ironyard, with her staff on her shoulder and
 
 "A thing." She looked at Cael's arm, at the cloth she had tied round it over the cut sleeve. "Wash that properly. Cold water. Then leave it alone."
 
-So he went home and washed it properly, in cold water from the yard pump, with the band still round his head and his eyes still seeing the edges of everything a little late, and then sat on his bed and left it alone, and found that his hands were shaking. They had not shaken on the floor. They shook now, quite hard, for no reason he could find, and he sat and watched them until they stopped, the way he had once watched the hip line fade after a bad burst, as a thing his body was doing that was none of his business.
+So he went home and washed it properly, in cold water from the yard pump, with the band still round his head and his eyes still seeing the edges of everything a little late, and then sat on his bed and left it alone, and found that his hands were shaking. They had not shaken on the floor. They shook now, quite hard, for no reason he could find, and he sat and watched them until they stopped, as a thing his body was doing that was none of his business.
 
 At the hour he went up through the front.
 
@@ -80,7 +80,7 @@ Lira looked at him across the table, a long look, and said nothing.
 
 "Which ones?" said Lira.
 
-"All of them. From everywhere." He did not look up. "Iron-equivalent, unclassified, is a story. People travel for stories."
+"All of them. From everywhere. Iron-equivalent, unclassified, is a story. People travel for stories."
 
 Cael waited.
 
@@ -90,15 +90,15 @@ Cael waited.
 
 "I don't do toasts." Brom put his spoon in the empty bowl. "I claim to be accurate."
 
-"Accurate about what, exactly?"
+"Accurate about what?"
 
-"That it's coming. That's all." He looked at Cael then, plainly. "You built yourself to be looked at, this last year. On purpose. Findable where they look, you said. Tonight you found out what being looked at buys you. You haven't found out what it costs yet. Nobody ever does, the same night." He reached for the pot and looked into it to see if there was any left. "I'm not saying tonight. Eat your stew."
+"That it's coming. That's all." He looked at Cael then. "You built yourself to be looked at, this last year. On purpose. Findable where they look, you said. Tonight you found out what being looked at buys you. You haven't found out what it costs yet. Nobody ever does, the same night." He reached for the pot and looked into it to see if there was any left. "I'm not saying tonight. Eat your stew."
 
 "I've eaten my stew."
 
 "Then eat hers."
 
-Lira pushed her bowl across to him without a word, and Brom took it without a word, and Cael sat back in his chair with the lamp in his eyes and the cordial sweet on his tongue and listened to the two of them begin to argue about whether pear cordial counted as a drink. It was an argument nobody could win, and they were both enjoying it. He did not say anything for a long while. He did not think about the third exchange or the knock or Keth's face on the stone. While the stew lasted it was only an evening, in a room with two people in it who had seen him do a thing and had stayed to eat afterward, and he let it be that.
+Lira pushed her bowl across to him without a word, and Brom took it without a word, and Cael sat back in his chair with the lamp in his eyes and the cordial sweet on his tongue and listened to the two of them begin to argue about whether pear cordial counted as a drink. It was an argument nobody could win, and they were both enjoying it. He did not say anything. He did not think about the third exchange or the knock or Keth's face on the stone. While the stew lasted it was only an evening, in a room with two people in it who had seen him do a thing and had stayed to eat afterward, and he let it be that.
 
 ---
 
@@ -148,7 +148,7 @@ He noticed it first at the mending stall by the corner of Torvin's old street, w
 
 "Cael," she said. She said it carefully, as if she were trying a new coin between her teeth to see whether it was good. "That's the name. Cael." She folded the shirt. "This'll be a copper, Cael. Come back Thursday."
 
-He came back on Thursday, and she said it again, twice, as if to make sure it had stuck.
+He came back on Thursday, and she said it again, twice, to make sure it had stuck.
 
 Then it was everywhere. Dace stopped calling him *the unranked one* when he brought newcomers to the wall to show them where the cards went. He said *Cael* instead, and nothing after it, and let the newcomers work the rest out for themselves, which most of them already had. Fighters who had shared the drying-yards with him all season and never said more than a nod began to stop in the lanes and say a thing or two: the cold, a bout they had both watched, what the paper stall was asking for wraps now. None of it mattered, and all of it was new. He had not known, until it began, that he had been living a whole year in the district without anybody's talk landing on him. Now it landed, a little, every day.
 
@@ -182,7 +182,7 @@ Cael stopped at the gate.
 
 The old man did not say anything else. He watched the two boys. One of them went down in the wet, and got up, and went at the other again. After a while the old man moved his head down by one degree, the nod he gave to everyone who came through his gate, and then, after a moment, a second time.
 
-Cael walked on, and thought about it for the rest of the morning. It had been a kindness and it had been a warning, folded together the way the old man folded everything, and he could not have said where the one stopped and the other started.
+Cael walked on, and thought about it for the rest of the morning. It had been a kindness and it had been a warning, folded together, and he could not have said where the one stopped and the other started.
 
 Vell was the last.
 
@@ -200,7 +200,7 @@ He wrote in the Log that night, in the back pages, under the line about Keth.
 
 *Being known is not the same thing as being safe.*
 
-He looked at that. He had understood it a long time ago, the way you understand a thing somebody tells you, in words. He was beginning to understand it now in the other way, the way you understand cold by standing in it. It was there in the way a stall-keeper said his name, as if trying it between her teeth.
+He looked at that. He had understood it a long time ago, in words, as you understand a thing somebody tells you. He was beginning to understand it now the other way, as you understand cold by standing in it. It was there in a stall-keeper trying his name between her teeth.
 
 He wrote Hesk a letter before he slept. It was short, because the things in it were short. *Iron-equivalent. Won from the man who was the line here, a good one, at the end of a long fourth. A straw's-width cut, on the arm, healing. They know my name in the market now. I don't know yet what I think about that.* He read it over and did not add anything, because Hesk would know what was not in it. He sealed it to post in the morning.
 
@@ -216,7 +216,7 @@ Near the end, when the real business was done and the tea had gone grey in the c
 
 There was some laughter, of the tired Thursday kind.
 
-Coss did not laugh, and he did not do anything else either. He sat with his hands round his cup and his face exactly as it had been, and he felt the cold go through him again, the slow cold of stepping off a bank into deeper water than he had thought.
+Coss did not laugh, and he did not do anything else either. He sat with his hands round his cup and his face as it had been, and he felt the cold go through him again, the slow cold of stepping off a bank into deeper water than he had thought.
 
 He knew the file. He knew it before the man had finished the sentence. There was only one unranked boy in the river-side district whose file sat on a shelf in the long room with a line in its classification block that had no name beside it. He knew the boy's face. He had sat across a pie from it, a year and more ago, at a table in the district, and been asked whether he knew what a flag was.
 
@@ -224,11 +224,11 @@ He knew the file. He knew it before the man had finished the sentence. There was
 
 "Coss," said the officer with the digest, still pleased. "River side's yours, isn't it? Half of it. You ever hear of such a thing?"
 
-There it was. It was the moment, and Coss knew it for what it was as plainly as if somebody had put it on his desk with a routing card.
+There it was. It was the moment, and Coss knew it for what it was.
 
 He could say it now. *That's one of mine. A monitored file. I'll have the assessor look in.* It would be correct, entirely within his duty, and nobody at the table would think twice about it. It would put his name back beside the boy's, out loud, on a Thursday, in front of a dozen officers who would remember that Coss of the river side had known the name. If a man wanted to be on record as having seen a thing first, this was the very cheapest way there was to do it. It was what he had sat at his kitchen table two months ago and written a note to make sure of.
 
-And the note had gone up into the floors above him, signed, and the floors had taken it the way deep water takes a stone.
+And the note had gone up into the floors above him, signed, and the floors had taken it without a ripple.
 
 "Circuit talk," said Coss. "They've a new champion every season. It's what they're for."
 
@@ -236,7 +236,7 @@ The officer laughed, and turned the page, and read something about a carter's li
 
 He finished his tea, which was cold. He took the stairs back up to his office at his ordinary pace, and shut the door, and sat down at his desk, and did not open any file at all.
 
-There was one more thing he could have done, and he sat and looked at it for some time, because it was the smallest of all.
+There was one more thing he could have done, and he sat and looked at it, because it was the smallest of all.
 
 The digest would go down to the clerks' room that evening, as every digest did, and be bound into the river-side summary book with every other week's gossip, where nobody would ever read it again. But any officer could send a slip down with it asking for a line to be cross-referenced to a file. It was routine. Coss had done it a hundred times, for a carter whose name came up in a fight at the docks, or a dyer who had been seen where he should not be. It took a quarter-minute and a number. Then the line about the circuit yards would be pinned to the file on the shelf in the long room, between the registry's stamp and the green slip, for the next man who opened it to find.
 
@@ -258,7 +258,7 @@ Coss did not know what had put the line in the block. He did not let himself gue
 
 So he would do nothing. He would not ask Havel whether the boy's quarterly visit was due, or go down to the long room. He would not write the thing in his log, where the one line from two months ago still sat by itself above a page of ordinary entries. He would not say the boy's name aloud again in that building, if he could help it, for as long as he worked there.
 
-It was the right thing, he thought. He was nearly sure. And it cost him exactly what he had paid two months ago to buy back, which was the one small way he had found to stand up.
+It was the right thing, he thought. He was nearly sure. And it cost him what he had paid two months ago to buy back, which was the one small way he had found to stand up.
 
 He had written that note to be on record. He had sat at his kitchen table, where his daughter did her sums, and put his name at the foot of a sheet so that some day, when it came up properly, there would be a paper in the chain that said *I saw it. I said so first.* Now, on the first plain chance he had had to say it again out loud, he had said *circuit talk* and drunk his tea. If it ever came up properly now, the officers' table would remember that Coss of the river side had heard of the boy who beat the Iron man and had laughed it off with the rest of them. They would be right to.
 

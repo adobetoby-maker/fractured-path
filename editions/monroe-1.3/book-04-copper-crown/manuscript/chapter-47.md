@@ -168,7 +168,7 @@ On the floor, Cael had felt his own count against the woman's pencil without loo
 
 The left was worse. It always was. His left turn had come late in his training and had never been as easy as his right, and without the reach behind it every repetition felt like going down stairs in the dark, one careful foot at a time, feeling for each edge. He kept it on the frame, and he kept the hold in its corner. By the twentieth there was a fine shake starting in both forearms. Part of it was the ordinary shake of contact work, and he knew that one and did not mind it. Under it was a second, further in, which came from the purse running toward its bottom, and that one he minded very much.
 
-At the thirty-first repetition of the left side, which was one more than the drill called for, Brom stopped.
+Before the thirtieth repetition of the left side, the last one the drill called for, Brom stopped.
 
 He stopped out of turn, in the middle of stepping back to his mark, and shook out his right hand at the wrist as if it had cramped, and when he spoke it was at the exact volume a man uses to grumble about his own wrist to nobody.
 
@@ -192,7 +192,7 @@ He did not go back to the residence but went out through the side door of hall t
 
 The shake in his forearms made his letters jump. He wrote anyway, because the shake was part of what he was writing down.
 
-*Shadow-adjacent, Bronze tier: working ledger. Day sixteen. Deployment: none.*
+*Shadow-adjacent, Bronze tier: working ledger. Day sixteen of the ledger; twenty-nine since the stair. Deployment: none.*
 
 *Have: the hold. Fifty minutes of it, under a gallery with seven on it. No slips. It leaned toward the drill at the eighth and I hauled it back.*
 

@@ -6,7 +6,7 @@ What was not nothing was the sound the room had made when it happened. It had be
 
 She looked away from him then, because she could not afford him either.
 
-The trouble was not Dravin, and she had known that by the end of the first exchange. Dravin was exactly what she had asked Dace for: a correct man, very good, who would beat her if she let him. The trouble was the three hundred people breathing round the rope, and the betting man's slate, and Vell's pen, which had stopped.
+The trouble was not Dravin, and she had known that by the end of the first exchange. Dravin was what she had asked Dace for: a correct man, very good, who would beat her if she let him. The trouble was the three hundred people breathing round the rope, and the betting man's slate, and Vell's pen, which had stopped.
 
 She knew why the pen had stopped: Vell had never once in a year had to wait to see what Lira would do.
 
@@ -26,7 +26,7 @@ And now she was going to come apart in the middle of the Ironyard with the lamps
 
 She went in again.
 
-Her body wanted the outside. She felt it want the outside the way you feel a horse want the stable at the end of the day, all of it leaning one way at once. The outside was safe. She could stand off at the edge of Dravin's reach and make him come to her, and step him, and step him, and wait for the moment a correct man always gave you sooner or later. She had won most of a year that way, and she could win this one that way too, very probably, by the sixth or seventh exchange, and she would know, walking off, exactly as much about Dravin as she knew now, which was that he was correct.
+Her body wanted the outside. She felt it want the outside the way you feel a horse want the stable at the end of the day, all of it leaning one way at once. The outside was safe. She could stand off at the edge of Dravin's reach and make him come to her, and step him, and step him, and wait for the moment a correct man always gave you sooner or later. She had won most of a year that way, and she could win this one that way too, very probably, by the sixth or seventh exchange, and she would know, walking off, no more about Dravin than she knew now, which was that he was correct.
 
 She went in.
 
@@ -34,9 +34,9 @@ He was ready for it this time, as she had known he would be. He gave back a step
 
 Before he stepped, he went back.
 
-Not far. Not his feet. His weight went back into the place it had been at the start of the bout, the load his teachers had given him, exactly, every time. It was like a man who has to go back to his front door before he can set off anywhere, even if where he is going is next door. It was very quick, a quarter of a beat. In the outside, at the edge of his reach, a quarter of a beat was nothing; she had never once seen it from out there. In here, with her staff a hand's width from his ribs, it was a door.
+Not far. Not his feet. His weight went back into the place it had been at the start of the bout, the load his teachers had given him, exactly, every time. It was like a man who has to go back to his front door before he can set off anywhere, even if where he is going is next door. It was very quick, a quarter of a beat. In the outside, at the edge of his reach, a quarter of a beat was nothing; she had never once seen it from out there. In here, with her staff almost at his ribs, it was a door.
 
-She did not use it; she did not have time. He was gone, a long clean step to her right, and her staff went through the air where he had been. But she had seen it, and she put it away somewhere behind her breastbone, carefully, the way Cael put a thing in the middle column. *He goes home first.* She would have that tomorrow, whatever happened tonight.
+She did not use it; she did not have time. He was gone, a long clean step to her right, and her staff went through the air where he had been. But she had seen it, and she put it away somewhere behind her breastbone, carefully, for her own middle column. *He goes home first.* She would have that tomorrow, whatever happened tonight.
 
 He came back at her from the right, and she caught the first blow on the staff and sent it.
 
@@ -78,7 +78,7 @@ She went back to her mark without holding her side or looking at the girls on th
 
 He was not writing. He was not doing anything. He was standing at the rope with his good hand white on the strand, and she could see that he had stopped breathing some time ago and not yet noticed.
 
-She almost laughed, but it hurt too much to laugh. *Breathe,* she thought at him, and as if he had heard her, he did.
+She almost laughed, but it hurt too much to laugh. *Breathe,* she thought at him, and he did.
 
 ---
 
@@ -102,7 +102,7 @@ She sat there a moment, and then she put her hand up.
 
 "Called," said Vell. "Hand up. Sixth exchange."
 
-The room made its noise, though it was not much of one: the sound of three hundred people who had been sure of something and were not sure what to be sure of now. At the corner by the barrel the betting man was paying out on Dravin with a face like a man who has stepped on a stair that was not there. On the second bench the four girls from the wall were very quiet.
+The room made its noise, though it was not much of one: the sound of three hundred people who had been sure of something and were not sure what to be sure of now. At the corner by the barrel the betting man was paying out on Dravin with a sour face. On the second bench the four girls from the wall were very quiet.
 
 Dravin went across and held out his hand, and she took it, and came up on it. He held on a moment longer than was usual. Cael saw him say something to her, close, three or four words, and saw her nod, and then Dravin let go and went to his corner, rolling the hip she had hit in the third.
 
@@ -130,7 +130,7 @@ Vell had written the line. She turned the book toward them without a word, and C
 
 Vell had never written *pressed* beside Lira's name, because there had never been any reason to.
 
-The four girls from the wall came down off the second bench while Vell was blotting the line, and stood in a row at the end of the table. They were not quite close enough to be with her and not quite far enough to be going, the way girls stand who have been told they may come and do not yet know whether they are wanted. Lira saw them, and Cael saw her see them, and for a moment the old face came over hers, the one he had seen her wear at the rope before a bout, the face that gave nobody anything.
+The four girls from the wall came down off the second bench while Vell was blotting the line, and stood in a row at the end of the table. They were not quite close enough to be with her and not quite far enough to be going. Lira saw them, and Cael saw her see them, and for a moment the old face came over hers, the one he had seen her wear at the rope before a bout, the face that gave nobody anything.
 
 Then she took it off again, on purpose, and let them look.
 
@@ -154,7 +154,7 @@ He thought of the Power Log, and the rule in it, and the line he had written und
 
 "It's the same trade. Mine. With the lock."
 
-"It's exactly the same trade." She let go of the rail. "Except you get yours over in half a breath. I'm going to be paying mine all winter."
+"The very same trade." She let go of the rail. "Except you get yours over in half a breath. I'm going to be paying mine all winter."
 
 The heavyset man was on the step when they came along the row, as he always was, with his arms folded and his hat pushed back.
 
@@ -174,7 +174,7 @@ She lost the one after that to a Wind from the salt end, a woman of forty with a
 
 By the third week the boarding-house stairs had become a thing she climbed with both hands on the rail. Her line in Vell's book had three losses in it, one under another, more than it had held in the whole year before, and the word *pressed* beside each.
 
-The mornings changed with her. She came down to the alcove stiff, and complained about the cold all the way down the hill, and then complained that he was not complaining. She warmed the hip for a long time against the straw post before she would take her staff off her back. Then she fought him as she had never fought him in a year of mornings. She came in, and in, and in. Sometimes he caught her and sometimes he did not, and she did not seem to care which, so long as she found something out. He had thought he knew every way she could come at him. He found he had known every way she had been willing to.
+The mornings changed with her. She came down to the alcove stiff, and complained about the cold all the way down the hill, and then complained that he was not complaining. She warmed the hip against the straw post, and took her time about it, before she would take her staff off her back. Then she fought him as she had never fought him in a year of mornings. She came in, and in, and in. Sometimes he caught her and sometimes he did not, and she did not seem to care which, so long as she found something out. He had thought he knew every way she could come at him. He found he had known every way she had been willing to.
 
 "You're going to get hurt," he told her, on one of those mornings, when she had walked into his short strike for the third time to see what was behind it.
 
@@ -182,7 +182,7 @@ The mornings changed with her. She came down to the alcove stiff, and complained
 
 He did not write it down. But he was, a little.
 
-He saw the big man again that week, on a thin card, at the back by the water barrel, where the lamplight did not quite reach. A broad still shape sat on the end of the last bench with his forearms on his knees, and did not stand when the room stood for a knockdown, and did not shout. Cael noticed him the way he noticed the barrel, as a thing that was there. He thought, if he thought anything, that the circuit was full of big quiet men who liked a seat at the back. Then the next bout was called and he forgot him again.
+He saw the big man again that week, on a thin card, at the back by the water barrel, where the lamplight did not quite reach. A broad still shape sat on the end of the last bench with his forearms on his knees, and did not stand when the room stood for a knockdown, and did not shout. Cael noticed him as he noticed the barrel: a thing that was there. He thought, if he thought anything, that the circuit was full of big quiet men who liked a seat at the back. Then the next bout was called and he forgot him again.
 
 The betting man noticed before the book did.
 
@@ -190,7 +190,7 @@ Cael heard it on a Tuesday, going past the crate by the barrel with a bag of pea
 
 "Her to win," said a man in the queue. "What are you giving?"
 
-"Longer than I was." The betting man did not look up. "She doesn't win them clean any more. She goes in. Half the time she gets sat down."
+"Longer than I was." The betting man went on chalking. "She doesn't win them clean any more. She goes in. Half the time she gets sat down."
 
 "So she's slipping."
 
@@ -208,7 +208,7 @@ Vell found him in the arch of the alcove at the end of the third week, watching 
 
 It was the morning after the woman from the salt end. Lira was moving stiffly on the hip and going in on the dock partner anyway, every time, even in practice. The dock partner, who was a patient man, kept letting her, and kept sitting her down, and kept helping her up, and saying nothing.
 
-Vell did not come into the alcove. She stood beside Cael in the arch with the day's book under her arm, as she had stood at the edge of the east bench the night of the Ulric bout, and watched for a while.
+Vell did not come into the alcove. She stood beside Cael in the arch with the day's book under her arm, as she had stood at the edge of the east bench the night of the Ulric bout, and watched.
 
 "Dace asked me last night whether to move her down," said Vell.
 
@@ -228,7 +228,7 @@ Vell looked at him then. "You're very sure."
 
 "I am." He tried to find the reason, and found that it was not a reason he had worked out but a thing he had seen. "After Fenmark she asked six guilds for a letter. She walked to two of the halls on her own feet. The first one wouldn't let her in the door." He watched Lira's hands on the staff. "She went to the second one anyway. She knew what the first had said. She went anyway, so she'd have heard it from both."
 
-Vell said nothing for a long moment.
+Vell said nothing.
 
 "That's a very particular kind of stubborn."
 

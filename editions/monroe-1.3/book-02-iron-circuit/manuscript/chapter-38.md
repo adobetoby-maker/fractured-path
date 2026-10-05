@@ -10,7 +10,7 @@ Neither of them said anything. Brom's head came up. Lira, who had been going rou
 
 "On his chain," said Cael. "A place in it. I've had it on paper for a fortnight, and I saw it from a forearm off yesterday, holding a stick for him in his own ring. I'm not going to say where it is yet."
 
-"Why not?" said Brom. He said it the way he said everything, as a plain question, wanting the answer and not the argument.
+"Why not?" said Brom. It was a plain question; he wanted the answer and not the argument.
 
 "Because he asked to be told after. When I've found it. That's what he said in the autumn, about the gap in you, and I told him then and he thanked me for it." Cael heard how it sounded and went on anyway. "It's his first. He hasn't had it yet. I don't want it to be all round the alcoves before it's been anywhere near him."
 
@@ -52,7 +52,7 @@ Cael looked at her.
 
 Dace gave him the barge lad for the Thursday afternoon, with a look at the two names together on his slate that said he knew perfectly well what this was and would not ask.
 
-The side floor by the north wall was thin at that hour, as it always was: fifty on the benches, carters and newcomers and a knot of Orvet's people at the west post. The barge lad was nineteen or twenty, with arms so long that his practice blade looked short in his hand, and he talked to himself between cuts in a low steady mutter, like a man counting sacks. Cael had watched him twice from the bench in the season without writing anything, because there had not seemed anything to write. He chained threes. He chained them on everybody, every exchange, high and across and back, as if somebody had once told him the chain was the whole of fighting and he had never heard otherwise.
+The side floor by the north wall was thin at that hour, as it always was: fifty on the benches, carters and newcomers and a knot of Orvet's people at the west post. The barge lad was nineteen or twenty, with arms so long that his practice blade looked short in his hand, and he talked to himself between cuts in a low steady mutter. Cael had watched him twice from the bench in the season without writing anything, because there had not seemed anything to write. He chained threes. He chained them on everybody, every exchange, high and across and back; somebody had once told him the chain was the whole of fighting, and he had never heard otherwise.
 
 "Begin," said the junior keeper.
 
@@ -60,7 +60,7 @@ The lad came at once, which Cael had expected; he came at everybody at once. He 
 
 Cael gave him the whole first exchange. He gave ground on short steps round the edge of the chalk and let the long arms go by him, high and across and back, high and across and back, and did not strike once. On the benches somebody laughed at him, not unkindly; the barge lad's chains looked like a man beating a carpet, and Cael looked like the carpet. He did not mind. He had not come to win the first exchange. He had come to stand off and watch the join.
 
-It was there. He saw it on the first chain the lad threw, at the end of the second cut, a gap where the angle was set and the feet had not come yet. But it was not Keth's gap. The barge lad's second cut did not finish long; it stopped short, almost at the stick, the way a man stops a cut who has been told all his life not to waste it. So the angle set early and the feet were nearly with it, and the place between was so thin that Cael could barely see it, a hair's breadth of stillness and then the third already coming.
+It was there. He saw it on the first chain the lad threw, at the end of the second cut, a gap where the angle was set and the feet had not come yet. But it was not Keth's gap. The barge lad's second cut did not finish long; it stopped short, almost at the stick, a cut thrown by somebody told all his life not to waste one. So the angle set early and the feet were nearly with it, and the place between was so thin that Cael could barely see it, a sliver of stillness and then the third already coming.
 
 So the join was in the chain, and not only in Keth. That was the first thing, and it was what he had come for.
 
@@ -76,7 +76,7 @@ It leaned. He felt it lean, the old pull on the crest of the bone, and it did no
 
 Cael went back to his mark with his forearm ringing and saw what it had cost him: he could not knock and burst in the same breath, and whatever the knock gave him had to wait for it to shut before he could spend it. On a slow man that was nothing. On a fast one it was a cut on the forearm.
 
-In the third exchange he did not burst at all. He knocked six times, each when the lad committed and his own foot was down, and four of the six gave him smear, which he let alone while he stepped on his eyes. Twice the knock gave him the lean before the cut came. Both times he stepped a little earlier than his eyes would have let him, to the side the lean was not going, and the long arms went by him. On the second of those he went in under the third cut of the chain, which came out of that hair's breadth late, and put his short strike into the lad's ribs. It was not into the join; the join was too thin to stand in. It was only into a man who had been told where Cael would be by his own weight a moment before his blade got there.
+In the third exchange he did not burst at all. He knocked six times, each when the lad committed and his own foot was down, and four of the six gave him smear, which he let alone while he stepped on his eyes. Twice the knock gave him the lean before the cut came. Both times he stepped a little earlier than his eyes would have let him, to the side the lean was not going, and the long arms went by him. On the second of those he went in under the third cut of the chain, which came out of that sliver late, and put his short strike into the lad's ribs. It was not into the join; the join was too thin to stand in. It was only into a man who had been told where Cael would be by his own weight a moment before his blade got there.
 
 The lad sat down on the stone and stopped muttering.
 
@@ -110,7 +110,7 @@ He wrote one line on the barge lad's page, under a mark that was a short stroke 
 
 "So do two of them before he's started."
 
-Cael looked up from the alcove floor. Brom was sitting on the bench, not standing a forearm off, because they had stopped for the band, and he had a heel of yesterday's bread in one hand and was looking at the post as if the post had asked him something.
+Cael looked up from the alcove floor. Brom was sitting on the bench, not standing a forearm off, because they had stopped for the band, and he had a heel of yesterday's bread in one hand and was looking at the post, thinking.
 
 "The knock can't go until his foot's down. Your foot. Your foot's down before his cut starts, if you're any good." Brom bit the bread and thought. "And your eyes know he's going to commit before he does. Your hooks. So you've got your foot down and you know he's going. Knock then. Not when his cut's coming. When he's *meant* it. You'll have the answer and be shut again while his blade's still getting there."
 
@@ -150,9 +150,9 @@ The band was a little less each morning. Not much, but less.
 
 Orvet's square woman fought him on the Tuesday, in the middle of the afternoon card, and Orvet came to shout at it.
 
-He was at the west post before either of them was on a mark, with his red neckcloth and his grey beard wagging, telling his fighter what Cael was going to do, which was everything Cael had done in the season on that floor. The woman listened to him the way a woman listens to rain on a roof. She was thirty or so, square in the shoulder, with a puckered burn scar across the back of her right wrist and short fair hair tied back hard. She held her practice blade too high on the grip, the way Cael had seen guild-house people hold their blades, choked up, as if the blade were longer than it was.
+He was at the west post before either of them was on a mark, with his red neckcloth and his grey beard wagging, telling his fighter what Cael was going to do, which was everything Cael had done in the season on that floor. The woman listened to him the way a woman listens to rain on a roof. She was thirty or so, square in the shoulder, with a puckered burn scar across the back of her right wrist and short fair hair tied back hard. She held her practice blade too high on the grip, choked up as guild-house people held theirs, as if the blade were longer than it was.
 
-It had been longer. That was the thing he had come for. Lira had said she came down from a house on the coast last spring, and Cael had gone to the bench twice since and watched her, and had seen what he hoped to see: every cut she threw finished a long way past where it needed to, a hand and more, as if she still had an extra handspan of steel out there at the end and was carrying it round.
+It had been longer. That was the thing he had come for. Lira had said she came down from a house on the coast last spring, and Cael had gone to the bench twice since and watched her, and had seen what he hoped to see: every cut she threw finished a long way past where it needed to, still carrying round a handspan of steel that was no longer there.
 
 She had learned on a bigger blade, as Keth had. She chained, as Keth did. If the join was the shape of the chain and the length of the finish, it should be in her as wide as it was in him.
 
@@ -162,7 +162,7 @@ She did not come at him. Orvet's people never came at him first; Orvet had seen 
 
 She chained a three, high and across and back.
 
-The second cut finished long, a hand and more past his shoulder, and there it was: the angle set, the feet behind, and nothing she could choose. It was the same width as Keth's, or so near it that his eyes could not tell the difference. Then the third came out of what the second had left her, a cut she had to throw from where she was rather than where she wanted to be, and it went wide.
+The second cut finished long past his shoulder, and there it was: the angle set, the feet behind, and nothing she could choose. It was the same width as Keth's, or so near it that his eyes could not tell the difference. Then the third came out of what the second had left her, a cut she had to throw from where she was rather than where she wanted to be, and it went wide.
 
 He did not go in. He stepped off it on his feet and let the exchange run out.
 
@@ -174,9 +174,9 @@ He knocked twice more before the exchange was out and got smear both times, and 
 
 In the third exchange she chained twice. On the first he knocked at the meaning and it answered, and he did nothing with the answer but step early, to see that he could. On the second he got the smear, nothing but a blur, so he did not move on it. He let the first two cuts go by him on his eyes alone, a long way back, and did not go into the join, because he did not have it. That was the rule he had made walking down: if the knock did not answer, he would not go.
 
-In the fourth she chained again, harder, because Orvet was telling her to, and Cael knocked at the meaning from a planted foot and it answered, clean. Her weight was going hard into the second, forward and right, set. He let the second cut come and finish long, a hand past him, and in the place after it, the place where she had nothing she could choose, he went in.
+In the fourth she chained again, harder, because Orvet was telling her to, and Cael knocked at the meaning from a planted foot and it answered, clean. Her weight was going hard into the second, forward and right, set. He let the second cut come and finish long past him, and in the place after it, the place where she had nothing she could choose, he went in.
 
-It was a short entry, a step and a half, from exactly the range he had chosen for it. The hip went on the read, cleanly, a little front-left, and he came out of the lock already inside her blade arm. He put his short strike into the side of her ribs, under the arm that had just finished its second cut and could not yet bring the third round to meet him.
+It was a short entry, a step and a half, from the range he had chosen for it. The hip went on the read, cleanly, a little front-left, and he came out of the lock already inside her blade arm. He put his short strike into the side of her ribs, under the arm that had just finished its second cut and could not yet bring the third round to meet him.
 
 She went down onto one knee, more surprised than hurt, and looked at her own blade.
 
@@ -188,7 +188,7 @@ Orvet was shouting something long and personal about the junior keeper's eyesigh
 
 "Yes."
 
-She thought about it. Her face did not change much; it was not a face that changed much. "My old master used to say I finished like I was still carrying his sword," she said. "I thought he meant it was a fault in my wrist." She looked at the scar on the back of her hand, as if it had something to do with it, and perhaps it did. "It's not my wrist, is it."
+She thought about it. Her face did not change much; it was not a face that changed much. "My old master used to say I finished like I was still carrying his sword," she said. "I thought he meant it was a fault in my wrist." She looked at the scar on the back of her hand; perhaps it had something to do with it. "It's not my wrist, is it."
 
 "No. It's the chain."
 
@@ -196,11 +196,11 @@ She thought about it. Her face did not change much; it was not a face that chang
 
 He added up on the bench: six knocks and three answers, half, on a floor, against a woman who had not stood still for him once, and not one step into the join without an answer behind it.
 
-He sat with the numbers on his hand for a long time, while the next pair went on.
+He sat with the numbers on his hand while the next pair went on.
 
 ---
 
-That night he wrote both bouts in the Log, under the pulse, in the plainest words he had.
+That night he wrote both bouts in the Log, under the pulse, in as few words as he could.
 
 *Pulse, on a floor, twice. Thursday: eight knocks, three answers; knock and hip won't share. Tuesday: six knocks, three answers, knocking at the meaning (the fourth hook) from a planted foot. Alcove, by the same rule: eleven in twenty. The band thinner by the fourth morning.*
 
@@ -210,7 +210,7 @@ Then, in the grey book, on the page with *the finger* at its head, he wrote one 
 
 *Two others, both there. His is the widest I've seen. Go in on the knock, never on the eyes alone.*
 
-He read that back twice. Then he shut the book and blew out the lamp and lay down, and did not sleep for a long time.
+He read that back twice. Then he shut the book and blew out the lamp and lay a long while awake.
 
 On the Friday he went down at first light to the ring, and stood at the edge of the chalk with his hands in his coat until Keth had finished telling the tall lad where his feet were, and Keth looked across at him.
 
@@ -230,7 +230,7 @@ Cael said nothing. There was nothing to say that would not be the thing itself.
 
 He turned back to the tall lad. "Wider. No. Wider than that."
 
-Cael went across the floor to the wall. Dace was there already, with his slate cloth, as if he had known which morning it would be and had come in early for it. He did not ask. He took the chalk from the ledge and wrote in the empty square under Keth's name, in his small square hand, one word.
+Cael went across the floor to the wall. Dace was there already, with his slate cloth; he seemed to have known which morning it would be, and come in early for it. He did not ask. He took the chalk from the ledge and wrote in the empty square under Keth's name, in his small square hand, one word.
 
 Then he stood back and looked at it, and wiped a little dust off the edge of the square with his thumb.
 
@@ -246,4 +246,4 @@ Then he stood back and looked at it, and wiped a little dust off the edge of the
 
 Cael looked at the square too. His own name looked odd in it, small and square and chalked, under Keth's: two names on a wall, which was all a bout ever was until it was fought.
 
-"Go and tell Vell," said Dace. "She'll want to know which book. And Cael." He was rubbing chalk off his fingers with the slate cloth, and did not look up. "Eat something before Thursday week. All of you lot go grey when you're thinking. I don't like it on my main floor."
+"Go and tell Vell," said Dace. "She'll want to know which book. And Cael." He was rubbing chalk off his fingers with the slate cloth, and did not look up. "Sleep before Thursday week. I don't want anybody on my main floor who's been up all night thinking."

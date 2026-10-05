@@ -160,7 +160,7 @@ He did not know how long he stood. When he looked up, Lira was still standing th
 
 "I need a moment," he said.
 
-She nodded, and stayed where she was. She did not come closer and she did not go away. She stood in the alcove with her staff and gave him the moment as if it were a thing she had been keeping in her pocket for him, and when it was over she was still there.
+She nodded, and stayed where she was. She did not come closer and she did not go away. She stood in the alcove with her staff and gave him the moment, and when it was over she was still there.
 
 "It changed," he said at last. "The Wind one. Not a new one. The same one, written again. Where it says how long it lasts, the old one said *undetermined*. Now it says *sustained*."
 

@@ -60,7 +60,7 @@ She lifted her fingers off the page and gripped the table's edge with both hands
 
 "*Shattered* was written in at that table, by somebody holding a pen, over an older word. And the older word meant unbound. Four articles along, somebody took the old system's only way of judging a person by what that person could actually show, instead of by which box they would go into, and turned it into a road out of itself, and put a sign up telling everybody to use the road." Her hands had tightened on the wood. "And the old way works. That's what I keep coming back to. It isn't a museum piece. It's working tonight, in this house, on the record, with seals on it. I sat at that table from the second bell to the seventh and watched it bear weight."
 
-He waited until he was sure she had finished.
+*Shattered* was the word in brackets on Cael's own registry sheet, beside his number, in the Denvash station's hand. He waited until he was sure she had finished.
 
 "And you're not saying they're connected."
 
@@ -144,7 +144,7 @@ Brom considered that through two more counts.
 
 "That's the same thing," said Brom, "only later," and he picked up the pencil from the settle and inked a neat cross into tonight's box in Karis's notebook, very carefully, as if it were somebody else's property, which it was. Then he put his wrap back on, finger by finger, and went up.
 
-The lamp was low and the hour was late when he sat down at the window, and the long day's pressure still sat behind his eyes like a hand. He did not write it the way he usually wrote, but took a clean page, as Karis had, and set her line at the head of it by itself. Then he wrote under it in numbered parts, because the day had been too big to go down in one piece.
+The lamp was low and the hour was late when Cael sat down at the window, and the long day's pressure still sat behind his eyes like a hand. He did not write it the way he usually wrote, but took a clean page, as Karis had, and set her line at the head of it by itself. Then he wrote under it in numbered parts, because the day had been too big to go down in one piece.
 
 *Why retire a working method? (Karis's words. Hers to keep. Copied here so I don't lose sight of it.)*
 
@@ -164,10 +164,8 @@ Then he wrote the fourth part, which was his own. It had been coming toward him 
 
 *I don't have to know who. The thing I can't leave alone is the reason it was put together like this. That could take me years.*
 
-He read it through once. Under all of it he added three short lines that had nothing to do with any system at all.
+He read it through once. Under all of it he added two short lines that had nothing to do with any system at all.
 
 *Tomorrow, ordinary again.*
 
-*Four days to the final.*
-
-*Five to the twentieth.*
+*Four days to the final. Five to the twentieth.*

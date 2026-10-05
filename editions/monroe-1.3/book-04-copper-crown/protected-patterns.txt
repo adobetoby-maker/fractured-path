@@ -1,5 +1,5 @@
 # Book 4 protected wording matched by pattern (see BOOK_MAP §9, packets, OWNER-DECISIONS)
 # Havel's one rule-breaking line (C3 / #9 default, packet M7)
-two years two of us now nothing has ever come back with a name on it
+years two of us now nothing has ever come back with a name on it
 # The M7 closing countdown (packet M7, "Where we leave pressure")
 four days to the final five to the twentieth

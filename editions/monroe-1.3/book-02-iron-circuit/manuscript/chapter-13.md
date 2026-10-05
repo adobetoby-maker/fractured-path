@@ -20,13 +20,13 @@ In the second, he pulled.
 
 The room went. The draughts and the lamps and the faces all drew back out of the edge of things and left her standing in the middle of the stone, very clear, the way the world went in the lock. He found her dormant, and then primed, the stillness coming into her hands, and then she went into building and stayed there.
 
-She stayed there for a long time, and he counted it on his own breath, sitting still: five, six, seven. He had never seen a build go past four. Every fighter he had watched, of every Path, gathered whatever they were gathering and then committed it, because a gathered thing wanted to be spent. It was like holding a full bucket at arm's length; you could not do it for long. The Force woman held hers for seven counts, and then for nine, and she did not stand still to hold it but moved inside it, stepping and turning and following the lean man round the stone with the build sunk down in her legs and back, plain to see if you knew where to look. Once she took a light touch from him on the shoulder, a testing tap, and did not let go of any of it. The hooks went on coming out of Cael's pencil with longer and longer counts between them.
+She stayed there, and stayed, and he counted it on his own breath, sitting still: five, six, seven. He had never seen a build go past four. Every fighter he had watched, of every Path, gathered whatever they were gathering and then committed it, because a gathered thing wanted to be spent. It was like holding a full bucket at arm's length; you could not do it for long. The Force woman held hers for seven counts, and then for nine, and she did not stand still to hold it but moved inside it, stepping and turning and following the lean man round the stone with the build sunk down in her legs and back, plain to see if you knew where to look. Once she took a light touch from him on the shoulder, a testing tap, and did not let go of any of it. The hooks went on coming out of Cael's pencil with longer and longer counts between them.
 
-So she was not a committer who took a long time but something else, a fighter who lived in the build the way other people lived in their dormant phase, and she could stay there, it seemed, as long as she chose.
+So she was not a committer who took a long time but something else: a fighter who lived in the build, and could stay there, it seemed, as long as she chose.
 
 Then he looked at the lean man, still circling, still waiting for her to spend, and understood what the fight was. The lean man was waiting for the release, as the river-academy man had waited for the landing. He meant to be somewhere else when it came, and come back at her in her recovery, and she knew he was waiting, and was letting him. She was going round and round the stone with her bucket held out, and the lean man was going round with her, and something had to give.
 
-It would be him; Cael saw that with a cold clear certainty. A man could wait a long time, but not as long as she could build; she had shown him nine counts and could plainly do more. Sooner or later he would get tired of going round, or the room would get tired of watching him go round, and he would try to end it by stepping in to make her spend before she chose. The only side he could do that from without walking into her strong hand was her left.
+It would be him; Cael saw that with a cold clear certainty. A man could wait a long time, but not as long as she could build; she had shown him nine counts and could clearly do more. Sooner or later he would get tired of going round, or the room would get tired of watching him go round, and he would try to end it by stepping in to make her spend before she chose. The only side he could do that from without walking into her strong hand was her left.
 
 When he stepped to her left, she would let the whole of it go.
 
@@ -44,13 +44,13 @@ He knew he was breaking it, and could see the page in his head where he had writ
 
 He went down.
 
-The third exchange was the longest of the bout. The lean man circled and the Force woman built, and the hooks went out longer and longer under Cael's pencil. In the middle of it the lean man began, a little, to come apart. His feet, which had been so light, began to plant a little harder, as if the floor had grown more trustworthy. His eyes went twice to Vell's table, as a man's eyes go to a clock, and his breath shortened at the end of each circle. The Force woman felt it, and Cael saw her feel it. Something in her shoulders settled further down into the build, the way a cat settles before it jumps, and she slowed her going-round by the smallest fraction, to make him wait a little longer.
+The third exchange was the longest of the bout. The lean man circled and the Force woman built, and the hooks went out longer and longer under Cael's pencil. In the middle of it the lean man began, a little, to come apart. His feet, which had been so light, began to plant a little harder, as if the floor had grown more trustworthy. His eyes went twice to Vell's table, as a man's eyes go to a clock, and his breath shortened at the end of each circle. The Force woman felt it, and Cael saw her feel it. Something in her shoulders settled further down into the build, and she slowed her going-round by the smallest fraction, to make him wait a little longer.
 
 His eyes ached, and his forehead began to ache behind them, and he did not come up.
 
 "End of the exchange."
 
-He came up then because he had to, because the exchange was over, and he sat on the plank breathing as if he had been fighting himself. The lamps came back, and the noise, and the cold from the door. He did not count the room but looked only at the two of them going back to their marks, the Force woman unhurried and the lean man shaking his hands out at his sides.
+He came up then because he had to, because the exchange was over, and he sat on the plank breathing hard. The lamps came back, and the noise, and the cold from the door. He did not count the room but looked only at the two of them going back to their marks, the Force woman unhurried and the lean man shaking his hands out at his sides.
 
 "Begin."
 
@@ -120,9 +120,9 @@ Lira looked at the book in his hand, and at him, and opened her mouth, he though
 
 He spent the whole of the next day reading his own books.
 
-He did it at the crate desk with the door between the rooms open and the light from the yard window coming in grey. He began with the oldest notebook on the shelf, the one he had carried out of Denvash, written in the round anxious hand he had had at fourteen, and then came forward through the year to the grey book on his desk. He was trying to read them not as the boy who had written them, who knew what every line meant because he had been there, but as the big man had read them: as a stranger on a bench, from the side, a hand's breadth away, seeing only what was on the page.
+He did it at the crate desk with the door between the rooms open and the light from the yard window coming in grey. He began with the oldest notebook on the shelf, the one he had carried out of Denvash, written in the round anxious hand he had had at fourteen, and then came forward through the year to the grey book on his desk. He was trying to read them not as the boy who had written them, who knew what every line meant because he had been there, but as the big man had read them: as a stranger on a bench, from the side, seeing only what was on the page.
 
-By the middle of the morning he had begun to see it, and it was clearest on Ulric's page, because Ulric's was the best page he had ever made. Four evenings, one thing each: rhythm, four breaths fresh, three pressed, never two; the heel going back before any meant strike; the shoulder dropping a finger's width before the downward cut. It had won the bout and been right in every line, and every line was a *what* or a *when*, a list of things that had happened in front of him, carefully counted. Why did the weight go back into the heel? He had never asked. He had found that it did, every time, and that had been enough to win, and if Ulric came back next month having fixed his shoulder, the page would be worth nothing at all.
+By the middle of the morning he had begun to see it, and it was clearest on Ulric's page, because Ulric's was the best page he had ever made. Four evenings, one thing each: rhythm, four breaths fresh, three pressed, never two; the heel going back before any meant strike; the shoulder dropping before the downward cut. It had won the bout and been right in every line, and every line was a *what* or a *when*, a list of things that had happened in front of him, carefully counted. Why did the weight go back into the heel? He had never asked. He had found that it did, every time, and that had been enough to win, and if Ulric came back next month having fixed his shoulder, the page would be worth nothing at all.
 
 After the noon meal, which Lira put in front of him and took away again half eaten, he turned to the hooks. He had been so pleased with them, and he saw now that they were the same kind of thing, only finer. They were a better clock. They told him when each part of a strike happened, far more exactly than he had ever known it. But a clock could not tell him why the Force woman's build ran to nine counts and not four, or why Keth's count changed every time. The hooks measured. They did not explain.
 
@@ -168,7 +168,7 @@ He went to bed after midnight with his eyes aching from the lamp, and lay in the
 
 She was sitting on the end of his bed with a cloth wound round her right hand, where a staff had caught it wrong the evening before. She was reading over his shoulder, which he let her do, because there was nothing on the new pages that was his.
 
-"*What it's made of*," she read aloud, off the Dessa page, and read the rest with her lips moving, the way she read things she liked. "That's true. I've sparred her. If you talk to her while she's counting she goes stiff all over, like a cat in a bath. I always thought she just didn't like being talked to."
+"*What it's made of*," she read aloud, off the Dessa page, and read the rest with her lips moving. "That's true. I've sparred her. If you talk to her while she's counting she goes stiff all over, like a cat in a bath. I always thought she just didn't like being talked to."
 
 "She doesn't. But that isn't why."
 
@@ -186,7 +186,7 @@ He had not thought of it, and she was right, and it went through him in a slow w
 
 "That's different. That's you."
 
-"It's exactly the same. You're just kinder about it when it's me." She took the book off his knee and opened it at the page about the stranger, and read *I broke the ration in the third. That's how he got there,* twice.
+"It's the same thing. You're just kinder about it when it's me." She took the book off his knee and opened it at the page about the stranger, and read *I broke the ration in the third. That's how he got there,* twice.
 
 "He sat in your ten degrees. I measured that. With chalk. Seven times." She looked up. "Do you think he knew it was there?"
 
@@ -194,7 +194,7 @@ He had been not asking himself that for two days, and he made himself ask it now
 
 "I don't know. Either he knew, which means he's been watching closely enough to know what it costs me to watch, and waited for me to pay it. Or he sat down by chance, and saw I couldn't see him, and stayed." He turned the pencil over. "I don't know which of them I like less."
 
-Lira was quiet for a long moment, turning the book in her hands.
+Lira was quiet, turning the book in her hands.
 
 "You know what he did, don't you," she said at last. "To you. It's what you do. He sat on a bench and watched somebody with all his attention, and found the place where they couldn't see, and waited for the moment, and put one thing in it. Then he went." She closed the book and handed it back. "He did the river-academy man to you. With a sentence instead of a forearm."
 
@@ -208,6 +208,6 @@ And under it, after a while, because Lira had been right:
 
 *Whatever I'm becoming can be watched while it watches.*
 
-He put the pencil down and thought about the big man's three steps, and the sleeve a hand's breadth from his own, and the back bench by the barrel, where a broad still shape had sat on at least two nights before this and been counted as nothing. Somebody had sat in the blind spot of his method and told him the truth about it for nothing, and he did not know the man's name, or his Path, or why he had bothered.
+He put the pencil down and thought about the big man's three steps, and the sleeve so close to his own, and the back bench by the barrel, where a broad still shape had sat on at least two nights before this and been counted as nothing. Somebody had sat in the blind spot of his method and told him the truth about it for nothing, and he did not know the man's name, or his Path, or why he had bothered.
 
 He owed him a conversation. He wrote that down too, at the very bottom, small: *I owe him a conversation. When he's ready.*

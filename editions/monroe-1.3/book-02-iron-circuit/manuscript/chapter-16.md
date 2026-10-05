@@ -28,7 +28,7 @@ She did not do it by much, and she did not do it to anybody in particular. But t
 
 He nodded, because that was an answer and he liked answers. He liked, too, that she had not asked him why he wanted to know. People in this building did not ask why. They asked what, and how much, and who.
 
-A low record was worth travelling for. Anything this book said about a fighter was a little less than the truth, and every keeper and travelling fighter in the loose talk that ran between the cities knew it. That was why the talk had settled on Ardenmere the way it had. In that talk a venue had a name the way a fighter did, and the name stuck because whoever carried a false one paid for it in their own credit the next time they vouched for anything. The river city's name in that talk was *purses honest, records loose*, and he had found it fair on both counts. Ardenmere had been given a longer verdict, always in the same words, from people who had never met each other: *the keeper's ledger is worth more than any registry entry.*
+A low record was worth travelling for. Anything this book said about a fighter was a little less than the truth, and every keeper and travelling fighter in the loose talk that ran between the cities knew it. That was why the talk had settled on Ardenmere the way it had. In that talk a venue had a name, as a fighter did, and the name stuck because whoever carried a false one paid for it in their own credit the next time they vouched for anything. The river city's name in that talk was *purses honest, records loose*, and he had found it fair on both counts. Ardenmere had been given a longer verdict, always in the same words, from people who had never met each other: *the keeper's ledger is worth more than any registry entry.*
 
 It was four hundred miles from the river city to Ardenmere, and he had come the whole of it to find out whether the talk was right. He had come in pieces, on carriers' benches when he had the fare and on his own feet when he did not, with a month of hauling sacks for a miller in the middle of it, and a week on a ferry he had worked his passage on, and one long wet night under a hedge that he did not think about if he could help it.
 
@@ -48,7 +48,7 @@ Brom closed the book on his thumb and handed it back to her across the table.
 
 Cael came in at the side door with his hands in his armpits and the frost still on his collar. The first thing he saw, before the straw post or the slate or Lira, was a big man at Vell's table handing her book back to her.
 
-He had come to count the room before anything else, the way the ration had taught him. He did it now standing just inside the door: the sweepers at the north end, the chestnut man's brazier not yet lit, Dace at the slate with a stick of chalk in each hand, Vell at her table. And the big man, broad as the side door, turning away from the table with his hands empty, as if a book were a thing you put down when you had finished with it and did not think about again.
+He had come to count the room before anything else, as the ration had taught him. He did it now standing just inside the door: the sweepers at the north end, the chestnut man's brazier not yet lit, Dace at the slate with a stick of chalk in each hand, Vell at her table. And the big man, broad as the side door, turning away from the table with his hands empty.
 
 It had been three weeks.
 
@@ -106,7 +106,7 @@ On the morning he left, it had not needed opening. He had gone through it sidewa
 
 He had been fourteen. He thought about that sometimes: how easy it had been, how a house built on the certainty that no one belonging to it would ever want to go had left the way out standing open and never once considered it a door.
 
-Gold ran down through the family the way the drive ran down under the old trees. His grandmother's card said Gold, and so did his mother's, though if you went by the figures and not the card his mother sat nearer the top of Silver than the bottom of Gold. Nobody in the house had ever said so; the card said Gold, and the card was what people saw. His sister was two years older than he was and already two years into a guild placement in a city by the sea, and she was spoken of at the long table in the voice the family kept for a thing that was going to go well. Nobody in three generations of that house had been read at a station and come out anywhere but at the top of the ladder, or near enough to it that nobody mentioned the gap over the soup.
+Gold ran down through the family. His grandmother's card said Gold, and so did his mother's, though if you went by the figures and not the card his mother sat nearer the top of Silver than the bottom of Gold. Nobody in the house had ever said so; the card said Gold, and the card was what people saw. His sister was two years older than he was and already two years into a guild placement in a city by the sea, and she was spoken of at the long table in the voice the family kept for a thing that was going to go well. Nobody in three generations of that house had been read at a station and come out anywhere but at the top of the ladder, or near enough to it that nobody mentioned the gap over the soup.
 
 His own had come out Iron Skin, Copper.
 
@@ -130,7 +130,7 @@ He had chosen the river city for one reason only: it was the first place on the 
 
 It had a circuit in a boat shed by the eel market. There were two hundred standing on a good night and a keeper who wrote the results up the next morning from memory, in a hand that wandered down the page. The purses were paid in full and on the night, in coin you could bite. The record was whatever the keeper remembered, and on some mornings that was a good deal less than had happened.
 
-He had won his first bout there on the first night, against a man with no Path he could put a name to and a habit of swinging from the hip. He had won it the way he had been taught: with the wall.
+He had won his first bout there on the first night, against a man with no Path he could put a name to and a habit of swinging from the hip. He had won it as he had been taught: with the wall.
 
 That was what his instructors had called it, and the old manuals too. You raised the hardness over the whole of yourself at once and held it, front and back and arms and head, and lived behind it. Nothing short of a Bronze could get through it while it held. He had held it through four exchanges while the hip-swinging man broke his knuckles on him, and in the fifth the man had stopped swinging and sat down and looked at his hands, and that was the bout.
 
@@ -146,11 +146,11 @@ The redirect came out of being poor.
 
 He had been lying awake on his cot above a chandler's after a fourth loss, doing the arithmetic. He had perhaps six exchanges of wall in him. The bouts went seven. So he could not hold the whole of it the whole of the time, and if he could not hold all of it, he had better hold only what he needed. He did not need his back if nobody was behind him, or his legs if nobody was kicking, or his arm until the instant something touched it.
 
-He had tried it the next morning against the post in the boat shed's back room. He held nothing. He let his forearm be only an arm, soft, ordinary, until the post's swinging pad was a finger's width from it, and then hardened that one hand's breadth of it, there, at that instant, and nothing else. It was clumsy for a week. He was early, or late, and the pad bruised him. But when he got it right it cost him almost nothing at all, a single sharp spend where the wall had been rent.
+He had tried it the next morning against the post in the boat shed's back room. He held nothing. He let his forearm be only an arm, soft, ordinary, until the post's swinging pad was all but touching it, and then hardened that one hand's breadth of it, there, at that instant, and nothing else. It was clumsy for a week. He was early, or late, and the pad bruised him. But when he got it right it cost him almost nothing at all, a single sharp spend where the wall had been rent.
 
 He found the other thing a week after that, and found it by accident.
 
-A man in the boat shed threw a hard straight blow at his chest, and Brom hardened the place it would land, exactly as it landed, and was exactly right for once. The man went backward. He did not stagger off the blow the way men did off the wall, stopped like a cart against a gatepost. He went back and sideways, turned half round, with his own arm flung out wide past his shoulder as if somebody had taken hold of his fist and thrown it back at him along a line he had not sent it on.
+A man in the boat shed threw a hard straight blow at his chest, and Brom hardened the place it would land, exactly as it landed, and was right for once. The man went backward. He did not stagger off the blow as men did off the wall, stopped like a cart against a gatepost. He went back and sideways, turned half round, with his own arm flung out wide past his shoulder as if somebody had taken hold of his fist and thrown it back at him along a line he had not sent it on.
 
 Brom had stood in the middle of the boat shed with his forearm stinging and two hundred people roaring, and understood that a hardness laid down at the right instant did not only refuse what came at it. It sent it back, turned, through the place where they touched.
 
@@ -174,7 +174,7 @@ But it reached only a little way. It was a close sense, the length of a bench an
 
 So one night he had moved down to the end of the east bench, where nobody sat, while the boy was deep in whatever he did with his eyes. He sat close enough to touch his sleeve, and laid his attention on him like a hand on a beam.
 
-It was not empty. He knew empty. This was something else, a weight that was not where weight should be. It was not wrong the way a stranger's Path was strange, but wrong the way a word in your own language can be, now and then, near enough to one you know that it trips your ear, and then not a word at all.
+It was not empty. He knew empty. This was something else, a weight that was not where weight should be. It was not a stranger's Path, strange and whole. It was wrong as a word in your own language is now and then wrong: near enough to one you know that it trips your ear, and then not a word at all.
 
 He had sat with it through two exchanges and learned nothing more. Then, because he had been watching the boy's pencil as well, and the boy's pencil was writing all the wrong things, he had said so, and left.
 
@@ -196,7 +196,7 @@ Dace did not stop chalking. "He's Assessed. Copper-equivalent in her book, and a
 
 "I know."
 
-Dace finished the name he was writing, and then turned and looked at Brom properly for the first time in two months. It was a long look, top to bottom, the way a carter looks at a horse somebody wants to sell him. Brom stood still and let him.
+Dace finished the name he was writing, and then turned and looked at Brom properly for the first time in two months. It was a long look, top to bottom. Brom stood still and let him.
 
 "You're Iron-equivalent," said Dace. "In her book."
 
