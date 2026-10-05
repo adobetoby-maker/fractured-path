@@ -1,0 +1,313 @@
+# Chapter 8 — Good Bracket
+
+The Copper bracket ran on the second floor, under the middle roof, and its first bout of the morning had a boy in it who did not want to be there.
+
+Cael saw it from the rope before the glass was turned. The boy was fifteen at the most, thin, in a jacket of his house's colours that had been cut for somebody broader and taken in at the seams with large stitches. He kept touching the strapping on his wrists to make sure it was still there.
+
+His house was a small one from a valley to the west, and its block on the card had five lines because a delegation needed five lines to be entered at all. Rooke had said as much at breakfast, looking at the sheet. *Fifth man. Entered to fill the line.* There had been no verdict in the margin, only that.
+
+The draw had given him Brom.
+
+Cael had come to the second floor because Brom had asked him to, in the way Brom asked for things, which was to say at breakfast, to nobody in particular, that the Copper ran on the middle floor and the light there was bad.
+
+Lira had come because she had won, and could not sit still, and wanted to be somewhere a bout was happening that she did not have to think about. Behind them the main floor was still roaring for the next pair, and the sound came through the timber partition flattened and far off, like weather in another valley.
+
+The Copper bracket had its own sound, quieter and harder. The gallery along the second floor's rope was half the size of the main floor's, and it was full of people who had come on purpose: coaches from small houses, fair-day men with their arms folded, a few parents.
+
+Copper was where most fighters on the continent started and where a good many of them stayed. Rooke had called it, once, the only bracket where the paper and the floor were openly at war.
+
+Brom walked to his chalk at the slow, settled pace he kept for heavy things, and looked across at the boy, and Cael watched him take the measure of what was in front of him in about the time it took to roll his shoulders once.
+
+"He's going to be kind," said Lira beside him. She had come straight from the main floor with her wrists still strapped and a towel round her neck. "Watch. He'll be so kind it hurts to look at."
+
+The steward turned the glass.
+
+The boy came off his chalk because he had been told to, and went at Brom with a Copper's straight entry, the first thing anybody learns, honest and too long. Brom let it come. He took it on the meat of his left forearm without hardening, so that it landed on flesh and made the small, ordinary sound of a fist on an arm.
+
+He did not counter. He waited, very still, while the boy recovered and set himself to try again.
+
+Then, with no hurry at all, Brom stepped in and laid his open right hand flat on the boy's chest, over the breastbone, and held it there for the space of a breath.
+
+It was the clearest touch Cael had ever seen. There was nothing in it to argue about. There was nothing in it to hurt.
+
+"Touch," said the steward. "Halcenvane."
+
+The boy looked down at the hand on his chest, and then up at Brom, and Cael saw his face change. It was not relief, exactly. It was the look of somebody who has been dreading a thing for days and has just been shown, very gently, how large it really is.
+
+At the break the boy's coach came to the rope. He was a grey-bearded man with a kind tired face, and he did not call his fighter back to the chalk. He lifted one hand to the steward, palm out, the old sign, and said, "We'll concede."
+
+"Conceded," said the steward, and turned the glass on its side.
+
+Brom walked over to the rope where the boy's coach stood. He bowed to the man, properly, from the waist, the bow you give an instructor and not an opponent. Then he turned to the boy, who was standing alone on his chalk with no idea what to do with his hands.
+
+"You came off the mark," said Brom. "Lots don't, the first time."
+
+The boy nodded several times, very fast, and went to his coach.
+
+The figure went up while the next bout was still on the floor: fifteen. A Copper figure, low in the band.
+
+"Fifteen," said Lira, with some indignation, when they read it. "For that."
+
+"It's right," said Cael. "Look at what the effect column had to mark. He did almost nothing to anybody. He meant to." He found he was smiling. "The panel can't rate what he chose not to do."
+
+He heard what he had said a moment after he had said it, and the smile went somewhere else.
+
+---
+
+The buried Copper had fought before breakfast, on the same floor, and had finished her bout so fast that Cael had missed it entirely. By the fourth bell the whole second floor knew about her.
+
+Her name on the card was a line like any other: a market house in the hills, Iron Skin Path, Copper Rank Four. Rooke's sheet on her had four bouts on it, every one won and every one short.
+
+Cael had read it in the profiles stack, and Brom had read it twice. *Rank Four on paper. Fights like a Seven. Buried.*
+
+She was perhaps eighteen, square in the shoulders, with her hair cropped close and a fair-day fighter's habit of standing loose until the moment she was not. The chalked board in the square had her at short odds. The chalk, Rooke said, knew things the paper did not.
+
+Her coach stood at the far rope with his arms folded. He was a lean man in the market house's brown, and Cael noticed that he did not call to her once, before or during. He watched her the way a man watches cattle he has bought.
+
+Brom stood at his chalk and looked across at her for a long time before the glass turned. Then he looked down at his own left forearm and flexed the hand, once, as if checking a tool before a job.
+
+"Exchange."
+
+She was fast. That was the first thing, and it was wrong in a way the floor could feel.
+
+Iron Skin fighters did not need to be fast. Their Path was a hardening, a skin that took blows and gave nothing back but the iron under it, and most of them stood and let the other fighter come and break on them.
+
+She did not stand. She came off her chalk in three quick steps and struck before Brom had finished setting his feet: a hardened forearm across his ribs, short and flat, the blow of somebody who has hit grown men at fairs for money and never wasted a swing. It rang. Brom had not hardened in time.
+
+"Touch. Hills."
+
+Brom went back to his chalk rubbing his side and looking thoughtful.
+
+"He let that go," Lira said quietly.
+
+"Some of it." Cael had watched Brom's weight while the blow came. The read had shown it to him plainly: Brom had begun to harden late, by perhaps a quarter of a beat, and then had stopped hardening, and had let the forearm land on the half-set skin so that he could feel how much it carried. "He wanted to know what it cost."
+
+"And?"
+
+"And now he knows."
+
+The second exchange was the longest of the morning. Cael would remember it for a long time afterward, because he watched Brom do something across the whole length of a glass that Cael had never seen anybody do on purpose in a bout.
+
+Brom gave her the outside.
+
+He did it without seeming to. He set his guard a little wide on the left, with the left elbow out from his body, so that there was a gap where his forearm met his upper arm.
+
+It was a hinge, the place a grappler hooks to turn a man. At a fair any fighter who had won money would see it.
+
+She saw it. She came round to his left, fast, and hooked into the hinge with her right arm and heaved, and Brom turned with the heave and gave her a step of floor, and let her go.
+
+She came round again. Again she hooked the hinge, and again he turned and gave her a step. She did it a third time, and a fourth.
+
+The gallery along the second floor's rope began to mutter. To the gallery it looked like the buried Copper owning the big Halcenvane boy, walking him backward round his own chalk by the arm. Her coach unfolded his arms for the first time.
+
+Cael did not mutter; he was counting with Brom.
+
+Each time she came round, she came at the same angle. Each time she reached for the hinge, she reached on the same beat: two quick steps, a half-step, and the hook.
+
+It worked at fairs because men at fairs stood still. It had worked on every one of her four opponents on Rooke's sheet, and on whoever she had beaten before breakfast.
+
+It was a good entry, and she trusted it, and she was showing it to Brom over and over again, at a rhythm he could hear, while he paid for each lesson with a step of floor and a fresh ache in his left forearm.
+
+The glass ran out with neither of them touched.
+
+Rooke had come up behind them at some point in the exchange. Cael had not heard him arrive. He stood at their backs with his hands in his coat pockets and watched the floor, and when the glass ran out he said, to neither of them, "Look at his feet, not her arm."
+
+Cael looked. Brom's feet had not moved from the same two boards in the whole of the exchange. Every step of floor he had given her, he had given by turning on the spot. He had not been walked anywhere. He had been revolving.
+
+"He's renting it," said Lira slowly.
+
+"He's pricing it." Cael watched Brom walk back to his chalk, flexing the left hand. There would be a bruise there tomorrow the size of a plum. "Now he knows what it costs her to make it, and what it costs him to take it. And when it comes."
+
+"Exchange."
+
+She came round to his left. Two quick steps, the half-step.
+
+Brom hardened before the hook.
+
+He did it early, a whole beat early, so that by the time her arm closed on the hinge it closed on iron. It was the full hardening of an Iron Skin fighter who has stopped holding anything back, and the sound it made was not the sound of an arm. Her hook stopped dead.
+
+All her weight, which she had thrown into the turn she had made four times already and expected to make a fifth, came up against something that did not turn. For half a breath she hung on his arm with her feet still going.
+
+And Brom drove.
+
+He did not finish taking the blow first. That was the thing Rooke had spent a whole season breaking him of, the habit of absorbing everything before he answered.
+
+Now he answered while the hardness was still in the struck arm, through it, with the hip and the shoulder behind it. The force of her own hook went back down the line it had come up, and Brom's drive went with it.
+
+She left the floor. She landed on her back on the pine, flat, with a crack that went through the boards to Cael's feet.
+
+"Touch. Halcenvane."
+
+The gallery made a sound like a dropped tray.
+
+She was up before Brom had finished stepping back, which said something about her. She stood on her chalk with her chest going and looked at him with an expression Cael had seen on Ephram's face in the mock exhibition: a craftsman's offence, and under it, slowly, interest.
+
+She did not use the hook in the fourth exchange. She used everything else.
+
+She came at him high and low, with forearm and knee and a low hardened shin to the side of his knee that would have folded a fair-day man. She had a great deal, and all of it was good.
+
+But Brom had spent a whole exchange letting her show him how she moved when she believed she was winning. He had seen the rest of her inventory in the margins of the hook, the steps before it and the resets after it.
+
+When she reset from a missed shin and her weight came down for a quarter-beat on her heels, he stepped in and put his forearm flat across her chest and pushed, firmly, as a man pushes a door shut.
+
+"Touch. Halcenvane. Two to one. Bout to Halcenvane."
+
+She sat down on the boards, deliberately this time, and laughed once, without much breath.
+
+Brom came across the floor and held out his hand. She looked at it, and took it, and he pulled her up easily, and for a moment they stood with their hands still clasped, two Iron Skins in a Copper bracket.
+
+"Your card says Copper," she said.
+
+"So does yours."
+
+She glanced, very quickly, across the ring at the lean man in brown, who had folded his arms again and was looking at something on the far wall. Then she let go of Brom's hand and walked off the floor without a word to her coach.
+
+Brom watched her go. Cael watched Brom, and saw him notice the glance, and the folded arms, and what the two of them meant together. Brom said nothing about it. He went to the rope and sat down on the bench there, and began, very slowly, to unwind the strapping from his left hand.
+
+Cael sat down on the end of the bench beside him and did not help with the strapping. He was thinking about the second exchange.
+
+Brom had stood still and let a stranger show him everything she trusted, at her own rhythm, until he knew it better than she did. It had cost him a step of floor at a time and a forearm that would be black by evening, and he had paid without complaint, because the price was fair and the goods were good.
+
+Then he had spent what he had bought in a single beat. Cael had never seen a fight bought and sold so openly in front of a crowd that thought it was watching something else.
+
+"You let her have the arm," he said.
+
+"She wanted it." Brom wound the strapping into a roll. "Seemed rude to say no."
+
+The figures went up: the buried Copper, twenty-two; Brom, twenty-three. Nobody on the second floor had seen a Copper bout rate in the twenties before. A man in the gallery said so, loudly, to the man beside him, and went on saying it until his friends took him away for something to eat.
+
+---
+
+Karis fought the way she read a charter: thoroughly, and with most of her attention somewhere else.
+
+Her first bout, mid-morning, was an Ember against a Shield, and she took it apart in two exchanges.
+
+Cael watched it from the main floor's rope with his arms folded on the rail. The Shield was a tall girl from an eastern house who renewed her coverage the way some people breathe, steadily and without thinking, a new layer every few heartbeats.
+
+Karis spent the first half of the first exchange simply standing in front of her and counting.
+
+Then she found the place where the old layer thinned as the new one came, set her ignition point there once to see what happened, and walked back to her chalk with a touch she had not been trying for. In the second exchange she did it again, on purpose, and that was the bout.
+
+Her second, late in the morning, was against a Blade from a coastal house whom she had watched from the gallery during his first bout. She beat him at the first real joint of his entry. Both bouts were clean, and both rated in the low twenties.
+
+Cael kept his own tally from the rope, and could see that neither bout was where she was.
+
+She was in the meet.
+
+He found her afterward at the gallery rail of the main floor, with the grey notebook open on the rail in front of her and a pencil moving. She was not watching the fighters but the judges' table.
+
+"You won," he said.
+
+"I paid," said Karis. "The bouts are the fee. I've got the floor for the whole meet now, and a seat at the rail, and nobody asks me why I'm here." She turned the notebook toward him without being asked, as she had begun doing some time last year and had never once remarked on. "Look."
+
+The notebook had a new section. Its first page was headed *Wool town* in her square hand, and under the heading the meet had been taken to pieces and laid out in columns.
+
+There was the composition of every panel that had sat that morning, judge by judge, with a note on which of them held a slate close to the chest and which laid it flat.
+
+There was the floor stewards' habit with the glass: two of them turned it on the word *Exchange*, and one turned it a breath before, which over a morning's bouts gave his fighters a sliver less time.
+
+There was a page on the validation table. On it she had noted when the Compact's two officers really checked a name against the registry's extract, and when they only ran a pencil down the column for form's sake.
+
+The difference, she had found, depended on whether the house in front of them had a fighter on the list with a protest against him.
+
+And there was the exhibition provision, set out twice: once as the charter printed it, and once as the stewards' table had actually run it. She had found three places where the two did not agree. One was the steward's own invention. Two were older than he was, and she had underlined all three.
+
+"You're building the finals," said Cael, turning the pages.
+
+"I'm building Norhold from its provinces." She drew the notebook back toward her and shut it on her pencil. "The finals are only this, done bigger and watched harder. Out here it's small and careless and nobody's looking, so you can see where it's been joined. By the cold term I want to know how the tournament behaves better than it knows itself." She looked back down at the judges' table, where the clerk was collecting five slates without looking at any of them. "Institutions are like fighters. The charter is the stance. The habits are the tells."
+
+"And what's the meet's tell?"
+
+"That it isn't sure yet what you are," said Karis. "And that it's trying very hard not to show it." She made a small mark in the margin. "Look at the third floor's day board. They chalked the word on it last night and somebody rubbed it out this morning and chalked it again. Smaller."
+
+"The validator was sure."
+
+"The validator was honest. It isn't the same." Karis turned back a page and showed him a line she had already written there, in the margin beside the validation table's notes: *adjacent*, with a small square drawn round it.
+
+"She didn't know what you are either. She just refused to pretend she did, and found the word for the not-knowing. That's rarer than knowing. I've read a great many officials, and most of them would rather be wrong than be uncertain in writing." She closed the notebook again. "I'm keeping her."
+
+---
+
+Ephram's floor that morning was the main floor, and he had an audience.
+
+It had gathered without anybody arranging it. By his second bout there were eight or nine students in other houses' colours along his stretch of the rope, standing in a knot, and one of them, a girl in green with a notebook of her own, was charting him exchange by exchange. Cael saw the notebook and felt an odd fondness for it.
+
+Every house, he was beginning to think, had someone like that.
+
+They were not there for his rank. Iron Rank Six was a good line on a certificate, and near the top of the seeding. But there were other Sixes in the bracket, and a Seven, and nobody stood in a knot at their rope. The knot was there for how the work looked.
+
+It looked like Rooke's floor carried south. Ephram's entries arrived half a beat before the regional eye expected them. His recoveries were already the next position by the time the gallery saw the first one end.
+
+He fought the second-year entry with his shoulders perfectly still, as he had taught himself to do in front of the long window's glass. He won his first bout in three exchanges and his second in two.
+
+In the second, against a Shield from the river academy who had clearly been warned about him, he threw the entry three times with his shoulders still and won nothing with it.
+
+Then he threw it once with his shoulders dropping, the old way, the way every fighter in the gallery threw it, and the Shield, who had been told to watch the shoulders, watched them, and stepped where they said to step, into the second weight. Cael laughed out loud at the rope.
+
+By the end of that exchange the girl in green had stopped writing and was simply watching, with the pencil forgotten against her lip.
+
+He came to the rope afterward towelling his neck, and nodded across at the knot without any vanity at all. Cael noticed the lack. A year ago Ephram would have needed the vanity.
+
+"They're not here for you," said Cael.
+
+"No." Ephram hung the towel round his neck. "They're here for the entry. Every one of them has a second-year entry, and every one of them throws it the old way, shoulders first. Somebody in that knot is going to go home tonight and stand in front of a glass for ten days." He seemed pleased by the thought. "And then the next time we meet, she'll throw it at me with her shoulders still."
+
+"And that's good?"
+
+"That's the whole point." He looked down the floor at the next pair coming to their chalk.
+
+"At home, nobody watched me. I was the top of the Iron column, and nobody looks at the top of a column. They look at what's above it. You and Brom were in the building." He said it without bitterness, simply as a fact about a building. "You can read a man wrong for a year with nobody watching, and never find out, because nobody's there to show you. From today, if I'm wrong, somebody in green is going to write it down."
+
+"What's it for, then? The watching."
+
+"Pressure-testing," said Ephram. "Rooke says good is when you can do it. Finished is when you can do it while somebody who's studied you is trying to stop you." He picked up his kit. "I've been good for a while. I'd like to find out about the other one."
+
+He went off to the wash-house. Cael stood at the rope for a moment longer, watching the knot of students break up and drift away, the girl in green last of all, her notebook shut now and held flat against her chest.
+
+He wrote it in the observation notebook on the bench by the rope.
+
+*Ephram's the first of us anyone's watching for the work, not the name. He says a read nobody watches can be wrong in private forever, and he's right, and he wants the other thing. He's asked to be tested by people who've prepared for him. I think that's the bravest thing I've heard on this floor, and he said it towelling his neck.*
+
+*Rooke's floor travels. Ephram's the proof.*
+
+---
+
+"Good bracket," said Brom.
+
+That was all he said at the midday table about either bout, and he said it to the bread. He had his left forearm on the board beside his bowl, already darkening under the skin from wrist to elbow. He had declined the ice, the salve and Ephram's opinion, in that order.
+
+The inn had given the delegation the long table under the stair, and the house had filled it in the order it always did. Rooke sat at the end with the coaching file.
+
+Gault sat beside him with the case on the bench at his hip, a hand resting on its lid.
+
+Seln had the corner by the wall with the floor schedules spread in front of him in three neat piles, and ate one-handed without looking at his food. The two reserves had found the seats nearest the kitchen door.
+
+Lira's figure had gone up on the main board that morning, and she had pretended not to look at it, and then had looked at it twice.
+
+Karis kept her pencil moving. "Meaning?"
+
+"Meaning it's honest." Brom tore the loaf in two and passed half to Lira without looking. "Half the bracket's in the wrong column. The fifth man's in Copper because his house needed a fifth man. She's in Copper because somebody wants her there. I'm in Copper because nobody's filed for me." He chewed. "Everybody on that floor knows it. Nobody pretends. I like a room where nobody pretends."
+
+"You like a room where you can hit people who should be a rank higher," said Lira.
+
+"That too."
+
+Karis wrote a line. "Her coach," she said. "The one in brown."
+
+"Yes."
+
+"He didn't call once. Not in either bout."
+
+Brom put his bread down. He looked at his bruised arm on the table for a while, and the others let him.
+
+"He wasn't coaching," he said at last. "He was keeping. She's worth more to him as a Four who wins than a Seven who wins, because a Four who wins every fair-day purse in the hills is a living, and a Seven just gets matched against other Sevens." He picked up the bread again. "I'd like to know who files for her. I'd like it to be somebody."
+
+Nobody said anything to that. Rooke, at the end of the table, took out his pencil and wrote something in the margin of the coaching file, and then, after a moment, wrote something else under it.
+
+Cael thought about the sheet Rooke had marked in the profiles stack: *Somebody's keeping her low on purpose.*
+
+He thought about Brom's own sheet in the registry, with *Copper* on it, and the Velmere letters Brom read alone.
+
+He thought that Brom had spent the whole of the second exchange that morning learning exactly what a mispriced fighter was worth, and had used it to win. The other thing he had learned, he had brought to the table and set down beside his bowl, where everyone could see it.
+
+When the bell went for the end of the meal, Cael got up and went down to the far end of the old market, by the wall. The ganger from the quarry guild was already there, warming up on the soft pine by the stones.

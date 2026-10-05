@@ -1,0 +1,313 @@
+# Chapter 11 — Five Hands
+
+The rating table on the main floor stood in the open, at the south rope, where anybody who wished could walk up and stand behind it. That was the rule at every meet: the tournament scored where the crowd could see it scoring.
+
+Cael stood behind it for the whole of the first morning and watched.
+
+He had the observation notebook open on his forearm and a pencil, and he had told nobody what he meant to do, because he did not quite know himself. He knew only that he had been rated four times now, twice in a mock ring by people who loved him and twice at the wool town by strangers, and that he had never once watched the thing happen from the side where it happened. He had read about it, and Rooke had shown him a yellow card and drawn him a table. But the instrument itself he had only ever seen from the floor, which was the one place from which you could not see it at all.
+
+So for the whole of that first morning he kept to the end of the trestle with his pencil while the Copper bracket fought in front of him, and his own bouts, which were a day away, could wait.
+
+There were five judges. They sat in a row behind a long trestle, each with a slate and a stick of chalk, and between each pair of them stood a small upright board, about the height of a man's head when he sat, so that no judge could see his neighbour's slate without leaning. None of them leaned, though Cael watched for it.
+
+The bout began, and the judges watched it, and did not write while it ran. They did not look at one another, or at the crowd, or at the clerk. Their eyes stayed on the floor and on nothing else, and when an exchange ended on a touch, five heads stayed where they were for a breath while their owners finished a thought.
+
+At the end of the bout each judge wrote three figures on the slate, one under another, quickly, without hesitating. Then each turned the slate face down on the trestle.
+
+The clerk came down the row and collected the five slates in order, face down, and carried them to a smaller table at the end. There he turned them up all at once and laid them in a row. He wrote the five execution marks on a printed sheet, struck the highest and the lowest with a single line each, added the three that were left, and divided. He did the same for control, and the same for effect. He added the three results together and checked the addition. Then he chalked the figure on the board behind him, under the two fighters' names, in square plain numbers a hand high.
+
+Cael had noted the time by the hall's clock when the last exchange ended. He noted it again when the chalk touched the board.
+
+He did it four times. The first bout was a Copper from a hill house against a Copper from a valley one, and it took eleven minutes from the last touch to the figure on the board. The second, which was Brom's first bout of the day, took the same. So did the third. The fourth, which had a disputed touch in its last exchange that the floor steward had to call twice, took eleven minutes and perhaps a few heartbeats more.
+
+He looked at the four times in the notebook for a while.
+
+Eleven minutes was not fast. It could have been made faster with a second clerk, or an abacus, or a judge who called his marks aloud. Nobody had made it faster, and nobody had made it slower either. In four bouts, through a crowd and a disputed touch and Brom's opponent asking for water, the time between the end of a fight and the number that described it had moved by less than a quarter of a minute. It was not the speed of the thing that held his attention. It was its sameness. It ran like the mill wheels in the race below the hall, at the pace of the water, because somebody a long time ago had built the race to run at that pace and no faster.
+
+He wrote:
+
+*Five hands. They never see each other. They never touch. Each one writes alone, and turns its slate over, and then a sixth hand strikes the top and the bottom and adds what's left in front of anybody who cares to stand here.*
+
+*Whoever designed this didn't trust the judges. That's the beauty of it. They didn't need to. One judge who hates a house is struck. One who loves a fighter is struck. The slates are blind so that nobody can lean on anybody else, and the sums are public so that nobody can lean on the sums. It assumes every hand might be wrong and builds a right answer out of them anyway.*
+
+*It's Vell's ledger, done by five people instead of one. I'd have built it the same way. I don't think I've ever said that about anything the registry owns.*
+
+Brom won his first bout in two exchanges and his second in three. He won his third, after noon, in four, against a big patient Iron Skin from a guild yard who knew what he was doing and made Brom work for every board. Each time, Brom walked to the rope afterward and sat down on the bench and unwound his strapping, and said nothing, and each time Cael watched the five slates go face down and the clerk's chalk come up at the same unhurried interval. Nineteen. Twenty-one. Eighteen.
+
+"Eighteen," said Lira, reading the last one, outraged on Brom's behalf. "For four exchanges against that?"
+
+"Effect," said Cael. "He made the man work. He didn't make him do anything. Look at the man's own figure." It was nineteen. "The panel thought they were close."
+
+"They weren't close."
+
+"They were close on the floor." Cael closed the notebook. "Brom won the bout in his head in the second exchange. The panel can't rate what happens in somebody's head."
+
+Lira looked at him sideways, and he heard what he had said, and they both let it go.
+
+Brom had the Copper bracket by the end of the afternoon. Three bouts, three wins, and nothing in any of them that the gallery would remember. He seemed perfectly content with that.
+
+---
+
+That evening Gault took the annotated manual out of the case and laid it on the table in the guest house's long front room, between Cael and Karis, and went away to work on his letter to the frame-maker.
+
+The guest house was the mill guild's, kept for masters visiting from other towns. It was stone below and timber above, with a long room on the ground floor that had one stove at the far end and a table that could have seated twenty. The others had gone up early. Lira's bracket was in the morning, and Rooke had sent her to bed with a look. So it was the two of them at the long table, with a lamp each, and the book open between them at its first page.
+
+They read it in opposite directions, though nobody had agreed to. It had simply happened, the way such things happened with Karis. Cael began at the front and Karis began at the back, at the index and the schedules of reference bouts, and they read toward each other.
+
+The first part was the architecture, and it was clear.
+
+Every scored performance was judged on three things. The manual gave each its own short chapter, and Cael read them twice. *Execution* was what the fighter did: its difficulty and its cleanness, the technical fact of it, considered without regard to whether it worked. *Control* was how much room the fighter kept between himself and what he did: whether he was the master of his movement or only its passenger, whether anything was spent that had not needed spending, whether anything happened that he had not meant to happen. *Effect* was what the performance accomplished against the opponent actually in front of it, and against no other.
+
+Five judges marked each of the three. Each judge was trained to one picture of par and tested against it on old bouts before every cycle, and struck from the lists if he drifted. The picture was a practitioner at Silver tier, fifth rank, on an ordinary good day. That fighter's performance was ten on each mark. That was the reference profile, the Silver Standard, sealed at the start of the cycle and opened by nobody until it closed.
+
+There were two pages of it on the striking of extremes, and a page on rounding. There were a dozen pages of reference bouts, described exchange by exchange, with the marks a calibrated panel had given each one, so that a judge could see what a nine looked like and what a twelve looked like and what the difference was.
+
+Karis put her pencil down a little after the ninth bell. She had come in from the back as far as the reference bouts and stopped there. "Two hours," she said. "I've spent two hours looking for the crack in it, and I can't find one."
+
+"How have you been trying?"
+
+"By buying one mark with another." She turned the book a little toward him. "Say you're far stronger than the man in front of you. You flatten him. Your execution's high, because what you did was hard and clean. Your effect's high, because he's flat on the boards. But you used three times the force the job needed, and you wasted it, and the control mark catches the waste and drags you down. Now say you're perfect. Every movement exact, nothing spent that didn't need spending. But it doesn't *do* anything. He's still standing. Your execution's high and your control's high and your effect pulls the whole figure down." She sat back. "You can't lean on one leg and make up for it with the others. It's a three-legged stool. You can push one leg up as high as you like and the other two won't follow."
+
+"That's what Rooke said, more or less."
+
+"Rooke said it was honest. I'm saying it's well made. They're not the same thing." She took up her pencil. "Honest things break all the time. This one won't."
+
+Cael said nothing. He had come to a page near the front, about thirty pages in, and he had been looking at it for some time.
+
+"Tomorrow," said Karis, when he had not answered. She closed her half of the book on her pencil. "Lira first. Then whatever this is." She looked at his page, upside down, and then at him. "You've found something."
+
+"Maybe."
+
+"Then tell me tomorrow, when you're sure." She got up and took her lamp. At the door she stopped. "Don't sit up all night with it. You'll want your eyes in the morning, and so will she."
+
+He sat up for another hour. Then he marked the page with a spill from the stove, and closed the book, and went up.
+
+---
+
+Lira's draw put her against the guild champion in the first bout of the morning, because the draw at every meet set the foot of the seeding against its head, and Lira was the foot and he was the head.
+
+He was an Iron Rank Four of the mill guild, a Force Path, broad and quiet, with a miller's floury forearms. This was his third season at the head of the lower Iron here, the last two with its title, and according to Rooke's sheet he trained on this floor every day but the First-day. He knew every board in it. He knew which ones rang and which ones were dead, where the bars of light from the loading doors fell at each bell, how far it was from the tool racks to the north rope in steps. The hall was full for him. The mill workers had come up the hill in their aprons on their way to the morning shift, and they stood along the south rope three deep, and when he walked to his chalk they made a low pleased sound like a crowd greeting a horse it has backed before.
+
+Lira walked to her chalk on the west side and did not look at the crowd. She did not look at the north-west corner, either, where the one pillar stood too close to the floor, though Cael knew she had looked at it on the afternoon they arrived and had not looked at it since.
+
+"Exchange."
+
+The guild champion did what a Force Path did on a floor he owned. He took the middle and made it heavy. A Force fighter's Path was a push, a gathered weight he could put into the air or the floor or a man, and this one put it into the floor around him in short flat thrusts, so that every step Lira took toward him came down on boards that were already moving. She came at him twice from the east and twice from the south. Each time the boards under her landing foot were not quite where her foot expected them. It was not much. It was enough. On the fourth approach her landing slipped by a hand's breadth, and before she had found her feet his palm was flat on her shoulder.
+
+"Touch. Guild."
+
+The mill workers roared.
+
+Lira went back to her chalk breathing evenly and looked at the floor in front of her with interest. It had told her something.
+
+"He's not hitting her," said Brom, at Cael's shoulder. "He's hitting the floor where she's going to be."
+
+"Yes."
+
+"Fiske did that."
+
+"Fiske put it in front of the next step," said Cael. "He puts it all round himself. It's a moat."
+
+In the second exchange Lira stopped landing near him. She burst past him at a distance instead, wide, along the edges of the floor where his flat thrusts did not reach, and made him turn to follow her. A Force fighter turning on a floor he has made heavy around himself must turn through his own moat. On the third wide pass he turned a fraction late, and she came in off the far edge of the burst in a short straight line and laid her hand on his ribs.
+
+"Touch. Halcenvane."
+
+The third exchange was long and level and honest. He had seen the wide passes now and he stopped turning to them. He let her go round him and simply kept himself square to the middle, waiting for her to come in. She would not come in. She went round, and he stayed square, and the glass ran out on the two of them watching each other across his moat with nobody touched.
+
+"Even."
+
+Cael watched Lira walk back to her chalk, and saw her eyes go, very briefly, to the north-west corner.
+
+The fourth exchange opened the same way. She went round, wide, along the south rope, the east end, the north rope. He stayed square. She came along the north side toward the pillar, and he turned with her as she came, because there was nowhere for her to go up there but past him, and the pillar was in the way.
+
+Lira went into the corner.
+
+It was a strange thing to do. Nobody went into that corner. The pillar stood a stride in from the north rope and a stride in from the west, so that the corner behind it was a little pocket of floor that no fighter would choose, because there was no way out of it except back the way you had come. Every man who had ever trained on this floor knew that. A fighter in that corner was a fighter who had made a mistake. The guild champion knew it in his body, from six days a week of it, and he stopped turning. He waited for her to come back out the way she had gone in.
+
+She came out the other way.
+
+She burst from the pocket behind the pillar straight along the line of the west wall, past the pillar's far edge, at an angle no fighter on that floor had ever needed to defend, because no fighter had ever been in that pocket to begin it. It was barely wide enough for her, and Cael saw her shoulder brush the pillar's timber as she went by. And then she was beside the guild champion, on his wrong side, the side he had never once in two seasons had to turn to, and her palm was flat on his back before his feet had begun to move.
+
+"Touch. Halcenvane. Two to one. Bout to Halcenvane."
+
+The mill workers did not roar. They stood along the rope in their aprons with their mouths a little open.
+
+The guild champion turned round slowly and looked at the pillar for a long moment. Then he looked at Lira. He came across the floor to her and held out his hand, and she shook it, and he held on to it with the plain directness of a man who wants to know a thing and is not too proud to ask.
+
+"What did I miss?" he said.
+
+"Your floor has furniture," said Lira. "You've trained round it so long you've stopped seeing it. Nobody uses that corner, so you've never had to guard it."
+
+He looked at the pillar again. "That post's been there every morning of my working life."
+
+"I know," said Lira. "That's why it worked."
+
+She took her hand back and walked off the floor, and Rooke met her at the rope and said nothing at all. But that evening, in the coaching file, under the bout, Cael saw a new line in Rooke's small hard hand: *Pillar corner. Seen the first afternoon; kept two days, unspoken; spent once, at the end, when he'd stopped expecting anything.*
+
+The figure went up on the board at the proper interval: twenty-seven. Silver-touched, at the top of its band.
+
+---
+
+Lira's semifinal was in the early afternoon, and she drew Karis.
+
+There was a kind of silence in the delegation when the steward chalked the names on the board. It was not unhappy. It was more like the silence at a table when two people who love each other begin an argument that both of them have been waiting for.
+
+"Well," said Ephram.
+
+"Well," said Brom.
+
+"Don't you two start," said Lira.
+
+Karis said nothing. She went and sat on the bench at the end of the rope with the grey notebook on her knee, and did not open it. Cael, sitting beside her, saw that her hand was flat on its cover and that she was not looking at the floor, but at Lira, warming up at the far end, and that she was watching Lira's hands.
+
+"You've watched her fight for years," said Cael.
+
+"Every bout she's fought since Greyvane. Most of them twice." Karis did not look round. "I know her better than I know any document in the world."
+
+"Does that help?"
+
+"We're about to find out." She stood up, and put the notebook in his lap. "Hold that. If I win, I'll want to write. If I lose, I'll want to write more."
+
+At the far end of the floor Lira had stopped warming up and was standing with her hands on her hips, looking back at Karis with the same steady attention. She knew Karis's Path as well as anyone alive. She knew that an Ember fighter's fire came at a single point and only on contact, one channel at a time, and that Karis spent it the way she spent everything, rarely and precisely where she meant to. She had watched Karis read rooms and panels and charters for longer than either of them had been on the hill, and she had never once, Cael was fairly sure, been on the far side of that reading herself. She did not look worried. She looked like somebody about to open a letter she had been expecting for a long time.
+
+Rooke called it from the rope before the glass had turned, in the flat voice he used for weather. "A family argument. Three exchanges. Mark it."
+
+He was right about the number.
+
+In the first exchange Karis did nothing at all for the first part of the glass. She stood on her chalk with her hands loose, as she had stood in front of the Shield that morning at the wool town, and let Lira come. Lira came, and burst wide, and landed, and came again, and Karis turned to face each landing and did not move toward any of them. She was counting. Cael knew the look.
+
+Then Karis read Lira perfectly. Cael could see it happen from the bench, because he knew what each of them knew. Lira's burst had a tell. It was a small one, and Cael had seen it so often that he no longer noticed it: before she went, her left hand opened, a short flick of the fingers, as if she were throwing something away. Karis had seen it too. She had seen it in a hundred bouts from a hundred gallery rails, and written it down, and never once mentioned it to Lira. Now, when Lira's left hand flicked, Karis was already turning, and she set her ignition point on the place where Lira would land before Lira had left the ground. Lira landed into heat. It was only a flash, a contact's worth, a single point of warmth on the floor that made her landing foot jump. But it was enough for Karis to step in and touch her shoulder while the landing beat held her.
+
+"Touch. Halcenvane." The steward hesitated. "The—the Ember."
+
+The crowd laughed. Lira did not. She stood on her chalk and looked at Karis with an expression Cael had never seen her turn on a friend. It was not anger. It was pure, delighted attention.
+
+"How?" she said across the floor.
+
+"I'll tell you after," said Karis.
+
+In the second exchange Lira did not burst at all for the first half of the glass. She walked. She came at Karis at a walk and a run and a walk again, as Ephram did, never committing, and her left hand stayed shut. Karis waited for the hand, and it did not open. And then Lira went, from a walk, with her fingers still closed, and the burst took her past Karis on the left before Karis's eyes had found anything to read. She came back on Karis from behind.
+
+"Touch. Halcenvane. The Wind."
+
+"She's found it," said Brom, beside Cael.
+
+"She's found that something was found." Cael watched Karis go back to her chalk with her face very calm. "She doesn't know what yet."
+
+"Does she need to?"
+
+"No. She can just take everything away until it stops working."
+
+Rooke, at the rope, had his arms folded and his chin down. "Two people who've eaten at the same table for years," he said, to no one, "and neither of them can surprise the other except on purpose." He did not seem displeased by this. He seemed, if anything, to be enjoying himself, which in Rooke showed only as a slight easing at the corners of the eyes.
+
+But Lira did better than that. In the third exchange, Cael watched her work it out. He saw her stand on her chalk while the glass turned and look at Karis, and then look down at her own hands, and then back at Karis's eyes, which were on her hands. He saw her understand.
+
+She went on the walk again. Halfway through the glass, she opened her left hand. She flicked her fingers, wide and clear, exactly as she always did before she went.
+
+And she did not go.
+
+Karis was already turning. She had turned to that flick a hundred times in her head and once already that afternoon, and her body went before her mind could stop it, and her ignition point bloomed warm on an empty stretch of floor where Lira was not going to land. Lira stood where she was and watched it. Then she stepped in, unhurried, while Karis was still finishing the turn, and laid her palm flat on Karis's ribs.
+
+"Touch. Halcenvane. Two to one. Bout to the Wind."
+
+Karis stood still for a moment with Lira's hand on her ribs. Then she began, quite helplessly, to laugh.
+
+"My hand," said Lira. She was laughing too, a little out of breath. "You've been watching my *hand*."
+
+"Since Greyvane."
+
+"You never told me."
+
+"Why would I tell you?" Karis took her notebook back from Cael's lap as she came off the floor and opened it before she had sat down. "It was the best thing I had on you. Now I haven't got it." She began to write, fast, in her square hand. "So I'll have to find something else. It'll take me a while. It'll be worse for you when I do."
+
+"That sounds like a threat."
+
+"It's a forecast." Karis did not look up. "You've just shown me that you'll throw away a tell to win an exchange, which I didn't know, and you've shown me how long it takes you to find somebody's eyes, which I've never been able to time before. Two exchanges. That's useful." She turned a page. "I lost a bout and gained two lines. It's a good rate."
+
+Lira sat down beside her on the bench, close, and leaned her shoulder against Karis's while Karis wrote. Karis did not seem to notice. But Cael saw that her pencil slowed, a little, for the length of a line.
+
+The figures went up: Lira, twenty-five; Karis, twenty-two.
+
+Cael looked at them for a long time, and found that what he felt was not about the figures at all.
+
+Later, when Karis had gone to wash, Lira came and sat on the bench beside him and looked at the floor where the next pair were chalking up.
+
+"She watches my hands," she said. "What do you watch?"
+
+"Your hip."
+
+Lira considered this. "Don't tell me any more," she said. "I'd only fix it, and then you'd have to find something else, and you'd find it, and I'd have to fix that." She stood up again. "It's like living with a family of clerks."
+
+He watched her go, and found that he was still thinking about the bout. Two people he loved had stood across a floor from each other and taken each other apart with everything they had, and then sat down on the same bench and been glad of it. Neither of them had held anything back. Neither of them had needed to.
+
+He wondered, for a moment, what that was like.
+
+---
+
+"Go and watch Ephram," said Lira, an hour later, when the lower Iron final had been chalked on the board with her name at the top of it and a valley Stone's at the bottom. "I'll win this one without you. He won't say so, but he'd like somebody from the house at his rope."
+
+So Cael went through the arch into the second room, where the upper Iron had fought its draw all day, and found the rope there already crowded.
+
+The second room was smaller than the hall and lower, with a plain board floor and a row of high windows along its south wall that let the afternoon in at a slant. It had been the guild's dressing shop once, where the millstones were brought to have their faces cut. There were still grooves worn in the floor near the door where the stones had been rolled in on edge, and the panel's trestle stood across the old doorway into the yard, so that the five judges sat with their backs to a cold draught and did not seem to mind it.
+
+Ephram's opponent was the river academy's patient Blade, the same one.
+
+Cael had not known that until he reached the rope, and when he saw the man walk to his chalk he understood at once why Ephram had been so quiet at the midday meal. This was the Blade who had put Karis out of the wool town's draw in the third round and then beaten Ephram in the semifinal on the panel's figures, after four level exchanges in which neither of them had touched the other. He was an Iron Rank Five, a little older than Ephram, lean, and very still. He fought like some men played draughts, waiting for the other player to make the move that lost.
+
+At the wool town he had beaten Ephram by waiting for the heel.
+
+Cael had watched that bout from the far rope with a sinking feeling he had not mentioned to anybody. The Blade had studied Ephram's second-year entry from the gallery for a day before they met, the way the girl in green had studied it, and he had found the same answer Cael had found on the second training floor at home. He did not move for the front weight. He waited for the back heel to come up, and moved then, outside, and so the entry never landed. Ephram had thrown it at him again and again for four exchanges. Each time it had found nothing. Neither of them had scored, and the panel, rating what it saw, had given the Blade the better figure for control, because a man who is never caught looks like a man in command.
+
+Ephram had come off the floor that evening looking thoughtful, Rooke's word for it, and Cael had seen him a little later sitting alone on the inn's back step with his elbows on his knees, staring at the cobbles. He had not said what he was thinking, and he had not asked anybody for help.
+
+Now he walked to his chalk with his shoulders loose and his lath held low, and Cael, at the rope, saw that he had decided something.
+
+"Exchange."
+
+The Blade waited. Ephram came at him at a walk, and then a run, and then a walk, at every angle, as he had come at Cael in the mock bout on the second floor, never committing. The Blade turned to face each angle and waited for the heel. Halfway through the glass Ephram threw the second-year entry, front foot honest, shoulders still, and the Blade waited for the heel, saw it come up, and moved outside it as he had at the wool town.
+
+But Ephram had not finished.
+
+He let the back weight go where the Blade expected it, and while the Blade was stepping outside the line it had promised him, Ephram put a third thing into the entry that had not been there before. It was small: a half-turn of the front foot on its ball, late, after the heel had already spoken. It turned the whole entry by a hand's breadth. The Blade's careful sidestep, which had been exactly right a moment before, now carried him straight across the lath's new line, and the lath laid itself along his ribs.
+
+"Touch. Halcenvane."
+
+The Blade went back to his chalk without any change in his face at all. But Cael saw him look down, for a moment, at Ephram's front foot.
+
+"He's learned to wait," said a voice at Cael's elbow. It was Rooke, who had come through the arch without anybody noticing. "So the boy's taught the entry to wait as well. One more beat, after the beat he's waiting for." He watched the floor. "I didn't show him that. I'd like to know who did."
+
+Cael said nothing. In the mock bout he had beaten Ephram by giving up waiting altogether, by going early on the first share of everything, and Ephram had called it a good verdict and gone away to think about it. He had turned it over, it seemed, and found its other side. If a man who waited could be beaten by someone who stopped waiting, then a man who waited could also be beaten by someone who waited one beat longer than he did.
+
+The second exchange belonged to the Blade, and it was a lesson in how good he was. He had seen the late turn once, and he would not be caught by it twice. He stopped stepping outside at all. He stood his ground and let the entry come, and when the front foot made its late half-turn he was already turning with it, and his own lath came up under Ephram's arm and touched his flank.
+
+"Touch. River."
+
+Ephram nodded to himself and went back to his chalk. The Blade had confirmed something for him.
+
+The third exchange ran the whole glass with nobody touched. They had each shown the other everything, and now each was waiting for the other to make the move that lost, and neither did. Cael watched the five judges behind their little boards and wondered what they were writing. Both men were clean, and both were in command. Neither had done anything to the other in three minutes. He thought the figures would be close, and that the Blade's control would edge it again if it came to the figures, as it had at the wool town.
+
+It did not come to the figures.
+
+In the fourth exchange Ephram threw the second-year entry three times, and each time he threw it differently. The first time he did not turn the front foot at all, and the Blade, who was waiting to turn with it, turned with nothing and had to recover. The second time he turned it early instead of late, before the heel. The third time he threw the plain entry, everything at once, no second weight, the one he had mixed in on the very first morning on the second floor at home to keep Cael honest. And the Blade, who had spent three exchanges and a whole bout at the wool town learning to read a two-weight entry with great patience, read the one-weight entry as a two-weight entry for a quarter of a beat too long.
+
+The lath touched his chest.
+
+"Touch. Halcenvane. Two to one. Bout and upper Iron to Halcenvane."
+
+The second room's crowd was smaller than the hall's and less noisy, but it was made of people who knew what they had seen, and they clapped in a way that went on.
+
+The Blade stood on his chalk for a moment. Then he came across and shook Ephram's hand, and said something short to him that Cael could not hear, and Ephram nodded, and the Blade walked off the floor still looking down at Ephram's feet.
+
+Afterward the steward brought out the certificate. It was a stiff card with the meet's seal on it, printed with the year's date and the words *Iron, upper draw*, and a space where the steward wrote Ephram's name in his best hand and blotted it. He handed it over at the rope. Ephram held it in both hands and looked at it, turning it a little toward the window, as if he were not quite sure which way up it went. He did not say anything for a while.
+
+"Your first," said Cael.
+
+"My first." Ephram looked up. "You stopped waiting, on the second floor at home. I thought about it for three weeks. Then I thought, if he can stop waiting, I can wait longer." He held up the card. "Half of this is yours."
+
+"It isn't."
+
+"It's a figure of speech." Ephram put the certificate inside his coat, carefully, flat against his chest. "I'm not giving you half of it. I'm telling you that you're owed. It's different." He looked toward the arch, where the noise from the main hall told them that Lira's final had begun. "I think I'd like to do that again. Win something." He seemed to listen to the sentence after he had said it, and to find it strange, and then to decide he liked it. "I think I'd like to get used to it."
+
+The figure went up at the interval: twenty-six.
+
+That night Ephram bought the whole table's supper. He did it with great ceremony, ordering for everybody without asking what they wanted and getting it almost entirely right, and when the bill came he read it aloud, item by item, and paid it to the last copper with a face of perfect seriousness. Lira, who had won her own final by then in two exchanges against the valley Stone, tried to pay for the wine. He would not let her. Brom ate two suppers, one of them his own. And Karis, at the end of the table with her notebook, wrote down the date and *Ephram, first regional*, and then, after a moment's thought, *bought supper; read the bill aloud; got the soup wrong for Rooke*, because the record should be complete.

@@ -1,0 +1,247 @@
+# Chapter 13 — In-Band
+
+That night the frost came down off the tops for the first time, hard and white, and the guild's guest house turned out to own a single stove that was any use against it.
+
+Cael came down late from his room, where he had been writing with a blanket round his shoulders and his breath showing, and found that the long front room had rearranged itself while he was upstairs. Nobody had planned it. The great table had been hauled down the room toward the stove, scraping, by somebody strong, and the benches had followed it, and the whole delegation had come in round the heat the way cattle come in round a hayrick.
+
+Karis sat at the table's end nearest the stove with the grey notebook and a candle she had rationed to herself, writing. Brom was asleep in the room's one good chair, a high-backed wooden thing by the stove's left side, sitting perfectly upright with his hands folded on his stomach and his chin on his chest. He slept as he did everything, completely. Lira sat on the hearth's stone edge with one boot in her lap and a tin of oil beside her, working the oil into the leather with her thumbs against the frost. Gault had a chair to himself on the far side with a lap desk on his knees and a pen, and was frowning at a sheet of good paper. It was, Cael knew, the fourth draft of his letter to the frame-maker.
+
+And Ephram, regional champion of a day and a half's standing, sat across the table from Karis with Rooke's coaching notes on the bout spread in front of him, copying them out into a book of his own in his careful hand. Rooke had told him that afternoon that champions kept their own files. Ephram had gone straight out and bought the book.
+
+His place was the end of the bench by the wall. Nobody had ever said so. It had simply become his, in every room like this one, because he liked a wall behind him and a window where he could see it. He put his left leg up on a stool, because the calf still complained when it hung. Lira, without stopping her thumbs, nudged the oil tin along the hearth with her knee to make room for his foot.
+
+He sat and let the stove's heat come into him.
+
+Lira addressed the remark to her boot. "Anyone else notice we're rich?"
+
+Brom did not open his eyes. "Rich how?"
+
+"Rich." She turned the boot and started on the heel. "We used to be four people round one table with a clause and a lot of opinions. Now look. Our house is going to top these standings tomorrow; I've seen the board. The regional champion of the upper Iron is sitting at our table doing his homework." Ephram kept writing, but his ears went red. "And the strangest of us has his name chalked up on boards in towns he's never been to, before his wagon's even stopped." She held the boot up to the candle and looked along it. "I keep waiting for the bill. I've been waiting for it all week. That's Fenmark, that is. Fenmark taught me that anything good comes with a bill behind it." She put the boot down. "Karis says if I can catch myself at it, I'm halfway out of it."
+
+"You are," said Karis, writing. "And it'll come. Things like that always send one." She turned a page. "The difference between now and Fenmark is solvency."
+
+Cael wrote it in the Log.
+
+Across the candle, Karis watched him write it and went on with her own page, and he understood that he had been given permission. In Karis's ledger that was not a small entry. He did not write that one down, except in his head.
+
+On the far side of the stove Gault laid down his pen with the air of a man surrendering a fortress.
+
+"Would somebody," he said, "tell me whether *profoundly* is too much."
+
+Everybody looked at him.
+
+"The letter." He held up the sheet. "To the frame-maker. It's the fourth draft. The first three were too short, and then too long, and then the third one had a sentence about the dignity of craft that I'm not proud of." He put on his spectacles and read aloud, stiffly. "*Sir. I write to thank you, profoundly, for the handle.*" He took the spectacles off again. "Well?"
+
+"It's very formal," said Ephram, after a pause in which it became clear that nobody else was going to answer. "I'd keep it. He'll like being written to formally. People who make things usually do."
+
+"Too much," said Karis, without looking up. "Take out *profoundly*. Leave *thank you*. A craftsman can tell when he's being thanked properly. He doesn't need it underlined."
+
+Brom opened one eye in the good chair. "Tell him it's a good handle," he said, and closed it again.
+
+Lira had stopped working on her boot. "Tell him you carry it everywhere," she said. "To every meet, all the way here and all the way back. Tell him people stop you in halls to look at it. That's what a man who makes things wants to hear. Not that you're grateful. That it's being used."
+
+Gault looked at her for a long moment. Then he put the spectacles back on, crossed out the line he had read, and began to write again, slowly, with his lips moving very slightly. Nobody watched him do it, which seemed the right courtesy. When he had finished he read it over once to himself and folded it, and his face had the look of a man who has finally put down something heavy in the right place.
+
+Nobody said anything else for a while. The stove ticked. Brom breathed. Somewhere upstairs one of the reserves was snoring, steadily, like a saw. Outside, the mill race ran on under the frost with the same low thunder it had made since they arrived, and would make, Cael supposed, long after they had gone.
+
+He looked round the room at them in the light of one candle and a stove. If anyone had ever asked him what a family was, he thought, he would have pointed at the oil tin.
+
+---
+
+The meet record was posted on the hall board at the first bell of the last morning, and Seln was in front of it at the first bell and a quarter, with the travel file under his arm and a pencil.
+
+Copying it was his work. It was there on the roster against his name: *records and floor scheduling.* The delegation's travel file needed the meet's figures in it before the wagons left, and the clerks of the mill guild, who were slow, would not have the certified copies ready until noon. So Seln stood in the cold hall before the board, in the grey light from the loading doors, and copied the figures out by hand in a column on a fresh sheet, as he copied everything, neatly and without any appearance of interest.
+
+He copied the brackets first, then the house totals. Then, last, the leaf at the bottom of the board that was headed in the clerk's square chalk *Exhibition, figure only*, where there was a single name four times, and four figures beside it.
+
+Twenty-four. Twenty-two. Twenty-one. Twenty-three.
+
+He copied the unrounded composites beside them as well. The mill guild's clerk chalked them to two places, as the wool town's printed record had. Twenty-four and a third. Twenty-one and two-thirds. Twenty-one and a third. Twenty-three exactly.
+
+Then he took out of the travel file the copy of the wool town's record that the courier had brought to the waystation, and laid the two sheets side by side on the flat of the file, and looked at them.
+
+Twenty-three and a third. Twenty-two and a third.
+
+Six figures. Two towns. Two panels, ten judges, none of whom had ever sat with any of the others. Six opponents: a quarry ganger at the sixth rank of Iron, a Bronze at the third rank, two academy Irons from the middle of the draw, a retired Iron at the ninth rank, a Bronze at the fifth. Four levels of opposition, by the office's way of counting. Six different styles. Two kinds of floor, one soft and one hard, and two kinds of crowd.
+
+And the highest of the six was twenty-four and a third, and the lowest was twenty-one and a third.
+
+Three points. Top to bottom, across all of it, three points.
+
+Seln did not move. He let his eyes go up the board to the bracket leaves, where the hall's other fighters were. He knew most of their figures from the wool town already; he had copied those too. The river academy's patient Blade had rated eighteen at one meet and twenty-seven at the other. The guild champion, whose figures Seln had found in an old meet record in the guild's own hall the night before, ran from fifteen to twenty-seven across his last two seasons. Brom of Halcenvane, in the space of a single morning at the wool town, had rated fifteen and twenty-three. Even Lira, who was the steadiest fighter Seln had ever watched, ranged across five points over the two meets.
+
+That was what fighters looked like on paper: they wobbled. They had bad mornings and good ones. They over-reached at home and under-reached in the cold, and they met styles that suited them and styles that did not. Across a season their figures spread like shot from a fowling-piece, ten points, twelve. That was not a fault in the instrument; it was the instrument working. Five honest hands, struck at the extremes, reading five honest days.
+
+Six figures inside three points was not what a fighter looked like. It was what a fighter looked like when somebody was setting him.
+
+Seln considered that, without hurry.
+
+He did not know how the boy did it, and he did not try to imagine. That was not the office's business, and he had made it a long rule never to wonder past what the record showed him. But the record showed him this. Six times, against six different problems, the boy had come off the floor with the same figure, give or take a breath. A fighter did not do that by being careful. A fighter did that by choosing. Somebody was deciding, bout by bout and box by box, what the Standard would be allowed to see, and was deciding it very well.
+
+That was all he could infer, and it was enough.
+
+The next thing he considered was who else could do this sum.
+
+The meet records were public. They went out by courier to every house that had fought. They were posted on boards in halls that anyone could walk into. And they were copied and sold, at the copying rate, to anybody who cared to pay. At the wool town the credentials clerk had said, in Seln's hearing, that his own niece had paid to read a hearing transcript; there were men on the roads of this region, Seln knew, who paid to read meet records in the same way, and who kept the figures in columns, and who did nothing between meets but look at the columns for something worth selling. Some of them worked for houses. Some of them worked for nobody that would admit it. The Compact kept men who did this kind of sum for a living, and it was not the only employer of such men.
+
+Anybody who lined up these six figures would see what he had seen. It required no training. It required a pencil and a little patience and the habit of being suspicious of anything too tidy.
+
+Seln squared the two sheets together and put them in the travel file and closed it.
+
+Then he went to the document table at the end of the hall, by the arch, where the delegations' papers were stacked for collection, and began to sort Halcenvane's into the order the travel file required. He did it slowly, and it took him some time. At a quarter past the second bell the enrollee came through the arch from the guest house on his way to the second room, limping a little on the left, alone, and stopped at the table to ask whether the certified copies had come.
+
+They had not. Seln said so, to the file.
+
+The enrollee waited. There was nobody else within forty feet of the document table, and Seln had seen to it that there would not be, by being there at the one hour of the morning when the hall was empty and the stewards were at breakfast.
+
+Seln did not look up. "There is a matter of arithmetic," he said. "The office has noted it." "Six exhibition figures this season. Two towns, two panels, six opponents at four levels. From the highest of the six to the lowest is three points." He laid a sheet square on the stack. "Every bracket fighter in this hall runs across ten points in a season, or twelve. Yours spreads three. An honest instrument scatters. When it stops scattering, the cause is not usually the instrument." He laid another sheet on top of the first. "The office draws no conclusion. It notes only that pencils are cheap, and that other people own them."
+
+He closed the file. Then, in the voice of a clerk reading out the small print, he added one sentence more.
+
+"Variance is cheap. Buy some."
+
+He picked up the file and went out through the arch toward the guest house without waiting for an answer, and the enrollee did not give one.
+
+---
+
+The provision's second evaluation took ninety minutes at noon that day, in a panelled room on the hall's upper floor that the mill guild lent out by the hour. A committee on flour weights had the room before them, and a christening lunch after. Nothing in the whole meet was duller, which was the best thing about it.
+
+Cael timed it anyway, out of habit, on Hesk's travel clock, which ran an hour fast in tournament weeks because he set it so.
+
+The committee room had a long table and a portrait of a dead miller over the fireplace, and the panel sat along one side of the table with their backs to the portrait. It was the panel of record Gault had written into his calendar at the end of last term, in his ruled lines: *Gault, with two.* The two were a registry officer from the district seat, a careful dark man who had plainly read the whole file in the coach on the way and had the page numbers ready, and the host region's senior examiner, a stout grey woman who had sat on the meet's own panels all week and who said very little.
+
+Gault sat in the middle with the case open on the table beside him.
+
+The registry officer noticed the handle almost at once. Cael saw his eye go to it while Gault was laying out the seals. He looked at it, and looked at it again, and then, in the pause while Gault found the right page of the minute book, he leaned over and ran one finger along the stitching.
+
+"Saddler's stitch," he said. "Double row. That's very good work."
+
+Gault's face did something complicated and wonderful and was brought, with an effort, back under control.
+
+"The frame-maker sent it," he said. "I'm writing to thank him."
+
+"You should." The officer sat back. "Nobody stitches like that any more."
+
+Gault did not quite manage to look at Cael after that, and Cael did not quite manage not to smile, and the evaluation began.
+
+It was what Gault had promised at the end of last term and every time since: the enrollee measured against himself, and nothing else. *Measured against: baseline (entry), and the note of the twentieth of Reaping.* The basis of the enrollment was read into the minute and found unchanged. The term's supervised floor hours were certified from Rooke's sheets, which Gault had brought in the case, signed. The two meet records were laid on the table as evidence of performance under the provision, and the registry officer read the exhibition leaves with great attention and asked four questions about the documented ceilings, all of them competent, and Cael answered each one in the language of the documents themselves. The burst's distance; the burst's rate on sprung oak and on other floors; the landing beat; the read that looked like timing. All of it was in the record, and all of it was true.
+
+Then Gault took the plate out of the case.
+
+It was the travelling plate, the small twin of the one in the wing at home, a brass-faced disc on a short arm with its dial set into the housing. It had come upriver in a felt bag in the bottom of the case, under the seals. The guild had lent the panel its proving frame, an iron thing the millwrights used to test shafts, with a weight that ran down a rail on a pawl, and the guild's own millwright stood by to work it.
+
+Cael set his feet, and took the plate on his forearm, and braced it from the right shoulder, as he had braced it in the wing every time he had ever been tested.
+
+The pawl let go. The weight came down the rail into the plate, and the shock went up the bones of his forearm and stopped in the right shoulder, all of it, with nothing taken and nothing turned. The dial in the housing swung a little way, and stopped where it had stopped at the baseline, and where it had stopped on the twentieth of Reaping.
+
+"No change," said Gault, and wrote it. "The plate flat, and so entered."
+
+Cael stood with the shoulder aching dully, the plain ache of bone and joint that had taken a blow and done nothing about it. It was a private cost, and nobody at the table knew it was one. The right shoulder would tell him about it on the road for a day, and he would not mention it, and that would be the end of it.
+
+The officer from the district seat initialled the minute. The examiner initialled it. Gault initialled it last, and pressed the seal, and wrote the one word under it that the provision required.
+
+*Renewed.*
+
+"Routine," said Gault to the officer, putting the plate away in its felt bag.
+
+"Routine," the officer agreed, and they shook hands, and the christening party was waiting on the stair outside when the door was opened.
+
+Cael wrote it at the window of the guest house that afternoon, with his shoulder aching and the calf on the stool, while it was fresh.
+
+*Two instruments, one year, both managed.*
+
+*Yesterday I chose a figure for five judges, and they wrote it down in good faith: twenty-four, a careful distance under par. Today three officers measured me against myself on a borrowed plate, and found me exactly as unchanged as I'd decided to be. One instrument reads a performance. The other reads a file. Neither has ever once touched the thing they're measuring.*
+
+*Inventory, while I'm here. Wind: four bursts of five on hard boards against the yard-master, the hip after, the left calf tight from the exchange I held. Pressure: flat at the plate again, right shoulder paying, four blows a sitting the cap and one used today. Compression: held at a sleeve's width from the ganger's hand. Not on any record here. Ember: none spent; nobody here asked for it. Shadow: deployment none. Still.*
+
+*At the end the man from the district seat said "routine," and Gault said "routine" back, and they shook hands on it. Not long ago a file like mine went upstairs at a run. Today it's a word two officers trade over a sealed minute while a christening waits on the stair.*
+
+*It's the largest change of the year, and nobody scores it. The machine has begun to find me ordinary. Used-to is a rating. It just doesn't post.*
+
+---
+
+That evening Rooke reached the same sum by a different road, and gave it to Cael the only way he gave anything, as a note on technique.
+
+He did it at the stove, with the coaching file open on his knee and the meet records clipped into its back, while the others were at supper in the next room. Cael had come back for his coat. Rooke kept his eyes on the file.
+
+"Your exhibition sheet," he said.
+
+Cael stopped.
+
+"Six figures." Rooke turned a page of the file with one finger. "I've had them up beside each other since noon. They keep time like a metronome." He closed the file. "Twenty years of coaching, and I've turned out every kind of fighter there is except that one. A real fighter has bad mornings. He rates high where he's comfortable and low where he isn't, and he goes up and down like everyone else, because he's alive."
+
+He stood up, and put the file under his arm, and went in to supper.
+
+That was all. He said nothing about why the figures were tidy, or what might have made them so, or what a coach might want to know about a fighter whose figures kept time. All of that stayed where Rooke always left such things: on the far side of the table, with Cael. That was Rooke all through. He would mend what was written on a sheet and never once ask what had written it.
+
+So Cael sat by the stove alone, with his coat across his knees, and built the correction himself.
+
+He had the four documents in his head now, side by side. Lira, on the rail at home, with two figures: *I'd keep an eye on them.* Seln at the document table, with six: *Variance is cheap.* Rooke, with the whole sheet: *a metronome.* And the arithmetic itself, which he had done in his own head on the night of the yard-master and not let himself look at. Three people had seen it, by three different roads. Anybody with a pencil could see it.
+
+Where the figures sat was not the trouble. Strong Iron, low in its range, a careful boy with good feet: that was what he had built, and it was holding. What would give him away was how close together they sat. A real Iron who fought six different people in two different towns would wobble. He would have a bad morning against a style that did not suit him. He would over-reach in front of his own house and under-reach on a cold floor. Six bouts, and he had stamped out the same figure every time, like coins from one die. He had been so careful to keep the instrument from seeing too much that he had shown it something else instead, and the something else was the care.
+
+So he would have to stop being so careful, carefully.
+
+He took out the Log and designed it, there by the stove, in a list.
+
+*Engineered scatter. From the next meet.*
+
+*1. Against grapplers and leverage men: a slow first exchange. Let him have the first touch. Win from behind. Two points off.*
+
+*2. When the light's behind me, or the floor's soft, or the crowd's loud: concede a point I could have kept. Not every time. Often enough.*
+
+*3. On a good floor against a style I like: let one exchange show a little more. Three points up, once a meet, no more.*
+
+*4. Rotate them. No two meets alike. No pattern a man with a pencil could find. Cost each one in advance, in the Log, before the bout: what it buys, what it spends.*
+
+He went down the list twice and could not fault it. And he found, sitting there with the list in front of him, that it offended him.
+
+It offended something quite deep. He was sitting by a stove planning his own bad mornings. He was going to stand in front of an honest instrument and lose points on purpose, and lose them in a pattern designed to look like no pattern, so that nobody would ever be able to say he had chosen them. Whatever had winced in him at page thirty-one winced again now, and worse. It was not fear. It was something more like a craftsman being told to file a joint badly, by hand, so that it would look as if it had been done by somebody less careful.
+
+He sat with it, and did not argue with it, and wrote it down.
+
+*Planning to lose points on purpose sits badly with me. It's worse than page thirty-one, and it's the same place that's sore. I'm writing the soreness down as an item, on a line of its own, because whatever it is, something's resting on it, and I'd like to know what before I find out the hard way.*
+
+---
+
+The standings had been read on the hall steps that afternoon: Halcenvane first of five. The hill country's houses ran shallow, and a house that had won the upper Iron, the lower Iron and the Copper at one meet had nobody near it. Rooke had folded the sheet and put it in his coat, and given no review. He had said only, "Wagons at first light," and in the morning they went.
+
+The road home ran east, out of the hills and into the cold of the plain, with frost on the shafts every morning and the horses' breath standing in the air. Cael rode the tailboard, as he always would. The calf had eased, and so had the shoulder. Brom slept against the kit bags with his forearm, gone yellow now at the edges, across his chest.
+
+On the first afternoon Lira came back along the wagon bed and sat down beside him on the tailboard, as Brom had done on the road to the wool town, and hung her legs over the road with his.
+
+"Did you build it?" she said. "The thing for the next meet."
+
+"Last night."
+
+"Is it any good?"
+
+"It's sound." He watched the road unroll behind them, white at its edges with the frost that the sun had not reached. "I'm going to lose two points against a grappler on purpose, and three on a soft floor, and win three back somewhere else when it's safe. I've got it written down by the bout, with what each one costs."
+
+Lira was quiet for a while.
+
+"I said it on the rail," she said. "With two figures."
+
+"You did."
+
+"I'm not saying it to be right." She pulled her coat closer round her. "I'm saying it because I don't like being right about this one. It means the thing you're doing is good enough that you have to start doing it badly on purpose so nobody notices how good it is." She looked at him sideways. "Does that hurt?"
+
+"It already does."
+
+"Good," said Lira, unexpectedly. "I'd worry if it didn't." She leaned her shoulder against his for a moment, the way she had leaned against Karis on the bench at the mill town, and then got up and went forward again to sleep, and left him with the road.
+
+Their second night on the road was at a coaching inn where the hills gave out onto the plain. The wagons stood in the yard under the frost, and the inn had only two rooms and a landing to spare, so the delegation slept where it could. At the inn's counter, while they were taking their keys, the courier who carried the region's meet records came in out of the dark and dropped his bundle on the board. A man in a travelling coat who had been sitting by the fire got up, and bought a copy of each meet's record from the bundle, and paid without asking the price, and went back to his chair and began to read. Cael saw the man's finger stop, about a third of the way down the wool town's leaf, at the place where the exhibitions were. Then the man turned the page.
+
+Cael went up.
+
+He sat late with the Log on his knees by a candle, on the end of the bed, with Brom already asleep across the room, and wrote the entry that the meet had been building toward all week.
+
+He set the season down in figures before he let himself write the sentence. Exhibitions this season: six bouts unbeaten, none lost. Opponents from the sixth rank of Iron to the fifth of Bronze, and a retired Rank Nine on his own floor. The figures inside a band he had chosen, and too tidy, and a program written to fix the tidiness. Lira had not lost a bout, and had two titles to show for it. Neither had Brom, with two of his own. Ephram had his first. Karis had placed twice and come home two lines richer. The house first in the hills and second in the river country. The sentence he had brought onto the road with him tested against a ganger, a vain man, two careful academy Irons, an old master of a floor and a cheerful man with nine questions, and holding every time.
+
+Then the entry.
+
+*Rated again. In-band again. The judges keep writing numbers that mean "strong Iron, ceiling unknown," and the honest entry is: I can beat anyone at my tier. I've tested that sentence for three years and it holds. What I haven't tested is what tier means when the word points at me. Not this season's problem.*
+
+There was nothing in it he could find to be untrue. He shut the Log.
+
+Across the room Brom turned over in his sleep and settled. Below in the yard the lantern burned over the two wagons, whose road and hour anyone could buy for a copper, and beyond them the frost lay white on the fields all the way to the dark line of the hills. It was a country that had been measuring everything in it for as long as anyone had kept records, carefully and fairly and well. Six times this season it had pointed its finest instrument at him. Six times it had written down the number he had picked for it, and filed it, and gone on.
