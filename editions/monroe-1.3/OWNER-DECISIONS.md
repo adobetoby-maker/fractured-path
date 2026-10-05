@@ -77,3 +77,22 @@ The Book 5 plan was reconciled to the closed edition Book 4 (`book-05-the-silver
 - **O5 Brom's line.** "Summer's problem." becomes "The recess's problem."
 - **O6 Bracken's tenure.** Book 5 says twelve years, or nothing. Book 6 ch1's "thirty years" is flagged for the Book 6 planner.
 - **O7 The source's market-day third watcher.** It is allowed only as the recess's one dated change, in a single log line.
+
+## #38 — Book 5's rating scale (coordinator default, 2026-10-05; B5 M1 review)
+As drafted, each judge's marks ran "out of ten" with ten as par. That made thirty the ceiling: "Above thirty: Gold" could never be reached, and par sat at the top of Silver. **Default in force:**
+- **Marks.** Each judge gives execution, control and effect a mark on a scale that runs PAST ten, to fifteen. Ten is par: an ordinary good day for Silver, fifth rank. Five judges mark; the high and low totals are struck and the middle three averaged. A rating can therefore run to forty-five, and par is thirty.
+- **Bands.**
+
+  | Rating | Band |
+  |---|---|
+  | 12–17 | Copper |
+  | 18–21 | Iron |
+  | 22–27 | Strong Iron to Silver-touched |
+  | 28–34 | Silver, with par at thirty in its heart |
+  | 35 and above | Gold |
+
+- **Bronze.** Rooke places Bronze across the top of the 22–27 band. The tournament does not bracket it; there are four brackets (Copper, Iron, Silver, Gold).
+- **Worked figures.** Every worked figure already on the page in ch5–6 stands, since all of them sit below par.
+- **Movement 2.** The coordinator re-scales MOVEMENT-002's Seln figures to this scale.
+
+The owner may choose a different scale. Whatever scale is chosen must let Gold be reached and must give Bronze a place.
