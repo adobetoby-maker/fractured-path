@@ -25,6 +25,6 @@ Both full books should still be uploaded as long-form projects so the editor ret
 
 | Book | Project ID | Displayed estimate | Actual credits | Audio hash | Status |
 |---|---|---:|---:|---|---|
-| Meridian | 7h2jv4fE2x3jr3XuJexi | generated account use 1,668,862 | 1,668,862 | pending | project present; download/export pending |
+| Meridian | 7h2jv4fE2x3jr3XuJexi | generated account use 1,668,862 | 1,668,862 | pending | 48 chapters/all paragraphs generated; full-project MP3 export preparing |
 | The Shattered | pending | pending | pending | pending | upload blocked by Chrome extension file-access permission |
 | No Path Given | pending | pending | pending | pending | upload blocked by Chrome extension file-access permission |
