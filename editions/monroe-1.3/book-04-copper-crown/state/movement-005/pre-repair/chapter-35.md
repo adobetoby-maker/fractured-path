@@ -1,0 +1,257 @@
+# Chapter 35 — Manageable
+
+"Bracken's clerk came and banged on my door at the third hour," said Karis, before she had quite reached him, "in his nightcap, which I shall never be able to stop seeing. That file is half mine. I built every sheet in it. So I've been in the records hall for most of an hour with my coat over my nightgown and my bare feet in my shoes, and I'd be grateful if you walked me home, because I can no longer feel them."
+
+She took his arm without waiting for an answer. Why he was standing in the covered walk at that hour of the night, in Brom's coat, with his notebook open against a wall, she did not ask, not that night and not in all the years after. He saw her choose not to, and laid it by, for thanking in some year when thanking would be safe.
+
+"His name is Jessup," she said. "He reads papers for money. There's a whole little trade of them in Ostrand, half a dozen men in rooms above the fish market, and the strange part is that most of what they do is perfectly lawful. They don't steal. They get themselves into places where papers are kept, and read, and go home, and write out what they read for whoever's paying." She pulled the coat tighter at her throat. "He had a little book in his bag, half full, in a beautiful hand. He'd come back tonight for the rest."
+
+"The rest of what?"
+
+"Not of you." She said it carefully. "Not your floor hours, or Gault's baseline, or anything about what you can do. He'd copied the enrollment basis. The clause itself, and every citation under it, and the whole of Bracken's verification, letter by letter and seal by seal, the way the thing was built up from the founding schedule. Somebody didn't want to look at you, Cael. Somebody wanted the plans of the door you came in by."
+
+They walked ten paces with that between them.
+
+"Who?"
+
+"He doesn't know, and for what it's worth I believe him. The job came on paper, unsigned, paid in advance, through a letter box by the river that some factor had taken for a single month and then given up. No name anywhere. He says he never has a name, and never wants one, and that's what people pay him for." She glanced sideways at him. "One more thing. Better from me now than from your own head over the porridge. The wing got two lines into the incident book before counsel carried it off. I read them over Bracken's elbow."
+
+"The wing."
+
+"The wing," said Karis, without any expression at all. "Two lines."
+
+*Pattern is consistent with private interest. Not Compact pattern.*
+
+*Client unidentified; no further inference available on present material.*
+
+Cael stopped walking.
+
+"That's a good note," he said.
+
+"It's the best note I've seen since we came up the bridge." Karis had stopped too, under the walk's one lamp, with her breath going up white. "He could have handed them a page of guesses about who and why. He'd have looked very clever. He gave them two lines of what he could prove and then put the pen down. I've spent my whole life wishing people would write like that."
+
+After that neither of them spoke. At the stair foot, under the lamp, she turned with her hand still on the rail. It was the first real look she had given him all night, and it pulled her mouth into a line.
+
+"It happened," she said.
+
+"Yes."
+
+"Tonight."
+
+"Half an hour ago. A little more."
+
+Karis shut her eyes for a moment, and when she opened them she had the look she wore before reading a clause aloud to a room that would rather not hear it.
+
+"Then tomorrow you don't train. The day after, you don't train. On the third day I take every number off you I can think of, and you answer me straight even when straight makes you look a fool." She let go of the rail. "And that's the whole of it. Three sentences, start to finish. A year it's taken us to make it that short, and I'm very proud of it."
+
+"Karis—"
+
+"Rule two," she said. "Within the hour. Go and tell them. I'm going to put my feet in hot water and think about nothing whatever until the second bell."
+
+Lira's door opened before he reached it, and she stood in it with a shawl round her shoulders and the low lamp behind her.
+
+"Your hand went up," she said. "But not the way it went up the other two nights."
+
+He had not known it had looked any different. He believed her.
+
+"It happened," he said. "It said Bronze. It's never said anything in that place before."
+
+Lira looked at his face, and at his hands, which had not stopped shaking, and at Brom's coat. Then she reached out very quickly and put two fingers on the coat's sleeve at his wrist, and took them away again, as if making sure he was there.
+
+"Go and wake Brom," she said. "If you leave it till breakfast he'll never forgive you. He's been sleeping with his latch up since the first night. And then go to bed. Under the blankets, not on the floor."
+
+Brom woke the moment the door opened, the way a soldier wakes, and lay on his back in the dark looking at the shape in the doorway.
+
+"Well?"
+
+"It happened. On the stair. Bronze."
+
+There was a long silence from the bed, and then Brom said, "Was he all right?"
+
+It was not the question Cael had been ready for. He found, standing there, that he had only the true answer.
+
+"He never looked down the stairs. Not once, the whole time."
+
+"Then he was all right," said Brom, and turned over. "Bring my coat back in the morning. Check the pockets."
+
+---
+
+The window was still black when he sat down at it with the Log. He left the shutter half open so that he could hear the river, and he let his hand do what it liked on the page, which was shake, worse than he had ever seen it. He decided not to mind, since a hand that shook was a reading too.
+
+*Sixth fragment. Bronze — the notice finally said a tier out loud, like the architecture decided I'd earned a number. Acquired from a man who doesn't know, in defense of a file with my name on it, during an operation he let me watch. I drew the line in advance and I stayed on my side of it. It cost anyway. Write that down too.*
+
+It was true, and it was not enough. So he set the cost out under it piece by piece, the way he would have set out somebody else's, so that in a year he could not quietly make it smaller.
+
+*The price, in order. Three seconds, maybe four, of the very thing I'd sat three nights in the cold to see, gone while it happened above me. That's the dearest thing I spend, and I spent it without being asked. Then the pain behind the eyes, at once and heavy. Then two dead tries in four minutes, and a fire-watch man asking if I was all right. Last, in no column yet, what I owe the one man on this bluff who has never once sent me a bill.*
+
+*The five before, somebody's hands were on me: Lira, Feryn, Brom, Reydan, Karis. This time nobody came within a yard, and I've never been told so much. Three new things on one page: a tier, two parts named apart, and a line about what kind of engagement it was. That last line agreed with something I argued aloud three weeks ago and half expected to lose. I'll be honest. I don't like being agreed with by something I can't put a question to.*
+
+*A system that confirms you is a system that was listening.*
+
+*I don't know what that means. Filed.*
+
+He sat with the pen lifted after that for a long time, and wrote nothing more, and the window went slowly from black to the colour of slate.
+
+At the fourth bell the deferral went into the wing in his own hand, on the wing's own form: *training deferral requested, eight days, on grounds of accumulated fatigue.* It was true: seven hours' sleep in four nights, and anybody could have signed for it from his face. The desk clerk read it, and looked at him over the top of it with real kindness, and told him he looked dreadful and should go to bed. Then she initialled it, and stamped it, and dropped it in Gault's tray. By noon it was back on the residence board with Gault's initial and the purple ring of the stamp, approved without a word, as the wing approved four such forms a week. It was the only mark the whole business would ever leave in any office on the bluff, and it said, correctly, that a boy was tired.
+
+The copying table was empty that morning. The desk clerk mentioned, to the room at large, that the assistant had been up all night over a bother in the records hall and had been sent to sleep it off. Cael pinned his copy of the form into the back of the Log and did not look at the chair.
+
+He kept the covenant, and did not train on the first day or the second. He sat in lectures and wrote notes he could not afterward read, and ate whatever Brom put in front of him, and slept in the afternoons with his boots on. On the second afternoon the Ash instructor stopped him in the covered walk. She was carrying her book, as she always carried it, against her chest like a shield, and she looked at him over the top of it from her small stooped height with her head on one side.
+
+"Deferral," she said. "Eight days. It came through my tray as well; I sign for your floor." She considered him. "Fatigue."
+
+"Yes."
+
+"Good." She shifted the book. "In thirty years I've signed off a great many people who should have asked for eight days and didn't, because they thought asking was the same as being weak. Most of them I signed off for a good deal longer than eight days, afterward, with a splint." She nodded at him, once, briskly, as if he had answered a question correctly in a lecture. "Sleep. Eat. Come back on the ninth day and show me your feet."
+
+She went on along the walk. He stood looking after her, and found that he was very nearly smiling, which on that particular afternoon he had not expected to do.
+
+On the second evening Lira walked him the length of the river street and back at a stroll, because, she said, three nights sitting in the cold made a body forget it was a body, and walking reminded it.
+
+On both mornings he went out to the coping at first light, and on both mornings it was two and two at the ferry landing, on the bell, and two and two at the road's foot. The man with the stiff knee came on at the fourth hour of the second day, exactly as he had come on the morning after the pin, and stood under the lamp with his hands in his pockets, and looked at the river. Whatever the wing had written about a records-broker on a stair, it had not had a boy in it. Cael wrote *two and two* in the margin both mornings, and under the second, very small: *still*.
+
+Under all of it, all the time, was the sixth fragment.
+
+It did not live inside him as the others did, and he could not find it by turning toward his hip, or his ribs, or his arms. It was out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek. Sometimes it seemed turned a little up and sometimes a little down, and he did not touch it. Nobody had said he could, and he did not mean to learn what touching it cost before Karis had her numbers.
+
+On the third day she had them, in the wash-house, with the same rule and the same lamp and the three sandbags hanging in their row. Rule caught at eight and three-quarter inches, a hair slower than before. Breath at rest, fifteen. Middle bag: guessed ten, got eleven. The read at the post with Brom feeding, twelve of twelve, though the last two came a shade late, which Brom swore to and Cael felt. Ember, by his own account, as it had been.
+
+"The Wind waits for the fourth morning, and Lira," said Karis. "That's in the plan. And the Bronze one?"
+
+He told her about the lamp on one cheek and the wick that moved without being asked, and that he had not touched it, and she wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
+
+---
+
+The Wind went on the fourth morning, a little over ninety-six hours after the stair.
+
+Until then the integration had gone well, by every number Karis had. The second quadrangle before the first bell was empty except for the two of them, and so cold that their breath hung in the grey light coming down over the roofs onto the flagstones. Nobody signed for flagstones, and nothing done on them went into any wing's book. They had agreed on a third of Lira's pace; she had said yes to the number as if it were a bad price at a market. Eight sequences went by clean. On the ninth she came in from the right, slow, and he dropped his hips for the lateral and went to the place where the Wind lived, and asked.
+
+There was nothing there.
+
+It lasted one held half-breath, and it was not a slow burst or a weak one. It was a gap with a burst's exact shape, the way a missing stair has the exact shape of a stair, and he knew it at once because he had stepped into that same gap once before, in a yard at Greyvane, the morning after Karis.
+
+Lira's forearm, coming at a third, took him across the collarbone, and he sat down hard on the stone.
+
+She did not move, but stood where she was with her arm still half raised, and looked at him, and waited.
+
+"Is that one?" she said.
+
+"That's one."
+
+"And is one in the line?"
+
+He knew what she meant. Karis's line, under part four, in her small hand: *one misfire in any session, self-correcting.* Whether this one corrected, he did not yet know, and sitting on the stone would not tell him.
+
+"Ask me again," he said. "The ninth. From the right."
+
+Lira looked at him for a moment longer. Then she went back to her mark and came in from the right, at a third, and he dropped his hips and asked, and the Wind came. On time, whole, exactly where it should have been, as if it had never once been anywhere else. She ran the ninth at him four more times, and the tenth, and the eleventh, and every one of them answered.
+
+When they had finished she sat down on the stone beside him, carefully, the bad leg out straight, and they sat there together in the cold with their backs to the wall like two people waiting for a coach.
+
+"Tell me what it was like," she said. "Not the numbers. What it was like."
+
+He thought about it.
+
+"Like going down a stair in the dark," he said, "and putting your foot where the next step always is, and there's no step. Just for a moment. And then there is."
+
+"I know that one," said Lira, after a while. "Not with the Wind. With my hip, the first time it went out from under me, years ago. You put your weight where you've put it a thousand times and it isn't there to take it." She rubbed the hip absently with the heel of her hand. "It frightens you worse than a fall. A fall, you can see coming."
+
+"Last time it came twice in the first hour, the morning after. This time: once, the fourth morning, and back before the run was over." He heard himself, and stopped. "I'm not saying it's nothing."
+
+"I know you're not." She was looking at the far wall. "You're saying it's smaller. Because you got ready. And you're going to want to get ready for the next one, too. And there's going to be a next one."
+
+"Yes."
+
+"Say it properly."
+
+"There'll be another one some day, I don't know when, and I won't go looking for it. Tell myself this was the last and I'll quit getting ready, and then the next one won't be something I planned for. It'll just be a thing that happens to me." He looked at his hands on his knees, which were steady. "Better I say it to you here, with my teeth chattering, than learn one day I meant it."
+
+Lira nodded slowly, once, as if he had passed something.
+
+"Mine, then," she said. "Write it in. Nothing at full until there've been three clean days in a row. Not with me, not with Brom, and not for any office on this bluff, whatever they write on a form."
+
+"It's already in. It was in at Greyvane."
+
+"I know." She got up, in her two stages, and held a hand down to him, and pulled him up by it, which she had never once done in front of anybody. "I wanted to hear you say it back."
+
+---
+
+The second session of the unit was that same day, at the sixth bell, in the long room that had been a map store.
+
+He had wondered on the way whether he could sit at that table at all, and in the end it was easy. He went in, and took the same chair two down from the end on the window side, and sat in it with his notebook shut and his eyes on the table, and the room did not know anything had changed, because nothing about the room had.
+
+Gwen arrived with a scrape and a whisper that carried to the windows. "I've done the exercise four times. My aunt says the fourth is always the true one. Is it true you were in the records hall business? Somebody in the Current hall said there were lanterns all night and a man taken away in a cart."
+
+"No cart," said Cael. "I heard there wasn't a cart."
+
+"I knew there wasn't a cart." She sounded disappointed. "There's never a cart."
+
+Seln came in while she was talking, and nobody saw him come; he was at the slate before the door had finished closing. He looked as he always looked, which was like nothing in particular. If he had spent a night on his feet in a cold doorway and another day being sent to sleep, it did not show anywhere a person could point to.
+
+"Sight lines," he said. "In a crowd." He wrote the two words on the slate in the round copying hand. "Go to the windows."
+
+They went to the windows. Below them, across the yard, a session of the Stone first-years was just letting out, forty or fifty of them spilling down the steps of the lecture range into the afternoon, and the porter was crossing the far corner with a ladder over his shoulder.
+
+"The porter," said Seln. "Count the people in that crowd who look at him, between the steps and the arch. You have until he reaches the arch."
+
+They counted. The Stone girl got fourteen. One of the third-years got six and was sure of it. Gwen got twenty-two, which nobody believed, and then explained that she had counted a dog. Cael got eleven, and wrote eleven, and knew it was nine, and did not change it. A boy who watched things moderately well got eleven. A boy who got nine, at a glance, across a yard, in a crowd of fifty, was a boy somebody would one day want to write a paragraph about, and the record held a boy who watched things moderately well.
+
+Before the porter reached the arch Gwen, who had been counting with her lips, turned from the window with the face of somebody who could not hold a question in any longer.
+
+"Sir. Is it true about the records hall? That there was a man on the stair all night, and the registrar in his nightcap?"
+
+The whole room went still, the way a room goes still when somebody has said aloud what everybody wanted to know.
+
+"There'll be a notice from the registrar's office," said Seln. "Read it. It'll be accurate." His eyes went to nobody: not Gwen, not the window, not the room. "The porter's at the arch. Pencils down."
+
+Gwen put her pencil down, crestfallen, and then picked it up again and wrote *READ THE NOTICE* under her count, and underlined it once.
+
+"Nine," said Seln. He did not look at anyone's page. "Most of you counted the people facing him. Facing isn't looking. A ladder is the most interesting thing in that yard, so the ladder gets the looks; the man under it gets what's left over." He turned back to the slate. "Next week, you'll carry the ladder."
+
+Gwen wrote *CARRY THE LADDER* in capitals and underlined it twice.
+
+At the end of the hour Seln went round the table collecting the exercises, as he had the week before, and took Cael's page off the table with two fingers and put it on the pile without looking at it, or at him, or at anything. His sleeve passed a hand's breadth from Cael's shoulder.
+
+Cael sat very still and felt the fragment at his edges turn, of its own accord, very slightly down, the way a candle leans away from a door that opens.
+
+---
+
+By the seventh day Karis was ready for him. Carrel eleven had been cleared down to the wood, four sheets lay pinned flat under inkpots, and her sleeves were above her elbows. She did not explain them. She turned the sheets to face him and said, "Read them to me. Aloud. All of both."
+
+So he read them aloud, and she stopped him twice to correct his own figures, because twice he had rounded in his own favour without noticing. Both times she said only "No," and waited until he said the real number, and then nodded at him to go on.
+
+*Greyvane, the formal yard. Trouble began the next morning, about eighteen hours on. The Wind gone twice inside one hour, half a breath each time, the second as bad as the first. Clean by the end of the hour. Nothing cleared beforehand. Quenna wrote a record round it overnight.*
+
+*Here, the stair. Trouble began on the fourth morning, a little past ninety-six hours. The Wind gone once, half a breath, back inside the same run. Nothing since. Eight days cleared beforehand. Paper: one stamped form saying a boy was tired.*
+
+"Now," said Karis. "What do you conclude?"
+
+"Getting ready makes it cheaper."
+
+"Good. That one's mine as well, and I'll sign it." She folded her hands on the table. "Now tell me the next thing you want to say. I can see it from here. It's sitting on your face like a cat on a step."
+
+He had been about to say it. He said it, because she had asked.
+
+"So if I'm ready, it's—"
+
+"No," said Karis.
+
+She said it gently, but it went into the table like a nail.
+
+"Two," she said. "I have two of them. Two isn't a pattern. Two is two dots on a page, and you can rule a line through two dots in any direction you please and it will go through both of them every time. Here's a thing that ought to worry you more than it does. The Bronze is the biggest thing you've ever taken, by the only scale anything's ever given us, and it cost you the least. Either getting ready matters a very great deal. Or the cost has nothing to do with the size of the thing at all, and we don't understand any of it. From here, with two dots, I can't tell you which." She tapped the second column. "So I'll give you one word, and only one. *Manageable.* That's what this is. Not safe, not free, not finished. If I ever hear you hold this sheet up to somebody as proof that it's safe, I shall want it back, and I'll come and get it."
+
+The columns held his eyes a long while. Then he took out the observation notebook and wrote *manageable* in it, with the date, and under it: *not safe. Karis's word, and Karis's edge. Don't wear it down.* In six months he would want the edge, and he did not want to have to remember whose it was.
+
+None of it went anywhere else.
+
+The chart stayed in carrel eleven, under an inkpot. The notebook stayed in his coat. The Log stayed where the Log had always lived. Gault's brass and dials would read what was put before them and report it honestly. The assay file would keep its three words and add none. Nobody's coursework, no supervision note, no reason written on a deferral would ever carry so much as a hint of a sixth thing. At the semester's measuring he meant to stand before the panel and show five things, the five the record already knew, and every one of them true.
+
+Six was his. The record could keep the other five.
+
+Karis rolled her sleeves down and buttoned the cuffs, which was how she ended an afternoon's work. Then, as an afterthought, she pulled the second sheet back toward her and wrote something very small in its margin, and turned it so that he could read it before she weighted it down again.
+
+*K. is glad it was smaller. This is not a finding. It's allowed in the margin.*
+
+"There," she said. "Now it's on the record too. My record." She stood. "Brom's waiting at the post. Number nineteen tonight, if I've counted right, which I have. The last of them. Tomorrow he starts again at one, and Rooke says that's the whole point. Come and feed him. You look as if you'd like to hit something soft and be told the number."
+
+He went and fed Brom, at a third, under the lamp, and was told the number.

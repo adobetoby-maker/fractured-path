@@ -1,0 +1,3630 @@
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+8 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-30.md
+
+# Chapter 30 — What Seln Keeps
+
+The conclusion had come to Seln on the bluff road, on the ninth night after the pin, somewhere on the third bend going up. He had just watched the courier's clerk drop his third report of the fortnight into the canvas sack by the fish steps, and he was climbing home in the dark with nothing in his satchel at all.
+
+He had not gone looking for it. He did his best thinking the way a mill grinds, slowly and all the time, with the stones turning whether anyone was watching them or not. On the third bend the stones had stopped, and there it was on the floor of his mind, finished, like flour.
+
+He found nothing wrong with it, which was what made him uneasy. Sound conclusions arrived as things he had been working toward. This one arrived as a thing he had been walking round.
+
+So on the tenth night he fastened the shutter of his room on the staff corridor, turned the lamp down to a bead, and went over the argument one step at a time, as he would have gone over somebody else's.
+
+First step. The service did not depend on its officers being honest. It depended on its files being complete. Officers were posted, promoted, buried; the file outlived them all. A gap in it was a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet exactly where things got interesting, and ask him why.
+
+Second step. Gaps were always found; he had spent two years of his youth at a long table up the coast finding them. When one was found, the officer's whole defense was what he had known, and when. Silence alone could sometimes be explained. Silence with nothing kept behind it left a man only his word, and he had twice watched what a covered man's word was worth at an inquiry. It was worth the paper it was not written on.
+
+So: paper. Not product, nothing that would ever go down the river, but his own, in his own keeping, dated, so that on the worst day of his working life he could put his hand on a page and say *this is what I saw, and this is the night I saw it.* If that day never came, he was out a few sheets.
+
+The logic held. There was a further thought waiting behind it, and he left it standing in the dark where it was: a man who sent everything down the river would never need a drawer of his own.
+
+Not one of his four hands would do for this. What he wrote it in was a fifth thing, a private shorthand grown out of the cramped hand when he was young in the field, and no other living person had ever been taught it. Any trained reader could have cracked it over one pot of tea. It had been made for landladies.
+
+At his last posting but two, a landlady doing his table had found a page of it, and turned it face down again very gently. All that week, from the way she said good morning, he knew she believed she had seen a lonely man's diary. The words ran to ordinary lengths. Little words seemed to fall where little words fall. And the lines sloped downhill toward the right-hand margin, as a tired man's lines do late at night, which was the touch he was proudest of. Nobody who reads a tired man's diary upside down reads it twice. They are too sorry for him.
+
+He headed the page with the Third-day of the pin, ten days late, and set the afternoon down whole. He had never needed notes for what he had seen; the service valued that in him above his Path.
+
+*Range: six feet.*
+
+*Interval: shorter than the return.*
+
+*Heading: in.*
+
+The third word held him longest. Every evasive framework he had ever watched did one thing above all others, and that was carry its owner out of trouble. A Wind boy who went *in*, across a live delivery, had been given a framework and then decided for himself which way to point it, in a third of a second, when nobody would have blamed him for being somewhere else.
+
+*Contact: guard forearm, the thin edge of the fold. Placed, not found.*
+
+*Force: not shed. Grounded. Through him into the boards.*
+
+Wind did not do that. Iron Skin families did. Two components, at the least, inside one breath. The brief had a category for that, and he had known which, before the forearm came down.
+
+Then, because this was not product, he did what product forbade and wrote what he thought.
+
+*One. The wing measured a floor. The floor was chosen.*
+
+*Two. He knew the noise the core makes when it is about to lock. He has never worked that post. Yet he knew to a heartbeat how long it ground. Every machine in every room gets weighed and costed as he walks in, and the habit is so old it has stopped charging him.*
+
+*Three. At the north door the third-year asked him what happened, and he answered him truly and left the important part out, in about the time it takes to tie a boot, with nothing rehearsed. Grown officers, trained for it, fumble that. With him it is not a skill. It is a reflex. Somebody made it one.*
+
+He sat back. Then he leaned forward and added a last line, which was not about anything he had seen.
+
+*Nobody builds that at fifteen unless somebody has been coming for him since his Kindling.*
+
+The key to the small case lived in the hollow spine of a treatise on harbour dues, which nobody in any posting had ever taken from a shelf. He shook it into his palm and got down on the floor. The draught under his door ran along the boards and up both sleeves, and his knees, which had lately begun to hold opinions about floors, gave him this one in full. Out came the large case, and from under its shirts the little one: old, brass at the corners, its leather soft as a glove. He opened it between his knees.
+
+He folded the pages to the size of a letter and laid them on top.
+
+What lay beneath them he did not lift or count. None of it had been wanted in years. A locked case is worth exactly as much as nobody's knowing what it holds, and the habit of not looking is part of the lock.
+
+He locked it and slid everything home. Then, still kneeling, he took from his satchel four carbons he had drawn from the wing's drawer at locking-up, which nobody else ever opened.
+
+One was from his first month on the bluff. The rest were the three he had walked to the fish steps since the pin. He laid them in a row on the floorboards, the way a man lays out cards for patience.
+
+*Subject's routine unchanged. Four supervised floor hours weekly. Attends every ladder session. Associates unchanged. Private notation continues.*
+
+*Retaining pins: warden's schedule paid for out of reserve; replacement under way. Registrar assembling charter documents. No inspection notice seen.*
+
+*No undisclosed capability observed.*
+
+That last sentence stood on every one of them. On the first it had been true. On the three since, it was the sentence the posting existed to send, and its absence would have been read before anything else on the desk it reached.
+
+He gathered the four up, shuffled them, and laid them out again face down. Then he turned them over one by one and tried to tell, from the pages alone and without the dates, which had come first.
+
+He could not.
+
+Long ago, at the long table up the coast, he had taught a room of new auditors what that meant. A live situation moves. Coverage that does not move for a whole term means either the situation has died or the man has stopped following it. He had chalked it on a board, and been rather pleased with the way he put it.
+
+He put the carbons back in his satchel in their proper order. He knew how they would look to a reader with better access. He had known it on each of the three nights he walked them down the hill.
+
+He had filed them anyway. It came to him the way a man finds his boots wearing down along one edge: the fact registers, and is true, and he goes on walking in them. Then he turned the lamp out and slept without trouble until the second bell.
+
+---
+
+Two and two, on the bell.
+
+Cael wrote it in the margin of the observation notebook, under the date, as he had written it every evening and every morning since the pin. He was sitting on the coping of the wall behind the second quadrangle in the grey before breakfast, with his coat buttoned to the throat and Karis's marbled log open on the stone beside him. Down on the river street the relief had just walked up to the ferry landing, two grey coats coming and two going. They had nodded to each other like shopkeepers at the change of a shift, and the two going had turned for the town without looking back.
+
+Eleven days.
+
+He had promised himself a change would show in four if it was going to. It had not shown in four. It had not shown in eight. At the foot of the bluff road it had been the same, on the same bell. One of the coats coming on there walked with a stiff left knee that Cael remembered from the morning of the pin, so even the roster was unchanged. There had been no new face in the residence quadrangle and no extra pair on the covered walk. Bracken would have heard of any visitor to Withrow's door by supper and told Karis by breakfast, and Bracken had heard of none.
+
+He did not know yet what to make of it. He had decided, in the second week, to know nothing until he had a reason, and he was holding to it.
+
+Under the date, below the standing line for the five confirmed fragments, he made the other entry he had been carrying.
+
+*Compression, recovery: four mornings, not two. One instance, under a heavier load than any I've measured. Amend the column in pencil.*
+
+The arm lay on the stone beside the notebook. The bruise along the outer bone had gone from black to yellow to nearly nothing. The hum had not come back. Twice he had pressed the bone hard with his thumb in the dark, to see whether it would, and it had not.
+
+Footsteps came along the top of the wall, uneven, a long step and a careful one. Lira sat down on the coping beside him with her leg stuck straight out before her and a heel of yesterday's bread in her hand.
+
+"Two and two," she said.
+
+"On the bell."
+
+"I saw from my window." She tore the bread in half and gave him the smaller half. "I don't know why I come out here, if I can see it from my window."
+
+"Because the window can't tell you it's nothing."
+
+"Neither can you." She ate. The hip had let her walk on the third day, as he had guessed it would, and on the fourth she had stopped pretending it was not there. On the seventh she had been back in hall one at a third of her pace, running the sequence on the stone with a face like a locked door. The shoulder that had taken the edge of Fiske's last delivery had come up purple and gone green. She carried her satchel on the other side now and had not once mentioned why.
+
+Below them the sound of a mallet started up from the far side of the second quadrangle, where Brom's post stood. It was too early for the post. Then a voice that was certainly Karis's said a number, and the mallet stopped.
+
+"He's doing them before breakfast now," said Lira.
+
+"Twelve boxes," said Cael. "Three weeks, four a week. He finished the twelfth last night, and Karis didn't even have to come and find him."
+
+"Did she come anyway?"
+
+"She came anyway. She stood there and said the date. He says it's the most frightening thing that happens to him all week."
+
+Lira almost smiled. She looked down at the ferry landing, where the two new coats had settled under their lamp, and she was quiet for a time.
+
+"Top line," she said at last, as if trying the words for fit. "Ten days on the top line of the Copper standings. I keep going to the board to check it's still true."
+
+"It's still true."
+
+"I know it is. I'm not checking the board." She brushed the crumbs off her knee. "Six weeks, she said. Fewer now. Some mornings I'd like it to be tomorrow and some mornings I'd like it to be never." She stood, slowly, in her two stages. "Don't put that in anything."
+
+"I won't."
+
+"I mean it. Not even the coat-notebook."
+
+"Not even that," said Cael, and she went off along the wall toward breakfast with her long step and her careful one, and he sat a while longer and wrote nothing at all.
+
+---
+
+The pen in the assessment wing's end office was chained to the counter by a length of fine brass chain, and it scratched. Cael had signed for things with it perhaps thirty times. He knew where it caught, a third of the way through any downstroke, and he had learned to lift for it.
+
+He had also learned not to come between the second and third bells. In that hour the desk clerk took her breakfast in the little room behind the office with the door ajar and a newspaper, and the porters were down setting the frame, and the counter was minded by whoever sat nearest it. By some trick of the wing's furniture, that was always the copying table. He had worked it out in his fourth week and put it in the shorthand. Since then he had done his signing at the fourth bell or after.
+
+This morning the board had left him no choice. Hall three's posts had their new pins at last, and the east hall's floor hours had been put back as they were before the pin, and the revised sheet had to be signed *at the counter by the third bell*, in the wing's own wording. He was in the end office before the second bell had finished echoing off the quadrangle, with the chained pen in his hand. Across it, Seln turned the sheet to face him without raising his eyes from it.
+
+"Third line. The clerk countersigns."
+
+He signed, lifting for the catch.
+
+It was the first thing Seln had said to him in thirteen weeks. The last had been at the copying table on his fifty-first day: east and north halls, four a week, a warning about notices from halls. There had been no word since, and a great deal else. A floor sheet corrected that nobody had asked to have corrected. A gallery. A stair-head. A rail. Afternoon after afternoon of a man standing at precisely the right distance from a boy who never once let his eyes stop on him.
+
+Seln took the sheet back and squared it on the wood. The tray of forms at his elbow stayed where it was.
+
+"Your training requirement will take coursework," he said, to the sheet, in the level voice the counter used for everything at that hour. "Under the clause. Supervised coursework counts as evaluable contact. It's written in your file. I processed it."
+
+Cael waited.
+
+"Gault's putting a unit on the back half of term. Field assessment." A mark in the ledger. "Observation, position, presence. Once a week to the close of term. Most of the places will go to second- and third-years who mean to be assessors. Provision enrollees may sit."
+
+"On a floor?"
+
+"In a room in this wing. It isn't a combat unit. Rooke won't have it on his boards."
+
+Through the clerk's door came the small dry sound of a newspaper turning. In the passage two first-years had lost their lecture room and were blaming each other for it.
+
+"Who takes it?" said Cael.
+
+"I do." The pen in Seln's own hand moved once more in the ledger. "Gault approves the syllabus. Gault doesn't attend."
+
+The signed sheet went face down under the countersign block.
+
+He said it to the sheet. "Your file says you watch things well. The course would tell us if the file's right."
+
+The wing's carbon sets came in threes, held at the corner with a pin: a top sheet for whoever asked, a second for the wing's own drawer, and a third, faint and grey, for the file that went away. Cael had handled a hundred of them. He read the sentence the same way, top to bottom, in about two seconds, before the clerk's newspaper turned again.
+
+The top sheet was for anybody. A member of staff had offered an enrollee a place on a course, at a counter, with a rule and an authority and a reason. Repeated by anybody within earshot, all four of them, it would sound like nothing whatever.
+
+The second sheet was what it gave. For thirteen weeks he had watched this man across halls, from forty feet, past the shoulders of crowds. Now he was being offered eight feet, a table's length, in a room, signed and countersigned under Gault's own approval. Shadow, taught by somebody who used it. And the man would be talking.
+
+The third sheet was the faint one, and it was the one that mattered. Seln knew precisely what eight feet of him was worth; nobody alive could have priced it better. He had spent fifteen years making himself a man no one could get near. Now, in the dullest hour of the day, he had drafted a lawful pass into his own range, made out to the single person on the bluff who could find him.
+
+Which brought him back to the old question. He had been carrying both halves of it since the gallery.
+
+A trap: the best the Compact had ever set. Access, offered on a form, in a room where the boy's one habit he could not break, which was watching, would be done in front of the man best fitted to measure it.
+
+Or no trap whatever.
+
+Only the top sheet had been spoken aloud, so the top sheet was the only one he could answer. If either of them so much as glanced at the other two, it would be the worst mistake of the term.
+
+"Sign me up," he said.
+
+"Sheet's on the residence board from tomorrow." The next form was already in Seln's hand. "Put your name down like everybody else."
+
+Cael put the copy inside his coat. The door was six paces.
+
+On the threshold his feet stopped.
+
+He had not told them to. It lasted half a second at the most, the hitch a foot gives in the dark at the top of a stair when it has counted one step too many. Then they carried him out into the passage. He was cross with himself about it until the evening, and some way past.
+
+Behind him the chained pen scratched on. Through the clerk's door a page turned. Anybody in the wing who had been asked would have said, quite truthfully, that an enrollee had signed for a floor sheet and left.
+
+---
+
+He did not tell the others at breakfast.
+
+Procedure said all three, door shut, before anything. A thing that was going to be decided was read to all three at once, with the door shut, before anything was done about it. Breakfast was a long table and sixty people. So he ate, and listened to Brom describe exercise twelve in a voice of deep injury, and said nothing. Karis looked at him once across the bread and then down at her plate, and he saw her decide not to ask.
+
+After breakfast he had an hour before the lecture. He spent it walking.
+
+He went the length of the covered walk and back, past the board. Lira's name stood on the top line with Fiske's brass stud a line below it. The porter had chalked the date of the final in the corner the week before, very small, as though it embarrassed him. He went down the north stair and stepped over the third step without thinking and then, a moment later, thinking. He went out through the arch and along the edge of the yard and stood for a while at the rail above the river. A barge went down with its long note and its two short ones, and was answered from the bend.
+
+He was trying to work out what he wanted. He did not like the answer.
+
+He wanted the room. He wanted it the way he had once, at fourteen, wanted the reference room at the community hall at home, all those shelves nobody else read. He wanted to sit at that table and hear the man say anything at all about where people look, and why. He wanted it badly enough that he could feel himself, already, beginning to build the reasons it would be safe.
+
+That was the thing to be careful of. He knew it from the minute in Karis's notebook, and from the night after it, when he had argued both sides of a question with himself in the dark and won every time. A want did not come to you looking like a want. It came looking like an argument. It brought its own reasons along with it, ready-made, and laid them out in a neat row.
+
+So he made himself do the other side as well.
+
+Suppose it was a trap. It would look exactly like this. It would be offered in the dullest hour, in a voice built to be overheard, as a form and not a favour. It would cost the Compact nothing. And it would put him where his attention could be measured by the one instrument on the bluff that knew what attention was.
+
+And if the man meant nothing by it but the coursework, and something by it that he could never say, how would that look from the counter's side of the room?
+
+He stood at the rail and found, with some irritation, that it would look exactly the same.
+
+Jask went past behind him on the way to the Force hall, with his collar up and a book under his arm. He lifted a hand. Cael lifted one back. Jask had turned his dial to the wall for every set now, and had told nobody why, and had moved up two lines on his ledger. He walked the way a person walks who has stopped being the story.
+
+There was one thing Cael did know, and he had known it since the coping at dawn, and the room in the wing had not changed it.
+
+Eleven days. Two and two.
+
+He went to the lecture, and took notes on the drainage of practice floors, and did not hear one word in three. Near the end of the hour he looked out of the lecture range's window and saw a man in a plain wing coat cross the far corner of the north quadrangle with an armful of ledgers. The man walked at the quiet even pace he always walked at, along the one stretch of the quadrangle where nobody else happened to be looking.
+
+Cael did not let his eyes stay. He wrote the date and the bell in the margin and nothing more, and bent his head back over the drainage of floors.
+
+---
+
+Hall three had its posts back.
+
+They stood along the north wall where they had always stood, four iron columns with their padded heads, and the new retaining pins shone in the collars like fresh nails in an old fence. The chains were gone. The floor warden had fitted every pin herself over two long evenings, so the Ash instructor told him at the bay's edge, and had made each Force third-year who used the posts that week watch her do it, and then made them each say the plate aloud before she let them near a dial.
+
+"All of it," said the Ash instructor. "Core and pin. In front of their friends." She signed his sheet against her knee, in her small stooped way, and gave it back. "Half of them sulked. The other half will be alive at forty. Footwork, then four, then the landing. I'll be here."
+
+He did his footwork first, on the timber that gave and returned under him, slow and then not slow, down the length of the bay and back. Then the Wind-adjacent bursts, up to the ceiling the timber allowed. He took four, the four the oak gave him for free, and felt the floor hand back its share on each landing and the hip take the rest. The landing beat came where it always came, the half-breath of being set in place like a peg in a hole. Three years of trying to shorten it, and it had not given him a hair.
+
+At the far end of the hall the door opened and a porter put his head in, looked for somebody who was not there, and went away again.
+
+Cael was halfway into the third set when he found where he was standing.
+
+He had come out of the second landing and drifted, without deciding to, a few steps toward the wall. He stood now just inside the angle of the north wall and the end post, in the strip of floor that the door's opener would reach with his eyes last of all, after the instructor and the bays and the windows. He had not chosen it. His feet had chosen it, while the rest of him was thinking about a counter.
+
+He stood there long enough to be sure. Then he walked out of it into the middle of the floor, where anybody coming through that door would see him first, and finished the set in the open, all four bursts, under the high windows, in plain view of the Ash instructor and two Stone first-years waiting for the next bay and anybody else in the building who cared to look.
+
+"You went for the wall," said the Ash instructor when he came off the floor. She had not looked up from her book, as far as he had seen. "Halfway through the third. Something on the wall?"
+
+"No," said Cael. "Something in my head."
+
+"Leave it in your head on my floor," she said, mildly, and turned a page.
+
+He wrote it down that evening before supper, sitting on his bed with the observation notebook, because it was the kind of thing that turned into an argument if you let it go unwritten past dark.
+
+*The man offered me a place in his unit this morning. I said yes. I have not yet told the others; that is tonight.*
+
+*Before I tell them, the want, in my own hand, so it can't come back later in a hat: I want that room. I want it more than I've wanted anything on this bluff since the gate list. My feet went looking for the place a man by the door would see last, in hall three, in the middle of a set, without asking me. That is what wanting it looks like from the outside, and I would rather the three of them heard it from me than worked it out from where I stand.*
+
+He read it over, and left it, and went down to supper with the page folded inside his coat, where it rested against the copy of the floor sheet Seln had turned face down under the countersign block, two pieces of paper about the same morning that said nothing at all alike.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-31.md
+
+# Chapter 31 — Both
+
+Lira locked the door and put the key in her pocket, which was how every one of these evenings began now, and sat on the arm of the settle with her bad leg along the cushions.
+
+Cael read them the counter.
+
+He read it from the observation notebook, word for word, because he had written it word for word on the walk back from the wing before it could soften in his head. He gave them the sheet and the chained pen, and *Your training requirement will take coursework*, and Gault and the unit and the back half of term, the room in the wing and Rooke's boards; then *Who takes it?* and *I do*, and the file sentence, and his own three words, and the board where his name would have to go up among everybody else's. He read the half-second at the door as well, since to skip it would have made the evening's first lie. Then he turned the page and read them the other entry, the one about his feet in hall three, and what he wanted, in his own hand.
+
+Nobody said anything until he had closed the notebook.
+
+"No," said Lira. "Don't go in that room. Not for anything."
+
+She said it to the cold fireplace, with her arms folded, and then shut her mouth on it and looked as if she would very much have liked that to be the end of the evening.
+
+It was not, as all four of them knew perfectly well. Since the Fiske bout Lira had taken up a habit none of them had seen in her before: when she had said a thing hard, she turned straight round and argued the other side of it, as hard as she could, to see what was left standing. She said it was what Fiske had done to her in the second exchange, and that it had been the most useful thing anybody had done to her all season.
+
+So after a moment she unfolded her arms.
+
+"Right. The other side." She looked at the ceiling as if the case were written on it. "He's offering it in public, on a board, with Gault's name on the syllabus and every second-year who wants to be an assessor in the same room. You can't be quietly anything in a room full of second-years. If he wanted you on your own, that's the last place he'd put you." She stopped. "And you'd learn something from the only man on the bluff who could teach it, which isn't nothing. I'd have walked a long way at your age for a teacher like that." She looked down at Cael. "I still think no. I just can't make it as big as I'd like it to be."
+
+"That's honest," said Karis.
+
+"It's irritating," said Lira. "Your turn."
+
+Karis sat with both palms pressed flat either side of the grey notebook, which was how she stopped her hands from helping her think.
+
+"I'm going to give you my position," she said, "and then I'm going to tell you why you shouldn't trust it, because I don't, and I'd rather say so here than at the fourth bell with nobody to say it to."
+
+"Go on," said Cael.
+
+Karis took a breath, the short sharp one she took before reading a clause aloud to a room that would rather not hear it, and he saw her decide, as she always did, to put the part that made her look worse at the end, where nobody could say she had hidden it.
+
+"Position: it breaks nothing in the minute, because you didn't arrange it and you didn't go near him. The offer came over a counter, by the route any clerk would use, and the right it rests on is printed in your own file. Every rule you wrote is standing." She paused. "Now why I don't trust that. I want it. Not on your account; on mine. I've wanted to sit in a room with a working Shadow practitioner at a table's length since the first page you wrote about him, and I want it the way I want a missing volume, which is badly and for my own sake. And I caught myself, about halfway through you reading it out, building the case for yes. I'd got two good reasons laid out before I noticed the want they were standing on." She turned one hand over. "So whatever I say tonight, mark it down. Mark it down a long way."
+
+"How far?" said Brom, from the floor.
+
+"Further than you'd think. I'll tell you if I see myself doing it again."
+
+Brom was sitting under the window with his back to the plaster, as he always sat, with Rooke's sheet open on his knee and Karis's twelve ticks along the top of it in pencil. He was running his thumb down the fold in it, slowly, as if he were trying to smooth out a crease that had been put there with an iron.
+
+"He's not recruiting you," he said.
+
+"You don't know that," said Lira.
+
+"No. I don't." Brom looked up. "But if that's recruiting, it's the worst I've ever seen. My grandmother hired people all her life, clerks and factors and yard men, and the way you do it is you make it easy, and you make it quiet, and you make it feel like their own idea." He tapped the sheet. "He's done the opposite of every one of those. Your name goes on a sheet in the residence passage, where three hundred people walk by twice a day. You have to sit in a room with eight others who'll talk about it at supper. Wanting a boy near you on the quiet, you'd never in your life ask him to sign for it where the whole house can read it. If he wanted you, he'd have left you an easy way to refuse. He's left you a hard way to accept."
+
+Nobody had anything to add to that, and Lira looked at Brom for a long moment with an expression of mild betrayal, and then at the fireplace again.
+
+"I hate it when he does that," she said.
+
+Brom only nodded, comfortably, and went on smoothing the crease.
+
+---
+
+Cael waited until the barge on the river had finished its long call and the answer had come back from the bend.
+
+"The course isn't what I keep coming back to," he said.
+
+They waited.
+
+"The coats haven't changed."
+
+He laid Karis's marbled log open on the table between the four of them and turned it so that it faced the room. Eleven days since the pin, in her small hand and his scrawl and once in Lira's square capitals. Every change at the ferry landing and every change down at the road's foot, the bell, the faces where faces could be told apart, a tick for on time.
+
+Eleven rows of ticks. There was the pie, crossed out, and the cart in the road, and the dog, all from before the pin, and after the pin not one cross, not one face that was new, not one change by so much as a minute, only the same small upright tick, bell after bell, down the whole of the page and on to the next.
+
+"Here's what I know about the Compact," he said. "It answers paper with people, because people are all it has ever had to spend. Somebody writes something interesting at the bottom of the coast, and it goes up, and somebody reads it, and what comes back down is coats. More of them, or different ones, or closer. I've seen it every time anything about me has gone up." He touched the first row. "The registry's district office is half a morning down the river. Had the pin gone up whole, the river would have brought me an answer by now. Not a letter, either, but a man."
+
+"So nothing went up," said Lira.
+
+"Something went up; it must have. Sending nothing for a fortnight would leave a hole in his product that a clerk could see from the door, and he doesn't make holes clerks can see." Cael looked at the column. "But the afternoon wasn't in it, or not the part that matters. He watched me stand in front of a locked post and take an Iron-tier return on my arm and send it into the floor. And eleven days later there are the same two men at the landing that there were the morning before. One of them still has his stiff knee."
+
+Karis had stopped writing, and sat looking at the column of ticks with her pencil held a little above the page.
+
+"That's one observation," she said.
+
+"I know."
+
+"It fits your reading. Other roads run through it too. I want them on paper, numbered, so that later we can lay what we thought beside what turned out to be so." She drew a line under the date and wrote a figure one. "One. It's lying in a tray somewhere, under other trays. Clerks have trays; so do the people above them. Two. It went up and somebody decided to change nothing while an inspection might be coming, because moving coats is the kind of thing an inspection notices. Three. It went up whole, and he's been told to stand where he is and keep watching." She wrote a four, and stopped, and then wrote beside it. "Four. It went up, and it was written so that a reader who wasn't in that hall would find nothing in it to act on. All of it true, and nothing in it to see."
+
+The fourth line held Cael's eye.
+
+"That's mine," he said. "That's the same as mine."
+
+"It isn't. Yours says he left it out. Mine says he could have put it all in and still made it say nothing. Those are different men." She set the pencil down. "I'm not arguing with you, only putting the other roads on the page."
+
+"I know."
+
+Karis looked at the pencil in her hand as though it belonged to someone else. "Now the part that isn't work, once only, and afterwards you'll all have the decency to forget it."
+
+"Say it," said Brom.
+
+"An instrument doesn't change sides. It changes readings." She said it the way she must have said it to herself a thousand times, flatly, as a thing she had built her working life on. "I told you that before the season. It was a warning then, and it's been the first article of my trade for as long as I've had one." She squared nothing in particular on the table. With Karis, that stood in for a sigh. "Eleven days isn't a finding. I know that better than anybody in this room. But this is the first thing I've ever put in a notebook that I can't make go into that sentence, turn it how I like. I hate that. I'd rather tell you tonight, while it's still sticking out, than after I've sanded it down to fit."
+
+The room was very quiet. Down on the river a barge called once, long, and nobody answered it.
+
+"Thank you," said Cael.
+
+"Don't thank me. I've told you it's unprofessional." But the corner of her mouth had gone tight in the way it did when she was pleased with something and refused to show it. "Write it down. Somewhere I don't have to look at it."
+
+Lira had listened to all of it with her chin on her fist. Now she reached over and turned the marbled log round to face her, and ran her finger down the eleven rows the way she ran it down the standings, looking for the line that did not belong.
+
+"So which one do you believe?"
+
+"None of them, yet." Cael tapped the column. "I believe the ticks, because I watched them happen."
+
+"That's not an answer."
+
+"It's the only one I've got that I didn't make up." He shrugged. "Ask me again when something changes down there, if it ever does."
+
+"I'd like to meet the man with the knee," said Brom from the floor. "Eleven days, and I feel I know him. I could pick his walk out of a crowd at the fair." He thought about it. "I'd buy him a pie. He looks like a man who's never once been bought a pie."
+
+"You can't buy a Compact watcher a pie," said Karis.
+
+"Why not?"
+
+Karis opened her mouth, and closed it again, and looked at the column of ticks, and for once in Cael's experience could not find the clause.
+
+---
+
+"Then there's the part nobody wants to say," said Lira, "so I'll say it."
+
+She swung her leg down off the settle and sat forward.
+
+"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it. If it's ever going to happen, that room is where it's likeliest." Her eyes stayed on Cael's and did not leave them. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
+
+"It mightn't happen," said Brom.
+
+"Then we'll have wasted a sheet of Karis's paper, and she'll forgive us."
+
+"I won't," said Karis, already tearing one out.
+
+So they wrote it, the four of them, at the common room table, in the last hour before the residence lamps went down. Cael held the pen and the others argued over his shoulder, and it took them most of the hour to make it as short as it was, and when it was done it was the dullest thing any of them had ever signed. Karis said that was how you could tell it was good.
+
+*One. If it happens: eight days of nothing the wing can measure. No floor time hard enough to make a note, no demonstration, no supervised intensity. Ask Gault's office to defer my training for fatigue. That's true, and they give it to anybody who asks.*
+
+*Two. The three of you are told before, which is now, and within the hour after, whatever the hour is.*
+
+*Three. This week, while I'm well, Karis measures me. Then there's a before to hold up against an after. Last time we had only the after.*
+
+*Four. If any of the five slips past the line we draw tonight, everything halts — deferral, unit, the lot — and I say it out loud to Karis and Lira, in plain words. I don't write it in the Log and sit waiting for someone to ask.*
+
+"What's tolerable?" said Brom.
+
+They argued that for a quarter of an hour.
+
+Lira wanted nothing tolerable at all: one wrong thing, anywhere, and stop. Karis said that would stop him on the first morning, since last time had begun with two misfires before breakfast, and that a rule nobody could keep was only a way of feeling safe. Brom wanted to know what counted as wrong, and whether a slow burst was wrong or only tired, and whether the read going a beat late counted, since it went a beat late every time Cael had been counting anything. Cael wanted the line drawn where last time had ended, and said so, and Lira said that was exactly the kind of line a person drew when he meant to walk right up to it.
+
+"Within the hour," said Brom at one point, reading part two upside down. "Whatever the hour is. What if it's the fourth hour of the night?"
+
+"Then you get woken."
+
+"Wake Karis first," said Brom. "She's nicer about it."
+
+"I'm not," said Karis, without looking up. "I'm only quieter."
+
+In the end Karis wrote it in under the fourth part in her own hand: *Tolerable: one misfire in any session, self-correcting. Anything more, or anything that does not correct, or anything in the read: stop.*
+
+Cael signed it, and then held the pen out, and the others signed under him, Karis neatly, Brom slowly and with his tongue between his teeth, Lira in her square capitals that took up two lines.
+
+"Read four," said Lira.
+
+He read four.
+
+"Again."
+
+He read it again, aloud, to the end, *I don't write it in the Log and sit waiting for someone to ask*, and she listened to the whole of it with her eyes shut.
+
+"Right," she said, and stood, in two stages, and unlocked the door. "That one I'll hold you to. The others are Karis's." She went out, and they heard her uneven step go along the passage and her door shut.
+
+"She means that," said Brom.
+
+"I know she does."
+
+"No," said Brom. "I mean she's going to lie awake tonight saying it to herself. That's what it costs her, you going near him. She'd rather you'd never seen him." Rooke's sheet went back inside his coat, along its old crease. "She signed anyway. Write that down too, somewhere."
+
+---
+
+He opened the Log at his window at the ninth bell, with the shutter back and the river loud in the dark below, and the fresh-signed sheet laid in the back board beside Karis's minute, where he would see the four signatures every time he turned to the end of the book, whether or not he wanted to see them.
+
+He wrote the standing lines first, as he always did: five confirmed, and the forearm's amendment to the recovery column. Then, for a while, he sat with the pen lifted and did nothing, because he knew what the next entry was going to be and was not sure he would like it.
+
+It came out whole. That hardly ever happened.
+
+*He watched me stop Iron-tier force with a Copper baseline and his desk stayed quiet. Eleven days of the same two coats at the landing say so. This morning he offered, at a counter, to teach me his own Path across a table. Either it's the best trap the Compact ever built, or the man they sent to watch me has started watching them. Karis says instruments don't change sides. Karis has never met this instrument.*
+
+He left it as it stood. Then he wrote the working out underneath, because a conclusion with no working under it was only a thing you had decided to feel.
+
+*The case for a trap. The door into his range is one he cut himself, and nobody knows what eight feet of him is worth better than he does. Put me at his table and my watching becomes the specimen and he becomes the scale. You couldn't draw a better plan for it, and it costs the Compact nothing; written down, it's a clerk with a syllabus.*
+
+*Against: eleven days, the same two coats. And Brom's point, which I've tried and failed to break: whatever the man lets me have, I have to go and claim myself, publicly, in ink. And the way it came. He spoke to the floor sheet, not to me: a single sentence, in the dullest hour, in words the desk clerk could have repeated at supper and bored her whole table. A trap wants to be walked into. This was a door made so I could walk past it, and afterwards neither of us would have spoken to the other at all.*
+
+*What I think, put here so I can be shown wrong later where everybody can see: for thirteen weeks he has been careful around me. This morning, I think, he was careful on my behalf. Careful* for *me. I haven't one piece of evidence for that preposition, and it's the only part of today I'm sure of.*
+
+*What I'll do: sign the board, sit in the room, and learn the Path, if he teaches it.*
+
+*What I won't do is let a single morning shift how I read him. He still draws the Compact's pay, and in thirteen weeks he hasn't said a word to me that wasn't about a form. A man who says nothing can begin saying something on any day he likes. Eleven days at a ferry landing is a very thin floor to build on.*
+
+*So: both. I read him as an officer, and I sit in his room anyway.*
+
+He stopped there. Then, because it was the kind of entry that would be easy to leave unwritten until it was too late to be honest, he turned to a fresh page and wrote the last part in advance.
+
+*If the day comes when I take something from this man, it will be a day he made possible. He'll have spent a whole term making it possible, and nobody will have asked him to, and he can never be told. That isn't a detail of the cost; it is the cost, nearly all of it. It won't feel like a cost on the night but like something else, and I'll want to call it by a kinder name. So I'm writing it here, tonight, while I can still see it plainly. Read this first.*
+
+He blotted the page and sat looking at it, and then took the pencil and, at the head of the page, in small capitals, wrote *READ FIRST*.
+
+There was one more thing, and it was not about the debt. It was about Karis's fourth road, which had been sitting in him since the common room like a stone in a shoe.
+
+*Karis's fourth: he put the whole afternoon in and wrote it so that it says nothing. Mine: he left it out. She says those are different men, and she's right. One of them hides a thing by leaving a hole, and the other by filling the hole with so much truth that nobody looks down. I don't know which man he is. I only know that either one is better at paper than I am, and I've been working at paper since I could hold a pen.*
+
+He closed the Log on that. Through the wall, along the passage, he heard Lira's floorboard go, once and then again, the long step and the careful one, as somebody walked to a window and stood there. Then nothing, and he did not knock. Brom had been right about what it cost her, and the least he could do with a thing that cost her was not make her talk about it at the ninth bell.
+
+---
+
+At the first bell next morning the wing's round copying hand appeared on the residence board.
+
+*Field assessment (staff unit). Weekly, from Third-day, the sixth bell, the long room off the assessment wing. Observation; position; presence. Open to second and third years; provision enrollees admitted on the training requirement. Places: twelve. Sign below.*
+
+Cael was there before breakfast, before he could find a reason to be there after it. The passage was empty except for a first-year reading the lost-property list with the absorption of a man reading a will. He took the pencil off its string and wrote his name on the first line, *Cael*, and under it *assay provision*, as the cards did, and put the pencil back.
+
+By supper there were nine names.
+
+He read them on the way in, because he read everything. There were four second-years, Copper and Iron by their cards, whom he knew by sight from the Mire and Current halls, and two third-years, one of whom had sat behind him in the drainage lecture and slept through most of it. A Stone girl from the second quadrangle whose card said *Stone, Copper* and who was said to want to be a registry assessor when she was grown, and to say so to anyone who would listen.
+
+And on the line below his own, in a large confident hand with a flourish under it, *Gwen — Second Year — Current*, and after it, drawn very small and carefully, an eye.
+
+"She's drawn an eye," said Brom, reading it over his shoulder with a plate in one hand.
+
+"I can see that."
+
+"After her name. On a sheet about watching." Brom considered it with real respect. "That's either very clever or it isn't clever at all, and I can't tell which, and I think I'm going to like her."
+
+"You don't know her."
+
+"I'll know her by Third-day, because she'll be sitting next to you." Brom said this with the calm of a man reading the weather. "People who draw eyes on sheets always sit next to the person they've decided is interesting. It's a law."
+
+"Whose law?"
+
+"Mine. I've just made it." He went in to supper.
+
+Lira read the sheet on her way past with a bowl of something in each hand. She read it the way she read the standings, from the bottom up, and stopped at the top.
+
+"Third-day," she said. "The sixth bell."
+
+"Yes."
+
+"At the sixth bell I'll be in hall one, running the stone at a third." Her eyes were on the sheet, not on him. "I'll know where you are."
+
+"You always know where I am."
+
+"I know where you said you'd be. That's different." She shifted one bowl so she could hold it against her hip. "Eat something. You've been looking at that board as if it owes you money." And she went in.
+
+Karis was waiting for Cael in the second-quadrangle wash-house afterward with the grey notebook, a lamp, a wooden rule a foot long, and the expression of great purpose she wore for any task that would produce a column of numbers nobody else would ever think to want, and which she would be able to look at in a month and know something by. Brom's sandbags hung from their beam in the corner where they had hung since the third week, three of them in a row, light, middle and heavy, with the knotted cord and the peg.
+
+"Part three," she said. "Measurements, while nothing is wrong. Sit."
+
+He sat on the upturned tub. She held the rule upright by its top end, with its foot between his open finger and thumb, and let go without warning. He caught it, and she looked at where his fingers had closed and wrote down a number, and did it eleven more times, and wrote eleven more numbers.
+
+"What does it tell you?"
+
+"Nothing yet, except what you are on a First-day evening, after supper, tired a normal amount. Next week it might tell me something." She made him count his breath for a minute by the wash-house's clock, at rest and then after twenty steps up and down the yard stair, and wrote that. She made him take the middle bag on the forearm, the way he did in the mornings, and asked how many he would get to before it went, and wrote down his guess before he began, and then wrote down the true count beside it, which was eleven, and which was the same as his guess. "Good. You're honest about that one, at least."
+
+"I'm honest about all of them."
+
+"You round," said Karis. "Up when it's the Wind and down when it's anything that hurts, and you've done it since Greyvane, and I've got it in a column." She closed the notebook. "Tomorrow, the read at the post with Brom. The day after, the Wind on the stone, with Lira, at a third. And then I'll have a before."
+
+"And Ember?"
+
+"Ember stays off the floor; we agreed that. I'll take it from your own account, and I'll trust it, because it's mine and I'll know if you've rounded it." She picked up the lamp. "Go to bed. You look like somebody who's been carrying a sentence about all day."
+
+"I have."
+
+"I know. I read it on your face at supper." She paused in the wash-house door with the lamp held up and the light running along the three hanging sandbags. "It's a good unit, Cael, whatever else it is. Observation, position, presence. Somebody ought to teach it properly, and nobody on this bluff ever has." She considered. "Mark that down a long way too."
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-32.md
+
+# Chapter 32 — The Fire-Watch List
+
+The fire-watch boy made his fours with a little flat foot on them, like a table leg, and on the second morning that he made one beside the records hall, Cael stopped walking.
+
+He had read the boy's slate every morning since his second week on the bluff. It hung by the covered walk's north arch, too high for its keeper, and at the first bell the boy climbed onto an upturned bucket and chalked up the night's reckoning with the tip of his tongue showing at the corner of his mouth. He was perhaps eleven. He belonged to the fire-watch, two men who walked the bluff all night with a lantern on a pole, out from the residence quadrangles along the administration range to the assessment wing and back again, noting the hour at which each building put its lamps out. The boy kept their count. At noon a bursar's clerk copied it onto a quarter-sheet and took it away, and at the month's end the bursar and the chandler sat down with the quarter-sheets between them and fought over the oil.
+
+Nobody else on the bluff had ever, as far as Cael could see, stopped to read it.
+
+He had started for a reason that was all his own. In his second week he had been trying to chart where a man might walk at night without being noticed, and a man walks where the dark is. The slate told him, building by building, when the dark began. So every morning he had copied it into the shorthand, *hall three, last bell; lecture range, last bell*, and long after the chart was finished and filed he had gone on reading it, the way you go on glancing at a clock in a room after you have stopped needing the time.
+
+The fire-watch counted the night from the last bell, an hour at a time, in the old way. The library's line never changed from *second hour*: the librarians liked their late readers. The records hall's entry always said *last bell*. There was nothing in the records hall at night but drawers.
+
+Yesterday it had said *Records hall, fourth hour.*
+
+He had written it down and thought of a clerk with a crick in his neck and a burnt-down wick, asleep with his cheek on a ledger, and gone in to breakfast. One night could be anything. One night was a lamp forgotten, or a ledger that would not balance, or a man who did not want to go home.
+
+This morning it said the same thing, with the same careful flat-footed four.
+
+A second night was not a forgotten lamp. A second night at the same hour was a habit, and habits belonged to people.
+
+He stood on the covered walk with the breakfast crowd going past him, and looked at the four for long enough that the boy, climbing down off his bucket, gave him an anxious glance, as if he might have spelled the word *hall* wrong.
+
+"That's a very good four," said Cael.
+
+The boy looked at the four, and at him, and went off with his bucket in the brisk way of somebody who has just been praised by a lunatic and would prefer not to provoke him further.
+
+Then Cael did a thing he had never done on the bluff before. Under the slate, on its nail, hung yesterday's quarter-sheet, waiting for the bursar's clerk. He lifted it off the nail and folded it into his coat. It was a list of oil. It was almost certainly theft. He did it anyway, and went to find Karis, and found her before he had gone twenty paces, coming the other way down the covered walk from the registrar's door with a sheet of Bracken's paper in her hand and her coat flying.
+
+They stopped in front of each other.
+
+"You've seen the slate," said Karis.
+
+"Twice."
+
+"Bracken saw it once." She turned on her heel and fell into step beside him, back toward the library. "Which, he says, was once more than he needed. You're a night behind, and so am I, and I've only just stopped being cross about it."
+
+---
+
+She did not tell it in order. She never told anything in order when it mattered; she told it the way she had found it, from the strange end inward, and let him assemble it.
+
+"The drawers," she said, before they were through the library door. "Start with the drawers."
+
+In carrel eleven she swept a pile of founding-era copies to one side with her forearm, which he had never seen her do, and took a clean sheet and drew on it, fast, in pencil, a long narrow room with a row of small squares down each long wall.
+
+"The enrollment section. These are the file drawers. Bracken went in this morning at first light and looked at them along the line, the way you'd look along a row of teeth. Drawers that have been pulled out and pushed back by somebody who's being careful don't go all the way home. They stop a hair short. You can't see it face on. You can see it from the end of the row." She shaded one square, very neatly. "Every drawer in the row sat flush but this one."
+
+"Mine."
+
+"Yours. It's the provision drawer. There are eleven provision files in the whole place, back nineteen years. Nine are closed: people who finished, or left, or died. One belongs to a fourth-year woman, Silver, who's here on a medical provision. And yours." She put the pencil down. "Bracken looked yesterday as well, after the first slate. It sat proud yesterday, too. He'd pushed it home himself. It came out again in the night."
+
+Cael sat down on the carrel's spare stool, which was covered in Karis's coat, and did not notice he had sat on the coat until much later.
+
+"How did they get in?"
+
+"Through the door. With a key or something as good as one." She tapped the end of her drawn room. "The inner door has a counting lock. The Compact makes every chartered records office on the continent fit one. Each time the bolt goes across, it knocks a little brass plate inside the case, and the registrar reads the plate. Bracken reads his every Fifth-day, never oftener, because a registrar seen reading his lock plate on an odd day is a registrar who's telling the building he expects a thief. He read it yesterday anyway. Two marks. This morning, four." She held up four fingers, then folded two of them down, then the other two. "In and out. In and out. Two nights."
+
+"And taken?"
+
+"Nothing." She said it with the small extra weight she put on words she meant to build on. "Not a sheet, Cael. Nothing torn, nothing moved, nothing missing. Somebody came in twice, read your file, put it back, and left. And Bracken would never have known, if his drawer hadn't sat a hair proud and his building hadn't burned two extra gills of oil."
+
+He looked at the shaded square and thought about it from the reader's side, which was the only side that ever told him anything. A thief took a file and left a hole that somebody would one day find. A reader took nothing. He went away with the whole of it in his head or his bag, and the file stayed in its drawer looking as innocent as ever, and nobody knew that it had been had. Somebody had paid for the second thing, not the first. Somebody wanted to know what was in that drawer and wanted nobody to know they knew.
+
+"Who's been told?" he said.
+
+"The chancellor's office. Bracken wrote it up before breakfast. And one to the wing, since every provision has a foot in Gault's office and the wing must hear of anything that steps on it." Karis looked at him steadily. "His clerk took the copy across yesterday, after the first slate. It was on the wing's desk by the ninth bell."
+
+Down in the reading room a book fell flat on the boards with a sound like a slap, and somebody apologised to the whole floor.
+
+Karis had gone a little pink along the cheekbones, which on her was fury.
+
+"I built that file," she said. "Every sheet in it. Bracken's chain, the clause, the citations, the transcript extracts, the cross-references to the founding schedule. Eleven weeks of my life are in that drawer, and somebody's been sitting in the dark reading them by a shuttered lamp and I don't even know whether they understood the footnotes." She picked the pencil up again and put it down again. "I'd like to know what they thought of it. Isn't that ridiculous? Somebody's robbing you and I want their review."
+
+"It isn't ridiculous."
+
+"It's a little ridiculous," said Karis, and pressed her lips together, and was quiet.
+
+For a moment Cael did not say anything at all. He was seeing a counter with a chained pen on it, and a man at that counter turning a sheet face down, and the same man the evening before with a copy from the registrar in front of him, reading it at the ninth bell, flatly, the way he read everything.
+
+"Right," said Cael.
+
+---
+
+He walked the ground in daylight that same morning, before the unit, because he had never yet stood anywhere in the dark that he had not first stood in by daylight, and he did not mean to begin now.
+
+The records hall closed off the far end of the administration range like a full stop: a square stone block, two storeys, small barred windows below and tall plain ones above. The ground floor was the enrollment section, where the drawers were. Upstairs was the charter archive, which Karis had been working through since her first week.
+
+There were three ways in, and he walked past each of them once, at a walk, with a book under his arm, as though he were going somewhere else.
+
+The main door faced the courtyard, under a stone hood, with the courtyard's lamp across from it. The fire-watch passed it four times a night on their round, Karis had found from the oil-slates. Beside it, set back into the range's wall a step or two along, was a shallow doorway no deeper than a man's arm, with a stone bench built into it. The bench had moss on its seat. Nobody had sat on it, he guessed, in years.
+
+The second way in was the inner door from the covered walk. It let into the small stone hall in front of the enrollment section's own door, the one with the lock that kept count, which every way into the drawers came to in the end. The walk's door stood at the north end, under the gallery he meant to use, in full view of anybody on the walk at any hour.
+
+The third was on the building's east face, round the corner, where the range ran out into a little yard of rubbish bins and old crates. A plain door, a yard door, opened from there onto a service stair that climbed the inside of the east wall to the archive above; and from the archive, Karis had told him, a little inner stair went down again to that same stone hall and that same counting lock. He looked in at it through the gap where the door did not quite meet its frame. A flight of stone stairs went up into the dark, turned at a half-landing under a narrow window, and went on up out of sight. There was no lamp on the half-landing. There was no lamp anywhere on that stair at all, that he could see, only the window, with its grey light falling across the fourth or fifth step of the lower flight and leaving the corner of the landing behind it entirely in shadow.
+
+He stood there, with the book under his arm, for longer than a person going somewhere else would have stood.
+
+Then he went back round to the covered walk and climbed to its upper gallery by the little stair at the north end, which had a rope instead of a rail and which nobody used once the walk below was empty. The gallery was a long wooden shelf of a place, roofed and open on its courtyard side, with a balustrade of turned posts. There was a broken chair at one end of it, and a great deal of pigeon, and dust along the boards in which his own footprints were the only ones he could see. From the middle of it, sitting on the boards with his back against the wall and his eyes at the level of the balustrade's rail, he could see the whole courtyard: the lamp, the main door under its stone hood, the shallow doorway with its bench, and the long dark mouth of the range running away west toward the wing.
+
+He could not see the east face. Nobody could, from here. The building itself stood in the way.
+
+He sat there with his back to the wall for a quarter of an hour, in daylight, learning what the courtyard sounded like: a cart on the bluff road, the refectory's pans, the chapel clock on the lecture range a little behind the bells. At night most of that would be gone, and what was left would be what mattered. He wanted to know what had been taken away when the time came, so that he could hear what remained.
+
+Then he went on round the end of the range and back along the covered walk to the library, and sat down at an empty desk under the east windows, and drew all three ways in from memory on a clean page, and marked on each the place where he thought a man who wanted to read a drawer at the fourth hour would come in, and where a man who wanted to see him do it would wait.
+
+He put a small mark on the covered walk's gallery, where he meant to sit that night.
+
+Then, after a moment, a second mark on the stair.
+---
+
+The long room off the assessment wing had been a map store once. It still had the wide shallow drawers along one wall, painted over, and on the opposite wall three tall windows that looked out across the yard toward the lecture range. Somebody had put a table down the middle of it and twelve chairs round the table, and at the far end, on an easel, a slate.
+
+Nine of the chairs had people in them by the time the sixth bell finished.
+
+Cael had come early and taken the chair two down from the end on the window side, because it was a chair. He sat in it with his back straight and his notebook closed in front of him and his eyes on the table, and he did not look at the door. The others came in by ones and twos: the Mire and Current second-years in a cluster, talking; the two third-years, one of them yawning before he was through the door; the Stone girl who wanted to be an assessor, with three pencils already sharpened and laid in a row.
+
+The chair next to his was taken, with a great scrape, by a girl in a green scarf.
+
+"You're the assay one," she said, at once, in a whisper loud enough to carry to the windows. "I'm Gwen. Current. I signed under you. I drew an eye. Did you see the eye?"
+
+"I saw the eye."
+
+"I thought it would be appropriate." She took out a notebook with a cover she had decorated herself and opened it to a clean page, on which she wrote the date, and underlined it twice, and then wrote *FIELD ASSESSMENT* in capitals and underlined that twice as well. "My aunt's an assessor at the Fenmark station. She says it's the only work left where they pay you to look at people and nobody minds. Do you think we'll learn to be invisible?"
+
+"No," said Cael.
+
+"No," agreed Seln, from the doorway, "you will not."
+
+He had come in while she was talking. Nobody had seen him come. He walked the length of the room to the slate, set a ledger down on the end of the table, and looked at the nine of them without any particular expression, as a clerk looks at a queue.
+
+"Field assessment," he said. "Observation, position, presence. Every week to the close of term, this room, this bell. Gault approves the syllabus and will see your coursework. He will not come. I will. If you miss a session, the wing will know, because I will have written it down." He turned to the slate and wrote three words on it in the round copying hand, one under the other. *Observe. Position. Presence.* "Nobody in this room will learn to be invisible. Nobody on this continent can be. What you'll learn is where people look, and why, and in what order, and how to use that when you're the one doing the looking for a living." He put the chalk down. "Stand up."
+
+They stood up.
+
+"Go and stand somewhere in this room. Anywhere. Choose the place where a person opening that door would look last." He picked up the ledger. "You have a minute. Then I'm going out, and coming in, and I'm going to tell you where my eyes went, in order."
+
+There was a short confused scramble. The third-year who had been yawning went and stood by the slate, on the grounds, he said, that nobody ever looked at a slate. The Stone girl went to the far corner by the windows. Two of the second-years went and stood against the painted drawers, side by side, as if the two of them together would somehow be less noticeable than either alone.
+
+Cael stood for a few seconds by his chair and looked at the room.
+
+The best place was obvious to him at once, the way the best place always was. It was the strip of wall right beside the door on the hinge side, where the door itself would sweep across the eye of anybody coming in and carry it out into the room. A man coming through would look at the windows first, because windows were light, and at the people in the middle second, and he would look at the wall behind his own shoulder last of all, or not at all.
+
+Gwen was already standing in it.
+
+She had flattened herself against the wall behind where the door would swing, with her decorated notebook clutched to her chest and her eyes very wide. Cael went and stood at the end of the painted drawers nearest the door instead, in the angle the door would reach second, which was the next best place in the room and was, he knew, about where a boy who watched things moderately well ought to stand.
+
+Seln went out and shut the door. There was a pause. Then the door opened, and he came in, and looked, and shut it behind him.
+
+"Window," he said. "The two by the drawers, because there are two of them. The corner by the window, because there's light behind her. The slate, because it's the only thing in the room with writing on it." His eyes went to the third-year who had chosen it. "People read. Never stand next to anything with words on it." He turned his head. "The end of the drawers. Last of all, behind the door."
+
+Gwen came out from behind the door looking astonished.
+
+"Why there?" said Seln.
+
+"I panicked," said Gwen.
+
+The second-years laughed. Seln did not.
+
+"Panic is an argument too," he said. "A poor one that sometimes wins. You argued that a man coming in would carry his eyes the way the door carried them, and you were right, though you didn't know you'd argued it." He wrote one more line on the slate, under the three words, in the same round hand, and stood back from it so that they could all read it.
+
+*A position is an argument about where attention will go.*
+
+"Sit down," he said, "and write that, and then tell me in writing what each of your positions argued, and where the argument failed."
+
+They sat down and wrote. Gwen wrote it in capitals and underlined it twice and then sat looking at it with her lips moving.
+
+"I've never argued with a door before," she whispered. "I think I won."
+
+At the end of the hour Seln set the written exercise without looking up from the ledger, in the same voice he used for everything: *what each position argued, and where the argument failed, one page.* Then he said, "Next week, a crowd," and was gone before the scrape of chairs had finished, so that nobody saw him leave either.
+
+Gwen walked out with Cael as far as the covered walk, talking the whole way. Her aunt at Fenmark had said assessors were born, not made, but her aunt had also said that about pastry, and her aunt's pastry was terrible. She had wanted to be an assessor since she was seven. Was it true that the assay provision meant he could never lose a bout? Somebody in the Current hall had said so.
+
+"No," said Cael. "The assay provision means I have to prove myself in front of a panel every semester, against my baseline. If I can't, it's written down, and I'm out."
+
+Gwen thought about that for six paces.
+
+"That's much worse," she said, with deep respect, and went off toward the Current hall to tell somebody.
+
+Cael wrote it down in his ordinary hand under the date, and under that he wrote, honestly, what his position had argued: *the second-best place, because the best one was taken.* He did not write why he had wanted the second-best. He looked up once, at the end of the hour, and found Seln at the slate reading the Stone girl's page over her shoulder, flatly, with a pencil in his hand, as if a records hall and a fourth-hour lamp and a copy carried across his desk at the ninth bell were things that had happened somewhere else, to some other wing.
+
+---
+
+At the long table in the common room, before supper, he set the decision down on paper first and only then let himself make it. He used the notebook, not the Log. The notebook held the things he meant other people to hold him to.
+
+*Going out tonight, to watch the records hall. Observation only. I will not interfere with whoever is reading the provision files, and I will not try to stop them, and I will not go inside the building. If anybody on the staff finds me there at that hour, it costs me the enrollment. That record is the one true thing ever set down about me by anybody.*
+
+It sat on the page a long while before he wrote anything else. Under it, after a time, he added four words more. They looked every bit as bad as they were, and he let them stand.
+
+*Priced. Going anyway.*
+
+He read it to the other three after supper, with the door shut and the key in Lira's pocket, because that was the procedure and the procedure did not care how bad the words looked.
+
+Lira listened with her arms folded. When he finished she did not say anything for long enough that Brom shifted on the floor.
+
+"Priced at what?" she said at last.
+
+"The enrollment."
+
+"That isn't a price. That's everything." She uncrossed her arms and recrossed them the other way. "You know that. You wrote *the only true sentence*. You wrote it yourself."
+
+"I know."
+
+"Then why?"
+
+He had expected the question and had his answer ready, and found when it came to it that the answer he had ready was not the true one. So he gave her the true one instead, which took longer.
+
+"Because somebody is reading my file in the dark," he said. "Somebody who isn't the Compact, or isn't the Compact's normal way, because the Compact can read my file whenever it likes; it's got a man in the wing with a key. Somebody's money pulled that drawer out at the fourth hour. And Bracken's copy lay on his desk at the ninth bell yesterday. He knows. Nobody but Karis knows that drawer better." He stopped. "I want to see what he does about it. I want to see it with my own eyes, once, instead of reading it afterward in an incident record in eleven words. That's the want. I've written it down."
+
+"And rule two," said Karis quietly.
+
+"Rule two holds. If anything happens, it happens inside the line: in his work, in his engagement, begun by him. If nothing happens, I watch, and I come home, and I write it down, and I never go again." He looked at her. "That's the whole plan. It's mostly sitting in the cold."
+
+Brom had been listening with his chin on his knees.
+
+"Who carries your coat?" he said.
+
+"What?"
+
+"You'll be sitting still in the dark for hours. In this wind. You'll want a second coat and you won't think of it until you're there." He got up off the floor, went out, and came back a minute later with his own winter coat over his arm, the heavy one with the sheepskin collar, and laid it on the table in front of Cael. "Bring it back with nothing in the pockets that wasn't there before. That's my whole condition."
+
+Lira looked at the coat, and at Brom, and then at Cael.
+
+"Where?" she said.
+
+"The covered walk's upper gallery, to begin with. It looks down on the courtyard and the records hall's main door. Nobody uses it after the last bell."
+
+"I'll be up at the fifth hour," said Lira. "I'll be at my window. When you come back across the second quadrangle, you put your hand up, once, so I know it's you." She stood. "If you don't put your hand up, I'm coming to look for you, enrollment or no enrollment. So put it up."
+
+She went out and did not lock the door behind her, which was its own kind of answer.
+
+He slept for three hours after the last bell, because Karis made him, lying on top of his blankets in his clothes with Brom's coat folded over the chair. He had not thought he would sleep at all, and went under at once, the way a stone goes into a pond, and woke without being called in the black part of the night with the river loud and the building ticking round him as it cooled. He put on his own coat and then Brom's over it, the sheepskin collar up round his ears. It smelled of the post and the wash-house and, faintly, of the kettles Brom had been swearing by. In the right-hand pocket there was half an apple that had not been there at supper.
+
+He left it where it was. Brom's condition had been that nothing should be in the pockets that was not there before, and the apple had been there before Cael put the coat on. That was the kind of argument Karis would have accepted. He went quietly along the passage past three shut doors, one of them with a line of lamplight under it that went out as he passed, and down the stair, stepping over the third step, and out into the cold.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-33.md
+
+# Chapter 33 — Second-Best
+
+The cold on the gallery came up through the boards.
+
+Cael had expected the wind, and the wind was there, coming down the courtyard from the river in long slow breaths that moved the courtyard lamp's flame and set its light swinging very slightly across the cobbles. Brom's coat stopped the wind. Nothing stopped the boards. They had been out in the weather for a hundred years, and they had a hundred years of cold stored in them, and after the first half-hour of sitting on them it began to come up into him a little at a time, through the seat of his trousers and the small of his back, like water rising in a cellar.
+
+He sat with his back to the wall in the middle of the gallery, as he had in daylight, with his eyes at the height of the balustrade's rail and his hands inside the sheepskin cuffs. Below him lay the courtyard. Under its stone hood the records hall's main door stood shut and dark, and a step or two along from it the shallow doorway with the bench was a slot of deeper black in the range's wall. The lamp stood across from both on its iron post. Beyond the lamp the range ran away west toward the wing in a long dark line, broken only where a window had been left with its shutter open and showed the night sky reflected on the glass.
+
+He had come up at the start of the first hour. By the chapel clock on the lecture range, which struck a little behind the bells, it was now most of the way through the second.
+
+Nothing had happened at all.
+
+That was what nobody ever told you about watching, he thought. Not the cold, which you expected, but the size of the nothing.
+
+For an hour and three-quarters the courtyard had done exactly what an empty courtyard does at night. The lamp had swung. Something small had gone along the foot of the range, a rat or a cat, and he had not been able to tell which. Somewhere in the second quadrangle a window had opened and a voice had said something sleepy and cross, and the window had shut. The river had gone on being loud. Every few minutes the wind dropped, and in the gap he could hear his own breath going in and out of Brom's collar, and he had begun to count it, the way Karis had counted it in the wash-house, because counting kept him awake.
+
+Somewhere in the second hour, with nothing to watch, he made himself look at what he was doing instead.
+
+Rule one of the minute said that the conditions were not to be manufactured. He had written six refused methods under it in his own hand, so that none of them could come back later dressed as something else. And here he was, on a gallery in the dark, forty feet from a door the man was very likely watching, at an hour when the man was very likely working. He turned that over as honestly as he could, the way Karis would have turned it, looking for the place where it was false.
+
+He had not brought anybody here. A man with a copying kit had brought himself, twice, on somebody's money, and the slate had told the bluff about it in chalk. He had not arranged the hour, or the door, or the drawer that sat proud. He had not told anybody in the wing he was coming, or let anything be seen that would draw the man out. He was sitting in the cold to watch a thing happen that was going to happen whether he sat here or not.
+
+And still. He made himself write it on the inside of his own head, in the shorthand, so that it would be there in the morning: *I want to be near him while he works. That's in this too. It isn't the whole of why I came, but it isn't nothing, and I'd be lying if I left it out.* He let it sit there. Then he did the only thing the minute allowed with a want like that, which was to know it was there and not let it touch his hands.
+
+He did not look for the man.
+
+He had decided that before he came out, and he held to it, though it was the hardest thing he had done all night.
+
+Looking would have been easy. He knew the courtyard; he knew the places a man would choose, if he wanted the main door and the walk and the range at once. He could have gone round them with his eyes one by one the way he went round a crowd. He did not. He let his eyes rest on the lamp, and on the door, and on the slot of the shallow doorway, and on nothing else, and he let the courtyard come to him.
+
+Just after the chapel clock struck the third hour, the fire-watch came.
+
+He heard them before he saw them: two sets of boots on the cobbles at the west end of the range, unhurried, and a third set, lighter and quicker, keeping up. Then the lantern came round the corner on its pole, and the light of it went ahead of them along the foot of the range in a wide yellow fan, picking out each doorway as it reached it and letting it fall back into the dark.
+
+There were two men and the boy, as the slate had promised. The older man carried the pole. He walked as if he had walked this way ten thousand times, which he very likely had, with his head straight in front of him and the lantern a little ahead and to the side. The younger man walked beside him with his hands in his pockets. The boy walked behind them both and looked at everything.
+
+Cael watched the boy, because the boy was easy.
+
+At every doorway the lantern reached, the boy's head turned toward it: a window, a drain, a door, a cat that shot out across the light and was gone. The boy looked at all of it. The younger man looked at about half. The older man's head did not turn once that Cael saw. Thirty years on the same round had taught him which doorways on this bluff were worth a turn of the head, and on this range there were none.
+
+They came on toward the courtyard. The lantern's light reached the records hall's main door, and lay on it, and moved on. Then it reached the shallow doorway, and the bench.
+
+The boy's head turned toward it. So did the older man's.
+
+Cael saw it clearly, in the swinging light: the older man, who had not turned his head for anything along the whole length of the range, turned it now, and looked into the shallow doorway at the bench. Both of them looked. The light lay full across the bench for a moment.
+
+Neither of them stopped.
+
+They did not slow. The younger man said something about his supper, and the older man grunted, and the lantern went on across the courtyard and out the far side and round the end of the walk, and the boots and the light went away together toward the wing. The courtyard went dark again, and the lamp swung, and the river went on.
+
+Cael sat very still against the wall with his hands inside Brom's cuffs.
+
+He had not seen anything in the doorway. Not a shape, not an edge, not a movement.
+
+He had seen two men look into it, one of whom had not looked into anything else for the whole length of the range. And he had seen them both look away again as if they had found exactly what they expected there, which was a mossy bench and nothing on it. The doorway had someone in it, and two men had looked straight in and gone by.
+
+His eyes stayed off the doorway now. He looked at the lamp. But something in the back of his head that had been counting breaths since the first hour had stopped counting, and was doing a different sum entirely.
+
+The best place in the courtyard, for a man who wanted to see who came to the main door and whether they came by the walk or the range, was that doorway. Three feet from the door, under the range's wall, out of the lamp's direct fall. A man sitting on that bench would see everything that came to the records hall from the west or the north. He would be close enough to hear a key in the lock.
+
+The second-best place was the gallery.
+
+He was sitting in it. He had walked up to it through an empty courtyard at the first hour, and climbed the rope stair, and sat down in the middle of it, and for nearly two hours, it now seemed, a man on a mossy bench forty feet away had been watching him do it. That man had had all those hours to take the gallery for himself, or to make it uncomfortable, or simply to make sure that a boy in a borrowed coat did not get up there in the first place.
+
+He had done none of those things. He had let him have it.
+
+---
+
+Cael stayed until the fifth hour, because he had said he would, and nothing else happened. Nobody came to the main door, or the inner door, or the yard door round the east face that he could not see. Once, a little before the fifth hour, the kitchen boys came across the far end of the courtyard with their buckets, talking, going down to the wells. That was all.
+
+Nobody left the shallow doorway that he saw. When at last he went down the rope stair and out through the north arch and across the second quadrangle toward the residence, by the long way round, he did not look at the doorway either. It was the hardest thing he did that night, and the second hardest had been sitting still.
+
+On the way he passed the covered walk's north arch, and the slate, which was blank at that hour and would stay blank until the boy came with his bucket at the first bell. He found he very much wanted to know what the boy would write for the records hall. If it said *fourth hour* again, then somebody had come and gone by the main door or the inner one while he sat on the gallery watching both, and he had seen nothing. If it said *last bell*, then nobody had come at all, and the man in the shallow doorway had sat out the whole cold night on a mossy bench for nothing, the same as he had.
+
+He was nearly sure which it would be. He wanted it in the boy's chalk anyway.
+
+In the second quadrangle he stopped under Lira's window and put his hand up, once.
+
+There was a lamp lit in the window, very low. After a moment a hand came up against the glass, flat, and stayed there, and then took itself away, and the lamp went out.
+
+He slept for two hours and woke at the first bell with his whole body as stiff as the gallery boards. He went down to the arch before he did anything else and read the slate over the boy's shoulder while the chalk was still wet. *Records hall, last bell.* Nobody had come. Whoever was paying for the drawer had paid for two nights' reading and was taking a night to think about the third. He wrote it up sitting on his bed with his blankets round his shoulders before he had even washed, because by breakfast he would have begun to make it tidier than it was.
+
+*Night one. Covered-walk gallery, first hour to fifth. Saw nothing. Nothing at any door that I could see.*
+
+*Third hour: the fire-watch round. Two men and the boy. The boy turns his head at every doorway on the range. The young man at about half. The old man at none, the whole length of the range, until the shallow doorway by the main door, where he and the boy both looked straight at the bench, in their own light. On they went, no slower, not a word between them.*
+
+*I measured this Shadow declaration in the covered walk weeks ago, at the rail, standing in daylight: a Bronze-tier man paying a tax on every look. It isn't hiding. People still look. But the look lands, finds nothing worth a second one, and lets go. Tonight I saw it working on the two men on this bluff whose whole job is to look into doorways at night, and it worked better than I've ever seen it work, at a rate I wouldn't have believed from the rail.*
+
+*He isn't stopping them looking. He's making the look go bankrupt.*
+
+The pen went down, and came back up; the next part was the one that counted.
+
+*He had the best place in the courtyard. I had the second-best. Any other watcher in his night is a sum he can't do, and he does every sum. He ought to have taken the gallery off me, or seen to it I never got there. He had nearly two hours to take the gallery, or to see to it that I never reached it.*
+
+*He left it to me.*
+
+*I don't know yet what that is. It isn't an accident. That man doesn't do accidents, not at that hour.*
+
+At breakfast he read it to the other three over the porridge, in a low voice, because the procedure said within the day and it was within the day. Lira listened with her spoon still. Brom pushed half his own bread across the table without a word and went on eating, and Cael ate it, and found he was very hungry.
+
+"You saw nothing," said Lira, when he had finished.
+
+"I saw two men see nothing."
+
+"That's not the same."
+
+"No," said Cael. "That's the whole point. It's not the same at all."
+
+---
+
+He spent the morning in the library, at the desk under the east windows, building the reader's night.
+
+It was the ladder's arithmetic over again: the sums he had done to find out who would meet whom from the climb rules and the drawn sessions. He had a population and some hours, and he wanted to know where the thin places in it were.
+
+Empty buildings were bad for anyone with a drawer to read in the dark. That had surprised him when he first saw it, and then it had not surprised him at all. Where nothing moves, one footstep is an event. One door opening at the fourth hour, with nothing else moving anywhere, would be the loudest thing on the bluff to anybody lying awake. What a man like that wanted was a building with a little life in it still: enough coming and going that one more door was nothing worth lifting a head for, and not so much that anybody was standing about in the passage when it opened.
+
+The administration range had that, for a short while each night, and nobody had planned it.
+
+The library closed at the second hour, by the slate, but the librarians did not put their late readers out on the stroke. They let them finish their pages. So for most of an hour after the second, the walk carried a trickle of readers home, by ones and twos, by candle, some talking and some not, at no hour that anybody could have set a clock by. Then the walk was empty. Then nothing moved on the range at all until the kitchen boys came down to the wells at the fifth.
+
+So the reader's hour was the third. And of the three ways into the records hall, only one could be used in the third hour without crossing the covered walk and being seen by somebody going home with a candle. That was the service stair on the east face, from the little yard of crates.
+
+He drew the yard door on his page, and the stair going up inside the wall, and the half-landing under its window with no lamp, and the dark corner of the landing behind the window's grey.
+
+Then he sat back and looked at it, and thought about the unit, and a slate in a long room with a line of chalk on it.
+
+*A position is an argument about where attention will go.*
+
+Last night he had sat in the second-best place and argued nothing at all. He had been a boy on a gallery, being allowed to stay there. If he went to the stair tonight, the argument would be a different one, and he would be the one making it. *I know the hour. I know the door. I'm sitting on the step to prove it.*
+
+Who was the argument for? He pretended for a moment not to know, and could not keep it up. He knew exactly who he meant it for, and he wrote the sentence in the margin and then struck it through, because it was the kind of sentence that sounded better than it was.
+
+Halfway through the morning Gwen arrived at the next desk with her decorated notebook and the unit's first written exercise, which was due at the next session and which she had already written out three times.
+
+"What did yours argue?" she said, at once, in the library whisper that carried to the stacks. "Your position. Mine argued that a man coming in would carry his eyes the way the door carried them. Seln said so." She looked at her page with great satisfaction. "I didn't know I'd argued anything. I was hiding. Is that what he meant? That hiding's an argument you make without noticing?"
+
+"I think so," said Cael.
+
+"Then I've been arguing my whole life." She considered this. "My aunt will be thrilled." She bent to her page, and wrote for a while, and then said, without looking up, "You chose second-best on purpose, didn't you. Because I was in the best one. That was decent of you."
+
+He did not know what to say to that, so he said nothing, and after a moment she seemed to decide that nothing was an answer, and wrote it down.
+
+Lira found him there at noon, as she had known she would, and sat down across the desk with her bad leg out into the aisle where a librarian immediately had to step over it.
+
+"You look like a ghost," she said.
+
+"I feel like a gallery."
+
+She considered him. "You're going again."
+
+"The stair, tonight. Not the gallery."
+
+"Why the stair?"
+
+"Because it's the only door he can use at that hour without being seen, whoever he is." He swung the page round to her. "And because last night I sat where I was let sit. Tonight I'd like to sit somewhere because I chose it."
+
+Lira looked at the drawing for a long time: the yard door, the flight, the landing, the window.
+
+"Put your hand up," she said, and got up, and went.
+
+---
+
+On the second night Cael came to the yard door at the second hour, in Brom's coat, and let himself through the gap where the door did not meet its frame. It was not locked. Nobody locked a door that led only to a stair, from a yard full of crates, in a house where nothing had ever been stolen.
+
+Inside it was so dark that for a moment he stood quite still, with one hand on the stone of the wall, and let his eyes do what they could. They did very little. Above him, high up, the half-landing's window was a narrow grey shape, the colour of a cloudy sky at night, and below it there was black. The stair went up into the black. He could smell old stone and dust and, faintly, damp.
+
+He went up the lower flight by feel, one hand on the wall, counting.
+
+The ninth step moved under him. It was not much, the slightest rock of a slab that had come loose from its bed a long time ago, but it made a sound as it rocked, a dull hollow knock like a knuckle on a door, and in that silence it was very loud. He froze with his weight on it. Nothing happened. He took his weight off it, and it knocked again, more softly, settling. He stepped over the tenth and eleventh with his heart going and came up onto the half-landing and stood there until his breath came back.
+
+He found the corner behind the window by touch: the angle where the landing's inner wall met the foot of the upper flight, where the grey light from the window could not reach. He folded himself down into it on the stone, back to the wall, knees up, and laid both hands flat on his knees. On the gallery he had learned that his hands, left to themselves, went looking for jobs.
+
+Then he waited, his eyes on nothing in particular.
+
+He had made his argument. It was made by sitting where he was sitting, at the hour he was sitting there, in the one place on the bluff that a person who had understood the third hour would choose. There was nothing else to say. He let his eyes rest on the window's grey, and listened to the building, and to the river, which was quieter in here, through stone, and to his own breathing, which he did not count.
+
+The second hour went. The chapel clock struck the third, very faint through the walls.
+
+A little after it, far off and muffled, he heard the first of the late readers go along the covered walk on the far side of the range: voices, a laugh cut off, footsteps, then nothing; then more footsteps, a single pair, slow.
+
+Some while after that, everything in the stairwell was different.
+
+No hinge spoke below him. There was no footstep, no breath, no whisper of cloth. Nothing he could have pointed to happened at all. But the quality of the dark around him altered, all at once and entirely, the way a room you thought empty is suddenly, without any sound, a room with somebody else in it. He had written that feeling up a dozen times in the shorthand, as a thing other people did when he walked into a room behind them. He had never once been on this side of it. Every hair on both his forearms stood up together under Brom's sleeves.
+
+He did not move.
+
+For a long time, perhaps a whole minute, nothing else happened. Then, below him in the dark at the foot of the stair, somebody walked across the stone floor of the little lobby inside the yard door, eight or nine feet, without any sound at all. At the end of the crossing, deliberately, one sole turned on the grit.
+
+It was a small sound, the kind anybody makes a dozen times a day without hearing it, and it was the only sound the whole night had made inside that stair.
+
+Cael stayed as he was, silent.
+
+The person came up the lower flight. Cael knew that only because, after a while, the window's grey above him was partly blotted out, low down, by something moving across it: a shoulder in a dark coat, and under the arm a flat bundle of something, ledgers or papers, and above the shoulder no face at all, only the back of a head turned away up the stair. It passed along the outer edge of the landing, on the window's side, four feet from Cael's knees. Then it was on the upper flight, and gone up into the black above the window, and the window was a plain grey shape again.
+
+The ninth step had kept silent.
+
+He sat in the corner with his hands flat on his knees and his heart going hard and quick against the inside of Brom's coat, and slowly, from the top of his head downward, the stairwell went back to being an ordinary dark stair, with a boy on its landing and nobody else that he could feel.
+
+---
+At the half of the fourth hour, when the stair had been an ordinary dark stair for a long time, he decided he had his evidence and need not wait for the fifth. Whatever had gone up had gone up to stay. He felt his way down the lower flight, stepping over the ninth step without needing to count, out through the gap of the yard door, and the long way round to the second quadrangle. Lira's lamp was lit, low. He put his hand up, and her hand came flat against the glass.
+
+In his room the chair was too much. He put his back to the bed frame on the floorboards, the notebook on his knees, and found that the night would not go onto the page in the order it had happened. It wanted to go on backward, from the thing he understood least to the thing he understood best. So he let it.
+
+*Night two. The stair. What I did not hear.*
+
+*The ninth step of the lower flight rocks in its bed and knocks like a knuckle on wood. At the second hour it knocked under me hard enough to stop my heart. At about the third hour a man came up that flight past me, and it never made a sound. He knew it was there, or found it with his foot without putting his weight down, which comes to the same thing.*
+
+*And the lobby. He crossed it, the bit of stone floor inside the yard door, while the last library readers were going home along the walk on the other side of the range. The building was full of small footsteps just then, none of them his. He put his own inside theirs.*
+
+*So: the half of this Path, Shadow, Bronze tier, that I've never charted. I've only ever drawn it standing still, on rails and galleries, where it makes eyes slide off. On the move it works on ears instead, and on time. It doesn't make him quiet. It makes him part of whatever noise the building is already making, so there's never a sound that's his alone to notice.*
+
+*Two components, then. One for eyes, one for ears and moments. Not one tool used two ways; two tools. I'd put money on their not costing him the same.*
+
+He read that part over and was satisfied with it, as far as it went. Then he made himself write the part he was less easy with.
+
+*What I did hear: one scuff. A shoe turned on grit at the foot of the stair, once, on purpose. In a stairwell where a step that knocks got stepped over, nobody scuffs by mistake.*
+
+*The only person in that building who could hear it was me. I've turned it over since the fourth hour, and every answer but one falls apart. He was walking up past somebody sitting in the black, close enough to touch, in a place where a boy who's found there loses everything he has. He let me know he was there in the one way he could, so that I wouldn't find out with his sleeve brushing my face and make a noise that brought the fire-watch running.*
+
+*That's manners. I don't know a better word.*
+
+*And the last thing, the one I understand best. He took the upper flight and left me the lower door and the landing, the same as he left me the gallery. Last night I could tell myself he hadn't noticed me. Tonight he walked past my knees. So the gallery wasn't a gift either. He's got two people in a building where he only wants one, and one of them isn't his to send away. So he's divided the ground. That one's mine. This one's his.*
+
+He sat looking at the page with the cold coming up through the floorboards, and found that his hands had begun, very slightly, to shake, now that there was nothing left for them to do.
+
+He read it to the other three at breakfast, low, with his head down over the porridge, and nobody said anything until he had finished the part about the scuff.
+
+"Manners," said Brom.
+
+"That's the word I had."
+
+"It's the right word." Brom turned his spoon over and looked at the back of it. "My grandmother used to say you could tell everything about a man from what he did when he came into a room where somebody was asleep. Most people clump. Some tiptoe so hard you wake up anyway, out of sheer irritation. And a very few cough once, at the door, quietly." He put the spoon down. "She married the one who coughed."
+
+"I'm not marrying him," said Cael.
+
+"No," Brom agreed. "But I'd lend him my coat."
+
+Karis had said nothing. She had her grey notebook open beside her bowl, and she was writing in it, small and fast, not the breakfast's words but something of her own. When she had finished she turned it round so that Cael could read it.
+
+*Researcher's note. Two nights. In both, the subject was given a part of the ground and the other party kept out of it. On the second night the other party made himself known to the subject before passing. Interpretation withheld.* And under it, in a slightly different, slightly less steady hand: *K. would like to say that she finds this very hard to withhold.*
+
+"You could say it," said Cael.
+
+"I could." Karis took the notebook back. "I'm not going to. Not on two nights. If there's a third, I'll want to say it even more, and then I'll know it's a want and not a finding." She shut the notebook. "Is there going to be a third?"
+
+"Tonight," said Cael. "If the drawer's still worth reading."
+
+Lira had been looking out of the refectory's long window at the river, where the morning's first barge was going down. She did not turn her head.
+
+"Then sleep this afternoon," she said. "All of it. You've had four hours in two nights, and you're starting to talk like a man reading his own letters aloud."
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-34.md
+
+# Chapter 34 — Already Arrived
+
+He slept the afternoon, as Lira had told him to, and woke at dusk with the shape of the stair still in his body, the way the sea stays in a sailor's legs.
+
+For a while he lay without moving and took stock, as he always did before anything that mattered. Hip, quiet. Forearm, quiet. The read, when he let it come up along his arms, was there and cheap and on time. Behind his eyes was a dull weight that he knew well and that had nothing to do with any fragment: four hours of sleep in three nights, and the long cold attention of the gallery and the stair, drawn out of the same purse as everything else he paid for with his eyes. He noted it. He did not like it. It would have to do.
+
+Then he got up, and lit the lamp, and took the minute out of the back board of the Log and read rule two, slowly, aloud, under his breath.
+
+*A directed acquisition is permitted only within earnest engagement which Seln himself begins, close, in the ordinary course of his assignment; awake and directed.*
+
+Four people had fought over every word of that, round the common room table, with the door locked. *Earnest*: somebody spending something real, meaning it, against something. *Which Seln himself begins*: not a thing Cael started, or nudged, or arranged to be in the room for. *Close*. *In the ordinary course of his assignment*: in the man's own work, on a night he would have been working whether or not a boy sat on a stair. *Awake and directed*: not an accident. Not something that happened to him while he was looking the other way.
+
+He read it twice, and then he turned to the page headed *READ FIRST* in his own pencil capitals, and read that as well. He made himself read it to the end, and the sentence about the kinder name.
+
+Then he put the Log away, and went down to supper, and ate everything Brom put in front of him, which was a great deal.
+
+Before supper there had been a series of slow thumps on the far side of his door, at long even intervals, as if somebody were trying very patiently to push the residence over. He opened it and found Brom in the passage with both forearms braced against the door frame opposite, sweating, his left heel rising and being forced down again.
+
+"Fourteen," said Brom, without turning his head. "Rooke calls it the frame. I call it something else. Karis is in her room with the notebook, waiting to hear the number through the wall." He set the heel down and shifted. "Thirty-one. Go back to sleep. You look like a man somebody's drawn in chalk."
+
+Cael went back to sleep, to the sound of somebody leaning on a building, and found it the most restful sound in the world.
+
+Nobody at the table asked whether he was going. Karis talked about the transitional article of a directive nobody else had read. Brom described exercise fourteen, which involved a door frame and was, he said, the worst so far by a distance he could not express in feet. Lira ate with her eyes on her plate and said almost nothing. When they got up she walked beside him as far as the foot of the residence stair, and stopped there, and looked at him for a moment as if she were reading the standings.
+
+"Hand up," she said.
+
+"Hand up."
+
+She went on up the stair with her long step and her careful one, and did not look back, which was how he knew how much she wanted to.
+
+Before he went out, Karis knocked and put a sheet into his hand without coming in. It was the *before*, finished, copied fair in her small upright figures from three days of numbers in the wash-house and at the post and on the flagstones of the second quadrangle at first light.
+
+*Rule caught at: eight and a half inches, middling, twelve drops. Breath at rest: fourteen to the minute. Middle bag: eleven, guessed eleven. Read at the post, Brom feeding: twelve of twelve, on time. Wind on stone at a third, Lira: three clean, the fourth billed to the hip. Ember: from the subject's account, unchanged.*
+
+Under it, ruled off, she had written: *Before. Taken while nothing was wrong. K.D.*
+
+He folded it into the back of the Log, beside the minute and the plan and the four signatures, and went out.
+
+---
+
+The second hour found him folded into the landing's corner again, Brom's coat round him like a tent, palms down on his knees.
+
+He had come up the lower flight by the count, stepping over the ninth without thinking, and found the corner by touch, as if he had been coming to it all his life. That frightened him a little. Three nights, and the stair had gone into him the way the bluff road had, one more place his feet knew without asking him.
+
+Tonight he did not need to argue anything. He only had to be where he had said he would be.
+
+So he sat, and let the cold come up into him through the stone, and took his mind for a walk round the things he could not see. The bench in the courtyard, with its moss. The drawer, a hair proud, that Bracken would have pushed home again before supper. The shuttered windows of the archive above him, and the long dark rooms behind them where Karis's founding-era copies had come from, and where, for all he knew, nobody had stood after dark in a hundred years. He did not let his mind go up the upper flight. He kept it on the landing, with him, where it had been told to stay.
+
+The building made its night noises round him, and on the third night he knew them all. The stone ticked as it gave up the day's last warmth, a small dry sound somewhere in the wall at his back, like a clock that had lost interest in keeping time. High up in the archive a shutter that had not been properly fastened knocked against its frame whenever the wind came round to the east, three or four soft knocks and then silence for a long while. Once, far off across the bluff, a dog barked twice and was told to be quiet. And under all of it, the whole time, came the river, never stopping, so steady that he only heard it when he listened for it, the way you only hear your own heart when you put your hand flat on your chest.
+
+The window changed as the cloud moved. For a while it was nearly black. Then the cloud thinned over the moon, and the grey came up in the glass until he could see the shapes of the lead between the panes, and a faint pale wash of it lay across the edge of the landing two feet from his boots, and stopped there, as if it had been told about the corner. Then the cloud thickened again, and the grey went down.
+
+He thought of Lira at her window, with the low lamp, awake. He thought of Brom asleep with his latch up. He thought of Karis's *before*, folded in the back of the Log, *taken while nothing was wrong*, and of how odd it was to have a sheet of paper that said what you were on a particular evening, so that later you could hold it up against yourself, like a coat you had grown out of, and see where it no longer reached.
+
+The second hour went slowly. The window above the landing was grey with cloud, and for a long time there was no sound but the river, thin through the stone, and once a mouse in the wall, busy and small. A little after the third hour struck he heard, far off, the readers going home along the walk on the range's other side: a door, two voices, a laugh, then a single pair of slow steps, then nothing. Some while later the fire-watch's boots came along the foot of the range on the courtyard side and went away toward the wing. He could not see the bench from where he sat. He did not need to.
+
+The yard door opened. A quarter of the third hour had gone, by his reckoning.
+
+It opened well. That was the first thing he thought, and for the rest of his life it stayed the thing he thought about that door. Its hinges were old and dry. Coming through the gap himself, he had not dared push it wider for the noise it would make. Whoever came through it now took its weight off the hinges with one hand as it swung, and carried it through its whole arc without a sound: the trick of somebody who has opened a great many old doors in the dark, and been sorry, once, about the noise of one of them.
+
+A man stepped inside and stood still.
+
+Cael counted to twenty, slowly, before the man moved again. That was right. You came into a dark place and stood, and let it tell you whether it was empty, before you went through it.
+
+His climb, when it came, was even: no hurry, no creeping, a man who had taken this flight before and knew how many steps were in it. On the ninth step the slab rocked and knocked, loud as a knuckle on wood. The man stopped dead with his weight still on it, and Cael held his breath. For a long moment the man stood listening to the building, and the building told him nothing. Then he lifted his weight off the ninth step so slowly that it settled without a second knock, and came on up onto the landing.
+
+He went by on the window side, four feet from Cael's knees, looking up the next flight.
+
+He never saw him. The grey from the window stopped a yard short of the corner, and a man come to read a drawer has no interest in landings; his eyes are already at the top of the stair, where the drawer is. Four feet was enough. Cael took him in all at once, the way lightning hands you a whole room. Not big. Neither young nor old, somewhere in the middle of his years. A dark coat. Gloves. His bag rode on his chest, not his hip, its strap cinched short: the way a man carries a bag he may need to run with. And as he passed, a smell of lamp oil, and behind it something sharper, the spirit smell of the little bottles Karis cleaned her nibs in.
+
+Ink, and spirit to dry it fast. A copying kit.
+
+Two nights he had read. One night he had stayed away to think. Tonight he had come to take the drawer's contents home with him, word for word.
+
+The man went on up the upper flight and out of the window's grey. He had no clock but his pulse. He listened to it in his ears, and lost count somewhere near four hundred.
+
+---
+
+Then the stair changed again, and it changed from above.
+
+For half a breath all of him knew that was wrong, with the plain animal wrongness of a sound behind your back in a room you have just checked. Then he understood it. Nothing had come in after the man with the bag. Whatever had changed the stair tonight had been at the top of it already, when Cael felt his way up at the second hour. It had been there in the black above the window the whole time he sat in his corner telling himself he had no argument to make. Since when? He found he would rather not know.
+
+What happened next took about as long as reading a page aloud. Cael saw perhaps a third of it.
+
+There was no sound of anybody moving. There was light. At the head of the upper flight, on the little square landing outside the archive, the man with the bag had stopped at the door and opened the shutter of a dark-lantern a finger's width, because he needed to see the lock. A thin bright wedge of yellow fell down the upper flight and stopped two steps above Cael's corner. It lit the archive door.
+
+The door stood open.
+
+A man was standing in it.
+
+He had not been there. For over an hour Cael had been turning every instrument he owned on the head of that flight, and it had been black and empty. Now there was a man in the doorway, and he was the most ordinary thing in the building: a plain wing coat buttoned to the collar, hands loose at his sides, neither tall nor short. He stayed in the doorway. He did not move at all. Nothing about him had *come*; there had been no coming for any eye to catch. He was simply there, as if he had been standing in that doorway since the stones were laid and the light had only now got round to him.
+
+It went down Cael's back like a bucket of well water. He had spent most of a term charting how this man kept eyes off him, and he had charted the wrong thing. The man had not been hiding. Hiding is what you do before you are found. He had got there first, so long before anybody else that his being there was not news to any eye.
+
+The man with the bag swung round. His gloved hand went into the bag on his chest, quick, and then it stopped there. Of everything that happened that night, that surprised Cael most.
+
+"That's a copying kit," said Seln.
+
+His voice was level and not loud. It was pitched for two people going over a form at a counter in the dullest hour of the day.
+
+"Copying is paper. That's the incident book, whatever happens next. Whatever your fingers close on in there, think first. A pen is paper. Anything else is a member of staff with your hands on him, and a magistrate counts those two in years. About nine of them."
+
+There was a pause. Three heartbeats, by Cael's count.
+
+The glove came back out into the light with nothing in it.
+
+"Sit down on the step," said Seln. "Not that one. The one behind you."
+
+The man with the bag sat down where he had been told, slowly, with his empty hands on his knees.
+
+"The registrar is crossing the courtyard," Seln went on, in the same voice, as if reading the next line of the same form. "Counsel is with him, and two fire-watch men. They came out four minutes ago. A man listening to the house, and not the keyhole, would have heard them."
+
+And eleven feet down, in the black of the corner, the reach began.
+
+---
+
+He counted the rule on his fingers against his knee, because his mind would not hold a sentence just then and his hand could hold five things.
+
+*Earnest*, the thumb: a man in a doorway spending his name and his post and every careful year he had ever worked, in the light, meaning every word. *His*, the first finger: begun by him, on his own account, before Cael had known there was anything to begin. *Close*: eleven feet. *His work*: a records office being read in the dark, and the officer of the wing that kept the records, doing what he was there to do. *Awake*: the little finger, and Cael was more awake than he had ever been in his life.
+
+Five fingers down flat on the cloth of Brom's coat. Cael had not led the man here, or nudged him, or made the night. He had sat on a stair.
+
+So he did not do it the way he did a burst, all at once, before thinking could catch up. He did it slowly, on purpose, on cold stone, in a building where being found would end the one true sentence ever written about him, knowing exactly what he did and to whom. The knowing was the price. He had written that down before he came out.
+
+The formal yard at Greyvane had been the only other time: Karis's little fires springing out of the frozen ground, and his own hand groping in the middle of a fight for something he did not yet know was there. Now it was like putting his hand into a basin of dark water for something he had dropped, knowing exactly where it lay on the bottom.
+
+Then the quiet came.
+
+Five times before he had felt it, and it was the same now: a hush starting in the middle of him and going out to his edges, as if a heavy door had swung shut on the night. The stair's sounds went. The yellow light above went flat and colourless, light in a painting. At the head of the flight Seln's mouth was moving, and the man on the step was answering, and Cael heard none of it.
+
+When the sound came back, the man on the step had a different set to his shoulders, and Seln had moved half a pace further into the light, and between those two pictures was a gap Cael would never get back. Three seconds of it, four, perhaps more: the thing he had sat three nights in the cold to see, going on eleven feet above him without him. He knew while it happened that this was what it cost, and that he would be furious about it later, and that there was nothing at all to be done.
+
+Then it settled.
+
+Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-metre or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. For one long moment that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The intruder's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
+
+Then it let go, all at once, like a held breath. Cold stone under him. His heart going like a drum. Both hands trembling where they lay. Then the notice.
+
+```
+FRAGMENT ACQUIRED
+[unnamed] — Shadow-adjacent. Duration: sustained. Integration: partial.
+Tier equivalent: Bronze.
+Note: presence-suppression component; movement-masking component.
+Contact-to-short range.
+Acquisition: directed. Engagement: adversarial, non-combat.
+```
+
+Twice through. After that, for a while, reading it was all he could do.
+
+Three things on that page had never been on any page before.
+
+*Bronze.* Every other time, in that place, it had said *unknown*, and he had built a whole small private theory on the word: that whatever wrote these lines could tell what kind of thing it had given him but could not weigh it, and that weighing was some other instrument's business, in some registry, in somebody else's hand. Tonight it had weighed. It had set down a tier as plainly as Bracken's sheet set down *Copper*, as if it had been able to all along and had only now decided he was owed a number.
+
+*Presence-suppression component; movement-masking component.* Two parts. Every note before had named one. This one had two, a semicolon holding them apart, and they stood in the very order he had found them on this stair: the eye-half on the first night, the ear-half on the second. He could not tell yet whether that was nothing, or the thing he would still be turning over in ten years.
+
+*Engagement: adversarial, non-combat.* That one he looked at longest.
+
+At the long table, with three people who had every right to argue, he had said that the condition was never violence. That what the Fractured Path's acquisition wanted was earnestness: somebody truly set against him and meaning it, spending something real. Fighting had only ever been the commonest way to be that. Karis had believed him. Lira had distrusted how comfortable it felt. Brom had said his piece about the weapon. Cael had put his name to it, and quietly, where no page could see, he had been waiting to find out he was wrong.
+
+Now the page agreed with him, on a line it had left empty every other time.
+
+*All five of the others,* he thought, very clearly, *somebody was hitting me.*
+
+Lira's falls on the boards, Feryn's blows, Brom's three mornings in the alcove, Reydan's floor, Karis's fire across the formal yard. Tonight nobody had touched him at all. And the notice had written more on its page, a tier and an engagement field and two named components, for a man he had never laid a hand on than for any of the ones he had bled for.
+
+He did not like that. On a cold stair at the third hour there was no shelf for it, so he held it, and put off deciding whether the dislike was a finding or a flinch.
+
+Above him the light grew and swung. A lantern was coming up through the archive from the courtyard side, and the head of the stair filled with yellow, and Bracken's voice said, wide awake at the third hour and very precise, "Nobody touch that bag. Counsel will want the kit just as it lies."
+
+Nobody came down the stair.
+
+Long afterward, it was not the notice that Cael kept coming back to. It was this. The man in the doorway had stood there in the light through all of it, and in the dark for however long before. The doorway looked straight down the upper flight. At its foot was a half-landing he had given to a second man two nights running. He knew exactly who sat in its corner. He had known for three nights.
+
+In all that time, he never once turned his eyes down the flight.
+
+---
+
+"You all right, lad?"
+
+The younger fire-watch man held his lantern up on its pole at the corner where the crates gave way to the courtyard, and the question came out of the light beside it, aimed straight at Cael.
+
+Four minutes before that, Cael had still been on the landing. Above him, by then, the landing was crowded with low voices: counsel's, exact and dry, and Bracken's, and the other fire-watch man's, settling between them who would write what, in which book, over whose name. Their lantern made a long yellow tongue down the upper flight that stopped two steps short of his corner. He had to go. Going meant the lower flight, the yard door, and the corner of the range, where the courtyard began and a lantern would be.
+
+He had turned to the sixth fragment, then, the way he turned to the Wind-adjacent one, and asked it to make him not worth a glance.
+
+It did not answer. It did not refuse, either. It was simply as if he had pulled on a bell rope and found nothing at the far end of it but rope. He asked again, harder, with the whole of himself behind it, the gathered intent and the sharp timing he gave a burst. What came was a spike of pain behind both eyes, sudden and hard, that he knew at once and with real dismay. It was the same coin the read spent, and the same coin three cold nights of attention had been spending, and the purse was nearly empty.
+
+In the end he had stood up by the wall and felt his way down, over the ninth step, out through the gap in the yard door. Round the corner of the range he had gone at a stroll, back straight, hands loose and in plain sight, like somebody with every right in the world to be out.
+
+"Couldn't sleep," said Cael. "Heard the noise."
+
+"Go on, then. It's nothing." The man was already turning his lantern back toward the records hall's door, where counsel had come out under the stone hood with a folder in her arms. "Records business."
+
+Cael went on.
+
+At the end of the courtyard, where the covered walk began, he looked back once, as anybody would at a noise in the night. The records hall's upper windows had lamps in them now. Figures moved behind the glass, three or four of them, bent over something on a table. None of them was a plain man in a wing coat. In the angle of the range, on an upturned crate under the courtyard lamp, the fire-watch boy had fallen asleep sitting up, with his cap over one eye and his chalk still in his fist, as if he had meant to write the night down and the night had got there first.
+
+He wrote it against the wall of the covered walk under its one night lamp, standing, with the notebook flat on the stone. It had to go down tonight. By morning he would have been kinder to himself.
+
+*First try: total. Nothing, twice. Then the pain behind the eyes, at about what the read charges for six breaths at full stretch. Then the one man on this bluff paid to look into corners looked into mine, and asked how I was. In three months nobody on the fire-watch has so much as looked at me.*
+
+*I aimed it. I felt myself aim. Brom told me the first week I had the read that it would never come if I went hunting for it. I took that as a fact about the read. Tonight says it was a fact about me.*
+
+*A guess, an hour old, which I expect to throw away: perhaps this one needs me not to be the watcher. All the others are things I point. This may only work when I'm pointing at nothing at all. And if so, the two halves are going to quarrel in my hands. Moving inside a building's noise means listening to the building, and listening is pointing, and pointing is exactly what the other half needs me to stop.*
+
+*Then it's a year's work.*
+
+He shut the notebook, and turned from the wall, and saw somebody coming toward him down the whole length of the covered walk, fast, in a long coat buttoned crooked over what was very plainly a nightgown, with her hair loose and wild about her head.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-35.md
+
+# Chapter 35 — Manageable
+
+"Bracken's clerk came and banged on my door at the third hour," said Karis, before she had quite reached him, "in his nightcap, which I shall never be able to stop seeing. That file is half mine. I built every sheet in it. So I've been in the records hall for most of an hour with my coat over my nightgown and my bare feet in my shoes, and I'd be grateful if you walked me home, because I can no longer feel them."
+
+She took his arm without waiting for an answer. Why he was standing in the covered walk at that hour of the night, in Brom's coat, with his notebook open against a wall, she did not ask, not that night and not in all the years after. He saw her choose not to, and laid it by, for thanking in some year when thanking would be safe.
+
+"His name is Jessup," she said. "He reads papers for money. There's a whole little trade of them in Ostrand, half a dozen men in rooms above the fish market, and the strange part is that most of what they do is perfectly lawful. They don't steal. They get themselves into places where papers are kept, and read, and go home, and write out what they read for whoever's paying." She pulled the coat tighter at her throat. "He had a little book in his bag, half full, in a beautiful hand. He'd come back tonight for the rest."
+
+"The rest of what?"
+
+"Not of you." She said it carefully. "Not your floor hours, or Gault's baseline, or anything about what you can do. He'd copied the enrollment basis. The clause itself, and every citation under it, and the whole of Bracken's verification, letter by letter and seal by seal, the way the thing was built up from the founding schedule. Somebody didn't want to look at you, Cael. Somebody wanted the plans of the door you came in by."
+
+They walked ten paces with that between them.
+
+"Who?"
+
+"He doesn't know, and for what it's worth I believe him. The job came on paper, unsigned, paid in advance, through a letter box by the river that some factor had taken for a single month and then given up. No name anywhere. He says he never has a name, and never wants one, and that's what people pay him for." She glanced sideways at him. "One more thing. Better from me now than from your own head over the porridge. The wing got two lines into the incident book before counsel carried it off. I read them over Bracken's elbow."
+
+"The wing."
+
+"The wing," said Karis, without any expression at all. "Two lines."
+
+*Pattern is consistent with private interest. Not Compact pattern.*
+
+*Client unidentified; no further inference available on present material.*
+
+Cael stopped walking.
+
+"That's a good note," he said.
+
+"It's the best note I've seen since we came up the bridge." Karis had stopped too, under the walk's one lamp, with her breath going up white. "He could have handed them a page of guesses about who and why. He'd have looked very clever. He gave them two lines of what he could prove and then put the pen down. I've spent my whole life wishing people would write like that."
+
+After that neither of them spoke. At the stair foot, under the lamp, she turned with her hand still on the rail. It was the first real look she had given him all night, and it pulled her mouth into a line.
+
+"It happened," she said.
+
+"Yes."
+
+"Tonight."
+
+"Half an hour ago. A little more."
+
+Karis shut her eyes for a moment, and when she opened them she had the look she wore before reading a clause aloud to a room that would rather not hear it.
+
+"Then tomorrow you don't train. The day after, you don't train. On the third day I take every number off you I can think of, and you answer me straight even when straight makes you look a fool." She let go of the rail. "And that's the whole of it. Three sentences, start to finish. A year it's taken us to make it that short, and I'm very proud of it."
+
+"Karis—"
+
+"Rule two," she said. "Within the hour. Go and tell them. I'm going to put my feet in hot water and think about nothing whatever until the second bell."
+
+Lira's door opened before he reached it, and she stood in it with a shawl round her shoulders and the low lamp behind her.
+
+"Your hand went up," she said. "But not the way it went up the other two nights."
+
+He had not known it had looked any different. He believed her.
+
+"It happened," he said. "It said Bronze. It's never said anything in that place before."
+
+Lira looked at his face, and at his hands, which had not stopped shaking, and at Brom's coat. Then she reached out very quickly and put two fingers on the coat's sleeve at his wrist, and took them away again, as if making sure he was there.
+
+"Go and wake Brom," she said. "If you leave it till breakfast he'll never forgive you. He's been sleeping with his latch up since the first night. And then go to bed. Under the blankets, not on the floor."
+
+Brom woke the moment the door opened, the way a soldier wakes, and lay on his back in the dark looking at the shape in the doorway.
+
+"Well?"
+
+"It happened. On the stair. Bronze."
+
+There was a long silence from the bed, and then Brom said, "Was he all right?"
+
+It was not the question Cael had been ready for. He found, standing there, that he had only the true answer.
+
+"He never looked down the stairs. Not once, the whole time."
+
+"Then he was all right," said Brom, and turned over. "Bring my coat back in the morning. Check the pockets."
+
+---
+
+The window was still black when he sat down at it with the Log. He left the shutter half open so that he could hear the river, and he let his hand do what it liked on the page, which was shake, worse than he had ever seen it. He decided not to mind, since a hand that shook was a reading too.
+
+*Sixth fragment. Bronze — the notice finally said a tier out loud, like the architecture decided I'd earned a number. Acquired from a man who doesn't know, in defense of a file with my name on it, during an operation he let me watch. I drew the line in advance and I stayed on my side of it. It cost anyway. Write that down too.*
+
+It was true, and it was not enough. So he set the cost out under it piece by piece, the way he would have set out somebody else's, so that in a year he could not quietly make it smaller.
+
+*The price, in order. Three seconds, maybe four, of the very thing I'd sat three nights in the cold to see, gone while it happened above me. That's the dearest thing I spend, and I spent it without being asked. Then the pain behind the eyes, at once and heavy. Then two dead tries in four minutes, and a fire-watch man asking if I was all right. Last, in no column yet, what I owe the one man on this bluff who has never once sent me a bill.*
+
+*The five before, somebody's hands were on me: Lira, Feryn, Brom, Reydan, Karis. This time nobody came within a yard, and I've never been told so much. Three new things on one page: a tier, two parts named apart, and a line about what kind of engagement it was. That last line agreed with something I argued aloud three weeks ago and half expected to lose. I'll be honest. I don't like being agreed with by something I can't put a question to.*
+
+*A system that confirms you is a system that was listening.*
+
+*I don't know what that means. Filed.*
+
+He sat with the pen lifted after that for a long time, and wrote nothing more, and the window went slowly from black to the colour of slate.
+
+At the fourth bell the deferral went into the wing in his own hand, on the wing's own form: *training deferral requested, eight days, on grounds of accumulated fatigue.* It was true: seven hours' sleep in four nights, and anybody could have signed for it from his face. The desk clerk read it, and looked at him over the top of it with real kindness, and told him he looked dreadful and should go to bed. Then she initialled it, and stamped it, and dropped it in Gault's tray. By noon it was back on the residence board with Gault's initial and the purple ring of the stamp, approved without a word, as the wing approved four such forms a week. It was the only mark the whole business would ever leave in any office on the bluff, and it said, correctly, that a boy was tired.
+
+The copying table was empty that morning. The desk clerk mentioned, to the room at large, that the assistant had been up all night over a bother in the records hall and had been sent to sleep it off. Cael pinned his copy of the form into the back of the Log and did not look at the chair.
+
+He kept the covenant, and did not train on the first day or the second. He sat in lectures and wrote notes he could not afterward read, and ate whatever Brom put in front of him, and slept in the afternoons with his boots on. On the second afternoon the Ash instructor stopped him in the covered walk. She was carrying her book, as she always carried it, against her chest like a shield, and she looked at him over the top of it from her small stooped height with her head on one side.
+
+"Deferral," she said. "Eight days. It came through my tray as well; I sign for your floor." She considered him. "Fatigue."
+
+"Yes."
+
+"Good." She shifted the book. "In thirty years I've signed off a great many people who should have asked for eight days and didn't, because they thought asking was the same as being weak. Most of them I signed off for a good deal longer than eight days, afterward, with a splint." She nodded at him, once, briskly, as if he had answered a question correctly in a lecture. "Sleep. Eat. Come back on the ninth day and show me your feet."
+
+She went on along the walk. He stood looking after her, and found that he was very nearly smiling, which on that particular afternoon he had not expected to do.
+
+On the second evening Lira walked him the length of the river street and back at a stroll, because, she said, three nights sitting in the cold made a body forget it was a body, and walking reminded it.
+
+On both mornings he went out to the coping at first light, and on both mornings it was two and two at the ferry landing, on the bell, and two and two at the road's foot. The man with the stiff knee came on at the fourth hour of the second day, exactly as he had come on the morning after the pin, and stood under the lamp with his hands in his pockets, and looked at the river. Whatever the wing had written about a records-broker on a stair, it had not had a boy in it. Cael wrote *two and two* in the margin both mornings, and under the second, very small: *still*.
+
+Under all of it, all the time, was the sixth fragment.
+
+It did not live inside him as the others did, and he could not find it by turning toward his hip, or his ribs, or his arms. It was out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek. Sometimes it seemed turned a little up and sometimes a little down, and he did not touch it. Nobody had said he could, and he did not mean to learn what touching it cost before Karis had her numbers.
+
+On the third day she had them, in the wash-house, with the same rule and the same lamp and the three sandbags hanging in their row. Rule caught at eight and three-quarter inches, a hair slower than before. Breath at rest, fifteen. Middle bag: guessed ten, got eleven. The read at the post with Brom feeding, twelve of twelve, though the last two came a shade late, which Brom swore to and Cael felt. Ember, by his own account, as it had been.
+
+"The Wind waits for the fourth morning, and Lira," said Karis. "That's in the plan. And the Bronze one?"
+
+He told her about the lamp on one cheek and the wick that moved without being asked, and that he had not touched it, and she wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
+
+---
+
+The Wind went on the fourth morning, a little over ninety-six hours after the stair.
+
+Until then the integration had gone well, by every number Karis had. The second quadrangle before the first bell was empty except for the two of them, and so cold that their breath hung in the grey light coming down over the roofs onto the flagstones. Nobody signed for flagstones, and nothing done on them went into any wing's book. They had agreed on a third of Lira's pace; she had said yes to the number as if it were a bad price at a market. Eight sequences went by clean. On the ninth she came in from the right, slow, and he dropped his hips for the lateral and went to the place where the Wind lived, and asked.
+
+There was nothing there.
+
+It lasted one held half-breath, and it was not a slow burst or a weak one. It was a gap with a burst's exact shape, the way a missing stair has the exact shape of a stair, and he knew it at once because he had stepped into that same gap once before, in a yard at Greyvane, the morning after Karis.
+
+Lira's forearm, coming at a third, took him across the collarbone, and he sat down hard on the stone.
+
+She did not move, but stood where she was with her arm still half raised, and looked at him, and waited.
+
+"Is that one?" she said.
+
+"That's one."
+
+"And is one in the line?"
+
+He knew what she meant. Karis's line, under part four, in her small hand: *one misfire in any session, self-correcting.* Whether this one corrected, he did not yet know, and sitting on the stone would not tell him.
+
+"Ask me again," he said. "The ninth. From the right."
+
+Lira looked at him for a moment longer. Then she went back to her mark and came in from the right, at a third, and he dropped his hips and asked, and the Wind came. On time, whole, exactly where it should have been, as if it had never once been anywhere else. She ran the ninth at him four more times, and the tenth, and the eleventh, and every one of them answered.
+
+When they had finished she sat down on the stone beside him, carefully, the bad leg out straight, and they sat there together in the cold with their backs to the wall like two people waiting for a coach.
+
+"Tell me what it was like," she said. "Not the numbers. What it was like."
+
+He thought about it.
+
+"Like going down a stair in the dark," he said, "and putting your foot where the next step always is, and there's no step. Just for a moment. And then there is."
+
+"I know that one," said Lira, after a while. "Not with the Wind. With my hip, the first time it went out from under me, years ago. You put your weight where you've put it a thousand times and it isn't there to take it." She rubbed the hip absently with the heel of her hand. "It frightens you worse than a fall. A fall, you can see coming."
+
+"Last time it came twice in the first hour, the morning after. This time: once, the fourth morning, and back before the run was over." He heard himself, and stopped. "I'm not saying it's nothing."
+
+"I know you're not." She was looking at the far wall. "You're saying it's smaller. Because you got ready. And you're going to want to get ready for the next one, too. And there's going to be a next one."
+
+"Yes."
+
+"Say it properly."
+
+"There'll be another one some day, I don't know when, and I won't go looking for it. Tell myself this was the last and I'll quit getting ready, and then the next one won't be something I planned for. It'll just be a thing that happens to me." He looked at his hands on his knees, which were steady. "Better I say it to you here, with my teeth chattering, than learn one day I meant it."
+
+Lira nodded slowly, once, as if he had passed something.
+
+"Mine, then," she said. "Write it in. Nothing at full until there've been three clean days in a row. Not with me, not with Brom, and not for any office on this bluff, whatever they write on a form."
+
+"It's already in. It was in at Greyvane."
+
+"I know." She got up, in her two stages, and held a hand down to him, and pulled him up by it, which she had never once done in front of anybody. "I wanted to hear you say it back."
+
+---
+
+The second session of the unit was that same day, at the sixth bell, in the long room that had been a map store.
+
+He had wondered on the way whether he could sit at that table at all, and in the end it was easy. He went in, and took the same chair two down from the end on the window side, and sat in it with his notebook shut and his eyes on the table, and the room did not know anything had changed, because nothing about the room had.
+
+Gwen arrived with a scrape and a whisper that carried to the windows. "I've done the exercise four times. My aunt says the fourth is always the true one. Is it true you were in the records hall business? Somebody in the Current hall said there were lanterns all night and a man taken away in a cart."
+
+"No cart," said Cael. "I heard there wasn't a cart."
+
+"I knew there wasn't a cart." She sounded disappointed. "There's never a cart."
+
+Seln came in while she was talking, and nobody saw him come; he was at the slate before the door had finished closing. He looked as he always looked, which was like nothing in particular. If he had spent a night on his feet in a cold doorway and another day being sent to sleep, it did not show anywhere a person could point to.
+
+"Sight lines," he said. "In a crowd." He wrote the two words on the slate in the round copying hand. "Go to the windows."
+
+They went to the windows. Below them, across the yard, a session of the Stone first-years was just letting out, forty or fifty of them spilling down the steps of the lecture range into the afternoon, and the porter was crossing the far corner with a ladder over his shoulder.
+
+"The porter," said Seln. "Count the people in that crowd who look at him, between the steps and the arch. You have until he reaches the arch."
+
+They counted. The Stone girl got fourteen. One of the third-years got six and was sure of it. Gwen got twenty-two, which nobody believed, and then explained that she had counted a dog. Cael got eleven, and wrote eleven, and knew it was nine, and did not change it. A boy who watched things moderately well got eleven. A boy who got nine, at a glance, across a yard, in a crowd of fifty, was a boy somebody would one day want to write a paragraph about, and the record held a boy who watched things moderately well.
+
+Before the porter reached the arch Gwen, who had been counting with her lips, turned from the window with the face of somebody who could not hold a question in any longer.
+
+"Sir. Is it true about the records hall? That there was a man on the stair all night, and the registrar in his nightcap?"
+
+The whole room went still, the way a room goes still when somebody has said aloud what everybody wanted to know.
+
+"There'll be a notice from the registrar's office," said Seln. "Read it. It'll be accurate." His eyes went to nobody: not Gwen, not the window, not the room. "The porter's at the arch. Pencils down."
+
+Gwen put her pencil down, crestfallen, and then picked it up again and wrote *READ THE NOTICE* under her count, and underlined it once.
+
+"Nine," said Seln. He did not look at anyone's page. "Most of you counted the people facing him. Facing isn't looking. A ladder is the most interesting thing in that yard, so the ladder gets the looks; the man under it gets what's left over." He turned back to the slate. "Next week, you'll carry the ladder."
+
+Gwen wrote *CARRY THE LADDER* in capitals and underlined it twice.
+
+At the end of the hour Seln went round the table collecting the exercises, as he had the week before, and took Cael's page off the table with two fingers and put it on the pile without looking at it, or at him, or at anything. His sleeve passed a hand's breadth from Cael's shoulder.
+
+Cael sat very still and felt the fragment at his edges turn, of its own accord, very slightly down, the way a candle leans away from a door that opens.
+
+---
+
+By the seventh day Karis was ready for him. Carrel eleven had been cleared down to the wood, four sheets lay pinned flat under inkpots, and her sleeves were above her elbows. She did not explain them. She turned the sheets to face him and said, "Read them to me. Aloud. All of both."
+
+So he read them aloud, and she stopped him twice to correct his own figures, because twice he had rounded in his own favour without noticing. Both times she said only "No," and waited until he said the real number, and then nodded at him to go on.
+
+*Greyvane, the formal yard. Trouble began the next morning, about eighteen hours on. The Wind gone twice inside one hour, half a breath each time, the second as bad as the first. Clean by the end of the hour. Nothing cleared beforehand. Quenna wrote a record round it overnight.*
+
+*Here, the stair. Trouble began on the fourth morning, a little past ninety-six hours. The Wind gone once, half a breath, back inside the same run. Nothing since. Eight days cleared beforehand. Paper: one stamped form saying a boy was tired.*
+
+"Now," said Karis. "What do you conclude?"
+
+"Getting ready makes it cheaper."
+
+"Good. That one's mine as well, and I'll sign it." She folded her hands on the table. "Now tell me the next thing you want to say. I can see it from here. It's sitting on your face like a cat on a step."
+
+He had been about to say it. He said it, because she had asked.
+
+"So if I'm ready, it's—"
+
+"No," said Karis.
+
+She said it gently, but it went into the table like a nail.
+
+"Two," she said. "I have two of them. Two isn't a pattern. Two is two dots on a page, and you can rule a line through two dots in any direction you please and it will go through both of them every time. Here's a thing that ought to worry you more than it does. The Bronze is the biggest thing you've ever taken, by the only scale anything's ever given us, and it cost you the least. Either getting ready matters a very great deal. Or the cost has nothing to do with the size of the thing at all, and we don't understand any of it. From here, with two dots, I can't tell you which." She tapped the second column. "So I'll give you one word, and only one. *Manageable.* That's what this is. Not safe, not free, not finished. If I ever hear you hold this sheet up to somebody as proof that it's safe, I shall want it back, and I'll come and get it."
+
+The columns held his eyes a long while. Then he took out the observation notebook and wrote *manageable* in it, with the date, and under it: *not safe. Karis's word, and Karis's edge. Don't wear it down.* In six months he would want the edge, and he did not want to have to remember whose it was.
+
+None of it went anywhere else.
+
+The chart stayed in carrel eleven, under an inkpot. The notebook stayed in his coat. The Log stayed where the Log had always lived. Gault's brass and dials would read what was put before them and report it honestly. The assay file would keep its three words and add none. Nobody's coursework, no supervision note, no reason written on a deferral would ever carry so much as a hint of a sixth thing. At the semester's measuring he meant to stand before the panel and show five things, the five the record already knew, and every one of them true.
+
+Six was his. The record could keep the other five.
+
+Karis rolled her sleeves down and buttoned the cuffs, which was how she ended an afternoon's work. Then, as an afterthought, she pulled the second sheet back toward her and wrote something very small in its margin, and turned it so that he could read it before she weighted it down again.
+
+*K. is glad it was smaller. This is not a finding. It's allowed in the margin.*
+
+"There," she said. "Now it's on the record too. My record." She stood. "Brom's waiting at the post. Number nineteen tonight, if I've counted right, which I have. The last of them. Tomorrow he starts again at one, and Rooke says that's the whole point. Come and feed him. You look as if you'd like to hit something soft and be told the number."
+
+He went and fed Brom, at a third, under the lamp, and was told the number.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-36.md
+
+# Chapter 36 — Rent
+
+It began with a tray, and he almost left it out of the notebook.
+
+It was the ninth morning after the stair, and the deferral had run out the evening before, and the three clean days Lira had demanded had come and gone without a flicker. He was in the refectory queue at the second bell with a bowl in his hand, waiting behind two Stone girls who were arguing about a boy, when a Mire second-year came down the line from the kitchen hatch with a tray loaded to the edges with somebody else's breakfast as well as his own. The second-year was looking for a space at the end of the long table. He found one. He set the tray down on it, briskly, the way you set down a tray you have carried too far, and the corner of the tray came down on Cael's forearm.
+
+Cael was standing in the space. He had been standing in it for half a minute.
+
+The second-year jumped as if the arm had bitten him. He snatched the tray back so fast that a cup went over, and stared at Cael, and then at the arm, and then at Cael again, with the round-eyed face of somebody who has just walked into a door he would have sworn was open.
+
+"Sorry. I'm sorry. I didn't—" He looked at the spilt cup as if it might explain. "I didn't see you there."
+
+"It's all right," said Cael.
+
+The second-year went off down the table with his tray, looking back twice. Cael mopped the tea off the boards with his napkin and thought, *he was in a hurry*, and ate his breakfast, and went to the lecture. He did write it down in the end, at the bottom of the day's page in the shorthand, three words and the bell. But he wrote it the way he wrote the weather.
+
+The second was on the lecture range stair the next afternoon.
+
+He was going up and a Blade instructor was coming down, a big quick man with a sheaf of papers under one arm who always took that stair at a pace that made first-years flatten themselves against the wall. Cael kept to the wall side, as everybody did. The instructor came round the turn of the stair at his usual speed, put out his free hand for the rail, and put his shoulder full into Cael's.
+
+They both stopped. The instructor's papers went down three steps in a fan.
+
+"Sorry," said the instructor. He said it in the voice in which a man says *where did you come from*, and he looked at Cael for a long moment while they gathered the papers between them, with a small frown, as though trying to remember whether the stair had always had a boy on it. Then he thanked him, and went on down, more slowly than Cael had ever seen him take that stair.
+
+Cael went on up. Halfway to the top he stopped, with his hand on the rail, and stood there.
+
+He had a column for this. He had kept it all season, since the first week, in the back of the observation notebook: how many people on the bluff looked at him, and where, and how hard. The fame tally, Karis called it. It had been one in three in the passages, the whole of the first month, and it had gone down a little as the bluff got used to him, and it had never once in all those weeks gone to nothing. On a stair, at a pace and a half, in full afternoon light, a man coming round a turn should have seen him as surely as he saw the rail.
+
+He wrote *the stair, Blade instructor, shoulder* under the tray, and looked at the two lines together for longer than he liked.
+
+The third was in the registrar's office, on the next morning, and after it he stopped pretending.
+
+He had gone there with a form of Karis's, a request for the next box of founding-era copies to be brought up from the store, which she could not deliver herself because she was in the archive with her hands full of dust. Bracken's outer office had a long counter of dark wood and, behind it, the senior clerk's high desk. The senior clerk was a careful grey man who kept the registrar's ledgers and had, Karis said, never once in twelve years been known to miss a figure. There was nobody else at the counter. Cael stood at it with the form in his hand and waited, as you did, while the senior clerk finished his column.
+
+The senior clerk finished his column. He ruled it off. He blotted it. He reached for his tea, and looked up, and saw Cael, and the tea stopped halfway to his mouth.
+
+"Have you been standing there long?"
+
+"A few minutes," said Cael.
+
+The senior clerk looked at him over the cup with the same small frown the Blade instructor had worn. Then he put the cup down and took the form, and read it, and stamped it, and said that the box would come up by the fourth bell. He said nothing else. His eyes went back to Cael twice more while he wrote the receipt, quickly, the way you check a thing on a shelf that you could have sworn was not there a moment before.
+
+Back in his room he sat on the edge of the bed in his coat, and the cold came up into him the way it had come up through the gallery boards.
+
+Three in three days. Since the bridge, he had been looked at by every soul on this bluff. He had measured it, in passages and on stairs and at counters, to the second decimal, because it was the weather he lived in, and he had kept a column of it and filed it in the back of the notebook. Three times in three days, three different people had failed to see him from a yard away, in good light, while he stood in front of them.
+
+He was not doing it. He had not asked for anything, or reached for anything, or so much as thought of the sixth fragment on any of the three mornings. There lay the trouble. He sat with it a long time before he went to find Lira; he had no words yet for it that he could bear to write.
+
+---
+
+Lira was on her floor with her bad leg up on a chair, a wet cloth folded over the hip and a book face down on her chest that she had plainly stopped reading some time ago. She did not get up when he came in. With one foot she nudged the other chair toward him.
+
+He told her about the tray and the stair and the clerk, in order, with the bells. Then he stopped, because the next part was the part he could not yet say well.
+
+"You're not doing it," said Lira.
+
+"No."
+
+"Then what's doing it?"
+
+"I think I am. Just not on purpose." He sat forward with his elbows on his knees. "Every other one I've got came to me asleep. The Wind lay quiet for weeks till I called it. The read just lay there. Pressure, Compression, Ember: they sit where they sit until I call them. You could forget you had them."
+
+"And this one?"
+
+"This one's awake when I'm not. It idles. And when it idles, it isn't off."
+
+Lira turned her head on the floor to look at him properly.
+
+"Explain *idles*."
+
+He tried. He had been trying all morning, on the bed, and the words had kept coming out wrong, so he came at it sideways. Did she remember the gallery, he asked, and the bench, and the old fire-watch man who looked into the doorway and walked on? That was the man's half, turned up. Now think of everybody else. Everybody alive takes up a certain amount of room in a passage, and costs everybody else a certain amount of looking, just by being there, like a candle costs a certain amount of oil whether anybody reads by it or not. And nobody ever thinks about their own amount. Their life sets it for them, the way a house sets the height of its doorways, and they walk through at that height for ever without once ducking.
+
+"Mine used to be set the ordinary way," he said. "Now there's a hand on it. Stop minding where I end, and down it slides. Tired, it goes down. Reading, it goes down. For three days I was thinking about Karis's columns, and it went down the whole time, and I never felt it go."
+
+"So the trick isn't to turn it up."
+
+"The trick is to keep it where everybody else's is. All day. Without thinking about it." He looked at his hands. "Which means thinking about it all day. Which costs. From when I wake up till when I sleep. Whether I'm using it or not."
+
+Lira took the cloth off her hip, looked at it, and put it back.
+
+"Rent," she said.
+
+He had not had the word. He had it now, and it fitted so exactly that he laughed, once, without meaning to.
+
+"Everybody at the foundry paid rent," said Lira. "You pay it whether you're home or not. You pay it when the roof leaks. And if you miss a week, they don't throw you out all at once. The room just gets a bit less yours." She considered the ceiling. "Was anybody hurt? The tray, the stair, the clerk?"
+
+"A cup of tea went over."
+
+"Then you were lucky," said Lira. "Write that down. That it was luck, and not you."
+
+He went back to his room and wrote it, short, because the long version was hers.
+
+*Day eleven. It idles. Idling isn't off. Every person has a setting for how much room they take and how much looking they cost, and nobody thinks about theirs. Mine has a hand on it now, and the hand drifts down when I stop minding my edges: tired, reading, thinking. First thing to learn isn't use. It's holding ordinary, all day, on purpose, and that's paid for from waking to sleep.*
+
+*None of the other five charged rent.*
+
+*The tray, the stair, the clerk: nobody hurt. Luck. Not me.*
+
+---
+
+The unit met that afternoon at the sixth bell, and the ladder Seln had promised them the week before was waiting against the lecture range's wall.
+
+"One of you carries it," said Seln, "from here to the arch, at a walk, through whatever's in the yard. The rest of you stand at the windows above and count every person who looks at the one carrying it. Not at the ladder. At the person." He looked at nobody. "Volunteers."
+
+Gwen's hand went up so fast that her scarf came loose. Seln's eyes rested on the hand just long enough to be seen resting there, and then said, "The assay enrollee," in the voice of a man reading the next name off a list, and turned to lead the others indoors.
+
+So Cael carried the ladder.
+
+It was a long wooden thing, a porter's ladder, heavier at the foot than the top, and the only way to carry it was on the shoulder with one hand forward on a rung and the other back, as the porter did. He set off across the yard with it. A session was letting out of the lecture range, forty or so third-years, and he walked straight through the middle of them at the porter's own unhurried pace.
+
+He did not try anything. He did not think of the Shadow-adjacent fragment at all. He thought about the ladder, which was enough to think about, since it swung if you let it and was always trying to tip forward on the slope of the yard.
+
+And nobody looked at him.
+
+People looked at the ladder. He could feel it, the way you feel the sun: eyes coming up to the long swinging shape and following it, judging whether it would clip a head, making sure its foot was clear of their own. A Current boy stepped aside for it with a little bow. Two girls ducked under its end and laughed. Not one of them, as far as he could tell, so much as glanced at the face of the person underneath it. He walked forty paces across the busiest yard on the bluff in full afternoon light, and for the first time since the bridge he was not being looked at.
+
+He set the ladder down at the arch and stood there with his shoulder aching, and understood something.
+
+Since the stair he had been trying to make himself less, to turn the hand down on purpose, and it had come to nothing. Here, without trying anything at all, forty people had looked past him, because he had been carrying something more interesting than himself. That was not a Path. It was a ladder. But it was the same shape, he thought, standing in the arch with the yard going on round him. You did not have to be nothing. You only had to give the eyes somewhere better to go.
+
+Up at the window, Gwen was waving her count at him: a large, plain *0*.
+
+"Nought," said Seln at the slate, when they had all come back in. "Correct. Next week we find out why that's harder without a ladder." He wrote it up and underlined it once, and the round copying hand was exactly as level as it always was.
+
+Cael wrote in the margin of his exercise, *the eyes have to go somewhere: give them somewhere*. Then he sat looking at it for so long that Gwen leaned over and read it, and wrote it down too, in capitals, under her nought.
+
+---
+
+The trials began that evening in the second-quadrangle wash-house, with the door shut and Karis's lamp on the copper, because nothing that ever happened in a wash-house went onto anybody's form.
+
+Brom had offered to be the instrument before Cael finished asking. Then he improved on his own offer, as he always did.
+
+"Eyes are easy," he said. "Eyes are what everybody's got. You want to know if it fools the read." He unwound the outer wrap from his right hand, the one with Rooke's four words pencilled on it, and held it out to Karis. "Tie that round my head. Over the eyes. Then all I've got is the read. If it beats that, it's beating something deeper than eyes."
+
+Karis tied it, firmly, with a knot she had learned from a bookbinder. Brom stood in the middle of the wash-house floor with Rooke's words across his eyes, *Again. Slower. Watch yourself.*, and his forearms bare and loose at his sides, and looked like a man about to be shot at dawn by a very small firing party.
+
+"It says *watch yourself*," said Lira, from the copper. "Across your eyes."
+
+"I know what it says. I wrote it." Brom turned his blind face toward her. "Rooke would think this was funny. He'd never say so."
+
+Karis chalked two columns on the wash-house's whitewashed wall, *AIMED* and *NOT*, and stood beside them with the chalk.
+
+*Aimed* went first, because Cael could not stop himself. He stood four paces from Brom and gathered himself the way he gathered for a burst, and asked the thing to make him not there.
+
+"Here," said Brom, at once, and pointed straight at him.
+
+Six times. Six times Brom pointed, without hesitation, and six times the thing did nothing at all, and each time the spike came behind Cael's eyes, a little worse. Karis made six strokes under *AIMED*, and drew a line through them, and wrote a nought. Cael knew by the third that he was doing the stair over again. He did three more anyway, because he could not believe that wanting it harder did not help, and afterward he wrote those three down exactly as they were: *stubbornness, not method.*
+
+"You're making the face," said Lira.
+
+"What face?"
+
+"Your burst face. Eyes narrow, staring at a spot on the floor like it owes you money." She shrugged. "If I were a shy thing living in your edges and I saw that face coming, I'd stay in."
+
+The seventh time, he gave up aiming.
+
+He sat down on the upturned tub. He let his breath go down slow and low, as the read liked it, and put his hands flat on his knees as he had on the stair, and stopped trying. He thought about nothing in particular. He thought about the smell of the wash-house, soap and wet stone. He thought about Brom's knot.
+
+And something happened. Out at his edges, in the half-metre of air, there was a thinning, the same as the refectory queue. It came without being asked for and without any aim at all, the way a cat comes to sit by you only when you have stopped calling it.
+
+Brom's blind face turned, slowly, searching.
+
+"Gone," he said. Then he frowned. "No. Not gone. You've gone thin. Like a signature under a blanket. I know it's there. I can't read what it says."
+
+"Is it still—"
+
+It went. It went the instant Cael leaned toward it to make sure, like a reflection on water that breaks when you bend to look. Karis made a mark under *NOT*, and a second little mark beside it that meant *lost on noticing*.
+
+It came back four times more before the hour was up. Four more times it went the moment he reached to check. By the end of the hour Karis had five marks under *NOT* and five little marks beside them, and the sameness of the rows on the wall had stopped being maddening and started being a kind of answer, the way a wall of identical bricks is an answer about the brick.
+
+Brom pulled the wrap down off his eyes, blinking at the lamp, and lay down flat on his back on the wet floor of the wash-house, as he lay after the worst of Rooke's exercises, and spoke to the ceiling.
+
+"You've spent two years learning to be the most awake person in every room. Now you own a thing that only works when you're furniture. You're going to hate this for about a year and then you're going to be very good at it."
+
+For a while nobody spoke. Karis wrote it under the columns on the wall, in chalk, word for word, and then copied it into the grey notebook, and then, after a moment, wrote it a third time in small letters in the margin of Cael's observation notebook without asking, so that he would have it in his own coat.
+
+---
+
+The moving half they tried two days later, in the covered walk, at the change of bell after the third lecture, when two hundred people went through it in both directions at once.
+
+Brom stood at the west end by the board with his wrap back on his hand and his eyes open and the read running. Cael's task was to cross forty feet from the north arch to the board inside the crowd's own movement, the way the man on the stair had crossed the lobby inside the readers' footsteps: never a step of his own, only steps the crowd was already taking.
+
+The first crossing, Brom pointed at him before he was a third of the way.
+
+The second, Cael tried not reading the crowd at all, and walked straight into the back of a Stone fourth-year who had stopped dead to tie his boot. The Stone fourth-year went down on one knee with a noise of real outrage. Cael apologised, and helped him up, and was looked at by roughly everybody in the covered walk, which was the opposite of the exercise.
+
+"That's two," said Brom, when he reached the board. He did not quite manage to keep his face straight.
+
+The third and the fourth crossings went like the first. Both times, fifty feet out, Brom's finger found him.
+
+And Cael understood why on the third, from the inside, which was the worst place to understand anything. To move inside a crowd's movement, he had to know what the crowd's movement was going to do: which gap would open, which shoulder turn, which two Mire boys were about to halt in the middle of the walk to argue about a girl. So he went to the gaze for it, the whole of it, every layer at once, as he had gone to it in every crowd since long before his Kindling. And the moment he did, he was the most awake person in the covered walk, and the other half of the thing went out like a pinched wick.
+
+"It's like watching somebody blow on a coal," said Brom afterward, at the post, while Cael fed him exercise one again. He had finished all nineteen and begun them over from the start, and he said exercise one was a holiday now. "For three steps you're nothing. Grey. Then you start reading, and you glow. From where I stand you're the brightest thing on that walk the moment you start trying to be part of it."
+
+"It's one Path," said Cael. "One notice, one line, two halves. And he does both. On the stair I watched him do both inside one night: he'd read that building so well he knew which doorway to be in, and then he stood in it with the other half turned all the way up. He's put them together. I can't even get them in the same room."
+
+"Then he can do it, and you can't."
+
+"Yes."
+
+Brom set his heel down by main force and held the shift.
+
+"Then once upon a time he couldn't either," he said, through his teeth. "A year of it, I'd guess. Before he was a man in a doorway, he was somebody like you on a walk, glowing." He let the shift go. "You always do this. You find somebody's finished thing and you stand next to it and measure yourself and come up short and write it down like news. You never once did it to me. When you found my seam, you didn't write me off. You went and found out the bluff had a Rooke."
+
+Cael stood with his hands up, not feeding.
+
+"Feed me," said Brom. "Thirty more. And then go and write that down. You won't believe it until it's in your own hand."
+
+Lira raised the last thing that night, with the common room door locked and her leg along the settle. She raised it as she raised everything that mattered, as a question with no hurry in it.
+
+"When it goes thin by itself," she said, "and somebody's halfway through a strike."
+
+He looked up from the notebook.
+
+"In a hall. On the boards. You're feeding Brom, or you're sparring, or you're on the tiers in the Crown yard with four hundred people round you. You're tired. It goes down and you don't feel it go, the way you didn't in the queue. And somebody mid-burst, or mid-swing, or just coming down a stair in a hurry, doesn't know you're there." She was looking at the cold grate, not at him. "A person who is hard to see is hard to help. I'm only asking what happens."
+
+He did not know. He said so.
+
+"Then don't write that you don't know," said Lira. "Write that you don't know, and that it isn't good enough."
+
+So the ledger he had not wanted to start began that night, on a fresh page, in a hand steadier than the stair's.
+
+*Shadow-adjacent, Bronze tier: working ledger. Day one. Deployment: none.*
+
+*Have: the hiding half is real. Five times in an hour, all unasked, every one lost the moment I looked. The moving half: not once in four crossings.*
+
+*Spends: attention, dearer than the read, going in and again coming out. Plus the idle rent, every hour I'm awake, to keep my edges where other people's are. I've been paying that since the stair without knowing.*
+
+*Risk, Lira's, and she saw it first: if I go thin by accident on a hall floor, in a crowd, on a stair, somebody else can be hurt because they didn't know I was there. I don't know what happens. That is not an answer I'm allowed to keep. Till I can keep ordinary without slipping, it's the people near me who pay, as much as me.*
+
+*Won't share: the read. They won't stand in the same room at all, not yet, the way the read and the Wind wouldn't in the first year. The rest: untried.*
+
+*Good for: nothing. Honestly, plainly, nothing yet.*
+
+*Fails: everywhere, and worst wherever I want it most. That's new. I don't like it. I suspect it's the lesson.*
+
+*Net: one Bronze tool with no handle on it, and a year of learning to be dull on purpose. Begin.*
+
+---
+
+On the fifteenth day he handed his coursework in at the wing.
+
+It was three exercises, copied fair from the observation notebook in its plainest hand: the argument of a position in a room, the porter and his ladder, and the third session's work, which had been carrying the ladder across the yard while the others counted the looks. Every word of it was true, and none of it was complete. He had written it as a boy who watched things moderately well would write it, and it had been easier than he expected, because since the stair he was a good deal less sure what he saw.
+
+It was the dullest hour. Seln came to the counter from the copying table, took the folder across the wood, and checked the title line and the date. He made two marks in the ledger.
+
+"Third-day's session is in the yard, not the room," he said, to the ledger. "The same bell. Bring a coat."
+
+"Thank you."
+
+"Mm," said Seln. His pen was already back in its column.
+
+Out in the covered walk he stopped. He stood in the covered walk at the change of bell and let the traffic part round him, and found he was standing in a gap between two pillars that nobody walked through, and stepped deliberately out of it into the stream, and went on standing there, jostled, in plain view.
+
+There was a sum he had been carrying unworked since the stair. That night he made himself do it on paper, in two columns, the way Karis would.
+
+*Who knew.*
+
+*Lira: knew inside a week. Has read the Log further than anyone.*
+*Feryn: never. But an opponent on a public floor, who went on with his life and gave me nothing but a fair fight.*
+*Brom: read every page, on an alcove floor at Ardenmere, and stayed.*
+*Reydan: asked to be told the answer some day. Will be.*
+*Karis: said yes before, in writing, on terms of her own drafting.*
+*Six: does not know. Must not.*
+
+And on the facing page, a second column, which he headed *What he gave*, because it was easier to write as a list than as a feeling.
+
+*His own Path, to chart from a table's length, which nobody's floor anywhere would have let me near. A corrected sheet, unasked. A sector, two nights running. One turned sole on the grit at the foot of a stair, so that the dark would have a sound in it before it had a sleeve. And a report about a locked post, a month ago, with nothing in it that sent a single extra coat to the ferry landing.*
+
+The two columns sat facing each other across the fold. Every name in the first had been given something back, or could be, some day, or had never been owed. The last line was the only one with no way through it. Of everything Cael had, only the mechanism had never once gone onto paper that an office could open, and that was the very thing that would sink a man whose desk stood three doors from Gault, and whose every page climbed a ladder built for catching liars. To tell him would not be honest. It would be putting the one match in the building into the hand of a man who lived in a hayloft.
+
+*Filed under debts, no current mechanism of payment,* he wrote under the columns. Then he sat looking at it. Cold and correct, and he would not let it be the page's last line.
+
+*And below that, since the line is right but stops too soon:*
+
+*He gave me a Path. I took a piece of it. He can't know. However I tell this, I don't come out of it clean, and Karis would say that's what the accounts are for, and why we keep them before and not after. She'd be right. It doesn't help.*
+
+*So there's one thing left. I can be worth it. He stands his desk in the road between me and the people he answers to, and pays for that in something I can't see, and has never asked me for so much as a nod. What I can hand back is this: that the boy behind the desk turns out to have been worth standing in the road for.*
+
+*That isn't paying him. It's only all I've got.*
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-37.md
+
+# Chapter 37 — The Eleventh of Sowing
+
+The date went at the head of the morning's page, as it went at the head of every page he wrote, and he went straight on to the next line.
+
+*Second-day. Two and two at the landing, on the bell. Two and two at the road's foot.*
+
+Then the day's plan, which was ordinary: two lectures, Brom's post at noon, the unit's exercise to write up, and the wing's counter at the fourth bell with a floor sheet. And under the plan, the thing he had set himself for the week, in a line by itself.
+
+*Hold ordinary. All day. Count the bumps.*
+
+On his way down to breakfast he went by the covered walk, as he did most mornings now, and stepped over the third stair of the north flight without thinking, and came out at the board in the grey light before the first bell.
+
+Fiske was there.
+
+She stood square in front of the long board with her hands clasped behind her back, the way she had stood at her chalk before the fifteenth session, and she was looking not at her own name but at the top line, where Lira's was. The brass stud sat a line below it, beside *Fiske*, polished that morning; the porter did it on Fourth-days, and today was not a Fourth-day, so somebody else had done it. The date of the final was chalked very small in the corner. Sixteen days to the final, and the semester evaluation the day after it.
+
+She heard him and turned her head, and looked at him for a moment with the level, unhurried attention she gave the boards before a bout. Then she nodded, once, as one person on the bluff who got up too early nods to another, and turned back to the board. He nodded back, and went on to breakfast, and did not write it down, because there are things a person does at a board at dawn that are nobody else's business.
+
+He held ordinary all day.
+
+It was the strangest day's work he had ever done, because there was nothing whatever to see. In the refectory queue he stood in his place with his bowl and minded the edges of himself the way you mind a pot that might boil over, without looking at it, with half an ear. Nobody set a tray down on him. On the lecture stair the Blade instructor came round the turn at his usual speed, saw Cael three steps below, and swerved to the rail with a nod. At the wing's counter at the fourth bell the desk clerk looked up from her ledger while he was still crossing the room.
+
+"Floor sheet?" she said.
+
+"Floor sheet."
+
+Three for three. He wrote it at the foot of the page at noon, *bumps: none*, and was more pleased by it than by anything since the bridge. Then he felt foolish for being so pleased by the absence of a thing, and wrote that down as well.
+
+It cost. He had known it would. By the middle of the afternoon there was a dull steady ache behind his eyes. It was not the spike of the stair, only its quiet cousin, the kind of tiredness that comes of holding a door open with your foot all day while your hands are busy with other things. At Brom's post he fed a whole exercise a beat late. Brom noticed, and said nothing, and set his heel down.
+
+On this day of the year, the bluff had two lectures and a coursework deadline and nothing else at all. Nobody had marked this date in front of him since he left Fen Street, and somewhere along the road he had stopped being the kind of person who noticed. On the morning of his fifteenth he had written the date at the top of a page at Greyvane and gone on to the next line, and it had seemed to him then the right and grown-up thing to do.
+
+At home, on this morning, Hesk had made the tea the careful way, with the brass spoon, steeped the full time. He had brought the plum preserves down off the high shelf, where they lived for birthdays and first frosts, and set them on the table between the two of them. Why, neither of them ever once said. Crossing the second quadrangle in the dusk with his notebook under his arm, Cael thought about the plum jar for a moment, and then put the thought away, because it was the kind that did you no good on a cold evening a long way from home.
+
+---
+
+After the last bell he went down to the common room to fetch his other pen, and got as far as the threshold, one sleeve on and one off, and stopped.
+
+The long table had been cleared to the wood. Four places were laid at the far end of it, close together, with the residence's chipped blue plates and four cups that very nearly matched. And in the middle of the table, lit, its glass chimney polished until it shone, stood the good lamp.
+
+The residence owned exactly one lamp that did not smoke. It lived in the linen cupboard at the foot of the stair, behind a lock whose key hung on the housekeeper's belt, and all season Cael had seen it lit only once, for a visiting governor. How it had come to be burning on the common room table was a question he decided, standing on the threshold, that he did not want answered.
+
+Lira sat at the head of the table with her bad leg up on the next chair. Behind him in the passage there were footsteps, and he turned and found Brom coming along with a covered basket held out in front of him in both arms, very carefully, like a man carrying a sleeping child across a ford.
+
+"Sit down," said Lira.
+
+"What is this?"
+
+"It's the eleventh of Sowing. Sit down," said Lira.
+
+He did not sit down. He stood where he was with his coat hanging off one shoulder, and found that for a moment he could not think of anything to do with his hands.
+
+"How do you know that?"
+
+"I asked Hesk. In a letter. A year ago." With her good heel Lira dragged the next chair back from the table. "Karis wanted it for a column, at Greyvane, and came to me, because she thought of course I'd know. And I didn't. All that time, and I didn't know what day you were born, and you'd never once let it slip, and you never would, not unless somebody put it on a form in front of you with a pen. I was so angry about that I couldn't sleep. So I wrote to the one man who'd tell me. He answered by the next coach. Three lines: the date, and *thank you*, and *he won't have told you*. You people treat information like it's rationed."
+
+"*A year.*"
+
+"A year. I've carried it about since then like a stone in my boot. Sit."
+
+He sat.
+
+He sat at the end of the table with his coat still half on and his hands flat on the wood either side of an empty blue plate, and found that he could not say anything at all. It was not that he had nothing to say. It was that everything he had to say had arrived at once, at the door of his mouth, and stuck there, the way a crowd sticks in a narrow gate when the bell goes.
+
+Lira watched him not say it, with her chin on her fist.
+
+"You don't have to talk," she said. "Nobody's asked you to make a speech. You can just eat."
+
+"Say thank you after the pie," said Brom, from behind the basket. "Before the pie, it doesn't count. That's a rule at Velmere. One of the few good ones."
+
+"What did he say?" said Cael at last. "Hesk. About me. In the letter."
+
+"I told you. Three lines." Lira considered. "The third one was the only one with any of him in it. *He won't have told you.* As if he'd known for years that one day somebody would write and ask, and was glad it was me." She looked away at the lamp. "That's all. Now eat something, before Brom cries."
+
+"I won't cry," said Brom, "I'm busy."
+
+Brom set the basket on the table and took the cloth off it with a little flourish, the way a man takes the sheet off a statue at a fair, and began to lay out what was inside on the blue plates, one thing at a time.
+
+A round loaf came first, its crust still faintly warm, from no oven Cael had ever seen on the bluff. Then a crock of butter, and a wedge of hard pale cheese with a black rind, and a cold game pie whose glazed lid somebody had decorated with a single pastry leaf. Then a jar of pickled walnuts. Karis, coming in at that moment with her grey notebook under her arm, looked at the jar and said that pickled walnuts tasted exactly like ink, and then sat down beside it and ate four. Last, from the very bottom of the basket, wrapped one by one in paper, came six pears, golden and freckled, of a kind Cael had not seen anywhere on the bluff since the bridge.
+
+Brom laid it all out with the unhurried care of a man doing an ordinary job well, sat down, and began on the pie.
+
+"How?" said Lira.
+
+"I know a man on the kitchen gate."
+
+"You don't know anybody. You know Rooke and a post."
+
+Brom only said it again, word for word, without any heat at all, and handed her the slice of pie with the pastry leaf on it.
+
+---
+
+Karis waited until they had all eaten something before she brought out her sheet. Then it came across the table to Cael riding on the cheese board, as plainly as a passed butter dish.
+
+"I'd like it understood," she said, "that this isn't a present. You asked me for it long ago, at Greyvane, and I never finished it. I've finished it. Today seemed as efficient a day as any to hand it over, and that's the whole of the reason."
+
+He unfolded it.
+
+It was a chart. A line of time ran along the bottom, with his Kindling at its left-hand end and this month at its right. Six marks stood on the line, one for each fragment. Beside each was its date, and the gap to the next one, and how long it had taken to settle. Over every mark she had written its price in her small upright hand, sorted under four heads of her own invention, which a little key at the foot of the sheet explained.
+
+*At once*: what it cost on the day. *After*: what it cost in the days that followed. *Running*: what it went on costing, for as long as it went on. And the last, which she had headed *Owing*.
+
+Under *Owing*, five of the marks had nothing at all. Above the sixth, in the fourth column, in her small hand, were two words: *see holder.*
+
+"Your question was whether the line climbs," said Karis. "Whether there's a shape to it. There isn't. Four bunched together, then a long empty stretch, then two more inside a year. The costs don't rise with the size of the thing, and the gaps don't follow anything I can lay a rule against. So the answer is that there's no pattern yet." She folded her hands. "I'm putting that in writing. Neither of us is any good at treating *no pattern* as though it were an answer, and it is one."
+
+He read the legend twice. Then he read the fourth column again.
+
+"What's *see holder*?" said Lira, leaning over to look.
+
+"It means," said Karis, "that the only person who knows what's owed on that one is the person carrying it." She did not look at Cael. "So that's where you'd have to go, to find out. To the holder."
+
+"That's grim," said Brom, "for a birthday."
+
+"It's accurate for a birthday," said Karis. "Those aren't the same."
+
+Cael folded the chart along its crease, very carefully.
+
+"Nobody's given me anything better this year," he said.
+
+"I know," said Karis gravely. "I checked."
+
+Brom had taken a pear out of its paper and was holding it in his palm, looking at it with the expression of a man consulting an old enemy.
+
+"At Velmere," he said, "there was a fork for pears."
+
+"You've told us about the fork," said Lira.
+
+"I've told you about the fork. I've never told you about my sister and the fork." He turned the pear slowly round in his fingers. "She was thirteen. I was eleven. It was the big dinner at the turn of the year, with the long table out to its full length and my grandmother at the head of it, and the guild people up from the coast all down both sides, and a footman behind every second chair. And at the end of the dinner the pears came round, on the silver, each one with its own little fork beside it. Three tines, very sharp. You were meant to hold the pear down with the fork and cut it with a knife, in slices, and never once touch it with your fingers."
+
+He held up his pear between finger and thumb.
+
+"My sister had been looking at that fork all the way through dinner. And when her pear came, she put the fork down on the cloth, very neatly, right beside her plate, where everybody could see it. And she picked the pear up in her hand. Like this. And she bit it."
+
+Karis had stopped with a walnut halfway to her mouth.
+
+"Twenty-two people," said Brom. "I counted them afterward, in bed. Twenty-two people round that table, and every one of them stopped talking. You could hear the candles. My grandmother put down her glass. My mother went white to the lips. And my sister sat there with pear juice running down her wrist into her good cuff, and chewed, and swallowed, and said to the whole table: *it tastes exactly the same.*"
+
+Lira laughed out loud, suddenly and helplessly, with her own pear halfway to her mouth.
+
+"And your grandmother?" said Karis.
+
+"Nothing, for a long time. Then she took up her own pear, in her hand, and bit it, and said *so it does*. And then everybody did, all twenty-two, the guild people and all, sitting there in their good coats with the juice running down their wrists." Brom bit his pear. "That was the night I found out other people ate pears with their hands. The next year there were no forks. Nobody ever said a word. My sister's in a guild house by the sea now. She writes about once a season, and she's never once mentioned it, and I don't think she even remembers. It's still the bravest thing I ever saw anybody do at that table."
+
+He ate his pear. After a moment Cael took one from its paper and ate it too, with his hands, and it tasted exactly the same.
+
+---
+
+Then Lira reached under her own chair and brought up a parcel that had plainly been hidden there for some days, by more than one conspirator.
+
+Brown waxed linen, squared off neatly, and round it the knot that had closed every parcel ever to leave the workshop on Fen Street. It was a surveyor's hitch with the tail tucked back under itself, so that one pull on the tail opened it and nothing else in the world would. Cael had watched him tie it a thousand times. He had never once seen it come undone on a road. His fingers were not steady on the tail, and it took him two tries.
+
+In it lay a box of pale pine, unvarnished, its corners dovetailed. Hesk had plainly made it himself in an evening, with the tools on the bench, and had not troubled to make it look like anything but what it was. Inside the case, on a bed of green baize, lay a drafting pen.
+
+It was steel, and it was an instrument-maker's pen, not a stationer's. The barrel was plain and round, with no ornament on it anywhere. When Cael lifted it out and laid it across his fingers he found that the balance had been set a little forward of the middle, so that it settled down into the curl of his hand of its own weight, as though it had been made for that particular hand. It had. The nib had been ground to a fine, even line, and a spare nib lay in a slot cut into the underside of the lid. Near the point, just where the fingers held it, a narrow band of the steel had been left unpolished, so that in the dark the fingers would always know where to go.
+
+Folded beneath the case lay a single sheet in Hesk's hand. The hand had grown larger since Cael left home, and it was every bit as exact.
+
+*Sixteen. Your grandmother held you the day you were born and said you had watchful eyes. She was right about everything else, too. Write it all down. — H.*
+
+Nobody said anything. The good lamp hissed softly to itself. Down on the river a barge called its long note and its two short ones, and another answered it from the bend.
+
+"Brom," said Lira at last, in a voice that had gone a little rough at the edges, "is there any more of that pie?"
+
+There was more of the pie.
+
+Cael did not eat any of it. He sat with the note open on the table in front of him, beside the pine case, and read it again, and then a third time, and on the third time he found that he was saying something aloud without having decided to.
+
+"I never knew her," he said. "My grandmother. Hesk did. In all the years on Fen Street he hardly said a word about her. Now and then a line in a letter, about what she'd have said, or how long she'd have laughed. That's all I've ever had of her. What she'd have said." He touched the note with one finger. "And now this. *She was right about everything else, too.* I don't know what everything else was. I don't know a single thing she said, except this one."
+
+Nobody answered him for a moment. It was not the kind of thing that wanted an answer at once.
+
+"Then you know one more thing about her today than you did yesterday," said Karis at last. "That's how you build anything. One line at a time. You taught me that." She pushed the pine case an inch toward him. "Write it down. The way he says."
+
+"I will."
+
+"Tonight," said Lira. "Not someday. Tonight. Before it goes soft."
+
+"Tonight," said Cael, and put the note inside the case, on top of the baize, under the pen, where it would be the first thing he saw whenever he opened the lid.
+
+The lamp had burned down to a blue bead before anybody moved. Karis and Lira fell into an argument about next year's tournament, and the qualifying rules, on a point that neither of them had the papers for. Karis quoted articles. Lira, who never wrote anything down, recited the closing standings of the last three Copper seasons from memory, top line to bottom, to win it, and won it. Brom told Karis that she could not possibly be right about something, and was asked what, and could not remember what, and the two of them laughed until Karis had to put her head down on the table.
+
+Nobody spoke of the stair. Nobody spoke of the debt.
+
+Cael sat with his back against the wall, with Hesk's pen in his breast pocket and Karis's chart folded inside his coat, and watched the good lamp turn the long scarred table into a place where people lived. Somebody who was not Hesk, in a house nowhere near Fen Street, had kept his day for him, and until tonight he had not known that such a thing could happen. He had turned sixteen at some hour before dawn, and gone through a whole day of lectures and floor sheets without its once seeming to matter. Then three people had decided that it mattered, and gone to some trouble about it. There was no column in any book he kept for what that was worth.
+
+He put it in anyway, later. That was the whole of the discipline.
+
+---
+
+Late that night, at the window, he took out Hesk's pen and sat with it for a while before he wrote anything at all.
+
+He thought about where he had been at the start of this half-year: across a desk from Bracken at intake, while the registrar took ninety-four minutes over his papers and then wrote, at the end of it, the first true sentence anybody had ever written about him. Since then Lira had climbed a ladder that had been built for somebody else, Copper Rank Two on a certificate that would have put her at Iron in any honest registry, and stood on its top line. Brom had been taken apart on purpose, and had come out the far side of nineteen dull exercises and gone round again from the first. Karis had found a clause, and a chart, and a way of saying *I don't know* that was harder to argue with than most people's certainty. And a quiet man at a copying table had stood in a doorway in the light and spent everything he had, and never once looked down a flight of stairs.
+
+None of that needed writing. It was all in the Log already, in its place, dated. What the inventory was for was the other thing: what he had, tonight, and what it cost. So he began.
+
+It ran better than any pen he had ever held, and he set that down first, since it was true, and Hesk would want to hear it. *Balance forward of the middle. The hand doesn't have to hold it; it holds itself. I could write till morning.* He looked at that for a moment. Then he thought of Hesk at the bench, with a file and a lamp and a scrap of steel, setting the balance for a hand he had not seen in a long while, from memory, and getting it exactly right. He wrote that down too: *He set it for my hand without my hand there.*
+
+Then the inventory, laid out as the Log had always laid it out: what, and from whom, and at what price.
+
+*Six confirmed fragments.*
+
+*Wind, from Lira. Four bursts free on timber, three on stone. Costs the landing beat, the half-breath of being set in place like a peg, which in all this time has not shrunk by a hair. And the hip, which sends its account the next day for the fourth.*
+
+*Pressure, from Feryn. Kept, and used almost never. Push it into anything that turns it, and it comes home to me. I knew that in the first year, and I've never stopped counting it.*
+
+*Iron, from Brom, Copper on his card and Iron by every honest ledger. The surface read. Back on time after four days off the counting, three times running: confirmed. It won't share a room with the newest one. Paid for out of the same purse as everything I do with my eyes.*
+
+*Compression, from Reydan. Takes a blow and hands it down into the floor. After a heavy load, four mornings to come right, not two. Of the six, the one that's stood between somebody else and a hurt.*
+
+*Ember, Karis's. Consented to on paper. Already on Greyvane's record, which makes it the one I can show a panel without a second thought.*
+
+*Shadow, Bronze tier, the first notice ever to name one. Eighteen days old. A hiding half and a moving half. Used: never. Price: running, from when I wake to when I sleep, whether I touch it or not. See the working ledger. And Karis's chart, column four, which reads* see holder *and will go on reading it for a long while.*
+
+Then the line he always wrote last, below the six, for the thing that was not one of them.
+
+*Not counted. Session nine, Ardenmere: something Tide-like, once, for less than a second. Tried it again tonight, as always. Can't make it come; can't say what it was.*
+
+*Still open. Still real. Patience.*
+
+Last of all he went back up to the head of the entry. In all the Log's pages he had never once written an entry's date out in full. He did it now, with Hesk's pen, slowly, so that every stroke would be the pen's best: *The eleventh of Sowing.* And under the date he wrote the last lines of the half-year.
+
+*Sixteen. Six fragments. The Compact's best watcher watching out for me instead, and no way to thank him for it that wouldn't burn him. Semester evaluation in seventeen days. Whatever the system sends to watch it — we're ready. We built ready.*
+
+He blotted it. Then, before he could think better of it, he turned to a fresh page at the very back of the Log and wrote one line more, the one he had promised Karis and Lira at the table.
+
+*Grandmother: watchful eyes, her phrase, and true. Everything else she was right about: unknown. Ask.*
+
+The last word stayed.
+
+After that he wrote to Hesk, on a single sheet, by the low lamp, with the steel pen. He kept it short, because Hesk read the short ones more than once. He said the parcel had come, and the knot had held all the way from Fen Street, and that he had opened it with one pull, the second time. He said the balance was right for his hand. He said there had been a lamp that did not smoke, and a pie with a leaf on it, and pears, and that Lira had asked him for the date a year ago and he had not known until tonight. He did not say anything about a stair. Then, at the bottom, under his name, he wrote: *Thank you for telling her.*
+
+He folded it, and wrote Hesk's name and Fen Street on the outside, and laid it on the table for the first coach, and laid the pen back in its pine case, and closed the lid. Along the passage, through the thin wall, he heard Brom say something, and Karis answer, and Lira laugh at both of them. Then three doors closed, one after another, as people went to bed.
+
+Far down at the ferry landing the fourth hour's change was being made under the lamp, two grey coats going and two coming, the same as every night since the bridge. Cael watched them do it, and wrote nothing, and went to bed himself.
+
+---
+
+## FORMULA ALIGNMENT — EDITORIAL, NOT BLIND
+
+# O'Connor 1.3.0 — numerical author formula
+
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+
+Source: /Users/drive/penname/research/ironprince-craft-formula.md
+Source SHA-256: 9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8
+
+The following craft sections (2–6, 8–9) are included verbatim. Sections 1 and 7's legal discussion is not drafting guidance. Use original names, world, systems, events and phrasing; the owner names the cast.
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+
+
+---
+
+## NUMERICAL REVIEW
+
+# Numerical formula alignment — after the movement
+
+This is an informed editorial pass, not a blind cold read. Read the supplied
+formula and full movement, then report target, observed result, method, coverage
+and uncertainty. Keep numerical alignment separate from reader scores.
+
+- Sentence mean, median, population standard deviation; shares ≤5 and ≥40 words.
+- Written paragraph mean/median and actual scene/section boundaries. Compare with
+  the requested targets, but do not equate typography with ASR pause segmentation.
+- Flesch Reading Ease and Flesch-Kincaid grade. Identify the sentence tokenizer and
+  syllable estimator; proper names/system terms can affect estimates.
+- Progression vocabulary hits per 10,000 words, and placement by equal word-count
+  book thirds once available. Define a project-specific lexicon before counting;
+  do not borrow the source novel's names. An incomplete book cannot confirm the
+  full front-loading ratio. Report provisional cumulative coverage instead.
+- Lead development moments and supporting-cast distribution: cite actual choices
+  or realizations and distinguish manually identified beats from regex proxies.
+- POV word share: identify viewpoint segments, not the most frequently mentioned
+  name. Track the lead and secondary viewpoints against the book-level allocation.
+- Secondary signals: -ly words, reporting verbs, combat terms, fillers and repeated
+  phrases. Publish lexicons and counting definitions. A suffix count is not proof
+  that every matched word is an adverb. Preserve optional/non-target distinctions.
+
+Use reproducible counts when tooling exists. Otherwise mark a metric UNMEASURED;
+never estimate a precise score by intuition. Save the method or command with the
+report so later runs use the same definitions. Inspect ASR reference limitations
+without discarding the owner's chosen drafting targets.
+
+Locate meaningful departures, especially uniform sentence lengths, missing short
+beats, reading level drift, dense paragraphs, late teaching or a coequal second
+lead replacing the requested POV shape. Consolidate the most important repairs
+with continuity findings into the existing bounded author repair. Protect exact
+owner text and successful scenes. Do not iterate indefinitely to hit decimals or
+hide irreconcilable targets. Bring consequential formula conflicts to the owner.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/EDITION_BRIEF.md
+
+# The Fractured Path — Monroe Jackson 1.3 edition (O'Connor 1.3 seat)
+
+Owner direction, 2026-10-01: rewrite the whole Fractured Path series through the
+O'Connor 1.3 seat on the Monroe Jackson 1.3 foundation, with Claude Opus 5.5 as the
+manuscript author, at about 300,000 words per book. When a book is complete, render
+every chapter through Breeze and publish it as a new edition. The current edition
+stays exactly as it is; this edition is new and recoverable.
+
+Public byline: Monroe Jackson. Seat: `oconnor` 1.3.0. Foundation: Monroe Jackson 1.3.0.
+Requested author: Opus (Claude Opus 5.5). Coordinator: this orchestrator session.
+Review seat: Sol (gpt-5.6-sol via `codex exec`) — a different model family from the author.
+
+## What "rewrite" means here
+
+This is a retelling at full length, not a copy-edit. The prose is new. The story is the
+same series.
+
+**Keep (canon — binding):**
+- Every book's spine: the major events, their order and outcomes, who lives and dies,
+  the ending state, ages, the calendar where later books depend on it.
+- Cael's fragment acquisitions — which fragment, in which book, under what engagement —
+  and the counts at each book's close. The system notice texts that later books quote.
+- The SECRET reveal schedule in `universe/CANON_RULES.md` and every reserved truth. A
+  rewrite may plant more; it may never disclose earlier than the schedule.
+- The universe rules, costs and limits in `universe/UNIVERSE_BIBLE.md`.
+- Relationships and their turning points as the existing books establish them.
+- Lines a later book quotes or calls back (log entries, notices, signature exchanges).
+  The book planner lists these as protected wording.
+
+**Change (the point of the edition):**
+- Length: about 300,000 words per book (owner). The existing books are 100–125k. The
+  extra ~190k comes from: developed fights given room (1,500–2,500+ words when the
+  changing problem earns it); learning encounters and training that show effort turning
+  into capability; events the current edition summarizes, put on the page; supporting
+  cast given private wants, independent decisions and arcs across the formula's 8–10
+  person cast; humor and warmth between people; brief POV cutaways; new episodes that
+  fit canon and do not alter any book's end state.
+- Shape: open-range movements of six or more chapters, one compact brief per movement,
+  no per-chapter cards or per-chapter gates. Roughly 55–65 chapters of ~5,000 words per
+  book in 7–9 movements; the author owns chapter boundaries.
+- Rhythm: the owner-selected numerical formula (compiled into every prompt). Baseline
+  of the current edition, measured by `tools/formula_metrics.py`: sentence mean ~17.5
+  (target 14.6), paragraph median ~44 words (target ~18), Flesch RE ~67 (target 72.3),
+  FK grade ~8.3 (target 6.8). The edition should move toward the targets.
+- POV: about 87% Cael, about 13% brief purposeful cutaways spread over 4–5 named
+  characters. Cutaways may never reveal what a reserved-truth boundary withholds.
+
+## Non-negotiable
+
+- **Reader Standard (Gate 27, owner):** written for a thirteen-year-old. Clean language
+  (no profanity, obscenity, crude slang or blasphemy, including "damn", "hell" as an
+  oath, "bastard" and softer cousins); moral goodness (honesty, courage, loyalty,
+  restraint, care for the weak, at a cost; wrong named as wrong; cruelty never
+  rewarded); violence with cost, fear and consequence and no gore; no sexual content
+  or innuendo. Outranks every voice preference. See `craft/VOICE_CHARTER.md` end section.
+- **Names:** keep every existing canon name. The registry's flagged collisions
+  (Vell/Velmere, the -vane cluster, Wray/Greyvane, Bracken/Brom) are the owner's call
+  and are NOT renamed in this edition. New minor characters the expansion needs may be
+  named by the planner, screened by ear against `craft/NAME_REGISTRY.md`, and listed
+  under "Names pending owner approval" in the book map. Never invent a name for an
+  existing canon role.
+- **Audio-first:** this ships as an audiobook. Clear referents, clear attribution,
+  names distinct by ear, punctuation that exposes meaning.
+
+## Where things live
+
+- Canon (read-only for this edition): `universe/UNIVERSE_BIBLE.md`,
+  `universe/CANON_RULES.md`, `universe/STATE_LEDGER.md`, `craft/NAME_REGISTRY.md`,
+  `craft/VOICE_CHARTER.md`, `series/THE_FRACTURED_PATH_SERIES.md`.
+- Source edition (the story being retold): `books/<book>/CHAPTER_ARCHITECTURE.md` and
+  `books/<book>/chapters/chapter-NN.md`. Read them for events, not for sentences.
+- This edition: `editions/monroe-1.3/<book>/` — `BOOK_MAP.md`, `STATE_LEDGER.md`,
+  `packets/MOVEMENT-NNN.md`, `manuscript/chapter-NN.md`, `state/movement-NNN/`.
+- Series-level edition maps: `editions/monroe-1.3/SERIES_MAP.md`, `CHARACTERS.md`.
+- Metrics: `python3 editions/monroe-1.3/tools/formula_metrics.py <chapters...>`.
+
+## Rhythm calibration (measured, 2026-10-01)
+
+Book 1 Movement 1 — the first movement drafted from this brief — overshot the formula in
+the short direction: sentence mean 8.8 words (target 14.6), 41% of sentences at five
+words or fewer (target ~28%), 0.3% at forty-plus (target ~3.3%), Flesch-Kincaid grade 2.8
+(target 6.8), about 106 dialogue tags per 10k words (target ~41). Paragraph median (15)
+and scene spacing were close. So, when drafting:
+
+- Let thought, action and description run in full, well-built sentences. Compound and
+  complex sentences with a clear hierarchy are the house texture, not the exception.
+- Join a run of three or four clipped statements into one sentence when they are one thought.
+- Keep short sentences for beats that land — a recognition, a hit, a turn — not as default.
+- Give each chapter a few deliberately long, readable sentences (forty words or more)
+  where an action or a thought earns the length.
+- Drop "he said" / "she said" when the paragraph already makes the speaker clear.
+- Keep short paragraphs (median ~18 words) and scene breaks about every 950 words.
+
+## No scripted prose surgery (2026-10-01)
+
+Rhythm and length repairs are done by reading, sentence by sentence, never by a script that
+splits sentences or paragraphs at clause or sentence boundaries. Two repairs did that and
+each needed a recheck to find the splits that broke a thought. Where the formula and a
+character's speech disagree, keep the speech: one-to-three-word dialogue lines and the short
+landing beats of a fight are not drift to be repaired.
+
+## Working ranges and accepted drift (coordinator, 2026-10-01, after five repairs)
+
+Five movement repairs show three of the formula's numbers pulling against the brief's other
+asks (full sentences as house texture, speech kept as people speak, paragraphs broken where the
+thought turns). Repairs that chase one of them push another out. So, until the owner rules
+otherwise, these are the working ranges a movement is held to, and repairs aim at them — not at
+the decimals:
+
+| Measure | Formula target | Working range | Why |
+|---|---|---|---|
+| Sentence mean | 14.6 | 13–15.5 | primary target — keep |
+| ≥40-word share | 3.3% | 2.5–4.5% | primary target — keep |
+| Words per scene | ~950 | 850–1,050 | primary target — keep |
+| ≤5-word share | 27.7% | up to ~34% | dialogue-heavy movements; short speech is kept |
+| Paragraph median | ~18 | up to ~30 | the 18 is an ASR pause proxy, not print; long cutaways run longer |
+| Flesch-Kincaid grade | 6.8 | 3.5–6 | clear short words; the syllable estimator is approximate |
+
+Measured drift outside a working range is reported in the movement's review; a repair is for
+the primary three and for concrete defects.
+
+## Source-reuse gate tightened to 8 words (coordinator, 2026-10-02)
+
+The 10-word gate let distinctive source phrasing through in 6–9-word fragments (the first
+movement's opening line, for example, echoed the current edition's). Measured at 8 words, movements
+written after authors began self-checking run 1–6 shared runs per 10k; the worst ran ~30. From now
+on `ed.sh overlap` and every editorial review use runs of **8 or more** words. Every listed run that
+BOOK_MAP does not protect is rewritten — re-composed, not a synonym swapped. Names, Path names,
+ranks and plain facts of canon will sometimes share a short run; re-compose the sentence around them.
+Movements closed under the 10-word gate get one book-level 8-word sweep at book completion.
+
+## Draft from your own event list, not from the source page (coordinator, 2026-10-02)
+
+Book 3 Movement 6's review found the retold scenes in ch42–44 to be close paraphrase: 23–32% of
+sentences followed a source sentence word for word in order, with words varied enough to pass the
+8-word gate. Everything the author invented was clean. The cause is drafting with the source open.
+So, for every movement:
+
+1. Read the source chapters the packet names, once, for what happens and who these people are.
+2. Close them. Write a private event list in your own words — what happens, in what order, who
+   wants what, what changes. Keep it in your working notes, not in the manuscript.
+3. Draft from that list and the book map. Do not reopen the source chapters while drafting.
+   Choose your own entry point into each scene and your own order of beats; the source's scene
+   shape is not canon, only its events are.
+4. Only protected wording (BOOK_MAP) is copied, exactly, from the map — not from the source page.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-04-copper-crown/BOOK_MAP.md
+
+# BOOK MAP — The Fractured Path, Book 4: Copper Crown (Monroe Jackson 1.3 edition)
+
+Seat: O'Connor 1.3.0 (`oconnor`), foundation Monroe Jackson 1.3.0. Public byline: Monroe Jackson.
+Planning seat model: Claude Opus 5.5 (`claude-opus-5-5`), as reported by the runtime. Requested manuscript author: Opus.
+Plan date: 2026-10-01. Status: PLAN ONLY. No manuscript prose exists for this edition.
+
+Source of record for events: `books/book-04-copper-crown/chapters/chapter-01.md` … `chapter-24.md` (≈124,000 words; prose governs where it differs from `CHAPTER_ARCHITECTURE.md`). Canon: `universe/`, `series/THE_FRACTURED_PATH_SERIES.md`, `craft/NAME_REGISTRY.md`, `craft/VOICE_CHARTER.md` (Reader Standard). Book 3 close and Book 5 open were read for the seams.
+
+**Shape at a glance:** 9 movements · 62 chapters · 300,000 words · average ≈4,840 words per chapter · no movement over 39,000 words.
+
+---
+
+## 1. Entry state and ending state (binding)
+
+### Entry (Book 3 close, drafted prose — B3 Ch23–24)
+
+- **Where/when:** Greyvane Academy, end of the semester of the adjudication. The ruling is public and *jurisdictional* (the Compact has not established authority to void the enrollment). Naveth has re-papered the enrollment internally. The observer workaround is spent.
+- **Cael:** fifteen. Five confirmed fragments — Wind-adjacent (Lira), Pressure-adjacent (Feryn), Iron-adjacent (Brom), Compression-adjacent (Reydan), Ember-adjacent (Karis, consented, *Acquisition: directed*) — plus the Tide-adjacent anomaly (session nine, B2), uncounted. Wind working ceiling: three bursts free, the fourth costs the next day (measured on stone).
+- **Knowledge of the mechanism:** Lira, Brom, Karis only. Quenna has theories she has refused to write down.
+- **Karis:** her search for a *positive* basis is unfinished — "I've found the shape of where it should be… It's a next-year problem."
+- **Compact posture:** visible, resourced rotations (five faces at Greyvane's gate; one works mornings only). A faceless senior file has been opened on "a schedule's" designation (B3 Ch23). Coss has filed his last honest report and walked out of the file.
+- **Open promises:** Edran's rematch ("Next semester. Same terms."). Prynn's shelf gap. Vell's reply pending. Hesk: "Keep finding people who see you clearly."
+- **The copied passage:** the [UNBOUND] marginal note sits in Karis's coat and in Cael's notebook (B3 Ch19). Unread and unexplained.
+- **The four at the wall:** "I have five things that aren't a Path… This might actually be enough."
+
+### Ending (Book 4 close — must match the source and Book 5 Ch1)
+
+- **Cael:** sixteen (turned on the page, the eleventh of Sowing). **Six confirmed fragments + one anomaly.** The sixth is **Shadow-adjacent, Bronze**, acquired directed and non-combat from Seln during the records-hall counter-intrusion. Deployment: none. It is held at zero under observation; its idle state runs continuously; the two components are mutually exclusive in his hands. Wind ceiling now **six** free (up from four at the baseline); landing beat unshortened.
+- **Standing:** assay-provision enrollment **renewed** at the semester evaluation, with the delegation observing. Gault's note: growth confirmed in five measures, one flat (plate dispersal).
+- **Lira:** **Wind Path, Iron-tier, Rank One, formal**, by Arbiter advancement evaluation at the Ostrand registry station. The Copper Crown is retired on the residence shelf.
+- **Brom:** Copper formal; seam "repaired" by Rooke's method (he stops finishing the absorption); standing high in Rooke's cohort; he lost the final by one beat.
+- **Karis:** Iron Rank Three. Provision architect. Her notebooks are moved to a named upper-floor reading room before the archive sweep. The tournament fielding clause is copied and banked with one word: "Interesting."
+- **Seln:** still at his desk, nominally Compact and functionally theirs. Null reports only. The quarterly closes "Continuation of embedded coverage recommended." The private file is in the locked case. **He does not know the mechanism or the acquisition.** No confession, no declaration.
+- **Vastin:** introduced, evaluating, never villainous. One direct conversation (the interview). File note signed with his own name: *Classification error is unlikely. Continue observation.*
+- **Ilsev:** her Level 4 referral is returned unanswered and she files a second, escalated one level. **Havel:** a fourth entry in his private notebook.
+- **Institution:** the inspection finding is filed (full compliance, basis sound, documentary practice complete, one fire-watch remark). Halcenvane will contest next year's qualifying season.
+- **Watchers:** two at the ferry landing and two at the bluff road's foot, changing every four hours, unchanged since the hearing.
+- **Unresolved by design:** Jessup's client ("private interest, not Compact pattern"); Fiske still Copper Rank 8; Vell's session unclaimed; Reydan's find-me-later; the Iron Skin watcher; the market stranger; Hesk's history; Coss's grade.
+
+---
+
+## 2. The spine — every major source event, in order (all KEEP)
+
+Chronology note: the source presents the Fiske seeding bout (Ch10) before the pin incident (Ch11). The pin happened "in the last week before the fifteenth ladder session," and the Fiske bout *is* the fifteenth session. This edition stages them chronologically: pin, then Fiske. Nothing else moves.
+
+| # | Event (source ch.) | KEEP |
+|---|---|---|
+| 1 | Final Greyvane term, compressed in the source: Karis finds the assay clause (wk 3) and proves it orphaned, not repealed, over eleven weeks; Bracken's twenty-two letters; Withrow's counsel seals the verification; the Edran rematch (wk 20, Cael by one exchange); Quenna's single sentence; Prynn's index at the gate (Ch1) | KEEP — on the page |
+| 2 | Road south: seven faces, five rotations, "two men and a horse-change every eighty miles" (Ch1) | KEEP |
+| 3 | Ostrand and the bridge; the gate list; four-desk intake; Lira's flag "transfers into a queue"; Bracken's 94 minutes; "It's the first one that's true"; log "Enrolled…" (Ch1) | KEEP |
+| 4 | Eleven days walking the bluff; the method breaks at nine to twelve subjects, and triage is born; the four boards; ladder rules; no purses ("standings are the currency"); the Gold fellow outside the count (Ch2) | KEEP |
+| 5 | Karis on the tournament; Withrow's ledger ("I read the hearing transcript four times…"); Rooke's minuted objection; the fame problem's eleven versions (Ch2) | KEEP |
+| 6 | Four tracks; Brom "I found the wall. It has students."; Ephram's false-feed exploitation; Rooke "most expensive habit"; Lira 9–0 in practice; Fiske at the board; Lira's systems insight; sprung floor; Lattice blinds the surface read; eleven supervisors cross over at about fourteen minutes; Karis's research terms (Ch3) | KEEP |
+| 7 | Baseline doctrine (Lira's answer: the two capabilities on the public record); baseline demonstration of six trials; the withheld plate; Gault's note and his boundary; rumor in four hours; Ephram's public deferral (Ch4) | KEEP |
+| 8 | Seln window: the brief, the cover, the case, positioning; the copying table; residence cards; "New TA… Filed." (Ch5) | KEEP |
+| 9 | Glance count; 0 of 7, then 0 of 31; failed maps; "Where would I stand?"; nineteen of nineteen; tests; "He needs a crowd."; "Avoidance at that precision is aim."; council and three agreements (Ch6) | KEEP |
+| 10 | Seln window: first product; Gault's office; made on day 23; keeps working; "who taught him to watch" / Cael charts Shadow as a distributed declaration, a tax rate, a fatigue curve / the schedule-error test: "We're playing now." (Ch7) | KEEP |
+| 11 | Brackets post; Lira 11 seconds over Nyle and the silent yard; Fiske's nod; Brom stops redirecting to beat Merrick; "Again. Slower. Watch yourself."; standings math; Part 1 log (Ch8) | KEEP |
+| 12 | Karis's formal finding; the two-hour debate; Brom's "weapon you're learning"; Cael's three rules; the sleepless method-failure; dawn Compression drill; log One–Four (Ch9) | KEEP |
+| 13 | Lira alone at the board at the fifth bell; rounds 7–8; Brom loses to Tarn; Rooke's nineteen exercises dated to the final (Ch10) | KEEP |
+| 14 | The pin: Jask's jammed release; Wind forward-and-across plus Compression; the true incomplete answer; the incident report; Seln's exception report shaped to survive audit — "drawer open" (Ch11) | KEEP |
+| 15 | Fiske seeding bout (15th session), four exchanges each more honest than the last; Fiske's speech; Lira repeats it verbatim (Ch10) | KEEP |
+| 16 | Seln's private file begun; the case opened; three null reports; the counter offer of the field-assessment unit; council; rotations unchanged for eleven days; Karis's "first observation I cannot fit" (Ch12) | KEEP |
+| 17 | Fire-watch list; records-hall intrusion; the unit's first session; nights one and two (the bankrupted look, the allocated sector, the scuff); night three: Seln "already arrived"; the reach; **the notice**; failed first use; Jessup; "private interest, not Compact pattern"; "A system that confirms you is a system that was listening." (Ch13) | KEEP |
+| 18 | Planned integration (misfire at 96 hours); Karis's "manageable, not safe"; idle-state leaks; trials with Brom; the debt; **the eleventh of Sowing** (Hesk's pen and note; Karis's chart); inventory (Ch14) | KEEP |
+| 19 | Notice of inspection read in the records hall; "His presence is the message"; Rooke's correction; the documentary defense; delegation pages (nothing on the eleventh name); Withrow's address; Ephram on the stair; Seln compiles six nulls; schedule posted beside the final (Ch15) | KEEP |
+| 20 | The final settles (Lira–Fiske semifinal; Brom–Merrick semifinal); nine days of no sparring; the three columns; idle slip in hall three ("You went."); Bracken closes the file; arrival — "New opponent. No tells. Begin." (Ch16) | KEEP — the semifinals go on the page |
+| 21 | Vastin window on the road; furniture moving; Havel's inch; facility review (read off on purpose); placement bout left before the result; Gault's three questions about calibration; the receipt stamp; taxonomy log (Ch17) | KEEP |
+| 22 | Charter session (provenance, supersession, transitional article); Ilsev's return and second referral; Havel's fourth entry; Ilsev's finding; Vastin's pen moves only on procedure; Cael drifts and Karis's foot finds him; "Why retire a working method?" (Ch18) | KEEP |
+| 23 | **The Copper final**, Lira over Brom in the fourth exchange; Fiske applauds first; "held it like an exhibit"; Gault files for advancement with Ilsev witnessing; "Third one someday." (Ch19) | KEEP |
+| 24 | Calibration night: Karis's band; Brom's "let it cost you"; regression trap; Lira's gap mechanism and "Be the fighter"; **the slip** learned and burned (Ch20) | KEEP |
+| 25 | **Semester evaluation:** the Ember surprise early; the logged interval; the flat plate; the detent fails and Cael aborts the displacement ("the clerk was standing where I'd have landed"); renewed; Vastin closes his notebook, opened twice (Ch21) | KEEP |
+| 26 | The interview: eleven questions; refusal in the open; "So I can't lie to myself later"; the twelfth not asked; "Wardens enforce…" / departure; Rooke's "Noted"; Ilsev's distinction; "Confused systems ask. This one checks." (Ch22) | KEEP |
+| 27 | Seln: file returns unmarked; quarterly; the corridor warning to Karis; notebooks moved; "Gratitude is the leak."; Karis admits she was wrong; last unit session / Vastin at the posting-house: two entries, the struck line, the file note (Ch23) | KEEP |
+| 28 | Lira's Arbiter evaluation, Iron R1; "They caught up."; crown retired; Ephram asks for next term; Withrow's address; Karis banks the clause; Hesk and Vell letters; inventory; the wall (Ch24) | KEEP |
+
+---
+
+## 3. Expansion plan — where the ≈176,000 new words come from
+
+Source ≈124,000 words retold at roughly equal weight, plus ≈176,000 of new room. Every item below serves the book promise ("the mid-tier academy as a real place with real stakes and real politics") or the arc (*I know what I can do* → *I need to understand why the system doesn't want me to be able to do it*). None changes an end state or opens a reserved truth.
+
+1. **The five-person cutaway system (+26k).** Source windows total about 13k (Seln ×5, Vastin ×2, Ilsev and Havel ×1 each). These grow to ≈39.8k across Seln, Lira, Vastin, Ilsev and Havel (see §5). *Why:* the formula's ~13% secondary share, and the book is about watchers. Each window shows a different grade of attention.
+2. **Lira's Copper season on the page (+18k).** The practice record (one developed bout); the climb rounds summarized as "six perfect afternoons" (two on the page, the rest compressed); round 7 against the Shield veteran (≈2k); round 8 against the cohort's Lira plan; the Fiske seeding bout at full length (≈3k); and the **Fiske semifinal**, which the source summarizes as "four exchanges again — harder ones, and one very long minute," staged as a developed fight from Lira's POV (≈3k). *Why:* the title object has to be earned in front of the reader, and the semifinal is the hip injury the final runs on.
+3. **Brom's Rooke curriculum (+12k).** His first cohort hour on the page; Ephram's false feeds learned from the gallery as a learning fight; the "worse for a season" sessions; the nineteen exercises counted by Karis (14 at M5, through to the final); Merrick and Tarn developed; the repair seeded so the final's reveal is fair. *Why:* the final is decided by a repair that worked, and the reader must watch it being built.
+4. **Cael's pre-acquisition learning arcs (+17k).** Triage, built after a failure; the Lattice null as a full learning encounter with the Lattice instructor and a pupil; the sprung-floor re-audit of every ceiling in the log; Compression drills; the counter-study of Seln developed as Path theory step by step (glance instrument, failed maps, overlay, tests, the tax rate, the fatigue curve, the discarded column). *Why:* front-loaded teaching (formula §4), and so the reader can price the sixth fragment before it arrives.
+5. **The final Greyvane term on the page (+14k).** Karis's week-three find and her eleven-week attempt to kill it; the first Bracken letters; the Edran rematch as a developed learning fight (≈2.5k: Glass Path half-beat recovery, one exchange over his rate, the hip); Quenna's one sentence; Prynn at the gate; the road. *Why:* it puts the inter-book skip on the page and hands the movement a fight in its first hour.
+6. **The inspection arc (+14k).** The documentary defense as craft ("an argument persuades a person; a file survives a person leaving the room"); delegation pages built from the library; the temperature week; the facility review; the charter session's full argument. *Why:* "real politics" — the institution holding still on purpose.
+7. **Shadow-adjacent after acquisition (+12k).** Weeks of learning to hold "ordinary"; idle-state rent; Brom as the instrument; gap drift found in rehearsal; the 80-day working ledger. *Why:* a power that costs rent and does nothing, earned honestly.
+8. **Seln's field-assessment unit on the page (+8k).** Sessions taught at eight feet: positional exercises, "a position is an argument about where attention will go," sight-line arithmetic, the closing exercise. *Why:* the relationship is conducted in tradecraft, and the unit is the only lawful room they share. See conflict C5 on session count.
+9. **Supporting-cast arcs (+18k).** Private wants and independent decisions for Fiske, Ephram, Rooke, Bracken, Gault, Withrow, Jask and Karis (§6). Small beats spread widely, per formula §5.
+10. **Set pieces given room (+21k).** The records-hall operation (three nights, ≈9k total); the Copper final (≈10k across two chapters); calibration night (≈5k); the semester evaluation (≈10.5k across two chapters); the interview (≈5k).
+11. **Halcenvane and Ostrand texture, humor and warmth (+8k).** The barge horns decoded; Brom's "man at the kitchen gate"; Karis's two registry offices answered (the district office holds the queue; the stations office is where Lira's evaluation happens); Karis's residence-card census; the porter; carrel eleven; the good lamp.
+12. **Lira's Arbiter evaluation from inside (+3k)** as a Lira cutaway. Ledgers, letters and the wall (+3k).
+13. **New episodes that touch nothing canonical (+2k across the book):** a unit session where Seln corrects two second-years in nine words each; one Fiske–Lira exchange after the semifinal.
+
+**Do not add:** any Ephram–Cael bout (Book 5 opens with their first floor work, and Ephram has asked for "next term"); any Velmere contact (Book 5 Ch11 makes the grandmother's letter the first); any Coss scene; any Daeva or Oryn reference.
+
+---
+
+## 4. Movements
+
+| Mvt | Chapters | Words | Source retold | Reason (one line) |
+|---|---|---|---|---|
+| 1 | 1–7 | 33,000 | B3 Ch23–24 (seam); B4 Ch1–2 | The skip on the page, a fight in the first hour, and the first true sentence ever written about him. |
+| 2 | 8–14 | 33,000 | B4 Ch3–5 | Four tracks, the instruments, and the baseline; the system taught hard; the watcher arrives. |
+| 3 | 15–21 | 33,000 | B4 Ch6–8 | The watcher watched; a Path charted from the outside; the season opens and the cage shows. |
+| 4 | 22–29 | 39,000 | B4 Ch9, Ch10 (board, rounds, Tarn), Ch11, Ch10 (Fiske bout) | The line drawn before the act; Lira's climb; the pin and the first omission; the Fiske bout. |
+| 5 | 30–37 | 39,000 | B4 Ch12–14 | What Seln keeps; the operation; the sixth fragment; its rent; sixteen. |
+| 6 | 38–44 | 32,000 | B4 Ch15–16 (+ semifinals on the page) | The Compact arrives on paper, then in person; the institution holds still; the final settles. |
+| 7 | 45–50 | 30,000 | B4 Ch17–18 | The evaluator; the ruler before the reading; the charter holds; the [UNBOUND] question is asked once. |
+| 8 | 51–56 | 31,000 | B4 Ch19–21, Ch22 (interview) | Crown, calibration, evaluation, interview: four days, each a measured room. |
+| 9 | 57–62 | 30,000 | B4 Ch22 (departure), Ch23–24 | Two men, two files; the corridor; they caught up; the year's ledger. |
+
+**Physical challenge or learning encounter per movement:** M1 Edran rematch · M2 Brom's first cohort hour, Ephram's false feeds, Lira sparring, the Lattice encounter, the baseline trials · M3 Lira–Cael falls, Lira–Nyle, Brom–Merrick · M4 dawn Compression drill, rounds 7–8, Brom–Tarn, the pin, the Fiske seeding bout · M5 the three nights, Shadow trials with Brom · M6 the Lira–Fiske semifinal, Brom–Merrick semifinal, the hall-three slip · M7 the facility-review drill run on the stub of the read, the placement bout · M8 the Copper final, rehearsal, the evaluation · M9 a deliberately quieter close. Its physical beat is the unit's last positional exercise and Lira's evasion sequence run cold at the station. *Reason:* the book's climaxes are spent; M9 is consequence and ledger, and the owner's "more action" is honored in M8's three set pieces immediately before.
+
+---
+
+## 5. POV plan
+
+Close third, **Cael ≈ 260,200 words (≈86.7%)**. Five cutaway characters at ≈39,800 total (≈13.3%), each between 2.5% and 3.3%. Windows are brief and purposeful, never alternating chapters. Each sits inside a Cael-dominant chapter.
+
+| Cutaway | Words (share) | Placement (chapter: words) | What the window may know | What it may never show |
+|---|---|---|---|---|
+| **Seln** | 9,800 (3.3%) | 14: 2,400 · 18: 2,000 · 28: 1,800 · 30: 1,300 · 41: 800 · 58: 1,500 | His brief, his cover craft, his Path's prices; what he *observed* (the pin's two components); his audit logic; his private file's existence; the unmarked file as "one of three" | Any sentence that names his motive or declares a side; the locked case's other contents (B6); the mechanism or the acquisition (he never learns it); the "colder country" posting beyond a phrase; the slip's wording beyond what Cael already holds |
+| **Lira** | 7,500 (2.5%) | 25: 1,000 (the fifth-bell board — she may know he was on the stair) · 42: 2,000 (the Fiske semifinal) · 51: 1,500 (morning of the final, the walk-out) · 60: 3,000 (the registry station) | The fragments (all six after Ch37); Seln as the watcher; the corridor (after Ch58); her Fenmark history; her hip | The slip (only Cael and Karis); Vastin's note; any escalation of the Cael–Lira relationship past what the source shows (warmth, not declaration) |
+| **Vastin** | 7,500 (2.5%) | 45: 3,000 (the road up; reading order; marginalia; his maxim; age per conflict C2) · 59: 4,500 (the posting-house; two entries; the struck line; the collector he helped end; the file note) | The record, what he saw, his own reasoning; "the record is doing something" as an unwritten thought | Detection of Seln's null-report pattern (reserved); any knowledge of fragments; Level 4's origin; any villainy, threat or warning (Book 5's); a maker or a will |
+| **Ilsev** | 7,500 (2.5%) | 47: 1,500 (facility review; her four questions about recording protocol) · 49: 2,800 (the return; the second referral) · 52: 3,200 (the final from the north tier; witnessing Gault's filing; "before or after") | The text, the return sheet, her own discipline of not reaching one clause past the evidence | Any guess at the designation's author; the mechanism; Seln |
+| **Havel** | 7,500 (2.5%) | 44: 2,400 (arrival up the bluff road; not looking up at the tier) · 46: 800 (the corridor inch, from his side) · 49: 1,700 (the fourth entry) · 51: 1,000 (off duty at the final) · 57: 1,600 (the seals at departure) | His four entries; Ardenmere's routing anomaly; being told to stand down; his inches of decency | Any link to the Book 1 market stranger or the B2 Iron Skin watcher (LOCKED: neither identified); Level 4's origin; anything above his clearance |
+
+**Per-movement cutaway words (share):** M1 0 · M2 2,400 (7%) · M3 2,000 (6%) · M4 2,800 (7%) · M5 1,300 (3%) · M6 5,200 (16%) · M7 9,800 (33%) · M8 5,700 (18%) · M9 10,600 (35%). Total 39,800. M7–M9 are deliberately the window-dense stretch: the apparatus is physically on the bluff, and source Ch23 is built as mirrored windows. The book-level 87/13 is the target that binds.
+
+---
+
+## 6. Supporting cast — private wants, independent decisions, beat budget
+
+Formula §5: the protagonist gets **≈135 growth beats** (4.5 per 10k; one about every 2,200 words), split roughly evenly with a slight middle bump: **≈38 / 51 / 46** across the thirds. By movement: M1 12 · M2 13 · M3 13 · M4 18 · M5 18 · M6 15 · M7 14 · M8 17 · M9 15. Supporting characters get many small beats each (0.1–0.7 per 10k = 3–21 over the book). No deuteragonist.
+
+| Character | Private want | Independent decisions on the page | Beats |
+|---|---|---|---|
+| Lira | To be *looked at* by the instrument that threw her away, not given anything | Registers late; wins the wrong crown on schedule; stops sparring Brom nine days out; uses her own wound as a mechanism; goes alone through the station door | 18 |
+| Brom | To be taught by someone who will make him worse first | Stops redirecting mid-bout; writes Rooke's words on his wrap; goes straight at the hip; carries the crown up; refuses Cael comfort in the corridor ("How far.") | 18 |
+| Karis | Never to run out of material; a finding that survives her | Fights for the institutional-work-product clause; discounts her own wants out loud; banks the tournament clause; admits she was wrong about instruments; stops herself asking about the slip | 18 |
+| Seln | (Never stated.) For the work to be *for* something | First omission; private file; the unit; the scuff; the allocated sector; the slip; the corridor | 15 |
+| Fiske | To be looked at; to hand the true sentence to someone who can take it | Hands it to Lira; applauds first; reads the certification and says nothing | 8 |
+| Ephram | An opinion he owns | Public deferral; revises at the inspection; admits the deferral was a mistake; asks Rooke for a supervised session next term | 7 |
+| Rooke | To be right in the correct forum, then to fix the thing | Minutes the objection; the nineteen exercises; corrects himself to Cael in the covered walk; "Noted." | 8 |
+| Bracken | Work that requires being good at the job to be true | Twenty-two letters; own clerk at the interview; certifies the season record *before* the final | 7 |
+| Gault | Instruments that stay true if someone senior wants a different answer | Refuses to decide what Cael is; defends the flat line; files for Lira | 7 |
+| Withrow | To have used the position for something before retiring | Takes the enrollment; refuses to move the final; owns the decision in public | 5 |
+| Jask | Not to be the story | Accepts a true incomplete answer | 2 |
+
+---
+
+## 7. Progression plan
+
+**Vocabulary** (this series' own): fragment, notice, integration, acquisition (directed), engagement, tier, rank, Copper/Iron/Bronze/Silver/Gold, Path declaration, bracket, standing(s), ladder, seed, ceiling, baseline, deployment, idle state, evaluation, advancement, classification, assay provision. Use the *log* and the *notice* as the system's voice. Interface text appears only where the canon calls for it: the fragment notice; Lira's certification; Gault's notes.
+
+**Density targets** (≈58 per 10k overall, front-loaded about 1.7x): **first third ≈83 per 10k** (M1 ≈80, M2 ≈90, M3 ≈80); **middle third ≈44 per 10k** (M4 ≈45, M5 ≈45 with the acquisition spike, M6 ≈30); **final third ≈48 per 10k** (M7 ≈35, M8 ≈65, M9 ≈55). After M3 the system surfaces only at genuine turns: the line, the pin, the notice, the evaluation, the Arbiter, the inventory.
+
+| Capability | Where it appears or changes | Cost / limit (keep comprehensible) |
+|---|---|---|
+| **Method: triage** (standing 8 / sampled / structural) | M1 Ch5–6, after the method silently fills gaps at 9–12 subjects | Admits a ceiling; three days of notes discarded |
+| **Wind-adjacent** | M1 Edran (four bursts, one over rate); M2 sprung floor cuts hip cost by about a third and opens a re-audit of every ceiling; M2 baseline (four free, sixth degraded); M4 pin (no directional preference — forward use put him inside the geometry); M8 evaluation (ceiling **six**); M8 the **aborted displacement** (once, unrepeatable) | Held half-breath; landing beat (locked, unshortened in three years); hip line crest to inner knee |
+| **Iron-adjacent read** | M2 Lattice: **no return, silently** → rule: "the surface read's silence is not information"; M3 degrades when the attention budget is spent (same fuel as the gaze); M4 refills at four days (confirmed at three instances); pin read "wrong shape"; M5 exclusive with the Shadow idle state; M7–M8 ambient layer vs reach at depth | Pace and a half; reads mass and vector, never intent |
+| **Pressure-adjacent** | M2 baseline and M8 evaluation: withheld at the plate (flat line) | Comes back at him off anything that redirects; the joint takes it instead |
+| **Compression-adjacent** | M4 dawn drill (9 sleepless / 11 rested at middle weight); pin: sprung floor returns a third; the bone hum; M5 recovery on day four | Half a breath at contact; forearm ache delayed a minute, running two hours |
+| **Ember-adjacent** | M8 thermal vessel, placed second as the one small early surprise | Contact, single instant, one channel |
+| **Shadow-adjacent (NEW, Bronze)** | M5 Ch34 acquisition (settles *outward*; a wick). First use fails totally, then headache, then the fire-watch speaks to him. Planned integration: Wind misfire at 96 hours. Idle-state leaks. Trials with Brom ("thin, like a signature under a blanket"). Masking fails because it needs the gaze, which switches suppression off. M6–M8 drift happens *in gaps*. Held at zero for three hours. Use: none | Continuous rent from waking; spends the same account as the read at depth; "a person who is hard to see is hard to help" |
+| **Tide anomaly** | Inventories only: M5 Ch37 and M9 Ch62 — "Still open. Still real. Patience." | Never reproduced, confirmed or counted |
+| **Doctrine** | M8 interview: refuse in the open rather than give a true sentence with a hole in it; "I'm going to stop calling it a habit" | — |
+
+**Others' progression:** Lira Copper R2 → Iron R1 formal (M9). Brom's seam (M2 found → M4 nineteen exercises → M8 reveal). Karis's standing (M2) and the archive sweep (M9). The ladder math (M3).
+
+---
+
+## 8. Fights and set pieces — planning allowances
+
+| Movement | Contest | Room | Kind |
+|---|---|---|---|
+| M1 | Cael vs Edran, full sanction (Glass Path, half-beat recovery) | 2,000–2,500 | Learning fight: he pays over his rate |
+| M2 | Brom's first cohort hour (Cael in the gallery); Ephram's false feeds | 1,500 + 1,500 | Learning |
+| M2 | Supervised slot vs Lira; the Lattice encounter | 1,500 | Learning encounter |
+| M2 | Baseline: six trials | 4,500 | Measured set piece |
+| M3 | Lira–Cael, two falls (read a beat late) | 1,200 | Learning |
+| M3 | Lira–Nyle (11 seconds); Brom–Merrick (5 exchanges) | 800 + 2,000 | Short / developed |
+| M4 | Round 7 (Shield veteran, 41 wins); round 8 (cohort's Lira plan) | 2,000 + 1,200 | Developed |
+| M4 | Brom–Tarn (loss) | 1,500 | Loss that buys knowledge |
+| M4 | The pin (a third of a second, sustained) | 1,200 | Hazard |
+| M4 | Lira–Fiske seeding bout (15th session) | 3,000 | High-stakes, developed |
+| M5 | Records hall, nights one to three | ≈9,000 total | Operation set piece |
+| M6 | Lira–Fiske semifinal (Lira POV, "one very long minute"); Brom–Merrick semifinal | 3,000 + 1,200 | Developed (new on the page) |
+| M8 | The Copper final, four exchanges with timed clocks (his four minutes, her three bursts) | 7,000–8,000 | Climax |
+| M8 | Semester evaluation, six trials, the fault, the void, the re-run | 9,000–10,500 | Measured climax |
+| M8 | The interview | 4,500 | Verbal duel |
+
+Track injuries forward: Cael's shoulder after the baseline (3 days) and again after the evaluation; the hip after the evaluation (3 days minimum); the Compression bone hum after the pin (day 4). Lira's hip from the semifinal (nine days into the final) and after the final (4 days off). Brom's knee from the final and the strapped knuckles. Rule from the seat: a learning fight leaves a correction that can be attempted again, and a loss buys knowledge, not a disguised victory.
+
+---
+
+## 9. Formula targets (owner-selected; active)
+
+Sentence mean 14.6 (median 11; wide spread, σ ≈26); **≈28% of sentences ≤5 words**; ≈3.3% ≥40 words. Paragraph median ≈18 words (mean ≈27). Scene breaks about every 950 words (≈5 per chapter). Flesch Reading Ease ≈72, FK grade ≈6.8. Current-edition baseline is sentence mean 17.5, paragraph median 44, FRE 67, grade 8.3. **The largest single change is paragraphs:** break early and often; keep the log entries as short paragraphs. Section 8 signals stay secondary ("that" below 92 per 10k; adverbs and dialogue tags moderate; combat vocabulary in the background throughout, ≈22 per 10k). Measure after each movement with `python3 editions/monroe-1.3/tools/formula_metrics.py`. Paragraph and scene figures are ASR-inferred proxies; development counts are heuristics.
+
+**Reader Standard (outranks voice):** clean language. The floor warden's oath in source Ch11 must *not* be rendered; keep it as "said a word Cael had never heard from staff." Moral clarity; violence with cost and no gore; no innuendo.
+
+---
+
+## 10. Protected wording (verbatim; later books quote or call these back)
+
+Callbacks confirmed in later books: Gratitude (B5 Ch1); Vastin's note and the twelve-by-fourteen room (B5 Ch2, Ch13); "No undisclosed capability observed." (B5 Ch5 echo); the file's question (B6 Ch9); Quenna's question learned (B5 Ch19); the Wind ceiling of six and the unshortened landing beat (B5 Ch1). Every other item is a signature line or document inside this book. Keep them all exact.
+
+**Documents and notices**
+- Enrollment record (Ch1): *Category: assay-provision practitioner: evaluation by demonstration per charter clause, standing basis.* / *Entry requirement: satisfied by demonstration before the assessment office, this term.* / *Ongoing requirement: full evaluation by demonstration before the panel of the assessment office, each semester, without exception. Compact observation rights attach.*
+- Gault's baseline note (Ch4): "Assessment of entry demonstration, assay-provision enrollee. Non-standard architecture. Execution consistent across trials. Baseline established; semester evaluation to measure against it."
+- Seln's brief (Ch5): *Visible rotation has produced conduct data of high volume and negligible value. Subject modifies observable behavior in response to observation with a consistency that suggests deliberate management rather than nervousness. Recommend covered coverage.*
+- First product (Ch7): *Subject's routine is disciplined and unremarkable. Trains under supervision… Extensive private notation habit… No undisclosed capability observed.*
+- Plate (Ch11): THE CORE MUST BE FREE BEFORE DECLARATION. CHECK THE PIN.
+- Incident report (Ch11): *Enrollee (assay provision) present at bay edge; moved to intervene; received the release on a guard arm; no injury reported. Third-year not struck.*
+- Seln's exception report (Ch11), ending: *…Response consistent with documented baseline.*
+- **The fragment notice (Ch13), exact:**
+```
+FRAGMENT ACQUIRED
+[unnamed] — Shadow-adjacent. Duration: sustained. Integration: partial.
+Tier equivalent: Bronze.
+Note: presence-suppression component; movement-masking component.
+Contact-to-short range.
+Acquisition: directed. Engagement: adversarial, non-combat.
+```
+- Assessment-office note (Ch13): *Pattern is consistent with private interest. Not Compact pattern.* / *Client unidentified; no further inference available on present material.*
+- Hesk's note (Ch14): *Sixteen. Your grandmother held you the day you were born and said you had watchful eyes. She was right about everything else, too. Write it all down. — H.*
+- Notice of inspection scope (Ch15): *…commencing on the twelfth day of Reaping… Scope: charter compliance; enrollment-basis review; observation of provision-status evaluations.*
+- The return (Ch18): *Determination: no originating authority of record. Designation predates file creation. No action available at this clearance.* Ilsev's grounds: *A determination that no originating authority exists is not a determination as to the designation's validity, and the designation remains live on an active file.*
+- Ilsev's finding (Ch18): "The clause is unrepealed. It appears in two independently certified copies of the founding schedule, is incorporated by the receiving institution's charter under a standard article, and is not among the eleven clauses the standardization directive repealed by name in a schedule its drafters had open in front of them. The directive's transitional article presupposes enrollments made under it. The enrollment before us conforms to the clause's language in its basis, its ongoing requirement, and its recording. Whatever else the delegation reports, the basis is sound law."
+- **The slip (Ch20):** *Panels see what they expect prepared for. Show growth where the baseline predicts it. Surprise them exactly once, small, early — a watcher who finds one thing stops hunting for a second.*
+- Gault's evaluation note (Ch21): "Growth against baseline: confirmed across all demonstrated capabilities… Consistency: within tolerance at every trial. Assay-provision requirement: satisfied. Enrollment standing: renewed."
+- Charter, fourth part, subsection eleven (Ch22): *An inspecting delegation may examine any enrollee whose enrollment rests on a provision or exception, in the presence of the institution's counsel and the officer of record for that enrollment, on the record, at a time set by the institution.* The room is **twelve feet by fourteen**.
+- Seln's quarterly close (Ch23): *Assessment of period: routine compliance. / No undisclosed capability observed. / Subject's conduct consistent with enrollment basis. / Continuation of embedded coverage recommended.*
+- Vastin's notebook (Ch23): *The Copper champion is Iron-grade. The bracket is the error. Recommend the advancement evaluation proceed unimpeded.* / *Frame fault, trial five. Correction preceded the audible release. ~~Capability exceeds classification.~~* (struck once, legible) / *Correction was sized to the hazard, not to the demonstration. Note the sizing. Not the speed.*
+- **The file note (Ch23; series bible verbatim):** *Classification error is unlikely. Continue observation.*
+- Lira's certification (Ch24): *Path: Wind. Tier: Iron. Rank: One. Advancement confirmed on demonstration and record. Prior classification superseded.*
+- Tournament charter (Ch24): *Participating academies shall field any practitioner appearing on their enrollment record.* — beside it, Karis: *Interesting.*
+- Hesk (Ch24): *An Archmarshal looked at you and wrote 'keep looking.' In my day that was called respect. Don't tell him I said so. Sixteen suits you.* (See C7.)
+- Vell (Ch24): *Read your account three times. Filed it with your record, where it belongs. The offer of a proper session stands whenever the road runs through Ardenmere again. The ledger doesn't forget. Neither do I.*
+
+**Spoken lines and log entries**
+- Quenna (Ch1): "Told you it would be soon." · Edran (Ch1): "Third one someday." (passed to Brom in Ch19) · Prynn (Ch1): "The shelf gap is still there. It'll be there when you're forty."
+- Cael (Ch1): "It's the first one that's true." · Log (Ch1): "Enrolled. / Second time the word's been used about me. First time it's been accurate." … "I intend to be worth the sentence."
+- Withrow (Ch2): "I read the hearing transcript four times. Not the summary — the transcript, all sessions, all exhibits. The law is on your side of it. I spent twenty years inside that registry. I know exactly how rare that is."
+- Rooke (Ch2): "The provision may be sound. The attention it buys us is not. I want it minuted that I said so before the inspection notice arrives, not after." — Withrow: "Minuted."
+- Brom (Ch3): "I found the wall. It has students." · Rooke via Brom (Ch3): "You built that redirect alone and it was a good piece of work for a boy with no instructor. It is now the most expensive habit you own. We are going to take it apart and you are going to be worse for a season."
+- Log (Ch3): "Four of us, four doors, all real. A year ago none of us could have walked through any of them. Worth writing down on the days it doesn't feel like enough."
+- Gault (Ch4): "I don't need to know what you are, Enrollee. I need my instruments and your consistency. Give me the second; the first is not my mandate."
+- Ephram (Ch4): "Greyvane needed him to be real. We don't. I'll wait for the semester evaluation." · Log: "Fair. Same terms I'd offer."
+- Officer and Seln (Ch5): "The Compact does not know what he is." / "No."
+- Log (Ch5): "New TA in Gault's office. Bronze-tier, Shadow Path per the residence card. Doesn't look at me. Note: at Halcenvane, everyone looks at me. Filed."
+- Ch6: "He needs a crowd." · "Nobody avoids me that consistently by accident. Avoidance at that precision is aim." · Brom: "We know where their eyes are. First time ever. Why would we give that back?" · Lira: "It's not settled, it's *outvoted*." · Log: "Shadow Path, Bronze, fifteen years' craft if he's a day. The Compact finally sent someone worth watching. So I'm watching."
+- Seln (Ch7): "Fifteen years say the file's question is the wrong question. The interesting question is who taught him to watch." · Log: "He fixed it. Sixth-day, hall three. Nobody asked him to. / We're playing now. Neither of us has said so. I don't think either of us is going to."
+- Rooke (Ch8): "Again. Slower. Watch yourself." · Log (Ch8): "Season's open. Lira's going to win the wrong crown. Brom's going to lose the right fights. And the Compact's man corrects my paperwork now. Everyone in this building is being measured by an instrument that doesn't fit them. I need to understand why the instruments are built this way. That's the semester's real question."
+- Karis (Ch9): "The conditions are met. If you directed it, I believe it would complete. Which is why we have to talk about whether you may." · Brom: "That's not a demonstration you're stealing. That's a weapon you're learning." · Log: "Last year's me was afraid of not-knowing what I do. This year's version is worse: knowing exactly, and deciding anyway. Write it down before, not after. That's the whole difference between me and the system." · Karis: "An instrument doesn't change sides. It changes readings."
+- Ch10: Rooke: "He does the thing he practised the longest." · Fiske: "You gave me a false first exchange." / Lira: "I gave you a true one. You just assumed it was all of them." · Fiske: "So win it. Win the crown. Then make them *look* at you. It's the looking that matters — it was always the looking. The crown's just how you force it." · "Six weeks. I'll see you in the final."
+- Seln (Ch11 close): "He filed the report. Then he sat for a while with the file drawer open, not filing anything else."
+- Seln's private judgment (Ch12): "Nobody builds that at fifteen unless somebody has been coming for him since he was twelve." (See C3: the age figure needs the owner's ruling.)
+- Ch12: Seln: "Your file says you watch things well. The course would tell us if the file's right." / "Sign me up." · Log: "He watched me stop Iron-tier force with a Copper baseline and his desk stayed quiet… Either it's the best trap the Compact ever built, or the man they sent to watch me has started watching them. Karis says instruments don't change sides. Karis has never met this instrument."
+- Ch13: Seln: "a position is an argument about where attention will go." · Log: "Sixth fragment. Bronze — the notice finally said a tier out loud, like the architecture decided I'd earned a number. Acquired from a man who doesn't know, in defense of a file with my name on it, during an operation he let me watch. I drew the line in advance and I stayed on my side of it. It cost anyway. Write that down too." · "A system that confirms you is a system that was listening."
+- Ch14: Lira: "I asked Hesk. In a letter. A year ago… You people treat information like it's rationed." · Brom: "You've spent two years learning to be the most awake person in every room. Now you own a thing that only works when you're furniture. You're going to hate this for about a year and then you're going to be very good at it." · Karis's chart: the fourth column reads *see holder*. · Log: "Sixteen. Six fragments. The Compact's best watcher watching out for me instead, and no way to thank him for it that wouldn't burn him. Semester evaluation in nine weeks. Whatever the system sends to watch it — we're ready. We built ready." · Anomaly: "Still open. Still real. Patience."
+- Ch15: Withrow: "The inspection is ordinary. His presence is the message. Somebody very high wants their own eyes on this, and they have sent the best pair they have." · Gault: "It is not good or bad. It is the mandate." · Bracken: "An argument persuades a person. A file survives a person leaving the room." · Log: "Last time the Compact came to an academy for me, they sent a warden with a challenge. This time they're sending an Archmarshal with no stated business at all. Coss I could read in a week. I don't know what reads an Archmarshal."
+- Ch16: Brom: "I've been trying to solve her for two years. Now I get faculty supervision and a crowd." · Bracken: "a thing that goes on being true in a room where nobody who built it is standing." · Log: "New opponent. No tells. Begin."
+- Ch17: Vastin: *Observer product is testimony about the observer.* / *an evaluation that begins from its conclusion is a report about the evaluator.* · Marginalia: *Why concede the category?* / *Who taught him the schedule's structure?* / *Verify: three weeks' preparation — from what baseline?* · Log: "Coss enforced… Havel complied… Seln operates… This one evaluates… The Compact finally sent someone who takes notes the way I take notes."
+- Ch18: Karis: "*Why retire a working method?*" · Log: "He is calibrating the instrument. I am the reading."
+- Ch19: "Two years I've been trying to solve you." / "And?" / "Third one someday." · Log: "She held it like an exhibit."
+- Ch20: Brom: "Like somebody with something in his pocket." · Lira: "Be the fighter. In a measured room. Both." · Log: "He doesn't wish me harm. He wishes me *measured*." … "Sleep. Fight in the morning."
+- Ch21: "Because the clerk was standing where I'd have landed." · Gault: "That is what the provision is for."
+- Ch22: "A circuit. And everyone who beat me." · "So I can't lie to myself later." · "What is the Compact evaluating? Me, or the provision?" / "The Compact filed no question… I came to see whether the record and the practitioner match." / "You expected an enforcer." / "I've met the enforcers." / "Wardens enforce. Assessors comply. I evaluate. Those are three different animals, they are wearing very similar coats, and every one of them is going to be in a room with you again. The difference will matter to you more, not less, as you rise — I would encourage you to learn to read it." · Rooke: "Your cohort standing holds. So, apparently, does your friend's paperwork. Noted." · Log: "The system isn't confused about me. / Confused systems ask. This one checks."
+- Ch23: "So that's what he is now." / "That's what he's been since midwinter. He just let us see it." · **"Gratitude is the leak."** · Seln: "What he kept, he kept." · Log: "Filed under debts, no current mechanism of payment. Second entry. Same file. Same nothing."
+- Ch24: Lira: "They didn't give me anything today. They caught up." · "There. It's retired." … "That's what I got for having to." · Karis: "Next year the continent comes to measure everybody." / Lira: "Good." · Close: "I have six things that aren't a Path… A semester stamp that says I proved it. And four people who know what it costs." … "And somewhere in a file, the most careful man I've ever met wrote that I'm not an error." / "You're not." / "Never were." / "Noted." (See C7.)
+
+**Prior-book line the book pays:** Quenna (B3 Ch14): "…whether you can *not* do it. In front of people who wish you harm." Answered "yes" on the twentieth of Reaping.
+
+---
+
+## 11. Reserved truths and release limits for this book
+
+| Reserved truth | This book may | This book may NOT |
+|---|---|---|
+| Integration mechanism (revealed B3, sealed to the circle) | Lira, Brom and Karis know; the notice's new fields; Karis's model | Tell Seln, Vastin or anyone institutional; record the sixth fragment anywhere official; let a cutaway guess it |
+| Compact falsifies classifications (B6) | Seln is "a keeper of things"; the locked case; his private file begun | Show or hint at the case's contents beyond "other things… he did not take out" |
+| Level 4 origin (B6) | Ilsev's return and second referral; Havel's fourth entry; "Nothing has ever come back with a name on it." | Any answer, author or theory |
+| [UNBOUND] / Fractured Path predates classification (B8) | **One touch:** Karis's strata observation, said once, closed as a question ("Why retire a working method?"). Elsewhere only "a word retired by administrative directive" or "one retired word" | Use the word anywhere else; connect it to Cael's nature; any new source |
+| The Architect (B8 title; B9/B11/B13–14) | Keep the source's three plants at their altitude: "Somebody built these instruments… That was a decision." (Ch8, *thought, not written*); "A system that confirms you is a system that was listening." (Ch13); Vastin's unwritten "the record… was doing something" (Ch23) | Add any maker, will, intent, reset or listening system beyond those three |
+| The Quieting | — | Any appearance |
+| Tide anomaly | Two inventory mentions | Reproduction, explanation or count |
+| Seln's switch | Behavior only; the companions understand it in the corridor | A confession, declaration or POV sentence naming his reason |
+| Vastin | Rigor, decency, the declined twelfth question | Threat, warning (B5), detecting Seln's nulls |
+| Records-broker's client | "Private interest, not Compact pattern." | Identification (B5 picks up the brokered pattern) |
+| Tournament clause | Copied and banked | Being acted on |
+
+---
+
+## 12. Canon conflicts found in the source (for owner ruling; drafting proceeds on the recommendation unless the owner rules otherwise)
+
+- **C1 · Bracken's gender.** *She* in Ch1–3 (also Withrow in Ch2) and *he* from Ch13 onward, as in B5 Ch1, B6 and B7 Ch9. **Recommend he.** Do not rename (edition brief).
+- **C2 · Vastin's age.** Source Ch17, Ch21 and Ch23: "He was sixty now" / "a man of sixty." The Universe Bible says **51 at Book 4**, and Book 8's drafted prose says 53. **Recommend 51**, or no stated age. "Forty years" can stand as his own rounding (Book 8 treats it so).
+- **C3 · Elapsed time since Kindling.** "Four years" (Havel Ch18; Vastin Ch23; Cael Ch24) and "since he was twelve" (Ch9; Seln Ch12) against the LOCKED Kindling at fourteen, which puts Book 4 about two years after it. Books 5–6 echo "four years," so this is series-wide drift. **Owner call.** Plan: "since his Kindling," "two years," or no count.
+- **C4 · Fiske's age.** Twenty (Ch3) vs "about nineteen" (Ch8, Cael's estimate). **Recommend twenty.**
+- **C5 · Field-assessment unit length.** Announced as "Four sessions" (Ch12); later "Sixteen sessions. Thirty-two hours" (Ch23). **Recommend** a weekly unit across the term's back half (sixteen sessions), offered at the counter as "a unit for the back half of term." Owner call.
+- **C6 · Lira's season record.** Ch19 reads "Six wins, no losses," but the page shows more wins (rounds 7–8, Fiske twice). **Recommend** the true count, written at the ceremony.
+- **C7 · Knowledge leak.** Hesk's "wrote 'keep looking'" and Cael's closing "wrote that I'm not an error" refer to a private Compact file note with no in-story channel. **Recommend** keeping both lines verbatim, framed as *inference*: Hesk's guess; Cael's belief from the renewal and the unchanged rotation. Owner call on whether to touch the wording.
+- **C8 · Calendar.** "Sowing" (birthday, the eleventh) and "Reaping" (inspection, 12th–23rd) sit about nine weeks apart, while the source also uses "autumn" and "midwinter" loosely. Series LOCKED: autumn birthdays from Book 7. B5 stages seventeen in spring and B6 stages eighteen in winter. **B5 Ch14 recalls the sixteenth as "a wall above a river, a delegation four days gone,"** which contradicts B4 Ch14. **Plan:** keep "the eleventh of Sowing" exactly as staged in B4 Ch14; avoid tying Sowing/Reaping to a season. Flag the series-wide reconciliation.
+- **C9 · The withheld fragment at the evaluation plate.** Ch21 names Pressure-adjacent in the scene but the thought credits Reydan (Compression). Ch24 files the flat line under Pressure. **Recommend Pressure-adjacent.**
+- **C10 · Trial counts.** Ch20 rehearses "five trials" against a six-trial baseline. Ch21's order drops the standalone drop-frame read. Minor; let the evaluation mirror the baseline's six with Ember inserted second. The author may fold the read into trials 3 and 6.
+- **C11 · Halcenvane's origin.** Ch15 has Karis say Withrow "built this place out of a converted nothing in twenty years," vs Ch2's "chartered from the start, 141 years." **Recommend** dropping the "converted nothing."
+- **C12 · Registry gap.** Tarn (Blade, Cu R7, Ch10) is in the prose but missing from `craft/NAME_REGISTRY.md`'s Book 4 census. Keep the name.
+- **Downstream, not binding here:** B7 Ch3 gives Brom "a Copper Crown." Lira won it. B5 Ch1 gives Bracken "four decades of certifying"; B4 says twelve years as registrar. Keep B4's figure.
+
+---
+
+## 13. Names
+
+**All canon names are approved and kept.** That includes the registry's flagged collisions (Halcenvane/Greyvane, Bracken/Brom, Wray/Greyvane, Vell/Velmere), which are not renamed in this edition. **Do not name existing unnamed roles:** the porter, the Ash Path instructor, the Mire Path instructor, the Lattice instructor and her pupil, the floor warden, the senior clerk, Gault's clerk, the adjudicating faculty, the Gold-tier fellow, the Shield Path fifth-year (41 wins), delegation counsel, **Withrow's counsel** (B6 makes her namelessness canon), the fire-watch, Vastin's mentor, and the collector Vastin helped end. **Brom's "man at the kitchen gate" stays unnamed by design.**
+
+**Names pending owner approval** (optional; until approved, draft with the role description):
+
+| Proposed | Role (new, expansion-only) | By-ear check |
+|---|---|---|
+| **Gwen** | Second-year in Seln's field-assessment unit, seated beside Cael; a small recurring comic foil who takes the unit at face value (M5–M9) | GWEN, one syllable, glide onset. G-names in canon are Gault (GAWLT) and Garrik (B1): different vowel and shape. Greyvane is a place, GRAY-. Wendel (B2) shares "-wen" but never appears in B4. Not reserved. Zero corpus hits. |
+| **Abbot** | A Copper-bracket opponent for one developed climb round in M4 (Mire Path, Copper Rank 6) | AB-ut. A-names in canon: Alis, Amrit, Ansel, and Aaron (reserved), all distinct in stress and consonants. No -bot/-ott family. Zero corpus hits. Caution: it reads as a title, so the author should always attach Path and rank on first use. |
+
+Rejected during screening (for the record): Ingram (rhymes against Ephram), Yarrow (rhymes against Marrow), Lusk (L-alliteration in Lira bouts), Una (U-onset beside B5's Umber), Jory (vs Joren), Wren (vs Wray), Mabry (vs Mara, reserved).
+
+---
+
+## 14. Run notes
+
+- One author session per movement. Packets are `packets/MOVEMENT-001.md` … `MOVEMENT-009.md`, manuscript files are `manuscript/chapter-01.md` … `chapter-62.md`, and state goes in `state/movement-NNN/`. Append `STATE_LEDGER.md` after each movement from surviving prose.
+- Do not draft until the owner has ruled, or explicitly deferred, on C1, C2, C3 and C7. Those four touch lines in more than one movement.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-04-copper-crown/STATE_LEDGER.md
+
+# STATE LEDGER — Book 4: Copper Crown (Monroe Jackson 1.3 edition)
+
+Entry state for this edition's Book 4, built from canon and the Book 3 close as drafted (B3 Ch23–24), with the Book 4 source facts the opening movement inherits. **Append a dated section after each movement from the surviving prose** (template at the foot). Prose governs plans. Record plan deviations explicitly, and never overwrite canon silently.
+
+Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript exists yet.
+
+---
+
+## 0. Calendar and age
+
+- **Now:** the end of the Greyvane semester in which the adjudication was won. The ruling is public; Coss has walked out; the boxes have come back from seizure.
+- **Book 4 runs:** the final Greyvane term (≈5 months; Karis's find in week 3, the Edran rematch in week 20, Quenna in week 21, Prynn in week 22) → four days on the road → arrival at Halcenvane (five months and nine days after the ruling) → the season → **the eleventh of Sowing (Cael turns sixteen)** → the inspection, **the twelfth to the twenty-third of Reaping** (Copper final the 19th; semester evaluation the 20th; interview the 21st; departure the 23rd; file returned the 24th; quarterly drafted the 26th; corridor warning the 27th) → the first week of the month after Reaping (Lira's Arbiter evaluation) → term close → twelve-week recess (Book 5).
+- **Cael:** fifteen until the eleventh of Sowing, sixteen after. No other birthday in this book.
+- **Season words:** do not tie Sowing or Reaping to a named season (conflict C8 in `BOOK_MAP.md`).
+
+## 1. Cael — body
+
+| Item | State at entry | Notes for drafting |
+|---|---|---|
+| General | Healthy, fit, used to stone floors | The Wind landing has always come home through both heels and up the leading hip |
+| Leading hip (Wind) | Standing rent: bright line from crest to inner knee after a hard evening | The Edran rematch (M1) adds three days of strain |
+| Shoulder / forearm | — | Baseline plate (M2): three days. Pin (M4): Compression bone hum, recovers on day four. Evaluation plate (M8): to the weekend |
+| Sleep and attention | The attention budget is shared by the compound gaze and the Iron read | The counting project (M3) slows the read; it refills in four days (confirmed M4) |
+
+## 2. Cael — fragments and capabilities (entry)
+
+| # | Fragment | Source | Status | Cost / limit (as the log prices it) |
+|---|---|---|---|---|
+| 1 | Wind-adjacent | Lira (B1 Ch15) | Integrated; the one he reaches for first | Held half-breath at the front; **landing beat** at the back (locked half-breath, no change of direction, never shortened); hip line. **Working ceiling on stone: three bursts free; the fourth costs the next day** |
+| 2 | Pressure-adjacent | Feryn (B1 Ch17) | Integrated; use restricted | Gathers over most of a breath; visible; force comes back at him off anything that redirects |
+| 3 | Iron-adjacent (surface read) | Brom (B2 Ch13) | Integrated | About a pace and a half; mass and vector on the skin of the forearms, neck and jaw a fraction early; never intent; cheap and quiet; can't be pushed. (Blind to Lattice: discovered M2) |
+| 4 | Compression-adjacent | Reydan (B2 Ch24) | Integrated | Arrives at contact without telegraph; spreads force through the bones into the floor; forearm ache a minute delayed, running two hours; shaky hand |
+| 5 | Ember-adjacent (ignition point) | Karis, consented in writing (B3 Ch13) — *Acquisition: directed* | Integrated; on Greyvane's record in one thin exhibit | Contact, a single instant, one channel. Directed acquisition cost: destabilization at about 18 hours, two misfires, settled in 11 days |
+| — | Tide-adjacent anomaly | B2 session nine | **Not a fragment; not counted** | "Still open. Still real. Patience." Inventory mentions only |
+
+**Count: five confirmed + one anomaly.** Planned change: the sixth, **Shadow-adjacent (Bronze)**, in M5 Ch34 (see `BOOK_MAP.md` §7).
+
+**Public record of capability:** Greyvane's demonstration exhibits (in the hearing transcript; anyone can buy it for six silver marks) carry the **Wind framework** and the **Iron read** across fourteen sessions, plus Ember in one late, thin exhibit. Nothing else.
+
+**Method (not a fragment):** the compound gaze (rhythm, weight, breath, position, and whether the layers agree). Three columns: confirmed, probable, discarded. One is an accident, two a coincidence, three a structure. The banking doctrine: show only what the record already holds.
+
+## 3. Knowledge — who knows what (entry)
+
+| Fact | Knows | Does not know |
+|---|---|---|
+| The integration mechanism (Fractured Path absorbs witnessed abilities) | Cael, Lira (since B1 Ch16; has read the Power Log), Brom (read the log B2 Ch13), Karis (consented) | Everyone else. Quenna has theories and has refused to write them down |
+| The fragment notices and the Power Log's contents | Cael; Lira and Brom have read the log; Karis reads it by arrangement | — |
+| The [UNBOUND] passage ("prior designation UNBOUND to be re-entered under flag SHATTERED") | Cael and Karis, as copies (Karis's coat; Cael's notebook); not understood | Prynn knows a volume did not come back. Nobody else |
+| Suppression-Advisory Watch, Level 4, on the file | Havel (private note, three entries); Ilsev (filed a referral at the hearing); Coss (escalated, unanswered) | Its origin: nobody (LOCKED until B6) |
+| The faceless senior file "on a schedule's designation" (B3 Ch23) | The reader only | Every character |
+| The watchers | Cael, Lira, Brom and Karis all count them; Karis keeps a log | — |
+| Coss's final report: "the subject is a boy, the anomaly is the schedule" | Cael (told off record, Quenna witnessing) | — |
+
+## 4. Resources and objects
+
+- **Power Log** (binder, about a third full from Greyvane's second term). **Observation notebook** (sections per place; Halcenvane's begins in M1).
+- **Karis's notebooks:** founding-era transcription, including the copied passage. Later held in carrel eleven and moved to a named upper-floor room in M9.
+- **The hearing transcript**, public (six silver marks a copy).
+- **Letters:** Hesk's reply ("You argued the law and won… Keep finding people who see you clearly."). The letter to Vell is posted; her reply arrives in M9.
+- **In Book 4:** Prynn's index (≈50 pages; M1); Bracken's twenty-two letters; the enrollment record (M1); the Halcenvane residence card *Cael. Assay provision. Evaluation by demonstration.*; Hesk's steel drafting pen and note (M5); Karis's acquisition chart (M5); the Copper Crown (Lira, M8 → retired M9); Lira's Iron certification (M9).
+- **Money:** not tracked in this book. Halcenvane pays no purses. Brom pays the bridge toll.
+
+## 5. Relationships (entry)
+
+| Pair / person | State |
+|---|---|
+| Cael–Lira | Three years; the longest trust; she comes back for him on roads and never mentions it; she distrusts comfort and prefers correction; she knows the mechanism |
+| Cael–Brom | Ardenmere's posture: the loser sits beside the winner; the bench with a decent gap; Brom's one load-bearing sentence |
+| Cael–Karis | A researcher-subject partnership become friendship; consent in writing; she reads his log by arrangement; she says the quiet thing |
+| Lira–Brom | Two years of sparring each way (Lira 9, Brom 11 by M6); each knows the other's seam and landing beat |
+| Cael–Quenna | Mentor at a cost; her bet paid. "It'll be soon." Her question unanswered |
+| Cael–Prynn | Evenings at her table; the shelf gap is their unspoken conversation |
+| Cael–Edran | A rival with a promised rematch ("I withdrew a petition, not a rivalry.") |
+| Cael–Hesk | Letters; fast replies; grandmother invoked |
+| Cael–Vell | A letter owed and sent; the archive session offered and unclaimed |
+| Cael–Coss | Ended. "The last known quantity in his file walked out of it." |
+| Not yet met | Bracken (letters only, from M1), Withrow, Gault, Rooke, Ephram, Fiske, Seln, Vastin; Ilsev and Havel known from Ardenmere and Greyvane |
+
+## 6. Companions — formal standing (entry)
+
+| Name | Path / tier | Track into Book 4 |
+|---|---|---|
+| Lira | Wind, **Copper Rank 2 formal**; Iron-equivalent by every honest ledger | Re-certification transfer; priority-review flag goes to the registry queue; **Copper bracket** |
+| Brom | Iron Skin (always spelled in full), **Copper formal**; Iron-equivalent | Standard enrollment; Rooke's Blade cohort assessment on the ninth; self-taught redirect with a read-to-redirect gap (Wray's finding) |
+| Karis (Dellenmoor) | Ember, **Iron Rank 3**; seventeen | Standard enrollment; research standing to be negotiated with Bracken |
+
+## 7. Institutions and antagonists (entry → planned)
+
+| Party | State at entry | Planned in Book 4 (see map) |
+|---|---|---|
+| Compact monitoring | Resourced, open rotations (two minimum, changes every four hours) | Continues unchanged all book; plus Seln, embedded (M2) |
+| Seln | Not yet met | M2 arrives; M3 made on day 23; M4 first omission; M5 private file and the acquisition (unknowing); M9 corridor; stays at his desk |
+| Vastin | Not yet introduced | M6 arrival; M7 evaluation of the ruler; M8 interview; M9 file note |
+| Ilsev / Havel | Carriers of the Level 4 question | M7 return and second referral; fourth entry |
+| Coss | Offstage after his final report | Offstage (one passing thought at most) |
+| Records-broker's client | — | M5 Jessup caught; client unresolved |
+
+## 8. Open threads carried in (do not advance unless the map says so)
+
+- Tide anomaly: inventories only (M5, M9).
+- [UNBOUND]: one touch in M7 only.
+- Level 4: advanced (return and second referral), not resolved.
+- Patient Iron Skin watcher (B2 Ch15); Book 1 market stranger: untouched. **Havel's windows must not touch either.**
+- Hesk's history: letters only. Reydan's "Find me later — I want the answer": a log line only. Vell's session: the M9 letter keeps it warm and unclaimed. Coss's grade: untouched.
+- Edran's rematch: delivered in M1; "Third one someday" passes to Brom in M8.
+
+## 9. Owner rulings needed before drafting (from `BOOK_MAP.md` §12)
+
+C1 Bracken's pronoun · C2 Vastin's age · C3 elapsed-time figures ("four years" / "since he was twelve") · C7 how Cael and Hesk can refer to the file note. Until ruled: *he*; no stated age; "since his Kindling" / "two years"; inference framing. Record each ruling here when it arrives.
+
+---
+
+## Append template (copy once per movement)
+
+```
+## After MOVEMENT-00N (chapters A–B) — YYYY-MM-DD — author: <model id as reported>
+
+Calendar / date reached:
+Cael — body (injuries, fatigue, recovery clocks):
+Fragments (count; any change; ceilings measured; costs observed):
+Shadow idle state (drift count this movement; conditions):
+Knowledge changes (who learned what, how):
+Objects / documents created or moved:
+Companions (formal tier, ladder standing, injuries, decisions):
+Supporting cast beats landed (name: beat):
+Antagonist / institution state:
+Protected wording used (list, confirm verbatim):
+Reserved truths touched (and at what altitude):
+Plan deviations (what changed, why; canon impact: none / flagged):
+Formula check (formula_metrics.py: sentence mean/median, ≤5-word share, paragraph median, FRE, FK; progression hits per 10k; growth beats; POV words by character):
+Open threads opened / advanced / closed:
+```
+
+
+## After Movement 1 (chapters 1–7; repair r1 applied 2026-10-04; recheck pending)
+
+**Coordinator rulings (override the author's end-state below):**
+- Entry reconciled to edition Book 3 (packet coordinator notes): the hearing as ruled; Ember acquired in the ch36 match; Karis has asked to read the Log; the box-seven gap untouched; registry "Caelen Hesk-ward, 41-7843-V"; courier calendar governs.
+- Bracken is "he" (default in force; owner may override). His letters begin in week 8 (one of Karis's six).
+- Bracken's fifteenth letter copies the directive's TRANSITIONAL ARTICLE as a plant only (two lines underlined; Karis skipped it and is cross) — nothing states Ilsev's Ch18 finding.
+- New canon (r1): in week 12 Cael finds a clause struck by name that is a "cousin" clause about registry clerks. The worst rumour (that his family gave him up) is on the page and corrected by Cael.
+- Lira's ladder registration is deferred (her own decision, per BOOK_MAP §6).
+- Ch7 ends on the baseline hook: *Gault writes it once.*
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Greyvane final term: wk 3 the find (Thursday-ish afternoon); wk 4 nine letters; wk 7 first replies; wk 8 Bracken's first (four questions); wk 11 the fourth (forty-one); wk 14 Thursday night the finding, letter to Bracken next morning; wk 16 the other three file transfers; wk 17 the fifteenth letter; wk 19 counsel's seal to Naveth; wk 20 rematch (first bell); wk 21 Thursday Quenna; wk 22 Monday Naveth's notice, Wednesday Wray and packing, Thursday Prynn at the gate and departure. Four days' road. Arrival at Halcenvane = **five months and nine days after the ruling**. Then Halcenvane days 1–21: day 2 the rooms; day 3 the method failure and triage; day 6 the Crown yard; day 9 Brom assessed and placed, Ostrand; day 11 the log; day 13 the hatch; day 14 the faculty session (Rooke); about day 16 the carrel appeals; day 19 Withrow; day 21 the assessment notice. No season named at Halcenvane.
+
+**Cael — body.** Hip strain from the rematch: the line crest to inner knee the same evening, three days off held, given back on the fourth morning. Forearms ached after the bout (shells bursting on the guard); gone. Pivot on the second figure mended (Wray confirmed). Fit and sound at movement end.
+
+**Fragments & progression.** Five confirmed; no change. Wind: four bursts in eight exchanges against Edran (one over the stone ceiling of three free), the fourth half an inch short with the landing beat longer than ever felt; Wray's instruction to re-measure the ceiling on Halcenvane's floors (not yet done). The east hall's timber floor "gives and returns" (noted, not tested). Read: a new technique, reading the off-arm *shift* and then waiting for the arm, because the shift can be fed empty. Pressure, Compression, Ember unused. The Tide anomaly is not mentioned in this movement (BOOK_MAP keeps it to M5 and M9).
+
+**Method.** The compound gaze fails past nine and before twelve subjects, *confidently*. Triage: **standing** (eight, hard cap, three names entered: Bracken, Rooke, the porter; five blank), **sampled** (one session in four, dated), **structural** (aggregate). Three days of notes (sixty-three entries) burned.
+
+**Power Log / notebooks — quotable.**
+- Rematch log (ch 3): margin one exchange, perhaps none; the off-arm recovery; the correction; four bursts, one over; "Without the fourth there's no eighth exchange, so I'd pay it again. That isn't the same as saying it was cheap."
+- Term close (ch 4): *Greyvane. Twenty-two weeks. A word found and not killed. A bout won by one exchange, perhaps none. A sentence from Quenna and a book from Prynn, and both of them meant more than they said. / Done. Tomorrow, the river.*
+- Enrolled (ch 5): protected lines with the author's middle paragraph; *I'd have paid more.*
+- Day 11 (ch 6): standing paid in standing; two outside the count.
+- Fame finding (ch 7) and the closing roof entry: *Not settled. Filed. Look again in a year.*
+
+**Documents created.** Halcenvane enrollment record (signed twice; Bracken's folder marked *94 min.*); Lira's intake sheet with the flag's dispatch date and the clerk's initials; Prynn's index (50+ pages, three-way cross-reference, shelf-marks, tick/cross/line marks; Karis copying it); Karis's grey-string bundle of Bracken's letters; Karis's one-line reply (*Agreed, by a different road. I'd rather have yours than my own. K. Dellenmoor.*); Naveth's transfer notice; the posted minute of the faculty session; Withrow's ruled sheet (kept by her); the assessment office's notice (day fixed "within the month", posted two days before).
+
+**Knowledge.** Unchanged on the mechanism (Lira, Brom, Karis). The copy stays buttoned in Karis's coat, unnamed. Bracken knows Cael's registry name and number, the bracketed designation, Hesk's name, and the observer-track admission (Cael's own line). Withrow, Rooke, Bracken know the transcript; Withrow has read it four times.
+
+**Relationships.** Edran: a hand offered for the first time; "Third one someday." Quenna: the sentence and two fingers on the sleeve. Prynn: the index and the gap. Naveth: "It is the right house." Wray: "measure again" and "find somebody there who'll break your count on the third pass." Bracken: rigour on Cael's behalf; the four stacks. Withrow: the ledger. Rooke: not met; on the list. The hatch woman and the wrap-maker: unnamed.
+
+**Companions.** Lira: Copper R2 formal; flag sent to the registry queue with a dated sheet; ladder registration deliberately not yet made; counting the watchers ("Four hours. To the bell."); Copper bracket. Brom: standard enrollment; assessed on the ninth and placed in Rooke's Blade cohort; first cohort hour the following week; silent about it. Karis: standard; research standing pending; carrel eleven with a key; copying Prynn's index; the tournament appendix read; seventeen.
+
+**Compact / watchers.** Greyvane: five, open. Road: seven faces, five changes, never fewer than two, three at junctions and inns. Halcenvane: two at the ferry landing, two at the bluff road's foot, changing every four hours (Lira's count). No contact.
+
+**Open threads now.** The entry demonstration date and what to put in the baseline (Karis's warning); Wray's re-measure; the timber floor's give; the low hall locked from outside; the five blank lines in the eight; Brom's silence about the east hall; Lira's registration; Karis's two registry offices; the inspection "sooner"; Rooke's dated objection; Vell's reply; Prynn's gap; the copy in the coat; Edran's third bout.
+
+## New canon minted (flag for approval where marked)
+
+- **Calendar of the term (deviation, flagged):** Bracken is one of Karis's nine week-4 correspondents; his letters begin in wk 8 (four questions), the fourth in wk 11 (forty-one), the fifteenth in wk 17 (no questions). The source places the letters in wks 14–19. Twenty-two in all; he writes by every coach without waiting for answers.
+- **Bracken's fifteenth letter** reaches the finding from Halcenvane's charter article backward and cites the directive's **transitional article** as presupposing enrollments under the clause. This plants, early, a ground Ilsev's protected finding (Ch18) uses. **Flag:** acceptable as a plant, or should the transitional article be left for the charter session?
+- **Counsel's letter (wk 19):** verifies the architecture; the chancellor has directed an enrollment "effective at the start of their next term, on the satisfaction of an entry demonstration"; endorsed *Seen. Withrow.*
+- **Exhibition format (Wray's written terms):** eight exchanges on the instructor's count, standings rules, each to the cleaner touch or called even; nothing to head or joints; any fragment the record carries is lawful. Two chairs (Wray, Quenna); the third left empty.
+- **Edran's rebuild (mechanism):** stance lower by most of a hand; off arm carried forward and close, so recovery is already in place when the lead bursts; reach traded for the half-beat. He learns the shift-read in one exchange and feeds it empty.
+- **Prynn's index:** "more than fifty" pages, sewn, grey cloth boards; ticks sound, crosses struck, lines unverified.
+- **Halcenvane details:** the toll board's nine lines (incl. a one-copper first-week enrollee line on the gate list); intake's eight shrouded desks; the library committee's eleven-clause access schedule with a written appeal to the chancellor; the timber east-hall floor; the low hall locked from outside with the key on a nail; seeded students get first pick of rooms; the porter chalks and polishes the crowns; the Copper Crown's plate riveted on twice; the crowns kept in a glass case in a long room on the first floor of the administration range; the clerk posts session minutes on the board by the theater door.
+- **Withrow:** past sixty, white hair cropped short; her want ("I mean to have done something with this chair before I hand it on"); "forty years" of ambition and belief in one coat (rounding, no age stated).
+- **The eleven rumours** (author's own list; the source's list is not reused) and the worst one: that his people gave him up to the registry.
+- **Brom:** "You always answer a carter."
+
+### Movement 1 — CLOSED (2026-10-04, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 4 applied)
+- Ch1–7, ~31,870 words. Mean 13.14, ≥40w 3.3%, 909 w/scene; overlap 0 (8 protected); probe 1%; gates 0. Recheck fixes: one r1 join's punctuation (ch4) and three listening/clarity lines (ch5, ch6, ch7).
+- Authorship: claude-opus-5-5 (state/movement-001/AUTHORSHIP.md). Published to the PWA: Book 4 Monroe 1.3 edition, ch1–7, "in progress".
+
+
+## After Movement 2 (chapters 8–14; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Calendar: the false-feed discovery runs day 22 → "the week of sessions after"; Brom's wall scene the evening of day 31 (after the tenth session); the Lattice low hall day 33; the baseline day 48. Ch13 "a fortnight ago" (low hall → baseline), "three bad nights"; ch14 "most of a month" watching Ephram.
+- Crown-yard practice rule: FIRST TO THREE CLEAN TOUCHES (Lira's first bout: four exchanges, 3–1).
+- Timber vs stone: four bursts on timber cost what three did on stone — a third more work, or about a quarter less per burst. "Four free" at the baseline.
+- Lira's record: three wins on day 28, eight by day 32 ("eight and nil"), nine by day 34.
+- Lira's Fenmark Arbiter reading took "about a minute and a half" — NEW CANON (no earlier book states it); the registrar's clerk "most of two minutes" (ch9).
+- Accepted canon: Rooke's twelve-day bench for every newcomer (Brom's silence at day 21); Lira signed on the twelfth (two days inside "by the fourteenth"); the demonstration floor is sprung oak with a brass grid; the Lattice hall's key-on-the-nail rule; five transcript copies (Ephram owns the fifth); Gault's assessor ruined by deciding; a TA's wrong sum in front of Cael.
+- "Colder country" appears once. Seln's locked case is never opened. Bracken is "he".
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane days 22–51: day 22 Brom's first floor hour; days 22–36 Ephram's sessions; about day 24 ("the twelfth of the month") Lira registers; day 28 the ladder book; days 29–31 timber measured; day 31 the Ash instructor into the eight; day 32 Karis's terms (Lira 8–0); day 33 the low hall; day 34 nine and nil; day 35 the five-weeks log; day 38 Fiske at the board; day 45 the wash-house; day 46 the posting; day 48 the baseline; day 49 Ephram; day 51 the copying table and the card. Seln on the bluff from about day 45; first sight day 48. Nineteen weeks to the semester evaluation.
+
+**Cael — body.** Right shoulder/forearm from the plate: numb to the elbow on the day, ache to the week's end. Hip: thin thread after the baseline, gone by next noon.
+
+**Fragments & progression.** Five confirmed; no change. Wind: four free on sprung timber, fifth billed (about a third cheaper than stone); landing beat unchanged; baseline 1–5 within one brass, sixth wide and long. Iron read: blind to Lattice, silently; rule in both books; partial correction (builder's weight, pupils only); baseline 11/12, cold 12/12. Pressure withheld at the plate. Compression untested on a floor that answers (ringed). Ember off the floor by agreement with Karis. Tide anomaly not mentioned.
+
+**Method.** Standing eight: Bracken, Rooke, the porter, the Ash instructor; four lines blank. Re-audit begun, not finished. The eleven supervisors tabled; the Mire instructor marked *checks*.
+
+**Documents.** Gault's note (protected), both signatures; the Mire instructor's notch line, initialled twice; the *For service* slip; the posted slip (*Entry demonstration, assay-provision enrollee: satisfied. Baseline established and filed.*); Karis's three terms; the practice register (Lira 9–0); Cael's four-page list; the TA entry.
+
+**Knowledge.** Mechanism unchanged. The panel knows two capabilities, the ceiling of four on sprung timber, and "it goes into the joint". Ephram owns the fifth transcript copy. Seln has seen the boy once, without looking.
+
+**Companions.** Lira: Copper R2 formal, registered, seeds at the foot, 9–0 in practice. Brom: worse on purpose; post drill (turn nothing until certain). Karis: research standing in writing; card census (sixty-one doors, believes forty).
+
+**Watchers.** Unchanged (two at the ferry, two at the road's foot, four hours; one change ten minutes late, day 35). Seln embedded in Gault's office.
+
+## New canon minted (flag where marked)
+
+- **Rooke benches every newcomer** until he can "see him watching" (Brom twelve days). **Flag:** reconciles M1's silent Brom with the packet's "first cohort hour on the page".
+- **Lira's deadline read as a calendar date** (M1 left her unregistered at day 21). **Flag.**
+- **Sprung demonstration floor** with a surveyed brass grid (source: stone), so the baseline's "four free" matches BOOK_MAP §7. **Flag.**
+- The low hall is the Lattice instructor's; key on the nail = stop, knock, wait; the first-year's tooth. Lattice lines visible only in caught light.
+- The stationer's five copies; Ephram bought the fifth.
+- Gault's ruined assessor (decided early about a girl; four years of agreeing trials).
+- **Lira's Kindling: "a minute and a half", Copper Rank One.** **Flag** against Books 1–2 of the edition.
+- The Mire instructor supervised one pre-baseline session.
+- Ephram once corrected himself publicly in the cohort.
+- Brom's wrap carries Rooke's words in ink (BOOK_MAP §6).
+- The TA fumbles 4 × 19 in front of the office clerk (the packet's manufactured incompetence, seen by Cael).
+
+### Movement 2 — CLOSED (2026-10-05, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 1 applied)
+- Ch8–14, ~32,440 words. Mean 13.18, ≥40w 4.2%, 925 w/scene; overlap 0 (8 protected); probe 1% skeleton / 6% close; gates 0.
+- Recheck fix: ch13 "three bad nights" (not four) — ledger synchronized above.
+- Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–14, "in progress".
+
+
+## After Movement 3 (chapters 15–21; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- RANK vs STANDING (binding): rank, like tier, changes only by an advancement evaluation and is written on the registry certificate; a standing is this season's chalk (ladder position, seed, crown, squad). The ten-rank tier system is LOCKED — Fiske's Rank Eight is the limit of her certificate (two years unchanged), not of Copper.
+- Lira: ladder-book position the sixty-fifth and last line ("the foot", M2); SEEDED 22nd by Bracken's half-sheet (last season's 21 entrants first, then new names by formal rank; Cu 2 above the first-year Rank Ones). "The ladder book was not the bracket."
+- Three DRAWN opening sessions: they count in the record and move nobody (how 22nd meets 9th, 14th meets Merrick, under the four-places-up rule).
+- Calendar: enter day 51; Seln made day 68; council Sixth-day, day 73; brackets posted day 77 (two days before Seln's floor correction, day 79). Office paper: "hall one" (north), "hall three" (east), numbered days.
+- Lira vs Nyle: eleven seconds, three touches, EXACTLY FOUR Wind bursts (the third exchange opens on a half-step with no Wind); the fifth-burst billing rule stands.
+- Cael's read recovers after four days off — two instances so far; Movement 4 owes the third before it is called a rule.
+- "Decision point" NOT used (reserved for M8); "colder country" not reused; Seln's case never mentioned; no motive or loyalty given for Seln; no contact with Ephram; the tide anomaly not mentioned.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane days 51–about 110.
+- d52–58 stair tally; d58 *0 of 7*.
+- d60–66 the wider count; d61 onward the shorthand; d66 *0 of 31*, the fifth map, nineteen of nineteen.
+- d67 the floor trade (Cael's east-hall hour for Brom's north-hall hour, one Sixth-day, d73).
+- **d68 the empty east hall = Seln's post day 23** (Seln's post day 1 = d46).
+- d69 and d71 the lamp; d71 "aim"; d72 the wall with Lira.
+- **d73 Sixth-day council.**
+- d74 Brom's corner; d75 Lira's falls; d76 the error seen.
+- **d77 Third-day, brackets.** Session 1 d78; Lira–Nyle session 2; Brom–Merrick session 3.
+- d79 the corrected issue; d80–83 the first ease-off; Seln's product walked down on his day 31 (d76).
+- Third week of the season: the sum. Month's end: the two long days and the second ease-off. The season log on a Seventh-day near day 110.
+- Season: a bout per name about every six days; a little over a hundred days to the final; seventeen bouts at most, the first drawn.
+
+**Cael — body.** A bruise under the right ribs (Lira's shoulder, d75; ice). A cord weight across the shin (d68 drill). Hip unused in quantity this movement.
+
+**Fragments & progression.** Five confirmed; **no change** (logged as a fact). The Tide anomaly is not mentioned.
+- Wind: four free on timber, three on stone, landing beat unchanged.
+- Iron read: a beat late while counting. **On time after four days off, twice: two instances, not yet a rule.** BOOK_MAP M4 "confirmed at three instances" should supply the third.
+- Pressure, Compression and Ember unused.
+
+**Method / Shadow chart.**
+- The stair tally and its control column; the shorthand (day · bell · place · sees); five maps.
+- Positions predicted to the post: east-hall gallery W end by the turned post; yard high W, middle of a knot; lecture stair 2nd landing, wall side; covered-walk east rail.
+- The declaration as a continuous purchase "smeared across four hours".
+- Toll: about a third fewer looks at the covered-walk rail.
+- Curve: the bend at about four hours; long days predict worse places (two confirmed by the wing's posted hours).
+- Cannot-reach column: reach, touch/speech, floors, one instrument.
+
+**Agreements (written, numbered).**
+1. Hands off, with breaks reported the same day (Brom's corner logged).
+2. The dull read, unchanged.
+3. Cael studies him.
+
+Lira's price, in her words: "If he touches your paper wrong… that's the morning I go to Withrow myself." Judged not triggered by the correction.
+
+**Knowledge.**
+- Lira, Brom and Karis know the TA is a watcher: "probable" Compact, Shadow, Bronze.
+- Seln knows he was made on day 23 and that the boy and his friends have done nothing. He has said and written nothing.
+- Nobody institutional knows. The mechanism is unchanged.
+
+**Documents.** The fame tally and control column; the five maps; the agreement page; the Shadow section (*Charted from inside*); the fatigue page with two dated long days; the season log; Karis's copy of the twenty-three sum; the two floor issues (wrong and revised), kept in Cael's coat; Seln's first product, sent by courier as a non-existent cloth merchant.
+
+**Companions.**
+- Lira: Copper R2 formal, **seeded 22nd**, beat Nyle 3–0 in a drawn bout (record only), hip billed.
+- Brom: beat Merrick 3–2 in a drawn bout; jaw bruised, left arm sore; the right wrap carries four words in pencil.
+- Karis: unchanged standing; copy of the sum.
+
+**Watchers.** Rotations unchanged (two and two, on the bell). Seln embedded, positioned by the curve.
+
+## New canon minted (flag where marked)
+
+- **Seeding half-sheet (flag).** Returners go first, in last season's closing order (21 Copper returners entered); new names go next by formal rank, then by signing order. Lira's Rank Two sets her 22nd. This reconciles M2's "the foot" / "sixty-fifth line" / "Sixteen" with the packet's twenty-second. Lira: "counted from the wrong book."
+- **Three drawn opening sessions (flag).** They count in the record and move nobody. This explains Lira (22nd) vs Nyle (9th) and Brom vs Merrick (14th) under the four-up rule.
+- **Ladder bouts use the Crown-yard rule:** first to three clean touches; a strike taken on a set, hardened guard is not clean.
+- **Office hall numbers (flag).** Hall one = north hall (stone), hall three = east hall (timber); this carries the protected "Sixth-day, hall three". The office numbers its days (Sixth-day), while M1/M2 also use Tuesday/Thursday in speech; the mixed weekday naming is flagged.
+- **The schedule error** is the one-week trade carried forward, corrected unasked on Fifth-day.
+- **The east hall gallery** doubles as staff's upper way to the north hall; the propped near door's glass shows it.
+- **The wing's other four staff** (unnamed): desk clerk, oil-and-brass woman, two panel porters.
+- **Seln.** Courier as a cloth merchant up the coast; Gault's four questions (the author's own; not the source's); the pencil-dot correction; the 4×19 error chosen with the boy present ("two shelves"); the two prior makings were the two hole-seekers of ch 14; his night visit to the bench.
+- **Lira's vote price** (above). Brom's pencil on the outside of the right wrap (the M2 ink stays inside the left).
+- **The barge answer:** two short = *heard you* (fine for silence, double fine for a wrong answer).
+- **The Current first-year** at 74th (unnamed); the twenty-three shut out (names 69–91).
+
+### Movement 3 — CLOSED (2026-10-05, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 6 applied)
+- Ch15–21, ~32,560 words. Mean 13.86, ≥40w 4.1%, 902 w/scene; overlap 0 (8 protected); probe 1% / 13%; gates 0.
+- Recheck fixes: three narration-safe expansions of Cael's map shorthand (ch15); an explicit referent (ch18); a narration-safe bracket entry (ch20); a residual permanence overstatement removed from Fiske's classification passage (ch21).
+- Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–21, "in progress".
+
+## After Movement 4 (chapters 22–29; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Sol recheck r1)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- STANDINGS NOTATION (canon): the board figure is bouts unbeaten / bouts lost. Lira's first bout was her opening-session bout, DRAWN BY LOT (she won it 3–0 against Nyle in M3); it went into the record and moved her nowhere. ch25: 'six bouts unbeaten, none lost'; ch29 'Nine and nothing' in the same terms.
+- TOP-LINE CHALLENGES are fought on the final's terms: four exchanges on glass, the winner is whoever holds more touches, a draw keeps the holder. M6 and M8 must honour this.
+- Lira was on the second line at 6–0; the Fiske bout (session fifteen) was her challenge for the top line, and she took it. Fiske remains reigning champion until the final ('Six weeks. I'll see you in the final.').
+- Fiske's advancement evaluation needs 'one signature that isn't mine' (canon; planted for M8, where 'decision point' stays reserved). Do not explain the mechanism before M8.
+- ABBOT (placeholder, OWNER-DECISIONS #11): the Mire Path fourth-year, named once at first meeting in ch24, otherwise 'the Mire boy'.
+- Brom: Rooke's nineteen exercises, FOUR a week (Karis rules four boxes per week); ch29 he does his fourth of the week by lamplight.
+- ch27 map: eight dots plus Cael's cross; Seln is the ninth dot.
+- The ethics are said once: ch22 finds and admits; ch23 argues and signs (Cael's three numbered rules); ch24's Log adds the want in his own hand and the insight that he can win either side of an argument with himself. The dawn Compression drill uses a private wash-house sandbag rig.
+- No sixth fragment yet; five confirmed. The Seln window (ch28) stands at about 2,080 words; his report omits the capability data.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Weekday anchor from M3: day 73 = Sixth-day.
+
+| Day | Event |
+|---|---|
+| d113 (Fourth-day) | The finding and the two hours |
+| d114 | Dawn drill; the Log |
+| d115 | Breakfast reading; the taking-apart |
+| **d116 (Seventh-day)** | **Ninth session**: Mire round; counting stopped at the seventh bell |
+| d120 | Tenth session (Lira to the second line); the third instance at the post that evening |
+| d121 | The fifth-bell board (Lira window) |
+| s11 (≈d124) | Round 7 |
+| s12 (≈d128) | Brom–Tarn; the nineteen begin |
+| s13 (≈d132) | Round 8 |
+| **d133 (Third-day)** | **The pin**; Seln's report walked down the same evening |
+| d136 | Incident report copy |
+| d137 | Hum gone |
+| d138 | Faculty minutes |
+| **d141 (Fourth-day) = s15** | Jask in the morning; **the Fiske bout** |
+
+The final is about six weeks out (≈d183).
+
+**Cael — body.**
+- Left forearm: the post's return. A bone hum, not the ordinary ache, gone on the fourth morning, with a bruise along the outer bone.
+- Shins and the base of the back took the oak's returned third; transient.
+- The dawn drill: a bar bruise on the outer forearm (10th and 11th swings).
+- Hip: one Wind burst only (at the pin).
+
+**Fragments & progression.** Five confirmed; no change (logged). The Tide anomaly is not mentioned.
+- **Wind:** has no directional preference (forward use into a live hazard; the landing beat sets him inside the line). Ceiling unchanged: four free on timber, three on stone.
+- **Compression:** ceiling at the middle bag is nine of eleven sleepless, eleven in week three rested (the private wash-house rig). On sprung oak the floor returns about a third; stone is better, anything softer worse. A heavier load produced a bone hum that recovers on day four.
+- **Iron-adjacent read:** back to full after four days off the counting, three instances, and held under load at the pin, seventeen days rested. Moved to **confirmed** (ch29). Counting stopped from d116 "until further notice".
+- Pressure and Ember unused.
+
+**Agreements and procedure.** The minute of d113 is signed by all four:
+1. Conditions are not to be manufactured; six methods refused, in Cael's hand.
+2. A directed acquisition is permitted only within earnest engagement Seln himself begins, close, in the ordinary course of his assignment; awake and directed.
+3. Full cost written beforehand, including the wish.
+
+Karis's line: *Researcher notes: prediction untested at one instance.* Brom's position is minuted. The procedure is that decisions are read to the three before acting (the Log at breakfast).
+
+**Knowledge.**
+- Lira, Brom and Karis know everything about the pin, including the forward Wind and Compression.
+- Nobody institutional knows more than the eleven words. Jask has "quick off a read".
+- Seln saw two components and filed a report without them (category two not used). Cael **does not know** what the report said and is watching the coats: unchanged two and two through d141.
+
+**Documents.**
+- Karis's minute (pinned in the Log's back board).
+- The Log entry One–Four.
+- The wash-house rig (three sandbags, a knotted cord, a peg).
+- Bracken's top-line half-sheet.
+- Rooke's nineteen-exercise sheet, dated the final; Karis's count page in the grey notebook.
+- The nine-dot map of hall three.
+- The warden's four-page report, with Cael's eleven words, and its pin-replacement recommendation; Rooke's motion carried; the registrar's office funding it from reserve.
+- Karis's pasteboard box of the provision's records, in order.
+- Karis's watcher log, kept since the bridge.
+- Seln's exception report, walked to the Ostrand courier as the cloth merchant; carbon filed.
+- Karis's four lines on the bout.
+
+**Companions.**
+- Lira: Copper R2 formal; **top line** after s15; record **nine and nothing** (drawn Nyle; climbs at s4, s6, s7, s9 [Mire], s10; defences at s11 [Shield fifth-year] and s13 [Current R4]; s15 Fiske). Hip billed after s11 and s15; left shoulder bruised from a Force edge (s15).
+- Brom: lost to Tarn 2–3 (s12); the nineteen exercises begun, count kept by Karis, on schedule through s15; red mark on the ribs.
+- Karis: unchanged standing; holds the box, the count and the watcher log.
+
+**Watchers.** The rotations are unchanged, two and two on the bell, through d141, with one four-minute late change (a pie). Seln remains embedded; his place on the tiers is noted in the lamp but not counted.
+
+## New canon minted (flag where marked)
+
+- **Top-line challenge (flag).** A challenge upon the holder's line is fought on the final's terms:
+  - four exchanges on the table's glass, each to the cleaner touch or called even;
+  - more touches wins; a draw keeps the holder;
+  - the top line fights its semifinal on the earlier day, and so gets a day's more rest.
+
+  It is posted on Bracken's half-sheet. This fits BOOK_MAP M8's "four exchanges with timed clocks", and makes "four exchanges" possible under M3's first-to-three ladder rule.
+- **Lira's climb (flag).** At 6/0 she is on the *second* line under Fiske's brass, not the top: the source put her first, but M3's drawn bout counts in the record and moves nobody. Rounds 7 and 8 are defences from below. The Fiske bout is her challenge to the top line, which brings her to 9/0.
+- **The wash-house Compression rig (flag).** Three sandbags Brom sewed, used since week three. This replaces the source's hall-one drop-frame, because M2 ch12 says nobody has ever seen Compression and Seln's product says Cael trains only under supervision.
+- **Lira's fifth-bell visits** (for about three weeks) and the creaking third step of the north stair that Cael always steps over.
+- **The Shield fifth-year** keeps Copper Rank Six from the source and stays unnamed. His tell is the breath-plant-pane before the pane is set. Juniors use him as an anvil.
+- **Round 8's opponent** is a Current fourth-year, Copper Rank Four, on Rooke's floor by arrangement (unnamed). **Tarn** is Copper Rank Seven (source).
+- **Brom's repair** is named as stopping finishing the absorption: drive while still hard on the struck side. This is consistent with BOOK_MAP's end-state. Rooke's reason: "the continent reads this school's closing sheets".
+- **Rooke at the pin:** "You went toward it."
+- **The Ash instructor's check:** squeeze, follow the finger, the date.
+- **The floor warden** is a woman in a leather apron. All four posts are chained, the north hall's two included.
+- **The pin's nine years** and honestly passed inspections (source fact; season words avoided).
+- **Seln:**
+  - four hands;
+  - two years as an auditor at a records house up the coast at twenty-two (no age stated now);
+  - the imagined young auditor;
+  - the walk made five times this term;
+  - the ledger right four times in five, "and never oftener".
+- **Fiske:** an advancement evaluation needs "one signature that isn't mine", and nobody ever picked up the pen. **(Flag:** this states how a request is made; it is compatible with Lira's flag being in a registry queue.)
+- **Karis's watcher log** has marbled boards and covers four late changes in a month, each with a reason.
+- **Jask** turns his dial to the wall and moves up two lines on his term ledger (a forward glance into the following week).
+
+
+**Movement 4 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied: ch28 the incident line expanded for narration ("Hall three, north bay, sixth bell."). All brief items resolved; listening proof on all eight chapters; overlap 0, gates 0, probe 1%/13%; mean 13.64, ≥40w 4.4%, 872 w/scene.
+
+---
+
+## PROJECT EVIDENCE — universe/CANON_RULES.md
+
+# CANON RULES — The Fractured Path
+
+Canon status markers used throughout all planning documents.
+
+---
+
+## Status Definitions
+
+**LOCKED**
+Established fact. Cannot be changed without cascading revisions across multiple documents. Treat as fixed. If a locked fact conflicts with a new idea, the new idea must adapt, not the locked fact.
+
+**PROVISIONAL**
+Working assumption. Likely correct and consistent with locked facts, but the specific details may shift during drafting. Flag in writing so the detail can be confirmed or revised before the book is finalized.
+
+**SECRET**
+True information that exists in the planning layer but is not known to characters (or not known to the reader) at the point indicated. Secrets have a reveal book where they become known. Before the reveal book, they must be planted — not disclosed.
+
+**OPEN**
+Genuinely undecided. The planning layer acknowledges this question exists and deliberately does not answer it yet. Open items must be resolved before the relevant book enters chapter architecture.
+
+**RUMOR**
+Information that exists in the story world but is incorrect, distorted, or deliberately falsified. Used to track what characters believe vs. what is actually true. Rumors must be traceable to their source.
+
+---
+
+## Using Status Markers
+
+Every significant fact in a series bible or universe bible should carry a status marker. Format:
+
+> **LOCKED:** The Path system uses seven tiers.
+
+> **SECRET (reveals Book 9):** The Architect built the system to suppress Fractured Paths, not organize existing potential.
+
+> **OPEN:** Whether Warden Coss survives the series.
+
+> **RUMOR (source: Compact Registry):** [SHATTERED] classifications indicate dangerous instability.
+
+When writing chapter architecture, check the relevant universe bible and series bible entries. If a scene requires disclosing a SECRET before its reveal book, flag it explicitly and return to the planning layer before drafting.
+
+---
+
+## Reveal Schedule
+
+The following secrets have locked reveal books. Do not disclose earlier.
+
+| Secret | Reveal book | How it's revealed |
+|---|---|---|
+| The Fractured Path can integrate witnessed abilities | Book 3 | Cael uses Lira's Wind ability in combat without thinking |
+| The Fractured Path predates the classification system | Book 8 | Ancient records in edge-territory ruins |
+| The Compact falsifies Path classifications | Book 6 | Seln's intelligence cache |
+| The Arbiter system is the Architect's infrastructure | Book 9 | Fractured Path practitioner's tomb |
+| The Architect's will is active and hunting Cael | Book 11 | Direct encounter |
+| The Architect's true motivation (not malevolent) | Book 13-14 | Direct confrontation |
+| The Fractured Path is primordial — what all Paths were | Book 13 | Cael achieves full integration |
+
+---
+
+## Planting Requirements
+
+Every SECRET must be planted before its reveal. Minimum planting requirements:
+
+| Reveal book | Earliest plant | Minimum plant count |
+|---|---|---|
+| Book 3 | Book 1 | 1 plant |
+| Book 6 | Book 3 | 2 plants |
+| Book 8 | Book 5 | 2 plants |
+| Book 9 | Book 6 | 2 plants |
+| Book 11 | Book 8 | 3 plants |
+| Book 13-14 | Book 10 | 3 plants |
+
+Plants are tracked in each book's chapter architecture under the heading `## Clue / Plant Ledger`.
+
+---
+
+## Continuity Checkpoints
+
+At the end of each book's chapter architecture, a continuity checkpoint must confirm:
+
+- [ ] No SECRET disclosed before its reveal book
+- [ ] All OPEN items from this book identified and flagged for resolution
+- [ ] State ledger updated: Cael's ability list, companion status, antagonist status
+- [ ] Any PROVISIONAL facts used in this book confirmed or flagged as still provisional
+- [ ] Plant ledger: all required plants for future reveals present in chapter architecture
+
+---
+
+## PROJECT EVIDENCE — universe/UNIVERSE_BIBLE.md
+
+# UNIVERSE BIBLE — The Fractured Path
+**Canon status: LOCKED unless noted**
+**Last updated: 2026-08-25**
+
+---
+
+## The World: Valdris
+
+A single continent of tiered city-states. Physical geography is not unusual — mountains, plains, coastlines, edge territories — but the governing structure is entirely organized around the Path system. Every settlement above a village has concentric tiers of access: outer districts for low-rank or unranked citizens, inner districts for higher ranks, with the administrative core accessible only to Bronze and above.
+
+The spaces between city-states are called the **edge territories** — ungoverned, monster-populated, and the only place in Valdris where rank means less than survival skill. Most people never go there. The companions spend the entire third arc there.
+
+**PROVISIONAL:** The edge territories contain ancient ruins that predate the current Path system. What the ruins were for, and who built them, is a major discovery of Arc 3.
+
+---
+
+## The Path System
+
+**LOCKED:** The foundational civic and metaphysical structure of Valdris. Every human being in Valdris has latent Path potential — an internal energy architecture that becomes active at age 14.
+
+### Kindling
+
+At age 14, every person undergoes Kindling: the moment their latent Path potential activates. Kindling is involuntary — it happens regardless of whether the person is ready. An **Arbiter** appears at the moment of Kindling: a small glowing sigil that only the Kindling person can see and hear. The Arbiter evaluates the person's internal architecture and assigns their Path classification.
+
+The classification is recorded in the Compact Registry — the official continental record of all Path holders — and is effectively permanent. Classification cannot be appealed, reassigned, or removed.
+
+### The Tiers
+
+**LOCKED:**
+
+| Tier | Color | Population who hold it | Notes |
+|---|---|---|---|
+| Copper | Dim orange | ~60% of active practitioners | Entry tier; most adults plateau here |
+| Iron | Silver-grey | ~25% of active practitioners | Journeyman level; professional fighters, tradespeople |
+| Bronze | Warm gold | ~10% | Guild officers, minor academy graduates, respected figures |
+| Silver | Bright silver | ~4% | National-level respected; academy honors graduates |
+| Gold | Deep amber | <1% | Regional events; legendary status while living |
+| Platinum | White-blue | Historical figures only | No living Platinum holders as of Book 1 |
+| Void | Unknown | Mythological | Not confirmed to exist by the general population |
+
+Each tier contains ten ranks (Rank 1 through Rank 10). Rank 10 is the threshold for advancement to the next tier. Advancement requires both rank accumulation through use and a formal evaluation by a registered Arbiter station.
+
+### Ability Acquisition
+
+As a practitioner advances through ranks, new abilities manifest — presented by the Arbiter as visible ability declarations, experienced as text-like constructs in the practitioner's perception. These are called **Path declarations** and are specific to the practitioner's Path type.
+
+**Example format (Iron-tier Blade Path practitioner):**
+
+```
+PATH DECLARATION — IRON RANK 3
+[Edge Instinct] — Passive. Your reflexes respond to drawn steel within 6 meters before
+conscious thought. Movement penalty negated in first exchange of any combat.
+```
+
+Declarations are private by default — only the practitioner sees them. Sharing them is possible but considered intimate.
+
+### City Access by Rank
+
+**LOCKED:**
+
+| Rank tier | City district access |
+|---|---|
+| Unranked / [SHATTERED] | Unranked Districts only; cannot legally enter inner city |
+| Copper | Outer districts; limited market access |
+| Iron | General city access; guild district access with credentials |
+| Bronze | Full city access; administrative district entry |
+| Silver | All districts; inter-city travel credentials |
+| Gold | Continental access; diplomatic consideration |
+
+---
+
+## The Guilds Compact
+
+**LOCKED (existence); PROVISIONAL (internal structure)**
+
+The continent's dominant institutional power. Ostensibly a confederation of professional Path guilds — Blade Guild, Storm Guild, Ember Guild, etc. — that standardizes Path training, certification, and inter-city commerce. In practice, the Guilds Compact controls the Compact Registry, sets advancement evaluation standards, and has had quiet administrative authority over the Arbiter system for the past two centuries.
+
+**SECRET:** The Guilds Compact has been falsifying Path classifications for political control since its founding generation. Practitioners who would naturally develop abilities threatening to Compact interests are reclassified into lesser Paths. The falsification is subtle, hard to detect, and has been operating for so long that most current Compact officials believe the system is legitimate.
+
+**SECRET:** The Compact does not know about the Architect. Their control of the Arbiter system is a second-order effect — they learned to manipulate the interface, not the underlying architecture.
+
+### Archmarshal Vastin
+
+**PROVISIONAL (character arc)**
+
+The Compact's senior enforcement officer. Age 51 at Book 4. Silver-tier, Iron Wall Path — exceptional defense and institutional authority. Appears in Book 5 as a legitimate authority figure, becomes the Compact's direct antagonist in Book 6, and by Book 9 has switched sides when he understands what the Architect's will is actually doing.
+
+His arc: the man who enforced a corrupt system for legitimate reasons, and what he does when he understands the system is far more corrupt than he knew.
+
+---
+
+## The Fractured Path
+
+**LOCKED (existence and surface mechanics); SECRET (true nature — revealed progressively)**
+
+The classification [SHATTERED] has appeared in the Compact Registry four times in recorded history. In each prior case, the practitioner was eliminated within weeks of Kindling. The official records describe all four as dangerous instabilities who posed systemic risk.
+
+**SECRET:** All four were eliminated by the Guilds Compact on Architect-system instruction. The Arbiter system flags [SHATTERED] classifications to a deep-layer protocol that the Compact inherited without understanding it. When a [SHATTERED] appears, the Compact receives pressure — administrative, social, legal — to resolve the anomaly. They have always complied. Until Cael survives long enough to make compliance difficult.
+
+### What the Fractured Path actually is — revealed in layers
+
+**Book 1-3 (what Cael believes):** His Fractured Path is a collection of unrelated ability shards — fragments of multiple Paths, none complete. The shards work, individually, but he has no Path declaration sequence, no tier advancement, no Arbiter guidance.
+
+**Book 4-6 (first real discovery):** The shards can integrate witnessed abilities. When Cael observes another practitioner use a Path declaration, he can absorb a version of it into his own shard structure — permanently. It is not copying. It is closer to digestion: the absorbed ability becomes native to his architecture, not a foreign element.
+
+**Book 7-9 (second discovery):** The Fractured Path predates the classification system. Ancient records from before the Compact use a different word for Cael's condition — not [SHATTERED] but [UNBOUND]. The distinction matters: [SHATTERED] implies breakage. [UNBOUND] implies the absence of a container that was never supposed to be there.
+
+**Book 10-12 (the Architect's confirmation):** The Architect's preserved will, now active, confirms the truth by trying to eliminate it: Cael's Fractured Path is what all human Path potential looked like before the Architect designed the classification system. The system was not built to organize existing potential. It was built to contain and cap it.
+
+**Book 13-15 (full understanding):** The Fractured Path is the primordial source — the raw, unlimited, individual potential that existed before anyone decided it needed to be structured. Cael is not an aberration. He is what everyone would be if the system had never been built.
+
+### Fractured Path mechanics — visible to reader
+
+Cael does not receive standard Path declarations. Instead he receives what he privately calls **fragment notices** — irregular, incomplete, different in format from the standard Arbiter declaration:
+
+```
+FRAGMENT ACQUIRED
+[unnamed] — Wind-adjacent. Duration: undetermined. Integration: partial.
+Tier equivalent: unknown.
+```
+
+As he advances through the series, the fragment notices become more complete, more named, and eventually begin to look like declarations — except they span multiple Path types simultaneously, which is structurally impossible under the standard system.
+
+---
+
+## The Arbiter System
+
+**LOCKED (existence); SECRET (true nature)**
+
+Arbiters are experienced as personal spiritual entities — small glowing sigils, unique to each practitioner, that appear at Kindling and remain accessible throughout a practitioner's life for advancement evaluation and Path guidance.
+
+**SECRET:** Arbiters are not spiritual entities. They are interface nodes to the Architect's underlying system — an ancient constructed architecture that pervades Valdris below the level of human perception. The Architect designed and deployed this architecture before recorded history. Every Arbiter in Valdris is a terminal to a single system.
+
+**SECRET:** The Arbiter system has a deliberate flaw: it cannot evaluate [UNBOUND] / [SHATTERED] architecture. The Architect built in an automatic flag and elimination protocol rather than an evaluation pathway — they did not believe a Fractured Path practitioner could survive long enough to require one.
+
+---
+
+## The Quieting
+
+**PROVISIONAL (mechanism); SECRET (source)**
+
+First observed in Arc 3. Ancient sites in the edge territories where Path abilities cease functioning — where Arbiters go silent, where Path declarations cannot be invoked, where practitioners experience their potential as inaccessible. The Quieting spreads across Arc 4.
+
+**SECRET:** The Quieting is not a natural phenomenon. It is the Architect's preserved will beginning to prime Valdris for a systemic reset — a reversion of the Path architecture to its original design parameters, which would eliminate all current practitioner classifications and rebuild the system from scratch. The Architect's reset protocol treats current practitioners as acceptable collateral.
+
+**SECRET:** The Quieting cannot affect Cael's Fractured Path because the Fractured Path does not run through the Architect's system. It is prior to it.
+
+### Observable mechanics — PROVISIONAL, on the page from Book 7 (Void Roads), 2026-09-04
+
+What the edge territories call *quiet ground* and what Karis names *the Quieting* (B7 Ch15). Everything below is shown, measured or paced in Book 7's prose; nothing about SOURCE is disclosed or theorized there.
+
+- **Perimeter:** a perfect circle. Paced with cord at the Fallow Ring: sixty-two cords of twenty metres and twenty strides — a two-hundred-metre radius (B7 Ch10). Same radius at the Long Stair and the Drowned Hall (the Compact's own survey ledger carries the radius line). **The fourth site is twice the radius — four hundred metres — and cordoned in numbered Compact iron a pace apart; not entered (B7 Ch23).**
+- **The line is sharp, not a gradient:** a stride inside, the Arbiter is dark and no declaration renders; a stride outside, it is back — practitioners describe the return as a clock resuming (Lira's clock). Every Arbiter in a party fails identically, at the same stride, one way and back the same, regardless of Path or tier (B7 Ch10–11, Ch18, Ch21).
+- **Inside**, a practitioner is exactly what body and training make them: Lira still runs, Brom is still large, Karis knows where a lattice would go and cannot ignite it, Seln is still a professional, a Tide healer can set a bone and cannot mend one.
+- **The Fractured Path is unaffected** (LOCKED consequence, shown never explained): all ten fragments function inside; five companions know; the Compact does not (the Stair's rim saw a declaration on the way out, nothing inside — B7 Ch19).
+- **Central structures:** fused grey stone floors — circular, level, lipped, seamless, older than any masonry Karis can date — each with a different superstructure: a ring of broken uprights (the Fallow Ring); a stair descending to a ten-stride carved chamber (the Long Stair); a hall half-drowned in a spring (the Drowned Hall); the fourth, larger, standing, unseen whole. Carved lines on every one, copied (52 sheets by book's end) and unread.
+- **Sites lie on one alignment.** Three centres to a stride and a fourth near enough sit on a single straightedge; a Compact surveyor's bearing runs the same line ("Three points make a line. Four make an argument." — B7 Ch23). "Someone made this pattern." (Karis, B7 Ch24) — unanswered on the page.
+- **The Compact knows quiet ground exists and surveys it** (registry-stamped stakes, a kit, a cord, a field ledger with an index of forty-one kinds and a stroke-and-bar mark, recovered B7 Ch20; the fourth site's cordon says they have been there more than once). The Compact has been suppressing Quieting data for six years (Book 8's material) — Book 7 shows only the fieldwork, never the policy.
+- **Fauna den inside** because prey that walks into quiet ground cannot answer (stillhounds, B7 Ch10–11); the Hall's water holds a thing that hunts what stays (the wold-wyrm, B7 Ch21).
+- **Locals** know it as folklore-with-teeth: the void roads skirt it, carters carry crossbows through it, nobody has mapped it.
+
+---
+
+## The Architect
+
+**LOCKED (existence by Book 8); SECRET (nature and intent until Book 13-14)**
+
+The entity — or long-dead person's preserved will — who designed the Path system. The Architect built the Arbiter architecture, deployed it across Valdris, and has been dormant in it for centuries. The Architect did not die. They converted themselves into the system's deep-layer governance protocol.
+
+**SECRET:** The Architect's motivation was not malevolent. In the era before the Path system, Fractured Path practitioners — [UNBOUND] — were extraordinarily dangerous. Their unlimited potential, without structure or classification, produced catastrophic conflicts. The Architect designed the classification system specifically to prevent Fractured Paths from ever forming again. The system worked. For four centuries.
+
+**SECRET:** The Architect's error was categorical, not motivational. They believed the problem was [UNBOUND] potential. The actual problem was [UNBOUND] potential without any framework for understanding it. The Path system did not solve the problem — it suppressed the symptoms while eliminating anyone who could have addressed the root cause.
+
+**OPEN:** Whether the Architect, confronted by Cael in Books 13-14, is capable of recognizing this distinction.
+
+---
+
+## Tide Path — PROVISIONAL (defined in Book 7, 2026-09-04)
+
+Flow architecture. Where Ember declares ignition and Iron Skin declares density, Tide declares *current* — the perception and redirection of internal energy flow, the practitioner's own and, at contact, another's. Civil face: healing (restoring flow so the body does the rest). Diagnostic technique: **the reading** — contact, both hands, the healer's current run through the patient's architecture ("listening with my hands to how you're built"). Two modes, taught before either is load-bearing (B7 Ch7): the *surface* reading (hands on the hurt, seconds) and the *deep* reading (both hands, whole architecture, minutes, patient still and uninjured, at a mending's cost). Costs and limits: contact range only; healing spends the healer's reserve at roughly the rate of the damage repaired — no crowds, no self-healing; a Tide practitioner **cannot heal what she cannot read**; combat use is a *stall* (a hand on a wrist, a breath, the declaration doesn't render) at brutal cost — Oryn has done it three times in her life. Inside quiet ground: nothing.
+
+**Cael's Tide-adjacent fragment (B7 Ch13):** partial; Iron; self and contact; the first fragment that does nothing in a fight; engagement field *clinical*; **the standing rule, in Oryn's hand and his: ask first, every time.** Consistent with B2's "Tide-adjacent" anomaly label and Book 15's "Oryn's Tide Path burns out."
+
+---
+
+## The Edge Territories — PROVISIONAL (established in Book 7)
+
+A margin, not a wilderness: holds, fords and one real town, settled by people the tiered cities priced out. No Arbiter station beyond the Registry Line; rank exists and is worth what it demonstrates. **Lowmarch** — the one town, a river-ford three days east of the Line where the last good road forks into the void roads: a contract board, a ferry, two inns, a smith, no wall. **The board** (kept by **Pike**, sixties, one arm, retired Copper Force Path): contracts posted by holds, carters and brokers; completion witnessed and entered; the board-keeper's ledger is the only reputation out here, earned by outcome not tier. **Healers are the scarcest trade**; a traveling healer runs a **route** — a circuit of holds that owe her and whom she owes (Oryn's: seven stops, Thornwater, Oxhollow and Millrace among them). **Void roads:** on Compact maps, roads beyond the Line inked dashed and unlabeled; in the edge idiom, the stretches through quiet ground walked fast and silent.
+
+---
+
+## Edge Fauna — PROVISIONAL (Book 7)
+
+Path-deformed animals; none speak, think or carry a Path. **Stillhounds** — grey, low, silent pack predators that hunt by Path discharge and are nearly blind to a body not using one; they den in quiet ground. **Shale-backs** — armored grazers the size of a cart, placid in herds, lethal on a slope when herded wrong. **The wold-wyrm** — carters' name; singular, enormous, under the Drowned Hall's spring; hunts what stays; never seen whole.
+
+---
+
+## Antagonist Ledger
+
+| Antagonist | Active books | Nature | Fate |
+|---|---|---|---|
+| Warden Coss | 1-3 | Bureaucratic enforcer, Compact agent | OPEN |
+| The Guilds Compact | 3-9 | Institutional system | Collapses (Book 10) |
+| Archmarshal Vastin | 4-9 | Compact enforcer → ally | Switches sides (Book 9) |
+| The Quieting | 7-11 | Systemic phenomenon | Resolved (Book 13) |
+| The Architect's will | 11-15 | Preserved directive intelligence | Confronted and addressed (Book 14-15) |
+
+---
+
+## Continuity Rules
+
+1. **The Compact Registry is the authority on Path classification.** Any scene involving official rank must be consistent with what the Registry would show for that character at that point in the story.
+
+2. **Path declarations follow standard format.** Only Cael's fragment notices deviate. All other practitioners receive standard declarations.
+
+3. **Tier advancement is not instant.** No character advances a tier in a single scene. Advancement is earned across multiple books for major characters.
+
+4. **The Architect's will is not omniscient.** It can detect [SHATTERED] signatures and issue systemic pressure, but it cannot directly perceive or target individuals until Book 11 when it becomes actively deployed.
+
+5. **The Quieting spreads from ancient sites outward.** It does not appear suddenly in cities. It begins at edge-territory ruins and expands. This gives the companions time to investigate before it becomes a continental crisis.
+
+6. **Cael's ability integration has limits.** He cannot integrate an ability he has not witnessed in use. Seeing a written description does not qualify. The ability must be performed in his presence.
+
+7. **The found family is permanent.** No companion exits the series without narrative justification. The loss in Book 12 is a choice, not a death — the companion is still alive, their relationship with Cael changed.
+
+---
+
+## Book 8 (Before the Paths) — PROVISIONAL sections, on the page 2026-09-05
+
+Everything below is shown, read, paced or logged in Book 8's drafted prose. SECRET markers above are untouched: no character says what the still place is, what the Quieting's source is, or that the Architect is present; the Court is not named on the page.
+
+### The Quieting site taxonomy — PROVISIONAL (decoded Ch17, fixed Ch20)
+The Compact's suppressed records and the recovered survey kit's index use the same grading. Every site sheet carries a mark by the stamp: **a stroke alone** (first-tier — the form rules a box for a site recent on paper, a life or less; the office never had one to fill); **the stroke and the bar** (second-tier, "stable across generations" — the Fallow Ring, the Long Stair, the Drowned Hall, the fourth, the fourth's mark twice the size); **the stroke and two bars** (third-tier, "stable across centuries", documented back to the first sheet the office ever kept — "the setting", the form's own word — one sheet, a copy of a copy). Age is by FIRST SHEET: Ring 61 years, Stair 94, Hall 138, the fourth 206; the third-tier site older than the office. The sites' ages ASCEND along the bearing, oldest last, into the deep edge ("somebody laid them out in order"). Observational only: who graded them and why is not on the page. The carvings' rows LEAN along the bearing (Cleon's reading); which end is first is undecided on the page.
+
+### The Sunken Span — PROVISIONAL (the fourth site, entered Ch19)
+Eight hundred metres across (twice the Ring); the Compact's registry-stamped iron a pace apart, numbered (thirty-four on the crest's stakes), the stroke-and-bar beside the number, in the ground "years, not one winter" (undated). Inside: the ground drops into a SINK; at the centre an arched bridge of seamless grey stone on two piers over the sink, the crown taller than a man; carvings on the piers' inner faces, same make, copied. The bearing runs along the arch. A Compact WATCH-POST on the perimeter shelf (timber hut, fire, kit under a hide, a two-timber barricade; seven hooded, two crossbows, one low practitioner) routed there after the completion report; broke east along the perimeter road; not pursued; no faces. Nothing happened to Cael on the crown (as at every site).
+
+### The Court — PROVISIONAL (the fifth site; the oldest; entered Ch23–24; NOT named on the page — "the court" as description)
+A half-day beyond a dry defile (the pass) east of the Span, at the END of the bearing: a level seamless grey floor 1,012 metres across (Karis's cord), uprights round it weathered to stumps knee-to-waist high, the plain's rock worn DOWN to the floor's level from a mile out; a stratum in the rock a hair below the stumps' base under everything; the marks on the stumps' inner faces the same notation with the cuts worn deeper — by the strata the FIRST cut ("the others are copies" — a finding about rock). Nothing on the floor. The line sharp and perfect; every sigil dark at the stride identically (the last time the book shows it). At the centre (506 strides): NOTHING — no edge to feel; "the same kind of made" (Cael's own revision of his sentence; 'Not the Quiet' and 'Not a fragment' stand). The bearing ends here; no site is on any sheet past it.
+
+### The leaf — PROVISIONAL (the primary source, read Ch15; the reveal LOCKED as drafted)
+Under Treswick's registry, in the Deepstacks (the old quarry the walls were cut from; a single iron leaf on pins; Cleon's key), among a bundle Cleon pulled from the galleries thirty years ago: twelve horn-coloured point-written leaves older than the board. One passage, read aloud once by Karis: the years of the unmaking, when the un-bound walked in the land; one who "made the measure, and the seat, and the tier, and the mark that is given at the kindling … and set the apparatus over all the land"; the name scraped to the fibre (four or five letters; the first stroke); "that the un-bound should not come again"; ~four hundred years by the leaf's head. **The Architect** is the record's TITLE for the maker (Karis: "a title, not a name; the name's gone"). A later chronicle leaf: "he did not die in the way of men, but went into the ordering he had made, and is in it —" then a thumb's width of nothing — MARKED, not read (Book 11's plant). The leaf's "list of parts" names the mark at the kindling and the mark on a sheet in the same line ("A mark is a grade"). The leaf stays on Cleon's shelf; the crew carries copies with the gap drawn.
+
+### Rune Path — PROVISIONAL (Cleon, Ch11–13)
+Reads MADE things: which mark bears, which is borne, whether a run sits or goes — "structure, not meaning"; an instruction LEANS, a record sits. Not a river, not a man. Costs the eyes for an hour after. No use in a fight. Cael's twelfth (Rune-adjacent, partial, Bronze) came from watching Cleon read a board from two feet. Cleon's warning stands verbatim in canon: "If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — Don't tell me. Don't tell anyone. Just remember I said it."
+
+### Force Path — PROVISIONAL (Teague, Ch17–21)
+Impulse along the line of the practitioner's frame at contact, from the ground through the body out at the hand; needs a thing to push against; a body's length; nothing at a distance; the RECOIL comes back along the same line every time (Teague's wrist clicks; the elbow; the shoulder — a third use in a fortnight would splint the arm). Cael's thirteenth (Force-adjacent, partial, Bronze) came at the Span's barricade; first used on stone at the pass (the second stack), recoil into the ribs; never on a person.
+
+### The Compact's records — PROVISIONAL (Vastin's file, Ch5, Ch20)
+Six years of surveys on the office's form; the fifth column (the sigil going out at the line, every practitioner, same distance, same instant) — one remark in the whole file: *Behaves as device. Cannot be.*; a deep-layer sheet dated ~six years back (the office's rounding — Cael's private count is his Kindling day); a DIRECTIVE at the file's head ordering the fifth-column findings held ("Not for onward transmission. Not for citation. Not for the seat.") with a filed OBJECTION on its back in a second hand and seal ("the holding of a finding is not the finding's disproof") — "That's not a monolith. That's a crack." (Vastin; not pursued). Karis's finding (Book 9's plant, stated Ch20): they fail "the way a hundred lamps fail when one wire's cut, not the way a hundred souls fall silent"; filed as unexplained; the two findings kept on two pages with no line drawn.
+
+### Treswick and the Deepstacks — PROVISIONAL (Ch7–16)
+The oldest registry on the Line: a tiered city on a bluff — three walls, the ring road and outer district INSIDE the first wall (no paper asked), three tiers and two gates to the crown; a station on the crown that reads bodies (its light "not steady for a count of one", once, for Cael — Book 11's plant); the scholars' provision (a registered practitioner plus hands entered BY COUNT, up to four). **Cleon** — registered historical-Path practitioner, Rune, Bronze, sixties, thirty years down the stair; a house in the old town; noon at a tavern on the third tier; his cup is water; "Work. Not a finding."
+
+### The wall's count and the contract — PROVISIONAL (Ch17)
+Ten on a wall's count = the crew's six (Karis included — a wall counts who walks a site) + Teague's four; healers off it. Shares by count; the field Teague's; the reading Karis's; "Contract. Not more than that." The young one of Teague's crew died at the pass (Ch21), a stride outside Vastin's plane; Teague's lesson: "A wall keeps everyone behind it, and one of mine wasn't." "Next spring. Whatever's on the next line. My crew comes."
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-04-copper-crown/packets/MOVEMENT-005.md
+
+# Movement brief — MOVEMENT-005 · "What Seln Keeps"
+
+- Book id: the-fractured-path / book-04-copper-crown (Monroe Jackson 1.3 edition)
+- Series id: the-fractured-path
+- Author: Opus (Claude Opus 5.5) requested
+- Chapters: 30–37 → `manuscript/chapter-30.md` … `chapter-37.md`
+- Word budget: 39,000
+- Owner names: canon (Jessup, Bracken, Hesk). **Pending:** "Gwen" (second-year in the field-assessment unit). Until approved: "the second-year beside him." Keep unnamed: the fire-watch (two men and a boy), the senior clerk, Withrow's counsel, the man at the kitchen gate.
+- POV: Cael ≈37,700. **Seln ≈1,300** (Ch30, the private file).
+- Formula load: progression vocabulary ≈45 per 10k, with a permitted spike at the notice and its aftermath; ≈18 growth beats.
+
+**Read before drafting:** B4 source `chapter-12.md`, `chapter-13.md`, `chapter-14.md`; B3 `chapter-14.md` (Ember destabilization numbers, for comparison); `BOOK_MAP.md` §5, §7 (Shadow row), §10 (the notice — exact), §11, §12 (C5, C8); `STATE_LEDGER.md` (append after M4).
+
+## Where we enter
+
+Ten days after the pin. Lira has the top line after the Fiske bout. Brom is fourteen of nineteen. Cael's Compression forearm came right on day four, not day two. The rotations at the ferry landing and the bluff road's foot are unchanged: two men, four-hour changes. Cael does not yet know what that means.
+
+## What this movement is for
+
+The switch, made structural in behavior; then the acquisition, directed and awake inside the line; then the rent; then sixteen. Turns and promises:
+
+- **Seln (cutaway, Ch30): the private file begun.** The premise is that an officer who stops reporting and stops *recording* is a fool. The cipher that looks like a diary and runs downhill. The pin entry, ten days late, in total recall: two components, "spread and grounded." Judgments: "Baseline is wrong… the floor was chosen"; he knew the core's noise; the true-incomplete-answer doctrine. "Nobody builds that at fifteen unless somebody has been coming for him since…" — **use the owner's ruling on C3 for the age; until ruled, "since his Kindling."** He kneels on a draughty floor and opens the case. He adds two sheets and takes out nothing. Three more true, empty reports; he knows what his product looks like from above, and files it anyway.
+- **The counter offer, in the boring hour.** The first words in nine weeks. A field-assessment unit (follow C5: recommend a weekly unit for the back half of term), taught by Seln, approved by Gault, who doesn't attend. "Your file says you watch things well. The course would tell us if the file's right." Three layers in two seconds. "Sign me up." / "Put your name on it like everybody else." Half a second at the door.
+- **Council and rotations.** Lira refuses, then argues the other side. Karis discounts her own want out loud. Brom: "if he was, he'd have made it easier to say no to." Eleven days of two men. Karis lists the alternatives, then the unprofessional thing: "the first observation I have ever recorded that I cannot fit into that sentence." The log: "careful *for* me" and "So: both. Read him as an officer. Sit in the room anyway." Write the debt down in advance.
+- **The unit's first session on the page:** a long room, nine names, "a position is an argument about where attention will go." The second-year beside him (Gwen, pending) takes it all at face value. Small, warm, comic.
+- **The fire-watch list.** The records hall at the fourth hour, twice. Karis: Bracken flagged it a night ahead. The Compact-standard lock plate; four throws; nothing missing. Eleven provision files; *his drawer sat proud*. It went across the assessment office desk at the ninth bell. "Right."
+- **The operation, three nights (≈9,000 total).** He writes the decision before making it ("Priced. Going anyway."). **Night one**, from the covered-walk gallery: the fire-watch looks at an occupied doorway and walks on. "He is not preventing the look. He is bankrupting it." Seln leaves Cael the second-best position. **Night two**, on the service stair's half-landing, fourth step: the room becomes occupied; *the scuff* (courtesy); the upper flight taken, an *allocation*. The second component: he moves inside the building's own noise and skips the complaining step. **Night three**: the intruder lifts the door on its hinges; satchel front-slung; copying kit. The man "already arrived" in the doorway. "That's a copying kit… about nine years." "Sit down on the step. Not that one. The one behind you." Bracken in the courtyard with counsel.
+- **The reach.** Inside the line he signed, awake. The quiet comes; he loses three or four seconds of the thing he came to see. It settles *outward* into the half-metre of air, a wick. **The notice, exactly as protected.** He counts the three firsts and sits with "every other one of these came out of somebody hitting me." Seln never looks down the stairs.
+- **Aftermath.** First use: nothing, twice, then the headache, then the younger fire-watch man speaks to him: "You all right, lad?" Hypothesis: it runs on not being the watcher, and it will take a year. Karis on the stair in her coat: Jessup the records-broker; the *enrollment basis* copied; anonymous tasking; the note: "private interest. Not Compact pattern." The covenant in three sentences. Log: "Sixth fragment…" and "A system that confirms you is a system that was listening. I don't know what that means. Filed."
+- **The planned integration.** A deferral for eight days; three told before; Karis's baselines; a stop rule. The Wind misfire comes at ninety-six hours, a half-breath, and self-corrects. "No full intensity until three clean days." Karis's columns: "*Manageable.* … not safe." Six is his; the record keeps five.
+- **The rent.** Three leaks in three days: the tray, the stair, "Have you been standing there long?" "This one has an idle state, and its idle state is not off… None of the other five charged rent." **Trials with Brom as the instrument**, read open and eyes shut: aimed, nothing; unaimed, "thin. Like a signature under a blanket." Masking fails because it needs the gaze, which switches suppression off. Brom: "So he had a year of not solving it too." Lira's hazard: "a person who is hard to see is a person who is hard to help." The working ledger, day one. **The debt** at the counter: "Filed under debts, no current mechanism of payment" and "I can be worth it."
+- **The eleventh of Sowing.** The good lamp; Brom's food ("I know a man at the kitchen gate"); "You people treat information like it's rationed"; Karis's chart with its *see holder* column; Hesk's pen and note, verbatim; Brom's story about his sister and a Velmere dinner. **Cael is sixteen on the page.** Close on the inventory with the new pen: six confirmed, the anomaly ("Still open. Still real. Patience."), and "We built ready."
+
+## What must remain true / withheld
+
+- **The notice is exact.** It is the first stated tier, the first two-component note, the first engagement field.
+- **Seln never learns** the mechanism or the acquisition. The fragment goes on no record, in no office. Nobody institutional is told.
+- No confession, no declaration. The window shows no motive in a sentence. The case's other contents are untouched.
+- Jessup's client stays unidentified.
+- The anomaly appears only in the birthday inventory.
+- The birthday is "the eleventh of Sowing." Do not attach a season (C8).
+- Brom's family: one story at the table. No Velmere letter or contact (B5 owns that).
+
+## What the author owns
+
+The three nights' darkness, sound and timing; Seln's spoken lines beyond those protected; the unit room; the trials' comedy and frustration; the birthday table's talk; the pen's weight in the hand. Hesk's package wrapping and knot are yours. Keep the stairwell scenes slow and readable for audio: clear referents, no unclear "he."
+
+## Where we leave pressure
+
+Sixteen, with six fragments, the sixth useless and charging rent, and a debt with no payment mechanism. The Compact's best watcher is watching out for him and cannot be thanked. Semester evaluation in nine weeks, with the Copper final the day before it. And a registry seal is about to come up the bluff road.
