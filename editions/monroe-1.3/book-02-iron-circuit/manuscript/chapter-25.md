@@ -1,40 +1,26 @@
 # Chapter 25 — A Place Where Nobody Was
 
-Brom had known what the boy was carrying from the first blow.
+Brom had known from the first blow that the boy had brought Lira's dock partner onto the floor with him.
 
-It had come into his lead forearm hard and plain, with no Pressure in it and no Wind, and it had come first, which the boy never did. Then a lighter one at the shoulder, a different shape, and then the forearm again, harder. Three, close together, each one new. He had felt the shape of the thing before the third one landed, the way you feel the shape of a word before somebody has finished saying it, and he had known where it came from.
+Three hard, close together, each one new: it was the shape of last week's afternoon in the alcove, when the broad man had run four together and Brom had given him a step on the fourth, with the boy on the bench counting. Brom had paid the man a mark of his own afterward, on top of Lira's, and the man had looked at the coin as if it puzzled him. It had been for the step. Brom had wanted to see what the boy would build out of it, and now he had seen.
 
-It was the dock partner's afternoon. He had given that broad man a step on his fourth blow, last week, in his own alcove, with the boy on the bench counting. He had paid the man a mark of his own afterward, on top of Lira's mark, and the man had looked at the coin as if it puzzled him. It had been for the step. Brom had wanted to know what the boy would do with it. Now he knew: the boy had taken it home and built a whole night out of it, and walked onto the main floor with it in his hands.
+It was a good thing to have found. The patient men in the boat shed had found it too, two winters ago, at the end of a bad month, and that was why he threw people far. Tonight he had thrown the boy further than any blow needed, a step and a half, two steps, every time and on purpose, out past the place where the purse lay open; and he had watched him come back each time a beat too late. On the third the boy's shoulders had gone still in the way they did when a page turned over in his head. Brom had seen that stillness a dozen times from the end of the east bench. Seeing it out here under the lamps, he had felt something that was not quite pleasure, but lived next door to it.
 
-It was a good thing to have found. Brom had found it too, two winters ago, in the boat shed, on the far side of a bad month. The patient men in that city had found it before him. It was why he threw people far.
+What he had not expected came in the same exchange, on two separate blows.
 
-He had not needed to throw the boy so far. He had done it anyway, every time, a long step and a half, two steps, out past the place where the purse lay open, and he had watched the boy come back each time a little too late, and understand it on the third. Brom had seen him understand. There was a particular stillness the boy got in his shoulders when a page turned over in his head; Brom had seen it a dozen times from the end of the east bench. It had come on the third blow, out in the middle of the floor, under twenty-six lamps, and Brom had felt something that was not pleasure at it, quite, but lived next door to it.
+Something had gathered in the boy. It came toward the arm, slow and dense, the way a weight gathers in a man who means to put his whole body behind a blow and more. It was almost the shape the read gave a Pressure practitioner in the moment before the strike, and then it was not; it was too loose, too strange, going round that middle Brom could never find. Each time it rose to the very edge of the boy's arm, and each time it stopped there and stayed, held, the way a man holds his breath under water because the air is somewhere he has decided not to go.
 
-After that the boy had done what Brom expected, mostly, and some things he had not.
+The boy had kept something shut all night, at a cost. Brom did not know what it was. He knew what holding a thing shut felt like on the read, because he had felt men do it, and it was never cheap. In the second exchange he had felt the other thing in the boy, the Wind-like flicker in the hip, go dim as a lamp goes when somebody turns it down, and stay dark.
 
-The Wind he had expected; he had felt it go in the first exchange, off the fall: the old flicker, weight that was on one board and then on the next with nothing between, bright and crooked and loud on the read. He had felt it go again in the second, read and set and cheap, and give the boy a hand's width of floor for the price of half a body, and then he had felt it go dim. The boy had shut it, as a man shuts a lamp. The flicker had been nearly the only steady thing about him on the read all fortnight, and now there was a dark place where it had been.
-
-The other thing he had not expected.
-
-In the first exchange, on two separate blows, something had gathered in the boy. It came toward the arm, slow and dense, the way a weight gathers in a man who means to put his whole body behind a blow and more. It was almost the shape the read gave a Pressure practitioner in the moment before the strike, and then it was not; it was too loose, too strange, going round that middle Brom could never find. Each time it had risen to the very edge of the boy's arm, and each time it had stopped there. It had not gone back down. It had stayed at the edge, held, the way a man holds his breath under water because the air is somewhere he has decided not to go.
-
-The boy had kept something shut all night, at a cost. Brom did not know what it was. He knew what holding a thing shut felt like on the read, because he had felt men do it, and it was never cheap.
-
-He had walked this floor in the dark for three weeks before he ever asked Dace for a bout on it. He had stood on the south mark at midnight with his hand flat on the stone, feeling how it took a weight and kept it. He had counted the lamps, and the strides, and the long lead seams. He knew where the pale worn stone at the edges began. He had won seven times on the side floors since the Shield, on the same old stone, by knowing it better than the people he fought, and he had expected to win tonight the same way, and so far he had. The floor was doing what he had asked of it. The boy's two exchanges had gone down through Brom's heels into that dense old stone and stayed there, as he had known they would.
-
-But the boy had not fought the floor. He had fought Brom, the one in the alcove, with a column ruled by a straightedge, and had been wrong about him only in the ways a bench was different from a fight. Brom had not been studied like that before. He found, standing on the stone between exchanges with his breath going out long through his nose, that he did not want the bout to be over yet.
-
-Then the third exchange, and the boy walked out to meet him on knees Brom had broken the terms of himself, and he did not try anything.
+He had learned this floor in the dark for three weeks before he asked for it, and all night it had done what he asked of it, taking every blow he sent down through his heels and keeping it. But the boy had not fought the floor. He had fought Brom, the one in the alcove, with a column ruled by a straightedge, and had been wrong about him only in the ways a bench was different from a fight. Nobody had studied Brom like that before. Standing on the stone between exchanges, with his breath going out long through his nose, he found that he did not want the bout to be over yet.
 
 ---
 
-He was very quiet on the read, in the third.
+In the third the boy was very quiet on the read.
 
-The flicker was gone, and the thing held at the edge of the arm was gone, or so far back that Brom could not feel it. What was left was the weight in the boy that Brom had no shelf for, faint now, careful, close. It was like a light step in the room upstairs, somebody walking across the boards in their stockings so as not to wake the house. The boy touched him on the forearm and came away. He touched the shoulder. He went round on short steps that Brom could feel him counting against his knees, and touched the hip, and came back. None of it was worth a breath, so Brom spent none, and let the touches land, and waited.
+What was left in him was the weight Brom had no shelf for, faint now, careful, close, like somebody crossing the boards upstairs in stockings so as not to wake the house. None of his touches was worth a breath, so Brom spent none on them, and waited. He had decided at the reset to see the exchange out patiently and be kind about the end of it. He had thought there was nothing more in the bout to learn.
 
-He had decided, at the reset, how the exchange would go. The boy had nothing left but his feet and his eyes and his legs were going, so the exchange would be long or it would be short according to how long the boy's knees lasted, and Brom would see it out patiently and be kind about the end of it. That was all. He had thought there was nothing more in the bout to learn.
-
-He had the read on the boy at a bench's length, the way he had held it all night, laid on him like a flat hand on a beam. And the boy's weight was there, faint, careful, a step on the boards upstairs.
+He had the read on the boy at a bench's length, the way he had held it all night, laid on him like a flat hand on a beam. And the boy's weight was there under it, as it had been all night.
 
 Then it was not.
 

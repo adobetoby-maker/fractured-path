@@ -176,3 +176,59 @@ Secondary (rough greps):
 6. **"Decision point" not used.** No Ephram–Cael contact beyond his public deferral. The Architect thought is kept to the single unwritten paragraph. No case, no motive, no mechanism in Seln's window.
 7. **Rhythm:** paragraph median 32 (over ~30); "that" and dialogue tags above their hints. Repair candidates if the review wants them.
 8. **Names:** none new. Unnamed by design: the wing's four staff, the Current lecturer, the Shield instructor, the Current first-year, the Blade second-year, the guild factors, the river-trade woman, the old benefactor, the results clerk, the lock boy, the courier's clerk.
+
+## Repair r1
+
+Same-author repair against REPAIR-BRIEF.md, review-editorial.md and review-cold.md (2026-10-05). It was done in place, by reading. Every change was chosen and worded by hand; a script only applied the exact before→after strings and failed on any miss. Source chapters were not reopened. Only ch15–21 and this report were edited; no git.
+
+### Priority 1: canon and counts
+
+- **ch21 Fiske (canon).** "Copper Rank Eight was as high as Copper went… no Rank Nine" is gone. Now her *certificate* says Rank Eight and has said so for two years. Rank, like tier, changes only by an Arbiter's advancement evaluation; no bout adds a number. "The bracket her paper put her in was the only bracket she could ever fight in." Kept: no evaluation requested, Lira's wash-house reason, the stair-with-no-landing cage, Fiske teaching the first-year.
+- **ch20 rewind.** Opening: "The brackets went up two days before the floor sheet came right, at the first bell on the seventy-seventh morning…" Cael still arrives early to watch the reading.
+- **ch20 Nyle, third exchange: exactly four bursts.** The first move of the exchange is now a half-step on foot with no Wind in it. Then the third burst goes right, and the fourth, short, begins as the third's landing beat releases. Count: 1 + 1 + 2 = 4. Eleven seconds, three touches, the unchanged landing beat and "Four bursts" in the tally are all kept.
+- **ch20 "the foot".** "The clerk had told her the foot, and he had not been wrong: in the ladder book… she stood on the sixty-fifth line, the last. But the ladder book was not the bracket."
+
+### Priority 2: say it once; orient once
+
+- **ch16.** Cut the "He knew what he had seen…" paragraph that restated the gallery scene before the binder's four words. The scene, the binder note and the next deduction (conditions mean *working*) all remain.
+- **ch18, the toll.** Cut "And a toll is charged at a rate…", which the binder line then said again. Cut "The Path did not make him vanish."
+- **ch18, the curve.** The afterthought "He had simply been paying it in a currency…" and its lead-in are replaced by "Now he had found its edges." The scene, the binder entry and the cannot-reach column are intact. The Seln window is untouched.
+- **ch20, formal vs seasonal (one sentence pair).** "Her paper and her place were two different measures… Copper Rank Two was her classification, written on her certificate by an Arbiter and changed only by an advancement evaluation. Twenty-second was her seed, a standing the ladder could move every six days and would wipe clean at the season's end."
+- **ch21, Bracken.** Added "Nor a standing with a rank. A standing is this season's chalk. A rank is what the registry has written on a certificate, and the registry does not read our wall."
+
+### Priority 3: vocabulary and paragraphs (light)
+
+- **Established terms at existing teaching turns.** No new exposition was added.
+  - *baseline* (ch15 tally; ch17 doctrine; ch21 plate).
+  - *semester evaluation / assay provision* (ch15 calendar).
+  - *Bronze-tier* (ch15, ch18).
+  - *tier and rank* (ch15 "Where would I stand?").
+  - *fragment* (ch16 read and log; ch17 log; ch21 inventory header).
+  - *Path declaration* (ch17 study plan; ch18 dialogue and binder).
+  - *ceiling* (ch17 plan; ch18 curve; ch21 Wind line).
+  - *classification* (ch17).
+  - *deployment* (ch21 Ember line).
+- **Paragraph breaks** at thought turns, 16 in all: ch15 ×4, ch16 ×3, ch17 ×1, ch18 ×3, ch19 ×1, ch20 ×2, ch21 ×1. The ch21 Bracken insertion also lengthened one speech.
+
+### Checks after repair
+
+- `ed.sh overlap`: **0 unprotected**, 8 protected.
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `sweep_probe.sh book-04-copper-crown 3 3`: **skeleton 1%, close 13%** (1,385 sentences), the same as before the repair. By chapter: ch15 0/11, ch16 1/10, ch17 2/14, ch18 1/13, ch19 1/14, ch20 0/14, ch21 2/12.
+
+**Words (wc):** ch15 4,745 · ch16 4,637 · ch17 4,360 · ch18 4,624 · ch19 4,816 · ch20 5,038 · ch21 4,341 · **total 32,561**, inside 31,500–33,500.
+
+**Metrics** (`formula_metrics.py`, ch15–21):
+
+| Measure | Before r1 (recount after the 25 splits) | After r1 | Working range |
+|---|---|---|---|
+| Sentence mean | 13.85 | 13.86 | 13–15.5 |
+| ≥40-word share | 4.1% | 4.1% | 2.5–4.5% |
+| Words per scene | ≈902 | 902 | 850–1,050 |
+| ≤5-word share | 28.2% | 28.0% | up to ~34% |
+| Paragraph median | 32 | 33 | up to ~30 |
+| FK grade | 4.61 | 4.56 | 3.5–6 |
+| FRE | 87.0 | 87.1 | target 72.3 |
+
+- **Paragraph median.** The 16 breaks split long paragraphs into medium ones, so the median did not fall; it now reads 33. Lowering it further would mean breaking ordinary paragraphs where the thought does not turn, which the brief forbids. It is reported, not chased.
+- **Progression vocabulary.** On the reviewer's BOOK_MAP §7 lexicon, by my grep (which counts slightly more generously than the review's 142), the count went from 167 to 211 hits, about 51 → 65 per 10k. On the review's method that is roughly 44 → 57 per 10k. It is still under the ≈80 plan. As the brief directed, it was not forced with exposition.

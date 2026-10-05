@@ -8,15 +8,19 @@ So he found out.
 
 The first answer threw him off his cross and two strides across the alcove, into the wall, shoulder first. The second turned him so hard over his bad knee that he heard it, and stood very still on the stone for a moment, waiting for the knee to tell him what it thought. It thought it would hold, and he said nothing. Brom watched him say nothing, and set his feet again, and the third answer came up through Cael's arm like the shock of a dropped anvil, and the fourth sat him down on the floor.
 
-He got up; the first hour was mostly that: the stone, and then his hands under him, and then his feet.
+He got up. The first hour was mostly that: the stone, then his hands under him, then his feet.
 
-But he learned more in that hour than in the two mornings before it together. Brom at full did not only send him further; he sent him truer. The careful answers had been rounded off at the edges, softened in the turn, and now the edges were back. Cael could feel every one of them. He could feel the lean in the first touch as plainly as a word spoken aloud, and the well, and the angle the turn came out at; and he found that if he kept the whole of himself in the skin of his knuckles, he knew before the turn came which wall he was going to hit.
+But he learned more in that hour than in the two mornings before it together. Brom at full did not only send him further; he sent him truer. The careful answers had been rounded off at the edges, softened in the turn, and now the edges were back, every one of them. He could feel the lean in the first touch as plainly as a word spoken aloud, and he found that if he kept the whole of himself in the skin of his knuckles, he knew before the turn came which wall he was going to hit.
 
-He did not stop to write anything. His hands would not have let him. He went back to his cross, and set his feet, and hit, and was answered, and went where he was sent, and came back. After a while it stopped being a test of anything. It was only a thing his body did, over and over, in the grey light, like a man splitting wood: set, swing, the shock up the arms, set again. He stopped counting the exchanges somewhere after thirty. He stopped thinking about the lean. He was not watching Brom any more in the way he had watched him from the bench; he was simply there, close, a forearm off, with nothing between them but the next blow and the next answer.
+He did not stop to write anything; his hands would not have let him. After a while it stopped being a test of anything. It was only a thing his body did, over and over, in the grey light, like a man splitting wood: set, swing, the shock up the arms, set again.
+
+He stopped counting the exchanges somewhere after thirty, and he stopped thinking about the lean. He was not watching Brom any more in the way he had watched him from the bench; he was simply there, close, a forearm off, with nothing between them but the next blow and the next answer.
 
 He was coming back to his cross after the last of a run, with his weight still settling, one foot down and the other not yet, when the quiet came.
 
-He knew it at once; he had felt it four times in his life and every time something had been written afterward in the dark behind his breastbone: at Torvin's by a lamp, and twice more in his first year, and in Lira's alcove in the middle of a broom drill. There was no mistaking it. A hush began somewhere in the middle of him and moved out to the edges, and the morning went on without him, as if a heavy door had been swung shut on it from his side. The alcove went on. The lamp went on burning. Brom was a forearm away on his cross. But all of it was suddenly on the far side of something, very clear and very distant, like a room seen through a window at night.
+He knew it at once; he had felt it four times in his life and every time something had been written afterward in the dark behind his breastbone: at Torvin's by a lamp, and twice more in his first year, and in Lira's alcove in the middle of a broom drill.
+
+There was no mistaking it. A hush began somewhere in the middle of him and moved out to the edges, and the morning went on without him, as if a heavy door had been swung shut on it from his side. The alcove went on, and the lamp went on burning, and Brom was a forearm away on his cross. But all of it was suddenly on the far side of something, very clear and very distant, like a room seen through a window at night.
 
 And then, differently from every time before, something settled.
 
@@ -57,7 +61,9 @@ Except for the last line, because none of the others had had a last line like it
 
 He sat with the pen still uncapped in his fingers and read the six words again, one at a time.
 
-*Surface* he understood, because he could feel it: the new thin layer lying on him, on the outside, where the Wind had never been and the giving face had never been. *Awareness* he thought he understood, because of the breath when he had felt the wall at his back and the lamp's warmth and the great blurred weight in front of him. *Pressure read* frightened him a little, in a way none of the other words did, because he knew what a pressure read was. He had sat a bench's length from one for twelve days while it laid itself on him like a hand on a beam. He had heard it described, in the alcove, by the only man in the district who had one, as a sense of who was walking about on the floor upstairs.
+*Surface* he understood, because he could feel it: the new thin layer lying on him, on the outside, where the Wind had never been and the giving face had never been. *Awareness* he thought he understood, because of the breath when he had felt the wall at his back and the lamp's warmth and the great blurred weight in front of him.
+
+*Pressure read* frightened him a little, in a way none of the other words did, because he knew what a pressure read was. He had sat a bench's length from one for twelve days while it laid itself on him like a hand on a beam. He had heard it described, in the alcove, by the only man in the district who had one, as a sense of who was walking about on the floor upstairs.
 
 And *limited range*: that one almost made him laugh. He had worked out the range of the original himself, from a bench, by counting where a big man chose to sit. Now the form was telling him that his copy of it was short too, and he did not yet know how short. Shorter than a bench, he thought, and very likely a good deal shorter.
 
@@ -97,7 +103,9 @@ Brom was quiet. Then he said, carefully, because it was the term and he had prom
 
 They sat on the floor of the alcove facing each other in the grey light, the boy with his legs crossed and the big man on his heels, and neither of them said anything for a while.
 
-Cael was thinking about the wall at the top of the market square, and the bread, and *Show me the log sometime*. He had said *maybe*, and he had meant it: not *no*, and not *yes*, but *not until I know*. He had thought it would take a long time to know, and that he would have to watch the man for months, the way he watched everybody, and add him up, and come to a ruling. But he had watched him already. He had watched him for a month from a bench, and on the main floor through four exchanges, and on a wall telling the end of his own story before its beginning, and for three mornings a forearm off with his whole weight coming back up Cael's arms on every line it was sent. There was nothing left in the man to add up. There had not been, he thought, since the wall.
+Cael was thinking about the wall at the top of the market square, and the bread, and *Show me the log sometime*. He had said *maybe*, and he had meant it: not *no*, and not *yes*, but *not until I know*. He had thought it would take a long time to know, and that he would have to watch the man for months, the way he watched everybody, and add him up, and come to a ruling.
+
+But he had watched him already. He had watched him for a month from a bench, and on the main floor through four exchanges, and on a wall telling the end of his own story before its beginning, and for three mornings a forearm off with his whole weight coming back up Cael's arms on every line it was sent. There was nothing left in the man to add up. There had not been, he thought, since the wall.
 
 And there was the other thing, which he did not like to look at directly. The man in front of him had just had a piece of himself turn up in somebody else, without being asked. If it had been Cael, he thought, he would have wanted to see the whole of the place it had gone. Not the one page. Not a careful summary read out by the person who had it. Everything, so that he could judge for himself where his piece had landed and in what company.
 

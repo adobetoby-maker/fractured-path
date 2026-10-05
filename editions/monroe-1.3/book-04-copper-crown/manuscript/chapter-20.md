@@ -1,8 +1,10 @@
 # Chapter 20 — Eleven Seconds
 
-The brackets went up at the first bell on the seventy-seventh morning, on the long board under the Crown yard's north stair, and Cael was there before the porter had finished pinning the corners, because he had not come to read the brackets. He had come to watch people read them.
+The brackets went up two days before the floor sheet came right, at the first bell on the seventy-seventh morning, on the long board under the Crown yard's north stair. Cael was there before the porter had finished pinning the corners, because he had not come to read the brackets. He had come to watch people read them.
 
-The sheets themselves he could have copied in a quarter of an hour. There were three of them, one to a column, ruled in Bracken's office in a clerk's careful hand. Down each ran the names in order, a number to the left of every one, and to the right a long row of blank squares, one for every session between now and the final, waiting for chalk. Copper ran to ninety-one names. Two hundred and nine practitioners on the bluff could have put their names to it, and a few more than half had looked at what a season cost them in hours and bruises and missed lectures, and decided not to pay. Iron ran to sixty-three of its hundred and thirty-eight. The last sheet, headed Silver, held nineteen, gathered from the Bronze and Silver tiers together, all that the top of Halcenvane had been willing to put on a wall. The thinness of that last sheet, Cael thought, was the whole reason a school like this one stayed a school like this one. By the second bell the figures were in the binder.
+The sheets themselves he could have copied in a quarter of an hour. There were three of them, one to a column, ruled in Bracken's office in a clerk's careful hand. Down each ran the names in order, a number to the left of every one, and to the right a long row of blank squares, one for every session between now and the final, waiting for chalk.
+
+Copper ran to ninety-one names. Two hundred and nine practitioners on the bluff could have put their names to it, and a few more than half had looked at what a season cost them in hours and bruises and missed lectures, and decided not to pay. Iron ran to sixty-three of its hundred and thirty-eight. The last sheet, headed Silver, held nineteen, gathered from the Bronze and Silver tiers together, all that the top of Halcenvane had been willing to put on a wall. The thinness of that last sheet, Cael thought, was the whole reason a school like this one stayed a school like this one. By the second bell the figures were in the binder.
 
 Then he leaned on the rail of the north stair, a little above the board, and watched.
 
@@ -30,11 +32,13 @@ He found Lira's name where he had stopped expecting to find it, and read it thre
 
 *22. Lira. Wind. Cu 2. (transfer)*
 
-Twenty-second. Not sixty-fifth, which was where she had been in the ladder book on the day she signed, nor ninety-first, which was where a strict reading of the clerk's *foot* would have put her. Twenty-second of ninety-one.
+Twenty-second. The clerk had told her the foot, and he had not been wrong: in the ladder book, where names went down in the order they signed, she stood on the sixty-fifth line, the last. But the ladder book was not the bracket. Twenty-second of ninety-one.
 
 The reason was pinned beside the sheets, on a half-page in Bracken's own small upright hand, headed *Seeding*, for anybody who cared to read it. Hardly anybody did. Cael did. A bracket was drawn only from the names that had paid to enter the season; the rest of the ladder book stood aside until next year. Names that had fought last season were seeded first, in last season's closing order. Of last season's Copper names, twenty-one had paid this season. Every other name went in below those twenty-one by formal rank, and then by the order of signing.
 
 Cael stood and did that sum twice. Nearly every name that had not fought last season was a first-year, and nearly every first-year carried a fresh Arbiter's Rank One. Lira's paper said Rank Two. The one figure on her certificate that had ever helped her had lifted her over seventy people at a stroke and set her directly beneath the last of the old names.
+
+Her paper and her place were two different measures, and only one of them would outlast the season. Copper Rank Two was her classification, written on her certificate by an Arbiter and changed only by an advancement evaluation. Twenty-second was her seed, a standing the ladder could move every six days and would wipe clean at the season's end.
 
 He found her an hour later in the north hall, on the stone, alone, running her evasion sequence at a walk, which was what she did when she was angry and did not want to break anything.
 
@@ -52,7 +56,9 @@ Lira came to the end of the sequence and stood still, and looked at the floor fo
 
 "I read that too." Lira picked up her towel. "I've drawn a Stone Path. Ninth. Nyle."
 
-Cael had Nyle already. Everybody on the ladder was in the binder by now, one page each, and Nyle's was one of the fuller ones because Cael had watched him twice on practice afternoons out of pure liking. He was a third-year, Copper Rank Five, broad through the shoulders with a settled, comfortable stance, eleven wins across two seasons in Bracken's files. Stone was a slow Path to gather, and Nyle had learned, the way the best Stone fighters did, to make the slowness look like patience, so that an opponent waited for him when he ought to have been moving. A Stone fighter's weight could not bluff. It was the working itself, so whatever it promised, it meant, and the craft of the Path lay entirely in timing: bring it down at the instant that hurt most, and never mind who saw it coming. He breathed out through the gather, low, so that you could hear it from the tiers.
+Cael had Nyle already. Everybody on the ladder was in the binder by now, one page each, and Nyle's was one of the fuller ones because Cael had watched him twice on practice afternoons out of pure liking. He was a third-year, Copper Rank Five, broad through the shoulders with a settled, comfortable stance, eleven wins across two seasons in Bracken's files.
+
+Stone was a slow Path to gather, and Nyle had learned, the way the best Stone fighters did, to make the slowness look like patience, so that an opponent waited for him when he ought to have been moving. A Stone fighter's weight could not bluff. It was the working itself, so whatever it promised, it meant, and the craft of the Path lay entirely in timing: bring it down at the instant that hurt most, and never mind who saw it coming. He breathed out through the gather, low, so that you could hear it from the tiers.
 
 *He's good,* Cael had written the night the draw went up. *He'll be gone in under two minutes. I don't think anyone has told him.*
 
@@ -88,7 +94,7 @@ Six seconds, near enough. Cael's hip had stopped being a promise and become a fa
 
 On the third exchange Nyle did not gather at all. He stood with his weight down and his hands up, very still, and waited for her to commit first, which was the bravest thing he did all afternoon and the only thing left to him.
 
-She committed. She went left and was gone before his weight could follow. Then she went right the very instant her landing beat let go of her, with no gap at all between the end of one burst and the start of the next, which Cael had never seen anybody do and could not have done himself. That put her inside his reach. And then a fourth time, a short one, a burst no longer than a stride, that left her standing at his back on the side of his front shoulder, with every part of his stance facing the place she had been.
+She committed. She showed him left on her feet alone, a half-step with no Wind in it, and his weight leaned after it. Then the third burst took her right, and the instant its landing beat let go of her the fourth began, with no gap at all between the end of one and the start of the next, which Cael had never seen anybody do and could not have done himself. The third had put her inside his reach. The fourth was a short one, a burst no longer than a stride, that left her standing at his back on the side of his front shoulder, with every part of his stance facing the place she had been.
 
 Then she touched the back of his front knee, just as all his weight arrived on that leg. It was hardly a strike at all. The knee simply folded, the way a knee folds when the floor is taken out from under it, and Nyle went down heavily and well, onto his hip and shoulder as he had been taught. The safety instructor's hand was up before he landed.
 

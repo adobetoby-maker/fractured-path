@@ -2,13 +2,15 @@
 
 The stair outside the lecture range had fourteen steps, a landing, and fourteen more, and at the change from the second bell to the third about ninety people went down it in the time it takes to boil an egg.
 
-Cael went down it with them four mornings a week, the binder under his arm, and on each of those mornings he kept a tally in the margin with the stub of a pencil. It was not a game. It had rules, and he kept them: same stair, same hour, the same test for what went in. A head that turned to follow him went in. So did a step that checked, or an elbow in a neighbour's ribs, or a mouth that stopped talking as he came level and started again a little louder once he had gone by. Somebody who merely happened to be facing his way did not count. What counted was whether a person had decided to look, and after three years of crowds he could read that decision off the back of a neck.
+Cael went down it with them four mornings a week, the binder under his arm, and on each of those mornings he kept a tally in the margin with the stub of a pencil. It was not a game. It had rules, and he kept them: same stair, same hour, the same test for what went in.
+
+A head that turned to follow him went in. So did a step that checked, or an elbow in a neighbour's ribs, or a mouth that stopped talking as he came level and started again a little louder once he had gone by. Somebody who merely happened to be facing his way did not count. What counted was whether a person had decided to look, and after three years of crowds he could read that decision off the back of a neck.
 
 He had begun it in his second week on the bluff, for a reason that embarrassed him slightly and which he had written down anyway. He wanted to know when the staring would stop.
 
 At Greyvane it had stopped. Of that much he was sure. It had gone on for a month or so after the first sitting, then thinned, and then one morning he had walked the whole length of the long corridor without anybody nudging anybody, and had noticed only because it felt like taking off a wet coat. He had never put a figure on how long it took. He had been too relieved to count. Then he had come here, where the staring was worse and every story about him was finished before he arrived, and he had wanted a figure badly and had none.
 
-So he settled on a tally, about as rough a tool as a pencil could make. But a rough tool used the same way every time will still draw you a line, and this one had begun drawing. In his second week it stood at well over a third. By his sixth it had slipped a little under. Down the inside margin there was a column of fractions now, each with its date, falling the way a fever falls, slowly and with bad days in it. Another month and he would have a curve. With a curve he could say how long a name took to cool on a hill like this, which seemed worth knowing, since he expected to be carrying his for a while.
+So he settled on a tally, about as rough a tool as a pencil could make. It was a baseline of a sort, the first he had ever taken of anything outside his own body. But a rough tool used the same way every time will still draw you a line, and this one had begun drawing. In his second week it stood at well over a third. By his sixth it had slipped a little under. Down the inside margin there was a column of fractions now, each with its date, falling the way a fever falls, slowly and with bad days in it. Another month and he would have a curve. With a curve he could say how long a name took to cool on a hill like this, which seemed worth knowing, since he expected to be carrying his for a while.
 
 The tally had taught him other things on the way, as tallies do. First-years stared hardest and longest and did not care who saw them do it. Fifth-years almost never turned their heads; they looked at him sideways, in the polished brass of the stair's handrail, and thought nobody noticed. Two girls in Current smocks had nudged each other every single morning for five weeks, as reliably as a clock, and he had begun to feel a sort of fondness for them. Iron students looked once and decided something. Copper students looked twice and could not decide. None of that went into the fraction. It went into the margin beside it, in smaller writing, because a count that recorded only the number had thrown away most of what it saw.
 
@@ -22,7 +24,9 @@ He looked at it for some time.
 
 He had not meant to write it, and that was the part he made himself take seriously. The binder had one habit older than any of its rules. When he caught himself noticing a thing, the thing went down before he had settled whether it mattered. If he waited to settle it, he would nearly always settle that it did not, and the thing would be gone, and he would never learn what he had thrown away.
 
-So it was down, and dated. He went back over it on the landing while the third bell rang across the roofs. There had been the copying table on the fifty-first day, when he had run all four layers over a quiet man with a pen and priced him at one line. Twice since, the wing's passage at a change of bell. Once the covered walk. Once the east hall's stair. Twice the office counter, with forms going over it. Seven times within a few paces of the man who sat beside the calendar on which Cael's evaluations were written, and not once had the man lifted his eyes. There had been no glance, and none of the small twitch of attention a person spends on a door when it opens, and none of the half-turn of the head that every second student on the bluff gave him without thinking.
+So it was down, and dated. He went back over it on the landing while the third bell rang across the roofs. There had been the copying table on the fifty-first day, when he had run all four layers over a quiet man with a pen and priced him at one line. Twice since, the wing's passage at a change of bell. Once the covered walk. Once the east hall's stair. Twice the office counter, with forms going over it.
+
+Seven times within a few paces of the man who sat beside the calendar on which every semester evaluation of the assay provision would be written, and not once had the man lifted his eyes. There had been no glance, and none of the small twitch of attention a person spends on a door when it opens, and none of the half-turn of the head that every second student on the bluff gave him without thinking.
 
 None of that was odd, taken alone. Clerks attend to their forms. He could have named a hundred people on a hundred roads who would never have looked at him seven times running.
 
@@ -78,7 +82,7 @@ The first thing to do with a number that looks impossible is to find out whether
 
 Then he laid the control column beside it, and the sum stopped being about strangers at all.
 
-The other four in the wing were not strangers. They had read the same hearing and they worked in the room where its result was kept, and between them they had looked at him more than half the time. The desk clerk had looked nine times in fourteen. Two of the four plainly found him interesting, the way people find a puzzle interesting when it walks in off the street and asks for a form. And the fifth man in that office sat closer to Cael's paper than any of them. He had copied Cael's floor times into the ledger in his own hand. He had turned the sheet over to read the authorizations on its back, the only clerk Cael had ever watched do that. He was the one person in the wing with the most reason to be curious.
+The other four in the wing were not strangers. They had read the same hearing and they worked in the room where its result was kept, and between them they had looked at him more than half the time. The desk clerk had looked nine times in fourteen. Two of the four plainly found him interesting, the way people find a puzzle interesting when it walks in off the street and asks for a form. And the fifth man in that office sat closer to Cael's paper than any of them. He had copied Cael's floor times into the ledger in his own hand. He had turned the sheet over to read the authorizations on its back, the only clerk Cael had ever watched do that. He was a Bronze-tier man at a copying table, and he had more reason to be curious than any of them.
 
 Thirty-one chances, and nothing.
 
@@ -96,7 +100,9 @@ He tried anyway, more than he liked to remember afterward. He went over the man 
 
 The fourth attempt was the one he would sooner have forgotten.
 
-He went to the office counter with a question about the filing date of his own next floor sheet. He knew the date perfectly well; he could have recited it in his sleep. And he made the question last. Was it the evening before the session, he asked, or the morning of? Did a notice pinned on the residence board count as delivered, or only one put into his hand? If a sheet went up after the last bell, was it posted that day or the following one? He heard himself ask that third question and wanted to sink through the floor, and asked it anyway, because he had come for four minutes and meant to have them. The desk clerk answered every word with the kindly patience of a man explaining stairs to a puppy. Two paces off, the man at the copying table went on copying, line after line, and never raised his head.
+He went to the office counter with a question about the filing date of his own next floor sheet. He knew the date perfectly well; he could have recited it in his sleep. And he made the question last. Was it the evening before the session, he asked, or the morning of? Did a notice pinned on the residence board count as delivered, or only one put into his hand? If a sheet went up after the last bell, was it posted that day or the following one? He heard himself ask that third question and wanted to sink through the floor, and asked it anyway, because he had come for four minutes and meant to have them.
+
+The desk clerk answered every word with the kindly patience of a man explaining stairs to a puppy. Two paces off, the man at the copying table went on copying, line after line, and never raised his head.
 
 Cael came out into the passage with his ears on fire and nothing in his notebook but the date he had known when he went in.
 
@@ -144,7 +150,7 @@ He was looking at that, and turning it, when the floor of the whole thing seemed
 
 For a week he had been asking where the man was. And for a week the bluff had given him the same answer: somewhere sensible, on an errand. A teaching assistant carried paper, and paper had business in every passage on the hill. There was nowhere on the bluff that a man with an armful of forms would look out of place, so there was nowhere that finding him proved anything. It was beautifully done, Cael thought, and he had been staring at it for a week like a fool at a conjurer's empty hand.
 
-He had the right question already. He had carried it onto every floor for three years, against every opponent he had never met, before a single exchange. He had simply never thought to carry it into a building.
+He had the right question already. He had carried it onto every floor for three years, against every opponent he had never met, before a single exchange. He had asked it of opponents of every tier and rank, whatever their paper claimed. He had simply never thought to carry it into a building.
 
 *Where would I stand?*
 
@@ -162,7 +168,9 @@ He went over them with the point of the pencil, slowly, as if the dots might shu
 
 He set the pencil down with care, the way a man sets down a cup filled to the brim.
 
-Then, because a match that good deserved to be argued with, he went looking for the hours that did not match. There were some. On four of the hours in his week, the shorthand had no dot at all: the man had simply not been anywhere Cael could see. He turned to the wing's posted hours, which hung in the passage for anybody to read and which he had copied into the binder in his first week out of pure habit. On all four of those hours the office kept its counter open with a full staff. The man had not been on any landing because he had been at his desk, where an assistant was bound to be. Even his absences were in order. Even the holes in the net had a clerk's reason sitting in them.
+Then, because a match that good deserved to be argued with, he went looking for the hours that did not match. There were some. On four of the hours in his week, the shorthand had no dot at all: the man had simply not been anywhere Cael could see.
+
+He turned to the wing's posted hours, which hung in the passage for anybody to read and which he had copied into the binder in his first week out of pure habit. On all four of those hours the office kept its counter open with a full staff. The man had not been on any landing because he had been at his desk, where an assistant was bound to be. Even his absences were in order. Even the holes in the net had a clerk's reason sitting in them.
 
 Down on the river a barge called its long note and its two short ones, and another answered from upstream. Along the passage Brom's bed creaked as he turned over. Cael sat in the little light with the two inks in front of him and did not feel clever in the least. He felt the way he had felt as a boy at Hesk's bench, when Hesk had held a new casting to the window and shown him a crack running under the polish. It had been there all along. Until you knew where to look it was invisible, and after that you could never again not see it.
 

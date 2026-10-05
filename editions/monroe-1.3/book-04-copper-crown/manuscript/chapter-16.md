@@ -10,7 +10,9 @@ He had worked it out on the walk back from the counter the day before, while his
 
 He set the binder on the bench beside him, shut, and did not touch it. A boy reading notes looks as if he is waiting for something. A boy sitting on a bench in a cold hall before his session looks like a boy who came too early, which happens to everybody, and which is very dull.
 
-Above him and to his right, the gallery ran the length of the north wall, a narrow timber walk at the height of a man's head, with its rail and its bench and the near-ladder of a stair coming down at the east end. Cael knew it well. He had sat on it for a week of afternoons watching Ephram take Brom apart. He had also learned, in the last few days, a thing about it he had not known then. The gallery did not end at the west wall. A low door there let onto the upper passage that ran across to the north hall, and staff who had business between the two halls used the gallery as a short cut to save themselves a stair. He had six of them in the shorthand, crossing at one bell or another. One of the six was the man from the copying table, who crossed at about this hour on three mornings in five, on his way from the wing to the north hall's records cupboard with an armful of something.
+Above him and to his right, the gallery ran the length of the north wall, a narrow timber walk at the height of a man's head, with its rail and its bench and the near-ladder of a stair coming down at the east end. Cael knew it well. He had sat on it for a week of afternoons watching Ephram take Brom apart.
+
+He had also learned, in the last few days, a thing about it he had not known then. The gallery did not end at the west wall. A low door there let onto the upper passage that ran across to the north hall, and staff who had business between the two halls used the gallery as a short cut to save themselves a stair. He had six of them in the shorthand, crossing at one bell or another. One of the six was the man from the copying table, who crossed at about this hour on three mornings in five, on his way from the wing to the north hall's records cupboard with an armful of something.
 
 On the mornings when Cael trained here, the man came along the gallery and did not cross. He stopped at the turned post at the west end, in among whoever had come up to watch the assay enrollee, and stayed there until the bell.
 
@@ -31,8 +33,6 @@ He came along it at a clerk's pace, neither quick nor slow. He passed the turned
 The man looked at his forms and went on. He reached the stair, went down it with one hand on the rail, and out through the door to the yard.
 
 Cael sat on the bench for the rest of the forty minutes without moving, because if he had moved he would have taken out the binder, and if he had taken out the binder his hands would have shown what he felt.
-
-He knew what he had seen. A man with a place he always stood had come to the place and found it empty of people, and had not stood in it. He had not stood in it alone, where he would have been the only shape against that long rail, a single figure at a single post for anybody below to notice. He had walked straight through the most valuable view on the bluff, at the one moment it was showing him something new, rather than stand there unaccompanied.
 
 When the hall began to fill for the third bell, and the supervisor had signed, and the first of the gallery's watchers had begun to clatter up the stair, Cael finally opened the binder on his knee, as if checking the hour. He wrote four words in the margin, small, and closed it again.
 
@@ -58,9 +58,11 @@ Not wrong; late. The press came along his forearm as it always did, the small pu
 
 On the seventh, the same. On the ninth, the same, worse. Each time the read came in, it came in true, and each time it came after he needed it.
 
-He tried to cheat it, which was a mistake, and knew it was a mistake while he did it. If the read was slow, he thought, he could start moving on the first faint touch of it instead of waiting for the whole press, and make up the time that way. On the tenth weight he went early, on half a signal, and the half had been wrong: the second-year had checked her throw at the last instant, the way a good feeder does to keep a drill honest. The weight came in a foot lower than its first push had promised. It took him across the shin. It did not hurt much. It told him a great deal. A slow instrument was a nuisance. A slow instrument he had started guessing ahead of was a danger, because a guess felt exactly like a reading from the inside, right up until it was wrong.
+He tried to cheat it, which was a mistake, and knew it was a mistake while he did it. If the read was slow, he thought, he could start moving on the first faint touch of it instead of waiting for the whole press, and make up the time that way. On the tenth weight he went early, on half a signal, and the half had been wrong: the second-year had checked her throw at the last instant, the way a good feeder does to keep a drill honest. The weight came in a foot lower than its first push had promised.
 
-He stood in the middle of the floor while the second-years wound in their cords and made himself take stock of his own body as he would have taken stock of an opponent's. He was not tired. He had slept. His hip was quiet; he had not touched the framework. Nothing hurt. The read had never been fast; it was a pace and a half and no more, cheap and quiet and never anything you could hurry. But it had always been prompt. A pace and a half had always been time enough. This morning it was arriving with half that time already spent, as if something between his skin and his attention had begun to keep it waiting at a door.
+It took him across the shin. It did not hurt much. It told him a great deal. A slow instrument was a nuisance. A slow instrument he had started guessing ahead of was a danger, because a guess felt exactly like a reading from the inside, right up until it was wrong.
+
+He stood in the middle of the floor while the second-years wound in their cords and made himself take stock of his own body as he would have taken stock of an opponent's. He was not tired. He had slept. His hip was quiet; he had not touched the framework. Nothing hurt. The Iron-adjacent fragment had never been fast; it was a pace and a half and no more, cheap and quiet and never anything you could hurry. But it had always been prompt. A pace and a half had always been time enough. This morning it was arriving with half that time already spent, as if something between his skin and his attention had begun to keep it waiting at a door.
 
 He did not know what. He knew better than to guess on one morning.
 
@@ -72,7 +74,7 @@ Cael looked away at once, and went out, and did not look back.
 
 That evening he wrote the morning down in two places. Under the shorthand he wrote the gallery, the door, the twenty-third minute, the clerk's pace, the four words. In the Power Log, where he kept his own architecture and nothing else, he wrote the drill.
 
-*Read, east hall, Shield supervisor, cord drill. Three late in twelve. Not wrong. Late, about a beat. No fatigue I can find, no hip, no injury. Cause unknown. One instance; not yet a fact. Watch it.*
+*Iron-adjacent fragment, east hall, Shield supervisor, cord drill. Three late in twelve. Not wrong. Late, about a beat. No fatigue I can find, no hip, no injury. Cause unknown. One instance; not yet a fact. Watch it.*
 
 He did not put the two entries side by side. It did not occur to him to, then.
 
@@ -146,7 +148,9 @@ He let the sentence stand.
 
 Then he sat a while longer with the lamp, and found that something in him had gone quiet and cold, and he made himself look at what it was, the way he would have made himself look at a bruise.
 
-It was not fear, exactly. He had been watched for two years and had grown used to it, as a man grows used to rain. But the coats at the ferry landing had never aimed at anything. They stood where they were put and looked at what came by. This was different. Somebody had sat down, somewhere, and thought carefully about Cael, about the shape of his days and the places he would be and the angles from which those places could be seen. Then that somebody had put a skilled man into those angles, and kept him there, every day, without once letting him look. It was the difference between rain and an archer. He had known, in a general way, that the Compact cared what he was. He had not known until tonight that it cared enough to be precise.
+It was not fear, exactly. He had been watched for two years and had grown used to it, as a man grows used to rain. But the coats at the ferry landing had never aimed at anything. They stood where they were put and looked at what came by. This was different.
+
+Somebody had sat down, somewhere, and thought carefully about Cael, about the shape of his days and the places he would be and the angles from which those places could be seen. Then that somebody had put a skilled man into those angles, and kept him there, every day, without once letting him look. It was the difference between rain and an archer. He had known, in a general way, that the Compact cared what he was. He had not known until tonight that it cared enough to be precise.
 
 He wrote one more line, small, at the very bottom of the page, and did not underline it.
 

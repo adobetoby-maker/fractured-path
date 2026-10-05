@@ -238,3 +238,81 @@ Open threads opened / advanced / closed:
 - Ch8–14, ~32,440 words. Mean 13.18, ≥40w 4.2%, 925 w/scene; overlap 0 (8 protected); probe 1% skeleton / 6% close; gates 0.
 - Recheck fix: ch13 "three bad nights" (not four) — ledger synchronized above.
 - Authorship: claude-opus-5-5. Published to the PWA: Book 4 edition ch1–14, "in progress".
+
+
+## After Movement 3 (chapters 15–21; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- RANK vs STANDING (binding): rank, like tier, changes only by an advancement evaluation and is written on the registry certificate; a standing is this season's chalk (ladder position, seed, crown, squad). The ten-rank tier system is LOCKED — Fiske's Rank Eight is the limit of her certificate (two years unchanged), not of Copper.
+- Lira: ladder-book position the sixty-fifth and last line ("the foot", M2); SEEDED 22nd by Bracken's half-sheet (last season's 21 entrants first, then new names by formal rank; Cu 2 above the first-year Rank Ones). "The ladder book was not the bracket."
+- Three DRAWN opening sessions: they count in the record and move nobody (how 22nd meets 9th, 14th meets Merrick, under the four-places-up rule).
+- Calendar: enter day 51; Seln made day 68; council Sixth-day, day 73; brackets posted day 77 (two days before Seln's floor correction, day 79). Office paper: "hall one" (north), "hall three" (east), numbered days.
+- Lira vs Nyle: eleven seconds, three touches, EXACTLY FOUR Wind bursts (the third exchange opens on a half-step with no Wind); the fifth-burst billing rule stands.
+- Cael's read recovers after four days off — two instances so far; Movement 4 owes the third before it is called a rule.
+- "Decision point" NOT used (reserved for M8); "colder country" not reused; Seln's case never mentioned; no motive or loyalty given for Seln; no contact with Ephram; the tide anomaly not mentioned.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane days 51–about 110.
+- d52–58 stair tally; d58 *0 of 7*.
+- d60–66 the wider count; d61 onward the shorthand; d66 *0 of 31*, the fifth map, nineteen of nineteen.
+- d67 the floor trade (Cael's east-hall hour for Brom's north-hall hour, one Sixth-day, d73).
+- **d68 the empty east hall = Seln's post day 23** (Seln's post day 1 = d46).
+- d69 and d71 the lamp; d71 "aim"; d72 the wall with Lira.
+- **d73 Sixth-day council.**
+- d74 Brom's corner; d75 Lira's falls; d76 the error seen.
+- **d77 Third-day, brackets.** Session 1 d78; Lira–Nyle session 2; Brom–Merrick session 3.
+- d79 the corrected issue; d80–83 the first ease-off; Seln's product walked down on his day 31 (d76).
+- Third week of the season: the sum. Month's end: the two long days and the second ease-off. The season log on a Seventh-day near day 110.
+- Season: a bout per name about every six days; a little over a hundred days to the final; seventeen bouts at most, the first drawn.
+
+**Cael — body.** A bruise under the right ribs (Lira's shoulder, d75; ice). A cord weight across the shin (d68 drill). Hip unused in quantity this movement.
+
+**Fragments & progression.** Five confirmed; **no change** (logged as a fact). The Tide anomaly is not mentioned.
+- Wind: four free on timber, three on stone, landing beat unchanged.
+- Iron read: a beat late while counting. **On time after four days off, twice: two instances, not yet a rule.** BOOK_MAP M4 "confirmed at three instances" should supply the third.
+- Pressure, Compression and Ember unused.
+
+**Method / Shadow chart.**
+- The stair tally and its control column; the shorthand (day · bell · place · sees); five maps.
+- Positions predicted to the post: east-hall gallery W end by the turned post; yard high W, middle of a knot; lecture stair 2nd landing, wall side; covered-walk east rail.
+- The declaration as a continuous purchase "smeared across four hours".
+- Toll: about a third fewer looks at the covered-walk rail.
+- Curve: the bend at about four hours; long days predict worse places (two confirmed by the wing's posted hours).
+- Cannot-reach column: reach, touch/speech, floors, one instrument.
+
+**Agreements (written, numbered).**
+1. Hands off, with breaks reported the same day (Brom's corner logged).
+2. The dull read, unchanged.
+3. Cael studies him.
+
+Lira's price, in her words: "If he touches your paper wrong… that's the morning I go to Withrow myself." Judged not triggered by the correction.
+
+**Knowledge.**
+- Lira, Brom and Karis know the TA is a watcher: "probable" Compact, Shadow, Bronze.
+- Seln knows he was made on day 23 and that the boy and his friends have done nothing. He has said and written nothing.
+- Nobody institutional knows. The mechanism is unchanged.
+
+**Documents.** The fame tally and control column; the five maps; the agreement page; the Shadow section (*Charted from inside*); the fatigue page with two dated long days; the season log; Karis's copy of the twenty-three sum; the two floor issues (wrong and revised), kept in Cael's coat; Seln's first product, sent by courier as a non-existent cloth merchant.
+
+**Companions.**
+- Lira: Copper R2 formal, **seeded 22nd**, beat Nyle 3–0 in a drawn bout (record only), hip billed.
+- Brom: beat Merrick 3–2 in a drawn bout; jaw bruised, left arm sore; the right wrap carries four words in pencil.
+- Karis: unchanged standing; copy of the sum.
+
+**Watchers.** Rotations unchanged (two and two, on the bell). Seln embedded, positioned by the curve.
+
+## New canon minted (flag where marked)
+
+- **Seeding half-sheet (flag).** Returners go first, in last season's closing order (21 Copper returners entered); new names go next by formal rank, then by signing order. Lira's Rank Two sets her 22nd. This reconciles M2's "the foot" / "sixty-fifth line" / "Sixteen" with the packet's twenty-second. Lira: "counted from the wrong book."
+- **Three drawn opening sessions (flag).** They count in the record and move nobody. This explains Lira (22nd) vs Nyle (9th) and Brom vs Merrick (14th) under the four-up rule.
+- **Ladder bouts use the Crown-yard rule:** first to three clean touches; a strike taken on a set, hardened guard is not clean.
+- **Office hall numbers (flag).** Hall one = north hall (stone), hall three = east hall (timber); this carries the protected "Sixth-day, hall three". The office numbers its days (Sixth-day), while M1/M2 also use Tuesday/Thursday in speech; the mixed weekday naming is flagged.
+- **The schedule error** is the one-week trade carried forward, corrected unasked on Fifth-day.
+- **The east hall gallery** doubles as staff's upper way to the north hall; the propped near door's glass shows it.
+- **The wing's other four staff** (unnamed): desk clerk, oil-and-brass woman, two panel porters.
+- **Seln.** Courier as a cloth merchant up the coast; Gault's four questions (the author's own; not the source's); the pencil-dot correction; the 4×19 error chosen with the boy present ("two shelves"); the two prior makings were the two hole-seekers of ch 14; his night visit to the bench.
+- **Lira's vote price** (above). Brom's pencil on the outside of the right wrap (the M2 ink stays inside the left).
+- **The barge answer:** two short = *heard you* (fine for silence, double fine for a wrong answer).
+- **The Current first-year** at 74th (unnamed); the twenty-three shut out (names 69–91).

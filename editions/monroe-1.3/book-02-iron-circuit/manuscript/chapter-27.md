@@ -68,15 +68,19 @@ Brom nodded once and set his feet.
 
 They could not spar the ordinary way, because of Cael's knees, and Brom did not try.
 
-He set them on two chalk crosses a forearm apart and said that nobody was to step off his cross. Cael was to hit him, anywhere above the belt, as hard as he liked, without the thing from his middle; Brom would answer as he answered anybody; and when Cael had been answered he was to come back to his cross and do it again. It was a stupid way to fight. It was a very good way to find something out. With his feet fixed and nowhere to go, there was nothing in the whole of Cael's body to attend to except the place where his fist met the man.
+He set them on two chalk crosses a forearm apart and said that nobody was to step off his cross. Cael was to hit him, anywhere above the belt, as hard as he liked, without the thing from his middle; Brom would answer as he answered anybody; and when Cael had been answered he was to come back to his cross and do it again. It was a stupid way to fight and a very good way to find something out. With his feet fixed and nowhere to go, there was nothing in the whole of Cael's body to attend to except the place where his fist met the man.
 
 He hit him on the forearm, and found out at once how little a bench had told him.
 
-From the bench the breath had been a thing he saw: a belly going still under a shirt. From a forearm away it was a thing he heard, low, a short pull of air through the nose and then nothing, a held silence he could have counted on his fingers. From the bench the hold had been a fist stopping dead on an arm. From his own knuckles it was something else entirely. It was the feeling of a blow going down out of his hand into a man and not coming back for the length of a beat. It went down the way a stone goes down a well, so that he could feel the whole weight of what he had thrown leave him and go somewhere far below. Then the turn came up out of the well, and it was his own weight returned to him with an angle in it, through the bones of the hand and the wrist and the elbow, and his arm swung wide on a line he had never sent it.
+From the bench the breath had been a thing he saw: a belly going still under a shirt. From a forearm away it was a thing he heard, low, a short pull of air through the nose and then nothing, a held silence he could have counted on his fingers.
+
+From the bench the hold had been a fist stopping dead on an arm. From his own knuckles it was the feeling of a blow going down out of his hand into a man and not coming back for the length of a beat. It went down the way a stone goes down a well, so that he could feel the whole weight of what he had thrown leave him and go somewhere far below. Then the turn came up out of the well, and it was his own weight returned to him with an angle in it, through the bones of the hand and the wrist and the elbow, and his arm swung wide on a line he had never sent it.
 
 He came back to his cross and did it again. And again. He hit the forearm, the shoulder, the chest, the forearm, while the alcove went from black to grey round the lamp and the cold came up out of the stone.
 
-He learned things in that hour that he could not have learned in a year of benches. He learned that the hold had a texture. When it was new it was soft at the very start, like a hand closing, and only then hard. When it had seen a thing three times it was hard from the first touch, like a door already shut. He learned that the recovery had a texture too. If he hit in it, before the next low breath, the arm he hit was only an arm, and it gave, and it was warm, and he could feel the man's pulse in it. And he learned that every one of these things cost him. He had always known a map of a man who hit back would be bought with bruises. He had not known how many.
+He learned things in that hour that he could not have learned in a year of benches. He learned that the hold had a texture: when it was new it was soft at the very start, like a hand closing, and only then hard, and when it had seen a thing three times it was hard from the first touch, like a door already shut. The recovery had a texture too. If he hit in it, before the next low breath, the arm he hit was only an arm, and it gave, and it was warm, and he could feel the man's pulse in it.
+
+And every one of these things cost him. He had always known a map of a man who hit back would be bought with bruises. He had not known how many.
 
 Halfway through the hour Brom spoke, between one hit and the next, without moving off his cross.
 
@@ -106,7 +110,7 @@ By the end of the hour both his forearms were blue from the wrist to the elbow o
 
 "Then write half." Brom flexed his own left hand, open and shut, and looked at it. "You'll have more tomorrow."
 
-Cael wrote the half with the pencil held in his fist like a child's, in letters three times their size. *From the knuckles: the hold is a well. New: soft first, then hard. Third time: hard from the first touch. Recovery: an arm. Warm. I could feel his pulse in it.* He stopped, because *I could feel his pulse in it* was not a measurement. He left it.
+Cael wrote the half with the pencil held in his fist like a child's, in letters three times their size. *Hold: soft first when it's new; hard from the first touch by the third time. Recovery: an arm. Warm. I could feel his pulse in it.* He stopped, because *I could feel his pulse in it* was not a measurement. He left it.
 
 ---
 
@@ -132,9 +136,11 @@ Brom set his feet.
 
 Cael found his beat, which was easy; it had been easy since the river-academy man. He let it come up through his feet and his breath until he could feel it, steady, and on the fourth count he threw the short straight strike and let the hollow under his ribs give a little of itself into it. A quarter. Less than he had ever let go. It went out along his arm into his fist, a small dense warmth, and his fist went into Brom's forearm on the beat with a weight in it that his arm had not made.
 
-He heard the breath go in. The well. The turn.
+He heard the breath go in.
 
-It came back up his arm at the size he had fed it, exactly, and then some more, on its angle. It did not come back as a quarter; it came back as everything he had put in, his arm and his weight and the warm dense thing from his middle, all together, turned and handed to him through the forearm and the elbow and up into the shoulder. The shoulder took it like a door taking a kick. He went round on his cross. His feet stayed on it, which was the stupid part. His body went round over them, and kept going, and he sat down on the alcove floor with his legs crossed under him and his right shoulder ringing like a bell somebody had hit with a hammer.
+It came back up his arm at the size he had fed it, exactly, and then some more, on its angle. It did not come back as a quarter; it came back as everything he had put in, his arm and his weight and the warm dense thing from his middle, all together, turned and handed to him through the forearm and the elbow and up into the shoulder.
+
+The shoulder took it like a door taking a kick. He went round on his cross; his feet stayed on it, which was the stupid part, and his body went round over them, and kept going, and he sat down on the alcove floor with his legs crossed under him and his right shoulder ringing like a bell somebody had hit with a hammer.
 
 He sat there.
 
@@ -174,11 +180,13 @@ Brom looked at him with interest.
 
 "They are," he said. "I won't tell you how. Find it."
 
-It took most of the hour. He hit, and was answered, and came back to his cross, and hit. Some of the answers threw him; some only stopped him dead and let him go, his fist falling away off a hardness that sent nothing back at all. He knew that much already; what he wanted was to know, from his own hand, before the end came, which one it was going to be.
+It took most of the hour. Some of the answers threw him; some only stopped him dead and let him go, his fist falling away off a hardness that sent nothing back at all. He knew that much already; what he wanted was to know, from his own hand, before the end came, which one it was going to be.
 
 He found it in the first touch.
 
-When Brom meant only to stop a thing, the hardness was flat. It met the fist the way a wall meets it, square, all at once, with nothing in it leaning anywhere. When he meant to send it back, it was not quite flat: there was a tilt in it, in the very first instant of the knock, before the hold had properly begun. It was the smallest lean, like a door that is closed but not latched and gives the width of a hair toward the side it is going to swing to. It was there before the well. It was there in the touch. If he kept his attention entirely in the skin of his own knuckles and nowhere else, he could feel which way the door was hung before it opened.
+When Brom meant only to stop a thing, the hardness was flat. It met the fist the way a wall meets it, square, all at once, with nothing in it leaning anywhere. When he meant to send it back, it was not quite flat: there was a tilt in it, in the very first instant of the knock, before the hold had properly begun. It was the smallest lean, like a door that is closed but not latched and gives the width of a hair toward the side it is going to swing to, and it was there before the well, in the touch itself.
+
+If he kept his attention entirely in the skin of his own knuckles and nowhere else, he could feel which way the door was hung before it opened.
 
 He said so, badly, because there were no words for it yet, with his hand held up in front of him in the lamplight and the knuckles turned toward the big man as if that would help.
 
@@ -218,11 +226,15 @@ Cael wrote that down standing up, at the alcove wall, in the large clumsy letter
 
 It was in the third hour of that second morning that Cael understood Brom was being careful with him.
 
-He did not notice it all at once. He noticed it the way you notice that a sound has stopped. The answers had been getting shorter. They still came, and they still hurt, but they sent him a step where on the first morning they had sent him two, and they turned him in a direction that put his weight over his good knee and not his bad one. Twice, when Brom felt Cael's legs waver on the cross, the hold simply went on a little longer than it needed to and then let him go without any turn at all. And when Cael had sat down hard on the alcove floor at the end of the last one, Brom had put a hand under his elbow before he could get up on his own.
+He did not notice it all at once; he noticed it the way you notice that a sound has stopped. The answers had been getting shorter. They still came, and they still hurt, but they sent him a step where on the first morning they had sent him two, and they turned him in a direction that put his weight over his good knee and not his bad one.
+
+Twice, when Brom felt Cael's legs waver on the cross, the hold simply went on a little longer than it needed to and then let him go without any turn at all. And when Cael had sat down hard on the alcove floor at the end of the last one, Brom had put a hand under his elbow before he could get up on his own.
 
 He stood on his cross and looked at the big man, and Brom looked back.
 
-It took him a while to say anything, because there was a part of him that did not want to. Being sent one step was better than being sent two. A turn over the good knee was better than a turn over the bad one. A hand under the elbow was a kind thing, and he had had very few kind things done to him by people who could hurt him, and there was something in him that wanted to stand on the cross and let it go on. He noticed that part of himself wanting it, and was ashamed of it, and then was not ashamed, because it was only tired. Then he thought about the column. Twelve days of honest numbers, from a man who had chosen not to lie to it, and every one of them had been the man fighting twelve-year-olds.
+It took him a while to say anything, because there was a part of him that did not want to. Being sent one step was better than two, and a turn over the good knee better than one over the bad. A hand under the elbow was a kind thing, and he had had very few kind things done to him by people who could hurt him, and there was something in him that wanted to stand on the cross and let it go on. He noticed that part of himself wanting it, and was ashamed of it, and then was not ashamed, because it was only tired.
+
+Then he thought about the column. Twelve days of honest numbers, from a man who had chosen not to lie to it, and every one of them had been the man fighting twelve-year-olds.
 
 "You're going easy," said Cael.
 

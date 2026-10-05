@@ -28,7 +28,9 @@ He went back up the river street with the satchel light on his shoulder, and fou
 
 It had taken him in more easily than any office he could recall.
 
-Magister Gault had seen him on the first morning for about as long as it takes to mend a nib. He had put four questions. Could Seln read a hand not his own? Would he sign his initials to a copy and stand by them? Did he understand that nothing left the wing on one person's word, and that the first sheet he carried out with only his own initials on it would be the last sheet he carried anywhere? And would he mind being, for most of every day, the second pair of initials on other people's mistakes? Seln had answered all four with the plain truth, which had cost him nothing. Gault had nodded once and gone back to his room, and in a month had asked him nothing more. When Seln had copied a date wrong on his third day, Gault had laid the sheet back on the copying table with a pencil dot beside the error and walked away without a word, and it had been the only conversation they ever had about it.
+Magister Gault had seen him on the first morning for about as long as it takes to mend a nib. He had put four questions. Could Seln read a hand not his own? Would he sign his initials to a copy and stand by them? Did he understand that nothing left the wing on one person's word, and that the first sheet he carried out with only his own initials on it would be the last sheet he carried anywhere? And would he mind being, for most of every day, the second pair of initials on other people's mistakes? Seln had answered all four with the plain truth, which had cost him nothing. Gault had nodded once and gone back to his room, and in a month had asked him nothing more.
+
+When Seln had copied a date wrong on his third day, Gault had laid the sheet back on the copying table with a pencil dot beside the error and walked away without a word, and it had been the only conversation they ever had about it.
 
 The sum had settled the rest.
 
@@ -94,7 +96,7 @@ Karis was the one who made him say what a declaration was, out loud, in carrel e
 
 He took his time; she meant it.
 
-"It's the moment the Path is chosen," he said slowly. "Every Path I've seen work has one. However fast the practitioner, there's an instant when the working begins, and the body says so. It can't help it. The Path has to be paid for, and paying is a thing a body does." He held up his hand and counted. "Stone drops. The weight goes down through the feet a hair before the anchor takes. Force sets. A Force fighter's shoulders square, every one of them, even Fiske, though hers you could miss. Lira folds at the hips. Brom bites. He's been trying to stop since Ardenmere, and the jaw goes every time."
+"The Path declaration. It's the moment the Path is chosen," he said slowly. "Every Path I've seen work has one. However fast the practitioner, there's an instant when the working begins, and the body says so. It can't help it. The Path has to be paid for, and paying is a thing a body does." He held up his hand and counted. "Stone drops. The weight goes down through the feet a hair before the anchor takes. Force sets. A Force fighter's shoulders square, every one of them, even Fiske, though hers you could miss. Lira folds at the hips. Brom bites. He's been trying to stop since Ardenmere, and the jaw goes every time."
 
 "And mine?"
 
@@ -122,7 +124,7 @@ He sat back in the carrel's one chair and looked at the ceiling for a long time.
 
 Then he took the binder and turned to the page that said *none observed* and wrote under it, without crossing anything out, because the first version deserved to be kept as the thing he had believed before he knew better.
 
-*Second version. A declaration is a purchase. The practitioner pays a price, all at once, in a single instant, and gets the working in return; the paying is what the body shows. Every Path I know pays that way, because it's the cheapest way to pay. But it shows. And this Path's whole trade is never showing. It can't afford one visible instant. So it doesn't pay all at once. It pays a little at a time, without stopping, from the moment he leaves his door. Not no declaration. A declaration smeared across four hours, so thin that nobody has ever seen it on him. You'd only see a smear if you already knew how wide the brush was.*
+*Second version. A Path declaration is a purchase. The practitioner pays a price, all at once, in a single instant, and gets the working in return; the paying is what the body shows. Every Path I know pays that way, because it's the cheapest way to pay. But it shows. And this Path's whole trade is never showing. It can't afford one visible instant. So it doesn't pay all at once. It pays a little at a time, without stopping, from the moment he leaves his door. Not no declaration. A declaration smeared across four hours, so thin that nobody has ever seen it on him. You'd only see a smear if you already knew how wide the brush was.*
 
 He turned the binder round so that Karis could read it. She read it twice, and then a third time with her finger under it, and handed it back.
 
@@ -146,7 +148,9 @@ So Cael stopped counting the eyes that came to him. He counted the eyes that wen
 
 Then he split the tally in two. Into one column went the days the man was at the rail. Into the other went the days he was not, when the leaners were four or five strangers and nothing more.
 
-He was strict with himself about what went in. Days of rain went out, because in rain people walked fast with their heads down and looked at nothing. So did the afternoon Fiske had stopped at the rail to talk to a friend, and half the walk had turned to look at the Copper champion; he wrote that day across the top of the page, *spoiled: Fiske*, and threw it away whole. So did any day he crossed late, or early, or with Brom beside him, because Brom drew eyes of his own, being the size of a door. What was left was a dull, steady sample, the same stretch of stone at the same bell on dry days, with nothing on it to look at except a few people leaning on a wall. Dull was what he wanted. Anything bright in a sample would only drown the faint thing he was hoping to see.
+He was strict with himself about what went in. Days of rain went out, because in rain people walked fast with their heads down and looked at nothing. So did the afternoon Fiske had stopped at the rail to talk to a friend, and half the walk had turned to look at the Copper champion; he wrote that day across the top of the page, *spoiled: Fiske*, and threw it away whole. So did any day he crossed late, or early, or with Brom beside him, because Brom drew eyes of his own, being the size of a door.
+
+What was left was a dull, steady sample, the same stretch of stone at the same bell on dry days, with nothing on it to look at except a few people leaning on a wall. Dull was what he wanted. Anything bright in a sample would only drown the faint thing he was hoping to see.
 
 The columns took a fortnight to fill far enough to be trusted. When they were full the difference between them was not large. It never once went the wrong way.
 
@@ -154,11 +158,9 @@ When the man was among them, about a third fewer people looked at the rail at al
 
 Cael sat on his bed with the two columns on his knees and felt the skin of his arms tighten.
 
-It was a number. Nobody had ever given him a number for a Shadow Path, and he did not think anybody had ever held one. And the number said the man was not hidden. People still looked at that rail when he leaned on it, two of every three who would have looked in any case. The Path did not make him vanish. It leaned on everybody else. It took each passer's small, idle wish to look at a few people chatting by a wall and made that wish a fraction heavier to lift, as a hand on your shoulder makes your head a little harder to turn, and about a third of those wishes were never lifted.
+It was a number. Nobody had ever given him a number for a Shadow Path, at any tier, and he did not think anybody had ever held one. And the number said the man was not hidden. People still looked at that rail when he leaned on it, two of every three who would have looked in any case. It leaned on everybody else. It took each passer's small, idle wish to look at a few people chatting by a wall and made that wish a fraction heavier to lift, as a hand on your shoulder makes your head a little harder to turn, and about a third of those wishes were never lifted.
 
 That was not a wall round him. It was a toll on everybody near him.
-
-And a toll is charged at a rate, and a rate is paid from something, and whatever it is paid from can run low.
 
 *If it's a rate,* he wrote, *he's spending. If he's spending, he can run short. If he can run short, the spending has a shape across the day, from a full purse at the first bell to whatever is left by the last. Find the shape.*
 
@@ -170,15 +172,17 @@ Before noon, every time, the man's places were perfect. Every gallery, every sta
 
 After noon they began to slip.
 
-Not into carelessness; never that. They slipped by small degrees, and the degrees followed the clock. Three hours into the wing's day, he was still on the best view, but on the edge of his cluster now instead of in its middle. Four hours in, he would sometimes take the place beside the best one: the top of a stair from which most of a floor could be seen, when the rail beside it would have shown him all. And twice, at the end of days when the wing had kept its counter open from first bell to last, he had stood where no watcher stands: in the angle of two walls in the yard's north stair, with a single doorway in front of him, seeing almost nothing of the floor. Cael knew that place. He had stood in places like it himself, in the Ironyard, at the end of nights when he could no longer guard every side and had chosen instead to guard the one way out.
+Not into carelessness; never that. They slipped by small degrees, and the degrees followed the clock. Three hours into the wing's day, he was still on the best view, but on the edge of his cluster now instead of in its middle. Four hours in, he would sometimes take the place beside the best one: the top of a stair from which most of a floor could be seen, when the rail beside it would have shown him all. And twice, at the end of days when the wing had kept its counter open from first bell to last, he had stood where no watcher stands: in the angle of two walls in the yard's north stair, with a single doorway in front of him, seeing almost nothing of the floor.
+
+Cael knew that place. He had stood in places like it himself, in the Ironyard, at the end of nights when he could no longer guard every side and had chosen instead to guard the one way out.
 
 He wrote the hours down the left of the page and the places down the right, and drew a line through them, and the line went down.
 
-*It isn't free,* he wrote. *Underline that. Whatever it burns, he has less of it at the fifth bell than at the first, and by the next morning he has it all back. The bend comes at about four hours. Before that he buys the best places. After it he buys what he can afford. I know that bend; I've lived on it. It's the evening I stop using the Wind for the good escape and start using it for the cheap one, because the hip has already sent two bills that day.*
+*It isn't free,* he wrote. *Underline that. Whatever it burns, he has less of it at the fifth bell than at the first, and by the next morning he has it all back. The bend comes at about four hours. Before that he buys the best places. After it he buys what he can afford. I know that bend; it's my own ceiling. It's the evening I stop using the Wind for the good escape and start using it for the cheap one, because the hip has already sent two bills that day.*
 
 He sat back. Something in him that had been tight since the gallery let go.
 
-He had been half afraid of the man, and he saw now why. He had never seen him pay. A thing that never paid was a thing with no edges, and a thing with no edges could be anywhere and do anything. But the man had been paying every afternoon for a month, in plain view, in the only coin his Path had: the worth of the place he stood. He had simply been paying it in a currency Cael had not known how to read.
+He had been half afraid of the man, and he saw now why. He had never seen him pay. A thing that never paid was a thing with no edges, and a thing with no edges could be anywhere and do anything. Now he had found its edges.
 
 Then he turned to the facing page. Ever since Ardenmere he had made himself keep a third column for what he could not reach, and he had not once let it stand empty. A study that kept only its findings would end, sooner or later, by believing it had found everything.
 
@@ -188,7 +192,7 @@ Then he turned to the facing page. Ever since Ardenmere he had made himself keep
 
 *Touch and speech. People speak to him at the counter all day, and the toll seems to hold through it. But none of them is looking for him. What it does against someone who is, I can't say. The gallery suggests: not enough.*
 
-*Floors. He never sets foot on one except carrying paper. A Bronze who never drills, never spars, never so much as stretches where people can see. I'd do the same in his place. Nobody learns what a Path can do except by watching it do things, and he lets his do exactly one. I'd give a good deal to see him put it to another. I don't suppose I will.*
+*Floors. He never sets foot on one except carrying paper. A Bronze-tier practitioner who never drills, never spars, never so much as stretches where people can see. I'd do the same in his place. Nobody learns what a Path can do except by watching it do things, and he lets his do exactly one. I'd give a good deal to see him put it to another. I don't suppose I will.*
 
 *And the gap under all of them, written large: all of it hangs from a single thread: the spot a man picks to stand on. Vell would call a judgment on one leg a guess wearing a ledger's coat. She'd be right, and I've no second leg to give it.*
 

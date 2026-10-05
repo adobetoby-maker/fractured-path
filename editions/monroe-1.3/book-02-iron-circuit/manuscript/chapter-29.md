@@ -8,7 +8,9 @@ He tried asking it the way he asked the Wind. A drop, sharp, all at once, the wa
 
 Toward morning he stopped, and lay there with his hands on the blanket, and thought about the Wind.
 
-He had forgotten how long it had taken. That was the thing he made himself remember in the dark. He had forgotten, because it had been his for so long now, how useless it had been at the start. It had come at Torvin's and then done nothing he asked for weeks, and it had come by itself on the worst mornings and never on the good ones. Lira had stood over him in the cold with a stick all that winter calling *stop* at every burst, and he had fallen on the straw more times than he had landed. It had been a whole season before he could ask it for anything and be sure of an answer. The giving face had been the same, in its way: two misfires up the wrist before it would ride a strike on the beat. Twice already he had started from nothing like this. He had only forgotten what nothing felt like.
+He had forgotten how long it had taken; that was the thing he made himself remember in the dark. It had been his for so long now that he had forgotten how useless it had been at the start. It had come at Torvin's and then done nothing he asked for weeks, and it had come by itself on the worst mornings and never on the good ones. Lira had stood over him in the cold with a stick all that winter calling *stop* at every burst, and he had fallen on the straw more times than he had landed.
+
+It had been a whole season before he could ask it for anything and be sure of an answer. The giving face had been the same, in its way: two misfires up the wrist before it would ride a strike on the beat. Twice already he had started from nothing like this. He had only forgotten what nothing felt like.
 
 He slept for an hour after that, and dreamed nothing he remembered.
 
@@ -22,7 +24,9 @@ Brom was in the alcove before him, for once. He had the lamp lit and his coat on
 
 Cael stood three paces off on the cold stone and began.
 
-The first hour was nothing. He did everything he had done in the night, and some things he had not thought of: standing still, sitting on the bench, sitting on the floor, his eyes open, his eyes shut, his breath held, his breath run out slow to the bottom. He tried looking straight at Brom and he tried looking away. He tried the gaze, the full depth of it, all six hooks down into the big man's body, in case the new thing would come up on the back of the old one. He got an ache behind his forehead from the gaze and nothing else at all. Three paces away a man stood with the read open as far as it went, and Cael, who had a piece of that same read lying on every inch of his skin, could not feel him any more than he could feel the moon.
+The first hour was nothing. He did everything he had done in the night, and some things he had not thought of: standing still, sitting on the bench, sitting on the floor, his eyes open, his eyes shut, his breath held, his breath run out slow to the bottom. He tried looking straight at Brom and he tried looking away. He tried the gaze, the full depth of it, all six hooks down into the big man's body, in case the new thing would come up on the back of the old one, and got an ache behind his forehead from it and nothing else at all.
+
+Three paces away a man stood with the read open as far as it went, and Cael, who had a piece of that same read lying on every inch of his skin, could not feel him any more than he could feel the moon.
 
 By the end of the hour the not-feeling had a shape of its own. It was like standing in an empty yard calling a dog by its name, knowing the dog was somewhere close, and that it was his, and that it was not going to come.
 
@@ -66,11 +70,15 @@ The alcove was quiet, and out on the floor the sweepers had begun, the long soun
 
 Getting quiet enough turned out to be the hardest thing anybody had ever asked him to do.
 
-He had been quiet all his life, on the outside. He could sit on a bench for six hours and not move. But it was a hunter's quiet, a quiet with a question in the middle of it, and the question never stopped. He sat on the alcove floor with his legs crossed and his hands on his knees and tried to stop asking, and found that his attention would not be still. It was a trained thing. He had spent a year training it. Asked to point at nothing and wait, it twitched and went looking, like a dog that has been taught to fetch, and every time it went looking, it was aiming again, and Brom on the bench said, quietly, "There," and Cael knew he had lost it before he had found it.
+He had been quiet all his life, on the outside. He could sit on a bench for six hours and not move. But it was a hunter's quiet, a quiet with a question in the middle of it, and the question never stopped. He sat on the alcove floor with his legs crossed and his hands on his knees and tried to stop asking, and found that his attention would not be still.
+
+It was a trained thing, and he had spent a year training it. Asked to point at nothing and wait, it twitched and went looking, like a dog that has been taught to fetch, and every time it went looking, it was aiming again, and Brom on the bench said, quietly, "There," and Cael knew he had lost it before he had found it.
 
 There turned out to be a great many ways to fail at doing nothing.
 
-He failed by counting his own breath, because counting was a thing he did, and a count was a question. He failed by listening hard for Brom, which was aiming. He failed by deciding not to listen for Brom, and then listening to find out whether he was listening. He failed by beginning, without meaning to, to go down into the hooks on Brom's resting body, *dormant, dormant*, as he had for twelve days from that same bench. Once he failed by noticing that his left knee hurt, and then by noticing that he was noticing, and then by laughing at himself, which Brom said was the closest he had come all morning. He lost count of the failures somewhere past thirty. Brom did not. Brom said, at one point, "That's forty," in the voice of a man reading the number off a slate, and Cael said something short and unkind about the number forty, and Brom's mouth went in at the corner.
+He failed by counting his own breath, because counting was a thing he did, and a count was a question. He failed by listening hard for Brom, which was aiming. He failed by deciding not to listen for Brom, and then listening to find out whether he was listening. He failed by beginning, without meaning to, to go down into the hooks on Brom's resting body, *dormant, dormant*, as he had for twelve days from that same bench. Once he failed by noticing that his left knee hurt, and then by noticing that he was noticing, and then by laughing at himself, which Brom said was the closest he had come all morning.
+
+He lost count of the failures somewhere past thirty. Brom did not. Brom said, at one point, "That's forty," in the voice of a man reading the number off a slate, and Cael said something short and unkind about the number forty, and Brom's mouth went in at the corner.
 
 After the fortieth he stopped trying. He did not decide to; there was nothing left to try with. He was tired all the way down, and his head ached from the gaze, and his knees ached from the floor, and he let his hands lie open on them and thought, for no reason, about lying on his back on the main floor a week ago with his legs gone, looking up at the lamps.
 
@@ -80,7 +88,11 @@ He let himself be there again.
 
 And something came in.
 
-It was not subtle, and that was what shocked him afterward, when he could think. He had expected something faint, something he would have to strain after, a whisper at the edge of things. It was not a whisper. Three paces in front of him, on the bench, there was a man, and Cael could feel him the way you feel a fire at your back when you are standing in a cold room with your coat to it: all at once, without turning round, exactly where it is. It pressed on the front of him. It was big, and warm, and steady, and alive, alive in a way that nothing else in the alcove was, the wall and the post and the lamp all gone dim and flat beside it. And it had a shape. He could not have said what the shape was. He had no words yet. But it was the same shape he had felt in the first breath of the notice, the great blurred weight like a door; and it was also, he understood with a jolt that nearly lost him the whole of it, the thing that had been laid on him for a month. *This* was what Brom had been doing at the end of the east bench, at the rope, a bench's length off across the alcove. Cael was feeling the hand that had been feeling him.
+It was not subtle, and that was what shocked him afterward, when he could think. He had expected something faint, something he would have to strain after, a whisper at the edge of things, and it was not a whisper.
+
+Three paces in front of him, on the bench, there was a man, and Cael could feel him the way you feel a fire at your back when you are standing in a cold room with your coat to it: all at once, without turning round, exactly where it is. It pressed on the front of him. It was big, and warm, and steady, and alive, alive in a way that nothing else in the alcove was, the wall and the post and the lamp all gone dim and flat beside it.
+
+And it had a shape. He could not have said what the shape was; he had no words yet. But it was the same shape he had felt in the first breath of the notice, the great blurred weight like a door; and it was also, he understood with a jolt that nearly lost him the whole of it, the thing that had been laid on him for a month. *This* was what Brom had been doing at the end of the east bench, at the rope, a bench's length off across the alcove. Cael was feeling the hand that had been feeling him.
 
 He held it. One breath. Two. He knew, without any measuring, which way it lay from him, and that it was close; how close, he could not tell, the distance smeared like a lamp seen through steam. Three breaths. Four.
 
@@ -106,13 +118,17 @@ He knew what it was: the same thing the gaze spent, the same thing that went out
 
 He could not keep him, and that was the afternoon.
 
-He tried it first with the band still round his head, because he was impatient, and got nothing at all, and Brom told him to wait. So he waited, sitting on the floor with his eyes shut, while the band loosened a notch at a time, and Brom sat in front of him and said nothing and did not seem to mind the waiting. It occurred to Cael, sitting there, that the big man had spent most of his life waiting for other people to come to him, on his heels, on a post, on a floor, and that he was better at it than anybody Cael had ever met, Lira included. He was waiting now. He was waiting for a boy with a headache to be able to feel him. It did not seem to cost him anything.
+He tried it first with the band still round his head, because he was impatient, and got nothing at all, and Brom told him to wait. So he waited, sitting on the floor with his eyes shut, while the band loosened a notch at a time, and Brom sat in front of him and said nothing and did not seem to mind the waiting.
+
+It occurred to Cael, sitting there, that the big man had spent most of his life waiting for other people to come to him, on his heels, on a post, on a floor, and that he was better at it than anybody Cael had ever met, Lira included. He was waiting now, for a boy with a headache to be able to feel him. It did not seem to cost him anything.
 
 They went on for two more hours, with rests for the band to loosen, and he found the big man twice more, once for three breaths and once for five. Each time Brom moved, slowly, a hand lifted off a knee, a shift of weight, and each time Cael's attention went after the movement and the channel shut. It survived only when nothing moved, Brom or Cael either. When Cael himself moved, even a little, even only turning his head to rest his neck, it went before he had finished turning.
 
 And it would not share.
 
-He found that out by trying, near the end, when he was tired and stupid and the band had settled into a steady ache. He found Brom, and held him, a breath, two, and then very carefully, with the smallest piece of himself he could spare, he let the hip lean, the way it leaned before a burst, only the first beginning of the Wind. The listening went out of him at once. It did not fade. It was shouldered aside, as two men trying to go through a narrow door at once leave one of them on the step, and the Wind's readiness was through the door and the new thing was outside it, gone. He tried it the other way, with the giving face, the faintest stir under his ribs. The same. Whatever this was, it would not stand in the same room as either of the others.
+He found that out by trying, near the end, when he was tired and stupid and the band had settled into a steady ache. He found Brom, and held him, a breath, two, and then very carefully, with the smallest piece of himself he could spare, he let the hip lean, the way it leaned before a burst, only the first beginning of the Wind.
+
+The listening went out of him at once. It did not fade; it was shouldered aside, as two men trying to go through a narrow door at once leave one of them on the step, and the Wind's readiness was through the door and the new thing was outside it, gone. He tried it the other way, with the giving face, the faintest stir under his ribs, and it was the same. Whatever this was, it would not stand in the same room as either of the others.
 
 "It took me two years to get it to run while I moved," said Brom. "Two years, and I'd had it since I was fourteen, and nothing else in me to get in its way." He got up off the floor. "You've had it a day and you've got two other things shouting in the next room. You're not going to get it to share by Thursday."
 
@@ -152,19 +168,23 @@ He wrote it that evening at the crate desk, with the lamp turned low because of 
 
 *What it is: the edge of B.'s read. A thin thing on the skin, all over, outside. It doesn't go out. Things come in.*
 
-*Source: B. The third morning, mid-reset, not asked for. After three mornings at a forearm's length with all his weight coming back up my arms. Ruling: same road as the other two. Close, and long, and a real person, and not taken. Found afterward.*
+*Source: B. Third morning, mid-reset, not asked for. Ruling: same road as the other two. Close, and long, and a real person, and not taken. Found afterward.*
 
 *Conditions: still. Quiet. Not trying. The moment I aim at it, it shuts. Ruling: I have to stop asking before it answers. I'm worst at that of anything.*
 
 *Deployment range: one strong one, close, three paces or under. Opened once in about forty tries, then twice more. Held four breaths, three, five. Lost every time he moved, or I did. Gives: where, which way, that he's alive, a shape I haven't words for. Doesn't give: how far, exactly. Who. Anything moving. Anything at range.*
 
-*Costs: attention itself, whatever I look with. Four breaths cost what a night of the gaze costs. A band round the head a minute after, an hour or more. And it won't share. With the hip leaning, it goes. With the hollow stirring, it goes. Opening it means putting both of the others down.*
+*Costs: attention itself, whatever I look with. Four breaths cost what a night of the gaze costs. A band round the head a minute after, an hour or more. And it won't share: if the hip leans or the hollow stirs, it goes. Opening it means putting both of the others down.*
 
 *Open questions: Two people in a room. A crowd. Somebody who isn't kindled. Whether it gets cheaper, like his. Whether it ever runs while I move. What it's for, if it isn't for anything I point. B.: it's for knowing.*
 
 He read the entry through: it was the shortest *Deployment range* in the book and the longest *Open questions*. That was right; that was what the book was supposed to look like.
 
-Then, at the bottom, outside the fields, because there was one more true thing and he wanted it said:
+There was one more thing he made himself write, because he could feel himself wanting to fold Tuesday into it. The new thing had come from Brom's read, and on Tuesday Brom's read had lost him, and the two lay side by side in his head as neatly as a lock and a key. That neatness was the reason not to trust it. He turned back to Tuesday's page, to the third exchange, and set down beside it, in pencil, only what he had seen of each.
+
+*Not the same thing. This came with a hush and a notice; the third came with neither. This lies on my skin and I can feel it lying there; the third left nothing on me to feel, before or after. This takes something in, for a few breaths, a man as big as a door; in the third I took nothing in. I was looking at his shoulder. This costs a band round the head; the third cost nothing I can find. This opens only when I'm still and stop aiming; the third came while I was moving, in the middle of an exchange. This is a piece of his read. The third was his read finding nobody there. One I have and can't use yet. The other I never had, and can't find. It stays where it fell.*
+
+Then he turned forward to the new entry again and wrote at the bottom, outside the fields, because there was one more true thing and he wanted it said:
 
 *I own something I cannot use. Twice before I've owned something I couldn't use, and both times the road from owning to using was a winter of mornings like this one, on stone, getting it wrong in front of somebody patient. I know that road now. I know what it costs a day. Begin.*
 
@@ -184,6 +204,8 @@ Then he opened the Log again, to Tuesday's page, to the narrow empty column at t
 
 He would show her, since she had asked him to show her first.
 
-Down at the bottom of the hill, through the window over the alcoves, the practice lamp came on. He watched it for a while. On Monday Dace would chalk the main season on the wall by the slate, and the floors would fill, and somebody would want him on their card who had not wanted him a week ago. He had three things that were not a Path now, and one of them he could not use in any room with more than one person in it. He had a friend whose whole Path was knowing where people stood, and who still had nowhere to put him. He had a partner at a lamp in the north window who had not yet decided what she thought of that friend, and was entitled to take her time.
+Down at the bottom of the hill, through the window over the alcoves, the practice lamp came on, and he watched it for a while.
+
+On Monday Dace would chalk the main season on the wall by the slate, and the floors would fill, and somebody would want him on their card who had not wanted him a week ago. He had three things that were not a Path now, and one of them he could not use in any room with more than one person in it. He had a friend whose whole Path was knowing where people stood, and who still had nowhere to put him. He had a partner at a lamp in the north window who had not yet decided what she thought of that friend, and was entitled to take her time.
 
 He blew out his own lamp, and lay down, and let the cold room be a cold room, and slept.

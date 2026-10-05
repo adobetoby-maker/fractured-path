@@ -66,7 +66,7 @@ Cael took it to Bracken, because it was a matter of record, and Bracken was the 
 
 The registrar looked up from the same bare desk in the same bare room with the expression of a man who has been stopped halfway down a long column and would like to be told the interruption is worth the column. Cael asked him whether the season's standings decided the tournament squad.
 
-"No," said Bracken. He laid his pen down square to the desk's edge. "They are evidence. They are admissible. They are not a verdict. I would be grateful if nobody in your hearing confused those three words." He folded his hands. "Next year this academy will contest the qualifying season for the Continental. The chancellor has said so in an open address; it is on the record, so I may repeat it. A squad will be chosen. The people choosing it will read this season's closing standings among a great deal else. A strong season will not put a name on that squad. A weak one will very probably keep a name off it." He picked his pen back up. "Your friend from the north stands near the foot of a column she plainly does not belong in. If she climbs, it will be noticed. If she does not, that will be noticed too. That is all I may tell you, and rather more than I ought."
+"No," said Bracken. He laid his pen down square to the desk's edge. "They are evidence. They are admissible. They are not a verdict. I would be grateful if nobody in your hearing confused those three words. Nor a standing with a rank. A standing is this season's chalk. A rank is what the registry has written on a certificate, and the registry does not read our wall." He folded his hands. "Next year this academy will contest the qualifying season for the Continental. The chancellor has said so in an open address; it is on the record, so I may repeat it. A squad will be chosen. The people choosing it will read this season's closing standings among a great deal else. A strong season will not put a name on that squad. A weak one will very probably keep a name off it." He picked his pen back up. "Your friend from the north stands near the foot of a column she plainly does not belong in. If she climbs, it will be noticed. If she does not, that will be noticed too. That is all I may tell you, and rather more than I ought."
 
 It explained the upper ends of the boards, which had puzzled Cael for a week. The Iron column and the thin Silver sheet fought every session with a kind of grim care, as if each afternoon were being written into a book that would be read aloud next year. That was exactly what each afternoon was. The names near their tops were not fighting for a circlet in a glass case. They were fighting to be read.
 
@@ -74,7 +74,7 @@ And it threw a hard new light on Fiske.
 
 He watched her that week on a practice afternoon, fighting a nervous first-year as a courtesy, which the Copper holder did once a session by custom. She was not fighting him to win; she had won before the first exchange. She was fighting him to show him something. She let him come, and come again, and on the third time put her small flat push into the boards an inch in front of his lead foot, very slowly, so that he could feel exactly where it had gone and why he had stumbled. Then she told him in a few quiet words what she had done, and walked him back to his chalk, and did it again a little faster.
 
-She was the best Copper fighter Cael had ever seen. Copper Rank Eight was as high as Copper went. There was no Rank Nine above it, nothing at all inside the column, only the next tier, which nobody reached by winning bouts. A tier was a word an Arbiter wrote on a certificate after an advancement evaluation, and no registry had written a word about Fiske in two years, because nobody had asked one to. Lira had worked out in a wash-house, over a pair of ruined shirts, why nobody had asked.
+She was the best Copper fighter Cael had ever seen. Her certificate said Copper Rank Eight, and had said Rank Eight for two years. Rank, like tier, was a word an Arbiter wrote on a certificate after an advancement evaluation; no bout on any ladder could add a number to it, and the bracket her paper put her in was the only bracket she could ever fight in. No registry had written a word about Fiske in two years, because nobody had asked one to. Lira had worked out in a wash-house, over a pair of ruined shirts, why nobody had asked.
 
 That left her the crown and nothing else. She had reached the top of the Copper sheet as a first-year, and had been standing up there ever since like a woman at the top of a stair with no landing. The only thing the ladder still had to offer her was a circlet she had already worn home twice.
 
@@ -98,7 +98,9 @@ The chancellor came to some of the sessions, and that was a page in itself.
 
 She did not come to all of them, only the ones that mattered to the tops of the boards. And she never came alone. One afternoon two guild factors from Ostrand sat beside her on the faculty stand, in good dark coats with the river guild's badge at their collars, and said nothing for an hour. Another afternoon it was an old man whose name Cael had seen carved on the endowment board in the lecture stair. Twice it was a woman in the blue and grey of one of the large river-trade houses, who asked questions behind her glove during the bouts and nodded slowly at whatever Withrow answered.
 
-Withrow hardly watched the floor on those afternoons. She watched the faces beside her watching it. It took him one afternoon to see what she was doing, and he found he could not hold it against her. A school like this one lived by turning bruises into names on a wall, and names on a wall into a reputation, and reputation into money, and money into halls and brass grids and, next year, a qualifying berth on a continental stage. The Crown yard was the one place on the bluff where that whole long chain came out into the light where people could see it. Withrow had told him on his nineteenth day what she meant to have done with her chair before she gave it up. Here she was, doing it, in the plain open air, with a river-trade woman at her elbow.
+Withrow hardly watched the floor on those afternoons. She watched the faces beside her watching it. It took him one afternoon to see what she was doing, and he found he could not hold it against her.
+
+A school like this one lived by turning bruises into names on a wall, and names on a wall into a reputation, and reputation into money, and money into halls and brass grids and, next year, a qualifying berth on a continental stage. The Crown yard was the one place on the bluff where that whole long chain came out into the light where people could see it. Withrow had told him on his nineteenth day what she meant to have done with her chair before she gave it up. Here she was, doing it, in the plain open air, with a river-trade woman at her elbow.
 
 And on every one of those afternoons, at every one of those sessions, somewhere high on the west side, there was a man with an armful of forms.
 
@@ -136,17 +138,17 @@ He heard the horns two hundred times a week from his window. Within a few days o
 
 The Log got its season entry late on Seventh-day. He wrote the inventory first, as he had opened every season he had ever logged, with the shutter back and the river noisy under the bluff.
 
-*Five confirmed.*
+*Five confirmed fragments.*
 
-*Wind-adjacent. Sprung timber: four free, fifth billed. Stone: three free. Landing beat the length it has always been. Never shortened.*
+*Wind-adjacent. Ceiling on sprung timber: four free, fifth billed. On stone: three free. Landing beat the length it has always been. Never shortened.*
 
-*Pressure-adjacent. Unused this term. Withheld at the plate. On the record as not shown.*
+*Pressure-adjacent. Unused this term. Withheld at the baseline plate. On the record as not shown.*
 
 *Iron-adjacent. A pace and a half. Blind to Lattice, and quiet about it; the rule in both books. A beat late while the counting runs. On time after four days off it, twice. Two instances. Not a rule.*
 
 *Compression-adjacent. Unused. Untested on timber.*
 
-*Ember-adjacent. Off the floor, by agreement with Karis.*
+*Ember-adjacent. No deployment; off the floor by agreement with Karis.*
 
 A sixth line went under the five, alone. Standing still was a reading too, and readings got written down whether they were exciting or not.
 

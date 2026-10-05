@@ -180,7 +180,9 @@ And he had mended it.
 
 Cael went and sat on the stair at the end of the passage, out of the traffic, with the two sheets on his knee, the wrong one and the right one, and went over it the only way he really knew how to go over anything, which was as a bout.
 
-It had been an exchange. He saw that now. He had opened it. He had let a wrong sheet stand on the board, deliberately, and that was a feed: a little weight put forward on purpose to see what the other man would do with it. A man who wanted to catch Cael out would have let it ride and been at the north hall on Sixth-day to see whether Cael went there. A man who did not care would never have noticed. This man had done neither. He had answered the feed without touching it. He had simply done his work correctly and on time, with his initials on it twice, as though for anybody, and in doing so he had said, as clearly as if he had stood in front of Cael and spoken: *I see what you did. I am not going to pretend I didn't. And I am going to go on doing my job properly, in plain sight, whatever you do.*
+It had been an exchange. He saw that now. He had opened it. He had let a wrong sheet stand on the board, deliberately, and that was a feed: a little weight put forward on purpose to see what the other man would do with it.
+
+A man who wanted to catch Cael out would have let it ride and been at the north hall on Sixth-day to see whether Cael went there. A man who did not care would never have noticed. This man had done neither. He had answered the feed without touching it. He had simply done his work correctly and on time, with his initials on it twice, as though for anybody, and in doing so he had said, as clearly as if he had stood in front of Cael and spoken: *I see what you did. I am not going to pretend I didn't. And I am going to go on doing my job properly, in plain sight, whatever you do.*
 
 No touch either way. Called even. Both men back to their chalk.
 

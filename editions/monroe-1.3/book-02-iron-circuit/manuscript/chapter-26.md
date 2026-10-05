@@ -208,7 +208,7 @@ They sat for a while without saying anything. Cael found that he did not want to
 
 He knew what the even thing would be. Brom had told him the end and the middle and the beginning, and stood them up in a row, and now it was his turn. He had thought, lying in bed with the cloths on his knees, about how he would do it. He had decided he would say it first, before he was asked, as he had said it to everybody who mattered since he came over the hills: put it on the wall between them in its own plain word before anybody else could set it down in a worse one.
 
-"I'm [SHATTERED]," said Cael.
+"Shattered," said Cael. "That's my word. The one the hall in Denvash wrote down."
 
 Brom nodded.
 

@@ -40,7 +40,7 @@ He told them the gallery. The cold hall, the open door's glass, the clerk's pace
 
 Then he took his hand off the table and gave them the meaning.
 
-"The assistant in Gault's office is a watcher. He's good. He's very good. Shadow Path, Bronze, by his own card, and I believe the card. He's been on the bluff about four weeks. He has never once looked at me, because looking is the one thing that would give him away, and he stands every day exactly where he can see everything I do without being seen to see it." He paused. "I can't prove whose he is. I don't know of anybody on this continent who'd pay a Bronze to copy forms in an assessment wing, except the people who already pay for those coats at the ferry."
+"The assistant in Gault's office is a watcher. He's good. He's very good. Shadow Path, Bronze tier, by the classification on his own card, and I believe the card. He's been on the bluff about four weeks. He has never once looked at me, because looking is the one thing that would give him away, and he stands every day exactly where he can see everything I do without being seen to see it." He paused. "I can't prove whose he is. I don't know of anybody on this continent who'd pay a Bronze to copy forms in an assessment wing, except the people who already pay for those coats at the ferry."
 
 Karis was the first to speak, and she did not argue with the meaning. She tested it.
 
@@ -94,7 +94,9 @@ Lira opened her mouth, and shut it, and turned to Karis, because Karis was the o
 
 Karis had shut her notebook. She sat with both palms flat on its cover, as if keeping something in it from getting out.
 
-"I'll give you the sum," she said, "and you can tell me where it's wrong. I'd like it to be wrong." She lifted one hand and set it on the overlay beside Brom's knee. "Today we've found a man. We know his places to the stair-head. We know the one thing that makes him walk away, because Cael found it in an empty hall. We know he's never looked straight at any of us." She took her hand back. "Tell Withrow, and by the end of the week he's gone. And then, inside a month, somebody else is in that chair, or another chair, or a room in Ostrand with a window on the bridge. Somebody we haven't found. Somebody who's been told in detail how the last man was caught, and who will not be caught that way, because that's what being told is for." She looked at Lira properly. "We'd be trading an instrument we can read for one we can't even find. I'm not saying I like it. I'm saying it's arithmetic."
+"I'll give you the sum," she said, "and you can tell me where it's wrong. I'd like it to be wrong." She lifted one hand and set it on the overlay beside Brom's knee. "Today we've found a man. We know his places to the stair-head. We know the one thing that makes him walk away, because Cael found it in an empty hall. We know he's never looked straight at any of us."
+
+She took her hand back. "Tell Withrow, and by the end of the week he's gone. And then, inside a month, somebody else is in that chair, or another chair, or a room in Ostrand with a window on the bridge. Somebody we haven't found. Somebody who's been told in detail how the last man was caught, and who will not be caught that way, because that's what being told is for." She looked at Lira properly. "We'd be trading an instrument we can read for one we can't even find. I'm not saying I like it. I'm saying it's arithmetic."
 
 "He is spying on Cael," said Lira. Her voice had gone very level, which was worse than loud.
 
@@ -132,7 +134,7 @@ It was more than that, and they worked it out between them. Nobody was to look a
 
 The second was Cael's, and it came out wrong the first time, and he had to start again.
 
-"He's going to write about me," he said. "That's his whole errand here. So it's no use wishing he wouldn't. What matters is what he writes." He found his pen drawing a little grid in the corner of the page and made it stop. "Think what I've been for two years. Floor time under supervision. Capability on the record and nothing off it. The same answer twice. I'm a dull read. I didn't do it to be dull; I did it because it's the only way anybody ever gets good at anything, slowly, in front of someone who signs a sheet. But it reads as dull, and a dull read is the kindest thing a watcher can carry home."
+"He's going to write about me," he said. "That's his whole errand here. So it's no use wishing he wouldn't. What matters is what he writes." He found his pen drawing a little grid in the corner of the page and made it stop. "Think what I've been for two years. Floor time under supervision. The two fragments on my baseline and nothing off it. The same answer twice, every evaluation. I'm a dull read. I didn't do it to be dull; I did it because it's the only way anybody ever gets good at anything, slowly, in front of someone who signs a sheet. But it reads as dull, and a dull read is the kindest thing a watcher can carry home."
 
 "So you go on being dull," said Karis.
 
@@ -226,7 +228,7 @@ The man belonged in the notebook. But the counting was not the man's. It was Cae
 
 *Found today, late, and with Karis's help, which I'll note because it's true.*
 
-*The read runs on attention. I always thought it ran on nothing, because it never made my hip ache or my breath short, so I never once priced it. But it draws on the same well I watch people with. For thirteen days I've let that well run into stairs and galleries and a lamp, from first bell to the last, and the read has been drinking from the bottom of the bucket. That's why it's late. Nothing is wrong with it. It's thirsty.*
+*The surface read is the quietest fragment I own, and it runs on attention. I always thought it ran on nothing, because it never made my hip ache or my breath short, so I never once priced it. But it draws on the same well I watch people with. For thirteen days I've let that well run into stairs and galleries and a lamp, from first bell to the last, and the read has been drinking from the bottom of the bucket. That's why it's late. Nothing is wrong with it. It's thirsty.*
 
 *Three late in twelve on cords. One guess that went wrong and took me across the shin.*
 
@@ -234,7 +236,7 @@ The man belonged in the notebook. But the counting was not the man's. It was Cae
 
 He looked at that line for a long time, and then wrote under it why, because a decision with no reason beside it would turn into a habit the moment his back was turned.
 
-*I can name the post on a gallery where the Compact's eyes rest in the east hall, and the tier they favour in the yard. No one I've ever met has known that much about the people watching them. That's worth a slow read for a season. It's not worth telling myself the read isn't slow. So: price paid with my eyes open, on the page tonight, before the morning it comes due, so that on that morning I can't say I didn't know.*
+*I can name the post on a gallery where the Compact's eyes rest in the east hall, and the tier they favour in the yard. No one I've ever met has known that much about the people watching them. That's worth a slow read for a season. It's not worth telling myself the read isn't slow, not with a semester evaluation coming that will lay every reading against the baseline. So: price paid with my eyes open, on the page tonight, before the morning it comes due, so that on that morning I can't say I didn't know.*
 
 *And Lira's price, in her words: "If he touches your paper wrong, ever, once, that's the morning I go to Withrow myself. Outvoted or not."*
 
@@ -246,11 +248,11 @@ He sat back. The rain had stopped altogether, and through the open window he cou
 
 Then, because a study with no plan in it was only a hobby, he turned the page and wrote what he meant to find out, in order, so that he would know afterward whether he had found it or only told himself a story.
 
-*One. How it starts. Every Path I've charted has a moment where it commits, and the moment shows somewhere: the hip, the jaw, the breath. Find his.*
+*One. The Path declaration: how it starts. Every Path I've charted has a moment where it commits, and the moment shows somewhere: the hip, the jaw, the breath. Find his.*
 
 *Two. What it does to other people. I can't see it working on me; I'm the one person it isn't hiding him from. But I can see it working on everybody else, if I count the right thing.*
 
-*Three. What it costs. It must cost something. Everything does. Find where he pays.*
+*Three. What it costs, and where its ceiling is. It must cost something. Everything does. Find where he pays.*
 
 *Four. What it can't do. The gallery says it can't work alone. Find the rest of the edges.*
 
