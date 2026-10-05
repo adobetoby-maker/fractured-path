@@ -166,7 +166,7 @@ There was more of the pie.
 
 Cael did not eat any of it. He sat with the note open on the table in front of him, beside the pine case, and read it again, and then a third time, and on the third time he found that he was saying something aloud without having decided to.
 
-"I never knew her," he said. "My grandmother. Hesk did. In all the years on Fen Street he hardly said a word about her. Now and then a line in a letter, about what she'd have said, or how long she'd have laughed. That's all I've ever had of her. What she'd have said." He touched the note with one finger. "And now this. *She was right about everything else, too.* I don't know what everything else was. I don't know a single thing she said, except this one."
+"I don't remember her," he said. "My grandmother. I was too small to keep anything of her. Hesk knew her. Now and then there's a line about her in his letters, what she'd have said, or how long she'd have laughed." He touched the note with one finger. "And now this. *She was right about everything else, too.* I don't know what everything else was."
 
 Nobody answered him for a moment. It was not the kind of thing that wanted an answer at once.
 

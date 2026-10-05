@@ -284,3 +284,107 @@ Per chapter:
    - the Ash instructor's thirty years.
 10. **Settling direction.** The edition's B2 already has the Iron read settling "outward" onto the skin. Here the Shadow fragment settles "further out than that", off the body, so the two stay distinct.
 11. **The unit's session count** is left unstated (C5 is still the owner's call).
+
+## Repair r1
+
+Applied 2026-10-05 by the same author (`claude-opus-5-5`), in place and by reading, against `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. Every change was chosen and worded by hand. Scripts only applied the exact before→after strings, and failed on any miss. Source chapters were not reopened. Only ch30–37 and this report were edited. No git commands were run.
+
+**Rulings honoured.**
+- "Seventeen days" and the ch37 board stand unchanged.
+- No month order and no Sowing-to-Reaping day count appear anywhere in ch30–37 (checked by grep: "Reaping" does not occur).
+- "Thirteen weeks", Gwen and the other flags are unchanged.
+
+### Priority 1: the numbers made true
+
+**Brom's count.** This supersedes the "12/19 at d144" and "nineteenth on d156" figures in the body above.
+- The rule: Karis's week-lines run from s12 (d128), four boxes a week. Brom did the first four in one night (ch26).
+- d128: 1–4.
+- Week of d135–141: 5–8. Ch29's "fourth exercise of the week" on d141 is no. 8.
+- Week of d142–148: 9–12.
+  - **ch30 (d144):** "Nine boxes… Four a week since the Tarn bout, and the first four all in one night. He did the ninth last night." Breakfast "exercise nine".
+  - **ch31:** "nine ticks".
+- Week of d149–155: 13–16.
+  - **ch34 (d149):** "Thirteen" at the door frame, and "exercise thirteen" at supper.
+- Week of d156–162: 17–19, then round two.
+  - **ch35 (d156):** Karis: "Number seventeen tonight… Two more after this and he's done all nineteen, and then he starts again at one."
+  - The nineteenth falls at about d159–160 and round two begins at about d161.
+  - **ch36 (d163):** "finished all nineteen and begun them again" stands.
+  - **ch37 (d167):** "gone round again from the first" stands.
+
+**Cael's sleep, night by night.** The watches and their timing are unchanged.
+
+| Night / period | Sleep | Where it's stated |
+|---|---|---|
+| Night of d147 (night one) | 2 h before, after supper to the last bell. He goes up at the first hour. Then 2 h after, from the fifth hour to the first bell. **4 h** | ch32: "He slept for two hours before the last bell, straight after supper… woke… as the last bell was ringing" (was "three hours after the last bell", which clashed with ch33's first-hour start). ch33: "slept for two hours… woke at the first bell" (unchanged) |
+| Night of d148 (night two) | **0 h**. Out from the second hour, back at the half of the fourth; awake on the floor until Karis's knock at the second bell | ch33: two sentences added after the write-up ("He did not sleep at all that night…") |
+| Breakfast d149 | Running total 4 h in two nights | ch33, Lira: "You've had four hours in two nights" (unchanged; now true) |
+| Afternoon of d149 | **3 h** | ch34: "He slept three hours of the afternoon". At dusk: "seven hours of sleep in two nights and a day" (was "four in three nights"). The pre-supper doze is now "lay down again and did not sleep" |
+| Night of d149 (night three) | **0 h**. The Log is written before dawn | — |
+| Fourth bell, d150 | Total 7 h in three nights | ch35: "seven hours' sleep in three nights" (was "four nights") |
+
+**Kept:** "It was a list of oil. It was almost certainly theft. He did it anyway" (ch32) is untouched.
+
+### Priority 2: said once
+
+**ch30**
+- The counter scene's restated "A trap… / Or no trap whatever" became one sentence: "Whether that pass was the finest snare the Compact had ever laid or no snare at all, he had not been able to decide since the gallery, and he was not going to decide it at a counter."
+- The walk's second run of trap/not-trap ("Suppose it was a trap… how would that look…") became one sentence, with the minute named as the teacher of arguing both sides.
+- The doubled procedure sentence ("Procedure said all three…") was cut.
+
+**ch31**
+- The Log's for/against was compressed into one paragraph. It keeps Brom's point and "a door made so I could walk past it".
+- The "What I won't do" paragraph was joined.
+- Karis's fourth road in the Log was reduced to its new contribution (the hole versus the hole filled with truth).
+- Kept: the protected entry, *careful* for *me*, "So: both", *READ FIRST*, and every council voice (Lira's other side, Karis's discount, Karis's four roads and her unprofessional sentence, Brom's public-recruitment logic).
+- **The one orienting phrase** comes after Lira's "rule two": *She meant the minute they had all signed in this room a month before, whose second rule allowed a reach only inside an engagement Seln himself began.*
+
+**ch35**
+- The integration comparison now appears once, in Karis's two columns. Cael's restatement during the misfire became "It came back," and Lira's "You're saying it's smaller" still follows.
+- The idle-state paragraph was cut to the sensation alone (a lamp's warmth on one cheek, untouched). Its mechanics now live in ch36.
+- The Log's repeat of the notice's three firsts was cut; the engagement-line point stays.
+
+**ch36**
+- The idle state is explained once, in the conversation with Lira ("rent"). The "Day eleven" note is cut to two lines plus the packet line "None of the other five charged rent."
+- In the working ledger, *Spends* no longer re-explains the rent, and *Risk* points back to Lira's sentence instead of repeating it.
+- **The ladder:** "Nothing at his edges had stirred the whole way across; the fragment had done nothing, and this was only the plain trick every porter on the bluff lived by, ordinary attention going to the more interesting thing."
+
+### Priority 3: sentence architecture (by hand, in the named places only)
+
+- ch30's file rationale: "First step" joined into a subordinated sentence ("depended not on… but on… because…"); "Second step" joined with a semicolon; "The logic held, and the further thought…".
+- ch31's Log paragraphs joined as above.
+- ch35–36: the Log sentence on the engagement line; Cael's "Explain *idles*" paragraph (two joins); the ledger's *Fails* line.
+- Dialogue, protected wording, the notice, scene breaks, the three nights and ch37's warmth were not touched for rhythm.
+
+### Grandmother (ruling)
+
+ch37 now reads "I don't remember her… I was too small to keep anything of her. Hesk knew her. Now and then there's a line about her in his letters…".
+- "I never knew her" is gone.
+- So is the claim that Hesk "hardly said a word" about her, and so is "I don't know a single thing she said". Both could contradict Book 8, where her sayings are passed on.
+- Nothing states when or how she died.
+- *Ask.* stays.
+
+### Day table changes
+
+No events moved. Brom's count now reads: d141 #8; d144 #9; d149 #13; d156 #17; about d159–160 #19; round two from about d161.
+
+### Checks after repair
+
+- `ed.sh overlap book-04-copper-crown 5`: **0 unprotected, 18 protected**. Two runs the trims created were recomposed: "the best trap the Compact had ever" and the duplicated "Procedure" line.
+- `ed.sh gates`: 0 / 0 / 0 on all eight chapters.
+- `sweep_probe.sh book-04-copper-crown 5 5`: **skeleton 1%, close 12%** (1,598 sentences). By chapter: ch30 2/12, ch31 1/12, ch32 0/10, ch33 0/11, ch34 1/12, ch35 3/12, ch36 2/15, ch37 2/14.
+
+**Words (wc):** ch30 4,656 · ch31 4,601 · ch32 4,655 · ch33 5,172 · ch34 4,567 · ch35 4,445 · ch36 4,912 · ch37 4,554 · **total 37,562**. That is inside 37,000–39,000. (The figures were taken before the final grandmother trim; only ch37 changed after them.)
+
+**Metrics** (`formula_metrics.py`, ch30–37):
+
+| Measure | Before r1 | After r1 | Working range |
+|---|---|---|---|
+| Words (prose) | 37,770 | 37,449 | — |
+| Sentence mean | 13.57 | 13.72 | 13–15.5 |
+| Sentence sd | 11.47 | 11.67 | (target ≈26) |
+| ≥40-word share | 3.6% | 3.8% | 2.5–4.5% |
+| ≤5-word share | 29.7% | 29.7% | up to ~34% |
+| Words per scene | 922 | 914 | 850–1,050 |
+| Paragraph median | 29 | 28.5 | ≤ ~30 (not raised) |
+| FK grade | 4.41 | 4.47 | 3.5–6 |
+| FRE | 87.6 | 87.4 | target 72.3 (reported) |

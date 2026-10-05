@@ -8,13 +8,13 @@ He found nothing wrong with it, which was what made him uneasy. Sound conclusion
 
 So on the tenth night he fastened the shutter of his room on the staff corridor, turned the lamp down to a bead, and went over the argument one step at a time, as he would have gone over somebody else's.
 
-First step. The service did not depend on its officers being honest. It depended on its files being complete. Officers were posted, promoted, buried; the file outlived them all. A gap in it was a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet exactly where things got interesting, and ask him why.
+First step: the service depended not on its officers being honest but on its files being complete, because officers were posted, promoted and buried while the file outlived them all, and a gap in it was therefore a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet exactly where things got interesting, and ask him why.
 
-Second step. Gaps were always found; he had spent two years of his youth at a long table up the coast finding them. When one was found, the officer's whole defense was what he had known, and when. Silence alone could sometimes be explained. Silence with nothing kept behind it left a man only his word, and he had twice watched what a covered man's word was worth at an inquiry. It was worth the paper it was not written on.
+Second step. Gaps were always found; he had spent two years of his youth at a long table up the coast finding them. When one was found, the officer's whole defense was what he had known, and when; silence alone could sometimes be explained, but silence with nothing kept behind it left a man only his word, and he had twice watched what a covered man's word was worth at an inquiry. It was worth the paper it was not written on.
 
 So: paper. Not product, nothing that would ever go down the river, but his own, in his own keeping, dated, so that on the worst day of his working life he could put his hand on a page and say *this is what I saw, and this is the night I saw it.* If that day never came, he was out a few sheets.
 
-The logic held. There was a further thought waiting behind it, and he left it standing in the dark where it was: a man who sent everything down the river would never need a drawer of his own.
+The logic held, and the further thought waiting behind it he left standing in the dark where it was: a man who sent everything down the river would never need a drawer of his own.
 
 Not one of his four hands would do for this. What he wrote it in was a fifth thing, a private shorthand grown out of the cramped hand when he was young in the field, and no other living person had ever been taught it. Any trained reader could have cracked it over one pot of tea. It had been made for landladies.
 
@@ -110,7 +110,7 @@ Below them the sound of a mallet started up from the far side of the second quad
 
 "He's doing them before breakfast now," said Lira.
 
-"Twelve boxes," said Cael. "Three weeks, four a week. He finished the twelfth last night, and Karis didn't even have to come and find him."
+"Nine boxes," said Cael. "Four a week since the Tarn bout, and the first four all in one night. He did the ninth last night, and Karis didn't even have to come and find him."
 
 "Did she come anyway?"
 
@@ -174,11 +174,7 @@ The second sheet was what it gave. For thirteen weeks he had watched this man ac
 
 The third sheet was the faint one, and it was the one that mattered. Seln knew precisely what eight feet of him was worth; nobody alive could have priced it better. He had spent fifteen years making himself a man no one could get near. Now, in the dullest hour of the day, he had drafted a lawful pass into his own range, made out to the single person on the bluff who could find him.
 
-Which brought him back to the old question. He had been carrying both halves of it since the gallery.
-
-A trap: the best the Compact had ever set. Access, offered on a form, in a room where the boy's one habit he could not break, which was watching, would be done in front of the man best fitted to measure it.
-
-Or no trap whatever.
+Whether that pass was the finest snare the Compact had ever laid or no snare at all, he had not been able to decide since the gallery, and he was not going to decide it at a counter.
 
 Only the top sheet had been spoken aloud, so the top sheet was the only one he could answer. If either of them so much as glanced at the other two, it would be the worst mistake of the term.
 
@@ -198,7 +194,7 @@ Behind him the chained pen scratched on. Through the clerk's door a page turned.
 
 He did not tell the others at breakfast.
 
-Procedure said all three, door shut, before anything. A thing that was going to be decided was read to all three at once, with the door shut, before anything was done about it. Breakfast was a long table and sixty people. So he ate, and listened to Brom describe exercise twelve in a voice of deep injury, and said nothing. Karis looked at him once across the bread and then down at her plate, and he saw her decide not to ask.
+A thing that was going to be decided was read to all three at once, with the door shut, before anything was done about it. Breakfast was a long table and sixty people. So he ate, and listened to Brom describe exercise nine in a voice of deep injury, and said nothing. Karis looked at him once across the bread and then down at her plate, and he saw her decide not to ask.
 
 After breakfast he had an hour before the lecture. He spent it walking.
 
@@ -210,13 +206,7 @@ He wanted the room. He wanted it the way he had once, at fourteen, wanted the re
 
 That was the thing to be careful of. He knew it from the minute in Karis's notebook, and from the night after it, when he had argued both sides of a question with himself in the dark and won every time. A want did not come to you looking like a want. It came looking like an argument. It brought its own reasons along with it, ready-made, and laid them out in a neat row.
 
-So he made himself do the other side as well.
-
-Suppose it was a trap. It would look exactly like this. It would be offered in the dullest hour, in a voice built to be overheard, as a form and not a favour. It would cost the Compact nothing. And it would put him where his attention could be measured by the one instrument on the bluff that knew what attention was.
-
-And if the man meant nothing by it but the coursework, and something by it that he could never say, how would that look from the counter's side of the room?
-
-He stood at the rail and found, with some irritation, that it would look exactly the same.
+So he made himself argue the other side as well, the way the minute had taught him, and found at the rail, with some irritation, that a trap and an honest offer would look exactly the same from the counter: the dullest hour, a voice built to be overheard, a form and not a favour.
 
 Jask went past behind him on the way to the Force hall, with his collar up and a book under his arm. He lifted a hand. Cael lifted one back. Jask had turned his dial to the wall for every set now, and had told nobody why, and had moved up two lines on his ledger. He walked the way a person walks who has stopped being the story.
 

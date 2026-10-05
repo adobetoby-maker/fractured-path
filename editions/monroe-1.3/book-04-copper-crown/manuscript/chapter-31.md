@@ -36,7 +36,7 @@ Karis took a breath, the short sharp one she took before reading a clause aloud 
 
 "Further than you'd think. I'll tell you if I see myself doing it again."
 
-Brom was sitting under the window with his back to the plaster, as he always sat, with Rooke's sheet open on his knee and Karis's twelve ticks along the top of it in pencil. He was running his thumb down the fold in it, slowly, as if he were trying to smooth out a crease that had been put there with an iron.
+Brom was sitting under the window with his back to the plaster, as he always sat, with Rooke's sheet open on his knee and Karis's nine ticks along the top of it in pencil. He was running his thumb down the fold in it, slowly, as if he were trying to smooth out a crease that had been put there with an iron.
 
 "He's not recruiting you," he said.
 
@@ -122,7 +122,7 @@ Karis opened her mouth, and closed it again, and looked at the column of ticks, 
 
 She swung her leg down off the settle and sat forward.
 
-"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it. If it's ever going to happen, that room is where it's likeliest." Her eyes stayed on Cael's and did not leave them. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
+"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it." She meant the minute they had all signed in this room a month before, whose second rule allowed a reach only inside an engagement Seln himself began. "If it's ever going to happen, that room is where it's likeliest." Her eyes stayed on Cael's and did not leave them. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
 
 "It mightn't happen," said Brom.
 
@@ -186,15 +186,13 @@ It came out whole. That hardly ever happened.
 
 He left it as it stood. Then he wrote the working out underneath, because a conclusion with no working under it was only a thing you had decided to feel.
 
-*The case for a trap. The door into his range is one he cut himself, and nobody knows what eight feet of him is worth better than he does. Put me at his table and my watching becomes the specimen and he becomes the scale. You couldn't draw a better plan for it, and it costs the Compact nothing; written down, it's a clerk with a syllabus.*
-
-*Against: eleven days, the same two coats. And Brom's point, which I've tried and failed to break: whatever the man lets me have, I have to go and claim myself, publicly, in ink. And the way it came. He spoke to the floor sheet, not to me: a single sentence, in the dullest hour, in words the desk clerk could have repeated at supper and bored her whole table. A trap wants to be walked into. This was a door made so I could walk past it, and afterwards neither of us would have spoken to the other at all.*
+*For a trap: he cut the door into his range himself, it costs the Compact nothing, and written down it's a clerk with a syllabus. Against: eleven days of the same two coats, and Brom's point, which I've tried and failed to break, that whatever the man lets me have I must claim myself, publicly, in ink. A trap wants to be walked into. This was a door made so I could walk past it.*
 
 *What I think, put here so I can be shown wrong later where everybody can see: for thirteen weeks he has been careful around me. This morning, I think, he was careful on my behalf. Careful* for *me. I haven't one piece of evidence for that preposition, and it's the only part of today I'm sure of.*
 
 *What I'll do: sign the board, sit in the room, and learn the Path, if he teaches it.*
 
-*What I won't do is let a single morning shift how I read him. He still draws the Compact's pay, and in thirteen weeks he hasn't said a word to me that wasn't about a form. A man who says nothing can begin saying something on any day he likes. Eleven days at a ferry landing is a very thin floor to build on.*
+*What I won't do is let a single morning shift how I read him, since he still draws the Compact's pay, a man who says nothing can begin saying something on any day he likes, and eleven days at a ferry landing is a very thin floor to build on.*
 
 *So: both. I read him as an officer, and I sit in his room anyway.*
 
@@ -206,7 +204,7 @@ He blotted the page and sat looking at it, and then took the pencil and, at the 
 
 There was one more thing, and it was not about the debt. It was about Karis's fourth road, which had been sitting in him since the common room like a stone in a shoe.
 
-*Karis's fourth: he put the whole afternoon in and wrote it so that it says nothing. Mine: he left it out. She says those are different men, and she's right. One of them hides a thing by leaving a hole, and the other by filling the hole with so much truth that nobody looks down. I don't know which man he is. I only know that either one is better at paper than I am, and I've been working at paper since I could hold a pen.*
+*Karis's fourth road: one man hides a thing by leaving a hole, the other by filling the hole with so much truth that nobody looks down. I don't know which he is, only that either is better at paper than I am, and I've been working at paper since I could hold a pen.*
 
 He closed the Log on that. Through the wall, along the passage, he heard Lira's floorboard go, once and then again, the long step and the careful one, as somebody walked to a window and stood there. Then nothing, and he did not knock. Brom had been right about what it cost her, and the least he could do with a thing that cost her was not make her talk about it at the ninth bell.
 

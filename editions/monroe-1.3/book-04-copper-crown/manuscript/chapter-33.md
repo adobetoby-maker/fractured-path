@@ -221,7 +221,7 @@ He read that part over and was satisfied with it, as far as it went. Then he mad
 
 *And the last thing, the one I understand best. He took the upper flight and left me the lower door and the landing, the same as he left me the gallery. Last night I could tell myself he hadn't noticed me. Tonight he walked past my knees. So the gallery wasn't a gift either. He's got two people in a building where he only wants one, and one of them isn't his to send away. So he's divided the ground. That one's mine. This one's his.*
 
-He sat looking at the page with the cold coming up through the floorboards, and found that his hands had begun, very slightly, to shake, now that there was nothing left for them to do.
+He sat looking at the page with the cold coming up through the floorboards, and found that his hands had begun, very slightly, to shake, now that there was nothing left for them to do. He did not sleep at all that night. He lay on the floor in Brom's coat with his eyes open until the window turned grey and Karis knocked at the second bell.
 
 He read it to the other three at breakfast, low, with his head down over the porridge, and nobody said anything until he had finished the part about the scuff.
 

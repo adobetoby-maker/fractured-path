@@ -84,7 +84,7 @@ It was true, and it was not enough. So he set the cost out under it piece by pie
 
 *The price, in order. Three seconds, maybe four, of the very thing I'd sat three nights in the cold to see, gone while it happened above me. That's the dearest thing I spend, and I spent it without being asked. Then the pain behind the eyes, at once and heavy. Then two dead tries in four minutes, and a fire-watch man asking if I was all right. Last, in no column yet, what I owe the one man on this bluff who has never once sent me a bill.*
 
-*The five before, somebody's hands were on me: Lira, Feryn, Brom, Reydan, Karis. This time nobody came within a yard, and I've never been told so much. Three new things on one page: a tier, two parts named apart, and a line about what kind of engagement it was. That last line agreed with something I argued aloud three weeks ago and half expected to lose. I'll be honest. I don't like being agreed with by something I can't put a question to.*
+*The five before, somebody's hands were on me: Lira, Feryn, Brom, Reydan, Karis. This time nobody came within a yard, and I've never been told so much, and the engagement line agreed with an argument I made aloud three weeks ago and half expected to lose. I'll be honest: I don't like being agreed with by something I can't put a question to.*
 
 *A system that confirms you is a system that was listening.*
 
@@ -92,7 +92,7 @@ It was true, and it was not enough. So he set the cost out under it piece by pie
 
 He sat with the pen lifted after that for a long time, and wrote nothing more, and the window went slowly from black to the colour of slate.
 
-At the fourth bell the deferral went into the wing in his own hand, on the wing's own form: *training deferral requested, eight days, on grounds of accumulated fatigue.* It was true: seven hours' sleep in four nights, and anybody could have signed for it from his face. The desk clerk read it, and looked at him over the top of it with real kindness, and told him he looked dreadful and should go to bed. Then she initialled it, and stamped it, and dropped it in Gault's tray. By noon it was back on the residence board with Gault's initial and the purple ring of the stamp, approved without a word, as the wing approved four such forms a week. It was the only mark the whole business would ever leave in any office on the bluff, and it said, correctly, that a boy was tired.
+At the fourth bell the deferral went into the wing in his own hand, on the wing's own form: *training deferral requested, eight days, on grounds of accumulated fatigue.* It was true: seven hours' sleep in three nights, and anybody could have signed for it from his face. The desk clerk read it, and looked at him over the top of it with real kindness, and told him he looked dreadful and should go to bed. Then she initialled it, and stamped it, and dropped it in Gault's tray. By noon it was back on the residence board with Gault's initial and the purple ring of the stamp, approved without a word, as the wing approved four such forms a week. It was the only mark the whole business would ever leave in any office on the bluff, and it said, correctly, that a boy was tired.
 
 The copying table was empty that morning. The desk clerk mentioned, to the room at large, that the assistant had been up all night over a bother in the records hall and had been sent to sleep it off. Cael pinned his copy of the form into the back of the Log and did not look at the chair.
 
@@ -112,13 +112,13 @@ On both mornings he went out to the coping at first light, and on both mornings 
 
 Under all of it, all the time, was the sixth fragment.
 
-It did not live inside him as the others did, and he could not find it by turning toward his hip, or his ribs, or his arms. It was out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek. Sometimes it seemed turned a little up and sometimes a little down, and he did not touch it. Nobody had said he could, and he did not mean to learn what touching it cost before Karis had her numbers.
+It sat out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek; but nobody had said he could touch it, and he did not mean to learn what touching it cost before Karis had her numbers.
 
 On the third day she had them, in the wash-house, with the same rule and the same lamp and the three sandbags hanging in their row. Rule caught at eight and three-quarter inches, a hair slower than before. Breath at rest, fifteen. Middle bag: guessed ten, got eleven. The read at the post with Brom feeding, twelve of twelve, though the last two came a shade late, which Brom swore to and Cael felt. Ember, by his own account, as it had been.
 
 "The Wind waits for the fourth morning, and Lira," said Karis. "That's in the plan. And the Bronze one?"
 
-He told her about the lamp on one cheek and the wick that moved without being asked, and that he had not touched it, and she wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
+He told her about the lamp on one cheek, and that he had not touched it, and she wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
 
 ---
 
@@ -156,7 +156,7 @@ He thought about it.
 
 "I know that one," said Lira, after a while. "Not with the Wind. With my hip, the first time it went out from under me, years ago. You put your weight where you've put it a thousand times and it isn't there to take it." She rubbed the hip absently with the heel of her hand. "It frightens you worse than a fall. A fall, you can see coming."
 
-"Last time it came twice in the first hour, the morning after. This time: once, the fourth morning, and back before the run was over." He heard himself, and stopped. "I'm not saying it's nothing."
+"It came back," he said. "I'm not saying it's nothing."
 
 "I know you're not." She was looking at the far wall. "You're saying it's smaller. Because you got ready. And you're going to want to get ready for the next one, too. And there's going to be a next one."
 
@@ -252,6 +252,6 @@ Karis rolled her sleeves down and buttoned the cuffs, which was how she ended an
 
 *K. is glad it was smaller. This is not a finding. It's allowed in the margin.*
 
-"There," she said. "Now it's on the record too. My record." She stood. "Brom's waiting at the post. Number nineteen tonight, if I've counted right, which I have. The last of them. Tomorrow he starts again at one, and Rooke says that's the whole point. Come and feed him. You look as if you'd like to hit something soft and be told the number."
+"There," she said. "Now it's on the record too. My record." She stood. "Brom's waiting at the post. Number seventeen tonight, if I've counted right, which I have. Two more after this and he's done all nineteen, and then he starts again at one, and Rooke says that's the whole point. Come and feed him. You look as if you'd like to hit something soft and be told the number."
 
 He went and fed Brom, at a third, under the lamp, and was told the number.

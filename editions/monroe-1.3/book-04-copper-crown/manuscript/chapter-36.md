@@ -68,7 +68,7 @@ Lira turned her head on the floor to look at him properly.
 
 "Explain *idles*."
 
-He tried. He had been trying all morning, on the bed, and the words had kept coming out wrong, so he came at it sideways. Did she remember the gallery, he asked, and the bench, and the old fire-watch man who looked into the doorway and walked on? That was the man's half, turned up. Now think of everybody else. Everybody alive takes up a certain amount of room in a passage, and costs everybody else a certain amount of looking, just by being there, like a candle costs a certain amount of oil whether anybody reads by it or not. And nobody ever thinks about their own amount. Their life sets it for them, the way a house sets the height of its doorways, and they walk through at that height for ever without once ducking.
+He tried. He had been trying all morning, on the bed, and the words had kept coming out wrong, so he came at it sideways. Did she remember the gallery, he asked, and the bench, and the old fire-watch man who looked into the doorway and walked on? That was the man's half, turned up; now think of everybody else, because everybody alive takes up a certain amount of room in a passage, and costs everybody else a certain amount of looking, just by being there, like a candle costs a certain amount of oil whether anybody reads by it or not. Nobody ever thinks about their own amount, because their life sets it for them, the way a house sets the height of its doorways, and they walk through at that height for ever without once ducking.
 
 "Mine used to be set the ordinary way," he said. "Now there's a hand on it. Stop minding where I end, and down it slides. Tired, it goes down. Reading, it goes down. For three days I was thinking about Karis's columns, and it went down the whole time, and I never felt it go."
 
@@ -90,7 +90,7 @@ He had not had the word. He had it now, and it fitted so exactly that he laughed
 
 He went back to his room and wrote it, short, because the long version was hers.
 
-*Day eleven. It idles. Idling isn't off. Every person has a setting for how much room they take and how much looking they cost, and nobody thinks about theirs. Mine has a hand on it now, and the hand drifts down when I stop minding my edges: tired, reading, thinking. First thing to learn isn't use. It's holding ordinary, all day, on purpose, and that's paid for from waking to sleep.*
+*Day eleven. It idles, and idling isn't off. The first thing to learn isn't use but holding ordinary, and that is paid for from waking to sleep.*
 
 *None of the other five charged rent.*
 
@@ -116,7 +116,7 @@ People looked at the ladder. He could feel it, the way you feel the sun: eyes co
 
 He set the ladder down at the arch and stood there with his shoulder aching, and understood something.
 
-Since the stair he had been trying to make himself less, to turn the hand down on purpose, and it had come to nothing. Here, without trying anything at all, forty people had looked past him, because he had been carrying something more interesting than himself. That was not a Path. It was a ladder. But it was the same shape, he thought, standing in the arch with the yard going on round him. You did not have to be nothing. You only had to give the eyes somewhere better to go.
+Since the stair he had been trying to make himself less, to turn the hand down on purpose, and it had come to nothing. Here, without trying anything at all, forty people had looked past him, because he had been carrying something more interesting than himself. Nothing at his edges had stirred the whole way across; the fragment had done nothing, and this was only the plain trick every porter on the bluff lived by, ordinary attention going to the more interesting thing. That was not a Path. It was a ladder. But it was the same shape, he thought, standing in the arch with the yard going on round him. You did not have to be nothing. You only had to give the eyes somewhere better to go.
 
 Up at the window, Gwen was waving her count at him: a large, plain *0*.
 
@@ -224,15 +224,15 @@ So the ledger he had not wanted to start began that night, on a fresh page, in a
 
 *Have: the hiding half is real. Five times in an hour, all unasked, every one lost the moment I looked. The moving half: not once in four crossings.*
 
-*Spends: attention, dearer than the read, going in and again coming out. Plus the idle rent, every hour I'm awake, to keep my edges where other people's are. I've been paying that since the stair without knowing.*
+*Spends: attention, dearer than the read, going in and again coming out, and the rent on top of it.*
 
-*Risk, Lira's, and she saw it first: if I go thin by accident on a hall floor, in a crowd, on a stair, somebody else can be hurt because they didn't know I was there. I don't know what happens. That is not an answer I'm allowed to keep. Till I can keep ordinary without slipping, it's the people near me who pay, as much as me.*
+*Risk: Lira's sentence, which she saw before I did. I don't know what happens, and that is not an answer I'm allowed to keep; till I can keep ordinary without slipping, it's the people near me who pay, as much as me.*
 
 *Won't share: the read. They won't stand in the same room at all, not yet, the way the read and the Wind wouldn't in the first year. The rest: untried.*
 
 *Good for: nothing. Honestly, plainly, nothing yet.*
 
-*Fails: everywhere, and worst wherever I want it most. That's new. I don't like it. I suspect it's the lesson.*
+*Fails: everywhere, and worst wherever I want it most, which is new, and which I don't like, and which I suspect is the lesson.*
 
 *Net: one Bronze tool with no handle on it, and a year of learning to be dull on purpose. Begin.*
 

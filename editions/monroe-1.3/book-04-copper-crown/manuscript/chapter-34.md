@@ -1,8 +1,8 @@
 # Chapter 34 — Already Arrived
 
-He slept the afternoon, as Lira had told him to, and woke at dusk with the shape of the stair still in his body, the way the sea stays in a sailor's legs.
+He slept three hours of the afternoon, as Lira had told him to, and woke at dusk with the shape of the stair still in his body, the way the sea stays in a sailor's legs.
 
-For a while he lay without moving and took stock, as he always did before anything that mattered. Hip, quiet. Forearm, quiet. The read, when he let it come up along his arms, was there and cheap and on time. Behind his eyes was a dull weight that he knew well and that had nothing to do with any fragment: four hours of sleep in three nights, and the long cold attention of the gallery and the stair, drawn out of the same purse as everything else he paid for with his eyes. He noted it. He did not like it. It would have to do.
+For a while he lay without moving and took stock, as he always did before anything that mattered. Hip, quiet. Forearm, quiet. The read, when he let it come up along his arms, was there and cheap and on time. Behind his eyes was a dull weight that he knew well and that had nothing to do with any fragment: seven hours of sleep in two nights and a day, and the long cold attention of the gallery and the stair, drawn out of the same purse as everything else he paid for with his eyes. He noted it. He did not like it. It would have to do.
 
 Then he got up, and lit the lamp, and took the minute out of the back board of the Log and read rule two, slowly, aloud, under his breath.
 
@@ -16,11 +16,11 @@ Then he put the Log away, and went down to supper, and ate everything Brom put i
 
 Before supper there had been a series of slow thumps on the far side of his door, at long even intervals, as if somebody were trying very patiently to push the residence over. He opened it and found Brom in the passage with both forearms braced against the door frame opposite, sweating, his left heel rising and being forced down again.
 
-"Fourteen," said Brom, without turning his head. "Rooke calls it the frame. I call it something else. Karis is in her room with the notebook, waiting to hear the number through the wall." He set the heel down and shifted. "Thirty-one. Go back to sleep. You look like a man somebody's drawn in chalk."
+"Thirteen," said Brom, without turning his head. "Rooke calls it the frame. I call it something else. Karis is in her room with the notebook, waiting to hear the number through the wall." He set the heel down and shifted. "Thirty-one. Go back to bed. You look like a man somebody's drawn in chalk."
 
-Cael went back to sleep, to the sound of somebody leaning on a building, and found it the most restful sound in the world.
+Cael lay down again and did not sleep, but listened to somebody leaning on a building, and found it the most restful sound in the world.
 
-Nobody at the table asked whether he was going. Karis talked about the transitional article of a directive nobody else had read. Brom described exercise fourteen, which involved a door frame and was, he said, the worst so far by a distance he could not express in feet. Lira ate with her eyes on her plate and said almost nothing. When they got up she walked beside him as far as the foot of the residence stair, and stopped there, and looked at him for a moment as if she were reading the standings.
+Nobody at the table asked whether he was going. Karis talked about the transitional article of a directive nobody else had read. Brom described exercise thirteen, which involved a door frame and was, he said, the worst so far by a distance he could not express in feet. Lira ate with her eyes on her plate and said almost nothing. When they got up she walked beside him as far as the foot of the residence stair, and stopped there, and looked at him for a moment as if she were reading the standings.
 
 "Hand up," she said.
 

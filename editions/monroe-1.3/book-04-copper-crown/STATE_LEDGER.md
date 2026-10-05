@@ -433,3 +433,142 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 
 **Movement 4 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied: ch28 the incident line expanded for narration ("Hall three, north bay, sixth bell."). All brief items resolved; listening proof on all eight chapters; overlap 0, gates 0, probe 1%/13%; mean 13.64, ≥40w 4.4%, 872 w/scene.
+
+## After Movement 5 (chapters 30–37; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR: entry d143 (ten days after the pin); the reach on the night of d149; the birthday, the eleventh of Sowing, d167. The ch37 board: 'Sixteen days to the final, and the semester evaluation the day after it.' Closing Log (protected, amended): 'Semester evaluation in seventeen days.' Final = the nineteenth of Reaping (≈d183); evaluation = the twentieth (≈d184). NEVER state month order or a Sowing→Reaping day count (OWNER-DECISIONS #35). M6 must fit: semifinal ≈ the tenth of Reaping (nine days before the final); delegation the twelfth/thirteenth; M6 ends 'The final is in seven days, the evaluation in eight.'
+- Seln's first words to Cael at the counter came 'in thirteen weeks' (last exchange on d51).
+- BROM'S NINETEEN: Karis's week-lines start at Tarn (d128), four a week, the first four in one night → 8 on d141, 9 on d144, 13 on d149, 17 on d156, all nineteen ≈d159–160, then round two. (The author's end-state below predates r1 on this — r1 governs.)
+- SLEEP across the operation: night one 4 h; night two none; the afternoon before night three 3 h; night three none (seven hours in three nights).
+- SIXTH FRAGMENT: Shadow-adjacent, Bronze, directed, non-combat, acquired from Seln on night three (the notice exact). The record keeps five; nobody institutional is told; Seln never learns. Settles further OUT than the Iron read. Idle state = continuous 'rent'; masking fails when he aims the gaze; the ladder was ordinary attention going elsewhere, not an activation. Wind misfire at 96 h, self-corrected; no full intensity until three clean days.
+- GWEN: placeholder (OWNER-DECISIONS #11). Cael's GRANDMOTHER: he has no memory of her ('I was too small to keep anything of her'); Hesk's note is the only line; no death details. Brom's pear-fork story (his sister; his grandmother at the head of the table). Lira's letter to Hesk 'a year ago' was written at Greyvane.
+- Private Wind sessions are on the quadrangle flagstones; the senior clerk is in the registrar's office. Cael's admission that the quarter-sheet was 'almost certainly theft' stands.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Weekday anchor from M3/M4: d73 and d116 are Sixth-day and Seventh-day; seven-day weeks.
+
+| Day | Event |
+|---|---|
+| d133 (Third-day) | The pin (M4) |
+| d141 (Fourth-day) | The Fiske bout, session fifteen (M4) |
+| **d143 (Sixth-day), night** | **Seln's private file**, ten days after the pin; the case; the carbons |
+| **d144 (Seventh-day)** | Coping: eleven days of two and two. **The counter**, second–third bell, the first words since d51 (thirteen weeks). Hall three on new pins. Council; the four-part plan signed; the Log. Brom 12/19 |
+| d145 (First-day) | Unit sheet on the residence board (nine names); Karis's *before* begins |
+| d146 (Second-day) | Slate: records hall, fourth hour (night of d145). Bracken reads the plate early; his copy is on the wing's desk by the ninth bell |
+| **d147 (Third-day)** | Slate again; Karis on the walk ("a night behind"; four throws; drawer proud); the ground walked; **unit session 1** (sixth bell); "Priced. Going anyway." read at supper; **night one** (gallery) |
+| d148 | Slate: *last bell*; Gwen in the library; the reader's window worked out; **night two** (stair; the scuff) |
+| **d149, night (≈a quarter past the third hour, early d150)** | **Night three**: Jessup; Seln "already arrived"; **the reach; the notice**; failed first use; the younger fire-watch man; Karis; Lira and Brom told within the hour |
+| d150 | Log before dawn; deferral of eight days (through d157), stamped by noon; coats unchanged |
+| d150–151 | No training (covenant); Karis's *after* on d152 |
+| **d154 (Third-day)** | **Wind misfire** before the first bell, quadrangle flagstones, a little over 96 h (≈98); self-corrects. Unit session 2 (sight lines) |
+| d155–157 | Three clean days |
+| d156 | Karis's two columns: *manageable*. Brom's nineteenth exercise (round two begins d157) |
+| d158 (Seventh-day) | Leak 1 (the tray) |
+| d159 | Leak 2 (the Blade instructor, the stair) |
+| d160 | Leak 3 (registrar's senior clerk); "rent" with Lira; working note |
+| d161 (Third-day) | Unit session 3 (carry the ladder); wash-house trials (hiding half) |
+| d163 | Moving-half crossings; Lira's hazard; working ledger, day one |
+| d164 (Sixth-day) | Coursework handed in; "Mm"; the debt columns |
+| **d167 (Second-day)** | **The eleventh of Sowing. Sixteen.** Inventory; letter to Hesk |
+| d168 (Third-day) | Next unit session (in the yard) |
+| ≈d183 | Copper final (sixteen days from the birthday) |
+| ≈d184 | Semester evaluation (**seventeen days**) |
+
+**Cael — body.**
+- Fit.
+- Forearm sound (the Compression recovery column amended to four mornings).
+- The collarbone took Lira's forearm at a third (d154), with no lasting mark.
+- Sleep: seven hours in four nights, recovered over the deferral.
+- The idle-state rent shows as a dull ache behind the eyes after a day of holding ordinary (d167).
+
+**Fragments.** **Six confirmed + the Tide anomaly.** The record keeps five.
+- **Shadow-adjacent, Bronze**, acquired d149/150, directed; *Engagement: adversarial, non-combat*. Notice exact.
+- Settling: *further out* than the Iron read (which in B2 lay over the skin), into the half-metre of air.
+- Deployment: none.
+- Hiding half: comes unasked (five times in an hour on d161), and is lost the moment he looks. Moving half: 0 of 4.
+- Exclusive with the read.
+- Idle state: on while he is awake; drifts down when tired, reading or thinking; three leaks d158–160; d167 "bumps: none" at a cost.
+- Integration: one Wind misfire at a little over 96 h; three clean days; Karis: *manageable, not safe*.
+- Wind: four free on timber, three on stone; landing beat unshortened.
+- Read: confirmed.
+- Pressure and Ember: unused.
+- The Tide anomaly appears in the inventory only.
+
+**Knowledge.**
+- Lira, Brom and Karis know everything, including the acquisition (told within the hour).
+- Nobody institutional knows. Seln does not know the mechanism or the acquisition; he never looked down the stair.
+- The wing's note is in the incident record (protected). Jessup's client is unidentified.
+- Gwen knows only "records business" and that there was no cart.
+
+**Documents.**
+- Seln's two cipher sheets in the small case.
+- Four carbons (returned).
+- The four-part plan (signed, in the Log's back board) and *READ FIRST*.
+- Karis's *before* and *after* sheets; her *Six* column; her two columns (*manageable*).
+- The working ledger, day one.
+- The debt columns, and *Filed under debts…*
+- Karis's chart (*At once / After / Running / Owing*; *see holder*).
+- Hesk's steel pen in its pine case, with the note.
+- The deferral form (stamped; Gault's initial).
+- Bracken's report (to the chancellor, copy to the wing); the incident record with the wing's note; Jessup's half-copied book (held by counsel).
+- The unit's three exercises (handed in).
+- Cael's letter to Hesk (for the first coach).
+
+**Companions.**
+- Lira: Copper R2 formal; top line; the hip still billed (stretches on her floor); her hand at the window three nights.
+- Brom: the nineteen finished on d156, round two from d157; twelve boxes at d144.
+- Karis: unchanged standing; holds the chart and the counts.
+
+**Watchers.** Two and two at the ferry landing and the road's foot, on the bell, unchanged through d167. The stiff-kneed man keeps his rotation.
+
+## New canon minted (flag where marked)
+
+- **The counter's dull hour (flag):** the desk clerk breakfasts and the copying table (Seln) minds the counter. The chained counter pen.
+- **The unit:** a former map store off the wing; places for twelve, nine signed. Third-days at the sixth bell, weekly "to the close of term"; **no session count stated (C5)**. Sessions: d147 (door argument), d154 (sight lines, the porter count), d161 (carry the ladder); d168 in the yard. Seln is flat throughout and never looks at Cael.
+- **Gwen (placeholder, OWNER-DECISIONS #11):**
+  - second year, Current; green scarf; decorated notebook; draws an eye after her name;
+  - an aunt who is an assessor at the Fenmark station;
+  - stands behind the door "in panic"; counted a dog; "That's much worse."
+- **The fire-watch slate:** the boy chalks the night's hours (counted from the last bell) on a slate at the covered walk's north arch, standing on a bucket. The bursar's clerk copies it at noon for the oil quarrel with the chandler.
+- **Records hall geography:**
+  - three ways in;
+  - **the counting lock is on the enrollment section's own door**, which every route reaches: the main door, the covered walk's door into the stone hall, or the service stair, the archive and its inner stair;
+  - the mossy bench in the shallow doorway;
+  - the service stair's rocking **ninth step**, its half-landing window, and the archive door at the top.
+- **Bracken** reads the slate and the plate (Fifth-days, read early this time) and spots a proud drawer. His clerk carries the copy to the wing.
+- **Jessup:**
+  - one of half a dozen records-brokers above Ostrand's fish market;
+  - had half the basis copied in a little book;
+  - paid through a letter box let for one month;
+  - lifts doors on their hinges.
+- **The archive door** stood open with Seln in it. Seln came out and stood on the stair before Cael arrived on night three.
+- **Karis's *before* and *after*** (rule drop, breath, middle bag, the read at the post).
+- **The misfire on the second-quadrangle flagstones, not hall one (flag):** the packet and source say hall one, but M2–M4 hold Cael to supervised floor time ("no unscheduled floor access" is in Seln's product). The baseline Wind numbers were taken there too.
+- **The leaks:**
+  - the tray: a Mire second-year;
+  - the stair: a Blade instructor;
+  - the counter: **the registrar's senior clerk**, a careful grey man of twelve years. **Flag:** placed in Bracken's office, since M3 lists the wing's staff without a senior clerk.
+- **The ladder exercise** and its insight (give the eyes somewhere better to go). It is Cael's, not a capability.
+- **Brom** is blindfolded with his own right wrap (*Again. Slower. Watch yourself.*). He finished the nineteen on d156.
+- **The good lamp** lives in the linen cupboard; the key hangs on the housekeeper's belt.
+- **Hesk's surveyor's hitch** (one pull opens it); the dovetailed pine case; the steel pen's details.
+- **Lira's letter to Hesk (flag):** "a year ago" is set at Greyvane, prompted by Karis wanting the date for a column (the source had Ardenmere). Hesk's three-line reply: *the date, thank you, he won't have told you*.
+- **Brom's sister (flag):**
+  - the Velmere pear-fork dinner, sister thirteen, Brom eleven;
+  - this fits B2's "I was eleven before I found out other people ate pears with their hands";
+  - the grandmother bites her pear; the forks are gone the next year.
+- **Cael's grandmother (flag):** Cael never knew her. Hesk spoke of her only in occasional lines (consistent with B3's "would have laughed for a week"). Cael writes *Ask*.
+- **Fiske's stud** was polished on the wrong day, "so somebody else had done it". An implication only.
+- **The Ash instructor:** "In thirty years…" signing people off with a splint. **Flag:** a career length, compatible with her age of about sixty.
+- **Lira's "foundry rent"** (Ardenmere).
+- **Seln:**
+  - the fifth hand: a cipher grown from the cramped hand, with lines that slope downhill;
+  - the landlady who took it for a diary;
+  - the key in a treatise on harbour dues;
+  - the carbons laid out like patience;
+  - the training note chalked for new auditors;
+  - his knees.
+
