@@ -198,79 +198,49 @@ He sat back on his heels.
 
 The return came up to Coss in the Thursday tray, under a mill-race dispute and a tanner's permit, and he very nearly sent it on unread.
 
-He had been sending things on unread for most of a year, and doing it well. A contact of record kept his name on a file long after his visits were finished, for the convenience of somebody's register; it meant that every time a district assessor went out on it, a copy of the return came up two floors to his desk, *for information*. Information meant nothing was asked of him. He read the head, and put his thumb on the routing card to send it on, and did not sign anything. Most weeks there were a dozen of them.
+A contact of record kept his name on a file long after his visits were finished, for the convenience of somebody's register, so that every time a district assessor went out on it a copy of the return came up two floors to his desk, *for information*. Information meant nothing was asked of him. He read the head, put his thumb on the routing card, and signed nothing, a dozen times a week.
 
-This one had *Ardenmere, river side* in the head, and under it the name.
+This one had *Ardenmere, river side* in the head, and under it the boy's name.
 
-He sat with his thumb on the routing card and did not move it.
+He had been that boy's contact of record for most of a year. He had sat across a pie from him once, at a table in the district, and been asked whether he knew what a flag was, and had told the truth, which was that he did not. Three days after a bout in a yard, he had opened this file at his own desk and found a grey slip pinned inside the cover that nobody in his section had put there: a printed head, one date, and a code with a prefix he had never seen. He had locked the file in his drawer that afternoon and written nothing about it, and told nobody, then or since.
 
-The return was very short, and in a hand he did not know. It was a young man's hand, very level, with every letter the same height as its neighbour, as if the writer had ruled faint lines for himself and rubbed them out afterward. *Visit made. Subject found in district, morning. Address confirmed by keeper's book. Compliant. Nothing further.* Below it, in the same hand and the same size, as the standing instructions had lately required on every file of that class: *Supplementary marker entered on closure, as instructed.* And the initials, and the date.
+The return was very short, in a young man's level hand, with every letter the same height as its neighbour. *Visit made. Subject found in district, morning, at the market square. Address confirmed by keeper's book. Compliant. Nothing further.* Below it, as the standing instructions had lately required on every file of that class: *Supplementary marker entered on closure, as instructed.* And the initials, *H.*, and a date a fortnight gone.
 
-Havel. He knew the initials from the duty board; it was a name, and a face to go with it, and a pair of new boots in the corridor, and nothing more. Four years in, a careful one, whom nobody talked about because there was nothing to say.
+Havel. Coss knew him from the duty board: four years in, new boots in the corridor, a careful one whom nobody talked about because there was nothing to say.
 
-*Found in district, morning.*
+He knew, too, how the visit would have gone, as surely as if he had walked it himself. The young man would have gone in through the river gate with his case in his left hand and been sent up the hill by somebody who did not want him in the house, and there at the top, at the pump in the square, sitting in the open in front of everybody, would have been a boy of fifteen with nothing in his hands, already looking at him.
 
-Coss put the return down on the desk and looked at the window, where the afternoon was going grey early over the yard.
+He wondered, for no reason he could have given, what the boy was doing now, this grey Thursday afternoon. Sitting on a bench somewhere with a book open on his knee, most likely, watching somebody who did not know yet how much was being written down about him.
 
-He knew how it would have gone, as surely as if he had been there. The young man would have gone in through the river gate in a coat that fitted him, with his case in his left hand, and walked up the tannery lane while the district quietly arranged itself round him. He would have gone to the house and read the book and been sent somewhere by somebody who did not want him in the house. And there at the somewhere, sitting in the open in front of everybody, would have been a boy of fifteen with nothing in his hands, already looking at him.
+The green slip was the Tuesday instruction, a few weeks old; every file of that class had to carry one now. Coss had read the instruction on his own floor and wondered for the length of one breath who had wanted it, and then stopped wondering, because wondering about instructions was a thing a man could only do for so long before it showed in his face.
 
-*Compliant. Nothing further.*
-
-He had sat across a pie from that boy once, at a table in that district, and been asked whether he knew what a flag was. He had told the truth: he had not. Then he had gone home on the noon cart, and three days after a boy's bout in a yard, he had opened this same file at his desk and found out.
-
-He picked up the return again and read the second line once more. *Supplementary marker entered on closure, as instructed.* It was the green slip. Every file of that class had to have it now, since the Tuesday instructions a few weeks back. He had read the instruction himself on his own floor, and wondered for the length of one breath who had wanted it, and then not wondered, because wondering about instructions was a thing a man could only do for so long before it showed in his face.
-
-The boy's file was in the registry's long room now, shelved under the river-side district with everything else that had been visited and stamped and closed. He did not need it. It asked nothing of him. Information.
-
-At the end of the day, when the clerks were tying up the sacks and the corridor had begun to smell of the lamps being lit, he went down to the long room and asked for it by its number.
+The file was in the registry's long room by now, shelved and closed. It asked nothing of him. At the end of the day, when the clerks were tying up the sacks and the corridor had begun to smell of the lamps, he went down and asked for it by its number.
 
 ---
 
-The registry's long room ran the length of the building's back, under the windows, with shelves to the ceiling on one side and a counter on the other. The clerk at the counter was a woman who had been there longer than Coss had, and she went and found the file without a word, because a contact of record could ask for his own file and nobody would ever write down that he had. She laid it on the counter between them and went back to her ledger.
+The registry's long room ran the length of the building's back, under the windows, with shelves to the ceiling on one side and a counter on the other. The clerk at the counter had been there longer than Coss had, and she found the file without a word, because a contact of record could ask for his own file and nobody would ever write down that he had.
 
-It was very thin. He had known it would be, and it still gave him a small cold turn to see how thin.
+It was very thin. He had known it would be, and it still gave him a small cold turn.
 
-He opened it.
+The grey slip was gone from inside the cover. Working slips came off when a file went down to be shelved; that was the registry's rule, and the clerks kept them or burned them by some other rule nobody had ever told him. He turned to the classification block on the first leaf, and stopped.
 
-The cover leaf first, with the registry's stamps. The grey slip was not pinned inside it. He had not expected it to be. Working slips came off when a file went down to be shelved; that was the registry's rule, and the clerks unpinned them and kept them or burned them according to some other rule nobody had ever told him. That afternoon it had sat there, with its printed head and its code and its one date, the morning after the boy's bout, and he had looked at it for a long time and written nothing about it, and locked it in his drawer, and taken the key home. When his contact period ran out the file had gone down to the long room like every other, in a sack, and come off its pins.
+There were three lines in it now. The first was the registry's, *[SHATTERED]*, with its stamp. The third was the young assessor's green slip, entered in that level hand, with *H.* and the date in the right-hand column. Between them was a second line, in the short printed form the registry used for handling markers, a designation and a figure; and the column at its right-hand end, where an officer's initials went, was empty.
 
-He turned to the classification block on the first leaf, and stopped.
+The designation had no prefix he knew. Its shape was the shape he remembered from the slip, the run of letters and the gap and the figure after it, and he was nearly sure it was the same code. He could not be sure. On the afternoon he found the slip he had sat with his working log open in front of him, eleven years of plain black books bought with his own money and every file he had ever opened written up in them in his own hand, and he had left that day's page empty on purpose, because a thing written down could be found. So the one thing he needed to check this line against was nowhere: not in the registry, not in his log, only in his memory of a slip of grey paper that had come off its pins and gone wherever the clerks sent such things.
 
-There were three lines in it.
+Under nobody's line, the young man had signed his own. Havel would have read the leaf from top to bottom, as anybody who wrote that hand read everything, and seen the empty column when he came to enter his line beneath it, and he had not taken it upstairs. He had written *as instructed* and closed the file. Coss knew exactly what that had cost him, because it was what Coss had done; and he felt two things at once, neither of which he liked. One was relief, plain and shameful, that the young man had sent no note upstairs with his name on it. The other was the thought that he had now watched two men find the same nothing in the same file and say nothing, and that one of them had learned it from the other without ever being told.
 
-The first was the registry's, *[SHATTERED]*, with its stamp. The third was the young assessor's green slip, entered in that level hand, with *H.* and the date in the right-hand column, very neatly. Between them was a second line.
-
-It was in the short printed form the registry used for handling markers, a designation and a figure. The column at its right-hand end, where an officer's initials went, was empty.
-
-He stood at the counter and read the designation four times.
-
-It had no prefix that he knew. It was not his section's or regional's, and not the one the autumn sweep had carried on its orders. It was not anything in his register. The slip had carried a code with no prefix he knew either, and he had stared at that code long enough, on the afternoon he found it, that he could have sworn to the shape of it in his sleep: the run of letters, and the gap, and the figure after the gap. This line had the same shape. He was nearly sure of it.
-
-He could not be sure. That was the thing that went through him, standing at the counter in the long room with the lamps being lit along the shelves. He could not be sure, because he had not written the code down. He had sat that afternoon with his working log open on the desk in front of him, eleven years of plain black books bought with his own money, every file he had ever opened written up in them in his own hand, and he had left that day's page empty on purpose. It had been the first page he had ever left empty, and he had done it because a thing written down could be found, and he had not known who might come looking. And now the one thing he wanted most in the world to check against was not anywhere. It was not in the registry, or in his log, or anywhere but in his own memory of a slip of grey paper that had come off its pins and gone to wherever the clerks sent such things.
-
-Somewhere above his grade, and above his section head's, the same thing had been in this file once as a slip, and it was in it now as a line. Or it was a different thing that looked the same. Either way, nobody had signed it.
-
-Below it, the young man had signed his own.
-
-Coss looked at the *H.* in the right-hand column for a while. Havel would have read the leaf from top to bottom; anybody who wrote that hand read everything from top to bottom. He would have seen the empty column when he came to enter his own line under it. He might have taken it upstairs, and he had not. He had made his entry, neatly, under nobody's, and written *as instructed*, and closed the file. Coss knew exactly what that had cost him to do, because it was what Coss had done.
-
-He felt two things at once and did not like either. One was relief, plain and shameful, that the young man had not sent a note upstairs with his name on it. The other was the thought, which arrived whole and sat down in him and would not get up again, that he had now watched two men find the same nothing in the same file and say nothing about it, and that one of the two had learned it from the other without ever being told.
-
-The query form was in his drawer upstairs. He thought about it. He thought about the last one he had sent, months ago, about a sweep, and the word that had come back in the spring pouch in a hand he did not know. *Noted.* He thought about a slip of grey paper pinned inside a file with his own name on its cover, and he thought about the kitchen table at home, and a girl doing her sums with her tongue between her teeth.
+The query form was in his drawer upstairs. He thought of the last one he had sent, months ago, and the single word that had come back in the spring pouch in a hand he did not know: *Noted.* He thought of the kitchen table at home, and a girl doing her sums with her tongue between her teeth.
 
 He had not asked then. He did not ask now.
 
-He closed the file and pushed it back across the counter, and the clerk put down her pen and took it and went off down the long room to shelve it, between a carter's licence and a widow's pension, where it had been.
+He pushed the file back across the counter, and the clerk took it off down the long room to shelve it between a carter's licence and a widow's pension, where it had been.
 
-Upstairs, he put the return through on its routing card without a mark, as information. Then he took his working log out of his inside pocket and opened it on the desk to the day's page, and uncapped his pen.
-
-He sat for a long time.
-
-He did not write the code, because he did not have it. He did not write *same as before*, because he did not know that it was. He did not write *assessor H. entered under it and did not query*, because that was the young man's to write or not, and he had not. He found that there was nothing he could put on the page that was both true and safe. Every true thing he knew pointed upward, at a floor he had never stood on, and he had spent eleven years learning what happened to men who pointed there.
+Upstairs he put the return through on its routing card without a mark. Then he opened his working log on the desk to the day's page and uncapped his pen, and sat for a long time. Every true thing he knew pointed upward, at a floor he had never stood on, and he had spent eleven years learning what happened to men who pointed there; there was nothing he could put on the page that was both true and safe.
 
 So the page stayed empty. It was the second.
 
-He capped the pen, and put the log back inside his coat and buttoned the coat over it, and went home through the streets in the dark. At the kitchen table his daughter was drawing a map for her lessons, the river and the bridges and the gates, very carefully, with the Unranked District on the far bank left white because her master had told her nothing there needed drawing.
+He went home through the streets in the dark with the log buttoned inside his coat. At the kitchen table his daughter was drawing a map for her lessons, the river and the bridges and the gates, very carefully, with the Unranked District on the far bank left white because her master had told her nothing there needed drawing.
 
 "Was it a good day?" she asked, without looking up.
 

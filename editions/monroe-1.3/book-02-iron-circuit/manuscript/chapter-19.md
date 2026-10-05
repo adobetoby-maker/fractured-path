@@ -2,7 +2,7 @@
 
 The other half of the two weeks was himself, and he put it off for three days, which was how he knew it was going to be bad.
 
-He did it in the end at the kitchen table after supper, when the heavyset man's wife had gone up and the sister with her, and the kitchen was warm and empty and smelled of Lira's pies. He opened the Power Log flat so that both entries showed at once, the Wind on the left-hand page and the Pressure on the right, and took a fresh sheet for his sums. The draught under the door kept lifting the corner of it, so he stood the salt cellar on it. Then he made himself go through it field by field, the way he would have gone through any other fighter's page. He took nothing for granted because it was his.
+He did it in the end at the kitchen table after supper, when the heavyset man's wife had gone up and the sister with her, and the kitchen was warm and empty and smelled of Lira's pies. He opened the Power Log flat so that both entries showed at once, the Wind on the left-hand page and the Pressure on the right, and took a fresh sheet for his sums. The draught under the door kept lifting the corner of it, so he stood the salt cellar on it. Then he made himself go through it field by field, the way he would have gone through any other fighter's page, taking nothing for granted because it was his.
 
 He began with the Wind. He had had it longest, and he leaned on it hardest.
 
@@ -14,7 +14,7 @@ Then he wrote Brom's name at the top of the loose sheet and ran the sum again, a
 
 What the burst was for, the only thing it had ever been for, was being somewhere else when a blow arrived that somebody had meant. Somebody meant a blow, all the way, past the hinge where they could change their mind, and he went short off his hip and was not there when it arrived; and then they were in their recovery, going home, and he was out of the lock and into the gap. Every win he had on the slate that had a burst in it had been won like that.
 
-In all the hours Cael had watched him, Brom had never once meant a blow. He waited on his heels for other people to mean them. There would be nothing to step away from. Cael could burst to the front-left and the left and the back-left all night, paying half a breath and a line of hip every time, while Brom paid nothing. And Cael would end up standing in the middle of the main floor with grey at the edges of his eyes and a hip on fire, having made a very big man turn round on the spot.
+In all the hours Cael had watched him, Brom had never once meant a blow; he waited on his heels for other people to mean them, and so there would be nothing to step away from. Cael could burst to the front-left and the left and the back-left all night, paying half a breath and a line of hip every time, while Brom paid nothing. And Cael would end up standing in the middle of the main floor with grey at the edges of his eyes and a hip on fire, having made a very big man turn round on the spot.
 
 He made himself fill in the fields for it as if he were writing the entry for the first time, Claim and Evidence and Ruling under each, with the small *h* beside anything he had only been told. *Deployment range*: half a body, the fan, nothing to the right-rear quarter. *Conditions, against B.*: a man who stands on his heels and waits, so that nothing ever comes at me past its hinge unless he wants it to. *Evidence*: four days of the middle column. *Ruling*: the conditions the burst was built for will hardly ever be there.
 
@@ -24,7 +24,7 @@ Then the other one.
 
 He had been not thinking about the Pressure for a week, and he made himself think about it now, slowly, both faces.
 
-The taking face first, the old one: the slow gathering of a weight into the forearm or the shoulder over most of a breath, the sink in his stance that anybody could see, and a staggering blow spread out into one he could stand under. It was dear, slow and plain to see, but it was the thing that had kept him on his feet more than once. Against Brom it would buy nothing. A man who did not strike could not be stood under.
+The taking face first, the old one: the slow gathering of a weight into the forearm or the shoulder over most of a breath, the sink in his stance that anybody could see, and a staggering blow spread out into one he could stand under. It was dear, slow and plain to see, but it had kept him on his feet more than once, and against Brom it would buy nothing, because a man who did not strike could not be stood under.
 
 And the giving face, the one he used. Ridden into a strike on the beat, it put a weight into his fist that his arm alone could never have found, and it left the hollow under his ribs after. Off the beat it went back up his own arm, which was why his left wrist ached in the cold. Three to a sequence, about, and he had never tried a fourth.
 
@@ -34,11 +34,7 @@ He sat with the pencil over the sheet for a long time. Then he wrote what he had
 
 He underlined *bigger*.
 
-He thought, too, because it belonged on the same sheet, about the gaze. It was not a fragment, and it did not go in the Log, but it was the thing he had leaned on hardest all year, and it was half shut against this man. The hooks were made for the space before a strike, and Brom had no before. The middle column was new and rough and four days old. And at full depth he was still blind past ten degrees, and Brom had already shown him once, on the east bench, that he knew where the ten degrees ended.
-
-*Wind: insurance. Pressure, taking: nothing to take. Pressure, giving: worse than nothing. Feeds him. The gaze: half shut. He has no before.*
-
-He looked at it.
+He thought, too, because it belonged on the same sheet, about the gaze. It was not a fragment, and it did not go in the Log, but it was the thing he had leaned on hardest all year, and it was half shut against this man. The hooks were made for the space before a strike, and Brom never struck; the middle column was four days old and rough; and at full depth he was still blind past ten degrees, which Brom had already shown him, on the east bench, that he knew.
 
 *Everything I've built this year, both halves of it: against him one's a spare coat, and the other's a knife with the handle pointed at me. What's left: my feet. My hands. The middle column. Whatever I can find in two weeks of watching a man who wants to be watched. If I win this, the grey book wins it. The Log sits on the bench.*
 
@@ -58,7 +54,7 @@ She was there before him, which she always was, with the lamp lit and her staff 
 
 "Until I say."
 
-She stood in the middle of the alcove, and he saw what she had done before she had done anything at all. She had set her feet back. Her weight sat in her heels, far back, much further than he had ever seen her stand, and her staff was held low and loose across her body. She did not come at him. She stood there and waited for him to come at her, like a post driven into the ground.
+She stood in the middle of the alcove, and he saw what she had done before she had done anything at all. She had set her feet back, with her weight in her heels further than he had ever seen her stand it and her staff held low and loose across her body, and she did not come at him; she stood there and waited for him to come at her, like a post driven into the ground.
 
 She was being Brom. Not well; she did not have the weight for it, and she did not have whatever it was that sent his hits back. But she had the shape: a fighter who began nothing and waited to answer. And she had a year of reading Cael from three paces off, which Brom had had for three weeks.
 

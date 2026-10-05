@@ -220,3 +220,89 @@ Author: Monroe Jackson (seat `oconnor` 1.3.0, model `claude-opus-5-5`) · 2026-1
    - Vell's second stool and her back-marks.
 6. **Coss is about 500 words under the packet's ~2,500.** I would rather the review rule on this than pad the scene.
 7. **Brom says nothing of Wind or Pressure to Cael.** He says "weight where there oughtn't to be weight. Moving about. Never standing still… long enough to be a shape." Nobody suggests that Cael takes abilities by watching. If the owner hears "moving about" as too near a diagnosis, the line can be cut back to "not on a shelf".
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), 2026-10-05, following `REPAIR-BRIEF.md` (Sol, editorial and cold). Every change was made in place by reading, never by script. I edited only ch17–22 and this report; ch16 needed nothing. No git commands were run.
+
+### The three intervals, as now defined
+
+Each interval is defined once, where Cael first sees it, and each has one tell. In the bout plan, the low fourth strike exploits **recovery**.
+
+| Interval | Where it is defined | What it is | Tell | Behaviour |
+|---|---|---|---|---|
+| **Activation**, before contact | ch18, the fifth afternoon | Brom is hard by the knock. He has done it while the fist is still coming. | A low breath in the belly, drawn and held for about half a beat (a man settling under a sack). | Comes only before the hits he will hold and send back. Light hits he takes on an ordinary arm. **So he chooses.** |
+| **Latency, "the hold"**, after contact | ch18, the fourth session | From the knock to the throw. The fist is stopped dead while the blow goes down into his heels, the way Hesk's water goes into the gears. Then the arm turns. | The fist does not bounce, and his knees give a finger's width. | About a beat on anything new, half a beat or less by the third repeat. It **shortens with familiarity**. |
+| **Recovery**, before the next hardening | ch20, the seventh session | After the throw, the held breath goes out. Nothing on him is hard until the next low breath is in. | A long breath out through the nose, with the next low breath not yet drawn. | Half a beat against the post. Live, after three fast answers against the dock partner, it is **two beats**, and the next breath comes in short and high. It is **the only interval that grows the more he spends** (the account). |
+
+**Why the plan targets recovery** (ch21, in Cael's own words to Lira, as a hypothesis that rests on one live sighting):
+- Activation is closed to him: "He breathes while I'm still coming."
+- Latency is no use: by then Brom "already has my hit… and every time he's seen a thing he decides quicker."
+- Recovery is "the only one of the three that gets slower the more he does."
+- The strike goes below the knee because coverage is thinnest there, even if Brom is partly re-armed.
+
+The ch22 failure conditions now test the definitions against each other:
+- **Activation is chosen.** Brom can take the first two soft and spend nothing.
+- The main floor might quicken his refill.
+- The shin may only be untested.
+- Brom has watched Cael look.
+
+### Changelist
+
+1. **The mechanic made exact.**
+   - **ch18:** the gaze-fail run joined into fewer sentences. Latency rewritten as the hold, with its tell and its number (about one beat, not 1.5). The breath rewritten as activation: it is finished by the knock, light hits are taken soft, and the entry ends "*So he chooses.*" The heel paragraph tied to the hold. Cael notes that the hold "was no use to anybody: by the time it began, Brom already had the hit."
+   - **ch20:**
+     - The reset passage rewritten as recovery, with its tell.
+     - The post entry renamed *Recovery*.
+     - The dock-partner count now follows the breath ("in short and high").
+     - The account entry rules out the hold and activation by name.
+     - The baker-scene figure corrected from "a beat and a half" to "a whole beat", to match ch18.
+   - **ch19:** "He has no before" removed (Brom does have a before, the breath). It now reads "Brom never struck."
+2. **Say it once.**
+   - **ch22, the written plan:** cut to:
+     - the commitment (*North mark. Third exchange: the fourth one low, into his recovery… I'm doing my deciding tonight*);
+     - four *wrong if*s and the bought loss;
+     - the trust in Brom.
+
+     The numbered recap, the Pressure and Wind rules and the "What I'm fighting with" line are gone; ch19 and ch21 hold them. The trust paragraph no longer reports Brom's ch20 private decision, which was a POV leak. It now rests on what Cael can see: the column's honest curve, and "*My family had a page on me*".
+   - **ch22, the main-floor walk:** the "insurance" restatement is now a practical note about choosing the mark. "A man who knew where you were looking could choose what you saw" now appears once, at the desk, not also after the shin kick.
+   - **ch19:** the duplicate one-line summary of the inventory (*Wind: insurance… He has no before*) and "He looked at it" removed. The discovery itself is kept.
+   - **ch21:** the planning scene is kept and now carries the interval argument as dialogue with Lira ("Why there?"; "If you're right." / "If I'm right. I've seen it once, live.").
+   - **ch17, Coss (2,004 → 1,457 words):**
+     - An early orientation paragraph says what Coss did with Cael before: contact of record for a year, the pie, the grey slip found after the bout, locked away, told to no one.
+     - The return now places the visit "at the market square", dated "a fortnight gone".
+     - A concrete point of contact with the present: Coss wonders what the boy is doing "this grey Thursday afternoon… watching somebody who did not know yet how much was being written down about him".
+     - The uncertainty is told once (the code's shape; he cannot be sure; why).
+     - Relief, shame and the query are merged into one paragraph each.
+     - The silence at his desk is two sentences.
+     - Both scenes are kept, along with every knowledge boundary: no origin, no note, the second empty page, and the daughter's map with "Draw the bridges in properly."
+3. **Rhythm in the training runs.** Flat runs of equally weighted declaratives that form one causal thought were joined into hierarchical sentences:
+   - **ch18:** the gaze fails; the body inventory; "not comfortable"; the stance; the heels.
+   - **ch19:** the field-by-field opening; never meant a blow; the taking face; the gaze; Lira's stance.
+   - **ch20:** the drill's two lines; the ceiling's rests; the coverage map; the two possibilities for the bare shin; the recovery.
+
+   Speech, Log entries and bout beats were not touched.
+
+### Checks after repair
+
+- `ed.sh overlap book-02-iron-circuit 3`: **0 unprotected, 2 protected** (unchanged).
+- `ed.sh gates book-02-iron-circuit 3`: reader_standard=0, metadata=0, modern=0 on all seven chapters.
+- `sweep_probe.sh book-02-iron-circuit 3 3`: **0% skeleton, 8% close** (was 0% and 9%). No chapter is above 1%.
+- `formula_metrics.py`:
+
+| Measure | Working range | Before r1 | After r1 |
+|---|---|---|---|
+| Words (prose) | 34,500–37,000 (brief) | 35,830 | **35,528** |
+| Sentence mean | 13–15.5 | 13.46 | **13.95** |
+| Median | — | 9 | 9 |
+| SD (pop.) | — | 11.58 | 12.29 |
+| ≤5-word share | up to ~34% | 31.7% | 31.6% |
+| ≥40-word share | 2.5–4.5% | 3.5% | **4.3%** |
+| Paragraph median | up to ~30 | 28 | 29 |
+| Words per scene | 850–1,050 | 873.9 | **866.5** |
+| Flesch-Kincaid grade | 3.5–6 | 3.8 | 4.0 |
+| Flesch reading ease | — (72.3) | 91.8 | 91.3 |
+
+All three primary measures are in range. The ≥40-word share is now near the top of its range; the joins were kept to single causal thoughts, so I left it there rather than split sentences back. Median and Reading Ease barely moved; dialogue sets both, and dialogue was off-limits.
+
+**POV after repair.** Coss is ≈1,460 words, Brom ≈4,750 (unchanged), and Cael ≈82%.

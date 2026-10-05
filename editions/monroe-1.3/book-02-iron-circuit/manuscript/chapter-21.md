@@ -12,11 +12,19 @@ She stood behind the bench with her arms folded on the top of the alcove wall an
 
 He had known she would ask, and he had the page open already. He turned it round on his knee so she could read it over his shoulder, which she did, slowly, with her lips moving.
 
-"There's a gap," he said. "After he answers hard. Before he can answer hard again. Against the post it's half a beat. Against your partner, after three in a row, it was two." He put his finger on the number. "It's not a moment. It's like a purse. Every hard answer takes something out of it, and if they come fast enough, the purse is lighter for the next one, and the next one comes slow."
+"There's a gap," he said. "After he's thrown one back, before he's breathed in again. Against the post it's half a beat. Against your partner, after three in a row, it was two." He put his finger on the number. "It's not a moment. It's like a purse. Every hard answer takes something out of it, and if they come fast enough, the purse is lighter for the next one, and the next one comes slow."
 
 "And you're going to empty it."
 
-"I'm going to make him answer hard three times, close together, and put the fourth in the gap." He moved his finger to the drawing. "Low. Below the knee. That's where he's thinnest anyway. If I'm right about the gap and right about the knee, the fourth goes into a man who's only a man there, for two beats."
+"I'm going to try."
+
+Lira frowned at the page. "Why there? Why not before he's hard at all? You said he breathes first."
+
+"He breathes while I'm still coming. If he can see me, he's in before I get there." Cael turned back a page to the middle column. "And the hold's no good to me. By then he's already got my hit, and he's only deciding where to send it, and every time he's seen a thing he decides quicker. The getting back is the only one of the three that gets slower the more he does. Everything else, he gets better at."
+
+"If you're right."
+
+"If I'm right. I've seen it once, live." He turned forward again. "So I make him answer hard three times, close together, and put the fourth in the recovery." He moved his finger to the drawing. "Low. Below the knee. That's where he's thinnest anyway. If I'm right about the recovery and right about the knee, the fourth goes into a man who's only a man there, for two beats."
 
 Lira read the drawing for a long time.
 

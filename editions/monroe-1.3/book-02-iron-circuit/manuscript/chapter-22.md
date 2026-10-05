@@ -152,7 +152,7 @@ Cael wrote it in the grey book standing up, with the book against the rope post.
 
 *Main floor. Twelve strides rope to rope. Room for five or six bursts in the fan before the rope; on the side floor, two. So the floor won't stop me spending. Only I can. Stone thick, old, dead underfoot; takes a hit and keeps it. His floor. He's stood on it.*
 
-And under it, smaller: *Mark the left. Take the mark with open room to my left, so if I need the insurance, it pays out. Ask Dace which mark is mine.*
+And under it, smaller: *Take the mark with open room to my left, so the fan has somewhere to go if I'm ever made to use it. Ask Dace which mark is mine.*
 
 He asked. Dace, who had been listening to all of it with his back turned, said without turning round that the challenger chose his mark, and the challenger was Brom, and Brom had already told him he did not care which.
 
@@ -188,7 +188,7 @@ Cael kept his face still. He did not look at the page, or at the shin, or anywhe
 
 Brom held the look a moment longer. Then he turned back to the lad and nodded at him to go again, and the lad went again, at the chest this time, and went off sideways laughing.
 
-It was one kick, from a boy who did not know what he was doing. A man who knew what you were looking at could choose what you saw, and a man who did not lie to the column could still notice, as anybody would, that a boy had kicked him somewhere new. Cael did not write it as evidence. He wrote it, afterward, as a question, with the *?* beside it: *Shin, the tall lad, by accident. Nothing came back. He looked. Does he know now that I know? He knew already.*
+It was one kick, from a boy who did not know what he was doing, and a man who did not lie to the column could still notice, as anybody would, that a boy had kicked him somewhere new. Cael did not write it as evidence. He wrote it, afterward, as a question, with the *?* beside it: *Shin, the tall lad, by accident. Nothing came back. He looked. Does he know now that I know? He knew already.*
 
 Cael filled the middle column for the last time. He did not need to. He had more than he could use. But he counted the gap through the first round and the second and the third, and wrote the beats down in a neat line, and saw the line do what it had done for twelve days: long, and then shorter, and then shorter, as the man got used to a thing. He wrote at the end of it, *Same. Every time.* It was a dull entry to finish on. He was glad of it. He had been afraid, a little, that on the last day the numbers would turn round and show him he had been wrong for twelve days, and they had not.
 
@@ -324,39 +324,21 @@ When she had gone up, he went to the crate desk and lit the lamp and opened the 
 
 He went back first, through the whole of the two weeks, and wherever he had written *L.* he wrote *Lira* above it, small, in ink. It took a long time. There were more of them than he had thought, and some of them were on pages that had nothing to do with her at all, as if she had wandered into the margins of other people's fights. On the page about the middle column he wrote *Keth asked*, and on the coverage map he wrote *her partner*, and on the first page with Brom's name at the head of it, under *Iron Skin. Formal tier not known*, he wrote in ink, *Brom*, again, and then, because she had told him to and because it was true, a line round it with corners like a shelf.
 
-Then he turned to the clean page and wrote the plan.
+Then he turned to the clean page.
 
-He wrote it plainly, as a hypothesis, the way he would have written a claim in the Log, because that was all it was until Tuesday made it something else.
+He did not write the plan out again. He had said the whole of it to Lira on the alcove bench before Wendel, the hard answers and the account and the fourth one low, and nothing he had seen since had changed a line of it. What had changed was everything round it, so that was what he wrote, in pencil, as a hypothesis, because that was all it was until Tuesday made it something else.
 
-*B. on Tuesday. What I think is there:*
+*Tuesday. North mark. Third exchange: the fourth one low, into his recovery. I do it whatever the first two show me, unless they show me there's no recovery to go into. Deciding is the half beat, so I'm doing my deciding tonight.*
 
-*1. The gap. After a hard answer, before the next hard answer. Against the post, half a beat. Live, after three close together, two beats. It's an account, not a moment. Hard answers draw on it. Three fast enough, and the fourth comes slow.*
+That was the commitment. Under it, because a plan without them was only a wish, he wrote the ways it could be wrong.
 
-*2. Below the knee. Thinnest place on the map. Either he can't reach it easily or nobody's made him. Don't know which. Doesn't matter if the fourth goes in during the two beats.*
+*Wrong if he takes my first two soft and spends nothing. He chooses which hits he answers hard; I've watched him choose. Wrong if the main floor, with the whole room on him, makes him fill quicker than he does in an alcove. Wrong if the shin isn't bare, only untested, and the tall lad tested it for me today in front of him. Wrong if twelve days of me watching have taught him where I'll be looking.*
 
-*3. Latency is longest when everything is new. It shortens with every repeat. So: never give him the same thing twice.*
+*If any of those, I'll know by the end of the third, and I'll have four exchanges left to read why. A loss to the right man, watched all the way through, is still worth buying.*
 
-*Plan. Exchanges one and two: make him answer. Hard enough that he has to send them back. Different every time, so he learns nothing he can use. Feet and hands only. Watch the account. Don't try to win either of them.*
+He sat back and looked at the last of the *wrong if*s for a long time, because it was the only one he could do nothing about. Brom had stood at the rope for three weeks and sat across an alcove for twelve days, and had watched Cael learn him through every one of them; whatever Cael had found, Brom had watched him find it, and a man who knew where you were looking could choose what you saw.
 
-*Exchange three: three in a run, close, from three different places. Fourth low, below the knee, in the gap. Two to test, one to take.*
-
-He stopped, and read it, and wrote under it the part that was not a plan but a rule, so that he would see it there on Tuesday morning when he was frightened and wanted it not to be true.
-
-*Pressure: locked. Not once. Not the giving face, not the taking. Every hit I make heavier, he sends back heavier. See the Log, in ink.*
-
-*Wind: insurance. Only if he commits, and only if I've read it first. Read first, it's cheap. Found by it, it's twice the price, and I can't afford twice on Tuesday.*
-
-*What I'm fighting with: my feet. My hands. The middle column. The boy who walked over the hills.*
-
-And then the last part, the one he made himself write because a plan without it was only a wish.
-
-*How I'll know I'm wrong. If the gap doesn't widen live, on the main floor, with him trying, I'll know by the end of the third. If the knee's hard, I'll know when my foot comes back up my leg. If either: then the plan is wrong and not the reading, and I've got four exchanges left to read why. A loss to the right man, watched all the way through, is still worth buying.*
-
-He sat back and looked at it.
-
-It was a good plan. He thought it was the best plan he had ever written, because every line in it had been seen, and counted, and argued over at a baker's side door, and nothing in it had been guessed. And he thought, too, as plainly as he had written *I think I'll lose it* on the first day of the two weeks, that it might not work at all. Brom had stood at the rope for three weeks and on a bench for twelve days, and had watched Cael learn him every single one of them. Whatever Cael had found, Brom had watched him find it. A man who knew where you were looking could choose what you saw.
-
-But he did not think Brom had chosen. He thought of the big man on the fourth day, winding the cloth round his hand, with a row of easy lies he could have fed into the middle column, and not feeding them. Cael could not have said how he knew that. It was not in any column. It was what Brom was made of.
+But he did not think Brom had chosen. He thought of the column itself: twelve days of numbers that had never once jumped where a lie would have made them jump, but had gone long and then short in the same plain curve every afternoon, the way a thing does when nobody is steering it. And he thought of the big man on the corner of the row saying *My family had a page on me*, which was not a thing a man said to somebody he meant to cheat. None of that was proof. It was what Brom was made of, read the only way Cael had of reading it.
 
 He wrote that down too, at the very bottom, in pencil, because it was not a measurement and he might be wrong.
 

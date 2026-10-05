@@ -323,3 +323,218 @@ Open threads now:
 - Ch9–15, 34,502 words. Mean 14.40, ≥40w 3.3%, 958 w/scene; overlap 0 (4 protected); probe 1%; gates 0.
 - Canon ruling (Sol): Havel's "four files … none open more than a few weeks" is CONSISTENT with Book 1's "the fourth unknown" — a registry file can close without the public summary recording the subject as dead (Book 3 ch17: Cael read all four files; "Three of the four files simply ended"; removal complete within days in every case).
 - Authorship: claude-opus-5-5. Published to the PWA: Book 2 Monroe 1.3 edition ch1–15, "in progress".
+
+
+## After Movement 3 (chapters 16–22; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Brom's hardening, three intervals (binding for the bout): ACTIVATION before contact (a low breath held ~half a beat while the fist comes; only before hits he will send back — "So he chooses."); THE HOLD after contact (knock to throw; the fist doesn't bounce, knees give a finger's width; about ONE BEAT on anything new, shorter with familiarity); RECOVERY (the held breath out through the nose; nothing hard until the next low breath; half a beat against the post, two beats live after three fast answers — the only interval that lengthens as he spends: "the account").
+- Cael's plan (a hypothesis — "I've seen it once, live"): Wind as insurance; Pressure locked away by rule; three answers, then the low fourth strike into the RECOVERY. Failure conditions on the page, incl. Brom chooses which hits to harden; the tall lad's kick has tested the shin.
+- Coss: Book 1's grey slip is gone from the file; he believes its code now sits as the unsigned second line, cannot be sure (never wrote it down); a second empty log page; no upward note; no contact with Cael. (Recheck verifies vs B1 ch60.)
+- Main floor posted; betting four to one against Cael; the bout four days out at movement end. Brom's read has limited range. No running Copper-formal count is stated.
+- Accepted texture: Brom pays newcomers a copper a round to hit him; Wendel's guild pin; Corrin "like a gatepost"; Hesk's mill-wheel "slack"; Lira lends Brom her dock partner. Vell's near-apology: "The fault is the keeper's."
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.**
+- Brom introduces himself ≈3 weeks after the stranger's line. He says "two weeks from today", which makes it a Tuesday.
+- Cael spends two days in reading rooms; Keth and Corrin talk to him in the same week.
+- There are twelve days of sessions, twice a day on most days.
+- The interim bout falls in the middle of the fortnight.
+- Lira vs Wendel is on **Thursday**. At the corner afterwards Brom says "five days".
+- **Ch22 is Friday, four days out.** The bout is on Tuesday, on the main floor, with the lamps lit.
+- Still late autumn with frost; no months are named.
+
+**Bodies.**
+- Cael:
+  - shoulder, ribs and the side of the knee from Lira's staff (bruises);
+  - the left-hip line from each burst (bright after the reactive one, thin after the read ones);
+  - the hollow under the ribs after the three-strike ceiling (it closed);
+  - grey vision, ringing and knees after the chain-of-three attempt (transient);
+  - eye-ache from the second deep pull against the ration (ch18).
+- Lira: upper left arm, where Wendel's first sequence caught her, goes red, then a purple "the shape of an open hand"; a cut forearm (ch20).
+- Wendel: ribs under the arm; he went down on one knee.
+- The Orvet Blade: sat down hard (third exchange).
+- Brom: a step given to the dock partner's fourth blow; nothing else.
+
+**Fragments and progression.**
+- **Two fragments**, both partial, and the count is unchanged. **No notice** this movement.
+- **Wind:**
+  - chain of two confirmed when he fills his lungs first (six in seven); the fill shows in his chest (a new tell);
+  - chain of three not available (tried once, ruled no);
+  - **a read burst costs about half a reactive one** (Orvet's Blade, second exchange against third; the six-mark drill, 20/20);
+  - *the watching… is what pays for it.*
+- **Pressure:**
+  - **giving-face ceiling: three on the beat**, with a growing hollow; no fourth thrown;
+  - **locked against Brom by a rule written in ink in the Log**;
+  - the taking face is useless against a man who does not strike.
+- **The gaze:** fails on a subject who initiates nothing. It is rebuilt as **Stimulus / Latency / Response**, timed by his pulse.
+- **Brom's measured shape:**
+  - latency about 1.5 beats on a new hit, falling to about 0.5 with repeats;
+  - an inhale-hold before every hard answer;
+  - about 60% of his weight on the heels;
+  - the coverage map: lead forearm and lead-foot edge strongest; chest and shoulders less; **almost nothing below the knee**;
+  - a **reset gap** of half a beat against the post and two beats live after three fast hard answers ("an account").
+
+**Power Log / grey book — quotable.**
+- Log, Wind: *chain of two… Six in seven… the fill shows… Chain of three: not there… Don't ask again*; *Claim: the cost of a burst isn't fixed…*
+- Log, Pressure: *Ruling: three is the working ceiling. It isn't the thing that fails past three. It's me.*; *Against B.: no giving face. Not once… This is not a ceiling. It's a rule.* (in ink); margin: *L.: leave it home…*
+- Grey book:
+  - *He does what I do. From a floor further down.*
+  - *I think I'm looking forward to this. I think I'll lose it.*
+  - *Did not know the floor… He learns places before he fights in them.*
+  - *Four pages on who owns it. One sentence on what it does.*
+  - *The gap is the subject.*
+  - *Latency shortens with familiarity.*
+  - *Find it live or don't count it.*
+  - *What does the hardening cost him?*
+  - the main-floor notes and *north mark*;
+  - every *L.* overwritten in ink as *Lira*; *Brom* in ink, boxed like a shelf;
+  - **the plan**: two to test, one to take; the third exchange; below the knee; how he will know he is wrong;
+  - *He hasn't lied to the column… I am staking the plan on it.*
+
+**Ratings and ledger lines.**
+- Cael: assessed-Copper. The interim bout goes in as *…Third exchange. Atypical movement pattern.*, and the Shield from the salt end won in the third (ch16). **No running count of Copper formals is stated** (see flags).
+- Lira: Vell's line moves to **provisional Iron-equivalent, pending two confirming bouts** (Dace will schedule them after Tuesday). Her losses this movement are to an Iron-equivalent Shield (fourth exchange) and a north-gate Wind. She beats Wendel in the sixth. Her formal card is unchanged: Copper, rank ten.
+- Brom: Iron-equivalent in Vell's book; eight bouts, seven wins; his only loss was his first, to the Shield. Vell, privately to Cael, says he is "a good deal" better than his line.
+- The betting man has Cael at **four to one against**, out from three. The river-academy man laid one coin on Cael; the fruit woman laid a copper on Brom "for luck".
+
+**Money / home.** Brom pays a copper a round to newcomers, two to the girl who keeps her eyes open, and a mark to the dock partner, on top of Lira's mark. Brom pays the carters' inn a week ahead. Yesterday's bread costs two for one before the bell. The sister's hen lays only in the coal box.
+
+**Knowledge.**
+- Cael:
+  - Brom's name, Path and line;
+  - his first-bout loss;
+  - that his read is close-range;
+  - that he sees "something I've never seen before" and has no shelf for Cael;
+  - Brom's family "page" (to be put right; he left);
+  - the measured shape above.
+- Brom:
+  - Cael's method, including the pulse;
+  - the registry word *Assessed*;
+  - that the shin was kicked and Cael saw it.
+  - He knows nothing of fragments, the Log or notices.
+- Lira: everything about the plan except what Brom said in the alcove, which Cael tells her that evening.
+- Vell: her own delay, now in ink.
+- Coss: the unsigned line and Havel's entry under it. Nothing is written down.
+
+**Relationships.**
+- Cael and Brom: they speak; they have argued over bread; neither will talk about Tuesday.
+- Lira and Brom: she lent him her partner; "You're reading me bored."
+- Lira and Vell: the near-apology.
+- Lira and the heavyset man: he went down to watch her.
+- Keth: "Tell me what's in it. The middle."
+
+**Compact / watchers.** Coss read Havel's return and the file and did not query. His log has a second empty page. No contact with Cael. No new visit.
+
+**Open threads now.**
+- The bout: the window in the third exchange, below the knee, Pressure locked.
+- Lira's two confirming bouts.
+- What Vell wrote in her back cover ("That's mine").
+- Coss's second empty page; Havel's private note.
+- Keth's request.
+- The letter to Hesk, which arrives after Tuesday.
+- Whether Brom knows about the shin.
+
+## State at movement end (for the ledger)
+
+**Calendar.**
+- Brom introduces himself ≈3 weeks after the stranger's line. He says "two weeks from today", which makes it a Tuesday.
+- Cael spends two days in reading rooms; Keth and Corrin talk to him in the same week.
+- There are twelve days of sessions, twice a day on most days.
+- The interim bout falls in the middle of the fortnight.
+- Lira vs Wendel is on **Thursday**. At the corner afterwards Brom says "five days".
+- **Ch22 is Friday, four days out.** The bout is on Tuesday, on the main floor, with the lamps lit.
+- Still late autumn with frost; no months are named.
+
+**Bodies.**
+- Cael:
+  - shoulder, ribs and the side of the knee from Lira's staff (bruises);
+  - the left-hip line from each burst (bright after the reactive one, thin after the read ones);
+  - the hollow under the ribs after the three-strike ceiling (it closed);
+  - grey vision, ringing and knees after the chain-of-three attempt (transient);
+  - eye-ache from the second deep pull against the ration (ch18).
+- Lira: upper left arm, where Wendel's first sequence caught her, goes red, then a purple "the shape of an open hand"; a cut forearm (ch20).
+- Wendel: ribs under the arm; he went down on one knee.
+- The Orvet Blade: sat down hard (third exchange).
+- Brom: a step given to the dock partner's fourth blow; nothing else.
+
+**Fragments and progression.**
+- **Two fragments**, both partial, and the count is unchanged. **No notice** this movement.
+- **Wind:**
+  - chain of two confirmed when he fills his lungs first (six in seven); the fill shows in his chest (a new tell);
+  - chain of three not available (tried once, ruled no);
+  - **a read burst costs about half a reactive one** (Orvet's Blade, second exchange against third; the six-mark drill, 20/20);
+  - *the watching… is what pays for it.*
+- **Pressure:**
+  - **giving-face ceiling: three on the beat**, with a growing hollow; no fourth thrown;
+  - **locked against Brom by a rule written in ink in the Log**;
+  - the taking face is useless against a man who does not strike.
+- **The gaze:** fails on a subject who initiates nothing. It is rebuilt as **Stimulus / Latency / Response**, timed by his pulse.
+- **Brom's measured shape:**
+  - latency about 1.5 beats on a new hit, falling to about 0.5 with repeats;
+  - an inhale-hold before every hard answer;
+  - about 60% of his weight on the heels;
+  - the coverage map: lead forearm and lead-foot edge strongest; chest and shoulders less; **almost nothing below the knee**;
+  - a **reset gap** of half a beat against the post and two beats live after three fast hard answers ("an account").
+
+**Power Log / grey book — quotable.**
+- Log, Wind: *chain of two… Six in seven… the fill shows… Chain of three: not there… Don't ask again*; *Claim: the cost of a burst isn't fixed…*
+- Log, Pressure: *Ruling: three is the working ceiling. It isn't the thing that fails past three. It's me.*; *Against B.: no giving face. Not once… This is not a ceiling. It's a rule.* (in ink); margin: *L.: leave it home…*
+- Grey book:
+  - *He does what I do. From a floor further down.*
+  - *I think I'm looking forward to this. I think I'll lose it.*
+  - *Did not know the floor… He learns places before he fights in them.*
+  - *Four pages on who owns it. One sentence on what it does.*
+  - *The gap is the subject.*
+  - *Latency shortens with familiarity.*
+  - *Find it live or don't count it.*
+  - *What does the hardening cost him?*
+  - the main-floor notes and *north mark*;
+  - every *L.* overwritten in ink as *Lira*; *Brom* in ink, boxed like a shelf;
+  - **the plan**: two to test, one to take; the third exchange; below the knee; how he will know he is wrong;
+  - *He hasn't lied to the column… I am staking the plan on it.*
+
+**Ratings and ledger lines.**
+- Cael: assessed-Copper. The interim bout goes in as *…Third exchange. Atypical movement pattern.*, and the Shield from the salt end won in the third (ch16). **No running count of Copper formals is stated** (see flags).
+- Lira: Vell's line moves to **provisional Iron-equivalent, pending two confirming bouts** (Dace will schedule them after Tuesday). Her losses this movement are to an Iron-equivalent Shield (fourth exchange) and a north-gate Wind. She beats Wendel in the sixth. Her formal card is unchanged: Copper, rank ten.
+- Brom: Iron-equivalent in Vell's book; eight bouts, seven wins; his only loss was his first, to the Shield. Vell, privately to Cael, says he is "a good deal" better than his line.
+- The betting man has Cael at **four to one against**, out from three. The river-academy man laid one coin on Cael; the fruit woman laid a copper on Brom "for luck".
+
+**Money / home.** Brom pays a copper a round to newcomers, two to the girl who keeps her eyes open, and a mark to the dock partner, on top of Lira's mark. Brom pays the carters' inn a week ahead. Yesterday's bread costs two for one before the bell. The sister's hen lays only in the coal box.
+
+**Knowledge.**
+- Cael:
+  - Brom's name, Path and line;
+  - his first-bout loss;
+  - that his read is close-range;
+  - that he sees "something I've never seen before" and has no shelf for Cael;
+  - Brom's family "page" (to be put right; he left);
+  - the measured shape above.
+- Brom:
+  - Cael's method, including the pulse;
+  - the registry word *Assessed*;
+  - that the shin was kicked and Cael saw it.
+  - He knows nothing of fragments, the Log or notices.
+- Lira: everything about the plan except what Brom said in the alcove, which Cael tells her that evening.
+- Vell: her own delay, now in ink.
+- Coss: the unsigned line and Havel's entry under it. Nothing is written down.
+
+**Relationships.**
+- Cael and Brom: they speak; they have argued over bread; neither will talk about Tuesday.
+- Lira and Brom: she lent him her partner; "You're reading me bored."
+- Lira and Vell: the near-apology.
+- Lira and the heavyset man: he went down to watch her.
+- Keth: "Tell me what's in it. The middle."
+
+**Compact / watchers.** Coss read Havel's return and the file and did not query. His log has a second empty page. No contact with Cael. No new visit.
+
+**Open threads now.**
+- The bout: the window in the third exchange, below the knee, Pressure locked.
+- Lira's two confirming bouts.
+- What Vell wrote in her back cover ("That's mine").
+- Coss's second empty page; Havel's private note.
+- Keth's request.
+- The letter to Hesk, which arrives after Tuesday.
+- Whether Brom knows about the shin.
