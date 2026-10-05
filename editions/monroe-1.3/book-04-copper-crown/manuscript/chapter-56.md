@@ -244,7 +244,7 @@ The man nodded once, as if the frame were a line he had already entered somewher
 
 The eighth was about the ladder.
 
-"Your two friends fought on the house's ladder this season, and the registry hasn't looked at either of their certificates in two years. Did the brackets measure them?"
+"Your two friends fought on the house's ladder this season, and the registry hasn't looked at either of their certificates in years. Did the brackets measure them?"
 
 "No." Cael did not soften it. "The ladder sorts people by their paper. It was built for practitioners who'd be exactly what their certificates say on the morning they're seeded, and stay so till the season ends. My friends spent the whole year in a cage built for people who did not exist. One of them took the whole cage outright. That's how you know it was one."
 

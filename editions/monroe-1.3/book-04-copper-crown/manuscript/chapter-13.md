@@ -84,7 +84,7 @@ Twelve times. He called each one as it came, and in the gaps the room went on ma
 
 The Mire instructor was already out of her chair. At the frame she worked the release by hand four times, slowly, her ear bent close, and at the fourth her thumb stopped on the pawl and stayed.
 
-"Sticks at the second notch," she said. "Not every time. Once in five, near enough." She looked across at Gault with real annoyance. "It had its service in the spring. It shouldn't be doing this."
+"Sticks at the second notch," she said. "Not every time. Once in five, near enough." She looked across at Gault with real annoyance. "It had its service before term. It shouldn't be doing this."
 
 "Good for the rest of the morning?"
 

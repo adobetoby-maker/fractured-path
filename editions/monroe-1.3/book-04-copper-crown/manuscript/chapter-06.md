@@ -138,7 +138,7 @@ He kept the Crown yard back until the sixth morning on purpose, because he wante
 
 He went at dawn, when it was empty, and he did not go to the seats. He went down onto the floor.
 
-It was dressed stone, sixty feet by forty, laid so close that he could not get a fingernail into the joints. And it was sunk. The whole floor lay four feet below the ground around it, with three short flights of steps going down into it. The tiered seats did not rise from the floor's edge the way the benches at Greyvane had risen, but from the ground's edge, from above. He stood in the middle of the stone floor and turned slowly round, and on three sides the seats went up and back from a point above his head, row on row, pale and empty, and every one of them was looking down at him.
+It was oak on bearers, sixty feet by forty, laid so close that he could not get a fingernail into the joints. And it was sunk. The whole floor lay four feet below the ground around it, with three short flights of steps going down into it. The tiered seats did not rise from the floor's edge the way the benches at Greyvane had risen, but from the ground's edge, from above. He stood in the middle of the floor and turned slowly round, and on three sides the seats went up and back from a point above his head, row on row, pale and empty, and every one of them was looking down at him.
 
 That had been meant. Somebody had dug a hole and put the fighting at the bottom of it, so that a thousand people could sit above and look down on two. He stood at the bottom of it in the grey light and felt it on the back of his neck, the way he had felt the gaze of a full gallery at Greyvane, though there was nobody here at all.
 

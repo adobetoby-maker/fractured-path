@@ -198,7 +198,7 @@ She took her slate out of her satchel, the small one she used for sums she did n
 
 "Why?"
 
-"Because the provision isn't a door you walk through once." He had never put it like that before, and found that he liked it. "It's a door you have to walk through every term. Each time you have to be bigger than the time before, or it shuts. Gault took my baseline in the first month so that this term would have something to be measured against. If I stand in front of him on the twentieth exactly the size I was then, I haven't kept the terms."
+"Because the provision isn't a door you walk through once." He had never put it like that before, and found that he liked it. "It's a door you have to walk through every term. Each time you have to be bigger than the time before, or it shuts. Gault took my baseline in the second month so that this term would have something to be measured against. If I stand in front of him on the twentieth exactly the size I was then, I haven't kept the terms."
 
 Karis wrote *GROWTH* at the head of the first column.
 

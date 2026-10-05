@@ -52,7 +52,7 @@ It was a good way to fight. Against anybody who came straight at him, it was ver
 
 Lira came straight at him.
 
-She came fast and low with the Wind at her heels and her weight forward, exactly as she had come at Cael on cracked stone behind the residence wing all winter, and the Stone fourth-year set his feet. Cael felt it from the third tier as a kind of change in the air of the floor, like a door shutting somewhere in a big house. The anchor took. Lira hit the space in front of it, and his answering strike came off the planted feet with his shoulders behind it, and it took her on the upper arm and turned her half round.
+She came fast and low with the Wind at her heels and her weight forward, exactly as she had come at Cael on cracked stone behind the residence wing all term, and the Stone fourth-year set his feet. Cael felt it from the third tier as a kind of change in the air of the floor, like a door shutting somewhere in a big house. The anchor took. Lira hit the space in front of it, and his answering strike came off the planted feet with his shoulders behind it, and it took her on the upper arm and turned her half round.
 
 "Touch," said the instructor at the table, without looking up from the register. "Stone. One."
 
@@ -110,7 +110,7 @@ Lira read the books every evening. She had stopped saying anything about them af
 
 He waited.
 
-"That's what the woman at intake said, more or less. Three flags sent on and three answered since the spring before last. So that's how fast it goes." She did not look at him. "Three a year. I can count. I'm in a queue that moves three a year, and I don't know where in it I'm standing."
+"That's what the woman at intake said, more or less. Three flags sent on and three answered in two years. So that's how fast it goes." She did not look at him. "Three a year. I can count. I'm in a queue that moves three a year, and I don't know where in it I'm standing."
 
 "Three from her desk," said Cael. "In two years. That's one clerk's share. That's not the throughput of the queue."
 

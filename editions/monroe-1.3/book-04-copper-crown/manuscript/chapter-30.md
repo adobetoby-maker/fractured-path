@@ -104,7 +104,7 @@ Footsteps came along the top of the wall, uneven, a long step and a careful one.
 
 "Because the window can't tell you it's nothing."
 
-"Neither can you." She ate. The hip had let her walk on the third day, as he had guessed it would, and on the fourth she had stopped pretending it was not there. On the seventh she had been back in hall one at a third of her pace, running the sequence on the stone with a face like a locked door. The shoulder that had taken the edge of Fiske's last delivery had come up purple and gone green. She carried her satchel on the other side now and had not once mentioned why.
+"Neither can you." She ate. The hip had let her walk on the third day, as he had guessed it would, and this morning she had stopped pretending it was not there. By the week's end she meant to be back in hall one at a third of her pace, running the sequence on the stone with a face like a locked door. The shoulder that had taken the edge of Fiske's last delivery had come up purple. She carried her satchel on the other side now and had not once mentioned why.
 
 Below them the sound of a mallet started up from the far side of the second quadrangle, where Brom's post stood. It was too early for the post. Then a voice that was certainly Karis's said a number, and the mallet stopped.
 
@@ -118,7 +118,7 @@ Below them the sound of a mallet started up from the far side of the second quad
 
 Lira almost smiled. She looked down at the ferry landing, where the two new coats had settled under their lamp, and she was quiet for a time.
 
-"Top line," she said at last, as if trying the words for fit. "Ten days on the top line of the Copper standings. I keep going to the board to check it's still true."
+"Top line," she said at last, as if trying the words for fit. "Three days on the top line of the Copper standings. I keep going to the board to check it's still true."
 
 "It's still true."
 

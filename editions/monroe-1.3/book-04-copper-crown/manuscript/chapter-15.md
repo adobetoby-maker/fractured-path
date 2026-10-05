@@ -182,7 +182,7 @@ He began with the bluntest test he could devise, and expected little of it. At b
 
 Brom looked at him over a spoon.
 
-Long ago, at Ardenmere, Cael had worked out that Brom sorted his requests into two boxes. In one went the requests whose reason Cael would give at once. In the other went the requests whose reason would come later, when Cael had finished being sure. In three years Brom had never asked which box a thing belonged in, and Cael had never caught him putting anything in the wrong one.
+Long ago, at Ardenmere, Cael had worked out that Brom sorted his requests into two boxes. In one went the requests whose reason Cael would give at once. In the other went the requests whose reason would come later, when Cael had finished being sure. In two years Brom had never asked which box a thing belonged in, and Cael had never caught him putting anything in the wrong one.
 
 "All right," said Brom, and returned to his porridge.
 

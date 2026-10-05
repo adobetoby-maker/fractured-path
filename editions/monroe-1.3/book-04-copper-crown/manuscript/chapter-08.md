@@ -92,7 +92,7 @@ He did not say anything. At the table Lira had spent most of the afternoon not f
 
 Then he got up, without a word, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
 
-Nobody had told him to. In three years Cael had never once seen Brom fetch ice for himself without being nagged, and it said more than the tallies in the margin.
+Nobody had told him to. In two years Cael had never once seen Brom fetch ice for himself without being nagged, and it said more than the tallies in the margin.
 
 "Well?" said Lira.
 
@@ -192,7 +192,7 @@ Cael waited.
 
 "Have you told Rooke?"
 
-"Rooke told me." Brom laughed, one short breath. "Day three. Before Ephram had even found it. Told me over the water jugs." He hesitated, and then did something Cael had never seen him do in three years of roads and boarding houses and yards. He unwound his left wrap, a few turns, and held the inside of it toward the last of the light.
+"Rooke told me." Brom laughed, one short breath. "Day three. Before Ephram had even found it. Told me over the water jugs." He hesitated, and then did something Cael had never seen him do in two years of roads and boarding houses and yards. He unwound his left wrap, a few turns, and held the inside of it toward the last of the light.
 
 There was writing on it, in ink, in Brom's big careful hand, run round the inside of the cloth where it lay against the wrist.
 

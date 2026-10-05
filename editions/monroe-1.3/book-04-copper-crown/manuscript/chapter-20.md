@@ -202,4 +202,4 @@ The ink had been chosen. Brom had carried that sentence about for days before he
 
 This was nothing like that. This was four words in pencil, on the outside, written on the spot by a man with his head still ringing who did not trust himself to remember them as far as the gate.
 
-In three years Cael had seen Brom keep every sort of thing in every sort of way, in his hands and his feet and his tally book and the long patient memory of his body. Not once, until today, had Brom needed paper to hold a thing for him.
+In two years Cael had seen Brom keep every sort of thing in every sort of way, in his hands and his feet and his tally book and the long patient memory of his body. Not once, until today, had Brom needed paper to hold a thing for him.

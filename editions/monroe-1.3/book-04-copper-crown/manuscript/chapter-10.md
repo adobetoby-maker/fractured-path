@@ -8,7 +8,7 @@ It was generous. He understood that at once and was grateful for it. He could st
 
 The gaps in it were slower reading.
 
-He found the hole on the twenty-eighth day, back in Lira's first week on the ladder, when her line in the practice register still held only three wins. He was at the registrar's table on the rim of the Crown yard, where he had gone to read Lira's line in the practice register and had stayed to read everything else. The ladder book lay open beside the register. He read the Copper column through, every name, two hundred and nine of them in last season's order and the new ones at the foot. Then he turned the page and read the Iron column, a hundred and thirty-eight, and then the short Silver column on the last page, and then he turned back to the beginning and stood with his hand flat on the book.
+He found the hole on the twenty-eighth day, back in Lira's first week on the ladder, when her line in the practice register still held only three wins. He was at the registrar's table on the rim of the Crown yard, where he had gone to read Lira's line in the practice register and had stayed to read everything else. The ladder book lay open beside the register. He read the Copper column through, every name, last season's in their closing order and the new ones at the foot. Then he turned the page and read the Iron column, and then the short Silver column on the last page, and then he turned back to the beginning and stood with his hand flat on the book.
 
 The clerk with ink on his thumbs looked up from the practice register and saw him standing there.
 
@@ -26,7 +26,7 @@ The clerk with ink on his thumbs looked up from the practice register and saw hi
 
 "No," the clerk agreed sadly. "The margin never does."
 
-He had known his name would not be there. A ladder is fed by certificates, and no certificate anywhere carried a tier against his name for it to be fed. The porter wiping the boards had taught him that much. Knowing it and standing over four hundred and twelve names in a book with his hand on the page were different things.
+He had known his name would not be there. A ladder is fed by certificates, and no certificate anywhere carried a tier against his name for it to be fed. The porter wiping the boards had taught him that much. Knowing it and standing over a book of names with his hand on the page were different things.
 
 No line. No bracket, so no seed. No session pairings, no challenge windows, no slow climb of four rungs at a time. No crown, however well he fought and however many years he stayed. He could go down into the sunk floor tomorrow and put every practitioner on the bluff on the boards, one after another, with eleven hundred people watching, and not one stroke of chalk on any of the four walls would move. There was no place for it to move to.
 
@@ -40,7 +40,7 @@ At Greyvane he had made a discipline out of this, over a year, and called it a v
 
 *The vantage is real. It's better here than anywhere I've ever stood. These three halls teach twenty-two Paths. Half I'd charted before I came; the other half I've never been near. Lattice. Ash. Mire. Eight more I've had only from a gallery. Any one of them would have been a year's work at the Ironyard.*
 
-*Also true, and better on paper than not: today I read all four hundred and twelve names in the ladder book, slowly, and mine isn't there and won't ever be, and I minded.*
+*Also true, and better on paper than not: today I read every name in the ladder book, slowly, and mine isn't there and won't ever be, and I minded.*
 
 *Not the crown. I couldn't care less about the crown. What I want is the line: a row on a wall in somebody else's chalk, saying what I did from a season's first bell to its last, for anybody passing to read and argue with.*
 

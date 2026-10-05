@@ -156,7 +156,7 @@ The seventh time, he gave up aiming.
 
 He sat down on the upturned tub. He let his breath go down slow and low, as the read liked it, and put his hands flat on his knees as he had on the stair, and stopped trying. He thought about nothing in particular. He thought about the smell of the wash-house, soap and wet stone. He thought about Brom's knot.
 
-And something happened. Out at his edges, in the half-metre of air, there was a thinning, the same as the refectory queue. It came without being asked for and without any aim at all, the way a cat comes to sit by you only when you have stopped calling it.
+And something happened. Out at his edges, in the half-yard of air, there was a thinning, the same as the refectory queue. It came without being asked for and without any aim at all, the way a cat comes to sit by you only when you have stopped calling it.
 
 Brom's blind face turned, slowly, searching.
 

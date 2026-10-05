@@ -12,7 +12,7 @@ That was the thing he would remember afterward, because Prynn did not look up fo
 
 Karis was sitting very still with one finger on a page.
 
-The book in front of her was one of the founding compilations, a squat grey thing with boards gone soft at the corners. It had come back up the hill in the second cart, and Prynn had shelved it with her own hands three days before the term began. Karis had been working through its run since the first morning of the first week, and she had a method for it that Cael had watched long enough to know by heart. She read the table of contents, then the index, then every page in order from the first, and she copied out anything at all that used the old language, the language from before the schedule had a name for everybody, into the notebook with the brown ink.
+The book in front of her was one of the founding compilations, a squat grey thing with boards gone soft at the corners. It had come back up the hill in the second cart, and Prynn had shelved it with her own hands in the last week of the winter term. Karis had been working through its run since the first morning of the first week, and she had a method for it that Cael had watched long enough to know by heart. She read the table of contents, then the index, then every page in order from the first, and she copied out anything at all that used the old language, the language from before the schedule had a name for everybody, into the notebook with the brown ink.
 
 She was not copying now.
 
@@ -36,7 +36,7 @@ He knew better than to push, having learned the shape of Karis's *not yet* acros
 
 Down the room, Prynn lowered her pen and wrote something in the ledger. Cael would have given a good deal to know what.
 
-He let his eyes go past her, down the long aisle between the cases, to the second-to-last case against the old wall. The traveller registers stood in their run on the third shelf, crosshatched spines in a row, and between two of them was the space the width of one volume. Nobody had closed it in the three weeks since. Nobody, he was sure now, ever would while Prynn was alive to stop them.
+He let his eyes go past her, down the long aisle between the cases, to the second-to-last case against the old wall. The traveller registers stood in their run on the third shelf, crosshatched spines in a row, and between two of them was the space the width of one volume. Nobody had closed it in the months since. Nobody, he was sure now, ever would while Prynn was alive to stop them.
 
 He did not know what Karis had just found. He did know, sitting at the long table with an unwritten letter under his hand, that the room had changed temperature, and that Prynn had felt it before he had. In two years of watching people for a living he had grown used to being the first in any room to notice a thing, and it was a strange, not unpleasant feeling to have been beaten to it by an old woman who never left her desk.
 
@@ -110,7 +110,7 @@ He counted what he carried the way he had counted it at the end of last term, at
 
 Five fragments, and every one of them came with a price.
 
-The Wind-adjacent came first, Lira's, the one his feet reached for before he had chosen anything at all. He held half a breath at the front of every burst, and at the back of it he paid the landing beat: the locked half-breath when he could not change direction, which he had never once in two years been able to shorten. The landing came home through both heels and up the leading hip, and on stone the hip would take three bursts in an evening and say nothing. The fourth came due the next morning as a bright line from the crest of the hip down the inside of the thigh to the knee, and he had learned to believe that line the way he believed a ledger.
+The Wind-adjacent came first, Lira's, the one his feet reached for before he had chosen anything at all. He held half a breath at the front of every burst, and at the back of it he paid the landing beat: the locked half-breath when he could not change direction, which he had never once in three years been able to shorten. The landing came home through both heels and up the leading hip, and on stone the hip would take three bursts in an evening and say nothing. The fourth came due the next morning as a bright line from the crest of the hip down the inside of the thigh to the knee, and he had learned to believe that line the way he believed a ledger.
 
 Then came the Pressure-adjacent, which he did not use. After it came the Iron-adjacent read, Brom's, which laid mass and direction on the skin of his forearms a pace and a half out and never once told him what anybody meant to do, and the Compression-adjacent, which took a push and sent it down through his bones into the floor. Last and newest was the Ember-adjacent, which let go of fire at a single point and cost him the same whatever size he asked for.
 

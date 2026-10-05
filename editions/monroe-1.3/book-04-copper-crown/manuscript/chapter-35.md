@@ -112,7 +112,7 @@ On both mornings he went out to the coping at first light, and on both mornings 
 
 Under all of it, all the time, was the sixth fragment.
 
-It sat out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek; but nobody had said he could touch it, and he did not mean to learn what touching it cost before Karis had her numbers.
+It sat out at the edge of him, in the half-yard of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek; but nobody had said he could touch it, and he did not mean to learn what touching it cost before Karis had her numbers.
 
 On the third day she had them, in the wash-house, with the same rule and the same lamp and the three sandbags hanging in their row. Rule caught at eight and three-quarter inches, a hair slower than before. Breath at rest, fifteen. Middle bag: guessed ten, got eleven. The read at the post with Brom feeding, twelve of twelve, though the last two came a shade late, which Brom swore to and Cael felt. Ember, by his own account, as it had been.
 

@@ -50,7 +50,7 @@ Seln answered with his one sound, "Mm," and was back at the copying table with t
 
 That was all. Every week it went so, by design.
 
-On the wall beside Gault's door, where the wing pinned its notices, a new sheet had gone up that morning. It was headed *Assessment office: recess counter*, and under the heading ran the working days of the recess in a column, and beside every day in the column, in the same small cramped hand, stood the same name. *S. Seln.* Not one day had been given to anybody else.
+On the wall beside Gault's door, where the wing pinned its notices, a new sheet had gone up that morning. It was headed *Assessment office: recess counter*, and under the heading ran the working days of the recess in a column, and beside every day in the column, in the same round copying hand, stood the same name. *S. Seln.* Not one day had been given to anybody else.
 
 Cael read it the way he read every notice, all the way down and back up, and let nothing reach his face. A wing with no students on its floors would need its allocations made all the same, for the cohorts coming back and the sittings already booked, and somebody would have to sit at the counter through the empty weeks and make them. Nobody on the bluff would find anything to remark in it. Of all the notices on that wall it was the dullest.
 

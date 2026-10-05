@@ -172,7 +172,7 @@ Now he tucked the pages under his arm and inclined his head to the officer, who 
 
 He built the man in a posting-house room in Ostrand over four evenings, with the rain on the shutters and the barge horns calling to each other down on the river.
 
-The hand came first, because in any building a hand outlasted the man who wrote it. Six were at his command, each sure enough to write half asleep. On the back of the ferry tally he tried them all and settled on the fourth, a small, upright, slightly cramped script, the kind a country copying-house teaches a boy and never tells him he could improve. It looked slow and was perfectly legible. Nobody, anywhere he had used it, had ever commented on it. That was all it was good for, and it was enough.
+The hand came first, because in any building a hand outlasted the man who wrote it. Four were at his command, each sure enough to write half asleep. On the back of the ferry tally he tried them all and settled on the first, a round clerk's script, the kind a country copying-house teaches a boy and never tells him he could improve. It looked slow and was perfectly legible. Nobody, anywhere he had used it, had ever commented on it. That was all it was good for, and it was enough.
 
 The voice he tried on the posting-house boy who brought his supper. He set it a hundred-odd miles north of the river and let it be ten years behind the times there, so the vowels belonged to a town that no longer quite spoke that way.
 
@@ -184,7 +184,7 @@ The voice he tried on the posting-house boy who brought his supper. He set it a 
 
 The coat he chose a grade below what the post would warrant. An assistant who dressed to his station looked like a man going somewhere, and people watched a man going somewhere to see where he went. Then there was the small failing. He had carried it from posting to posting and never known it to let him down. In his first week in the office he would get a sum wrong in his head, an easy one, in front of somebody, and let himself be put right. After that the office would know something about him, and would be proud of having found it out without help, and the shelf where a real opinion might have grown would already be occupied.
 
-On the fourth evening he wrote out his residence card on the form the mid-tier academies used. *Path: Shadow. Tier: Bronze.* He wrote both in the fourth hand. Both were so. Cleverer officers than he had burned through their covers by making up facts and then having to keep them straight.
+On the fourth evening he wrote out his residence card on the form the mid-tier academies used. *Path: Shadow. Tier: Bronze.* He wrote both in the round hand. Both were so. Cleverer officers than he had burned through their covers by making up facts and then having to keep them straight.
 
 Then he packed.
 

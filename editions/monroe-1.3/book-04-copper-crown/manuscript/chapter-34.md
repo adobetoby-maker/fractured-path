@@ -6,9 +6,9 @@ For a while he lay without moving and took stock, as he always did before anythi
 
 Then he got up, and lit the lamp, and took the minute out of the back board of the Log and read rule two, slowly, aloud, under his breath.
 
-*A directed acquisition is permitted only within earnest engagement which Seln himself begins, close, in the ordinary course of his assignment; awake and directed.*
+*A directed acquisition permitted only within earnest engagement the subject begins himself, close, in the ordinary course of his assignment; any reach to be awake and directed.*
 
-Four people had fought over every word of that, round the common room table, with the door locked. *Earnest*: somebody spending something real, meaning it, against something. *Which Seln himself begins*: not a thing Cael started, or nudged, or arranged to be in the room for. *Close*. *In the ordinary course of his assignment*: in the man's own work, on a night he would have been working whether or not a boy sat on a stair. *Awake and directed*: not an accident. Not something that happened to him while he was looking the other way.
+Four people had fought over every word of that, round the common room table, with the door locked. *Earnest*: somebody spending something real, meaning it, against something. *The subject begins himself*: not a thing Cael started, or nudged, or arranged to be in the room for. *Close*. *In the ordinary course of his assignment*: in the man's own work, on a night he would have been working whether or not a boy sat on a stair. *Awake and directed*: not an accident. Not something that happened to him while he was looking the other way.
 
 He read it twice, and then he turned to the page headed *READ FIRST* in his own pencil capitals, and read that as well. He made himself read it to the end, and the sentence about the kinder name.
 
@@ -132,7 +132,7 @@ When the sound came back, the man on the step had a different set to his shoulde
 
 Then it settled.
 
-Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-metre or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. For one long moment that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The intruder's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
+Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-yard or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. For one long moment that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The intruder's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
 
 Then it let go, all at once, like a held breath. Cold stone under him. His heart going like a drum. Both hands trembling where they lay. Then the notice.
 
@@ -197,7 +197,7 @@ At the end of the courtyard, where the covered walk began, he looked back once, 
 
 He wrote it against the wall of the covered walk under its one night lamp, standing, with the notebook flat on the stone. It had to go down tonight. By morning he would have been kinder to himself.
 
-*First try: total. Nothing, twice. Then the pain behind the eyes, at about what the read charges for six breaths at full stretch. Then the one man on this bluff paid to look into corners looked into mine, and asked how I was. In three months nobody on the fire-watch has so much as looked at me.*
+*First try: total. Nothing, twice. Then the pain behind the eyes, at about what the read charges for six breaths at full stretch. Then the one man on this bluff paid to look into corners looked into mine, and asked how I was. In five months nobody on the fire-watch has so much as looked at me.*
 
 *I aimed it. I felt myself aim. Brom told me the first week I had the read that it would never come if I went hunting for it. I took that as a fact about the read. Tonight says it was a fact about me.*
 

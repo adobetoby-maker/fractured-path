@@ -120,7 +120,7 @@ The clerk read the flag through. She gave it a single nod, wrote two words besid
 
 Lira said something he could not hear.
 
-"It moves," said the clerk. "Not fast. I've sent three on from this desk since the spring before last and had three answers back, so it isn't a hole in the floor. Until it comes back, you're placed by your formal standing." She turned a page. "Copper."
+"It moves," said the clerk. "Not fast. I've sent three on from this desk in two years and had three answers back, so it isn't a hole in the floor. Until it comes back, you're placed by your formal standing." She turned a page. "Copper."
 
 He watched Lira's jaw set.
 
@@ -252,7 +252,7 @@ Lira tore off a piece of Brom's bread without asking.
 
 Nobody answered. Nobody needed to.
 
-"Two terms of putting Iron-equivalents on the floor. An academy's seal on a flag. A queue that's answered that woman three times since the spring before last." She ate the bread. "And they read the number on my certificate, and they stop reading. They always have."
+"Two terms of putting Iron-equivalents on the floor. An academy's seal on a flag. A queue that's answered that woman three times in two years." She ate the bread. "And they read the number on my certificate, and they stop reading. They always have."
 
 "The flag transfers," said Brom, carefully.
 

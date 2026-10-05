@@ -174,7 +174,7 @@ The east tier he left alone, by rule. There was a boy somewhere over there whose
 
 He looked at the north door instead, where the girl would come out.
 
-He knew her only from paper, and from corridors. On paper she was Wind, Copper, Rank Two, on a certificate two years old that nobody had looked at since.
+He knew her only from paper, and from corridors. On paper she was Wind, Copper, Rank Two, on a certificate three years old that nobody had looked at since.
 
 In the corridors this week she had been a girl walking very carefully on a bad leg and refusing, with her whole body, to be seen doing it. He had stepped aside for her once in the covered walk. She had thanked him the way you thank a door.
 

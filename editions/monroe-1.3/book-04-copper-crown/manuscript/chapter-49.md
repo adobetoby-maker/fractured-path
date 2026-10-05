@@ -192,7 +192,7 @@ Gault had sat through the whole of the morning at the door end of the table with
 
 Gault gave her one paragraph. There was no warmth in it and no hesitation, and Cael realised as it went on that he had never heard Gault say so many words together in his life.
 
-"What the clause wants for an assay-provision enrollee is a demonstration, in front of a panel of this house, measured against a standard this house fixes and keeps on paper. My wing fixed the standard at this enrollee's baseline, in his first month, and posted it on the board in the same week. The apparatus has been calibrated since then on a posted schedule, by a keeper who initials a card for every check, and the card hangs on my wall. On the twentieth we'll lay him against that standard, in the order it sets out, whether or not anyone from this delegation is in the room to watch. The clause doesn't hand me a standard. It tells me to set one, to apply it, and to write it down."
+"What the clause wants for an assay-provision enrollee is a demonstration, in front of a panel of this house, measured against a standard this house fixes and keeps on paper. My wing fixed the standard at this enrollee's baseline, in his second month, and posted it on the board in the same week. The apparatus has been calibrated since then on a posted schedule, by a keeper who initials a card for every check, and the card hangs on my wall. On the twentieth we'll lay him against that standard, in the order it sets out, whether or not anyone from this delegation is in the room to watch. The clause doesn't hand me a standard. It tells me to set one, to apply it, and to write it down."
 
 He stopped, the way a man stops at the end of a column. Then, in exactly the same voice, he added one more line.
 

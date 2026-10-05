@@ -110,7 +110,7 @@ Lira was sitting on the desk with her boots on the chair. She had gone very stil
 
 "How do they pick the side?" she said.
 
-"Off the ladder. It's in the appendix to the charter, two floors down. I read it on Tuesday." Karis pulled the folded blanket off the chair, sat, and drew it round her shoulders, because the law range had no stove and it was cold at the top of the building. "Now look at the second sheet. Six years ago."
+"Off the ladder. It's in the appendix to the charter, two floors down. I read it two days ago." Karis pulled the folded blanket off the chair, sat, and drew it round her shoulders, because the law range had no stove and it was cold at the top of the building. "Now look at the second sheet. Six years ago."
 
 The last line of the second appeal asked for gifts *toward the instruments by which a school is known.*
 

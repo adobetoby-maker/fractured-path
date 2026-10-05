@@ -48,7 +48,7 @@ She read it once, and looked at him over the top of it for a long moment without
 
 The fifteenth letter came in week seventeen, and it had no questions in it.
 
-By then there were a great many letters, because Bracken did not wait for one answer before he wrote the next: he wrote by every coach, sometimes two letters in one packet, numbered on the outside so that Karis would read them in the order he had written them and not the order the post delivered them. Karis kept them in a bundle tied with grey string, which she had cut from the end of one of the delegation's boxes when they came back in the autumn and had been saving for something worth tying. The bundle was as thick as two fingers now.
+By then there were a great many letters, because Bracken did not wait for one answer before he wrote the next: he wrote by every coach, sometimes two letters in one packet, numbered on the outside so that Karis would read them in the order he had written them and not the order the post delivered them. Karis kept them in a bundle tied with grey string, which she had cut from the end of one of the delegation's boxes when they came back at the end of the winter term and had been saving for something worth tying. The bundle was as thick as two fingers now.
 
 The fifteenth was the thickest letter yet. Karis opened it at the long table after supper, with Lira on the bench by the door and Brom at the end of the table with his pocket book, and Cael across from her waiting to be handed his part. She read the first page. She turned to the second. She read that too, and the third, and then she went back to the first and read the whole thing again, much more slowly, with her finger moving down the margin.
 

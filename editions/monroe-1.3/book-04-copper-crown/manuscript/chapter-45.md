@@ -2,7 +2,7 @@
 
 On the thirteenth of Reaping, before he lit the lamp, Cael did nothing at all, and he did it on purpose.
 
-He lay on his back in the dark with the blanket to his chin and found the half-metre of air round his own body, and he gave one small hard corner of his attention to it and told it to stay there, as a man sets a stake in a field before he lets the horses out. Only when it was settled did he let the rest of him wake up and start thinking about the day. Below the window a barge on the river gave two short notes, *heard you*, and somebody on the far bank answered it.
+He lay on his back in the dark with the blanket to his chin and found the half-yard of air round his own body, and he gave one small hard corner of his attention to it and told it to stay there, as a man sets a stake in a field before he lets the horses out. Only when it was settled did he let the rest of him wake up and start thinking about the day. Below the window a barge on the river gave two short notes, *heard you*, and somebody on the far bank answered it.
 
 The ache came up behind his eyes as he sat, the dull one, the rent the sixth fragment charged for its idle state. It was cheap in the mornings. By evening it would have corners.
 

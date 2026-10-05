@@ -84,9 +84,9 @@ The read gave him nothing.
 
 It did not give him a little; it was not thin, the way it went thin at the edge of its pace and a half, or uncertain, the way it went uncertain when two weights arrived at once and he had to choose between them. It gave him exactly what it gave him standing alone in an empty corridor at night. Quiet. The ordinary quiet of his own forearms with nothing near them.
 
-A thing had been built eighteen inches from his skin that could have shut off two of his ways out, and the instrument he had trusted for three years above his own eyes had not stirred.
+A thing had been built eighteen inches from his skin that could have shut off two of his ways out, and the instrument he had trusted for two years above his own eyes had not stirred.
 
-He stood very still on his place on the stone, as he had been told, and found his mouth had gone dry. It was not fear of the frame. The frame was a lesson, built at quarter speed by a girl who did not care whether he lived or died, and it would go when she let it go. It was something colder and slower than fear, rising from underneath, the feeling of a man who has walked the same path in the dark every night for three years and has just been shown, by daylight, a well at the side of it that he never knew was there.
+He stood very still on his place on the stone, as he had been told, and found his mouth had gone dry. It was not fear of the frame. The frame was a lesson, built at quarter speed by a girl who did not care whether he lived or died, and it would go when she let it go. It was something colder and slower than fear, rising from underneath, the feeling of a man who has walked the same path in the dark every night for two years and has just been shown, by daylight, a well at the side of it that he never knew was there.
 
 ---
 
@@ -152,7 +152,7 @@ He wrote it that night at the desk by the window, and he put the frightening par
 
 He pressed harder than he needed to on the next part.
 
-*When a tool breaks with a noise, you learn where its edges are and keep your hands off them. When it breaks without one, it isn't broken. It's lying, and it lies in the same calm voice it uses for the truth. I've leaned on this one in the dark, in crowds, with my back to doors, for three years. Today it went blind to an entire Path and stayed perfectly calm about it.*
+*When a tool breaks with a noise, you learn where its edges are and keep your hands off them. When it breaks without one, it isn't broken. It's lying, and it lies in the same calm voice it uses for the truth. I've leaned on this one in the dark, in crowds, with my back to doors, for two years. Today it went blind to an entire Path and stayed perfectly calm about it.*
 
 *Nine people on this bluff build frames. And this hill teaches eleven Paths I've never been close to. Some of them it can't see. I won't know which until I'm beside them, and perhaps not even then, unless somebody tells me something's there.*
 
@@ -172,7 +172,7 @@ Then he did something he had done perhaps four times since Denvash, each time fo
 
 Sleep was a long time coming.
 
-He lay in the dark and went back, as he had not been able to stop himself going back, through every time in three years the read had been quiet and he had taken the quiet as clear. The back stair at the boarding house in Ardenmere, which he had climbed a hundred nights without a lamp because his forearms told him it was empty. The corridor outside the archive at Greyvane, the evening the Compact's officer had walked its length with his cases. The yard behind the residence wing, in the dark before the first bell, where he had turned and turned on frozen stone with his back to the gate. He had trusted all three silences, and every one of them, as it happened, had been empty. But he had not known it. He had only felt nothing, and called the nothing knowledge, and gone on.
+He lay in the dark and went back, as he had not been able to stop himself going back, through every time in two years the read had been quiet and he had taken the quiet as clear. The back stair at the boarding house in Ardenmere, which he had climbed a hundred nights without a lamp because his forearms told him it was empty. The corridor outside the archive at Greyvane, the evening the Compact's officer had walked its length with his cases. The yard behind the residence wing, in the dark before the first bell, where he had turned and turned on frozen stone with his back to the gate. He had trusted all three silences, and every one of them, as it happened, had been empty. But he had not known it. He had only felt nothing, and called the nothing knowledge, and gone on.
 
 He thought, too, of the eleven supervisors and their eleven careful silences. That quiet, too, he had come close to filing as an answer. It was not one. A silence that had been arranged was not the same thing as a room with nobody in it, and he had been very close to forgetting the difference.
 
@@ -192,7 +192,7 @@ At the far end, where an old hitching post stood up out of the turf, Brom was tu
 
 "I'm writing it down," said Cael.
 
-Cael had taken his turn at the feeds before supper and had found it harder than he expected. To sell Brom an empty strike he had to mean it nearly all the way, with his weight and his breath and his eyes, and then take it back; and Brom, who had known him three years, believed every one, because Cael had never once in three years lied to him on a floor. It had felt very strange to do it on purpose. Brom had not minded at all; *again*, he had said, every time, beaming. *That one got me properly.*
+Cael had taken his turn at the feeds before supper and had found it harder than he expected. To sell Brom an empty strike he had to mean it nearly all the way, with his weight and his breath and his eyes, and then take it back; and Brom, who had known him two years, believed every one, because Cael had never once in two years lied to him on a floor. It had felt very strange to do it on purpose. Brom had not minded at all; *again*, he had said, every time, beaming. *That one got me properly.*
 
 Along the flat top of the wall Karis had laid out four documents from carrel eleven to catch the evening light, with a smooth stone on each corner against the river wind. She was reading the third, very slowly, with her finger on the line. Now and then a single word left her, addressed to nobody, and went into the margin.
 
@@ -212,7 +212,7 @@ Brom came away from the post and listened with his wraps hanging loose from his 
 
 "I don't know. I've never seen yours near a Lattice."
 
-"Nor have I." Brom considered his forearm with deep suspicion, as if it had been keeping something from him. "Three years I've been telling you it's the best thing I own." He wound the wrap back up. "I'll ask Rooke. He'll know. He knows everything and tells you a quarter of it."
+"Nor have I." Brom considered his forearm with deep suspicion, as if it had been keeping something from him. "Two years I've been telling you it's the best thing I own." He wound the wrap back up. "I'll ask Rooke. He'll know. He knows everything and tells you a quarter of it."
 
 "Ask him what he does about it," said Cael.
 

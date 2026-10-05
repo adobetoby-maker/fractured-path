@@ -24,11 +24,11 @@ The tenth he lost. The press reached him smeared, a little early and then a litt
 
 Gault wrote, and the last two came clean.
 
-"Eleven of twelve at the fourth weight," said Gault, "against seven of eight at the third in your first month." For a while his eyes went between the two columns. "Better. Not much better. As a term should be."
+"Eleven of twelve at the fourth weight," said Gault, "against seven of eight at the third in your second month." For a while his eyes went between the two columns. "Better. Not much better. As a term should be."
 
 Chest heaving in the chalk, Cael felt a thing his ledger had no column for: relief, so plain it was nearly comic. *On the number.* Weight four, clear eleven times in twelve, with his best instrument turned down to almost nothing: it was inside Karis's brackets, a call above the floor of them, which was exactly where a term should put it.
 
-In the gap after, while the panel conferred, he chose the Mire instructor, who was easier than the clerk and more interesting. Rhythm: quick and impatient, the rhythm of a woman who did a thing and was done with it. Weight: forward, always forward, the shoulders inside her coat leaning toward the frame like a dog's toward a door it doesn't trust. Breath: short. Hands: in the pockets again, but the right one moving inside the cloth, working something over and over, a coin perhaps, or a key. Did it agree? It did. All of her was pointed at her apparatus, and it was the apparatus that worried her, not the boy; she had not forgotten a sticking notch from the first month. Throughout, the corner kept its place with hardly a thought from him.
+In the gap after, while the panel conferred, he chose the Mire instructor, who was easier than the clerk and more interesting. Rhythm: quick and impatient, the rhythm of a woman who did a thing and was done with it. Weight: forward, always forward, the shoulders inside her coat leaning toward the frame like a dog's toward a door it doesn't trust. Breath: short. Hands: in the pockets again, but the right one moving inside the cloth, working something over and over, a coin perhaps, or a key. Did it agree? It did. All of her was pointed at her apparatus, and it was the apparatus that worried her, not the boy; she had not forgotten a sticking notch from the second month. Throughout, the corner kept its place with hardly a thought from him.
 
 Then came the trial in which nothing at all was allowed to happen.
 
@@ -50,15 +50,15 @@ His brace was the plain one: wide feet, the plate out on an arm loaded from the 
 
 "Held," said the clerk. "Low."
 
-Four times. After the fourth his right forearm was numb as far as its middle. An ache like a struck bell had lodged deep in the shoulder, in the very spot the first month had chosen, and it would keep him company until the week's end as it had then.
+Four times. After the fourth his right forearm was numb as far as its middle. An ache like a struck bell had lodged deep in the shoulder, in the very spot the baseline had chosen, and it would keep him company until the week's end as it had then.
 
 "Your account," said Gault.
 
-"Four, Magister, as in my first month. A fifth would be the shoulder's business, not mine." He opened and shut the hand where the whole row could see it and shook the arm out from the shoulder and let it hang. "It doesn't go anywhere. The joint keeps it."
+"Four, Magister, as in my second month. A fifth would be the shoulder's business, not mine." He opened and shut the hand where the whole row could see it and shook the arm out from the shoulder and let it hang. "It doesn't go anywhere. The joint keeps it."
 
 Every word was true, and all the words together made a coat cut to look like the whole man, with a good deal of the man left at home, and he knew it while he spoke and kept his face still.
 
-Two sheets went down side by side under Gault's hands, the first month's plate and this morning's, and his eyes went from one to the other. Line for line they matched, with not a graduation between them.
+Two sheets went down side by side under Gault's hands, the baseline's plate and this morning's, and his eyes went from one to the other. Line for line they matched, with not a graduation between them.
 
 "Fourth trial," he said for the book. "Unchanged since the baseline. Low both times. Four both times. The method as it was."
 
@@ -82,9 +82,9 @@ The fifth trial was new, so it was the one he had feared most, and he had feared
 
 "The heaviest weight," said Gault. "The square brought in. Leave before it lands."
 
-In the first month this weight had been too near and too heavy to escape, and they had made him stand under it with the plate. Now the clerk chalked a square only a pace and a half out from the rail, and along its landing side he laid the long shallow tray of chalk dust and drew a ruler across it to smooth it flat. The wing read that tray standing, at once, before the enrollee had stepped out of it, so that nobody's memory could tidy up what the dust said, and so the clerk took his place at the tray's far end with his ledger open along his forearm, near enough to read a heel.
+At the baseline this weight had been too near and too heavy to escape, and they had made him stand under it with the plate. Now the clerk chalked a square only a pace and a half out from the rail, and along its landing side he laid the long shallow tray of chalk dust and drew a ruler across it to smooth it flat. The wing read that tray standing, at once, before the enrollee had stepped out of it, so that nobody's memory could tidy up what the dust said, and so the clerk took his place at the tray's far end with his ledger open along his forearm, near enough to read a heel.
 
-Before she hung the weight, the Mire instructor tested the release. She worked it four times, slowly, with her head turned to listen, as she had in the first month when she had found the second notch catching, and four times it let go clean; she grunted, hung the fifth weight, and went back to her chair.
+Before she hung the weight, the Mire instructor tested the release. She worked it four times, slowly, with her head turned to listen, as she had at the baseline when she had found the second notch catching, and four times it let go clean; she grunted, hung the fifth weight, and went back to her chair.
 
 The drum went round.
 
@@ -168,7 +168,7 @@ He spoke before anybody could ask him.
 
 Gault looked at the tray, where the last two heel-prints lay a little deeper in the dust and a little shorter than the rest. "The dust agrees," he said. "Logged."
 
-Last came the cold run: the board, then the read off the reserve frame, to measure what three hours had taken out of him. The board came back a palm short of his best, every landing beat a hair longer, and he did not hide the hip in any of them; even so, it gave up less than the cold runs had given up in the first month. The read called twelve of twelve. It had never lost anything in its life, and of everything he owned it cost least and spoke softest, which was both its virtue and its fence.
+Last came the cold run: the board, then the read off the reserve frame, to measure what three hours had taken out of him. The board came back a palm short of his best, every landing beat a hair longer, and he did not hide the hip in any of them; even so, it gave up less than the cold runs had given up at the baseline. The read called twelve of twelve. It had never lost anything in its life, and of everything he owned it cost least and spoke softest, which was both its virtue and its fence.
 
 Gault bent to his papers. By the clerk's count it took four and a half minutes. The pendulum ticked, the funnel dripped, eight people kept silent, and Cael stood on the brass with nothing left to do in the world but mind his corner.
 
@@ -206,7 +206,7 @@ The clerk reached up and began winding down the pendulum.
 
 Cael was at the door when the Mire instructor caught him up. She had her coat buttoned to the throat and a face that had not yet decided to forgive anybody.
 
-"That notch," she said, without any greeting. "I found it sticking in your first month. You'll remember. It went for service the same week, with a slip in the housing, and it came back with the slip signed and the work done, and I've tried it every sitting since and it's let go clean every time." She jerked her chin back toward the frame. "It was not neglected. I want you to know that, because you're the one who'd have been under it. Something in it has worn in a way the service didn't find, and I'll know by tonight what, and so will the man who makes them."
+"That notch," she said, without any greeting. "I found it sticking in your second month. You'll remember. It went for service the same week, with a slip in the housing, and it came back with the slip signed and the work done, and I've tried it every sitting since and it's let go clean every time." She jerked her chin back toward the frame. "It was not neglected. I want you to know that, because you're the one who'd have been under it. Something in it has worn in a way the service didn't find, and I'll know by tonight what, and so will the man who makes them."
 
 "Thank you, Magister."
 

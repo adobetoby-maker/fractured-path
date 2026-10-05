@@ -70,7 +70,7 @@ Cael was silent a good while.
 
 "You've known for days."
 
-"Since Tuesday." Lira stood up and stretched until her shoulders cracked. "If I'd said it on Tuesday you'd have spent four days finding what was wrong with it, and then argued it out with yourself in front of Gault, halfway through a trial." She paused at the door. "And don't go writing this down as me managing you. That's how you work. I've had three years to learn it."
+"Four days." Lira stood up and stretched until her shoulders cracked. "If I'd said it then you'd have spent the four days finding what was wrong with it, and then argued it out with yourself in front of Gault, halfway through a trial." She paused at the door. "And don't go writing this down as me managing you. That's how you work. I've had three years to learn it."
 
 ---
 

@@ -42,7 +42,7 @@ On paper it was a Path like any other, a line in a register, a tier and a rank a
 
 Ilsev had seen it happen twice now, and both times her eye had gone to the empty place a moment after the girl had left it, like a reader whose finger has slipped a line. She did not much enjoy the feeling. She suspected it was the whole point.
 
-It occurred to her that a registry clerk, two years ago, had written this girl down in about the time it took to read a short page, and that nobody had read the page again since.
+It occurred to her that a registry clerk, three years ago, had written this girl down in about the time it took to read a short page, and that nobody had read the page again since.
 
 She marked the thought and went no further with it. It was not a finding. It was an observation about a form, and forms were her trade, and the form was not in front of her.
 
@@ -298,7 +298,7 @@ First the house making the request, and its office. Then the request itself: tha
 
 Then the ground, in the form's printed words, *advancement demonstrated, inconsistent with tier of record*. Then what stood behind it, in Gault's hand. The season, certified; the final, before a witnessed panel; and the panel's own account of what it had seen, attached.
 
-Last, the station where the evaluation was sought, and the date of the girl's last classification. It was two years old.
+Last, the station where the evaluation was sought, and the date of the girl's last classification. It was three years old.
 
 She kept her case closed and both hands flat on it, and listened to the end.
 

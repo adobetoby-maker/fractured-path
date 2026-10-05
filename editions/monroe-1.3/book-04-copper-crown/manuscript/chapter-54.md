@@ -74,9 +74,9 @@ He went in. At the wing's inner door he looked back, and she was still there und
 
 The room reached him through his ears first.
 
-The pendulum was going in its glass case with its dry, patient tick, and somewhere behind the louvres of the shutter-board the drum was being wound with the sound of a thumbnail drawn slowly down a comb. At the far end of the north wall the brass funnel dripped into its cup. He had stood in this room for a whole morning in his first month, and his body knew every one of those sounds before he was through the door. For a moment it was like coming home to a house in which somebody has moved the furniture.
+The pendulum was going in its glass case with its dry, patient tick, and somewhere behind the louvres of the shutter-board the drum was being wound with the sound of a thumbnail drawn slowly down a comb. At the far end of the north wall the brass funnel dripped into its cup. He had stood in this room for a whole morning in his second month, and his body knew every one of those sounds before he was through the door. For a moment it was like coming home to a house in which somebody has moved the furniture.
 
-Only four chairs had moved. They stood in a row along the east wall, where in the first month there had been bare plaster, set out by Bracken himself at a guest's distance from one another, and there were people in them.
+Only four chairs had moved. They stood in a row along the east wall, where at the baseline there had been bare plaster, set out by Bracken himself at a guest's distance from one another, and there were people in them.
 
 The delegation's counsel had the nearest, and she was untying the ribbon of a second folder with her teeth because both her hands were full of the first. Next to her Ilsev was sharpening a pencil with a small knife, carefully, into a fold of paper on her knee, so as to leave no shavings on the wing's floor. Beyond Ilsev, Havel was writing the date at the head of a ruled sheet on a board across his knees, with the bound file under the board. As Cael came in he looked up for about four-tenths of a second, level and without expression, and then down again to finish his date.
 
@@ -90,7 +90,7 @@ Between door and crossing lay thirty feet of oak, and by the end of them Cael ha
 
 He put the thought away where it would not trip him, stepped onto the brass crossing, set his feet, and stood.
 
-Under the south wall the panel had arranged itself exactly as in the first month. Heavy and still, Gault held the middle behind a squared sheaf. To his right the Ash instructor clasped her book flat to her chest. To his left the Mire instructor kept her coat on and her fists deep in its pockets. A little apart, at his sloped desk, the clerk had his ledger open and his three pens in their row.
+Under the south wall the panel had arranged itself exactly as at the baseline. Heavy and still, Gault held the middle behind a squared sheaf. To his right the Ash instructor clasped her book flat to her chest. To his left the Mire instructor kept her coat on and her fists deep in its pockets. A little apart, at his sloped desk, the clerk had his ledger open and his three pens in their row.
 
 Gault stayed in his chair, as he had at the baseline. Cael found that steadying beyond anything else in the room, because it meant nothing about the place had been changed for its visitors.
 
@@ -98,7 +98,7 @@ Gault stayed in his chair, as he had at the baseline. Cael found that steadying 
 
 In the near chair the counsel, her ribbon finally undone, gave a small nod.
 
-"Enrollee. You've stood on this oak before and you know my three rules." Gault gave them flatly, as he would read off a dial. "Say so when you cannot. Give me the same thing twice before you give me your best once. And you are measured against the line you drew here yourself in your first month, and against nothing else: not against hopes, not against anything printed, not against talk." He looked up. "Show me a marvel and I shall have to wonder what I missed."
+"Enrollee. You've stood on this oak before and you know my three rules." Gault gave them flatly, as he would read off a dial. "Say so when you cannot. Give me the same thing twice before you give me your best once. And you are measured against the line you drew here yourself in your second month, and against nothing else: not against hopes, not against anything printed, not against talk." He looked up. "Show me a marvel and I shall have to wonder what I missed."
 
 "Yes, Magister."
 
@@ -114,7 +114,7 @@ Gault's face did nothing at all. "Where would you like it?"
 
 ---
 
-Gault gave the first instruction in the very words of the first month. Cael had wanted that badly, and had refused himself the wanting.
+Gault gave the first instruction in the very words of the baseline. Cael had wanted that badly, and had refused himself the wanting.
 
 "Fourth brass from the near wall. Stand on the crossing. When the board opens, be somewhere else."
 
@@ -124,7 +124,7 @@ His knees went and his hips dropped and the oak breathed under him; then came th
 
 The clerk did not look up. "Three brass left. A quarter forward." A figure followed, taken from the pendulum.
 
-The distance was what it had been in the first month, but the figure was shorter, and Cael had already felt it shorter in his chest.
+The distance was what it had been at the baseline, but the figure was shorter, and Cael had already felt it shorter in his chest.
 
 "The same again," said Gault.
 
@@ -140,11 +140,11 @@ Breathing, he held the spot where he had landed.
 
 Gault laid his pen beside eight lines of figures and looked at them with his hands flat on either side.
 
-"Six runs sit within a third of a brass of one another, and so does the seventh, which you paid for in front of me. The eighth goes wide and slow." He lifted his eyes. "In your first month you gave me your ceiling on this oak before the board had told me anything. Give it again."
+"Six runs sit within a third of a brass of one another, and so does the seventh, which you paid for in front of me. The eighth goes wide and slow." He lifted his eyes. "In your second month you gave me your ceiling on this oak before the board had told me anything. Give it again."
 
 "Six free, Magister. Tomorrow pays for the seventh. The day after pays for the eighth."
 
-"In the first month it was four."
+"In the second month it was four."
 
 "Four free and the fifth on credit, so it's two higher now." Cael let his breath go. "That's what four hours a week on this floor buys in a term. I don't think it buys more."
 

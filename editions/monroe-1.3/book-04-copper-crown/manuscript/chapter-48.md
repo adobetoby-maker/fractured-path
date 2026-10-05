@@ -2,7 +2,7 @@
 
 At the sixth bell Cael went to the wing's counter for a floor sheet, because it was the evening he always went for one.
 
-The counter was the plainest place on the bluff. It was a long scrubbed board with a brass rail along the front, a chained pen, a pot of sand, and a slot for slips. Behind it the desk clerk sat on his high stool with the wing's ledger open. Behind him, at the copying table under the window, the teaching assistant, Seln, was writing out somebody's timetable in a small cramped hand. He did not look up when the door opened. He never looked up when the door opened. Cael had a whole term of his not looking up, on a page that said almost nothing, and the page had not needed changing all week.
+The counter was the plainest place on the bluff. It was a long scrubbed board with a brass rail along the front, a chained pen, a pot of sand, and a slot for slips. Behind it the desk clerk sat on his high stool with the wing's ledger open. Behind him, at the copying table under the window, the teaching assistant, Seln, was writing out somebody's timetable in the round copying hand. He did not look up when the door opened. He never looked up when the door opened. Cael had a whole term of his not looking up, on a page that said almost nothing, and the page had not needed changing all week.
 
 "Sixteenth," said Cael. "Hall three, the fourth bell, supervised."
 
@@ -20,7 +20,7 @@ For about a second, as he turned, the case's face was toward the counter, upside
 
 Cael read it in that second because he could not have helped reading it. The wing's index card was in its frame. Under the card, across the bottom of the face, the delegation's receiving stamp had been pressed in blue, square and clear, with the date of the twelfth and a set of initials beside it. The pink tape was tied in the wing's own flat knot, the knot he had seen on every sealed thing that ever left that office, tied back exactly as it had come. And on the whole of the face there was nothing else. There was no slip pinned to it. There was no pencilled query in a margin and no second stamp. Nothing anywhere said *see me* or *noted* or *refer*.
 
-Then the case was on the shelf with its back to the room, and the teaching assistant was at his copying table again, writing out the timetable in the small cramped hand, and the second was over.
+Then the case was on the shelf with its back to the room, and the teaching assistant was at his copying table again, writing out the timetable in the round copying hand, and the second was over.
 
 Cael took his floor sheet from the desk clerk and said thank you, and did not move from the counter, because the inner door to the back of the wing had opened and Gault had come through it.
 
