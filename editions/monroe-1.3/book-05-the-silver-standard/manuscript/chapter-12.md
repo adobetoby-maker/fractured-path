@@ -214,7 +214,7 @@ In the afternoon he fought the two academy Irons, and neither bout asked much of
 
 The first was a hill-house fighter who had been told to test the story and who did, earnestly, for four exchanges, coming at Cael with everything his coach had given him and giving it to him in order, like a boy reciting a lesson. Cael gave him a careful bout back and touched him twice. The second was a cautious Shield from the house down the valley who had clearly come to find out what the story looked like close to, and who fought three exchanges mostly from behind his coverage, renewing it steadily and watching. Cael gave him a careful bout too. He spent one burst across the two bouts, from firm ground. That made five for the day. Five free bursts was what these hard boards would sell him between waking and sleeping, however he cut the day into bouts, so whatever the last challenger asked of him would have to be answered on foot.
 
-The figures were twenty-two and twenty-one, and the calf held, though it complained.
+The figures, when they posted, were twenty-two and twenty-one, and the calf held, though it complained.
 
 The Bronze came last.
 
@@ -234,7 +234,7 @@ Afterward he came straight to the rope, still breathing hard, and leaned on it w
 
 "It was low enough to step. A step costs less."
 
-"And the burst, when you do burst. The record at the wool town says twenty feet. Is that the full distance?"
+"And the burst, when you do burst. They say at the wool town it's twenty feet. Is that the full distance?"
 
 "About twenty feet. That's my documented distance. It's in the record, if you want it in writing."
 

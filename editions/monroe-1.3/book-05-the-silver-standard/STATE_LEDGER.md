@@ -253,7 +253,7 @@ Known carry-forward injuries the plan expects, to be confirmed from the prose:
 
 **Movement 1 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied (ch6 'average the middle three, add the three columns'; ch1 'Rent from waking, every day, spent or not.' — Book 4's word 'rent' restored). Overlap 0/13, gates 0, probe 2%/10%, mean 13.30.
 
-## AFTER MOVEMENT 2 — chapters 7–13 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 2 — chapters 7–13 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - FORMATS (OWNER-DECISIONS #39): exhibition bouts at most five exchanges, two touches ends it, short of two the one with more, level the figure; REGIONAL bracket bouts two touches inside four exchanges, level after four the figures decide; CONTINENTAL (Norhold) bouts score points per exchange across up to five exchanges — stated once on the page at Norhold (M5). The Iron split at the fifth rank is a HOST OPTION the mill town exercised; the confluence (M4) runs ONE Iron draw. The draw rule: foot of the seeding against its head; Lira's first bout need not be the top seed again.
@@ -458,3 +458,5 @@ Bracket formats as now on the page:
   3. Three points up once a meet, on a good floor.
   4. Rotated, and costed in advance.
 
+
+**Movement 2 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied in ch12 (the Bronze's 'twenty feet' made hearsay — meet records are figure-only; 'when they posted' for the academy Irons' figures). Where the author end-state above predates r1 (Seln's comparison figures, Rooke's 'bad mornings', the Bronze 'not counted'), the manuscript governs. Overlap 0/14, gates 0, probe 1%/6%.
