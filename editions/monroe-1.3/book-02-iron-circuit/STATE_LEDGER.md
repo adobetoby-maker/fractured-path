@@ -928,7 +928,7 @@ Open threads now:
 
 **Movement 5 CLOSED (2026-10-05).** Sol recheck r1: CLOSE WITH LINE FIXES — three applied: ch33 Roman numerals expanded for narration ("volumes two and three"); ch35 the reply is THREE short sentences (not four); ch35 the Monday-to-Wednesday interval is two days. All brief items resolved; overlap 0, gates 0, probe 0%/5%.
 
-## After Movement 6 (chapters 37–43; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 6 (chapters 37–43; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Sol recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - KETH WATCHING = THREE MONTHS (closed ch36 governs over the packet's 'four'); all references consistent.
@@ -1002,8 +1002,8 @@ Open threads now:
   - knock only from a planted foot (Brom);
   - knock at the meaning, the fourth hook, *committed*, not at the release (Brom: "when he's meant it");
   - **knock and hip will not share**: "knock, shut, then go";
-  - alcove tallies: 7/15 → 6/15, 8, 9/18 → 11/20;
-  - on floors: barge lad 2/5, Orvet's woman 3/6, Keth 9 knocked / 5 answered (all inside a pace and a half), and Bede used for the rush (unseen by any bench);
+  - alcove tallies: 7/15 → 6/15, 8/17, 9/18 → 11/20;
+  - on floors: barge lad 3/8, Orvet's woman 3/6, Keth 9 knocked / 5 answered (all inside a pace and a half), and Bede used for the rush (unseen by any bench);
   - range: a forearm good, a pace fair, two paces nothing (unchanged);
   - the false read: smear with hope painted on it cost the cut.
 - **Pressure-adjacent:** unused all movement. The giving face stirred once (Keth, exchange three, the long entry) and was declined: off the beat it goes up the old left wrist.
@@ -1132,7 +1132,7 @@ Open threads now:
     - cross-reference slips that pin a digest line to a file;
     - his "Circuit talk" answer;
     - his first chosen silence.
-11. **The grey-coat woman's visits:** twice before the season, once since, then the Keth and Bede bouts. She writes after new things only. She gave Dace a name at the door "nobody's heard of".
+11. **The grey-coat woman's visits:** twice before the season, once since, then the Keth and Bede bouts. She writes after new things only. She would not give Dace a name (r1).
 12. **The coast:**
     - a coast keeper's courier for the season card (twice in a month; none in four years before);
     - the coast pair at the rope, who read and copied the entry;
@@ -1152,3 +1152,5 @@ Open threads now:
     - Brom's fourth bowl;
     - Hesk's coat line.
 
+
+**Movement 6 CLOSED (2026-10-05).** Sol recheck r1: CLOSE, no manuscript line fixes. Ledger end-state normalized to r1 (barge lad 3/8; alcove 8/17; the scout gave no name). Grey-book / Log wordings quoted above predate r1's compression — the manuscript governs.

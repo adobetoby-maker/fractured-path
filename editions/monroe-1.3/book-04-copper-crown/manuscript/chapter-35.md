@@ -2,7 +2,7 @@
 
 "Bracken's clerk came and banged on my door at the third hour," said Karis, before she had quite reached him, "in his nightcap, which I shall never be able to stop seeing. That file is half mine. I built every sheet in it. So I've been in the records hall for most of an hour with my coat over my nightgown and my bare feet in my shoes, and I'd be grateful if you walked me home, because I can no longer feel them."
 
-She took his arm without waiting for an answer. Why he was standing in the covered walk at the third hour, in Brom's coat, with his notebook open against a wall, she did not ask, not that night and not in all the years after. He saw her choose not to, and laid it by, for thanking in some year when thanking would be safe.
+She took his arm without waiting for an answer. Why he was standing in the covered walk at that hour of the night, in Brom's coat, with his notebook open against a wall, she did not ask, not that night and not in all the years after. He saw her choose not to, and laid it by, for thanking in some year when thanking would be safe.
 
 "His name is Jessup," she said. "He reads papers for money. There's a whole little trade of them in Ostrand, half a dozen men in rooms above the fish market, and the strange part is that most of what they do is perfectly lawful. They don't steal. They get themselves into places where papers are kept, and read, and go home, and write out what they read for whoever's paying." She pulled the coat tighter at her throat. "He had a little book in his bag, half full, in a beautiful hand. He'd come back tonight for the rest."
 
@@ -30,7 +30,7 @@ Cael stopped walking.
 
 "It's the best note I've seen since we came up the bridge." Karis had stopped too, under the walk's one lamp, with her breath going up white. "He could have handed them a page of guesses about who and why. He'd have looked very clever. He gave them two lines of what he could prove and then put the pen down. I've spent my whole life wishing people would write like that."
 
-After that neither of them spoke. At the stair foot she turned under the lamp with her hand on the rail and studied him, for the first time that night, and what she found drew her mouth into a line.
+After that neither of them spoke. At the stair foot, under the lamp, she turned with her hand still on the rail. It was the first real look she had given him all night, and it pulled her mouth into a line.
 
 "It happened," she said.
 
@@ -82,7 +82,7 @@ The window was still black when he sat down at it with the Log. He left the shut
 
 It was true, and it was not enough. So he set the cost out under it piece by piece, the way he would have set out somebody else's, so that in a year he could not quietly make it smaller.
 
-*The price, in order. Three seconds, maybe four, of the very thing I'd sat three nights in the cold to see, gone while it happened above me. That's the dearest thing I spend, and I spent it without being asked. Then the pain behind the eyes, at once and heavy. Then two dead tries in four minutes, and a fire-watch man asking if I was all right. And at the bottom, with no column of its own yet, a debt to the one person on this bluff who has never sent me a bill.*
+*The price, in order. Three seconds, maybe four, of the very thing I'd sat three nights in the cold to see, gone while it happened above me. That's the dearest thing I spend, and I spent it without being asked. Then the pain behind the eyes, at once and heavy. Then two dead tries in four minutes, and a fire-watch man asking if I was all right. Last, in no column yet, what I owe the one man on this bluff who has never once sent me a bill.*
 
 *The five before, somebody's hands were on me: Lira, Feryn, Brom, Reydan, Karis. This time nobody came within a yard, and I've never been told so much. Three new things on one page: a tier, two parts named apart, and a line about what kind of engagement it was. That last line agreed with something I argued aloud three weeks ago and half expected to lose. I'll be honest. I don't like being agreed with by something I can't put a question to.*
 
@@ -96,17 +96,27 @@ At the fourth bell the deferral went into the wing in his own hand, on the wing'
 
 The copying table was empty that morning. The desk clerk mentioned, to the room at large, that the assistant had been up all night over a bother in the records hall and had been sent to sleep it off. Cael pinned his copy of the form into the back of the Log and did not look at the chair.
 
-He kept the covenant, and did not train on the first day or the second. He sat in lectures and wrote notes he could not afterward read, and ate whatever Brom put in front of him, and slept in the afternoons with his boots on. On the second evening Lira walked him the length of the river street and back at a stroll, because, she said, three nights sitting in the cold made a body forget it was a body, and walking reminded it.
+He kept the covenant, and did not train on the first day or the second. He sat in lectures and wrote notes he could not afterward read, and ate whatever Brom put in front of him, and slept in the afternoons with his boots on. On the second afternoon the Ash instructor stopped him in the covered walk. She was carrying her book, as she always carried it, against her chest like a shield, and she looked at him over the top of it from her small stooped height with her head on one side.
+
+"Deferral," she said. "Eight days. It came through my tray as well; I sign for your floor." She considered him. "Fatigue."
+
+"Yes."
+
+"Good." She shifted the book. "In thirty years I've signed off a great many people who should have asked for eight days and didn't, because they thought asking was the same as being weak. Most of them I signed off for a good deal longer than eight days, afterward, with a splint." She nodded at him, once, briskly, as if he had answered a question correctly in a lecture. "Sleep. Eat. Come back on the ninth day and show me your feet."
+
+She went on along the walk. He stood looking after her, and found that he was very nearly smiling, which on that particular afternoon he had not expected to do.
+
+On the second evening Lira walked him the length of the river street and back at a stroll, because, she said, three nights sitting in the cold made a body forget it was a body, and walking reminded it.
 
 On both mornings he went out to the coping at first light, and on both mornings it was two and two at the ferry landing, on the bell, and two and two at the road's foot. The man with the stiff knee came on at the fourth hour of the second day, exactly as he had come on the morning after the pin, and stood under the lamp with his hands in his pockets, and looked at the river. Whatever the wing had written about a records-broker on a stair, it had not had a boy in it. Cael wrote *two and two* in the margin both mornings, and under the second, very small: *still*.
 
-Under all of it, all the time, was the new thing.
+Under all of it, all the time, was the sixth fragment.
 
 It did not live inside him as the others did, and he could not find it by turning toward his hip, or his ribs, or his arms. It was out at the edge of him, in the half-metre of air he had never in his life given a thought to, and he felt it there the way you feel a lamp's warmth on one cheek. Sometimes it seemed turned a little up and sometimes a little down, and he did not touch it. Nobody had said he could, and he did not mean to learn what touching it cost before Karis had her numbers.
 
 On the third day she had them, in the wash-house, with the same rule and the same lamp and the three sandbags hanging in their row. Rule caught at eight and three-quarter inches, a hair slower than before. Breath at rest, fifteen. Middle bag: guessed ten, got eleven. The read at the post with Brom feeding, twelve of twelve, though the last two came a shade late, which Brom swore to and Cael felt. Ember, by his own account, as it had been.
 
-"The Wind waits for the fourth morning, and Lira," said Karis. "That's in the plan. And the new one?"
+"The Wind waits for the fourth morning, and Lira," said Karis. "That's in the plan. And the Bronze one?"
 
 He told her about the lamp on one cheek and the wick that moved without being asked, and that he had not touched it, and she wrote it all in a separate column she had ruled that morning, and headed, after some thought, with a single word. *Six.*
 
@@ -114,7 +124,7 @@ He told her about the lamp on one cheek and the wick that moved without being as
 
 The Wind went on the fourth morning, a little over ninety-six hours after the stair.
 
-The north hall before the first bell was empty except for the two of them, and so cold that their breath hung in the grey light coming down from the high windows onto the stone. They had agreed on a third of Lira's pace; she had said yes to the number as if it were a bad price at a market. Eight sequences went by clean. On the ninth she came in from the right, slow, and he dropped his hips for the lateral and went to the place where the Wind lived, and asked.
+Until then the integration had gone well, by every number Karis had. The second quadrangle before the first bell was empty except for the two of them, and so cold that their breath hung in the grey light coming down over the roofs onto the flagstones. Nobody signed for flagstones, and nothing done on them went into any wing's book. They had agreed on a third of Lira's pace; she had said yes to the number as if it were a bad price at a market. Eight sequences went by clean. On the ninth she came in from the right, slow, and he dropped his hips for the lateral and went to the place where the Wind lived, and asked.
 
 There was nothing there.
 
@@ -192,7 +202,7 @@ Before the porter reached the arch Gwen, who had been counting with her lips, tu
 
 The whole room went still, the way a room goes still when somebody has said aloud what everybody wanted to know.
 
-"There'll be a notice from the registrar's office," said Seln. "Read it. It'll be accurate." He did not look at Gwen, or at the window, or at anybody. "The porter's at the arch. Pencils down."
+"There'll be a notice from the registrar's office," said Seln. "Read it. It'll be accurate." His eyes went to nobody: not Gwen, not the window, not the room. "The porter's at the arch. Pencils down."
 
 Gwen put her pencil down, crestfallen, and then picked it up again and wrote *READ THE NOTICE* under her count, and underlined it once.
 
@@ -202,7 +212,7 @@ Gwen wrote *CARRY THE LADDER* in capitals and underlined it twice.
 
 At the end of the hour Seln went round the table collecting the exercises, as he had the week before, and took Cael's page off the table with two fingers and put it on the pile without looking at it, or at him, or at anything. His sleeve passed a hand's breadth from Cael's shoulder.
 
-Cael sat very still and felt the new thing at his edges turn, of its own accord, very slightly down, the way a candle leans away from a door that opens.
+Cael sat very still and felt the fragment at his edges turn, of its own accord, very slightly down, the way a candle leans away from a door that opens.
 
 ---
 
@@ -234,7 +244,7 @@ The columns held his eyes a long while. Then he took out the observation noteboo
 
 None of it went anywhere else.
 
-The chart stayed in carrel eleven, under an inkpot. The notebook stayed in his coat. The Log stayed where the Log had always lived. Gault's brass and dials would read what was put before them and report it honestly. The assay file's three words, *evaluation by demonstration*, would stand as they stood. Nobody's coursework, no supervision note, no reason written on a deferral would ever carry so much as a hint of a sixth thing. At the semester's measuring he meant to stand before the panel and show five things, the five the record already knew, and every one of them true.
+The chart stayed in carrel eleven, under an inkpot. The notebook stayed in his coat. The Log stayed where the Log had always lived. Gault's brass and dials would read what was put before them and report it honestly. The assay file would keep its three words and add none. Nobody's coursework, no supervision note, no reason written on a deferral would ever carry so much as a hint of a sixth thing. At the semester's measuring he meant to stand before the panel and show five things, the five the record already knew, and every one of them true.
 
 Six was his. The record could keep the other five.
 

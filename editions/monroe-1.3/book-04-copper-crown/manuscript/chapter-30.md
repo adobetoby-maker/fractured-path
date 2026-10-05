@@ -8,7 +8,7 @@ He found nothing wrong with it, which was what made him uneasy. Sound conclusion
 
 So on the tenth night he fastened the shutter of his room on the staff corridor, turned the lamp down to a bead, and went over the argument one step at a time, as he would have gone over somebody else's.
 
-First step. The service did not run on the honesty of its officers. It ran on the completeness of its files. Officers were posted, promoted, buried; the file outlived them all. A gap in it was a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet exactly where things got interesting, and ask him why.
+First step. The service did not depend on its officers being honest. It depended on its files being complete. Officers were posted, promoted, buried; the file outlived them all. A gap in it was a slow trap. One day a reader with better access would come at that stretch from another side, see one man's product go quiet exactly where things got interesting, and ask him why.
 
 Second step. Gaps were always found; he had spent two years of his youth at a long table up the coast finding them. When one was found, the officer's whole defense was what he had known, and when. Silence alone could sometimes be explained. Silence with nothing kept behind it left a man only his word, and he had twice watched what a covered man's word was worth at an inquiry. It was worth the paper it was not written on.
 
@@ -74,7 +74,7 @@ Long ago, at the long table up the coast, he had taught a room of new auditors w
 
 He put the carbons back in his satchel in their proper order. He knew how they would look to a reader with better access. He had known it on each of the three nights he walked them down the hill.
 
-He had filed them anyway. He noticed it the way a man notices his boots wearing down along one edge: the fact registers, and is true, and he goes on walking in them. Then he turned the lamp out and slept without trouble until the second bell.
+He had filed them anyway. It came to him the way a man finds his boots wearing down along one edge: the fact registers, and is true, and he goes on walking in them. Then he turned the lamp out and slept without trouble until the second bell.
 
 ---
 
@@ -88,13 +88,13 @@ He had promised himself a change would show in four if it was going to. It had n
 
 He did not know yet what to make of it. He had decided, in the second week, to know nothing until he had a reason, and he was holding to it.
 
-Under the date he made the other entry he had been carrying.
+Under the date, below the standing line for the five confirmed fragments, he made the other entry he had been carrying.
 
 *Compression, recovery: four mornings, not two. One instance, under a heavier load than any I've measured. Amend the column in pencil.*
 
 The arm lay on the stone beside the notebook. The bruise along the outer bone had gone from black to yellow to nearly nothing. The hum had not come back. Twice he had pressed the bone hard with his thumb in the dark, to see whether it would, and it had not.
 
-Footsteps came along the top of the wall, uneven, a long step and a careful one. Lira sat down on the coping beside him with her leg out straight in front of her and a heel of yesterday's bread in her hand.
+Footsteps came along the top of the wall, uneven, a long step and a careful one. Lira sat down on the coping beside him with her leg stuck straight out before her and a heel of yesterday's bread in her hand.
 
 "Two and two," she said.
 
@@ -118,7 +118,7 @@ Below them the sound of a mallet started up from the far side of the second quad
 
 Lira almost smiled. She looked down at the ferry landing, where the two new coats had settled under their lamp, and she was quiet for a time.
 
-"Top line," she said at last, as if trying the words for fit. "Ten days on the top line. I keep going to the board to check it's still true."
+"Top line," she said at last, as if trying the words for fit. "Ten days on the top line of the Copper standings. I keep going to the board to check it's still true."
 
 "It's still true."
 
@@ -164,11 +164,11 @@ Through the clerk's door came the small dry sound of a newspaper turning. In the
 
 The signed sheet went face down under the countersign block.
 
-"Your file says you watch things well," he said. "The course would tell us if the file's right."
+He said it to the sheet. "Your file says you watch things well. The course would tell us if the file's right."
 
 The wing's carbon sets came in threes, held at the corner with a pin: a top sheet for whoever asked, a second for the wing's own drawer, and a third, faint and grey, for the file that went away. Cael had handled a hundred of them. He read the sentence the same way, top to bottom, in about two seconds, before the clerk's newspaper turned again.
 
-The top sheet was for anybody. A member of staff had offered an enrollee a place on a course, at a counter, with a rule and an authority and a reason. Repeated by any of the four people in earshot, it would sound like nothing whatever.
+The top sheet was for anybody. A member of staff had offered an enrollee a place on a course, at a counter, with a rule and an authority and a reason. Repeated by anybody within earshot, all four of them, it would sound like nothing whatever.
 
 The second sheet was what it gave. For thirteen weeks he had watched this man across halls, from forty feet, past the shoulders of crowds. Now he was being offered eight feet, a table's length, in a room, signed and countersigned under Gault's own approval. Shadow, taught by somebody who used it. And the man would be talking.
 
@@ -184,7 +184,7 @@ Only the top sheet had been spoken aloud, so the top sheet was the only one he c
 
 "Sign me up," he said.
 
-"Sheet's on the residence board from tomorrow." The next form was already in Seln's hand. "Put your name on it like everybody else."
+"Sheet's on the residence board from tomorrow." The next form was already in Seln's hand. "Put your name down like everybody else."
 
 Cael put the copy inside his coat. The door was six paces.
 
@@ -236,7 +236,7 @@ They stood along the north wall where they had always stood, four iron columns w
 
 "All of it," said the Ash instructor. "Core and pin. In front of their friends." She signed his sheet against her knee, in her small stooped way, and gave it back. "Half of them sulked. The other half will be alive at forty. Footwork, then four, then the landing. I'll be here."
 
-He did his footwork first, on the timber that gave and returned under him, slow and then not slow, down the length of the bay and back. Then the bursts. He took four, the four the oak gave him for free, and felt the floor hand back its share on each landing and the hip take the rest. The landing beat came where it always came, the half-breath of being set in place like a peg in a hole. Three years of trying to shorten it, and it had not given him a hair.
+He did his footwork first, on the timber that gave and returned under him, slow and then not slow, down the length of the bay and back. Then the Wind-adjacent bursts, up to the ceiling the timber allowed. He took four, the four the oak gave him for free, and felt the floor hand back its share on each landing and the hip take the rest. The landing beat came where it always came, the half-breath of being set in place like a peg in a hole. Three years of trying to shorten it, and it had not given him a hair.
 
 At the far end of the hall the door opened and a porter put his head in, looked for somebody who was not there, and went away again.
 

@@ -42,9 +42,9 @@ The senior clerk looked at him over the cup with the same small frown the Blade 
 
 Back in his room he sat on the edge of the bed in his coat, and the cold came up into him the way it had come up through the gallery boards.
 
-Three in three days. Since the bridge, he had been looked at by every soul on this bluff. He had measured it, in passages and on stairs and at counters, to the second decimal, because it was the weather he lived in, and he had kept a column of it and filed it in the back of the notebook. In three days, three separate people had failed to see him from a yard away, in good light, while he stood in front of them.
+Three in three days. Since the bridge, he had been looked at by every soul on this bluff. He had measured it, in passages and on stairs and at counters, to the second decimal, because it was the weather he lived in, and he had kept a column of it and filed it in the back of the notebook. Three times in three days, three different people had failed to see him from a yard away, in good light, while he stood in front of them.
 
-He was not doing it. He had not asked for anything, or reached for anything, or so much as thought of the new thing on any of the three mornings. There lay the trouble. He sat with it a long time before he went to find Lira; he had no words yet for it that he could bear to write.
+He was not doing it. He had not asked for anything, or reached for anything, or so much as thought of the sixth fragment on any of the three mornings. There lay the trouble. He sat with it a long time before he went to find Lira; he had no words yet for it that he could bear to write.
 
 ---
 
@@ -98,17 +98,17 @@ He went back to his room and wrote it, short, because the long version was hers.
 
 ---
 
-The unit met that afternoon in the yard, at the sixth bell, as Seln had said it would, and the ladder was waiting for them against the lecture range's wall.
+The unit met that afternoon at the sixth bell, and the ladder Seln had promised them the week before was waiting against the lecture range's wall.
 
 "One of you carries it," said Seln, "from here to the arch, at a walk, through whatever's in the yard. The rest of you stand at the windows above and count every person who looks at the one carrying it. Not at the ladder. At the person." He looked at nobody. "Volunteers."
 
-Gwen's hand went up so fast that her scarf came loose. Seln looked at the hand for exactly as long as it took to be seen looking at it, and then said, "The assay enrollee," in the voice of a man reading the next name off a list, and turned to lead the others indoors.
+Gwen's hand went up so fast that her scarf came loose. Seln's eyes rested on the hand just long enough to be seen resting there, and then said, "The assay enrollee," in the voice of a man reading the next name off a list, and turned to lead the others indoors.
 
 So Cael carried the ladder.
 
 It was a long wooden thing, a porter's ladder, heavier at the foot than the top, and the only way to carry it was on the shoulder with one hand forward on a rung and the other back, as the porter did. He set off across the yard with it. A session was letting out of the lecture range, forty or so third-years, and he walked straight through the middle of them at the porter's own unhurried pace.
 
-He did not try anything. He did not think of the new thing at all. He thought about the ladder, which was enough to think about, since it swung if you let it and was always trying to tip forward on the slope of the yard.
+He did not try anything. He did not think of the Shadow-adjacent fragment at all. He thought about the ladder, which was enough to think about, since it swung if you let it and was always trying to tip forward on the slope of the yard.
 
 And nobody looked at him.
 
@@ -220,7 +220,7 @@ He did not know. He said so.
 
 So the ledger he had not wanted to start began that night, on a fresh page, in a hand steadier than the stair's.
 
-*Shadow-adjacent: working ledger. Day one.*
+*Shadow-adjacent, Bronze tier: working ledger. Day one. Deployment: none.*
 
 *Have: the hiding half is real. Five times in an hour, all unasked, every one lost the moment I looked. The moving half: not once in four crossings.*
 
@@ -267,7 +267,7 @@ And on the facing page, a second column, which he headed *What he gave*, because
 
 *His own Path, to chart from a table's length, which nobody's floor anywhere would have let me near. A corrected sheet, unasked. A sector, two nights running. One turned sole on the grit at the foot of a stair, so that the dark would have a sound in it before it had a sleeve. And a report about a locked post, a month ago, with nothing in it that sent a single extra coat to the ferry landing.*
 
-The two columns sat facing each other across the fold. Every name in the first had been given something back, or could be, some day, or had never been owed. The last line was the only one with no way through it. Of everything Cael had, only the mechanism had never once gone onto paper that an office could open, and that was the very thing that would sink a man whose desk stood three doors from Gault, and whose every page climbed a ladder built for catching liars. To tell him would not be honesty. It would be putting the one match in the building into the hand of a man who lived in a hayloft.
+The two columns sat facing each other across the fold. Every name in the first had been given something back, or could be, some day, or had never been owed. The last line was the only one with no way through it. Of everything Cael had, only the mechanism had never once gone onto paper that an office could open, and that was the very thing that would sink a man whose desk stood three doors from Gault, and whose every page climbed a ladder built for catching liars. To tell him would not be honest. It would be putting the one match in the building into the hand of a man who lived in a hayloft.
 
 *Filed under debts, no current mechanism of payment,* he wrote under the columns. Then he sat looking at it. Cold and correct, and he would not let it be the page's last line.
 

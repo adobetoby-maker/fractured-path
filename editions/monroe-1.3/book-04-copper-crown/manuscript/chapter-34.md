@@ -28,7 +28,7 @@ Nobody at the table asked whether he was going. Karis talked about the transitio
 
 She went on up the stair with her long step and her careful one, and did not look back, which was how he knew how much she wanted to.
 
-Before he went out, Karis knocked and put a sheet into his hand without coming in. It was the *before*, finished, copied fair in her small upright figures from three days of numbers in the wash-house and at the post and on the stone of hall one.
+Before he went out, Karis knocked and put a sheet into his hand without coming in. It was the *before*, finished, copied fair in her small upright figures from three days of numbers in the wash-house and at the post and on the flagstones of the second quadrangle at first light.
 
 *Rule caught at: eight and a half inches, middling, twelve drops. Breath at rest: fourteen to the minute. Middle bag: eleven, guessed eleven. Read at the post, Brom feeding: twelve of twelve, on time. Wind on stone at a third, Lira: three clean, the fourth billed to the hip. Ember: from the subject's account, unchanged.*
 
@@ -45,6 +45,12 @@ He had come up the lower flight by the count, stepping over the ninth without th
 Tonight he did not need to argue anything. He only had to be where he had said he would be.
 
 So he sat, and let the cold come up into him through the stone, and took his mind for a walk round the things he could not see. The bench in the courtyard, with its moss. The drawer, a hair proud, that Bracken would have pushed home again before supper. The shuttered windows of the archive above him, and the long dark rooms behind them where Karis's founding-era copies had come from, and where, for all he knew, nobody had stood after dark in a hundred years. He did not let his mind go up the upper flight. He kept it on the landing, with him, where it had been told to stay.
+
+The building made its night noises round him, and on the third night he knew them all. The stone ticked as it gave up the day's last warmth, a small dry sound somewhere in the wall at his back, like a clock that had lost interest in keeping time. High up in the archive a shutter that had not been properly fastened knocked against its frame whenever the wind came round to the east, three or four soft knocks and then silence for a long while. Once, far off across the bluff, a dog barked twice and was told to be quiet. And under all of it, the whole time, came the river, never stopping, so steady that he only heard it when he listened for it, the way you only hear your own heart when you put your hand flat on your chest.
+
+The window changed as the cloud moved. For a while it was nearly black. Then the cloud thinned over the moon, and the grey came up in the glass until he could see the shapes of the lead between the panes, and a faint pale wash of it lay across the edge of the landing two feet from his boots, and stopped there, as if it had been told about the corner. Then the cloud thickened again, and the grey went down.
+
+He thought of Lira at her window, with the low lamp, awake. He thought of Brom asleep with his latch up. He thought of Karis's *before*, folded in the back of the Log, *taken while nothing was wrong*, and of how odd it was to have a sheet of paper that said what you were on a particular evening, so that later you could hold it up against yourself, like a coat you had grown out of, and see where it no longer reached.
 
 The second hour went slowly. The window above the landing was grey with cloud, and for a long time there was no sound but the river, thin through the stone, and once a mouse in the wall, busy and small. A little after the third hour struck he heard, far off, the readers going home along the walk on the range's other side: a door, two voices, a laugh, then a single pair of slow steps, then nothing. Some while later the fire-watch's boots came along the foot of the range on the courtyard side and went away toward the wing. He could not see the bench from where he sat. He did not need to.
 
@@ -100,9 +106,9 @@ The glove came back out into the light with nothing in it.
 
 "Sit down on the step," said Seln. "Not that one. The one behind you."
 
-The man sat on the step behind him, slowly, with his empty hands on his knees.
+The man with the bag sat down where he had been told, slowly, with his empty hands on his knees.
 
-"The registrar is crossing the courtyard," Seln went on, in the same voice, as if reading the next line of the same form. "Counsel is with him, and two of the fire-watch. They came out four minutes ago. A man listening to the house, and not the keyhole, would have heard them."
+"The registrar is crossing the courtyard," Seln went on, in the same voice, as if reading the next line of the same form. "Counsel is with him, and two fire-watch men. They came out four minutes ago. A man listening to the house, and not the keyhole, would have heard them."
 
 And eleven feet down, in the black of the corner, the reach began.
 
@@ -110,9 +116,9 @@ And eleven feet down, in the black of the corner, the reach began.
 
 He counted the rule on his fingers against his knee, because his mind would not hold a sentence just then and his hand could hold five things.
 
-*Earnest*, the thumb: a man in a doorway spending his name and his post and every careful year he had ever worked, in the light, meaning every word. *His*, the first finger: begun by him, on his own account, before Cael had known there was anything to begin. *Close*: eleven feet. *His work*: a records office being read in the dark, and the officer of the wing that kept the records, doing what he was there to do. *Awake*: the little finger, and he was more awake than he had ever been in his life.
+*Earnest*, the thumb: a man in a doorway spending his name and his post and every careful year he had ever worked, in the light, meaning every word. *His*, the first finger: begun by him, on his own account, before Cael had known there was anything to begin. *Close*: eleven feet. *His work*: a records office being read in the dark, and the officer of the wing that kept the records, doing what he was there to do. *Awake*: the little finger, and Cael was more awake than he had ever been in his life.
 
-Five fingers down flat on the cloth of Brom's coat. He had not led the man here, or nudged him, or made the night. He had sat on a stair.
+Five fingers down flat on the cloth of Brom's coat. Cael had not led the man here, or nudged him, or made the night. He had sat on a stair.
 
 So he did not do it the way he did a burst, all at once, before thinking could catch up. He did it slowly, on purpose, on cold stone, in a building where being found would end the one true sentence ever written about him, knowing exactly what he did and to whom. The knowing was the price. He had written that down before he came out.
 
@@ -126,7 +132,7 @@ When the sound came back, the man on the step had a different set to his shoulde
 
 Then it settled.
 
-Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-metre or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. For one long moment that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The bagman's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
+Every other thing he carried had come to live somewhere inside him: the hip, the ribs, the bones of the forearms, the breastbone, and the read lying over his skin. This one did not come in at all. It stopped short of him. It came to rest in the air round him: the half-metre or so that everybody wears like an invisible coat and never notices, out to the line where a person ends and a room starts. For one long moment that margin had a setting to it, a wick he could have turned up or down. And through it he felt the whole stair as a field of attention, with directions running through it like currents in a slow river. The intruder's was pinned to the doorway, as tight and narrow as a moth on a card. Seln's lay spread out flat over the landing and the flights and the whole building in a way Cael had no word for. Down in the courtyard there was a loose thin scatter of four more, none of it pointed anywhere near a boy in a corner.
 
 Then it let go, all at once, like a held breath. Cold stone under him. His heart going like a drum. Both hands trembling where they lay. Then the notice.
 
@@ -149,15 +155,15 @@ Three things on that page had never been on any page before.
 
 *Engagement: adversarial, non-combat.* That one he looked at longest.
 
-At the long table, with three people who had every right to argue, he had said that the condition was never violence. That what the thing in him wanted was earnestness: somebody truly set against him and meaning it, spending something real. Fighting had only ever been the commonest way to be that. Karis had believed him. Lira had distrusted how comfortable it felt. Brom had said his piece about the weapon. Cael had put his name to it, and quietly, where no page could see, he had been waiting to find out he was wrong.
+At the long table, with three people who had every right to argue, he had said that the condition was never violence. That what the Fractured Path's acquisition wanted was earnestness: somebody truly set against him and meaning it, spending something real. Fighting had only ever been the commonest way to be that. Karis had believed him. Lira had distrusted how comfortable it felt. Brom had said his piece about the weapon. Cael had put his name to it, and quietly, where no page could see, he had been waiting to find out he was wrong.
 
 Now the page agreed with him, on a line it had left empty every other time.
 
 *All five of the others,* he thought, very clearly, *somebody was hitting me.*
 
-Lira's falls on the boards, Feryn's blows, Brom's three mornings in the alcove, Reydan's floor, Karis's fire across the formal yard. Tonight nobody had touched him at all. And the thing in him had written more on its page for a man he had never laid a hand on than for any of the ones he had bled for.
+Lira's falls on the boards, Feryn's blows, Brom's three mornings in the alcove, Reydan's floor, Karis's fire across the formal yard. Tonight nobody had touched him at all. And the notice had written more on its page, a tier and an engagement field and two named components, for a man he had never laid a hand on than for any of the ones he had bled for.
 
-He did not like that. On a cold stair at the third hour there was no shelf for it, so he held it, and put off deciding whether the not-liking was a finding or a flinch.
+He did not like that. On a cold stair at the third hour there was no shelf for it, so he held it, and put off deciding whether the dislike was a finding or a flinch.
 
 Above him the light grew and swung. A lantern was coming up through the archive from the courtyard side, and the head of the stair filled with yellow, and Bracken's voice said, wide awake at the third hour and very precise, "Nobody touch that bag. Counsel will want the kit just as it lies."
 
@@ -175,7 +181,7 @@ The younger fire-watch man held his lantern up on its pole at the corner where t
 
 Four minutes before that, Cael had still been on the landing. Above him, by then, the landing was crowded with low voices: counsel's, exact and dry, and Bracken's, and the other fire-watch man's, settling between them who would write what, in which book, over whose name. Their lantern made a long yellow tongue down the upper flight that stopped two steps short of his corner. He had to go. Going meant the lower flight, the yard door, and the corner of the range, where the courtyard began and a lantern would be.
 
-He had turned to the new thing, then, the way he turned to the Wind, and asked it to make him not worth a glance.
+He had turned to the sixth fragment, then, the way he turned to the Wind-adjacent one, and asked it to make him not worth a glance.
 
 It did not answer. It did not refuse, either. It was simply as if he had pulled on a bell rope and found nothing at the far end of it but rope. He asked again, harder, with the whole of himself behind it, the gathered intent and the sharp timing he gave a burst. What came was a spike of pain behind both eyes, sudden and hard, that he knew at once and with real dismay. It was the same coin the read spent, and the same coin three cold nights of attention had been spending, and the purse was nearly empty.
 

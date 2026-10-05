@@ -4,7 +4,7 @@ Lira locked the door and put the key in her pocket, which was how every one of t
 
 Cael read them the counter.
 
-He read it from the observation notebook, word for word, because he had written it word for word on the walk back from the wing before it could soften in his head. He gave them the sheet and the chained pen, and *Your training requirement will take coursework*, and Gault and the unit and the back half of term, the room in the wing and Rooke's boards; then *Who takes it?* and *I do*, and the file sentence, and his own three words, and the board where his name would have to go up among everybody else's. He read the half-second at the door as well, because leaving it out would have been the first lie of the evening. Then he turned the page and read them the other entry, the one about his feet in hall three, and what he wanted, in his own hand.
+He read it from the observation notebook, word for word, because he had written it word for word on the walk back from the wing before it could soften in his head. He gave them the sheet and the chained pen, and *Your training requirement will take coursework*, and Gault and the unit and the back half of term, the room in the wing and Rooke's boards; then *Who takes it?* and *I do*, and the file sentence, and his own three words, and the board where his name would have to go up among everybody else's. He read the half-second at the door as well, since to skip it would have made the evening's first lie. Then he turned the page and read them the other entry, the one about his feet in hall three, and what he wanted, in his own hand.
 
 Nobody said anything until he had closed the notebook.
 
@@ -12,7 +12,7 @@ Nobody said anything until he had closed the notebook.
 
 She said it to the cold fireplace, with her arms folded, and then shut her mouth on it and looked as if she would very much have liked that to be the end of the evening.
 
-It was not, and they all knew it. Since the Fiske bout Lira had taken up a habit none of them had seen in her before: when she had said a thing hard, she turned straight round and argued the other side of it, as hard as she could, to see what was left standing. She said it was what Fiske had done to her in the second exchange, and that it had been the most useful thing anybody had done to her all season.
+It was not, as all four of them knew perfectly well. Since the Fiske bout Lira had taken up a habit none of them had seen in her before: when she had said a thing hard, she turned straight round and argued the other side of it, as hard as she could, to see what was left standing. She said it was what Fiske had done to her in the second exchange, and that it had been the most useful thing anybody had done to her all season.
 
 So after a moment she unfolded her arms.
 
@@ -30,7 +30,7 @@ Karis sat with both palms pressed flat either side of the grey notebook, which w
 
 Karis took a breath, the short sharp one she took before reading a clause aloud to a room that would rather not hear it, and he saw her decide, as she always did, to put the part that made her look worse at the end, where nobody could say she had hidden it.
 
-"Position: it breaks nothing in the minute, because you didn't arrange it and you didn't go near him. The offer came over a counter, by the route any clerk would use, and the right it rests on is printed in your own file. Every rule you wrote is standing." She paused. "Now the reason I distrust it, which is that I want it, and not for you. For me. I've wanted to sit in a room with a working Shadow practitioner at a table's length since the first page you wrote about him, and I want it the way I want a missing volume, which is badly and for my own sake. And I caught myself, about halfway through you reading it out, building the case for yes. I'd got two good reasons laid out before I noticed the want they were standing on." She turned one hand over. "So whatever I say tonight, mark it down. Mark it down a long way."
+"Position: it breaks nothing in the minute, because you didn't arrange it and you didn't go near him. The offer came over a counter, by the route any clerk would use, and the right it rests on is printed in your own file. Every rule you wrote is standing." She paused. "Now why I don't trust that. I want it. Not on your account; on mine. I've wanted to sit in a room with a working Shadow practitioner at a table's length since the first page you wrote about him, and I want it the way I want a missing volume, which is badly and for my own sake. And I caught myself, about halfway through you reading it out, building the case for yes. I'd got two good reasons laid out before I noticed the want they were standing on." She turned one hand over. "So whatever I say tonight, mark it down. Mark it down a long way."
 
 "How far?" said Brom, from the floor.
 
@@ -60,7 +60,7 @@ They waited.
 
 "The coats haven't changed."
 
-He laid Karis's marbled log open on the table between the four of them and turned it so that it faced the room. Eleven days since the pin, in her small hand and his scrawl and once in Lira's square capitals. Every change at the ferry landing and every change at the foot of the bluff road, the bell, the faces where faces could be told apart, a tick for on time.
+He laid Karis's marbled log open on the table between the four of them and turned it so that it faced the room. Eleven days since the pin, in her small hand and his scrawl and once in Lira's square capitals. Every change at the ferry landing and every change down at the road's foot, the bell, the faces where faces could be told apart, a tick for on time.
 
 Eleven rows of ticks. There was the pie, crossed out, and the cart in the road, and the dog, all from before the pin, and after the pin not one cross, not one face that was new, not one change by so much as a minute, only the same small upright tick, bell after bell, down the whole of the page and on to the next.
 
@@ -90,7 +90,7 @@ Karis looked at the pencil in her hand as though it belonged to someone else. "N
 
 "Say it," said Brom.
 
-"An instrument doesn't change sides. It changes readings." She said it the way she must have said it to herself a thousand times, flatly, as a thing she had built her working life on. "I told you that before the season. It was a warning then, and it's been the first article of my trade for as long as I've had one." She nudged the notebook straight against the table's edge, as though it had wandered. "Eleven days isn't a finding. I know that better than anybody in this room. But this is the first thing I've ever put in a notebook that I can't make go into that sentence, turn it how I like. I hate that. I'd rather tell you tonight, while it's still sticking out, than after I've sanded it down to fit."
+"An instrument doesn't change sides. It changes readings." She said it the way she must have said it to herself a thousand times, flatly, as a thing she had built her working life on. "I told you that before the season. It was a warning then, and it's been the first article of my trade for as long as I've had one." She squared nothing in particular on the table. With Karis, that stood in for a sigh. "Eleven days isn't a finding. I know that better than anybody in this room. But this is the first thing I've ever put in a notebook that I can't make go into that sentence, turn it how I like. I hate that. I'd rather tell you tonight, while it's still sticking out, than after I've sanded it down to fit."
 
 The room was very quiet. Down on the river a barge called once, long, and nobody answered it.
 
@@ -122,7 +122,7 @@ Karis opened her mouth, and closed it again, and looked at the column of ticks, 
 
 She swung her leg down off the settle and sat forward.
 
-"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it. If it's ever going to happen, that room is where it's likeliest." She looked at Cael and did not look away. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
+"If you sit in that room, you sit eight feet from him once a week. Earnest, in his own work, close: that's your rule two, and you wrote it. If it's ever going to happen, that room is where it's likeliest." Her eyes stayed on Cael's and did not leave them. "So I want it written now what happens after. Not on the night but now, while nothing's wrong with you and you can still think."
 
 "It mightn't happen," said Brom.
 
@@ -180,7 +180,7 @@ He opened the Log at his window at the ninth bell, with the shutter back and the
 
 He wrote the standing lines first, as he always did: five confirmed, and the forearm's amendment to the recovery column. Then, for a while, he sat with the pen lifted and did nothing, because he knew what the next entry was going to be and was not sure he would like it.
 
-It came out whole, which almost never happened.
+It came out whole. That hardly ever happened.
 
 *He watched me stop Iron-tier force with a Copper baseline and his desk stayed quiet. Eleven days of the same two coats at the landing say so. This morning he offered, at a counter, to teach me his own Path across a table. Either it's the best trap the Compact ever built, or the man they sent to watch me has started watching them. Karis says instruments don't change sides. Karis has never met this instrument.*
 
@@ -220,7 +220,7 @@ Cael was there before breakfast, before he could find a reason to be there after
 
 By supper there were nine names.
 
-He read them on the way in, because he read everything. There were four second-years he knew by sight from the Mire and Current halls, and two third-years, one of whom had sat behind him in the drainage lecture and slept through most of it. A Stone girl from the second quadrangle whose card said *Stone, Copper* and who was said to want to be a registry assessor when she was grown, and to say so to anyone who would listen.
+He read them on the way in, because he read everything. There were four second-years, Copper and Iron by their cards, whom he knew by sight from the Mire and Current halls, and two third-years, one of whom had sat behind him in the drainage lecture and slept through most of it. A Stone girl from the second quadrangle whose card said *Stone, Copper* and who was said to want to be a registry assessor when she was grown, and to say so to anyone who would listen.
 
 And on the line below his own, in a large confident hand with a flourish under it, *Gwen — Second Year — Current*, and after it, drawn very small and carefully, an eye.
 
@@ -244,7 +244,7 @@ Lira read the sheet on her way past with a bowl of something in each hand. She r
 
 "Yes."
 
-"I'll be in hall one at the sixth bell, on the stone, at a third." She did not look at him; she looked at the sheet. "I'll know where you are."
+"At the sixth bell I'll be in hall one, running the stone at a third." Her eyes were on the sheet, not on him. "I'll know where you are."
 
 "You always know where I am."
 

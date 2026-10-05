@@ -14,6 +14,14 @@ That was what nobody ever told you about watching, he thought. Not the cold, whi
 
 For an hour and three-quarters the courtyard had done exactly what an empty courtyard does at night. The lamp had swung. Something small had gone along the foot of the range, a rat or a cat, and he had not been able to tell which. Somewhere in the second quadrangle a window had opened and a voice had said something sleepy and cross, and the window had shut. The river had gone on being loud. Every few minutes the wind dropped, and in the gap he could hear his own breath going in and out of Brom's collar, and he had begun to count it, the way Karis had counted it in the wash-house, because counting kept him awake.
 
+Somewhere in the second hour, with nothing to watch, he made himself look at what he was doing instead.
+
+Rule one of the minute said that the conditions were not to be manufactured. He had written six refused methods under it in his own hand, so that none of them could come back later dressed as something else. And here he was, on a gallery in the dark, forty feet from a door the man was very likely watching, at an hour when the man was very likely working. He turned that over as honestly as he could, the way Karis would have turned it, looking for the place where it was false.
+
+He had not brought anybody here. A man with a copying kit had brought himself, twice, on somebody's money, and the slate had told the bluff about it in chalk. He had not arranged the hour, or the door, or the drawer that sat proud. He had not told anybody in the wing he was coming, or let anything be seen that would draw the man out. He was sitting in the cold to watch a thing happen that was going to happen whether he sat here or not.
+
+And still. He made himself write it on the inside of his own head, in the shorthand, so that it would be there in the morning: *I want to be near him while he works. That's in this too. It isn't the whole of why I came, but it isn't nothing, and I'd be lying if I left it out.* He let it sit there. Then he did the only thing the minute allowed with a want like that, which was to know it was there and not let it touch his hands.
+
 He did not look for the man.
 
 He had decided that before he came out, and he held to it, though it was the hardest thing he had done all night.
@@ -76,7 +84,7 @@ He slept for two hours and woke at the first bell with his whole body as stiff a
 
 *Third hour: the fire-watch round. Two men and the boy. The boy turns his head at every doorway on the range. The young man at about half. The old man at none, the whole length of the range, until the shallow doorway by the main door, where he and the boy both looked straight at the bench, in their own light. On they went, no slower, not a word between them.*
 
-*I measured this thing in the covered walk weeks ago, on the rail, standing in daylight. It isn't hiding. People still look. But the look lands, finds nothing worth a second one, and lets go. Tonight I saw it working on the two men on this bluff whose whole job is to look into doorways at night, and it worked better than I've ever seen it work, at a rate I wouldn't have believed from the rail.*
+*I measured this Shadow declaration in the covered walk weeks ago, at the rail, standing in daylight: a Bronze-tier man paying a tax on every look. It isn't hiding. People still look. But the look lands, finds nothing worth a second one, and lets go. Tonight I saw it working on the two men on this bluff whose whole job is to look into doorways at night, and it worked better than I've ever seen it work, at a rate I wouldn't have believed from the rail.*
 
 *He isn't stopping them looking. He's making the look go bankrupt.*
 
@@ -102,7 +110,7 @@ At breakfast he read it to the other three over the porridge, in a low voice, be
 
 He spent the morning in the library, at the desk under the east windows, building the reader's night.
 
-It was the same arithmetic he had used on the ladder, when he had worked out who would meet whom from the climb rules and the drawn sessions. He had a population and some hours, and he wanted to know where the thin places in it were.
+It was the ladder's arithmetic over again: the sums he had done to find out who would meet whom from the climb rules and the drawn sessions. He had a population and some hours, and he wanted to know where the thin places in it were.
 
 Empty buildings were bad for anyone with a drawer to read in the dark. That had surprised him when he first saw it, and then it had not surprised him at all. Where nothing moves, one footstep is an event. One door opening at the fourth hour, with nothing else moving anywhere, would be the loudest thing on the bluff to anybody lying awake. What a man like that wanted was a building with a little life in it still: enough coming and going that one more door was nothing worth lifting a head for, and not so much that anybody was standing about in the passage when it opened.
 
@@ -152,7 +160,7 @@ Lira looked at the drawing for a long time: the yard door, the flight, the landi
 
 ---
 
-On the second night he came to the yard door at the second hour, in Brom's coat, and let himself through the gap where the door did not meet its frame. It was not locked. Nobody locked a door that led only to a stair, from a yard full of crates, in a house where nothing had ever been stolen.
+On the second night Cael came to the yard door at the second hour, in Brom's coat, and let himself through the gap where the door did not meet its frame. It was not locked. Nobody locked a door that led only to a stair, from a yard full of crates, in a house where nothing had ever been stolen.
 
 Inside it was so dark that for a moment he stood quite still, with one hand on the stone of the wall, and let his eyes do what they could. They did very little. Above him, high up, the half-landing's window was a narrow grey shape, the colour of a cloudy sky at night, and below it there was black. The stair went up into the black. He could smell old stone and dust and, faintly, damp.
 
@@ -178,15 +186,15 @@ He did not move.
 
 For a long time, perhaps a whole minute, nothing else happened. Then, below him in the dark at the foot of the stair, somebody walked across the stone floor of the little lobby inside the yard door, eight or nine feet, without any sound at all. At the end of the crossing, deliberately, one sole turned on the grit.
 
-It was a small sound. A sole turned on grit. It was exactly the sound anybody makes, a dozen times a day, without hearing it, and it was the only sound the whole night had made inside that stair.
+It was a small sound, the kind anybody makes a dozen times a day without hearing it, and it was the only sound the whole night had made inside that stair.
 
 Cael stayed as he was, silent.
 
-The person came up the lower flight. He knew that only because, after a while, the window's grey above him was partly blotted out, low down, by something moving across it: a shoulder in a dark coat, and under the arm a flat bundle of something, ledgers or papers, and above the shoulder no face at all, only the back of a head turned away up the stair. It passed along the outer edge of the landing, on the window's side, four feet from Cael's knees. Then it was on the upper flight, and gone up into the black above the window, and the window was a plain grey shape again.
+The person came up the lower flight. Cael knew that only because, after a while, the window's grey above him was partly blotted out, low down, by something moving across it: a shoulder in a dark coat, and under the arm a flat bundle of something, ledgers or papers, and above the shoulder no face at all, only the back of a head turned away up the stair. It passed along the outer edge of the landing, on the window's side, four feet from Cael's knees. Then it was on the upper flight, and gone up into the black above the window, and the window was a plain grey shape again.
 
 The ninth step had kept silent.
 
-He sat in the corner with his hands flat on his knees and his heart going hard and quick against the inside of Brom's coat, and slowly, from the top of his head downward, the stairwell went back to being an ordinary dark stair with one person in it.
+He sat in the corner with his hands flat on his knees and his heart going hard and quick against the inside of Brom's coat, and slowly, from the top of his head downward, the stairwell went back to being an ordinary dark stair, with a boy on its landing and nobody else that he could feel.
 
 ---
 At the half of the fourth hour, when the stair had been an ordinary dark stair for a long time, he decided he had his evidence and need not wait for the fifth. Whatever had gone up had gone up to stay. He felt his way down the lower flight, stepping over the ninth step without needing to count, out through the gap of the yard door, and the long way round to the second quadrangle. Lira's lamp was lit, low. He put his hand up, and her hand came flat against the glass.
@@ -199,9 +207,9 @@ In his room the chair was too much. He put his back to the bed frame on the floo
 
 *And the lobby. He crossed it, the bit of stone floor inside the yard door, while the last library readers were going home along the walk on the other side of the range. The building was full of small footsteps just then, none of them his. He put his own inside theirs.*
 
-*So: the half of this Path that I've never charted. I've only ever drawn it standing still, on rails and galleries, where it makes eyes slide off. On the move it works on ears instead, and on time. It doesn't make him quiet. It makes him part of whatever noise the building is already making, so there's never a sound that's his alone to notice.*
+*So: the half of this Path, Shadow, Bronze tier, that I've never charted. I've only ever drawn it standing still, on rails and galleries, where it makes eyes slide off. On the move it works on ears instead, and on time. It doesn't make him quiet. It makes him part of whatever noise the building is already making, so there's never a sound that's his alone to notice.*
 
-*Two parts, then. One for eyes, one for ears and moments. Not one tool used two ways; two tools. I'd put money on their not costing him the same.*
+*Two components, then. One for eyes, one for ears and moments. Not one tool used two ways; two tools. I'd put money on their not costing him the same.*
 
 He read that part over and was satisfied with it, as far as it went. Then he made himself write the part he was less easy with.
 

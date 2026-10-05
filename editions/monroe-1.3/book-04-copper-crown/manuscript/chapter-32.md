@@ -165,6 +165,16 @@ They sat down and wrote. Gwen wrote it in capitals and underlined it twice and t
 
 "I've never argued with a door before," she whispered. "I think I won."
 
+At the end of the hour Seln set the written exercise without looking up from the ledger, in the same voice he used for everything: *what each position argued, and where the argument failed, one page.* Then he said, "Next week, a crowd," and was gone before the scrape of chairs had finished, so that nobody saw him leave either.
+
+Gwen walked out with Cael as far as the covered walk, talking the whole way. Her aunt at Fenmark had said assessors were born, not made, but her aunt had also said that about pastry, and her aunt's pastry was terrible. She had wanted to be an assessor since she was seven. Was it true that the assay provision meant he could never lose a bout? Somebody in the Current hall had said so.
+
+"No," said Cael. "The assay provision means I have to prove myself in front of a panel every semester, against my baseline. If I can't, it's written down, and I'm out."
+
+Gwen thought about that for six paces.
+
+"That's much worse," she said, with deep respect, and went off toward the Current hall to tell somebody.
+
 Cael wrote it down in his ordinary hand under the date, and under that he wrote, honestly, what his position had argued: *the second-best place, because the best one was taken.* He did not write why he had wanted the second-best. He looked up once, at the end of the hour, and found Seln at the slate reading the Stone girl's page over her shoulder, flatly, with a pencil in his hand, as if a records hall and a fourth-hour lamp and a copy carried across his desk at the ninth bell were things that had happened somewhere else, to some other wing.
 
 ---
@@ -173,7 +183,7 @@ At the long table in the common room, before supper, he set the decision down on
 
 *Going out tonight, to watch the records hall. Observation only. I will not interfere with whoever is reading the provision files, and I will not try to stop them, and I will not go inside the building. If anybody on the staff finds me there at that hour, it costs me the enrollment. That record is the one true thing ever set down about me by anybody.*
 
-It sat on the page a long while before he wrote anything else. Under it, after a time, he added four words more. They looked exactly as bad as they were, and he let them stand.
+It sat on the page a long while before he wrote anything else. Under it, after a time, he added four words more. They looked every bit as bad as they were, and he let them stand.
 
 *Priced. Going anyway.*
 
