@@ -142,6 +142,42 @@ Lira looked at him for a moment, and then put two fingers on her own wrist and s
 
 ---
 
+Keth caught him the next dawn, on the far side of the floor, where the newcomers' ring was chalked out on the stone in a circle that had been rubbed and redrawn so often it had a ghost of itself round it.
+
+Keth ran the ring at first light, before the sweepers, for anybody who turned up. He was a Blade who held his practice blade with the little finger off the grip, as if it had once been told to stay out of things and had never forgotten. Cael had a page on him, the one headed *No reason for this page*. The newcomers were at it already when Cael came in at the side door: the boy with the tooth, the girl with sacking in her hair, the tall slow lad, and four more, going at each other with sticks under Keth's eye while their breath went up in the cold.
+
+"They're yours," Keth said, when Cael came across. He did not say good morning either. Nobody in the Ironyard did, Cael had begun to notice, except the chestnut man. "The ones in the big man's alcove. Those three. They're mine first."
+
+"I know. I've seen them come down from here."
+
+"He asked me." Keth watched the tall lad lose his stick and go after it. "Before he gave them a copper. He came across here at dawn, the first week, and stood where you're standing, and said, *Your three. Can I pay them to hit me.* I said what for. He said, *They mean it.*" Keth's mouth moved at the corner. "I've run this ring a long while, and nobody's ever asked me whether he could borrow it."
+
+"Did you say yes?"
+
+"I said ask them." Keth turned the practice blade over in his hand, the little finger lifting off it as the grip came round. "They said yes before he'd finished asking. A copper's a copper." He was quiet for a moment, watching the girl with sacking in her hair. "But it's not the copper. Look at her."
+
+Cael looked. The girl was going at a boy of about her own size, and she was going at him in a way he had not seen her go at anybody a fortnight ago. Before, she had swung and shut her eyes, the way new people did, and flinched before the stick could touch her. Now she swung and kept them open. When the boy's stick came back at her she did not flinch from it. She watched it come.
+
+"Three days of hitting a man who sends it back at her," said Keth, "and she's stopped being frightened of the stick. I couldn't teach her that in a month. I tried." He said it plainly, without any sourness, the way he said everything, but Cael saw his little finger close on the grip and then lift off it again. "You can't tell somebody it's only a stick. They have to find out it comes back and they're still standing."
+
+"Are you sending him more?"
+
+"I'm sending him all of them." Keth looked at Cael then, for the first time. "What are you counting? Over there, on his bench. You've got your fingers on your arm like the chestnut man testing a coal."
+
+Cael thought about how much to say, and decided that Keth had told him something true and was owed something back.
+
+"The gap," he said. "After they hit him. Before he answers."
+
+Keth was silent a while. The tall lad had got his stick back and lost it again.
+
+"Everybody watches the hit," Keth said at last. "Or the answer, if they've any sense. Nobody watches the bit in the middle." He turned back to the ring. "That's a better thing to count than most of what you count. I've seen your book." And then, as Cael turned to go, without looking round: "Tell me what's in it. The middle. After."
+
+"After Tuesday?"
+
+"After you've found it." Keth lifted the practice blade, and the ring went quiet. "Again," he told the newcomers. "Eyes open."
+
+---
+
 By the fourth session the middle column had begun to fill, and he knew he had the right column.
 
 A newcomer's fist landed on Brom's forearm. Cael counted. Somewhere between the fist arriving and the newcomer going off sideways with his arm flung wide, there was a beat and a half. Not every time, but most times, on the first hit of a kind. When a fist came faster, the gap was shorter, about one. And when the same fist came the same way a second time, and a third, from the same newcomer, the gap shortened, down toward half a beat and sometimes less.

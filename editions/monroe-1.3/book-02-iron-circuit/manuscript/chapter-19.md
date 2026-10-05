@@ -102,13 +102,41 @@ He wrote it that night in the margin of the Power Log, where things went that we
 
 ---
 
+After that he could not sleep, so he wrote to Hesk.
+
+He had not meant to. He had a letter half begun on the shelf from a fortnight back, about the frost and the price of lamp oil and the heavyset man's wife's sister, and he had meant to finish that one in the ordinary way and post it on the market day. Instead he took a clean sheet and sat at the crate desk with his shoulder warm and stiff where Lira's staff had found it four times, and wrote the date, and then sat for a long while with nothing under it.
+
+The boy who was there before. She had made him sound like somebody else, somebody Cael had known once and lost touch with. He found that he could not see him clearly at all. He could see the road over the hills, the long brown shoulder of it in the rain, and the milestones going by with the numbers on them getting smaller. He could see the canvas post at the Cinder House with the stuffing coming out at the seams. He could not see the boy. He had been inside him, which was the trouble. You could not watch a person you were being.
+
+But Hesk had watched him. Hesk had watched him for years, across the kitchen table and in the wheel-house, and had hardly ever told him what he saw. He had said *mind your feet*, and *eat something*, and let the rest go unsaid.
+
+*Dear Hesk,* he wrote at last. *I have a big bout on Tuesday week against a man I can't read yet, and I'm not going to win it with anything I've learned since I got here. Lira says I have to leave the new things at home and fight with what I brought. So I've been trying to remember what I brought, and I find I don't know. I know what I carried. I had the bag and the first notebook and the clothes I stood up in. I don't know what the boy carrying them was like. You'd know. I'm not asking you to tell me, because the letter won't get to you before Tuesday, and anyway I think I'm meant to find out on the floor. I only wanted you to know I'm looking for him.*
+
+He read it over. It was not the kind of letter he wrote. His letters to Hesk were lists, mostly, because Hesk liked lists. They held what things cost, who had won, what the river was doing. This had no list in it at all.
+
+He added one at the bottom anyway, so Hesk would know it was him. *Bread: two of yesterday's for one of today's, before the bell. Lamp oil: up a copper. Lira: winning, nearly. Hip: fine.*
+
+Then he folded it and put it with the other, unfinished one on the shelf, and lay down. It would reach Denvash in about a week. Whatever happened on the main floor would have happened by then, and Hesk would read the letter at the kitchen table knowing nothing of it, in the twenty minutes of sideways light, and Cael would be the only one of them who knew how it had come out. He thought that there was something fair in that, though he could not have said what, and on the thought he slept.
+
+---
+
 He had two bouts in the fortnight besides Brom, small ones, booked before the main floor was chalked. He went into the first of them with his attention somewhere else and knew it.
 
 The man was a Blade from Orvet's gym in the tannery lanes, a square quick fighter with a red neckcloth in Orvet's colours. Cael had watched him one evening, which was one evening less than he liked. *What it's made of*, the page said, short. *Orvet's school. Taught to shout and go. Goes at the word, every time. Doesn't build long; doesn't need to. Primed to committed in about a beat. Hates being made to wait.*
 
 That was the page. He had meant to watch him a second time and had sat in Brom's alcove instead, with his fingers on his wrist, and so the page was what he took to the rope.
 
-The Blade went at the word, as the page said, and Cael went with his feet, as Lira had taught him, and the first exchange was all feet: the Blade coming and coming, Cael giving ground and turning. Twice the Blade's cut came close enough that Cael felt the wind of it on his cheek. He did not burst. He had decided, in the morning, that he would burst in this bout only when he had read the hinge first, and never otherwise, because he wanted to know something.
+It was a side-floor bout on a thin evening card, between a Stone pair nobody had come to see and a Force who had not turned up, and the room was half empty and talking. The chestnut man had his brazier going by the north post and the smell of it lay over everything. Orvet himself was at the rope on the Blade's side, a short man with a voice like a dropped pan, and he had brought four of his own in the red neckcloths, who stood behind him and shouted every time the Blade so much as rolled his shoulders. The Blade warmed up in front of them in short bursts, going at the empty air the way Cael had seen him go at men, with a shout on every cut. He looked very good doing it. Cael, watching from his own mark, thought that a fighter who looked that good warming up had usually been told so a great deal, and filed it under *What it's made of* without writing it down.
+
+Lira was on the near bench with her staff across her knees. Brom was not in the room at all. Cael had looked for him, without meaning to, and found the rope by the north post empty, and was surprised by how much room an empty place could take up.
+
+"Begin," said Vell.
+
+The Blade went at the word, as the page said, with a shout that made two people on the bench behind Lira jump. Cael went with his feet, as Lira had taught him that morning, and the first exchange was all feet: the Blade coming and coming, cut on cut, each one off the front foot and each one with the shout behind it, and Cael giving ground and turning, giving ground and turning, round the edge of the circle with the chalk line a hand's breadth from his heels. Twice the Blade's cut came close enough that Cael felt the wind of it on his cheek, and once it took a strip off the shoulder of his shirt, and Orvet's four roared.
+
+He did not burst. He felt the hip lean, twice, the old pull, and he let it lean and did not answer it, and the deciding cost him as Lira had said it would: on the second time, half a beat of nothing that the Blade's next cut very nearly filled. He had decided, in the morning, that he would burst in this bout only when he had read the hinge first, and never otherwise, because he wanted to know something. It was harder to keep to than it had been to decide.
+
+Near the end of the exchange he put his own short strike into the Blade's ribs, once, on his feet, ordinarily, as the Blade came past him. It was not a hard strike. But it was the first thing in the bout that the Blade had not chosen, and Cael saw the man's face change as it landed, very slightly, the way a man's face changes when a step he has taken a thousand times is not where his foot expected.
 
 In the second exchange he broke his own rule, and found out the other half of what he wanted to know.
 
@@ -133,6 +161,20 @@ The lock let go, and he was in the Blade's recovery with his short strike under 
 "Called," said Vell. "Hand up. Third exchange."
 
 Cael stood on the stone with his breath coming back easy and his hip only talking, not shouting, and thought about the two bursts side by side, the one that had found him and the one he had found. It was the same step. It had cost twice as much the first time, for no reason except that he had been late.
+
+The Blade got up on his own after a moment and came across the circle, rubbing his ribs under the red neckcloth, with Orvet's four gone quiet behind him.
+
+"In the second," he said. "You went somewhere. Sideways. It looked like it hurt."
+
+"It did."
+
+"In the third you went the same place and it didn't." The Blade frowned at him, not unkindly, as a man frowns at a sum that will not come out. "What changed?"
+
+Cael thought about telling him. It would have been easy, and the Blade had asked honestly, and there was nothing in it that would cost Cael anything on Tuesday. But he did not have it yet. He had one bout's worth of it, and a feeling, and one bout's worth of a thing said out loud to a stranger had a way of turning into something you believed.
+
+"I was late in the second," he said. "I wasn't, in the third."
+
+The Blade looked at him a moment longer, and then laughed, short, and shook his hand, and went back to Orvet, who began at once to tell him what he had done wrong in a voice the whole half-empty room could hear. Lira, on the near bench, had not moved. When Cael came off the floor she looked at his hip, and then at his face, and raised her eyebrows a very little, and he nodded, and she nodded back, and neither of them said anything at all.
 
 ---
 

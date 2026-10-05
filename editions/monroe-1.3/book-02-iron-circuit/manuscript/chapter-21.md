@@ -28,7 +28,7 @@ Lira read the drawing for a long time.
 
 "Two to test, one to take."
 
-"And if there's no gap? On the main floor, with six hundred people, and him trying?"
+"And if there's no gap? On the main floor, with the whole room watching, and him trying?"
 
 "Then I'll know there isn't." He closed the book. "That's worth knowing too."
 
@@ -65,6 +65,60 @@ Lira read it, and then read it again.
 "And I've got the boy who was there before them," said Cael. "You found him for me."
 
 She did not answer that. But she put her shoulder against his for a moment, the way she did, and left it there until Brom got up across the floor and put his coat on and went out by the side door into the cold.
+
+---
+
+Lira could not eat the night before Wendel, and the whole kitchen knew it, because the heavyset man's wife had made the thing with the onions that Lira had once eaten three helpings of and asked how to make.
+
+They were all at the table, which did not often happen. The heavyset man sat at the end with his elbows on either side of his plate. His wife went back and forth between the stove and the table and did not sit down, as she never did until everybody else had finished. And the sister sat across from Cael, a round quick woman with a voice that filled corners, who had come for a week at midsummer and was still there with the frost on the yard pump. The hen she had bought at the market had turned up again after four days in the coal box, and laid an egg there, and now would lay nowhere else. The sister regarded this as a judgment on the household and said so at every meal.
+
+"You're not eating," she told Lira, about halfway through.
+
+"I'm eating."
+
+"You're moving it about. I can see the bottom of the plate in exactly the same places." The sister turned to Cael. "And you. They say you've got the big one on the main floor. Tuesday. It's all down the market."
+
+"Yes."
+
+"And are you going to win?"
+
+The table went quiet. The heavyset man's wife stopped with the pan in her hand.
+
+"Probably not," said Cael.
+
+The sister put her fork down. She looked at him with an expression of the deepest disapproval, as if he had said something improper at the table.
+
+"Well, you can't *say* that."
+
+"It's what I think."
+
+"Then you think it in your room. You don't say it over the onions." She turned to her sister for support. "Did you hear him? *Probably not.* In my day a boy said he'd knock the other fellow into the river, whether he could or not, and then everybody felt better."
+
+"He tells the truth at table," said the heavyset man, from the end. It was the longest thing Cael had heard him say indoors. "Leave him be."
+
+The sister opened her mouth, looked at the heavyset man, and closed it again, which Cael had not known she could do.
+
+The heavyset man went on eating. Then, without looking up from his plate, in the same flat voice, he said, "I went down."
+
+Lira looked up.
+
+"A while back. The night you had the lad from the salt end. The one with the drum." He wiped his plate with a piece of bread, carefully, all the way round. "Stood at the back by the door. Never been in the place. Twenty years on this row and never been in." He ate the bread. "You gave him the first one and then you had him. I saw that much. I don't know the rest of it. But I saw you had him."
+
+Nobody said anything. The sister was looking at her brother-in-law as though he had grown a second head.
+
+"You never said," said Lira.
+
+"You never asked." He pushed his plate away. "I'll go down tomorrow."
+
+Lira looked at her plate for a while. Then she picked up her fork and ate the thing with the onions, all of it, steadily, without saying anything else, and when she had finished the heavyset man's wife took the plate away and put another helping on it without asking and set it in front of her, and Lira ate that too.
+
+Later, on the stairs, she stopped on the landing outside her door with her hand on the latch.
+
+"Twenty years," she said. "And he went down to see me."
+
+"He went down to see you win."
+
+"He went down to see me." She opened her door. "He didn't know I would."
 
 ---
 
@@ -214,25 +268,29 @@ They walked up the hill a little way in silence. At the corner where the row wen
 
 "Yes."
 
-"Why do you do it?" He nodded back down the hill at the Ironyard, and seemed to mean the whole of it: the bench and the book and the wrist and the middle column. "Most people who fight like you want something plain. Money. A number. Somebody to say well done who never did. I've watched you for longer than three weeks and I don't think you want any of those."
+"What's it for?" He tipped his head back down the hill toward the Ironyard, and seemed to mean all of it at once: the bench, the grey book, the two fingers on the wrist, the column ruled with a straightedge. "The ones I've met who fight like you, it's for something plain. Coin. A number in a book. A father. I've watched you longer than three weeks now. It isn't any of those."
 
-Cael stood on the corner and thought about it for longer than the question seemed to need. He knew the quick answer and did not want to give it to this man.
+Cael stood on the corner with the cold in his collar and thought about it for longer than the question seemed to need. There was a quick answer, and he had given it to the heavyset man and to Red Cap and once to a carter on the road, and it was true enough for them. He did not want to give it to this man.
 
-"To understand what I am," he said at last, "before anybody else gets to decide it for me." He looked at the lamp in the boarding-house window at the end of the row. "Somebody already tried once, when I was fourteen. They didn't have anything to put me in, so they gave me a word and closed the book. I'd rather work it out slowly, from what I can see, than take their word for it because they were quicker."
+"To understand what I am," he said at last, "before anybody else gets to decide it for me."
 
-Brom stood with his hands in his coat and looked at the same lamp.
+Brom waited. He was good at waiting; it was most of what he did.
 
-"I left my family's house for something next door to that," he said. "Not the same. Next door."
+"There's a page in a hall in Denvash." Cael looked along the row at the lamp in the boarding-house window, because it was easier than looking up. "It's got my name on it, and the day, and one word, and the word isn't a Path. They didn't have a row to put me in. So they wrote down the nearest thing to nothing they had, and shut the book, and the next boy came up." He put his hands under his arms. "That was them deciding. It took about as long as it takes to say it. I'd rather take a year and get it right, from what I can actually see, than walk about wearing their word because they were quicker."
+
+Brom stood with his hands in his coat pockets and looked at the same lamp. A cart went by at the bottom of the hill, late, with its lantern swinging, and they both watched it go.
+
+"My family had a page on me," he said. "Not in a hall. At home, in the long room. Nobody wrote it down. They didn't need to; everybody had read it." He was quiet a moment. "It said I was a thing to be put right. Kindly. With good letters." The corner of his mouth went in. "I left before they'd finished the putting."
 
 "I thought you might have."
 
 "Did you." It was not a question. "I don't say much."
 
-"You say it by leaving things out." Cael shrugged. "I've been watching too."
+"You read Vell's book from the front," said Cael. "Everybody else starts at the back, with the new names. Only somebody who grew up with a book on him reads one from the front, to see how it was kept." He shrugged. "I've been watching too."
 
-Brom looked down at him for a moment with an expression Cael had not seen on his face before, and could not have put a hook to.
+Brom looked down at him for a moment with an expression Cael had not seen on his face before, and could not have put a hook to. It did not look like surprise this time. It looked more like a man who has been carrying a thing a long way on his own, and has just found out that the person walking beside him could see the shape of it through the sack.
 
-"Five days," said Brom. "Dace has put the bill up for the door. Main floor." He turned to go on up toward the north gate, and then turned back, as he did, with one shoulder already gone. "I don't think I'll solve you on Tuesday. I don't expect to. I want to see what the first try looks like."
+"Five days," said Brom. "Dace has put the bill up for the door. Main floor." He turned to go on up toward the north gate, and then turned back, as he did, with one shoulder already gone. "I've never fought anything I couldn't read. I want to see what I do."
 
 He went off up the hill, and Cael stood on the corner and watched him go until the dark took him. Then he went home along the row to the boarding house, where the heavyset man was on the step with his arms folded.
 
