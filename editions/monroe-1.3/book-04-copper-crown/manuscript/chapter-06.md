@@ -1,6 +1,6 @@
 # Chapter 6 — Four Hundred and Twelve
 
-On the first full morning he was out of the quadrangle before the fifth bell had finished, with the observation notebook buttoned inside his coat and a single question to carry. He carried one into every new place. It kept his eyes honest.
+On the first full morning he was out of the quadrangle before the fifth bell had finished, with the observation notebook buttoned inside his coat and a single question to carry, as he carried one into every new place, because a question kept his eyes honest.
 
 The question was not *what is this place*. Karis already had that out of the prospectus, and she would have the rest of it out of the library inside a week. His was older and sharper, and he had brought it down from Greyvane in the same pocket as the notebook. *Why did they take me?* Every school he had stood in told one story across a desk and another in its stone. The desk story was for visitors. The stone story was in which roof got mended first and which teacher got the good hall, in what was weighed every week and what was left to the damp. Anybody willing to walk slowly could read it.
 
@@ -10,7 +10,7 @@ He walked the north edge first, where the three long halls stood with their high
 
 He did not try the key. He wrote that down too.
 
-The assessment wing had its own wall and its own gate, and through an open door on the ground floor he counted pieces of apparatus standing along a wall under cloths. There were eleven. He could guess the purpose of four. The library was the heavy-roofed building he had picked out from the bridge, and an accession board inside its door claimed forty-one thousand volumes in brass numerals. Karis, when he told her that night, said that accession boards counted everything a library had ever been given, including the things it had since burned for being damp, and that she would believe thirty-five.
+The assessment wing had its own wall and its own gate, and through an open door on the ground floor he counted pieces of apparatus standing along a wall under cloths. There were eleven, and he could guess the purpose of four. The library was the heavy-roofed building he had picked out from the bridge, and an accession board inside its door claimed forty-one thousand volumes in brass numerals. Karis, when he told her that night, said that accession boards counted everything a library had ever been given, including the things it had since burned for being damp, and that she would believe thirty-five.
 
 The residence was three quadrangles, and it was the residence that gave him the first true line.
 
@@ -38,31 +38,31 @@ He showed her the line about the rooms. She read it twice, and then gave it back
 
 *Rooms go to the ladder. Not to tier, not to need. To whoever looks as if they might bring something home for the school.*
 
-Greyvane had sorted by need, every time. It had been the whole of what Greyvane was, and the whole of what was wrong with it, too, because need was the one thing nobody could ever pay a bill with. Halcenvane sorted by something he did not yet have a word for. It had to do with how near a person stood to what the place wanted to become.
+Greyvane had sorted by need, every time. It had been the whole of what Greyvane was, and the whole of what was wrong with it, too, because need was the one thing nobody could ever pay a bill with. Halcenvane sorted by something he did not yet have a word for, something to do with how near a person stood to what the place wanted to become.
 
 ---
 
 On the third morning, at breakfast, he found an entry in the notebook that was not true.
 
-It was in his own hand, from the evening before, in the middle of a page of others like it: *Current Path, tall, dark braid, third year by the tag. Favours the right leg coming down stairs. Old injury, healed short.* It was a good entry. He remembered making it. He remembered the braid, and the stair outside the north hall, and the small hitch in the right leg on the second step down.
+It was in his own hand, from the evening before, in the middle of a page of others like it: *Current Path, tall, dark braid, third year by the tag. Favours the right leg coming down stairs. Old injury, healed short.* It was a good entry, and he remembered making it: the braid, the stair outside the north hall, and the small hitch in the right leg on the second step down.
 
 The tall girl with the dark braid came down the refectory steps past his table two at a time, light and quick, with nothing wrong with either leg at all.
 
-He watched her all the way to the hatch and back. He watched her sit. When she got up again to fetch water he watched her go down the two steps to the pump trough, and then come back up them, and there was no hitch.
+He watched her all the way to the hatch and back, and watched her sit. When she got up again to fetch water he watched her go down the two steps to the pump trough, and then come back up them, and there was no hitch.
 
 He went back through the notebook, very slowly.
 
-He had sixty-three entries from three days. He went through every one of them, asking of each the same question: *Did I see this, or did I fill it in?* For most he could not tell. That was the thing that turned him cold, sitting at the long refectory table with his porridge going hard in the bowl. It was not that some of the entries were wrong. Any method made mistakes. It was that he could not tell the wrong ones from the right ones by looking at them. They were all in the same hand, in the same confident sentences, with the same small details. The limp had been real. He was nearly sure the limp had been real. It had belonged to somebody else, a boy perhaps, somewhere on the same stair, and at some point between the stair and the notebook his mind had taken the limp off the boy and put it on the girl. It had done it so smoothly that he had never felt the seam.
+He had sixty-three entries from three days, and he went through every one of them, asking of each the same question: *Did I see this, or did I fill it in?* For most he could not tell. That was the thing that turned him cold, sitting at the long refectory table with his porridge going hard in the bowl. It was not that some of the entries were wrong, since any method made mistakes. It was that he could not tell the wrong ones from the right ones by looking at them, because they were all in the same hand and the same confident sentences, with the same small details, and not one of them carried any mark of where it had come from. The limp had been real. He was nearly sure the limp had been real. It had belonged to somebody else, a boy perhaps, somewhere on the same stair, and at some point between the stair and the notebook his mind had taken the limp off the boy and put it on the girl. It had done it so smoothly that he had never felt the seam.
 
 He went to the north hall after breakfast to find out where the seam was.
 
 A Force Path cohort was on the largest floor, twenty-two students and four instructors, running a rotation he had not learned. He sat on the gallery bench and did the thing he had been doing for three days without thinking about it. He ran the gaze across the floor, all four layers at once, rhythm and weight and breath and position, building each student as a live thing in his head and keeping them all moving.
 
-Then he did what he should have done on the first day. He chose one student, a stocky boy at the north end, and shut his eyes, and said under his breath what the boy was doing. He opened them and checked. He was right. He did it with two students, then four, then six. He was right every time.
+Then he did what he should have done on the first day. He chose one student, a stocky boy at the north end, and shut his eyes, and said under his breath what the boy was doing. He opened them and checked, and he was right. He did it with two students, then four, then six, and he was right every time.
 
 At nine he was right about eight of them.
 
-At eleven he was right about seven, and wrong about the other four in ways that sounded exactly like being right. He had a girl stepping off on her left foot who was stepping off on her right. He had a boy holding his breath at the top of a push who was breathing out. He had an instructor standing at the west end who was standing at the east. The wrong answers did not come to him blurred or doubtful. They came complete, with all their details, as clear as the true ones. When he passed a dozen, the gaze did not lose its grip and go vague. It went on handing him pictures, as sure and detailed as ever, with nothing behind them.
+At eleven he was right about seven, and wrong about the other four in ways that sounded exactly like being right. He had a girl stepping off on her left foot who was stepping off on her right. He had a boy holding his breath at the top of a push who was breathing out. He had an instructor standing at the west end who was standing at the east. The wrong answers did not come to him blurred or doubtful; they came complete, with all their details, as clear as the true ones. When he passed a dozen, the gaze did not lose its grip and go vague but went on handing him pictures, as sure and detailed as ever, with nothing behind them.
 
 He sat on the bench with his hands between his knees and made himself put a price on it, honestly, there and then, before he could start to make it smaller.
 
@@ -70,7 +70,7 @@ He sat on the bench with his hands between his knees and made himself put a pric
 
 *Bill: three days of pages. Mending them won't do. I can't tell the lines I saw from the lines the gaze made up, so every line goes.*
 
-He took the notebook back to his room at noon and cut the three days' pages out along the binding with Karis's penknife, borrowed. He folded them small and took them down to the stove in the quadrangle's common room and fed them in, one at a time, and watched each one go brown at the corners and curl and catch. Sixty-three entries. Some of them had been the best observation he had ever done. He did not know which.
+He took the notebook back to his room at noon and cut the three days' pages out along the binding with Karis's penknife, borrowed. He folded them small and took them down to the stove in the quadrangle's common room and fed them in, one at a time, and watched each one go brown at the corners and curl and catch. Sixty-three entries. Some of them had been the best observation he had ever done, and he did not know which.
 
 It took most of the afternoon to stop feeling sick about it.
 
@@ -78,7 +78,7 @@ It took most of the afternoon to stop feeling sick about it.
 
 He rebuilt it that evening in carrel eleven, because Karis had a door that shut and a lamp that did not smoke, and because he did not want to do it alone.
 
-He told her all of it first. She listened without interrupting, with her chin on her hand. When he had finished she was quiet for a while.
+He told her all of it first, and she listened without interrupting, with her chin on her hand, and was quiet for a while when he had finished.
 
 "You're trying to count every sheep on the hill," she said.
 
@@ -94,17 +94,17 @@ It came in three tiers. He named them as he wrote them, because a thing he could
 
 *Sampled.* These were people he would look at properly, but only at set times, one session in four, with the date written beside every entry, so that he would always know how old a thing was before he leaned on it.
 
-*Structural.* This was everybody else. He would not hold them as people at all. He would hold them the way the tithe man held the folds he never opened: as a cohort and a drill and a habit, as how a group moved and what its instructors kept correcting, as where its middle sat. He would write a whole hall down in four lines and know he was doing it.
+*Structural.* This was everybody else, and he would not hold them as people at all, but the way the tithe man held the folds he never opened: as a cohort and a drill and a habit, as how a group moved and what its instructors kept correcting, as where its middle sat. He would write a whole hall down in four lines and know he was doing it.
 
-His pen did not want to write the third tier. To put it down was to admit, on paper, that the hill held four hundred people he had already chosen not to see properly. He made the pen do it. Then he boxed the reason, so that he would have to look at it every time he opened the page.
+His pen did not want to write the third tier, because to put it down was to admit, on paper, that the hill held four hundred people he had already chosen not to see properly. He made the pen do it. Then he boxed the reason, so that he would have to look at it every time he opened the page.
 
 *This tier is here because the other way invents people. Better a fold I know I never opened than a sheep I wrote down that was never in it. The tithe man isn't lazy. He's telling you which numbers he counted.*
 
 "Who goes in the eight?" said Karis.
 
-He had been afraid she would ask that. He had not let himself think about it yet, and now that she had asked it, he saw why.
+He had been afraid she would ask that, and had not let himself think about it yet, and now that she had asked it he saw why.
 
-At Greyvane there had been no choosing. Nine people had been the most on any floor, and he had held every one. Here he would have to choose. Choosing meant putting down on paper, privately, his own ranking of who on this bluff was going to matter. It meant deciding which nine-tenths of the people around him would be weather.
+At Greyvane there had been no choosing, because nine people had been the most on any floor and he had held every one. Here he would have to choose, and choosing meant putting down on paper, privately, his own ranking of who on this bluff was going to matter, which was the same as deciding which nine-tenths of the people around him would be weather.
 
 "It's a ladder," he said slowly. "It's my own private ladder. I'm going to rank people by whether they'll matter, before I know them, and then I'll only look properly at the ones I've already decided matter."
 
@@ -114,7 +114,7 @@ He wrote three names and stopped. *Bracken.* *The Blade instructor, Rooke, whom 
 
 *Eight is a ceiling, not a target. Leave room. Whoever earns a line, earns it on the page, with a date.*
 
-The five blank lines sat under the three names. They made him less uneasy than he would have expected. A list with room in it was a list that could still be wrong out loud.
+The five blank lines sat under the three names, and they made him less uneasy than he would have expected. A list with room in it was a list that could still be wrong out loud.
 
 Karis leaned over and read the three names upside down.
 
@@ -134,15 +134,15 @@ That one he could not answer. He put the notebook away, and she let him, and the
 
 ---
 
-He kept the Crown yard back until the sixth morning on purpose. He wanted the whole bluff understood first, so that when he finally stood in the middle he would know what it was the middle of.
+He kept the Crown yard back until the sixth morning on purpose, because he wanted the whole bluff understood first, so that when he finally stood in the middle he would know what it was the middle of.
 
 He went at dawn, when it was empty, and he did not go to the seats. He went down onto the floor.
 
-It was dressed stone, sixty feet by forty, laid so close that he could not get a fingernail into the joints. And it was sunk. The whole floor lay four feet below the ground around it, with three short flights of steps going down into it. The tiered seats did not rise from the floor's edge the way the benches at Greyvane had risen. They rose from the ground's edge, from above. He stood in the middle of the stone floor and turned slowly round, and on three sides the seats went up and back from a point above his head, row on row, pale and empty, and every one of them was looking down at him.
+It was dressed stone, sixty feet by forty, laid so close that he could not get a fingernail into the joints. And it was sunk. The whole floor lay four feet below the ground around it, with three short flights of steps going down into it. The tiered seats did not rise from the floor's edge the way the benches at Greyvane had risen, but from the ground's edge, from above. He stood in the middle of the stone floor and turned slowly round, and on three sides the seats went up and back from a point above his head, row on row, pale and empty, and every one of them was looking down at him.
 
 That had been meant. Somebody had dug a hole and put the fighting at the bottom of it, so that a thousand people could sit above and look down on two. He stood at the bottom of it in the grey light and felt it on the back of his neck, the way he had felt the gaze of a full gallery at Greyvane, though there was nobody here at all.
 
-He counted the seats. It took a while. He made it a little over eleven hundred, which was more people than Halcenvane had enrolled. So the yard was not for the students alone. It was for the town, and for visitors, and for whoever the academy wanted to show something to.
+He counted the seats, which took a while, and made it a little over eleven hundred, more people than Halcenvane had enrolled; so the yard was not for the students alone, but for the town, and for visitors, and for whoever the academy wanted to show something to.
 
 The fourth side of the yard, the open side, had a raised stand for faculty, a long table with a registrar's chair, and four boards painted black and mounted on the wall behind them.
 
@@ -170,7 +170,7 @@ He read them and wrote them down as he went, in the shorthand he kept for things
 
 He added it while the porter was still talking. The Copper and the Iron together came to three hundred and forty-seven, and the sixty-five on the short board brought it to four hundred and twelve.
 
-Until that moment he had not known how many people the bluff held. Standing there he saw that he still did not. What the porter had given him was a tally of papers. The Gold fellow was not in it, because the brackets had run out of room above her. And he was not in it either. The brackets had never had a column for him at all. There were two people on this bluff that the boards could not describe, one at the top and one off the side, and neither of them appeared on any wall.
+Until that moment he had not known how many people the bluff held. Standing there he saw he still did not. What the porter had given him was a tally of papers. The Gold fellow was not in it, because the brackets had run out of room above her. And he was not in it either. The brackets had never had a column for him at all. There were two people on this bluff that the boards could not describe, one at the top and one off the side, and neither of them appeared on any wall.
 
 *The bracket lines look like they tell you who's good,* he wrote, on the steps afterward. *What they tell you is how many there are. Where the count runs thin, the school gives up dividing and calls whatever's left Silver.*
 
@@ -200,9 +200,9 @@ The porter stopped wiping.
 
 He took Brom down to Ostrand on the ninth evening, because Brom needed new wraps before his first cohort hour. He had been assessed that morning in the east hall and placed in the Blade instructor's cohort, and the first hour was set for the following week. About the assessment he had said only that the cohort was fast, and Cael had decided not to ask him for more.
 
-They crossed the bridge on foot. Brom paid. On the river street, in the long light, they walked past what Cael had come down to see. There was not one practitioners' outfitter in Ostrand but a whole row of them, five within a hundred yards of the bridge foot, every one with wraps and soft-soled shoes and padded jackets in its window. The prices were lower by a third than anything in Ardenmere. Five shops in one street selling the same thing meant a great deal of it was being bought, every season, by somebody. Along the river road the boarding houses had painted boards out by their doors. *Term lets. Rooms by the term. Academy families welcome.* The paint had been laid on so often that the letters had gone soft and thick at their edges.
+They crossed the bridge on foot, and Brom paid, and said very little on the way over. He walked a little faster than usual, and twice Cael caught him turning his right hand over and looking at the back of it, the way he looked at a joint after a fall to see whether it had swollen, though he had not fallen and nothing on him was swollen. Cael watched him do it the second time and did not ask. Brom had a face on him that was not ready yet, and Brom always came out with things in his own time and never before.
 
-Brom did not say much on the way down. He walked a little faster than usual, and twice Cael caught him turning his right hand over and looking at the back of it, the way he looked at a joint after a fall to see whether it had swollen. He had not fallen. Nothing on him was swollen. Cael watched him do it the second time and did not ask, because Brom had a face on him that was not ready yet, and Brom always came out with things in his own time and never before.
+On the river street, in the long light, they walked past what Cael had come down to see. Every second shop near the bridge foot sold the same things, wraps and soft-soled shoes and quilted jackets hung in the windows like washing, and nobody kept a row of shops like that alive on passing trade: somebody up the hill was buying all of it, every season, by the cartload. Along the river road the lodging houses had boards out by their doors, *Term lets. Rooms by the term. Academy families welcome.*, freshly painted over older paint that said the same.
 
 "The whole town leans uphill," said Brom, reading the boards.
 

@@ -130,3 +130,57 @@ Plan deviations (what changed, why; canon impact: none / flagged):
 Formula check (formula_metrics.py: sentence mean/median, ≤5-word share, paragraph median, FRE, FK; progression hits per 10k; growth beats; POV words by character):
 Open threads opened / advanced / closed:
 ```
+
+
+## After Movement 1 (chapters 1–7; repair r1 applied 2026-10-04; recheck pending)
+
+**Coordinator rulings (override the author's end-state below):**
+- Entry reconciled to edition Book 3 (packet coordinator notes): the hearing as ruled; Ember acquired in the ch36 match; Karis has asked to read the Log; the box-seven gap untouched; registry "Caelen Hesk-ward, 41-7843-V"; courier calendar governs.
+- Bracken is "he" (default in force; owner may override). His letters begin in week 8 (one of Karis's six).
+- Bracken's fifteenth letter copies the directive's TRANSITIONAL ARTICLE as a plant only (two lines underlined; Karis skipped it and is cross) — nothing states Ilsev's Ch18 finding.
+- New canon (r1): in week 12 Cael finds a clause struck by name that is a "cousin" clause about registry clerks. The worst rumour (that his family gave him up) is on the page and corrected by Cael.
+- Lira's ladder registration is deferred (her own decision, per BOOK_MAP §6).
+- Ch7 ends on the baseline hook: *Gault writes it once.*
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Greyvane final term: wk 3 the find (Thursday-ish afternoon); wk 4 nine letters; wk 7 first replies; wk 8 Bracken's first (four questions); wk 11 the fourth (forty-one); wk 14 Thursday night the finding, letter to Bracken next morning; wk 16 the other three file transfers; wk 17 the fifteenth letter; wk 19 counsel's seal to Naveth; wk 20 rematch (first bell); wk 21 Thursday Quenna; wk 22 Monday Naveth's notice, Wednesday Wray and packing, Thursday Prynn at the gate and departure. Four days' road. Arrival at Halcenvane = **five months and nine days after the ruling**. Then Halcenvane days 1–21: day 2 the rooms; day 3 the method failure and triage; day 6 the Crown yard; day 9 Brom assessed and placed, Ostrand; day 11 the log; day 13 the hatch; day 14 the faculty session (Rooke); about day 16 the carrel appeals; day 19 Withrow; day 21 the assessment notice. No season named at Halcenvane.
+
+**Cael — body.** Hip strain from the rematch: the line crest to inner knee the same evening, three days off held, given back on the fourth morning. Forearms ached after the bout (shells bursting on the guard); gone. Pivot on the second figure mended (Wray confirmed). Fit and sound at movement end.
+
+**Fragments & progression.** Five confirmed; no change. Wind: four bursts in eight exchanges against Edran (one over the stone ceiling of three free), the fourth half an inch short with the landing beat longer than ever felt; Wray's instruction to re-measure the ceiling on Halcenvane's floors (not yet done). The east hall's timber floor "gives and returns" (noted, not tested). Read: a new technique, reading the off-arm *shift* and then waiting for the arm, because the shift can be fed empty. Pressure, Compression, Ember unused. The Tide anomaly is not mentioned in this movement (BOOK_MAP keeps it to M5 and M9).
+
+**Method.** The compound gaze fails past nine and before twelve subjects, *confidently*. Triage: **standing** (eight, hard cap, three names entered: Bracken, Rooke, the porter; five blank), **sampled** (one session in four, dated), **structural** (aggregate). Three days of notes (sixty-three entries) burned.
+
+**Power Log / notebooks — quotable.**
+- Rematch log (ch 3): margin one exchange, perhaps none; the off-arm recovery; the correction; four bursts, one over; "Without the fourth there's no eighth exchange, so I'd pay it again. That isn't the same as saying it was cheap."
+- Term close (ch 4): *Greyvane. Twenty-two weeks. A word found and not killed. A bout won by one exchange, perhaps none. A sentence from Quenna and a book from Prynn, and both of them meant more than they said. / Done. Tomorrow, the river.*
+- Enrolled (ch 5): protected lines with the author's middle paragraph; *I'd have paid more.*
+- Day 11 (ch 6): standing paid in standing; two outside the count.
+- Fame finding (ch 7) and the closing roof entry: *Not settled. Filed. Look again in a year.*
+
+**Documents created.** Halcenvane enrollment record (signed twice; Bracken's folder marked *94 min.*); Lira's intake sheet with the flag's dispatch date and the clerk's initials; Prynn's index (50+ pages, three-way cross-reference, shelf-marks, tick/cross/line marks; Karis copying it); Karis's grey-string bundle of Bracken's letters; Karis's one-line reply (*Agreed, by a different road. I'd rather have yours than my own. K. Dellenmoor.*); Naveth's transfer notice; the posted minute of the faculty session; Withrow's ruled sheet (kept by her); the assessment office's notice (day fixed "within the month", posted two days before).
+
+**Knowledge.** Unchanged on the mechanism (Lira, Brom, Karis). The copy stays buttoned in Karis's coat, unnamed. Bracken knows Cael's registry name and number, the bracketed designation, Hesk's name, and the observer-track admission (Cael's own line). Withrow, Rooke, Bracken know the transcript; Withrow has read it four times.
+
+**Relationships.** Edran: a hand offered for the first time; "Third one someday." Quenna: the sentence and two fingers on the sleeve. Prynn: the index and the gap. Naveth: "It is the right house." Wray: "measure again" and "find somebody there who'll break your count on the third pass." Bracken: rigour on Cael's behalf; the four stacks. Withrow: the ledger. Rooke: not met; on the list. The hatch woman and the wrap-maker: unnamed.
+
+**Companions.** Lira: Copper R2 formal; flag sent to the registry queue with a dated sheet; ladder registration deliberately not yet made; counting the watchers ("Four hours. To the bell."); Copper bracket. Brom: standard enrollment; assessed on the ninth and placed in Rooke's Blade cohort; first cohort hour the following week; silent about it. Karis: standard; research standing pending; carrel eleven with a key; copying Prynn's index; the tournament appendix read; seventeen.
+
+**Compact / watchers.** Greyvane: five, open. Road: seven faces, five changes, never fewer than two, three at junctions and inns. Halcenvane: two at the ferry landing, two at the bluff road's foot, changing every four hours (Lira's count). No contact.
+
+**Open threads now.** The entry demonstration date and what to put in the baseline (Karis's warning); Wray's re-measure; the timber floor's give; the low hall locked from outside; the five blank lines in the eight; Brom's silence about the east hall; Lira's registration; Karis's two registry offices; the inspection "sooner"; Rooke's dated objection; Vell's reply; Prynn's gap; the copy in the coat; Edran's third bout.
+
+## New canon minted (flag for approval where marked)
+
+- **Calendar of the term (deviation, flagged):** Bracken is one of Karis's nine week-4 correspondents; his letters begin in wk 8 (four questions), the fourth in wk 11 (forty-one), the fifteenth in wk 17 (no questions). The source places the letters in wks 14–19. Twenty-two in all; he writes by every coach without waiting for answers.
+- **Bracken's fifteenth letter** reaches the finding from Halcenvane's charter article backward and cites the directive's **transitional article** as presupposing enrollments under the clause. This plants, early, a ground Ilsev's protected finding (Ch18) uses. **Flag:** acceptable as a plant, or should the transitional article be left for the charter session?
+- **Counsel's letter (wk 19):** verifies the architecture; the chancellor has directed an enrollment "effective at the start of their next term, on the satisfaction of an entry demonstration"; endorsed *Seen. Withrow.*
+- **Exhibition format (Wray's written terms):** eight exchanges on the instructor's count, standings rules, each to the cleaner touch or called even; nothing to head or joints; any fragment the record carries is lawful. Two chairs (Wray, Quenna); the third left empty.
+- **Edran's rebuild (mechanism):** stance lower by most of a hand; off arm carried forward and close, so recovery is already in place when the lead bursts; reach traded for the half-beat. He learns the shift-read in one exchange and feeds it empty.
+- **Prynn's index:** "more than fifty" pages, sewn, grey cloth boards; ticks sound, crosses struck, lines unverified.
+- **Halcenvane details:** the toll board's nine lines (incl. a one-copper first-week enrollee line on the gate list); intake's eight shrouded desks; the library committee's eleven-clause access schedule with a written appeal to the chancellor; the timber east-hall floor; the low hall locked from outside with the key on a nail; seeded students get first pick of rooms; the porter chalks and polishes the crowns; the Copper Crown's plate riveted on twice; the crowns kept in a glass case in a long room on the first floor of the administration range; the clerk posts session minutes on the board by the theater door.
+- **Withrow:** past sixty, white hair cropped short; her want ("I mean to have done something with this chair before I hand it on"); "forty years" of ambition and belief in one coat (rounding, no age stated).
+- **The eleven rumours** (author's own list; the source's list is not reused) and the worst one: that his people gave him up to the registry.
+- **Brom:** "You always answer a carter."

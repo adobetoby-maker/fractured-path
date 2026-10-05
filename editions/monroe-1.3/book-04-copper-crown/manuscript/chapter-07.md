@@ -2,11 +2,11 @@
 
 The woman at the refectory hatch had been giving him extra since the first night.
 
-She was big and tired and kind, with flour worked into the creases of her knuckles, and she ladled stew as if every bowl were a small argument she meant to win. He had thanked her every time. On the thirteenth evening she leaned toward him over the hatch with the ladle still in her hand and lowered her voice, so that the line behind him would not hear.
+She was big and tired and kind, with flour worked into the creases of her knuckles, and she ladled stew as if every bowl were a small argument she meant to win. He had thanked her every time, and on the thirteenth evening she leaned toward him over the hatch with the ladle still in her hand and lowered her voice, so that the line behind him would not hear.
 
 "I heard about your people," she said. "How they gave you over to the registry when you were small, once they saw what you were. Signed you away and never wrote you a line." Her eyes had filled. "And look at you, love. Look how you've come on, for all that. I wanted you to know somebody here thinks so."
 
-He stood at the hatch with the bowl in both hands and found that for a moment he could not say anything.
+He stood at the hatch with the bowl in both hands and found for a moment he could not say anything.
 
 He was thinking of a workbench in Denvash under a smoking stove, and a square careful hand teaching his own to make letters. He was thinking of a letter folded once, with no initial at its foot, because the man who wrote it had got up from the table the instant he was done.
 
@@ -14,9 +14,9 @@ He was thinking of a workbench in Denvash under a smoking stove, and a square ca
 
 She patted the back of his hand across the hatch, plainly not believing a word, and put another ladle in his bowl.
 
-He did not eat much of it. He sat at the end of the long table with the bowl going cold and the observation notebook open beside it, at the last page, where for twelve days he had been keeping a list he had never meant to keep.
+He did not eat much of it, but sat at the end of the long table with the bowl going cold and the observation notebook open beside it, at the last page, where for twelve days he had been keeping a list he had never meant to keep.
 
-It had started on the third day with a second-year in the corridor outside the north hall who had stopped talking as Cael passed and then started again a little louder. It had gone on from there. People here did not wonder what he was, the way they had at Greyvane. They told each other. Each of them had a version, and each version was finished, and no two of them were the same.
+It had started on the third day with a second-year in the corridor outside the north hall who had stopped talking as Cael passed and then started again a little louder, and it had gone on from there, because people here did not wonder what he was, the way they had at Greyvane; they told each other. Each of them had a version, and each version was finished, and no two of them were the same.
 
 The others had been bringing him more without being asked.
 
@@ -26,11 +26,11 @@ Karis had heard one on the third floor of the library, through the wall of the n
 
 Lira had brought three in one evening and refused to say where she had got any of them. He had been put out of two academies before Greyvane. He was twelve and small for it. He was twenty and lying.
 
-Now there were eleven. He went through them at the end of the long table while the refectory emptied round him, and he set them in order by how many mouths each had passed through on its way to him.
+Now there were eleven, and he went through them at the end of the long table while the refectory emptied round him, and he set them in order by how many mouths each had passed through on its way to him.
 
 Nearest the record stood one sentence: *made his argument in public, and the law turned out to say what he said it said.* That was so. As far as he could tell, it was held by the registrar and the chancellor and perhaps two others, all of whom had read the transcript.
 
-One mouth further out it became *beat the Compact in court.* That had not happened. A panel had found that the Compact's own schedule did not name him, and had dismissed a challenge for that reason and no other. But the two were close enough that putting the one right would only make him look as if he wanted to be thanked for being modest. He let it stand and hated letting it.
+One mouth further out it became *beat the Compact in court.* That had not happened: a panel had found that the Compact's own schedule did not name him, and had dismissed a challenge for that reason and no other. But the two were close enough that putting the one right would only make him look as if he wanted to be thanked for being modest. He let it stand and hated letting it.
 
 Past that they went wide. He had no Path at all. He had a secret one. He was a Gold in disguise. He was the Compact's kept boy. He had fought a Warden bare-handed and put him on the floor, which had never happened anywhere, and which he could not trace to anything at all. He had been put out of two academies. He was twelve. He was twenty.
 
@@ -52,15 +52,15 @@ Then he sat a while longer, and then he wrote the part that mattered.
 
 The first open session of the faculty fell on the fourteenth day, in the lecture theater. By charter, any enrollee who cared to climb the steps could sit in the back five rows and hear the school argue with itself.
 
-Lira had found out about it and saved him a place with her boot. He had expected the back rows to be empty. Instead there were sixty-odd students in them, some writing, most just watching, like people at the rail of a ring before the bout. Down on the floor of the theater the faculty sat round a long table: forty of them, with Chancellor Withrow at the centre and a clerk at her elbow keeping the minute book. The theater could hold two hundred and forty. It felt full.
+Lira had found out about it and saved him a place with her boot. He had expected the back rows to be empty, and instead there were sixty-odd students in them, some writing, most just watching, like people at the rail of a ring before the bout. Down on the floor of the theater the faculty sat round a long table: forty of them, with Chancellor Withrow at the centre and a clerk at her elbow keeping the minute book. The theater could hold two hundred and forty, and it felt full.
 
-Withrow did not once glance up at the back rows. She did not send anybody out, and she did not drop her voice when the talk turned to things a school might want kept in the family. After a while Cael stopped waiting for her to. It was not carelessness. She meant the back rows to hear. A school whose quarrels were held where its students could listen could not pretend afterward that the quarrels had never happened. She had chosen that, some years ago, and she went on choosing it every term.
+Withrow did not once glance up at the back rows. She did not send anybody out, and she did not drop her voice when the talk turned to things a school might want kept in the family. After a while Cael stopped waiting for her to. It was not carelessness; she meant the back rows to hear, because a school whose quarrels were held where its students could listen could not pretend afterward that the quarrels had never happened. She had chosen that, some years ago, and she went on choosing it every term.
 
-The item came up a little after the half-hour. The clerk read its title off the agenda. *Enrollments resting on a provision: report of the registrar.* Bracken stood, spoke for less time than it took the sand in the clerk's glass to run, and sat. Nobody asked him anything.
+The item came up a little after the half-hour, and the clerk read its title off the agenda. *Enrollments resting on a provision: report of the registrar.* Bracken stood, spoke for less time than it took the sand in the clerk's glass to run, and sat. Nobody asked him anything.
 
 Then Instructor Rooke spoke from his chair.
 
-Cael had already put him on the list. He had stood nine minutes at the door of the east hall on the fourteenth morning and watched Rooke take the Blade cohort through a drill. He had hardly looked at the cohort. He had watched Rooke not moving. The man was Silver-tier and past fifty, narrow and grey, and he held still between corrections like somebody who had learned long ago exactly what each movement cost him and would not pay for one he did not need.
+Cael had already put him on the list. He had stood nine minutes at the door of the east hall on the fourteenth morning and watched Rooke take the Blade cohort through a drill. He had hardly looked at the cohort; he had watched Rooke not moving. The man was Silver-tier and past fifty, narrow and grey, and he held still between corrections like somebody who had learned long ago exactly what each movement cost him and would not pay for one he did not need.
 
 "The provision may be sound. The attention it buys us is not. I want it minuted that I said so before the inspection notice arrives, not after."
 
@@ -74,7 +74,7 @@ The pen started again. Withrow turned a page of her agenda. "Next, the bursar, o
 
 That was the whole of it.
 
-Cael ran the weight layer on Rooke for as long as the session lasted. Rooke's hands lay flat on the table. His breathing was low and even. He did not look at Withrow after she spoke, or at Bracken, or up at the back rows where the subject of his objection was sitting. There was nothing in him to find. There was no heat in him and no dislike, and no grudge that Cael could trace in any layer.
+Cael ran the weight layer on Rooke for as long as the session lasted. Rooke's hands lay flat on the table, and his breathing was low and even. He did not look at Withrow after she spoke, or at Bracken, or up at the back rows where the subject of his objection was sitting. There was nothing in him to find: no heat, no dislike, no grudge that Cael could trace in any layer.
 
 Afterward, on the way out, Cael stopped at the board by the theater door where the clerk had already pinned the session's minute. He read down to the item.
 
@@ -82,9 +82,9 @@ Afterward, on the way out, Cael stopped at the board by the theater door where t
 
 He stood reading it for longer than it needed.
 
-He had come to this bluff braced for the kind of opposition that showed in a body. He knew how to fight the kind that set its shoulders before it spoke and came at him across a floor. This was not that kind. Rooke had written down a price in public, before it fell due, so that nobody could ever say afterward that it had not been named. Cael had done the same thing with his own life every night for two years, in a binder, with nobody watching.
+He had come to this bluff braced for the kind of opposition that showed in a body, the kind that set its shoulders before it spoke and came at him across a floor, and he knew how to fight that kind. This was not that kind. Rooke had written down a price in public, before it fell due, so nobody could ever say afterward it had not been named. Cael had done the same thing with his own life every night for two years, in a binder, with nobody watching.
 
-He could not argue with it. He could not get past it on a floor. It was simply there, dated, on a board, in a clerk's hand, and it was very possibly right.
+He could not argue with it, and he could not get past it on a floor. It was simply there, dated, on a board, in a clerk's hand, and it was very possibly right.
 
 "Well?" said Lira, beside him.
 
@@ -116,9 +116,9 @@ The last line of the second appeal asked for gifts *toward the instruments by wh
 
 "The assessment wing," said Karis. "They pulled it down to its footings six years ago and built it up again. The new wall, the new gate, every piece of apparatus behind those cloths. It cost more than the library roof, and the money came from that appeal." She looked at Cael. "You wanted to know why they took you. You've been asking the buildings for two weeks. Here's what the buildings say."
 
-He stood in front of the four sheets. He did not need her to say the rest, and she did not.
+He kept his eyes on the four sheets. He did not need her to say the rest, and she did not.
 
-A school that wanted a tournament side needed standings, and to be trusted with standings it needed a name for running things properly. And here was the hardest thing to run properly that anyone had sent to any school in a generation. It was him: an enrollment with the Compact's eyes on it, a public ruling, and a panel every semester with an empty chair kept for the Compact. If Halcenvane could carry that without a single slip, in plain view, it could be trusted to carry a side. He was not a gamble the chancellor had taken. He was a proof the chancellor meant to show.
+Nobody had sent a school anything harder to run in a generation than an enrollment with the Compact's chair kept empty in its panel room, and a school that carried that in plain view without a slip could be trusted to carry a side. He was not a gamble. He was a proof.
 
 "That's a hard way to be wanted," he said at last.
 
@@ -138,7 +138,7 @@ The chancellor sent for him on the nineteenth day, to the long room on the first
 
 There was a case of glass on a stone plinth along one wall, and in it three crowns on three dark cushions with a brass plate under each. The Copper was the plainest of them, and the darkest, and worn bright along its top edge where a great many hands had lifted it. Its plate had been lengthened twice with new brass riveted on below the old.
 
-Withrow was standing at the case when he came in. She was a broad woman somewhere past sixty, with white hair cropped very short and a pair of spectacles pushed up into it. She was holding a single sheet of paper.
+Withrow was standing at the case when he came in, a broad woman somewhere past sixty with white hair cropped very short and a pair of spectacles pushed up into it, and she was holding a single sheet of paper.
 
 "I'm told you take buildings apart," she said, without turning round.
 
@@ -152,11 +152,11 @@ She did not answer it in words. She held out the sheet.
 
 It was ruled down the middle. She had written in a broad square hand on both sides of the rule, and he read it standing in front of the case with the three crowns at his shoulder.
 
-The left column was what he would cost her. An inspection, sooner than her charter's cycle required, from an office with power over that charter, asking questions it would choose and she would not. Then a public failure, if the enrollment failed, which would be counted as Halcenvane's failure and not the clause's. Withrow noted in the margin that a tournament committee did not forget a school that dropped a thing in front of the whole registry, not for ten years at the least. And the plain running cost of him: a full panel every semester, faculty hours, apparatus, and the whole of Bracken's winter, which by rights had belonged to four hundred and twelve other people.
+The left column was what he would cost her: first an inspection, sooner than her charter's cycle required, from an office with power over that charter, asking questions it would choose and she would not; then a public failure, if the enrollment failed, which would be counted as Halcenvane's failure and not the clause's. Withrow noted in the margin that a tournament committee did not forget a school that dropped a thing in front of the whole registry, not for ten years at the least. And the plain running cost of him: a full panel every semester, faculty hours, apparatus, and the whole of Bracken's winter, which by rights had belonged to four hundred and twelve other people.
 
-The right column was what he would bring her. A name, among the registry's clerks, for being the school whose paperwork held when the hardest case on the continent leaned on it. A serious practitioner, which was worth having on any hill whatever his file said. And something to prove things with, since she had a great deal to prove and, at a school of her size, very little to prove it with.
+The right column was what he would bring her: a name among the registry's clerks for being the school whose paperwork held when the hardest case on the continent leaned on it, and a serious practitioner, which was worth having on any hill whatever his file said. Last came something to prove things with, since she had a great deal to prove and, at a school of her size, very little to prove it with.
 
-He read both columns twice. Then he gave the sheet back.
+He read both columns twice and gave the sheet back.
 
 "That's three and three," he said. "They're honest. They're the ones you'd give your council." He hesitated, and then said it anyway. "But they're not why."
 
@@ -168,11 +168,11 @@ She turned back to the case, and spoke to the Copper Crown on its cushion rather
 
 "I read the hearing transcript four times. Not the summary — the transcript, all sessions, all exhibits. The law is on your side of it. I spent twenty years inside that registry. I know exactly how rare that is."
 
-Below the tall windows the Crown yard lay empty in the afternoon. Far off across the bluff a bell marked the change of session. Neither of them moved.
+Below the tall windows the Crown yard lay empty in the afternoon. The session bell went faintly, a long way off across the bluff. Neither of them moved.
 
 "I'll tell you how rare," said Withrow, still to the case. "I could count the times on one hand and have fingers left, and I filed the other kind by the hundred. I put sound law in drawers for twenty years because it was inconvenient to the people above me. I was good at it." She turned round. "Nobody can make me put anything in a drawer now. And I mean to have done something with this chair before I hand it on."
 
-He did not say anything. He could not think of anything that would be the right size.
+He did not say anything, because he could not think of anything that would be the right size.
 
 "You'll want to know whether that's ambition or belief," said Withrow. "Don't ask me which. They've lived in the same coat for forty years, and I couldn't tell you where one stops. Count on both." She pulled the spectacles down onto her nose. "Was there anything else?"
 
@@ -188,7 +188,7 @@ The assessment office's notice was in his pigeonhole on the twenty-first morning
 
 He read it in the cloister by the pigeonholes, and then read the last sentence again on its own.
 
-Bracken had told him across a bare desk. It was a different thing to have it in a clerk's hand, folded, in his own pigeonhole, with a month on it. Whatever he did on that day would be written down and kept, and every semester after it somebody would lay his new numbers beside the old ones and look for the difference. He would be measured against himself for as long as he was here, and the first measure was the one he would carry the whole way.
+Bracken had told him across a bare desk, but it was a different thing to have it in a clerk's hand, folded, in his own pigeonhole, with a month on it. Whatever he did on that day would be written down and kept, and every semester after it somebody would lay his new numbers beside the old ones and look for the difference. He would be measured against himself for as long as he was here, and the first measure was the one he would carry the whole way.
 
 He found the others on the wall at dusk.
 
@@ -206,24 +206,24 @@ He passed the notice along the wall. Lira read it and gave it to Brom. Brom read
 
 Nobody said anything after that for a long while.
 
-Four of them sat on a wall above a river at the end of a day, as they had sat on a good many walls in a good many towns. For the first time, each of them had a road the other three were not on. Lira had a bracket and a queue and a date written on a sheet. Brom had a cohort he would not talk about yet. Karis had a carrel with a key and three floors of law below it. Cael had half a sheet of paper and a month. They had come through every gate together and would go on coming through them together. But past this one the roads ran four ways at once, and all of them could feel it.
+Four of them sat on a wall above a river at the end of a day, as they had sat on a good many walls in a good many towns, and for the first time each of them had a road the other three were not on. Lira had a bracket and a queue and a date written on a sheet. Brom had a cohort he would not talk about yet. Karis had a carrel with a key and three floors of law below it. Cael had half a sheet of paper and a month. They had come through every gate together and would go on coming through them together. But past this one the roads ran four ways at once, and all of them could feel it.
 
 He took the binder out and wrote the day while there was light enough.
 
 *Twenty-one days. Why they took me, as near as I'll get it this side of a year.*
 
-*At Greyvane two people believed something about me and put their names under it. Quenna bet her standing, and Naveth his steadiness on a witness floor, and between them they held a roof over me through a winter. That roof stood on two people. When I walked out of their gate I walked out from under it. It's theirs. It didn't come with me.*
+*Greyvane's roof stood on two people believing in me, and when I walked out of their gate I walked out from under it. Halcenvane's stands on a ruled sheet with the inspection written at the top in the chancellor's own hand.*
 
-*Here a woman showed me a ruled sheet with what I cost her on the left and what I'm worth to her on the right, and then told me the one line she leaves off it. Her school will be inspected on my account. She put that at the top of the sheet.*
-
-*So: which is the better roof? Belief rests on the people holding it up, and people get tired, or leave, or die. A reason rests on the sum staying in its favour, and I can see this sum. It's four boards on a wall, a tournament next year, and a wing built with money somebody begged for. I can climb up and look at a reason's beams. I can't climb inside a person.*
+*So which is the better roof? People get tired, or leave, or die. A reason only has to keep its sum, and I can see this one: four boards on a wall, a tournament next year, a wing built with money somebody begged for. I can climb up and look at a reason's beams. I can't climb inside a person.*
 
 He read that back. Then he wrote the rest, because a binder that kept only the comfortable half was no use to him.
 
-*I don't believe it. Not all the way. A reason holds until the day it costs more than it brings, and then it's gone, quickly, with a ledger to show why. Belief is whatever's left in the chair after the sum has turned. Quenna's sum turned against her in that hall in front of two hundred people, and she stayed in the chair one row back, exactly where I'd asked her to sit.*
+*I don't believe it, not all the way. A reason holds until the day it costs more than it brings, and then it goes, quickly, with a ledger to show why. Belief is whatever is still in the chair after the sum has turned, and Quenna's turned against her in front of two hundred people while she stayed in her chair one row back, exactly where I'd asked her to sit.*
 
 *The first kind of roof I can climb up and check. The second I can only live under. I have. It didn't fall in.*
 
 *Not settled. Filed. Look again in a year.*
+
+*The baseline I won't get to look at again. Gault writes it once.*
 
 He closed the binder. Across the river the waterfront lamps had come up along the whole length of Ostrand, and under the lamp at the ferry landing the two new grey coats had settled in for their four hours. Behind the four of them, in the dark hollow at the middle of the bluff, the boards stood on their wall with last season's names wiped clean, and nobody yet had chalked up this season's.

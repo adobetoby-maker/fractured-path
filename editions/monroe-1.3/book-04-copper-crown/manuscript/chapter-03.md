@@ -244,7 +244,7 @@ He dipped the pen and wrote the other one.
 
 *Without the fourth there's no eighth exchange, so I'd pay it again. That isn't the same as saying it was cheap. I went over my own ceiling to win a bout I'd promised myself I'd win inside it. Against somebody better, one burst over wouldn't have been enough, and I'd have been two over, or three, and still lost.*
 
-He read it back once. It was not flattering. He found that he did not mind.
+He read it back once. It was not flattering. He found he did not mind.
 
 Lira knocked and came in without waiting, as she did. She had a cloth folded in her hand, wet from the pump and cold enough that he could feel it across the room. She held it out. When he took it, she leaned over his shoulder and read the page in the binder without asking, all the way down to the last line, and straightened up.
 
@@ -256,4 +256,4 @@ She did not say anything about the sixth exchange or the fourth burst. She did n
 
 "And next time," said Lira, from the door, "don't make Wray choose."
 
-She shut it behind her. He sat with the cold cloth on his hip and the binder open in front of him, and thought that she was right, and that it was the best thing anybody had said to him all day.
+She shut it behind her. He sat with the cold cloth on his hip and the binder open in front of him, and thought she was right, and that it was the best thing anybody had said to him all day.

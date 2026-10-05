@@ -140,7 +140,7 @@ Then the clerk at the fourth desk called Cael's name.
 
 Registrar Bracken had a pen behind his ear and another in his hand and four stacks of paper on a desk with nothing else on it.
 
-The stacks stood a hand apart, squared to the edge, each with a narrow slip on top and a number on the slip in a small upright hand. Cael knew that hand from twenty-two letters. Bracken himself was a spare man in a grey coat, greying at the temples, with a clerk's stoop he corrected whenever he caught himself in it, so that every few minutes he seemed to grow an inch. He did not offer his hand. He pointed at the chair.
+The stacks stood a hand apart, squared to the edge, each with a narrow slip on top and a number on the slip in a small upright hand. Cael knew that hand from twenty-two letters. Bracken himself was a spare man in a grey coat, greying at the temples, with a clerk's stoop he corrected whenever he caught himself in it, so every few minutes he seemed to grow an inch. He did not offer his hand. He pointed at the chair.
 
 "You've read the letters," he said. "All of them?"
 

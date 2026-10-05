@@ -2,7 +2,7 @@
 
 The arm was the colour of a plum by midnight, as Vell had promised, and Lira came home late enough to see it.
 
-He was sitting up on the end of his bed with the sleeve rolled back and a cloth wrung out in the cold water from the jug laid over the bruise. He had been doing it every half hour since the card, because the heavyset man's wife had once told him it was the only cure for a bruise that cost nothing. He heard the street door and the low word on the step and her feet on the stairs, slower than usual, one at a time. Then she was in the door between the rooms, with her staff still on her shoulder and the practice-lamp smell of hot tin and smoke still on her coat.
+He was sitting up on the end of his bed with the sleeve rolled back and a cloth wrung out in the cold water from the jug laid over the bruise. He had been doing it every half hour since the card, because the heavyset man's wife had once told him it was the only cure for a bruise that cost nothing. He heard the street door, and the low word on the step, and her feet on the stairs, slower than usual, one at a time, and then she was in the door between the rooms, with her staff still on her shoulder and the practice-lamp smell of hot tin and smoke still on her coat.
 
 She looked at the arm.
 
@@ -10,7 +10,7 @@ She looked at the arm.
 
 "Mostly his."
 
-"Mostly his." She came in and sat down on the floor with her back against the wall under his window, which was where she sat when she was too tired for a chair and too awake for bed. She leaned the staff beside her. For a while she said nothing at all, and he went on with the cloth, and the house made its night noises round them.
+"Mostly his." She came in and sat down on the floor with her back against the wall under his window, which was where she sat when she was too tired for a chair and too awake for bed. She leaned the staff beside her, and for a while she said nothing at all, and he went on with the cloth, and the house made its night noises round them.
 
 "You want to know what I'm doing out there."
 
@@ -38,7 +38,7 @@ He thought of her crossing the street from collar pins for a whole winter, and s
 
 "Vell's book is the truest thing in this city." She said it without any doubt at all. "And Vell's book can write *Iron-equivalent* beside my name tomorrow, if I give her reasons, and it still won't open that gate. It's a different door. It opens onto the Ironyard and that's all it opens onto." She was quiet a moment. "I'm grateful for it. Don't think I'm not. But it's not the same door."
 
-The lamp ticked. He took the cloth off the arm and looked at it, and put it back.
+The lamp ticked, and he took the cloth off the arm and looked at it and put it back.
 
 "So you're trying to get through without the letter. The thing at night."
 
@@ -46,7 +46,7 @@ The lamp ticked. He took the cloth off the arm and looked at it, and put it back
 
 He sat very still on the end of the bed.
 
-It was his own method she was describing. It was the thing he did every week of his life: watch from the outside, find the shape of the thing from what it did, and build what nobody had handed him. She did it better than he did, in some ways. She knew what she was looking at. She had been taught the names. And at the end of his watching, for no reason either of them understood, a thing sometimes came, and was his, with somebody's habits still in it. At the end of hers nothing came. She could watch forever and only ever approach.
+It was his own method she was describing, the thing he did every week of his life: watch from the outside, find the shape of the thing from what it did, and build what nobody had handed him. She did it better than he did in some ways, because she knew what she was looking at and had been taught the names. And at the end of his watching, for no reason either of them understood, a thing sometimes came, and was his, with somebody's habits still in it. At the end of hers nothing came; she could watch forever and only ever approach.
 
 He did not say any of that. There was nothing in it she could use, and tonight there was a good deal in it that could cut.
 
@@ -64,11 +64,11 @@ She looked up at him sharply, as if he had come at her from a side she did not u
 
 "I want to be the best Wind practitioner alive."
 
-She said it plainly, the way she would have told him the price of bread. She did not look away from him when she said it.
+She said it plainly, the way she would have told him the price of bread, and she did not look away from him when she said it.
 
 "Not good. Not one of a few names people argue about. I want it to be the kind of thing nobody bothers to argue about, because they've seen me." She stopped, and her hands pressed down on the stone. "And I want it to go back. To the room. To the man at the desk with the slate who watched me do it better than the form and wrote down that I'd failed. I don't want him sorry. I don't want to stand in front of him and say anything. I've never once imagined saying anything to him." She shook her head. "I want him to hear about me in a way he can't get out of. Years from now, from somebody else, in some corridor. I want there to be so much of me that he can't go on thinking he was right."
 
-Cael did not try to answer it. There was nothing in it to answer. It was the shape of a thing, laid out on the floor between them, and she had not asked him to mend it.
+Cael did not try to answer it, because there was nothing in it to answer; it was the shape of a thing, laid out on the floor between them, and she had not asked him to mend it.
 
 But he had a thing of his own he had been carrying for weeks, and he had not known until this minute what it was for.
 
@@ -82,7 +82,7 @@ Her head came up.
 
 "I have not."
 
-"You have." He kept his voice level. He had learned that from Vell: a thing said level was harder to throw back than a thing said hard. "I've watched you fight five times since the summer. Not the mornings. The real ones, at the rope, with the book open. Every one of them had a place in it where you could see two lines. One was fast and close and might have gone wrong. The other was slower, and safe, and won." He held up his good hand and counted on it. "The Shield girl from the salt end, third exchange. You had the inside and you took the outside. The Blade with the long arms, second exchange, same. Every time. I counted. You see both lines, Lira. You always see both. And every time you take the one that keeps the win."
+"You have." He kept his voice level, as he had learned from Vell, because a thing said level was harder to throw back than a thing said hard. "I've watched you fight five times since the summer. Not the mornings. The real ones, at the rope, with the book open. Every one of them had a place in it where you could see two lines. One was fast and close and might have gone wrong. The other was slower, and safe, and won." He held up his good hand and counted on it. "The Shield girl from the salt end, third exchange. You had the inside and you took the outside. The Blade with the long arms, second exchange, same. Every time. I counted. You see both lines, Lira. You always see both. And every time you take the one that keeps the win."
 
 "Because it wins."
 
@@ -92,7 +92,7 @@ She opened her mouth and shut it.
 
 "You've never once meant to get hit. Not since I've known you."
 
-Lira sat against the wall with her hands flat on the floor and looked at him. He watched the argument go across her face, the whole of it, all its exchanges, the way he watched a bout. First came the flare, and then the reasons, and then a long hard look at the reasons, turning them over to see whether they were made of anything. He saw her find the Shield girl from the salt end in her own memory, and the third exchange, and the inside line she had not taken. He saw her find the next one.
+Lira sat against the wall with her hands flat on the floor and looked at him. He watched the argument go across her face, the whole of it, all its exchanges, the way he watched a bout. First came the flare, and then the reasons, and then a long hard look at the reasons, turning them over to see whether they were made of anything. He saw her find the Shield girl from the salt end in her own memory, and the third exchange, and the inside line she had not taken, and then he saw her find the next one.
 
 "I've been winning cleanly."
 
@@ -104,7 +104,7 @@ Lira sat against the wall with her hands flat on the floor and looked at him. He
 
 She stopped.
 
-He saw her stop. It was not only the argument. It was something underneath it that had been going a long time without her noticing, the way a wheel goes round in the dark. It stopped, and for a moment she sat quite still against the wall, with nothing going round at all.
+He saw her stop, and it was not only the argument that stopped but something underneath it, something that had been going round a long time without her noticing, the way a wheel goes round in the dark. It stopped, and for a moment she sat quite still against the wall, with nothing going round at all.
 
 "Next bout I take the other line. The fast one. Every time I see it." She looked at the bruise on his arm. "And when it goes wrong I'll let it go wrong where everybody can see."
 
@@ -132,7 +132,7 @@ Cael came down the hill late, with the arm in a sling made of his old grey scarf
 
 "I don't want clean wins."
 
-Dace studied her for a long moment. Then he looked past her at Cael, and at the sling, and back at her, as if a sum had come out at last.
+Dace studied her for a long moment, and then looked past her at Cael, and at the sling, and back at her, as if a sum had come out at last.
 
 "Tuesday week," he said, and wrote it, and drew a small ring beside her name, not a hurt ring, a different shape. "That's for me. It means *ask her afterward if she meant it*."
 
@@ -146,7 +146,7 @@ Lira laughed, and went off to the alcove, and Dace stood looking at the wall.
 
 At the far end of the floor somebody was teaching.
 
-Cael had noticed it as he came in and set it aside. Now he looked properly. There were seven of them in a loose ring on the bare stone where the big bouts went: newcomers, by the look of them, Coppers in borrowed boots, two of them barely older than he was. In the middle of the ring a long-armed man nearer thirty than twenty was showing them how to fall. He fell himself, first, flat onto his back on the stone, with a slap of his arms that took the whole of it, and got up again as if the floor had politely handed him back. Then he watched them try. He did not shout. When one of the young ones landed wrong and lay there with the wind knocked out of him, the long-armed man crouched down beside him and waited until he could breathe.
+Cael had noticed it as he came in and set it aside, and now he looked properly. There were seven of them in a loose ring on the bare stone where the big bouts went: newcomers, by the look of them, Coppers in borrowed boots, two of them barely older than he was. In the middle of the ring a long-armed man nearer thirty than twenty was showing them how to fall. He fell himself, first, flat onto his back on the stone, with a slap of his arms that took the whole of it, and got up again as if the floor had politely handed him back. Then he watched them try, and did not shout. When one of the young ones landed wrong and lay there with the wind knocked out of him, the long-armed man crouched down beside him and waited until he could breathe.
 
 "You're in your educational period," Cael heard him say. "Everybody gets one. Mine lasted two years." He helped the boy up. "Again."
 
@@ -156,7 +156,7 @@ Cael had noticed it as he came in and set it aside. Now he looked properly. Ther
 
 "You'd have to ask him. I never have." Dace went off with his cloth.
 
-Cael stood a while longer. He had no reason to watch the man and no plan for him at all. But his eyes did what they did now without asking him, and before he had decided anything he had noticed that Keth held a practice blade with his little finger off the grip, loose, like a man holding a cup. He had noticed that when he demonstrated a cut he finished it a long way past where it needed to finish, the way people do who learned on bigger blades than the ones they carry now. He noticed that he watched the newcomers' feet and not their hands.
+Cael stood a while longer. He had no reason to watch the man and no plan for him at all. But his eyes did what they did now without asking him, and before he had decided anything he had noticed that Keth held a practice blade with his little finger off the grip, loose, like a man holding a cup. He had noticed that when he demonstrated a cut he finished it a long way past where it needed to finish, the way people do who learned on bigger blades than the ones they carry now, and that he watched the newcomers' feet and not their hands.
 
 He found he had taken out the grey book. He wrote two lines on a clean page, with the man's name at the head of it.
 
@@ -170,7 +170,7 @@ Then he put the book away and went to the alcove, feeling slightly foolish, like
 
 Hesk's reply came that same week, which was quick for the east bag, and the carriers' boy brought it up to the boarding house himself because the heavyset man had told the whole hut that the Hesk-ward boy paid a copper to have his letters run.
 
-It was short. Hesk's letters always were. He wrote the way he cut metal, once, and did not go back over it.
+It was short, as Hesk's letters always were; he wrote the way he cut metal, once, and did not go back over it.
 
 *The wheel freezes at midwinter most years. Not the wheel. The race. I go down at first light with the long bar and break it at the sluice, and some mornings it has to be broken twice before breakfast. The dog comes and watches and is no help.*
 
@@ -184,19 +184,19 @@ It was short. Hesk's letters always were. He wrote the way he cut metal, once, a
 
 He read it twice at the crate desk, and then he read the line about the notice a third time and sat with it.
 
-He thought about the man who had the bench before Hesk, whom Hesk had laughed at, and who had laughed, no doubt, at somebody before him. He thought about the farmer in the barn with his left hand tied behind his back, and Lira copying him for a year without knowing she was taking anything but the lesson. A long line of people went back from his own two feet into the dark, each one setting a housing square or dropping a left hip because the one before had done it. None of them had been told. Hesk had found out by looking down one day. Lira had found out because a boy who could not make his step go right had asked her to walk from a post to a chalk cross ten times.
+He thought about the man who had the bench before Hesk, whom Hesk had laughed at, and who had laughed, no doubt, at somebody before him. He thought about the farmer in the barn with his left hand tied behind his back, and Lira copying him for a year without knowing she was taking anything but the lesson. A long line of people went back from his own two feet into the dark, each one setting a housing square or dropping a left hip because the one before had done it. None of them had been told: Hesk had found out by looking down one day, and Lira because a boy who could not make his step go right had asked her to walk from a post to a chalk cross ten times.
 
 And he had found out because something wrote it down for him in a box with fields. He did not know whether that made him luckier than the others or only noisier.
 
 He folded the letter along its old creases and put it into the back of Hesk's leather notebook, where the others were, and went down to the kitchen, where Lira was making pies.
 
-She made them on the evenings she did not go to the docks, in the single iron pan the household let her use, at the end of the big table. She made far too many, because she had learned to cook for a farmhouse and had never learned to cook for anything less. The heavyset man's wife sat at the other end of the table pretending not to watch, and there was flour on Lira's sleeve to the elbow.
+She made them on the evenings she did not go to the docks, in the single iron pan the household let her use, at the end of the big table, and she made far too many, because she had learned to cook for a farmhouse and had never learned to cook for anything less. The heavyset man's wife sat at the other end of the table pretending not to watch, and there was flour on Lira's sleeve to the elbow.
 
 He put the grey book down beside her, open at the page with Dravin's name at the head of it.
 
 "I've seen him twice. Last spring. Both times against Wind. There are some things on there you could use."
 
-Lira looked at the page. She did not touch it. She looked at it the way you look at a dish of something you would very much like to eat and have decided not to, and then she put a pie lid over it, flour and all.
+Lira looked at the page without touching it, the way you look at a dish of something you would very much like to eat and have decided not to, and then she put a pie lid over it, flour and all.
 
 "No."
 
@@ -212,9 +212,9 @@ He looked at the closed book.
 
 The heavyset man's wife, at the far end of the table, made a small noise that might have been a laugh, and turned it into a cough, and got up to see to the kettle.
 
-He ate the pie. It was very good, and too hot, and he burned his mouth on it and did not say so. Then he sat with the grey book shut on the table under his hand and thought about what she had done.
+He ate the pie, which was very good and too hot, and burned his mouth on it and did not say so. Then he sat with the grey book shut on the table under his hand and thought about what she had done.
 
-He had offered her the best thing he had. It was what he would have wanted, in her place, more than anything: somebody who had watched the man twice from a bench and written down what he saw. She had looked at it and put a pie lid on it. And she had been right to. He could see that she was right, and it unsettled him. All year he had thought of the pages as a thing that only ever helped. It had not crossed his mind that a page could also get between a fighter and the fight, and do her finding for her, so that she never found anything herself.
+He had offered her the best thing he had. It was what he would have wanted, in her place, more than anything: somebody who had watched the man twice from a bench and written down what he saw. She had looked at it and put a pie lid on it, and she had been right to, and seeing that she was right unsettled him. All year he had thought of the pages as a thing that only ever helped. It had not crossed his mind that a page could also get between a fighter and the fight, and do her finding for her, so that she never found anything herself.
 
 "I won't tell you. Not with my face, either. I'll stand at the rope and not know anything."
 
@@ -232,13 +232,13 @@ Lira stood at hers with her staff and her face doing nothing at all.
 
 On the second bench from the front, near the water barrel, four girls sat in a row with their knees together. Cael knew them by sight: the girls from the wall, whom Lira taught to fall for a copper each on the mornings he was at the market. They had their eyes on her as if she were the only lamp in the building. One of them had brought a twist of sugared nuts and had forgotten to eat any.
 
-He had not known they were coming. He wondered whether Lira had. Then he looked at the back of her neck, and at the very straight line of it, and knew that she had.
+He had not known they were coming, and he wondered whether Lira had, until he looked at the back of her neck, at the very straight line of it, and knew that she had.
 
-Cael had taken his place at the rope by the iron post nearest the lamps, where she always stood for him. In a year he had never once stood there for her, and he found it was a worse place to stand than he had known. When he fought, there was always something to do with whatever was in his chest; he could spend it on his feet. At the rope there was nothing to spend it on. There was only the strand under his good hand and her back in front of him, straight as a post.
+Cael had taken his place at the rope by the iron post nearest the lamps, where she always stood for him. In a year he had never once stood there for her, and he found it was a worse place to stand than he had known. When he fought, there was always something to do with whatever was in his chest; he could spend it on his feet. At the rope there was nothing to spend it on, only the strand under his good hand and her back in front of him, straight as a post.
 
-A little way along the rope a broad man with a broken nose had folded his arms on the strand. Cael knew him by sight: the dock partner, the Bronze washout who sparred her for a mark an hour and went home when the hour was done. He had come on his own time to watch. He caught Cael's eye, and nodded once, the way men nod at each other at a bedside, and looked back at the floor.
+A little way along the rope a broad man with a broken nose had folded his arms on the strand. Cael knew him by sight: the dock partner, the Bronze washout who sparred her for a mark an hour and went home when the hour was done. He had come on his own time to watch, and he caught Cael's eye and nodded once, the way men nod at each other at a bedside, and looked back at the floor.
 
-Cael did not take out the grey book. He had thought, coming down the hill, that he might. Now he found he could not. Whatever happened on the stone tonight, he did not want to be the boy writing it down.
+Cael did not take out the grey book, though he had thought, coming down the hill, that he might; now he found he could not. Whatever happened on the stone tonight, he did not want to be the boy writing it down.
 
 "Begin," said Vell.
 
@@ -248,12 +248,12 @@ Not fast and careful, the way she went at everybody, testing, looking for the sh
 
 "End of the exchange."
 
-In the second she did it again, and Dravin had seen it once now. He let her come in. He let her get very close, closer than before. Then his weight dropped, the width of a fingernail, and the floor went short under him, a long clean step of a full body's width, far longer than anything Cael had ever managed, and he was not where she was hitting. He was beside her, and his open hand came across in a short flat blow that took her on the point of the right shoulder.
+In the second she did it again, and Dravin had seen it once now. He let her come in, and get very close, closer than before. Then his weight dropped, the width of a fingernail, and the floor went short under him, a long clean step of a full body's width, far longer than anything Cael had ever managed, and he was not where she was hitting. He was beside her, and his open hand came across in a short flat blow that took her on the point of the right shoulder.
 
-It was a glancing blow. It turned her half round. She could have stepped it. Cael had seen her step a hundred blows like it from three paces off on a cold morning without even taking her eyes off him. She had seen it coming; he had watched her see it. And she had stayed inside, where she had decided to be, and let it come.
+It was a glancing blow that turned her half round, and she could have stepped it. Cael had seen her step a hundred blows like it from three paces off on a cold morning without even taking her eyes off him. She had seen it coming; he had watched her see it. And she had stayed inside, where she had decided to be, and let it come.
 
 On the benches somebody laughed. At the corner by the barrel the betting man looked up from his slate.
 
 At her table, for the first time Cael could remember, Vell's pen stopped moving and stayed stopped.
 
-Lira came back to her mark rolling the shoulder. Her face was white along the jaw. Then she looked at the rope, at Cael, and he saw that under the white she was something very like glad.
+Lira came back to her mark rolling the shoulder. Her face was white along the jaw, but when she looked at the rope, at Cael, he saw that under the white she was something very like glad.

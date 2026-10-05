@@ -145,3 +145,80 @@ Measured after the run, not re-measured: ch 6's Lira paragraph (≈−12 words),
 6. **Rhythm:** sentence mean and ≥40 share slightly under the working range (repair item above).
 7. **sweep_probe.sh source parse** for this book reads B3 references in the packet as B4 chapters 23–24 (a tool issue, reported, not edited).
 8. **Names:** no new names. Unnamed by design: the porter, the gate clerk, the intake clerk, the hatch woman, the wrap-maker, the Gold fellow, Withrow's counsel, the bursar.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), 2026-10-04, working from `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. The pre-repair text is frozen in `pre-repair/`. Every change was composed by reading, sentence by sentence; no change splits or joins at punctuation automatically. Only ch 1–7 and this report were edited, and no git commands were run.
+
+### Priority 1 — the line fix
+- Ch 2 l.95: Karis's closing quotation mark added ("…reading my letters for years.").
+- A quote-balance scan of every paragraph in ch 1–7 finds no unbalanced line. Every changed join was read back for its referents and for how it sounds aloud.
+
+### Priority 2 — say it once
+- **The braid.** Ch 1 now ends its letters scene with the turn that makes two hunts out of one: the books, and a stranger four days off asking what they meant. Ch 2 opens on that second hunt running beside the consolidations ("The books were only half of those eleven weeks…"), so the week-11 letter no longer reads as a reset.
+- **Repeated proof trimmed.** In ch 1 I cut the page-by-page restatement of the comparison, the second recheck of the three lists, and Karis's second explanation of the directive. Her finding is now three sentences. The space went to friction: in **week 12 the clause nearly dies**. Cael, under his ruler, finds a clause struck by name in the directive's repeal schedule, and an evening proves it is a cousin clause about registry clerks. Karis boxes its number ("That's the one somebody will throw at us one day"). This is new canon, consistent with Ilsev's later "repealed by name in a schedule its drafters had open in front of them", but it states nothing of hers.
+- **Ch 2's group descriptions de-duplicated.** It also fixes a slip: the hand-corrections question belonged to the *first* group, not the second.
+- **The transitional article is now a plant only.** Bracken copies it out without comment and underlines two sentences. Karis admits she skipped it ("it wasn't where a repeal would be"), and is cross that he went through a door she walked past. Nothing on the page says what the article means or what it implies, so Ilsev's Ch18 finding is untouched. Naveth's list still names "the transitional provision" among what counsel verified.
+- **Kept on the page:** the nine inquiries, Bracken's independent road, the fifteenth letter, Karis's one-line reply, and counsel's seal.
+- **Ch 4 farewells:**
+  - Quenna's after-passage drops from four paragraphs to three short ones. Her bet and its unsaid paragraph stay, and the "proud / miss / wished it were her" listing goes.
+  - Prynn's interpretive paragraph is cut to two sentences: "Prynn was not failing to close it. She was keeping it."
+  - Wray's farewell was already short and is unchanged.
+  - Every farewell and its gift is kept.
+- **Ch 7, why Halcenvane took him:**
+  - The explanation after Karis's appeals is cut to two sentences ("He was not a gamble. He was a proof.").
+  - The binder entry no longer re-tells the Greyvane roof or Withrow's sheet; each is now one sentence.
+  - The roof question, the honest counter, and "Filed" stay.
+  - A closing line now carries the baseline hook into the log: *The baseline I won't get to look at again. Gault writes it once.*
+
+### Priority 3 — rhythm
+Narrative statements that belonged to one thought were joined by hand, and a limited number of long, readable sentences were built. The work was chiefly in:
+- ch 1: Prynn, the watchers, the five-fragment count, the slow comparison;
+- ch 2: the forty-one questions, the bundle, Naveth's office;
+- ch 6: the method-failure scene, triage, the Crown yard, the river street, where the outfitter passage was recomposed and Brom's silence moved ahead of it;
+- ch 7: the hatch, the faculty session, Rooke, Withrow's two columns, the wall.
+
+Two of the new ch 1 sentences ran too long (70 and 56 words) and were split again. No speech was changed for rhythm. The Edran rematch's beats are untouched; ch 3 changed only in two "that" thinnings in the night scene. "That" was thinned in about a dozen easy places of narration (ch 1, 3, 4, 5, 6, 7).
+
+### Metrics (`tools/formula_metrics.py`, seven chapters)
+
+| Measure | Before (pre-repair) | After r1 | Working range |
+|---|---|---|---|
+| Words (tool) | 32,037 | 31,799 | — (brief: 31,000–33,500; wc 31,872) |
+| Sentences | 2,529 | 2,420 | — |
+| Sentence mean | 12.67 | **13.14** | 13–15.5 ✓ |
+| Sentence median | 9 | 10 | target 11 |
+| Sentence SD | 10.23 | 10.91 | target ≈26 (not chased) |
+| ≤5-word share | 28.5% | 28.3% | up to ~34% ✓ |
+| ≥40-word share | 2.1% | **3.3%** | 2.5–4.5% ✓ |
+| Paragraph median | 27 | 27 | up to ~30 ✓ |
+| Words per scene | 915 | 909 | 850–1,050 ✓ |
+| Flesch RE | 88.1 | 87.5 | target 72.3 |
+| FK grade | 4.12 | 4.32 | 3.5–6 ✓ |
+| "that" (grep) | ≈403 | ≈375 (≈118 per 10k) | below 92 is the formula's hint |
+
+Per chapter, the ≥40-word share sits highest in ch 1 (about 8%) and lowest in ch 5 (about 1%). Ch 5 was outside the brief's rhythm scope and was left alone.
+
+Honesty note: one interim `formula_metrics` reading was taken partway through the pass. After it, the two over-long ch 1 sentences were split, "that" was thinned, and two ch 7 sentences were recomposed for the probe. The table above is the final run.
+
+### Checks
+- `ed.sh overlap book-04-copper-crown 1`: **0 unprotected, 8 protected**, unchanged.
+- `ed.sh gates book-04-copper-crown 1`: reader_standard=0, metadata=0, modern=0 on all seven.
+- `sweep_probe.sh book-04-copper-crown 1 1` (fixed tool): **1% total**. By chapter: ch 1 1%, ch 2 0%, ch 3 0%, ch 4 0%, ch 5 2%, ch 6 0%, ch 7 2%. The highest scenes are 6% (ch 7, Withrow, the protected quote) and 5% (ch 5, the protected record).
+  - Pre-repair fallback: 1% total, ch 7 2%.
+  - With fewer sentences in ch 7, its two non-protected stock matches pushed it to 3% for one run; both were recomposed ("He kept his eyes on the four sheets"; the session bell), and it is back to 2%. No chapter rose.
+
+### Changelist by chapter
+- **Ch 1** (4,479 → 4,615): eleven narration joins; the two-hunts turn added; the comparison method condensed to one sentence; the week-12 false alarm added (new); the list recheck and the repeated directive explanation cut; Karis's finding shortened; two long sentences split back.
+- **Ch 2** (4,318 → 4,355): the braid opening; the closing quote fixed; group descriptions de-duplicated and the first/second group slip corrected; Karis's account of Bracken's road cut back so the transitional article is a plant, with her crossness and Brom's question added; seven narration joins.
+- **Ch 3** (4,893 → 4,891): two "that" thinnings in the night scene only.
+- **Ch 4** (4,276 → 3,997): Quenna's after-passage shortened; Prynn's after-paragraph cut to two sentences; four "that" thinnings.
+- **Ch 5** (5,275 → 5,274): one "that" thinning.
+- **Ch 6** (4,775 → 4,770): about fifteen narration joins in the failure, triage and yard scenes; the river-street passage recomposed with Brom's silence placed first; one "that" thinning.
+- **Ch 7** (4,094 → 3,970): about twelve narration joins; Withrow's columns built as two long sentences; the post-appeals paragraph compressed; the binder entry trimmed and the baseline line added; two probe recompositions; two "that" thinnings.
+
+### Unresolved
+- The sentence median (10 against 11) and SD (10.9 against ≈26) remain short of the nominal targets; per the brief they were not chased.
+- "That" is still above the formula's hint.
+- Ch 5 keeps a low long-sentence share; a later pass could add two or three there if the book-level figure needs it.
+- New canon from r1 for the ledger: the week-12 cousin clause, struck by name in the directive's repeal schedule; it concerns registry clerks, not academies, and its number is boxed in Karis's margin.

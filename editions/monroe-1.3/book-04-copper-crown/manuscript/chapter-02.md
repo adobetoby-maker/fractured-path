@@ -1,8 +1,10 @@
 # Chapter 2 — Forty-One Questions
 
-Bracken's fourth letter had come up the hill in week eleven, three weeks before the finding, and Karis had opened it at the long table and laughed out loud.
+The books were only half of those eleven weeks. All the while the consolidations lay open down one side of the long table, the second hunt ran beside them by coach, four days each way, and it had its own surprises.
 
-Cael had never heard her laugh at a document before. She had laughed at Lira, and at Brom's pocket book, and once, helplessly, at the provost's secretary's letter that said nothing in such lovely sentences. But a document was work, and Karis did not laugh at work. She sat with the sheets fanned in her hand and laughed with her shoulders, silently, and then put the letter down on the table and smoothed it flat with both palms as if it might try to get away.
+Bracken's fourth letter came up the hill in week eleven, with three weeks of the comparison still to go, and Karis opened it at the long table and laughed out loud.
+
+Cael had never heard her laugh at a document before. She had laughed at Lira, and at Brom's pocket book, and once, helplessly, at the provost's secretary's letter that said nothing in such lovely sentences, but a document was work, and Karis did not laugh at work. She sat with the sheets fanned in her hand and laughed with her shoulders, silently, and then put the letter down on the table and smoothed it flat with both palms as if it might try to get away.
 
 "Forty-one," she said.
 
@@ -10,9 +12,9 @@ Cael had never heard her laugh at a document before. She had laughed at Lira, an
 
 "Questions. Numbered." She turned the first sheet toward him. "He's numbered them, and grouped them, and put a heading over every group, and under the last group he's left a space for my answers with a ruled line in it." She shook her head. "Nobody has ever sent me a letter with a ruled line in it. I think I'm in love with his filing."
 
-There were five groups. The first was about the founding text: which copies of it Prynn held, where each had come from, whether any had been corrected by hand and in what ink. The second was about the consolidations, and it went through them one by one, by title, and asked of each of them a question Karis had not yet thought to ask. The third was about the three repeal lists. The fourth was headed *The candidate*, and the fifth was headed *Matters I may have missed*, and contained only one question, which was whether there were any.
+There were five groups. The first was about the founding text and Prynn's copies of it. The second was about the consolidations, and it went through them one by one, by title, and asked of each of them a question Karis had not yet thought to ask. The third was about the three repeal lists. The fourth was headed *The candidate*, and the fifth was headed *Matters I may have missed*, and contained only one question, which was whether there were any.
 
-The second group sent Karis to Prynn's desk before she had finished reading it. Bracken wanted to know whether any of Greyvane's copies of the founding text had been corrected by hand, and if so, in what ink and by whom, and Karis did not know. She stood in front of the high desk with the letter in her hand and asked.
+The first group sent Karis to Prynn's desk before she had finished reading it. Bracken wanted to know whether any of Greyvane's copies of the founding text had been corrected by hand, and if so, in what ink and by whom, and Karis did not know. She stood in front of the high desk with the letter in her hand and asked.
 
 Prynn did not look up from her ledger. "The third copy," she said. "Case five, the run of eleven, the one with the green tape on the spine. Two corrections in the margin, both in iron-gall ink, both in the hand of the archivist before the archivist before me. Neither of them touches your clause." She turned a page. "He's right to ask. Tell him I said so."
 
@@ -24,7 +26,7 @@ Karis took the first three groups for herself and pushed the fourth across the t
 
 He read the fourth group through twice before he picked up a pen.
 
-It wanted his name as the registry carried it. It wanted his number. It wanted the station where he had Kindled, and the date, and the designation the instrument had returned, written exactly as the station had written it, brackets and all. It wanted the name of the household he had been registered under and how that name was spelled. It wanted to know whether he had ever, at any academy, been enrolled under a category whose terms he could not honestly meet, and if so, under which category, and what had been done about it.
+It wanted his name as the registry carried it, and his number, and the station where he had Kindled, and the date, and the designation the instrument had returned, written exactly as the station had written it, brackets and all. It wanted the name of the household he had been registered under and how that name was spelled. It wanted to know whether he had ever, at any academy, been enrolled under a category whose terms he could not honestly meet, and if so, under which category, and what had been done about it.
 
 He answered them in order.
 
@@ -32,7 +34,7 @@ He answered them in order.
 
 The last question took him longest.
 
-He could have answered it in one word. The true word was *yes*. The question was not asking whether he had been honest with Greyvane. It was asking whether the category had fitted him, and it had not, and everybody at the table who had signed it had known that it did not.
+He could have answered it in one word, and the true word was *yes*. The question was not asking whether he had been honest with Greyvane; it was asking whether the category had fitted him, and it had not, and everybody at the table who had signed it had known that it did not.
 
 He wrote *Yes.* Then he wrote the name of the category, *unclassified observer*, and the term he had been enrolled under it, and that the form had been defensible on its face and had been challenged by the Compact and held. And then, because a file that left out the uncomfortable part was only half a file, he wrote one more line.
 
@@ -40,13 +42,13 @@ He wrote *Yes.* Then he wrote the name of the category, *unclassified observer*,
 
 He read it back, and pushed the sheet across to Karis.
 
-She read it once, and then she looked at him over the top of it for a long moment and did not say anything. She folded it into her answers with the rest. When the bundle went down the hill on the Wednesday coach, that line was in it, in his own hand, on its way to a man he had never met, and he found he did not mind at all.
+She read it once, and looked at him over the top of it for a long moment without saying anything, and then folded it into her answers with the rest. When the bundle went down the hill on the Wednesday coach, that line was in it, in his own hand, on its way to a man he had never met, and he found he did not mind at all.
 
 ---
 
 The fifteenth letter came in week seventeen, and it had no questions in it.
 
-By then there were a great many letters. Bracken did not wait for one answer before he wrote the next. He wrote by every coach, sometimes two letters in one packet, numbered on the outside so that Karis would read them in the order he had written them and not the order the post delivered them. Karis kept them in a bundle tied with grey string, which she had cut from the end of one of the delegation's boxes when they came back in the autumn and had been saving for something worth tying. The bundle was as thick as two fingers now.
+By then there were a great many letters, because Bracken did not wait for one answer before he wrote the next: he wrote by every coach, sometimes two letters in one packet, numbered on the outside so that Karis would read them in the order he had written them and not the order the post delivered them. Karis kept them in a bundle tied with grey string, which she had cut from the end of one of the delegation's boxes when they came back in the autumn and had been saving for something worth tying. The bundle was as thick as two fingers now.
 
 The fifteenth was the thickest letter yet. Karis opened it at the long table after supper, with Lira on the bench by the door and Brom at the end of the table with his pocket book, and Cael across from her waiting to be handed his part. She read the first page. She turned to the second. She read that too, and the third, and then she went back to the first and read the whole thing again, much more slowly, with her finger moving down the margin.
 
@@ -58,7 +60,11 @@ Then she put it down and sat with her hands in her lap.
 
 "Done what?"
 
-"All of it. From the other end." She picked the first page up again. "I started from the founding schedule and worked forward. I took the clause and looked for every place after it where somebody could have killed it. He started from his own house. He took the article in Halcenvane's charter that carries the founding text into its own law, which was written in the old language a hundred and forty-one years ago, and worked backward from that, through every amendment his own academy ever made to its charter, to see whether any of them touched the clause. None of them did. Then he went to the directive and read it from the other end, not the repeal schedule but the transitional article, the part that says what happens to people enrolled under the old law before the new one came in." She touched the third page. "And it presupposes them. It says what to do with them. You can't make provision for people enrolled under a clause you've repealed. It doesn't mean anything."
+"All of it. From the other end." She picked the first page up again. "I started from the founding schedule and went forward, looking for whoever killed it. He started from his own house. He took the article in Halcenvane's charter that carries the old text into its law and walked backward through every amendment his academy ever made, to see whether any of them touched it. None did." She turned to the third page and frowned at it. "And at the very end he's copied out the directive's transitional article. The part about people who were already enrolled when the new law came in. No comment at all. He's just copied it out and drawn a line under two sentences."
+
+"What does it mean?" said Brom.
+
+"I don't know." Karis said it as if it hurt. "I never read it properly. I skipped it, because it wasn't where a repeal would be." She laid the page down. "He's walked through a door in my own house that I walked past for eleven weeks. I'm going to read it tonight, every word, and I'm going to be cross the whole time."
 
 She looked up at Cael.
 
@@ -72,7 +78,7 @@ Cael looked at the three pages lying on the table between them.
 
 He thought about what Bracken had in front of him, in an office he had never seen: a stranger's name, and a stranger's number, and a line in a stranger's hand that said *Everyone who signed it knew that, including me.* With that on his desk, Bracken had gone and done six weeks of work that nobody had asked him to do, to find out whether that stranger was standing on anything real. He had done it as if the answer mattered, and done it carefully, and then written down where he had got to and posted it four days down the road.
 
-For two years everybody who had looked hard at Cael had been looking for the place where he would break. Coss had looked carefully. The registry had looked carefully. The careful looking had been aimed at him, the way a smith aims a hammer, and he had learned to stand still under it and say only true things. He realized, sitting at the long table, that he had never once until now been looked at that carefully on his own behalf.
+For two years everybody who had looked hard at Cael had been looking for the place where he would break. Coss had looked carefully, and the registry had looked carefully, but the careful looking had been aimed at him, the way a smith aims a hammer, and he had learned to stand still under it and say only true things. He realized, sitting at the long table, that he had never once until now been looked at that carefully on his own behalf.
 
 It did not feel the way he would have expected. It felt like being cold for so long that the first warm room made your hands ache.
 
@@ -92,7 +98,7 @@ The third draft was one line, and she let him read it before she sealed it.
 
 "That's all?" he said.
 
-"He didn't ask me anything." Karis pressed the seal down with her thumb. "When somebody sends you a finding without a single question in it, the only polite thing to do is not to make them read a page of yours." She held the letter up to the lamp and looked at it. "Besides, I want him to know I can be short. He's going to be reading my letters for years.
+"He didn't ask me anything." Karis pressed the seal down with her thumb. "When somebody sends you a finding without a single question in it, the only polite thing to do is not to make them read a page of yours." She held the letter up to the lamp and looked at it. "Besides, I want him to know I can be short. He's going to be reading my letters for years."
 
 ---
 
@@ -100,7 +106,7 @@ The seal came in week nineteen, and it came to Naveth.
 
 Cael heard about it the way he heard about everything that went on in the provost's office: first from the provost's clerk, who was pink with the importance of it, and then from Karis, who had been told by the clerk, and then from Naveth himself, who sent for him at the end of the afternoon and left his door wide open.
 
-The office was as it always was, the long table piled with papers and the tall window looking down the hill. Naveth sat behind the table with a letter in front of him, flat on the blotter, under one long hand. The letter was folded in three, and where the folds met at the foot there was a seal in dark red wax, broken cleanly across.
+The office was as it always was, the long table piled with papers and the tall window looking down the hill. Naveth sat behind the table with a letter flat on the blotter under one long hand, folded in three, and where the folds met at its foot there was a seal in dark red wax, broken cleanly across.
 
 "Halcenvane's counsel," said Naveth. "Their chancellor's own. She has gone through the whole architecture. Your friend's finding, the registrar's reconstruction, the charter article, the transitional provision, the lot. She has verified it, and she has put her seal on the verification and sent it to the institution that currently has you on its rolls. That is us." He did not move his hand. "Which is courtesy. She did not have to send it here at all."
 
@@ -108,7 +114,7 @@ The office was as it always was, the long table piled with papers and the tall w
 
 "That the clause stands. That Halcenvane's charter carries it. That the chancellor of Halcenvane has directed her registrar to prepare an enrollment under it, effective at the start of their next term, on the satisfaction of an entry demonstration before their assessment office. That counsel finds no defect in the basis." He turned the letter round on the blotter so that it faced Cael. "Read it if you like. It is very short. It took them a great deal of money to make it that short."
 
-Cael read it. It was very short. He did not understand all of it, and what he did understand was dry and exact and careful in the way the best of Karis's sentences were careful, never claiming one word more than it could carry. At the foot was a signature he could not read, and under it a line in another hand, *Seen. Withrow.*
+Cael read it, and it was very short. He did not understand all of it, and what he did understand was dry and exact and careful in the way the best of Karis's sentences were careful, never claiming one word more than it could carry. At the foot was a signature he could not read, and under it a line in another hand, *Seen. Withrow.*
 
 He gave it back.
 
@@ -128,7 +134,7 @@ He folded the letter along its creases and laid it down.
 
 Cael went down the stair slowly.
 
-He had known for weeks which way it would go. He had known, if he was honest, since the night in the archive when Karis laid her pen down square to the table. But knowing a thing and deciding it were different, and he had been careful all term to let them stay different until there was something on paper. Now there was. He stopped at the turn of the stair by the window, where he had read so many things that touched his own name, and looked down the hill at the road going away east.
+He had known for weeks which way it would go, and if he was honest he had known it since the night in the archive when Karis laid her pen down square to the table. But knowing a thing and deciding it were different, and he had been careful all term to let them stay different until there was something on paper. Now there was. He stopped at the turn of the stair by the window, where he had read so many things that touched his own name, and looked down the hill at the road going away east.
 
 He decided there, on the landing, with nobody to see it.
 
@@ -170,7 +176,7 @@ Nobody said that they had outgrown Greyvane. Quenna had said it to him at the pu
 
 Edran's stance kept him awake.
 
-Through weeks fifteen to nineteen he watched it from the rail whenever he could, and it did not get any easier to read. Edran had rebuilt himself over the recess and through the whole of the term, an hour at a time, with Wray standing over him, and the man at the far end of the hall was not the one Cael had beaten in the formal yard.
+Through weeks fifteen to nineteen he watched it from the rail whenever he could, and it did not get any easier to read, because Edran had rebuilt himself over the recess and through the whole of the term, an hour at a time, with Wray standing over him, and the man at the far end of the hall was not the one Cael had beaten in the formal yard.
 
 The old Edran had led with his structures. He built a shell on the leading forearm and drove it forward, inviting a strike, because Glass wanted to be struck: a struck shell burst outward and shed the force, and the next shell formed out of the burst. The weakness had been the third. In a long sequence the third structure came up cold, and in the instant it took to come up there was a sliver of nothing on its edge where a fast hand could get in. Cael had found that sliver twice, and closed in it, and won.
 

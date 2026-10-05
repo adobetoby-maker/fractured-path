@@ -4,7 +4,7 @@ Vell kept the river-academy man on six lines, and Cael read all six of them stan
 
 He had come to her table in the grey part of the morning, before the benches filled, with the excuse of a question about the purse. She had looked at him over the top of the day's book and not believed the excuse for a moment. Then she had turned back through the year without being asked, licking her thumb at every tenth page, and stopped, and laid the book open on the table between them with her hand flat beside the place.
 
-*Copper formal. Blade. River academy, two years out.* Then the six bouts, one under another in her narrow upright hand. Four wins and two losses. Under every win she had written the exchange it ended in, as she always did. Second, third, second, fourth. Under the losses she had written nothing at all except the other fighter's name.
+*Copper formal. Blade. River academy, two years out.* Then the six bouts, one under another in her narrow upright hand, four wins and two losses. Under every win she had written the exchange it ended in, as she always did: second, third, second, fourth. Under the losses she had written nothing at all except the other fighter's name.
 
 He read them twice. Then he read them a third time with his finger beside the lines, because something in the numbers was standing up and he wanted to see it plainly before he let himself believe it.
 
@@ -24,11 +24,11 @@ Vell drew the book back toward her and closed it on her thumb.
 
 Cael went out to the slate wall afterward and stood in front of the third slot of next week's card, where his name was chalked beside the other one with Dace's small mark between them, the line with the dot under it.
 
-He had four bouts of the river-academy man on Vell's six lines, and not one of them in his own eyes. The man had sat in the same seat for every one of Cael's nights for a month. He had seen the Ulric bout. He had seen the bout before it, and the one before that, from the third bench back with his hands flat on his knees. Whatever three columns Cael would have made of him, the man had already made of Cael, and kept them where nobody could read them, in his own head.
+He had four bouts of the river-academy man on Vell's six lines, and not one of them in his own eyes. The man had sat in the same seat for every one of Cael's nights for a month, and from the third bench back, with his hands flat on his knees, he had seen the Ulric bout, and the bout before it, and the one before that. Whatever three columns Cael would have made of him, the man had already made of Cael, and kept them where nobody could read them, in his own head.
 
 Not once in a year had Cael gone into a week knowing less about the other fighter than the other fighter knew about him.
 
-He found he did not mind it as much as he would have expected. Part of that was plain fairness. He had done exactly this to Ulric, and to eleven others before Ulric, and he had never once thought about how it felt from the other side of the rope. Part of it was something else. A man who would spend a month of evenings on a hard bench to win one assessed bout was a man who had decided something about Cael, and had decided it carefully, and that was a kind of information too. It told him the man was patient. It told him the man was thorough. And it told him the man believed there was one thing worth waiting for, and only one.
+He found he did not mind it as much as he would have expected. Part of that was plain fairness. He had done exactly this to Ulric, and to eleven others before Ulric, and he had never once thought about how it felt from the other side of the rope. Part of it was something else. A man who would spend a month of evenings on a hard bench to win one assessed bout was a man who had decided something about Cael, and had decided it carefully, and that was a kind of information too. It told him the man was patient and thorough, and that he believed there was one thing worth waiting for, and only one.
 
 He stood in front of the wall with the chalk dust from somebody's sleeve drifting down in the light from the high windows and turned it over. A man who waited for something to be spent, and had watched for a month the one thing Cael spent every time. A man who had sat very still in the fifth exchange of the Ulric bout with his eyes on the stone where the landing had been. There was no mystery left in it, if he was honest.
 
@@ -64,11 +64,11 @@ She thought about it, and the stubborn set went out of her jaw a little as she t
 
 "All right. Get up. I'll be a river-academy coat."
 
-She was a very good one. She stood off and gave him nothing, her staff loose and low, her weight even, and her eyes not on his face but on the floor at his left front, where the ring was. He found it unnerving to be waited for so well. He shuffled and feinted and she did not move. When at last he dropped his hip and let the floor go short, half a body to the front-left with his guard already high, he was not even all the way down before her staff was coming. He locked. It hit the outside of his left forearm exactly where he had said it would, not hard, a third of what she could have put into it.
+She was a very good one. She stood off and gave him nothing, her staff loose and low, her weight even, and her eyes not on his face but on the floor at his left front, where the ring was. He found it unnerving to be waited for so well. He shuffled and feinted and she did not move. When at last he dropped his hip and let the floor go short, half a body to the front-left with his guard already high, he was not even all the way down before her staff was coming. He locked, and the staff hit the outside of his left forearm exactly where he had said it would, not hard, a third of what she could have put into it.
 
 And for two *ands* he could do nothing but look.
 
-He had been in the lock a thousand times. It had always been a strange still place where the world went slow and clear and he could not touch any of it. But he had never before been in it with a strike coming toward him that he had chosen to let come. Every other time he had been looking at the open door in the other fighter, the way out of the trouble. This time he was looking at the trouble itself, all of it, from its beginning to its end. He saw her back foot finish its push. He saw the staff come round with her whole shoulder behind it and nothing held back for a second blow. He saw her wrist begin to turn at the end, to bring the staff back, and saw that for that one turn of the wrist her right side had nobody minding it.
+He had been in the lock a thousand times. It had always been a strange still place where the world went slow and clear and he could not touch any of it. But he had never before been in it with a strike coming toward him that he had chosen to let come. Every other time he had been looking at the open door in the other fighter, the way out of the trouble. This time he was looking at the trouble itself, all of it, from its beginning to its end. He saw her back foot finish its push, and the staff come round with her whole shoulder behind it and nothing held back for a second blow. He saw her wrist begin to turn at the end, to bring the staff back, and saw that for that one turn of the wrist her right side had nobody minding it.
 
 Then the lock let go, and he was moving into her right side with his short strike before he had told himself to.
 
@@ -88,9 +88,9 @@ The card that week was a big one, for the middle of the week. Dace had put a Sto
 
 Cael stood at his mark and let his eyes go where he had trained them to go.
 
-The river-academy man stood at his. Up close he was older than Cael had thought from the benches, nineteen or twenty. He had a long neat face and a long neat body, and the coat was off now and folded square on the end of a bench, with the river academy's grey braid along its cuffs. He held his practice blade low and loose in his right hand and looked at nothing in particular. He did not look at Cael's face, or at Cael's hands. He looked at a place on the stone a little in front of Cael and to the left.
+The river-academy man stood at his. Up close he was older than Cael had thought from the benches, nineteen or twenty. He had a long neat face and a long neat body, and the coat was off now and folded square on the end of a bench, with the river academy's grey braid along its cuffs. He held his practice blade low and loose in his right hand, and he did not look at Cael's face or at Cael's hands but at a place on the stone a little in front of Cael and to the left.
 
-Cael felt something cold go down the back of his neck, and then go away again, because there was nothing new in it. The man was where the page said he would be.
+Cael felt something cold go down the back of his neck and then go away again, because there was nothing new in it; the man was where the page said he would be.
 
 "Begin," said Vell.
 
@@ -106,7 +106,7 @@ In the second it was the same, and worse. The man did not come forward at all. H
 
 He was not going to commit. He was not going to give Cael a thing to read until Cael had paid him first.
 
-Cael had known that. It was on Vell's six lines. Knowing it on a page and standing inside it with a hundred and eighty people breathing on him were different things, though, and he felt the difference in his stomach. The groaning on the benches had become a kind of muttering, the sound a crowd made when it began to suspect it was not going to get what it came for. He felt the pull of it. He felt, under his breastbone, the plain animal wish to do something, anything, to make the muttering stop.
+Cael had known that. It was on Vell's six lines. Knowing it on a page and standing inside it with a hundred and eighty people breathing on him were different things, though, and he felt the difference in his stomach. The groaning on the benches had become a kind of muttering, the sound a crowd made when it began to suspect it was not going to get what it came for. He felt the pull of it, and under his breastbone the plain animal wish to do something, anything, to make the muttering stop.
 
 He let the wish go past the top of his picture, with the hands and the roof beams.
 
@@ -116,7 +116,7 @@ At the rope Lira did not move her hands at all. She stood with her arms folded o
 
 In the third exchange he showed the man his hip.
 
-He did not burst. He only let it drop, the width of a fingernail, the first beginning of the thing, the way he had let it drop a thousand mornings on the straw. Then he stopped it, and stepped with his feet instead, slow and mortal, to the left. The man's eyes went to the floor at Cael's front-left, to the exact place where the ring had been on the alcove stone. His back foot came up onto its toes. Then, when there was nobody there, it went down again, and his eyes came back.
+He did not burst. He only let it drop, the width of a fingernail, the first beginning of the thing, the way he had let it drop a thousand mornings on the straw. Then he stopped it, and stepped with his feet instead, slow and mortal, to the left. The man's eyes went to the floor at Cael's front-left, to the exact place where the ring had been on the alcove stone. His back foot came up onto its toes and then, when there was nobody there, went down again, and his eyes came back.
 
 That was all. Nobody on the benches could have seen it. But Cael had seen it, and now he knew two things he had only guessed. The man knew the fan. And he had been told it, or had worked it out, so well that his body went to the landing before his mind had decided whether there would be one.
 
@@ -136,7 +136,7 @@ He went half a body to the front-left, as he always went, and the breath stopped
 
 The man was already coming.
 
-He had started before Cael was halfway across. Cael saw that in the first instant of the lock and understood, with a cold small shock, how fast the man was when he finally let himself be. All the waiting had been stored up somewhere, like water behind a gate, and the gate was open now. His back foot had driven off the stone. His blade was coming round in a long flat cut at the height of Cael's head, with every ounce of a tall man's reach in it, and nothing held back for anything else, because there was nothing else to hold it back for. The boy on the cross could not move. Everybody on the benches who had been waiting knew it, and the room drew in its breath.
+He had started before Cael was halfway across. Cael saw that in the first instant of the lock and understood, with a cold small shock, how fast the man was when he finally let himself be. All the waiting had been stored up somewhere, like water behind a gate, and the gate was open now. His back foot had driven off the stone, and his blade was coming round in a long flat cut at the height of Cael's head, with every ounce of a tall man's reach in it, and nothing held back for anything else, because there was nothing else to hold it back for. The boy on the cross could not move. Everybody on the benches who had been waiting knew it, and the room drew in its breath.
 
 The cut came down onto the guard.
 
@@ -146,7 +146,7 @@ He did not look at the pain. He had priced it. He looked at the man.
 
 He had two *ands*, and he spent both of them looking, as he had spent them on the straw with Lira. He saw the man's back foot, all its push spent, its heel just coming down. He saw the long reach of the right arm at the end of the cut, the elbow locked straight, the blade lying across Cael's guard with all its weight gone out of it. He saw the man's shoulder, the right one, rolled forward past the line of his hip, so far forward that there was nothing left in it to bring back quickly. And he saw the man's wrist begin to turn over, to draw the blade back and up for a second cut. It was the trained turn, the river academy's tidy recovery. For the length of that turn, the man's right side, from the armpit to the hip, belonged to nobody.
 
-It was the clearest thing he had ever seen in a fight. He could see the whole cut, not as a flash and a pain but as a thing with a beginning and a middle and an end, laid out in the slow bright air like a drawing on a table. He could see where it had come from. He could see where it was going next.
+It was the clearest thing he had ever seen in a fight. He could see the whole cut, not as a flash and a pain but as a thing with a beginning and a middle and an end, laid out in the slow bright air like a drawing on a table. He could see where it had come from and where it was going next.
 
 And he could see the beat of it. That was what surprised him most, afterward. The man's whole body had a rhythm, waiting or striking, and in the lock Cael could hear it the way you hear a clock in a quiet room. The turn of the wrist was on it. The next breath would be on it. The second cut, if it ever came, would come on it.
 
@@ -200,7 +200,7 @@ He went to the east bench and sat down on the plank with the Power Log open on h
 
 He looked at that, and it was right, and he let it stand. Then he sat with the pencil over the page for a long time without writing anything else, because the thing that was really on his mind did not belong in any of the six fields.
 
-In the lock, he had seen a commitment whole. He had seen the push of the foot and the reach of the arm and the shoulder that had nothing left, and the wrist beginning its tidy turn. He had seen all of it because, for half a breath, there had been nothing else he could do but see. And he thought that every fighter he had ever faced must have done that, the whole of it, every time they meant a strike. Ulric had done it. Dessa had done it, twice, across a rope from him in his first months. They had done it in front of him a thousand times at full speed, with all its parts there to be read, and he had caught only the edges: a heel, a shoulder, a breath. He had caught them because the edges were all that speed had let him have.
+In the lock, he had seen a commitment whole. He had seen the push of the foot and the reach of the arm and the shoulder that had nothing left, and the wrist beginning its tidy turn. He had seen all of it because, for half a breath, there had been nothing else he could do but see. And he thought that every fighter he had ever faced must have done that, the whole of it, every time they meant a strike. Ulric had done it. Dessa had done it twice, across a rope from him in his first months, and every fighter between had done it in front of him at full speed, with all its parts there to be read, while he caught only the edges of it, a heel, a shoulder, a breath, because the edges were all that speed had let him have.
 
 Was there some way to see the middle without being locked in front of it? Could he see it from a bench, with a pencil, and no arm to pay?
 
@@ -210,7 +210,7 @@ When he lifted his head the card was nearly done, and the benches had begun to e
 
 Then Lira was in front of him, reaching for his arm, and he forgot the man by the barrel entirely.
 
-She did not say anything at first. She took his left wrist in both hands, very gently, and turned the arm over in the lamplight, and pushed the sleeve back. The bruise was already coming up across the old stripe, darker, wider, the shape of a long flat cut. She looked at it the way she looked at a fighter's feet.
+She did not say anything at first. She took his left wrist in both hands, very gently, and turned the arm over in the lamplight, and pushed the sleeve back. The bruise was already coming up across the old stripe, darker and wider, the shape of a long flat cut, and she looked at it the way she looked at a fighter's feet.
 
 "Can you feel your fingers?"
 

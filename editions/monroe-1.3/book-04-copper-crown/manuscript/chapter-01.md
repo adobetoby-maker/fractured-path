@@ -4,11 +4,11 @@ The pages stopped.
 
 Cael heard it before he understood what he had heard. All afternoon the archive had been full of one small sound, a page lifted and laid over and then the next page lifted and laid over, as steady as a clock in another room, because Karis turned pages the way Wray counted passes. An hour ago he had stopped hearing it, the way a person stops hearing rain. Now it was gone, and the quiet it left behind had a shape.
 
-He looked up from his own sheet. It was a letter to nobody yet. He had been trying for most of a week to write a second letter to Vell, one that did not sound like a boy asking whether his first had arrived, and every version he tried came out sounding exactly like that.
+He looked up from his own sheet, which was a letter to nobody yet. For most of a week he had been trying to write a second letter to Vell, one that did not sound like a boy asking whether his first had arrived, and every version he tried came out sounding exactly like that.
 
 At the high desk by the door, Prynn had looked up too.
 
-That was the thing he would remember afterward. Prynn did not look up for anything. She had not looked up when the boxes came back from the delegation under their wax, or when a first-year knocked a lamp off a reading stand in the autumn, or when the Compact's own officer had walked the length of this room with his cases in his hands and his aide two steps behind him. She looked up now. She looked down the long table at Karis, and her pen stayed lifted over the restoration ledger, and she waited.
+That was the thing he would remember afterward, because Prynn did not look up for anything. She had not looked up when the boxes came back from the delegation under their wax, or when a first-year knocked a lamp off a reading stand in the autumn, or when the Compact's own officer had walked the length of this room with his cases in his hands and his aide two steps behind him. Now she looked down the long table at Karis with her pen lifted over the restoration ledger, and waited.
 
 Karis was sitting very still with one finger on a page.
 
@@ -18,7 +18,7 @@ She was not copying now.
 
 "Karis?"
 
-She did not answer him. She read the four lines under her finger again, slowly. Her lips moved on one word, and he was close enough to hear it, though barely.
+She did not answer him, only read the four lines under her finger again, slowly. Her lips moved on one word, and he was close enough to hear it, though barely.
 
 "Assay."
 
@@ -32,15 +32,15 @@ Then she slid a slip of paper into the page and closed the book on it, and laid 
 
 "I found four lines." She looked at him across the table, and her face was the careful face, the one she wore when she had a thing and did not trust it yet to hold her weight. "Four lines in a book older than this academy, in a section nobody has indexed since it was printed. That isn't a finding. It's a place to stand while I look for a finding." She tapped the cover once with two fingers. "If I tell you what it says, you'll start building on it. You won't mean to. You'll start, and Lira will start, and Brom will do a sum about it in his pocket book. In a fortnight there'll be a house on top of these four lines, and if they don't hold, the whole house comes down on all of us." She shook her head. "Not yet."
 
-He knew better than to push. He had learned the shape of Karis's *not yet* across a whole winter. It was not a refusal. It was a date she had not set.
+He knew better than to push, having learned the shape of Karis's *not yet* across a whole winter. It was not a refusal. It was a date she had not set.
 
 Down the room, Prynn lowered her pen and wrote something in the ledger. Cael would have given a good deal to know what.
 
 He let his eyes go past her, down the long aisle between the cases, to the second-to-last case against the old wall. The traveller registers stood in their run on the third shelf, crosshatched spines in a row, and between two of them was the space the width of one volume. Nobody had closed it in the three weeks since. Nobody, he was sure now, ever would while Prynn was alive to stop them.
 
-He did not know what Karis had just found. He did know, sitting at the long table with an unwritten letter under his hand, that the room had changed temperature, and that Prynn had felt it before he had. He sat with that a while. In two years of watching people for a living he had grown used to being the first in any room to notice a thing, and it was a strange, not unpleasant feeling to have been beaten to it by an old woman who never left her desk.
+He did not know what Karis had just found. He did know, sitting at the long table with an unwritten letter under his hand, that the room had changed temperature, and that Prynn had felt it before he had. In two years of watching people for a living he had grown used to being the first in any room to notice a thing, and it was a strange, not unpleasant feeling to have been beaten to it by an old woman who never left her desk.
 
-Outside, through the high window, he could see a slice of the gate and the end of the training hall. The man on the bench by the training hall door was there, as he was there every afternoon, with his hands on his knees and his hat on the bench beside him. He was one of five, and he did not trouble to hide, and neither did the other four. Nobody hid any more. That had been true since the ruling, and Cael had stopped flinching at it somewhere around the second week of the recess, which he counted as progress.
+Outside, through the high window, he could see a slice of the gate and the end of the training hall. The man on the bench by the training hall door was there, as he was there every afternoon, with his hands on his knees and his hat on the bench beside him. He was one of five, and like the other four he did not trouble to hide; nobody had hidden since the ruling, and somewhere around the second week of the recess Cael had stopped flinching at it, which he counted as progress.
 
 ---
 
@@ -66,7 +66,7 @@ Nobody said anything for a moment. At the far end of the stable somebody was arg
 
 "By demonstration, before the academy's own assessors." Karis did not look up from the page. "You'd show them what you could do, and they'd write down what you showed them, and the academy would carry you on its rolls on the strength of what was written. It's a standing. It isn't an exception, and it isn't a loan of some category that was built for somebody else and stretched to fit. It's a standing of its own, with its own name."
 
-Lira had put her chin on her hand. Her eyes had gone very bright.
+Lira had put her chin on her hand, and her eyes had gone very bright.
 
 "So it's a door," she said.
 
@@ -80,7 +80,7 @@ Lira considered this. "And if the bricks don't take?"
 
 "Then I'll stop being careful," said Karis, "and you can all start building houses."
 
-Cael sat back in the lamplight. He found that he wanted it to be a door so badly that his hands had gone still on the table, the way they went still before a bout he cared about. He noticed that, and he did not like it.
+Cael sat back in the lamplight and found he wanted it to be a door so badly that his hands had gone still on the table, the way they went still before a bout he cared about. He noticed that, and he did not like it.
 
 Last term he had stood up in a room full of people and read their own schedule back to them, from the first page to the last, and he had won because he had not reached past the text by a single line. If he let himself start wanting this clause to be alive, he would end by reading it the way the Compact's clerks had read his own file for two years: hoping, and writing the hope down as though it were a finding, and never once noticing the difference.
 
@@ -94,7 +94,7 @@ Something in Karis's face eased by a hair.
 
 "That's the only kind of help that's any use to me," she said. "Thank you."
 
-Lira knocked her shoulder against his. Brom took out his small pocket book and wrote something in it. When Cael raised his eyebrows, Brom turned the page round. It said *Week three. K. found a word. We're trying to kill it.* Under it was a single tally mark.
+Lira knocked her shoulder against his, and Brom took out his small pocket book and wrote something in it. When Cael raised his eyebrows, Brom turned the page round. It said *Week three. K. found a word. We're trying to kill it.* Under it was a single tally mark.
 
 "Day one," said Brom. "I'll keep the count."
 
@@ -106,19 +106,19 @@ On the first morning back she had put him on the defensive floor with Hobb at th
 
 By week three it was gone, and Wray had written nothing about it, which was how he knew she had noticed.
 
-He counted what he carried the way he had counted it at the end of last term, at the long table in the archive, in ink. He did not need the binder for it now. He could run the list in his head between passes, and he often did, because a count he could only do with the book open was a count he did not really own.
+He counted what he carried the way he had counted it at the end of last term, at the long table in the archive, in ink. He no longer needed the binder to do it; he could run the whole list in his head between passes, and he often did, because a count he could only do with the book open was a count he did not really own.
 
 Five fragments, and every one of them came with a price.
 
-The Wind-adjacent came first, Lira's, the one his feet reached for before he had chosen anything at all. He held half a breath at the front of every burst, and at the back of it he paid the landing beat: the locked half-breath when he could not change direction, which he had never once in two years been able to shorten. The landing came home through both heels and up the leading hip. On stone, the hip would take three bursts in an evening and say nothing. The fourth came due the next morning as a bright line from the crest of the hip down the inside of the thigh to the knee, and he had learned to believe that line the way he believed a ledger.
+The Wind-adjacent came first, Lira's, the one his feet reached for before he had chosen anything at all. He held half a breath at the front of every burst, and at the back of it he paid the landing beat: the locked half-breath when he could not change direction, which he had never once in two years been able to shorten. The landing came home through both heels and up the leading hip, and on stone the hip would take three bursts in an evening and say nothing. The fourth came due the next morning as a bright line from the crest of the hip down the inside of the thigh to the knee, and he had learned to believe that line the way he believed a ledger.
 
-Then the Pressure-adjacent, which he did not use. The Iron-adjacent read, Brom's, which laid mass and direction on the skin of his forearms a pace and a half out and never once told him what anybody meant to do. The Compression-adjacent, which took a push and sent it down through his bones into the floor. The Ember-adjacent last and newest, which let go of fire at a single point and cost him the same whatever size he asked for.
+Then came the Pressure-adjacent, which he did not use. After it came the Iron-adjacent read, Brom's, which laid mass and direction on the skin of his forearms a pace and a half out and never once told him what anybody meant to do, and the Compression-adjacent, which took a push and sent it down through his bones into the floor. Last and newest was the Ember-adjacent, which let go of fire at a single point and cost him the same whatever size he asked for.
 
 Five things, and not one of them a Path. A Path had a tier and a rank, ten ranks to a tier, and a declaration that rose in front of the eyes when the Arbiter judged a practitioner had earned it, and a registry line that told a stranger what to expect before the stranger had seen anything. He had a list in a binder and a set of prices. The prices were true, and three people on this hill knew all of them, and that would have to do.
 
 Edran found him at the rail on the Thursday of week three.
 
-He did not come over to talk. He came over with a sheet of paper, folded once, and held it out. The hand on it was Wray's.
+He did not come over to talk. He came with a sheet of paper folded once and held it out, and the hand on it was Wray's.
 
 *Exhibition bout, full sanction. Faculty supervised, on the record. Presiding: Instructor Wray. Second seat: Assessor Quenna. Eight exchanges on the instructor's count, standings rules. Week twenty, first bell, the training hall.*
 
@@ -166,9 +166,9 @@ Karis wrote it. It took her most of an evening, because Prynn sent the first req
 
 Karis read the slip and looked up at Prynn, and Prynn looked back at her and said nothing whatever, and went back to her desk.
 
-After that the work was slow, and most of it was Karis's, and Cael did what he had promised. He sat across from her and read for the line that would end it.
+After that the work was slow, and most of it was Karis's, and Cael did what he had promised, sitting across from her evening after evening and reading for the line that would end it.
 
-There were three places a repealed clause would have had to go. The first was the directive's own repeal schedule, a long numbered list at the back of the directive of everything it struck by name. The second was the registry's consolidated list of repeals, which some patient clerk had drawn up twenty years later out of everything struck by anybody. The third was the guild digest, in which the member guilds had printed, with some bad temper, every clause they had ever lost. Karis gave him the guild digest because it was the worst printed of the three and the likeliest to hide something in small type. He read it with a ruler under each line, as Vell had once taught him to read a ledger, every entry in order and none of them softer than any other. It took him nine evenings.
+There were three places a repealed clause would have had to go. The first was the directive's own repeal schedule, the long numbered list at its back of everything it struck by name, and the second was the registry's consolidated list of repeals, which some patient clerk had drawn up twenty years later out of everything struck by anybody. The third was the guild digest, in which the member guilds had printed, with some bad temper, every clause they had ever lost. Karis gave him the guild digest because it was the worst printed of the three and the likeliest to hide something in small type. He read it with a ruler under each line, as Vell had once taught him to read a ledger, every entry in order and none of them softer than any other. It took him nine evenings.
 
 The clause was not in it.
 
@@ -188,25 +188,33 @@ Karis read it at the long table. Then she read it again. She leaned back until t
 
 She sounded happier than she had since the hearing. She answered the four questions that night, at length, and three of the answers needed new reading, and she went and did the reading before she would let herself seal the letter.
 
+From that week there were two hunts on the long table instead of one. One was the books, which could only ever say what they said. The other was a stranger four days down the road who kept writing to ask what they meant, and whose letters, Karis said, were the better half of the work.
+
 ---
 
 It took eleven weeks in the end, from week three to week fourteen, three evenings out of every five, at the long table with the compilations laid down one side and the consolidations down the other under the good lamp.
 
-In the last month Karis did the slowest thing Cael had ever seen a person do on purpose. She took each consolidation and laid it open beside the founding compilation it claimed to consolidate, and went through the two together, page against page. Wherever the old text had a clause, she found the place in the new one where that clause ought to be and looked at what stood there instead. Usually it was the same clause in newer words. Sometimes it was a note that the clause had been struck, with the number of the schedule that struck it. Once or twice it was nothing at all, and in every one of those cases, so far, she had afterward found the strike in one of the three lists, and drawn a neat line under it, and gone on.
+In the last month Karis did the slowest thing Cael had ever seen a person do on purpose, laying each consolidation open beside the founding compilation it claimed to consolidate and going through the two together, page against page, so that every clause in the old text was matched to whatever stood in its place in the new.
 
-The assay clause was in the founding text. It was in the first consolidation, word for word. In the second consolidation, printed after the directive, it was gone. There was no strike in its place and no note and no number. It was simply not there, the way a coat stops hanging on a hook when somebody takes it down one autumn and forgets to put it back.
+In week twelve the clause nearly died, and it was Cael who nearly killed it.
 
-She checked the three lists again, every line, with Cael reading them a second time behind her.
+He found it in the directive's own repeal schedule, under his ruler, in type so small he had to bring the lamp down to the page: a clause struck by name, *of the evaluation of persons not entered in the schedule*. He sat and looked at it for a long time before he pushed the book across the table. What he felt, he noticed, was not disappointment. It was something grimmer and steadier, the feeling of having kept a promise he had hoped he would not need to keep.
 
-It was on none of them.
+Karis read it, and went white, and said nothing. Then she fetched the founding compilation and laid the two side by side, and they sat over them until the bell. The struck clause was not theirs. It was the one above it, a cousin that dealt with registry clerks and not with academies, and had borrowed half its wording. Somebody with the directive's pen had read that far, had struck the cousin by name, and had gone no further.
 
-On the Thursday night of week fourteen she laid her pen down square to the edge of the table and sat looking at the two books open side by side. Down the room, Prynn's lamp was still burning at the high desk. Lira had gone up to bed an hour before. Brom was asleep with his head on his arms at the far end of the table and his pocket book open under one big hand, at a page that was almost entirely tally marks.
+When they were certain, Karis wrote the cousin's number in her margin and drew a box round it.
+
+"That's the one somebody will throw at us one day," she said. "Now we know exactly where it lives." She looked up at him. "Thank you for pushing it across. Most people would have sat on it for a night first, hoping."
+
+The assay clause was in the founding text, and in the first consolidation word for word. In the second consolidation, printed after the directive, it was gone. There was no strike in its place and no note and no number. It was simply not there, the way a coat stops hanging on a hook when somebody takes it down one autumn and forgets to put it back.
+
+On the Thursday night of week fourteen she laid her pen down square to the edge of the table and sat looking at the two books open side by side. Down the room Prynn's lamp was still burning at the high desk. Lira had gone up to bed an hour before, and Brom was asleep with his head on his arms at the far end of the table and his pocket book open under one big hand, at a page that was almost entirely tally marks.
 
 "It wasn't repealed," said Karis.
 
 She said it in her flattest voice, the one she kept for things she was sure of.
 
-"It was orphaned. Nobody killed it. The directive swept out a whole generation of vocabulary, and every academy that used this clause stopped using it, because after the directive it looked old-fashioned and nobody wanted to look old-fashioned in front of an inspector. So it went quiet. The second consolidation dropped it because nobody was using it any more. But nobody who had the power to repeal it ever did, and there isn't a line anywhere that ends it." She laid her palm flat on the second consolidation. "The paperwork records the stopping. It doesn't record a killing, because there wasn't one."
+"It was orphaned. Everybody stopped using it, so the second consolidation left it out. But nobody who had the power to kill it ever did." She laid her palm flat on the second consolidation. "There's a gap where it used to stand, and not one line anywhere that put it there."
 
 Cael looked at the two books and the empty place in one of them where a clause had stood for decades before anybody stopped looking at it.
 
@@ -216,7 +224,7 @@ Karis turned her head and looked at him.
 
 "Custom against text." She let it sit a moment. "You've won that one before."
 
-He laughed. He could not help it; it came out of him far too loud for the archive, and Brom stirred at the end of the table without waking, and down the room Prynn's pen paused and then went on.
+He laughed. He could not help it, and it came out of him far too loud for the archive, and Brom stirred at the end of the table without waking, and down the room Prynn's pen paused and then went on.
 
 "I won it as a gap," he said. "I stood in a hole in their schedule and told them they couldn't reach me there."
 

@@ -14,13 +14,11 @@ There was no rest. She stood a moment longer with her hands in her coat, and the
 
 He stood at the pump with the handle under his palm and did not move for a long time.
 
-He knew what she had not said. He knew it as well as if she had sat down on the edge of the trough and said all of it in her driest voice, one sentence after another, the way she read a record into the roll. She had made a bet once, sitting down on a bench beside a boy nobody could classify, with her name in her pocket. It had been the largest bet of her life, and she had lost a good deal on it before it paid. She had stood behind him through a winter of sittings and a hearing, in front of a magistrate and the Compact's own officer, in a chair one row back at his own request. And now a house four times the size of this one was taking him on a documented basis, in law. For two years Quenna had looked for exactly that, a ground for him to stand on that was not borrowed, and had not found it. It had been sitting the whole time in Prynn's fifth case, waiting for Karis and her ruler.
+He knew what she had not said. She had made the largest bet of her life on a bench beside a boy nobody could classify, and lost a good deal on it before it paid, and sat one row behind him through a winter of sittings and a hearing because he had asked her to. Now a house four times the size of this one was taking him on a ground in law that she had hunted for two years and never found, because it had been sitting the whole while in Prynn's fifth case, waiting for Karis and her ruler.
 
-She had not said any of that. She had not said that she was proud of him, or that she would miss him, or that she wished it had been her. He knew all three were true. He knew she would never say a word of any of them, not to him, not to anybody, because Quenna did not put things into words that she could not afterward stand behind on a record. And she could not stand behind *I wish it had been me*. It was too much like asking for something.
+She would never say she was proud of him, or that she wished it had been her. Quenna did not put into words anything she could not afterward stand behind on a record.
 
-So she had said one sentence instead, the one that held all of it and gave none of it away. Standing at the pump, he weighed the sentence she had spent against the paragraph she had kept back, and knew which of the two had come dearer.
-
-He did not go after her. He knew that going after her would make her say something, and then the sentence would be smaller.
+So she had spent one sentence and kept the paragraph. He did not go after her, because going after her would have made her say something more, and then the sentence would have been smaller.
 
 He thought instead of a question she had asked him months ago, in the week after the match with Karis. She had asked it not for the file but for herself, and he had written it in the binder the same night because he had not known the answer. Whether he could *not* do it. Whether, in front of people who wished him harm, with everything lined up the way it had lined up once in a formal yard, he could hold still and keep his hands to himself.
 
@@ -42,7 +40,7 @@ It was one line long, in the clerk's small even hand. It said that the enrollmen
 
 The last days went quickly and slowly at once.
 
-He wrote to Hesk on the Tuesday night. It was a short letter, shorter than the last, because he had learned that Hesk read the short ones more than once. He said where they were going, and why, and that there was a registrar at the other end who had asked how to spell Hesk's name and had got it in capitals. He said the four of them were well. He did not say anything about the bout. He thought about it, and found that what he wanted to write was *I won by one exchange and maybe none*, and he could not see a way to put that to Hesk that would not sound like asking to be told it was all right. He left it out. Hesk would hear it from somebody, or he would not, and either way it would keep.
+He wrote to Hesk on the Tuesday night. It was a short letter, shorter than the last, because he had learned that Hesk read the short ones more than once. He said where they were going, and why, and that there was a registrar at the other end who had asked how to spell Hesk's name and had got it in capitals. He said the four of them were well. He did not say anything about the bout. He thought about it, and found what he wanted to write was *I won by one exchange and maybe none*, and he could not see a way to put that to Hesk that would not sound like asking to be told it was all right. He left it out. Hesk would hear it from somebody, or he would not, and either way it would keep.
 
 He had not heard from Vell.
 
@@ -64,11 +62,11 @@ He thought about it. He thought about the line from crest to knee after the four
 
 "Good." She turned to go, and then turned back. "And find somebody there who'll break your count on the third pass. Everybody gets lazy on the third pass. You more than most, because you're good at the first two."
 
-She went back up the rail and out by the side door, and that was all the goodbye there was. He stood on her stone a while longer and found that it had been exactly enough.
+She went back up the rail and out by the side door, and that was all the goodbye there was. He stood on her stone a while longer and found it had been exactly enough.
 
 He packed on the Wednesday. It did not take long, because there was not much. Two shirts and his good coat. The wraps. The observation notebook, with Greyvane's section full and closed and a blank page already headed for the next place. Hesk's letter, in the inside pocket where Brom's page had once been. The binder last of all, a third full now, with Lira's slip in the back pocket behind Karis's consent and the term's count on the last written page.
 
-Karis packed in an hour, and most of the hour was books. She had a coat with a deep inside pocket that buttoned, and she had worn it every day since the autumn. On the Wednesday night, while Cael watched from the door of her room, she checked the pocket the way he checked the knots on his wraps, without seeming to think about it. She put two fingers in, felt the folded paper there, took them out, and did up the button. She did not look at him. He did not ask. There was a copy of something in that pocket that both of them had written out by hand from a register that had not come back up the hill, and neither of them had understood it, and they had agreed without saying so that it would stay buttoned until they did.
+Karis packed in an hour, and most of the hour was books. She had a coat with a deep inside pocket that buttoned, and she had worn it every day since the autumn. On the Wednesday night, while Cael watched from the door of her room, she checked the pocket the way he checked the knots on his wraps, without seeming to think about it. She put two fingers in, felt the folded paper there, took them out, and did up the button. She did not look at him. He did not ask. There was a copy of something in that pocket that both of them had written out by hand from a register that had not come back up the hill, and neither of them had understood it, and they had agreed without a word to keep it buttoned until they did.
 
 "Ready?" said Karis.
 
@@ -106,7 +104,7 @@ He did not believe her for one instant, and she knew he did not, and she did not
 
 Then she walked on up the cart road, slowly, without a stick, and did not look back.
 
-He stood at the gate with the sheaf in his hands and watched her go. He had thought, for the whole of the term, that the space on the third shelf of the second-to-last case was a thing Prynn could not bear to close. He saw now that he had had it the wrong way round. She was not failing to close it. She was keeping it open. She would go on keeping it open every morning she unlocked her door, for the rest of her life, as the one entry in her archive that could not be answered with another entry. It would wait there for whoever came back to ask about it. She had just told him who she expected that to be, and roughly when.
+He watched her go with the sheaf in his hands, and saw he had had the gap the wrong way round all term. Prynn was not failing to close it. She was keeping it.
 
 Karis had come up at his shoulder and was looking down at the open sheaf with an expression he had last seen on her face in the intake room at Greyvane, when she first heard the word *archive*.
 
@@ -136,7 +134,7 @@ Cael counted them from the first morning, because counting was what he did with 
 
 *Day one. Two. Both mounted, both in grey, a quarter-mile back on the road from the foot of the hill, keeping the same distance whether we walk or stop. Changed at the second waystation for two more, also grey, also mounted. Neither pair spoke to the other. They nodded.*
 
-It was good walking country after the first morning. The cart road off the hill joined the high road at the stage-house, and the high road ran south and east along the top of a long ridge with farms falling away on both sides, sheepfolds and stone walls and the brown of turned fields. The four of them walked it in the order they always walked a road without ever having agreed to: Brom in front because his legs were longest, Karis beside Cael in the middle because she liked to talk while she walked, and Lira a few paces back. She said it was so that she could see everything. Cael thought it was so that she could see him.
+It was good walking country after the first morning. The cart road off the hill joined the high road at the stage-house, and the high road ran south and east along the top of a long ridge with farms falling away on both sides, sheepfolds and stone walls and the brown of turned fields. The four of them walked it in the order they always walked a road without ever having agreed to: Brom in front because his legs were longest, Karis beside Cael in the middle because she liked to talk while she walked, and Lira a few paces back. She said it was so she could see everything. Cael thought it was so she could see him.
 
 They let the cart go on ahead with the bags and walked behind it. Nobody suggested riding. They had walked into Greyvane, and it seemed right to walk out.
 
