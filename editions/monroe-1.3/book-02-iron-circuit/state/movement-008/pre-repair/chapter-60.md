@@ -1,0 +1,231 @@
+# Chapter 60 — The Road East
+
+Dace found Reydan at the market pump an hour before light, which was exactly where Reydan had said he would be.
+
+The wool wagon that had brought him down the river three weeks ago was going back up it that morning, empty, and the carter had agreed to take him as far as the first ferry for four coppers and the promise that he would not bleed on the fleeces. Reydan had laughed at that, the day before, and then stopped laughing because of the ribs, and paid the four coppers. Now he stood by the pump in his good plain coat with his bag at his feet, in the frost, with one hand inside the coat against his side, and watched the market wake up.
+
+He liked watching a place wake up. It was a thing he had never been able to do in his own city, where somebody had always been waiting for him somewhere with a schedule. Here nobody was waiting for him. The pie woman was taking down her shutters. Her new boy, the one with the black eye, was sweeping the frost off her step with more energy than the frost needed. The mending stall was half open, a lamp behind the cloth. The betting man was setting up his trestle board by the steps and blowing on his fingers, and when he had it set he took a piece of chalk from behind his ear and wrote something at the very top of it, small, and stood back to look at it.
+
+Dace came up the market row from the Ironyard end with a parcel under his arm wrapped in oilcloth and tied with string, and stopped in front of him.
+
+"The account," said Dace. He held out the parcel. "Your keeper lent it to me. I said I'd send it back with the first man going up the river I'd trust with it. You're the first."
+
+Reydan took it. It was not heavy: nine pages and a board cover, wrapped against the wet. He knew what was in it, near enough. He had never read it. He knew that a clerk had sat at the back of a hall in his second season with a book on his knee and written down everything he did for somebody who was paying, and that the somebody had been one of the houses that had lost boys to him, and that the clerk had been good at his work. He had always meant to ask the lamp-oil keeper to let him read it, and had always decided against it, because it seemed to him that a man who read what had been written about him by a stranger would start fighting to the page.
+
+"Did you read it?" he said.
+
+"Twice," said Dace. "And the boy read it once, in my back room, with me standing over him to see he didn't copy anything." He looked at Reydan sideways. "There's a line in it about the only bout you lost in the river halls. *Declined to be interesting for four exchanges.* The boy wrote that one down in his head, I'd swear. He had it by heart the next day."
+
+Reydan stood with the parcel in his hands and thought about the stone, and the four exchanges, and a boy who had stood off and thrown nothing for the whole of the first one and let two open doors close in front of him.
+
+"Did he," he said.
+
+"He did." Dace looked out across the market. "For what it's worth, he didn't fight you the way that man did. I've seen a lot of bouts. He didn't decline anything. He was the most interesting thing on my floor in twenty years, and he was interesting on purpose, at the right moment, and not one exchange before." He shrugged. "That's a different thing. I thought you'd want to know it was a different thing."
+
+Reydan found that he did want to know it.
+
+He put the parcel in his bag, carefully, under his spare shirt, where the wet would not get at it. When he straightened up, which took longer than it should have, Dace had gone. He had gone across the market toward the pump steps, where three people with packs on their backs had just come down out of the dark of the boarding-house row into the lamplight of the stalls.
+
+Reydan knew all three of them. He had looked at every one of them for an hour across a lit floor. There was the big one, Iron Skin, who stood like a gatepost and had stood at the north rope on Tuesday with a face like a shut door for four exchanges. There was the girl with the staff, who had stood at the south rope behind his own shoulder, so close that he had felt her not breathing. And there was the boy, with his left arm out of its scarf now but held carefully, and his right shoulder a little stiff, and a binder in oilskin under his arm.
+
+Reydan had thought, lying on his left side in the room over the saddler's for a week, about going to find him before he went. He had thought about asking him again, properly, somewhere quiet, what it was he had done. He had decided against it, every night, for the same reason each time. He had asked already, on the floor, and been told the truth: *I don't have one.* The boy did not know. A man did not get a better answer by asking the same question twice of somebody who had not had time to find a new one. He would ask again when the boy had had time. A year. Two. However long it was. He had told him so, and he had meant it, and the meaning had not worn off.
+
+He watched Dace give the boy something small and white, and the boy put it inside his coat.
+
+Then the boy looked up, across the stalls, and found him.
+
+They looked at each other across the whole width of the waking market, over the pie woman's shutters and the betting man's board and the steam going up from the cookshop's first pot. It was the same look they had given each other across the lit floor on the Monday night before the bout, an hour of it, each giving the other nothing. But it was not the same at all. Reydan was giving him something now, and he could see that the boy was giving something back, and neither of them had any words for it, and neither of them needed any.
+
+Reydan nodded. It was a small nod, the nod a man gives across a room to somebody he will be seeing again.
+
+The boy nodded back.
+
+Then the carter shouted from the end of the row that the wagon would not wait for a man with a broken rib all morning, and Reydan picked up his bag and went.
+
+---
+
+Brom had been at the pump an hour, as Lira had said he would be. He was sitting on the edge of the trough with his bag between his boots and his breath going up in the frost, and when he saw them he stood, and picked the bag up, and did not say anything at all, because nothing needed saying.
+
+The market did not make anything of them. That was the way of the place, and Cael had stopped expecting anything else from it; it did not do farewells, any more than Brom did, but it did something that he had come to like better. It took notice, in passing, at exactly the size the knowing had earned, and then it went back to its work.
+
+The pie woman put a pie in his hand as he passed her step and turned back to her shutters before he could thank her. Her boy with the black eye stopped sweeping and stared at the three of them with his mouth open until she cuffed him gently and he went back to it. The chestnut man on the corner had not yet lit his brazier, but he lifted one hand from his sack of chestnuts as they went by, and kept it lifted until they had passed.
+
+The paper-stall man was standing behind his counter with his slate in front of him. Cael had paid the line in full the evening before, out of the main-floor purse, every copper of it, and the man had taken the money and then, in front of him, wiped the slate clean with his sleeve. There was nothing on it now. But as they went by he tapped the empty place on the slate twice with one finger, and said, "Feeling well?"
+
+"Very."
+
+"Bring it back full," said the paper-stall man, and nodded at the binder under Cael's arm.
+
+The mending-stall woman did not come out from under her cloth. She looked out at them through the gap in it, over her iron spectacles, with her needle in her hand, and she looked not at Cael at all but at Lira.
+
+"Feed him," she said.
+
+"I will."
+
+"Feed yourself as well. You've gone thin this fortnight." The needle went back in. "Go on. You're in my light."
+
+The betting man had his board up by the steps. At the very top, above the day's columns, small, in white chalk, he had written *C. — gone east. No price.* He did not look round as they passed. He only reached up as they went by and drew a short line under it, firmly, as if he were closing a book.
+
+Dace came across the market toward them with his hands in his coat. He walked as he always walked, briskly, as if he had six things to do and this was the fourth. He stopped in front of Cael and took one hand out of the coat, and there was a folded paper in it, sealed with a blob of plain candle wax.
+
+"From one of my regulars," said Dace. "He's come to every bout of yours since the spring. Never fought you; never will. He came to my wall last week and gave me this, and asked me to put it in your hand the morning you went, and not before. I asked him why he didn't give it you himself." Dace's mouth went thin. "He said that wasn't the kind of thing he did."
+
+"Who is he?"
+
+"He asked me not to say," said Dace. "So I'll not." He held the note out until Cael took it. Then he put his hand back in his coat, and looked at the three of them, one after the other, as he looked at names on his wall when he was deciding whether to move them.
+
+"The floor's yours," he said, "if you come back. Any of you. Any card." He turned to go, and turned back. "Don't come back for a while. Go and be somewhere else first. Then come back and tell me about it."
+
+He went off toward the Ironyard without another word, at the same brisk pace, a man with six things to do.
+
+Cael put the note inside his coat, next to Vell's sheaf, without opening it.
+
+It was then that he looked up across the stalls and found Reydan.
+
+The man was standing by the far pump with a bag at his feet, a hand inside his coat against his ribs, and he was looking straight at Cael over the whole width of the market. Neither of them moved. There was no need to cross the distance and nothing to say if they did. The bout had said most of it. The rest was a question that belonged to some other year, when one of them had an answer. Reydan nodded, once, the small plain nod of a man who expects to see you again. Cael nodded back.
+
+Then a carter shouted at the end of the row, and Reydan picked up his bag, and was gone.
+
+He could still hear the man saying it, on the floor, with the mark of the stone on his cheek: *Find me later. I want the answer when you have it.*
+
+He did not have it, and could not have said when he might. Standing in the market with a pie going cold in his hand, he put it into the ledger he kept in his head of things owed: Vell's cupboard, and Keth's supper, and now this, which was the largest of the three.
+
+"Come on," said Lira. "Before the whole hill comes out to look at you."
+
+---
+
+The district gate on the east road was only an arch: two old stone posts and a beam across them, with a gate that had not been shut in living memory hanging open on one hinge beside it. The tannery lanes ran down to it on one side and the last of the boarding houses on the other. Beyond it the road went up out of the district between two walls, climbing, and then out of the walls into open country, and away.
+
+They went through it without stopping, because there was nothing to stop for, and a hundred paces up the hill Cael looked back.
+
+He looked back once. He had promised himself he would let himself look once and no more, and he kept to it.
+
+The district lay below him in the first light with the smoke of a thousand chimneys going straight up into the cold, and from this high he could cover the whole of it with one hand. He did not cover it. He went over it instead, the way he went over a bench before a bout, one place at a time, so that he would have it. There was the Ironyard, black and square in the middle, with the north window dark, because Lira had said she would not light it on the last night and she had not. There was the low roof of the back room, where a cupboard waited. There was the market row, with the smoke of the cookshop's first pot going up crooked at the top of it. There was the boarding-house row, and the blind end of it, and somewhere in the blind end a lamp in a front window that a heavyset man had perhaps not yet put out. There were the tannery lanes, and the ropewalk, and the river, grey, going away south toward the coast where the keepers' couriers came from. He named every one of them to himself, silently, like a roll called in a yard, and every one of them answered.
+
+*That's enough,* he thought. *That'll keep.*
+
+Then he turned his back on the district and went on up the hill.
+
+He opened Dace's note at the top of the first rise, where the walls ended and the road came out into open country. He broke the candle wax with his thumb and unfolded it. It was a half-sheet of cheap paper, the kind the paper stall sold by the dozen, and the hand on it was careful and unpractised, the hand of a man who did not write often and had plainly written this more than once before he got it the way he wanted it.
+
+*For whatever it's worth: you fought honestly. That matters here.*
+
+That was all. There was no name.
+
+He read it standing still, and then walking, and then standing still again at the top of the rise with the wind coming over it. He tried to think who it could have been, a man who had come to his bouts since the spring and never fought him and never would. He went through the benches in his head, the east bench and the back wall and the steps of the side door, all the faces he had sorted and filed over a year. There were a hundred of them, two hundred. He did not know which. He didn't know the man's name. He never would.
+
+Cael found that he did not mind not knowing. A stranger had sat on a bench for a season, watching, and had decided something about him, and had taken the trouble to write it down and the further trouble to keep his own name out of it. That seemed to Cael, standing on the rise, about as honest a thing as anybody had ever done for him. He put the note inside his coat, with the sheaf and the binder, among the papers he meant to keep.
+
+Lira had read it over his shoulder. She had not asked; she never asked, and he had long ago stopped minding. She put her chin on his good shoulder for a moment, looking at the paper, and then took it away.
+
+"That's the whole district in one sentence."
+
+They walked on. The road went along the side of a long hill now, with rough grass on one side going down to a stream and a drystone wall on the other, and the sun came up behind the hill ahead of them and laid their three shadows out long on the road behind.
+
+"I used to think," said Lira, after a long time, "that the best day of my life would be the day a letter came from Fenmark. Saying they'd been wrong. Saying the examiner had been wrong, and the hall had been wrong, and they'd like me to come back, and they were sorry." She walked a few paces. "I used to lie awake writing it for them. I had it word for word. I'd changed it a hundred times."
+
+"And now?"
+
+"Now I don't think it'll ever come, and I find I don't need it to." She said it plainly, without any weight, as if she were telling him the time. "If it came, I'd read it. I'd probably keep it. I'd probably show it to you and make you read it twice. But I'd not need it. I don't know when that stopped. Somewhere on that hill. Somewhere between Maud and the lamp." She looked at the road ahead. "Greyvane's not about them any more. It was, when she first said *Fenmark* on the stone. It isn't now. It's about finding out how far it goes, whatever it is I've got, with somebody asking every month and me answering."
+
+Cael walked beside her and thought about the lamp in the north window. A year of nights she had worked under it, alone, at a thing she would not show anybody, so that one day she would be too good for a hall in another city to go on pretending it had been right. He had heard her at it from his bed. Somewhere in that year the hall had dropped out of the work, quietly, without her noticing the night it went, and only the work had been left. He thought that was the largest thing that had happened to either of them on that hill, larger than a fragment or a bout, and that she had not even known it was happening.
+
+"You still want to be the best Wind alive," he said.
+
+"Oh, yes." Lira swung her staff up onto her shoulder. "I've not stopped wanting that for a minute. I've only stopped needing anybody at Fenmark to stand and watch me do it." She grinned at the road. "Give me a month."
+
+---
+
+They stopped at the first rest when the sun was well up, on a low wall at the side of the road where a stream went under it through a stone culvert. Brom sat on the wall and took his boots off and put his feet in the stream and made a noise like a man stepping into a cold bath. Lira unwrapped the heavyset man's wife's parcel and found the cold fowl and held it up in the sunlight like a prize.
+
+Cael sat on the wall with the binder open on his knees.
+
+"You're doing the thing." Lira tore a wing off the fowl with great care and gave it all her attention.
+
+"What thing?"
+
+"The thing where you sit on a wall a mile out of a town and write down the whole of your life in it before anybody's even had any breakfast." She held out a leg of the fowl to him. "Go on. You'll be no use to anybody till it's written. Eat that first."
+
+He ate it first. Then he turned to the back of the binder, behind the four entries and behind session nine alone on its leaf, to the clean pages that the paper-stall man had told him to bring back full, and wrote.
+
+*Ardenmere, behind. Greyvane, three days east.*
+
+*Four confirmed fragments. Wind, Lira's; Pressure, Feryn's; Iron, Brom's; Compression, Reydan's. All partial. All found in me afterward; none taken, none called. One anomaly: session nine, alone on its leaf, and staying there.*
+
+*A record that's mine, in Vell's hand, stamped. A word in a registry that isn't. A note from a man whose name I'll never know. A promise owed to a cupboard, a supper owed to Keth, and a question owed to Reydan.*
+
+*Two people who know all of it. Neither one of them has turned back.*
+
+He stopped, and looked at that, and then he turned back, a long way back, past all four entries to the very front of the binder. There, on the inside of the old cover, which he had cut off the stitched book and set under the rings like any other page, was a sentence he had written in another winter, in another town, in a hand that was hardly his. *They're not separate things I switch between. They're one thing with parts I haven't found all of yet.*
+
+He had written it when there were two parts. There were four now, and one that was not a part at all, or not one he could name. He did not know what the one thing was. He knew less about it than he had thought he knew when he wrote that sentence, and he knew a great deal more about how much there was not to know.
+
+*Still true,* he wrote under it, small. *More parts. Same one thing. Still haven't found all of it.*
+
+He shut the binder.
+
+---
+
+They tested the fragment at the midday rest, because Brom had brought his hands, as he had said he would, and because Cael could feel the right shoulder had something in it to give at last. It was not much. A little.
+
+They found a flat place in the grass off the road, beside a thorn tree, out of the wind. Brom knelt on one knee facing him, close, as they had stood in the alcove a hundred times, and Cael knelt opposite with his left forearm braced across his chest. It was the forearm that had been yellow a week ago and was nearly its own colour now. Lira sat on the wall with the rest of the fowl and watched. She was watching, Cael was fairly sure, mostly in hope of seeing him fail.
+
+"Slow," said Cael. "As slow as you can make it. A tenth. Less."
+
+"A tenth," said Brom. "May I?"
+
+"You may."
+
+Brom put his right palm against Cael's braced forearm, flat, and let a little of the hardening come into his hand, so that it met the arm not like a palm but like a flat stone. Then he leaned.
+
+The push came in steady and slow, a fraction of a real one, a weight a man could count. Cael reached for the thing in his shoulder the moment he felt it start, the way he would have reached for the hip.
+
+Nothing.
+
+The push came and went. His forearm took it as a forearm takes anything, and the thing in his shoulder did not so much as stir. It sat there like a cat in a window that has heard its name and decided not to know it. He remembered the Wind like that, a winter and a half ago in a frozen yard, written down in ink and refusing every morning to come.
+
+"Again," said Cael.
+
+The second time he reached harder, earlier, as soon as the push began, and he caught something. A piece of Brom's push gathered in him, clumsily, half of it and then less, and turned, and he had not given it anywhere to go. So it went where it liked. It went down, fast, through his hip and into his left knee, which was the nearest joint and the one he had knelt on, and the knee took it with a deep, dull, sick ache from the inside, as if he had been struck there by something hidden under the skin. He sat back on his heels with his breath hissing through his teeth.
+
+"That looked wrong," said Brom, with great interest.
+
+"It felt wrong."
+
+"Good." Brom set his hand again. "That's one road it takes when you don't give it one. Worth knowing the roads."
+
+They went on. The next four did nothing. He reached too early on every one of them, before the push had properly arrived, and the fragment did not answer; it was like knocking on a door before anybody had come to the other side of it. On the seventh he waited, because he was tired of reaching, and let the push come all the way in, into the bone, until it was his. And then, in the moment before it could choose a road of its own, he chose one for it. Back, he thought, along the line it came in, the way it went home on the floor.
+
+A quarter of it went.
+
+It was not much. It was a quarter of a slow push, a tenth of a real one: a small, solid knock back into Brom's hardened palm, like a door shutting in another room. But it went where he had sent it, along the line, home. He saw Brom's eyebrows go up.
+
+Then the bill came.
+
+It came up through the right shoulder and across the breastbone all at once, in a band of heat and weight, as if somebody had laid a hot iron bar along his collarbones and leaned on it. For two breaths he could not fill his lungs at all. He knelt in the grass under the thorn tree with his teeth together and waited them out, and he felt it, oddly, most of all in his teeth: a deep, aching hum in the jaw, the way your teeth feel when you bite down on something cold.
+
+"Quarter," said Brom quietly.
+
+"Quarter," said Cael, when he could.
+
+He did it twice more before Brom stopped him, and caught a quarter once and nothing the other time, and the quarter cost exactly what the first had cost, no more and no less. He was bad at it. There was no kinder way to put it, so he did not look for one. He was clumsier than he had been at anything in a year and a half. It was expensive, and slow, and it came perhaps one time in four, and when it came it brought back a quarter of what Brom put in.
+
+Cael found, sitting on the wall afterward with his shoulder humming and Lira handing him the last of the fowl, that he was not in the least troubled by it. He wrote it down at once, before they walked on, the old way, in the binder on his knees.
+
+*Compression-adjacent, first tries on purpose. Road, first day. Nothing when I reach early. Once into the left knee when I caught it with nowhere to send it. Once a quarter, sent back along the line, when I waited till it was in me and chose the road first. Cost: shoulder and breastbone, two breaths, and my teeth. Clumsy, dear, weak.*
+
+*Exactly like Wind at the start.*
+
+He looked at that last line for a while. Then he shut the binder and put it in its oilskin, and stood up, and his knee told him about the second try and his shoulder told him about the seventh, and he did not mind either of them.
+
+They walked on in the afternoon, east, up the long side of the hill. The road was wide enough for three, so they walked three abreast, Brom on the outside and Lira on the inside and Cael between them. When a cart came the other way they went into single file without anybody saying anything, and when it had gone they came back again. Their three paces had become one pace somewhere in the last year without any of them noticing, so that nobody had to hurry and nobody had to wait.
+
+"I have four things that aren't a Path," said Cael, when they had gone a long way without talking, "and two people who know about it. This might be enough."
+
+"It's a start," said Brom.
+
+"It's more than we had when we got here," said Lira.
+
+"Yes," said Cael.
+
+The road went on ahead of them up the hill, pale in the afternoon sun, and over the top of it, and on, toward a place none of them had ever seen, three days east, that had written their names down before they came. Cael walked between the two of them with his shoulder humming and his knee aching and the binder under his arm, full of pages and with room for more, and did not look back again.
