@@ -26,15 +26,15 @@ The clerk with ink on his thumbs looked up from the practice register and saw hi
 
 "No," the clerk agreed sadly. "The margin never does."
 
-He had known his name would not be there. He had no tier, and the ladder read off the tier, and there was nothing on any certificate anywhere for it to read. He had known that since the porter wiped the boards. Knowing it and standing over four hundred and twelve names in a book with his hand on the page were different things.
+He had known his name would not be there. A ladder is fed by certificates, and no certificate anywhere carried a tier against his name for it to be fed. He had known that since the porter wiped the boards. Knowing it and standing over four hundred and twelve names in a book with his hand on the page were different things.
 
-No line. No bracket, so no seed. No session pairings, no challenge windows, no slow climb of four rungs at a time. No crown, at any level of performance, in any year, under any circumstances at all. If he walked out onto the Crown yard's floor tomorrow and beat everybody on the bluff one after another in front of eleven hundred people, the boards would not change by a single stroke of chalk, because there was nowhere on them for him to be.
+No line. No bracket, so no seed. No session pairings, no challenge windows, no slow climb of four rungs at a time. No crown, at any level of performance, in any year, under any circumstances at all. He could go down into the sunk floor tomorrow and put every practitioner on the bluff on the boards, one after another, with eleven hundred people watching, and not one stroke of chalk on any of the four walls would move. There was no place for it to move to.
 
 *Present everywhere. Eligible nowhere.*
 
 He wrote that on the steps, and then sat looking at it.
 
-At Greyvane he had made a discipline out of this, over a year, and called it a vantage point. If you could not compete, you could watch, and a person nobody was measuring had the best seat in any building. He had believed it. He had built a good part of himself on it. Halcenvane was going to find out, he thought, whether he had meant it.
+At Greyvane he had made a discipline out of this, over a year, and called it a vantage point. If you could not compete, you could watch, and a person nobody was measuring had the best seat in any building. He had believed it. He had built a good part of himself on it. Now he would learn, on this bluff, how much of that belief had been real and how much had only been comfort.
 
 *Honest answer, twenty-eighth day: mostly.*
 
@@ -42,7 +42,7 @@ At Greyvane he had made a discipline out of this, over a year, and called it a v
 
 *Also true, and I'd rather it was on paper than not: I stood at the ladder book today for a long time reading four hundred and twelve names, and mine wasn't one of them, and it never will be, and I minded.*
 
-*Not the crown. I don't want the crown. I want the line. A row of chalk on a wall that says what I did this season, in front of everybody, that anybody at all could walk up and check.*
+*It isn't the crown. I could not care less about the crown. It's the line I want: one row on a wall, in somebody else's chalk, saying what I did between the first bell of a season and the last, where anybody walking past could read it and argue with it.*
 
 *I've wanted that since Denvash. It has never once been on offer. I should stop being surprised.*
 
@@ -108,11 +108,11 @@ Then he sat down with the binder, opened it at the page where three years ago he
 
 *Wind-adjacent, sprung timber, three sessions.*
 
-*Cost in the air: unchanged. The held half-breath belongs to the framework, not the floor. I pay it the same on stone, on timber, on cracked yard.*
+*Going in: no change. The half-breath I hold at the start is the framework's own toll. Stone, oak, cracked yard, I pay it the same.*
 
 *Landing beat: unchanged in length. Still the same locked half-breath. Never shortened.*
 
-*Consequence of the landing: changed. On these boards the hip strain after four bursts is about what three cost me on Greyvane's stone. Roughly a third less, across a comparable session.*
+*What the landing costs afterward: changed. Four bursts on these boards leave my hip about where three used to leave it on Greyvane's stone. Call it a third off, session for session.*
 
 *So on a floor like this one my working ceiling is four free, not three, and the fifth is the one that bills the next morning.*
 
@@ -120,13 +120,13 @@ Wray had told him to measure again. He had nodded and meant it and carried her n
 
 He was not simply pleased. He sat at the desk by the window with the binder open and the river going by below and the thing underneath it came up slowly into the light, like a stone surfacing in a ploughed field.
 
-*Which means the ceiling was never all mine. Some of it was Wray's stone. I've been pricing this fragment for three years with a measurement that had a building in it, and I never once asked which part was me and which part was the floor.*
+*So the number I've been calling my ceiling was partly Wray's stone. Three years I've priced this fragment with a ruler that had a floor built into it, and I never once asked how much of the reading was me.*
 
 *And if that's true of the Wind, I don't know that it's untrue of anything else in here.*
 
 He turned back through the binder. Every price in it had been measured somewhere: the read on the Ironyard's planks, Compression on a stone floor in a cold hall, Ember on a training floor with Karis counting. Every one of them had been written down as though it were a fact about him, and every one had been taken in one place, under one set of conditions, and never taken again anywhere else, because he had never had anywhere else to take it.
 
-*Every limit in this binder may have something in it that isn't me. I don't know how much. I don't know which. Going back through all of it, one line at a time, with that question.*
+*Every limit in this binder may be partly made of the room I measured it in. I don't know how much, or which. I'm going back through all of it, line by line, asking.*
 
 The Compression page was the one that kept him longest. Reydan's fragment did one thing: it took a push that arrived on him and sent it down through his bones into whatever he stood on. He had measured its price on a cold stone floor in a hall where the stone took everything he gave it and gave nothing back, a forearm ache delayed a minute and lasting two hours, a hand that shook. But a floor that gave and returned was not a floor that only took. If he sent a push down through himself into oak on bearers, the oak would give under it. And then, if the east hall's boards did with a push what they had done with his landing, they would give some of it back.
 
@@ -148,7 +148,7 @@ Cael did not go to bed at once. He sat a while longer with the four pages under 
 
 ---
 
-The supervisors were the other education, and it came to him in the rota.
+He learned the rest from the supervisors, a lesson at a time, in whatever order the rota sent them.
 
 The assessment office never sent the same instructor twice in a fortnight. He understood why after the third week; a supervisor who saw him often would form a view, and a view was a thing the office would rather nobody had. So he was handed round the faculty like a document being initialled, and in his first month on the floors he trained in front of eleven of them, none more than twice.
 
@@ -160,7 +160,7 @@ They did it in their own ways, which was how he learned to tell them apart. A Cu
 
 *Eleven supervisors. Eleven crossovers. No exceptions. Earliest at ten minutes, latest at nineteen. Mean, fourteen.*
 
-*Not one of them has said a word to me about it. Not one question in a month.*
+*In a month, not one of the eleven has asked me a single thing.*
 
 *At Greyvane people asked. All day, every day, badly, in corridors and at meals and through doors. Here, nobody asks. Eleven people who've each seen something they want to ask about have each, separately, not asked, and they've all not asked in exactly the same way.*
 
@@ -180,13 +180,13 @@ The Ash instructor had crossed over at the twelfth minute, like all the rest; he
 
 He did not know anybody else on the bluff who had made that choice where he could see them make it.
 
-*Standing, fourth line. The Ash Path instructor, lecture range. Crossed at twelve minutes. Chose not to stare, and let me see her choose it. Dated, thirty-fifth day.*
+*Standing, fourth line. The Ash Path instructor, lecture range. Crossed at twelve minutes. Chose not to stare, and let me see her choose it. Dated, thirty-first day.*
 
 ---
 
-Karis got her research standing in writing on the thirty-sixth day, after four sessions with Bracken and one with the library committee, and came back to the common room in a state Cael had seen perhaps twice in his life.
+On the thirty-second day Karis came into the common room carrying a single folded sheet in both hands, the way a person carries a bowl filled to the brim, and Cael, who had seen that walk perhaps twice in his life, put down his pen. It had taken her four meetings with Bracken and an afternoon in front of the library committee.
 
-She put the document on the table and did not sit down.
+She laid the sheet on the table and stayed on her feet.
 
 "Terms," she said. "Three of them. One." She laid a finger on the first. "Carrel eleven, a key, overnight retention. I had that already. Now it's in writing, which means nobody can decide in a bad week that I didn't. Two. The third and fourth floors of the law range without an escort. Bracken says that's faculty-only by custom, and he's granted it on the grounds that I have *demonstrated documentary competence to the institution's benefit*." She said it with great relish. "That's the kindest sentence anybody's ever written about me, and it's in a register."
 
@@ -194,17 +194,17 @@ She put the document on the table and did not sit down.
 
 Her face changed. It became the face she wore for the four lines in the founding compilation, careful and narrow and very bright.
 
-"Three is the one I fought for," said Karis. "Anything I compile from those floors in support of the provision's defense is filed as institutional work, not as student work, and it's held by the registrar. Not by the library."
+"Three is the one I fought for," said Karis. "Whatever I put together up there for your provision's defense belongs to the institution. Not to me, as a student. Bracken keeps it. The library never gets it."
 
-Brom, who had been half asleep on the settle, opened one eye. "Why does that matter?"
+Brom lifted his head off the arm of the settle. "Why does that matter?"
 
 "Because of what happens at the end of a cycle." Karis finally sat. "The committee's charter has a clause about it. Clause six. Student work done in the library is gathered up at the close of each academic cycle and taken into the library's own holdings. Catalogued, shelved, opened to any reader on the bluff, or on the coast, or anybody who writes in with a fee." She tapped the third term. "Institutional work held by the registrar isn't. It stays in his cabinet, under his key, read by whoever he says may read it. It's a filing distinction."
 
 "It's a filing distinction," said Brom, in the voice of a man trying to sound interested.
 
-"Filing distinctions are the whole of it." Karis said it without heat, as a plain fact. "Nobody ever believes me about that until the day something goes wrong. I want it written down now, while nothing has." She looked at Cael. "Everything I write on your provision will have your name in it, all through. I'd rather it sat in Bracken's cabinet than on an open shelf."
+"Filing distinctions are the whole of it." Karis said it without heat, as a plain fact. "Everybody thinks I'm fussing, right up until the morning they need one. I want this one on paper now, while nobody needs it." She looked at Cael. "Everything I write on your provision will have your name in it, all through. I'd rather it sat in Bracken's cabinet than on an open shelf."
 
-Cael looked at the third term for a while. He thought about a delegation's boxes coming back up a hill under wax, a volume short, and an old woman at a high desk saying nothing about the gap.
+Cael read the third term again. He thought about a delegation's boxes coming back up a hill under wax, a volume short, and an old woman at a high desk saying nothing about the gap.
 
 "Yes," he said. "So would I."
 
@@ -212,7 +212,7 @@ Cael looked at the third term for a while. He thought about a delegation's boxes
 
 "Go on."
 
-"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane had founding-era books because Greyvane was built on a road-house and inherited a shelf. Halcenvane bought its registry law on purpose, for a hundred and forty years, as a collection. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. There are eleven bays on those two floors. Four of them are the years those four lines were written in."
+"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. There are eleven bays on those two floors. And four of the eleven bays hold nothing but the decades my four lines come from."
 
 "How long to read them?"
 
@@ -220,7 +220,7 @@ Cael looked at the third term for a while. He thought about a delegation's boxes
 
 "You sound pleased."
 
-"Cael." She looked at him with complete seriousness. "I have spent my entire life running out of things to read. Do you understand? Every library I've ever been let into, I came to the end of. Dellenmoor. Greyvane. Prynn's, very nearly, and Prynn's was the best." She laid her palm on the document. "Today somebody gave me a place I can't come to the end of. Not in the time I've got. I don't think anybody's ever given me anything better."
+"Cael." She looked at him with complete seriousness. "Every place I've ever been let in, I've read to the back wall. Do you understand? Every library I've ever been let into, I came to the end of. Dellenmoor. Greyvane. Prynn's, very nearly, and Prynn's was the best." She laid her palm on the document. "Today somebody gave me a place I can't come to the end of. Not in the time I've got. I don't think anybody's ever given me anything better."
 
 Lira had come in at the door partway through and stood leaning on the frame with her arms folded, listening. She did not come further in.
 
@@ -228,9 +228,9 @@ Lira had come in at the door partway through and stood leaning on the frame with
 
 "I read them their own charter." Karis looked round at her. "It isn't the same thing. Arguing makes people dig in. Reading them their own clause makes them look for the door."
 
-"I'll remember that." Lira said it lightly, but Cael saw her look at the document on the table for a moment longer than she needed to, at the three terms in Bracken's small upright hand, written down, initialled, unamendable by a bad week. Then she pushed off the doorframe. "Practice register's out. I'm six and nil."
+"I'll remember that." Lira said it lightly, but Cael saw her look at the document on the table for a moment longer than she needed to, at the three terms in Bracken's small upright hand, written down, initialled, unamendable by a bad week. Then she pushed off the doorframe. "Practice register's out. I'm eight and nil."
 
-"Six?" said Brom, sitting up.
+"Eight?" said Brom, sitting up.
 
 "A Mire third-year. He tried to make the floor sticky." She was already going. "It didn't stick."
 

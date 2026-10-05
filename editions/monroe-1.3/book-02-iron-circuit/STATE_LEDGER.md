@@ -318,3 +318,8 @@ Open threads now:
     *Flag.*
 18. **The market square**: four lanes and a pump on a hollowed step at the top of the market row, with the pie stall, the paper stall and Red Cap's corner. The keeper sends Havel there ("Mornings… the market"). *Flag (meets B3 Ch18's "market square").*
 19. **The pear** offered and declined; *He offered me a pear.* in Havel's note. *Flag (a small Havel–Cael thread for M5).*
+
+### Movement 2 — CLOSED (2026-10-04, after repair r1; Sol recheck: CLOSE, no line fixes)
+- Ch9–15, 34,502 words. Mean 14.40, ≥40w 3.3%, 958 w/scene; overlap 0 (4 protected); probe 1%; gates 0.
+- Canon ruling (Sol): Havel's "four files … none open more than a few weeks" is CONSISTENT with Book 1's "the fourth unknown" — a registry file can close without the public summary recording the subject as dead (Book 3 ch17: Cael read all four files; "Three of the four files simply ended"; removal complete within days in every case).
+- Authorship: claude-opus-5-5. Published to the PWA: Book 2 Monroe 1.3 edition ch1–15, "in progress".

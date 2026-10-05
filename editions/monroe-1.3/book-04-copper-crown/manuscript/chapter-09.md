@@ -86,7 +86,7 @@ At the table the instructor dipped his pen and wrote the line in the practice re
 
 ---
 
-By the end of the month she had fought nine and won nine, and the practice register had every one of them written down in black ink, and the seeding had not moved by a line.
+Inside ten days she had fought nine and won nine, and the practice register had every one of them written down in black ink, and the seeding had not moved by a line.
 
 Cael checked. He had made himself check, every three days, because a thing he believed without checking was a thing he was going to be wrong about one day in public. The ladder book showed the Copper column in last season's order, with the new names at the foot in the order they had signed, and Lira's was the sixty-fifth of sixty-five. Nine practice wins sat in the register a hand's width to the left, and the two books did not speak to each other at all.
 
@@ -94,17 +94,17 @@ The porter, sweeping the tiers one evening, had stopped beside him at the rail a
 
 "Nine," said the porter, to the steps. "That's not usual."
 
-It was the only comment anybody official made all month.
+It was the only comment anybody official made.
 
 Not everybody was silent, though. The notebooks on the tiers had found her by the third bout. Cael counted them as he counted everything: four faces at first, then seven, then nine, the same people in the same places on the second and third tiers, writing when Lira walked out to her chalk and writing harder when she walked back. Some were Copper practitioners studying a name that would one day be in front of them. Two, he was nearly sure, were Iron, and had no reason on the ladder to care about a Copper transfer at all, except that they could see her as clearly as he could.
 
-Lira had seen them too. She said nothing about them. But from the fourth bout on she never opened the same way twice. She came straight, and then she came wide, and then she came so slowly that her opponent went out to meet her and found her already somewhere else. In the sixth bout she did not move off her chalk for the whole of the first exchange and let a Current second-year come all the way to her, which Cael had never in three years seen her do, and won it on the counter. The notebooks wrote it all down. By the end of the month they had nine bouts of Lira and, as far as Cael could tell, not one thing they could use, because she had given them nine different fighters.
+Lira had seen them too. She said nothing about them. But from the fourth bout on she never opened the same way twice. She came straight, and then she came wide, and then she came so slowly that her opponent went out to meet her and found her already somewhere else. In the sixth bout she did not move off her chalk for the whole of the first exchange and let a Current second-year come all the way to her, which Cael had never in three years seen her do, and won it on the counter. The notebooks wrote it all down. By the ninth they had nine bouts of Lira and, as far as Cael could tell, not one thing they could use, because she had given them nine different fighters.
 
 "You're spending a lot," he said once, on the steps. "Showing them nine ways."
 
 "I've got more than nine." She did not slow down. "And they'll only have seen each one once."
 
-Lira read the books every evening. She had stopped saying anything about them after the first week, which Cael thought was worse, and she would stand at the board on the rim with her arms folded and her face set, and then walk away. On the fortieth evening she did not walk away. She stood there long enough for him to come up beside her.
+Lira read the books every evening. She had stopped saying anything about them after the first week, which Cael thought was worse, and she would stand at the board on the rim with her arms folded and her face set, and then walk away. On the thirty-fourth evening she did not walk away. She stood there long enough for him to come up beside her.
 
 "Three a year," she said.
 
@@ -114,19 +114,19 @@ He waited.
 
 "Three from her desk," said Cael. "In two years. That's one clerk's share. That's not the throughput of the queue."
 
-"Do you know the throughput of the queue?"
+"And how many does the whole queue move?"
 
-"No."
+"I don't know."
 
-"Then that's not a comfort, it's a correction."
+"That's not a comfort, it's a correction."
 
 "I didn't say it to comfort you."
 
-"I know you didn't." She breathed out, long and slow, through her nose. "Keep making them. I'd much rather be corrected. I only want it on record that I noticed which one it was."
+"I know you didn't." She breathed out, long and slow, through her nose. "Go on making them. Corrections I can use. I'd only like it known that I can tell the two apart."
 
-She stood a while longer looking at the column.
+Her eyes stayed on the sixty-fifth line.
 
-"It isn't the bracket," she said at last. "I want you to know that. I can win the bracket. I'm going to win it, and I'm not saying that to be difficult, I'm saying it because I've fought nine of them now and I know what they've got. That's not what keeps me up." She unfolded her arms and laid one finger on the board, on the sixty-fifth line. "What keeps me up is that winning it doesn't do anything. You don't go up a bracket for winning a bracket. You go up when an Arbiter changes a number on a certificate. And the certificate tells the ladder where to put you, and the ladder never tells the certificate anything back."
+"The bracket's not the trouble," she said at last. "I'll win the bracket. That's no boast. Nine bouts in, I've seen what the column's got, and there's nothing in it I can't answer." She unfolded her arms and laid one finger on the board, on her own name. "What I lie awake over is that it won't count. Win the whole column and you're still in the column. The only way out is an Arbiter writing a new tier on my paper. My paper tells the ladder where to put me. The ladder never writes a word back to my paper."
 
 Cael thought about it. He thought about the short board on the end, the one headed Silver, where the school had run out of people to divide and had put everybody left into one column and given it the name of the top.
 
@@ -134,11 +134,11 @@ Cael thought about it. He thought about the short board on the end, the one head
 
 "Nothing comes back up." Lira took her finger off the board. "So it's a machine that takes things in and never gives anything out. What's the point of a thing like that?"
 
-He did not have an answer. He wrote the question down that night instead, on a fresh page, and underlined it twice. Then he left the page blank under it, because he did not want to fill it with something clever that was not true.
+He did not have an answer. That night the question went into the notebook on a clean page of its own, with two lines ruled under it, and he left the rest of the page empty, because he did not want to fill it with something clever that was not true.
 
 ---
 
-He was on the rim for every practice afternoon by then, which was how he saw Fiske fight, and how he was at the board eight days later when Fiske met Lira.
+He was on the rim for every practice afternoon by then, which was how he saw Fiske fight, and how he was at the board four days later when Fiske met Lira.
 
 Fiske had been the name at the top of the Copper column for two years, and the name on the Copper Crown's newest brass for the same two. Cael had placed her before he ever saw her: Force Path, Copper Rank Eight, twenty years old, a fifth-year who had come up through Halcenvane's own halls. He had expected somebody large. She was not large. She was a little taller than Lira and a good deal more solid, with heavy shoulders and short brown hair pinned flat, and she came onto the floor the way a carpenter comes into a room where she is going to hang a door, looking at the frame first.
 
@@ -148,7 +148,7 @@ The Rank Four came out hard, as Cael had seen half the Copper board come out aga
 
 She did it twice more in the next nine minutes. Each time she let him come, and each time the force she spent went not into him but into the place he was about to be, and each time he found himself off balance with no idea why and her hand already resting on him. By the end he had stopped gathering at all. He was simply moving and watching his own feet, like a man crossing ice.
 
-*Fiske. Force Path. I've charted Force on five floors and none of them used it like this. Everybody else builds force and delivers it: gather, commit, strike. Fiske doesn't strike with it. She puts it somewhere. She used her Path three times in eleven minutes, which is less than anybody else on the Copper board, and all three times the force arrived where her opponent was about to step, not where he was. She's not stronger than the people she beats. She's earlier. She sees where they're going and closes the door before they get there.*
+*Fiske. Force Path. I've charted Force on five floors and none of them used it like this. Everybody else builds force and delivers it: gather, commit, strike. Fiske doesn't strike with it. She puts it somewhere. Three uses of the Path in eleven minutes, the fewest I've charted on these rings, and every one of them went into the floor in front of his next step instead of into him. She's not stronger than the people she beats. She's earlier. She sees where they're going and closes the door before they get there.*
 
 *Price: she has to see first. For the first minute and a half she's collecting, and she opens badly, twice today, because she hadn't finished reading him. Somebody she's never seen could take her early.*
 
@@ -156,19 +156,19 @@ She did it twice more in the next nine minutes. Each time she let him come, and 
 
 *Two years of defending against everything the Copper column could send. She's fought every answer it has. There aren't any left.*
 
-She came off the floor and up the shallow steps toward the boards with a towel over one shoulder, and Lira was standing at the boards, and the two of them stopped a pace apart.
+When it was over she climbed out of the sunk floor by the north steps with a towel round her neck, and found Lira at the boards, and stopped.
 
 There were perhaps thirty people on the rim. Every one of them found something else to look at, very carefully, and every one of them went on looking.
 
 "You're the transfer with the flag," said Fiske.
 
-"You're the one who's kept it two years."
+"And you've held it two years."
 
 That was the whole of it.
 
 But Fiske did not move on at once. She stood with the towel on her shoulder and looked at Lira for perhaps two breaths longer than the words needed. Cael was running the whole gaze on her, every layer, and he caught most of what went across her face, and it took him the rest of the afternoon to put a name to it. It was the face of somebody who has been carrying a private diagnosis for a long time, alone, and has just seen the same thing written on a stranger.
 
-Then Fiske went for water, and Lira turned back to the board, and the thirty people on the rim went back to pretending they had not been listening.
+Fiske went off to the water butt. Lira turned back to her own line. All round the rim, thirty people discovered their own business again with great suddenness.
 
 Lira did not look after her. But on the walk back to the quadrangle she asked Cael, without turning her head, how long Fiske had spent collecting.
 
@@ -178,7 +178,7 @@ Lira nodded, and said nothing else. Cael wrote it down that night on two pages, 
 
 ---
 
-Lira did not say a word about it that evening, or the next. She said it ten days later, without any warning, in the wash-house behind the second quadrangle, in the middle of an argument about laundry.
+For a week Lira let it lie. When it came out at last it came out sideways, with no warning at all, in the wash-house behind the second quadrangle, over a quarrel about laundry.
 
 The wash-house was a low stone room with a copper boiler in one corner and a stone trough along the wall and a drying rack overhead hung with everybody's shirts. Brom had put his new wraps into the copper with Karis's two good shirts, unaware that the wraps were dyed, and Karis's shirts had come out the colour of weak tea. Karis was holding one up to the window and explaining to Brom, very calmly, exactly how many days she had owned it. Brom was apologising in a way that made it plain he thought the shirt looked better. Cael was sitting on the end of the trough with the observation notebook, enjoying all of it more than he would ever admit.
 
@@ -196,19 +196,19 @@ The wash-house was a low stone room with a copper boiler in one corner and a sto
 
 "You have been sleeping in the stacks," said Lira, from the rack, without turning round. "Twice. I came to fetch you."
 
-For ten days Lira had said almost nothing that was not about the register or the weather, and Cael had let her be, because she had been thinking, and Lira thinking was best left to finish.
+All that week Lira had said almost nothing that was not about the register or the weather, and Cael had let her be, because she had been thinking, and Lira thinking was best left to finish.
 
-"She isn't in that bracket because she's Copper," said Lira.
+"Fiske isn't Copper because she fights like a Copper," said Lira.
 
 All three of them looked at her. She was standing at the rack with a wet stocking in each hand.
 
-"Fiske," said Lira. "She's Copper because nobody's had her reassessed. Same as me. Same queue. Only she hasn't even got a flag in it, because Halcenvane never sent one up for her, and Halcenvane never sent one because—" She stopped. Cael watched her get there, in front of them, with the stockings still in her hands. "Because she's winning. If she lost the crown, they might send it. While she's holding it, she's the Copper champion. And the Copper champion is worth a good deal to this school, for exactly as long as she stays Copper."
+"Fiske," said Lira. "She's Copper because nobody's had her reassessed. Same as me. Same queue. Only she hasn't even got a flag in it, because Halcenvane never sent one up for her, and Halcenvane never sent one because—" She stopped. Cael watched her get there, in front of them, with the stockings still in her hands. "Because she's winning. Let her lose the crown and somebody might bother. While she's got it, she's the champion of the Copper column, and a Copper champion is worth a great deal to this hill. Only she stops being worth it the day she stops being Copper."
 
 Karis lowered the shirt.
 
 "That's a very hard thing to say about a school," she said carefully.
 
-"It's not an accusation." Lira hung one stocking on the rack. "That's what's wrong with it. Nobody decided it. Nobody sat in a room and said *keep her Copper*. It's only that sending a flag up costs somebody an afternoon, and doesn't do anything for anybody on this hill, and not sending it costs nobody anything and keeps a crown on the shelf. So it doesn't go. For two years." She hung the other stocking beside the first and stood looking at them. "Nobody's wicked. Nobody has to be."
+"It's not an accusation." Lira hung one stocking on the rack. "That's the worst of it. Nobody chose it. Nobody ever called a meeting. Sending her flag up would cost some clerk a day's work and win him nothing, and leaving it costs nobody a thing, and the crown stays in its case. So it stays. Two years now." She hung the other stocking beside the first and stood looking at them. "Nobody's wicked. Nobody has to be."
 
 Cael heard himself speak before he had finished the thought, and finished it as he said it.
 
@@ -232,7 +232,7 @@ Lira took the next shirt off the pile and shook it out, hard, so that the water 
 
 "No." Lira hung the shirt. "But I can make it very expensive not to look."
 
-Karis looked at her for a long moment. Then she held up the ruined shirt again, the colour of weak tea, and studied it against the window with her head on one side.
+Karis studied her. Then she held up the ruined shirt again, the colour of weak tea, and studied it against the window with her head on one side.
 
 "I'm keeping this," she said. "I'm going to wear it the day you take the crown, so that Brom has to look at it all afternoon."
 
@@ -240,4 +240,4 @@ Karis looked at her for a long moment. Then she held up the ruined shirt again, 
 
 "It is not a nice colour. It's an accident." Karis folded it over her arm. "That's not the same as nice. It only looks the same when you're the one who did it."
 
-Then she looked at Cael, and Cael looked at the notebook on his knee, at the question he had underlined twice on the fortieth evening, with the empty space under it. He did not write the answer into the space, because it was not an answer yet. He wrote it on the next page instead, and dated it, and put Lira's name beside it, and then, because it had been his sentence and he wanted it honestly filed, his own.
+Then she looked at Cael, and Cael looked at the notebook on his knee, at the question he had underlined twice on the thirty-fourth evening, with the empty space under it. He did not write the answer into the space, because it was not an answer yet. He wrote it on the next page instead, and dated it, and put Lira's name beside it, and then, because it had been his sentence and he wanted it honestly filed, his own.

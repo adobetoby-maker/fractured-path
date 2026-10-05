@@ -92,7 +92,7 @@ He did not say anything. Lira looked up from the table where she had been not fi
 
 Then he got up, without a word, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
 
-Nobody had told him to. That told Cael more than the forty-three.
+Nobody had told him to. In three years Cael had never once seen Brom fetch ice for himself without being nagged, and it said more than the tallies in the margin.
 
 "Well?" said Lira.
 
@@ -104,11 +104,11 @@ Nobody had told him to. That told Cael more than the forty-three.
 
 Brom opened his eyes.
 
-"I have been hit," he said, "more times this afternoon than in all of last year." He shifted the ice. "And not by anybody trying to hurt me. That's the part I keep coming back to. Not one of them was trying to hurt me. They were all just right. Over and over again."
+"Was it forty-three?" Brom sounded interested, as if it were somebody else's figure. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And not one of them was trying to hurt me. That's the part I keep coming back to. Not one of them was trying to hurt me. They were all just right. Over and over again."
 
 "You're Iron-equivalent," said Lira. She said it a little sharply, the way she said things she was going to defend. "Two years of circuit ratings. Greyvane's defensive cohort in a term."
 
-"Against the Ironyard. Against Greyvane." Brom tipped his head back against the wall. "Wray told me there was a wall in me. She found it with her own hands and said nobody at Greyvane was fast enough to show me where it went. I've been feeling for it for a year and a half like a man feeling for a door in the dark." He was quiet a moment. Then something came into his face, slowly, from somewhere underneath, and Cael realized with a small shock what it was. It was not distress. It was the purest happiness he had seen on Brom since the bridge at Ostrand.
+"Against the Ironyard. Against Greyvane." Brom let the back of his skull rest on the plaster. "Wray told me there was a wall in me. She found it with her own hands and said nobody at Greyvane was fast enough to show me where it went. I've been feeling for it for a year and a half like a man feeling for a door in the dark." He was quiet a moment. Then something came into his face, slowly, from somewhere underneath, and Cael realized with a small shock what it was. It was not distress. It was the purest happiness he had seen on Brom since the bridge at Ostrand.
 
 "I found the wall. It has students."
 
@@ -116,7 +116,7 @@ Karis laughed out loud, and put her hand over her mouth, and laughed again behin
 
 "You're pleased," said Lira, disbelieving.
 
-"I'm *delighted*." Brom meant every syllable. "Do you know how long it's been since anybody could teach me anything by hitting me? Two years I've been the hardest thing on every floor I walked onto. It's dull. It's dull in a way I couldn't ever say, because saying it sounds like bragging, and it isn't bragging, it's just dull." He pressed the ice down. "Today I was the easiest thing on the floor, and four people took me apart in an hour, and they were kind about it. I don't think I've ever had a better afternoon in my life."
+"I'm *delighted*." Brom meant every syllable. "Wray found one thing in me with her hands, once, and it took her a term. This afternoon four of them found a dozen before the bell. Two years I've been the wall everybody else breaks on. You can't grumble about that out loud. People think you're showing off. But it's like being the one grown man at a children's game. Nobody learns anything, and you least of all." He pressed the ice down. "This afternoon I was the one problem in the hall that everybody else already had the answer to, and they gave me the answer, one at a time, and they were kind about it. I don't think I've ever had a better afternoon in my life."
 
 Karis had her notebook out by then, because she could not help it.
 
@@ -158,9 +158,9 @@ He did not attack the place Wray had found. Cael understood that on the fourth d
 
 Brom's turn needed a read. That was its nature and its strength: he let a strike commit, all the way, so that he knew precisely where its weight was going, and only then took it. But a read needed something to read. So Ephram gave him something. He sold Brom a strike with three-quarters of his weight behind it, honestly, enough to set the read going, and then took it back before the turn could close. The cost of that to Ephram was a sliver of a beat, a little lost balance he recovered as he stepped. The cost to Brom was the whole gap, every time: the full stretch between the read and the turn, spent on a strike that had never arrived. And Ephram could do it again at once, and again, because a Blade practitioner could recommit almost for nothing, and an Iron Skin turn could not be begun and abandoned without paying for the beginning.
 
-*He's not faster than Brom by enough to simply beat him,* Cael wrote, on the fifth day. *He's running a trade where each repetition costs him less than it costs Brom, and he's running it over and over until the account closes. It's the cleanest thing I've seen anybody do to anybody on a floor.*
+*Speed alone wouldn't do it,* Cael wrote, on the fifth day. *There isn't enough daylight between them. So he's running a trade where each repetition costs him less than it costs Brom, and he's running it over and over until the account closes. It's the cleanest thing I've seen anybody do to anybody on a floor.*
 
-*Limit: it only works because Brom is strong and slow. A fast opponent would read the feeds for what they were. Against Brom it's very nearly perfect.*
+*Limit: it needs a big, patient man at the other end. Anybody quick would see the feeds for what they are and go round them. Against Brom there's almost nothing wrong with it.*
 
 *I think I could answer the trade. I'm not at all sure I could answer the man.*
 
@@ -188,7 +188,7 @@ Brom told it on the wall behind the second quadrangle on the thirtieth evening, 
 
 Cael waited.
 
-"Every time I read something that isn't there," said Brom, "the next one gets a little cheaper to believe. I can feel it. I'm being trained wrong by somebody across the floor from me, on purpose, and I know it's happening, and inside an exchange I can't stop it." He looked down at his hands on the stone. "He's very good."
+"Every one I fall for," said Brom, "the next comes cheaper. My body's learning to believe him." He turned his hands over on the stone. "It's like watching somebody teach a dog to come to the wrong whistle. A bit each afternoon. And you're stood there seeing it done, and you can't call the dog off, because the dog's you." He looked down at his hands on the stone. "He's very good."
 
 "Have you told Rooke?"
 
@@ -206,7 +206,7 @@ He wound the wrap back on.
 
 "And you said?"
 
-"I said all right." Brom looked out at the water. "Nobody's ever offered to make me worse before. Every man I ever trained under wanted me to win on Tuesday. Wray too, a bit, though she'd never have said so." He flexed his wrist inside the cloth. "He's the first one who's ever told me the price ahead of time and asked me to pay it anyway."
+"I said all right." Brom looked out at the water. "In my whole life nobody's ever said to me, *I'll make you worse.* They've all promised the other thing, and wanted it by the next bout. Wray too, a bit, though she'd never have said so." He flexed his wrist inside the cloth. "He's the first one who's ever told me the price ahead of time and asked me to pay it anyway."
 
 "I've got the sixth day charted," said Cael. "One exchange, from his first step to the touch. Three sales and a delivery. If you want it—"
 
