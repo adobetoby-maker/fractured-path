@@ -10,7 +10,7 @@ The front of the right shoulder, where the joint was. That was the hook, the lef
 
 The right thigh above the knee. That had been the low one, into the gathering. It had not hurt much at the time, and now the whole muscle had gone dull and heavy and would not do what he told it.
 
-And under all of it, a deep plain shaking that he knew very well and did not like: the whole of his body telling him that it had been asked for more than it had and had paid anyway.
+And under all of it, a deep plain shaking that he knew very well and did not like: his body reporting that it had been sent to fetch something heavier than itself, and had fetched it anyway.
 
 His mind was perfectly clear. That was the strange thing. He had given his body three orders since he landed, *elbow, knee, up*, and it had heard all three and done none of them. So he had stopped giving them and laid his head down on the stone, which was cold, colder than he would have thought a floor could be in a room this hot, and he lay there and listened.
 
@@ -120,7 +120,7 @@ Cael thought about it. He thought about it honestly, because Brom had asked hone
 
 "Like I had enough," he said.
 
-He found, saying it, that it was entirely true. It was not that he had won. It was that for once, at the very bottom of everything he had, there had been enough.
+It was true. He knew it the moment it was out of his mouth. It was not that he had won. It was that for once, at the very bottom of everything he had, there had been enough.
 
 Brom nodded slowly, as if Cael had given him a figure and the figure was right.
 
@@ -136,21 +136,26 @@ People came up to the rope and looked at him and went away again. Some of them s
 
 Lira sat beside him on the stone with her shoulder almost against his and did not talk. Brom stood. Brom watched the doors.
 
-"You held the redirect too long," Brom said, after a while, to the doors.
 
-"Which?"
+"You looked at me," said Brom, after a while, to the doors. "In the third. Before you went."
 
-"The first. Off the rope. You held it a breath past where it was any good to you, because you'd started it and didn't want to have wasted it." He did not look round. "I'm not finding fault. I'm only telling you. A breath's a long time against a man who's watching."
+"I did."
 
-"He was watching."
+"I nodded."
 
-"He was watching you more than anybody in this building was, including me." Brom's eyes came round to him at last. "Put that in the book, when you put the rest in."
+"You didn't nod. You did the thing with your chin you do when I say a number aloud and it's right."
 
-Cael was going to answer. And then he saw the woman in the grey coat, and did not.
+Brom thought about that. "I didn't know I did that."
 
-She had not been anywhere near them a moment before. Or if she had, she had been near them the way twenty other stragglers were near them, a coat in the corner of the eye, nothing. Now she was standing three strides off, at the edge of the stone, with her small book shut in one hand. She was waiting, with no sign of impatience at all, for him to see her properly before she said anything.
+"You do it every day."
 
-He saw her properly. She was perhaps forty. Her coat was good but it was a travelling coat, the cloth worn soft at the cuffs and the hem, and her boots had walked a long way on roads and very little on floors. There were no marks on her hands. She stood like a woman who had stood at the backs of a great many rooms and been looked at by nobody in any of them, and who had arranged it that way.
+"Then I'll go on doing it," said Brom, "now that I know what it's for." His eyes came round to Cael at last. "Put it in the book, with the rest. A man ought to know what his own chin's saying."
+
+Cael was going to answer him, and then he saw the woman in the grey coat.
+
+She was standing three strides off, at the edge of the stone, with her small book shut in one hand, and he had not seen her come. He had been watching the doors with Brom, and the sweepers, and the stew pots going out, and somehow in all that watching she had crossed half the floor without once being a thing he looked at. He knew how much practice that took. He had been trying to learn it himself for a year. She was waiting, without any sign of impatience, for him to finish seeing her before she said a word.
+
+He finished. She was perhaps forty. Her coat was a good coat but a travelling one, soft at the cuffs and the hem from long use, and her boots had walked a great deal of road and very little floor. Her hands had no marks on them. She stood like a woman who had stood at the backs of a great many rooms and been noticed in none of them, because she had arranged it so.
 
 Lira's shoulder went still beside his. Brom unfolded his arms.
 
@@ -162,63 +167,63 @@ He made himself sit up straighter against the post, though it cost him, because 
 
 "You've been here before," he said.
 
-"Six nights, counting this one." She did not look at the book in her hand. "The first two, I watched the whole card. A rumour had come up the river to us about this hill, and I came to see whether the rumour was a fighter or only a story. By the end of the second night I had stopped watching the card. The last four nights, I came for you." She tilted her head a very little toward the door. "Your Circuit Master knew my pass was an academy's. He didn't know whose until I showed it to him properly at the door tonight. I thought he had earned that much."
+"Six nights, counting tonight." She did not look at her book. "On the first two I watched every bout on the card. Something had come up the river to us, about this hill, and I came to see whether it was a fighter or a story. By the end of the second night I had stopped watching the card. The other four nights were for you." She tipped her head a little toward the side door. "Your Circuit Master knew my pass came from an academy. Tonight, at the door, I showed him which one. I thought he'd earned that."
 
-"Four nights," said Cael. "Watching me."
+"Four nights," said Cael.
 
-"Watching what you do when something is new." She said it simply. "That is the whole of my work. Most fighters show you everything they have in a single bout, and then they show it to you again, a little better, for years. You don't. Each time I've watched you, you've done at least one thing you hadn't done the time before. Tonight you did several." She paused. "I don't spend the academy's travel money on curiosity. I'm here to make you an offer."
+"Watching what you do with a thing the first time you do it." She seemed to find nothing odd in saying so. "That's my work, all of it. I keep a drawer at Greyvane with eleven years of notes in it, about fighters on floors like this. Most of them showed me everything they had on the first night, and every night after that they showed me the same thing a little better. You've shown me something new every time I've come. Tonight you showed me more than I've written down in a year." She turned the closed book over once in her hand. "I'm not here because I was curious. Curiosity I can feed at home. I came down to make you an offer."
 
-She made it the way a carpenter lays out his tools on a bench, one at a time, each in its place.
+She laid it out the way a woman lays a table, one thing at a time, each in its place.
 
-Greyvane had a provision in its charter. It had been written long ago for children whose ability showed itself before an Arbiter had ever looked at them, so that the academy could take them on what they could do instead of on a paper that did not exist yet. It was called the demonstration-provision track. It had been used for those children, and for nobody else, for as long as anyone could remember.
+Greyvane's charter held a provision, very old, which nobody there had ever had much use for. It had been written for children whose ability showed itself before any Arbiter had looked at them, so that the academy could take a child on what she could do and not wait on a paper that did not exist yet. It was called the demonstration-provision track. For as long as anybody remembered, it had been used for those children and for nobody else.
 
-"But that is not what the provision says," said Quenna. "I have read it more times than the people who wrote it did. It doesn't say *unkindled*. It says, and I'll give it to you in its own words: *any practitioner without a standard Arbiter-issued classification*." She let that sit. "You are that. Whatever the reason you are that, you are that. There are people at Greyvane who would like to find out whether the provision means what it says. I'm one of them. I believe you are the person to find out with."
+"But it doesn't say children," said Quenna. "It doesn't say *unkindled*. I've been through it word by word more often than I'd like to admit, and the words are these: *any practitioner without a standard Arbiter-issued classification*." She let the words stand by themselves on the stone between them. "That is you. I don't need to know why it's you. There are people at Greyvane who would like to know whether that sentence means what it says, and I am the one who has been saying for years that it does. I'd like you to be the proof."
 
-There was something under the last sentence that was not quite pride. Cael heard it, and filed it. She was not reading him a rule. She had an argument, and she had been carrying it a long time, and she wanted to win it.
+There was something under the last words that was not quite pride. Cael heard it and put it away for later. She was not reading him a rule. She had an argument, she had been carrying it for years, and she meant to win it.
 
-"The Compact keeps a file on me," he said. He said it at once, plainly, before anything else. He did not want her to find it out later and wonder why he had kept it back.
+"The Compact keeps a file on me," he said, at once, plainly. He did not want her to find it out later and wonder why he had hidden it.
 
-"We know." She did not change her voice at all. "Greyvane has people whose whole work is that kind of trouble. You would not be the first student the Compact has taken an interest in, and you will not be the last."
+"We know that." Her voice did not change. "There are people in the building whose whole work is that sort of trouble. They have handled it before, and they will handle it again after you."
 
-"My classification is—"
+"My classification—"
 
-"I'm not going to ask you what it is." She lifted one hand, not unkindly, and he stopped. "Nobody at Greyvane will. That's the provision, all of it. Once a month you stand in front of the assessment staff and show them what you can do, and they write down whether it meets the standard. Not what you are. What you can do, month after month, in front of people who know what they're looking at." She glanced once at the middle of the floor. "What you did tonight would meet it with room to spare."
+"No." She lifted a hand, very slightly, and he stopped. "Nobody at Greyvane will ask you what you are. That isn't what the provision is for. Once a month you will stand in front of two of the assessment staff and show them what you can do, and they will write down whether it reaches the standard. That is all. Month after month, in front of people who know what they are looking at." Her eyes went once to the middle of the floor, where the chalk of the south mark was scuffed nearly away. "Tonight would reach it with a good deal to spare."
 
-"And if one month it doesn't?"
+"And the month it doesn't?"
 
-"Then we talk about what changed, before anybody decides anything." For the first time something in her voice sharpened, very slightly, like a blade turned a little toward the light. "I don't keep this provision to catch people out. I keep it because the ordinary road through an academy throws away people like you before they have a chance to show anything, and I think that is a waste. I have watched floors like this one for eleven years. I know what they turn up when nobody with money bothers to look."
+"Then we sit down, you and I, and find out what's changed, before anyone decides anything." Something sharpened in her voice for the first time, very slightly, the way a knife catches the light when it is turned. "The ordinary road through an academy is a gate with one question at it, asked once, and if you can't answer the question you never get as far as showing anybody anything. Most of the names in my drawer are carters now. A few are dead. I think that's a waste, and I've said so to the masters for eleven years, often enough that some of them have stopped inviting me to supper."
 
-"How many?" said Lira.
+"How many?" said Lira. "That you've brought in."
 
-Quenna looked at her for the first time. It was a full look, unhurried, the look of somebody who has already read a page about you and wants to see whether the page was right.
+Quenna looked at her properly for the first time. It was long and unhurried, such as a woman gives when she has already read a page about somebody and wants to see how close the page came.
 
-"Three, in eleven years. One left within a season. Not for lack of ability: he could not live inside walls, and I should have seen it sooner than I did. Two stayed. One of them teaches now." She turned back to Cael. "It costs the academy something to look at a student every month instead of once at the gate. I would not be standing on this floor if I didn't think the cost was worth it."
+"Three, in eleven years. One stayed a season and went home to keep bees. There was nothing wrong with his fighting; he simply couldn't bear a bell telling him when to eat, and I ought to have seen that in him before I asked. Two stayed. One of those two teaches now." She looked back at Cael. "Two masters and an afternoon, every month, for every one of you. That's what you cost us. I've never yet thought it too much."
 
-Cael turned it over. He went looking for the catch, as he would have gone looking for the hidden fist behind a feint, and could not find one. That was what told him most. A woman selling a dream would have made it smaller and smoother than this. She would have left out the boy who could not live inside walls. She would not have said *monthly* as if it were a weight.
+Cael turned it over, looking for the catch, the way he would have looked for the real fist behind a feint. He could not find one. That told him more than anything she had said. A woman selling a dream would have rounded the numbers. She would have left out the man with the bees. She would not have said *every month* as if it were a weight she wanted him to feel before he picked it up.
 
 "What about expelled practitioners?" said Lira.
 
-She said it in a flat, careful voice, the voice of somebody who has trained herself not to let a thing matter until she has heard the answer. Quenna did not need to look at her book.
+She said it flat and careful, in the voice of somebody who has taught herself not to let a thing matter until she has heard the answer. Quenna did not need to open her book.
 
 "Wind Path, Copper-tier, expelled from Fenmark Academy."
 
 "Yes."
 
-"There's a second provision. A re-certification track. A different road in, but the same lessons at the end of it. It asks for reassessment every month as well, and for advancement you can show each time." Quenna paused. "It isn't easy."
+"There's a second provision. Re-certification. It's a different door, and it opens into the same rooms. It asks you to be assessed every month as well, and every month to show that you've gone further than the month before." Quenna paused. "It is not a kind road."
 
 "I can do that."
 
 "I thought you could," said Quenna.
 
-There was something nearly warm in it, under the flatness, gone almost before it arrived. Lira did not move. But Cael, sitting beside her, felt something in her shoulder let go by a hair, like a rope eased one turn on a cleat.
+There was something nearly warm in it, under the plainness, and it was gone almost before it arrived. Lira did not move. But Cael, beside her, felt something in her shoulder let go by a hair, like a rope eased a single turn on its cleat.
 
-Brom shifted his weight. Quenna's eyes went to him for the length of a breath: a short, measuring look, the same look she had given the floor a moment before. Then they came away again. She said nothing to him at all, and Brom gave no sign that he had noticed.
+Brom shifted his weight from one foot to the other. Quenna's eyes went to him and rested there, for about as long as it takes to read a name off a list. Then they moved on. She said nothing to him at all. Brom's face did not change.
 
-"I'm at the inn at the top of the market row," said Quenna. "Take three days. Come and tell me what you've decided, either way." She looked at the three of them in turn, and inclined her head, once, to each. Then she turned and walked back across the stone the way she had come. Within a dozen steps she was only another coat going out at the side door, and then she was not even that.
+"I'm at the inn at the top of the market row," said Quenna. "Take three days. Come and tell me what you've decided, whichever way it goes." She looked at each of the three of them in turn and inclined her head to each. Then she turned and went back across the stone. Within a dozen steps she was one more coat going out at the side door, and then she was not even that.
 
-They sat for a while without anybody saying anything. The sweepers had begun at the far end of the floor. Somewhere behind them the eel-market men were scraping out their pots.
+Nobody said anything for a while. At the far end of the floor the sweepers had begun. Behind them, the eel-market men were scraping the last of the stew out of their pots.
 
-"She wasn't surprised by any of your questions," said Brom.
+"She wasn't surprised by a single one of your questions," said Brom.
 
 "No," said Cael.
 
