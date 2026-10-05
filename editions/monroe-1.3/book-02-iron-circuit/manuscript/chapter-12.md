@@ -8,7 +8,7 @@ The words came first, before anything else changed in the mornings, and he notic
 
 "You did it just then. Do it again and I'll show you."
 
-He did it again, and she showed him, and she was right. Before he stepped with his feet, any step, his weight went back for a moment to the place he always started from, his left foot a little forward and his knees soft, the place Lira had put him on the first morning a year ago and drilled into him since; and neither of them had ever seen it, until Dravin.
+He did it again, and she showed him, and she was right. Before he stepped with his feet, any step, his weight went back for a moment to the place he always started from, his left foot a little forward and his knees soft. It was the place Lira had put him on the first morning a year ago and drilled into him since, and neither of them had ever seen it until Dravin.
 
 "Going home," said Lira, pleased. "That's what I'm calling it. Everybody does it. Dravin does it more than anybody because he was taught the most. It's a quarter beat and it's a door."
 
@@ -34,7 +34,7 @@ He stood very still on the stone.
 
 "Do it again."
 
-She did it again, and the hip leaned again toward the turn and stopped short of it, as it had stopped short of going right on the morning of the fan; but it was not a wall this time so much as the end of a road that somebody had only just started building.
+She did it again, and the hip leaned again toward the turn and stopped short of it, as it had stopped short of going right on the morning of the fan. But it was not a wall this time so much as the end of a road that somebody had only just started building.
 
 "Cael."
 
@@ -54,7 +54,7 @@ He underlined it twice and wrote nothing after it, because there was no conclusi
 
 There were hooks in the margins of the grey book now, and Lira wanted to know what they were.
 
-He had been putting them there since the night of the river-academy bout, in the evenings, with the plum-coloured arm resting on the desk, because he wanted the view from inside the lock without having to be locked: the whole of a commitment, from its start to its finish, seen from a bench with a pencil instead of from the stone with a numb arm. He had not known how to get it, so he had begun as he began everything, by watching for one thing at a time. On nights he was not fighting he sat on the east bench, picked one fighter, and did not watch the strikes at all. He watched only for the moment before a strike, when something changed; then, on another night, for the moment after; then for the part in the middle, the part he had seen in the lock, when the fighter was in it and could not get out. Slowly the moments had separated under his eyes into a row, the same row in every fighter he watched, whatever their Path. He had named them, because he could not keep a thing without a name, and given each name a hook in the margin, a small mark like the start of a letter, so that he could write them down as fast as they went past.
+He had been putting them there since the night of the river-academy bout, in the evenings, with the plum-coloured arm resting on the desk. He wanted the view from inside the lock without having to be locked: the whole of a commitment, from its start to its finish, seen from a bench with a pencil instead of from the stone with a numb arm. He had not known how to get it, so he had begun as he began everything, by watching for one thing at a time. On nights he was not fighting he sat on the east bench, picked one fighter, and did not watch the strikes at all. He watched only for the moment before a strike, when something changed. On another night he watched for the moment after, and then for the part in the middle, the part he had seen in the lock, when the fighter was in it and could not get out. Slowly the moments had separated under his eyes into a row, the same row in every fighter he watched, whatever their Path. He had named them, because he could not keep a thing without a name, and given each name a hook in the margin, a small mark like the start of a letter, so that he could write them down as fast as they went past.
 
 "Show me," said Lira.
 
@@ -98,9 +98,9 @@ She did not say anything to that, but she leaned against his shoulder for the re
 
 ---
 
-There was a seventh hook, and it was not a phase. He had drawn it the other way round, a little apart from the others, so that it looked like the first hook with its back turned, because it was the mark for a thing that looked like a commitment and was not.
+There was a seventh hook, and it was not a phase. He had drawn it the other way round, a little apart from the others, so that it looked like the first hook with its back turned. It was the mark for a thing that looked like a commitment and was not.
 
-He owed it to a loss in the spring, to a quiet Blade from the north benches, older than most, whom he had watched three times beforehand and in whom he had found the kind of weakness he lived on: the man's left guard dropped as he loaded his heavy cut, three times out of three. In the fourth exchange it had come exactly as written, the rear heel loading and the shoulders settling and the guard dropping, and Cael had gone in through the gap. There had been no heavy cut. There had never been one. The heel had come up off the stone as quickly as it had gone down, the guard had come back up, and the man's short cut had met Cael coming in and sat him down on the stone with the room going round.
+He owed it to a loss in the spring, to a quiet Blade from the north benches, older than most, whom he had watched three times beforehand and in whom he had found the kind of weakness he lived on. The man's left guard dropped as he loaded his heavy cut, three times out of three. In the fourth exchange it had come exactly as written, the rear heel loading and the shoulders settling and the guard dropping, and Cael had gone in through the gap. There had been no heavy cut. There had never been one. The heel had come up off the stone as quickly as it had gone down, and the guard had come back up. The man's short cut had met Cael coming in and sat him down on the stone with the room going round.
 
 "I saw you write it," the man had said kindly, giving him a hand up. "On the bench, the week before last. You write very small, but you sit very still when you're pleased with something."
 
@@ -108,15 +108,15 @@ The entry was underlined in the grey book in ink, which he never used for underl
 
 He wrote it under the backwards hook, and then, because it was owed, in the same size of hand: *Learned from the north-bench Blade, in the spring, at the price of a fourth-exchange loss and a headache for two days. Without that loss there would be no hook.*
 
-Four nights later he tested it, because a thing worked out on paper was only a guess with good handwriting. A Blade and a Shield from the river end were on the floor, two Iron-equivalents who had fought each other before. In the third exchange the Blade loaded, all of it, heel and shoulders and the small settling of the grip, and Cael's pencil had the hook for *committed* half drawn before the heel came up, too quickly, the way a man lifts his foot off a stair he has found is not there. He drew the backwards hook instead, and under it, very fast, *real one next breath, low*. The Shield believed the forgery and braced high, and on the next breath the real cut came low, under the guard, onto his knee.
+Four nights later he tested it, because a thing worked out on paper was only a guess with good handwriting. A Blade and a Shield from the river end were on the floor, two Iron-equivalents who had fought each other before. In the third exchange the Blade loaded, all of it, heel and shoulders and the small settling of the grip. Cael's pencil had the hook for *committed* half drawn before the heel came up, too quickly, the way a man lifts his foot off a stair he has found is not there. He drew the backwards hook instead, and under it, very fast, *real one next breath, low*. The Shield believed the forgery and braced high, and on the next breath the real cut came low, under the guard, onto his knee.
 
 Cael sat looking at *next breath, low* with the ink still wet and his hands not quite steady. It was the first time in his life he had seen a man lie with his body and known it for a lie before the truth came after it.
 
-The gaze cost him, and he priced it in the second week, because by now pricing things was what he did. It cost his eyes: one fighter at full depth, all six hooks and the counts between them, and his eyes ached as if he had been reading small print by a bad lamp, and after two exchanges the ache went in behind his forehead and stayed until he slept. And it cost him the room, which was the part he did not like. On the third night, coming up from deep in a Stone fighter's build, he found that the man who sold hot chestnuts by the side door had set up his brazier almost at Cael's elbow, and he had neither seen him come nor smelled the chestnuts.
+The gaze cost him, and he priced it in the second week, because by now pricing things was what he did. It cost his eyes. One fighter at full depth, all six hooks and the counts between them, and his eyes ached as if he had been reading small print by a bad lamp. After two exchanges the ache went in behind his forehead and stayed until he slept. And it cost him the room, which was the part he did not like. On the third night, coming up from deep in a Stone fighter's build, he found that the man who sold hot chestnuts by the side door had set up his brazier almost at Cael's elbow, and he had neither seen him come nor smelled the chestnuts.
 
 He asked Lira to help him measure it.
 
-They did it in the alcove one evening when the dock partner had gone home, with a pair of newcomers from Keth's dawn ring who were glad of the use of the post. Cael sat on the bench and read one of them at full depth while they sparred, and Lira took a stick of Red Cap's chalk and began to walk a slow wide circle round him, out at the edge of the alcove, from straight in front of him round toward his side.
+They did it in the alcove one evening when the dock partner had gone home, with a pair of newcomers from Keth's dawn ring who were glad of the use of the post. Cael sat on the bench and read one of them at full depth while they sparred. Lira took a stick of Red Cap's chalk and began to walk a slow wide circle round him, out at the edge of the alcove, from straight in front of him round toward his side.
 
 "Say when you lose me."
 
@@ -124,7 +124,7 @@ He read the newcomer: primed, building, the long count of a boy who was not sure
 
 "Now."
 
-She made a chalk mark at her feet, walked in, laid her broom-handle measuring stick from his heel to the mark and another from his heel to the line of the newcomer, and squatted to look at the angle between them.
+She made a chalk mark at her feet and walked in. She laid her broom-handle measuring stick from his heel to the mark and another from his heel to the line of the newcomer, and squatted to look at the angle between them.
 
 "That's nothing. That's barely a slice."
 
@@ -150,9 +150,9 @@ The ration was harder than the gaze. Once he had the gaze, every exchange seemed
 
 He went down early one morning that week to watch Keth, and could not have said why.
 
-The newcomers' ring was already on the bare stone when he came in at the side door, with the sweepers still working round the edges, and Keth was showing them a parry, slowly first, then a little faster, then once at the speed he would use it, so fast that two of the newcomers laughed out loud the way people laugh at a conjuring trick. Cael watched plainly for a while, keeping the room. Then he pulled.
+The newcomers' ring was already on the bare stone when he came in at the side door, with the sweepers still working round the edges. Keth was showing them a parry, slowly first, then a little faster, then once at the speed he would use it. It was so fast that two of the newcomers laughed out loud, the way people laugh at a conjuring trick. Cael watched plainly for a while, keeping the room. Then he pulled.
 
-Keth stood across from the boy he was teaching, with his practice blade held loose, little finger off the grip, and asked the boy to cut at him. Dormant: the long arms easy. Primed: the stillness coming. Then Cael waited for building, and it did not come when it should have; Keth stood primed for a count of five, and then, with nothing in his body warning anybody, went from primed to committed in less than half a count and parried the cut before the boy had properly begun it.
+Keth stood across from the boy he was teaching, with his practice blade held loose, little finger off the grip, and asked the boy to cut at him. Dormant: the long arms easy. Primed: the stillness coming. Then Cael waited for building, and it did not come when it should have. Keth stood primed for a count of five, and then, with nothing in his body warning anybody, went from primed to committed in less than half a count. He parried the cut before the boy had properly begun it.
 
 "Again," said Keth.
 
@@ -174,13 +174,15 @@ Across the floor Keth straightened from showing the newcomers where to put their
 
 Cael closed the grey book. Something about the morning was bothering him, and it was not Keth; he had no wish in the world to fight a man who chose his count. It was that he had come down at dawn, on a morning he did not need to, to watch a man he did not need to watch, and had written him down without deciding to, because he could no longer watch anyone simply. He would sit down meaning only to see, and the hooks would start, and his pencil would follow.
 
+On the way out he passed the girl with the sacking in her hair, flat on her back on the stone where she had fallen wrong. She was staring up at the beams with the wind knocked out of her and an expression of great surprise, and Keth was crouching beside her, waiting, as he had waited for the boy on the first morning. Cael had had an educational period of his own, he supposed, though nobody had called it that. It had been a winter of Renn and Dessa and the canvas post at the Cinder House, of being knocked down by people who knew things he did not, with nobody crouching beside him but Lira. He did not know whether his had ended. He thought, from the way his pencil had moved that morning without asking him, that it very likely had not.
+
 He did not write Lira. He had told her so, and it was true. But he caught himself, walking back up the hill, wondering what her count would be, and he made himself stop wondering, and was not sure he had.
 
 ---
 
-The cold had come down into the evenings by then, and they sat on the boarding-house step after supper because the kitchen was full of the heavyset man's wife and her sister, who had come to stay and who talked. The row was quiet. Down the hill the Ironyard's high windows were lighting one after another as Dace's sweepers went round with the taper.
+The cold had come down into the evenings by then. They sat on the boarding-house step after supper because the kitchen was full of the heavyset man's wife and her sister, who had come to stay and who talked. The row was quiet. Down the hill the Ironyard's high windows were lighting one after another as Dace's sweepers went round with the taper.
 
-Lira had brought out two pies in a cloth, and she gave him the smaller one and then ate the crust off it while he was holding it. She had a new bruise along her jaw from a bout she had lost two nights before, and a split knuckle from one she had won five nights before, and she was in a better temper than he had seen her in all year.
+Lira had brought out two pies in a cloth, and she gave him the smaller one and then ate the crust off it while he was holding it. She had a new bruise along her jaw from a bout she had lost two nights before, and a split knuckle from one she had won five nights before. She was in a better temper than he had seen her in all year.
 
 "Show me the backwards one," she said, with her mouth full.
 
@@ -212,7 +214,7 @@ She frowned at the lamps.
 
 Cael sat with that in the cold.
 
-He thought about the word the registry had given him in a hall at fourteen, with the Arbiter gone dark over his head after eleven seconds. Somebody had done a sum about him too, in front of everybody, and written the answer down, and he had never once thought of answering it; he had only been getting on with things, a page at a time, in three columns, in the dark. Now, sitting beside her on the step, he wondered whether that was the same thing she meant, done more quietly.
+He thought about the word the registry had given him in a hall at fourteen, with the Arbiter gone dark over his head after eleven seconds. Somebody had done a sum about him too, in front of everybody, and written the answer down, and he had never once thought of answering it. He had only been getting on with things, a page at a time, in three columns, in the dark. Now, sitting beside her on the step, he wondered whether that was the same thing she meant, done more quietly.
 
 "I don't know what the right answer to mine looks like," he said.
 

@@ -116,7 +116,7 @@ He saw her stop, and it was not only the argument that stopped but something und
 
 "No, you're not. Good night." And she went into her own room and shut the door, which she had not done in a year.
 
-He sat looking at it. After a minute it opened again, a hand's width, and stayed that way.
+He sat looking at it, with the cloth gone cold in the basin and the lamp ticking, and thought about what he had just done, which was to take a thing he had watched in her for weeks without admitting to himself that he was watching it, and hand it back to her in the dark as plainly as he would have handed a fighter's tell to Vell. He did not know whether that was a kindness. He knew it was true, and that she had asked him for it, in her way, by sitting on his floor and telling him why. After a minute the door opened again, a hand's width, and stayed that way.
 
 ---
 

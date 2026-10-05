@@ -42,7 +42,7 @@ So Cael would give him the lock. That much he had decided before he left the wal
 
 "I want you to be him. And then hit me where he'd hit me."
 
-She looked at him across the alcove with her staff grounded and a strip of cloth wound round her right wrist that had not been there a week ago. There were faint blue marks under her eyes, too, the kind that came from lamps and late hours. He did not mention either. She had been short with the heavyset man on the stairs that morning and short with a pigeon on the window ledge, and he had decided on the way down the hill to be as easy to talk to as he could manage and to ask her nothing she had not offered.
+She looked at him across the alcove with her staff grounded and a strip of cloth wound round her right wrist that had not been there a week ago. There were faint blue marks under her eyes, too, the kind that came from lamps and late hours. He did not mention either. She had been short with the heavyset man on the stairs that morning and short with a pigeon on the window ledge. He had decided on the way down the hill to be as easy to talk to as he could manage and to ask her nothing she had not offered.
 
 "He's a waiter," Cael went on. "He'll stand off. He'll give me nothing to read for two exchanges, maybe three. What he wants is for me to burst. When I do, he wants to be where I land, a half-breath before I've finished landing." He crouched and laid his hand on the stone a little in front of the chalk cross, and a little to the left of it. "So I'll pick where I land. And I'll pick what he can reach when I get there."
 
@@ -231,3 +231,5 @@ He thought about it. "The thumb."
 "The thing yours does when the Power Log's wrong." She leaned her head back against the brick. "I'm not going to the alcove tonight," she said, as if somebody had asked her. "I'm going to sit here till you've finished writing, and then I'm going to walk you home, and then I'm going to put that arm in cold water whether you like it or not."
 
 He did not argue. He went back to his writing, and she sat beside him with her eyes shut, and the benches emptied round them until there was nobody left in the Ironyard but the sweepers and the two of them and the lamp on its hook above the plank.
+
+She walked him home up the hill with her hand under his good elbow, as if he were somebody's grandfather. He let her, because the hip had begun to tell him about the four bursts of the week all at once and the stairs at the boarding house were going to be a long conversation. At the top of them she sat him on his bed and fetched the basin and the jug, and put the arm in the cold water to the elbow. She held it there with both hands when he tried to take it out, and would not let go until the water had stopped feeling cold and started feeling like nothing at all.

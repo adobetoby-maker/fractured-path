@@ -296,3 +296,134 @@ flesch_kincaid_grade         3.43    (target 6.8)
 - **The packet quote changed by a word** to pass the gate (Deviations 6): owner's call whether to restore it verbatim under an allow pattern.
 - **Calendar**: about seven weeks, late autumn, frost, before midwinter. This is consistent with the edition's Book 1 calendar and M1's "this side of midwinter". BOOK_MAP §11 s's "main season (autumn) around the book's middle" no longer fits the edition's established timeline, so the coordinator may want to restate it (months stay unnamed).
 - **No names minted.** The river-academy man, the clock, the Force woman, the lean man, the north-bench Blade, the chestnut man, the dock partner, the girls from the wall, the heavyset man's wife and her sister, and the stranger are unnamed. Keth, Dravin, Dessa, Ulric, Red Cap and Stedd are existing names; Coss is mentioned only; Orvet does not appear.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session as the draft. I worked from `REPAIR-BRIEF.md`, `review-editorial.md` and `review-cold.md`. The pre-repair text is in `pre-repair/`. I edited only ch 9–15 and this report, and ran no git commands.
+
+**Method.** Every change was made by reading the passage and composing the new wording. Each edit was applied as an exact old/new replacement through a small helper, or as a hand-written replacement of whole passages in ch 12, 13, 14 (Havel) and 15. No script split or joined sentences. Speech was not split or joined. Fight landing beats were kept short.
+
+### Priority 1 — Havel's comparison files (canon)
+
+Havel no longer claims to have handled five earlier [SHATTERED] files.
+
+**New basis.** There have been only four files of this class in the registry's whole history, and his training year was sent to the archive's reading room to read all four "because they showed better than anything else what the registry did with a classification it took seriously". Not one of them stayed open more than a few weeks before it was closed, and every one was "as thick as a ledger". Cael's has been open more than a year and is "as thin as a market permit". That keeps the thin-file inference, and adds the reason for it: "a file did not stay thin for a year by itself. Somebody kept it thin." "Closed within weeks" also keeps the implication that no earlier subject lived long enough to be monitored, without saying why they closed.
+
+- ch 14: the folder carries "a classification he had never once drawn, and had only ever seen in the archive".
+- ch 15: the marker reasoning now rests on two things. In four years of passive monitoring, no file of any class has carried a marker from above a district officer's grade. And the four archived files "had carried markers enough, but every one of them signed, dated and explained".
+
+Nothing reserved is disclosed: no Level 4 text, no *sub-layer*, no cause of the earlier closings.
+
+### Priority 2 — Say it once
+
+**ch 12.** The hooks, the forged hinge, the gaze cost and Keth are rewritten as one compressed pass (≈ −830 words). Kept:
+- the origin in the lock;
+- the six-phase demonstration on the Force and the Blade;
+- the north-bench loss and its countersign;
+- the live test (*next breath, low*);
+- the eye-ache and the chestnut man;
+- the chalk measurement and the ten degrees;
+- the ration, and the big man counted at the back;
+- Keth's chosen count, his amusement, and "Until you stop needing it to have a name".
+
+Cut:
+- the repeated definition of *committed* (narration, then speech);
+- the second statement of the recovery argument;
+- the twice-told heel ("the heel had come up too quickly");
+- the restated rationale for the ration;
+- the duplicate "they were different every time" explanation for Keth.
+
+The seventh hook and the price now share one scene.
+
+**ch 13.** After "You're writing the wrong things", the what/when/why insight lands within one scene (≈ −500 words).
+- Kept as the older-page reinterpretation: Ulric's page.
+- Kept as the live test: Dessa.
+- Cut: Ulric's rebuilt page, the "slower than the old way" paragraph, Lira's second read-through of the river-academy and Ulric pages, and the long three-layer summary. The summary is now three sentences.
+- New: one paragraph showing that the only *why* he had ever written was about himself (the farmer in his own Wind entry). The scene now ends on Dessa's nod and a page he is ashamed of.
+- Kept: "Do me", the blind-spot question, "He did the river-academy man to you", *Whatever I'm becoming can be watched while it watches.*, and *I owe him a conversation.*
+
+**ch 14–15.**
+- **Temporal handrail.** Ch 15 opens: "That morning, an hour before the grey coat came up out of the market row, Red Cap came into the alcove at a walk…"
+- **Havel's ch 14 view** keeps what only he can see: procedural foreignness (the card game, the gate, the bread stall's borrowed change, admiring the market's manners). He no longer describes the square's furniture or his own scanning order. He stops at the top, "looked about him, as he had been taught", and sees the boy already looking at him.
+- **Cael's ch 15 view** keeps what only he can see: the tactical reading (the square as chosen ground, *rank by boots*, the case touched once, board/doors/faces, *What it's made of*, "correct").
+- **The officials-page write-up** is compressed to one line of confirmation plus the two new sub-tells.
+- **The final Havel cutaway:**
+  - the re-narrated interview is cut to what Cael could not see: what Havel wrote in his margin (*Likes it here. First place he picked.*);
+  - the "calm boy" interpretation now appears once, in the three-odd-things sentence;
+  - his private note drops the repeated *Subject calm beyond his years; says he likes it here*;
+  - a short afternoon passage, crossing back to the Ranked streets and the dyer's licence, carries the pump step home.
+  - Both viewpoints, the pear, "correct vs careful" and the unsigned middle line are unchanged.
+
+### Priority 3 — Rhythm
+
+Clipped narration that was one thought was joined throughout ch 9–15. The weight is in Cael's reflective passages, Havel's procedural passages and the ch 12–15 set-ups.
+
+An interim measurement (disclosed: one extra run) showed the first pass had overshot, at ≥40 share 7.6% and mean 15.15. In ch 12–15 the compressed passages had become semicolon and colon chains, so about 100 overlong sentences were split back by reading. They were split at their real turns: semicolons and "and then" hinges became sentence breaks. About ten clearly hierarchical long sentences were kept per chapter. A few long sentences in ch 9 and 11 were also split.
+
+**Length repair.** Compression took the movement to ≈33,400. Real content was added in eight places to restore it:
+- ch 9: Lira walks him home and holds the arm in cold water;
+- ch 10: Cael on what he has just handed back to her;
+- ch 11: the four girls from the wall come to Vell's table ("Did you mean to lose?" / "I meant to find out. Losing was what it cost."), and Cael on knowing Lira rather than reading her;
+- ch 12: Keth crouching by the fallen girl, and Cael's own educational period;
+- ch 13: the farmer as his only existing *why*, and Dessa's nod;
+- ch 14: Dace draws *watch this one* beside Lira's name;
+- ch 15: Havel's afternoon.
+
+The cold read's timeline query ("Six weeks of pressed losses") is now "A month and more of pressed losses".
+
+### Metrics (`tools/formula_metrics.py`, ch 9–15)
+
+| Measure | Before (review run) | After r1 | Working range |
+|---|---|---|---|
+| Words (tool / wc) | 35,432 / 35,503 | **34,502 / 34,572** | 34,500–36,500 |
+| Sentences | 2,872 | 2,396 | — |
+| Sentence mean | 12.34 | **14.40** | 13–15.5 ✔ |
+| Sentence median | 9.0 | 10.5 | (target 11) |
+| Sentence SD | 9.84 | 11.78 | (target ~26) |
+| ≥40-word share | 1.5% | **3.3%** | 2.5–4.5% ✔ |
+| ≤5-word share | 31.1% | 29.8% | up to ~34% ✔ |
+| Paragraph median | 26 | 27 | up to ~30 ✔ |
+| Words per scene | 957.6 | **958.4** | 850–1,050 ✔ |
+| Scene breaks / 10k | 8.47 | 8.41 | ~8.7 |
+| Flesch RE | 92.6 | 90.3 | (target 72.3) |
+| FK grade | 3.4 | **4.24** | 3.5–6 ✔ |
+
+**Dialogue tags** (said/asked/told/answered/added/called, all uses): 209, ≈61 per 10k. A few attributions came back where joins made a speaker less plain, and none were dropped in this pass.
+
+### Checks
+
+- `ed.sh overlap book-02-iron-circuit 2`: **0 unprotected, 4 protected** (unchanged).
+- `ed.sh gates book-02-iron-circuit 2`: reader_standard=0, metadata=0, modern=0 on all seven.
+- `sweep_probe.sh book-02-iron-circuit 2 2`, with the resolver now fixed to read source ch 5–7: **1% skeleton total** (ch 9 0%, ch 10 1%, ch 11 0%, ch 12 0%, ch 13 1%, ch 14 0%, ch 15 1%); close 7%. This has not risen from the pre-repair hand run (1%).
+- Protected lines are re-verified exact: §8.20, §8.21 (the checklist, consecutive) and §8.23 (all three). The packet lines are kept as accepted: "She'll sustain it."; "I like it here." / "That's an unusual answer."; *Whatever I'm becoming can be watched while it watches.*
+- Months stay unnamed. Darrow and Feryn stay off the page. Brom stays unnamed, and his three steps are unchanged. No new names.
+
+### Changelist by chapter
+
+- **ch 9 (5,103 wc):**
+  - joins in the ledger scene, the rehearsal, the bout set-up and the lock read;
+  - the Dessa/Ulric sentence re-shaped;
+  - a few overlong splits;
+  - new walk-home and cold-water close.
+- **ch 10 (4,951):**
+  - joins through the ceiling talk (narration only), Dace's wall, the Keth notice, Hesk's letter, the pies, and the Dravin opening;
+  - the broken-up pre-bout rope paragraphs joined;
+  - new paragraph after the door closes.
+- **ch 11 (5,190):**
+  - joins through Lira's cutaway (narration only), the loss, the purse, the dip, and the betting man;
+  - a "Vell said nothing / At last Vell spoke" duplication fixed;
+  - new: the girls from the wall at Vell's table, and Cael's knowing versus reading.
+- **ch 12 (4,394):** Lira's vocabulary scene joined; the hooks, hinge, price and Keth rewritten compressed (Priority 2); the steps scene joined; overlong chains split back.
+- **ch 13 (4,496):** the Force-woman bout joined and then split back where chained; the rereading, Dessa, rebuild and Lira sections compressed (Priority 2); the farmer paragraph and Dessa's nod added.
+- **ch 14 (5,336):**
+  - pace bout joined, keeping the fight beats short;
+  - "A month and more";
+  - Dace's mark added;
+  - the Havel cutaway rewritten: the canon fix (archive basis), and the approach de-duplicated.
+- **ch 15 (5,102):** the temporal handrail; the scene rejoined and de-duplicated against ch 14; the officials-page entry compressed; Havel's evening consolidated, with the canon fix and the afternoon passage.
+
+### Unresolved
+
+- Length sits at the bottom of the range: 34,502 by the tool, 34,572 by wc.
+- Sentence SD (11.78) and Flesch RE (90.3) remain far from the exact targets. Both are outside the primary working ranges, and the FK grade (4.24) is now inside its range.
+- Progression-vocabulary density was not targeted. The editorial review counts it at about 78 per 10k, near the ≈83 aim.

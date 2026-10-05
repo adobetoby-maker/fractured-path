@@ -199,3 +199,122 @@ Open threads now:
 ### Movement 1 — CLOSED (2026-10-04, after repair r1; Sol recheck: CLOSE, no line fixes)
 - Ch1–8, 35,952 words. Mean 13.34, ≥40w 3.0%, 897 w/scene; overlap 0 (5 protected); skeleton 0%; gates 0.
 - Where the author's end-state below says eleven Copper formals or nine-of-ten without the failed ninth, the rulings above govern (twelve; trial nine did not fire).
+
+
+## After Movement 2 (chapters 9–15; repair r1 applied 2026-10-04; recheck pending)
+
+**Coordinator rulings (override the author's end-state below):**
+- Havel's comparison basis (r1): only ever four files of the [SHATTERED] class; his training year read all four in the archive reading room; none stayed open more than a few weeks; each "as thick as a ledger". Cael's has been open over a year and is "as thin as a market permit" — "Somebody kept it thin." The unsigned marker: no file in his four years of monitoring carried a marker from above his grade; every archived marker was "signed, dated and explained". (Recheck rules on consistency with Book 1's "the fourth unknown".)
+- "The clock" is an Ironyard epithet for the unnamed Blade Lira beat by pace-matching (not a name).
+- Calendar: about seven weeks of late autumn, frost, before midwinter; months unnamed (edition canon; BOOK_MAP §11 s reconciled).
+- r1 additions: the girls from the wall come to Lira after her loss; Havel's afternoon back in the Ranked streets; Dace marks Lira's name "watch this one".
+- Packet quote kept with one word changed ("Whatever I'm becoming can be watched while it watches").
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Opens a few days after M1's T+8. The river-academy bout is "next week" (≈T+13, day R). The ceiling talk is that night. Dravin is booked "Tuesday week" (≈R+10); Hesk's reply comes the same week. The dip runs about three weeks after Dravin. Vell's month starts at the end of it. The gaze is built over those weeks (the hooks begin the night of R). Then the Force woman's card and the stranger, two days of rereading, and the clock booked a week later. Vell's "nine days" falls the afternoon before the clock bout. Lira sleeps two nights after it. **Havel's visit** is on the Tuesday he draws the file, about two or three days after the clock, and about a fortnight after the stranger. About seven weeks in all. The weather on the page is cold evenings, breath showing, frost on the step: late autumn, before midwinter, which matches the Book 1 calendar (autumn arrival, frosts by about day 70). **No months named** (one "second month of the year" was caught and changed to "early in the spring").
+
+**Bodies.**
+- Cael:
+  - left forearm: a long flat bruise over Lira's earlier stripe, "the colour of a plum by midnight", fingers numb that night except the thumb; worn in a scarf sling the next day, healing through the movement;
+  - a hollow under the ribs after the giving face (gone);
+  - the left-hip line with every burst: three in the rehearsal morning, one in the bout;
+  - eye-ache and a forehead ache after full-depth gazing (transient).
+- Lira:
+  - right shoulder (Dravin's glancing blow);
+  - right ribs/side (Dravin's fourth-exchange combination, "white then hot"; stairs one at a time for weeks);
+  - a cut forearm (river-end Blade), unbandaged until Cael sat on her;
+  - hip (salt-end woman), jaw bruise, split knuckle, right hand wrapped (a staff caught it);
+  - **left thigh**, the clock's cut, stiffening at the movement's close;
+  - two nights of real sleep after the clock, then back at the lamp.
+- The river-academy man: ribs under the right arm. Dravin: hip (her third-exchange shot). The clock: ribs. The lean man: chest, down flat.
+
+**Fragments and progression.**
+- **Two fragments**, both partial; count unchanged. **No notice** this movement.
+- **Wind**: the landing beat **spent on purpose against a stranger for the first time**, with the priced hit taken (forearm, guard high). It bought a whole commitment and the man's beat, so the answer came out of the lock already moving. Rehearsed three times with Lira. Lira's new back-and-round step makes the hip **lean** without firing or charging (Open questions).
+- **Pressure**: the giving face rode the answer *on the man's beat*, read in the lock (the arm numb, the beat exact); a hollow after.
+- **The compound gaze** (grey book, not the Power Log):
+  - six phases as hooks in the margin, counted by his seated breath;
+  - *performed commitment* as a backwards hook, with its countersign (the real strike a breath late; the heel up too quickly);
+  - the price: eye-ache in two exchanges, behind the forehead after a bout; **blind past ten degrees** both sides at full depth (seven chalk measurements);
+  - the ration in ink. Broken once, in the Force woman's bout; that is how the stranger got close.
+- **Three layers**: what they did / when it happened / **what it's made of**. The book is rebuilt with *What it's made of* first.
+
+**Power Log / notebooks — quotable.**
+- Power Log, Wind *Costs (add)*: *the landing spent on purpose… Taken as priced… Bought: one whole committed strike, start to end, and the man's beat… Ruling: the trade holds against somebody who means it.*
+- Power Log, Wind *Open questions*: *Lira's new step… the hip leans toward it… Only leans.* / *The Wind I carry is a copy of her from last winter, from the mornings before the night at Torvin's when the notice came. She has kept going since… This step is newer than anything I've got.* (underlined twice, no conclusion)
+- Grey book:
+  - *In the lock: a whole strike, beginning to end. Want that without the lock. Don't know how. Look.*
+  - Keth's page (*No reason for this page*; *Chooses his count… The only one I've seen.*).
+  - The north-bench entry, **underlined in ink**, with *Without that loss there would be no hook.*
+  - The gaze's price and ration in ink.
+  - The Force woman's prediction.
+  - The stranger's page (*Big. Broad as the side door… Three steps. Gone.* / *I broke the ration in the third. That's how he got there.*).
+  - The rebuilt pages (Dessa, the river-academy man, Ulric, the clock).
+  - The three-layers summary; **"Whatever I'm becoming can be watched while it watches."**; *I owe him a conversation. When he's ready.*
+  - *Money is the quickest witness…*; *Some things you can only do when you're standing close enough to be hurt…*
+  - Officials page: *One coat, alone… Correct. Wants to be.* / the off-form pause / the slant at "I like it here".
+
+**Ratings and ledger lines.**
+- Cael: assessed-Copper; **thirteen Copper formals this year**; *…Fourth exchange. Atypical movement pattern.* (name under Vell's thumb).
+- Lira: formal **Copper**; Vell's line **unchanged, *Copper-equivalent, high range***. Vell holds it for a month, then "Not yet. Nearer." The bouts on the page: *L. to Dravin (Iron-equiv., Wind). Sixth exchange. Pressed throughout.*; L to a river-end Blade; an ugly W; L to the salt-end Wind; ("three losses and one ugly win" by Vell's count); **W over the clock (Iron-equiv., Blade), fifth exchange, *Pressed throughout. Matched pace.*** The betting man's mark for her: an empty square, *don't know*.
+
+**Money / home.** River-academy purse: eight marks. Lira's losses: three marks each; her own estimate is "about a fifth of my rent a week, if I lose half". The dock partner is a mark an hour; the practice-lamp oil is hers. The heavyset man's wife (and, for some nights, her talkative sister) is in the house; the heavyset man put the kettle on for them once.
+
+**Knowledge.**
+- Cael:
+  - Lira's *why* (the ceiling, the gate, the examiner), not her *what*;
+  - Dravin's quarter beat (from her);
+  - Keth's chosen count;
+  - the stranger: big, young, still, on the back bench at least twice before; sat in the blind spot; did not give his name or Path;
+  - Havel's name and the slant of his pencil;
+  - that a single officer came for him, not a sweep.
+- Lira: the gaze, hooks, blind spot (she measured it), the stranger, Havel's visit and the pear; that Cael "does the new kind" on her.
+- Vell, Dace: Lira's pressed season. Dace knows she asked for Dravin and the clock.
+- Havel: the file thin for its class; an unsigned, untraceable second line in the classification block, above his grade by its form; the boy calm, "likes it here", "first place he picked", the pear. His private note is kept, not raised.
+- Coss: nothing new on the page.
+
+**Relationships.**
+- Lira and Cael: she shut the door once and opened it a hand's width. "Do me." He did not walk in on her lamp.
+- Lira and Dace: the *ask her* ring rubbed out.
+- Lira and Vell: the month held.
+- Cael and the river-academy man: left-handed handshake; he still sits with his hands on his knees.
+- Keth has noticed the pencil. The stranger is owed a conversation.
+
+**Compact / watchers.**
+- **Havel's routine visit**, at the market square, stamped compliant. He entered the green-slip supplementary marker *as instructed* on the third line of the classification block, with his initials and the date. The **second line** has no initials and no traceable history.
+- He did not query anyone (no note upstairs, no word to Coss). The file is shelved.
+- No Level 4 text, no *sub-layer*, no theory.
+- The stranger (Brom, unnamed and unknown to Cael) left in three steps. No watcher of the Iron Skin texture appears yet; the stranger's back-bench sightings are only "a broad still shape".
+
+**Open threads now.** The stranger, and the conversation Cael owes him. Lira's night work (back at the lamp). Vell's month and her line. What Vell wrote in her back cover about Lira. The unsigned line in the file. Havel's private note. Keth's chosen count. The river-academy man's "wrong thing". Plus every M1/Book 1 thread: *sustained*; the unasked right step; the concurrent use; the oldest books' "different words"; the salt-end keeper; Coss's flag; Hesk's history.
+
+## New canon minted (flag for approval where marked)
+
+1. **The river-academy man** (unnamed): trained to cut second; both his losses came against men who never went first; he lost to Cael in the fourth exchange; left-handed handshake; watched only Cael's nights for a month. *Flag.*
+2. **Lira's ceiling details**: six guilds asked, two halls walked to (turned away at the first door, went to the second); four walks to the inner gate "this year". *Flag (backstory).*
+3. **Lira's new vocabulary** (*going home*, *turning in*, *the late door*, *paying early*) and **her back-and-round step** from the salt-end woman. *Flag.*
+4. **Her catch-and-send with a step in it** (no stop), found against Dravin; "the fifth thing" kept unsaid. *Flag (keeps her night work hers).*
+5. **Dravin**: lean, about thirty-five, grey in close-cut hair, guild line "twelve years" (Dace); "goes home" a quarter beat before every step; "where did you get the step" / "a barn". *Flag.*
+6. **The dock partner at the rope** (broad, broken nose); **the four girls from the wall** at her bouts. *Texture.*
+7. **Vell**: holds Lira's line for a month; writes something small inside her back cover (unseen); "Not yet. Nearer."; a keeper "writing to ask what I mean by *pressed*". *Flag.*
+8. **The betting man**: reprices on length, not wins; the empty square for *don't know*. *Texture.*
+9. **Hesk's second letter** (the race freezes at midwinter; the bench before him; *We're all carrying somebody, lad. Most of us never get a notice to tell us who.*; *Mind the hip. Eat what the girl doesn't.*). *Flag.*
+10. **The heavyset man's wife** (and a visiting sister); the heavyset man's kettle. *Texture (BOOK_MAP §11 j: household kettle).*
+11. **The gaze as built**: hooks, breath counts, six phases, the backwards hook. *Performed commitment* is owed to **the north-bench Blade** (spring loss, fourth exchange; "you sit very still when you're pleased"), the only entry underlined in ink. The blind spot is measured with chalk, seven times; **the chestnut man**. *Flag.*
+12. **Keth**: little finger off the grip; cuts that finish long; he watches feet; **chooses his count** fresh every cut; "Until you stop needing it to have a name." *Flag (seed for M6).*
+13. **The Force woman from the north gate** (barge worker; lives in the build) and the **lean man in black**. Both are unnamed, as packeted. *Texture.*
+14. **The stranger**: the end of the east bench, inside the ten degrees, "broad as the side door"; back-bench sightings in ch 9, 11 and 12. *Flag (Brom; unnamed).*
+15. **Dessa's count is her frame's construction**; she is shortening it to four and four. *Flag (Book 1 consistency checked: the count at her mark, the re-formed frame).*
+16. **"The clock"**: an Ironyard nickname for an unnamed Iron-equivalent Blade, nineteen, from the salt end, who fights to a drum. *Flag: an epithet, not a name. Owner may prefer a plainer descriptor.*
+17. **Havel's person and office**:
+    - pencils sharpened to one length; forms as a promise; five prior [SHATTERED] files;
+    - three files by rotation; the **Tuesday standing instruction** and its **green slip**;
+    - the classification block's initials column;
+    - his private notebook with a cardboard cover;
+    - the card-game image of the district;
+    - "twenty-two or twenty-three" by Cael's eye.
+    *Flag.*
+18. **The market square**: four lanes and a pump on a hollowed step at the top of the market row, with the pie stall, the paper stall and Red Cap's corner. The keeper sends Havel there ("Mornings… the market"). *Flag (meets B3 Ch18's "market square").*
+19. **The pear** offered and declined; *He offered me a pear.* in Havel's note. *Flag (a small Havel–Cael thread for M5).*

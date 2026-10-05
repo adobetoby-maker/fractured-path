@@ -2,7 +2,7 @@
 
 The shoulder was nothing. Lira had been hit harder by a gate in the wind.
 
-What was not nothing was the sound the room had made when it happened. It had been a small sound, a laugh from somewhere on the left benches with a kind of interested murmur under it, and she had heard it with the back of her neck while she was still turning, and it had gone into her like cold water down a collar. She stood at her mark and rolled the shoulder and did not look at the benches; she looked at Cael, at the rope, because she had promised herself coming down the hill that she would look at him and nowhere else between exchanges. He was not writing. He had his good hand on the strand and the other in his grey scarf, and his face was doing the thing she had seen it do over his own bad news: going very still so as to leave her room.
+What was not nothing was the sound the room had made when it happened. It had been a small sound, a laugh from somewhere on the left benches with a kind of interested murmur under it. She had heard it with the back of her neck while she was still turning, and it had gone into her like cold water down a collar. She stood at her mark and rolled the shoulder and did not look at the benches; she looked at Cael, at the rope, because she had promised herself coming down the hill that she would look at him and nowhere else between exchanges. He was not writing. He had his good hand on the strand and the other in his grey scarf, and his face was doing the thing she had seen it do over his own bad news: going very still so as to leave her room.
 
 She looked away from him then, because she could not afford him either.
 
@@ -130,6 +130,16 @@ Vell had written the line. She turned the book toward them without a word, and C
 
 Vell had never written *pressed* beside Lira's name, because there had never been any reason to.
 
+The four girls from the wall came down off the second bench while Vell was blotting the line, and stood in a row at the end of the table. They were not quite close enough to be with her and not quite far enough to be going, the way girls stand who have been told they may come and do not yet know whether they are wanted. Lira saw them, and Cael saw her see them, and for a moment the old face came over hers, the one he had seen her wear at the rope before a bout, the face that gave nobody anything.
+
+Then she took it off again, on purpose, and let them look.
+
+"Did you mean to lose?" said the smallest of them, the one with the sugared nuts, which she was still holding.
+
+"I meant to find out," said Lira. "Losing was what it cost." She held out her good hand for a nut, and the girl gave her one, and she ate it. "Tomorrow, the usual time. We're doing falling. I'll show you the one I did at the end. It's a good one."
+
+They went off together up the floor, talking all at once, and Lira watched them go with her hand pressed flat to her ribs. Cael, standing beside her, thought it was the bravest thing he had seen her do all night, and that nobody on the benches had seen it at all.
+
 The loser's share was three marks.
 
 He thought about that on the way home, walking very slowly beside her up the hill, with his good arm under her good arm and the scarf-sling between them. A win was eight and a loss was three, so her new way of fighting would cost her five marks a bout every time it cost her anything. Then there was the dock partner at a mark an hour, and the lamp oil in the alcove at night, which she bought herself. And there was the slower thing, which no purse counted: a line in Vell's book that went down instead of up meant Dace booking her into smaller cards with thinner purses, and a betting man pricing her as a girl who could be beaten. He ran it all in his head, as he ran his own purses, and he saw that it came to a great deal.
@@ -235,3 +245,5 @@ Vell watched it, and then she opened the day's book, there in the arch, against 
 "Dace can book her by her line. Her line's not moving." Vell turned to go, and stopped. "I've got a keeper at the salt end writing to ask me what I mean by a word I put beside your name," she said over her shoulder, without any heat in it at all. "I expect by spring I'll have one writing to ask what I mean by *pressed*." She tapped the book. "I'll tell her the same. Come and see."
 
 She went off down the floor toward her table. Cael stayed in the arch and watched Lira get sat down, and get up, and go in.
+
+He had told Vell he was sure, and he had meant it, and standing in the arch afterward he made himself look at whether he had any right to be. It was not a thing he could have put in three columns. He had no evidence for it but a girl walking to a second guild hall two years ago, which he had not even seen, only been told, so that by his own rule it ought to have had a small *h* beside it. And yet he would have put money on it, all of Hesk's pouch, without a moment's thought. He found that there were people he read the way he read fighters, from the outside, and one person he did not read at all, only knew, and that the knowing was a different thing from the reading, and older, and that he trusted it more.
