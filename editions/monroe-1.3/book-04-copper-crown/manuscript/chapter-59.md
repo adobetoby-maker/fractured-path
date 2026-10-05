@@ -32,8 +32,6 @@ Seln gathered the sheets and knocked them square on the table, and marked the wi
 
 "The unit runs again next term. Sign at the residence board when term opens. Anyone going on into assessment work will find the second harder and less interesting, which is the correct order."
 
-That was all.
-
 Gwen caught Cael up at the door with her green scarf half wound. "Are you signing for the second one? I am. My aunt says the second of anything is where you find out if you actually like it." She looked at him with frank concern. "You didn't do very well tonight, I don't think. I saw your page. You left out the door."
 
 "I was tired."
@@ -44,7 +42,7 @@ He went out with the others without a glance back into the room, and did not sto
 
 The pillar was cold, and the little pencil eye on the back of his hand looked up at him.
 
-That night he wrote it, as briefly as he could make himself.
+In the Log that night he kept it as brief as he could make himself.
 
 *Last session of the unit. Every Third-day since the week of the records hall. Position, taught at eight feet by a Shadow practitioner, off a syllabus with Gault's initials on it and an attendance book bound for Bracken's shelves, and taught precisely as nine ordinary second-years would have been taught it. Anything else would have shown.*
 
@@ -62,7 +60,7 @@ A narrow bed under the slope of the roof; a washstand with a cracked jug; one ch
 
 He went down to supper first, because the counsel expected it and because a man who eats alone in his room on an inspection road is a man whom clerks discuss.
 
-They had the long table nearest the hearth. The counsel talked, as she had talked the whole road from the coast, about inns: this one's mutton, which was good, and its beds, which had been aired. Then she told of a magistrate she had once watched eat a whole game pie at this very table so that he would not have to answer a question put to him between courses. The records officer handled his fork like an instrument under calibration. The assessor ate a little bread and went up before the pudding without a word to anyone. Vastin asked the counsel what the question had been, which pleased her a great deal, and listened to the answer, and did not say one word about Halcenvane.
+They had the long table nearest the hearth. The counsel talked, as she had talked the whole road from the coast, about inns: this one's mutton, which was good, and its beds, which had been aired. Then she told of a magistrate she had once watched eat a whole game pie at this very table so that he would not have to answer a question put to him between courses. The records officer handled his fork like an instrument under calibration. The assessor ate a little bread and went up before the pudding. Vastin asked the counsel what the question had been, which pleased her a great deal, and listened to the answer, and did not say one word about Halcenvane.
 
 Work was not for public rooms; it never had been, with him. Whatever is said across a posting-house table is said, in a month, by the man who sat at the next one. And talk was bad for a thought that had not set. A man said a thing aloud and heard how well it sounded, and from then on he was defending the sound.
 
@@ -108,7 +106,7 @@ He had been looking at the boy, not the frame, when it went. That had been luck 
 
 The sound had come after. He was as sure of that as he was of anything he had seen in a measured room. He had heard the catch of the notch while he was already watching the boy go short.
 
-When the weight struck, he had looked once at the frame, to see where it had come down, as everyone in the room had. After that every head had swung back to the boy for a second look. He had not needed one, and had taken care not to take one, because a second look in a room like that is a question asked with the eyes, and he had no question about it that looking could answer. He had sat on through the eleven minutes, and taken out the notebook, and written.
+When the weight struck, he had looked once at the frame, to see where it had come down, as everyone in the room had. After that every head had swung back to the boy for a second look. He had not needed one, and had taken care not to take one, because a second look in a room like that is a question asked with the eyes, and he had no question about it that looking could answer. He had sat on through the quarter of an hour, and taken out the notebook, and written.
 
 Even then, with the frame still ringing in his ears and the porters' boots in the passage, he had known that what he was writing was too large. He had written it anyway. That was what the notebook was for.
 
@@ -124,7 +122,7 @@ Two pages of it were Halcenvane.
 
 He turned first to the second, the one from the twentieth, because that was the one the evening had been for.
 
-He had set it down in the eleven minutes the porters took to fetch the reserve frame from the far store, with the notebook open on his knee and the boy at the west rail with his weight off one leg. He had written fast. Then at the very end, when the wing was emptying and he was on his feet with the chair pushed back, he had taken the book out again and drawn a single line through three of the words. One stroke, so that the words could still be read under it. A man who blacks out his own error so that nobody can see what it was has told a lie about his own mind, and Vastin did not tell those on paper if he could avoid it.
+He had set it down in the quarter of an hour the porters took to fetch the reserve frame from the far store, with the notebook open on his knee and the boy at the west rail with his weight off one leg. He had written fast. Then at the very end, when the wing was emptying and he was on his feet with the chair pushed back, he had taken the book out again and drawn a single line through three of the words. One stroke, so that the words could still be read under it. A man who blacks out his own error so that nobody can see what it was has told a lie about his own mind, and Vastin did not tell those on paper if he could avoid it.
 
 He had felt the boy's eyes on him for that stroke, from across the room. He had not looked back. The stroke was not for the boy.
 
@@ -136,7 +134,7 @@ Under the lamp it all read as it had read for four days.
 
 *Correction was sized to the hazard, not to the demonstration. Note the sizing. Not the speed.*
 
-The struck words had been a verdict. They might even be the right verdict; turning them over now, cold, he thought the odds were better than even. But he had set them down within two minutes of the frame failing, before the re-run, before he had watched the boy go back onto the reserve frame with a leg that had just paid for a floor and tell the panel, unasked, which of his runs were the hip's and not his. A finding written that fast is a stake driven before the survey. Every measurement taken afterward gets read as a line toward the stake. The surveyor thinks he is checking his work, and he is only admiring it.
+The struck words had been a verdict. They might even be the right verdict; turning them over now, cold, he thought the odds were better than even. But he had set them down within minutes of the frame failing, before the re-run, before he had watched the boy go back onto the reserve frame with a leg that had just paid for a floor and tell the panel, unasked, which of his runs were the hip's and not his. A finding written that fast is a stake driven before the survey. Every measurement taken afterward gets read as a line toward the stake. The surveyor thinks he is checking his work, and he is only admiring it.
 
 He had learned that once in a cellar office, at twenty-three, from a man whose name he could now barely bring to mind. He had said it since to a good many young officers and let them take it for wisdom. It was not wisdom. It was a rail you put up where you know you are going to fall, and on the twentieth, two hours into a long sitting, with a handsome sentence on the page in his own hand, he had needed the rail as badly as any of them.
 
@@ -218,7 +216,7 @@ On the other half went the second thing.
 
 *Subject warrants attention.*
 
-The second got shorter shrift. Within a month it would put a warden on the bluff road. And in a boy who had already sat through one adjudication, it would bring on exactly the behaviour that turns a monitoring file into a stage play, because a boy who knows why he is watched begins to perform for the watcher, and nothing true has ever been got out of a performance. He tore it across. The halves lay one on the other by the lamp.
+The second got shorter shrift. Within a month it would put a warden on the bluff road. And in a boy who had already sat through one adjudication, it would bring on the very behaviour that turns a monitoring file into a stage play, because a boy who knows why he is watched begins to perform for the watcher, and nothing true has ever been got out of a performance. He tore it across. The halves lay one on the other by the lamp.
 
 The third he never put to paper.
 

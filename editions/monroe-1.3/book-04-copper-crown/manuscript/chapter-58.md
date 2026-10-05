@@ -22,7 +22,7 @@ A paper that has been read carries the reading on it, if you know where to feel.
 
 Six filings, in their order, each with its appendix pinned behind it. On top, his own index, in his fourth hand. And on none of it a single mark. No pencil, faint or otherwise. No turned corner. No pin moved from the hole it had been put through. No slip tucked in, and none taken out, and no fold that had not been there when the stack went across. An evaluation seat had held it for two days, with every right in the charter to write in its margins, and had handed it back as clean as a sheet still in the ream.
 
-Then he had tied the knot again exactly as it had been, and shelved the case, and gone down to his own supper at the pace a clerk keeps when nothing has happened.
+Then he had tied the knot again as it had been, and shelved the case, and gone down to his own supper at the pace a clerk keeps when nothing has happened.
 
 And now the docket said *No extract or copy retained*. A reader who kept no copy, and wrote nothing on the original, had kept whatever he thought somewhere else.
 
@@ -46,7 +46,7 @@ Then came the fifth part, which the posting was for, and it took him longer than
 
 He laid the pen in the gutter of the desk and read them over, and changed nothing.
 
-He tried the first three the way the old man at the long table had taught him to try another officer's work: pretending a stranger had written each one and Seln were being paid by the fault. The boy had complied with everything the house asked of him all term. *Observed*, in the manual, meant observed under conditions that allowed confirmation, and that was a narrow door, and nothing had come through it. The enrollment basis was evaluation by demonstration; the boy had demonstrated in front of the Compact's best eyes and been renewed. Each line bore weight. He had learned over a term, a sentence at a time, exactly how much weight a true line would bear before it cracked, and he had loaded each of these three to that mark and not a hair beyond.
+He tried the first three the way the old man at the long table had taught him to try another officer's work: pretending a stranger had written each one and Seln were being paid by the fault. The boy had complied with everything the house asked of him all term. *Observed*, in the manual, meant observed under conditions that allowed confirmation, and that was a narrow door, and nothing had come through it. The enrollment basis was evaluation by demonstration; the boy had demonstrated in front of the Compact's best eyes and been renewed. Each line bore weight. He had learned over a term, a sentence at a time, how much weight a true line would bear before it cracked, and he had loaded each of these three to that mark and not a hair beyond.
 
 The fourth bore everything else.
 
@@ -60,7 +60,7 @@ Signature, extracts, seal. The packet went to stand against the door frame, read
 
 There remained the day's page, folded in his inside pocket.
 
-Four lines, in the fifth hand, sloping downhill to the right. The date the carriages left. The serial of the reserve frame, copied from the wing's maintenance book. The date the file had come back, the fourteenth, and the docket's date beside it. And one line under them that was not a fact at all, of the kind he let himself write perhaps twice a year.
+Four lines, in the fifth hand, the shorthand that had grown out of the cramped one. The date the carriages left. The serial of the reserve frame, copied from the wing's maintenance book. The date the file had come back, the fourteenth, and the docket's date beside it. And one line under them that was not a fact at all, of the kind he let himself write perhaps twice a year.
 
 *unmarked file. one of three. probably the third.*
 
@@ -120,7 +120,7 @@ He caught up with her where the records hall's corner met the walk.
 
 He took the other handle.
 
-At the steps Bracken's inky-knuckled clerk was coming out with a bundle of dockets. He looked at the cart, and at the oilcloth, and at Karis's face, and then held the door wide for them both without being asked and without a word, and went on down the steps.
+At the steps Bracken's inky-knuckled clerk was coming out with a bundle of dockets. He looked at the cart, and at the oilcloth, and at Karis's face, and then held the door wide for them both without being asked, and went on down the steps.
 
 They went in by the records hall's main door and through the stone hall and up the back stair. The cart would not climb a stair, so they carried the load up in their arms in three goes, while the cart waited at the bottom like a patient dog. Karis had a key on her wrist, and it opened a door on the top floor at the end of a passage Cael had never had reason to walk down, into a narrow room with a table and a window and a card in a brass frame on the door. The card said, in Bracken's upright hand, *Reading room. Assigned: K. Dellenmoor.*
 
@@ -184,7 +184,7 @@ Cael was at the window, where he had drifted while she read. He went there when 
 
 "And not a word of it went down the river," said Lira to his back.
 
-He did not answer at once, but came back from the window instead, and held out his hand to Karis, and she understood and gave him the marbled book from her satchel without a word. He opened it on the table where all three could see.
+He did not answer at once, but came back from the window instead, and held out his hand to Karis, and she understood and gave him the marbled book from her satchel. He opened it on the table where all three could see.
 
 "The day after the pin. Read it."
 
@@ -268,7 +268,7 @@ Karis had said nothing for some time. Now she took her hands off the table and p
 
 "Go on."
 
-"I sat here and told you that an instrument doesn't change sides; it changes readings. That was in this room. I said it with my hands on this table, more than once, as if it closed the matter." She did not look up. "It's true. It's a true thing about instruments. I was applying a correct principle to the wrong class of object. He isn't an instrument. He's a man who's been used as one, for years, by an office that will drop him the day he stops working for it. And I drew him, the whole of him, from the way he was used and not from what he is."
+"I sat here and told you that an instrument doesn't change sides; it changes readings. That was in this room. I said it with my hands on this table, more than once, as if it closed the matter." Her eyes stayed on the table. "It's true. It's a true thing about instruments. I was applying a correct principle to the wrong class of object. He isn't an instrument. He's a man who's been used as one, for years, by an office that will drop him the day he stops working for it. And I drew him, the whole of him, from the way he was used and not from what he is."
 
 The stove ticked, and nobody moved.
 

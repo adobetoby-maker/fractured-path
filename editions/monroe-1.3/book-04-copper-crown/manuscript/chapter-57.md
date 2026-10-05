@@ -164,7 +164,7 @@ He thought about it first, because she was not a woman who asked a question to f
 
 "The clause."
 
-"The clause." She nodded once. He had passed a small test, and she had not expected him to fail it. "Not you. A handful of people wrote that sentence long ago, for their own reasons, about practitioners none of them had met. They never heard of you and could not have. If they had written one word differently, the finding on the fifteenth would have gone the other way. And you would be standing in this rain just as you are now, no better and no worse." She shifted the case to one hand. "I'm saying this because it isn't kind. Don't take it for kindness."
+"The clause." She nodded. He had passed a small test, and she had not expected him to fail it. "Not you. A handful of people wrote that sentence long ago, for their own reasons, about practitioners none of them had met. They never heard of you and could not have. If they had written one word differently, the finding on the fifteenth would have gone the other way. And you would be standing in this rain just as you are now, no better and no worse." She shifted the case to one hand. "I'm saying this because it isn't kind. Don't take it for kindness."
 
 "I won't."
 
@@ -246,7 +246,7 @@ Havel thought about how to answer that within his instructions, and found that t
 
 "Nobody checks them after me," he said.
 
-The counsel looked at him for a moment with her head on one side, the way she looked at a clause she had not expected to like. Then she took up her sentence about the inn again from the exact word where she had left it.
+The counsel looked at him with her head on one side, the way she looked at a clause she had not expected to like. Then she took up her sentence about the inn again from the exact word where she had left it.
 
 Correct and careful, he thought. They were not the same thing, and on most days he managed both.
 
@@ -254,7 +254,7 @@ Correct and careful, he thought. They were not the same thing, and on most days 
 
 In a quarter of an hour the carriages were off the bluff, and the road below the gate was empty except for the rain. Cael lingered.
 
-Havel had come out of the records hall with the chests and stood under the canvas with his list, ticking. He had not looked up. Cael had seen him not look up. A man checking wax at a porch has a dozen small reasons to lift his head, a horse moving or a voice or the rain changing, and Havel had lifted it for none of them.
+Havel had come out of the records hall with the chests and stood under the canvas with his list, ticking. He had not raised his eyes. Cael had seen him not raise them. A man checking wax at a porch has a dozen small reasons to lift his head, a horse moving or a voice or the rain changing, and Havel had lifted it for none of them.
 
 Eleven days. On the first morning Cael had put it down as caution, because anyone in that coat had reasons to be careful where his eyes went. In the second week he had stopped being sure. Caution looks at a thing and then away. This was a man who had worked out where the thing was and then built his whole day round not looking there, as carefully as another man would have built it round looking.
 

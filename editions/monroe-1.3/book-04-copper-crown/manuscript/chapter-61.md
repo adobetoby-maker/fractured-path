@@ -120,7 +120,7 @@ Cael put it in the Log that night, under Ephram's own page and then on a fresh o
 
 *Told me the speed before the session, not after. That's worth more to me than whatever happens in it.*
 
-*Most of a year he'd carried a promise made in public, one the house's own rules forbade him ever to keep. He could have let it quietly drop. Nobody would have said a word. Instead he took it apart in front of the one person it concerned, in a yard with nobody else in it, and then went back to his drill.*
+*All season he'd carried a promise made in public, one the house's own rules forbade him ever to keep. He could have let it quietly drop. Nobody would have said a word. Instead he took it apart in front of the one person it concerned, in a yard with nobody else in it, and then went back to his drill.*
 
 *Rooke under the north arch, on the day the notice came. Ephram on the oak this afternoon. Two people this year who changed their minds about me to my face, when standing pat would have cost them nothing.*
 
@@ -134,7 +134,7 @@ Cael saw it from the law range's third-floor landing, where he had gone on purpo
 
 Carrel eleven was empty.
 
-They opened its door and looked in, and the young clerk said, "Nothing," and the inky-knuckled one wrote *nil* against its number, and they moved on to twelve. There was a pale square on the wall at eye height where four printed sheets had once been pinned, and a ring on the desk where an inkpot had stood all term. That was all.
+They opened its door and looked in, and the young clerk said, "Nothing," and the inky-knuckled one wrote *nil* against its number, and they moved on to twelve. There was a pale square on the wall at eye height where four printed sheets had once been pinned, and a ring on the desk where an inkpot had stood all term.
 
 On the landing beside him Karis watched them go by with her key on its string round her wrist and her hands in her coat. She did not say anything until the cart had gone round the corner of the range.
 
@@ -208,7 +208,7 @@ The hall emptied in a roar that went out through both doors at once and broke up
 
 Lira shook her head. "It goes in as a final. Against the champion. Lost by one beat in the fourth exchange on a mended seam." Her palm settled over the certificate in her coat. "If I were a stranger reading it, I'd want to know who you were."
 
-Brom looked at her for a while, and then at his boots, and said nothing at all, which from Brom was a long speech.
+Brom looked at her for a while, and then at his boots, and said nothing at all.
 
 ---
 

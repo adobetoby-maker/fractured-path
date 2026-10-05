@@ -84,7 +84,7 @@ The woman's pen paused.
 
 "I didn't go to a registry school. I went to a foundry." Lira put her bag down by the door. "If you describe it, I'll run it."
 
-He looked at her for a moment with no expression at all, and then he described it.
+He looked at her with no expression at all, and then he described it.
 
 Twelve marks on the floor in chalk, in a pattern she had to hold in her head from one hearing: a line, a hook, a check, two returns, a long diagonal, and a set of four small steps at the end that the sequence called the stair. A burst wherever the marks were wide apart, a step where they were close. No touching any mark twice. The whole of it to be run without stopping, and timed.
 
@@ -116,13 +116,13 @@ The load figures were only numbers, and she had known her numbers for two years.
 
 A rope off a drum, a sprung plate on the far wall, a measured rod along the floor: how far the burst carried, how much it could carry with it, how fast she was off the line again after the landing. Five runs at each. The woman read the figures aloud as the man called them, so that both of them would have heard every one. Lira did not listen to them. She knew what they were. They had been Iron since Vell kept them in her ledger at Ardenmere, and everyone who had stood at a rail and watched her fight had known it for two years. The only thing that had ever been missing was a station.
 
-So she gave the station its numbers. She took the rope off the drum in her right hand and burst against its pull, and felt the drum fight her and lose. She put her shoulder to the sprung plate at the end of a burst and felt it give and come back. She ran the measured rod five times, landing and leaving, landing and leaving, and on the fourth landing the hip sent up a single bright complaint, like a nail in a boot, and she let it complain and went on. On the fifth she was off the line faster than on the first. The woman read the figure out twice, in case she had misread it, and the man said, "Yes," without looking up.
+So she gave the station its numbers. She took the rope off the drum in her right hand and burst against its pull, and felt the drum fight her and lose. She put her shoulder to the sprung plate at the end of a burst and felt it give and come back. She ran the measured rod five times, landing and leaving, landing and leaving, and on the fourth landing the hip sent up a single bright complaint, like a nail in a boot, and she let it complain and went on. On the fifth she was off the line faster than on the first. The woman read the figure out twice, in case she had misread it, and the man said, "Yes."
 
 Then the man set down his slate.
 
 "The frame," he said.
 
-She went to it. It was cold to stand near, the way metal is cold in a room that has not had a fire in it, and up close the sigil was not as plain as it had looked from the door. There were lines in it too fine to follow. They did not catch the light so much as hold it.
+She went to it. It was cold to stand near, and up close the sigil was not as plain as it had looked from the door. There were lines in it too fine to follow. They did not catch the light so much as hold it.
 
 "The flat of your hand on the centre," said the woman. "Keep it there until it's done. It will tell you when."
 
@@ -146,15 +146,15 @@ Lira took her hand off the sigil and looked at her palm, which was perfectly ord
 
 "The supersession," said the woman, "will take a few minutes. If you'll sit."
 
-It took eleven. A clerk came in from the front office with a second book, thicker than the first, and sat at the end of the table, and entered the supersession in it, line by line, with a pen that scratched. While he wrote, the woman explained to Lira that her Fenmark certificate would not be destroyed. It would remain in the registry as a historical entry, marked superseded, so that the line of her record was unbroken, and any reader in future would be able to see where she had stood before and on what date she had been moved. The prior classification had to be superseded on the same instrument that made the new one, the woman said, or it stayed live underneath, and that caused trouble later.
+It took ten. A clerk came in from the front office with a second book, thicker than the first, and sat at the end of the table, and entered the supersession in it, line by line, with a pen that scratched. While he wrote, the woman explained to Lira that her Fenmark certificate would not be destroyed. It would remain in the registry as a historical entry, marked superseded, so that the line of her record was unbroken, and any reader in future would be able to see where she had stood before and on what date she had been moved. The prior classification had to be superseded on the same instrument that made the new one, the woman said, or it stayed live underneath, and that caused trouble later.
 
 Lira sat on a hard chair with her hands folded in her lap and said, "I see," and, "Yes," and, "Thank you," at the right places, and was more polite than she had been to anybody since she was twelve. A fly was walking up the inside of the high window over the table. The clerk's pen scratched. The smell of old grain came up out of the boards.
 
 Tomorrow morning, she thought, the porter would climb his ladder at the fifth bell and find that he had been given a reason. He would need a new word beside her name, and it would be shorter than the old one, and he would grumble about having to rub out a good one. She found that this, out of the whole morning, was the thing that very nearly made her smile, and she kept it off her face with some care, because the clerk was writing and it did not seem polite.
 
-At the end of the eleven minutes the woman handed her a single folded sheet, and stood, and so Lira stood too.
+At the end of the ten minutes the woman handed her a single folded sheet, and stood, and so Lira stood too.
 
-"Practitioner," said the man with the slate, and nodded once.
+"Practitioner," said the man with the slate, and nodded.
 
 She did not unfold the sheet. She knew what was on it; she had heard it read off a frame. She stood in the little passage between the two rooms with her bag over her shoulder and the sheet in her hand, and took a moment there that nobody could see her take.
 
@@ -170,7 +170,7 @@ Cael had counted every one of the fifty-one minutes.
 
 There was no stopping the count. He did it by the clock over the clerk's desk, an old counting-house clock with a brass weight on a chain that dropped a finger's breadth in a quarter of an hour, and he did it under the clock as well, in his own head, in breaths. The two counts did not agree. He kept them both.
 
-The anteroom had four chairs and the cold stove. Brom sat down hard, bent forward, and fixed his eyes on a knot in the floorboards that seemed to owe him money. Bracken did not take one. He stood by the stove with the empty satchel under his arm, because Bracken stood. Cael took the chair by the stove, across from Bracken, and found he could not sit back in it.
+The anteroom had four chairs and the cold stove. Brom sat down hard, bent forward, and fixed his eyes on a knot in the floorboards and kept them there. Bracken did not take one. He stood by the stove with the empty satchel under his arm, because Bracken stood. Cael took the chair by the stove, across from Bracken, and found he could not sit back in it.
 
 He knew what was behind the far door. He had stood in front of a frame like that once himself, at Denvash, with his palm on cold metal and something going down into him. He did not remember much else of that day, or did not let himself. He remembered the cold of the frame, and the waiting while it looked, and that he had not been able to do anything at all.
 
@@ -210,7 +210,7 @@ Brom was the first to move. "Huh." He got up and put out his right hand, the one
 
 Before Lira had finished, the grey notebook was open on Karis's forearm. She wrote it standing, then and there, at the pace of somebody setting down a thing she had been waiting a very long time to set down.
 
-Bracken said nothing at all. He put the empty satchel over his shoulder, and nodded once to the clerk at the desk, and held the street door open for the four of them, and that was all he did. But Cael, going out past him, saw that he was holding the door with his whole hand flat against it, the way a man steadies a thing that he wants very much to stay exactly where it is.
+Bracken said nothing at all. He put the empty satchel over his shoulder, and nodded to the clerk at the desk, and held the street door open for the four of them, and did nothing more. But Cael, going out past him, saw that he was holding the door with his whole hand flat against it, the way a man steadies a thing that he wants very much to stay exactly where it is.
 
 On the way down to the river she and Cael drew ahead of the others. He had asked her to walk with him. She seemed, too, to have chosen him for something while she was behind that door, and he let her take her time about what it was.
 

@@ -64,7 +64,7 @@ Karis had the library's list open beside her bread, a single sheet in her own ha
 
 "Half of it," said Lira from the settle, without opening her eyes. "That's the half you say to make people stop asking. Say the other half, so we can all hear it."
 
-He had said it in her hearing on purpose, half expecting exactly that, and she was right.
+He had said it in her hearing on purpose, half expecting that, and she was right.
 
 "If he asks about anything that's already written down somewhere, I tell him all of it, straight. If he asks about anything that isn't, I tell him I won't answer, out loud and in those words, so that the clerk can put down that I said no." He looked at the face-down sheet. "That's the change. In every room before this one, when there's been a thing I couldn't say, I've said something true with a corner cut off it: on Gault's plate yesterday, at the baseline, at Greyvane. Each time it worked, and each time it cost, and each cost went in the book.
 
@@ -146,7 +146,7 @@ Over breakfast Cael had chosen the true answer over the handsome one.
 
 "Explain."
 
-"Every burst finishes with a moment I can't do anything in, half a breath after I land, when I can't turn or reach or change my mind. It's always the same length. Three years it's stayed that length, and nothing I've tried has trimmed it." His hip complained, and he let it shift. "Nearly everybody who's hit me since I had the Wind has hit me there. If somebody knows me and wants to put me down, that's the door they use. Lira has done it eleven times."
+"Every burst finishes with a moment I can't do anything in, half a breath after I land, when I can't turn or reach or change my mind. It's always the same length. Three years it's stayed that length, and nothing I've tried has trimmed it." His hip complained, and he let it shift. "Nearly everybody who's hit me since I had the Wind has hit me there. If somebody knows me and wants to put me down, that's the door they use. Lira has done it more times than I'd like to count."
 
 "Yesterday, on the frame, it went unpaid."
 
@@ -164,7 +164,7 @@ Nobody in the room moved. The inky clerk's pen kept its pace. Lift it, and a cle
 
 Two breaths went by while the man weighed it, unhurried, like a figure from a new instrument he was still learning to believe.
 
-"That's right," he said. "Mark the word I chose. Accurate. Not well said." He turned his head a little, as if to a new page. "The fourth."
+"That's right," he said. "Mark the word I chose. Accurate. Not well said." He turned his head a little. "The fourth."
 
 ---
 
@@ -196,7 +196,7 @@ He understood the question as soon as it was asked, and understood that it was n
 
 "I let go of the ground that runs on goodwill. I stood on the ground that runs on reading."
 
-The man was quiet for a moment, and then moved on exactly as he had moved on from everything else.
+The man was quiet for a moment, and then moved on as he had moved on from everything else.
 
 "Sixth. You keep records of your own; a report on your file has a phrase for it, *extensive private notation habit*." The phrase came out like a borrowed cup set gently down. "What are they for?"
 
@@ -240,7 +240,7 @@ The seventh question was about the house.
 
 Cael had not been ready for that one, and found that he had an answer anyway. He gave it in Bracken's words from the charter sitting, because Bracken's were plainer than any he could have made: the house had to keep him on its roll, set a standard and post it where it could be read, measure him against that standard in front of a panel every half-year, and keep the record where anyone with a right to read it could. "And it's costing the wing a frame," he added. "They'll have the old one in pieces on a bench by tonight. The registrar would tell you the morning's cheap, but the Mire instructor would want the frame on somebody's bill."
 
-The man nodded once, as if the frame were a line he had already entered somewhere.
+The man nodded.
 
 The eighth was about the ladder.
 
@@ -278,7 +278,7 @@ As with every figure in the wing yesterday, he simply took it in. The chair did 
 
 "Only that?"
 
-"Only that. What's done with my findings belongs to other men. If I did their adding for them, I'd soon be measuring toward their total." His tone stayed exactly where it was. "You expected an enforcer."
+"Only that. What's done with my findings belongs to other men. If I did their adding for them, I'd soon be measuring toward their total." His tone did not move. "You expected an enforcer."
 
 "I've met the enforcers."
 
