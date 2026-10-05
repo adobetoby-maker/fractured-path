@@ -261,3 +261,90 @@ Untouched: speech, Log and notebook entries, protected texts, and landing beats.
     - Six scene breaks inside continuous scenes were removed before the first run.
     - Per-chapter probing used a scratchpad wrapper, because the official sweep cannot run over missing chapter files.
     - AUTHORSHIP gives the details.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), 2026-10-05, following `REPAIR-BRIEF.md` (Sol, editorial and cold).
+- Every change was made in place, by reading, in ch30–36 and this report.
+- Replacement passages were composed by hand and applied as exact-string swaps.
+- No sentence was split by rule, and nothing was edited by pattern.
+- No git commands were run.
+
+### The consent boundary, as now stated
+
+It is stated on the page twice: in Brom's speech at supper (ch32) and in Cael's Log rule that night. The Log line:
+
+*Two things, not one. What a person gives off to a room belongs to the room: that they're there, where, still or moving, how they press. I can't help that, any more than I can help hearing feet on the stair. Going into one person on purpose, to find out what's in them (kindled or not, working or resting, what's under the ease), belongs to them. That I ask before I do. Tonight I went into B. without asking. That was the wrong one, and it was mine.*
+
+Brom's version of the same line: "Mine lies on the room… That's the room's. Going into somebody's another thing… I don't do that unless they're across a rope from me, or they've said I can."
+
+**How the later scenes follow it:**
+- **ch33, the first public test.** At the dray, Cael goes into the old man because Brom asked "which?". He hears what he is doing as he turns to the girl, stops, and names it: "I just went into him. The old man. I didn't ask." Brom takes his share ("I set it you, and didn't think").
+  - *Carrying* gains a third line: *The old man at the dray. Did. Didn't ask. Stopped.*
+  - The kindled and working tests are redone in the alcove with people who said yes: Lira ("Do it properly"), the dock partner, the heavyset man ("If it's for the book", on a chalk cross with his hat in his hands), and the sacking-haired girl, who is asked first.
+  - The Log now reads *…with leave*. The walking yes/no is "the street's, and needs nobody's".
+- **ch34, the sweeps.** The nightly sweep "take[s] what the room gave him… He did not go into anybody." Late fighters are only weights.
+  - The false reading no longer claims *kindled*. The read gives *somebody, low, still*, and the sleeper's slow rise and fall comes to him close without his asking.
+  - The three sightings use only what the watcher gives off: the unchanging weight, and a hardness felt "the way you can feel a stone under a blanket without lifting the blanket".
+  - At the market Cael does not go in, "though he wanted to more than he had wanted anything for weeks".
+  - Cael tells Lira "a practitioner, I think" on the hardness alone.
+  - Brom states the vigil's rule: "And not go into them, either; same rule as anybody."
+- **ch35, the vigil**: planned as "take nothing but what the room was given". The Log: *Neither of us went in.*
+- **ch31**: the flood no longer has him try to find the old man ("Cael did not go looking for him"). **ch36**: in the archive he lets the read close, because going into Vell would be "a short step" from what the room gives.
+- The supper read, before the rule existed, stays named as wrong.
+
+### The notebook fix (ch31)
+
+Every fighter's name in the grey book is now replaced, not only the names missing from Vell's ledger. "Keth's name went, and the Shield's, and Dessa's, and Ulric's, and the river-academy man's"; the reason given is that "a name in Vell's ledger was the easiest name in the district to find". Each name becomes a mark drawn from a habit only Cael has seen: Keth is *the finger*, the Shield is *the drop*. The key to the marks is kept in his head only.
+
+No fact is destroyed: "some of them belonged as much to the people in them as to him; he had no right to burn a thing Keth might one day want to know about himself." Ch36 follows suit: Keth's page is headed *the finger*, and its quoted entries no longer carry his name.
+
+### Changelist
+
+1. **ch30 opening (stake forward).**
+   - It now opens on Cael's name, asked for three times, and on the discomfort that "A man who asked for you had been watching you."
+   - The schedule shrinks to one sentence. Keth's empty square comes before the economics.
+   - The purse explanation and the district's commerce are folded into one paragraph, and Dace's tick and Vell's queue are compressed.
+   - The chalk-wall image, Dace's line and the pigeons are kept. The Shield scene's duplicate "asked for him by name" is removed.
+2. **ch32**: Brom's room-versus-person line, and the Log rule above.
+3. **ch33**: the dray scene rebuilt as the first test, crossed and named; the consenting volunteers; the *Carrying* line; *with leave*.
+4. **ch34**:
+   - the sweep and the false reading as above;
+   - the watcher's diagnostic wording varied at each sighting: "came off the same, every breath… like a thing being kept"; "the one unchanging weight he had carried home from the back wall"; "never more, never less"; "the thing from the back wall and the paper stall";
+   - the yard sighting cut to recognition at the first breath;
+   - Cael's report to Brom compressed to "the one thing all three had given off";
+   - Brom's "keep it that even".
+5. **ch35, Coss.**
+   - The re-quoted query, the Section Twelve recap and the re-quoted reply are gone. Coss recognizes the designation from the query's third line ("four lines… the fourth asked… where it had come from"). He reaches "it was not the line that frightened him" two paragraphs sooner, and writes "four short sentences, an initial".
+   - The record window goes from the shelved file directly to the line, still named in full (*Suppression-Advisory Watch, Priority Level 4*): no officer, no date, no renewal. Then the index, *systemic protocol, origin: registry sub-layer*, and the earlier date.
+   - Kept: the kitchen-table note, the third log page, the daughter's map, the corridor nod, the month's silence, his own old files.
+6. **ch35, the vigil now costs and changes something.**
+   - The next day the door will not open at all ("it had decided, for one day, not to be leaned on any more").
+   - He paces the distance from the back bench to the west lamp: **fourteen**, against **six** in the first week. He writes both numbers on his wrist, which gives the range progression the benchmark the cold read asked for.
+   - The vigil's wording is varied: "the thing from the back wall"; "kept"; Brom's "Whatever's under it, it isn't giving it to the room. It's like a lid."
+7. **ch36**:
+   - "I had a few years of that. Not many." is now **"I had a year of that. Not even two."** Her ages, the bout and the break are unchanged; four years in the house is still "a few years" of standing overall.
+   - The archive read is closed in the boundary's terms.
+   - Keth's page now carries the mark *the finger*.
+
+### Checks after repair
+
+- `ed.sh overlap book-02-iron-circuit 5`: **0 unprotected, 5 protected**. The protected count fell from 6 because Coss's copy of the reply no longer re-quotes it; ch33 still quotes it exactly.
+- `ed.sh gates`: reader_standard=0, metadata=0 and modern=0 on all seven chapters.
+- `sweep_probe.sh book-02-iron-circuit 5 5`: **0% skeleton, 5% close** for the movement. No chapter is above 1% skeleton or 7% close.
+- **Length:** 36,384 words by wc (36,313 prose by metrics), within 35,000–37,500. By chapter: ch30 4,554 · ch31 5,238 · ch32 4,816 · ch33 5,245 · ch34 5,525 · ch35 4,891 · ch36 6,115.
+- `formula_metrics.py` on ch30–36:
+
+| Measure | Working range | Before r1 | After r1 |
+|---|---|---|---|
+| Words (prose) | 35,000–37,500 (brief) | 36,037 | **36,313** |
+| Sentence mean | 13–15.5 | 14.28 | **14.22** |
+| Median | — | 11 | 10 |
+| ≤5-word share | up to ~34% | 28.4% | 28.6% |
+| ≥40-word share | 2.5–4.5% | 3.6% | **3.7%** |
+| Paragraph median | up to ~30 | 28 | **29** |
+| Words per scene | 850–1,050 | 974.0 | **981.4** |
+| Flesch-Kincaid grade | 3.5–6 | 4.32 | 4.25 |
+| Flesch reading ease | — (72.3) | 89.5 | 89.9 |
+
+All three primary measures, and every secondary working range, are in range. The paragraph median rose by one, because the consent passages added reasoning paragraphs.

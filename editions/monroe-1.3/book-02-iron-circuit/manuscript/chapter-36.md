@@ -92,7 +92,7 @@ He listened.
 
 He said the four rules back to her, in order. She nodded once, and opened the cupboard.
 
-The room was very quiet, the quietest he had been in for weeks, with nobody in it but the two of them and the books, and he felt the thin thing on his skin begin to come open by itself, the way it did now whenever he was still. Vell was a pace from him, and had been Bronze once, and would be a strong clear weight on the front of him if he let it come. He had not asked her. He let it close.
+The room was very quiet, the quietest he had been in for weeks, with nobody in it but the two of them and the books, and he felt the thin thing on his skin begin to come open by itself, the way it did now whenever he was still. Vell was a pace from him, and had been Bronze once, and would be a strong clear weight on the front of him if he let it come, and from there it was a short step to going in. He had not asked her. He let it close.
 
 Before the oldest ones she showed him the others, because she said he would not see what the old ones were without them. It was the closest he had ever come to hearing her give a lesson.
 
@@ -176,7 +176,7 @@ Vell did not answer at once, but sat down on the edge of the table, which he had
 
 "I'd heard."
 
-"Kindled at fourteen, Copper the same day. I climbed on my own for four years, in yards, and at eighteen the guild house up the river took me on and put me on its letters. Iron at nineteen. Bronze at twenty-one. They used to bring the younger ones to watch me practise." She said it without any pride in it at all, as she would have read out a result. "I had a few years of that. Not many. Then I made a thing."
+"Kindled at fourteen, Copper the same day. I climbed on my own for four years, in yards, and at eighteen the guild house up the river took me on and put me on its letters. Iron at nineteen. Bronze at twenty-one. They used to bring the younger ones to watch me practise." She said it without any pride in it at all, as she would have read out a result. "I had a year of that. Not even two. Then I made a thing."
 
 "A technique."
 
@@ -240,9 +240,9 @@ Then he shut the book.
 
 It was a week after that, on a night with no card and the house quiet, that he took Keth's pages out and read them through from the beginning.
 
-He had not meant to; he had sat down at the crate desk to write up a side-floor afternoon and found that he had nothing to say about it; it had been a clean bout and a short one, a Blade from the salt end who had stood too square. So he had turned back through the grey book idly, the way you turn back through a letter you already know, and come to the page with Keth's name at the head and *No reason for this page* underneath, and kept going.
+He had not meant to; he had sat down at the crate desk to write up a side-floor afternoon and found that he had nothing to say about it; it had been a clean bout and a short one, a Blade from the salt end who had stood too square. So he had turned back through the grey book idly, the way you turn back through a letter you already know, and come to the page with *the finger* at its head, where Keth's name had been until the night of Dace's story, and *No reason for this page* underneath, and kept going.
 
-There were a great many pages, more than he had known. There was the first, from the morning Dace had pointed him out, with the little finger off the grip and the cuts that finished long. Then the chosen count, the three cuts and the three counts and *The only one I've seen*. Then dawn after dawn in the newcomers' ring, a line or two each, in pencil, never more, on mornings when he had gone down early for no reason he had ever written down. *Keth shows the parry slow, then fast, then real.* *Keth watching feet again.* *Keth chained three cuts for the tall lad and the third was late.* There were pages from the side floors, from main-floor nights. There was a note from the night of the Brom bout about Keth on the end of the east bench, looking at Brom's chest.
+There were a great many pages, more than he had known. There was the first, from the morning Dace had pointed him out, with the little finger off the grip and the cuts that finished long. Then the chosen count, the three cuts and the three counts and *The only one I've seen*. Then dawn after dawn in the newcomers' ring, a line or two each, in pencil, never more, on mornings when he had gone down early for no reason he had ever written down. *The finger shows the parry slow, then fast, then real.* *Watching feet again.* *Chained three cuts for the tall lad and the third was late.* There were pages from the side floors, from main-floor nights. There was a note from the night of the Brom bout about Keth on the end of the east bench, looking at Brom's chest.
 
 Three months of it. He had never once sat down to watch Keth. He had only, every time Keth was in the room, let his eyes do what they did and let his pencil follow, and then turned the page and forgotten it.
 

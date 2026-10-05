@@ -8,7 +8,7 @@ He took the end of the east bench, put the grey book on his knee, and did not op
 
 It took a long time to come, and when it came, it came all at once.
 
-It was not thirty people. That was what he had hoped for, somewhere under his sense, though he had told himself not to: thirty small warm weights laid out round him on the benches like coins on a table, each in its place. What came instead was one weight, enormous and shapeless, pressing on the whole front of him at once and the sides and the back. It was the warmth of a full room felt with the skin instead of the face, and there was nobody in it. There was only *people*, all together, the way a river is only *water*, and when he tried, very gently, to find one of them in it, the old man with the hat, who was nearest, there was no old man to find. There was only more of the same.
+It was not thirty people. That was what he had hoped for, somewhere under his sense, though he had told himself not to: thirty small warm weights laid out round him on the benches like coins on a table, each in its place. What came instead was one weight, enormous and shapeless, pressing on the whole front of him at once and the sides and the back. It was the warmth of a full room felt with the skin instead of the face, and there was nobody in it. There was only *people*, all together, the way a river is only *water*. The old man with the hat was nearest, and there was no old man in it to be found; nothing in the weight was shaped like him at all. Cael did not go looking for him. There was only more of the same.
 
 He did not know what else to do with it, so he held it, and counted his own breath to know how long. Ten. Fifteen. The weight did not change and did not tell him anything. Twenty.
 
@@ -172,7 +172,9 @@ He went off down the wall, rubbing chalk off his fingers. Cael stood where he wa
 
 He had thought of the book, for a year, as the most private thing he owned, after the Log, and he had never once thought of it as dangerous. He thought now of the Shield's page, and the river-academy man's, and Keth's, with all its small notes about a finger off a grip. He thought of the two entries, dated, that had just ended a man's complaint in front of forty people. The same two lines in the wrong hands would tell a stranger exactly how to beat a Shield from Orvet's gym, and exactly when Cael had learned it, and from where. A record did not care whose hands it was in; it said the same thing to everybody.
 
-That evening he went through the grey book from the front, and wherever he had written a full name beside a fighter who was not in Vell's ledger, he turned it into a mark of his own. He did not cross out a single fact; he only made it so that the book would make sense to one reader in the world, and to nobody who picked it up off a table.
+That evening he went through the grey book from the front, and wherever he had written a fighter's name, he took it out. He did not stop at the strangers. Keth's name went, and the Shield's, and Dessa's, and Ulric's, and the river-academy man's; a name in Vell's ledger was the easiest name in the district to find, and a page beside it on how to beat him was the very thing Dace had described. In its place he gave each of them a mark drawn from something only he had seen. Keth became *the finger*. The Shield became *the drop*. The key to the marks went nowhere but into his own head.
+
+He did not cross out a single fact. The facts were true, and some of them belonged as much to the people in them as to him; he had no right to burn a thing Keth might one day want to know about himself. He only made it so that the book would make sense to one reader in the world, and to nobody who picked it up off a table.
 
 ---
 

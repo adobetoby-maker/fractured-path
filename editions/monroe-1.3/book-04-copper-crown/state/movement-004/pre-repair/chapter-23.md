@@ -1,0 +1,205 @@
+# Chapter 23 — Hats
+
+"You'll remember what I said in the whitewashed room," said Karis. "On the last day, after the line. That if an honest way to find the missing condition ever turned up, a way nobody would have to arrange in secret, I wanted it to be me. Because I'd know what I was standing in front of. Because I'd have written everything down first."
+
+"I remember," said Cael.
+
+"It was me. That's all consent turned out to be, when it came to it." She turned one of the pencils a quarter turn, square to the ledger, and then back again. "Quenna's office, an assessor's sheet, my name at the bottom in ink. The yard and the hour were mine to pick. Afterward I had a fortnight of feeling strange in my own hands, and every morning of it I came and told him how strange. If it had taken something I didn't want to give, he'd have heard about it before breakfast. That was the bargain. That's what made it clean."
+
+She looked down at the grey notebook.
+
+"Seln can't make that bargain. He can't even be offered it. Tell a covered officer what his subject can do and you've handed him two roads with nothing between them. He sends it up, and the enrollment ends. Or he sits on it, and one day somebody above him learns he sat on it, and he ends. The people who sent him would never let a third road be built. That's what a covered post is."
+
+"So he can't know," said Lira from the rug.
+
+"Careful." Karis lifted a finger, the same finger she had lifted at Greyvane whenever a witness said something nearly right. "There's no version in which he knows *and survives knowing*. That's not your sentence. It's longer, and the extra words carry the weight. I want them kept." She looked from Lira to Cael. "I've read a great many letters by clerks who began by writing *he can't be told*, and by the fourth letter meant *we've agreed not to tell him*, and never noticed the week it changed. It's like keeping two sets of books. Nobody opens the second ledger on purpose. One day you simply find you've been writing in it for a month."
+
+She sat back.
+
+"So that's mine. Whether not being able to ask him makes this worse, or makes the asking not matter. Six days, and I can't tell. I can usually tell anything in six days."
+
+Lira got up off the rug. It took her longer than it would have a week ago; she put the right side under her first and let the left follow, and Cael felt a faint answering line in his own leading hip, crest to knee, like a word overheard through a wall. Then she was standing with the fire behind her, so its light ran round her edges and left her face in shadow, and she said it the way she fought, straight down the middle with nothing held back for later.
+
+"He isn't a friend," she said. "He isn't even a stranger. He's a man who was offered a job, and the job is Cael, and he said yes. Nobody carried him up the bluff road in a sack. Any morning he likes, he could walk down to the ferry and go home, and every morning he gets up instead and goes to stand wherever he can do the most damage. On the circuit at Fenmark, if a man came at you with a thing, you didn't owe it him back. You took it off him if you could. Nobody there would have called that stealing. They'd have called it learning to stay alive."
+
+The fire shifted behind her.
+
+"I hate how good that felt, saying it," said Lira.
+
+Cael waited; he had known her three years, and she had the look of somebody stopped halfway down a dark stair.
+
+"It's too tidy." She was frowning at the table's edge. "Since Seventh-day I've had it going round in my head, round and round, and it shrinks a little on every lap. When I'm right about a fighter the page gets longer every time I look at it; I keep finding more. This keeps shrinking. Something drops out of it every time, and I can't see what." She rolled one shoulder against the warmth. "Write that down. Not the Fenmark part. The shrinking part."
+
+Karis read it back when she had it, in the dry voice she kept for minutes. "*L. states the enemy position. L. reports it has grown simpler over five days of private repetition, and flags it herself as suspect on that ground.*"
+
+"That's it."
+
+"It's a better flag than anything I've raised all week." Karis looked at the line, and there was something nearly wistful in her face. "I've never once caught myself in the act like that. By the time I notice a thing's gone smooth I've usually built a house on it and moved in."
+
+"You caught yourself," said Lira. "Six days. You told us at the start."
+
+Karis opened her mouth and shut it again, and looked down at her own name on the first page, with the line under it.
+
+"So I did," she said.
+
+---
+
+Brom had kept quiet for most of an hour, and it had not been the quiet of a man with nothing to say.
+
+He sat with his stocking feet on the hearthstone and his forearms on his knees, and somewhere during Lira he had begun to turn the strap of his left wrap round and round two fingers without unwinding it, which was a thing he did on the bench before a bout he expected to lose. Everybody in the room knew the habit. Everybody who spent a winter with Brom learned that he set a thing down only when he had finished carrying it, and that what he set down tended to stay put.
+
+"Tonight in the taking-apart," he said, "Merrick found my seam twice before Rooke stopped him. He found it with a cheap feed, short, nothing behind it. The kind I turn on because my body's been turning on them since I was twelve. And he knew to do it because he's watched me get found for six weeks. He's got a whole page on me. I've seen it."
+
+"Has he," said Karis.
+
+"He showed me. He's proud of it." Brom let the strap fall still. "And the second time, I didn't turn. I held. And I learned what his feed feels like in the instant before it isn't one, which I didn't know at supper. So I took something off him while he was taking something off me. Nobody asked anybody. That's a floor. You stand on it to have things taken."
+
+He looked at Karis, then at Lira, and then at the fire.
+
+"You've been talking all night about Karis's yard. That was a gift. She put her Path out on the chalk where he could reach it, and meant him to. So every question tonight has been the kind you ask about a present, whether the giver understood, whether it can be returned." He shook his head slowly. "Nobody's giving Cael anything here. That man is spending his Path declaration on Cael every hour of every day, a little at a time. The toll on the eyes. The posts. The walking past the empty hall without looking down. He's spent it on Cael more times than any of us could count, and he spent it to fill a file."
+
+He shrugged, and the shrug said more than most people's paragraphs.
+
+"That's not a demonstration you're stealing. That's a weapon you're learning."
+
+On the sill the drip fell, and after a while fell again. Nobody said anything for long enough that Cael heard Lira breathe out.
+
+"He knows what he's doing," said Brom, more quietly. "That's the part I keep coming back to. He chose to stand two paces off a boy who learns people for a living. Nobody on this hill knows better what being near does to a watcher. If being learned frightened him, he picked a very strange place to stand."
+
+Karis was writing fast. "In his words. Exactly his, not tidied. Say the weapon again."
+
+Karis's pencil hovered. "One thing, and then I'll write it. He didn't choose to be learned. He chose to learn Cael. Those aren't the same choice, and you know it, because you're the one who taught me the difference between a man who steps onto a floor and a man who's pushed."
+
+Brom considered that with every appearance of enjoying it.
+
+"No," he said at last. "They're not the same. But he knows they come together. Nobody stands close to a fighter for nine weeks and learns him without the fighter learning him back. Every Path on this hill knows that. Rooke says it to the cohort about once a week. *You can't watch a man without showing him where you're standing.*" He nodded at the window, at the dark, at the wing somewhere beyond it. "That man has known it longer than any of us. He came anyway. I'm not saying that makes it right. I'm saying it's the floor he chose."
+
+Lira let out a short breath through her nose, which from her was very nearly agreement, and said nothing.
+
+"Now say the weapon again," said Karis. "Exactly. I want to be sure of the order."
+
+"You heard it."
+
+"I heard it."
+
+"It isn't an argument, Karis. It's just what's going on." But he said it again, slow and level, as he would have said a drill twice for a first-year, and she checked her line against him word by word and nodded once.
+
+---
+
+The last of the two hours was Cael's, and he found he hardly needed it.
+
+Somewhere around Brom's floor the thing he meant to say had come clear all at once, as the read comes clear at a pace and a half, and after that it was only a matter of laying it down in order. He found the order by starting with what he would not do. That was the oldest habit he had. Before any bout, he wrote down the three things he would not let himself try, so that the bout could not talk him into them.
+
+"Fence first," he said. "Then what's inside it."
+
+He opened the Log at a page near the back. He had been writing on it for a week without letting himself name what the page was for.
+
+"I won't make the conditions. I won't set anything up to bring him close, in earnest, so that I can reach. That's the rule. But I've had ideas, and I'd be lying if I pretended I hadn't, so I want them said aloud in this room where you can all hear them. Then they can't come back later wearing hats." He read them off in an even voice, a clerk reading charges. "One. Walk up to the wing counter and say his Path and tier aloud in front of the desk clerk, and watch the next minute. Two. Let some new thing I can supposedly do reach the wing, so his people press him to get closer. Three. Keep up the paper game and sharpen it: one wrong sheet after another, each a little worse, until the only answer left is to come down off his gallery and stand beside me. Four. Walk the north side at night, past the coal yard, on a route he could only follow by using the moving half. Five. Ask Gault for work copying in the wing, and sit at his table eight hours a day. Six. Give Withrow half of what we know, so she puts a question to the Compact, so the Compact puts the question to him."
+
+He shut the Log on his finger.
+
+"Most of those would work. Every one of them turns a man into an apparatus for my convenience. Panels have done that to me since I was fourteen. Assessors. A warden. Whatever happens on this hill, it isn't going to start with me doing it to somebody else."
+
+Lira was back on the rug, chin on her knees, watching him. He had seen her give that look across a floor to a fighter who had just refused a cheap touch.
+
+"Then the other side of the fence," said Cael. "If he brings it to me himself, for his own reasons, doing the work he was sent to do, close, and meaning it against me, then I won't step back from what's offered. I'll reach. Directed, the way the notice put it at Greyvane. On purpose. Awake. Not caught by surprise, and not telling myself afterward that it simply happened to me."
+
+Karis's pencil had stopped. "There's a third," she said. "It's in your face."
+
+"The third is the one I like least. None of this is clean, and I'm not allowed to talk as if it were." He turned in his chair to face her. "He can't agree. He'll never know. I can't ask, and there's nothing I could ever hand him for it that he could take without it ending him. So there's a bill. Most of it is his, and I'll never see it, which means I have to write it out for him. Some of it is mine, and that part I can at least read. I'll write all of it in the Log beforehand. Not afterward. With the wanting in it."
+
+He slid the Log across the table, open at an older page.
+
+"Read me the first line."
+
+He had written it at Greyvane, at dawn, the day after the yard. *The fragment completed under conditions I had not been able to reproduce,* Karis read aloud, *in a moment of genuine engagement, without warning.* She stopped, and read it again to herself, and he watched her hear it.
+
+"I checked every word of that when I wrote it," said Cael. "Every word's true. Now listen to who does anything in it. The fragment completes. The conditions occur. The moment arrives. I'm not in it, except as the place where it all happened." He took the Log back. "I didn't hear it till three nights ago. So this time the bill goes in first, in my hand, with me in the sentences."
+
+Karis wrote for a long time, and when she was done the minute voice came back.
+
+"*Minuted. One: conditions not to be manufactured; six methods named by C. and refused; list attached in his hand. Two: a directed acquisition permitted only within earnest engagement the subject begins himself, close, in the ordinary course of his assignment; any reach to be awake and directed. Three: the full cost to be written beforehand, including C.'s stated wish for the fragment.*" She looked up. "And one line of my own. I can't promise you the acquisition would complete. The model predicts; it doesn't swear. You could stand in every condition I know of and still get nothing, and if you did, I'd have no way to find out why. There's no second Seln to test the first one against." She wrote it as she spoke. "*Researcher notes: prediction untested at one instance.*"
+
+"Put mine down," said Brom.
+
+"You didn't state a position."
+
+"I did. The one about the weapon." He stretched until his back made a noise like a chair pushed under a table. "And put that I'd have done it the first week and slept like a stone. And that Cael won't, and won't sleep. Somebody ought to have it written down before it happens, so nobody can say afterward we didn't know which of us was which."
+
+Karis wrote that too. Then she turned the minute round on the table and laid a pencil across it, and one at a time they signed: Karis small and upright; Lira in three hard strokes; Brom slowly, with the tip of his tongue at the corner of his mouth; and Cael last, below the rest, where the bill would begin.
+
+---
+
+Sleep did not come, and by the third bell of the night he had stopped waiting for it.
+
+He lit the lamp, turned it down until it was hardly more than a bead, and sat up against the cold wall with the blanket round his shoulders. Then, because it was what he did with every hard thing, he tried to fight it.
+
+It was a habit from the Ironyard. The night before a bout he would sit with his eyes shut and run it: the other fighter coming off the chalk, the first feed, the second, the place where the man's off hand always drifted, and his own answer to each. He had won a great many bouts in that cold dark before he ever reached the floor. So he shut his eyes now and put Seln across the chalk from him, and himself on the near side, and let the question come at him as if it were a fighter.
+
+*He can't consent,* said the fighter, and came in low.
+
+*He chose the work,* Cael answered, and stepped off the line. *He came close of his own accord.*
+
+*He'll never know he paid.*
+
+*Then it costs him nothing he can feel.* A slip, a turn. *And I'll keep the account he can't.*
+
+*You want it.*
+
+*I said so. In the minute. Under my name.*
+
+On it went, exchange after exchange, for most of an hour, and every exchange went his way. The fighter across the chalk fed honestly and hard, and Cael read every feed and answered every one cleanly, and somewhere in the fourth hour of the night, with the lamp hissing and the river loud below the window, he noticed it.
+
+He had never lost a single exchange.
+
+Not one. Not a touch. Not even a stumble. He had fought a hundred and forty opponents across three years and lost to a great many of them, on floors and in yards and in his own head the night before, because the ones in his head had always been built from his pages, and his pages were honest about what the other fighter could do. This one had no page, and nothing in it he had not put there a minute before, to be answered. It fed exactly as hard as he could stand and no harder. It came in where he was already waiting. He was playing both sides, and one side was always going to win.
+
+So he tried it the other way about. He shut his eyes again and put himself across the chalk as the question, and set Seln's side to defend: *he chose the work*, *he came close*, *I'll keep his account*. He came in hard, as hard as he knew how, and took every exchange. The fighter defending had no more chance than the fighter attacking had had an hour earlier, because the fighter defending was also him, and he had built it a little slower than himself without ever meaning to.
+
+He opened his eyes on the bead of lamp-flame.
+
+Nobody stood across the chalk from him. That was all it came to. Every reading he had ever trusted had come from somebody else's body, from a breath that caught or a hip that went before the shoulder, things he had not made and could not have made. The method had never been clever, only careful, and careful worked because the other person pushed back with something real. But a debt cannot feint. It could only stand across a chalk line he had drawn himself and lose to him politely, all night, for as long as he liked.
+
+He reached for the binder, and the page he wrote next had nothing to do with Seln, and it was perhaps the most useful page in the book.
+
+*Tried to fight the question tonight, the way I fight a bout the night before. Won every exchange. That's the finding. I've never won every exchange against anything real.*
+
+*The method needs somebody on the other side who isn't me. Here there's nobody. I build the opponent, so the opponent loses. I'd have won whichever side I'd been arguing.*
+
+*So no sum settles this. What's left is a procedure. Say it before, out loud, in front of Lira and Brom and Karis, and let them be the other side of the chalk. They're the only part of this I didn't build.*
+
+He read it over, and under it, smaller, went a line he would have preferred to leave off. Leaving it off would have been the binder's first lie.
+
+*Two hours, three people, and at the end every one of them stood where I stood. Either they're right, or I've got very good at building rooms.*
+
+---
+
+The wash-house behind the second quadrangle had a stone floor that sloped to a gutter by the door, a copper in the corner, a long trough under the window, and a drying rack slung from the beams on two ropes and a pulley. Nobody came into it before the fourth bell, when the laundry woman arrived to light the copper. Cael had known that since his third week on the bluff, because in his third week on the bluff he had needed somewhere to drill a thing nobody had ever seen.
+
+He went down at first grey light with his coat over his shirt and the lamp unlit, because the high window was enough.
+
+The rig was where he kept it, rolled in a meal sack behind the copper. Three canvas bags of sand, stitched along every seam with the waxed thread Brom used on his boots, each with a loop of rope at the neck, marked in charcoal *light*, *middle*, *heavy*. A length of cord knotted at measured lengths. A wooden peg he could wedge into the crack between two flags to mark exactly where his heels belonged. Brom had sewn the bags in an evening without asking what they were for, and had asked only, when he handed them over, whether Cael wanted a fourth for luck.
+
+He hung the middle bag from the rack's crossbeam, ran the cord out to its third knot, and drew the bag back until the knot touched the chalk tick on the far wall. Then he went to the peg and set his feet.
+
+Of everything he carried, Reydan's fragment, the Compression-adjacent, was the one he understood least and used most. The others announced themselves. Feryn's took most of a breath to come, and sank him, and widened his stance, so that anybody watching knew something was being built. Lira's folded him at the hips. Even the read had a feel to it, a pressure on the skin a pace and a half before a blow. This one had nothing at all until the moment of impact. Then the blow went into him like a hammer into a bell, and instead of ringing he hummed, and the hum ran down through him into the stone and was gone. He had never found a better way to say it. A body watching him would have seen a boy struck hard on the arm who did not rock.
+
+He let the bag go.
+
+It came across the room on its arc, heavy and silent, and met his left forearm, and the forearm took it and the hum went down into the flags, and the bag swung back. He counted four breaths and let it go again.
+
+Eleven, four breaths apart. In his third week on the bluff, rested, he had taken all eleven clean.
+
+The first seven were nothing. On the eighth he felt the hum start a hair late, and on the ninth later still, like a second bell rung a fraction after the first, but both held. On the tenth the hum did not cover all of it. Most of the blow went down into the stone as it should, and a narrow strip of it stayed behind along the outer edge of the forearm and set there, flat and hard, a bar of impact lying on the bone; he knew before the bag had swung away from him that he would see it purple by noon. The eleventh was worse. He stepped off the peg afterward with his left hand hanging and his breath short, and sat down on the cold rim of the trough.
+
+He wrote on his knee, with a pencil that would not keep still in his fingers, and let it wander.
+
+*Middle bag, eleven swings: nine clean. The ceiling at that weight was eleven in the third week, rested. The fragment hasn't changed. The boy using it hasn't closed his eyes since the night before last, all on account of a grey notebook with one paragraph in it.*
+
+*What each deployment costs: half a breath at the moment the bag lands, and nothing anybody could see. The ache comes up a minute later and stays two hours; the hand won't write properly for about as long. What it buys: the bag should have turned me half round. I didn't move.*
+
+*Worth: all of it. Cheap and quiet and all of it, which is why my body picks it up before I've decided anything. Watch that. The tool I pick up without choosing is the one I'll pick up one day in the one room where picking it up is wrong.*
+
+He untied the bag and rolled the rig back into its sack, and swept the sand that had sifted from the middle bag's tired seam into the gutter by the door, so that the laundry woman would find nothing but a wet floor. The ache came up through the forearm while he worked, a minute behind as it always came, deep and faintly sickening, like a tooth gone bad.
+
+At breakfast the spoon rattled against the bowl and Brom looked at his hand and then, very carefully, at nothing. Cael ate his porridge with the arm throbbing in the bone and found the whole thing oddly steadying. Some bills, at least, still came by lunchtime, in a sum he could read, in a hand that was not his own.

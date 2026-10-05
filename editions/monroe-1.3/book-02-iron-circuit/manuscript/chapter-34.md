@@ -94,27 +94,27 @@ Cael found that he had not written down a single thing all evening, and found, t
 
 The first time the new sense lied to him, it was on an ordinary night, and the lie was nobody's fault but his.
 
-He had begun to do a thing at the end of every evening card, in the quiet after the last bout, while the benches emptied and Dace wiped his wall. He would sit on the end of the east bench, very still, with his hands on his knees, and let the door come open on its own, and see what was in the room. He called it the sweep, privately, after the officers' sweeps, and was aware of the joke. Mostly there was nothing in the room but the sweepers and Vell. Sometimes there were a few late fighters at the water barrel, small *yes*es at the edge of his range, kindled or not. It cost him a little each night, a short band and a quarter-hour of aching eyes, and he paid it because the only way to learn the thing was to use it when there was nothing riding on it, and the end of a card was the only time he could find.
+He had begun to do a thing at the end of every evening card, in the quiet after the last bout, while the benches emptied and Dace wiped his wall. He would sit on the end of the east bench, very still, with his hands on his knees, and let the door come open on its own, and take what the room gave him: who was there, where, and whether they moved. He did not go into anybody. That was the rule he had written, and the sweep kept to the room's side of it. He called it the sweep, privately, after the officers' sweeps, and was aware of the joke. Mostly there was nothing in the room but the sweepers and Vell. Sometimes there were a few late fighters at the water barrel, small weights at the edge of his range, going about their business. It cost him a little each night, a short band and a quarter-hour of aching eyes, and he paid it because the only way to learn the thing was to use it when there was nothing riding on it, and the end of a card was the only time he could find.
 
 On the fourth night of the sweep, at the very edge of his range, along the west wall where the lamps had already been put out, there was somebody.
 
-He felt it come in and his whole body went still in a different way. It was a kindled weight, a long way off, at the limit of what he could reach sitting; and it was not resting, and it was not working. It was held low, so low and so steady that it was almost nothing, a thin even pressure lying against the west wall in the dark, not moving, not changing. It was exactly the way, he thought, with his heart beginning to go, a person would hold himself who did not want to be found.
+He felt it come in and his whole body went still in a different way. It was a weight, a long way off, at the limit of what he could reach sitting, and it did not move. It lay low, so low and so steady that it was almost nothing, a thin even pressure lying against the west wall in the dark, not moving, not changing. It was exactly the way, he thought, with his heart beginning to go, a person would hold himself who did not want to be found.
 
-He held it, and did not dare look. Ten breaths, fifteen, and it did not change by a hair.
+He kept still, and did not go into it, and did not dare look. Ten breaths, fifteen, and it did not change by a hair.
 
-Then he stopped and thought, very deliberately, about what he actually had. He had *kindled*. He had *at the west wall, low*. He had *not moving*. That was the whole of it. Everything else, the not wanting to be found, the hiding, the dark, he had put there himself, between one breath and the next, because he had been afraid of exactly that for a year and his fear had been waiting at the door with its coat on.
+Then he stopped and thought, very deliberately, about what he actually had. He had *somebody*. He had *at the west wall, low*. He had *not moving*. That was the whole of it. Everything else, the not wanting to be found, the hiding, the dark, he had put there himself, between one breath and the next, because he had been afraid of exactly that for a year and his fear had been waiting at the door with its coat on.
 
 He let the door shut, and stood up, with the band coming, and walked down the room along the west wall, not quickly, to see.
 
 It was a man asleep.
 
-He was a fighter, a big Force from the salt end whom Cael knew by sight. He had fought on the second card and lost, and had sat down on the end of the west bench in the dark to wait for a friend, and had gone to sleep there sitting up with his chin on his chest and his arms folded and his mouth a little open. He was snoring, very faintly. His Path was ticking over in him the way a mill-wheel ticks over at night on the last of the race, not working, not stopped. Brom's had been like that at supper, only lower and older, the fire banked. This was not banked; it was only asleep.
+He was a fighter, a big Force from the salt end whom Cael knew by sight. He had fought on the second card and lost, and had sat down on the end of the west bench in the dark to wait for a friend, and had gone to sleep there sitting up with his chin on his chest and his arms folded and his mouth a little open. He was snoring, very faintly. What came off him, this close, without Cael asking it anything, was only a man asleep: slow, low, going nowhere, the way a mill-wheel ticks over at night on the last of the race. Brom at supper had given off something like it, only older and banked. This was not banked; it was only sleep.
 
 Cael stood and looked at him for some time, a man asleep on a bench, and felt the band settle in behind his eyes, and was ashamed in a small sharp way that he would remember.
 
 He wrote it in the Log that night, under the Iron-adjacent entry, and wrote all of it, because the mistake was the thing worth keeping.
 
-*False reading. West wall, end of the card, a kindled weight held low and still. I read it as somebody hiding. It was a man asleep, his Path idling. The read gave me* kindled, low, still. *I gave it* hiding. *That part was mine.*
+*False reading. West wall, end of the card, a weight lying low and still. I read it as somebody hiding. It was a man asleep. The read gave me* somebody, low, still. *I gave it* hiding. *That part was mine.*
 
 He looked at it, and then wrote under it the thing he would need to remember the next time his heart went.
 
@@ -128,13 +128,13 @@ It was a main-floor night, a big one, two rated names under all twenty-six lamps
 
 It thinned, the benches emptying from the front and the betting man paying out at his crate. And when perhaps forty people were left, scattered, talking in knots, putting on coats, Cael went still and let the door come open.
 
-There was the usual: a scatter of small weights, kindled and not, moving, going. He had learned to let those go past him like people passing a window. And then, at the back wall, eight or nine paces behind him and to his right, almost at the limit of his range, there was one that was not going anywhere.
+There was the usual: a scatter of small weights, moving, going. He had learned to let those go past him like people passing a window. And then, at the back wall, eight or nine paces behind him and to his right, almost at the limit of his range, there was one that was not going anywhere.
 
-It was kindled, and it was low, and it was still. His heart went, and he remembered the man asleep on the west bench and made it stop.
+It was low, and it was still. His heart went, and he remembered the man asleep on the west bench and made it stop.
 
-He did not believe it; he held it, very carefully, and asked it nothing but what it was.
+He did not believe it, and he did not go into it. He only sat with it as the room gave it to him, the way you sit with a sound in the next room and let it tell you what it is.
 
-It was not asleep: he knew the sleeping man's idle now, the mill-wheel on the last of the race, and this was not that. It was not Brom's banked fire either, low and steady and never thought about, the read that runs because it cannot stop. This was held, held level, on purpose, by somebody attending to the holding, at exactly the same pressure, breath after breath, not a hair up, not a hair down. It was the way a fighter stands primed and does not build, for a whole count of ten, because he has decided to. And under the level, faint, there was a hardness, a weight kept in reserve, that felt to his skin a little like the hardness he had put his knuckles into on the alcove crosses for three mornings. It was not the same, but it was a cousin to it.
+It was not sleep: he knew the sleeping man's slow rise and fall now, and this had none. It was not Brom's banked fire either, low and steady and never thought about. This was kept. Whatever reached him from the back wall reached him at exactly the same weight, breath after breath, not a hair more, not a hair less, as if somebody were minding it. It was the way a fighter stands primed and does not build, for a whole count of ten, because he has decided to. And there was something in it, faint, that he could feel without going looking, the way you can feel a stone under a blanket without lifting the blanket: a hardness kept back. It felt to his skin a little like what he had put his knuckles into on the alcove crosses for three mornings. It was not the same, but it was a cousin to it.
 
 It was like a fire somebody had banked for the night and then sat up beside, awake, with their eyes on the coals.
 
@@ -144,21 +144,21 @@ There was somebody at the back wall, standing against the stone in the half-dark
 
 Then the door shut, because he had looked, and the band came round his head, and when he could see properly again the place at the back wall was empty.
 
-He did not get up and go after them. He thought about it, with his heart going, and decided not to, and found when he examined the decision that it was not fear that had made it. A person who had stood at the back wall for a whole card holding their read level on purpose was a person who would be very good at not being followed. And he had nothing he could say to them, because he did not know what they were for.
+He did not get up and go after them. He thought about it, with his heart going, and decided not to, and found when he examined the decision that it was not fear that had made it. A person who could stand at the back wall for a whole card and give off the same thing at every breath was a person who would be very good at not being followed. And he had nothing he could say to them, because he did not know what they were for.
 
-He sat on the bench until the sweepers came, with the band round his head, going through it as he would have gone through a bout. Kindled. Still. Held level, on purpose, for as long as he had held it. A hardness in reserve, a cousin to Brom's. At the back wall for the length of a card, and gone the moment he looked.
+He sat on the bench until the sweepers came, with the band round his head, going through it as he would have gone through a bout. Somebody, still, at the back wall for the length of a card. The same weight every breath, as if it were being kept so. Something hard underneath, a cousin to Brom's. Gone the moment he looked.
 
 It was not the Compact; he was nearly sure of that. The one Compact man who had come for him had come to the front door with a lodgers' book in his hand and asked for him by name, and stood in the market square with a pencil and a pear. Officers came to doors. This one had come nowhere near him at all.
 
 He told Lira that night, at the kitchen table, before he told the book. He had not promised her this, but he thought, sitting across from her with the lamp between them, that it was the same promise, and that she would think so too.
 
-"Somebody's watching me," he said. "Not the Compact. A practitioner. At the back wall tonight, the whole card. They never came near."
+"Somebody's watching me," he said. "Not the Compact. A practitioner, I think; what came off them had a hardness in it like Brom's. At the back wall tonight, the whole card. They never came near."
 
 Lira put down her cup.
 
 "You're sure."
 
-"I'm sure there was somebody. The read says they were holding themselves level, on purpose, the whole time. My eyes say there was a person in a dull coat at the back wall who wasn't watching the bouts." He made himself say the rest. "Last week I was sure about a man who turned out to be asleep. So I'm telling you what I've got, and not what I think it means."
+"I'm sure there was somebody. The read says what came off them came off the same, every breath, the whole time, like a thing being kept. My eyes say there was a person in a dull coat at the back wall who wasn't watching the bouts." He made himself say the rest. "Last week I was sure about a man who turned out to be asleep. So I'm telling you what I've got, and not what I think it means."
 
 Lira looked at him a long while.
 
@@ -176,11 +176,11 @@ He saw them again ten days later, in the market, with Lira beside him and a loaf
 
 It was the middle of the morning, and the row was full. They had come up from the baker's to the pie stall at the top, because Lira wanted a pie and said she had earned one. Cael was walking with the thin thing open on his skin, asking it only the one small question, *is there anybody*, and it was saying *yes* and *yes* and *yes* in the way it did in a crowd, so often that it was nearly no use at all. He had only kept it open to practise.
 
-At the pie stall he stopped, to pay, and when he stopped, the door opened wider on its own, the way it did now when he stood still. And among all the *yes*es, close, four or five paces off across the stall row, there was one that was not a *yes* at all. It was the even pressure, held level, on purpose, exactly as it had been at the back wall.
+At the pie stall he stopped, to pay, and when he stopped, the door opened wider on its own, the way it did now when he stood still. And among all the *yes*es, close, four or five paces off across the stall row, there was one that did not come and go like the others. It sat, four or five paces off, and pressed on him at the one unchanging weight he had carried home from the back wall.
 
-He did not turn his head; he had learned that much. He stood at the pie stall with his coin out and looked at the pies, and held the door open, and asked it, very carefully, to be sure.
+He did not turn his head; he had learned that much. He did not go into it, either, though he wanted to more than he had wanted anything for weeks. He stood at the pie stall with his coin out and looked at the pies, and held the door open, and let it give him what it gave the street, until he was sure.
 
-It was hard, because he was standing, not sitting. The row was full of people going past between him and the thing, each one a *yes* that went across it like a hand passing in front of a lamp. He had to hold it through all of them, and every one cost him. He held it for the time it took the pie woman to find change for a mark, and wrap the pie, and drop the change, and pick it up, and he did not let go. It was the longest he had ever held anything on his feet, a minute, perhaps, a little more, and at the end of it he was sure. Kindled; level; held; the cousin of Brom's hardness kept back underneath. The same.
+It was hard, because he was standing, not sitting. The row was full of people going past between him and the thing, each one a *yes* that went across it like a hand passing in front of a lamp. He had to hold it through all of them, and every one cost him. He held it for the time it took the pie woman to find change for a mark, and wrap the pie, and drop the change, and pick it up, and he did not let go. It was the longest he had ever held anything on his feet, a minute, perhaps, a little more, and at the end of it he was sure. Nothing in it had risen or fallen, and the hard thing was still there under the blanket. The same.
 
 He let it shut, and the band came round his head so hard that he put his hand out to the edge of the stall.
 
@@ -194,11 +194,11 @@ She did not look at the side lane. She took the pie from the woman, and paid for
 
 The band lasted the rest of the morning and took his afternoon in the alcove with it. That night he put the price in the Log beside what it had bought, as he did with everything.
 
-*The market. Same one. Four or five paces, across the stalls, me standing, the row full. Held it about a minute to be sure: same level, same hardness under. Cost: the morning and the afternoon. They walked off as I looked, and didn't look back.*
+*The market. Same one. Four or five paces, across the stalls, me standing, the row full. Held it about a minute to be sure, from outside: never more, never less, the hard thing under. Cost: the morning and the afternoon. They walked off as I looked, and didn't look back.*
 
 And under it, after a long time looking at the page:
 
-*They can hold that level for a whole card. A minute of them, on my feet, took my whole day. Right now they can wait much longer than I can listen. Watch whether that gets better or worse.*
+*They can keep that up for a whole card. A minute of them, on my feet, took my whole day. Right now they can wait much longer than I can listen. Watch whether that gets better or worse.*
 
 ---
 
@@ -208,9 +208,9 @@ Lira had hired a yard for the afternoon, as she did twice a month in the season 
 
 He did that for an hour. Then, when she sent the dock partner to the pump for the bucket, and stood in the middle of the yard with her staff across her shoulders getting her breath, Cael let himself go still on the crate and opened the door, because it was a quiet yard and he wanted the practice.
 
-Lira was there, a pace and a half off: the bird on the sill, quick even when she stood still, working. The dock partner was there by the pump, kindled, resting, big. And beyond the fence, across the lane, at the very edge of what he could reach sitting, there was the even pressure.
+Lira was there, a pace and a half off, quick even when she stood still. The dock partner was there by the pump, big and slow. And beyond the fence, across the lane, at the very edge of what he could reach sitting, there was the thing from the back wall and the paper stall.
 
-It was eight paces off, perhaps less, held level, on purpose, with the hardness kept back under it, exactly as it had been at the back wall and the paper stall. He did not need a minute this time; he knew it as you know a voice in the next room that you have heard twice before.
+It was eight paces off, perhaps less. He did not need a minute this time, or anything but the first breath of it; he knew it as you know a voice in the next room that you have heard twice before.
 
 He did not stand, or look at the fence. He held the door open for one breath more to be sure of the place, across the lane and a little up it, where there was a doorway with a step. Then he let it shut, and sat with the band arriving, and said, in an ordinary voice, "Lira."
 
@@ -246,7 +246,7 @@ Lira walked a while.
 
 "Good," said Lira, and he heard in it that she had been about to tell Brom herself, if he did not.
 
-He told Brom between crosses the next morning, in the alcove, with his hands still stinging. He told it all, in order, as he would have told the book: the back wall, the market, the doorway on the step; kindled, level, held on purpose, a hardness kept back under it like a cousin of Brom's own. And Brom, who had been setting his feet for the next one, stopped setting them, and stood still on his cross in a way Cael had learned meant he was thinking with the whole of himself.
+He told Brom between crosses the next morning, in the alcove, with his hands still stinging. He told it all, in order, as he would have told the book: the back wall, the market, the doorway on the step, and the one thing all three had given off. And Brom, who had been setting his feet for the next one, stopped setting them, and stood still on his cross in a way Cael had learned meant he was thinking with the whole of himself.
 
 "Say the hardness again," he said.
 
@@ -254,7 +254,7 @@ Cael said it again, as well as he could. A weight in reserve, under the level. L
 
 Brom was quiet a long time.
 
-"That's nothing I know," he said at last. "Not from home. Not from the river city, and I had my read on every kind of Path that city had in it." He frowned at the wall. "Nobody I ever met could hold it level like that, on purpose, for a whole card. You don't hold it. You use it or you don't. Either that's a way of doing it I've never come across, or whoever's doing it learned somewhere a long way from anywhere I've been." He looked at Cael. "I don't like either."
+"That's nothing I know," he said at last. "Not from home. Not from the river city, and I had my read on every kind of Path that city had in it." He frowned at the wall. "Nobody I ever met could keep it that even, on purpose, for a whole card. You don't hold it. You use it or you don't. Either that's a way of doing it I've never come across, or whoever's doing it learned somewhere a long way from anywhere I've been." He looked at Cael. "I don't like either."
 
 "Neither do I."
 
@@ -264,6 +264,6 @@ Brom was quiet a long time.
 
 Brom set his feet on his cross again, slowly.
 
-"Then that's what we do," he said. "Not walk up to them. Not that. Sit still where they'll come, and see who gets tired first." He held up his forearm for the next blow. "You're the most patient man I've ever stood across from, and I've stood across from a boat shed full of them. Let's see what that's worth against somebody who's patient on purpose."
+"Then that's what we do," he said. "Not walk up to them. Not that. And not go into them, either; same rule as anybody. Sit still where they'll come, take what they give the room, and see who gets tired first." He held up his forearm for the next blow. "You're the most patient man I've ever stood across from, and I've stood across from a boat shed full of them. Let's see what that's worth against somebody who's patient on purpose."
 
 He was steady all the rest of that morning, as he always was. But twice, between blows, Cael saw him glance at the arch of the alcove, at the dark of the empty floor beyond it, as he had never once glanced before. It was the look of a man counting the doors.

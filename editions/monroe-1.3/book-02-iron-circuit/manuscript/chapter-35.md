@@ -4,31 +4,15 @@ The query came up to Coss in the last inner-post round of a Monday afternoon, an
 
 He knew the hand: every letter on the front was the same height as its neighbour, level as a ruled line, the hand of a young man who had been told once that neatness was a kind of honesty and had believed it. Coss had read that hand on a routing card some weeks ago, on a short return from the river side, and had gone down to the long room at the end of the day to look at a file he had no reason to look at. He had not expected to see it again so soon. He had not expected to see it at all.
 
-He opened it at his desk with the door shut.
+He opened it at his desk with the door shut and read it standing. It was four lines long. The third named the designation in full, and the fourth asked, as politely as a thing can be asked, where it had come from.
 
-It was very short, and he read it standing, and then sat down and read it again.
+So that was the line. Coss had seen a Level 4 perhaps twice in eleven years, both on sealed files, both with a name in the right-hand column that he had only ever seen in the duty records of the floors above him. The short printed form between the registry's stamp and the young man's green slip, with nothing in its column, was *that*. He sat down with the slip in his hand and felt the knowledge go through him slowly, the way cold goes through a man who has stepped off a bank into deeper water than he thought.
 
-*Contact of record, Ardenmere file (Hesk-ward, C.), river side. Quarterly review. A Suppression-Advisory Watch, Priority Level 4 designation appears in the classification block. I am unable to confirm it against Section 12 of the manual for the review record. Requesting guidance on its origin and continued application. H.*
+He thought, for a moment, of a table in the district a year and more ago, and a pie between them, and a boy of fourteen with his hands under the edge of it, asking him whether he knew what a flag was. He had told the boy the truth, which was that he did not. He knew now what this one was called. Knowing its name was not at all the same as knowing what it was, and he would have given a good deal to be back at that table not knowing either.
 
-He knew what Section Twelve said, having read it once, years ago, the way a man reads the rules of a game played in another country, and had never needed to read it again. Level 4 was the weight the registry put on a Gold-tier practitioner it had reason to fear. He had seen it on perhaps two files in eleven years, both of them sealed, both with a name in the right-hand column that he had only ever seen in the duty records of the floors above him.
+But it was not the line that frightened him. It was that the question had been asked at all, by a careful junior with four years in, sent to the manual by a half-page of printed boxes the registry handed out by the hundred. Coss had kept it shut in his own head for over a year and told himself it was buried. It had never been buried. The registry's own paperwork had walked a young man straight up to it. If a review sheet could do that once, it would do it again; and some quarter, at some desk, a man with more rank than Havel, or less sense, would go to the shelf and write not *I am unable to confirm* but *who*.
 
-So that was the line. The short printed form between the registry's stamp and the young man's green slip, with nothing in its column, was *that*. He sat with the slip of paper in his hand and felt the knowledge go down through him, slowly, the way cold goes down through a man who has stepped off a bank into deeper water than he thought.
-
-He thought, for a moment, of a table in the district a year and more ago, and a pie between them, and a boy of fourteen with his hands under the edge of it, asking him whether he knew what a flag was. He had told the boy the truth, which was that he did not. He knew now what this one was called. He found that knowing its name was not at all the same as knowing what it was, and that he would have given a good deal, sitting there, to be back at that table not knowing either.
-
-And under the cold there was the thing that frightened him, which was not the line at all.
-
-It was that the question had been asked, and not by a man with a reason, or a grudge, or a rank. A careful junior with four years in had been sent to the manual by a printed review sheet, a half-page of boxes the registry handed out by the hundred, and had found it in an afternoon. Coss had kept it shut in his own head for over a year, and he had told himself in all that time that the line was buried, that nobody below a certain floor would ever go looking. Nobody had needed to look; the registry's own paperwork had walked a young man straight up to it and put the manual in his hands.
-
-If a review sheet could do that once, it would do it again. Not this quarter, perhaps, or the next. But some quarter, at some desk, a man with more rank than Havel, or less sense, would tick down to the sixth box. He would go to the shelf, and he would not write *I am unable to confirm*. He would write *who*.
-
-Coss put the query face down on his blotter.
-
-He knew what he would write before he picked up his pen, and had known it, if he was honest, from the first line. He did not let himself think about it any longer than it took to write it, because thinking about it was the thing he was most afraid of.
-
-*Follow standard procedure. Do not attempt to reclassify the monitoring level. File regular reports.*
-
-He initialled it and read it through once. It answered nothing, and he had meant it to answer nothing. It was the shortest true thing he could find to send a careful man that would end the matter on the young man's side of the floor before anybody else came by and saw it lying there open. He told himself, folding it, that he was doing it for Havel, and it was true. A junior who asked *who* about a Level 4 would be known on every floor of the building by the end of the season, and Coss would not wish that on anybody.
+He knew what he would write before he picked up his pen, and he did not let himself think about it any longer than it took, because thinking about it was the thing he was most afraid of. Four short sentences, an initial, the envelope. It answered nothing, and he had meant it to answer nothing. He told himself, folding it, that he was doing it for Havel, and it was true: a junior who asked *who* about a Level 4 would be known on every floor of the building by the end of the season.
 
 It was not the whole truth, and he knew that too. He sealed it and put it in the out-tray for the last round, and sat looking at the empty tray after it had gone.
 
@@ -120,17 +104,7 @@ He told nobody, because there was nobody to tell. He carried it as he had learne
 
 The file went back to its shelf in the registry's long room after its quarter's review, as files did, and the clerk shelved it between a carter's licence and a widow's pension, where it had always been.
 
-It was very thin. Inside the cover there was now a review sheet with six ticks and one box written in small letters, and behind the sheet a slip in an upright hand that told its reader to follow standard procedure.
-
-On the first leaf, in the box at the top, the classification block held three lines.
-
-The first was the classification, in the registry's square print: *[SHATTERED]*, with the registry's stamp beside it.
-
-The third was a supplementary compliance marker, entered from a green slip, with initials and a date.
-
-The second read, in the registry's short printed form, a designation and a figure. In its long form, as the manual's index gave it, it read *Suppression-Advisory Watch, Priority Level 4*. Section Twelve of the manual reserved that level for practitioners of Gold tier or above under active security review. It required the signature of a named officer, and a date, and a date for its own review.
-
-There was no signature. There was no authorizing officer anywhere in the file, nor in the duty records of any floor. No officer had entered it, and none had renewed it.
+It was very thin. Between the registry's stamp and the green slip on its first leaf, the classification block still carried the line with nothing in its column: *Suppression-Advisory Watch, Priority Level 4.* No officer had entered it, anywhere in the file or in the duty records of any floor. Nobody had dated it, and nobody had renewed it.
 
 The registry kept, in a set of books on a floor below the long room, an index of every marker on every file in the building. Each had a line of its own, and every line had a field at its end for the marker's provenance: the officer, the order, the floor. Nobody below a certain grade had cause to open those books, and few above it ever did. Against this marker, in that field, the index read, in the same square print as everything else:
 
@@ -150,7 +124,7 @@ The file sat on its shelf between the carter and the widow. Nothing in it had ch
 
 They tried to read the watcher back on the next main-floor night, and it was the longest Cael had ever sat still in his life.
 
-They had planned it in the alcove, between crosses, over three mornings, and it was not much of a plan. The watcher came to the Ironyard on main-floor nights, and stood at the back wall, and was there until the crowd thinned, and then was not. So Cael would be at the back, on the end of the last bench near the south wall, where he had sat the first time. He would not move, and he would not look. He would open the door when the room had thinned enough to let him and hold it as long as it would let him, and ask nothing but what was there.
+They had planned it in the alcove, between crosses, over three mornings, and it was not much of a plan. The watcher came to the Ironyard on main-floor nights, and stood at the back wall, and was there until the crowd thinned, and then was not. So Cael would be at the back, on the end of the last bench near the south wall, where he had sat the first time. He would not move, and he would not look. He would open the door when the room had thinned enough to let him and hold it as long as it would let him, and take nothing but what the room was given. They had agreed that, too, on the second morning, without much argument: whoever it was had not given leave to be gone into, any more than the old man at the dray had.
 
 Brom would be on the same bench.
 
@@ -170,25 +144,25 @@ He waited until the benches round him were empty and the near knots had gone out
 
 There was nobody at the back wall.
 
-He felt the place where the back wall was, the cold flat weight of the stone, and the scatter of people going out, kindled and not. He felt, at the other end of the bench, a bench's length away, Brom: the banked fire, low and steady, and above it now, because Brom was holding it open on purpose, something wider and more awake, reaching out past him into the room.
+He felt the place where the back wall was, the cold flat weight of the stone, and the scatter of people going out. He felt, at the other end of the bench, a bench's length away, Brom: the banked fire, low and steady, and above it now, because Brom was holding it open on purpose, something wider and more awake, reaching out past him into the room.
 
-And at the edge of what Cael could reach, not at the back wall but along the west side of the room, by the last of the lamps, there was the even pressure.
+And at the edge of what Cael could reach, not at the back wall but along the west side of the room, by the last of the lamps, there was the thing from the back wall.
 
-It was further than he had thought it would be, much further, so far that it was barely there, a thin level weight right at the rim of his range, as faint as a voice two rooms away. He felt himself lean toward it, the old trained reach of a hunter's attention, and caught himself, and did not. Reaching shortened it; he had learned that in the alcove at the cost of a week. He let himself be heavy on the bench instead, and let the thing come to him or not.
+It was further than he had thought it would be, much further, so far that it was barely there, a thin unchanging weight right at the rim of his range, as faint as a voice two rooms away. He felt himself lean toward it, the old trained reach of a hunter's attention, and caught himself, and did not. Reaching shortened it; he had learned that in the alcove at the cost of a week. He let himself be heavy on the bench instead, and let the thing come to him or not.
 
-It did not come. It did not go. It sat at the edge of his range, held level, and stayed exactly there.
+It did not come. It did not go. It sat at the edge of his range, kept, and stayed exactly there.
 
-He did not know how long it was, and he did not count, because counting was a kind of asking. He sat with his hands on his knees and his eyes on the empty middle of the floor and let the thin level weight lie against the far edge of his skin, and did not ask it anything.
+He did not know how long it was, and he did not count, because counting was a kind of asking. He sat with his hands on his knees and his eyes on the empty middle of the floor and let it lie against the far edge of his skin, and did not ask it anything.
 
-Nothing changed. That was the whole of it, for a long time. The pressure was held level, breath after breath. It did not rise when the last knot of fighters went out past it at the side door, close. It did not fall when the sweepers came in with their brooms. It did not shift when Dace began to wipe his wall, and the chalk dust went up white in the lamplight, and somebody dropped a bucket by the water barrel with a bang that made Cael's door shudder and nearly shut. He held it through the bang, and did not know how.
+Nothing changed. That was the whole of it, for a long time, breath after breath. It did not rise when the last knot of fighters went out past it at the side door, close. It did not fall when the sweepers came in with their brooms. It did not shift when Dace began to wipe his wall, and the chalk dust went up white in the lamplight, and somebody dropped a bucket by the water barrel with a bang that made Cael's door shudder and nearly shut. He held it through the bang, and did not know how.
 
-At the other end of the bench Brom had not moved either. Once, very low, without turning his head, he said, "I have them. Barely. At the very end of mine." And a long while after that: "Level. I can't get under it. It's like putting your hand on a lid."
+At the other end of the bench Brom had not moved either. Once, very low, without turning his head, he said, "I have them. Barely. At the very end of mine." And a long while after that: "Whatever's under it, it isn't giving it to the room. It's like a lid."
 
 The band began. It came round Cael's head a notch at a time, as it had never done before, slowly, because he had never held anything this long. First a pressure at the temples, then a tightness behind the eyes, then a ring of ache that went all the way round, and still he did not let go. He thought of the hip in the lock, two *ands* of bright stillness, and of the canvas post at the Cinder House in the cold, and of a man on a bench at an estate wall for a month. He thought of nothing.
 
 The room emptied. The sweepers finished the near end of the floor and went to the far end. Dace began putting out the lamps along the east wall, one at a time, with the snuffer on its long pole, and the room went dimmer by halves.
 
-Then, without any change in the pressure at all, without any rise or fall in it, the thin level weight at the edge of his range was further away. It had not moved, as far as he could feel, so much as thinned, the way the warmth of a fire thins when the man holding his hands to it takes one step back. It thinned again. It went down to nothing at the very rim of what he could reach, and lay there for one more breath, barely, the faintest thing he had ever felt.
+Then, without any change in the pressure at all, without any rise or fall in it, the weight at the edge of his range was further away. It had not moved, as far as he could feel, so much as thinned, the way the warmth of a fire thins when the man holding his hands to it takes one step back. It thinned again. It went down to nothing at the very rim of what he could reach, and lay there for one more breath, barely, the faintest thing he had ever felt.
 
 Then it was not there.
 
@@ -208,7 +182,7 @@ They sat there a while longer without saying anything. The sweepers came back do
 
 Cael thought about it with his palms pressed into his eyes.
 
-"No," he said. "Level. Hard under it. The same as the other three times." He made himself say the rest, all of it. "They stood exactly where I can only just reach, the whole time. They went when the lamps started going out. I don't know if either of those means anything." He took his hands down. "I'm not allowed to guess. I've been wrong once already."
+"No," he said. "The same as the other three times. Never more, never less, and the hard thing under." He made himself say the rest, all of it. "They stood exactly where I can only just reach, the whole time. They went when the lamps started going out. I don't know if either of those means anything." He took his hands down. "I'm not allowed to guess. I've been wrong once already."
 
 Brom looked down at him for a long moment.
 
@@ -218,8 +192,12 @@ They went out at the side door into the cold. Lira was waiting under the lamp at
 
 He wrote it that night with the band still on, in the smallest number of words he could manage.
 
-*Back bench, B. at the other end. A whole card, then all the sweeping. They were there at the far edge, west side, the whole time. Level. Hard under it. B. got the same, barely. Couldn't get under the level, either of us. They thinned at the edge of my range and went as the lamps went out. Learned about them: nothing.*
+*Back bench, B. at the other end. A whole card, then all the sweeping. They were there at the far edge, west side, the whole time. Unchanging. Hard under it. B. got the same, barely. Neither of us went in. They thinned at the edge of my range and went as the lamps went out. Learned about them: nothing.*
 
 He looked at that, and then wrote one more line under it, because it was not nothing, and the book was for true things.
 
 *Learned about me: I can sit still longer than I knew. Not as long as they can. Yet.*
+
+It cost him the next day. In the morning the band was still there, thinned to an ache behind the eyes, and when he sat down on the alcove floor across from Brom and let himself go still, the door did not come open at all. It did not come open that afternoon either. It was as if he had leaned on it all night and it had decided, for one day, not to be leaned on any more. He sat through two hours of nothing with Brom on the bench and did not mind as much as he had expected; he had paid for something, and a thing that charged was a thing that was real.
+
+On the way out he did the one other thing he could think of. He walked from the end of the back bench to the last lamp on the west wall, in his ordinary steps, and counted. Fourteen. In the alcove, the first week of the season, tired and not trying, he had had six. He wrote the two numbers one under the other on the inside of his wrist in pencil, so that he would see them every time he washed, and did not wash them off for a week.

@@ -34,7 +34,7 @@ He got almost to the top of the row before a cart came out of a side lane with i
 
 "It only said yes and no," Brom agreed. "That's what it says when you walk. The rest you have to stand still for." He turned the loaf over and looked at the crust. "It'll say more, later. But you've got to let it say the small thing well first, or it'll never trust you with the big one."
 
-On the way down again he found the other thing it would do, and it was Brom who found it for him.
+On the way down again he found the other thing it would do, and the first thing he did with it was wrong.
 
 They had stopped at the corner where the row met the square, to let a carter's dray go by. Cael was standing still, and the door was open, and there were three people near them waiting for the dray too: a girl with a basket of eggs, an old man with a stick, and a young man in a blacksmith's apron with his sleeves rolled up.
 
@@ -42,21 +42,29 @@ They had stopped at the corner where the row met the square, to let a carter's d
 
 Cael stood very still.
 
-He had felt the girl with the eggs and the old man and the smith all at once, as three small weights, and he had not thought to ask them anything. Now he did, gently, one at a time. The old man was there, warm, a weight on the air and nothing else; a person, plainly, but only one thing. The girl was there too, and then, as he attended to her, there was something more under her, inside the first weight, like a second coin under the first in a closed hand. The smith was the same as the girl: a weight with something in it.
+The street had given him the three of them already, as three small weights at his side, the way it gave him the cart and the cobbles: there, and there, and there. That much was the street's. Then, because Brom had asked, he went into the nearest. He did it gently, on purpose, the way he would have leaned toward a door to hear what was said behind it. The old man was there, warm, a weight on the air and nothing else; a person, plainly, but only one thing.
 
-"The old man isn't," said Cael. "The other two are."
+He was turning toward the girl with the eggs when he heard what he was doing.
 
-"Yes."
+He had written it down a few nights ago, at the crate desk, in the small hand. *Going into one person on purpose… belongs to them.* The old man had not said he could. The old man did not know there was anything in the world to say yes to. He was standing at a corner with his stick, waiting for a dray, and a boy he had never seen had just gone in under his coat to find out what he was.
 
-"How do you know?"
+Cael let the door shut.
 
-"I know what Path they are and about how far up it," said Brom. "Stone, the girl, low Copper. The smith's a Force, not much past his Kindling. Yours won't tell you that. Mine wouldn't either, at the start. But it'll tell you whether there's anything in there at all."
+"I just went into him," he said. "The old man. I didn't ask."
 
-The dray went by, and the three of them crossed, and Cael felt them go, kindled, unkindled, kindled, and then the band came round his head and he stopped feeling anything.
+Brom looked at him, and then at the old man crossing behind the dray, and then back.
 
-That week, in the alcove, he found the third thing, which was smaller still. When the girl with the sacking in her hair from Keth's ring came in to use the post, and began to warm up, the something inside her weight changed. It was not louder, exactly; it was awake, the way a dog lying down is different from a dog that has heard a step, though both are dogs and neither has moved. When she stopped and sat down to rewind her hands, it went down again.
+"No," he said. "You didn't. And I set it you, and didn't think." He shifted the loaf. "Mine tells me that much without going in, off the street, the way it tells me who's on the stair. Yours won't, yet. I forgot whose I was asking." He was quiet a moment. "That's mine, then, as much as yours."
 
-*Kindled or not,* he wrote, that night, *close, standing still. Working or resting, close, standing still. Walking: yes or no only, thirty paces once. Nothing else. That's the whole of the vocabulary.*
+They did the rest of it that week in the alcove, with people who had said yes.
+
+Lira said yes before he had finished asking, and then, "Do it properly, if you're doing it," and stood on the chalk with her arms folded while he went in. She was there, the bird on the sill, and then, as he attended, there was something more inside the first weight, like a second coin under the first in a closed hand. The dock partner said he didn't mind, for nothing, and was the same: a weight with something in it. The heavyset man, asked at the kitchen table, looked at him for a long moment over his cup and said, "If it's for the book," and came down to the Ironyard for the first time since the Brom bout to stand on a chalk cross with his hat in his hands. He was there, big and slow and warm, and nothing else at all. He was very pleased to be told so, though he did not say why.
+
+The third thing was smaller still. He asked the girl with the sacking in her hair from Keth's ring, who thought it was a joke and said yes. When she began to warm up at the post, the something inside her weight changed. It was not louder, exactly; it was awake, the way a dog lying down is different from a dog that has heard a step, though both are dogs and neither has moved. When she stopped and sat down to rewind her hands, it went down again.
+
+*Kindled or not,* he wrote, that night, *close, standing still, with leave. Working or resting, close, standing still, with leave. Walking: yes or no only, thirty paces once; that's the street's, and needs nobody's. Nothing else. That's the whole of the vocabulary.*
+
+And in the narrow column on Tuesday's page, under the other two: *The old man at the dray. Did. Didn't ask. Stopped.*
 
 ---
 

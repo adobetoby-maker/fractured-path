@@ -158,7 +158,11 @@ Brom turned his cup on his knee.
 
 Brom was quiet for a while.
 
-"Ask, then," he said. "Next time. I'll mostly say yes." The corner of his mouth went in. "It turns out I don't mind. I thought I would." He drank. "Being noticed. It's company, a bit."
+"Mine lies on the room," he said at last. "I can't help that, any more than you can help hearing a cart go by in the street. Who's here, where, whether they're still. That's the room's." He turned the cup. "Going into somebody's another thing. Finding out what's under them, what they are. I don't do that unless they're across a rope from me, or they've said I can."
+
+"And I went into you."
+
+"You went into me." Brom did not make it heavier than it was. "Ask, then. Next time. I'll mostly say yes." The corner of his mouth went in. "It turns out I don't mind. I thought I would." He drank. "Being noticed. It's company, a bit."
 
 Lira had finished with the jar, and had two rows on the plate now and a third, very small, set apart from the others on the very edge, which she did not explain. She sat back on the bed with her cup, and Cael saw her look at Brom for a long moment in the lamplight, with no expression, as she had looked at him across the main floor on the night of the bout. Then something in her face settled.
 
@@ -244,7 +248,7 @@ Then he turned to the Iron-adjacent entry and wrote what was new, and only that.
 
 He looked at that a while. Then, outside the fields, in the smaller hand:
 
-*A thing I can do to people without their knowing is a thing I have to ask before I do.*
+*Two things, not one. What a person gives off to a room belongs to the room: that they're there, where, still or moving, how they press. I can't help that, any more than I can help hearing feet on the stair. Going into one person on purpose, to find out what's in them (kindled or not, working or resting, what's under the ease), belongs to them. That I ask before I do. Tonight I went into B. without asking. That was the wrong one, and it was mine.*
 
 He closed the Log. On a loose page at the back of Hesk's notebook, where he kept the things that belonged in no book of his own, he wrote one more line, because the day had held it and he did not want sleep to take it away.
 
