@@ -292,7 +292,7 @@ And Brom took it. That was what Cael kept watching. The man who had put him on t
 
 Cael went away from the arch, quietly, across the dark floor, and sat on the end of the east bench in the cold until the sweepers came. He did not mind; he found, a little to his surprise, that he was glad, and that the gladness was not about him. A few weeks ago Lira had sat at a kitchen table and said she would find out what Brom was on her own time. This was what her own time looked like. It did not need him in it.
 
-When the dock partner came in at the side door, broad and broken-nosed, with his breath going up, Brom came out of the alcove with his coat over his arm and saw Cael on the bench and sat down beside him, heavily, like a man at the end of a long day instead of the start of one.
+When the dock partner came in at the side door, broad and broken-nosed, with his breath going up, Brom came out of the alcove with his coat over his arm and saw Cael on the bench and sat down beside him, heavily.
 
 "She's very good," he said.
 

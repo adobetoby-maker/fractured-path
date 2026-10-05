@@ -1,6 +1,6 @@
 # Chapter 21 — Off Side
 
-Lira watched the evening session over his shoulder that night, which she had not done once in all the sessions, and she watched it the way she watched a fighter she meant to fight.
+Lira watched the evening session over his shoulder that night, which she had not done once in all the sessions, and she watched it as she watched a fighter she meant to fight.
 
 She stood behind the bench with her arms folded on the top of the alcove wall and her chin on her arms, and said nothing for most of the hour. Brom had the newcomers again, the boy with the tooth and the girl and the tall lad, and two more from Keth's ring whom Cael had not seen before. He gave each of them a copper and let them hit him, and sent them sideways, and paid the next. Cael counted on his wrist and wrote in the middle column. Behind him Lira breathed slowly through her nose, as she did when she was reading somebody, and once, when the tall lad's kick came back past him off the edge of Brom's foot, she made a small sound in her throat.
 
@@ -26,7 +26,7 @@ Lira frowned at the page. "Why there? Why not before he's hard at all? You said 
 
 "If I'm right. I've seen it once, live." He turned forward again. "So I make him answer hard three times, close together, and put the fourth in the recovery." He moved his finger to the drawing. "Low. Below the knee. That's where he's thinnest anyway. If I'm right about the recovery and right about the knee, the fourth goes into a man who's only a man there, for two beats."
 
-Lira read the drawing for a long time.
+Lira read the drawing slowly.
 
 "When?"
 
@@ -40,7 +40,7 @@ Lira read the drawing for a long time.
 
 "Then I'll know there isn't." He closed the book. "That's worth knowing too."
 
-Lira came round the end of the bench and sat down beside him, and looked across the alcove at Brom, who had finished his hands and was sitting with his left one open on his knee again, palm up, the way he had sat after the dock partner.
+Lira came round the end of the bench and sat down beside him, and looked across the alcove at Brom, who had finished his hands and was sitting with his left one open on his knee again, palm up, as he had sat after the dock partner.
 
 "You're not planning to win," she said.
 
@@ -72,7 +72,7 @@ Lira read it, and then read it again.
 
 "And I've got the boy who was there before them," said Cael. "You found him for me."
 
-She did not answer that. But she put her shoulder against his for a moment, the way she did, and left it there until Brom got up across the floor and put his coat on and went out by the side door into the cold.
+She did not answer that. But she put her shoulder against his for a moment and left it there until Brom got up across the floor and put his coat on and went out by the side door into the cold.
 
 ---
 
@@ -84,7 +84,7 @@ They were all at the table, which did not often happen. The heavyset man sat at 
 
 "I'm eating."
 
-"You're moving it about. I can see the bottom of the plate in exactly the same places." The sister turned to Cael. "And you. They say you've got the big one on the main floor. Tuesday. It's all down the market."
+"You're moving it about. I can see the bottom of the plate in the same places." The sister turned to Cael. "And you. They say you've got the big one on the main floor. Tuesday. It's all down the market."
 
 "Yes."
 
@@ -94,7 +94,7 @@ The table went quiet. The heavyset man's wife stopped with the pan in her hand.
 
 "Probably not," said Cael.
 
-The sister put her fork down. She looked at him with an expression of the deepest disapproval, as if he had said something improper at the table.
+The sister put her fork down. She looked at him with an expression of the deepest disapproval.
 
 "Well, you can't *say* that."
 
@@ -106,7 +106,7 @@ The sister put her fork down. She looked at him with an expression of the deepes
 
 The sister opened her mouth, looked at the heavyset man, and closed it again, which Cael had not known she could do.
 
-The heavyset man went on eating. Then, without looking up from his plate, in the same flat voice, he said, "I went down."
+The heavyset man went on eating. Then, still at his plate, in the same flat voice, he said, "I went down."
 
 Lira looked up.
 
@@ -118,7 +118,7 @@ Nobody said anything. The sister was looking at her brother-in-law as though he 
 
 "You never asked." He pushed his plate away. "I'll go down tomorrow."
 
-Lira looked at her plate for a while. Then she picked up her fork and ate the thing with the onions, all of it, steadily, without saying anything else, and when she had finished the heavyset man's wife took the plate away and put another helping on it without asking and set it in front of her, and Lira ate that too.
+Lira looked at her plate. Then she picked up her fork and ate the thing with the onions, all of it, steadily, without saying anything else, and when she had finished the heavyset man's wife took the plate away and put another helping on it without asking and set it in front of her, and Lira ate that too.
 
 Later, on the stairs, she stopped on the landing outside her door with her hand on the latch.
 
@@ -138,7 +138,7 @@ And Wendel was at his mark.
 
 Cael had a page on him. He had made it in the summer, when Wendel had first come over from the guild side and fought two Ironyard bouts and won both, and he had made it again in the new order a fortnight ago, without telling anybody. *What it's made of*: guild-trained, by people who were paid well and had taught him everything properly, in the right order. He fought in long beautiful sequences of three, each one building speed into the next. He wore a guild pin on his collar, a small enamelled thing, and he had worn it into the circuit both times as if he had forgotten it was there. Lira had crossed the street from pins like that one all the first winter she was in the city.
 
-He was tall and fair and perhaps twenty-five, and he stood at his mark the way the books said a Wind should stand, and looked across at Lira with polite interest, as a man looks at a dish he has not ordered.
+He was tall and fair and perhaps twenty-five, and he stood at his mark as the books said a Wind should stand, and looked across at Lira with polite interest, as a man looks at a dish he has not ordered.
 
 Lira did not look at the pin. She stood at hers with her staff grounded and her face doing nothing, the old face, and Cael at the rope saw the straight line of her neck and knew she had seen it.
 
@@ -146,7 +146,7 @@ He did not take the grey book out. He had not taken it out for Dravin and he did
 
 Somebody came and stood beside him at the rope.
 
-He did not need to turn his head. He knew the size of it in the edge of things, and the stillness. Brom folded his forearms on the top strand, a hand's width from Cael's, and looked at the floor.
+He did not need to turn his head. He knew the size of it in the edge of things, and the stillness. Brom folded his forearms on the top strand, close to Cael's, and looked at the floor.
 
 "She asked me not to watch her," said Brom.
 
@@ -170,7 +170,7 @@ That was the first thing, and Cael did not understand it at first. She did not c
 
 Wendel began a sequence. Cael saw it begin, though he was not pulling the gaze; he did not need the gaze to see Wendel begin a sequence, because Wendel's sequences were beautiful and the room liked to watch them. The weight going short on his right hip, the first step off it, and the open hand coming round at the speed of the first part of a three-part thing. But she was on his right. He had no room on his right to go short into. His first step came out half the length it ought to have been, into the side of her shoulder, and the second part of the sequence had to come from his other hip, his left, all at once, without being built to.
 
-It came. It was a good sequence, and it came anyway, and on the third part his open hand caught her across the upper arm with a sound like a wet sheet on a line. She took it, and turned in, the way she had learned against Dravin, and gave it the strong side, and stayed.
+It came. It was a good sequence, and it came anyway, and on the third part his open hand caught her across the upper arm with a sound like a wet sheet on a line. She took it, and turned in, as she had learned against Dravin, and gave it the strong side, and stayed.
 
 "End of the exchange."
 
@@ -204,9 +204,9 @@ Then she changed too, inside the exchange.
 
 Cael saw her do it, and it was the thing he would remember longest out of the whole night. She did not go back to her mark and think about it. She gave two steps, and on the second step her feet were already somewhere else, round on his other side, on the new right. She was crowding him again before he had finished the sequence he had begun, and the next one had to come from the slow side, and she was inside it. He had changed in one exchange, and she had changed back inside half of one, and the room saw it.
 
-That was the whole of the fourth and the fifth, after that. They were long exchanges, longer than any of hers had been all autumn, both of them working hard. Wendel tried his feet again, and tried coming at her from range, and tried waiting; once he tried something very fine, a sequence that began on the slow side on purpose and was meant to be slow, so that she would go in and meet the quick part coming round behind it. Cael would have written a backwards hook in the margin for it. Lira did not go in. She stood off and let it go by and came in on the next one, and it was as if she had heard the lie in it.
+That was the whole of the fourth and the fifth, after that. They were long exchanges, longer than any of hers had been all autumn, both of them working hard. Wendel tried his feet again, and tried coming at her from range, and tried waiting; once he tried something very fine, a sequence that began on the slow side on purpose and was meant to be slow, so that she would go in and meet the quick part coming round behind it. Cael would have written a backwards hook in the margin for it. Lira did not go in. She stood off and let it go by and came in on the next one; she seemed to have heard the lie in it.
 
-Each time Wendel found something new, it came an exchange late, an answer to the Lira who had been in front of him a minute ago. Each time she answered him, it was the Lira in front of him now. Cael had won a dozen bouts in his own year off exactly that gap, from the inside, without ever being able to see it. From the rope he could see it as plainly as a crack in a plate, and see how Wendel's face changed as he felt it widening.
+Each time Wendel found something new, it came an exchange late, an answer to the Lira who had been in front of him a minute ago. Each time she answered him, it was the Lira in front of him now. Cael had won a dozen bouts in his own year off that same gap, from the inside, without ever being able to see it. From the rope he could see it as clearly as a crack in a plate, and see how Wendel's face changed as he felt it widening.
 
 At the end of the fifth they were both breathing like bellows. Lira's upper arm, where the first sequence had caught her, had gone a dark red she would be wearing for a week. She walked to her mark and did not look at Cael. She looked at the floor in front of her, at the place where she would stand, with her lips not moving at all.
 
@@ -224,9 +224,9 @@ He put his hand up.
 
 ---
 
-The room came up off the benches. The four girls from the wall were standing on their bench, and the dock partner had his arms over his head. The betting man stood on his crate staring at his slate as if it had insulted him.
+The room came up off the benches. The four girls from the wall were standing on their bench, and the dock partner had his arms over his head. The betting man stood on his crate staring at his slate.
 
-Dace was across the floor before Wendel was on his feet. He came straight from the slate with a stick of chalk still in his hand, and stopped in front of Lira at her mark, and looked at her the way he had looked at Brom, top to bottom, like a carter at a horse.
+Dace was across the floor before Wendel was on his feet. He came straight from the slate with a stick of chalk still in his hand, and stopped in front of Lira at her mark, and looked at her top to bottom, as he had looked at Brom.
 
 "Do you want it moved?" he said. "Your line. If you want it, I'll put it to her tonight. I'll put it to her myself."
 
@@ -238,7 +238,7 @@ She looked back at Dace.
 
 "Yes."
 
-Dace nodded once, as if that settled something he had been waiting a long time to have settled, and went off toward Vell's table.
+Dace nodded once. Something he had waited a long time to see settled was settled, and he went off toward Vell's table.
 
 Wendel came across the circle to Lira on his own feet, with his hand pressed to his ribs, and stood in front of her. Up close he was even taller than he had looked from the rope. He reached up, slowly, and unpinned the small enamelled thing from his collar, and looked at it in his palm.
 
@@ -246,7 +246,7 @@ Wendel came across the circle to Lira on his own feet, with his hand pressed to 
 
 "Nobody." Lira held his eyes. "I watched you."
 
-Wendel looked at her for a long moment. Then he put the pin into his pocket, not back on his collar, and nodded to her, and went to his corner.
+Wendel looked at her. Then he put the pin into his pocket, not back on his collar, and nodded to her, and went to his corner.
 
 At her table Vell was writing. Cael could see her from the rope. She was writing a good deal more than she usually wrote under anybody's bout, with her head bent low over the book and Dace standing at her elbow saying nothing. She did not turn the book toward Lira when Lira went to stand at the end of the table. She finished, and blotted it, and closed it with her hand flat on the cover.
 
@@ -268,7 +268,7 @@ Cael looked at him.
 
 "She'll want to know when."
 
-Brom almost smiled. It went in at the corner of his mouth and stayed there. Then the floor began to empty round them, and they walked out together through the side door into the lane without either of them deciding to, the big man and the boy, with the cold coming down between the roofs and their breath going up in the lamplight from the door.
+Brom almost smiled. Then the floor began to empty round them, and they walked out together through the side door into the lane without either of them deciding to, the big man and the boy, with the cold coming down between the roofs and their breath going up in the lamplight from the door.
 
 They walked up the hill a little way in silence. At the corner where the row went off toward the boarding house, Brom stopped.
 

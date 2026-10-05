@@ -2,7 +2,7 @@
 
 The man who had been writing him down all season came to tell him so on the ninth day after Keth, at the pump in the market square, in the rain.
 
-Cael was filling the house's second bucket, because the heavyset man's wife had asked and the yard pump had frozen at the spout. He knew the man by sight before he had turned round properly. He knew him the way he knew a hundred faces from the benches, as a shape he had put somewhere and not looked at since. It was a Shield, broad-shouldered and not tall, about twenty-four, with a round, patient, rather sleepy face and a guild card that said Copper. Vell's book said Iron-equivalent, and had said it for three seasons. He fought on the evening cards, slowly, and won more than he lost by never once being in a hurry. And he sat on the east bench on most nights with a cheap tally-book on his knee, the kind the salt warehouses gave their counting clerks, and wrote in it.
+Cael was filling the house's second bucket, because the heavyset man's wife had asked and the yard pump had frozen at the spout. He knew the man by sight before he had turned round properly. He knew him as he knew a hundred faces from the benches: a shape he had put somewhere and not looked at since. It was a Shield, broad-shouldered and not tall, about twenty-four, with a round, patient, rather sleepy face and a guild card that said Copper. Vell's book said Iron-equivalent, and had said it for three seasons. He fought on the evening cards, slowly, and won more than he lost by never once being in a hurry. And he sat on the east bench on most nights with a cheap tally-book on his knee, the kind the salt warehouses gave their counting clerks, and wrote in it.
 
 Cael had a mark for him in the grey book. It was *the tally*, and under it, from the autumn, one line: *Writes during bouts. Sums? A clerk.* He had never looked further than that; he had decided what the man was writing, and gone on.
 
@@ -10,7 +10,7 @@ Cael had a mark for him in the grey book. It was *the tally*, and under it, from
 
 "Yes."
 
-"I'm Bede. Shield." He had a quiet voice, a little formal, like a man reading a manifest aloud. The rain ran off the brim of his hat. "I've asked Dace for you. Thursday week, the late card. He's going to tell you this afternoon. I wanted to tell you first."
+"I'm Bede. Shield." He had a quiet voice, a little formal, a clerk's voice. The rain ran off the brim of his hat. "I've asked Dace for you. Thursday week, the late card. He's going to tell you this afternoon. I wanted to tell you first."
 
 Cael put the bucket down on the step of the pump.
 
@@ -20,11 +20,11 @@ Cael put the bucket down on the step of the pump.
 
 Cael stood in the rain with the full bucket at his feet and looked at him, and felt several things at once, and the first of them, oddly, was something very like relief.
 
-It was fair. That was what he felt first, before anything else. It was exactly as fair as the grey book, which had a page on this man's grip and his rim and his slowness, because Cael had sat on a bench and watched him; and it was a great deal fairer than Cael had been, because Cael had never once walked up to anybody at a pump in the rain and told them. Keth had told him the night he won that somebody would start a page. It had been nine days. The somebody had started it at the beginning of the season, and had come to tell him.
+It was fair. That was what he felt first, before anything else. It was as fair as the grey book, which had a page on this man's grip and his rim and his slowness, because Cael had sat on a bench and watched him; and it was a great deal fairer than Cael had been, because Cael had never once walked up to anybody at a pump in the rain and told them. Keth had told him the night he won that somebody would start a page. It had been nine days. The somebody had started it at the beginning of the season, and had come to tell him.
 
 "Keth said someone would," said Cael.
 
-"Keth's right about most things." Bede did not smile, exactly; his round face moved a little round the eyes. "I'm not quick. I've never been quick. My Path's slow and my feet are slower, and I've been Copper on a guild card for six years because there's nothing quick enough in me for an examiner to see. So I watch." He looked at the bucket. "You watch too. That's why I started. I wanted to see what it looked like from the other side, a man who watches being watched. Whether he'd notice."
+"Keth's right about most things." Bede did not quite smile; his round face moved a little round the eyes. "I'm not quick. I've never been quick. My Path's slow and my feet are slower, and I've been Copper on a guild card for six years because there's nothing quick enough in me for an examiner to see. So I watch." He looked at the bucket. "You watch too. That's why I started. I wanted to see what it looked like from the other side, a man who watches being watched. Whether he'd notice."
 
 "I didn't notice."
 
@@ -38,7 +38,7 @@ Lira was in the kitchen when he came in, with her sleeves pushed up and her hand
 
 "A Shield called Bede," said Cael, and told her.
 
-She listened with her hands still in the basin. When he had finished she took them out and dried them on the cloth, slowly, finger by finger, the way she did when she was thinking about something she had not expected to have to think about.
+She listened with her hands still in the basin. When he had finished she took them out and dried them on the cloth, slowly, finger by finger. She did that with things she had not expected to have to think about.
 
 "He walked up to you at the pump," she said. "In the rain. And told you he'd been writing you down all season."
 
@@ -59,11 +59,11 @@ She listened with her hands still in the basin. When he had finished she took th
 
 He did it properly that evening, at the crate desk, on a clean page at the back of the grey book, with the lamp turned up.
 
-He wrote a mark at the top for a fighter he had never written a page on, and thought about it for some time, and in the end wrote only *the hip*, because that was where most of it started.
+He wrote a mark at the top for a fighter he had never written a page on, and thought about it, and in the end wrote only *the hip*, because that was where most of it started.
 
-Then he sat for a long time, and tried to be the man on the east bench with the tally-book.
+Then he sat back, and tried to be the man on the east bench with the tally-book.
 
-It was harder than he had expected. He had sat on that bench a hundred nights and watched other people, and he knew exactly how to do it; but he had never once sat on it and watched himself, and every time he tried, his own reasons got in the way. He knew why he did each thing, and the man on the bench neither knew nor cared; he only saw what was done, and how often, and what came after. Cael had to keep crossing out the *because* and leaving the *what*.
+It was harder than he had expected. He had sat on that bench a hundred nights and watched other people, and he knew how to do it; but he had never once sat on it and watched himself, and every time he tried, his own reasons got in the way. He knew why he did each thing, and the man on the bench neither knew nor cared; he only saw what was done, and how often, and what came after. Cael had to keep crossing out the *because* and leaving the *what*.
 
 By the time the lamp had burned down an inch he had this.
 
@@ -83,7 +83,7 @@ By the time the lamp had burned down an inch he had this.
 
 *Doesn't use the other thing. (The bench has never seen it.)*
 
-He looked at the list for a long while. It was a good page, the kind he would have been pleased with on anybody else, and it frightened him a little, because it was eight lines long and any one of them was enough to lose a bout on against a man who knew what he was looking at.
+He looked at the list. It was a good page, the kind he would have been pleased with on anybody else, and it frightened him a little, because it was eight lines long and any one of them was enough to lose a bout on against a man who knew what he was looking at.
 
 He took it to the alcove in the morning and showed it to them both, Lira first, as he had promised himself, and then Brom.
 
@@ -93,7 +93,7 @@ Lira read it standing, with her staff against the wall. She read it twice, and t
 
 He looked at it. He had not known; he tried to remember breathing out through his nose at a mark, and could not, which was the whole point.
 
-Brom read it sitting on the bench, slowly, from the front, the way he read everything, and gave it back without adding anything.
+Brom read it sitting on the bench, slowly, from the front, and gave it back without adding anything.
 
 "Nothing?" said Cael.
 
@@ -103,7 +103,7 @@ Brom read it sitting on the bench, slowly, from the front, the way he read every
 
 Brom looked at him for a moment with his big patient face.
 
-"Can you," he said. It was not quite a question.
+"Can you," he said.
 
 So Cael spent the next week trying.
 
@@ -133,7 +133,7 @@ They both said so.
 
 "Then it's a bout."
 
-Bede came out from the north mark with the rim on his left arm, iron-edged, and a short club low in his right hand. He did not hurry. He came out to the middle of the chalk and set his feet and waited, the way Cael would have waited, the way Cael always waited in a first exchange, and Cael knew that Bede knew exactly how much that would irritate him.
+Bede came out from the north mark with the rim on his left arm, iron-edged, and a short club low in his right hand. He did not hurry. He came out to the middle of the chalk and set his feet and waited, as Cael always waited in a first exchange, and Cael knew that Bede knew how much that would irritate him.
 
 So Cael went first.
 
@@ -151,9 +151,9 @@ Cael did the footwork. He did the angle-denial steps Lira had taught him a whole
 
 So Cael went right.
 
-He went right on his feet, two short steps, as he had practised all week, and it was exactly as slow as it had been against the dock partner. The club was waiting for it. It came low across the outside of his right thigh, not hard, but solid, and his leg went heavy from the hip down.
+He went right on his feet, two short steps, as he had practised all week, and it was as slow as it had been against the dock partner. The club was waiting for it. It came low across the outside of his right thigh, not hard, but solid, and his leg went heavy from the hip down.
 
-He went right again, because the left was closed and there was nowhere else, and the club found the same thigh a hand higher. Orvet was at the west post, though nobody had asked him to come, and he made a sound of pure pleasure.
+He went right again, because the left was closed and there was nowhere else, and the club found the same thigh higher up. Orvet was at the west post, though nobody had asked him to come, and he made a sound of pure pleasure.
 
 So in the end Cael spent the hip anyway, on a read, front-left, round the very edge of the rim, because it was the only way out of the corner Bede had walked him into. It went cleanly, half a body, and he was in the lock, two *ands* of bright stillness. And there in the lock, at the edge of the rim, he watched Bede's club come round into the place where he was standing. It was not into where he had been but into where he now was. It was in no hurry at all, because Bede had a line in his book that said *after any burst, he stands still, count two*, and had been waiting for the count.
 
@@ -177,11 +177,11 @@ So he stood off, and did not look at Bede's lead shoulder, and watched the middl
 
 It answered. Bede's weight was going to his right, steady, and something else was in it, low and to the front. It was the rush, gathering behind the rim, the way it had gathered in the salt-end Shield before he came off his back foot. It was not yet committed, but it was there.
 
-Cael did not look at it, and gave it nothing to see. He waited for the next half-step, and knocked again from a planted foot, and this time it was committed: the weight driving forward and to the right, the rush begun. Before Bede's rim had come a hand's width he was already moving: right, on his feet, two short steps, to the side the rush was not going. He was slow, but this time slow did not matter, because he had started a whole beat early. The rim went by on his left. Bede's club side was open, the club arm out wide for balance behind the rush.
+Cael did not look at it, and gave it nothing to see. He waited for the next half-step, and knocked again from a planted foot, and this time it was committed: the weight driving forward and to the right, the rush begun. Before Bede's rim had come anywhere he was already moving: right, on his feet, two short steps, to the side the rush was not going. He was slow, but this time slow did not matter, because he had started a whole beat early. The rim went by on his left. Bede's club side was open, the club arm out wide for balance behind the rush.
 
 Cael did not hit the ribs. He hit the wrist of the club hand, short and straight, with the step behind it, and the club went out of Bede's fingers and rolled away across the chalk.
 
-The benches came up. Bede went after his club, as the rules allowed, and Cael let him, and stood there with his heart going. Bede picked the club up, and turned, and looked at Cael for a long moment across the chalk with his round sleepy face, and Cael watched him write a line in the book behind his eyes.
+The benches came up. Bede went after his club, as the rules allowed, and Cael let him, and stood there with his heart going. Bede picked the club up, and turned, and looked at Cael across the chalk with his round sleepy face, and Cael watched him write a line in the book behind his eyes.
 
 He did it twice more before the exchange was out, and once more it worked. The second time Bede did not rush when the knock said he would; he stopped the rush himself, halfway, a thing Cael had not known a Shield could do, and stood with the rim up and waited for Cael's step to the right. It came, because Cael had already started it, and the rim met him at the end of it, hard, on the right shoulder.
 
@@ -217,7 +217,7 @@ He met it with his whole moving weight, front-on, and the iron edge took him acr
 
 He lay on the stone with no breath in him and the club resting in the air above him like a question.
 
-He knew exactly what had happened, every part of it, in order. That was the strange thing. He had lost, and he could have written the line for Vell himself.
+He knew what had happened, every part of it, in order. That was the strange thing. He had lost, and he could have written the line for Vell himself.
 
 He lifted his right hand off the stone, open.
 
@@ -255,7 +255,7 @@ Cael gave the book back.
 
 "Thank you," he said, and meant it.
 
-"You'd have done the same," said Bede. He put the book away. "You did do the same. You've a page on me. I'd like to see it sometime, if you'd show it. I'd like to know what I look like from your bench." He touched his hat, as he had at the pump. "Not tonight. You're grey."
+"You'd have done the same," said Bede. He put the book away. "You did do the same. You've a page on me. I'd like to see it sometime, if you'd show it. I'd like to know what I look like from your bench." He touched his hat, as he had at the pump. "Not tonight. You want your bed."
 
 Dace came along the rope while Bede was walking away, as if he had been waiting for him to go.
 
@@ -297,7 +297,7 @@ Brom stood beside him under the lamp with his hands in his coat.
 
 Cael stood under the lamp a long time.
 
-He thought about the hip that would only go left, and the lock that would not shorten, and the fill that came before two and stayed. None of them were things he did. They were the way the Wind he carried had been built. It had been built out of a girl's left hip in a barn and a left-handed man before her, and he had been treating them, all season, as if they were the same kind of thing as where he looked before he moved.
+He thought about the hip that would only go left, and the lock that would not shorten, and the fill that came before two and stayed. None of them were things he did. They were the way the Wind he carried had been built. It had been built out of a girl's left hip in a barn and a left-handed man before her, and he had been treating them, all season, like the same kind of thing as where he looked before he moved.
 
 That night he took out the Log and drew two columns on a clean page in the back, and headed one *Habit (train it)* and the other *Shape (guard it)*.
 

@@ -22,7 +22,7 @@ Lira got the boots off and rolled his trousers to the thigh and looked at his kn
 
 "It's all right."
 
-"It isn't." She took her hand away. "But it's not broken, and it'll go down, and you'll walk. Days. A week, before you'd want to do anything on it that matters." She sat back on her heels on the boards. "He knew exactly what he was doing to them."
+"It isn't." She took her hand away. "But it's not broken, and it'll go down, and you'll walk. Days. A week, before you'd want to do anything on it that matters." She sat back on her heels on the boards. "He knew what he was doing to them."
 
 "Yes."
 
@@ -34,7 +34,7 @@ The sister came back with the bucket and the cloths. Lira wrung the first one ou
 
 "In the third," he said, after a while. "Did you see—"
 
-"Not tonight." She did not look round. "Tonight it's your knees. You can tell me the third tomorrow, all of it, with the book open, and I'll listen to every word." She lifted the left cloth, looked under it, put it back. Then, as if she could not quite help it: "I saw him look for you. That's all I saw. From the rope it looked like a man who'd lost somebody in a crowd and was standing on his toes to find them. In an empty circle. With you right there in front of him." She was quiet a moment. "Tomorrow."
+"Not tonight." She did not look round. "Tonight it's your knees. You can tell me the third tomorrow, all of it, with the book open, and I'll listen to every word." She lifted the left cloth, looked under it, put it back. Then, unable quite to help it: "I saw him look for you. That's all I saw. From the rope it looked like a man who'd lost somebody in a crowd and was standing on his toes to find them. In an empty circle. With you right there in front of him." She was quiet a moment. "Tomorrow."
 
 "He sat down next to you," she said, after a long time.
 
@@ -52,13 +52,13 @@ Lira wrung the cloth out and did not answer, and he could not tell from the side
 
 "Change them yourself if you wake," she said. "I'll hear you through the wall if you can't."
 
-She did not go down to the north window that night. He listened for her on the stairs, and she was not on them. The practice lamp over the alcoves stayed dark, and through the wall he heard her lie down, and turn over, and turn over again, and not sleep for a long time.
+She did not go down to the north window that night. He listened for her on the stairs, and she was not on them. The practice lamp over the alcoves stayed dark, and through the wall he heard her lie down, and turn over, and turn over again, and not sleep.
 
 ---
 
 He wrote the entry sitting up in bed, with the Power Log on his knees on top of the blanket and the candle-end moved to the chair, because the desk was four steps away and he did not have four steps.
 
-He did not write it under the Wind or the Pressure. It was not about either, mostly, so he turned to the back of the book, past the empty pages, to the place where he kept the things that were not fields, under *The fragments are not static*, and the farmer, and the fingerprints. He wrote the date, and then he sat for a while with the pencil over the paper, because there was a great deal and he wanted to put it down in the right order.
+He did not write it under the Wind or the Pressure. It was not about either, mostly, so he turned to the back of the book, past the empty pages, to the place where he kept the things that were not fields, under *The fragments are not static*, and the farmer, and the fingerprints. He wrote the date, and then he sat with the pencil over the paper, because there was a great deal and he wanted to put it down in the right order.
 
 *Brom. Main floor. Lost, fourth exchange, hand up. My hand.*
 
@@ -82,7 +82,7 @@ He stopped there, and read that last line again, and sat a long time looking at 
 
 He had a column for what every one of them cost him to use. He had kept it since the spring: the half-breath, the lock, the hip, the hollow, the wrist. He had priced every one of them down to the copper, and he had never in his life thought to price the other thing, the carrying, the cost of having a thing in you and keeping it shut while it leaned. And it had cost him. It had cost him twice tonight, in ground, on the main floor.
 
-He wrote it as plainly as he could.
+He wrote it as simply as he could.
 
 *Every ability has two ledgers. One is what it costs to use. The other is what it costs to carry it shut, and not use it. I've only been keeping the first. Open the second.*
 
@@ -92,13 +92,13 @@ He was going to close the book then, and had the cover half shut, when he opened
 
 *Also: made a friend today.*
 
-He looked at it for a while. It sat at the bottom of the page under all that arithmetic like a cat asleep on a ledger. He did not cross it out.
+He looked at it. It sat at the bottom of the page under all that arithmetic like a cat asleep on a ledger. He did not cross it out.
 
 He blew out the candle, and lay back with the cold cloths on his knees, and through the wall he could hear Lira still not sleeping.
 
 ---
 
-He could not do the stairs in the morning except sitting down, one at a time, the way a small child does them. So he did them that way, with his legs out in front of him and the bannister rail under his hand. At the bottom the heavyset man's wife looked at him and put a bowl of porridge in front of him without a word, and the sister began to tell him what her late husband had done for knees, which involved goose fat and a great deal of shouting.
+He could not do the stairs in the morning except sitting down, one at a time, as a small child does them. So he did them that way, with his legs out in front of him and the bannister rail under his hand. At the bottom the heavyset man's wife looked at him and put a bowl of porridge in front of him without a word, and the sister began to tell him what her late husband had done for knees, which involved goose fat and a great deal of shouting.
 
 Lira came down when he had finished, with her staff on her shoulder.
 
@@ -116,7 +116,7 @@ Lira came down when he had finished, with her staff on her shoulder.
 
 "He'll be there," said Lira, and went.
 
-He went down the row with the measuring stick, very slowly, a step and then the stick and then the other step. It took him most of the morning to get to the bottom of the hill. People he knew stopped him all the way down. The chestnut man gave him a chestnut for nothing and would not take the copper. The fruit woman said she had won a copper on him and he could have half of it, and then did not give him half of it. Red Cap came up out of nowhere and walked beside him for a while, looking at the stick.
+He went down the row with the measuring stick, very slowly, a step and then the stick and then the other step. It took him most of the morning to get to the bottom of the hill. People he knew stopped him all the way down. The chestnut man gave him a chestnut for nothing and would not take the copper. The fruit woman said she had won a copper on him and he could have half of it, and then did not give him half of it. Red Cap came up out of nowhere and walked beside him a little way, looking at the stick.
 
 "You lost," he said.
 
@@ -128,7 +128,7 @@ He went down the row with the measuring stick, very slowly, a step and then the 
 
 "That nobody knows what happened." Red Cap pulled his cap down and went off. "That's better than knowing," he said over his shoulder, "for talking."
 
-Dace was on the step of the Ironyard's side door when he came past it, in his shirtsleeves in the cold, with a cup of something steaming and the bill in his other hand. He had taken it down off the nail. He looked at Cael and the stick and the slow legs, top to bottom, the carter's look.
+Dace was on the step of the Ironyard's side door when he came past it, in his shirtsleeves in the cold, with a cup of something steaming and the bill in his other hand. He had taken it down off the nail. He looked at Cael and the stick and the slow legs, top to bottom.
 
 "You'll want this," he said, and put down the cup and took a small cloth purse out of his pocket.
 
@@ -170,7 +170,7 @@ Across the square the pump stood on its hollowed step with ice in the trough. Pe
 
 "However you like."
 
-"I don't know how I like. I haven't told it." He turned one loaf over on his knee, looking at the crust as if it had writing on it. "I'll tell you the end first. Then you'll know where it's going and you can stop me."
+"I don't know how I like. I haven't told it." He turned one loaf over on his knee, looking at the crust. "I'll tell you the end first. Then you'll know where it's going and you can stop me."
 
 The end was a night in the long room at Velmere, when he was fourteen. He had been sent out of it after supper, as he had been sent out of it most nights that month. But the door had not quite shut behind him, and he had stood in the dark of the passage with his hand on the wall and heard a man's voice through the gap say to his father: *The reading will want doing again. Not this year. Next spring, after the work. At your friend's station, where it can be done properly.* And his father had said, *Yes. Thank you. Yes.*
 
@@ -186,7 +186,7 @@ The end was a night in the long room at Velmere, when he was fourteen. He had be
 
 The middle, he said, was the hardest part to tell, because nothing happened in it.
 
-He had come home from the station Iron Skin and Copper with his mother's hand on his shoulder. For three weeks after, nobody in the house said one cruel word. He was very particular about that; he said it twice. Nobody shouted, and nobody sent him to eat in the kitchen. Only the long table went quiet. It went quiet in the way of a room where somebody has just stopped talking about you, every evening, when he came in to supper. His grandmother asked about his day in a voice he had heard her use once before, to a neighbour whose barn had burned. His sister wrote from the coast and did not mention it. His mother kept touching his shoulder in passing, as if to check he was still there. And in the mornings the yard man, who had stood over him with a stick since he was twelve, sat him down with his back against the estate wall and told him to stay there and not move until he was called. He did that every morning for a month, while the house decided what to do with him.
+He had come home from the station Iron Skin and Copper with his mother's hand on his shoulder. For three weeks after, nobody in the house said one cruel word. He was very particular about that; he said it twice. Nobody shouted, and nobody sent him to eat in the kitchen. Only the long table went quiet. It went quiet in the way of a room where somebody has just stopped talking about you, every evening, when he came in to supper. His grandmother asked about his day in a voice he had heard her use once before, to a neighbour whose barn had burned. His sister wrote from the coast and did not mention it. His mother kept touching his shoulder in passing. And in the mornings the yard man, who had stood over him with a stick since he was twelve, sat him down with his back against the estate wall and told him to stay there and not move until he was called. He did that every morning for a month, while the house decided what to do with him.
 
 "I thought it was so I'd be out of the way," said Brom. "While they talked in the long room."
 
@@ -204,7 +204,7 @@ He said it slowly, as if he had said it to himself a great many times and was he
 
 ---
 
-They sat for a while without saying anything. Cael found that he did not want to say anything quickly, and that Brom did not seem to need him to. It was the same feeling he had had in the alcove on the last afternoon, with a bench's length of stone between them and the sweeping going on out on the floor.
+They sat without saying anything. Cael found that he did not want to say anything quickly, and that Brom did not seem to need him to. It was the same feeling he had had in the alcove on the last afternoon, with a bench's length of stone between them and the sweeping going on out on the floor.
 
 He knew what the even thing would be. Brom had told him the end and the middle and the beginning, and stood them up in a row, and now it was his turn. He had thought, lying in bed with the cloths on his knees, about how he would do it. He had decided he would say it first, before he was asked, as he had said it to everybody who mattered since he came over the hills: put it on the wall between them in its own plain word before anybody else could set it down in a worse one.
 
@@ -212,7 +212,7 @@ He knew what the even thing would be. Brom had told him the end and the middle a
 
 Brom nodded.
 
-That was all; he did not go still, or look away, or do the thing with his face that the clerk's word usually did to faces. He nodded the way a man nods at a figure he had already worked out for himself and is glad to see somebody else get the same.
+That was all; he did not go still, or look away, or do the thing with his face that the clerk's word usually did to faces. He nodded. It was a figure he had already worked out for himself, and he seemed glad to see somebody else get the same.
 
 "I know," he said.
 
@@ -234,17 +234,17 @@ Brom seemed to think about that, and to find that it was true.
 
 Cael sat very still on the wall.
 
-He could have said nothing. He had said nothing to everybody in the district but Lira for a year, and it had been the right thing, every time. But Brom had not asked him what they were; he had told him what he had felt, the way he had told him about the shelves, and stopped exactly where feeling stopped. Cael found he wanted to give him something true back, and the smallest true thing he could find was still large.
+He could have said nothing. He had said nothing to everybody in the district but Lira for a year, and it had been the right thing, every time. But Brom had not asked him what they were; he had told him what he had felt, as he had told him about the shelves, and stopped where feeling stopped. Cael found he wanted to give him something true back, and the smallest true thing he could find was still large.
 
 "They're pieces," he said. "Of other things. I don't know how I came by them, not properly. I keep a book on them. What they do and what they cost. Everything I can find out."
 
-"Pieces," said Brom. He said it carefully, the way he had said *shelf*. "And no name. For the whole of it."
+"Pieces," said Brom. He said it carefully, as he had said *shelf*. "And no name. For the whole of it."
 
 "Not yet."
 
 "Does that matter to you? The name?"
 
-Cael thought about it honestly, because it was an honest question, and because Brom would know if he did not.
+Cael thought about it properly, because it was an honest question, and because Brom would know if he did not.
 
 "On the floor it makes no difference. They work, whatever they are. For later..." He looked at his hands on the stick. "Later on, I think it's the whole question. I don't know what it is yet. I've only got pieces of it."
 
@@ -254,13 +254,13 @@ Cael thought about it honestly, because it was an honest question, and because B
 
 Cael did not answer at once.
 
-It was not a small thing to be asked. The Power Log had been Lira's and his for a year, nobody else's. She had come into it a page at a time, the way she had come into everything of his, slowly, by being there. Hesk knew it existed because Cael had told him in letters, and that was all Hesk knew. There were things in it Cael had never said aloud even to her, and things he had written in ink that he could not rub out. To hand it to somebody was to hand them the whole of what he did not understand about himself, written down in his own hand where they could read it twice.
+It was not a small thing to be asked. The Power Log had been Lira's and his for a year, nobody else's. She had come into it a page at a time, as she had come into everything of his, slowly, by being there. Hesk knew it existed because Cael had told him in letters, and that was all Hesk knew. There were things in it Cael had never said aloud even to her, and things he had written in ink that he could not rub out. To hand it to somebody was to hand them the whole of what he did not understand about himself, written down in his own hand where they could read it twice.
 
 He looked at the big man at the other end of the wall, with the bread on his knees and his face turned toward the pump, who had told him his own end and middle and beginning without being asked, and had said *I don't think they were bad people* about the people who had sent him out of the gate.
 
 "Maybe," said Cael.
 
-Brom nodded, as though *maybe* was a word he had expected and was content to carry for a while.
+Brom nodded. *Maybe* seemed to be a word he had expected, and was content to carry.
 
 "I want to spar with you," said Brom.
 
@@ -272,13 +272,13 @@ He said it to the pump, after a while, in the same flat voice he used for everyt
 
 "I thought you might."
 
-Cael did. He was already seeing it: Iron Skin from a hand's breadth away instead of a bench's, the breath and the hold and the recovery not on his wrist but through his own knuckles, the man not as a column but as a thing he could feel. It would cost more, much more, than sitting on a bench. Every number he took would be bought with a bruise. It would also be the first true map he had ever had of anything that hit back.
+Cael did. He was already seeing it: Iron Skin from arm's length instead of a bench's, the breath and the hold and the recovery not on his wrist but through his own knuckles, the man not as a column but as a thing he could feel. It would cost more, much more, than sitting on a bench. Every number he took would be bought with a bruise. It would also be the first true map he had ever had of anything that hit back.
 
 "There'd have to be terms," said Brom.
 
 "Tell me."
 
-Brom held up one hand, and turned down a finger, as though he were reading figures off a slate.
+Brom held up one hand, and turned down a finger.
 
 "I use the read every time. All of it. I don't hold it back to make it kinder. Half a read gets you half the truth and you won't know which half."
 
@@ -324,7 +324,7 @@ She nodded slowly and turned her cup round on the table by its handle, the heavy
 
 "Will you come? In the mornings?"
 
-Lira thought about it, honestly, for longer than he expected.
+Lira thought about it for longer than he expected.
 
 "No," she said. "Not to begin with." She stood up and took both cups to the basin. "It's yours, that. Yours and his. If I'm standing in the arch I'll only be watching him, waiting for him to do it again." She set the cups down. "I'd rather find out what he is on my own time. Not on yours."
 

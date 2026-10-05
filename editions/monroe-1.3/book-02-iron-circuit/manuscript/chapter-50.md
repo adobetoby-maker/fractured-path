@@ -4,7 +4,7 @@ On the morning of the tenth day, the Friday, the mending stall had pennants.
 
 Cael saw them on his way up for bread after Lira's hour, with his forearms singing and his left knee stiff on the market steps. They hung from a string across the front of the stall like washing: small triangles of cheap red cloth, a dozen of them, with a short bar of white stitched across each one. It took him a moment to see that the white bar was meant to be a rope, and the red was the Ironyard's lamps, or the stone, or simply red, because red sold. The mending-stall woman sat under them with her iron spectacles on her nose and a needle going, stitching a thirteenth.
 
-"Two coppers," she said, without looking up. "Three for five. Had a carter buy six before breakfast for his nieces." She bit the thread. "Don't look at me like that, lad. I've mended the Ironyard's shirts for thirty years and never once made a copper off a bout. A woman's allowed one week."
+"Two coppers," she said, and went on stitching. "Three for five. Had a carter buy six before breakfast for his nieces." She bit the thread. "Don't look at me like that, lad. I've mended the Ironyard's shirts for thirty years and never once made a copper off a bout. A woman's allowed one week."
 
 He bought one, without knowing why, except that it seemed rude not to, and put it in his coat beside the Log, where it stayed.
 
@@ -12,7 +12,7 @@ The row had changed again in the four days since the betting man's split line. T
 
 Dace saw him over the men's shoulders and lifted the pencil an inch, which meant *wait*. The two men went off toward the eel market looking pleased with themselves, and Dace came over to him with the expression of a man who has just sold something he had sworn never to sell.
 
-"Stew," he said. "Inside my doors. On the night." He looked at the side door as if it had betrayed him. "Twelve years nobody's eaten inside that building but the rats. I've thrown men out for bringing in a pie." He turned the pencil over. "But I've got five hundred people who think they're coming on Tuesday, and room for four hundred if they all breathe in. They'll stand three hours. If they go out to eat they'll not get back in, and then they'll stand in the street and shout, and the street will be full of people shouting the night the whole hill's watching to see if we can run a thing properly." He put the pencil back against his chest. "So the eel-market men can have the corner by the slate. A copper a bowl, and they sweep up after, and if I find one bowl on Vell's table I'll throw the pot in the river."
+"Stew," he said. "Inside my doors. On the night." He looked at the side door, which had betrayed him. "Twelve years nobody's eaten inside that building but the rats. I've thrown men out for bringing in a pie." He turned the pencil over. "But I've got five hundred people who think they're coming on Tuesday, and room for four hundred if they all breathe in. They'll stand three hours. If they go out to eat they'll not get back in, and then they'll stand in the street and shout, and the street will be full of people shouting the night the whole hill's watching to see if we can run a thing properly." He put the pencil back against his chest. "So the eel-market men can have the corner by the slate. A copper a bowl, and they sweep up after, and if I find one bowl on Vell's table I'll throw the pot in the river."
 
 "You've never let anybody."
 
@@ -20,7 +20,7 @@ Dace saw him over the men's shoulders and lifted the pencil an inch, which meant
 
 The paper-stall man asked him again whether he was feeling well, with less care this time, and Cael said *very*, and the man nodded and let the slate line stand where it was.
 
-All of it was a long way off. He noticed it the way he noticed weather, as a thing that was happening round him, and carried the bread back down the hill, and ate it on the bench in the alcove with Lira's staff leaning on the wall beside him. He had knocked her thirteen times that morning, with her leave, and twelve had answered, and he had called every one aloud. She had said *yes* to each without stopping, and at the end she had said *twelve*, and nothing else, and gone up to sleep for an hour before her own day. That was what mattered this morning, and the pennant in his coat did not.
+All of it was a long way off. He noticed it as a thing that was happening round him, and carried the bread back down the hill, and ate it on the bench in the alcove with Lira's staff leaning on the wall beside him. He had knocked her thirteen times that morning, with her leave, and twelve had answered, and he had called every one aloud. She had said *yes* to each without stopping, and at the end she had said *twelve*, and nothing else, and gone up to sleep for an hour before her own day. That was what mattered this morning, and the pennant in his coat did not.
 
 It had been the strangest of all the mornings, because with her leave given the alcove had become a different room. Every time she came at him he could feel her coming for an instant before she came, small and quick and alive at the end of his knock, and every time he called it aloud she said *yes* without breaking stride, so that the morning had gone by in a kind of conversation, his voice and her staff and the one word back. He had not been hit nearly as often as he had been all week, but hard enough, the times he was, to remember that a knock was not a wall.
 
@@ -64,19 +64,19 @@ There was no time, as Cael knew afterward, no space between the strike and the g
 
 And he did not need to.
 
-It was as if the gathering and his answer to it were one movement, the way a foot finds the last stair in the dark before you know you have reached for it. There was no reading first and then deciding, and no deciding first and then doing. There was Brom drawing in, small and fast, and there was Cael, in the same instant, already meeting it. He was not meeting the push, which had not happened yet, but the drawing-in itself, the gathered thing, as it gathered. It was not the knock, or the turned shoulder of the redirect, or the hip, or any of the three things he had. He could not afterward have said what part of him it was.
+The gathering and his answer to it were one movement, the way a foot finds the last stair in the dark before you know you have reached for it. There was no reading first and then deciding, and no deciding first and then doing. There was Brom drawing in, small and fast, and there was Cael, in the same instant, already meeting it. He was not meeting the push, which had not happened yet, but the drawing-in itself, the gathered thing, as it gathered. It was not the knock, or the turned shoulder of the redirect, or the hip, or any of the three things he had. He could not afterward have said what part of him it was.
 
 And the push was not there.
 
-Brom's hands came forward, the way they had a hundred times that week, but what should have been in them was not in them. It had come apart somewhere between being gathered and being sent, the way a wave comes apart on a flat beach, and Brom's two hands arrived at Cael's chest with nothing behind them but the weight of two hands, and stopped there, resting on his shirt.
+Brom's hands came forward, as they had a hundred times that week, but what should have been in them was not in them. It had come apart somewhere between being gathered and being sent, the way a wave comes apart on a flat beach, and Brom's two hands arrived at Cael's chest with nothing behind them but the weight of two hands, and stopped there, resting on his shirt.
 
 They stood like that, and neither of them moved, Brom's hands flat on Cael's chest. Cael's own hands were somewhere in the air between them, open, where they had been when it happened, and he did not remember putting them there.
 
 Then Cael noticed that nothing hurt.
 
-It took him a moment to understand why that was strange. He had spent the whole fortnight being hurt in small, exact ways, each of them a price for something, so that by now his body was a kind of ledger that he could read without thinking: the forearm for Ansel, the ribs for Lira's first morning, the groove through the shoulder for nine redirects. He had expected, without knowing he expected it, that whatever had just happened would add a line to that ledger, the way everything else had.
+It took him a moment to understand why that was strange. He had spent the whole fortnight being hurt in small, exact ways, each of them a price for something, so that by now his body was a kind of ledger that he could read without thinking: the forearm for Ansel, the ribs for Lira's first morning, the groove through the shoulder for nine redirects. He had expected, without knowing he expected it, that whatever had just happened would add a line to that ledger, as everything else had.
 
-He waited for it, because he knew how to wait for a price. Every one of the things he had came with one, and he could name every one: the hip's thin line from crest to knee, and the lock after it; the knock's stripe behind the eyes; the giving face's hollow under the ribs; the redirect's groove through shoulder and side. He stood in the middle of the alcove and waited for this one to send its bill, the way he would have waited for a bruise to come up after a fall.
+He waited for it, because he knew how to wait for a price. Every one of the things he had came with one, and he could name every one: the hip's thin line from crest to knee, and the lock after it; the knock's stripe behind the eyes; the giving face's hollow under the ribs; the redirect's groove through shoulder and side. He stood in the middle of the alcove and waited for this one to send its bill.
 
 Nothing came.
 
@@ -96,13 +96,13 @@ Brom looked at him for a moment, and then went back to his place, and set his fe
 
 Cael went after it, whatever it had been.
 
-There was nothing there to reach for. He felt for it the way he would have felt for the hip, or the knock, or the turning shoulder, and his hands closed on air. Brom's push came, ordinary and whole, and took him in the chest and put him back three steps against the wall.
+There was nothing there to reach for. He felt for it as he would have felt for the hip, or the knock, or the turning shoulder, and his hands closed on air. Brom's push came, ordinary and whole, and took him in the chest and put him back three steps against the wall.
 
 "Again," said Cael, from the wall.
 
 They did it again, and there was nothing; only the push, whole, and the wall.
 
-He tried it standing closer, and then farther off. He tried it with Brom not striking at all, only gathering. He tried it with his eyes half shut, the way he had been standing when it came. Then, last, he tried knocking first, from a planted foot, to see whether the knock would lead him to it. The knock came back *inward*, clean and ordinary, and he redirected the push at the slant out of pure habit before he could stop himself. The shoulder sent its bill at once, all along the groove, as if to show him what a real price felt like.
+He tried it standing closer, and then farther off. He tried it with Brom not striking at all, only gathering. He tried it with his eyes half shut, as he had been standing when it came. Then, last, he tried knocking first, from a planted foot, to see whether the knock would lead him to it. The knock came back *inward*, clean and ordinary, and he redirected the push at the slant out of pure habit before he could stop himself. The shoulder sent its bill at once, all along the groove: a real price.
 
 It went the way a name goes when you turn to say it to somebody, known one moment and simply absent the next, with no sense of where it has gone or how to call it back. Whatever had opened had shut again behind itself, cleanly, and left no handle on the outside.
 
@@ -120,7 +120,7 @@ Cael sat on the floor facing him, while the straw post swung a little above them
 
 "Tell me what you read," said Cael. "Exactly. Not what you think it was."
 
-Brom took a long time. He sat with his big hands on his knees and his eyes on the floor between them, and Cael could see him go back through it, slowly, the way he read a page, from the front.
+Brom took a long time. He sat with his big hands on his knees and his eyes on the floor between them, and Cael could see him go back through it, slowly, from the front.
 
 "I had the strike," he said at last. "I felt your forearm meet it. Then I gathered, under it, the way I've been working on the post. Fast for me. And I felt you." He stopped. "I've felt you all week, every push. When the knock comes, it's like somebody rapping once on a door I'm leaning against. And then your answer, after, when you turn or drop or go. There's always a gap between them. The knock, and then you. However quick you've got this week, there's a gap. There's a gap for everybody. There's a gap for me. I read a man, and then I answer him. I've never once in my life got to skip it, against anybody."
 
@@ -134,7 +134,7 @@ Cael said nothing.
 
 "No." Cael was quite sure. He had the Log by heart; he could have recited every field of every entry. *Wind-adjacent. Pressure-adjacent. Iron-adjacent.* Three, and their notices, and their costs. "There's nothing in the Log like it. Nothing I've had has ever done that, or anything near it."
 
-"I know. I've read it." Brom was quiet for a moment. Then he said it carefully, like a man setting down a thing that might break.
+"I know. I've read it." Brom was quiet for a moment. Then he said it carefully, setting it down like a thing that might break.
 
 "What I read in that one exchange was Tide-adjacent."
 
@@ -164,13 +164,13 @@ Brom looked at him.
 
 "Yes."
 
-Brom nodded slowly, as if Cael had said something sensible.
+Brom nodded slowly.
 
 "It'd frighten me," he said. "A thing that's free when you've done nothing to buy it." He got up off the floor, stiffly, and held his hand down to Cael. "We'll not try it again today. Or tomorrow. You'll write it down, and we'll leave it where it fell, and if it comes back it comes back. And we'll do the tired stage tomorrow as if it never happened, because on Tuesday it won't be there to help you, and you'd better not walk out there hoping it will."
 
 Cael took the hand and let himself be pulled up.
 
-"You'll not tell anybody," he said. It was not quite a question.
+"You'll not tell anybody," he said.
 
 "It's in the alcove." Brom let go of his hand. "Like my method. Like everything of yours. That was the fifth term, and it holds both ways." He looked at the place on the floor where they had been sitting. "I'll tell you what I'll do. I'll think about it, every way I can think, and I'll not come to anything, and I'll not tell you what I didn't come to unless you ask." He picked his coat off its nail. "That's the most honest thing I can give you about it. It's not much."
 
@@ -232,7 +232,7 @@ It would not be there on Tuesday; Brom was right, and he would not walk out ther
 
 He went down the stairs to let Lira drop him on his head for an hour, and found, at the bottom, that his hands had stopped shaking somewhere on the way down.
 
-She did not mention it once in the whole hour. She came at him from the right and the left and the front with nothing before it, and he knocked when he could and dropped when he could not, and called what the knock gave him, and she said *yes* or *no* to each. At the end of it she stood in the middle of the alcove with her breath going white and looked at him for a while.
+She did not mention it once in the whole hour. She came at him from the right and the left and the front with nothing before it, and he knocked when he could and dropped when he could not, and called what the knock gave him, and she said *yes* or *no* to each. At the end of it she stood in the middle of the alcove with her breath going white and looked at him.
 
 "You were here," she said. "The whole hour. I thought you'd be somewhere else."
 
@@ -246,6 +246,6 @@ He lay awake afterward for a long time in the dark, with the window a grey squar
 
 He thought about Brom's hands on his chest with nothing behind them, and about the clerk's nine pages, and Ansel buttoning his coat to the throat, and the drop that had gone into his legs. Four days. Somewhere up the hill above the saddler's, a man who had been paid for since he was ten was lying in a narrow bed, or not lying in it, and thinking about whatever such a man thought about four days out. Cael tried to picture him and could not, because he had never seen him. He had a name and a tier and nine pages, and the half-second that had come apart in the alcove that afternoon was more real to him than the man was.
 
-And then, somewhere toward morning, he found that he was thinking something he had not let himself think all fortnight. He was not thinking about how to survive the floor, or how to learn the most from losing on it, the way he had learned from Brom and from Bede. He was thinking about winning it. He was thinking about it plainly, as a thing that might happen, the way he would have thought about the weather tomorrow.
+And then, somewhere toward morning, he found that he was thinking something he had not let himself think all fortnight. He was not thinking about how to survive the floor, or how to learn the most from losing on it, as he had learned from Brom and from Bede. He was thinking about winning it, as a thing that might happen.
 
-He could not have said where it came from. He lay still and looked at it for a long time in the dark, the way he looked at a new line in a column, and did not cross it out.
+He could not have said where it came from. He lay still and looked at it in the dark, as at a new line in a column, and did not cross it out.

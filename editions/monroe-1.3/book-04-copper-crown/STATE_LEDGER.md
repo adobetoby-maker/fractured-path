@@ -717,7 +717,7 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 **Movement 6 CLOSED (2026-10-05).** Recheck r1 on the Claude Fable review seat (Sol out of quota): CLOSE WITH LINE FIXES — three applied (ch40 Log 'inside a day'; ch39 '41 pages'; ch44 'two different pages numbered eleven'). All brief items resolved; overlap 0/9, gates 0, probe 1%/10%; mean 13.61, ≥40w 3.7%, 1,018 w/scene.
 
-## After Movement 7 (chapters 45–50; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 7 (chapters 45–50; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CALENDAR: the 13th of Reaping (d177) the delegation's first morning; the facility review in hall three on the 14th (Gault's three questions, the receipt stamp, the taxonomy also on the 14th); the charter sitting on the 15th (d179); ends 'Four days to the final. Five to the twentieth.' No English weekday names — the book's scheme only. Lira's hip will be ten days old at the final (19th).
@@ -806,3 +806,5 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 - **Karis's identification (flag):** the register's "per standardization directive" means this directive ("There's only one"), and the article that changed the word is one of its four green-tabbed terminology passages, four articles from the transitional article. It is held as a question; no new source names the word.
 - **Karis barred from the records hall until the fifteenth (flag, minor),** in writing by Bracken, so she can sit at the table on the fifteenth.
 
+
+**Movement 7 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — three applied (ch45 doubled 'Karis had ruled'; ch49 the form's path to the tray; the ch49 Cael beat's breath-count clause). All brief items resolved; overlap 0/9, gates 0, probe 1%/11%; mean 13.88, ≥40w 3.5%, 933 w/scene.

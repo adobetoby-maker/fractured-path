@@ -10,7 +10,7 @@ The first answer threw him off his cross and two strides across the alcove, into
 
 He got up. The first hour was mostly that: the stone, then his hands under him, then his feet.
 
-But he learned more in that hour than in the two mornings before it together. Brom at full did not only send him further; he sent him truer. The careful answers had been rounded off at the edges, softened in the turn, and now the edges were back, every one of them. He could feel the lean in the first touch as plainly as a word spoken aloud, and he found that if he kept the whole of himself in the skin of his knuckles, he knew before the turn came which wall he was going to hit.
+But he learned more in that hour than in the two mornings before it together. Brom at full did not only send him further; he sent him truer. The careful answers had been rounded off at the edges, softened in the turn, and now the edges were back, every one of them. He could feel the lean in the first touch as clearly as a word spoken aloud, and he found that if he kept the whole of himself in the skin of his knuckles, he knew before the turn came which wall he was going to hit.
 
 He did not stop to write anything; his hands would not have let him. After a while it stopped being a test of anything. It was only a thing his body did, over and over, in the grey light, like a man splitting wood: set, swing, the shock up the arms, set again.
 
@@ -67,9 +67,9 @@ He sat with the pen still uncapped in his fingers and read the six words again, 
 
 And *limited range*: that one almost made him laugh. He had worked out the range of the original himself, from a bench, by counting where a big man chose to sit. Now the form was telling him that his copy of it was short too, and he did not yet know how short. Shorter than a bench, he thought, and very likely a good deal shorter.
 
-He looked up from the page at last, at the big man standing on the cross in front of him with his hands still half set, and understood exactly whose *pressure read* it was, and exactly what *limited range* meant. The length of a bench. Close, whatever you do.
+He looked up from the page at last, at the big man standing on the cross in front of him with his hands still half set, and understood whose *pressure read* it was, and what *limited range* meant. The length of a bench. Close, whatever you do.
 
-He had not asked for it; he had been splitting wood. He had not reached for anything all morning; there had been nothing in him reaching. It had come the way the Wind had come and the way the Pressure had come, after close days of somebody's whole body against his own: not taken, not called, simply arrived and found in him afterward, like a word you discover you have picked up from someone you have spent too long beside.
+He had not asked for it; he had been splitting wood. He had not reached for anything all morning; there had been nothing in him reaching. It had come as the Wind had come and the Pressure had come, after close days of somebody's whole body against his own: not taken, not called, simply arrived and found in him afterward, like a word you discover you have picked up from someone you have spent too long beside.
 
 ---
 
@@ -77,11 +77,11 @@ Brom had not moved; he was standing on his cross with his weight half set and hi
 
 He reversed the book on his knee, so the ink faced the other way, and lifted it.
 
-Brom came off the cross then, and crouched, so that their heads were level, and took the book in both hands as though it might spill. He read the notice with his lips moving very slightly, the way he had read the keeper's book from the front, each word on its own, making sure of each before he trusted the next. He read it again. Then he sat back on his heels and looked at Cael, and then at the page, and then at Cael.
+Brom came off the cross then, and crouched, so that their heads were level, and took the book in both hands. He read the notice with his lips moving very slightly, as he had read the keeper's book from the front, each word on its own, making sure of each before he trusted the next. He read it again. Then he sat back on his heels and looked at Cael, and then at the page, and then at Cael.
 
 "You absorbed part of my Path."
 
-He did not say it as an accusation. He did not say it as a wonder, either. He said it the way he had said *something I've never seen before* in the alcove a fortnight ago: a man reading a figure off a page and wanting to get every digit of it right.
+He did not say it as an accusation. He did not say it as a wonder, either. He said it as he had said *something I've never seen before* in the alcove a fortnight ago, flat and careful, getting every word of it right.
 
 "Part of it," said Cael. "The edge. The read, it says, and not much of that. Limited." He looked at his own hands, turned up on his knees, blue at the wrists. "Not the hardness. I don't think I'll get that by standing here. I don't think it works like asking."
 
@@ -101,9 +101,9 @@ Brom was quiet. Then he said, carefully, because it was the term and he had prom
 
 "Not yet. I've got it. That's a different thing." He thought of the Wind, months of mornings on the straw before it would come when he called it. "It'll be a long while. If it's like the others."
 
-They sat on the floor of the alcove facing each other in the grey light, the boy with his legs crossed and the big man on his heels, and neither of them said anything for a while.
+They sat on the floor of the alcove facing each other in the grey light, the boy with his legs crossed and the big man on his heels, and neither of them said anything.
 
-Cael was thinking about the wall at the top of the market square, and the bread, and *Show me the log sometime*. He had said *maybe*, and he had meant it: not *no*, and not *yes*, but *not until I know*. He had thought it would take a long time to know, and that he would have to watch the man for months, the way he watched everybody, and add him up, and come to a ruling.
+Cael was thinking about the wall at the top of the market square, and the bread, and *Show me the log sometime*. He had said *maybe*, and he had meant it: not *no*, and not *yes*, but *not until I know*. He had thought it would take a long time to know, and that he would have to watch the man for months, as he watched everybody, and add him up, and come to a ruling.
 
 But he had watched him already. He had watched him for a month from a bench, and on the main floor through four exchanges, and on a wall telling the end of his own story before its beginning, and for three mornings a forearm off with his whole weight coming back up Cael's arms on every line it was sent. There was nothing left in the man to add up. There had not been, he thought, since the wall.
 
@@ -129,7 +129,7 @@ Of course he did. He sat down properly on the alcove floor with his back against
 
 Cael sat across from him and watched him do it, and found it was the hardest thing he had ever sat through. Harder than the main floor, because on the main floor he had at least been able to move.
 
-Brom read the six fields with their *Claim* and *Evidence* and *Ruling*. He read the Wind, the whole of it: the half-breath, the lock, the hip, the fan and the empty quarter, *It does not shorten. It is not a fault. It is a price.* He stopped on that for a long time. He read the REVISIONS, and the update word for word, and the chain of two, *the fill shows*. Once he lifted his eyes from the page to Cael's chest, the way Lira had, and went back down.
+Brom read the six fields with their *Claim* and *Evidence* and *Ruling*. He read the Wind, the whole of it: the half-breath, the lock, the hip, the fan and the empty quarter, *It does not shorten. It is not a fault. It is a price.* He stopped on that. He read the REVISIONS, and the update word for word, and the chain of two, *the fill shows*. Once he lifted his eyes from the page to Cael's chest, as Lira had, and went back down.
 
 He read the Pressure more slowly still: the taking face and the giving face, and the wrist, and the ceiling, *egg, fist, hole*. He read *It isn't the thing that fails past three. It's me*. And then he came to the bottom of the entry, and Cael watched his eyes go along a line, and stop, and go back to the start of it, and he knew which line it was.
 
@@ -147,7 +147,7 @@ It was the second time in a week, and it was larger than the first. It came out 
 
 "The ink one's further down."
 
-Brom read the ink one. *Against B.: no giving face. Not once.* He stopped laughing and looked at it for a while, and then, without saying anything, he looked across at Cael's right shoulder, the one the quarter had rung like a bell, and back to the page.
+Brom read the ink one. *Against B.: no giving face. Not once.* He stopped laughing and looked at it, and then, without saying anything, he looked across at Cael's right shoulder, the one the quarter had rung like a bell, and back to the page.
 
 He went on.
 
@@ -165,7 +165,7 @@ He read the back of the book, the things that were not fields. *The fragments ar
 
 Then he came to the bottom of the page, and the small line under the column, and stopped.
 
-He did not laugh at that one, or say anything. He sat with the book open on his knees and looked at the line for a long while, and Cael, across the alcove, watched the back of the big man's neck go slowly red, from the collar up, all the way to his ears. Brom did not look up. He turned the page, quite carefully, onto the morning's notice in its fresh ink, and read that again, and then he closed the book and held it out across the stone in both hands.
+He did not laugh at that one, or say anything. He sat with the book open on his knees and looked at the line, and Cael, across the alcove, watched the back of the big man's neck go slowly red, from the collar up, all the way to his ears. He turned the page, quite carefully, onto the morning's notice in its fresh ink, and read that again, and then he closed the book and held it out across the stone in both hands.
 
 Cael took it.
 
@@ -173,7 +173,7 @@ Cael took it.
 
 "I know."
 
-"Good. That means you get to choose the word." The corner of his mouth went in, and stayed in.
+"Good. That means you get to choose the word."
 
 ---
 
@@ -201,7 +201,7 @@ Cael waited.
 
 "Nobody else."
 
-Brom nodded, as if a number had come out where he expected.
+Brom nodded.
 
 He stood a while with his hand on the coat on its nail, not putting it on.
 
@@ -245,7 +245,7 @@ Lira sat back with her hands flat on the table either side of the book. Then she
 
 "The whole Log," said Cael. "In the alcove. He read it from the front."
 
-She did not say anything for a while. She turned the lamp down a little, which it did not need, and turned it up again.
+She did not say anything. She turned the lamp down a little, which it did not need, and turned it up again.
 
 "That was ours," she said at last.
 
@@ -255,11 +255,11 @@ He had known she would say it, or something like it, and he had thought on the w
 
 "Like what?"
 
-"Like a man who's counted his own teeth." She almost smiled. "What did he say? When he'd read it."
+"Like you've broken something of mine." She almost smiled. "What did he say? When he'd read it."
 
 Cael told her. *Something no one has a word for. You get to choose the word.*
 
-Lira listened to it with her head on one side. Then she said, quietly, "He's right," as if it had cost her something to say.
+Lira listened to it with her head on one side. Then she said, quietly, "He's right." It cost her something to say.
 
 "He laughed," said Cael. "At the Pressure. At *See the sheet*."
 
@@ -267,7 +267,7 @@ Lira listened to it with her head on one side. Then she said, quietly, "He's rig
 
 "Twice this week. Once when I sat down on the floor, and once at that."
 
-Lira looked at him for a long moment, and then down at the notice, at the six words of its *Note*.
+Lira looked at him, and then down at the notice, at the six words of its *Note*.
 
 "Mine didn't come with a note," she said. "The Wind. When you got it off me."
 
@@ -277,10 +277,10 @@ Lira looked at him for a long moment, and then down at the notice, at the six wo
 
 "I'd have liked one too."
 
-"You'd have argued with it," said Lira. "Then you'd have tested it to find out whether it was lying." And then, as if she had only just heard it: "He read it from the front."
+"You'd have argued with it," said Lira. "Then you'd have tested it to find out whether it was lying." And then, hearing it at last: "He read it from the front."
 
 "From the inside of the cover."
 
-Lira laughed then, short and surprised, the way Brom had, and put her hand over her eyes.
+Lira laughed then, short and surprised, as Brom had, and put her hand over her eyes.
 
 "Of course he did," she said. "Of course he did."

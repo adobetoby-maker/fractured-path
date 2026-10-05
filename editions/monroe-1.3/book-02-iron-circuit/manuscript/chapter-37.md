@@ -180,7 +180,7 @@ Cael did not deny it. He did not think it would have been honest to.
 
 "I haven't." Cael heard himself say it, and was glad of it, and knew how close he had come that morning to needing to say something else. "Only eyes. Only from where anybody could stand."
 
-"Then it's yours, fair, whatever it is." Keth was quiet a moment. "So I asked for you because I want to know what three months of that bought. You've been reading the whole floor all season like a man reading the price board, and you lost to the big one and learned something from it, and you've beaten everything else they've put up. I've been the line at Iron in this building for four years. If you're past it, I want to be the one who finds out, and not somebody Dace books because the square's been empty too long." He paused. "And I'd like to see it. Whatever you've got on me, I'd like to see it come at me."
+"Then it's yours, fair, whatever it is." Keth was quiet a moment. "So I asked for you because I want to know what three months of that bought. You've been reading the whole floor all season, and you lost to the big one and learned something from it, and you've beaten everything else they've put up. I've been the line at Iron in this building for four years. If you're past it, I want to be the one who finds out, and not somebody Dace books because the square's been empty too long." He paused. "And I'd like to see it. Whatever you've got on me, I'd like to see it come at me."
 
 "It might not."
 

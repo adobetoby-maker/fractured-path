@@ -1,14 +1,14 @@
 # Chapter 48 — Declined to Be Interesting
 
-On the sixth day, the Monday, the drop went right thirty times in a hundred, and Lira said nothing about it at all, which he had learned to take as the best thing she could say. His left knee had gone stiff on the stairs and stayed stiff till noon, and his forearms were the colour of a plum gone over. When he went up to the market for bread at midday, the betting man had his line at last, chalked large across the slab under the visitor's name, and it was two lines, not one.
+On the sixth day, the Monday, the drop went right thirty times in a hundred, and Lira said nothing about it at all, which he had learned to take as the best thing she could say. His left knee had gone stiff on the stairs and stayed stiff till noon, and his forearms were yellow and blue from the wrist up. When he went up to the market for bread at midday, the betting man had his line at last, chalked large across the slab under the visitor's name, and it was two lines, not one.
 
 "Practitioners," said the betting man, tapping the top figure, which was long against Cael, three and four to one. "Anybody with a card in his coat who knows what rank eight means. They'll not touch you." He tapped the lower figure, which was short, nearly even. "The row. The stalls, the carters, the women at the pump. They've no idea what rank eight means and they don't care. You're theirs." He looked at the two figures with the frank dislike of a man whose trade was making two crowds agree. "I've never had a line split like it. I can't make it one number. Every time I shorten the top, the row comes and lays money and the bottom gets shorter still."
 
-Cael looked at the slab for a long moment; it was the first time he had seen what the district thought he was written down in figures, and it was two different things at once.
+Cael looked at the slab; it was the first time he had seen what the district thought he was written down in figures, and it was two different things at once.
 
 That afternoon Cael planted his foot before he knocked, every time, and arrived before he asked, and the knock began to come back to him.
 
-It was slow work, slower than the standing had been, because there was no way to plant and arrive and ask without stopping, and stopping in the middle of a circling man was exactly the thing a fight would never let him do for long. So he learned to make the stop small. He learned to let the left foot come down as Brom's weight came round, and to let the knock go out in the instant between the foot touching and the next step beginning, a gap so short that he could not have measured it with a pulse. When he caught the gap, the answer came back nearly as clean as it had at rest: *inward*, *nothing*, *inward*, and once *going left*, as Brom threw the slow push at the wall instead of at him to see if Cael would notice. When he missed the gap, it was smear, or it was the stone floor answering instead of the man.
+It was slow work, slower than the standing had been, because there was no way to plant and arrive and ask without stopping, and stopping in the middle of a circling man was the one thing a fight would never let him do for long. So he learned to make the stop small. He learned to let the left foot come down as Brom's weight came round, and to let the knock go out in the instant between the foot touching and the next step beginning, a gap so short that he could not have measured it with a pulse. When he caught the gap, the answer came back nearly as clean as it had at rest: *inward*, *nothing*, *inward*, and once *going left*, as Brom threw the slow push at the wall instead of at him to see if Cael would notice. When he missed the gap, it was smear, or it was the stone floor answering instead of the man.
 
 Thirteen in twenty.
 
@@ -38,7 +38,7 @@ They read it at the kitchen table after supper, under the lamp, the three of the
 
 It was nine pages in a small upright clerk's hand, faded where it had been folded, and it had been written five years ago by somebody who signed it only with a set of initials and a guild mark Cael did not know. It had been written for a house, not for a fighter; the first page said so. Somebody had been paid to sit at the back of the halls in Reydan's city for two seasons and write down what the academy's promising boy did, so that the house paying for it would know whether to put its own promising boy in his way.
 
-Brom read it first, all nine pages, slowly, from the front, the way he read everything, and then turned back to the beginning and read it again without a word. Then he slid the pages across the boards, and Cael went through them three times, the third with a pencil, putting what mattered into the grey book in his smallest hand, and passing each page on to Lira as he finished with it.
+Brom read it first, all nine pages, slowly, from the front, and then turned back to the beginning and read it again without a word. Then he slid the pages across the boards, and Cael went through them three times, the third with a pencil, putting what mattered into the grey book in his smallest hand, and passing each page on to Lira as he finished with it.
 
 Most of it they already knew, from Ansel and the carters, set down at more length by a man who had been paid by the page. The clerk had seen the start of the burst perhaps twice in two seasons, and thought the boy did not gather so much as stay gathered, the way a spring is wound before anybody touches it. The four rematches he had watched each read like a different fighter, with a different distance and rhythm and a different first exchange. His last page, for the house, said only that every good plan against the boy lasted an exchange or two, and that sooner or later every opponent ran out of plans before he ran out of answers.
 
@@ -86,7 +86,7 @@ He wrote it in the grey book that night under the four thin lines on Reydan's pa
 
 *Lost once. To a man who gave him nothing and waited. Overcommitted in the fifth, looking for something to answer. Won the rematch in two. — L.: Maud did it to me. It works on people who've never been made to wait.*
 
-And under that, after a while, in ink: *I don't wait any more. I used to. Find out whether I still can.*
+And under that, in ink: *I don't wait any more. I used to. Find out whether I still can.*
 
 ---
 
@@ -116,7 +116,7 @@ He sat on the bench with his eyes shut.
 
 "Twelve's what the shoulder will sell me. If I buy a thirteenth I'll be paying for it on the floor." He moved the arm, slowly, in a circle, and listened to it. "I'd rather walk out there owning three I haven't spent than with the groove worn through."
 
-Brom looked at him with his big face for a long time, the way he looked at a page he had read twice and was about to read a third time to be sure of it.
+Brom looked at him with his big face, the look he gave a page before he read it a third time to be sure of it.
 
 "You've got older this week," he said.
 
@@ -128,9 +128,9 @@ Brom looked at him with his big face for a long time, the way he looked at a pag
 
 He had been failing the drop all evening.
 
-He knew why: his left knee had taken six days of dropping and had begun, that afternoon, to refuse, not with pain exactly but with a kind of slowness, a hitch at the bottom of the drop where the roll was meant to begin. Lira came at him from the right with nothing before it, and he dropped, and the knee hitched, and the roll came a moment late, and the staff found him every time, across the outside of the right shoulder or the side of the head. He had stopped counting how many times, and he was favouring the right side now, bent a little over the ribs she had found the first morning, and she could see it, and he could see her seeing it.
+He knew why: his left knee had taken six days of dropping and had begun, that afternoon, to refuse, not with pain but with a kind of slowness, a hitch at the bottom of the drop where the roll was meant to begin. Lira came at him from the right with nothing before it, and he dropped, and the knee hitched, and the roll came a moment late, and the staff found him every time, across the outside of the right shoulder or the side of the head. He had stopped counting how many times, and he was favouring the right side now, bent a little over the ribs she had found the first morning, and she could see it, and he could see her seeing it.
 
-She stood off after one particularly bad one and looked at him for a while without speaking.
+She stood off after one particularly bad one and looked at him without speaking.
 
 Then she came over, not with the staff, and put her hand on his shoulder. She did it for no reason that had anything to do with the drill. It was her left hand, the one with the knuckle that talked, and it stayed there for about as long as a breath.
 
@@ -146,7 +146,7 @@ She came from the right with nothing before it, fast, faster than she had come a
 
 And he was not there.
 
-He did not know where he had gone until he was there. He was low and to the right, on the right foot, a body's width over, with the staff going by above his head through the place his head had been, and his knee had not hitched, and he had not asked his knee anything. He had not asked anything at all. Somewhere between Lira's hand on his shoulder and her coming at him, his body had stopped waiting for him to tell it what to do and simply done the thing it had been shown four hundred times, the way water goes downhill.
+He did not know where he had gone until he was there. He was low and to the right, on the right foot, a body's width over, with the staff going by above his head through the place his head had been, and his knee had not hitched, and he had not asked his knee anything. He had not asked anything at all. Somewhere between Lira's hand on his shoulder and her coming at him, his body had stopped waiting for him to tell it what to do and simply done the thing it had been shown four hundred times.
 
 He stood up slowly and looked at his own legs, half offended, as if they had gone somewhere without him.
 
@@ -168,7 +168,7 @@ At the corner by the pump she stopped.
 
 "What is?"
 
-"What just went into your legs. And what I'm after in my hands." She looked down at her left hand in its wrist cloth. "Maud took a year. I want it in less. But it's not a thing you can know your way into, is it? I know where the middle of my catch is to the width of a finger. Brom put his hand in it eleven times one morning and showed me. Knowing it doesn't help at all. It has to go in where the knowing can't reach, like yours just did, and then it's not knowing any more. It's just what you do."
+"What just went into your legs. And what I'm after in my hands." She looked down at her left hand in its wrist cloth. "Maud took a year. I want it in less. But it's not a thing you can know your way into, is it? I know where the middle of my catch is. Brom put his hand in it eleven times one morning and showed me. Knowing it doesn't help at all. It has to go in where the knowing can't reach, like yours just did, and then it's not knowing any more. It's just what you do."
 
 "How long did it take you? The step that doesn't stop."
 
@@ -180,6 +180,6 @@ At the door she stopped again, with her hand on the latch, as she sometimes did.
 
 At the crate desk, very late, he took out the Log and turned to the two columns at the back. The question mark was still there in pencil beside *The right is only ever my feet*.
 
-He rubbed it out, and then drew a line through the whole entry under *Shape*, a single line, so that it could still be read. He wrote it again at the foot of *Habit*, with the cost beside it the way every habit had a cost.
+He rubbed it out, and then drew a line through the whole entry under *Shape*, a single line, so that it could still be read. He wrote it again at the foot of *Habit*, with the cost beside it, as every habit had a cost.
 
 *Going right. Trained it. The drop and the roll. Seven days, both knees, one shoulder, most of my ribs, and Lira's lamp for a fortnight. Not quick. Quicker than it was. And no doorway at the end of it.*

@@ -6,7 +6,7 @@ Cael had known he would not. A fortnight of watching had told him that much, and
 
 So Cael went to him.
 
-He went on his feet, at a walk that was not quite a walk, with the open room on his left and his weight low and his eyes on the place where Brom's breath lived, low in the belly under the wound cloth of his shirt. Six strides. Four. He felt the crowd lean, all at once, the way a field of barley leans when the wind comes into it. At three strides he could hear Brom breathing. It was even and slow, a big man's breath, and nothing in it was getting ready for anything.
+He went on his feet, at a walk that was not quite a walk, with the open room on his left and his weight low and his eyes on the place where Brom's breath lived, low in the belly under the wound cloth of his shirt. Six strides. Four. He felt the crowd lean, all at once. At three strides he could hear Brom breathing. It was even and slow, a big man's breath, and nothing in it was getting ready for anything.
 
 The plan was three things, close together, each one new.
 
@@ -14,7 +14,7 @@ The first was the short straight strike he owned, the one Lira had given him a y
 
 He heard the breath go in before he had finished stepping. It went low and stayed there, the sack-settling breath, and his fist arrived on the end of it.
 
-It was like hitting the post in the alcove, except that the post moved and this did not. His knuckles stopped against the forearm as if the arm had been bolted to the floor, and for one whole beat of his own pulse nothing happened at all. His fist sat on Brom's arm while Brom's knees gave the width of a finger. Cael felt his own blow going down out of his hand, through the big man, into the stone, the way water goes into the gears of a mill before the wheel turns.
+It was like hitting the post in the alcove, except that the post moved and this did not. His knuckles stopped dead against the forearm, and for one whole beat of his own pulse nothing happened at all. His fist sat on Brom's arm while Brom's knees gave the width of a finger. Cael felt his own blow going down out of his hand, through the big man, into the stone, the way water goes into the gears of a mill before the wheel turns.
 
 Then the wheel turned.
 
@@ -38,7 +38,7 @@ The third he threw with everything he had in his body and nothing out of his mid
 
 He came up, and he understood.
 
-He had measured the recovery against the post first, and the post had come back. It hung on a rope, and when Brom threw it, it swung away along its arc and swung back on the same arc at the same rate, because that was what a post on a rope did, whether anybody wanted it to or not; half of the gap he had timed on that rope had been made by the rope. Then he had measured it live against the dock partner, and the dock partner had been heavy. He was a Bronze washout as broad as a door. Brom's answers had sent him a hand's breadth off his line, and a hand's breadth was nothing to a man that size, so he had been there, close, still inside, to put his fourth blow into the two beats.
+He had measured the recovery against the post first, and the post had come back. It hung on a rope, and when Brom threw it, it swung away along its arc and swung back on the same arc at the same rate, because that was what a post on a rope did, whether anybody wanted it to or not; half of the gap he had timed on that rope had been made by the rope. Then he had measured it live against the dock partner, and the dock partner had been heavy. He was a Bronze washout as broad as a door. Brom's answers had sent him a little off his line, and a little was nothing to a man that size, so he had been there, close, still inside, to put his fourth blow into the two beats.
 
 Cael was not a post and he was not a door. Every hard answer Brom gave him threw him out of reach of the gap it opened. The harder he hit, to make Brom spend, the further the answer threw him, and the longer it took him to come back, and by the time he was back the breath was in. He could make Brom open the purse; he could not be standing beside it when it was open. The only thing that could ever go into that gap was the thing Brom had just thrown away.
 
@@ -52,7 +52,7 @@ It came on the fourth contact. He went in low, testing the knee he had drawn on 
 
 And under Cael's ribs, the hollow stirred.
 
-He knew the feeling better than he knew his own handwriting. It was the giving face waking, the thing from his middle that rode a strike on the beat and put a weight in his fist that his arm alone could never have found. It leaned toward his right hand the way a dog leans toward a door it has heard a step behind. The beat was there, he could feel it in his feet, and the ribs were open. One amplified strike into that place, on that beat, would be the hardest thing he had ever put into anybody, and against anybody else on the slate it would have ended the exchange and very possibly the bout.
+He knew the feeling better than he knew his own handwriting. It was the giving face waking, the thing from his middle that rode a strike on the beat and put a weight in his fist that his arm alone could never have found. It leaned toward his right hand. The beat was there, he could feel it in his feet, and the ribs were open. One amplified strike into that place, on that beat, would be the hardest thing he had ever put into anybody, and against anybody else on the slate it would have ended the exchange and very possibly the bout.
 
 *Pressure: locked. Don't open it. Not once.*
 
@@ -72,7 +72,7 @@ He stopped it with the strike already half thrown, and stopping a thing half thr
 
 The door had held, and the rule had held. He had kept both, and both had cost him, and the second had cost him more than the first.
 
-He had never thought about what it cost not to use something. He had a whole column in the Log for what each thing charged him to use, but none for what it charged him to carry while he kept it shut. He did not have time to think about it now. He put it somewhere, the way he put the faces in a crowd, and came forward again.
+He had never thought about what it cost not to use something. He had a whole column in the Log for what each thing charged him to use, but none for what it charged him to carry while he kept it shut. He did not have time to think about it now. He put it somewhere, as he put the faces in a crowd, and came forward again.
 
 ---
 
@@ -88,7 +88,7 @@ The line flared from the crest of his hip to the inside of his knee, wide and ho
 
 *That was a reaction.*
 
-He knew it in the lock, where there was nothing to do but know things. The first line of the two lines, the one he had thought would be the harder one, broken inside the first exchange, not by a choice but by a fall. He could feel the price of it as plainly as a coin missing from his palm: twice what a read burst cost, from the bottom of him, crooked. He had a moment, in the lock, to hate the arithmetic of it. He did not have a moment for anything else.
+He knew it in the lock, where there was nothing to do but know things. The first line of the two lines, the one he had thought would be the harder one, broken inside the first exchange, not by a choice but by a fall. He could feel the price of it as surely as a coin missing from his palm: twice what a read burst cost, from the bottom of him, crooked. He had a moment, in the lock, to hate the arithmetic of it. He did not have a moment for anything else.
 
 The lock let go.
 
@@ -98,7 +98,7 @@ He sat down on the chalk of the boundary line, with the rope at his back and his
 
 "End of the exchange," said Vell.
 
-The crowd's noise came back up all at once, as if somebody had opened a door on it. He got up, and his legs were fine. That was the strange part: his legs were entirely fine, and everything else hurt.
+The crowd's noise came back up all at once. He got up, and his legs were fine. That was the strange part: his legs were entirely fine, and everything else hurt.
 
 On the way back to the north mark he went over himself part by part, as he would have gone over a room he had just walked into, and for the same reason: to know what was in it before anything else happened.
 
@@ -144,9 +144,9 @@ Brom was not breathing on the fist.
 
 He was breathing on Cael, on his weight coming, the moment it came near enough to feel. *Close, whatever you do,* Cael had said to him in the alcove; *it doesn't reach far.* It did not need to. It reached a bench's length, and a bench's length was two strides, and at Cael's best speed two strides were still a beat. The read found him two strides out, and the breath went in on the read, and by the time Cael's fist arrived Brom had been hard and waiting for it for longer than the newcomers' whole blows had taken to land.
 
-And he had not breathed like that against the newcomers, because they were never fast enough to need it. Against them the read and the fist had come together, and he had breathed on whichever came; Cael had sat on the bench with his fingers on his wrist and timed the version of the man who was fighting twelve-year-olds. Somebody, somewhere, in a boat shed or a city by the coast, had tried exactly this before Cael was ever born into it. Some fast Wind with good legs had tried to arrive before the hardness, and had made Brom learn to harden on the read instead of the knock, and Brom had kept the lesson.
+And he had not breathed like that against the newcomers, because they were never fast enough to need it. Against them the read and the fist had come together, and he had breathed on whichever came; Cael had sat on the bench with his fingers on his wrist and timed the version of the man who was fighting twelve-year-olds. Somebody, somewhere, in a boat shed or a city by the coast, had tried this very thing before Cael was ever born into it. Some fast Wind with good legs had tried to arrive before the hardness, and had made Brom learn to harden on the read instead of the knock, and Brom had kept the lesson.
 
-The middle column was not wrong; it was out of date. It was a map of the man as he had been before somebody faster came, and Cael had walked onto the main floor with it as though it were the ground.
+The middle column was not wrong; it was out of date. It was a map of the man as he had been before somebody faster came, and Cael had walked onto the main floor taking it for the ground.
 
 He was thinking that, and adjusting, when it happened.
 
@@ -162,7 +162,7 @@ He went down.
 
 He was up again before he had decided to be. His arms did it first, and then his legs agreed, and then he was standing on them, and they began to tell him their new terms.
 
-They were not broken; he knew what broken felt like and this was not it. But both knees had been asked to carry a thing sideways that they had only ever carried straight, and they had carried it, and now they were telling him about it in a low steady voice from hip to ankle. They held, the way an old rope bridge holds, there and working, and honest at every step that it would not hold for ever.
+They were not broken; he knew what broken felt like and this was not it. But both knees had been asked to carry a thing sideways that they had only ever carried straight, and they had carried it, and now they were telling him about it in a low steady voice from hip to ankle. They held, like an old rope bridge, there and working, and honest at every step that it would not hold for ever.
 
 Brom had stepped forward to take the space while he was down. He was a stride and a half away, on his heels again, the breath going out of him long through the nose, and Cael needed room. He needed to be somewhere else, now, before the next breath came in, and he read it: Brom's weight settling forward over the front foot to take the next step, the heel going light. It was a read, clean, a hinge, the first he had been given all night. He set himself over his feet while he watched it, as the drill had taught him, and when the heel came up he dropped his left hip.
 
@@ -172,15 +172,15 @@ He went short, and landed crooked, a hand's width to the front-left instead of h
 
 He shut it.
 
-He shut it the way he would have closed a book with the ink still wet, carefully, so as not to smudge anything, and with no plan at all to open it again that night. A thing that charged full and paid a third was not insurance; it was a leak.
+He shut it carefully, with no plan at all to open it again that night. A thing that charged full and paid a third was not insurance; it was a leak.
 
 So that was the arithmetic, and it was very simple now. The Pressure was locked by a rule. The Wind was closed by his legs. What he had left was his eyes, and his two hands, one of them still half numb, and two legs that might last two more exchanges if he was careful with them and one if he was not.
 
-Brom ended the second exchange the way a man finishes a job he has nearly finished already, without any hurry. One more entry Cael could not make fast enough; one more turn at the place where they touched; the stone, for the second time, coming up under his shoulder.
+Brom ended the second exchange without any hurry. One more entry Cael could not make fast enough; one more turn at the place where they touched; the stone, for the second time, coming up under his shoulder.
 
 "End of the exchange," said Vell.
 
-Her pen did not stop when she said it. It went on for a while after, longer than a result needed, and he heard it from where he lay, very faintly, under the noise of the room, the scratch of a woman writing something down.
+Her pen did not stop when she said it. It went on after, longer than a result needed, and he heard it from where he lay, very faintly, under the noise of the room, the scratch of a woman writing something down.
 
 He lay there for the length of three breaths, because nobody had told him he could not, and looked up at the lamps.
 
@@ -202,9 +202,9 @@ He stood on the north mark and waited for his breath to come back into its count
 
 He walked out to meet Brom, and he did not try to win anything.
 
-He found, a little to his surprise, that he could not have tried if he had wanted to; there was nothing left in him to try with. So he did the only thing his knees allowed. He went in a half-step at a time, never more, and touched, and came away. He touched the forearm, lightly, not enough to be worth a breath. He touched the shoulder. He went round to the left, two short steps, and touched the hip, and went back. None of it was anything. Brom let all of it land soft and spent nothing on any of it. Twice the big man stepped in to take the space, and twice Cael gave it to him, a half-step back, on knees that told him exactly how much a half-step cost.
+He found, a little to his surprise, that he could not have tried if he had wanted to; there was nothing left in him to try with. So he did the only thing his knees allowed. He went in a half-step at a time, never more, and touched, and came away. He touched the forearm, lightly, not enough to be worth a breath. He touched the shoulder. He went round to the left, two short steps, and touched the hip, and went back. None of it was anything. Brom let all of it land soft and spent nothing on any of it. Twice the big man stepped in to take the space, and twice Cael gave it to him, a half-step back, on knees that told him what a half-step cost.
 
-He was not watching for the breath any more. He had stopped listening for it somewhere in the walk back from the floor, without deciding to, the way a man stops listening for a cart that has gone round the corner. He was not watching the purse, or the read, or the lead seam, or anything that had a page. There was only the next thing. Where Brom's lead shoulder was. Where his own left foot would go when it went. How much stone there was between them, and whether it was getting more or less.
+He was not watching for the breath any more. He had stopped listening for it somewhere in the walk back from the floor, without deciding to. He was not watching the purse, or the read, or the lead seam, or anything that had a page. There was only the next thing. Where Brom's lead shoulder was. Where his own left foot would go when it went. How much stone there was between them, and whether it was getting more or less.
 
 It was very quiet in there. The room was roaring, he supposed, though he could not have said.
 
@@ -228,4 +228,4 @@ Then Brom's hand came down on Cael's arm.
 
 It came late, and it came by sight, and Cael could feel the difference through his sleeve the way you can hear the difference between a man reading aloud and a man making it up. It was a fighter's hand, fast and trained and very strong, landing where his eyes had sent it. The turn it gave Cael's arm was real, and still more than he could stand against, and it moved him a step. But it was rough. It had been made on the spot, out of nothing, by a man who had not known it would be needed until it was. For the first time all night, Brom was building his answer in front of him.
 
-And then it was over, the way the start of it had been: without any edge he could find. Half a breath later the low breath was going in again, and the hardness was there again under Cael's hand, and whatever in Brom read people had him again, as though it had never let go.
+And then it was over, the way the start of it had been: without any edge he could find. Half a breath later the low breath was going in again, and the hardness was there again under Cael's hand, and whatever in Brom read people had him again.

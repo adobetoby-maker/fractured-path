@@ -72,7 +72,7 @@ She filled the form in its own order, line by line, because the order was there 
 
 She read it once. It said what needed saying, and it did not reach one word past the paper on the table.
 
-She marked the form for the next level up from the office that had sent the return, and she signed it, and dated it, and checked the date against the return and against her own Greyvane reference, since a referral with a wrong date could be sent back for nothing but its date. Then she rose, carried it down the length of the table and laid it in the shallow wooden tray at the foot, where the records officer would find it, and came back to her chair.
+She marked the form for the next level up from the office that had sent the return, and she signed it, and dated it, and checked the date against the return and against her own Greyvane reference, since a referral with a wrong date could be sent back for nothing but its date. Then she rose, carried it down to the foot of the table and laid it in the shallow wooden tray, where the records officer would find it, and came back to her chair.
 
 It had taken eleven minutes by the clock over the door, which she had glanced at from long habit when she took out the form.
 
@@ -88,7 +88,7 @@ The counsel came back in, still talking. Ilsev turned to a clean page of her wor
 
 Cael spent that first recess on his hard chair, because a clerk would have, and because standing up and walking about was the kind of small change he had promised himself at dawn not to make.
 
-The hall emptied round him in the ordinary way. Withrow and Bracken went to the far window with cups. Karis sat where she was and wrote, and did not look round. Of the whole delegation only two people stayed in their places. The Archmarshal sat with his folder shut and his pen across it, as still as he had been all morning. And Ilsev, at the near end of their side, read something from a file, and then took out a form and wrote on it for what Cael's count of his own breaths made about eleven minutes, and carried it down the table, and laid it in the records officer's tray, and came back and drank a cup of tea in four swallows.
+The hall emptied round him in the ordinary way. Withrow and Bracken went to the far window with cups. Karis sat where she was and wrote, and did not look round. Of the whole delegation only two people stayed in their places. The Archmarshal sat with his folder shut and his pen across it, as still as he had been all morning. And Ilsev, at the near end of their side, read something from a file, and then took out a form and wrote on it for about eleven minutes, by Cael's count of his own breaths, and carried it down the table, and laid it in the records officer's tray, and came back and drank a cup of tea in four swallows.
 
 He did not know what it was. It was not his to know. A senior evaluator filing a form in a recess was the most ordinary thing in the world, and he made himself treat it so, and did not even write it on the back of his floor sheet. He only noticed, because he could not help noticing, that she had not gone to the window with the others, and that whatever she had read had not changed her face at all.
 

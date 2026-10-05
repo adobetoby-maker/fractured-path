@@ -230,7 +230,7 @@ He picked up the green slip and entered the supplementary marker on the third li
 
 He closed the file and set it on the pile for the morning's return.
 
-Then he opened his own notebook, the one with the cardboard cover that never went into any office drawer, to the day's page where the slip that said *file thin for class* was still clipped. He sat with the pencil over the paper, trying to write the thing exactly, no more than he knew, the way a form would have wanted it if there had been a form for it.
+Then he opened his own notebook, the one with the cardboard cover that never went into any office drawer, to the day's page where the slip that said *file thin for class* was still clipped. He sat with the pencil over the paper, trying to write the thing exactly, no more than he knew.
 
 *Hesk-ward, Ardenmere, river side. Visit compliant. A marker under the classification I did not enter and cannot trace to any officer or date. Above my grade by its form. File thin for class. Not raised. Kept.*
 

@@ -1,6 +1,6 @@
 # Chapter 27 — For Science
 
-On the fourth day he went up the market steps without the stick, slowly, with his hand on the rail and his knees giving him their opinion of every tread. At the top he stood in the cold square by the pump and waited to see whether they would let him come down again. They did. He went down and up a second time to be sure, and an old woman shelling the last of somebody's dried beans on the wall watched him do it with deep suspicion, as if he were practising to steal something.
+On the fourth day he went up the market steps without the stick, slowly, with his hand on the rail and his knees giving him their opinion of every tread. At the top he stood in the cold square by the pump and waited to see whether they would let him come down again. They did. He went down and up a second time to be sure, and an old woman shelling the last of somebody's dried beans on the wall watched him do it with deep suspicion.
 
 He gave Lira back her measuring stick that night at the kitchen table.
 
@@ -34,7 +34,7 @@ Brom saw him see it.
 
 "Yours," he said.
 
-He said it the way he said everything, like a figure off a slate. But he put his hand on the place for a moment, flat, before he started winding his hands, and Cael had the odd feeling that the big man was rather pleased to have it.
+He said it flatly, as he said everything. But he put his hand on the place for a moment, flat, before he started winding his hands, and Cael had the odd feeling that the big man was rather pleased to have it.
 
 "Two more terms," said Brom, winding. "Now that we're doing it and not talking about it. The three from the wall stand."
 
@@ -50,7 +50,7 @@ Cael hesitated, and Brom saw that too, and stopped winding.
 
 "Keth," said Cael. "I owe Keth something. He asked me, before Tuesday, to tell him what's in the middle. The gap. I said I would when I'd found it."
 
-Brom thought about that for a long moment.
+Brom thought about that.
 
 "Tell him what you found about watching," he said at last. "Not what you found about me." He went back to the cloth. "That's yours. You can give it to who you like."
 
@@ -88,7 +88,7 @@ Halfway through the hour Brom spoke, between one hit and the next, without movin
 
 Cael stopped with his fist drawn back.
 
-"On the read." Brom's eyes rested on him the way they always did, like a man's on weather, but there was something working behind them. "At a bench's length you're faint. You're a step upstairs in stockings. Here you're a man walking about in boots." He thought. "Still not on a shelf. Still moving round something in the middle I can't find. But louder." He tipped his head. "And the thing like a Wind's gone quiet. In your hip. It's been dark since Tuesday."
+"On the read." Brom's eyes rested on him as they always did, but there was something working behind them. "At a bench's length you're faint. You're a step upstairs in stockings. Here you're a man walking about in boots." He thought. "Still not on a shelf. Still moving round something in the middle I can't find. But louder." He tipped his head. "And the thing like a Wind's gone quiet. In your hip. It's been dark since Tuesday."
 
 "I haven't asked it for anything since Tuesday."
 
@@ -120,7 +120,7 @@ On the second hour of the same morning, when his hands had stopped shaking, he a
 
 "What the giving face costs me against you." Cael stood on his cross. "I wrote a rule. *Not once.* In ink, in the Log. I kept it on Tuesday, and it cost me ground both times. I want to know whether the rule's right, or whether it's only frightened."
 
-Brom looked at him for a long time.
+Brom looked at him.
 
 "How much?"
 
@@ -138,7 +138,7 @@ Cael found his beat, which was easy; it had been easy since the river-academy ma
 
 He heard the breath go in.
 
-It came back up his arm at the size he had fed it, exactly, and then some more, on its angle. It did not come back as a quarter; it came back as everything he had put in, his arm and his weight and the warm dense thing from his middle, all together, turned and handed to him through the forearm and the elbow and up into the shoulder.
+It came back up his arm at the size he had fed it, and then some more, on its angle. It did not come back as a quarter; it came back as everything he had put in, his arm and his weight and the warm dense thing from his middle, all together, turned and handed to him through the forearm and the elbow and up into the shoulder.
 
 The shoulder took it like a door taking a kick. He went round on his cross; his feet stayed on it, which was the stupid part, and his body went round over them, and kept going, and he sat down on the alcove floor with his legs crossed under him and his right shoulder ringing like a bell somebody had hit with a hammer.
 
@@ -146,7 +146,7 @@ He sat there.
 
 Somewhere above him, Brom laughed.
 
-It was not a large laugh. It was a short one, out through the nose, the sound a man makes when a thing happens that is exactly as funny as he had hoped it would be. But Cael had never heard him make any kind of laugh before, in a month of being near him, and he looked up from the floor in such surprise that he forgot the shoulder for a moment.
+It was not a large laugh. It was a short one, out through the nose, the sound a man makes when a thing happens that is as funny as he had hoped it would be. But Cael had never heard him make any kind of laugh before, in a month of being near him, and he looked up from the floor in such surprise that he forgot the shoulder for a moment.
 
 Brom had his hand over his mouth, and he took it away.
 
@@ -170,7 +170,7 @@ Brom looked at him; the laugh had gone out of his face, but something was left b
 
 ---
 
-The second morning his forearms were the colour of a plum and he could lift the right arm only to the height of his ear, and they went on anyway, because nobody had broken.
+The second morning his forearms had gone dark blue and he could lift the right arm only to the height of his ear, and they went on anyway, because nobody had broken.
 
 He had come with a question this time, and he said it before Brom asked.
 
@@ -184,11 +184,11 @@ It took most of the hour. Some of the answers threw him; some only stopped him d
 
 He found it in the first touch.
 
-When Brom meant only to stop a thing, the hardness was flat. It met the fist the way a wall meets it, square, all at once, with nothing in it leaning anywhere. When he meant to send it back, it was not quite flat: there was a tilt in it, in the very first instant of the knock, before the hold had properly begun. It was the smallest lean, like a door that is closed but not latched and gives the width of a hair toward the side it is going to swing to, and it was there before the well, in the touch itself.
+When Brom meant only to stop a thing, the hardness was flat. It met the fist like a wall, square, all at once, with nothing in it leaning anywhere. When he meant to send it back, it was not quite flat: there was a tilt in it, in the very first instant of the knock, before the hold had properly begun. It was the smallest lean, like a door that is closed but not latched and gives a little toward the side it is going to swing to, and it was there before the well, in the touch itself.
 
 If he kept his attention entirely in the skin of his own knuckles and nowhere else, he could feel which way the door was hung before it opened.
 
-He said so, badly, because there were no words for it yet, with his hand held up in front of him in the lamplight and the knuckles turned toward the big man as if that would help.
+He said so, badly, because there were no words for it yet, with his hand held up in front of him in the lamplight and the knuckles turned toward the big man.
 
 "A door that's not latched," he said. "You know which way it'll swing before it swings. Because it's already given a hair."
 
@@ -212,7 +212,7 @@ Brom looked at him, and the corner of his mouth went in.
 
 "Then why did you try?"
 
-"Because you'd found it." Brom looked at his own forearm, turning it slowly in the lamplight, as if it belonged to somebody he had only just been introduced to. "The first thing I thought, when you said it, was who else could. Somebody with good hands and a fortnight. Somebody across a rope." He let the arm fall. "So I wanted to know if I could hide it. I can, a little. It costs." He looked at Cael. "Now you know that too. That's two things you know about me this morning that I didn't know at breakfast."
+"Because you'd found it." Brom looked at his own forearm, turning it slowly in the lamplight. "The first thing I thought, when you said it, was who else could. Somebody with good hands and a fortnight. Somebody across a rope." He let the arm fall. "So I wanted to know if I could hide it. I can, a little. It costs." He looked at Cael. "Now you know that too. That's two things you know about me this morning that I didn't know at breakfast."
 
 "Do you mind?"
 
@@ -226,7 +226,7 @@ Cael wrote that down standing up, at the alcove wall, in the large clumsy letter
 
 It was in the third hour of that second morning that Cael understood Brom was being careful with him.
 
-He did not notice it all at once; he noticed it the way you notice that a sound has stopped. The answers had been getting shorter. They still came, and they still hurt, but they sent him a step where on the first morning they had sent him two, and they turned him in a direction that put his weight over his good knee and not his bad one.
+He did not notice it all at once. The answers had been getting shorter. They still came, and they still hurt, but they sent him a step where on the first morning they had sent him two, and they turned him in a direction that put his weight over his good knee and not his bad one.
 
 Twice, when Brom felt Cael's legs waver on the cross, the hold simply went on a little longer than it needed to and then let him go without any turn at all. And when Cael had sat down hard on the alcove floor at the end of the last one, Brom had put a hand under his elbow before he could get up on his own.
 
@@ -240,7 +240,7 @@ Then he thought about the column. Twelve days of honest numbers, from a man who 
 
 "Your knees."
 
-"My knees are the third term. If they go, I'll say. You'll hear me say it." He held his arms out, the plum-coloured forearms, the swollen hands. "This isn't them going. This is me finding out what you are. And for an hour now I've been finding out what you are when you're being careful with somebody, and I don't need that. I've got that already. I watched you be careful with twelve-year-olds for twelve days."
+"My knees are the third term. If they go, I'll say. You'll hear me say it." He held his arms out, the blue forearms, the swollen hands. "This isn't them going. This is me finding out what you are. And for an hour now I've been finding out what you are when you're being careful with somebody, and I don't need that. I've got that already. I watched you be careful with twelve-year-olds for twelve days."
 
 Brom did not answer.
 
@@ -248,7 +248,7 @@ Brom did not answer.
 
 The alcove was very quiet, and out on the floor the sweepers had come at last, and the long patient sound of their brooms came in through the arch.
 
-Brom looked down at him for a long time, and his face did nothing that Cael could have put a hook to. Then he looked away, at the wall, and Cael saw that he was not deciding whether to agree. He was deciding whether he could.
+Brom looked down at him, and his face did nothing that Cael could have put a hook to. Then he looked away, at the wall, and Cael saw that he was not deciding whether to agree. He was deciding whether he could.
 
 "In the river city," Brom said, "there was a man I trained with. Older. He used to say a partner who's careful with you is a partner who's decided you can't take it." He moved one thumb against the side of his leg. "I hated that. I never wanted to be that." He looked back at Cael. "I didn't notice I was doing it."
 
@@ -288,7 +288,7 @@ Keth was quiet a long while. His finger lifted and settled on the grip.
 
 Cael sat on the bench a while after he had gone, in the last of the light from the high windows, with his hands turned up on his knees.
 
-He had given away something true and kept something else, and both had been his to give or keep, and he had done it the way Brom had asked. It was a small thing, and it felt larger than it was. He thought that for a year he had kept everything he found in a book with his own name on the front, because nobody had ever asked him for anything in it that he could give without giving himself away. Keth had asked. Brom had told him where the line ran between the part that was his and the part that was not. And it turned out that a thing found and given away was not smaller afterward. It was in two places.
+He had given away something true and kept something else, and both had been his to give or keep, and he had done it as Brom had asked. It was a small thing, and it felt larger than it was. He thought that for a year he had kept everything he found in a book with his own name on the front, because nobody had ever asked him for anything in it that he could give without giving himself away. Keth had asked. Brom had told him where the line ran between the part that was his and the part that was not. And it turned out that a thing found and given away was not smaller afterward. It was in two places.
 
 At home Lira was at the kitchen table with the lamp, with her own wrist in a fresh cloth and her bad arm gone from plum to green. She looked at his forearms when he took his coat off, both of them, the insides blue from wrist to elbow, and counted under her breath without seeming to know she was doing it. Then she got up and fetched the bucket from the yard.
 
@@ -300,6 +300,6 @@ At home Lira was at the kitchen table with the lamp, with her own wrist in a fre
 
 "Today," said Cael. "Tomorrow he's going to stop."
 
-Lira wrapped the left forearm and tied the cloth off, harder than she needed to. She looked at the knot for a while.
+Lira wrapped the left forearm and tied the cloth off, harder than she needed to. She looked at the knot.
 
 "Good," she said. "That's what you went for." She did not say anything about Brom at all, but she put the bucket where he could reach it, and before she went up she laid two fingers on the back of his swollen hand, very lightly, the way you touch a stove to see whether it is still hot.

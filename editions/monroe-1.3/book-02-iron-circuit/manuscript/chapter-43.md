@@ -2,7 +2,7 @@
 
 Dace booked Lira's second confirming bout on the Monday after Bede, and he booked her a Bronze.
 
-She told them at supper, in the kitchen, in front of the whole house, which was not like her. She waited until the heavyset man's wife had put the pot on the table and the sister had sat down, and then she said it to the bread, as if the bread had asked.
+She told them at supper, in the kitchen, in front of the whole house, which was not like her. She waited until the heavyset man's wife had put the pot on the table and the sister had sat down, and then she said it to the bread.
 
 "Maud," she said. "From the ropewalk. Thursday week, the late card."
 
@@ -16,9 +16,9 @@ Cael knew the name the way the whole district knew it. Maud was the oldest name 
 
 "And?"
 
-"And I said Maud." She did not look up. "If I'm Iron, I'm Iron against anybody who comes. I'm not going to be Iron against the ones Dace picks out to be kind."
+"And I said Maud." She tore another piece. "If I'm Iron, I'm Iron against anybody who comes. I'm not going to be Iron against the ones Dace picks out to be kind."
 
-Brom was at the table too, because the heavyset man's wife had stopped asking whether he was staying and simply put out a fourth bowl now. He had been eating steadily, the way he did, and he stopped.
+Brom was at the table too, because the heavyset man's wife had stopped asking whether he was staying and simply put out a fourth bowl now. He had been eating steadily, and he stopped.
 
 "She'll find your hands," he said.
 
@@ -32,7 +32,7 @@ Brom was at the table too, because the heavyset man's wife had stopped asking wh
 
 "Last time was a Stone." She went back to her bread.
 
-Cael said it later, on the landing, after the house had gone quiet. He had been turning it over all through supper and he did not like the shape of it, so he said it plainly, to have it said.
+Cael said it later, on the landing, after the house had gone quiet. He had been turning it over all through supper and he did not like the shape of it, so he said it straight out, to have it said.
 
 "I could watch her for you. Maud. She fights on Thursday on the river-gate card, Dace says, a warm-up. I could be on the bench. I'd have a page on her by Sunday."
 
@@ -82,15 +82,15 @@ Cael went back up the stairs to the street without either of them knowing he had
 
 On the Thursday Lira stood at the south mark under the lamps and found that she was not frightened, and did not know what to do about that.
 
-She had been frightened before Dravin, the whole length of the bout, in her knees and her hands and the long muscles of her back. She had been frightened before the Stone, a little, in the way you are frightened of a cold river before you go in. She stood at the south mark now with three hundred people round the rope, and the four girls from the wall on the second bench, and the dock partner behind them, and Maud at the north mark like a door that has decided to be a person. All she felt was clear, as clear as a glass of water, right down to the bottom.
+She had been frightened before Dravin, the whole length of the bout, in her knees and her hands and the long muscles of her back. She had been frightened before the Stone, a little. She stood at the south mark now with three hundred people round the rope, and the four girls from the wall on the second bench, and the dock partner behind them, and Maud at the north mark like a door that has decided to be a person. All she felt was clear, as clear as a glass of water, right down to the bottom.
 
 She thought it might be because she knew how this went.
 
-Maud was a Force. Lira had stood by the alcove wall one morning months ago while Cael talked about the six hooks of a Force fighter's build. She had been only half listening, the way you half listen to somebody explaining the weather, and she found now that she remembered every word. A Force built its weight a long way back, slow and deep, and put the whole of it behind one blow, and the blow arrived heavier than the arm that threw it had any right to make it. A Force was slow to start. A Force could not be hurried. And a Force who had been Bronze for twenty years had long since stopped trying to be hurried, and stood still, and let you come.
+Maud was a Force. Lira had stood by the alcove wall one morning months ago while Cael talked about the six hooks of a Force fighter's build. She had been only half listening, and she found now that she remembered every word. A Force built its weight a long way back, slow and deep, and put the whole of it behind one blow, and the blow arrived heavier than the arm that threw it had any right to make it. A Force was slow to start. A Force could not be hurried. And a Force who had been Bronze for twenty years had long since stopped trying to be hurried, and stood still, and let you come.
 
 Maud stood still.
 
-She had a short staff, iron-shod at both ends, a good deal shorter than Lira's and twice as thick. She held it low across her body in both hands, like a woman holding a bar across a door. She was not tall, but she was very wide, and she stood with her feet a little apart and her weight right down in them, and looked at Lira with an expression of mild, patient interest, as if Lira were a knot she had been handed to undo and she had all afternoon.
+She had a short staff, iron-shod at both ends, a good deal shorter than Lira's and twice as thick. She held it low across her body in both hands, a bar across a door. She was not tall, but she was very wide, and she stood with her feet a little apart and her weight right down in them, and looked at Lira with an expression of mild, patient interest, as if Lira were a knot she had been handed to undo and she had all afternoon.
 
 "Begin," said Vell.
 
@@ -100,13 +100,13 @@ It was the feet, as it had been against the Stone. She did not stand anywhere a 
 
 It went on like that for the whole exchange. Lira went round and sent, and Maud turned and took it. Lira did not have to catch anything, because Maud did not send anything. She only turned, a little slower than Lira, and took everything on the bar, and let the floor go by.
 
-At the end of it Lira had sent eleven times and been touched none, and the betting man was shouting the odds down. Lira went back to her mark and knew, as plainly as if somebody had written it on the wall, that she had lost the exchange.
+At the end of it Lira had sent eleven times and been touched none, and the betting man was shouting the odds down. Lira went back to her mark and knew that she had lost the exchange.
 
 Maud had not moved from the middle of the chalk. Lira had gone round her eleven times, and Maud had turned eleven times, and now the woman was standing in exactly the place she had stood at *begin*, with her feet in the same two prints in the chalk dust. All Lira had done was walk a long way to arrive where she started.
 
 In the second exchange Maud began to make the floor small.
 
-She did not chase, as Lira had known she would not; she simply took one step, a short heavy one, toward wherever Lira was going, every time Lira went. It was not a step to hit; it was only a step to stand somewhere. Each step took a little of the floor away on that side, the way a tide takes sand, and by the middle of the exchange Lira was going round in a circle that was getting smaller. She could feel the rope behind her before she could see it, the way you feel a wall in a dark room.
+She did not chase, as Lira had known she would not; she simply took one step, a short heavy one, toward wherever Lira was going, every time Lira went. It was not a step to hit; it was only a step to stand somewhere. Each step took a little of the floor away on that side, and by the middle of the exchange Lira was going round in a circle that was getting smaller. She could feel the rope behind her before she could see it.
 
 And then she had the rope at her back and nowhere to go round to, and Maud sent.
 
@@ -116,7 +116,7 @@ She caught it as she caught everything, with her staff and her two hands, and fe
 
 And in the middle, in the place where catching turned into sending, Maud was already there.
 
-She had sent the first blow only to be caught. The second was waiting behind it, short, from the iron-shod end of the bar, and it came into the turn, into the very place, as if Maud had known to the width of a finger where Lira's hands would be when they stopped being one thing and had not yet become the other. It took her across the backs of both hands on the staff. Her fingers opened. The staff did not fall, because she would not let it fall, but it turned in her hands like a live thing and the end of it struck the stone.
+She had sent the first blow only to be caught. The second was waiting behind it, short, from the iron-shod end of the bar, and it came into the turn, into the very place: Maud had known where Lira's hands would be when they stopped being one thing and had not yet become the other. It took her across the backs of both hands on the staff. Her fingers opened. The staff did not fall, because she would not let it fall, but it turned in her hands like a live thing and the end of it struck the stone.
 
 The room made a sound.
 
@@ -130,7 +130,7 @@ They were red across the backs, both of them, a bar of red across the knuckles t
 
 Cael was beside him, with his hands on the rope and the grey book nowhere at all. He was not writing. His face was doing the thing it did when he was keeping out of a person, going very still at the edges, as it had at the dinner table the night he read Brom and was sorry. She knew he was holding the thing on his skin shut by main force, because she had asked him to.
 
-So it was the place, she thought, exactly where Brom had said. Maud had found it in the first touch, as he had said she would, and had gone in there.
+So it was the place, she thought, where Brom had said. Maud had found it in the first touch, as he had said she would, and had gone in there.
 
 She had known it would happen, which was the strange part; she had walked down the hill knowing it, and it had happened, and she still did not know what to do about it. Knowing where a thing was did not tell you how to be somewhere else when it came for you.
 
@@ -166,7 +166,7 @@ Lira did it once more before the exchange was out. Maud made the floor small and
 
 She stood at the south mark and breathed and did not look at anybody. She had sent twice off the step with no middle, against a Bronze. It was the fifth thing, the thing she had kept back since the night against Dravin and said to nobody, and it was not the fifth thing at all. It was something past it, something she had touched once by accident in the alcove and never been able to find again, until a woman stood in the middle of her catch and showed her where it was. Her hands had not had to be fast. They had only had to stop holding.
 
-And it had cost her. She could feel exactly what it had cost her, now that she was standing still. It was every bit of breath she had, and something in the right side of her back that had turned further than it had ever turned, and her left heel, which had taken the whole of the turn twice and was telling her so.
+And it had cost her. She could feel what it had cost her, now that she was standing still. It was every bit of breath she had, and something in the right side of her back that had turned further than it had ever turned, and her left heel, which had taken the whole of the turn twice and was telling her so.
 
 Maud did not make the floor small in the fourth.
 
@@ -204,7 +204,7 @@ Vell wrote standing, and did not hurry.
 
 Lira waited at the table. She knew what was coming, and she wanted to hear it said anyway.
 
-Vell did not write anything more. She looked at Lira over her spectacles for a long while, longer than she needed to. Then she turned back a page in the main-floor book to the line from a few weeks ago, the Stone, and Lira saw the words in Vell's hand: *Provisional Iron-equivalent. One of two.*
+Vell did not write anything more. She looked at Lira over her spectacles, longer than she needed to. Then she turned back a page in the main-floor book to the line from a few weeks ago, the Stone, and Lira saw the words in Vell's hand: *Provisional Iron-equivalent. One of two.*
 
 "It stays," said Vell. "Provisional."
 
@@ -226,7 +226,7 @@ Lira went to the alcove afterward, alone, as she had once gone after Dravin, and
 
 She had not cried after Dravin, not there. She did not cry now, and she found that she did not want to. She sat in the dark and let the thing come up through her and looked at it, as Cael looked at a thing in his column, all the way down.
 
-The circuit had measured her. That was what it had done tonight, and all season: Vell's book had measured her against a chain of fixed points, fight by fight. The chain went down to men with pins on their coats, and it had said what she was, honestly and to her face. It had said *Iron-equivalent* and then *provisional*, and the reason, and she believed every word of it. It was the first time in her life a measure had told her not only what she was not but where, to the width of a finger, in the middle of her own hands.
+The circuit had measured her. That was what it had done tonight, and all season: Vell's book had measured her against a chain of fixed points, fight by fight. The chain went down to men with pins on their coats, and it had said what she was, honestly and to her face. It had said *Iron-equivalent* and then *provisional*, and the reason, and she believed every word of it. It was the first time in her life a measure had told her not only what she was not but where, in the middle of her own hands.
 
 And none of it would move the card in her coat.
 
@@ -275,6 +275,8 @@ He heard her laugh, very short, on the other side of the door. "It's one thing. 
 "He always knows. It's unbearable." Her door shut.
 
 He lay awake a long time after that, in the dark, with the lamp in the north window going out at last somewhere after two.
+
+She had the middle of her hands to work on, and he had his own: the *Shape* column, half of it still blank, and what was left of the season to stand in front of somebody who had read his page and find out whether standing right was enough.
 
 Hesk's answer to the short letter had come a fortnight before and gone under a carter's bill on the hall table, where the sister found it on the Saturday, a little greasy at one corner. It was shorter than his.
 

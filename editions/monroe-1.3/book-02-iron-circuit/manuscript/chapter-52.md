@@ -12,11 +12,11 @@ Cael came up the last of the stairs from the side passage with his coat over his
 
 The building was hot. That was the first thing.
 
-The night before, with four hundred in it, the old foundry had been warm the way a kitchen is warm. Tonight the air under the low ceiling was thick and close, and it smelled of lamp oil and wet wool and too many people breathing the same breath. Dace had found more lamps again, from somewhere. They hung from every beam and every nail, so close together now that the ceiling was one sheet of small yellow flames, and their heat came down on the crowd while the crowd's heat went up to meet it. At Cael's back, through the great open doors, the cold of the street came in long draughts that touched his neck and were gone.
+The night before, with four hundred in it, the old foundry had been warm. Tonight the air under the low ceiling was thick and close, and it smelled of lamp oil and wet wool and too many people breathing the same breath. Dace had found more lamps again, from somewhere. They hung from every beam and every nail, so close together now that the ceiling was one sheet of small yellow flames, and their heat came down on the crowd while the crowd's heat went up to meet it. At Cael's back, through the great open doors, the cold of the street came in long draughts that touched his neck and were gone.
 
 He went along the wall toward the north end, and the room saw him going.
 
-It was not a cheer. Six hundred people cannot cheer for a boy walking along a wall; they did not know yet what they would be cheering for. It was more like a change in the weather of the noise. Heads turned down the room ahead of him in a long ripple, and voices dropped where he passed and rose again behind him with his name in them. He heard *that's him*, and *he's younger than I thought*, and *the one with no Path*, and once, from somebody on the beams overhead, *small, isn't he*, which made the people round the speaker laugh. He did not look up.
+It was not a cheer. Six hundred people cannot cheer for a boy walking along a wall; they did not know yet what they would be cheering for. It was more like a change in the noise. Heads turned down the room ahead of him in a long ripple, and voices dropped where he passed and rose again behind him with his name in them. He heard *that's him*, and *he's younger than I thought*, and *the one with no Path*, and once, from somebody on the beams overhead, *small, isn't he*, which made the people round the speaker laugh. He kept walking.
 
 The eel-market men had their two pots going in the corner by the slate, with every bowl out and in use. The betting man had given up his trestle board entirely and was standing on it instead, calling the two columns over the crowd in a voice that had gone hoarse an hour ago. The mending-stall pennants hung over the side door, a dozen red triangles with a white rope stitched on each, and somebody had hung another dozen along the north rail. The four girls from the wall had a place on the second bench, close together, with their knees drawn up, and the dock partner sat behind them like a cliff behind a beach.
 
@@ -24,7 +24,7 @@ Vell stood at her table on the west side of the floor.
 
 She was not sitting. Her stool was pushed under the table, out of reach, and she stood with the red-taped main-floor book open along her left forearm and the pen held upright in her right hand, like a woman who has been given a candle to keep alight through a long service and means to keep it alight. She did not look at him. He had not expected her to.
 
-Brom was at the north rope, where he had said he would be, with the crowd giving him a little room on both sides the way a river gives room to a rock. He did not wave. He met Cael's eyes once over the rope, and nodded, a small nod, and went back to watching the south end of the floor.
+Brom was at the north rope, where he had said he would be, with the crowd giving him a little room on both sides. He did not wave. He met Cael's eyes once over the rope, and nodded, a small nod, and went back to watching the south end of the floor.
 
 Lira was at the south rope.
 
@@ -82,13 +82,13 @@ The third he knocked for and got smear, a confused rush of somebody large that d
 
 *Three.*
 
-The fourth was quick. It came short and early, while he had only half finished landing, as if Reydan wanted to know whether he moved to a count or to something else. He knocked from a foot that had barely found the stone, and the answer came back clean anyway. He went right on his feet, a short ugly step with nothing of Lira's drop in it, and the burst went past his left shoulder close enough to pull at his shirt.
+The fourth was quick. It came short and early, while he had only half finished landing, to find out whether he moved to a count or to something else. He knocked from a foot that had barely found the stone, and the answer came back clean anyway. He went right on his feet, a short ugly step with nothing of Lira's drop in it, and the burst went past his left shoulder close enough to pull at his shirt.
 
 *Four.*
 
 And twice, in among the four, the floor had opened in front of him.
 
-After the third, Reydan's weight sat back on his left heel for the length of a breath, with the ribs on his right side turned toward Cael and nothing in front of them. After the fourth he stood too square and too near for half a beat. Both times Cael saw it with the gaze, as plainly as a gate left open in a wall, and both times he let it close. His right hand stayed where it was. The giving face waited in the hollow under his ribs, three strikes deep, and he kept it asleep. *Not yet.* The room was full of eyes, and every pair of them would go home and write down whatever he showed. He did not mean to show anything until he had to.
+After the third, Reydan's weight sat back on his left heel for the length of a breath, with the ribs on his right side turned toward Cael and nothing in front of them. After the fourth he stood too square and too near for half a beat. Both times Cael saw it with the gaze, as clear as a gate left open in a wall, and both times he let it close. His right hand stayed where it was. The giving face waited in the hollow under his ribs, three strikes deep, and he kept it asleep. *Not yet.* The room was full of eyes, and every pair of them would go home and write down whatever he showed. He did not mean to show anything until he had to.
 
 He threw nothing back. He stood off and moved, and that was all.
 
@@ -114,7 +114,7 @@ Cael straightened up.
 
 "Second exchange," said Vell.
 
-Reydan came in from the right this time, angled. Cael planted and knocked, and the knock said *inward*, clean, low on the man's right side, exactly like the first burst of the night. It had the same weight and the same drawing-tight and the same height, and there was nothing in it that he had not felt before. He shut the knock. The hip went. The fan took him left.
+Reydan came in from the right this time, angled. Cael planted and knocked, and the knock said *inward*, clean, low on the man's right side, just like the first burst of the night. It had the same weight and the same drawing-tight and the same height, and there was nothing in it that he had not felt before. He shut the knock. The hip went. The fan took him left.
 
 He was in the air, half a body over, when he understood.
 
@@ -128,7 +128,7 @@ He came down on his right side.
 
 The stone was cold. He noticed that first, oddly, before anything else, the old foundry floor pressing its cold up through his shirt into his ribs as it had come up through his boots every night of the autumn. Above him the ceiling was one sheet of small flames from wall to wall, and he lay and looked at it. Somewhere a long way off, six hundred people had made one sound and were still making it.
 
-*Fingers,* he thought, and told them to curl. They curled, slowly, as if the message had to go round by a longer road than usual. From the elbow down the arm was a long ringing numbness with a hot seam through the middle of it. *Not broken. Badly hurt. It guards now. It doesn't block.*
+*Fingers,* he thought, and told them to curl. They curled, slowly, by a longer road than usual. From the elbow down the arm was a long ringing numbness with a hot seam through the middle of it. *Not broken. Badly hurt. It guards now. It doesn't block.*
 
 He put his right palm flat on the stone and got up.
 
@@ -136,19 +136,19 @@ He put his right palm flat on the stone and got up.
 
 Lira had known it a breath before he did.
 
-She had watched his feet the whole of the first exchange, the way she had watched them every morning for eleven days in the alcove and every night for a year before that. She watched them the way a woman watches a thing she made, waiting for it to go wrong in the place she knows is weakest. Four times they had been right. Four times she had seen the left hip drop and the body go left and forward in its fan, or the knee go down and the roll come across, and every time her own feet had moved a little inside her boots at the south rope, as if she were the one on the stone.
+She had watched his feet the whole of the first exchange, the way she had watched them every morning for eleven days in the alcove and every night for a year before that. She had made those feet, and she watched them for the place she knew was weakest. Four times they had been right. Four times she had seen the left hip drop and the body go left and forward in its fan, or the knee go down and the roll come across, and every time her own feet had moved a little inside her boots at the south rope.
 
 And four times she had watched the man watch him land.
 
 Nobody else had seen it; she was sure of that. The room had been watching the bursts, because the bursts were the noise and the danger. It had watched Cael vanish and reappear, and gasped, and laughed. But Lira stood almost behind Reydan's shoulder, close enough to see the side of his face, and she had seen where his eyes went after each burst. They did not go to where Cael had been, and they did not go to Cael. They went to the stone a little way in front of the place where he would come down, and they stayed there, very still, while he stood in the lock.
 
-He was counting. She knew it as surely as if he had said the numbers aloud.
+He was counting. She was sure of it.
 
 She had seen it once before, in the autumn, when the Shield with the tally book had stood in front of Cael and waited for him to land and counted two. Bede had counted it. She had told Cael so herself, afterward, at the landing table in her room with the lamp between them, and the two of them had sat there half the night with his Log open and worked out together what it meant: the lock was a shape and not a habit, a patient man could read it from a bench, and there was nothing Cael could ever do to make it shorter. They had written it in the Log, in his column for the things he could only guard. Then they had built the feet, so that he would never need the hip when he did not know. *The hip only when I know.*
 
 And he had known, each of those four times. He had known when. That was all the knock had ever promised him: the moment, and the moment was enough to go. And going left was the only way the hip ever went.
 
-When the second exchange began and Reydan came in from the right, Lira saw the gathering come into the man before the room did, a tightening down his right side as if somebody had pulled a cord through him. She saw Cael plant. She saw the hip begin to drop.
+When the second exchange began and Reydan came in from the right, Lira saw the gathering come into the man before the room did, a tightening down his right side, a cord pulled through him. She saw Cael plant. She saw the hip begin to drop.
 
 She saw Reydan's eyes go to the stone a little to the left of where Cael would land. It was the same place, exactly the same, and his eyes stayed there.
 
@@ -156,7 +156,7 @@ Her hands closed on the rope.
 
 She could not call out. Nobody could. The coaching rule was the oldest rule on this floor after the one about killing. Vell had once stood at her table and told a man to his face what it would cost to break it: *you won't fight in any circuit from here to the coast*. If Lira opened her mouth now, the bout would stop. Vell would stop it, and look at her, and write a line about her in the red-taped book that nobody could ever take back. She did not open her mouth.
 
-She stood at the rope and watched the thing she had made carry him exactly where the man had decided he would go.
+She stood at the rope and watched the thing she had made carry him where the man had decided he would go.
 
 The burst went in under his landing, and his arm came up, and she heard it hit. It was not a loud sound; it was short and flat, like a sack of grain dropped on boards, and she felt it in her teeth. Then he was in the air without having jumped, and then he was on the stone on his side. The whole room was on its feet and roaring, and Lira found that she had stopped breathing and could not remember how to start.
 
@@ -164,7 +164,7 @@ He lay there.
 
 One breath. Two. She counted them the way she counted for him in the alcove, without meaning to. He lay on his right side with his left arm across his body and his face turned up to the lamps, and he did not move. The room roared. And she thought, very clearly, *if he doesn't get up I'll not be able to keep my hands on this rope*.
 
-His right hand moved. It came down flat on the stone beside his hip, the way a man puts his hand on a table before he stands.
+His right hand moved. It came down flat on the stone beside his hip.
 
 He got up.
 

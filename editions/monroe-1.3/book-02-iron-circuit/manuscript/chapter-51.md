@@ -2,7 +2,7 @@
 
 The tired stage began on the eleventh day, the Saturday, and Lira made sure he was tired for it.
 
-She did not cut the morning short. She gave him the whole hour and then another half on top of it, at full speed, from the right and the left and the front with nothing before any of it. She sent him to the stone with the drop and up again with the roll until his left knee was shaking at the bottom of every drop and his breath was coming in pieces. At the end she stood back and looked at him the way she looked at a horse, and said, "That'll do. Go and give him what's left," and went up the steps without another word.
+She did not cut the morning short. She gave him the whole hour and then another half on top of it, at full speed, from the right and the left and the front with nothing before any of it. She sent him to the stone with the drop and up again with the roll until his left knee was shaking at the bottom of every drop and his breath was coming in pieces. At the end she stood back and looked him over, and said, "That'll do. Go and give him what's left," and went up the steps without another word.
 
 What was left was not much. He sat on the bench in the alcove at noon with the bread Brom had brought going down in lumps, and felt it: the particular emptiness of a body that has been spent to the bottom and not yet filled again, where every movement has to be asked for twice. His eyes were slow and his feet were stupid. When Brom stood up and set himself in the middle of the floor, Cael got up after him the way an old man gets out of a chair.
 
@@ -32,9 +32,9 @@ Then, because it was the eleventh day and he had kept the last three for it, the
 
 On the twelfth day, which was the chapel day, Lira cut the morning in half and kept the speed. She said she had seen a farrier do it with a horse before a long road: keep the pace, shorten the work, let the legs come back without letting them forget. He did not argue. His legs had begun, that morning, to feel like his again, a little lighter at the bottom of the drop, a little quicker coming off the right foot.
 
-In the afternoon, tired from the half-morning but not wrecked by it, he knocked Brom twenty times with the gathering and the strikes and the circling, all of it at once, the way the floor would be. The knock gave sixteen.
+In the afternoon, tired from the half-morning but not wrecked by it, he knocked Brom twenty times with the gathering and the strikes and the circling, all of it at once, as the floor would be. The knock gave sixteen.
 
-He held the back of his hand to the light from the arch and looked at the rings for a long time, and then he did something he had not done all fortnight. He turned to the page in the Log where he had written every session, and read it down from the top, and added it up.
+He held the back of his hand to the light from the arch and looked at the rings, and then he did something he had not done all fortnight. He turned to the page in the Log where he had written every session, and read it down from the top, and added it up.
 
 *At rest: 12, 14, 16.*
 
@@ -44,7 +44,7 @@ He held the back of his hand to the light from the arch and looked at the rings 
 
 *Tired: 12, 16.*
 
-He looked at it for a while. Every column ended in the same place, or near enough, sixteen in twenty, where against Keth it had been nine knocked and five answered, a coin he had never dared lean on. And the band after each knock came later now and left sooner; twenty knocks that used to stack him to the top of his head left a stripe behind the eyes that was gone by supper.
+Every column ended in the same place, or near enough, sixteen in twenty, where against Keth it had been nine knocked and five answered, a coin he had never dared lean on. And the band after each knock came later now and left sooner; twenty knocks that used to stack him to the top of his head left a stripe behind the eyes that was gone by supper.
 
 *About one in five fails,* he wrote, under the columns. *At worst. At a forearm good; at a pace still fair; at two paces still nothing. It answers use. It deepens where it's worked. Brom built the steps; I only climbed them.*
 
@@ -70,11 +70,11 @@ On the thirteenth day, the Monday, the Ironyard was full before the afternoon ca
 
 Dace had a ledger now, a little dog-eared book of his own that he kept in his coat and took out every half hour and wrote in and crossed out again. It was not Vell's book, and he would not let anybody call it that. It was a list of the people he had promised a place to stand, and it had been growing for a week. Cael passed him at the wall at midday and found him with the little book open against the chalk, running his pencil down a column and moving his lips.
 
-"Here's my trouble," said Dace, without looking round, as if Cael had asked. "The stone holds what it holds. Fill it to the rope and you've the floor full and the benches full and every man able to see over the one in front. Past that, they stand on each other's feet and somebody's child gets lost." He tapped the book. "I've given my word to more than that already. And then there's the street, which never asked anybody's leave in its life." He crossed a name out, and wrote it again lower down, and crossed out another. "So tomorrow, at that door, I'll be telling grown men to their faces that they're not coming in, one by one, while two men from the eel market sell stew in my corner." He shut the book. "Go away. You're one more body, and I'm counting you."
+"Here's my trouble," said Dace, without looking round, though Cael had not asked. "The stone holds what it holds. Fill it to the rope and you've the floor full and the benches full and every man able to see over the one in front. Past that, they stand on each other's feet and somebody's child gets lost." He tapped the book. "I've given my word to more than that already. And then there's the street, which never asked anybody's leave in its life." He crossed a name out, and wrote it again lower down, and crossed out another. "So tomorrow, at that door, I'll be telling grown men to their faces that they're not coming in, one by one, while two men from the eel market sell stew in my corner." He shut the book. "Go away. You're one more body, and I'm counting you."
 
-The stew had come in that morning on a handcart, in two great black pots, and the eel-market men had set up in the corner by the slate exactly where Dace had said they could, and were sweeping their own patch of stone already with a kind of pride. Somebody had hung three of the mending-stall pennants over the side door. Dace had seen them and said nothing, which Cael understood to mean he had decided not to see them.
+The stew had come in that morning on a handcart, in two great black pots, and the eel-market men had set up in the corner by the slate where Dace had said they could, and were sweeping their own patch of stone already with a kind of pride. Somebody had hung three of the mending-stall pennants over the side door. Dace had seen them and said nothing, which Cael understood to mean he had decided not to see them.
 
-The betting man had given up on his slab altogether and set up a board on two trestles by the pump. It had two columns on it now, side by side, and the columns did not agree. Down the left, under *practitioners*, the man from up the river was a long way in front, the way a man with a guild card for Iron rank eight would be in front in any room where people understood what the card meant. Down the right, under *the row*, it was nearly even, and every time the betting man shortened the left, somebody from the stalls came and laid a copper on the right and he had to shorten that as well.
+The betting man had given up on his slab altogether and set up a board on two trestles by the pump. It had two columns on it now, side by side, and the columns did not agree. Down the left, under *practitioners*, the man from up the river was a long way in front, as he would be in any room where people understood what Iron rank eight meant. Down the right, under *the row*, it was nearly even, and every time the betting man shortened the left, somebody from the stalls came and laid a copper on the right and he had to shorten that as well.
 
 "Never seen it," the betting man said to Cael, without being asked, in the tone of a man reporting a disease. "Never once in twenty years. The ones who know what he is say he wins. The ones who know what you are say you do. And nobody on this hill knows what both of you are." He wiped a figure out with his sleeve. "That's not a line. That's an argument."
 
@@ -98,7 +98,7 @@ She looked up as he passed this afternoon, over her spectacles, and lifted her p
 
 The lamps went up at dusk, all of them.
 
-Men on ladders had been at it since the middle of the afternoon, putting lamps on every beam and every hook and every nail that would bear one. When they were lit the low ceiling of the old foundry was a single field of small flames from wall to wall, and the black stone underneath shone up at it like the bottom of a pan. Cael had seen it lit like that twice before: for Keth, and for the Brom bout before that. It was brighter tonight. Dace had found more lamps somewhere. There was no corner of the building where a man could have stood in shadow.
+Men on ladders had been at it since the middle of the afternoon, putting lamps on every beam and every hook and every nail that would bear one. When they were lit the low ceiling of the old foundry was a single field of small flames from wall to wall, and the black stone underneath shone back at it. Cael had seen it lit like that twice before: for Keth, and for the Brom bout before that. It was brighter tonight. Dace had found more lamps somewhere. There was no corner of the building where a man could have stood in shadow.
 
 It was not the night of the bout. That was tomorrow. Tonight was only the Monday card, four ordinary bouts on the main floor that Dace had moved there because the main floor was lit anyway, and the room was fuller for it than it had ever been for any Monday in Cael's life. People had come to see the place where it would happen. They stood along the rope three deep and filled the benches and sat on the steps of the side door, eating the eel-market stew out of the pots' wooden bowls, talking about tomorrow in voices that went up and down like a tide.
 
@@ -108,7 +108,7 @@ The first bout was two Copper Blades he had watched a dozen times, and he let it
 
 The man was sitting on the end of the west bench, alone, with nobody within an arm of him on either side, though the bench was full everywhere else. Cael had never seen him, and knew him at once.
 
-He was not tall, but he was broad through the shoulders and neat in the way a man is neat who has been dressed by other people for a long time and has carried it on by himself, in a plain coat that was better than anybody's in the room. He sat with his forearms resting loosely on his knees and his hands hanging, and he was not watching the bout. He was watching the room the bout was in: the faces along the rope, the stew pots in the corner, Dace at the wall with the ledger, Vell at her table. His attention went from one to another without hurry, the way a man reads a page he expects to be tested on, and every so often it went to the floor for an exchange and came away again.
+He was not tall, but he was broad through the shoulders and neat in the way a man is neat who has been dressed by other people for a long time and has carried it on by himself, in a plain coat that was better than anybody's in the room. He sat with his forearms resting loosely on his knees and his hands hanging, and he was not watching the bout. He was watching the room the bout was in: the faces along the rope, the stew pots in the corner, Dace at the wall with the ledger, Vell at her table. His attention went from one to another without hurry, and every so often it went to the floor for an exchange and came away again.
 
 Cael put the gaze on him.
 
@@ -130,7 +130,7 @@ Lira came along the bench in the gap after the second bout and sat down beside h
 
 "He hasn't either."
 
-"I noticed. It's like watching two cats on a wall." She looked across the floor with her own eye, which was a good one, and was quiet for a while. "He's calm. Not the way Keth's calm, as if he's enjoying himself. Calm as if it's all been settled somewhere else."
+"I noticed. It's like watching two cats on a wall." She looked across the floor with her own eye, which was a good one, and was quiet a moment. "He's calm. Not the way Keth's calm, as if he's enjoying himself. Calm as if it's all been settled somewhere else."
 
 "I think it has." Cael watched the man watch the stew pots. "I think he sat down a long time ago and worked out what losing would cost him, and found it was a price he could pay. So he doesn't have to think about it any more."
 
@@ -138,13 +138,13 @@ Lira came along the bench in the gap after the second bout and sat down beside h
 
 "I don't know yet." He looked at her sideways. "Ask me tomorrow."
 
-She leaned against his shoulder for a moment, the way she sometimes did on a bench, the weight of her there and then gone. Then she sat up and stayed beside him, the two of them watching the room, and neither said anything more until the third bout was called.
+She leaned against his shoulder for a moment, as she sometimes did on a bench, the weight of her there and then gone. Then she sat up and stayed beside him, the two of them watching the room, and neither said anything more until the third bout was called.
 
 ---
 
 Reydan had come for the room, and he had it. Then, in the middle of the second bout, he found the boy.
 
-The boy was at the east post, half hidden by the crowd at the rope, and Reydan found him by the quality of his stillness before he found his face. In a room built for noise there were always one or two who sat like that. One had been the river-academy coat on the east bench, the first night; this was another, younger, with a grey book shut on his knee. He was watching Reydan. Reydan felt it the way you feel a draught: a steady attention, patient and not at all hostile, going over him a piece at a time.
+The boy was at the east post, half hidden by the crowd at the rope, and Reydan found him by the quality of his stillness before he found his face. In a room built for noise there were always one or two who sat like that. One had been the river-academy coat on the east bench, the first night; this was another, younger, with a grey book shut on his knee. He was watching Reydan. Reydan felt it like a draught: a steady attention, patient and not at all hostile, going over him a piece at a time.
 
 He let it.
 
@@ -152,11 +152,11 @@ It was a good look. Reydan knew good looks; he had been looked at by masters sin
 
 So Reydan gave him nothing. He had learned to do it at fourteen, at the academy, sitting through examinations with a master behind him writing. He knew that a resting body told everything to anybody who knew how to look, and he had learned to rest without telling. It was a habit by now, like closing a door behind him. He kept his breath on its count and his hands where they were and let the boy look for as long as he liked.
 
-The boy looked for an hour, and did not get frustrated, and did not look away, and did not go and do something foolish to see what Reydan would do about it. Then a girl with a staff sat down beside him and nudged him with her shoulder, and he said something to her without taking his eyes off Reydan, and Reydan was sure, from the set of the boy's mouth, that he had understood exactly what he was not being given.
+The boy looked for an hour, and did not get frustrated, and did not look away, and did not go and do something foolish to see what Reydan would do about it. Then a girl with a staff sat down beside him and nudged him with her shoulder, and he said something to her without taking his eyes off Reydan, and Reydan was sure, from the set of the boy's mouth, that he had understood what he was not being given.
 
 Reydan found he was pleased by that, more than he could account for.
 
-He looked for the rest of the boy, while the boy looked for him. He was fifteen, perhaps, or sixteen; the story had not said. He was thin in the way of somebody who had been hungry within the last few years and remembered it. There were bruises on both forearms, old and new laid over each other, and he sat favouring his right shoulder by a hair, which meant somebody had been hitting him there all fortnight on purpose. He watched the room the way Reydan watched it, not the bouts but everything round them, and Reydan could not remember the last time he had seen anybody else do that who was not also being paid to.
+He looked for the rest of the boy, while the boy looked for him. He was fifteen, perhaps, or sixteen; the story had not said. He was thin in the way of somebody who had been hungry within the last few years and remembered it. There were bruises on both forearms, old and new laid over each other, and he sat favouring his right shoulder a little, which meant somebody had been hitting him there all fortnight on purpose. He watched the room the way Reydan watched it, not the bouts but everything round them, and Reydan could not remember the last time he had seen anybody else do that who was not also being paid to.
 
 And that was all Reydan could say. He could judge what he saw, and he had judged it: a boy who watched like a master and had been worked hard by people who cared whether he lived. What the boy was, under that, he did not know. The keeper's line said *no Path designation*. The boy's body, sitting, said nothing about a Path at all, which might mean anything. Reydan sat on the end of the west bench and found, for the second time on that hill, that he did not want to guess.
 
@@ -196,7 +196,7 @@ He did not come in. He stood the way Dace stood at arches, with the light of eve
 
 "I don't mean get through it." Brom's voice was flat and careful, as if he had been carrying the words a long way and did not want to drop any. "I don't mean lose it well and write down what it taught you, the way you've done with everything since I sat down on your bench. You've got good at that. You're the best I've ever seen at it. I don't mean that." He let a moment go. "I mean win."
 
-Cael looked at him for a long time.
+Cael looked at him.
 
 He thought of the thirteen days since Dace's shadow came across the alcove floor: Lira's staff from the right with nothing before it, and the drop that had gone into his legs. Twelve redirects and a groove worn through his shoulder. Sixteen in twenty, tired. Ansel buttoning his coat, and the clerk's fourth page, and the half-second in the ninth session that he could not call. A man on the west bench who managed what he leaked. He had always gone into a fight leaving room for a loss that would teach him something, a way out at the back of every plan. He looked for it now, out of habit, and found that it was not there. He had not taken it away. It had simply stopped being there at some point in the last few days, while he was busy.
 
@@ -204,11 +204,11 @@ He thought of the thirteen days since Dace's shadow came across the alcove floor
 
 It came out different. He heard it come out different, and so did Brom.
 
-Brom stood in the arch a moment longer. Something in his big shoulders let go, very slightly, the way they let go after the hold when the breath went out through his nose.
+Brom stood in the arch a moment longer. Something in his big shoulders let go, very slightly, as they let go after the hold when the breath went out through his nose.
 
 "That's what I came down to hear," he said. "I'll be at the north rope. She'll be at the south. If you look for either of us you'll find us, and if you don't look you'll know we're there." He stepped back out of the arch. "Be on your own with it now. I'll walk her up the hill."
 
-He went, the way he always went, without any ceremony, and Cael heard his feet go away along the main room and Lira's voice meet him at the far end. Then he was alone in the alcove with the lamp, and the straw post, and the chalk cross on the floor where Lira had made him drop four hundred times, and the noise of the building going quiet round him.
+He went, as he always went, without any ceremony, and Cael heard his feet go away along the main room and Lira's voice meet him at the far end. Then he was alone in the alcove with the lamp, and the straw post, and the chalk cross on the floor where Lira had made him drop four hundred times, and the noise of the building going quiet round him.
 
 He sat on the bench against the back wall with the Log open on his knee and did not write anything for a long time.
 
@@ -228,7 +228,7 @@ Then the things he had, short, so that he could carry the list onto the floor in
 
 *The gaze: no ration tomorrow.*
 
-He looked at the list for a long time. Then he turned to the front of the book, where the fragments were, and counted them the way he had counted them on the first page a year ago, one finger on each.
+He looked at the list. Then he turned to the front of the book, where the fragments were, and counted them the way he had counted them on the first page a year ago, one finger on each.
 
 Three integrated fragments, one anomaly.
 
@@ -250,7 +250,7 @@ He read it back once; it was true, as far as he could see, and it was more than 
 
 He closed the book.
 
-He did not go up the hill straight away. He sat on in the alcove with the lamp low and the Log shut on his knee, and did not think about the plan, or the knock, or the man. He thought about nothing in particular for a long time: the chalk cross on the floor, the straw post on its rope, the cold coming in under the arch. Fear came and sat with him, and he let it, the way he would have let a dog lie down at his feet, and after a while it was only another thing in the room.
+He did not go up the hill straight away. He sat on in the alcove with the lamp low and the Log shut on his knee, and did not think about the plan, or the knock, or the man. He thought about nothing in particular: the chalk cross on the floor, the straw post on its rope, the cold coming in under the arch. Fear came and sat with him, and he let it, as he would have let a dog lie down at his feet, and after a while it was only another thing in the room.
 
 When he went out at last the main room was dark except for the lamps the sweepers had left at the doors. The stone gave back his footsteps. Above it, on every beam and hook, the hundreds of lamps hung cold and black and waiting to be lit again.
 

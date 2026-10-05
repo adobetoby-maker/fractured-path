@@ -8,11 +8,11 @@ Dace did it standing on an upturned crate with a fresh stick of chalk and the wh
 
 "That's the season," said Dace to nobody, and dusted his hands on his trousers. "Anybody who wants to be on it and isn't, the list's in my head. Anybody who's on it and wants to be off it, the list's shorter."
 
-The floor laughed, and then it went to the wall, all at once, the way pigeons go to a dropped crust.
+The floor laughed, and then it went to the wall, all at once.
 
 Cael did not go. His knees would have carried him, though they still had opinions about stairs; but there were forty people between him and the wall, and he could read the wall from where he was, which meant he could read the forty people as well. He watched who went to the top of it first.
 
-At the top, in the corner where Dace always put the line, a name stood by itself on the first main-floor night of the season with no opponent chalked against it. *Keth.* Under it Dace had drawn a small square and left it empty: the box for whoever Keth would fight. The whole floor seemed to know without being told that the box would stay empty until Keth himself had said who he wanted in it. Cael looked at the empty square for a while. Then he looked down the floor to the newcomers' ring, where Keth sat on the edge of a bench with his practice blade across his knees, not looking at the wall at all, watching a girl's feet.
+At the top, in the corner where Dace always put the line, a name stood by itself on the first main-floor night of the season with no opponent chalked against it. *Keth.* Under it Dace had drawn a small square and left it empty: the box for whoever Keth would fight. The whole floor seemed to know without being told that the box would stay empty until Keth himself had said who he wanted in it. Cael looked at the empty square. Then he looked down the floor to the newcomers' ring, where Keth sat on the edge of a bench with his practice blade across his knees, not looking at the wall at all, watching a girl's feet.
 
 He had a page on that man, though he had never meant to have one; it had grown anyway, a line or two at a time, through a whole season of dawns, and he did not open it now.
 
@@ -58,7 +58,7 @@ Lira was quiet, and then she breathed out through her nose, not quite a laugh.
 
 "I'd have known."
 
-"Yes." She looked at the column again, at the one word on the end of the line. "*Didn't.*" She said it as she said the name of a step she was teaching, as if trying it for weight. "That's the right word. You didn't. It's not *couldn't*, and it's not *won't*. It's the thing you did instead." She pushed the book back across the table to him, gently, with two fingers. "Thank you for showing me."
+"Yes." She looked at the column again, at the one word on the end of the line. "*Didn't.*" She said it as she said the name of a step she was teaching, trying it for weight. "That's the right word. You didn't. It's not *couldn't*, and it's not *won't*. It's the thing you did instead." She pushed the book back across the table to him, gently, with two fingers. "Thank you for showing me."
 
 "It might happen again. I don't know how to stop it opening. Only how to shut it."
 
@@ -66,7 +66,7 @@ Lira was quiet, and then she breathed out through her nose, not quite a laugh.
 
 He laughed, and she did too, and the heavyset man's wife came down the stairs into the middle of it and looked at them both with deep suspicion and put the porridge on.
 
-Afterward, alone at the crate desk with the Log open, he looked at the column for a while. He had ruled it for himself, for the cost of carrying a thing shut. It had not occurred to him until that morning that the things he carried shut might be about other people as well, and that some of them might want to know.
+Afterward, alone at the crate desk with the Log open, he looked at the column. He had ruled it for himself, for the cost of carrying a thing shut. It had not occurred to him until that morning that the things he carried shut might be about other people as well, and that some of them might want to know.
 
 ---
 
@@ -90,7 +90,7 @@ At six paces Brom stopped, with his back nearly to the arch.
 
 The band came round his head a minute later, hard, and he sat with his palms over his eyes while it settled.
 
-"Six," said Brom, from the arch. He sounded pleased in his flat way, the way he had sounded about the bruise. "Twice what you had on the first day."
+"Six," said Brom, from the arch. He sounded pleased in his flat way, as he had sounded about the bruise. "Twice what you had on the first day."
 
 "I didn't do anything."
 
@@ -114,13 +114,13 @@ And before it, every time, his lead shoulder dropped.
 
 It was very small: a finger's width, the rim of the shield dipping a little with it, as a man's shoulder dips when he sets it against a door he means to shove. Cael had seen it first on a side floor three weeks ago and written it down, with the date, and a question mark after it. He had seen it again eleven days later and written it down again, with that date, and taken the question mark off. Both entries sat on the Shield's page in the grey book, one under the other. Under them was a third line, in ink: *Drop, then rush. Two of two. Wait for three.*
 
-The bout was in the middle of the afternoon, on the side floor by the north wall, and the room was thin, the way the Ironyard was thin at that hour even in the season. There were fifty or sixty on the benches, carters between loads, the newcomers from Keth's ring, a few of Orvet's people at the west post in a knot round Orvet himself. Orvet was already shouting, with a red neckcloth on and a grey beard that wagged when he shouted, and Cael had long since stopped hearing him except as weather.
+The bout was in the middle of the afternoon, on the side floor by the north wall, and the room was thin, as the Ironyard was thin at that hour even in the season. There were fifty or sixty on the benches, carters between loads, the newcomers from Keth's ring, a few of Orvet's people at the west post in a knot round Orvet himself. Orvet was already shouting, with a red neckcloth on and a grey beard that wagged when he shouted, and Cael had long since stopped hearing him at all.
 
 At the betting man's crate by the side door, a man in a good coat with academy stitching across the shoulders was counting coins into the betting man's palm. Cael knew him; he had last seen him at Vell's table a few months back, with a folded paper in his pocket, being told what the keepers would say about him from here to the sea. The man looked across at Cael once while he paid, and then away.
 
 Cael noticed it, and put it with the faces, and went to his mark.
 
-His knees were good, not new but good; two weeks of the stairs and the alcove crosses had brought them back to something he could trust for a short floor and four exchanges if he did not ask them to do anything clever. He had decided, walking down, what he would ask of them, and it was not much. The Wind on a read, or not at all. The Pressure left where it was; the Shield did not hit hard enough to need it answered, and he did not want it on anybody's page. And the new thing on his skin, he would not open at all. On a floor, against a man who was moving, it would be worth exactly nothing, and it would take the other two down with it when it went.
+His knees were good, not new but good; two weeks of the stairs and the alcove crosses had brought them back to something he could trust for a short floor and four exchanges if he did not ask them to do anything clever. He had decided, walking down, what he would ask of them, and it was not much. The Wind on a read, or not at all. The Pressure left where it was; the Shield did not hit hard enough to need it answered, and he did not want it on anybody's page. And the new thing on his skin, he would not open at all. On a floor, against a man who was moving, it would be worth nothing, and it would take the other two down with it when it went.
 
 "Begin," said the junior keeper at the side table, a young man of Vell's who wrote the afternoon cards in a hand very like hers.
 
@@ -134,13 +134,13 @@ It was well done, and the man did not hurry it. He came forward a half-step at a
 
 He gave ground. He gave it slowly, on short steps the knees could sign for, and he watched the shoulder.
 
-Two more half-steps, and his back heel touched the chalk of the boundary. Behind it, a hand's width away, was the rope, and the benches behind that, and faces. Somebody on the near bench drew a breath. At the west post Orvet's voice went up a tone, telling his man something about his feet that his man did not need telling.
+Two more half-steps, and his back heel touched the chalk of the boundary. Close behind it was the rope, and the benches behind that, and faces. Somebody on the near bench drew a breath. At the west post Orvet's voice went up a tone, telling his man something about his feet that his man did not need telling.
 
 The Shield's weight settled on his back foot.
 
 Cael did not look at the club, or the rim, or the man's face. He looked at the lead shoulder, at the place where the shirt met the strap of the shield, and he waited, and he did not breathe more than he needed to.
 
-The shoulder dropped. A finger's width, as it had in both entries; the rim dipped with it.
+The shoulder dropped, as it had in both entries; the rim dipped with it.
 
 The hip went on the read. It went as it went now when he had paid for it with watching first, cleanly, cheaply, with the half-breath held. The floor went short, front-left, half a body along the chalk and out of the line, and he was in the lock, two *ands* of bright stillness with the world going by in front of him.
 
@@ -158,7 +158,7 @@ The room made its noise. At the west post Orvet was shouting something long and 
 
 Cael went back to his mark and went over himself. The hip line was there, thin, the read price, a pencil line and not a brushstroke. The forearm rang where the rim had caught it, his knees were fine, and his breath came back into its count in four. He had spent one burst and nothing else, and he still had his whole afternoon in him.
 
-Across the floor the Shield got up, slowly, and stood with his hand flat on his side for a while. He looked at Cael, and he was not angry; he looked like a man going back over a sum he had got wrong, trying to find the line where it went bad. Then he looked down at his own left shoulder, as if it belonged to somebody else.
+Across the floor the Shield got up, slowly, and stood with his hand flat on his side. He looked at Cael, and he was not angry; he was going back over it, looking for the line where it went bad. Then he looked down at his own left shoulder, as if it belonged to somebody else.
 
 He knew, Cael thought. Not what it was. But he knew that something he had done had been read, and that it was his.
 
@@ -188,7 +188,7 @@ Cael thought about it, because the man had asked a fair question, and he had a r
 
 "Something you'll find yourself," he said, "if you go and look at how you stand before you go in."
 
-The Shield considered that, and then nodded slowly, as Ulric had nodded in the spring.
+The Shield considered that, and then nodded slowly.
 
 "I'll look," he said, and went off toward the west post, where Orvet met him with both arms going.
 
@@ -196,7 +196,7 @@ The academy-coat man was no longer at the betting man's crate. Cael looked for h
 
 The purse was twelve marks, eight his. He paid his rent out of it on the way up the hill, a week early, to the heavyset man on the step, who took it without counting and said, "Win?" and nodded at the answer as though it had been a weather report.
 
-At the crate desk he wrote the bout plainly, a line an exchange, as he always did. *First: survey. Rim fast on his left; my left slow; took the rim on the forearm. Second: walked me to the rope. Waited. The drop came. One burst on the read, front-left; lock; ribs. Third: he held the drop up by force, and the rush died without it. Two steps, no burst. Ribs. Hand up.* Under the second exchange he wrote the cost: *one read burst, thin line.* Under the third he wrote the thing he liked best about the afternoon, which was that he had not needed the hip at all.
+At the crate desk he wrote the bout up, a line an exchange, as he always did. *First: survey. Rim fast on his left; my left slow; took the rim on the forearm. Second: walked me to the rope. Waited. The drop came. One burst on the read, front-left; lock; ribs. Third: he held the drop up by force, and the rush died without it. Two steps, no burst. Ribs. Hand up.* Under the second exchange he wrote the cost: *one read burst, thin line.* Under the third he wrote the thing he liked best about the afternoon, which was that he had not needed the hip at all.
 
 *He corrected his tell in one exchange,* he wrote. *It cost him his rush. Fixing a tell can cost more than the tell.*
 

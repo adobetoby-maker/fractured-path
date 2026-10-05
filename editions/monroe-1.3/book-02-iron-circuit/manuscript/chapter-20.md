@@ -20,7 +20,7 @@ He ran it two ways. The first way, he went on his own decision. He stood on a ma
 
 He ran it twenty times each way, with a rest between every five, and after each five he sat down on the bench and put his hand on his hip and told her what it said.
 
-It said the same thing every time. When he went on his own decision, the line from the crest of the bone to the inside of the knee was a thin pencil line, and his breath came back in four or five beats of his pulse, so that he could have gone again at once; when he went on hers, the line was a brushstroke, wide and warm. Twice in the second five his knee gave a finger's width on the landing, and his breath took twice as long to come back, and once, on the fourth, he went short half a pace less far than he meant and missed the mark altogether.
+It said the same thing every time. When he went on his own decision, the line from the crest of the bone to the inside of the knee was a thin pencil line, and his breath came back in four or five beats of his pulse, so that he could have gone again at once; when he went on hers, the line was a brushstroke, wide and warm. Twice in the second five his knee gave a little on the landing, and his breath took twice as long to come back, and once, on the fourth, he went short half a pace less far than he meant and missed the mark altogether.
 
 "The same mark," said Lira, who had been keeping a tally on the end of her stick with her thumbnail. "The same distance. You went to the same place both ways. I watched your feet."
 
@@ -44,7 +44,7 @@ He stopped, and then added, under the ruling, what he had begun to think in the 
 
 *So the watching isn't a separate thing from the step. It's what pays for it. All year I've had them in two different books. They might be one tool.*
 
-Lira read it upside down and was quiet for a while.
+Lira read it upside down and was quiet.
 
 "You didn't know that."
 
@@ -68,7 +68,7 @@ He rested for the length of an exchange, counting it on his pulse, and then thre
 
 Then three.
 
-The first went out clean. The second went out clean, and the hollow under his ribs was the size of a fist. The third went out, and he felt it go thinner as it went, as if it had had to be scraped up from the bottom of a jar. The post jumped, but less, and the hollow under his ribs had become a hole he could have put both hands in, and his breath had gone ragged at the edges. He stood with his fist still against the post and knew, as plainly as he had ever known anything about his own body, that if he asked for a fourth there would be something there, but not enough of it. What came might go into the post, or it might come back up his arm the way the off-beat ones did, and he would find out which only after it had happened.
+The first went out clean. The second went out clean, and the hollow under his ribs was the size of a fist. The third went out, and he felt it go thinner as it went, as if it had had to be scraped up from the bottom of a jar. The post jumped, but less, and the hollow under his ribs had become a hole he could have put both hands in, and his breath had gone ragged at the edges. He stood with his fist still against the post and knew, as surely as he had ever known anything about his own body, that if he asked for a fourth there would be something there, but not enough of it. What came might go into the post, or it might come back up his arm as the off-beat ones did, and he would find out which only after it had happened.
 
 He did not throw the fourth.
 
@@ -76,7 +76,7 @@ He stood back from the post and let his arm hang and breathed until the hole und
 
 *PRESSURE-ADJACENT. Costs (add): giving face, three on the beat in one sequence. First two clean. Third thinner, scraped up. The hollow under the ribs grew with each one: egg, fist, hole. Breath ragged after the third. Didn't throw a fourth. Ruling: three is the working ceiling. It isn't the thing that fails past three. It's me. The face draws from the same place that keeps my breath in order, and a fight can't be fought with that place empty. Whatever's past three, a bout that counts is the wrong place to meet it.*
 
-He read it back and thought about how it applied to the bout that mattered, and found it did not apply at all, and laughed out loud in the empty alcove. He was not going to use the giving face on Brom even once. He had just spent an hour learning exactly how much of a thing he would not be using.
+He read it back and thought about how it applied to the bout that mattered, and found it did not apply at all, and laughed out loud in the empty alcove. He was not going to use the giving face on Brom even once. He had just spent an hour learning how much of a thing he would not be using.
 
 He wrote that down too, underneath, because it was funny and true: *Ceiling for B.: nought. See the sheet.*
 
@@ -108,11 +108,11 @@ So he answered the newcomers as he would have answered anybody, and let the boy 
 
 There was a second thing, and it was smaller, and he did not know what to do with it.
 
-The bench where the boy sat was not much more than the length of a bench away from where Brom stood, and so, without meaning to, every afternoon, Brom read him. He could not help it any more than he could help hearing a voice in the next room. And the boy sitting still with his fingers on his wrist read the way he had read on the east bench: a weight that was not where a weight ought to be, not empty, quiet. Once, on the fifth day, when one of the newcomers fell wrong and the boy's whole body leaned a finger's breadth toward catching her before he caught himself, the weight moved in him the way it moved in his fights: the short Wind-like flicker, there and gone, from a boy who had not even stood up.
+The bench where the boy sat was not much more than the length of a bench away from where Brom stood, and so, without meaning to, every afternoon, Brom read him. He could not help it any more than he could help hearing a voice in the next room. And the boy sitting still with his fingers on his wrist read as he had read on the east bench: a weight that was not where a weight ought to be, not empty, quiet. Once, on the fifth day, when one of the newcomers fell wrong and the boy's whole body leaned toward catching her before he caught himself, the weight moved in him as it moved in his fights: the short Wind-like flicker, there and gone, from a boy who had not even stood up.
 
 Brom stood very still in the middle of his alcove with the girl getting up off the stone in front of him, and did not look at the bench.
 
-He did not know what he was reading, and he did not like not knowing, and he found that he liked it very much at the same time. That evening, at the carters' inn by the north gate, eating his supper at the end of the long table where the drivers left him alone, he tried to put it into words for himself, the way he had once put the boat shed into arithmetic. He could not. The nearest he came was that he had spent two years building a library of every shape a person could make on the floor above him, and the boy was not a shape in it. The boy was the floor creaking where nobody stood.
+He did not know what he was reading, and he did not like not knowing, and he found that he liked it very much at the same time. That evening, at the carters' inn by the north gate, eating his supper at the end of the long table where the drivers left him alone, he tried to put it into words for himself, as he had once put the boat shed into arithmetic. He could not. The nearest he came was that he had spent two years building a library of every shape a person could make on the floor above him, and the boy was not a shape in it. The boy was the floor creaking where nobody stood.
 
 He paid his week ahead in the morning, as he always did, and went down the hill to be timed.
 
@@ -146,7 +146,7 @@ Brom chewed.
 
 Cael stopped with a piece of bread halfway to his mouth.
 
-"That's not—" He thought about it, honestly, standing in the cold. He had checked his pulse against the lamp-shadow in an empty room, and he had not checked it once since, in the alcove, with a big man sending newcomers sideways in front of him. "It doesn't go up that much."
+"That's not—" He thought about it, standing in the cold. He had checked his pulse against the lamp-shadow in an empty room, and he had not checked it once since, in the alcove, with a big man sending newcomers sideways in front of him. "It doesn't go up that much."
 
 "How do you know?"
 
@@ -190,19 +190,19 @@ She did. Cael's pulse went up by about a fifth over the hour, which was enough t
 
 ---
 
-Brom trained twice most days now, after the noon meal and again in the evening when the card was thin, and Cael sat through both. By the seventh session he could draw the man, and he did, on a clean page, the way he had once drawn the fan of his own burst.
+Brom trained twice most days now, after the noon meal and again in the evening when the card was thin, and Cael sat through both. By the seventh session he could draw the man, and he did, on a clean page, as he had once drawn the fan of his own burst.
 
 It was a coverage map. He had made one for himself in the week of the seam, the fan of places the burst would go and the quarter it would not. This was the same thing turned inside out: not where a man could go but where he was hard, and when.
 
 Brom was not hard all over. That was the first thing the drawing told him, and he would not have believed it if he had not spent seven sessions watching where the newcomers' hits went and what came back from each, because the hardening went only where Brom trusted it to find the hit cleanly: his lead forearm, the left, which he held loose across his front, took the most and turned the most back. So did the outer edge of his lead foot, when he set it to meet something; once, when the tall lad aimed a kick at it, he had turned the edge of the foot into the kick and sent the lad's whole leg back past him as if the stone had shrugged. Across the chest and the shoulders it was there, but less, and the answers came slower and sent the newcomers less far. And between that foot and the knee, on the shin and the ankle and the back of the calf, Cael had almost nothing written at all. Below the knee, the man was very nearly only a man.
 
-He sat looking at the empty place on the drawing for a long time.
+He sat looking at the empty place on the drawing.
 
 It might be that the hardening could not reach that far easily, from wherever in the man it came from; or it might be that in two years nobody had ever made him pay for leaving it bare, since newcomers did not know to kick low and most fighters in the Ironyard aimed at the middle of a man, because that was where a man was. Cael wrote both possibilities down beside the gap below the knee, and underlined the gap, and did not let himself decide which was true.
 
 At the ninth and tenth sessions he tested the other thing, and did it without telling Brom what it was for.
 
-He had seen it on the seventh, against the post, and it was the third of the man's intervals, the one that came after the throw. When Brom had held a hit and sent it back, the low breath he had taken in before the knock went out of him all at once, in a long push through the nose, the way a man breathes out when he sets a sack down; and until he had drawn the next one in, low, nothing on him was hard. It was like the way a bow has to come back to straight before it can be drawn again. Against the newcomers, who came one at a time with rests between, it never mattered, because nobody was quick enough or close enough to land anything in it; but a moment was a moment.
+He had seen it on the seventh, against the post, and it was the third of the man's intervals, the one that came after the throw. When Brom had held a hit and sent it back, the low breath he had taken in before the knock went out of him all at once, in a long push through the nose; and until he had drawn the next one in, low, nothing on him was hard. It was like a bow, which has to come back to straight before it can be drawn again. Against the newcomers, who came one at a time with rests between, it never mattered, because nobody was quick enough or close enough to land anything in it; but a moment was a moment.
 
 So at the tenth, while Brom was working the padded post on his own between newcomers, Cael got up off the bench and went to stand by the post. He swung it himself, twice, quickly, one push and then another half a beat after, at two different speeds, so that it came back at Brom's forearm on a rhythm Brom had not set.
 
@@ -228,13 +228,13 @@ It happened without Cael. He came down the hill after the noon meal and found th
 
 "He asked me," she said, before Cael could open his mouth. "This morning. At the post. He came across and stood in the arch and said, *Your partner. Does he hit hard.* That was it. Six words. I said yes. He said, *Can I borrow him.* I said he costs a mark an hour. He said, *Good.*" She unfolded her arms. "So I've lent him my partner for an hour, for a mark, and I've got the mark, and you've got something to watch that isn't a twelve-year-old."
 
-The dock partner was a Bronze washout, which meant he had once been sent somewhere better than this and had not been kept, and he hit like a man who had been taught by people who were paid well to teach. He did not come one at a time with rests between. He came in combinations, the way he came at Lira, three and four blows run together.
+The dock partner was a Bronze washout, which meant he had once been sent somewhere better than this and had not been kept, and he hit like a man who had been taught by people who were paid well to teach. He did not come one at a time with rests between. He came in combinations, as he came at Lira, three and four blows run together.
 
 Cael sat on the bench with his fingers on his wrist and the middle column ruled, and watched Brom work properly for the first time.
 
 For most of the hour, nothing broke. The dock partner came, and Brom answered, and the dock partner went sideways and came again; it was harder and faster than anything the newcomers could do, and Brom's answers were harder and faster to match it. Then, near the end, with both men breathing hard, the dock partner put four together as quickly as Cael had ever seen anybody put four together. A right to the ribs, a left to the forearm, a right to the shoulder, all three answered, each one sending the dock partner a little more off his line. And the fourth, a short left to the chest, came in the bow's moment.
 
-It did not come in half a beat of it, because the moment was longer. After the third throw the breath went out of Brom as it always did, and the next one came in short and high, not low, as if there were less room for it, and Cael, counting on the pulse he had promised Lira he would watch, made it two full beats from the third throw to the next time Brom's arm was hard: two beats in which the dock partner's left landed on an ordinary chest and Brom grunted and gave a step, the first step Cael had seen him give in all the sessions.
+It did not come in half a beat of it, because the moment was longer. After the third throw the breath went out of Brom as it always did, and the next one came in short and high, not low, with less room for it, and Cael, counting on the pulse he had promised Lira he would watch, made it two full beats from the third throw to the next time Brom's arm was hard: two beats in which the dock partner's left landed on an ordinary chest and Brom grunted and gave a step, the first step Cael had seen him give in all the sessions.
 
 Three hard answers, close together, and the fourth was slow.
 

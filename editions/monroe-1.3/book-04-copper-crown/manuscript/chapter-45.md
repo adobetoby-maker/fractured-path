@@ -30,7 +30,7 @@ Brom half rose from the bench. She looked at him, and he sat down again and beca
 
 In six days she would walk out onto the oak for the Copper final, Copper Rank Two on her certificate and Iron-equivalent by every honest ledger on the bluff, on a leg the safety instructor had not cleared, against the one fighter in the bracket who knew it best.
 
-Karis had the grey notebook open beside her bread, at a page Cael knew. Down its left side ran a column of small ruled boxes, one for every night between the semifinals and the final, and every box above this morning's line had a neat cross in it. It was the second round of Rooke's nineteen exercises, the ones Brom did by lamplight in the corner of the common room. All season he had done them four a week, but on the night of his semifinal Rooke had put him on one a night until the final, and Karis had ruled a fresh page to match. Karis had ruled the boxes out to the eighteenth, the night before the final, and she had told nobody but Cael why she stopped there.
+Karis had the grey notebook open beside her bread, at a page Cael knew. Down its left side ran a column of small ruled boxes, one for every night between the semifinals and the final, and every box above this morning's line had a neat cross in it. It was the second round of Rooke's nineteen exercises, the ones Brom did by lamplight in the corner of the common room. All season he had done them four a week, but on the night of his semifinal Rooke had put him on one a night until the final, and Karis had ruled a fresh page to match. The boxes ran out to the eighteenth, the night before the final, and she had told nobody but Cael why she stopped there.
 
 "You didn't miss one," she said to Brom.
 

@@ -2,13 +2,13 @@
 
 Brom had known from the first blow that the boy had brought Lira's dock partner onto the floor with him.
 
-Three hard, close together, each one new: it was the shape of last week's afternoon in the alcove, when the broad man had run four together and Brom had given him a step on the fourth, with the boy on the bench counting. Brom had paid the man a mark of his own afterward, on top of Lira's, and the man had looked at the coin as if it puzzled him. It had been for the step. Brom had wanted to see what the boy would build out of it, and now he had seen.
+Three hard, close together, each one new: it was the shape of last week's afternoon in the alcove, when the broad man had run four together and Brom had given him a step on the fourth, with the boy on the bench counting. Brom had paid the man a mark of his own afterward, on top of Lira's, and the man had looked at the coin, puzzled. It had been for the step. Brom had wanted to see what the boy would build out of it, and now he had seen.
 
 It was a good thing to have found. The patient men in the boat shed had found it too, two winters ago, at the end of a bad month, and that was why he threw people far. Tonight he had thrown the boy further than any blow needed, a step and a half, two steps, every time and on purpose, out past the place where the purse lay open; and he had watched him come back each time a beat too late. On the third the boy's shoulders had gone still in the way they did when a page turned over in his head. Brom had seen that stillness a dozen times from the end of the east bench. Seeing it out here under the lamps, he had felt something that was not quite pleasure, but lived next door to it.
 
 What he had not expected came in the same exchange, on two separate blows.
 
-Something had gathered in the boy. It came toward the arm, slow and dense, the way a weight gathers in a man who means to put his whole body behind a blow and more. It was almost the shape the read gave a Pressure practitioner in the moment before the strike, and then it was not; it was too loose, too strange, going round that middle Brom could never find. Each time it rose to the very edge of the boy's arm, and each time it stopped there and stayed, held, the way a man holds his breath under water because the air is somewhere he has decided not to go.
+Something had gathered in the boy. It came toward the arm, slow and dense. It was almost the shape the read gave a Pressure practitioner in the moment before the strike, and then it was not; it was too loose, too strange, going round that middle Brom could never find. Each time it rose to the very edge of the boy's arm, and each time it stopped there and stayed, held, the way a man holds his breath under water because the air is somewhere he has decided not to go.
 
 The boy had kept something shut all night, at a cost. Brom did not know what it was. He knew what holding a thing shut felt like on the read, because he had felt men do it, and it was never cheap. In the second exchange he had felt the other thing in the boy, the Wind-like flicker in the hip, go dim as a lamp goes when somebody turns it down, and stay dark.
 
@@ -20,13 +20,13 @@ In the third the boy was very quiet on the read.
 
 What was left in him was the weight Brom had no shelf for, faint now, careful, close, like somebody crossing the boards upstairs in stockings so as not to wake the house. None of his touches was worth a breath, so Brom spent none on them, and waited. He had decided at the reset to see the exchange out patiently and be kind about the end of it. He had thought there was nothing more in the bout to learn.
 
-He had the read on the boy at a bench's length, the way he had held it all night, laid on him like a flat hand on a beam. And the boy's weight was there under it, as it had been all night.
+He had the read on the boy at a bench's length, as he had held it all night, laid on him like a flat hand on a beam. And the boy's weight was there under it, as it had been all night.
 
 Then it was not.
 
-Brom had felt a great many things go quiet on the read. A man hit hard enough went quiet, sometimes, for a breath. The unkindled were quiet always, and when a practitioner covered himself, as a Shield did, the read found a hard thing pushing back against it, and that was not quiet at all; that was loud, in its way. He had a shelf for every one of those. He went along them now, very fast, the way you go along a shelf in the dark with your fingers for a book you know is there, and the boy was not on any of them.
+Brom had felt a great many things go quiet on the read. A man hit hard enough went quiet, sometimes, for a breath. The unkindled were quiet always, and when a practitioner covered himself, as a Shield did, the read found a hard thing pushing back against it, and that was not quiet at all; that was loud, in its way. He had a shelf for every one of those. He went along them now, very fast, and the boy was not on any of them.
 
-The boy was not anywhere: the read went over the boards where the boy was standing and found them bare. They were not bare the way the unkindled were, a floor with nobody on it yet; they were bare the way a floor is when somebody has been standing on it all evening and is suddenly not, and the boards have not yet stopped creaking from the weight. There was no step, no weight, no breath, no shape at all. There was nothing there for him to be hard against.
+The boy was not anywhere: the read went over the boards where the boy was standing and found them bare. They were not bare like the unkindled, a floor with nobody on it yet; they were bare the way a floor is when somebody has been standing on it all evening and is suddenly not, and the boards have not yet stopped creaking from the weight. There was no step, no weight, no breath, no shape at all. There was nothing there for him to be hard against.
 
 And his body did not know where to be hard.
 
@@ -40,15 +40,15 @@ That was the half-beat, and he would come back to it often, in the nights after,
 
 The boy's fist came into his ribs under his arm.
 
-It hurt, and that was the astonishing thing, and he would have laughed if he had had the breath. It was a boy's blow, short and plain, with nothing behind it but a hip and a shoulder, and it went into him like a blow goes into anybody, through the shirt and the muscle and up against the bone, and it hurt the way the yard post at Velmere had hurt him when he was twelve and had no Path and no read and nothing at all but a body and a man standing over him telling him to keep his eyes open. He gave a step back off his heels. He heard himself make a sound.
+It hurt, and that was the astonishing thing, and he would have laughed if he had had the breath. It was a boy's blow, short and plain, with nothing behind it but a hip and a shoulder, and it went into him like a blow goes into anybody, through the shirt and the muscle and up against the bone, and it hurt as the yard post at Velmere had hurt him when he was twelve and had no Path and no read and nothing at all but a body and a man standing over him telling him to keep his eyes open. He gave a step back off his heels. He heard himself make a sound.
 
 And then the twelve-year-old answered.
 
-It was the oldest thing he had. His hand came down onto the boy's arm by eye, the way he had been taught in the yard at home two years before there was ever a read to tell him anything; quick and plain, a man seeing an arm and taking it, and turning it, hard, by strength and timing and nothing else. It worked. It moved the boy a step. It was clumsy, too, and late, and he could feel how late it was with the whole of his body, as you feel a stair you have missed.
+It was the oldest thing he had. His hand came down onto the boy's arm by eye, as he had been taught in the yard at home two years before there was ever a read to tell him anything; quick and plain, a man seeing an arm and taking it, and turning it, hard, by strength and timing and nothing else. It worked. It moved the boy a step. It was clumsy, too, and late, and he could feel how late it was with the whole of his body.
 
 Then the boy was back.
 
-The weight was there on the boards upstairs again, faint, careful, exactly where it had been, as though it had never been anywhere else. The read lay on him as it always had. Nothing about him on the read had changed. Nothing had gone out of him, nothing had been drawn or spent or put back. There was no edge to it at either end. It was simply that, for something less than a breath, there had been a place in front of Brom where nobody was.
+The weight was there on the boards upstairs again, faint, careful, where it had been before. The read lay on him as it always had. Nothing about him on the read had changed. Nothing had gone out of him, nothing had been drawn or spent or put back. There was no edge to it at either end. It was simply that, for something less than a breath, there had been a place in front of Brom where nobody was.
 
 ---
 
@@ -60,21 +60,21 @@ He built a way to finish it, and then he did not use it. He could have drawn the
 
 The room changed its sound twice while he was doing all this. The first time it rose, all together, high and quick, the noise of a great many people who have just seen a thing they came hoping to see and did not really expect. Brom knew the sound. He had heard it from the far side, in the river city, the night a boy half his size had put him down. The second time it fell, slowly, into something long and uncertain, like a held note nobody quite knows how to end, and he did not know that sound at all.
 
-The boy did not try anything in all that time. That was what Brom kept seeing, all through it. Whatever had happened, the boy had not reached for it again; he went on looking, at Brom's shoulder, at the floor, at the next thing, with that still face, as though he had not noticed anything. Perhaps he had not; Brom did not know. He did not know anything about it at all, and he found that he did not want to find out by hitting it.
+The boy did not try anything in all that time. That was what Brom kept seeing, all through it. Whatever had happened, the boy had not reached for it again; he went on looking, at Brom's shoulder, at the floor, at the next thing, with that still face. Perhaps he had not noticed anything; Brom did not know. He did not know anything about it at all, and he found that he did not want to find out by hitting it.
 
 In the end he took the boy's wrist in a grip that the boy's legs could not have broken even fresh, and turned him on it, slowly. He set him down on the stone with a hand on his shoulder, and kept the turn off the knees, because he knew to the inch what he had already asked of those knees in the second.
 
 "End of the exchange," said the keeper.
 
-He walked back to the south mark, and he did not walk fast. Halfway there he rolled his shoulders, once, both together, the way he did at the end of a long day hauling sacks, and he heard a sound go along the front bench and understood that people had seen him do it, and that in nine bouts on that stone he had never done it before. He did not mind. He let them have it.
+He walked back to the south mark, and he did not walk fast. Halfway there he rolled his shoulders, once, both together, as he did at the end of a long day hauling sacks, and he heard a sound go along the front bench and understood that people had seen him do it, and that in nine bouts on that stone he had never done it before. He did not mind. He let them have it.
 
 He stood on his mark and looked across the floor at the boy getting up.
 
-He thought about the shelves. He had built them out of his own body for two years, from nothing, every shape a person could make on the floor above him, and he trusted them as he trusted the stone under his heels. The boy had never been on any of them. He had known that for a fortnight, and said so, honestly, in the alcove. *You're not on one.* That had been strange enough. But for less than a breath tonight the boy had not even been the weight that was not on a shelf. He had been nothing, a place in the room where the read went and came back empty-handed.
+He thought about the shelves. He had built them out of his own body for two years, from nothing, every shape a person could make on the floor above him, and he trusted them as he trusted the stone under his heels. The boy had never been on any of them. He had known that for a fortnight, and said so in the alcove. *You're not on one.* That had been strange enough. But for less than a breath tonight the boy had not even been the weight that was not on a shelf. He had been nothing, a place in the room where the read went and came back empty-handed.
 
 There was nowhere to put that, and he did not try. He would not make up a shelf for it. He would only remember where it had been, exactly, as you remember where a stair is missing in a house you mean to live in: third exchange, a little after the middle, on the stone in front of him, under his eyes. Nothing before. Nothing after.
 
-He could go looking for it in the fourth. He thought about that, honestly, standing on the south mark with the room going on round him. He could crowd the boy, and press him, and push him back to wherever that place was, and see whether it opened again. Some men would have; his grandmother would have, and called it the drafting.
+He could go looking for it in the fourth. He thought about that, standing on the south mark with the room going on round him. He could crowd the boy, and press him, and push him back to wherever that place was, and see whether it opened again. Some men would have; his grandmother would have, and called it the drafting.
 
 But the boy had not done it on purpose. Brom was nearly sure of that, and nearly was enough. If it came again, it would come because the boy had nothing left, and Brom would have to take him to the very bottom of his legs to find out, on that stone, in front of all those lamps. And whatever he learned that way, he would never know whether he had learned it or broken it. He had not walked four hundred miles to win things he could not put his weight on.
 
@@ -90,11 +90,11 @@ The third exchange had run three times as long as either of the others; Cael kne
 
 There was no place.
 
-The Wind was shut, exactly as he had shut it; the hip line was no brighter than it had been after the third-of-a-burst in the second. The Pressure was where he had left it, whole and full, held back from the arm. His breath was ragged in the ordinary way, and his knees were what they had been. Nothing had been drawn out of him, anywhere. There had been nothing before it, no leaning, no hush, none of the quiet that came before a notice. There was nothing after. No ache belonged to it, and no hollow, and no thin warm line. He stood on the mark with his chest going in and out and reached inward, deliberately, with everything he had, for whatever it had been, as you reach in the dark for a banister you have used a thousand times. His hand closed on nothing. It was not that the banister was hidden. It was that there had never been one.
+The Wind was shut, as he had shut it; the hip line was no brighter than it had been after the third-of-a-burst in the second. The Pressure was where he had left it, whole and full, held back from the arm. His breath was ragged in the ordinary way, and his knees were what they had been. Nothing had been drawn out of him, anywhere. There had been nothing before it, no leaning, no hush, none of the quiet that came before a notice. There was nothing after. No ache belonged to it, and no hollow, and no thin warm line. He stood on the mark with his chest going in and out and reached inward, deliberately, with everything he had, for whatever it had been, as you reach in the dark for a banister you have used a thousand times. His hand closed on nothing. It was not that the banister was hidden. It was that there had never been one.
 
 So he would write it down as what it was, which was a thing that had happened, once, that he had not done. He would not give it a name. Names were for things he could find twice.
 
-Across the floor Brom had rolled his shoulders. Cael had seen him do it, and heard the front bench see it. Now the big man stood on the south mark and looked at him, and the look was different. All fortnight Brom had watched him the way a man watches a wheel turning, interested, patient, sure of the wheel. He was not sure of the wheel now. Cael could not have said how he knew that. He only knew it, as he knew the difference between a man reading a page and a man reading it twice.
+Across the floor Brom had rolled his shoulders. Cael had seen him do it, and heard the front bench see it. Now the big man stood on the south mark and looked at him, and the look was different. All fortnight Brom had watched him with a patient interest, sure of what he was watching. He was not sure now. Cael could not have said how he knew that. He only knew it, as he knew the difference between a man reading a page and a man reading it twice.
 
 Lira was at the north post. She had both hands on the strand, gripping it, which she never did, and she had gone up onto her toes as if to see over somebody who was not there.
 
@@ -124,11 +124,11 @@ The stone was cold through his shirt, the only cold thing in the building; the l
 
 His legs had been paid for twice: once in the second exchange, when the bill came down through his hips. And again by everything after, every short step and every brace and the third of a burst he had asked of them, stacked on the same two columns until the columns gave. He could feel exactly where. Both knees, outside and in; the right hip; the left ankle, a little. Nothing broken. He knew broken.
 
-And under his ribs, untouched, the giving face. He had not let it out once. It sat in him exactly as full as when he had walked onto the floor, and he thought of the heavyset man's wife's parcel in his coat on the rope post, the bread and the hard yellow cheese, carried all day and not eaten. He had carried the Pressure all night and not used it, and he could feel that he had carried it, the way you feel a weight in your arms after you have set it down. Keeping it shut had cost him, every time it leaned. He had paid that in half-beats, and the half-beats had cost him ground.
+And under his ribs, untouched, the giving face. He had not let it out once. It sat in him as full as when he had walked onto the floor, and he thought of the heavyset man's wife's parcel in his coat on the rope post, the bread and the hard yellow cheese, carried all day and not eaten. He had carried the Pressure all night and not used it, and he could feel that he had carried it. Keeping it shut had cost him, every time it leaned. He had paid that in half-beats, and the half-beats had cost him ground.
 
 He had no column for that, and he would need one.
 
-Lira was there; he had not seen her come under the rope. She knelt by his legs and put her good hand on him, flat, quick and certain, the way she checked her own wrist after a bout: his ankles, his shins, his knees, pressing, watching his face while she pressed. She did his hips, and his ribs, and then she took his chin and turned his head to look at his eyes in the lamplight.
+Lira was there; he had not seen her come under the rope. She knelt by his legs and put her good hand on him, flat, quick and certain, as she checked her own wrist after a bout: his ankles, his shins, his knees, pressing, watching his face while she pressed. She did his hips, and his ribs, and then she took his chin and turned his head to look at his eyes in the lamplight.
 
 "Nothing broken."
 
@@ -140,7 +140,7 @@ He understood that she had done it on purpose, and why, and he could not have to
 
 Brom crossed the floor.
 
-He came without any hurry, through the noise, from the south mark, and he did not stop over Cael and look down at him the way a winner does. Cael had seen winners do it a hundred times from the east bench: the step closer, the small claiming of height, standing over the man on the stone. Brom did not do it. He came, and lowered himself, and sat down on the floor beside him with his knees up and his forearms on them, so that his head was no higher than Cael's would have been sitting up.
+He came without any hurry, through the noise, from the south mark, and he did not stop over Cael and look down at him. Cael had seen winners do it a hundred times from the east bench: the step closer, the small claiming of height, standing over the man on the stone. Brom did not do it. He came, and lowered himself, and sat down on the floor beside him with his knees up and his forearms on them, so that his head was no higher than Cael's would have been sitting up.
 
 He sat for a while, and then he spoke without turning his head.
 
@@ -154,7 +154,7 @@ Cael breathed. The lamps went on burning above him.
 
 "Both."
 
-Brom thought about that for a long time, with his whole attention, as he thought about everything.
+Brom thought about that with his whole attention, as he thought about everything.
 
 "Your pressure signature disappeared. Not blocked — blocked would still read as active resistance. It disappeared. Like you weren't there."
 
@@ -174,11 +174,11 @@ Cael looked at the hand. Two weeks ago the man had stood in the arch of the alco
 
 "That sounds right."
 
-"Good." The corner of Brom's mouth went in, and stayed in, and for once it went a little further than usual. "I like problems I can't solve."
+"Good. I like problems I can't solve." The corner of Brom's mouth went in, and stayed in, and for once it went a little further than usual.
 
 ---
 
-They stayed where they were while round them the crowd had begun to go, in the way a big crowd goes, all at once and very slowly. Benches scraped. The betting man was paying out by the side door with his slate under his arm, and somebody was arguing with him about the size of a copper.
+They stayed where they were while round them the crowd had begun to go, as a big crowd goes, all at once and very slowly. Benches scraped. The betting man was paying out by the side door with his slate under his arm, and somebody was arguing with him about the size of a copper.
 
 "You brought Lira's partner in with you," said Brom.
 
@@ -220,7 +220,7 @@ He thought about the gap behind the throw, and the second door bolted by a stran
 
 "Yes," he said. "I bought something."
 
-Lira looked at Brom then, at last, for a long moment, with no expression at all. Brom looked back at her and did not say anything, and then she looked away again.
+Lira looked at Brom then, at last, with no expression at all. Brom looked back at her and did not say anything, and then she looked away again.
 
 The heavyset man came down through the emptying benches from the back of the room, in his coat, with his hat in his hand. He did not say anything to anybody. He came and bent and got his arm under Cael's other shoulder, the one Lira did not have, and stood up with him as easily as lifting a sack off a cart. Brom got to his feet too and stepped back, out of the way, to let them have the room.
 

@@ -8,7 +8,7 @@ There was nothing wrong with him anywhere. He found that he did not quite believ
 
 He got up and lit the lamp with the cold coming up through the boards into his feet.
 
-The Power Log was on the desk where he had left it the night before, open at the page he had written last thing, so that it would be the first page he saw. He had not trusted himself to find it otherwise. A rule that lived only in his head was a rule he would argue with the first time it was expensive, and he knew exactly what he sounded like when he argued with himself, because he usually won.
+The Power Log was on the desk where he had left it the night before, open at the page he had written last thing, so that it would be the first page he saw. He had not trusted himself to find it otherwise. A rule that lived only in his head was a rule he would argue with the first time it was expensive, and he knew what he sounded like when he argued with himself, because he usually won.
 
 So he had written it down, and he had written it short.
 
@@ -26,7 +26,7 @@ He thought, while he sat there with his hand on the cover, about the letter on i
 
 He dressed, and through the wall he could hear Lira already moving about, which meant she had been awake a good deal longer than he had and was pretending she had not.
 
-At the window, below the frost line, the roofs went down the hill toward the river in grey steps. The Ironyard's roof was the long dark one at the bottom with the smoke going up from the sweepers' fire. Tonight it would have every lamp Dace owned lit under it. He stood and looked at it for a while, the way you look at a stretch of road you are going to walk later, and thought, very plainly, *I'm going to lose there tonight*. Then he waited to see what he felt about it.
+At the window, below the frost line, the roofs went down the hill toward the river in grey steps. The Ironyard's roof was the long dark one at the bottom with the smoke going up from the sweepers' fire. Tonight it would have every lamp Dace owned lit under it. He stood and looked at it the way you look at a stretch of road you are going to walk later, and thought, *I'm going to lose there tonight*. Then he waited to see what he felt about it.
 
 What he felt was hungry.
 
@@ -52,9 +52,9 @@ He looked at the heavyset man for help. The heavyset man looked into his cup.
 
 "Eat the egg," said the heavyset man's wife, from the stove, without turning round.
 
-He ate the egg, which was a very good egg, and slightly sooty at the large end, and the sister watched every spoonful of it go in as though she were counting them.
+He ate the egg, which was a very good egg, and slightly sooty at the large end, and the sister watched every spoonful of it go in.
 
-Lira came down halfway through with her coat on already, and her left arm, where Wendel's hand had caught her, was the colour of a ripe plum from the shoulder halfway to the elbow, with yellow coming in round the edges. She held it a little away from her body. She sat down beside him, took a piece of his bread without asking, and looked at the empty eggshell in its cup.
+Lira came down halfway through with her coat on already, and her left arm, where Wendel's hand had caught her, was dark purple from the shoulder halfway to the elbow, with yellow coming in round the edges. She held it a little away from her body. She sat down beside him, took a piece of his bread without asking, and looked at the empty eggshell in its cup.
 
 "Is that the coal-box one?"
 
@@ -74,7 +74,7 @@ Everybody looked at him.
 
 "I'm not telling a carter anything," said the heavyset man, and drank his tea.
 
-Lira had been listening to all of it with her chin on her good hand. She did not look at Cael for a while, and then she did, sideways, the way she looked at an opponent's feet when she did not want the opponent to know she was looking. "You've done the thing where you go over your whole body in bed."
+Lira had been listening to all of it with her chin on her good hand. She did not look at Cael at first, and then she did, sideways, as she looked at an opponent's feet when she did not want the opponent to know she was looking. "You've done the thing where you go over your whole body in bed."
 
 "How do you know?"
 
@@ -86,21 +86,21 @@ Lira had been listening to all of it with her chin on her good hand. She did not
 
 "It's his egg," said the sister.
 
-The heavyset man's wife came away from the stove at last, wiping her hands, and put a small parcel into his coat pocket on the side away from the grey book, without asking whether he wanted it, as she put things on Lira's plate. It was bread and a piece of the hard yellow cheese she kept on the top shelf where the sister could not reach it, wrapped in a cloth that smelled of onions. She did not say what it was for. She patted the pocket once, flat, the way you settle a sleeping animal, and went back to her pans, and the sister looked at the pocket with deep suspicion and said nothing at all, which in that kitchen was a very great tribute.
+The heavyset man's wife came away from the stove at last, wiping her hands, and put a small parcel into his coat pocket on the side away from the grey book, without asking whether he wanted it, as she put things on Lira's plate. It was bread and a piece of the hard yellow cheese she kept on the top shelf where the sister could not reach it, wrapped in a cloth that smelled of onions. She did not say what it was for. She patted the pocket once, flat, and went back to her pans, and the sister looked at the pocket with deep suspicion and said nothing at all, which in that kitchen was a very great tribute.
 
-At the door the heavyset man said, without looking up, "Main floor's at the lamps?"
+At the door the heavyset man said, into his cup, "Main floor's at the lamps?"
 
 "At the lamps."
 
-The heavyset man nodded slowly, as if a fact had been confirmed that he had been holding in his hand for some days.
+The heavyset man nodded slowly.
 
 "I'll be at the back," he said.
 
 ---
 
-Lira's errands were exactly as boring as she had promised, and they took the whole of the morning, and he understood by the third of them that she had made most of them up.
+Lira's errands were as boring as she had promised, and they took the whole of the morning, and he understood by the third of them that she had made most of them up.
 
-She took him to the cobbler at the bottom of the tannery lane about a boot that did not need mending, and stood over the cobbler while he looked at it and agreed that it did not. She took him to the paper stall for a bottle of ink, when Cael had a bottle of ink at home with two-thirds left in it, and made him carry it. She took him the long way round to the lamp-oil seller's, by the river wall, so that they had to walk the whole length of the eel market in the cold with the gulls going over. And all the way she talked to him about nothing at all: about the dock partner's broken nose, how many times it had been broken, and whether it would be straighter or crookeder if somebody broke it again the other way; about the sister's hen; about a Stone pair who had fought to a standstill on the side floor the week before and then both refused to put a hand up first, so that Dace had to go out and stand between them. He knew what she was doing. She was keeping his hands busy and his head out of the grey book, and she was doing it the way she did everything, without asking him whether he wanted it done.
+She took him to the cobbler at the bottom of the tannery lane about a boot that did not need mending, and stood over the cobbler while he looked at it and agreed that it did not. She took him to the paper stall for a bottle of ink, when Cael had a bottle of ink at home with two-thirds left in it, and made him carry it. She took him the long way round to the lamp-oil seller's, by the river wall, so that they had to walk the whole length of the eel market in the cold with the gulls going over. And all the way she talked to him about nothing at all: about the dock partner's broken nose, how many times it had been broken, and whether it would be straighter or crookeder if somebody broke it again the other way; about the sister's hen; about a Stone pair who had fought to a standstill on the side floor the week before and then both refused to put a hand up first, so that Dace had to go out and stand between them. He knew what she was doing. She was keeping his hands busy and his head out of the grey book, and she was doing it as she did everything, without asking him whether he wanted it done.
 
 He let her, and it was easier than he had expected. Somewhere between the cobbler and the ink he noticed that his hands had stopped wanting to be in his pockets with the book.
 
@@ -156,7 +156,7 @@ Cael stood holding the lamp oil.
 
 Lira was quiet for a moment.
 
-"That's manners," she said, as if she would rather it had been anything else.
+"That's manners," she said, not pleased about it.
 
 "It's his manners."
 
@@ -188,7 +188,7 @@ Vell looked at him over her spectacles, for longer than he liked.
 
 "What's the other book?"
 
-Vell put her hand on the red tape without looking at it, as a woman puts her hand on a dog that has got up.
+Vell put her hand on the red tape without looking at it.
 
 "The main floor's book. It doesn't go in with the rest." She went on writing with the other hand. "Every bout on this floor in forty years is in there, and some from before that, in a hand I learned to read when I was younger than you. Tonight's will go in it after it's gone in the day book. Two lines, and then the same two again." She blotted. "Twice, so that if anybody ever burns one of them, the other will still say what happened."
 
@@ -222,13 +222,13 @@ The crowd began coming in an hour before the lamps were lit, and by the time the
 
 He had fought before a hundred and sixty on a middling night, and before nearer three hundred at the Cinder House for the bout that had brought him to everybody's notice last year, which he had thought at the time was as many people as could stand in one place and look at the same thing. This was more. The benches were full from end to end, and people stood on them, which Dace usually did not allow, and behind the benches they stood against the walls three and four deep. They came in at the side door with the cold on them and stamped their feet and looked round at the lamps and said *well* to each other. Some of them he knew. The fruit woman was on the second bench with her basket on her knees and her copper on Brom. The chestnut man had moved his brazier to the north end and was doing such trade that he had sent his boy for more coal. The four girls from the wall were in a row by the water barrel, with Lira's dock partner behind them like a wall of his own. The river-academy man was three benches back with his hands flat on his knees, as always, and as always he gave Cael the small left-handed nod.
 
-Many he did not know at all. There were carters in their long coats, smelling of horses. There were two men by the side door in plain dark coats too good for the district, who stood very straight and did not sit, and who had the look of people who would later tell somebody they had not been there. There was a woman with a Stone fighter's shoulders whom he had never seen, who must have come from another circuit altogether, because she was looking at everything in the building, the floor and the posts and the lamps, the way Brom had once looked at the keeper's book.
+Many he did not know at all. There were carters in their long coats, smelling of horses. There were two men by the side door in plain dark coats too good for the district, who stood very straight and did not sit, and who had the look of people who would later tell somebody they had not been there. There was a woman with a Stone fighter's shoulders whom he had never seen, who must have come from another circuit altogether, because she was looking at everything in the building, the floor and the posts and the lamps, as Brom had once looked at the keeper's book.
 
-He did his warming-up where he always did it, at the north end, by the rope, and he did it exactly the way he always did. Ankles, knees, hips; the arms; the short straight strike thrown at nothing until it ran smooth; three bursts to the fan on the chalk, front-left and left and back-left, to know the hip was there. He had thought about leaving the bursts out, to keep the hip fresh. He had decided not to. To do anything different from the usual on a night like this would be a tell of its own, and there were people in this room tonight who were paid to read tells.
+He did his warming-up where he always did it, at the north end, by the rope, and he did it as he always did. Ankles, knees, hips; the arms; the short straight strike thrown at nothing until it ran smooth; three bursts to the fan on the chalk, front-left and left and back-left, to know the hip was there. He had thought about leaving the bursts out, to keep the hip fresh. He had decided not to. To do anything different from the usual on a night like this would be a tell of its own, and there were people in this room tonight who were paid to read tells.
 
 When he straightened from the third burst, with the thin warm line drawn from the crest of the bone to the knee, he looked up and saw the old man.
 
-He was at the very back, against the south wall, by the side door, where the lamplight thinned out. He was not sitting; he stood with his arms folded across his chest and his back to the stone, the way he stood at the gate of the Cinder House yard on a Sunday. He had a scarf round his throat that Cael had never seen him wear, and he looked very small in that crowd, and very old, and entirely unbothered by either.
+He was at the very back, against the south wall, by the side door, where the lamplight thinned out. He was not sitting; he stood with his arms folded across his chest and his back to the stone, as he stood at the gate of the Cinder House yard on a Sunday. He had a scarf round his throat that Cael had never seen him wear, and he looked very small in that crowd, and very old, and entirely unbothered by either.
 
 Cael had never once seen him in the Ironyard. The old man kept his own yard on the other side of the district, and he had kept it, as far as anybody knew, since before most of the people in this room were born. He did not go to other people's floors. He had not come to any of Cael's bouts since the venue changed, and Cael had never expected him to; it was a long way on old legs, and the old man had never pretended to care about anything but what happened inside his own fence.
 
@@ -238,7 +238,7 @@ The old man saw him looking, and did not wave or smile; he moved his head down, 
 
 Cael found he had to look at the floor for a little while.
 
-Lira was at the rope by the north post when he got there, with her bad arm held in against her and her good one on the strand. She had been watching the room, not him. She read a crowd the way she read a fighter, from the feet up, and he could see her doing it.
+Lira was at the rope by the north post when he got there, with her bad arm held in against her and her good one on the strand. She had been watching the room, not him. She read a crowd as she read a fighter, from the feet up, and he could see her doing it.
 
 "It's the biggest you've had," she said.
 
@@ -268,11 +268,11 @@ The room did a thing then that he had not heard it do before. It did not go quie
 
 Dace came out from the slate and walked the rope, all the way round, as he did before every main-floor bout and as Cael had watched him do from the east bench a hundred times without once thinking about why. He tried each post with his hand. He looked at the chalk of both marks. At the north post he stopped beside Lira and said something to her that Cael did not hear, and she nodded without taking her eyes off the floor. Then Dace went back to the slate and stood under it with his arms folded and his chalk in his fist, and did not move again.
 
-The betting man had brought his crate in off the lane and set it inside the side door, under the last of the lamps. He called his final price, once, in the flat voice he used for weather. Nobody answered it, because the time for answering it had gone.
+The betting man had brought his crate in off the lane and set it inside the side door, under the last of the lamps. He called his final price, once, in his flat voice. Nobody answered it, because the time for answering it had gone.
 
 He stood on the north mark with the open room to his left and the old foundry stone dark and dead under his feet. It was cold through his boots, colder than the side floors, as if the stone kept a winter of its own down in the thick of it and did not care what the lamps were doing overhead. Somewhere under the left heel ran one of the long straight cracks that somebody had filled with lead, and he could feel the line of it through the sole, very faintly, smoother than the stone round it. He moved his foot an inch off it, and then thought about why he had, and left it there.
 
-Across twelve strides of it, Brom stood on the south mark. He had his weight in his heels, six parts in ten and more, and his arms hung loose, and his eyes rested on Cael the way a man's eyes rest on weather. Cael looked at him, and his own eyes did the thing they had done for a fortnight. They slid, looking for the lean that ought to be there in anybody standing so far back, the place where the weight would have to come forward before he could go anywhere, and they found it, and it did not matter, because Brom did not mean to go anywhere.
+Across twelve strides of it, Brom stood on the south mark. He had his weight in his heels, six parts in ten and more, and his arms hung loose, and his eyes rested on Cael. Cael looked at him, and his own eyes did the thing they had done for a fortnight. They slid, looking for the lean that ought to be there in anybody standing so far back, the place where the weight would have to come forward before he could go anywhere, and they found it, and it did not matter, because Brom did not mean to go anywhere.
 
 He had thought, all fortnight, that when this moment came he would feel the big man's read on him. He had imagined it as a kind of pressure, a hand laid flat on his chest from twelve strides off. There was nothing, and it did not reach so far; Brom had told him so, in the alcove, with the cloth half off his hand. From here, to whatever it was in Brom that read people, he was only a boy on a mark. It would not find him until he was close enough to touch.
 

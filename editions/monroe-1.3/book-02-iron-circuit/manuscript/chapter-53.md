@@ -10,7 +10,7 @@ Then Cael let himself think, and found that the thought was very simple.
 
 *The knock doesn't care where.*
 
-He had known it for a week. He had written it in the Log in his own hand: *It gives me when. It doesn't give me where.* But he had known it the way a man knows the river is cold before he falls in. Reydan had shown him the rest of it in one burst. The gathering felt exactly the same whether it was meant for the place he stood or the place he was going, so a gathering he had felt before told him nothing new. Worse, it told him something old, and the old thing was a lie. The man had fired the same pull twice and let Cael's own memory of the first one walk him into the second.
+He had known it for a week. He had written it in the Log in his own hand: *It gives me when. It doesn't give me where.* But he had known it on paper. Reydan had shown him the rest of it in one burst. The gathering felt exactly the same whether it was meant for the place he stood or the place he was going, so a gathering he had felt before told him nothing new. Worse, it told him something old, and the old thing was a lie. The man had fired the same pull twice and let Cael's own memory of the first one walk him into the second.
 
 *A repeat is the most dangerous thing he can give me,* he thought. *Because it's the one I'll trust.*
 
@@ -40,7 +40,7 @@ He looked once at the north rope. Brom was standing with his arms folded and his
 
 He went first.
 
-He saw it land on Reydan the instant he left the mark: a single blink of the man's whole frame, a weight resettling, the way a man shifts a load he had picked up for one shape and found to be another. For two exchanges the boy across the stone had waited. Now he was coming, and he was not coming straight.
+He saw it land on Reydan the instant he left the mark: a single blink of the man's whole frame, a weight resettling under a load picked up for one shape and found to be another. For two exchanges the boy across the stone had waited. Now he was coming, and he was not coming straight.
 
 He came on the Wind.
 
@@ -70,13 +70,13 @@ The left forearm screamed. He had told it it would guard and not block, and now 
 
 *Two.*
 
-Reydan's breath was right there in front of him now, in his face, warm and smelling faintly of cloves. It still kept its count. But the count had a catch in it on the right side, a small hitch at the top of every breath, exactly over the place the first strike had gone in. For two long beats neither of them could do anything. Cael stayed too close for a burst to be packed. Reydan kept his feet where the Wind could find no angle. They turned on the stone a hand apart, and the room's noise stood over them at its peak like a wave that would not break.
+Reydan's breath was right there in front of him now, in his face, warm and smelling faintly of cloves. It still kept its count. But the count had a catch in it on the right side, a small hitch at the top of every breath, right over the place the first strike had gone in. For two long beats neither of them could do anything. Cael stayed too close for a burst to be packed. Reydan kept his feet where the Wind could find no angle. They turned on the stone almost chest to chest, and the room's noise stood over them at its peak like a wave that would not break.
 
 Then the knock said *inward*, low on the right side, and Cael felt the gathering start.
 
 He hit it.
 
-He did not wait for the release, as he had the first two times. He went on the pulling in, the moment the man's whole frame drew toward its middle, and drove his right fist into the meat of Reydan's thigh just above the knee. It was low and plain and entirely within the rule. It was not a blow that ended anything. But it landed in the middle of the gathering, and he felt the gathering break, the way a breath breaks when somebody is struck in the middle of drawing it. The burst never came. Reydan's leg gave an inch, and he caught it, and the inch was there on the stone between them for everybody to see.
+He did not wait for the release, as he had the first two times. He went on the pulling in, the moment the man's whole frame drew toward its middle, and drove his right fist into the meat of Reydan's thigh just above the knee. It was low and plain and entirely within the rule. It was not a blow that ended anything. But it landed in the middle of the gathering, and he felt the gathering break, like a breath broken off in the drawing. The burst never came. Reydan's leg gave an inch, and he caught it, and the inch was there on the stone between them for everybody to see.
 
 *Three.* The hollow was full. He had nothing left on that side and he knew it.
 
@@ -106,11 +106,11 @@ In the alcove the night before, under the plan, he had written three guesses in 
 
 His body was the purse tonight. He went through it coin by coin.
 
-The left forearm was a guard and nothing more. Both hands were bright and stupid from the knuckles to the wrists, and the grip was going. The hollow under his ribs sat full and tight, like a breath he could not let out. The hip line was lit from crest to knee: six asked bursts on the night, three of them in that one exchange, which was the most it would ever give. And there were his legs, the best thing he still had, because Lira had put them there one cold morning at a time. But they were fraying now. The last fan had come down a hand short of the place he had sent it. A burst that fell short by a hand was a door that would not quite shut.
+The left forearm was a guard and nothing more. Both hands were bright and stupid from the knuckles to the wrists, and the grip was going. The hollow under his ribs sat full and tight, like a breath he could not let out. The hip line was lit from crest to knee: six asked bursts on the night, three of them in that one exchange, which was the most it would ever give. And there were his legs, the best thing he still had, because Lira had put them there one cold morning at a time. But they were fraying now. The last fan had come down short of the place he had sent it. A burst that fell short was a door that would not quite shut.
 
 Across the stone, Reydan did something Cael had not seen him do all night.
 
-He brought his feet in. They had stood a little wider than his hips since he first stepped over the rope, ready for everything; now he set them closer, square, almost under his shoulders, the way a man stands to work at a post in a yard. He let his hands hang. He rolled his right shoulder once. And his eyes, which had gone from Cael's feet to his hands to the stone and back all evening, building and checking, came to rest on the middle of Cael's chest and stayed there.
+He brought his feet in. They had stood a little wider than his hips since he first stepped over the rope, ready for everything; now he set them closer, square, almost under his shoulders, a man standing to work at a post in a yard. He let his hands hang. He rolled his right shoulder once. And his eyes, which had gone from Cael's feet to his hands to the stone and back all evening, building and checking, came to rest on the middle of Cael's chest and stayed there.
 
 *He's done reading,* thought Cael. *He's going to work.*
 
@@ -126,11 +126,11 @@ There was no aim in it, or almost none. That was the cruelty of it. The man had 
 
 That was the thought that saved him, though he did not know it yet.
 
-He was counting. He had counted the landing beat so many times in the alcove, *and one, and two*, that the count went on in him now by itself, under everything, like a clock in another room. And the bursts were landing on it. Each one came down on the *three*. Not near it, but exactly on it, to the grain, every time. A man who had stopped reading had gone back to the oldest thing he owned. And the oldest thing Reydan owned, from a paid yard at ten and an academy at eleven, was a drill, and a drill was regular, and a regular thing could be read without the knock at all.
+He was counting. He had counted the landing beat so many times in the alcove, *and one, and two*, that the count went on in him now by itself, under everything. And the bursts were landing on it. Each one came down on the *three*. Not near it, but exactly on it, to the grain, every time. A man who had stopped reading had gone back to the oldest thing he owned. And the oldest thing Reydan owned, from a paid yard at ten and an academy at eleven, was a drill, and a drill was regular, and a regular thing could be read without the knock at all.
 
 He planted on the *two*, in the gap, and knocked. *Inward.* On the *three*. He went. He planted on the next *two* and knocked again. *Inward.* On the *three*.
 
-Two knocks, both clean, and both exactly where the count had promised.
+Two knocks, both clean, and both where the count had promised.
 
 So now he had the when twice over, from the knock and from the count. And when he looked for it, the where was there as well. Every burst of the fourth exchange had come at his right side. In the first exchange the man had learned that the hip only ever went left. He was not reading any more, but his body still remembered the lesson, and it was setting every burst at Cael's right shoulder and walking him leftward round the floor in a long slow circle until his legs gave out.
 
@@ -138,7 +138,7 @@ He could not outrun a mill. Nobody could; it had been built that way. But a mill
 
 He took the next one on the redirect.
 
-For once the bursts were coming at the side he had drilled. He had only to plant and turn the right shoulder a little further into the beat, and let it in. It went through him at the slant the way Brom had taught him in the alcove: shoulder and side and hip, and out through the back heel into the stone. It was clean. It was the cleanest he had ever made, and the push of it going past shoved him a full step inward along a line he had chosen. Then the bill came, all of it, from the top of the right arm to the breastbone, on top of the bill from the rope. The groove was alight from end to end. By the count he had made in the alcove there was one left in it, and the count had been honest all fortnight.
+For once the bursts were coming at the side he had drilled. He had only to plant and turn the right shoulder a little further into the beat, and let it in. It went through him at the slant, as Brom had taught him in the alcove: shoulder and side and hip, and out through the back heel into the stone. It was clean. It was the cleanest he had ever made, and the push of it going past shoved him a full step inward along a line he had chosen. Then the bill came, all of it, from the top of the right arm to the breastbone, on top of the bill from the rope. The groove was alight from end to end. By the count he had made in the alcove there was one left in it, and the count had been honest all fortnight.
 
 He was a step closer. It was not enough. On the count, at his right shoulder, the next was gathering.
 
@@ -156,7 +156,7 @@ He planted on the *two*. On the *three*, he turned his right shoulder into it.
 
 For the first instant it was the drill.
 
-The burst came into the turned shoulder at the angle he gave it and began to run down through him, toward the ribs and the hip and the stone, the way the shoulder had passed a dozen pushes in the alcove. *Let it through,* he thought. *Let it go.* The joint was spent and the line was going ragged, but it was going, it was going down—
+The burst came into the turned shoulder at the angle he gave it and began to run down through him, toward the ribs and the hip and the stone, as the shoulder had passed a dozen pushes in the alcove. *Let it through,* he thought. *Let it go.* The joint was spent and the line was going ragged, but it was going, it was going down—
 
 It stopped going down.
 
@@ -166,7 +166,7 @@ Where the change began he could never afterward point to, however often he went 
 
 It was turned. It was in him, and it was facing home.
 
-And it did not make him do anything. That was the part he would remember most clearly, later, when everything else about the fourth exchange had blurred. The thing in his shoulder did not push. It waited, the way a held door waits for somebody to decide whether to go through. He had perhaps the length of a heartbeat, and in it he could see both roads as plainly as the two forks of a lane. Every rule he had ever written for himself said *let go*. He had never once used a thing in a bout that he had not first tried and priced and written down, and this had no page in any book he owned. He did not know what it was, or where it had come from, or what it would cost. Letting go was easy. He had only to stop holding, and the weight would spill out of him somewhere harmless, into the floor or the air. Then he would be standing on empty legs in front of a mill that was already gathering its next paddle, and he would lose, slowly and properly, with every rule he had ever made still whole.
+And it did not make him do anything. That was the part he would remember most clearly, later, when everything else about the fourth exchange had blurred. The thing in his shoulder did not push. It waited, like a held door waiting for somebody to decide whether to go through. He had perhaps the length of a heartbeat, and in it he could see both roads as clearly as the two forks of a lane. Every rule he had ever written for himself said *let go*. He had never once used a thing in a bout that he had not first tried and priced and written down, and this had no page in any book he owned. He did not know what it was, or where it had come from, or what it would cost. Letting go was easy. He had only to stop holding, and the weight would spill out of him somewhere harmless, into the floor or the air. Then he would be standing on empty legs in front of a mill that was already gathering its next paddle, and he would lose, slowly and properly, with every rule he had ever made still whole.
 
 He drove forward.
 
@@ -182,13 +182,13 @@ His sight went white round the rim. His knees held.
 
 Reydan went down.
 
-He did not go like a man who has been thrown. He went the way a stack of grain sacks goes when the bottom one is pulled out, all at once and straight down and then over, onto his right side on the stone. His own burst had come back to him through the place on his right side where the first strike had already been. He was not out. Cael could see that he was not out, because at once, before the noise of his landing had finished, he began to get up. An elbow came under him. A knee drew up and slid back. The elbow went again, slower, and the body under it would not answer. His mind was perfectly clear; you could see it giving the orders. Then, quite deliberately, as if he had decided it himself, he laid his head down on the cold stone and stayed there, breathing.
+He did not go down like a thrown man. He went like a stack of grain sacks when the bottom one is pulled out, all at once and straight down and then over, onto his right side on the stone. His own burst had come back to him through the place on his right side where the first strike had already been. He was not out. Cael could see that he was not out, because at once, before the noise of his landing had finished, he began to get up. An elbow came under him. A knee drew up and slid back. The elbow went again, slower, and the body under it would not answer. His mind was perfectly clear; you could see it giving the orders. Then, quite deliberately, he laid his head down on the cold stone and stayed there, breathing.
 
 The Ironyard was silent.
 
-Six hundred people, and Cael could hear the stew pot ticking on its coals in the corner. He could hear a lamp on the beam above him spit once. Cael's knees were still locked. His right arm hung at his side like a rope off a post. Whatever had turned in his shoulder was gone, completely, as if it had never been there at all, and had left nothing behind it that he could take hold of and look at. He did not move. He was not sure what moving would show him.
+Six hundred people, and Cael could hear the stew pot ticking on its coals in the corner. He could hear a lamp on the beam above him spit once. Cael's knees were still locked. His right arm hung at his side like a rope off a post. Whatever had turned in his shoulder was gone, completely, and had left nothing behind it that he could take hold of and look at. He did not move. He was not sure what moving would show him.
 
-Vell's voice came across the stone exactly as it had come across it every night for thirty years, the voice she used to read out a date.
+Vell's voice came across the stone as it had come across it every night for thirty years, the voice she used to read out a date.
 
 "Iron-equivalent, Cael. Win. Method: forced incapacitation, fourth exchange."
 
@@ -196,7 +196,7 @@ Her pen went down. The room came apart.
 
 ---
 
-It came apart from the edges inward. The beams went first, men up there stamping on the old timbers until dust came down through the lamplight like flour. Then the benches, and then the rope, and then the street outside the open doors, which could not see and had to be told and roared when it was told. One of the eel-market men was beating his ladle on the side of his pot, over and over, with a face of perfect happiness. The four girls from the wall were crying, or laughing, or both. The betting man stood up on his trestle and wiped both columns off his board with his sleeve, slowly, from top to bottom, and then stood there with nothing written anywhere. On the east bench the river-academy coat had taken his hands off his knees for the first time Cael had ever seen. He was holding them out in front of him, palms up, as if to show somebody they were empty.
+It came apart from the edges inward. The beams went first, men up there stamping on the old timbers until dust came down through the lamplight like flour. Then the benches, and then the rope, and then the street outside the open doors, which could not see and had to be told and roared when it was told. One of the eel-market men was beating his ladle on the side of his pot, over and over, with a face of perfect happiness. The four girls from the wall were crying, or laughing, or both. The betting man stood up on his trestle and wiped both columns off his board with his sleeve, slowly, from top to bottom, and then stood there with nothing written anywhere. On the east bench the river-academy coat had taken his hands off his knees for the first time Cael had ever seen. He was holding them out in front of him, palms up, to show somebody they were empty.
 
 Cael did not hear his name in it. He heard it, but it did not land. What landed was smaller.
 
@@ -216,4 +216,4 @@ There was no entry for it. He had not called it. He had not aimed it or wanted i
 
 He unlocked one knee, slowly, and then the other. They held.
 
-On the stone in front of him, Reydan had begun to move again. He did it in order, one part and then the next, the way a careful man unpacks a box he means to put everything back into.
+On the stone in front of him, Reydan had begun to move again. He did it in order, one part and then the next, a careful man unpacking a box he means to put everything back into.
