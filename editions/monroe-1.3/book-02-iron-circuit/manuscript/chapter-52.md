@@ -122,7 +122,7 @@ The burst was not going through the place he had left. It was going through the 
 
 He had one thing he could still move, and he moved it. The left forearm came up across his ribs.
 
-The burst struck it halfway between wrist and elbow. He heard it before he felt it: a short dull crack, like a mallet on a wet post. Then the force went on through the arm, and through the arm into him, and took his feet off the stone as if he weighed nothing at all.
+The burst struck it halfway between wrist and elbow. He heard it before he felt it: a short dull crack, like a mallet on a wet post. Then the force went on through the arm, and through the arm into him, and took his feet off the stone.
 
 He came down on his right side.
 

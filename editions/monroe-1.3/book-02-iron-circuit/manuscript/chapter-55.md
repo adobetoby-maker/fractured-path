@@ -6,7 +6,7 @@ Lira had made a sling for the left arm out of her scarf before they left the bui
 
 Plenty of people were watching. The street outside the Ironyard was still full, and it did not empty as they passed through it; it opened, and then closed again behind them, and went on talking. Somebody shouted his name from an upstairs window and then, embarrassed, shut the window. A man selling hot chestnuts at the corner held one out to him as he went by and, when Cael could not take it, gave it to Lira instead, and then gave her a second one for herself.
 
-All the way up, the street talked about him as he went through it. It did not talk to him; nobody stopped him or touched his arm. But he heard the bout going up the hill ahead of them and behind them in pieces, a man telling the third exchange to a woman in a doorway with his hands, two boys arguing on a step about whether it had been the shoulder or the knees, somebody at an upstairs window saying *six hundred* to somebody inside as if the number were the whole story. He found that he did not mind it, and was too tired to wonder why.
+All the way up, the street talked about him as he went through it. It did not talk to him; nobody stopped him or touched his arm. But he heard the bout going up the hill ahead of them and behind them in pieces, a man telling the third exchange to a woman in a doorway with his hands, two boys arguing on a step about whether it had been the shoulder or the knees, somebody at an upstairs window saying *six hundred* to somebody inside, and nothing else. He found that he did not mind it, and was too tired to wonder why.
 
 "I'm going to get fat off you," said Lira.
 
@@ -16,7 +16,7 @@ All the way up, the street talked about him as he went through it. It did not ta
 
 At the top of the market steps Brom stopped. He had his lodging at the carters' inn, which was the other way.
 
-"I'll come in the morning," he said. "Early. Not to do anything. To look at the shoulder." He stood a moment, as if there were something else he meant to say, and then did not say it. Cael could see him decide not to, the way he sometimes decided not to send a push in the alcove: a small settling of the big frame. "Sleep on the left side," said Brom, and went off down the hill.
+"I'll come in the morning," he said. "Early. Not to do anything. To look at the shoulder." He stood a moment; there was something else he meant to say, and then he did not say it. Cael could see him decide not to: a small settling of the big frame. "Sleep on the left side," said Brom, and went off down the hill.
 
 The boarding house was dark except for the lamp in the front window, which the heavyset man always left burning when anybody in his house was out at the Ironyard. He was sitting up beside it in his shirtsleeves, and he heard them on the step and opened the door before Lira had her hand on it.
 
@@ -26,7 +26,7 @@ He had asked it every bout night for a year and more, standing in that doorway. 
 
 "Win," said Cael.
 
-The heavyset man looked at the scarf, and the arm hanging out of the sleeve on the other side, and at Cael's face. He nodded exactly the same amount as always. Then he stood back to let them pass and said, to nobody in particular, "There's a bowl on the stair," and went back to his chair by the lamp.
+The heavyset man looked at the scarf, and the arm hanging out of the sleeve on the other side, and at Cael's face. He nodded the same amount as always. Then he stood back to let them pass and said, to nobody in particular, "There's a bowl on the stair," and went back to his chair by the lamp.
 
 There was a bowl on the stair, covered with a cloth, as there had been every night for a fortnight. Under the cloth there was a stew that had been hot an hour ago, and under the bowl there was a plate, and on the plate, in charcoal, in the sister's large uneven hand, *EAT. L. SAYS.*
 
@@ -48,7 +48,7 @@ He tried the left hand. The fingers came out of the end of the sling and closed 
 
 When she had gone he sat with the Power Log open on the crate desk under the lamp, and the pen in the fingers that came out of the sling, and he did what he had always done after a floor. He began with the numbers, because the numbers could not be argued with.
 
-The hand was so bad that he could hardly read it himself. He wrote slowly, three or four words and then a rest, like a man crossing a stream on stones.
+The hand was so bad that he could hardly read it himself. He wrote slowly, three or four words and then a rest.
 
 *Reydan. Main floor. Won, fourth exchange. Forced incapacitation. Vell's words.*
 
@@ -68,7 +68,7 @@ Then, because the Log did not get to keep only the comfortable things, he wrote 
 
 *The third did not stay a redirect. It started as one, going down through me toward the floor, and then it stopped going. It gathered in the right shoulder and turned and went back out along the line it came in by, into him, and I went in behind it. I didn't call it. I didn't aim it. I didn't know it was there to call. I had a moment when I could have let it go, and I went in instead. That's all I did. The going in was mine. The rest wasn't.*
 
-*Cost: the right shoulder, all of it. Arm dead to the fingers for the length of the bout and after. Now: the groove, three deep, the way the drill always leaves it; and under the groove, in the joint, a hollow, like a flue after a fire. Not a bruise. Not anything I have a word for.*
+*Cost: the right shoulder, all of it. Arm dead to the fingers for the length of the bout and after. Now: the groove, three deep, as the drill always leaves it; and under the groove, in the joint, a hollow, like a flue after a fire. Not a bruise. Not anything I have a word for.*
 
 *Knees: locked, on purpose, so I'd be the one standing. They'll send their bill tomorrow.*
 
@@ -76,7 +76,7 @@ He read it back. Then he turned the page and wrote the other part, the part that
 
 *The plan held. Three reads, and he dropped every one: where I land; the rope; a boy who only stands off. The fourth came with no read in it, and it was the one of my three guesses I had an answer for. Volume, on a count. The count was the thing I could read. Hesk's mill wheel, every paddle in the same place every turn.*
 
-*But the answer I'd built wasn't enough. I'd built three redirects for a body that hadn't been on the stone yet. If the third had only gone through me at the slant, the way the drill goes, I'd have been a step closer with nothing left in either arm and nothing left in my legs, and the next paddle was already coming. I'd have lost. Slowly, properly, with the plan right and me wrong.*
+*But the answer I'd built wasn't enough. I'd built three redirects for a body that hadn't been on the stone yet. If the third had only gone through me at the slant, as the drill goes, I'd have been a step closer with nothing left in either arm and nothing left in my legs, and the next paddle was already coming. I'd have lost. Slowly, properly, with the plan right and me wrong.*
 
 *Something else finished it. I don't know what.*
 
@@ -110,7 +110,7 @@ He wrote it in, under its own line, as carefully as the hand would let him.
 
 Session nine's entry he left alone, and he kept the nib well away from it, as if ink could spread. He left its *Note* line exactly as he had written it, the night before, in a hand that had been steadier than this.
 
-Then he capped the ink and sat for a while with the book open under the lamp and his left fingers aching round nothing. The fear did not come, which surprised him. He had expected it to, the way it had come after session nine: the cold dread of a thing given away for nothing. But tonight's had not been given away. Tonight's had been paid for, all of it, in the shoulder he could not lift. It had a price, though he could not read the figure yet, and a thing with a price on it was a thing he had lived beside all his life.
+Then he capped the ink and sat for a while with the book open under the lamp and his left fingers aching round nothing. The fear did not come, which surprised him. He had expected it to, as it had come after session nine: the cold dread of a thing given away for nothing. But tonight's had not been given away. Tonight's had been paid for, all of it, in the shoulder he could not lift. It had a price, though he could not read the figure yet, and a thing with a price on it was a thing he had lived beside all his life.
 
 Through the wall he heard Lira turn over in her bed, and then lie still.
 
@@ -120,7 +120,7 @@ He blew out the lamp.
 
 Brom came at first light, as he had said he would, and knocked at the street door, and was let in by the heavyset man, who had evidently not been to bed at all.
 
-Cael was awake. He had been awake since the knees woke him, an hour before the light, with a long, deep, itemised ache from the hip to the ankle on both sides, exactly as he had known they would. He was sitting on the edge of the bed in his shirt, looking at the left forearm. Lira had been right. It was the colour of a plum from the wrist to the elbow, darker in the middle, where the burst had hit the bone, and the middle was hot when he touched it. The fingers would close to a loose fist and not further.
+Cael was awake. He had been awake since the knees woke him, an hour before the light, with a long, deep, itemised ache from the hip to the ankle on both sides, as he had known they would. He was sitting on the edge of the bed in his shirt, looking at the left forearm. Lira had been right. It was the colour of a plum from the wrist to the elbow, darker in the middle, where the burst had hit the bone, and the middle was hot when he touched it. The fingers would close to a loose fist and not further.
 
 Brom stood in the doorway and looked at him, and then at the arm, and then at the right shoulder.
 
@@ -128,7 +128,7 @@ Brom stood in the doorway and looked at him, and then at the arm, and then at th
 
 "You may."
 
-Brom came and put one big hand flat on the right shoulder, over the joint, very lightly, and kept it there. Cael could feel him reading. It was not like the knock; it was slower and broader, a whole palm's listening, the way Brom read everything, from the front.
+Brom came and put one big hand flat on the right shoulder, over the joint, very lightly, and kept it there. Cael could feel him reading. It was not like the knock; it was slower and broader, a whole palm's listening, from the front.
 
 His hand stayed there through twenty of Cael's breaths.
 
@@ -156,23 +156,23 @@ Nobody said anything for a moment.
 
 He walked the district that afternoon by himself, because he could not do anything else and could not sit still.
 
-He went with no direction at all, which he had not done since the first month after he came down the hill, and he let his feet take him wherever they liked. The left arm was in the scarf and the right hung, and people looked at both and then at his face, and some of them nodded and some of them looked away quickly, the way people look away from a man they have been talking about. The news had gone round the hill in the night, and not only the news of the bout. The doorkeeper with the thick ear had heard a woman give the name of an academy at the door, and had told the eel-market men, and the eel-market men had told everybody they sold a bowl to. By noon the whole of the market row knew that a woman from Greyvane had sat on the stone with the boy after the floor cleared. Half of them had already decided what he would do.
+He went with no direction at all, which he had not done since the first month after he came down the hill, and he let his feet take him wherever they liked. The left arm was in the scarf and the right hung, and people looked at both and then at his face, and some of them nodded and some of them looked away quickly. The news had gone round the hill in the night, and not only the news of the bout. The doorkeeper with the thick ear had heard a woman give the name of an academy at the door, and had told the eel-market men, and the eel-market men had told everybody they sold a bowl to. By noon the whole of the market row knew that a woman from Greyvane had sat on the stone with the boy after the floor cleared. Half of them had already decided what he would do.
 
 Cael found that he knew the place.
 
-It surprised him, how well. He had come down that hill a year and a half ago with a bag and a direction and nobody's name, and now he could not walk a street of it without his eyes sorting it the way they sorted a bench. The paper-stall man had moved his slate line again, this morning, without being asked; it now stood further out than anybody's in the row, and the man said, as Cael passed, "Feeling well?" in the voice of a man asking after the weather on a day he can see out of his own window. The pie woman's new boy had a black eye that was certainly not from a pie. The dried-fruit woman had put her prices up a copper on everything, because of the crowds. When she saw him she put them down again on the figs only, and only for him, and would not take his money for those either.
+It surprised him, how well. He had come down that hill a year and a half ago with a bag and a direction and nobody's name, and now he could not walk a street of it without his eyes sorting it like a bench. The paper-stall man had moved his slate line again, this morning, without being asked; it now stood further out than anybody's in the row, and the man said, as Cael passed, "Feeling well?" and did not wait for the answer. The pie woman's new boy had a black eye that was certainly not from a pie. The dried-fruit woman had put her prices up a copper on everything, because of the crowds. When she saw him she put them down again on the figs only, and only for him, and would not take his money for those either.
 
-He knew, without anybody having told him, that the chestnut man on the corner had a daughter in the Ranked core who never came down the hill, and that the man watched the north gate on market days in case she did. He knew that the heavyset man's wife hid the good sugar in the flour bin, and that the sister knew, and that each of them thought the other did not know. He knew which of the dock partner's knees had gone and in what year, and that the four girls from the wall had a fifth friend who had stopped coming when her father found out where she went in the evenings. He knew that the betting man had a wife who did not know he was a betting man and believed he sold rope. None of it was in any book. Not one word of it was in any book of his. He knew it the way you know the stairs of your own house in the dark.
+He knew, without anybody having told him, that the chestnut man on the corner had a daughter in the Ranked core who never came down the hill, and that the man watched the north gate on market days in case she did. He knew that the heavyset man's wife hid the good sugar in the flour bin, and that the sister knew, and that each of them thought the other did not know. He knew which of the dock partner's knees had gone and in what year, and that the four girls from the wall had a fifth friend who had stopped coming when her father found out where she went in the evenings. He knew that the betting man had a wife who did not know he was a betting man and believed he sold rope. None of it was in any book. Not one word of it was in any book of his. He knew it without ever having been told.
 
 The mending-stall woman looked up from under her pennants, which had sold out, as he went by.
 
-"You're going," she said. It was not a question.
+"You're going," she said.
 
 "Nobody's said I'm going."
 
 "Nobody has to." She bit off a thread. "They'd better feed you, wherever it is. You were half the size you are now when you came down that hill. I mended the shirt you came in. I've still got the bit I cut off the cuff." She went back to her needle. "Go on. You're in my light."
 
-The betting man was sitting on the step of the pump with his board across his knees and nothing written on it. He looked up at Cael for a long moment.
+The betting man was sitting on the step of the pump with his board across his knees and nothing written on it. He looked up at Cael.
 
 "Best night of my life," he said. "Worst night of my life. I'll not know which for a week." He shook his head. "Twenty years, and I never once saw both columns pay out on the same bout. You've broken the board, lad. I'll have to think of a new way to lose money." He looked at the empty board. "I suppose I'll forgive you. Somebody's got to."
 
@@ -180,7 +180,7 @@ At the corner by the Ironyard's side door, where the wall was low enough to sit 
 
 "You'll tell them where you learned it," she said.
 
-It was not a question either. Cael understood it the way he understood a line in Vell's book: a whole judgment, closed and witnessed, in the fewest words that would hold it.
+She did not make it a question. Cael understood it as he understood a line in Vell's book: a whole judgment, closed and witnessed, in the fewest words that would hold it.
 
 "I will," he said.
 

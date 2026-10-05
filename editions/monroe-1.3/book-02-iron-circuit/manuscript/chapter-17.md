@@ -34,7 +34,7 @@ The corner of Brom's mouth went in, very slightly, in a way that on another face
 
 He turned to go. Then he stopped half turned, with one shoulder in the alcove and one out of it, and looked down at the grey book on Cael's knee.
 
-"You changed the order. Of the pages." He said it the way a man reads out a figure. "The week after. I saw it from the rope. Before, you wrote while they were still fighting. After, you sat longer, and wrote less, and wrote it first." He considered the book a moment longer. "You listened. Most people who get told their method's wrong spend a month being angry before they hear it. Some spend longer."
+"You changed the order. Of the pages." His voice was level, a figure read off a page. "The week after. I saw it from the rope. Before, you wrote while they were still fighting. After, you sat longer, and wrote less, and wrote it first." He considered the book a moment longer. "You listened. Most people who get told their method's wrong spend a month being angry before they hear it. Some spend longer."
 
 He did not wait to be answered. He went off across the floor to the second alcove along, where nobody trained in the mornings, and took his coat off and hung it on a nail. Then he sat down on the bench there and began, slowly and without any hurry at all, to wind a strip of cloth round his left hand.
 

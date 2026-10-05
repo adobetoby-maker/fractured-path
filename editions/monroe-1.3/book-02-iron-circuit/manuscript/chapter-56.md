@@ -6,7 +6,7 @@ Cael saw it from the bottom of the market steps on his way back from the tannery
 
 He did not go up. It was her hour. He went round instead to the alcove by the side passage, which was dark and cold and smelled of chalk and straw, and sat on the bench against the back wall with his arm in the scarf. Through the arch, across the empty main floor and up the north stair, he could hear her.
 
-He could not see her. He did not need to. He had heard her at that lamp a hundred nights from his bed, through two streets and a wall, the sound of a staff end on stone and feet on boards, and he knew the shapes of the sounds the way he knew the shapes of the words in Hesk's hand. Tonight they were slow. There was a step, and a long pause, and a step. A turn. The staff end touching down once, lightly, like somebody tapping a table to see whether it is sound. Then the same again, from the other side.
+He could not see her. He did not need to. He had heard her at that lamp a hundred nights from his bed, through two streets and a wall, the sound of a staff end on stone and feet on boards, and he knew the shapes of the sounds as well as the shapes of the words in Hesk's hand. Tonight they were slow. There was a step, and a long pause, and a step. A turn. The staff end touching down once, lightly, like somebody tapping a table to see whether it is sound. Then the same again, from the other side.
 
 She was not training. She was asking her feet questions, one at a time, and waiting for them to answer.
 
@@ -42,7 +42,7 @@ He stopped.
 
 She had put the spoon down. She was not looking at him, and she was not looking at Brom. She was looking at the lamp.
 
-"I'm going," she said again, as if she wanted to hear how it sounded the second time. It sounded the same. "I knew it on the stone last night, before she'd finished saying *Fenmark*. It was there this morning when I woke, sitting on the end of my bed like a cat. I lit the lamp tonight to make sure I wasn't only saying it because I was frightened, or because you'd go anyway and I didn't want to be left on this hill on my own." She turned her head and looked at him at last. "I'm not. I went up there and asked my feet. They said yes."
+"I'm going," she said again, to hear how it sounded the second time. It sounded the same. "I knew it on the stone last night, before she'd finished saying *Fenmark*. It was there this morning when I woke, sitting on the end of my bed like a cat. I lit the lamp tonight to make sure I wasn't only saying it because I was frightened, or because you'd go anyway and I didn't want to be left on this hill on my own." She turned her head and looked at him at last. "I'm not. I went up there and asked my feet. They said yes."
 
 "I know," said Cael.
 
@@ -58,7 +58,7 @@ Brom had stopped eating. Cael had not been eating anyway.
 
 "It's Maud," said Lira.
 
-She said the name plainly, the way Vell would have said it.
+She said the name as Vell would have said it.
 
 "I lost to her. Fifth exchange. You both saw it. And Vell wrote *provisional* and kept it there, because I hadn't fixed the middle yet, and she was right." She turned one hand over on the table and looked at the back of it, where the bars Maud's staff had left had faded to a faint yellow. "And afterward, for weeks, I kept thinking: nobody here is going to make me prove it again. Vell will book me when she thinks I'm ready. Dace will put me on a card. Half the hill will come and shout for me because they like me, and the four girls will cry whichever way it goes, and if I win, the line in the book will move up a rung, and that'll be that. Proved once. Kept forever." She looked up. "This hill is the kindest place I've ever been. It's kinder than my own mother's kitchen. And it's never once asked me the same question twice."
 
@@ -92,11 +92,11 @@ Then Brom asked the last one. Cael understood, from the way he asked it, that it
 
 Cael looked at him.
 
-"Not the name," said Brom. "Anybody can have a name. Whether they want the house. Whether they want a letter from your father, or your father's friend, or the station that did your reading, saying who you are and what you're for." He had his big hands flat on the table, one on each side of the empty bowl, the way Lira had held hers. "Because if they do, I'll not go."
+"Not the name," said Brom. "Anybody can have a name. Whether they want the house. Whether they want a letter from your father, or your father's friend, or the station that did your reading, saying who you are and what you're for." He had his big hands flat on the table, one on each side of the empty bowl, as Lira had held hers. "Because if they do, I'll not go."
 
 "You've got a real classification," said Cael slowly. "Iron Skin. Copper. From an Arbiter. You don't need any provision."
 
-"I know I don't. That's what frightens me." Brom said it without any heat at all. "The provision's for people the paper can't hold. The paper holds me fine. It holds me in exactly the place my family's letters put me, with a man's note in the margin saying I was taught wrong from the start and ought to be read again at a better station." He turned his head toward the window, where the cold was coming in round the frame. "I got up from that table at fourteen because I wasn't going to be measured by what was written down about me in a room I'd been sent out of. I'll not walk into a new room and hand them the same paper and let them measure me by it all over again. Not even if the paper says something kind."
+"I know I don't. That's what frightens me." Brom said it without any heat at all. "The provision's for people the paper can't hold. The paper holds me fine. It holds me in the place my family's letters put me, with a man's note in the margin saying I was taught wrong from the start and ought to be read again at a better station." He turned his head toward the window, where the cold was coming in round the frame. "I got up from that table at fourteen because I wasn't going to be measured by what was written down about me in a room I'd been sent out of. I'll not walk into a new room and hand them the same paper and let them measure me by it all over again. Not even if the paper says something kind."
 
 "So what do you want?"
 
@@ -116,7 +116,7 @@ Quenna's inn stood at the top of the market row, where the row turned into the r
 
 He sat. The front room of the inn was the kind of room a carter with money would think of as fine: a carpet worn through to the threads in a path from the door to the hearth, a clock on the mantel that ran a quarter of an hour fast and that everybody in the house allowed for, and a bow window full of the market row going about its morning, barrows and baskets and breath going up in the cold. Quenna had her back to the room and her face to the window, so that she could see the whole row without being seen from it, and Cael noticed that, and filed it, and then gave her the page. Lira had written Brom's questions out in her own fast slanting hand, every one, in the order he had asked them, and at the bottom, underlined, *DOES THE FORM ASK FOR HIS FAMILY*.
 
-Quenna read the page through once, and then again, more slowly. Then she laid it flat on the table and put her cup on the corner of it, as if to keep it from blowing away.
+Quenna read the page through once, and then again, more slowly. Then she laid it flat on the table and put her cup on the corner of it.
 
 "Brom," she said. "Iron Skin. Velmere."
 
@@ -140,9 +140,9 @@ Cael said nothing. He was thinking that she was right, and that she had seen it 
 
 ---
 
-He found Brom in the alcove, on the bench, with his elbows on his knees, not doing anything. Cael had never once seen Brom not doing anything. Even sitting still, Brom was always doing something: reading a room, or a man, or the grain of a loaf of bread. Now he sat with his big hands hanging between his knees and looked at the stone between his boots like a man in a waiting room who has been told the doctor will be some time. Lira was sitting on the floor against the straw post with her staff across her lap, mending a split in the grip with a strip of leather and pretending not to wait.
+He found Brom in the alcove, on the bench, with his elbows on his knees, not doing anything. Cael had never once seen Brom not doing anything. Even sitting still, Brom was always doing something: reading a room, or a man, or the grain of a loaf of bread. Now he sat with his big hands hanging between his knees and looked at the stone between his boots, waiting. Lira was sitting on the floor against the straw post with her staff across her lap, mending a split in the grip with a strip of leather and pretending not to wait.
 
-Cael stood in the arch and told him. He told him plainly, every word of it, in the order Quenna had said it, the way Brom liked things told: the record and the keeper's word and the two of the staff at the gate, and no house, and no letters, and a drawer for anything that came from Velmere. He told it bare.
+Cael stood in the arch and told him. He told him every word of it, in the order Quenna had said it, as Brom liked things told: the record and the keeper's word and the two of the staff at the gate, and no house, and no letters, and a drawer for anything that came from Velmere. He told it bare.
 
 Brom listened to all of it without moving.
 
@@ -172,4 +172,4 @@ Brom went red from the collar to the hair.
 
 "That's for making me cry in an alcove," said Lira, who was not crying, quite. She sat down beside him on the bench and leaned against his arm. "Twice in two days. I'll not have it."
 
-Cael stood in the arch and looked at the two of them on the bench, the big one red to the ears and the small one leaning on him with her staff across her knees, and found that he did not need to write anything down at all.
+Cael stood in the arch and looked at the two of them on the bench, the big one and the small one leaning on him with her staff across her knees, and found that he did not need to write anything down at all.

@@ -184,7 +184,7 @@ He went across.
 
 Vell looked at him over her spectacles, for longer than he liked.
 
-"You've got carters from the north gate betting on you," she said. "Carters don't know a Wind from a Stone. They've come because somebody told them there's a boy fighting tonight who isn't on the registry's ladder at all, against a man who's never been made to do anything." She went back to her page. "Yes. It'll be talked about. Go and eat something."
+"You've got carters from the north gate betting on you," she said. "Carters don't know a Wind from a Stone. They've come because somebody told them there's a boy fighting tonight who isn't on the registry's ladder at all, against a man who's never been made to do anything." She went back to her page. "Yes. It'll be talked about."
 
 "What's the other book?"
 

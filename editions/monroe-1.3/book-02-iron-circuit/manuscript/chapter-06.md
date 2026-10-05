@@ -110,7 +110,7 @@ Then, because the brown Log had counted them and he did not want the count to st
 
 He was still sitting with the two entries open when Lira came in.
 
-She came in late. He heard the street door, and the heavyset man say something, and her answer, and her feet on the stairs, two at a time as always; and he looked at the window and saw that it was full dark and had been for a while, and that the rain had stopped without his noticing. She had said *an hour*, when she went out. She had said it over her shoulder with the staff on her back, as she said it most evenings now. It had been more than two.
+She came in late. He heard the street door, and the heavyset man say something, and her answer, and her feet on the stairs, two at a time as always; and he looked at the window and saw that it was full dark and had been for some time, and that the rain had stopped without his noticing. She had said *an hour*, when she went out. She had said it over her shoulder with the staff on her back, as she said it most evenings now. It had been more than two.
 
 She stood in the door between the rooms with her hair wet and her face pink from the cold and looked at him, and at the desk, and at the two books with the lamp between them, and at the steel straightedge.
 

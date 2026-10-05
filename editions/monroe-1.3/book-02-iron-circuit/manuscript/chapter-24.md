@@ -14,7 +14,7 @@ The first was the short straight strike he owned, the one Lira had given him a y
 
 He heard the breath go in before he had finished stepping. It went low and stayed there, the sack-settling breath, and his fist arrived on the end of it.
 
-It was like hitting the post in the alcove, except that the post moved and this did not. His knuckles stopped dead against the forearm, and for one whole beat of his own pulse nothing happened at all. His fist sat on Brom's arm while Brom's knees gave the width of a finger. Cael felt his own blow going down out of his hand, through the big man, into the stone, the way water goes into the gears of a mill before the wheel turns.
+It was like hitting the post in the alcove, except that the post moved and this did not. His knuckles stopped dead against the forearm, and for one whole beat of his own pulse nothing happened at all. His fist sat on Brom's arm while Brom's knees gave a little. Cael felt his own blow going down out of his hand, through the big man, into the stone, the way water goes into the gears of a mill before the wheel turns.
 
 Then the wheel turned.
 

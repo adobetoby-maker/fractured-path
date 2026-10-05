@@ -52,7 +52,7 @@ The weight was there on the boards upstairs again, faint, careful, where it had 
 
 ---
 
-The exchange went on for a long time after that, and Brom fought it with both.
+The exchange went on a long time after that, and Brom fought it with both.
 
 He did not trust the read any more, not wholly, not for the rest of the exchange. So he did a thing he had not done since the boat shed: he watched with his eyes and felt with the read at once, and checked the one against the other, every time, before he let either of them decide anything. It was slow. It was like reading a page with one eye shut and then the other to see whether the words moved. Every answer he gave cost him a half-beat of checking first, and the half-beat showed. Twice the boy's touches landed where Brom had been late to harden them, and they were light touches and hurt nothing, but Brom felt them land on an ordinary arm and knew the room had seen it.
 
@@ -122,7 +122,7 @@ He did not forget. He lay on his side on the old foundry stone with the lamps ov
 
 The stone was cold through his shirt, the only cold thing in the building; the lamps had made the rest of the main floor close and warm as a kitchen, and the crowd's noise came down on him from every side like weather on a roof. He let it come. He lay on his back now, with his arms out, and let his breath find its count, and it did, slowly. Two in and three out at first, then three and four.
 
-His legs had been paid for twice: once in the second exchange, when the bill came down through his hips. And again by everything after, every short step and every brace and the third of a burst he had asked of them, stacked on the same two columns until the columns gave. He could feel exactly where. Both knees, outside and in; the right hip; the left ankle, a little. Nothing broken. He knew broken.
+His legs had been paid for twice: once in the second exchange, when the bill came down through his hips. And again by everything after, every short step and every brace and the third of a burst he had asked of them, stacked on the same two columns until the columns gave. He could feel where. Both knees, outside and in; the right hip; the left ankle, a little. Nothing broken. He knew broken.
 
 And under his ribs, untouched, the giving face. He had not let it out once. It sat in him as full as when he had walked onto the floor, and he thought of the heavyset man's wife's parcel in his coat on the rope post, the bread and the hard yellow cheese, carried all day and not eaten. He had carried the Pressure all night and not used it, and he could feel that he had carried it. Keeping it shut had cost him, every time it leaned. He had paid that in half-beats, and the half-beats had cost him ground.
 
@@ -142,7 +142,7 @@ Brom crossed the floor.
 
 He came without any hurry, through the noise, from the south mark, and he did not stop over Cael and look down at him. Cael had seen winners do it a hundred times from the east bench: the step closer, the small claiming of height, standing over the man on the stone. Brom did not do it. He came, and lowered himself, and sat down on the floor beside him with his knees up and his forearms on them, so that his head was no higher than Cael's would have been sitting up.
 
-He sat for a while, and then he spoke without turning his head.
+He sat a while, and then he spoke without turning his head.
 
 "I want to know how you did that thing in the third exchange."
 
@@ -194,7 +194,7 @@ Cael turned his head on the stone to look at him.
 
 "Most people who come at me," said Brom, "come with something that worked on somebody else. I take it off them in the first. It was never made for me." He turned his head and looked down at Cael properly. "Yours was made for me. It was wrong. But it was wrong about *me*."
 
-Cael lay with that for a while. It was, he thought, the strangest kind of compliment he had ever had, and very possibly the best, and he could not think of anything to say to it that would not make it smaller, so he said nothing.
+Cael lay with that. It was, he thought, the strangest kind of compliment he had ever had, and very possibly the best, and he could not think of anything to say to it that would not make it smaller, so he said nothing.
 
 Vell came onto the floor.
 

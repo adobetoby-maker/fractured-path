@@ -24,7 +24,7 @@ She took the staff off her shoulders and turned it once in her hands, and went b
 
 He went from the far side of the alcove, at a run, as he would come off a feint in a bout. He dropped his left hip and held his breath and let the floor go short, and was on the chalk cross, and locked.
 
-She was already moving. She had started before he left the ground, because she knew where the cross was, and the staff came round at his collarbone on a long flat line, and he stood on the chalk and watched it come the whole way. He saw her back foot turn and her weight go over it. He saw her shoulder roll into the line. He saw the end of the staff, quite clearly, with a nick in it from some morning years ago, and knew to the width of a finger where it would land.
+She was already moving. She had started before he left the ground, because she knew where the cross was, and the staff came round at his collarbone on a long flat line, and he stood on the chalk and watched it come the whole way. He saw her back foot turn and her weight go over it. He saw her shoulder roll into the line. He saw the end of the staff, quite clearly, with a nick in it from some morning years ago, and knew where it would land.
 
 "One," said Lira, as it landed, and then, without a pause: "*one-and-two-and*—" and the lock let go of him on the second *and*, and he staggered, and the collarbone began to sing.
 

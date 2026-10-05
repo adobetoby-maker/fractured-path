@@ -146,7 +146,7 @@ The redirect came out of being poor.
 
 He had been lying awake on his cot above a chandler's after a fourth loss, doing the arithmetic. He had perhaps six exchanges of wall in him. The bouts went seven. So he could not hold the whole of it the whole of the time, and if he could not hold all of it, he had better hold only what he needed. He did not need his back if nobody was behind him, or his legs if nobody was kicking, or his arm until the instant something touched it.
 
-He had tried it the next morning against the post in the boat shed's back room. He held nothing. He let his forearm be only an arm, soft, ordinary, until the post's swinging pad was all but touching it, and then hardened that one hand's breadth of it, there, at that instant, and nothing else. It was clumsy for a week. He was early, or late, and the pad bruised him. But when he got it right it cost him almost nothing at all, a single sharp spend where the wall had been rent.
+He had tried it the next morning against the post in the boat shed's back room. He held nothing. He let his forearm be only an arm, soft, ordinary, until the post's swinging pad was all but touching it, and then hardened that one small patch of it, there, at that instant, and nothing else. It was clumsy for a week. He was early, or late, and the pad bruised him. But when he got it right it cost him almost nothing at all, a single sharp spend where the wall had been rent.
 
 He found the other thing a week after that, and found it by accident.
 

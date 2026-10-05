@@ -2,7 +2,7 @@
 
 He had written to Hesk on the Wednesday night, or rather Lira had, because he could not hold a pen for more than a few words at a time and a letter to Hesk was not a thing he would do in a few words at a time.
 
-She sat at the crate desk in his room with the lamp at her elbow and his good paper in front of her, and he sat on the bed with his back against the wall and his arm in the scarf, and he told it to her. He told it the way he told things to Hesk, in order, without dressing: the fortnight and the bout, the forearm and the stone and getting up, the three reads, the mill wheel, the shoulder. Lira wrote it all down in her fast slanting hand. Twice she stopped and looked at him over her shoulder and said, "You want me to write *that*?" and he said yes. Then he told her the rest: the woman with the book, and the name she gave on the stone, and the two doors, and Lira's yes, and that Brom was asking his questions.
+She sat at the crate desk in his room with the lamp at her elbow and his good paper in front of her, and he sat on the bed with his back against the wall and his arm in the scarf, and he told it to her. He told it as he told things to Hesk, in order, without dressing: the fortnight and the bout, the forearm and the stone and getting up, the three reads, the mill wheel, the shoulder. Lira wrote it all down in her fast slanting hand. Twice she stopped and looked at him over her shoulder and said, "You want me to write *that*?" and he said yes. Then he told her the rest: the woman with the book, and the name she gave on the stone, and the two doors, and Lira's yes, and that Brom was asking his questions.
 
 Then he stopped, and she waited with the pen lifted.
 
@@ -12,7 +12,7 @@ Lira wrote it. Then she turned round on the crate and looked at him.
 
 "Is that for him or for you?"
 
-He thought about it, honestly.
+He thought about it.
 
 "For him," he said. "He sent me down a hill with a bag and a direction and the money he'd put by, and he's never once asked me to come back up it. Every letter he's written me says *come home when you can*, and none of them says *come home*. I'm not going to go three days further from him without telling him first, and hearing what he says back." He looked at the window. "He'll say go. I know he'll say go. But I want to have heard him say it."
 
@@ -22,7 +22,7 @@ He let it stand. He signed the bottom with his left hand, a scrawl that looked l
 
 On the Friday, the third day, he went back up the row to the inn with the bow window.
 
-Quenna was at the same small table with the same pot of tea, as if she had not moved since Thursday. Perhaps she had not. He told her that Lira would take the re-certification track, and that Brom would come to the gate on the standard road, on his own feet, with Vell's word for his line. And then he told her that he would come too, and that he would not sign anything until he had a letter from his grandfather.
+Quenna was at the same small table with the same pot of tea. Perhaps she had not moved since Thursday. He told her that Lira would take the re-certification track, and that Brom would come to the gate on the standard road, on his own feet, with Vell's word for his line. And then he told her that he would come too, and that he would not sign anything until he had a letter from his grandfather.
 
 He had thought she might be impatient. She was not. She looked at him over the cup, as she had the day before, and he watched her decide something again.
 
@@ -50,7 +50,7 @@ He did not turn round when Cael came up beside him. He had a piece of white chal
 
 "I don't know yet. After I hear from Hesk." Cael looked at the bottom of the card, where Dace's hand had been. "There's a thing on Tuesday."
 
-There was. He had seen it on the slate two weeks ago and forgotten it, the way you forget a thing you agreed to before your life turned over. On the coming Tuesday, in the second slot of the main-floor card, in Dace's white chalk: *Ulric — Cael.* Ulric had come to Dace a month before Reydan arrived on the hill and asked for it. He was the Blade Cael had beaten in the fifth exchange months ago, before Brom, before any of it, the one who had wanted to know, afterward, what Cael had been watching. Dace had put it up, and there it had stayed, through all of it, two weeks of preparation and a bout the whole river was talking about, small and white and patient at the bottom of the slate.
+There was. He had seen it on the slate two weeks ago and forgotten it, a thing agreed to before his life turned over. On the coming Tuesday, in the second slot of the main-floor card, in Dace's white chalk: *Ulric — Cael.* Ulric had come to Dace a month before Reydan arrived on the hill and asked for it. He was the Blade Cael had beaten in the fifth exchange months ago, before Brom, before any of it, the one who had wanted to know, afterward, what Cael had been watching. Dace had put it up, and there it had stayed, through all of it, two weeks of preparation and a bout the whole river was talking about, small and white and patient at the bottom of the slate.
 
 "I can wipe it," said Dace. "Nobody'd blame you. Ulric wouldn't. He was at the north rope on Tuesday; he'll have seen your arm." He held up the chalk rag. "One pass of this and it's gone, and nobody on this hill would think the worse of you for a minute."
 
@@ -60,13 +60,13 @@ There was. He had seen it on the slate two weeks ago and forgotten it, the way y
 
 "Then leave it."
 
-Dace lowered the rag. He looked at Cael for a long moment, sideways, the way he looked at a name on the wall when he was deciding where to move it.
+Dace lowered the rag. He looked at Cael sideways, deciding where to move him.
 
 "You'll not be able to hit anybody by Tuesday," he said. "Not properly. Not with either hand."
 
 "I'll not need to hit him properly." Cael looked at the floor, at the rope where Reydan had walked him like a beast to a pen. "I know how this floor ends a bout without anybody hitting anybody. I learned it on Tuesday from the other side."
 
-Dace was quiet. Then the corner of his mouth went in, a very small amount, the most Cael had ever seen it do.
+Dace was quiet. Then he very nearly smiled, the most Cael had ever seen him do.
 
 "The rope," he said.
 
@@ -100,17 +100,17 @@ Below it, a single *H.*
 
 He read it, and then he read it again, and then he sat with it on the desk in front of him and did not read it at all. He only looked at where it sat on the paper, small, in all that white.
 
-He knew exactly how it had been written. He could see it as if he had been standing at Hesk's elbow: the bench in the workshop cleared with one sweep of the arm, the lamp pulled close, Cael's long letter in Lira's hand read through once and then again. Then a long while sitting. Hesk had sat like that over a bearing that would not seat, Cael had seen him do it a hundred times, turning the problem over without touching it until he knew what was wrong. And then a clean sheet, and a pen, and three sentences, and nothing more, because nothing more was needed and Hesk had never in his life written a word that was not.
+He knew how it had been written. He could see it: the bench in the workshop cleared with one sweep of the arm, the lamp pulled close, Cael's long letter in Lira's hand read through once and then again. Then a long while sitting. Hesk had sat like that over a bearing that would not seat, Cael had seen him do it a hundred times, turning the problem over without touching it until he knew what was wrong. And then a clean sheet, and a pen, and three sentences, and nothing more, because nothing more was needed and Hesk had never in his life written a word that was not.
 
-When Cael was ten, Hesk had set him to make his first joint: two lengths of beech to be fitted at a corner for a drawer. He had cut it badly and fitted it worse, and then, afraid of it coming apart, he had driven six pins through it, then a seventh, until the wood round the joint was more holes than beech. Hesk had picked it up and turned it over in his big hands and said nothing for a long time. Then he had pulled every pin out with the pincers, one at a time, and handed the pieces back. *Cut it again,* he had said. *Cut it till it holds by itself. Every pin you drive is a thing you're telling me you don't trust.*
+When Cael was ten, Hesk had set him to make his first joint: two lengths of beech to be fitted at a corner for a drawer. He had cut it badly and fitted it worse, and then, afraid of it coming apart, he had driven six pins through it, then a seventh, until the wood round the joint was more holes than beech. Hesk had picked it up and turned it over in his big hands and said nothing. Then he had pulled every pin out with the pincers, one at a time, and handed the pieces back. *Cut it again,* he had said. *Cut it till it holds by itself. Every pin you drive is a thing you're telling me you don't trust.*
 
 There were no pins in this letter. Cael knew every fear the old man had: the Compact, and the long road, and strangers with good manners and paper in their hands. He had carried them since a certification office in Denvash wrote a word on a form, and he would carry them to his grave. Not one of them was on the half-sheet. Hesk had cut the joint and let it hold by itself.
 
 *Find more of them.*
 
-It was not advice. It was work, the kind Hesk gave him at the bench: a thing to be done, which was hard, and which the old man plainly did not doubt he could do.
+It was not advice. It was work, the kind Hesk gave him at the bench: a thing to be done, which was hard, and which the old man did not doubt he could do.
 
-The lamp burned down a finger's width while he sat there. Then he got up and went through the wall to show it to Lira. She read it standing up, in her stockinged feet, with her hair down, and gave it back to him without a word and went to the window and stood there with her back to him for a while.
+The lamp burned down a little while he sat there. Then he got up and went through the wall to show it to Lira. She read it standing up, in her stockinged feet, with her hair down, and gave it back to him without a word and went to the window and stood there with her back to him for a while.
 
 "I'm one," she said, to the window. "Aren't I. Of the people."
 
@@ -124,7 +124,7 @@ He answered it that evening. He wrote it himself, in his own left hand, because 
 
 He read it over once. It would do. Then, because Hesk would want to know and nobody else would ever tell him, he wrote underneath, smaller: *The arm's healing. I'm eating. L. holds the spoon.*
 
-Brom came for supper, as he did most nights now, and the fourth bowl was on the landing waiting for him. Cael gave him Hesk's half-sheet across the table without saying what it was. Brom wiped his fingers and took it carefully by the edges, the way he took anything of Cael's, and read it from the front, slowly, though there were only three sentences. Then he read it again.
+Brom came for supper, as he did most nights now, and the fourth bowl was on the landing waiting for him. Cael gave him Hesk's half-sheet across the table without saying what it was. Brom wiped his fingers and took it carefully by the edges, as he took anything of Cael's, and read it from the front, slowly, though there were only three sentences. Then he read it again.
 
 "He's a careful man," said Brom at last.
 
@@ -134,7 +134,7 @@ Brom came for supper, as he did most nights now, and the fourth bowl was on the 
 
 "Everything he was afraid of."
 
-Brom thought about that for a while, with his spoon in his hand.
+Brom thought about that, with his spoon in his hand.
 
 "That's the hard part," he said at last. "Leaving it out." He began to eat. "I've never once managed it."
 

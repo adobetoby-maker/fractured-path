@@ -112,7 +112,7 @@ The man fought out of Orvet's gym in the tannery lanes. He was broad through the
 
 And before it, every time, his lead shoulder dropped.
 
-It was very small: a finger's width, the rim of the shield dipping a little with it, as a man's shoulder dips when he sets it against a door he means to shove. Cael had seen it first on a side floor three weeks ago and written it down, with the date, and a question mark after it. He had seen it again eleven days later and written it down again, with that date, and taken the question mark off. Both entries sat on the Shield's page in the grey book, one under the other. Under them was a third line, in ink: *Drop, then rush. Two of two. Wait for three.*
+It was very small, the rim of the shield dipping a little with it, as a man's shoulder dips when he sets it against a door he means to shove. Cael had seen it first on a side floor three weeks ago and written it down, with the date, and a question mark after it. He had seen it again eleven days later and written it down again, with that date, and taken the question mark off. Both entries sat on the Shield's page in the grey book, one under the other. Under them was a third line, in ink: *Drop, then rush. Two of two. Wait for three.*
 
 The bout was in the middle of the afternoon, on the side floor by the north wall, and the room was thin, as the Ironyard was thin at that hour even in the season. There were fifty or sixty on the benches, carters between loads, the newcomers from Keth's ring, a few of Orvet's people at the west post in a knot round Orvet himself. Orvet was already shouting, with a red neckcloth on and a grey beard that wagged when he shouted, and Cael had long since stopped hearing him at all.
 

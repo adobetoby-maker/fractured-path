@@ -8,7 +8,7 @@ She was not big, though Cael had expected big, for a Force. She was a broad shor
 
 Her opponent was a long lean man in a black practice coat whose Path Cael had not yet seen, and he stood very lightly, as if he did not quite trust the stone.
 
-Cael opened the grey book on his knee and made himself watch plainly.
+Cael opened the grey book on his knee and made himself watch plain.
 
 That was the ration, and he kept it. In the first exchange he watched as he had watched before he had any hooks at all: where they stood, how they moved, who gave ground and who took it, the room round them. The lean man gave ground steadily and cleverly, never more than a step, never letting the Force woman pin him against the rope, and he did not attack her at all; he circled, and waited. It was the river-academy man's waiting, Cael thought, but done by somebody who had been told about the river-academy man and meant to do it better.
 
@@ -78,7 +78,7 @@ He had not been there when Cael went down into the third exchange; Cael was near
 
 He was looking at the grey book on Cael's knee, and at the pencil.
 
-He had been sitting there, Cael understood with a slow cold drop inside him, for at least the whole of the fourth exchange, and very likely the third. He had sat down a hand's breadth away while Cael was deep in the hooks, past the edge of the ten degrees, where a boy reading a bout at full depth could not see anything at all, and he had sat in the blind spot as calmly as a man sits in a chair by a fire, and watched Cael write.
+He had been sitting there, Cael understood with a slow cold drop inside him, for at least the whole of the fourth exchange, and very likely the third. He had sat down within arm's reach while Cael was deep in the hooks, past the edge of the ten degrees, where a boy reading a bout at full depth could not see anything at all, and he had sat in the blind spot as calmly as a man sits in a chair by a fire, and watched Cael write.
 
 The roar was settling now, breaking up into talk and laughter and the scrape of the betting man's chalk. In the middle of the settling, without any hurry at all, the big man spoke.
 

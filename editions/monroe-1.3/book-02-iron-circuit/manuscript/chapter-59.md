@@ -22,7 +22,7 @@ They went to the dock partner's lodging at the river end, a room over a net stor
 
 "I do. You came. It was cold."
 
-The dock partner looked at the mark a while longer. Then he unfolded one arm and took it and put it in his pocket, and put the same hand on Brom's shoulder, once, heavily, the way he had put it on the rail post above Cael's head on the night of the bout, and took it away again.
+The dock partner looked at the mark a while longer. Then he unfolded one arm and took it and put it in his pocket, and put the same hand on Brom's shoulder, once, heavily, as he had put it on the rail post above Cael's head on the night of the bout, and took it away again.
 
 "Go on, then," said the dock partner. That was all he said, and he went back in and shut the door.
 
@@ -34,7 +34,7 @@ They walked back up the hill by the river road, slowly, with the wet drying off 
 
 "The dock partner won't forget your face."
 
-"No," said Brom, after a while. "No, I don't suppose he will." He walked on a little. "That one I'll count again."
+"No," said Brom. "No, I don't suppose he will." He walked on a little. "That one I'll count again."
 
 At the top of the river road, where it came up into the market row, somebody was standing by the pump in the thin early sun, waiting. It was a lean man in an ordinary coat, with his little finger crooked off the handle of the bucket he was not filling.
 
@@ -70,7 +70,7 @@ In front of her on the table lay a sheaf of paper, perhaps thirty leaves, square
 
 He sat. She put one hand flat on the sheaf and pushed it across the table to him.
 
-He knew what it was before he looked. He knew her hand the way he knew Hesk's, the small square letters that never leaned, and every line of it was his. It was the first entry, from his first month on the hill: *Unrated. Witnessed twice. Lost.* It was the first win, and *Assessed*, in the narrow column. It was the Copper bouts, all of them, every one, in order, with the exchange and the method. It was the Darrow Innes line from the Cinder House, which she had copied from her own book of that year. It was *atypical movement pattern*, again and again and again, in the margin beside him, the words that had become a joke between them and then stopped being a joke. It was Brom's line and his own on the main floor. And it was *Iron-equivalent. Cael. No Path designation.* And at the very end, still sharp-edged, as if the ink were not quite dry, it was a week ago Tuesday, and then yesterday, and the rope.
+He knew what it was before he looked. He knew her hand as well as he knew Hesk's, the small square letters that never leaned, and every line of it was his. It was the first entry, from his first month on the hill: *Unrated. Witnessed twice. Lost.* It was the first win, and *Assessed*, in the narrow column. It was the Copper bouts, all of them, every one, in order, with the exchange and the method. It was the Darrow Innes line from the Cinder House, which she had copied from her own book of that year. It was *atypical movement pattern*, again and again and again, in the margin beside him, the words that had become a joke between them and then stopped being a joke. It was Brom's line and his own on the main floor. And it was *Iron-equivalent. Cael. No Path designation.* And at the very end, still sharp-edged, it was a week ago Tuesday, and then yesterday, and the rope.
 
 He turned the leaves over slowly with the fingers of his left hand.
 
@@ -86,7 +86,7 @@ He turned the leaves over slowly with the fingers of his left hand.
 
 He did not say anything, because for a moment he could not.
 
-"It's stamped," said Vell, in a different voice, brisk, as if they had moved on to the price of ink. She turned the sheaf over and showed him the back of the last leaf. There was her keeper's seal, a small brass thing she kept in the drawer for letters to the salt end and the coast, pressed into a blob of brown wax: a straight line, and a ring round it. "So that if anybody at your academy wants to know whether it's true, they can write to me and ask. I'll answer them. I'll answer them at length." She almost smiled. "I'll enjoy it."
+"It's stamped," said Vell, in a different voice, brisk. She turned the sheaf over and showed him the back of the last leaf. There was her keeper's seal, a small brass thing she kept in the drawer for letters to the salt end and the coast, pressed into a blob of brown wax: a straight line, and a ring round it. "So that if anybody at your academy wants to know whether it's true, they can write to me and ask. I'll answer them. I'll answer them at length." She almost smiled. "I'll enjoy it."
 
 He tied the tape again, carefully, with his left hand and his teeth, and held the sheaf in his lap.
 
@@ -114,7 +114,7 @@ He looked at it where it stood in the corner as it always had, shut, with the ol
 
 "I know you will. You're the kind that does." She turned back to the table. "I'm not young," she said, to the lamp, so quietly that he was not sure he was meant to hear. "So don't be too long about it."
 
-He went out into the main room with the two sheaves held against his chest, the thick one and the thin one, and the weight of them was nothing at all, a few ounces of paper and wax, and he had never in his life carried anything that felt heavier or that he was more afraid of dropping. The sweepers had finished and gone. On every beam the ordinary lamps had been put out but one, which burned over Vell's table, and in the dark the old stone floor gave back his footsteps exactly as it had the night before the bout. He stood in the middle of it for a moment, on the north mark, which he could not see but knew by the feel of the lead seam under his left boot.
+He went out into the main room with the two sheaves held against his chest, the thick one and the thin one, and the weight of them was nothing at all, a few ounces of paper and wax, and he had never in his life carried anything that felt heavier or that he was more afraid of dropping. The sweepers had finished and gone. On every beam the ordinary lamps had been put out but one, which burned over Vell's table, and in the dark the old stone floor gave back his footsteps as it had the night before the bout. He stood in the middle of it for a moment, on the north mark, which he could not see but knew by the feel of the lead seam under his left boot.
 
 Then he went home, up the hill in the dark, with one hand flat over the pocket where the sheaf lay, the way he had walked down that same hill a year and a half ago with one hand flat over the pocket where Hesk's savings were, because it was the only thing he had that anybody could take from him, and he did not mean to let them.
 
@@ -124,7 +124,7 @@ Ansel bought the stew.
 
 He had said he would, a fortnight ago, to Brom at the arch, when Brom held out the two coppers Ansel had left on the cookshop board the night Brom was buying. *I'll buy the next one.* And on the Wednesday night he came to the boarding house and stood on the step with his coat buttoned to the throat, as he always wore it, and said that he had a pot at the cookshop with Cael's name on it and Lira's and Brom's. He would not hear a word against it. He walked them down the hill himself, so that none of them could slip off and pay first.
 
-The cookshop man had put two tables together at the back, under the window. The stew was the good one, the one with the barley and the bacon, and there was bread that was that day's and not the day before's. They sat four round two tables, and for a long time nobody said anything that mattered. Ansel was not a talker. He ate carefully and listened, and when Lira told the story of Brom's ear he laughed. It was the first time Cael had ever heard him laugh, a short surprised sound like a door coming open that had been painted shut.
+The cookshop man had put two tables together at the back, under the window. The stew was the good one, the one with the barley and the bacon, and there was bread that was that day's and not the day before's. They sat four round two tables, and at first nobody said anything that mattered. Ansel was not a talker. He ate carefully and listened, and when Lira told the story of Brom's ear he laughed. It was the first time Cael had ever heard him laugh, a short surprised sound like a door coming open that had been painted shut.
 
 When the bowls were empty Ansel sat back.
 
@@ -158,7 +158,7 @@ He waited.
 
 The heavyset man had the lodgers' book open on the hall table on the Thursday morning, before it was light, with the lamp beside it and his pen in his hand. He had not been to bed. Cael did not think he had been to bed since the bout.
 
-The entry was still there, inside the front cover, where it had been since the spring: *C. Hesk-ward, back first floor, two rooms with L.* Below it was the column for rent, with a small tick for every month, in a hand that pressed too hard. The heavyset man had added nothing to it yet. He stood with the pen over the line and looked at it for a long time, as if he were reading it for the first time.
+The entry was still there, inside the front cover, where it had been since the spring: *C. Hesk-ward, back first floor, two rooms with L.* Below it was the column for rent, with a small tick for every month, in a hand that pressed too hard. The heavyset man had added nothing to it yet. He stood with the pen over the line and looked at it for a long time.
 
 Then he wrote, beside it, in the narrow margin, very small: *Gone east. Paid. Good lodgers.*
 
@@ -172,7 +172,7 @@ It was the first time he had ever asked it of anybody going out in the morning. 
 
 The heavyset man nodded again. From the kitchen door behind him his wife came with two parcels done up in a cloth, bread and cheese and something heavy that turned out later to be a whole cold fowl. Behind her came the sister, with the dog under her arm and a plate in her other hand. She held the plate out to Lira without a word. In charcoal, in her large uneven hand, it said: *EAT. BOTH. ALL THE WAY THERE.*
 
-Lira took the plate and looked at it for a long moment, and then gave it back.
+Lira took the plate and looked at it, and then gave it back.
 
 "I can't carry it," she said. "Keep it for the next ones. Put it on their stair."
 

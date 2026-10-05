@@ -208,7 +208,7 @@ She took the pan off the heat and turned round and leaned against the stove with
 
 "Hit what you'd hit. If I only get hit where it's polite, I'll learn what's polite."
 
-She looked at him with the spoon in her hand. Somewhere in the front of the house the heavyset man said something to somebody about onions, loudly, in the voice of a man who has opened a window and wants it known.
+The spoon stayed where it was, in the air between them. Somewhere in the front of the house the heavyset man said something to somebody about onions, loudly, in the voice of a man who has opened a window and wants it known.
 
 "All right," said Lira. "The collarbone, mostly. You'll be sorry."
 
