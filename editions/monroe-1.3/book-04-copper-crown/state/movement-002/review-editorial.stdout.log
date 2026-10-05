@@ -1,0 +1,1431 @@
+Reading additional input from stdin...
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a10b62-f429-7372-b181-e73e18ff5dc7
+--------
+user
+You are the review seat for a Monroe Jackson 1.3 / O'Connor 1.3 movement of The Fractured Path.
+Do not modify any repository file. Read the compiled review prompt below in full and follow it exactly.
+This is the EDITORIAL pass (continuity/story + numerical formula alignment). Canon evidence is supplied.
+Measured formula metrics for these chapters (tools/formula_metrics.py; method in its docstring) are below — use them; do not re-estimate:
+```
+chapters                     7
+words_total                  33279
+words_prose                  33279
+words_in_system_notices      0
+sentences                    2544
+sentence_mean                13.08   (target 14.6)
+sentence_median              9.0   (target 11)
+sentence_sd_pop              11.76
+share_le5_words              0.316
+share_ge40_words             0.042
+paragraphs                   804
+paragraph_mean               41.39
+paragraph_median             27.0
+scene_breaks_marked          30
+scene_breaks_per_10k         9.01
+words_per_scene              899.4   (target 950)
+flesch_reading_ease          87.1   (target 72.3)
+flesch_kincaid_grade         4.35   (target 6.8)
+method                       editions/monroe-1.3/tools/formula_metrics.py (see module docstring)
+```
+Also check the Reader Standard (thirteen-year-old reader; see EDITION_BRIEF) and every protected-wording line in BOOK_MAP that falls inside this movement.
+Source reuse (tools/source_overlap.py; runs of 8+ words shared with the current edition, protected wording excluded) — # summary: 0 unprotected shared runs of >= 8 words; 8 protected runs (allowed). Full list: /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-04-copper-crown/state/movement-002/source-overlap.tsv. Any unprotected reuse is a finding; the edition's prose must be new.
+Write your complete review as markdown to: /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-04-copper-crown/state/movement-002/review-editorial.md (create that one file; nothing else).
+End it with a section '## Repair brief' giving at most three priorities, each with location, observed issue, effect on the reader, proposed scope, and a strength to preserve.
+
+--- COMPILED REVIEW PROMPT FILE: /Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-04-copper-crown/state/movement-002/review-editorial-prompt.md (read it in full) ---
+codex
+I’m using the O’Connor skill because this is explicitly an O’Connor 1.3 editorial review seat. I’ll read its instructions and the compiled prompt in full, then create only the requested review file.
+exec
+/bin/zsh -lc "wc -l /Users/drive/.codex/skills/oconnor/SKILL.md editions/monroe-1.3/book-04-copper-crown/state/movement-002/review-editorial-prompt.md && sed -n '1,240p' /Users/drive/.codex/skills/oconnor/SKILL.md && sed -n '241,520p' /Users/drive/.codex/skills/oconnor/SKILL.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+      57 /Users/drive/.codex/skills/oconnor/SKILL.md
+    3055 editions/monroe-1.3/book-04-copper-crown/state/movement-002/review-editorial-prompt.md
+    3112 total
+---
+name: oconnor
+description: Plan and orchestrate the Monroe 1.3.0 O'Connor progression-adventure seat, using Iron Prince structural research, Opus or Fable authorship, open-range movements and focused editorial loops.
+---
+
+# O'Connor 1.3.0 — Monroe Jackson author seat
+
+Canonical package: `/Users/drive/penname/pennamecodexv3`.
+Read `pen-names/oconnor/PIPELINE.md`, `VOICE.md` and `FORMULA.md` in that package.
+Read `/Users/drive/penname/research/ironprince-craft-formula.md` for its exact
+numerical targets. The compiler embeds craft sections 2–6 and 8–9 verbatim in both
+planning and drafting prompts. These are the owner's selected design targets,
+not optional research notes; do not soften them into generic craft advice.
+Codex maintains/orchestrates; Opus or Fable writes and repairs. Opus 5.5 is the default author;
+Fable (or another model) runs only when the owner names it. Never substitute the
+current Codex model silently. The public
+byline is Monroe Jackson; O'Connor is an internal seat name.
+
+Use six or more contiguous chapters per creative run (default 8, no upper cap). One compact
+movement brief replaces compulsory chapter cards. No chapter-by-chapter editorial
+gates. Output limits can require continuation of the same run; they must not cause
+shortened chapters or premature claims of completion.
+
+The owner names the characters. Use role placeholders during planning and resolve
+the needed names before prose drafting. A request to build/activate the seat is
+not permission to start a novel. Preserve canon and exact owner-protected text.
+
+Compile locally with `/Users/drive/penname/harness/oconnor.sh`:
+
+- `plan --root PROJECT --author opus --idea 'idea'` (or `--idea-file FILE`).
+- `formula --output FILE` exports the standalone numerical formula prompt.
+- `movement --root BOOK --author fable --packet packets/MOVEMENT-001.md --count 8`
+  with `--start N`, repeated `--context FILE`, optional `--previous FILE`, and
+  optional scene-specific `--action 'scene=stack'`.
+- `review --root BOOK --author fable --chapter manuscript/chapter-01.md`, repeating
+  `--chapter` for the complete movement in reading order. Add `--context FILE`
+  for editorial canon evidence; omit for manuscript-only cold reading.
+  Use `--formula-check` for editorial target/observed comparisons; omit it for a
+  blind cold read. Read `pen-names/oconnor/FORMULA_REVIEW.md` for measurement rules.
+
+The compiler prints a prompt; `--output FILE` saves without overwrite. It makes
+no model call. For authorized drafting, verify the locally installed author CLI's
+available model and subscription login, then supply the selected model and saved
+prompt. Do not switch to a paid API or alternate author on failure. Record the
+actual reported model separately from the seat version and requested alias.
+No new model invocation is authorized merely to validate this skill.
+
+After the completed movement: continuity/story pass, reader/clarity pass, one
+consolidated same-author repair, targeted recheck. Read `REVIEW.md` for the rubric.
+Label self-review vs fresh-context simulated cold read honestly. Use approved owner
+voice/examples; only accepted owner evidence updates the trainer.
+
+Read `PROVENANCE.md` when discussing research validity. Do not claim a full-book
+read or verified percentages from partial inspection. The transcript and quoted
+source-character study are private research, not drafting inputs. Read
+`references/combined-path-adapter.md` only for the owner's selected 600-year Kindling
+proposal; it is not a default premise for new books.
+
+exec
+/bin/zsh -lc 'wc -l /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md /Users/drive/penname/research/ironprince-craft-formula.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     131 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md
+     120 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md
+      38 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md
+     179 /Users/drive/penname/research/ironprince-craft-formula.md
+      34 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md
+      44 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md
+     546 total
+
+exec
+/bin/zsh -lc "for f in /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md /Users/drive/penname/research/ironprince-craft-formula.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md; do sed -n '1,240p' \""'$f"; done' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# O'Connor 1.3.0 — Monroe movement loops
+
+Foundation: Monroe Jackson 1.3.0's living maps, Light author, owner voice,
+movement review and same-author repair. As of the owner's 2026-09-29 update, Monroe
+1.3 Light also uses open-range movements of six or more chapters and optional chapter cards.
+O'Connor retains its own formula and author-selection rules.
+The repository still has mixed legacy version labels; this is a seat-level version,
+not a claim that the whole repository has been upgraded.
+
+## Roles and identity
+
+Codex builds and maintains the seat, prepares context and coordinates reviews.
+Claude Opus 5.5 writes and repairs the manuscript by default; Fable runs only when
+the owner names it for that run. Retain the same author for repairs. No silent
+author substitution. Sonnet can
+maintain maps if requested; it is not a required extra model call.
+
+Record public byline Monroe Jackson, seat `oconnor`, seat version `1.3.0`,
+foundation `Monroe Jackson 1.3.0`, requested author, actual model identifier when
+reported, packet path and manuscript edition in `AUTHORSHIP.md`. An unverified
+model identifier stays unknown. Prompts do not train model weights.
+
+The owner supplies character names. Plan with role placeholders such as [LEAD]
+and [FRIEND] until names are supplied; never turn placeholder names into canon.
+Do not draft the new book until its premise and necessary cast names are approved.
+
+## Series and book planning
+
+Read the owner's premise and existing canon. Apply `FORMULA.md` to build a
+progression-led series with original people, mechanisms and events. The compiler
+includes sections 2–6 and 8–9 of `research/ironprince-craft-formula.md` verbatim:
+sentence distributions, readability, paragraph/scene rhythm, progression density,
+development cadence and POV allocation are active design targets. Preserve the
+source's distinction between primary targets, directional proxies and optional
+secondary signals. Do not replace the formula with generic advice. Reuse existing
+project files rather than proliferating paperwork:
+
+- `SERIES_MAP.md`: NOW, NEXT, HORIZON; recurring pleasure, trajectories, connections.
+- `BOOK_MAP.md`: movement pressures, important promises/payoffs, intended ending.
+- `CHARACTERS.md`: owner names, private wants, relationships, distinct voices.
+- `UNIVERSE_BIBLE.md`: rules, limits, chronology, reserved truths.
+- `STATE_LEDGER.md`: current bodies, knowledge, resources and unresolved threads.
+
+Keep possible ideas distinct from planned events and established canon. Preserve
+owner decisions; manuscript discoveries can revise plans, not quietly overwrite
+canon. The optional 600-year Kindling proposal is used only when chosen; then read
+`references/combined-path-adapter.md` and its source proposal in full.
+
+## One movement: six or more chapters
+
+Six is the floor, eight the compiler default, and there is no upper cap: give the
+author the length the arc needs, up to the whole book when the owner asks. Choose
+the batch before drafting. One compact brief gives entry state, movement goal/pressure, a few
+consequential turns or promises, boundaries on reserved revelations, and room to
+invent. List output paths and relevant canon references. Individual chapter cards,
+dialogue beats and blow-by-blow choreography are not required. See `MOVEMENT_BRIEF.md`.
+
+The author owns scene selection, chapter boundaries, tactics, conversation,
+discoveries, humor and the route through the movement. Plans describe intended
+change, not every action. Protect spacious, developed fights; do not compress real
+chapters into summaries to fit a response. Load optional fight layers only for a
+specified scene/problem; do not stack every available layer by default.
+
+Read the previous ending and relevant canon before drafting. Load approved owner
+voice and a few relevant examples; preserve all applicable owner protections.
+Write forward in one author session through the full movement. Between chapters,
+only carry state and correct a contradiction that would invalidate what follows.
+Do not stop for scoring, stylistic editing, frequency checks or approval per chapter.
+
+A movement of any length is one creative run, not necessarily one API response. When
+output/context limits intervene, save complete chapters and a precise continuation
+checkpoint; resume the same author and movement without triggering editing. Record
+any session restart. Never label a partial movement complete or truncate scenes
+to claim that the entire batch fitted.
+
+## A few passes after the whole run
+
+1. **Continuity and story pass:** read all chapters together; check state, rules,
+   knowledge, names, seams, cause/effect, progression and relationships. Read the
+   preceding/following join when available. Separate canon errors from plan changes.
+   Include numerical formula alignment here with `review --formula-check`; read
+   `FORMULA_REVIEW.md`. Report target vs observed results and cumulative drift.
+   Do not invent measurements or silently change the requested target values.
+2. **Reader and clarity pass:** read for pull, humor, action experience, attachment,
+   punctuation and one-pass comprehension. Use `REVIEW.md` for 13-year-old/adult
+   lenses. Label self-review and simulated readers honestly. A fresh-context cold
+   read gets manuscript only; it is not a real audience measurement.
+3. **One consolidated author repair:** combine at most three high-leverage
+   priorities, preserving named strengths. The same Opus/Fable repairs in reading
+   order. Recheck only the findings and changed joins. A second repair is for an
+   unresolved concrete defect, not an improved average score. Escalate a structural
+   choice to the owner instead of looping indefinitely.
+
+Freeze a recoverable edition before repairs. Owner-protected text remains exact;
+ask before altering it. Punctuation-only edits are word-locked and validated;
+meaning changes are explicit manuscript revisions. Untouched AI text and automated
+repairs do not become owner-voice training evidence. Accepted owner edits use the
+existing Monroe trainer. Update maps/ledger from surviving prose, then move on.
+
+At book completion read the whole arc, progression, relationships and payoffs;
+repair in movement-sized units, then line/listening proof. At series turns check
+power inflation, repeated plots and cross-series consequences. Narration markup
+belongs to the manuscript edition and does not certify editorial quality.
+
+## Invocation
+
+Use `$oconnor` in Codex, giving the project, task and Opus or Fable.
+An activation or seat-build request does not initiate a novel or spend model credits.
+
+Compile prompts locally (no model call):
+
+```bash
+/Users/drive/penname/harness/oconnor.sh plan --root /path/to/series \
+  --idea 'My premise; I will supply the names'   # --author defaults to opus
+/Users/drive/penname/harness/oconnor.sh movement --root /path/to/book \
+  --author fable --packet packets/MOVEMENT-001.md --start 1 --count 8 \
+  --context CHARACTERS.md --context STATE_LEDGER.md
+/Users/drive/penname/harness/oconnor.sh review --root /path/to/book --author fable \
+  --chapter manuscript/chapter-01.md --chapter manuscript/chapter-02.md
+```
+
+For review, repeat `--chapter` for EVERY chapter in the completed movement in order;
+two paths above only demonstrate argument syntax. Include canon through `--context`
+for an editorial pass; omit it for a manuscript-only cold-reader context.
+Add `--formula-check` to the editorial review, not to the blind cold read.
+Export the standalone numerical author prompt with
+`/Users/drive/penname/harness/oconnor.sh formula --output /path/to/new.prompt.md`.
+`--output FILE` creates a new prompt without overwriting. The compiler does not
+launch the author. On an authorized writing request, use the existing authenticated
+author CLI with the explicit model and compiled prompt; verify model availability
+and report an unavailable author instead of substituting Codex.
+# O'Connor seat 1.3.0 — Monroe Jackson
+
+Internal seat ID: `oconnor`. Public byline: Monroe Jackson unless the owner chooses
+another. Foundation: Monroe Jackson 1.3.0 living-map/Light architecture. Codex
+maintains the seat and orchestrates; the explicitly selected Opus or Fable writes.
+Neither model is established as universally best by this research. This is an
+original progression-adventure voice. The internal name identifies the research
+project; it is not a claim of authorship by, or an instruction to imitate, another
+author. Seat version and underlying model are recorded separately.
+
+## The reader promise
+
+Use `FORMULA.md` alongside this profile. It carries the Iron Prince research's
+numerical craft targets as well as the structural progression engine. They are
+active author instructions, not optional background. Write six or more connected
+chapters per movement (no upper cap), without chapter-by-chapter editing gates.
+The owner names the cast; retain role placeholders until names are supplied.
+
+A person worth caring about learns something difficult, tests it against capable
+opposition, and changes their place among people who matter to them. Let the reader
+enjoy getting better with them. Friendship, rivalry, wonder, danger, and humor give
+the effort meaning. Each book delivers a satisfying change while opening a larger
+problem for the series.
+
+## What this author notices
+
+Notice the practical detail that changes a choice: a grip failing, a friend making
+room, an opponent protecting the wrong side, a familiar tool behaving differently.
+Close third person is the default. Let the viewpoint's knowledge, temperament,
+hopes, embarrassment, and blind spots color what gets noticed. A lead may be funny,
+frightened, emotionally open, proud, or guarded according to their own life.
+Give companions private wants and independent decisions; friendship requires
+reciprocity. A mentor's competence and investment should be observable. A rival
+needs a credible objective and the ability to adapt.
+
+Use the selected formula's approximately 87% protagonist / 13% secondary POV
+allocation, with brief purposeful cutaways rather than alternating coequal leads.
+Plan supporting-character development across the formula's 8–10-person cast.
+Do not change these allocations without the owner's direction.
+
+## Sentences people can read once
+
+Use clear sentences with varied weight. Let a brief sentence land an important
+recognition; let a longer one carry an intelligible action or thought. Put the
+subject and action where a listener can follow them. Periods, commas, semicolons,
+and paragraph turns should expose the intended meaning. Repair comma splices and
+ambiguous attachments during writing. Preserve a purposeful long sentence when
+its hierarchy is clear. Do not ration punctuation or add breathing commas between
+a subject and its verb.
+
+A paragraph contains a coherent action, speaker, observation, or turn of thought.
+End it when the thought turns. Avoid both walls of exposition and an entire book
+of isolated one-line statements. Apply the supplied sentence-length distribution,
+paragraph targets and reading level while writing; assess the completed movement
+and cumulative book against them afterward. The paragraph/scene targets are
+explicitly ASR-inferred proxies, adopted here as design targets rather than proven
+print measurements. Keep their directional status as described in the source.
+
+## Progression that earns attention
+
+Show what the character can do, what they cannot yet do, and why it matters today.
+Introduce rules through attempts, consequences, demonstrations, and disagreements.
+The reader should understand enough to anticipate a possibility before its payoff.
+Let mastery change behavior, relationships, work, or danger. Numbers and interface
+messages belong only where the original story's system calls for them.
+
+Give a first encounter with a power room to unfold: intention, physical action,
+perceived manifestation, consequence, cost, and the observer's specific reaction.
+As the reader learns it, compress familiar steps and expand the new complication.
+A spectacular manifestation needs a comprehensible limitation. An unexplained
+ability cannot quietly resolve the decisive problem.
+
+## Sustained action and learning fights
+
+The owner wants more substantial action and longer developed scenes. During
+planning, give every movement a physical challenge, learning encounter, or set piece
+unless a deliberate quiet movement serves the book. State the reason for that quiet
+movement. Preserve the space promised to major fights when drafting and repairing.
+
+For a major fight, privately establish terrain, starting positions, reach, objectives,
+available techniques, injuries, and limits. Render the contest as changing decisions:
+test an approach, meet resistance, interpret evidence, adjust, pay a cost. The opponent
+also learns. Reversals follow from planted information, choices, or constraints.
+Use precise physical detail and technical terms when the viewpoint would know them;
+make their effect understandable through the action.
+
+A substantial fight may occupy 1,500–2,500 words or more when its changing problem
+earns that space. This is a planning allowance, not a compulsory word count. Let
+smaller encounters be smaller. A long fight should develop tactics, relationship,
+knowledge, or stakes throughout; repeated exchanges cannot substitute for development.
+Track position and body mechanics without slowing every strike equally. Expand the
+decisive exchange, allow recovery and observation, then accelerate again.
+
+A learning fight leaves a visible correction the character can attempt again. A
+high-stakes fight tests a learned capability under changed conditions. A loss may
+purchase knowledge without becoming a disguised victory. Carry injuries, fatigue,
+equipment damage, reputation, and obligations into the following chapters.
+
+## Humor, intimacy, and emotional range
+
+Let humor arise from perspective, affection, friction, and inconvenient reality.
+Give different people different comic habits. Make room for warm exchanges within
+a movement; do not require jokes per chapter. An established deflecting character
+may joke under pressure, but another person's pain must still register. Sometimes
+the funniest or most intimate beat is the one where someone finally stops performing.
+Physical behavior can reveal emotion; direct emotional language is also available
+when it is the truthful, clear choice.
+
+## Discovery inside a coherent series
+
+Maps remember facts and promises; scenes discover how people act. Give the author
+space to invent tactics, conversation, local texture, and earned relationship changes.
+Carry important discoveries into the map after the movement. Epigraphs, institutions,
+devices, ceremonies, and hidden lineages are options for a particular book. None is
+required by this seat. Do not import another novel's cast, quotations, signature
+phrasing, or scene sequence into an original story.
+
+Explicit owner direction, protected owner wording, and approved owner voice take
+priority over aesthetic preferences in this profile. The project's canon governs
+story facts. Research cannot create canon.
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+# Iron Prince Craft Formula — Mechanism, Not Expression
+
+Purpose: a prose-generation target for an author agent (Opus or otherwise) writing an
+**original story, original world, original characters** that reads in the structural
+tradition of Bryce O'Connor & Luke Chmilenko's *Iron Prince* (Warformed: Stormweaver,
+Book 1), without reusing any of that book's protected expression.
+
+Derived from a direct statistical pass over a Whisper transcript of the owner's own
+purchased audiobook (61 files, ~326,000 words, mlx-community/whisper-large-v3-turbo-asr-fp16).
+Full methodology and raw numbers: `research/ironprince-craft-stats.json`. The transcript
+itself lives at `research/iron-prince-book1-transcript.md` — **local reference only, never
+to be copied into generated prose, never pushed to a shared repo.**
+
+---
+
+## 1. Why this is a legitimate craft extraction, not a copyright problem
+
+**The governing rule is 17 U.S.C. §102(b):** copyright "in no case" extends to "any idea,
+procedure, process, system, method of operation, concept, principle, or discovery." Every
+number in this document describes a *pattern* — a distribution, a rate, a placement
+tendency — not a string of his words.
+
+**Nichols v. Universal Pictures** (Learned Hand, 2d Cir. 1930) is the operative test: a
+work can be described at any level of abstraction from bare theme down to verbatim text,
+and protection attaches only at the concrete end. "Underdog with a device that grows
+through combat losses, at a competitive academy" is exactly the kind of abstract pattern
+Hand's opinion places outside protection — same tier as "star-crossed lovers whose families
+feud." The specific words O'Connor used to render any one scene are protected; the
+narrative-engineering pattern behind a hundred scenes is not, and never was his to own.
+
+**Scènes à faire** — tournament brackets, academy hierarchies, training-montage beats,
+mentor-pep-talk scenes — are standard furniture of progression fantasy. Unprotectable
+because they are not original to any one author; using them is not "borrowing from Iron
+Prince," it's writing in a genre.
+
+**Style is one of the most settled unprotected categories in the caselaw.** Sentence-length
+distribution, paragraph rhythm, dialogue-tag frequency, where a chapter chooses to land its
+progression beat — these are *how* he writes, not *what* he wrote. No court has ever let an
+author own a cadence.
+
+**What this document is careful never to hand over:** his invented terminology as *his*
+naming choices (CAD, Growth/Offense/Defense as exact labels, "Galens Institute," any
+character or place name from this book), the specific sequence of his actual scenes, or
+any sentence-level phrasing. Section 7 makes this an explicit checklist, not an assumption.
+
+**One adjacent, non-copyright flag:** if this project is ever *marketed* as "feels just like
+Iron Prince," that's a Lanham Act false-designation-of-origin question — a labeling risk,
+separate from whether the craft extraction itself is sound. It is sound. Don't advertise
+affiliation that doesn't exist.
+
+---
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 7. What to build yourself — do not reuse
+
+This is the wall between mechanism (above, safe to target) and expression (below, never
+copy). Invent your own equivalents for every line:
+
+- **His device's name and axis labels** — do not use "CAD," "Growth," "Offense," "Defense"
+  as your system's exact terms. A multi-axis, letter-graded progression system is an
+  unprotectable *method* (§102(b) again — "system" is explicitly excluded); his specific
+  naming of it is his expression. Name your own axes.
+- **Character names** — protagonist, cast, mentors, antagonists: all original. Do not use
+  near-homophones of his names as a wink (no "Raden Word," no "Vivi").
+- **Place and institution names** — invent your own academy, city, system names.
+- **Scene sequence and content** — the *pattern* "open on the protagonist demonstrably
+  worst-in-room in a public setting" is fair game; the specific scene he wrote to do that
+  is not. Write your own scene from scratch to hit the same structural beat.
+- **Any sentence-level phrasing** — nothing lifted, nothing paraphrased closely enough that
+  a side-by-side read would show matching word order. Style-match at the level of *rhythm*
+  (§2–3), never at the level of *wording*.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+# Numerical formula alignment — after the movement
+
+This is an informed editorial pass, not a blind cold read. Read the supplied
+formula and full movement, then report target, observed result, method, coverage
+and uncertainty. Keep numerical alignment separate from reader scores.
+
+- Sentence mean, median, population standard deviation; shares ≤5 and ≥40 words.
+- Written paragraph mean/median and actual scene/section boundaries. Compare with
+  the requested targets, but do not equate typography with ASR pause segmentation.
+- Flesch Reading Ease and Flesch-Kincaid grade. Identify the sentence tokenizer and
+  syllable estimator; proper names/system terms can affect estimates.
+- Progression vocabulary hits per 10,000 words, and placement by equal word-count
+  book thirds once available. Define a project-specific lexicon before counting;
+  do not borrow the source novel's names. An incomplete book cannot confirm the
+  full front-loading ratio. Report provisional cumulative coverage instead.
+- Lead development moments and supporting-cast distribution: cite actual choices
+  or realizations and distinguish manually identified beats from regex proxies.
+- POV word share: identify viewpoint segments, not the most frequently mentioned
+  name. Track the lead and secondary viewpoints against the book-level allocation.
+- Secondary signals: -ly words, reporting verbs, combat terms, fillers and repeated
+  phrases. Publish lexicons and counting definitions. A suffix count is not proof
+  that every matched word is an adverb. Preserve optional/non-target distinctions.
+
+Use reproducible counts when tooling exists. Otherwise mark a metric UNMEASURED;
+never estimate a precise score by intuition. Save the method or command with the
+report so later runs use the same definitions. Inspect ASR reference limitations
+without discarding the owner's chosen drafting targets.
+
+Locate meaningful departures, especially uniform sentence lengths, missing short
+beats, reading level drift, dense paragraphs, late teaching or a coequal second
+lead replacing the requested POV shape. Consolidate the most important repairs
+with continuity findings into the existing bounded author repair. Protect exact
+owner text and successful scenes. Do not iterate indefinitely to hit decimals or
+hide irreconcilable targets. Bring consequential formula conflicts to the owner.
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+codex
+The seat rubric confirms this is an informed editorial pass: continuity/canon plus measured formula alignment, followed by a bounded three-item repair brief. I’m now reading the 3,055-line compiled packet in sequence, including all protected wording and chapter text.
+exec
+/bin/zsh -lc "sed -n '1,500p' editions/monroe-1.3/book-04-copper-crown/state/movement-002/review-editorial-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+7 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-08.md
+
+# Chapter 8 — The Wall Has Students
+
+He woke on the twenty-second morning with the sentence already in his mouth, as if he had been saying it in his sleep.
+
+*Gault writes it once.*
+
+The notice lay on the desk where he had left it, folded on its crease, and he did not unfold it. He knew what it said. Somewhere inside the next month, on a day he did not choose, a man he had never met would watch him in a room full of instruments and write down what he saw, and every half-year after that somebody would lay the new figures beside the old and look for the difference. It was the only paper he would ever sign that could not be amended, Karis had said, and she had been right, and he had lain awake a good part of the night turning that over without getting anywhere at all.
+
+He went down to breakfast meaning to think about it properly, and Brom spoke first.
+
+"Fourth bell," said Brom, into his porridge. "East hall. There's a gallery. Come and sit in it."
+
+The other three stopped eating.
+
+It was the first thing Brom had said about the east hall in twelve days. He had gone there every afternoon since the ninth with his new wraps rolled under his arm, and come back every evening with no bruise, no ice and no story. He had simply closed a door on that part of his day and sat with his back against it, cheerful about everything else. Lira had asked twice and stopped. Karis had not asked at all, which for Karis was a feat of strength.
+
+"What's at the fourth bell?" said Cael.
+
+"Me." Brom put his spoon down. "On the floor. First time."
+
+"You've been going for twelve days."
+
+"I've been sitting for twelve days." Brom looked at the table between his hands, half embarrassed and half something else. "He puts everybody new on the bench along the back wall. You don't run anything. You don't touch anybody. You watch the cohort for the whole hour, and at the end he asks you one question about what you saw, and if he doesn't like your answer you come back tomorrow and watch again." He turned his cup round once. "He says he won't put a man on his floor until he can see him watching. Yesterday I gave him an answer he liked."
+
+"What was the question?" said Karis.
+
+"Which of them was tired." Brom picked his spoon up. "I said the tall one, because he'd started setting his feet before he moved instead of while. He said yes. Then he said fourth bell." He took a mouthful and spoke round it. "I didn't want to talk about the bench. It sounded like I'd been put in a corner. But I hadn't. I don't know what I'd been put in. I learned more in twelve days of sitting than I did in my first year at the Ironyard."
+
+Lira was looking at him with an expression Cael could not read at all.
+
+"We'll all come," she said.
+
+"No." Brom said it gently. "Cael. He'll write it down properly, and I'll want it written down." He glanced at Lira. "You can see the bruises after."
+
+The east hall's gallery ran along its north wall at the height of a man's head, a narrow timber walk with a rail and a bench, reached by a stair so steep it was nearly a ladder. Cael climbed it a little before the fourth bell and sat at the far end, where he could see the whole floor without leaning.
+
+From above, the floor looked like a pale lake. The boards ran the long way of the hall, oak, close-laid and polished by feet to a dull shine, and when the cohort came in and began to warm up he could feel it through the bench: a faint give, a faint return, as if the whole hall were breathing very slowly under them. He had written that down on his first morning on the bluff without knowing why it mattered. He wrote it again now, beside the date, with a line under it.
+
+There were fourteen in Rooke's cohort, and Rooke himself stood at the west end of the floor and did nothing.
+
+Cael had watched him once before, for nine minutes, through a door. From above it was clearer. Rooke was narrow and grey and past fifty, in a plain dark coat with the sleeves turned back once, and he stood with his weight settled evenly over both feet and his hands loose at his sides, and he did not move unless moving bought him something. When he wanted a pair to stop he said one word. When he wanted them to start again he said another. In the whole first quarter of an hour he said perhaps thirty words, and every one of them changed something on the floor.
+
+Brom came in last, in his wraps, and Rooke pointed at the middle of the boards without looking at him.
+
+Four of the cohort came out to meet him.
+
+They did not come all at once. They came in turn, a short exchange each, then the next, and Cael understood within three turns that it had been arranged that way so that Brom would meet four different problems before he had finished solving the first. The first was a small quick girl who laughed when she was hit and was very seldom hit. The second was tall and loose and never came at him the same way twice. The third did almost nothing; she stood off at the edge of his reach and waited, and waited, and when Brom finally moved she was already somewhere else. The fourth was older than the others, seventeen or eighteen, with his weight carried forward on the balls of his feet even when he was standing still, and he did not look at Brom until the instant before he moved, and then he looked at nothing else.
+
+Ephram, Cael wrote. He knew the name from the Iron board, where it sat at the top of the column in last season's fading chalk. *Blade. Iron Rank Six. Watches like he's paying for it.*
+
+Then he stopped writing, because the floor had begun to go too fast for the pen.
+
+---
+
+Brom had been the hardest problem in every hall Cael had ever seen him in.
+
+At the Ironyard, men twice his age had come off the boards shaking their hands out and laughing ruefully, because hitting Brom was like hitting a door that hit back. At Greyvane he had gone through the defensive cohort in a term, and Wray had needed her own two hands to find the one place in him that gave. He was big and he was patient. Iron Skin made the surface of him dense at the instant of contact, so that a strike landed on something more like stone than flesh, and then he did the thing he had built for himself in the years before anybody taught him anything. He let the strike commit, all the way, and only then took it and turned it, so that the force went on past him into nothing, and the striker went with it.
+
+The quick girl touched him on the shoulder before he had finished setting his feet.
+
+Rooke said, "Again."
+
+She touched him again, on the other shoulder, and laughed, and went back to the wall, and the tall one came out. He feinted high and went low and touched Brom on the hip, and then on the next exchange feinted low and went low anyway and touched him in the same place, and Cael saw Brom's face change: not hurt, but puzzled, like a man who has opened a familiar door and found a different room. The third girl stood off and waited, and Brom waited too, for a while, and then moved, because he was not built to wait forever, and she touched him on the wrist as he came. Then Ephram came out, and touched him three times in an exchange so short Cael counted it on the bench afterward by the rise and fall of his own breath and made it four breaths.
+
+Brom tried things. That was the part Cael would remember longest, more than the touches. He did not stand and suffer it. On the quick girl's third turn he dropped his weight early, before she came, so that she would arrive on a man already set, and she simply waited until his legs got tired of being set and came then. Against the tall one he stopped watching the feint and watched the hips, which was what Cael would have told him to do, and for two exchanges it worked; then the tall one began to feint with his hips as well. Against the waiting girl he tried waiting longer than she did, and found that she had been taught to wait by somebody far more patient than anybody who had ever taught Brom anything. Each idea bought him one exchange, sometimes two. Then the person in front of him had seen it, and it was spent.
+
+None of them ever explained. They did not need to. Each correction they made to him was written on his body in the one language every fighter on the floor could read, and he read it, and stored it, and was touched again.
+
+None of the touches were hard. None of them needed to be. Iron Skin would have taken a great deal more than any of them carried, and Brom stood under them like a wall under rain. But every one of them was clean, which was the whole point of them, and every one arrived somewhere Brom had not finished arriving at, and on a scored floor each of them would have gone up on the board.
+
+He could see Brom counting. His lips moved after each touch.
+
+Somewhere around the twentieth minute the lips stopped moving.
+
+Cael wrote that down, because he knew exactly what it meant. Brom had counted everything for as long as Cael had known him: tallies in the pocket book, days of the clause, coppers on toll ledges. He had stopped counting because the count had begun to take some of the attention he needed for the next touch, and he had chosen the next touch. Cael did not think he had ever seen Brom choose anything over a count.
+
+By the end of the hour Cael's own tally, kept in the margin in groups of five, stood at forty-three. Brom had touched somebody back perhaps six times, all of them against the tall one, and all of them the same way, and the tall one had stopped letting him after the sixth.
+
+What struck Cael, sitting above it with the pen going slack in his fingers, was how little luck there was anywhere on the floor. At the Ironyard and at Greyvane a fair share of every bout had been accident: a slip, a guess, a strike thrown at the wrong place that happened to find somebody standing in it. Here there was none of that. Four people had taken turns on Brom for an hour, each of them doing precisely what they had meant to do at a speed Brom had never in his life been asked to answer, and the forty-three marks in the margin were not forty-three pieces of luck but forty-three small arguments, each of them won.
+
+Rooke said, "Enough," and the cohort went to the walls for water.
+
+Then he walked across the floor to Brom and said something Cael could not hear. Brom listened with his head down. He nodded once, and then again, and then he did a thing Cael had never once seen him do with an instructor: he asked a question back. Rooke answered it in two words. Brom went to the wall.
+
+Up on the gallery Cael found he had been holding his breath, and let it go, and closed the notebook on the forty-three.
+
+---
+
+Brom came into the second-quadrangle common room at the fifth bell, walked past every chair in it, and sat down on the floor with his back against the wall under the window.
+
+He did not say anything. Lira looked up from the table where she had been not filling in a ladder form for most of the afternoon, and looked at Cael, and Cael shook his head very slightly. Karis put her pen down. The room's other occupants, two Iron girls arguing about a lecture, went on arguing about it. Brom sat with his hands on his knees and his eyes shut and his breathing slow and even, and the clock on the mantel ticked through most of a minute and a half.
+
+Then he got up, without a word, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
+
+Nobody had told him to. In three years Cael had never once seen Brom fetch ice for himself without being nagged, and it said more than the tallies in the margin.
+
+"Well?" said Lira.
+
+"Forty-three," said Cael.
+
+"He was counting?"
+
+"I was counting. He stopped at about twenty." Cael sat on the arm of a chair. "Four of them, in turns. Nothing hard. Nothing lucky either."
+
+Brom opened his eyes.
+
+"Was it forty-three?" Brom sounded interested, as if it were somebody else's figure. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And not one of them was trying to hurt me. That's the part I keep coming back to. Not one of them was trying to hurt me. They were all just right. Over and over again."
+
+"You're Iron-equivalent," said Lira. She said it a little sharply, the way she said things she was going to defend. "Two years of circuit ratings. Greyvane's defensive cohort in a term."
+
+"Against the Ironyard. Against Greyvane." Brom let the back of his skull rest on the plaster. "Wray told me there was a wall in me. She found it with her own hands and said nobody at Greyvane was fast enough to show me where it went. I've been feeling for it for a year and a half like a man feeling for a door in the dark." He was quiet a moment. Then something came into his face, slowly, from somewhere underneath, and Cael realized with a small shock what it was. It was not distress. It was the purest happiness he had seen on Brom since the bridge at Ostrand.
+
+"I found the wall. It has students."
+
+Karis laughed out loud, and put her hand over her mouth, and laughed again behind it.
+
+"You're pleased," said Lira, disbelieving.
+
+"I'm *delighted*." Brom meant every syllable. "Wray found one thing in me with her hands, once, and it took her a term. This afternoon four of them found a dozen before the bell. Two years I've been the wall everybody else breaks on. You can't grumble about that out loud. People think you're showing off. But it's like being the one grown man at a children's game. Nobody learns anything, and you least of all." He pressed the ice down. "This afternoon I was the one problem in the hall that everybody else already had the answer to, and they gave me the answer, one at a time, and they were kind about it. I don't think I've ever had a better afternoon in my life."
+
+Karis had her notebook out by then, because she could not help it.
+
+"What kind of touches?" she said. "Strikes, or placements?"
+
+"Placements, mostly. A hand on you where a strike would have gone, so you'd know." Brom considered. "The little one hits a bit. She can't help it. She's so pleased to get in that she forgets to stop her hand."
+
+"And you got none of them back."
+
+"Six," said Cael. "The tall one, six times, the same way. Then he stopped letting him."
+
+"Six," said Brom, with enormous satisfaction, as if it had been sixty.
+
+Lira had not gone back to her form. She was sitting very still at the table with the pen in her fingers, looking at Brom on the floor with his ice and his shut eyes and his wide unguarded smile, and after a moment Cael understood what was in her face, because he had seen it there before, on roads, in the dark, when she thought nobody was watching.
+
+"Four people," she said quietly, "looked at you properly for an hour."
+
+Brom opened one eye.
+
+"Yes," he said. "They did."
+
+Lira looked down at the ladder form in front of her, which was four lines long and had been blank since noon. She did not pick it up. She did not say anything else. But she did not look away from it either, and Cael put that in the notebook later, on Lira's page, with the date and nothing else beside it.
+
+"What did Rooke say to you?" said Cael. "At the end."
+
+"He said, 'You were counting.'" Brom smiled at the ceiling. "I said I'd stopped. He said, 'I know. Why?' I said because I needed the room. And he said, 'Good. Tomorrow.'"
+
+"And you asked him something."
+
+"I asked him who'd find it first." Brom closed his eyes again. "The place Wray found. I asked which of them would find it. He said, 'Ephram. Three sessions.'"
+
+---
+
+It took Ephram three sessions, to the day, and Cael was on the gallery for all of them, and for the fortnight that came after.
+
+By then Cael had a page for Ephram and was filling a second. He had placed him on the Iron board the first afternoon and checked him against the registrar's table on the second: Blade Path, Iron-tier, Rank Six, at the top of the Iron column, which at Halcenvane was the same as saying he was the best competitor on the bluff. There were fourteen Silver students on the hill and a Gold-tier fellow, and none of them was talked about the way Ephram was talked about, because none of them was on a column anybody could read from the yard. Here, *best* meant a place on a wall.
+
+He did not attack the place Wray had found. Cael understood that on the fourth day, with his pen stopped over the page. He made it.
+
+Brom's turn needed a read. That was its nature and its strength: he let a strike commit, all the way, so that he knew precisely where its weight was going, and only then took it. But a read needed something to read. So Ephram gave him something. He sold Brom a strike with three-quarters of his weight behind it, honestly, enough to set the read going, and then took it back before the turn could close. The cost of that to Ephram was a sliver of a beat, a little lost balance he recovered as he stepped. The cost to Brom was the whole gap, every time: the full stretch between the read and the turn, spent on a strike that had never arrived. And Ephram could do it again at once, and again, because a Blade practitioner could recommit almost for nothing, and an Iron Skin turn could not be begun and abandoned without paying for the beginning.
+
+*Speed alone wouldn't do it,* Cael wrote, on the fifth day. *There isn't enough daylight between them. So he's running a trade where each repetition costs him less than it costs Brom, and he's running it over and over until the account closes. It's the cleanest thing I've seen anybody do to anybody on a floor.*
+
+*Limit: it needs a big, patient man at the other end. Anybody quick would see the feeds for what they are and go round them. Against Brom there's almost nothing wrong with it.*
+
+*I think I could answer the trade. I'm not at all sure I could answer the man.*
+
+On the sixth day he tried to chart a single exchange from start to finish, stroke by stroke, the way he would have charted it for himself before a bout, and it took him a page and a half.
+
+Ephram came off the wall with his weight forward and stopped two paces out. He sold a strike at the left shoulder, hips turning, the back foot pushing honestly into the oak, and Brom's read took it; Cael saw Brom's shoulders begin to settle into the turn. Ephram was already gone from it. He had pulled the strike back into his own centre before it reached the halfway mark, and stepped a hand to the right, and sold another at the same shoulder from the new angle. Brom's read took that too, because it was honest weight again, and Brom was a man who believed honest weight. On the third sale Brom did not turn. He held, and held, and the strike did not come, and in the instant he let himself believe it would not come at all, it came: full, clean, a flat hand laid along his ribs on the side he had just stopped guarding.
+
+Three sales and a delivery. Perhaps four breaths. Ephram had spent a little balance three times and recovered it each time in the same step. Brom had spent the whole length of his gap three times over, and on the fourth time had nothing left in it.
+
+Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. A man who would not read could not turn, and a man who could not turn was only large. Brom took the touch, and nodded slowly, as if he had expected it, and went back to reading, because it was the only way he knew how to stand.
+
+Over the fortnight he watched it get worse instead of better, which he had not expected.
+
+In the first sessions Brom fell for perhaps half the false feeds. A few days later it was more than half. By the tenth day, Ephram had stopped bothering to sell them very hard, because he no longer needed to, and Brom was turning on strikes that were barely a quarter committed, with his weight going out to meet a force that had already gone home. Cael sat on the gallery and watched his friend's best thing being used against him, a little more each afternoon, by a boy of seventeen or eighteen who never once looked pleased about it.
+
+Rooke stood at the west end of the floor and let it happen. He did not stop it and did not correct it. Only once, on the ninth day, when Brom had turned on nothing three times in one exchange and stood afterward with his big hands open at his sides, did Rooke say anything at all, and then it was a single word, to Ephram.
+
+"Again."
+
+---
+
+Brom told it on the wall behind the second quadrangle on the thirtieth evening, with his forearms on the coping and the river going dark below, and he told it in three sentences that got shorter every time he came back to them.
+
+"He's teaching my body a lie."
+
+Cael waited.
+
+"Every one I fall for," said Brom, "the next comes cheaper. My body's learning to believe him." He turned his hands over on the stone. "It's like watching somebody teach a dog to come to the wrong whistle. A bit each afternoon. And you're stood there seeing it done, and you can't call the dog off, because the dog's you." He looked down at his hands on the stone. "He's very good."
+
+"Have you told Rooke?"
+
+"Rooke told me." Brom laughed, one short breath. "Day three. Before Ephram had even found it. He said it to me at the wall while I was drinking." He hesitated, and then did something Cael had never seen him do in three years of roads and boarding houses and yards. He unwound his left wrap, a few turns, and held the inside of it toward the last of the light.
+
+There was writing on it, in ink, in Brom's big careful hand, run round the inside of the cloth where it lay against the wrist.
+
+Cael stared at it. Brom did not write things down. He kept tallies, which were not writing, and he signed his name, and once, at Ardenmere, he had said that ink was where you put things when you didn't trust your body to keep them, and that he preferred to keep his things where he could use them.
+
+"I wanted it where I'd feel it," said Brom, a little defensively. "Every time I bind up." He read it off the cloth, slowly, in Rooke's flat rhythm.
+
+"*You built that redirect alone and it was a good piece of work for a boy with no instructor. It is now the most expensive habit you own. We are going to take it apart and you are going to be worse for a season.*"
+
+He wound the wrap back on.
+
+"And you said?"
+
+"I said all right." Brom looked out at the water. "In my whole life nobody's ever said to me, *I'll make you worse.* They've all promised the other thing, and wanted it by the next bout. Wray too, a bit, though she'd never have said so." He flexed his wrist inside the cloth. "He's the first one who's ever told me the price ahead of time and asked me to pay it anyway."
+
+"I've got the sixth day charted," said Cael. "One exchange, from his first step to the touch. Three sales and a delivery. If you want it—"
+
+"No."
+
+Cael looked at him.
+
+"Not because I don't want it." Brom said it slowly, choosing each word as if it might bear weight. "Because I do. If you show me, I'll learn your answer to him, and I'll use it, and it'll work for a week. Then he'll see it, the way they all see everything, and I'll be back on the floor with my old turn and your patch over the top of it." He looked down at his wrist. "Rooke didn't say he'd patch it. He said he'd take it apart. I want to find out what's under it."
+
+"That could take the whole season."
+
+"He said so." Brom smiled faintly at the river. "He said I'd be worse for a season. I didn't think he meant it as a figure of speech." He straightened up off the coping, and stretched, and his shoulder cracked loudly in the dusk. "Keep your page, though. In a year I'd like to read it and see how stupid I looked."
+
+"You didn't look stupid."
+
+"I looked like a big man turning round on the spot for nothing." Brom was grinning now. "Forty-three times. You've got it in groups of five. Don't pretend you haven't."
+
+Cael did not answer at once.
+
+He was thinking of Wray on the last morning, standing on her stone with her slate under her arm. *Find somebody there who'll break your count on the third pass.* He had been on the bluff a month, and he had watched every hall and walked every corridor and filled a section of the notebook, and nobody on this hill had broken his count on any pass at all, because nobody on this hill was teaching him anything. They were measuring him. That was a different thing, and he had not until now let himself notice how different.
+
+He looked at Brom's wrapped wrist on the coping, at the ink he could no longer see, and was surprised by how sharply he envied it.
+
+*Brom has a man who'll make him worse on purpose and tell him so in advance,* he wrote that night. *I have a provision, a panel, and a man with instruments. Nobody here is going to make me worse for a season so I can be better after it. That's mine to do, if it's done.*
+
+*Write that down before it turns into self-pity. It isn't, yet.*
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-09.md
+
+# Chapter 9 — The Queue
+
+Lira put her name on the ladder on the twelfth of the month, two days inside the deadline, at the registrar's table on the rim of the Crown yard, and before she did it she read out every other name on the list to Cael from memory.
+
+She did not look at the page while she did it. She stood at the table with her hands behind her back and went down the list in the order the names had gone onto it, with a line for each: which hall, which Path, how they had walked up to the table and how they had walked away. Two hundred and nine Copper practitioners on the bluff, and something over sixty had signed by then, and she had been on the rim or in the tiers for every one of them.
+
+"Third on the list. Stone, fourth-year. Came up the steps like he was going to argue with somebody and then didn't." She did not pause. "Fourth. Current, second-year, a girl. Signed with her left hand and then wished she hadn't. Fifth—"
+
+"You watched all of them," said Cael.
+
+"I said I would." Lira did not look round. "Every name before mine is somebody I saw choose to be counted. Now I know who's on the board and how they feel about it." She reached the end and stopped. "Sixty-four. And me."
+
+The clerk at the registrar's table was a stooped young man with ink on both thumbs who had clearly been listening to all of it with growing alarm. He turned the book round for her.
+
+"Transfer," he said, reading off the sheet clipped beside it. "Wind Path. Copper, Rank Two, formal. Re-certification." He looked up. "You understand how the seeding goes."
+
+"Tell me anyway."
+
+He told her. It took him a minute and a half, and he told it in the voice of a man who had told it a good many times and expected to be argued with at the end. Until the brackets posted, near the middle of term, the yard ran practice hours on its open floors, with a faculty member at this table and every result written into the practice register, which lay beside the ladder book in black boards and could be read by anybody. But when the brackets were drawn, they were seeded from last season's closing order. A practitioner who had fought last season started from wherever last season had left them. A practitioner who had not, started at the foot.
+
+"And a transfer," said the clerk, "hasn't fought last season. Not here. So a transferred file seeds low, whatever its record says from elsewhere. It isn't personal. It's the order of the book."
+
+"And if I'd signed on the first day?"
+
+"Then you'd have started at the foot on the first day." He looked faintly puzzled. "It's the same foot."
+
+"Good," said Lira. "Then I've lost nothing by watching."
+
+She signed, in her quick slanting hand, in the sixty-fifth line, and blotted it herself before the clerk could reach for the sand.
+
+Then she asked to see last season's closing order, and the clerk, who had plainly decided by now that she was the most alarming person he would meet that week, brought it out from under the table without argument.
+
+Cael watched her read it. She went down the Copper column slowly, lips moving, and he knew what she was doing because he was doing it himself beside her. Last season's order stood at the top of the column; the new names would be added beneath it in the order of the book; the bottom was the sixty-fifth line, and the sixty-fifth line was hers. Between a session's paired bouts a practitioner could call out anybody above her in her own column, four names up and no further, and if she won, the place was hers and everybody she had passed slipped down one. Four rungs at a time, then, on a ladder of better than two hundred. Fewer than that, once the column settled, because a great many of the names below the seeded few would never climb at all. But even if she won every challenge she was allowed, in every window the board marked in red, she would need most of the season simply to arrive among the people she meant to beat.
+
+"Sixteen," said Lira, under her breath. "If I win every one. If they let me call out every window." She handed the book back. "Thank you."
+
+They walked back round the rim together, under the empty tiers.
+
+"You could have signed a week ago," said Cael. "Same foot, same sixteen."
+
+"I could." Lira kept her eyes on the floor of the yard, where the porter was chalking rings for the afternoon. "But a week ago I was a name in a book that nobody had looked at. Now I've looked at all of them." She glanced at him, and there was something in it he had not seen since the bridge, a hard bright humour. "They wrote me down by a number before they ever saw me. I wanted to be quite sure I'd seen every one of them first."
+
+---
+
+She fought her first practice bout the next afternoon, and Cael was on the third tier to see it.
+
+The Crown yard ran differently on practice afternoons. The sunk floor was divided by chalk into three rings, and a faculty member sat at the registrar's table with the practice register open in front of him, and anybody on the ladder could put their name on a slate at the table's end and be paired with the next name of their bracket that was waiting. Bouts were short: three exchanges, each to a clean touch or called even, the supervising instructor's word final. The tiers were never more than a quarter full. But they were never empty, either, and Cael had noticed in his first week that the same faces came back every afternoon, sitting in the same places, with notebooks.
+
+Lira was paired with a Stone Path fourth-year, Copper Rank Six, broad through the hips and thick through the neck. Cael had seen him fight twice. He fought the way Stone practitioners were taught to fight on every floor Cael had ever stood on: he stood his ground, and when a strike came he let the Path set his feet into the floor so that for a breath nothing in the world could move him, and then he struck back off that anchor with his whole weight behind it.
+
+It was a good way to fight. Against anybody who came straight at him, it was very nearly unanswerable.
+
+Lira came straight at him.
+
+She came fast and low with the Wind at her heels and her weight forward, exactly as she had come at Cael on cracked stone behind the residence wing all winter, and the Stone fourth-year set his feet. Cael felt it from the third tier as a kind of change in the air of the floor, like a door shutting somewhere in a big house. The anchor took. Lira hit the space in front of it, and his answering strike came off the planted feet with his shoulders behind it, and it took her on the upper arm and turned her half round.
+
+"Touch," said the instructor at the table, without looking up from the register. "Stone. One."
+
+There was a small stir on the tiers. Somebody near Cael said, not quietly, "That's the transfer?"
+
+Lira went back to her chalk and stood a moment rubbing her arm, and Cael saw her eyes go to the Stone fourth-year's feet and stay there.
+
+She came at him again, just as fast and straight. He set his feet again. But this time, a stride out, she put her lead foot down short, a half-step that went nowhere, and the Wind did not carry her forward from it but sideways, low and quick along the chalk. The anchor had already taken. The Stone fourth-year was planted, with all the weight of the world in his heels and his strike gathering. Lira was not in front of him anymore. She was at his shoulder, and her flat hand was on the back of it, and he had not been able to turn because the Path that would have held him against anything had also held him still.
+
+"Touch. Wind. One each."
+
+He was quick to learn. Cael gave him that. On the third exchange he did not anchor at all; he met her coming in with his feet free and his hands up, and tried to fight her as an ordinary large man fights a small fast one. It was the right answer to what she had just done. It was the wrong answer to Lira, who had spent two years on the Ardenmere circuit being chased by large men with free feet and had never once been caught by one. She went past him on the left without a touch, so close her sleeve brushed his, and came back round behind him and touched him between the shoulder blades on the way through.
+
+"Wind, two to one."
+
+On the fourth he anchored again, because there was nothing else he trusted, and she gave him the short step and went sideways, and he had seen that and turned his head to follow it, and she was not sideways. She had stopped. She stood in front of him, a pace off, perfectly still, while the anchor held him and his strike gathered and found nothing to go into, and when it let go she stepped in and touched him on the breastbone.
+
+"Wind. Bout, three to one."
+
+The Stone fourth-year stood a moment. Then he laughed, short and surprised, and put out his hand, and Lira shook it. Cael saw her say something to him he could not hear. The fourth-year nodded slowly and said something back.
+
+At the table the instructor dipped his pen and wrote the line in the practice register, and Cael went down afterward to read it. *Lira, Wind, Copper Two (transfer), over* — the fourth-year's name — *Stone, Copper Six. Three to one. Practice.* In the margin, in the same hand, a small mark like a tick.
+
+"What did you say to him?" Cael asked her, on the steps.
+
+"That his anchor's good." Lira was flexing her arm. "It is. He just tells you when he's going to use it. His shoulders go first." She glanced up at the tiers, where the notebooks were already being put away. "He'll fix it. He'll be harder in a month."
+
+"You told him how to beat you."
+
+"I told him how he lost." She went on up the steps. "If he can't work out the difference, he wasn't going to beat me anyway."
+
+---
+
+Inside ten days she had fought nine and won nine, and the practice register had every one of them written down in black ink, and the seeding had not moved by a line.
+
+Cael checked. He had made himself check, every three days, because a thing he believed without checking was a thing he was going to be wrong about one day in public. The ladder book showed the Copper column in last season's order, with the new names at the foot in the order they had signed, and Lira's was the sixty-fifth of sixty-five. Nine practice wins sat in the register a hand's width to the left, and the two books did not speak to each other at all.
+
+The porter, sweeping the tiers one evening, had stopped beside him at the rail and looked at the register over his shoulder for some time.
+
+"Nine," said the porter, to the steps. "That's not usual."
+
+It was the only comment anybody official made.
+
+Not everybody was silent, though. The notebooks on the tiers had found her by the third bout. Cael counted them as he counted everything: four faces at first, then seven, then nine, the same people in the same places on the second and third tiers, writing when Lira walked out to her chalk and writing harder when she walked back. Some were Copper practitioners studying a name that would one day be in front of them. Two, he was nearly sure, were Iron, and had no reason on the ladder to care about a Copper transfer at all, except that they could see her as clearly as he could.
+
+Lira had seen them too. She said nothing about them. But from the fourth bout on she never opened the same way twice. She came straight, and then she came wide, and then she came so slowly that her opponent went out to meet her and found her already somewhere else. In the sixth bout she did not move off her chalk for the whole of the first exchange and let a Current second-year come all the way to her, which Cael had never in three years seen her do, and won it on the counter. The notebooks wrote it all down. By the ninth they had nine bouts of Lira and, as far as Cael could tell, not one thing they could use, because she had given them nine different fighters.
+
+"You're spending a lot," he said once, on the steps. "Showing them nine ways."
+
+"I've got more than nine." She did not slow down. "And they'll only have seen each one once."
+
+Lira read the books every evening. She had stopped saying anything about them after the first week, which Cael thought was worse, and she would stand at the board on the rim with her arms folded and her face set, and then walk away. On the thirty-fourth evening she did not walk away. She stood there long enough for him to come up beside her.
+
+"Three a year," she said.
+
+He waited.
+
+"That's what the woman at intake said, more or less. Three flags sent on and three answered since the spring before last. So that's how fast it goes." She did not look at him. "Three a year. I can count. I'm in a queue that moves three a year, and I don't know where in it I'm standing."
+
+"Three from her desk," said Cael. "In two years. That's one clerk's share. That's not the throughput of the queue."
+
+"And how many does the whole queue move?"
+
+"I don't know."
+
+"That's not a comfort, it's a correction."
+
+"I didn't say it to comfort you."
+
+"I know you didn't." She breathed out, long and slow, through her nose. "Go on making them. Corrections I can use. I'd only like it known that I can tell the two apart."
+
+Her eyes stayed on the sixty-fifth line.
+
+"The bracket's not the trouble," she said at last. "I'll win the bracket. That's no boast. Nine bouts in, I've seen what the column's got, and there's nothing in it I can't answer." She unfolded her arms and laid one finger on the board, on her own name. "What I lie awake over is that it won't count. Win the whole column and you're still in the column. The only way out is an Arbiter writing a new tier on my paper. My paper tells the ladder where to put me. The ladder never writes a word back to my paper."
+
+Cael thought about it. He thought about the short board on the end, the one headed Silver, where the school had run out of people to divide and had put everybody left into one column and given it the name of the top.
+
+"It goes one way," he said. "Certificate to bracket. Nothing comes back up."
+
+"Nothing comes back up." Lira took her finger off the board. "So it's a machine that takes things in and never gives anything out. What's the point of a thing like that?"
+
+No answer came to him. That night the question went into the notebook on a clean page of its own, with two lines ruled under it, and he left the rest of the page empty, because he did not want to fill it with something clever that was not true.
+
+---
+
+He was on the rim for every practice afternoon by then, which was how he saw Fiske fight, and how he was at the board four days later when Fiske met Lira.
+
+Fiske had been the name at the top of the Copper column for two years, and the name on the Copper Crown's newest brass for the same two. Cael had placed her before he ever saw her: Force Path, Copper Rank Eight, twenty years old, a fifth-year who had come up through Halcenvane's own halls. He had expected somebody large. She was not large. She was a little taller than Lira and a good deal more solid, with heavy shoulders and short brown hair pinned flat, and she came onto the floor the way a carpenter comes into a room where she is going to hang a door, looking at the frame first.
+
+She took eleven minutes over a Copper Rank Four, a Force practitioner like herself, and Cael filled two pages and could have filled four.
+
+The Rank Four came out hard, as Cael had seen half the Copper board come out against her in the register's history, gathering his force early and throwing it at her to have it done before she settled. For the first minute she gave ground. She was not graceful about it. She stepped back badly twice, once nearly off her chalk, and a murmur went along the rim; Cael saw the Rank Four's shoulders lift, a man who has just begun to believe something. Then, at about the minute and a half, Fiske stopped giving ground. She did not seem to do anything in particular. She set herself a little off his line, and when he gathered and came, the force he met was not in front of him at all but beside his leading foot, a short flat push into the floor where his foot was about to land. He landed on it. It was like stepping onto a stair that had been moved. He stumbled half a pace, and she was already there with her hand on his collarbone.
+
+She did it twice more in the next nine minutes. Each time she let him come, and each time the force she spent went not into him but into the place he was about to be, and each time he found himself off balance with no idea why and her hand already resting on him. By the end he had stopped gathering at all. He was simply moving and watching his own feet, like a man crossing ice.
+
+*Fiske. Force Path. I've charted Force on five floors and none of them used it like this. Everybody else builds force and delivers it: gather, commit, strike. Fiske doesn't strike with it. She puts it somewhere. Three uses of the Path in eleven minutes, the fewest I've charted on these rings, and every one of them went into the floor in front of his next step instead of into him. She's not stronger than the people she beats. She's earlier. She sees where they're going and closes the door before they get there.*
+
+*Price: she has to see first. For the first minute and a half she's collecting, and she opens badly, twice today, because she hadn't finished reading him. Somebody she's never seen could take her early.*
+
+*After that, in this bracket, I don't think anybody can. And everybody in this bracket knows it, which is why they all open against her like people who've already lost.*
+
+*Two years of defending against everything the Copper column could send. She's fought every answer it has. There aren't any left.*
+
+When it was over she climbed out of the sunk floor by the north steps with a towel round her neck, and found Lira at the boards, and stopped.
+
+There were perhaps thirty people on the rim. Every one of them found something else to look at, very carefully, and every one of them went on looking.
+
+"You're the transfer with the flag," said Fiske.
+
+"And you've held it two years."
+
+That was the whole of it.
+
+But Fiske did not move on at once. She stood with the towel on her shoulder and looked at Lira for perhaps two breaths longer than the words needed. Cael was running the whole gaze on her, every layer, and he caught most of what went across her face, and he was most of the afternoon finding a name for it. It was the face of somebody who has been carrying a private diagnosis for a long time, alone, and has just seen the same thing written on a stranger.
+
+Fiske went off to the water butt. Lira turned back to her own line. All round the rim, thirty people discovered their own business again with great suddenness.
+
+Lira did not look after her. But on the walk back to the quadrangle she asked Cael, without turning her head, how long Fiske had spent collecting.
+
+"About a minute and a half," said Cael. "Both times she opened badly, it was inside the first minute and a half."
+
+Lira nodded, and said nothing else. Cael wrote it down that night on two pages, Fiske's and Lira's, with the same date, and drew a small line from one to the other in the margin. He did not know yet what the line meant, and he was not going to guess.
+
+---
+
+For a week Lira let it lie. When it came out at last it came out sideways, with no warning at all, in the wash-house behind the second quadrangle, over a quarrel about laundry.
+
+The wash-house was a low stone room with a copper boiler in one corner and a stone trough along the wall and a drying rack overhead hung with everybody's shirts. Brom had put his new wraps into the copper with Karis's two good shirts, unaware that the wraps were dyed, and Karis's shirts had come out the colour of weak tea. Karis was holding one up to the window and explaining to Brom, very calmly, exactly how many days she had owned it. Brom was apologising in a way that made it plain he thought the shirt looked better. Cael was sitting on the end of the trough with the observation notebook, enjoying all of it more than he would ever admit.
+
+"The woman at the outfitter's never said they'd run," said Brom.
+
+"Did you ask her?"
+
+"No. You don't ask a woman whether her cloth runs. It's like asking a carter whether his horse kicks." Brom looked at the shirt with real sorrow. "She'd have been offended."
+
+"So instead you offended my shirt." Karis turned it round to see the back, which was worse. "Both of them. I brought exactly two good shirts four days down the road from Greyvane, Brom, because I knew there'd be a library committee and I wanted to look like somebody who could be trusted with a key."
+
+"You've got the key."
+
+"I've got the key because I argued for it in a grey shirt. I don't know what they'd have done if I'd come in this." She held it out at arm's length. "They'd have thought I'd been sleeping in the stacks."
+
+
+exec
+/bin/zsh -lc "sed -n '1,250p' editions/monroe-1.3/book-04-copper-crown/state/movement-002/review-editorial-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+7 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-08.md
+
+# Chapter 8 — The Wall Has Students
+
+He woke on the twenty-second morning with the sentence already in his mouth, as if he had been saying it in his sleep.
+
+*Gault writes it once.*
+
+The notice lay on the desk where he had left it, folded on its crease, and he did not unfold it. He knew what it said. Somewhere inside the next month, on a day he did not choose, a man he had never met would watch him in a room full of instruments and write down what he saw, and every half-year after that somebody would lay the new figures beside the old and look for the difference. It was the only paper he would ever sign that could not be amended, Karis had said, and she had been right, and he had lain awake a good part of the night turning that over without getting anywhere at all.
+
+He went down to breakfast meaning to think about it properly, and Brom spoke first.
+
+"Fourth bell," said Brom, into his porridge. "East hall. There's a gallery. Come and sit in it."
+
+The other three stopped eating.
+
+It was the first thing Brom had said about the east hall in twelve days. He had gone there every afternoon since the ninth with his new wraps rolled under his arm, and come back every evening with no bruise, no ice and no story. He had simply closed a door on that part of his day and sat with his back against it, cheerful about everything else. Lira had asked twice and stopped. Karis had not asked at all, which for Karis was a feat of strength.
+
+"What's at the fourth bell?" said Cael.
+
+"Me." Brom put his spoon down. "On the floor. First time."
+
+"You've been going for twelve days."
+
+"I've been sitting for twelve days." Brom looked at the table between his hands, half embarrassed and half something else. "He puts everybody new on the bench along the back wall. You don't run anything. You don't touch anybody. You watch the cohort for the whole hour, and at the end he asks you one question about what you saw, and if he doesn't like your answer you come back tomorrow and watch again." He turned his cup round once. "He says he won't put a man on his floor until he can see him watching. Yesterday I gave him an answer he liked."
+
+"What was the question?" said Karis.
+
+"Which of them was tired." Brom picked his spoon up. "I said the tall one, because he'd started setting his feet before he moved instead of while. He said yes. Then he said fourth bell." He took a mouthful and spoke round it. "I didn't want to talk about the bench. It sounded like I'd been put in a corner. But I hadn't. I don't know what I'd been put in. I learned more in twelve days of sitting than I did in my first year at the Ironyard."
+
+Lira was looking at him with an expression Cael could not read at all.
+
+"We'll all come," she said.
+
+"No." Brom said it gently. "Cael. He'll write it down properly, and I'll want it written down." He glanced at Lira. "You can see the bruises after."
+
+The east hall's gallery ran along its north wall at the height of a man's head, a narrow timber walk with a rail and a bench, reached by a stair so steep it was nearly a ladder. Cael climbed it a little before the fourth bell and sat at the far end, where he could see the whole floor without leaning.
+
+From above, the floor looked like a pale lake. The boards ran the long way of the hall, oak, close-laid and polished by feet to a dull shine, and when the cohort came in and began to warm up he could feel it through the bench: a faint give, a faint return, as if the whole hall were breathing very slowly under them. He had written that down on his first morning on the bluff without knowing why it mattered. He wrote it again now, beside the date, with a line under it.
+
+There were fourteen in Rooke's cohort, and Rooke himself stood at the west end of the floor and did nothing.
+
+Cael had watched him once before, for nine minutes, through a door. From above it was clearer. Rooke was narrow and grey and past fifty, in a plain dark coat with the sleeves turned back once, and he stood with his weight settled evenly over both feet and his hands loose at his sides, and he did not move unless moving bought him something. When he wanted a pair to stop he said one word. When he wanted them to start again he said another. In the whole first quarter of an hour he said perhaps thirty words, and every one of them changed something on the floor.
+
+Brom came in last, in his wraps, and Rooke pointed at the middle of the boards without looking at him.
+
+Four of the cohort came out to meet him.
+
+They did not come all at once. They came in turn, a short exchange each, then the next, and Cael understood within three turns that it had been arranged that way so that Brom would meet four different problems before he had finished solving the first. The first was a small quick girl who laughed when she was hit and was very seldom hit. The second was tall and loose and never came at him the same way twice. The third did almost nothing; she stood off at the edge of his reach and waited, and waited, and when Brom finally moved she was already somewhere else. The fourth was older than the others, seventeen or eighteen, with his weight carried forward on the balls of his feet even when he was standing still, and he did not look at Brom until the instant before he moved, and then he looked at nothing else.
+
+Ephram, Cael wrote. He knew the name from the Iron board, where it sat at the top of the column in last season's fading chalk. *Blade. Iron Rank Six. Watches like he's paying for it.*
+
+Then he stopped writing, because the floor had begun to go too fast for the pen.
+
+---
+
+Brom had been the hardest problem in every hall Cael had ever seen him in.
+
+At the Ironyard, men twice his age had come off the boards shaking their hands out and laughing ruefully, because hitting Brom was like hitting a door that hit back. At Greyvane he had gone through the defensive cohort in a term, and Wray had needed her own two hands to find the one place in him that gave. He was big and he was patient. Iron Skin made the surface of him dense at the instant of contact, so that a strike landed on something more like stone than flesh, and then he did the thing he had built for himself in the years before anybody taught him anything. He let the strike commit, all the way, and only then took it and turned it, so that the force went on past him into nothing, and the striker went with it.
+
+The quick girl touched him on the shoulder before he had finished setting his feet.
+
+Rooke said, "Again."
+
+She touched him again, on the other shoulder, and laughed, and went back to the wall, and the tall one came out. He feinted high and went low and touched Brom on the hip, and then on the next exchange feinted low and went low anyway and touched him in the same place, and Cael saw Brom's face change: not hurt, but puzzled, like a man who has opened a familiar door and found a different room. The third girl stood off and waited, and Brom waited too, for a while, and then moved, because he was not built to wait forever, and she touched him on the wrist as he came. Then Ephram came out, and touched him three times in an exchange so short Cael counted it on the bench afterward by the rise and fall of his own breath and made it four breaths.
+
+Brom tried things. That was the part Cael would remember longest, more than the touches. He did not stand and suffer it. On the quick girl's third turn he dropped his weight early, before she came, so that she would arrive on a man already set, and she simply waited until his legs got tired of being set and came then. Against the tall one he stopped watching the feint and watched the hips, which was what Cael would have told him to do, and for two exchanges it worked; then the tall one began to feint with his hips as well. Against the waiting girl he tried waiting longer than she did, and found that she had been taught to wait by somebody far more patient than anybody who had ever taught Brom anything. Each idea bought him one exchange, sometimes two. Then the person in front of him had seen it, and it was spent.
+
+None of them ever explained. They did not need to. Each correction they made to him was written on his body in the one language every fighter on the floor could read, and he read it, and stored it, and was touched again.
+
+None of the touches were hard. None of them needed to be. Iron Skin would have taken a great deal more than any of them carried, and Brom stood under them like a wall under rain. But every one of them was clean, which was the whole point of them, and every one arrived somewhere Brom had not finished arriving at, and on a scored floor each of them would have gone up on the board.
+
+He could see Brom counting. His lips moved after each touch.
+
+Somewhere around the twentieth minute the lips stopped moving.
+
+Cael wrote that down, because he knew exactly what it meant. Brom had counted everything for as long as Cael had known him: tallies in the pocket book, days of the clause, coppers on toll ledges. He had stopped counting because the count had begun to take some of the attention he needed for the next touch, and he had chosen the next touch. Cael did not think he had ever seen Brom choose anything over a count.
+
+By the end of the hour Cael's own tally, kept in the margin in groups of five, stood at forty-three. Brom had touched somebody back perhaps six times, all of them against the tall one, and all of them the same way, and the tall one had stopped letting him after the sixth.
+
+What struck Cael, sitting above it with the pen going slack in his fingers, was how little luck there was anywhere on the floor. At the Ironyard and at Greyvane a fair share of every bout had been accident: a slip, a guess, a strike thrown at the wrong place that happened to find somebody standing in it. Here there was none of that. Four people had taken turns on Brom for an hour, each of them doing precisely what they had meant to do at a speed Brom had never in his life been asked to answer, and the forty-three marks in the margin were not forty-three pieces of luck but forty-three small arguments, each of them won.
+
+Rooke said, "Enough," and the cohort went to the walls for water.
+
+Then he walked across the floor to Brom and said something Cael could not hear. Brom listened with his head down. He nodded once, and then again, and then he did a thing Cael had never once seen him do with an instructor: he asked a question back. Rooke answered it in two words. Brom went to the wall.
+
+Up on the gallery Cael found he had been holding his breath, and let it go, and closed the notebook on the forty-three.
+
+---
+
+Brom came into the second-quadrangle common room at the fifth bell, walked past every chair in it, and sat down on the floor with his back against the wall under the window.
+
+He did not say anything. Lira looked up from the table where she had been not filling in a ladder form for most of the afternoon, and looked at Cael, and Cael shook his head very slightly. Karis put her pen down. The room's other occupants, two Iron girls arguing about a lecture, went on arguing about it. Brom sat with his hands on his knees and his eyes shut and his breathing slow and even, and the clock on the mantel ticked through most of a minute and a half.
+
+Then he got up, without a word, went to the cold-store at the end of the passage, came back with an ice wrap, sat down again on the floor, and laid it across his left shoulder.
+
+Nobody had told him to. In three years Cael had never once seen Brom fetch ice for himself without being nagged, and it said more than the tallies in the margin.
+
+"Well?" said Lira.
+
+"Forty-three," said Cael.
+
+"He was counting?"
+
+"I was counting. He stopped at about twenty." Cael sat on the arm of a chair. "Four of them, in turns. Nothing hard. Nothing lucky either."
+
+Brom opened his eyes.
+
+"Was it forty-three?" Brom sounded interested, as if it were somebody else's figure. "I lost the count. The whole of last year, the Ironyard and Greyvane together, I don't believe anybody got through to me forty-three times." He shifted the ice. "And not one of them was trying to hurt me. That's the part I keep coming back to. Not one of them was trying to hurt me. They were all just right. Over and over again."
+
+"You're Iron-equivalent," said Lira. She said it a little sharply, the way she said things she was going to defend. "Two years of circuit ratings. Greyvane's defensive cohort in a term."
+
+"Against the Ironyard. Against Greyvane." Brom let the back of his skull rest on the plaster. "Wray told me there was a wall in me. She found it with her own hands and said nobody at Greyvane was fast enough to show me where it went. I've been feeling for it for a year and a half like a man feeling for a door in the dark." He was quiet a moment. Then something came into his face, slowly, from somewhere underneath, and Cael realized with a small shock what it was. It was not distress. It was the purest happiness he had seen on Brom since the bridge at Ostrand.
+
+"I found the wall. It has students."
+
+Karis laughed out loud, and put her hand over her mouth, and laughed again behind it.
+
+"You're pleased," said Lira, disbelieving.
+
+"I'm *delighted*." Brom meant every syllable. "Wray found one thing in me with her hands, once, and it took her a term. This afternoon four of them found a dozen before the bell. Two years I've been the wall everybody else breaks on. You can't grumble about that out loud. People think you're showing off. But it's like being the one grown man at a children's game. Nobody learns anything, and you least of all." He pressed the ice down. "This afternoon I was the one problem in the hall that everybody else already had the answer to, and they gave me the answer, one at a time, and they were kind about it. I don't think I've ever had a better afternoon in my life."
+
+Karis had her notebook out by then, because she could not help it.
+
+"What kind of touches?" she said. "Strikes, or placements?"
+
+"Placements, mostly. A hand on you where a strike would have gone, so you'd know." Brom considered. "The little one hits a bit. She can't help it. She's so pleased to get in that she forgets to stop her hand."
+
+"And you got none of them back."
+
+"Six," said Cael. "The tall one, six times, the same way. Then he stopped letting him."
+
+"Six," said Brom, with enormous satisfaction, as if it had been sixty.
+
+Lira had not gone back to her form. She was sitting very still at the table with the pen in her fingers, looking at Brom on the floor with his ice and his shut eyes and his wide unguarded smile, and after a moment Cael understood what was in her face, because he had seen it there before, on roads, in the dark, when she thought nobody was watching.
+
+"Four people," she said quietly, "looked at you properly for an hour."
+
+Brom opened one eye.
+
+"Yes," he said. "They did."
+
+Lira looked down at the ladder form in front of her, which was four lines long and had been blank since noon. She did not pick it up. She did not say anything else. But she did not look away from it either, and Cael put that in the notebook later, on Lira's page, with the date and nothing else beside it.
+
+"What did Rooke say to you?" said Cael. "At the end."
+
+"He said, 'You were counting.'" Brom smiled at the ceiling. "I said I'd stopped. He said, 'I know. Why?' I said because I needed the room. And he said, 'Good. Tomorrow.'"
+
+"And you asked him something."
+
+"I asked him who'd find it first." Brom closed his eyes again. "The place Wray found. I asked which of them would find it. He said, 'Ephram. Three sessions.'"
+
+---
+
+It took Ephram three sessions, to the day, and Cael was on the gallery for all of them, and for the fortnight that came after.
+
+By then Cael had a page for Ephram and was filling a second. He had placed him on the Iron board the first afternoon and checked him against the registrar's table on the second: Blade Path, Iron-tier, Rank Six, at the top of the Iron column, which at Halcenvane was the same as saying he was the best competitor on the bluff. There were fourteen Silver students on the hill and a Gold-tier fellow, and none of them was talked about the way Ephram was talked about, because none of them was on a column anybody could read from the yard. Here, *best* meant a place on a wall.
+
+He did not attack the place Wray had found. Cael understood that on the fourth day, with his pen stopped over the page. He made it.
+
+Brom's turn needed a read. That was its nature and its strength: he let a strike commit, all the way, so that he knew precisely where its weight was going, and only then took it. But a read needed something to read. So Ephram gave him something. He sold Brom a strike with three-quarters of his weight behind it, honestly, enough to set the read going, and then took it back before the turn could close. The cost of that to Ephram was a sliver of a beat, a little lost balance he recovered as he stepped. The cost to Brom was the whole gap, every time: the full stretch between the read and the turn, spent on a strike that had never arrived. And Ephram could do it again at once, and again, because a Blade practitioner could recommit almost for nothing, and an Iron Skin turn could not be begun and abandoned without paying for the beginning.
+
+*Speed alone wouldn't do it,* Cael wrote, on the fifth day. *There isn't enough daylight between them. So he's running a trade where each repetition costs him less than it costs Brom, and he's running it over and over until the account closes. It's the cleanest thing I've seen anybody do to anybody on a floor.*
+
+*Limit: it needs a big, patient man at the other end. Anybody quick would see the feeds for what they are and go round them. Against Brom there's almost nothing wrong with it.*
+
+*I think I could answer the trade. I'm not at all sure I could answer the man.*
+
+On the sixth day he tried to chart a single exchange from start to finish, stroke by stroke, the way he would have charted it for himself before a bout, and it took him a page and a half.
+
+Ephram came off the wall with his weight forward and stopped two paces out. He sold a strike at the left shoulder, hips turning, the back foot pushing honestly into the oak, and Brom's read took it; Cael saw Brom's shoulders begin to settle into the turn. Ephram was already gone from it. He had pulled the strike back into his own centre before it reached the halfway mark, and stepped a hand to the right, and sold another at the same shoulder from the new angle. Brom's read took that too, because it was honest weight again, and Brom was a man who believed honest weight. On the third sale Brom did not turn. He held, and held, and the strike did not come, and in the instant he let himself believe it would not come at all, it came: full, clean, a flat hand laid along his ribs on the side he had just stopped guarding.
+
+Three sales and a delivery. Perhaps four breaths. Ephram had spent a little balance three times and recovered it each time in the same step. Brom had spent the whole length of his gap three times over, and on the fourth time had nothing left in it.
+
+Brom tried, on the eighth day, simply not to read. He stood under the feeds with his weight dead and let them go by, which was the obvious answer, and Ephram watched him do it for one exchange and then stopped feeding and struck. A man who would not read could not turn, and a man who could not turn was only large. Brom took the touch, and nodded slowly, as if he had expected it, and went back to reading, because it was the only way he knew how to stand.
+
+Over the fortnight he watched it get worse instead of better, which he had not expected.
+
+In the first sessions Brom fell for perhaps half the false feeds. A few days later it was more than half. By the tenth day, Ephram had stopped bothering to sell them very hard, because he no longer needed to, and Brom was turning on strikes that were barely a quarter committed, with his weight going out to meet a force that had already gone home. Cael sat on the gallery and watched his friend's best thing being used against him, a little more each afternoon, by a boy of seventeen or eighteen who never once looked pleased about it.
+
+Rooke stood at the west end of the floor and let it happen. He did not stop it and did not correct it. Only once, on the ninth day, when Brom had turned on nothing three times in one exchange and stood afterward with his big hands open at his sides, did Rooke say anything at all, and then it was a single word, to Ephram.
+
+"Again."
+
+---
+
+Brom told it on the wall behind the second quadrangle on the thirtieth evening, with his forearms on the coping and the river going dark below, and he told it in three sentences that got shorter every time he came back to them.
+
+
