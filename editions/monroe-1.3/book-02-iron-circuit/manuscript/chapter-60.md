@@ -46,7 +46,7 @@ Then the carter shouted from the end of the row that the wagon would not wait fo
 
 Brom had been at the pump an hour, as Lira had said he would be. He was sitting on the edge of the trough with his bag between his boots and his breath going up white in the cold, and when he saw them he stood, and picked the bag up, and did not say anything at all, because nothing needed saying.
 
-The market did not make anything of them. That was the way of the place, and Cael had stopped expecting anything else from it; it did not do farewells, any more than Brom did, but it did something that he had come to like better. It took notice, in passing, at the size the knowing had earned, and then it went back to its work.
+The market did not make anything of them. That was the way of the place, and Cael had stopped expecting anything else from it; it did not do farewells, any more than Brom did, but it did something that he had come to like better. It noticed them as they went by, as much as it had come to know them and no more, and went back to its work.
 
 The pie woman put a pie in his hand as he passed her step and turned back to her shutters before he could thank her. Her boy with the black eye stopped sweeping and stared at the three of them with his mouth open until she cuffed him gently and he went back to it. The chestnut man on the corner had not yet lit his brazier, but he lifted one hand from his sack of chestnuts as they went by, and kept it lifted until they had passed.
 
@@ -68,7 +68,7 @@ Dace came across the market toward them with his hands in his coat. He walked as
 
 "Who is he?"
 
-"He asked me not to say," said Dace. "So I'll not." He held the note out until Cael took it. Then he put his hand back in his coat, and looked at the three of them, one after the other.
+"He asked me not to say," said Dace. "So I'll not." He held the note out until Cael took it. Then the hand went back into his coat, and his eyes went from one of them to the next.
 
 "The floor's yours," he said, "if you come back. Any of you. Any card." He turned to go, and turned back. "Don't come back for a while. Go and be somewhere else first. Then come back and tell me about it."
 

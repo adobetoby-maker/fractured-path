@@ -136,7 +136,7 @@ People came up to the rope and looked at him and went away again. Some of them s
 
 Lira sat beside him on the stone with her shoulder almost against his and did not talk. Brom stood. Brom watched the doors.
 
-"You looked at me," said Brom, to the doors. "In the third. Before you went."
+Brom spoke without turning from the doors. "You looked at me. In the third. Before you went."
 
 "I did."
 
@@ -172,7 +172,7 @@ He made himself sit up straighter against the post, though it cost him, because 
 
 "Watching what you do with a thing the first time you do it." She seemed to find nothing odd in saying so. "That's my work, all of it. I keep a drawer at Greyvane with eleven years of notes in it, about fighters on floors like this. Most of them showed me everything they had on the first night, and every night after that they showed me the same thing a little better. You've shown me something new every time I've come. Tonight you showed me more than I've written down in a year." She turned the closed book over once in her hand. "I'm not here because I was curious. Curiosity I can feed at home. I came down to make you an offer."
 
-She laid it out one thing at a time, each in its place.
+She set it out piece by piece, and put each piece where it belonged.
 
 Greyvane's charter held a provision, very old, which nobody there had ever had much use for. It had been written for children whose ability showed itself before any Arbiter had looked at them, so that the academy could take a child on what she could do and not wait on a paper that did not exist yet. It was called the demonstration-provision track. For as long as anybody remembered, it had been used for those children and for nobody else.
 
@@ -198,7 +198,7 @@ Quenna looked at her properly for the first time. It was long and unhurried, suc
 
 "Three, in eleven years. One stayed a season and went home to keep bees. There was nothing wrong with his fighting; he simply couldn't bear a bell telling him when to eat, and I ought to have seen that in him before I asked. Two stayed. One of those two teaches now." She looked back at Cael. "Two masters and an afternoon, every month, for every one of you. That's what you cost us. I've never yet thought it too much."
 
-Cael turned it over, looking for the catch. He could not find one. That told him more than anything she had said. A woman selling a dream would have rounded the numbers. She would have left out the man with the bees. She would not have leaned on *every month* so that he felt its weight before he picked it up.
+Cael went looking for the catch in it. He could not find one. That told him more than anything she had said. A woman selling a dream would have rounded the numbers. She would have left out the man with the bees. She would not have leaned on *every month* so that he felt its weight before he picked it up.
 
 "What about expelled practitioners?" said Lira.
 

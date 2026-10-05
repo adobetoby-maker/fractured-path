@@ -130,7 +130,7 @@ He sat there for some time with the pencil over it. It occurred to him, distantl
 
 He put the pencil down and went to the supervisor's shelf.
 
-The supervisor was at his desk by the window with the morning's returns, and did not look up when Havel stood beside him and asked for the back sections of the manual against a quarter's review. He only held out his hand for the review sheet, read the sixth box, and gave it back, and then pushed the loans book across the desk with one finger and went back to his returns.
+The supervisor was at his desk by the window with the morning's returns, and did not lift his head when Havel stood beside him and asked for the back sections of the manual against a quarter's review. He only held out his hand for the review sheet, read the sixth box, and gave it back, and then pushed the loans book across the desk with one finger and went back to his returns.
 
 Havel signed the loans book. *Manual, back sections, volumes two and three. Quarterly review, river side. H.* The date.
 

@@ -90,7 +90,7 @@ Cael stood up and went to a forearm's length from Brom, and set his feet, and le
 
 "May I?" he said.
 
-Brom looked at him for a moment with his big patient face.
+Brom looked at him for a moment.
 
 "You may," he said. "You've had my leave since the first morning, and you'll have it the whole fortnight. Ask anyway. I like being asked."
 
@@ -107,7 +107,6 @@ It was not like looking, and it never had been, which was why it was so hard to 
 "I wanted it."
 
 "I know you did. It doesn't like being wanted." Brom stood easy again. "Mine was the same, the first year. I'd want to know what a man was, and lean at him to find out, and get nothing. You knock and you let it come back to you. You don't go and fetch it." He breathed out. "Again."
-
 
 At twenty Brom stood back and shook his arms out, and Cael held his hand up to the light from the arch and counted.
 

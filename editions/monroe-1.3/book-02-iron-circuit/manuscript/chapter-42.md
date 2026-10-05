@@ -54,7 +54,6 @@ She listened with her hands still in the basin. When he had finished she took th
 
 "I didn't say it to be kind. I said it because he's had a season and you've had nine days." She went to the door with the bucket. "Go and write yourself down. I'll fetch the rest of the water. You'll only spill it."
 
-
 ---
 
 He did it properly that evening, at the crate desk, on a clean page at the back of the grey book, with the lamp turned up.

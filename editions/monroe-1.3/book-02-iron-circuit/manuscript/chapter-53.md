@@ -182,13 +182,13 @@ His sight went white round the rim. His knees held.
 
 Reydan went down.
 
-He did not go down like a thrown man. He went like a stack of grain sacks when the bottom one is pulled out, all at once and straight down and then over, onto his right side on the stone. His own burst had come back to him through the place on his right side where the first strike had already been. He was not out. Cael could see that he was not out, because at once, before the noise of his landing had finished, he began to get up. An elbow came under him. A knee drew up and slid back. The elbow went again, slower, and the body under it would not answer. His mind was perfectly clear; you could see it giving the orders. Then, quite deliberately, he laid his head down on the cold stone and stayed there, breathing.
+Nobody had thrown him. He went like a stack of grain sacks when the bottom one is pulled out, all at once and straight down and then over, onto his right side on the stone. His own burst had come back to him through the place on his right side where the first strike had already been. He was not out. Cael could see that he was not out, because at once, before the noise of his landing had finished, he began to get up. An elbow came under him. A knee drew up and slid back. The elbow went again, slower, and the body under it would not answer. His mind was perfectly clear; you could see it giving the orders. Then, quite deliberately, he laid his head down on the cold stone and stayed there, breathing.
 
 The Ironyard was silent.
 
 Six hundred people, and Cael could hear the stew pot ticking on its coals in the corner. He could hear a lamp on the beam above him spit once. Cael's knees were still locked. His right arm hung at his side like a rope off a post. Whatever had turned in his shoulder was gone, completely, and had left nothing behind it that he could take hold of and look at. He did not move. He was not sure what moving would show him.
 
-Vell's voice came across the stone as it had come across it every night for thirty years, the voice she used to read out a date.
+Vell read it out across the stone in the flat voice she kept for dates.
 
 "Iron-equivalent, Cael. Win. Method: forced incapacitation, fourth exchange."
 

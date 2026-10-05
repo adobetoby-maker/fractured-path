@@ -4,7 +4,7 @@ Ansel came to the arch on the morning of the eighth day, before Lira, with the f
 
 Cael was alone, working the drop against the straw post with his eyes half shut. He felt the light change at the arch and turned, and saw who it was, and stood still.
 
-"The dock man says you can't get anybody fast," said Ansel. He did not come in. "He says she's quick, your girl, but she's a Wind, and she knows you too well, and the big one's slow on purpose. He says you've had nobody in front of you all week who moves like a man who means to finish you." He looked at the straw post, not at Cael. "I've been lying awake since the stew. Six nights. I'd like to stop."
+"The dock man says you can't get anybody fast," said Ansel. He did not come in. "He says she's quick, your girl, but she's a Wind, and she knows you too well, and the big one's slow on purpose. He says you've had nobody in front of you all week who means to finish you." He looked at the straw post, not at Cael. "I've been lying awake since the stew. Six nights. I'd like to stop."
 
 "You said not to ask you again."
 

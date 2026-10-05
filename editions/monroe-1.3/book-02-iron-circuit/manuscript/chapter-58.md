@@ -94,7 +94,7 @@ Cael went on the hip.
 
 He went left and forward in the fan, half a body over, the oldest thing he had, and the heavy cut went through the place where he had been and pulled Ulric after it. In the lock, standing with his weight caught and his breath held for the two *ands*, Cael did nothing at all. He did not need to. He had only to stand there, at the one place on the floor where Ulric's next step, after a heavy cut that had found nothing, would have to go.
 
-Ulric took the step. He took it backward, to make room for the next. And the back of his calf met the rope, and his weight was going the wrong way, and there was nothing behind the rope but the north bench and the dock partner's knees.
+Ulric took the step, and it went backward, making room for another cut. And the back of his calf met the rope, and his weight was going the wrong way, and there was nothing behind the rope but the north bench and the dock partner's knees.
 
 He went over it. Not hard. He went over it the way a man sits down on a wall he did not know was there, and sat on the stone on the far side, with his blade still in his hand, looking up at Cael over the rope with an expression of absolute astonishment.
 
