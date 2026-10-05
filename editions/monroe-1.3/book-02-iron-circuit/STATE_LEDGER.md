@@ -792,3 +792,8 @@ Open threads now:
 - Lira's two confirming bouts (after Tuesday, not yet on the page).
 - The main season on Monday.
 - Plus every M3/M2/M1 thread: Vell's back cover; Coss's second empty page; Havel's note; *sustained*; the unasked right step; the concurrent use; the oldest books; Hesk's history; the Book 1 stranger.
+
+### Movement 4 — CLOSED (2026-10-05, after repair r1; Sol recheck: CLOSE, no line fixes)
+- Ch23–29, 36,457 words. Mean 13.63, ≥40w 4.3%, 866 w/scene; overlap 0 (7 protected); probe 1% / 12%; gates 0.
+- Verified: spoken "Shattered" follows the edition convention; no reserved disclosure in the ch29 comparison; the bout fails BY the M3 mechanics.
+- Authorship: claude-opus-5-5. Published to the PWA: Book 2 edition ch1–29, "in progress".
