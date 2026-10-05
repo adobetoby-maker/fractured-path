@@ -8,7 +8,7 @@ He had not touched it, either. That had been a rule of his own, made on the firs
 
 On the thirty-third morning he asked the porter, who was sitting on an upturned pail outside the wash-house cleaning the Copper Crown's case-key with a rag and some ash.
 
-"The low hall," said the porter, to the key in his hands. "That's hers."
+"Hers," the porter told the case-key in his hands. "The low hall's hers."
 
 "Whose?"
 
@@ -24,19 +24,19 @@ The porter looked up at him for perhaps the first time since Cael had come to th
 
 "Your what?"
 
-"Nothing." He had not meant to say it aloud. The porter was the third line on the standing list, and had no idea he was on it, and would have found it very odd to be told. "Thank you."
+"Nothing." It had come out without his leave. The porter was the third line on the standing list, and had no idea he was on it, and would have found it very odd to be told. "Thank you."
 
-The porter only grunted, and bent to the key again. He did not ask what the eight was. He had the incurious patience of a man who had carried every trunk on the bluff and had stopped wondering, years ago, what was in any of them.
+The porter grunted and went back to his rag without asking what an eight might be. He had the incurious patience of a man who had carried every trunk on the bluff and had stopped wondering, years ago, what was in any of them.
 
-Cael thought about it for the rest of the morning.
+It stayed with Cael all morning.
 
-He had watched the Lattice pupils four times, always from too far off: twice in the north hall, where two of them sometimes worked at the far end under a high window, and twice from the Crown yard's tiers, during practice afternoons, when a Lattice third-year had fought on the Copper rings. Each time he had come away with a page of notes he did not trust, because from forty yards Lattice looked like nothing at all. The practitioners moved very little. Their opponents moved a great deal, and then stopped moving, and stood looking puzzled, or stepped carefully to one side as if there were something in the way, and Cael could never see what. He had a page headed *Lattice* in the observation notebook with eleven lines under it, and every one of the eleven was a guess, and he had marked them all as guesses.
+He had watched the Lattice pupils four times, always from too far off: twice in the north hall, where two of them sometimes worked at the far end under a high window, and twice from the Crown yard's tiers, during practice afternoons, when a Lattice third-year had fought on the Copper rings. Every time he had come away with a page he did not trust; at forty yards, Lattice looked like nobody doing anything. The practitioners moved very little. Their opponents moved a great deal, and then stopped moving, and stood looking puzzled, or stepped carefully to one side as if there were something in the way, and Cael could never see what. He had a page headed *Lattice* in the observation notebook with eleven lines under it, and every one of the eleven was a guess, and he had marked them all as guesses.
 
-He did not want a twelfth guess. He wanted to stand next to one.
+He did not want a twelfth guess; he wanted to stand next to one.
 
 So at the change of bell after noon, when the halls emptied and filled again, he went down the path behind the assessment wing, took the key off the nail, and knocked.
 
-Nothing happened for long enough that he began to turn the key over in his fingers, wondering whether this was a refusal. He did not hang it back. The porter had not said how long to wait, and a rule that did not say how long usually meant longer than you thought.
+Nothing happened for long enough for him to begin turning the key over in his fingers, wondering whether this was a refusal. He did not hang it back. The porter had not said how long to wait, and a rule that did not say how long usually meant longer than you thought.
 
 Then the lock turned from the inside, and the door opened a hand's width, and an old woman looked out at him.
 
@@ -46,9 +46,9 @@ She was small and very upright, past sixty, in a grey wool dress with the sleeve
 
 "Hang it up," she said.
 
-He hung it on its nail. She opened the door the rest of the way.
+He hung it on its nail, and the door swung wide.
 
-The low hall was one room, low-ceilinged as its name, with its windows set very high along one wall so that the light came down in long slanting bars and lay across the floor in stripes. The floor was plain stone, swept bare. Two pupils were standing in the middle of it, a fifth-year girl with her hair in a tight knot and a younger boy, and both of them had stopped exactly where they were when the knock came, and had not moved since. Along the back wall a row of pegs held nine grey practice smocks, one for each student of the Path on the bluff, with a name stitched over each peg in blue thread. Below them the stone had been scored with fine straight lines, dozens of them, crossing and recrossing, like the marks a joiner leaves on a bench where he has measured the same cut a thousand times.
+The low hall was one room, low-ceilinged as its name, with its windows set very high along one wall, so the light came down in long slanting bars and lay across the floor in stripes. The floor was plain stone, swept bare. Two pupils were standing in the middle of it, a fifth-year girl with her hair in a tight knot and a younger boy, and both of them had stopped exactly where they were when the knock came, and had not moved since. Along the back wall a row of pegs held nine grey practice smocks, one for each student of the Path on the bluff, with a name stitched over each peg in blue thread. Below them the stone had been scored with fine straight lines, dozens of them, crossing and recrossing, like the marks a joiner leaves on a bench where he has measured the same cut a thousand times.
 
 The boy looked at Cael with open curiosity and then, catching the instructor's eye, looked hastily at the floor.
 
@@ -62,7 +62,7 @@ He had thought about how to answer that on the path down. He had thought about s
 
 "I read pressure," he said. "On the skin. A pace and a half out, I can feel where a weight is and which way it's going, a fraction before it gets there. It works on everything I've ever stood near." He kept his eyes on hers. "I've never stood near Lattice. I'd like to, while somebody builds, if you'll allow it. I want to know what I feel."
 
-She looked at him for a long moment without any expression at all.
+For a long moment her face gave him nothing whatever.
 
 "Why?"
 
@@ -78,15 +78,15 @@ She built slowly, as she had been told, and she counted under her breath while s
 
 "Three, and set."
 
-Her right foot slid forward a hand's width on the stone, and her right hand came down and closed at the height of her hip, and he knew without seeing it that the third line had joined the other two, because the air in the place in front of him had become, somehow, a place. He could not have said how he knew. There was nothing to see. But the space between her three closed hands, eighteen inches from his own forearm, was no longer only air, and he would have staked a great deal on its being something he could not walk through.
+Her right foot slid forward a hand's width on the stone, and her right hand came down and closed at the height of her hip, and he knew without seeing it that the third line had joined the other two, because the air in the place in front of him had become, somehow, a place. He had no account of how he knew it. There was nothing to see. But the space between her three closed hands, eighteen inches from his own forearm, was no longer only air, and he would have staked a great deal on its being something he could not walk through.
 
 The read gave him nothing.
 
-It did not give him a little. It was not thin, the way it went thin at the edge of its pace and a half, or uncertain, the way it went uncertain when two weights arrived at once and he had to choose between them. It gave him exactly what it gave him standing alone in an empty corridor at night. Quiet. The ordinary quiet of his own forearms with nothing near them.
+It did not give him a little; it was not thin, the way it went thin at the edge of its pace and a half, or uncertain, the way it went uncertain when two weights arrived at once and he had to choose between them. It gave him exactly what it gave him standing alone in an empty corridor at night. Quiet. The ordinary quiet of his own forearms with nothing near them.
 
 A thing had been built eighteen inches from his skin that could have shut off two of his ways out, and the instrument he had trusted for three years above his own eyes had not stirred.
 
-He stood very still on his place on the stone, as he had been told, and found that his mouth had gone dry. It was not fear of the frame. The frame was a lesson, built at quarter speed by a girl who did not care whether he lived or died, and it would go when she let it go. It was something colder and slower than fear, rising from underneath, the feeling of a man who has walked the same path in the dark every night for three years and has just been shown, by daylight, a well at the side of it that he never knew was there.
+He stood very still on his place on the stone, as he had been told, and found his mouth had gone dry. It was not fear of the frame. The frame was a lesson, built at quarter speed by a girl who did not care whether he lived or died, and it would go when she let it go. It was something colder and slower than fear, rising from underneath, the feeling of a man who has walked the same path in the dark every night for three years and has just been shown, by daylight, a well at the side of it that he never knew was there.
 
 ---
 
@@ -108,7 +108,7 @@ The girl pointed with her chin at a place between her two upper hands. Cael put 
 
 It stopped.
 
-There had been no warning. That was the thing. His finger was moving, and then it was not, and nothing had arrived on his skin before it stopped: no pressure building, no weight in the air, none of the early signs the read had always laid on him a fraction ahead of a strike. It was not like pushing against a wall, which pushed back. It was like reaching the end of a rule. His finger had simply been forbidden to go further, and was not going further, and that was all.
+There had been no warning, and that was the thing. His finger was moving, and then it was not, and nothing had arrived on his skin before it stopped: no pressure building, no weight in the air, none of the early signs the read had always laid on him a fraction ahead of a strike. It was not like pushing against a wall, which pushed back. It was more like a sentence arriving at its full stop. His finger had simply been forbidden to go further, and was not going further, and that was all.
 
 "You're listening for a push," said the Lattice instructor.
 
@@ -116,15 +116,15 @@ He looked round at her.
 
 "Every other Path on this bluff is a push of some kind. Force is a push. Blade is a push sharpened. Stone is a push that refuses to move." Her hands still hung quite motionless at her sides. "A frame doesn't push. It forbids. There is nothing moving in it for you to feel. You may as well listen for the weight of a law."
 
-He took his finger back. It tingled faintly, as if it had been somewhere it should not.
+He took his finger back; it tingled faintly, as if it had been somewhere it should not.
 
-He stood a while longer looking at the place where he knew the frame was, and then, because the read was still quiet and would go on being quiet, he did the only other thing he could think of. He turned the read off the frame and onto the girl.
+He stood a while longer looking at the place where he knew the frame was, and then, because the read was still quiet and would go on being quiet, he did the only other thing he could think of. He let the frame go and read the girl.
 
 "Again," he said. "Once more. Please."
 
 She built it again, and this time he felt it. Not the frame. *Her.* As she said *one, and set*, her weight went forward over her right foot by the width of a finger, and the read laid that on his forearm, small and clear. On *two*, it went a little back and left. On *three*, as her foot slid forward on the stone, it went forward again and down. Each time she set a point, her body paid for it with a small shift of balance, and her body was a weight like any other weight, and the read could feel a weight.
 
-"I can't feel the frame," he said slowly. "But I can feel her setting it. Each point, she moves. Not much."
+"Nothing from the frame," he said slowly. "But I can feel her setting it. Each point, she moves. Not much."
 
 The girl's face went faintly pink, which was the first thing it had done since he came in.
 
@@ -136,13 +136,13 @@ The girl's face went faintly pink, which was the first thing it had done since h
 
 He thanked her. She inclined her head about the width of a finger, which he gathered was a great deal, and turned back to her pupils before he had reached the door.
 
-Outside, the noon light was very bright after the striped dimness of the low hall. He hung the key on its nail and stood with his hand still on the leather loop, looking at it. A month he had walked past it. A month it had been hanging there, at the height of his shoulder, offering him the plainest piece of information on the whole bluff, and he had left it alone because he could not read the invitation. The invitation had been perfectly simple. *Stop. Knock. Wait.* He had been too careful to see it.
+Outside, the noon light was very bright after the striped dimness of the low hall. He hung the key on its nail and stood with his hand still on the leather loop, looking at it. A month he had walked past it, and a month it had been hanging there, at the height of his shoulder, offering him the plainest piece of information on the whole bluff, and he had left it alone because he could not read the invitation. The invitation had been perfectly simple. *Stop. Knock. Wait.* Caution had hidden it from him.
 
 Behind the door he heard the girl begin to count again, low and steady. *One, and set.* He went back up the path before he could hear the second.
 
 ---
 
-He wrote it that night at the desk by the window, and he put the frightening part first, so that he could not soften it by getting there slowly.
+He wrote it that night at the desk by the window, and he put the frightening part first, so he could not soften it by getting there slowly.
 
 *Low hall, thirty-third day. The read and Lattice: nothing. I don't mean faint. I mean the quiet I get alone on a stair at night, while a girl built, twice, a thing eighteen inches from my arm that could have pinned me where I stood.*
 
@@ -154,27 +154,27 @@ He pressed harder than he needed to on the next part.
 
 *When a tool breaks with a noise, you learn where its edges are and keep your hands off them. When it breaks without one, it isn't broken. It's lying, and it lies in the same calm voice it uses for the truth. I've leaned on this one in the dark, in crowds, with my back to doors, for three years. Today it went blind to an entire Path and stayed perfectly calm about it.*
 
-*Nine people on this bluff build frames. There are eleven more Paths on this hill I've never been within reach of. Some of them it can't see. I won't know which until I'm beside them, and perhaps not even then, unless somebody tells me something's there.*
+*Nine people on this bluff build frames. And this hill teaches eleven Paths I've never been close to. Some of them it can't see. I won't know which until I'm beside them, and perhaps not even then, unless somebody tells me something's there.*
 
 *From today: the surface read's silence is not information. Every quiet is an unknown. Every floor, every time.*
 
-He sat back and looked at that last line for a long time.
+That last line held him a long while after he had sat back.
 
 Then he did something he had done perhaps four times since Denvash, each time for a thing he could not afford to be without. He took out the observation notebook, opened it to the Halcenvane section, and wrote the rule out again, word for word, on its own page. Whichever book he had in his hand from now on, the rule would be in it.
 
 *Correction, to try again: read the builder, not the build. The frame gives nothing, but the person setting it is a weight. Each point costs them a small shift of balance. A pupil still pays it. A master doesn't. So this works against the young and the unfinished, and against nobody else, and it gets worse every year they train.*
 
-*Price of the correction: reading her body tells me where she set each point, roughly, and when. It doesn't tell me what the points make. Three points could be a wall, or a corner, or a door with one side open, and from her weight alone I can't tell which. So even against a pupil I'm reading the hands of a man who's writing, not the letter. Better than nothing. Much less than I'm used to.*
+*Price of the correction: reading her body tells me where she set each point, roughly, and when. What the points add up to, it can't say. Three points could be a wall, or a corner, or a door with one side open, and from her weight alone I can't tell which. So even against a pupil I'm reading the hands of a man who's writing, not the letter. Better than nothing. Much less than I'm used to.*
 
 *Two hidden things this month. The floor that was in my prices. The silence that was in my read. Both of them were in there all along, and I never looked, because I had no reason to think they were there.*
 
 *Go on looking for the third.*
 
-He did not sleep for some time after that.
+Sleep was a long time coming.
 
-He lay in the dark and went back, as he had not been able to stop himself going back, through every time in three years the read had been quiet and he had taken the quiet as clear. The back stair at the boarding house in Ardenmere, which he had climbed a hundred nights without a lamp because his forearms told him it was empty. The corridor outside the archive at Greyvane, the evening the Compact's officer had walked its length with his cases. The yard behind the residence wing, in the dark before the first bell, where he had turned and turned on frozen stone with his back to the gate. Every one of those silences he had trusted. Every one of them, as it happened, had been empty. But he had not known it. He had only felt nothing, and called the nothing knowledge, and gone on.
+He lay in the dark and went back, as he had not been able to stop himself going back, through every time in three years the read had been quiet and he had taken the quiet as clear. The back stair at the boarding house in Ardenmere, which he had climbed a hundred nights without a lamp because his forearms told him it was empty. The corridor outside the archive at Greyvane, the evening the Compact's officer had walked its length with his cases. The yard behind the residence wing, in the dark before the first bell, where he had turned and turned on frozen stone with his back to the gate. He had trusted all three silences, and every one of them, as it happened, had been empty. But he had not known it. He had only felt nothing, and called the nothing knowledge, and gone on.
 
-He thought, too, of the eleven supervisors and their eleven careful silences. There, as well, he had been given quiet and had nearly taken it for an answer. It was not one. A silence that had been arranged was not the same thing as a room with nobody in it, and he had been very close to forgetting the difference.
+He thought, too, of the eleven supervisors and their eleven careful silences. That quiet, too, he had come close to filing as an answer. It was not one. A silence that had been arranged was not the same thing as a room with nobody in it, and he had been very close to forgetting the difference.
 
 *Rule, second half: the same goes for people.*
 
@@ -184,17 +184,17 @@ He got up in the end, lit the lamp again, and wrote one more line under the rest
 
 ---
 
-Five weeks to the day from the gate, the four of them were on the wall behind the second quadrangle at dusk, each busy with something of their own, and Cael had the binder open on the coping.
+On the thirty-fifth evening, five weeks from the gate to the day, the wall behind the second quadrangle held all four of them at dusk, each at some private work, and Cael had the binder open on the coping.
 
-At the far end, where an old hitching post stood up out of the turf, Brom was turning nothing at all, as slowly as he knew how. Rooke had given him the post two days before, and the instruction with it, and the instruction was simple and cruel. Brom was to turn nothing until he was certain it was real. He was to stand at the post, and Karis or Lira or Cael would come at him with feeds, honest ones and empty ones mixed, and he was to let every empty one go by without so much as a twitch, and turn only the honest ones. It was the exact opposite of everything he had built. Tonight it was Lira feeding, from in front of the post, her hands flat, and every third feed she sold was empty, and Brom turned on two of every three of them anyway, and groaned at himself, and went back to the post.
+At the far end, where an old hitching post stood up out of the turf, Brom was turning nothing at all, as slowly as he knew how. Rooke had given him the post two days before, and the instruction with it, and the instruction was simple and cruel. Brom was to turn nothing until he was certain it was real. He was to stand at the post, and Karis or Lira or Cael would come at him with feeds, honest ones and empty ones mixed, and he was to let every empty one go by without so much as a twitch, and turn only the honest ones. Everything he had built, it ran backward. Tonight it was Lira feeding, from in front of the post, her hands flat, and every third feed she sold was empty, and Brom turned on two of every three of them anyway, and groaned at himself, and went back to the post.
 
 "Worse," he said cheerfully, after one of them. "I'm definitely worse. Write that down."
 
 "I'm writing it down," said Cael.
 
-Cael had taken his turn at the feeds before supper and had found it harder than he expected. To sell Brom an empty strike he had to mean it nearly all the way, with his weight and his breath and his eyes, and then take it back; and Brom, who had known him three years, believed every one, because Cael had never once in three years lied to him on a floor. It had felt very strange to do it on purpose. Brom had not minded at all. *Again*, he had said, every time, beaming. *That one got me properly.*
+Cael had taken his turn at the feeds before supper and had found it harder than he expected. To sell Brom an empty strike he had to mean it nearly all the way, with his weight and his breath and his eyes, and then take it back; and Brom, who had known him three years, believed every one, because Cael had never once in three years lied to him on a floor. It had felt very strange to do it on purpose. Brom had not minded at all; *again*, he had said, every time, beaming. *That one got me properly.*
 
-Karis had four documents spread on the flat top of the wall, the ones she had brought out of carrel eleven for the evening light, with a smooth stone weighting each corner against the wind off the river. She was reading the third, very slowly, with her finger on the line. Every so often she said a single word aloud, to nobody, and wrote it in the margin.
+Along the flat top of the wall Karis had laid out four documents from carrel eleven to catch the evening light, with a smooth stone on each corner against the river wind. She was reading the third, very slowly, with her finger on the line. Now and then a single word left her, addressed to nobody, and went into the margin.
 
 Lira gave Brom one more empty feed, watched him fail to let it go, and then came and leaned beside Cael on the coping with her eyes on the water. Down at the ferry landing the two grey coats were standing under their lamp. She looked at them for a while.
 
@@ -202,7 +202,7 @@ Lira gave Brom one more empty feed, watched him fail to let it go, and then came
 
 "Are they?"
 
-"Ten minutes." Lira did not take her eyes off them. "First time in a month. Write that down too."
+"Ten minutes." Lira's eyes stayed on them. "First time in a month. Write that down too."
 
 He did. Then, because it had been sitting on him all day, he told Brom about the low hall.
 
@@ -230,7 +230,7 @@ Cael bent over the binder.
 
 *Karis: a key, a seam of law with no back wall, and three terms on paper that keep her work in a cabinet and off the shelves.*
 
-*Me: a category with a name, the best boards I've ever stood on, eleven Paths I've never been near, a read I've just caught lying, and no line anywhere.*
+*Me: a named category, the finest boards I've stood on, eleven Paths still out of reach, a read caught lying this week, and no line anywhere.*
 
 It had taken five weeks to be able to put the next part down. He put it down.
 

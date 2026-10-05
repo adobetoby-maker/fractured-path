@@ -188,3 +188,48 @@ Open threads opened / advanced / closed:
 ### Movement 1 — CLOSED (2026-10-04, after repair r1; Sol recheck: CLOSE WITH LINE FIXES — 4 applied)
 - Ch1–7, ~31,870 words. Mean 13.14, ≥40w 3.3%, 909 w/scene; overlap 0 (8 protected); probe 1%; gates 0. Recheck fixes: one r1 join's punctuation (ch4) and three listening/clarity lines (ch5, ch6, ch7).
 - Authorship: claude-opus-5-5 (state/movement-001/AUTHORSHIP.md). Published to the PWA: Book 4 Monroe 1.3 edition, ch1–7, "in progress".
+
+
+## After Movement 2 (chapters 8–14; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Calendar: the false-feed discovery runs day 22 → "the week of sessions after"; Brom's wall scene the evening of day 31 (after the tenth session); the Lattice low hall day 33; the baseline day 48. Ch13 "a fortnight ago" (low hall → baseline), "four bad nights"; ch14 "most of a month" watching Ephram.
+- Crown-yard practice rule: FIRST TO THREE CLEAN TOUCHES (Lira's first bout: four exchanges, 3–1).
+- Timber vs stone: four bursts on timber cost what three did on stone — a third more work, or about a quarter less per burst. "Four free" at the baseline.
+- Lira's record: three wins on day 28, eight by day 32 ("eight and nil"), nine by day 34.
+- Lira's Fenmark Arbiter reading took "about a minute and a half" — NEW CANON (no earlier book states it); the registrar's clerk "most of two minutes" (ch9).
+- Accepted canon: Rooke's twelve-day bench for every newcomer (Brom's silence at day 21); Lira signed on the twelfth (two days inside "by the fourteenth"); the demonstration floor is sprung oak with a brass grid; the Lattice hall's key-on-the-nail rule; five transcript copies (Ephram owns the fifth); Gault's assessor ruined by deciding; a TA's wrong sum in front of Cael.
+- "Colder country" appears once. Seln's locked case is never opened. Bracken is "he".
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane days 22–51: day 22 Brom's first floor hour; days 22–36 Ephram's sessions; about day 24 ("the twelfth of the month") Lira registers; day 28 the ladder book; days 29–31 timber measured; day 31 the Ash instructor into the eight; day 32 Karis's terms (Lira 8–0); day 33 the low hall; day 34 nine and nil; day 35 the five-weeks log; day 38 Fiske at the board; day 45 the wash-house; day 46 the posting; day 48 the baseline; day 49 Ephram; day 51 the copying table and the card. Seln on the bluff from about day 45; first sight day 48. Nineteen weeks to the semester evaluation.
+
+**Cael — body.** Right shoulder/forearm from the plate: numb to the elbow on the day, ache to the week's end. Hip: thin thread after the baseline, gone by next noon.
+
+**Fragments & progression.** Five confirmed; no change. Wind: four free on sprung timber, fifth billed (about a third cheaper than stone); landing beat unchanged; baseline 1–5 within one brass, sixth wide and long. Iron read: blind to Lattice, silently; rule in both books; partial correction (builder's weight, pupils only); baseline 11/12, cold 12/12. Pressure withheld at the plate. Compression untested on a floor that answers (ringed). Ember off the floor by agreement with Karis. Tide anomaly not mentioned.
+
+**Method.** Standing eight: Bracken, Rooke, the porter, the Ash instructor; four lines blank. Re-audit begun, not finished. The eleven supervisors tabled; the Mire instructor marked *checks*.
+
+**Documents.** Gault's note (protected), both signatures; the Mire instructor's notch line, initialled twice; the *For service* slip; the posted slip (*Entry demonstration, assay-provision enrollee: satisfied. Baseline established and filed.*); Karis's three terms; the practice register (Lira 9–0); Cael's four-page list; the TA entry.
+
+**Knowledge.** Mechanism unchanged. The panel knows two capabilities, the ceiling of four on sprung timber, and "it goes into the joint". Ephram owns the fifth transcript copy. Seln has seen the boy once, without looking.
+
+**Companions.** Lira: Copper R2 formal, registered, seeds at the foot, 9–0 in practice. Brom: worse on purpose; post drill (turn nothing until certain). Karis: research standing in writing; card census (sixty-one doors, believes forty).
+
+**Watchers.** Unchanged (two at the ferry, two at the road's foot, four hours; one change ten minutes late, day 35). Seln embedded in Gault's office.
+
+## New canon minted (flag where marked)
+
+- **Rooke benches every newcomer** until he can "see him watching" (Brom twelve days). **Flag:** reconciles M1's silent Brom with the packet's "first cohort hour on the page".
+- **Lira's deadline read as a calendar date** (M1 left her unregistered at day 21). **Flag.**
+- **Sprung demonstration floor** with a surveyed brass grid (source: stone), so the baseline's "four free" matches BOOK_MAP §7. **Flag.**
+- The low hall is the Lattice instructor's; key on the nail = stop, knock, wait; the first-year's tooth. Lattice lines visible only in caught light.
+- The stationer's five copies; Ephram bought the fifth.
+- Gault's ruined assessor (decided early about a girl; four years of agreeing trials).
+- **Lira's Kindling: "a minute and a half", Copper Rank One.** **Flag** against Books 1–2 of the edition.
+- The Mire instructor supervised one pre-baseline session.
+- Ephram once corrected himself publicly in the cohort.
+- Brom's wrap carries Rooke's words in ink (BOOK_MAP §6).
+- The TA fumbles 4 × 19 in front of the office clerk (the packet's manufactured incompetence, seen by Cael).

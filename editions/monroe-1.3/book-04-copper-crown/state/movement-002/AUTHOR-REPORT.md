@@ -103,3 +103,126 @@ Secondary (rough greps): "that" ≈372 (≈112 per 10k, above the 92 hint); prog
 5. Progression density ≈80 vs ≈90 per 10k; "that" above the hint; sentence mean at the low edge — repair candidates.
 6. Scene lengths: four under 850, one over 1,050.
 7. Names: none new. Unnamed by design: the ladder clerk, the Stone fourth-year, the Lattice instructor and pupils, the Ash and Mire instructors, the other supervisors, Gault's clerk, the officer, the posting-house boy, the stationer.
+
+## Repair r1
+
+Same-author repair against REPAIR-BRIEF.md, review-editorial.md and review-cold.md. Done in reading order, in place, sentence by sentence; every new sentence was written by hand with the source closed. Scripts only listed the flagged sentences (manuscript side only) and applied my exact before→after strings, failing on any miss. Edited only ch8–14 and this report; no git.
+
+### Counts and calendar (Priority 1)
+
+- **ch8 calendar.** I changed the duration and the closing day, not the opening. Brom's first floor hour stays day 22, so session-day *n* falls on day 21+*n*. Ephram finds the seam in three sessions (days 22–24); the text now says "the week of sessions after" (days 25–31), not "the fortnight". The narrated fourth, fifth, sixth, eighth, ninth and tenth days all fit. The wall scene moves from the thirtieth to **the thirty-first evening, after the tenth session**. The whole false-feed sequence is kept.
+  - Joins still close. Day 31 shares a date with the Ash instructor's dated line in ch10, with no conflict. Rooke gives Brom the post on day 33, two days before the day-35 wall. The low hall is day 33.
+  - ch13's "three weeks ago" (low hall to baseline) becomes **"a fortnight ago"**, since days 33→48 are 15 days.
+  - ch13's "six days without proper sleep" becomes **"four bad nights"**, to agree with ch12's three bad nights and the fourth-night sleep.
+  - ch14's "For three weeks Cael had watched [Ephram]" becomes **"For most of a month"** (days 22–49).
+- **ch9 bout rule.** "Three exchanges, each to a clean touch or called even" becomes **"first to three clean touches, with any exchange the instructor could not split called even and run again."** All four exchanges and the 3–1 score are unchanged.
+- **ch10 arithmetic.** "Call it a third off, session for session" becomes: *my hip pays the same bill for four bursts on these boards as it paid for three on Greyvane's stone. The same bill buys a third more work; burst for burst, each one costs about a quarter less.* "Four free" and the unshortened landing beat are kept. This also corrects my M2 report's "about a third cheaper", which should read "about a quarter less per burst".
+- **ch9 → ch10 time cue and win counts.**
+  - ch9's count line is anchored: "By the thirty-fourth day, ten days after she signed, she had fought nine and won nine."
+  - ch10's day-28 scene opens "back in Lira's first week on the ladder, when her line in the practice register still held only three wins."
+  - The page now shows three wins on day 28, "eight and nil" on day 32 and nine on day 34.
+  - The day-35 log ("nine bouts, nine wins") still agrees.
+- **Lira's Fenmark "minute and a half"** is stated only in ch12, so it is consistent. In ch9 the clerk's explanation, which was also "a minute and a half", becomes "most of two minutes", so the phrase belongs to Lira and Fiske.
+
+### Source distance (Priority 2)
+
+`sweep_probe.sh book-04-copper-crown 2 2`, skeleton / close:
+
+| Chapter | Before | After |
+|---|---|---|
+| 8 | 1% / 19% | 1% / 4% |
+| 9 | 2% / 14% | 1% / 3% |
+| 10 | 0% / 20% | 0% / 5% |
+| 11 | 2% / 15% | 2% / 5% |
+| 12 | 0% / 23% | 0% / 6% |
+| 13 | 2% / 19% | 2% / 9% |
+| 14 | 2% / 29% | 2% / 9% |
+| **Total** | **1% / 20%** (288 of 1,408 sentences) | **1% / 6%** (1,373 sentences) |
+
+- **Highest scene:** ch14's officer scene (old s4, now s3), 22% close. 8% of that is protected (the officer's line and the two brief sentences); the unprotected close share is about 14%. Every other scene is at 13% or below.
+- **Recomposed:** about 250 sentences at ≥0.35. That includes all of ch12 s2–s5, ch10 s4 (rewritten as a block) and ch14 s4/s7, plus the unprotected sentences round Seln's brief, including the brief's header lines, which were mine.
+- **Kept close on purpose:**
+  - protected lines;
+  - packet lines: "You're the transfer with the flag"; "That's what a system is… nobody's got a reason to do the work"; "the surface read's silence is not information"; "the second one was harder".
+- **Rewritten despite being packet lines,** because they scored ≥0.50 after the first pass:
+  - "the single most useful sentence" → "nobody standing on it has said a more useful sentence";
+  - Gault's assessor line → "The moment an assessor settles what a practitioner is, the measuring stops."
+- **`ed.sh overlap`:** 0 unprotected and 8 protected runs. Mid-repair, three of my new sentences briefly made 8-word runs (ch8 Silver/Gold, ch8 wall, ch14 sunk yard), and one join did too (ch10 Denvash). All four were recomposed again before the final run.
+- **ch12 compression.** The three-night section went from about 900 words to about 330. Only the arithmetic, the file and the "pen" image are kept, and both cheating lines are named once. The low line's mechanism now appears only once, in the common-room scene, as Cael lays it out. The high line's "growth on demand" cost is dropped; its "can't be shown" reason stays.
+  - Kept: the concealment-versus-lie distinction ("leaving things unsaid" against "writing a figure against my own name"), Brom's "You'd have to stand there while he wrote it down", and Lira's third option.
+  - The scene break between the nights and the fourth evening is removed, so the debate now starts about 330 words into the chapter, not about 900.
+
+### Rhythm (Priority 3)
+
+- **Sentence joins:** about 85 one-thought narration runs joined across ch8–14, with semicolons, colons and coordinate clauses, never in dialogue. Short runs that do rhetorical work were left alone ("Dull. Exact. Stamped.", "No line. No bracket", the log fragments).
+- **"That":** 372 → 313, about 112 → 97 per 10k. Most cuts are optional complementizers ("found that", "so that") and recomposed sentences.
+- **Progression vocabulary:** rough lexicon grep (Path/tier/rank/tier names/framework/fragment/burst/Wind/Lattice/ceiling/baseline/bracket/ladder/seed/provision…). Before: 278 in 33,354 words (83 per 10k). After: 275 in 32,436 (85 per 10k). None was added artificially.
+- **Scene merges:** only two, both continuous in time and place or thread.
+  1. ch14's Ephram scene and Brom/Lira/Karis arriving on the same tiers a quarter of an hour later (now one scene of about 1,510 words).
+  2. ch12's nights and the fourth-evening debate (about 1,440). This merge also serves the compression.
+- **Scenes still under 850 words** (all different places or times, so not merged): ch8 s5 845, ch10 s4 829, ch11 s4 815, ch13 s4 816, ch14 s1 825, ch14 s3 713 (officer) and ch14 s5 764 (the bluff).
+- **Scenes over 1,050 words:** ch8 s1 1,057, ch12 s1 1,437, ch14 s2 1,509 and ch14 s6 1,090.
+
+### Metrics after repair
+
+**Gates:** reader_standard=0, metadata=0, modern=0 on all seven chapters.
+
+**Words (wc):** ch8 4,710 · ch9 4,494 · ch10 4,588 · ch11 4,448 · ch12 4,112 · ch13 4,290 · ch14 5,794 · **total 32,436**, inside the 32,000–34,500 band. formula_metrics prose count: 32,363.
+
+| Measure | Before | After | Working range |
+|---|---|---|---|
+| Sentence mean | 13.08 | 13.18 | 13–15.5 |
+| Sentence median | 9 | 9 | target 11 |
+| ≤5-word share | 31.6% | 30.0% | up to about 34% |
+| ≥40-word share | 4.2% | 4.2% | 2.5–4.5% |
+| Paragraph median | 27 | 27 | up to about 30 |
+| Scene breaks | 30 | 28 | — |
+| Words per scene | 899 | 925 | 850–1,050 |
+| Flesch–Kincaid grade | 4.35 | 4.42 | 3.5–6 |
+| Flesch Reading Ease | 87.1 | 86.9 | target 72.3 |
+
+Note: halfway through, the recomposition alone had pulled the sentence mean down to 12.79. The joins above brought it back.
+
+**POV:** Seln's cutaway is about 2,380 words across ch14 s3–s5, about 7% of the movement. "Colder country" appears once, the locked case is never opened, and the motive is never stated.
+
+### Changelist
+
+- **ch8**
+  - Calendar: "fortnight" becomes "the week of sessions after" (twice); the wall scene moves to day 31, after the tenth session.
+  - Recomposed about 30 sentences across all five scenes.
+  - Joins in s2 and s4.
+  - "Rooke sends four" construction.
+- **ch9**
+  - Bout rule.
+  - Day-34 anchor on the nine wins.
+  - Clerk's "most of two minutes".
+  - Wash-house: Lira's diagnosis is re-voiced. Packet lines are kept.
+  - About 20 sentences recomposed, plus joins.
+- **ch10**
+  - Day-28 time cue tied to Lira's three wins.
+  - Burst arithmetic.
+  - The supervisor survey (s4) is rewritten as a block.
+  - Karis's terms re-voiced. Clause six and clause nine are unchanged.
+- **ch11**
+  - About 25 sentences recomposed: the porter, the low hall, the night log, the day-35 wall.
+  - The day-35 opening now gives the date ("the thirty-fifth evening").
+  - The protected four-doors entry is untouched.
+- **ch12**
+  - Compression of the nights.
+  - Merge into the common-room debate.
+  - About 35 recompositions across the debate, the doctrine log, Lira and Karis on the step, the room description and Gault's rules.
+- **ch13**
+  - "A fortnight ago"; "four bad nights".
+  - About 30 recompositions, including Gault's door speech round the protected line.
+  - Joins in s1–s4.
+- **ch14**
+  - Rumour scene, Ephram scene, the merged tiers scene, Seln's three scenes (unprotected sentences only) and the copying-table scene recomposed.
+  - "Most of a month".
+  - Fixed a dangling "Nobody did" introduced mid-repair.
+  - Two optional joins.
+
+### Left for the owner or coordinator
+
+1. The sentence mean is in range at 13.18 but still below the 14.6 target. More joining would push the ≥40-word share (4.2%) toward its 4.5% ceiling.
+2. Scene-length spread: the two merges created two scenes of about 1,450–1,510 words; seven short scenes remain, none mergeable under the same-place rule.
+3. The packet lines kept close are listed above. If the coordinator wants them recomposed too, it is about four sentences.

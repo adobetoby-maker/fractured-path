@@ -44,13 +44,13 @@ At Greyvane he had made a discipline out of this, over a year, and called it a v
 
 *Not the crown. I couldn't care less about the crown. What I want is the line: a row on a wall in somebody else's chalk, saying what I did from a season's first bell to its last, for anybody passing to read and argue with.*
 
-*I've wanted that since Denvash. It has never once been on offer. I should stop being surprised.*
+*I've wanted that since Denvash, and not once has anybody offered it. Time I stopped being surprised.*
 
 *Filed. Working on it.*
 
 ---
 
-After three weeks of sessions on the north hall's stone, the first that the office put on the east hall's timber was against Lira, and the supervisor that week was the Ash Path instructor from the lecture range.
+After three weeks of sessions on the north hall's stone, the first the office put on the east hall's timber was against Lira, and the supervisor that week was the Ash Path instructor from the lecture range.
 
 The office permitted it because the two of them lived on the same residence roster, and because a supervised session needed somebody on the floor, and Lira had put her name down for the slot before anybody else could think of it. The Ash instructor was a thin, stooped woman of perhaps sixty, with ash-grey hair cut short and a lecturer's habit of holding a book against her chest like a shield. She signed, took the bench under the gallery with the book still clasped to her, and did not interfere with a single thing.
 
@@ -66,15 +66,15 @@ The slate had been Lira's idea, in the beginning, on the Ironyard boards. Paper 
 
 "Ready."
 
-She came at him the way she had come at the Stone fourth-year, fast and low and straight, and he read her a pace and a half out on the skin of his forearms and slipped her on foot, without the Wind. She came again. He slipped again. On the third she put down the short step he had watched her use on the yard, the half-step going nowhere, and he did not wait to see where it went; he held half a breath and let the framework take his feet.
+She came at him the way she had come at the Stone fourth-year, fast and low and straight, and he read her a pace and a half out on the skin of his forearms and slipped her on foot, without the Wind. She came again, and he slipped again. On the third she put down the short step he had watched her use on the yard, the half-step going nowhere, and he did not wait to see where it went; he held half a breath and let the framework take his feet.
 
 The first burst carried him left and back.
 
 "Stop," said Lira.
 
-He went to the slate. She counted.
+He went to the slate while she counted.
 
-He was braced for the usual landing. A thousand times on stone he had paid it: the half-breath locked shut as each burst ended, and the jolt driving up from his heels into the leading hip, and he had braced for that without thinking, the way a man braces for a step he knows is there. The landing beat was the same length. Three years of trying had never trimmed it by a hair. But it did not come home the same way. It came down through his heels into the oak, and the oak took it, gave under it by what felt like the width of a finger, and gave it back, so that what reached his hip was not a blow but a kind of push, spread out and softened, like a wave arriving on a long flat beach instead of a wall.
+He was braced for the usual landing. A thousand times on stone he had paid it: the half-breath locked shut as each burst ended, and the jolt driving up from his heels into the leading hip, and he had braced for that without thinking, the way a man braces for a step he knows is there. The landing beat was the same length. Three years of trying had never trimmed it by a hair. But it did not come home the same way. It came down through his heels into the oak, and the oak took it, gave under it by what felt like the width of a finger, and gave it back, so what reached his hip was not a blow but a kind of push, spread out and softened, like a wave arriving on a long flat beach instead of a wall.
 
 *Burst one, east hall timber,* he wrote, while she counted. *Landing beat: same length. Consequence: softer. Hip: a push, not a hit.*
 
@@ -102,7 +102,7 @@ On the bench below the gallery the Ash instructor had put her book face down on 
 
 He knew in the morning.
 
-The line came, as it always came after a fourth burst, from the crest of the hip down the inside of the thigh to the knee. But it came faint. It was the line he would have had on stone after an evening of three bursts, a thin warm thread instead of hot wire, and it was gone by the noon bell. He did not trust it. One morning was one morning. He waited for his next two sessions on the timber, under two more supervisors he had never met, and spent four bursts in each, and woke both mornings to the same thin thread, gone by noon.
+The line came, as it always came after a fourth burst, from the crest of the hip down the inside of the thigh to the knee. But it came faint, the line he would have had on stone after an evening of three bursts, a thin warm thread instead of hot wire, and it was gone by the noon bell. He did not trust it; one morning was one morning. He waited for his next two sessions on the timber, under two more supervisors he had never met, and spent four bursts in each, and woke both mornings to the same thin thread, gone by noon.
 
 Then he sat down with the binder, opened it at the page where three years ago he had first written down the Wind's price, and began to measure honestly.
 
@@ -154,7 +154,7 @@ No instructor came back to him inside two weeks of the last time. By the third w
 
 All eleven watched him alike. For the opening stretch of a session he got the easy, half-spent attention a teacher gives somebody else's pupil, one eye on the boards and the other on a book or a letter. Then, in the later stretch, every one of the eleven changed.
 
-By the second week he was timing it. Somewhere between the tenth minute and the nineteenth it happened, and he could tie it to one thing only: the first time the Wind framework moved him faster than a walk. Their attention went over into a different state then, the way water goes over when it boils, and it stayed there. Books went down. Nobody glanced at the door again. They watched his feet, and the boards where his feet were going, until the bell.
+From the second week, he timed it. Somewhere between the tenth minute and the nineteenth it happened, and he could tie it to one thing only: the first time the Wind framework moved him faster than a walk. Their attention went over into a different state then, the way water goes over when it boils, and it stayed there. Books went down, and nobody glanced at the door again. They watched his feet, and the boards where his feet were going, until the bell.
 
 Each had a way of doing it, and he learned them apart by their ways. The Current lecturer, round and cheerful, hummed through the first eleven minutes and never hummed again after. A Shield man from the north hall wrote letters on his knee until the thirteenth, then folded the page and sat on it, as if he feared it might watch in his place. An old Stone master arrived with his eyes half closed and every sign of meaning to sleep; at the nineteenth minute both eyes came wide, and he leaned forward on his stick and stayed leaning, still as a post, to the end. Cael kept a line for each: the Path, the minute, the burst just before.
 
@@ -166,9 +166,9 @@ Each had a way of doing it, and he learned them apart by their ways. The Current
 
 *Eleven polite people would not look so alike. This is organized. Either it's a faculty discipline I've never met, or somebody gave an order.*
 
-That kept him at the desk a good while.
+He sat over that a good while.
 
-There were ways to find out. He could stop the twelfth supervisor in the doorway, put it to her plainly and watch her face. The porter would know, and would find the question dull. Bracken could simply be asked. Any of the three would answer him, and any of the three would have the whole faculty knowing by the next day that the assay enrollee had noticed their silence and was prodding it. A silence that knew it was watched would turn into some other silence, and he would have paid a good deal for a fact he could not use.
+There were ways to find out: he could stop the twelfth supervisor in the doorway, put it to her plainly and watch her face. The porter would know, and would find the question dull; Bracken could simply be asked. Any of the three would answer him, and any of the three would have the whole faculty knowing by the next day the assay enrollee had noticed their silence and was prodding it. A silence that knew it was watched would turn into some other silence, and he would have paid a good deal for a fact he could not use.
 
 *Not worth it. The answer costs more than it's worth to me. Leave it standing, and watch it.*
 
@@ -176,7 +176,7 @@ It cost him something to write that. He had never in his life left a question st
 
 Of the eleven, one went into the eight.
 
-The Ash instructor had crossed over at the twelfth minute, like all the rest; he had the minute in the margin. But at the fourth burst, when her book had gone face down on her knee and she had been watching him with her whole face, she had seen him glance at her, and she had lifted the book again. It had not been embarrassment. He had watched a great many embarrassed people and knew the look. It had been a choice. She had wanted to stare and had decided, on purpose, in front of him, not to.
+The Ash instructor had crossed over at the twelfth minute, like all the rest; he had the minute in the margin. But at the fourth burst, when her book had gone face down on her knee and she had been watching him with her whole face, she had seen him glance at her, and she had lifted the book again. It had not been embarrassment; he had watched a great many embarrassed people and knew the look. It had been a choice: she had wanted to stare and had decided, on purpose, in front of him, not to.
 
 He did not know anybody else on the bluff who had made that choice where he could see them make it.
 
@@ -186,7 +186,7 @@ He did not know anybody else on the bluff who had made that choice where he coul
 
 On the thirty-second day Karis came into the common room carrying a single folded sheet in both hands, the way a person carries a bowl filled to the brim, and Cael, who had seen that walk perhaps twice in his life, put down his pen. It had taken her four meetings with Bracken and an afternoon in front of the library committee.
 
-The sheet went down on the table. Karis stayed standing.
+The sheet went down on the table, and Karis stayed standing.
 
 "Terms," she said. "Three of them. One." She laid a finger on the first. "Carrel eleven, a key, overnight retention. I had that already. Now it's in writing, which means nobody can decide in a bad week that I didn't. Two. The third and fourth floors of the law range without an escort. By custom that's faculty only. Bracken's let me in regardless, because I have, quote, *shown a competence with documents to the benefit of the institution*." She said it with great relish. "That's the kindest sentence anybody's ever written about me, and it's in a register."
 
@@ -208,11 +208,11 @@ Cael read the third term again. He thought about a delegation's boxes coming bac
 
 "Yes," he said. "So would I."
 
-"The committee hated it." Karis looked delighted. "They have a charter, you know. Eleven clauses. I'd read it four times before I went in. When the chair said the request was irregular, I read her clause nine back to her, the right of written appeal to the chancellor, and asked whether she'd like me to start writing. She said that wouldn't be necessary. Bracken was sitting at the end of the table the whole time looking at the ceiling." She stopped, and some of the glee went out of her, and something quieter came in behind it. "And there's the other thing."
+"The committee hated it." Karis looked delighted. "They have a charter, you know. Eleven clauses. I'd read it four times before I went in. When the chair said the request was irregular, I read her clause nine back to her, the right of written appeal to the chancellor, and asked whether she'd like me to start writing. She said it wouldn't be necessary. Bracken was sitting at the end of the table the whole time looking at the ceiling." She stopped, and some of the glee went out of her, and something quieter came in behind it. "And there's the other thing."
 
 "Go on."
 
-"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. Those two floors hold eleven bays. Four of them are nothing but the decades my four lines were written in."
+"The law range isn't a section of a library. It's a seam." She spread her hands flat on the table. "Greyvane's old books were luck. It was a road-house once, and whoever kept it left a shelf behind. This place went out and bought its law, deliberately, every decade since it was chartered, meaning to have the lot. The compilations from before the standardization. The directive itself, with its drafting papers. Forty years of consolidations. Every commentary anybody ever wrote about any of it." She took a breath. "I've spent six months on four lines of one clause. Those two floors hold eleven bays. Four hold the very decades my clause comes from."
 
 "How long to read them?"
 
@@ -236,7 +236,7 @@ Lira had come in at the door partway through and stood leaning on the frame with
 
 Karis watched her go, and then turned back to Cael, and her face had gone careful again.
 
-"Three terms," she said. "One for me. Two for the work. And one for you, really, though it's got my name on it." She folded the document along its crease. "You'd better start keeping a list of everything I write on you, so that if Bracken's cabinet ever burns down we'll know what was in it."
+"Three terms," she said. "One for me. Two for the work. And one for you, really, though it's got my name on it." She folded the document along its crease. "You'd better start keeping a list of everything I write on you, so if Bracken's cabinet ever burns down we'll know what was in it."
 
 "You're joking."
 
