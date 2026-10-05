@@ -104,3 +104,13 @@ These are defaults, and none blocks drafting:
 - **Continental (Norhold) bracket bouts:** a different regime. Points are scored per exchange across up to five exchanges. The rule is stated ONCE on the page at Norhold (M5), and it carries Brom's "round-two five-exchange bout" and the Lira–Zerin arithmetic in BOOK_MAP §8 ("naught-three, two-one, one-two, one-three").
 - **The Iron split at the fifth rank** is a HOST OPTION the charter allows. It is not custom. The mill town exercised it; the confluence (M4) runs one Iron draw. The ledger records which meets split.
 - **The draw rule** (foot of the seeding against its head) stands. Lira's first bout need not be the hardest every time; M4 varies it.
+
+## #40 — Book 5 public-capability count and continental third place (coordinator default, 2026-10-05; B5 M4 review)
+- **What is public.** Book 4's "two public" meant the Greyvane hearing transcript, which records Wind and the Iron read (plus a thin Ember exhibit). In Book 5 M4, Cael spends Ember's two contacts on the caravan captain on a public regional floor, at its documented rate.
+  - **Default:** from M4 on, three capabilities have been SHOWN ON PUBLIC FLOORS: Wind, the Iron read, and Ember at its documented two-contact rate.
+  - Pressure is flat, in public and at the plate.
+  - Compression has not been on a scored floor since the Reydan bout.
+  - Shadow has never been shown.
+  - The record of five is unchanged.
+  - Cael's inventory may say "the record holds two of them public… shown a third at its documented rate".
+- **Continental third place.** Norhold has no individual third-place bouts. Its "third place" is the TEAM trial (M8). Gault's own continental fourth is therefore "fourth on the figures" or similar, with no bout for third.
