@@ -1,0 +1,277 @@
+# Chapter 24 — Counted Anyway
+
+Withrow went up to bed soon after her one sentence, and Bracken went with her to see her to the stair, and the table settled down to the rest of the evening without them.
+
+Nobody suggested it. The innkeeper simply brought more wood and another jug and went away again, and the company stayed where it was.
+
+A season that has ended wants sitting with for a while before anybody can sleep on it. They had learned that much this year, at a stove in the mill town and on a quay step in the slate country, and at a dozen waystation tables between.
+
+Rooke stayed, which he did not always do. He sat at the end of the bench with his coat open for once and his boots stretched to the fire.
+
+Gault stayed too, with the case beside him and one hand on its lid, and by the third cup he had begun, to the table's astonishment, to tell a story.
+
+It was about his own qualifying year.
+
+He had been younger than Ephram, he said, a Copper of no particular promise at a small house in the hills, and his house had crossed its line on the last afternoon of the last meet by a single bout. Somebody else's bout, as it happened, in another bracket, which he had not even watched.
+
+Then the house had set out for the finals in two farm carts lent by the chancellor's brother. On the fourth day the second cart lost a wheel in the middle of a ford.
+
+"Not near the bank," said Gault. "In the middle. The deepest part. With the house's banner in it, and the kit, and my only boots." He turned his cup round on the table. "We got the banner out. We got most of the kit out. My boots went down the river toward the sea, and as far as I know they are going there still."
+
+"What did you fight in?" said Lira.
+
+"The chancellor's brother's boots," said Gault. "He had very large feet. I packed the toes with straw." He paused, and something in the corner of his mouth moved. "I won my first bout in them. The other boy kept looking at my feet. I believe he thought it was a technique."
+
+Brom laughed so hard that he had to put his cup down. The reserves laughed because Brom was laughing, and Lira laughed until she had to wipe her eyes on her sleeve, and even Rooke made a sound into his beard that might, in a less careful man, have been called a laugh.
+
+Karis wrote *straw* in her notebook, underlined it, and would not say why.
+
+"And after that?" said Ephram. "How far did you go?"
+
+Gault did not answer at once. He looked into the fire for a little while, turning the cup.
+
+"Fourth," he said.
+
+The table went quiet.
+
+"In the continental Copper," said Gault. "Fourth, out of all of them." He drank. "I lost the bout for third to a girl from the coast who was very much better than me. She went on to be a great deal better than everybody. I was glad to have been on the same floor."
+
+"You never said," said Ephram. He sounded almost hurt. "All year, at every meet, all those brackets, and you never once said."
+
+"No," said Gault. "A man who measures other people should not carry a number of his own about with him. It gets onto the scale."
+
+He set his cup down. "And besides, the compilers' index that year had me down as *plodding*. Fourth on the continent, and *plodding*, in print, for a mark a copy." He looked down the table at Ephram over the rims of his spectacles, quite kindly. "I have been mispriced by professionals, young man. That's why I check my work twice."
+
+"Fourth," said Brom, slowly, as a man says a thing he means to keep.
+
+"Fourth," said Gault, and for a moment looked very pleased with himself, and then put the look away again.
+
+Cael took out the observation notebook under the table and wrote it on Gault's page. That page was the longest in the book now.
+
+He had started it at the beginning of the year with a few lines about an instrument case and a frame and a man who marked what the manual said. Since then it had filled up with small things, one at a time, until it no longer described anything like an instrument. He wrote *Fourth, continental Copper. Boots in a ford. Plodding.*
+
+Then he sat and looked at the page for a while, and thought that he had once filed this man under machinery and had been wrong in the most useful way he had been wrong all year.
+
+Rooke looked at Gault for a while across the table after that, as though he were seeing a fighter he had known for years from a new side of the floor. He said nothing about it.
+
+But when the jug came round again he filled Gault's cup himself, which Cael had never seen him do for anybody.
+
+The last cup of the evening was Ephram's.
+
+Somewhere around the mill town Ephram had made himself the keeper of the table's toasts, and nobody had ever argued with him about it. Now he stood up with his cup, and swayed a little, and steadied himself on Brom's shoulder, and raised it.
+
+"To the paper," he said.
+
+They waited. He looked down at the cup as though it might help him.
+
+"Which put us on a card," he said, "and a circular, and a roster, and has been trying all year to tell us what we are. And has been wrong about every one of us, in one direction or the other. Mostly downward." He looked round the table at each of them. "May it keep on trying. It's been very good for us."
+
+They drank to the paper. Then Rooke stood up, buttoned his coat, and said, "Wagons at first light," and that was the end of the season.
+
+---
+
+Two days later, on the First-day, the wagons climbed the bluff road at dusk, with the snow coming down thick and soft and the lamps already lit in Ostrand behind them.
+
+The coats were at the ferry landing, two of them, and two more at the foot of the road, on the bell. Karis wrote them in the marbled log by the light of the wagon lamp.
+
+Then the wagons began the long climb, and at the first bend Cael saw that something was wrong with the top of the bluff.
+
+It was too bright.
+
+Somebody at the gate had seen the wagons on the ferry. By the time they came round the last bend under the wall, the whole house was out along the top of the road in the snow, with lamps.
+
+There were lamps at the gate and lamps along the covered walk, and lanterns on poles, and candles in jars. There were first-years with tapers who had been told not to bring tapers.
+
+The porter stood in the gateway in his great-coat and did not tell anybody to go in.
+
+Nobody made a speech, and nobody had arranged it. That was plain from the way the lamps were scattered, in clumps and gaps, with people standing where they happened to have stopped.
+
+Somewhere in the residence court somebody had got hold of the dinner bell and was ringing it without any rhythm at all.
+
+The wagons came in through the gate at a walk. People reached up and touched the sides of them as they went past, for luck.
+
+A crowd of first-years caught sight of Brom on the front wagon and set up a chant of *Copper! Copper!*, and Brom, who had never been chanted at in his life, looked down at them with an expression of deep alarm and then, very slowly, raised one hand. They screamed.
+
+Ephram, beside him, laughed until he nearly fell off the wagon, and Karis, in the back, wrote the time.
+
+Lira sat bolt upright on the tailboard of the second wagon with her hands gripping the edge, staring at it all, and said nothing whatever.
+
+The covered walk was where the noise was thickest, and the wagons stopped there because they could not go further. The cohort board stood at the walk's middle, where it always stood. In the centre of it, in a frame of pale new wood, was the waystation circular.
+
+Rooke had given it to Bracken for the archive. Bracken, it emerged, had lent it to the woodwork shop that same morning, on the strict understanding that it came back unmarked.
+
+The woodwork students had built the frame round it in an afternoon. The joints were cut by hand, the wood not quite dry, and one corner sat a little higher than the other three.
+
+Somebody had chalked a single word across the wall above the board, QUALIFIED, each letter as tall as a forearm.
+
+Below the frame, in a different hand, much smaller and much more careful, someone had written:
+
+*eighteen years. counted anyway.*
+
+Cael read it twice in the lamplight. He did not know the hand, and he never did find out whose it was, though he looked at a great many people's writing on the hill afterward.
+
+Lira climbed down off the tailboard and went and stood in front of the board with her arms folded. Cael came and stood next to her.
+
+Round them the house roared and rang its bell and held up its lamps, and the two of them stood in the middle of it and looked at a sheet of printed figures in a crooked frame.
+
+"It's crooked," said Lira.
+
+"It is."
+
+She reached up and put two fingers under the low corner of the frame, as though to lift it level. Then she stopped with her hand there, and did not lift it.
+
+"At Fenmark," she said, "a man came round every morning with a little brass level and a cloth, and straightened every frame on every wall in the wing before the first bell. Every morning. I used to watch him do it." She took her hand away. "Nobody here's going to come round with a level."
+
+"Shall I?"
+
+"Don't you dare." She stood looking at it a while longer with her arms folded again. "Somebody made that in an afternoon because they wanted to. Nobody told them to, and nobody checked it. That's why it's crooked." She put her head on one side. "It's the best frame I've ever seen."
+
+Behind them the dinner bell rang on and on in the residence court, badly and with great enthusiasm.
+
+Withrow came along the covered walk between the lamps with Bracken a pace behind her, and stopped in front of the board, and looked at the frame and the chalk and the small careful line underneath for some time.
+
+Then she went on to her office without a word to anybody. But Cael saw her stop once more, at the turn of the walk where the lamps ended, and look back.
+
+She stood there for perhaps the space of three breaths, a small upright figure in a dark coat at the edge of all that light, with the snow coming down between her and the board, and then she went in and shut the door.
+
+---
+
+The digest came up the steep stair with the morning's papers a few days into the new term, bound in grey board, with the observation office's mark on its cover.
+
+Vastin put it at the bottom of the pile. He had an old rule about the paper he most wanted to read, which was that it went last. A man who starts his day with it reads everything else by its light, and his day comes out crooked.
+
+The pigeons had been fed. The porter had folded his paper bag and gone in. The court below the window was empty and grey, and the snow lay along the tops of its walls in a long clean line.
+
+The summary was what such summaries always were. The observation office kept seats at every regional meet on the circuit and gathered their reports at each year's end into a digest. It was competent, thorough and dull, in a clerk's even hand.
+
+Four meets in the western region. The enrollment of the unclassified practitioner noted, with its basis and its renewal. Thirteen exhibitions under the demonstration provision, thirteen won. The figures appended in a column, from twenty to twenty-six. A note on the house's results, and its qualification, and its finish, first in the region. A note on attendance at the confluence.
+
+The note on attendance quoted the steward's closing report. Vastin read the quoted sentence twice, and found that he had smiled, which he had not expected to do that day.
+
+He went back to the column of figures and read it down slowly. Twenty-three, twenty-two, twenty-four, and on, with a spread in the middle of the year so narrow that a careful clerk had put a small mark beside it.
+
+Then a twenty-six and a twenty on the same morning in the slate country, and after that the confluence's five, wandering about between twenty-one and twenty-five like the figures of any good young fighter on any ordinary set of floors.
+
+He had sat four feet from that young fighter in a room twelve feet by fourteen and asked him eleven questions. He had watched him on a frame that failed.
+
+He knew, as well as anyone in this building knew anything about him, what the boy looked like when he was being careful. The column in front of him looked like a boy who had been careful for half a year and had then, at some point in the slate country, decided to be a little less so.
+
+Or it looked like a fighter who had simply had a bad day on a cold floor and a good one on a warm one. A column of figures could not tell you which, and Vastin had spent his life refusing to make columns say more than they said.
+
+He did not write anything in the margin about it.
+
+He corrected two sums in the margin, because they were wrong, and set his initials in the box at the foot. Then he turned the last page and found that there was another page under it.
+
+It had not been bound in with the digest. It had been pinned to its back, under a seal, and the seal was that of an office above his own.
+
+He laid it on the table and did not read it at once.
+
+He knew the seal. Everyone in the building knew it, as everyone knows the colour of a door they have never been through.
+
+That office did not write to men at his desk. When it wanted something from this floor, the wanting came down through two or three floors between and arrived in the ordinary form, signed by somebody ordinary.
+
+The last time anything had come to him from that height under its own seal was eleven years ago. He remembered it chiefly because it had concerned the drains.
+
+There was no routing slip with the page. There were no initials anywhere on it.
+
+He turned it over, and turned it back, and thought of two letters in an unfamiliar hand on the fourth line of a slip at the beginning of the year, and did not let himself suppose anything about them.
+
+Then he read it.
+
+---
+
+It was a query, and it was short, and it had three numbered items.
+
+Item one wanted the evaluating office's view on *mitigation options*, in respect of the subject's appearance at Norhold.
+
+Item two wanted to know if the watch already in place could bear a *containment framing*, if one became necessary.
+
+Item three wanted the subject's *exposure trajectory* set out through the finals, with the public's interest in mind.
+
+He read it once and turned it face down on the table. Then he turned it up again and read it slowly, a word at a time, with one finger under the line, as he had been taught to read a charter when he was very young and had not read one since.
+
+They were not his words. In forty years he had never once used any of them of a person.
+
+*Mitigation* was a word for floods and fines. *Containment* was a word for fevers and fires. *Trajectory* was what a thing had when it had already been thrown, and you were only working out where it would land.
+
+None of the three was a question. Each was the answer to a question, wearing a question's clothes.
+
+An office that asked how a matter might be mitigated had already decided that the matter was a harm. An office that asked whether it could be contained had already decided that it was spreading. An office that asked for its trajectory had already decided where it was going, and wanted to know only how fast.
+
+Somewhere above him, the grammar had changed.
+
+He had watched grammar change before, in his time. It was never announced. A word that had lived for years in one kind of paper would begin to turn up in another kind, a little out of place, like a farm cart in a city street. Nobody remarked on it the first time, or the second. By the tenth time it had stopped looking out of place, and the people who used it had forgotten that it had ever been anywhere else. He had once seen *resettlement* travel in that way from a report on a flooded valley to a report on a quarrelsome town, in less than a year, and nobody who used it in the second report had ever read the first.
+
+The words always came from above, and they always came quietly, and they always arrived before whatever they were the words for.
+
+He did not let himself go further than that. He did not know what the office above him intended, and it was not his function to guess. His function was to evaluate what was in front of him. What was in front of him was a page with three words on it that did not belong to the thing they were about.
+
+He sat for a long time with his left hand flat on the page. The hand had begun some years ago to dislike evenings as well as mornings, and it disliked this one.
+
+Below the window the court grew dark, and the lamp in the porter's lodge came on, and nobody crossed the snow.
+
+He could refuse to answer. That was not his habit and would not be read as anything but what it was. He could answer in the query's own words, which was what it wanted, and which he would not do.
+
+Or he could answer the questions it ought to have asked, in the words a question ought to be asked in, and let the office above him see the difference for itself.
+
+He made himself price it first, as he priced any advice before he gave it. At the beginning of the year an advisory of three sentences had cost him nothing, because it had only declined to misread a charter.
+
+This would cost something. A man who answers an office above him in his own language, when it has written to him in its language, has told that office that he noticed.
+
+He did not know yet what the noticing would cost. He knew it would not be nothing, and he found, turning the pencil over in his fingers, that he was prepared to pay it without knowing.
+
+He took a sheet of paper and a pencil and began.
+
+He wrote the first answer long, as he wrote everything he meant to make short, and then struck it through corner to corner and wrote it again in ink on a clean sheet. He did the same with the second and the third. It took him most of the evening, because each answer had to be built so that a reader could not lift a sentence out of it and use the sentence to mean the opposite.
+
+When he had finished, the three answers lay one under another on a single page, and each began by turning its noun back into a question that an evaluator could honestly answer.
+
+*Mitigation options. Read as: whether the subject's conduct presents a harm requiring mitigation. Evaluation: the subject's enrollment is lawful, adjudicated on the public record and renewed under the Compact's own observation. His conduct across four meets, as recorded by this office's seats, is lawful at every recorded point. Nothing in any record this office has examined describes a harm. Where there is no harm there is nothing to mitigate, and this office can offer no options for it.*
+
+*Containment framing. Read as: whether the present observation arrangements are adequate to observe. Evaluation: they are. Whether anything observed under them is to be read in some other light is a matter for whoever means to read it so. Arrangements have no opinion. If the querying office has a particular concern, this office will evaluate it on receipt.*
+
+*Exposure trajectory. Read as: how public attention to the subject is likely to develop at the finals. Evaluation: it will follow his results, as attention follows any fighter people pay to see. His results have been good. This office notes that being watched is not an offence.*
+
+He read the page through once. Every sentence on it was true, and every sentence was an evaluation, and not one of them used the query's language except to translate it.
+
+He signed it with his name entire, and took it down the steep stair himself before the evening dispatch closed, and the dispatch clerk logged it and gave him a slip.
+
+He put the slip in his coat. It weighed nothing, and he was aware of it all the way back up the stair.
+
+---
+
+The reply came inside the week. It was a single line, under the same seal, on a half-sheet:
+
+*Acknowledged. The submission of the evaluating office is entered.*
+
+He read it at the window with the porter feeding his pigeons below. Then he laid it on the table beside his own three answers and looked at the two documents together for some time.
+
+Acknowledged. Entered. It was not a rebuke. A rebuke would have been a kind of engagement, an answer to his answer.
+
+This said only that his page had arrived and had been put somewhere. It did not say where, and it did not say that anybody had read it, or would.
+
+The conversation the query belonged to had not stopped. It had simply been taken into another room, and the door had been closed from the other side, gently and without any sound at all.
+
+He had been in the Compact forty years, and he knew that kind of quiet. He had sent it down the stairs himself, once or twice, to offices whose questions he had not wished to hear a second time.
+
+He filed the half-sheet with the query and his answers, in the drawer where he kept the struck draft of his advisory from the beginning of the year. Then he went home.
+
+He walked, as he always walked, by the river road under the bare trees, with the snow squeaking under his boots and the lamps coming on one by one along the far bank.
+
+He did not think about the query. He thought, for no reason he could have given, about the steward at the confluence, a man he would never meet, sitting up late over his closing report with his pen, and deciding after some struggle to write *it must be admitted*, and being glad of it.
+
+The next morning he came in at the second bell, as always. He read the day's first bundle, as always. And then, before he had opened the second, he wrote out a direction in his own hand and gave it to his clerk.
+
+It ordered the observation files for the continental finals at Norhold to his desk. It wanted all of them: the seating of the Compact's row in the Concourse gallery, the rotation of the observation officers, the liaison papers between the observation office and the tournament's adjudication office, and every instruction that had gone out under any of them.
+
+Nothing in his grade required him to see those files. Nothing in his duties touched them. The finals lay a long road and two offices away from anything he was answerable for.
+
+His clerk read the direction twice, entered it in the day book, and went to fetch the files. If he wondered about it, he did his wondering in the corridor.
+
+Vastin did not explain the order to his clerk. He found, sitting at his table with the pigeons outside, that he had not explained it to himself either.
+
+He looked for the reason, as he would have looked for a missing figure in another man's column, and it was not there. There was only the order, written in his own hand, and the knowledge that he had wanted to write it.
+
+He let that stand. A man who keeps an honest instrument must sometimes write down a reading he cannot yet account for, rather than leave it out until he can. He wrote nothing about it anywhere.
+
+The files came up the stair in the afternoon in two boxes. He had them set on the chair beside the table, where he could see them while he worked.

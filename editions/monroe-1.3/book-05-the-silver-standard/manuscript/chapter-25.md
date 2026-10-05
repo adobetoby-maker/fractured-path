@@ -1,0 +1,297 @@
+# Chapter 25 — A Bracket of Ceilings
+
+Assessor Havel had his rotation sheet the same week, on a Fourth-day, from the hand of a junior clerk who did not know what was on it.
+
+*Continental finals, Norhold. Observation support. Seat two of six.* There was a date for the coach and a list of what to bring, and at the foot of the list, in the same type, *Read the qualifying files before departure*.
+
+He read them that evening at his own table, in his rooms over the chandler's, with the lamp turned up and his right hand resting on the cloth beside the pages. The web of the thumb ached, as it always did by evening now, and he opened and closed the hand twice before he trusted it with the first sheet.
+
+There were three qualifying files from the western region, one for each house. He read the two older houses' files first, completely, because they were first in the bundle, and then he read Halcenvane's.
+
+He had read it before. He had read it at Ardenmere, before it was a file, when it was a form with four questions on it and a boy on a pump step. He had read it at Greyvane across the end of a hearing table, and on the bluff with the rain coming down on the canvas. Now it had a season grown onto it: four meets, thirteen exhibitions, a column of figures, a house first in its region. It was thicker than any file on the boy had ever been, and in the administrative layer underneath it, where nobody but a records officer ever looked, the same mark stood where it had always stood, as plain and as orphaned as on the day he had first found it.
+
+He did not stop at it. He read past it at the pace he read everything, and finished the file, and squared it, and set it with the others.
+
+Then he packed.
+
+He packed as he did everything, from a list, ticking as he went. There were shirts and collars and the good coat, and the recording case with its glass and its rolls and the spare spindle. There were the three manuals a seat officer carried to a continental sitting: the observation manual, the rotation manual, and the thin grey one on courtesy toward foreign officials, which nobody had ever been known to open. He laid the three manuals in the bottom of the kit, flat, one on another.
+
+Then he went to the drawer.
+
+The notebook had a cardboard cover, soft at the corners, and ninety pages, and four of them had been written on. Between postings it lived in the locked drawer of his desk, under the spare blotters. On postings it lived in the inside pocket of his coat, over his heart, where his hand could find it without anybody seeing his hand move. Those were the only two places it had lived since a cold morning at Ardenmere, and it had never once lived anywhere else.
+
+He took it out of the drawer, and stood holding it, and looked at the kit.
+
+Then he opened the kit and put the notebook in between the second manual and the third, where it lay flat and grey among the grey manuals and looked like nothing at all. It looked like a man's working notes on the rotation rules, and anybody turning over the kit would have passed it without a second glance.
+
+He closed the kit, and buckled it, and set it by the door.
+
+It was only when he had turned down the lamp and was standing at the window in the dark that he noticed what he had done.
+
+He had not put it in his pocket. He had always put it in his pocket. A notebook in a pocket goes where the man goes, and stays with him, and comes out only when he chooses. A notebook in a kit is luggage, carried to a place and unpacked there and laid out on a table among the papers of the work. He had packed it like part of the work.
+
+He stood at the dark window for some time with that.
+
+He had been a monitoring officer for most of his working life, and the first thing a monitoring officer learns is to watch for the moment when a pattern changes. A man who has crossed a certain bridge every morning for ten years and one morning takes the ferry has not done anything unlawful; he has only done something new, and the new thing is worth writing down in a ruled book. Havel had written down a great many such things about a great many men.
+
+He did not write this one down. There was no fifth entry. The rule of the notebook was that it held what had happened and nothing of what he made of it. He had broken that rule once, on the bluff, and did not mean to make a habit of it.
+
+But he noticed, standing there, that he had changed his pattern. He noticed it as precisely as he would have noticed it in anybody else, and then he went to bed without unpacking the kit to put it right.
+
+---
+
+Rooke reorganized the house for Norhold on the first morning of the cold term, and he did it on a single sheet.
+
+He pinned the sheet to the board in the long upper room over the Blade hall, where the squad had met at the beginning of the year. It was cold up there now, and the tall windows down one side were white with frost to the height of a man's head, and the lamps had been lit at the seventh bell because the day had not properly come. The five of them stood in front of the board in their coats with the two reserves behind them, and read it.
+
+At the top, in Rooke's square capitals, it said: *A BRACKET OF CEILINGS.*
+
+Under that were five lines, one for each of them.
+
+*LIRA. Zerin, from the times. Build her on the oak until you can fight what you've built.*
+
+*BROM. Marek, from the notations. Find your joins before he does.*
+
+*KARIS. Norhold. All of it. From its provinces.*
+
+*EPHRAM. The round of sixteen. And: trial caller.*
+
+*CAEL. Shield. The Shield reserve, every second day. Learn his clock until you could keep it for him.*
+
+"Questions," said Rooke, from behind them. It was not a question.
+
+Nobody said anything for a moment. Then Ephram, who had read the fourth line three times, turned round.
+
+"Trial caller," he said.
+
+"Trial caller," said Rooke. "The team trial at Norhold is squads of five, on a scenario floor, against objectives. Somebody has to call it. It's you."
+
+"Why me?"
+
+Rooke looked at him. Behind him the frost on the windows caught the lamplight and glittered.
+
+"Because you write everything down," said Rooke. "Because you know where everybody on this floor is weakest, and you've never once used it against them outside a ring. Because you lost the final at the confluence by a quarter of a beat and came off the floor and carried trestles." He turned back to the board. "And because one day somebody is going to make you captain of something, and I'd like you to have practised first."
+
+Ephram stood very still. His ears went slowly red, all the way round.
+
+"Yes," he said at last. "All right. Yes."
+
+"Good. You'll learn the trial rules when Norhold prints them. They don't send them before the orientation; they never have. Until then you'll learn the floor." Rooke tapped the fifth line. "The squad is five. Four of you are certain. The fifth place is his, until a clerk at Norhold tells me otherwise. The Shield reserve learns the fifth place too, every drill, in case a clerk does." He looked at the Shield reserve, who had gone pale. "You'll travel. You'll want to be ready."
+
+"Yes, sir."
+
+Karis had been reading the third line all this time with her lips pressed together. Now she looked up.
+
+"All of it," she said.
+
+"All of it. Fourteen delegations, near enough. I don't want their fighters. I'll have their fighters from the index, the same as everybody else. I want to know where they come from." Rooke folded his arms. "Every house fights the way its country taught it. Coast houses fight on wet floors. Hill houses fight on stone. Rhagen fights by doctrine and Auremont by program, and the river houses fight as if the floor might move. I want Norhold built from its provinces, so that when a fighter steps out of a gate, we know what ground he grew up on before he's taken his coat off."
+
+"That's a great deal of reading," said Karis.
+
+"Yes," said Rooke. "You'd be insulted by less."
+
+She did not deny it.
+
+Cael read his own line again. *Learn his clock until you could keep it for him.* He thought of the caravan captain's panes, and the clock, and the change of guard, and felt the small warm satisfaction of a man reading the description of a lesson he has already learned.
+
+"Why Shield?" he said.
+
+"Because whoever volunteers for you at Norhold won't be a quarry foreman," said Rooke. "He'll be sent. He'll come from a house that wants to survey you, and survey is what doctrine houses do, and doctrine houses put Shields at the front of everything." He turned to go. "You had a good bout with a Bronze at the confluence. I watched it. Find out if it was the Bronze or you."
+
+He went down the stair, and the squad stood in front of the board for some time afterward in their coats, each reading his own line and then, when he thought nobody was looking, everybody else's.
+
+"A bracket of ceilings," said Brom at last, slowly. "He's been saving that since the slate country."
+
+"He said it at the coaches' supper," said Lira.
+
+"He said it," said Brom. "Now he's built it."
+
+Karis was still looking at the third line. "He's never given me a whole city before," she said, to nobody in particular. She did not sound displeased.
+
+Cael looked at the five lines a while longer. A season ago the board in this room had carried meets and dates and floors, and the season's whole question had been a line on a circular. Now there was no line anywhere on the sheet. There were five people's names, and against each of them the hardest thing that person would meet at Norhold, written down plainly by a man who had thought about each of them separately for a long time. He understood, standing there in his coat, that Rooke had stopped coaching a house toward a threshold. He was coaching five fighters toward five ceilings, one at a time, and he had been planning it since the slate country.
+
+---
+
+Lira built her Zerin on the sprung oak in the second week, with chalk and a counting-string and the extract from the quarry town flattened under a stone at the edge of the floor.
+
+She did it the only way it could be done, which was from the numbers. Nobody at Halcenvane had ever seen Zerin fight, and there was no likeness of her in Ostrand and no account of her bouts in any meet record the house could buy, because Auremont fought its own region's meets far away to the east and sent nothing west but scouts. So there were only the figures in the extract's block. Burst intervals and closing speed, the length of a long sequenced run, a time for a turn. Beside the closing speed stood the small mark and the examiner's initials that meant somebody had refused to believe it and measured it again.
+
+Lira had had them by heart since the quay steps.
+
+The reserves were pressed into service as Zerin's furniture. The Shield reserve held one end of the counting-string and the Stone reserve the other, and they stood at the chalk marks like a pair of gateposts while Lira ran between them. Brom kept the count on the bench with a spoon against his mug, because he said it was the only instrument in the house he trusted, and Gault, passing through, stopped to watch and went away again looking pained.
+
+"Mark me a burst," she said to Cael, on the first morning. "Her distance. From her closing speed and her interval."
+
+He worked it out with a pencil on the back of the extract and chalked two marks on the oak. They were a good deal further apart than Lira's own.
+
+She looked at them for a while, and then went to the first mark and burst to the second at her full rate, and came down out of the landing beat a stride short.
+
+"Again," she said.
+
+She did it again, and came down a stride short again. The third time she came down half a stride short and stood on the oak breathing hard, looking at the second mark as though it had said something rude to her.
+
+"She does that," said Lira, "and then does it again before I've got my breath. That's the interval." She pointed at the figure on the extract with her toe. "Look at it. Look how short."
+
+They worked at it all morning, and every morning of that week. Lira ran Zerin's distances and could not quite reach them. Then she ran Zerin's intervals at her own distances and could reach them, just, three times running and not a fourth. Cael stood off with the read and watched her weight, and called the moment of each burst before it came. He was looking for the thing every Wind fighter has: the moment before a burst when the body draws itself together, setting the hips and loading the foot, like a cat gathering itself on the top of a wall before it jumps. On the oak, in the old days, he had called Lira's gathers a fraction early every time, and it was how the read had first learned her.
+
+In the second week they tried to build Zerin's gathers.
+
+They could not, though they sat on the edge of the oak with the extract between them and the chalk marks all round and did the arithmetic three times, and it came out the same each time. Between the end of one of Zerin's bursts and the start of the next there was not enough time for a gather, or for any gather either of them had ever seen. Lira's own was the quickest Cael knew, and it would not fit into Zerin's interval with anything to spare.
+
+"So she doesn't gather," said Lira.
+
+"Everybody gathers."
+
+"Then she gathers somewhere we can't see it." Lira pulled her knees up and put her chin on them. "While she's still landing, maybe. In the landing beat. Or before the first one, and then she never has to again." She glared at the figures. "Or the examiner can't count."
+
+"He measured it twice. He signed it."
+
+"I know he did." She was quiet for a while. "I can't build what I can't find. I can build her distances, and I can almost build her intervals. I can't build the bit in the middle, and the bit in the middle is the whole of her."
+
+Cael looked at the chalk marks on the oak, the second always a stride too far from the first.
+
+"Then don't build it," he said. "Build everything round it. When you meet her, you'll find the middle in the first exchange or you won't. Either way you'll know the rest already."
+
+Lira looked at him sideways.
+
+"That's what you do," she said. "With everybody. You build everything you can see, and leave a hole the shape of the thing you can't, and go and find out."
+
+"Yes."
+
+"I hate it." She got up and went back to the first mark. "Again."
+
+It was in that week, too, that she began running her own intervals shorter, without saying she was doing it, and Cael noticed it on the read in the timing of her landings, which came a little sooner after each other every morning, a fraction at a time, like a pound added to the bar each week and never mentioned. By the end of the block she was not much nearer Zerin's figures, but she was nearer them than she had been at the quay steps, and Cael wrote the difference down in the Log without telling her he had.
+
+---
+
+Brom pinned Marek's notations to the wall above his bed on the first night of the block, where he would see them first thing every morning and last thing every night.
+
+He did it with four tacks and great care, squaring the pages to the joint of the plaster, and then sat on the bed and looked at them. Cael, coming in to borrow a strap, found him there and did not go out again.
+
+"You don't read things alone," said Cael.
+
+"I'm not reading them." Brom did not take his eyes off the pages. "I've read them. I read them at the quarry town with you at my shoulder, and again on the road, and again at the confluence. I know what they say." He nodded at the wall. "I'm letting them look at me."
+
+The notations were as short and dry as they had been in the slate country, and every first exchange in them was a verdict. Every touch was marked against a join, a place where one thing turned into another: the change of a guard from one hand to the other, the turn of a reset, the line of a shoulder as it set. Beside every touch stood the same small mark, *the same join, found and then worked*.
+
+"He'll find every join I've got," said Brom. "That's what he does. So I've been asking myself where my joins are." He pointed, without looking, at his own left side. "That's the one everybody will tell him about. Page three. The old seam. It's mended, and everybody who's bought my file knows it's mended, and they'll tell him anyway, because it's the only thing on page three worth the price."
+
+"It's mended."
+
+"It's mended for a man who comes at it straight. Rooke's nineteen exercises mend it for that." Brom turned his left hand over and looked at the palm. "Marek doesn't come at things straight. He comes at the place where they change. And my left side changes. When I turn to my left the guard goes from the right hand to the left, and there's a moment, a door, where it's in neither." He closed the hand. "Nobody's ever gone through that door. Nobody's ever been quick enough. He will be."
+
+"So close it."
+
+"You can't close a door you have to use. I turn left. Everybody turns left." Brom stood up. "But you can make it the strongest door in the house. So strong that when he finds it, he finds it's the last place he wants to be."
+
+He worked it for the whole of the block.
+
+He worked it in the Iron Skin hall in the mornings with the Stone reserve, turning left a hundred times, two hundred, while the reserve came at the door with an open hand. He worked it on the oak in the afternoons with Rooke, who came at it with a stick. He worked it with Cael in the evenings, because Cael's read could see the door open a fraction before it opened, and could tell him whether it was open a hair less than yesterday. It was. And then a hair less again.
+
+In the fourth week the Stone reserve stopped getting through it at all, and in the sixth Rooke's stick stopped getting through it. In the eighth Cael watched Brom turn left with the read at its sharpest, and the door was hardly there at all: there was only a heavy man changing hands so smoothly that the change happened inside his body, under his skin, where no hand could reach it.
+
+"That's the strongest door in the house," said Rooke, on the evening he saw it. He said it to the board rather than to Brom, and wrote one word on Brom's line, which was *Sound*.
+
+Brom read the word later, when Rooke had gone, and came back to the residence looking as Cael had seen him look perhaps four times in his life. It was the face of a man who has been priced right, by somebody whose pricing he trusts, and finds that he agrees with the figure.
+
+The notations stayed on the wall above his bed until the night before they left. Every night, before he blew out the lamp, he looked at them for a while, and they looked back.
+
+---
+
+Ephram learned to call the trial on a floor made of benches.
+
+Rooke built it for him in the long upper room at the end of the second week. There were three benches for platforms, one of them with a cushion on it to stand for higher ground, and a line of chairs down the middle to stand for a barrier, with two gaps. A flag on a stick stood at each end for the objectives, and chalk lines marked everything else. It looked like the aftermath of a very poor dinner party. Rooke said that every scenario floor in the world looked like that until it was built, and that most of them looked like it afterward.
+
+The squad was five: Lira, Brom, Karis, Ephram, and Cael in the fifth place, with the Shield reserve standing at the side to step into it when Rooke said. Every third drill Rooke said it, and Cael stood at the rail instead and watched his own place being filled by somebody else. It was a strange thing to watch. The four of them moved round the Shield reserve as they would have moved round him, a little more carefully, and the floor went on working without him in it. He had never once been on the outside of the four before. He found that he did not mind it, and that it taught him more about them in a morning than a month inside. The Stone reserve and two Blade third-years borrowed from the cohort made the other side, with Rooke behind them, calling theirs.
+
+Ephram stood at the back of his own squad with his file book in his hand and nothing in his face.
+
+"Call it," said Rooke.
+
+Ephram opened his mouth, and shut it, and opened it again.
+
+"Lira—" he said, and stopped, because Lira had already gone, fast down the side of the chairs, the way she always went. She was through the first gap and onto the cushioned bench before he had got her name out. Brom had gone after her because he always went after her, and Karis had stopped to look at the other side's arrangement, and Cael had gone where nobody else was, because that was what he did on any floor. The squad had become four people doing four sensible things in four directions. Rooke's three Blade and Stone fighters walked through the gap behind them, and took the flag, and stood holding it, looking embarrassed.
+
+"Again," said Rooke.
+
+It went like that for three days.
+
+It was not that Ephram did not know what to call. He knew. He had always known; he had the whole floor in his head the moment he looked at it, every gap and every bench, and where each of them was weakest. What he did not know was how to make four people who had fought alone all their lives hear him. He called too late, and he called too much. He called Lira's name when Lira had already decided, and Brom's when Brom had already moved, and to them it sounded like somebody behind you reading out the instructions after you have built the chair.
+
+On the fourth day he stopped calling names.
+
+He stood at the back with the file book shut and watched the first three breaths of the drill without saying anything at all, and then said one word, quite quietly.
+
+"North."
+
+Lira went north, and not because she had been told: she had been going to go somewhere, and the word arrived just before she chose, and north was a perfectly good place to go. Brom went after her. Karis, hearing *north*, looked south, and saw what Ephram had seen: the other side had left its flag with one man on it. Cael, who had been about to go wherever nobody was, found that where nobody was had just been named.
+
+"Gap," said Ephram. "Second."
+
+They took the flag in eleven breaths. Rooke's side never got to the barrier.
+
+Nobody said anything for a moment. Then Lira, standing on the cushioned bench with the flag in her hand, turned round and looked at Ephram for a long while.
+
+"One word," she said.
+
+"You don't need more," said Ephram. His ears were red, but his voice was perfectly steady. "You know what to do. You all do. You only need to know which way the rest of us are going before you go." He opened the file book and wrote something in it. "I was telling you how to fight. You don't need that. You need to be told where the floor is."
+
+Rooke, behind the other side, wrote something on his own sheet.
+
+"Again," he said. But he said it differently.
+
+By the end of the block Ephram could call the floor in a dozen words a drill, and the squad moved to them without hearing them. He could tell, too, from the back, a breath before anybody else, when a drill was going wrong. Cael watched him do it on the last morning, standing at the back of the squad with the file book closed under his arm, looking at the floor much as Rooke looked at it, already several minutes ahead of everybody on it and waiting, with some patience, for them to catch up.
+
+He was going to be a captain. Everybody in the room could see it now, except possibly Ephram.
+
+---
+
+Cael's own line on the board meant the Shield reserve, every second day, on the sprung oak, for the whole of the block.
+
+The Shield reserve was a third-year from a farming family in the river country, broad and fair and slow to speak, with a habit of apologizing to the floor when he slipped on it. He had been told in the first week of the year that he would travel with the squad and fight for nobody, and he had taken it without complaint. Now he had been told that he would spend ten weeks letting the provision boy take his coverage apart. He took that without complaint too, and asked only whether he might keep a note of what the provision boy did, so that he could learn something from it himself.
+
+"Keep it," said Rooke. "Show it to me."
+
+On the first morning Cael found his clock in four renewals.
+
+It was an honest clock and a slow one, the clock of a young man who had been taught to count and had never been asked to stop. Breath, plant, pane; then the same again on the next pane, at a steady five beats, round and round. He renewed the oldest first, as the caravan captain had. Every Shield on the circuit seemed to have been taught that, and Cael supposed it was simply true, as it was true that you led with your strong side.
+
+By the end of the first morning Cael could stand off and say the reserve's next breath aloud, a beat before he drew it.
+
+"Now," he said, on the second morning, and lit the first contact into the pane that was coming up.
+
+The pane came up cracked, as the captain's had. The reserve felt it go wrong under his hands and drew breath again to set it, and lost the beat, and the next pane along stood a beat too long and went thin. Cael walked into the thin place and put his palm on the reserve's shoulder.
+
+The reserve looked at the shoulder, and then at Cael, and then at his own hands.
+
+"That's not fair," he said, after some thought. "I didn't do anything wrong."
+
+"You didn't," said Cael. "That's why it works."
+
+He kept to two contacts a round, every round, though there was no crowd on the oak and no panel and nobody to count them but the Shield reserve. It was the circle's rule for public floors and had nothing to say about private ones. But a habit kept only where people were watching was not a habit. It was a performance. He had spent a year learning the difference, and he did not mean to forget it in a warm room at home.
+
+In the third week Rooke took the reserve aside and spoke to him for some minutes at the far end of the oak. When the reserve came back, his clock had changed.
+
+He no longer renewed on five beats. He renewed on four, then six, then five, then four again, in no order that Cael could find on the first morning. It was a clock with its numbers shuffled. For two sessions the reserve held his coverage against Cael for whole rounds, and went off the floor afterward looking quietly astonished at himself, and wrote a great deal in his note.
+
+On the third session Cael found what had not changed.
+
+The numbers had changed. The plant had not. Whatever the count, the reserve still had to plant his back foot before a pane came up, because a pane was a declaration and a declaration needed the floor under it. The read could see a planting foot through any shuffle of numbers. Cael stopped listening for the beat and started watching the foot. Every time it went down he knew a pane was coming up a breath after, and which pane, because the reserve still renewed the oldest first. Rooke had shuffled his count. He had not shuffled his order, and perhaps no Shield could.
+
+Cael lit the first contact on the next plant, and the cracked pane cost its beat, and the beat came out of the next pane's life, the same as ever.
+
+"He's found it again," said the reserve, to Rooke, from the floor. He did not sound upset. He sounded as if he had been shown a new road home.
+
+"He has," said Rooke. "Write down how."
+
+By the sixth week the reserve could not keep a pane on Cael for a whole round, whatever he did with his numbers. By the eighth he had stopped trying to hide the plant and had started trying to make it smaller. That was a better idea, and it made the work harder, and Cael enjoyed it more than anything he had done on the oak all term.
+
+He spent his bursts on it, too, when the work needed them. The oak gave its six a day, as it always had, and on the Shield reserve's mornings he seldom used more than three. The rest of the day's price he kept for the speed line with Lira in the afternoons.
+
+He wrote it in the Log at the end of the eighth week, and found that he was smiling while he wrote it.
+
+*The Shield reserve, eight weeks. He started with one clock and Rooke gave him a shuffled one, and both of them come down to the same thing: before a pane there's a plant, and the oldest goes first. Shuffle the numbers and the plant still shows; change the numbers and the order still holds. Watch the foot, find the change of guard, tax the pane that's coming up. Two contacts a round, and the beat it costs runs down the whole clock.*
+
+*I think Shield is solved. Not easy, but solved, like a lock once you've found where the pins are. I'd like to meet a Shield at Norhold now. I'd like to see whether the doctrine houses keep their clocks any better than the salt road does.*
+
+*Rooke watched the last session from the rail and said "Good" once, and then "One reserve", and went away. I think he meant it as praise. I've written it down in case he didn't.*
