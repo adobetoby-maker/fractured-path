@@ -915,7 +915,7 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 **Movement 8 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — applied (ch55 Log 'and it stayed in.'; ch53 '*eleven of eleven*'; plus the recheck's supplied ch13 erratum for the frame weights numbered one to five). Flag for the completion read: the baseline's 'first month' (ch49 Gault, followed by M8) vs 'second month' (ch48 Cael) — inherited, unresolved. Overlap 0/13, gates 0, probe 2%/7%.
 
-## After Movement 9 — BOOK END (chapters 57–62; repair r1 applied 2026-10-05; recheck pending)
+## After Movement 9 — BOOK END (chapters 57–62; repair r1 applied 2026-10-05; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - THE COMPILATION: Vastin sent the six-filing compilation back on the thirteenth (ch45/ch59 memory); it came home unmarked at the wing's counter at the sixth bell of the FOURTEENTH (ch48); Seln's four minutes of eyes and thumb that evening at the copying table, the counter clear; the cipher page records the fourteenth. The afternoon paper of the twenty-fourth brings only the delegation's CLOSING DOCKET (a signed return slip discharging the loan; 'No extract or copy retained') → the first master's chalked rule; 'one of three. probably the third.'
@@ -1005,3 +1005,5 @@ Karis's line: *Researcher notes: prediction untested at one instance.* Brom's po
 
 **Watchers.** Two and two, on the bell, unchanged through the last evening of term.
 
+
+**Movement 9 CLOSED (2026-10-05) → BOOK 4 DRAFT COMPLETE (ch1–62).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch62 Vastin's not-looking bounded to 'that whole morning' (he did look at Cael in the ch56 interview); ch59 'a good way under the record' made a judgment; '*Ninety-four minutes.*'; a ch59 'never once found' echo). Overlap 0/32, gates 0, probe 2%/9%.

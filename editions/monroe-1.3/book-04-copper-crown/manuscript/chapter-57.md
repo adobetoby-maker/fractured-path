@@ -44,7 +44,7 @@ Bracken had the enrollment book open on the counter, the great ruled volume the 
 
 "I wanted you here when it went in," said Bracken. "Not because it's interesting. It's the dullest line I'll write all month." With one finger he swung the book round on the counter until the new line lay square to Cael's eye. "But it's the line every other line on this page has been waiting for. A provision only lives as long as somebody keeps writing it down."
 
-Cael read it twice. Then he read the line above it, the baseline from his second month, and the line above that, the enrollment itself, with the folder marked in pencil *94 min.* lying beside the book where Bracken had clearly laid it on purpose.
+Cael read it twice. Then he read the line above it, the baseline from his second month, and the line above that, the enrollment itself, with the folder marked in pencil *Ninety-four minutes.* lying beside the book where Bracken had clearly laid it on purpose.
 
 "Thank you," he said, and then, before Bracken could open his mouth, "I know. Correct filing."
 
