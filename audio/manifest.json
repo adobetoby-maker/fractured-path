@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-05T02:43:28Z",
+  "generated": "2026-10-05T04:02:04Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -886,7 +886,7 @@
       "title": "The Shattered (Monroe 1.3 edition)",
       "edition": "monroe-1.3",
       "totalChapters": 60,
-      "renderedChapters": 8,
+      "renderedChapters": 9,
       "chapters": [
         {
           "number": 1,
@@ -1010,6 +1010,27 @@
               "sha256": "19625df3275b534cf6cf2bfef06ee54984578f30df694a769a00b8e7be9c2912",
               "sourceSha256": "0015c852a40575c864b4f7104cecbbbd195f16524c8b2c4e444bf293631e0eeb",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/chapter-06.mp3",
+              "note": "Listening audition, not production-approved. Breeze TTS 2 (research and non-commercial licence; evaluation only), original Calder clone, directed per segment after a full-chapter read. Pronunciations owner-confirmed: Cael, Lira; others unconfirmed."
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "title": "Chapter 7 — The Open Gate",
+          "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-07.md",
+          "renders": [
+            {
+              "render": "breeze-directed",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Breeze TTS 2 · Calder · directed",
+              "methodId": "breeze-tts2-calder-directed",
+              "finishState": "listening-audition-not-production-approved",
+              "file": "audio/fractured-path-monroe-1.3-book-01/chapter-07.mp3",
+              "bytes": 13863405,
+              "durationSec": 1732.83,
+              "sha256": "1dfc4c24c4515ca14f29a0c9a27e5bdf4334b9e7ad5b22f4c9ed30ba98c5efbb",
+              "sourceSha256": "be15f141cd219e38642cdd5f8cab7a2a564cded8201d1566836f97a45203f200",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/chapter-07.mp3",
               "note": "Listening audition, not production-approved. Breeze TTS 2 (research and non-commercial licence; evaluation only), original Calder clone, directed per segment after a full-chapter read. Pronunciations owner-confirmed: Cael, Lira; others unconfirmed."
             }
           ]
