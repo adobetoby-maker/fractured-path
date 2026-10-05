@@ -274,3 +274,97 @@ The words *tier*, *rank* and *ladder* hardly appear outside the formalities.
 8. **Lira's development** is held to two beats with distance, per the packet: she does not attend the mornings and has not decided about Brom. The source's "I like him" stays reserved for M5 (§8 item 24).
 9. **Length**: 36,790 words, 3% under budget. ch27–29 run 4,600–4,900 words; the bout chapters run 5,400–5,700.
 10. **Procedure**: `formula_metrics.py` was run three times, not once. The first run was on ch23 alone, early, which was a slip. AUTHORSHIP gives the details.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), 2026-10-05, following `REPAIR-BRIEF.md` (Sol, editorial and cold). Every change was made in place by reading, never by script. Only ch25–29 and this report were edited; ch23–24 needed nothing. No git commands were run.
+
+### Changelist
+
+1. **The spoken word (P1).**
+   - **ch26, market wall:** `"I'm [SHATTERED]," said Cael.` now reads `"Shattered," said Cael. "That's my word. The one the hall in Denvash wrote down."`
+     - It is the plain spoken word, unbracketed, said by Cael himself, first.
+     - It avoids "I'm shattered", which a listener could hear as "I'm exhausted".
+     - The reciprocal disclosure around it is unchanged: Brom's nod, "I know", the network's sentence, *Assessed*, the read.
+   - **Sweep of ch23–29:** no other bracketed token is spoken or thought. The only brackets left are `[unnamed]` inside the verbatim notice (ch28), which is a document read word for word.
+2. **Brom's cutaway (P1), ch25 scene 1, from 950 to 581 words.**
+   - **Cut:**
+     - the blow-by-blow recap of exchange one;
+     - the replay of the reactive and read Wind bursts;
+     - most of the floor-learning paragraph;
+     - the replay of Cael's touches in the third.
+   - **Opens on Brom-only knowledge:**
+     - he recognised the dock partner's afternoon on the first blow, and the paid step;
+     - he throws people past the gap on purpose ("further than any blow needed… every time and on purpose");
+     - he felt Pressure gather toward the arm twice and be held;
+     - the Wind-like flicker went dim in the second;
+     - "he did not want the bout to be over yet".
+   - **Scene 2 now opens** "In the third the boy was very quiet on the read" and reaches the absence within three short paragraphs.
+   - **Kept whole:**
+     - the shelves;
+     - the read going over bare boards;
+     - his body not knowing where to be hard;
+     - believing the read over his eyes;
+     - the blow that hurts;
+     - the twelve-year-old answering;
+     - scene 3: checking eyes against read, the abandoned solutions, the two sounds, the reset and the decision not to go looking.
+   - The cutaway is now ≈2,480 words (packet ≈2,800). It keeps all of Brom's permitted knowledge.
+3. **One clean comparison (P2), ch29, Log reasoning after the Iron-adjacent entry.**
+   - Cael notices the temptation ("as neatly as a lock and a key. That neatness was the reason not to trust it").
+   - He then sets down, in pencil on Tuesday's page, only evidence:
+
+     | This (Iron-adjacent) | The third exchange |
+     |---|---|
+     | a hush and a notice | neither |
+     | on my skin, felt | nothing to feel, before or after |
+     | takes something in | took nothing in |
+     | costs a band | costs nothing I can find |
+     | opens only when still and not aiming | came while moving, mid-exchange |
+     | a piece of his read | his read finding nobody there |
+
+   - It closes: *One I have and can't use yet. The other I never had, and can't find. It stays where it fell.*
+   - No source or theory is offered. The phrase reserved for session nine ("Still don't know what that was") is deliberately not used.
+4. **Rhythm and density (P3), ch27–29.**
+   - **The touch/hold/turn sequence is said once** (ch27, first morning: breath heard, the well, the turn).
+   - **Restatements removed:**
+     - the ch27 grey-book line *From the knuckles: the hold is a well* (it now records only what is new: *soft first when it's new; hard from the first touch by the third time. Recovery…*);
+     - "He hit, and was answered, and came back to his cross, and hit" (ch27, second morning);
+     - "The well. The turn." in the quarter test;
+     - ch28's "the lean… and the well, and the angle the turn came out at";
+     - ch28's "went back to his cross, and set his feet, and hit, and was answered…";
+     - ch29's Log *Source* recap of the three mornings;
+     - ch29's doubled "With the hip leaning, it goes. With the hollow stirring, it goes."
+   - **Flat one-thought runs joined**, for example: "a stupid way to fight and a very good way to find something out"; "one step was better than two, and a turn over the good knee better than one over the bad"; "the alcove went on, and the lamp went on burning, and Brom was…"; "He was waiting now, for a boy with a headache…".
+   - **Densest paragraphs broken at thought turns**, about 19 breaks:
+     - ch27: the knuckle passage, the texture/cost passage, the shoulder, the lean, carefulness and "Then he thought about the column";
+     - ch28: the quiet; "There was no mistaking it"; *Pressure read*; "But he had watched him already";
+     - ch29: the Wind's first winter; the gaze attempt; the trained attention; the forty; the fire at his back and "And it had a shape"; the waiting; the shouldered-aside listening; the closing lamp.
+   - **Untouched:** speech, the notice, Log field labels, and the bout's landing beats.
+
+### Checks after repair
+
+- `ed.sh overlap book-02-iron-circuit 4`: **0 unprotected, 7 protected** (unchanged).
+- `ed.sh gates book-02-iron-circuit 4`: reader_standard=0, metadata=0 and modern=0 on all seven chapters.
+- `sweep_probe.sh book-02-iron-circuit 4 4`: **1% skeleton, 12% close**. No chapter is above 2% skeleton or 15% close; ch25 is at 2% / 15%, and its ≥0.50 pairs are the protected floor exchange.
+- **Length:** 36,457 words by wc (36,356 prose by metrics), within 35,500–38,000. By chapter: ch23 5,420 · ch24 5,686 · ch25 5,039 · ch26 5,757 · ch27 4,895 · ch28 4,553 · ch29 5,107.
+- `formula_metrics.py` on ch23–29:
+
+| Measure | Working range | Before r1 | After r1 |
+|---|---|---|---|
+| Words (prose) | 35,500–38,000 (brief) | 36,689 | **36,356** |
+| Sentence mean | 13–15.5 | 13.54 | **13.63** |
+| Median | — | 9 | 9 |
+| SD (pop.) | — | 11.92 | 12.00 |
+| ≤5-word share | up to ~34% | 30.1% | 30.2% |
+| ≥40-word share | 2.5–4.5% | 4.1% | **4.3%** |
+| Paragraph mean / median | median up to ~30 | 40.99 / 26 | **40.0 / 26** |
+| Words per scene | 850–1,050 | 874.0 | **866.0** |
+| Flesch-Kincaid grade | 3.5–6 | 3.68 | 3.72 |
+| Flesch reading ease | — (72.3) | 92.8 | 92.7 |
+
+All three primary measures are in range.
+- **Words per scene** fell slightly, because the cutaway was cut and the scene count is unchanged.
+- **Paragraph mean** moved only a little (40.99 to 40.0). Most of the long paragraphs are in ch23–26, which the brief did not open for this pass, and in Brom's spoken story, which is speech.
+- **Median and Reading Ease** stay where dialogue holds them.
+
+**POV after repair:** Brom ≈2,480 words; Cael ≈92%.

@@ -91,3 +91,1643 @@ source-character study are private research, not drafting inputs. Read
 `references/combined-path-adapter.md` only for the owner's selected 600-year Kindling
 proposal; it is not a default premise for new books.
 
+exec
+/bin/zsh -lc "pwd && rg --files -g 'AGENTS.md' -g 'RECHECK-TEMPLATE.md' -g 'PIPELINE.md' -g 'VOICE.md' -g 'FORMULA.md' -g 'FORMULA_REVIEW.md' -g 'REVIEW.md' /Users/drive/penname/pennamecodexv3 /Users/drive/penname/research editions/monroe-1.3 | sort" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+/Users/drive/fractured-path-monroe13
+/Users/drive/penname/pennamecodexv3/craft/VOICE.md
+/Users/drive/penname/pennamecodexv3/pen-names/fantasy-author-a/PIPELINE.md
+/Users/drive/penname/pennamecodexv3/pen-names/fantasy-author-a/VOICE.md
+/Users/drive/penname/pennamecodexv3/pen-names/fantasyau1.1/VOICE.md
+/Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md
+/Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md
+/Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md
+/Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md
+/Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md
+/Users/drive/penname/pennamecodexv3/pen-names/science-fiction-author-b/PIPELINE.md
+/Users/drive/penname/pennamecodexv3/pen-names/science-fiction-author-b/VOICE.md
+editions/monroe-1.3/tools/RECHECK-TEMPLATE.md
+
+exec
+/bin/zsh -lc "wc -l /Users/drive/penname/pennamecodexv3/pen-names/oconnor/{PIPELINE.md,VOICE.md,FORMULA.md,FORMULA_REVIEW.md,REVIEW.md} /Users/drive/penname/research/ironprince-craft-formula.md editions/monroe-1.3/tools/RECHECK-TEMPLATE.md && sed -n '1,260p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md && sed -n '1,260p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md && sed -n '1,300p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     131 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md
+     120 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md
+      38 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md
+      34 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md
+      44 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md
+     179 /Users/drive/penname/research/ironprince-craft-formula.md
+      22 editions/monroe-1.3/tools/RECHECK-TEMPLATE.md
+     568 total
+# O'Connor 1.3.0 — Monroe movement loops
+
+Foundation: Monroe Jackson 1.3.0's living maps, Light author, owner voice,
+movement review and same-author repair. As of the owner's 2026-09-29 update, Monroe
+1.3 Light also uses open-range movements of six or more chapters and optional chapter cards.
+O'Connor retains its own formula and author-selection rules.
+The repository still has mixed legacy version labels; this is a seat-level version,
+not a claim that the whole repository has been upgraded.
+
+## Roles and identity
+
+Codex builds and maintains the seat, prepares context and coordinates reviews.
+Claude Opus 5.5 writes and repairs the manuscript by default; Fable runs only when
+the owner names it for that run. Retain the same author for repairs. No silent
+author substitution. Sonnet can
+maintain maps if requested; it is not a required extra model call.
+
+Record public byline Monroe Jackson, seat `oconnor`, seat version `1.3.0`,
+foundation `Monroe Jackson 1.3.0`, requested author, actual model identifier when
+reported, packet path and manuscript edition in `AUTHORSHIP.md`. An unverified
+model identifier stays unknown. Prompts do not train model weights.
+
+The owner supplies character names. Plan with role placeholders such as [LEAD]
+and [FRIEND] until names are supplied; never turn placeholder names into canon.
+Do not draft the new book until its premise and necessary cast names are approved.
+
+## Series and book planning
+
+Read the owner's premise and existing canon. Apply `FORMULA.md` to build a
+progression-led series with original people, mechanisms and events. The compiler
+includes sections 2–6 and 8–9 of `research/ironprince-craft-formula.md` verbatim:
+sentence distributions, readability, paragraph/scene rhythm, progression density,
+development cadence and POV allocation are active design targets. Preserve the
+source's distinction between primary targets, directional proxies and optional
+secondary signals. Do not replace the formula with generic advice. Reuse existing
+project files rather than proliferating paperwork:
+
+- `SERIES_MAP.md`: NOW, NEXT, HORIZON; recurring pleasure, trajectories, connections.
+- `BOOK_MAP.md`: movement pressures, important promises/payoffs, intended ending.
+- `CHARACTERS.md`: owner names, private wants, relationships, distinct voices.
+- `UNIVERSE_BIBLE.md`: rules, limits, chronology, reserved truths.
+- `STATE_LEDGER.md`: current bodies, knowledge, resources and unresolved threads.
+
+Keep possible ideas distinct from planned events and established canon. Preserve
+owner decisions; manuscript discoveries can revise plans, not quietly overwrite
+canon. The optional 600-year Kindling proposal is used only when chosen; then read
+`references/combined-path-adapter.md` and its source proposal in full.
+
+## One movement: six or more chapters
+
+Six is the floor, eight the compiler default, and there is no upper cap: give the
+author the length the arc needs, up to the whole book when the owner asks. Choose
+the batch before drafting. One compact brief gives entry state, movement goal/pressure, a few
+consequential turns or promises, boundaries on reserved revelations, and room to
+invent. List output paths and relevant canon references. Individual chapter cards,
+dialogue beats and blow-by-blow choreography are not required. See `MOVEMENT_BRIEF.md`.
+
+The author owns scene selection, chapter boundaries, tactics, conversation,
+discoveries, humor and the route through the movement. Plans describe intended
+change, not every action. Protect spacious, developed fights; do not compress real
+chapters into summaries to fit a response. Load optional fight layers only for a
+specified scene/problem; do not stack every available layer by default.
+
+Read the previous ending and relevant canon before drafting. Load approved owner
+voice and a few relevant examples; preserve all applicable owner protections.
+Write forward in one author session through the full movement. Between chapters,
+only carry state and correct a contradiction that would invalidate what follows.
+Do not stop for scoring, stylistic editing, frequency checks or approval per chapter.
+
+A movement of any length is one creative run, not necessarily one API response. When
+output/context limits intervene, save complete chapters and a precise continuation
+checkpoint; resume the same author and movement without triggering editing. Record
+any session restart. Never label a partial movement complete or truncate scenes
+to claim that the entire batch fitted.
+
+## A few passes after the whole run
+
+1. **Continuity and story pass:** read all chapters together; check state, rules,
+   knowledge, names, seams, cause/effect, progression and relationships. Read the
+   preceding/following join when available. Separate canon errors from plan changes.
+   Include numerical formula alignment here with `review --formula-check`; read
+   `FORMULA_REVIEW.md`. Report target vs observed results and cumulative drift.
+   Do not invent measurements or silently change the requested target values.
+2. **Reader and clarity pass:** read for pull, humor, action experience, attachment,
+   punctuation and one-pass comprehension. Use `REVIEW.md` for 13-year-old/adult
+   lenses. Label self-review and simulated readers honestly. A fresh-context cold
+   read gets manuscript only; it is not a real audience measurement.
+3. **One consolidated author repair:** combine at most three high-leverage
+   priorities, preserving named strengths. The same Opus/Fable repairs in reading
+   order. Recheck only the findings and changed joins. A second repair is for an
+   unresolved concrete defect, not an improved average score. Escalate a structural
+   choice to the owner instead of looping indefinitely.
+
+Freeze a recoverable edition before repairs. Owner-protected text remains exact;
+ask before altering it. Punctuation-only edits are word-locked and validated;
+meaning changes are explicit manuscript revisions. Untouched AI text and automated
+repairs do not become owner-voice training evidence. Accepted owner edits use the
+existing Monroe trainer. Update maps/ledger from surviving prose, then move on.
+
+At book completion read the whole arc, progression, relationships and payoffs;
+repair in movement-sized units, then line/listening proof. At series turns check
+power inflation, repeated plots and cross-series consequences. Narration markup
+belongs to the manuscript edition and does not certify editorial quality.
+
+## Invocation
+
+Use `$oconnor` in Codex, giving the project, task and Opus or Fable.
+An activation or seat-build request does not initiate a novel or spend model credits.
+
+Compile prompts locally (no model call):
+
+```bash
+/Users/drive/penname/harness/oconnor.sh plan --root /path/to/series \
+  --idea 'My premise; I will supply the names'   # --author defaults to opus
+/Users/drive/penname/harness/oconnor.sh movement --root /path/to/book \
+  --author fable --packet packets/MOVEMENT-001.md --start 1 --count 8 \
+  --context CHARACTERS.md --context STATE_LEDGER.md
+/Users/drive/penname/harness/oconnor.sh review --root /path/to/book --author fable \
+  --chapter manuscript/chapter-01.md --chapter manuscript/chapter-02.md
+```
+
+For review, repeat `--chapter` for EVERY chapter in the completed movement in order;
+two paths above only demonstrate argument syntax. Include canon through `--context`
+for an editorial pass; omit it for a manuscript-only cold-reader context.
+Add `--formula-check` to the editorial review, not to the blind cold read.
+Export the standalone numerical author prompt with
+`/Users/drive/penname/harness/oconnor.sh formula --output /path/to/new.prompt.md`.
+`--output FILE` creates a new prompt without overwriting. The compiler does not
+launch the author. On an authorized writing request, use the existing authenticated
+author CLI with the explicit model and compiled prompt; verify model availability
+and report an unavailable author instead of substituting Codex.
+# O'Connor seat 1.3.0 — Monroe Jackson
+
+Internal seat ID: `oconnor`. Public byline: Monroe Jackson unless the owner chooses
+another. Foundation: Monroe Jackson 1.3.0 living-map/Light architecture. Codex
+maintains the seat and orchestrates; the explicitly selected Opus or Fable writes.
+Neither model is established as universally best by this research. This is an
+original progression-adventure voice. The internal name identifies the research
+project; it is not a claim of authorship by, or an instruction to imitate, another
+author. Seat version and underlying model are recorded separately.
+
+## The reader promise
+
+Use `FORMULA.md` alongside this profile. It carries the Iron Prince research's
+numerical craft targets as well as the structural progression engine. They are
+active author instructions, not optional background. Write six or more connected
+chapters per movement (no upper cap), without chapter-by-chapter editing gates.
+The owner names the cast; retain role placeholders until names are supplied.
+
+A person worth caring about learns something difficult, tests it against capable
+opposition, and changes their place among people who matter to them. Let the reader
+enjoy getting better with them. Friendship, rivalry, wonder, danger, and humor give
+the effort meaning. Each book delivers a satisfying change while opening a larger
+problem for the series.
+
+## What this author notices
+
+Notice the practical detail that changes a choice: a grip failing, a friend making
+room, an opponent protecting the wrong side, a familiar tool behaving differently.
+Close third person is the default. Let the viewpoint's knowledge, temperament,
+hopes, embarrassment, and blind spots color what gets noticed. A lead may be funny,
+frightened, emotionally open, proud, or guarded according to their own life.
+Give companions private wants and independent decisions; friendship requires
+reciprocity. A mentor's competence and investment should be observable. A rival
+needs a credible objective and the ability to adapt.
+
+Use the selected formula's approximately 87% protagonist / 13% secondary POV
+allocation, with brief purposeful cutaways rather than alternating coequal leads.
+Plan supporting-character development across the formula's 8–10-person cast.
+Do not change these allocations without the owner's direction.
+
+## Sentences people can read once
+
+Use clear sentences with varied weight. Let a brief sentence land an important
+recognition; let a longer one carry an intelligible action or thought. Put the
+subject and action where a listener can follow them. Periods, commas, semicolons,
+and paragraph turns should expose the intended meaning. Repair comma splices and
+ambiguous attachments during writing. Preserve a purposeful long sentence when
+its hierarchy is clear. Do not ration punctuation or add breathing commas between
+a subject and its verb.
+
+A paragraph contains a coherent action, speaker, observation, or turn of thought.
+End it when the thought turns. Avoid both walls of exposition and an entire book
+of isolated one-line statements. Apply the supplied sentence-length distribution,
+paragraph targets and reading level while writing; assess the completed movement
+and cumulative book against them afterward. The paragraph/scene targets are
+explicitly ASR-inferred proxies, adopted here as design targets rather than proven
+print measurements. Keep their directional status as described in the source.
+
+## Progression that earns attention
+
+Show what the character can do, what they cannot yet do, and why it matters today.
+Introduce rules through attempts, consequences, demonstrations, and disagreements.
+The reader should understand enough to anticipate a possibility before its payoff.
+Let mastery change behavior, relationships, work, or danger. Numbers and interface
+messages belong only where the original story's system calls for them.
+
+Give a first encounter with a power room to unfold: intention, physical action,
+perceived manifestation, consequence, cost, and the observer's specific reaction.
+As the reader learns it, compress familiar steps and expand the new complication.
+A spectacular manifestation needs a comprehensible limitation. An unexplained
+ability cannot quietly resolve the decisive problem.
+
+## Sustained action and learning fights
+
+The owner wants more substantial action and longer developed scenes. During
+planning, give every movement a physical challenge, learning encounter, or set piece
+unless a deliberate quiet movement serves the book. State the reason for that quiet
+movement. Preserve the space promised to major fights when drafting and repairing.
+
+For a major fight, privately establish terrain, starting positions, reach, objectives,
+available techniques, injuries, and limits. Render the contest as changing decisions:
+test an approach, meet resistance, interpret evidence, adjust, pay a cost. The opponent
+also learns. Reversals follow from planted information, choices, or constraints.
+Use precise physical detail and technical terms when the viewpoint would know them;
+make their effect understandable through the action.
+
+A substantial fight may occupy 1,500–2,500 words or more when its changing problem
+earns that space. This is a planning allowance, not a compulsory word count. Let
+smaller encounters be smaller. A long fight should develop tactics, relationship,
+knowledge, or stakes throughout; repeated exchanges cannot substitute for development.
+Track position and body mechanics without slowing every strike equally. Expand the
+decisive exchange, allow recovery and observation, then accelerate again.
+
+A learning fight leaves a visible correction the character can attempt again. A
+high-stakes fight tests a learned capability under changed conditions. A loss may
+purchase knowledge without becoming a disguised victory. Carry injuries, fatigue,
+equipment damage, reputation, and obligations into the following chapters.
+
+## Humor, intimacy, and emotional range
+
+Let humor arise from perspective, affection, friction, and inconvenient reality.
+Give different people different comic habits. Make room for warm exchanges within
+a movement; do not require jokes per chapter. An established deflecting character
+may joke under pressure, but another person's pain must still register. Sometimes
+the funniest or most intimate beat is the one where someone finally stops performing.
+Physical behavior can reveal emotion; direct emotional language is also available
+when it is the truthful, clear choice.
+
+## Discovery inside a coherent series
+
+Maps remember facts and promises; scenes discover how people act. Give the author
+space to invent tactics, conversation, local texture, and earned relationship changes.
+Carry important discoveries into the map after the movement. Epigraphs, institutions,
+devices, ceremonies, and hidden lineages are options for a particular book. None is
+required by this seat. Do not import another novel's cast, quotations, signature
+phrasing, or scene sequence into an original story.
+
+Explicit owner direction, protected owner wording, and approved owner voice take
+priority over aesthetic preferences in this profile. The project's canon governs
+story facts. Research cannot create canon.
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+
+exec
+/bin/zsh -lc "sed -n '1,220p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA_REVIEW.md && sed -n '1,220p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/REVIEW.md && sed -n '1,260p' /Users/drive/penname/research/ironprince-craft-formula.md && sed -n '1,220p' editions/monroe-1.3/tools/RECHECK-TEMPLATE.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Numerical formula alignment — after the movement
+
+This is an informed editorial pass, not a blind cold read. Read the supplied
+formula and full movement, then report target, observed result, method, coverage
+and uncertainty. Keep numerical alignment separate from reader scores.
+
+- Sentence mean, median, population standard deviation; shares ≤5 and ≥40 words.
+- Written paragraph mean/median and actual scene/section boundaries. Compare with
+  the requested targets, but do not equate typography with ASR pause segmentation.
+- Flesch Reading Ease and Flesch-Kincaid grade. Identify the sentence tokenizer and
+  syllable estimator; proper names/system terms can affect estimates.
+- Progression vocabulary hits per 10,000 words, and placement by equal word-count
+  book thirds once available. Define a project-specific lexicon before counting;
+  do not borrow the source novel's names. An incomplete book cannot confirm the
+  full front-loading ratio. Report provisional cumulative coverage instead.
+- Lead development moments and supporting-cast distribution: cite actual choices
+  or realizations and distinguish manually identified beats from regex proxies.
+- POV word share: identify viewpoint segments, not the most frequently mentioned
+  name. Track the lead and secondary viewpoints against the book-level allocation.
+- Secondary signals: -ly words, reporting verbs, combat terms, fillers and repeated
+  phrases. Publish lexicons and counting definitions. A suffix count is not proof
+  that every matched word is an adverb. Preserve optional/non-target distinctions.
+
+Use reproducible counts when tooling exists. Otherwise mark a metric UNMEASURED;
+never estimate a precise score by intuition. Save the method or command with the
+report so later runs use the same definitions. Inspect ASR reference limitations
+without discarding the owner's chosen drafting targets.
+
+Locate meaningful departures, especially uniform sentence lengths, missing short
+beats, reading level drift, dense paragraphs, late teaching or a coequal second
+lead replacing the requested POV shape. Consolidate the most important repairs
+with continuity findings into the existing bounded author repair. Protect exact
+owner text and successful scenes. Do not iterate indefinitely to hit decimals or
+hide irreconcilable targets. Bring consequential formula conflicts to the owner.
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+# Iron Prince Craft Formula — Mechanism, Not Expression
+
+Purpose: a prose-generation target for an author agent (Opus or otherwise) writing an
+**original story, original world, original characters** that reads in the structural
+tradition of Bryce O'Connor & Luke Chmilenko's *Iron Prince* (Warformed: Stormweaver,
+Book 1), without reusing any of that book's protected expression.
+
+Derived from a direct statistical pass over a Whisper transcript of the owner's own
+purchased audiobook (61 files, ~326,000 words, mlx-community/whisper-large-v3-turbo-asr-fp16).
+Full methodology and raw numbers: `research/ironprince-craft-stats.json`. The transcript
+itself lives at `research/iron-prince-book1-transcript.md` — **local reference only, never
+to be copied into generated prose, never pushed to a shared repo.**
+
+---
+
+## 1. Why this is a legitimate craft extraction, not a copyright problem
+
+**The governing rule is 17 U.S.C. §102(b):** copyright "in no case" extends to "any idea,
+procedure, process, system, method of operation, concept, principle, or discovery." Every
+number in this document describes a *pattern* — a distribution, a rate, a placement
+tendency — not a string of his words.
+
+**Nichols v. Universal Pictures** (Learned Hand, 2d Cir. 1930) is the operative test: a
+work can be described at any level of abstraction from bare theme down to verbatim text,
+and protection attaches only at the concrete end. "Underdog with a device that grows
+through combat losses, at a competitive academy" is exactly the kind of abstract pattern
+Hand's opinion places outside protection — same tier as "star-crossed lovers whose families
+feud." The specific words O'Connor used to render any one scene are protected; the
+narrative-engineering pattern behind a hundred scenes is not, and never was his to own.
+
+**Scènes à faire** — tournament brackets, academy hierarchies, training-montage beats,
+mentor-pep-talk scenes — are standard furniture of progression fantasy. Unprotectable
+because they are not original to any one author; using them is not "borrowing from Iron
+Prince," it's writing in a genre.
+
+**Style is one of the most settled unprotected categories in the caselaw.** Sentence-length
+distribution, paragraph rhythm, dialogue-tag frequency, where a chapter chooses to land its
+progression beat — these are *how* he writes, not *what* he wrote. No court has ever let an
+author own a cadence.
+
+**What this document is careful never to hand over:** his invented terminology as *his*
+naming choices (CAD, Growth/Offense/Defense as exact labels, "Galens Institute," any
+character or place name from this book), the specific sequence of his actual scenes, or
+any sentence-level phrasing. Section 7 makes this an explicit checklist, not an assumption.
+
+**One adjacent, non-copyright flag:** if this project is ever *marketed* as "feels just like
+Iron Prince," that's a Lanham Act false-designation-of-origin question — a labeling risk,
+separate from whether the craft extraction itself is sound. It is sound. Don't advertise
+affiliation that doesn't exist.
+
+---
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 7. What to build yourself — do not reuse
+
+This is the wall between mechanism (above, safe to target) and expression (below, never
+copy). Invent your own equivalents for every line:
+
+- **His device's name and axis labels** — do not use "CAD," "Growth," "Offense," "Defense"
+  as your system's exact terms. A multi-axis, letter-graded progression system is an
+  unprotectable *method* (§102(b) again — "system" is explicitly excluded); his specific
+  naming of it is his expression. Name your own axes.
+- **Character names** — protagonist, cast, mentors, antagonists: all original. Do not use
+  near-homophones of his names as a wink (no "Raden Word," no "Vivi").
+- **Place and institution names** — invent your own academy, city, system names.
+- **Scene sequence and content** — the *pattern* "open on the protagonist demonstrably
+  worst-in-room in a public setting" is fair game; the specific scene he wrote to do that
+  is not. Write your own scene from scratch to hit the same structural beat.
+- **Any sentence-level phrasing** — nothing lifted, nothing paraphrased closely enough that
+  a side-by-side read would show matching word order. Style-match at the level of *rhythm*
+  (§2–3), never at the level of *wording*.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+# Recheck / close checks for every movement (coordinator standard, 2026-10-04)
+
+Every movement closes only after a recheck (Sol by default) that has read the FULL current movement and covers:
+
+1. **Brief items.** Each one RESOLVED, PARTIAL or NOT, with quoted evidence (diff vs `pre-repair/`).
+2. **Continuity.** Against BOOK_MAP, STATE_LEDGER rulings, the previous movement and later-book canon. Covers calendar, counts, knowledge boundaries, protected lines (exact; first where mapped) and reserved truths.
+3. **Formula.** `formula_metrics.py` reproduced. Overlap 0 unprotected. Gates 0. `sweep_probe.sh` totals.
+4. **Reader clarity.** Speaker attribution, referents, the 13-year-old lens, and the Reader Standard.
+5. **Listening proof.** For every changed region and every chapter of the movement, check:
+   - balanced quotes and italics;
+   - `---` spacing;
+   - numerals and abbreviations the narrator would misvoice;
+   - homographs and ear collisions;
+   - broken joins.
+6. **Output.** A verdict (CLOSE / CLOSE WITH LINE FIXES / SECOND REPAIR), then exact line fixes in the `N. \`manuscript/chapter-NN.md\` / old: / new:` format, each verified to match once.
+
+On CLOSE, the coordinator:
+- applies the fixes;
+- appends the STATE_LEDGER "After Movement N" block and its CLOSED note;
+- records AUTHORSHIP (actual model) and the RUN-LEDGER line;
+- commits and pushes;
+- publishes the movement's chapters to the PWA edition (text only; bump totalChapters).
+
+codex
+The governing recheck template is compact but strict: it requires every brief item to be dispositioned with diff evidence, plus continuity, formula, reader clarity, and chapter-by-chapter listening proof. I’ve loaded the seat’s numerical and review rubrics and am now establishing the complete evidence set before judging the repair.
+exec
+/bin/zsh -lc 'base=editions/monroe-1.3/book-04-copper-crown; find "$base/state/movement-003" -maxdepth 2 -type f -print | sort; printf '"'\\nLine counts:\\n'; wc -l \""'$base"/manuscript/chapter-{01..21}.md "$base"/state/movement-003/{REPAIR-BRIEF.md,review-editorial.md,review-cold.md,AUTHOR-REPORT.md} "$base"/{BOOK_MAP.md,STATE_LEDGER.md,packets/MOVEMENT-003.md} books/book-04-copper-crown/chapters/chapter-{15..21}.md 2>&1' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/AUTHOR-REPORT.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/AUTHORSHIP.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/REPAIR-BRIEF.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/compiled-prompt.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/metrics.txt
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-15.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-16.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-17.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-18.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-19.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-20.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/pre-repair/chapter-21.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/range
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/recheck-prompt.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/recheck-r1.pid
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/recheck-r1.stdout.log
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold-prompt.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold-wrapper.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold.lastmsg.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold.pid
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold.stdout.log
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial-prompt.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial-wrapper.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial.lastmsg.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial.md
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial.pid
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial.stdout.log
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/source-overlap.summary
+editions/monroe-1.3/book-04-copper-crown/state/movement-003/source-overlap.tsv
+
+Line counts:
+     235 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-01.md
+     221 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-02.md
+     259 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-03.md
+     217 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-04.md
+     287 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-05.md
+     247 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-06.md
+     229 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-07.md
+     235 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-08.md
+     243 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-09.md
+     243 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-10.md
+     239 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-11.md
+     203 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-12.md
+     219 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-13.md
+     277 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-14.md
+     233 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-15.md
+     209 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-16.md
+     261 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-17.md
+     201 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-18.md
+     255 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-19.md
+     205 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-20.md
+     205 editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-21.md
+      35 editions/monroe-1.3/book-04-copper-crown/state/movement-003/REPAIR-BRIEF.md
+     130 editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-editorial.md
+      97 editions/monroe-1.3/book-04-copper-crown/state/movement-003/review-cold.md
+     234 editions/monroe-1.3/book-04-copper-crown/state/movement-003/AUTHOR-REPORT.md
+     336 editions/monroe-1.3/book-04-copper-crown/BOOK_MAP.md
+     318 editions/monroe-1.3/book-04-copper-crown/STATE_LEDGER.md
+      47 editions/monroe-1.3/book-04-copper-crown/packets/MOVEMENT-003.md
+     255 books/book-04-copper-crown/chapters/chapter-15.md
+     257 books/book-04-copper-crown/chapters/chapter-16.md
+     235 books/book-04-copper-crown/chapters/chapter-17.md
+     283 books/book-04-copper-crown/chapters/chapter-18.md
+     299 books/book-04-copper-crown/chapters/chapter-19.md
+     291 books/book-04-copper-crown/chapters/chapter-20.md
+     457 books/book-04-copper-crown/chapters/chapter-21.md
+    8197 total
+
+exec
+/bin/zsh -lc "base=editions/monroe-1.3/book-04-copper-crown/state/movement-003; sed -n '1,220p' \""'$base/REPAIR-BRIEF.md"; sed -n '"'1,240p' \""'$base/review-editorial.md"; sed -n '"'1,220p' \""'$base/review-cold.md"; sed -n '"'1,280p' \""'$base/AUTHOR-REPORT.md"' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Repair brief — Book 4, Movement 3 (one consolidated same-author repair)
+
+**Sources.** `review-editorial.md` and `review-cold.md`, both from Sol, the review seat. The cold read was manuscript-only.
+
+**Verdict.** Both reviewers would continue. The movement resolves its local question: what the watcher is doing, and how the Shadow Path appears to work. It opens a larger one. Cael matters most "because his curiosity is inseparable from accountability". Your per-chapter rebuilds worked: the movement probes at 1% skeleton and 13% close. Pre-repair text is frozen in `pre-repair/`. Repair in reading order, in place, by reading — never by script.
+
+## Coordinator rulings on your flags
+
+- **Lira's seed — ACCEPTED as you reconciled it.** "The foot" in M2 (the sixty-fifth line) was her ladder-book position before seeding. The seeding half-sheet in Bracken's hand puts last season's entrants first (21 of them), then new names by formal rank, so Cu 2 seeds her 22nd, above the first-year Rank Ones. Add one clause where the seed is read (ch20) so a reader who remembers "the foot" sees how both are true.
+- **Accepted as written:** the three drawn opening sessions (they count in the record and move nobody); the calendar from the ledger (enter day 51, Seln made day 68, council day 73, brackets posted day 77); "hall one" / "hall three" and the office's numbered days; the read recovery twice.
+- **Owed by Movement 4:** the read recovery's third instance before it can be called a rule.
+
+## Priority 1 — Canon and counts (editorial; cold read)
+
+1. **ch21, Fiske passage** (`She was the best Copper fighter` … `only the next tier`). It says Copper ends at Rank Eight with no Rank Nine. That contradicts the LOCKED ten-rank tier system (UNIVERSE_BIBLE). Rewrite only the rank-ceiling explanation, so Rank Eight is the limit of Fiske's current paper, her bracket recognition, or the institution's response — not of Copper. Keep her lack of an advancement evaluation and the cage metaphor.
+2. **ch19 → ch20 rewind.** Ch20 opens on day 77 after ch19 ended past day 79. Add one short rewind marker at ch20's opening: the bracket posting came two days before Seln corrected the floor. Keep the image of Cael arriving early to watch people read the brackets.
+3. **ch20, Lira vs Nyle, third exchange.** It depicts five Wind bursts but declares four. Revise one movement so exactly four occur. Keep the eleven seconds, the three touches, the unchanged landing beat and the fifth-burst billing rule.
+
+## Priority 2 — Say it once; orient the measures once
+
+1. **Trim restated inference only.** In ch16 after "*He needs a crowd*", and in ch18 around the continuous declaration, the attention toll and late-day fatigue, a conclusion arrives three times: scene, Cael's thought, binder entry. Cut one of the three where the evidence has already landed. Keep every failed method, test, counterexample, binder artifact and the full Seln viewpoint. Leave the fights alone.
+2. **Orient the measurement vocabulary once** (ch20 seeding; ch21 Bracken on standings and squad selection). Add or sharpen one plain sentence separating permanent formal classification (Path tier and rank) from seasonal standing (ladder position, seed, crown, squad). Use no exposition block.
+
+## Priority 3 — Light system vocabulary and paragraphing (editorial)
+
+- **Progression vocabulary** is about 44 per 10k against the movement's ≈80 plan. At existing teaching turns in ch15–18 (tally, map, council, Shadow theory), and lightly in ch21's inventory, use the established project terms (BOOK_MAP §7) where a vaguer word now stands. Do not add new exposition.
+- **Paragraph median** is 32. Break a few dense explanatory paragraphs at thought turns; this also helps audio.
+
+**Length.** Finish within 31,500–33,500 words.
+
+## After the repair
+
+- Run `ed.sh overlap book-04-copper-crown 3` (must stay 0 unprotected), `ed.sh gates`, `sweep_probe.sh book-04-copper-crown 3 3` (must not rise), and `formula_metrics.py` on ch15–21.
+- Append "## Repair r1" to `AUTHOR-REPORT.md`, with before/after metrics and a changelist.
+- Edit only ch15–21 and the report. No git commands.
+# Editorial review — Movement 003, chapters 15–21
+
+## Review status and coverage
+
+This is an informed editorial review of all seven supplied chapters in declared order, with the supplied book map, state ledger, movement brief, edition brief, canon rules, universe bible, formula, measured metrics, and source-overlap summary. It is not a real-human read, not a manuscript-only cold read, and not an author self-review.
+
+Coverage is complete for chapters 15–21 only. The book is incomplete, so book-level POV allocation, progression front-loading, and development-beat distribution remain provisional.
+
+## Unscored reader response
+
+Interest catches when the harmless fame tally produces `TA, assessment office: 0 of 7`, then strengthens as each failed method teaches Cael how to ask a better question. The empty-gallery test, the polished lamp, the council vote, and Seln sitting inside the feeling he has created in other people are excellent successive payoffs. The strongest emotional material is not the surveillance itself but the friends' different answers to it: Lira's protective anger, Karis's frightened arithmetic, Brom's plain strategic sense, and Cael's willingness to name the price he is choosing to pay.
+
+Interest slips somewhat during the repeated explanation of the watcher model across chapters 15–18. The deductions are good, but several are stated, demonstrated, and then restated in metaphor. A fluent thirteen-year-old can follow the individual steps, yet the accumulated tallies, day numbers, maps, declaration theory, tax-rate analogy, and fatigue curve ask for sustained concentration before the bracket action arrives.
+
+Cael matters most because his curiosity is inseparable from accountability: he keeps the failed maps, records the bruise, and writes the cost before he can pretend it was free. Lira is the strongest secondary attachment in this movement, with Seln close behind as the freshest complication. The next expected event is the system forcing these badly fitted people into more consequential measurements: Lira climbing the wrong bracket, Brom learning what his expensive correction costs, and Cael turning the watcher study into a decision. I would continue.
+
+## Reader lenses
+
+The two score columns are editorial lenses, not demographic research or a release gate. Confidence describes the judgment, not statistical certainty.
+
+| Dimension | Fluent thirteen-year-old | Adult genre reader | Exact passage location and reason | Confidence |
+|---|---:|---:|---|---|
+| Opening pull | 7 | 8 | Ch15 opening, from the stair tally through `TA, assessment office: 0 of 7.` The concrete behavior is intriguing, though the fame-count setup delays the threat. | High |
+| Keep reading | 9 | 9 | Ch16 close, Cael tells Lira it is “the best piece of luck” and she will hate it; Ch21 close turns all the measurements into the question of who built them. Strong local payoffs keep opening larger pressure. | High |
+| Interest / freshness | 9 | 9 | Ch15, the fifth map built from sight lines; Ch18, Seln experiences being accounted for. Counter-surveillance through absences and positions feels specific rather than generic. | High |
+| Clarity / flow | 7 | 8 | Ch18, Karis pushes `none observed` into “a declaration smeared across four hours”; Ch19–20 moves from the day-79 correction and four-day rest back to the day-77 bracket posting without an explicit rewind. Ideas are intelligible, but the density and chronology seam can cost a first-pass reader. | High |
+| Character attachment | 9 | 9 | Ch17, Lira accepts being outvoted but sets her own boundary; Ch19, she makes Cael give the bruise and the bargain as a receipt. Agency, care, and disagreement all remain visible. | High |
+| Humor / warmth | 9 | 9 | Ch17, Brom says he is in bed “standing up in your doorway,” then later goes down the stair sideways; Ch19, his wall confession and Karis's gentle ruling. Humor grows from established habits and never cancels danger. | High |
+| Action / suspense | 8 | 8 | Ch19, Lira exposes the late read; Ch20, Lira–Nyle and Brom–Merrick. The contests turn on readable decisions and costs, but the Lira–Nyle burst arithmetic contradicts its own choreography. | High |
+| Progression payoff | 8 | 9 | Ch18, the Shadow declaration, attention toll, and fatigue curve; Ch21, the five-fragment inventory and the unchanged landing beat. Understanding changes behavior even though no fragment advances. | High |
+| Connection | 8 | 8 | Ch15's `0 of 31` grows from the prior movement's TA note; Ch19 carries the read cost into a bruise; Ch21 carries Brom's head injury and Rooke's correction. The rank-system contradiction and Ch19–20 rewind keep this below 9. | High |
+| Read-aloud quality | 8 | 8 | Ch16, the empty hall and gallery glass; Ch20, the four-second silence after Lira's bout. Cadence and attribution are strong, but long analytic paragraphs and sequences of figures can be demanding in audio. | Medium-high |
+
+## Continuity, story, and canon findings
+
+### 1. Verified canon contradiction: Copper ranks do not end at Rank Eight
+
+**Location:** Ch21, the Fiske passage beginning `She was the best Copper fighter Cael had ever seen`, specifically: `Copper Rank Eight was as high as Copper went. There was no Rank Nine above it`.
+
+**Evidence:** `UNIVERSE_BIBLE.md`, “The Tiers,” is LOCKED: every tier has Rank 1 through Rank 10, and Rank 10 is the advancement threshold. The book map and ledger establish Fiske as Copper Rank Eight, but neither makes Rank Eight the tier maximum.
+
+**Finding:** This is a canon error, not merely plan drift. It also weakens the intended institutional critique: Fiske can still be trapped by an instrument that fails to recognize her, but the prose cannot erase two locked ranks to make that point. Reframe the ceiling as the limit of Fiske's paper, the bracket, or what Halcenvane has chosen to measure—not the limit of Copper itself.
+
+### 2. Internal action/count contradiction in Lira–Nyle
+
+**Location:** Ch20, third exchange, from `She committed. She went left and was gone` through `Three exchanges. Four bursts.`
+
+**Evidence:** The first exchange explicitly uses one burst; the second explicitly brings the tally to two. The third then depicts a left burst, a right burst beginning as its landing beat releases, and an additional “short one.” That is five depicted bursts, although the narration says four. The movement brief and book map specify four bursts, and Ch21 correctly records four free on sprung timber with the fifth billed.
+
+**Finding:** The choreography, tally, and stated cost cannot all be true. Because the passage makes Cael price each burst in his own hip, the error directly damages the progression accounting at the bout's emotional peak. Preserve the eleven-second win and Nyle's adaptations; remove or reclassify one movement so four actual bursts remain.
+
+### 3. Chronology seam needs one explicit cue
+
+**Location:** Ch19, from the day-76 wrong issue through the day-79 revised issue and the following four-day break from counting; Ch20 opening, `The brackets went up ... on the seventy-seventh morning`.
+
+**Finding:** Chapter 20 intentionally returns to an event Ch19 has already passed. The day number makes the order recoverable, but no prose cue tells the listener that the narrative has rewound. In an audio-first book already carrying many day numbers, a brief “two days earlier” or equivalent orientation would prevent a false continuity alarm. This is a clarity seam, not a canon violation.
+
+### 4. Story architecture and carried state
+
+The movement delivers its planned arc: the watcher is found through bookkeeping, tested, kept in place by a contested group decision, charted from the outside, and then set beside a bracket that mismeasures Lira, Brom, Fiske, and Cael in different ways. Cause and effect are strong. Failed methods produce improved methods; the attention cost produces the late read; the late read produces the bruise; the four-day rest produces two explicit recovery instances; Brom's known seam produces Merrick's plan, and Brom's refusal to redirect produces Rooke's next correction.
+
+Physical state is carried well. Cael's read is late rather than wrong; his ribs receive consequence and advice. Brom's jaw, arm, breathing, and later headache survive the bout. The Wind landing beat remains unchanged. The five confirmed fragments remain five, the Tide anomaly is not advanced, and nothing is deployed or acquired.
+
+Knowledge boundaries hold. Seln does not learn or infer the integration mechanism; his window never declares a switch of loyalty; the locked case is untouched. The permitted Architect plant remains an unwritten thought at the end of Ch21 and does not add a maker, will, reset, or listening intelligence. No Ephram–Cael floor contact occurs.
+
+## Reader Standard
+
+The movement passes the thirteen-year-old Reader Standard. Language is clean; there is no sexual content or innuendo. Violence is trackable and non-gory, with fatigue, bruising, pain, recovery, and tactical consequence. Moral goodness is active rather than decorative: the companions disagree honestly, abide by a vote, set protective limits, report their own failures, and refuse to turn surveillance into license for cruelty. Seln's discipline about reporting observation rather than sharpening guesses is particularly effective moral texture. The institutional wrong is also named accurately: it arises from honest instruments that do not fit, not from declaring every clerk malicious.
+
+The main reader-risk is cognitive load, not maturity. Chapters 15–18 stack abstract models and numbers before the movement's most physical payoffs. The prose generally explains each idea clearly; the issue is accumulation and audio retention.
+
+## Protected wording and originality
+
+All BOOK_MAP protected wording applicable to source chapters 6–8 is present verbatim:
+
+- Ch16: `He needs a crowd.` and `Nobody avoids me that consistently by accident. Avoidance at that precision is aim.`
+- Ch17: Brom's `We know where their eyes are. First time ever. Why would we give that back?`; Lira's `It's not settled, it's *outvoted*.`; and the complete `Shadow Path, Bronze... So I'm watching.` log entry.
+- Ch18: the protected first-product anchors (`Subject's routine is disciplined and unremarkable`, `Trains under supervision`, `Extensive private notation habit`, `No undisclosed capability observed`) and Seln's complete `Fifteen years say... who taught him to watch` line.
+- Ch19: both protected schedule-error log lines, beginning `He fixed it` and `We're playing now`.
+- Ch20: Rooke's `Again. Slower. Watch yourself.`
+- Ch21: the complete protected season-opening log entry, from `Season's open` through `That's the semester's real question.`
+
+The supplied overlap result reports **0 unprotected shared runs of eight or more words** and **8 protected runs**, all allowed. There is no source-reuse finding.
+
+## Numerical formula alignment
+
+The supplied measurements are used as given; none of the listed prose metrics was re-estimated. Method: `editions/monroe-1.3/tools/formula_metrics.py` strips H1 headings and marked scene breaks, excludes fenced notices from prose/readability, treats each non-empty repository line as a written paragraph, tokenizes sentences by terminal punctuation plus the documented capitalization rule, and estimates syllables with its vowel-group/silent-e/-le heuristic. Proper names and system terms therefore introduce some Flesch uncertainty. Written paragraphs are not equivalent to the source study's ASR pause segments.
+
+| Measure | Target / working range | Observed | Alignment |
+|---|---:|---:|---|
+| Words | Movement brief 33,000 | 32,406 | Close: 98.2% of budget |
+| Sentence mean | 14.6; working 13–15.5 | 13.85 | Within working range |
+| Sentence median | 11 | 9 | Short by 2 words |
+| Sentence population SD | ~26 | 11.63 | Material miss: much narrower distribution |
+| Sentences ≤5 words | 27.7%; working up to ~34% | 28.2% | Aligned |
+| Sentences ≥40 words | 3.3%; working 2.5–4.5% | 4.1% | Within working range |
+| Written paragraph mean | ASR proxy 26.8 | 43.91 | Long relative to proxy |
+| Written paragraph median | ASR proxy 18; working up to ~30 | 32 | Slightly outside working range |
+| Marked scene breaks / 10k | ASR proxy ~8.7 | 8.95 | Aligned |
+| Words per scene | ~950; working 850–1,050 | 900.2 | Within working range |
+| Flesch Reading Ease | 72.3 | 87.2 | Much easier than target |
+| Flesch–Kincaid grade | 6.8; working 3.5–6 | 4.53 | Below formula target, within accepted working range |
+
+The primary working gates—sentence mean, long-sentence share, and words per scene—all pass. The movement also hits the short-sentence share almost exactly. The unresolved formula tension is visible in the low median and especially the low standard deviation: the prose has enough 40-word sentences to pass that share, but not the very wide overall distribution requested. Readability is substantially easier than the formula target, although it remains inside the edition's accepted FK range and serves the Reader Standard. Paragraph median is only two words beyond the accepted working cap; the more meaningful concern is localized analytic density, not a global demand for shorter paragraphs.
+
+### Progression vocabulary
+
+Using the project-specific vocabulary published in `BOOK_MAP.md` §7—case-insensitive exact hits for `fragment`, `notice`, `integration`, `acquisition`, `engagement`, `tier`, `rank`, the five named tier words, `bracket(s)`, `standing(s)`, `ladder`, `seed/seeding`, `ceiling`, `baseline`, `deployment`, `evaluation`, `advancement`, `classification`, plus the phrases `Path declaration`, `idle state`, and `assay provision`—the movement contains **142 hits, or 43.8 per 10,000 words**. The movement brief calls for approximately 80 per 10,000 because this closes the book's first third. Confidence is medium: this is a reproducible count against the map's lexicon, but no sanctioned progression counter or comparison command was supplied. Even adding standalone `Path` would raise the result only to about 53.1 per 10,000, so the directional shortfall remains.
+
+The teaching itself is strong and correctly placed: the Shadow declaration model, toll, resource curve, Wind cost, bracket ranks, and ladder arithmetic all occur at genuine turns. The numerical miss is therefore one of terminology density, not absent progression content. Do not add detached exposition merely to pad the count; reinforce the project's own terms where the existing deductions already describe those concepts.
+
+### POV and development
+
+By viewpoint segment, Seln occupies the opening of Ch18 through the scene break before `Karis was the one...`: 2,341 words by the formula tool's word-token definition, or about **7.2%** of this movement. Cael carries about **92.8%**. This is more lead-dominant than the book-level 87/13 target but close to the movement plan's roughly 2,000-word/6% Seln window; later movements are explicitly planned to carry more cutaway volume. Full-book compliance is not yet measurable.
+
+The exact protagonist-development rate and supporting-cast heuristic are **UNMEASURED**; `formula_metrics.py` deliberately does not count them, and no stable coding rubric was supplied. Manual review nevertheless finds clear, distributed movement: Cael changes his method several times and accepts a conscious cost; Lira argues, loses a vote without surrendering agency, tests the cost, and wins; Brom votes independently and abandons his prized redirect mid-bout; Karis tests the conclusion and forces a second-leg standard; Seln revises the question while withholding unsupported meaning; Fiske, Ephram, Rooke, Withrow, and the unnamed Current first-year receive smaller independent beats. The shape does not collapse into one deuteragonist.
+
+Secondary optional signals—adverbs, reporting verbs, combat terms, fillers, and repeated phrases—are **UNMEASURED** because no supplied output or sanctioned project counter covers them. No judgment is converted into a fabricated rate.
+
+## Overall editorial judgment
+
+This is an engaging, unusually coherent investigation movement with excellent reciprocal friendship, purposeful humor, a memorable secondary POV, and action whose tactics grow directly out of prior learning. It should proceed to a focused repair, not a structural rewrite. The canon rank error and burst-count contradiction are concrete blockers. The chronology cue is a small but worthwhile audio-first repair. Formula drift should be addressed selectively and manually; the successful deductions, fights, protected language, and scene space should not be compressed to chase decimals.
+
+## Repair brief
+
+1. **Location:** Ch21, Fiske passage from `She was the best Copper fighter` through `only the next tier`. **Observed issue:** the prose says Copper ends at Rank Eight and has no Rank Nine, contradicting the LOCKED ten-rank tier system. **Effect on the reader:** it teaches a false core rule and makes later advancement logic unreliable. **Proposed scope:** replace only the rank-ceiling explanation so Rank Eight is the limit of Fiske's current paper, bracket recognition, or institutional response—not of Copper; preserve her lack of an advancement evaluation and the cage metaphor. **Strength to preserve:** Fiske patiently teaching the first-year and Cael recognizing that the instrument has stranded its best Copper fighter.
+
+2. **Location:** Ch19 schedule-error sequence into Ch20 opening, especially Ch20's Lira–Nyle third exchange. **Observed issue:** the narrative rewinds from after day 79 to day 77 without a cue, and the bout depicts five bursts while declaring four. **Effect on the reader:** day-order trust and progression-cost accounting both wobble at the movement's central public payoff. **Proposed scope:** add one brief rewind marker at Ch20's opening and revise one movement in the third exchange so exactly four Wind bursts occur; retain eleven seconds, three touches, the unchanged landing beat, and the fifth-burst billing rule. **Strength to preserve:** the silent yard, Fiske's nod, and the clean tactical escalation across all three exchanges.
+
+3. **Location:** Ch15–18's tally, map, council, and Shadow-theory passages, with a light follow-through in Ch21's inventory. **Observed issue:** progression vocabulary measures 43.8/10k against the movement's ≈80/10k plan, while paragraph median is 32 and the sentence distribution is much narrower/easier than the formula target. **Effect on the reader:** the ideas are compelling but can feel like a long chain of analogies rather than named, retainable system knowledge; in audio, a few dense paragraphs are harder to hold. **Proposed scope:** make a bounded manual pass only at existing teaching turns: use the established project terms where they naturally name a deduction, break the longest multi-stage analytic paragraphs where the thought actually turns, and allow a few clear compound sentences to carry related short beats. Re-run the same counters; do not add exposition or alter protected lines to force a quota. **Strength to preserve:** Cael's failed-method honesty, the concrete objects that make the reasoning visible, and the accessible thirteen-year-old register.
+# Movement 003 review — simulated cold read
+
+This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, Chapters 15–21, in their declared order. No canon, plan, drafting history, or earlier manuscript was supplied, so factual checks below are limited to internal evidence in this movement. I treat the seven files as the supplied movement, but cannot verify from manuscript alone whether they represent every chapter intended for the larger arc.
+
+## Unscored reader response
+
+Interest caught when Cael's apparently private fame tally produced the unintended line, “*TA, assessment office: 0 of 7*,” in Chapter 15. That converts a reflective character habit into a threat without changing the mode of the prose. The fifth map, where the black and brown dots become “one layer,” is the first major payoff; the empty-gallery test in Chapter 16 makes the inference physical and suspenseful rather than merely clever.
+
+The strongest sustained pleasure is watching Cael build knowledge honestly: he records failed methods, labels uncertainty, tests his own preferred conclusion, and accepts costs. The investigation also keeps changing shape. It begins as “why does this man never look?”, becomes an account of a Shadow Path, then becomes a reciprocal contest between Cael and Seln, and finally opens into the larger question of who designed the academy's instruments and what those instruments fail to measure.
+
+Interest slipped in two places. First, Chapters 15–18 sometimes explain an inference again after the scene and the binder entry have already made it clear. The repetition suits Cael's exacting mind, but it occasionally delays the next new fact. Second, the opening of Chapter 20 rewinds from events after day seventy-nine at the end of Chapter 19 to the bracket posting on day seventy-seven without announcing the rewind. On a first read, that feels like a continuity error until the dates are reconstructed.
+
+Cael matters most because his strength and liability are the same faculty: he notices, prices, and records. The movement makes the cost literal when attention spent on Seln delays his combat read. Lira is the strongest attachment beside him; her dissent in Chapter 17, her insistence on the price of her vote, and the bruise test in Chapter 19 give her an independent moral and tactical position. Brom's adaptation against Merrick is the movement's warmest progression payoff because he gives up his best-known technique when it becomes the thing defeating him.
+
+I expect the next movement to force Cael's private study into consequence: either Seln's limits become actionable, the academy's classification system harms someone in a way that cannot remain theoretical, or the unspoken game between Cael and Seln requires one of them to declare himself. Fiske, the unreachable bottom quarter of the Copper sheet, and the tournament-squad selection all feel planted for collision rather than decoration.
+
+I would continue. The movement resolves its local question—Cael discovers what the watcher is doing and how the Shadow Path appears to work—while opening a larger and more consequential one about the people who built the measuring systems.
+
+## Fluent thirteen-year-old lens
+
+These scores are editorial judgments through a reading lens, not demographic research.
+
+| Dimension | Score | Exact passage location | Reason | Confidence |
+|---|---:|---|---|---|
+| Opening pull | 8/10 | Chapter 15, opening stair tally through “*TA, assessment office: 0 of 7*.” | The concrete counting game is easy to picture and the anomalous zero creates a clean mystery. The explanation of Greyvane and the tally rules delays the threat slightly, but also makes the zero convincing. | High |
+| Keep reading | 9/10 | Chapter 16, final exchange at the wall: “It's the best piece of luck I've had since the bridge. And you're going to hate it.” | Each chapter produces a local finding and a sharper next question. This line promises both discovery and conflict inside the friend group. | High |
+| Interest / freshness | 9/10 | Chapter 15, fifth map: “He marked those in a second ink… They were one layer.” | A surveillance mystery solved through sightlines, absences, and failed maps feels specific to Cael rather than like a generic spy reveal. | High |
+| Clarity / flow | 7/10 | End of Chapter 19, revised issue on day seventy-nine and four days of reduced counting; then Chapter 20 opening, “The brackets went up… on the seventy-seventh morning.” | Individual scenes are lucid, but the unmarked rewind can make the reader believe a date or chapter is out of order. Rank, tier, ladder position, seeding, and crown rules also require careful attention. | High |
+| Character attachment | 9/10 | Chapter 19, after Lira knocks Cael down: “I'll give it you like a receipt,” through “You're the only person I've ever met who'd file a bruise.” | Cael's vulnerability, Lira's care expressed as combat, and their mutual honesty make both characters easy to care about without softening either one. | High |
+| Humor / warmth | 9/10 | Chapter 19 breakfast, Brom: “I walked into the wall,” through Karis's “Then you kept the rule… and broke a wall.” | The humor grows directly from established behavior and relieves pressure without mocking the danger. | High |
+| Action / suspense | 9/10 | Chapter 20, Lira versus Nyle from “Nyle began his gather” to the eleven-second silence; and Brom versus Merrick from the cheap feeds through “Iron Skin. Three to two. Bout.” | Both bouts are trackable, tactical, and different. Lira demonstrates devastating mastery; Brom adapts under pressure and pays visibly for it. | High |
+| Progression payoff | 9/10 | Chapter 18, Karis challenges “none observed,” followed by Cael's “declaration smeared across four hours”; later, the covered-walk tally finds one-third fewer looks. | Knowledge advances through testable stages, and a mysterious Path becomes legible without becoming fully solved. Cael also learns a cost in his own attention economy. | High |
+| Connection | 8/10 | Chapter 15's failed floor-time trade; Chapter 19's mistaken hall allocation and Seln's unasked correction. | A discarded test becomes the mechanism for a later exchange, and friend-group rules carry forward. The Chapter 19–20 time jump is the one notable seam. | High |
+| Read-aloud quality | 8/10 | Chapter 18, “The Path did not make him vanish. It leaned on everybody else,” through the explanation of the toll on each passer's wish to look. | Short landing sentences and distinct dialogue voices read cleanly. Some long analytical sentences stack several logical turns and may need a second hearing. | Medium-high |
+
+## Adult genre-reader lens
+
+| Dimension | Score | Exact passage location | Reason | Confidence |
+|---|---:|---|---|---|
+| Opening pull | 9/10 | Chapter 15, from “He wanted to know when the staring would stop” to “*TA, assessment office: 0 of 7*.” | The opening binds emotional history, character method, and plot ignition into one device. The procedural patience feels purposeful rather than merely expository. | High |
+| Keep reading | 9/10 | Chapter 21, closing sequence from the cards on the doors to “*I'd like to know who made it.*” | The movement closes its surveillance inquiry while converting it into an institutional mystery with personal stakes for every major figure. | High |
+| Interest / freshness | 9/10 | Chapter 18, Seln in the empty east hall discovering the reflection in the door glass and counting his “eleven seconds” of satisfaction. | The watcher recognizing how he was watched creates excellent reciprocal intelligence. The opponent is competent, ethical within his own discipline, and not flattened into a villain. | High |
+| Clarity / flow | 8/10 | Chapter 19, day seventy-nine correction and recovery test; Chapter 20, return to day seventy-seven. | The causal logic inside scenes is unusually clear. The unmarked chronological rewind is a genuine stumble, and the taxonomy of formal rank versus seasonal standing could be oriented once more plainly. | High |
+| Character attachment | 9/10 | Chapter 17, Lira's “It's not settled, it's *outvoted*,” followed by her condition about Seln touching Cael's paper. | Relationships are reciprocal and resistant. Lira loses the vote without losing agency; Karis and Brom reason independently; Cael records dissent rather than smoothing it away. | High |
+| Humor / warmth | 9/10 | Chapter 17, Brom calling the map a spider and later “Accounting with a *tone*”; Chapter 19, the wall confession. | Humor is character-specific, well timed, and frequently doubles as evidence of trust. | High |
+| Action / suspense | 9/10 | Chapter 19, Cael's late read against Lira; Chapter 20, the complete Lira/Nyle and Brom/Merrick bouts. | The fights are developed decision sequences with terrain, mechanics, adaptation, and cost. Suspense comes from understanding the choices, not from obscuring them. | High |
+| Progression payoff | 9/10 | Chapter 18, from the revised declaration theory through the attention toll and late-day positional decay; Chapter 19, four days off restoring the read. | The movement advances capability through observation and experimental discipline. Findings change both what Cael can predict and what he must sacrifice. | High |
+| Connection | 9/10 | Chapter 15's map and invalid floor trade; Chapter 16's empty-gallery condition; Chapter 17's council rules; Chapters 18–21's tests and consequences. | Plants become tools, costs persist, and relationship decisions alter later behavior. Nearly every discovery is used again in a new context. | High |
+| Read-aloud quality | 9/10 | Chapter 20, Lira's eleven-second bout and the paragraph beginning “It was not the hush of people who have been impressed.” | Cadence is controlled, physical referents stay clear, and dialogue attribution rarely draws attention. A few long reasoning paragraphs are dense but syntactically sound. | Medium-high |
+
+## Internal consistency and disclosure checks
+
+### Canon
+
+No canon evidence was supplied, so there is no basis for declaring a canon violation. Names, institutions, prior events, and Path rules can only be checked for consistency within these seven chapters.
+
+### Physical state
+
+Physical consequences carry well. The cord drill strikes Cael's shin in Chapter 16; the delayed read becomes two falls and a rib bruise against Lira in Chapter 19; the lecturer advises ice. Brom's bout leaves a marked jaw, a depleted guard, and a left arm he carries “as if it belonged to somebody else,” followed by the note that his head still hurts. Lira's four bursts against Nyle are explicitly priced through the hip line and next-day cost. I found no internal physical-state contradiction.
+
+### Power limits
+
+The movement distinguishes hypotheses from rules unusually carefully. Cael labels the first late read “one instance,” tests recovery after four days off, records two instances, and refuses to call it a rule. His Log restates the Wind-adjacent limits, the unchanged landing beat, the read's range, and the five capabilities not advanced since Greyvane. The Shadow analysis progresses from “needs a crowd” to a continuous attention toll and late-day fatigue, but Cael keeps a “cannot reach” column and admits that much of it still rests on one instrument. Seln's viewpoint confirms that a real Path effect exists, while not granting Cael knowledge he has not earned. No internal power-limit breach is apparent.
+
+### Knowledge boundaries
+
+Cael marks the watcher as *probable*, not *confirmed*, before the council. The group considers alternative employers. Later conclusions are tied to observed behavior, paper changes, and repeatable counts. Seln knows he has been found because he reconstructs the door-glass test and observes the group's disciplined nonreaction; Cael never gains access to Seln's private report or thoughts. The dual viewpoint creates dramatic irony without leaking information across characters.
+
+### Reserved disclosures
+
+No reservation plan was supplied, so compliance cannot be verified. Chapter 18 is the movement's major disclosure choice: it names Seln, shows his report, confirms his service connection and Shadow practice, and reveals that he knows Cael found him. This deliberately ends the reader's “is Cael right?” uncertainty and replaces it with “what will two disciplined observers do now?” The trade works on a cold read and gives Seln welcome moral and professional complexity. It should nevertheless be checked against any external reservation plan because it is a substantial reveal, not a minor cutaway.
+
+## Repair brief
+
+### 1. Signal the chronological rewind
+
+- **Location:** End of Chapter 19, from the revised notice on day seventy-nine through the four-day recovery test; opening of Chapter 20, day seventy-seven bracket posting.
+- **Observed issue:** Chapter 20 moves backward at least two days—and effectively behind the closing recovery sequence—without a transition indicating that the bracket material began earlier.
+- **Effect on the reader:** A cold reader may stop to reconstruct dates or assume the chapters are misordered, interrupting momentum just before the movement's strongest action chapter.
+- **Proposed scope:** Add one short orienting phrase or sentence at the start of Chapter 20 establishing that the bracket posting occurred two days before Seln corrected the floor issue. Preserve the present chapter order if the thematic grouping is intentional; no scene restructuring is required.
+- **Strength to preserve:** The immediate image of Cael arriving early not to read the brackets but to watch other people read them.
+
+### 2. Trim only duplicated inference, not investigative steps
+
+- **Location:** Chapter 16 after “*He needs a crowd*”; Chapter 18 around the repeated explanations of the continuous declaration, attention toll, and late-day fatigue.
+- **Observed issue:** Several conclusions are delivered three times in close succession: once through the observed scene, once through Cael's explanatory thought, and once through a binder entry. The repetition is most noticeable after the evidence has already landed cleanly.
+- **Effect on the reader:** The methodical voice remains engaging, but younger or pace-sensitive readers may feel the story pause to prove a point they already understood.
+- **Proposed scope:** Make a line-level compression pass limited to restated interpretation—roughly one explanatory beat where scene, thought, and log say the same thing. Keep every failed method, test, counterexample, binder artifact, and the full Seln viewpoint. Do not shorten the developed fights.
+- **Strength to preserve:** Cael's intellectual honesty and the procedural pleasure of watching an inference become a tested model.
+
+### 3. Orient the measurement vocabulary once
+
+- **Location:** Chapter 20, the seeding explanation around Lira's “*22. Lira. Wind. Cu 2. (transfer)*”; Chapter 21, Bracken's explanation of standings as evidence for squad selection.
+- **Observed issue:** Formal Path tier/rank, ladder-book position, seasonal bracket seed, crown holder, and future tournament-squad selection are all distinct measures, but they arrive in a dense cluster.
+- **Effect on the reader:** A cold reader can infer the system, yet may need to reread before understanding exactly why Lira can be Copper Rank Two, seeded twenty-second, climb toward a Copper crown, and still remain Copper afterward.
+- **Proposed scope:** Add or sharpen one plain orienting sentence distinguishing permanent/formal classification from seasonal standing. Let the later arithmetic and examples do the rest; avoid an added exposition block.
+- **Strength to preserve:** The thematic payoff that every instrument can be honestly administered and still measure the wrong thing.
+# AUTHOR REPORT — Book 4, Movement 3 "Counted" (chapters 15–21)
+
+Author: Monroe Jackson (seat `oconnor` 1.3.0, model `claude-opus-5-5`) · 2026-10-05 (one session; see AUTHORSHIP.md)
+
+**Reader Standard.** `ed.sh gates book-04-copper-crown 3`: reader_standard=0, metadata=0, modern=0 on all seven chapters.
+- No oaths or softer cousins. One draft phrase ("God help him") was cut before the first probe.
+- Violence has cost and no gore. Lira's shoulder under the ribs leaves a bruise ("Ice, not heat"). Merrick's second touch sends Brom's head "further than a head goes on purpose" and darkens his jaw. A cord weight takes Cael across the shin. Nyle's knee folds and he falls "heavily and well".
+- No romance. Lira's laugh and "That's what makes it so entirely you" are warmth, not declaration.
+- Wrong is named as wrong. Cael calls his own counter questions shameful. He names the ladder's calendar as harm while Karis insists it is "not malicious". Lira will not throw a final "to make a point about paper". The agreement page records its own breaks honestly (Brom and the corner).
+
+## Chapters
+
+| # | Title | Words (wc) | Scenes | Summary |
+|---|---|---|---|---|
+| 15 | The Tally | 4,699 | 5 | The stair tally, kept since the second week to time the fame (one in three, falling); its margin notes on who looks how. Day 58: *TA, assessment office: 0 of 7*, written before deciding. Two days of nothing, because the rule of three was cut for tells, not absences. The wider count with a **control column** (desk clerk 9/14, oil-and-brass 5/11, panel porters 7/19; TA **0 of 31**). "That was a man doing something." The four flat readings; four minutes at the counter over a date he knew. The shorthand. Four failed maps (clock / paper *KILLED, NO SIGNAL* / company / rooms → "Not boxes. Seams."). The fifth, by lines (Brom: "a very bad bluff"). **Where would I stand?** Nineteen of nineteen; the four holes are desk hours. The floor-time trade test is useless; he says so to Brom; Brom has noticed him not looking at the wing door. |
+| 16 | Aim | 4,724 | 5 | Day 68: forty minutes early in the empty east hall; the gallery seen in the propped door's glass; the man crosses without slowing at the turned post or looking down. **"He needs a crowd."** Working, not incidental. The Shield instructor's cord drill: the read is a beat late, and a guess goes wrong (the shin). Cause not yet known; logged. Days 69 and 71: the brass session-lamp twice (the Force crack, the Current girl's fall; the porter and his red paste). **"Nobody avoids me… is aim."**, tested against the alternatives; "Somebody thinks I'm worth aiming at." Day 72: Lira at the wall recalls Havel; three kinds of watching; "better at this than I am"; the council called. |
+| 17 | Outvoted | 4,321 | 5 | Sixth-day (day 73), rain, the door locked. Evidence first. Karis tests whose the man is (Withrow asks, Bracken writes, Rooke minutes, Ephram tells the yard): *probable*. Lira: Withrow, tonight. **Brom's protected line answers her.** Karis gives the sum ("an instrument we can read for one we can't even find"). **"It's not settled, it's *outvoted*."** Three agreements: hands off, with the rule under the rule (report a break the same day); the dull read, on purpose; "I'm going to study him"; "meanest thing" / "accounting with a *tone*". On the stair: Karis asks the price (same purse); Lira's vote price ("If he touches your paper wrong… I go to Withrow myself"); "worked round, like furniture"; Brom edges past. Night Log: the price before it comes due; a four-question study plan; the protected entry. |
+| 18 | Product | 4,685 | 5 | **Seln cutaway (≈2,350 words, two scenes).** His day 31: past his own service's two coats at the road foot, who do not see him; the courier office by the fish steps (never the academy bag); the first product (protected lines with his own middle); observation, not inference (the colleague and *uneasy*). Gault's four questions (the author's own); the pencil dot. The sum chosen with the boy at the counter: two shelves. That night he sits on the boy's bench and finds the gallery in the door's glass. Made on day 23, eleven seconds; made twice before by the two hole-seekers, never a target. Withdraw, declare, or go on; he goes on. The boy does nothing; *accounted for*; doctrine is taught; **"who taught him to watch."** Cael: Karis makes him define a declaration (Stone drops, Force sets, Lira folds, Brom bites, Karis lifts her chin); *none observed* turned into a purchase smeared across four hours. The covered-walk rail count: **about a third fewer looks** (a toll, a rate, a purse). The curve: four hours; "I know that bend". The cannot-reach column (how far, touch and speech, floors, one leg — Vell). "It was never me the Path was for." |
+| 19 | The Bruise | 4,816 | 6 | Brom reports the first break (walked into the wing corner). Day 75, east hall, the Current lecturer humming. Lira's first fall is Cael's own fault; the **second** comes from a read that is true but late, with the feet set wrong inside the landing beat. "Say the rest of it out loud… Not in that book" (recomposed). The receipt and the bruise; **"file a bruise"**; called reads at the bell; "Ice, not heat." Day 76: the trade carried forward as hall one; left on purpose, the decision written down, Lira's terms considered. Day 79: the revised issue; read as a bout exchange, "called even"; Lira: "I don't know what to do about a man who does his work properly." **Protected log.** Four days off the counting; the read comes back (one instance); Karis feeds badly; "two hands on one instrument is still one instrument." |
+| 20 | Eleven Seconds | 4,948 | 5 | Day 77, the brackets: 91 / 63 / 19 of 209 / 138 / 65; readers up, down and whole; five whole-column readers, Lira and Fiske among them; the brass stud ("Holder"). **Lira twenty-second** by Bracken's seeding half-sheet; "six, not sixteen"; "the first kindness the paper ever did me." Three drawn sessions that move nobody. Nyle's page. **Lira–Nyle**: three exchanges, four bursts, eleven seconds, felt in Cael's hip; four seconds of silence, "the sound of a category failing"; "Both figures were honest. Neither of them had been watching." Fiske's nod. **Brom–Merrick** (≈1,860 words): cheap feeds; 1–0, 1–1, 1–2 through the seam; he stops turning; three taken flat at full cost; Merrick bounces off a set shoulder (2–2); 3–2. "An ugly, expensive, entirely intelligent win." Rooke at the bench, **"Again. Slower. Watch yourself."**; four words in pencil on the outside of the right wrap. |
+| 21 | Instruments | 4,293 | 5 | The Current first-year in the rain (a practice bout on the page) at seventy-fourth; the sum: sixteen moving bouts at most, so names 69–91 (twenty-three, a quarter) are shut out; Karis: "It isn't malicious." / "It almost always is." Bracken: standings are "evidence… admissible… not a verdict"; the squad. Fiske teaching a first-year by courtesy; the cage, not the fighter. Ephram's rail, with the first-year listening; Ephram corrects himself aloud. Withrow's guests (guild factors, an old benefactor, the river-trade woman). The man found in four seconds; two late days worse; the wing's posted hours confirm both ("a second leg"). Second four-day ease-off (two instances). The horn: *loaded, downstream, give way* / *heard you*. Season log: inventory, "No change in any of the five since Greyvane", **the protected entry**. Lira reads it upside down ("It's the only one they've got"). The cards; the **thought, unwritten**. |
+| | **Total** | **32,486** (wc) | **36** | Budget ≈33,000. formula_metrics prose count 32,469 (before the rhythm splits). |
+
+**POV.** Cael ≈30,100 (≈92.7%); Seln ≈2,350 (ch 18, scenes 1–2, ≈7.2%). Seln's motive is never stated. Nothing about loyalty or switching. The case is not mentioned. He knows only his brief, his cover and what he saw. "Colder country" is not used.
+
+**Development beats (author's count).** Cael, 14:
+1. He writes the noticed thing before judging it (15).
+2. He refuses to build on an absence until he has a control (15).
+3. He asks the fighter's question of a building (15).
+4. He calls his own test useless aloud (15).
+5. "He needs a crowd" means *working* (16).
+6. He tests the aim sentence against its rivals (16).
+7. He names being aimed at without flattery (16).
+8. "Better at this than I am" (16).
+9. He accepts being outvoted the other way: he does nothing, on purpose (17).
+10. He prices the read before the day it comes due (17).
+11. A hole has edges: the negative becomes a purchase (18).
+12. Surveillance becomes Path theory (18).
+13. He says the rest out loud (19).
+14. The error is read as an exchange, not a victory (19).
+15. "Not a rule till three" twice; the question about who built the instruments (21).
+
+Supporting beats: Lira (the vote price; reads the whole column; spends exactly eleven seconds; won't throw a final; reads the log upside down); Brom (answers Lira; the corner; stops turning; pencil); Karis (tests whose; the sum; the same purse; one instrument; checks the calendar); Fiske (whole-column reader; the nod; teaches a first-year); Rooke (three words at the bench); Bracken ("feeds"/"evidence"); Ephram (corrects himself aloud); Withrow (guests); the porter (lamp paste, laces); the Current lecturer ("Ice, not heat", his first non-hour sentence); Seln. No deuteragonist.
+
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane days 51–about 110.
+- d52–58 stair tally; d58 *0 of 7*.
+- d60–66 the wider count; d61 onward the shorthand; d66 *0 of 31*, the fifth map, nineteen of nineteen.
+- d67 the floor trade (Cael's east-hall hour for Brom's north-hall hour, one Sixth-day, d73).
+- **d68 the empty east hall = Seln's post day 23** (Seln's post day 1 = d46).
+- d69 and d71 the lamp; d71 "aim"; d72 the wall with Lira.
+- **d73 Sixth-day council.**
+- d74 Brom's corner; d75 Lira's falls; d76 the error seen.
+- **d77 Third-day, brackets.** Session 1 d78; Lira–Nyle session 2; Brom–Merrick session 3.
+- d79 the corrected issue; d80–83 the first ease-off; Seln's product walked down on his day 31 (d76).
+- Third week of the season: the sum. Month's end: the two long days and the second ease-off. The season log on a Seventh-day near day 110.
+- Season: a bout per name about every six days; a little over a hundred days to the final; seventeen bouts at most, the first drawn.
+
+**Cael — body.** A bruise under the right ribs (Lira's shoulder, d75; ice). A cord weight across the shin (d68 drill). Hip unused in quantity this movement.
+
+**Fragments & progression.** Five confirmed; **no change** (logged as a fact). The Tide anomaly is not mentioned.
+- Wind: four free on timber, three on stone, landing beat unchanged.
+- Iron read: a beat late while counting. **On time after four days off, twice: two instances, not yet a rule.** BOOK_MAP M4 "confirmed at three instances" should supply the third.
+- Pressure, Compression and Ember unused.
+
+**Method / Shadow chart.**
+- The stair tally and its control column; the shorthand (day · bell · place · sees); five maps.
+- Positions predicted to the post: east-hall gallery W end by the turned post; yard high W, middle of a knot; lecture stair 2nd landing, wall side; covered-walk east rail.
+- The declaration as a continuous purchase "smeared across four hours".
+- Toll: about a third fewer looks at the covered-walk rail.
+- Curve: the bend at about four hours; long days predict worse places (two confirmed by the wing's posted hours).
+- Cannot-reach column: reach, touch/speech, floors, one instrument.
+
+**Agreements (written, numbered).**
+1. Hands off, with breaks reported the same day (Brom's corner logged).
+2. The dull read, unchanged.
+3. Cael studies him.
+
+Lira's price, in her words: "If he touches your paper wrong… that's the morning I go to Withrow myself." Judged not triggered by the correction.
+
+**Knowledge.**
+- Lira, Brom and Karis know the TA is a watcher: "probable" Compact, Shadow, Bronze.
+- Seln knows he was made on day 23 and that the boy and his friends have done nothing. He has said and written nothing.
+- Nobody institutional knows. The mechanism is unchanged.
+
+**Documents.** The fame tally and control column; the five maps; the agreement page; the Shadow section (*Charted from inside*); the fatigue page with two dated long days; the season log; Karis's copy of the twenty-three sum; the two floor issues (wrong and revised), kept in Cael's coat; Seln's first product, sent by courier as a non-existent cloth merchant.
+
+**Companions.**
+- Lira: Copper R2 formal, **seeded 22nd**, beat Nyle 3–0 in a drawn bout (record only), hip billed.
+- Brom: beat Merrick 3–2 in a drawn bout; jaw bruised, left arm sore; the right wrap carries four words in pencil.
+- Karis: unchanged standing; copy of the sum.
+
+**Watchers.** Rotations unchanged (two and two, on the bell). Seln embedded, positioned by the curve.
+
+## New canon minted (flag where marked)
+
+- **Seeding half-sheet (flag).** Returners go first, in last season's closing order (21 Copper returners entered); new names go next by formal rank, then by signing order. Lira's Rank Two sets her 22nd. This reconciles M2's "the foot" / "sixty-fifth line" / "Sixteen" with the packet's twenty-second. Lira: "counted from the wrong book."
+- **Three drawn opening sessions (flag).** They count in the record and move nobody. This explains Lira (22nd) vs Nyle (9th) and Brom vs Merrick (14th) under the four-up rule.
+- **Ladder bouts use the Crown-yard rule:** first to three clean touches; a strike taken on a set, hardened guard is not clean.
+- **Office hall numbers (flag).** Hall one = north hall (stone), hall three = east hall (timber); this carries the protected "Sixth-day, hall three". The office numbers its days (Sixth-day), while M1/M2 also use Tuesday/Thursday in speech; the mixed weekday naming is flagged.
+- **The schedule error** is the one-week trade carried forward, corrected unasked on Fifth-day.
+- **The east hall gallery** doubles as staff's upper way to the north hall; the propped near door's glass shows it.
+- **The wing's other four staff** (unnamed): desk clerk, oil-and-brass woman, two panel porters.
+- **Seln.** Courier as a cloth merchant up the coast; Gault's four questions (the author's own; not the source's); the pencil-dot correction; the 4×19 error chosen with the boy present ("two shelves"); the two prior makings were the two hole-seekers of ch 14; his night visit to the bench.
+- **Lira's vote price** (above). Brom's pencil on the outside of the right wrap (the M2 ink stays inside the left).
+- **The barge answer:** two short = *heard you* (fine for silence, double fine for a wrong answer).
+- **The Current first-year** at 74th (unnamed); the twenty-three shut out (names 69–91).
+
+## Protected and packet lines used
+
+Verbatim (grep-checked after final edits):
+- "He needs a crowd."
+- "Nobody avoids me that consistently by accident. Avoidance at that precision is aim."
+- "We know where their eyes are. First time ever. Why would we give that back?"
+- "It's not settled, it's *outvoted*."
+- "Shadow Path, Bronze, fifteen years' craft if he's a day. The Compact finally sent someone worth watching. So I'm watching."
+- First product: *Subject's routine is disciplined and unremarkable. Trains under supervision* … *Extensive private notation habit* … *No undisclosed capability observed.*
+- "Fifteen years say the file's question is the wrong question. The interesting question is who taught him to watch."
+- "He fixed it. Sixth-day, hall three. Nobody asked him to." / "We're playing now. Neither of us has said so. I don't think either of us is going to."
+- "Again. Slower. Watch yourself." (tag removed from inside the line in the final pass)
+- The Ch8 season log, in full.
+- The thought, unwritten: "Somebody built these instruments… That was a decision." with the author's own middle; "I'd like to know who made it." stands as its own paragraph.
+- "Where would I stand?"
+
+Packet lines kept close and short: *KILLED, NO SIGNAL*; "That was a man doing something."; "accounting with a *tone*"; "It isn't malicious."; "loaded, downstream, give way"; "an ugly, expensive, entirely intelligent win"; "You're the only person I've ever met who'd file a bruise."
+
+Recomposed for the 8-word gate: "an instrument we can read for one we can't even find"; "That's the meanest thing you've ever said, Cael."; "So say the rest of it out loud, then. Not in that book, where I've got to wait for it."; "It almost always is."
+
+## Source reuse
+
+- `ed.sh overlap book-04-copper-crown 3`: **0 unprotected, 8 protected**.
+- `sweep_probe.sh book-04-copper-crown 3 3`: **skeleton 1%, close 13%** (1,377 sentences).
+- By chapter (skeleton / close): ch15 0/11; ch16 1/10; ch17 2/14; ch18 1/14; ch19 1/14; ch20 0/14; ch21 2/13.
+- Highest scene: ch21 s5 at 7% / 27%, carrying the protected log and thought (about 20% close unprotected). Next highest: ch19 s5 at 3% / 21% (protected log) and ch17 s2 at 3% / 21% (protected Brom line).
+- First drafts and the rebuilds are in AUTHORSHIP.md.
+
+## Formula — measured once on the finished chapters
+
+```
+words_total 32469 · sentences 2310
+sentence_mean 14.06 (target 14.6) · median 9.0 (target 11) · sd 12.35
+share_le5_words 0.285 · share_ge40_words 0.051
+paragraph_median 32.0 · paragraph_mean 44.0
+scene_breaks_marked 29 · per_10k 8.93 · words_per_scene 901.9 (target 950)
+flesch_reading_ease 87.0 (target 72.3) · flesch_kincaid_grade 4.61 (target 6.8)
+```
+
+The ≥40-word share (5.1%) was over its working range. **Twenty-five long sentences were split by hand** at points where the thought turned. Each split was chosen by reading; the script applied exact strings only. Recounted afterward with the same splitter (`formula_metrics.SPLIT`), not a second metrics run: 2,340 sentences, **mean 13.85, ≥40 4.1%, ≤5 28.2%**, paragraph median 32.
+
+| Measure | Observed (after splits) | Working range | Status |
+|---|---|---|---|
+| Sentence mean | 13.85 | 13–15.5 | in range |
+| ≥40-word share | 4.1% | 2.5–4.5% | in range |
+| Words per scene | ≈902 | 850–1,050 | in range (mean) |
+| ≤5-word share | 28.2% | up to ~34% | in range |
+| Paragraph median | 32 | up to ~30 | **slightly over** (reported, not repaired) |
+| FK grade | 4.61 | 3.5–6 | in range |
+
+Scene spread:
+- Under 850: ch16 s5 818; ch17 s3–s5 (816 / 695 / 703); ch18 s3–s4 (770 / 718); ch19 s2–s6 (755–830); ch20 s2 750, s4 622; ch21 s2 657, s3 822, s4 696.
+- Over 1,050: ch16 s1 1,116; ch17 s1 1,232; ch18 s1–s2 (1,180 / 1,169, the Seln window); ch20 s3 1,490 (Lira–Nyle), s5 1,239 (Brom–Merrick, second half); ch21 s1 1,209.
+
+Secondary (rough greps):
+- "that" ≈371 (≈114 per 10k; above the 92 hint).
+- said/asked ≈175 (≈54 per 10k; above ≈41).
+- Progression/Path lexicon ≈407 by a broad grep that counts Path names and "read" (≈125 per 10k). A narrow system-vocabulary count would be lower. Per OWNER-DECISIONS #14, the two counts should be reported separately at review.
+
+## Not resolved / for the owner or coordinator
+
+1. **Lira's seed.** The packet's twenty-second against M2's "the foot / sixty-fifth / Sixteen" is reconciled by the seeding half-sheet. Confirm, or rule that M2's clerk scene be adjusted in recheck.
+2. **The drawn opening sessions** (new mechanism). Later movements should count Lira's six climbing wins from the first challenge session.
+3. **Calendar.** The packet's "About five weeks in" conflicts with the ledger (we enter at day 51+). The ledger was followed.
+4. **Hall numbers and weekday naming** (office "Sixth-day" vs spoken Tuesday/Thursday in M1/M2).
+5. **Read recovery:** two instances in M3; M4 owes the third before "rule".
+6. **"Decision point" not used.** No Ephram–Cael contact beyond his public deferral. The Architect thought is kept to the single unwritten paragraph. No case, no motive, no mechanism in Seln's window.
+7. **Rhythm:** paragraph median 32 (over ~30); "that" and dialogue tags above their hints. Repair candidates if the review wants them.
+8. **Names:** none new. Unnamed by design: the wing's four staff, the Current lecturer, the Shield instructor, the Current first-year, the Blade second-year, the guild factors, the river-trade woman, the old benefactor, the results clerk, the lock boy, the courier's clerk.
+
+## Repair r1
+
+Same-author repair against REPAIR-BRIEF.md, review-editorial.md and review-cold.md (2026-10-05). It was done in place, by reading. Every change was chosen and worded by hand; a script only applied the exact before→after strings and failed on any miss. Source chapters were not reopened. Only ch15–21 and this report were edited; no git.
+
+### Priority 1: canon and counts
+
+- **ch21 Fiske (canon).** "Copper Rank Eight was as high as Copper went… no Rank Nine" is gone. Now her *certificate* says Rank Eight and has said so for two years. Rank, like tier, changes only by an Arbiter's advancement evaluation; no bout adds a number. "The bracket her paper put her in was the only bracket she could ever fight in." Kept: no evaluation requested, Lira's wash-house reason, the stair-with-no-landing cage, Fiske teaching the first-year.
+- **ch20 rewind.** Opening: "The brackets went up two days before the floor sheet came right, at the first bell on the seventy-seventh morning…" Cael still arrives early to watch the reading.
+- **ch20 Nyle, third exchange: exactly four bursts.** The first move of the exchange is now a half-step on foot with no Wind in it. Then the third burst goes right, and the fourth, short, begins as the third's landing beat releases. Count: 1 + 1 + 2 = 4. Eleven seconds, three touches, the unchanged landing beat and "Four bursts" in the tally are all kept.
+- **ch20 "the foot".** "The clerk had told her the foot, and he had not been wrong: in the ladder book… she stood on the sixty-fifth line, the last. But the ladder book was not the bracket."
+
+### Priority 2: say it once; orient once
+
+- **ch16.** Cut the "He knew what he had seen…" paragraph that restated the gallery scene before the binder's four words. The scene, the binder note and the next deduction (conditions mean *working*) all remain.
+- **ch18, the toll.** Cut "And a toll is charged at a rate…", which the binder line then said again. Cut "The Path did not make him vanish."
+- **ch18, the curve.** The afterthought "He had simply been paying it in a currency…" and its lead-in are replaced by "Now he had found its edges." The scene, the binder entry and the cannot-reach column are intact. The Seln window is untouched.
+- **ch20, formal vs seasonal (one sentence pair).** "Her paper and her place were two different measures… Copper Rank Two was her classification, written on her certificate by an Arbiter and changed only by an advancement evaluation. Twenty-second was her seed, a standing the ladder could move every six days and would wipe clean at the season's end."
+- **ch21, Bracken.** Added "Nor a standing with a rank. A standing is this season's chalk. A rank is what the registry has written on a certificate, and the registry does not read our wall."
+
+### Priority 3: vocabulary and paragraphs (light)
+
+- **Established terms at existing teaching turns.** No new exposition was added.
+  - *baseline* (ch15 tally; ch17 doctrine; ch21 plate).
+  - *semester evaluation / assay provision* (ch15 calendar).
+  - *Bronze-tier* (ch15, ch18).
+  - *tier and rank* (ch15 "Where would I stand?").
+  - *fragment* (ch16 read and log; ch17 log; ch21 inventory header).
+  - *Path declaration* (ch17 study plan; ch18 dialogue and binder).
+  - *ceiling* (ch17 plan; ch18 curve; ch21 Wind line).
+  - *classification* (ch17).
+  - *deployment* (ch21 Ember line).
+- **Paragraph breaks** at thought turns, 16 in all: ch15 ×4, ch16 ×3, ch17 ×1, ch18 ×3, ch19 ×1, ch20 ×2, ch21 ×1. The ch21 Bracken insertion also lengthened one speech.
+
+### Checks after repair
+
+- `ed.sh overlap`: **0 unprotected**, 8 protected.
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `sweep_probe.sh book-04-copper-crown 3 3`: **skeleton 1%, close 13%** (1,385 sentences), the same as before the repair. By chapter: ch15 0/11, ch16 1/10, ch17 2/14, ch18 1/13, ch19 1/14, ch20 0/14, ch21 2/12.
+
+**Words (wc):** ch15 4,745 · ch16 4,637 · ch17 4,360 · ch18 4,624 · ch19 4,816 · ch20 5,038 · ch21 4,341 · **total 32,561**, inside 31,500–33,500.
+
+**Metrics** (`formula_metrics.py`, ch15–21):
+
+| Measure | Before r1 (recount after the 25 splits) | After r1 | Working range |
+|---|---|---|---|
+| Sentence mean | 13.85 | 13.86 | 13–15.5 |
+| ≥40-word share | 4.1% | 4.1% | 2.5–4.5% |
+| Words per scene | ≈902 | 902 | 850–1,050 |
+| ≤5-word share | 28.2% | 28.0% | up to ~34% |
+| Paragraph median | 32 | 33 | up to ~30 |
+| FK grade | 4.61 | 4.56 | 3.5–6 |
+| FRE | 87.0 | 87.1 | target 72.3 |
+
+- **Paragraph median.** The 16 breaks split long paragraphs into medium ones, so the median did not fall; it now reads 33. Lowering it further would mean breaking ordinary paragraphs where the thought does not turn, which the brief forbids. It is reported, not chased.
+- **Progression vocabulary.** On the reviewer's BOOK_MAP §7 lexicon, by my grep (which counts slightly more generously than the review's 142), the count went from 167 to 211 hits, about 51 → 65 per 10k. On the review's method that is roughly 44 → 57 per 10k. It is still under the ≈80 plan. As the brief directed, it was not forced with exposition.
+
+exec
+/bin/zsh -lc 'base=editions/monroe-1.3/book-04-copper-crown/state/movement-003; nl -ba "$base/review-editorial.md" | sed -n '"'1,180p'; nl -ba \""'$base/review-cold.md" | sed -n '"'1,150p'; nl -ba \""'$base/AUTHOR-REPORT.md" | sed -n '"'1,130p'; nl -ba \""'$base/AUTHOR-REPORT.md" | sed -n '"'131,280p'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     1	# Editorial review — Movement 003, chapters 15–21
+     2	
+     3	## Review status and coverage
+     4	
+     5	This is an informed editorial review of all seven supplied chapters in declared order, with the supplied book map, state ledger, movement brief, edition brief, canon rules, universe bible, formula, measured metrics, and source-overlap summary. It is not a real-human read, not a manuscript-only cold read, and not an author self-review.
+     6	
+     7	Coverage is complete for chapters 15–21 only. The book is incomplete, so book-level POV allocation, progression front-loading, and development-beat distribution remain provisional.
+     8	
+     9	## Unscored reader response
+    10	
+    11	Interest catches when the harmless fame tally produces `TA, assessment office: 0 of 7`, then strengthens as each failed method teaches Cael how to ask a better question. The empty-gallery test, the polished lamp, the council vote, and Seln sitting inside the feeling he has created in other people are excellent successive payoffs. The strongest emotional material is not the surveillance itself but the friends' different answers to it: Lira's protective anger, Karis's frightened arithmetic, Brom's plain strategic sense, and Cael's willingness to name the price he is choosing to pay.
+    12	
+    13	Interest slips somewhat during the repeated explanation of the watcher model across chapters 15–18. The deductions are good, but several are stated, demonstrated, and then restated in metaphor. A fluent thirteen-year-old can follow the individual steps, yet the accumulated tallies, day numbers, maps, declaration theory, tax-rate analogy, and fatigue curve ask for sustained concentration before the bracket action arrives.
+    14	
+    15	Cael matters most because his curiosity is inseparable from accountability: he keeps the failed maps, records the bruise, and writes the cost before he can pretend it was free. Lira is the strongest secondary attachment in this movement, with Seln close behind as the freshest complication. The next expected event is the system forcing these badly fitted people into more consequential measurements: Lira climbing the wrong bracket, Brom learning what his expensive correction costs, and Cael turning the watcher study into a decision. I would continue.
+    16	
+    17	## Reader lenses
+    18	
+    19	The two score columns are editorial lenses, not demographic research or a release gate. Confidence describes the judgment, not statistical certainty.
+    20	
+    21	| Dimension | Fluent thirteen-year-old | Adult genre reader | Exact passage location and reason | Confidence |
+    22	|---|---:|---:|---|---|
+    23	| Opening pull | 7 | 8 | Ch15 opening, from the stair tally through `TA, assessment office: 0 of 7.` The concrete behavior is intriguing, though the fame-count setup delays the threat. | High |
+    24	| Keep reading | 9 | 9 | Ch16 close, Cael tells Lira it is “the best piece of luck” and she will hate it; Ch21 close turns all the measurements into the question of who built them. Strong local payoffs keep opening larger pressure. | High |
+    25	| Interest / freshness | 9 | 9 | Ch15, the fifth map built from sight lines; Ch18, Seln experiences being accounted for. Counter-surveillance through absences and positions feels specific rather than generic. | High |
+    26	| Clarity / flow | 7 | 8 | Ch18, Karis pushes `none observed` into “a declaration smeared across four hours”; Ch19–20 moves from the day-79 correction and four-day rest back to the day-77 bracket posting without an explicit rewind. Ideas are intelligible, but the density and chronology seam can cost a first-pass reader. | High |
+    27	| Character attachment | 9 | 9 | Ch17, Lira accepts being outvoted but sets her own boundary; Ch19, she makes Cael give the bruise and the bargain as a receipt. Agency, care, and disagreement all remain visible. | High |
+    28	| Humor / warmth | 9 | 9 | Ch17, Brom says he is in bed “standing up in your doorway,” then later goes down the stair sideways; Ch19, his wall confession and Karis's gentle ruling. Humor grows from established habits and never cancels danger. | High |
+    29	| Action / suspense | 8 | 8 | Ch19, Lira exposes the late read; Ch20, Lira–Nyle and Brom–Merrick. The contests turn on readable decisions and costs, but the Lira–Nyle burst arithmetic contradicts its own choreography. | High |
+    30	| Progression payoff | 8 | 9 | Ch18, the Shadow declaration, attention toll, and fatigue curve; Ch21, the five-fragment inventory and the unchanged landing beat. Understanding changes behavior even though no fragment advances. | High |
+    31	| Connection | 8 | 8 | Ch15's `0 of 31` grows from the prior movement's TA note; Ch19 carries the read cost into a bruise; Ch21 carries Brom's head injury and Rooke's correction. The rank-system contradiction and Ch19–20 rewind keep this below 9. | High |
+    32	| Read-aloud quality | 8 | 8 | Ch16, the empty hall and gallery glass; Ch20, the four-second silence after Lira's bout. Cadence and attribution are strong, but long analytic paragraphs and sequences of figures can be demanding in audio. | Medium-high |
+    33	
+    34	## Continuity, story, and canon findings
+    35	
+    36	### 1. Verified canon contradiction: Copper ranks do not end at Rank Eight
+    37	
+    38	**Location:** Ch21, the Fiske passage beginning `She was the best Copper fighter Cael had ever seen`, specifically: `Copper Rank Eight was as high as Copper went. There was no Rank Nine above it`.
+    39	
+    40	**Evidence:** `UNIVERSE_BIBLE.md`, “The Tiers,” is LOCKED: every tier has Rank 1 through Rank 10, and Rank 10 is the advancement threshold. The book map and ledger establish Fiske as Copper Rank Eight, but neither makes Rank Eight the tier maximum.
+    41	
+    42	**Finding:** This is a canon error, not merely plan drift. It also weakens the intended institutional critique: Fiske can still be trapped by an instrument that fails to recognize her, but the prose cannot erase two locked ranks to make that point. Reframe the ceiling as the limit of Fiske's paper, the bracket, or what Halcenvane has chosen to measure—not the limit of Copper itself.
+    43	
+    44	### 2. Internal action/count contradiction in Lira–Nyle
+    45	
+    46	**Location:** Ch20, third exchange, from `She committed. She went left and was gone` through `Three exchanges. Four bursts.`
+    47	
+    48	**Evidence:** The first exchange explicitly uses one burst; the second explicitly brings the tally to two. The third then depicts a left burst, a right burst beginning as its landing beat releases, and an additional “short one.” That is five depicted bursts, although the narration says four. The movement brief and book map specify four bursts, and Ch21 correctly records four free on sprung timber with the fifth billed.
+    49	
+    50	**Finding:** The choreography, tally, and stated cost cannot all be true. Because the passage makes Cael price each burst in his own hip, the error directly damages the progression accounting at the bout's emotional peak. Preserve the eleven-second win and Nyle's adaptations; remove or reclassify one movement so four actual bursts remain.
+    51	
+    52	### 3. Chronology seam needs one explicit cue
+    53	
+    54	**Location:** Ch19, from the day-76 wrong issue through the day-79 revised issue and the following four-day break from counting; Ch20 opening, `The brackets went up ... on the seventy-seventh morning`.
+    55	
+    56	**Finding:** Chapter 20 intentionally returns to an event Ch19 has already passed. The day number makes the order recoverable, but no prose cue tells the listener that the narrative has rewound. In an audio-first book already carrying many day numbers, a brief “two days earlier” or equivalent orientation would prevent a false continuity alarm. This is a clarity seam, not a canon violation.
+    57	
+    58	### 4. Story architecture and carried state
+    59	
+    60	The movement delivers its planned arc: the watcher is found through bookkeeping, tested, kept in place by a contested group decision, charted from the outside, and then set beside a bracket that mismeasures Lira, Brom, Fiske, and Cael in different ways. Cause and effect are strong. Failed methods produce improved methods; the attention cost produces the late read; the late read produces the bruise; the four-day rest produces two explicit recovery instances; Brom's known seam produces Merrick's plan, and Brom's refusal to redirect produces Rooke's next correction.
+    61	
+    62	Physical state is carried well. Cael's read is late rather than wrong; his ribs receive consequence and advice. Brom's jaw, arm, breathing, and later headache survive the bout. The Wind landing beat remains unchanged. The five confirmed fragments remain five, the Tide anomaly is not advanced, and nothing is deployed or acquired.
+    63	
+    64	Knowledge boundaries hold. Seln does not learn or infer the integration mechanism; his window never declares a switch of loyalty; the locked case is untouched. The permitted Architect plant remains an unwritten thought at the end of Ch21 and does not add a maker, will, reset, or listening intelligence. No Ephram–Cael floor contact occurs.
+    65	
+    66	## Reader Standard
+    67	
+    68	The movement passes the thirteen-year-old Reader Standard. Language is clean; there is no sexual content or innuendo. Violence is trackable and non-gory, with fatigue, bruising, pain, recovery, and tactical consequence. Moral goodness is active rather than decorative: the companions disagree honestly, abide by a vote, set protective limits, report their own failures, and refuse to turn surveillance into license for cruelty. Seln's discipline about reporting observation rather than sharpening guesses is particularly effective moral texture. The institutional wrong is also named accurately: it arises from honest instruments that do not fit, not from declaring every clerk malicious.
+    69	
+    70	The main reader-risk is cognitive load, not maturity. Chapters 15–18 stack abstract models and numbers before the movement's most physical payoffs. The prose generally explains each idea clearly; the issue is accumulation and audio retention.
+    71	
+    72	## Protected wording and originality
+    73	
+    74	All BOOK_MAP protected wording applicable to source chapters 6–8 is present verbatim:
+    75	
+    76	- Ch16: `He needs a crowd.` and `Nobody avoids me that consistently by accident. Avoidance at that precision is aim.`
+    77	- Ch17: Brom's `We know where their eyes are. First time ever. Why would we give that back?`; Lira's `It's not settled, it's *outvoted*.`; and the complete `Shadow Path, Bronze... So I'm watching.` log entry.
+    78	- Ch18: the protected first-product anchors (`Subject's routine is disciplined and unremarkable`, `Trains under supervision`, `Extensive private notation habit`, `No undisclosed capability observed`) and Seln's complete `Fifteen years say... who taught him to watch` line.
+    79	- Ch19: both protected schedule-error log lines, beginning `He fixed it` and `We're playing now`.
+    80	- Ch20: Rooke's `Again. Slower. Watch yourself.`
+    81	- Ch21: the complete protected season-opening log entry, from `Season's open` through `That's the semester's real question.`
+    82	
+    83	The supplied overlap result reports **0 unprotected shared runs of eight or more words** and **8 protected runs**, all allowed. There is no source-reuse finding.
+    84	
+    85	## Numerical formula alignment
+    86	
+    87	The supplied measurements are used as given; none of the listed prose metrics was re-estimated. Method: `editions/monroe-1.3/tools/formula_metrics.py` strips H1 headings and marked scene breaks, excludes fenced notices from prose/readability, treats each non-empty repository line as a written paragraph, tokenizes sentences by terminal punctuation plus the documented capitalization rule, and estimates syllables with its vowel-group/silent-e/-le heuristic. Proper names and system terms therefore introduce some Flesch uncertainty. Written paragraphs are not equivalent to the source study's ASR pause segments.
+    88	
+    89	| Measure | Target / working range | Observed | Alignment |
+    90	|---|---:|---:|---|
+    91	| Words | Movement brief 33,000 | 32,406 | Close: 98.2% of budget |
+    92	| Sentence mean | 14.6; working 13–15.5 | 13.85 | Within working range |
+    93	| Sentence median | 11 | 9 | Short by 2 words |
+    94	| Sentence population SD | ~26 | 11.63 | Material miss: much narrower distribution |
+    95	| Sentences ≤5 words | 27.7%; working up to ~34% | 28.2% | Aligned |
+    96	| Sentences ≥40 words | 3.3%; working 2.5–4.5% | 4.1% | Within working range |
+    97	| Written paragraph mean | ASR proxy 26.8 | 43.91 | Long relative to proxy |
+    98	| Written paragraph median | ASR proxy 18; working up to ~30 | 32 | Slightly outside working range |
+    99	| Marked scene breaks / 10k | ASR proxy ~8.7 | 8.95 | Aligned |
+   100	| Words per scene | ~950; working 850–1,050 | 900.2 | Within working range |
+   101	| Flesch Reading Ease | 72.3 | 87.2 | Much easier than target |
+   102	| Flesch–Kincaid grade | 6.8; working 3.5–6 | 4.53 | Below formula target, within accepted working range |
+   103	
+   104	The primary working gates—sentence mean, long-sentence share, and words per scene—all pass. The movement also hits the short-sentence share almost exactly. The unresolved formula tension is visible in the low median and especially the low standard deviation: the prose has enough 40-word sentences to pass that share, but not the very wide overall distribution requested. Readability is substantially easier than the formula target, although it remains inside the edition's accepted FK range and serves the Reader Standard. Paragraph median is only two words beyond the accepted working cap; the more meaningful concern is localized analytic density, not a global demand for shorter paragraphs.
+   105	
+   106	### Progression vocabulary
+   107	
+   108	Using the project-specific vocabulary published in `BOOK_MAP.md` §7—case-insensitive exact hits for `fragment`, `notice`, `integration`, `acquisition`, `engagement`, `tier`, `rank`, the five named tier words, `bracket(s)`, `standing(s)`, `ladder`, `seed/seeding`, `ceiling`, `baseline`, `deployment`, `evaluation`, `advancement`, `classification`, plus the phrases `Path declaration`, `idle state`, and `assay provision`—the movement contains **142 hits, or 43.8 per 10,000 words**. The movement brief calls for approximately 80 per 10,000 because this closes the book's first third. Confidence is medium: this is a reproducible count against the map's lexicon, but no sanctioned progression counter or comparison command was supplied. Even adding standalone `Path` would raise the result only to about 53.1 per 10,000, so the directional shortfall remains.
+   109	
+   110	The teaching itself is strong and correctly placed: the Shadow declaration model, toll, resource curve, Wind cost, bracket ranks, and ladder arithmetic all occur at genuine turns. The numerical miss is therefore one of terminology density, not absent progression content. Do not add detached exposition merely to pad the count; reinforce the project's own terms where the existing deductions already describe those concepts.
+   111	
+   112	### POV and development
+   113	
+   114	By viewpoint segment, Seln occupies the opening of Ch18 through the scene break before `Karis was the one...`: 2,341 words by the formula tool's word-token definition, or about **7.2%** of this movement. Cael carries about **92.8%**. This is more lead-dominant than the book-level 87/13 target but close to the movement plan's roughly 2,000-word/6% Seln window; later movements are explicitly planned to carry more cutaway volume. Full-book compliance is not yet measurable.
+   115	
+   116	The exact protagonist-development rate and supporting-cast heuristic are **UNMEASURED**; `formula_metrics.py` deliberately does not count them, and no stable coding rubric was supplied. Manual review nevertheless finds clear, distributed movement: Cael changes his method several times and accepts a conscious cost; Lira argues, loses a vote without surrendering agency, tests the cost, and wins; Brom votes independently and abandons his prized redirect mid-bout; Karis tests the conclusion and forces a second-leg standard; Seln revises the question while withholding unsupported meaning; Fiske, Ephram, Rooke, Withrow, and the unnamed Current first-year receive smaller independent beats. The shape does not collapse into one deuteragonist.
+   117	
+   118	Secondary optional signals—adverbs, reporting verbs, combat terms, fillers, and repeated phrases—are **UNMEASURED** because no supplied output or sanctioned project counter covers them. No judgment is converted into a fabricated rate.
+   119	
+   120	## Overall editorial judgment
+   121	
+   122	This is an engaging, unusually coherent investigation movement with excellent reciprocal friendship, purposeful humor, a memorable secondary POV, and action whose tactics grow directly out of prior learning. It should proceed to a focused repair, not a structural rewrite. The canon rank error and burst-count contradiction are concrete blockers. The chronology cue is a small but worthwhile audio-first repair. Formula drift should be addressed selectively and manually; the successful deductions, fights, protected language, and scene space should not be compressed to chase decimals.
+   123	
+   124	## Repair brief
+   125	
+   126	1. **Location:** Ch21, Fiske passage from `She was the best Copper fighter` through `only the next tier`. **Observed issue:** the prose says Copper ends at Rank Eight and has no Rank Nine, contradicting the LOCKED ten-rank tier system. **Effect on the reader:** it teaches a false core rule and makes later advancement logic unreliable. **Proposed scope:** replace only the rank-ceiling explanation so Rank Eight is the limit of Fiske's current paper, bracket recognition, or institutional response—not of Copper; preserve her lack of an advancement evaluation and the cage metaphor. **Strength to preserve:** Fiske patiently teaching the first-year and Cael recognizing that the instrument has stranded its best Copper fighter.
+   127	
+   128	2. **Location:** Ch19 schedule-error sequence into Ch20 opening, especially Ch20's Lira–Nyle third exchange. **Observed issue:** the narrative rewinds from after day 79 to day 77 without a cue, and the bout depicts five bursts while declaring four. **Effect on the reader:** day-order trust and progression-cost accounting both wobble at the movement's central public payoff. **Proposed scope:** add one brief rewind marker at Ch20's opening and revise one movement in the third exchange so exactly four Wind bursts occur; retain eleven seconds, three touches, the unchanged landing beat, and the fifth-burst billing rule. **Strength to preserve:** the silent yard, Fiske's nod, and the clean tactical escalation across all three exchanges.
+   129	
+   130	3. **Location:** Ch15–18's tally, map, council, and Shadow-theory passages, with a light follow-through in Ch21's inventory. **Observed issue:** progression vocabulary measures 43.8/10k against the movement's ≈80/10k plan, while paragraph median is 32 and the sentence distribution is much narrower/easier than the formula target. **Effect on the reader:** the ideas are compelling but can feel like a long chain of analogies rather than named, retainable system knowledge; in audio, a few dense paragraphs are harder to hold. **Proposed scope:** make a bounded manual pass only at existing teaching turns: use the established project terms where they naturally name a deduction, break the longest multi-stage analytic paragraphs where the thought actually turns, and allow a few clear compound sentences to carry related short beats. Re-run the same counters; do not add exposition or alter protected lines to force a quota. **Strength to preserve:** Cael's failed-method honesty, the concrete objects that make the reasoning visible, and the accessible thirteen-year-old register.
+     1	# Movement 003 review — simulated cold read
+     2	
+     3	This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, Chapters 15–21, in their declared order. No canon, plan, drafting history, or earlier manuscript was supplied, so factual checks below are limited to internal evidence in this movement. I treat the seven files as the supplied movement, but cannot verify from manuscript alone whether they represent every chapter intended for the larger arc.
+     4	
+     5	## Unscored reader response
+     6	
+     7	Interest caught when Cael's apparently private fame tally produced the unintended line, “*TA, assessment office: 0 of 7*,” in Chapter 15. That converts a reflective character habit into a threat without changing the mode of the prose. The fifth map, where the black and brown dots become “one layer,” is the first major payoff; the empty-gallery test in Chapter 16 makes the inference physical and suspenseful rather than merely clever.
+     8	
+     9	The strongest sustained pleasure is watching Cael build knowledge honestly: he records failed methods, labels uncertainty, tests his own preferred conclusion, and accepts costs. The investigation also keeps changing shape. It begins as “why does this man never look?”, becomes an account of a Shadow Path, then becomes a reciprocal contest between Cael and Seln, and finally opens into the larger question of who designed the academy's instruments and what those instruments fail to measure.
+    10	
+    11	Interest slipped in two places. First, Chapters 15–18 sometimes explain an inference again after the scene and the binder entry have already made it clear. The repetition suits Cael's exacting mind, but it occasionally delays the next new fact. Second, the opening of Chapter 20 rewinds from events after day seventy-nine at the end of Chapter 19 to the bracket posting on day seventy-seven without announcing the rewind. On a first read, that feels like a continuity error until the dates are reconstructed.
+    12	
+    13	Cael matters most because his strength and liability are the same faculty: he notices, prices, and records. The movement makes the cost literal when attention spent on Seln delays his combat read. Lira is the strongest attachment beside him; her dissent in Chapter 17, her insistence on the price of her vote, and the bruise test in Chapter 19 give her an independent moral and tactical position. Brom's adaptation against Merrick is the movement's warmest progression payoff because he gives up his best-known technique when it becomes the thing defeating him.
+    14	
+    15	I expect the next movement to force Cael's private study into consequence: either Seln's limits become actionable, the academy's classification system harms someone in a way that cannot remain theoretical, or the unspoken game between Cael and Seln requires one of them to declare himself. Fiske, the unreachable bottom quarter of the Copper sheet, and the tournament-squad selection all feel planted for collision rather than decoration.
+    16	
+    17	I would continue. The movement resolves its local question—Cael discovers what the watcher is doing and how the Shadow Path appears to work—while opening a larger and more consequential one about the people who built the measuring systems.
+    18	
+    19	## Fluent thirteen-year-old lens
+    20	
+    21	These scores are editorial judgments through a reading lens, not demographic research.
+    22	
+    23	| Dimension | Score | Exact passage location | Reason | Confidence |
+    24	|---|---:|---|---|---|
+    25	| Opening pull | 8/10 | Chapter 15, opening stair tally through “*TA, assessment office: 0 of 7*.” | The concrete counting game is easy to picture and the anomalous zero creates a clean mystery. The explanation of Greyvane and the tally rules delays the threat slightly, but also makes the zero convincing. | High |
+    26	| Keep reading | 9/10 | Chapter 16, final exchange at the wall: “It's the best piece of luck I've had since the bridge. And you're going to hate it.” | Each chapter produces a local finding and a sharper next question. This line promises both discovery and conflict inside the friend group. | High |
+    27	| Interest / freshness | 9/10 | Chapter 15, fifth map: “He marked those in a second ink… They were one layer.” | A surveillance mystery solved through sightlines, absences, and failed maps feels specific to Cael rather than like a generic spy reveal. | High |
+    28	| Clarity / flow | 7/10 | End of Chapter 19, revised issue on day seventy-nine and four days of reduced counting; then Chapter 20 opening, “The brackets went up… on the seventy-seventh morning.” | Individual scenes are lucid, but the unmarked rewind can make the reader believe a date or chapter is out of order. Rank, tier, ladder position, seeding, and crown rules also require careful attention. | High |
+    29	| Character attachment | 9/10 | Chapter 19, after Lira knocks Cael down: “I'll give it you like a receipt,” through “You're the only person I've ever met who'd file a bruise.” | Cael's vulnerability, Lira's care expressed as combat, and their mutual honesty make both characters easy to care about without softening either one. | High |
+    30	| Humor / warmth | 9/10 | Chapter 19 breakfast, Brom: “I walked into the wall,” through Karis's “Then you kept the rule… and broke a wall.” | The humor grows directly from established behavior and relieves pressure without mocking the danger. | High |
+    31	| Action / suspense | 9/10 | Chapter 20, Lira versus Nyle from “Nyle began his gather” to the eleven-second silence; and Brom versus Merrick from the cheap feeds through “Iron Skin. Three to two. Bout.” | Both bouts are trackable, tactical, and different. Lira demonstrates devastating mastery; Brom adapts under pressure and pays visibly for it. | High |
+    32	| Progression payoff | 9/10 | Chapter 18, Karis challenges “none observed,” followed by Cael's “declaration smeared across four hours”; later, the covered-walk tally finds one-third fewer looks. | Knowledge advances through testable stages, and a mysterious Path becomes legible without becoming fully solved. Cael also learns a cost in his own attention economy. | High |
+    33	| Connection | 8/10 | Chapter 15's failed floor-time trade; Chapter 19's mistaken hall allocation and Seln's unasked correction. | A discarded test becomes the mechanism for a later exchange, and friend-group rules carry forward. The Chapter 19–20 time jump is the one notable seam. | High |
+    34	| Read-aloud quality | 8/10 | Chapter 18, “The Path did not make him vanish. It leaned on everybody else,” through the explanation of the toll on each passer's wish to look. | Short landing sentences and distinct dialogue voices read cleanly. Some long analytical sentences stack several logical turns and may need a second hearing. | Medium-high |
+    35	
+    36	## Adult genre-reader lens
+    37	
+    38	| Dimension | Score | Exact passage location | Reason | Confidence |
+    39	|---|---:|---|---|---|
+    40	| Opening pull | 9/10 | Chapter 15, from “He wanted to know when the staring would stop” to “*TA, assessment office: 0 of 7*.” | The opening binds emotional history, character method, and plot ignition into one device. The procedural patience feels purposeful rather than merely expository. | High |
+    41	| Keep reading | 9/10 | Chapter 21, closing sequence from the cards on the doors to “*I'd like to know who made it.*” | The movement closes its surveillance inquiry while converting it into an institutional mystery with personal stakes for every major figure. | High |
+    42	| Interest / freshness | 9/10 | Chapter 18, Seln in the empty east hall discovering the reflection in the door glass and counting his “eleven seconds” of satisfaction. | The watcher recognizing how he was watched creates excellent reciprocal intelligence. The opponent is competent, ethical within his own discipline, and not flattened into a villain. | High |
+    43	| Clarity / flow | 8/10 | Chapter 19, day seventy-nine correction and recovery test; Chapter 20, return to day seventy-seven. | The causal logic inside scenes is unusually clear. The unmarked chronological rewind is a genuine stumble, and the taxonomy of formal rank versus seasonal standing could be oriented once more plainly. | High |
+    44	| Character attachment | 9/10 | Chapter 17, Lira's “It's not settled, it's *outvoted*,” followed by her condition about Seln touching Cael's paper. | Relationships are reciprocal and resistant. Lira loses the vote without losing agency; Karis and Brom reason independently; Cael records dissent rather than smoothing it away. | High |
+    45	| Humor / warmth | 9/10 | Chapter 17, Brom calling the map a spider and later “Accounting with a *tone*”; Chapter 19, the wall confession. | Humor is character-specific, well timed, and frequently doubles as evidence of trust. | High |
+    46	| Action / suspense | 9/10 | Chapter 19, Cael's late read against Lira; Chapter 20, the complete Lira/Nyle and Brom/Merrick bouts. | The fights are developed decision sequences with terrain, mechanics, adaptation, and cost. Suspense comes from understanding the choices, not from obscuring them. | High |
+    47	| Progression payoff | 9/10 | Chapter 18, from the revised declaration theory through the attention toll and late-day positional decay; Chapter 19, four days off restoring the read. | The movement advances capability through observation and experimental discipline. Findings change both what Cael can predict and what he must sacrifice. | High |
+    48	| Connection | 9/10 | Chapter 15's map and invalid floor trade; Chapter 16's empty-gallery condition; Chapter 17's council rules; Chapters 18–21's tests and consequences. | Plants become tools, costs persist, and relationship decisions alter later behavior. Nearly every discovery is used again in a new context. | High |
+    49	| Read-aloud quality | 9/10 | Chapter 20, Lira's eleven-second bout and the paragraph beginning “It was not the hush of people who have been impressed.” | Cadence is controlled, physical referents stay clear, and dialogue attribution rarely draws attention. A few long reasoning paragraphs are dense but syntactically sound. | Medium-high |
+    50	
+    51	## Internal consistency and disclosure checks
+    52	
+    53	### Canon
+    54	
+    55	No canon evidence was supplied, so there is no basis for declaring a canon violation. Names, institutions, prior events, and Path rules can only be checked for consistency within these seven chapters.
+    56	
+    57	### Physical state
+    58	
+    59	Physical consequences carry well. The cord drill strikes Cael's shin in Chapter 16; the delayed read becomes two falls and a rib bruise against Lira in Chapter 19; the lecturer advises ice. Brom's bout leaves a marked jaw, a depleted guard, and a left arm he carries “as if it belonged to somebody else,” followed by the note that his head still hurts. Lira's four bursts against Nyle are explicitly priced through the hip line and next-day cost. I found no internal physical-state contradiction.
+    60	
+    61	### Power limits
+    62	
+    63	The movement distinguishes hypotheses from rules unusually carefully. Cael labels the first late read “one instance,” tests recovery after four days off, records two instances, and refuses to call it a rule. His Log restates the Wind-adjacent limits, the unchanged landing beat, the read's range, and the five capabilities not advanced since Greyvane. The Shadow analysis progresses from “needs a crowd” to a continuous attention toll and late-day fatigue, but Cael keeps a “cannot reach” column and admits that much of it still rests on one instrument. Seln's viewpoint confirms that a real Path effect exists, while not granting Cael knowledge he has not earned. No internal power-limit breach is apparent.
+    64	
+    65	### Knowledge boundaries
+    66	
+    67	Cael marks the watcher as *probable*, not *confirmed*, before the council. The group considers alternative employers. Later conclusions are tied to observed behavior, paper changes, and repeatable counts. Seln knows he has been found because he reconstructs the door-glass test and observes the group's disciplined nonreaction; Cael never gains access to Seln's private report or thoughts. The dual viewpoint creates dramatic irony without leaking information across characters.
+    68	
+    69	### Reserved disclosures
+    70	
+    71	No reservation plan was supplied, so compliance cannot be verified. Chapter 18 is the movement's major disclosure choice: it names Seln, shows his report, confirms his service connection and Shadow practice, and reveals that he knows Cael found him. This deliberately ends the reader's “is Cael right?” uncertainty and replaces it with “what will two disciplined observers do now?” The trade works on a cold read and gives Seln welcome moral and professional complexity. It should nevertheless be checked against any external reservation plan because it is a substantial reveal, not a minor cutaway.
+    72	
+    73	## Repair brief
+    74	
+    75	### 1. Signal the chronological rewind
+    76	
+    77	- **Location:** End of Chapter 19, from the revised notice on day seventy-nine through the four-day recovery test; opening of Chapter 20, day seventy-seven bracket posting.
+    78	- **Observed issue:** Chapter 20 moves backward at least two days—and effectively behind the closing recovery sequence—without a transition indicating that the bracket material began earlier.
+    79	- **Effect on the reader:** A cold reader may stop to reconstruct dates or assume the chapters are misordered, interrupting momentum just before the movement's strongest action chapter.
+    80	- **Proposed scope:** Add one short orienting phrase or sentence at the start of Chapter 20 establishing that the bracket posting occurred two days before Seln corrected the floor issue. Preserve the present chapter order if the thematic grouping is intentional; no scene restructuring is required.
+    81	- **Strength to preserve:** The immediate image of Cael arriving early not to read the brackets but to watch other people read them.
+    82	
+    83	### 2. Trim only duplicated inference, not investigative steps
+    84	
+    85	- **Location:** Chapter 16 after “*He needs a crowd*”; Chapter 18 around the repeated explanations of the continuous declaration, attention toll, and late-day fatigue.
+    86	- **Observed issue:** Several conclusions are delivered three times in close succession: once through the observed scene, once through Cael's explanatory thought, and once through a binder entry. The repetition is most noticeable after the evidence has already landed cleanly.
+    87	- **Effect on the reader:** The methodical voice remains engaging, but younger or pace-sensitive readers may feel the story pause to prove a point they already understood.
+    88	- **Proposed scope:** Make a line-level compression pass limited to restated interpretation—roughly one explanatory beat where scene, thought, and log say the same thing. Keep every failed method, test, counterexample, binder artifact, and the full Seln viewpoint. Do not shorten the developed fights.
+    89	- **Strength to preserve:** Cael's intellectual honesty and the procedural pleasure of watching an inference become a tested model.
+    90	
+    91	### 3. Orient the measurement vocabulary once
+    92	
+    93	- **Location:** Chapter 20, the seeding explanation around Lira's “*22. Lira. Wind. Cu 2. (transfer)*”; Chapter 21, Bracken's explanation of standings as evidence for squad selection.
+    94	- **Observed issue:** Formal Path tier/rank, ladder-book position, seasonal bracket seed, crown holder, and future tournament-squad selection are all distinct measures, but they arrive in a dense cluster.
+    95	- **Effect on the reader:** A cold reader can infer the system, yet may need to reread before understanding exactly why Lira can be Copper Rank Two, seeded twenty-second, climb toward a Copper crown, and still remain Copper afterward.
+    96	- **Proposed scope:** Add or sharpen one plain orienting sentence distinguishing permanent/formal classification from seasonal standing. Let the later arithmetic and examples do the rest; avoid an added exposition block.
+    97	- **Strength to preserve:** The thematic payoff that every instrument can be honestly administered and still measure the wrong thing.
+     1	# AUTHOR REPORT — Book 4, Movement 3 "Counted" (chapters 15–21)
+     2	
+     3	Author: Monroe Jackson (seat `oconnor` 1.3.0, model `claude-opus-5-5`) · 2026-10-05 (one session; see AUTHORSHIP.md)
+     4	
+     5	**Reader Standard.** `ed.sh gates book-04-copper-crown 3`: reader_standard=0, metadata=0, modern=0 on all seven chapters.
+     6	- No oaths or softer cousins. One draft phrase ("God help him") was cut before the first probe.
+     7	- Violence has cost and no gore. Lira's shoulder under the ribs leaves a bruise ("Ice, not heat"). Merrick's second touch sends Brom's head "further than a head goes on purpose" and darkens his jaw. A cord weight takes Cael across the shin. Nyle's knee folds and he falls "heavily and well".
+     8	- No romance. Lira's laugh and "That's what makes it so entirely you" are warmth, not declaration.
+     9	- Wrong is named as wrong. Cael calls his own counter questions shameful. He names the ladder's calendar as harm while Karis insists it is "not malicious". Lira will not throw a final "to make a point about paper". The agreement page records its own breaks honestly (Brom and the corner).
+    10	
+    11	## Chapters
+    12	
+    13	| # | Title | Words (wc) | Scenes | Summary |
+    14	|---|---|---|---|---|
+    15	| 15 | The Tally | 4,699 | 5 | The stair tally, kept since the second week to time the fame (one in three, falling); its margin notes on who looks how. Day 58: *TA, assessment office: 0 of 7*, written before deciding. Two days of nothing, because the rule of three was cut for tells, not absences. The wider count with a **control column** (desk clerk 9/14, oil-and-brass 5/11, panel porters 7/19; TA **0 of 31**). "That was a man doing something." The four flat readings; four minutes at the counter over a date he knew. The shorthand. Four failed maps (clock / paper *KILLED, NO SIGNAL* / company / rooms → "Not boxes. Seams."). The fifth, by lines (Brom: "a very bad bluff"). **Where would I stand?** Nineteen of nineteen; the four holes are desk hours. The floor-time trade test is useless; he says so to Brom; Brom has noticed him not looking at the wing door. |
+    16	| 16 | Aim | 4,724 | 5 | Day 68: forty minutes early in the empty east hall; the gallery seen in the propped door's glass; the man crosses without slowing at the turned post or looking down. **"He needs a crowd."** Working, not incidental. The Shield instructor's cord drill: the read is a beat late, and a guess goes wrong (the shin). Cause not yet known; logged. Days 69 and 71: the brass session-lamp twice (the Force crack, the Current girl's fall; the porter and his red paste). **"Nobody avoids me… is aim."**, tested against the alternatives; "Somebody thinks I'm worth aiming at." Day 72: Lira at the wall recalls Havel; three kinds of watching; "better at this than I am"; the council called. |
+    17	| 17 | Outvoted | 4,321 | 5 | Sixth-day (day 73), rain, the door locked. Evidence first. Karis tests whose the man is (Withrow asks, Bracken writes, Rooke minutes, Ephram tells the yard): *probable*. Lira: Withrow, tonight. **Brom's protected line answers her.** Karis gives the sum ("an instrument we can read for one we can't even find"). **"It's not settled, it's *outvoted*."** Three agreements: hands off, with the rule under the rule (report a break the same day); the dull read, on purpose; "I'm going to study him"; "meanest thing" / "accounting with a *tone*". On the stair: Karis asks the price (same purse); Lira's vote price ("If he touches your paper wrong… I go to Withrow myself"); "worked round, like furniture"; Brom edges past. Night Log: the price before it comes due; a four-question study plan; the protected entry. |
+    18	| 18 | Product | 4,685 | 5 | **Seln cutaway (≈2,350 words, two scenes).** His day 31: past his own service's two coats at the road foot, who do not see him; the courier office by the fish steps (never the academy bag); the first product (protected lines with his own middle); observation, not inference (the colleague and *uneasy*). Gault's four questions (the author's own); the pencil dot. The sum chosen with the boy at the counter: two shelves. That night he sits on the boy's bench and finds the gallery in the door's glass. Made on day 23, eleven seconds; made twice before by the two hole-seekers, never a target. Withdraw, declare, or go on; he goes on. The boy does nothing; *accounted for*; doctrine is taught; **"who taught him to watch."** Cael: Karis makes him define a declaration (Stone drops, Force sets, Lira folds, Brom bites, Karis lifts her chin); *none observed* turned into a purchase smeared across four hours. The covered-walk rail count: **about a third fewer looks** (a toll, a rate, a purse). The curve: four hours; "I know that bend". The cannot-reach column (how far, touch and speech, floors, one leg — Vell). "It was never me the Path was for." |
+    19	| 19 | The Bruise | 4,816 | 6 | Brom reports the first break (walked into the wing corner). Day 75, east hall, the Current lecturer humming. Lira's first fall is Cael's own fault; the **second** comes from a read that is true but late, with the feet set wrong inside the landing beat. "Say the rest of it out loud… Not in that book" (recomposed). The receipt and the bruise; **"file a bruise"**; called reads at the bell; "Ice, not heat." Day 76: the trade carried forward as hall one; left on purpose, the decision written down, Lira's terms considered. Day 79: the revised issue; read as a bout exchange, "called even"; Lira: "I don't know what to do about a man who does his work properly." **Protected log.** Four days off the counting; the read comes back (one instance); Karis feeds badly; "two hands on one instrument is still one instrument." |
+    20	| 20 | Eleven Seconds | 4,948 | 5 | Day 77, the brackets: 91 / 63 / 19 of 209 / 138 / 65; readers up, down and whole; five whole-column readers, Lira and Fiske among them; the brass stud ("Holder"). **Lira twenty-second** by Bracken's seeding half-sheet; "six, not sixteen"; "the first kindness the paper ever did me." Three drawn sessions that move nobody. Nyle's page. **Lira–Nyle**: three exchanges, four bursts, eleven seconds, felt in Cael's hip; four seconds of silence, "the sound of a category failing"; "Both figures were honest. Neither of them had been watching." Fiske's nod. **Brom–Merrick** (≈1,860 words): cheap feeds; 1–0, 1–1, 1–2 through the seam; he stops turning; three taken flat at full cost; Merrick bounces off a set shoulder (2–2); 3–2. "An ugly, expensive, entirely intelligent win." Rooke at the bench, **"Again. Slower. Watch yourself."**; four words in pencil on the outside of the right wrap. |
+    21	| 21 | Instruments | 4,293 | 5 | The Current first-year in the rain (a practice bout on the page) at seventy-fourth; the sum: sixteen moving bouts at most, so names 69–91 (twenty-three, a quarter) are shut out; Karis: "It isn't malicious." / "It almost always is." Bracken: standings are "evidence… admissible… not a verdict"; the squad. Fiske teaching a first-year by courtesy; the cage, not the fighter. Ephram's rail, with the first-year listening; Ephram corrects himself aloud. Withrow's guests (guild factors, an old benefactor, the river-trade woman). The man found in four seconds; two late days worse; the wing's posted hours confirm both ("a second leg"). Second four-day ease-off (two instances). The horn: *loaded, downstream, give way* / *heard you*. Season log: inventory, "No change in any of the five since Greyvane", **the protected entry**. Lira reads it upside down ("It's the only one they've got"). The cards; the **thought, unwritten**. |
+    22	| | **Total** | **32,486** (wc) | **36** | Budget ≈33,000. formula_metrics prose count 32,469 (before the rhythm splits). |
+    23	
+    24	**POV.** Cael ≈30,100 (≈92.7%); Seln ≈2,350 (ch 18, scenes 1–2, ≈7.2%). Seln's motive is never stated. Nothing about loyalty or switching. The case is not mentioned. He knows only his brief, his cover and what he saw. "Colder country" is not used.
+    25	
+    26	**Development beats (author's count).** Cael, 14:
+    27	1. He writes the noticed thing before judging it (15).
+    28	2. He refuses to build on an absence until he has a control (15).
+    29	3. He asks the fighter's question of a building (15).
+    30	4. He calls his own test useless aloud (15).
+    31	5. "He needs a crowd" means *working* (16).
+    32	6. He tests the aim sentence against its rivals (16).
+    33	7. He names being aimed at without flattery (16).
+    34	8. "Better at this than I am" (16).
+    35	9. He accepts being outvoted the other way: he does nothing, on purpose (17).
+    36	10. He prices the read before the day it comes due (17).
+    37	11. A hole has edges: the negative becomes a purchase (18).
+    38	12. Surveillance becomes Path theory (18).
+    39	13. He says the rest out loud (19).
+    40	14. The error is read as an exchange, not a victory (19).
+    41	15. "Not a rule till three" twice; the question about who built the instruments (21).
+    42	
+    43	Supporting beats: Lira (the vote price; reads the whole column; spends exactly eleven seconds; won't throw a final; reads the log upside down); Brom (answers Lira; the corner; stops turning; pencil); Karis (tests whose; the sum; the same purse; one instrument; checks the calendar); Fiske (whole-column reader; the nod; teaches a first-year); Rooke (three words at the bench); Bracken ("feeds"/"evidence"); Ephram (corrects himself aloud); Withrow (guests); the porter (lamp paste, laces); the Current lecturer ("Ice, not heat", his first non-hour sentence); Seln. No deuteragonist.
+    44	
+    45	## State at movement end (for the ledger)
+    46	
+    47	**Calendar.** Halcenvane days 51–about 110.
+    48	- d52–58 stair tally; d58 *0 of 7*.
+    49	- d60–66 the wider count; d61 onward the shorthand; d66 *0 of 31*, the fifth map, nineteen of nineteen.
+    50	- d67 the floor trade (Cael's east-hall hour for Brom's north-hall hour, one Sixth-day, d73).
+    51	- **d68 the empty east hall = Seln's post day 23** (Seln's post day 1 = d46).
+    52	- d69 and d71 the lamp; d71 "aim"; d72 the wall with Lira.
+    53	- **d73 Sixth-day council.**
+    54	- d74 Brom's corner; d75 Lira's falls; d76 the error seen.
+    55	- **d77 Third-day, brackets.** Session 1 d78; Lira–Nyle session 2; Brom–Merrick session 3.
+    56	- d79 the corrected issue; d80–83 the first ease-off; Seln's product walked down on his day 31 (d76).
+    57	- Third week of the season: the sum. Month's end: the two long days and the second ease-off. The season log on a Seventh-day near day 110.
+    58	- Season: a bout per name about every six days; a little over a hundred days to the final; seventeen bouts at most, the first drawn.
+    59	
+    60	**Cael — body.** A bruise under the right ribs (Lira's shoulder, d75; ice). A cord weight across the shin (d68 drill). Hip unused in quantity this movement.
+    61	
+    62	**Fragments & progression.** Five confirmed; **no change** (logged as a fact). The Tide anomaly is not mentioned.
+    63	- Wind: four free on timber, three on stone, landing beat unchanged.
+    64	- Iron read: a beat late while counting. **On time after four days off, twice: two instances, not yet a rule.** BOOK_MAP M4 "confirmed at three instances" should supply the third.
+    65	- Pressure, Compression and Ember unused.
+    66	
+    67	**Method / Shadow chart.**
+    68	- The stair tally and its control column; the shorthand (day · bell · place · sees); five maps.
+    69	- Positions predicted to the post: east-hall gallery W end by the turned post; yard high W, middle of a knot; lecture stair 2nd landing, wall side; covered-walk east rail.
+    70	- The declaration as a continuous purchase "smeared across four hours".
+    71	- Toll: about a third fewer looks at the covered-walk rail.
+    72	- Curve: the bend at about four hours; long days predict worse places (two confirmed by the wing's posted hours).
+    73	- Cannot-reach column: reach, touch/speech, floors, one instrument.
+    74	
+    75	**Agreements (written, numbered).**
+    76	1. Hands off, with breaks reported the same day (Brom's corner logged).
+    77	2. The dull read, unchanged.
+    78	3. Cael studies him.
+    79	
+    80	Lira's price, in her words: "If he touches your paper wrong… that's the morning I go to Withrow myself." Judged not triggered by the correction.
+    81	
+    82	**Knowledge.**
+    83	- Lira, Brom and Karis know the TA is a watcher: "probable" Compact, Shadow, Bronze.
+    84	- Seln knows he was made on day 23 and that the boy and his friends have done nothing. He has said and written nothing.
+    85	- Nobody institutional knows. The mechanism is unchanged.
+    86	
+    87	**Documents.** The fame tally and control column; the five maps; the agreement page; the Shadow section (*Charted from inside*); the fatigue page with two dated long days; the season log; Karis's copy of the twenty-three sum; the two floor issues (wrong and revised), kept in Cael's coat; Seln's first product, sent by courier as a non-existent cloth merchant.
+    88	
+    89	**Companions.**
+    90	- Lira: Copper R2 formal, **seeded 22nd**, beat Nyle 3–0 in a drawn bout (record only), hip billed.
+    91	- Brom: beat Merrick 3–2 in a drawn bout; jaw bruised, left arm sore; the right wrap carries four words in pencil.
+    92	- Karis: unchanged standing; copy of the sum.
+    93	
+    94	**Watchers.** Rotations unchanged (two and two, on the bell). Seln embedded, positioned by the curve.
+    95	
+    96	## New canon minted (flag where marked)
+    97	
+    98	- **Seeding half-sheet (flag).** Returners go first, in last season's closing order (21 Copper returners entered); new names go next by formal rank, then by signing order. Lira's Rank Two sets her 22nd. This reconciles M2's "the foot" / "sixty-fifth line" / "Sixteen" with the packet's twenty-second. Lira: "counted from the wrong book."
+    99	- **Three drawn opening sessions (flag).** They count in the record and move nobody. This explains Lira (22nd) vs Nyle (9th) and Brom vs Merrick (14th) under the four-up rule.
+   100	- **Ladder bouts use the Crown-yard rule:** first to three clean touches; a strike taken on a set, hardened guard is not clean.
+   101	- **Office hall numbers (flag).** Hall one = north hall (stone), hall three = east hall (timber); this carries the protected "Sixth-day, hall three". The office numbers its days (Sixth-day), while M1/M2 also use Tuesday/Thursday in speech; the mixed weekday naming is flagged.
+   102	- **The schedule error** is the one-week trade carried forward, corrected unasked on Fifth-day.
+   103	- **The east hall gallery** doubles as staff's upper way to the north hall; the propped near door's glass shows it.
+   104	- **The wing's other four staff** (unnamed): desk clerk, oil-and-brass woman, two panel porters.
+   105	- **Seln.** Courier as a cloth merchant up the coast; Gault's four questions (the author's own; not the source's); the pencil-dot correction; the 4×19 error chosen with the boy present ("two shelves"); the two prior makings were the two hole-seekers of ch 14; his night visit to the bench.
+   106	- **Lira's vote price** (above). Brom's pencil on the outside of the right wrap (the M2 ink stays inside the left).
+   107	- **The barge answer:** two short = *heard you* (fine for silence, double fine for a wrong answer).
+   108	- **The Current first-year** at 74th (unnamed); the twenty-three shut out (names 69–91).
+   109	
+   110	## Protected and packet lines used
+   111	
+   112	Verbatim (grep-checked after final edits):
+   113	- "He needs a crowd."
+   114	- "Nobody avoids me that consistently by accident. Avoidance at that precision is aim."
+   115	- "We know where their eyes are. First time ever. Why would we give that back?"
+   116	- "It's not settled, it's *outvoted*."
+   117	- "Shadow Path, Bronze, fifteen years' craft if he's a day. The Compact finally sent someone worth watching. So I'm watching."
+   118	- First product: *Subject's routine is disciplined and unremarkable. Trains under supervision* … *Extensive private notation habit* … *No undisclosed capability observed.*
+   119	- "Fifteen years say the file's question is the wrong question. The interesting question is who taught him to watch."
+   120	- "He fixed it. Sixth-day, hall three. Nobody asked him to." / "We're playing now. Neither of us has said so. I don't think either of us is going to."
+   121	- "Again. Slower. Watch yourself." (tag removed from inside the line in the final pass)
+   122	- The Ch8 season log, in full.
+   123	- The thought, unwritten: "Somebody built these instruments… That was a decision." with the author's own middle; "I'd like to know who made it." stands as its own paragraph.
+   124	- "Where would I stand?"
+   125	
+   126	Packet lines kept close and short: *KILLED, NO SIGNAL*; "That was a man doing something."; "accounting with a *tone*"; "It isn't malicious."; "loaded, downstream, give way"; "an ugly, expensive, entirely intelligent win"; "You're the only person I've ever met who'd file a bruise."
+   127	
+   128	Recomposed for the 8-word gate: "an instrument we can read for one we can't even find"; "That's the meanest thing you've ever said, Cael."; "So say the rest of it out loud, then. Not in that book, where I've got to wait for it."; "It almost always is."
+   129	
+   130	## Source reuse
+   131	
+   132	- `ed.sh overlap book-04-copper-crown 3`: **0 unprotected, 8 protected**.
+   133	- `sweep_probe.sh book-04-copper-crown 3 3`: **skeleton 1%, close 13%** (1,377 sentences).
+   134	- By chapter (skeleton / close): ch15 0/11; ch16 1/10; ch17 2/14; ch18 1/14; ch19 1/14; ch20 0/14; ch21 2/13.
+   135	- Highest scene: ch21 s5 at 7% / 27%, carrying the protected log and thought (about 20% close unprotected). Next highest: ch19 s5 at 3% / 21% (protected log) and ch17 s2 at 3% / 21% (protected Brom line).
+   136	- First drafts and the rebuilds are in AUTHORSHIP.md.
+   137	
+   138	## Formula — measured once on the finished chapters
+   139	
+   140	```
+   141	words_total 32469 · sentences 2310
+   142	sentence_mean 14.06 (target 14.6) · median 9.0 (target 11) · sd 12.35
+   143	share_le5_words 0.285 · share_ge40_words 0.051
+   144	paragraph_median 32.0 · paragraph_mean 44.0
+   145	scene_breaks_marked 29 · per_10k 8.93 · words_per_scene 901.9 (target 950)
+   146	flesch_reading_ease 87.0 (target 72.3) · flesch_kincaid_grade 4.61 (target 6.8)
+   147	```
+   148	
+   149	The ≥40-word share (5.1%) was over its working range. **Twenty-five long sentences were split by hand** at points where the thought turned. Each split was chosen by reading; the script applied exact strings only. Recounted afterward with the same splitter (`formula_metrics.SPLIT`), not a second metrics run: 2,340 sentences, **mean 13.85, ≥40 4.1%, ≤5 28.2%**, paragraph median 32.
+   150	
+   151	| Measure | Observed (after splits) | Working range | Status |
+   152	|---|---|---|---|
+   153	| Sentence mean | 13.85 | 13–15.5 | in range |
+   154	| ≥40-word share | 4.1% | 2.5–4.5% | in range |
+   155	| Words per scene | ≈902 | 850–1,050 | in range (mean) |
+   156	| ≤5-word share | 28.2% | up to ~34% | in range |
+   157	| Paragraph median | 32 | up to ~30 | **slightly over** (reported, not repaired) |
+   158	| FK grade | 4.61 | 3.5–6 | in range |
+   159	
+   160	Scene spread:
+   161	- Under 850: ch16 s5 818; ch17 s3–s5 (816 / 695 / 703); ch18 s3–s4 (770 / 718); ch19 s2–s6 (755–830); ch20 s2 750, s4 622; ch21 s2 657, s3 822, s4 696.
+   162	- Over 1,050: ch16 s1 1,116; ch17 s1 1,232; ch18 s1–s2 (1,180 / 1,169, the Seln window); ch20 s3 1,490 (Lira–Nyle), s5 1,239 (Brom–Merrick, second half); ch21 s1 1,209.
+   163	
+   164	Secondary (rough greps):
+   165	- "that" ≈371 (≈114 per 10k; above the 92 hint).
+   166	- said/asked ≈175 (≈54 per 10k; above ≈41).
+   167	- Progression/Path lexicon ≈407 by a broad grep that counts Path names and "read" (≈125 per 10k). A narrow system-vocabulary count would be lower. Per OWNER-DECISIONS #14, the two counts should be reported separately at review.
+   168	
+   169	## Not resolved / for the owner or coordinator
+   170	
+   171	1. **Lira's seed.** The packet's twenty-second against M2's "the foot / sixty-fifth / Sixteen" is reconciled by the seeding half-sheet. Confirm, or rule that M2's clerk scene be adjusted in recheck.
+   172	2. **The drawn opening sessions** (new mechanism). Later movements should count Lira's six climbing wins from the first challenge session.
+   173	3. **Calendar.** The packet's "About five weeks in" conflicts with the ledger (we enter at day 51+). The ledger was followed.
+   174	4. **Hall numbers and weekday naming** (office "Sixth-day" vs spoken Tuesday/Thursday in M1/M2).
+   175	5. **Read recovery:** two instances in M3; M4 owes the third before "rule".
+   176	6. **"Decision point" not used.** No Ephram–Cael contact beyond his public deferral. The Architect thought is kept to the single unwritten paragraph. No case, no motive, no mechanism in Seln's window.
+   177	7. **Rhythm:** paragraph median 32 (over ~30); "that" and dialogue tags above their hints. Repair candidates if the review wants them.
+   178	8. **Names:** none new. Unnamed by design: the wing's four staff, the Current lecturer, the Shield instructor, the Current first-year, the Blade second-year, the guild factors, the river-trade woman, the old benefactor, the results clerk, the lock boy, the courier's clerk.
+   179	
+   180	## Repair r1
+   181	
+   182	Same-author repair against REPAIR-BRIEF.md, review-editorial.md and review-cold.md (2026-10-05). It was done in place, by reading. Every change was chosen and worded by hand; a script only applied the exact before→after strings and failed on any miss. Source chapters were not reopened. Only ch15–21 and this report were edited; no git.
+   183	
+   184	### Priority 1: canon and counts
+   185	
+   186	- **ch21 Fiske (canon).** "Copper Rank Eight was as high as Copper went… no Rank Nine" is gone. Now her *certificate* says Rank Eight and has said so for two years. Rank, like tier, changes only by an Arbiter's advancement evaluation; no bout adds a number. "The bracket her paper put her in was the only bracket she could ever fight in." Kept: no evaluation requested, Lira's wash-house reason, the stair-with-no-landing cage, Fiske teaching the first-year.
+   187	- **ch20 rewind.** Opening: "The brackets went up two days before the floor sheet came right, at the first bell on the seventy-seventh morning…" Cael still arrives early to watch the reading.
+   188	- **ch20 Nyle, third exchange: exactly four bursts.** The first move of the exchange is now a half-step on foot with no Wind in it. Then the third burst goes right, and the fourth, short, begins as the third's landing beat releases. Count: 1 + 1 + 2 = 4. Eleven seconds, three touches, the unchanged landing beat and "Four bursts" in the tally are all kept.
+   189	- **ch20 "the foot".** "The clerk had told her the foot, and he had not been wrong: in the ladder book… she stood on the sixty-fifth line, the last. But the ladder book was not the bracket."
+   190	
+   191	### Priority 2: say it once; orient once
+   192	
+   193	- **ch16.** Cut the "He knew what he had seen…" paragraph that restated the gallery scene before the binder's four words. The scene, the binder note and the next deduction (conditions mean *working*) all remain.
+   194	- **ch18, the toll.** Cut "And a toll is charged at a rate…", which the binder line then said again. Cut "The Path did not make him vanish."
+   195	- **ch18, the curve.** The afterthought "He had simply been paying it in a currency…" and its lead-in are replaced by "Now he had found its edges." The scene, the binder entry and the cannot-reach column are intact. The Seln window is untouched.
+   196	- **ch20, formal vs seasonal (one sentence pair).** "Her paper and her place were two different measures… Copper Rank Two was her classification, written on her certificate by an Arbiter and changed only by an advancement evaluation. Twenty-second was her seed, a standing the ladder could move every six days and would wipe clean at the season's end."
+   197	- **ch21, Bracken.** Added "Nor a standing with a rank. A standing is this season's chalk. A rank is what the registry has written on a certificate, and the registry does not read our wall."
+   198	
+   199	### Priority 3: vocabulary and paragraphs (light)
+   200	
+   201	- **Established terms at existing teaching turns.** No new exposition was added.
+   202	  - *baseline* (ch15 tally; ch17 doctrine; ch21 plate).
+   203	  - *semester evaluation / assay provision* (ch15 calendar).
+   204	  - *Bronze-tier* (ch15, ch18).
+   205	  - *tier and rank* (ch15 "Where would I stand?").
+   206	  - *fragment* (ch16 read and log; ch17 log; ch21 inventory header).
+   207	  - *Path declaration* (ch17 study plan; ch18 dialogue and binder).
+   208	  - *ceiling* (ch17 plan; ch18 curve; ch21 Wind line).
+   209	  - *classification* (ch17).
+   210	  - *deployment* (ch21 Ember line).
+   211	- **Paragraph breaks** at thought turns, 16 in all: ch15 ×4, ch16 ×3, ch17 ×1, ch18 ×3, ch19 ×1, ch20 ×2, ch21 ×1. The ch21 Bracken insertion also lengthened one speech.
+   212	
+   213	### Checks after repair
+   214	
+   215	- `ed.sh overlap`: **0 unprotected**, 8 protected.
+   216	- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+   217	- `sweep_probe.sh book-04-copper-crown 3 3`: **skeleton 1%, close 13%** (1,385 sentences), the same as before the repair. By chapter: ch15 0/11, ch16 1/10, ch17 2/14, ch18 1/13, ch19 1/14, ch20 0/14, ch21 2/12.
+   218	
+   219	**Words (wc):** ch15 4,745 · ch16 4,637 · ch17 4,360 · ch18 4,624 · ch19 4,816 · ch20 5,038 · ch21 4,341 · **total 32,561**, inside 31,500–33,500.
+   220	
+   221	**Metrics** (`formula_metrics.py`, ch15–21):
+   222	
+   223	| Measure | Before r1 (recount after the 25 splits) | After r1 | Working range |
+   224	|---|---|---|---|
+   225	| Sentence mean | 13.85 | 13.86 | 13–15.5 |
+   226	| ≥40-word share | 4.1% | 4.1% | 2.5–4.5% |
+   227	| Words per scene | ≈902 | 902 | 850–1,050 |
+   228	| ≤5-word share | 28.2% | 28.0% | up to ~34% |
+   229	| Paragraph median | 32 | 33 | up to ~30 |
+   230	| FK grade | 4.61 | 4.56 | 3.5–6 |
+   231	| FRE | 87.0 | 87.1 | target 72.3 |
+   232	
+   233	- **Paragraph median.** The 16 breaks split long paragraphs into medium ones, so the median did not fall; it now reads 33. Lowering it further would mean breaking ordinary paragraphs where the thought does not turn, which the brief forbids. It is reported, not chased.
+   234	- **Progression vocabulary.** On the reviewer's BOOK_MAP §7 lexicon, by my grep (which counts slightly more generously than the review's 142), the count went from 167 to 211 hits, about 51 → 65 per 10k. On the review's method that is roughly 44 → 57 per 10k. It is still under the ≈80 plan. As the brief directed, it was not forced with exposition.
+

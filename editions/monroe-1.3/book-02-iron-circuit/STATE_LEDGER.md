@@ -544,3 +544,251 @@ Open threads now:
 - Recheck fixes: ch19 "one bout in the fortnight besides Brom" (not two); ledger abbreviations spelled for the narrator ("Iron-equivalent", "exchange two") in ch17, ch20, ch22.
 - Verified: Coss's grey slip consistent with B1 ch60 (senior-floor slip, unknown code, "The day after"; no entry; empty log page); no Cael-POV use of cutaway-only facts; the hold is about one beat everywhere.
 - Authorship: claude-opus-5-5. Published to the PWA: Book 2 edition ch1–22, "in progress".
+
+
+## After Movement 4 (chapters 23–29; repair r1 applied 2026-10-05; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- THE BROM BOUT (main floor, ~four hundred watching, 26 lamps): Cael's plan fails honestly by the M3 mechanics — the recovery is real, but each hard answer throws him out of reach of the gap; half the gap he timed on the post was the rope swinging it back; against fast men Brom breathes on his READ, not on contact (exchange two closes the breath-before-contact route). Cael lifts his own hand: "Called. Hand up. Fourth exchange." (not called down for failing to rise).
+- The third exchange: an unexplained ABSENCE (Brom's read finds nobody) — no theory of its source; kept distinct from the Iron-adjacent read (ch29 Log comparison by evidence: hush and notice vs neither; felt on the skin vs nothing; a cost vs none; stillness vs mid-exchange; "a piece of his read" vs "his read finding nobody").
+- IRON-ADJACENT acquired (ch28 FRAGMENT ACQUIRED notice); it opened once unasked, on Lira through the bedroom wall, and was shut at once → first entry in a new Log column "CARRYING".
+- The "LEAN": a first-touch tell of whether Brom means to stop a hit or send it back; Brom didn't know it; he can fake it at about a beat's cost (a sparring term keeps it in the alcove).
+- Cael SAYS the word himself, plainly: "Shattered," … "That's my word. The one the hall in Denvash wrote down." (spoken: no brackets).
+- Lira keeps her distance from Brom ("I like him" reserved for M5). Three packet lines reworded for the 8-word gate (none quoted later).
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.**
+- Bout **Tuesday**, main floor, lamps lit; about four hundred present.
+- **Wednesday**: the bread, the market-square wall and the terms; Lira hears it that evening.
+- Wednesday to Saturday: Cael walks with Lira's measuring stick. **Saturday** (the fourth day) he climbs the market steps without it.
+- Sparring mornings:
+  - **Sunday**, first morning: the terms, the crosses, the quarter test;
+  - **Monday**, second morning: the lean; "stop being careful";
+  - **Tuesday**, a week to the day, third morning: **FRAGMENT ACQUIRED** and the whole Log.
+- **Wednesday**: the teaching day and the day-one entry.
+- Dace's **main season posts on the Monday after the teaching day** (he said "Monday week" on the Wednesday after the bout).
+- Frost, ice in the trough and the water barrel. Still the cold end of autumn; no months named.
+
+**Bodies.**
+- Cael:
+  - both knees swollen after the bout (the right worse), easing over the week, walking by Saturday; sparring is done on fixed crosses to spare them;
+  - right arm numb from the elbow on the night, recovered;
+  - hip line bright from the reactive burst, faded;
+  - forearms blue on the inside from wrist to elbow (mornings one to three);
+  - right shoulder rang from the quarter test and lifts only to the ear on the second morning;
+  - a further shoulder-to-wall knock on the third morning;
+  - **headache band** after each Iron-adjacent opening (an hour or more).
+- Brom: a fist-sized bruise low on the right ribs, under the arm (the third-exchange strike), yellow-green by the first morning.
+- Lira: the upper-arm bruise (Wendel) gone from plum to green; a fresh wrist cloth.
+
+**Fragments and progression.**
+- **Three fragments**, all partial.
+- **Notice received**, third sparring morning, mid-reset, exact (BOOK_MAP §8 item 1):
+  ```
+  FRAGMENT ACQUIRED
+  [unnamed] — Iron-adjacent. Duration: sustained. Integration: partial.
+  Tier equivalent: unknown.
+  Note: surface-awareness component. Pressure read, limited range.
+  ```
+  He wrote it in ink before he spoke. Arrival: the quiet, then a thin layer "settling outward" over the skin; for one breath he felt the wall, post, lamp and Brom. It came unasked after three mornings at a forearm's length. *Not taken, not called… found in him afterward.* He does not conclude that he can take anything, and nobody says so.
+- **Iron-adjacent, as logged (day one):**
+  - stillness only; quiet; not trying ("the moment I aim at it, it shuts");
+  - one strong signature at three paces or under;
+  - opened once in about forty tries, then twice more; held four, three and five breaths;
+  - lost to any movement, his or Brom's;
+  - it gives where, which way, alive, and a shape; it does not give distance, identity, motion or range;
+  - cost: attention itself (four breaths ≈ a night of the gaze); a band behind the eyes a minute later;
+  - **will not share**: the hip's lean or the hollow's stir shoulders it out.
+  - Brom: "It's for *knowing*." Brom's own took two years to run under movement and now costs him nothing.
+  - **Unasked opening, evening of day one**: Lira through the wall, about two paces, "a bird on a sill". Shut at once.
+- **Wind**: two in the bout. One reactive, off a fall in exchange one (rule broken, wide line). One read, in exchange two after the knees: full read price for about a hand's width. Then shut for the night. Unused since; Brom: "the thing like a Wind's gone quiet".
+- **Pressure**: none in the bout (rule kept; it leaned twice). Once in the alcove at a quarter, on the beat, into a hardened forearm: it returns everything fed it "and some more", and the shoulder rings. The rule is confirmed and stays in ink.
+- **The third-exchange absence**: logged in the Log's back pages as a thing that happened once and is not a fragment: no lean, nothing spent, no handle. *Don't give it a name. Don't go looking for it.* Brom files it as "a place where nobody was", with no shelf. **Unexplained**, to be filed beside session nine later.
+- **Brom's mechanics as learned at close range:**
+  - the hold is "a well", soft-then-hard when new, hard from the first touch by the third repeat;
+  - the recovery is "an arm. Warm.";
+  - **holding versus sending is readable in the first touch**: sending carries a *lean* ("a door that's not latched"), stopping is flat;
+  - Brom can fake the lean at about a beat's cost, "ugly". He did not know the lean existed.
+  - Against fast men he breathes on the read, not the fist (it reaches about two strides).
+  - He throws people far on purpose to keep them out of his recovery (learned in the boat shed).
+
+**Power Log / grey book — quotable.**
+- Log, new page before the bout: *Wind: read-fed bursts only. Never reactive.* / *Pressure: locked. Don't open it. Not once.*
+- Log back pages (bout night):
+  - *Brom. Main floor. Lost, fourth exchange, hand up. My hand.*;
+  - the plan wrong on contact (*Nobody he can throw can stand in that gap*);
+  - the second door (*The column was true and out of date*);
+  - the third (*One time is a thing that happened, not a thing I have. Don't give it a name. Don't go looking for it. Write it down and leave it where it fell.*);
+  - the accounting (*A thing that charges whole and pays a third is a leak*);
+  - *Every ability has two ledgers. One is what it costs to use. The other is what it costs to carry it shut, and not use it. I've only been keeping the first. Open the second.*;
+  - the new column ***Carrying***;
+  - ***Also: made a friend today.***
+- Grey book: *From the knuckles: the hold is a well… I could feel his pulse in it.* / *Sending: a lean, in the first touch… He didn't know it was there.* / *He learned something about himself from my hand this morning.*
+- Log, IRON-ADJACENT (six fields; the notice at the head, in ink): see above; *Open questions… B.: it's for knowing.*; outside the fields: *I own something I cannot use. Twice before… Begin.*
+- *Carrying*, first entry: *L., through the wall. Didn't.* (He means to show Lira first.)
+
+**Ratings and ledger lines.**
+- Day book and the red-taped main-floor book (Vell writes both, standing on the floor): *Brom. Win. Fourth exchange, hand up.* / *Cael. Atypical movement, third exchange.*, plus Vell's addendum in speech: "I saw something. I don't know what it was. That's going in as well."
+- Cael: still assessed-Copper. The loser's purse is "more than he had ever taken home from a side floor as the winner". Dace says card-holders "who didn't on Tuesday morning" will now want him.
+- Betting: four to one by the bill, five to one by bout day (the carters). The fruit woman won a copper; the river-academy man lost his.
+
+**Money / home.** The loser's main-floor purse (amount not stated). Lira's measuring stick lent and returned. The heavyset man's wife's bread-and-cheese parcel, carried and uneaten. Lira's dock partner still at first light.
+
+**Knowledge.**
+- **Brom**:
+  - Cael's word, [SHATTERED], said by Cael;
+  - "pieces… of other things", no mechanism;
+  - **the whole Power Log**, every page, including both sources' names and the new notice;
+  - that Cael felt his read ("You're very big on it").
+  - He does not know how fragments arrive and offers no theory.
+- **Lira**: the bout's third from the rope ("a man who'd lost somebody in a crowd"); the market story; the terms; the notice; that Brom read the whole Log.
+- **Keth**: "the middle learns… the truth is at the very start of the touch". Nothing of Brom's method.
+- **Dace**: that nobody knows what the third was, by his own wish.
+- **Vell**: what she saw, written as unexplained.
+- **Hesk**: Cael's pre-bout letter arrives after the bout; nothing new from him on the page.
+- **Nobody else** knows the Log.
+
+**Relationships.**
+- **Cael and Brom**: a friend, with terms. Five terms in all:
+  1. full read;
+  2. say what you're testing;
+  3. stop if hurt past learning;
+  4. say *something* at once;
+  5. Brom's method stays in the alcove.
+  Brom has stopped being careful at Cael's request. The Log is shared.
+- **Lira and Brom**: undecided. She keeps away from the mornings "on my own time. Not on yours"; concedes "He's right"; laughs at "from the front".
+- **Lira and Cael**: she minded the Log and said so; the *Carrying* column is to be shown to her first.
+- **Vell**: left her table on a card for the first time.
+- **The old yard-owner**: came to the Ironyard as a visitor and nodded twice at the start, "more than that" at the door. Unnamed.
+- **Keth**: the debt paid in kind.
+
+**Compact / watchers.** None on the page. Coss's grey slip and unsigned second line, and Havel's four archived files and private note, are untouched and uncontradicted. The two men in "plain dark coats too good for the district" at the bout are texture only: no link to the Compact, the file or any watcher. The river-academy man (the watcher-Blade) is present, nods, and loses his coin. No Iron Skin-texture watcher appears; the large unnamed stranger of M2 was Brom and is now named.
+
+**Open threads now.**
+- The third-exchange absence (unexplained).
+- Iron-adjacent's apprenticeship: crowds, two signatures, the unkindled, movement, cost.
+- The *Carrying* column.
+- Lira's view of Brom.
+- Lira's two confirming bouts (after Tuesday, not yet on the page).
+- The main season on Monday.
+- Plus every M3/M2/M1 thread: Vell's back cover; Coss's second empty page; Havel's note; *sustained*; the unasked right step; the concurrent use; the oldest books; Hesk's history; the Book 1 stranger.
+
+## State at movement end (for the ledger)
+
+**Calendar.**
+- Bout **Tuesday**, main floor, lamps lit; about four hundred present.
+- **Wednesday**: the bread, the market-square wall and the terms; Lira hears it that evening.
+- Wednesday to Saturday: Cael walks with Lira's measuring stick. **Saturday** (the fourth day) he climbs the market steps without it.
+- Sparring mornings:
+  - **Sunday**, first morning: the terms, the crosses, the quarter test;
+  - **Monday**, second morning: the lean; "stop being careful";
+  - **Tuesday**, a week to the day, third morning: **FRAGMENT ACQUIRED** and the whole Log.
+- **Wednesday**: the teaching day and the day-one entry.
+- Dace's **main season posts on the Monday after the teaching day** (he said "Monday week" on the Wednesday after the bout).
+- Frost, ice in the trough and the water barrel. Still the cold end of autumn; no months named.
+
+**Bodies.**
+- Cael:
+  - both knees swollen after the bout (the right worse), easing over the week, walking by Saturday; sparring is done on fixed crosses to spare them;
+  - right arm numb from the elbow on the night, recovered;
+  - hip line bright from the reactive burst, faded;
+  - forearms blue on the inside from wrist to elbow (mornings one to three);
+  - right shoulder rang from the quarter test and lifts only to the ear on the second morning;
+  - a further shoulder-to-wall knock on the third morning;
+  - **headache band** after each Iron-adjacent opening (an hour or more).
+- Brom: a fist-sized bruise low on the right ribs, under the arm (the third-exchange strike), yellow-green by the first morning.
+- Lira: the upper-arm bruise (Wendel) gone from plum to green; a fresh wrist cloth.
+
+**Fragments and progression.**
+- **Three fragments**, all partial.
+- **Notice received**, third sparring morning, mid-reset, exact (BOOK_MAP §8 item 1):
+  ```
+  FRAGMENT ACQUIRED
+  [unnamed] — Iron-adjacent. Duration: sustained. Integration: partial.
+  Tier equivalent: unknown.
+  Note: surface-awareness component. Pressure read, limited range.
+  ```
+  He wrote it in ink before he spoke. Arrival: the quiet, then a thin layer "settling outward" over the skin; for one breath he felt the wall, post, lamp and Brom. It came unasked after three mornings at a forearm's length. *Not taken, not called… found in him afterward.* He does not conclude that he can take anything, and nobody says so.
+- **Iron-adjacent, as logged (day one):**
+  - stillness only; quiet; not trying ("the moment I aim at it, it shuts");
+  - one strong signature at three paces or under;
+  - opened once in about forty tries, then twice more; held four, three and five breaths;
+  - lost to any movement, his or Brom's;
+  - it gives where, which way, alive, and a shape; it does not give distance, identity, motion or range;
+  - cost: attention itself (four breaths ≈ a night of the gaze); a band behind the eyes a minute later;
+  - **will not share**: the hip's lean or the hollow's stir shoulders it out.
+  - Brom: "It's for *knowing*." Brom's own took two years to run under movement and now costs him nothing.
+  - **Unasked opening, evening of day one**: Lira through the wall, about two paces, "a bird on a sill". Shut at once.
+- **Wind**: two in the bout. One reactive, off a fall in exchange one (rule broken, wide line). One read, in exchange two after the knees: full read price for about a hand's width. Then shut for the night. Unused since; Brom: "the thing like a Wind's gone quiet".
+- **Pressure**: none in the bout (rule kept; it leaned twice). Once in the alcove at a quarter, on the beat, into a hardened forearm: it returns everything fed it "and some more", and the shoulder rings. The rule is confirmed and stays in ink.
+- **The third-exchange absence**: logged in the Log's back pages as a thing that happened once and is not a fragment: no lean, nothing spent, no handle. *Don't give it a name. Don't go looking for it.* Brom files it as "a place where nobody was", with no shelf. **Unexplained**, to be filed beside session nine later.
+- **Brom's mechanics as learned at close range:**
+  - the hold is "a well", soft-then-hard when new, hard from the first touch by the third repeat;
+  - the recovery is "an arm. Warm.";
+  - **holding versus sending is readable in the first touch**: sending carries a *lean* ("a door that's not latched"), stopping is flat;
+  - Brom can fake the lean at about a beat's cost, "ugly". He did not know the lean existed.
+  - Against fast men he breathes on the read, not the fist (it reaches about two strides).
+  - He throws people far on purpose to keep them out of his recovery (learned in the boat shed).
+
+**Power Log / grey book — quotable.**
+- Log, new page before the bout: *Wind: read-fed bursts only. Never reactive.* / *Pressure: locked. Don't open it. Not once.*
+- Log back pages (bout night):
+  - *Brom. Main floor. Lost, fourth exchange, hand up. My hand.*;
+  - the plan wrong on contact (*Nobody he can throw can stand in that gap*);
+  - the second door (*The column was true and out of date*);
+  - the third (*One time is a thing that happened, not a thing I have. Don't give it a name. Don't go looking for it. Write it down and leave it where it fell.*);
+  - the accounting (*A thing that charges whole and pays a third is a leak*);
+  - *Every ability has two ledgers. One is what it costs to use. The other is what it costs to carry it shut, and not use it. I've only been keeping the first. Open the second.*;
+  - the new column ***Carrying***;
+  - ***Also: made a friend today.***
+- Grey book: *From the knuckles: the hold is a well… I could feel his pulse in it.* / *Sending: a lean, in the first touch… He didn't know it was there.* / *He learned something about himself from my hand this morning.*
+- Log, IRON-ADJACENT (six fields; the notice at the head, in ink): see above; *Open questions… B.: it's for knowing.*; outside the fields: *I own something I cannot use. Twice before… Begin.*
+- *Carrying*, first entry: *L., through the wall. Didn't.* (He means to show Lira first.)
+
+**Ratings and ledger lines.**
+- Day book and the red-taped main-floor book (Vell writes both, standing on the floor): *Brom. Win. Fourth exchange, hand up.* / *Cael. Atypical movement, third exchange.*, plus Vell's addendum in speech: "I saw something. I don't know what it was. That's going in as well."
+- Cael: still assessed-Copper. The loser's purse is "more than he had ever taken home from a side floor as the winner". Dace says card-holders "who didn't on Tuesday morning" will now want him.
+- Betting: four to one by the bill, five to one by bout day (the carters). The fruit woman won a copper; the river-academy man lost his.
+
+**Money / home.** The loser's main-floor purse (amount not stated). Lira's measuring stick lent and returned. The heavyset man's wife's bread-and-cheese parcel, carried and uneaten. Lira's dock partner still at first light.
+
+**Knowledge.**
+- **Brom**:
+  - Cael's word, [SHATTERED], said by Cael;
+  - "pieces… of other things", no mechanism;
+  - **the whole Power Log**, every page, including both sources' names and the new notice;
+  - that Cael felt his read ("You're very big on it").
+  - He does not know how fragments arrive and offers no theory.
+- **Lira**: the bout's third from the rope ("a man who'd lost somebody in a crowd"); the market story; the terms; the notice; that Brom read the whole Log.
+- **Keth**: "the middle learns… the truth is at the very start of the touch". Nothing of Brom's method.
+- **Dace**: that nobody knows what the third was, by his own wish.
+- **Vell**: what she saw, written as unexplained.
+- **Hesk**: Cael's pre-bout letter arrives after the bout; nothing new from him on the page.
+- **Nobody else** knows the Log.
+
+**Relationships.**
+- **Cael and Brom**: a friend, with terms. Five terms in all:
+  1. full read;
+  2. say what you're testing;
+  3. stop if hurt past learning;
+  4. say *something* at once;
+  5. Brom's method stays in the alcove.
+  Brom has stopped being careful at Cael's request. The Log is shared.
+- **Lira and Brom**: undecided. She keeps away from the mornings "on my own time. Not on yours"; concedes "He's right"; laughs at "from the front".
+- **Lira and Cael**: she minded the Log and said so; the *Carrying* column is to be shown to her first.
+- **Vell**: left her table on a card for the first time.
+- **The old yard-owner**: came to the Ironyard as a visitor and nodded twice at the start, "more than that" at the door. Unnamed.
+- **Keth**: the debt paid in kind.
+
+**Compact / watchers.** None on the page. Coss's grey slip and unsigned second line, and Havel's four archived files and private note, are untouched and uncontradicted. The two men in "plain dark coats too good for the district" at the bout are texture only: no link to the Compact, the file or any watcher. The river-academy man (the watcher-Blade) is present, nods, and loses his coin. No Iron Skin-texture watcher appears; the large unnamed stranger of M2 was Brom and is now named.
+
+**Open threads now.**
+- The third-exchange absence (unexplained).
+- Iron-adjacent's apprenticeship: crowds, two signatures, the unkindled, movement, cost.
+- The *Carrying* column.
+- Lira's view of Brom.
+- Lira's two confirming bouts (after Tuesday, not yet on the page).
+- The main season on Monday.
+- Plus every M3/M2/M1 thread: Vell's back cover; Coss's second empty page; Havel's note; *sustained*; the unasked right step; the concurrent use; the oldest books; Hesk's history; the Book 1 stranger.
