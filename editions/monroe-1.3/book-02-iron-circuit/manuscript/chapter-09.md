@@ -12,7 +12,7 @@ He read them twice. Then he read them a third time with his finger beside the li
 
 Vell waited.
 
-"The first one. You've got a note: *opp. tried the spinning cut, second.* He won in the third. This one: *opp. pressed hard from the word.* He won in the second, and the pressing was all in the first." He moved his finger down. "This one went to the fourth. Your note says the other man was a Shield and didn't do anything showy until the third. He never wins first. He waits for somebody to spend something, and then he takes what they spent it on."
+"The first one. You've got a note: *opponent tried the spinning cut, second.* He won in the third. This one: *opponent pressed hard from the word.* He won in the second, and the pressing was all in the first." He moved his finger down. "This one went to the fourth. Your note says the other man was a Shield and didn't do anything showy until the third. He never wins first. He waits for somebody to spend something, and then he takes what they spent it on."
 
 "And the losses?"
 

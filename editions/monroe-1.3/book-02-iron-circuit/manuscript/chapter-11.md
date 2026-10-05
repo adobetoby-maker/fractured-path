@@ -126,7 +126,7 @@ He did not ask. She saw him not ask, and the smile changed a little.
 
 Vell had written the line. She turned the book toward them without a word, and Cael read it upside down.
 
-*Lira, Copper formal, Wind. L. to Dravin (Iron-equiv., Wind). Sixth exchange. Pressed throughout.*
+*Lira, Copper formal, Wind. L. to Dravin (Iron-equivalent, Wind). Sixth exchange. Pressed throughout.*
 
 Vell had never written *pressed* beside Lira's name, because there had never been any reason to.
 

@@ -128,7 +128,7 @@ She was not smiling at Vell's table this time; she was too tired to smile. She s
 
 Vell wrote. Cael read it upside down.
 
-*Lira, Copper formal, Wind. def. —* and the clock's name, which Cael read and did not keep — *(Iron-equiv., Blade). Fifth exchange. Pressed throughout. Matched pace.*
+*Lira, Copper formal, Wind. def. —* and the clock's name, which Cael read and did not keep — *(Iron-equivalent, Blade). Fifth exchange. Pressed throughout. Matched pace.*
 
 Under it, in the margin of Lira's own line, where it had said in pencil all year *Copper-equivalent, high range*, Vell did not write anything at all. She looked at the old words with her pencil above them.
 

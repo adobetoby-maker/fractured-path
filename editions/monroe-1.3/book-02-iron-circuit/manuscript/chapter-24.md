@@ -150,7 +150,7 @@ The middle column was not wrong; it was out of date. It was a map of the man as 
 
 He was thinking that, and adjusting, when it happened.
 
-He had committed to a low entry, fast, from the left, and on the second stride his lead foot came down across the long lead seam in the floor, the smooth line he had felt through his boot on the mark. It took his weight a hair less kindly than the stone round it, a hair slicker, and to keep his line he put more into the step than he had meant to. For one instant he was neither on one foot nor the other. He was a bridge, all of him in the air between his two feet with his weight in the middle and going forward, the one moment in any step when a body has nothing to stand on but its own speed.
+He had committed to a low entry, fast, from the left, and on the second stride his lead foot came down across the long leaded seam in the floor, the smooth line he had felt through his boot on the mark. It took his weight a hair less kindly than the stone round it, a hair slicker, and to keep his line he put more into the step than he had meant to. For one instant he was neither on one foot nor the other. He was a bridge, all of him in the air between his two feet with his weight in the middle and going forward, the one moment in any step when a body has nothing to stand on but its own speed.
 
 Brom did not meet his arms; he met the line.
 

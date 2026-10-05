@@ -1490,3 +1490,12 @@ Checked line by line against BOOK_MAP §1 (ending state) and the closed edition 
 
 
 **Movement 8 CLOSED (2026-10-05) → BOOK 2 DRAFT COMPLETE (ch1–60).** Fable recheck r1: CLOSE WITH LINE FIXES — six applied (ch55 anomaly entry 'the third and last'; ch60 leaf say-once; two double-blank spacings ch53/ch54; two italics ch53). Overlap M8 0/14, M7 0/5; gates 0; probe 1%/10%; mean 13.72, ≥40w 3.4%, 909 w/scene.
+
+## BOOK 2 LOCKED (2026-10-05)
+Completion pass done:
+- Step 1: not needed; all movements ≤1% skeleton.
+- Step 2: Fable whole-arc read; 16 fixes applied.
+- Step 3: Opus texture lanes A and B, −4,674 words. The simile and gesture repertoire was thinned, ch33–35 tightened, and a ch43 stake line added.
+- Step 4: Fable listening proof; 7 fixes applied (abbreviations voiced as words; the ch28 false speaker change; "leaded seam").
+
+Final: 60 chapters, 287542 words; overlap 0 in all 8 movements; gates 0; mean 13.63, ≥40w 3.5%, 911 w/scene. HASHES.sha256 book hash 48ca3530d96dff599cd4598f75b20d9538db1c19d47026bb638257f9424c77f4; tag `monroe13-book02-text-locked`; DIRECTOR_CUT_READY.md issued. Ledger canon updates from the read: Dace has twelve years at the Ironyard; Keth was watched three months; Reydan went to the yard at ten, the academy at eleven, and Kindled at fourteen; "I'll write when I arrive". The pronunciation lexicon and homograph table are in state/completion/listening-proof.md.

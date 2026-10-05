@@ -217,7 +217,7 @@ Cael looked at the book in his hands.
 
 "I know you have," said Brom. "I read it in her book on the first morning."
 
-"Not tomorrow," he said. "The sparring. I'll come at the same hour, but we're not going to hit each other." He reached for his coat on its nail. "I've had the read two years. Since my station. I'm the only person in this city who knows what it's meant to feel like from inside, and you've just been handed a piece of it with no instructions but six words and a comma." He put the coat on. "Tomorrow you're going to try to open it. And I'm going to stand there and tell you why you can't."
+"Not tomorrow," he went on. "The sparring. I'll come at the same hour, but we're not going to hit each other." He stood with the coat over his arm. "I've had the read two years. Since my station. I'm the only person in this city who knows what it's meant to feel like from inside, and you've just been handed a piece of it with no instructions but six words and a comma." He put the coat on. "Tomorrow you're going to try to open it. And I'm going to stand there and tell you why you can't."
 
 ---
 

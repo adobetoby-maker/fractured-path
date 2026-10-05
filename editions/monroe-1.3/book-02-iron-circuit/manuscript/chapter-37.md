@@ -80,7 +80,7 @@ Cael said nothing for a moment. Down the floor the girl with sacking in her hair
 
 "His words." Dace turned back to the wall. "I'll leave the square."
 
-Cael stood there a moment longer. On the wall below the season's lines, in the place where Dace put the things that were not bouts, there was a note in Dace's small square hand that had not been there a week ago: *Coast courier — results — Fri.* He had seen it the day it went up and had asked nobody about it.
+Cael stood there a moment longer. On the wall below the season's lines, in the place where Dace put the things that were not bouts, there was a note in Dace's small square hand that had not been there a week ago: *Coast courier — results — Friday.* He had seen it the day it went up and had asked nobody about it.
 
 "The courier," he said.
 
