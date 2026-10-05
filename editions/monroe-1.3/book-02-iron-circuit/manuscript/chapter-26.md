@@ -30,7 +30,7 @@ Lira got the boots off. She rolled his trousers to the thigh and looked at his k
 
 "Yes." Cael looked at the ceiling. "That was the fight."
 
-The sister came back with the bucket and the cloths. Lira wrung the first one out in the pump water, which was so cold it made her hiss, and folded it, and laid it over his right knee, and the cold went into the hot place like a blade going into a sheath. He shut his eyes. She did the left. Then she sat on the floor beside the bed with her back against the frame and her bad arm in her lap, and changed the cloths when they warmed, and did not go.
+The sister came back with the bucket and the cloths. Lira wrung the first one out in the pump water, which was so cold it made her hiss, and folded it, and laid it over his right knee, and the cold went into the hot place like a blade going into a sheath. He shut his eyes while she did the left. Then she sat on the floor beside the bed with her back against the frame and her bad arm in her lap, and changed the cloths when they warmed, and did not go.
 
 "In the third," he said, after a while. "Did you see—"
 
@@ -58,7 +58,7 @@ She did not go down to the north window that night. He listened for her on the s
 
 He wrote the entry sitting up in bed, with the Power Log on his knees on top of the blanket and the candle-end moved to the chair, because the desk was four steps away and he did not have four steps.
 
-He did not write it under the Wind or the Pressure. It was not about either, mostly. He turned to the back of the book, past the empty pages, to the place where he kept the things that were not fields, under *The fragments are not static*, and the farmer, and the fingerprints. He wrote the date. Then he sat for a while with the pencil over the paper, because there was a great deal and he wanted to put it down in the right order.
+He did not write it under the Wind or the Pressure. It was not about either, mostly, so he turned to the back of the book, past the empty pages, to the place where he kept the things that were not fields, under *The fragments are not static*, and the farmer, and the fingerprints. He wrote the date, and then he sat for a while with the pencil over the paper, because there was a great deal and he wanted to put it down in the right order.
 
 *Brom. Main floor. Lost, fourth exchange, hand up. My hand.*
 
@@ -84,11 +84,11 @@ He had a column for what every one of them cost him to use. He had kept it since
 
 He wrote it as plainly as he could.
 
-*Every ability has two ledgers: what it costs to use, and what it costs to carry without using. I've only been keeping the first. Open the second.*
+*Every ability has two ledgers. One is what it costs to use. The other is what it costs to carry it shut, and not use it. I've only been keeping the first. Open the second.*
 
 He drew a line under that, and under the line he ruled a new column at the edge of the page, narrow, and headed it *Carrying*, and left it empty, because he did not yet know what went in it.
 
-He was going to close the book then. He had the cover half shut. Then he opened it again, and put the pencil to the very bottom of the page, below the column, and wrote one more line, smaller than the rest. It was not tactics. It was the truest thing that had happened to him all day, and the book was for true things.
+He was going to close the book then, and had the cover half shut, when he opened it again and put the pencil to the very bottom of the page, below the column, and wrote one more line, smaller than the rest. It was not tactics; it was the truest thing that had happened to him all day, and the book was for true things.
 
 *Also: made a friend today.*
 
@@ -132,7 +132,7 @@ Dace was on the step of the Ironyard's side door when he came past it, in his sh
 
 "You'll want this," he said, and put down the cup and took a small cloth purse out of his pocket.
 
-It was the loser's part of the main-floor purse. Cael felt the weight of it in his hand and knew without opening it that it was more than he had ever taken home from a side floor as the winner.
+Inside, by the weight, was the losing half of a main-floor purse. Cael felt the weight of it in his hand and knew without opening it that it was more than he had ever taken home from a side floor as the winner.
 
 "That's too much."
 
@@ -164,7 +164,7 @@ The baker looked at Brom's good mended coat, and then at Brom, and then took the
 
 The market square at the top of the row had a low wall along its upper side, where the ground fell away to the lanes behind, and the old women sat on it in summer to shell beans. In the cold of the morning nobody sat on it at all. Cael got to it on the stick and sat, and let his legs out in front of him, and felt the stone through his coat. Brom sat at the other end of it, a body's width off, with the bread on his knees.
 
-Across the square the pump stood on its hollowed step with ice in the trough. People were filling buckets and stamping. Nobody looked at them twice. A boy with a stick and a big man with bread were nothing to look at.
+Across the square the pump stood on its hollowed step with ice in the trough. People were filling buckets and stamping, and nobody looked at them twice. A boy with a stick and a big man with bread were nothing to look at.
 
 "You'll want it from the start," said Brom.
 
@@ -186,7 +186,7 @@ The end was a night in the long room at Velmere, when he was fourteen. He had be
 
 The middle, he said, was the hardest part to tell, because nothing happened in it.
 
-He had come home from the station Iron Skin and Copper with his mother's hand on his shoulder. The next three weeks nobody said anything cruel. He was very particular about that; he said it twice. Nobody shouted. Nobody sent him to eat in the kitchen. Only the long table went quiet. It went quiet in the way of a room where somebody has just stopped talking about you, every evening, when he came in to supper. His grandmother asked about his day in a voice he had heard her use once before, to a neighbour whose barn had burned. His sister wrote from the coast and did not mention it. His mother kept touching his shoulder in passing, as if to check he was still there. And in the mornings the yard man, who had stood over him with a stick since he was twelve, sat him down with his back against the estate wall and told him to stay there and not move until he was called. He did that every morning for a month, while the house decided what to do with him.
+He had come home from the station Iron Skin and Copper with his mother's hand on his shoulder. For three weeks after, nobody in the house said one cruel word. He was very particular about that; he said it twice. Nobody shouted, and nobody sent him to eat in the kitchen. Only the long table went quiet. It went quiet in the way of a room where somebody has just stopped talking about you, every evening, when he came in to supper. His grandmother asked about his day in a voice he had heard her use once before, to a neighbour whose barn had burned. His sister wrote from the coast and did not mention it. His mother kept touching his shoulder in passing, as if to check he was still there. And in the mornings the yard man, who had stood over him with a stick since he was twelve, sat him down with his back against the estate wall and told him to stay there and not move until he was called. He did that every morning for a month, while the house decided what to do with him.
 
 "I thought it was so I'd be out of the way," said Brom. "While they talked in the long room."
 
@@ -200,7 +200,7 @@ Cael waited. The pump handle squealed across the square, and somebody's bucket w
 
 He said it slowly, as if he had said it to himself a great many times and was hearing for the first time how it sounded aloud.
 
-"They looked at me the way they looked at everything at Velmere. A thing that had come out short, which good people with good letters could put right. Kindly. Nobody ever once asked me what I could *do*." He turned the loaf over again. "I don't know whether that's a thing you forgive. What I know is that I wasn't going to sit at that table every night while they made their minds up about me. So I got up from it."
+"They looked at me the way they looked at everything at Velmere. A thing that had come out short, which good people with good letters could put right. Kindly. Nobody ever once asked me what I could *do*." He turned the loaf over again. "Whether that's a thing a person gets to forgive, I've never worked out. What I know is that I wasn't going to sit at that table every night while they made their minds up about me. So I got up from it."
 
 ---
 
@@ -246,7 +246,7 @@ He could have said nothing. He had said nothing to everybody in the district but
 
 Cael thought about it honestly, because it was an honest question, and because Brom would know if he did not.
 
-"On the floor it makes no difference. They work, whatever they are. For later..." He looked at his hands on the stick. "I think one day it'll matter more than anything. I don't know what it is yet. I've only got pieces of it."
+"On the floor it makes no difference. They work, whatever they are. For later..." He looked at his hands on the stick. "Later on, I think it's the whole question. I don't know what it is yet. I've only got pieces of it."
 
 "Then build toward the name and operate without it," said Brom. "You walk the one while you're looking for the other. Nobody's made you choose." He turned the bread over. "I did that. With Iron Skin. The houses had their word for it, and their four pages. I had what it did on the post at night. I went on doing what it did."
 
@@ -284,7 +284,7 @@ Brom held up one hand, and turned down a finger, as though he were reading figur
 
 "Yes."
 
-Another finger. "You tell me what you're testing. Before we start. Every time. Not the whole of it if you haven't got the whole of it. But enough that I know what I'm being used for." He looked at Cael for the first time in a while. "I don't want to find out afterward I was a column."
+Another finger. "Every time, before we start, you say what you're testing. Not the whole of it if you haven't got the whole of it. But enough that I know what I'm being used for." Now he turned his head. "I don't want to find out afterward I was a column."
 
 Cael thought of the post on its rope, and the second swing he had thrown at the man without telling him, and *Then I'd know what you told me*. He felt his face go warm in the cold.
 
@@ -308,7 +308,7 @@ Lira heard all of it that evening at the kitchen table, after the others had gon
 
 He told it to her straight through, as nearly as he could in Brom's own words, the end and the middle and the beginning, the man with the letters and the estate wall and the long table going quiet. He told her what he had said himself, and what Brom had said back, and the three fingers, and the stick. She sat across from him with her bad arm on the table and listened to all of it without breaking in once.
 
-When he got to *I don't think they were bad people*, her face did something small, and stopped.
+At *bad people* something moved in her face and was put away again.
 
 "You told him maybe," she said. "About the Log."
 
@@ -334,13 +334,13 @@ She turned to the back. He watched her find the night's page, and read down it, 
 
 "There's nothing in it," she said.
 
-"I don't know what goes in it yet."
+"Nothing I've found yet."
 
 Lira looked at the empty column.
 
 "I do," she said, quietly, not to him.
 
-He waited. She did not say anything else. She turned the page back, and he saw her read the last line at the bottom, the small one, under the column, and he saw her face do the thing it had done at *bad people*, and stop. She shut the book and gave it back to him.
+He waited, and she did not say anything else. She turned the page back, and he saw her read the last line at the bottom, the small one, under the column, and he saw the same small thing move in her face and be put away. She shut the book and gave it back to him.
 
 "When you know what goes in it," she said, "show me first."
 

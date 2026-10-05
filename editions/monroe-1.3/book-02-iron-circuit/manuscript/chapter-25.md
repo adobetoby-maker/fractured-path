@@ -2,7 +2,7 @@
 
 Brom had known what the boy was carrying from the first blow.
 
-It had come into his lead forearm hard and plain, with no Pressure in it and no Wind, and it had come first, which the boy never did. Then a lighter one at the shoulder, a different shape. Then the forearm again, harder. Three, close together, each one new. He had felt the shape of the thing before the third one landed, the way you feel the shape of a word before somebody has finished saying it, and he had known where it came from.
+It had come into his lead forearm hard and plain, with no Pressure in it and no Wind, and it had come first, which the boy never did. Then a lighter one at the shoulder, a different shape, and then the forearm again, harder. Three, close together, each one new. He had felt the shape of the thing before the third one landed, the way you feel the shape of a word before somebody has finished saying it, and he had known where it came from.
 
 It was the dock partner's afternoon. He had given that broad man a step on his fourth blow, last week, in his own alcove, with the boy on the bench counting. He had paid the man a mark of his own afterward, on top of Lira's mark, and the man had looked at the coin as if it puzzled him. It had been for the step. Brom had wanted to know what the boy would do with it. Now he knew: the boy had taken it home and built a whole night out of it, and walked onto the main floor with it in his hands.
 
@@ -30,7 +30,7 @@ Then the third exchange, and the boy walked out to meet him on knees Brom had br
 
 He was very quiet on the read, in the third.
 
-The flicker was gone. The thing held at the edge of the arm was gone, or so far back that Brom could not feel it. What was left was the weight in the boy that Brom had no shelf for, faint now, careful, close. It was like a light step in the room upstairs, somebody walking across the boards in their stockings so as not to wake the house. The boy touched him on the forearm and came away. He touched the shoulder. He went round on short steps that Brom could feel him counting against his knees, and touched the hip, and came back. None of it was worth a breath, so Brom spent none, and let the touches land, and waited.
+The flicker was gone, and the thing held at the edge of the arm was gone, or so far back that Brom could not feel it. What was left was the weight in the boy that Brom had no shelf for, faint now, careful, close. It was like a light step in the room upstairs, somebody walking across the boards in their stockings so as not to wake the house. The boy touched him on the forearm and came away. He touched the shoulder. He went round on short steps that Brom could feel him counting against his knees, and touched the hip, and came back. None of it was worth a breath, so Brom spent none, and let the touches land, and waited.
 
 He had decided, at the reset, how the exchange would go. The boy had nothing left but his feet and his eyes and his legs were going, so the exchange would be long or it would be short according to how long the boy's knees lasted, and Brom would see it out patiently and be kind about the end of it. That was all. He had thought there was nothing more in the bout to learn.
 
@@ -54,7 +54,7 @@ That was the half-beat. He would come back to it often, in the nights after, on 
 
 The boy's fist came into his ribs under his arm.
 
-It hurt. That was the astonishing thing, and he would have laughed if he had had the breath. It was a boy's blow, short and plain, with nothing behind it but a hip and a shoulder, and it went into him like a blow goes into anybody, through the shirt and the muscle and up against the bone, and it hurt the way the yard post at Velmere had hurt him when he was twelve and had no Path and no read and nothing at all but a body and a man standing over him telling him to keep his eyes open. He gave a step back off his heels. He heard himself make a sound.
+It hurt, and that was the astonishing thing, and he would have laughed if he had had the breath. It was a boy's blow, short and plain, with nothing behind it but a hip and a shoulder, and it went into him like a blow goes into anybody, through the shirt and the muscle and up against the bone, and it hurt the way the yard post at Velmere had hurt him when he was twelve and had no Path and no read and nothing at all but a body and a man standing over him telling him to keep his eyes open. He gave a step back off his heels. He heard himself make a sound.
 
 And then the twelve-year-old answered.
 
@@ -70,17 +70,17 @@ The exchange went on for a long time after that, and Brom fought it with both.
 
 He did not trust the read any more, not wholly, not for the rest of the exchange. So he did a thing he had not done since the boat shed: he watched with his eyes and felt with the read at once, and checked the one against the other, every time, before he let either of them decide anything. It was slow. It was like reading a page with one eye shut and then the other to see whether the words moved. Every answer he gave cost him a half-beat of checking first, and the half-beat showed. Twice the boy's touches landed where Brom had been late to harden them, and they were light touches and hurt nothing, but Brom felt them land on an ordinary arm and knew the room had seen it.
 
-He built a way to finish it, and then he did not use it. He could have drawn the boy toward his left, toward the open floor, where his hip was; but the hip was shut, and the boy would not go, and Brom understood that the boy was not going anywhere he was drawn. He built another. He could wait, stand on his heels and let the boy's knees run out on their own. But the boy was waiting too, in his short careful steps, and he was better at waiting than anybody Brom had ever fought; he had sat on a bench for a year doing nothing else. Brom put that one down too.
+He built a way to finish it, and then he did not use it. He could have drawn the boy toward his left, toward the open floor, where his hip was; but the hip was shut, and the boy would not go, and Brom understood that the boy was not going anywhere he was drawn. He built another: he could wait, stand on his heels and let the boy's knees run out on their own. But the boy was waiting too, in his short careful steps, and he was better at waiting than anybody Brom had ever fought; he had sat on a bench for a year doing nothing else. Brom put that one down too.
 
 The room changed its sound twice while he was doing all this. The first time it rose, all together, high and quick, the noise of a great many people who have just seen a thing they came hoping to see and did not really expect. Brom knew the sound. He had heard it from the far side, in the river city, the night a boy half his size had put him down. The second time it fell, slowly, into something long and uncertain, like a held note nobody quite knows how to end, and he did not know that sound at all.
 
-The boy did not try anything in all that time. That was what Brom kept seeing. Whatever had happened, the boy had not reached for it again; he went on looking, at Brom's shoulder, at the floor, at the next thing, with that still face, as though he had not noticed anything. Perhaps he had not. Brom did not know. He did not know anything about it at all, and he found that he did not want to find out by hitting it.
+The boy did not try anything in all that time. That was what Brom kept seeing, all through it. Whatever had happened, the boy had not reached for it again; he went on looking, at Brom's shoulder, at the floor, at the next thing, with that still face, as though he had not noticed anything. Perhaps he had not; Brom did not know. He did not know anything about it at all, and he found that he did not want to find out by hitting it.
 
 In the end he took the boy's wrist in a grip that the boy's legs could not have broken even fresh, and turned him on it, slowly. He set him down on the stone with a hand on his shoulder, and kept the turn off the knees, because he knew to the inch what he had already asked of those knees in the second.
 
 "End of the exchange," said the keeper.
 
-He walked back to the south mark. He did not walk fast. Halfway there he rolled his shoulders, once, both together, the way he did at the end of a long day hauling sacks, and he heard a sound go along the front bench and understood that people had seen him do it, and that in nine bouts on that stone he had never done it before. He did not mind. He let them have it.
+He walked back to the south mark, and he did not walk fast. Halfway there he rolled his shoulders, once, both together, the way he did at the end of a long day hauling sacks, and he heard a sound go along the front bench and understood that people had seen him do it, and that in nine bouts on that stone he had never done it before. He did not mind. He let them have it.
 
 He stood on his mark and looked across the floor at the boy getting up.
 
@@ -94,17 +94,17 @@ But the boy had not done it on purpose. Brom was nearly sure of that, and nearly
 
 The bout was the bout, and it was nearly over already. The boy's knees would carry him perhaps one more exchange, and the quickest way to the end of it was through them; and the quick end, tonight, was the kind one and the honest one at once.
 
-He would ask afterward. That was all. He would sit down somewhere and ask.
+He would ask afterward, that was all. He would sit down somewhere and ask.
 
 "Begin," said the keeper.
 
 ---
 
-Walking back to the north mark, before that, Cael had done the only thing he could think of to do, which was to go through himself as carefully as he had ever gone through anything, looking for the place where it had happened.
+The third exchange had run three times as long as either of the others; Cael knew it by his knees before Vell ever told him so. Walking back to the north mark at the end of it, before Brom ever came again, he had done the only thing he could think of to do, which was to go through himself as carefully as he had ever gone through anything, looking for the place where it had happened.
 
 There was no place.
 
-The Wind was shut, exactly as he had shut it; the hip line was no brighter than it had been after the third-of-a-burst in the second. The Pressure was where he had left it, whole and full, held back from the arm. His breath was ragged in the ordinary way. His knees were what they had been. Nothing had been drawn out of him, anywhere. There had been nothing before it, no leaning, no hush, none of the quiet that came before a notice. There was nothing after. No ache belonged to it, and no hollow, and no thin warm line. He stood on the mark with his chest going in and out and reached inward, deliberately, with everything he had, for whatever it had been, as you reach in the dark for a banister you have used a thousand times. His hand closed on nothing. It was not that the banister was hidden. It was that there had never been one.
+The Wind was shut, exactly as he had shut it; the hip line was no brighter than it had been after the third-of-a-burst in the second. The Pressure was where he had left it, whole and full, held back from the arm. His breath was ragged in the ordinary way, and his knees were what they had been. Nothing had been drawn out of him, anywhere. There had been nothing before it, no leaning, no hush, none of the quiet that came before a notice. There was nothing after. No ache belonged to it, and no hollow, and no thin warm line. He stood on the mark with his chest going in and out and reached inward, deliberately, with everything he had, for whatever it had been, as you reach in the dark for a banister you have used a thousand times. His hand closed on nothing. It was not that the banister was hidden. It was that there had never been one.
 
 So he would write it down as what it was, which was a thing that had happened, once, that he had not done. He would not give it a name. Names were for things he could find twice.
 
@@ -118,13 +118,13 @@ Brom came.
 
 He came at once, at the word, which he had not done all night, and he came committed. He came low and straight and fast, with his weight forward off his heels for the first time, on a line that left Cael nowhere to go. It left no room to give a half-step and nothing to slip; the knees could not have slipped it anyway. It was a thing that had to be met with both feet set, or not met at all, and not meeting it would have ended in the same place, only worse.
 
-He had perhaps half a beat to see it all, and he saw it, and found he was not even sorry. It was a good entry. It was the entry he would have chosen himself, against a boy whose knees were gone: no cleverness in it, nothing for the eyes to read, only the plain fact of a big man coming in a straight line at the one thing the other man could no longer do. There was a kind of courtesy in it. Brom was not going to look for anything. He was going to finish.
+He had perhaps half a beat to see it all, and he saw it, and found he was not even sorry. It was a good entry, the entry he would have chosen himself, against a boy whose knees were gone: no cleverness in it, nothing for the eyes to read, only the plain fact of a big man coming in a straight line at the one thing the other man could no longer do. There was a kind of courtesy in it. Brom was not going to look for anything. He was going to finish.
 
 He met it. He set his feet and his knees and braced, and the bracing was the price.
 
-Brom's answer took the whole force Cael was pushing down into the stone to hold himself, and sent it back down the way it had gone, through the two knees, on the one angle they had told him in the second exchange that they could not carry. They did not carry it. He felt the bridge go out from under him, both ends at once, quite gently. The stone came up.
+Brom's answer took the whole force Cael was pushing down into the stone to hold himself, and sent it back down the way it had gone, through the two knees, on the one angle they had told him in the second exchange that they could not carry. They did not carry it, and he felt the bridge go out from under him, both ends at once, quite gently. The stone came up.
 
-He lay on it. He knew before he had finished landing that this time was different. He put his hands flat and pushed, and his arms did their part, and his legs did not do anything at all. They were there. They were his. They had simply stopped agreeing to be asked.
+He lay on it, and he knew before he had finished landing that this time was different. He put his hands flat and pushed, and his arms did their part, and his legs did not do anything at all. They were there, and they were his; they had simply stopped agreeing to be asked.
 
 *Then they're lying on the stone and they forget they've got a hand.*
 
@@ -136,7 +136,7 @@ He did not forget. He lay on his side on the old foundry stone with the lamps ov
 
 The stone was cold through his shirt. It was the only cold thing in the building; the lamps had made the rest of the main floor close and warm as a kitchen, and the crowd's noise came down on him from every side like weather on a roof. He let it come. He lay on his back now, with his arms out, and let his breath find its count, and it did, slowly. Two in and three out at first, then three and four.
 
-His legs had been paid for twice. Once in the second exchange, when the bill came down through his hips. And again by everything after, every short step and every brace and the third of a burst he had asked of them, stacked on the same two columns until the columns gave. He could feel exactly where. Both knees, outside and in; the right hip; the left ankle, a little. Nothing broken. He knew broken.
+His legs had been paid for twice: once in the second exchange, when the bill came down through his hips. And again by everything after, every short step and every brace and the third of a burst he had asked of them, stacked on the same two columns until the columns gave. He could feel exactly where. Both knees, outside and in; the right hip; the left ankle, a little. Nothing broken. He knew broken.
 
 And under his ribs, untouched, the giving face. He had not let it out once. It sat in him exactly as full as when he had walked onto the floor, and he thought of the heavyset man's wife's parcel in his coat on the rope post, the bread and the hard yellow cheese, carried all day and not eaten. He had carried the Pressure all night and not used it, and he could feel that he had carried it, the way you feel a weight in your arms after you have set it down. Keeping it shut had cost him, every time it leaned. He had paid that in half-beats, and the half-beats had cost him ground.
 
@@ -192,7 +192,7 @@ Cael looked at the hand. Two weeks ago the man had stood in the arch of the alco
 
 ---
 
-They stayed where they were. Round them the crowd had begun to go, in the way a big crowd goes, all at once and very slowly. Benches scraped. The betting man was paying out by the side door with his slate under his arm, and somebody was arguing with him about the size of a copper.
+They stayed where they were while round them the crowd had begun to go, in the way a big crowd goes, all at once and very slowly. Benches scraped. The betting man was paying out by the side door with his slate under his arm, and somebody was arguing with him about the size of a copper.
 
 "You brought Lira's partner in with you," said Brom.
 

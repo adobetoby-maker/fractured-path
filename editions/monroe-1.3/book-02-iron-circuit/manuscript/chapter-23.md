@@ -2,9 +2,9 @@
 
 The window over the crate desk was still black when he woke, and the frost had drawn its ferns across the bottom third of the glass.
 
-He lay where he was and did not reach for the lamp. There was a thing he did on mornings that mattered, and he had done it since the spring without ever deciding to, which was to go over himself from the feet up before he let the day have any of him. Feet, warm under the blanket. Ankles, sound. Knees, sound; the bruise on the outside of the right one, where Lira's staff had found it a fortnight ago, had gone the yellow of old paper and stopped minding being touched. The left hip, quiet. It had not burst for four days, and the line from the crest of the bone to the inside of the knee had faded until he had to press for it. Shoulder and ribs, Lira's again, faded too. The left wrist, which complained in the cold, was not complaining. His breath went in to a count of four and out to a count of six without his having to make it.
+He lay where he was and did not reach for the lamp. There was a thing he did on mornings that mattered, and he had done it since the spring without ever deciding to, which was to go over himself from the feet up before he let the day have any of him. Feet, warm under the blanket; ankles sound; knees sound, and the bruise on the outside of the right one, where Lira's staff had found it a fortnight ago, had gone the yellow of old paper and stopped minding being touched. The left hip was quiet: it had not burst for four days, and the line from the crest of the bone to the inside of the knee had faded until he had to press for it. Shoulder and ribs, Lira's again, had faded too, and the left wrist, which complained in the cold, was not complaining. His breath went in to a count of four and out to a count of six without his having to make it.
 
-There was nothing wrong with him anywhere. He found that he did not quite believe it, and went over it all again, and it was still true.
+There was nothing wrong with him anywhere. He found that he did not quite believe it, so he went over it all again from the feet up, and it was still true.
 
 He got up and lit the lamp with the cold coming up through the boards into his feet.
 
@@ -14,9 +14,9 @@ So he had written it down, and he had written it short.
 
 *Wind: read-fed bursts only. Never reactive.*
 
-*Pressure: locked. Do not open it. Not once.*
+*Pressure: locked. Don't open it. Not once.*
 
-That was all there was on the page. Above it, on the page before, was the long ink rule he had written a week ago at the bottom of the Pressure entry, with its reasons and its *not on the forearm, not on the chest*, and above that the ceiling, and the egg and the fist and the hole. All of it was true. None of it would be any use to him in the middle of an exchange, when he would have the time it took a fist to cross a forearm in which to remember it. Two lines he could carry. He had tried them aloud in the dark before he slept, and they had fitted into one breath with room to spare.
+That was all there was on the page. Above it, on the page before, was the long ink rule he had written a week ago at the bottom of the Pressure entry, with its reasons and its *not on the forearm, not on the chest*, and above that the ceiling, and the egg and the fist and the hole. All of it was true, and none of it would be any use to him in the middle of an exchange, when he would have the time it took a fist to cross a forearm in which to remember it. Two lines he could carry. He had tried them aloud in the dark before he slept, and they had fitted into one breath with room to spare.
 
 The first line was the harder one, though it did not look it. The second was only a door kept shut, and he had kept doors shut before. The first asked him to do a thing he had never managed to do on purpose, which was to stop his own hip from answering when it was frightened. Every reactive burst he had ever thrown had been thrown by something faster than deciding. That was what had kept him alive in the spring, and it was what had cost him twice the price against Orvet's Blade. Tonight he wanted nothing in him moving that he had not read first.
 
@@ -224,7 +224,7 @@ He had fought before a hundred and sixty on a middling night, and before nearer 
 
 Many he did not know at all. There were carters in their long coats, smelling of horses. There were two men by the side door in plain dark coats too good for the district, who stood very straight and did not sit, and who had the look of people who would later tell somebody they had not been there. There was a woman with a Stone fighter's shoulders whom he had never seen, who must have come from another circuit altogether, because she was looking at everything in the building, the floor and the posts and the lamps, the way Brom had once looked at the keeper's book.
 
-He did his warming-up where he always did it, at the north end, by the rope, and he did it exactly the way he always did. Ankles, knees, hips; the arms; the short straight strike thrown at nothing until it ran smooth; three bursts to the fan on the chalk, front-left and left and back-left, to know the hip was there. He had thought about leaving the bursts out, to keep the hip fresh. He had decided not to. A changed ritual on a big night was a tell, and there were people in this room tonight who were paid to read tells.
+He did his warming-up where he always did it, at the north end, by the rope, and he did it exactly the way he always did. Ankles, knees, hips; the arms; the short straight strike thrown at nothing until it ran smooth; three bursts to the fan on the chalk, front-left and left and back-left, to know the hip was there. He had thought about leaving the bursts out, to keep the hip fresh. He had decided not to. To do anything different from the usual on a night like this would be a tell of its own, and there were people in this room tonight who were paid to read tells.
 
 When he straightened from the third burst, with the thin warm line drawn from the crest of the bone to the knee, he looked up and saw the old man.
 
@@ -234,7 +234,7 @@ Cael had never once seen him in the Ironyard. The old man kept his own yard on t
 
 He had come tonight.
 
-The old man saw him looking. He did not wave or smile. He moved his head down, perhaps one degree, the nod he gave everybody who came through his gate. Then, after a moment, he did it again.
+The old man saw him looking, and did not wave or smile; he moved his head down, perhaps one degree, the nod he gave everybody who came through his gate. Then, after a moment, he did it again.
 
 Cael found he had to look at the floor for a little while.
 
@@ -254,7 +254,7 @@ Lira was at the rope by the north post when he got there, with her bad arm held 
 
 Vell did not sit down.
 
-She stood at the edge of the main floor with the book open along her left forearm and the pen in her right hand, and she did not raise her voice, and she did not need to. The lamps had made the low room close and warm, and the stone took every word and laid it down where it was meant to go.
+She stood at the main floor's edge, the book open along her left forearm and the pen in her right hand, and she did not raise her voice, and she did not need to. The lamps had made the low room close and warm, and the stone took every word and laid it down where it was meant to go.
 
 "Brom. Iron Skin Path. Iron-equivalent." The pen moved. "Cael. Assessed. Copper-equivalent." It moved again. "The rule in this room is that nobody is killed on my floor. Both of you know it. Both of you say so."
 
@@ -264,7 +264,7 @@ She stood at the edge of the main floor with the book open along her left forear
 
 "Then it's a bout."
 
-The room did a thing then that he had not heard it do before. It did not go quiet. Four hundred people cannot go quiet. But the noise of it changed, all at once, from the sound of a crowd talking to itself to the sound of a crowd waiting, low and close, like a held breath that has nowhere to go.
+The room did a thing then that he had not heard it do before. It did not go quiet, because four hundred people cannot go quiet. But the noise of it changed, all at once, from the sound of a crowd talking to itself to the sound of a crowd waiting, low and close, like a held breath that has nowhere to go.
 
 Dace came out from the slate and walked the rope, all the way round, as he did before every main-floor bout and as Cael had watched him do from the east bench a hundred times without once thinking about why. He tried each post with his hand. He looked at the chalk of both marks. At the north post he stopped beside Lira and said something to her that Cael did not hear, and she nodded without taking her eyes off the floor. Then Dace went back to the slate and stood under it with his arms folded and his chalk in his fist, and did not move again.
 
