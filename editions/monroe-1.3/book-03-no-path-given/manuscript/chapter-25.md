@@ -202,7 +202,7 @@ He did not know what reaching was. He discovered that in the first minute, stand
 
 So he tried what he had.
 
-He tried attention first, all of it, the whole of his looking laid on her as he had once laid it on Reydan in the third exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
+He tried attention first, all of it, the whole of his looking laid on her as he had once laid it on Reydan in the fourth exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
 
 He tried something like invitation. He found the place in himself where the four sat, if they sat anywhere, and held open the space beside them, absurdly, like a hand held out across a room to someone who has not seen it. He felt foolish doing it and kept doing it until she had laid six points and let them go.
 

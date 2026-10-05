@@ -224,7 +224,7 @@ Six weeks sat behind him, as complete as they were ever going to be: the charts 
 
 Tomorrow everything that sentence needed would be in one yard, at one time, for the first time in his life with his eyes open. And two people who loved him, and one who had come across a whole country to stand in front of him, had told him in their different words to forget it was there.
 
-He did not know if he could, or if anybody could carry a sentence like that into a ring and set it down at the chalk. He thought about Reydan, in the third exchange of the bout that had ended everything in Ardenmere, when he had not been thinking about anything at all. He had been losing, and fighting, and losing, and the notice had come at the very last moment it could have come and still been any use to him, and he had not been watching himself once.
+He did not know if he could, or if anybody could carry a sentence like that into a ring and set it down at the chalk. He thought about Reydan, in the fourth exchange of the bout that had ended everything in Ardenmere, when he had not been thinking about anything at all. He had been losing, and fighting, and losing, and the thing had come at the very last moment it could have come and still been any use to him, and he had not been watching himself once.
 
 Perhaps that was all it was. Perhaps that was all it had ever been.
 
