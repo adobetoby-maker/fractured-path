@@ -251,3 +251,4 @@ Append-only. One line per event. The orchestrator writes this; seats do not.
 - 2026-10-05 19:55 MDT — B5 calendar re-dated for M7–M9 (OWNER-DECISIONS #41 default; BOOK_MAP §6 [M6-redated]; M7 packet coordinator note). Coordinator claude-opus-5-5.
 - 2026-10-05 20:05 MDT — B5 M6 repair r1 landed (claude-opus-5-5; all must-fix + 8 optional; 34,479 words; overlap 0/17, gates 0, probe 1%/7%). Fable recheck r1 launched. Ledger AFTER MOVEMENT 6 appended. B5 M7 (ch40–46) compiled and Opus author (claude-opus-5-5) launched under #41 calendar.
 - 2026-10-05 20:15 MDT — B5 M6 (ch33–39) CLOSED. Recheck r1 on Claude Fable seat: CLOSE WITH LINE FIXES, 4 applied by coordinator (claude-opus-5-5). Overlap 0/17, gates 0. Author claude-opus-5-5 (draft + repair r1).
+- 2026-10-05 20:25 MDT — B5 ch33–39 published to the Monroe 1.3 PWA (boundary-universe 8064453, build-gated). Live verified. Text/reading only; no audio.
