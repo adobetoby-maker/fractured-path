@@ -80,7 +80,7 @@ He would go home in the morning, by the post road. There was a calendar on his d
 
 ---
 
-Supper was half eaten before anybody said Vastin's name, and it was Cael who said it.
+Supper was half eaten before anybody spoke of Vastin, and it was Cael who did.
 
 "The Archmarshal came himself," he said. "He reads every piece of paper anybody sends him, and he left it all on his desk and came to look."
 

@@ -36,7 +36,7 @@ The referee finished. The ten of them bowed to the dais, and to one another, and
 
 The first exchange went to the house that had never been counted.
 
-It took Cael the first minute to see that it would, and the rest of the exchange to believe it. They were not five better fighters than the five in blue. Nobody in the building thought that, least of all the five of them. But for that exchange, and the one after it, they were a better *squad*, and it showed itself from the first call.
+It took Cael the first minute to see that it would, and the rest of the exchange to believe it. It showed from the opening call, before anybody in the tiers had a word for it. Fighter for fighter, the five in blue were the better five, and nobody in the building thought otherwise, least of all the five in plain colours. What Halcenvane had that afternoon, for that exchange and the one after it, was a *squad*.
 
 At the first call Auremont went for every platform on the floor. It was the right opening, the one every house in the trial had always run, and they ran it well. The lattice-breaker and one of the Silvers came out of the east gate, round the barrier's south-east end past the timber stack, and down into Halcenvane's country toward the south platform. The other three went for the two northern platforms in their own triangle.
 
@@ -242,7 +242,7 @@ She looked at him.
 
 Her eyes went over him slowly. His feet first, and where his weight sat on them; then his open hands; then his shoulders; and last his face, where they stayed. He knew exactly what she was doing, because it was what he did himself, at every rail and every gate, to everybody, all day long. She was reading him.
 
-Nobody ever had. In a year of wardens and evaluators and brass plates and panels, everybody who looked at him had been looking for a line to fill in or a figure to post. Nothing in her face was going to be written down anywhere. She had come across something that was on none of her tables, and in front of eight thousand people she had stopped to find out what it was.
+Nobody ever had. In a year of wardens and evaluators and brass plates and panels, everybody who looked at him had been looking for a line to fill in or a figure to post. Nothing in her face was going to be written down anywhere. She meant to find out what he was before she went on, because he was on none of her tables.
 
 Cael looked back. He did not know what she saw.
 

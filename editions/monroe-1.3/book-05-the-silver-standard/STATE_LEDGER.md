@@ -1180,7 +1180,7 @@ The individual brackets are spent:
 **Movement 6 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch39 'hers to choose' → 'for Karis to choose'; ch37 E2 contacts count → 'every contact of the second exchange'; ch37 the broadsheet's score row spelled for the ear, 'nought to three, two to one, one to two, one to three'; ch37 'the five below him' → 'the five'). Where the author end-state above predates r1 (eight contacts, 'a week ago', Brom's rank, pencil), the manuscript and rulings govern. Overlap 0/17, gates 0, probe 1%/7%.
 
 
-## AFTER MOVEMENT 7 — chapters 40–46 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 7 — chapters 40–46 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - Calendar per #41: Shield captain T11 (Cael 2–1 in four; captain 30, Cael 27); duelist T14 (Cael 2–1, no fire, no bursts; duelist 28, Cael 25); Vastin sits T14 — "held for him for thirteen days"; rest day/birthday T15 (no date printed; OWNER-pending #35); team trial T16.
@@ -1388,3 +1388,5 @@ Lira on T16: one burst in E1 ("Early.").
 - **Daeva** looks at the floor, not the fighters, at the presentation, longest at the barrier. The lane has a crack like a whip at its head, a struck-flint smell and a pale flicker; it makes ears pop and hair stand.
 - **Rooke's review sheet** (the five findings, verbatim in ch46): *Ready. Not early.* · *Left the gap. Should have left it sooner.* · *A frame with a door in it.* / *She came from where no ramp was. Think about that.* · *South.* · *The diagonal. I had it on paper this morning and didn't know what it was.*
 - **Ephram's speech** was "mostly" written on the road to the mill town and shown to Lira "at the waystation" ("a good speech with a sermon stuck on the end").
+
+**Movement 7 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — five applied (ch45 'it would hold her' given its noun; ch43 'the Archmarshal' after 'said Vastin's name'; ch46 ¶122's closing clause re-composed off the source's 'outside its tables … stop and read'; ch46 the 'better squad' sentence and ch45 the criers' price-list re-ordered off the source's beats). Seln's stem added to protected-patterns so the #41 line is not re-flagged at the book sweep. Where the author end-state above predates r1, the manuscript and the rulings govern. Overlap 0/19, gates 0, probe 2%/9%.

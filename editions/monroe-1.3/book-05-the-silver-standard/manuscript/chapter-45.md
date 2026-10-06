@@ -66,7 +66,7 @@ He watched the houses read it. Rhagen's people read their line and were very obv
 
 Cael knew what that meant. Everybody at a tournament knew. It meant *better you than us*, and it meant *go on anyway*, and both meanings were sincere.
 
-Along the west side of the court a crier's voice went up under an awning, and then another. Cael listened to them as he listened to anything that had prices in it. There was a price on Auremont to win the semifinal, and it was very short. There was a price on Auremont to take the final. There was a price on how many exchanges the semifinal would run. Under the long row of chalked boards, at the end, the little framed sign was still hanging where it had hung all sitting, in neat white paint. *NO BOOK ON THE DEMONSTRATION BOUTS.* And two of the criers, noticing it, had begun to cry it as a selling point.
+Along the west side of the court a crier's voice went up under an awning, and then another. The little framed sign still hung at the end of the long row of chalked boards, where it had hung all sitting, in neat white paint. *NO BOOK ON THE DEMONSTRATION BOUTS.* Cael read the boards above it as he read anything with a figure on it. Auremont to win the semifinal, at a price so short it was hardly a price at all. Auremont to take the final. How many exchanges the semifinal would run. And two of the criers, who had read the little sign as often as anybody, had begun to cry it as a selling point.
 
 "No price on the fifth man of the bluff! None! The house won't quote him! Come and see the thing we can't price!"
 
@@ -74,7 +74,7 @@ Along the west side of the court a crier's voice went up under an awning, and th
 
 "They've made me a hole in their board," said Cael.
 
-Nobody else said what everybody in the court was thinking. Auremont had not filed its squad yet. When it did, whatever else the list held, it would hold her, and there was no rule anywhere in the trial's pages to keep a Gold off the floor. A scenario floor had no tiers on it. It had ground, and the people each house sent out to stand on the ground.
+Nobody else said what everybody in the court was thinking. Auremont had not filed its squad yet. When it did, whatever else the list held, it would hold the Gold, and there was no rule anywhere in the trial's pages to keep her off the floor. A scenario floor had no tiers on it. It had ground, and the people each house sent out to stand on the ground.
 
 Karis had gone back to the guesting-house on the way down from the harbour, for a quarter of an hour, alone. Nobody had asked her why. Now she took her notebook out of her coat, the grey one, and opened it to the page she had shown Cael at this same board on the fourth morning, and spread it open on the rail below the board, under the torch, so that all five of them could read it.
 
