@@ -133,7 +133,7 @@ Formula check: words, sentence mean/median, ≥40 share, paragraph median, Flesc
 ```
 
 
-## AFTER MOVEMENT 1 — chapters 1–7 (drafted 2026-10-06, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 1 — chapters 1–7 (drafted 2026-10-06, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-06 after recheck r1 (fresh Opus seat))
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - Season-blind (#42); feet and yards; Halcenvane weekdays. The first pole verbatim with "a stamp renewed four times" (OWNER-pending #43); every other count "two renewals on paper"; no interval sitting staged.
@@ -429,3 +429,12 @@ Everything from paragraph seven on is kept in substance.
   - Karis's note now inside her notebook's front cover;
   - the hall's lamps going out counter first and the press lamp last.
 - **Day 8's "Minuted"/"Written"** are the counsel's working-minute replies.
+
+**Movement 1 CLOSED (2026-10-06).** Recheck r1 on a fresh-context Claude Opus 5.5 seat (Fable credits out; Sol quota out): CLOSE WITH LINE FIXES — twenty applied by the coordinator. Canon-bearing ones for M2+:
+- ch1 the public record: "Only three of the five had been shown in public since he came to the bluff, at rates the house had chosen for him: six bursts on the oak, two contacts of the spark, and a read that looked like good timing. The push, where it showed at all, never went past a flat hand." (replaces a four-item list false against B2's circuit record and #40).
+- ch2 Seln speaks four sentences in the queue (the narrator's count fixed); Seln's line "Standing papers on the provision come up for the ledger's half-year check" (ch2:157) is a plant M2+ must honour.
+- ch3 the district hall is crowded in the first weeks and empty in the last (not "cold").
+- ch6 the counsel reads the one sentence that alleges no fraud at all (the fraud count fixed); the night's rewind is marked.
+- ch7 the seal was pressed by "somebody a week's road from here" (the registry seat is NOT at the foot of the bluff).
+- Small seams: Ephram looks at the cheese; Lira takes one of Brom's apples; Brom lays down his spoon; Karis's cup; Karis's you/him across the protected sentence; ch7 items 47–50 re-composed off the source.
+Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page.

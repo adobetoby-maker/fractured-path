@@ -120,7 +120,7 @@ She stood a moment longer. Then she was finished with being angry, or had put it
 
 He read it on the stair going down, because she would have expected him to.
 
-*Bracken's press: the four rulings on the clause. Ask him nicely. — The code, three vols, the HALL'S, not the library's (lib. vol. 2 lacks a gathering). — Greyvane transcript, cert., my shelf, common room, grey card, K.D. on spine. — Tea. — Tell her she won't see her bed.*
+*Bracken's press: the four rulings on the clause. Ask him nicely. — The code, all three volumes, the hall's copy, not the library's; the library's second volume is missing a gathering. — The certified Greyvane transcript, on my shelf in the common room, grey card, my initials on the spine. — Tea. — Tell her she won't see her bed.*
 
 The assistant was where Karis had said, at a table under the window in the lower reading room with the district digests stacked beside her. She read the slip once and gave it back to him, which he had not expected, and stood, and pushed in her chair.
 
@@ -148,7 +148,7 @@ He told them what he had told Karis. Lira listened with her eyes on the court. B
 
 "From this morning."
 
-"She built the whole continent on a wall in one term." Lira bit the apple. "Fourteen days is a holiday."
+"She built the whole continent on a wall in one term." Lira took one of Brom's apples and bit into it. "Fourteen days is a holiday."
 
 Behind them the records-hall door opened and Bracken came out onto the top step with a sheet of paper in his hand. It was green: a pale grey-green, like the underside of a willow leaf. He held it out at arm's length, away from himself, the way a man holds a thing he has found on his doorstep and is not yet sure is not alive.
 
@@ -160,7 +160,7 @@ Bracken folded the green sheet and put it in his coat, beside the brass glass.
 
 "The house's answer goes on the board within the hour," he said. "The Chancellor has written it. It is one line long. I'm told that's deliberate."
 
-Ephram found them there a little after, coming round the corner of the lecture range with the captain's file under his arm and the green tape trailing. He stopped at the foot of the steps and looked up at the three of them, and at the bread, and at the shut door behind them.
+Ephram found them there a little after, coming round the corner of the lecture range with the captain's file under his arm and the green tape trailing. He stopped at the foot of the steps and looked up at the three of them, and at the cheese, and at the shut door behind them.
 
 "The cohort's asking me," he said. "Forty of them, in the yard, all at once. I'm the captain. They think captains know things." He shifted the file. "What do I tell them?"
 

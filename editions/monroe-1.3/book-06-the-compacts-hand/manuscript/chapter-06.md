@@ -56,7 +56,7 @@ Cael sat with it a while before he did anything else. For two years his whole pl
 
 ---
 
-Cael counted the instrument while the others were still arranging their papers.
+Cael had counted the instrument at the start of the night, while the others were still arranging their papers.
 
 He began with the three schedules at the back, because they were the longest things in it. Every one ran past a page, and the paragraphs in front of them were short, a few lines each; only the ninth ran long. Then he went through every leaf with a pencil and a stroke in the notebook's margin for each word he was watching, and went through it twice, because a count done once is a guess.
 
@@ -118,7 +118,7 @@ The other three went quickly: a mason's guild that had put an apprentice into it
 
 Karis took the first finding standing, as she took anything that was going to be minuted, with the instrument's second paragraph under one hand and the Greyvane transcript open under the other.
 
-"No fraud," she said. "Listen." She read it. "*No fraud, irregularity or want of form is alleged in any act by which the enrollment was made.*" She lifted her hand from the transcript. "Last year the broadsides sold a story a week about a trick: a hidden Path, a bought clerk, a staged hearing. Every one of those stories ends at a door Greyvane locked on the record, and this paper hasn't so much as knocked on one. They've read the record. They know which doors are locked." She sat. "That's the first finding. They spend nothing on ground they could lose."
+"No fraud," she said. "Listen." She read it aloud, the same sentence Withrow had read standing that morning, the one that alleged no fraud at all. She lifted her hand from the transcript. "Last year the broadsides sold a story a week about a trick: a hidden Path, a bought clerk, a staged hearing. Every one of those stories ends at a door Greyvane locked on the record, and this paper hasn't so much as knocked on one. They've read the record. They know which doors are locked." She sat. "That's the first finding. They spend nothing on ground they could lose."
 
 The counsel took the second, in the voice of somebody reading out tomorrow's weather.
 

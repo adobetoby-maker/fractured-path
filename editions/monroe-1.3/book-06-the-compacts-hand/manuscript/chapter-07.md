@@ -92,7 +92,7 @@ He made three marks without a word and turned the card round to Karis.
 
 "The first," she read. "The eighth. The twenty-second."
 
-"Dated the first day of the year," said Bracken. "The morning of convocation. Somebody at the seat pressed that wax while the Chancellor stood on her platform telling this house to be what its papers say it is. I don't suppose they knew. I don't suppose it matters." He touched the second mark. "Served this morning. Seven days on a road the post does in three, at a walk, with three horses and a man in the middle who'd been told the pace. It wasn't sent to arrive. It was sent to be watched arriving. I watched it for a full minute from my window, and so did the gate, and so did the coats at the foot of the hill."
+"Dated the first day of the year," said Bracken. "The morning of convocation. Somebody a week's road from here pressed that wax while the Chancellor stood on her platform telling this house to be what its papers say it is. I don't suppose they knew. I don't suppose it matters." He touched the second mark. "Served this morning. Seven days on a road the post does in three, at a walk, with three horses and a man in the middle who'd been told the pace. It wasn't sent to arrive. It was sent to be watched arriving. I watched it for a full minute from my window, and so did the gate, and so did the coats at the foot of the hill."
 
 "And the twenty-second," said Karis.
 
@@ -112,9 +112,9 @@ Cael had watched her do it without knowing what they were for. While Bracken mar
 
 She did not explain them. She touched each in turn and said only its word, and the table, which had spent the whole night on every one of them, needed no more. At the fifth her finger stayed.
 
-"That one isn't ours," she said. "Nobody has ever argued it. It's the first fact in the file. A frame at Denvash had nothing to say about him, and every office since has agreed." She moved on to the sixth, and lifted her hand.
+"Nobody will argue that one," she said. "Not them, not us. A frame at Denvash had nothing to say about him, and every office since has copied the same nothing into its books." She moved on to the sixth, and lifted her hand.
 
-"Bracken would carry a paper like this," she said. "So would I, if it came across my desk in order. So would every honest clerk between here and the seat, and every one of them would be right to, because there isn't a lie in it anywhere. Nobody bought a frame. Nobody wrote a finding false. Look for the trick all night and you'll come up empty, and the end is still the end. It was the end the morning they sealed it."
+"Bracken would carry a paper like this," she said. "So would I, if it came across my desk in order. So would every honest clerk between here and the seat, and every one of them would be right to, because there isn't a lie in it anywhere, and no villain either. Look for the trick all night and you'll come up empty, and the end is still the end. It was the end the morning they sealed it."
 
 She looked down at the six slips.
 
@@ -126,15 +126,15 @@ The counsel wrote it down, slowly, every word. Bracken's spectacles stayed in hi
 
 From the foot of the stair, where none of them had heard her come down again, Withrow said, "The house will answer."
 
-"The house will answer," said Karis. "Because the other choice has its own word in the docket, and the word is *fled*, and this house is named on that paper, and I won't have *fled* written anywhere near it while I live here." She swept the six slips into one hand and tucked them into the back of her notebook. "I'll have bones on it in four days. And when the seat reads it, the seat will go through it with a pen and find nothing to mark. If I'm right about the corridor, I want the record to show we walked every yard of it properly."
+"The house will answer," said Karis. "Because the other choice has its own word in the docket, and the word is *fled*, and this house is named on that paper, and I won't have *fled* written anywhere near it while I live here." She swept the six slips into one hand and tucked them into the back of her notebook. "I'll have bones on it in four days. And when the seat reads it, the seat will go through it with a pen and find nothing to mark. If the end's already fixed, I still want our tracks in the record, every step of them exactly where the code says a step goes."
 
-She drew a clean sheet toward her and wrote a heading and ruled a line under it, and when she spoke again it came out sideways, with the pen still moving, the way her findings came before she knew they were findings.
+She drew a clean sheet toward her and wrote a heading and ruled a line under it, and when she spoke again it came out sideways, to the paper, with the pen still moving, as if the words had got ahead of her and she was only following them down.
 
 "There's one more thing in it. I can't place it."
 
 They waited, and the pen stopped.
 
-"That clause is why you've never stood in a station since Denvash," she said. "It's never once asked a frame anything. It keeps you on a floor in front of people, where no Arbiter ever comes." She looked at the heading. "Every paper anybody filed against you went for the clause and lost to it. This one hands it back to us whole and asks for one thing only. A station. The provision doesn't interest them at all. They're trying to move him back inside the instrument."
+"That clause is why he's never stood in a station since Denvash," she said, to the heading and not to him. "It's never once asked a frame anything. It keeps him on a floor in front of people, where no Arbiter ever comes." She underlined the heading. "Every paper they've sent up this hill has broken itself on that clause. This one hands it back to us whole and asks for one thing only. A station. The provision doesn't interest them at all. They're trying to move him back inside the instrument."
 
 Nobody answered. She did not seem to want anybody to.
 
@@ -164,9 +164,9 @@ Karis came up a little after. He heard her step on the stair and moved out of th
 
 He watched her count the room. She did it all at once, as she counted anything: a lamp lit at an hour no lamp should be, a fire kept in that should have been let die, two people awake with no work to do, a drill-book open and unread, four cups with their handles turned. He watched her reach the fourth cup, in front of her own chair, and stop.
 
-She said nothing about it. She went to the table and held the cup while Brom filled it, and drank half of it standing, and set it down.
+She said nothing about it. She went to the table and held the cup while Brom filled it, and drank half of it standing.
 
-"Four days," she said to the room, and finished the cup.
+"Four days," she told the room, and finished the cup, and set it back in front of her chair.
 
 She went to the stair. On the first step she stopped with one hand on the rail, and did not turn round.
 

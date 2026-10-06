@@ -210,7 +210,7 @@ She wrote *bill, not flag* under the ten counts, and underlined it.
 
 "Ten counts," said Brom, "in a real bout."
 
-"Is a long time."
+"Is a long time," said Cael.
 
 "Is a long time," Brom agreed.
 

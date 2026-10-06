@@ -10,7 +10,7 @@ Five people were working on the floor.
 
 Rooke stood by the trestle with his board under his arm and his pencil behind his ear. At the far end two third-years went up and down a line of crosses: a broad-backed Force, gone up to Rank Seven at the year's last sitting, who moved as if he expected the floor to argue with him, and a lean Current girl who never seemed to put her heels down at all. The fourth was a stranger, and Cael knew him at once. The fifth was Lira.
 
-He was a Stone, thick through the shoulders and slow in the feet, and he stood at the near end of the painted lines with his hands folded in front of him like a man waiting outside a shop. Cael had seen him last at the wool town, on the far side of a rope, losing to Lira. He had been an Iron of the river academy then, its first entry, and she had beaten him by finding the half a beat in which neither of his planted feet was reading the floor, and going through it. Now he was a Silver, newly advanced, and he had sewn nothing on his collar to say so. Over the recess, Lira had said, he had written to Rooke and asked for the posting, and brought his academy's drill-book with him in a red board cover so that the bluff could copy it.
+The stranger was a Stone, thick through the shoulders and slow in the feet, and he stood at the near end of the painted lines with his hands folded in front of him like a man waiting outside a shop. Cael had seen him last at the wool town, on the far side of a rope, losing to Lira. He had been an Iron of the river academy then, its first entry, and she had beaten him by finding the half a beat in which neither of his planted feet was reading the floor, and going through it. Now he was a Silver, newly advanced, and he had sewn nothing on his collar to say so. Over the recess, Lira had said, he had written to Rooke and asked for the posting, and brought his academy's drill-book with him in a red board cover so that the bluff could copy it.
 
 He had asked to come and teach the girl who beat him. Cael wrote that in the notebook before he wrote anything else.
 
@@ -98,7 +98,7 @@ Cael climbed back to the rail and watched until the bell, and wrote nothing at a
 
 He met the assistant before he met Karis.
 
-She was coming down the library's top stair as he went up it after the noon meal with a mug of tea in each hand, a second-year with ink on her collar and an armful of registry digests, taking the narrow steps two at a time. The stair was too tight for two people to pass. She flattened herself to the wall to let him by and stared at him the whole time he was going past, and as he climbed on he heard her say to herself, quite quietly, *the left hand, then the right*, the way people say a thing they mean to remember.
+She was a second-year with ink on her collar and an armful of registry digests, coming down the library's top stair two steps at a time as he went up it after the noon meal with a mug of tea in each hand. The stair was too tight for two people to pass. She flattened herself to the wall to let him by and stared at him the whole time he was going past, and as he climbed on he heard her say to herself, quite quietly, *the left hand, then the right*, the way people say a thing they mean to remember.
 
 He supposed he would find out later what it meant.
 
@@ -162,7 +162,7 @@ Cael went out through the wing doors and along the covered walk at the pace of a
 
 *Senior men. Keep the documentation current.*
 
-Seln charged for words the way a ferryman charges for crossings, and he had never in two years crossed for nothing. A remark about the weather from him would have been worth a morning's thought. Three sentences in a queue, two of them about something no form had asked, were very nearly a letter.
+Seln charged for words the way a ferryman charges for crossings, and he had never in two years crossed for nothing. A remark about the weather from him would have been worth a morning's thought. Four sentences in a queue, and not one of them about the form in his hand, were very nearly a letter.
 
 ---
 

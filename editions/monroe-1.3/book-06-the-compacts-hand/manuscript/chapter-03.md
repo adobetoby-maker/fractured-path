@@ -38,7 +38,7 @@ Cael read it upside down. He could not help that; he had been reading things ups
 
 Brom read the sheet without picking it up, with his spoon still in his hand, and Bracken let him finish before he said anything at all.
 
-"They'll put three assessors and a sigil frame in a room at the district seat about the size of our long room," said Bracken then, in the voice he kept for reading out a fee. "The district had ninety days from the day it handed you that summons to convene them. This convenes them, on paper, as of this morning, with weeks in hand. The sitting itself we asked them to put at the year's end. Rooke wanted a year of your figures on the table before anybody in a grey coat looked at them, and the district hall is cold in the first weeks and empty in the last, and an empty hall suits a panel that has already made up its mind." He paused. "They agreed. Districts like a champion to look well in their own building."
+"They'll put three assessors and a sigil frame in a room at the district seat about the size of our long room," said Bracken then, in the voice he kept for reading out a fee. "The district had ninety days from the day it handed you that summons to convene them. This convenes them, on paper, as of this morning, with weeks in hand. The sitting itself we asked them to put at the year's end. Rooke wanted a year of your figures on the table before anybody in a grey coat looked at them, and the district hall is crowded in the first weeks and empty in the last, and an empty hall suits a panel that has already made up its mind." He paused. "They agreed. Districts like a champion to look well in their own building."
 
 He looked straight at Brom then, which he did not often do, with anybody.
 
@@ -46,7 +46,7 @@ He looked straight at Brom then, which he did not often do, with anybody.
 
 There was a little silence at that end of the table. At the next table along, somebody dropped a spoon.
 
-Brom folded the sheet in half, and in half again. He did not put it in his kit bag, where the plaque was, wrapped in two shirts. He unbuttoned his coat and put it in the inside pocket, the left one, where the summons had ridden since the road and where the Velmere letters lived. Then he buttoned the coat again, and pressed the buttons down with his palm, one after another.
+Brom laid down his spoon, and folded the sheet in half, and in half again. He did not put it in his kit bag, where the plaque was, wrapped in two shirts. He unbuttoned his coat and put it in the inside pocket, the left one, where the summons had ridden since the road and where the Velmere letters lived. Then he buttoned the coat again, and pressed the buttons down with his palm, one after another.
 
 "Thank you, Registrar," he said.
 
