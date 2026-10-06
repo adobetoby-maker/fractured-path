@@ -382,3 +382,69 @@ I did not run a separate density count.
     - Karis "two years" at the circle's table, as M5 has it.
     - No counts for Cael or Lira.
 14. **The ring's size** is said only as M5's "fifty-odd feet, a bit longer one way than the other" (Lira, on the ring night).
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, following `REPAIR-BRIEF.md` (coordinator, after the two Fable reviews). The pre-repair text is frozen in `pre-repair/`. I worked in reading order. Every change was chosen by reading and applied by hand with the Edit tool as an exact string. No sentence or paragraph was split or joined by script.
+
+**Coordinator rulings recorded.**
+- The calendar deferral (T5–T10) is accepted, and M6 is unchanged for it.
+- The fair-day veteran is confirmed as she.
+- The #39 departures and the new canon are approved. The lattice is PROVISIONAL house doctrine.
+- Ilsev's form now has no rank (applied).
+- The nine packet-line patterns were added to `protected-patterns.txt` by the coordinator.
+
+**Must-fix changes.**
+- **P1(i), ch35 E4, the burst count.**
+  - The diagonal is now cut "on foot, with the last of her floor-sense and three hard strides" (the half-burst is gone).
+  - "She spent her last burst, and then she spent the burst after the last" is now "She spent the burst after the last, the one she did not have…".
+  - The page now carries exactly one burst over Rooke's three, so his singular "a burst you hadn't got" is true. Kept: the three fingers, "the burst after the last", and "Nothing she gave up was given. All of it had to be taken."
+- **P1(ii), ch37 E1.** "And the fifth went somewhere Cael had never charted at all" is now "And the fifth went to a gap Cael had charted only on the oak at home, where the whole floor gave, and had never thought to look for here." This is the back-heel gap, one of his four, which agrees with "He found six. I knew about four." Kept: "He found the gap in the ground Brom had chosen himself."
+- **P1(iii), ch37 E3, the last point.** Marek's touch at the oldest gate is now explicitly unflagged: "His touch there came a hair late, a glance off the forearm rather than a strike, and no flag rose for it. Brom's return did not glance. It took the third point." E3 reads 3–1 on the first pass. The bout stands at 7–6 after E3 and 10–6 after E4, as the coordinator's correction requires.
+- **P2, ch37, the shoulder gate closes once (subtraction only).**
+  - (a) The interval's forward-flash ("Cael, going back through his charts that night, would find…") is cut. What remains is what Cael sees live: Marek checks every gap but one, and Brom breathes out.
+  - (b) Umber's reveal is kept whole.
+  - (c) The rail account is trimmed to the strongbox lid, one clause of cause ("at the one angle he had kept cheap for exactly this") and the sound the whole floor heard. "For three exchanges Brom had let that shoulder go cheap…", "the cheapest gap on the floor, the one he was sure of, the one he had not needed to check" and "He had absorbed six clean scores… to sell one number" are cut.
+  - (d) Brom's "I'd written it to be read that way" is kept whole.
+  - (e) The notebook's first paragraph, which restated the con, is cut. The entry now opens on Cael's own record and carries his file, not Brom's.
+  - Every exchange and touch is unchanged. "The honesty of the work", "A trick was a thing done once…", "He found six. I knew about four… the best inspection I've ever had" and the E4 arithmetic paragraph are all kept.
+- **P3, the continuity set.**
+  - ch36 stair: Karis wrote her plan "Before Brom's semifinal, while you were all at his quarterfinal."
+  - Pen against pencil: ink is chosen. Lira now says "with my pen" (ch36), which agrees with the inked and smudged palm in ch36 and ch38. Rhagen's coach's pencil is a different object and stays.
+  - ch38 Ilsev: the semifinal is "against a fighter the gallery-sheets called buried" and the five-exchange bout is "a bout in the second round". "Buried" no longer attaches to a man, and the line agrees with M5 and ch36.
+  - Day counts, checked against my T-calendar (the room on T7, the bout on T8): ch34 "The day after tomorrow" is now "Tomorrow", and ch35 "rewound two nights before" is now "the night before".
+  - ch36 boards: Zerin's line now says "You did it twice this morning, in one exchange", which pays off Lira's "She said I did it twice" and Cael's answer.
+  - ch34: "'Come on,' said Brom."
+  - ch36: "the fourth glass" is now "the fourth exchange".
+  - ch38 Ilsev's form: "Registry tier at entry: Copper." (ruling 5).
+
+**Optional changes taken.**
+- **ch36:** the want's last pair is no longer split by a tag: "Lira did not look away from the fire. 'It's a better want. It costs more.'"
+- **ch36:** "the registry-grey paper" is now "the grey paper Withrow used for everything".
+- **ch37 Umber:** "He had struck a judge from the lists on the eve of the opening for a quarter of a point of kindness, and the five below him knew it." This replaces "a week ago" and "the four who were left and the one who had replaced him".
+- **ch37:** "taken eight contacts in that exchange" is now "taken every contact of that exchange".
+- **ch38 E5:** the 9–9 line now says that only Karis's next touch wins: "One more touch from Karis would close the fifth and win it. If Ivenne did, there would be more of it, and Karis had very little left for more."
+- **ch34:** one clause separating Ternhall's lattice from the Lattice Path: "which had nothing to do with the Lattice Path's invisible lines".
+- **ch39:** Rooke's reason, told to Cael: a strained shoulder gets worse with every burst, which is why Lira is on half work. Burnt palms only hurt more, so that was Karis's to choose.
+- **ch33:** Ephram's post-bout paragraph is reduced to the live beat at the floor. His tip to the lake Shield now comes in his own words at the rail, answering Lira, so the three time-frames no longer stack.
+
+**Declined.** None.
+
+**After repair.**
+- `ed.sh gates`: 0 on all seven chapters.
+- `ed.sh overlap`: **0 unprotected**, 17 protected.
+- `sweep_probe.sh book-05-the-silver-standard 6 6`: **skeleton 1%, close 7%**.
+  - By chapter: 0/2 · 2/9 · 0/6 · 3/10 · 0/5 · 0/7 · 2/6.
+  - The remaining skeleton hits are protected or packet lines. One new E5 sentence in ch38 matched a source line at 0.50 on the first recheck and was reworded.
+- Words (wc): 34,479.
+- Movement metrics:
+
+  | Measure | Value |
+  |---|---|
+  | Sentence mean | 13.52 |
+  | ≥40-word share | 3.4% |
+  | ≤5-word share | 26.5% |
+  | Paragraph median | 28 |
+  | Words per scene | 930 |
+  | "said" | 190 in total (≈55 per 10k) |
+  | Explanatory tics | 3 or fewer per chapter |

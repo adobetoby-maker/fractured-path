@@ -128,7 +128,7 @@ He did not write anything under it. He closed her notebook very carefully and se
 
 Karis's semifinal was on the afternoon of the tenth day, on the second floor, and she lost it.
 
-Rooke offered to scratch her that morning. He did it quietly, at the end of the long table, with nobody else listening: her hands, he said, were worth more than a semifinal, and no one in the city would think a hair less of her. Karis heard him out. Then she said no, quite simply, and asked Gault for the salve.
+Rooke offered to scratch her that morning. He did it quietly, at the end of the long table, with nobody else listening: her hands, he said, were worth more than a semifinal, and no one in the city would think a hair less of her. Karis heard him out. Then she said no, quite simply, and asked Gault for the salve. Rooke let it stand. A strained shoulder got worse with every burst, he told Cael afterward, and that was why Lira was on half work. Burnt palms only hurt more. That was hers to choose.
 
 Her opponent was Auremont's third Iron entry, a heavy, patient Force fighter whom the circuit called the lattice-breaker, because taking apart fighters who built things was what Auremont had made him for. He was very good at it. Auremont's own file on him said so, and Karis's map said so, and so did the record of every caster he had met that cycle. Each of them had built something in front of him and stood and watched him take it down.
 

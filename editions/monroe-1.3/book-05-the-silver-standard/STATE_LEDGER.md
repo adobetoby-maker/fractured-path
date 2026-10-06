@@ -1028,3 +1028,151 @@ Standings after T4: Lira, Karis and Ephram in the Iron round of sixteen (separat
 - **Havel:** the seating order sits in the observation office's folder in his kit beside the notebook (four entries; the fourth on the bluff with the three-line rule-break). His right thumb-web aches in the evenings.
 
 **Movement 5 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch31 'He put it in the observation notebook' → 'Cael', the pronoun now lands after Brom's paragraph; ch32 'defend it' → 'defend seat twelve' across the scene break; ch32 Ephram's E5 reordered so the coast Blade's one point falls before Ephram's closing third; ch31 Halcenvane 'at the other end' → 'well down the line from it', the eleventh of fourteen). SUPERSEDED in the author end-state above, the manuscript and the rulings block govern: the hill house *below*; the Compact row with 'two clerks'; Havel's 'right thumb-web aches'; Havel 'writes nothing' with the seating order in his folder. Overlap 0/10, gates 0, probe 1%/5%.
+
+
+## AFTER MOVEMENT 6 — chapters 33–39 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR (OWNER-DECISIONS #41 default; BOOK_MAP §6 [M6-redated]): the west tower defers the exhibition ring by a notice on T5; the Copper final clears the main floor T9 morning; the ring is raised the night of T10, complete at dawn T11. Rooke's "four days … seven" is dead and is not restated. M7 onward: Shield captain T11; duelist and Vastin's seat T14 (chair held thirteen days — Seln's "nine" becomes "thirteen"); rest day/birthday T15; team trial T16; filing T19; convening T20; third place T21; finals T24; closing T26.
+- The fair-day veteran (ch36) is the M1/M2 buried fair-day Copper (she); her house "came up through its own region on her back".
+- #39 bouts as on the page: Lira–Zerin 4–9 in four; Brom–Marek 1–3 / 3–2 / 3–1 / 3–0 = 10–6 in four (E3's last Marek touch is an unflagged glance; 7–6 after three); Karis–Ivenne 10–9 in five; Brom SF 8–3; Karis SF 5–9; Lira QF 10–3; Ephram's exit 6–11. Brom is continental Copper champion.
+- Lira's burst shoulder is her LEFT: one burst over her rate of three in the Zerin bout (the diagonal cut on foot); a week of half work from T9.
+- Figures: Zerin 29 (a Silver figure; Silver assessment pending on her sheet); Brom and Marek level at 25; Karis SF 23 against 27.
+- Ternhall's lattice (PROVISIONAL house doctrine): three anchors are planted footholds that drain an ignition's heat into the floor; unanchored contact burns back into the palm. Ember stays contact-only; distinct from B4's Lattice Path.
+- Brom's registry tier on Ilsev's form is "Copper." with NO rank (BOOK_MAP: Copper formal).
+- Velmere letter: Brom reads it alone; he recites the line to Cael on the landing; no sender; the map's ten words exactly.
+- Rooke offered to scratch Karis before her semifinal and she refused; Rooke's clause on why her hands may fight when Lira's shoulder may not.
+- Umber struck a Blade judge from the lists before the opening (not "a week ago"); Umber "fought, long ago, not well".
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane weekdays (day N falls on weekday (N mod 7)+1). T = day from the opening; T1 = d214, a Fifth-day. No season names, no month names, no month order.
+
+| Day | T | Weekday | Event |
+|---|---|---|---|
+| d217 | T4 | First-day | (Banked; told in ch33) Lira's second round, in the morning before the city walk |
+| d218 | T5 | Second-day | Morning: **Lira's QF**, eleven minutes. Afternoon: Zerin's QF on the far floor. Noon: **the west tower defers the ring** until the brackets clear the main floor. Evening: Zerin room 1 |
+| d219 | T6 | Third-day | Morning: Karis's R16 and Brom's last-sixteen Copper bout (both won; banked). Afternoon: **Ephram's R16 exit** (third floor). Evening: Zerin room 2. Late: **Karis's study collapses** |
+| d220 | T7 | Fourth-day | Rooke's two closed sessions (a hired hall behind the east tower). Afternoon: **Rhagen's open warm-up**. Supper: Brom's oak story; Karis's page; **the mirror study**. Zerin room 3 (the file's last page). Night: the stair, "Behind." |
+| d221 | T8 | Fifth-day | Morning: **Lira vs Zerin** (second floor). Just after noon: Brom's Copper QF (nine minutes). Fourth bell: **Brom's semifinal rematch** (third floor). Evening: the accounting; Withrow's note; the final's brief; **the boards (Zerin)**; the want; Lira walks Karis (two hours, back after the eleventh bell); midnight: the stair; **the plan burned** |
+| d222 | T9 | Sixth-day | Breakfast: the broadside. Morning: **Brom vs Marek** (main floor; Umber at the screen). Midday: **Ilsev's validation**. Third bell, afternoon: **Karis vs Ivenne** (second floor). Dusk: **the plaque**. Evening: **the registry notice**, **the Velmere letter**, **Withrow's report**, **the boards (Ivenne)**. Night: Brom's line on the landing; **Karis's two notebook entries** |
+| d223 | T10 | Seventh-day | Grey light: Cael reads the finding. Morning: Rooke offers to scratch Karis. Afternoon: **Karis's semifinal**. Evening: **Rooke's standings note**. Night: **the crews raise the exhibition ring**; Lira joins Cael; the closing Log |
+| d224 | T11 | First-day | (Not reached.) The rest day, M7's (the birthday) |
+
+**Every bout and rating figure in the movement** (#38: five judges; per-axis strike; marks to fifteen; ten = par; ratings to forty-five; par thirty. Bands: Copper 12–17; Iron 18–21; strong Iron to Silver-touched 22–27; Silver 28–34; Gold 35+).
+
+| Bout | Exchanges (first-named fighter's points first) | Result | Figures |
+|---|---|---|---|
+| Lira vs an inland Force counterpuncher, Iron QF, second floor, T5 | 1–2 · 3–0 (closed) · 3–1 (closed) · 3–0 (closed) | **10–3 in four** (eleven minutes) | not stated |
+| Zerin vs (unnamed), Iron QF, far floor, T5 | — | won | not stated (Cael charts: eleven exchanges in three bouts, none lost, four points conceded) |
+| Ephram vs the lake house's Shield (she, about thirty), Iron R16, third floor, T6 | 1–3 (closed) · 2–2 (bell) · 1–3 (closed) · 2–3 (closed) | **6–11 in four** | not stated |
+| Karis, Iron R16, T6 | — | won (banked) | — |
+| Brom, Copper last sixteen, T6 | — | won (banked) | — |
+| **Lira vs Zerin, Iron SF, second floor, T8** | 0–3 (closed) · 2–1 (bell) · 1–2 (bell) · 1–3 (closed) | **4–9 in four** | **Zerin 29, Lira 27** |
+| Brom vs a valley house's Stone, Copper QF, T8 | three exchanges | won (nine minutes) | not stated |
+| **Brom vs the fair-day Copper (Iron Skin, Copper R4, she), Copper SF, third floor, T8** | 1–1 (bell) · 2–1 (bell) · 2–1 (bell) · 3–0 (closed) | **8–3 in four** | **Brom 24, she 23** |
+| **Brom vs Marek, Copper F, main floor, T9** | 1–3 (closed) · 3–2 (closed) · 3–1 (closed) · 3–0 (closed) | **10–6 in four**: **continental Copper champion** | **Brom 25, Marek 25** |
+| **Karis vs Ivenne, Iron QF, second floor, T9** | 0–3 (closed) · 3–1 (closed) · 1–3 (closed) · 3–1 (closed) · 3–1 (closed; from 2–1, 9–9 level) | **10–9 in five** | **Ivenne 25, Karis 24** |
+| **Karis vs Auremont's lattice-breaker (Force, their third Iron entry), Iron SF, second floor, T10** | 2–1 (bell) · 1–3 (closed) · 2–2 (bell) · 0–3 (closed) | **5–9 in four** | **the lattice-breaker 27, Karis 23** |
+
+The individual brackets are spent:
+- **Lira:** semifinalist, lost to Zerin.
+- **Brom:** continental Copper champion.
+- **Karis:** won her quarterfinal over Ternhall's best, then lost her semifinal to the lattice-breaker.
+- **Ephram:** out in the round of sixteen.
+- Both Iron exits were administered by Auremont, by "their third-best and their fourth-best" in Rooke's note.
+- The exhibition ring goes up on the night of T10. The two Silver filings (Rhagen's captain, the lake duelist) are still unheard and **deferred by the west tower's notice**.
+
+**Bodies.**
+- **Cael:** fit. No burst, no contact, no fragment used all movement. The right shoulder is idle and the left seam is not mentioned. Shadow rent runs from waking; deployment none; no drift narrated.
+- **Lira:** the LEFT shoulder, the burst shoulder, strained by the burst over her rate in E4 (T8). Heat-wrap; "a week of half work, from tomorrow" (T9 to about T15); Gault looks at it every morning. She is at every rail with the wrap on.
+- **Brom:** deep bruising on both forearms from wrist to elbow (T9), in wet linen. He rolls the right shoulder; no injury there.
+- **Karis:** both palms scorched at the heel, the right worse and blistering (T9), salved. The left wrist strained (T9, E3), strapped. She fought the T10 semifinal on them by her own choice; the cost carries.
+- **Ephram:** fit ("one Blade with nothing wrong with him at all").
+
+**Fragments and progression.** Six confirmed plus the anomaly (not touched). No new capability and no change to the public record (#40). One instrument note, not a capability: at Zerin's full baseline Cael's charting eyes could not keep up for an exchange ("could only follow this one from behind"). This is a possible seed for M8's "reading the medium"; nothing is claimed for it. "Shield is solved" is untouched except for one private thought at the lake Shield's plain clock ("A touch of fire on the pane as it formed…"), which leaves the belief standing for M7.
+
+**Knowledge.**
+- **Cael:** what a file is and what it cannot hold (the blank country); being studied, from the rail, three ways; that nobody can study him back, and, from Karis's finding, what that costs. He knows Brom's six gaps (Marek's count) and that he himself knew four.
+- **Lira:** the distance to Silver "to a tenth"; Zerin's challenge; her want; the walk with Karis.
+- **Brom:** what Marek found (six); the notice; the letter.
+- **Karis:** that she can leave her file once, and at what price; that she lost honestly to the lattice-breaker; Withrow's sentence.
+- **Rooke:** has asked nothing. He offered to scratch Karis and accepted her refusal.
+- **Withrow:** heard the chancellor.
+- **Seln:** two dry sentences; no reason stated; nothing of the mechanism.
+- **Ilsev:** the pricing error, entered at the tier won. Her referral is still pending.
+- **Umber:** watched the con, from the craft and the mark only.
+- Nobody outside the circle approaches the mechanism. The words *integration*, *fragment* and *witnessed* do not appear.
+
+**Resources.**
+- Brom: the continental Copper plaque (dark wood, a brass plate, the bar-and-ring); the registry notice; the Velmere letter at the bottom of his kit.
+- Karis: her notebook with *Unknown.* across the QUARTERFINAL leaf, the bill and the finding. The russet four-page Ternhall file (two marks).
+- Lira: Withrow's four-word note and Karis's panel page, both inside her shirt. Zerin's grey-board commercial file (eleven pages, Rooke's).
+- Rooke's coaching sheet with the standings note.
+- The broadside (the bluff's column).
+- Rhagen's book (Halcenvane's copy, from Rooke's trunk, read twice by Ephram).
+
+**Relationships (on the page).**
+- **Lira:** the oldest partnership's study room. The want, said sitting beside Cael. The ring night: "Make them write a long one."
+- **Lira and Karis:** two hours walking; the line written on Karis's hand.
+- **Brom:** gives Cael the letter's line so that the book has it right. "I'm curious. It's worse."
+- **Karis:** leaves the finding open on the table for Cael. Refuses his chart: "I'd like to read what happened."
+- **Ephram:** runs Zerin's lines "paying down a debt"; prices his own loss first.
+- **Rooke:** "Best loss…"; "That's all I ever ask of a week."
+- **Withrow:** the note; the chancellor; "parts."
+- **Zerin and Lira:** the boards; Zerin's look at the heat-wrap.
+- **Ivenne and Karis:** the boards.
+- **Marek and Brom:** "I read it as your mistake."
+
+**Open threads.**
+- Opened:
+  - The deferred exhibitions and the ring, raised on the night of T10.
+  - Brom's review summons, to be collected at the district seat.
+  - "Silver bracket, next cycle."
+  - "Wait for her at the next cycle."
+  - The fair-day Copper's filing ("Somebody ought to file for her").
+  - Ephram's tip to the lake Shield.
+- Advanced:
+  - The team trial against "the whole set at once".
+  - Cael's being-studied arc (Karis's finding).
+- Closed: the individual brackets.
+
+**Prose vs plan differences.**
+- (a) **The calendar** (owner flag 1). M6 runs T5–T10. To let all three companions fight before the ring, the west tower **defers the demonstration ring** on T5 by notice ("The tower has changed its opinion"). This supersedes Rooke's T3 "four days … seven" on the page.
+- (b) **The order of preparation is interleaved by day.** The Zerin room runs T5–T7. Karis's collapse is T6 late. The Rhagen warm-up and the mirror study are T7. The featured fights still fall in the locked order: Zerin T8, Marek T9 morning, Ivenne T9 afternoon.
+- (c) **The packet's "fair-day veteran"** is the M1/M2 buried fair-day Copper (she), returning. The M5 hill-country Stone lost his round two and could not be met again (owner flag 3).
+- (d) Withrow's report and the boards with Ivenne fall on the evening of Karis's quarterfinal (T9), and the notebook entries that night. Karis's semifinal is T10.
+- (e) The Velmere letter reaches the reader through Brom, who says the line to Cael on the landing. Brom still reads it alone (owner flag 5).
+
+## New canon minted (flag where marked)
+
+- **The west tower's deferral notice (flag; text in ch33):** the category needs the main floor and the senior exhibition panel; the ring is raised when the brackets clear the main floor; the bouts are heard in order of filing. The clerk's word on both filings is *deferred*.
+- **The back room:** a former linen store at the guesting-house, with a rocking table, one window over the courtyard pump, and a door that shuts. Lira claimed it "by a custom she invented on the stair."
+- **Lira's QF opponent:** an inland house's Force counterpuncher ("does nothing first"; thirteen bouts this year without once moving first).
+- **The lake house's Shield (she, about thirty):** a mason's style; a five-beat oldest-first clock, shortened to four (freshness bought with slack); "fifteen years". Ephram's after-bout tip: her fourth beat runs thin on the left once the count is shortened.
+- **Ternhall's lattice (flag; contact-only Ember):**
+  - Three anchors, which are planted footholds in a triangle laid in a fixed order (leading foot; a stride ahead on the centre line; the flank).
+  - The lattice is a frame and a drain. Ignition stays at the palm on contact, and the heat runs down through the planted feet. An unanchored contact sends it back into the heel of the palm.
+  - Paired students grow their lattices against each other.
+  - Distinct from the Lattice Path (B4).
+- **Ivenne's tells (Karis's):** the back-foot settle before a contact; a glance at the floor before planting the third anchor; breathing out through the mouth on the last contact of a run.
+- **Ternhall's file on Karis:** four pages in a russet cover, two marks in a delegation-quarter shop. Annotated in Ivenne's hand. The third page's last paragraph is in ch34 (begins with the packet's *Subject's method is her signature.*).
+- **Rhagen's book:** every house owns one; Halcenvane's came in Rooke's trunk. The Glass chapter opens *Every structure is its gaps.* Marek's late registration was deliberate, and Rhagen never asks for its best to be moved up.
+- **The open warm-up floor:** one floor open to every house. Rhagen works it aloud as a body. Cael declines to chart the Shield captain there.
+- **Zerin's commercial file:** eleven pages in grey board. The last page quotes M3's extract and ends *No season wasted.* Zerin: "Nobody has made me arrive second since I was twelve years old."
+- **Lira's ink:** *Behind* on the back of her left hand; Zerin tried to read it at the centre flag.
+- **The fair-day Copper (flag):** she is the M1/M2 buried Copper R4 from a market house in the hills; her house "came up through its own region on her back"; the lean coach in brown. Her line is "Second time's the real rating." Brom: "Somebody ought to file for her."
+- **The main floor for the Copper final:** a sixty-foot roped square on the grey stone. At the centre, inside the socket ring, is a round of old dark oak about eight feet across, "the oldest piece of floor in the building," left alone when the stone is patched. There is a lip at the seam.
+- **Brom's gaps:** Cael knew four (the half-beat after a drive, the start of the left turn, the right-shoulder changeover, the back heel on a giving floor). Marek found six (adding the pivot's quarter-beat and the breath).
+- **Umber (flag):** he came to the fourth-floor screen for the Copper final's fourth exchange, by his own request. He read the cheap gate as "a structure, not a mistake," and his view of mark and craft is set out. He struck the Blade judge "a week ago". Afterward he sat with folded hands, "perhaps once a cycle".
+- **Ilsev (flag):** the continental-title validation form (bracket box, registry-tier box, no box for the difference). Brom's title is entered at Copper. Her second referral is "pending somewhere above her desk."
+- **The broadside line (mine):** *Auremont went home with the bout. The bluff went home with the first thing anybody has taken off Auremont all week, and there is no column in the standings to put it in.*
+- **The plaque:** dark wood, a brass plate, the bar-and-ring cut at the top, a line of small type.
+- **The registry notice (paraphrased in ch39):** mandatory review on a continental title at any tier; the summons is to be collected at the district seat on return; the classification stands meanwhile. Karis's heading: *Pending. Not a gift. A summons.*
+- **Seln:** "The tower has changed its opinion." / "The office notes that the review is mandatory. It does not note that anyone at the registry has yet read the bout."
+- **Withrow:** in the upper gallery for Lira's bout; four places from Ternhall's chancellor at Karis's ("The seating office has a sense of humour").
+- **Rooke:** the "measurement" account of Lira's loss; the week of half work; the offer to scratch Karis; "I sent four of you onto three floors this week and I've got four of you back."
+- **Karis's notebook:** *Unknown.* across the four columns. The bill and the finding are verbatim in ch39; the finding is in my words around the packet sentence.
+- **The lattice-breaker:** Auremont's third Iron entry, a heavy, patient Force fighter. He bows, "which nobody from Auremont did."
+- **The ring night:** the crews draw the plugs and set posts with a level and wedges. A woman oils each plug; Cael remembers the steward's grandmother.

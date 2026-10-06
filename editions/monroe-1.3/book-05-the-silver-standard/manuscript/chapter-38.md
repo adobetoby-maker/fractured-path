@@ -4,11 +4,11 @@ Ilsev signed the validation for the Copper final in the first seat of the Compac
 
 It was a plain form. The registry required one for every bracket title at a continental sitting, and the evaluation seat signed it, and it went into the registry's books under the fighter's name and stayed there for good. She had signed perhaps forty of them across her years in the seat. She had never once had to stop and think about one.
 
-*Bracket: Copper. Result: title. Practitioner: Brom, Halcenvane, Iron Skin. Registry tier at entry: Copper, Rank One. Figure: 25.*
+*Bracket: Copper. Result: title. Practitioner: Brom, Halcenvane, Iron Skin. Registry tier at entry: Copper. Figure: 25.*
 
 She held the pen above the line and did not let it down.
 
-Twenty-five was a strong Iron figure. Everybody on the floor who could read a board knew it, and so did she. It sat in the same band as half the Iron semifinalists of the cycle. And the semifinal before it had been twenty-four, and the bout before that had gone five exchanges against a man the gallery-sheets called buried, and the line on the young man's certificate, the line the registry had written and the registry stood behind, said Copper.
+Twenty-five was a strong Iron figure. Everybody on the floor who could read a board knew it, and so did she. It sat in the same band as half the Iron semifinalists of the cycle. And the semifinal before it had been twenty-four, against a fighter the gallery-sheets called buried, and a bout in the second round had gone five exchanges, and the line on the young man's certificate, the line the registry had written and the registry stood behind, said Copper.
 
 The form had a box for the registry tier, and a box for the bracket in which the title had been won. It had no box for a difference between them.
 
@@ -182,7 +182,7 @@ He did the other sum then, the one nobody posts on a board. He knew how much inv
 
 The fifth exchange went quickly, and then all at once it did not.
 
-Karis took the first point raw, off Ivenne's shoulder, and Ivenne took one back. Then Karis took another, and the board stood at nine each, level, with the next touch to decide the bout.
+Karis took the first point raw, off Ivenne's shoulder, and Ivenne took one back. Then Karis took another, and the board stood at nine each, level. One more touch from Karis would close the fifth and win it. If Ivenne did, there would be more of it, and Karis had very little left for more.
 
 And Cael saw Karis run out.
 

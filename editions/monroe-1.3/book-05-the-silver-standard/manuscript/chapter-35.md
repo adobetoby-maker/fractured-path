@@ -6,7 +6,7 @@ They ate early, at the end of the long table, before the house's other guests ca
 
 Lira ate what she always ate before a bout, bread and an egg and half a cup of milk, and she left the other half of the cup as she always did, and Brom reached over and finished it for her without being asked, as he had done on every fight morning since the slate country.
 
-Then she checked her kit on the bench under the window. Wraps and spare wraps, the tape, the soft shoes and the hard ones, the strap of the bag she had rewound two nights before. She went through it once, in her own order. Then Brom picked up the bag and went through it again in his.
+Then she checked her kit on the bench under the window. Wraps and spare wraps, the tape, the soft shoes and the hard ones, the strap of the bag she had rewound the night before. She went through it once, in her own order. Then Brom picked up the bag and went through it again in his.
 
 "You've done that," said Lira.
 
@@ -238,7 +238,7 @@ Lira cut one diagonal.
 
 Of everything she did that morning, it was the finest.
 
-She cut it fresh, with the last of her floor-sense and a half-burst she could not afford, across the middle of the square from the north-west corner to the south-east. Then she held it for half a beat while Zerin came at it. For half a beat it stood. Zerin had to go round, and Lira was waiting at the far end of it, and touched her on the forearm.
+She cut it fresh, on foot, with the last of her floor-sense and three hard strides, across the middle of the square from the north-west corner to the south-east. Then she held it for half a beat while Zerin came at it. For half a beat it stood. Zerin had to go round, and Lira was waiting at the far end of it, and touched her on the forearm.
 
 One to nothing. The gallery came to its feet again.
 
@@ -246,7 +246,7 @@ After that it was arithmetic, done at a speed only one of them could vote on.
 
 Lira spent everything. Cael watched her do it and counted every coin.
 
-She spent her last burst, and then she spent the burst after the last, the one she did not have, which Rooke's rule did not allow and which her own body had never once let her spend on any floor before, and Cael felt the cost of it go into her left shoulder from across the hall. She spent her reads to buy position, and her position to buy time. Nothing she gave up was given. All of it had to be taken.
+She spent the burst after the last, the one she did not have, which Rooke's rule did not allow and which her own body had never once let her spend on any floor before, and Cael felt the cost of it go into her left shoulder from across the hall. She spent her reads to buy position, and her position to buy time. Nothing she gave up was given. All of it had to be taken.
 
 Zerin took it anyway.
 

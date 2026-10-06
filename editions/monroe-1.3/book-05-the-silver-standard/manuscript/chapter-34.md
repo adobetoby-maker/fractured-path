@@ -32,7 +32,7 @@ She brought her right hand up as though to make a contact, and in the half-beat 
 
 She showed him two more without being asked. A glance at the floor before a planted foot, to a place she did not need to look at; a breath let out through the mouth on the last touch of a run. Both of them were Ivenne's. Both of them, Karis said, had been hers first, or perhaps the other way round, and after so long neither of them could have sworn which.
 
-Ternhall taught Ember in a shape it called a lattice, and Cael had learned the shape from Karis over two years of watching her work. An Ember fighter's fire came at a single point, only on contact, through the hand. The lattice was what Ternhall built round that one point: three anchors, three planted footholds in a triangle on the floor, laid down in a set order, so that any contact the hand made from inside them had the floor under it. It was a frame and a drain at once, because the heat of an ignition ran down through the planted feet into the boards instead of back up the caster's arm.
+Ternhall taught Ember in a shape it called a lattice, which had nothing to do with the Lattice Path's invisible lines, and Cael had learned the shape from Karis over two years of watching her work. An Ember fighter's fire came at a single point, only on contact, through the hand. The lattice was what Ternhall built round that one point: three anchors, three planted footholds in a triangle on the floor, laid down in a set order, so that any contact the hand made from inside them had the floor under it. It was a frame and a drain at once, because the heat of an ignition ran down through the planted feet into the boards instead of back up the caster's arm.
 
 And Ternhall paired its students in their first year and taught them to grow their lattices against each other, so that by the end each knew the other's footing better than her own.
 
@@ -174,7 +174,7 @@ Cael had spent a year learning to say nothing, to show a floor exactly what the 
 
 He did not think it would ever be his way. But he walked back across the court behind Brom wondering, for the first time, what it would feel like to be read aloud by people who meant no harm by it.
 
-"Come on," he said. "I've seen their library. Time to forge the book."
+"Come on," said Brom. "I've seen their library. Time to forge the book."
 
 ---
 
@@ -252,7 +252,7 @@ For a while neither of them spoke.
 
 "Mine. The one I didn't get." She sat back. "Same Path. Same sort of start. Somebody looked at each of us young and thought there was something there. Fenmark put me in a ledger. Auremont put her in a program. Then Fenmark threw me out, and I went and made myself out of whatever was lying about. A ledger-keeper at Ardenmere. A circuit full of fair-day men. You. Brom. A broom in the common room." She almost laughed.
 
-"And Auremont kept her, and built her properly, every door opened in the right year with the right key. The day after tomorrow the two of us find out what each way of making a fighter is worth."
+"And Auremont kept her, and built her properly, every door opened in the right year with the right key. Tomorrow the two of us find out what each way of making a fighter is worth."
 
 Cael sat with that while the lamp hissed. He found that he was trying, without meaning to, to imagine his own other road, the version of him somebody might have been supposed to build. There was nothing there to imagine. No program on the continent had a page for a boy like him, and no shop sold a file that began where his began.
 

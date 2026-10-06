@@ -204,13 +204,17 @@ In the fourth he fought like a man who knew to the last copper how much he still
 
 Two to three. Six to eleven. Ephram could not have drawn level with every point of the last exchange, and the clerk called it over in four.
 
-He shook her hand. She said two or three words to him that nobody at the rail could hear, and he nodded. Then, before he let go, he said something back, longer, and Cael saw the lake Shield's careful face change a little, as faces do when somebody tells them a thing they had not known about their own work. Ephram told them later what it was. He had told her that her fourth beat ran thin on the left side after she shortened the count, and that a Blade with a slower heel than his would never find it, and that she should know. "She'll fix it," he said. "She'd have found it herself by the next cycle. I thought she might as well have it now." Then he walked off the floor and up the steps to where the five of them stood, and before any of them could open their mouths, he spoke.
+He shook her hand. She said two or three words to him that nobody at the rail could hear, and he nodded. Then, before he let go, he said something back, longer, and Cael saw the lake Shield's careful face change a little, as faces do when somebody tells them a thing they had not known about their own work. Then he walked off the floor and up the steps to where the five of them stood, and before any of them could open their mouths, he spoke.
 
 "That was the price of admission," he said. "I said so at the draw. The round of sixteen was what I'd pay to get in." He started to unwrap his hands. "Paid in full. I'd like a receipt."
 
 Lira laughed, and so did Brom. Rooke did not laugh, but he put his hand on Ephram's shoulder once, briefly, which from Rooke was a good deal more.
 
 "She shortened the count," said Ephram. He was still breathing hard, and his face was red, but his voice was perfectly steady. "I found her wheel in one exchange, and she changed it in the next. Fifteen years of doing it one way, and she changed it in a breath because a boy from the bluff had found it." He looked down at his hands, half unwrapped. "I couldn't hit a pane before it was there. Nobody could. Not with an edge."
+
+"What did you say to her?" said Lira. "At the end. She looked as though you'd handed her something."
+
+"I told her the fourth beat runs thin on her left once she shortens the count. A Blade with a slower heel than mine would never find it." Ephram shrugged. "She'll fix it. She'd have found it herself by the next cycle. She might as well have it now."
 
 Cael said nothing. He was thinking of a copper pot on the twentieth of Reaping, and four instants of fire, and a pane cracking as it came up.
 

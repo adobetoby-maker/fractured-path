@@ -4,7 +4,7 @@ Brom's quarterfinal took nine minutes in the hour after noon, against a valley h
 
 His semifinal was at the fourth bell on the third floor, against a woman he had fought before.
 
-Cael knew her before she had her coat off. She had been a sheet in Rooke's profiles stack in the first week of the year, marked more heavily than the sheets round it: a fair-day fighter from a market house in the hills, Iron Skin like Brom, Copper Rank Four on her certificate, with four bouts on her record and every one of them won and every one of them short. *Rank Four on paper. Fights like a Seven. Buried.* At the wool town she had walked Brom backward round his own chalk by the arm in front of a muttering gallery, and he had beaten her two touches to one in the fourth glass, and the figures had come up twenty-three to twenty-two.
+Cael knew her before she had her coat off. She had been a sheet in Rooke's profiles stack in the first week of the year, marked more heavily than the sheets round it: a fair-day fighter from a market house in the hills, Iron Skin like Brom, Copper Rank Four on her certificate, with four bouts on her record and every one of them won and every one of them short. *Rank Four on paper. Fights like a Seven. Buried.* At the wool town she had walked Brom backward round his own chalk by the arm in front of a muttering gallery, and he had beaten her two touches to one in the fourth exchange, and the figures had come up twenty-three to twenty-two.
 
 She was perhaps eighteen, square in the shoulders, with her hair cropped close to her skull, and she still had the fair-day fighter's habit of standing loose and easy until the instant she was not. The lean coach in brown was at her rail with his arms folded, exactly as he had stood in the sheep market. Her market house had come up through its own region on her back, Karis said, and had brought no other entry to any bracket in the city. For a week she had been cutting through her side of the Copper draw, and not one broadside had printed a line about her.
 
@@ -106,7 +106,7 @@ Then he stood up at last, with the cup in his hand.
 
 Lira looked down at her plate, which was full and which she had not touched. Then, slowly, she picked up her fork and began.
 
-A note came up the stair while she ate. It was on the registry-grey paper Withrow used for everything, folded once, with Lira's name on the outside in Withrow's square hand. Lira opened it at the table and read it, and then turned it round and laid it in the middle of the board, among the cups, for everybody.
+A note came up the stair while she ate. It was on the grey paper Withrow used for everything, folded once, with Lira's name on the outside in Withrow's square hand. Lira opened it at the table and read it, and then turned it round and laid it in the middle of the board, among the cups, for everybody.
 
 *Semifinalist. Continental. Noted twice.*
 
@@ -142,7 +142,7 @@ He saw Zerin first. She came across the court out of the dark, from the directio
 
 Lira did not turn her head. She answered the fact, since that was what had been asked. "Their ledger said Copper."
 
-"Their ledger is garbage." There was no more feeling in it than in a miller condemning a wet sack. Zerin lifted her chin at the board. "Nobody has made me arrive second since I was twelve years old. You did it this morning in front of my whole house, and my coaches are still in a room arguing about how." Then she turned from the board and looked straight at Lira for the first time. "Silver bracket, next cycle. Be there."
+"Their ledger is garbage." There was no more feeling in it than in a miller condemning a wet sack. Zerin lifted her chin at the board. "Nobody has made me arrive second since I was twelve years old. You did it twice this morning, in one exchange, in front of my whole house, and my coaches are still in a room arguing about how." Then she turned from the board and looked straight at Lira for the first time. "Silver bracket, next cycle. Be there."
 
 She walked off across the court the way she had come, past the sweeper and the two old men, and did not look back once.
 
@@ -170,7 +170,7 @@ She looked at the fire for a while. When she spoke, it was in the low, even voic
 
 Nobody in the room moved. Ephram had stopped reading.
 
-"It's a better want," said Lira. "It costs more."
+Lira did not look away from the fire. "It's a better want. It costs more."
 
 Cael said nothing. He did not think there was anything he could have said that would have been half as true, so he only sat there beside her and let it be said. After a while she leaned her good shoulder against his, briefly, and then sat up again and looked at the fire.
 
@@ -202,7 +202,7 @@ They came in a little after the eleventh bell, cold, with Lira's heat-wrap slipp
 
 Brom said nothing, which was what he said to most things that deserved it.
 
-"I didn't have an answer to that. Not a clever one." Lira turned her hand over to warm the back. "So I told her the only thing I'm sure of. The sentence's ending isn't in the hall, and it isn't in the other girl either. It's in her. Wherever she goes, she's carrying the end of it." She was quiet a moment. "And she wrote it on her hand. Under a lamp, in the middle of the street, with my pencil, because she'd left hers on the table. I've never had anything I said written down before, Brom." She glanced at Cael. "Except by him."
+"I didn't have an answer to that. Not a clever one." Lira turned her hand over to warm the back. "So I told her the only thing I'm sure of. The sentence's ending isn't in the hall, and it isn't in the other girl either. It's in her. Wherever she goes, she's carrying the end of it." She was quiet a moment. "And she wrote it on her hand. Under a lamp, in the middle of the street, with my pen, because she'd left hers on the table. I've never had anything I said written down before, Brom." She glanced at Cael. "Except by him."
 
 ---
 
@@ -226,7 +226,7 @@ He watched her take the sentence apart, as she took everything apart, turning it
 
 She took the notebook out of her coat and opened it at the leaf headed *QUARTERFINAL*. Under the four columns and the one word across them were three pages of close writing that Cael had never seen.
 
-"I wrote it this afternoon. While you were all at Brom's bout. A plan. A good one, complete in every part." She smiled a little, without much humour. "She'll have it already. It's precisely the plan she'd expect me to write, because I wrote it."
+"I wrote it this afternoon. Before Brom's semifinal, while you were all at his quarterfinal. A plan. A good one, complete in every part." She smiled a little, without much humour. "She'll have it already. It's precisely the plan she'd expect me to write, because I wrote it."
 
 She stood up and went down the stair past him into the dark common room, and he followed her as far as the door.
 

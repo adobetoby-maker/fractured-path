@@ -108,7 +108,7 @@ One to two.
 
 The fourth was light again, unflagged. It went to the very start of Brom's left turn, a hair before the guard changed hands, where the door was still a wall but was about to begin becoming a door. Marek did not try to go through. He only touched it, to show himself where it was.
 
-And the fifth went somewhere Cael had never charted at all.
+And the fifth went to a gap Cael had charted only on the oak at home, where the whole floor gave, and had never thought to look for here.
 
 Brom had chosen the oak.
 
@@ -124,7 +124,7 @@ The second floor's whole gallery had stood up for Lira yesterday. The main floor
 
 Brom walked to his mark without any hurry and stood there.
 
-Cael watched him and could not believe how calm he was. His forearms had taken eight contacts in that exchange and they would be colouring already under the wraps. But he stood easy, and his eyes were not on the floor and not on the rail. They were on Marek, and they were following where Marek looked.
+Cael watched him and could not believe how calm he was. His forearms had taken every contact of that exchange and they would be colouring already under the wraps. But he stood easy, and his eyes were not on the floor and not on the rail. They were on Marek, and they were following where Marek looked.
 
 *Brom spent the first exchange watching where Marek looked,* Cael wrote afterward. *Not the touches. Where the touches went. Five stakes in the ground, and he knows where every one of them is now, because he watched every one go in. So now he knows what Marek's going to build on. Marek read him, and he read the reading, and only Brom knows there were two surveys on that floor.*
 
@@ -198,7 +198,7 @@ He had found it.
 
 It was real. His whole doctrine said to take it. And he stood there and looked at what it had cost, and added that to everything else the morning had cost, and Cael saw him decide that it was not worth the price. It was the first time all tournament Cael had seen Marek decline anything he had found.
 
-He went instead to the oldest gate he had, the half-beat after Brom's drive, the first one he had ever staked, and paid for it as he had paid for it every time before. Brom's return took the third point.
+He went instead to the oldest gate he had, the half-beat after Brom's drive, the first one he had ever staked. His touch there came a hair late, a glance off the forearm rather than a strike, and no flag rose for it. Brom's return did not glance. It took the third point.
 
 Three to one, closed early. Seven to six on the bout.
 
@@ -210,7 +210,7 @@ Marek stood very still on his chalk. Cael knew that kind of stillness; it was th
 
 All of them except one.
 
-He did not look at the top of Brom's right shoulder. It was the first gap he had found, in the first exchange, before anything had been priced. Through the whole bout it had been the cheapest gap on the floor. Cael, going back through his charts that night, would find that Brom had priced it a fraction lighter than every other, all morning, from the first exchange to the third, so that it read not as a price at all but as a mistake in Brom's pricing, the one door he had forgotten to charge for.
+He did not look at the top of Brom's right shoulder. It was the first gap he had found, in the first exchange, before anything had been priced.
 
 Marek did not check it. It was the one he was sure of.
 
@@ -248,7 +248,7 @@ He did not think of it as a trick, though he supposed the tiers might. A trick w
 
 Umber had spent his life in the service of a mark that rated what was demonstrated. Not what was meant, or felt, or hoped for, or claimed. What a body did on a floor in front of five judges. He had heard young officials call that a cold rule. It had never seemed cold to him. It seemed to him the only rule under which a man like the big one down there could be paid in full for a thing like this, built over an hour, in silence, with his own arms.
 
-The five below him would rate it as it was. Umber did not doubt that for a moment. He had struck one of them from the lists a week ago for a quarter of a point of kindness, and the four who were left and the one who had replaced him knew it.
+The five below him would rate it as it was. Umber did not doubt that for a moment. He had struck a judge from the lists on the eve of the opening for a quarter of a point of kindness, and the five below him knew it.
 
 The bell went for the fourth exchange.
 
@@ -272,11 +272,11 @@ Except one.
 
 He went to the right shoulder.
 
-He went in full, at last, his first full commitment of the whole bout, low across the seam from the stone with everything he had left behind it, at the cheapest gap on the floor, the one he was sure of, the one he had not needed to check.
+He went in full, at last, his first full commitment of the whole bout, low across the seam from the stone with everything he had left behind it, at the gap he was sure of.
 
 The gap shut on him like the lid of a strongbox.
 
-For three exchanges Brom had let that shoulder go cheap, so that at the very end somebody would pay full price for it. Now somebody had. Everything the morning had paid into Brom's forearms, every toll and every return and every blow he had chosen to take, came out of them at once, at the one angle he had kept cheap all morning precisely so that it would be taken. The redirect was complete. Marek met it with his whole weight committed and nothing held back, and it lifted him off the stone and laid him down on the oak on his back, flat, with a sound the whole floor heard.
+Everything the morning had paid into Brom's forearms came out of them at once, at the one angle he had kept cheap for exactly this. Marek met it with his whole weight committed and nothing held back, and it lifted him off the stone and laid him down on the oak on his back, flat, with a sound the whole floor heard.
 
 The flag went up. All five of the panel's flags went up, all at once.
 
@@ -284,7 +284,7 @@ The flag went up. All five of the panel's flags went up, all at once.
 
 Brom stood over the oak, breathing.
 
-His forearms hung at his sides, and Cael could see, even from the rail, that they were shaking a little. He had absorbed six clean scores and a great many other contacts that morning in order to sell one number. He rolled his right shoulder once, slowly, the shoulder Marek had touched first and touched last, and stood still.
+His forearms hung at his sides, and Cael could see, even from the rail, that they were shaking a little. He rolled his right shoulder once, slowly, the shoulder Marek had touched first and touched last, and stood still.
 
 Marek was on his feet before the flags had come down.
 
@@ -322,8 +322,6 @@ Brom looked up at him as though this had not occurred to him.
 
 "Am I," he said. And then, after a while, slowly: "So I am."
 
-*Brom sold Marek one false line today,* Cael wrote that night, after the ceremony and the letter and everything else. *One gap, priced a fraction light, held true for three exchanges so that the best reader at his tier would read it as a mistake. Everybody who understood it called it the finest piece of craft at Copper this cycle, and I think they were right.*
-
-*I sat at the rail and thought about my own record. Every figure on it is a price I set. Every exhibition I've fought this year, I've fought so that the paper would read a certain way. Brom forged one line, once, in the open, for one bout, and then shook the man's hand and told him exactly what he'd done. Mine is the whole file, every day, and I can't tell anybody.*
+*I sat at the rail today and thought about my own record,* Cael wrote that night, after the ceremony and the letter and everything else. *Every figure on it is a price I set. Every exhibition I've fought this year, I've fought so that the paper would read a certain way. Brom forged one line, once, in the open, for one bout, and then shook the man's hand and told him exactly what he'd done. Mine is the whole file, every day, and I can't tell anybody.*
 
 *Marek said he'd never had a page forged on him before, and sounded pleased. I don't think anybody who reads my file is ever going to get to say that.*
