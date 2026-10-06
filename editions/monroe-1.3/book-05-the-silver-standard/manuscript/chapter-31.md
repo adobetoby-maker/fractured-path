@@ -102,7 +102,7 @@ He got up, stiffly, and walked the length of the long room to the gallery screen
 
 It was dark down there. A single lamp burned on the lowest tier for the night porter, and in its light he could just make out the dais on the south side, the five tall chairs in their row.
 
-Tomorrow at midmorning the tiers would be full to the top rows, every one of the eight thousand places taken. The fourteen houses would walk out onto that floor behind their colours.
+Tomorrow at midmorning the tiers would be full to the top rows, with not a place left on any bench. The fourteen houses would walk out onto that floor behind their colours.
 
 The crowd would roar for the banner, as it always did, because a banner was a thing people could love.
 
@@ -136,7 +136,7 @@ It ran under the north tiers, wide and dim and lit with lamps, and all fourteen 
 
 Somewhere beyond its mouth a band was playing. It played a slow, plain, stepping tune that nobody in the tunnel could name and everybody in it knew, and through the stone over their heads came another sound under the music.
 
-Eight thousand people were humming it under their breath, a crowd humming a thing it had heard at every opening it had ever been to.
+The whole bowl was humming it under its breath, a crowd humming a thing it had heard at every opening it had ever been to.
 
 The houses went out in the order they had qualified. The earliest went first, small houses from far regions blinking at the light, and the great names waited at the back for their turn.
 
@@ -182,7 +182,7 @@ Auremont came out of the tunnel last. Forty of them, in their blue and silver, a
 
 Behind the last of them, alone, came the banner.
 
-It was carried by the tournament's own colour-guard, four men in grey on either side of a tall staff, at a slow march. No house walked behind it.
+It was carried by the tournament's own colour-guard, four men in grey on either side of a tall staff, at a slow march. They had brought it down from the champion's gate at dawn, and it would go back up over the gate when the opening was done. No house walked behind it.
 
 The Concourse got to its feet for it, all of it at once, with a sound like a long wave breaking along a beach, and Cael felt the difference in his chest as plainly as a change of floor.
 
@@ -196,7 +196,7 @@ He had been saving his eyes for a week.
 
 He had turned his back on her in the street on purpose so that this would be the first look, and he had known since the orientation what the geometry of the morning would give him.
 
-Auremont's block drew up on the far side of the floor. Halcenvane's stood on the near side. Between them lay a hundred yards of polished stone, and no part of the ceremony would bring them any closer.
+Auremont's block drew up at the far end of the line, where the north side curved toward the east tower. Halcenvane's stood at the other end. Between them lay a hundred yards of polished stone, and no part of the ceremony would bring them any closer.
 
 So he read her at a hundred yards. He gave it everything he had, the read and the compound gaze together, the way he would have read the last exchange of the hardest bout of his life.
 
@@ -232,7 +232,13 @@ Her head turned.
 
 It did not go to the banner, or the dais, or the tiers.
 
-It went straight across the hundred yards to the north side, to the eleventh block, and moved along Halcenvane from one end to the other and back again, unhurried. It stopped nowhere. Then it went away.
+It went straight down the hundred yards of the line to the eleventh block, and moved along Halcenvane from one end to the other and back again, unhurried. It stopped nowhere. Then it went away.
+
+Beside Cael, Lira let out a breath she seemed to have been holding since the tunnel.
+
+"She just counted us," she said, very low. "Didn't she."
+
+Nobody in the block answered her. Brom shifted his weight, once, from one foot to the other, and was still.
 
 He put it in the observation notebook that evening, and then into the Log, the same words in both. It wanted a page of its own.
 
@@ -256,7 +262,7 @@ Then he took a glass out of his coat, and bent, and went over the seals.
 
 He did it one seal at a time, close, the glass to his eye. He ran his fingers along the cord from the knot to the straps and back.
 
-Nobody in the tiers could have seen the wax from where they sat. Cael, on the near side of the floor, could not see it himself.
+Nobody in the tiers could have seen the wax from where they sat. Cael, at the edge of the floor, could not see it himself.
 
 Every person in the Concourse watched him do it anyway, in a silence so complete that Cael could hear the lamps along the lowest tier.
 

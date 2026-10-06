@@ -90,7 +90,7 @@ The hall made a sound. Most of the people in it had come to see somebody else.
 
 The fifth exchange was the first fifth exchange of Brom's life. He fought it like a man who had fought a hundred.
 
-Both of them were tired now. The hill fighter's circle had shrunk to a few strides, and Brom's breath was loud in the quiet between touches. They walked their two circles round each other on the grey boards like a pair of millstones, slower and slower. Once the hill fighter went for the left door, fast, with everything he had left. Brom turned left to meet him on purpose, and let him find out exactly how strong it was. That was a point. Then the hill fighter took one back with a fine low sweep that Brom did not see until it had touched him. Then Brom took another, plainly, through the middle, a breath before the bell.
+Both of them were tired now. The hill fighter's circle had shrunk to a few strides, and Brom's breath was loud in the quiet between touches. They walked their two circles round each other on the grey boards like a pair of millstones, slower and slower. Once the hill fighter went for the left door, fast, with everything he had left. Brom turned left to meet him on purpose, and let him find out exactly how strong it was. That was a point. Then the hill fighter took one back with a fine low sweep that Brom did not see until it had touched him.
 
 The last of it came with the bell nearly up. The hill fighter tried the left door one final time, low, under the guard, with a twist of the hips that Cael had not seen him use all bout and that he must have been saving for exactly this. It was a good twist. It found the door half a hand open. And it found Brom already turning into it, so that the half hand closed on the hill fighter's wrist instead of on nothing, and Brom's other fist came through over the top, slow and plain and impossible to stop.
 
@@ -284,9 +284,11 @@ The boy showed him. Under the day's Copper results, in small type, somebody had 
 
 "Only when I want it to." He walked on, and Cael saw that he was pleased, in the slow, careful, half-hidden way Brom was ever pleased about anything said of himself. "My grandmother will cut that out and pin it over the stove, if it ever gets as far as Velmere."
 
-The betting rows ran the length of the court's west side, a long line of chalk boards under awnings, every bracket priced to the half point and men shouting the prices. Cael's name was there after all. It was not on any board with a price beside it. It was in a small frame on its own at the end of the longest row, in neat white paint: *NO BOOK ON THE DEMONSTRATION BOUTS.* The wool town's rule had walked all the way to Norhold.
+The betting rows ran the length of the court's west side, a long line of chalk boards under awnings, every bracket priced to the half point and men shouting the prices. Cael's name was there after all. It was not on any board with a price beside it. It was in a small frame on its own at the end of the longest row, in neat white paint: *NO BOOK ON THE DEMONSTRATION BOUTS.* The quarry town's rule had walked all the way to Norhold.
 
-There were printers selling the day's results damp off the press, and cookshops. A likeness-seller at the end of the row had sold out of the group sheet and chalked *THE FIVE: GONE* on his board, and was taking orders for the next printing. Outside a tavern two men were arguing at the top of their voices about whether the boy with no tier was a fraud got up by a clever house, and a third was trying to sell them both a copy of his face. There were and colour-sellers with the fourteen houses' ribbons on long poles. Two small girls had set up an upturned crate and were running a fierce trade in delegation buttons, two Rhagen black for one Auremont blue and no arguing. And all through it, in every queue and tavern door and printed sheet, the city was telling itself the story of this cycle out of whatever it had to hand. There was the champion house and its Gold. There was the house from the bluff, back after eighteen years. There was the wall. And there was the boy with no tier, who had pulled two Silvers out of a fossil in an evening.
+There were printers selling the day's results damp off the press, and cookshops. A likeness-seller at the end of the row had sold out of the group sheet and chalked *THE FIVE: GONE* on his board, and was taking orders for the next printing. Outside a tavern two men were arguing at the top of their voices about whether the boy with no tier was a fraud got up by a clever house, and a third was trying to sell them both a copy of his face. There were colour-sellers with the fourteen houses' ribbons on long poles. Two small girls had set up an upturned crate and were running a fierce trade in delegation buttons, two Rhagen black for one Auremont blue and no arguing.
+
+And all through it, in every queue and tavern door and printed sheet, the city was telling itself the story of this cycle out of whatever it had to hand. There was the favourites' house and its Gold. There was the house from the bluff, back after eighteen years. There was the wall. And there was the boy with no tier, who had pulled two Silvers out of a fossil in an evening.
 
 Brom leaned his arms on the court's rail and watched Cael watching. "You've been taking in every face in this court."
 
@@ -306,29 +308,17 @@ Brom nodded once, and let it stand, and they walked on.
 
 ---
 
-On the fourth evening Assessor Havel sat in the second seat of the Compact's row, high over the main floor's east rail, and read the seating order again.
+On the fourth evening Assessor Havel sat in the second seat of the Compact's row, high over the main floor's east rail, and signed the attendance sheet.
 
-He had read it on the coach coming north, as he read every paper he was given, completely, and he had read its twelfth line twice. *Seat twelve: held. No plate. Stewards to keep the seat clear for the length of the sitting.* In the column for grade there was one word.
+It came down the row at the last bell of every sitting, from Ilsev's hand to his, and from his along to the end. It was his office's sheet. He had ruled it himself on the coach coming north, a page for each day of the sitting, twelve lines to a page, and he knew every line of it.
 
-He knew the grade. Not many men in the Compact held it.
+Except one. On the morning of the opening a steward had brought him the whole sheaf back from the west tower, and line twelve on every page had been filled in before he saw it. It was the same word in a hand he did not know, on every day of the three weeks, down to the last: *held*.
 
-His right hand had begun to ache at the web of the thumb, as it did by every evening now, and he opened and closed it once on his knee, slowly, before he trusted it with the folder again.
+A held seat was a held seat. He had read the grade on the seating order, and it told him whose rank was meant and nothing whatever about whose coming. What a records officer noticed was smaller. The word had been written on every page at one sitting, with one pen, by somebody who had not waited to see which day it would be wanted. The ink was the same from the first page to the last.
 
-He did not let himself go any further than that. He had spent his working life watching for patterns, and he knew the difference between a pattern and a guess wearing a pattern's coat. A held seat was a held seat. It meant somebody's coming was not yet settled. It did not say whose.
+He signed his own line and passed the sheet along. The notebook lay in his kit, between the second manual and the third. Ninety pages, four written on.
 
-Below him the last Iron bout of the day was being fought, and beside him Ilsev's pen moved steadily across her lap-desk. He took the folder out of his kit and read the twelfth line once more. The notebook lay in the kit as well, flat between the second manual and the third, where he had put it on the night he packed. He could feel its edge against the back of his hand.
-
-Ninety pages. Four written on. Eighty-six blank.
-
-He did not take it out.
-
-He thought, instead, of the four entries already in it, as he sometimes did at the end of a long sitting, in order, without opening the cover. Three of them were short and dry and a long while old. The fourth he had written on the bluff, in a working room during a recess, and under it, the one time in all those pages, he had added three lines of what he made of it. He had not liked himself for those three lines. He had not crossed them out either.
-
-Nothing had happened. A chair stood empty at the end of a row because somebody had told the stewards to keep it so, and chairs stood empty for that reason at every sitting he had ever attended. The notebook's rule was that it held what had happened and nothing of what he made of it, and nothing had happened yet.
-
-He put the folder back in the kit, beside the notebook, and squared it, and turned his attention to the floor.
-
-But some while later, when the bout was over and the figures had gone up and Ilsev had begun her note, he found that he had turned his head without meaning to and was looking along the row at the empty chair. He made himself look away again.
+He did not take it out. Nothing had happened yet.
 
 ---
 
@@ -342,21 +332,21 @@ A steward was at his shoulder before the pie had reached his mouth. She did not 
 
 It was the third time Cael had seen it done.
 
-He looked along the row. He had known it for four days by face and by seat. Ilsev had the first seat, the senior evaluation seat, with her files squared on her lap-desk at an angle that had not shifted by a hair since the opening. He remembered that exact, unhurried care from a hearing room and from the bluff, and in every act of hers that he knew of she had been perfectly correct. Havel had the second. He was the quiet records officer from the bluff, older than Cael remembered him. Cael had hardly exchanged a word with him, and yet he had turned up at the edge of Cael's life at Ardenmere and at Greyvane and on the bluff, watching and writing. Round them sat the row's ordinary people: a district officer, two clerks, a liaison man, two officials of the host city who came and went.
+He looked along the row. He had known it for four days by face and by seat. Ilsev had the first seat, the senior evaluation seat, with her files squared on her lap-desk at an angle that had not shifted by a hair since the opening. He remembered that exact, unhurried care from a hearing room and from the bluff, and in every act of hers that he knew of she had been perfectly correct. Havel had the second. He was the quiet records officer from the bluff, older than Cael remembered him. Cael had hardly exchanged a word with him, and yet he had turned up at the edge of Cael's life at Ardenmere and at Greyvane and on the bluff, watching and writing. The other four observation seats had changed on the rotation every day, badged men and women he did not know. Past them sat two district officers, a liaison man, and two officials of the host city who came and went.
 
 Every one of their chairs had a brass plate on its back with a name cut into it. He had read the plates from the floor with a borrowed glass on the first day.
 
 Twelve had none.
 
-He had the borrowed glass again now, and he put it to his eye. The chair was the same as the others, dark wood with a cane seat, and the registry's grey rail-cloth ran on in front of it without a break. There was a clean pale square on its back where a plate would have been screwed, and the screw holes were there, empty, from some earlier sitting. Somebody had sat in it once. Somebody would again. Just now the stewards had been told to keep it for a person whose name they had not been given.
+He had the borrowed glass again now, and he put it to his eye. The chair was the same as the others, dark wood with a cane seat, and the registry's grey rail-cloth ran on in front of it without a break. There was a clean pale square on its back where a plate would have been screwed, and the screw holes were there, empty, from some earlier sitting. Somebody had sat in it once, at some other sitting, under some other plate.
 
-He took the row plate by plate in his head, as he would have taken a delegation's roster, looking for the person the empty chair was waiting for. Everybody whose work was in that row already had a plate. Everybody whose work was somewhere else in the Concourse sat somewhere else. Whoever the chair was for, then, was either more senior than every name on every plate, or nobody at all. And nobody at all did not get a steward standing at the head of the stair to keep his seat.
+He looked at it for a long time. A plate, a steward and a brushed seat were all a chair could tell anybody from a public gallery, and this one had told him two of the three.
 
 He could not find the name. He wrote that down plainly, because the oldest rule of the notebook was that a failure went into it as clearly as a finding.
 
 *Compact row, seat twelve. Held, unplated, empty, and guarded. Three times now a steward has cleared it, the last time of a man with a pie.*
 
-*A brass plate is a name screwed onto a chair before the person arrives. You only do it when you're sure of them. Twelve has a steward and a brushed seat and an instruction, and no name. So somebody is sure there will be somebody, and isn't saying who. Or hasn't been told.*
+*Every other chair in that row has a brass plate on its back. Twelve has a pale square where a plate used to be, two empty screw holes, a brushed seat, and a steward at the head of the stair. No name.*
 
 *I keep a book of the people who watch me. Every one of them has a page with a name at the top. This one has a chair.*
 

@@ -110,7 +110,7 @@ Gault considered it with great care.
 
 "Better. I'd have lost the bout."
 
-They sat up late over the program that night, all five of them, at the long table with one lamp.
+They sat over the program through the middle of the day, all five of them, at the long table with the shutters open on the street.
 
 Karis had worked out every way a bout could end and written them on a single sheet: three-nothing, three-nothing, three-nothing, and done in three; two-one every exchange and a long tired walk to the fifth; a three-nothing lost in the first breath and four exchanges spent buying it back.
 
@@ -138,7 +138,7 @@ In the west tower's galleries a lamp had been lit, and the grey clerks were stil
 
 Cael waited.
 
-"I told the squad about him at the start of the year, at the map table. I'm going to tell you again, here, because you're the one of us most likely to end up across a table from him."
+"I'll tell you about him once, here, because you're the one of us most likely to end up across a table from him."
 
 He kept his eyes on the tower. "On the opening day this floor will be full of people on strings. Fourteen houses of them. The house pulls one string and the coach another, and the money and the index and the folks at home pull the rest. I answer to Withrow. Withrow answers to a board and a charter and eighteen years. You answer to the four of them, and to whatever it is you write in that book."
 

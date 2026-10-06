@@ -837,3 +837,193 @@ Bracket formats as now on the page:
 
 
 **Movement 4 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied (ch23 the doubled 'walked his circle' line varied; ch22 'in three bouts' — Cael saw none of the builder's day-one bouts). Any author end-state line above saying Gault lost 'the bout for third' is SUPERSEDED: Gault was fourth on the figures (#40). Overlap 0/7, gates 0, probe 0%/5%.
+
+## AFTER MOVEMENT 5 — chapters 27–32 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CONTINENTAL FORMAT (#39, canon as stated once on the page): bracket bouts score points per exchange across up to five exchanges; an exchange closes at the bell or when either fighter reaches THREE points; a bout stops early when the trailing fighter can no longer draw level; level after five → the figures decide. (The Lira–Zerin 0–3, 2–1, 1–2, 1–3 = 4–9 ends after four; a four-exchange finish needs a margin over three.) Calls are two numbers ('Two to one. Two to three on the bout'). Norhold has no individual third-place bouts (#40).
+- Norhold: eight thousand seats; fourteen delegations; the one banner hangs at the champion's gate and the colour-guard brings it down at dawn for the procession (its holder unnamed; Auremont is NOT the banner-holder — 'the favourites' house'); Auremont's file reversed so Daeva leads; all houses drawn up along the north side, Auremont's block a hundred yards from Halcenvane's; Daeva held at a HUNDRED YARDS, no window; her head-turn ('She just counted us. Didn't she.'). The draw at dusk on orientation day; the trial rules on T4 ('A note for after Norhold'). The opening on 'the first day of the new month' (unnamed).
+- SEAT TWELVE: held unplated at Vastin's grade; Vastin notes it (aching hand) and infers nothing about makers or Seln; Havel (≈250 words) knows the grade from his own attendance sheet, which came back from the west tower with line twelve filled in as *held* on every page in an unknown hand — he names no one; Cael sees only a pale square, two empty screw holes, a brushed seat and a steward. The Compact row matches Vastin's plan. 'Blank pages are the ones that get written last.' closes the movement.
+- Opening rounds: Lira vs the Ash screener; Brom's round-two five-exchange bout 9–7 (fifth exchange 2–1), figures 24/23; Karis three exchanges; Ephram vs the coastal entry. The Daeva first-read log is the author's own wording (not protected). Umber has set the seals about forty years; 'the Halcenvane wall' (a broadside nickname); Karis does not say Ivenne's name aloud.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane weekdays (day N falls on weekday (N mod 7)+1; d190 a Second-day). No season names, no month names, no month order. T = day from the opening (T1 = d214).
+
+| Day | Weekday | Event |
+|---|---|---|
+| d190 | Second-day | Road day 1 (M4): departure, Ostrand on the bridge |
+| d192 | Fourth-day | Day 3: the coast column passes; the coach's look and nod. Evening: the snowdrops give out |
+| d193 | Fifth-day | Day 4: "Everything's going downhill" |
+| d194 | Sixth-day | Day 5: Gault at the kitchen door |
+| d195 | Seventh-day | Day 6: the walled yard; the corner game; "Early."; Brom on programs |
+| d198 | Third-day | Day 9: the crossroads flag; Hesk's clock set an hour fast; Seln logs the road |
+| d201 | Sixth-day | Day 12: Withrow and Bracken catch up at a river-bend waystation (a five-arch bridge); her sentence |
+| d203 | First-day | Day 14: the road sorts itself; the ford; "The city starts here." |
+| d206 | Fourth-day | Day 17: the last rise; night at an inn under the outer wall. (Off the city, the same evening: **Vastin** reads the files, "a week before the opening") |
+| d207 | Fifth-day | Day 18: the north gate at midmorning; the board; the banner; the guesting-house; Seln's credentials; the watchers' count; *All of them.* |
+| d208 | Sixth-day | The boy with the likeness; the streets; Gault at supper; evening, the six sheets; Seln's joke |
+| d209 | Seventh-day | Ephram's "pre-sold" at the gallery rail |
+| d210 | First-day | Auremont arrives in the evening; Cael turns his back |
+| d211 | Second-day | The orientation (the fifth morning); the program and the format; Rooke on Umber; the ring sockets; the steward; **the draw at dusk** |
+| d213 | Fourth-day | The eve: **Umber** and the seals |
+| d214 | Fifth-day | **T1, the first day of the new month:** the procession; Daeva at a hundred yards; Umber locks the Standard |
+| d215 | Sixth-day | **T2:** Lira R1, Karis R1, Brom R1 and R2, Ephram R1 |
+| d216 | Seventh-day | **T3:** the two Silver filings (evening); Karis's economics; Withrow; Rooke's council; Seln |
+| d217 | First-day | **T4:** the trial rules at first light (*Again.*); the city walk with Brom; **Havel**; seat twelve; the Log |
+
+Coming, as scheduled on the page: Lira's quarterfinal (≈T5); the Rhagen Shield captain "four days" from T3 (≈T7), and the lake-house duelist "seven" (≈T10); the ring "at the start of the second week"; the Copper quarterfinals in the second week and the final before the rest day.
+
+**The continental format, as written (ch30, the printed program, read aloud by Karis; stated once):**
+> *Bracket bouts at the continental finals are scored by the exchange. A bout is fought over five exchanges. In each exchange every clean touch the flags give is one point, and the exchange ends at the bell or as soon as either fighter has three points in it. The points of all the exchanges are added together. A bout ends before the fifth exchange if the fighter who is behind could not draw level even by taking every point that remains. If the points are level after five exchanges, the figures decide.*
+
+Exhibitions (Rooke, same scene): "Five exchanges at most, two touches ends it, a clean throw a touch. Nothing about it changes." No bout for third (Gault, same scene).
+
+**Every bout and rating figure in the movement** (#38: five judges; per-axis strike; marks to fifteen; ten = par; ratings to forty-five; par thirty. Bands: Copper 12–17; Iron 18–21; strong Iron to Silver-touched 22–27; Silver 28–34; Gold 35+).
+
+| Bout | Exchanges (fighter's points first) | Result | Figure(s) |
+|---|---|---|---|
+| Lira vs the Ash screener (southern house, middle seed), Iron R1, second floor | 0–2 · 2–1 · 3–1 (closed) · 3–0 (closed) | **8–4 in four** (stopped: he could not draw level) | **Lira 26, the Ash fighter 24** |
+| Karis vs a Rune Path fighter (a river house), Iron R1 | 3–0 · 2–1 · 3–0 | **8–1 in three** | not stated |
+| Brom vs a southern Copper ("an old edition"), Copper R1 | 3–0 · 3–0 · 3–0 | **9–0 in three** | not stated |
+| **Brom vs the hill-country Stone (the buried kind), Copper R2** | 1–2 · 2–1 · 1–3 (closed) · 3–0 (closed) · 2–1 | **9–7 in five**, Brom's first fifth exchange | **Brom 24, the hill fighter 23** |
+| Ephram vs the coast house's second entry (Blade), Iron R1, third floor | 2–1 · 1–1 · 0–2 (two points spent to learn the reset) · 3–0 (closed) · 3–1 | **9–5 in five** | not stated |
+| The waystation corner game (practice, unrated) | — | Lira wins the third game and three of the four after it | — |
+
+Standings after T4: Lira, Karis and Ephram in the Iron round of sixteen (separate pools for Lira and Karis, meeting only in a final; Ephram's quarter holds neither of them before the semifinals); Brom in the Copper's last sixteen; Cael's exhibition frame has two Silver filings (the Rhagen Shield captain, Silver 6, *Doctrinal interest.*; the lake-house Blade duelist, Silver 4, *The crowd.*), both given the senior exhibition panel; Rhagen's filing countersigned by its delegation head.
+
+**Draw lines on the page:** *ZERIN — AUREMONT — WIND — IRON 9* (Lira's semifinal line). *MAREK — RHAGEN — GLASS — COPPER 1. FIRST SEED.* *KARIS — HALCENVANE — EMBER — IRON 3*, with Ternhall's *IVENNE* on her quarterfinal row. Ephram's R16 is likely the lake house's methodical Shield ("her").
+
+**Burst ledger (Cael; the free budget is per day on a floor).**
+
+| Day | Floor (free price) | Use | Bursts | Note |
+|---|---|---|---|---|
+| d195 | waystation clay (five, his estimate) | the floor test; corner game 1 (one); game 3 (two) | **4 of 5** | the fourth landed hard; the hip's ordinary bill; the last four games run on his feet |
+| all other days | — | not fighting | 0 | |
+
+**Bodies.**
+- **Cael:** fit. The leading hip's ordinary bill after the yard, gone by morning. The right shoulder was not asked for anything all movement. The Shadow rent ran from waking, spent or not, and deployment is none. No drift is narrated. The right forearm from the barge-master (M4) is not mentioned and is presumed healed.
+- **Lira:** fit. Bursts spent in the yard and in R1 at Rooke's rate; no injury.
+- **Brom:** fit; tired after five exchanges; no injury.
+- **Karis, Ephram:** fit.
+
+**Fragments and progression.** Six confirmed plus the anomaly (not touched). No new capability, and no change to the public record (#40: three shown on public floors; Pressure flat; Compression on no scored floor since the Reydan bout; Shadow never; the record of five unchanged). New learning, not a fragment: **the read sees weight, not price.** A corner that is priced (exits taxed before they are needed) is invisible to the surface read, and Cael logs it. Cael still believes "Shield is solved". Rooke's "You'll find out whether Rhagen keeps a clock as plain as the salt road's" leaves that belief open for M7.
+
+**Knowledge.**
+- **Cael** knows the continental format; the Concourse's floors, sockets and ring size ("fifty-odd feet, a little longer one way than the other"); the draw (Zerin, Marek, Ivenne); Daeva's first read (no aim; inventory of Halcenvane's block); and Umber's want ("He wants the number to be right"). He has two Silver filings, with Rooke's council on each. He knows the trial rule and Karis's *Again.* He knows seat twelve is held, unplated and guarded; he cannot assign it and knows nothing of who it is for. Rooke has told him "don't try to sell him anything" about Umber, and has asked nothing.
+- **Karis:** the trial rule beside the fielding clause, banked ("Until then it sleeps"); a note "for after Norhold"; Ivenne on her quarterfinal row; she has not said the name aloud. She logs the watchers as *All of them.* She has filed the coast stride for Ephram.
+- **Lira:** "Early"; Zerin's line; that sound can stand in for sight on an honest floor.
+- **Brom:** Marek first seed; that a door can be kept "moving"; "the wall".
+- **Ephram:** that two points can buy a man's reset; the coast coach's nod; that he likes calling better than winning, some days.
+- **Rooke:** has read the trial rule (his thumbprint on the board glass, by Karis's account) and, she predicts, will put Cael fifth on the sheet without comment.
+- **Withrow:** "at least one of them is honest" (the duelist's filing kept under correspondence by Bracken).
+- **Seln:** has logged the road and the draw. He knows the filings and the panel. No reason is stated, and he knows nothing of the mechanism.
+- **Vastin:** seat twelve held at his own grade, unrequested by his office (one day-book line); he declined to think further. Nothing of fragments or Seln.
+- **Havel:** the seating order and the held instruction; he knows the grade and writes nothing. Four entries, eighty-six blank pages.
+- **Umber:** the seals whole; one judge struck for a quarter-point Blade drift on effect.
+
+**Resources.** The grey-card program (one per coach and fighter) with Karis's margin sums. The six likeness sheets (Brom's group sheet in his kit with the Velmere letters; the "wall" broadside in his coat). Karis's notebook page (the trial rule, the clause, *Again.*). The marbled log (*All of them.*). The duelist's filing in Bracken's pouch. Seln's travel file (the road, the flag, the draw lines). Hesk's clock (an hour fast since the crossroads).
+
+**Relationships (on the page).**
+- **Lira:** the corner game as their oldest partnership ("I hate it" becomes "Early"); Cael gives her the interval advice in R1 ("Price his roads").
+- **Brom:** a bout won by walking; "Rooke said walk"; the theater question.
+- **Karis:** shows Cael the page unasked at the board; does not say Ivenne's name.
+- **Ephram:** "I'd rather be trial caller of a house that walks in with you"; the trade with Karis's reading.
+- **Withrow:** the sentence; her hand on the wagon; she stands between Karis and the crowd.
+- **Rooke:** "Early." "Walk." "Don't try to sell him anything."
+- **Seln:** the joke; the brief movement at the corner of his mouth after Brom's "Mm."
+- **Gault:** wonder and dread at the rise; "fourth on the figures".
+
+**Open threads.**
+- **Opened:**
+  - Seat twelve, held at the Archmarshal's grade (Vastin's note; Havel's reading; Cael's blank page).
+  - The two Silver filings, with dates.
+  - Ivenne on Karis's quarterfinal row.
+  - The trial rule, banked.
+  - Brom as "the wall".
+  - The coast coach's attention.
+- **Advanced:**
+  - Zerin (the semifinal line).
+  - Marek (first seed).
+  - Karis's strata note ("after Norhold", second plant).
+  - Daeva (first read only).
+  - Umber (the man planted).
+  - The watchers (dissolved into the city).
+  - Cael's "Shield is solved" (set up against Rhagen).
+- **Closed:** the road; arrival; the draw; the opening rounds' first day.
+
+**Prose vs plan differences.**
+- (a) The **draw is made at the orientation's day's dusk**, by lamplight in the outer court, which reconciles ch26's "at the orientation, by lamplight". The orientation is a per-house walk of the floors with the rules handed out at its end. The **trial rules post later** (T4, first light), keeping M4's "they don't send them before the orientation".
+- (b) **The banner** is carried in last, alone, by the tournament's colour-guard, with no house behind it. Its holder is unnamed (M3 ruling).
+- (c) **Auremont's procession file is reversed**, so Daeva leads and the banner follows the file at a distance. She is never beside the banner.
+- (d) **Withrow's sentence** is said at supper on day 12, not as "the only sentence of the journey written down twice". The Log carries her thesis.
+- (e) **Havel's cutaway comes before Cael's Compact-row scene**, and the movement closes on Cael's Log line.
+- (f) Ephram's R1 bout is fought against **the coast house whose coach nodded on the road**, and his reading of the reset uses **Karis's province map** (the coast stride).
+- (g) **Lira's tax-early lesson** is used once in R1, by ear ("the corner game by sound"), and is not yet spent against Zerin.
+
+## New canon minted (flag where marked)
+
+- **The continental format (flag; text above).**
+- **The coast house:**
+  - Riders' stirrups a hole long.
+  - The coach is a lean woman of about fifty, who studies Cael on day 3 and nods to Ephram after R1.
+  - The second entry is a tall fair Blade with a long rolling reset stride (Karis's map: everything on that coast is long in the stride).
+- **The waystation corner game (flag, technique):**
+  - A forty-foot square; the corners a stride in from two lines; a touch in a corner wins; reaching the middle wins.
+  - Clay prices at about five bursts a day.
+  - Lira prices the exits instead of building the corner: "Early." The surface read sees weight, not price.
+- **The crossroads flag:** a plain silver bar on grey, put up by the marshals a week out at every crossroads, the same flag every cycle, and "their road while it's on".
+- **Gault:** "I was very young, and frightened, and I had straw in my boots"; "Or I've shrunk"; "I sat in the dressing room and a clerk came and told me"; the nightshirt line.
+- **Bracken:** "I slept like a quarry stone" (BOOK_MAP §3F humour, used here). He writes in his pocket-book at the board, and files the duelist's filing under correspondence.
+- **Norhold (flag, texture):**
+  - Four roads; a river for sea barges; three walls of three ages; a harbour with timber lock gates.
+  - The Concourse is joined halls. Of the two towers, the east is the timekeepers' and the west the adjudication office's.
+  - The main floor is an oval of grey stone in four banks of tiers (eight thousand), with black boards ruled in white and a dais of five chairs and a clerk's desk.
+  - The second floor is under high glass, pale, hard and ringing. There are four lesser floors, warm-up halls and a surgeon's corridor.
+  - **The exhibition sockets:** about two dozen square holes plugged with dark wood. The ring goes up "in the second week if there's been filing"; the stone inside is patched cycle on cycle.
+  - The north gate passage; marshals in grey with a silver bar at the collar; the arrival board of fourteen panels with chalk ticks.
+  - The processional way hung with the fourteen colours and silver on grey.
+  - **The champion's gate:** an arch between two square towers, the banner hanging from the last cycle's end to this one's.
+- **Colours:** Auremont deep blue and silver; Rhagen black and a cold glass grey; Ternhall russet; a green house (the onion wagons); a southern house in yellow.
+- **The guesting-house:** in the delegation quarter on the river side, on the third floor. It is shared with a hill house below and a southern house above. Its keeper counts guests aloud on the stair.
+- **Seln at the registration hall:** credentials, schedules and allotments within the hour ("One only had to find the right clerk"). The hill house's clerk, aggrieved.
+- **The likenesses (flag):** *THE UNNAMED OF HALCENVANE* (two editions, sunbeams and black); *THE BOY THE REGISTRY COULD NOT SORT*; *LIRA OF THE BLUFF*; *DAEVA OF AUREMONT*; *THE FIVE FROM THE BLUFF*. Two coppers a sheet. Later chalked *THE FIVE: GONE*.
+- **Karis's marbled log at Norhold:** *All of them.*
+- **The orientation marshal** (short, broad, grey beard cut square) and the program in grey card.
+- **The draw:** a platform with a drum on an iron spindle and three west-tower clerks. Seeds are laid in by band and the rest drawn from the drum. Printed boards go up on the court's east wall by torchlight. By custom nobody reads the draw alone.
+- **The demonstration frame:** dark wood, old type, five short rule lines, the ring size, the rating provision, ruled blank lines.
+- **Umber (flag):**
+  - The west tower's fourth floor holds the long room and the oldest things.
+  - The case is dark wood with brass corners, two straps and a cord, under three red seals. The first seal is his own and carries a private thumbnail scratch, "a private habit forty years old".
+  - The strong room has two locked doors and a logging clerk.
+  - Calibration week tests judges in fives on old bouts. One judge was struck that morning for a quarter point generous on Blade effect two days running.
+  - His late master's words at his first opening: *You checked them last night. So your hands may shake. The seals did not.*
+  - The attestation is "older than any of the men who had said it before him whose names he knew".
+- **The procession:**
+  - A tunnel under the north tiers and a tune nobody can name.
+  - Qualifying order: Halcenvane eleventh, and Cael placed last by the marshals' list.
+  - Auremont's file reversed.
+  - The banner borne by four colour-guards, alone.
+- **The locking:** the new seal set on the first bound table's cover.
+- **The first-read Log (flag; see owner flag 1), verbatim:**
+  *Daeva, at a hundred yards. The read asks every body four things: where's the weight, where's it going, what happens just before, and who's it for. She answered the first two like any good fighter.* / *The third I couldn't find at that distance. The fourth has no answer. It isn't for anybody.* / *Either there's nothing there to read or she keeps it further in than a hundred yards can reach, and it comes out the same either way: whatever's printed on her sheet is the least of her.* / *When the houses stood, she looked at us. Along the block and back again. Not curious. She was counting what we'd brought.*
+- **Opening-round opponents (roles):**
+  - The Ash screener (southern house, middle seed, grey wraps).
+  - The Rune Path methodist (a river house).
+  - The southern Copper with an old edition of Brom's file.
+  - The hill-country Stone from the far north-west (the buried kind; circles; an hour's warm-up).
+  - The coast Blade.
+- **Brom as "the Halcenvane wall"** in a broadside signed with a printer's mark (flag 9).
+- **The betting rows' frame:** *NO BOOK ON THE DEMONSTRATION BOUTS.*
+- **Vastin (flag):**
+  - The seating plan's line: *Seat twelve: held. No plate. Stewards to keep the seat clear for the length of the sitting.* The grade column holds his own grade.
+  - His day-book line: *Norhold, Concourse row: seat twelve held at this grade. Not requested by this office.*
+  - He checks his register for three months back.
+  - He moves the box to the corner of his table.
+- **The Compact row:**
+  - Twelve seats with brass name-plates, except twelve, which shows a pale square and empty screw holes.
+  - Ilsev is in seat one and Havel in seat two. With them sit a district officer, two clerks, a liaison man and two host-city officials.
+  - Stewards have cleared seat twelve three times.
+- **Havel:** the seating order sits in the observation office's folder in his kit beside the notebook (four entries; the fourth on the bluff with the three-line rule-break). His right thumb-web aches in the evenings.
+

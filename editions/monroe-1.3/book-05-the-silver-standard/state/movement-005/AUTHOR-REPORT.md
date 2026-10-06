@@ -383,3 +383,51 @@ All per-chapter figures are final (measured after the last edit).
 11. **"A note for after Norhold."** is used (ruling 3).
 12. **The ring size** paced as "fifty-odd feet, a little longer one way than the other", consistent with M9's 52 × 48 without stating it.
 13. **Lira's tax-early lesson** has been used once, by ear, in R1. M6's Zerin bout still owns it.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, following `REPAIR-BRIEF.md` (coordinator, after the two Fable reviews). The pre-repair text is frozen in `pre-repair/`. Every change was chosen by reading. Each was written by hand and applied as an exact string with the Edit tool. The two longer passages (P2) were written whole by hand and spliced in. No sentence or paragraph was split or joined by rule.
+
+**Coordinator rulings recorded.**
+- The Daeva first-read Log stands in my words and is not protected.
+- The continental-format detail is canon. Note for M6: a four-exchange finish needs a margin over three.
+- The staging, the new canon, and Havel "knows the grade" are accepted.
+
+**Changelist by chapter.**
+- **ch27:** "thirteen more of her" became "twelve more of her" (fourteen houses, less Halcenvane and the coast house).
+- **ch28:** the guesting-house floors now agree with the clerk going *up* the stair. The hill house is above and the southern house below. Cael's room is now "the top of Halcenvane's floor" in both places (the banner Log and the watchers' window).
+- **ch30:**
+  - The program session was re-timed from "late… that night" to "through the middle of the day… with the shutters open", so it no longer runs before the afternoon and the dusk draw.
+  - Rooke's off-page "map table" briefing became "I'll tell you about him once, here".
+- **ch31:**
+  - Two uses of "eight thousand" were let go: the eve ("not a place left on any bench") and the tunnel ("The whole bowl was humming it").
+  - One banner: "They had brought it down from the champion's gate at dawn, and it would go back up over the gate when the opening was done."
+  - Block geometry: all the houses stand along the north side, and Auremont's block is at the far end of the line toward the east tower, a hundred yards from Halcenvane. That replaces the "far side / near side" wording, which put the two blocks on facing sides. Daeva's look now runs "down the hundred yards of the line". "On the near side of the floor" became "at the edge of the floor".
+  - The optional reaction line was taken: Lira's "She just counted us. Didn't she." and Brom shifting his weight once.
+- **ch32:**
+  - **P1:** Brom's fifth exchange lost "Then Brom took another, plainly, through the middle, a breath before the bell." It now reads as the door point, the hill fighter's sweep, and the final fist: 2–1. The totals (9–7) and figures (24, 23) are unchanged.
+  - **P2 Havel:** halved to 249 words. It is no longer a second pass over the seating plan; Vastin keeps the seat-twelve discovery, and his aching hand is the only one in this movement (Havel's thumb-ache line is cut). Havel's one records-officer detail is the attendance sheet he ruled himself. On the morning of the opening it came back from the west tower with line twelve already filled in, *held*, on every page of the three weeks, in a hand he does not know, with one pen and one ink. He infers nothing beyond the grade, signs his line, and does not take out the notebook.
+  - **P2 Cael:** the row's pass is now only what he can see. The plate-by-plate reasoning ("more senior than every name… or nobody at all") is cut, and so is the Log's "somebody is sure there will be somebody". The new Log line lists what is there: a pale square, two empty screw holes, a brushed seat, and a steward. "Blank pages are the ones that get written last." still closes the movement.
+  - **P3 row:** the Compact row now matches Vastin's plan. "The other four observation seats had changed on the rotation every day", then two district officers, a liaison man and two host-city officials. There are no clerks.
+  - "The wool town's rule" became "the quarry town's rule".
+  - "There were and colour-sellers" became "There were colour-sellers…", with a paragraph break before "And all through it".
+  - **Found while reading:** "There was the champion house and its Gold" became "the favourites' house". The old line named Auremont as the banner-holder, against the M3 ruling.
+- **"Eight thousand"** now appears 5 times in the movement (was 7).
+
+**Before → after.**
+
+| Measure | Before r1 | After r1 |
+|---|---|---|
+| Prose words (formula_metrics) | 32,368 | 32,128 |
+| Sentence mean | 13.95 | 13.95 |
+| ≥40-word share | 3.0% | 3.0% |
+| ≤5-word share | 25.7% | 25.7% |
+| Paragraph median | 28 | 28 |
+| Words per scene | 924.8 | 917.9 |
+| FRE / FK | 87.5 / 4.51 | 87.6 / 4.50 |
+| "said" per 10k | 58 | 59 (189) |
+| Overlap (unprotected / protected) | 5 / 5 at drafting | **0 / 10** (the coordinator's patterns now cover the five packet lines) |
+| sweep_probe skeleton / close | 1% / 5% | **1% / 5%** (1,417 sentences) |
+| Gates | 0 | **0** (reader_standard, metadata, modern on all six chapters) |
+
+The length (32,128) is inside the brief's 30,500–33,000. Explanatory "as if/as though" plus "the way a X does Y" is still 3 or fewer per chapter. No git commands were run. Only ch27–32 and this report were edited.

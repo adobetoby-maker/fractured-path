@@ -36,7 +36,7 @@ He thought of Hesk's letter from the slate country and its line about the ones w
 
 "I've been inspected," he said.
 
-"You've been weighed." Lira, beside him, had her collar up and her hands tucked into her armpits. "Get used to it. There'll be thirteen more of her."
+"You've been weighed." Lira, beside him, had her collar up and her hands tucked into her armpits. "Get used to it. There'll be twelve more of her."
 
 ---
 

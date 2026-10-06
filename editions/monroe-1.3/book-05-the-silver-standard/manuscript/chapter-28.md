@@ -238,7 +238,7 @@ Rooke answered before anybody had asked. "That's the champion's gate. It hangs t
 
 Cael looked at it for a long time as the wagons crawled up the processional way. Somewhere in that building was the other thing with the same name, the reference profile in its sealed case. He thought about the two of them, the cloth outside and the tables within, and how the city had hung the one where everybody could see it.
 
-He wrote it out that night, in a room at the top of a guesting-house, with the noise of the processional way still coming up through the shutters.
+He wrote it out that night, in a room at the top of Halcenvane's floor in a guesting-house, with the noise of the processional way still coming up through the shutters.
 
 *Two things in that building carry the same name. One is a set of tables in a sealed case that nobody may touch for the length of a cycle. The other is a strip of old cloth hung where the whole city can see it, over the gate the last winners walked out of.*
 
@@ -252,7 +252,7 @@ He wrote it out that night, in a room at the top of a guesting-house, with the n
 
 The delegation quarter lay on the river side of the Concourse, a district of tall narrow guesting-houses with balconies over the street, and Halcenvane had the third floor of one of them.
 
-It shared the house with two smaller academies, a hill house on the floor below and a southern house above. It also shared it with a keeper, who stood at the foot of the stair and counted every guest who went up it aloud, in a soft voice, like a shepherd counting sheep through a gate.
+It shared the house with two smaller academies, a hill house on the floor above and a southern house below. It also shared it with a keeper, who stood at the foot of the stair and counted every guest who went up it aloud, in a soft voice, like a shepherd counting sheep through a gate.
 
 He counted the reserves twice. When Brom went past him he stopped counting for a moment, looked up, and said, "Well," and then went on.
 
@@ -270,7 +270,7 @@ He was. At dusk the hill house's clerk came up the stair looking grey and beaten
 
 Then he went on up the stair without a word, and Cael heard Ephram, in the corner, laugh quietly into his sleeve.
 
-That evening Cael stood at the window of the room at the top of the house and counted the watchers.
+That evening Cael stood at the window of the room at the top of Halcenvane's floor and counted the watchers.
 
 He did not decide to. It was a habit, the oldest one he had, older than the read and older than the Log.
 
