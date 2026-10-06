@@ -4,7 +4,7 @@ The circular came up the bluff road on the morning courier, two days after the w
 
 He did it without ceremony and without comment, as he did everything on that board.
 
-He wiped the old figures off with the flat of his hand, wrote the new ones in their place, and stood back a pace to see that the columns were straight before he went in to the floor.
+He wiped the old figures off with his palm, wrote the new ones in their place, and stood back a pace to see that the columns were straight before he went in to the floor.
 
 Cael read it on his way past with Brom.
 
@@ -50,7 +50,7 @@ Karis was already at the table with the grey notebook open beside her bowl. She 
 
 She turned another page. "The bill's real. It just isn't addressed to you."
 
-Lira looked at her for a moment, and then across the table at Cael, who had a spoon halfway to his mouth. He watched her work it out.
+Lira looked at her, and then across the table at Cael, who had a spoon halfway to his mouth. He watched her work it out.
 
 "Oh," said Lira. "You're writing it yourself."
 
@@ -66,7 +66,7 @@ She ate a spoonful of porridge and thought about that, and her thinking showed i
 
 Brom laughed, and so did Cael. Ephram came in late with his new file book under his arm and wanted to know what was funny, and was told, and did not think it was funny at all, which made Brom laugh again.
 
-But on the way to the floor afterward Cael found that he had been glad of the laugh, and that his own share of it had come a fraction later than it should have.
+But on the way to the floor afterward Cael found that he had been glad of the laugh, and that his own share of it had come a beat later than it should have.
 
 All through the road home he had thought of the program as a defence, a fence he was building along a boundary. Lira had turned it round in one sentence and shown him the other side of it. The bill she had been waiting for since the stove had a shape now, and the shape was his own handwriting.
 
@@ -110,7 +110,7 @@ The Stone reserve looked at Cael, and at the sheet, and at Rooke. "He's going to
 
 It was harder than it sounded, and it sounded hard.
 
-The first time, Cael's feet left early regardless. The read gave him the reserve's weight a fraction before it moved, as it always did, and before he could stop them his feet had carried him a stride to the left and out of reach, so that the reserve closed on nothing but oak. Rooke said "Again," without any inflection at all.
+The first time, Cael's feet left early regardless. The read gave him the reserve's weight early, as it always did, and before he could stop them his feet had carried him a pace to the left and out of reach, so that the reserve closed on nothing but oak. Rooke said "Again," without any inflection at all.
 
 The second time he held his feet, and held them too long. The reserve came in low and wide and took him round the waist like a man lifting a sack of meal, and Cael went down onto the oak hard enough to hear it, with no plan whatever about what was meant to happen next.
 
@@ -132,7 +132,7 @@ Cael considered the question honestly. "Like lying."
 
 Rooke made a small noise that might have been the beginning of a laugh, in a man who began them. He unfolded the sheet and wrote on it standing up, with the stub of chalk he kept for the boards, and handed it back.
 
-Under the first item, in Rooke's square capitals, it said: *Early eyes, late feet. One in two. He holds like a gentleman. Find somebody who doesn't.*
+Under the first item, in Rooke's capitals, it said: *Early eyes, late feet. One in two. He holds like a gentleman. Find somebody who doesn't.*
 
 Brom found him that afternoon at the bags, reading the line for the third time.
 
@@ -162,13 +162,13 @@ He broke the hold with a step. It was a sharp turn of the hips away from the joi
 
 Cael took the hand and let himself be pulled up. He noted the sentence as he stood, because Brom did not say things twice and it was worth having the first time.
 
-They ran the hold eight more times, and Cael broke it six. He wrote the costing that evening at the window of their room, with the oak's afternoon still warm in his legs.
+They ran the hold eight more times, and Cael broke it six. The costing went into the Log that evening, with the oak's afternoon still warm in his legs.
 
 *Item one, costed. A slow first exchange against a holder. Early eyes, late feet. Price: the first touch, given cleanly; the ground of one exchange; two points off the figure at the panel, by design. Recovery: from behind, on foot. Brom's hold is real. The Stone's is polite. On our oak I break Brom's six times in eight with a step and the floor's spring, and the two I lose are the ones where I trust my feet to come back in time.*
 
 *Brom: "I'd not want to try that on stone." Noted. The quarry town's floor is stone.*
 
-He looked at that last line for a while, and then added another under it, smaller.
+Under that last line, smaller, he added another.
 
 *I've costed the touch, the ground and the figure. I haven't costed the floor.*
 
@@ -190,7 +190,7 @@ When Cael reached the counter, Seln took his folder, opened it, checked it and c
 
 "Mm," said Seln, and laid it on the stack.
 
-That was all, as it was every week, and as it had been for most of a year.
+So it went every week, and had gone for most of a year.
 
 Cael went out through the wing's side door into the cold with the queue shuffling forward behind him, and did not look back, because he never did.
 
@@ -200,7 +200,7 @@ In two days the delegation would leave for the third one. He had packed wool. An
 
 Bracken was in the records hall when Cael went to collect the meet records for the travel file. He stood behind the long counter in his black coat with his sleeves held back by bands, sanding a page, and he finished sanding it before he looked up.
 
-Bracken never in his life let a page wait for a person.
+Bracken did not let a page wait for a person.
 
 "The quarry town," he said. "Ten days by the hill roads, and the post up there is a matter of faith." He laid the page on its pile. "So I'll send a pouch after you. The records office keeps one for the hill coach, which goes up on the Second-day and the Sixth-day, and it will find you at the quarry town if the hill coach finds the quarry town, which it generally does."
 
@@ -218,7 +218,7 @@ He put the pouch back under the counter. "I don't suppose anybody on the circuit
 
 ---
 
-The grey notebook had a page near the back that Karis called the open lines. It was where she kept things that had not finished, questions without an answer yet and debts without a date, each under its own heading in her square hand with a line ruled beneath it. When a thing was finished she drew a single line through its heading, very straight, and left it there to be read through, because she did not believe in pretending a thing had never been open.
+The grey notebook had a page near the back that Karis called the open lines. It was where she kept things that had not finished, questions without an answer yet and debts without a date, each under its own heading in her neat hand with a line ruled beneath it. When a thing was finished she drew a single line through its heading, very straight, and left it there to be read through, because she did not believe in pretending a thing had never been open.
 
 Most of the headings on that page had lines through them. One that did not was nearly the oldest thing in the book.
 
@@ -258,7 +258,7 @@ He went up to bed with the line in his head. He had carried it most of a year wi
 
 Halfway up the stair he decided that he would not let it be heavy. It was an open line, not a weight.
 
-He had a meet to fight and a program to begin, and a floor of stone he had not yet costed, and Karis would hold the line as she held everything, in a book that did not forget. He would carry the meet.
+He had a meet to fight and a program to begin, and a floor of stone he had not yet costed, and Karis would hold the line in a book that did not forget. He would carry the meet.
 
 He made the decision on the stair, between one step and the next, and he noticed while he made it that a year ago he could not have done it at all.
 

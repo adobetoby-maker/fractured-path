@@ -8,9 +8,9 @@ Rooke took a single sheet from inside his coat, laid it on the trestle, and unca
 
 "Supervised floor time," he said. "Ephram and the enrollee. Tied to the enrollee's evaluation hours under the provision, two sessions in the week, me at the rail. Requested at the end of last term, by Ephram, in writing." He signed it. "Granted."
 
-Ephram, who was strapping a wrist by the window, did not look up. But his hands stopped for a moment on the strap, and then went on.
+Ephram, who was strapping a wrist by the window, did not look up. But his hands stopped on the strap, and then went on.
 
-"Next term," said Rooke, to nobody in particular, "has arrived." He put the pen away and turned to the calendar board, and that was all the ceremony there would ever be about it.
+"Next term," said Rooke, "has arrived." He put the pen away and turned to the calendar board, and that was all the ceremony there would ever be about it.
 
 He spoke for perhaps two minutes after that. Cael wrote it down later almost word for word, because Rooke did not waste words and therefore did not leave any spare to be lost.
 
@@ -36,9 +36,9 @@ Cael had never been hit at Rooke's cohort speed. Ephram had told him so on the o
 
 The frame was simple. Ephram came in with a lath practice blade, straight entries off a chalk mark at four paces, and Cael's work was to be somewhere else when the lath arrived, using his feet and nothing but his feet. There was to be no burst, no hand and no answer, only the evasion and then the recovery to his own mark, ready for the next.
 
-The first six passes were honest work. Ephram had grown quicker over the recess and quieter about it, which made the quickness worse, but quickness was a thing the read could take. The read told him weight and direction before either had finished deciding, a thin early warning along the inside of his attention, like the tug a rope gives your hands before the boat at the end of it swings. Ephram's weight went forward and left; Cael slipped right and back. Ephram's weight went down into the front knee for a low line; Cael stepped up and out. He recovered to the chalk each time with a small hop and came back square.
+The first six passes were honest work. Ephram had grown quicker over the recess and quieter about it, which made the quickness worse, but quickness was a thing the read could take. The read told him weight and direction before either had finished deciding, a thin early warning along the inside of his attention, like the tug a rope gives your hands before the boat at the end of it swings. Ephram's weight went forward and left; Cael slipped right and back. Ephram's weight went down into the front knee for a low line; Cael stepped up and out. He recovered to the chalk each time with a small hop and came back set.
 
-On the seventh pass Ephram came in the same way, and the lath touched Cael flat across the ribs while Cael was still halfway home.
+On the seventh pass Ephram came in the same way, and the lath touched Cael across the ribs while Cael was still halfway home.
 
 It was not a hard touch. It did not need to be.
 
@@ -54,13 +54,13 @@ He threw it again at full speed, and Cael watched for it, and it caught him in t
 
 He stood still again.
 
-"It's not that you're slow," said Ephram, flatly, in the voice of a man reporting the weather. "You're early. You're early on everything. It's the first thing anybody on this floor notices about you." He turned the lath over in his hand. "That's what the entry eats."
+"It's not that you're slow," said Ephram, in the voice of a man reporting the weather. "You're early. You're early on everything. It's the first thing anybody on this floor notices about you." He turned the lath over in his hand. "That's what the entry eats."
 
 "Show me."
 
 So Ephram showed him, slowly, the way Rooke must once have shown a boy of fourteen in some other upper room.
 
-He came off the mark at half speed, then at a quarter, then at a walk. At a walk Cael could see it, and once he saw it he could not believe he had missed it twice. Ephram's front foot went forward and took the weight, honest weight, the real thing, enough of it that any read in the world would have reported it as an attack. But the back foot stayed. It stayed flat and planted for the length of one heartbeat after the front had landed, holding a second share of the weight in reserve. Only when the man in front of him had answered the first share, had slipped and turned for home, did the back foot come off the floor and drive. The lath went in behind the evasion, into the space the evader had just vacated and was now coming back to fill.
+He came off the mark at half speed, then at a quarter, then at a walk. At a walk Cael could see it, and once he saw it he could not believe he had missed it twice. Ephram's front foot went forward and took the weight, honest weight, the real thing, enough of it that any read in the world would have reported it as an attack. But the back foot stayed. It stayed planted for the length of one heartbeat after the front had landed, holding a second share of the weight in reserve. Only when the man in front of him had answered the first share, had slipped and turned for home, did the back foot come off the floor and drive. The lath went in behind the evasion, into the space the evader had just vacated and was now coming back to fill.
 
 "Two weights," said Ephram, standing in the finished shape of it with the lath touching Cael's side again, very gently. "The front one is real. It has to be, or nobody bites. You read it, you answer it, you go home. The back one waits till you're on your way home."
 
@@ -72,7 +72,7 @@ Cael stood with that.
 
 The read had never lied to him. He had written it a dozen times, and it was true: weight and direction, early, never what a man meant by them. And here was a man who meant something by the order of his weights, and the read had told him the truth about the first and nothing about the second, because the second had not happened yet. It had reported honestly and he had answered honestly, and he had been hit, twice, by a thing that had been designed by somebody long dead in a house he had never seen to hit that kind of honesty.
 
-From the rail, Rooke watched and said nothing.
+From the rail, Rooke watched.
 
 "Again," said Cael. "Half speed. I want to watch the back heel."
 
@@ -122,11 +122,11 @@ At the water break the squad drifted to it, and Rooke lifted the stone off the s
 
 Cael read the Copper stack over Brom's shoulder before he read his own. Halfway down it was a sheet that Rooke had marked more heavily than the others. A fair-day fighter from a market house in the hills, Iron Skin like Brom, Copper Rank Four on her certificate and a record of exactly four bouts, every one of them won, every one of them short. Rooke's margin said: *Rank Four on paper. Fights like a Seven. Buried.* And under it, in smaller letters, as if Rooke had come back to it later: *Somebody's keeping her low on purpose.*
 
-Brom read that sheet twice, which he did with no other. Then he turned it face down on the pile and put his hand flat on it, and went on to the next one.
+Brom read that sheet twice, which he did with no other. Then he turned it face down on the pile and put his hand on it, and went on to the next one.
 
-Cael read the stack the way he read everything, fast and then a second time slowly, and the room around him went quiet, as rooms did when he did that. The read was no use on paper; paper had no weight. But he had a second thing that worked on paper, which was the habit of years spent reading men who wanted to be misread, and it found him more in Rooke's three-word margins than in the long lines of record beside them. A man who wrote *studies you* about an opponent was paying her the highest compliment Rooke owned.
+Cael read the stack fast and then a second time slowly, and the room around him went quiet, as rooms did when he did that. The read was no use on paper; paper had no weight. But he had a second thing that worked on paper, which was the habit of years spent reading men who wanted to be misread, and it found him more in Rooke's three-word margins than in the long lines of record beside them. A man who wrote *studies you* about an opponent was paying her the highest compliment Rooke owned.
 
-Brom read beside him. Brom read nothing alone if he could help it, and these were opponents, and opponents were documents, and documents were for the table with somebody beside you; so he stood at Cael's elbow and turned the Copper sheets over one by one, very slowly, his lips not moving, his big hand flat on each page as though to keep it from getting up. He read them all and said nothing about any of them. When he had finished he squared the stack.
+Brom read beside him. Brom read nothing alone if he could help it, and these were opponents, and opponents were documents, and documents were for the table with somebody beside you; so he stood at Cael's elbow and turned the Copper sheets over one by one, very slowly, his lips not moving, his big hand spread on each page as though to keep it from getting up. He read them all without a word.
 
 "Enough," he said.
 
@@ -154,7 +154,7 @@ Fenmark: the house that had Kindled her at fourteen and read her Copper and sent
 
 "Good." She put the sheet back. She did it carefully, square to the stack, and took her hand away from it quickly. "I'd like them to see the board."
 
-Nobody said anything. Across the room, by the window, Ephram was retying his wrist strap and had very obviously heard every word and was very obviously not going to say so; and Cael wrote that down later, too, on Ephram's page, because it was the second kind thing the man had done in one evening and both had been done in silence.
+Across the room, by the window, Ephram was retying his wrist strap and had very obviously heard every word and was very obviously not going to say so; and Cael wrote that down later, too, on Ephram's page, because it was the second kind thing the man had done in one evening and both had been done in silence.
 
 ---
 
@@ -192,7 +192,7 @@ She went again, and this time there was something in it: a front foot that took 
 
 "Again," said Cael.
 
-They did it eleven more times, by Karis's count, which she gave afterward without being asked. He beat the second weight seven times and ate the plain lunge three times when Lira, catching on with alarming speed, started throwing it at him as soon as he began staring at her feet; and once, when she threw neither but simply stood there with the broom raised until he lost patience and moved, he walked straight into the bristles, and said, "Oh, *come on*," to the broom in a voice of real grievance.
+They did it a dozen more times, by Karis's count, which she gave afterward without being asked. He beat the second weight seven times and ate the plain lunge four times when Lira, catching on with alarming speed, started throwing it at him as soon as he began staring at her feet; and once, when she threw neither but simply stood there with the broom raised until he lost patience and moved, he walked straight into the bristles, and said, "Oh, *come on*," to the broom in a voice of real grievance.
 
 Brom laughed so hard the good chair creaked.
 
@@ -232,7 +232,7 @@ Bracken sent his boy up before the first bell had finished ringing. The four of 
 
 *Item the third: the enrollment record submitted includes a practitioner holding no registry classification. An unclassified practitioner cannot be seeded to a tier bracket. A practitioner who cannot be seeded cannot be fielded. The roster is accordingly defective on its face. Correct and resubmit within fourteen days.*
 
-Brom read it twice and handed it on to Lira without a word. Lira read it once and handed it on to Karis with her mouth set. Karis read it, and then she laid it flat on the counter and put both her hands on the wood on either side of it, and Cael, who had seen that gesture in many rooms, felt the morning change shape.
+Brom read it twice and handed it on to Lira without a word. Lira read it once and handed it on to Karis with her mouth set. Karis read it, and then she laid it on the counter and put both her hands on the wood on either side of it, and Cael, who had seen that gesture in many rooms, felt the morning change shape.
 
 "Three sentences," said Karis. "*Cannot be seeded.* So *cannot be fielded.* So *defective.* It walks like a proof." She tapped the middle of it with one finger. "It isn't one. It's a bridge with a plank missing in the middle, and somebody's painted the gap to look like wood."
 
@@ -242,7 +242,7 @@ Brom read it twice and handed it on to Lira without a word. Lira read it once an
 
 "Then what does the charter do with somebody who can't be seeded?"
 
-Karis looked at him for a moment. He had said the thing she had been trying to say herself.
+Karis looked at him. He had said the thing she had been trying to say herself.
 
 "I don't know yet," she said. "It must do something. Nobody writes a rule that says *any practitioner* and then leaves no door for the ones they didn't think of." She turned to Bracken, who had been standing behind his counter through all of it with his hands folded and his face doing nothing. "Fourteen days."
 

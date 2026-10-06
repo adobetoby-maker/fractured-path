@@ -12,11 +12,11 @@ He had crossed the warm-up bay to Halcenvane's corner while Brom was strapping h
 
 "We paid for this," he said. "My house did, a month back. Everybody pays for them now, and I'll not pretend we're above it." He waited until Brom had taken the pages. "If my lad gets through the morning, he'll be standing across from you with page three in his head. Page three will get him hurt. I'd rather he met you with nothing in his head at all."
 
-Then he nodded once and went back across the bay to his own corner, with his hands behind his back.
+Then he nodded and went back across the bay to his own corner, with his hands behind his back.
 
 He had handed them across like a man returning a dropped glove in the street.
 
-Brom stood holding them for a moment. Then he folded them once more, along the old crease, and put them in the inside pocket of his kit bag, and finished strapping his hands.
+Brom stood holding them. Then he folded them once more, along the old crease, and put them in the inside pocket of his kit bag, and finished strapping his hands.
 
 He won his first bout of the morning in two exchanges, without the pages, against a Copper from a hill house who had not bought anything at all.
 
@@ -52,11 +52,11 @@ Whoever had written page three had not been in that hall. Or had been, and had n
 
 "It's better than good." Brom did not look up. He was reading page three again, slowly, with one thick finger under each line. "Everybody who's bought this is going to come at my left side, at the reset, looking for a door that isn't there any more. Rooke and I spent the whole of last term bricking that door up."
 
-He laid page three flat on the bench with the numbered steps uppermost, for the others. "They're going to queue up at it."
+He laid page three on the bench with the numbered steps uppermost, for the others. "They're going to queue up at it."
 
 Karis held out her hand for the file. Brom gave it to her.
 
-She read all four pages through without speaking, as she read anything she meant to rely on.
+She read all four pages through without speaking.
 
 Then she turned back to the first page and read the line at the bottom of it, in small print, that said where the compiler's material had come from.
 
@@ -128,7 +128,7 @@ He reset, and walked, and burst again, and landed short again.
 
 Lira did not burst at all. She walked.
 
-She walked a slow circle round the outside of his centre, staying a stride beyond where his bursts were meant to reach. When he took the centre she let him have it, and kept walking. He had to turn to keep her in front of him, and turning on that floor, with its polish in the middle, he had to keep his weight low and careful.
+She walked a slow circle round the outside of his centre, staying a pace beyond where his bursts were meant to reach. When he took the centre she let him have it, and kept walking. He had to turn to keep her in front of him, and turning on that floor, with its polish in the middle, he had to keep his weight low and careful.
 
 So he turned, and she walked, and the glass ran.
 
@@ -170,7 +170,7 @@ It was the thing Fenmark taught its Wind fighters across their whole time there,
 
 The boy ran it well. He had been taught by people who knew it and he had worked at it every day, and it showed. The first form took the centre again, and this time his bursts did not land short, because he had put more into them.
 
-The second form pressed: short bursts, one after another, straight at Lira, each one pushing her back a stride toward the rope.
+The second form pressed: short bursts, one after another, straight at Lira, each one pushing her back a step toward the rope.
 
 She went back. She went back exactly as far as each burst asked her to, no more, giving him ground at the rate he was buying it.
 
@@ -190,7 +190,7 @@ Lira went under it.
 
 She went from inside the turn, from the side he was swinging toward, low and fast, with one burst that carried her in beneath the line of his arm and across the front of his planted foot. For half a beat she was in the place the doctrine did not guard, because the doctrine did not know it was there.
 
-Then her palm was flat against his ribs, under the arm, and she was out again on the far side of him before his weight came off the left foot.
+Then her palm was against his ribs, under the arm, and she was out again on the far side of him before his weight came off the left foot.
 
 "Touch. Halcenvane."
 
@@ -216,15 +216,15 @@ Run well, it could not be met, only avoided. Run a little early, before a fighte
 
 The boy was two years from ready, and he ran it anyway.
 
-The first burst was good. The second was a fraction rushed, and the third came before the second had finished, so that for most of a breath he was in the air and coming down with nothing under him and nothing between Lira and the whole of his body.
+The first burst was good. The second was rushed, and the third came before the second had finished, so that for most of a breath he was in the air and coming down with nothing under him and nothing between Lira and the whole of his body.
 
 Cael saw two endings and knew that Lira saw them too.
 
 She could take his legs as he landed: a sweep at the moment his feet touched the polish, and the boy would go down on the slate from the height of a burst, hard, in front of his whole region. It would be a clean touch, legal, and very fast.
 
-Or she could meet him: step into his landing with her shoulder, before the landing beat had let him go, and put him back a stride and onto the floor that way. That would hurt, too.
+Or she could meet him: step into his landing with her shoulder, before the landing beat had let him go, and put him back a yard and onto the floor that way. That would hurt, too.
 
-She did neither. She stepped half a stride to her right, so that he came down where she had been standing a moment before. She put her palm flat on his breastbone as he landed, gently, almost as a hand is put on a door to stop it swinging.
+She did neither. She stepped half a stride to her right, so that he came down where she had been standing a moment before. She put her palm on his breastbone as he landed, gently, almost as a hand is put on a door to stop it swinging.
 
 He did not fall. He stood there, on the slate, on his own two feet, with her hand on his chest.
 
@@ -248,7 +248,7 @@ Cael's pencil was moving before the corner flags came down.
 
 They shook hands at the centre of the floor while the panel's slates went face down. The boy said something. Lira answered him. Then the boy laughed, a short surprised laugh, and they let go.
 
-The figure went up on the board in the steward's square chalk at its proper interval: Lira twenty-six, the boy twenty-one. The gallery read it and began to drift out toward the chalk board in the yard, faintly cheated, talking about the next bout.
+The figure went up on the board in the steward's chalk: Lira twenty-six, the boy twenty-one. The gallery read it and began to drift out toward the chalk board in the yard, faintly cheated, talking about the next bout.
 
 One woman did not drift. The woman with the tape box from the blue-and-grey house stood by the rope at the floor's east corner with a roll of tape still in her hands, and watched Lira walk back to Halcenvane's corner, and did not move until she had gone.
 
@@ -282,13 +282,13 @@ Brom unwound his strapping, one turn at a time.
 
 "That gap went last year," he said, not unkindly. "You paid for another man's notes on me, and they'd gone stale before you bought them." He finished the strapping and rolled it. "Do your own next season."
 
-The wiry man stood there a moment longer. Then he nodded, slowly, and went away, and Cael thought it was very likely the best advice anybody had given him all year.
+The wiry man stood there a moment longer. Then he nodded, slowly, and went away, and Cael thought he had been given good advice, and cheap.
 
 Karis's quarterfinal was on the west floor in the middle of the afternoon, against the home house's Stone.
 
 He was a heavy, patient young man from the quarry town's own academy, who had grown up on that slate and fought on it every week of his life.
 
-Karis fought him the way she fought everybody, as a measurement she happened to be standing inside.
+Karis fought him as a measurement she happened to be standing inside.
 
 In the first exchange she found out how he rooted: all at once, with his weight going down into the stone like a post into a hole. She took her touch there, at the moment he settled, with a flat palm on his forearm and a small hard spark of heat at the contact that made him take the arm back and look at it.
 
@@ -330,9 +330,7 @@ Brom put down his spoon.
 
 "And he said it's on the left foot," said Lira. "My drill. With my name on it. On the left foot." She ate a mouthful of stew. "So I told him, next time he runs it and nobody's watching, try it off the right. And he said that's not in the book." She shrugged. "And I said, no. It wouldn't be."
 
-Nobody said anything for a moment.
-
-Then Ephram began to laugh. He tried not to, and could not stop, and put his face in his hands, and Brom laughed too, the great slow laugh he did not use often.
+Ephram was the first to laugh. He tried not to, and could not stop, and put his face in his hands, and Brom laughed too, the great slow laugh he did not use often.
 
 Karis wrote something in the grey notebook and underlined it. Lira went on eating her stew.
 

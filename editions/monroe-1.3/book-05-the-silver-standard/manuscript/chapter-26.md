@@ -6,7 +6,7 @@ The card was still in its brass holder on the door, in Bracken's small upright h
 
 Inside, the room had changed a good deal since the recess. Karis had pinned a map of the whole continent to the long wall, a cheap printed one from a stationer's in Ostrand, and over the weeks it had disappeared under paper.
 
-There were slips pinned to it in every quarter, each with a house's name and a few lines in her square hand, and threads of coloured wool running from the slips to places on the map.
+There were slips pinned to it in every quarter, each with a house's name and a few lines in her hand, and threads of coloured wool running from the slips to places on the map.
 
 Cael came up on a Third-day afternoon in the fifth week with two mugs of tea, because she had not been down to the common room since breakfast. He found her standing in front of the map with a pin in her mouth.
 
@@ -18,7 +18,7 @@ She had not pinned up fighters. She had pinned up places. Every slip was a house
 
 There was the floor it trained on, oak or stone or plank or something stranger. There was the weather of its country, and what its people did for a living, and which way its rivers ran. There was what a fighter from there would think was normal before he had ever been told what normal was.
 
-"The coast houses," she said, and touched three slips along the western edge. "Every one of them trains on wet boards, because everything on that coast is wet. They're all a fraction long in the stride, every fighter in every house, because a long stride on a wet floor is how you don't fall over. They don't know they do it. Nobody's ever told them, because everybody they've ever fought does it too."
+"The coast houses," she said, and touched three slips along the western edge. "Every one of them trains on wet boards, because everything on that coast is wet. They're all a little long in the stride, every fighter in every house, because a long stride on a wet floor is how you don't fall over. They don't know they do it. Nobody's ever told them, because everybody they've ever fought does it too."
 
 She moved her hand inland, to a knot of slips in the hills.
 
@@ -34,25 +34,25 @@ Beside Auremont there was another slip, with one thread.
 
 He drank his tea and looked at the map for a long time.
 
-He thought it was the best piece of work he had seen anybody in the house do all year, and he told her so. Karis said, "It's a draft," in the voice she used when she was pleased and did not intend anybody to know.
+He told her it was very good. Karis said, "It's a draft," in the voice she used when she was pleased and did not intend anybody to know.
 
 She needed a host rule about delegation quarters. She went to the shelf for the certified transcription of the tournament charter and took it down and opened it at the back, where the schedules were, and turned pages until she found the rule.
 
 Cael watched her do it.
 
-He watched her hand go past the schedules into the oldest part of the book, the founding articles in their old type. It stopped there for a moment, flat on a page.
+He watched her hand go past the schedules into the oldest part of the book, the founding articles in their old type. It stopped there.
 
 A narrow slip of paper stood up out of the binding at that place, one of her own, with a line of her writing on it that he had seen her write by the common-room fire at the beginning of the year and had never read.
 
 She did not open it. She did not take the slip out. Her hand lay on the page beside it for perhaps the space of a breath.
 
-Then she turned the pages back to the schedules, found the rule she wanted, and copied it into her notebook in her square hand.
+Then she turned the pages back to the schedules, found the rule she wanted, and copied it into her notebook.
 
 "After the season," she said, to the book rather than to him.
 
 "I didn't ask."
 
-"I know you didn't. I said it to me." She shut the transcription and put it back on the shelf with its spine square to the edge. "I keep deciding it, every time I go past. It's very tiring. The season first. Then the other thing." She came back to the map and picked up another pin. "It isn't going anywhere. It's been in that book longer than the house has been on this bluff."
+"I know you didn't. I said it to me." She shut the transcription and put it back on the shelf. "I keep deciding it, every time I go past. It's very tiring. The season first. Then the other thing." She came back to the map and picked up another pin. "It isn't going anywhere. It's been in that book longer than the house has been on this bluff."
 
 Below the window, at the foot of the bluff road, two coats stood in the snow in the lee of the wall, and two more stood at the ferry landing on the far side of the river, small and dark against the white, where Cael could see them from here as he could see them from every high window on the hill.
 
@@ -80,7 +80,7 @@ It was not a long letter. Hesk's letters in the cold months were never long, bec
 
 He read it twice at the common-room table. Then he took it across to the fire, where Lira was sitting with her boots up and Brom was mending a strap, and read them the last two lines aloud.
 
-Lira said nothing for a moment. Then she said, "Tell him I know," and went back to her book. She did not turn a page for some time.
+Lira said, "Tell him I know," and went back to her book. She did not turn a page for some time.
 
 Brom put down the strap and looked at the fire.
 
@@ -88,9 +88,9 @@ Brom put down the strap and looked at the fire.
 
 The letter went behind the observation notebook's front board, with the others.
 
-He thought about the clocks for a while afterward, sitting by the fire with the notebook on his knee. Hesk had never once in his life given advice that was only about the thing it seemed to be about. In a big city every clock is certain, and you keep to one you have reason to trust. Cael knew which one he had. It had four hands, Lira's and Brom's and Karis's and the Log's, and between them they had kept better time this year than any bell on the continent.
+He thought about the clocks afterward, sitting by the fire with the notebook on his knee. Hesk had never once in his life given advice that was only about the thing it seemed to be about. In a big city every clock is certain, and you keep to one you have reason to trust. Cael knew which one he had. It had four hands, Lira's and Brom's and Karis's and the Log's, and between them they had kept better time this year than any bell on the continent.
 
-He wrote the block's inventory that night at the window of his room, with the ferry landing white and empty below except for its two coats. Most of it said what it always said, so he wrote those lines short: the oak's six free a day and the landing beat no shorter; the right shoulder unasked for anything since the mill town's plate; Compression shown nowhere, not even for the barge-master's fall; Shadow's rent from waking, and one drift on the stair. Then he wrote the two lines that were new.
+The block's inventory went into the Log that night, with the ferry landing white and empty below except for its two coats. Most of it said what it always said, so he wrote those lines short: the oak's six free a day and the landing beat no shorter; the right shoulder unasked for anything since the mill town's plate; Compression shown nowhere, not even for the barge-master's fall; Shadow's rent from waking, and one drift on the stair. Then he wrote the two lines that were new.
 
 *Ember: two contacts, the circle's rate, on the caravan captain at the confluence, in front of a hundred and forty people. It was on paper already, at the back of the Greyvane transcript, and it's on a seat's report now as well. Two a round on the Shield reserve since, on a floor with no crowd, because a habit kept only in public is a costume.*
 
@@ -100,17 +100,17 @@ He wrote the block's inventory that night at the window of his room, with the fe
 
 Seln wrote the block's report at the copying table behind the wing's counter, on the last Fifth-day of the term, after the counter had closed.
 
-The wing was quiet. The day's forms lay squared in their trays, and the term's last coursework folders were stacked for return with their slips torn off.
+The wing was quiet. The day's forms lay in their trays, and the term's last coursework folders were stacked for return with their slips torn off.
 
 Outside the high window the light was going blue over the snow, and the ferry landing on the far side of the river showed two dark marks against the white, as it had shown every evening for ten weeks.
 
-He wrote the report in the office's standard form, as he wrote every report, slowly, and read each line back as he went.
+He wrote the report in the office's standard form, slowly, and read each line back as he went.
 
 *Subject in residence for the term. Training per house schedule, in preparation for the continental finals. Capabilities exercised in training consistent with those on record. No undisclosed capability observed. Travel per the attached roster. Schedule continues. Routine.*
 
 He read the first line again. The subject had been in residence for the term. The wing's own counter sheet said so, and the subject had brought his coursework to the counter every Fifth-day and said *Thank you for the form*, and Seln had said *Mm*, and taken it.
 
-He read the second. The subject had trained per the house's schedule. The schedule was pinned to a board in the long upper room in the coach's square capitals, and Seln had read it on the way to somewhere else, as he read everything on the way to somewhere else.
+He read the second. The subject had trained per the house's schedule. The schedule was pinned to a board in the long upper room in the coach's capitals, and Seln had read it on his way to somewhere else.
 
 He read the third. The capabilities exercised were consistent with those on record. The subject had spent two ignitions a round against the Shield reserve on the oak, every second day.
 
@@ -156,9 +156,9 @@ Cael, standing behind her, did it in his head. He came out where she did.
 
 If the seeds held through two rounds, Lira's semifinal line was Zerin's.
 
-She did not say anything at the board, or at breakfast, or on the speed line in the afternoon, where she ran her intervals a fraction shorter than she had the day before and did not mention it.
+She did not say anything at the board, or at breakfast, or on the speed line in the afternoon, where she ran her intervals a hair shorter than she had the day before and did not mention it.
 
-At supper she ate what Brom put in front of her. Afterward she went up early, before the fire had properly settled, and said good night to nobody in particular.
+At supper she ate what Brom put in front of her. Afterward she went up early, before the fire had properly settled, and said good night to the room.
 
 The lamp under her door was still burning when Cael went up at the tenth bell. It was still burning when he woke a little after the second hour of the night with the cold on his face and did not know what had woken him.
 
@@ -224,7 +224,7 @@ There were the baker's boys and the ferry crew and the women from the fish steps
 
 They did not cheer, exactly. They stood along the parapet and called out names as the wagons went by, all five, and some of them the reserves' names too, which the reserves had not known anybody in Ostrand knew.
 
-The Shield reserve went pink to the ears and waved with both hands.
+The Shield reserve went pink and waved with both hands.
 
 Somebody threw a bunch of early snowdrops into the first wagon. Brom caught it, and looked at it in his big hand, and did not know what to do with it, and in the end put it in his buttonhole, where it stayed for three days.
 

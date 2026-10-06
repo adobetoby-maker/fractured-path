@@ -32,37 +32,7 @@ The great doors at the river end were shut against the cold, and a thin hard dra
 
 The noise was like being inside a drum, and it did not stop between bouts, or while the steward read out the rules, or even while the steward begged the people standing on the barrels at the back to get down off them before somebody went through the lid into the brine.
 
-His first challenger was the confluence-house Blade who had written *the town asked me*. He was a quick, merry young man of the house's second rank, and the town had certainly asked him, because every time he moved the whole barn roared for him as though he were a brother.
-
-Cael fought the first exchange the careful way and took a touch from it late, on the turn, with the read giving him the Blade's weight a fraction before it moved. The noise went down to a groan.
-
-In the second exchange the Blade came off his mark at the call with the whole barn on his back, and the noise came with him.
-
-It was a great flat wall of sound, the loudest room Cael had ever fought in, and it rolled down off the vault and filled the square to the ropes.
-
-This was item two. *A conceded point when the light is behind me, the floor soft, or the crowd loud.* He had written it at a window at the mill town, and he had not yet run it.
-
-He let the noise have him. He let it take a fraction off his read, because a loud room really does take something off a fighter who listens with his whole body. He let the Blade's second feint get a half-step closer than it should have, and he was a quarter-beat slow to turn from it.
-
-The Blade's palm found his shoulder.
-
-"Touch. Confluence."
-
-The barn went up like a bonfire. The Blade raised both fists and turned round to show the gallery, and the gallery stamped on the boards across the barrels until the lamps swung.
-
-Cael walked his circle at the rope, as Rooke had taught them all, and did not look at anybody.
-
-It was a true point. A loud room did cost a fighter something, and he had only let it cost him a little more than it needed to.
-
-The figure tomorrow would say he had had a merry young man in front of him and a hundred and forty people shouting, and that it had made a difference. It would be right.
-
-He took the second touch in the fourth exchange from firm planks, with one burst, along the line he had chosen. *One*, he counted. *Of five.*
-
-"Two to one. Bout to Halcenvane."
-
-The Blade shook his hand at the centre and grinned at him. He had a story now that would last him a lifetime in a town this size: the provision boy had come to the confluence, and the town had shouted, and the boy had lost a point to it.
-
-"They're always like that," he said, nodding up at the vault. "Wait till you see them for the bargeman."
+His first challenger was the confluence-house Blade who had written *the town asked me*, a quick, merry young man of the house's second rank, and every time he moved the whole barn roared for him as though he were a brother. Cael took a touch in the first exchange the careful way, late, on the turn. In the second the Blade came off his mark with the barn on his back, a wall of sound rolling down off the vault to the ropes, and Cael ran item two for the first time: *a conceded point when the light is behind me, the floor soft, or the crowd loud.* He let the noise take a little off his read, a little more than it needed to, and was a quarter-beat slow to turn from the second feint, and the Blade's palm found his shoulder. "Touch. Confluence." The barn went up like a bonfire. It was a true point; a loud room does cost a fighter something. Cael took the second touch in the fourth exchange from firm planks, with one burst, *one of five*, and the steward called it, "Two to one. Bout to Halcenvane." The Blade grinned at him at the handshake with a story that would last him a lifetime in a town this size. "Wait till you see them for the bargeman," he said.
 
 ---
 
@@ -94,7 +64,7 @@ Then in the quarterfinal he had drawn the top seed, the river academy's first en
 
 They had been level after four exchanges, a touch apiece, and the figures had decided it. Ephram had twenty-five and the Stone twenty-four.
 
-"I watched his feet," said Ephram, when Cael asked. He said it lightly, but his ears had gone red. "The whole bout. I didn't look at a single shoulder."
+"I watched his feet," said Ephram, when Cael asked. He said it lightly, and could not keep it light. "The whole bout. I didn't look at a single shoulder."
 
 "He beat the top seed," said Lira to Cael, as if Ephram were not there. "Did you hear? He beat the top seed and then came and sat down and wrote it in his book."
 
@@ -354,16 +324,8 @@ Lira did not come down to supper until it was nearly over. She had spent the end
 
 She put down her spoon. "Both boys who fought him today fought inside his shapes. They tried to get out of them, and they tried to break them, and they were clever about it, and it didn't matter, because the shapes were his and the boys were only living in them." She looked round the table. "I'm going to find out tomorrow whether I have to."
 
-He wrote the day that night at the inn, with the river loud under the window.
+The river was loud under the inn window when he set the day down.
 
-*Three today, on dead planks over stone; five free, four spent. The Blade got his point from the crowd, item two, and a true one. An academy Stone, honest and slow. And a Bronze Shield off the salt road.*
-
-*The Shield is the one to write down. His coverage comes in panes, a few at a time, and every pane is a separate declaration. Breath, plant, pane, each time. They thin, so he renews them, oldest first, on a clock, like a man changing the guard on a wagon train.*
-
-*You can't beat a renewal with your feet; the new pane comes up faster than anything I own. But you can meet it. Ember at the contact, on the pane that's coming up, cracks it as it sets. He has to declare it twice, and the beat that costs him runs down his whole clock and comes out of some other pane's life. Two contacts, the circle's rate. The second one was the bout.*
-
-*It's the first new thing I've learned on a floor since the slate. I think it may be the whole answer to Shield. Every Shield has a clock. Find it, and tax the change of guard.*
-
-*I'm pleased with myself tonight, and I'm writing that down too, so I'll know later what it looked like.*
+*Three today, on dead planks over stone; five free, four spent, the hip after. Item two run once, against the crowd, and the point it cost was a true one. Ember: two contacts, the circle's rate, both into panes as they set. The second one was the bout.*
 
 Across the landing, behind Lira's door, the lamp burned until very late.

@@ -20,13 +20,13 @@ So he read. He read the first page of the first version, which was the clause, s
 
 "Everything I put under it made it weaker." She was writing the second page and did not look up. "Anyone who reads that line and doesn't understand it won't understand it any better with me standing next to it explaining."
 
-At the eleventh bell she had three pages in rough and none she liked. At the twelfth she had four, and liked one. The lamps had begun to smoke. The stone hall beyond the long room was dark except for the night porter's candle at the door, moving now and then as he shifted on his stool. Once, very late, the porter came in with two cups of something hot that neither of them had asked for and set them down at the end of the table without a word and went out again. Karis looked at the cups for a long moment as if she had found a clause she had not expected.
+At the eleventh bell she had three pages in rough and none she liked. At the twelfth she had four, and liked one. The lamps had begun to smoke. The stone hall beyond the long room was dark except for the night porter's candle at the door, moving now and then as he shifted on his stool. Once, very late, the porter came in with two cups of something hot that neither of them had asked for and set them down at the end of the table without a word and went out again. Karis looked at the cups as if she had found a clause she had not expected.
 
 "The bracket rules," she said, at last, into the quiet. "By the memorandum, no seeding means no fielding. The fielding's ours, and the seeding's the host's. But it isn't enough to say the host's problem is the host's problem. That's a door slammed. I want a door held open." She laid her pencil down. "Somewhere in this charter there's a line that tells a host what to do with a fighter it can't seed. There has to be. People don't write *any practitioner* and then leave no road for the ones they didn't think of."
 
 "And if there isn't?"
 
-"Then I'll write four very good pages about a road that isn't there," said Karis, "and they'll be the best four pages the regional registrar has ever been sent, and he'll still send them back." She picked the pencil up again. "Go to bed. You've read everything I've written tonight, and nothing in it was untrue, and I'm going to sit here for an hour and be angry with the fifth part."
+"Then I'll write four very good pages about a road that isn't there," said Karis, "and they'll be four better pages than the regional registrar is used to being sent, and he'll still send them back." She picked the pencil up again. "Go to bed. You've read everything I've written tonight, and nothing in it was untrue, and I'm going to sit here for an hour and be angry with the fifth part."
 
 ---
 
@@ -104,7 +104,7 @@ Cael read it twice. Then he looked up.
 
 "Then what will he do?"
 
-"What any careful officer does with a rule he doesn't like and can't break." Bracken gathered the four pages, knocked their edges square against the table, and slid them into a clean folder. "He'll write a short note asking for guidance, and send it to somebody senior, and go home early with a clear conscience. Then it's somebody else's afternoon." He tied the folder's tape. "Mind you, I don't blame him. I'd do the same, in his chair."
+"What any careful officer does with a rule he doesn't like and can't break." Bracken gathered the four pages, knocked their edges together on the table, and slid them into a clean folder. "He'll write a short note asking for guidance, and send it to somebody senior, and go home early with a clear conscience. Then it's somebody else's afternoon." He tied the folder's tape. "Mind you, I don't blame him. I'd do the same, in his chair."
 
 "Would you?" said Karis.
 
@@ -120,7 +120,7 @@ A long desk bare of everything but the work in hand. A wall of grey file cases, 
 
 "Sit," said Withrow. "I want a witness who isn't on my staff."
 
-He sat in the chair across the desk from her while Bracken stood by the door. Withrow read the four pages through, slowly, at her own pace, initialling each margin where her initials already stood on an earlier draft. She read the fourth page twice, then put the pen down, squared the pages, and folded her hands on top of them, and looked at him across them.
+He sat in the chair across the desk from her while Bracken stood by the door. Withrow read the four pages through, slowly, at her own pace, initialling each margin where her initials already stood on an earlier draft. She read the fourth page twice, then put the pen down, laid the pages together, and folded her hands on top of them, and looked at him across them.
 
 "When this seal goes down," she said, "the house stands behind you fighting this season, in front of everyone, start to finish. You should know why. I'll say it once, and then you need never wonder. A great many people this year are going to offer you their opinion of my reasons. Most of them will say ambition, and most of them will be about half right." Her face did not change. "I want this house at Norhold. I've wanted it since before you came up the road. Your enrollment helps, and I know it helps, and I'm not going to pretend to you or to anybody else that I don't know it."
 
@@ -142,7 +142,7 @@ She signed. She signed in full, her whole name, slowly, and Bracken came forward
 
 "The morning one," Bracken agreed, and took the folder, and went.
 
-Cael sat in the chair with his hands on his knees and found he had nothing ready to say. He had expected, he realized, to be told he was valued, or to be told he was a risk, and he had readied himself for either. He had not readied himself to be told that he came last in the order of things, after a house and a set of rules and the people who kept them, and that this was the reason the thing would stand. It was the least flattering account of himself anyone had ever given him to his face. It was also, he thought, the safest place in the world to be standing: at the end of a line of other people's honest work, where nobody could pull him out without pulling all of it down.
+Cael sat in the chair with his hands on his knees and found he had nothing ready to say. He had expected, he realized, to be told he was valued, or to be told he was a risk, and he had readied himself for either. He had not readied himself to be told that he came last in the order of things, after a house and a set of rules and the people who kept them, and that this was the reason the thing would stand. It was not a flattering account of himself, and it had been given to his face. It was also, he thought, the safest place in the world to be standing: at the end of a line of other people's honest work, where nobody could pull him out without pulling all of it down.
 
 He looked up at the framed charter above the file cases, the brown ink and the old seal, and Withrow saw him look.
 
@@ -192,13 +192,13 @@ Then the silence began, and the house went on preparing for a season with its ey
 
 The response had gone down the bluff on the morning courier of the Sixth-day. After that nothing came back up, and the regional registrar did not write. The memorandum's fourteen days went on running down on the calendar behind Bracken's counter, one day a morning, each crossed off in his small neat stroke. In its turn the fourteenth was crossed off like the rest, and nothing went back down the hill to meet it. The house had answered once, in four pages, and Bracken did not resubmit; a true record, he told Brom when Brom asked, did not get any truer for being sent twice. The coats at the ferry landing and the road's foot changed on the bell, two and two, and Karis's marbled book got a line a day, and every line was the line above it.
 
-Nobody spoke to Cael about any of it. He put it together the way he put everything together, out of the things people were careful not to do.
+Nobody spoke to Cael about any of it. He put it together out of the things people were careful not to do.
 
 Rooke did not post the first meet's bout targets. Every other week on the calendar board had its targets pinned beside it in Rooke's hand, and the first meet's week had a clean space the size of a sheet where they would go. Bracken's clerk opened a travel file for the delegation and wrote out its cover in full, every name and wagon and stable fee, and left the date line blank. The wagoner came up from the town to look at the axles and went down again without being told which morning to come back. And at the counter on the Fifth-day, when Cael brought the week's coursework, the teaching assistant took it, read the head of it, and laid it in the tray face down, square to the others, and said "Mm," and that was all, as it should have been.
 
 Five people's seasons sat on one line of a roster, and the line was his. If it failed, Lira's first season at Iron would open at a table instead of on a floor, and Brom's first chance to be priced by strangers with it, and Karis's, and Ephram's. He could not stop doing the sum. It came to meals with him and sat in his mouth instead of food.
 
-The floor, at least, did not wait for anybody. On the Fourth-day Ephram came to the second session with his shoulders held so still that he looked like a man carrying a full tray across a crowded room. He threw the second-year entry at Cael twenty times in an hour, and Cael beat the second weight eleven of them by the heel alone, because there was no longer any shoulder to read. On the ninth throw he ate the plain entry clean across the ribs and said nothing. On the fourteenth Ephram's shoulders dropped again from tiredness, and Cael called it aloud before the heel had moved, and Ephram muttered something at his own shoulders and went back to his chalk. Rooke's board, at the end, said only *Better. Both.* Cael read it upside down on his way to the water jug, and carried it back up to the residence with him like a coin in his pocket, and turned it over at supper when the sum came back.
+The floor, at least, did not wait for anybody. On the Fourth-day Ephram came to the second session with his shoulders held so still that he looked like a man carrying a full tray across a crowded room. He threw the second-year entry at Cael twenty times in an hour, and Cael beat the second weight twelve of them by the heel alone, because there was no longer any shoulder to read. On the ninth throw he ate the plain entry clean across the ribs and let it pass. On the fourteenth Ephram's shoulders dropped again from tiredness, and Cael called it aloud before the heel had moved, and Ephram muttered something at his own shoulders and went back to his chalk. Rooke's board, at the end, said only *Better. Both.* Cael read it upside down on his way to the water jug, and carried it back up to the residence with him like a coin in his pocket, and turned it over at supper when the sum came back.
 
 Hesk's answer came up on the evening coach of the Third-day, the fourth day of the silence, and it was four lines long.
 
@@ -208,9 +208,9 @@ Cael took it from his pigeonhole in the cloister and read it standing there, und
 
 He read it three times. Then he stood in the cloister holding it and laughed, once, out loud, so that a Current girl going by turned to see what was funny and found nothing she could see.
 
-*Pack wool.* Two men now, in a fortnight, had told him to pack for the cold, one across a counter in front of a queue and one across the whole width of the country in a hand that grew larger every year. Neither knew the other existed. One of them could not know what he was saying and the other could not say what he knew. Cael did not put them together in his head, because there was nothing to put together; quarry towns were cold and grandfathers were careful and that was the whole of it. But he noticed that he had noticed, and he wrote that down that night, because noticing was the only part of it that was his.
+*Pack wool.* Two men now, in a fortnight, had told him to pack for the cold, one across a counter in front of a queue and one across the whole width of the country in a hand that grew larger every year. Neither knew the other existed. One of them could not know what he was saying and the other could not say what he knew. Cael did not put them together in his head, because there was nothing to put together; quarry towns were cold and grandfathers were careful. But he noticed that he had noticed, and he wrote that down before he slept, because noticing was the only part of it that was his.
 
-The letter went behind the front board of the observation notebook with the other two that lived there: the folded note that had come in the pine case with the pen, on the eleventh of Sowing, and the sheet that had said *Sixteen suits you.* Three now, in the same hand. He sat with the notebook shut on all three for a moment before he put it away, and did not write in the Log what it cost him to have them there together, because some lines in a ledger were better left as a space.
+The letter went behind the front board of the observation notebook with the other two that lived there: the folded note that had come in the pine case with the pen, on the eleventh of Sowing, and the sheet that had said *Sixteen suits you.* Three now, in the same hand. He sat with the notebook shut on all three before he put it away, and did not write in the Log what it cost him to have them there together, because some lines in a ledger were better left as a space.
 
 ---
 
@@ -262,7 +262,7 @@ He gave her back the card, and she put it away carefully, a thing she meant to k
 
 She went off along the wall toward the lit windows, and after a moment he followed her.
 
-He wrote it that night, at the window, and found he was smiling while he wrote.
+He was smiling when he opened the Log, and went on smiling while he wrote.
 
 *They have a procedure for me now. They watch for the quiet. They choose who'll say the thing, and one of them writes it down for her on a card, and somebody adds a line at the bottom in pencil, and she's sent out to say it where I'll be sitting. I've been handled. By three people. With a card.*
 

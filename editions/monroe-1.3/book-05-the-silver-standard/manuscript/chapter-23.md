@@ -172,23 +172,19 @@ Lira had come round from the front bench while Gault worked. She looked at the s
 
 "I fell off a river."
 
-"Good. It was the best thing in the bout." She sat down on the bench beside him. "The whole barn saw you fall, and get up, and work it out. Nobody who saw that will ever think you're a machine." She bumped his good shoulder with hers. "Not even the ones who write it down for a living."
+"Good. It was the part worth having." She sat down on the bench beside him. "The whole barn saw you fall, and get up, and work it out. Nobody who saw that will ever think you're a machine." She bumped his good shoulder with hers. "Not even the ones who write it down for a living."
 
-He wrote the bout that night at the inn with his left hand, slowly, because the right one was strapped.
+That night the Log had to be written left-handed, slowly, because the right arm was strapped.
 
-*Five bouts at the confluence, five won. The barge-master is the one to keep. He fights with a current: one long push across the whole floor, shifting left and right like water. You can't stand against it; it goes round a braced man and then moves the floor under him. But it has a bed. It comes out of his back foot along one line, and the shifting is all on top. Read the foot, find the line, and ride along it instead of across. Then his own water carries you, and the burst only has to steer.*
-
-*Bill: one honest fall in the first exchange, on the right forearm, on dead planks over stone. A week of bruise. It'll cost me something on the figure, and for the first time all year I'm glad to pay a cost I didn't design. Twenty, twenty-six, and now whatever this is. The record can hold a fall. The record now breathes.*
+*Bill: one honest fall in the first exchange, on the right forearm, on dead planks over stone. A week of bruise. It'll cost me something on the figure, and for the first time all year I'm glad to pay a cost I didn't design. The record can hold a fall.*
 
 *Bursts: five free on those planks; three spent today, four yesterday. Ember none today; two yesterday, on the captain. Shadow: rent from waking; deployment none.*
 
-*He asked what I'm carrying. I told him I don't know. It's the truest thing I've said to a stranger all year, and he seemed to think it was a good answer.*
-
 ---
 
-The meet record went up on the main hall's board at the first bell the next morning, while the wagoner was greasing the axles in the yard. Cael read the exhibition leaf with his strapped arm held against his coat. There were five figures by his name, in the clerk's square chalk, with the unrounded composites beside them. Twenty-one for the merry Blade and his roaring town. Twenty-four for the caravan captain. Twenty-three for the eastern Stone, twenty-five for the coastal Wind, and twenty-two for the barge-master, with the fall in it. The twenty-one sat at the very top of the Iron band, and the other four had climbed into the strong-Iron band above it, nowhere near each other, wandering about like the figures of any fighter on five different afternoons. Down the whole season, from the wool town to here, the column ran from twenty to twenty-six, and it had never once settled into a line.
+The meet record went up on the main hall's board at the first bell the next morning, while the wagoner was greasing the axles in the yard. Cael read the exhibition leaf with his strapped arm held against his coat. There were five figures by his name, in the clerk's chalk, with the unrounded composites beside them. Twenty-one for the merry Blade and his roaring town. Twenty-four for the caravan captain. Twenty-three for the eastern Stone, twenty-five for the coastal Wind, and twenty-two for the barge-master, with the fall in it. The twenty-one sat at the very top of the Iron band, and the other four had climbed into the strong-Iron band above it, nowhere near each other, wandering about like the figures of any fighter on five different afternoons. Down the whole season, from the wool town to here, the column ran from twenty to twenty-six, and it had never once settled into a line.
 
-He looked at them for a while and found nothing in them that he had to explain to anybody.
+He looked at them and found nothing in them that he had to explain to anybody.
 
 Karis came down to breakfast that morning with a sheet of paper and an expression Cael had seen on her face perhaps three times.
 
@@ -200,13 +196,11 @@ She read it to the table standing up, in the voice she used for charters.
 
 "*The demonstration-exhibition category, administered per charter as a scored non-standing curiosity, was this meet's principal public attraction, a circumstance for which the administering office can locate no precedent and, it must be admitted, no rule against.*"
 
-There was a short silence round the table.
-
-Then Ephram put his head down on his folded arms and shook. Brom laughed into his porridge. Lira took the sheet out of Karis's hand and read the sentence again for herself, and then a third time, and looked up at Cael with her eyes shining.
+Ephram put his head down on his folded arms and shook. Brom laughed into his porridge. Lira took the sheet out of Karis's hand and read the sentence again for herself, and then a third time, and looked up at Cael with her eyes shining.
 
 "*It must be admitted*," she said. "He admitted it. In writing. To the regional office."
 
-"No rule against," said Brom. "That's you. That's the whole of you, in four words."
+"No rule against," said Brom. "That's you, in four words."
 
 Rooke, at the end of the table, did not laugh. But he held out his hand for the sheet, and read the sentence, and gave it back to Karis, and Cael saw the corner of his mouth do something it seldom did.
 
@@ -230,7 +224,7 @@ The regional convenor read the qualifying houses into the record at the meet's c
 
 He was an old man in a black gown, with a voice made for reading things into records. He stood behind the panel's trestle on the dais with the region's standings in front of him and read them through from the bottom up, house by house, every total. It took a long time. The hall was full now, because the brackets were over and the salt store was shut, and the whole town had come across the square to hear how the year had come out.
 
-Halcenvane stood first in the region on the final count. It was first by a clear margin, past houses that had gone to Norhold every cycle for as long as the convenor had been reading. The convenor read the total in the same flat voice he gave every other house, and moved on.
+Halcenvane stood first in the region on the final count. It was first by a clear margin, past houses that had gone to Norhold every cycle for as long as the convenor had been reading. The convenor read the total in the same voice he gave every other house, and moved on.
 
 Along the delegation's bench nobody moved, because Rooke had told them at breakfast that nobody would. But Cael felt Brom, on his left, let out a long slow breath through his nose. On his right Lira's knee began to jog up and down under her coat and would not stop, and down at the end of the bench Ephram had taken out his file book and was writing the total in it, very small, in the margin of a page that was already full, so that he would have it in his own hand before the regional office had printed it in anybody else's.
 
@@ -258,4 +252,4 @@ She drank, and sat down.
 
 There was a moment's quiet. Then Rooke, very slowly, let out the breath he had been holding to make his speech, and did not make it, and lifted his own cup to her instead. One by one round the table they all did the same.
 
-That was all of it. Later, on the road home, Ephram tried for most of a morning to improve on it, out loud, for the reserves. In the end he gave up and said it was the best speech he had ever heard, and that he resented it.
+Later, on the road home, Ephram tried for most of a morning to improve on it, out loud, for the reserves. In the end he gave up, and said that it could not be improved, and that he resented it.

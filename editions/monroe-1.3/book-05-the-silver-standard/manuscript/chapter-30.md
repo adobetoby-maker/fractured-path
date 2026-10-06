@@ -16,7 +16,7 @@ He took them through the Concourse from the inside, along corridors and gallerie
 
 There were warm-up halls with sprung floors, dressing rooms with numbered doors, a kitchen the size of the house's long hall, a surgeon's corridor with clean beds in a row.
 
-Brom looked down the row of beds for some time as they passed, and said, to nobody in particular, that he hoped to see a great deal less of it than of the kitchen.
+Brom looked down the row of beds for some time as they passed, and said that he hoped to see a great deal less of it than of the kitchen.
 
 In one of the warm-up halls a coast house's Copper was running drills on a sprung floor while his coach counted, and he stopped in the middle of a drill to stare at Cael going past the open door.
 
@@ -72,7 +72,7 @@ She read walking, with Lira steering her round the posts by her elbow, and by th
 
 She put the program down.
 
-For a moment nobody spoke. Every one of them had spent a year fighting to two touches inside four exchanges, and every one of them was turning that year over in their heads and finding it did not fit here.
+Every one of them had spent a year fighting to two touches inside four exchanges, and every one of them was turning that year over in their heads and finding it did not fit here.
 
 Lira spoke first, slowly. "So it isn't first to two."
 
@@ -120,7 +120,7 @@ Ephram wanted to know whether a fighter two up with the bell coming could simply
 
 Brom did not argue.
 
-He sat with his elbows on the table and the program open at the page and read the paragraph once more, slowly, moving his lips a little. Then he closed it and put his big hand flat on the cover.
+He sat with his elbows on the table and the program open at the page and read the paragraph once more, slowly, moving his lips a little. Then he closed it and put his big hand on the cover.
 
 "Five," he said, to himself. "All right."
 
@@ -232,7 +232,7 @@ He was thinking about the steward's grandmother, oiling plugs for forty years in
 
 Then he went out by the side door, and found the porter there waiting to lock it behind him, without the least impatience.
 
-He wrote her sentence down whole that night, at the window, under the line he had written in the first week of the year about Bracken's forms, that every phrase in one was a scar from some old fight.
+Her sentence went into the Log whole that night, under the line he had written in the first week of the year about Bracken's forms, that every phrase in one was a scar from some old fight.
 
 *Cheaper than deciding. Every clause I've ever stood on is a walled-up doorway somebody kept painting.*
 
@@ -296,7 +296,7 @@ There was a likely meeting in the round of sixteen with the lake house's methodi
 
 "Nothing free," said Ephram. "Nothing unfair." He took his finger off the board. "Correct tournament."
 
-He looked at it a moment more, and then went on in the same flat voice he used for reading out a bill. "The round of sixteen's what I'm paying to get in. Anything after that, I'm trading on."
+He looked at it a moment more, and then went on in the voice he used for reading out a bill. "The round of sixteen's what I'm paying to get in. Anything after that, I'm trading on."
 
 Karis had gone quiet.
 
@@ -316,7 +316,7 @@ Karis did not take her finger away. "We shared a floor. At Ternhall. All the tim
 
 "She took the place I left. The top of their column. We learned the lattice side by side, and we kept notebooks on it, and for a long time we traded the notebooks every week."
 
-She was quiet for a moment. "She can read me the way you read me. Better than you do. She knew it while it was forming."
+She was quiet. "She can read me the way you read me. Better than you do. She knew it while it was forming."
 
 Cael noticed that she had not said the name. She had read it, and touched it, and talked about it for a minute, and not once said it aloud.
 

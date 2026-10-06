@@ -36,7 +36,7 @@ Inns kept their ledgers in odd places, and the landlord was very likely in one o
 
 It was the kind of thing Seln did all the time, and it was the kind of thing nobody ever noticed him doing, and Cael noticed it now only because he happened to be at the window.
 
-He went up to bed. Brom was already asleep, flat on his back, with his boots set side by side at the foot of the bed as neatly as a valet would have set them.
+He went up to bed. Brom was already asleep on his back, with his boots set side by side at the foot of the bed as neatly as a valet would have set them.
 
 The window was thick with frost on the inside.
 
@@ -104,7 +104,7 @@ The other houses warmed up once, as they always had, in the hour before the firs
 
 By the time they were called they were cold again, and they did not know it, because the cold of that hall did not announce itself. It simply took a little off everything: a fraction off a burst, a quarter-beat off a guard, a finger's width off a reach.
 
-He wrote it down that night.
+The Log had it that night.
 
 *Seln's sentence arrived this morning at the door of the slate exchange, on its schedule and in full. Thirteen words, spoken to a folder, with a queue waiting. Rooke read the hall in ten breaths and turned the warning into a doctrine, and the doctrine is worth, by my reckoning, two or three bouts' worth of margin in a hall where nobody else has one.*
 
@@ -120,7 +120,7 @@ The flags were beautiful. They had been laid by masons who knew stone, with join
 
 The slate had a faint sheen on it where a hundred years of feet had polished it, and in the bars of light from the south windows it looked almost blue.
 
-It was the truest floor he had ever stood on. It was also the hardest. It did not give, and it would not give anything back.
+It was a true floor, and a hard one. It did not give, and it would not give anything back.
 
 He burst once from a standing start along the line of the rope, to see.
 
@@ -146,13 +146,13 @@ She nodded. His four were a day's price on a floor; hers were a coach's ration f
 
 "That's worse," said Lira, and burst back.
 
-She landed beside him, and stood in her landing for a moment with her mouth set, and then shook it out of her legs.
+She landed beside him, and stood in her landing with her mouth set, and then shook it out of her legs.
 
 "Rooke's rule," she said. "One extra burst for a wall is a fair price. Two in a bout is a habit." She looked down at the slate. "On this, I think one extra might be a habit."
 
 "Then don't take it."
 
-"I wasn't going to." She bent and put her palm flat on the flags to feel how cold they were. "I just like to know what a thing costs before somebody tries to sell it to me."
+"I wasn't going to." She bent and put her palm on the flags to feel how cold they were. "I just like to know what a thing costs before somebody tries to sell it to me."
 
 They worked the floor for an hour. He learned that the slate was fast underfoot, faster than boards, so that a step went further than he meant and a turn came round quicker.
 
@@ -184,11 +184,11 @@ He did not find one. He thought about it for the rest of the day, and in the eve
 
 He looked at the second half of that sentence for a long while. It was the whole of the problem, and it was the opposite of item one on his own program.
 
-The draw went up on the hall board that evening, chalked in the steward's square capitals with a cold hand.
+The draw went up on the hall board that evening, chalked in the steward's capitals with a cold hand.
 
 Lira's first bout in the Iron bracket was a quarterfinal, the draw being small, against the second entry of a house whose name nobody in the company had said aloud for four days.
 
-Ephram read it, and turned away from the board, and went to look at something else. Karis read it, and wrote it in her notebook, and said nothing.
+Ephram read it, and turned away from the board, and went to look at something else. Karis read it, and wrote it in her notebook.
 
 Brom read it and stood in front of it with his hands in his pockets, as he had stood in front of his own line at home, and then went and sat by the fire.
 
@@ -196,7 +196,7 @@ Cael read it.
 
 Lira came last. She read it with her coat buttoned to the chin, and stood in front of it for perhaps the space of a breath.
 
-"Good," she said, to nobody, and went up to bed.
+"Good," she said, and went up to bed.
 
 It was the fourth day of the silence. Nobody broke it.
 
@@ -216,7 +216,7 @@ Cael had thought he was asleep. "To her?"
 
 Brom turned over, which in that narrow bed was a considerable undertaking, and was asleep almost at once, as he always was once a thing had been settled.
 
-Cael lay awake for a while longer, listening to the lake, and thought that Brom had just described, in four sentences in the dark, the whole of what the company had been doing for four days.
+Cael lay awake longer, listening to the lake, and thought that Brom had just described, in four sentences in the dark, the whole of what the company had been doing for four days.
 
 Nobody had needed to agree to it. Everybody had simply decided to stand near her and not say it, and trusted her to know.
 
@@ -240,7 +240,7 @@ He watched him for some time.
 
 Then he went out through the gate into the street, not hurrying.
 
-Karis wrote something in the notebook, small, and went back inside without saying anything.
+Karis wrote something in the notebook, small, and went back inside.
 
 The houses warmed up in the long covered bay at the hall's east end, where the stone-carts had once backed in out of the rain. The stewards had roped it into lanes, and each house had a lane and a corner by the draw.
 
@@ -252,7 +252,7 @@ There were eight of them, fighters in blue and slate grey, with a coach Cael did
 
 Cael was at the delegation's rack two strides from Lira, running his own warm-up in his coat as Rooke had ordered, and he saw Lira see the colours. He read it as he would have read an opponent.
 
-Her weight went back a fraction, and her shoulders came up a fraction, and she went still in a particular way he had seen once or twice before and never forgotten.
+Her weight went back, and her shoulders came up a little, and she went still in a particular way he had seen once or twice before and never forgotten.
 
 It was the stillness of somebody bracing for weather.
 
@@ -348,7 +348,7 @@ She was on the delegation's bench by the east stove with her notebook, between t
 
 "Of people." She handed the chart back. "They buy what other people see. A steward's notes. A regular's opinion. Anybody with a seat that has a view, they'll buy the view off him for a cup of something. Then they put it all together into a file on a fighter, and they sell the file to anybody who pays the fee. Houses buy them to get ready for a bout. The betting houses buy them to set a price. Families buy them so they can feel they know something."
 
-She turned a page of her notebook, and Cael saw that she had already headed it, in her square hand, *the trade in records*. "The circuit behaves as though they aren't there. Nobody issues them a licence, so officially nobody sees them. Think about who that suits."
+She turned a page of her notebook, and Cael saw that she had already headed it *the trade in records*. "The circuit behaves as though they aren't there. Nobody issues them a licence, so officially nobody sees them. Think about who that suits."
 
 "The compilers."
 
@@ -380,9 +380,9 @@ They stopped there. They stopped for exactly as long as her round allowed for an
 
 She wrote something. Then the beam went on round the hall, to the stewards and the trestle and the corners, and did not come back.
 
-Cael sat very still with the observation notebook on his knee.
+Cael sat still with the observation notebook on his knee.
 
-He wrote it down that evening.
+By evening he had it in order.
 
 *Third row, hall end. Grey wool, middle years, nothing to look at, which is the point. Her eyes go round the floor on a fixed beat and never stop longer for one thing than another.*
 

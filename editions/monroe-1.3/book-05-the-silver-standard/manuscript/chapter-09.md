@@ -12,13 +12,13 @@ Then he went to his chalk on the west side of the square, with his back to the c
 
 The third floor was the smallest on the meet ground, and the most crowded. It was perhaps thirty feet a side, roped on all four, and along three of those sides the people stood three deep, with more at the back on benches and barrels to see over their heads.
 
-The fourth side was the wall. It rose a stride and a half beyond the east rope, rough grey stone with its iron rings at chest height, and it threw the noise of the crowd straight back at the floor, so that every shout came twice.
+The fourth side was the wall. It stood five feet beyond the east rope, rough grey stone with its iron rings at chest height, and it threw the noise of the crowd straight back at the floor, so that every shout came twice.
 
 The panel sat at a trestle on the north side with their slates. The steward stood at the south rope with the glass, wiping his nose.
 
-Cael stood at his own chalk, on the east side, with the stones behind him and the soft pine two strides back from his heels, and looked at the man across from him.
+Cael stood at his own chalk, on the east side, with the stones behind him and the soft pine two paces back from his heels, and looked at the man across from him.
 
-The ganger stood like a man who moved stone for a living. His feet were wide and flat, his knees a little bent, his arms held out and low from his body with the hands open. He was not a striker; Cael could see that from the chalk.
+The ganger stood like a man who moved stone for a living. His feet were wide and planted, his knees a little bent, his arms held out and low from his body with the hands open. He was not a striker; Cael could see that from the chalk.
 
 Everything about him was built to take hold of a thing and move it where he wanted it to go, and the thing he moved best would be heavy and stubborn and would not want to go.
 
@@ -62,7 +62,7 @@ The glass ran out with no touch on either side.
 
 Cael walked back to his chalk. At the south rope Lira and Brom had found places among the quarry men, Lira with her towel still round her neck and Brom with his darkening forearm held across his chest.
 
-Lira caught his eye and lifted her eyebrows a fraction, which meant *well?* He gave her nothing back, which meant *later*. Brom was not looking at him at all, but at the ganger's feet.
+Lira caught his eye and lifted her eyebrows, which meant *well?* He gave her nothing back, which meant *later*. Brom was not looking at him at all, but at the ganger's feet.
 
 The exchange had cost Cael four steps and a little attention. The read was the cheapest thing he owned; it ran on almost nothing, and on a man as honest in his weight as this one it ran on less.
 
@@ -94,7 +94,7 @@ Halfway through the glass the ganger came hard, all at once, the first time he h
 
 He took it from the firm boards near the middle, not from the soft ones by the wall, and he felt the clean shove of air at his back and the floor come up under him twenty feet away on the far side of the square. The landing beat held him where he stood.
 
-The ganger turned to face him across the whole width of the floor. Neither of them moved for a moment.
+The ganger turned to face him across the whole width of the floor. Neither of them moved.
 
 *One*, Cael counted. *Out of five, on pine. Maybe four, if the pine gives where I can't feel it.*
 
@@ -106,7 +106,7 @@ The third exchange was the one in which the wall changed sides.
 
 Cael could feel it happening and doubted the ganger could. Every reset of the second exchange had put the big man's chalk a little further east, and he had not gone back to his own chalk between exchanges; he had walked to wherever the last run ended and set himself there, a habit of the yard, where a man starts the next lift from where he put the last stone down.
 
-Now he was standing three strides from the east rope, with the wall a stride and a half behind that. The soft boards ran out from the wall two strides into the floor.
+Now he was standing three paces from the east rope, with the wall five feet behind that. The soft boards ran out from the wall two strides into the floor.
 
 So the ganger was standing on firm pine at the edge of soft pine, with the stone behind him, and did not know it.
 
@@ -114,11 +114,11 @@ He came again. He came shorter, more cautious now, cutting the floor with his ha
 
 Cael watched it happen through the read. The ganger set his left foot back to start a run, and the board under it gave, a little sullen, a little late.
 
-The weight that should have gone into the floor and come back out as a drive went down into the sag instead. The run came out of him a fraction short and a fraction slow. He did not know why.
+The weight that should have gone into the floor and come back out as a drive went down into the sag instead. The run came out of him a fraction short and slow. He did not know why.
 
 Cael saw him glance down at his own feet and frown, as a man frowns at a tool that has never failed him before.
 
-He came again, and set his foot back on the soft strip again, and lost the same fraction again.
+He came again, and set his foot back on the soft strip again, and came up short again.
 
 The crowd had begun to see it too, or some of it. The quarry men at the south rope had stopped muttering.
 
@@ -132,7 +132,7 @@ Then he simply stood there, in the landing beat, and let the ganger look at the 
 
 The ganger looked. Cael watched him see it: the stone a stride behind his own heels now, the corner he had wanted for Cael standing empty at his own back, every road out of it running through the boy in front of him. Every line of retreat he had was short, and every one of them started on the soft boards.
 
-"Huh," said the ganger, quite softly, to nobody.
+"Huh," said the ganger, quite softly.
 
 The glass ran out.
 
@@ -148,13 +148,13 @@ But a man who waits on soft boards has to keep re-setting his feet, because soft
 
 He waited for the third one. It came: the ganger's weight eased back onto his heels for a quarter-beat as his rear foot found the sag and settled into it.
 
-For that quarter-beat there was nothing behind him to push from. Cael went in. He went straight, one entry, no burst, no feint, and laid his palm flat on the centre of the big man's chest, under the breastbone, with his own weight behind it.
+For that quarter-beat there was nothing behind him to push from. Cael went in. He went straight, one entry, no burst, no feint, and laid his palm on the centre of the big man's chest, under the breastbone, with his own weight behind it.
 
 He did not push. He did not need to. He stepped back out before the ganger's hands could close, and they closed, a moment later, on the place where he had been, as they had been closing all afternoon.
 
 "Touch," said the steward. "Halcenvane."
 
-The crowd did not cheer, quite. It made a sound of surprise instead, a short indrawn noise from three sides at once. Most of them seemed to have looked away for a moment and turned back to find something decided.
+The crowd did not cheer, quite. It made a sound of surprise instead, a short indrawn noise from three sides at once. Most of them seemed to have looked away and turned back to find something decided.
 
 There was a fifth exchange, because the old form gave five, and the ganger used it in a way Cael had not expected.
 

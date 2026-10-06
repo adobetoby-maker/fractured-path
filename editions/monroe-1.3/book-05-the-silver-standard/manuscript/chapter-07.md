@@ -136,7 +136,7 @@ She closed the register.
 
 "Good luck to your house," she said. "Next."
 
-Seln put the extract back in its pocket, tab outward, and closed the file. On the way back along the porch he walked a half-pace ahead with the file under his arm, and said nothing, and did not look round. At the porch steps he went one way, toward the stewards' table and the floor schedules, and Cael went the other.
+Seln put the extract back in its pocket, tab outward, and closed the file. On the way back along the porch he walked a half-pace ahead with the file under his arm, and did not look round. At the porch steps he went one way, toward the stewards' table and the floor schedules, and Cael went the other.
 
 He put the word in the Log that night, under the clerk's niece, on a line by itself: *Adjacent to it.*
 
@@ -168,9 +168,9 @@ The second was from a Bronze Rank Three of the town itself, who was, the steward
 
 When the halls had emptied, Cael went to look at it.
 
-The pine on the third floor had been laid long ago and walked on every week since. Its boards ran east to west, toward the old wall, and the wall stood close behind the rope on that side, a stride and a half away at most, grey and rough, with the iron rings at the height of a man's chest.
+The pine on the third floor had been laid long ago and walked on every week since. Its boards ran east to west, toward the old wall, and the wall stood close behind the rope on that side, four or five feet away at most, grey and rough, with the iron rings at the height of a man's chest.
 
-He walked the square once at a stroll, letting his feet tell him things. In the middle the boards were firm, and toward the west rope they were firm too. Toward the wall they began, about two strides out, to give.
+He walked the square once at a stroll, letting his feet tell him things. In the middle the boards were firm, and toward the west rope they were firm too. Toward the wall they began, about two paces out, to give.
 
 It was very slight. He would not have noticed it in shoes on a street.
 
@@ -258,21 +258,21 @@ Three things, for one touch. Lira thought it cheap.
 
 She came up the slope.
 
-She did not come at him. She burst past him, one burst flat out, close along his left side where the low edge was lazy, and the pine boomed under her landing a full stride above him on his own hill.
+She did not come at him. She burst past him, one burst at full stretch, close along his left side where the low edge was lazy, and the pine boomed under her landing a full stride above him on his own hill.
 
 The Stone had read her coming and turned to meet a fighter in front of him.
 
 There was no fighter in front of him. There was a fighter above and behind him, and everything about his stance was built to face down a slope, not up one.
 
-He had to turn uphill to find her. Turning uphill, rooted, took him the beat that his counters always took. She had already used that beat. Her palm went flat onto his ribs before his weight had finished moving.
+He had to turn uphill to find her. Turning uphill, rooted, took him the beat that his counters always took. She had already used that beat. Her palm went onto his ribs before his weight had finished moving.
 
 "Touch. Halcenvane."
 
 The gallery made the sound a crowd makes when it has just been told the shape of something.
 
-The Stone stood on his chalk for a moment, breathing, looking at the floor in front of him. Then he did what Rooke's profile had said he was slow to do. He changed.
+The Stone stood on his chalk, breathing, looking at the floor in front of him. Then he did what Rooke's profile had said he was slow to do. He changed.
 
-When the glass turned for the third exchange, he did not go back to the high side. He walked down off it into the flat middle of the floor, where the ramp levelled out, and planted there with both feet square and wide, his arms out a little from his body.
+When the glass turned for the third exchange, he did not go back to the high side. He walked down off it into the middle of the floor, where the ramp levelled out, and planted there with both feet wide, his arms out a little from his body.
 
 He was no longer reading through one foot. He was reading through both. He had given up the hill and built a wall.
 
@@ -286,7 +286,7 @@ Her second burst did not test anything. Each time the Stone shifted his weight f
 
 Lira had seen it on her first pass.
 
-On her second she went into it as hard as Cael had ever seen her go into anything. She came out of it on the far side of the wall with her hand on the Stone's back.
+On her second she went into it with everything she had. She came out of it on the far side of the wall with her hand on the Stone's back.
 
 "Touch. Halcenvane. Two to one. Bout to Halcenvane."
 
@@ -308,7 +308,7 @@ She flexed her strapped right hand and looked at it as if it belonged to someone
 
 "I know," she said, with no flourish at all. Then, because she was Lira: "This morning. Against him. Rooke's got a Wind from a hill house on his list, and nothing next to the name but a question mark. That's the season."
 
-The figure went up on the bracket board a while later, in the rating clerk's square chalk. Lira glanced at it once on her way to the wash-house: twenty-six. A strong Iron's figure, with a little Silver at its edge.
+The figure went up on the bracket board a while later, in the rating clerk's chalk. Lira glanced at it once on her way to the wash-house: twenty-six. A strong Iron's figure, with a little Silver at its edge.
 
 Cael wrote the bout that evening the way he wrote every bout, the sentence first and the bill under it.
 

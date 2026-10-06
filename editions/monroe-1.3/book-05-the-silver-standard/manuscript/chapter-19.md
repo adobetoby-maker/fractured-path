@@ -22,19 +22,19 @@ He had decided, in the end, that he would bring the feet back sooner. He had dec
 
 The steward called his name. He gave his coat to Gault and walked out onto the slate.
 
-Under the exhibition rules, a fighter thrown cleanly onto his back had been touched, as surely as by a flat palm. The foreman knew that rule very well. Cael could see it in the way he stood.
+Under the exhibition rules, a fighter thrown cleanly onto his back had been touched, as surely as by an open palm. The foreman knew that rule very well. Cael could see it in the way he stood.
 
 "Exchange."
 
 Cael gave him the first exchange, as he had planned to.
 
-He kept his eyes early and his feet late. The read gave him the foreman's weight a fraction before it moved, as it always did, and he let the weight come.
+He kept his eyes early and his feet late. The read gave him the foreman's weight before it moved, as it always did, and he let the weight come.
 
 The foreman came straight in, without hurry, low and wide, with his hands open in front of him like a man walking up to a nervous horse.
 
 Cael gave ground a beat late. He gave it a beat late again. He stood on the cold slate and let the big man close, one step and then another, and did not leave.
 
-He had expected the foreman to take the touch the cheap way. The Stone reserve had taken it that way at home, a flat hand on the shoulder and done, because the drill had told him to.
+He had expected the foreman to take the touch the cheap way. The Stone reserve had taken it that way at home, a hand on the shoulder and done, because the drill had told him to.
 
 The foreman did not want the cheap touch. He wanted Cael.
 
@@ -122,7 +122,7 @@ For half a breath Cael was on his knees beside the big man's legs with nothing h
 
 He burst from his knees.
 
-It was the ugliest burst he had ever made. There was no set and no line, only the Wind and a push off the slate with one hand and both knees.
+It was not a burst anybody would have taught. There was no set and no line, only the Wind and a push off the slate with one hand and both knees.
 
 It took him sideways across the floor, low and crooked, and set him down twelve feet away on one knee, and the landing beat locked him there, kneeling, with his left arm hanging and the slate's whole jolt going up through the knee and into the shoulder.
 
@@ -142,7 +142,7 @@ The foreman tried twice more and found nothing to take hold of. The glass ran ou
 
 "Even."
 
-Rooke was at the rope when Cael came round on his circle. He did not say anything.
+Rooke was at the rope when Cael came round on his circle.
 
 He looked at the left arm, and then at Cael's face, and his eyebrows asked the only question the rules allowed a coach to ask.
 
@@ -152,7 +152,7 @@ Rooke looked at him a moment longer.
 
 Then he stepped back from the rope and folded his arms, which was Rooke's way of saying that it was the fighter's bout and the fighter's arm and the fighter's decision, and that he would have a great deal to say about it later.
 
-Cael walked his circle. He held the left arm across his body with the right hand, and walked slowly, as Rooke had told them all to on the first morning, like a horse after a race, and while he walked he did the arithmetic.
+Cael walked his circle. He held the left arm across his body with the right hand, and walked slowly, as Rooke had told them all to on the first morning, and while he walked he did the arithmetic.
 
 He had costed the touch. He had costed the ground. He had costed the two points off the figure.
 
@@ -190,11 +190,11 @@ He kept himself one step beyond it.
 
 It was patient and dull and it hurt. Every time he turned, the left shoulder told him about it.
 
-Late in the third exchange the foreman reached for him, and the reach was a fraction slow.
+Late in the third exchange the foreman reached for him, and the reach was slow.
 
 It was the cold. Cael saw it arrive in the big man's first step, a stiffness in the knee that had not been there in the first exchange.
 
-He stepped inside the slow reach and put his right palm flat on the foreman's hip.
+He stepped inside the slow reach and put his right palm on the foreman's hip.
 
 "Touch. Halcenvane. One to one."
 
@@ -224,7 +224,7 @@ He put his right palm on the foreman's shoulder blade.
 
 "Touch. Halcenvane. Two to one. Bout to Halcenvane."
 
-The landing beat let him go, and he did not move for a moment longer, because he was not sure the arm would let him.
+The landing beat let him go, and he stayed where he was a little longer, because he was not sure the arm would let him.
 
 The foreman turned round. He looked down at Cael, breathing hard, and then at the arm. He held out his own right hand. Cael took it with his right.
 
@@ -234,7 +234,7 @@ The foreman turned round. He looked down at Cael, breathing hard, and then at th
 
 "Slate does that." The foreman nodded at the left shoulder. "It did mine, my first year up in the pits. Get that strapped. Don't let anybody pull it to see if it's out. It's not out. It's only angry." He let go. "Good bout. My lads'll talk about it."
 
-He went back to his rope, and his lads in the gallery cheered him, and he waved at them like a man who has lost a bout and does not mind in the least.
+He went back to his rope, and his lads in the gallery cheered him, and he waved at them as though losing a bout were nothing to mind in the least.
 
 Gault strapped the shoulder in the corner by the east stove, with Rooke standing over him. He did it well, because he had strapped a great many shoulders in his time, and he did not pull it to see if it was out.
 
@@ -242,15 +242,15 @@ Gault strapped the shoulder in the corner by the east stove, with Rooke standing
 
 "Yes," said Cael.
 
-Rooke went on looking at him. Then he took the folded training sheet out of his coat, the one with *Early eyes, late feet* on it in his own square capitals, and held it up between two fingers.
+Rooke went on looking at him. Then he took the folded training sheet out of his coat, the one with *Early eyes, late feet* on it in his own capitals, and held it up between two fingers.
 
 "Slow on purpose," he said, "is still slow." He put the sheet back in his coat. "We'll talk about the floor."
 
-That was all. He went away to the panel's trestle to see about the figure, and did not look back.
+He went away to the panel's trestle to see about the figure, and did not look back.
 
 Lira had been standing at the end of the bench the whole time, with her coat on and her arms folded, watching Gault's hands.
 
-She waited until Rooke had gone. Then she came and sat down on the bench on Cael's right, the good side, and looked at the sling for a while without saying anything.
+She waited until Rooke had gone. Then she came and sat down on the bench on Cael's right, the good side, and looked at the sling without saying anything.
 
 "There's your bill," she said at last.
 
@@ -268,7 +268,7 @@ She went to warm up the reserves, who had a bout before supper.
 
 Cael sat on the bench by the stove with his arm in a scarf and thought that she had just done, in a few sentences, what Hesk did in letters and Rooke did on sheets and Karis did in columns. She had made him say the true thing out loud, to a person, before he was allowed to write it down.
 
-Cael wrote it that evening at the window of his room, with the shoulder strapped and his left arm held across his chest in a sling Gault had made out of a scarf. He wrote slowly, with his right hand, and he did not ration the honesty.
+That evening, with the shoulder strapped and his left arm held across his chest in a sling Gault had made out of a scarf, he wrote slowly, with his right hand, and did not ration the honesty.
 
 *Program note. Item one ran today against a real grappler, on slate, in the cold. The design was to give him the first touch, take the slow exchange, and win from behind, two points down. That much went as written. What wasn't written was what the slow exchange would cost on a floor like this one. Standing still for a glass on stone took the heat out of my legs, and the cold took a quarter-beat off my feet, and on slate there's no spring to buy a quarter-beat back with. So he got a hand on me that he shouldn't have got.*
 
@@ -276,11 +276,11 @@ Cael wrote it that evening at the window of his room, with the shoulder strapped
 
 *Of what the panel will score today, two shares were mine by plan and one was the floor's. I meant to spend two points. I've spent two points and a shoulder. Rooke's file gets the true account. The panel's record has its wobble. My shoulder has four days.*
 
-*Inventory, short, because the right hand is doing all the work. Wind: three of four on slate today, one in the morning and two for him, and one of those two the worst burst I've ever made. The hip after, as usual. Pressure: untouched; the right shoulder has had a quiet week. Compression: held at contact, and paid for in the left. Ember: none. Shadow: rent from waking, as every day; two drifts this week, both in the gaps, none in the work; deployment none.*
+*Inventory, short, because the right hand is doing all the work. Wind: three of four on slate today, one in the morning and two for him, and one of those two ugly. The hip after, as usual. Pressure: untouched; the right shoulder has had a quiet week. Compression: held at contact, and paid for in the left. Ember: none. Shadow: rent from waking, as every day; two drifts this week, both in the gaps, none in the work; deployment none.*
 
 *Seln told me at the mill town to buy some variance. I've bought it. Paid full price, first installment.*
 
-He sat for a while after that with the pen in his right hand. Then he turned the page and wrote the other thing, the thing that had been sitting under the first all afternoon.
+He sat with the pen in his right hand. Then he turned the page and wrote the other thing, the thing that had been sitting under the first all afternoon.
 
 *Auremont's two were in the front row for both bouts today. The older one writes after the exchanges, from memory, a whole page at a time. The younger one writes in my gaps. Between exchanges, in the landing beat, in the walk back to the mark, when I turn after a touch. Only then. She wasn't writing my fights. She was writing what I do when I'm not fighting.*
 
@@ -348,7 +348,7 @@ The lamp on the third terrace burned where it always burned. Cael had the Log on
 
 Lira came down the steps behind him with a sheet of paper in one hand and two mugs in the other. She gave him a mug. She did not give him the paper.
 
-She sat down on the cold slate beside him and held the paper folded against her knee with her whole hand flat on it.
+She sat down on the cold slate beside him and held the paper folded against her knee with her whole hand on it.
 
 "Rooke went to the coaches' supper," she said. "Somebody there had the first continental pages. Only the houses that are already sure of a place at Norhold. Rooke paid for them, and then he came and found me before he showed anybody else, because he knows what I'm like at night with a page I haven't read." She held it out. "Read it. Then I'll tell you about the coat-rack. I've been saving the coat-rack for two days."
 
@@ -400,7 +400,7 @@ Cael said nothing for a while. She had earned a while. Then, because she had bro
 
 She drank the last of her mug. "So she nodded at the coat-rack, and I nodded back. One each. That's the whole estate. Institution's bankrupt; the person gets paid."
 
-She set the empty mug on the step between them. Then she put her hand on her coat, over the folded page, and was quiet for a while.
+She set the empty mug on the step between them. Then she put her hand on her coat, over the folded page, and was quiet.
 
 "She's not faster than me," she said.
 
@@ -454,13 +454,13 @@ Brom put the page down.
 
 The meet record went up on the exchange's board at the first bell the next morning, while the wagons were being loaded on the quay.
 
-Seln copied it, as he copied everything, in a neat column on a fresh sheet, with the travel file under his arm and the cold coming in through the great door behind him. Cael stood beside him with his arm in Gault's scarf and read the exhibition leaf for himself.
+Seln copied it in a neat column on a fresh sheet, with the travel file under his arm and the cold coming in through the great door behind him. Cael stood beside him with his arm in Gault's scarf and read the exhibition leaf for himself.
 
 There were two figures by his name this time: twenty-six and twenty.
 
-Beside them, smaller, in the clerk's square chalk, stood the unrounded composites. Twenty-six exactly. Twenty and a third.
+Beside them, smaller, in the clerk's chalk, stood the unrounded composites. Twenty-six exactly. Twenty and a third.
 
-He looked at them, and then at the column he carried in his head, the six figures from the wool town and the mill town that had kept time like a metronome. Twenty-three, twenty-two, twenty-four, twenty-two, twenty-one, twenty-three. And now twenty-six and twenty, the highest figure he had ever been given beside the lowest, posted the same morning from the same hall.
+He looked at them, and then at the column he carried in his head, the six figures from the wool town and the mill town that had kept time like a metronome. Twenty-three, twenty-two, twenty-four, twenty-two, twenty-one, twenty-three. And now twenty-six and twenty, his highest figure of the season beside his lowest, posted the same morning from the same hall.
 
 The band had come apart at both ends. It breathed. It looked like a fighter who had good days and bad ones, on floors that suited him and floors that did not.
 
@@ -468,7 +468,7 @@ Halcenvane stood first of six on the meet. Lira had taken the Iron and Brom the 
 
 On the season's count the house was still second, by less than before, with one meet left on the card and the threshold close enough to see. Rooke read the board from the bottom up, folded his copy into his coat, and said, "Wagons."
 
-Nobody moved at once. Lira stood in front of the Iron leaf with her hands in her pockets and read her own name at the top of it, and the figure beside it, and the word under it that the clerk had chalked in square capitals: *Title.* She read it the way she had read the milestone on the ninth day of the road, all at once and without stopping. Then she did not look away from it. She looked at it for a good while, and Cael, standing behind her with his arm in a scarf, understood that this was the difference, and did not say anything.
+Nobody moved at once. Lira stood in front of the Iron leaf with her hands in her pockets and read her own name at the top of it, and the figure beside it, and the word under it that the clerk had chalked in capitals: *Title.* She read it the way she had read the milestone on the ninth day of the road, all at once and without stopping. Then she did not look away from it. She looked at it for a good while, and Cael, standing behind her with his arm in a scarf, understood that this was the difference, and did not say anything.
 
 Brom read the Copper leaf with his head on one side and said, "Same line again," with deep satisfaction. Ephram copied the whole record into his file book, both brackets and the exhibitions and the house totals, standing up, in his careful hand, and when Karis asked him why, when Seln was already copying it, he said that a champion of the upper Iron kept his own files and that he did not intend to stop being one just because he had lost a semifinal. Gault picked up his case by its handle and held it a little higher than he needed to, so that the registry clerk at the next table could see the stitching.
 

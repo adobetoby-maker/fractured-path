@@ -18,7 +18,7 @@ She wanted to know about everything. She asked about the coast house's coach and
 
 Cael had never seen her away from the bluff.
 
-On the hill she was the house, the way the long wall was the house, or the bell; she moved through it at its own pace and was part of its furniture. Here she seemed smaller and quicker, and a good deal younger. She laughed once at something Ephram said, a short surprised laugh that made Ephram go pink to the ears and stay that way for the rest of the meal.
+On the hill she was the house, the way the long wall was the house, or the bell; she moved through it at its own pace and was part of its furniture. Here she seemed smaller and quicker, and a good deal younger. She laughed once at something Ephram said, a short surprised laugh that kept Ephram's eyes on his plate for the rest of the meal.
 
 Bracken ate steadily and said very little. He had the year's last administrative pouch on the bench beside him, and once in a while he put a hand on it to make sure it was still there.
 
@@ -80,19 +80,17 @@ Cael turned down the lamp.
 
 ---
 
-On the fourteenth day the road began to sort itself.
+On the fourteenth day the road began to sort itself, and the first of them to see it happen was Brom, because he had been looking at the same load of pine since breakfast.
 
-It happened slowly, over a morning, and for a long time none of them noticed it. The road had been busy for a week. For the last two days it had been crowded, with three lanes of traffic where there was room for one, the waystations full by noon and the late arrivals sleeping in their wagons in the yards.
+It had been in front of them for three hours: a long ox-wagon of trimmed trunks, eight beasts in the yoke and a carter walking at the leaders' heads in a sheepskin coat, with a pipe in his teeth that had gone out somewhere around the second bell and that he had not troubled to light again. The road had been crowded for two days, three lanes of traffic where there was room for one, and the timber had held the crown of it by sheer weight, at an ox's pace, with the whole north road behind.
 
-Then, somewhere in the middle of the fourteenth morning, the crowd changed its shape.
+A little before noon the carter looked back over his shoulder.
 
-The freight moved over. Nobody told it to. There were no marshals on that stretch of road, no flags, no officers on horseback.
+He looked at the two plain wagons, at the kit roped under canvas and the young faces on the benches, and at the green wagons coming up behind. Then he took the dead pipe out of his mouth, whistled once to his leaders, and walked them over onto the verge, eight oxen and a load of pine, without a word. He stood at their heads while the wagons went by, and did not look up.
 
-But the long ox-drawn wagons of timber and grain and stone, which had held the crown of the road for a week by sheer weight, began one after another to draw onto the verge side and let the academy columns by.
+"He's let us past," said Brom, as if reporting a change in the weather.
 
-A carter would look back over his shoulder, see colours coming, and edge his team across without a word. A coach with the mail held back at a narrow bridge to let a delegation's wagons cross first.
-
-By noon the whole road had arranged itself into two streams. The heavy traffic ground along on the left, and the delegations moved freely up the middle past timber and grain and stone and the patient heads of oxen, and it held that way mile after mile, as though somebody had drawn it up in an order and posted it at every waystation.
+He was not the only one. Ahead, the long freight wagons of timber and grain and stone were drawing aside one after another, and at the bridge beyond it a coach with the mail had pulled up short to let a delegation cross first. There were no marshals on that stretch of road, and no flags. By the middle of the afternoon the whole road had made itself into two streams, the heavy traffic grinding along on the verge side and the academy columns moving up the crown past the patient heads of oxen, mile after mile.
 
 Ephram stood up on the second wagon's bench to see better. "Who told them?"
 
@@ -102,21 +100,11 @@ Ephram stood up on the second wagon's bench to see better. "Who told them?"
 
 Rooke shrugged. "Because they did it last time."
 
-Karis had been watching the whole thing from the tailboard, with her map shut on her knee and her eyes going from the carters to the columns and back. Now she put the map away inside her coat.
+Karis put her map away inside her coat. "The city starts here," she said. "Everything from now on is just the city getting closer together."
 
-"The city starts here," she said. "Everything from now on is just the city getting closer together."
+At a ford a little further on, another timber wagon had gone in too deep and stuck, and the columns stopped behind it without anybody's ordering them to. For the better part of an hour the green wagons' fighters and the coast house's riders stood up to their knees in cold water with their shoulders against the load, and Brom and both reserves with them. The carter apologized to every one of them in a dialect nobody could follow. When the wagon came free he drew straight over onto the verge and stood there, hat in hand, while every column went by him, and Cael watched him stand.
 
-Cael looked at the two streams of traffic going north together, the one giving way to the other, and nobody anywhere making them.
-
-A little further on, at a ford, a big timber wagon had gone in too deep and stuck, and the delegation columns stopped behind it without anybody's ordering them to. For the better part of an hour the green wagons' fighters and the coast house's riders stood up to their knees in cold water with their shoulders against the timber, and Brom and both reserves with them. The carter apologized to every one of them in a dialect nobody could follow.
-
-When it came free, the carter drew straight over onto the verge side and waited, hat in hand, for every column to go by him before he went on.
-
-Cael had spent the year among rules. He had watched a registrar certify a list and a charter put him on a roster, and a whole circuit shift around one old sentence that nobody had remembered writing. He had learned how much a written rule could hold.
-
-But here was a rule that nobody had written, and that nobody enforced, holding a hundred carters to the side of a road on a cold bright morning a long way from any office.
-
-It held because everybody on the road expected it to. Somebody had done it once, and somebody else had done it the cycle after, and now it was the road.
+He had spent the year among rules that somebody had written: a registrar's certificate, a dead board's clause, a schedule nobody had read in forty years. Nobody had written this one, and nobody enforced it. Somebody had done it once, and somebody else the cycle after, and now a man with wet legs and his hat in his hand stood on a verge a long way from any office and kept it, because it was the road.
 
 He wrote it down at the next halt in four lines, and the last of them said: *Customs don't need a clerk. That's what makes them so hard to argue with.*
 
@@ -146,7 +134,7 @@ And in the middle of everything, rising out of the city's heart in tier on tier,
 
 "That's not a building," said Ephram.
 
-Nobody answered him. Cael was counting, because counting was what he did when something was too large to take in any other way. He could make out separate halls, joined by roofed galleries and stepped tiers into one structure. There were seven, eight; perhaps eleven.
+Nobody answered him. Cael was counting, because counting was what he did when something was too large to take in any other way. He could make out separate halls, joined by roofed galleries and stepped tiers into one structure. There were seven, eight; perhaps ten.
 
 Two tall towers stood at either side of the largest, east and west, paired like gateposts.
 
@@ -154,9 +142,9 @@ He knew from Rooke's briefing that the main floor alone sat eight thousand. Look
 
 He tried to fit Ostrand inside the outer wall and found that it went in comfortably, with room left over for its fields. He tried Ardenmere and found it would have made a decent district, with a market and two good streets.
 
-"Four times Ostrand," said Karis slowly. She had her notebook out and was not writing in it. "The prospectus said four times Ostrand." She looked at the city for a long time. "The prospectus was counting people. It wasn't counting that."
+"Four times Ostrand," said Karis slowly. She had her notebook out and was not writing in it. "The prospectus said four times Ostrand." She looked at the city again. "The prospectus was counting people. It wasn't counting that."
 
-Brom had stood up in the wagon to see, and stayed standing, one hand on the canvas hoop. He looked at the city for a long time with his face quite still. Then he said, slowly, "My whole village would go in one of those towers. With the cows."
+Brom had stood up in the wagon to see, and stayed standing, one hand on the canvas hoop. He looked at the city with his face quite still. Then he said, slowly, "My whole village would go in one of those towers. With the cows."
 
 "With the cows on the upper floors," said Ephram.
 
@@ -164,7 +152,7 @@ Brom had stood up in the wagon to see, and stayed standing, one hand on the canv
 
 Gault had not moved from his place by the case. He was looking past all of them at the Concourse with an expression Cael had never seen on him, part wonder and part something that looked very much like dread.
 
-"It's bigger," he said at last, to nobody. "I'd have sworn it was big enough last time." He put his hand on the case's handle. "I suppose they've added to it. Or I've shrunk."
+"It's bigger," he said at last. "I'd have sworn it was big enough last time." He put his hand on the case's handle. "I suppose they've added to it. Or I've shrunk."
 
 Lira said nothing at all.
 
@@ -202,7 +190,7 @@ There were the coast house's colours, already ticked, and a green he recognized 
 
 A marshal chalked a tick beside it while they watched.
 
-Withrow had come up from the carriage behind to stand at the second wagon's wheel and see it done. She stood with her hands in the pockets of her dark coat and looked at the panel with Halcenvane's name on it, eleventh of fourteen, for longer than a panel of painted wood required. She did not say anything. When the marshal had moved on to the next tally, she reached up and laid one gloved hand flat on the wagon's side for a moment, like a rider laying a hand on a horse that has brought her a long way. Then she went back to her carriage.
+Withrow had come up from the carriage behind to stand at the second wagon's wheel and see it done. She stood with her hands in the pockets of her dark coat and looked at the panel with Halcenvane's name on it, eleventh of fourteen, for longer than a panel of painted wood required. When the marshal had moved on to the next tally, she reached up and laid one gloved hand flat on the wagon's side for a moment, like a rider laying a hand on a horse that has brought her a long way. Then she went back to her carriage.
 
 Bracken, at her elbow, had his pocket-book out. He wrote something in it, briefly, and closed it, and Cael would have given a good deal to know what a registrar wrote on the day his house was ticked onto the continent's board.
 
@@ -238,7 +226,7 @@ Rooke answered before anybody had asked. "That's the champion's gate. It hangs t
 
 Cael looked at it for a long time as the wagons crawled up the processional way. Somewhere in that building was the other thing with the same name, the reference profile in its sealed case. He thought about the two of them, the cloth outside and the tables within, and how the city had hung the one where everybody could see it.
 
-He wrote it out that night, in a room at the top of Halcenvane's floor in a guesting-house, with the noise of the processional way still coming up through the shutters.
+That night, in a room at the top of Halcenvane's floor in a guesting-house, with the noise of the processional way still coming up through the shutters, it went into the Log.
 
 *Two things in that building carry the same name. One is a set of tables in a sealed case that nobody may touch for the length of a cycle. The other is a strip of old cloth hung where the whole city can see it, over the gate the last winners walked out of.*
 
@@ -296,7 +284,7 @@ Under it, in the column for the number, she had written nothing yet, and she was
 
 "How many?" he said.
 
-She thought about it. Then she wrote, in her square hand, two words, and showed him: *All of them.*
+She thought about it. Then she wrote two words, and showed him: *All of them.*
 
 *Eighteenth day,* he wrote, later. *I counted out of habit and the count wouldn't close. Every house in this city is watched by every window in it.*
 

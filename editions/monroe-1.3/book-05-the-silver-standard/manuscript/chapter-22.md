@@ -2,7 +2,7 @@
 
 Lira warmed up for the builder in the corridor behind the main hall, alone, with her back to a stack of folded trestles.
 
-She did not do her bursts; she did the speed line on foot, up and down the flagstones, with her hands loose and her eyes on nothing, and then stood still for a long time with her palms flat on the cold wall and her head down between her arms, breathing. Cael watched from the door and did not go in. He had learned a long time ago which of her silences wanted company and which wanted a witness, and this one wanted neither.
+She did not do her bursts; she did the speed line on foot, up and down the flagstones, with her hands loose and her eyes on nothing, and then stood still for a long time with her palms on the cold wall and her head down between her arms, breathing. Cael watched from the door and did not go in. He had learned a long time ago which of her silences wanted company and which wanted a witness, and this one wanted neither.
 
 When the steward called the first semifinal she straightened up, shook out her hands, and came past him into the hall.
 
@@ -30,17 +30,15 @@ The door was the gap between the last push and the builder himself.
 
 He stepped into it.
 
-Lira went out through the side of the triangle with one burst, low and flat, before the door shut. She came down out of the landing beat on clean floor by the south rope with her hand already up.
+Lira went out through the side of the triangle with one burst, low and hard, before the door shut. She came down out of the landing beat on clean floor by the south rope with her hand already up.
 
-The builder had expected exactly that. He had built the triangle to have a side a fighter could burst through, and he had built it so that whoever went through it landed in one particular place. As Lira's landing beat locked her there, he was already walking to it, without hurry, and he put a flat palm on her shoulder before the beat let her go.
+The builder had expected exactly that. He had built the triangle to have a side a fighter could burst through, and he had built it so that whoever went through it landed in one particular place. As Lira's landing beat locked her there, he was already walking to it, without hurry, and he put a palm on her shoulder before the beat let her go.
 
 "Touch. Hill-river house."
 
 There was a sound from the north side of the gallery, like air going out of a bag.
 
 Lira walked her circle without looking at the builder or at the rope. She looked at the floor where the three pushes had been, and Cael could see her drawing them again behind her eyes, the way she drew a new floor's soft places.
-
-Rooke said nothing at all.
 
 "She let him close it," said Brom, very low. "She stood in the mouth and let him close it, and went out the side he made for going out of."
 
@@ -74,7 +72,7 @@ He answered it. He had to, because a palm that close to the shoulder might becom
 
 He went to the second corner. She was there too.
 
-She did not burst to get there. She had seen where the second corner would be from the angle of the first. It was where it always was, because a builder who has a good design does not vary it, and she walked across the square to it while he was still finishing the first. She was waiting a stride off the place when he arrived, and in the beat after he planted she came in at his ribs. It was another glancing nothing, and he had to cover it, and the second push went down late and thin.
+She did not burst to get there. She had seen where the second corner would be from the angle of the first. It was where it always was, because a builder who has a good design does not vary it, and she walked across the square to it while he was still finishing the first. She was waiting a pace off the place when he arrived, and in the beat after he planted she came in at his ribs. It was another glancing nothing, and he had to cover it, and the second push went down late and thin.
 
 The third corner she left alone.
 
@@ -116,13 +114,13 @@ Every push he laid needed the same thing first, whatever the design: a stop, and
 
 Lira had found the man.
 
-She came in at the fourth stepping-stone, not to strike at the shoulder this time but to pass him. She arrived on the settle, the instant of choice, when his knees had committed to planting and his eyes had not yet chosen the next angle. She went by him on the inside so close that her shoulder brushed his sleeve, turned behind him, and put her palm flat between his shoulder blades.
+She came in at the fourth stepping-stone, not to strike at the shoulder this time but to pass him. She arrived on the settle, the instant of choice, when his knees had committed to planting and his eyes had not yet chosen the next angle. She went by him on the inside so close that her shoulder brushed his sleeve, turned behind him, and put her palm between his shoulder blades.
 
 "Touch. Halcenvane. One to one."
 
 The north side of the gallery came up off the benches.
 
-The builder turned round slowly. He looked at Lira for a long moment, and Cael saw the moment when he understood that she had not beaten his line. She had walked straight through the pause he took before every line he had ever built.
+The builder turned round slowly. He looked at Lira, and Cael saw the moment when he understood that she had not beaten his line. She had walked straight through the pause he took before every line he had ever built.
 
 He tried the second change then, at once, with half the glass still to run. He stopped pausing, and laid his pushes on the move, without planting, each one quicker and shorter and weaker, trying to give her no settle to arrive on.
 
@@ -142,7 +140,7 @@ The builder came out to it still building, because building was what he was. But
 
 Lira was not there. She had moved on.
 
-She ran a new thing, one he had not seen. She stayed far from him, at the length of the square, and made him come to her, so that every push he laid was laid toward her and never round her. Then she simply was not where it pointed, because she was walking, early and easy, a stride to one side or the other, so that each push ran past her into empty floor like a ditch dug beside the road. Twice she came in close on his settle, as she had for the touch, and twice he covered just in time. He had learned that much. Twice she went away again without trying to finish, as though finishing were somebody else's business.
+She ran a new thing, one he had not seen. She stayed far from him, at the length of the square, and made him come to her, so that every push he laid was laid toward her and never round her. Then she simply was not where it pointed, because she was walking, early and easy, a step to one side or the other, so that each push ran past her into empty floor like a ditch dug beside the road. Twice she came in close on his settle, as she had for the touch, and twice he covered just in time. He had learned that much. Twice she went away again without trying to finish, as though finishing were somebody else's business.
 
 The glass ran out with the builder standing in the middle of the square, breathing hard, surrounded by pushes he had laid on empty floor, and Lira walking her circle by the south rope with her hands in front of her, looking as fresh as she had at the first call.
 
@@ -218,7 +216,7 @@ He had beaten the eighth seed, and the top seed, and Karis. He had his title fro
 
 "He knows her better than she'd like," said Cael.
 
-Lira had fought four exchanges that morning against the best fighter in the region, and spent less than anybody could have believed. But she had spent something, and Cael could see it in the way she stood at her mark. She stood a little heavier on her heels than she had at the first call, and her hands were a fraction slower to settle.
+Lira had fought four exchanges that morning against the best fighter in the region, and spent less than anybody could have believed. But she had spent something, and Cael could see it in the way she stood at her mark. She stood a little heavier on her heels than she had at the first call, and her hands were slower to settle.
 
 Ephram could see it too. He had been looking for it.
 
@@ -242,7 +240,7 @@ Lira walked her circle with her eyebrows up. At the rope she drank her warm wate
 
 She took the second exchange off him, and it cost her more than anything had cost her all morning.
 
-Ephram did not come at her this time. He waited. He stood off at the length of the square and let her come, and she came, because she was the one who had been touched and a Wind fighter who has been touched wants the floor back. She tried him on the outside, at speed, and he gave her nothing but a turn. She tried him on the inside and he gave her another. He was watching her feet, as he had learned to on the slate, and her feet were a fraction heavier than they had been that morning, and he could see it.
+Ephram did not come at her this time. He waited. He stood off at the length of the square and let her come, and she came, because she was the one who had been touched and a Wind fighter who has been touched wants the floor back. She tried him on the outside, at speed, and he gave her nothing but a turn. She tried him on the inside and he gave her another. He was watching her feet, as he had learned to on the slate, and her feet were heavier than they had been that morning, and he could see it.
 
 Cael could see him seeing it. The read showed Ephram's weight settling a hair earlier on each of her approaches, a man getting used to a rhythm and starting to lean on it.
 
@@ -278,7 +276,7 @@ The steward's flag went up for Halcenvane, the Wind.
 
 There was a long breath in the hall, and then the north side of the gallery stood up.
 
-Ephram stood very still in the middle of the floor, with his arm still half out, and then lowered it. He looked at the steward, and nodded once, and looked at Lira.
+Ephram stood in the middle of the floor, with his arm still half out, and then lowered it. He looked at the steward, and nodded, and looked at Lira.
 
 "How much?" he said.
 
@@ -290,7 +288,7 @@ Ephram stood very still in the middle of the floor, with his arm still half out,
 
 The figures went up a few minutes later: Lira twenty-six, Ephram twenty-five. It was her fourth title of the year, and she had not lost a bout. Ephram stood second in the region's Iron.
 
-He did not go to the stove this time. He walked back to the delegation's rope with his chin up and his ears very red, took his coat from Gault, and put it on. Then he took out the file book and wrote in it standing, as he had at the quarry town.
+He did not go to the stove this time. He walked back to the delegation's rope with his chin up, took his coat from Gault, and put it on. Then he took out the file book and wrote in it standing, as he had at the quarry town.
 
 Cael went and stood beside him and did not say anything.
 

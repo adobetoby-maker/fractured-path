@@ -8,7 +8,7 @@ His house was a small one from a valley to the west, and its block on the card h
 
 The draw had given him Brom.
 
-Cael had come to the second floor because Brom had asked him to, in the way Brom asked for things, which was to say at breakfast, to nobody in particular, that the Copper ran on the middle floor and the light there was bad.
+Cael had come to the second floor because Brom had asked him to, in the way Brom asked for things, which was to say at breakfast, looking at his bowl, that the Copper ran on the middle floor and the light there was bad.
 
 Lira had come because she had won, and could not sit still, and wanted to be somewhere a bout was happening that she did not have to think about. Behind them the main floor was still roaring for the next pair, and the sound came through the timber partition flattened and far off, like weather in another valley.
 
@@ -26,7 +26,7 @@ The boy came off his chalk because he had been told to, and went at Brom with a 
 
 He did not counter. He waited, very still, while the boy recovered and set himself to try again.
 
-Then, with no hurry at all, Brom stepped in and laid his open right hand flat on the boy's chest, over the breastbone, and held it there for the space of a breath.
+Then, with no hurry at all, Brom stepped in and laid his open right hand on the boy's chest, over the breastbone, and held it there for the space of a breath.
 
 It was the clearest touch Cael had ever seen. There was nothing in it to argue about. There was nothing in it to hurt.
 
@@ -44,7 +44,7 @@ Brom walked over to the rope where the boy's coach stood. He bowed to the man, p
 
 The boy nodded several times, very fast, and went to his coach.
 
-The figure went up while the next bout was still on the floor: fifteen. A Copper figure, square in the middle of its band.
+The figure went up while the next bout was still on the floor: fifteen. A Copper figure, in the middle of its band.
 
 "Fifteen," said Lira, with some indignation, when they read it. "For that."
 
@@ -60,7 +60,7 @@ Her name on the card was a line like any other: a market house in the hills, Iro
 
 Cael had read it in the profiles stack, and Brom had read it twice. *Rank Four on paper. Fights like a Seven. Buried.*
 
-She was perhaps eighteen, square in the shoulders, with her hair cropped close and a fair-day fighter's habit of standing loose until the moment she was not. The chalked board in the square had her at short odds. The chalk, Rooke said, knew things the paper did not.
+She was perhaps eighteen, broad in the shoulders, with her hair cropped close and a fair-day fighter's habit of standing loose until the moment she was not. The chalked board in the square had her at short odds. The chalk, Rooke said, knew things the paper did not.
 
 Her coach stood at the far rope with his arms folded. He was a lean man in the market house's brown, and Cael noticed that he did not call to her once, before or during. He watched her the way a man watches cattle he has bought.
 
@@ -72,7 +72,7 @@ She was fast. That was the first thing, and it was wrong in a way the floor coul
 
 Iron Skin fighters did not need to be fast. Their Path was a hardening, a skin that took blows and gave nothing back but the iron under it, and most of them stood and let the other fighter come and break on them.
 
-She did not stand. She came off her chalk in three quick steps and struck before Brom had finished setting his feet: a hardened forearm across his ribs, short and flat, the blow of somebody who has hit grown men at fairs for money and never wasted a swing. It rang. Brom had not hardened in time.
+She did not stand. She came off her chalk in three quick steps and struck before Brom had finished setting his feet: a hardened forearm across his ribs, short and hard, the blow of somebody who has hit grown men at fairs for money and never wasted a swing. It rang. Brom had not hardened in time.
 
 "Touch. Hills."
 
@@ -134,7 +134,7 @@ He did not finish taking the blow first. That was the thing Rooke had spent a wh
 
 Now he answered while the hardness was still in the struck arm, through it, with the hip and the shoulder behind it. The force of her own hook went back down the line it had come up, and Brom's drive went with it.
 
-She left the floor. She landed on her back on the pine, flat, with a crack that went through the boards to Cael's feet.
+She left the floor. She landed on her back on the pine with a crack that went through the boards to Cael's feet.
 
 "Touch. Halcenvane."
 
@@ -148,13 +148,13 @@ She came at him high and low, with forearm and knee and a low hardened shin to t
 
 But Brom had spent a whole exchange letting her show him how she moved when she believed she was winning. He had seen the rest of her inventory in the margins of the hook, the steps before it and the resets after it.
 
-When she reset from a missed shin and her weight came down for a quarter-beat on her heels, he stepped in and put his forearm flat across her chest and pushed, firmly, as a man pushes a door shut.
+When she reset from a missed shin and her weight came down for an instant on her heels, he stepped in and put his forearm across her chest and pushed, firmly, as a man pushes a door shut.
 
 "Touch. Halcenvane. Two to one. Bout to Halcenvane."
 
 She sat down on the boards, deliberately this time, and laughed once, without much breath.
 
-Brom came across the floor and held out his hand. She looked at it, and took it, and he pulled her up easily, and for a moment they stood with their hands still clasped, two Iron Skins in a Copper bracket.
+Brom came across the floor and held out his hand. She looked at it, and took it, and he pulled her up easily, and they stood a moment with their hands still clasped, two Iron Skins in a Copper bracket.
 
 "Your card says Copper," she said.
 
@@ -200,7 +200,7 @@ He found her afterward at the gallery rail of the main floor, with the grey note
 
 "I paid," said Karis. "The bouts are the fee. I've got the floor for the whole meet now, and a seat at the rail, and nobody asks me why I'm here." She turned the notebook toward him without being asked, as she had begun doing some time last year and had never once remarked on. "Look."
 
-The notebook had a new section. Its first page was headed *Wool town* in her square hand, and under the heading the meet had been taken to pieces and laid out in columns.
+The notebook had a new section. Its first page was headed *Wool town* in her neat hand, and under the heading the meet had been taken to pieces and laid out in columns.
 
 There was the composition of every panel that had sat that morning, judge by judge, with a note on which of them held a slate close to the chest and which laid it flat.
 
@@ -262,7 +262,7 @@ He came to the rope afterward towelling his neck, and nodded across at the knot 
 
 "Pressure-testing," said Ephram. "Rooke says good is when you can do it. Finished is when you can do it while somebody who's studied you is trying to stop you." He picked up his kit. "I've been good for a while. I'd like to find out about the other one."
 
-He went off to the wash-house. Cael stood at the rope for a moment longer, watching the knot of students break up and drift away, the girl in green last of all, her notebook shut now and held flat against her chest.
+He went off to the wash-house. Cael stood at the rope a little longer, watching the knot of students break up and drift away, the girl in green last of all, her notebook shut now and held against her chest.
 
 He wrote it in the observation notebook on the bench by the rope.
 
@@ -302,7 +302,7 @@ Brom put his bread down. He looked at his bruised arm on the table for a while, 
 
 "He wasn't coaching," he said at last. "He was keeping. She's worth more to him as a Four who wins than a Seven who wins, because a Four who wins every fair-day purse in the hills is a living, and a Seven just gets matched against other Sevens." He picked up the bread again. "I'd like to know who files for her. I'd like it to be somebody."
 
-Nobody said anything to that. Rooke, at the end of the table, took out his pencil and wrote something in the margin of the coaching file, and then, after a moment, wrote something else under it.
+Rooke, at the end of the table, took out his pencil and wrote something in the margin of the coaching file, and then, after a moment, wrote something else under it.
 
 Cael thought about the sheet Rooke had marked in the profiles stack: *Somebody's keeping her low on purpose.*
 

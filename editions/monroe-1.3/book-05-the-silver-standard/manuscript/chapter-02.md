@@ -4,7 +4,7 @@ His registry name was on the fifth line, and it took him a moment to know it.
 
 *Caelen Hesk-ward, 41-7843-V, enrolled practitioner; see demonstration provision, enrollment basis, filed.*
 
-The entry instrument lay open on the records-hall counter with its four companions stacked square beside it, and Bracken had turned it round so that Cael could read it right way up, which he did not need. It was the fourth day of term, a Fifth-day, in the hour after the morning's session let out, and the stone hall was empty except for the three of them and the clerk at the far desk, who was copying something with his tongue between his teeth. Bracken had sent a boy to the residence with the first bell, carrying a half-sheet that said *Records hall, the hour after session. Bring nothing.* Nobody else had been asked. Withrow had declined to come down, and had said so to Bracken in Cael's hearing in the covered walk the afternoon before, in five words: "It's a filing. File it."
+The entry instrument lay open on the records-hall counter with its four companions stacked beside it, and Bracken had turned it round so that Cael could read it right way up, which he did not need. It was the fourth day of term, a Fifth-day, in the hour after the morning's session let out, and the stone hall was empty except for the three of them and the clerk at the far desk, who was copying something with his tongue between his teeth. Bracken had sent a boy to the residence with the first bell, carrying a half-sheet that said *Records hall, the hour after session. Bring nothing.* Nobody else had been asked. Withrow had declined to come down, and had said so to Bracken in Cael's hearing in the covered walk the afternoon before, in five words: "It's a filing. File it."
 
 So it was a filing, and there were three people at it.
 
@@ -42,7 +42,7 @@ Cael waited.
 
 "Don't." Bracken slid the bundle into its leather wallet and turned the flap down over the house's seal. "If you must thank somebody, thank whoever drafted that form. He's been dead for sixty years, and nobody has ever thanked him for anything."
 
-He pressed the wallet's catch shut and set it on the counter's end, squared to the edge, for the courier.
+He pressed the wallet's catch shut and set it on the counter's end for the courier.
 
 "Noon," he said.
 
@@ -52,7 +52,7 @@ Karis wanted to see it leave the hill.
 
 "Once it's in the courier's bag it belongs to somebody else," she said on the records-hall steps. "I've been minding it for twelve weeks. I'd like to watch it go." She said it the way she said anything about her own feelings, as a finding she had checked and was now reporting, and Cael went down the bluff road with her as far as the first bend. A stone bench stood there under a thorn the wind had bent half over, and the whole valley lay open below it, river and bridge and town and the long brown fields going away to the hills.
 
-The noon courier came down past them at a working trot, a lean man on a grey, with the house's wallet strapped flat inside a case against the saddlebag. He touched his hat to Karis without slowing. They watched him take the switchbacks one after another, a rider and then a small rider and then a speck with a grey under it. At the road's foot he went by the two men in road-grey coats just as the other two came up the river street to meet them, unhurried, on the bell. None of the four so much as turned a head. Nobody ever looks at a courier; that is what couriers are for.
+The noon courier came down past them at a working trot, a lean man on a grey, with the house's wallet strapped inside a case against the saddlebag. He touched his hat to Karis without slowing. They watched him take the switchbacks one after another, a rider and then a small rider and then a speck with a grey under it. At the road's foot he went by the two men in road-grey coats just as the other two came up the river street to meet them, unhurried, on the bell. None of the four so much as turned a head. Nobody ever looks at a courier; that is what couriers are for.
 
 Down on the Ost the ferry lay in at the near bank. The grey went aboard with a farmer's cart and two women carrying baskets of eggs, the ferryman leaned on his pole, and the whole cargo went out across the brown water together, the house's entry for the Continental riding between a cart of turnips and the eggs.
 
@@ -88,7 +88,7 @@ He thought about it. It was a fair request, and she would not thank him for bein
 
 "No." Below them the ferry was most of the way across, the pole going in and out of the water in its slow rhythm. "That's the whole design."
 
-She wrote one line then, quickly, and when she spoke again it was in a different voice, flatter, the voice she used for things she meant to be quoted on.
+She wrote one line then, quickly, and when she spoke again it was in a different voice, drier, the voice she used for things she meant to be quoted on.
 
 "Everyone's going to say we did something this morning. In a fortnight half the circuit will be telling the other half that Halcenvane played a trick at the registry, and they'll be very pleased with themselves for spotting it." She did not look up from the page. "We didn't put you on the roster. We just declined to commit fraud by leaving you off. The clause does the rest."
 
@@ -120,7 +120,7 @@ He did it the same way for everybody. He took the form. He read it, every line, 
 
 The Current girls went off with their slips, still quarrelling. Cael stepped up and laid his sheet on the counter.
 
-Seln read it. Name. Path line left blank, by rule. Evaluator of record. The hours asked. The reason. The stamp came down on the received line with its small flat sound. The slip tore cleanly. Then, with two fingers, Seln set the sheet on the stack at his left hand and squared it to the counter's edge, and squared the stack to the sheet.
+Seln read it. Name. Path line left blank, by rule. Evaluator of record. The hours asked. The reason. The stamp came down on the received line. The slip tore cleanly. Then, with two fingers, Seln set the sheet on the stack at his left hand and squared it to the counter's edge, and squared the stack to the sheet.
 
 "Magister Gault signs evaluation hours on Fifth-days," he said. "The schedule goes up the morning after."
 
@@ -146,11 +146,11 @@ He put it where he put everything that came across that counter, in the ledger h
 
 ---
 
-Gault countersigned at the fourth bell, at his own desk, with his door open and the new calendar pinned flat on the wall behind him.
+Gault countersigned at the fourth bell, at his own desk, with his door open and the new calendar pinned to the wall behind him.
 
 "Sit," he said, without looking up. "This is a signature, and then it's news, and the news is better than the signature."
 
-Cael sat. Gault signed the floor form in his square careful hand, blotted it, and set it on the tray for the desk clerk. Then he leaned back in his chair until it complained, and laced his fingers on his waistcoat, and regarded Cael with the satisfied air of a man who has been looking forward to saying something for several days.
+Cael sat. Gault signed the floor form in his careful hand, blotted it, and set it on the tray for the desk clerk. Then he leaned back in his chair until it complained, and laced his fingers on his waistcoat, and regarded Cael with the satisfied air of a man who has been looking forward to saying something for several days.
 
 "The panel travels," he said.
 
@@ -164,7 +164,7 @@ Cael waited.
 
 Cael looked at him.
 
-"I have never in my life been issued anything with a handle," said Gault. "Everything I own in this wing is a ledger or a drawer. It is ridiculous how much I like the handle. The porter tells me I carried it across the quadrangle twice this morning for no reason. That is not true. It was three times."
+"Nobody has ever issued me anything with a handle," said Gault. "Everything I own in this wing is a ledger or a drawer. It is ridiculous how much I like the handle. The porter tells me I carried it across the quadrangle twice this morning for no reason. That is not true. It was three times."
 
 Cael found he was smiling, and let it stand, because the door was open but the wing was empty.
 
@@ -184,7 +184,7 @@ Since Ardenmere the arrangement had run in one direction, and he had never once 
 
 Now, in five weeks, the arrow turned round. He would climb into a wagon behind a wagoner and be driven, at a walk, into the middle of every eye the Compact owned.
 
-He took out the observation notebook and wrote Gault's sentence under Gault's name, with the date, as he wrote everything. Then, because an honest ledger ran two columns, he wrote the other side under it.
+He took out the observation notebook and wrote Gault's sentence under Gault's name, with the date. Then, because an honest ledger ran two columns, he wrote the other side under it.
 
 *And for one season, every officer who comes to look at me will be seated, badged, and printed in a meet program. For two years I've counted watchers out of windows. This year they'll come with seat numbers.*
 
@@ -212,7 +212,7 @@ Ephram, passing their table on his way out with his bowl, stopped behind Brom's 
 
 "I'd like to see it."
 
-"Everybody would like to see it," said Ephram, and went on toward the door with his bowl, and said over his shoulder, without breaking step, "It's leather. Double-stitched. It's a very good handle," which was, Lira said afterward, the longest speech about an object that anybody had ever heard him make.
+"Everybody would like to see it," said Ephram, and went on toward the door with his bowl, and said over his shoulder, without breaking step, "It's leather. Double-stitched. It's a very good handle," which was, Lira said afterward, more words than he had spent on any object since she had known him.
 
 They told the rest of it after that, quietly, with the bread gone. Bracken's sand. The courier and the ferry. Karis's sentence on the bench, which Karis would not say again, and which Cael said for her, word for word, so that Lira and Brom could have it too. Lira listened to it with her chin on her arms.
 
@@ -226,13 +226,13 @@ He kept it short. Hesk did not like long letters; he said a long letter was a ma
 
 He did not write about the counter. That belonged to nobody but the four of them, and possibly not even to them.
 
-He sat for a while with the pen lifted over the last line, because there was one more thing that was true and he did not know whether Hesk would want it. In the end he wrote it anyway, in the same hand as the rest, because Hesk had always liked a thing set down plainly whether or not it was comfortable.
+He sat with the pen lifted over the last line, because there was one more thing that was true and he did not know whether Hesk would want it. In the end he wrote it anyway, in the same hand as the rest, because Hesk had always liked a thing set down plainly whether or not it was comfortable.
 
 *I've been measured by a great many people who wanted a particular answer. This year I'm going to be measured by people who don't care which answer they get. I didn't know until today how much I'd wanted that.*
 
 He sealed it for the morning post and set it on the sill, and then he turned back to the Log.
 
-He wrote the day up at the window that night. The fountain was going in the court again under a house that was full now, with a dozen lamps lit along the residence front and the sound of somebody on the floor above dropping a boot and swearing at it in a perfectly clean word. He kept it short. There would be a great deal of season, and he wanted room for it.
+When he opened the Log, the fountain was going in the court again under a house that was full now, with a dozen lamps lit along the residence front and the sound of somebody on the floor above dropping a boot and swearing at it in a perfectly clean word. He kept it short. There would be a great deal of season, and he wanted room for it.
 
 *Roster filed at noon. Eleven names on the travel sheet. Five on the entry. Mine the fifth, in the registry's spelling.*
 

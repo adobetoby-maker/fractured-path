@@ -50,9 +50,9 @@ Cael took out the observation notebook under the table and wrote it on Gault's p
 
 He had started it at the beginning of the year with a few lines about an instrument case and a frame and a man who marked what the manual said. Since then it had filled up with small things, one at a time, until it no longer described anything like an instrument. He wrote *Fourth, continental Copper. Boots in a ford. Plodding.*
 
-Then he sat and looked at the page for a while, and thought that he had once filed this man under machinery and had been wrong in the most useful way he had been wrong all year.
+Then he sat and looked at the page, and thought that he had once filed this man under machinery, and had been usefully wrong.
 
-Rooke looked at Gault for a while across the table after that, as though he were seeing a fighter he had known for years from a new side of the floor. He said nothing about it.
+Rooke looked at Gault across the table after that, as though he were seeing a fighter he had known for years from a new side of the floor. He said nothing about it.
 
 But when the jug came round again he filled Gault's cup himself, which Cael had never seen him do for anybody.
 
@@ -124,7 +124,7 @@ She reached up and put two fingers under the low corner of the frame, as though 
 
 "Shall I?"
 
-"Don't you dare." She stood looking at it a while longer with her arms folded again. "Somebody made that in an afternoon because they wanted to. Nobody told them to, and nobody checked it. That's why it's crooked." She put her head on one side. "It's the best frame I've ever seen."
+"Don't you dare." She stood looking at it a while longer with her arms folded again. "Somebody made that in an afternoon because they wanted to. Nobody told them to, and nobody checked it. That's why it's crooked." She put her head on one side. "I wouldn't have it straight for anything."
 
 Behind them the dinner bell rang on and on in the residence court, badly and with great enthusiasm.
 
@@ -170,7 +170,7 @@ He knew the seal. Everyone in the building knew it, as everyone knows the colour
 
 That office did not write to men at his desk. When it wanted something from this floor, the wanting came down through two or three floors between and arrived in the ordinary form, signed by somebody ordinary.
 
-The last time anything had come to him from that height under its own seal was eleven years ago. He remembered it chiefly because it had concerned the drains.
+The last time anything had come to him from that height under its own seal was seven years ago. He remembered it chiefly because it had concerned the drains.
 
 There was no routing slip with the page. There were no initials anywhere on it.
 
@@ -222,7 +222,7 @@ He did not know yet what the noticing would cost. He knew it would not be nothin
 
 He took a sheet of paper and a pencil and began.
 
-He wrote the first answer long, as he wrote everything he meant to make short, and then struck it through corner to corner and wrote it again in ink on a clean sheet. He did the same with the second and the third. It took him most of the evening, because each answer had to be built so that a reader could not lift a sentence out of it and use the sentence to mean the opposite.
+He wrote the first answer long, and then struck it through corner to corner and wrote it again in ink on a clean sheet. He did the same with the second and the third. It took him most of the evening, because each answer had to be built so that a reader could not lift a sentence out of it and use the sentence to mean the opposite.
 
 When he had finished, the three answers lay one under another on a single page, and each began by turning its noun back into a question that an evaluator could honestly answer.
 

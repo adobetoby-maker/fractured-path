@@ -122,7 +122,7 @@ Brom rang the spoon.
 
 "Nothing else. That was enough."
 
-She stood on her line for a moment looking down at the clay. Then she nodded once, and Cael saw her do something to her stance that he could not quite put a name to, a settling lower through the knees.
+She stood on her line looking down at the clay. Then she nodded, and Cael saw her do something to her stance that he could not quite put a name to, a settling lower through the knees.
 
 "Again," she said.
 
@@ -146,7 +146,7 @@ On the wall, the Stone reserve laughed, and then stopped at once.
 
 "It's what she'll do." Cael came back to the middle and stood beside her. "You hid the gather, and I didn't need it. Where you land says where you're going."
 
-"Then I can't win." She straightened. Her face had gone very still, which in Lira was worse than temper. "If I hide the set, you read the floor. If I don't build the corner, there isn't a corner. So I can't win."
+"Then I can't win." She straightened. Her face had gone still, which in Lira was worse than temper. "If I hide the set, you read the floor. If I don't build the corner, there isn't a corner. So I can't win."
 
 "I didn't say that."
 
@@ -178,7 +178,7 @@ He spent a burst to go east round her, because east was still the best road to t
 
 He was in the corner. He had bought his own way into it, one fair price at a time, and at no point had he been able to see it being built, because nobody had built it. It had been paid for.
 
-Lira's hand came down flat on his shoulder.
+Lira's hand came down on his shoulder.
 
 Brom rang the spoon, and then, after a moment, rang it again for no reason anybody could see.
 
@@ -186,7 +186,7 @@ For a little while nobody on the wall said anything. Then Rooke set his cup down
 
 "Early," he said.
 
-That was all. He picked up the cup and went into the waystation, and the door swung shut behind him on its leather hinge.
+He picked up the cup and went into the waystation, and the door swung shut behind him on its leather hinge.
 
 ---
 
@@ -202,7 +202,7 @@ He thought about it honestly, because she would know if he did not.
 
 "I see weight," he said at last. "Where it's going and how hard it's going there. A corner that's being built is all weight, because you have to put your body where the walls are going to be. That wasn't a wall. You stood in my roads and made them dear, and there's nothing in anybody's hips that says what a road costs." He rubbed the shoulder where her hand had been. "I can read you building. I can't read you pricing."
 
-Lira was quiet for a moment. Then she found a stub of pencil in her coat and wrote something small on the back of her left hand. He did not need to read it.
+Lira was quiet. Then she found a stub of pencil in her coat and wrote something small on the back of her left hand. He did not need to read it.
 
 "It works on you because you pay for your bursts," she said slowly. "You've got five, and you count them, and I can make you spend them. I don't know what she pays." She looked down at the hand. "Nobody has ever made her pay for anything. It's not in the times."
 
@@ -210,7 +210,7 @@ Lira was quiet for a moment. Then she found a stub of pencil in her coat and wro
 
 "In the first exchange. I know. I know." But she was very nearly smiling.
 
-They ran it four more times before the light went, and she won three of them. He ran those on his feet alone, with one burst left that he meant to keep. The one she lost was the last, when Cael stopped trying to reach the middle at all and simply stood still in the open, a little off centre, and let her come. She could not price a road he did not mean to take. She stood ten feet from him for most of a minute with her hands on her hips, and then laughed and called it cheating, and said that Zerin would never do it, because Zerin had never in her life stood still.
+They ran it four more times before the light went, and she won three of them. He ran those on his feet alone, with one burst left that he meant to keep. The one she lost was the last, when Cael stopped trying to reach the middle at all and simply stood still in the open, a little off centre, and let her come. She could not price a road he did not mean to take. She stood ten feet from him for most of a minute with her hands on her hips, and then laughed and called it cheating, and said that Zerin would never do it, because Zerin did not know how to stand still.
 
 "You don't know that," Karis pointed out from the wall.
 
@@ -242,7 +242,7 @@ The table went quiet.
 
 "I know." Lira tore her bread in half. "So it'll work for a while, and then she'll learn it, the way I just did, and then I'll need the next thing." She looked round at all of them. "That's all right. I'd rather be beaten by somebody learning than by somebody who already knew."
 
-Cael wrote it that night by the waystation's one good lamp, with the yard dark outside the shutter and the lines in the clay still faintly showing under the stars.
+The waystation had one good lamp, and he took the Log to it that night, with the yard dark outside the shutter and the lines in the clay still faintly showing under the stars.
 
 *Sixth day. Lira's corner game in a walled yard. Two fails, and then the version that works: she doesn't build the corner, she prices it. She stands in every road out until every road costs a burst, and lets me buy my own way in. I couldn't see it. The read sees weight; it doesn't see price. Rooke said one word, "Early," and went in to his supper.*
 

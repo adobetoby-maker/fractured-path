@@ -28,7 +28,7 @@ She looked up at him.
 
 He kept his voice as level as a clerk's, because he did not trust himself to say it any other way. Whatever else he felt about it belonged in the Log.
 
-Karis did not answer for a long time. Then she reached into the pocket of her coat and took out a small book of her own, and laid it on the table beside the manual. It was not the grey notebook. It was a thin old copybook with a plain brown cover, the kind she bought by the dozen, and she opened it near the back, at a page that held only two lines in her square hand.
+Karis did not answer for a long time. Then she reached into the pocket of her coat and took out a small book of her own, and laid it on the table beside the manual. It was not the grey notebook. It was a thin old copybook with a plain brown cover, the kind she bought by the dozen, and she opened it near the back, at a page that held only two lines in her small neat hand.
 
 Cael knew what the two lines were before he read them. On the night of the mock bouts, at the trestle's end on the second training floor, he had watched her tear a strip from her scoring card and lay it in Rooke's old manual, and close the book on it, and say nothing.
 
@@ -44,7 +44,7 @@ Karis spoke at last. "The fairest instrument on the continent has exactly one bl
 
 He had known she would say it. It was the sentence he had not let himself write since the waystation.
 
-"I was there first," he said. "Long before anybody pointed this at me. At Ardenmere, Vell taught me one rule: give the record what it already holds, and nothing past it. I've kept to that ever since. All that's changed is that the record has learned to measure better." He touched the edge of the manual. "But I'd like it on paper somewhere that I understand the price. This thing looks at me the same way it looks at everybody else. That's the whole point of it, and it's all I ever wanted from it. And I'll be the one person on the continent who meets it with a careful face. It's the only fair measure anyone has ever offered me, and the doctrine tells me to step up in front of it and not let it take my measure."
+"I was there first," he said. "Long before anybody pointed this at me. At Ardenmere, Vell taught me one rule: give the record what it already holds, and nothing past it. I've kept to that ever since. All that's changed is that the record has learned to measure better." He touched the edge of the manual. "But I'd like it on paper somewhere that I understand the price. This thing looks at me the same way it looks at everybody else. That's the whole point of it, and it's all I ever wanted from it. And I'll be the one person on the continent who meets it with a careful face. It's the one fair measure anybody has offered me, and the doctrine tells me to step up in front of it and not let it take my measure."
 
 "The doctrine's right," said Karis.
 
@@ -52,7 +52,7 @@ He had known she would say it. It was the sentence he had not let himself write 
 
 Karis did not smile. She wrote it in the grey notebook, the whole exchange, his line and hers and the tense, and underlined the word *is* in the middle of it, once, very lightly. Then she took her lamp and went up.
 
-He sat for a while longer with the manual open at page thirty-one. He thought about a woman from the continental office he had never met, and an examiner long dead who had written a note in a margin in ink, and a registrar who had read a whole book in order to tell a boy where to look. All of them had seen the same blind spot, and none of them had done anything about it except write it down.
+He sat on with the manual open at page thirty-one. He thought about a woman from the continental office he had never met, and an examiner long dead who had written a note in a margin in ink, and a registrar who had read a whole book in order to tell a boy where to look. All of them had seen the same blind spot, and none of them had done anything about it except write it down.
 
 That, he thought, was the most frightening thing about a really good instrument. It knew exactly where it could not see.
 
@@ -88,7 +88,7 @@ Cael understood it within a dozen heartbeats, and admired it within twenty. The 
 
 He treated Cael's refusals the way a good steward treats an expense. He did not try to stop them, but let each one happen and made sure it cost something.
 
-Halfway through the glass Cael refused once too often toward the south rope, found the floor there already closed by a step he had not seen being taken, and turned back into the middle a quarter-beat late. The yard-master's hand came out flat and hard, a short guild-yard blow with no swing in it, and caught him on the point of the left shoulder.
+Halfway through the glass Cael refused once too often toward the south rope, found the floor there already closed by a step he had not seen being taken, and turned back into the middle a quarter-beat late. The yard-master's hand came out hard, a short guild-yard blow with no swing in it, and caught him on the point of the left shoulder.
 
 "Touch. Guild."
 
@@ -106,9 +106,9 @@ Once, early, Cael burst. The floor had shrunk on the north side until there was 
 
 *One*, Cael counted. *Of five, on boards this hard. Spend them like a miser.*
 
-The read was giving him everything. It gave him the old man's weight a fraction before it moved, and it gave him the next step, and the one after that. It gave him all of it early and clearly and completely, the way it always did. But seeing a man's next purchase did not give you back the floor he had already bought. The yard-master was not hiding his steps. He was showing every one of them, plainly, and taking them anyway, because Cael had no answer to a step that was simply taken.
+The read was giving him everything. It gave him the old man's weight a breath before it moved, and it gave him the next step, and the one after that. It gave him all of it early and clearly and completely, the way it always did. But seeing a man's next purchase did not give you back the floor he had already bought. The yard-master was not hiding his steps. He was showing every one of them, plainly, and taking them anyway, because Cael had no answer to a step that was simply taken.
 
-The glass ran out with nobody touched, and the yard-master stood a stride further east again.
+The glass ran out with nobody touched, and the yard-master stood a pace further east again.
 
 "Even."
 
@@ -116,7 +116,7 @@ Rooke was at the north rope with his arms folded. Cael caught his eye on the way
 
 When the third exchange began, Cael had perhaps two-thirds of a floor left.
 
-Cael could feel the size of it in his feet. Each time he went round to the left now, the black iron of the racks was there at his blind shoulder, a long stride away, where at the first bell there had been forty feet of boards. The south rope was closer than it had been, and so was the north. The yard-master stood near the middle of the floor now, square and grey and patient, and everything behind him was his, and everything in front of him was not yet his but would be.
+Cael could feel the size of it in his feet. Each time he went round to the left now, the black iron of the racks was there at his blind shoulder, a long stride away, where at the first bell there had been forty feet of boards. The south rope was closer than it had been, and so was the north. The yard-master stood near the middle of the floor now, solid and grey and patient, and everything behind him was his, and everything in front of him was not yet his but would be.
 
 Cael began the third exchange the way he had begun the second, refusing, and partway through it, facing east for the hundredth time, he saw the light.
 
@@ -156,11 +156,11 @@ The yard-master's next step came forward into the space he had expected Cael to 
 
 His weight hung.
 
-Cael went inside the quarter-beat with the burst he had been saving. It took him across the old man's line on the side away from the racks. The landing beat locked him there, beside the yard-master and a little behind, with the glare between them. Then, before the old man's eyes had come clear of the light, Cael spent the second. It was a short one, a few feet only, from the landing straight in. The landing beat locked him again with his palm flat on the yard-master's ribs.
+Cael went inside the quarter-beat with the burst he had been saving. It took him across the old man's line on the side away from the racks. The landing beat locked him there, beside the yard-master and a little behind, with the glare between them. Then, before the old man's eyes had come clear of the light, Cael spent the second. It was a short one, a few feet only, from the landing straight in. The landing beat locked him again with his palm on the yard-master's ribs.
 
 "Touch. Halcenvane."
 
-The half-full hall said nothing at all for a moment. Then somebody along the south rope, one of the apprentices, said "*Oh*," quite loudly, in the voice of a young man who has just seen something he has walked past every morning of his life.
+The half-full hall was silent. Then somebody along the south rope, one of the apprentices, said "*Oh*," quite loudly, in the voice of a young man who has just seen something he has walked past every morning of his life.
 
 *Three*, Cael counted. *Of five.* The hip had started its argument, crest to knee, and the calf was worse.
 
@@ -178,7 +178,7 @@ Cael did not need the light, this time. He needed only to know which step would 
 
 "Touch. Halcenvane. Two to one. Bout to Halcenvane."
 
-*Four*, Cael counted. *Of five.* He stood still for a moment after the landing beat released him, letting the calf settle. It did not settle.
+*Four*, Cael counted. *Of five.* He stood where he was after the landing beat released him, letting the calf settle. It did not settle.
 
 The yard-master came across the floor slowly, on his careful knees, and held out his hand. Cael took it. The old man's grip was dry and hard and short.
 
@@ -244,12 +244,8 @@ Afterward he came straight to the rope, still breathing hard, and leaned on it w
 
 The Bronze asked him nine questions in all, standing at the rope with his elbows on it while the hall emptied round them, and Cael answered every one. He answered accurately and completely, and everything he said was true, and every word of it was about the public suite. Every fact he gave was already in a record somewhere: the burst's length, its rate, the landing beat, the read that looked like good timing. He did not lie once. He did not need to. The Bronze went away into the yard with his questions answered and his notebook full, talking to himself, plainly satisfied with his money's worth.
 
-Cael wrote it that evening at the guest house window, with the calf propped on a stool.
+At the guest house window that evening, with the calf propped on a stool, he gave the Bronze a few lines.
 
-*Nine questions from the curiosity Bronze. Nine true answers. All of it already in the record. He thinks he had the fight explained to him by the man who fought it, and he's half right: he had the record read aloud to him in the first person. It felt like candour to him, because it came from me.*
+*Nine questions, nine true answers, all of it already in the record. At the wool town the mask was a thing I held up. Today I spoke in it. The mask has stopped being a thing I hold up and started being a register I speak in.*
 
-*I want to keep track of this, because something's shifting and I'd like to know which way. At the wool town the mask was a thing I held up. Today it wasn't. Today I spoke in it. The mask has stopped being a thing I hold up and started being a register I speak in.*
-
-He sat looking at that line for a while, and then he wrote one more.
-
-*At Greyvane, Quenna's question was whether I could hold it back in front of people who wished me harm. I've learned that one. Nobody asked me the harder one. Today a cheerful man who wished me nothing but well thanked me for my honesty, and I let him, and every word was true, and he went away knowing less than when he came. I don't know yet whether that's the doctrine working, or something else. I'd like to know which before it stops feeling strange.*
+*Quenna's question was about holding it back in front of enemies. Nobody asked the harder one. Today a man who wished me nothing but well thanked me for my honesty, and every word was true, and he went away knowing less than when he came.*

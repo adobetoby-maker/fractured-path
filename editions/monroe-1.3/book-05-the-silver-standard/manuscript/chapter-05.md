@@ -14,7 +14,7 @@ Then he did a thing he had done all his working life with a file that had come u
 
 The academy's response ran to four pages, in a clean clerk's hand, under the house's seal, signed by a chancellor whose name he had last seen at the foot of a great many documents in a records hall. The first page was a single line of a tournament charter and its citation, and nothing else at all. He looked at the white space under that line for longer than he looked at the line. Somebody had written sentences in that space and taken them out again. He could tell, because the space was too exact to be an accident; a person who had never put anything there would not have left it so cleanly empty.
 
-The second page was the clause's history, and the third was the best argument he had read from a provincial house in some years. It cited a schedule he had not known existed; he went to his own shelf and turned to it, and it was there.
+The second page was the clause's history, and the third was as good an argument as he had read from a provincial house in some years. It cited a schedule he had not known existed; he went to his own shelf and turned to it, and it was there.
 
 The fourth page was a paragraph. He read it twice.
 
@@ -60,7 +60,7 @@ Neither came.
 
 The ordinary silence after an advisory had a shape he knew as well as he knew the porter and his pigeons: an acknowledgment from the receiving office, a file marked closed somewhere below with a clerk's initials, a line in the weekly digest. He had read that silence ten thousand times. This was not it. The advisory was received. He knew it was received, because the dispatch slip in his coat said so. After that, nothing. No acknowledgment came back up the chain. The file did not reappear in the digest. The two letters on the fourth line of the routing slip were not on any other slip that crossed his table in the next nine days, and he looked.
 
-On the tenth day, among the morning's papers, he found a printed meet card from a regional host, filed for information, routinely, as all such cards were filed. He read down it until he came to the fifth line of one house's block. Then he laid it on the table beside the routing slip, and sat for some time with his left hand open on his knee, watching the porter in the court below feed his pigeons from the same paper bag.
+On the tenth day, among the morning's papers, he found a printed meet card from a regional host, filed for information, routinely, as all such cards were filed. He read down it until he came to the fifth line of one house's block. Then he laid it on the table beside the routing slip, and sat with his left hand open on his knee, watching the porter in the court below feed his pigeons from the same paper bag.
 
 The roster stood. Nobody had asked him anything. Nobody had answered him.
 
@@ -70,7 +70,7 @@ He noted the fact, and he did not yet allow himself to note what it meant. A que
 
 On the Fifth-day the answer came up the bluff, and it did not look like an answer at all. It looked like a timetable.
 
-Bracken laid it on the records-hall counter at the third bell, square to the edge, with no covering letter, because there had been none. It was the first meet's official card, printed by the host's office on thick cream stock in two columns, and it listed every delegation entered at the wool town in the order of their registration, with each house's competitors in a block beneath its name. Halcenvane's block was the ninth, and it ran five lines. The first four looked like any house's.
+Bracken laid it on the records-hall counter at the third bell with no covering letter, because there had been none. It was the first meet's official card, printed by the host's office on thick cream stock in two columns, and it listed every delegation entered at the wool town in the order of their registration, with each house's competitors in a block beneath its name. Halcenvane's block was the ninth, and it ran five lines. The first four looked like any house's.
 
 *C. Cael, enrolled practitioner, unclassified — scheduled per demonstration-exhibition provisions.*
 
@@ -96,7 +96,7 @@ Bracken said, "That is how careful institutions surrender. In the schedule." He 
 
 Nobody asked him what he meant by that. He did not seem to expect them to.
 
-They went out of the records hall into a bright cold noon, the four of them, and nobody said anything until they were halfway down the covered walk. Then Lira stopped, and turned, and hugged Karis. Hard, briefly, with one arm, as you would hug a teammate coming off a floor. Karis stood perfectly still inside it with her notebook held out to one side to keep it from being crushed, and her face went through three expressions in quick succession and settled on none of them.
+They went out of the records hall into a bright cold noon, the four of them, and none of them spoke until they were halfway down the covered walk. Then Lira stopped, and turned, and hugged Karis. Hard, briefly, with one arm, as you would hug a teammate coming off a floor. Karis stood perfectly still inside it with her notebook held out to one side to keep it from being crushed, and her face went through three expressions in quick succession and settled on none of them.
 
 "You'll make me drop the book," she said.
 
@@ -126,7 +126,7 @@ He wrote it at the rail of the Crown yard's top tier that afternoon, with the ob
 
 *First paper in my life to call me Cael. A printer with two inches of column did that. I find I'm absurdly grateful to him, and I'll never know his name either.*
 
-He looked at it for a while. Then, under it, in a smaller hand:
+He let it dry. Then, under it, in a smaller hand:
 
 *Thirteen days, Karis says, between the response going down and the card coming up. Long enough for an answer. Too long for an easy one.*
 
@@ -184,7 +184,7 @@ He let them look at the table. It was a list of bands, read down from the top.
 
 He did the road in ten minutes, with the taped button of an old fencing foil, and Cael wrote it down without needing to. Four meets in the region; standings added; when a house's total crossed the region's line the registry would post a circular, and that house was going to the finals. The finals this cycle at Norhold, a crossroads city where four roads crossed a river, far to the north and east beyond the hill country: fourteen delegations or fifteen, out of all those dots. Brackets by tier, seeded by formal rank. A team trial for squads of five on a scenario floor. Exhibitions, voluntary, rated and worth nothing.
 
-"By paper," said Lira, to nobody, when he came to the seeding.
+"By paper," said Lira, when he came to the seeding.
 
 "By paper," said Rooke, without stopping.
 
@@ -192,7 +192,7 @@ When he had finished with the road he came back to the table and stood in front 
 
 "I've been in this trade a long time," he said. "I've seen floors bought. I've seen brackets drawn by men who owed money to the houses they were drawing. I've seen a certificate say Copper about a girl who could take any Iron in her region apart in four exchanges." Lira did not move. "This thing I've never seen lean. Not once. Rich houses have tried, for as long as anybody's kept books. Chief Adjudicator Umber keeps the calibration, and has done since before most of you were Kindled, and I've never heard a word against him that wasn't sour grapes from a house that lost." He tapped the table with one knuckle. "There are perhaps three honest instruments on this continent, and you're looking at one."
 
-Nobody said anything for a while. The lamps hissed.
+The lamps hissed.
 
 "Who chose the three words?" said Karis.
 
@@ -200,7 +200,7 @@ Rooke turned his head.
 
 "Execution, control, effect." She had her pencil against her lip. "Somebody chose those. Not four words. Not two. Not courage, or patience, or how long a fighter can stay on his feet, or how much he left in the bag." She was not arguing; she was reading, aloud, the way she read a charter. "I believe you about the mark. I believe nobody's caught it leaning. Once it's fixed, it's honest about everybody it measures. But somebody stood at the beginning of it and decided what was worth measuring, and everything after that is downhill from the deciding." She wrote one short line. "Nobody's ever described a fairer one to me. So was the sorting."
 
-Rooke looked at her for a long moment, and Cael watched him decide not to be offended.
+Rooke looked at her, and Cael watched him decide not to be offended.
 
 "Both can be true," he said.
 
@@ -210,7 +210,7 @@ Rooke did not often spend philosophy, and he spent no more of it that night. He 
 
 Rooke's yellow card lay on the end of the bench when the others had gone.
 
-Cael looked at it for some time before he picked it up. He did not think Rooke left things on benches by accident, and he did not think Rooke would ever admit to having left this one on purpose, and both of those seemed to him to be the same kind of respect.
+Cael did not pick it up at once. He did not think Rooke left things on benches by accident, and he did not think Rooke would ever admit to having left this one on purpose, and both of those seemed to him to be the same kind of respect.
 
 He unfolded it under the last lamp and read it the way Karis had, with the strikes, and got twenty-six for the loser and twenty-four for the winner, and sat looking at the two figures side by side.
 
@@ -222,7 +222,7 @@ He folded the card again along Rooke's old folds and put it back on the bench ex
 
 Then, because the habit was older than the doubt, he sat on the bench and priced the others. Lira, from what he had watched on the oak all recess: execution near nine, the cleanest bursts on the hill; control eight, nine against anyone slower than her; effect nine, because she made people spend. Twenty-six, perhaps. A Silver-touched figure for a girl whose certificate had said Copper not long ago. Brom: execution seven, because he would never look quick; control nine, because nobody moved Brom anywhere he did not agree to go; effect eight. Twenty-four. Ephram he had been rating in his head for a fortnight, and came out at twenty-four too. He did not price Karis. He did not know yet what an Ember fighter's effect looked like to a panel trained to Silver Five, and he found, to his surprise, that he wanted to be surprised by it.
 
-He wrote it at the window that night, with the fountain going below.
+At the window, with the fountain going below, he put it in the Log.
 
 *Rooke's card: a man who lost and was rated above the man who beat him. That's the whole of the Standard, and it's beautiful, and I sat in a cold room and admired it like a boy looking at a clock with its back off.*
 

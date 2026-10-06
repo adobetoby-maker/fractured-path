@@ -50,7 +50,7 @@ He did not feel it begin; he never did, and that was the whole trouble with it. 
 
 *Hold. First.*
 
-He did what he had trained himself to do in every gap of every day since the stair. He took one corner of his attention and gave it to somebody. Brom, at the post: the big shoulders turning, the forearm coming round, the leather taking it with that flat sound a sack makes when it is dropped onto a cart. Watching Brom was not hiding. That was all the trick there was. A boy who was awake to one person was visible to everybody, because the two halves of the thing in him would not run together; he could not be the most watchful creature in a place and the least noticed in it at the same time. Not yet. Not in his hands.
+He did what he had trained himself to do in every gap of every day since the stair. He took one corner of his attention and gave it to somebody. Brom, at the post: the big shoulders turning, the forearm coming round, the leather taking it with the dull sound a sack makes when it is dropped onto a cart. Watching Brom was not hiding. That was all the trick there was. A boy who was awake to one person was visible to everybody, because the two halves of the thing in him would not run together; he could not be the most watchful creature in a place and the least noticed in it at the same time. Not yet. Not in his hands.
 
 Lira's eyes stayed on him for a breath longer. Then she nodded.
 
@@ -152,7 +152,7 @@ Withrow walked out onto the platform with no paper at all.
 
 She did the house's ordinary business first, in about the time it takes to boil an egg properly, and Cael wrote the headings without listening very hard: rooms, the north roof, a new instructor for the Mire cohort, and the fire-watch's oil book. That last drew a small knowing noise from everybody who had sat through the inspection. Withrow answered it with one eyebrow and went straight on, and Cael suspected she had planned the noise and the eyebrow both.
 
-Then she put both hands flat on the lectern.
+Then she put both hands on the lectern.
 
 "Three numbers," she said. "Write them down if you like.
 
@@ -170,7 +170,7 @@ She took her hands off the lectern.
 
 "Go to your assignments."
 
-The hall emptied with a long noise that went out of both doors at once and broke up on the quadrangle into a hundred smaller ones. Cael stayed in his seat and watched the platform. Withrow had stopped to say three words to Rooke, who nodded once. Gault was writing something on the back of his hand, which he did when he had lost his pencil, which was often. Bracken's chair at the end of the faculty bench was already empty.
+The hall emptied with a long noise that went out of both doors at once and broke up on the quadrangle into a hundred smaller ones. Cael stayed in his seat and watched the platform. Withrow had stopped to say three words to Rooke, who nodded. Gault was writing something on the back of his hand, which he did when he had lost his pencil, which was often. Bracken's chair at the end of the faculty bench was already empty.
 
 "Inside the week," said Karis, following his eyes. "He'll file inside the week. The regional office takes entries until the close of the next, and Bracken would sooner swallow his own pen than file on a closing day."
 
@@ -222,11 +222,11 @@ He went off down the walk toward the yard without waiting for an answer. Lira wa
 
 "That was a good mood?"
 
-"For Ephram, that was singing." She turned back to the board, and her eyes went to her own line, *Lira, Wind, Iron Rank One*, and stayed there a moment with her hand flat on her coat over the place where the certificate had lived since the anteroom. Then she looked away from it on purpose, before anybody could catch her admiring it.
+"For Ephram, that was singing." She turned back to the board, and her eyes went to her own line, *Lira, Wind, Iron Rank One*, and stayed there a moment with her hand on her coat over the place where the certificate had lived since the anteroom. Then she looked away from it on purpose, before anybody could catch her admiring it.
 
 "Five weeks," said Brom behind them. He said it the way he would have named the weight of a thing he meant to lift.
 
-Karis said nothing. She was reading the selection standards again from the top, and her pencil had stopped two-thirds of the way down. The line under it said that the registrar would file the house's entry, together with a certified copy of its enrollment record, complete and current, not later than the close of intake.
+Karis was reading the selection standards again from the top, and her pencil had stopped two-thirds of the way down. The line under it said that the registrar would file the house's entry, together with a certified copy of its enrollment record, complete and current, not later than the close of intake.
 
 She drew a line under *complete*. Then she looked at Cael over the top of the notebook, and he saw that she had already counted the days, and had found them to be more than enough.
 
@@ -236,7 +236,7 @@ The porter put the season back on the walls that afternoon, and Cael went down t
 
 The long wall had stood bare for twelve weeks. Now the porter worked along it with his ladder and his chalk and his rag, column by column, from the Copper at the west end to the single name on the Gold. He was copying from a sheet the registrar's office had sent down that morning in Bracken's clerk's hand. He did it the way he had done it every term for longer than anybody could remember: one name, one word, a pause to lean back on the ladder and look, and the cuff of his coat across the letters to polish them. The Mire first-years who had been sent to sweep the oak had stopped sweeping to watch him, and nobody told them to start again.
 
-Lira's name went up at the foot of the Iron column, under a column of strangers and over nothing, with the short new word beside it in the porter's round hand. Brom's went up in Rooke's cohort's column at the end of the Blade board, third, where the certified standings had put it at the green table on the last morning of term. Fiske's went up near the head of the Copper with the same six letters it had always had. Cael watched Lira's name for a long moment after the porter had moved his ladder on, and then went on watching the porter.
+Lira's name went up at the foot of the Iron column, under a column of strangers and over nothing, with the short new word beside it in the porter's round hand. Brom's went up in Rooke's cohort's column at the end of the Blade board, third, where the certified standings had put it at the green table on the last morning of term. Fiske's went up near the head of the Copper with the same six letters it had always had. Cael watched Lira's name until the porter had moved his ladder twice more, and then went on watching the porter.
 
 He did not expect his own name, and it did not come. There was no column on that wall for a provision. The porter wrote every practitioner the hill had in a box that said what the registry thought they were, and the registry did not think anything about Cael that would fit in a column, and so the wall had no place for him at all. He had known that for a year. It was the first time he had stood and watched it being true.
 

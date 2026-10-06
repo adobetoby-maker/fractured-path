@@ -6,7 +6,7 @@ It was a courier on a grey, with a leather satchel strapped behind the saddle. H
 
 Seln broke the seal with his thumbnail. He drew out four close-printed sheets and read them, one after another, without any change in his face. Then he took out a fifth sheet, shorter, that had been folded in with the others, and read that one twice.
 
-He did not say anything. He held the fifth sheet out along the table, not to Rooke and not to Cael, but to Karis, and went back to his supper.
+Without a word, he held the fifth sheet out along the table, not to Rooke and not to Cael, but to Karis, and went back to his supper.
 
 Karis read it, and put down her spoon.
 
@@ -20,7 +20,7 @@ Everybody at the table stopped eating except Brom.
 
 "He's not wrong about the arithmetic," said Ephram.
 
-"He isn't. He put it in the protest, quite well. One of the two has to be wrong, he says, the bout or the figure, and a record that keeps both is lying about one of them." Karis laid the short sheet flat on the table and smoothed it with the side of her hand. "The presiding adjudicator ruled on it before noon. She's on loan from the continental office for the season. Two sentences."
+"He isn't. He put it in the protest, quite well. One of the two has to be wrong, he says, the bout or the figure, and a record that keeps both is lying about one of them." Karis laid the short sheet on the table and smoothed it with the side of her hand. "The presiding adjudicator ruled on it before noon. She's on loan from the continental office for the season. Two sentences."
 
 "Read them," said Rooke, from the far end.
 
@@ -42,7 +42,7 @@ Lira was the first. "So she's telling him to try harder."
 
 "Good." She handed the ruling back along the table to Seln, who took it without looking up and laid it in the travel file. Then Karis wrote one line in the grey notebook, short, and turned the page before Cael could read it upside down.
 
-Ephram, who had been sitting very still with his chin on his fist, broke the quiet.
+Ephram, who had been sitting with his chin on his fist, broke the quiet.
 
 "Somebody's going to frame that," he said. "Some innkeeper. Mark me. In a year it'll be hanging over a bar with the date on it."
 
@@ -54,7 +54,7 @@ Rooke had said nothing at all since asking for the ruling to be read. He sat at 
 
 Cael lay awake a while that night under the waystation's thin blanket, with Brom breathing slowly on the other side of the room.
 
-He was not troubled by the ruling, or not in the way the Bronze had meant him to be. It was the most accurate thing anyone in authority had ever written about him, more accurate than *unclassified* and more accurate than *error*, and it had been written by a woman who had never set eyes on him, from a protest and a sheet of numbers, before noon. That was what kept him awake.
+He was not troubled by the ruling, or not in the way the Bronze had meant him to be. It was more accurate than *unclassified* and more accurate than *error*, and it had been written by a woman who had never set eyes on him, from a protest and a sheet of numbers, before noon. That was what kept him awake.
 
 Twenty-three and twenty-two: he had guessed both figures in the Log before they were posted, to the point. He had chosen them on the floor, bout by bout, box by box, and five strangers had written them down in good faith and a clerk had struck the extremes and added the rest. The arithmetic had been perfect. Then a vain man had looked at the arithmetic and seen at once that something was missing from it. And the presiding adjudicator, who had never seen Cael's face, had read the vain man's complaint and agreed with every word of it except the conclusion.
 
@@ -68,13 +68,13 @@ It was not a danger, not yet. A remedy that was not available from an office was
 
 Lira's warm-up the next morning was in the innyard, at dawn, with frost on the cobbles and Rooke standing at the stable door with his hands in his pockets.
 
-He had said nothing about it at supper, or on the stair. But when Lira came down in the grey light with her wrists strapped, he was already there, and the reserves had been sent to load the wagons, and the yard was empty except for the horses' breath and the two of them. Cael watched from the inn's back step with a cup of something hot, because nobody had told him not to.
+He had not mentioned it at supper, or on the stair. But when Lira came down in the grey light with her wrists strapped, he was already there, and the reserves had been sent to load the wagons, and the yard was empty except for the horses' breath and the two of them. Cael watched from the inn's back step with a cup of something hot, because nobody had told him not to.
 
 She began as she always began, with the long slow line of stretches Rooke had given her at the start of the recess and had never once changed, working from the ankles up to the neck while the stable boys led the horses out past her and pretended not to watch. Then the short runs. Then the deep squats, holding at the bottom for a count of five.
 
 On the third squat her face changed, very slightly. She came up out of it a little stiffly on the left, the landing side, and went down into the fourth one more carefully.
 
-Rooke did not say anything. He watched her go through the burst drill, which she ran at half pace on the cobbles because she would not burst on stone in the cold. Her right shoulder was tight for the first several repetitions. It loosened in the end, but it took most of a quarter of an hour, and it had never taken more than a few minutes before.
+Rooke watched her go through the burst drill, which she ran at half pace on the cobbles because she would not burst on stone in the cold. Her right shoulder was tight for the first several repetitions. It loosened in the end, but it took most of a quarter of an hour, and it had never taken more than a few minutes before.
 
 When she had finished, she stood in front of him in the middle of the yard, breathing out white, and waited.
 
@@ -118,7 +118,7 @@ Brom came over from the striking post at the end of his sheet and sat down on he
 
 "I'm on half today," said Brom. "Voluntarily. In sympathy."
 
-Lira looked at him for a long moment. Then she put her head on his shoulder, briefly, and took it away again.
+Lira looked at him. Then she put her head on his shoulder, briefly, and took it away again.
 
 "Idiot," she said.
 
@@ -138,7 +138,7 @@ Cael had known she would ask, because she always asked. When he went quiet about
 
 "Yes."
 
-"Twenty-two." She said it flatly. "Against a vain Bronze who left his left side open five times. I was there, Cael. I counted them too."
+"Twenty-two." She said it like a figure off a board. "Against a vain Bronze who left his left side open five times. I was there, Cael. I counted them too."
 
 "Six."
 
@@ -170,7 +170,7 @@ Bracken came down to the second training floor on the evening before they left f
 
 He did not come onto the floor. He stopped at the top of the stair, where the boards began, as a man stops at the edge of a field he does not mean to walk on, and waited until Gault noticed him and went across.
 
-Cael was at the rope, cooling down after Ephram's session. He saw Bracken hand the parcel to Gault and say something short. He saw Gault undo one corner of the paper, look inside, and go very still in a way that, on Gault, meant delight. Then Bracken nodded to the room in general and went back down the stair.
+Cael was at the rope, cooling down after Ephram's session. He saw Bracken hand the parcel to Gault and say something short. He saw Gault undo one corner of the paper, look inside, and go still in a way that, on Gault, meant delight. Then Bracken nodded to the room in general and went back down the stair.
 
 Gault brought the parcel across to the rope and laid it on the bench and folded back the paper.
 
@@ -224,7 +224,7 @@ Ephram read the board over Cael's shoulder.
 
 "You've got a board with your name on it before your wagon's unloaded. At home we call that a following." He considered the four lines. "Three weeks ago they had to look up what the word meant. Now they've got it chalked in their best hand, waiting." He clapped Cael on the shoulder. "Congratulations. You're the meet's second-best attraction. After the river."
 
-The steward came over then with the format. He was a cheerful, square man who had plainly been warned, and had read the provision twice, and was proud of having it by heart. He also had news. The mill town's Iron entry was too large for a single draw, because the guild yards had entered their journeymen, so the host had split it at the fifth rank, as the charter allowed. Ranks one to four would fight their draw on the main floor. Ranks five and up would fight theirs in the second room.
+The steward came over then with the format. He was a cheerful, thickset man who had plainly been warned, and had read the provision twice, and was proud of having it by heart. He also had news. The mill town's Iron entry was too large for a single draw, because the guild yards had entered their journeymen, so the host had split it at the fifth rank, as the charter allowed. Ranks one to four would fight their draw on the main floor. Ranks five and up would fight theirs in the second room.
 
 "So we're in different brackets," said Ephram to Lira.
 
@@ -238,6 +238,6 @@ Later, while the others carried kit across to the guild's guest house, Lira warm
 
 She looked at it for perhaps two breaths. Then she looked at the floor around its base, and at the corner, and at the angle a fighter would have to take to come out of that corner past the pillar's edge.
 
-Then she ran on, and said nothing about it to anybody.
+Then she ran on, and kept it to herself.
 
-Cael, at the rope, saw her look, and did not say anything either. He had known her too long to ask her what she had seen before she was ready to spend it.
+Cael, at the rope, saw her look, and let it be. He had known her too long to ask her what she had seen before she was ready to spend it.

@@ -40,9 +40,9 @@ Brom opened one eye in the good chair. "Tell him it's a good handle," he said, a
 
 Lira had stopped working on her boot. "Tell him you carry it everywhere," she said. "To every meet, all the way here and all the way back. Tell him people stop you in halls to look at it. That's what a man who makes things wants to hear. Not that you're grateful. That it's being used."
 
-Gault looked at her for a long moment. Then he put the spectacles back on, crossed out the line he had read, and began to write again, slowly, with his lips moving very slightly. Nobody watched him do it, which seemed the right courtesy. When he had finished he read it over once to himself and folded it, and his face had the look of a man who has finally put down something heavy in the right place.
+Gault looked at her. Then he put the spectacles back on, crossed out the line he had read, and began to write again, slowly, with his lips moving very slightly. Nobody watched him do it, which seemed the right courtesy. When he had finished he read it over once to himself and folded it, and his face had the look of a man who has finally put down something heavy in the right place.
 
-Nobody said anything else for a while. The stove ticked. Brom breathed. Somewhere upstairs one of the reserves was snoring, steadily, like a saw. Outside, the mill race ran on under the frost with the same low thunder it had made since they arrived, and would make, Cael supposed, long after they had gone.
+After that the room was quiet. The stove ticked. Brom breathed. Somewhere upstairs one of the reserves was snoring, steadily, like a saw. Outside, the mill race ran on under the frost with the same low thunder it had made since they arrived, and would make, Cael supposed, long after they had gone.
 
 He looked round the room at them in the light of one candle and a stove. If anyone had ever asked him what a family was, he thought, he would have pointed at the oil tin.
 
@@ -52,13 +52,13 @@ The meet record was posted on the hall board at the first bell of the last morni
 
 Copying it was his work. It was there on the roster against his name: *records and floor scheduling.* The delegation's travel file needed the meet's figures in it before the wagons left, and the clerks of the mill guild, who were slow, would not have the certified copies ready until noon. So Seln stood in the cold hall before the board, in the grey light from the loading doors, and copied the figures out by hand in a column on a fresh sheet, as he copied everything, neatly and without any appearance of interest.
 
-He copied the brackets first, then the house totals. Then, last, the leaf at the bottom of the board that was headed in the clerk's square chalk *Exhibition, figure only*, where there was a single name four times, and four figures beside it.
+He copied the brackets first, then the house totals. Then, last, the leaf at the bottom of the board that was headed in the clerk's chalk *Exhibition, figure only*, where there was a single name four times, and four figures beside it.
 
 Twenty-four. Twenty-two. Twenty-one. Twenty-three.
 
 He copied the unrounded composites beside them as well. The mill guild's clerk chalked them to two places, as the wool town's printed record had. Twenty-four and a third. Twenty-one and two-thirds. Twenty-one and a third. Twenty-three exactly.
 
-Then he took out of the travel file the copy of the wool town's record that the courier had brought to the waystation, and laid the two sheets side by side on the flat of the file, and looked at them.
+Then he took out of the travel file the copy of the wool town's record that the courier had brought to the waystation, and laid the two sheets side by side on the closed file, and looked at them.
 
 Twenty-three and a third. Twenty-two and a third.
 
@@ -68,7 +68,7 @@ And the highest of the six was twenty-four and a third, and the lowest was twent
 
 Three points. Top to bottom, across all of it, three points.
 
-Seln did not move. He let his eyes go up the board to the bracket leaves, where the hall's other fighters were. He knew most of their figures from the wool town already; he had copied those too. The river academy's patient Blade, the one who had beaten Ephram on figures at the wool town and lost to him here, had figures on this one board running from nineteen to twenty-six. The guild champion, whose figures Seln had found in an old meet record in the guild's own hall the night before, ran from fifteen to twenty-seven across his last two seasons. Brom of Halcenvane, in the space of a single morning at the wool town, had rated fifteen and twenty-three. Even Lira, the steadiest fighter Seln had ever watched, had rated twenty-seven in the morning and twenty-five in the afternoon of the same day.
+Seln did not move. He let his eyes go up the board to the bracket leaves, where the hall's other fighters were. He knew most of their figures from the wool town already; he had copied those too. The river academy's patient Blade, the one who had beaten Ephram on figures at the wool town and lost to him here, had figures on this one board running from nineteen to twenty-six. The guild champion, whose figures Seln had found in an old meet record in the guild's own hall the night before, ran from fifteen to twenty-seven across his last two seasons. Brom of Halcenvane, in the space of a single morning at the wool town, had rated fifteen and twenty-three. Even Lira, who was steadier than any of them, had rated twenty-seven in the morning and twenty-five in the afternoon of the same day.
 
 That was what fighters looked like on paper: they wobbled. They had bad mornings and good ones. They over-reached at home and under-reached in the cold, and they met styles that suited them and styles that did not. Across a season their figures spread like shot from a fowling-piece, ten points, twelve. That was not a fault in the instrument; it was the instrument working. Five honest hands, struck at the extremes, reading five honest days.
 
@@ -78,7 +78,7 @@ Seln considered that, without hurry.
 
 He did not know how the boy did it, and he did not try to imagine. That was not the office's business, and he had made it a long rule never to wonder past what the record showed him. But the record showed him this. Six times, against six different problems, the boy had come off the floor with the same figure, give or take a breath. A fighter did not do that by being careful. A fighter did that by choosing. Somebody was deciding, bout by bout and box by box, what the Standard would be allowed to see, and was deciding it very well.
 
-That was all he could infer, and it was enough.
+He could infer no more than that, and it was enough.
 
 The next thing he considered was who else could do this sum.
 
@@ -94,7 +94,7 @@ They had not. Seln said so, to the file.
 
 The enrollee waited. There was nobody else within forty feet of the document table, and Seln had seen to it that there would not be, by being there at the one hour of the morning when the hall was empty and the stewards were at breakfast.
 
-Seln did not look up. "There is a matter of arithmetic," he said. "The office has noted it. Six exhibition figures this season. Two towns, two panels, six opponents at four levels. From the highest of the six to the lowest is three points." He laid a sheet square on the stack. "Every bracket fighter in this hall runs across ten points in a season, or twelve. Yours spreads three. An honest instrument scatters. When it stops scattering, the cause is not usually the instrument." He laid another sheet on top of the first. "The office draws no conclusion. It notes only that pencils are cheap, and that other people own them."
+Seln did not look up. "There is a matter of arithmetic," he said. "The office has noted it. Six exhibition figures this season. Two towns, two panels, six opponents at four levels. From the highest of the six to the lowest is three points." He laid a sheet on the stack. "Every bracket fighter in this hall runs across ten points in a season, or twelve. Yours spreads three. An honest instrument scatters. When it stops scattering, the cause is not usually the instrument." He laid another sheet on top of the first. "The office draws no conclusion. It notes only that pencils are cheap, and that other people own them."
 
 He closed the file. Then, in the voice of a clerk reading out the small print, he added one sentence more.
 
@@ -146,7 +146,7 @@ The officer from the district seat initialled the minute. The examiner initialle
 
 "Routine," the officer agreed, and they shook hands, and the christening party was waiting on the stair outside when the door was opened.
 
-Cael wrote it at the window of the guest house that afternoon, with his shoulder aching and the calf on the stool, while it was fresh.
+He put it in the Log before the ache could fade, with the calf on the stool and the shoulder still talking.
 
 *Two instruments, one year, both managed.*
 
@@ -172,7 +172,7 @@ Cael stopped.
 
 He stood up, and put the file under his arm, and went in to supper.
 
-That was all. He said nothing about why the figures were tidy, or what might have made them so, or what a coach might want to know about a fighter whose figures kept time. All of that stayed where Rooke always left such things: on the far side of the table, with Cael. That was Rooke all through. He would mend what was written on a sheet and never once ask what had written it.
+He said nothing about why the figures were tidy, or what might have made them so, or what a coach might want to know about a fighter whose figures kept time. All of that stayed where Rooke always left such things: on the far side of the table, with Cael. That was Rooke all through. He would mend what was written on a sheet and never once ask what had written it.
 
 So Cael sat by the stove alone, with his coat across his knees, and built the correction himself.
 
@@ -216,7 +216,7 @@ On the first afternoon Lira came back along the wagon bed and sat down beside hi
 
 "It's sound." He watched the road unroll behind them, white at its edges with the frost that the sun had not reached. "I'm going to lose two points against a grappler on purpose, and three on a soft floor, and win three back somewhere else when it's safe. I've got it written down by the bout, with what each one costs."
 
-Lira was quiet for a while.
+Lira was quiet.
 
 "I said it on the rail," she said. "With two figures."
 
@@ -226,7 +226,7 @@ Lira was quiet for a while.
 
 "It already does."
 
-"Good," said Lira, unexpectedly. "I'd worry if it didn't." She leaned her shoulder against his for a moment, the way she had leaned against Karis on the bench at the mill town, and then got up and went forward again to sleep, and left him with the road.
+"Good," said Lira, unexpectedly. "I'd worry if it didn't." She leaned her shoulder against his, the way she had leaned against Karis on the bench at the mill town, and then got up and went forward again to sleep, and left him with the road.
 
 Their second night on the road was at a coaching inn where the hills gave out onto the plain. The wagons stood in the yard under the frost, and the inn had only two rooms and a landing to spare, so the delegation slept where it could. At the inn's counter, while they were taking their keys, the courier who carried the region's meet records came in out of the dark and dropped his bundle on the board. A man in a travelling coat who had been sitting by the fire got up, and bought a copy of each meet's record from the bundle, and paid without asking the price, and went back to his chair and began to read. Cael saw the man's finger stop, about a third of the way down the wool town's leaf, at the place where the exhibitions were. Then the man turned the page.
 

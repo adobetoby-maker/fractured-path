@@ -26,7 +26,7 @@ So Cael told him. He stood in the stable door with his coat round his shoulders 
 
 "So he got a hand on me," Cael said. "And the hand found the arm. That's the floor's share. The rest of it was mine."
 
-Rooke listened to all of it without moving. When it was done he took the folded training sheet out of his coat. It was the one with *Early eyes, late feet* across the top in his square capitals. He unfolded it against the stable door, wrote under the capitals with a stub of pencil, and showed Cael what he had written.
+Rooke listened to all of it without moving. When it was done he took the folded training sheet out of his coat. It was the one with *Early eyes, late feet* across the top in his capitals. He unfolded it against the stable door, wrote under the capitals with a stub of pencil, and showed Cael what he had written.
 
 *Slow on a cold floor: walk the slow. Feet moving inside the wait. If the floor won't let you walk, don't run the item.*
 
@@ -62,7 +62,7 @@ It was the regional office's circular, and Cael knew the look of it. One came af
 
 Rooke read it once, quickly, holding it up in front of him with his elbows on the table.
 
-Then he laid it flat and read it again, slowly, with one finger moving down the margin. He stopped the finger at a place on the page and left it there. He took a long time over the figures under his finger, longer than any sum on that sheet could need.
+Then he put it on the table and went through it a second time, slowly, with one finger moving down the margin. He stopped the finger at a place on the page and left it there. He took a long time over the figures under his finger, longer than any sum on that sheet could need.
 
 Nobody at the table said anything. The reserves had stopped arguing, and Brom had stopped eating, which was rarer.
 
@@ -116,7 +116,7 @@ Lira climbed back over the load and sat down beside him with her legs hanging.
 
 "There's no bell on a waystation."
 
-"There's a bell on the stable. I looked." She was quiet for a while. "I didn't ring it. It would have frightened the horses."
+"There's a bell on the stable. I looked." She was quiet. "I didn't ring it. It would have frightened the horses."
 
 Karis was sitting on a sack behind them with the grey notebook on her knee, and from the look of her pencil she was still adding.
 
@@ -144,7 +144,7 @@ Brom woke as she climbed past him. He opened one eye and looked at the hedges, a
 
 "Good," said Brom, and shut the eye again.
 
-Cael wrote it that night at the waystation's window, on the long table under a lamp, with the left arm free on the board for the first time in four days.
+The left arm was free on the board for the first time in four days when he opened the Log that night, on the long table under a lamp.
 
 *Qualified. Rooke read it at a waystation table with the bread going stale beside it, and shut his eyes for one breath, and then told us not to get careless. Seln had known since breakfast. Gault filed it in his case and then thought better of it and gave it to Rooke.*
 
@@ -164,13 +164,13 @@ There was no crowd at the gate. Nobody on the hill knew yet, except the chancell
 
 Rooke went straight to the records hall with the circular.
 
-He gave it to Bracken across the counter, and Bracken looked at it for a long moment under the lamp. Then he laid it in a clean folder, wrote on the spine in his small upright hand, and shut the folder.
+He gave it to Bracken across the counter, and Bracken looked at it under the lamp. Then he laid it in a clean folder, wrote on the spine in his small upright hand, and shut the folder.
 
 "The archive," he said, "has been waiting for this one."
 
-That was all he said. But Cael, who was standing by the door with his kit, saw him set the folder on the counter's corner, square to the edge, and leave his hand on it a little longer than a folder needs.
+But Cael, who was standing by the door with his kit, saw him set the folder on the counter's corner, square to the edge, and leave his hand on it a little longer than a folder needs.
 
-The house found out in the morning, as it found out everything, from the porter, who had it from Bracken's clerk. By the first bell the cohort board had a new line along its foot in Rooke's square capitals. It said *Qualified* and nothing else. By the second bell somebody had drawn a small careful star beside it in chalk, and Rooke had left it there.
+The house found out in the morning, as it found out everything, from the porter, who had it from Bracken's clerk. By the first bell the cohort board had a new line along its foot in Rooke's capitals. It said *Qualified* and nothing else. By the second bell somebody had drawn a small careful star beside it in chalk, and Rooke had left it there.
 
 Withrow made no speech. She stopped Rooke on the covered walk before noon, and the two of them stood talking for perhaps a minute with their breath going up. Cael passed them carrying his kit to the oak and heard only the end of it.
 
@@ -240,7 +240,7 @@ The third seed was a Force Path of the hill-river house, Iron Rank Seven, and be
 
 "It's what the circuit calls him," said Karis, without looking at her notebook. "He builds."
 
-Lira looked at the square for a while longer, and then she looked across the hall to the main floor, where a broad dark young man in a quilted jacket was warming up alone by the far rope. He was doing nothing anyone would have stopped to watch. He walked three paces, planted, turned, and walked three more, round and round a little shape of his own on the boards, like a man pacing out the footings of a house.
+Lira looked at the square, and then she looked across the hall to the main floor, where a broad dark young man in a quilted jacket was warming up alone by the far rope. He was doing nothing anyone would have stopped to watch. He walked three paces, planted, turned, and walked three more, round and round a little shape of his own on the boards, like a man pacing out the footings of a house.
 
 "Huh," said Lira softly.
 
@@ -256,6 +256,6 @@ Nothing came back. The planks were hard and true and dead, with the stone right 
 
 "Five," Cael agreed. Five free bursts between waking and sleeping, on a floor like that, however he cut the day into bouts.
 
-The steward had pinned the five filings to the board beside the chalk, in the challengers' own hands. Cael read them under the lamp. Two were from academy Irons and gave no reason. One was a confluence-house Blade who had written *the town asked me*. The fourth was in a square, careful, unhurried hand that had filled in a great many manifests: *Bronze. Shield. Convoy guard on the salt road. I have never lost a wagon. I'd like to know whether I'd lose one to you.*
+The steward had pinned the five filings to the board beside the chalk, in the challengers' own hands. Cael read them under the lamp. Two were from academy Irons and gave no reason. One was a confluence-house Blade who had written *the town asked me*. The fourth was in a careful, unhurried hand that had filled in a great many manifests: *Bronze. Shield. Convoy guard on the salt road. I have never lost a wagon. I'd like to know whether I'd lose one to you.*
 
 The fifth said only *Iron Rank Nine. Force. Barges.* Under it, smaller, as though added after some thought: *I have read this river all my life. Let's see.*

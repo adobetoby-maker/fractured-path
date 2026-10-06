@@ -14,7 +14,7 @@ It was a printed likeness. A woodcut face filled most of the sheet, framed in he
 
 "Will you put your mark on it?" said the boy.
 
-Cael looked at the woodcut for a while, and then at the boy, who was holding out a stub of pencil as well, having come prepared.
+Cael looked at the woodcut, and then at the boy, who was holding out a stub of pencil as well, having come prepared.
 
 He had never been asked for his mark on anything except a form. He considered it as he would have considered any new procedure. Was there harm in it? Did it commit him to anything? Would it go into a record somewhere? He could find no harm, and no commitment, and no record that mattered, and the boy was waiting with the pencil held out and his whole face set on the answer.
 
@@ -32,7 +32,7 @@ Cael stood by the pump with water running off his chin.
 
 But he thought about it afterward, drying his face on the gallery stair, longer than a joke deserved. All year he had been something that other people wrote down. Clerks had written him on rosters and judges on slates, compilers in their files, and the registry in a single bracketed word. Every one of them had put him on paper for a purpose of their own, and he had never once been asked whether he would like to add anything. The boy had asked. It was a cheap printed face that looked nothing like him, but at the bottom of it, for the first time, there was a mark in his own hand that said he had been there.
 
-He found that he did not mind that at all.
+He did not mind that at all.
 
 It went on like that all day.
 
@@ -44,7 +44,7 @@ Brom walked at his outside shoulder now whenever they were in a crowd, a step be
 
 It was the old floor-craft of the five of them, the way they had always fought around each other, worked out again on a new floor made of streets.
 
-Rooke saw it at supper and said nothing about it, which from Rooke was approval. Gault saw it too. He watched Brom drift to Cael's outside shoulder as they came in from the street, and Lira step in front of a man who had half risen from his bench with a sheet in his hand, and he leaned across to Cael while the soup was being put down.
+Rooke saw it at supper and let it be. Gault saw it too. He watched Brom drift to Cael's outside shoulder as they came in from the street, and Lira step in front of a man who had half risen from his bench with a sheet in his hand, and he leaned across to Cael while the soup was being put down.
 
 "When I was here," he said, "I could have walked down the processional way in my nightshirt and nobody would have looked up from their pie." He considered that. "I didn't, of course. But I could have." He took up his spoon. "I find I don't envy you as much as I thought I would. Do you mind it?"
 
@@ -88,8 +88,6 @@ And at the edge of the group, inside it and not outside, there was a sixth figur
 
 It was a lean man in a long coat with a ledger under his arm. The woodcutter had put him at the end of the line, standing with the five and a little apart from them, but plainly one of them. It was the same distance he kept from them at every table. And he was there, on the sheet, among them.
 
-Nobody said anything for a moment.
-
 Cael had read the compilers' files on the five of them, all four pages of Brom's and every shop's careful guess at his own. None of them had Seln in it. Every list had him on its last line, and every file took its cue from the lists. Then a woodcutter who had never read any of them had looked up from his bench as they went by his shop, and cut six figures into the block instead of five.
 
 Lira was the first to speak. She had picked up her own sheet and was holding it at arm's length.
@@ -110,7 +108,7 @@ Seln had come to the table last, with the travel file under his arm, and he had 
 
 He returned to his place at the far end and drew the travel file toward him.
 
-There was a short silence. Ephram looked at Lira, and Lira looked at Karis, and Karis looked at Cael with her eyebrows a fraction raised.
+There was a short silence. Ephram looked at Lira, and Lira looked at Karis, and Karis looked at Cael with her eyebrows raised.
 
 "Was that—" said Ephram, very quietly.
 
@@ -122,7 +120,7 @@ There was a short silence. Ephram looked at Lira, and Lira looked at Karis, and 
 
 Seln turned a page. If he had heard any of it, nothing about him said so.
 
-Cael wrote it that night, at the window, with the six sheets weighted under his boot on the floor.
+The six sheets lay on the floor that night under his boot while he wrote.
 
 *Six sheets, two coppers each, and the whole delegation's in them somewhere. Two of me from one printer, one with sunbeams and one without, because the market likes to be told what to feel and doesn't much mind which. One of Lira, angrier than life. One of Daeva of Auremont, all storm and no face, which may be the most honest of the six.*
 
@@ -196,9 +194,9 @@ It told him a great deal about the crowd. It told him a good deal about Auremont
 
 "I know. I heard them." Cael turned round again. The tail of the column was going away up the processional way, the blue and silver getting smaller against the lit tiers of the Concourse. "Everything in that line was put where it was for somebody standing where I'm standing. If I'd read her just now, I'd have read her the way they laid her out for me." He watched the last riders turn the corner toward the delegation quarter. "I'll take my first look at the procession, from wherever the marshals put me, on the tournament's own floor. Until then, all of it is Auremont's publishing. I decline to review the publishing."
 
-Brom thought about that for a long moment.
+Brom thought about that.
 
-"That's either very sensible," he said, "or the most stubborn thing I've heard you say all year."
+"That's either very sensible," he said, "or very stubborn."
 
 "Can't it be both?"
 
@@ -218,9 +216,9 @@ The Archmarshal Vastin read the Norhold files on a Fourth-day evening, in his ro
 
 They had been on the chair beside his table since the cold term, in their two boxes, and he had worked round them every day. He had not forgotten them. He had simply not yet found the hour in which he wished to know what was in them, and he was honest enough with himself to notice that this was not the same as having no hour. On the Fourth-day evening the last bundle of the week was finished before the lamps, and the court below was empty except for the porter and his pigeons, and he lifted the first box onto the table and took off its lid.
 
-He read them as he read everything, in order and in full.
+He read them in order and in full.
 
-He had read a great many files in forty years, and most of them told him more about the office that had made them than about the thing they described. These were no different. Their courtesies told him which officers liked one another and which did not. Their dates told him that somebody had been in a hurry in the cold term, and then had not. He noted that, as he noted everything, and did not make it carry more than a date can carry.
+He had read a great many files in forty years, and most of them told him more about the office that had made them than about the thing they described. These were no different. Their courtesies told him which officers liked one another and which did not. Their dates told him that somebody had been in a hurry in the cold term, and then had not. He noted that, and did not make it carry more than a date can carry.
 
 There were the liaison papers between the observation office and the tournament's adjudication office, courteous and dull. There was the rotation of the observation officers through the three weeks, with their seats and their hours, and the names on it were names he knew. He found Ilsev in the first seat, as he had expected, and Havel in the second. There were the instructions that had gone out under each paper, and the acknowledgments that had come back. He read them all and found nothing in them that a careful office would not have written.
 
@@ -242,7 +240,7 @@ He had not asked for a seat at Norhold. He had not asked to be sent, or told he 
 
 There was nothing irregular in it. Seats were held at every sitting, for officials whose coming was not yet settled. A held seat was a courtesy. It obliged nobody to sit in it.
 
-He noted that. He took his day book from the drawer and wrote, under the date, one line: *Norhold, Concourse row: seat twelve held at this grade. Not requested by this office.* He read the line back, as he read every line, and it was true.
+He noted that. He took his day book from the drawer and wrote, under the date, one line: *Norhold, Concourse row: seat twelve held at this grade. Not requested by this office.* Read back, the line was true.
 
 Then he did a thing he had done perhaps a dozen times in forty years. He noticed a thought beginning, a long one with a shape to it, and he declined to let it go on. It was not that the thought was improper. It was that it had nothing yet to stand on but an empty chair, and he had spent his working life refusing to let a thought carry more weight than the evidence under it.
 

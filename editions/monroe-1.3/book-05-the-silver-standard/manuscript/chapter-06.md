@@ -8,7 +8,7 @@ Brom, who was sitting on the bench by the wall wrapping his hands, stopped wrapp
 
 "That's the handle," he said.
 
-"That is the handle," said Gault. He set the case down on the end of the judges' table, square to its edge, and stood back to let Brom look at it. "Saddler's stitch. Double row. The man who made the frames sent it upriver with a note saying he'd been told I'd been issued a case and he would not have it said that any case of his trade went out with a cheap grip." He lifted the handle an inch, and let it fall back, and it settled without a sound. "I have no idea what to say to him. I've written him three drafts of a letter."
+"That is the handle," said Gault. He set the case down on the end of the judges' table and stood back to let Brom look at it. "Saddler's stitch. Double row. The man who made the frames sent it upriver with a note saying he'd been told I'd been issued a case and he would not have it said that any case of his trade went out with a cheap grip." He lifted the handle an inch, and let it fall back, and it settled without a sound. "I have no idea what to say to him. I've written him three drafts of a letter."
 
 Brom got up, came across the floor, and lifted the case by the handle, once, about a foot off the table, and set it down again.
 
@@ -42,11 +42,11 @@ One burst. He counted it, as he would count every one tonight, aloud in his head
 
 That was the second thing he was fighting: himself, and what he would let a panel see.
 
-He had six free on the sprung oak. This floor was not the oak, it was the second floor's boards, a little stiffer, a little less forgiving, and he knew from a month of mornings that six here was really five. The record said he had a burst that carried twenty feet and a read that looked like peculiar timing. The record had nothing in it about a burst shut off halfway through its paying, or about a contact that took a blow and did not give it back, or about a plate. So tonight, in front of a panel of five, he would fight with what the record held, at the rates the record held it, and not one thing more. It was the doctrine, and he had chosen it, and it was the first time he had ever had to keep to it in front of people holding pencils.
+He had six free on the sprung oak. This floor was not the oak, it was the second floor's boards, a little stiffer, a little less forgiving, and he knew from a month of mornings that six here was really five. The record said he had a burst that carried twenty feet and a read that looked like peculiar timing. The record had nothing in it about a burst shut off halfway through its paying, or about a contact that took a blow and did not give it back, or about a plate. So tonight, in front of a panel of five, he would fight with what the record held, at the rates the record held it, and not one thing more. It was the doctrine, and he had chosen it, and he had never before had to keep to it in front of people holding pencils.
 
 Ephram came across the ring.
 
-Cael read him: weight forward, left, the shoulders not dropped, so the front foot only, so wait. He waited, and the heel came up, and he went right and outside, and as he went he put his palm flat on Ephram's ribs, a touch, clean, on the line the second weight had just left open, and stepped off.
+Cael read him: weight forward, left, the shoulders not dropped, so the front foot only, so wait. He waited, and the heel came up, and he went right and outside, and as he went he put his palm on Ephram's ribs, a touch, clean, on the line the second weight had just left open, and stepped off.
 
 "Touch," said Rooke, from the trestle. "Enrollee."
 
@@ -64,7 +64,7 @@ The third exchange he spent learning Ephram's walk. He did not move for any step
 
 "Even," said Rooke.
 
-In the fourth Cael stopped trying to read Ephram's choices at all. He read only his weight, the old way, the first way, early, and answered the first share of everything. Ephram, who had spent the bout teaching him to wait, could not believe he had stopped waiting, and threw the second-year entry three times running into a boy who was simply no longer where the second weight was meant to find him. On the third of them Cael went inside instead of out, under the lath, and laid his palm flat on Ephram's chest.
+In the fourth Cael stopped trying to read Ephram's choices at all. He read only his weight, the old way, the first way, early, and answered the first share of everything. Ephram, who had spent the bout teaching him to wait, could not believe he had stopped waiting, and threw the second-year entry three times running into a boy who was simply no longer where the second weight was meant to find him. On the third of them Cael went inside instead of out, under the lath, and laid his palm on Ephram's chest.
 
 "Touch. Enrollee. Two to one. Bout to the enrollee."
 
@@ -74,7 +74,7 @@ They stood a moment in the middle of the ring, breathing.
 
 "You taught me to wait. Then you taught me you'd teach everyone to watch me wait." Cael rubbed his forearm. "So I stopped."
 
-Ephram's face showed, briefly, a craftsman's offence. Then he nodded once.
+Ephram's face showed, briefly, a craftsman's offence. Then he nodded.
 
 "That's a good verdict," he said. "I'll take it."
 
@@ -110,8 +110,6 @@ Karis's pencil stopped. Then it moved.
 
 "Six, six, seven. Six point three three." She added. "Twenty-three. Exactly."
 
-Nobody spoke for a moment.
-
 Ephram, sitting on the bench across the ring with a towel round his neck, looked from the trestle to Cael and back again, and his face went through a short and very private struggle.
 
 "I lost," he said. "And I rated higher."
@@ -124,7 +122,7 @@ Lira laughed out loud at the rope, and the Stone reserve, who had not yet dared 
 
 Cael sat on the bench and did the sums again in his head, though Karis had done them right, because he wanted to see them work in his own hands.
 
-Execution, eight, and that was fair. His feet had been clean and his bursts had been clean and his touches had been flat palms on the right lines.
+Execution, eight, and that was fair. His feet had been clean and his bursts had been clean and his touches had been open palms on the right lines.
 
 Control, eight and two-thirds. The panel had seen him own the middle of the ring and keep Ephram's lath out of it, and had marked it high, and he knew why: the read looked like command from outside the rope. It looked like decision. And at the same time, he knew, it had been a kind of trick. He had not decided where the bout would go. He had only known, half a beat early, where Ephram's weight was going, and been there first.
 
@@ -136,9 +134,9 @@ They were right. Every judge at that table had marked exactly what had happened.
 
 And he had chosen it. Every mark in that column was the price of a thing he had decided not to show, at a rate he had decided to keep.
 
-"That's a strong Iron figure," said Rooke from the trestle. He was looking at the cards, not at Cael. "Twenty-three. Every coach in a stand would write your name down for it." He squared the cards. "You'll see it again."
+"That's a strong Iron figure," said Rooke from the trestle. He was looking at the cards, not at Cael. "Twenty-three. Every coach in a stand would write your name down for it." He turned the cards face down. "You'll see it again."
 
-At the trestle's west end Karis was turning the pages of Rooke's old manual, slowly, with one finger on the margin, the way she read anything she meant to come back to. She stopped somewhere about a third of the way in. She read a page there, and then she tore a narrow strip from the bottom of her own scoring card, and laid it in the manual at that page, and closed the book on it, and said nothing at all.
+At the trestle's west end Karis was turning the pages of Rooke's old manual, slowly, with one finger on the margin. She stopped somewhere about a third of the way in. She read a page there, and then she tore a narrow strip from the bottom of her own scoring card, and laid it in the manual at that page, and closed the book on it.
 
 Cael saw her do it, and she saw him see her, and neither of them said a word.
 
@@ -154,11 +152,11 @@ He did not know he was going to do it until it had begun. The first exchange ope
 
 He found he could see the figures forming. Not as numbers in his head, exactly. As a kind of weight on each thing that happened, the way the read put weight on a step before the step was finished. He had spent a month learning what a panel's ten looked like from a table in a map room. Now, outside the rope, he could see par walking about on the floor in front of him, and see where these two came close to it and where they did not.
 
-Lira came close. She came closer than anybody Cael had ever stood across from. In the second exchange she spent three bursts in the time Brom spent one turn, and took him on the shoulder on the third, and walked back to her mark without looking at the trestle at all.
+Lira came close. She came closer than anybody on the hill. In the second exchange she spent three bursts in the time Brom spent one turn, and took him on the shoulder on the third, and walked back to her mark without looking at the trestle at all.
 
-Brom came close in a different place, though he never once looked fast. But in the third exchange, which went long, he did a thing Cael had watched him rebuild across a whole season of Rooke's sheets: he took one of Lira's bursts on the struck side, hard, and did not finish absorbing it before he drove. The seam was gone. The drive came while she was still landing, and the flat of his forearm touched her ribs, and Rooke said "Touch, Brom," in the same voice he used for everything.
+Brom came close in a different place, though he never once looked fast. But in the third exchange, which went long, he did a thing Cael had watched him rebuild across a whole season of Rooke's sheets: he took one of Lira's bursts on the struck side, hard, and did not finish absorbing it before he drove. The seam was gone. The drive came while she was still landing, and his forearm touched her ribs, and Rooke said "Touch, Brom," in the same voice he used for everything.
 
-Lira stood very still for a moment on her mark after that, and then smiled, briefly, at Brom across the ring. It was not a pleasant smile. It was the smile of a fighter who has been reminded of a thing and is grateful.
+Lira stood on her mark after that, and then smiled, briefly, at Brom across the ring. It was not a pleasant smile. It was the smile of a fighter who has been reminded of a thing and is grateful.
 
 She took the fourth exchange. It was not close.
 
@@ -208,7 +206,7 @@ Rooke hung the coil over one of the iron stands. He did not look at Cael. He loo
 
 "In twenty years of coaching I've seen boys rate six on effect because they were frightened," he said. "And because they were tired, and because they didn't know what they were doing yet. I've seen it from boys who were being kind to a friend." He picked up the second stand. "You weren't any of those."
 
-Cael said nothing. It was the nearest Rooke had ever come to asking, and both of them knew it, and Rooke put the stand on his shoulder and went to the stair with it before either of them could find out what would have happened next.
+Cael said nothing. It was as near as Rooke came to asking, and both of them knew it, and Rooke put the stand on his shoulder and went to the stair with it before either of them could find out what would have happened next.
 
 "Six days," he said from the stair. "Rest the hip tomorrow. You spent four on boards that aren't the oak, and you'll pretend you didn't."
 
@@ -242,15 +240,15 @@ The page stopped turning.
 
 He did not look up. He counted instead, from habit, while he turned one of Rooke's profiles over and read the back of it, which was blank. Twenty. Thirty. Forty. At forty he heard her pencil.
 
-She wrote for perhaps half a minute. It was not a long passage; he could hear that much from the rhythm of it, a few lines, a note and not a finding. Then the pencil stopped, and he heard the grey notebook's pages turn, back, a long way back, to the front of it, where he knew she kept a certain small family of citations in her neat square hand. The pages stopped. They went forward again. And the charter's page, which had not turned in two minutes, still did not turn.
+She wrote for perhaps half a minute. It was not a long passage; he could hear that much from the rhythm of it, a few lines, a note and not a finding. Then the pencil stopped, and he heard the grey notebook's pages turn, back, a long way back, to the front of it, where he knew she kept a certain small family of citations in her small neat hand. The pages stopped. They went forward again. And the charter's page, which had not turned in two minutes, still did not turn.
 
 He looked up then, because there had been a sound he did not know.
 
-Karis was sitting very still with one hand flat on the charter and the other flat on her notebook, looking from one to the other. He had a page on that look. He had been keeping it for two years, in reading rooms and archives, and once at a carrel at Greyvane on an afternoon so dark the lamps were lit by the third bell. It was the look of a reader who has put her foot down on a floor and felt, under the floor, another floor, older, that she had not known was there. From across the table both pages were only grey lines to him. He could see that the charter lay open in its oldest part, the founding articles, older than the schedule where she had found the exhibition provision and older than the clause, written long before the registry's last standardization. And he could see that whatever she had written in the grey notebook, she had written it on the same leaf as something much older.
+Karis was sitting with one hand on the charter and the other on her notebook, looking from one to the other. He had a page on that look. He had been keeping it for two years, in reading rooms and archives, and once at a carrel at Greyvane on an afternoon so dark the lamps were lit by the third bell. It was the look of a reader who has put her foot down on a floor and felt, under the floor, another floor, older, that she had not known was there. From across the table both pages were only grey lines to him. He could see that the charter lay open in its oldest part, the founding articles, older than the schedule where she had found the exhibition provision and older than the clause, written long before the registry's last standardization. And he could see that whatever she had written in the grey notebook, she had written it on the same leaf as something much older.
 
 For a time she sat with it.
 
-Then she closed the notebook on it. She did it gently, the way you close a door on somebody asleep. She closed the charter after it, and stacked the one square on top of the other, and laid her hand flat on the stack.
+Then she closed the notebook on it. She did it gently, the way you close a door on somebody asleep. She closed the charter after it, and stacked the one square on top of the other, and laid her hand on the stack.
 
 "Anything?" said Cael.
 
@@ -264,9 +262,9 @@ He did not know what she had found. He did not ask himself to guess. She had put
 
 He banked the fire, and put out her lamp and then his, and went up to his own room, and did not go to bed.
 
-The card lay on his desk. Bracken had had a fair copy made for each of the five, on the same cream stock, and Cael's lay square to the desk's edge where he had put it that afternoon, with the fifth line uppermost in Halcenvane's block. *C. Cael, enrolled practitioner, unclassified — scheduled per demonstration-exhibition provisions.* He had read it so many times now that it had stopped looking like writing and begun to look like a shape.
+The card lay on his desk. Bracken had had a fair copy made for each of the five, on the same cream stock, and Cael's lay by the desk's edge where he had put it that afternoon, with the fifth line uppermost in Halcenvane's block. *C. Cael, enrolled practitioner, unclassified — scheduled per demonstration-exhibition provisions.* He had read it so many times now that it had stopped looking like writing and begun to look like a shape.
 
-He had not argued for it, or asked for it. Other people's honest words had carried him to it: a clerk's record, a dead board's rule, a girl who read schedules, a registrar's mirror and a chancellor's seal. And somebody, somewhere above all of them, had written an answer to a question and let it go through without a word to anybody on the bluff. He did not know who that was. He would very likely never know. Some silence up there had shaped itself round his name, and he could feel the edges of it, a draught from a door he could not see, and that was all.
+He had not argued for it, or asked for it. Other people's honest words had carried him to it: a clerk's record, a dead board's rule, a girl who read schedules, a registrar's mirror and a chancellor's seal. And somebody, somewhere above all of them, had written an answer to a question and let it go through without a word to anybody on the bluff. He did not know who that was. He would very likely never know. Some silence up there had shaped itself round his name, and he could feel the edges of it, a draught from a door he could not see.
 
 And he had an instrument waiting for him now that he wanted honestly, more than he had wanted any number in his life, and that he had already decided, in a cold room with a borrowed card, to manage.
 

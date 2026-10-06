@@ -182,9 +182,7 @@ Seln did not move up the table. He spoke from where he was, to the teapot, more 
 
 "The office has closed last term's records-hall matter," he said. "The man on the stair. His job was bought by a commercial shop that makes files on fighters and sells them up and down the continent. It was bought their way. What they were buying it for is on sale in this town tonight: a file on the enrollee, made since the mill town." He poured himself tea. "The office's finding: private interest, confirmed — the market, not the Compact. Who first paid for the job can't be found from here. In the office's view, it no longer matters."
 
-Nobody said anything for a moment.
-
-Then Lira put her cup down. "Half a year," she said. "Half a year we've had that line open. A man comes up our stair in the night to draw the door, and we build a whole term of being careful on it. And it was a *shop*?"
+Lira put her cup down. "Half a year," she said. "Half a year we've had that line open. A man comes up our stair in the night to draw the door, and we build a whole term of being careful on it. And it was a *shop*?"
 
 Seln reached for the milk. "Most threats are commerce wearing a cloak." He poured. "Pull the cloak off, and nine times in ten there's a shopkeeper underneath."
 
@@ -198,7 +196,7 @@ He drank some tea.
 
 "And there is an absence that confirms it," he said. "Suppose the client had been an office. The Compact, or the registry, or any body with a seal and a standing. An office that wants a thing and fails to get it asks again, louder, on better paper, with a name at the bottom. Nobody asked again. Instead, the shop went round to the public hearing and built the door from that, more cheaply, and sold the file anyway." He set the cup down. "Offices insist. Shops make do. This one made do."
 
-Karis looked at him for a long moment. Then she looked down at her page.
+Karis looked at him. Then she looked down at her page.
 
 "Accepted," she said.
 
@@ -230,7 +228,7 @@ Karis closed the notebook. Lira refilled the teapot. Ephram, who had followed pe
 
 Seln stood, and took his coat from the peg, and went up. He did not say goodnight. He never did.
 
-But Cael had seen his face in that one long second, and he wrote it down that night at the frosted window, by his own candle.
+But Cael had seen his face in that one long second, and before he slept the face was in the Log.
 
 *He looked at me too long. Everybody else at the table heard a fighter talking tactics. He heard what I actually said: that I am content to be permanently unknown, and that I have arranged it so. Of the six of us at that table, he's the only other one who chose it. Two professionals of the same strange trade, and a teapot between us.*
 
@@ -268,7 +266,7 @@ Brom's semifinal opponent had read page three, and had read it carefully, and ha
 
 Cael kept the notebook open on the rope and wrote the bout down as it came.
 
-The man was a solid Copper from a house in the valley, square and well-schooled, with good hands. He came out in the first exchange with a plan, and the plan was the four numbered steps on page three.
+The man was a solid Copper from a house in the valley, well-schooled, with good hands. He came out in the first exchange with a plan, and the plan was the four numbered steps on page three.
 
 He feinted high to draw Brom's right forearm. He stepped round to the left as Brom took the feint and turned it. He set his feet at the place where the seam would open, and waited for it, with a strike loaded.
 

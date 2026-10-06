@@ -36,7 +36,7 @@ The north side of the hall was the coldest place in the building. The breath of 
 
 Ephram stepped on the north flags, and his step went a hand further than he had meant.
 
-It was not much, and he was a good fighter and caught himself at once. But for a quarter-beat he was a hand closer than he had planned to be, with his weight a fraction ahead of where he wanted it, and the Stone had been waiting the whole exchange for that quarter-beat. He came off his warm dry flags in one heavy stride and put a flat hand on Ephram's shoulder.
+It was not much, and he was a good fighter and caught himself at once. But for a quarter-beat he was a hand closer than he had planned to be, with his weight a fraction ahead of where he wanted it, and the Stone had been waiting the whole exchange for that quarter-beat. He came off his warm dry flags in one heavy stride and put a hand on Ephram's shoulder.
 
 "Touch. Quarry house."
 
@@ -54,11 +54,11 @@ He stopped trying to draw the Stone out of the stove end, and went to him instea
 
 The air above the stove end moved.
 
-The heat from the great stove came over the rope and rose off the warm slate, and the air above those flags shimmered very slightly, like the air over a road on a hot day. A man standing in it was a little blurred, and his shoulders were a little blurred, and a fighter who read weight from the shoulders, as Ephram had been taught to and nearly everybody was, saw the Stone's weight move a fraction late through the wavering air every single time.
+The heat from the great stove came over the rope and rose off the warm slate, and the air above those flags shimmered very slightly, like the air over a road on a hot day. A man standing in it was a little blurred, and his shoulders were a little blurred, and a fighter who read weight from the shoulders, as Ephram had been taught to and nearly everybody was, saw the Stone's weight move late through the wavering air every single time.
 
 The Stone was not hiding his weight. He was standing where the room hid it for him.
 
-Ephram came in low. He dropped his eyes from the Stone's shoulders to his feet, below the shimmer, where the air was clear. Feet do not lie about weight, and on that floor nothing could hide them. He read the Stone's next step in his ankles a fraction before the shoulders showed it, went inside it, and touched him on the hip.
+Ephram came in low. He dropped his eyes from the Stone's shoulders to his feet, below the shimmer, where the air was clear. Feet do not lie about weight, and on that floor nothing could hide them. He read the Stone's next step in his ankles before the shoulders showed it, went inside it, and touched him on the hip.
 
 "Touch. Halcenvane. One to one."
 
@@ -82,7 +82,7 @@ The Stone touched him on the chest.
 
 "Touch. Quarry house. Two to one. Bout to the quarry house."
 
-Ephram stood still for a moment on the north flags. Then he looked down at them, put out his foot, and drew the sole of his boot slowly across the slate, and felt it slide. Cael watched him understand all of it, one exchange too late.
+Ephram stood on the north flags. Then he looked down at them, put out his foot, and drew the sole of his boot slowly across the slate, and felt it slide. Cael watched him understand all of it, one exchange too late.
 
 He shook the Stone's hand at the centre of the floor and meant it. Then he walked back to the delegation's rope, took his file book out of his coat pocket before he had put the coat on, and stood at the rope in the cold, writing, while the panel's slates went face down and came up again.
 
@@ -180,13 +180,13 @@ He closed the book.
 
 "That's the account," he said. "I'd have it otherwise. But it balances."
 
-Nobody laughed this time. Rooke had come back from the exchange while Lira was doing the board-man and had been sitting at the far end of the table by the fire with his coat still on. He did not say anything. But he took his own file out of his coat and wrote one line in it, and Cael, who could read Rooke's hand upside down at twenty feet, read it.
+Nobody laughed this time. Rooke had come back from the exchange while Lira was doing the board-man and had been sitting at the far end of the table by the fire with his coat still on. He took his own file out of his coat and wrote one line in it, and Cael, who could read Rooke's hand upside down at twenty feet, read it.
 
 *Takes a loss like freight. Ready.*
 
 Karis had a notebook open beside her bowl. It was not the grey one. It was a long thin book with a stiff cover that she had bought at the wool town, and it was nearly full.
 
-"While we're doing accounts," she said. "Eleven pages."
+"While we're doing accounts," she said. "Twenty pages."
 
 "Of what?" said Brom.
 
@@ -198,7 +198,7 @@ Karis had a notebook open beside her bowl. It was not the grey one. It was a lon
 
 Later, at the window of his room, he wrote the board-man down another way.
 
-*A betting house has checked Seln's arithmetic on its own account and come to the same answer. The file on me calls my margin to the exchange, and the town bet on it, and the town was right. A man whose whole trade is not knowing has looked at me and found nothing he doesn't know. He calls me the most classified fighter on the circuit, as a joke, and it is the most accurate thing anybody has said about me all season.*
+*A betting house has checked Seln's arithmetic on its own account and come to the same answer. The file on me calls my margin to the exchange, and the town bet on it, and the town was right. A man whose whole trade is not knowing has looked at me and found nothing he doesn't know. He meant it as a joke, and it isn't one.*
 
 *So far I've thought of the scatter program as manners, a polite answer to Seln's sum. It isn't manners any more. From tomorrow it's cover, and it starts in the morning.*
 
@@ -206,43 +206,29 @@ Later, at the window of his room, he wrote the board-man down another way.
 
 Karis did not wait for the road home. She held the audit that same night.
 
-She asked Rooke for the whole company, and Rooke, who did not ask her why, gave it to her. They met in the inn's back parlour after the common room had emptied: the five, and Rooke, and Gault with his case, and the two reserves, and Seln, who sat on a hard chair just inside the door, as he always did. The wagoner was asleep in the stable loft. Karis said that was just as well, because the wagoner talked to horses and horses talked to nobody, and she had no concerns about him at all.
+She asked Rooke for the whole company, and Rooke, who did not ask her why, gave it to her. They met in the inn's back parlour after the common room had emptied: the five, and Rooke, and Gault with his case, and the two reserves, and Seln, on a hard chair just inside the door, as he always sat.
 
-She stood at the parlour table with her notebook and went through it like a lesson.
+She did not read them the market's file again. They had all seen what it held, and where every line of it came from: meet records, the gallery, the hearing at the copying rate. "The walls hold," she said. "Two rules will keep them holding."
 
-"This is what the market has on each of us," she said, and read it out, a few lines a head, item by item. On Brom it had page three and his bouts. On Lira it had her bouts and her titles and the story the town had told about her in three versions. On Cael it had what every record had: the public suite at its documented rates, the burst's distance and the landing beat, the read that looked like timing, the six figures in their band. "Here's where every line of it came from. Meet records, bought. The gallery, watched. Hearing transcripts, paid for at the copying rate." She looked up. "All of it from outside. There's nothing from our training floor, nothing about the program, nothing about who trains when or with whom, and nothing anybody said inside our gate or inside these inns. The walls hold."
-
-She turned a page.
-
-"Here's how they keep holding. Nothing tactical in a taproom, and nothing in a warm-up yard. Nothing said within thirty feet of a rail. The people who buy what a seat can see will buy what it can hear as well, and they'll get it cheaper. Corrections get made in a closed room, or they wait until there is one."
-
-Gault, who had sat on more meet floors than all the rest of them together, nodded slowly.
-
-"Letters," said Karis. "Bracken's pouch, both ways, and never the town post. The pouch is sealed at both ends. The town post is a box on a counter." She turned another page, and looked at Ephram.
+"Letters. Bracken's pouch, both ways, and never the town post. The pouch is sealed at both ends. The town post is a box on a counter." She turned a page, and looked at Ephram.
 
 Ephram looked back at her.
 
 "Yesterday morning at first light," said Karis, "you ran your entry in the loading yard behind the exchange, in the open, twice through, slowly and at speed. From the inn's back door I could see you. From the gate, so could a steward. Your quarterfinal opponent declined that exact entry twice that afternoon, and you said at the rope it was as if somebody had told him. This morning the Stone declined it too." She closed the notebook on her finger. "Somebody did tell them. It was sold inside a day."
 
-The parlour was quiet. Ephram's ears went slowly red, all the way round.
+The parlour was quiet. Ephram took it as the cohort took a correction from Rooke, straight and without argument, and Cael liked him for it more than he had all season.
 
-Then he nodded. He took it as the cohort took a correction from Rooke, straight and without argument, and Cael liked him for it more than he had liked him all season.
+"Closed floors," said Ephram. "From now on."
 
-"Closed floors," said Ephram. "From now on. What else?"
+"And shut mouths," said Karis, "anywhere a bench can hear. Anybody who'll pay for what a gallery seat can see will pay for what it overhears, and pay less."
 
-"One more." Karis looked round the room. "Yesterday a coach from the south walked across the warm-up bay and gave Brom his file, so that his own lad would lose honestly. That was decent. It was also a piece of business. In doing it he let this table know his house is a customer of the same shop, and he put us in his debt for a season he hasn't fought yet. And while we read page three, he was across the bay with his hands behind his back, reading us." She put the notebook down. "Decent and instrumental at once. Nearly everything in this trade is both. I'm not asking anybody to be less grateful. I'm asking you to keep two columns."
+"That's cheaper than the lesson I'd have charged for it," said Rooke, from the chair by the empty grate. It was the first thing he had said all evening.
 
-Nobody said anything for a moment.
-
-Then Rooke, from the chair by the empty grate, spoke for the first time that evening.
-
-"That's cheaper than the lesson I'd have charged for it," he said. From Rooke it was very nearly a speech.
-
-Seln, by the door, said nothing. But he had copied the rules down as Karis gave them, item by item, on the back of a sheet from the travel file, under a heading in his small square hand: *Delegation: correspondence and floor discipline.* When the parlour broke up he filed the sheet and went up first.
+Seln, by the door, had copied the rules down as Karis gave them, on the back of a sheet from the travel file, under a heading in his small square hand: *Delegation: correspondence and floor discipline.* When the parlour broke up he filed the sheet and went up first.
 
 Cael wrote one line that night before he slept.
 
-*Karis wrote rules for a whole delegation's tongues and post between supper and bed, and nobody in that parlour blinked. That's the finding. Not long ago the four of us had one secret and a table to keep it at. Tonight we became a house with rules about its post, and I think that's the direction we're going to keep going in.*
+*Karis wrote rules for a whole delegation's tongues and post between supper and bed, and nobody in that parlour blinked. Not long ago the four of us had one secret and a table to keep it at. Tonight we became a house with rules about its post.*
 
 ---
 
