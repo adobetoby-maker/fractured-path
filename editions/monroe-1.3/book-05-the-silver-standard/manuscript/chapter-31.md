@@ -182,7 +182,7 @@ Auremont came out of the tunnel last. Forty of them, in their blue and silver, a
 
 Behind the last of them, alone, came the banner.
 
-It was carried by the tournament's own colour-guard, four men in grey on either side of a tall staff, at a slow march. They had brought it down from the champion's gate at dawn, and it would go back up over the gate when the opening was done. No house walked behind it.
+It was carried by the tournament's own colour-guard, four men in grey, two on either side of a tall staff, at a slow march. They had brought it down from the champion's gate at dawn, and it would go back up over the gate when the opening was done. No house walked behind it.
 
 The Concourse got to its feet for it, all of it at once, with a sound like a long wave breaking along a beach, and Cael felt the difference in his chest as plainly as a change of floor.
 

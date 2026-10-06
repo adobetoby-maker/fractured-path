@@ -142,7 +142,7 @@ Brom found him that afternoon at the bags, reading the line for the third time.
 
 "I'm not a gentleman, either." Brom took off his coat and folded it over the bench. "The Stone holds you the way Rooke told him to. He thinks about it first, and you can feel him thinking. A man who really wants a fight on the ground doesn't think about it at all. He just wants it, and you can feel the wanting through his hands."
 
-He began to strap his right wrist out of habit, though it had been healed for a month. "My grandmother's yard was full of men who unloaded wagons all day and wrestled each other after supper for the bench nearest the fire. You learn what a hold is, growing up next to that. Come on."
+He began to strap his right wrist out of habit, though it had healed months ago. "My grandmother's yard was full of men who unloaded wagons all day and wrestled each other after supper for the bench nearest the fire. You learn what a hold is, growing up next to that. Come on."
 
 So they went out onto the oak again, and Brom held him properly.
 

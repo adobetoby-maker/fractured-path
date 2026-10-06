@@ -112,7 +112,7 @@ Something in him was lighter, as a man is lighter who has set down a case he has
 
 Then, because habit is habit, he took the small book from his inside pocket and opened it and wrote in it too, a few lines, in a hand nobody at the wing had ever seen him use. He put it away.
 
-The locked case stood under the table by his chair, where it had stood every evening of the sitting. He had not opened it. He did not open it now.
+The locked case stood under the table by his chair, where it had stood every evening of the sitting, apart from the pen-case beside it. He had not opened it. He did not open it now.
 
 ---
 

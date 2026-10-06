@@ -12,7 +12,7 @@ For some while he did not write anything. He read, instead, as he read at his co
 
 Then he sat for a time with the pen in his hand and the cap still on it, and looked at the window.
 
-He did not use the delegation's paper. He opened his own case and took from it a packet of plain grey offcuts he kept for notes to the office, and chose one, and laid it on the blotter. With the little knife he kept for sealing wax he cut a strip from it, against the edge of a steel rule, in one stroke. He put the rest of the offcut back in the packet and the packet back in the case.
+He did not use the delegation's paper. He opened his own pen-case and took from it a packet of plain grey offcuts he kept for notes to the office, and chose one, and laid it on the blotter. With the little knife he kept for sealing wax he cut a strip from it, against the edge of a steel rule, in one stroke. He put the rest of the offcut back in the packet and the packet back in the pen-case.
 
 He looked at the strip.
 
@@ -26,13 +26,13 @@ He drew the enrollee's folder out of the row.
 
 He went through its papers from the front, one sheet at a time, until he came to the renewal of the delegation credential. Behind that lay the bout protocol for the following day, four pages pinned at the corner. He laid the strip between them, face up. With two fingers he squared it to the protocol beneath, edge to edge, top and side, so that it sat no further in and no further out than any other paper there. He squared the renewal over it. He closed the folder and slid it back into its place in the row, and squared the row with the edge of his palm.
 
-He wiped the pen and capped it. He put the knife and the rule into the case and closed the case and set it on the floor by his chair.
+He wiped the pen and capped it. He put the knife and the rule into the pen-case and closed it and set it on the floor by his chair.
 
 For a little while he sat with his hands folded on the empty blotter, looking at nothing in particular, as he sat at his counter in the wing at the end of a day when the last form had been taken and the copying was done.
 
 The cat on the stair got up, stretched, and went down to the kitchen.
 
-He took the case and went up to his room.
+He took the pen-case and went up to his room.
 
 ---
 

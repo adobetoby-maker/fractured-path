@@ -290,7 +290,7 @@ He went on toward the first wagon. Lira watched him go with her head on one side
 
 "Practice," said Karis, without looking up from her map.
 
-At the afternoon halt Cael took Hesk's travelling clock out of his kit and set it forward an hour, as he did in every tournament week. The tournament was still nine days off, and the clock had been wrong in the ordinary direction since he first owned it, but it seemed to him that the tournament's weeks had begun at that pole.
+At the afternoon halt Cael took Hesk's travelling clock out of his kit and set it forward an hour, as he did in every tournament week. The city was still nine days off, and the clock had been wrong in the ordinary direction since he first owned it, but it seemed to him that the tournament's weeks had begun at that pole.
 
 *Ninth day. Silver on grey on a crossroads pole, a week out from the walls. The keeper has seen the same flag four times and thinks the road belongs to the tournament for a month every cycle, and nobody on the road argues with him. I set Hesk's clock an hour fast this afternoon. It's wrong in the usual direction, and it'll be right by accident at the city, the same as always.*
 

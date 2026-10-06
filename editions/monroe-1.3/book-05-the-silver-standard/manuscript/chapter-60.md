@@ -2,7 +2,7 @@
 
 He closed the year that evening in Hesk's book, at the table under the window, with Hesk's steel pen.
 
-It was not the end of a year by anybody's calendar but his own. But it was near enough a year since he had sat at another window, on the last night of the old term, and written down what was in the till. A thing that has been opened ought to be closed, and the ledger had been open all that time. He turned past the inventory at seventeen, and the trial, and the ring, and the minute, and the rule, and the warning, to the next clean leaf. He ruled the margin with the edge of the closing ceremony's printed card, because he had no rule with him. Then he sat a moment before he wrote, with the pen lifted. He did that perhaps once a year and had never written it down.
+It was not the end of a year by anybody's calendar but his own. But it was near enough a year since he had sat at another window, on the last night of the old term, and written down what was in the till. A thing that has been opened ought to be closed, and the ledger had been open all that time. He turned past the inventory at seventeen, and the trial, and the ring, and the minute, and the pole, and the rule, and the warning, to the next clean leaf. He ruled the margin with the edge of the closing ceremony's printed card, because he had no rule with him. Then he sat a moment before he wrote, with the pen lifted. He did that perhaps once a year and had never written it down.
 
 *The year, closed.*
 
@@ -188,7 +188,7 @@ He tried his versions on the wagon, on the reserves and the horses and anybody w
 
 The last ferry took them over on the seventeenth day.
 
-On the ferry he wrote in the old volume for the last time, at the foot of its last leaf, until the line ran into the binding and there was no room for a word more. He shut it and put it inside his coat with Hesk's letter. Everything he wrote from now on would go into Hesk's book, and he thought it would be a long while before Hesk's book was full.
+On the ferry he wrote in the old volume for the last time, at the foot of its last leaf, until the line ran into the binding and there was no room for a word more. He shut it and put it inside his coat with Hesk's letter. Everything he wrote from now on would go into Hesk's book, and he thought it would be a long while before Hesk's book was full. There had been no letter from Fiske all year. Lira had said she was not counting the days, and had not, and would be at the Iron bracket next cycle whether Fiske watched it or not.
 
 First the river, wide and slow and going copper in the late light; then the roofs of Ostrand, slate and brown, coming up out of the valley along it; and last, above them all, the bluff, with its one long roofline holding the sun after everything below had lost it. The wagons went up the climb with nobody saying much, because it was the last mile of a long year, and every one of them had found that it was enough just to be riding it, together, with the light going off the water behind.
 

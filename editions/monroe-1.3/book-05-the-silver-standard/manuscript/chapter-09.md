@@ -254,7 +254,7 @@ On the hill the chancellor's office would enter the result in the house book in 
 
 Rooke took the standings sheet from the master of the guild, folded it in four without reading it twice, and put it inside his coat. Then he gave them his review on the steps, one sentence each, while the other houses went past them down into the square.
 
-"Second of six. Lira: I'll see what four bursts in the opening bout cost you at the first dawn on the road, and you won't dress it up for me. Brom: I looked for a note to give you and didn't find one. Karis: you spent your second bout reading the judges' table, and it cost you an exchange you didn't need. I'll lend you that exchange at this meet. I'm telling you so you know it's a loan. Ephram: the Blade beat you on figures, not on the floor, and you know the difference, so I needn't tell you."
+"Second of six. Lira: I'll see what four bursts in the opening bout cost you at the first dawn on the road, and you won't dress it up for me. Brom: I looked for a note to give you and didn't find one. Karis: you spent your second bout reading the judges' table, and it cost you an exchange you didn't need. I'll lend you that exchange this time. I'm telling you so you know it's a loan. Ephram: the Blade beat you on figures, not on the floor, and you know the difference, so I needn't tell you."
 
 He stopped, and looked down at the coaching file in his hands. His own exhibition notes were clipped inside its cover, a single sheet in his small hard hand, and he looked at that sheet for longer than he had looked at anything else that evening.
 
