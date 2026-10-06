@@ -72,7 +72,7 @@ He let go of the wrist.
 
 "That's three," he said, and stepped back.
 
-Brom did not come away from the wall, because he did not need to, and he said it from where he stood, in the same flat voice he had used in the back room two nights before, with his bandaged arms folded and his left shoulder held a little lower than his right.
+Brom did not come away from the wall, because he did not need to, and he said it from where he stood, in the same flat voice he had used in the back room the night before, with his bandaged arms folded and his left shoulder held a little lower than his right.
 
 "Survive the first one."
 
@@ -138,7 +138,7 @@ It struck him across the right shoulder while he was still in the landing beat. 
 
 He heard the bowl see it, all eight thousand of them at once, up every bank of the tiers to the crews' walkways under the roof where the stewards had stopped counting, and it was not a roar. It was a kind of shift, the sound of eight thousand people moving in their seats at once to look again at something they could not have seen. On the west side, at the long table, one of the reserves leaned to the panelist beside him and said something, and the panelist did not answer, and went on writing.
 
-That was Reydan's give, on a tournament floor, for the first time. It was on a floor in front of a crowd for the first time since the bout at Ardenmere that was its only paper. Nobody official had ever seen it. Now nine judges and three scribes and a full row of the Compact had seen it, and it was in the book.
+That was Reydan's give. It had never been on a tournament floor, and no crowd had seen it since the bout at Ardenmere that was its only paper. No official eye at Halcenvane had ever been laid on it. Now nine judges and three scribes and a full row of the Compact had seen it, and it was in the book.
 
 He tried Karis's card then, because it was the only thing he had brought out with him that he had not yet spent.
 

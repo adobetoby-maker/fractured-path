@@ -38,7 +38,7 @@ And there, with nothing left, he saw the whole of the other thing.
 
 It had been there in the break, and he had taken his attention off it before it could finish. It finished now, without asking him. He knew the shape of it as he knew the cost of his own Wind. Every one of the things he carried had come to him the same way. He had been close to it, for a long time, while it was used on him in earnest by somebody who meant it, with everything on the floor for both of them. Lira in a sparring yard, when neither of them knew what she was doing to him. Brom on a hundred floors. A Bronze at Ardenmere, and Reydan, and Karis's hand on the consent. A man on a stair in the third hour of a bad night.
 
-None of them had been anything like this. Four exchanges at the closest range there was. A Gold's whole Path, laid on him from every side, read from the inside, half a beat early, for as long as he had been able to stand up. He had stood at the ends of it. It had burned him. He carried the shape of it down his own left side.
+None of them had been anything like this. Four exchanges at the closest range there was. A Gold's whole Path, laid on him from every side, read from the inside, half a beat early, for as long as he had been able to stand up. He had stood where its lanes ran out. It had burned him. He carried the shape of it down his own left side.
 
 It was all there. It had never once been so complete.
 
@@ -56,11 +56,13 @@ She had begun it. Nobody on any floor had ever been more in earnest. And he was 
 
 *Three. The whole cost on paper first.*
 
-It was on paper. Every reach he had ever made was in the old volume, with what it had cost him afterward: days of quiet while the rest of him moved over to make room, the bill paid in a shut room with nobody watching. He had written every one of them down. He had never written down what it would cost at this weight, in the middle of a bout, in front of a city. Nobody could have. There was no page anywhere that held it.
+Some of it was. Last night, at the window, before anything had happened, he had written the leaf in Hesk's book: that he did not think he could go on not-doing it in front of someone who could kill him by accident, and *Write it down before, not after.* That was the wish, in his own hand, a day ahead of the thing, which was what the third line had always asked for. And every price he had ever paid was in the old volume: days of quiet after each reach, while the rest of him moved over to make room.
 
-He looked at that for a moment. Then he did it anyway. He did it with his eyes open, knowing which line it was, and that it had held.
+But none of those prices had been paid at this weight. Not in the middle of a bout, not in front of a city. No page anywhere held that, and he knew it.
 
-Somewhere at the back of him, in its sealed place, the quiet thing from the stair stirred as it always did when he was cornered, and offered, without a word, to hide him in this corner from every eye in the bowl, and he did not so much as turn his head toward it. It had been sealed two nights ago for a debt, and it stayed sealed.
+He looked at that for a moment. Then he did it anyway. He did it with his eyes open. He knew which line it was, and how far it had held.
+
+Somewhere at the back of him, in its sealed place, the quiet thing from the stair stirred as it always did when he was cornered, and offered, without a word, to hide him in this corner from every eye in the bowl, and he did not so much as turn his head toward it. It had been sealed last night for a debt, and it stayed sealed.
 
 ---
 
@@ -112,7 +114,7 @@ On the tower stairs it broke loudest. A woman near the top asked the man in fron
 
 Inside, it did not break at all for a long while.
 
-On the dais nobody moved. Nine slates lay under nine hands. Behind them, at their own table, one of the three scribes had stopped and was looking at the end of his pen, as if it had done something without asking him. The other two were writing as fast as their hands would go. High over the east rail, in the Compact's row, the quiet records officer from the bluff had stood up, and did not seem to know that he had.
+On the dais nobody moved. Nine pens lay still on nine open charts. Behind them, at their own table, one of the three scribes had stopped and was looking at the end of his pen, as if it had done something without asking him. The other two were writing as fast as their hands would go. High over the east rail, in the Compact's row, the quiet records officer from the bluff had stood up, and did not seem to know that he had.
 
 And she had not moved either.
 
@@ -146,9 +148,9 @@ He saw the choice reach her. He saw it as plainly as he had ever seen a weight m
 
 She did not lay a lane. She did not lift a hand.
 
-The air under him thickened.
+Something happened to the air under him.
 
-He felt it as he fell. It was like falling into a pond. Something took hold of all of him at once, gently, and slowed him, so that he did not hit the stone at all; he arrived on it. He came down onto one knee and the heel of one hand, as quietly as a man kneeling in a chapel. Then the air let go of him and was air again.
+He felt it as he fell, and from where he was it felt like the air thickening. It was like falling into a pond. Something took hold of all of him at once, gently, and slowed him, so that he did not hit the stone at all; he arrived on it. He came down onto one knee and the heel of one hand, as quietly as a man kneeling in a chapel. Then the air let go of him and was air again.
 
 She stepped back a pace. She let her hands hang open at her sides, where everybody could see them. Then she turned her head and looked at the referee.
 

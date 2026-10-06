@@ -10,9 +10,11 @@ Then she began on the routing, which was her work and had been her work since be
 
 There was a second packet under the dispatch slip.
 
-It had come in the same case, by the same courier, from a different office altogether. Her own name was on it in a clerk's hand. She knew the shape of it before she opened it, because she had sent it out herself, months ago, in the cold term, properly, through every channel there was. It was her referral on the designation in the enrollee's file. In all her years she had never before filed twice on one matter. She had filed the first on the strength of what she found at Halcenvane the year before. That one had gone up the stair and not come down. So she had written it again, fuller, with every citation she could find, and sent it up again, because a question nobody answered was a question to be asked again through the proper door.
+It had come in the same case, by the same courier, from a different office altogether. Her own name was on it in a clerk's hand, and she knew the shape of it before she opened it.
 
-It had come down.
+The designation in the enrollee's file had been her question for a long while. She had first sent it up from Greyvane, plainly, asking who had entered the mark and on whose authority. Twice it had come back down to her with the same two sentences, *no originating authority of record*, and the second time a third sentence latched on behind them, saying the same nothing more firmly. So last year at Halcenvane, on the fifteenth of Reaping, she had sat at the long table in the emptied hall and filled in a second referral, fuller, every date and reference in its order, and marked it a level higher than the office that had answered. In all her years she had never before filed twice on one matter. A question nobody answered was a question to be asked again, through the next door up.
+
+This was that door's answer.
 
 She slit the packet and took out the return. It was one line, in a registry clerk's round hand, with a stamp she did not know.
 
@@ -38,45 +40,15 @@ Then she finished the routing minute on the front sheet, correctly, under the ri
 
 ---
 
-Havel brought the second round of the dispatch case in at the half after noon, and saw her do it.
+Havel brought the second round of the dispatch case in at the half after noon, and saw only the paper.
 
-He did not see what she wrote. He did not try to. A junior did not look at a senior's private sheet, and he had never wanted to. But he saw the paper. It was not office stock; he knew office stock as he knew his own boots. And he saw her fold it twice and put it inside her coat, against her chest, and then pick up her office pen and go back to the routing as if nothing had happened.
+It was not office stock; he knew office stock as he knew his own boots. He saw her fold it twice and put it inside her coat, and pick up her office pen again. He did not look for the words. He did not need to. He had four sheets of his own like it, carried through three postings and now in his kit between the second and third of his manuals, where nobody ever looked.
 
-He knew what that was. He had four sheets like it of his own.
-
-He had carried them for a long while now. Through three postings they had lived in a locked drawer, and since the coach north they had lived in his kit between the second and third of his three manuals, where nobody would ever look, because nobody ever looked in manuals. He had written the first of them years ago, at another posting, on the night he first read the designation on the enrollee's sheet and found that the line for its authorizing office was blank. Each sheet since had been the same question asked again, a little more carefully, by a man who did not know whom he was asking.
-
-That night, in the narrow room the Compact had taken for him at an inn behind the east tower, he took the four sheets out from between the manuals and laid them on the bed. He took a fifth from the bottom of his kit. He wrote the date at its head. Under it he copied out the line from the return, word for word, exactly as the registry clerk had written it. He had seen it upside down on Ilsev's desk for perhaps three seconds, and he found that he had it entire.
+That night, in his narrow room at the inn behind the east tower, he wrote a fifth. At its head he put the line from the return, which he had read upside down on her desk in perhaps three seconds and found he had entire.
 
 *Referral closed at registry level; no further inquiry authorized.*
 
-Under that he added a line of his own. It was short, and he let it stand.
-
-He put the five sheets back between the second and third manuals and buckled the kit. Then he sat on the edge of the bed in the dark for a while, listening to the chandler below him closing his shutters. He thought of the woman two doors along the passage, in the senior's room, with a folded sheet inside her coat. She did not know about his. He would never tell her. He thought that two people now, in one city, were keeping papers that their office had not asked for. Neither of them knew any more than they had in the morning about who had nailed the drawer shut.
-
----
-
-Seln wrote his report at the document table in the guesting-house's front room, with the five buff folders lying in their row along the table in front of him.
-
-It was the first report of the sitting he had not had to build.
-
-He noticed that before he had written a word, and it was strange enough that he put the pen down and sat for a moment with his hands on the blotter. Every report he had sent north in a year had been built: true in every line, complete in every box the form asked for, and arranged with great care so that nothing in it led anywhere. He had built them as other men build walls, a stone at a time, checking each. This one did not need building. There was nothing to keep out of it. Eight thousand people had watched the thing. Three scribes had written it down at a speed no clerk could match. The west tower had put it in eleven words and hung them in a frame. Whatever he wrote, the world already held more of it than his form had room for.
-
-He took up the pen again.
-
-*Exhibition, finals day, against the filed Gold challenger of Auremont. Subject fought four exchanges. Capabilities exercised: as in the public record attached, entire. Result and entry: as attached. Observation in this instance is complete, the event having been public.*
-
-He read it through. Every word was true, and every word was all of the truth that was his to write. That had never happened to him before in this work. He found that his hand wanted to go on and write the last line of the form, the line he had written at the foot of every report for a year, the one word that closed it.
-
-He held the pen over the space and did not write the word.
-
-He looked at the space for some time. Then he blotted the sheet as it was, and folded it, and sealed it, and laid it on the corner of the table for Bracken's pouch.
-
-Something in him was lighter, as a man is lighter who has set down a case he has carried so long he had forgotten it was in his hand, and he did not look at it closely. He had a long habit of not looking closely at things in himself, and he kept to it now. He sat with his hands folded on the empty blotter, as he sat at his counter in the wing at the end of a day, and let the lightness be there without asking what it was.
-
-Then, because habit is habit, he took the small book from his inside pocket and opened it and wrote in it too, a few lines, in a hand nobody at the wing had ever seen him use. He put it away.
-
-The locked case stood under the table by his chair, where it had stood every evening of the sitting. He had not opened it. He did not open it now.
+Under it he wrote that the senior seat now kept a sheet of its own. Then he put all five back between the manuals and buckled the kit, and sat for a while in the dark, thinking that there were two of them now in one city, each with papers their office had not asked for, and neither going to tell the other.
 
 ---
 
@@ -117,6 +89,30 @@ Seln was at the door. Nobody had heard him come up. He had the pouch under his a
 "He has kept every rule of a forty-year career," he said, in his counter voice. "If he means to break one for you, the breaking has been paid for somewhere you will never be shown the bill." He shifted the pouch. "Listen accordingly."
 
 Then he went down the stair to Bracken.
+
+---
+
+Downstairs, while Cael went across the court, Seln wrote his report at the document table in the front room, with the five buff folders lying in their row along the table in front of him.
+
+It was the first report of the sitting he had not had to build.
+
+He noticed that before he had written a word, and it was strange enough that he put the pen down and sat for a moment with his hands on the blotter. Every report he had sent north in a year had been built: true in every line, complete in every box the form asked for, and arranged with great care so that nothing in it led anywhere. He had built them as other men build walls, a stone at a time, checking each. This one did not need building. There was nothing to keep out of it. Eight thousand people had watched the thing. Three scribes had written it down at a speed no clerk could match. The west tower had put it in eleven words and hung them in a frame. Whatever he wrote, the world already held more of it than his form had room for.
+
+He took up the pen again.
+
+*Exhibition, finals day, against the filed Gold challenger of Auremont. Subject fought four exchanges. Capabilities exercised: as in the public record attached, entire. Result and entry: as attached. Observation in this instance is complete, the event having been public.*
+
+He read it through. Every word was true, and every word was all of the truth that was his to write. That had never happened to him before in this work. He found that his hand wanted to go on and write the last line of the form, the line he had written at the foot of every report for a year, the one word that closed it.
+
+He held the pen over the space and did not write the word.
+
+The space stayed empty. He blotted the sheet as it was, and folded it, and sealed it, and laid it on the corner of the table for Bracken's pouch.
+
+Something in him was lighter, as a man is lighter who has set down a case he has carried so long he had forgotten it was in his hand, and he did not look at it closely. He had a long habit of not looking closely at things in himself, and he kept to it now. He sat with his hands folded on the empty blotter, as he sat at his counter in the wing at the end of a day, and let the lightness be there without asking what it was.
+
+Then, because habit is habit, he took the small book from his inside pocket and opened it and wrote in it too, a few lines, in a hand nobody at the wing had ever seen him use. He put it away.
+
+The locked case stood under the table by his chair, where it had stood every evening of the sitting. He had not opened it. He did not open it now.
 
 ---
 
@@ -175,11 +171,11 @@ He waited, and then said the others.
 
 Cael put the eight in a row in his head.
 
-"The first four are words you use about a fault," said Vastin. "A thing gone wrong in the record, which a careful office would like to find and mend. You find a fault so that you can take it out." He moved his left hand an inch on the wood. "The second four are words you use about a thing you mean to keep in a box. You will not find one of them in the Compact's charter. I've looked. You can't write *handling* about a question. You can only write it about an answer you've already got."
+"The first four are words you use about a fault," said Vastin. "A thing gone wrong in the record, which a careful office would like to find and mend. You find a fault so that you can take it out." He moved his left hand an inch on the wood. "The second four are words you use about a thing you mean to keep in a box. I went through the Compact's charter for them, article by article, one evening. They aren't in it. You can't write *handling* about a question. You can only write it about an answer you've already got."
 
 "Who sends you the minutes?"
 
-"I can't name him. I'm not certain there is a him. The better question took me a long while to find. Who decides which men are sent minutes, and which men are left off the list?" He said it flatly, as he would have read a line off a form. "I asked that once, in writing, through the door it ought to go through. The reply came back within the week. It was very civil and there was nothing in it. I have not asked again." He looked at his left hand. "I've noticed, lately, that I have stopped meaning to. I don't care for that. I tell you so that you'll know it about me."
+"I can't name him. I'm not certain there is a him. The better question took me a long while to find. Who decides which men are sent minutes, and which men are left off the list?" He said it flatly, as he would have read a line off a form. "I put it on paper once and sent it where such things are meant to go. Within the week it came back. It was very civil and there was nothing in it. I have not asked again." He looked at his left hand. "I've noticed, lately, that I have stopped meaning to. I don't care for that. I tell you so that you'll know it about me."
 
 He was quiet for a while then.
 

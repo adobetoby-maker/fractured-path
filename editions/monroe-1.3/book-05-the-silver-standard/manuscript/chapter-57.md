@@ -20,15 +20,15 @@ He nodded several times, and went out with it, and she heard him on the stair sa
 
 When they had all gone she sat on alone with the salve drying on her shoulder, and thought about the lane.
 
-It had been hers. She had known it the moment it opened, before her mind had caught up, the way you know your own name called across a street before you have turned round. Nobody else on the continent laid a lane like that. She had watched the coast Storms, and the old border Golds, and the one man from the eastern islands who came every cycle and lost in the second round. Their lanes were theirs, each one, the way a voice is somebody's. This one had been hers. It had been small and rough and laid crosswise out of a corner, where she would never have laid it, by somebody who had plainly never laid one before. But it had her grain in it. It had the little hitch at its far end where she always pinched the air hardest. It was like hearing a bar of a tune she had made up as a child, whistled back to her by a stranger in the street. It was in the wrong key, and too short, but hers.
+It had been hers. She had known it the moment it opened, before her mind had caught up, the way you know your own name called across a street before you have turned round. Nobody else on the continent laid a lane like that. She had watched the coast Storms, and the old border Golds, and the one man from the eastern islands who came every cycle and lost in the second round. Their lanes were theirs, each one, the way a voice is somebody's. This one had been hers. It had been small and rough and laid crosswise out of a corner, where she would never have laid it, by somebody who had plainly never laid one before. But it had her grain in it. It had the little hitch at its far end where she always asked the air hardest. It was like hearing a bar of a tune she had made up as a child, whistled back to her by a stranger in the street. It was in the wrong key, and too short, but hers.
 
 She did not try to work out how he had done it.
 
-She noticed that she did not try, and she was glad, as she had been glad two days ago on the floor of the boarded room. People had spent her whole life working out how she did things. They had built rooms and programs and floors for it, and written it all down, and every word they wrote had been true, and none of them had ever once got near her. She was not going to do that to him. She would not have known where to start anyway. She only knew that it was hers, and that it had come out of him, and that she had never in her life been so happy about anything she did not understand.
+She noticed that she did not try, and she was glad, as she had been glad six days ago on the floor of the boarded room. People had spent her whole life working out how she did things. They had built rooms and programs and floors for it, and written it all down, and every word they wrote had been true, and none of them had ever once got near her. She was not going to do that to him. She would not have known where to start anyway. She only knew that it was hers, and that it had come out of him, and that she had never in her life been so happy about anything she did not understand.
 
 Then she thought about the end.
 
-He had been going down at her feet with his side open and his legs gone, and she had seen the finish lying there, and she had not taken it. She had not decided not to, exactly. She had done what her hands knew. She had let the air under him go slack, so that it would not hold him up and would not let him fall either, but take him down slow, like a hand lowering a cup to a table.
+He had been going down at her feet with his side open and his legs gone, and she had seen the finish lying there, and she had not taken it. She had not decided not to, exactly. She had done what her hands knew. She had let the air under him go slack, so that it would not hold him up and would not let him fall either, but take him down slow, like a hand lowering a cup to a table. From her side it was a letting go. She had stopped the air from holding anything at all under him. To him, she supposed, falling into that, it would have felt the other way about, like being caught in water.
 
 It was the thing the big quiet man had done to her on the coast when she was fifteen. She had spent a month of mornings learning never to let anybody do it to her again, and she had kept the exercise sheet ever since because it was the only honest record of a thing that had been done to her. She had always thought of it as the thing that had beaten her once.
 
@@ -44,7 +44,7 @@ That night, in the marbled notebook in the lining of her case, she wrote one lin
 
 The young clerk had gone down for the stamp, and Umber stood at the window and waited for him to come back.
 
-It was the only thing left to wait for. The sheet lay on the black table behind him with nine names at its foot, the ink of the last one still wet. The stamp was in the strong room, three floors down, behind two locked doors and a logging clerk who would not give it up to anybody but a clerk of the minute, which was the rule, and a good one. So the boy had gone down with the key. Umber could hear his feet on the stair, getting fainter.
+It was the only thing left to wait for. The sheet lay on the black table behind him with nine names at its foot, the ink of the last one still wet. The stamp was in the strong room, three floors down, behind two locked doors and a logging clerk who would not give it up to anybody but a clerk of the minute, which was the rule, and a good one. So the junior clerk had gone down with the key. Umber could hear his feet on the stair, getting fainter.
 
 Outside the glass the night was going, and the harbour had come up out of the dark without his noticing it, grey and flat and very still, with the masts in the basin standing up out of it like pens in a pot. A cart was crossing the quay with nobody beside it. Every lamp in the room had burned down to its last inch.
 
@@ -142,7 +142,7 @@ The words had taken longer than the ruling.
 
 He had thought they would. Agreeing on what was true was one thing. Setting it down in eleven words of the office's flat type, for strangers to read who had not been in the room, was another. They had spent an hour and a half at it. He would have spent longer.
 
-*Unassessed* had gone first, because they had assessed, all night, with the full tables open. *Rating withheld* had gone next. It said there was a figure somewhere and the office was hiding it. The woman from the coast had wanted *beyond the scale*, and fought for it hard, and he had refused it because it was praise, and the entry was no place to praise anybody. The mark had not earned praise by failing. The boy did not need any.
+*Unassessed* had gone first, because they had assessed, all night, with the full tables open. *Rating withheld* had gone next. It said there was a figure somewhere and the office was hiding it. The woman from the coast had wanted *beyond the scale*, and fought for it hard, and he had refused it because it was praise, and the entry was no place to praise anybody. The mark had not earned praise by failing. The enrollee did not need any.
 
 What was left was plain, and nobody could make it plainer.
 
@@ -154,7 +154,7 @@ The nine had signed by seats, and the youngest had signed eighth. He had read th
 
 "No," Umber had told him. "It was the best one made tonight. Leave it in, so that whoever sits here next can see what it cost us to say no to it."
 
-The boy came back up the stair with the stamp, out of breath.
+The junior clerk came back up the stair with the stamp, out of breath.
 
 He inked it and set it on the foot of the sheet and lifted it clean, and the office's seal sat there under the nine names, black and square.
 
@@ -202,7 +202,7 @@ It did it gently, a little at a time, like a good coat in its last year of wear.
 
 "The copy line. Their delegation head, and the risk officer, and two coaches." He sat down heavily. "The steward went out to them and offered to take them straight through. Champion house. They always go through. The head thanked him and said they'd wait their turn, and they're standing behind a woman with a basket of eels and three boys from the hill house." He shook his head. "Half the city's walking past to look. Nobody's saying anything. They just go by and look."
 
-It was the thing Norhold remembered best about that morning. Years later Cael would meet people on the roads who had not seen a minute of the bout and could tell him exactly where Auremont had stood in that line.
+It was the thing the city remembered best about that morning; people in Norhold were still telling it years after. Years later Cael would meet people on the roads who had not seen a minute of the bout and could tell him exactly where Auremont had stood in that line.
 
 The guesses came up the stair with every visitor, all day, and he wrote every one of them down.
 

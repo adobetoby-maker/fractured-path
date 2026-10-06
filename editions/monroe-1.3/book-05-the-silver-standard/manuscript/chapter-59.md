@@ -18,7 +18,7 @@ He had told the boy that he had stopped meaning to ask who chose which men saw t
 
 That troubled him more than the eight words.
 
-His left hand ached. It was the evening. He put it in his coat pocket, against the summons, and walked on.
+His left hand ached. The afternoon was getting on, and the hand had started early. He put it in his coat pocket, against the summons, and walked on.
 
 He did not yet know what he would say at the sitting. He would know when he was standing in it. That was the only way he had ever known anything worth saying. He knew one thing about it already, and it was enough to be going on with. Whatever he said, he would sign every word of it with his whole name.
 
@@ -32,7 +32,7 @@ The ring was still there. It would come up tonight; the crews were already gathe
 
 He found the mark without looking for it.
 
-It lay along the foot of the barrier, west of the north break, a few strides long. Somebody's broom had been over it and had not been able to lift it. It was a pale line on the grey stone, like the mark a pan leaves on a table, and at its far end there was a scorch the size of a hand where his little fire had cracked. It was the only thing on the floor to show what the city had argued about all day in seven ways and been wrong in all of them. The crews would have it up with the stone before morning. Nobody would think to keep it.
+It lay along the foot of the barrier, west of the north break, a few strides long. Somebody's broom had been over it and had not been able to lift it. It was a pale line on the grey stone, like the mark a pan leaves on a table, and at its far end there was a scorch the size of a hand where his little fire had cracked. It was the only thing on the floor to show what the city had argued about all day, five different ways, and been wrong every time. The crews would have it up with the stone before morning. Nobody would think to keep it.
 
 He stood and looked at it until the light went off it.
 
@@ -144,7 +144,7 @@ Gault had taken the flat box out of his inside pocket, the one with the old blue
 
 Lira was the only one of them who looked at the cloth. She looked at it with her chin up and her eyes too bright, and said, out loud, so that the whole line heard:
 
-"Eighteen years they didn't come. Somebody write to Fenmark and tell them what the scrapyard placed."
+"Eighteen years they didn't come." She did not look away from it. "There's a table-keeper at Fenmark who wrote me off at fourteen. I want him told, in his own ink, what the scrapyard placed."
 
 Karis, beside her, did not write it down. She reached across without looking and took hold of Lira's sleeve, and kept hold of it.
 
@@ -174,7 +174,7 @@ She watched the plain colours come up on her left as the procession turned at th
 
 They were standing in the tunnel mouth under their honour staff, all of them in a line. The big one with the ribbon. The Ember girl with her notebook under her arm. The Wind girl, with her arm held close at her side and her chin up. And at the end of the line the boy, with his left shoulder held a little stiff under his coat, watching the banner go by as she had seen him watch everything since the procession, as though he were reading it.
 
-She had not planned anything. She noticed, afterwards, that she had not planned anything at all. That was the second time in her life.
+She had not planned anything. She noticed, afterwards, that she had not planned anything at all. Only once before had that happened to her: at a desk, before dawn, with a filing form.
 
 She stepped out of the file.
 

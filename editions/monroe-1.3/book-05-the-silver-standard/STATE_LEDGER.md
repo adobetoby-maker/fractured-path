@@ -1578,3 +1578,229 @@ Lira on T16: one burst in E1 ("Early.").
   - the ash already broken.
 
 **Movement 8 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — twelve applied (six required: ch47 a stray quote from the tag trim; ch52 Lira on T21 'Three days from now'; ch52 'You can't climb it,' she said restored; ch53 'said Lira' after Karis's pen; ch53 the eve's form sentence re-composed off the source; ch51 'one of the colour-guard at either side' — a guard of two; six optional: source-order reorders in ch49 and ch51, and ch52 'each mast grounded twice' to agree with ch50 and the ring canon). Remaining close band (~12%) judged common-word noise by the recheck after reading; six to eight sub-probe runs reduced by the optional fixes. Overlap 0/27, gates 0, probe 2%/12%.
+
+
+## AFTER MOVEMENT 9 — chapters 54–60 (drafted 2026-10-05/06, author claude-opus-5-5; repair r1 applied; recheck pending) — BOOK END STATE
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Calendar per #41: finals day T24 (morning card: the Iron, Silver and Gold bracket finals and the team-trial final — Auremont won it without Daeva on the squad — then the match); panel overnight T24–25; the morning after and the meeting T25 (the timekeepers' office; Brom on the step); closing T26, "Third. Halcenvane Academy." confirmed; road home seventeen days; Brom's summons at the district seat on road day nine; Hesk's reply reaches them on road day eleven. The tournament's length is never stated in days.
+- THE MATCH (ch54–56): majority-of-nine flags decide a touch (ch40/ch41 practice); the E3 strike drew four of nine, "No touch"; flags stood 1–0 to Cael at the stoppage. Bank spent strictly by the T23 minute, only inside a fight Daeva began: Wind to its seventh, eighth and ninth bursts (all three past six); the push at fighting load; Reydan's give on a tournament floor for the first time and before a crowd for the first time since Ardenmere; Ember contacts three in all, one past the two allowed in public; the read to depth. Shadow offered itself in the last corner and was refused; sealed; Seln never told why. Left side hit shoulder to hip. The notice and the first stability warning verbatim (§10).
+- RULE THREE: "on paper as far as paper went" — the beforehand page was last night's leaf in Hesk's book (protected 28), the wish in his hand; no page held the price at Gold weight; "He knew which line it was, and how far it had held." The circle's costed rule (protected 32) is the repair of that named gap, initialled by four.
+- The catch, two-sided: Cael felt the air thicken; Daeva let it go slack (her vocabulary) and supposed it felt to him like being caught in water. Daeva never theorizes what he is.
+- ILSEV'S REFERRALS (to the B4 record): the first went up from Greyvane and came down twice with "no originating authority of record"; the second, fuller one went up from Halcenvane last year on the fifteenth of Reaping, a level higher — that second one is now returned closed. Her private sheet on stationer's paper in her girlhood hand; Havel sees only the paper's kind.
+- New canon: Vastin's observation right is "the charter's fourth schedule"; Vastin's stiff left hand; Umber "forty years"; Havel lodges at an inn behind the east tower; the banner's four ties loosed upper-middle, lower-middle, head, foot; Seln's report omits "Routine."
+- No optional Norhold session (C8): two renewals on paper at the book's close (Book 6 audit A11 → owner).
+- Protected item 29 keeps "three years".
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names. Days are named only as "finals day", "the morning after", "the closing", and road days by number ("the ninth day", "the eleventh day", "the twelfth day", "the fourteenth day", "the seventeenth day").
+
+| T / road day | Event |
+|---|---|
+| T24 | Dawn: the clock put back. Morning card (Iron, Silver, Gold finals; trial final to Auremont without Daeva). Umber walks the ring. Rooke's five minutes; Seln's folder; the reading; protocols twice; walks; **the match** (E1 bell; E2 Cael's touch; E3 no touch, bell; break; E4 the reach, the lane, stoppage). The notice. Vastin leaves the row. Sixth bell evening: the panel shut in. Night: Daeva's line in the marbled notebook. |
+| T25 | Half past five: the entry signed, stamped, read at the window. First light: the five at the north-tunnel frame. Morning: the counter; Auremont in line; the guesses (a sixth, "Daeva did it", the next morning). Noon: Ilsev's file and return; Havel sees. Seln's report. A little after noon: Withrow brings the note; the council. Fourth bell: **the hour** (fifty-one minutes). Vastin walks to the inn. Nightfall: **the second pole** at the rail. Evening: the wider table; ~tenth bell: the circle, the costed rule, four initials; the warning log. Night: Havel's fifth entry. Midnight: crews strike the ring. |
+| T26 | Morning: Auremont's sentence printed. Second bell: **the closing** (fourteenth to fourth; Halcenvane third, honour staff; the banner passed to Auremont; Daeva's four seconds). Afternoon: Daeva's citation. Evening: the year's ledger; letters by the eighth bell; Brom packs; Lira on the harbour wall. |
+| Road day 1 | First waystation; Seln at the middle of the bench. |
+| Days 3, 5 | Day 3: the manifest seen; day 5: "Eleven." |
+| Day 9 | The district seat: Brom's summons. |
+| Day 11 | The coast-road waystation: Hesk's reply (dated four days before). |
+| Day 12 | Two watchers at a bridge in a market town. |
+| Day 14 | Karis's two bundles. |
+| Day 17 | The last ferry; the old volume's last line; Ostrand; the close. |
+| (off the road) | The convening, "at about that time" as the first waystation; no date given. |
+
+**The match record.** Exhibition rules (#39): five exchanges at most, two touches ends it, touches flagged by the panel (majority of nine).
+
+| Exchange | Touch | Notes |
+|---|---|---|
+| E1 | none (bell) | Courtesy pass; Cael's bursts 1–3, push 1, the give's first public contact |
+| E2 | **Cael, 7 of 9 flags** — "One to nought." | Fold read; feet only for two lanes; burst 4 to the lane's end; Ember contact 1 |
+| E3 | none — 4 of 9 flags on the left-side strike, "No touch" | Braid; bent lane; the woman-or-air price; referee checks the hand; bursts 5–7, pushes 2–3, Ember contacts 2–3 on her forearm; bell |
+| E4 | **stoppage** (referee, confirmed by Umber) | Bursts 8–9; pushes 4–5; the give overloaded; Ember nothing to touch; the reach; his lane; destabilization; her slack; *Stoppage. Daeva.* |
+| Entry | *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.* | No figure posted anywhere |
+
+**Bodies.**
+- **Cael:**
+  - Left side, shoulder to hip, strapped by Gault in the healers' corridor; yellow at the edges by about the tenth road day.
+  - Left arm a fifth of a beat late through the bout.
+  - Right forearm burned wrist to mid-forearm, the spark and her lane's fire together; "will shine for a week".
+  - Right shoulder: five pushes, the fifth past the cap, "still counting".
+  - The hip after nine bursts, three past six (the seventh, eighth and ninth), "all three bills the next morning with interest".
+  - Feet rang (faded).
+  - **The frameworks are destabilized and resettling:** everything shifting toward the new weight; the Wind sometimes answered by the wrong part of him. On the road, "The Wind at three on yard clay. Came when called, twice of three." The healers said a month; his reckoning says more.
+  - **The Storm stability flag stands at close.**
+  - Shadow rent from waking; deployment none.
+- **Brom:** left shoulder held low throughout; forearms bandaged.
+- **Karis:** palms pink.
+- **Lira:** fit; wrists untaped on T26; left arm held close from habit.
+- **Ephram:** hoarse from T24 to the road.
+
+**Fragments and progression.**
+- **Seven confirmed.** The seventh is Storm-adjacent (Daeva), taken directed, mid-fight, inside a fight she began, under the year-old minute's three lines; a crude lane fifteen feet at a third of the depth, and a spark. The notice is verbatim (ch56).
+- Firsts: the first notice to say *Gold*; the first stability warning.
+- The anomaly is uncounted; it is touched once this movement, in the year's ledger (ch60), with the three words.
+- **Public record changes (permanent):**
+  - Wind past six;
+  - the push at fighting load past four;
+  - Reydan's give on a scored tournament floor (first time) and before a crowd (first since Ardenmere);
+  - Ember past two contacts;
+  - the read at its depth;
+  - a Storm-adjacent effect deployed, with no figure.
+- Shadow never deployed (refused in the last corner).
+- **The circle's costed rule** is initialed by four (protected 32 plus one line).
+
+**Knowledge.**
+- **Cael:** the woman-or-air price at Gold; the warning, the eight nouns, the minutes question, the convening, Vastin's refusal on Level 4, "Nothing answers a conclusion"; the entry; seven wrong guesses; Rooke's mercy line; the manifest's unchanged words; Hesk's reply.
+- **Lira, Brom, Karis:** the mechanism; the costed rule; the hour as told.
+- **Seln:** the hour as told at the long table; his own true report. Not told the mechanism or why the Shadow seal; no reason stated for anything he does.
+- **Ephram:** at the wider table; not told.
+- **Daeva:** the lane was hers, out of him; "a piece of it"; no theory, by choice.
+- **Umber:** that the performance is impossible under his tables; no theory ("met something it doesn't contain").
+- **Vastin:** the entry; his own unease at Level 4; summoned; nothing of fragments, Seln or makers.
+- **Ilsev:** the closed referral; her first private sheet.
+- **Havel:** Ilsev's sheet seen; his fifth entry.
+- **The Compact sitting:** the question entered; no vote.
+- The words *integration*, *acquisition*, *witnessed* and *fragment* appear only inside the notice's own text and Cael's ledger; *digestion* only in Cael's log.
+
+**Resources.**
+- Hesk's book: the guesses; protected 29, 30, 32 (+ line), the year's ledger.
+- The old volume: full, its last line written on the last ferry.
+- Hesk's reply behind the old volume's front board.
+- Vastin's note (Cael's; nothing written at the hour).
+- Seln's report (sent; *Routine.* left off) and his small book.
+- Ilsev's private sheet (in her coat); Havel's five sheets.
+- Karis's two bundles (206 sheets).
+- Brom's summons beside the Velmere letter; the plaque in two shirts.
+- Daeva's sealed citation, unread, in her case lining.
+
+**Relationships (on the page).**
+- **Daeva:** peers; the hand up; "Rematch."
+- **Vastin:** the honest weather; "Count it right."
+- **Brom:** the step, "Fifty-one minutes", "Good."
+- **Lira:** "Put her down"; the scrapyard; the wall; "Fifty-one minutes. That's what mine took."
+- **Karis:** "*Under*… somebody sat up all night"; takes Lira's sleeve; caps her pen unwritten at the summons.
+- **Seln:** the middle of the bench; "Eleven."
+- **Ephram:** the canvass of the silence; the plain version.
+- **Rooke:** the palm at every rail; the mercy line.
+- **Withrow:** reads only the outside of a letter; looks along the line at the closing.
+- **Umber and Vastin:** one look.
+
+**Open threads.**
+- **Opened:**
+  - Daeva's rematch.
+  - "the people who want this to stop".
+  - The convening's question, entered and unscheduled.
+  - Brom's review (summons collected, unresolved).
+  - Vastin's tact ("he had stopped meaning to ask").
+  - Ilsev's private sheet.
+  - The watchers' return.
+- **Advanced:** Seln at the bench; Level 4 (Vastin's four seconds; the convening's blank).
+- **Closed:**
+  - The match.
+  - The rating ("unscorable").
+  - The placement (third of fourteen).
+  - The banner (to Auremont).
+  - Fenmark as a wound, by Lira's scrapyard line.
+  - The old volume.
+
+**Prose vs plan differences.**
+- (a) **Gates.** Cael's gate is north, Daeva's south (Gault's station at the north break, ch53). The five's rail is above the north break. The panel's long table is on the west side; the Compact row is over the east rail.
+- (b) **Her change.** She opens E1 at the wall, not the oak, paying ch52's "I'll have changed it by the day after tomorrow". She takes the oak in E4, satisfying §8's "she owns the middle".
+- (c) **The E3 strike is not a touch** (four flags of nine), so E3 can continue as §8 requires. At stoppage the flags stand one to nought for Cael. See owner flag 2.
+- (d) **Ember stays contact-only.** Its E4 failure is "nothing to touch": she sends fire down her lanes and stops walking them.
+- (e) **Vastin "leaving"** the row after the match is him going to the in-camera room under the observation right, so M8's "this time he would stay" holds. Cael misreads it ("Before the figure. Again.").
+- (f) **The meeting** is in the timekeepers' office in the east tower (the note names it neutral ground). Brom sits on the step under the tower arch rather than standing at an arch.
+- (g) **Hesk's reply** reaches the column on road day 11, written off the broadsides before Cael's letter arrived. It stays verbatim; the packet placed it with the letters.
+- (h) **The second pole** is written at nightfall on T25, after the meeting ("Tonight" in the protected text).
+- (i) **Ephram's correction** is about the lock-keeper's verses ("Eleven"), not the third-place trial.
+- (j) **The optional Norhold session (C8) is not drafted.** Placing it was the owner's call, and the two days at Norhold after the match hold a destabilized fighter.
+
+## New canon minted (flag where marked)
+
+- **Finals morning:**
+  - the keeper takes off his cap on the stair;
+  - Brom's warm loaf;
+  - the queue from the second bell;
+  - the betting rows' *figure* board in half points with no line for "no figure" (flag);
+  - Auremont won the trial final without Daeva on the squad sheet (flag).
+- **Panel composition:** the five of the senior exhibition panel plus four reserves, nine charts (flag). The three scribes sit at their own table behind.
+- **The reading:**
+  - a grey-haired official at a stand by the south end;
+  - "Unclassified" said where a rating goes;
+  - Vell's Ardenmere courtesy recalled (a clerk read his name there).
+- **Exhibition flags:**
+  - a touch needs a majority of the nine;
+  - the E3 strike drew four flags and was "No touch" (flag);
+  - the referee may check a hand and let it go on.
+- **Daeva's tactics:**
+  - E1 at the wall; the one hitch at the west break's cap seam (ch52 plant) and none after;
+  - E3 two and three folds at once, and a lane that bends along the barrier;
+  - E3's armed end: a lane sent with fire and no runner;
+  - E4 from the oak, sowing the floor;
+  - her mercy: the air let go slack under him (her POV), felt by him as thickening "like falling into a pond" (flag, see owner flag 3).
+- **The silence:** the relay man on a barrel at the east tunnel, eleven seconds by a carter's count; ledgers turned face down "like men at a graveside"; forty voices on the tower stairs; one scribe staring at his pen; Havel on his feet.
+- **After:**
+  - Auremont's flag half-furled and held low (stoppage form);
+  - the north station's older healer (she): name, day ("Finals day"), exchange, grip;
+  - Rooke's line reaches the bluff "by three roads" via the younger healer.
+- **Daeva after:**
+  - the coin-sized mark below her left collarbone;
+  - the risk officer: "The north mast took it… It held anyway.";
+  - the marbled notebook line *Today somebody asked me something.* (flag).
+- **The in-camera night:**
+  - the hearing room with the ring plans, and Auremont's specification pinned unframed;
+  - the senior rating clerk (she) brings the full tables up on a handcart;
+  - nine precedents (two disputes of fact, four between panels, two frauds, the eighty-first cycle);
+  - the observation right "in the charter's fourth schedule" (flag); Vastin sits on the steward's stool;
+  - the rejected words *Unassessed*, *Rating withheld*, *beyond the scale*;
+  - the youngest panelist concedes *under* himself and his argument is kept in the minute at Umber's order;
+  - the stamp from the strong room by a clerk of the minute;
+  - the entry read aloud once at the window before any copy (the office's custom; flag).
+- **The morning after:**
+  - brass queue tokens, numbers chalked on wall and floor, charts on the backs of old seating plans, split pens, a cramped clerk;
+  - Auremont behind "a woman with a basket of eels";
+  - six guesses: the keeper's, Gault's healer's cousin's mimic Path, a broadside seller's staging, fraud, "nothing unusual", and the fishwife's "Daeva did it".
+- **Ilsev:**
+  - a woman taught her to read forms "the way a jeweller looks at a stone";
+  - (r1, per B4) her first referral went up from Greyvane and came down twice with *no originating authority of record*; the second, fuller one was filed at Halcenvane last year, on the fifteenth of Reaping, marked a level higher; it is that second one now returned closed;
+  - the private sheet is stationer's paper from the coopers' row, in her girlhood hand, folded twice into her coat.
+- **Havel:** a narrow room at an inn behind the east tower (accepted canon). r1 cut "years ago, at another posting" and the chandler below; his five sheets travel between the second and third manuals.
+- **Seln's T25 report** (verbatim in ch58), with the closing word *Routine.* left off; a small book in his inside pocket "in a hand nobody at the wing had ever seen him use" (flag).
+- **The note** (verbatim in ch58). Withrow delivers it and reads only the outside.
+- **The timekeepers' office:**
+  - forty-odd clocks each tagged with its error;
+  - the keeper corrects for each clock's error and does not throw any out;
+  - a travelling clock labelled *Slow. Owner informed.* (flag).
+- **Vastin:**
+  - he closed his evaluation "on a stool by a door, at about the fourth bell";
+  - the fourth question on the bluff;
+  - "I've noticed, lately, that I have stopped meaning to [ask]";
+  - "It's worse in the evenings now as well as the mornings";
+  - the walk: tact, not fear; he will sign everything with his whole name.
+- **The closing:**
+  - fourteen staffs along the north side;
+  - three honour staffs under the champion's gate;
+  - a steward's white glove times the eight;
+  - Halcenvane's old standard mended at the hoist;
+  - Rhagen's captain does not look up;
+  - Gault holds his ribbon box;
+  - the eight that would not stop.
+- **The banner:**
+  - a colour-guard of two;
+  - four grey ties, loosed upper-middle, lower-middle, head, foot (flag), and re-tied in reverse;
+  - folded in four;
+  - a pine case;
+  - Bracken's story of a herald fined for the wrong order.
+- **Daeva's citation:** sealed, put in the lining, never opened.
+- **Letters:** Hesk six pages ("It turns out I like the company"); Vell's mentions Umber's boot.
+- **The road:**
+  - boards (finals card, then oats, then nail-holes);
+  - the north woman's "something on, at the coast";
+  - the manifest written by Seln with *records and floor scheduling* against his own name;
+  - Brom tells the summons on the tailboard unasked (flag: the source has him wait);
+  - Hesk's letter by the coast coach;
+  - watchers at a market-town bridge;
+  - Karis's 206 sheets;
+  - Ephram's plain version ("carry my kit up the bluff while I tell it").

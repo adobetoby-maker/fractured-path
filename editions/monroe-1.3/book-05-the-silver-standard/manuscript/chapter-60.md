@@ -8,7 +8,7 @@ It was not the end of a year by anybody's calendar but his own. But it was near 
 
 *Seven now, and the one I can't account for.*
 
-*Lira's burst. Six free on the sprung oak; four a day on this city's stone. On finals day I spent nine, two of them past six, and the hip sent both bills the next morning with interest. The landing beat: four years of trying to trim it, and it is no shorter. Since yesterday afternoon it doesn't always come when I call it. Sometimes something else comes.*
+*Lira's burst. Six free on the sprung oak; four a day on this city's stone. On finals day I spent nine. The seventh, eighth and ninth were all past six, and the hip sent all three bills the next morning with interest. The landing beat: four years of trying to trim it, and it is no shorter. Since yesterday afternoon it doesn't always come when I call it. Sometimes something else comes.*
 
 *The push I took from the Bronze at Ardenmere. Five blows in one sitting, on a scored floor, in front of eight thousand, the first load it has carried in public since the circuit. The right shoulder is still counting the fifth.*
 
@@ -16,7 +16,7 @@ It was not the end of a year by anybody's calendar but his own. But it was near 
 
 *Reydan's give. Nobody official had ever seen it. On finals day nine judges, three scribes and a full row of the Compact watched it drink a Gold's wash and then most of a Gold's fire. That's over. It's in the book for good.*
 
-*Karis's spark, by her leave. Three contacts past the two. One of them was the touch. The right forearm will shine for a week.*
+*Karis's spark, by her leave. Three contacts in all, one past the two we allow in public. The first was the touch. The right forearm will shine for a week.*
 
 *The quiet thing from the stair. Sealed through the most watched afternoon of my life, and in its last corner, when it offered. Never used, anywhere, by anybody's count. Rent from waking, spent or not. The second year of "nowhere yet" closes tonight, and it is still nowhere. The debt it was sealed for is still owed and still unspoken.*
 
@@ -48,7 +48,7 @@ Vell's was shorter. She had kept the first honest figure anybody ever wrote down
 
 He took both down the stair at a quarter to the bell. Bracken weighed Hesk's in his palm, and looked at Cael over it, and put it in the pouch without any remark at all, which from Bracken was a remark.
 
-In the back room Brom had his kit open on the bed and was packing it by a system nobody else understood, the shirts rolled as tight as bandages. The plaque went in last, in its own two shirts, with a letter of one line laid flat against the back of it. Lira was on the other bed with her boots off. She asked him whether he meant to think about the district seat yet, since the summons would be lying there waiting for him; the notice had said so.
+In the back room Brom had his kit open on the bed and was packing it by a system nobody else understood, the shirts rolled as tight as bandages. The plaque went in last, in its own two shirts, with a letter of one line laid flat against the back of it. Lira was on the other bed with her boots off. She asked Brom whether he meant to think about the district seat yet, since his summons would be lying there waiting; the notice had said so.
 
 Brom pushed the plaque down into its corner with the flat of his hand until it sat level.
 
@@ -60,11 +60,11 @@ There was no weather, and the masts were quiet. Behind her the city was half dar
 
 He sat down beside her. A lighter was coming across the basin, rowing home, with a lantern swinging at her stern.
 
-"You counted it," said Lira. "Off Zerin. Don't pretend you didn't."
+"You counted it," said Lira. "Mine. Zerin, in the semifinal, the Wind from Auremont. Don't pretend you didn't."
 
 "Four flags and an exchange."
 
-"Four flags and an exchange." She said it back to him slowly, getting the weight of it. "Nobody had ever taken an exchange off her. Not one, not since she was twelve. I took one." She held up her bare right hand and looked at it. "She beat me. Say that too, whenever you say the other. I'm not going to spend a year turning it into something it wasn't. She was faster and she was better, and I knew it in the first exchange. But I made her pay, and nobody else did."
+"Four flags and an exchange." She said it back to him slowly, getting the weight of it. "Nobody had ever taken an exchange off Zerin. Not one, not since she was twelve. I took one." She held up her bare right hand and looked at it. "She beat me. Say that too, whenever you say the other. I'm not going to spend a year turning it into something it wasn't. She was faster and she was better, and I knew it in the first exchange. But I made her pay, and nobody else did."
 
 The lighter's oars knocked in their pins, out on the black water.
 
@@ -122,7 +122,7 @@ Further down the table somebody asked that the file's standing designation be re
 
 Nobody in the room could say.
 
-It was carried in a sub-layer of the registry itself. No instrument authorizing it was of record. A junior of the secretariat said that a trace had been attempted, and closed. The room made the small pause that rooms of that height make, and a line went into the minute, and the sitting went on. The designation was useful, and at that height useful things are not asked where they came from. It had sat in the file since the first minutes of his Kindling, and it sat there still: a flag no living hand had authorized.
+A young man from the secretariat answered, after some looking at papers. The office that had tried to follow the designation home had followed it into the registry, he said, to a sub-layer under the registry's own floor, and there lost it; there was no instrument of record behind it, and the attempt had been closed. The room made the small pause that rooms of that height make, and a line went into the minute, and the sitting went on. The designation was useful, and at that height useful things are not asked where they came from. It had sat in the file since the first minutes of his Kindling, and it sat there still: a flag no living hand had authorized.
 
 Nobody called for a vote. The question was *entered for formal proceedings*. In such rooms the words mean the answer has been settled and only the day has not. The officials went back to offices whose names are not written down. The clerk gathered the minute. Somebody put out the lamps.
 
@@ -136,7 +136,7 @@ For the first days it was still all round them. Waystations had silver-on-grey h
 
 Cael read the road by its doors. Every waystation had a board beside the door, and at the first few the board still had the finals card chalked on it, every result, as if the innkeeper could not bear to rub it off. A few days on, the boards were selling hay and oats by the bushel. A few days after that a board had nothing on it but nail-holes, and the woman who kept the place asked Gault, quite kindly, what had brought two wagons so far north this early. Gault told her. She thought about it, and said she had heard there had been something on, at the coast, and wasn't that nice for them, and went to see about the soup.
 
-The old volume ran out a leaf at a time as the road did. He gave it a few lines a night, small, and most nights they said the same things. *The Wind at three on yard clay. Came when called, twice of three. The left side gone yellow at the edges. The flag stands.* Each night the things he carried had shifted a little further toward the new weight, and each night they had not finished. The healers had said a month. His own reckoning said more. The notice's warning sat at the back of his eyes where he had first read it, and did not move.
+The old volume ran out a leaf at a time as the road did. He gave it a few lines a night, small, and most nights they said the same things. *The Wind at three on yard clay. Came when called, twice of three. Yellow creeping in at the edges of the left side. The flag stands.* Each night the things he carried had shifted a little further toward the new weight, and each night they had not finished. The healers had said a month. His own reckoning said more. The notice's warning sat at the back of his eyes where he had first read it, and did not move.
 
 On the ninth day they reached the district seat.
 
@@ -152,7 +152,7 @@ Karis's pen came up. She did not write anything. She waited.
 
 "I'd have ninety days to decide whether I want one drawn."
 
-Nobody pushed him. Nobody on that wagon had ever needed to push Brom toward anything; he got there, or he didn't, by his own road. Karis capped her pen without having written a word, which Cael had never once seen her do. The paper rode the rest of the way home in his coat beside the letter, and he did not take it out again, and that was all the year had to say on the matter.
+Nobody pushed him. Nobody on that wagon had ever needed to push Brom toward anything; he got there, or he didn't, by his own road. Karis capped her pen without having written a word, which Cael had never once seen her do. Brom's coat carried it the rest of the way home, buttoned over the summons and the Velmere letter together. Nobody saw either come out again. The year had nothing more to say about it than that.
 
 On the eleventh day, at a waystation where the coast road came in from the south, the coach from the coast pulled into the yard with its horses steaming while they were eating, and stood there blowing while the coachman got down. The coachman put his head in at the door and asked if there was anybody here from the bluff, and held up a letter. Cael knew the hand from across the room.
 
@@ -182,7 +182,7 @@ Ephram spent the last three days working out how to tell it on the bluff.
 
 He tried his versions on the wagon, on the reserves and the horses and anybody who would sit within reach. There was a long one with the trial in it. There was a short one with only the match. There was one that began with the roster and was still in the qualifying year when they reached the next waystation. He threw them all away. Somewhere past the second-to-last ferry he said one more out loud, and stopped, and said it again, and kept it.
 
-"We went down there and they counted us, and the count's on a staff in the middle of the continent where anyone can read it. And one of us they couldn't count." He considered it. "Anyone who wants it longer can carry my kit up the bluff while I tell it."
+"We went down there and they counted us, and the count's on a staff in the middle of the continent where anyone can read it. And one of us they couldn't count." He considered it. "There's a longer version. It comes with my kit, up the bluff, carried by whoever asked for it."
 
 ---
 
@@ -190,7 +190,7 @@ The last ferry took them over on the seventeenth day.
 
 On the ferry he wrote in the old volume for the last time, at the foot of its last leaf, until the line ran into the binding and there was no room for a word more. He shut it and put it inside his coat with Hesk's letter. Everything he wrote from now on would go into Hesk's book, and he thought it would be a long while before Hesk's book was full.
 
-Ostrand came up out of the valley the way it always came: brown and slate above the wide slow river, with the bluff behind it and its one long roofline catching the last sun. The wagons went up the climb with nobody saying much, because it was the last mile of a long year, and every one of them had found that it was enough just to be riding it, together, with the light going off the water behind.
+First the river, wide and slow and going copper in the late light; then the roofs of Ostrand, slate and brown, coming up out of the valley along it; and last, above them all, the bluff, with its one long roofline holding the sun after everything below had lost it. The wagons went up the climb with nobody saying much, because it was the last mile of a long year, and every one of them had found that it was enough just to be riding it, together, with the light going off the water behind.
 
 Halfway up, Cael spoke, to nobody in particular. He had not planned to. It came the way a line comes sometimes at the end of a page, when the page has been working toward it all along without your knowing.
 
