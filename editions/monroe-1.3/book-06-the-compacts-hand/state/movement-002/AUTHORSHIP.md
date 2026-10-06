@@ -34,3 +34,9 @@
 - ch13: 10% / 25% → 2% / 15%. The frames opener, the room count, Withrow's bow, the coach council, Seln's grades, the session log and the window entry recomposed around the protected lines.
 
 **Formula pass.** Scene breaks were merged where action ran on (ch8, ch9, ch10, ch12, ch13). One paragraph-split experiment was reverted because it raised the median. No script split or joined sentences; every change was an exact-string edit composed by hand.
+
+**Repair r1 (same session, same model `claude-opus-5-5`).** Made from `REPAIR-BRIEF.md` and both reviews.
+- EVENT-LIST.md's tracked lines were rewritten first. ch10 and most of ch13 were re-entered whole; the tracked scenes of ch8, ch9, ch11 and ch12 were re-entered or recomposed by hand.
+- No subagents were used. Nothing outside the six chapters and this folder was edited.
+- One read-only `git status` was run by mistake while checking a failed edit. It changed nothing, and no other git command was run.
+- Details are in AUTHOR-REPORT.md under "Repair r1".

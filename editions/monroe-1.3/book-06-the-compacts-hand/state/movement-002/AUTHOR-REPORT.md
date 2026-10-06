@@ -212,3 +212,164 @@ flesch_reading_ease 87.6 (target 72.3) · flesch_kincaid_grade 4.3 (target 6.8)
 11. **Protected patterns proposed:** the two packet lines above. With them, overlap reads 0.
 12. **No placeholders** (Bede, Maud, Gwen, Abbot) were used; **no new names.** Roles unnamed: the assistant, the Force third-year, the Stone, the side-door officer, the seat's clerk, the head groom and his son, Bracken's senior clerk, the senior chair, the counsel, the seal.
 13. **Seln's characterization step:** his first joke in front of witnesses (ch10) and his denial of the sheaf (ch9). Neither touches the cache, the mechanism, or why Shadow was sealed.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, 2026-10-06, from `REPAIR-BRIEF.md`, `review-editorial.md` (§4, §5, §8) and `review-cold.md`, with the coordinator's rulings applied. Pre-repair text is in `pre-repair/` (the event list was copied there too before it was changed). The repair was done by reading. Every change was composed by hand and written as an exact-string edit or a scene re-entered whole. No script split or joined sentences. `protected-patterns.txt` was not touched.
+
+**Process slip, reported.** While checking that a failed edit had left ch11 unchanged, I ran one read-only `git status` against the worktree. It changed nothing. No other git command was run.
+
+### Method (P2 first)
+
+1. **EVENT-LIST.md rewritten first.** The lines that carried source wording or the source's order of beats were replaced in my own words, with new entry points: the ch8 renewal (re-anchored), the ch9 escort, the best-thing exchange and the wall; all of ch10, ch11, ch12 and ch13. The coats line (:46), the envelopes "as logistics" (:61), the selling-floor inventory (:70) and Withrow's bow (:74) are gone.
+2. **Scenes re-entered from the new list.**
+   - **ch10** was redrafted whole: the notice entered from its last line; Karis's Greyvane story on the bridge; the conference entered from the inkwell; the read first, then the hands; the coach entered from Lira's question; Karis explains her thanks.
+   - **ch11's first half** was redrafted: the folder read from the back, the bill laid out paper by paper, the hunter, the double underline; the year drawn as a line with a gap in it; "spite gets tired"; the coats arriving early.
+   - **ch12** after the bout and the envelopes were re-entered: Rooke kneels and prices the leg by touch; the Force's "no count"; the stair at night.
+   - **ch13** was re-entered: the room seen from the side door with the records table first; the hands as a second clock; Withrow's bow line given at her carriage door; Brom first in the coach; Seln's last line moved to the residence step.
+   - **Smaller recompositions:** ch8 (the rebuild and "Be the seat"); ch9 (the slip across the table; Withrow's "Three, at a walk"; the wall).
+
+### P1 — continuity
+
+1. **ch8, the first renewal, re-anchored to Book 4 ch54–55.**
+   - The memory now sees the east wall's four chairs: the counsel with her ribbons, Ilsev's pencil, Havel's board, and the Archmarshal empty-handed. Then three hours of instruments, Gault's note, the Ash and Mire signatures, and the clerk's stamp at the trestle on the house's copy.
+   - The nine days now belong to the **registry's file copy**. It was held, at the delegation's counsel's written request, for the delegation's countersignature, and came back sealed nine days later for Cael to initial in Gault's office before it went up again in the noon bag. The house kept only Bracken's book line.
+   - The old Log has the evaluation day's long entry (unquoted beyond its last word) and two short new lines.
+   - Karis's discrepancy is now **her table (trestle date) against the petition's schedule two (file-seal date)**, which settles the cold read's "copy" question.
+   - "Three cards", "the delegation's officer… a pen", "held for countersignature before it was sealed" and the old Log line are gone.
+2. **ch8, Denvash.** "Not at Denvash, where Pellin had stamped it on his card". Plus one clause: at Ardenmere he had asked Vell to put it in her book the right way round.
+3. **ch9, Lira's road.** She knocked on guild doors for a year after Fenmark, asking six and walking to two. Then Ardenmere, a noise three streets off, and Vell's yard.
+4. **ch11, the lane.**
+   - Karis now counts each lane aloud from the moment the dust runs, in M1's unit.
+   - Lane one and lane two: late through ten, clean at eleven.
+   - Lane three: Cael loses his own count about six; Karis's runs on ("Nine… Ten… Eleven… Twelve… Thirteen"); slow through twelve, clean at thirteen.
+   - Lira's palm reads "Ten, ten, twelve. Clean at eleven, eleven, thirteen."
+   - "A week ago" is now "three weeks ago" twice; "since the morning it settled".
+5. **Karis's slips are in the back.** ch11: the two-docket slip goes "in the back of her notebook, behind the six". ch13: the Greyvane request is written on the back board by the slips' pocket; "my six slips out of the back of this notebook".
+6. **Havel's looks.** Brom: "At Greyvane he looked at you twice. From the recorder's desk. I counted, from the gallery." Havel's window: twice at Greyvane from the recorder's desk, twice on the oak from the east wall ("the second time quicker than the first"); he remembers all four and "did not mean to give himself a fifth". Cael recognizes him from both places.
+7. **The annex** is introduced in ch8 with one paragraph: the house's name by noon for the reading room and the cleared lumber room across the landing; Ephram said it first.
+8. **ch13 referent.** "Cael counted the room… Each time it came out a face short."
+9. **ch13 first-sitting slips.**
+   - "Like the coats" is replaced by Lira's "So he's done looking. Or he's been told to be." Cael also now tells Lira and Brom about the early coats on the stair in ch11.
+   - The counsel/Karis exchange is recomposed in one tense: "took both lists in the same breath" / "to a seal they weigh the same".
+   - Withrow rides home in her own carriage. Her line ("The same depth. From this side. I measured.") is said at its door, so there is no out-of-order backfill.
+10. **Brom's ninety days.** The confirmation reads "*The panel convened under this office's docket of the fourth day is confirmed: three assessors and a sigil frame…*".
+11. **Small items.**
+    - *Admit* and *want* now agree: Karis says *admit*; Cael writes *admit*. The "want" Log entry is cut.
+    - The Velmere narration no longer infers the letter's contents: Cael looks once, "as long as a man looks at a letter that is not addressed to him", then at his bread.
+    - The minute copy is consistent with fix 1.
+    - Seln's "other table" line is now said to Cael alone on the residence step, not in front of Withrow and the counsel (Withrow is in her carriage).
+
+### P3 — the program trial (ch12)
+
+- **Exactly five bursts on the page.** E1: one (straight at him). E2: one (off the back foot). E3: the escape from the jumping boards is a **scramble on her feet**, and then burst three along the frames. E4: four and five. Karis's tallies read "Two bursts. Two exchanges. One flag each." and then "Three bursts. Her whole bout."
+- **Rooke's rule** now says what happens past three and how a tie is settled: "Past three, the table still gives the exchange to whoever takes it, and the card pays for every burst over… Level after four, the table rates them both, and the higher figure takes it." His verdict ties Control 7 to it: "Up to three, a fighter owns her bout. Past three she rents it, and the card collects the rent." He then prices the leg by touch: "That's four and five. Three never goes there."
+- **The Force as the edition's Force.**
+  - **The mechanic:** a contact shove, his stamp through the front foot, so that the boards within a stride jump a beat after it and keep jumping for a count or two. The shove comes back up into his knees, and the settle is him taking his own push back (ch11's definition; ch12 throughout).
+  - **E1:** his palm on her shoulder, and "the shove came after the touch".
+  - **E3:** the fan becomes quick short stamps a stride ahead.
+  - **E4:** the well becomes a ring of stamps a stride out, re-stamped as each patch lies down.
+  - **Range:** no ranged or lasting courses remain. Cael watches knees and hears boards from the rail; there is no read at range (cold read item 6).
+- Lira's lesson in ch11 is restated for the mechanic: on the third count the boards are still jumping, and on the fourth he is taking his push back.
+- "Like a tide coming up a beach" is now "like water coming up a beach".
+- The bout keeps all four exchanges at full length.
+
+### P4 — thinning
+
+- **Log codas cut or reduced:**
+  - ch8, the band ("He had no column for that");
+  - ch9, the wall (one line);
+  - ch11, the lane;
+  - ch12, *admit* (cut), and the envelopes (cut);
+  - ch13, the assistant and the frames (both cut).
+  The ch13 sitting log keeps only the protected line and four short phrases.
+- **Opponents roll-call:** kept once, in ch10's notice log (Pellin, Coss, Vastin, the provost, Umber). It is removed from the Jent log and the sitting log.
+- **"Note this" requests:**
+  - Karis's "minuted" pair is replaced by a slip pushed across the table.
+  - Karis's "I'd like that noted too" is replaced by her explanation of the thanks.
+  - Lira's "I want it entered" is gone.
+  - Withrow's "Note that I bowed anyway" is replaced by "I measured."
+  - Only "Make a note of the word *choosing*" (protected) remains.
+- **Tags:** ch10 was rewritten with fewer tags, and tags were dropped across the re-entered scenes where the speaker is plain.
+- **"Eleven" and "forty" kept to canon:**
+  - "eleven" survives in the eleven pounds, the eleven seconds, the lot numbers on the floor, and the lane counts;
+  - Bracken's count is "a dozen… More";
+  - the index runs "a dozen years" behind;
+  - the eleven-page list is gone;
+  - "forty" is kept only for the integrity section's forty pages (BOOK_MAP) and the floor's forty feet.
+
+### Also taken (editorial §8)
+
+- **ch9 oil book.** "took another line in Bracken's own hand… he signed that book every morning and almost never wrote in it."
+- **Karis's "Seven days."** Now "Bracken inside them. And the scales."
+- **Line sixty-three's order.** The list is set out "district by district, as the digests kept them, not by year".
+- **The meet countdown** is consistent: six weeks on at about day 26, and "three weeks away now" at day 42. Rooke's "five weeks" line is gone.
+- **"Signed your roster"** is gone.
+- **The Greyvane keeper** is named as Prynn ("Prynn, still?").
+
+### New material added in repair
+
+All of it is drawn from the event list, none from the source. It was added because the redrafts ran shorter.
+- **ch9:** Cael reads his own Kindling leaf aloud to Bracken in the rain while Bracken checks the second copy; a comma is mended.
+- **ch10:**
+  - the assistant's question ("who do you appeal to?" / "To the registry. Which is the seat. Which is the seal.");
+  - Withrow at the new door ("A door is a door");
+  - the counsel's four questions to Jent (no witness; the advisory "speaks for itself"; the renewals undisputed; "the seat's to say");
+  - Bracken checks three districts' procurator rolls for Jent ("not here, and not next door… I don't yet know what it's information about"). This is flagged below.
+- **ch11:**
+  - Cael asks Withrow whether she would have signed ("I did know it might… I meant it");
+  - Brom on the same docket day ("I'll come up the street and sit at the back of yours");
+  - the coats told on the stair;
+  - the Blade bout written out in full (a touch along the forearm);
+  - Lira asks whether he'll tell Rooke, and Rooke's word: "Good. Now don't do it again until you know why."
+- **ch12:** Lira tapes on the step before the trial ("Count his"); Ephram starts pages on Lira and the Force.
+- **ch13:** "Watch the seal" pays off in the coach ("Nothing… The slips stay").
+
+### Declined or partly taken
+
+- **The nine exhibits' order.** Reordered: the code extracts first.
+- **Seln's joke.** Recomposed round the packet sentence, not protected whole: "There's one behind every counter you've ever leaned on. They're called clerks. You've always had the good chair."
+- **Paragraph-median chasing.** Not done separately; the median fell to 27 with the re-entries.
+- **The coach "that had carried them to Norhold"** (editorial §8, optional). This phrase is gone with the ch10 redraft. "The delegation coach" stays, per the B6 entry ledger.
+
+### Checks after r1
+
+- **Gates:** `ed.sh gates book-06-the-compacts-hand 2` gives 0 / 0 / 0 on all six chapters.
+- **Overlap:** `ed.sh overlap book-06-the-compacts-hand 2` gives **0 unprotected runs**, 10 protected.
+- **Sweep:** `sweep_probe.sh book-06-the-compacts-hand 2 2` gives **skeleton 1%, close 8%**, down from 1% / 12%.
+  - By chapter: ch8 1/6 · ch9 0/5 · ch10 1/7 · ch11 0/7 · ch12 0/6 · ch13 2/15.
+  - The remaining skeleton hits are packet and Tier B lines and the #44 address.
+- **Formula (ch8–13):**
+  - words 28,214;
+  - sentence mean 13.04; ≤5 30.9%; ≥40 3.9%;
+  - paragraph median 27; words per scene 973;
+  - FRE 88.0; FK 4.22.
+  - Everything is inside the working ranges; the paragraph median is now inside its range too.
+
+| Ch | Words | Mean | ≥40 | Para median | Words/scene |
+|---|---|---|---|---|---|
+| 8 | 4,778 | 13.8 | 3.7% | 25 | 956 |
+| 9 | 4,711 | 13.0 | 4.1% | 29 | 942 |
+| 10 | 3,665 | 12.6 | 2.1% | 25 | 916 |
+| 11 | 4,230 | 12.6 | 3.6% | 24.5 | 1,058 |
+| 12 | 4,967 | 12.4 | 5.2% | 27 | 993 |
+| 13 | 5,863 | 13.8 | 4.0% | 32.5 | 977 |
+
+**Length note.** The movement is about 1,870 words shorter than before repair (28,214 against 30,082; budget ~31,000). Re-entering the tracked scenes from the new event list made them shorter, and ch10 and ch11 lost the most. I put back about 2,300 words of new, event-list scenes (listed above) rather than padding.
+
+### Ledger corrections (to the page)
+
+- **The first renewal:** the house's copy was stamped at the trestle on the evaluation day (B4 ch55). The registry's file copy was held for the delegation's countersignature at its counsel's written request, came back sealed nine days later, was initialled by Cael in Gault's office, and went up in the noon bag. The house book carries the trestle day; the registry file carries the seal day; the petition's schedule two prints the seal day; only the old Log holds both. The rebuilt table gives trestle and seal for every row.
+- **The lane slope:** three lanes in one night run slow through ten, ten and **twelve**, and are clean at eleven, eleven and **thirteen**. They were counted aloud by Karis from each lane's start, and are untested past three. Rooke has been told and said "Good. Now don't do it again until you know why."
+- **The Force third-year:** a contact shove stamped through the front foot. The boards within a stride jump a beat later and for a count or two. The recoil comes into his knees (the settle). He uses a fan of quick stamps and a ring of re-stamped boards. He means to "stamp to no count at all by the month's end".
+- **Rooke's trial rule:** three bursts; past three the exchange still counts and the card pays; level after four, both are rated and the higher figure takes it.
+- **Lira's bursts in the trial:** five, plus one scramble.
+- **Havel's looks:** two at Greyvane (recorder's desk) and two on the oak, four in all.
+- **Lira after Fenmark:** a year of guild doors (six asked, two walked to), then Ardenmere and Vell's yard.
+- **Karis's notebook:** the six slips and the two-docket slip are in the back; the Greyvane request number and three ruled empty lines are on the back board.
+- **The annex** is named on the page in ch8.
+- **Brom's confirmation:** the panel convened under the docket of the fourth day, confirmed.
+- **Withrow:** carriage both ways on day 40; her line "The same depth. From this side. I measured."
+- **Seln's "other table"** was said to Cael alone.
+- **New (flag):** Jent is on no procurator roll of this district or the two beside it, so he was admitted somewhere further off. This is kept at the plan's altitude: Jent is counsel, not face. Nothing about who sent him is said.
+- **New:** the integrity provisions' *upon a party's motion only* proviso (ch13, from first draft; now ledgered); the counsel's name heard and not caught (a device); the Greyvane keeper is Prynn.

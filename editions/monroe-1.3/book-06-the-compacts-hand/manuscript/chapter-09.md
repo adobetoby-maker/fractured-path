@@ -1,14 +1,14 @@
 # Chapter 9 — Eleven Pounds
 
-The fire-watch's oil book got a second line in its history on the thirteenth night of the year, and Bracken wrote it.
+On the thirteenth night of the year the fire-watch's oil book took another line in Bracken's own hand.
 
 *Library, top floor. Lamps late. On the registrar's authority, and at his charge.*
 
-Cael saw it in the morning, on his way past the hook by the records-hall side door, in the same small upright hand as the first. Two lines in thirteen years, both in one week. He stood and looked at the page longer than a page of lamp-hours deserved, and then he went up to the top of the library and found out what the lamps had been burning for.
+Cael saw it in the morning, on his way past the hook by the records-hall side door. Bracken signed that book every morning and almost never wrote in it. Now he had written in it twice in a week. He stood and looked at the page longer than a page of lamp-hours deserved, and then he went up to the top of the library and found out what the lamps had been burning for.
 
 Karis had written the integrity section in a night.
 
-She was asleep when he came in. She was sitting upright in her chair at the long table with her arms folded on the wood in front of her and her head on her arms, and the pen had rolled out of her hand and stopped against the inkwell. The lamp at her elbow had burned itself dry and gone out. In front of her, squared into one stack so neat that it might have been cut with a blade, lay forty leaves in her finding hand. The girl at the outer table across the landing had put a shawl over Karis's shoulders and then, apparently, not dared to do anything else. She sat at her own table with her hands in her lap, guarding the door from inside the room.
+She was asleep when he came in. She was sitting upright in her chair at the long table with her arms folded on the wood in front of her and her head on her arms, and the pen had rolled out of her hand and stopped against the inkwell. The lamp at her elbow had burned itself dry and gone out. In front of her, squared into one stack so neat that it might have been cut with a blade, lay the night's work in her finding hand. The girl at the outer table across the landing had put a shawl over Karis's shoulders and then, apparently, not dared to do anything else. She sat at her own table with her hands in her lap, guarding the door from inside the room.
 
 "Since the eighth bell," the girl whispered. "She didn't stop. I filled the lamp twice. Then I fell asleep, and when I woke up she'd stopped." She looked at the stack as if it might go off. "She said not to wake her unless the building was on fire."
 
@@ -20,7 +20,7 @@ So he sat down at the window and waited, and after the second bell Karis lifted 
 
 "Good morning."
 
-"Ninety-one." She sat back and the shawl slid off her shoulders, and she did not notice it go. "Every time anybody has ever called on the integrity provisions since the registry began writing it down. I've read every one. I found them in the registry digests. Bracken's press has the first forty years and the hall has the rest, and Seln's sheaf told me which year each section first appears in, which saved me a week." She laid her hand on the stack. "Eighty-four of them are about things. Frames. Stations. An assessor who took money in a district I won't name. Two panels whose minutes argued with themselves. A records office that lost a whole quarter's declarations in a flood and then tried to pretend it hadn't."
+"Ninety-one." She sat back and the shawl slid off her shoulders, and she did not notice it go. "Every time anybody has ever called on the integrity provisions since the registry began writing it down. I've read every one. I found them in the registry digests. Bracken's press has the oldest digests and the hall has the rest, and Seln's sheaf told me which year each section first appears in, which saved me a week." She laid her hand on the stack. "Eighty-four of them are about things. Frames. Stations. An assessor who took money in a district I won't name. Two panels whose minutes argued with themselves. A records office that lost a whole quarter's declarations in a flood and then tried to pretend it hadn't."
 
 "And the other seven?"
 
@@ -34,7 +34,7 @@ He came and sat across from her. The forty pages lay between them.
 
 Bracken was at his counter, adding the house's lamp-oil accounts for the week with a pained expression, when Karis laid one leaf of the integrity section on the wood in front of him and turned it the right way round.
 
-It was a list. Ninety-one lines, in Karis's smallest finding hand, one invocation to a line, each with its year and its district and the section called on and a few words of what it had been about. She put her finger beside line sixty-three, and took it away.
+It was a list. Ninety-one lines, in Karis's smallest finding hand, one invocation to a line, each with its year and its district and the section called on and a few words of what it had been about. She had set them out district by district, as the digests kept them, not by year. She put her finger beside line sixty-three, and took it away.
 
 *Ostrand district station; sigil frame reading Stone practitioners one rank above their true rank over one month; integrity provisions, section four; filed by the registrar of Halcenvane in his fourth year in office; frame withdrawn, tested a fortnight, a seam in the casing found admitting damp, repaired, the month's Stones re-read; sustained.*
 
@@ -86,21 +86,13 @@ The counsel finished her climb a little before the fifth bell and set the rule a
 
 "That's all there is." The counsel stood and buttoned her coat. "I've read a good many answers to a good many petitions. That's the best section on these provisions I've seen written by anybody, and I include my own. Put it in." She picked up her bag. "I'll be back up the hill when the rest of it's done. Send for me early. I like to read things twice."
 
-When she had gone down the stair, Karis sat looking at the forty pages for a while with her hands folded on top of them.
+When she had gone down the stair, Karis did not say anything for a while. She sat with her hands folded on the forty pages. Then she tore a strip off the bottom of a used sheet and wrote two lines on it, fast, and pushed it across the table to him without looking up.
 
-"It's the best thing I've ever written," she said. "I'd like that minuted."
+*Best thing I've written. Worth exactly what a record is worth: the seat can agree with every word and turn the page.*
 
-"Entered."
+He read it and copied it into the observation notebook, both lines, in her section, and slid the strip back. She put it in her pocket. He understood that she had wanted it written down and had not wanted to be heard asking, and that a slip of paper across a table was the way she had found to have both.
 
-"And I'd like this minuted next to it." She did not look up. "I know exactly what it's worth. It's worth what a record is worth. Every argument in there is right, and the seat can read every one of them and agree with every one of them, and then turn the page." She smoothed the top leaf with her palm. "I'm not a fool about it. I just want it written down that I knew."
-
-"Both entered," said Cael.
-
-She looked up then. "When did you start saying *entered* like that?"
-
-"About a week ago. In the records hall." He held up the observation notebook. "She keeps the registry's minute. Somebody ought to be keeping ours."
-
-Karis looked at him a moment longer, as if checking a figure. Then she did a thing she had been doing since the road home from Norhold and had never once remarked on. She took the last page of the forty off the bottom of the stack, unasked, and held it out to him across the table, so that he would read the end before anybody else did. Then she turned away to the window and stood with her back to him while he read it.
+When he looked up from the notebook, the stack had been turned over. The last page lay on top, where he would read it first, and Karis was standing at the window with her back to the room.
 
 ---
 
@@ -126,7 +118,7 @@ Seln laid the sheet on the stack at his left hand.
 
 Cael had his fingers on the copy-slip. He had turned half away from the counter when Seln spoke again, in exactly the same voice, as if reading the next line of the same form.
 
-"The second volume's own index runs eleven years behind the volume. The digests are better for the late years." He had already turned back to the copying table. "If anyone should happen to be working from the second volume."
+"The second volume's own index runs a dozen years behind the volume. The digests are better for the late years." He had already turned back to the copying table. "If anyone should happen to be working from the second volume."
 
 Cael went out through the wing doors and along the covered walk, and did not let himself smile until he was under the north arch.
 
@@ -134,7 +126,7 @@ He had thought, for two years, that Seln did not give things. He saw now that th
 
 He thought about the quiet thing he carried, sealed, and the debt it was sealed for, which the man at the copying table did not know he was owed. He thought that it would be a very hard debt to pay to somebody who would not let anything be paid to him.
 
-He went up the library stair and told Karis about the index. She went straight to the digests without a word. Twenty minutes later she found that one of her ninety-one, a coastal panel that had sat a member short, carried a year she had taken from the second volume's index, and the index had it eleven years late. She ruled the year through and wrote the right one above it. It changed nothing in the argument. It went in anyway.
+He went up the library stair and told Karis about the index. She went straight to the digests without a word. Twenty minutes later she found that one of her ninety-one, a coastal panel that had sat a member short, carried a year she had taken from the second volume's index, and the index had it a dozen years late. She ruled the year through and wrote the right one above it. It changed nothing in the argument. It went in anyway.
 
 Bracken read the whole answer in two nights.
 
@@ -143,6 +135,26 @@ He read it at his counter, every leaf, from the address to the last schedule. Th
 On the second night it rained.
 
 It was the first rain of the year, and it came all at once a little after the tenth bell, out of a sky that had been brass-coloured and heavy since noon. It roared on the long roof of the records hall and came off the gutters in ropes, and the dust in the court turned to a smell before it turned to mud. Cael stood under the covered walk's north arch and watched it, with the fire-watch boy beside him holding his slate against his chest to keep the hours dry. Across the court, in the records hall's one lit window, Bracken did not look up.
+
+Cael went across to him in the end, with his collar up and the rain going down his neck, because the light in that window had begun to look lonely.
+
+Bracken did not seem surprised. He looked up from the leaf under his lamp and pointed with his pen at the stool on the public side of the counter.
+
+"Sit," he said. "You can be useful. The house sends two copies down, one for the seat and one for the petitioner, and I've been checking the second against the first by myself with my finger, which is slow and bad for the eyes." He slid a leaf across the counter, and kept its twin in front of himself. "Read that aloud. Slowly. I'll follow."
+
+Cael read it aloud.
+
+It was the leaf about his Kindling. He had not known Karis had written one. It set out, in her plainest prose, the morning at Weaver's Row in Denvash: the circle of pale wood, the registrar who conducted it, the brass plate that lit late, the one bracketed word on the card, the classification line stamped where it had stood empty for fourteen years. Every fact in it was true and every fact was his, and he had never heard any of it in another person's sentences before. He read it in his own voice to a registrar in the middle of the night with the rain on the roof, and Bracken's finger moved down the other copy a line behind him, and twice Bracken said "Slower," and once he said "Again, that line," and made a small mark.
+
+At the foot of the leaf Bracken initialled both copies in the corner, and blotted them, and set them on the finished pile.
+
+"There was a comma missing in the seat's copy," he said. "Line nine. I've put it in." He took the next leaf off the stack. "Are you all right to go on?"
+
+"Yes."
+
+"Then go on."
+
+They did four more before the rain eased. When Cael went back across the court at last, his own life was lying in two neat piles on a registrar's counter, checked and initialled, and he found that he felt lighter for having read it aloud than he had ever felt for keeping it to himself.
 
 In the morning the court steamed. Bracken sent the porter's boy up the library stair with a message for Karis, and the message was one word long, and Karis read it on the landing and came down at once with the boy still trying to keep up.
 
@@ -158,17 +170,19 @@ He took a small book out of his coat and wrote the number in it. It was not the 
 
 Withrow came in while he was taking the weights off.
 
-She stood in the post-room door with her hands folded in front of her and looked at the wallet on the pan. The registry's ordinary post went down the hill twice a day. It would have carried eleven pounds without remark, in a sack, among the house's letters to tailors.
+She stood in the post-room door and looked at the wallet on the pan, and then at Bracken, who was laying the weights back in their velvet one by one.
 
-"No," said Withrow, before anybody had asked her anything. "Not in the bag."
+"The noon bag goes at the half-bell," said Bracken. "The seat takes the post. I'll put it in myself."
 
-"It's the ordinary way," said Bracken. "The seat accepts the post."
+"How many came up our road on the eighth day?"
 
-"I know what the seat accepts." She came and laid one hand on the wallet's flap, on the house's seal. "Theirs came up our road with three riders in grey, at a walk, so that every soul on this hill would stand still and watch it come. I watched. So did you." She took her hand away. "Ours goes down the same road the same way. Our seal, our riders, our pace. Let the town stand still and watch it arrive." She turned to Bracken. "The head groom and his son, on the greys. Your senior clerk in the middle with the case across his saddle. In the house's colours. Fifth-day, at the second bell."
+Bracken put the last weight away. "Three."
 
-"That's three days inside the time," said Bracken.
+"Three, at a walk." Withrow came in and laid one hand on the wallet's flap, over the house's seal. "Then three go down it. The head groom and his son on the greys. Your senior clerk in the middle, with this across his saddle where the town can see it. Fifth-day, the second bell."
 
-"Yes," said Withrow. "I'd like them to notice that too."
+"That's three days inside the time."
+
+"Good," said Withrow. "Let them count those as well."
 
 ---
 
@@ -208,25 +222,25 @@ He started at the end, with the morning after, because that was where a person a
 
 He did not tell it well. He told it in order, which was the only way he knew.
 
-Lira ate her bread and watched the river. When he finished she brushed the crumbs off her tapes, one hand and then the other.
+Lira ate her bread and watched the river. When he had finished she brushed the crumbs off her tapes, one hand and then the other.
 
-"They had a slate at Fenmark," she said.
+"Does it have an outside?" she said. "Your corridor."
+
+"Karis says every door opens one way."
+
+"I heard you." She was quiet a moment. "They had a slate at Fenmark."
 
 He waited.
 
-"In the hall. Three examiners at a table, and in the middle of the table a slate in a wooden frame." She held up her hands a foot apart. "They wrote on the slate first. While I fought. Then, when it was over, the one in the middle copied it out fair onto the form, and wiped the slate with his sleeve, so that the form would have no crossings-out on it." She put her hands down. "I watched him wipe it. I remember thinking how careful that was."
-
-"And the form?"
-
-"Was right." She said it simply. "Every line. My Path was Wind. My tier was Copper. My name was spelt properly. The examiners were examiners, and they'd done every step the book had in it, in the book's order, and then they wrote it down clean." She looked at the water. "That was the part I couldn't stand. Not the walk out. Everybody thinks it's the walk out. It was standing in front of that table knowing there wasn't one wrong word on the form, and knowing just as well that the whole room was wrong. I didn't have a way to say both in the same breath. I used to lie awake trying."
+"In the examination hall. Three examiners at a table, and a slate in a wooden frame between them." She held her hands a foot apart. "They chalked it while I fought. Afterward the one in the middle copied it fair onto the form, and wiped the slate with his sleeve so the form would have no crossings-out. I remember thinking how careful that was." She put her hands down. "Every line on that form was correct. Wind. Copper. My name spelt right. Every step in the book, in the book's order. It was the room that was wrong. I've never been allowed to say both of those at once and have anybody listen. I only had *angry*, and angry's a very poor word. It's all one size."
 
 "Corridor," said Cael.
 
-"Corridor." She tried it, slowly, the way she tried a new step on the painted lines. "I could have used that four years ago, near enough. I had to make do with being angry." She almost smiled. "Being angry is a very poor word. It's all one size."
+"Corridor." She tried it slowly, the way she tried a new step on the painted lines. "I could have used that four years ago, near enough."
 
 The ferryman was lighting the lamp on the landing's post. The two coats there turned their faces from it, as they always did when the flame went up, so as not to be blinded for the hour that followed.
 
-"Here's the other half," said Lira. "I didn't find a door in that hall. There wasn't one. I walked out of the front, because the front was where they pointed, with my form in my pocket and no idea where I was going. Three streets on, I heard a noise like somebody hitting a boiler with a chain, and I went to look." She turned her head toward him. "It was Vell's yard. Nobody sent me there. It wasn't on any form. It was just round the back of everything, where the town kept the things it didn't want to look at, and the things it didn't want to look at turned out to include me."
+"Here's the other half," said Lira. "There was no door out of that hall but the one they pointed at. I went out of it with the form in my pocket, and for a year after that I knocked on guild doors. I asked six of them for a letter and walked to two, and every one of them read the form, and every one was polite." She turned her head toward him. "Then I came to Ardenmere with nothing left to knock on, and one evening I heard a noise like somebody hitting a boiler with a chain, three streets off, and went to look. Vell's yard. Nobody sent me there. It wasn't on any form. It was round the back of everything, where the town kept what it didn't want to look at, and that turned out to include me."
 
 She stood up on the coping, all at once, the way she came up off a cross.
 
@@ -234,8 +248,4 @@ She stood up on the coping, all at once, the way she came up off a cross.
 
 She went off along the top of the wall toward the residence, quick and narrow in the dusk, and he sat with the rest of his bread and watched her go until she dropped off the coping at the far end and was gone.
 
-He wrote it before the light went entirely.
-
-*Lira, on the wall: at Fenmark they wiped the slate so the form would be clean, and every word on the form was true, and the room was wrong. She's been carrying that without a word for it since. Now she has Karis's.*
-
-*And she has a second word of her own, which she gave me on purpose. A yard out the back. She's started walking the walls of this thing already, the way she walks a floor before a bout, quietly, with her eyes down, looking for the place the boards give. She won't bring it to the table until she has something she can measure. Vell's yard taught her that a building has more ways out of it than the ones painted on the door. I was taught by people who only ever used the front.*
+He wrote one line before the light went: *Lira: a slate wiped clean, a year of polite doors, then a yard nobody drew.*

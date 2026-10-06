@@ -438,3 +438,114 @@ Everything from paragraph seven on is kept in substance.
 - ch7 the instrument was sealed and issued by "somebody a week's road from here", elsewhere, and sent to the registry seat at Ostrand for proceedings; Ostrand itself is at the foot of the bluff (BOOK_MAP §1; the counsel comes up by chaise the same evening).
 - Small seams: Ephram looks at the cheese; Lira takes one of Brom's apples; Brom lays down his spoon; Karis's cup; Karis's you/him across the protected sentence; ch7 items 47–50 re-composed off the source.
 Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page.
+
+
+## AFTER MOVEMENT 2 — chapters 8–13 (drafted 2026-10-06, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Calendar: service day 8; the answer down day 19; the notice ("per seal") day 23; Jent's conference day 25; the first sitting the year's sixth Fifth-day, DAY 40. M3 inherits sittings likely days 47 and 54; the nine-week inventory clock counts from service (day 8). Brom's panel "convened under the docket of the fourth day… is confirmed" — inside the ninety days (which run out about day 22).
+- THE FIRST RENEWAL (to B4 ch55): the house's copy stamped at the trestle after an evaluation by instruments, the Archmarshal empty-handed in the fourth chair; the NINE DAYS sit on the registry's FILE COPY, held for the delegation's countersignature; Karis's mismatch is her renewals table against the petition's schedule two. The name was stamped at Denvash.
+- Lira's Fenmark: after Fenmark a year at guild doors, then Ardenmere and Vell's yard (Books 1–2).
+- THE LANE BILL (canon, measured as M1): Karis counts each lane aloud from the moment it is laid; three lanes in one night bill ten, ten, twelve (clean at eleven, eleven, thirteen) — the slow-down grows with close spending; untested past three. The Storm settled in the morning (M1).
+- THE PROGRAM TRIAL (ch12): Lira v the Rank Seven Force third-year, three flags to one; exactly five bursts against Rooke's three (the E3 escape a scramble on her feet); Rooke's rule states what happens past three and how a level bout is decided; the Force fighter's power is a CONTACT stamp through the front foot with recoil into his knees (Force Path canon); Lira's program-book figure 27 (10/10/7) — not a registry figure (#38).
+- Jent is the procurator of record; says "Hesk-ward" (#44); he is on no procurator roll in this district or the two beside it (new; who sent him unsaid).
+- Bracken's filing is invocation sixty-three of the ninety-one, kept *(sic)* at his request. "The annex" = the reading room plus the lumber room across the landing (introduced ch8).
+- Karis's six slips are in the BACK of her notebook. Havel looked from the recorder's desk at Greyvane; his looks total four; he will not give himself a fifth.
+- Cael told Lira and Brom about the coats on the stair (ch11). Withrow rides both ways in her carriage. Seln's "other table" line is said to Cael alone.
+- *admit* (Karis's flag and Cael's Log agree). The narration does not state what the Velmere letter offers.
+- Seln has not been told why Shadow is sealed (B6 Ch15). No falsification / [UNBOUND] / maker / Tide.
+- Length: 28,214 words against ~31,000; not padded (M1 also short: book running ~5,500 under budget after two movements).
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names. Day 9 Second-day: drafting begins (four days to bones). Day 12 Fifth-day: bones. Day 13 night: the integrity section. Day 16: the counter. Two nights of Bracken's reading; the first rain; the weighing. **Day 19, Fifth-day: the answer goes down, three days inside the time** (due day 22). **Day 23: the seat's notice. Day 25, Fourth-day: Jent's conference; Withrow's office that evening.** Day 26 Fifth-day: board line; wing three. Day 27: the coats placed; the honest floor. **Day 30, Second-day: Lira's trial.** Day 31: the district docket's confirmation and the Velmere letter; opened the third evening (day 33). Day 35: Karis's budget; the frames days 35–38. Day 39: the annex convening. **Day 40, Fifth-day (the year's sixth): the first sitting.** **Day 42, Seventh-day: the month's close.** Lira's first meet off the hill is about four weeks away (Rooke's board). Brom's panel and the ruling share the year's last Fifth-day.
+
+**Bodies.**
+- **Cael:** the Shield's rib gone by day 12. The lane bill measured anew: three lanes in one night = ten, ten, **twelve** counts (day 27); not tested past three. No other injury.
+- **Lira:** after day 30, the left landing leg hot from the hip down the outside (bursts four and five); two days at half work, no frames, no bursts until quiet; quiet by about day 33 (no limp on the page after the supper of day 32). The left arm carried close from habit only.
+- **Brom, Karis, Seln, Ephram:** fit. Karis slept in her chair on day 19.
+
+**Knowledge.**
+- **Cael and the circle:** the answer whole; the ninety-one; Jent's name and his nine exhibits; *per seal*; the year's geometry (the same docket day; the blank re-evaluation); the coats placed; the seal ordinary (as far as anyone could see). Nothing about falsification, the sub-layer or a maker. The returns' wording still unknown. Cael knows nothing of Havel's note.
+- **Seln:** he produced the sheaf (and denies it); he has watched one sitting from the sightline seat; he reads three grades of officer. He has still never been told why Shadow was sealed.
+- **Havel:** the junior chair at Ostrand on rotation; five sheets, read, **no sixth**. He learned nothing.
+- **Ephram:** a year of chart plus two more figures; the frames evenings; still asks nothing.
+- **The counsel, Bracken, Withrow:** the answer; Jent's manner; the seal procedure.
+
+**Resources.**
+- **The answer** at the seat (11 lb 4 oz; two bound parts; 173 exhibit items); the house's copies in the annex.
+- **Seln's sheaf** (Karis's copy in the reading room; Seln's own copy, carried in the coach).
+- The seat's notice (Bracken's; Cael's hand copy).
+- Brom's left inside pocket: summons, the first docket, **the district's confirmation (*outcome anticipated*)**, the Velmere letters; **the newest Velmere letter, opened day 33, contents unknown to anyone but Brom.**
+- Karis: the budget's first spend (the Greyvane signature leaves, expected before the midyear recess); the two-docket slip; three blank lines under *Greyvane: the founders' hands*.
+- The observation notebook: Withrow's *choosing* (with its line); Lira's *admit* in the permanent pages; Jent's four measures.
+- **Hesk's book:** the drafting week, the eleven pounds, the yard, the face filed out, the hand and the arm, the status change, the lanes (ten, ten, twelve), *want*, the envelopes, the hand, the month's close and the parenthesis; **a ruled column with four names at its head, otherwise empty.**
+- Bracken's black oilcloth ledger of answer weights.
+- Seln's case: on the shelf above the copying table, unopened.
+
+**Fragments and progression.**
+- Seven confirmed; the anomaly uncounted (not touched in M2). **No new fragment.**
+- Deployments: public — the band in wing three (two bouts on the page). Private — the read on Jent's weight in his chair (day 25); **three Storm lanes** for Lira on the honest floor (day 27). Shadow never used.
+- **Lira:** program trial **three flags to one** vs the Force (Iron Rank Seven); program figure **27** (control 7 for bursts four and five); five bursts against Rooke's three.
+- **Brom:** confirmation *outcome anticipated: advancement, per title*; the panel the year's last Fifth-day.
+
+**Relationships (on the page).**
+- **Karis:** the keel; the address; "the only one of us who sat in both rooms"; the last page first; Bracken's *(sic)*; Jent's honest compliment and her thanks; "I hate it"; the budget; "Find it"; "Watch the seal"; **afraid of it accurately**.
+- **Lira:** the door rota; the yard; "I want you to be a floor"; "We don't spend a new figure the night we find it"; *admit*; nobody asks.
+- **Brom:** carries twice a day; the word worn out at the frames; "You weren't looking"-style economy; Havel's two looks counted at Greyvane; the envelopes; the face.
+- **Seln:** the sheaf under the door; the register that has no sheaf; the index; "They're called clerks"; three grades; "It used to sit at the other table."
+- **Ephram:** the rota signed; the chart; the frames with Brom (wordless).
+- **Withrow:** the folder opened toward him; both columns; *choosing*; the escort; bows anyway.
+- **Bracken:** the oil book again; line sixty-three and *(sic)*; the scales and the oilcloth ledger; *per seal*; *The house will attend.*; *anticipated* read aloud.
+- **Rooke:** the trial rule; "She rents it"; the invoice.
+- **The Stone:** the rating card (10/10/7).
+- **The house's counsel:** "Three roads to one town"; "That's a wall"; *never* → a count; "Enter him as the instrument has him."
+- **Jent:** "Advocate"; the compliment; "Hesk-ward."
+
+**Proceedings.**
+- The answer filed day 19 (three days inside the fourteen), under the house's own escort.
+- The seat's notice (day 23): sittings on the seat's Fifth-days upon the schedule of the academic year; ruling before the year's close; conference day 25; first sitting the sixth Fifth-day (day 40); evaluation seat to be called; **Jent, procurator of record; presiding seat per seal.**
+- Conference (day 25): schedule agreed; exhibits exchanged (173 / 9); Jent asks the answer be taken whole; concedes documentation and provision; the petition rests on the integrity question and the remedy, both discretionary.
+- **First sitting (day 40):** petition entered (nine minutes), answer entered (twenty-three), schedule confirmed, evaluation seat still empty, the seat rose. Door log: *Caelen Hesk-ward* / *the enrollee of record, unclassified*.
+- The house's charter folder carries the entry with its remedy column blank.
+- Bracken's count: eleven sittings ("expect fourteen").
+
+**Open threads.**
+- **Opened:** the ruled column (four names, empty); Karis's three blank lines under the Greyvane request; the lane's growing count (untested past three); Lira's program point (27 → 28); Ephram and Brom's unspoken measuring.
+- **Advanced:** Lira's ladder (first rated proof); Brom's review (*anticipated*) and Velmere (the face); Karis's standing (first spend; the assistant); the watchers (placed); the seal (no face); Havel (five sheets, no sixth); Seln's index; the honest floor (weekly).
+- **Closed:** the answer (filed); Jent's conference; Seln's index (delivered); the first sitting.
+- **Plants:** lot seventeen under Cael's foot (M3's preliminary); the five covered evaluation chairs (Ilsev's empanelment); the seal "ordinary" to Havel (so that M5's absent seal reads against it).
+
+**Prose vs plan differences.**
+- (a) The first sitting is the **sixth** Fifth-day (day 40), not "the fourth Fifth-day of the month", so that the trial, the envelopes (two nights), the budget and the four frames evenings fit in order before it.
+- (b) The month's close is written on day 42 (two nights after the sitting).
+- (c) Seln's index is delivered in ch8 as the sheaf, and he is given the ch10 coach joke and a ch9 counter scene (both new).
+- (d) The honest floor of ch11 (lanes as a builder's courses) is new; it prepares the trial.
+- (e) The house's escort is the head groom, his son and Bracken's senior clerk.
+- (f) Havel's cutaway runs ~1,240 words against the packet's ~1.5k.
+- (g) "They've filed the face out of it" is in Cael's log, not spoken.
+
+## New canon minted (flag where marked)
+
+- **The annex (flag):** the old lumber room across the library's top landing, cleared on Bracken's order on day 9 for the assistant's table and a shelf for the code; the house calls the pair of rooms "the annex".
+- **Seln's sheaf (flag):** a forty-leaf taped cross-index of the instrument (paragraph → sections → each section's history), pushed under the reading-room door before dawn on day 9; the wing's register "has no sheaf in it". The second volume's own index runs eleven years behind the volume.
+- **The nine days (flag):** the first renewal's minute (Halcenvane, the inspection year) was *held for countersignature* by the inspection delegation's officer and sealed nine days after the panel sat; the house's enrollment book carries the panel day; the sealed minute went to the registry file; only Cael's old Log holds both days. The rebuilt table gives sitting and seal days for all three rows.
+- **The ninety-one (flag):** recorded invocations of the integrity provisions: eighty-four about things; seven about persons, every one about conduct; **line sixty-three is Bracken's fourth-year filing** (spelt *cassing*, kept with *(sic)* at his request).
+- **Bracken's black oilcloth ledger** of the weight of every answer the house has filed in his time; the post-room's brass parcel beam.
+- **The house's escort** (head groom, his son, the senior clerk of nine years on the enrollment book).
+- **The seat's notice text** (ch10) and *per seal* (a code section for proceedings the registry designates institutional; never used in Bracken's thirteen years).
+- **Jent (flag — appearance):** middle height and years, brown coat with cuffs mended in another brown, spectacles on a black cord, a screw-lid travelling inkwell; addresses Cael as "Hesk-ward".
+- **The house's exhibit list:** 173 items on eleven pages; Jent's nine (listed in ch10).
+- **The wool exchange:** four steps on a plinth; lanolin; lot numbers carved in the selling floor; a side door newly cut; the conference room was the wool-factors' counting room; five evaluation chairs under grey covers; the seat's seal device "the river and the scale".
+- **The board line** *The house will attend.* (Bracken's).
+- **Bracken's sitting count:** eleven, "expect fourteen".
+- **Rooke's program-trial rule (flag):** four exchanges; a flag or none per exchange; most flags wins; level → the table's figure; three bursts for the program's entrant. Flags shown red/blue by the table. The figure goes in the program's book, "not the registry's. Not yet."
+- **Lira's program figure (flag):** 27 (execution 10, effect 10, control 7).
+- **The Force third-year (flag — style):** builds Force into the floor in courses on a settle in the knees, on his own count (four, then two when building fast); a fan; a well of four courses; laughs when surprised.
+- **The lane's slope (flag):** three lanes close together cost ten, ten, twelve counts; untested past three. Consistent with the accepted "ten counts slow" limit; it adds that the bill grows with close spending.
+- **Lira's correction:** lie with the foot you don't care about; go on the fourth against a builder.
+- **The district's confirmation text** with *outcome anticipated: advancement, per title*.
+- **The side-door officer:** young, a heavy cold, a ruled board; the door log's two columns (name; standing).
+- **Havel at Ostrand:** the inn by the bridge; junior chair, rotation "the seat's Fifth-days, until relieved"; the senior chair district grade; the five sheets stay at the inn on sitting days; "told, once, in a room with the door shut, that the mark was not his clearance".
+- **Withrow:** the charter folder in the locked case under the framed charter, key on her chain; the two old adverse notes (a fire-watch quarter; a year's declarations unindexed) with remedies and clearances.

@@ -1,195 +1,209 @@
 # Chapter 10 — Per Seal
 
-The seat's answer came up the hill in the noon bag on the twenty-third day, four days after the house's had gone down, and Bracken opened it at his counter with the paper-knife he kept for the registry's letters and nobody else's.
+By the time Cael reached the records hall on the twenty-third day, the seat's notice had been open on the counter for a quarter of an hour, and Karis had already read it upside down twice.
 
-Cael was at the counter because he had been sent for. So was Karis, with ink on her cuffs and the girl from the outer table two steps behind her carrying a notebook she had not been told to bring. Withrow was not there. She had asked to have the notice read to her in her office afterward, by Bracken, in full, and had said she would sooner hear it once from a registrar than four times from a corridor.
+She was standing on the public side with her arms folded, the way she stood at a shelf she did not trust. Bracken stood on his own side with one finger resting on the notice's last line, not pointing at it, only keeping it where it was, as a man keeps his hand on a dog. The noon bag lay open beside them with the rest of the house's post still in it. The girl from the annex hovered by the door with a notebook nobody had told her to bring.
 
-The notice was one leaf, printed on the registry's thin grey stock, with the seat's seal at the foot. Bracken read it to himself first, all of it, without a sound. Then he turned it on the counter so that they could read it with him, and laid his finger at the top, and read it aloud in the voice he kept for fees.
+"Read the bottom first," said Karis. "Then the rest. The rest is ordinary."
 
-*The seat at Ostrand gives notice that it has convened formal proceedings upon the petition served on the eighth day of the year. The seat will sit on its Fifth-days, upon the schedule of the academic year, and will rule before the year's close. Counsel of record will confer with the seat's clerk upon the schedule on the twenty-fifth day. The first sitting will be held on the sixth Fifth-day of the year. Senior evaluators of the district will be called to the evaluation seat on a day to be notified. Appearing for the petitioner as procurator of record: Jent. The presiding seat: per seal.*
+Cael came round beside her and read the bottom first.
 
-Nobody said anything for a moment. Behind them, in the hall, the porter's boy was sweeping, and the broom went on along the boards and stopped, as if the boy had felt the quiet and did not want to be the loudest thing in it.
+*The presiding seat: per seal.*
 
-"Jent," said Cael.
+Above it, the line he had been half expecting for a fortnight. *Appearing for the petitioner as procurator of record: Jent.* He had read that name once before, at the foot of the instrument's last leaf, under the attestation, and Bracken had not known it then. Cael looked at the registrar now, and Bracken gave the smallest shake of the head: still nobody he knew.
 
-It was the name from the last leaf of the instrument, set under the attestation in type no larger than the rest. He had read it on the night of the procedure and passed it to Bracken, and Bracken had not known it. He knew it no better now. Cael watched him look at the four letters as if they might belong to somebody he had once met at a district sitting and forgotten, and then decide that they did not.
+Then the rest, which was ordinary, as Karis had said. *The seat at Ostrand gives notice that it has convened formal proceedings upon the petition served on the eighth day of the year. The seat will sit on its Fifth-days, upon the schedule of the academic year, and will rule before the year's close. Counsel of record will confer with the seat's clerk upon the schedule on the twenty-fifth day. The first sitting will be held on the sixth Fifth-day of the year. Senior evaluators of the district will be called to the evaluation seat on a day to be notified.*
 
-"Still nobody I know," said Bracken. "Which is still information." He moved his finger down to the last line. "This is the part I don't like."
+Two days to the conference. Seventeen to the first sitting.
 
-"Per seal," said Karis.
+"Per seal," said Cael.
 
-"Per seal." Bracken took his finger off the paper. "There's a section in the second volume, near the back, for proceedings the registry chooses to call institutional instead of personal. The idea is that a seat in such a matter speaks for the registry as a body, and not for whichever officer happens to be sitting in it that morning. So the record names the seat by its seal, and not the officer by his name." He looked at the notice. "It's lawful. It's been in the code longer than I've been alive. I've read that section more times than I could count, because a clerk reads everything. In thirteen years at this counter I have never once seen it used."
+"It's in the second volume," said Karis. "Toward the back, in the sections nobody reads unless they're looking for something to be frightened of. Some matters the registry decides belong to the office and not the officer. In those, the seat sits as itself. Whoever holds it that morning wears the hood and presses the seal, and the minute names the seal." She did not unfold her arms. "There's no name in the record because, in law, there's nobody to name."
 
-"So a seal is going to rule on me," said Cael.
+Bracken nodded once, as a teacher nods at a pupil who has got there first.
 
-"Whichever officer has the seal in his keeping that morning will rule on you," said Bracken. "The minute will show the seal. It won't show the hand that pressed it." He folded the notice once, along the line where it had come folded, and laid it on the counter between them. "I can tell you the names of every registrar who has sat that seat in thirteen years. I can tell you which of them likes a long sitting and which of them takes his luncheon at the eleventh bell whatever the advocate is saying. I can't tell you which of them will be under the hood. Neither can anybody else in this building. That is what the section is for."
+"I've read that section a great many times," he said. "A clerk reads everything, in case. I've kept this counter thirteen years and never once seen it called on." He took his finger off the notice. "You'll want to know who it will be. So shall I. I know every registrar who has sat that seat in my time, and which of them likes a long sitting, and which takes his luncheon at the eleventh bell whatever the advocate is saying. None of that is any use. The minute won't tell you, and it won't tell me."
 
-Karis had not moved. She was looking at the last line of the notice upside down, and her face had gone the colour it went when a document had done something she had not predicted and she was deciding whether to respect it.
+Karis unfolded her arms at last.
 
-"It's very well done," she said at last.
+"It's very well done," she said.
 
 "It is," said Bracken.
 
-"I hate it," said Karis, and went back up the library stair without another word. The girl from the outer table looked at the notice once, hard, as if to fix it in her head, and went after her.
+"I hate it."
 
-Cael wrote it that night with the folded notice beside him on the sill. He had taken a copy at the counter in his own hand, every word, and he read it over twice before he put the pen down to the Log.
+The girl by the door had been holding her notebook against her chest the whole time. She spoke now, quickly, as if she had been working out the question for a while and was afraid it would go off if she held it any longer.
 
-*The seat's notice. Sittings on its Fifth-days, the ruling before the year's close. For the petitioner, Jent, the name off the last leaf, who still means nothing to Bracken. And for the seat itself, no name at all. Per seal.*
+"If there's nobody to name," she said, "who do you appeal to? If the seat gets it wrong?"
 
-*Every person who has ever decided a thing about me had a face, and I could read it. Pellin at Denvash, with her brass plate. Coss across a desk. Vastin with his frames. The provost who was frightened, and showed it. Umber, polishing his spectacles over a sheet he couldn't score. I have read every one of them from across a room, and every reading has been worth something.*
+Bracken looked at her over his spectacles, and for a moment Cael thought he was going to send her to her table.
 
-*They've filed the face out of it. By a section of the code nobody has used in thirteen years, the seat that rules on my enrollment has chosen to be nobody. There will be a hood, and a hand under the hood, and a seal in the hand, and the minute will only ever show the seal.*
+"To the registry," he said. "Which is the seat. Which is the seal." He folded the notice once along its crease. "Go and find the section, and when you've found it come and tell me whether I'm wrong. I should very much like to be."
 
-*Given under the Compact's hand. I always read that as a way of speaking, like a ship's name on a letter. Somebody has decided to make it true.*
+Karis went out past her. The girl looked at the notice once more, hard, as if to fix it in her head, and went after her.
 
----
+He copied the notice at the counter in his own hand, and wrote it up at the sill that evening.
 
-The coach went down the bluff road on the twenty-fifth day at first light, with the sky over the river still the colour of dishwater and the switchbacks pale in front of the horses.
+*Per seal. Jent, the name off the last leaf. Seventeen days.*
 
-Withrow's carriage went first. It was a small closed thing with a single good horse, and she rode in it alone with the house's counsel, because she said there were things a chancellor and her counsel said to each other on the way to a seat that nobody else in the house should be made to keep. The delegation coach came behind, the big one that had carried them to Norhold and back, with its driver in the coat he had worn for the whole of the last season. The five of them sat inside it with the windows down for the cool, and nobody had been told to come except Cael. The others had come anyway. Withrow had seen them at the coach door and had looked at them one after another, and then had told Bracken to enter them on the day's list as the house's attendance. That was all the asking there had been.
+*Every person who has ever decided a thing about me had a face, and I could read it. Pellin at Denvash, with her brass plate. Coss across a desk. Vastin with his frames. The provost who was frightened and couldn't hide it. Umber polishing his spectacles over a sheet he couldn't score. I read every one of them from across a room, and every reading was worth something.*
 
-The red drill-book lay shut on Lira's knee the whole way down. Brom sat with his forearms on his thighs and his hands clasped between his knees, the way he sat on any bench where something was going to happen at the far end of it. Karis had the answer's summary in her lap, eleven leaves, and read it from the front with her lips moving very slightly, as Cael had seen her read a scouting sheet the night before a bout.
-
-Seln sat at the far end of the bench by the door with a sheaf of paper on his knee.
-
-It was bound along its edge with tape. Cael saw it, and saw Karis see it, and saw her look at it for about as long as she would have looked at a stranger's luggage, and go back to the summary. Seln turned a leaf. He did not look up. He had come on the day's list as *records support*, which was what Bracken had decided he was, and he was supporting the records by reading, with great attention, a document that the wing's register said did not exist.
-
-At the foot of the bluff the road went along the river street to the bridge, and on the bridge the coach slowed behind a cart of barrels, and Karis put down the summary and looked out of the window at the water.
-
-"He'll concede it," she said.
-
-Nobody asked who. She went on to the river.
-
-"Whoever he is. In the first minute, I think. He'll take the answer and agree with all of it. The clause, the provenance, the renewals, the ninety-one. All of it." She turned her head. "I want every one of you ready for what that feels like, because it is going to feel exactly like winning. Like the moment in a bout when the other fighter drops his guard. And it isn't. It's a man moving his guard somewhere you haven't looked."
-
-"Then where should we be looking?" said Lira.
-
-"At whatever he doesn't concede," said Karis, and picked up the summary again.
-
-Ostrand's registry seat was the old wool exchange, which stood where the market street ran out at the top of the hill.
-
-Cael had walked past it a dozen times on the house's errands and never looked at it twice. It was a long stone hall raised four steps above the street on a plinth, with tall plain windows and a great double door in the middle, and in the old days, Bracken said, the whole wool clip of the valley had been sold across its floor by the bale. The trade had moved downriver to the confluence before Bracken was born. The registry had taken the building because it was large and cheap and stood at the top of a hill, which the registry liked. It still smelled faintly of sheep in the heat. When the coach stopped at the foot of the steps and the door was opened, the smell came in at once, warm and greasy and not at all unpleasant, like the inside of a new coat.
-
-There was a joiner at the side of the building, on a short ladder, hanging a door.
-
-It was a new door in an old wall. The stone had been cut round it so lately that the dust still lay white on the sill, and the joiner was fitting the second hinge with a mouthful of screws. Beside him a registry officer stood with a ruled board under his arm and watched the hinge go on as if he would be blamed personally if it went on crooked.
-
-"For the sittings," said the house's counsel, at Cael's elbow. She had got down from Withrow's carriage while he was looking. "They expect people on the steps. A great many people. The front door is for the public, and the public is going to be in the way." She looked at the new door with professional interest. "They've thought about you. That's not always a compliment."
-
-The procedural conference was not held in the hall at all. It was held in a room at the back of the building, through a passage and up a short stair, in what had once been the wool-factors' counting room and was now a district office with a long table and eight chairs and the registry's plain sigil painted on the wall above the hearth. A window at the far end looked straight down the market street, over the roofs, to the wharfs and the river and the bluff beyond it with the house along its top.
-
-Jent was already in the room when they came up the stair, and he stood up.
+*They've filed the face out of it. By a section nobody has used in thirteen years, the seat that rules on my enrollment has chosen to be nobody.*
 
 ---
 
-He was not a big man. That was the first thing Cael counted, and he counted it because he had expected something else without knowing he expected it. He had expected size, or presence, or at least a voice. What stood up from the far side of the table was a man of middle height and middle years in a brown coat that had been good once and had been looked after since, with the cuffs mended in a slightly different brown, and a pair of spectacles on a black cord round his neck. He had a travelling inkwell on the table in front of him, the kind with a screw lid, and before he came round the table to greet them he screwed the lid down, carefully, so that nothing would spill while his back was turned.
+On the twenty-fifth day the coach stopped on Ostrand bridge behind a cart of barrels, and while the carter argued with his horse, Karis told them a story.
 
-He greeted the house's counsel first, by her name. Cael had never heard her name spoken aloud and did not hear it clearly now; Jent said it quietly and she answered it with a short nod, as one craftsman greets another in a street. He greeted Withrow as *Chancellor*, and bowed to the depth the registry taught. And then he turned to Karis, who had come in behind the counsel with the summary under her arm, and said, "Advocate."
+"At Greyvane, in my first term," she said, to the window, "an advocate gave me a point at a sitting. A good point. One I'd spent a fortnight on. He stood up and said the archive was right and he wouldn't dispute it, and sat down. I went back to my room and was pleased with myself all evening." The cart lurched forward a yard and stopped again. "In the morning he took the case on a point I hadn't looked at, because I'd spent the whole of the night before being pleased."
 
-Karis was not an advocate. She was an enrollee with an Iron Rank Three on the porter's wall and a reading room with a lock on it. Cael saw her hear the word and saw her not correct it. Jent had looked at the answer, and at the woman carrying it, and chosen the most exact word he had for the person who had made it.
+"So what do we do?" said Lira.
 
-He nodded to Brom and Lira and Seln as the house's attendance. Then he looked at Cael, briefly, as a man looks at a party in a matter, and nodded to him too, and went back round the table and sat down and unscrewed the inkwell.
+"When he agrees with us, don't nod. Don't let your face do anything at all." Karis turned from the window. "He's going to agree with us about everything in that answer. All of it. Probably before the clerk has finished the schedule."
 
-The seat's clerk arrived a minute later, a thin young man with a schedule, and the conference began.
+"Then where do we look?"
 
-It was dull. Cael had been told it would be dull, and it was, and he found himself grateful for every dull minute of it. The clerk read the schedule. The house's counsel agreed to the schedule. Jent agreed to the schedule. The clerk wrote down that both counsel of record had agreed to the schedule, and read back what he had written, and both counsel of record agreed that he had written it. The sittings would be on the seat's Fifth-days. The first would be the sixth Fifth-day of the year. The evaluation seat was still to be empanelled. The clerk would notify.
+"At whatever he keeps."
 
-Then the exhibit lists went across the table, and Cael stopped being grateful.
+The cart moved off, and the coach went on over the bridge.
 
-The house's list was eleven pages long and ran to a hundred and seventy-three items, each numbered, each described in a line of Karis's smallest hand. The counsel slid it across the table with one finger. Jent drew it to him and read the first page, every line, with his spectacles on. Then he turned to the last page and initialled the receipt at its foot and slid the list back, and did not read the ten pages in between.
+There were six of them inside. The five, because nobody had been told to come except Cael and the others had come anyway, and Withrow had looked at them at the coach door one by one and told Bracken to enter them on the day's list as the house's attendance. And the house's counsel, who had come up the hill at first light with her steel rule and asked for a seat in the coach instead of in Withrow's carriage, which had gone on ahead. Lira had the red drill-book shut on her knee. Brom sat with his hands clasped between his knees and looked at the floor of the coach as if it were a floor he would have to stand on.
 
-His own list was a single leaf. He laid it on the table and turned it round to face them, and the counsel drew it across, and Cael read it upside down from where he sat.
+Seln had the end of the bench by the door and a sheaf on his knee, bound along its edge with tape. He was turning its leaves with great attention, and Cael saw it, and saw Karis see it, and saw her look away as she would have looked away from a stranger's luggage. The wing's register had no sheaf in it, and Seln was reading it anyway.
 
-There were nine items on it.
+The wool exchange stood where the market street ran out at the top of the hill. It was a long stone hall raised four steps above the street on a plinth, with tall plain windows and a great double door, and in Bracken's grandfather's day, Bracken said, the whole wool clip of the valley had been sold across its floor by the bale. The trade had gone downriver long ago, and the registry, which liked large cheap buildings at the tops of hills, had taken this one, and it still smelled of sheep in the heat. When the coach door opened the smell came in warm and greasy and not at all unpleasant, like the inside of a new coat.
 
-*The petition as served. The convening's minute. The clause, as certified by the registry. The standardization directive, with its schedules. The advisory upon the fielding clause, of the prior year. The adjudication office's referral of the enrollee's tournament entry. The registry code, chapter fourteen. The registry code, the integrity provisions. The registry code, the schedule of the registry's discretions.*
+At the side of the building a joiner stood on a short ladder with a mouthful of screws, hanging a door.
 
-He did the arithmetic without meaning to. It was the first thing he did in any room with paper in it, and he could no more have stopped it than stopped reading a sign.
+It was a new door in an old wall, and the stone had been cut round it so lately that the dust still lay white on the sill. A registry officer stood at the ladder's foot with a ruled board under his arm and watched the second hinge go on as if he would be blamed personally if it went on crooked.
 
-Nine things. Not one of them a witness. Not one of them a finding of fact about anybody. Not one of them anything a person could be asked a question about, or cross-examined on, or caught out in. Every item on the list was a published text, a thing that already existed in the registry's own files in a dozen certified copies, a thing you could not prove or disprove because there was nothing in it to prove. A man did not bring a list like that to show a seat that something had happened. He brought it to read aloud, at the right moment, from the right page.
+"For the sittings," said the house's counsel at Cael's elbow. "There'll be people on the steps. A great many. The front door belongs to them." She considered the hinge. "They've thought about you. That isn't always a compliment."
+
+Withrow had got down from her carriage and was standing at the foot of the four steps, looking at the new door with her hands folded in front of her. She looked at it for about as long as she would have looked at a notice on a board. Then she looked at Cael.
+
+"When it's finished," she said, "you'll use it as if it had always been there. You won't look at the hinges. You won't look at the front steps on your way past. A door is a door." She turned toward the main entrance. "The registry cut it for you. Let the registry be the only one who remembers that."
+
+---
+
+The conference was not in the hall. It was up a short stair at the back, in what had been the wool-factors' counting room and was now a district office: a long table, eight chairs, the registry's plain sigil painted over the hearth, and a window at the far end that looked straight down the market street to the wharfs, and over the river to the bluff, with the house along its top.
+
+The first thing Cael saw in it was a hand screwing the lid onto a travelling inkwell.
+
+It did it carefully, a full turn and then a quarter more, so that nothing would spill. Then the hand set the inkwell square on the table, and its owner stood up, and came round the table to meet them.
+
+He was not big. Cael had expected size without knowing it, or a voice, or some weight in the way a man came across a room. What came across this room was a man of middle height and middle years in a brown coat that had been good once and had been kept good since, with the cuffs mended in a slightly different brown. A pair of spectacles hung on a black cord round his neck.
+
+He greeted the house's counsel first, by a name Cael heard and did not catch; she answered it with a short nod, as one tradesman nods to another across a street. He gave Withrow her title and the depth of bow the registry taught. Then he turned to Karis, who had come in behind the counsel with the summary under her arm.
+
+"Advocate," said Jent.
+
+Karis's pen, which she had taken out to make a note of the room, stopped in the air.
+
+She did not correct him; Cael watched her decide not to. She was an enrollee with an Iron Rank Three on the porter's wall, and the house had given her a reading room, a lock and a line in the accounts, and nobody had yet found a title for her that fitted. This one fitted: a stranger had looked at the answer and at the person carrying it, and found the word on the first try.
+
+Jent nodded to the three behind her as the house's attendance, and to Cael as a man nods to a party in a matter, and went back to his chair and unscrewed the inkwell.
+
+The seat's clerk came in a minute later, a thin young man with a schedule, and the conference began, and it was dull, and Cael was grateful for every dull minute of it. The clerk read the schedule, and both counsel agreed it, and the clerk wrote that they had agreed it and read back what he had written, and both counsel agreed that too.
+
+Then the lists went across the table.
+
+The house's ran to a hundred and seventy-three items, in Karis's smallest hand. The counsel slid it over with one finger. Jent picked it up, weighed it a moment in his palm the way a man weighs a letter for its postage, opened it at the index leaf and read that, all of it, with his spectacles on. Then he initialled the receipt at the foot and passed it back.
+
+His own was a single leaf. The counsel drew it across and Cael read it upside down.
+
+*The registry code: chapter fourteen. The registry code: the integrity provisions. The registry code: the schedule of discretions. The petition as served. The convening's minute. The clause, as the registry certifies it. The standardization directive, with its schedules. The advisory upon the fielding clause. The adjudication office's referral of the enrollee's entry.*
+
+Nine. And every one of them, Cael realized, was already somewhere in the right-hand column of Seln's sheaf. Not one was a witness, and not one was a finding about anything that had happened in a room. There was nothing on the leaf a person could be asked a question about, or caught out in, or shown to have misremembered. They were texts, the registry's own furniture, and a man did not bring furniture to prove a thing; he brought it to read aloud from, at the moment of his choosing.
 
 Every one of the nine was there to be cited.
 
-"Nine," said the house's counsel, as if confirming the number of chairs.
+"I'd ask that the respondent's answer go into the record whole," said Jent. "Not the summary. If the respondent has no objection."
 
-"Nine," said Jent. He had taken his spectacles off and was polishing them on a corner of his coat. "I'll ask the seat to take the respondent's answer into the record whole, if the respondent has no objection. Not the summary. The whole of it." He put the spectacles back on. "The summary is very good. The answer is better. I'd sooner the seat had the better one in front of it."
+"I was about to ask the same," said the counsel.
 
-He laid his hand flat on the wallet that held the house's answer, which the clerk had set down at his end of the table. He did not pat it. He simply let his palm rest on the leather for a moment, as a man rests his hand on a horse he has admired.
-
-"I've read it twice," he said. "The best-documented enrollment I've reviewed in thirty years. Genuinely." That last word went across the table to Karis, and it came as plainly as a measurement. "Any of the four older challenges to the clause would have been over before its first adjournment, if somebody had done the directive's schedules for it like that. The renewals table I have never seen done better. I'd like you to know that someone on this side of the table noticed."
+"Then we're agreed." He took off his spectacles and let them hang. "I've been through it twice now. The best-documented enrollment I've reviewed in thirty years. Genuinely." That last word went across the table to Karis, as plainly as a measurement. "And the renewals table. Two dates to a row, and the reason for the gap. I've not seen that done before. Somebody was in the room."
 
 "Thank you," said Karis.
 
-Cael heard it and turned his head. In two years he had never once heard Karis thank anybody for a compliment. She took them as she took the weather, without comment, and went on with what she was doing. But she had said it now, plainly, looking at Jent. Then she looked down at the table, and Cael understood that she had thanked him because she had seen, a moment before anybody else, what he was going to say next, and wanted the thanks entered before it.
+She said it at once, before anybody else could speak. Cael turned his head. He had never once heard her thank anybody for a compliment.
 
-For the rest of the conference Cael read him.
+Under the table, where nobody could see, Cael let the read go.
 
-He had four measures he trusted, and he ran them in order.
+He sent it out through his own boots into the old floorboards of the counting room, quietly, as he would never have let it go in a ring with a judge watching, and along the boards under the table to the far side. It came back with the man's weight in his chair. Square. Settled in the middle of the seat as a sack settles when it is set down. In forty minutes it did not once lean forward toward a point he meant to make or ease back from one he would sooner not. It sat where it had been put.
 
-The hands first, because the hands told the truth when the face had learned not to. Jent's hands lay on the leaf in front of him, one either side of the inkwell, square to the table's edge. When he wrote, one hand wrote and the other held the leaf. When he stopped writing, both hands came back to where they had been. They did not go to his face, or his collar, or the cord of his spectacles. They did not tap. They did not do anything they had not been asked to do.
+Then the hands. They lay one on each side of the inkwell, square to the table's edge. When one wrote, the other held the leaf; when neither wrote, both went back to where they had been. They did not go to his collar or the cord of his spectacles. They did not tap.
 
-The breath next. It was even. It did not change when the counsel asked him a hard question, and it did not change when she asked him an easy one.
+Then the breath, which did not change when the counsel asked him a hard question, or an easy one.
 
-Then the weight. Cael let the read go out of him, very quietly, down through his own feet into the old floorboards of the counting room and along them under the table to the far side, the way he would never have let it go in a ring with a judge watching. It came back with the man's weight in his chair. Square. Settled, in the middle of the seat, as a sack settles. In forty minutes it did not once shift forward toward a point he wanted to make, or back from one he wanted to avoid. It sat where it had been put.
+And last the thing Cael trusted most: the little space before an answer that cost something, when a person chose how much of it to give. Every official he had ever sat across from had one. Jent did not. Question and answer followed each other with nothing between them.
 
-And last, the thing he trusted most of all: the half-beat. Every person he had ever read had one. When a question came that cost something, there was a sliver of time before the answer when the person decided how much of the answer to give, and you could see the deciding if you knew where to look. Coss had had a long one. Vastin had had a short one, honest, like a man checking a figure. Even Umber had had one.
+"Will the petitioner call any witness?" the counsel asked him, toward the end.
 
-Jent had none.
+"None."
 
-Cael watched for it through every question the counsel asked. Question and answer followed each other with no space between them. Jent was never fast. Just without any gap at all, because there was nothing in the man choosing between one answer and another. There was only the answer.
+"Not the evaluator whose advisory you've adopted?"
+
+"His advisory is an exhibit. It speaks for itself. I'd not ask a man to stand up in a room and repeat a paragraph he's already signed."
+
+"Does the petitioner dispute any entry in the respondent's renewals table?"
+
+"No."
+
+"Does the petitioner say the evaluation seat should sit before the integrity question is argued, or after?"
+
+"That's the seat's to say. I'll be content with either."
+
+Four questions. One hard, Cael thought, one sly, two easy, and the counsel had put the sly one second, where a man who was tired of the easy ones might trip on it. Jent had not tripped, and had not even seemed to notice there was anything to trip on. Every answer had come at the same pace, in the same voice, with his hands in the same place on either side of the inkwell, as if the questions had all been the same size. He was never fast. There was simply nothing in the man that had to choose.
 
 Four measures. Four nothings.
 
-"I'll save the seat some of its time," said Jent near the end, when the clerk had asked whether counsel had anything further for the schedule. "And yours. The documentation isn't in issue. The provision isn't in issue. The petition doesn't need either of them to be wrong, and I wouldn't insult the respondent's answer by pretending to argue with it." He squared his leaf. "Two questions remain, and the petition stands on them: whether there's an integrity question at all, and what the remedy should be. Both are matters for the registry's discretion. I'll put them to the seat on its schedule. The respondent will answer. The seat will rule."
+"I'll not trouble the seat with the clause," said Jent near the end, when the clerk asked whether counsel had anything further. "Or the papers, or the renewals. The respondent's right about all of it, and I'd only waste the seat's mornings pretending otherwise." He squared his leaf. "I'll trouble it with the registry's discretion. Whether there's a question of integrity at all. And, if there is, what's to be done about it. I'll put both on the schedule. The respondent will answer."
 
-He screwed the lid onto his inkwell, and put it in his coat, and stood.
+He screwed the lid down on the inkwell, a turn and a quarter, and put it in his coat, and stood.
 
-"Chancellor," he said. "Counsel. Advocate."
+"Chancellor. Counsel. Advocate."
 
-Then he looked at Cael once more, and inclined his head, exactly as far as a procurator inclines it to a party.
+He looked at Cael once more and inclined his head exactly as far as a procurator inclines it to a party.
 
-"Hesk-ward," he said.
+"Hesk-ward."
 
-He went out at a clerk's pace, and they heard him go down the short stair, and the conference was over at the precise minute the code allowed for it and not one minute after.
+He went down the short stair at an even pace. By the clock over the hearth the conference had taken the time the code allowed for it, to the minute.
 
 ---
 
-The house's counsel rode back in the coach.
+The coach was halfway across the bridge before anybody spoke.
 
-She had asked to. Withrow had gone on alone in her carriage with the notice and the schedule and a face that said she would like an hour by herself before she was anybody's chancellor again. The counsel sat in the corner by the window with her bag on her knees and the steel rule in her coat pocket, and for the length of the market street she said nothing at all.
+"Well?" said Lira, to the house's counsel. "What do you make of him?"
 
-On the bridge she spoke, to the window, in the voice of somebody revising a long opinion out loud.
+The counsel had her bag on her knees and her rule in her coat pocket, and she took a while.
 
-"He hasn't come to argue," she said. "I've faced men who came to argue. You can always tell them. Some ground they always fall back to. Some clause they're too fond of. A point they'd sooner lose the whole case than give up." She watched the river go under the coach. "He has none of that. He's come to carry a paper from one end of a schedule to the other at the pace the code sets, and lay it on the seat's table at the far end, and let the seat do what it was built to do." She turned from the window. "Every man who has beaten me in twenty-six years wanted to, and badly. This one doesn't want anything. I've no idea yet what that does to my record."
+"I kept waiting for him to want something," she said. "Every man who's beaten me in twenty-six years wanted it badly, and I could find the wanting and lean on it. I leaned on this one the whole morning." She looked out at the river. "There was nothing there to lean on. I've no idea yet what that does to my record."
 
-Seln, at the far end of the bench, had his eyes shut and the taped sheaf on his knee.
+Seln was at the end of the bench with his eyes shut and the taped sheaf on his knee.
 
-"You've met hundreds," he said, without opening them. "They're called clerks. You've just always had the good chair."
+"There's one behind every counter you've ever leaned on," he said, without opening them. "They're called clerks. You've always had the good chair."
 
-Lira laughed out loud, and put her hand over her mouth, and laughed again behind it. Brom's shoulders moved once. Even the counsel's mouth did something at one corner that she did not let it finish. Seln did not open his eyes. But Cael, across the coach, saw his hand lie quiet on the sheaf, and thought that the man had very possibly just made the first joke of his life in front of witnesses.
+Lira laughed out loud, and put her hand over her mouth, and laughed again behind it. Brom's shoulders moved once. Even the counsel's mouth went up at one corner before she stopped it. Seln did not open his eyes. Cael thought that the man might just have made the first joke of his life in front of witnesses, and that he would deny it at the counter in the morning.
 
-Karis did not laugh. She was looking at the summary in her lap without reading it.
+Karis had not laughed. She was looking at the summary in her lap without reading it.
 
-"He conceded it," she said. "All of it. In the first minute. I told you he would."
+"I thanked him first," she said, "so it would be on the minute before he gave everything away. Then it's on the minute that we heard the compliment and didn't bow to it." She folded the summary in half. "He agreed with all of it. In the first minute. I told you he would. And I still had to keep my face still. I'm telling you that so you know it isn't easy."
 
-"You did," said Brom.
+"It wasn't," said Brom.
 
-"And it felt like winning." She folded the summary in half. "Exactly as I said it would. I said it, and I knew it, and it still did." She put the summary in her coat. "I'd like that noted too."
+Bracken was at his counter when they came up the hill, and he did not ask how it had gone. He asked what the man looked like.
 
-"Noted," said Cael, and it was.
+Cael told him. Middle height and middle years. The brown coat, the cuffs mended in a different brown, the spectacles on their black cord, the inkwell with its screw lid. The way he had weighed the house's list in his palm before he opened it.
 
-He wrote Jent up that night at the sill, in the observation notebook first and then in the Log, and the two entries did not say the same thing.
+Bracken listened with his hands flat on the counter. Then he went to the locked press, and came back with three thin bound books, and laid them side by side: the rolls of procurators admitted to practise before the registry seats of this district and the two beside it, each name with its date and its sponsor and, against some of them, a little ink drawing in the margin by some long-dead clerk with time on his hands.
 
-The notebook got the measures: hands square, breath even, weight settled and never shifted, no half-beat. A brown coat with mended cuffs. An inkwell with a screw lid. *Advocate,* to Karis. *Hesk-ward,* to me. Nine exhibits, all texts, all to be cited. Forty minutes, to the minute.
+He went down all three with his finger, a quarter-hour's work. Cael stood and watched him do it, because he could see Bracken wanted it watched.
 
-The Log got what the measures meant.
+"Not on any of them," said Bracken at last, and closed the third. "Admitted somewhere, or he couldn't stand at a seat. But not here, and not next door." He put the three books one on top of another, squared. "So he came from further off than the next district to stand at our seat in a matter about our house." He looked at Cael over the books. "Which is information. I don't yet know what it's information about."
 
-*Four nothings. I've never come away from a man with four nothings before. I've come away from every one of them with something: Coss with the wanting-me-gone all over his desk, Vastin with his need for the measurement to be true, Umber with his sheet, the provost with his fear of blame. Each of them wanted one thing more than the room, and whatever a man wants more than the room is the door you go in by.*
+The read had told him the man's weight in his chair to the ounce, Cael wrote that night at the sill, and nothing else at all.
 
-*Jent praised Karis's work and meant every word. He gave away the whole of our answer before the clerk had sharpened his pen. Giving it away didn't hurt him. You can't lose what was never yours.*
+*Four nothings. He praised Karis's work and meant every word. He gave away the whole of our answer before the clerk had sharpened his pen, and giving it away didn't hurt him. You can't lose what was never yours.*
 
 *He's a hand. Somebody else is the arm.*
 
-*And whoever that is has learned something since Greyvane. You can't send a man with an appetite to deal with a boy who reads them. So they've sent a man without one, and put a hood on the seat, and taken the name off the chair. Two years of reading faces, and they've answered it by sending me none.*
-
-He read it over once. Then he went to the window and looked across the dark court to the library, and at the top of it, in the reading room, Karis's lamp was still burning, which meant the oil book would have another line in it in the morning.
+He read it over once. Across the dark court, at the top of the library, Karis's lamp was still burning in the annex, which meant the oil book would have another line in it in the morning.

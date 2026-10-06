@@ -30,15 +30,17 @@ They had the door of the old lumber room propped open with a broken chair, and t
 
 "Second-year. Ink on her." The porter set his end of the table down. "She's already been and moved the chairs twice."
 
+By noon the house had a name for the two rooms together, the reading room and the cleared one facing it across the landing. Ephram used it first, to a knot of curious first-years at the foot of the library stair, and it stuck before supper: the annex.
+
 Across the landing the reading-room door stood open for the first time Cael could remember. Karis was inside at the long table with her back to the window and her sleeves pushed above her elbows. She had the code's three volumes laid out on her left, open, one above another like steps. On her right lay something he had not seen before.
 
-It was a sheaf of paper, bound along its edge with tape, perhaps forty leaves. It had no cover and no title and no note. He came round the table to see it the right way up. Every leaf was ruled into two columns. In the left column, one paragraph of the instrument at a time, in order, stood the paragraph's number and its first words. In the right, under each, ran every section of the code the paragraph leaned on, by volume and chapter and section, and under each section a line in very small print saying where else in the registry's history that section had been used, and by whom, and how it had come out.
+It was a sheaf of paper, bound along its edge with tape, thirty-odd leaves. It had no cover and no title and no note. He came round the table to see it the right way up. Every leaf was ruled into two columns. In the left column, one paragraph of the instrument at a time, in order, stood the paragraph's number and its first words. In the right, under each, ran every section of the code the paragraph leaned on, by volume and chapter and section, and under each section a line in very small print saying where else in the registry's history that section had been used, and by whom, and how it had come out.
 
 The hand was a copying hand. It was so even that it might have been printed, and it made no letter larger than any other.
 
 "It was under the door when I came up," said Karis without looking round. "At the third bell. Pushed through flat, so it wouldn't crease." She turned a page of the code. "The porter's boy was sweeping this stair at the second bell. He says the wing's teaching assistant came up it with something under his arm, and went down it again without, and wished him good morning on the way."
 
-Cael looked down at the sheaf. Forty leaves. The paragraphs of a paper served at the second bell yesterday, mapped against a code of three volumes, with the history of every section underneath. It would have taken a clerk with a good lamp a week.
+Cael looked down at the sheaf. Thirty-odd leaves. The paragraphs of a paper served at the second bell yesterday, mapped against a code of three volumes, with the history of every section underneath. It would have taken a clerk with a good lamp a week.
 
 "Thank him," said Cael.
 
@@ -54,7 +56,7 @@ Four days to the answer's bones, said Karis. After that, the flesh, and then Bra
 
 "Lira is in charge of the door." Karis wrote a section number on a slip and tucked it into the second volume. "Not this door. That one has the girl. The records hall's. The intake found out this morning where we sat last night. There were nine of them on the records-hall steps at the second bell, looking at the windows as if the code were going to come out and wave."
 
-He did not ask how Lira was going to keep forty first-years off a set of steps. He found out at noon.
+He did not ask how Lira was going to keep a whole intake off a set of steps. He found out at noon.
 
 She had gone to Ephram. Ephram, as captain, still held the meal rota the two second-years had drafted on the first night, the one with a column of names and a table chosen for watching how Cael held a spoon. Lira asked him for it. She took it to the common room, crossed out the heading, and wrote a new one above it in her square capitals. *RECORDS HALL STEPS. ONE PAIR AT A TIME. NOBODY SITS. NOBODY ASKS. ANYBODY ELSE IS SENT TO THE FRAMES.* Then she gave it back to Ephram to sign, and he signed it, and pinned it up on the covered walk beside the house's one-line answer from the day before.
 
@@ -86,7 +88,7 @@ It was a small thing. Her pen came down an inch over the paper and stayed there.
 
 "You answer a paper in its own words," said Karis. "Always. If they call a thing a carriage, you don't call it a cart. You make them argue with the word they chose, not with yours." She did not look at him. "They've given you your registry name. So the answer goes back to the same address. Halcenvane Academy, respondent, with the enrollee of record, Caelen Hesk-ward, unclassified, answers jointly. Do you mind?"
 
-Nobody had asked him that about the name before. Not at Ardenmere, where it had been stamped on him; not at Greyvane, where it had been read out over his head; not on any form since. The registry gave him the name the way it gave a ledger a number. People said Cael.
+Nobody had asked him that about the name before. Not at Denvash, where Pellin had stamped it on his card; not at Greyvane, where it had been read out over his head; not on any form since. Once, at Ardenmere, he had asked Vell to put it in her book the right way round, which was the nearest he had come. The registry gave him the name the way it gave a ledger a number. People said Cael.
 
 "No," he said. "It's my name in that building. Write it the way they spell it."
 
@@ -104,7 +106,7 @@ The first was Karis's own finding from Greyvane, the long one, the one she had b
 
 "Three roads to one town," said the counsel.
 
-"Three roads to one town." Karis laid the three bundles side by side and pinned them together along their edges with brass fasteners, through the margin, so that none of them could be lifted out alone. "Any one would do. I'm not going to let the seat find out which. If they knock one down they'll find the other two standing in exactly the same place."
+"Three roads to one town." Karis laid the three bundles side by side and pinned them together along their edges with brass fasteners, through the margin, three thicknesses of paper made into one. "Any one would do. I'm not going to let the seat find out which. If they knock one down they'll find the other two standing in exactly the same place."
 
 "And if they don't knock any of them down?"
 
@@ -120,9 +122,9 @@ Cael read everything that day. That was the arrangement: Karis wrote, and he rea
 
 Near the end of the afternoon she did something he did not understand.
 
-She was deep in the provenance, with the directive's schedules open in front of her and her finger on a line. She did not lift her eyes from it. She reached behind her with her free hand to the pile of finished leaves and drew one out from near the bottom and held it over her shoulder toward him without turning round.
+She was deep in the provenance, with the directive's schedules open in front of her and her finger on a line, and the finger stayed where it was. She reached behind her with her free hand to the pile of finished leaves and drew one out from near the bottom and held it over her shoulder toward him without turning round.
 
-"Read that one tonight," she said. "First. Before you sleep."
+"Tonight," she said. "First."
 
 He took it. It was the renewals table.
 
@@ -140,19 +142,21 @@ He read it twice and found nothing. He had not expected to find anything; Karis 
 
 Why first? Why tonight?
 
-He sat down on the bed with the boot in his hand and thought about the inspection year. He had been in the room for the panel. He remembered it the way he remembered most rooms, by its count: Gault at the trestle with his case, the two instructors, the delegation's officer at the end of the row with a pen he never once uncapped. A Fifth-day. The panel had found, and Gault had written the minute in his own hand at the trestle while they all waited. Then the delegation's officer had asked for the minute to go to the Compact's officer of record for countersignature before it was sealed, and Gault had said that was within the inspection's rights and had written *held for countersignature* across the foot of it, and the officer had taken it away.
+He sat down on the bed with the boot in his hand and thought about the inspection year.
 
-And the minute had come back. Cael remembered that too. He had been called to Gault's office to put his own initials on the receipt of the sealed copy, as the enrollee of record, and Gault had sealed it in front of him and dated the seal, and said, *There. Now it's a thing.*
+He remembered the room by its east wall, because that was where the strangers had been. Four chairs set out by Bracken at a guest's distance from one another. The delegation's counsel in the nearest, untying a folder's ribbon with her teeth. Ilsev beside her, sharpening a pencil into a fold of paper on her knee. Havel with a board across his knees, writing the date. And in the fourth chair the Archmarshal, with nothing in his hands at all. Three hours of instruments on the oak under those four chairs: the frames, the board, the pendulum ticking in its case. Then Gault reading his note aloud at the trestle, and the Ash instructor signing, and the Mire instructor adding her four lines about the faulty frame, and the clerk bringing the stamp down on the house's copy. *Renewed.* That had been the day, and the house's copy had been stamped on it.
 
-That had not been the panel's day. That had been later.
+But the house's copy was not the only one. Bracken had told him so at the counter two days afterward, when the line went into the enrollment book. The delegation's counsel had asked, in writing, that the registry's own copy of the note go up the road under the delegation's countersignature before the registry sealed it into his file, and Bracken had objected on both sides of a sheet, and lost. So that copy had waited. And when it came back down, sealed and dated, so that the enrollee of record could initial its receipt before it went up again for good, Gault had called him into his office to do it.
 
 He put the boot down and went to the drawer and took out the old volume of the Log.
 
-It was full; there was no room in it for one word more. But every word that was in it was still in it, and he knew roughly where in its thick back half the inspection year began. He turned the pages under the lamp, past fights and figures and the names of rooms, and found the Fifth-day of the panel. *Renewal sat. Gault, Ash, Mire, three cards, found. Minute held for the delegation's officer.* And then he turned forward, a page at a time, counting the days between entries by the bells and the weekday names, until he found the other one. *Gault's office, called. Initialled the receipt. Minute sealed today, dated today. He said: now it's a thing.*
+It was full; there was no room in it for one word more. But every word that was in it was still there, and he knew roughly where in its thick back half the inspection year began. He turned the pages under the lamp, past fights and figures and the names of rooms, to the long entry for the evaluation day, the one that ended on its single word. Then he turned forward a page at a time, counting the days between entries by the bells and the weekday names, until he found two short lines he had nearly forgotten writing.
+
+*Gault's office. Initialled the registry's copy of the renewal, back from the delegation under seal, dated today. Up the road again in the noon bag.*
 
 Nine days.
 
-He went back to the table on the sill. The first renewal's row gave the day of the sitting, the panel's day, which was the day the house's own enrollment book carried in Bracken's small upright hand, because that was the day the house had seen it happen. The sealed minute itself, with its own date on its seal, had gone up the road to the registry's file and never come back down. The house had no copy of it. The registry did. And the only place on the continent where both days stood side by side was a book he had filled himself and put in a drawer.
+He went back to the table on the sill. Its first renewal's row gave one day, the day of the trestle, which was the day the house's own enrollment book carried in Bracken's small upright hand, because that was the day the house had seen it happen. The registry's file, wherever it sat, would carry the other day, the day its own copy was sealed. The house had never kept a copy of that one. It had gone back up the road the same afternoon. The only place on the continent where both days stood side by side was a book he had filled himself and shut in a drawer.
 
 He sat a long time with the two volumes open on his knees.
 
@@ -166,37 +170,43 @@ Karis was already at the long table. She did not look round when he came in. She
 
 "Show me."
 
-He opened the old Log on the table beside her elbow at the panel's day, and laid his finger beside the entry without touching it, and then turned forward to the other and did the same. She read both. She read them the way she read anything with a date in it, twice, once for the words and once for the numbers, and then she turned back to the first and read it a third time.
+He opened the old Log on the table beside her elbow at the evaluation day, and laid his finger beside its last word without touching it, and then turned forward to the two short lines and did the same. She read both, the way she read anything with a date in it, once for the words and once for the numbers.
 
-"Held for countersignature," she said. "I'd forgotten that was a thing they could ask for."
+"Under the delegation's countersignature," she said. "Their counsel asked for that?"
 
-"Gault hadn't. He wrote it on the foot of the minute."
+"In writing. Bracken objected in writing. She won."
 
-"Of course he did." She laid the renewals table down on the table, square, and looked at it as if it had been handed in by a student she had expected better of. Then she took the whole leaf out of the answer.
+Karis said nothing to that. She laid the renewals table down square, took the whole leaf out of the answer, and drew a clean sheet toward her.
 
-She did not footnote it. He had thought she would; a line at the foot of the table, a small number in the cell, a sentence somewhere saying the sealing fell nine days after the sitting for a stated reason. She took a clean sheet, ruled it fresh into the same grid, and built the table again from nothing. Every row this time gave two days, the sitting and the seal, and the first renewal's row gave the reason for the nine between them in eleven words. Under the grid she wrote the source for each day: the house's enrollment book for the sittings; the registry's own file, to be produced on request, for the seals; and for the gap, *the enrollee's contemporaneous record, available to the seat*.
+He watched her rule the grid again from nothing, column by column, and thought that a footnote would have cost her a minute. A small number in the cell, a line at the foot, and the nine days were explained. She was going to spend an hour instead. She had told the counsel the day before that she had no hours to spare that week.
 
-It took her an hour. She had told the counsel the day before that she had no hours to spare that week, and he watched her spend this one without once looking at the clock.
+"You're thinking a footnote," said Karis, without looking up.
 
-"You could have put it in a note," he said, when she ruled the last line.
+"I was."
 
-"I could." She blotted the new leaf. "Suppose I had. The procurator's clerk goes through the answer with a pen, which he will, and finds the nine days in the registry's file, which he will. And he files a single line. *The respondent's own table is inconsistent with the registry's record.* One line. He doesn't have to say anything else. After that, the seat reads every other leaf in this answer looking for the next mistake, and it doesn't matter that there isn't one." She laid the new table in its place in the pile and squared the pile's edge with both hands. "There is no such thing as a small error in a document about a person."
+She went on ruling. Every row this time gave two days, the trestle and the seal, and the first renewal's row gave the reason for the gap in a single line. Under the grid she wrote where each day could be found: the house's enrollment book for the trestle; the registry's own file, to be produced on request, for the seals; and for the gap, *the enrollee's contemporaneous record, available to the seat*. Then she reached across the table for the instrument, opened it at schedule two, and laid it beside the old table she had just taken out.
 
-He looked at the old leaf, lying on the table on its own, out of the answer. The pencil dot sat in its margin.
+"Read them together," she said. "The way he will."
 
-"You found it," he said. "The first morning."
+He read them together. Schedule two listed his file's standing entries by the registry's own dates, and the registry dated a renewal by its seal. Her old table dated it by the trestle. Two papers on one desk, about one afternoon, nine days apart.
 
-"I found that something was wrong with it." She did not pretend otherwise. "I didn't know what. The book had one day; the inspection's report gave the renewal a different one in a list at the back. I could have spent a morning in the inspection's papers finding out which was right." She turned a page of the directive's schedules, which was where she had been before he came in. "Or I could give the table to the only one of us who sat in both of those rooms, and not tell him why."
+"Now you're the seat," said Karis. "One of these two was drawn up by people who are careful. Which?"
 
-"Why not tell me?"
+He did not answer. He did not have to.
 
-"Because if I tell you there's a mistake on a leaf, you'll find one. You're good at that. You'd have found a mistake if I'd given you a clean leaf and said so." She did look at him then. "I wanted to know what you'd find if you were only reading. You were in the room, both times. Everybody else who was there is a name on a minute. Gault's a signature. The delegation's officer is a seal. You're the only witness in this answer who can't be replaced." She went back to the schedules. "Nothing I've built has ever come out worse for being read first by the person it's about."
+"There is no such thing as a small error in a document about a person." She blotted the new leaf and laid it in its place in the pile. "Nobody would have called it a lie. They'd only have called us careless, once, in one line. And after that, every leaf of ours the seat turned over, it would be turning over looking for the next one."
 
-He stood by the table with the old Log under his arm and the realization arriving the way the read arrived on a floor, from under, all at once. She had not been testing him. She had been using him, the way she used the code's third volume and Prynn's copy and the sheaf with no note on it. As a source. The best she had on one question, so she had gone to it.
+He looked at the old leaf, lying out of the answer on its own. The pencil dot sat in its margin.
 
-It was the most useful he had ever been to her. He found he did not mind the method in the least.
+"You saw it the first morning."
 
-And on the way down the stair he remembered the counter, and the four sentences Seln had spent on him in a queue on the third day of the year. *Standing papers on the provision come up for the ledger's half-year check. Keep the documentation current.* The renewals table was the provision's standing papers, set out in a grid. Whatever went down the hill this week would sit in the registry's file beside them when the half-year check came, and a table that disagreed with the file by nine days would have been the first thing the check found. Karis had not heard Seln say it. She had kept the documentation current anyway, because that was what she did with documents.
+"I saw that two papers disagreed. I couldn't see why." She did not pretend otherwise. "I could have spent a morning in the inspection's papers. Or I could hand the table to the one of us who was in Gault's office that afternoon, and not say what I was looking for." She did look at him then. "If I'd told you there was a mistake on it, you'd have found one. You'd have found one on a clean leaf. I wanted to see what you'd find if you were only reading. Gault is a signature now. The Archmarshal is a chair. You're the one witness who can't be replaced, and witnesses see more when they don't know what they're being asked."
+
+She went back to the schedules.
+
+He stood by the table with the old Log under his arm. She had not been testing him. She had used him, the way she used the code's third volume and Prynn's copy and the sheaf with no note on it: as the best source she had on one question. It was the most useful he had ever been to her, and he found he did not mind the method in the least.
+
+And on the way down the stair he remembered the counter, and the four sentences Seln had spent on him in a queue on the third day of the year. *Standing papers on the provision come up for the ledger's half-year check. Keep the documentation current.* The renewals table was the provision's standing papers, set out in a grid. Whatever went down the hill this week would sit in the registry's file beside the registry's own dates when the half-year check came, and a table that disagreed with them by nine days would have been the first thing the check found. Karis had not heard Seln say it. She had kept the documentation current anyway, because that was what she did with documents.
 
 ---
 
@@ -208,7 +218,7 @@ Walking back across the court, he noticed what it had cost.
 
 Not the burst, nor the exchange given away. Those were the band's ordinary prices, and he paid them every Fifth-day without looking at the bill. It was the hour. Up the library stair, Karis was spending a week of her life laying his name on a table one true day at a time, and he had spent this morning in front of three cards making sure the house's book held a slightly smaller version of him than the one she was writing down. The band had always been a daily expense. He had never before had to pay it in the same week as somebody else paid for the truth.
 
-He did not know what to do with that, so he wrote it in the Log, under the figure, and left it there.
+He had no column for that. He went in to supper without making one.
 
 Karis came down to supper that night for the first time in four days.
 
@@ -222,7 +232,7 @@ Nobody cheered. Lira put her elbows on the table and her chin on her fists and l
 
 "And the rest?"
 
-"Seven days." Karis picked up the spoon again. "Then Bracken. Then the scales."
+"Seven days." Karis picked up the spoon again. "Bracken inside them. And the scales."
 
 "The scales?"
 
