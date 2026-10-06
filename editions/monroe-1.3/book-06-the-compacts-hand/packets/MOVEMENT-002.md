@@ -4,7 +4,7 @@
 - Series id: fractured-path
 - Author: Opus (Claude Opus 5.5)
 - Chapters: 8–13 (6) · Budget: ~31,000 words
-- Owner names: canon names only (adds Jent, Havel, Prynn by reference). Unnamed: the counsel, the presiding seal, the assistant, the senior third-year (Iron R7, Force [B5-reconciled 2026-10-05: advanced at the year's last sitting; audit C7]), the river-academy Silver instructor [B5-reconciled 2026-10-05: rank number not repeated; audit C8], the side-door officer.
+- Owner names: canon names only (adds Jent, Havel, Prynn by reference). Unnamed: the counsel, the presiding seal, the assistant, the senior third-year (Iron R7, Force [B5-reconciled 2026-10-05: advanced at the year's last sitting; audit C7] [B5-reconciled 2026-10-06: Rank Seven is the higher rank on paper — Iron ranks rise from One (the foot of the seeding) toward Nine in the edition, B5 ch3:17, ch20:231, ch21:63; never gloss Rank One as the top of Iron; audit §F.5]), the river-academy Silver instructor [B5-reconciled 2026-10-05: rank number not repeated; audit C8], the side-door officer.
 
 **Read before drafting:** source `chapter-03.md` and `chapter-04.md`; the end of `chapter-02.md` for the join. Context: `BOOK_MAP.md` §§2, 4a, 4d, 6 (Havel), 7, 8; `STATE_LEDGER.md` (after M1).
 
@@ -32,7 +32,7 @@ Consequential turns:
 
 - Protected wording: "Make a note of the word *choosing*."; the parenthesis *(Karis read this entry over my shoulder…)*; Jent's "the best-documented enrollment I've reviewed in thirty years. Genuinely."
 - Jent stays small, competent and unhateable; no window into him. The seal has no name.
-- Havel's cutaway: he knows his five-entry note [PENDING B5 M9 — audit D11] and his orders; he learns **nothing**; he does not write a sixth entry yet.
+- Havel's cutaway: he knows his five-entry note (five sheets between the manuals, B5 ch58:47–51) [B5-reconciled 2026-10-06: audit §F D11] and his orders; he learns **nothing**; he does not write a sixth entry yet.
 - The watchers are placed ("waiting for a status change") — nothing more about who pays them.
 - Lira's Fenmark: as canon gives it. Use no number, or "four years, near enough" (BOOK_MAP §11 #10) [B5-reconciled 2026-10-05: replaces "five years"; B5 did not increment B4's "three years" for Lira; audit C9].
 - No falsification, no maker, no [UNBOUND].

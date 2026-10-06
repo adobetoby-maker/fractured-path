@@ -89,3 +89,80 @@
 - `OWNER-DECISIONS.md`: #42 already records the A1/B8 owner items; nothing further was needed from this seat. If the owner rules the series calendar, BM §2 and the `[OWNER-pending #42]` marks (BM 129, 142; SL 108; M5 32) are the places to revisit.
 - `book-05-the-silver-standard/STATE_LEDGER.md` has no "After Movement 9" block yet; M1's pointer names it conditionally.
 - The next fixed checkpoint is the §D re-run when B5 M9 closes (A11, A12's chapter number, A10's second return and Vastin's Norhold refusal, B-items that cite M9 texts, and all of §D).
+
+## Second pass — §F (2026-10-06)
+
+> Built by TAC (reconciliation-apply seat, second pass) — 2026-10-06
+> Applies `B5-RECONCILIATION-AUDIT.md` §F (the §D re-run against the closed Book 5 Movement 9) under OWNER-DECISIONS #42 and #43. Every change is marked inline `[B5-reconciled 2026-10-06: … audit §F …]`. Files edited: `BOOK_MAP.md`; `STATE_LEDGER.md`; `packets/MOVEMENT-001.md`, `002`, `003`, `004`, `007`, `008`; this file (appended). No Book 5 file, no `OWNER-DECISIONS.md`, no manuscript touched; no git command run. Line numbers are as of the end of this pass; the first pass's numbers (§1–§3 above) no longer apply. `BM` / `SL` / `M1`…`M9` as above.
+>
+> Method: each change matched on the old text §F quotes (line numbers had drifted); every match was unique. Protected wording (BOOK_MAP §8) is untouched: the first pole's "a stamp renewed four times" is verbatim; only the bracketed note beside it changed.
+>
+> Mark convention: the audit wrote `OWNER-pending #42` for the A11 count; OWNER-DECISIONS #43 now carries that item, so the plan's marks read `[OWNER-pending #43]`. All `[PENDING B5 M9 …]` annotations are gone (grep count 0).
+
+### F.1 §D items
+
+| Item | File:line | Result |
+|---|---|---|
+| D1 Norhold rates (drop PENDING; cite ch60:11–23) | BM:35; SL:67 | applied |
+| D2 Storm notice, flag, body (replaces the "B5 Ch21" pointer; adds closed/not-closed body state; "Gold is heavy.") | SL:18 | applied; BM:27 no change, as §F says |
+| D3 Vastin's hour: the lent room, verbatim warning, the Level 4 silence | BM:53, BM:55, BM:58; SL:33 | applied; SL:87 no change |
+| D4 costed rule, chapter ch59:103 / initials ch59:107; "directed, open-eyed" is B5's wording | BM:38, BM:41; SL:69 (two edits); M1:35 item 8 | applied. One addition beyond §F's text: M1:35 item 8 said "B5's shorthand"; changed to "B5's wording" so it does not contradict BM:38 and SL:69 |
+| D5 Seln's bench, manifest, true report | — | confirmed, no change (§F's optional note about the closing word is left for the author) |
+| D6 Brom's summons and the ninety days | SL:93; BM:148; M1:20 | applied (see Extra items) |
+| D7 watchers return on road day twelve | M1:13 | applied (one clause added) |
+| D8 Karis's two bundles | SL:51 | applied |
+| D9 Hesk's reply; Vell; the two volumes | SL:47 | applied |
+| D10 convening window | — | confirmed, no change |
+| D11 Ilsev's closed referral, private sheet, Havel's fifth | BM:58 (first return verbatim, second return); BM:59 (five loose sheets); BM:277 (PENDING to confirmed); M8:22 (PENDING to confirmed); M2:35 (five sheets); SL:100 (new open-thread bullet for Ilsev's sheet) | applied; SL:33 no change, as §F says |
+| D12 (A11 / C8) | see "A11 / D12" below | applied under the #43 default |
+| D13 Daeva | — | confirmed, no change |
+| D14 Ephram's plain version | — | confirmed, no change |
+| D15 Lira at the rail | — | confirmed, no change |
+| D16 Umber's ruling | — | confirmed, no change |
+| D17 Vastin's testimony; entry state | SL:24 | applied |
+| D18 closing lines | — | confirmed, no change |
+| D19 owner register | — | not a plan edit; OWNER-DECISIONS untouched |
+
+### A11 / D12 — "a stamp renewed four times" (#43 default)
+
+| Where | File:line | Result |
+|---|---|---|
+| Protected first pole | BM:579 | HELD verbatim, not edited. The old `[PENDING B5 M9 — audit A11/C8 …]` note beside it is replaced by `[OWNER-pending #43 …]` carrying the owner's options (a), (b), (c) and the audit's recommendation (b) |
+| Entry-state sentence | BM:22 | applied: "the stamp and its two renewals on paper (the twentieth of Reaping; the mill town …)", `[OWNER-pending #43]` |
+| Cael's knowledge | SL:30 | applied: "the stamp and its two renewals on paper", `[OWNER-pending #43]` |
+| M1 must-remain-true item 10 | M1:35 | applied: "two renewals on paper"; the protected entry keeps "four" verbatim; no interval sitting staged unless the owner chooses (c) |
+
+### Extra items §F found
+
+| Item | File:line | Result |
+|---|---|---|
+| Brom's ninety days | SL:93; BM:148; M1:20 | applied (D6 text): the summons is answered inside the ninety days by Bracken's docket, which convenes the panel on paper and lists the hearing for the year's last Fifth-day on the proceedings' docket; the tailboard line is recalled, not re-said; M8 still finds it, never signed |
+| Iron rank direction | BM:513 (ladder), BM:504 (vocabulary "Rank 1–9"), M2:7 | applied: Iron Rank One is the foot of the seeding and ranks rise toward Nine; Lira climbs by rating at an advancement evaluation, not rank by rank |
+
+### Minor notes
+
+| Item | File:line | Result |
+|---|---|---|
+| Withrow's eighteen years | BM:700 | applied (one clause; tenure stays unnumbered unless needed) |
+| Vastin's high room | M3:13, M3:38 | applied (the room in the Compact's house; "the western administration" only if the house is given that name once); M6:26 no change |
+| Fiske (C11) | — | held: Fiske does not occur in any B6 plan file, so there is nothing to change; B5 ch60:191 closed the thread; do not revive |
+| "After Movement 9 when it closes" conditionals | SL:4; M1:9; BM:761 | dropped; the pointers now name B5's "AFTER MOVEMENT 9 — … BOOK END STATE" (CLOSED 2026-10-06) |
+| BM header note | BM:11 | one sentence reworded: it said items marked PENDING B5 M9 wait for the book to close; it now says M9 closed and §F is applied, with #42/#43 as the owner-pending marks |
+
+### The four option choices
+
+| Item | File:line | Result |
+|---|---|---|
+| B3 reasoning note | this file | corrected here (below); no plan text carried the wrong reasoning, so no plan line changed. The default stands |
+| B9 "the summer qualification" | BM:351; M7:9; M7:23 | applied: on the page it is "the advancement evaluation" or "the sitting" (B5 ch20:231, ch21:63, ch60:145), never "qualification" |
+| C7 gloss | BM:174 | applied: Ephram stays Iron Rank Six and keeps the head of the Crown yard's Iron column, the results board, not a rank; a Rank Seven on paper does not move him off it |
+| B2 touch order | M4:23; BM:222 | applied: E1 the Silver R8's, E2 Lira's, E3 clean, E4 the R8's, ending it two to one on the fourth exchange. At BM:222 the earlier "the author sets which exchanges score" is marked superseded (a one-clause addition beyond §F's M4:23 text, so the two lines agree) |
+
+**B3 correction (supersedes §2 B3 and §5 item 1 above).** The first pass reasoned that B5's confluence "sits at the year's turn, in the deep cold, which would fall after the cache in B6's order". That is wrong. In B5 the confluence sat at d107–109, about five weeks before the cold term (d119), which is the first term's close in B6's shape, i.e. M5, not M6 (audit §F.3 item 1; B5 STATE_LEDGER:813). The gap to B6's M4 slot ("the first term's middle to late weeks") is a few weeks, not a season. So "the lighter, earlier card of a non-qualifying year" is a harmless default, not a necessity; the owner may instead keep the meet at B5's slot by letting it fall at the first term's close, and nothing else moves. The cross-tier host-exhibition filing for Lira's Silver bout is confirmed (#39 and B5's own practice).
+
+### Verification
+
+- `grep -c "PENDING B5 M9"` across `BOOK_MAP.md`, `STATE_LEDGER.md`, `packets/MOVEMENT-001.md`…`009.md`: **0**. No other "PENDING" marker remains.
+- Season and month words (spring, summer, autumn, fall, winter, midwinter, the twelve month names, case-insensitive, whole word): **0** true hits. The only raw matches are the modal verb "may" (11) and the pre-existing "Silver Season" heading, which is a tournament name, not a season. In-world "Reaping" and "Sowing" appear only as the tabled renewal date and the default birthday, as in the first pass.
+- Protected first pole at BM:579 matches exactly one line and is unedited.
+- Owner placeholders (Bede, Maud, Gwen, the Abbot) untouched.

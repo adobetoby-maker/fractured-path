@@ -10,7 +10,7 @@
 
 ## Where we enter
 
-The first term, middle weeks [B5-reconciled 2026-10-05: season word struck; audit A1]. The response is filed; the first session has sat; the presiding seat has no face. Vastin's courtesy copy is in the western administration's morning file.
+The first term, middle weeks [B5-reconciled 2026-10-05: season word struck; audit A1]. The response is filed; the first session has sat; the presiding seat has no face. Vastin's courtesy copy is in the morning file of his high room in the Compact's house (B5 ch5:9, ch29:215, ch50:115; "the western administration" only if B5's house is given that name once) [B5-reconciled 2026-10-06: audit §F.4].
 
 ## What this movement is for
 
@@ -35,7 +35,7 @@ Consequential turns:
 
 ## What the author owns
 
-How long Vastin's window runs before the denial; the clerk's single non-work sentence; the order of the cost-landing beats; the visitors' bout partner; Seln's and Cael's conversation (or silence) on the circuit; the texture of the wool exchange's brass grid; how the Hesk letter is read (walking, then aloud).
+How long Vastin's window runs before the denial; the room is his — nineteen years his at Norhold, no count needed in B6: the paved court, the porter and the pigeons, the cabinet of shallow drawers, the crooked seal-press, the three trays in / held / done; the left hand that dislikes mornings and now evenings (B5 ch5:9, ch50:115, ch58:241) [B5-reconciled 2026-10-06: audit §F.4]; the clerk's single non-work sentence; the order of the cost-landing beats; the visitors' bout partner; Seln's and Cael's conversation (or silence) on the circuit; the texture of the wool exchange's brass grid; how the Hesk letter is read (walking, then aloud).
 
 ## Where we leave pressure
 

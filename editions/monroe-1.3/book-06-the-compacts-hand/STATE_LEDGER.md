@@ -1,7 +1,7 @@
 # STATE LEDGER — Book 6: The Compact's Hand (Monroe 1.3 edition)
 
 Entry state for the book, from canon (`universe/STATE_LEDGER.md`, the series bible) and the source
-edition (Book 5 Ch23–24; Book 6 Ch1) [B5-reconciled 2026-10-05: for the entry state the edition's Book 5 governs: `book-05-the-silver-standard/manuscript/chapter-54.md`–`chapter-60.md` and the coordinator rulings in its STATE_LEDGER under "After Movement 8" (and "After Movement 9" when it closes); the source Ch23–24 are events-only reference; the overruled source facts are listed in `packets/MOVEMENT-001.md`; audit A2]. Append one section per movement after it is drafted, from the
+edition (Book 5 Ch23–24; Book 6 Ch1) [B5-reconciled 2026-10-05: for the entry state the edition's Book 5 governs: `book-05-the-silver-standard/manuscript/chapter-54.md`–`chapter-60.md` and the coordinator rulings in its STATE_LEDGER under "AFTER MOVEMENT 9 — … BOOK END STATE" (closed 2026-10-06; "After Movement 8" for the earlier rulings) [B5-reconciled 2026-10-06: conditional dropped; audit §F closing note]; the source Ch23–24 are events-only reference; the overruled source facts are listed in `packets/MOVEMENT-001.md`; audit A2]. Append one section per movement after it is drafted, from the
 surviving prose (not from the plan). Where prose and plan differ, record the prose and note the
 difference. Binding end state and calendar: `BOOK_MAP.md` §§1–2.
 
@@ -15,22 +15,22 @@ Calendar: about two months after the seventeen-day road home from Norhold (Book 
 
 | Who | State |
 |---|---|
-| Cael | **Seventeen** (B5 on-page birthday). Healthy. The left side wrapped after the Daeva match healed on the road home. Storm-adjacent still resettling — its stability flag (B5 Ch21) has stood about eleven weeks and clears in M1 (the dawn run on the second floor). Shadow-adjacent: rent from waking, unused [B5-reconciled 2026-10-05: B4/B5's word is "rent"; audit C3]. |
+| Cael | **Seventeen** (B5 on-page birthday). Healthy. The left side wrapped after the Daeva match healed on the road home. Storm-adjacent still resettling — its stability flag (the notice's "Stability: provisional — architecture under load.", B5 ch56; "The flag stands." every road night, ch60:139) has stood about eleven weeks and clears in M1 (the dawn run on the second floor). Closed in the interval: the left side strapped shoulder to hip (yellow by the tenth road day), the right forearm burn (a week), the hip's three bills and the right shoulder's fifth push (B5 ch57:181, ch60:11–19). Not yet closed at entry: the suite shifting toward the new weight — "Came when called, twice of three" (ch60:139); the healers said a month, Cael's reckoning more — M1's dawn run is the morning it finishes. If Cael's words are quoted: "Gold is heavy." (ch60:23), never the source's "Gold architecture is heavy" [B5-reconciled 2026-10-06: replaces the source pointer "B5 Ch21"; audit §F D2]. Shadow-adjacent: rent from waking, unused [B5-reconciled 2026-10-05: B4/B5's word is "rent"; audit C3]. |
 | Lira | Wind, Iron R1 formal. Fit. The LEFT burst-shoulder healed at Norhold (the wrap came off for the team trial; at most the habit of carrying the left arm close survives); wrists untaped [B5-reconciled 2026-10-05: replaces "under heat-wrap since Norhold"; B5 M6/M7/M8, ch35, ch45; audit A4]. Training Rooke's Silver drills at dawn. |
 | Brom | Iron Skin, Copper formal. Sound. Carries the plaque (dark wood, a brass plate, the bar-and-ring) in his kit, under the Velmere letters, not on his collar [B5-reconciled 2026-10-05: replaces "the continental Copper plaque's ribbon"; the only ribbon in canon is Gault's fourth-place ribbon (B5 ch39:11, ch52:13); audit C4]. |
 | Karis | Ember, Iron R3. Right hand's ignition margin healed from earlier instances (she logs them; the next will be the fourth). |
 | Seln | Shadow, Bronze. Middle-aged, mild, unhurried; the assessment wing's teaching assistant at the copying table behind the counter [B5-reconciled 2026-10-05: replaces "the assessment office's clerk"; B4 ch48, B5 ch14; audit A5]. |
 | Ephram | Blade, Iron Rank Six, cohort captain. Sound. [B5-reconciled 2026-10-05: rank added; audit C1] |
-| Vastin | Archmarshal, Iron Wall, Silver. No stated age (OWNER #17). Forty years in the Compact's evaluation service [B5-reconciled 2026-10-05: replaces "About fifty-two … Thirty years"; B5 ch24:255; audit A6]. |
+| Vastin | Archmarshal, Iron Wall, Silver. No stated age (OWNER #17). Forty years in the Compact's evaluation service [B5-reconciled 2026-10-05: replaces "About fifty-two … Thirty years"; B5 ch24:255; audit A6]. At entry: gave the warning off the record (B5 ch58); testified in person at the convening against pre-decision (B5 §10 item 58, ch60:113–117 — "They thanked him. His evidence went into the minute. Nobody replied to it.") and was set aside; still formally the Compact's instrument; declined the Level 4 question ("I won't answer that one", ch58:213) [B5-reconciled 2026-10-06: audit §F D17]. |
 
 ### Knowledge
 
 **Cael knows:** the Path system and the registry as his time since his Kindling has taught him [B5-reconciled 2026-10-05: replaces "four years"; OWNER #9, #18; audit A9] (Kindling, Arbiter,
 tiers and ranks, declarations, the Registry, district access); the assay clause and the
-demonstration provision and why it holds him (Greyvane; four panel renewals [PENDING B5 M9 — audit A11/C8: the edition counts at most three renewals on paper (the twentieth of Reaping; the mill town; Norhold if B5 M9 stages the optional session); held, unchanged]; Gault evaluator of
+demonstration provision and why it holds him (Greyvane; the stamp and its two renewals on paper — the twentieth of Reaping and the mill town; no sitting sat at Norhold (B5 M9 ruling) [B5-reconciled 2026-10-06: replaces "four panel renewals"; audit §F A11] [OWNER-pending #43]; Gault evaluator of
 record); the tournament's referral (*unscorable under standard*; "no number goes here"); Vastin's
 off-record warning at Norhold, word for word; that a "formal session" was coming after the cycle
-(Vastin), not its outcome; that the Level 4 designation exists on his file and that nobody at any height can trace its authorizing office (the B4 hearing; Vastin's declining the question at Norhold [PENDING B5 M9 — audit D3]) — the returns' wording is not known to the circle until Ilsev reads it into the record in M8 [B5-reconciled 2026-10-05: replaces "the Level 4 designation's two returns"; audit A10]; the [UNBOUND] marginal note (B2) as read, understood as far as its one factual clause (the older word meant unbound), voiced once at Halcenvane (B4 ch50) and closed as a question [B5-reconciled 2026-10-05: replaces "a copied phrase without meaning"; audit B5]; the watchers' habits and grades since Greyvane [B5-reconciled 2026-10-05: replaces "for four years"; audit A9]. He has never heard of Havel's private note (Havel is a records officer he has seen at the records table) [B5-reconciled 2026-10-05: replaces "that Havel keeps a private note (never seen)"; audit A10].
+(Vastin), not its outcome; that the Level 4 designation exists on his file and that nobody at any height can trace its authorizing office (the B4 hearing; Vastin's declining the question at Norhold ("I won't answer that one", B5 ch58:213) [B5-reconciled 2026-10-06: audit §F D3]) — the returns' wording is not known to the circle until Ilsev reads it into the record in M8 [B5-reconciled 2026-10-05: replaces "the Level 4 designation's two returns"; audit A10]; the [UNBOUND] marginal note (B2) as read, understood as far as its one factual clause (the older word meant unbound), voiced once at Halcenvane (B4 ch50) and closed as a question [B5-reconciled 2026-10-05: replaces "a copied phrase without meaning"; audit B5]; the watchers' habits and grades since Greyvane [B5-reconciled 2026-10-05: replaces "for four years"; audit A9]. He has never heard of Havel's private note (Havel is a records officer he has seen at the records table) [B5-reconciled 2026-10-05: replaces "that Havel keeps a private note (never seen)"; audit A10].
 
 **Cael does not know:** the convening's outcome; anything about falsification; the cache's contents
 (he knows the case exists and has never been opened in front of anyone); what the Level 4 flag is;
@@ -44,13 +44,11 @@ designation he cannot trace; nothing more.
 
 ### Resources
 
-- The Power Log in Hesk's volume (the current book); the observation notebook (Halcenvane section,
-  two years; eleven Paths charted from the Crown yard's east tier); letters behind the volume's
-  front cover (Hesk; Vell). Hesk's satchel does **not** exist yet (eighteenth-birthday gift, M5).
+- The Power Log in Hesk's volume (the current book since B5 T26: the year's ledger, the six guesses, the B4 minute and the costed rule are in it); the old volume, full — its last line written on the last ferry (B5 ch60:191) — carrying Hesk's reply (verbatim ch60:163) and the other letters behind its front board (ch60:165); the observation notebook (Halcenvane section, two years; eleven Paths charted from the Crown yard's east tier). Cael's T26 letters to Hesk and Vell went by Bracken's pouch (ch60:39–49); no reply from Vell is on B5's page [B5-reconciled 2026-10-06: audit §F D9]. Hesk's satchel does **not** exist yet (eighteenth-birthday gift, M5).
 - Karis: research standing renewed; the academy's first budget line for an enrollee's research; a
   locked room — the named top-floor reading room, *Reading room. Assigned: K. Dellenmoor.*, which the "annex" grows from — with her name on the card [B5-reconciled 2026-10-05: replaces "locked annex (north room)"; B5 ch26:5; audit C6]; a second-year assistant; the founding-era
   compilations in three languages of copy; the tournament charter's provisions section unopened since
-  the road ("A note for the cold term." [B5-reconciled 2026-10-05: replaces the source's season-named line; B5 wording; audit A1]); her compiled materials since Greyvane [B5-reconciled 2026-10-05: replaces "of four years"; audit A9] (they will rope into
+  the road ("A note for the cold term." [B5-reconciled 2026-10-05: replaces the source's season-named line; B5 wording; audit A1]); her compiled materials since Greyvane [B5-reconciled 2026-10-05: replaces "of four years"; audit A9] and the year's papers from Norhold — 206 sheets in two tied bundles with contents leaves, "Nine of them matter" (B5 ch60:177–179) [B5-reconciled 2026-10-06: audit §F D8] (they will rope into
   **three boxes**); the copied Greyvane passage and the [UNBOUND] note in her front matter (read, voiced once and closed in B4 ch50 [B5-reconciled 2026-10-05: audit B5]).
 - Seln: the locked case (a maker's stamp inside the lid; no mark outside; weight not restated, since the response filing already weighs eleven pounds four ounces), carried to Norhold and back unopened — B4 ch48 set it on the shelf behind the wing's counter, and the author says in one clause where it sits now [B5-reconciled 2026-10-05: replaces "eleven pounds … on a shelf in his staff quarters"; audit C5]; the small key on his person.
 - Brom: the plaque; the district summons; the Norhold one-line letter (ten words; B5 ch39:67) and another Velmere letter in the same pocket [B5-reconciled 2026-10-05: the one-line letter IS the Norhold letter; never counted by series ordinal; audit B11].
@@ -66,9 +64,9 @@ designation he cannot trace; nothing more.
   in M1).
 - **One anomaly**: session nine (B2, at fifteen), Tide-adjacent; uncounted; *Still open. Still real.
   Patience.*
-- The public suite (everything but Shadow) is on the record at the Norhold rates (Wind past six; the push at fighting load; Reydan's give; Ember past two contacts; the read to depth [PENDING B5 M9 — audit D1]); banking was spent at Norhold. Inside
+- The public suite (everything but Shadow) is on the record at the Norhold rates (Wind past six; the push at fighting load; Reydan's give; Ember past two contacts; the read at its depth; Shadow refused in the last corner — B5 ch60:11–23, M9 ruling [B5-reconciled 2026-10-06: audit §F D1]); banking was spent at Norhold. Inside
   Halcenvane's wing three (the assessment wing's third hall; B5's rooms are the Crown yard's sprung oak, the second floor's boards and the long room [B5-reconciled 2026-10-05: audit C2]) he fights at the **managed band**: the Halcenvane exhibition rate, below the Norhold record, scattered by the variance program so that it breathes and never settles into a line [B5-reconciled 2026-10-05: replaces "a consistent rate that never rises and never breaks"; B5 broke the flat band for good; OWNER #42; audit A3].
-- The covenant: B4's signed minute (edition B4 ch23, three numbered rules: conditions not manufactured; a directed acquisition only inside earnest engagement the other party begins; the full cost written beforehand) — *directed, open-eyed, or not at all* is B5's shorthand, never B4's wording — and, since Norhold, *costed* (B5 M9's amendment, initialled by the four [PENDING B5 M9 — edition chapter TBD; audit A12]) [B5-reconciled 2026-10-05: replaces "B4 Ch9" and "B5 Ch23"; audit A12].
+- The covenant: B4's signed minute (edition B4 ch23, three numbered rules: conditions not manufactured; a directed acquisition only inside earnest engagement the other party begins; the full cost written beforehand) — *directed, open-eyed, or not at all* is B5's wording (ch59:103), never B4's wording — and, since Norhold, *costed* (B5 ch59:103, initialled by the four at ch59:107 [B5-reconciled 2026-10-06: audit §F D4]) [B5-reconciled 2026-10-05: replaces "B4 Ch9" and "B5 Ch23"; audit A12].
 - No tier. Functional standing: beyond any single-Path Iron; Gold-tier match survived.
 
 ### Relationships
@@ -92,7 +90,7 @@ designation he cannot trace; nothing more.
 ### Open threads at entry
 
 - The convening's answer (arrives M1).
-- Brom's advancement review (docketed M1; found M8; never signed).
+- Brom's advancement review: the summons (collected on B5 road day nine — "A panel, in that building, before ninety days are out", B5 ch60:145) is answered inside the ninety days by the docket Bracken walks up in M1, which convenes the panel on paper and lists the hearing for the year's last Fifth-day, joined to the Halcenvane proceedings' docket (one line, Bracken's; BM §3 item 3 "the review and the ruling on the same docket day"); found M8; never signed. "It isn't a promotion. It's a hearing about whether I get offered one." was said on the tailboard (ch60:149) and is recalled, not re-said [B5-reconciled 2026-10-06: audit §F D6].
 - The Velmere letters (two more arrive in this book; the second stays unopened).
 - Lira's Silver bracket ("Next cycle").
 - Karis's "older strata" (paid M6).
@@ -100,6 +98,7 @@ designation he cannot trace; nothing more.
 - Seln's case (opened M6).
 - Vastin (moment M6; refusals M6–M8; unannotated M9).
 - Daeva's rematch; Reydan's "find me later" — one log line each at the close.
+- Ilsev's private sheet (stationer's paper, her girlhood hand, in her coat — B5 ch58:35; Havel saw only the paper's kind): carried unknowing; M8's Ilsev window can touch it in one line or leave it. [B5-reconciled 2026-10-06: audit §F D11]
 - Carried untouched: Hesk's full history; the market stranger; the Iron Skin watcher; Coss's grade;
   Vell's offered archive session; the Tide anomaly.
 
