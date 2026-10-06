@@ -435,6 +435,6 @@ Everything from paragraph seven on is kept in substance.
 - ch2 Seln speaks four sentences in the queue (the narrator's count fixed); Seln's line "Standing papers on the provision come up for the ledger's half-year check" (ch2:157) is a plant M2+ must honour.
 - ch3 the district hall is crowded in the first weeks and empty in the last (not "cold").
 - ch6 the counsel reads the one sentence that alleges no fraud at all (the fraud count fixed); the night's rewind is marked.
-- ch7 the seal was pressed by "somebody a week's road from here" (the registry seat is NOT at the foot of the bluff).
+- ch7 the instrument was sealed and issued by "somebody a week's road from here", elsewhere, and sent to the registry seat at Ostrand for proceedings; Ostrand itself is at the foot of the bluff (BOOK_MAP §1; the counsel comes up by chaise the same evening).
 - Small seams: Ephram looks at the cheese; Lira takes one of Brom's apples; Brom lays down his spoon; Karis's cup; Karis's you/him across the protected sentence; ch7 items 47–50 re-composed off the source.
 Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page.
