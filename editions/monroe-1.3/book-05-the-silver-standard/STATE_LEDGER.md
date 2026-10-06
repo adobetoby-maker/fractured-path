@@ -838,7 +838,7 @@ Bracket formats as now on the page:
 
 **Movement 4 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — two applied (ch23 the doubled 'walked his circle' line varied; ch22 'in three bouts' — Cael saw none of the builder's day-one bouts). Any author end-state line above saying Gault lost 'the bout for third' is SUPERSEDED: Gault was fourth on the figures (#40). Overlap 0/7, gates 0, probe 0%/5%.
 
-## AFTER MOVEMENT 5 — chapters 27–32 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 5 — chapters 27–32 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CONTINENTAL FORMAT (#39, canon as stated once on the page): bracket bouts score points per exchange across up to five exchanges; an exchange closes at the bell or when either fighter reaches THREE points; a bout stops early when the trailing fighter can no longer draw level; level after five → the figures decide. (The Lira–Zerin 0–3, 2–1, 1–2, 1–3 = 4–9 ends after four; a four-exchange finish needs a margin over three.) Calls are two numbers ('Two to one. Two to three on the bout'). Norhold has no individual third-place bouts (#40).
@@ -1027,3 +1027,4 @@ Standings after T4: Lira, Karis and Ephram in the Iron round of sixteen (separat
   - Stewards have cleared seat twelve three times.
 - **Havel:** the seating order sits in the observation office's folder in his kit beside the notebook (four entries; the fourth on the bluff with the three-line rule-break). His right thumb-web aches in the evenings.
 
+**Movement 5 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch31 'He put it in the observation notebook' → 'Cael', the pronoun now lands after Brom's paragraph; ch32 'defend it' → 'defend seat twelve' across the scene break; ch32 Ephram's E5 reordered so the coast Blade's one point falls before Ephram's closing third; ch31 Halcenvane 'at the other end' → 'well down the line from it', the eleventh of fourteen). SUPERSEDED in the author end-state above, the manuscript and the rulings block govern: the hill house *below*; the Compact row with 'two clerks'; Havel's 'right thumb-web aches'; Havel 'writes nothing' with the seating order in his folder. Overlap 0/10, gates 0, probe 1%/5%.

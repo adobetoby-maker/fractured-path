@@ -146,7 +146,7 @@ The coast Blade stood on his chalk afterward and looked down at his own feet, li
 
 Ephram did not look back at her. He was walking his circle in his own corner, as Rooke had taught them all on the slate, and counting under his breath.
 
-In the fifth the coast Blade tried to shorten his stride, and could not; it was in his legs from his childhood. Ephram took three more. The coast Blade took one, a fine touch high on the shoulder that Ephram did not mind in the least.
+In the fifth the coast Blade tried to shorten his stride, and could not; it was in his legs from his childhood. He took one, a fine touch high on the shoulder that Ephram did not mind in the least. Ephram took three more.
 
 Nine to five.
 
@@ -322,7 +322,7 @@ He did not take it out. Nothing had happened yet.
 
 ---
 
-Cael saw a steward defend it that same evening.
+Cael saw a steward defend seat twelve that same evening.
 
 He had climbed the east stair to the public gallery to look at the Compact's row close to, after four days of charting it from below. The crowd in the public gallery next to the row was thick, and a stout man with a broadside and a meat pie had pushed along the end of the public bench until he was at the rail-cloth with the registry's grey sigil on it, and beyond it, a single empty chair.
 

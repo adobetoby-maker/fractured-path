@@ -196,7 +196,7 @@ He had been saving his eyes for a week.
 
 He had turned his back on her in the street on purpose so that this would be the first look, and he had known since the orientation what the geometry of the morning would give him.
 
-Auremont's block drew up at the far end of the line, where the north side curved toward the east tower. Halcenvane's stood at the other end. Between them lay a hundred yards of polished stone, and no part of the ceremony would bring them any closer.
+Auremont's block drew up at the far end of the line, where the north side curved toward the east tower. Halcenvane's stood well down the line from it. Between them lay a hundred yards of polished stone, and no part of the ceremony would bring them any closer.
 
 So he read her at a hundred yards. He gave it everything he had, the read and the compound gaze together, the way he would have read the last exchange of the hardest bout of his life.
 
@@ -240,7 +240,7 @@ Beside Cael, Lira let out a breath she seemed to have been holding since the tun
 
 Nobody in the block answered her. Brom shifted his weight, once, from one foot to the other, and was still.
 
-He put it in the observation notebook that evening, and then into the Log, the same words in both. It wanted a page of its own.
+Cael put it in the observation notebook that evening, and then into the Log, the same words in both. It wanted a page of its own.
 
 *Daeva, at a hundred yards. The read asks every body four things: where's the weight, where's it going, what happens just before, and who's it for. She answered the first two like any good fighter.*
 
