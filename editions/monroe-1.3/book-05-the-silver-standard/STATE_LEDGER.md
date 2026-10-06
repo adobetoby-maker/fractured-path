@@ -1030,7 +1030,7 @@ Standings after T4: Lira, Karis and Ephram in the Iron round of sixteen (separat
 **Movement 5 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch31 'He put it in the observation notebook' → 'Cael', the pronoun now lands after Brom's paragraph; ch32 'defend it' → 'defend seat twelve' across the scene break; ch32 Ephram's E5 reordered so the coast Blade's one point falls before Ephram's closing third; ch31 Halcenvane 'at the other end' → 'well down the line from it', the eleventh of fourteen). SUPERSEDED in the author end-state above, the manuscript and the rulings block govern: the hill house *below*; the Compact row with 'two clerks'; Havel's 'right thumb-web aches'; Havel 'writes nothing' with the seating order in his folder. Overlap 0/10, gates 0, probe 1%/5%.
 
 
-## AFTER MOVEMENT 6 — chapters 33–39 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 6 — chapters 33–39 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - CALENDAR (OWNER-DECISIONS #41 default; BOOK_MAP §6 [M6-redated]): the west tower defers the exhibition ring by a notice on T5; the Copper final clears the main floor T9 morning; the ring is raised the night of T10, complete at dawn T11. Rooke's "four days … seven" is dead and is not restated. M7 onward: Shield captain T11; duelist and Vastin's seat T14 (chair held thirteen days — Seln's "nine" becomes "thirteen"); rest day/birthday T15; team trial T16; filing T19; convening T20; third place T21; finals T24; closing T26.
@@ -1176,3 +1176,5 @@ The individual brackets are spent:
 - **Karis's notebook:** *Unknown.* across the four columns. The bill and the finding are verbatim in ch39; the finding is in my words around the packet sentence.
 - **The lattice-breaker:** Auremont's third Iron entry, a heavy, patient Force fighter. He bows, "which nobody from Auremont did."
 - **The ring night:** the crews draw the plugs and set posts with a level and wedges. A woman oils each plug; Cael remembers the steward's grandmother.
+
+**Movement 6 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch39 'hers to choose' → 'for Karis to choose'; ch37 E2 contacts count → 'every contact of the second exchange'; ch37 the broadsheet's score row spelled for the ear, 'nought to three, two to one, one to two, one to three'; ch37 'the five below him' → 'the five'). Where the author end-state above predates r1 (eight contacts, 'a week ago', Brom's rank, pencil), the manuscript and rulings govern. Overlap 0/17, gates 0, probe 1%/7%.

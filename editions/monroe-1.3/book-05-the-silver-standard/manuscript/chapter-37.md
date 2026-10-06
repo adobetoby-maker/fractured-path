@@ -4,7 +4,7 @@ The broadside came up the stair with the bread in the morning, and Ephram read i
 
 The Iron semifinal had the front column.
 
-Somebody had set the four exchanges across the top in large figures, *0–3 · 2–1 · 1–2 · 1–3*, and drawn a heavy black ring round the second pair, like a feast day in an almanac. Underneath, a writer who signed himself only with a printer's mark had spent most of a column on the second exchange, and a good deal of it was wrong about what had happened, and all of it was right about what it had meant.
+Somebody had set the four exchanges across the top in large figures, *nought to three, two to one, one to two, one to three*, and drawn a heavy black ring round the second pair, like a feast day in an almanac. Underneath, a writer who signed himself only with a printer's mark had spent most of a column on the second exchange, and a good deal of it was wrong about what had happened, and all of it was right about what it had meant.
 
 Ephram saved the last line for the end, and read it slowly.
 
@@ -158,7 +158,7 @@ From the tiers it looked as though Brom had simply outscored him. A big man had 
 
 "He has to," said Karis. "His book says they're the fight. It doesn't say what to do when the fight sends you a bill."
 
-Brom walked his slow circle in the interval. He held his forearms a little away from his body as he walked, and Cael could guess why. He had taken six contacts on them in the second exchange as well, and every one had been a strike he had chosen to take so that he could charge for it, and the bruising that redirect work always left behind would be going deep now, under the skin, into the muscle.
+Brom walked his slow circle in the interval. He held his forearms a little away from his body as he walked, and Cael could guess why. He had taken every contact of the second exchange on them as well, and each had been a strike he had chosen to take so that he could charge for it, and the bruising that redirect work always left behind would be going deep now, under the skin, into the muscle.
 
 He did not look at the rail. He looked at Marek.
 
@@ -248,7 +248,7 @@ He did not think of it as a trick, though he supposed the tiers might. A trick w
 
 Umber had spent his life in the service of a mark that rated what was demonstrated. Not what was meant, or felt, or hoped for, or claimed. What a body did on a floor in front of five judges. He had heard young officials call that a cold rule. It had never seemed cold to him. It seemed to him the only rule under which a man like the big one down there could be paid in full for a thing like this, built over an hour, in silence, with his own arms.
 
-The five below him would rate it as it was. Umber did not doubt that for a moment. He had struck a judge from the lists on the eve of the opening for a quarter of a point of kindness, and the five below him knew it.
+The five below him would rate it as it was. Umber did not doubt that for a moment. He had struck a judge from the lists on the eve of the opening for a quarter of a point of kindness, and the five knew it.
 
 The bell went for the fourth exchange.
 
