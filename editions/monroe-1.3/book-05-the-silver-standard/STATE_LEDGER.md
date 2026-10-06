@@ -1392,7 +1392,7 @@ Lira on T16: one burst in E1 ("Early.").
 **Movement 7 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — five applied (ch45 'it would hold her' given its noun; ch43 'the Archmarshal' after 'said Vastin's name'; ch46 ¶122's closing clause re-composed off the source's 'outside its tables … stop and read'; ch46 the 'better squad' sentence and ch45 the criers' price-list re-ordered off the source's beats). Seln's stem added to protected-patterns so the #41 line is not re-flagged at the book sweep. Where the author end-state above predates r1, the manuscript and the rulings govern. Overlap 0/19, gates 0, probe 2%/9%.
 
 
-## AFTER MOVEMENT 8 — chapters 47–53 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 8 — chapters 47–53 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-05 after Fable recheck r1)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - Calendar per #41: T17–T18 the empty board; T19 filing (match line painted *filed; acceptance pending*); T20 convening (*Accepted.*); T21 third place, ring rebuilt at midnight; T22 the ring two days out; T23 the eve and the minute; T24 finals day (M9).
@@ -1576,3 +1576,5 @@ Lira on T16: one burst in E1 ("Early.").
   - Seln's grey offcuts and sealing-wax knife;
   - the slip squared between the credential renewal and the protocol;
   - the ash already broken.
+
+**Movement 8 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — twelve applied (six required: ch47 a stray quote from the tag trim; ch52 Lira on T21 'Three days from now'; ch52 'You can't climb it,' she said restored; ch53 'said Lira' after Karis's pen; ch53 the eve's form sentence re-composed off the source; ch51 'one of the colour-guard at either side' — a guard of two; six optional: source-order reorders in ch49 and ch51, and ch52 'each mast grounded twice' to agree with ch50 and the ring canon). Remaining close band (~12%) judged common-word noise by the recheck after reading; six to eight sub-probe runs reduced by the optional fixes. Overlap 0/27, gates 0, probe 2%/12%.

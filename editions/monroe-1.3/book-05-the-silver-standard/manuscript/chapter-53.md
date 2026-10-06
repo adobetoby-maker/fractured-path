@@ -68,7 +68,7 @@ Karis wrote it in her smallest hand on the sheet pinned at eye height, under ten
 
 Most of the door was about Auremont. Auremont let nobody copy a bout of the girl's and never had. The Storm Path kept its workings sealed with the registry, as a potter keeps the recipe for a glaze. Every shop's file Karis had bought on her in three weeks had been ceremonies with adjectives. What the four of them actually had was the trial, from four places on one floor, and a walk round an empty ring.
 
-The night before had a form now, and this was the third time they had kept it. The first time nobody had known it was a form. The second had been at Halcenvane before Gault's oak, when everybody at the long table had given him a piece of the next day in place of a present. Tonight it was the back room, with the shutter shut and paper folded under the table's short leg. Ephram had knocked once, early, with a covered dish in each hand and the cider jug in the crook of his arm, and had not tried to come in. He had passed it all across to Brom at the door, and said, "Eat. Whatever else you do in there," and gone off down the stair whistling the lock-keeper's song badly on purpose.
+They had kept this night twice before, and by now it had a form. The first time nobody had known it was a form. The second had been at Halcenvane before Gault's oak, when everybody at the long table had given him a piece of the next day in place of a present. Tonight it was the back room, with the shutter shut and paper folded under the table's short leg. Ephram had knocked once, early, with a covered dish in each hand and the cider jug in the crook of his arm, and had not tried to come in. He had passed it all across to Brom at the door, and said, "Eat. Whatever else you do in there," and gone off down the stair whistling the lock-keeper's song badly on purpose.
 
 The first model was a pipe.
 
@@ -92,7 +92,7 @@ The second model was a river. The lane was a fast thin current laid along a line
 
 Karis put the pen down.
 
-"Nothing moved. Not a hair on my arm. A river going that fast, I'd have felt it from the gallery."
+"Nothing moved," said Lira. "Not a hair on my arm. A river going that fast, I'd have felt it from the gallery."
 
 The river went face down on the pipe, and its line went on the door, and Karis stood at the empty wall with her pink palms pressed together under her chin for so long that Brom gave up and sat down on the floor.
 

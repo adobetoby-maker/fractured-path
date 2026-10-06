@@ -58,7 +58,7 @@ She dropped onto the step above his, knees up, shoulders to the plaster. She had
 
 For a while she said nothing at all, which was not like her, and he waited, which was.
 
-"I've been trying to work out how to say this all night," she said at last, "and Karis says I should say it the short way, and Brom says I should say it the short way and then stand there till you nod." She turned the cup in her hands. "You've been the one holding us up all sitting. Every call on every floor. Every read. Going about with a whole locked trunk inside you and never once letting anybody see you lift the lid." She looked at him. "Day after tomorrow you're out there by yourself, and we're the ones at the rail. So here it is. Whatever happens in that ring, you come back to this table."
+"I've been trying to work out how to say this all night," she said at last, "and Karis says I should say it the short way, and Brom says I should say it the short way and then stand there till you nod." She turned the cup in her hands. "You've been the one holding us up all sitting. Every call on every floor. Every read. Going about with a whole locked trunk inside you and never once letting anybody see you lift the lid." She looked at him. "Three days from now you're out there by yourself, and we're the ones at the rail. So here it is. Whatever happens in that ring, you come back to this table."
 
 "That's it?"
 
@@ -170,7 +170,7 @@ She arrived. "Fifty-one and a half. North to south."
 
 The barrier was well over his head and smooth to the top, where the cap ran round like a handrail. She laid her palm flat on it, and a few feet on he did the same, and both of them took their hands away.
 
-"You can't climb it."
+"You can't climb it," she said.
 
 "You can run along it."
 
@@ -230,7 +230,7 @@ At the west mast she put two fingers on the cable where it went down past the ba
 
 "What are they rated to?" said Cael.
 
-She told him. She did not stop to think about whether she should. She gave it to him in the masts' own terms, flatly, as if reading from the foreman's folded sheet: each head rated to take her full discharge at her assessed ceiling four times over before it ran hot, each cable grounded twice, and the margin on top of that the facilities office always added, which was half again. Then she gave him the figure the sheet arrived at, the one that was her, in a single number. He said it back to her once, to be sure he had it. She nodded. He did not write it down. He would not need to.
+She told him. She did not stop to think about whether she should. She gave it to him in the masts' own terms, flatly, as if reading from the foreman's folded sheet: each head rated to take her full discharge at her assessed ceiling four times over before it ran hot, each mast grounded twice, and the margin on top of that the facilities office always added, which was half again. Then she gave him the figure the sheet arrived at, the one that was her, in a single number. He said it back to her once, to be sure he had it. She nodded. He did not write it down. He would not need to.
 
 She took her fingers off the cable. "Every hall orders a set. Everywhere I go. Half the gallery comes in under them and looks up and thinks, that's in case she gets it wrong." She looked up at the iron crown on the mast's head. "So any mistake of mine stops being mine. It's a civic event. You learn not to have them. I haven't had one in four years."
 

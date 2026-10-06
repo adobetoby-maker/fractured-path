@@ -132,7 +132,7 @@ At the very bottom of the page, in the oldest ink, was the first line, and it wa
 
 She had understood early what the registry felt about her, and it was not fear. There were things that came out of the sorting that frightened it, and it shut them away. She was the other sort, the rare coin rather than the bad one: the kind a collector loves, because it is worth a great deal and fits the tray he already owns.
 
-She had been Auremont's since twelve, a year before the garden. The house had seen something in a set of entrance papers and sent for her, and kept her near, and waited for the rest. Afterwards nothing in her life had been left to happen by itself. Whole classes were assembled round her and broken up again when she grew past them. Stations opened early so that an evaluator could see her before the day began. Floors were relaid to her measure. Other people spoke of climbing; she had never once had to look for the next rung. It was always there, put down where her foot would go, by people who were very good at their work.
+She had been Auremont's since twelve, a year before the garden. The house had seen something in a set of entrance papers and sent for her, and kept her near, and waited for the rest. Afterwards nothing in her life had been left to happen by itself. Floors were relaid to her measure. An evaluator who wanted a look at her had his station opened before the day began, and came, and looked. Whole classes were assembled round her and broken up again when she grew past them. Other people spoke of climbing; she had never once had to look for the next rung. It was always there, put down where her foot would go, by people who were very good at their work.
 
 At Auremont the day of the garden court was a half-holiday now. There was a demonstration in the afternoon.
 
@@ -154,7 +154,7 @@ Seven days after that bout the design staff had sat down with the record of it, 
 
 She kept it because it was the only honest record of what had been done to her. She had written one line about it in the marbled notebook, the year she turned seventeen. *The exercise worked. That was the trouble.*
 
-It had been four years. Since then her bouts had come in kinds she could name before the flags went up. There were the brave Silvers, who lost. There were the old Golds, who lost carefully, with their dignity held up in front of them like a shield. There were the program's measurements, and the tournament's processions. She shook every one of them by the hand afterward and thanked them. That had been taught to her too, along with everything else.
+It had been four years. Since then her bouts had come in kinds she could name before the flags went up. There were the program's measurements, and the tournament's processions. There were the old Golds, who lost carefully, with their dignity held up in front of them like a shield, and the brave Silvers, who simply lost. She shook every one of them by the hand afterward and thanked them. That had been taught to her too, along with everything else.
 
 ---
 

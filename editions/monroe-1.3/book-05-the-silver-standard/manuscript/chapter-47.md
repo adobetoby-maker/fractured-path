@@ -146,7 +146,7 @@ Two wharfmen and a woman from the fish market were arguing at the counter. They 
 
 "It's his own fault for being good," said one of the wharfmen. "Nobody wants to be the man he beats."
 
-The other shook his head. "Nobody wants to be the man he doesn't beat, either. "Look at the Silvers. They lost and they're heroes. Who files to be the third hero? It's the same bout twice."
+The other shook his head. "Nobody wants to be the man he doesn't beat, either. Look at the Silvers. They lost and they're heroes. Who files to be the third hero? It's the same bout twice."
 
 The fishwife had been gutting a fish while they talked, and she finished it and laid it down on the paper, which neither wharfman thought much of.
 

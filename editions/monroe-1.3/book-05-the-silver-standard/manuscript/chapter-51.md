@@ -48,11 +48,11 @@ Rooke kept the brief short, because everything worth saying was already on the s
 
 He gave them Rhagen's book first, in the warm-up room under the north tiers, before he gave them anything else.
 
-"Their whole doctrine, in one line, as they'd say it themselves. Five-as-one-argument. Every fighter's a clause. The captain's guard is the grammar that holds them in a sentence." He looked round at them. "You've each had one clause already. Brom's had Marek, all four exchanges. Cael's had the captain. Today you get the whole sentence at once."
+"I've read their book twice, and I'd sign it. It's the best-made thing on this floor all week. Their whole doctrine, in one line, as they'd say it themselves. Five-as-one-argument. Every fighter's a clause. The captain's guard is the grammar that holds them in a sentence." He looked round at them. "You've each had one clause already. Brom's had Marek, all four exchanges. Cael's had the captain. Today you get the whole sentence at once."
 
 Karis nodded slowly, as if the line were a document she would want later.
 
-"It's the best-made thing on this floor all week," said Rooke. "I've read their book twice. I'd sign it." He looked at the five of them, taped and waiting, with their year written all over them. "So go and argue with it."
+He looked at the five of them, taped and waiting, with their year written all over them. "So go and argue with it."
 
 And he very nearly smiled.
 
@@ -74,7 +74,7 @@ Ephram was kneeling at the gate taping Brom's wrists. He glanced up at the tiers
 
 There was no pride in it. He said it the way he would have read a weather glass. Then he bit off the tape and stood and went out to the west gate in front of all of them, slate under his arm, because he was the caller.
 
-Withrow had come down to the front rail. She had not sat there for a single bracket bout of the sitting; she had watched those from the upper gallery, among the other chancellors. Today she sat at the rail itself, with her closed files on her knee and her hands folded on them, and Rooke stood at her shoulder holding a coaching sheet with nothing written on it.
+Rooke went down to the front rail with a coaching sheet that had nothing written on it, and found Withrow already there. She had watched every bracket bout of the sitting from the upper gallery, among the other chancellors, and had not once come down. Today she sat at the rail itself, with her closed files on her knee and her hands folded on them, and he stood at her shoulder.
 
 The first exchange belonged to Rhagen, and Cael watched it happen with something very near admiration.
 
@@ -222,7 +222,7 @@ It was a small delegation in grey from somewhere inland, six people, and they st
 
 Cael had to look at the floor for a while after that.
 
-The standings were the oldest thing at the sitting, Bracken had said at supper, older than the brackets, and almost entirely made of paper. Every house that had fought formed up on the floor at the eighth bell in the order of its count, lowest first. A west-tower clerk on a box read each one out. A validation officer in Compact grey sat at a small table under a lamp with a second copy of the sheets, and initialled every line as he finished it, and he did not go on until she had. At the north end of the floor stood the Silver Standard, furled on its staff and bound with a strap, with two of the colour-guard on either side. It would not be unbound before the closing.
+The standings were the oldest thing at the sitting, Bracken had said at supper, older than the brackets, and almost entirely made of paper. Every house that had fought formed up on the floor at the eighth bell in the order of its count, lowest first. A west-tower clerk on a box read each one out. A validation officer in Compact grey sat at a small table under a lamp with a second copy of the sheets, and initialled every line as he finished it, and he did not go on until she had. At the north end of the floor stood the Silver Standard, furled on its staff and bound with a strap, with one of the colour-guard at either side. It would not be unbound before the closing.
 
 Halcenvane was twelfth to be read. Eleven houses heard their sittings first.
 
