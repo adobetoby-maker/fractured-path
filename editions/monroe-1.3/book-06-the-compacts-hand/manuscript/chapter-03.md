@@ -32,17 +32,17 @@ He was carrying it himself, and Bracken did not carry forms. He had clerks for f
 
 He stopped at the middle table across from Brom, and laid the sheet on the board between the plates, and turned it so that Brom could read it the right way up. Then he put one finger on a line near the top, and took the finger away, and waited.
 
-Brom put down his spoon.
-
 Cael read it upside down. He could not help that; he had been reading things upside down across tables since Denvash.
 
 *Ostrand district registry. Review for advancement of tier, mandatory upon a continental title. Brom, enrolled at Halcenvane; Path, Iron Skin; tier, Copper formal. A standard panel is convened by this docket. Sitting: the last Fifth-day of the academic year, at the district seat. The panel will read the practitioner's record as it stands.*
 
-"Three assessors and a sigil frame, in a room at the district seat about the size of our long room," said Bracken. He said it to Brom, in the voice he kept for reading a fee aloud. "The summons they handed you on the road gave the district ninety days to convene a panel. This sheet convenes it. On paper, as of this morning, well inside the ninety. The house wrote in the recess and asked that the sitting itself be listed at the end of the year, so that you'd go before the frame with a year's work behind you and not a recess's idleness. The district said yes." He paused. "Districts say yes to that sort of letter. They like a champion to look well in their own building."
+Brom read the sheet without picking it up, with his spoon still in his hand, and Bracken let him finish before he said anything at all.
 
-Brom read the sheet. He read it as he read anything that cost him, once and all the way down, without moving his lips.
+"They'll put three assessors and a sigil frame in a room at the district seat about the size of our long room," said Bracken then, in the voice he kept for reading out a fee. "The district had ninety days from the day it handed you that summons to convene them. This convenes them, on paper, as of this morning, with weeks in hand. The sitting itself we asked them to put at the year's end. Rooke wanted a year of your figures on the table before anybody in a grey coat looked at them, and the district hall is cold in the first weeks and empty in the last, and an empty hall suits a panel that has already made up its mind." He paused. "They agreed. Districts like a champion to look well in their own building."
 
-"Seven times in thirteen years a sheet like this has come across my counter," said Bracken. "Seven times the panel found for the tier the title was won at. They have no other road. Your name is cut on a staff in the middle of the continent where any carter can read it, and a district office that read you lower than that staff would be arguing with Norhold in public, which no district office has ever had the stomach for." He looked straight at Brom then, which he did not do often, with anybody. "You'll hear a certain word said about this all year, in corridors, by people who think you can't hear them. I'd sooner you heard it from me first, at a table, to your face. It is a formality. You'll go into that room Copper and come out of it Iron. Your family's ledger closes."
+He looked straight at Brom then, which he did not often do, with anybody.
+
+"There's a word you'll hear about this all year," he said. "In corridors. Behind doors. Said by people who think it's a kindness to keep it from you. I'd sooner you had it from me, across a table, now. Seven of these dockets have crossed my counter in thirteen years, and seven times the panel found for the tier the title was won at. Your name is cut on a staff in the middle of the continent where any carter can read it, and no district office alive would care to be caught reading you lower than that staff. It is a formality. You'll go into that room Copper and come out of it Iron. Your family's ledger closes."
 
 There was a little silence at that end of the table. At the next table along, somebody dropped a spoon.
 
@@ -82,7 +82,7 @@ On the fifth morning the wing signed his hours, and he went to wing three to fig
 
 Until this year the provision's supervised hours had been signed in the east and north halls. But over the recess Rooke's program had taken the east hall for its own, and the assessment wing had moved all of the provision's bouts into a hall of its own to make room, the third of its three. Everybody called it wing three. It was a long plain room behind Gault's office, with whitewashed walls and old pine boards and a row of east windows high up, so that in the mornings the light came in over the heads of the people at the trestle and lay along the floor in bars.
 
-Gault sat at the trestle in the middle of the north side with his case beside him on the bench. It was the case with the handle, the one he carried his instruments in, and he had set it down very straight, as he always did, as if it might have opinions about the bench. On his right sat the Ash instructor with her book held against her chest. On his left sat the Mire instructor, a square calm woman with a pencil behind each ear. Each of the three had a card in front of them, ruled into three columns: execution, control, effect. The desk clerk from the counter sat at the end of the trestle with the wing's book open, to write the figure down when there was one.
+Gault sat at the trestle in the middle of the north side with his case beside him on the bench. It was the case with the handle, the one he carried his instruments in, and he had set it down very straight, as he always did, as if it might have opinions about the bench. On his right sat the Ash instructor with her book held against her chest. On his left sat the Mire instructor, a square calm woman with a pencil behind each ear. Each of the three had a card in front of them, ruled into three columns, execution, control and effect, and the wing added the three cards with no strike, which was the house's own way and not the tournaments'. The desk clerk from the counter sat at the end of the trestle with the wing's book open, to write the figure down when there was one.
 
 At the east end of the room, at the rail under the windows, stood Ephram.
 
@@ -100,7 +100,7 @@ He came across the boards and held out his hand, and Cael shook it.
 
 The Shield thought about that, and grinned, and went to his chalk.
 
-Cael went to his own, at the south end, and took Hesk's book out of his coat before he set his feet. The page was already written. He had written it the night before, under the lamp, as he had written one before every bout since the mill town. It was the rotation, the list he had built by a stove a year ago after Seln told him across a counter that his figures were too tidy. Scatter, built on purpose and costed in advance. Every bout got one line from the list, never the same line twice running, in an order nobody with a pencil could find.
+Cael went to his own, at the south end, and took Hesk's book out of his coat before he set his feet. The page was already written. He had written it the night before, under the lamp, as he had written one before every bout since the mill town. It was the rotation, the list he had built by a stove a year ago after Seln told him across a document table in the mill-town hall that his figures were too tidy. Scatter, built on purpose and costed in advance. Every bout got one line from the list, never the same line twice running, in an order nobody with a pencil could find.
 
 He read today's line once more.
 
@@ -108,7 +108,7 @@ He read today's line once more.
 
 He put the book away.
 
-Then he took his place inside the rate. That was how he thought of it now, since Norhold: a room inside the room. The house had a record of him, and the record held what it held. On sprung oak, six bursts free, which on these boards meant five, and never the fifth. Karis's spark to two contacts in a bout and no more. Reydan's give kept shut, so that a blow which landed on his forearm went on up the arm into the shoulder, as it would in any honest Iron. The push no more than a flat hand. And the rest of it, the lane and the weight behind it, not anywhere at all.
+Then he took his place inside the rate. That was how he thought of it now, since Norhold: a room inside the room. The house had a record of him, and the record held what it held. On sprung oak the house had seen six bursts in a bout; on these boards that meant four, and never a fifth. Karis's spark to two contacts in a bout and no more. Reydan's give kept shut, so that a blow which landed on his forearm went on up the arm into the shoulder, as it would in any honest Iron. The push no more than a flat hand. And the rest of it, the lane and the weight behind it, not anywhere at all.
 
 At Norhold the whole continent had seen him spend past every one of those lines, on a scored floor, with three scribes writing it down faster than any clerk could, and it was in the record now and would stay there for as long as there was a record. A rate you have shown is a rate you have shown. But a fighter did not fight every Fifth-day at the rate he had once spent for a title, and here, on the bluff, in front of three cards and a clerk, he fought at the house's rate and inside it.
 

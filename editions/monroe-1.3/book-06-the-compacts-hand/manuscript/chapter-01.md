@@ -4,7 +4,7 @@ The house had filled again by dark, and Cael could hear every room of it from hi
 
 For two months the bluff had been nearly his. There had been the porters and the kitchen and the fire-watch boy, and Bracken in the records hall with his door open, and the four of them and a handful of others who had nowhere better to be. Now the wagons had been coming up the road since noon. Doors banged along the residence front. Somebody below was singing the same three lines of a song over and over, getting the third line wrong each time. The fountain in the court ran on under all of it, as steady as ever, but it was no longer the loudest thing on the hill.
 
-He had Hesk's book open on the sill and Hesk's steel pen in his hand. Hesk's travelling clock sat at his elbow, an hour fast, as it had been since the day it came out of its pine case. He had never set it right. It was easier to subtract an hour than to explain to Hesk why he had changed it.
+He had Hesk's book open on the sill and Hesk's steel pen in his hand. Hesk had raised him in an instrument-maker's workshop at the far end of the country, and had bound the book for him with his own hands, and it held the Log now, the record where Cael set down each fact with its price beside it. Hesk's travelling clock sat at his elbow, losing time in its usual direction, a little more of the hour every day. In the tournament weeks he had set it an hour fast on purpose so that it would be right by accident, and on finals morning he had put it back himself. Since the road it had gone on losing at its own pace. He told the hour by the fountain and the bell, and kept the clock for the minutes, which it counted honestly whatever it thought of the hours.
 
 The old volume was in the drawer, full. He had written its last line on the last ferry, and there was no room in it for one word more. Everything went into Hesk's book now.
 
@@ -22,7 +22,7 @@ He ruled a margin and wrote the interval shut.
 
 *Seln: at the copying table every working day of the recess, and at the middle of the bench every evening. Nobody has said a word about the bench. Nobody needs to.*
 
-*Ephram: cohort captain from tomorrow. He has spent the recess learning the names of every first-year on the intake list, in order, so that he can pretend not to know them.*
+*Ephram: captain again from tomorrow, of the whole cohort this time. He has spent the recess learning the names of every first-year on the intake list, in order, so that he can pretend not to know them.*
 
 He stopped there and looked down into the court for a while. A first-year was dragging a trunk across the flags on its corner, too proud to ask for help. Then he went on.
 
@@ -30,7 +30,7 @@ He stopped there and looked down into the court for a while. A first-year was dr
 
 *Vastin said there would be a sitting after the houses went home. The houses went home two months ago. Nothing has come up the road. I don't know whether that's good news or slow news.*
 
-*What I carry, at the year's open: seven, and the one I don't count. Daeva's storm still has its flag on it. Nine of ten, this last week, the Wind came when I called and nothing else came instead. Nine isn't ten.*
+*What I carry, at the year's open: seven confirmed, the seventh Daeva's storm, and the quiet thing from the stair among them, sealed. Under all seven, the still place I don't count. The storm still has its flag on it. Nine of ten, this last week, the Wind came when I called and nothing else came instead. Nine isn't ten.*
 
 *Seventeen. Enrolled on a lawful basis. Third on the continent, with an entry no instrument could finish. Open the year.*
 
@@ -86,7 +86,7 @@ That left the last. Daeva's storm.
 
 He had carried it eleven weeks.
 
-It had come to him in the fourth exchange of the hardest bout of his life, in front of eight thousand people, out of the hands of a Gold who had begun the fight herself, and who had looked at him afterward on the stone as if he had asked her a question nobody had ever asked her before. The notice that came after it was the first that had ever said *Gold*. It was also the first that had ever warned him that what it gave him might not hold. *Stability: provisional — architecture under load.* He had read those words in a healers' corridor with his left side strapped from shoulder to hip, and he had felt them every day since.
+It had come to him in the fourth exchange of the hardest bout of his life, in front of eight thousand people, out of the hands of a Gold who had begun the fight herself, and who had looked at him afterward on the stone as if he had asked her a question nobody had ever asked her before. The notice that came after it was the first that had ever said *Gold*. It was also the first that had ever warned him that what it gave him might not hold. *Stability: provisional — architecture under load.* The notice had found him on one knee on the stone, with a healer's fingers in his hand and eight thousand people looking down, and he had read it through twice there, before anybody strapped him. He had felt its words every day since.
 
 Gold was heavy. Everything else he carried had been shifting to make room for it, slowly, the way the furniture in a house shifts when somebody carries a great iron chest in through the front door. For weeks after Norhold he had reached for the Wind and got something else. Some mornings it was the push, and his whole body shoved at nothing. Once, on the road, it was the read, and he had stood in a waystation yard knowing the exact weight of the water butt and going nowhere. The healers had said a month. His own count had said more, and his own count had been right.
 
@@ -102,7 +102,7 @@ He stepped into the downhill of it, and the floor came to him faster than his fe
 
 Fifteen feet. Then the end of the lane, like the end of a moving walkway at a fair, and he was his own weight again and stopping. Behind him the air let go, and his ears closed and opened once more.
 
-He stood still and waited for the pull.
+He stood still and waited for the pull. He stood a long while, longer than he knew; he was not counting.
 
 This was the moment it always came. After the lane, every other thing he carried had pulled toward the place the lane had been, like iron filings toward a lodestone, and for a minute or two nothing answered true. He waited for it. He waited for the coat to catch on the nail.
 
@@ -116,7 +116,7 @@ He called the read, kneeling. Clean. He gave the post one push, flat, just to he
 
 He stood there a little longer and did what he always did after a run, which was to lay what he had done beside what the record said he could do, the way a clerk lays the day's takings beside the ledger.
 
-The record was a public thing now, and it was large. Before Norhold the registry had held five of his seven, and only three of those had ever been shown on a scored floor, at rates the house had chosen for him: six bursts on the oak, two contacts of the spark, a read that looked like good timing, and a push that never went past a flat hand. Norhold had changed that for good. On finals day nine judges and three scribes had written down the Wind past six, and the push at a fighting load, and Reydan's give taking a Gold's fire, and the spark past its two contacts, and something none of their columns had a name for. Every one of those was on paper now in the tournament's own hand, and paper did not forget. But the house did not fight on finals day. On the bluff, in front of the wing's panels, he still fought at the rate the house had always shown, and a little under it, and never over it, and he scattered the figures inside that room so that they would breathe like an honest fighter's. Lira called it the band. It was the oldest daily expense he had.
+The record was a public thing now, and it was large. Before Norhold he had carried six, and the registry had held five of them; the quiet thing was on no paper anywhere, and the storm did not yet exist. Only three of the five had ever been shown on a scored floor, at rates the house had chosen for him: six bursts on the oak, two contacts of the spark, a read that looked like good timing, and a push that never went past a flat hand. Norhold had changed that for good. On finals day nine judges and three scribes had written down the Wind past six, and the push at a fighting load, and Reydan's give taking a Gold's fire, and the spark past its two contacts, and something none of their columns had a name for. Every one of those was on paper now in the tournament's own hand, and paper did not forget. But the house did not fight on finals day. On the bluff, in front of the wing's panels, he still fought at the rate the house had always shown, and a little under it, and never over it, and he scattered the figures inside that room so that they would breathe like an honest fighter's. He called it the band, and so did Lira. It was the oldest daily expense he had.
 
 What he had just done on this floor was what the band was for hiding.
 
@@ -172,13 +172,11 @@ The great hall of the lecture range held the whole house at once, and by the sec
 
 He sat where he had sat for two years, fourth row, north side, with the pillar at his shoulder. From there he could see the whole faculty bench and only half of the platform, and half of the platform was all anybody needed. He counted the hall as it filled. It was the first thing a room would tell you without being asked.
 
-The intake was larger this year. It sat in its block near the back, very upright, and it did what intakes always did, which was to watch the older years come in and try to learn from the way they walked which of the distances between them mattered and which were only habit. But this intake had a second thing to watch, and it watched that harder.
+The intake had been given the back rows, as intakes always were, and it was bigger this year than any he had seen. Every new house on the bluff studied the old one for its rules before it dared to break any. This one had come up the road with a question of its own, and he could tell what the question was by where the heads went.
 
-It watched the delegation.
+They went to him first. He had come in alone before the bell and taken his pillar, and he had felt them find him one after another, like a hand laid on the back of his neck. Then Karis came through the far door with her grey notebook already open, and a scatter of heads moved after her, the few who had paid to read transcripts. When Brom sat down at the row's far end, a bench of Stone first-years leaned forward together, as if a weight had been set on the bench in front of them. And Lira came last, late from the east hall with her hair still wet, and half the intake turned in its seats to watch her walk the length of the room.
 
-Lira came in with her hair wet and her collar dark from the east hall, and he saw forty heads turn to follow her down the aisle. Brom came in with a heel of bread in each hand, and a different forty turned for him. Karis came in as the bell finished, on the minute, with her grey notebook already open, and a few heads turned for her too: the ones who read transcripts. He had arrived early and alone, and the intake had been watching him since the door. He could feel it on the back of his neck like sun.
-
-Ephram came down the row behind and dropped into the seat at Cael's back. He was carrying the captain's file now, thick and new and tied with green tape, and he carried it the way a man carries a saddle he has not yet paid for, a little too carefully.
+Ephram came down the row behind and dropped into the seat at Cael's back. He was carrying the captain's file for the new year, thick and tied with green tape, and he carried it the way a man carries a saddle he has not yet paid for, a little too carefully.
 
 "There's paperwork about you," he said. "Did you know?"
 
@@ -194,21 +192,21 @@ Ephram came down the row behind and dropped into the seat at Cael's back. He was
 
 "I know. I'm counting on them not knowing." Ephram found the page he wanted and smoothed it down. "Captaincy is mostly that. Knowing what people don't know, and letting it take them a week."
 
-Lira dropped into the seat on Cael's left and took one of Brom's heels of bread without being offered it. Brom sat beyond her and did not seem to notice the loss. Karis took the end of the row and wrote the date at the head of a clean page.
+Lira dropped into the seat on Cael's left, and Brom passed a heel of bread along the row to her without looking, which she took without thanks. Karis took the end of the row and wrote the date at the head of a clean page.
 
-Withrow walked out onto the platform with one sheet of paper, and did not look at it.
+Withrow came out onto the platform with her hands empty.
 
-She did the house's ordinary business first. She did it in about the time it takes to tie a pair of boots, and nobody remembered most of it afterward. Rooms. Hours. A new instructor for the Current cohort. A wall on the north side to be pointed, and the north side to keep away from it. Then, in the same voice and at the same speed, she said that Coach Rooke's Silver-bracket program, which had run through the recess on the house's credit, was from this morning a standing track of the academy, chartered, with its own floor and its own line in the accounts.
+The house's ordinary business took her about as long as it takes to tie a pair of boots, and nobody remembered most of it afterward: rooms, hours, a new instructor for the Current cohort, a wall on the north side that wanted pointing and was to be kept away from until it had been. Then, in the same voice and at the same speed, she read out the year's appointments, and the third of them was a floor. Coach Rooke's Silver-bracket program, which the house had carried through the recess on credit, had its own charter from this morning, its own hall and its own line in the accounts.
 
-The hall made a noise. It was not loud at first, and then it was. It came up from the intake's block and the third-years' benches at once, and somebody near the back stamped, and then a great many people were stamping.
+The third-years' benches understood it first, and the noise began there and spread backward into the intake's block before most of the intake knew what it was cheering. Somebody near the back stamped. Then a great many people were stamping.
 
-Withrow stood and let it run.
+Withrow waited.
 
-Cael watched her do it. In two years he had never once seen her wait for applause. He had seen her stop it, more than once, with a look or a lifted page. This morning she stood with her hands on the lectern and waited, as if the noise were a cart that had to finish crossing a bridge before she could go on. When it had crossed, she went on.
+Cael had seen her stop a hall's noise with one lifted page. He had never once, in two years, seen her stand behind a lectern and let one go on. She did it now with both hands resting on the wood, as a carter waits at a bridge for a herd to finish crossing, and when the last of it had crossed she went on as if there had been no interruption at all.
 
 He looked along the row. Lira was looking at her own hands, very hard.
 
-"We went to Norhold," said Withrow, "and came home third, and you have all heard me say so, and you will not hear me say it again." She let a breath go by. "Here is the year instead. It is quieter work and it is harder work. Third is a figure now, written down in other people's books, and a figure in other people's books is a thing other people may try to rub out. We keep it the way we earned it. We are exactly what our papers say we are, every day, in front of whoever is looking." Her eyes went nowhere in particular, which with Withrow was always somewhere. "I am told the looking has not stopped. Good. Let it look. The research standings post on the covered walk this morning. The program's floor hours post at noon. Go to your assignments."
+"We went to Norhold," said Withrow, "and came home third, and you have all heard me say so, and you will not hear me say it again." She let a breath go by. "Here is the year instead. It is quieter work and it is harder work. Third is a figure now, written down in other people's books, and a figure in other people's books is a thing other people may try to rub out. There is one way to keep it, and it is the plain way. Say what you are. Be it. Leave it where anyone can check." Her eyes went nowhere in particular, which with Withrow was always somewhere. "Somebody will be checking. Somebody always is, now. Good. The research standings post on the covered walk this morning. The program's floor hours post at noon. Go to your assignments."
 
 The hall broke up into its hundred smaller noises, and went out of both doors at once.
 
@@ -232,7 +230,7 @@ Cael stayed where he was a little longer and watched the platform empty.
 
 Rooke had stopped Withrow at the foot of the steps. He was saying something short to her, and she was answering shorter. Gault was writing on the back of his hand, which meant he had lost his pencil again. And Bracken was not at the faculty bench at all.
 
-He was at the east end of the hall, by the tall windows, alone, standing with his hands clasped behind his back and his head turned a little to one side, the way a man stands in a doorway at night when he thinks he has heard a step on the stair and is waiting to hear it again. From those windows, Cael knew, you could see the bluff road as it came up out of the trees on its last two switchbacks. You could see a rider on it a full minute before the gate could.
+He was at the east end of the hall, by the tall windows, alone, standing with his hands clasped behind his back and his head turned a little to one side, the way a man stands in a doorway at night when he thinks he has heard a step on the stair and is waiting to hear it again. The east windows looked down the bluff road as far as the bend above the trees, and anybody who showed at that bend still had two switchbacks to climb before the lodge-man heard a hoof.
 
 There was nobody on the road. Cael could see that much from here, through the glass, over the heads of the last people going out. The road lay pale and empty in the early heat, and the dust on it had not been raised since the last of the wagons.
 

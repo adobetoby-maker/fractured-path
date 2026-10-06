@@ -10,7 +10,7 @@ She came back down wiping the dust off her hands.
 
 "Which thing first," said Brom, "or writing first?"
 
-"Which thing. She was very clear." Lira sat on the bottom step of the gallery stair to tape her wrists. "She says writing first is how you end up with a very neat page about the wrong bone."
+"Which thing. She was very clear." Lira sat on the bottom step of the gallery stair to tape her wrists. "She says writing first is how you end up with a very neat page about the wrong bone." She tore a strip with her teeth. "And before you ask, I asked. Rooke lent me the floor after the tenth bell, any night I want it. He said he didn't want to know what for."
 
 They had not done this since the road. On the road there had been no floor, and in the recess there had been the flag, and for eleven weeks nobody had wanted to see what the suite would do when it reached for one thing and got another. Lira had raised it at supper, on the evening of the fifth day, with her elbows on the table and her voice low. *It's settled. You wrote it settled. So show us.* Brom had said nothing, which from Brom was agreement, and Karis had said she would come if it were any other night of the week, and it was not.
 
@@ -66,9 +66,9 @@ He sat down on a white cross with his hand on his hip.
 
 "Bill?" said Lira, squatting in front of him.
 
-"Hip, crest to knee, the usual road. The eighth went into the thigh. The ninth, if there was a ninth, went somewhere I'm going to find out about at the first bell." He pressed the place with his thumb. "I went past six at Norhold, in front of the whole city. That cost me less than this did tonight."
+"Hip, crest to knee, the usual road. The eighth went into the thigh. The ninth, if there was a ninth, went somewhere I'm going to find out about at the first bell." He pressed the place with his thumb. "I went past six at Norhold, in front of the whole city. That cost me about what this did, and I was fighting a Gold who wanted me to last."
 
-"That was one bout." Lira wrote on the back of her hand with a stub of pencil. "This was nine. And you weren't fighting a Gold who wanted you to last, you were fighting me." She looked at what she had written. "I made you spend."
+"That was one bout." Lira wrote on the back of her hand with a stub of pencil. "This was nine. And tonight you weren't fighting somebody who wanted you to last. You were fighting me." She looked at what she had written. "I made you spend."
 
 "You made me spend."
 
@@ -196,7 +196,17 @@ Lira had turned round, and Brom had turned round, and they were both looking at 
 
 "What did that cost?" said Lira.
 
-He told her exactly: behind the eyes, ten counts of everything slow, gone at eleven. She wrote it on her hand under the shoulder and the hip, small, because she was running out of hand.
+He told her exactly: behind the eyes, ten counts of everything slow, gone at eleven. She wrote it on her hand under the shoulder and the hip, small, because she was running out of hand. Then she stopped writing and looked up at him.
+
+"You wrote it settled," she said. "The flag. You wrote nothing pulls."
+
+"Nothing does." He had been turning it over himself since the count ran out. "Pull was the wrong thing answering. The push when I called the Wind, the read when I wanted my feet. That's gone. This is the right thing answering late." He thought back to the second floor in the dark, and the long while he had stood waiting for a pull that never came before he called anything at all. "At dawn I stood still after the lane until I was sure. I must have stood through the whole ten without counting them. Tonight was the first time I reached for anything inside them."
+
+Lira looked at her palm. "So the flag's down, and this is the bill."
+
+"The flag's down. This is the bill."
+
+She wrote *bill, not flag* under the ten counts, and underlined it.
 
 "Ten counts," said Brom, "in a real bout."
 
@@ -206,7 +216,7 @@ He told her exactly: behind the eyes, ten counts of everything slow, gone at ele
 
 Cael sat on a painted cross and thought about the notice.
 
-He had it by heart. Every notice he had ever had he knew by heart, because he had read each of them in a corridor or on a stair with nothing else to look at, and the one from Norhold most of all. *Note: pressure-differential component; corridor-seeding component. Short range.* At the time it had read like a clerk's description of somebody else's coat. Tonight he thought he could put his hand on each line of it. The lane was the corridor; he seeded it, and it grew where he put it, and stayed while he left it alone. The tilt of the air, the ears, the dust running downhill, that was the pressure. Short range was fifteen feet. And the notice had said nothing at all about the read going into the air and leaving the body behind, or about ten counts of everything slow. Notices never told you what a thing cost. They only told you what it was. The cost you found out on a floor, with friends, if you were lucky, and in front of eight thousand people if you were not.
+He had it by heart. Every notice he had ever had he knew by heart, because each of them had found him somewhere with nothing else to look at, a yard, a stair, a shut room, and the one from Norhold on one knee on a stone floor, with a healer holding his hand. *Note: pressure-differential component; corridor-seeding component. Short range.* At the time it had read like a clerk's description of somebody else's coat. Tonight he thought he could put his hand on each line of it. The lane was the corridor; he seeded it, and it grew where he put it, and stayed while he left it alone. The tilt of the air, the ears, the dust running downhill, that was the pressure. Short range was fifteen feet. And the notice had said nothing at all about the read going into the air and leaving the body behind, or about ten counts of everything slow. Notices never told you what a thing cost. They only told you what it was. The cost you found out on a floor, with friends, if you were lucky, and in front of eight thousand people if you were not.
 
 They sat down on the floor afterward among the white crosses, the three of them, with the jug of water going round and the lanterns burning low. Lira lay on her back with her taped hands on her stomach and her eyes shut. Brom sat with his legs out in front of him, unwinding his wraps slowly, a turn at a time, rolling each length up as he went.
 

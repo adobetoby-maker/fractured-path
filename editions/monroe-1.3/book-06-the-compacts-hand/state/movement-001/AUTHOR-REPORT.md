@@ -305,3 +305,132 @@ Supporting beats are spread across Lira, Brom, Karis, Seln, Ephram, Withrow, Bra
 10. **Withrow's restrictions.** Her two administered restrictions now carry a story: a daughter at her counter weekly for a year. Her tenure stays unnumbered.
 11. **Words: 33,651** (metrics; 33,722 by wc) against ~34,000.
 12. **No placeholders** (Bede, Maud, Gwen, Abbot) were needed. **No new names.** All roles stay unnamed: the Stone, the Shield, the Force third-year, the Current girl, the assistant, the counsel, the officer, the lodge-man and the desk clerk.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, 2026-10-06, from `REPAIR-BRIEF.md` and both reviews, with the coordinator's rulings applied. All edits were made by reading. Each replacement was composed by hand and written as an exact-string edit. Ch6 and ch7 were redrafted whole from `EVENT-LIST.md`, keeping the brief's named keepers. No script split or joined sentences. No git command was run. `protected-patterns.txt` was not touched.
+
+### Rulings applied
+
+- **#44, the address.** Ch5's first page now reads *the enrollee of record, Caelen Hesk-ward, unclassified,*; nothing else on the page changed, and Withrow still reads it whole, standing, in the registry voice. Formal registry usage follows in ch6 (the count: "On the first leaf it named him as the registry always did, *Caelen Hesk-ward*, a name nobody who knew him had ever used"). People in conversation still say Cael.
+- **Ruling 7.** The ferryman's daughter's station "had taken a year to settle on what her Path was"; she "stayed until the station read her, and after" (ch6). She is a pending classification, not a prior unclassifiable.
+- **Ruling 10.** Lira, ch4: "And before you ask, I asked. Rooke lent me the floor after the tenth bell, any night I want it. He said he didn't want to know what for."
+- **Rulings 1, 2, 3, 5, 6, 8 and 9:** nothing further was needed. "upon a schedule of one academic year" is kept as accepted.
+
+### Priority 1 — continuity
+
+1. **Hesk's clock (ch1:7).** It now loses time "in its usual direction, a little more of the hour every day". In tournament weeks Cael set it an hour fast on purpose "so that it would be right by accident", and on finals morning he put it back himself. He keeps it for the minutes. The two tags (ch5, ch7) now read "a full minute by Hesk's clock", with no "hour fast".
+2. **The Storm notice.** Ch1: "The notice had found him on one knee on the stone, with a healer's fingers in his hand and eight thousand people looking down, and he had read it through twice there, before anybody strapped him." Ch4: each notice "had found him somewhere with nothing else to look at, a yard, a stair, a shut room, and the one from Norhold on one knee on a stone floor, with a healer holding his hand."
+3. **Ephram.** Ch1 log: "captain again from tomorrow, of the whole cohort this time"; ch1 convocation: "the captain's file for the new year".
+4. **Seln's arithmetic (ch3).** It was said "across a document table in the mill-town hall".
+5. **The inventory arithmetic (ch1).**
+   - Log: "seven confirmed, the seventh Daeva's storm, and the quiet thing from the stair among them, sealed. Under all seven, the still place I don't count."
+   - Record paragraph: "Before Norhold he had carried six, and the registry had held five of them; the quiet thing was on no paper anywhere, and the storm did not yet exist. Only three of the five had ever been shown on a scored floor."
+   - The suite run itself is untouched (five numbered, the sealed sixth, the storm the last).
+   - Placing clauses: Hesk "had raised him in an instrument-maker's workshop at the far end of the country, and had bound the book for him with his own hands, and it held the Log now, the record where Cael set down each fact with its price beside it."
+6. **Pull and slow.** One clause at ch1's dawn wait: "He stood a long while, longer than he knew; he was not counting." Ch4 gives the distinction inside Lira's palm-ledger exchange:
+   - "Pull was the wrong thing answering… This is the right thing answering late."
+   - "At dawn I stood still after the lane until I was sure. I must have stood through the whole ten without counting them. Tonight was the first time I reached for anything inside them."
+   - "So the flag's down, and this is the bill."
+   - Lira writes *bill, not flag*.
+   - The lane runs are unchanged.
+
+### Priority 2 — the tracked sentences (editorial §5 B), re-composed from the event list
+
+| Items | Where | What changed |
+|---|---|---|
+| 1–2 | ch1 | Convocation's entrances. Intake "came up the road with a question of its own"; the order is now Cael, Karis, Brom, Lira, with new details (the bench of Stone first-years leaning forward; Lira last, late, half the intake turning in its seats). |
+| 3–4 | ch1 | Withrow comes out "with her hands empty". The charter is "the third of [the year's appointments]… a floor". The applause starts in the third-years' benches, and she waits "as a carter waits at a bridge for a herd to finish crossing". Her address is new: "Say what you are. Be it. Leave it where anyone can check… Somebody will be checking." |
+| 5 | ch1 | Bracken's window: "anybody who showed at that bend still had two switchbacks to climb before the lodge-man heard a hoof". |
+| 6–7 | ch2 | Opens on the red book first, then the stripped floor, then the frames. Five people counted with Lira as the fifth (the cold read's count fixed). Rooke's mark: "it might have been any word in the language, and Cael would have staked the notebook on which one it was." |
+| 8 | ch2 | The triad is gone. Lira's vocabulary for the registry is "a language for things withheld", and "heavy" is "the first word she had ever had to find for a gift". |
+| 9–11 | ch2 | The Karis scene is redrafted: the assistant met first on the stair ("the left hand, then the right", now visibly the two mugs); Karis opens with "Do you know what wanting a room does to a reader?", then the protected line, then the counted objects with "Eight people, two sittings, three words". The provisions exchange has no ask/didn't-ask turn: "Old books first," she says to the spine, unasked. "A note for the cold term." |
+| 12–13 | ch2 | The counter now opens "By the third morning the assessment wing's queue reached the door." The green form is dated by its print line to the council's week, and "the green sheets had not come from the clerk". |
+| 14 | ch2 | Seln's sentence is reordered around the protected words: "Standing papers on the provision come up for the ledger's half-year check. Keep the documentation current… There have been senior men at the foot of the road since the recess. The office mentions it only because the office has eyes." |
+| 15 | ch2 | The freight image is replaced: "Seln charged for words the way a ferryman charges for crossings… very nearly a letter." |
+| 16 | ch2 | Coats: the "sent to learn / already knowing" antithesis is gone; "like visitors to a cathedral"; the log line is "Men with no questions get sent at the end of something, not the start." |
+| 17–19 | ch3 | Brom "read the sheet without picking it up, with his spoon still in his hand". Bracken's reasons for the year's-end listing are new (Rooke's year of figures; the cold, empty district hall). The argument now leads with the corridor word, then the seven dockets and the staff, then the protected tail. |
+| 20–23 | ch5 | "Couriers trotted… These three walked, and kept step." The empty window "and the ship's glass was gone from it". "Riders on registry business did not stop for lodge-men." The "document about him" sentence is cut ("It would not have occurred to him to wait outside."). The officer is described by "soft hands and good boots that had not been walked in". Withrow "came down the long hall as if she had been sent for about a gutter". |
+| 24–26 | ch5 | "Withrow broke the wax with her thumbnail and read where she stood". The registry voice is now "a clerk's voice that gives a paper to a room exactly as the paper gives itself and adds nothing, not even breath". After the reading: the line repeated, the hooves gone, "Three copies under the house's seal: counsel, the enrollee, the reading room. Before dark." and "She'll be furious for about a minute and useful for a fortnight." |
+| 27 | ch5 | Karis's list is now a torn slip in her hand, which Cael reads on the stair (the four rulings first, the hall's code, the transcript, tea). |
+| 28 | ch5 | The steps scene opens with "Nobody told the bluff"; Brom first, with cheese and two apples; Lira second, with a trailing tape, who reports Rooke's three words herself; "Fourteen days is a holiday." |
+| 56 (ch5 half) | ch5 | Log frame: "The words had been ready since the library stair, and they went down clean." |
+| 29–41 | ch6 | Redrafted whole. Changes, in order: <ul><li>Karis asked Cael to stay "so that she could look up from a clause and check it against him"; the counsel's retainer is recut ("that was her price"), with her own sentence on the inspection's counsel.</li><li>Withrow's trips are one sentence. The underlining exchange is reordered (she opens on "It was a kind word once"; Karis asks "What does it do?"; "Nothing. That's what it does."; "Is there a date… Anything at all that runs out?" / "Not one."). There is no "None/None" turn.</li><li>The count begins at the schedules, then the words, then the length; no "room / floor plan" image.</li><li>The backward read gets new language: "The front of a paper is the story… The back is what he wants." The recital moves to sit directly before Karis's first finding, as the cold read suggested.</li><li>Rulings two to four are compressed into one sentence. The punchlines are new: "the clause threw every one of them out… Whoever drafted tonight's paper has read that shelf." / "So they didn't go at it."</li><li>First finding: "Every one of those stories ends at a door Greyvane locked on the record, and this paper hasn't so much as knocked on one… They spend nothing on ground they could lose."</li><li>Second: "I came up this hill expecting to spend the year proving exactly that… They've signed it for me."</li><li>The stillness is no longer counted to twelve.</li><li>Karis's speech now opens on the bench sentence, then the three sentences seen at last, then "He told them how… The honest man's own sentence, for a warrant… Write it down. This is where I was frightened. The seventh paragraph." The counsel answers "Written."</li><li>Cael's note: "He warned me in a room where nothing was written down. They answered in a room where everything is, and signed it with his name."</li></ul> |
+| 42–57 | ch7 | Redrafted whole. Changes, in order: <ul><li>The counsel: "I've looked tonight for the case where somebody turned these sections round to point at the man standing in the frame… This is new."</li><li>"Do you know the difference, in front of a seat, between a description and an evaluation?"</li><li>Bracken reads "flat"; the clerks' first-year joke ("the only page in the code nobody has ever had to stamp"); "imagined you" kept.</li><li>Withrow's morning after is rebuilt around the ferry, the guild master and the sealed file ("Kept, every page, perfectly safe, and nobody may open it"); "You can walk out of a town. You can't walk out of the post."; "Twice in my registry years I put my name to one. The first I'd sign again tomorrow… The second had a daughter."</li><li>The calendar: three silent marks read out by Karis ("The first. The eighth. The twenty-second."), with "in thirteen years I have never seen a seat take those three words back for anybody's lame horse".</li><li>The six slips are spoken as their words only, with one comment at the fifth.</li><li>The not-a-trick paragraph is now "Bracken would carry a paper like this. So would I… Look for the trick all night and you'll come up empty."</li><li>"the other choice has its own word in the docket, and the word is *fled*… I'll have bones on it in four days."</li><li>The stratum lead-in: "That clause is why you've never stood in a station since Denvash."</li><li>The note goes inside the front cover; the question mark: "She would answer it in her own time."</li><li>Seln's lamp: Cael "did not let himself guess what the man at the copying table was making".</li><li>Karis's instructions are cut to "Four days" and "Thank you for the tea".</li><li>The telling covers what moved the table, in a new order. Brom: "Then what's the answer for?" Cael's answer names the warden, provost and tournament himself; Lira: "And this time?… What if the people didn't fail this time?"; Lira leaves without the "Bed" line; Brom's second "Corridor." comes at the door.</li><li>Pole frame: "The entry was finished before the pen touched paper."</li><li>The prolepsis is trimmed to "It looked like the truth, because, as far as he could see from that window, it was."</li><li>The lamps go out by the hall's own count (the counter pair, the table's pairs from the far end, the press lamp last).</li></ul> |
+
+Kept as the brief names:
+- every Tier B and packet line verbatim (grep-checked);
+- the oil book;
+- the brown book's two inks;
+- "They expect to be agreed with";
+- the damp seam;
+- the daughter at the counter;
+- the calendar card;
+- the six slips;
+- the four cups;
+- "You are the frame";
+- "field / kept";
+- "A count is evidence. Indignation never was."
+
+### Priority 3 — ch6 pacing
+
+The stretch from Withrow's book to Karis's first finding went from about 2,950 words to about 2,050. Rulings two to four are one sentence; the recital is moved up next to the first finding; the count is reordered and trimmed. That cut more than the tenth asked, so two new beats went back in:
+- the assistant's one question to Bracken ("Why does a code need a word like *discretion* at all?" / "It depends who's standing in the room");
+- Cael's reflection that the provision lives because it has dates in it, and part two has none ("the kindest thing on any form he had ever signed").
+
+Everything from paragraph seven on is kept in substance.
+
+### Optional items taken
+
+- Ch2: the rating paragraph is split once; "twelve weeks" is now "over the recess"; the count of five on the floor is fixed.
+- Ch3: "four, and never a fifth" on boards; the wing's three cards are added "with no strike, which was the house's own way and not the tournaments'".
+- Ch4: Norhold now "cost me about what this did, and I was fighting a Gold who wanted me to last".
+- Ch1: "He called it the band, and so did Lira."
+- Ch7: "the three numbered steps"; one "Minuted." varied ("Written.", ch6). The added ch7 beats are Cael's "I'm the frame" reflection on the damp seam and chapter fourteen, and Brom and Lira's "She counted the cups." / "She counted us."
+
+**Declined:** none in full. "Given under the Compact's hand" stays on both the first leaf (Tier B) and the last leaf's attestation, which the plan's §8 lists for ch1 and the source places at both. "The way a man / the way a…" was thinned only where a passage was redrafted (25 such phrases remain across the movement).
+
+### Checks after r1
+
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- **Overlap:** `ed.sh overlap`: **2 unprotected runs, 17 protected**. Both are the ch5 first page's address, changed by #44:
+  - `to the chancellor halcenvane academy and to the enrollee of record` (11w)
+  - `unclassified enrolled under the demonstration provision of the assay clause jointly` (11w)
+  - These are reported for the coordinator's pattern update; no author narration is unprotected.
+- **Sweep:** `sweep_probe.sh`: **skeleton 2%, close 11%** (from 13%). By chapter: ch1 0/8 · ch2 0/10 · ch3 1/7 · ch4 0/5 · ch5 4/14 · ch6 3/14 · ch7 6/18. The ch5–ch7 skeleton hits are the first page, chapter fourteen, the corridor line, the stratum lines, Lira's question and the pole. What remains in the close band is short plan beats ("Four days") and common-word noise.
+- **Formula** (ch1–7): words 31,338 (31,406 wc) · sentence mean 13.41 · ≤5 27.8% · ≥40 3.4% · paragraph median 27 · words per scene 950 · FRE 88.2 · FK 4.28. All are within the working ranges.
+
+| Ch | Words | Mean | ≥40 | Para median | Words/scene |
+|---|---|---|---|---|---|
+| 1 | 5,351 | 14.2 | 4.5% | 32.5 | 1,070 |
+| 2 | 4,217 | 14.6 | 4.2% | 34 | 843 |
+| 3 | 4,805 | 13.2 | 2.7% | 25 | 961 |
+| 4 | 4,920 | 12.2 | 2.7% | 16 | 984 |
+| 5 | 3,995 | 14.6 | 5.5% | 32 | 999 |
+| 6 | 3,602 | 13.2 | 3.3% | 34 | 901 |
+| 7 | 4,444 | 12.4 | 1.4% | 24 | 889 |
+
+**Length note.** The movement is now about 2,300 words shorter than at first draft (31.3k against the ~34k budget). The cuts came from re-composition (shorter, non-tracking sentences in ch5–ch7) and P3. They were not filled back with padding.
+
+### Ledger corrections (to the page)
+
+- **Hesk's clock** loses time and is not an hour fast outside tournament weeks. The tags are "a full minute by Hesk's clock".
+- **The Storm notice** was read on one knee on the stone; the strapping came afterward.
+- **Ephram** is captain again from day 1, with the captain's file for the new year.
+- **Seln's "Variance is cheap" arithmetic** was said across a document table at the mill town.
+- **The inventory:** seven confirmed (Shadow sealed among them; Storm the seventh) and the still place uncounted. Before Norhold there were six, with five on the registry's record.
+- **Pull versus slow:** the flag is down (no wrong thing answers). The lane's bill is ten counts of the right thing answering late; it was first met on the honest floor because at dawn Cael stood through the count unknowing. Lira's palm: *bill, not flag*.
+- **The private floor** is lent by Rooke after the tenth bell, "and doesn't want to know what for".
+- **The instrument** names *Caelen Hesk-ward* on its first leaf and its address (#44).
+- **The ferryman's daughter:** a station that took a year to settle; she was read, and stayed.
+- **New in r1:**
+  - the assistant's question to Bracken about *discretion*, and his "It depends who's standing in the room";
+  - Withrow's "Kept, every page, perfectly safe, and nobody may open it";
+  - the clerks' first-year joke about chapter fourteen;
+  - Karis's reading of Bracken's three marks;
+  - Brom bringing cheese and apples to the steps;
+  - Karis's list as a written slip;
+  - the stillness no longer counted to twelve;
+  - Karis's note now inside her notebook's front cover;
+  - the hall's lamps going out counter first and the press lamp last.
+- **Day 8's "Minuted"/"Written"** are the counsel's working-minute replies.

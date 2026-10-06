@@ -10,23 +10,17 @@ Three riders, on the last switchback below the gate.
 
 They were coming up at a walk. Two rode a little ahead and to either side, in grey with a badge on the shoulder, and they rode the way men ride who have been told the pace and are keeping it whether it suits the horses or not. The third rode between them. He sat very upright, and across the front of his saddle, strapped tight against the horse's withers so that it could not shift, lay a case of dark leather the length of his forearm.
 
-Cael knew what he was looking at before the knowing reached words. He had seen a rider carry a house's papers down that road once, at the start of last year, in a case strapped inside a saddlebag, at a working trot, and nobody had looked twice. A thing going down the road travelled like freight. This was a thing coming up the road, and it was travelling like a prisoner.
+Couriers trotted. Every courier Cael had ever watched on that road had come up it at a working trot with his eyes on the next bend, because a courier was paid by the day and the road was long. These three walked, and kept step, the way men walk behind something they have been told not to hurry.
 
-He looked up at the records hall. The high window at its north end, where Bracken had stood all week with his ship's glass, was empty.
+He looked up at the records hall. The high window at its north end was empty, and the ship's glass was gone from it. Somewhere inside, a man who had watched that road for eight days had already put the glass in his coat and gone down to his counter.
 
-Bracken had seen them a full minute before the gate did. Of course he had. He had been waiting eight days to.
-
-At the gate, the lodge-man came out of his door and stood up straight, the way he stood for the Chancellor's carriage and for nothing else. The riders did not stop for him. They came through the gate at the same walk, without dismounting, and the lodge-man stepped back to let them pass and watched them go by with his hat in his hand. They crossed the outer court with their hooves loud on the stones in the heat, and every head on the covered walk turned to follow them, and they went on round the corner of the lecture range toward the records hall as if nobody on the hill had a right to stop them, which was true.
+At the gate the lodge-man came out of his door and stood as straight as he stood for the Chancellor's carriage, and for nothing else. Riders on registry business did not stop for lodge-men. They passed under the arch at the same walk, still in the saddle, and the lodge-man stepped back against the wall with his hat in his hand and let them. They crossed the outer court with their hooves loud on the stones in the heat, and every head on the covered walk turned to follow them, and they went on round the corner of the lecture range toward the records hall as if nobody on the hill had a right to stop them, which was true.
 
 Cael put his book under his other arm and went after them.
 
 He did not run. A boy running across a court after a registry escort would have been a story by noon. He walked fast, at the pace of somebody late for a lecture, and he came round the corner of the lecture range in time to see the third rider dismount at the records-hall steps and unstrap the case from his saddle. The two outriders stayed mounted. They sat their horses at the foot of the steps, one on each side, facing outward.
 
-Cael went past them and up the steps and in.
-
-A document that came up that road under that kind of escort was a document about him. He had been learning since his Kindling to be in the room when his own paper arrived, and he had never once been sorry he was.
-
----
+Cael went past them and up the steps and in. Nobody stopped him. It would not have occurred to him to wait outside.
 
 The records hall was cool after the court, and dim, and very quiet.
 
@@ -34,11 +28,11 @@ Bracken was behind his counter. He had not come down from the window in a hurry;
 
 The rider came in behind Cael with the case under his arm.
 
-He was not a rider, Cael saw, now that he was on his feet. The men on the horses were riders. This man wore the plain grey of a registry office, cut well and kept clean, and at his collar he had a small seal of office in dull silver that Cael did not know. He was perhaps fifty, with thin hair combed close and the careful face of a man who has carried a great many things to a great many counters and has never once been the thing that was carried. He set the case on the counter and laid his hand on it and waited.
+On his feet he was a different kind of man from the two outside. He had soft hands and good boots that had not been walked in, and a clerk's grey coat kept very clean, with a small seal of office in dull silver at the collar that Cael did not know. He was perhaps fifty, with thin hair combed close and the careful face of somebody who has set a great many things down on a great many counters and has never once been set down himself. He set the case on the counter and laid his hand on it and waited.
 
 Withrow came in from the inner door thirty seconds later.
 
-She was walking at exactly her ordinary pace. Cael had watched her cross courts and corridors and halls for two years and knew it as well as he knew Brom's step on a stair: unhurried, even, neither quick nor slow, the pace of a woman who has decided that nothing will ever be allowed to set it for her. He knew, watching her come down the length of the hall at that pace, with the whole hill already talking outside, that she had chosen it on the stair and was holding it on purpose. It was the most deliberate walk he had ever seen.
+She came down the long hall as if she had been sent for about a gutter. Cael had watched her cross courts and corridors for two years and knew the walk as well as he knew Brom's step on a stair, even and unhurried, the walk of a woman who had decided long ago that nothing would ever be allowed to set its pace. With half the hill already talking outside, he understood that she had chosen it on the stair and was holding it now the way a carter holds a nervous horse.
 
 She stopped at the counter beside Bracken, and the officer bowed to her, to a depth that somebody had once measured, and took a card from his coat.
 
@@ -64,15 +58,11 @@ It was thick. It lay on the counter in front of the three of them, a sheaf of he
 
 Nobody touched the instrument.
 
-Then Withrow put out her hand and broke the wax.
+Withrow broke the wax with her thumbnail and read where she stood, and nobody in the hall would have dared to bring her a chair. She read the first leaf once to herself, without a sign. Then she read it again, aloud, for the hall's book: on service, the enrollee must hear it, and the house must be able to say he had.
 
-She read it on her feet. She did not sit, or pass the instrument to Bracken, whose office it was to read the house's papers, and she did not send Cael away from the counter. The paper named the two of them together. In two years Cael had never once seen Withrow open a letter that was not hers, or keep from anybody a letter that was theirs. She unfolded the sheaf and turned back its first leaf, and read it through once to herself, at her ordinary reading pace, while the hall stood quiet around her.
+Cael had never heard the voice she used. Two sentences in, he knew it was not new. It was the oldest she owned. Twenty years of registry windows were in it, a clerk's voice that gives a paper to a room exactly as the paper gives itself and adds nothing, not even breath.
 
-Then she read it aloud.
-
-She read it in a voice Cael had never heard her use. He understood after a sentence or two that it was not a new voice at all. It was the oldest one she had. It was the flat, even, careful voice of the registry official she had been for twenty years before she was anybody's chancellor, the voice that had read instruments aloud on service so that the record could say they had been read, and had never once needed to put anything of itself into them. She was reading to the enrollee of record, on service, so that the house's book would show it had been done.
-
-*To the Chancellor, Halcenvane Academy, and to the enrollee of record, Cael, unclassified, enrolled under the demonstration provision of the assay clause, jointly:*
+*To the Chancellor, Halcenvane Academy, and to the enrollee of record, Caelen Hesk-ward, unclassified, enrolled under the demonstration provision of the assay clause, jointly:*
 
 *Be it known that the Guilds Compact, by its registry, having convened formal proceedings upon the question of the classification designated [SHATTERED] and its bearing upon evaluation integrity within chartered institutions, hereby files a formal challenge to enrollment basis against the said enrollment.*
 
@@ -82,21 +72,19 @@ She read it in a voice Cael had never heard her use. He understood after a sente
 
 *Given under the Compact's hand.*
 
-She lowered the leaf.
+She lowered the leaf, and said the last line again without looking at it, in the same level voice.
 
-Nobody in the records hall said anything. Bracken had not moved his hands from the counter. Far off, through the open door, Cael could hear the escort's horses on the first switchback, and then he could not hear them.
+"*Given under the Compact's hand.*" A pause, no longer than a breath. "I have signed that line myself. Nine hundred times."
 
-"*Given under the Compact's hand,*" said Withrow at last. She said it in the same level voice, as if she were reading it again, though she was not looking at the page. "I have signed that line myself. Nine hundred times."
+The hall stayed quiet. Somewhere below the bluff the escort's hooves went round the first switchback and were gone. Withrow turned the leaf down again, edge to edge with the ones beneath it, and Cael saw her make certain her fingers would not shake before she let them do it.
 
-She turned the first leaf down again, edge to edge with the others underneath it. Her fingers did not shake. Cael saw that it had cost her something to make sure they would not.
+"Registrar. Three copies under the house's seal: counsel, the enrollee, the reading room. Before dark."
 
-"Registrar," she said. "Copies. One to counsel by the afternoon courier, under the house's seal. One to the enrollee. One to the reading room at the top of the library." She paused. "Tonight. All of them tonight."
+"Before dark," said Bracken.
 
-"Tonight," said Bracken.
+She turned to Cael. She did not change her voice to do it; the registry voice was the one that would hold, and she meant to keep it until she was alone.
 
-Then she turned to Cael, and her voice was still the registry voice, because it was the only instrument she trusted in that moment and she was not going to put it down to pick up another.
-
-"They have found a new way to ask the old question," she said. "Go up and tell Karis. Tell her before she hears it from the stair. She'll want to be reading it before she's finished being angry, and she'll never forgive us if she spends one minute of the fourteen being angry without anything in front of her."
+"They've found a new door into the old question," she said. "Go and tell Karis. She'll be furious for about a minute and useful for a fortnight, and I'd like the minute spent before she has the paper, not after."
 
 ---
 
@@ -126,49 +114,41 @@ The demonstration provision had never asked a frame anything. That was the whole
 
 "They read the hearing," she said. "Every page of it. Every page we won on." Her voice was quite level. "And then they went away and wrote a paper that doesn't touch a single one of them."
 
-That was all she spent on it. He watched her spend it, and then he watched her put it away, somewhere he could not see, and turn round into the room.
+She stood a moment longer. Then she was finished with being angry, or had put it somewhere he could not see, and she turned to the table and tore the bottom off a sheet of paper and wrote on it standing, fast, in her finding hand.
 
-"Sit down," she said. "No. Don't sit down. Go and find her."
+"My assistant's in the lower reading room," she said, and gave him the slip. "Give her that."
 
-"Your assistant?"
+He read it on the stair going down, because she would have expected him to.
 
-"She's in the library's lower reading room with the district digests. Tell her I want the registry code, all three volumes, the bound ones from the records hall and not the library's, because the library's second volume is missing a gathering and nobody has ever noticed but me. Tell her I want the Greyvane hearing's transcript, the certified copy, from my own shelf in the common room, the grey card cover with my initials on the spine." She was already clearing the long table, moving the founding-era compilations to the shelf in their three bindings, one after another, with great care. "And tell her to ask Bracken, very politely, whether the registrar would be so good as to lend me the four bound rulings in his locked press. He'll know which four. There are only four."
+*Bracken's press: the four rulings on the clause. Ask him nicely. — The code, three vols, the HALL'S, not the library's (lib. vol. 2 lacks a gathering). — Greyvane transcript, cert., my shelf, common room, grey card, K.D. on spine. — Tea. — Tell her she won't see her bed.*
 
-"Four what?"
+The assistant was where Karis had said, at a table under the window in the lower reading room with the district digests stacked beside her. She read the slip once and gave it back to him, which he had not expected, and stood, and pushed in her chair.
 
-"Four times anybody ever went to law against an enrollment made under that clause." The last of the three bindings went up beside the others. "I read their spines through the glass two years ago, and I've wanted to read their insides ever since, and I didn't want it badly enough to ask. I want it now." She turned. "And tea. Tell her to bring tea. And tell her not to expect to sleep tonight in her own bed, and to say so to whoever she needs to say it to."
+"The tea first," she said. "She thinks better with it. Then the rest, in her order."
 
-He went back down the four flights to find a second-year with ink on her collar.
+"She says you won't see your bed."
 
-She was where Karis had said, in the lower reading room, at a table under the window with the district digests stacked in front of her, writing something in her small notebook. She looked up when he came in, and he saw her see his face and close the notebook.
-
-He gave her Karis's list in order. She did not write any of it down. She said it back to him, once, all of it, including the missing gathering in the library's second volume, and stood up, and pushed her chair in.
-
-"The tea first," she said. "She thinks better with it. The rest in the order she said."
-
-"She said not to expect to sleep."
-
-"She always says that," said the assistant, and went out past him at a fast walk, and he heard her break into a run on the walk outside, which he suspected was the first time she had run anywhere on the hill since the intake.
+"She always says that," said the assistant, and went out past him at a fast walk. He heard her break into a run on the covered walk outside, and suspected it was the first time she had run anywhere on the hill since the intake.
 
 ---
 
-Before noon the whole bluff knew.
+Nobody told the bluff. Nobody needed to.
 
-Nobody told it. Nobody needed to. A registry escort had come through the gate at the second bell without dismounting, and gone to the records hall, and come out again without the thing it had carried, and every person who had stood on the covered walk and watched it go by could add that up for himself. At the noon meal the refectory was full of people sitting very close together over their soup. Soon after it, somebody who had a cousin who swept the records hall had it that the thing was a summons. By the fourth bell a correspondent from one of the Ostrand broadsides was at the gate lodge asking the lodge-man what had come up the hill, and the lodge-man was telling him that it was a fine day for the time of year, and that he had a great deal of respect for the press.
+An escort had come through the gate at the second bell without dismounting, and ridden to the records hall, and ridden away again without the thing it had brought, and every person on the covered walk had watched it go by and could do that sum unaided. By the noon meal the refectory was full of people sitting close together over their soup and not eating it. Somebody with a cousin who swept the records hall had it that the thing was a summons. A little after the fourth bell a man from one of the Ostrand broadsides was at the gate lodge, asking the lodge-man what had come up the hill that morning, and the lodge-man was telling him that it had been a fine morning for the time of year, and that he had the greatest respect for the press.
 
-The circle gathered the way it always gathered, without anybody calling it.
+Cael sat on the records-hall steps in the heat and waited, because the others would come there, and they did.
 
-Lira came off the east hall's floor in the middle of the morning's drill, with her wrists still taped and her collar dark. Rooke had heard it from Bracken's boy before she had, and had walked across the painted lines to where she was standing on the third cross and said three words to her, *Records hall. Now.*, and gone back to the trestle and told the Stone to run the Force third-year in her place. She found Cael on the records-hall steps and sat down beside him without asking anything.
+Brom came first, from the direction of the kitchens, with a wedge of cheese wrapped in a cloth and an apple in each coat pocket, none of which anybody had asked for. He sat down on the step below and began cutting the cheese with his clasp-knife into four, though there were only two of them.
 
-Brom came from nowhere in particular with a loaf under his arm that nobody had asked for, and sat down on Cael's other side, and broke it into three, and handed two of the pieces round.
+Lira came a quarter of an hour behind him, still taped at one wrist, with the tape off the other trailing from her fist. "Rooke stopped the drill," she said, and sat. "He walked across the whole floor to my cross and said *Records hall. Now.* and gave my place to the Force." She took the quarter of cheese Brom held up to her. "So. Tell me."
 
-They sat on the steps in the heat with the bread and did not say much. Cael told them what he had told Karis. Lira listened with her eyes on the court. Brom ate.
+He told them what he had told Karis. Lira listened with her eyes on the court. Brom ate.
 
 "Fourteen days," said Lira, when he had finished.
 
-"Fourteen days from this morning."
+"From this morning."
 
-"Karis can do anything in fourteen days." She tore a piece off her bread. "She did the whole continent on a map in a term."
+"She built the whole continent on a wall in one term." Lira bit the apple. "Fourteen days is a holiday."
 
 Behind them the records-hall door opened and Bracken came out onto the top step with a sheet of paper in his hand. It was green: a pale grey-green, like the underside of a willow leaf. He held it out at arm's length, away from himself, the way a man holds a thing he has found on his doorstep and is not yet sure is not alive.
 
@@ -208,11 +188,11 @@ Then he turned back to the first page and left it lying there face up on the sil
 
 The fountain ran below in the court. Somebody downstairs had given up on the song and was practising scales on a whistle instead, which was worse. Across the court and over the roof of the east range he could see the long row of the records hall's windows. In the last of them, at the north end, a lamp had been lit already, though the sun was not yet down.
 
-He took out Hesk's book and Hesk's steel pen, and wrote the entry in one pass, without crossing anything out, because he had already decided every word of it on the library stair.
+He took out Hesk's book and Hesk's steel pen. The words had been ready since the library stair, and they went down clean.
 
 *They filed. After the hearing I won, and the inspection, and a tournament that ran out of numbers for me, they've gone back to the shelf for one more way to ask. Fine. Their text has lost to ours before. Karis has the code open already. Note the date. The season's open.*
 
-He sanded it and gave it its minute by Hesk's clock, an hour fast, and closed the book.
+He sanded it, gave it a full minute by Hesk's clock, and closed the book.
 
 Then he looked at what he had written, for a while, with the book shut.
 
