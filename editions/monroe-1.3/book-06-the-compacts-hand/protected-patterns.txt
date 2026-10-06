@@ -1,0 +1,1 @@
+# Book 6 protected patterns (regex lines; apostrophes as .?) — packet/§10 lines kept whole
