@@ -10,7 +10,7 @@
 
 ## Where we enter
 
-The morning after the last bout, four days before the academic year's close, early-to-high summer. Four withdrawal forms squared on Bracken's counter. Seln has nothing to file.
+The morning after the last bout, four days before the academic year's close [B5-reconciled 2026-10-05: season word struck; audit A1]. Four withdrawal forms squared on Bracken's counter. Seln has nothing to file.
 
 ## What this movement is for
 
@@ -42,4 +42,4 @@ The road's incidents and weather; the waystation keeper's voice; which of the fi
 
 ## Where we leave pressure
 
-A fire in a territory no Arbiter has measured, a file behind them with a new sentence written by nobody, and for the first time in four years nothing anywhere deciding what he is except him. Book 7 opens two days past the Line, on a road with ruts.
+A fire in a territory no Arbiter has measured, a file behind them with a new sentence written by nobody, and for the first time since his Kindling nothing anywhere [B5-reconciled 2026-10-05: replaces "in four years"; OWNER #9, #18; audit A9/C14] deciding what he is except him. Book 7 opens two days past the Line, on a road with ruts.

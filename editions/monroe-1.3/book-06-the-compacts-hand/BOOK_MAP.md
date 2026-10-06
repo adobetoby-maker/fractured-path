@@ -8,45 +8,67 @@ Target: **~300,000 words · 60 chapters · 9 movements**
 Canon governs facts; owner direction and the numerical formula govern shape. Where this map and
 canon disagree, canon wins and the disagreement goes back to the owner (§11).
 
+> [B5-reconciled 2026-10-05: this plan was written 2026-10-01, before the edition's Book 5 existed. It is reconciled to the edition's Book 5 per `state/B5-RECONCILIATION-AUDIT.md` and OWNER-DECISIONS #42; every change is marked inline and `state/B5-RECONCILIATION-APPLIED.md` lists them. Items marked PENDING B5 M9 wait for B5 ch54–60 to close; items marked OWNER-pending #42 carry the coordinator default until the owner rules. Season-blind: this plan names no season or month (weather words and the year's own landmarks stand in).]
+
 ---
 
 ## 1. Entry state and ending state (binding)
 
-### Entry (Movement 1, chapter 1 — the night before Halcenvane's academic year opens, late summer)
+### Entry (Movement 1, chapter 1 — the night before Halcenvane's academic year opens) [B5-reconciled 2026-10-05: season word struck; season-blind per OWNER #42; audit A1]
 
 - **Cael** is **seventeen** (B5's on-page birthday; he says so on the page). About two months
   after the seventeen-day road home from Norhold. Enrolled at **Halcenvane** (the academy on the
   bluff above Ostrand and the Ost) under the **demonstration provision of the assay clause** — the
-  Greyvane precedent, four semester panels renewed, Magister Gault evaluator of record. Third on
+  Greyvane precedent, four semester panels renewed, Magister Gault evaluator of record. [PENDING B5 M9 — audit A11/C8: the edition counts at most three renewals on paper (the twentieth of Reaping; the mill town; Norhold only if B5 M9 stages the optional session); "four" is held, unchanged, until B5 M9 closes.] Third on
   the continent with his delegation; his Daeva match is "the most-reviewed result in tournament
   history" and the broadsides are still wrong about it.
 - **Fragments: seven confirmed** — Wind (Lira), Pressure (Feryn), Iron (Brom), Compression
-  (Reydan), Ember (Karis), Shadow (Seln; source protected; never deployed; continuous low cost),
+  (Reydan), Ember (Karis), Shadow (Seln; source protected; never deployed; rent from waking, spent or not [B5-reconciled 2026-10-05: B4/B5's word is "rent", not "continuous low cost" (B5 ch20, ch45); audit C3]),
   Storm (Daeva; its stability flag stood eleven weeks and **clears in the interval** — the morning
   it settles is on the page in M1). **One anomaly**: session nine, Tide-adjacent, uncounted.
-  "Banking" was spent publicly at Norhold; inside Halcenvane he still fights wing-three hours at a
-  **managed band** — a consistent rate that never rises and never breaks (Ephram has been charting
-  it for a year). The covenant: *directed, open-eyed, or not at all* (B4) — and since Norhold,
-  *costed* (B5 Ch23's initialled amendment: never reach mid-fight without the cascade priced).
+  "Banking" was spent publicly at Norhold; inside Halcenvane he still fights wing-three hours
+  [B5-reconciled 2026-10-05: "wing three" is placed once, here, as the assessment wing's third hall; B5's named rooms are the Crown yard's sprung oak, the second floor's boards and the long room; audit C2]
+  at a **managed band** — the Halcenvane exhibition rate (six on the oak, two contacts, Compression
+  held at contact, Pressure flat), kept *below* what the Norhold record now holds and scattered by
+  the variance program's rotation, so that it breathes inside a chosen range and never settles into
+  a line or rises past the Halcenvane ceiling (Ephram has been charting it for a year; what he
+  charts moves) [B5-reconciled 2026-10-05: replaces "a consistent rate that never rises and never breaks". B5 broke the flat band on purpose and for good (B5 M3: Seln's arithmetic objection, the engineered-scatter program, "Cael's band BROKEN: 26 / 20"; M4: the season's figures "never once settled into a line"), and a flat band at Halcenvane re-opens the tell Seln closed. After Norhold the public record holds the Norhold rates (Wind past six; the push at fighting load; Reydan's give; Ember past two contacts; the read to depth), so "the lid comes off" in M8 means those rates and past them, shown on the bluff for the first time. OWNER #42; audit A3. The Norhold rates themselves: PENDING B5 M9 — audit D1].
+  The covenant: B4's signed minute (edition B4 ch23, three numbered rules — conditions not
+  manufactured; a directed acquisition only inside earnest engagement the other party begins; the
+  full cost written beforehand). *Directed, open-eyed, or not at all* is B5's shorthand, never B4's
+  wording; when prose recalls the line it recalls B4's rules and B5's one-line restatement
+  ("Nothing made to happen. Only inside a fight somebody else begins. The cost on paper first.").
+  Since Norhold, *costed*: B5 M9's amendment, initialled by the four (never reach mid-fight without
+  the cascade priced) [B5-reconciled 2026-10-05: replaces the source-chapter citations "B4 Ch9" / "B5 Ch23"; audit A12] [PENDING B5 M9 — edition chapter number TBD; audit A12/D4].
 - **Lira**: Wind Path, Iron Rank 1 formal; Rooke's new **Silver-bracket program** opened in the
-  recess ("Silver bracket. Next cycle."); the burst-shoulder under heat-wrap since Norhold.
+  recess ("Silver bracket. Next cycle."); fit at entry — the LEFT burst-shoulder healed at Norhold (the wrap came off for the team trial; at the close only the habit of carrying the left arm close survives) [B5-reconciled 2026-10-05: replaces "under heat-wrap since Norhold"; B5 M6/M7/M8, ch35, ch45; audit A4].
   **Brom**: Iron Skin Path, Copper formal, continental Copper champion; the **mandatory advancement
-  review** pending ("Summer's problem"), the district summons in the same pocket as a Velmere
-  letter. **Karis**: Ember Path, Iron Rank 3; research standing renewed with the academy's first
-  budget line for an enrollee, a locked room, a second-year assistant. **Seln**: Shadow, Bronze;
-  the assessment office's clerk; at the middle of the bench since the road home; the locked case
-  has been visible since Book 4 and never opened. **Ephram**: cohort captain.
+  review** pending ("The recess's problem." [B5-reconciled 2026-10-05: the source's line carried a season word; OWNER #37 O5, #42; audit A1]), the district summons in the same pocket as the Norhold one-line
+  letter and another Velmere letter. **Karis**: Ember Path, Iron Rank 3; research standing renewed
+  with the academy's first budget line for an enrollee, a locked room (the named top-floor reading
+  room, *Reading room. Assigned: K. Dellenmoor.*, in Bracken's hand, which the later "annex" grows
+  from [B5-reconciled 2026-10-05: B5 ch26:5; audit C6]), a second-year assistant. **Seln**: Shadow, Bronze; the
+  assessment wing's teaching assistant, at the copying table behind the counter [B5-reconciled 2026-10-05: replaces "the assessment office's clerk"; B4 ch48, ch15, B5 ch14; the counter's desk clerk is another man; audit A5]; at the middle of the bench since the road home;
+  the locked case has been visible since Book 4 and never opened. **Ephram**: Blade, Iron Rank Six,
+  cohort captain [B5-reconciled 2026-10-05: rank added; B5 ch1:195, ch28:53; audit C1].
 - **Knowledge at entry**: Vastin's off-record warning in a borrowed office at Norhold — *"You
   should stop competing publicly." / "Because the people who want this to stop are not going to
   use official channels much longer."* The convening was coming (Vastin said so); Cael does not
-  know its outcome. The Level 4 designation's returns (*no originating authority of record;
-  designation predates file creation* — *closed; no further inquiry authorized*) are known to
-  the circle through Ilsev's referrals. Havel's private note exists (five entries; Cael knows of
-  it, has never read it). The [UNBOUND] marginal note (B2) and Karis's copied Greyvane passage
-  sit in Karis's front matter; she has promised herself winter for "the older strata".
-- **Watchers**: two at the bluff road, three on market days — now **older, more senior**.
+  know its outcome. The circle knows the Level 4 designation exists on his file and that nobody at
+  any height can trace its authorizing office (the B4 hearing; Ilsev's standing note *Authorizing
+  office: not traced.*; Vastin's declining the Level 4 question at Norhold [PENDING B5 M9 — audit
+  D3]). The wording of the returns (*no originating authority of record; designation predates file
+  creation* — *closed; no further inquiry authorized*) is unknown to them until Ilsev reads it
+  into the record (M8) [B5-reconciled 2026-10-05: in B4 only Ilsev's window sees the first return's wording and "Nobody else knows" the second referral (B4 ch49:17–19; B4 STATE_LEDGER); replaces "known to the circle through Ilsev's referrals"; audit A10]. Havel keeps a private note (five entries
+  [PENDING B5 M9 — audit D11]); Cael has never heard of it (Havel is a records officer he has seen
+  at the records table) [B5-reconciled 2026-10-05: the notebook appears only in Havel's own windows (B4 ch46, ch51; B5 ch25); replaces "Cael knows of it"; audit A10]. The [UNBOUND] marginal note (B2): Karis read it,
+  identified the directive's terminology article and voiced the older word once at Halcenvane,
+  lower-case, as one factual clause (it meant "unbound"; B4 ch50), closing it as the question "Why
+  retire a working method?"; the passage sits in her Greyvane notebooks in the named reading room,
+  and she has promised herself the cold term for "the older strata" [B5-reconciled 2026-10-05: replaces "a copied phrase" and the season word; M6's single use is the series' second voicing and builds on ch50; audit B5, A1].
+- **Watchers**: two at the ferry landing and two at the bluff road's foot, changing on the bell — now **older, more senior** [B5-reconciled 2026-10-05: replaces "two at the bluff road, three on market days"; B5 ch1:97, ch26:245; if a third coat is wanted it is one dated change in one log line, as B5 handled it (OWNER #37 O7); audit A8].
 
-### Ending (Movement 9, chapter 60 — the second day past the Registry Line, late summer)
+### Ending (Movement 9, chapter 60 — the second day past the Registry Line) [B5-reconciled 2026-10-05: season word struck; season-blind per OWNER #42; audit A1]
 
 - **Five** travelers (LOCKED — Book 7 Ch1 and the state ledger): **Cael, Lira, Brom, Karis,
   Seln**. Not six. Ephram stayed at Halcenvane, right for him. They camp on a switchback shelf
@@ -85,35 +107,39 @@ canon disagree, canon wins and the disagreement goes back to the owner (§11).
 
 ## 2. Calendar (binding reconciliation — read before drafting)
 
-The source compresses the book into one "winter term" and stages the eighteenth birthday in
-winter (Ch13 "winter geese", Ch14 "third month of the winter term"). That contradicts two binding
-facts: the series bible (**LOCKED**: one birthday per autumn) and Book 7's day count (Cael turns
-**nineteen on the 102nd day past the Line, "the last of Thornwater's autumn"**; first snow on the
-129th; Halcenvane's next intake arrives about a fortnight before Ephram's letter, read on the
-92nd). The only shape that satisfies all of them — and the B5 seam ("two months" after a late-spring
-road home) — is **one academic year**:
+The source compresses the book into one cold-weather term and stages the eighteenth birthday in
+it (Ch13 geese; Ch14 "third month of the term"). That contradicts two binding
+facts: the series bible (**LOCKED**: one birthday per year, at the season the bible names) and
+Book 7's day count (Cael turns **nineteen on the 102nd day past the Line**, at the close of the
+season Book 7 names; first snow on the 129th; Halcenvane's next intake arrives about a fortnight
+before Ephram's letter, read on the 92nd). The only shape that satisfies all of them — and the B5
+seam ("two months" after the road home) — is **one academic year**: [B5-reconciled 2026-10-05: OWNER #19's restructure keeps its SHAPE (one academic year; served on the eighth day; the cache and Vastin before the midyear recess; the ruling in the year's last month; the Line crossed after the year's close) and carries NO season or month names (OWNER #42, coordinator default); B5 is season-blind (#35, #36.4, #37 O1), and the bible's and Book 7's season words are cited here by reference only. Owner may restore seasons when the series calendar is ruled; audit A1]
 
 | When | What (source chapter) |
 |---|---|
-| Late summer (year opens) | Interval closed; served on the eighth day (1–2) |
-| Early–mid autumn | Response, Jent, first session; Vastin refused; public record; Daeva's documents in the second month; Seln's finding; Hesk's letter; preliminary ruling (3–8) |
-| Mid–late autumn | Council; Lira's first Silver meet; "None, Advocate"; escort order; Seln's choice; the Ostrand road (9–13) |
-| **Late autumn** | **Eighteen** — about the year's third month (14) |
-| Early winter, before the midwinter recess | The cache; the analysis (the Greyvane signatures arrive "before midwinter"); Vastin in Ostrand (15–17) |
-| Midwinter → spring | **The long corridor** (M7, new): merits sittings, the clean-door finding, Lira's return, Brom's review docket |
-| The year's last month (early summer) | Closing sittings; Ilsev; the ruling; the council; the last bout (18–20) |
-| Four days before the year's close → high summer | Resignations; Seln's desk; four days east; the Line; first camp (21–24) |
+| The year's first weeks (year opens) | Interval closed; served on the eighth day (1–2) |
+| The first term, early to middle weeks | Response, Jent, first session; Vastin refused; public record; Daeva's documents in the second month; Seln's finding; Hesk's letter; preliminary ruling (3–8) |
+| The first term, middle to late weeks | Council; Lira's first Silver meet; "None, Advocate"; escort order; Seln's choice; the Ostrand road (9–13) |
+| **The first term's close** | **Eighteen** — the fixed-date birthday ("the eleventh of Sowing" by default, never beside a season word; no month-of-year ordinal) [OWNER-pending #42] (14) |
+| The cold term, before the midyear recess | The cache; the analysis (the Greyvane signatures arrive "before the midyear recess"); Vastin in Ostrand (15–17) |
+| The midyear recess → the term after it | **The long corridor** (M7, new): merits sittings, the clean-door finding, Lira's return, Brom's review docket |
+| The year's last month | Closing sittings; Ilsev; the ruling; the council; the last bout (18–20) |
+| Four days before the year's close → after the close | Resignations; Seln's desk; four days east; the Line; first camp (21–24) |
+
+[B5-reconciled 2026-10-05: every season and month word struck from the table per OWNER #42; the rows keep #19's order; audit A1, B8]
 
 Consequences the author must carry (each is a non-protected detail in the source, re-timed):
 "term-length schedule" becomes the year's schedule with the ruling before the year's close; the
 source's month labels (Ch6 "third month", Ch7 "fourth month", Ch14 "third month") are dropped for
 the table above; Ch24's "five months" since the first-pole entry becomes about ten; the road cut
-is autumn (rain, early geese, not winter melt). Seln does **not** stop filing null reports in
-autumn (the source calls the Ch12 report "the last of its kind" — here it is the last *before the
+is in rain and early geese, not the melt. Seln does **not** stop filing null reports in
+the first term (the source calls the Ch12 report "the last of its kind" — here it is the last *before the
 case opens*; he goes on filing true, empty reports until the year's close, and the unfiled road
 draft in M9 is the last of his life). The faceless faction makes no third move: after the road,
-Seln reads their silence as a schedule — *why spend a team when the seat will deliver him in
-summer* (M6–M7).
+Seln reads their silence as a schedule — *why spend a team when the seat will deliver him at
+the year's close* (M6–M7). [B5-reconciled 2026-10-05: season words struck; audit A1]
+
+[B5-reconciled 2026-10-05: OWNER-pending #42 (extends #35; audit B8). The birthday is a fixed date — "the eleventh of Sowing" by default (the owner may move it, e.g. to "the third of Reaping") — with no cross-year day count and no month-of-year ordinal stated. The edition's own counts put the B5→B6 interval near 205 days, so the series calendar must later decide whether the academic year, the recess or the birthday moves; this plan's earlier "about the year's third month" and Book 7's day-102 arithmetic are self-consistent only against the source's calendar, which the edition has not adopted (#35, #36.4). Default: season-blind until the owner rules]
 
 ---
 
@@ -150,12 +176,12 @@ change the outcome of any. Source chapter in brackets.
    charter file opened, the blank remedy column, **"Make a note of the word *choosing*."** The
    year's geometry; the review and the ruling on the same docket day; **the watchers placed**:
    "They're waiting for a status change." [3]
-4. **Standing.** Lira's internal trial vs the program's senior third-year (Iron R6, Force): first
-   exchange bought on purpose; the four-count; three exchanges to one; Rooke's invoice (nine bursts
-   against the book's seven); "I'm better now. I can admit I want it." Brom's two envelopes (the
+4. **Standing.** Lira's internal trial vs the program's senior third-year (Iron R7, Force [B5-reconciled 2026-10-05: advanced at the year's last sitting; Ephram stays Rank Six, the top of the Iron column in B4 ch8; audit C7]): first
+   exchange bought on purpose; the four-count; three exchanges to one [B5-reconciled 2026-10-05: an internal Silver-program trial is Rooke's to set, so this is Rooke's own rule, stated once on the page, not the regional format (OWNER #39); audit B2]; Rooke's invoice (five bursts
+   against the book's three [B5-reconciled 2026-10-05: Rooke's rule for Lira is three a bout; the free budgets are per day on a floor — six on the sprung oak, five on boards, four on slate (B5 M2, M5, M6); nine in one bout would be three times her rate; audit B1]); "I'm better now. I can admit I want it." Brom's two envelopes (the
    docket *outcome anticipated*; the Velmere letter two days unopened, then "the face of a man
    being offered his whole ledger back"). Karis spends her budget (the Greyvane signatures, due
-   before midwinter) and trains the assistant ("find it"). Ephram and Brom at the frames. **First
+   before the midyear recess [B5-reconciled 2026-10-05: season word struck; audit A1]) and trains the assistant ("find it"). Ephram and Brom at the frames. **First
    session**: the side door; "the enrollee of record, unclassified" entered in eleven seconds; the
    hooded seal; Havel not looking; Withrow bows anyway; "I keep looking for the person and finding
    the hand." "Whatever this challenge costs me, it should not cost them." / "That is not how any
@@ -171,7 +197,7 @@ change the outcome of any. Source chapter in brackets.
 6. **Public Record.** The broadsides' economy (the assistant's four sheets; the press bought for
    him); correspondents at the switchback, Rooke's one sentence; Bracken's post procedure; Lira's
    piles (*Kind. Unkind. Unhinged.*); the cost lands on the others first (the visitors' log and the
-   closed floor; Velmere's third letter; Karis's standing queried; the assistant "boring").
+   closed floor; another Velmere letter [B5-reconciled 2026-10-05: never counted by series ordinal: Velmere letters are already plural in B4 ch16 and the Norhold letter is a tenth of one; audit B11]; Karis's standing queried; the assistant "boring").
    **Umber's transmission**; the second session's fifty-one minutes; **Daeva's public statement**
    (four-mark fee; Bracken walks it up) and **private letter**. "Keep yourself unclassified… That's
    a strategy. Filed." [6]
@@ -196,9 +222,9 @@ change the outcome of any. Source chapter in brackets.
    Pellin line (§11 #1); Karis names it an induction; Lira: "It's not ground. It's a floor."
    *Both roads.* **Seln's window**: nineteen postings, sixty-three subjects, the maintenance records
    duplicated twelve years ago; *the deciding has stopped being quiet.* [9]
-10. **Silver Season.** The confluence meet under the academy's colors; Rooke's four-minute brief
+10. **Silver Season.** The confluence meet under the academy's colors [B5-reconciled 2026-10-05: the confluence is the region's fourth meet "at the year's turn, in the deep cold" of a qualifying year, Copper and Iron draws only, seeded by registry classification (B5 BOOK_MAP §6, §10 item 3; ch20); B6's year is not a qualifying year (the cycle is three years, B5 ch28:193), so this is the lighter, earlier card of a non-qualifying year — one line, stated once. Lira is Iron Rank One formal, so her Silver bout is a cross-tier filing under the host's exhibition provision, a host option Rooke exercises for his program (OWNER #39), stated once. No season word. Audit B3]; Rooke's four-minute brief
     (courses under courses; the four-count); **Lira vs the Silver R8** (lose the first; take the
-    centre; outbuilt in the third; three to one); "Again. Faster. It's there."; the false
+    centre; outbuilt in the third; two touches to one, the bout ending on the fourth exchange [B5-reconciled 2026-10-05: regional and exhibition formats are OWNER #39 (two touches inside four exchanges, level after four the figures decide; exhibitions at most five exchanges, a clean throw a touch); "three to one" must not imply Norhold's points regime at a regional meet; the author sets which exchanges score; audit B2]); "Again. Faster. It's there."; the false
     south-west quarter is Rooke's fault, entered as such. **The production order served at the
     venue rail**; the hall's regard adjusting. **Fourth session: the one interrogatory — "None,
     Advocate. The petition doesn't turn on evidence. It turns on discretion."** "One of these is the
@@ -208,7 +234,7 @@ change the outcome of any. Source chapter in brackets.
     "voluntarily" offer aimed at an empty gallery; they accept the refusal without demanding it in
     writing (*measure the door*); the refectory rewritten by noon; **Rooke eats in the open seat**;
     Gault: "I have written that down." **The fourth rider read** — placement, nothing laid; the
-    notebook's first Anchor page. Seln: **Anchor Path**; "Whoever wrote that paper is done
+    notebook's first Anchor page. Seln: **Anchor Path** [B5-reconciled 2026-10-05: when Seln names it (M4) and when the road is read (M5), Karis or Cael draws the distinction once on the page: Ternhall's "anchors" are planted footholds that drain heat (B5 ch34:35, ch46:65), the Lattice Path is invisible lines (B4), Anchor Path holds people; audit B4]; "Whoever wrote that paper is done
     assessing." Karis: the faceless layer has learned to write paper. [11]
 12. **The Keeper.** Seln's forensics (watermark; second run; a fourteenth lot drawn above the
     ledgers; two favors spent); the four grades of pressure; **the catechism, and watching it lose**;
@@ -216,13 +242,13 @@ change the outcome of any. Source chapter in brackets.
     you'll know it's true."**; the annex chosen; the floor-schedule cipher; a null report in the old
     pattern; **Havel's sixth entry** (a seal absent from every registry of seals). [12]
 13. **The Ostrand Road.** The documentary sitting intervenes; the cut (440 yards; the undercut;
-    culvert and milestone); **fourteen anchors**; custody, not assault; the five against six — Lira
-    breaks the perimeter's timing (ankle), Brom holds twelve feet (shoulder), Karis frays the near
+    culvert and milestone); **fourteen anchors** [B5-reconciled 2026-10-05: see the Anchor Path distinction at item 11; audit B4]; custody, not assault; the five against six — Lira
+    breaks the perimeter's timing (ankle), Brom holds twelve feet (left shoulder [B5-reconciled 2026-10-05: his sore shoulder at Norhold was the left, healed since; audit C13]), Karis frays the near
     courses (blistered hand), Seln absent from every sightline; **four exchanges with the
     specialist**, the reach directed and open-eyed; **the unbinding; the Anchor notice**; "Eight…
     a hand and no face." They attend the sitting with road dust; decide not to report it ("It
     reads as manufactured theater"). **"The room was never the system."** [13]
-14. **Eighteen.** The postponement by floor schedule; the cascade — **fixity**; the doorway that
+14. **Eighteen.** [B5-reconciled 2026-10-05: the birthday is a fixed date, OWNER-pending #42; see §2; audit B8] The postponement by floor schedule; the cascade — **fixity**; the doorway that
     went fixed for twelve seconds; the idle state found by naming; Storm resettles twice; Brom's
     rota and the forge-floor line; Karis's curve and *for now*. **The birthday** (paper face-down;
     Ephram invited, his ninety-one-entry tally; Seln: "It is a good room. I have been in a great
@@ -233,11 +259,11 @@ change the outcome of any. Source chapter in brackets.
     memoranda (*corrective classification at Kindling evaluation*), the protocol-era leaf
     (*advisory corrections function*). Seln's four movements; **the finding stated once**; "How
     many?" / "I stopped estimating. Estimating felt like filing."; "My mother's ledger was always
-    right." **Cael tells Seln the mechanism; the Shadow seal and its cost; "You kept my file too,
+    right." **Cael tells Seln the mechanism; the Shadow seal and its cost [B5-reconciled 2026-10-05: Shadow's age here is "two years, near enough" or "since the stair", never the source's "two and a half years" (B5 ch45:29: "a year, near enough" at Norhold); audit B7]; "You kept my file too,
     then."** Seal maintained, grounds revised. [15]
 16. **Two Hundred Years.** Karis's index; **finding one** (the mechanism; reach, not strength;
     the flag as the corrections function's contingency; *she just never knew what was answering*;
-    Ilsev and Havel will never be told); **finding two** (the strata; [UNBOUND] once; *close the
+    Ilsev and Havel will never be told); **finding two** (the strata; [UNBOUND] once [B5-reconciled 2026-10-05: the series' second voicing: B4 ch50 voiced the older word once, lower-case, at Halcenvane; this chapter builds on that and does not discover it; audit B5]; *close the
     door, remove the exit, delete the name*; **the limit**); **finding three** (*Not this either.
     Still open.*); **finding four** (the stratum note paid — re-evaluation is the delivery
     mechanism); Seln: "A conspiracy can be exposed. A convenience cannot."; Karis: it can't be filed.
@@ -253,7 +279,7 @@ change the outcome of any. Source chapter in brackets.
     minutes; **Karis's fifty-one-minute closing** (§11 #4); Jent: "the registry does not dispute a
     syllable of it"; **the declined certification entered as an absence**; four days in Ostrand
     (the district station on the north road; a girl of fourteen and her mother); **Ilsev reads the
-    returns verbatim into the public record**; Havel's transfer request; **the ruling** — lawful,
+    returns verbatim into the public record** [B5-reconciled 2026-10-05: the edition's own texts verbatim, not the source's compression: the first return as in B4 ch49:17–19 (*Determination: no originating authority of record. Designation predates file creation. No action available at this clearance.*); the second per B5 §10 item 17 (*Referral closed at registry level; no further inquiry authorized.* [PENDING B5 M9 — audit D11: confirm wording when B5 M9 closes]); and Ilsev's standing note *Authorizing office: not traced.* (B4 ch46:147); audit A10]; Havel's transfer request; **the ruling** — lawful,
     compliant, revoked; re-evaluation within five weeks; chapter fourteen; *Given under the Compact's
     hand.* Withrow: "you did not lose badly"; Seln reads the hand; Brom squares the copy-sets. [18]
 19. **What Leaving Costs.** Three roads priced; the cache argued for and lost out loud ("You don't
@@ -265,8 +291,8 @@ change the outcome of any. Source chapter in brackets.
     bout**; five hands. **Withrow**: the arithmetic, the other column, **"The record will say you
     left…"**; she opens the door herself. "Five weeks became five days." [19]
 20. **The Last Bout.** Rooke chalks it himself; the campus and the town; the Crown yard counted;
-    Ephram takes the sunward mark; four exchanges (the threes; the band; **the lid comes off**; no
-    flag; the reach in earnest; the commitment engine turned); two flags to one; **the Blade
+    Ephram takes the sunward mark; four exchanges (the threes; the band; **the lid comes off** [B5-reconciled 2026-10-05: the Norhold rates and past them, shown on the bluff for the first time; the managed band is the scattered Halcenvane rate of §1, below the Norhold record; audit A3]; no
+    flag; the reach in earnest; the commitment engine turned); two touches to one [B5-reconciled 2026-10-05: replaces "two flags to one"; the Crown-yard format is stated once, as two touches or as Rooke's own trial rule; OWNER #39; audit B2]; **the Blade
     notice**; Rooke "Both. Enter both."; Gault's nod; Withrow last out; Lira: "the first time this
     school has ever seen him"; the boards ritual — **"Still glad."**; not told; the covenant's cost
     written; the first pull (a lintel's edge); Anchor left in the kit, and why; **"Good room."** [20]
@@ -319,15 +345,15 @@ bouts. Cael barely moves for twelve chapters. The edition gives every movement a
 |---|---|---|---|
 | Wing-three supervised bout #1: **the managed band** (Cael vs a cohort partner, Ephram charting from the rail) | M1 | 1,500–2,000 | Teaches what holding a rate under observation costs; plants Ephram's tally and the lid that comes off in M8 |
 | The circle's **private floor** at night (Lira and Brom against Cael, honest; Storm's first full load since it settled) | M1 | 1,500 | Shows the true suite once, in private, so the reader knows what the band is hiding |
-| **Lira vs the senior third-year** (Iron R6, Force) | M2 | 2,500 | The program's first rated proof; buying a flag on purpose; Rooke's invoice |
+| **Lira vs the senior third-year** (Iron R7, Force [B5-reconciled 2026-10-05: audit C7; see §3 item 4]) | M2 | 2,500 | The program's first rated proof; buying a flag on purpose; Rooke's invoice |
 | Ephram and Brom at the frames (wordless measuring) | M2 | 800 | Two men learning a floor they expect to fight on; seeds the bout request |
 | Wing-three bout #2 under **the visitors' gallery** (four outside academies logged) | M3 | 1,500 | Cael must look exactly like his record in front of strangers taking notes; Rooke closes the floor afterward |
 | Seln's **service-side circuit**, walked with Cael (learning encounter, no blows) | M3 | 1,000–1,500 | The method under the finding, on the page instead of reconstructed |
-| **Lira vs the Silver R8** at the confluence (with Rooke's brief and the floor's four facts) | M4 | 3,500 | The ladder at its brightest; the right kind of loss; makes M9's walk-out cost |
+| **Lira vs the Silver R8** at the confluence [B5-reconciled 2026-10-05: cross-tier filing under the host's exhibition provision; two touches to one on the fourth exchange; see §3 item 10; audit B2, B3] (with Rooke's brief and the floor's four facts) | M4 | 3,500 | The ladder at its brightest; the right kind of loss; makes M9's walk-out cost |
 | The **fourth rider's placement rebuilt** on the Crown yard (Cael, Brom, Seln walking her geometry) | M4 | 1,000 | Turns inference into a model the reader can use on the road |
 | **The Ostrand road** (five against six; four exchanges with the specialist; the unbinding) | M5 | 6,000–7,000 across 1½ chapters | The book's midpoint set piece; earned acquisition; the first pole's death |
 | **Anchor practice, perception only** (the private floor; Karis's ignitions as thresholds; Brom holding the room; no deployment) | M6 | 1,500 | A learning session that teaches the new fragment's limits without spending a Book 7 first |
-| **Lira's return bout** (loss) and a later spring bout (win) | M7 | 2,000 + 1,500 | The ankle's real price; her own decisions about pain and the summer qualification |
+| **Lira's return bout** (loss) and a later bout in the term after the recess (win) [B5-reconciled 2026-10-05: season word struck; audit A1] | M7 | 2,000 + 1,500 | The ankle's real price; her own decisions about pain and the registry's Silver advancement evaluation that Rooke's program is building toward [B5-reconciled 2026-10-05: replaces the source's season-named qualification: the only qualification in canon is the regional qualifying season for the continental cycle, every three years (B5 ch1:161, ch28:193), so the source's term is defined here as the Silver advancement evaluation, which falls after the ruling; audit B9, A1] |
 | **Night spar, Cael and Lira**, closed floor (she asks for the rate he never shows) | M7 | 1,500 | Rehearses the lid privately; Lira decides what to say about it (nothing) |
 | **Seln's night road exercise** (walk a road in the dark without being counted) | M7 | 1,000–1,500 | Road-craft as a learnable skill; Brom's counting begins here |
 | Wing-three bout #3, the band holding while Ephram charts it a last time | M7 | 1,000 | Ephram's private decision forms; Cael's cost of hiding is now a cost of waiting |
@@ -335,7 +361,7 @@ bouts. Cael barely moves for twelve chapters. The edition gives every movement a
 | The road east (fords, scree, a blowing horse, camp-making) | M9 | in scene | Deliberately quiet movement; the body's challenge is distance |
 
 Carry every injury forward (ledger): Lira's ankle (six days strapped; three bouts lost; out of
-strapping well before the ruling), Brom's shoulder (a week), Karis's right hand (five days;
+strapping well before the ruling), Brom's left shoulder (a week) [B5-reconciled 2026-10-05: audit C13], Karis's right hand (five days;
 paler for good), Cael's forearm and ribs (eight days), the Crown-yard forearm and headache.
 A loss buys knowledge; it is never a disguised win.
 
@@ -344,13 +370,13 @@ A loss buys knowledge; it is never a disguised win.
 - **Cael's suite in use, front-loaded (M1–M3).** Each fragment shown at work with its limit: Wind's
   economy and burst cost; the Iron-adjacent surface read of loads and floors; Pressure; Compression
   absorbing at contact; Ember's spark; Storm's weight (the settling morning, alone, before dawn);
-  Shadow sealed at continuous cost. The managed band as a learned craft and a daily expense.
+  Shadow sealed, its rent paid from waking [B5-reconciled 2026-10-05: replaces "continuous cost"; audit C3]. The managed band as a learned craft and a daily expense.
 - **Anchor-adjacent (M5–M9).** Integration by fixity; the doorway's twelve seconds; the idle state
   kept by naming ("cheap and constant… for the rest of his life"); perception practice only;
   never deployed again in this book. **B7 owns the next deliberate uses** (the rim and the Hall).
 - **Blade-adjacent (M8–M9).** The edge-line in a lintel; housed beside Anchor; not used.
 - **Lira's Silver program (M1–M4, M7).** Continental sequences as a language; the four-count;
-  burst budgets (seven by the book; nine is expensive); the shoulder; then the ankle, the rehab,
+  burst budgets (three a bout by Rooke's rule for Lira; five is expensive [B5-reconciled 2026-10-05: audit B1]); the shoulder (healed at Norhold; at most the habit of carrying the left arm close [B5-reconciled 2026-10-05: audit A4]); then the ankle, the rehab,
   the return, and the notes she keeps for "a road with nobody's seal on it".
 - **Karis's method and her assistant (M1–M9).** "Find it"; one error a morning; the provision used
   once in a century; the dating by paper, type, seal and vocabulary; *a limit, not a finding*; the
@@ -368,7 +394,7 @@ A loss buys knowledge; it is never a disguised win.
 - Seln's lodge-counter quarter hour and the post-room sort (M3).
 - Lira's three carters at the ferry landing, three days, three subjects (M4).
 - Seln's letter west and its four-line answer (M5, his cutaway).
-- The midwinter recess at Halcenvane, and the merits sittings of the spring (M7).
+- The midyear recess at Halcenvane, and the merits sittings of the term after it (M7). [B5-reconciled 2026-10-05: season words struck; audit A1]
 - The four days in Ostrand before the ruling, the yard behind the guesting-house (M8).
 - The road east, days one to four, with the infrastructure thinning (M9).
 
@@ -393,7 +419,7 @@ secondary budget. Suggested beat counts across the book in brackets.
 Lighter threads (a beat or two each): Gault ("I have written that down"; the last note), Ilsev
 (the scope; the returns read verbatim), Jent (the honest compliments, "Roads are poor this month"),
 the counsel (twenty-six years; "Its absence is a finding"), Karis's assistant, Hesk and Daeva (by
-letter), the lodge-man, the Silver R5 from the river academy, the senior third-year.
+letter), the lodge-man, the newly Silver instructor from the river academy [B5-reconciled 2026-10-05: rank number not repeated; he met Lira at the wool town and lost; audit C8], the senior third-year.
 
 ### 4e. New episodes (each with its reason)
 
@@ -414,14 +440,14 @@ letter), the lodge-man, the Silver R5 from the river academy, the senior third-y
    Kindling record that did not match its practitioner, and files nothing, because any verification
    would be theater.
 9. **The clean door (M6–M7, PROVISIONAL mechanism).** Karis finds the reason they cannot simply
-   leave in December: withdrawal **pending ruling** is entered as flight (the default enters forty
+   leave before the ruling [B5-reconciled 2026-10-05: season word struck; audit A1]: withdrawal **pending ruling** is entered as flight (the default enters forty
    days after the fourth session's close, citing the flight — source Ch9), harms Halcenvane's
    charter and marks four files; withdrawal **after the ruling and before the revocation date** is
    *resigned in good standing* (the exact status Gault's note uses). So they must keep playing the
    corridor perfectly until the one honest door opens. This is the engine of M7 and needs no new
    canon beyond the source's own terms.
-10. **The long corridor (M7).** Midwinter recess; merits sittings; Lira's return; Brom's review
-    paperwork and the second Velmere envelope (unopened four weeks before the ruling — source Ch19);
+10. **The long corridor (M7).** The midyear recess [B5-reconciled 2026-10-05: season word struck; audit A1]; merits sittings; Lira's return; Brom's review
+    paperwork and the second Velmere envelope to arrive this year [B5-reconciled 2026-10-05: no series ordinal; audit B11] (unopened four weeks before the ruling — source Ch19);
     Ephram's decision; Seln's road-craft; Withrow's letters from other chancellors; the watchers.
 11. **Havel's rotation (M2, M5, M7, M8 windows).** A carrier kept honest and unknowing.
 12. **The road days (M9).** The thinning infrastructure is the book's last argument; give it
@@ -466,8 +492,8 @@ alternating chapters; never at a fight's decisive exchange.
 
 | Cutaway | Share | Where | Allowed to know | Must not know / reveal |
 |---|---|---|---|---|
-| **Seln** | ~3.7% (~11k) | M4 (the window after the council, ~3k); M5 (forensics, the catechism losing, the case carried, ~5k); M9 (the east road, ~3k) | His trade; fifteen years of duplicates; that his product was true and empty by design; the paper chain; the four grades of pressure; that the boy held something back at Norhold to protect a cover (inferred, unconfirmed until M6); after M6, the mechanism | Before M6: the cache's **content** stated (plant it — "maintenance records", "whose question it was" — never say *falsification*). Ever: who built the sub-layer; anything Architect, [UNBOUND], Quieting; any name or face in the faceless faction |
-| **Vastin** | ~3.0% (~9k) | M3 (the evaluator window, ~5k); M6 (after Ostrand: the junior's file reread, filed nothing, ~2k); M7 (the certification request declined in one line, ~1k); M9 (the summary returned unannotated, ~1k) | Thirty years of evaluation; the corridor; the denial; after M6 the falsification as the cache shows it | **Never the integration mechanism.** Never how long Seln's product was empty (LOCKED). No report, no file, no alliance, no departure, no classified-history material (Book 8). No theory of who built the layer |
+| **Seln** | ~3.7% (~11k) | M4 (the window after the council, ~3k); M5 (forensics, the catechism losing, the case carried, ~5k); M9 (the east road, ~3k) | His trade; fifteen years of duplicates; that his product was true and empty by design; the paper chain; the four grades of pressure; that the boy set his figures all season and spent his whole bank at Norhold on purpose (inferred: the two slips and the stove, the unmarked file; B5 M2, M3, M8; he also has Jask and the stair job); he does not know a sealed thing exists until M6; after M6, the mechanism [B5-reconciled 2026-10-05: replaces "held something back at Norhold to protect a cover"; audit B6] | Before M6: the cache's **content** stated (plant it — "maintenance records", "whose question it was" — never say *falsification*). Ever: who built the sub-layer; anything Architect, [UNBOUND], Quieting; any name or face in the faceless faction |
+| **Vastin** | ~3.0% (~9k) | M3 (the evaluator window, ~5k); M6 (after Ostrand: the junior's file reread, filed nothing, ~2k); M7 (the certification request declined in one line, ~1k); M9 (the summary returned unannotated, ~1k) | Forty years of evaluation [B5-reconciled 2026-10-05: OWNER #17; "thirty" struck; no age stated; "the Archmarshal"; audit A6]; the corridor; the denial; after M6 the falsification as the cache shows it | **Never the integration mechanism.** Never how long Seln's product was empty (LOCKED). No report, no file, no alliance, no departure, no classified-history material (Book 8). No theory of who built the layer |
 | **Lira** | ~2.5% (~7.5k) | M4 (after the Silver R8, the bout sheet; or the carters, ~2.5k); M7 (the return bout and the ankle, ~2.5k); M8 (the night after the council, ~1.5k); M9 (the corridor outside the class, ~1k) | Everything she has seen; the mechanism (since Book 1); the cache from M6; Fenmark as given | Her life before Fenmark beyond canon; any Architect/Quieting/Oryn; no romance |
 | **Havel** | ~2.5% (~7.5k) | M2 (the first session from the records table, ~1.5k); M5 (the seals registry and the sixth entry, ~2k); M7 (the merits sittings' exhibits; he rereads, does not write, ~2k); M8 (Ilsev's six minutes; the transfer, ~2k) | The Level 4 marker he was told to stand down about; the unplaceable seal; his own note | **Never learns the truth.** Never connects the seal or the flag to falsification. The note stops at **six entries** |
 | Faceless windows | ~1% (~3.5k) | M9: the morning clerk and the monitoring apparatus (~2k); the closing file (~1k) | What an office would record | No face, name, place or altitude for the faction; nothing past *what did he have* |
@@ -490,7 +516,7 @@ nullification, suspension, asset-restriction, evaluation seat, evaluator of reco
 Target ~58 hits per 10k across the book, shaped like the formula (900 / 471 / 514 by thirds):
 **first third ~83/10k, middle ~44/10k, last ~48/10k.** Teach hardest in **M1–M3**: every fragment
 in use with its limit and cost; Lira's program as a visible ladder (Iron R1 → Silver bracket; the
-R6 third-year; the R5 assessor; burst budgets); Brom's advancement procedure (Copper → Iron,
+R7 third-year; the Silver assessor [B5-reconciled 2026-10-05: ranks per audit C7, C8]; burst budgets); Brom's advancement procedure (Copper → Iron,
 standard panel, *anticipated*); Karis's tier and standing; chapter fourteen in full; Vastin's frames
 and evaluations; Daeva's Gold R3 statement; Withrow's nine categories. After M3 the system surfaces
 at turning points: the Silver R8 (M4), the Anchor notice and its integration (M5), the Blade notice
@@ -503,13 +529,13 @@ canon nouns: keep them few and flag them in the movement's state report.
 
 | Mvt | What appears or changes | Cost / limit on the page |
 |---|---|---|
-| M1 | Seven fragments shown in use; **Storm settles** (the flag clears after eleven weeks); the managed band in wing three; the full suite in private | The band is a daily expense; Shadow costs continuously and is never used |
+| M1 | Seven fragments shown in use; **Storm settles** (the flag clears after eleven weeks); the managed band in wing three [B5-reconciled 2026-10-05: the band is the scattered Halcenvane rate defined in §1 (audit A3); "wing three" is placed in §1 (audit C2)]; the full suite in private | The band is a daily expense; Shadow costs continuously and is never used |
 | M2–M3 | The band under the visitors' gallery; reading Jent (four nulls) | No appetite to read — the instrument fails on a man with nothing on him |
-| M4 | **Anchor Path inferred** from placement alone; the notebook's first Anchor page | "A shape and no numbers"; no range, no rate, no cost known |
+| M4 | **Anchor Path inferred** from placement alone; the notebook's first Anchor page [B5-reconciled 2026-10-05: with the Ternhall-anchors / Lattice Path / Anchor Path distinction drawn once; see §3 item 11; audit B4] | "A shape and no numbers"; no range, no rate, no cost known |
 | M5 | **Anchor-adjacent acquired** (reach directed, open-eyed, costed in advance; four exchanges of study at survival intensity). Notice verbatim (§8). **The unbinding** — the one deliberate use in this book | Skinned forearm; ribs (eight days); Pressure spent at combat load; Ember's spark; then the cascade: **fixity** proposals (~forty an hour), the **doorway fixed twelve seconds, uncommanded**, the idle state kept by naming; Storm resettles twice (forty minutes; a quarter hour). Karis: two days vs nine weeks; *for now* |
 | M6 | Perception practice only (lattice-perception; thresholds) | No deployment — Book 7 owns the next deliberate unbinding and the first deliberate hold |
 | M7 | Living with the idle state; the band held; Anchor kept in the kit | The not-deciding entered as a decision |
-| M8 | The lid comes off in the Crown yard (the band's efficiencies lost); **Blade-adjacent acquired** in earnest (cost written the night before); notice verbatim; the first pull — a lintel's *edge* raising its hand | Breath, the forearm going purple; a headache and no appetite on the road two days later; Ephram never told |
+| M8 | The lid comes off in the Crown yard (the band's efficiencies lost [B5-reconciled 2026-10-05: the Norhold rates and past them; audit A3]); **Blade-adjacent acquired** in earnest (cost written the night before); notice verbatim; the first pull — a lintel's *edge* raising its hand | Breath, the forearm going purple; a headache and no appetite on the road two days later; Ephram never told |
 | M9 | Inventory: **nine**; no tier | "Deployment since the Line: none." |
 
 **Fragment limits that belong to later books (do not pre-empt):** any deliberate Anchor hold or
@@ -536,7 +562,7 @@ character for character.**
 
 | Text | Source ch. | Called back / authority |
 |---|---|---|
-| The Anchor notice: <br>`FRAGMENT ACQUIRED` <br>`[unnamed] — Anchor-adjacent. Duration: sustained. Integration: partial.` <br>`Tier equivalent: Silver.` <br>`Note: fixed-point binding component; lattice-perception component.` <br>`Contact-to-short range.` <br>`Acquisition: directed. Engagement: adversarial, combat.` | 13 | Ledger; B7 inventories |
+| The Anchor notice: <br>`FRAGMENT ACQUIRED` <br>`[unnamed] — Anchor-adjacent. Duration: sustained. Integration: partial.` <br>`Tier equivalent: Silver.` <br>`Note: fixed-point binding component; lattice-perception component.` <br>`Contact-to-short range.` <br>`Acquisition: directed. Engagement: adversarial, combat.` | 13 | Ledger; B7 inventories [B5-reconciled 2026-10-05: keep the notice verbatim; the Ternhall-anchors / Lattice Path / Anchor Path distinction is drawn once on the page around it (§3 item 11); audit B4] |
 | The Blade notice: <br>`FRAGMENT ACQUIRED` <br>`[unnamed] — Blade-adjacent. Duration: sustained. Integration: partial.` <br>`Tier equivalent: Iron.` <br>`Note: edge-declaration component; line-reading component.` <br>`Contact range.` <br>`Acquisition: directed. Engagement: adversarial, earnest — non-hostile.` | 20 | B7 Ch13 ("Ephram's said *non-hostile*") |
 | "I knew the system was imperfect. I didn't know it was designed to be." | 17 | Bible verbatim; B8 Ch2 recalls it |
 | *active non-compliance, observation priority escalated* | 24 | Bible verbatim (source prose capitalizes it as two sentences — §11 #15) |
@@ -555,7 +581,7 @@ character for character.**
 | *They did this to me the other way — built the ladder to my height and called it fairness. Nobody files challenges against a favorite. Don't mistake what's happening to you for procedure. It stopped being procedure the day they couldn't score you.* / *— D.* / *The rematch stands. Keep yourself unclassified.* | 6 | Architecture verbatim |
 | *The rematch stands. Not postponed — relocated. It happens on a floor nobody owns…* (Cael's reply, whole as in source Ch23) | 23 | B7 carries the promise |
 | *Reydan will get his answer. Daeva will get her rematch. The road east is long, and it runs the right direction. Good.* | 24 | B7 Ch24 echoes |
-| *I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.* | 2 | Bible arc statement (first pole) |
+| *I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.* | 2 | Bible arc statement (first pole) [PENDING B5 M9 — audit A11/C8: "a stamp renewed four times" is protected and stays verbatim; the edition counts at most three renewals on paper (the twentieth of Reaping; the mill town; Norhold only if B5 M9 stages the optional session). Either the owner accepts Cael's rounding (counting the Greyvane entry stamp among the four), or B5 M9 stages the Norhold session and M1 notes in one clause that a sitting fell in the interval. OWNER item; no wording changed.] |
 | *I can work within the system. The system was never designed to include me.* | 24 | Bible arc statement (both poles) |
 | "Seln simply wasn't at his desk the next morning." (the image, as the chapter's first sentence) | 22 | Bible image |
 | The four walk-out images: Karis forfeits her ranking; Lira walks out of the last class she'll ever take at a formal institution; Brom carries three boxes of Karis's compiled materials; Seln isn't at his desk | 21–22 | Bible images |
@@ -610,7 +636,7 @@ them.**
 | **The Compact falsifies classifications** (SECRET → reveals Book 6) | **Discharged in M6** (cache opened ~ch 35–36; analysed ~ch 37–38) | Plant before (Seln's "maintenance records" window; Vastin's junior's mismatched file; "the room behind the room"); never state before M6. Reach: exactly six people. Not filed, published or used, and the book argues why (M6, M8) |
 | The Level 4 flag as the corrections function's contingency | Explained to the circle in M6 | Ilsev and Havel never told; their carriers stay intact |
 | The integration mechanism (Book 3 secret) | Expands to Seln only (M6) | Ephram, Vastin, Daeva, the public: never |
-| The sub-layer is older than the modification; [UNBOUND] (Book 8) | One controlled advance in M6 | **[UNBOUND] appears in exactly one chapter** (the analysis). No meaning, no danger explained. "The middle of the story. Not the beginning." |
+| The sub-layer is older than the modification; [UNBOUND] (Book 8) | One controlled advance in M6 | **[UNBOUND] appears in exactly one chapter** (the analysis) [B5-reconciled 2026-10-05: it is the series' second voicing; B4 ch50 voiced the older word once, lower-case, at Halcenvane (B4 STATE_LEDGER; B5 carries it read-and-closed); audit B5]. No meaning, no danger explained. "The middle of the story. Not the beginning." |
 | The Arbiter system is the Architect's infrastructure (Book 9; earliest plant Book 6, two plants) | **Plant only** | Plants: the leaf maintains "a layer it did not build" (*appended to*, the millwright and the river); Lira: "They *found* it… It isn't a long time compared to whatever's under it"; Vastin: every verification instrument "runs on the thing it indicts"; the last station's sigil, older than the paper around it. No maker named, no intent, no will |
 | The Architect, the Quieting, ruins, Path-dead ground | **Absent** | Nothing in this book brushes them. The edge territories are only unadministered |
 | Tide anomaly | Inventory references (M5, M9) and one non-connection check (M6) | Three words; never explained by the cache; **no Tide Path practitioner anywhere** |
@@ -638,8 +664,8 @@ third-year; the district officer; the morning clerk; Hesk's registry visitors; t
 keeper; the last watcher; the post-rider.
 
 **Names pending owner approval: none required.** One optional handle if the owner wants the
-river-academy instructor named for audio (he recurs through M1–M4 as "the Silver Rank 5 from the
-river academy"):
+river-academy instructor named for audio (he recurs through M1–M4 as "the newly Silver instructor from the
+river academy" [B5-reconciled 2026-10-05: rank number not repeated; audit C8]):
 
 | Placeholder | Role | Proposed | By-ear check |
 |---|---|---|---|
@@ -659,12 +685,12 @@ Hav- or Cr- candidate (standing rules).
 2. **The seam count.** The architecture says six travelers (Ch24 checkpoint "All six travelers";
    Ch21 "All five"); the prose and Book 7 say **five**. Ch12's prose also slips: "The six would
    arrive separately." **Edition: five everywhere**; Withrow's line is "All four."
-3. **Calendar and the birthday.** The source stages the eighteenth birthday in winter (Ch13–14) and
+3. **Calendar and the birthday.** The source stages the eighteenth birthday in its cold term (Ch13–14) and
    its month labels contradict each other (Ch6 "third month", Ch7 "fourth month", Ch14 "third
-   month"). The bible LOCKS one birthday per autumn; Book 7 fixes nineteen at day 102 past the Line
-   in late autumn and first snow at day 129. **Edition: the §2 academic-year calendar** (autumn
-   birthday; crossing in high summer). Consequences listed in §2, including Seln's null reports
-   continuing until the year's close.
+   month"). The bible LOCKS one birthday per year at the season it names; Book 7 fixes nineteen at day 102 past the Line
+   and first snow at day 129. **Edition: the §2 academic-year calendar** (the Line crossed after the
+   year's close). Consequences listed in §2, including Seln's null reports
+   continuing until the year's close. [B5-reconciled 2026-10-05: season words struck: #19's SHAPE stands, with no season or month names (OWNER #42 vs #35/#37 O1; default season-blind until the owner rules the series calendar); the birthday is the fixed date of §2, OWNER-pending #42; audit A1, B8]
 4. **Karis's closing.** Ch10: "She was not counsel. She could not argue." Ch18: Karis rises and
    argues the closing for fifty-one minutes (the architecture wants "Karis's masterwork").
    **Edition default:** the counsel moves for leave and the seat permits the respondent's
@@ -682,24 +708,22 @@ Hav- or Cr- candidate (standing rules).
    east of Ostrand". She is a woman (Ch11, Ch13; Book 7 "the woman on the Ostrand road"), and the cut
    lies on the river road west of Ostrand, two hours short of the city.
 8. **The satchel.** Ch24: "He had carried it in Hesk's satchel since Ardenmere." The satchel is the
-   eighteenth-birthday gift (Ch14). Also do not restate Book 5's "birthday gift in midwinter" for the
-   log volume — it fights the LOCKED autumn birthday.
+   eighteenth-birthday gift (Ch14). Also do not restate the source Book 5's season-dated birthday gift for the
+   log volume — it fights the LOCKED birthday placement. [B5-reconciled 2026-10-05: season words struck; audit A1]
 9. **Session nine's handwriting.** Ch24: "his own fourteen-year-old handwriting". Book 2's session
    nine was at fifteen.
 10. **Lira's years since Fenmark.** "Six years" (Ch3, Ch21, Ch23) vs "five years" (Ch7); Book 1 has
-    her fifteen when they meet and Book 3 says Fenmark's note stood two years. **Edition: "five
-    years", or no number.**
+    her fifteen when they meet and Book 3 says Fenmark's note stood two years. **Edition: no number, or "four years, near enough"** [B5-reconciled 2026-10-05: B5 did not increment B4's "three years" for Lira's bursts (B5 ch1:21); one year on is "four years, near enough"; replaces "five years"; audit C9].
 11. **Karis in Ardenmere.** Ch9: "since the four of them had first sat at a table together in a
     boarding-house in Ardenmere". Karis joined at Greyvane (Book 3 Ch5). Correct or drop.
 12. **Brom's father.** Ch14 "My father's forge"; Ch18 "a farrier's son". No prior canon; Book 2 makes
     Velmere a Gold-tier estate household (grandmother and mother Gold). **Default:** keep the
     forge-floor anecdote, don't make Brom "a farrier's son"; owner decision.
 13. **Vastin's age.** Ch17: "He's fifty-one years old." Bible: fifty-one at Book 4; Book 8: fifty-
-    three. **Edition: fifty-two, or unstated.** (Career length: Book 5 and Book 6 prose say thirty
-    years; Book 8's "forty" is his own rounding — keep thirty here.)
-14. **The river-academy Silver R5.** Book 5's confluence opponent was the river academy's **Iron R7**;
+    three. **Edition: age never stated** (OWNER #17); **career "forty years"** (OWNER #17; B5 ch24:255, ch29:223, ch5:21; B4 M9 ruling). [B5-reconciled 2026-10-05: reverses "fifty-two, or unstated" and "keep thirty here"; the edition governs, not the B6 source; use "the Archmarshal"; audit A6]
+14. **The river-academy Silver R5.** The river academy's **Iron R7 (Stone)** lost to Lira at the wool town (B5 ch7:203); at the confluence its entry was a Stone R8 beaten by Ephram (B5 ch21:93).
     Book 6 makes the man "a Silver Rank 5… who had fought her at the confluence and lost" a year
-    later — a tier and five ranks in a year. Owner decision; default: present him as newly advanced
+    later — a tier and five ranks in a year. [B5-reconciled 2026-10-05: the bout he lost to her was at the wool town, not the confluence; audit C8] Owner decision; default: present him as newly advanced
     to Silver and avoid repeating the rank number.
 15. **The closing designation.** Ch24 prose: *Active non-compliance. Observation priority
     escalated.* Bible: *active non-compliance, observation priority escalated.* **Edition: bible
@@ -709,10 +733,10 @@ Hav- or Cr- candidate (standing rules).
 17. **Havel's note.** "Traveled since Norhold" (Ch12) vs "since Ardenmere" (Ch18). Ardenmere (Book 2
     origin).
 18. **Seln's post.** The bible calls him a teaching assistant; Book 6 prose is explicit that he is the
-    assessment office's clerk ("there had never been a teaching assistant"). Keep the prose.
+    assessment office's clerk ("there had never been a teaching assistant"). [B5-reconciled 2026-10-05: REVERSED: the edition governs, not the B6 source. B4 ch48:17, :23 ("the teaching assistant got up from the copying table"), ch15:149 and B5 ch14:183 make Seln the wing's teaching assistant at the copying table behind the counter; the counter's desk clerk is another man (B5 ch2:117). B6 may keep his work clerical and his title small — "They're called clerks." stands as Seln's own joke about the apparatus — but never "there had never been a teaching assistant"; audit A5]
 19. **Architecture vs prose, minor:** the architecture's "a Kindling seven years ago" (prose: four);
     "Ostrand road… Chapter 13 acquisition tradition" fine; the architecture's Vastin "forty years"
-    (prose thirty). The prose governs.
+    (prose thirty). The prose governs [B5-reconciled 2026-10-05: except Vastin's career: "forty years" governs (OWNER #17; B5 ch24:255), and the Kindling count is stated as "since his Kindling" (OWNER #9, #18); audit A6, A9].
 20. **Reader Standard watch:** "damning" (Ch15) and "damned them" (Ch17) are verbs, not oaths, but
     they sound like the forbidden word aloud — use "condemning"/"condemned". No other issues found.
 
@@ -727,7 +751,7 @@ RE 69.4 (72.3), FK grade 8.4 (6.8). The source's signature is the long, many-cla
 sentence and the stacked appositive ("…, which was…, which…"). Keep the cataloguing *voice* —
 it is Cael — but carry it in short counted sentences and lists of short clauses; break paragraphs
 at each turn; let one long sentence land per scene, not per paragraph. Dialogue tags ~41/10k;
-combat vocabulary ~22/10k present in the background (wing three, the frames, the Silver floor) even
+combat vocabulary ~22/10k present in the background (wing three [B5-reconciled 2026-10-05: placed in §1; audit C2], the frames, the Silver floor) even
 in the legal chapters.
 
 Reader Standard (Gate 27) outranks every voice preference. Audio-first: attribute every line in
@@ -740,11 +764,11 @@ the five-way councils; never run Feryn/Oryn, Gunnar/Gault, or Brom/Bracken in on
 - Plan written by Opus (`claude-opus-5-5`), 2026-10-01, from: the edition brief; `universe/`
   canon rules, bible and state ledger; the series bible (Books 4–8 entries and spoiler ledger);
   the name registry (it has **no Book 5 or Book 6 census** — §10 is the census for this book);
-  the Book 6 architecture; all 24 source chapters in order; Book 5 Ch23–24; Book 7 Ch1 (plus
+  the Book 6 architecture; all 24 source chapters in order; Book 5 Ch23–24 [B5-reconciled 2026-10-05: for the entry state the edition's Book 5 governs: `book-05-the-silver-standard/manuscript/chapter-54.md`–`chapter-60.md` and its STATE_LEDGER "After Movement 8/9" coordinator rulings; the source Ch23–24 are events-only reference; audit A2]; Book 7 Ch1 (plus
   targeted checks of Book 7 Ch9, Ch14 and Books 7–8 callbacks for protected wording and calendar).
 - Seam to Book 7: five; the case rides on Seln; the three boxes go up onto a carter's grain in B7
   (the cart and horse of M9 are the author's to dispose of between books — hire it to the first
   hold, or sell it — Book 7 never mentions them); letters to Hesk and Vell held for a westbound
-  courier; "Deployment since the Line: none"; Shadow's continuous cost.
+  courier; "Deployment since the Line: none"; Shadow's rent from waking [B5-reconciled 2026-10-05: audit C3].
 - New PROVISIONAL mechanism introduced by this plan: **the clean door** (§4e #9). Flag it in the
   M6/M7 state reports for ratification.

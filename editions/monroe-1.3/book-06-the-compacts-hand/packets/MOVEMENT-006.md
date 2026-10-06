@@ -10,7 +10,7 @@
 
 ## Where we enter
 
-Early winter, before the midwinter recess. Eighteen, eight fragments, the doorways quiet. The case has been down from its shelf for days. Five people will come to a stone room two floors below the library by three routes across an hour.
+The cold term, before the midyear recess [B5-reconciled 2026-10-05: season words struck; audit A1]. Eighteen, eight fragments, the doorways quiet. The case has been down from its shelf for days. Five people will come to a stone room two floors below the library by three routes across an hour.
 
 ## What this movement is for
 
@@ -19,8 +19,8 @@ Discharge Series Secret #2 on schedule and at full weight — objects first, int
 Consequential turns:
 - **The cache, in order**: reclassification orders clipped to Kindling records (forty; "nine weeks of nothing"; **the river-town father's letter and the clerk's honest four-line answer**); field reports (corrected down, never up); two centuries of memoranda (*corrective classification at Kindling evaluation*; Brom: "That's a form."); the leaf in its sleeve (*advisory corrections function*). Seln's four movements; **the finding said once**; "How many?" / "I stopped estimating."; Lira on what being pleasant cost him; "My mother's ledger was always right."
 - **The debt paid**: Cael tells Seln the mechanism, end to end; Seln's four questions are about exposure; "You may say it to me twice more in your life"; the Shadow seal and Norhold; **"You kept my file too, then."** Seal maintained, grounds revised.
-- **Two Hundred Years** — Karis's four findings, each landing on a carried thread: the mechanism and **reach, not strength**; the flag as the corrections function failing safe — *"She just never knew what was answering."* (Ilsev and Havel never told, in eleven words); **the strata** — [UNBOUND] said **once**, here only; *close the door, remove the exit, delete the name*; **the limit, verbatim**; Lira: "They *found* it… It isn't a long time compared to whatever's under it." (a Book 9 plant); the anomaly checked — *Not this either. Still open.*; the stratum note paid (re-evaluation as delivery mechanism); Seln: "A convenience cannot." It can't be filed. "It isn't broken. It's maintained." Lira on the stair: **"It's not evidence. It's a map."**
-- **The clean door** (new, PROVISIONAL — BOOK_MAP §4e #9): somewhere in these days Karis finds why they cannot simply resign now — withdrawal pending ruling is entered as flight; after the ruling and before revocation it is *resigned in good standing*. They must keep playing the corridor perfectly until summer.
+- **Two Hundred Years** — Karis's four findings, each landing on a carried thread: the mechanism and **reach, not strength**; the flag as the corrections function failing safe — *"She just never knew what was answering."* (Ilsev and Havel never told, in eleven words); **the strata** — [UNBOUND] said **once**, here only [B5-reconciled 2026-10-05: this is the series' second voicing; B4 ch50 voiced the older word once, lower-case, at Halcenvane (Karis, one factual clause), and B5 carries it read-and-closed; this chapter builds on ch50 and does not discover it; audit B5]; *close the door, remove the exit, delete the name*; **the limit, verbatim**; Lira: "They *found* it… It isn't a long time compared to whatever's under it." (a Book 9 plant); the anomaly checked — *Not this either. Still open.*; the stratum note paid (re-evaluation as delivery mechanism); Seln: "A convenience cannot." It can't be filed. "It isn't broken. It's maintained." Lira on the stair: **"It's not evidence. It's a map."**
+- **The clean door** (new, PROVISIONAL — BOOK_MAP §4e #9): somewhere in these days Karis finds why they cannot simply resign now — withdrawal pending ruling is entered as flight; after the ruling and before revocation it is *resigned in good standing*. They must keep playing the corridor perfectly until the ruling [B5-reconciled 2026-10-05: season word struck; audit A1].
 - **Anchor practice, perception only** (new, ~1,500): the private floor; Karis's ignitions as thresholds; Brom holding the door; what the lattice-sense reads in an ordinary room; nothing deployed.
 - **The Instrument**: worst versions said in turn; Karis's rule (**he gets the cache, nothing about Cael**), said aloud by all five; five hands, Seln's last; the borrowed office four streets back from the registry seat; Vastin early, up the front stair; the reading; the longest silence; **the line**; three refusals; nine thousand evaluations; "Are you with us?" / "No. I am not with anyone."; thanks the room. Seln: "He was not managing us."
 - **Vastin's window** (~2k, new): back at his desk; the northern junior's file from M3 taken out and read again; he can verify nothing that would not be theater; he files nothing; he does not write.
@@ -33,6 +33,8 @@ Consequential turns:
 - Vastin never receives the mechanism; never learns how long Seln's reports were empty; joins nothing; reports nothing; takes nothing.
 - The anomaly is not the falsification and is not explained by it. No Tide practitioner.
 - Anchor: no deployment.
+- [B5-reconciled 2026-10-05: Shadow's age where it is stated (the seal's telling, Norhold): "two years, near enough" or "since the stair"; never the source's "two and a half years" (B5 ch45:29 has "a year, near enough" at Norhold); audit B7.]
+- [B5-reconciled 2026-10-05: Daeva's Kindling, where the cache discussion reaches it: "thirteen, in a garden court", exactly; if numbers are used, "six years since the garden court, seven in the program"; Daeva is nineteen (B5 ch49:23, ch52:263; OWNER #16); audit B10.]
 
 ## What the author owns
 
@@ -40,4 +42,4 @@ How long objects stay on the table before anyone speaks; which pairs are read al
 
 ## Where we leave pressure
 
-"He didn't join us. I'd have trusted him less if he had." Then Vastin alone with a file he cannot verify. Next: midwinter, and a corridor whose doors they now know were set before their names — and which they must still walk.
+"He didn't join us. I'd have trusted him less if he had." Then Vastin alone with a file he cannot verify. Next: the midyear recess, and a corridor whose doors they now know were set before their names — and which they must still walk.

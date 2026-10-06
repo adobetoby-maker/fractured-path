@@ -10,7 +10,7 @@
 
 ## Where we enter
 
-Mid-autumn. The response is filed; the first session has sat; the presiding seat has no face. Vastin's courtesy copy is in the western administration's morning file.
+The first term, middle weeks [B5-reconciled 2026-10-05: season word struck; audit A1]. The response is filed; the first session has sat; the presiding seat has no face. Vastin's courtesy copy is in the western administration's morning file.
 
 ## What this movement is for
 
@@ -19,7 +19,7 @@ Show the institution's reach as paper while the defense wins every point it can 
 Consequential turns:
 - **Vastin's window** (~5k): the courtesy copy, not a query; his sentence adopted; the nine leaves and the twelfth question; the two chapter-fourteen files and the daughter's letter; the petition (two old provisions; four-for-four); **the junior's troubling Kindling file** — "continue observation" (a falsification **plant**; he cannot say why it stays with him); the wrong step on the stair; **the two-sentence denial**; the craftsman receiving his own technique; the finding written by candle to no one; **"Pending a proceeding worth sending it to."**
 - Halcenvane hears it sideways; Withrow on the sentence she taught as a kindness; the counsel's "Its absence is a finding"; Seln's "They benched their best instrument because he measures true" — and Brom on the stair: he was talking about himself too.
-- **Public Record**: the assistant's market sheets and the man who bought a second press; correspondents and Rooke's one sentence; Bracken's post procedure; Lira's three piles and the schoolroom letter; the cost lands on the others first (the visitors' log; the closed floor; Velmere's third letter; Karis's standing queried; the assistant "boring"). **Wing-three bout under the visitors' gallery** (new, ~1,500): the band held in front of strangers taking notes.
+- **Public Record**: the assistant's market sheets and the man who bought a second press; correspondents and Rooke's one sentence; Bracken's post procedure; Lira's three piles and the schoolroom letter; the cost lands on the others first (the visitors' log; the closed floor; another Velmere letter [B5-reconciled 2026-10-05: never counted by series ordinal; Velmere letters are plural in B4 ch16; audit B11]; Karis's standing queried; the assistant "boring"). **Wing-three bout under the visitors' gallery** (new, ~1,500): the band held in front of strangers taking notes.
 - **Umber's transmission; the second session's fifty-one minutes** of the truth read in unopposed; **Daeva's statement** (Bracken walks it up at speed; four marks; "Never. Not at Gold.") and **her letter**.
 - **Seln's service-side circuit, walked with Cael** (new): the lodge counter, the post-room sort; "He is holding a road." The four queries; Karis's blank fifth line; **Hesk's letter**; **pre-restriction inventory** — nine weeks, the sixth; **"The question is what we do the day after."** Withrow's completed inventory, told flat: "Not a hand on the door. A hand on the clock."
 - **Preliminary**: lot seventeen; **Ilsev empanelled**; Jent conceding and striking his own overstatement; the counsel's four movements; the ruling — both things at once; Ilsev's scope entered in her words. Coach: "And it's proceeding." **"…started counting doors."**
@@ -27,7 +27,7 @@ Consequential turns:
 ## What must remain true / withheld
 
 - Protected: the denial's two sentences and the folder tab; Daeva's statement and letter verbatim (BOOK_MAP §8); Hesk's "Two polite men…" letter verbatim.
-- Vastin knows nothing of the cache, the mechanism or any sub-layer. His unease at the junior's file stays **unnamed** — no theory, no word for it. His age, if stated: fifty-two. Thirty years.
+- Vastin knows nothing of the cache, the mechanism or any sub-layer. His unease at the junior's file stays **unnamed** — no theory, no word for it. No age is stated (OWNER #17). Forty years; "the Archmarshal" [B5-reconciled 2026-10-05: replaces "fifty-two … Thirty years"; B5 ch24:255; audit A6].
 - Withrow's restriction story: no scene at the man's house, by design.
 - Daeva's statement is noted and set aside; her letter answered only at the Line (M9).
 - No falsification stated; no [UNBOUND]; the faceless layer only as paper and pattern.

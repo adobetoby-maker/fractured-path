@@ -10,7 +10,7 @@
 
 ## Where we enter
 
-Late autumn, days after the escort order. The inventory waits in five offices. A documentary sitting at Ostrand needs the enrollee in person. Lira's shoulder reports clean.
+The first term's later weeks, days after the escort order [B5-reconciled 2026-10-05: season word struck; audit A1]. The inventory waits in five offices. A documentary sitting at Ostrand needs the enrollee in person. Lira's left shoulder reports clean [B5-reconciled 2026-10-05: sided LEFT; audit A4].
 
 ## What this movement is for
 
@@ -19,7 +19,7 @@ The book's midpoint set piece and its bill. The keeper chooses; the unofficial c
 Consequential turns:
 - **Seln's window** (~5k): the paper traced (the watermark's sixteenth of an inch; the fourteenth lot with a mark where a word should be); two favors spent; the four grades of pressure, named in order; **the catechism, said once, and watching it lose** — quietly, the largest event of his adult life; the case carried across campus; **"You're sure." / "No. That's how you'll know it's true."**; the annex chosen; the floor-schedule cipher (five arrivals, not six); a null report filed in the old pattern — **not** "the last of its kind" (calendar: he keeps filing until the year's close).
 - **Havel's window** (~2k): the seals registry checked three ways; **the sixth entry**, the last.
-- **The Ostrand road** (~6–7k across one and a half chapters): the trip's shape; the cut (440 yards; the undercut; the culvert and milestone); **fourteen anchors**; "Custody. Not assault."; Lira breaks the perimeter's timing (four bursts, the ankle); Brom holds the twelve feet (two contacts, the shoulder); Karis frays the near courses (blistered right hand); Seln absent from every sightline; **four exchanges with the specialist** — subtraction, accumulation, the forearm skinned on camber, the cage three points from finished; **the reach: directed, open-eyed, mid-fight, its cascade costed in advance**; **the unbinding**; the team breaks off in four heartbeats; her one second of a look.
+- **The Ostrand road** (~6–7k across one and a half chapters): the trip's shape; the cut (440 yards; the undercut; the culvert and milestone); **fourteen anchors**; "Custody. Not assault."; Lira breaks the perimeter's timing (four bursts, the ankle); Brom holds the twelve feet (two contacts, the left shoulder [B5-reconciled 2026-10-05: his sore shoulder at Norhold was the left, healed since; audit C13]); Karis frays the near courses (blistered right hand); Seln absent from every sightline; **four exchanges with the specialist** — subtraction, accumulation, the forearm skinned on camber, the cage three points from finished; **the reach: directed, open-eyed, mid-fight, its cascade costed in advance**; **the unbinding**; the team breaks off in four heartbeats; her one second of a look.
 - **The notice on the road bank** (verbatim) and "Eight… a hand and no face." The bills paid around him.
 - **They attend the sitting** with road dust; Jent: "Roads are poor this month." The four-minute coach decision not to report ("manufactured theater"). **"The room was never the system."**
 - **Eighteen**: the postponement by floor schedule; the cascade — **fixity**, forty courteous proposals an hour; **the doorway fixed for twelve seconds, uncommanded**; the idle state found by naming; Storm resettles twice; Brom's rota and the forge-floor line ("You've measured. That's the part that's yours."); Karis's curve, *for now*. The birthday: paper face-down; Ephram's tally; Seln's "It is a good room. I have been in a great many."; **Hesk's satchel and note**; Lira's three bouts said aloud. Inventory: eight. *Still open. Still real. Patience.*
@@ -29,14 +29,14 @@ Consequential turns:
 - Protected: the Anchor notice verbatim; *Eight… Write it down anyway.*; Hesk's eighteen note verbatim; *Still open. Still real. Patience.*; the catechism's four lines; "It is a good room…".
 - **The specialist is a woman, unnamed**, the cut lies on the river road **west** of Ostrand (BOOK_MAP §11 #7).
 - **Anchor: one deliberate use (the unbinding) and one uncommanded twelve-second fixing.** No other use in this book; no deliberate hold (Book 7 owns it).
-- Calendar: **the birthday falls in late autumn**, about the year's third month (BOOK_MAP §2). Cael is seventeen until it, eighteen from it.
+- Calendar: **the birthday is a fixed date** — "the eleventh of Sowing" by default, never beside a season word; no month-of-year ordinal and no cross-year day count (BOOK_MAP §2) [OWNER-pending #42] [B5-reconciled 2026-10-05: replaces the source's season-named, month-ordinal placement; audit A1, B8]. Cael is seventeen until it, eighteen from it.
 - The faction: no faces, no names, no paper this time; no third move afterwards.
 - Seln does not open the case in this movement. Havel learns nothing.
 - Brom's father: keep the forge anecdote; don't call him a farrier's son (§11 #12).
 
 ## What the author owns
 
-The fight's moment-to-moment tactics inside the given exchanges; how much of the road's ensemble is seen from Cael's eye; the specialist's craft details (consistent with Anchor Path as defined: fixed points, lattices, re-anchoring costs a half-second); the birthday's texture and who sings; the order of the cascade's hours.
+The fight's moment-to-moment tactics inside the given exchanges; how much of the road's ensemble is seen from Cael's eye; the specialist's craft details (consistent with Anchor Path as defined: fixed points, lattices, re-anchoring costs a half-second) [B5-reconciled 2026-10-05: when the road is read, Karis or Cael draws the distinction once on the page: Ternhall's anchors are planted footholds that drain heat (B5 ch34:35, ch46:65), the Lattice Path is invisible lines (B4), Anchor Path holds people; the notice stays verbatim; audit B4]; the birthday's texture and who sings; the order of the cascade's hours.
 
 ## Where we leave pressure
 
