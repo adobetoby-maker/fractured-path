@@ -1,1 +1,18 @@
 # Book 6 protected patterns (regex lines; apostrophes as .?) — packet/§10 lines kept whole
+# M1 packet lines (kept whole)
+it.s heavier than it looks from the rail
+i have signed that line myself nine hundred times
+i don.?t know why that distinction feels important noting it
+# M1 — Vastin's advisory quoted whole (Book 5 §10 item 5, B5 ch5)
+the enrollment is lawful on its face and adjudicated at public record
+if the compact wishes practitioners of this kind not to compete it should write different rules
+# M1 — Tier B (BOOK_MAP §10): the challenge's first page (ch5)
+to the chancellor halcenvane academy and to the enrollee of record cael unclassified enrolled under the demonstration provision of the assay clause jointly
+be it known that the guilds compact by its registry having convened formal proceedings upon the question of the classification designated shattered and its bearing upon evaluation integrity within chartered institutions hereby files a formal challenge to enrollment basis against the said enrollment
+the challenge does not allege fraud in the enrollment.?s execution nor contest the text of the provision under which it was executed it asserts that an unclassifiable practitioner.?s presence within a chartered institution.?s evaluation architecture presents an evaluation integrity question which the demonstration provision was not drafted to answer and cannot answer and petitions the registry for compelled re evaluation of the enrollee under standard arbiter protocol the enrollment to stand or fall upon that evaluation.?s result
+proceedings to be convened at the registry seat at ostrand upon a
+the respondent institution and the enrollee of record are directed to answer within fourteen days
+# M1 — Tier B (BOOK_MAP §10): chapter fourteen as Bracken reads it (ch6, ch7)
+part two suspension of practitioner status pending review such review to be initiated by the registry at its discretion
+where an evaluation conducted under standard arbiter protocol returns no valid classification the following shall apply in sequence one nullification of any enrollment sponsorship or standing predicated upon the evaluand.?s practitioner status two suspension of practitioner status pending review such review to be initiated by the registry at its discretion three
+asset restriction section fourteen part nine the registry may restrict freeze or hold in abeyance any standing record sponsorship endorsement travel credential or institutional relationship attaching to an unclassified person pending resolution of practitioner status
