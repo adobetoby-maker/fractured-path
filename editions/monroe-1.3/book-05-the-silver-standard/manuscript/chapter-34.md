@@ -12,7 +12,7 @@ Karis had laid out her work as she always did. Her notebook lay open at a fresh 
 
 The four columns were empty.
 
-From the way the pen lay, square to the edge of the page and dry at the nib, Cael guessed she had been sitting in front of them for an hour.
+From the way the pen lay along the edge of the page, dry at the nib, Cael guessed she had been sitting in front of them for an hour.
 
 He took the chair opposite. "Shall I run it? The way we always do."
 
@@ -40,7 +40,7 @@ Karis had grown hers against Ivenne's.
 
 She came back to the table and sat. "Now ask the other question. The one that's actually useful."
 
-He thought for a moment. "And the other way about? What of yours came from her?"
+He thought. "And the other way about? What of yours came from her?"
 
 "Every one." Karis picked up the russet packet, held it a moment in both hands, and gave it to him. "Third page. The last paragraph. Read it to me aloud, would you? I've read it to myself. I want to hear how it sounds in somebody else's mouth."
 
@@ -50,7 +50,7 @@ He found the paragraph and read it.
 
 He put the packet down. The handwriting under the print was small and slanting and very clear.
 
-"That's Ivenne's hand," said Karis. "I'd know it in the dark. That's the truest thing anybody has ever written about me, Cael, and I've written a great deal about myself."
+"That's Ivenne's hand," said Karis. "I'd know it in the dark. It's true, Cael. Truer than anything I've written about myself, and I've written a great deal."
 
 "Standardization is legibility," he said quietly.
 
@@ -58,7 +58,7 @@ He put the packet down. The handwriting under the print was small and slanting a
 
 At the end of the room Brom had stopped turning pages.
 
-Karis looked down at her ruled leaf for a long while, and Cael watched her follow the thing through to its end, carefully, as she followed everything, even when the end was plainly going to be somewhere she did not want to arrive.
+Karis looked down at her ruled leaf for a long while, and Cael watched her follow the thing through to its end, carefully, even when the end was plainly going to be somewhere she did not want to arrive.
 
 "Everything I have ever written about an opponent," she said at last, "is worth something only because I know a thing the opponent doesn't know I know. That's all study is. It's a gap between two people's knowledge, and you live in the gap. And there's no gap here. Whatever I could put in these columns, she put in hers two years ago. We each hold the other's key." She stopped. "Except that isn't true either. Hers is the one that's rusted."
 
@@ -104,7 +104,7 @@ Rooke stood at the side with his arms folded and watched it for most of the morn
 
 Lira nodded and wrote it on the inside of her wrist.
 
-Cael stood at the edge of the floor with the notebook open and did not write anything for a while. A coach was telling his fighter to give away the opening of the biggest bout of her life, and to use it for taking notes. He turned it over and could not find a single coach he had ever met who would have said it, and he thought that no opponent had ever been paid a higher compliment by a man she had never spoken to.
+Cael stood at the edge of the floor with the notebook open and did not write anything. A coach was telling his fighter to give away the opening of the biggest bout of her life, and to use it for taking notes. He turned it over and could not think of another coach who would have said it. It was a large compliment to pay a woman he had never spoken to.
 
 In the afternoon Lira ran her corner work against Ephram's Zerin, first at a walk, then at speed, then at speed with every burst counted and the bill added up after each run. Ephram's lungs gave out long before her ideas did. At the end he sat down on the floor with his back to the wall and his head between his knees, and Lira brought him a cup of water and stood over him while he drank it.
 
@@ -152,7 +152,7 @@ He found a place in it and named it, and the captain closed it, and Marek found 
 
 Twice the whole Rhagen floor stopped to watch them.
 
-Brom leaned on the rail with his forearms crossed and said nothing for a long time.
+Brom leaned on the rail with his forearms crossed and watched for a long time.
 
 "They're not training," he said at last. "They're peer-reviewing."
 
@@ -186,13 +186,13 @@ He passed it to her without a word. Then he filled her cup from the jug, and whi
 
 He set the jug down. "Then one week you stopped coming at me. You went round. You made me chase you all over the oak until I was blowing like a carthorse, and you touched me on the back of the neck, and I sat down on the floor." He went back to his own plate. "You beat me the times you made me play yours. Don't play hers."
 
-Lira looked at him over the bread for a while. Then she nodded once and ate.
+Lira looked at him over the bread. Then she ate.
 
 Karis gave Lira a page from her notebook.
 
 She tore it out at the table where everybody could see.
 
-Nobody said anything about it, but every one of them noticed, because in two years none of them had ever known Karis give away so much as a corner of a page. She folded it once and passed it down the board.
+Nobody remarked on it, but every one of them noticed, because in two years none of them had ever known Karis give away so much as a corner of a page. She folded it once and passed it down the board.
 
 It was the panel for the semifinal.
 
@@ -218,7 +218,7 @@ He turned his cup in his hands. "They teach it from the first week. And there's 
 
 "Keeping your best people cheap on purpose." Karis wrote it down. "Institutional banking. It's what Brom does on his own, done by a whole house with a press."
 
-Brom had been listening with his hand flat on the notations. Now he looked round the table.
+Brom had been listening with his hand on the notations. Now he looked round the table.
 
 "I've been him," he said. "All year. Cheap on paper, and every round somebody across the floor who'd got ready for the price." He tapped the pages. "Now we meet. Two bargains on one floor, and you can't get a bargain off a bargain. So it's his trade against mine, both at the proper price. He finds doors. I charge for them."
 
@@ -226,7 +226,7 @@ Brom had been listening with his hand flat on the notations. Now he looked round
 
 Brom took his time, as he always did, and nobody hurried him.
 
-"Since the slate country," he said, "every man who's fought me has had my old page three in his pocket. He won't. He'll have read it, and he'll put it down after one touch, and then he'll go looking at what I am now." He gathered the pages together and squared them, slowly. "Nobody's looked at me properly since the mending. Plenty of people have looked at the dossier. I'd like to hear what he finds."
+"Since the slate country," he said, "every man who's fought me has had my old page three in his pocket. He won't. He'll have read it, and he'll put it down after one touch, and then he'll go looking at what I am now." He gathered the pages together, slowly. "Nobody's looked at me properly since the mending. Plenty of people have looked at the dossier. I'd like to hear what he finds."
 
 *Brom has drawn the best reader on the continent,* Cael wrote afterward, *and the thing he's happiest about is that he'll finally get a proper inspection.*
 
@@ -234,7 +234,7 @@ Brom took his time, as he always did, and nobody hurried him.
 
 ---
 
-Rooke had given Lira the whole commercial file on Zerin in the morning, eleven pages bound in grey board with the shop's stamp on its cover. She had read the first ten at the rail between sessions. The eleventh she had kept back for the little room, and for him.
+Rooke had given Lira the whole commercial file on Zerin in the morning, seven pages bound in grey board with the shop's stamp on its cover. She had read the first six at the rail between sessions. The seventh she had kept back for the little room, and for him.
 
 It was not a page of times.
 
@@ -254,7 +254,7 @@ For a while neither of them spoke.
 
 "And Auremont kept her, and built her properly, every door opened in the right year with the right key. Tomorrow the two of us find out what each way of making a fighter is worth."
 
-Cael sat with that while the lamp hissed. He found that he was trying, without meaning to, to imagine his own other road, the version of him somebody might have been supposed to build. There was nothing there to imagine. No program on the continent had a page for a boy like him, and no shop sold a file that began where his began.
+Cael sat with that while the lamp hissed. He caught himself trying, without meaning to, to imagine his own other road, the version of him somebody might have been supposed to build. There was nothing there to imagine. No program on the continent had a page for a boy like him, and no shop sold a file that began where his began.
 
 Lira had a road she had not been allowed to walk, and a woman walking it, and she could stand on a floor and look at it. He had never had one. He had only ever had the road he was on, and he had laid most of it himself, a stone at a time, a little ahead of his own feet.
 

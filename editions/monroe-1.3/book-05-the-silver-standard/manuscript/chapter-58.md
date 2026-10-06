@@ -70,7 +70,7 @@ Karis spoke first. She always did when a paper was on the table.
 
 "Nothing written," she said. "Think about what that means for us. This whole house runs on one rule, and it's kept you alive since the bluff. If it's on paper, we can survive it. Every word of the hearing was written down, and that's why we could fight it. The provision's on paper. The roster was on paper and that's the only reason you were on a floor at all." She touched the note with one finger. "He's asking you to walk out of the one place we've ever been safe. Whatever's said up there, afterwards there's his memory of it and yours, and his comes with a grey coat and a seal."
 
-"And friendly isn't a safe word from them," said Lira. "I've been asked into a friendly room by an institution. At Fenmark, the morning they told me I was finished there. Everybody was very kind." She folded her arms. "It was the kindest room I've ever been in, and I walked out of it with nothing."
+"And friendly isn't a safe word from them," said Lira. "I've been asked into a friendly room by an institution. At Fenmark, the morning they told me I was finished there. Everybody was very kind." She folded her arms. "It was a very kind room, and I walked out of it with nothing."
 
 Brom said one thing.
 
@@ -82,7 +82,7 @@ Cael heard them all out, every one, as the house's custom was. Then he said no t
 
 "I asked for a witness once," he said, "with a warden across a table from me. I was right to. That man was a piece of the machine, and you don't sit down with a piece of the machine without somebody to say afterward what was said." He looked at the note. "This one's different, and I've had a year to learn how. Eleven questions in a room on the bluff. Three sentences of advisory. A chair held for him that he never asked for, two notes, and a walk out before the figure." He turned the note over. "Every move he's ever made toward me he's made in ink, and signed with his whole name. This is the first thing he's ever asked for that he can't sign. A man like that doesn't give up his ink to set a trap. He'd use the ink." He folded it. "I want to know what's worth that much to him."
 
-Nobody argued further. They did not need to; they had been heard. Karis nodded once, as she did when a figure came out right. Lira let her arms go.
+Nobody argued further. They did not need to; they had been heard. Karis nodded. Lira let her arms go.
 
 Seln was at the door. Nobody had heard him come up. He had the pouch under his arm and he had evidently been there for some of it, and he did not apologise for that, or come in.
 
@@ -102,7 +102,7 @@ He took up the pen again.
 
 *Exhibition, finals day, against the filed Gold challenger of Auremont. Subject fought four exchanges. Capabilities exercised: as in the public record attached, entire. Result and entry: as attached. Observation in this instance is complete, the event having been public.*
 
-He read it through. Every word was true, and every word was all of the truth that was his to write. That had never happened to him before in this work. He found that his hand wanted to go on and write the last line of the form, the line he had written at the foot of every report for a year, the one word that closed it.
+He read it through. Every word was true, and every word was all of the truth that was his to write. That had never happened to him before in this work. His hand wanted to go on and write the last line of the form, the line he had written at the foot of every report for a year, the one word that closed it.
 
 He held the pen over the space and did not write the word.
 
@@ -132,7 +132,7 @@ The stair went up round the inside of the tower, and the room was at the top of 
 
 The room was full of clocks.
 
-They stood on shelves round all four walls, and on the long table, and two of them hung over the door. Some were brass and some were wood, and a few were in pieces, with their works laid out on cloths. Each had a card tied to it with a date and a hand. And every one of them was ticking, and no two of them said quite the same time. The noise in the room was like rain on a roof. It was the timekeepers' office for the whole Concourse, where every clock the sitting used was brought to be set against the tower's great one and sent out true, and it belonged to nobody in the sitting at all.
+They stood on shelves round all four walls, and on the long table, and two of them hung over the door. Some were brass and some were wood, and a few were in pieces, with their works laid out on cloths. Each had a card tied to it with a date and a hand. And every one of them was ticking, and no two of them said quite the same time. The room was loud with them, a dry, steady pattering. It was the timekeepers' office for the whole Concourse, where every clock the sitting used was brought to be set against the tower's great one and sent out true, and it belonged to nobody in the sitting at all.
 
 Hesk had written to him in the cold term that in a big city every clock disagrees with every other, and every one of them is certain. Cael had never been in a room that proved a letter so thoroughly.
 
@@ -174,7 +174,7 @@ Cael put the eight in a row in his head.
 
 "Who sends you the minutes?"
 
-"I can't name him. I'm not certain there is a him. The better question took me a long while to find. Who decides which men are sent minutes, and which men are left off the list?" He said it flatly, as he would have read a line off a form. "I put it on paper once and sent it where such things are meant to go. Within the week it came back. It was very civil and there was nothing in it. I have not asked again." He looked at his left hand. "I've noticed, lately, that I have stopped meaning to. I don't care for that. I tell you so that you'll know it about me."
+"I can't name him. I'm not certain there is a him. The better question took me a long while to find. Who decides which men are sent minutes, and which men are left off the list?" He said it evenly, as he would have read a line off a form. "I put it on paper once and sent it where such things are meant to go. Within the week it came back. It was very civil and there was nothing in it. I have not asked again." He looked at his left hand. "I've noticed, lately, that I have stopped meaning to. I don't care for that. I tell you so that you'll know it about me."
 
 He was quiet for a while then.
 

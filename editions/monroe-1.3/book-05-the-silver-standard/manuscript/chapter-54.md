@@ -12,11 +12,11 @@ He dressed slowly. There was nothing to hurry for. Everything that could be done
 
 The keeper was on the stair when they came down, as he was every morning, and he counted them past him under his breath as he always did. He got to five. Then he did a thing he had not done in three weeks of mornings. He stood aside against the wall, and took his cap off, and held it against his chest until the last of them had gone by.
 
-Nobody said anything about it. Ephram, at the bottom, looked back up at him and nodded, and the keeper nodded too, as if they had settled something between them.
+Nobody remarked on it. Ephram, at the bottom, looked back up at him and nodded, and the keeper nodded too, as if they had settled something between them.
 
 Brom had found food. Nobody had asked him to and nobody had seen him go out for it, but there was a loaf on the long table that had not been there at midnight, still warm in its cloth, and a crock of butter, and a paper of salt fish from the quay, and he was cutting the loaf into slabs with his bandaged forearms held well out of the way. Cael ate two. He did not taste them. He ate them because Rooke would ask.
 
-Lira did his wraps at the end of the table, the left hand and then the right, frowning at the tension as she had frowned at it on every floor since the sprung oak. Karis sat across from them with her notebook shut on the board in front of her and both pink palms laid flat on its cover. She did not open it once. Ephram talked, in a voice that had been sanded to a whisper by four exchanges of calling across a hill, about the lock-keeper's hand-bell, and the price of salt fish, and how nobody in the southern house could sing; and nobody listened to a word, and everybody was glad of every one.
+Lira did his wraps at the end of the table, the left hand and then the right, frowning at the tension as she had frowned at it on every floor since the sprung oak. Karis sat across from them with her notebook shut on the board in front of her and both pink palms laid on its cover. She did not open it once. Ephram talked, in a voice that had been sanded to a whisper by four exchanges of calling across a hill, about the lock-keeper's hand-bell, and the price of salt fish, and how nobody in the southern house could sing; and nobody listened to a word, and everybody was glad of every one.
 
 When they went out the street was full.
 
@@ -52,7 +52,7 @@ Nine chairs stood at the long table on the west side, where five had stood for t
 
 And Umber was on the floor.
 
-He had come down out of the west tower by himself, in the plain grey of his office, and he was walking the ring. He went round it close to the barrier, at the pace of a man walking round his own house at night to see that the doors are shut. He stopped at each of the four masts and looked up at its iron crown, and down at the cable going into the trench. At the oak he stopped longest. He stood on the old dark wood for a moment, quite still. Then he stepped off it onto the new stone at its rim and put his weight on his heel, and then on the ball of his foot, and then moved a stride and did it again.
+He had come down out of the west tower by himself, in the plain grey of his office, and he was walking the ring. He went round it close to the barrier, at the pace of a man walking round his own house at night to see that the doors are shut. He stopped at each of the four masts and looked up at its iron crown, and down at the cable going into the trench. At the oak he stopped longest. He stood on the old dark wood for a moment, quite still. Then he stepped off it onto the new stone at its rim and put his weight on his heel, and then on the ball of his foot, and then moved a pace and did it again.
 
 Cael had read the crews' certificate the night before, pinned in the tunnel with the foreman's name and Auremont's risk officer's beneath it. The floor was true to the specification. Every bolt had been driven and every peg checked. It was written down and signed. Umber had signed it too, as the office required. And here he was in front of eight thousand people, testing it again with his own foot, as if the signatures were the beginning of knowing a thing and not the end of it.
 
@@ -72,11 +72,11 @@ He let go of the wrist.
 
 "That's three," he said, and stepped back.
 
-Brom did not come away from the wall, because he did not need to, and he said it from where he stood, in the same flat voice he had used in the back room the night before, with his bandaged arms folded and his left shoulder held a little lower than his right.
+Brom did not come away from the wall, because he did not need to, and he said it from where he stood, in the same voice he had used in the back room the night before, with his bandaged arms folded and his left shoulder held a little lower than his right.
 
 "Survive the first one."
 
-That was all. Everybody else that week had given him advice. Brom had given him a job, with a beginning and an end, and it could be done or not done.
+Everybody else that week had given him advice. Brom had given him a job, with a beginning and an end, and it could be done or not done.
 
 At the half-bell Seln appeared in the doorway with the folder for the day.
 
@@ -104,13 +104,13 @@ He stopped. He turned his page, though there was nothing on the next page that h
 
 Nobody in the bowl made a sound, either time.
 
-Cael had heard that silence once before, very small, in a circuit hall at Ardenmere, where Vell's ledger had first kept the form for him. A clerk had read his name there in the same flat voice he used for everybody else, and stopped where a rating went, and said the word, and gone on. Nobody there had made a sound either. It was the oldest courtesy a floor had. They had given it to him at Ardenmere in a room of two hundred. They gave it to him here in a room of eight thousand. It was exactly the same size.
+Cael had heard that silence once before, very small, in a circuit hall at Ardenmere, where Vell's ledger had first kept the form for him. A clerk had read his name there in the same voice he used for everybody else, and stopped where a rating went, and said the word, and gone on. Nobody there had made a sound either. It was the oldest courtesy a floor had. They had given it to him at Ardenmere in a room of two hundred. They gave it to him here in a room of eight thousand. It was exactly the same size.
 
 Then the protocols were read, and then they were read again. Every bout above Silver had them read twice, Seln had said, so that nobody could claim afterward not to have heard. The referee and the panel each held the power to stop the bout, either without the other, and nobody could appeal it. There were two healers at each fighters' gate. If fire went where nobody meant it to go, the masts would take it, and the cables would carry it down into the trench, and the trench would carry it off toward the east break, out of the bowl. On the second reading Cael listened for the one thing he had marked on the first. Every line of it was measured in tiers. Every threshold in it, for when a healer should stand and when a bout should stop, was set against a fighter's tier. There was one fighter in the bout to whom none of it could be set.
 
 When the reading was done each party was allowed one walk round the ring. Cael took his.
 
-He went round it the way he had gone round every floor of his life, with his feet. At the north, the east, the south and the west he set a heel down hard and listened up through the bone of his leg. Every time the stone told him the same flat thing. It would not give under him, and it would not forgive him. He felt the half inch under his soles as he came down off the oak toward the south. It was so slight that he would never have known it without the man with the level, and now that he knew, he could not stop feeling it. He passed the east mast and heard nothing from it. It would not hum until there was something in the air to hum at. He stepped across the cap seam at the east break, and felt it through his boot, once, the way she had said.
+He went round it the way he had gone round every floor of his life, with his feet. At the north, the east, the south and the west he set a heel down hard and listened up through the bone of his leg. Every time the stone told him the same thing. It would not give under him, and it would not forgive him. He felt the half inch under his soles as he came down off the oak toward the south. It was so slight that he would never have known it without the man with the level, and now that he knew, he could not stop feeling it. He passed the east mast and heard nothing from it. It would not hum until there was something in the air to hum at. He stepped across the cap seam at the east break, and felt it through his boot, once, the way she had said.
 
 She did not walk the ring. She stood at her mark by the south break with her hands at her sides, looking at the middle distance. She had walked it already, two evenings ago, with him.
 
@@ -144,13 +144,13 @@ He tried Karis's card then, because it was the only thing he had brought out wit
 
 *Air first. Not her.*
 
-He could not do it. In the shut hall with Lira he had put her down like a parcel and listened past her, and there had been nothing past her but boards and quiet. Here there was a bowl of eight thousand people breathing. There was the referee's silver bar flashing at the edge of his eye, and a woman at the west barrier who was the most important thing he had ever stood in front of. He reached for the air and every one of them came with it. The whole bowl was loud in his head, and she was the loudest thing in it, and he could no more put her down than he could have put down the floor.
+He could not do it. In the shut hall with Lira he had put her down like a parcel and listened past her, and there had been nothing past her but boards and quiet. Here there was a bowl of eight thousand people breathing. There was the referee's silver bar flashing at the edge of his eye, and a woman at the west barrier who mattered more than anything he had stood in front of. He reached for the air and every one of them came with it. The whole bowl was loud in his head, and she was the loudest thing in it, and he could no more put her down than he could have put down the floor.
 
 So he read her body, because that was what he had, and it was late, and he knew it would be.
 
 And as he read her he understood what she was doing. Her lanes were not full. He had seen her full lane on the trial floor and these were not that. They ran a little short, and a little shallow, and each one came at a slightly different speed from the one before, as if she were turning a dial. She was not trying to finish him. She was finding out where he stopped. It was what Gault did with a plate before he measured anything against it: take the baseline first, honestly, so that every reading after it would mean something. She was taking his. And then she would fight a little above it, so as not to waste either of them.
 
-There was no contempt in it at all. It was the most careful thing anybody had ever done to him on a floor.
+There was no contempt in it at all. It was care, of a kind he had not met on a floor.
 
 She came again.
 
@@ -170,6 +170,6 @@ He stood with his back to the north-east barrier and breathed. She walked back t
 
 He looked up at the north rail, because he could not help it.
 
-Karis was writing. Lira had both hands flat on the rail. Ephram's mouth was open and no sound was coming out of it. And Brom, at the end, with his bad shoulder held low, lifted his right hand where only the floor could see it and showed him one finger.
+Karis was writing. Lira had both hands on the rail. Ephram's mouth was open and no sound was coming out of it. And Brom, at the end, with his bad shoulder held low, lifted his right hand where only the floor could see it and showed him one finger.
 
 One. Survived.

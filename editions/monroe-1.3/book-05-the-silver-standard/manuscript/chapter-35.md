@@ -30,7 +30,7 @@ The broadsides had been pricing the bout for two days, and Cael had seen them pa
 
 The dais stood against the south rail with its five tall chairs and the clerk's desk. Morning light came down through the glass in long pale panes that lay across the western half of the floor and had not yet begun to move.
 
-On the far side the Auremont block sat in its blue, very still. In its front row were the two scouts Cael had charted all year. The older man had his book shut on his knee. The younger woman had hers open.
+On the far side the Auremont block sat in its blue without moving. In its front row were the two scouts Cael had charted all year. The older man had his book shut on his knee. The younger woman had hers open.
 
 Halcenvane had the near rail. Rooke stood at the centre of it with his arms folded, and Gault beside him with the coats and the heat-wrap, and the rest of them along it in a row. High up behind them, in the first row of the upper gallery, Cael caught a glimpse of Withrow's dark coat and Bracken's grey head beside it. She had not said she was coming. She had not needed to.
 
@@ -40,7 +40,7 @@ Cael had seen her fight three times and had never been this close. She was compa
 
 The referee called them to the centre flag for the formalities.
 
-They stood a stride apart. Zerin looked Lira over from her feet to her face with plain professional attention, as a buyer looks at a horse she has already decided is worth the price. Then her eyes went down to Lira's left hand and rested a moment on the grey ghost of a word.
+They stood a pace apart. Zerin looked Lira over from her feet to her face with plain professional attention, as a buyer looks at a horse she has already decided is worth the price. Then her eyes went down to Lira's left hand and rested a moment on the grey ghost of a word.
 
 Cael saw her try to read it. He saw her fail.
 
@@ -54,7 +54,7 @@ Zerin opened at her walking pace.
 
 Her walking pace was everybody else's sprint, and she came across the floor at it with no change in her body at all. There was no gather, no breath, no setting of the hips. She simply went from one place to another place very fast.
 
-Lira read her. She read her well, every line of it, as she read everybody.
+Lira read her. She read her well, every line of it.
 
 And every read was a tenth late.
 
@@ -146,7 +146,7 @@ It was not a cheer.
 
 It was bigger and messier than a cheer.
 
-For two days the broadsides had told this gallery that nobody in the tournament had taken an exchange off Zerin. Now they had watched somebody take a point off her the hard way, and every one of them understood at the same moment that the exchange was open, and they stood up and shouted at each other about it as people shout at a race when the horse nobody backed puts its head in front at the last turn.
+For two days the broadsides had told this gallery that nobody in the tournament had taken an exchange off Zerin. Now they had watched somebody take a point off her the hard way, and every one of them understood at the same moment that the exchange was open, and they stood up and shouted at each other about it.
 
 On the far side, the older scout was writing. He was writing in the middle of an exchange. Cael had charted the man at three meets and never once seen him write before the bell.
 
@@ -182,7 +182,7 @@ She spent speed she had not needed to spend all tournament, taking every corner 
 
 It cost her, and Cael could see exactly what it cost her, a breath that came a little harder at the end of every corner and a line that ran a little wider than she would have liked; but she had more to pay with than Lira had to charge, and she knew it, and she paid.
 
-It was the best fight Cael had ever seen Lira fight. And it was going the wrong way.
+It was the best Lira had fought all year. And it was going the wrong way.
 
 For most of that exchange the two of them ground at each other across the pale boards. It was long and close and quiet, and almost nothing in it was easy for the tiers to follow.
 
@@ -228,7 +228,7 @@ For three bouts and three exchanges he had kept her in the full gaze by setting 
 
 Entries he still had forming in his head were already finished on the floor. Turns he had placed a beat ahead were complete, and she was coming out of them, while he still watched the spot where they ought to have begun. It was like looking at Hesk's clock while somebody spun the long hand round with a finger.
 
-All year he had trusted his eyes to see a fight a fraction early. For one exchange they could only follow this one from behind. He stood at the rail and watched a friend be outrun by something he could not keep up with either.
+All year he had trusted his eyes to see a fight before it happened. For one exchange they could only follow this one from behind. He stood at the rail and watched a friend be outrun by something he could not keep up with either.
 
 Lira knew it before he did.
 
@@ -238,7 +238,7 @@ Lira cut one diagonal.
 
 Of everything she did that morning, it was the finest.
 
-She cut it fresh, on foot, with the last of her floor-sense and three hard strides, across the middle of the square from the north-west corner to the south-east. Then she held it for half a beat while Zerin came at it. For half a beat it stood. Zerin had to go round, and Lira was waiting at the far end of it, and touched her on the forearm.
+She cut it fresh, on foot, with the last of her floor-sense and three hard strides, across the middle of the floor from the north-west corner to the south-east. Then she held it for half a beat while Zerin came at it. For half a beat it stood. Zerin had to go round, and Lira was waiting at the far end of it, and touched her on the forearm.
 
 One to nothing. The gallery came to its feet again.
 
@@ -254,13 +254,13 @@ She took the first touch off an entry from the left. She took the second off the
 
 The third came at the end of a long, close, fierce run along the north rope, with Lira a single stride behind her all the way and gaining, a hand's breadth and then another, so that for a moment the whole hall thought she would get there. She was almost there. The flag went up as her hand closed on the air where Zerin's shoulder had just been.
 
-"One to three," called the clerk. Then, after a moment: "Four to nine on the bout."
+"One to three," called the clerk, and then: "Four to nine on the bout."
 
 Nobody needed the sum explained. Lira could not have drawn level with every point of a fifth exchange, so there would be no fifth exchange. It was over in four.
 
 Zerin did not press.
 
-She had not pressed past what the bout required all morning, and she did not do it now. She stopped where she was when the flag went up, a stride from the rope, and let her hands drop, and turned to face the girl who had just spent everything she owned trying to catch her.
+She had not pressed past what the bout required all morning, and she did not do it now. She stopped where she was when the flag went up, a yard from the rope, and let her hands drop, and turned to face the girl who had just spent everything she owned trying to catch her.
 
 There was no malice in her anywhere. Cael had looked for it all morning and found none. There was nothing in her at all, he thought, except the work. And the work was done.
 
@@ -270,7 +270,7 @@ It stood for both of them.
 
 It had come for a story, the girl who was built against the girl who had rebuilt herself, and it had been given a measurement instead. It stood up anyway, every bench of it and the archways too, and it went on standing for a long time.
 
-Cael had seen galleries stand for winners all year. Once or twice he had seen one stand for somebody brave who lost. He had never seen a gallery stand like this, for two people at once, because it had just watched somebody's ceiling and somebody else's floor meet in the same square, and both of them hold.
+Cael had seen galleries stand for winners all year, and once or twice for somebody brave who lost. This one stood for two people at once, because it had just watched somebody's ceiling and somebody else's floor meet on the same boards, and both of them hold.
 
 Lira straightened up slowly. She held her left arm a little stiff at the shoulder. Cael could see the shoulder setting already, tightening round the burst she had not had. She did not look at it.
 

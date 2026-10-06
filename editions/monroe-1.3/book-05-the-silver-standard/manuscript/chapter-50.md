@@ -38,7 +38,7 @@ Then he sat down where the clerk put him.
 
 Withrow sat on his left and Rooke on his right, with Bracken behind them against the wall, holding the pouch. Across the table Auremont's delegation head sat with his hands folded, a tall greying man, heavy in the shoulders, with the expression of somebody who has come to do a thing properly and does not expect it to work. There was an empty chair beside him. Then there was a gap the width of a chair, which nobody had arranged and everybody could see, and then Daeva.
 
-She was in plain dark clothes, not her house's blue. She had a copy of the afternoon's agenda in front of her and had already read it; he could tell from how she had squared it with the table's edge. She did not look at him when he came in. She did not look at him when he sat down. He did not look at her either, much, and he was fairly sure that each of them knew to the inch how much the other was not looking.
+She was in plain dark clothes, not her house's blue. She had a copy of the afternoon's agenda in front of her and had already read it; he could tell from how she had laid it along the table's edge. She did not look at him when he came in. She did not look at him when he sat down. He did not look at her either, much, and he was fairly sure that each of them knew to the inch how much the other was not looking.
 
 Umber came in last, with two clerks and a man in a black gown who was the tournament's counsel.
 
@@ -66,7 +66,7 @@ The counsel had a long face and a long document. He stood to read it and did not
 
 It began by saying that the underwriters' printed schedule had no row for this bout. It said so four times, each more formal than the last, like a man knocking on a door he already knows is locked. Then it said what the underwriters had done instead. They had written a rider of their own for this one bout, at a premium the tournament had agreed to carry, and they had described the risk, in a phrase the counsel read out with no expression whatsoever, as *unpriceable but bounded*. After that it went into the particulars: what the healers warranted and what they did not; at what point a bout would be stopped; where the tournament's purse stood behind the fighters and the two places it stepped back.
 
-Cael had heard a great many documents read aloud about himself, by wardens and registrars and panels, and he had grown fond of the sound the way a man grows fond of rain on a roof. This was the first he had ever heard begin by saying that nobody knew how to write it.
+Cael had heard a great many documents read aloud about himself, by wardens and registrars and panels, and he had grown fond of the sound the way a man grows fond of a mill-race he lives beside. This was the first he had ever heard begin by saying that nobody knew how to write it.
 
 When the counsel sat down, Auremont's delegation head had two questions. Cael listened for the house in them and did not find it. Both were about her: what the healers would do for her, and how soon. The counsel answered each, and Daeva kept her eyes on the table the whole time, and the head did not look at her once while he asked.
 
@@ -118,7 +118,7 @@ He read the notice once.
 
 It was a copy of the category's printed form, sent up from the west tower by the observation row, because anything that touched the enrollee's file now came to him without waiting for the weekly bag. The challenger's name. Her house. Her tier. And one word at the foot, in a firm upright hand.
 
-He put the notice down square on the blotter and did not reach for the next thing in the tray.
+He put the notice down on the blotter and did not reach for the next thing in the tray.
 
 What he thought about first was not the girl, or the boy. It was his post.
 
@@ -146,11 +146,11 @@ He did not send it down to the office to be copied fair. It would leave his room
 
 His clerk came back, and saw the empty week, and wrote the journey into it without a word. Vastin let him. When he had gone, Vastin sat on at the desk with the lamp not yet lit and the pigeons settling on the ledges of the court below.
 
-His left hand had begun to ache, as it did now at the end of most days. He laid it flat on the cool of the blotter and let it ache.
+His left hand had begun to ache, as it did now at the end of most days. He laid it on the cool of the blotter and let it ache.
 
 Then he opened the bottom drawer of the desk and took out a sheet he had kept there since the start of the year.
 
-It was the long draft of his advisory on the enrollee's roster, the first one, written in a single sitting on the day the request came in and struck through once, top to bottom, in a straight line. He had sent the short version instead. The short version had been correct. The long one had been correct too, and had said a good deal more than anybody had asked, and he had kept it because a man who throws away his own longer thoughts soon stops having them. He read it through now by the last of the light. It held. Every sentence of it held, all these months later. He found that he was glad of it in a way that was not quite professional, and put it back in the drawer.
+It was the long draft of his advisory on the enrollee's roster, the first one, written in a single sitting on the day the request came in and struck through once, top to bottom, in a straight line. He had sent the short version instead. The short version had been correct. The long one had been correct too, and had said a good deal more than anybody had asked, and he had kept it because a man who throws away his own longer thoughts soon stops having them. He read it through now by the last of the light. It held. Every sentence of it held, all these months later. He was glad of it in a way that was not quite professional, and put it back in the drawer.
 
 He took out his register instead and turned back to the page from Norhold.
 
@@ -212,6 +212,6 @@ When he opened his eyes Lira was standing in front of him with her hood up and h
 
 "I know you were." The rain ran off the edge of her hood. "It's all right. I only wanted to know. You didn't hear me, and I was a yard from you."
 
-He did not have an answer for that, so he did not give one. They went in along the wall together with the rain coming down properly now, and halfway back Lira started laughing at nothing, at the wet and the dark and the squall, and after a while he was laughing too. But he wrote it down that night in the old volume, under the four words about the steward, in the smallest hand he had.
+He did not have an answer for that, so he did not give one. They went in along the wall together with the rain coming down properly now, and halfway back Lira started laughing at nothing, at the wet and the dark and the squall, and after a while he was laughing too. But it went into the old volume that night, under the four words about the steward, in the smallest hand he had.
 
 *Masts hum before weather. Got the squall early, twice. Didn't hear Lira, three times, at a yard.*

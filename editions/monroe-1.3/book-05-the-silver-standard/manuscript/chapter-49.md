@@ -78,7 +78,7 @@ She thought about a boy at the edge of a lane, two steps off the line where it c
 
 That night Daeva read the file again, the third time since the trial.
 
-She had bought it herself on the evening of the trial, from a shop in the delegation quarter where nobody from the program would think to look for her. She had gone in her plain cloak with the hood up and put a copper on the counter and asked for the enrollee's file, the full one, and the shop's clerk had wrapped it in brown paper and handed it over without once raising his eyes. Eleven pages in grey board. She had carried it home inside her coat like something stolen and read it twice through at the table before she slept.
+She had bought it herself on the evening of the trial, from a shop in the delegation quarter where nobody from the program would think to look for her. She had gone in her plain cloak with the hood up and put a copper on the counter and asked for the enrollee's file, the full one, and the shop's clerk had wrapped it in brown paper and handed it over without once raising his eyes. Nine pages in grey board. She had carried it home inside her coat like something stolen and read it twice through at the table before she slept.
 
 It had been accurate then. It was accurate now. That was the thing about it.
 
@@ -88,7 +88,7 @@ She had read that line with a feeling she had not at first been able to name. Th
 
 She knew what kind of thing it was because she was the subject of one. At home in Auremont's archive there was a whole shelf of her, bound in the house's blue, kept by better clerks than this shop would ever afford, and once when she was sixteen she had sat down and read the lot from the first volume to the last to see whether she could find herself in it. She had found her results, very accurately recorded. It had been like looking at a coat on a hook, holding the shape of somebody's shoulders, with nobody inside.
 
-She did not try to work out from the file what he was. She caught herself not trying, and wondered at it, and decided after a while that she did not want to learn it from paper. She had been a stride from him on a floor. If there was anything to find out, she would find it out the way she had found out everything worth knowing in her life, standing up.
+She did not try to work out from the file what he was. She caught herself not trying, and wondered at it, and decided after a while that she did not want to learn it from paper. She had stood within a pace of him on a floor. If there was anything to find out, she would find it out the way she had found out everything worth knowing in her life, standing up.
 
 Her window did not open.
 
@@ -96,13 +96,29 @@ It never did, anywhere. Every room she had slept in since she was sixteen had a 
 
 Beyond the glass Norhold was changing its shift. The eating-houses on the basin were putting their shutters up and the bakers' boys were coming down from the upper town with trays on their heads. The lock-gates turned on their slow wheels. A lamp went up a mast and down again. In the quarter somebody was singing the procession tune and losing the middle of it and going back to the start.
 
-She stood there a long time, with the file shut on the table behind her, and thought about a garden.
+She stood there a long time, with the file shut on the table behind her. Then she went to her travelling case and put her hand into its lining.
 
 ---
 
-There had been a pear tree, she remembered, and a book with a red spine.
+Behind the marbled notebook, which she wrote in perhaps once a month and nobody in the program knew about, was one sheet of the program's paper that she had never thrown away. She took it out and unfolded it on her knee.
 
-It was a history of the coastal leagues, and she had taken it off the shelf of the feeder school's library without quite asking. She was thirteen. She was reading it on the bench under the pear tree on the south side of the garden court, in the empty hour after the midday meal, because the court was nearly always empty then, and she was nearly always alone in it. She was already a year ahead of everybody she was taught with, and taller than most of them, and she had found that a bench nobody else wanted was the most comfortable place in the school.
+It was an exercise. The heading said *Corrective: lane integrity under counter-slackening*, and under it were twelve drills in the design staff's hand, with a tick against each one in hers. She had done them at fifteen, every morning for a month, until she could hold a lane hard to its far end whatever anybody did to the air in front of it. They had worked. Nobody had been able to do that particular thing to her since.
+
+The man who had done it first was a Gold, Rank Six, from one of the border guilds: big, quiet, grey in his beard, with a lifetime of rough weather in his hands. It had been an exhibition on the coast where the category let tiers meet, and she had been Iron, and fifteen. In the second exchange he had let the air in front of her go slack. That was all. There was nothing to see. But a lane she had laid out hard went soft at its far end, like a rope paid out a yard too long, and set her down short and half turned, and for one long breath she had stood in the open not knowing what would happen next.
+
+She had won, narrowly, two exchanges later, and she had been more awake in those two exchanges than on all her floors before them. That night she had lain on her bed with her boots still on until the window went grey, too happy to sleep. She had not been able to say then what the happiness was. It was years before she could, and by then it was gone.
+
+Seven days after that bout the design staff had sat down with the record of it, and the sheet had been the result. She kept it because it was the only honest record of what had been done to her. In the marbled notebook, the year she turned seventeen, she had written one line about it. *The exercise worked. That was the trouble.*
+
+The other records of her were not hers to keep.
+
+There was a page in the registry's book of records with her name on every line. She had seen it once, at a ceremony, open on a stand under glass. The top line was the newest: Gold, Rank Three, at nineteen, youngest. Below it, because the page was kept from the bottom up like a well being filled, were the others. Gold at seventeen, youngest; that ceremony had been full of people from houses she had never seen, who shook her hand one after another and told her what it meant. Silver at sixteen. Iron at fourteen. Every line had the same word at its end.
+
+At the very bottom of the page, in the oldest ink, was the first line, and it was not a rank at all. It was a Kindling a year ahead of the law, checked three times and entered with a note, of a kind the registry's tables counted by the century and had never needed more than one hand to count. And the classification, which had come back inside the hour: Storm. A Path that worked the weight of the air and the fire in the air through one channel. The registry kept all its living Storm practitioners on a single sheet, and hers had been the newest name on it.
+
+It was the garden.
+
+There had been a pear tree, and a book with a red spine. It was a history of the coastal leagues, and she had taken it off the shelf of the feeder school's library without quite asking. She was thirteen. She was reading it on the bench under the pear tree on the south side of the garden court, in the empty hour after the midday meal, because the court was nearly always empty then, and she was nearly always alone in it. She was already a year ahead of everybody she was taught with, and taller than most of them, and she had found that a bench nobody else wanted was the most comfortable place in the school.
 
 The court went quiet.
 
@@ -110,7 +126,7 @@ Not the birds; the birds had been quiet already. The court. The gravel and the b
 
 She looked up and the sigil was there, at the height of her face, an arm's length off.
 
-It was much smaller than she had been told. Everybody who spoke of Kindlings spoke of them as great things, and it was not great. It was a mark of light no larger than her palm, finer at its edges than any engraver could have cut, turning very slowly in the air in front of her. It was not in any hurry. It had come a long way, she thought, and it could wait. It was older than the pear tree and the school. It was older than the city outside the school wall, and older than the law the city kept, which said quite plainly that nothing of this kind was to happen to anybody before the age of fourteen.
+It was much smaller than she had been told. Everybody who spoke of Kindlings spoke of them as great things, and it was not great. It was a mark of light no larger than her palm, finer at its edges than any engraver could have cut, turning very slowly in the air in front of her. It was not in any hurry. It had come a long way, she thought, and it could wait. It was older than the pear tree and the school, older than the city outside the school wall, and older than the law the city kept, which said quite plainly that nothing of this kind was to happen to anybody before the age of fourteen.
 
 She shut the book on her finger, so as not to lose her page.
 
@@ -120,45 +136,25 @@ And because she did not understand, and because asking was what she always did w
 
 An instructor was crossing the far side of the court with an armful of slates. He saw, and stopped, and stood there with the slates until it was over, and afterwards he wrote an account of it for the school's records, and the registry copied the account into hers. She had read it many times since. It was a kind account. It described a child who showed no fear and addressed the sigil with remarkable composure, and he had underlined the word composure, twice.
 
-She still did not know which it was. That was the part the instructor had missed. What he had seen was a calm child. Under the calm there had been a question with two halves, and she had wanted very badly for the sigil to choose between them: had the timetable got her wrong, or was she the thing the timetable had been right to leave out? She had been waiting on the choosing ever since, at thirteen and fifteen and seventeen and now, in rooms all over the continent, and nobody had made it.
+She still did not know which it was. That was the part the instructor had missed. Under the calm there had been a question with two halves, and she had wanted very badly for the sigil to choose between them: had the timetable got her wrong, or was she the thing the timetable had been right to leave out? She had been waiting on the choosing ever since, at thirteen and fifteen and seventeen and now, in rooms all over the continent, and nobody had made it.
 
 The sigil did not answer either. It did what they do. Then the light was ordinary again and the pear leaves moved, and the instructor's slates were all over the gravel, and he was running.
 
-There was a page in the registry's book of records with her name on every line.
-
-She had seen it once, at a ceremony, open on a stand under glass. The top line was the newest: Gold, Rank Three, at nineteen, youngest. Above that, because the page was kept from the bottom up like a well being filled, were the others. Gold at seventeen, youngest; that ceremony had been full of people from houses she had never seen, who shook her hand one after another and told her what it meant. Silver at sixteen. Iron at fourteen. Every line had the same word at its end.
-
-At the very bottom of the page, in the oldest ink, was the first line, and it was not a rank at all. It was the garden. A Kindling a year ahead of the law, checked three times and entered with a note, of a kind the registry's tables counted by the century and had never needed more than one hand to count. And the classification, which had come back inside the hour: Storm. A Path that worked the weight of the air and the fire in the air through one channel. The registry kept all its living Storm practitioners on a single sheet, and hers had been the newest name on it.
-
 She had understood early what the registry felt about her, and it was not fear. There were things that came out of the sorting that frightened it, and it shut them away. She was the other sort, the rare coin rather than the bad one: the kind a collector loves, because it is worth a great deal and fits the tray he already owns.
 
-She had been Auremont's since twelve, a year before the garden. The house had seen something in a set of entrance papers and sent for her, and kept her near, and waited for the rest. Afterwards nothing in her life had been left to happen by itself. Floors were relaid to her measure. An evaluator who wanted a look at her had his station opened before the day began, and came, and looked. Whole classes were assembled round her and broken up again when she grew past them. Other people spoke of climbing; she had never once had to look for the next rung. It was always there, put down where her foot would go, by people who were very good at their work.
+She had been Auremont's since twelve, a year before the garden. The house had seen something in a set of entrance papers and sent for her, and kept her near, and waited for the rest. Afterwards nothing in her life had been left to happen by itself. Floors were relaid to her measure. An evaluator who wanted a look at her had his station opened before the day began, and came, and looked. Whole classes were assembled round her and broken up again when she grew past them. Other people spoke of climbing; she had never once had to look for the next rung. It was always there, put down where her foot would go, by people who were very good at their work. At Auremont the day of the garden court was a half-holiday now, with a demonstration in the afternoon.
 
-At Auremont the day of the garden court was a half-holiday now. There was a demonstration in the afternoon.
-
-She kept one record of her own. It was a stationer's notebook with marbled covers that lived in the lining of her travelling case, and she wrote in it seldom, perhaps once a month, and nobody in the program knew it was there. On one of its first pages, when she was sixteen, she had written down a word for herself that she had never said aloud.
+She folded the sheet and put it back behind the notebook. On one of the notebook's first pages, when she was sixteen, she had written down a word for herself that she had never said aloud.
 
 *Specimen.*
 
 She had not written it in anger. She had thought about it for weeks before she set it down, and it was simply the right word. A specimen was found, and kept, and labelled, and shown to visitors in a good light. It was very well cared for. Nobody ever asked it anything.
 
-Behind the notebook, in the same lining, was one sheet of the program's paper that she had never thrown away.
-
-It was an exercise. The heading said *Corrective: lane integrity under counter-slackening*, and under it were twelve drills in the design staff's hand, with a tick against each one in hers. She had done them at fifteen, every morning for a month, until she could hold a lane hard to its far end whatever anybody did to the air in front of it. They had worked. Nobody had been able to do that particular thing to her since.
-
-The man who had done it first was a Gold, Rank Six, from one of the border guilds: big, quiet, grey in his beard, with a lifetime of rough weather in his hands. It had been an exhibition on the coast where the category let tiers meet, and she had been Iron, and fifteen. In the second exchange he had let the air in front of her go slack. That was all. There was nothing to see. But a lane she had laid out hard went soft at its far end, like a rope paid out a yard too long, and set her down short and half turned, and for one long breath she had stood in the open not knowing what would happen next.
-
-She had won, narrowly, two exchanges later, and they had been the most awake two exchanges of her life. That night she had lain on her bed with her boots still on until the window went grey, too happy to sleep. She had not been able to say then what the happiness was. It was years before she could, and by then it was gone.
-
-Seven days after that bout the design staff had sat down with the record of it, and the sheet had been the result.
-
-She kept it because it was the only honest record of what had been done to her. She had written one line about it in the marbled notebook, the year she turned seventeen. *The exercise worked. That was the trouble.*
-
-It had been four years. Since then her bouts had come in kinds she could name before the flags went up. There were the program's measurements, and the tournament's processions. There were the old Golds, who lost carefully, with their dignity held up in front of them like a shield, and the brave Silvers, who simply lost. She shook every one of them by the hand afterward and thanked them. That had been taught to her too, along with everything else.
+It had been four years since the coast. Since then her bouts had come in kinds she could name before the flags went up. There were the program's measurements, and the tournament's processions. There were the old Golds, who lost carefully, with their dignity held up in front of them like a shield, and the brave Silvers, who simply lost. She shook every one of them by the hand afterward and thanked them. That had been taught to her too, along with everything else.
 
 ---
 
-She went back, at the glass, to the trial. She had gone back to it twenty times since the bell.
+She went back to the glass, and to the trial. She had gone back to it twenty times since the bell.
 
 Not to the lane. The lane was hers and she knew it the way she knew her own hand. She had laid it along the barrier because the barrier was the longest straight line on the floor and nobody on either side was using it, and she had gone down it, and the floor had become hers. Four of them had been where it closed, one after another. She had meant them to be.
 
@@ -214,7 +210,7 @@ Nobody said anything. Then a boy from the delegation's office came up the stair 
 
 "Good," said Zerin.
 
-That was all she said. She went back to her times. But Daeva saw her hand, which was never anything but still, close once on the edge of the sheet and open again.
+She went back to her times. But Daeva saw her hand, which was never anything but still, close once on the edge of the sheet and open again.
 
 She finished her breakfast, all of it, while the house came awake round her like a hive somebody has knocked, and the bell on the delegation head's landing began, at last, to ring.
 
@@ -244,7 +240,7 @@ She went on down without him, and he came in a minute behind her with the paper 
 
 The room was the delegation head's office for the sitting: a borrowed room on the second floor of the house, with a thick carpet and somebody else's founder painted over the fireplace. Four chairs had been put out in a curve facing the door. There was not one for her.
 
-The head noticed the missing chair when she did. He was a tall man running to grey, heavy in the shoulders, who had headed the program's delegations since she was fourteen, and he went a dull red to the ears and got up out of his own chair behind the desk and carried it round to her himself, as if it weighed a great deal. She thanked him and sat in it. He stood by the fireplace instead, with his hands clasped behind him, and for a moment nobody in the room could think how to begin.
+The head noticed the missing chair when she did. He was a tall man running to grey, heavy in the shoulders, who had headed the program's delegations since she was fourteen, and he went a dull red and got up out of his own chair behind the desk and carried it round to her himself, as if it weighed a great deal. She thanked him and sat in it. He stood by the fireplace instead, with his hands clasped behind him, and for a moment nobody in the room could think how to begin.
 
 The lead instructor had the first of the four chairs. He sat with his hands on his knees and looked at the carpet. In the last chair was a young woman from the program's counsel with a folder on her lap. Between them sat a newer man on the staff, upright and eager, whom Daeva did not know well. The risk officer took the chair that was left and went on writing on his knee.
 

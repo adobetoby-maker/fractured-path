@@ -24,7 +24,7 @@ His opponent was a Stone Path from one of the hill houses in the far north-west,
 
 "Watch him between exchanges," she said. "He won't stand still. None of them do. They train on stone, and stone's cold, and nobody in those hills has stood still between two exchanges since they could walk."
 
-He was a short, square, quiet man with a Copper rank on his card that nobody on the rail believed for a moment. He had warmed up for an hour before the bout, in a corner of the hall, alone, steadily, until the sweat ran off him. He was the buried kind, Brom said later. Some house had kept him at Copper for its own reasons, and he had taken its purses, and now he was here.
+He was a short, thick-set, quiet man with a Copper rank on his card that nobody on the rail believed for a moment. He had warmed up for an hour before the bout, in a corner of the hall, alone, steadily, until the sweat ran off him. He was the buried kind, Brom said later. Some house had kept him at Copper for its own reasons, and he had taken its purses, and now he was here.
 
 Brom warmed up in the opposite corner the way he always did, briefly, with Rooke's nineteen exercises run through once at half speed and the last of them twice. He did not look at the hill fighter at all. Cael, who knew him, saw that he was taking a good deal of trouble not to.
 
@@ -78,7 +78,7 @@ Rooke was at the rail, too. He had not said a word all bout. In the interval he 
 
 "Nobody stands still. Walk."
 
-Brom looked at him. Then he nodded once and began to walk.
+Brom looked at him. Then he began to walk.
 
 He walked a circle of his own in his own corner, slow and heavy, round and round, as Rooke had made them all do in the cold halls of the slate country to keep their feet warm. When the bell went for the fourth exchange he did not plant. He walked out into the middle of the floor and kept walking, round, at his own pace, and the hill fighter, who had been circling all his life, found that there was a second circle on the floor and that it was in his way.
 
@@ -88,7 +88,7 @@ Three to nothing, closed early. Seven to six, Brom's way.
 
 The hall made a sound. Most of the people in it had come to see somebody else.
 
-The fifth exchange was the first fifth exchange of Brom's life. He fought it like a man who had fought a hundred.
+The fifth exchange was the first fifth exchange of Brom's life. He fought it as though he had fought a hundred.
 
 Both of them were tired now. The hill fighter's circle had shrunk to a few strides, and Brom's breath was loud in the quiet between touches. They walked their two circles round each other on the grey boards like a pair of millstones, slower and slower. Once the hill fighter went for the left door, fast, with everything he had left. Brom turned left to meet him on purpose, and let him find out exactly how strong it was. That was a point. Then the hill fighter took one back with a fine low sweep that Brom did not see until it had touched him.
 
@@ -172,7 +172,7 @@ Ephram wrote it down. Cael saw him do it, in the file book, under the table, and
 
 The hill house's clerk brought the news up the stair on the third evening, and he brought it as a grievance.
 
-Cael was at the long table with a bowl of soup. He heard the noise before the clerk: a roar from the direction of the outer court, carrying over the roofs, and then another, and then feet pounding on the stair. The clerk stopped in the doorway with a damp printed sheet in his fist. He looked at Cael for a long moment with the face of a man who has queued all week behind a house that never queues, and has now been sent upstairs to carry its good news. Then he held out the sheet at arm's length, and dropped it on the table, and went back down without a word.
+Cael was at the long table with a bowl of soup. He heard the noise before the clerk: a roar from the direction of the outer court, carrying over the roofs, and then another, and then feet pounding on the stair. The clerk stopped in the doorway with a damp printed sheet in his fist. He looked at Cael with the face of a man who has queued all week behind a house that never queues, and has now been sent upstairs to carry its good news. Then he held out the sheet at arm's length, and dropped it on the table, and went back down without a word.
 
 It was the exhibition frame from the boards, set in type an hour after it had been chalked. The ruled lines under the category's rules were no longer all empty. The first two had names in them.
 
@@ -196,7 +196,7 @@ Withrow had come in from the street while Karis was talking, with Bracken behind
 
 "Rhagen says *doctrinal interest*," said Karis. "The lake house says *the crowd*."
 
-Withrow looked at the second line for a moment. Then she laughed, the short surprised laugh Cael had first heard at the waystation on the river bend, and handed the sheet to Bracken.
+Withrow looked at the second line. Then she laughed, the short surprised laugh Cael had first heard at the waystation on the river bend, and handed the sheet to Bracken.
 
 "Well, at least one of them is honest," she said. "File it, would you? Under correspondence. I should like it kept."
 
@@ -204,7 +204,7 @@ Bracken filed it, there and then, in the pouch he never let out of his reach, an
 
 Rooke came in with both filings copied out in his own hand, and did not take his coat off. He sat down at the head of the table, pushed his soup away, and held the council there and then.
 
-"Rhagen first, because Rhagen's the one that matters." He laid the first page flat. "Every house on this continent owns a copy of Rhagen's book. Their doctrine is written down, every piece of it, and sold, and argued over in every coaching room I've ever sat in. By tomorrow night I'll have that man's whole structure laid out for you to the half beat. He knows that. He knows we'll have read it." Rooke looked round the table. "And he's filed anyway. So he isn't coming to win, and he isn't coming to surprise anybody. He's coming to see whether the book holds. He'll run the whole of it at you, every layer, and watch what happens to each piece." He searched for the word and found it, and made a face at it. "It isn't a bout. It's a *survey*."
+"Rhagen first, because Rhagen's the one that matters." He laid the first page down. "Every house on this continent owns a copy of Rhagen's book. Their doctrine is written down, every piece of it, and sold, and argued over in every coaching room I've ever sat in. By tomorrow night I'll have that man's whole structure laid out for you to the half beat. He knows that. He knows we'll have read it." Rooke looked round the table. "And he's filed anyway. So he isn't coming to win, and he isn't coming to surprise anybody. He's coming to see whether the book holds. He'll run the whole of it at you, every layer, and watch what happens to each piece." He searched for the word and found it, and made a face at it. "It isn't a bout. It's a *survey*."
 
 "Who reads the survey?" said Lira.
 
@@ -216,7 +216,7 @@ He had not meant to say it aloud. He had been thinking of the caravan captain's 
 
 Rooke looked at him for a long moment.
 
-"Shield," he agreed. "A Rhagen one. You'll find out whether Rhagen keeps a clock as plain as the salt road's." He did not say anything else, and he did not need to.
+"Shield," he agreed. "A Rhagen one. You'll find out whether Rhagen keeps a clock as plain as the salt road's."
 
 At the far end of the table Seln had been sorting the evening's papers into the travel file throughout. He spoke without looking up.
 
@@ -226,7 +226,7 @@ There was a pause.
 
 Then Brom said "Mm," in precisely the voice Seln used across his counter at home, and Lira laughed, and Seln looked up from the file for the first time that evening. Something happened, very briefly, at the corner of his mouth.
 
-*Scheduling is opinion,* Cael wrote that night. *Nobody here has decided anything about me. A clerk in the west tower picked a panel, and another picked a slot, and Rhagen's head signed under his captain, and every one of those was a small ordinary act of procedure. But they all lean the same way. The paper's making room round me one schedule at a time, and nobody has to sign for the whole of it.*
+*Scheduling is opinion. Nobody here has decided anything about me. A clerk in the west tower picked a panel, and another picked a slot, and Rhagen's head signed under his captain, and every one of those was a small ordinary act of procedure. But they all lean the same way. The paper's making room round me one schedule at a time, and nobody has to sign for the whole of it.*
 
 ---
 
@@ -238,7 +238,7 @@ Cael found her there half an hour later, when he came down to the court for air.
 
 She held it out to him without a word.
 
-At the top of the page, in her small square hand, she had copied one line from the trial's rules. *Squads shall be drawn from the academy's roster.* Next to it she had put the rule's number. Under it, with a line drawn to join them, she had copied an older line from the front of the notebook, from the first page of her citations, the line that had put him on the roster in the first place. *Participating academies shall field any practitioner appearing on their enrollment record.* Sixth part. Subsection four.
+At the top of the page, in her small close hand, she had copied one line from the trial's rules. *Squads shall be drawn from the academy's roster.* Next to it she had put the rule's number. Under it, with a line drawn to join them, she had copied an older line from the front of the notebook, from the first page of her citations, the line that had put him on the roster in the first place. *Participating academies shall field any practitioner appearing on their enrollment record.* Sixth part. Subsection four.
 
 Under both of them, one word.
 
@@ -302,7 +302,7 @@ Cael opened his mouth and found that he already had an answer, a quick one. He s
 
 "Then I'd better know which of the two I'm standing on," he said at last.
 
-Brom nodded once, and let it stand, and they walked on.
+Brom let it stand, and they walked on.
 
 *Brom's question today: what if the show and the machinery turn out to be one thing? I had an answer ready and it was the wrong size, so I gave him a slower one, and I'm still not sure. I keep a list of Brom's questions that I answered faster than they deserved. He has never once asked a small one.*
 
@@ -328,11 +328,11 @@ He had climbed the east stair to the public gallery to look at the Compact's row
 
 He sat down in it.
 
-A steward was at his shoulder before the pie had reached his mouth. She did not raise her voice. She spoke to him low and quick, with a hand on the back of the chair, and the stout man got up, red to the ears, and went back along the public bench. The steward brushed the seat with her sleeve when he had gone. Then she went back to her post at the head of the stair and stood there with her hands behind her back, looking at nothing, as though it had never happened.
+A steward was at his shoulder before the pie had reached his mouth. She did not raise her voice. She spoke to him low and quick, with a hand on the back of the chair, and the stout man got up, crimson, and went back along the public bench. The steward brushed the seat with her sleeve when he had gone. Then she went back to her post at the head of the stair and stood there with her hands behind her back, looking at nothing, as though it had never happened.
 
 It was the third time Cael had seen it done.
 
-He looked along the row. He had known it for four days by face and by seat. Ilsev had the first seat, the senior evaluation seat, with her files squared on her lap-desk at an angle that had not shifted by a hair since the opening. He remembered that exact, unhurried care from a hearing room and from the bluff, and in every act of hers that he knew of she had been perfectly correct. Havel had the second. He was the quiet records officer from the bluff, older than Cael remembered him. Cael had hardly exchanged a word with him, and yet he had turned up at the edge of Cael's life at Ardenmere and at Greyvane and on the bluff, watching and writing. The other four observation seats had changed on the rotation every day, badged men and women he did not know. Past them sat two district officers, a liaison man, and two officials of the host city who came and went.
+He looked along the row. He had known it for four days by face and by seat. Ilsev had the first seat, the senior evaluation seat, with her files set on her lap-desk at an angle that had not shifted by a hair since the opening. He remembered that exact, unhurried care from a hearing room and from the bluff, and in every act of hers that he knew of she had been perfectly correct. Havel had the second. He was the quiet records officer from the bluff, older than Cael remembered him. Cael had hardly exchanged a word with him, and yet he had turned up at the edge of Cael's life at Ardenmere and at Greyvane and on the bluff, watching and writing. The other four observation seats had changed on the rotation every day, badged men and women he did not know. Past them sat two district officers, a liaison man, and two officials of the host city who came and went.
 
 Every one of their chairs had a brass plate on its back with a name cut into it. He had read the plates from the floor with a borrowed glass on the first day.
 

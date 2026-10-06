@@ -36,7 +36,7 @@ He wrote slowly, in his best hand, with Hesk's steel pen.
 
 He sat back and let the ink dry in the tooth of the paper.
 
-It looked right. It looked like a page that would still be there to argue with in a year, and he found, reading it over, that he had already found one line he wanted to argue with, and that the narrow ruled margin was exactly the right width to do it in. He did not write in the margin, not tonight. He shut the book on its first page and put his hand on the cover for a moment, and then went down, because the draw posted at dusk and nobody read a draw alone.
+It looked right. It looked like a page that would still be there to argue with in a year, and he found, reading it over, that he had already found one line he wanted to argue with, and that the narrow ruled margin was exactly the right width to do it in. He did not write in the margin, not tonight. He shut the book on its first page and put his hand on the cover, and then went down, because the draw posted at dusk and nobody read a draw alone.
 
 ---
 
@@ -66,7 +66,7 @@ He watched the houses read it. Rhagen's people read their line and were very obv
 
 Cael knew what that meant. Everybody at a tournament knew. It meant *better you than us*, and it meant *go on anyway*, and both meanings were sincere.
 
-Along the west side of the court a crier's voice went up under an awning, and then another. The little framed sign still hung at the end of the long row of chalked boards, where it had hung all sitting, in neat white paint. *NO BOOK ON THE DEMONSTRATION BOUTS.* Cael read the boards above it as he read anything with a figure on it. Auremont to win the semifinal, at a price so short it was hardly a price at all. Auremont to take the final. How many exchanges the semifinal would run. And two of the criers, who had read the little sign as often as anybody, had begun to cry it as a selling point.
+Along the west side of the court a crier's voice went up under an awning, and then another. The little framed sign still hung at the end of the long row of chalked boards, where it had hung all sitting, in neat white paint. *NO BOOK ON THE DEMONSTRATION BOUTS.* Cael read the boards above it. Auremont to win the semifinal, at a price so short it was hardly a price at all. Auremont to take the final. How many exchanges the semifinal would run. And two of the criers, who had read the little sign as often as anybody, had begun to cry it as a selling point.
 
 "No price on the fifth man of the bluff! None! The house won't quote him! Come and see the thing we can't price!"
 
@@ -88,9 +88,9 @@ She looked at the place on the rail where Withrow was standing, with Bracken a s
 
 Withrow had read the page over Karis's shoulder.
 
-She did not say anything, but took a slip of paper and a pencil from Bracken, and wrote on the slip against the board's frame, in her clear upright hand, five names and the number of a rule. Cael, Lira, Brom, Karis, Ephram. She did not add a sentence. She did not add the clause, or the year's arguments, or anything at all that a clerk might read as somebody expecting a quarrel.
+She took a slip of paper and a pencil from Bracken, and wrote on the slip against the board's frame, in her clear upright hand, five names and the number of a rule. Cael, Lira, Brom, Karis, Ephram. She did not add a sentence. She did not add the clause, or the year's arguments, or anything at all that a clerk might read as somebody expecting a quarrel.
 
-"A filing with an argument stapled to it is a filing that thinks it will lose," she said, to nobody in particular. "This one doesn't think anything. It's a list."
+"A filing with an argument stapled to it is a filing that thinks it will lose," she said. "This one doesn't think anything. It's a list."
 
 She took it across the court herself to the west tower's night clerk, who sat at a table under the colonnade for exactly this purpose with a lamp and a book, and handed it to him, and watched him enter it, and came back.
 
@@ -142,7 +142,7 @@ The fourth sheet was Zerin.
 
 "Lira," said Rooke.
 
-That was all he said. Lira nodded once, without looking at the sheet. There was nothing on it that she did not already know by heart, and she had already lost to the woman whose name was at the top of it, honestly, in front of eight thousand people, and she was going to spend everything she had learned.
+He said nothing else. Lira nodded without looking at the sheet. There was nothing on it that she did not already know by heart, and she had already lost to the woman whose name was at the top of it, honestly, in front of eight thousand people, and she was going to spend everything she had learned.
 
 Rooke picked up the fifth sheet.
 
@@ -186,7 +186,7 @@ He let it stand in the room for a moment, as he let every rule stand, so that ev
 
 "There will be talk," said the senior of the two clerks.
 
-"There's talk now. There will be talk tomorrow whatever I sign this morning." Umber looked down at the slip for a while. "Gentlemen, for two weeks this office has rated that boy under a provision three hundred years old that nobody alive had used before this sitting, on a frame we had to have repainted, by a panel we had to convene. We rated him correctly. I've seen every figure. But every figure was one we built a room for, after he'd arrived in it."
+"There's talk now. There will be talk tomorrow whatever I sign this morning." Umber looked down at the slip. "Gentlemen, for two weeks this office has rated that boy under a provision three hundred years old that nobody alive had used before this sitting, on a frame we had to have repainted, by a panel we had to convene. We rated him correctly. I've seen every figure. But every figure was one we built a room for, after he'd arrived in it."
 
 He put his finger on the rule.
 
@@ -216,13 +216,13 @@ They walked the floor at the end of the morning, in the quarter of an hour the c
 
 The crews had worked all night, and the main floor was no longer an oval of grey stone with a round of oak in the middle. It was country. It ran ninety feet from end to end, west to east, fenced at its edges with low rails, with Halcenvane's gate at the west end and Auremont's at the east. From the north-west corner of the floor clear across to the south-east ran one long barrier of heavy timber, head-high and straight as a ruled line, so that the floor was cut on the slant into two long triangles. Halcenvane's gate opened into the southern one, and Auremont's into the northern.
 
-There were three platforms, each a low square of planking a stride high with a ramp at either end. Two stood in the northern triangle, in Auremont's country, one toward each end of it. The third stood alone in the southern triangle, in Halcenvane's, tucked far down toward the south-east corner. At both ends of the barrier the crews had stacked timber head-high in thick clusters to spoil the view across the corners, and just south of the barrier's middle, untouched, lay the old oak round, a dark disc in the stone.
+There were three platforms, each a low square of planking knee-high with a ramp at either end. Two stood in the northern triangle, in Auremont's country, one toward each end of it. The third stood alone in the southern triangle, in Halcenvane's, tucked far down toward the south-east corner. At both ends of the barrier the crews had stacked timber head-high in thick clusters to spoil the view across the corners, and just south of the barrier's middle, untouched, lay the old oak round, a dark disc in the stone.
 
 Lira went first, because she could not stand still. She ran the northern triangle from end to end and then the southern, at three-quarter pace, with the heat-wrap gone from her left arm for the first time in a week and the arm carried a little close. When she came back to the west gate she was hardly breathing.
 
 "North's quick," she said. "Open floor, new boards over the stone, nothing in the way. South's the old patched stuff, and the platform down there is behind a stack with a long ramp each side. It'll take two of us to keep it, and it's only worth what one of the north ones is worth." She wiped her hands on her shirt. "Fast north, slow south. That southern one costs double what it scores."
 
-Rooke had his sheet on his knee at the rail. He looked at Lira over the top of it for a moment, and then, without a word, drew one short line under something he had written there already.
+Rooke had his sheet on his knee at the rail. He looked at Lira over the top of it, and then, without a word, drew one short line under something he had written there already.
 
 Karis did not run anything. She went and stood on the ramp of the north-west platform with her arms folded and her pink palms tucked into her elbows, and then on the ramp of the north-east one, and then she walked back slowly, looking over her shoulder the whole way.
 
@@ -238,7 +238,7 @@ Cael walked it last, on his own.
 
 He walked the triangles and the ramps and the slow southern stone, and he found everything the others had found and agreed with all of it. But the thing he kept coming back to, without any reason he could give, was the barrier.
 
-Everybody who walked this floor, he thought, would walk it as a wall. It was the thing you went through the gaps of, or round the ends of, the thing that split the country in two. He stood at its north-west end and sighted down its face. It ran from that corner to the far one without a break, smooth and flat and straight, ninety-odd feet of it. Nothing else on the floor was that long. Nothing else ran from one end of the fight to the other.
+Everybody who walked this floor, he thought, would walk it as a wall. It was the thing you went through the gaps of, or round the ends of, the thing that split the country in two. He stood at its north-west end and sighted down its face. It ran from that corner to the far one without a break, smooth and straight, ninety-odd feet of it. Nothing else on the floor was that long. Nothing else ran from one end of the fight to the other.
 
 The read had nothing to say about it. The read saw weight, and the barrier's weight was not going anywhere.
 

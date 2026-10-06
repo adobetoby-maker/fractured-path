@@ -68,7 +68,7 @@ Somewhere at the back of him, in its sealed place, the quiet thing from the stai
 
 Karis said afterwards that it was the worst moment of her life.
 
-She said it at the long table that night, flatly, with her hands round a cup she did not drink from. She had been watching his shoulders, as she had watched them across a hundred floors with a chart in her lap, and she had seen them go still. Not slack. Still. Everybody else in the bowl saw a boy who had run out of road stop running, and put his hands down, and stand there, waiting for the end. Karis saw a boy who had stopped running because he had gone somewhere inside to attend to something. She had known the difference for a long time and never had a column to put it in.
+She said it at the long table that night, with her hands round a cup she did not drink from. She had been watching his shoulders, as she had watched them across a hundred floors with a chart in her lap, and she had seen them go still. Not slack. Still. Everybody else in the bowl saw a boy who had run out of road stop running, and put his hands down, and stand there, waiting for the end. Karis saw a boy who had stopped running because he had gone somewhere inside to attend to something. She had known the difference for a long time and never had a column to put it in.
 
 Rooke had no idea what he was seeing. All the same, his hand went out over the cap, palm down, and stayed there.
 
@@ -104,17 +104,11 @@ Behind him her lane ran on into the corner where he had been, and found nobody, 
 
 Nobody made a sound.
 
-Ephram told him afterwards how it had gone outside, because Ephram had made it his business that night to find out, and had gone round the cookshops and the quay steps with his ruined voice asking, and come back with it in order. The quiet had not come all at once. It had gone out from the ring in rings of its own, like the circles from a stone thrown in a pond, and each ring had broken differently.
+Ephram told him afterwards how it had gone outside. He had gone round the cookshops and the quay steps that night with his ruined voice, asking, and come back with it in order, and the part he wanted Cael to have was one moment in the outer court. The people who could not get in had been following the bout from a man on a barrel at the mouth of the east tunnel, who could see a slice of the floor and called it out to them, exchange by exchange, as a crier calls a race. He called the lane. He got as far as *and the boy —* and stopped, with his mouth still open and the whole court looking up at him, for ten seconds by a carter's count. Under the awnings behind him, in the same ten seconds, the betting men, who had a price chalked for every half point of the Standard and none for this, turned their ledgers over on the boards one after another, face down, without a word, and stood with their hands on them. Then the court shouted at the man on the barrel to go on, and he said he was sorry. He had run out of sentence.
 
-The farthest broke first. In the outer court the people who could not get in had been following the bout from a man on a barrel at the mouth of the east tunnel, who could see a slice of the floor and called it out to them, exchange by exchange, as a crier calls a race. He had called the lane. He had got as far as *and the boy —* and then stopped, with the whole court looking up at him, for eleven seconds by a carter's count. When they shouted at him to go on he said he was sorry, he had run out of sentence.
+On the tower stairs a woman near the top asked the man in front of her what had happened, and forty people on the steps below answered her at once, in four different accents, with the same three words in four different orders. Every version came out meaning *he hasn't got that.*
 
-Nearer in, the betting rows broke next, and they broke without a word. The men under the awnings had a price chalked for every half point of the Standard, from the bottom of Iron to the top of Gold. Not one of them had a price for this. One by one they shut their ledgers and turned them over on the boards, face down, and stood with their hands on them. Ephram said it looked like men at a graveside.
-
-On the tower stairs it broke loudest. A woman near the top asked the man in front of her what had happened, and forty people on the steps below answered her at once, in four different accents, with the same three words in four different orders. Every version came out meaning *he hasn't got that.*
-
-Inside, it did not break at all for a long while.
-
-On the dais nobody moved. Nine pens lay still on nine open charts. Behind them, at their own table, one of the three scribes had stopped and was looking at the end of his pen, as if it had done something without asking him. The other two were writing as fast as their hands would go. High over the east rail, in the Compact's row, the quiet records officer from the bluff had stood up, and did not seem to know that he had.
+Inside, it did not break at all for a long while. From the north barrier Cael could see the dais, and nothing on it moved. Nine pens lay still on nine open charts. Behind them, at their own table, one of the three scribes had stopped and was looking at the end of his pen, as if it had done something without asking him, while the other two wrote as fast as their hands would go. High over the east rail, in the Compact's row, the quiet records officer from the bluff had stood up, and did not seem to know that he had.
 
 And she had not moved either.
 
@@ -142,7 +136,7 @@ The bowl saw it. They had seen him go through the air and come out the other sid
 
 It frightened him, and he let it, because there was no time to do anything else. And then the thing Brom had been putting into him all year, a little at a time, every time he went down on the boards, came up of its own accord. *Chin in. Arms in. Loose. Nothing left lying out.* He went down the way he had been taught to go down. He had not known he had learned it.
 
-She was a stride away, and he was falling at her feet with the left side open and nothing left in his legs.
+She was a pace away, and he was falling at her feet with the left side open and nothing left in his legs.
 
 He saw the choice reach her. He saw it as plainly as he had ever seen a weight move in a fighter's hips. A touch on him now would level the flags. A fire into him now would finish the bout in a way the woodcutters on the quays could have sold for the rest of their lives: the Gold over the fallen boy, with the storm round her head. It was lying on the floor for her. It would have cost her nothing at all.
 
@@ -150,7 +144,7 @@ She did not lay a lane. She did not lift a hand.
 
 Something happened to the air under him.
 
-He felt it as he fell, and from where he was it felt like the air thickening. It was like falling into a pond. Something took hold of all of him at once, gently, and slowed him, so that he did not hit the stone at all; he arrived on it. He came down onto one knee and the heel of one hand, as quietly as a man kneeling in a chapel. Then the air let go of him and was air again.
+He felt it as he fell, and from where he was it felt like the air thickening. It was like falling into a bale of wool. Something took hold of all of him at once, gently, and slowed him, so that he did not hit the stone at all; he arrived on it. He came down onto one knee and the heel of one hand, as quietly as a man kneeling in a chapel. Then the air let go of him and was air again.
 
 She stepped back a pace. She let her hands hang open at her sides, where everybody could see them. Then she turned her head and looked at the referee.
 
@@ -233,7 +227,7 @@ Then the healers closed round them, and two officials, and a pair of stewards wi
 
 She went back across the stone to her own gate, and did not look round.
 
-At the north rail Rooke had taken his hand back. He said something to the air, to nobody, but the younger healer heard it and said it again at her own supper table that night, and by the end of the week it had reached the bluff by three roads. It was the version the house kept.
+At the north rail Rooke had taken his hand back. He said something to the air, but the younger healer heard it and said it again at her own supper table that night, and by the end of the week it had reached the bluff by three roads. It was the version the house kept.
 
 "That's the whole education, right there. Not the lane. The mercy, on a clock."
 

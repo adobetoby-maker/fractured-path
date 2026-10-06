@@ -4,15 +4,15 @@ The ring was finished by first light, and Cael went back to see it before anybod
 
 He had slept perhaps four hours. Lira had walked him home through the quarter at midnight and gone up to her own room with the heat-wrap still tied on over her coat, and he had lain in the dark listening to the mallets until they stopped, and slept when they stopped, and woken all at once when the window turned grey, as if somebody in the room had said his name.
 
-The main floor's great doors still stood open on the side away from the city, and the crews were going home through them. They came out past him in twos and threes with their tools over their shoulders and their shirts dark down the back, talking in the flat, pleased voices of men who have done a night's work and done it right, and not one of them looked twice at him.
+The main floor's great doors still stood open on the side away from the city, and the crews were going home through them. They came out past him in twos and threes with their tools over their shoulders and their shirts dark down the back, talking in the pleased voices of men who have done a night's work and done it right, and not one of them looked twice at him.
 
 Inside, the bowl was empty except for the foreman, who stood in the middle of the floor with his measuring rod upright beside him like a shepherd's crook, looking at what he had built. Cael stopped at the end of the lowest tier and looked at it too.
 
-It was a ring, but not in the way the bracket squares were rings, which were rope on iron stands, put up in an hour and taken down in less. This one had been built to stay for as long as anybody wanted it. The posts stood in the old sockets, one to a socket, squared and wedged. Between them ran a barrier of heavy planking, chest-high on a man, with a thick rope laid along its top for a coping so that a fighter thrown against it would meet rope before wood. At the north end and the south the barrier did not run straight. It stepped back from the line for a stride and then came on again, so that each gate was a shallow bay in the wall, a little pocket of floor in its own shadow.
+It was a ring, but not in the way the bracket squares were rings, which were rope on iron stands, put up in an hour and taken down in less. This one had been built to stay for as long as anybody wanted it. The posts stood in the old sockets, one to a socket, plumbed and wedged. Between them ran a barrier of heavy planking, chest-high on a man, with a thick rope laid along its top for a coping so that a fighter thrown against it would meet rope before wood. At the north end and the south the barrier did not run straight. It stepped back from the line for a yard and then came on again, so that each gate was a shallow bay in the wall, a little pocket of floor in its own shadow.
 
 In the middle of it all, untouched, lay the round of old dark oak.
 
-Cael walked out to it, and nobody told him not to. The foreman watched him come and said nothing, and when Cael began to pace the ring he only shifted his rod to the other hand, as if he had expected it.
+Cael walked out to it, and nobody told him not to. The foreman watched him come, and when Cael began to pace the ring he only shifted his rod to the other hand, as if he had expected it.
 
 North to south it was fifty-two feet from the barrier to the barrier. East to west it was a few feet less. He walked both lines twice and wrote both figures in the notebook, under the figures he had written on orientation day from socket to socket, and they agreed, near enough, with what he had guessed.
 
@@ -38,7 +38,7 @@ Cael went and stood in the north bay, and then in the south, and found that the 
 
 He wrote that down too, with the rest of it.
 
-*Fifty-two north to south, a few feet less across. Crowned, the oak at the top. Bays at both gates, a stride deep, the stone quick. Whoever stands on the oak stands highest. Everything runs downhill from there.*
+*Fifty-two north to south, a few feet less across. Crowned, the oak at the top. Bays at both gates, a yard deep, the stone quick. Whoever stands on the oak stands highest. Everything runs downhill from there.*
 
 He read it over, and then, because the ledger kept everything, he added one more line.
 
@@ -48,7 +48,7 @@ He read it over, and then, because the ledger kept everything, he added one more
 
 Rooke held the session at the second bell in the hired hall behind the east tower, with the door shut.
 
-It was a bare room with a board floor that had been a wool-merchant's counting floor once and a long window over a yard full of barrels. Rooke had pinned two sheets of brown paper to the wall and written on both in his square capitals, and the book lay open on the trestle under them.
+It was a bare room with a board floor that had been a wool-merchant's counting floor once and a long window over a yard full of barrels. Rooke had pinned two sheets of brown paper to the wall and written on both in his capitals, and the book lay open on the trestle under them.
 
 Every house on the continent owned a copy of Rhagen's book. Halcenvane's had come north in Rooke's trunk, and Ephram had read it twice on the road, and Rooke had read it, Cael suspected, a good many more times than twice over the last eight days. The spine was cracked now at a chapter near the middle, under the one word *Coverage*.
 
@@ -76,8 +76,6 @@ Round the fourth card he had drawn a box in red chalk, and under it, inside the 
 
 "That's the captain," said Rooke. "That's every Shield Rhagen has turned out in the last forty years, and he's the best of them in this city. One, two and three you can answer from your sheet. One, you move, because his guard is laid on the floor and not on you, and the floor doesn't follow you about. Two, you drag it wide, because a wide guard costs him something he can't see himself spending. Three, you put Karis's fire into it at contact, at your two a bout, at the rate the clerks already have on paper." He looked round the room. "And then there's four."
 
-Nobody said anything.
-
 "I've read four nine times," said Rooke. "Ephram's read it twice. Karis read it last night when she thought I was asleep."
 
 "I read it once," said Karis. "It doesn't get longer."
@@ -92,7 +90,7 @@ He reached up and unpinned the fourth card, folded it in half and in half again,
 
 Cael looked back at him.
 
-He understood the tap perfectly. It was the nearest Rooke had ever come to saying it, which was not very near at all, and it said: *I know there is an answer to four somewhere. I know it isn't on your sheet. I have decided, for good, that I will never ask you where it is.* It said all of that from inside a buttoned pocket, where nobody in the room had to hear it.
+He understood the tap perfectly. It was as near as Rooke would come to saying it, which was not very near at all, and it said: *I know there is an answer to four somewhere. I know it isn't on your sheet. I have decided, for good, that I will never ask you where it is.* It said all of that from inside a buttoned pocket, where nobody in the room had to hear it.
 
 "So here's the whole of my instruction," said Rooke. "Nothing goes on that floor that isn't on your sheet. Not one step. If the bout comes down to four — you lose the bout. In-band. On flags. And we go to dinner."
 
@@ -150,7 +148,7 @@ The Halcenvane rail was at the north bay, where Rooke stood at the gate with his
 
 Across the ring the Rhagen block sat together in the east tiers in their black and cold glass-grey, the whole delegation, every fighter and coach, with their books open on their knees. Cael had seen them do it at the open warm-up, all of them talking aloud at once as they worked, and he saw them doing it now, the soft busy murmur of a body of people who had come to take notes. Their head of delegation sat at the end of the row with his own book closed. The man who had signed under his captain's filing did not need to write anything down; he had people for that.
 
-High above the east rail the Compact's row was full except for one chair. Ilsev sat in the first seat with her lap-desk squared, and Havel beside her. At the far end, behind the grey rail-cloth, seat twelve stood empty as it had stood every day of the sitting, with its pale square and its two empty screw holes, and a steward at the head of its stair.
+High above the east rail the Compact's row was full except for one chair. Ilsev sat in the first seat with her lap-desk before her, and Havel beside her. At the far end, behind the grey rail-cloth, seat twelve stood empty as it had stood every day of the sitting, with its pale square and its two empty screw holes, and a steward at the head of its stair.
 
 Cael looked at it once and looked away.
 
@@ -168,7 +166,7 @@ The flags went up.
 
 ---
 
-The captain did not move. He stood on his mark, a stride south of the oak, and his guard came up around him the way mist comes up off a river at evening: from no one place, from everywhere at once, without any sign that anyone had called it.
+The captain did not move. He stood on his mark, a pace south of the oak, and his guard came up around him the way mist comes up off a river at evening: from no one place, from everywhere at once, without any sign that anyone had called it.
 
 Cael had expected panes.
 
@@ -206,7 +204,7 @@ He felt it the way a man feels a room grow warmer: not all at once, but by the t
 
 He tried the read on the captain himself, behind his guard.
 
-That, at least, still worked. The man had weight like any man, and stood on his feet like a fighter who had stood on them every day since he could walk, and the read gave Cael his weight and his direction a fraction early, as it always did, as it had for every opponent of the year.
+That, at least, still worked. The man had weight like any man, and stood on his feet like a fighter who had stood on them every day since he could walk, and the read gave Cael his weight and his direction half a beat early, as it always did, as it had for every opponent of the year.
 
 It was no use at all. The captain's weight told Cael where the captain was going, and nothing about where the guard was going to be, because the guard was not going anywhere. It was already everywhere it needed to be.
 
@@ -230,7 +228,7 @@ Rooke met him at the gate with water. He did not offer advice, because he did no
 
 "I saw." Rooke took the cup back. "The clock?"
 
-Cael looked across the ring. The captain stood on his mark with his hands at his sides, breathing easily, and his guard lay round him in its arc. Even at rest it was moving, renewing itself all over, a little at a time, everywhere, the way a river is never quite the same river. He watched it for the whole of the interval with the full gaze, harder than he had ever watched anything, and there was not one single moment in all of it when any part of it was older than the rest.
+Cael looked across the ring. The captain stood on his mark with his hands at his sides, breathing easily, and his guard lay round him in its arc. Even at rest it was moving, renewing itself all over, a little at a time, everywhere, the way a river is never quite the same river. He watched it for the whole of the interval with the full gaze, harder than he had watched anything all year, and there was not one single moment in all of it when any part of it was older than the rest.
 
 "There isn't one," he said.
 
@@ -242,13 +240,13 @@ Nobody had told him there were Shields without one. Or rather, they had told him
 
 "Silver is not a bigger Iron," he said, half aloud.
 
-Rooke heard him. He did not say anything. He only nodded, once, slowly, the way he nodded when a fighter had come out of a bad exchange with a true sentence.
+Rooke heard him. He only nodded, once, slowly, the way he nodded when a fighter had come out of a bad exchange with a true sentence.
 
 Behind Cael, at the rope, Lira had stopped writing.
 
 "So the clock's gone," she said. "What's left?"
 
-Cael looked at the ring: at the crown of it, where the oak lay dark and old at the top of everything, and at the long slope of stone running down to the planking on every side, and at the bay in the north barrier, a stride deep, where the stone was quick and new.
+Cael looked at the ring: at the crown of it, where the oak lay dark and old at the top of everything, and at the long slope of stone running down to the planking on every side, and at the bay in the north barrier, a yard deep, where the stone was quick and new.
 
 "One, two and three," he said.
 

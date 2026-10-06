@@ -50,7 +50,7 @@ It was dark wood, older than anything around it, with the type of a printer who 
 
 Beside it, in a glass case on an iron stand, lay the register.
 
-Every morning at the first bell a steward opened it. He was a narrow, tidy man with a bunch of keys on a cord round his wrist, one of the west tower's outer staff. Cael had seen him before, on the mornings of the two Silver filings, and he had looked then like a man who had expected the easiest posting in the building and had been mildly put out to find it wasn't. He unlocked the case. He opened the register at its ribbon and read down the page to the last entry, and looked up at the frame, and checked one against the other. Then he shut the book and locked the case and stepped back to the wall and stood there, with his hands behind him, for the hour the rules required.
+Every morning at the first bell a steward opened it. He was a narrow, tidy man with a bunch of keys on a cord round his wrist, one of the west tower's outer staff. Cael had seen him before, on the mornings of the two Silver filings, and he had had the look then of somebody who had expected the easiest posting in the building and had been mildly put out to find it wasn't. He unlocked the case. He opened the register at its ribbon and read down the page to the last entry, and looked up at the frame, and checked one against the other. Then he shut the book and locked the case and stepped back to the wall and stood there, with his hands behind him, for the hour the rules required.
 
 There were about thirty people watching him do it. Some had come on purpose. Some had stopped on their way through the tunnel and stayed. Nobody said anything. When the hour was up the steward took his keys and went, and the thirty went too, slowly, as people leave a quay when the ship they were waiting for has not come in.
 
@@ -78,7 +78,7 @@ Brom was next. *Left the gap. Should have left it sooner.* Rooke did not make hi
 
 Rooke tapped the chalk with his boot. "A gap with a man in it is a wall. Everybody can see a wall. A gap with a man beside it is a gap. It looks like a way through. Let it look like one."
 
-Brom considered the chalk for a while, with his bandaged arms folded.
+Brom considered the chalk, with his bandaged arms folded.
 
 "So I'm a toll," he said. "Not a door."
 
@@ -114,9 +114,7 @@ Then he had folded his form in half and put it back inside his coat, and buttone
 
 "Same as Karis's this morning, I expect." Ephram tore a piece of bread in two. "He worked his sums out where the whole tunnel could watch. That's the whole category's problem, standing at a board in a wet coat."
 
-Nobody said anything for a moment.
-
-Then Lira said, "Was it a wet coat?"
+Lira said, "Was it a wet coat?"
 
 "It was by the time it got to me." And the table laughed, which was the first time it had laughed properly since the tunnel.
 
@@ -132,7 +130,7 @@ Cael counted them, because counting was what he did when he did not know what to
 
 The steward did it exactly as he had done it the day before.
 
-He did not hurry, and he did not look up at the crowd, not once. He unlocked the case and opened the book and read the last entry and looked at the frame and checked one against the other, with the rain darkening the shoulders of his coat, and shut the book and locked the case and went and stood against the wall with his hands behind his back. When the hour was over he took his keys and left. Cael thought it was the best piece of ordinary work he had seen anybody do all sitting, and he wrote it down that night in the old volume's last leaves, in four words, because the old volume was running out.
+He did not hurry, and he did not look up at the crowd, not once. He unlocked the case and opened the book and read the last entry and looked at the frame and checked one against the other, with the rain darkening the shoulders of his coat, and shut the book and locked the case and went and stood against the wall with his hands behind his back. When the hour was over he took his keys and left. Cael thought it was a fine piece of ordinary work, and he wrote it down that night in the old volume's last leaves, in four words, because the old volume was running out.
 
 The broadsides had found the frame by then. They ran it on every front sheet in the outer court, in the largest type any of them owned.
 
@@ -178,7 +176,7 @@ He stood and listened, and heard her feet settle on the boards forty feet away. 
 
 "Now," he said.
 
-She went. The burst carried her the length of the hall and past him on his left, a stride off, and her wash went over him a moment later, a push of air on his cheek and his ear and his shirt.
+She went. The burst carried her the length of the hall and past him on his left, a pace off, and her wash went over him a moment later, a push of air on his cheek and his ear and his shirt.
 
 "You called me," came Lira's voice from the other end. "Not it."
 
@@ -206,7 +204,7 @@ She had the frame drawn in the back of her notebook, from memory, with its two f
 
 Nobody said what was above.
 
-There was exactly one name above, and every one of them had been not saying it since the tunnel. It had become a kind of rule among them without anybody making it, the way the long table's rules got made: the name was not to be spent before its time. Brom ate his supper. Ephram looked at his plate. Lira, who never in her life had left a thing unsaid that she wanted said, put her cup down and looked across at Cael and said nothing at all.
+There was exactly one name above, and every one of them had been not saying it since the tunnel. It had become a kind of rule among them without anybody making it, the way the long table's rules got made: the name was not to be spent before its time. Brom ate his supper. Ephram looked at his plate. Lira, who left nothing unsaid that she wanted said, put her cup down and looked across at Cael and said nothing at all.
 
 He went up early. He did not sleep early.
 

@@ -256,7 +256,7 @@ When the floor was still again, the west tower's door opened, and an old man cam
 
 Cael had pictured somebody larger. Umber was slight and a little stooped, in the adjudication office's plain grey, and he crossed the great floor at the pace of a man crossing his own kitchen in the morning.
 
-Two clerks walked behind him with a small table between them. They set it down in the middle of the floor, and he set the case on it, and stood back and looked at it for a moment with his hands folded.
+Two clerks walked behind him with a small table between them. They set it down in the middle of the floor, and he set the case on it, and stood back with his hands folded and looked at it.
 
 Then he took a glass out of his coat, and bent, and went over the seals.
 
@@ -288,7 +288,9 @@ Very few of them could have told par from a pothole, or read a line of the table
 
 They did not love that wax. They leaned on it.
 
-*Before he set the new seal he went over the old ones with a glass, in front of all of us,* he wrote that night, under the line about Daeva.
+Umber went into the Log under the line about Daeva.
+
+*Before he set the new seal he went over the old ones with a glass, in front of all of us.*
 
 *Nothing in the charter asks him to. Nobody in the tiers could have seen it if he'd left it out. He did it the way other men wash their hands before a meal.*
 
@@ -352,13 +354,13 @@ Behind the grey Lira could not see his left foot go, but she could hear it, and 
 
 Her palm landed on his ribs out of the cloud. The flags went up.
 
-It was not clean. Listening cost her something every time, and Cael could see what it was from the rail. She was a beat late on everything, because she had to wait for the sound before she could go, and a fighter who waits for a sound has given away the first half of every beat to whoever makes it. Twice she went to where his foot had landed and found him a stride further on, because the sound had told her where he had been and not where he was going.
+It was not clean. Listening cost her something every time, and Cael could see what it was from the rail. She was a beat late on everything, because she had to wait for the sound before she could go, and a fighter who waits for a sound has given away the first half of every beat to whoever makes it. Twice she went to where his foot had landed and found him a pace further on, because the sound had told her where he had been and not where he was going.
 
 The Ash fighter noticed. He was quick about it. Halfway through the exchange he began to land soft, on the outsides of his feet, and once he put a foot down hard on purpose and went the other way.
 
 She heard that one, and went to it, and he touched her from behind the grey. It was a feint of the foot without the weight in it, and it was a clever one.
 
-Lira stood very still for half a breath after the flags went up. Then she nodded, once, to herself, and the next time a foot came down hard she did not go to it. She waited for the second sound, the one that came when the weight arrived, and went to that instead. She touched him once more, cleanly, a breath before the bell.
+Lira stood where she was for half a breath after the flags went up. Then she nodded to herself, and the next time a foot came down hard she did not go to it. She waited for the second sound, the one that came when the weight arrived, and went to that instead. She touched him once more, cleanly, a breath before the bell.
 
 Two to one. Two to three on the bout.
 
@@ -368,7 +370,7 @@ At the second interval she came to the rail. She did not drink.
 
 She stood with her hands on it and her eyes half shut, the way she had stood on the floor at the orientation, and Cael understood that she was listening to the hall.
 
-"Feet," she said, to nobody. "I'm fighting his feet." She opened her eyes. "It's slow. I'm a beat late on everything, because I'm waiting to hear."
+"Feet," she said. "I'm fighting his feet." She opened her eyes. "It's slow. I'm a beat late on everything, because I'm waiting to hear."
 
 "Then don't wait," said Cael.
 
@@ -376,7 +378,7 @@ She looked at him.
 
 "Price his roads," he said. "The way you did in the yard. You don't need to see him to make the roads dear. You only need to know where they go." He nodded at the floor. "The floor tells you that. It's a square. It's got the same roads with your eyes shut."
 
-Lira looked at the floor for a moment longer. Then she smiled, very slightly, and went back to her chalk.
+Lira looked at the floor. Then she smiled, very slightly, and went back to her chalk.
 
 The third exchange was the corner game.
 
@@ -414,7 +416,7 @@ The flags stayed up a long moment after the last touch, and the clerk at the end
 
 The fighter behind could not have drawn level with the one exchange remaining, and so the bout was over in four.
 
-The Ash fighter stood on the floor for a moment, looking at his hands. Then he walked across to her and held out one of them, the grey wraps still on it, and she took it.
+The Ash fighter stood on the floor and looked at his hands. Then he walked across to her and held out one of them, the grey wraps still on it, and she took it.
 
 "You stopped looking," he said. He sounded more interested than anything.
 
@@ -436,7 +438,7 @@ Karis had read the order in the first exchange, and in the second she had begun 
 
 Eight to one, with two exchanges still to fight and the river fighter unable, even with every point in them, to draw level. The clerk had stopped it after the third.
 
-She came along the rail and stood by Rooke, and he looked at her and nodded, once.
+She came along the rail and stood by Rooke, and he looked at her and nodded.
 
 "You two are in different halves," he said. "I'll say it once more, so that nobody has to wonder. Lira's pool and Karis's pool don't meet until the final, and not anywhere before it. So you can stop looking at each other's sheets."
 
@@ -454,6 +456,6 @@ Lira leaned on the rail beside them and drank half a cup of water at once. Then 
 
 She put the cup down. "He picked out the one sense I can't do without and sent me the bill for it. In the first round."
 
-Cael wrote her margin that night under the Daeva line and the Umber line, and showed it to her before he closed the book, and she read it and nodded.
+Her margin went in under the Daeva line and the Umber line, and he showed it to her before he closed the book. She read it and nodded.
 
 *She won by changing, not by being ahead. At the meets she had both. Here there's no room to spare, so the changing has to do all the work. Zerin's figures say Zerin brought her room with her.*

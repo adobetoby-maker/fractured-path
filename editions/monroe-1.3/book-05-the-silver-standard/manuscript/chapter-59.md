@@ -6,7 +6,7 @@ There was a big young man sitting on the step there with bandaged forearms, watc
 
 He crossed it slowly. The copy line still ran along the colonnade, and he walked down the length of it and nobody in it knew him. A woman with a basket of eels. Three boys from some hill house arguing about the fourth exchange with their hands. A grey delegation head in Auremont's blue, standing in his place with his hands folded behind him, who did know him, and inclined his head an inch, and was answered by an inch. At the end of the colonnade, by the north tunnel, there was a frame on a nail with a sheet in it. He stopped in front of it and read the eleven words again, although he had heard them read aloud at dawn and could have said them in his sleep.
 
-He had written a note like that himself, once, on the road home from the bluff. Fewer words, and in a worse light, and signed with his whole name. He had thought at the time that it was the most careful thing he had ever written. He saw now that the west tower had done it better. They had not tried to say what the boy was. They had said only what their instrument could and could not do, and stopped.
+He had written a note like that himself, once, on the road home from the bluff. Fewer words, and in a worse light, and signed with his whole name. He had thought it careful at the time. He saw now that the west tower had done it better. They had not tried to say what the boy was. They had said only what their instrument could and could not do, and stopped.
 
 He walked on toward the inn under the outer wall.
 
@@ -36,7 +36,7 @@ It lay along the foot of the barrier, west of the north break, a few strides lon
 
 He stood and looked at it until the light went off it.
 
-Under the strapping the left side kept up a low steady complaint, like a dog that has decided to go on grumbling all night. The rest of him was not settled at all. All day he had felt the things he carried moving about in him, slowly, the way men move furniture in a house where a great heavy chest has just been carried in. Every one of them leaned a little toward the new weight, and none of them had found its place. Twice on the walk down he had reached for the Wind and got something else. He thought it would be a long while before he could take a step without thinking about it. He had written that in the old volume already, and the healers' account of it, and his own, which was more honest.
+Under the strapping the left side kept up a low steady complaint, like a kettle left on the back of a stove. The rest of him was not settled at all. All day he had felt the things he carried moving about in him, slowly, the way men move furniture in a house where a great heavy chest has just been carried in. Every one of them leaned a little toward the new weight, and none of them had found its place. Twice on the walk down he had reached for the Wind and got something else. He thought it would be a long while before he could take a step without thinking about it. He had written that in the old volume already, and the healers' account of it, and his own, which was more honest.
 
 He took out Hesk's book and opened it on the rail. There was just enough light. He wrote standing up.
 
@@ -86,11 +86,11 @@ Lira filled his cup last.
 
 The wider table broke up a little after the tenth bell. Rooke and Gault went up the stair arguing about the best week of the year to start a cohort on stone. Bracken took the pouch. Withrow went last. She stood at the door for a moment looking back at the table, as if she were counting something, and then she said goodnight to all of them in one word and was gone.
 
-Then there were four, in the back room, with the door shut and the window open on the courtyard pump.
+Then there were four, in the back room, with the door shut and the window open.
 
 They had one thing left to do, and Karis had brought the paper for it.
 
-"The minute from the bluff held," she said. "I want that said first, before anything else, because it's true. Nothing was made. She began it. You were awake and you knew what you were doing." She laid the sheet on the rocking table. "And the third line held too, as far as it went. The cost was on paper. Every cost we had ever seen was on paper." She looked at him. "The trouble is we had never seen one at that weight. We had it written down at the weight of a stair, and a yard, and a copper pot. Not at the weight of a Gold, in the middle of a bout, in front of a city."
+"The minute from the bluff held," she said. "I want that said first, before anything else, because it's true. Nothing was made. She began it. You were awake and you knew what you were doing." She laid the sheet on the table. "And the third line held too, as far as it went. The cost was on paper. Every cost we had ever seen was on paper." She looked at him. "The trouble is we had never seen one at that weight. We had it written down at the weight of a stair, and a yard, and a copper pot. Not at the weight of a Gold, in the middle of a bout, in front of a city."
 
 "It could have gone worse," said Lira quietly. "If she'd been anybody else."
 
@@ -130,7 +130,7 @@ It took nearly an hour to reach the top four. Nobody in the bowl was bored by it
 
 "Fourth," read the official. "The Rhagen Institute."
 
-They came out in black and glass, in perfect step, and stood. Cael watched their captain. He was the man who had said that Rhagen could not find the edges of him, a lifetime ago in the second week. He stood in front of his people with his hands at his sides. Their colours went up a staff in the common row, one place short of the honour staffs at the floor's head, by a trial lost on a hill. He did not look up at them. He looked at the floor in front of his feet, as a man looks at a sum he has checked twice and found correct and does not like. Then, as the eight began, he turned his head and found Halcenvane's block in the tunnel mouth, and nodded once, as he had nodded on the crown at the end of his own bout.
+They came out in black and glass, in perfect step, and stood. Cael watched their captain. He was the man who had said that Rhagen could not find the edges of him, a lifetime ago in the second week. He stood in front of his people with his hands at his sides. Their colours went up a staff in the common row, one place short of the honour staffs at the floor's head, by a trial lost on a hill. He did not look up at them. He looked at the floor in front of his feet. Then, as the eight began, he turned his head and found Halcenvane's block in the tunnel mouth, and nodded once, as he had nodded on the crown at the end of his own bout.
 
 "Third. Halcenvane Academy."
 
@@ -140,7 +140,7 @@ The steward took the bluff's standard, which was plain and not new and had been 
 
 Cael was at the end of the line, where the marshals' list had put him on the first day. He did not look up at the cloth. He looked along the line instead.
 
-Gault had taken the flat box out of his inside pocket, the one with the old blue ribbon in it, and was holding it against his chest with both hands without opening it. Ephram's lips were moving; he was saying the house's name under his breath, over and over, as if he were learning it. Brom put two fingers up to the ribbon at his collar, once, and took them down. Rooke did not look at the standard at all; he was watching the bowl, the way he watched a crowd at a rail, as if to see who had come. Seln stood at the very end, a step behind Cael, looking at nothing, with his hands folded in front of him like a man waiting at a counter. And Withrow did not look up either. She looked along the line of them from the near end to the far, one face at a time, and when she came to Cael she stopped, and stayed a moment, and went back the way she had come.
+Gault had taken the shallow box out of his inside pocket, the one with the old blue ribbon in it, and was holding it against his chest with both hands without opening it. Ephram's lips were moving; he was saying the house's name under his breath, over and over, as if he were learning it. Brom put two fingers up to the ribbon at his collar, once, and took them down. Rooke did not look at the standard at all; he was watching the bowl, the way he watched a crowd at a rail, as if to see who had come. Seln stood at the very end, a step behind Cael, looking at nothing, with his hands folded in front of him like a man waiting at a counter. And Withrow did not look up either. She looked along the line of them from the near end to the far, one face at a time, and when she came to Cael she stopped, and stayed a moment, and went back the way she had come.
 
 Lira was the only one of them who looked at the cloth. She looked at it with her chin up and her eyes too bright, and said, out loud, so that the whole line heard:
 
@@ -152,7 +152,7 @@ The eight was longer than eight, because when the steward's glove went up and ca
 
 Then the banner.
 
-It came down from the champion's gate for the last time in the cycle. It was carried on its staff by the tournament's own colour-guard, two of them, one at either side, as it had been carried in alone on the first day with no house behind it. Everyone in the bowl stood up. They brought it to the oak at the middle of the floor and stood there with it, level, neither raised nor dipped.
+It came down from the champion's gate for the last time in the cycle. It was carried on its staff by the tournament's own colour-guard, two of them, one at either side. As on the first day, no house walked behind it. Everyone in the bowl stood up. They brought it to the oak at the middle of the floor and stood there with it, level, neither raised nor dipped.
 
 The transfer was the oldest procedure in the charter. Cael watched every step of it, because it was an instrument being handed from one keeper to the next, and he had never seen it done.
 
@@ -160,7 +160,7 @@ The presiding official came down from his lectern. Four ties of grey cord held t
 
 Then two registrars sat down at a small table that had been carried out onto the stone, and signed the transfer, one after the other, in ink. Eight thousand people stood on their feet in silence and watched two clerks write their names.
 
-Cael thought he had never seen anything more like the bluff in his life.
+Cael thought it was exactly like the bluff.
 
 At Auremont's place on the floor the pine case was unfastened a second time. Auremont's own people sleeved the banner to Auremont's staff, with the same four ties in the opposite order, and raised it. Then the house's procession took it round the floor once, close under the barrier, slowly, so that every person in the bowl could see it go by at the height of their eyes. Silver on grey. The mark's own flag.
 
@@ -178,7 +178,7 @@ She had not planned anything. She noticed, afterwards, that she had not planned 
 
 She stepped out of the file.
 
-It was four steps to the barrier where they stood. The colour-guard's sergeant saw her go and opened his mouth. The banner went on without her. The near tiers saw and made a sound like a wave turning over. She crossed the four steps and stopped in front of the boy, with the barrier's cap between them, and the shadow of the banner sliding away along the stone behind her.
+It was four steps to the barrier where they stood. The colour-guard's sergeant saw her go and opened his mouth. The banner went on without her. The near tiers saw, and a murmur went along them. She crossed the four steps and stopped in front of the boy, with the barrier's cap between them, and the shadow of the banner sliding away along the stone behind her.
 
 "Rematch," she said.
 

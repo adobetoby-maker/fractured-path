@@ -6,7 +6,7 @@ His semifinal was at the fourth bell on the third floor, against a woman he had 
 
 Cael knew her before she had her coat off. She had been a sheet in Rooke's profiles stack in the first week of the year, marked more heavily than the sheets round it: a fair-day fighter from a market house in the hills, Iron Skin like Brom, Copper Rank Four on her certificate, with four bouts on her record and every one of them won and every one of them short. *Rank Four on paper. Fights like a Seven. Buried.* At the wool town she had walked Brom backward round his own chalk by the arm in front of a muttering gallery, and he had beaten her two touches to one in the fourth exchange, and the figures had come up twenty-three to twenty-two.
 
-She was perhaps eighteen, square in the shoulders, with her hair cropped close to her skull, and she still had the fair-day fighter's habit of standing loose and easy until the instant she was not. The lean coach in brown was at her rail with his arms folded, exactly as he had stood in the sheep market. Her market house had come up through its own region on her back, Karis said, and had brought no other entry to any bracket in the city. For a week she had been cutting through her side of the Copper draw, and not one broadside had printed a line about her.
+She was perhaps eighteen, broad in the shoulders, with her hair cropped close to her skull, and she still had the fair-day fighter's habit of standing loose and easy until the instant she was not. The lean coach in brown was at her rail with his arms folded, exactly as he had stood in the sheep market. Her market house had come up through its own region on her back, Karis said, and had brought no other entry to any bracket in the city. For a week she had been cutting through her side of the Copper draw, and not one broadside had printed a line about her.
 
 "She's been watching him," said Karis. "Every bout of his she could reach. I've seen her in three galleries."
 
@@ -20,7 +20,7 @@ Lira stood at the rail beside Cael in her coat, with the heat-wrap tied round he
 
 Cael looked. High on the far side, in the third row, sat a short spare man in black and glass-grey, with a coach beside him holding a book open on his knee.
 
-The bell went, and Brom fought the most careful bout of his life.
+The bell went, and Brom fought carefully.
 
 Cael had never seen him fight like it, and it took most of the first exchange to understand what he was looking at. Brom did nothing new. He did not funnel anybody anywhere. He did not leave a door open on purpose or rent anything out at a discount. He stood in the middle of the floor and fought her with the plain heavy things the whole circuit already knew he had: the drive, the forearm, the left door that changed hands in the turn. Every one of them was on somebody's page already, and every one of them he did exactly as the page said he would, as if he were reading his own file aloud to the man in the third row and adding nothing.
 
@@ -32,7 +32,7 @@ Ephram frowned at the floor. "He's not showing anything."
 
 "He's showing everything," said Karis. "Everything Marek's already paid for."
 
-Rooke said nothing. He stood with his forearms along the rail and his chin resting on them and watched Brom walk his slow circle in the interval, round and round his own corner, and nothing in his face moved.
+Rooke stood with his forearms along the rail and his chin resting on them and watched Brom walk his slow circle in the interval, round and round his own corner, and nothing in his face moved.
 
 A man two places along the rail from Cael yawned, loudly, and said to his neighbour that he had come to see the Halcenvane wall and had been shown a wall. His neighbour laughed. Cael did not mind them. He was watching the third row, where Rhagen's coach sat with his book open on his knee and his pencil lifted, and in the whole of the first exchange the pencil had not once come down to the page. Brom had spent three minutes on the third floor of the Concourse giving the best reader on the continent nothing at all to read, and the only people in the hall who knew it were the ones who had been told what to look for.
 
@@ -60,7 +60,7 @@ Three to nothing, closed early. Eight to three. She could not have drawn level i
 
 They stood on the floor a moment, breathing. Then she walked across to him and held out her hand.
 
-"Second time's the real rating," she said, loud enough for the rail. She said it the way a dealer at a horse fair says what an animal is worth after she has ridden it twice. "The first time anybody can be lucky. The second time is what you are."
+"Second time's the real rating," she said, loud enough for the rail. She said it the way a dealer says what an animal is worth after she has ridden it twice. "The first time anybody can be lucky. The second time is what you are."
 
 "Then you're rated," said Brom.
 
@@ -76,7 +76,7 @@ Brom came up the steps unwinding his wraps. He glanced across the hall at the th
 
 Brom thought about that. "She earned the semifinal. I only gave her the rating." He folded the wraps over his arm. "Somebody ought to file for her. Somebody ought to have done it a year ago, at the wool town, and I'd like to know why nobody has."
 
-*Brom fought carefully today,* Cael wrote that night, *and I'd never seen it before. He fought a woman who had watched him for a week and a man who had watched him for a season, both at once, from the same floor, and he gave the first a real bout and the second nothing at all. She said the second time is the real rating. I think she's right. The first look at anybody is a story somebody tells. The second is a measurement.*
+*Brom fought carefully today,* Cael wrote that night. *He fought a woman who had watched him for a week and a man who had watched him for a season, both at once, from the same floor, and he gave the first a real bout and the second nothing at all. She said the second time is the real rating. I think she's right. The first look at anybody is a story somebody tells. The second is a measurement.*
 
 *Most people have only ever had one look at me.*
 
@@ -84,13 +84,13 @@ Brom thought about that. "She earned the semifinal. I only gave her the rating."
 
 Rooke did not wait for the plates to be cleared.
 
-He sat at the head of the long table with the coaching file open beside his cup and his supper going cold, and as soon as Lira had sat down he turned to her and read her the exchanges, her side first, as he read every result to every one of them, flat and complete.
+He sat at the head of the long table with the coaching file open beside his cup and his supper going cold, and as soon as Lira had sat down he turned to her and read her the exchanges, her side first, as he read every result to every one of them, in full.
 
 "Naught-three, two-one, one-two, one-three."
 
 Then he closed the file and put his hand on it.
 
-"Four to nine. And a twenty-seven to her twenty-nine. You know what those numbers are? They're a measurement. They're the first honest one anybody's ever given you of how far you are from Silver." He tapped the file. "A tenth on every window. Two points on the figures. That's the distance. That's all it is, and now you know it to the inch. I've had fighters go their whole careers and never once find out how far off they were. They'd lose to somebody better and tell themselves it was luck, or the floor, or the panel, and they'd never know the size of the gap well enough to start closing it." He looked at her. "You know the size of it now. That's what you bought this morning."
+"Four to nine. And a twenty-seven to her twenty-nine. You know what those numbers are? They're a measurement. They're an honest one, of how far you are from Silver, and nobody's handed you one before." He tapped the file. "A tenth on every window. Two points on the figures. That's the distance. That's all it is, and now you know it to the inch. I've had fighters go their whole careers and never once find out how far off they were. They'd lose to somebody better and tell themselves it was luck, or the floor, or the panel, and they'd never know the size of the gap well enough to start closing it." He looked at her. "You know the size of it now. That's what you bought this morning."
 
 Lira was sitting very straight, with the heat-wrap round her shoulder and her left hand in her lap.
 
@@ -106,11 +106,11 @@ Then he stood up at last, with the cup in his hand.
 
 Lira looked down at her plate, which was full and which she had not touched. Then, slowly, she picked up her fork and began.
 
-A note came up the stair while she ate. It was on the grey paper Withrow used for everything, folded once, with Lira's name on the outside in Withrow's square hand. Lira opened it at the table and read it, and then turned it round and laid it in the middle of the board, among the cups, for everybody.
+A note came up the stair while she ate. It was on the grey paper Withrow used for everything, folded once, with Lira's name on the outside in Withrow's upright hand. Lira opened it at the table and read it, and then turned it round and laid it in the middle of the board, among the cups, for everybody.
 
 *Semifinalist. Continental. Noted twice.*
 
-Nobody said anything for a moment. Cael read it, and then read it again, and understood the last two words. Once in the standings, where it would be printed and posted and filed with everybody else's result. And once by Withrow herself, in whatever ledger she kept that nobody else would ever see. It was perfectly plain which of the two she thought would last longer.
+Cael read it, and then read it again, and understood the last two words. Once in the standings, where it would be printed and posted and filed with everybody else's result. And once by Withrow herself, in whatever ledger she kept that nobody else would ever see. It was perfectly plain which of the two she thought would last longer.
 
 Lira folded the note small and put it inside her shirt, against the page Karis had given her the night before.
 
@@ -128,9 +128,9 @@ That was the whole of the brief. Rooke sat down again and finished his supper, a
 
 Lira wanted to see the result on the boards.
 
-She did not say why, and nobody asked. Cael went down with her after supper, through the delegation quarter in the cooling dark to the Concourse's outer court, where the day's results went up on the long east wall in the tournament's flat black type an hour after every bout. A few lamps burned along the wall. A sweeper was working his way across the far side of the court, and two old men were arguing in front of the Gold boards about a bout that had not happened yet.
+She did not say why, and nobody asked. Cael went down with her after supper, through the delegation quarter in the cooling dark to the Concourse's outer court, where the day's results went up on the long east wall in the tournament's black type an hour after every bout. A few lamps burned along the wall. A sweeper was working his way across the far side of the court, and two old men were arguing in front of the Gold boards about a bout that had not happened yet.
 
-Lira found the Iron semifinals and stood in front of them, reading. She was not lingering over it. She read the board the way she read everything now, carefully, for the record.
+Lira found the Iron semifinals and stood in front of them, reading. She was not lingering over it. She read the board carefully, for the record.
 
 *ZERIN — AUREMONT — 9. LIRA — HALCENVANE — 4.* Under the names, in smaller type, the four exchanges and the two figures.
 
@@ -164,7 +164,7 @@ Lira thought about that for the length of a street. At the guesting-house the co
 
 Lira did not go to her own place. She crossed the room instead and sat down beside him on the bench, the way Brom had sat down next to him once. She did it on purpose, and everybody in the room saw her do it, and every one of them went on pretending not to have.
 
-She looked at the fire for a while. When she spoke, it was in the low, even voice she kept for reading out the last line of anything.
+She looked at the fire. When she spoke, it was in the low, even voice she kept for reading out the last line of anything.
 
 "I used to want them to admit what I already was." A coal shifted in the grate. "The ledger. Fenmark. The registry. I wanted somebody with a stamp to write down the thing I knew, so that I could stop having to show it to people." She was quiet for a moment. "Now I want to become something they haven't seen yet."
 
@@ -174,7 +174,7 @@ Lira did not look away from the fire. "It's a better want. It costs more."
 
 Cael said nothing. He did not think there was anything he could have said that would have been half as true, so he only sat there beside her and let it be said. After a while she leaned her good shoulder against his, briefly, and then sat up again and looked at the fire.
 
-*She lost today and came home bigger,* he wrote that night. *For as long as I've known her she's been building something, and I always thought it was the stamp. It was never the stamp. The stamp was the scaffolding, and tonight she took it down and let me see the shape of the house.*
+*She lost today and came home bigger. For as long as I've known her she's been building something, and I always thought it was the stamp. It was never the stamp. The stamp was the scaffolding, and tonight she took it down and let me see the shape of the house.*
 
 *She's stopped wanting to catch the girl they built. She wants to be the thing nobody's built yet. I'm not sure anyone else at that board understood what Zerin had just handed her. I think Zerin did.*
 
@@ -206,7 +206,7 @@ Brom said nothing, which was what he said to most things that deserved it.
 
 ---
 
-Karis found Cael on the stair at midnight, on the same landing where Lira had found him the night before. He had half expected her. She sat down on the step above him, as Lira had, and in the light from the window he could see the ink on her palm, smudged now, a line of Lira's words in Karis's own small square hand.
+Karis found Cael on the stair at midnight, on the same landing where Lira had found him the night before. He had half expected her. She sat down on the step above him, as Lira had, and in the light from the window he could see the ink on her palm, smudged now, a line of Lira's words in Karis's own small hand.
 
 "The instrument's answer. No coaching. The same as you gave Lira."
 
@@ -214,13 +214,13 @@ He had been building it all evening, between the boards and the fire, and he gav
 
 "Studying her won't work. She studied you back, the whole time you were studying her, and she's still got every page. There isn't anything you could put in your columns tonight that she didn't put in hers years ago." He looked up at her. "If you win, it'll be as somebody she hasn't got a page for."
 
-Karis sat very still for a long time.
+Karis sat without moving for a long time.
 
 "The file is accurate."
 
 "The file is *finished*," said Cael. "You're not."
 
-He watched her take the sentence apart, as she took everything apart, turning it over in her hands to find where it joined. He saw her find the join. A file was closed on the day it was written. The person it was written about went on living after the ink was dry.
+He watched her take the sentence apart, turning it over in her hands to find where it joined. He saw her find the join. A file was closed on the day it was written. The person it was written about went on living after the ink was dry.
 
 "Accurate and finished." She spoke slowly. "Two different ways for a document to fail. The first one's wrong by mistake." She looked down at her palm. "The second's only wrong by date."
 
@@ -230,7 +230,7 @@ She took the notebook out of her coat and opened it at the leaf headed *QUARTERF
 
 She stood up and went down the stair past him into the dark common room, and he followed her as far as the door.
 
-The fire had burned to coals. Karis knelt in front of it, tore the three pages out along the binding, carefully, as she did everything, and laid them flat on the embers. They browned and curled at the corners and then caught all at once, and she watched them burn until there was nothing left but grey, and then she knelt there a little longer with the light gone out of her face.
+The fire had burned to coals. Karis knelt in front of it, tore the three pages out along the binding, carefully, and laid them on the embers. They browned and curled at the corners and then caught all at once, and she watched them burn until there was nothing left but grey, and then she knelt there a little longer with the light gone out of her face.
 
 She did not write anything to take their place. Cael watched for it, and she did not. She shut the notebook on the leaf with the four columns and the one word, and got up, and brushed off her knees.
 

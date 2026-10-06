@@ -14,7 +14,7 @@ Above them, at the rail, nobody spoke, and Rooke stood with his sheet folded in 
 
 "Put her down," she said.
 
-That was all she said. She said it the way she had said *Early* on the waystation clay, the one word she had found for a thing after a whole day of failing to say it in a hundred. Then she stepped back from the cap and folded her arms, and her left arm went in close to her side the way it always did now, from habit, and she did not look at him again.
+She said it the way she had said *Early* on the waystation clay, the one word she had found for a thing after a whole day of failing to say it in a hundred. Then she stepped back from the cap and folded her arms, and her left arm went in close to her side the way it always did now, from habit, and she did not look at him again.
 
 He walked back to the north flag.
 
@@ -40,9 +40,9 @@ He moved.
 
 He was off the line of it before the lane opened. He did not burst. He did not need to. He simply walked two quick strides off to the side, on his own feet, and turned, and was standing in still air when the lane came down the crease where he had been and went past him. The wash pulled at his sleeve. It did not touch him.
 
-He heard the bowl then, for a moment. It made the sound a crowd makes when a juggler drops nothing.
+He heard the bowl then, for a moment: one small surprised sound from all of it at once.
 
-The second fold came slanting, low, down the south-east fall toward the barrier, to take the ground he had gone to. He heard it sooner this time, because now he knew what to listen for, and he was two strides further along the barrier before the crease had finished closing. Again on his feet. Again in still air. The lane went down to the barrier's foot where nobody was and spent itself on the trench grating with a short flat crack, and he smelled struck flint, and the east mast gave one low note, like a bell touched with a finger.
+The second fold came slanting, low, down the south-east fall toward the barrier, to take the ground he had gone to. He heard it sooner this time, because now he knew what to listen for, and he was two strides further along the barrier before the crease had finished closing. Again on his feet. Again in still air. The lane went down to the barrier's foot where nobody was and spent itself on the trench grating with a short crack, and he smelled struck flint, and the east mast gave one low note, like a bell touched with a finger.
 
 Karis's card had a line on it for this. He had read it at the stove until he had it, and watched it curl.
 
@@ -58,7 +58,7 @@ It was his fourth burst. It took him along the barrier's foot to the place where
 
 His palm met her left shoulder.
 
-He let the spark go at the contact. It was Karis's fire, by her leave, out of the heel of his hand, and it was the smallest thing on that floor, and it was clean. The lane's own fire came down at the same instant, as it always did, riding the far end. It cracked beside his hand like a whip. He felt it go along the outside of his right forearm from the wrist halfway to the elbow. Then he was out the other side of it on his feet, and she was a stride past him with her hand at her shoulder.
+He let the spark go at the contact. It was Karis's fire, by her leave, out of the heel of his hand, and it was the smallest thing on that floor, and it was clean. The lane's own fire came down at the same instant, as it always did, riding the far end. It cracked beside his hand like a whip. He felt it go along the outside of his right forearm from the wrist halfway to the elbow. Then he was out the other side of it on his feet, and she was a pace past him with her hand at her shoulder.
 
 The flags went up on the dais.
 
@@ -72,7 +72,7 @@ It drew in its breath. All of it at once, in every tier, eight thousand people b
 
 Everybody in the city knew the figure. The broadsides printed it under her name every morning, the way they printed the tide. Nobody had scored on Daeva in four years.
 
-She had stopped two strides past him with her back to the east barrier and her right hand flat on her left shoulder, over the place where his palm had been, like somebody who has felt a raindrop and is waiting to see whether there will be another. She took it away and looked at it, as if she expected to find something written on the palm. Then she looked at him.
+She had stopped two paces past him with her back to the east barrier and her right hand on her left shoulder, over the place where his palm had been, like somebody who has felt a raindrop and is waiting to see whether there will be another. She took it away and looked at it, as if she expected to find something written on the palm. Then she looked at him.
 
 He had seen her face at a hundred yards in the procession, and at a stride's length on the trial floor, and at four feet by the west mast two evenings ago. It had never done this. Something went across it, quick and bright, and was gone before he could say what it was. It looked like nothing so much as the face of a child who has been given a present she did not know she had asked for. Then it was gone, and her face was only her face again, thoughtful and grave.
 
@@ -120,7 +120,7 @@ She had laid it and sent nothing down it but the fire. She had stayed where she 
 
 It took him along the left side, from the shoulder to the hip.
 
-He felt the give take it. Reydan's give opened under the blow and drank, and drank, and the hum went down through him into the stone. Most of it went. Not all of it. What was left stayed in the left side and lit it up, the whole length of it, a deep dull flare like a coal blown on, and his left arm went heavy from the shoulder down as if somebody had hung a sack on it. He stayed on his feet. He did not know how. He found that he was standing, and that he had not moved his feet, and that the north-east quarter of the ring was very quiet.
+He felt the give take it. Reydan's give opened under the blow and drank, and drank, and the hum went down through him into the stone. Most of it went. Not all of it. What was left stayed in the left side and lit it up, the whole length of it, a deep dull flare like a coal blown on, and his left arm went heavy from the shoulder down as if somebody had hung a sack on it. He stayed on his feet. He did not know how. He had not moved his feet, and the north-east quarter of the ring was very quiet.
 
 The flags went up on the dais. Two. Then two more, slowly. Then they stopped.
 
@@ -136,13 +136,13 @@ The referee looked at the hand for a long moment, as a man looks at a lock he ha
 
 Then he stepped back to the oak, and the healers sat down.
 
-Above the break, at the rail, Lira was saying something. He could see her mouth. He could see her hand, white on the cap of the barrier, and Brom's bandaged arm across her in front, not holding her, only there. He could not hear a word of it. He could not hear Rooke either, though Rooke's lips were moving too. The air had all of him that was left over from the left side, and it would not give any of it back for voices. He watched her mouth for a moment, and found he did not need to hear it. Whatever she was saying, he could guess the shape of it.
+Above the break, at the rail, Lira was saying something. He could see her mouth. He could see her hand, white on the cap of the barrier, and Brom's bandaged arm across her in front, not holding her, only there. He could not hear a word of it. He could not hear Rooke either, though Rooke's lips were moving too. The air had all of him that was left over from the left side, and it would not give any of it back for voices. He watched her mouth, and found he did not need to hear it. Whatever she was saying, he could guess the shape of it.
 
 Then Rooke put his hand out in front of the three of them, palm down, at the height of the cap, as he had put it out at rails all year. Lira's mouth closed. She stayed where she was.
 
 It went on.
 
-The arm answered, but it answered late. Cael tested it inside the next breath, because testing it later would have been the same as not knowing. The grip was there. The elbow came when he called it. The shoulder came too, but it came behind its order, a little, like a dog that has heard you and is finishing something first. He put the interval at a fifth of a beat, and knew he would pay it on every movement from now until the end. Very well. The left side was not lost. It was only dearer. He would use it at its new price and pretend to the floor it had no price at all, and he kept the arm up and moving every second after that, so that she should never once see it hang.
+The arm answered, but it answered late. Cael tested it inside the next breath, because testing it later would have been the same as not knowing. The grip was there. The elbow came when he called it. The shoulder came too, but it came behind its order, a little, the way a slow clock strikes after the others. He put the interval at a fifth of a beat, and knew he would pay it on every movement from now until the end. Very well. The left side was not lost. It was only dearer. He would use it at its new price and pretend to the floor it had no price at all, and he kept the arm up and moving every second after that, so that she should never once see it hang.
 
 The rest of the exchange was arithmetic, done on a damaged instrument.
 

@@ -10,11 +10,11 @@ He came up from the kitchen a little before the ninth bell with a ring of keys, 
 
 "Ham. A cheese I was saving for nobody in particular. Two crocks the southern coach left me in the first week that I've never had the courage to open. Go on." He looked up the crowded stair. "Six sittings I've kept this house. Third place twice before. Both lots were in bed by the tenth bell, writing to their mothers about the drains." He sat down on the bottom step, which commanded the whole room, and folded his hands. "Not you, I think."
 
-Gault had gone up to his room and come down again with a flat box under his arm. Nobody had noticed him go. In the box, on a bed of cotton gone yellow with keeping, lay a ribbon that had once been blue, with a gold thread through it faded to the colour of weak tea and one end worn to a fringe. Fourth on the figures, he said, at his own continental sitting, a very long time ago, and he had had straw in his boots. Somebody shouted that it must go round. It went from hand to hand the length of the long table, and up the stair, and along the landing and back. Brom held it on his two palms as if it were alive. The southern house's drummer kissed it. It came back to Gault without so much as a thread pulled, and he looked at it in its box for a while afterwards, as if that were the part he would remember.
+Gault had gone up to his room and come down again with a shallow box under his arm. Nobody had noticed him go. In the box, on a bed of cotton gone yellow with keeping, lay a ribbon that had once been blue, with a gold thread through it faded to the colour of weak tea and one end worn to a fringe. Fourth on the figures, he said, at his own continental sitting, a very long time ago, and he had had straw in his boots. Somebody shouted that it must go round. It went from hand to hand the length of the long table, and up the stair, and along the landing and back. Brom held it on his two palms as if it were alive. The southern house's drummer kissed it. It came back to Gault without so much as a thread pulled, and he looked at it in its box for a while afterwards, as if that were the part he would remember.
 
 At the window at the far end, out of the way, Bracken and Seln stood with a cup each, side by side, talking very quietly for most of the night. Cael never heard one word. Once, across the room, he saw both of them almost smile at the same moment, and look away from each other to do it.
 
-Ephram had brought the lock-keeper. Nobody knew when he had asked him. The man was simply in the doorway in the second hour, grey and square in his harbour coat, with a brass hand-bell in his fist, and Ephram jumped up and fetched him in by the elbow and introduced him to everybody twice. He was given a chair and a cup. He set the bell down beside the chair. Somebody found it, and rang it, and the house cheered, and after that whoever happened to be nearest the bell rang it whenever they felt like it, for no reason anybody ever gave.
+Ephram had brought the lock-keeper. Nobody knew when he had asked him. The man was simply in the doorway in the second hour, grey and solid in his harbour coat, with a brass hand-bell in his fist, and Ephram jumped up and fetched him in by the elbow and introduced him to everybody twice. He was given a chair and a cup. He set the bell down beside the chair. Somebody found it, and rang it, and the house cheered, and after that whoever happened to be nearest the bell rang it whenever they felt like it, for no reason anybody ever gave.
 
 Rooke and two visiting coaches had taken the hearth and begun on trial floors of twenty years back. They disagreed about every plank of every one of them, with the greatest pleasure.
 
@@ -24,7 +24,7 @@ Ephram had been at him all evening for it. It was the lock-keepers' song for the
 
 The second time through, Karis danced.
 
-Nobody saw her decide. She was sitting at the end of the long table with her notebook shut and her pink palms flat on its cover, and then she was out by the hearth with the southern house's second Iron, turning, rather well, with her face entirely serious, for exactly one verse. Then she came back to the table, sat down, and opened the notebook.
+Nobody saw her decide. She was sitting at the end of the long table with her notebook shut and her pink palms on its cover, and then she was out by the hearth with the southern house's second Iron, turning, rather well, with her face entirely serious, for exactly one verse. Then she came back to the table, sat down, and opened the notebook.
 
 "If anybody," she announced to the room, "mentions that, at any time, to anybody, I shall write it down."
 
@@ -32,7 +32,7 @@ The room cheered so loudly that the lock-keeper rang the bell himself.
 
 Some while after the second hour the bell did not ring.
 
-Cael noticed it before he noticed anything else: a space where the bell should have been, and then the drum not coming in, and then the voices on the stair going quiet one landing at a time, nobody hushing them. For the length of a long breath the whole house was still. He looked round, and everybody else was looking round, the keeper on his step, Gault with his box, the southern drummer with his hands flat on the drumskin. Nobody said a word. Nobody needed to. They were standing on the highest point of the year, all of them at once, and they could all see down both sides of it: the counted season, finished and safe behind them, and in front the one thing left.
+Cael noticed it before he noticed anything else: a space where the bell should have been, and then the drum not coming in, and then the voices on the stair going quiet one landing at a time, nobody hushing them. For the length of a long breath the whole house was still. He looked round, and everybody else was looking round, the keeper on his step, Gault with his box, the southern drummer with his hands on the drumskin. Nobody said a word. Nobody needed to. They were standing on the highest point of the year, all of them at once, and they could all see down both sides of it: the counted season, finished and safe behind them, and in front the one thing left.
 
 Then a boy on the landing reached over and rang the bell, and everybody laughed, and the noise came back in all at once like water over a weir.
 
@@ -124,7 +124,7 @@ By the end of the second hour he was calling ten in ten. Lira came from every co
 
 He opened his eyes.
 
-Brom was standing beside him. Not at the door, where Brom always stood when the door was shut. Right beside him, a stride off his left shoulder, with his arms folded and his bandaged forearms crossed, looking at him with an odd careful expression.
+Brom was standing beside him. Not at the door, where Brom always stood when the door was shut. Right beside him, a pace off his left shoulder, with his arms folded and his bandaged forearms crossed, looking at him with an odd careful expression.
 
 "When did you come in?"
 
@@ -133,8 +133,6 @@ Brom was standing beside him. Not at the door, where Brom always stood when the 
 "I didn't hear the door."
 
 Brom shrugged. "I didn't knock. I'm not quiet."
-
-Nobody said anything for a moment.
 
 "It narrows." Cael said it slowly. "When I put her down to listen to the air. Everything else goes down with her."
 
@@ -150,7 +148,7 @@ Karis wrote that down too, in the margin, small, and Cael saw her put a mark bes
 
 He was on his knees at the barrier's foot when she came in.
 
-He had been there a quarter of an hour by himself, in the last hour of the day that the Concourse let a credentialed delegation onto its floors. The crews had gone and taken their lamps. Grey light lay on the new stone from the high windows. The four masts stood at the four quarters with their cables going down into the trench at the barrier's foot, and he had lifted one corner of the trench's iron grating and put his hand flat on its floor. It was dry and cold and smelled of new mortar. He was trying to feel which way water would run, if there were ever any water.
+He had been there a quarter of an hour by himself, in the last hour of the day that the Concourse let a credentialed delegation onto its floors. The crews had gone and taken their lamps. Grey light lay on the new stone from the high windows. The four masts stood at the four quarters with their cables going down into the trench at the barrier's foot, and he had lifted one corner of the trench's iron grating and put his hand on its floor. It was dry and cold and smelled of new mortar. He was trying to feel which way water would run, if there were ever any water.
 
 Footsteps came in at the north break and stopped.
 
@@ -166,9 +164,9 @@ She arrived. "Fifty-one and a half. North to south."
 
 "Fifty-two. I did it there and back and got the same twice." He stood and brushed off his knees. "Forty-eight across."
 
-"There and back." She thought about it. "I only did it one way." And that was all; fifty-two it was. She let her own number go without minding, the way you correct a figure in a column when someone shows you the sum, and walked on, and after a moment he walked with her, along the barrier, a little behind and a little inside, at the distance two fighters keep when neither of them means anything by it.
+"There and back." She thought about it. "I only did it one way." And fifty-two it was. She let her own number go without minding, the way you correct a figure in a column when someone shows you the sum, and walked on, and after a moment he walked with her, along the barrier, a little behind and a little inside, at the distance two fighters keep when neither of them means anything by it.
 
-The barrier was well over his head and smooth to the top, where the cap ran round like a handrail. She laid her palm flat on it, and a few feet on he did the same, and both of them took their hands away.
+The barrier was well over his head and smooth to the top, where the cap ran round like a handrail. She laid her palm on it, and a few feet on he did the same, and both of them took their hands away.
 
 "You can't climb it," she said.
 
@@ -230,7 +228,7 @@ At the west mast she put two fingers on the cable where it went down past the ba
 
 "What are they rated to?" said Cael.
 
-She told him. She did not stop to think about whether she should. She gave it to him in the masts' own terms, flatly, as if reading from the foreman's folded sheet: each head rated to take her full discharge at her assessed ceiling four times over before it ran hot, each mast grounded twice, and the margin on top of that the facilities office always added, which was half again. Then she gave him the figure the sheet arrived at, the one that was her, in a single number. He said it back to her once, to be sure he had it. She nodded. He did not write it down. He would not need to.
+She told him. She did not stop to think about whether she should. She gave it to him in the masts' own terms, plainly, as if reading from the foreman's folded sheet: each head rated to take her full discharge at her assessed ceiling four times over before it ran hot, each mast grounded twice, and the margin on top of that the facilities office always added, which was half again. Then she gave him the figure the sheet arrived at, the one that was her, in a single number. He said it back to her once, to be sure he had it. She nodded. He did not write it down. He would not need to.
 
 She took her fingers off the cable. "Every hall orders a set. Everywhere I go. Half the gallery comes in under them and looks up and thinks, that's in case she gets it wrong." She looked up at the iron crown on the mast's head. "So any mistake of mine stops being mine. It's a civic event. You learn not to have them. I haven't had one in four years."
 

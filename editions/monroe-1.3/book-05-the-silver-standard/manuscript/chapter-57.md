@@ -4,7 +4,7 @@ The healer in Auremont's warm-up room found the mark on the third look.
 
 It was on the front of Daeva's left shoulder, a little below the collarbone, where his palm had been. A round red place the size of a coin, with the skin shining at its middle. It was not a burn worth the name. The healer, who had been with the program since before Daeva came to it, dabbed salve on it with the tip of one finger and then stood back and looked at it for a long while, as if it were a word written on a wall in a hand she did not know.
 
-"Four years," the healer said at last, to nobody in particular.
+"Four years," the healer said at last.
 
 Daeva said nothing. She had been counting too.
 
@@ -46,29 +46,31 @@ The junior clerk had gone down for the stamp, and Umber stood at the window and 
 
 It was the only thing left to wait for. The sheet lay on the black table behind him with nine names at its foot, the ink of the last one still wet. The stamp was in the strong room, three floors down, behind two locked doors and a logging clerk who would not give it up to anybody but a clerk of the minute, which was the rule, and a good one. So the junior clerk had gone down with the key. Umber could hear his feet on the stair, getting fainter.
 
-Outside the glass the night was going, and the harbour had come up out of the dark without his noticing it, grey and flat and very still, with the masts in the basin standing up out of it like pens in a pot. A cart was crossing the quay with nobody beside it. Every lamp in the room had burned down to its last inch.
+Outside the glass the night was going, and the harbour had come up out of the dark without his noticing it, grey and still, with the masts in the basin standing up out of it like pens in a pot. A cart was crossing the quay with nobody beside it. Every lamp in the room had burned down to its last inch.
 
-He found that he was going back over the night as he went back over every sitting, slowly, from the beginning, to see what it would look like to some stranger reading the minute in fifty years by a worse lamp than this one, and he had always done it. He had done it as a young judge, and been laughed at for it.
+He was going back over the night, as he went back over every sitting, slowly, from the beginning, to see what it would look like to some stranger reading the minute in fifty years by a worse lamp than this one. He had done it as a young judge, and been laughed at for it.
 
-It had begun with a handcart.
+It began with a handcart.
 
-He had heard it before he saw it, bumping up the last flight backward, a step at a time, with somebody grunting at it. The porters had all gone home at the sixth bell. So the senior rating clerk had brought the tables up herself: all four volumes of them, in their old calf, and the bundle of corrections, strapped onto a cart with two belts that had once held somebody's luggage. Not one of the nine had ever seen the full set out of the strong room. The office ran on the short sheets, and had done since before any of them was born.
+He heard it before he saw it, bumping up the last flight backward, a step at a time, with somebody grunting at it. The porters had all gone home at the sixth bell. Then it came round the turn of the stair with the senior rating clerk behind it, and on it, strapped down with two belts that had once held somebody's luggage, were the tables: all four volumes in their old calf, and the bundle of corrections. Not one of the nine had ever seen the full set out of the strong room. The office ran on the short sheets, and had done since before any of them was born.
 
-The oldest of the panel had said, kindly, that the short sheets would do.
+"The short sheets will do," said the oldest of the panel, kindly.
 
-"Very likely," she had said, unbuckling. "I would like the room to be able to say that we looked."
+"Very likely," said the rating clerk, unbuckling. "I would like the room to be able to say that we looked."
 
-He had kept that. He thought he would keep it a long time.
+He would keep that, he thought, a long time.
 
-Then his own clerks had read out what they had found in the strong room at noon, when he sent them down before the bout had even begun. Everything the office had ever filed when its tables ran out. There were nine. Nine times in three hundred years the mark had come to a place it could not go, and nine times somebody had written down what was done there.
+Then his own clerks stood up with what he had sent them down to the strong room for at noon, before the bout had even begun: everything the office had ever filed when its tables ran out.
 
-Most of them were nothing. Arguments over whether a hand had landed. Arguments between panels. Two cases of cheating that had ended careers and been forgotten. Only one of the nine had any shape like this one. In the eighty-first cycle a fighter had come before the panel in a Path that the tables had never been written out to hold, and that panel had set him between two Paths the tables did hold, and rated him by the likeness, and defended it in a long paper that nobody had ever overturned.
+"Nine," said the elder of them, and laid the bundle down. "Nine in three hundred years, Chief Adjudicator."
 
-He had asked her whether the eighty-first would serve.
+He read them out one at a time. Nine times the mark had come to a place it could not go, and nine times somebody had written down what was done there. Most of them were nothing. A quarrel over whether a hand had landed. A quarrel between panels. Two cases of cheating that had ended careers and been forgotten. At the eighty-first cycle the clerk slowed. A fighter had come before that panel in a Path the tables had never been written out to hold, and the panel had set him between two Paths the tables did hold, and rated him by the likeness, and defended it in a long paper that nobody had ever overturned.
 
-She had worked on that very question all afternoon. He had seen it in her face. "A likeness needs two ends, Chief Adjudicator. That panel had a Path on each side of its man. I went looking for two." She had put her hand on the first volume as if to keep it shut. "I found only one of them."
+Umber turned to the rating clerk. "Will the eighty-first serve?"
 
-That was the first time in the night he had been sure where they were going. It had been a little after the seventh bell.
+She had worked on that very question all afternoon; he could see it in her face. "A likeness needs two ends, Chief Adjudicator. That panel had a Path on each side of its man. I went looking for two." She put her hand on the first volume as if to keep it shut. "I found only one of them."
+
+It was a little after the seventh bell, and the first time in the night that he was sure where they were going.
 
 At the second hour the steward had come to his ear.
 
@@ -128,7 +130,7 @@ Then he had heard out every argument that was left, though he knew where each wo
 
 ---
 
-He had ruled sitting down, with his hands flat on the table either side of the closed books. He remembered that, because he had meant to stand and had found he did not want to.
+He had ruled sitting down, with his hands on the table either side of the closed books. He remembered that, because he had meant to stand and had found he did not want to.
 
 "Forty years I've told every judge who came up those stairs one thing about this mark. It doesn't flatter. Not a house, not a fighter, not the panel. Tonight we have been asked to flatter it. To put a figure on that sheet that the tables never gave us, so that the mark looks whole. If we do that, nobody is measured by it any more. They kneel to it. It has a priesthood."
 
@@ -140,7 +142,7 @@ He had stopped then. He had not meant to. The junior clerk, who was perhaps twen
 
 The words had taken longer than the ruling.
 
-He had thought they would. Agreeing on what was true was one thing. Setting it down in eleven words of the office's flat type, for strangers to read who had not been in the room, was another. They had spent an hour and a half at it. He would have spent longer.
+He had thought they would. Agreeing on what was true was one thing. Setting it down in eleven words of the office's type, for strangers to read who had not been in the room, was another. They had spent an hour and a half at it. He would have spent longer.
 
 *Unassessed* had gone first, because they had assessed, all night, with the full tables open. *Rating withheld* had gone next. It said there was a figure somewhere and the office was hiding it. The woman from the coast had wanted *beyond the scale*, and fought for it hard, and he had refused it because it was praise, and the entry was no place to praise anybody. The mark had not earned praise by failing. The enrollee did not need any.
 
@@ -186,9 +188,9 @@ Cael read it.
 
 It did not take long. He read it again for that reason. He had stood in front of a great many boards in his life and read a great many figures off them about himself, and every one of them had been a number. This one had no number. It had a place where a number went, and the office had written in its own plain type that it could not put one there.
 
-He found that he did not feel anything about it yet. He thought that would come later, and that he would know when.
+He did not feel anything about it yet. He thought that would come later, and that he would know when.
 
-Karis read it over his shoulder. She read everything twice and this she read three times.
+Karis read it over his shoulder, three times.
 
 "*Under*," she said, at last. "Not *by*." She looked at the sheet with real respect. "Somebody sat up all night over that."
 

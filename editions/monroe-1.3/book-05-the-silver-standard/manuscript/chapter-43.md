@@ -46,7 +46,7 @@ He opened his book and wrote.
 
 *Second exchange. He refuses the other man's time. Openly, within the rule, and at some cost to himself. Nobody in the bowl is watching that part.*
 
-He read it back, as he read every line, and it was true. He closed the book.
+He read it back, and it was true. He closed the book.
 
 In the third exchange the boy took a touch standing in the light, and in the instant before it Vastin saw something cross his face that he could not read. It was not surprise and it was not fear. It was very quick and then gone, and he did not write it down, because a thing he did not know could not go into a book as though he did.
 
@@ -110,7 +110,7 @@ Seln closed the file and took his hand off it, and went back to being a man at t
 
 *Seln says the stewards had his grade against that chair two weeks before his own clerk told anybody he was travelling. Somebody kept him a chair for thirteen days and told a steward his grade. I can't do anything with that. Nobody at this table can. But I'd like it written down that the chair was full today, and that the man in it went home without our figure, and that I'm seventeen in about two hours.*
 
-He sat and looked at the last line for a while. Then he closed the book and went to bed.
+He looked at the last line. Then he closed the book and went to bed.
 
 ---
 
@@ -174,7 +174,7 @@ She looked up at him as he straightened. Her eyes went to his face, and to the c
 
 Then she grinned at him, and put the fiddle back up under her chin, and played four bars of a quick-march straight at him, sharp and bright and very fast, as he walked away along the wharf. It was the march they played for the colour-guard at the procession. She stopped at the end of the fourth bar, exactly, and went back to her tune.
 
-That was what he was worth, then, to a fiddler on the third wharf. Four bars and a grin. He found it the most restful price anybody had put on him in a year.
+That was what he was worth, then, to a fiddler on the third wharf. Four bars and a grin. It was a very restful price.
 
 The smell of frying fish came along the wharf from somewhere ahead, and under it the smell of tar, and under that, very faintly, something baking. Past the third wharf, on the harbour side, there was a low cookshop with its windows open on the water, and a door painted a deep, chipped, cheerful blue.
 

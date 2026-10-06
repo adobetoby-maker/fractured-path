@@ -16,17 +16,17 @@ Her opponent was a Force fighter from one of the inland houses, a broad, unhurri
 
 The bell went. The inland fighter walked to the middle of the pale floor and stood there with his feet planted and his hands low.
 
-Lira walked once round him, the whole square, at an easy pace, with her hands loose and her eyes on his feet. She did not go in. She let him wait for her, and he waited with the calm of a man who had been waited at all his fighting life and had always won the waiting.
+Lira walked once round him, the whole floor, at an easy pace, with her hands loose and her eyes on his feet. She did not go in. She let him wait for her, and he waited with the calm of a man who had been waited at all his fighting life and had always won the waiting.
 
 Then she went in, fast and straight, and he pushed.
 
-It was a big push and an honest one, laid from his planted feet into the air in front of him, and Cael felt it from the rail as a shove in the chest of the whole hall. Lira was not in it when it arrived. She had burst out of her own entry a stride short and to the left, so that the push went past her into empty floor, and she touched him on the shoulder while he was still finishing it.
+It was a big push and an honest one, laid from his planted feet into the air in front of him, and Cael felt it from the rail as a shove in the chest of the whole hall. Lira was not in it when it arrived. She had burst out of her own entry a pace short and to the left, so that the push went past her into empty floor, and she touched him on the shoulder while he was still finishing it.
 
 One to nothing. Then he touched her twice, both times on the hip, both times when she came in close on purpose to learn what he did there. The bell went at one to two.
 
 She walked back to her chalk and drank the water Rooke held out to her over the rail.
 
-"Learning his reach," said Rooke, to nobody in particular.
+"Learning his reach," said Rooke.
 
 "Buying it," said Karis.
 
@@ -70,11 +70,11 @@ Under it, in a clerk's small slanting hand, somebody had written the names of th
 
 "The tower has changed its opinion," said Seln.
 
-Nobody laughed, exactly. But Brom put his head down on his folded arms for a moment, and Lira looked hard at the ceiling, and Ephram made a small noise into his cup. Seln's face did not change at all. He took the notice back, made a note in the travel file, and fitted the sheet under its clip with one finger, and gave no sign at all of having spoken.
+Nobody laughed, exactly. But Brom put his head down on his folded arms, and Lira looked hard at the ceiling, and Ephram made a small noise into his cup. Seln's face did not change at all. He took the notice back, made a note in the travel file, and fitted the sheet under its clip with one finger, and gave no sign at all of having spoken.
 
 Cael found that he was not disappointed.
 
-He sat there with his hands flat on the table and looked at the feeling, as he looked at anything that arrived without being asked for, and found that it was relief. What surprised him was its size.
+He sat there with his hands on the table and looked at the feeling, as he looked at anything that arrived without being asked for, and found that it was relief. What surprised him was its size.
 
 All year he had been the thing in the middle of every floor. He had been charted and priced, protested and filed, sold in woodcut on street corners and argued over in taverns, and every hall he had walked into since the wool town had turned its head to watch him come in. He had grown so used to the weight of it that he had stopped noticing he was carrying anything at all. Now a clerk in the west tower had set it down for him, for a week, for reasons that had nothing to do with him, and he felt his shoulders come down a whole pack's weight.
 
@@ -84,7 +84,7 @@ They all looked at him.
 
 "Every bout you've got this week, I can be at the rail for. All of them. Nobody's going to want anything from me until the ring goes up." He heard how glad he sounded and did not try to hide it. "I can chart Zerin properly. I can chart whoever comes through Karis's pool. I can chart Marek's next two bouts and the man after that. I've got nothing else to do."
 
-Rooke looked at him for a long moment over the table.
+Rooke looked at him over the table.
 
 "You've been the best scouting I've had all year," he said at last. "I haven't said so, because you had bouts of your own to think about, and I don't ask a man to carry two sacks up one hill." He nodded at the travel file, where the notice had gone. "Seems you've only the one this week. Carry it."
 
@@ -106,7 +106,7 @@ This was the oldest thing they did together, older than the oak at Halcenvane an
 
 It had never yet taken them more than one evening.
 
-"Three bouts," he said, opening the notebook at the page he had built that afternoon. "Her first round, her second, and her quarterfinal, which she fought this afternoon on the far floor while you were eating. Eleven exchanges, and she hasn't lost one of them. She's given up four points in all, and two of those were in the same exchange, to a man who more or less threw himself at her."
+"Three bouts," he said, opening the notebook at the page he had built that afternoon. "Her first round, her second, and her quarterfinal, which she fought this afternoon on the far floor while you were eating. Ten exchanges, and she hasn't lost one of them. She's given up four points in all, and two of those were in the same exchange, to a man who more or less threw himself at her."
 
 "I've got her times." Lira put her hand flat on the extract. "I've had them since the quarry town, and I know them better than I know my own. I know how fast she is. What I want is how."
 
@@ -124,13 +124,13 @@ He had looked for Zerin's through three bouts at the full gaze, and it was not t
 
 "She doesn't gather," he said. "I've watched every burst she's made since the opening, and she never once gets ready to make one. There's no gather because there's no burst, Lira. Not the way you mean a burst. She doesn't stop and then go. Going is just how she walks about. The speed doesn't switch on anywhere. It's on already."
 
-Lira sat back in her chair. She looked at the ceiling for a while, and the table rocked under her elbow, and she moved her elbow somewhere else.
+Lira sat back in her chair. She looked at the ceiling, and the table rocked under her elbow, and she moved her elbow somewhere else.
 
 "So there's nothing to catch."
 
 "The read catches a body getting ready to do something. She's never getting ready. She's always already doing it."
 
-He had known it since the afternoon, and it still sat badly with him. The read asked a body what it was about to do: where the weight was, and which way it was going, a fraction before it went. It had worked on every fighter he had ever stood near, because every fighter he had ever stood near had needed to get ready, and getting ready was a thing the skin could feel at a pace and a half. It had never once occurred to him that somebody might simply not need to.
+He had known it since the afternoon, and it still sat badly with him. The read asked a body what it was about to do: where the weight was, and which way it was going, just before it went. It had worked on every fighter he had ever stood near, because every fighter he had ever stood near had needed to get ready, and getting ready was a thing the skin could feel at a pace and a half. It had never once occurred to him that somebody might simply not need to.
 
 "It's like listening for a clock that doesn't tick."
 
@@ -142,7 +142,7 @@ He had known it since the afternoon, and it still sat badly with him. The read a
 
 "I always mean it."
 
-She very nearly smiled. Then she got up, because Lira could only think about a problem for so long sitting down, and stood in the narrow space between the table and the wall and tried it. She tried to go without getting ready, to burst from standing the way Zerin walked, with no breath and no setting of the hips. Her body would not let her. Every time, a fraction before she went, it gathered, as it had been gathering since she was small, and on the fourth try she went anyway, half gathered, and caught her hip on the corner of the table and sat down on the floor.
+She very nearly smiled. Then she got up, because Lira could only think about a problem for so long sitting down, and stood in the narrow space between the table and the wall and tried it. She tried to go without getting ready, to burst from standing the way Zerin walked, with no breath and no setting of the hips. Her body would not let her. Every time, just before she went, it gathered, as it had been gathering since she was small, and on the fourth try she went anyway, half gathered, and caught her hip on the corner of the table and sat down on the floor.
 
 The lamp rocked. Cael caught it.
 
@@ -200,7 +200,7 @@ But Ephram had nothing that could reach into slack. He had a Blade's edge and a 
 
 One to three. Four to eight.
 
-In the fourth he fought like a man who knew to the last copper how much he still owed. He tried nothing new. He went to the beat where her shorter wheel ran thinnest and took two touches there, cleanly, one on the hip and one on the ribs, and the gallery stood up for the second of them. She took three, steadily, without hurrying, the last from a pane that had been up for less than a breath.
+In the fourth he knew to the last copper how much he still owed, and fought like it. He tried nothing new. He went to the beat where her shorter wheel ran thinnest and took two touches there, cleanly, one on the hip and one on the ribs, and the gallery stood up for the second of them. She took three, steadily, without hurrying, the last from a pane that had been up for less than a breath.
 
 Two to three. Six to eleven. Ephram could not have drawn level with every point of the last exchange, and the clerk called it over in four.
 
@@ -208,7 +208,7 @@ He shook her hand. She said two or three words to him that nobody at the rail co
 
 "That was the price of admission," he said. "I said so at the draw. The round of sixteen was what I'd pay to get in." He started to unwrap his hands. "Paid in full. I'd like a receipt."
 
-Lira laughed, and so did Brom. Rooke did not laugh, but he put his hand on Ephram's shoulder once, briefly, which from Rooke was a good deal more.
+Lira laughed, and so did Brom. Rooke did not laugh, but he put his hand on Ephram's shoulder once, briefly.
 
 "She shortened the count," said Ephram. He was still breathing hard, and his face was red, but his voice was perfectly steady. "I found her wheel in one exchange, and she changed it in the next. Fifteen years of doing it one way, and she changed it in a breath because a boy from the bluff had found it." He looked down at his hands, half unwrapped. "I couldn't hit a pane before it was there. Nobody could. Not with an edge."
 
@@ -216,9 +216,9 @@ Lira laughed, and so did Brom. Rooke did not laugh, but he put his hand on Ephra
 
 "I told her the fourth beat runs thin on her left once she shortens the count. A Blade with a slower heel than mine would never find it." Ephram shrugged. "She'll fix it. She'd have found it herself by the next cycle. She might as well have it now."
 
-Cael said nothing. He was thinking of a copper pot on the twentieth of Reaping, and four instants of fire, and a pane cracking as it came up.
+Cael was thinking of a copper pot on the twentieth of Reaping, and four instants of fire, and a pane cracking as it came up.
 
-*Ephram lost to a clock today,* he wrote that night. *He found it in one exchange and she changed it in the next, and he had nothing that could change back. Then he walked up to the rail and priced his own loss out loud before anybody could price it for him, or price it kinder than it deserved. I've never heard a loss paid so plainly by the man who owed it.*
+*Ephram lost to a clock today. He found it in one exchange and she changed it in the next, and he had nothing that could change back. Then he walked up to the rail and priced his own loss out loud before anybody could price it for him, or price it kinder than it deserved.*
 
 *He'll be at the rail for the rest of the week now. He told me once he likes calling better than winning, some days. Tonight I think he meant it, and I think he also minded, and I don't think he'd thank me for writing down the second part.*
 
@@ -244,7 +244,7 @@ He showed her the page. Zerin turned at full speed. She went round a turn the wa
 
 "She's got a less good side. It's still better than most people's good one."
 
-Lira looked at the back of her hand for a while. Then she licked her thumb and rubbed the whole list out, line by line, until her knuckles were blue with it.
+Lira looked at the back of her hand. Then she licked her thumb and rubbed the whole list out, line by line, until her knuckles were blue with it.
 
 They sat for some time with the lamp hissing between them. Below the window somebody was drawing water at the pump in the courtyard, and the handle squeaked on every stroke.
 
@@ -256,7 +256,7 @@ He saw it in the third bout. He went back and found it in the first, and then in
 
 Lira looked up.
 
-"Look." He laid the three pages side by side under the lamp. "Any exchange you like. She's ahead from the first beat. She's always the one who gets there first, and everything she does afterward is built on top of that. All her angles take it for granted that the start belongs to her. When she defends, she isn't answering anybody. She's only getting to the place before you do." He put his finger on the margin. "Nobody at Norhold has put her second. Not for one beat in eleven exchanges. So there isn't a line on any of these pages about what she does when she is."
+"Look." He laid the three pages side by side under the lamp. "Any exchange you like. She's ahead from the first beat. She's always the one who gets there first, and everything she does afterward is built on top of that. All her angles take it for granted that the start belongs to her. When she defends, she isn't answering anybody. She's only getting to the place before you do." He put his finger on the margin. "Nobody at Norhold has put her second. Not for one beat in ten exchanges. So there isn't a line on any of these pages about what she does when she is."
 
 "Maybe she does it beautifully."
 
@@ -274,7 +274,7 @@ She wrote one word on the back of her hand, where the list had been. *Behind.*
 
 "Nothing I've seen. It's all times."
 
-"Then I want the rest of it." She stood up, and the table rocked. "Rooke's got the long one, the whole commercial file. I'll ask him for it in the morning." She looked down at him, and he saw that she was not discouraged in the least. She was the other thing, the thing she turned into when a problem finally showed her its face. "You found a country nobody's mapped. I'll go and live in it. I've lived there before."
+"Then I want the rest of it." She stood up. "Rooke's got the long one, the whole commercial file. I'll ask him for it in the morning." She looked down at him, and he saw that she was not discouraged in the least. She was the other thing, the thing she turned into when a problem finally showed her its face. "You found a country nobody's mapped. I'll go and live in it. I've lived there before."
 
 She went out and left the door open. Cael sat on in the little room for a while with the three pages in front of him and the pump squeaking below.
 

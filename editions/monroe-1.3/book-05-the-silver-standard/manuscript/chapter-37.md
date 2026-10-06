@@ -14,7 +14,7 @@ He sat down. "There," he said. "Now you're literature."
 
 "I'm a column nobody can put things in," said Lira, through her bread. She had the heat-wrap on under her shirt and her left arm resting on the table in front of her like a parcel somebody had asked her to mind. "That's worse."
 
-Brom ate his breakfast in silence. He ate all of it, and then he ate the end of the loaf, which nobody contested, and then he sat with his hands flat on the table on either side of his plate and looked at nothing for a while.
+Brom ate his breakfast in silence. He ate all of it, and then he ate the end of the loaf, which nobody contested, and then he sat with his hands on the table on either side of his plate and looked at nothing.
 
 "He'll find every gap," he said at last, to the table in general.
 
@@ -46,7 +46,7 @@ Brom considered it honestly, as he considered everything. "No," he said. "I'm cu
 
 The west tower had given the Copper final the main floor.
 
-There had been talk about it in the court all week, and Seln had read the schedule's note out at supper without any comment at all, which from Seln was comment enough. Copper finals did not get the main floor. They got the third floor or the fourth, and a gallery of coaches and parents and fair-day men with their arms folded. This one got the great grey oval and its four banks of tiers. The tiers were not full; they would not be full until the Gold. But they were fuller than Cael had seen them for anything but the opening, and the people in them had the look of people who had come on purpose.
+There had been talk about it in the court all week, and Seln had read the schedule's note out at supper without any comment at all. Copper finals did not get the main floor. They got the third floor or the fourth, and a gallery of coaches and parents and fair-day men with their arms folded. This one got the great grey oval and its four banks of tiers. The tiers were not full; they would not be full until the Gold. But they were fuller than Cael had seen them for anything but the opening, and the people in them had the look of people who had come on purpose.
 
 "Somebody in that tower knows good work when it's coming," said Rooke.
 
@@ -68,9 +68,9 @@ A low sound went round the craft-readers in the tiers. Cael heard it from three 
 
 "Making him change floors," said Lira. "Every way in to Brom crosses the seam. Stone to oak. Fast to slow. Every single one." She shifted her bad shoulder under the wrap. "He's charging at the door before the bout's started."
 
-Across the square, Marek looked at where Brom was standing, and then down at the seam in front of him, and then at Brom again. Cael was watching his face. He saw nothing on it at all, except that the man had read something, and filed it, and gone on to the next line.
+Across the floor, Marek looked at where Brom was standing, and then down at the seam in front of him, and then at Brom again. Cael was watching his face. He saw nothing on it at all, except that the man had read something, and filed it, and gone on to the next line.
 
-High on the east side, over the far rail, the Compact's row was full except for one chair. Ilsev sat in the first seat with her lap-desk squared. Havel was in the second. At the end of the row, behind the grey rail-cloth, the twelfth chair stood empty, with its brushed seat and its pale square where a plate should have been.
+High on the east side, over the far rail, the Compact's row was full except for one chair. Ilsev sat in the first seat with her lap-desk on her knees. Havel was in the second. At the end of the row, behind the grey rail-cloth, the twelfth chair stood empty, with its brushed seat and its pale square where a plate should have been.
 
 The flags went up.
 
@@ -112,7 +112,7 @@ And the fifth went to a gap Cael had charted only on the oak at home, where the 
 
 Brom had chosen the oak.
 
-He had planted inside the seam so that every way in to him crossed from stone to wood. But to drive, Brom had to shift his weight back first, onto his rear foot, and his rear foot sat half a stride from the seam on a board that gave very slightly under it. When the weight went back, the board gave, and for a breath Brom's back heel was standing on something soft.
+He had planted inside the seam so that every way in to him crossed from stone to wood. But to drive, Brom had to shift his weight back first, onto his rear foot, and his rear foot sat half a pace from the seam on a board that gave very slightly under it. When the weight went back, the board gave, and for a breath Brom's back heel was standing on something soft.
 
 Marek found it.
 
@@ -178,7 +178,7 @@ It took him two contacts. He did not try to follow Marek's new rhythm. He stoppe
 
 One to one.
 
-So Marek did the bravest thing Cael saw him do all morning. He put the five stakes aside, every one of them, and went surveying again.
+So Marek did a brave thing. He put the five stakes aside, every one of them, and went surveying again.
 
 It was the right decision and it was a terrible one.
 
@@ -206,7 +206,7 @@ Before the fourth there was a short interval, and the main floor hummed through 
 
 Cael spent them watching two men stand still.
 
-Marek stood very still on his chalk. Cael knew that kind of stillness; it was the stillness of somebody adding up a column and not liking the total. The survey was spent. The gaps were priced. The cost of the whole morning was in his body now where anybody who knew how to look could see it: a slight roll in the shoulder Brom had hit, a breath that ran half a count too long. And Marek did what Cael had seen him do between every exchange of every bout he had charted. He walked his margins. His eyes went to each of Brom's gaps in turn, one after another, checking each was still where he had left it. The half-beat after the drive. The pivot. The board under the heel. The start of the left turn. The breath.
+Marek stood still on his chalk. Cael knew that kind of stillness; it was the stillness of somebody adding up a column and not liking the total. The survey was spent. The gaps were priced. The cost of the whole morning was in his body now where anybody who knew how to look could see it: a slight roll in the shoulder Brom had hit, a breath that ran half a count too long. And Marek did what Cael had seen him do between every exchange of every bout he had charted. He walked his margins. His eyes went to each of Brom's gaps in turn, one after another, checking each was still where he had left it. The half-beat after the drive. The pivot. The board under the heel. The start of the left turn. The breath.
 
 All of them except one.
 
@@ -312,7 +312,7 @@ Brom sat down on the bench behind the rail, heavily, and let Gault take his left
 
 He looked down at his forearms, which were already going a deep dull colour from wrist to elbow, both of them, under Gault's careful hands.
 
-"He found six," he said. "I knew about four." He let out a long breath. "He's the best inspection I've ever had."
+"He found six," he said. "I knew about four." He let out a long breath. "That was a proper inspection."
 
 Nobody at the rail said anything for a moment.
 
@@ -320,7 +320,7 @@ Then Ephram said, "Brom. You're continental champion."
 
 Brom looked up at him as though this had not occurred to him.
 
-"Am I," he said. And then, after a while, slowly: "So I am."
+"Am I," he said. And then, slowly: "So I am."
 
 *I sat at the rail today and thought about my own record,* Cael wrote that night, after the ceremony and the letter and everything else. *Every figure on it is a price I set. Every exhibition I've fought this year, I've fought so that the paper would read a certain way. Brom forged one line, once, in the open, for one bout, and then shook the man's hand and told him exactly what he'd done. Mine is the whole file, every day, and I can't tell anybody.*
 

@@ -8,11 +8,11 @@ When he came to the Copper bracket he stopped reading and looked up.
 
 "Continental Copper. Brom. Halcenvane."
 
-Brom walked out across the grey stone to the table. His forearms were still wound in linen from wrist to elbow, and he carried them a little out from his sides. The clerk lifted the plaque off the grey cloth and gave it to him. It was a plain square of dark wood with a brass plate let into it, the tournament's bar-and-ring cut at the top and a line of small type underneath.
+Brom walked out across the grey stone to the table. His forearms were still wound in linen from wrist to elbow, and he carried them a little out from his sides. The clerk lifted the plaque off the grey cloth and gave it to him. It was a plain board of dark wood with a brass plate let into it, the tournament's bar-and-ring cut at the top and a line of small type underneath.
 
 Brom took it in both hands.
 
-He did not lift it over his head, or turn it to the lamps, or hold it up to the tiers. He held it flat in front of him at the height of his chest and looked down at it for the length of one long breath, with the whole floor watching him, the way a clerk looks at a document before he signs to say it has arrived.
+He did not lift it over his head, or turn it to the lamps, or hold it up to the tiers. He held it level in front of him at the height of his chest and looked down at it for the length of one long breath, with the whole floor watching him, the way a clerk looks at a document before he signs to say it has arrived.
 
 Cael had seen Lira hold the Copper Crown like that, once, on the bluff. He had not expected ever to see it again.
 
@@ -28,11 +28,11 @@ The machinery came first, as it always did, and the meaning afterward.
 
 The machinery came up the stair within two hours of the ceremony, in the hand of a Compact clerk in grey who would not sit down and would not take a cup of anything and would not leave until Seln had signed a slip to say the paper had been received. Seln signed it at the end of the table without looking at what he was signing, and the clerk went away down the stair at a pace just short of a run.
 
-Then Seln read it, once, and laid it in front of Karis. "The office notes," he said, to nobody in particular, "that the review is mandatory. It does not note that anyone at the registry has yet read the bout." He went back to his file.
+Then Seln read it, once, and laid it in front of Karis. "The office notes," he said, "that the review is mandatory. It does not note that anyone at the registry has yet read the bout." He went back to his file.
 
 It was a registry notice. It said, in the registry's careful language, that a continental bracket title at any tier required a mandatory review of the titled practitioner's classification, and that the review was hereby noticed. The summons proper would issue from the registry's district seat, to be collected there by the practitioner or his house upon the delegation's return. Until the review was held, the practitioner's classification stood as entered.
 
-Karis read it twice with her salved hands flat on the table on either side of it. Then she opened her notebook to a fresh leaf, wrote a heading, and turned the book round to show Brom before she closed it.
+Karis read it twice with her salved hands on the table on either side of it. Then she opened her notebook to a fresh leaf, wrote a heading, and turned the book round to show Brom before she closed it.
 
 *Pending. Not a gift. A summons.*
 
@@ -74,7 +74,7 @@ Then she turned to Karis.
 
 "The seating office put me four places along from Ternhall's chancellor this afternoon. Nobody arranged it, so far as I know. The seating office has a sense of humour." She turned the cup in her fingers. "He had a book on his knee. He wrote in it all through your first exchange. He never opened it again after that. In the fourth exchange he turned to his coach. He didn't trouble to lower his voice, and half the row heard him say it: *we taught her none of that.*"
 
-Nobody spoke. Karis had gone very still, with her hands in their linen on the board in front of her.
+Nobody spoke. Karis sat with her hands in their linen on the board in front of her and did not move.
 
 Withrow went on. "I have sat in a great many rows with a great many chancellors. When a student leaves a house like that one, they say she was difficult. They say she was never really theirs. I have never once heard one of them say what he said this afternoon, in that tone, about a student who walked out of his door." She drank a little of the wine and made a face at it. "He's wrong, of course. They taught her a great deal." She set the cup down and looked along the table at Karis. "They taught her all the parts. We taught her they were parts."
 
@@ -98,7 +98,7 @@ The silence went on for a long time after that. Cael stood at the edge of the la
 
 There was no gap before it at all. Everything Karis had gone looking for was in that one word, and neither of them tried to add anything to it.
 
-Ivenne nodded once, a short nod, like somebody closing a ledger she would be going back to for a long while. Then she turned and walked away into the dark the way she had come.
+Ivenne nodded, a short nod, like somebody closing a ledger she meant to go back to. Then she turned and walked away into the dark the way she had come.
 
 Karis stayed at the board a little longer. When she turned round and saw Cael she did not seem surprised. She came across the court to him, and they walked back through the quarter without speaking, and he kept to her left so that nobody passing in the narrow streets would brush against the bad wrist.
 
@@ -122,7 +122,7 @@ He had been studied all year. He had been charted and priced and protested and f
 
 It had never occurred to him that it might also be the whole of his loneliness, until somebody who loved him had worked it out on paper and left it on the table for him to find.
 
-He did not write anything under it. He closed her notebook very carefully and set it square on top of his own, and he sat there with his hand on both of them until he heard the first feet on the stair.
+He did not write anything under it. He closed her notebook very carefully and set it on top of his own, and he sat there with his hand on both of them until he heard the first feet on the stair.
 
 ---
 
@@ -134,7 +134,7 @@ Her opponent was Auremont's third Iron entry, a heavy, patient Force fighter who
 
 Karis did not build anything.
 
-Across the floor, in the front row of Auremont's block, Zerin sat among her housemates in her blue, watching the lattice-breaker warm up with the same flat attention she gave everything. Once, between his drills, her eyes went along the Halcenvane rail and stopped on Lira, and on the heat-wrap under Lira's coat, and stayed there for a breath. Then they went back to the floor. Lira, beside Cael, did not appear to notice. But she stood a little straighter for the rest of the afternoon, and held her left arm a little less carefully, and Cael thought that she had noticed perfectly well.
+Across the floor, in the front row of Auremont's block, Zerin sat among her housemates in her blue, watching the lattice-breaker warm up with the same plain attention she had given Lira on the floor. Once, between his drills, her eyes went along the Halcenvane rail and stopped on Lira, and on the heat-wrap under Lira's coat, and stayed there for a breath. Then they went back to the floor. Lira, beside Cael, did not appear to notice. But she stood a little straighter for the rest of the afternoon, and held her left arm a little less carefully, and Cael thought that she had noticed perfectly well.
 
 Karis came out with salve on both palms and the left wrist strapped, and she fought him as she had fought Ivenne in the second exchange, plainly, on her feet, with no frame and no plan, making her contacts in passing where his pushes were going to be. For an exchange it worked very well. He had never met a caster who would not cast, and he spent the first exchange pushing at structures that were not there, like a man shouldering a door that has already been taken off its hinges. Karis took two points off him in passing. He took one.
 
@@ -178,13 +178,11 @@ Cael wrote it at the rail exactly as she said it, and did not write anything aft
 
 Rooke wrote the standings onto the coaching sheet that evening at the long table, with all of them watching, as he had at the end of every meet of the year.
 
-It took him some time, because there was a good deal to write. Ephram in the round of sixteen, to the lake house's Shield. Lira a semifinalist, to Zerin, four to nine. Karis the winner of her quarterfinal over Ternhall's best, and then a semifinalist, to the lattice-breaker, five to nine. And at the bottom, in Rooke's square capitals, Brom: *Continental Copper.*
+It took him some time, because there was a good deal to write. Ephram in the round of sixteen, to the lake house's Shield. Lira a semifinalist, to Zerin, four to nine. Karis the winner of her quarterfinal over Ternhall's best, and then a semifinalist, to the lattice-breaker, five to nine. And at the bottom, in Rooke's big capitals, Brom: *Continental Copper.*
 
 Under all of it he wrote one more line, and then turned the sheet round so that they could read it.
 
 *We've now lost to their third-best and their fourth-best, honorably, by margins. The team trial seeds us against the whole set at once.*
-
-Nobody said anything for a moment.
 
 "Their whole set," said Lira.
 
@@ -234,7 +232,7 @@ Lira tipped her head at the posts. "Fifty-odd feet. A bit longer one way than th
 
 "Make them write a long one," said Lira, and he heard her smiling in the dark, and they walked home together through the empty streets with the hammering going on behind them.
 
-*Three floors this week,* he wrote, before he slept. *Three of us read by the best files on the continent. Lira lost to the program by a tenth and came home wanting more than she has ever wanted anything. Brom let the best reader alive read every line of him and won on the one line he'd forged. Karis walked out of her own file in front of the people who wrote it, and it cost her both hands.*
+*Three floors this week,* he wrote, before he slept. *Three of us read by the best files on the continent. Lira lost to the program by a tenth and came home wanting a bigger thing than she went out for. Brom let the best reader alive read every line of him and won on the one line he'd forged. Karis walked out of her own file in front of the people who wrote it, and it cost her both hands.*
 
 *I watched all three. Rooke says I was the best scouting the house had, and I believe him. But I learned more about myself at that rail than about any of them.*
 

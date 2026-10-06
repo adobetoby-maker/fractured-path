@@ -18,7 +18,7 @@ It was not the end of a year by anybody's calendar but his own. But it was near 
 
 *Karis's spark, by her leave. Three contacts in all, one past the two we allow in public. The first was the touch. The right forearm will shine for a week.*
 
-*The quiet thing from the stair. Sealed through the most watched afternoon of my life, and in its last corner, when it offered. Never used, anywhere, by anybody's count. Rent from waking, spent or not. The second year of "nowhere yet" closes tonight, and it is still nowhere. The debt it was sealed for is still owed and still unspoken.*
+*The quiet thing from the stair. Sealed through an afternoon with eight thousand watching, and in its last corner, when it offered. Never used, anywhere, by anybody's count. Rent from waking, spent or not. The second year of "nowhere yet" closes tonight, and it is still nowhere. The debt it was sealed for is still owed and still unspoken.*
 
 *Daeva's storm. Taken in the middle of a fight she began, awake, by the old minute's three lines, with the cost on paper as far as paper went. Fifteen feet of it, a third deep. The first notice that ever said Gold. The first that ever warned me what it gave might not hold, and that part stands. Everything else I carry is still shifting to make room for it, slower than after any of the others. Gold is heavy. Hesk taught me to write down what a thing costs the instrument as well as what it does. So: written.*
 
@@ -48,7 +48,7 @@ Vell's was shorter. She had kept the first honest figure anybody ever wrote down
 
 He took both down the stair at a quarter to the bell. Bracken weighed Hesk's in his palm, and looked at Cael over it, and put it in the pouch without any remark at all, which from Bracken was a remark.
 
-In the back room Brom had his kit open on the bed and was packing it by a system nobody else understood, the shirts rolled as tight as bandages. The plaque went in last, in its own two shirts, with a letter of one line laid flat against the back of it. Lira was on the other bed with her boots off. She asked Brom whether he meant to think about the district seat yet, since his summons would be lying there waiting; the notice had said so.
+In the back room Brom had his kit open on the bed and was packing it by a system nobody else understood, the shirts rolled as tight as bandages. The plaque went in last, in its own two shirts, with a letter of one line laid against the back of it. Lira was on the other bed with her boots off. She asked Brom whether he meant to think about the district seat yet, since his summons would be lying there waiting; the notice had said so.
 
 Brom pushed the plaque down into its corner with the flat of his hand until it sat level.
 
@@ -132,7 +132,7 @@ Then the room was empty, and the file lay where the clerk had squared it, thicke
 
 The road took the tournament off them a little at a time, the way a long walk takes a fever out of a man.
 
-For the first days it was still all round them. Waystations had silver-on-grey hung at their gates, and the innkeepers came to the doors to look at the plain colours go by. Twice a rider overtook the wagons with a fresh broadside from the city, and Ephram bought both and read them out on the tailboard in what was left of his voice. The guesses had bred. There were eleven of them now. The one word was in none.
+For the first days it was still all round them. Waystations had silver-on-grey hung at their gates, and the innkeepers came to the doors to look at the plain colours go by. Twice a rider overtook the wagons with a fresh broadside from the city, and Ephram bought both and read them out on the tailboard in what was left of his voice. The guesses had bred. There were a dozen of them now. The one word was in none.
 
 Cael read the road by its doors. Every waystation had a board beside the door, and at the first few the board still had the finals card chalked on it, every result, as if the innkeeper could not bear to rub it off. A few days on, the boards were selling hay and oats by the bushel. A few days after that a board had nothing on it but nail-holes, and the woman who kept the place asked Gault, quite kindly, what had brought two wagons so far north this early. Gault told her. She thought about it, and said she had heard there had been something on, at the coast, and wasn't that nice for them, and went to see about the soup.
 
@@ -146,7 +146,7 @@ The column stopped in the square outside the registry while the reserves watered
 
 Karis's pen came up. She did not write anything. She waited.
 
-"It isn't a promotion," said Brom. "It's a hearing about whether I get offered one." Then he slid the paper inside his coat, into the pocket where the letter from Velmere was, and pressed the coat flat over both. "I know Copper. Every seam of it. I can walk it in the dark. Iron I've only ever watched from the side."
+"It isn't a promotion," said Brom. "It's a hearing about whether I get offered one." Then he slid the paper inside his coat, into the pocket where the letter from Velmere was, and pressed the coat down over both. "I know Copper. Every seam of it. I can walk it in the dark. Iron I've only ever watched from the side."
 
 "Ninety days," said Lira, from the wagon bed. "You could map a lot of floor in ninety days."
 
@@ -168,7 +168,7 @@ On the twelfth day the watchers came back.
 
 There were two of them, at the far end of a bridge in a market town, standing by a hired horse where the road came off the bridge into the square. Grey coats and good boots. Cael knew both faces. He had counted them for two years from the bluff's walls and windows and the ferry steps. He counted them now from the wagon's bench, and was surprised to find that he was very nearly glad of them. After a city of eight thousand who had all been looking at him at once, two men and a horse were almost homely.
 
-He wrote it that night next to the warning, because that was where it belonged.
+It went in that night next to the warning, because that was where it belonged.
 
 *Two of them, at a bridge. The old arrangement, two and a horse. After Norhold it looks small, and I find I'm fond of it. But Vastin spent an hour telling me the old way is finishing. So: noted, and kept beside his hour. They may be the last watchers I get whose names I could learn.*
 
@@ -188,11 +188,11 @@ He tried his versions on the wagon, on the reserves and the horses and anybody w
 
 The last ferry took them over on the seventeenth day.
 
-On the ferry he wrote in the old volume for the last time, at the foot of its last leaf, until the line ran into the binding and there was no room for a word more. He shut it and put it inside his coat with Hesk's letter. Everything he wrote from now on would go into Hesk's book, and he thought it would be a long while before Hesk's book was full. There had been no letter from Fiske all year. Lira had said she was not counting the days, and had not, and would be at the Iron bracket next cycle whether Fiske watched it or not.
+On the ferry he wrote in the old volume for the last time, at the foot of its last leaf, until the line ran into the binding and there was no room for a word more. He shut it and put it inside his coat with Hesk's letter. Everything he wrote from now on would go into Hesk's book, and he thought it would be a long while before Hesk's book was full. There had been no letter from Fiske all year. Lira had said she was not counting the days, and had not, and would be in the Silver bracket next cycle whether Fiske watched it or not.
 
 First the river, wide and slow and going copper in the late light; then the roofs of Ostrand, slate and brown, coming up out of the valley along it; and last, above them all, the bluff, with its one long roofline holding the sun after everything below had lost it. The wagons went up the climb with nobody saying much, because it was the last mile of a long year, and every one of them had found that it was enough just to be riding it, together, with the light going off the water behind.
 
-Halfway up, Cael spoke, to nobody in particular. He had not planned to. It came the way a line comes sometimes at the end of a page, when the page has been working toward it all along without your knowing.
+Halfway up, Cael spoke. He had not planned to. It came the way a line comes sometimes at the end of a page, when the page has been working toward it all along without your knowing.
 
 "I have seven things that aren't a Path," he said. He let the wagon roll on a little way. "A match record no instrument can hold, and five people who watched them fail to score me."
 

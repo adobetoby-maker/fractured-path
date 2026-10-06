@@ -6,7 +6,7 @@ That was how it looked from the west gate, in the grey before the morning's insp
 
 Cael walked it first, end to end, on the floor beside it, counting.
 
-Sixty-one paces from the west end to the east. At each end it was low, waist-high, and a fighter could go over it in four strides, up and across and down. Then it climbed. For the eleven paces at its middle, its crown, it stood as high as his shoulder, and nobody was going over that in a hurry. Between the low ends and the high middle the bank sagged in two places into a saddle, about chest-high, where a quick man could get a hand on the top and swing a leg over if he did not mind being slow about it for a moment. Karis was already kneeling at the western one.
+Sixty-one paces from the west end to the east. At each end it was low, waist-high, and a fighter could go over it in four strides, up and across and down. Then it climbed. For the ten paces at its middle, its crown, it stood as high as his shoulder, and nobody was going over that in a hurry. Between the low ends and the high middle the bank sagged in two places into a saddle, about chest-high, where a quick man could get a hand on the top and swing a leg over if he did not mind being slow about it for a moment. Karis was already kneeling at the western one.
 
 The rest of the floor arranged itself round the hill. North of it was Rhagen's country, a narrow strip with their gate at the east end and two platforms in it, one toward each end, close to the bank. South of it was Halcenvane's, wider and longer, with their own gate in the west and a single platform far down toward the south-east, near the hill's eastern foot. At both ends of the ridge, where the crossings were, the crews had piled timber head-high in thick stacks to spoil the corners.
 
@@ -18,7 +18,7 @@ The rest of the floor arranged itself round the hill. North of it was Rhagen's c
 
 Cael had walked it once. Rooke wanted it twice. He walked it again, more slowly, on the bank this time, up the west end and along the narrow top and down, and on the high middle stretch he stopped and stood still and looked.
 
-From up there he could see the whole floor. Both countries. Both gates, all three platforms, both stacks from above. The board-walk along the top was a stride wide and level, and the bank fell away beneath it on both sides, north and south, at the same easy slope.
+From up there he could see the whole floor. Both countries. Both gates, all three platforms, both stacks from above. The board-walk along the top was a pace wide and level, and the bank fell away beneath it on both sides, north and south, at the same easy slope.
 
 He came down and found Rooke at the rail with his sheet.
 
@@ -34,7 +34,7 @@ Rooke turned from him to the hill, and back.
 
 "We don't fight him for the top," said Cael. "We let him have it. We price the way down."
 
-Rooke wrote that on his sheet, and drew a line under it, and did not say anything else.
+Rooke wrote that on his sheet, and drew a line under it.
 
 Over on the north side of the hill Rhagen were measuring it. They had a staff as long as a man, painted in white rings a hand apart, and their coach held it upright against the bank in three places while a fighter read the rings off and another wrote them down. They did the crown and both saddles and both ends. They never once looked across. Nor did anybody in plain colours, though Cael noticed that Ephram had copied all three of their numbers onto his slate by watching the staff.
 
@@ -78,7 +78,7 @@ Rooke went down to the front rail with a coaching sheet that had nothing written
 
 The first exchange belonged to Rhagen, and Cael watched it happen with something very near admiration.
 
-They did exactly what he had said they would. At the call their captain went straight up the bank at its western saddle and along the narrow walk to the crown, and planted, and the guard came up round him. Cael felt it rather than saw it: the same thick, slow, everywhere-at-once depth he had spent four exchanges inside in the ring, only now it was not round a man on a floor but laid down the hill from its top, both sides at once, spreading as it went, so that the whole upper half of the bank on Halcenvane's side and on Rhagen's went heavy and slow to move through.
+They did exactly what he had said they would. At the call their captain went straight up the bank at its western saddle and along the narrow walk to the crown, and planted, and the guard he had felt from inside for four exchanges in the ring came down the hill from its top, both sides at once, spreading as it went, until the whole upper half of the bank went heavy and slow to move through.
 
 Marek and a quick Rhagen Wind came over the east crossing behind the stack and went for Halcenvane's platform in the south-east.
 
@@ -88,13 +88,11 @@ Ephram looked at them going, and called.
 
 He did not wait to see whether anybody argued. "Ridge is ours. West crossing. Lira, Brom, go."
 
-It was his trade again, the one from the semifinal. Their own platform was the farthest thing on the floor from everything that mattered, down in the corner by Rhagen's crossing, and Marek and the Wind could have it. It would take both of them to keep it, out of the way, all exchange. Meanwhile Halcenvane would go north over the hill, into the narrow country, after the two platforms Rhagen had left with only two people on them.
+It was the semifinal's trade again, the far platform sold to keep two of theirs busy, and each of them ran the shape the semifinal had taught: Lira ready at the west crossing, not early, with a touch on Rhagen's fifth fighter as he came; Brom two strides wide below it; Karis on the western saddle in a frame with its door downhill; Cael in the south country, reading, giving out words.
 
 It nearly worked.
 
-Lira went to the west crossing and stood a little back from it with her weight even, ready, and when Rhagen's fifth fighter came along their side of the hill toward it she went over the low end in four strides and met him on the far side and touched him going past. Brom planted on the flat below the crossing, two strides wide of it, where he could reach the way over in one step. Karis went up to the western saddle and laid her three anchors, and then lifted the flank one and set it down half a stride out, so that the frame stood open on its downhill side, and waited in it. Cael ran the south country behind them, reading, giving out words.
-
-But the captain's guard lay on every way over the hill like a wet blanket. It did not stop anybody. It cost them. Every stride uphill into it was a stride at half speed, and every second spent at half speed on the bank was a second Rhagen's two holders in the north had to see it coming and step across. Lira took the north-west platform twice and was taken off it twice, by a holder who had been there first because the slope had given him time. Ephram himself went over at the east end once, behind the stack, and found a Rhagen Shield waiting at the bottom with her hand already out.
+But the captain's guard lay on every way over the hill like a wet blanket. It did not stop anybody. It cost them. Every stride uphill into it was a stride at half speed, and every second at half speed on the bank gave Rhagen's two holders in the north time to step across. Lira took the north-west platform twice and was taken off it twice, by a holder the slope had let arrive first. Ephram himself went over at the east end once, behind the stack, and found a Rhagen Shield waiting at the bottom with her hand already out.
 
 At the bell the platform marshals' boards gave the exchange to Rhagen, by a handful of quarter-minutes.
 
@@ -142,13 +140,13 @@ Marek came over.
 
 He came fast and low and all at once, the first time all afternoon that anybody in black and glass had committed to anything, straight through the door in Karis's frame and down the south face of the hill. It was a good gap. It was a real one. It was the way through he had spent three minutes making sure of. And at the bottom of it, two strides wide of where it ought to have been empty, stood Brom.
 
-Marek saw him a stride too late.
+Marek saw him too late.
 
 Brom did not hit him. He never did. He took the weight of Marek's arrival on his forearms and turned it, the old redirect, the thing he had repaired a year ago and had been paying for in bruises ever since, and sent all of Marek's own speed off sideways along the slope. There was a drop at the edge of the saddle there, four feet down to the floor where the bank's facing boards ended. Marek went over the edge of it, turning, with nothing under him.
 
 Karis's hand caught his forearm.
 
-She had come out of her frame to do it, one step, and leaned down over the drop with her other hand flat on the planking behind her, and held him by the wrist. Not hard. Just enough. He hung there for a moment at the bank's edge with his boots a foot off the boards. Then he got his feet under him and stood up, and she let go.
+She had come out of her frame to do it, one step, and leaned down over the drop with her other hand on the planking behind her, and held him by the wrist. Not hard. Just enough. He hung there for a moment at the bank's edge with his boots a foot off the boards. Then he got his feet under him and stood up, and she let go.
 
 The flag went up. A touch was a touch, wherever a hand landed and whatever it was doing there.
 
@@ -160,7 +158,7 @@ The captain tried Cael twice that exchange. Cael did not realise it until the se
 
 It was the guard that told him. Twice it came down the slope toward the open middle of the south country, where nothing was worth having but Cael, and both times it came thin, the way a man taps along a plastered wall listening for the stud behind it. It wanted to see what came back.
 
-What came back the first time was Lira, at its edge, before it had properly arrived, sent by one word a breath earlier that Cael did not remember deciding to say. What came back the second time was Brom's bulk, a stride along the slope from where it had been, standing in the guard's way as if he had always meant to stand there.
+What came back the first time was Lira, at its edge, before it had properly arrived, sent by one word a breath earlier that Cael did not remember deciding to say. What came back the second time was Brom's bulk, a yard along the slope from where it had been, standing in the guard's way as if he had always meant to stand there.
 
 The captain did not tap a third time.
 
@@ -176,7 +174,7 @@ Now Rhagen needed both, and Rhagen came for both, and it was beautiful to watch 
 
 Halcenvane did not accept any of them.
 
-It was the least exciting thing Cael had ever been part of, and the hardest. Nobody did anything a broadside could print. Ephram let a platform go a beat before Rhagen arrived to take it, and took another a beat before Rhagen thought to defend it, and the marshals' quarter-minutes ticked into Halcenvane's column while nobody in the bowl could have said why. Lira kept the west crossing and spent nothing she could keep. Karis moved her frame twice, and each time she planted again she paid the heat for it in her palms without looking down. Brom stood two strides wide of whatever mattered, and things that mattered kept walking into him. And Cael held the whole floor in his head at the rates the record knew, the same as he had held the trial against Auremont, and did not let himself feel what it cost until it was over. There was one bout left for him after this. He would spend nothing early.
+It was dull work, and it was the hardest of the day. Nobody did anything a broadside could print. Ephram let a platform go a beat before Rhagen arrived to take it, and took another a beat before Rhagen thought to defend it, and the marshals' quarter-minutes ticked into Halcenvane's column while nobody in the bowl could have said why. Lira kept the west crossing and spent nothing she could keep. Karis moved her frame twice, and each time she planted again she paid the heat for it in her palms without looking down. Brom stood two strides wide of whatever mattered, and things that mattered kept walking into him. And Cael held the whole floor in his head at the rates the record knew, the same as he had held the trial against Auremont, and did not let himself feel what it cost until it was over. There was one bout left for him after this. He would spend nothing early.
 
 Toward the end of the fourth he heard all five of them talking.
 
@@ -218,13 +216,13 @@ Then he went, and the crowd closed behind him. Brom stood at the boards for a wh
 
 One house at the reading had no line.
 
-It was a small delegation in grey from somewhere inland, six people, and they stood near the foot of the double line on the bare stone where the hill had been, a few places below Halcenvane. When the clerk reached them he read their name in the same flat voice he used for every name, and then he paused, as he paused after every name, for the line that came after. There was no line. He did not fill the pause. He let it run its proper length, the length a line would have taken, and the six of them stood to attention all through it, looking straight ahead, while the validation officer at her table found the place on her copy and set her initials beside nothing. Then the clerk read the next house up.
+It was a small delegation in grey from somewhere inland, six people, and they stood near the foot of the double line on the bare stone where the hill had been, a few places below Halcenvane. When the clerk reached them he read their name in the same even voice he used for every name, and then he paused, as he paused after every name, for the line that came after. There was no line. He did not fill the pause. He let it run its proper length, the length a line would have taken, and the six of them stood to attention all through it, looking straight ahead, while the validation officer at her table found the place on her copy and set her initials beside nothing. Then the clerk read the next house up.
 
 Cael had to look at the floor for a while after that.
 
 The standings were the oldest thing at the sitting, Bracken had said at supper, older than the brackets, and almost entirely made of paper. Every house that had fought formed up on the floor at the eighth bell in the order of its count, lowest first. A west-tower clerk on a box read each one out. A validation officer in Compact grey sat at a small table under a lamp with a second copy of the sheets, and initialled every line as he finished it, and he did not go on until she had. At the north end of the floor stood the Silver Standard, furled on its staff and bound with a strap, with one of the colour-guard at either side. It would not be unbound before the closing.
 
-Halcenvane was twelfth to be read. Eleven houses heard their sittings first.
+Halcenvane was twelfth to be read.
 
 Then the clerk said *Halcenvane*, and Cael stopped counting.
 
@@ -236,6 +234,6 @@ The validation officer initialled it. The clerk went on.
 
 Cael stood in the line with the other four round him and did not move. Eighteen years the house on the bluff had been missing from the lists, and nobody who now taught there had ever stood on this floor in its colours. The whole year had just gone into the office's book in a stranger's voice, line by line, initialled, and there was no clerk anywhere who could reach in and take a line of it out again.
 
-Later that night, at the adjudication office's reconciliation of the day's sheets, the senior clerk asked the engagement scribe to account for the line in the second exchange with three names on it. She did not try to account for it. She wrote in the margin of the sheet instead, in a small square hand, and the note went into the office's record of the trial and was read aloud in the west tower more than once in the years after.
+Later that night, at the adjudication office's reconciliation of the day's sheets, the senior clerk asked the engagement scribe to account for the line in the second exchange with three names on it. She did not try to account for it. She wrote in the margin of the sheet instead, in a small hand, and the note went into the office's record of the trial and was read aloud in the west tower more than once in the years after.
 
 *engagement resolved by three fighters, none of whom occupied the contested ground at initiation. Recommend the trial sheet acquire a column.*

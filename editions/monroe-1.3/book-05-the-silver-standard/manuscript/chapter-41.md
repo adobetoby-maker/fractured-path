@@ -36,7 +36,7 @@ He could not see himself paying it. That was what the card had meant. The man wa
 
 The ninth relocation took Cael into the north bay itself.
 
-He had not gone in before. The bay was a stride deep, a pocket of quick pale stone in the shadow of the barrier's step, and it was dead ground. Nothing could be laid into it from the crown without being laid round a corner. When he stepped into it, the guard came after him as it came after him everywhere, and he felt with the read how much of it there had to be, poured round the step in the planking and into the pocket to fill it, a great deal of guard for a very small place.
+He had not gone in before. The bay was a yard deep, a pocket of quick pale stone in the shadow of the barrier's step, and it was dead ground. Nothing could be laid into it from the crown without being laid round a corner. When he stepped into it, the guard came after him as it came after him everywhere, and he felt with the read how much of it there had to be, poured round the step in the planking and into the pocket to fill it, a great deal of guard for a very small place.
 
 The tenth took him out again and south.
 
@@ -54,9 +54,9 @@ The flag went up on the north side of the dais. Then a second flag, and a third.
 
 The bowl made a noise Cael had not heard it make before. It was not a roar. It was lower than that, and it came mostly from the lower tiers where the coaches sat, the sound of a great many professionals letting out a breath they had not known they were holding.
 
-The captain stood on the crown and looked down the slope at him for a long moment. Then he nodded, once, as a man nods when a sum comes out the way somebody else said it would, and walked back to his mark.
+The captain stood on the crown and looked down the slope at him for a long moment. Then he nodded, once, and walked back to his mark.
 
-At the north gate Lira had her charting sheet held flat against the planking with her good hand.
+At the north gate Lira had her charting sheet held against the planking with her good hand.
 
 "Eleven," she said. "I counted. Rooke counted. Ephram counted twice to be sure." She did not look up from the sheet. "Every one of them on the west side. Every one of them on his downhill. He's written down that you run the planking and burn his edges."
 
@@ -94,7 +94,7 @@ He did not go away from the guard. He turned on his left foot, hard, back the wa
 
 He did not know where it had come from. He had not practised it. Nobody had ever taught it to him. It had come out of his feet because there was nothing else left in them.
 
-The captain stood very still on the oak for half a breath. Then he came on again.
+The captain stopped on the oak for half a breath. Then he came on again.
 
 The second time was in the north bay.
 
@@ -218,7 +218,7 @@ Cael stood at the barrier. Up on the dais the panel's clerk was still at his sla
 
 What the captain had said was not ordinary at all.
 
-He had said it politely, as a courtesy, one craftsman to another. It was the most dangerous sentence anybody had spoken to Cael since he came to Norhold, and the man who had spoken it had meant him nothing but well.
+He had said it politely, as a courtesy, one craftsman to another. It was a dangerous sentence, and the man who had spoken it had meant him nothing but well.
 
 The figure went up eleven minutes after the flags.
 
@@ -238,13 +238,13 @@ Rooke was waiting for him in the tunnel. He had his coat buttoned.
 
 "I don't know where it came from."
 
-"No," said Rooke. "I didn't think you did. Nobody does, the first time." He looked at Cael for a moment in the tunnel's grey light, and his hand went, perhaps without his meaning it to, to the outside of his coat over the pocket, and rested there. "Well. We're going to dinner anyway."
+"No," said Rooke. "I didn't think you did. Nobody does, the first time." He looked at Cael in the tunnel's grey light, and his hand went, perhaps without his meaning it to, to the outside of his coat over the pocket, and rested there. "Well. We're going to dinner anyway."
 
 ---
 
 The circle met in the back room after supper, with the door shut.
 
-It was a narrow room, a former linen store with one window over the courtyard pump and a table that rocked, and Lira had claimed it on the first night in the city by a custom she had invented on the stair. Gault had been and gone. He had strapped the hip with a wide bandage round the thigh and the waist and left a pot of salve for the hand, and told Cael to sit and not to argue, and Cael was sitting, with his left leg out straight along the bench.
+Gault had been and gone. He had strapped the hip with a wide bandage round the thigh and the waist and left a pot of salve for the hand, and told Cael to sit and not to argue, and Cael was sitting, with his left leg out straight along the bench.
 
 Lira did not wait for anybody to begin.
 
@@ -255,8 +255,6 @@ She had the charting sheet on the table under her good hand, and she put her fin
 "Here. At the south bay. And here, in the north one." She looked up at him. "I've watched your feet for years. I know what they look like when we've drilled it. I know what they look like when Rooke's drilled it. I know your landing and your heel and the way you favour the right side when you're tired. That turn at the south bay wasn't any of those, and nor was the drop in the north one. Neither of them was anything. You made them up, at full speed, with his hand coming." She did not say it as an accusation. She said it the way she read off a sheet, item by item, because that was what the four of them did for one another. "How close was it?"
 
 "A handspan," said Cael. "Both times."
-
-Nobody said anything for a moment.
 
 Brom had been sitting at the end of the table with his wrapped forearms laid on it, watching Cael's face. He had watched the third exchange from the rail with a very particular attention, and Cael had felt it there, at the north bay, the whole time the captain's hand was coming.
 
@@ -286,7 +284,7 @@ Nobody spoke.
 
 "Minuted," said Cael.
 
-They sat with it. Outside in the courtyard somebody was working the pump, the long creak and the gush of water and the creak again, and the table rocked a little when Brom shifted his arms on it.
+They sat with it. Outside in the courtyard somebody was working the pump, the long creak and the gush of water and the creak again.
 
 None of them said the next thing. All four of them had worked it out, and none of them needed to hear it. The room would run out, one day, against somebody better than a Silver of the sixth rank. They did not know who it would be. They did not know when. They only knew it was somewhere in this city, and that the ring by the north tunnel would still be standing when it came.
 

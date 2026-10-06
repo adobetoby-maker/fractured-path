@@ -4,7 +4,7 @@ On the third morning Cael was in the warm-up hall under the east tower at the fi
 
 It was an ordinary morning, as far as it went. The hip had held through two days of work without a murmur. The burn on his right hand had gone from pink to a pale shine he could only find if he looked for it. Brom stood in the middle of the mat with his bandaged forearms up and came at him at three-quarter pace, a heavy man's walk with a shove at the end of it, and Cael went round the shove, left and then right and then left again, on his feet, no bursts, as Rooke wanted it two days before a trial.
 
-The hall had its own noise at that hour, and he knew it by now as well as he knew the noise of the long table. It was wide and flat and busy. Thirty conversations, none of them about anything. Feet on mats. Somebody's coach counting. A crew somewhere down the far end of the building knocking wedges into something with a mallet.
+The hall had its own noise at that hour, and he knew it by now as well as he knew the noise of the long table. It was wide and busy. Thirty conversations, none of them about anything. Feet on mats. Somebody's coach counting. A crew somewhere down the far end of the building knocking wedges into something with a mallet.
 
 The coach was the first thing to go.
 
@@ -98,7 +98,7 @@ The others had settled round him while he read. He felt them do it without looki
 
 Nobody had ever designed it. None of them could have told you why they stood that way. It was simply the shape they made when there was something to read.
 
-Rooke stood well back in the crowd with his hands in his pockets and said nothing at all. Seln had taken himself up onto the steps of the west tower's porch, out of the crush, and was holding the travel pouch to his chest and looking at the board with the face he kept for a timetable that had been changed without notice.
+Rooke stood well back in the crowd with his hands in his pockets. Seln had taken himself up onto the steps of the west tower's porch, out of the crush, and was holding the travel pouch to his chest and looking at the board with the face he kept for a timetable that had been changed without notice.
 
 Cael read the line again, slowly, as he would read a contract.
 
@@ -106,7 +106,7 @@ His name and his house. Her name, her house, her tier. And between his house and
 
 "They finally wrote it down the honest way," he said. "A blank, with my name next to it."
 
-Lira leaned her shoulder into his, once, and took it away. Nobody said anything else. After a while they turned and went back up through the crowd, which opened for them again, and somewhere behind them one person began to clap and then thought better of it, as if unsure the occasion was that kind.
+Lira leaned her shoulder into his, once, and took it away. After a while they turned and went back up through the crowd, which opened for them again, and somewhere behind them one person began to clap and then thought better of it, as if unsure the occasion was that kind.
 
 ---
 
@@ -114,7 +114,7 @@ The long table met at the eighth bell, with every chair filled.
 
 Withrow sat at the head of it with a pot of tea at her elbow. Rooke had the chair at her right, Bracken the chair at her left with the pouch on his knees. Gault was at the far end peeling an apple with great attention. Ephram sat between Brom and Karis. Seln had the last chair, the one nearest the door, where he always sat when he sat with them at all.
 
-Withrow had the office's copy of the filing flat on the table in front of her, and she did not make a speech. She went down the form instead, box by box, with one finger, the way she went down a ledger.
+Withrow had the office's copy of the filing on the table in front of her, and she did not make a speech. She went down the form instead, box by box, with one finger, the way she went down a ledger.
 
 "Challenger. Signed by herself, for herself. Her house has written to say it would rather she hadn't, and has not written to say it can stop her, because it can't." The finger moved. "Category. Theirs. Three hundred years old, and still on their books because nobody ever cared enough to take it off." Down again. "Enrollee. Ours, by our own clause, printed, and nobody's asked to read the clause twice." She tapped the foot of the form. "Office. The Chief Adjudicator's people sent the scheduling queries before noon; Bracken has seen them. The Compact has a row of chairs in that building and not one word to say about its card."
 
@@ -148,7 +148,7 @@ The back room had one window over the courtyard pump and a table that rocked, an
 
 They all looked at him.
 
-"Half a second, and she wasn't even looking at you. She was on her way somewhere and you were in the road." He turned his back to the door and leaned on it. "In that ring she'll be looking at you from the moment you walk out. Nothing else. Every bit of her, on you." He thought about it, slowly, as he thought about everything that mattered. "I'd want that one, if I were you. Attention you can read. Traffic you can't."
+"Half a second, and she wasn't even looking at you. She was on her way somewhere and you were in the road." He turned his back to the door and leaned on it. "In that ring she'll be looking at you from the moment you walk out. Nothing else. Every bit of her, on you." He thought about it, slowly. "I'd want that one, if I were you. Attention you can read. Traffic you can't."
 
 Karis had her pen out. She was not writing with it. She was turning it over and over between her fingers on the table, end for end.
 
@@ -196,11 +196,11 @@ Lira almost laughed. She always had one, and he always asked.
 
 Nobody said anything for a while.
 
-Cael sat with all of it laid out on the rocking table: Brom's attention, Karis's publication and the thing she would not name with a window open, Lira's questions and Lira's answer. Three more pens. And he found that the decision was not something he had to make in this room at all. He had been carrying it since the trial floor the way a man carries a coin in his pocket, turning it over with his thumb without taking it out to look. Tonight all he was doing was taking it out and reading what was stamped on it.
+Cael sat with all of it laid out on the table: Brom's attention, Karis's publication and the thing she would not name with a window open, Lira's questions and Lira's answer. Three more pens. And he found that the decision was not something he had to make in this room at all. He had been carrying it since the trial floor the way a man carries a coin in his pocket, turning it over with his thumb without taking it out to look. Tonight all he was doing was taking it out and reading what was stamped on it.
 
 "I'll accept in the morning," he said. "At the counter. On their form, with my own hand."
 
-He looked round at them: Lira on the end of the bench, Brom at the door, Karis with her palm flat beside the pen.
+He looked round at them: Lira on the end of the bench, Brom at the door, Karis with her palm beside the pen.
 
 "I'll say it so it gets written down," he said. "I was always going to. Tonight was for making sure I know why." He let out a long breath. "I do."
 

@@ -8,7 +8,7 @@ The table stood under the window. Five buff folders lay along it in a row, one t
 
 He had come back from the west tower an hour before he was expected. He did not account for the hour to anybody, and nobody was there to ask.
 
-For some while he did not write anything. He read, instead, as he read at his counter: the day's last papers first, the healers' attestation for the ring's north station, a revised allotment for the warm-up halls, the tower's note on the hour the ring would be opened for the finals. He initialled each where it wanted initialling and laid it in its folder. A floor allotment in the Ember fighter's folder had slipped a quarter-inch out of true. He squared it.
+For some while he did not write anything. He read, instead, as he read at his counter: the day's last papers first, the healers' attestation for the ring's north station, a revised allotment for the warm-up halls, the tower's note on the hour the ring would be opened for the finals. He initialled each where it wanted initialling and laid it in its folder. A floor allotment in the Ember fighter's folder had slipped a quarter-inch out of true. He set it straight.
 
 Then he sat for a time with the pen in his hand and the cap still on it, and looked at the window.
 
@@ -42,15 +42,15 @@ He had not held pads for anybody, as far as Cael knew, in the whole time Cael ha
 
 "Hips. Shoulders. The landing beat, at a walk. You're not learning anything tonight. You're only showing your body where everything is, so it can find it in the dark."
 
-They went at a tenth of anything Cael had. Rooke counted. He counted every touch, out loud, in the flat voice he used at a rail, and moved the pads a hand's width at a time, up and out and back, and Cael followed them, and the hall was nothing but the count and the slap of palm on leather and two pairs of feet on old boards.
+They went at a tenth of anything Cael had. Rooke counted. He counted every touch, out loud, in the voice he used at a rail, and moved the pads a hand's width at a time, up and out and back, and Cael followed them, and the hall was nothing but the count and the slap of palm on leather and two pairs of feet on old boards.
 
 Rooke stopped well before Cael would have.
 
 He simply lowered the pads, in the middle of a count, and stood there.
 
-Cael had been counting too. "There were eleven more in that."
+Cael had been counting too. "There were a dozen more in that."
 
-"There were." Rooke began on the buckles. "And tomorrow they'll still be in you, because you didn't spend them tonight. That's the whole trick of it." He pulled the first pad off. "Every man I ever coached wanted the eleven. The ones I gave them to were slow the next day."
+"There were." Rooke began on the buckles. "And tomorrow they'll still be in you, because you didn't spend them tonight. That's the whole trick of it." He pulled the first pad off. "Every man I ever coached wanted the dozen. The ones I gave them to were slow the next day."
 
 He laid the pads on the barrel, side by side.
 
@@ -62,13 +62,13 @@ He went out. The reserve looked at Cael with very round eyes and did not say any
 
 ---
 
-The eleventh thing they did not know went up on the door a little after the ninth bell.
+The tenth thing they did not know went up on the door a little after the ninth bell.
 
-Karis wrote it in her smallest hand on the sheet pinned at eye height, under ten others, and stepped back. The sheet was headed *We don't know.* By then it was longer than anything on the wall, because the wall was still bare. That was her rule, and she had said it before she pinned anything: a claim went on the wall only if she could say where it came from, and if she could not, it went on the door.
+Karis wrote it in her smallest hand on the sheet pinned at eye height, under nine others, and stepped back. The sheet was headed *We don't know.* By then it was longer than anything on the wall, because the wall was still bare. That was her rule, and she had said it before she pinned anything: a claim went on the wall only if she could say where it came from, and if she could not, it went on the door.
 
 Most of the door was about Auremont. Auremont let nobody copy a bout of the girl's and never had. The Storm Path kept its workings sealed with the registry, as a potter keeps the recipe for a glaze. Every shop's file Karis had bought on her in three weeks had been ceremonies with adjectives. What the four of them actually had was the trial, from four places on one floor, and a walk round an empty ring.
 
-They had kept this night twice before, and by now it had a form. The first time nobody had known it was a form. The second had been at Halcenvane before Gault's oak, when everybody at the long table had given him a piece of the next day in place of a present. Tonight it was the back room, with the shutter shut and paper folded under the table's short leg. Ephram had knocked once, early, with a covered dish in each hand and the cider jug in the crook of his arm, and had not tried to come in. He had passed it all across to Brom at the door, and said, "Eat. Whatever else you do in there," and gone off down the stair whistling the lock-keeper's song badly on purpose.
+They had kept this night twice before, and by now it had a form. The first time nobody had known it was a form. The second had been at Halcenvane before Gault's oak, when everybody at the long table had given him a piece of the next day in place of a present. Tonight it was the back room, with the shutter shut. Ephram had knocked once, early, with a covered dish in each hand and the cider jug in the crook of his arm, and had not tried to come in. He had passed it all across to Brom at the door, and said, "Eat. Whatever else you do in there," and gone off down the stair whistling the lock-keeper's song badly on purpose.
 
 The first model was a pipe.
 
@@ -126,7 +126,7 @@ Then she boxed one line on the wall, and boxed it again.
 
 "Half a beat," said Cael. "Then we're rich."
 
-It was what Lira had said to her boot on the frosty night at the mill town, round the guest house's one good stove, about a great deal less. Flat by the stove, Lira snorted at the ceiling. And Karis, at the wall, let her shoulders come down half an inch.
+It was what Lira had said to her boot on the frosty night at the mill town, round the guest house's one good stove, about a great deal less. From the floor by the stove, Lira snorted at the ceiling. And Karis, at the wall, let her shoulders come down half an inch.
 
 She did not write him the card at the table. She went and crouched at the stove with its door already open and the coals red, and wrote it on her knee in her tightest hand, three lines. *Air first. Not her. The leave runs out where the lane does. Half a beat and it's yours.* She held it up for him. He read it until he had it, and nodded, and she laid it on the coals, and the four of them watched it curl.
 
@@ -166,7 +166,7 @@ Cael named what was in it, every piece, because the minute would want the names.
 
 "And what it costs," said Lira.
 
-"And what it costs." He did not look away. "Every plate anybody's ever set in front of me read me against those rates. Every shop's file was written against them. They're why nobody's ever quite known what to ask of me. After tomorrow whatever I show is in the book, and nobody will ever again measure me against less. There's no getting it back into the box." He put both palms down flat, and the rocking table tipped and was still. "A rate you have shown is a rate you have shown forever."
+"And what it costs." He did not look away. "Every plate anybody's ever set in front of me read me against those rates. Every shop's file was written against them. They're why nobody's ever quite known what to ask of me. After tomorrow whatever I show is in the book, and nobody will ever again measure me against less. There's no getting it back into the box." He put both palms down on the table. "A rate you have shown is a rate you have shown forever."
 
 "Open it," said Lira. "And keep the line from the door."
 
@@ -186,7 +186,7 @@ He did not put the pen down.
 
 "One more. It has to be said in here or nowhere." He looked at the candle and not at any of them. "The quiet thing stays sealed."
 
-The room went still. Then Lira leaned her elbows on the rocking table, because the form wanted an argument and nobody could land one the way she could.
+The room went still. Then Lira leaned her elbows on the table, because the form wanted an argument and nobody could land one the way she could.
 
 "Then cost the seal. Out loud, where the room can hear it." She held his eyes. "You've got a thing that makes you hard to find. Tomorrow you're fighting a woman who wins by knowing where you'll be. You've got a thing that hides you moving. She lays her road before you've moved. If anything in there was ever made for tomorrow, it's that." She sat back. "And it stays in the box. So say why."
 
@@ -204,7 +204,7 @@ Nobody wrote it down, and nobody ever would. What the four of them owed the man 
 
 Cael found the strip at midnight, because he could not sleep and went down to read the protocol again, and the protocol was in his folder.
 
-It lay squared between the renewal and the protocol's first page. He read it standing in the dark front room by the light that came down the stair. He read it twice. Then he went to the stove.
+It lay true between the renewal and the protocol's first page. He read it standing in the dark front room by the light that came down the stair. He read it twice. Then he went to the stove.
 
 The poker hung on its hook. The fire had sunk to a low red bed behind the iron door. He opened the door, and stopped with his hand still on it.
 
@@ -212,7 +212,7 @@ Somebody had already broken the ash.
 
 It had been done lately, and done thoroughly: the whole bed raked fine, the grey on top of the red broken down small and even, as though a hand had stood where he was standing a little while before with the poker and got the stove ready for something. The poker was back on its hook. The room was empty. The stair was dark all the way up.
 
-He did not let himself think about whose hand. He laid the strip flat on the red. It browned at one corner and blackened across its middle and caught, and was flame for a breath, and was nothing. He watched until there was nothing. Then he took the poker down and broke the new ash into the old until no one could have told the one from the other, as Karis had done on the common-room coals at Halcenvane on the only other night.
+He did not let himself think about whose hand. He laid the strip on the red. It browned at one corner and blackened across its middle and caught, and was flame for a breath, and was nothing. He watched until there was nothing. Then he took the poker down and broke the new ash into the old until no one could have told the one from the other, as Karis had done on the common-room coals at Halcenvane on the only other night.
 
 There had been one before. Now there were two. Nobody had ever said one word about the first, and nobody ever would about this.
 
@@ -220,7 +220,7 @@ He wrote it in the old volume, in its very last leaves, in the smallest hand he 
 
 *Second one. Nobody in the back room said a word outside it, and he still knew what tonight was for. He'll have had it from the rider and the protocols and the three scribes, the way he has everything, by counting what came across his counter.*
 
-*The first told me how to be measured. This one tells me I'm about to be, for good, and that what's left to me is which of me goes in the book. An hour before he wrote it, four of us at a rocking table had already chosen. He came to the same place from the far side of the counter, on his own.*
+*The first told me how to be measured. This one tells me I'm about to be, for good, and that what's left to me is which of me goes in the book. An hour before he wrote it, four of us in the back room had already chosen. He came to the same place from the far side of the counter, on his own.*
 
 *A strip of grey paper and a nobody's hand. If anybody had found it, it would have cost him the rest of his life. I can never tell him I know that.*
 
@@ -248,4 +248,4 @@ He opened Hesk's book under the lamp, past the ring and the minute, to the next 
 
 *Write it down before, not after.*
 
-He blotted it and closed the book and laid his hand flat on its cover for a moment. Then he put the lamp out and lay down, with the harbour moving under the window and the clock on the chair ticking an hour ahead of the whole city, and waited for the morning, so that he could put it right.
+He blotted it and closed the book and laid his hand on its cover for a moment. Then he put the lamp out and lay down, with the harbour moving under the window and the clock on the chair ticking an hour ahead of the whole city, and waited for the morning, so that he could put it right.

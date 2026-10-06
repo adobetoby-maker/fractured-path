@@ -126,7 +126,7 @@ They looked at her.
 
 "The high windows on the west side of the bowl. In the afternoon they throw bars of light across the floor." She held up one of the broadsides, which had an account of the lake man's bracket bout from the cycle before. "Every account I can find, his flourishes finish in the light. Every one. He fights his passages so they end in a bright bar, where the top tier can see the blade catch." She laid the sheet down. "He'll do it in the ring. The bars come down into the ring by the middle of the afternoon, and they move east as the sun drops."
 
-Rooke looked at the broadside for a long moment. Then he looked at Cael.
+Rooke looked at the broadside. Then he looked at Cael.
 
 "Your sheet," he said quietly, "has an item on it for that."
 
@@ -154,7 +154,7 @@ He had spent one whole day inside that stillness, in a room twelve feet by fourt
 
 The Archmarshal Vastin had come to Norhold, and he was sitting in the chair that had been held for two weeks for somebody nobody would name.
 
-Along the row the other officers had shifted. It was very slight. Nobody had moved their seats. But Ilsev's lap-desk was at a new angle, a little toward the end of the row, and Havel was sitting straighter than he had ever sat, and the liaison man had stopped talking to the host city's officials. Every one of them had arranged themselves round the man in the twelfth chair, as a field of iron filings arranges itself round a magnet, and the man was paying no attention to any of them at all.
+Along the row the other officers had shifted. It was very slight. Nobody had moved their seats. But Ilsev's lap-desk was at a new angle, a little toward the end of the row, and Havel was sitting very straight, and the liaison man had stopped talking to the host city's officials. Every one of them had arranged themselves round the man in the twelfth chair, as a field of iron filings arranges itself round a magnet, and the man was paying no attention to any of them at all.
 
 "Hand," said Gault.
 
@@ -174,7 +174,7 @@ He was tall and lean, perhaps twenty-five, with a long, mobile, handsome face th
 
 The flags went up.
 
-The lake man opened as Rooke had said he would, quietly. He circled, low, testing, the sword point making small easy figures in the air, and the bowl went quiet with him, as an audience goes quiet at the beginning of a song. Then he began to build.
+The lake man opened as Rooke had said he would, quietly. He circled, low, testing, the sword point making small easy figures in the air, and the bowl went quiet with him. Then he began to build.
 
 It was beautiful. Cael could see that even while he watched it for the knife. A step in and a cut, small. A step back. Two steps in and two cuts, a little faster, a little wider, and the lake man's whole body beginning to turn into the rhythm of it. Three steps and a spin, the sword going round in a long bright arc toward the west rail, where the light from the high windows above lay across the planking in a long gold bar, and the whole west side of the bowl drew breath to see the blade catch it.
 
@@ -182,7 +182,7 @@ The spin was a show. It was meant for the west rail and every face along it.
 
 Except for its last quarter-beat.
 
-The read saw it a fraction before the sword did. The lake man's weight, which had been going round with the spin, all of it, toward the rail, stopped going round. It came off his back foot and onto his front in the space of a quarter-beat, and his shoulder dropped, and the sword came out of the spin not toward the rail at all but straight in, short and flat, at Cael's ribs, from an angle the whole long beautiful turn had spent two beats hiding.
+The read saw it a fraction before the sword did. The lake man's weight, which had been going round with the spin, all of it, toward the rail, stopped going round. It came off his back foot and onto his front in the space of a quarter-beat, and his shoulder dropped, and the sword came out of the spin not toward the rail at all but straight in, short, at Cael's ribs, from an angle the whole long beautiful turn had spent two beats hiding.
 
 Cael was not there. He was a foot to the left, on his good leg, because the read had told him where the weight was going and the read did not care in the least what the sword was doing.
 
@@ -204,7 +204,7 @@ The lake man was too good to be caught by it twice in the same way. He began to 
 
 By the middle of the exchange the lake man's passages had begun to come apart.
 
-It was not dramatic. It was like listening to a man tell a joke to a friend who does not laugh, and watching him tell it again, a little faster, and then a third time, faster still, until the joke is all words and no shape. His flourishes kept arriving at their ends, beautifully, on time, and finding nothing under them. Cael kept refusing them. He refused them flatly and without any show of his own, walking, at the pace of a man reading a long letter he means to answer later.
+It was not dramatic. It was like listening to a man tell a joke to a friend who does not laugh, and watching him tell it again, a little faster, and then a third time, faster still, until the joke is all words and no shape. His flourishes kept arriving at their ends, beautifully, on time, and finding nothing under them. Cael kept refusing them. He refused them plainly and without any show of his own, walking, at the pace of a man reading a long letter he means to answer later.
 
 Late in the exchange, a passage broke in the middle. The lake man had built it toward a great backhand turn, and Cael had moved before the turn, and the lake man had seen him move and tried to change the end of the sentence while he was still saying it. For a half-beat his weight was nowhere. It was not on the turn and it was not on the change. It was between them.
 
@@ -224,7 +224,7 @@ Cael saw it in the first two steps, and felt something cold go down his back. Th
 
 And plain, he was better.
 
-He was faster to the line without the show to carry. His entries came straight and short and early, from nowhere, with no sentence in front of them to warn of them, and the read still gave Cael his weight a fraction early, but now a fraction was all there was. Twice in the first half of the exchange the plain cut came close enough that Cael felt the air of it on his cheek. The second time, the hip told him what it thought of the step he had used to get away, and he lost a beat recovering.
+He was faster to the line without the show to carry. His entries came straight and short and early, from nowhere, with no sentence in front of them to warn of them, and the read still gave Cael his weight half a beat early, but now half a beat was all there was. Twice in the first half of the exchange the plain cut came close enough that Cael felt the air of it on his cheek. The second time, the hip told him what it thought of the step he had used to get away, and he lost a beat recovering.
 
 The bowl, which had been a little restless through the second exchange, went quiet. The craft-readers in the lower tiers leaned forward. This was a bout now, and they knew it.
 
@@ -260,7 +260,7 @@ For the first half of the exchange he fought as he had fought the third, plainly
 
 He watched the lake man's face while he did it.
 
-Plain fighting was costing him. Not his strength; he had plenty of that. It was costing him something he had fought for all his life without ever having to name it, which was the bowl. Eight thousand people were watching a Silver of the fourth rank fight in a way they could not see, quick and flat and unlovely, and they had gone quiet, and the lake man could hear them being quiet. Cael saw him hear it.
+Plain fighting was costing him. Not his strength; he had plenty of that. It was costing him something he had fought for all his life without ever having to name it, which was the bowl. Eight thousand people were watching a Silver of the fourth rank fight in a way they could not see, quick and plain and unlovely, and they had gone quiet, and the lake man could hear them being quiet. Cael saw him hear it.
 
 In the middle of the fourth exchange the lake man built one last passage.
 

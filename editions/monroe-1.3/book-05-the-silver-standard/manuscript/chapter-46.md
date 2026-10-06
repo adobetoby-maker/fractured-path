@@ -10,7 +10,7 @@ The bowl did not shout her name. It said it, all of it at once, eight thousand p
 
 Cael stood at the west gate with the others and listened to the roar and read it, because reading things was what he did when he was frightened. Under it he could hear two hopes at once, the holders' and the bluff's, shouted by the same people in the same breath. The holders against the house with the blank. The Gold against the boy nobody could rate. He did not write any of it down. There would be no time for writing on that floor.
 
-Rooke gave them the shortest team talk Cael had ever heard him give.
+Rooke's team talk was four sentences long.
 
 He stood at the gate with his coaching sheet folded small in one fist, and looked at the five of them, and at the Shield reserve standing behind them in his kit as the squad's alternate, white to the lips.
 
@@ -22,7 +22,7 @@ Auremont stood in deep blue and silver, the house every broadside in the city ca
 
 The referee told the galleries what they already knew. Three platforms. The objective ledger, kept by the platform marshals in quarter-minutes. The engagement ledger, kept by the flags. Four exchanges by the glass. A touched fighter to his own gate and the post. Cael did not listen. He was watching Daeva.
 
-She stood at the end of Auremont's line, opposite him, a stride away. She was tall, as he had seen at a hundred yards, and close to she was younger than she had looked at a hundred yards, and very still. She did not look at him. She did not look at any of them.
+She stood at the end of Auremont's line, opposite him, a pace away. She was tall, as he had seen at a hundred yards, and close to she was younger than she had looked at a hundred yards, and quite still. She did not look at him. She did not look at any of them.
 
 She was looking at the floor.
 
@@ -140,7 +140,7 @@ The galleries had gone very quiet.
 
 Ilsev had been writing steadily since the first call.
 
-She sat in the first seat of the Compact's row with the observation form for the team trial squared on her lap-desk, and she wrote as she always wrote, in the even hand her office had trained into her over a great many years, a line for every event the form had a place for. The form had ten columns, one for each fighter on the floor, five a side. At the head of each column the office's clerk had copied the fighter's name and house and the registry's classification, so that an observer could weigh what she saw against what the registry said she ought to be seeing.
+She sat in the first seat of the Compact's row with the observation form for the team trial laid on her lap-desk, and she wrote as she always wrote, in the even hand her office had trained into her over a great many years, a line for every event the form had a place for. The form had ten columns, one for each fighter on the floor, five a side. At the head of each column the office's clerk had copied the fighter's name and house and the registry's classification, so that an observer could weigh what she saw against what the registry said she ought to be seeing.
 
 Nine of the columns had a tier at the head of them. The tenth had the registry's word for him, in its square brackets, as it was printed on every paper about him in the Compact's files.
 
@@ -202,7 +202,7 @@ That was the strangest of all of it. Brom was in his gap, the second one, where 
 
 In the middle of the exchange Brom stepped out of the gap.
 
-He did it of his own accord. Nobody called it. He looked at the lane going by, and at the gap he had held for two and a half exchanges, and he understood that the gap did not matter any longer, and he left it and went south to the platform in their own country to be of some use there. Cael had known Brom for a long time. He had never once seen him leave a place he had decided to hold. He thought it was the bravest and most expensive thing he had ever watched him do.
+He did it of his own accord. Nobody called it. He looked at the lane going by, and at the gap he had held for two and a half exchanges, and he understood that the gap did not matter any longer, and he left it and went south to the platform in their own country to be of some use there. Cael had known Brom for a long time. He had never once seen him leave a place he had decided to hold. He thought it was brave, and that it cost Brom more than anything else on the floor.
 
 She went to Karis.
 
@@ -218,17 +218,17 @@ And then the lane turned toward him.
 
 Afterward he could never decide if she had kept him till the end on purpose, or if he had simply been the last one she reached. He spent a whole page on it later and wrote at the bottom, honestly, *Don't know.*
 
-He was in the middle, near the oak round, just south of the barrier's centre, where Ephram had sent him at the start of the exchange to watch both gaps. He felt the air begin to fold along the timber toward him, the long flat pressing weight that should not have been there, gathering. The crack of the lane's head. The flint smell.
+He was in the middle, near the oak round, just south of the barrier's centre, where Ephram had sent him at the start of the exchange to watch both gaps. He felt the air begin to fold along the timber toward him, the long pressing weight that should not have been there, gathering. The crack of the lane's head. The flint smell.
 
 The read went further than it had ever gone.
 
-He could feel it going. All year it had read bodies, men's weight and direction a fraction early. All afternoon it had been reaching past them, for the heaviness along the wall that was not a body. Now, with the lane coming down the diagonal at him faster than he had ever seen anything move, he pushed it as far as it would go. It went into the air itself, into the place where the weight was pressed flat and about to snap back, and for the first time it read something that was not a person.
+He could feel it going. All year it had read bodies, men's weight and direction half a beat early. All afternoon it had been reaching past them, for the heaviness along the wall that was not a body. Now, with the lane coming down the diagonal at him faster than he had ever seen anything move, he pushed it as far as it would go. It went into the air itself, into the place where the weight was pressed flat and about to snap back, and for the first time it read something that was not a person.
 
 It gave him half a second.
 
 Half a second of warning before the lane arrived. Against anybody else on the continent half a second would have bought him the whole exchange. Against her it bought him two steps.
 
-He went sideways off his mark, two steps, not a burst, nothing on any sheet but feet. The lane came down the diagonal and resolved where he had been standing, on the stone beside the oak round, and spent itself there on nothing. The touch that had found three of the best fighters he had ever known, and passed the fourth by, found empty floor.
+He went sideways off his mark, two steps, not a burst, nothing on any sheet but feet. The lane came down the diagonal and resolved where he had been standing, on the stone beside the oak round, and spent itself there on nothing. The touch that had found three of the best fighters he knew, and passed the fourth by, found empty floor.
 
 He was at the lane's edge, upright, inside the wash of it.
 
@@ -340,7 +340,7 @@ Ephram let go and stood back, looking faintly embarrassed, as he always did when
 
 "At the waystation. I asked her to." Ephram considered. "She said it was a good speech with a sermon stuck on the end."
 
-He wrote it that night in Hesk's book, the third entry, under the inventory and the line about tomorrow.
+The third entry in Hesk's book went under the inventory and the line about tomorrow.
 
 *Team trial, semifinal. Two exchanges each, and the ledger to Auremont on the third. For two of the four, the five of us were the best squad in the building, and the marshals counted it, and it's in their book now with ours. Last night I wrote down what the tournament was for, and today it turned out to be true.*
 
@@ -360,7 +360,7 @@ It was Lira, in her coat, with the evening's broadside folded small in her good 
 
 "She didn't miss."
 
-"I know she didn't. I was there." She looked at him for a moment, at the book open in front of him and the word in the margin, which she could not have read from the door. Then she grinned, the grin she kept for weather worth going out in.
+"I know she didn't. I was there." She looked at him, at the book open in front of him and the word in the margin, which she could not have read from the door. Then she grinned, the grin she kept for weather worth going out in.
 
 "Third-place trial first," said Lira.
 

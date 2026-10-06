@@ -2,15 +2,15 @@
 
 Seln had had the parcel since the early post.
 
-The pouch came up from the river gate at the first bell on the rest day as on every other day, because the post kept no holidays and nor did the office that answered it. He unlocked it at the end of the long table in the common room, with the house still asleep above him, and sorted it as he sorted everything, into the order in which it would be wanted.
+The pouch came up from the river gate at the first bell on the rest day as on every other day, because the post kept no holidays and nor did the office that answered it. He unlocked it at the end of the long table in the common room, with the house still asleep above him, and sorted it into the order in which it would be wanted.
 
-There was not much. A bundle for Rooke from a coaching house in the south. A thin packet for Withrow, sealed, which went into the inner pocket of the travel file unopened. A card for the boy in a plain square hand he knew from a Greyvane file. An envelope for the boy with the Ardenmere circuit ledger's stamp on the flap, which could only be one person.
+There was not much. A bundle for Rooke from a coaching house in the south. A thin packet for Withrow, sealed, which went into the inner pocket of the travel file unopened. A card for the boy in a plain hand he knew from a Greyvane file. An envelope for the boy with the Ardenmere circuit ledger's stamp on the flap, which could only be one person.
 
 And the parcel.
 
 It was the size of a large book and the weight of a small anvil, done up in brown paper and good twine with the knots sealed in wax. The coast clerk's slip was tied to the twine. *Stationery, bound, one.* Under that, in the column for the insured value, the clerk had written a figure, and then, as if he had not quite believed it himself, written it out again in words.
 
-Seln read the figure in both forms. He set the parcel on the table and looked at it for a moment.
+Seln read the figure in both forms. He set the parcel on the table and looked at it.
 
 There was a note propped against the water jug a little way along the table. It was not addressed to him, and he did not read it. He did not need to. He had heard Lira on the stair the evening before, telling Brom about a cookshop with a blue door past the third wharf, and he knew the hour she had chosen, because she had chosen it at the top of her voice.
 
@@ -40,7 +40,7 @@ The proprietor met Cael just inside the door, an hour earlier, with a dish of fr
 
 He had not said a word yet. He looked at her.
 
-"Your face is on a cord at the basin steps," she said, "and your friend described you. Tall as that, she said, and thin as that, and you'll look at the room before you look at me." She jerked her chin toward the back of the shop. "You did. They're at the long table. All of it. Don't ask me how she got it. I opened the door at eleven and she was standing on the step, and by a quarter past she'd talked the wharfmen off my best table and borrowed cushions from the chandler next door, and I still don't know what she said to any of them."
+"Your face is on a cord at the basin steps," she said, "and your friend described you. Tall as that, she said, and thin as that, and you'll look at the room before you look at me." She jerked her chin toward the back of the shop. "You did. They're at the long table. All of it. Don't ask me how she got it. I opened the door at ten and she was standing on the step, and by a quarter past she'd talked the wharfmen off my best table and borrowed cushions from the chandler next door, and I still don't know what she said to any of them."
 
 "That's Lira," said Cael.
 
@@ -66,7 +66,7 @@ Brom was opposite him, with his wrapped forearms resting on the table and a plat
 
 "How do you get food without asking for it?"
 
-Brom took a piece of bread and thought about the question honestly, as he thought about everything.
+Brom took a piece of bread and thought about the question honestly.
 
 "I sit down," he said at last, "and I look like I'm going to be here a while."
 
@@ -74,7 +74,7 @@ Karis was beside Lira. Cael looked at her, and then looked again.
 
 She was sitting on her hands.
 
-She had them flat under her on the bench, palms down, both of them, and when she saw him see it she went faintly pink and took them out and put them on the table, and they lay there, empty. There was no notebook beside her plate. There was no document wallet at her feet or pencil behind her ear. She had come to the harbour with nothing whatever to write on, and she had found, by the look of her, that her hands did not know what to do about it.
+She had them under her on the bench, palms down, both of them, and when she saw him see it she went faintly pink and took them out and put them on the table, and they lay there, empty. There was no notebook beside her plate. There was no document wallet at her feet or pencil behind her ear. She had come to the harbour with nothing whatever to write on, and she had found, by the look of her, that her hands did not know what to do about it.
 
 "I've taken the day off," she said. "From all of it. Lira says I'm allowed."
 
@@ -90,7 +90,7 @@ Ephram came in a quarter of an hour later, out of breath, with grease on one cuf
 
 He had gone down to the harbour at first light to look at the lock gates, he said, because somebody at the guesting-house had told him they were two hundred years old and worked by hand, and he had wanted to see that for himself. The lock-keeper had caught him looking. By the time the morning was half gone he had been taken into the lock-house and shown the balance beams and the sluices and the great iron winding-gear. He had been told he was wrong about the date by sixty years, and given tea, and made to wind a gate himself under the lock-keeper's eye.
 
-"It's balanced," he said, sitting down, still breathless. "The whole gate. It weighs as much as this building and it's balanced so exactly that one man can move it with one hand, if he moves it at the right time. If he moves it at the wrong time, nothing on earth can shift it." He unfolded the paper and laid it flat among the plates. "He gave me this."
+"It's balanced," he said, sitting down, still breathless. "The whole gate. It weighs as much as this building and it's balanced so exactly that one man can move it with one hand, if he moves it at the right time. If he moves it at the wrong time, nothing on earth can shift it." He unfolded the paper and laid it among the plates. "He gave me this."
 
 It was a page torn from the lock-house book. On it, in a crabbed brown hand, were the watches for the week: names, hours, and in the margin, against two of the names, the word *late* underlined.
 
@@ -100,7 +100,7 @@ It was a page torn from the lock-house book. On it, in a crabbed brown hand, wer
 
 "You asked for it."
 
-"I asked how they kept the watches," said Ephram, with dignity. "He showed me. Then he tore it out." He smoothed it flat with the side of his hand, very carefully. "Two of them are always late. He's going to have words."
+"I asked how they kept the watches," said Ephram, with dignity. "He showed me. Then he tore it out." He smoothed it with the side of his hand, very carefully. "Two of them are always late. He's going to have words."
 
 Lira laughed until she had to hold her wrapped arm still with her good hand, and Ephram folded his roster and put it inside his coat, next to his heart, and looked pleased with the whole world.
 
@@ -116,11 +116,11 @@ Brom saw it too. Without looking up from his plate he put out one wrapped hand a
 
 Seln looked at the pot for a moment. Then the end of the bench was not empty any longer. He was on it, with his coat still buttoned, at the table and not beside it, and there was a piece of bread in his hand.
 
-For half a breath the table was very still.
+For half a breath nobody at the table moved.
 
-Then it went on, and the way it went on was the best thing Cael had ever seen five people do without discussing it. Lira, in the middle of telling Ephram that he would not be allowed to wind anything else today, reached down the table without looking and set a clean cup in front of Seln and filled it from the cider jug, and went on talking. Brom went back to his plate. Ephram turned round and asked Seln, quite seriously, whether the office happened to know what the harbour's lock gates were made of, because the lock-keeper had said oak and Ephram thought he had seen iron, and Seln said, "Both," and Ephram said, "I knew it," and that was all.
+Then it went on, and five people managed it without a word between them. Lira, in the middle of telling Ephram that he would not be allowed to wind anything else today, reached down the table without looking and set a clean cup in front of Seln and filled it from the cider jug, and went on talking. Brom went back to his plate. Ephram turned round and asked Seln, quite seriously, whether the office happened to know what the harbour's lock gates were made of, because the lock-keeper had said oak and Ephram thought he had seen iron, and Seln said, "Both," and Ephram said, "I knew it."
 
-Karis did not say anything. She looked at Seln once, with her empty hands on the table. Then she looked across the table at Cael, and he looked back, and neither of them looked away for a moment.
+Karis looked at Seln once, with her empty hands on the table. Then she looked across the table at Cael, and he looked back, and neither of them looked away for a moment.
 
 There were six of them at the table now.
 
@@ -180,7 +180,7 @@ Nobody laughed. It was not that kind of story, and everybody at the table heard 
 
 Seln's turn came last. He had not been asked, and he had not offered, and Lira simply looked at him down the table with her eyebrows up until he set his cup down.
 
-"The office," said Seln, "was once required to travel eleven days by coach in the company of a clerk who whistled. The clerk whistled one tune. It had four bars. The office counted the repetitions on the seventh day as a matter of record, and stopped counting at nine hundred, and has never since been able to hear the tune without wishing to file a complaint." He picked up his cup. "That is all."
+"The office," said Seln, "was once required to travel nine days by coach in the company of a clerk who whistled. The clerk whistled one tune. It had four bars. The office counted the repetitions on the seventh day as a matter of record, and stopped counting at nine hundred, and has never since been able to hear the tune without wishing to file a complaint." He picked up his cup. "That is all."
 
 It took the table a moment. Then Lira put her head down on her good arm and laughed until her shoulders shook, and Brom laughed in his chest without any sound, and Ephram said "*Which* tune?" in real anguish, and Seln told him that the office was not at liberty to whistle it.
 
@@ -190,11 +190,11 @@ Cael had sat through the whole game with the clock in his hand, and somewhere in
 
 The proprietor came back toward the end of the afternoon with the cake, and set it down in the middle of the table without a word, as she had promised, and went away again.
 
-It was a flat brown honey-cake of the northern kind, sticky on top and plain underneath. Lira borrowed a knife from the next table and cut it into six pieces, and looked at them, and moved one by a hair, and served them round. Brom did not look up from his plate. Lira looked at him down the whole length of the table while she did it, steadily, until Karis laughed out loud at the two of them, which happened about once a season.
+It was a brown honey-cake of the northern kind, sticky on top and plain underneath. Lira borrowed a knife from the next table and cut it into six pieces, and looked at them, and moved one by a hair, and served them round. Brom did not look up from his plate. Lira looked at him down the whole length of the table while she did it, steadily, until Karis laughed out loud at the two of them, which happened about once a season.
 
 Then Lira said, "Open your post. It's your day. We want to see."
 
-The card was from Quenna, at Greyvane, in her plain square hand.
+The card was from Quenna, at Greyvane, in her plain hand.
 
 *The broadsides come even this far now. Two Silvers filed, I read, and one of them from Rhagen. I once asked a boy whether he could hold back what he had in front of people who meant him harm. These are people who mean you well, and I suspect that is the harder room. You will manage it. — Q.*
 
@@ -216,9 +216,9 @@ Tucked inside the front cover was a slip of the workshop's paper, and on it, in 
 
 *Seventeen. My trade says an instrument is finished when it measures true — not when it looks done. You measure true. Let the rest of them look. — H.*
 
-He read it once. Then he put his hand flat over it on the page, and kept it there, and looked out of the window at the water, because for a little while he could not have said anything to anybody.
+He read it once. Then he put his hand over it on the page, and kept it there, and looked out of the window at the water, because for a little while he could not have said anything to anybody.
 
-After a moment Lira reached across and took the note out gently from under his hand. She read it to herself. Then she read it aloud, quietly, to the table, and nobody said anything after she had finished. Every one of them had been weighed on instruments that looked finished and were not, at one time or another, by people who had been quite certain of the weight.
+Lira reached across and took the note out gently from under his hand. She read it to herself. Then she read it aloud, quietly, to the table, and nobody said anything after she had finished. Every one of them had been weighed on instruments that looked finished and were not, at one time or another, by people who had been quite certain of the weight.
 
 The book went round.
 
@@ -236,7 +236,7 @@ She turned the leaves one at a time with the tips of her fingers. The ruling was
 
 "For notes."
 
-"For arguing with yourself." She ran a fingertip down the narrow column, top to bottom. "He's never read a word you've written and he knows you'll write something down and come back a year later and want to quarrel with it. So he's ruled you somewhere to do the quarrelling, where it won't spoil the page." She shut the book and set it back in front of him, squared to the edge of the table. "It's exactly right. If he ever wants a clerk, I'm available."
+"For arguing with yourself." She ran a fingertip down the narrow column, top to bottom. "He's never read a word you've written and he knows you'll write something down and come back a year later and want to quarrel with it. So he's ruled you somewhere to do the quarrelling, where it won't spoil the page." She shut the book and set it back in front of him. "It's exactly right. If he ever wants a clerk, I'm available."
 
 Seln had watched the book go round from the end of the bench and had not reached for it. Now he set his cup down.
 
@@ -248,7 +248,7 @@ Sixteen had been at Halcenvane, at the end of an ordinary long day, at the house
 
 Seventeen had not had to prove anything. It had been a blue door and a scarred table and a cake, and six people, and nobody in the whole city taking his measure for one whole afternoon.
 
-He did not count anything. He let the read lie still, the way a man lets his arm lie still after carrying something heavy all day. He sat at the window with the fourth of Gault's four days ending quietly in his hip and the book warm on his knees, and found that he did not want anything at all that he did not already have.
+He did not count anything. He let the read lie still, the way a man lets his arm lie still after carrying something heavy all day. He sat at the window with the fourth of Gault's four days ending quietly in his hip and the book warm on his knees, and did not want anything at all that he did not already have.
 
 When they left, the six of them walked back along the quays together toward the river gate, in a line across the stones, as people walk who have eaten well and are in no hurry. Lira was in the middle with her arm in its wrap. Ephram was at the water's edge, looking at the lock gates. Seln walked at the end of the line, on the land side, with his hands in the pockets of his plain brown coat.
 

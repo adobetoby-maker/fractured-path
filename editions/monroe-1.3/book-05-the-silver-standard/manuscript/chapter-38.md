@@ -32,7 +32,7 @@ Cael had never seen a house do it for a quarterfinal. Houses brought their deleg
 
 At the centre of the block sat a grey-haired man in a russet coat with a chain of office across it.
 
-"Their chancellor," said Karis, when she came out to the rail and saw him. She looked at him for a moment, as she looked at a line of text. "He doesn't come to quarterfinals. Ever. He's not here for her. He's here for the doctrine. It's on that floor this afternoon as well, and he knows it."
+"Their chancellor," said Karis, when she came out to the rail and saw him. She looked at him as she looked at a line of text. "He doesn't come to quarterfinals. Ever. He's not here for her. He's here for the doctrine. It's on that floor this afternoon as well, and he knows it."
 
 She went back to finish warming up.
 
@@ -64,7 +64,7 @@ She was taller than Ivenne and stiller, and she walked out without looking at th
 
 She stood on her mark and looked across at Ivenne, and Ivenne looked back.
 
-Cael had expected them to say something at the centre flag. They did not. They stood a stride apart while the referee went through the formalities, and neither spoke, and the silence between them had the whole of Ternhall in it.
+Cael had expected them to say something at the centre flag. They did not. They stood an arm's length apart while the referee went through the formalities, and neither spoke, and the silence between them had the whole of Ternhall in it.
 
 The flags went up.
 
@@ -90,7 +90,7 @@ The gallery made a low sound. The craft-readers had come to see a story about tw
 
 Cael wrote one word in the margin of his chart. *Flawless.* He meant Ivenne, and the file, and the two of them together, and he meant it as the most honest word he had.
 
-Karis walked back to her mark. She did not square her shoulders. She did not reset her stance or run her hands down her wrists or do any of the small things Ternhall's paired students did between exchanges, any of the things that were in the file. She stood on her mark in the moving light, quite still, with her eyes half shut.
+Karis walked back to her mark. She did not settle her shoulders. She did not reset her stance or run her hands down her wrists or do any of the small things Ternhall's paired students did between exchanges, any of the things that were in the file. She stood on her mark in the moving light, quite still, with her eyes half shut.
 
 Cael knew what she was doing, because he had done it himself a thousand times. She was filing. Behind her eyes, he knew, a notebook lay open, and what had just happened to her was going into it, not as a loss but as a page of measurements of the instrument that had just been used on her. She was finding out exactly how good Ternhall's file was, by having it used on her.
 
@@ -118,7 +118,7 @@ She did it again, with the other hand, a little later, on the dais side of the f
 
 And Cael, at the rail, began to recognise what she was doing.
 
-He knew those pieces. He had watched Karis write every one of them down, for two years, in her small square hand, about other people.
+He knew those pieces. He had watched Karis write every one of them down, for two years, in her notebook, about other people.
 
 The motion she was using was Lira's: never a step that bought only one thing, every yard of floor paid for twice. Her open gaps were Brom's. She was leaving herself unguarded in three places on purpose, and putting a price on each, so that when Ivenne's file sent a counter to take an opening, the opening cost more than it gave. And underneath it all was the thing she had watched the whole circuit do all year, from a hundred gallery rails, and charted, and never once done herself: holding nothing back. Not a contact. Not a step. Not a plan.
 
@@ -156,7 +156,7 @@ She was learning a stranger, Cael thought. That was what it came to. And a stran
 
 Ivenne had spent one exchange on the file and one on finding out that the file was wrong. She had three left, at most.
 
-The fourth was the hardest piece of fighting Cael had ever watched Karis do.
+In the fourth Karis fought harder than Cael had known she could.
 
 She was paying for everything now. Every raw contact went back into the heels of her hands. Her left wrist was weak, and she was keeping it back and leading with the right where she could. And Ivenne was reading her, not well yet, but better every minute, closing the distance between the woman in front of her and the woman she was learning, a line at a time.
 
@@ -174,7 +174,7 @@ Cael looked at the board and did the sum, and then did it again, because the flo
 
 Karis was a point down with one exchange to fight.
 
-At the interval she did not come to the rail. She stood on her mark with both hands held a little away from her sides, palms out, and Cael could see from where he stood that the heels of both palms had gone an angry red, as though she had leaned them on a stove. She was breathing hard. He had never seen her look so tired, not after a night of reading, not after a week of the charter.
+At the interval she did not come to the rail. She stood on her mark with both hands held a little away from her sides, palms out, and Cael could see from where he stood that the heels of both palms had gone an angry red, as though she had leaned them on a stove. She was breathing hard, and she looked tired in a way no night of reading had ever made her, and no week of the charter.
 
 He did the other sum then, the one nobody posts on a board. He knew how much invention a person could do in a day before it ran out, because he had been doing it himself, every day, for as long as he could remember. And he could see that Karis had very little left.
 
@@ -244,16 +244,16 @@ He had charted it as it happened, and he knew it the way he knew his own hand.
 
 "She didn't plan it. I watched it come. She started the lattice because she was tired, and it's the deepest thing she's got, older than any of us. Halfway through, she felt Ivenne's counter coming for the end of it, and she stopped. She broke her own stroke off in the middle." He looked at Karis, sitting on the bench with her hands in the bucket. "It wasn't a trick, like Brom's this morning. Brom built his for three exchanges. Hers didn't exist until she did it. It can't be scouted because it wasn't decided."
 
-Karis did not say anything. She sat with her hands in the cold water and looked at the floor where she had stood, and after a while she nodded, once, as she nodded at a finding she meant to keep.
+Karis sat with her hands in the cold water and looked at the floor where she had stood, and after a while she nodded, as she nodded at a finding she meant to keep.
 
 Lira had come along the rail to sit on her other side. She reached down without asking, lifted Karis's right hand out of the bucket by the wrist, and turned it over to look at the palm. The heel was red and blistering. Above it, where the fingers met the palm, the ink of last night's line was still just there, half of it cooked away by Karis's own fire, so that only the last words were left: *in her.*
 
-Lira looked at it for a while. Then she put the hand gently back in the water.
+Lira looked at it. Then she put the hand gently back in the water.
 
 "Found the ending, then," she said.
 
 "Some of it," said Karis. "I'll find the rest at the next cycle."
 
-*She did in one exchange this afternoon what I've done every day since I can remember,* Cael wrote that night. *She went out on a floor as somebody no file had a page for. It took everything she had. Both palms and her left wrist and the last of whatever it is that lets a person make things up as they go.*
+*She did in one exchange this afternoon what I've done every day since I can remember,* Cael wrote, when the others had gone up. *She went out on a floor as somebody no file had a page for. It took everything she had. Both palms and her left wrist and the last of whatever it is that lets a person make things up as they go.*
 
 *I've been doing it so long I'd stopped noticing that it costs anything. I watched it cost her, and I noticed.*
