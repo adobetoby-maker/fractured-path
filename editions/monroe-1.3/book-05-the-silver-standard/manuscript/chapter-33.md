@@ -1,0 +1,281 @@
+# Chapter 33 — Eleven Minutes
+
+Cael timed Lira's quarterfinal on Hesk's travelling clock, because it was the only clock in the delegation that nobody else wanted.
+
+It was an hour fast. He had set it that way at the crossroads, as he always did in a tournament week, and it lost a little more of the hour every day besides, so that by now it was wrong about the time in two directions at once. But it was honest about minutes. A minute on Hesk's clock lasted exactly as long as a minute anywhere else, and that was all he needed from it this morning.
+
+He held it open in his palm at the rail of the second floor and watched the long hand.
+
+Lira's second round had gone by on the morning of the fourth day, before the city walk, and nobody had needed to say much about it afterward. This was the quarterfinal, the first bout on the morning's card, and the hall under the high glass was already half full when the two fighters came out to their chalk.
+
+Her opponent was a Force fighter from one of the inland houses, a broad, unhurried man with a heavy jaw and thick wrists. His regional file called him a counterpuncher. Karis had put it more plainly at breakfast, over the bread.
+
+"He does nothing first. He stands in the middle and waits for you to come to him, and when you come, he pushes, and you go backward a long way. Thirteen bouts this year, and he's never once been the one to move first in any of them."
+
+"Then she'll make him," Brom had said, and gone on buttering.
+
+The bell went. The inland fighter walked to the middle of the pale floor and stood there with his feet planted and his hands low.
+
+Lira walked once round him, the whole square, at an easy pace, with her hands loose and her eyes on his feet. She did not go in. She let him wait for her, and he waited with the calm of a man who had been waited at all his fighting life and had always won the waiting.
+
+Then she went in, fast and straight, and he pushed.
+
+It was a big push and an honest one, laid from his planted feet into the air in front of him, and Cael felt it from the rail as a shove in the chest of the whole hall. Lira was not in it when it arrived. She had burst out of her own entry a stride short and to the left, so that the push went past her into empty floor, and she touched him on the shoulder while he was still finishing it.
+
+One to nothing. Then he touched her twice, both times on the hip, both times when she came in close on purpose to learn what he did there. The bell went at one to two.
+
+She walked back to her chalk and drank the water Rooke held out to her over the rail.
+
+"Learning his reach," said Rooke, to nobody in particular.
+
+"Buying it," said Karis.
+
+In the second exchange Lira did not go in at all. She walked her square, and every time she passed one of his roads out of the middle she paid a little for it, a step here and a feint there and once a half-burst that went nowhere, so that each road was hers before he could need it. Cael watched the inland fighter begin to feel it. He had planted in the middle in order to wait. Now the middle was shrinking round him, and the floor he had meant to push her across had all been sold to somebody else while he stood on it.
+
+He moved first. He had no choice left, and it was the first time he had done it in fourteen bouts.
+
+She was already standing where he moved to. Three to nothing, closed early.
+
+The third went much the same way, except that he took one back, a fine low push that caught her as she landed and sent her skidding a yard on the hard pale boards. In the fourth he had nothing left but the middle of the floor, and she owned all the rest of it. Three to nothing again, closed early, and the clerk at the end of the hall called the totals. Ten to three. The inland fighter could not have drawn level even with every point of the last exchange, and so the bout was over.
+
+Cael shut the clock.
+
+"Eleven minutes," he said.
+
+Ephram leaned over to look at it. "That clock's an hour wrong."
+
+"It's wrong about the hour. It's right about the minutes."
+
+Lira came off the floor unwrapping her hands and was barely out of breath. The inland fighter had shaken her hand with a sort of puzzled courtesy, and now he stood on his chalk looking at the middle of the floor, like somebody who had set his cup down on a table and come back to find the table gone.
+
+At the far rail an older man in Auremont's blue was writing in a small book. He had not written a word during the bout. He had watched every exchange with his hands folded in front of him, and only afterward, steadily, from memory, had he begun to write. Cael had charted him at the quarry town, the scout who wrote after and never during, and he knew whose sheet the writing was for.
+
+Lira saw him too. She took her coat from Gault and put it on, and did up the buttons one at a time, and looked past the scout at the board on the end wall, where the next line of her pool stood in white chalk over the inland fighter's name.
+
+"Right," she said. "Now the real one."
+
+---
+
+Seln brought the notice up the guesting-house stair at noon, squared at the corners, and laid it on the long table in front of Rooke.
+
+It was a single sheet of the west tower's grey paper, with the adjudication office's mark at the head. Rooke read it, and frowned, and read it again, and then pushed it across the table to Cael without a word.
+
+*The demonstration-exhibition category,* it said, *requires the main floor and the senior exhibition panel. Both are required this week by the bracket semifinals and the Copper final. The demonstration ring will therefore be raised when the brackets have cleared the main floor, and the bouts filed in the category will be heard in the order of their filing as soon thereafter as the floor allows. Houses concerned are notified accordingly.*
+
+Under it, in a clerk's small slanting hand, somebody had written the names of the two filing houses and one word after each: *deferred*.
+
+"Four days," said Brom, who had read it upside down from the other side of the table. "You said four days, Rooke. On the third night. I heard you."
+
+"I did say it. The tower said it too." Rooke took his pipe out of his pocket, looked at it, and put it back unlit. "Now the tower says otherwise."
+
+"The tower has changed its opinion," said Seln.
+
+Nobody laughed, exactly. But Brom put his head down on his folded arms for a moment, and Lira looked hard at the ceiling, and Ephram made a small noise into his cup. Seln's face did not change at all. He took the notice back, made a note in the travel file, and fitted the sheet under its clip with one finger, and gave no sign at all of having spoken.
+
+Cael found that he was not disappointed.
+
+He sat there with his hands flat on the table and looked at the feeling, as he looked at anything that arrived without being asked for, and found that it was relief. What surprised him was its size.
+
+All year he had been the thing in the middle of every floor. He had been charted and priced, protested and filed, sold in woodcut on street corners and argued over in taverns, and every hall he had walked into since the wool town had turned its head to watch him come in. He had grown so used to the weight of it that he had stopped noticing he was carrying anything at all. Now a clerk in the west tower had set it down for him, for a week, for reasons that had nothing to do with him, and he felt his shoulders come down a whole pack's weight.
+
+"I can watch."
+
+They all looked at him.
+
+"Every bout you've got this week, I can be at the rail for. All of them. Nobody's going to want anything from me until the ring goes up." He heard how glad he sounded and did not try to hide it. "I can chart Zerin properly. I can chart whoever comes through Karis's pool. I can chart Marek's next two bouts and the man after that. I've got nothing else to do."
+
+Rooke looked at him for a long moment over the table.
+
+"You've been the best scouting I've had all year," he said at last. "I haven't said so, because you had bouts of your own to think about, and I don't ask a man to carry two sacks up one hill." He nodded at the travel file, where the notice had gone. "Seems you've only the one this week. Carry it."
+
+Lira leaned across the table on her elbows.
+
+"Then carry it to me first," she said. "Tonight. The back room. Bring everything you've got on her."
+
+*The west tower has put the ring back,* he wrote that afternoon, sitting on the end of his bed with the observation notebook on his knee. *Nobody will look at me for a week. I didn't know how heavy the looking had got until somebody took it off for a few days, and now I keep wanting to stretch, like a man who's been carrying a sack so long he's forgotten it was there.*
+
+*For one week I'm an instrument and not a specimen. I was an instrument long before I was anything else. I'd like to find out whether I'm still any good at it.*
+
+---
+
+The back room had been a store for the guesting-house's linen once, and it still smelled faintly of lavender and starch. It had one small window over the courtyard, a table that rocked unless somebody folded paper under its short leg, two chairs, and a door that shut properly, which was the reason Lira had taken it.
+
+She had claimed it on their first night in the city by a delegation custom that Cael suspected she had invented on the stair. Nobody had argued. Now she shut the door, folded a scrap of paper under the table leg, and sat down across from him with Zerin's extract in front of her and the lamp between them.
+
+This was the oldest thing they did together, older than the oak at Halcenvane and older than the circle. Neither of them had ever given it a name. She would put down on the table everything her body had learned about a fighter, from inside a bout or from the floor beside one, and he would put down what his eyes had kept, and they would argue across the table until the two halves fitted, like a pair of hands finding each other in the dark.
+
+It had never yet taken them more than one evening.
+
+"Three bouts," he said, opening the notebook at the page he had built that afternoon. "Her first round, her second, and her quarterfinal, which she fought this afternoon on the far floor while you were eating. Eleven exchanges, and she hasn't lost one of them. She's given up four points in all, and two of those were in the same exchange, to a man who more or less threw himself at her."
+
+"I've got her times." Lira put her hand flat on the extract. "I've had them since the quarry town, and I know them better than I know my own. I know how fast she is. What I want is how."
+
+"Then ask me where she starts."
+
+"Where does she start?"
+
+"That's the trouble." He turned the notebook round so that she could read it. The page was covered in his small charting hand, every exchange broken down into its beats, and under every burst was a line where he had written what came just before it. Nearly all of those lines were empty. "I can't find where."
+
+Lira read the page. Then she read it again, more slowly, with her finger going down the empty lines one by one.
+
+Every Wind fighter Cael had ever read had a moment before a burst. It was a small moment, but it was always there: a breath drawn and held, the hips setting, the weight sinking into the driving foot, the whole body drawing itself together for what it was about to do. Lira's was the quickest he knew, and on the oak he could still call it a fraction early, every single time. It was how the read had first learned her.
+
+He had looked for Zerin's through three bouts at the full gaze, and it was not there.
+
+"She doesn't gather," he said. "I've watched every burst she's made since the opening, and she never once gets ready to make one. There's no gather because there's no burst, Lira. Not the way you mean a burst. She doesn't stop and then go. Going is just how she walks about. The speed doesn't switch on anywhere. It's on already."
+
+Lira sat back in her chair. She looked at the ceiling for a while, and the table rocked under her elbow, and she moved her elbow somewhere else.
+
+"So there's nothing to catch."
+
+"The read catches a body getting ready to do something. She's never getting ready. She's always already doing it."
+
+He had known it since the afternoon, and it still sat badly with him. The read asked a body what it was about to do: where the weight was, and which way it was going, a fraction before it went. It had worked on every fighter he had ever stood near, because every fighter he had ever stood near had needed to get ready, and getting ready was a thing the skin could feel at a pace and a half. It had never once occurred to him that somebody might simply not need to.
+
+"It's like listening for a clock that doesn't tick."
+
+"Nothing to take hold of." Lira said it slowly, without any bitterness, rather as a carpenter might run his thumb along a joint he knew he could not have cut. "No loose board anywhere."
+
+"Not yet."
+
+"You always say *not yet*."
+
+"I always mean it."
+
+She very nearly smiled. Then she got up, because Lira could only think about a problem for so long sitting down, and stood in the narrow space between the table and the wall and tried it. She tried to go without getting ready, to burst from standing the way Zerin walked, with no breath and no setting of the hips. Her body would not let her. Every time, a fraction before she went, it gathered, as it had been gathering since she was small, and on the fourth try she went anyway, half gathered, and caught her hip on the corner of the table and sat down on the floor.
+
+The lamp rocked. Cael caught it.
+
+"Well," said Lira from the floor, rubbing her hip. "That's why she started at twelve."
+
+She got up again and sat down in her chair. Then she pulled the extract back toward her, turned it over to the blank side, and took the pencil from behind her ear.
+
+"Again," she said. "Her quarterfinal, the second exchange, from the bell. Tell it to me as though I'm standing on the floor with her and can't see a thing."
+
+He told it to her. He took it a beat at a time, as he had taught himself to do over the years for exactly this, so that the fight came out of his mouth in the order her body would have met it. She sat with her eyes shut and her hands moving a little on the table, and every so often she said *stop* and asked him where the left foot was, and he told her, and she went on.
+
+They stopped when the lamp began to smoke.
+
+---
+
+Ephram's round of sixteen was the third floor's last bout on the afternoon of the sixth day, and the lake house's Shield did exactly what Rooke had said she would.
+
+Rooke had talked about her for half an hour on the third evening, at the end of the long table, with his cup going cold beside him. She was a woman of about thirty, a careful, quiet fighter who had come up through her house's ranks a season at a time and had never been in a hurry about any of it. She did not fight like a showman, as her house's Silver duelist did. She fought like a mason. She put up every pane in the same order, and she kept them fresh on a count as steady as a mill wheel.
+
+"You'll find her clock," Rooke had told Ephram. "Anybody can find her clock. That's not the question. The question's what you do with it once you've found it, because she's known it was there for fifteen years and she's still winning."
+
+Cael had found her clock in the warm-up hall, before Ephram had his coat off.
+
+He had watched her put up her panes against a sparring partner and counted under his breath. Breath, plant, pane. Every pane went up on a breath and a planted foot, a sheet of coverage as clear as cold water, and from the moment it was made it began to thin. She renewed them oldest first. Five beats, five panes, round and round. It was the plainest clock he had seen since the salt road.
+
+He had a thought he had first had on the oak in the cold term, and he let himself have it again, quietly, at the back of the warm-up hall. *A touch of fire on the pane as it formed, and the whole wheel would slip a beat.*
+
+He had no fire to spend this week, and Ephram had never had any. Ephram was a Blade.
+
+The bell went, and Ephram went to work.
+
+He did not try to cut through her, because a Blade's edge on a fresh pane did nothing at all; the pane took it and the flags stayed down. Instead he walked round her and watched, as he had learned to do on the slate, and let her show him the wheel. It cost him. She touched him once from behind a fresh pane while he was still counting, and again when he tried a quick entry to the left to see what she did there, and a third time on the shoulder from a pane she had renewed a breath before he expected it. He touched her once, a fine low cut that found her between two panes at the very end.
+
+One to three, closed early. Ephram walked back to his chalk with his lips moving.
+
+"He's counting," said Lira.
+
+"He's paying for the count," said Karis.
+
+In the second he had it. He went in on the fourth beat of her wheel, every time, at the pane that was oldest and thinnest, and twice his edge went through it as a knife goes through a sheet of wet paper. The gallery woke up. The lake Shield gave nothing away on her face, but she touched him twice in return, both times as he came out through the old pane, and the bell went at two each.
+
+Three to five on the bout.
+
+"He's got it," said Brom.
+
+"She's got him having it," said Rooke.
+
+In the third, she shortened her count.
+
+Cael saw it on the first beat. The breath came sooner and the foot went down sooner, and the panes went up on four beats instead of five, so that none of them was ever old enough to be thin. Ephram went in on the fourth beat and found a fresh pane where an old one should have been. His edge skidded off it, and she touched him on the wrist as he recovered.
+
+She paid for it too, and Cael could see what she paid. A shorter count was a dearer count. Her feet had less time for anything except planting, and her counters came a little later and a little lighter than before, because every spare beat now went into keeping the wheel turning faster. There was slack in her that had not been there in the first exchange, and there was more of it with every pane.
+
+But Ephram had nothing that could reach into slack. He had a Blade's edge and a good heel and a late half-turn of the front foot, and none of those could strike a pane before it was made. He found the slack once, with a long low entry that slipped under her guard. She took the other three.
+
+One to three. Four to eight.
+
+In the fourth he fought like a man who knew to the last copper how much he still owed. He tried nothing new. He went to the beat where her shorter wheel ran thinnest and took two touches there, cleanly, one on the hip and one on the ribs, and the gallery stood up for the second of them. She took three, steadily, without hurrying, the last from a pane that had been up for less than a breath.
+
+Two to three. Six to eleven. Ephram could not have drawn level with every point of the last exchange, and the clerk called it over in four.
+
+He shook her hand. She said two or three words to him that nobody at the rail could hear, and he nodded. Then, before he let go, he said something back, longer, and Cael saw the lake Shield's careful face change a little, as faces do when somebody tells them a thing they had not known about their own work. Ephram told them later what it was. He had told her that her fourth beat ran thin on the left side after she shortened the count, and that a Blade with a slower heel than his would never find it, and that she should know. "She'll fix it," he said. "She'd have found it herself by the next cycle. I thought she might as well have it now." Then he walked off the floor and up the steps to where the five of them stood, and before any of them could open their mouths, he spoke.
+
+"That was the price of admission," he said. "I said so at the draw. The round of sixteen was what I'd pay to get in." He started to unwrap his hands. "Paid in full. I'd like a receipt."
+
+Lira laughed, and so did Brom. Rooke did not laugh, but he put his hand on Ephram's shoulder once, briefly, which from Rooke was a good deal more.
+
+"She shortened the count," said Ephram. He was still breathing hard, and his face was red, but his voice was perfectly steady. "I found her wheel in one exchange, and she changed it in the next. Fifteen years of doing it one way, and she changed it in a breath because a boy from the bluff had found it." He looked down at his hands, half unwrapped. "I couldn't hit a pane before it was there. Nobody could. Not with an edge."
+
+Cael said nothing. He was thinking of a copper pot on the twentieth of Reaping, and four instants of fire, and a pane cracking as it came up.
+
+*Ephram lost to a clock today,* he wrote that night. *He found it in one exchange and she changed it in the next, and he had nothing that could change back. Then he walked up to the rail and priced his own loss out loud before anybody could price it for him, or price it kinder than it deserved. I've never heard a loss paid so plainly by the man who owed it.*
+
+*He'll be at the rail for the rest of the week now. He told me once he likes calling better than winning, some days. Tonight I think he meant it, and I think he also minded, and I don't think he'd thank me for writing down the second part.*
+
+---
+
+The second evening in the back room went worse than the first, and ended better.
+
+Lira had spent the day turning Zerin over in her head, between the warm-up hall and Ephram's bout and supper, and by the time she shut the door behind them she had a list. She had written it in ink on the back of her left hand, the way she did when she did not trust a pocket to keep a paper.
+
+"She doesn't gather," she said. "Fine. Then I don't read her start. I read something else. Her ends. Where does she stop?"
+
+"She doesn't stop much either."
+
+"Her turns, then. Nobody turns at full speed."
+
+He showed her the page. Zerin turned at full speed. She went round a turn the way a stream goes round a stone, without slowing at all, and came out of it already going wherever she had meant to go before she reached it.
+
+"Her landings."
+
+"Clean. Every one."
+
+"Her left side. Everybody's got a bad side."
+
+"She's got a less good side. It's still better than most people's good one."
+
+Lira looked at the back of her hand for a while. Then she licked her thumb and rubbed the whole list out, line by line, until her knuckles were blue with it.
+
+They sat for some time with the lamp hissing between them. Below the window somebody was drawing water at the pump in the courtyard, and the handle squeaked on every stroke.
+
+Then Cael turned the notebook back to the first page, to her first-round bout, and began to go through it again from the bell. He was not looking for anything this time. He had spent two days hunting gaps in her and had come up with an empty net, so now he simply read, as he might have looked out over a field from the top of a wall, letting the whole shape of the thing come up to meet him.
+
+He saw it in the third bout. He went back and found it in the first, and then in the second, where it had been all along.
+
+"She's never behind."
+
+Lira looked up.
+
+"Look." He laid the three pages side by side under the lamp. "Any exchange you like. She's ahead from the first beat. She's always the one who gets there first, and everything she does afterward is built on top of that. All her angles take it for granted that the start belongs to her. When she defends, she isn't answering anybody. She's only getting to the place before you do." He put his finger on the margin. "Nobody at Norhold has put her second. Not for one beat in eleven exchanges. So there isn't a line on any of these pages about what she does when she is."
+
+"Maybe she does it beautifully."
+
+"Maybe she does. Nobody knows, and that's the point. Nobody's been there, so nobody's written it down. Not the scouts, not her coaches. Not even her."
+
+Lira had gone quite still.
+
+"Corner her."
+
+"Corner somebody who walks faster than you can run." He did not say it to stop her, and she did not hear it that way. She heard the problem in it, plainly stated, and her answer to a true problem had always been the same, which was to reach for a pencil.
+
+She wrote one word on the back of her hand, where the list had been. *Behind.*
+
+"What does her file say about before? About where she came from?"
+
+"Nothing I've seen. It's all times."
+
+"Then I want the rest of it." She stood up, and the table rocked. "Rooke's got the long one, the whole commercial file. I'll ask him for it in the morning." She looked down at him, and he saw that she was not discouraged in the least. She was the other thing, the thing she turned into when a problem finally showed her its face. "You found a country nobody's mapped. I'll go and live in it. I've lived there before."
+
+She went out and left the door open. Cael sat on in the little room for a while with the three pages in front of him and the pump squeaking below.
+
+It came to him slowly, sitting there, that what he had found was not really about Zerin at all. A file was made out of what a fighter had been asked to do. Every page of Zerin's was full, because she had been asked for everything a program could think of and had given all of it, and the one blank country on her map was only the one place nobody had ever thought to send her.
+
+He wondered what would be blank on his, if anybody ever got hold of the whole of it.
+
+He wrote that down, and then crossed it out, and then wrote it down again underneath, smaller, where only he would ever look for it.
