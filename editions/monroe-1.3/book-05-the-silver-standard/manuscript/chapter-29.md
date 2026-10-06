@@ -1,0 +1,253 @@
+# Chapter 29 — Pre-Sold
+
+The first of them was a boy of about twelve, and he found Cael in the guesting-house courtyard on the second morning, before breakfast.
+
+The courtyard was a narrow well of stone with a pump in one corner and a fig tree in a tub, and Cael had come down to wash at the pump because the house's one basin was occupied by the hill house's whole delegation at once. He had his sleeves rolled and his face wet when the boy walked in through the street door as if he lived there, stopped two yards away, and looked at him with total frankness.
+
+"Are you the unclassified one?"
+
+There was no point in being anything but honest with that face. "Yes."
+
+The boy nodded, satisfied. He reached inside his jacket and brought out a folded sheet of thick cheap paper, and unfolded it with great care, and held it up.
+
+It was a printed likeness. A woodcut face filled most of the sheet, framed in heavy black lines, under a title in tall letters: *THE UNNAMED OF HALCENVANE.* The face was a young man's, square-jawed and serious, with dark brows drawn together and a stare that looked off past the reader's shoulder at something terrible on the horizon. It resembled Cael about as much as a description in a letter resembles the person it describes. The hair was right. Nothing else was.
+
+"Will you put your mark on it?" said the boy.
+
+Cael looked at the woodcut for a while, and then at the boy, who was holding out a stub of pencil as well, having come prepared.
+
+He had never been asked for his mark on anything except a form. He considered it as he would have considered any new procedure. Was there harm in it? Did it commit him to anything? Would it go into a record somewhere? He could find no harm, and no commitment, and no record that mattered, and the boy was waiting with the pencil held out and his whole face set on the answer.
+
+He dried his hand on his shirt, took the pencil, and wrote *Cael* at the bottom of the sheet, under the title, small and plain.
+
+The boy turned the sheet round and studied the mark for some time, with his lips pursed, as a man studies a coin he has been handed in change.
+
+"That's better than the face," he said at last, and folded the sheet back into his jacket and ran out of the street door.
+
+Cael stood by the pump with water running off his chin.
+
+"You've been collected," said Lira, from the gallery above. She had been leaning on the rail the whole time, eating an apple. "How does it feel?"
+
+"Like a form," said Cael. "With a worse picture."
+
+But he thought about it afterward, drying his face on the gallery stair, longer than a joke deserved. All year he had been something that other people wrote down. Clerks had written him on rosters and judges on slates, compilers in their files, and the registry in a single bracketed word. Every one of them had put him on paper for a purpose of their own, and he had never once been asked whether he would like to add anything. The boy had asked. It was a cheap printed face that looked nothing like him, but at the bottom of it, for the first time, there was a mark in his own hand that said he had been there.
+
+He found that he did not mind that at all.
+
+It went on like that all day.
+
+At the warm-up floor across the street, where the house had its first allotted hour, a knot of fighters from two delegations Cael did not know stopped talking as he came in, and did not start again until he had crossed the floor and gone out of the far door. At midday a Concourse steward at the gallery gate checked his credential against her printed list, and then checked it a second time. She was not doubtful of it. She plainly wanted to be able to say, afterward, that she had checked it herself. In the street a woman selling hot bread looked at him and then at a sheet pinned to the side of her barrow, and then at him again, and gave him a roll for nothing and would not take his copper.
+
+By the evening the delegation had changed its shape around him, and nobody had said a word about it.
+
+Brom walked at his outside shoulder now whenever they were in a crowd, a step behind and a little to the street side, where a big quiet man takes up a great deal of the view. Lira, when anybody stopped them, began talking first and kept talking, cheerfully, about the weather and the floors and the price of bread, until whoever it was had forgotten what they had meant to ask. Karis walked behind with her notebook and wrote down every person who stared, by type and time, and at supper announced that there had been forty-one, and that the commonest kind was a man of middle years with a printed sheet in his hand.
+
+It was the old floor-craft of the five of them, the way they had always fought around each other, worked out again on a new floor made of streets.
+
+Rooke saw it at supper and said nothing about it, which from Rooke was approval. Gault saw it too. He watched Brom drift to Cael's outside shoulder as they came in from the street, and Lira step in front of a man who had half risen from his bench with a sheet in his hand, and he leaned across to Cael while the soup was being put down.
+
+"When I was here," he said, "I could have walked down the processional way in my nightshirt and nobody would have looked up from their pie." He considered that. "I didn't, of course. But I could have." He took up his spoon. "I find I don't envy you as much as I thought I would. Do you mind it?"
+
+Cael thought about the boy at the pump, and the woman with the bread, and the steward checking his credential twice so that she could say she had.
+
+"Not yet," he said. "Ask me in a week."
+
+"I shall," said Gault, who always did exactly what he said he would.
+
+---
+
+He dealt with the likenesses that evening, because they were a thing he did not understand, and things he did not understand had a way of costing him later.
+
+The sheets were sold all along the processional way. There were four shops on the street with them pinned in the windows, between the bout cards and the ribbons in the fourteen houses' colours, and there were two barrows in the Concourse's outer court with sheets clipped to strings along their sides like washing. Cael went to the busier barrow. It was kept by a stout man with a leather apron and a loud voice, who was crying his wares to the whole court in a long chant that named every fighter on his strings.
+
+Cael stood at the barrow and looked along the sheets for some time. Then he took out his purse.
+
+"One of each," he said. "Every one with a Halcenvane name on it. And that one." He pointed.
+
+The barrow-man began unclipping sheets, still chanting over his shoulder at the court. He got as far as the third, and glanced at his customer to ask about the fourth, and then he stopped chanting.
+
+He looked at Cael for perhaps a breath. Then he looked down at the sheet in his hand, which was the one with the square jaw. Then, without a word, and with an air of tremendous self-command, he went on unclipping.
+
+He said nothing at all while he folded them. He said nothing when he took the money, two coppers a sheet, counted exactly into his palm. When Cael had the sheets under his arm and was turning away, the barrow-man cleared his throat, leaned across the barrow, and said in an altogether different voice, low and confidential: "The sinister one sells better. I'm only telling you."
+
+Then he took up his chant again, louder than before.
+
+There were six of them in all. Cael laid them out on the long table in the front room after supper, in a row, and the delegation came and stood round them.
+
+There were two sheets of him from the same printing house. Both were called *THE UNNAMED OF HALCENVANE*, and the same woodcut of the face did for both. In the first the background was a blaze of sunbeams and the young man was heroic, with his chin up. In the second the background was solid black and the same young man looked out of it like somebody waiting in an alley. There was a third, cruder, on cheaper paper, called *THE BOY THE REGISTRY COULD NOT SORT*, which showed a figure in a fighting stance surrounded by question marks.
+
+There was one of Lira, called *LIRA OF THE BLUFF*. It made her a head taller than she was and very much angrier, with her hair streaming and her fists clenched, against a background of lightning.
+
+There was one of a girl in Auremont's colours, called *DAEVA OF AUREMONT*. The artist had spent all his care on what surrounded her: a great coiling storm of black and white lines, cloud and rain and forks of light, filling the whole sheet to its edges. There was hardly anything left over for the face, which was a pale oval in the middle of the storm with two dots for eyes. Cael looked at it for a long time, and found that it told him nothing whatever, and put it aside.
+
+And there was the sixth, the newest, the ink still smelling. It was called *THE FIVE FROM THE BLUFF*.
+
+It was the whole delegation, in a group, as the woodcutter had seen them walk past his window. It was not a bad likeness of any of them, taken all together. Ephram was tall and thin and looked as though he was about to explain something. Karis was small, with a notebook. Lira was in front, of course. Brom was at the back, enormous, and the woodcutter had given up on him as a person and carved him as a sort of hill, with a head on top.
+
+And at the edge of the group, inside it and not outside, there was a sixth figure.
+
+It was a lean man in a long coat with a ledger under his arm. The woodcutter had put him at the end of the line, standing with the five and a little apart from them, but plainly one of them. It was the same distance he kept from them at every table. And he was there, on the sheet, among them.
+
+Nobody said anything for a moment.
+
+Cael had read the compilers' files on the five of them, all four pages of Brom's and every shop's careful guess at his own. None of them had Seln in it. Every list had him on its last line, and every file took its cue from the lists. Then a woodcutter who had never read any of them had looked up from his bench as they went by his shop, and cut six figures into the block instead of five.
+
+Lira was the first to speak. She had picked up her own sheet and was holding it at arm's length.
+
+"That is not my scowl," she said. "That is somebody else's scowl. My scowl is far better organized than that."
+
+"It's the lightning," said Ephram. "Lightning makes everybody look disorganized."
+
+Brom looked at the hill with a head on top for a long while without saying anything. Then he folded his copy of the group sheet twice, very carefully, and went upstairs with it. Cael knew without asking that it had gone into the bottom of his kit, with the Velmere letters.
+
+Karis went through all six sheets twice, and then a third time, with her notebook open.
+
+"I'm in one," she said, with real interest. "One of six. Lira's in two, you're in four, and Brom's in one, but he's in it the size of a barn." She made a note. "So the market pays for faces it can see from a street. I read as staff. That's useful to know. I shall go on reading as staff for as long as I possibly can."
+
+Seln had come to the table last, with the travel file under his arm, and he had not looked at any of the sheets until the others had finished. Now he looked at the group sheet. He looked at the lean figure at the end of the line for what seemed to Cael a very long time. His face did not change at all.
+
+"Inaccurate. The office's ledger is larger."
+
+He returned to his place at the far end and drew the travel file toward him.
+
+There was a short silence. Ephram looked at Lira, and Lira looked at Karis, and Karis looked at Cael with her eyebrows a fraction raised.
+
+"Was that—" said Ephram, very quietly.
+
+"I think so," said Karis.
+
+"I didn't know he could."
+
+"Nobody did." Karis turned to a clean page and wrote the date at the top of it, and a single line underneath, and closed the notebook. "First of the year, as far as I can find. I'm recording it as confirmed."
+
+Seln turned a page. If he had heard any of it, nothing about him said so.
+
+Cael wrote it that night, at the window, with the six sheets weighted under his boot on the floor.
+
+*Six sheets, two coppers each, and the whole delegation's in them somewhere. Two of me from one printer, one with sunbeams and one without, because the market likes to be told what to feel and doesn't much mind which. One of Lira, angrier than life. One of Daeva of Auremont, all storm and no face, which may be the most honest of the six.*
+
+*And one of all of us. It took a man with a knife and a block of pearwood, who has never read a file in his life, to see where the sixth of us stands.*
+
+*Every compiler on the circuit missed him, because the compilers start from the rosters and the rosters put him on the last line, as staff. The woodcutter started from his window. Instruments measure what they were built to measure. A woodcutter only has his eyes, and uses them.*
+
+---
+
+Ephram said it at the courtyard rail on the third evening, and Cael realized afterward that he had been saving it.
+
+They were standing at the rail of the guesting-house's upper gallery with their cups, looking down into the street. Along the processional way the lamplighters were at work with their poles. A man came out of the cookshop opposite, saw Cael at the rail, stopped dead in the middle of the street with a pie in each hand, and stared up at him with his mouth open until a cart nearly ran him down. It was the ninth or tenth time that evening.
+
+Ephram watched the man jump out of the cart's way, and then turned to Cael with a perfectly straight face.
+
+"At Halcenvane you arrived pre-explained. Here you arrived pre-*sold*. Try to be a disappointing product."
+
+Cael laughed before he could stop himself. It was the first time he had laughed since the gate.
+
+Ephram did not laugh. His voice stayed dry and kind together, the cohort's exactness, which had once been turned so hard on Cael, now turned entirely on his behalf. "Half this city has paid good money for a picture of you, and every picture puts on a better show than you ever will. You're going to let all of them down." He raised his cup a little toward the street. "It's the only privacy they sell here. I'd take it while it's going."
+
+"How long have you had that one?"
+
+"Since the mill town." Ephram looked down at the lit street, where the man with the pies had found his feet and was walking away fast, looking back over his shoulder. "I've been polishing it. I wanted it ready for a city."
+
+They stood at the rail a while longer. Below them the processional way filled up with the evening crowd, and over the roofs the Concourse's upper tiers were lit along their edges, a hundred lamps in a long curve, very far up.
+
+"Can I tell you something?" said Ephram.
+
+"Yes."
+
+"At the beginning of the year I'd have hated this." He turned his cup in his hands. "Not you. This. All of them looking at you and not one of them looking at me. I'd have counted it, every night, and hated it." He was quiet for a moment. "I counted it tonight. I don't. I'd rather be trial caller of a house that walks in with you than top of the Iron column of a house that walks in with nobody." He drank. "I don't know when that changed. I'm writing it down so I don't forget it did."
+
+"Trial caller," said Cael.
+
+"Trial caller." Ephram looked at the cup. "I keep waiting to mind that too. A year ago I'd have wanted to be the one they called for, not the one doing the calling." He shook his head slowly. "It turns out I like seeing the whole floor. I like knowing where Lira's going a breath before she does. I like it better than winning, some days, and I never thought I'd say that about anything."
+
+"Don't say it to Rooke."
+
+"I'd sooner be thrown off the gallery." He finished his tea. "Good night."
+
+He went in. Cael stayed at the rail and watched the lamps along the Concourse, and thought that he had known Ephram for a year and was only now meeting him.
+
+---
+
+Auremont came on the evening of the fourth day, and Cael watched it arrive with his back to it.
+
+The noise came first, down the processional way from the north gate like water coming down a gutter, and the guesting-houses emptied into the street to meet it. Lira was out of the front door before anybody else had found their coats. "Come on," she said, from the step. "If we're going to be beaten by them, I want to see what they look like on a horse." So they went, all five, with Brom at Cael's shoulder, and found a place on the steps of a cloth-hall halfway along the street, where the crowd stood six deep and the boys had climbed the lamp-posts.
+
+The column came at the hour when the light lay longest down the street, gold on one side and blue on the other, and Cael did not believe for a moment that the hour was an accident.
+
+There were forty riders in Auremont's deep blue and silver. Their horses were matched for height and colour, bays every one, and shod alike, so that forty sets of hooves struck the paving in a single even rattle that the read, without being asked, found perfectly regular. The house's banner went first on a tall staff, carried by a rider who did not move in the saddle at all. Behind it came the fighters. They rode by bracket, Copper at the front and Gold at the back, and inside each bracket by their seeding, so that anybody who owned the continental index could have named every face in the line from its place alone.
+
+That was the thing Cael noticed, standing on the cloth-hall steps. It was not hidden. It had been set out.
+
+A column that rode in its seeding order was a column that wanted the street to read its seeding. It had chosen the light it would be read in and the speed it would be read at, and the order in which the street would come to each name, saving the best for last. It was not an arrival at all. It was a page, and the whole street was reading it aloud.
+
+And the street was reading. The crowd round the steps had begun saying the same name before the banner reached them, and it went on saying it, louder as the column came on, like the chorus of a song everybody in the street had learned before they could read. *The Gold's at the back. She'll be last. That's the one.* A man on the step behind Cael was telling everybody what he could see from up there, whether they wanted to know or not. *Daeva. There. Last of all.*
+
+Cael turned round on the step and put his back to the street.
+
+He did it without much thought, the way he would have stepped away from a feint. He found himself facing the crowd instead of the column: a hundred faces on the steps and in the windows of the cloth-hall, all turned the other way, all lit gold from the west, all watching the end of the line come up the street. He watched them instead. He saw what the column did to them as it passed. He saw them go quiet at the banner and loud at the Silvers, and then, as the end of the line came level, he saw a change go across all of them at once, like wind across a field of barley.
+
+It told him a great deal about the crowd. It told him a good deal about Auremont, which had built a column that could do that to a street. It told him nothing about her, and that was what he had wanted.
+
+"You're facing the wrong way," said Brom. He had watched Cael turn, and had said nothing until the sound had passed on up the street.
+
+"I know."
+
+"She went past. Just now. A long way off, at the back."
+
+"I know. I heard them." Cael turned round again. The tail of the column was going away up the processional way, the blue and silver getting smaller against the lit tiers of the Concourse. "Everything in that line was put where it was for somebody standing where I'm standing. If I'd read her just now, I'd have read her the way they laid her out for me." He watched the last riders turn the corner toward the delegation quarter. "I'll take my first look at the procession, from wherever the marshals put me, on the tournament's own floor. Until then, all of it is Auremont's publishing. I decline to review the publishing."
+
+Brom thought about that for a long moment.
+
+"That's either very sensible," he said, "or the most stubborn thing I've heard you say all year."
+
+"Can't it be both?"
+
+"With you it usually is." Brom looked up the street to where the column had gone. "She'd have liked it, I think. If she knew."
+
+"Knew what?"
+
+"That somebody turned his back." Brom started down the steps. "Must be the only back in the city tonight."
+
+*Auremont came in tonight,* he wrote, *forty riders in seeding order, every one of them placed to be read from the pavement, in the best light, at a walking pace. I turned round and read the crowd instead. It's a fine column. It does exactly what it was built to do to a street.*
+
+*It didn't tell me anything about her, because I didn't let it. Everybody here reads everybody else through somebody's arrangement. I'd like one read in this city, just one, that nobody arranged for me. The procession is the nearest I'll get.*
+
+---
+
+The Archmarshal Vastin read the Norhold files on a Fourth-day evening, in his room in the Compact's house, a week before the opening.
+
+They had been on the chair beside his table since the cold term, in their two boxes, and he had worked round them every day. He had not forgotten them. He had simply not yet found the hour in which he wished to know what was in them, and he was honest enough with himself to notice that this was not the same as having no hour. On the Fourth-day evening the last bundle of the week was finished before the lamps, and the court below was empty except for the porter and his pigeons, and he lifted the first box onto the table and took off its lid.
+
+He read them as he read everything, in order and in full.
+
+He had read a great many files in forty years, and most of them told him more about the office that had made them than about the thing they described. These were no different. Their courtesies told him which officers liked one another and which did not. Their dates told him that somebody had been in a hurry in the cold term, and then had not. He noted that, as he noted everything, and did not make it carry more than a date can carry.
+
+There were the liaison papers between the observation office and the tournament's adjudication office, courteous and dull. There was the rotation of the observation officers through the three weeks, with their seats and their hours, and the names on it were names he knew. He found Ilsev in the first seat, as he had expected, and Havel in the second. There were the instructions that had gone out under each paper, and the acknowledgments that had come back. He read them all and found nothing in them that a careful office would not have written.
+
+Then he came to the seating of the Compact's row in the Concourse gallery.
+
+It was a plain document, a plan of twelve seats drawn in a clerk's neat hand, with a name-plate entered against each. The six observation seats came first, then the district officers, then a liaison seat, then two left for officials of the host city. He read along them in order. One, two, three. Eleven.
+
+Twelve was held.
+
+There was no plate entered against it. Where the name should have been there was a short instruction in the same clerk's hand. *Seat twelve: held. No plate. Stewards to keep the seat clear for the length of the sitting.* Beneath that, in the column for the grade of the officer for whom a seat was held, the clerk had written one word.
+
+It was his own grade.
+
+Vastin sat back in his chair.
+
+His left hand was resting on the table beside the plan, and it ached, as it did most evenings now. He opened it and closed it once, slowly, and looked at it while he did.
+
+He had not asked for a seat at Norhold. He had not asked to be sent, or told he might be, or consulted about the row. He went to his own register and turned back through it, every outgoing letter for three months, to be certain of that, and he was certain. Nothing had gone from this room about the finals except the order for these two boxes. And somewhere, in some office he had not written to, a clerk had been told to hold a chair at the end of a gallery row, without a name on it, at the grade of the man who now sat reading the instruction.
+
+There was nothing irregular in it. Seats were held at every sitting, for officials whose coming was not yet settled. A held seat was a courtesy. It obliged nobody to sit in it.
+
+He noted that. He took his day book from the drawer and wrote, under the date, one line: *Norhold, Concourse row: seat twelve held at this grade. Not requested by this office.* He read the line back, as he read every line, and it was true.
+
+Then he did a thing he had done perhaps a dozen times in forty years. He noticed a thought beginning, a long one with a shape to it, and he declined to let it go on. It was not that the thought was improper. It was that it had nothing yet to stand on but an empty chair, and he had spent his working life refusing to let a thought carry more weight than the evidence under it.
+
+He closed the day book and put the plan back in its box, in its place, and the lid on the box.
+
+He did not put the box back on the chair. He set it on the corner of his table, where it would be the first thing he saw in the morning.
+
+Then he sat for a little while longer in the lamplight with his hands folded on the table, listening to the pigeons settling in the eaves across the court, and to the porter locking the street door below. He was not thinking about the chair. He was careful about that. He was thinking, as he often did at the end of a week, about the shape of the week, and whether every reading in it had been entered and every entry been true. They had. He turned down the lamp.
