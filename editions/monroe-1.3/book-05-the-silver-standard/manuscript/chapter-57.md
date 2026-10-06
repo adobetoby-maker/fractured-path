@@ -28,7 +28,7 @@ She noticed that she did not try, and she was glad, as she had been glad six day
 
 Then she thought about the end.
 
-He had been going down at her feet with his side open and his legs gone, and she had seen the finish lying there, and she had not taken it. She had not decided not to, exactly. She had done what her hands knew. She had let the air under him go slack, so that it would not hold him up and would not let him fall either, but take him down slow, like a hand lowering a cup to a table. From her side it was a letting go. She had stopped the air from holding anything at all under him. To him, she supposed, falling into that, it would have felt the other way about, like being caught in water.
+He had been going down at her feet with his side open and his legs gone, and she had seen the finish lying there, and she had not taken it. She had not decided not to, exactly. She had done what her hands knew. She had let the air under him go slack, so that it would not hold him up and would not let him fall either, but take him down slow, like a hand lowering a cup to a table. From her side it was a letting go. She had stopped asking anything at all of the air under him, and let it lie. To him, she supposed, falling into that, it would have felt the other way about, like being caught in water.
 
 It was the thing the big quiet man had done to her on the coast when she was fifteen. She had spent a month of mornings learning never to let anybody do it to her again, and she had kept the exercise sheet ever since because it was the only honest record of a thing that had been done to her. She had always thought of it as the thing that had beaten her once.
 
@@ -42,7 +42,7 @@ That night, in the marbled notebook in the lining of her case, she wrote one lin
 
 ---
 
-The young clerk had gone down for the stamp, and Umber stood at the window and waited for him to come back.
+The junior clerk had gone down for the stamp, and Umber stood at the window and waited for him to come back.
 
 It was the only thing left to wait for. The sheet lay on the black table behind him with nine names at its foot, the ink of the last one still wet. The stamp was in the strong room, three floors down, behind two locked doors and a logging clerk who would not give it up to anybody but a clerk of the minute, which was the rule, and a good one. So the junior clerk had gone down with the key. Umber could hear his feet on the stair, getting fainter.
 
@@ -202,7 +202,7 @@ It did it gently, a little at a time, like a good coat in its last year of wear.
 
 "The copy line. Their delegation head, and the risk officer, and two coaches." He sat down heavily. "The steward went out to them and offered to take them straight through. Champion house. They always go through. The head thanked him and said they'd wait their turn, and they're standing behind a woman with a basket of eels and three boys from the hill house." He shook his head. "Half the city's walking past to look. Nobody's saying anything. They just go by and look."
 
-It was the thing the city remembered best about that morning; people in Norhold were still telling it years after. Years later Cael would meet people on the roads who had not seen a minute of the bout and could tell him exactly where Auremont had stood in that line.
+It was the thing the city remembered best about that morning, and Norhold went on telling it long after the houses had gone home. Years later Cael would meet people on the roads who had not seen a minute of the bout and could tell him exactly where Auremont had stood in that line.
 
 The guesses came up the stair with every visitor, all day, and he wrote every one of them down.
 

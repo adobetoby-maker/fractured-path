@@ -67,3 +67,12 @@ chapter-51.md	sentences=221	skeleton=1%	close=11%
 chapter-52.md	sentences=213	skeleton=3%	close=13%
 chapter-53.md	sentences=232	skeleton=3%	close=12%
 TOTAL	sentences=1495	skeleton=2%	close=11%
+== book-05-the-silver-standard M9 (ch54–60)
+chapter-54.md	sentences=188	skeleton=0%	close=12%
+chapter-55.md	sentences=184	skeleton=0%	close=9%
+chapter-56.md	sentences=235	skeleton=1%	close=12%
+chapter-57.md	sentences=246	skeleton=1%	close=13%
+chapter-58.md	sentences=266	skeleton=3%	close=18%
+chapter-59.md	sentences=223	skeleton=5%	close=22%
+chapter-60.md	sentences=212	skeleton=5%	close=18%
+TOTAL	sentences=1554	skeleton=2%	close=15%

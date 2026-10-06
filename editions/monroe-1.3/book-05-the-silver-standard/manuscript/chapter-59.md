@@ -144,7 +144,7 @@ Gault had taken the flat box out of his inside pocket, the one with the old blue
 
 Lira was the only one of them who looked at the cloth. She looked at it with her chin up and her eyes too bright, and said, out loud, so that the whole line heard:
 
-"Eighteen years they didn't come." She did not look away from it. "There's a table-keeper at Fenmark who wrote me off at fourteen. I want him told, in his own ink, what the scrapyard placed."
+"Eighteen years they didn't come." She did not look away from it. "There's a table-keeper at Fenmark who wrote me off at fourteen. I want her told, in her own ink, what the scrapyard placed."
 
 Karis, beside her, did not write it down. She reached across without looking and took hold of Lira's sleeve, and kept hold of it.
 

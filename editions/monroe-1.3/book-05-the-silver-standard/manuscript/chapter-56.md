@@ -56,7 +56,7 @@ She had begun it. Nobody on any floor had ever been more in earnest. And he was 
 
 *Three. The whole cost on paper first.*
 
-Some of it was. Last night, at the window, before anything had happened, he had written the leaf in Hesk's book: that he did not think he could go on not-doing it in front of someone who could kill him by accident, and *Write it down before, not after.* That was the wish, in his own hand, a day ahead of the thing, which was what the third line had always asked for. And every price he had ever paid was in the old volume: days of quiet after each reach, while the rest of him moved over to make room.
+Some of it was. Last night, at the window, before anything had happened, he had written the leaf in Hesk's book: that he did not think he could go on not-doing it in front of someone who could kill him by accident, and *Write it down before, not after.* That was the wish, in his own hand, a day ahead of the thing, which was one of the two things the third line had always asked for. And every price he had ever paid was in the old volume: days of quiet after each reach, while the rest of him moved over to make room.
 
 But none of those prices had been paid at this weight. Not in the middle of a bout, not in front of a city. No page anywhere held that, and he knew it.
 

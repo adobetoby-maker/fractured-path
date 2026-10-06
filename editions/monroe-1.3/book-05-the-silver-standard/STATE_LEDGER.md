@@ -1580,7 +1580,7 @@ Lira on T16: one burst in E1 ("Early.").
 **Movement 8 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — twelve applied (six required: ch47 a stray quote from the tag trim; ch52 Lira on T21 'Three days from now'; ch52 'You can't climb it,' she said restored; ch53 'said Lira' after Karis's pen; ch53 the eve's form sentence re-composed off the source; ch51 'one of the colour-guard at either side' — a guard of two; six optional: source-order reorders in ch49 and ch51, and ch52 'each mast grounded twice' to agree with ch50 and the ring canon). Remaining close band (~12%) judged common-word noise by the recheck after reading; six to eight sub-probe runs reduced by the optional fixes. Overlap 0/27, gates 0, probe 2%/12%.
 
 
-## AFTER MOVEMENT 9 — chapters 54–60 (drafted 2026-10-05/06, author claude-opus-5-5; repair r1 applied; recheck pending) — BOOK END STATE
+## AFTER MOVEMENT 9 — chapters 54–60 (drafted 2026-10-05/06, author claude-opus-5-5; repair r1 applied; CLOSED 2026-10-06 after Fable recheck r1) — BOOK END STATE
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - Calendar per #41: finals day T24 (morning card: the Iron, Silver and Gold bracket finals and the team-trial final — Auremont won it without Daeva on the squad — then the match); panel overnight T24–25; the morning after and the meeting T25 (the timekeepers' office; Brom on the step); closing T26, "Third. Halcenvane Academy." confirmed; road home seventeen days; Brom's summons at the district seat on road day nine; Hesk's reply reaches them on road day eleven. The tournament's length is never stated in days.
@@ -1804,3 +1804,5 @@ Lira on T16: one burst in E1 ("Early.").
   - watchers at a market-town bridge;
   - Karis's 206 sheets;
   - Ephram's plain version ("carry my kit up the bluff while I tell it").
+
+**Movement 9 CLOSED (2026-10-06).** Fable recheck r1: CLOSE WITH LINE FIXES — ten applied (required: ch59 the Fenmark rater is a woman, per B4 ch25 — 'her … her own ink'; ch60 'Since the fourth exchange' and 'the afternoon before' (both written T26 about T24/T25); ch57 the Norhold anchor's doubled 'years after. Years later' re-composed; ch60 'Brom's coat carried the matter'; optional: ch57 'the junior clerk'; ch58 Havel puts 'the fifth in with the other four'; ch57 Daeva 'stopped asking anything at all of the air under him, and let it lie'; ch56 'one of the two things the third line had always asked for'; ch58 a doubled blank line). Ledger corrections: Auremont's four words print on T27 morning (ch57), not T26; Havel's 'four sheets between the manuals' is the edition's rendering of his B4 notebook — ledger as the edition's. Overlap 0/34, gates 0, probe 2%/15% (no chapter at 6% skeleton). BOOK 5 DRAFTING COMPLETE: all nine movements closed; completion pass next.

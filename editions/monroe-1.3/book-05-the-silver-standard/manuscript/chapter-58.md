@@ -48,7 +48,7 @@ That night, in his narrow room at the inn behind the east tower, he wrote a fift
 
 *Referral closed at registry level; no further inquiry authorized.*
 
-Under it he wrote that the senior seat now kept a sheet of its own. Then he put all five back between the manuals and buckled the kit, and sat for a while in the dark, thinking that there were two of them now in one city, each with papers their office had not asked for, and neither going to tell the other.
+Under it he wrote that the senior seat now kept a sheet of its own. Then he put the fifth in with the other four between the manuals and buckled the kit, and sat for a while in the dark, thinking that there were two of them now in one city, each with papers their office had not asked for, and neither going to tell the other.
 
 ---
 
@@ -133,7 +133,6 @@ The stair went up round the inside of the tower, and the room was at the top of 
 The room was full of clocks.
 
 They stood on shelves round all four walls, and on the long table, and two of them hung over the door. Some were brass and some were wood, and a few were in pieces, with their works laid out on cloths. Each had a card tied to it with a date and a hand. And every one of them was ticking, and no two of them said quite the same time. The noise in the room was like rain on a roof. It was the timekeepers' office for the whole Concourse, where every clock the sitting used was brought to be set against the tower's great one and sent out true, and it belonged to nobody in the sitting at all.
-
 
 Hesk had written to him in the cold term that in a big city every clock disagrees with every other, and every one of them is certain. Cael had never been in a room that proved a letter so thoroughly.
 

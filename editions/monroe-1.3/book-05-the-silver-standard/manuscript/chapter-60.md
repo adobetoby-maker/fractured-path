@@ -8,7 +8,7 @@ It was not the end of a year by anybody's calendar but his own. But it was near 
 
 *Seven now, and the one I can't account for.*
 
-*Lira's burst. Six free on the sprung oak; four a day on this city's stone. On finals day I spent nine. The seventh, eighth and ninth were all past six, and the hip sent all three bills the next morning with interest. The landing beat: four years of trying to trim it, and it is no shorter. Since yesterday afternoon it doesn't always come when I call it. Sometimes something else comes.*
+*Lira's burst. Six free on the sprung oak; four a day on this city's stone. On finals day I spent nine. The seventh, eighth and ninth were all past six, and the hip sent all three bills the next morning with interest. The landing beat: four years of trying to trim it, and it is no shorter. Since the fourth exchange it doesn't always come when I call it. Sometimes something else comes.*
 
 *The push I took from the Bronze at Ardenmere. Five blows in one sitting, on a scored floor, in front of eight thousand, the first load it has carried in public since the circuit. The right shoulder is still counting the fifth.*
 
@@ -74,7 +74,7 @@ She turned and looked at him. Her face in the lamplight from the wharf was perfe
 
 "Silver bracket. Next cycle."
 
-He did not say the thing in his head, which was a sentence about official channels, said to him that afternoon in a room full of clocks. She had heard him tell it at the long table. She knew. There were some things you did not say on a harbour wall, the way Rooke would not put a certain word on a coaching sheet. They sat until the lighter's lantern had gone round the end of the mole, and then they got up and went back through the dark streets to the house.
+He did not say the thing in his head, which was a sentence about official channels, said to him the afternoon before in a room full of clocks. She had heard him tell it at the long table. She knew. There were some things you did not say on a harbour wall, the way Rooke would not put a certain word on a coaching sheet. They sat until the lighter's lantern had gone round the end of the mole, and then they got up and went back through the dark streets to the house.
 
 ---
 
@@ -152,7 +152,7 @@ Karis's pen came up. She did not write anything. She waited.
 
 "I'd have ninety days to decide whether I want one drawn."
 
-Nobody pushed him. Nobody on that wagon had ever needed to push Brom toward anything; he got there, or he didn't, by his own road. Karis capped her pen without having written a word, which Cael had never once seen her do. Brom's coat carried it the rest of the way home, buttoned over the summons and the Velmere letter together. Nobody saw either come out again. The year had nothing more to say about it than that.
+Nobody pushed him. Nobody on that wagon had ever needed to push Brom toward anything; he got there, or he didn't, by his own road. Karis capped her pen without having written a word, which Cael had never once seen her do. Brom's coat carried the matter the rest of the way home, buttoned over the summons and the Velmere letter together. Nobody saw either come out again. The year had nothing more to say about it than that.
 
 On the eleventh day, at a waystation where the coast road came in from the south, the coach from the coast pulled into the yard with its horses steaming while they were eating, and stood there blowing while the coachman got down. The coachman put his head in at the door and asked if there was anybody here from the bluff, and held up a letter. Cael knew the hand from across the room.
 
