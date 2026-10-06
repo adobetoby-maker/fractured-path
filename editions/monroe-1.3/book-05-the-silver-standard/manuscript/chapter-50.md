@@ -4,7 +4,7 @@ The acceptance took four minutes, and most of that was the clerk finding a pen t
 
 Cael went over to the west tower at the first bell, alone, because that was how he had said he would do it, and nobody had argued. The category's counter was on the ground floor behind a brass grille, at the end of a passage that smelled of floor polish and damp coats. There was a queue at the next window for floor allotments and nobody at all at his.
 
-The clerk behind the grille was young and freckled and had plainly drawn the morning's duty in some sort of lottery, and lost it, or won it. He looked up, and saw who it was, and put down the pen he had been holding, and picked up another, and tried that on his blotter, and put it down too.
+The clerk behind the grille was young and freckled, with the look of somebody who had come in early to be ready for this and had then spent the waiting being sick with nerves about it. He looked up, and saw who it was, and put down the pen he had been holding, and picked up another, and tried that on his blotter, and put it down too.
 
 "The form for accepting a filing," said Cael. "In the demonstration category. Please."
 
@@ -12,7 +12,7 @@ The clerk found it in the second drawer. It was half a page. It asked for the ch
 
 The clerk took it and read it twice, and wrote in the office's box at the foot, in a round careful script, and then turned the form round so that Cael could read what he had written.
 
-*Accepted in person. Bout entered for finals day, in the exhibition ring. Both parties confirmed.*
+*Accepted in person. Bout entered for finals day, in the exhibition ring. Parties to confirm before the Chief Adjudicator.*
 
 "There's a hearing for the parties this afternoon," said the clerk. "Third floor. The Chief Adjudicator's sent word he'll sit it himself." He hesitated. "I'm to say the fourth bell, and that the office would be obliged if you were punctual."
 
@@ -46,11 +46,11 @@ He was smaller than Cael had expected, close to. He sat at the head of the table
 
 "There are four items," he said. "You each have them. We will take them in order, and nothing will be discussed that isn't on the paper."
 
-Cael had read his copy twice before the man came in. The four items were numbered in a clerk's round hand: *1. The parties. 2. Underwriting. 3. Protocols and the ring. 4. The rating.* A man who handed you his agenda before he began, Rooke had said once, was telling you he meant to finish it.
+Cael had read his copy twice before the man came in. The four items were numbered in a clerk's round hand: *1. The parties. 2. Underwriting. 3. Protocols and the ring. 4. The rating.* There was nothing on it for anybody to argue with, and he understood, looking at it, that this was the point. Umber had written down where the afternoon would end before it started.
 
 The first item took less time than the walk up the stair.
 
-The junior clerk read the filing into the record in a level voice. He read the acceptance. Then he turned to Daeva and asked whether the filing stood as it had been made.
+It began with the junior clerk, who read the filing aloud, levelly, for the record. He read the acceptance. Then he turned to Daeva and asked whether the filing stood as it had been made.
 
 "Confirmed," said Daeva.
 
@@ -58,35 +58,35 @@ The clerk wrote it. He turned to Cael and asked whether the acceptance stood.
 
 "Confirmed," said Cael.
 
-The clerk wrote that too. And that was the bout, in law: the one the whole port had been shouting about for a day and a half, made real by one word apiece from two people, said to a young man with ink on his finger.
+The clerk wrote that too, and blotted it, and looked up as if he expected something more. Nothing more came. The port had been shouting about this bout for a day and a half, and in the end the law had wanted two words from it, the same word twice.
 
 The second item took most of half an hour by the clock over the door, and Cael would not have given back a minute of it.
 
-The counsel stood to give it. He had a long face and a long document, and he said at the start that he intended to read the whole document aloud, because a rider that was not read into the record was a rider that got argued about later, and he did not propose to be argued with. Then he read it.
+The counsel had a long face and a long document. He stood to read it and did not sit down again until he had finished, and he did not skip a line, and nobody at the table suggested that he might.
 
-There was no row for this bout in the underwriters' schedule. That was the first thing it said. It said it in four different ways, each more formal than the last. The underwriters had therefore written a rider of their own, for this bout only, at a premium the tournament had agreed to carry. They described the risk, in a phrase the counsel read with no expression whatsoever, as *unpriceable but bounded*. Then came the exclusions, all of them. Then the healers' warranty. Then the conditions under which the bout would be stopped. Then the one clause under which the tournament's liability fell on the tournament, and the pair of clauses that let it off.
+It began by saying that the underwriters' printed schedule had no row for this bout. It said so four times, each more formal than the last, like a man knocking on a door he already knows is locked. Then it said what the underwriters had done instead. They had written a rider of their own for this one bout, at a premium the tournament had agreed to carry, and they had described the risk, in a phrase the counsel read out with no expression whatsoever, as *unpriceable but bounded*. After that it went into the particulars: what the healers warranted and what they did not; at what point a bout would be stopped; where the tournament's purse stood behind the fighters and the two places it stepped back.
 
-Cael listened to every word. He had heard a great many documents read about him in his life, by wardens and registrars and panels, and he had come to have a kind of fondness for the sound. This was the first one he had ever heard that admitted, in its opening line, that nobody knew what it was for.
+Cael had heard a great many documents read aloud about himself, by wardens and registrars and panels, and he had grown fond of the sound the way a man grows fond of rain on a roof. This was the first he had ever heard begin by saying that nobody knew how to write it.
 
-The delegation head asked two questions when it was done. Both were good ones. Both were about her, the practitioner, and what would happen to her under the rider if something went wrong; neither was about the house. The counsel answered both. Daeva did not look up while he did.
+When the counsel sat down, Auremont's delegation head had two questions. Cael listened for the house in them and did not find it. Both were about her: what the healers would do for her, and how soon. The counsel answered each, and Daeva kept her eyes on the table the whole time, and the head did not look at her once while he asked.
 
-The third item was Umber's, and he gave it himself, plainly.
+Umber kept the third item for himself.
 
-The referee and the panel would each have the power to stop the bout, and either alone would be enough, and there would be no appeal. Four healers would stand by instead of the usual two, a pair at each of the fighters' gates. And the ring would not be the ring Cael had fought in twice. It would be a new one.
+The ring came first, and he left the people till after. It would not be the ring Cael had fought in twice. It would be a new one.
 
 He read the list off a sheet of paper that was not in the office's hand. Cael saw Daeva's eyes go to it, once, and away.
 
-The barrier was to be raised to six feet all round, and finished at the top with a rounded coping that nothing could get a grip on. There would be four breaks in it, north and south for the fighters, east and west for the crews. The front rows of the bowl would be taken back. The stone of the floor would be lifted, all of it, and laid again over a frame of timber bolted through to the stone beneath, and the old round of oak at the centre would be left in its place and the new stone laid up to it. The crown of the floor would be laid again, true, so that water would run off it to a trench at the barrier's foot. And at the four quarters of the ring there would be four masts, each grounded twice into the trench, each carrying an arrestor at its head.
+All round, the new barrier would stand six feet, with a rounded cap along its top that no hand could hold. There would be four breaks in it, north and south for the fighters, east and west for the crews. The front rows of the bowl would be taken back. The stone of the floor would be lifted, all of it, and laid again over a frame of timber bolted through to the stone beneath, and the old round of oak at the centre would be left in its place and the new stone laid up to it. The crown of the floor would be laid again, true, so that water would run off it to a trench at the barrier's foot. At each quarter of the ring a mast would stand, with an arrestor on top and two cables down into the trench.
 
 "The specification for the masts and the floor," said Umber, "has been supplied to this office by Auremont's own risk office, at the house's expense, this morning. The office has read it and accepts it." He laid the sheet down. "The crews will build it on the night after the third-place trial."
 
-Daeva had followed every line on her own copy with one finger. She did not say anything. She had come to the room, Cael thought, having already read all of it, as he had.
+Then the people. Referee and panel alike might stop the bout, either without the other, and nobody might appeal it. There would be healers at both fighters' gates, two to each, which was twice the usual. Daeva's finger had moved down her own copy line by line ahead of his voice. Cael thought she could have read the whole list aloud for him, and that she knew he could have done the same.
 
 Then Umber came to the fourth item, and put the clerk's paper aside, and looked down the length of the black table at the two of them.
 
-"The provision says this bout must be rated," he said, "and there is no figure anywhere in this office's tables for what you two are going to do. I have spent two days making certain of that. My panel has already heard what I am about to say. You should hear it from me, here, before you read it on a wall."
+He did not begin with the tables. He began with the two of them.
 
-He laid his palms on the black wood.
+"You are the parties," he said, "and you are entitled to know what I have already told my panel. I will not have you read it on a wall." He laid his palms on the black wood. "There is no figure in any table this office keeps for what you two will do in that ring. My clerks have spent two days proving it to me, and I have let them, because I wanted it proved."
 
 "The category was made to judge a performance where the brackets cannot. It has waited three hundred years for a bout that requires it. We will not refuse the one it was built for. The panel will rate what is demonstrated. The tables will hold, or we will learn something about the tables."
 
@@ -94,57 +94,57 @@ Nobody moved.
 
 Then the delegation head stood up. He did it slowly, as if his knees had begun to object to such things. He said that his house wished to enter its objection on the record, and he entered it, in full, in words that were careful and grave and plainly felt: what a program owed the people in it, the lack of any precedent, the house's request that the office decline the filing. Umber heard him out without once looking away from him. When the man had finished he did not sit down.
 
-"I have one question for the chair," he said. "So that the house may know where it stands. Does this office recognise any authority in my house to withdraw a filing that one of its practitioners has made in her own name?"
+"I have one question for the chair," he said. "So that the house may know where it stands. Has my house any power, under any rule this office keeps, to take back a filing one of its own made in her own name?"
 
 "No," said Umber.
 
-The head looked down at Daeva. She looked back up at him with the same steady courtesy she gave everything. After a moment he sat down.
+The head looked down at Daeva. She met his eyes and did not help him. After a moment he sat down.
 
-"Then the bout stands as entered," said Umber. He gathered his papers into a block and tapped them square on the table, and then, for the only time that afternoon, he did something that was not on the agenda. He looked from her to Cael, and back to her, as a man might look at two weights he has been asked to put in the same pan.
+"Then the bout stands as entered," said Umber. He gathered his papers into a block and tapped them square. For a moment he sat with his hand on the block and did not get up. He was looking at the wall above Cael's head, at the framed plans of rings going back further than the lamplight reached, and Cael had the odd sense that he was counting them.
 
 "The office thanks the parties," he said, "for their punctuality."
 
-On the stair going down, Rooke said, without turning his head, "That was a blessing. From him, that was a blessing." And Withrow, two steps below, said, "Yes," and nothing else, all the way to the bottom.
+On the stair going down, Rooke said, without turning his head, "He's never thanked anybody for anything in that tower. I asked." And Withrow, two steps below, said, "Yes," and nothing else, all the way to the bottom.
 
 ---
 
-The fast dispatch reached the Archmarshal's room in the evening of the next day, with the rest of the day's papers, and lay in the tray for an hour before he got to it.
+For a year the Archmarshal Vastin had kept the Compact's record on the enrollee of Halcenvane, and kept it honest, and a week before he had sat in a held chair at Norhold to watch the boy fight a duelist, and written twice, and gone home before the figure.
 
-The room was high up in the Compact's house, two days from Norhold by the post road. He had worked in it for nineteen years. It looked down into a paved court where a porter fed the pigeons from a paper bag every morning at the same hour, and it had a long cabinet of shallow drawers down one wall and a seal-press bolted at the desk's near corner, set at a slant nobody else would have chosen. On the desk stood three trays. One was for what had come in, one for what he was holding and one for what was finished. They had stood in that order on every desk he had ever had, since the first one, in a district office with a leaking roof and no clerk.
+The fast dispatch reached his room in the evening of the day after the filing, with the rest of the day's papers, and lay in the tray for an hour before he got to it.
+
+The room was high up in the Compact's house, two days from Norhold by the post road. He had worked in it for nineteen years. It looked down into a paved court where a porter fed the pigeons from a paper bag every morning at the same hour, and there was a long cabinet of shallow drawers down one wall, and a seal-press he had screwed to the desk's corner himself, crooked, on his first morning, and never straightened. On the desk stood three trays: in, held, done. He had kept them in that order since before he had a desk worth the name.
 
 He read the notice once.
 
-It was a copy of the category's printed form, sent up from the west tower by the observation row because anything that touched the enrollee's file now came to him without waiting for the weekly bag. The challenger's name. Her house. Her tier. And one word at the foot, in a firm upright hand.
+It was a copy of the category's printed form, sent up from the west tower by the observation row, because anything that touched the enrollee's file now came to him without waiting for the weekly bag. The challenger's name. Her house. Her tier. And one word at the foot, in a firm upright hand.
 
 He put the notice down square on the blotter and did not reach for the next thing in the tray.
 
 What he thought about first was not the girl, or the boy. It was his post.
 
-For some weeks now it had been lighter. The bound digests that used to come down from the higher office under its seal, with no routing slip and those two initials nobody could place, had come at first every few days and then every week, each one with its careful new words for old things and its polite request for his view on how a matter might be *framed*. He had answered every one as an evaluator answers, with what was true and nothing else. Then, somewhere in the middle of the sitting, they had simply ceased. There had been no last letter that called itself a last letter. The correspondence had ended in the middle of a sentence, like a road that runs down to a river and finds the bridge gone.
+For some weeks now it had been lighter. The bound digests that used to come down from the higher office under its seal, with no routing slip and no initials, had come at first every few days and then every week, each with its careful new words for old things and its polite request for his view on how a matter might be *framed*. He had answered every one as an evaluator answers, with what was true and nothing else. Then, somewhere in the middle of the sitting, they had stopped. He had sent his last answer up the stair and nothing had come down it since: no thanks, no question, not so much as an acknowledgement of receipt.
 
-A younger man would have called it good news. Vastin had been in the Compact's service long enough to know that silence came in sorts, and that an officer who could not tell one sort from another would spend his whole career being startled. There was the silence of a matter forgotten, which gathered dust and did no harm. There was the silence of a matter settled, which sat comfortably on a shelf. There was the silence of a matter waiting for somebody who was away, which had a fidget in it that could be felt through a shut door.
+Vastin had been in the Compact's service long enough to know that silence came in sorts, and that an officer who could not tell one sort from another would spend his whole career being startled. There was the silence of a matter forgotten, which gathered dust and did no harm. There was the silence of a matter settled, which sat comfortably on a shelf. There was the silence of a matter waiting for somebody who was away, which had a fidget in it that could be felt through a shut door.
 
-And there was a fourth sort, which he had met perhaps three times in all his years, and had not liked on any of them. It was the silence of a process that has stopped asking for your answers because it has no further use for them. Nobody above him had lost interest in the boy. The interest had merely gone on, to a floor of the house where his evaluations were not read. Whatever was being decided now was being decided by people who no longer needed to read the record he had kept honest for a year.
+And there was a fourth sort, which he had met perhaps three times in all his years, and had not liked on any of them. It was the silence that falls when you have been taken off a list. Nobody above him had stopped caring about the boy. They had only stopped caring what Vastin thought. His evaluations were going up the stair as truthfully as ever, and nobody at the top of it was reading them, because whatever was going to be done was going to be done on other papers than his.
 
 A held chair at Norhold, at his own grade, that nobody had asked for. A steward who knew his title before he gave it. He had noted both and drawn nothing from them, as was proper. He drew nothing from them now. He only laid them side by side with the empty post, as a man lays out three cards to see whether they make a hand.
 
-Then he rang for his clerk, and sent him out again on an errand that would take an hour, and did a thing he had not done in forty-odd years of keeping a calendar.
+Then he sent his clerk out on an errand that would take an hour, and did a thing he had not done in forty-odd years of keeping a calendar.
 
-He took the appointment book down from its shelf and opened it at the coming week and emptied it.
+He took the appointment book down from its shelf, opened it at the coming week, and began at the bottom of the page.
 
-He did not trim it. He took everything out. A warden's appeal from one of the hill districts, which had waited four days for a morning of his attention, he passed to a deputy with two lines of instruction in his own hand. The inspection of the river stations, which he had walked every year for a decade, he put back a month under his seal. The committee sittings of the quarter, all of them, he struck through one by one in his own ink until the page was nothing but neat crossed lines from top to foot. When he closed the book there was nothing left in the week at all, and nothing written anywhere in it to say why.
+The committee sittings of the quarter came last on every page, and he struck them through first, one by one, in his own ink. Above them the inspection of the river stations, which he had walked every year for a decade; he put it back a month under his seal. Above that a warden's appeal from one of the hill districts, four days waiting for a morning he had not given it; he wrote two lines of instruction and passed it to a deputy. When he reached the top of the page there was nothing on it but neat crossed lines, and nothing anywhere in the book to say why.
 
-He reached for a requisition form and filled it in himself.
+He drew a requisition form toward him and began, as he had begun the book, at the bottom.
 
-He did not send it down to be done. The form left his room in his own hand, which it had not done in a long time. It had six lines. *Traveller: one.* His rank and the authority it carried, in full. The date of departure, which was the morning after next. *Return:* he left that line empty. *Accommodation: own account.* He sat a moment over the sixth line.
+The sixth line asked for purpose. He had filled that line more times than he could count, always with the exact word for what he meant to do. *Evaluation. Station review. Certification dispute.* For this journey there was no exact word. The form's rules allowed an officer of his grade, travelling on his own authority, two that were not quite a reason. He wrote them. *Official interest.*
 
-He had filled the sixth line more times than he could have counted, with the exact words for what he was going to do. *Evaluation. Station review. Certification dispute.* A career's worth of making the paper say what was going to happen and nothing else. The form's rules allowed a senior officer travelling on his own authority to write, in that line, two words that were not quite a reason.
+The rest was easy after that. *Accommodation: own account.* *Return:* nothing; he left it empty. Departure, the morning after next. His rank, in full, with the authority it carried. *Traveller: one.*
 
-He wrote them. *Official interest.*
+He did not send it down to the office to be copied fair. It would leave his room in his own hand, which no form of his had done in years. Before the wax went on he took it once more from the top, the usual way. It said nothing that was not so, and he had never asked a form for anything else.
 
-He went through it once more before he sealed it. Every line on it was true. He had never in his life asked a form for more than that, and this one gave it.
-
-His clerk came back in and entered the journey into the empty week without a word, and Vastin let him do it without a word, and sat on at the desk after the clerk had gone, with the lamp not yet lit and the pigeons settling on the ledges of the court below.
+His clerk came back, and saw the empty week, and wrote the journey into it without a word. Vastin let him. When he had gone, Vastin sat on at the desk with the lamp not yet lit and the pigeons settling on the ledges of the court below.
 
 His left hand had begun to ache, as it did now at the end of most days. He laid it flat on the cool of the blotter and let it ache.
 
@@ -162,8 +162,7 @@ This time he would stay.
 
 He would stay for all of it, whatever came, and for whatever figure the panel put to it afterward, and if the panel could put no figure to it, he would stay for that. He did not know yet what he would write. He would find out when he saw it, which was the only way he had ever found out anything worth writing down.
 
-He closed the register and lit the lamp. He packed one bag, as he always had, and set it by the door.
-
+He closed the register and lit the lamp. He packed one bag, as he always had, and set it by the door. As he straightened from it a thought came to him whole, the way his best thoughts did, and he let it stand in his head and did not write it down.
 
 *An evaluation that begins from its conclusion is a report about the evaluator. Somewhere above him, a report about the evaluators was being written, and he intended to see the evidence himself before it was.*
 

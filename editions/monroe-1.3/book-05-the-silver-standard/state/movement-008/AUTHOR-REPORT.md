@@ -102,7 +102,7 @@ Author: Monroe Jackson (seat `oconnor` 1.3.0, model `claude-opus-5-5`) · 2026-1
 - **Shadow sealed.** The year-old three-rule minute is restated in one line ("Nothing made to happen. Only inside a fight somebody else begins. The cost on paper first.").
 
 **Knowledge.**
-- **Cael:** Daeva's ring figures and her ceiling (told in the masts' units, not given on the page); that she measures from the centre and will change it; Karis's model (fold, lane, her; *permitted*; half a beat; why she stopped unmodelled); Marek's finding (one point, the fifth man); the second slip.
+- **Cael:** Daeva's ring figures and her ceiling: asked and told at the west mast (ch52, r1) in the masts' own terms (each head rated for four full discharges at her assessed ceiling before it runs hot, each cable grounded twice, the facilities office's margin of half again on top), with the sheet's single summary figure said aloud but not printed; he repeats it once and does not write it down; that she measures from the centre and will change it; Karis's model (fold, lane, her; *permitted*; half a beat; why she stopped unmodelled); Marek's finding (one point, the fifth man); the second slip.
 - **Lira, Brom, Karis:** the council and the seal; the narrowing (Karis has marked it to come back to).
 - **Seln:** has inferred that the bank opens tomorrow (the slip). He was not in the council and is never told about the seal. No reason is stated.
 - **Ephram:** outside the door.
@@ -192,7 +192,7 @@ Author: Monroe Jackson (seat `oconnor` 1.3.0, model `claude-opus-5-5`) · 2026-1
   - the garden court (a pear tree; a red-spined history of the coastal leagues);
   - the instructor's account, with "composure" underlined twice;
   - the coastal exhibition at fifteen against a border-guild Gold Six who "let the air go slack";
-  - the design session in a hired dry-goods warehouse among the coopers' yards;
+  - the design session in a warehouse hired for the sitting among the coopers' yards (it smells of rope and old grain);
   - the pressure hour in a boarded room with a grounded rail;
   - she can lay a lane "crooked";
   - the lead instructor (stooping, grey moustache);
@@ -421,3 +421,133 @@ I did not run a separate density count.
 11. **Daeva's Storm, from her side** (ch49): asking the air where it leans least; drawing the leaning out along a line; the fire riding the far end; she can lay a lane "crooked". Please check against M9's braided lanes and fold read.
 12. **Daeva's coastal veteran** "let the air go slack" in front of her (a technique, at fifteen). Flagging it in case M9 or B6 wants it.
 13. **"said" density** is 75 per 10k (M7 63). The councils account for most of it. A repair pass can cut tags where the speaker is plain.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, 2026-10-05. Brief: `REPAIR-BRIEF.md` (consolidated from `review-editorial.md` and `review-cold.md`). Pre-repair text frozen by the coordinator in `pre-repair/`. Repaired in reading order, in place, by reading. Each change was an exact-string replacement written by hand, one passage at a time; no script split, joined or reflowed anything. The source chapters were not reopened. I re-entered each tracked scene from the private event list and the editorial's §6 table of opening words, which shows only my own sentences against what they follow. No git command was run.
+
+**Coordinator rulings recorded.** All thirteen flags approved as drafted. Ten protected patterns were added by the coordinator. Two lines were ruled not packet-grade and are re-composed:
+- "Half a beat's a fortune" is now "Half a beat," said Cael. "Then we're rich." This is a callback to Lira's "Anyone else notice we're rich?" at the mill-town stove (ch13), and the narration names it as hers.
+- "the first time anybody's described a floor to me" is now "I don't think anybody has ever just walked one with me and said what they saw."
+
+**P1 — Source tracking (re-composed from the event list, with new entry points and orders; no synonym swaps).**
+- **ch47.** Only tags and D9 (below). The chapter was clean.
+- **ch48 s1, the narrowing.** It now enters by things stopping one after another (a coach's count at *seven*, the mallet), not by things beginning. The Ternhall pair is replaced by a Blade walking out with his lath and his coach after him. "Thirty conversations became twenty" is kept.
+- **ch48 s2, Auremont.** It is told through Lira reading the posted copy and Karis's "found in a drawer in ten years". The source's sentence about the charter having no door is gone. The broadsides' kindness is now one quoted column from a harbour odds-sheet that cannot quote odds on her.
+- **ch48 s3, the board.**
+  - It enters from Ephram stopping at the foot of the steps to fall in last on the outside.
+  - Withrow's absence is noticed before the strip is read.
+  - The formation is felt rather than catalogued, in a new order.
+  - D1 is fixed: "the three bracket finals and the trial's final waited for finals day".
+- **ch48 s4, the long table.**
+  - Withrow's account is now a list: she goes down the filing form box by box (challenger, category, enrollee, office) and turns the form round to its one empty box, *accepted*. "He is at this table. It isn't me." is kept.
+- **ch48 s4, the back room.**
+  - Brom now speaks first, unasked, from the door.
+  - Karis comes second, in new words, still carrying "plan the fight as a *publication*" and "the other thing priced".
+  - Lira's case against is now a run of questions Cael has to answer (the handspan, the tier, four years, "was she trying to hurt you?", who the rules were written for). Her own side comes last.
+  - The decision is a coin carried in the pocket since the trial, not "where it had been at the lane's mouth". The packet line is kept whole.
+  - P2.10: Lira's left arm is "folded high and close, from a habit that had outlasted the week it had been needed".
+- **ch49 (Daeva).**
+  - The design session now enters from the chart wall. She reads its columns and corrects them: the "disruption" was asking a kind man the time. The two-years half-beat joint is gone. The note is now *Opponent insufficient for profile. Revise upward.* "Nothing. It's well designed." became "You needn't. It was made with great care." She ends on "*stranger*", not "*harder*".
+  - The file is "a coat on a hook" (she once read her whole shelf at sixteen).
+  - The composure paragraph opens from the present ("She still did not know which it was").
+  - The ladder now runs down the registry's page of youngests from the top line to the garden, as a well being filled. The registry's love is "the rare coin rather than the bad one".
+  - The Gold Six now enters from the exercise sheet she still keeps (*Corrective: lane integrity under counter-slackening*, twelve drills ticked). The bout is told after the sheet. The ledger line is now *The exercise worked. That was the trouble.* "let the air in front of her go slack" is kept.
+  - "No one her own age" became "her bouts had come in kinds she could name before the flags".
+  - Recognition is now "your own handwriting on an envelope addressed to somebody else", with two doors, one shut and one held, that look alike from outside. "Never been met" is gone.
+  - The risk officer now begins with his signature, then tells the coast. She answers with a question ("What would you need if the only thing in the ring were me?"), and "You haven't brought me an objection. You've brought me a list."
+  - In the room: "Seven years of—" / "You can finish… I counted them too."; counsel reads the heading *Withdrawal of a filing. By the filing party only.*; the head's shoulders let go. "None of it was their fault…" replaces the ladder-in-a-garden. Her hands "knew the curriculum by heart, even on a day when the rest of her had walked out of it".
+  - "You built it very well… If it had been built badly I'd still be climbing" is kept.
+- **ch50.**
+  - The clerk is "sick with nerves" rather than in a lottery.
+  - The agenda is "Umber had written down where the afternoon would end before it started".
+  - "the law had wanted two words from it, the same word twice".
+  - The rider: "like a man knocking on a door he already knows is locked", then the particulars in a new grouping. The delegation head's questions are heard "for the house" and found to be about her.
+  - The ring comes before the people, and the stoppage and healers after the specification.
+  - Umber begins with "You are the parties"; then "He's never thanked anybody for anything in that tower. I asked." Item 47 is verbatim, and "No." and the punctuality line are kept.
+- **ch50, Vastin.**
+  - P2.4: a new anchoring first sentence ("For a year the Archmarshal Vastin had kept the Compact's record on the enrollee… sat in a held chair… written twice, and gone home before the figure").
+  - The seal-press is "screwed crooked on his first morning"; the trays are "in, held, done".
+  - D3: "with no routing slip and no initials".
+  - The river and bridge image is cut: "nothing had come down [the stair] since".
+  - The fourth sort is now "the silence that falls when you have been taken off a list". The four sorts and "This time he would stay" are kept.
+  - The calendar is emptied from the bottom of the page up. The requisition is filled from the sixth line back to the first.
+  - Item 49 is anchored as his thought ("a thought came to him whole … and he let it stand in his head and did not write it down"), kept verbatim, with one blank line.
+- **ch51.**
+  - The inspection enters from Rhagen's ringed staff (Ephram copies their numbers). Karis stamps the saddle and finds it hollow. Brom shoulders the bank. Lira: "The stack hides you for one stride going north. Then you're there."
+  - P2.10: Lira runs "swinging her left arm loose and wide… which she had not done all sitting".
+  - Rooke gives Rhagen's book first and ends "So go and argue with it" / "Go on. Out."
+  - The orphan line is now Bracken's reading of old cycles. The harbour-and-crew image became the city saying *the bluff* "the way it said *the harbour*". Ephram: "They want to see us do third properly." Withrow had watched from the upper gallery till today.
+  - Lira's three lessons are now "three things, in his own order" that the Wind learns. "Robbed by" became "a man who has had his purse taken three times in one street and has started walking down the middle of it".
+  - Calls: *Show him something*; "Brom. West saddle. He's coming before the bell." The captain's measures are a man tapping plaster for the stud.
+  - Consolidation is "the least exciting thing… and the hardest", and the bowl's sound is "a market … when the bell has gone for closing".
+  - Rooke's file line: "I looked for the name today and there wasn't one to write." Marek: "It isn't a method. It's him." The book page is unchanged.
+  - The standings now enter from the house with no line. Halcenvane is "twelfth to be read".
+  - P2.9: "with his notation book" restored.
+- **ch52.**
+  - The party reorders: the cold room first (the keeper: "Not you, I think."), then the ribbon, Bracken and Seln, the lock-keeper and his bell, the coaches.
+  - The crest now enters from the bell *not* ringing; "the moment went where those moments go" is cut.
+  - Withrow's voice is now "the one for rolls and registers".
+  - The toast log: P2.7, "Eighteen years this house waited", and the dash "like a wall".
+  - Lira on the stair: "Karis says I should say it the short way…". The vote on the wording is cut; she knocks on his head "as if she were trying a door". The packet line is kept.
+  - Midnight now enters from the double hammer-stroke heard from his window. The sights come in the order masts, oak island, grid, barrier, seats, crown, trench, then the foreman. "Nobody had a sheet for the other side of the ring." Item 26 is verbatim.
+- **ch52, the ring walk.**
+  - It enters from his trench.
+  - "It would have been stranger if either had stayed away."
+  - The benchmark becomes "the way you correct a figure in a column".
+  - The cables: "find the puddle, and go wherever the puddle goes".
+  - The floor described is "walked one with me and said what they saw".
+  - The break seam: "you'd only feel it once".
+  - The losing exchange: "the only time a floor's ever honest with you"; "they never bothered to close that door".
+  - Her answer: "every rung exactly where my foot would go… they clap".
+  - The stillness is tried "as a woman tries a new knife on her thumb".
+  - The terms are "the way Karis spoke across a table when a thing had been agreed".
+  - Lira's debrief: "what a thing weighed by how he carried it in through a door"; "Go to sleep. I mean it."
+  - Item 51, item 27, "civic event", "Being allowed to", "Both files…" and "Neither number is us" are all kept.
+- **ch53.**
+  - Seln's folders are "a list of warm-up times"; his hand is "the plain round copy-hand… that belongs to nobody".
+  - Rooke: "There were eleven more in that." / "the ones I gave them to were slow the next day"; "nothing on my sheet I can't use".
+  - The eve enters from the eleventh line on the door, then the form's history, with Ephram's food recalled.
+  - The pipe now dies on "you can't turn in nothing" and the river on "It pulls your sleeve"; "My hair didn't move" is kept.
+  - The recall is a doorway looked round. *Permitted.* is "a crowd steps aside for a steward with a staff".
+  - The card is written crouched at the open stove, in three new lines.
+  - Brom: "something to come out of it with"; "whether you were listening"; "Chin in. Arms in." is kept.
+  - The council form: "a tidy story told by the winners". Karis's case turns on the rider's carrying-out clause. Brom: "I'd like to see what I've been holding them for."
+  - The minute is reworded with "before, not after" in sense.
+  - The seal's reason is a loose thread that "comes away in your hand at a counter in the wing". The question-walking and road image is cut. The coat paragraph is kept, and the doubled "nobody wrote it down" is removed.
+  - The slip log, the house at night (the inventory as fingers on a blanket, in a new order) and the clock ("put it back, and be sure of something") are all rewritten.
+
+**P2 — Continuity, anchors and lines (all done).**
+1. ch48: the three bracket finals and the trial's final.
+2. ch52: the ceiling is ADDED at the west mast. "What are they rated to?" She tells him in the masts' terms: four full discharges a head at her assessed ceiling before it runs hot, each cable grounded twice, and the facilities office's half again. Then she gives the sheet's single figure; he says it back once and does not write it down. The log now reads "*I asked her what the masts were rated to, which is the same as asking how much she has, and she told me, to the figure…*". The ledger line above is corrected to match.
+3. ch53: "Yesterday morning in the hall".
+4. ch50: the anchor sentence; "no routing slip and no initials"; the thought-anchor before item 49; one blank line.
+5. ch53: half-clause glosses on three unsealed items, all in Cael's speech:
+   - Wind: "six is where the hip starts sending bills, and past it they come due next morning";
+   - the push: "the shove that moves a man off his feet from a hand's width";
+   - Reydan's give: "the thing that lets a blow land on me and go nowhere".
+   - The spark keeps "two contacts a bout we allow it in public". The sealed thing is untouched and unnamed.
+6. ch49: "For two days she had watched the frame". She was in the crowd for the first morning's hour, back that afternoon for the eastern Silver, and in the warehouse on the second morning, hearing of the rain from the coopers' boys. Zerin's line now says "came down to the frame yesterday afternoon". **ch47 (D9):** the Silver now comes "down to the frame that afternoon, long after the register's hour", with his form "filled in, to be ready for the morning"; "Nobody entered anything."
+7. ch52: "Eighteen years this house waited".
+8. ch52: "The long way is north to south, straight over the top, so that's the longest road downhill in here."
+9. ch51: "with" restored.
+10. ch48: Lira's arm as a habit; ch51: the arm swung free on the hill.
+
+**P3 — Tags and audio.**
+- "said" counts, pre-repair → after: ch47 44 → 23, ch52 45 → 27, ch53 40 → 23. For the movement, 251 → 196, which is 75 → 58 per 10k.
+  - Tags were dropped only where the paragraph already names the speaker.
+  - Every one- to three-word line's tag was kept ("Now," he said.; "No," said Umber.; "Good," said Zerin.), as were the long-table and standings tags.
+  - ch47 lost a little more than a third: the bread stall and Rooke's drill were nearly all two-speaker.
+- ch52: "Lira burst. Cael stood with his eyes shut in the middle of the floor."
+- ch50: one blank line before item 49.
+
+**Declined or partial.**
+- **The close band.** It is 12%, against the brief's "toward 9%". I read every pair at 0.36 and above in all seven chapters after the rebuild. Every tracked sentence and surviving image the editorial tabled has been re-composed or cut. The remaining pairs are what the editorial calls category (c): short, common-pattern sentences matched to unrelated source sentences, such as "He went down to the Concourse at midnight" against "He went off to talk to the staff", or "She looked at him across the fresh floor" against "He looked at her for a while longer". Rewriting these would mean avoiding ordinary English shapes, so I stopped. Skeleton is 2%, and every hit at 0.50 or above is protected or packet wording.
+- **Lengths.** Chapter word counts moved by −0.3% to +2.6% (ch47 −10, ch48 +39, ch49 +133, ch50 +40, ch51 +63, ch52 +125 including the added ceiling exchange, ch53 +42). Movement prose went 33,340 → 33,781. No scene changed its shape.
+
+**After repair.**
+- `ed.sh gates`: 0 on all seven chapters.
+- `ed.sh overlap`: **0 unprotected**, 27 protected.
+- `sweep_probe.sh … 8 8`: **skeleton 2%, close 12%** on 1,494 sentences. Pre-repair it was 2% / 14%. By chapter: ch47 1/7 · ch48 3/13 · ch49 0/12 · ch50 2/11 · ch51 1/11 · ch52 3/13 · ch53 3/12.
+- `formula_metrics.py`: prose 33,781 · mean 13.24 · ≤5 28.3% · ≥40 4.2% · paragraph median 29 · words/scene 1,024 · FRE 88.3 · FK 4.24. All are within the working ranges.
+- All §10 items in the movement were re-verified by `grep -F` after the last edit: 13, 14, 15, 25, 26, 27, 28, 47, 48, 49, 50, 51, 52, 60 and §7.1.

@@ -6,21 +6,27 @@ The program had hired the building for the length of the sitting. It stood on th
 
 The opponent had been built for her out of three senior practitioners from the program's own staff. The design staff had drawn the scenario from her projected profile for the next rank up, and they had drawn it well. She could see the care in it the moment the three came on: the way they spread, the way the middle one kept a half-step back so that either of the others could fall on him and find him there.
 
-It took her eleven minutes. She used perhaps three-quarters of what she had.
+She was done a little after the gallery clock's tenth minute, and she had kept something back the whole time without meaning to, from habit.
 
-She did not need the first few minutes for anything but listening. The three of them talked on the floor without words, in small changes of weight and turns of the head, and she knew the language at once, because the program had taught it to all four of them in the same hall from the same book. After that it was a matter of choosing where to stand. She laid one lane, early, not at any of them but along the line their correction would have to take, so that when they corrected they arrived where she already was. Then she found the two who trusted each other most. They had trained side by side for two years, and each would step into a space a half-beat sooner than the design allowed, because each was certain the other would be there. She went in through that half-beat. What was left after that she did as neatly as she could, which in her plain notebook that night she called tidying up, because that was what it was.
+The chart was on the wall before she had stopped breathing hard. The design staff were quick and honest and the chart was both; she stood in front of it with a towel round her neck and read their account of what she had just done, and found that every line of it was true and that it had missed the only part that mattered.
 
-The chart was on the wall before she had stopped breathing hard. It had four columns in the design staff's best hand and was, as their charts always were, both careful and true. The note under it said *solution economical; recommend added complexity in the next design*. She had seen that note before. She had seen it the last time, and the time before that, in the same words.
+*Phase one: assessment,* said the first column. That was fair. She had stood and let them talk to each other on the floor, in weight and in small turns of the head, and they had talked in the language the program had taught all four of them, and so she had understood every word.
+
+*Phase two: disruption of the coordinating member.* That was where the chart went wrong. She had not disrupted him at all. She had noticed that the middle one, the one who kept half a step back, was kind. He was there to be fallen on. Whenever either of the others was pressed, he was where they would land. So she had not pressed the others. She had laid one lane, quietly, along the place where he would have to go to be kind, and waited, and he had gone there, because he always did. The chart called it disruption. It had been more like asking a man the time.
+
+The third and fourth columns were the rest, and the rest was only being neat. In the marbled notebook that night she would write *tidying* beside them, and nothing else.
+
+Under the chart, in the senior designer's hand, was the note. *Opponent insufficient for profile. Revise upward.* She had a small drawer of those at home, all in the same hand, all saying the same thing.
 
 Her lead instructor came down the gallery steps afterward with his hands behind his back.
 
-He had taught her since she was thirteen. He was a stooping, kindly man with a grey moustache and a way of tipping his head when he looked at her, as a mason tips his head at a wall he has built and is privately proud of. He asked her the question he asked after every session: what she would like done differently next time.
+He had taught her since she was thirteen. He was a stooping, kindly man with a grey moustache and a way of tipping his head when he looked at her, as a mason tips his head at a wall he has built and is privately proud of.
 
-She looked at the wall. Three good people, reduced to four columns and a note.
+"We'll make it harder," he said. "Next time. I'll see to it."
 
-"Nothing," she said. "It's well designed."
+"You needn't," she said. "It was made with great care."
 
-He nodded, pleased, and went to talk to the staff. It was perfectly true. It had been true every time for four years. The program could design her anything in the world to fight, except the only kind of opponent she had ever wanted, which was one whose ending she could not already see from the start.
+He was pleased; she could see it in the set of his moustache. He went off to talk to the staff. She stood in front of the chart a little longer with the towel round her neck. *Harder* was the only direction they had ever known how to build in. It had not once occurred to anybody, in seven years, to build her something *stranger*.
 
 ---
 
@@ -40,7 +46,7 @@ Zerin did not usually seek anybody out. She did not, as a rule, spend anything s
 
 "Nobody is."
 
-"The Silver from the east house went to the register yesterday with a form in his hand. Half the tunnel watched him put it back in his coat."
+"The Silver from the east house came down to the frame yesterday afternoon with a form in his hand. Half the tunnel watched him put it back in his coat."
 
 "I saw," said Daeva.
 
@@ -80,7 +86,7 @@ It gave his name, and his house on the bluff above some northern river, and the 
 
 She had read that line with a feeling she had not at first been able to name. Then she had named it. It was the feeling of opening somebody else's book and finding yourself in it.
 
-The file told her everything he had done and nothing of what it had been like to do it. She knew that sort of document. The program had a shelf of them about her at home, in the archive on the third floor, bound in Auremont's blue and kept by clerks far better than any shop could hire. Every page on that shelf was true. Not one of them was her.
+She knew what kind of thing it was because she was the subject of one. At home in Auremont's archive there was a whole shelf of her, bound in the house's blue, kept by better clerks than this shop would ever afford, and once when she was sixteen she had sat down and read the lot from the first volume to the last to see whether she could find herself in it. She had found her results, very accurately recorded. It had been like looking at a coat on a hook, holding the shape of somebody's shoulders, with nobody inside.
 
 She did not try to work out from the file what he was. She caught herself not trying, and wondered at it, and decided after a while that she did not want to learn it from paper. She had been a stride from him on a floor. If there was anything to find out, she would find it out the way she had found out everything worth knowing in her life, standing up.
 
@@ -100,7 +106,7 @@ It was a history of the coastal leagues, and she had taken it off the shelf of t
 
 The court went quiet.
 
-Not the birds; the birds had been quiet already. The court. The gravel and the box hedges and the pear leaves went still in a way she had never seen anything go still, as though the whole garden had stopped to listen for something. The light had not changed in the sky. It had changed in the court. It lay on the paths differently. It lay on her hands on the book differently.
+Not the birds; the birds had been quiet already. The court. The gravel and the box hedges and the pear leaves went still in a way she had never seen anything go still, as though the whole garden had stopped to listen for something. Overhead the sky was exactly as it had been. It had changed in the court. It lay on the paths differently. It lay on her hands on the book differently.
 
 She looked up and the sigil was there, at the height of her face, an arm's length off.
 
@@ -114,21 +120,21 @@ And because she did not understand, and because asking was what she always did w
 
 An instructor was crossing the far side of the court with an armful of slates. He saw, and stopped, and stood there with the slates until it was over, and afterwards he wrote an account of it for the school's records, and the registry copied the account into hers. She had read it many times since. It was a kind account. It described a child who showed no fear and addressed the sigil with remarkable composure, and he had underlined the word composure, twice.
 
-It had not been composure. She knew that now. She had wanted to know. She had wanted to know, sitting there with her finger in a book, whether the world's timetable had made a mistake about her or whether she was the mistake. It was the first time she had asked it. She had been asking it in one form or another ever since, and nothing had ever answered.
+She still did not know which it was. That was the part the instructor had missed. What he had seen was a calm child. Under the calm there had been a question with two halves, and she had wanted very badly for the sigil to choose between them: had the timetable got her wrong, or was she the thing the timetable had been right to leave out? She had been waiting on the choosing ever since, at thirteen and fifteen and seventeen and now, in rooms all over the continent, and nobody had made it.
 
 The sigil did not answer either. It did what they do. Then the light was ordinary again and the pear leaves moved, and the instructor's slates were all over the gravel, and he was running.
 
-The registry, when it heard, was delighted.
+There was a page in the registry's book of records with her name on every line.
 
-It checked her twice and a third time and entered her with a note. Kindlings a year ahead of the law were so rare that its tables kept count of them by the century and had never needed more than one hand to do it. Then the classification came back, inside the hour, and it was Storm. Storm was rarer still. It worked the weight of the air and the fire in the air through one channel, so that a single practitioner could press a long road flat through a room and send a spark down it. The registry kept its living Storm practitioners on a single page. Hers was the last name on it, in new ink.
+She had seen it once, at a ceremony, open on a stand under glass. The top line was the newest: Gold, Rank Three, at nineteen, youngest. Above that, because the page was kept from the bottom up like a well being filled, were the others. Gold at seventeen, youngest; that ceremony had been full of people from houses she had never seen, who shook her hand one after another and told her what it meant. Silver at sixteen. Iron at fourteen. Every line had the same word at its end.
 
-The machine that sorted the continent had a great many things it was afraid of and only a few it loved. She had always been able to see which she was. She was a wonder that fitted, exactly, into a box it had built long before she was born.
+At the very bottom of the page, in the oldest ink, was the first line, and it was not a rank at all. It was the garden. A Kindling a year ahead of the law, checked three times and entered with a note, of a kind the registry's tables counted by the century and had never needed more than one hand to count. And the classification, which had come back inside the hour: Storm. A Path that worked the weight of the air and the fire in the air through one channel. The registry kept all its living Storm practitioners on a single sheet, and hers had been the newest name on it.
 
-Auremont had picked her out the year before, from the feeder school's first examinations, and taken her into the program at twelve, and kept her close, and waited for the hour it was sure would come. When it came she was given rooms of her own and a timetable and a lead instructor, and from that morning her life was arranged.
+She had understood early what the registry felt about her, and it was not fear. There were things that came out of the sorting that frightened it, and it shut them away. She was the other sort, the rare coin rather than the bad one: the kind a collector loves, because it is worth a great deal and fits the tray he already owns.
 
-People spoke of climbing. She had not climbed. The ladder had been brought to her a rung at a time and set where she could step onto it. Cohorts were gathered round her own age, and when she outgrew them they were gathered again from older children. Floors were rebuilt to her measure. Evaluators came early, before their stations opened, to see her before anybody else was in the building. She was Iron at fourteen and Silver at sixteen and Gold at seventeen, which nobody had been before, and at the ceremony men and women from houses she had never seen shook her hand one after another and told her what it meant. She was Gold, Rank Three, at nineteen. In the registry's book of records there was a whole page now with her name on every line of it, each line a youngest, one after another down the page like steps.
+She had been Auremont's since twelve, a year before the garden. The house had seen something in a set of entrance papers and sent for her, and kept her near, and waited for the rest. Afterwards nothing in her life had been left to happen by itself. Whole classes were assembled round her and broken up again when she grew past them. Stations opened early so that an evaluator could see her before the day began. Floors were relaid to her measure. Other people spoke of climbing; she had never once had to look for the next rung. It was always there, put down where her foot would go, by people who were very good at their work.
 
-The day of the garden court was kept at Auremont as a half-holiday. There was a demonstration in the afternoon.
+At Auremont the day of the garden court was a half-holiday now. There was a demonstration in the afternoon.
 
 She kept one record of her own. It was a stationer's notebook with marbled covers that lived in the lining of her travelling case, and she wrote in it seldom, perhaps once a month, and nobody in the program knew it was there. On one of its first pages, when she was sixteen, she had written down a word for herself that she had never said aloud.
 
@@ -136,17 +142,19 @@ She kept one record of her own. It was a stationer's notebook with marbled cover
 
 She had not written it in anger. She had thought about it for weeks before she set it down, and it was simply the right word. A specimen was found, and kept, and labelled, and shown to visitors in a good light. It was very well cared for. Nobody ever asked it anything.
 
-It had been four years since she had fought anybody who might have beaten her.
+Behind the notebook, in the same lining, was one sheet of the program's paper that she had never thrown away.
 
-She could put a day to the last time. She had been fifteen and still Iron, and the program had taken her to an exhibition on the coast where the category allowed fighters of different tiers to meet, and matched her with a Gold, Rank Six, a big quiet man from one of the border guilds with grey in his beard and a lifetime of rough weather in his hands. In the second exchange he had done a thing nobody had ever shown her. He had let the air in front of her go slack. It was nothing to look at. But the lane she had laid out hard had gone soft at its far end, like a rope paid out a yard too far, and she had been set down short and turned half round and left standing, for one long breath, in the open.
+It was an exercise. The heading said *Corrective: lane integrity under counter-slackening*, and under it were twelve drills in the design staff's hand, with a tick against each one in hers. She had done them at fifteen, every morning for a month, until she could hold a lane hard to its far end whatever anybody did to the air in front of it. They had worked. Nobody had been able to do that particular thing to her since.
 
-She had not known it was possible. She spent the next two exchanges more awake than she had been in her life. She won, by a little. That night she lay on her bed in her kit with her boots still on and could not sleep, not from fear, but from joy, the strange bright joy of having not known.
+The man who had done it first was a Gold, Rank Six, from one of the border guilds: big, quiet, grey in his beard, with a lifetime of rough weather in his hands. It had been an exhibition on the coast where the category let tiers meet, and she had been Iron, and fifteen. In the second exchange he had let the air in front of her go slack. That was all. There was nothing to see. But a lane she had laid out hard went soft at its far end, like a rope paid out a yard too long, and set her down short and half turned, and for one long breath she had stood in the open not knowing what would happen next.
 
-A week later the program reviewed the bout. It found the gap in her preparation and wrote her an exercise for it, and she did the exercise until she could do it in her sleep, and the gap closed, and nobody ever opened it again.
+She had won, narrowly, two exchanges later, and they had been the most awake two exchanges of her life. That night she had lain on her bed with her boots still on until the window went grey, too happy to sleep. She had not been able to say then what the happiness was. It was years before she could, and by then it was gone.
 
-She had been grateful. She was fifteen, and grateful was what she was taught to be. Years went by before she understood what that exercise had cost her. When she did, she opened the marbled notebook and gave it a single line. *They mended the one thing left that could still surprise me, and never thought to ask whether I wanted it mended.*
+Seven days after that bout the design staff had sat down with the record of it, and the sheet had been the result.
 
-There was nobody after that, and there could not be. A Gold of nineteen has no one her own age. The Silvers who fought her exhibitions were brave and lost. The old Golds were kind and lost carefully. Her program bouts were measurements and her tournament bouts were processions. She was courteous through all of it, as she had been taught, and she had never in her life not done what she had been taught.
+She kept it because it was the only honest record of what had been done to her. She had written one line about it in the marbled notebook, the year she turned seventeen. *The exercise worked. That was the trouble.*
+
+It had been four years. Since then her bouts had come in kinds she could name before the flags went up. There were the brave Silvers, who lost. There were the old Golds, who lost carefully, with their dignity held up in front of them like a shield. There were the program's measurements, and the tournament's processions. She shook every one of them by the hand afterward and thanked them. That had been taught to her too, along with everything else.
 
 ---
 
@@ -162,21 +170,21 @@ What she went back to was after.
 
 He had been standing at the edge of the wash, with his hair lifted off his neck and the air pushing at him. And he had looked back up the lane at her, through all of it, steadily. He had looked at her feet first, and then her hands, and her shoulders, and last her face. She knew that look very well. She had worn it every day for six years when she looked at anything. She had never once seen it turned on her.
 
-Everybody else saw what was printed about her: the records, the lane, the blue banner, the girl in the woodcuts with a storm drawn round her head. They had looked at her like that, fondly, since she was thirteen, and she had grown up inside their looking the way a pear grows up inside a net.
+Other people's looking went past her. It always had. It went to the banner over her house's gate and the column in the broadside and the girl in the woodcut with the storm drawn round her head, very fondly, and she had grown up inside it the way a pear grows up inside a net.
 
-He had looked at her.
+His had not gone past.
 
-It was not curiosity she had felt, standing in the middle of an exchange she was winning with eight thousand people on their feet. She had stopped for one whole second because she had recognised something, and it had taken her the rest of that day and half the night to say to herself what it was. He was the only other one. The only fighter of her years about whom everybody talked and whom nobody had managed to weigh. The continent had handled the two of them in opposite ways. It had shut him out because he frightened it and lifted her up because she pleased it, and it had come, in the end, to exactly the same thing. Neither of them had ever been met.
+She had stopped for one whole second, with eight thousand people on their feet and an exchange half won, and it had taken her the rest of the day and half the night to let herself use the word for why. It was not curiosity. Curiosity was what she felt about floors. This had been the other thing, the jolt of seeing your own handwriting on an envelope addressed to somebody else. There was one other fighter of her years whom the whole continent talked about and nobody had managed to weigh, and she had been a stride from him. They kept a door shut in his face because he frightened them. They held a door open for her because she pleased them. And from the outside, she thought, the two doors looked exactly alike: nobody had ever asked either of them whether they wanted to come through.
 
 She had not filed that night. She had stood at this same glass and decided to wait.
 
-She had watched the frame in the north tunnel for two mornings, with her hood up, from across the tunnel's mouth, among the crowd. She had watched the steward unlock his case and read his book and lock it again. She had seen the Silver from the east house fold his form back into his coat. She had read the broadsides asking who would fight the enrollee, and heard the betting rows cry their price on nobody. She had given the city two days to find him somebody from below.
+For two days she had watched the frame in the north tunnel, with her hood up, from the back of whatever crowd was there. On the first morning she had stood through the steward's whole hour and seen him unlock his case and read his book and lock it again. That afternoon she had gone back, she could not have said why, and been there when the Silver from the east house stood in front of the empty line and put his form back inside his coat. On the second morning she had been in the warehouse, taking a committee apart, while two hundred people stood in the rain to watch nothing happen; the coopers' boys had told her about it at noon. She had read the broadsides asking who would fight the enrollee. She had heard the betting rows cry their price on nobody. She had given the city two days to find him somebody from below.
 
 Nobody had come. Nobody was going to. And the category, which had waited three hundred years for something it could not do without, was dying in front of everybody for having done its work too well.
 
 She wrote the form before dawn on the third day, by one candle, at the table under the glass.
 
-It was the category's printed form. She had taken a copy from the rack in the north tunnel on the first of the two mornings, without telling herself why. She wrote her name and her house in her best hand, and *Gold* in the box for tier, and *Three* beside it. Then she sat a long time with the pen lifted over the last box, the one that asked for a reason.
+It was the category's printed form. She had taken a copy from the rack in the north tunnel on the first of the two days, without telling herself why. She wrote her name and her house in her best hand, and *Gold* in the box for tier, and *Three* beside it. Then she sat a long time with the pen lifted over the last box, the one that asked for a reason.
 
 She could have put a page of true sentences there. She did not want any of them. They were explanations, and explanations were for people who expected to be argued with.
 
@@ -216,53 +224,59 @@ The risk officer caught her on the stair at a little before noon.
 
 He had plainly been waiting for her on the landing. He was a thin, careful man with ink in the creases of his cuffs, and he had written every protocol she had fought under since she was thirteen, and in all that time he had never once been on the far side of an argument from her. He looked as if he did not care for it.
 
-"They'll ask for you in a quarter of an hour," he said. "The head's office. All of us. I'd rather say mine to you here first, if you'll let me, because it's the only one that isn't about the program."
+"They'll send for you in a quarter of an hour," he said. "I'd like a minute first. Mine's the one objection you'll hear that isn't about the program."
 
-"Say it," said Daeva.
+She waited.
 
-"There are masts in every hall you've fought in since you were sixteen. There's a setback on the front rows and a rating on every floor." He did not look away from her. "That's all because of one afternoon on the coast, a long while before you were Kindled. A Gold lost hold of his discharge in a hall with nothing in it to catch it. It went into the front rows. Four people who had paid to watch him died there." He let a breath go. "When you fight anybody of your own tier, I can price it. I've priced every bout you've ever fought, to the last figure. Against a fighter with no tier at all I can't price anything. And when that sheet goes up, the signature at the bottom of it is mine."
+"My name goes on the bottom of the safety sheet," he said. "It always has. Every bout since you were thirteen." He turned the pencil in his fingers. "Do you know why there are masts? You've never asked. A long while before you were Kindled there was an exhibition on the coast, in a hall nobody had thought to fit for it, and a Gold lost hold of what he was carrying. It went into the front rows. Four people who had paid to watch him died there." There was nothing extra in his voice at all. "Since then, wherever you go, I order masts, and a setback, and a rated floor, and I work out the risk against whoever's standing across from you, and I sign it. I can do that for anybody with a tier. I've done it every time. I can't do it for him. There's nothing to work it out against."
 
-She had known it would come, and that it would come from him, and she had thought about it longer than about anything else.
+She had known this would come, and from him, and she had thought about it longer than about anything else.
 
-"Then price me against myself," she said. "Order the masts at my ceiling. Order the barrier up and the rows back and the floor laid new over whatever frame your engineers want under it. Rate the whole ring as if the only thing in it were me. That's the one measure your office has never once had wrong." She said it gently. He was right about his trade, and she had been taught very early not to mistake a good man's skill for something standing in her way. "I'll sign whatever you need. I'll sign before anybody else does. It's a real objection, the only real one anybody's going to make today, and it's an engineer's objection. Give it to your engineers. They'll have answered it before the week's out."
+"What would you need," she said, "if there were nothing at all across from me? If the only thing in the ring were me?"
 
-He looked at her for a while longer. Then he took a pencil out of his cuff and a folded paper from his pocket, and began to write on the paper against the wall, there on the stair.
+He looked at her. "Masts at your ceiling. The barrier up. The rows back. A floor rated for you, on a frame."
+
+"Then order those," said Daeva. "All of them. Price the ring as if I were alone in it. You know exactly what I am to the last figure; you've written it down for six years. Put the paper in front of me and my name will be on it first, above the head's." She said it gently. "You haven't brought me an objection. You've brought me a list. Give it to your engineers."
+
+He looked at her for a while longer. Then he took a folded paper from his pocket and began to write on it against the wall, there on the stair.
 
 She went on down without him, and he came in a minute behind her with the paper still in his hand.
 
 The room was the delegation head's office for the sitting: a borrowed room on the second floor of the house, with a thick carpet and somebody else's founder painted over the fireplace. Four chairs had been put out in a curve facing the door. There was not one for her.
 
-The delegation head saw it at the same moment she did. He was a tall man running to grey, heavy in the shoulders, who had headed the program's delegations since she was fourteen, and he went a dull red to the ears and got up out of his own chair behind the desk and carried it round to her himself, as if it weighed a great deal. She thanked him and sat in it. He stood by the fireplace instead, with his hands clasped behind him, and for a moment nobody in the room could think how to begin.
+The head noticed the missing chair when she did. He was a tall man running to grey, heavy in the shoulders, who had headed the program's delegations since she was fourteen, and he went a dull red to the ears and got up out of his own chair behind the desk and carried it round to her himself, as if it weighed a great deal. She thanked him and sat in it. He stood by the fireplace instead, with his hands clasped behind him, and for a moment nobody in the room could think how to begin.
 
 The lead instructor had the first of the four chairs. He sat with his hands on his knees and looked at the carpet. In the last chair was a young woman from the program's counsel with a folder on her lap. Between them sat a newer man on the staff, upright and eager, whom Daeva did not know well. The risk officer took the chair that was left and went on writing on his knee.
 
-"I won't read you the objection," said the head at last. "You'll have read it. You read everything." He looked at the painted founder rather than at her. "I'll only say that it was written by people who are fond of you, in a hurry, and that every line of it is true. A filed bout was never meant for this. The underwriters have no table for it. Nobody has ever done it, and that is a reason all by itself." He breathed out. "And in a few days you are to stand at the closing in front of every house on this continent with our banner behind you. That's all. That's the whole of what the program has to say."
+"I won't read you the objection," said the head at last. "You'll have read it. You read everything." He looked at the painted founder rather than at her. "I'll only say that it was written by people who are fond of you, in a hurry, and that every line of it is true. A filed bout was never meant for this. The underwriters have no table for it. There's no bout like it on any record anywhere. I'd hoped that would be enough." He breathed out. "And in a few days you are to stand at the closing in front of every house on this continent with our banner behind you. That's all. That's the whole of what the program has to say."
 
 "Thank you," said Daeva. She meant it.
 
 The eager young man could not leave it there.
 
-"With respect," he said, sitting forward, "when you think what the program has put into—"
+"Seven years," he said, sitting forward. "Seven years of—"
 
-He stopped, because the lead instructor had turned his head toward him, and the counsel's young woman had dropped her eyes to her folder, and the head had moved his weight from one foot to the other by the fireplace. Every one of them had done it to spare her the sentence. She had seen every one of them do it.
+The lead instructor turned his head. The young woman from counsel looked hard at her folder. The head shifted his feet by the fireplace. They had all moved at once, to stop him, and they had all done it so that she would not see, and she had seen all of it.
 
-"Say it," she said. There was no heat in it at all. "It's true. Seven years. I watched each of them go in. I know what I've cost."
+"You can finish," she said, quite kindly. "Seven years. I counted them too. I was there for every one."
 
-"So you see," said the young man, rather red, "what the program is asking of you."
+The young man had gone red to the collar. "Then surely you can guess what the program hopes for."
 
-"I see what it would like." It was the curriculum's kind of answer, exact and polite, and she left it lying on the carpet for them to look at. Then she turned in the head's chair toward the last of the four.
+"I know what it would like." She let that lie on the carpet between them, polite and exact, and turned in the head's chair to the young woman at the end.
 
-"You've brought the papers," she said to the young woman from counsel. "The charter. The program's covenants. The registry's schedules. Will you tell the room what any of them says about who may take back a filing that a practitioner made in her own name, in her own hand?"
+"You've brought the charter," she said, "and the covenants, and the registry's schedules. Is there a heading in any of them for withdrawing a filing?"
 
-The young woman opened the folder. She turned three pages, slowly, though Daeva was sure she knew where she was going, and found the place, and looked at it. Daeva had read the same pages two nights ago in the program's travelling library by one candle, and she knew what was there.
+"There is." The young woman opened the folder and turned to it at once; she had marked it. Daeva had read the same page two nights before, by one candle, in the program's travelling library.
 
-"Nobody may," said the young woman. She said it to the folder. "It doesn't say anybody may."
+"Read it, please."
 
-The risk officer was still writing. The head, by the fireplace, looked down at the paper on the man's knee and read it upside down, and Daeva watched him understand what it was. It was not an objection at all. It was an order to the facilities office, for masts. The head looked at it for a long moment and then up at the painted founder again, and she saw him know, before anybody else in the curve of chairs, that the meeting had ended some time before it started.
+"*Withdrawal of a filing,*" read the young woman, to the folder. "*By the filing party only.*" She looked up. "That's all it says."
+
+The risk officer was still writing. The head, by the fireplace, looked down at the paper on the man's knee and read it upside down. It was not an objection at all. It was an order to the facilities office, for masts. Daeva watched his shoulders let go, very slightly, the way a man's do when a weight he has been bracing for turns out to have been put down already by somebody else.
 
 "Then the objection is noted," said Daeva, in the program's own phrase.
 
-She thanked them, each in turn, and meant it every time. They had built her ladder honestly, out of skill and care and a great deal of money. It was not their fault that she had climbed to the last rung of it, and looked round, and found herself standing in a garden with nowhere further to go.
+She thanked them, each in turn, and meant it every time. None of it was their fault. They had done precisely what the house had promised her family when she was twelve, and they had done it superbly, every one of them, for seven years.
 
 The lead instructor came after her onto the stair.
 
@@ -276,7 +290,7 @@ She thought about it properly, because he deserved a proper answer.
 
 He took that, and turned it over, and did not seem to know what to do with it. After a while he nodded, and put his hand on her shoulder for a moment, which he had not done since she was thirteen, and went back up the stair.
 
-She went to her afternoon session at the warehouse and ran it without a single fault, because the curriculum still held, though its subject had stopped being the thing it made.
+She went to her afternoon session at the warehouse and ran it without a single fault. Her hands still knew the curriculum by heart, even on a day when the rest of her had walked out of it.
 
 In the evening she went down to the outer court with her hood up and read the house's objection where it had been posted among everybody else's papers. It was careful and kind and long. She did not answer it.
 

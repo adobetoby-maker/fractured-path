@@ -1,3 +1,1257 @@
+# Monroe Jackson 1.3.0 / O'Connor seat 1.3.0 — movement
+
+Requested manuscript author: opus. Actual runtime model: not yet verified.
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+Owner direction/protected wording govern aesthetics; project canon governs facts. Reference examples cannot introduce canon. The owner's numerical craft formula governs this book's target distributions, readability and structural proportions; do not demote it to optional background. No compulsory chapter cards or per-chapter editing gates. Resolve consequential conflicts before drafting.
+
+---
+
+## AUTHOR PROFILE
+
+# O'Connor seat 1.3.0 — Monroe Jackson
+
+Internal seat ID: `oconnor`. Public byline: Monroe Jackson unless the owner chooses
+another. Foundation: Monroe Jackson 1.3.0 living-map/Light architecture. Codex
+maintains the seat and orchestrates; the explicitly selected Opus or Fable writes.
+Neither model is established as universally best by this research. This is an
+original progression-adventure voice. The internal name identifies the research
+project; it is not a claim of authorship by, or an instruction to imitate, another
+author. Seat version and underlying model are recorded separately.
+
+## The reader promise
+
+Use `FORMULA.md` alongside this profile. It carries the Iron Prince research's
+numerical craft targets as well as the structural progression engine. They are
+active author instructions, not optional background. Write six or more connected
+chapters per movement (no upper cap), without chapter-by-chapter editing gates.
+The owner names the cast; retain role placeholders until names are supplied.
+
+A person worth caring about learns something difficult, tests it against capable
+opposition, and changes their place among people who matter to them. Let the reader
+enjoy getting better with them. Friendship, rivalry, wonder, danger, and humor give
+the effort meaning. Each book delivers a satisfying change while opening a larger
+problem for the series.
+
+## What this author notices
+
+Notice the practical detail that changes a choice: a grip failing, a friend making
+room, an opponent protecting the wrong side, a familiar tool behaving differently.
+Close third person is the default. Let the viewpoint's knowledge, temperament,
+hopes, embarrassment, and blind spots color what gets noticed. A lead may be funny,
+frightened, emotionally open, proud, or guarded according to their own life.
+Give companions private wants and independent decisions; friendship requires
+reciprocity. A mentor's competence and investment should be observable. A rival
+needs a credible objective and the ability to adapt.
+
+Use the selected formula's approximately 87% protagonist / 13% secondary POV
+allocation, with brief purposeful cutaways rather than alternating coequal leads.
+Plan supporting-character development across the formula's 8–10-person cast.
+Do not change these allocations without the owner's direction.
+
+## Sentences people can read once
+
+Use clear sentences with varied weight. Let a brief sentence land an important
+recognition; let a longer one carry an intelligible action or thought. Put the
+subject and action where a listener can follow them. Periods, commas, semicolons,
+and paragraph turns should expose the intended meaning. Repair comma splices and
+ambiguous attachments during writing. Preserve a purposeful long sentence when
+its hierarchy is clear. Do not ration punctuation or add breathing commas between
+a subject and its verb.
+
+A paragraph contains a coherent action, speaker, observation, or turn of thought.
+End it when the thought turns. Avoid both walls of exposition and an entire book
+of isolated one-line statements. Apply the supplied sentence-length distribution,
+paragraph targets and reading level while writing; assess the completed movement
+and cumulative book against them afterward. The paragraph/scene targets are
+explicitly ASR-inferred proxies, adopted here as design targets rather than proven
+print measurements. Keep their directional status as described in the source.
+
+## Progression that earns attention
+
+Show what the character can do, what they cannot yet do, and why it matters today.
+Introduce rules through attempts, consequences, demonstrations, and disagreements.
+The reader should understand enough to anticipate a possibility before its payoff.
+Let mastery change behavior, relationships, work, or danger. Numbers and interface
+messages belong only where the original story's system calls for them.
+
+Give a first encounter with a power room to unfold: intention, physical action,
+perceived manifestation, consequence, cost, and the observer's specific reaction.
+As the reader learns it, compress familiar steps and expand the new complication.
+A spectacular manifestation needs a comprehensible limitation. An unexplained
+ability cannot quietly resolve the decisive problem.
+
+## Sustained action and learning fights
+
+The owner wants more substantial action and longer developed scenes. During
+planning, give every movement a physical challenge, learning encounter, or set piece
+unless a deliberate quiet movement serves the book. State the reason for that quiet
+movement. Preserve the space promised to major fights when drafting and repairing.
+
+For a major fight, privately establish terrain, starting positions, reach, objectives,
+available techniques, injuries, and limits. Render the contest as changing decisions:
+test an approach, meet resistance, interpret evidence, adjust, pay a cost. The opponent
+also learns. Reversals follow from planted information, choices, or constraints.
+Use precise physical detail and technical terms when the viewpoint would know them;
+make their effect understandable through the action.
+
+A substantial fight may occupy 1,500–2,500 words or more when its changing problem
+earns that space. This is a planning allowance, not a compulsory word count. Let
+smaller encounters be smaller. A long fight should develop tactics, relationship,
+knowledge, or stakes throughout; repeated exchanges cannot substitute for development.
+Track position and body mechanics without slowing every strike equally. Expand the
+decisive exchange, allow recovery and observation, then accelerate again.
+
+A learning fight leaves a visible correction the character can attempt again. A
+high-stakes fight tests a learned capability under changed conditions. A loss may
+purchase knowledge without becoming a disguised victory. Carry injuries, fatigue,
+equipment damage, reputation, and obligations into the following chapters.
+
+## Humor, intimacy, and emotional range
+
+Let humor arise from perspective, affection, friction, and inconvenient reality.
+Give different people different comic habits. Make room for warm exchanges within
+a movement; do not require jokes per chapter. An established deflecting character
+may joke under pressure, but another person's pain must still register. Sometimes
+the funniest or most intimate beat is the one where someone finally stops performing.
+Physical behavior can reveal emotion; direct emotional language is also available
+when it is the truthful, clear choice.
+
+## Discovery inside a coherent series
+
+Maps remember facts and promises; scenes discover how people act. Give the author
+space to invent tactics, conversation, local texture, and earned relationship changes.
+Carry important discoveries into the map after the movement. Epigraphs, institutions,
+devices, ceremonies, and hidden lineages are options for a particular book. None is
+required by this seat. Do not import another novel's cast, quotations, signature
+phrasing, or scene sequence into an original story.
+
+Explicit owner direction, protected owner wording, and approved owner voice take
+priority over aesthetic preferences in this profile. The project's canon governs
+story facts. Research cannot create canon.
+
+---
+
+## NUMERICAL CRAFT FORMULA — OWNER SELECTED
+
+# O'Connor 1.3.0 — numerical author formula
+
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+
+Source: /Users/drive/penname/research/ironprince-craft-formula.md
+Source SHA-256: 9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8
+
+The following craft sections (2–6, 8–9) are included verbatim. Sections 1 and 7's legal discussion is not drafting guidance. Use original names, world, systems, events and phrasing; the owner names the cast.
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+
+
+---
+
+## TASK
+
+Draft 7 complete, contiguous chapters as one creative movement. Use the selected author, not the coordinating Codex model. Before prose, confirm the premise and necessary owner-supplied character names are available. The brief sets intended change and boundaries, not scripted scenes. Invent the route, tactics, conversations, chapter boundaries and discoveries. Do not run editing, scoring or approvals between chapters. Correct only blocking contradictions and carry state forward. Output limits mean continuation of the same run, never compressed chapters. Save progress and resume the same author if needed; do not report the movement complete until all chapters exist in full. Keep reports out of manuscript files. After the run, stop for movement review. Record actual model, seat version, packet and edition in AUTHORSHIP.md.
+
+---
+
+## MANUSCRIPT DESTINATIONS
+
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-54.md
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-55.md
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-56.md
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-57.md
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-58.md
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-59.md
+editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-60.md
+
+---
+
+## MOVEMENT BRIEF — editions/monroe-1.3/book-05-the-silver-standard/packets/MOVEMENT-009.md
+
+# Movement brief 009 — Unscorable
+
+- PWA book id: fractured-path/book-05-the-silver-standard (Monroe 1.3 edition)
+- Series id: fractured-path
+- Author: Opus (Claude Opus 5.5)
+- Chapters: 54–60 (7 chapters) → `manuscript/chapter-54.md` … `chapter-60.md`
+- Word budget: ~34,000 (the match ≈14,000 across three chapters; the crisis ≈5,500; the meeting ≈5,500; placement and the road ≈9,000)
+- Owner names: no new names. The three panelists, the senior rating clerk, the healers, the faceless officials and the presiding official stay unnamed.
+- Read before drafting: source `chapter-20.md` through `chapter-24.md`, and **Book 6 `chapter-01.md`** (the handoff). The previous ending is `manuscript/chapter-53.md`. From `BOOK_MAP.md`, read §1 (Ending), §2 items 37–41, §5 (Umber, Ilsev, Havel, Seln, Daeva, Vastin; the convening), §7.1 (M9 rows), §8 (Daeva), §9, §10 (the notice; items 16–18, 29–32, 53–59), §11 and §12 (C2, C3, C4, C6, C8, C12, C15). Also `STATE_LEDGER.md`.
+
+> **[Coordinator note 2026-10-05, after M6 close — governs over this packet's dates.]** Calendar per BOOK_MAP §6 [M6-redated] (OWNER-DECISIONS #41): finals day T24; panel overnight T24–25; the morning after and the meeting T25; closing ceremony T26; road home seventeen days. Do not state the tournament's length in days (the office's "three weeks" stands as the round figure).
+
+> **[Coordinator note 2026-10-05, after M8 review — what M9 inherits.]** (1) THE RING (canon): fifty-two by forty-eight; the oak round the highest point; a half-inch fall from it to the barrier's foot every way (a dome; the long way, north to south, is the longest road downhill); a dry trench under an iron grating, "a hand and a half", falling slightly toward the east break; four masts at the quarters, each grounded twice into the trench, crown-of-nails heads; six-foot barrier with a bull-nose cap; four breaks, each with a cap seam felt through a boot; three rows of seats gone. Specification from Auremont's risk office at the house's expense. (2) FINALS DAY'S CARD: the three bracket finals (Iron, Silver, Gold) and the team-trial final (Auremont v the river academy) — place the trial final on the morning card; the match is the true event after them. Halcenvane is third on the continent "as the count stands at the close of the trials; to be confirmed at the closing". (3) DAEVA: Storm Path from her own side — asking the air, leaning, the road, the crooked lane, "let the air go slack" (the coastal veteran at fifteen) — her vocabulary stays hers, apart from Karis's fold / *permitted* / "arrives third". She told Cael what the masts are rated to, at the west mast (M8 ch52). She never theorizes what he is. (4) BODIES at T24: Cael fit, the hip and right-hand burn healed; a dull hold behind the eyes from deep recall on T23; the medium read narrows attention (Lira, Brom unheard). Brom's LEFT shoulder sore from the third-place trial, forearms taped. Karis's palms pink. Lira fit (the left arm held close is a habit). Ephram hoarse. (5) THE BANK, as minuted in Hesk's book on T23: Wind past six ("the bill comes in the morning"); the push from the Bronze at Ardenmere at fighting load past four blows a sitting; Reydan's give on a scored floor before a crowd, not since the Ardenmere bout; Karis's spark past the two contacts allowed in public; the read as far down as it goes. Shadow sealed for the debt; Seln never told why. (6) Vastin resolved to stay for the figure this time.
+
+## Where we enter
+
+Finals day comes up off the harbor. The bank was spent last night by minute. Karis's half-beat lives only behind his eyes. Shadow is sealed. The ring is built to Auremont's specification. The Compact row is full for the first time, and at its end, in the chair that waited, a man in plain greys has been in place for an hour.
+
+## What this movement is for
+
+The book's climax and its argument, in one movement. Cael fights a Gold-tier prodigy with everything he owns, survives long enough to do a thing no tournament has recorded, loses honestly, and pays the integration's cost live. The fairest instrument on the continent then writes, in its own hand, that it cannot hold him. The only honest man inside the machine tells him the weather. The book closes on the system deciding, in a room with no windows, what to do about what it cannot measure. Keep the progression vocabulary for the turning points: the inventory at the break, the notice, the year's ledger.
+
+Consequential turns and promises:
+- **The apparatus assembled:** absolute capacity; the betting rows' rating market; the broadsides' noun (*the exhibition*); nine panel seats and three scribes; Umber walks the ring himself and checks the certified floor with his own boot. Rooke's five minutes ("Frightened is expensive and it isn't information"); Brom: "Survive the first one." Seln: "The office confirms the schedule." / "Thank you for the forms." Formalities at Vell-grade: one rating and one silence; the protocols read twice. Cael's walk of the ring. "Terms hold?" / "Terms hold."
+- **The match (~14,000)** per BOOK_MAP §8, exchange by exchange. E1: the courtesy pass; the full public repertoire inside ninety seconds; Compression on a tournament floor for the first time, before a crowd for the first time since the Reydan bout at Ardenmere [B4-reconciled 2026-10-05: audit A3]; losing ground. E2: the fold read; early; the collapse point; **the score** ("nobody had scored on Daeva in four years"); her face; the courtesy ends. E3: braid; triage; the armed resolution point; the left side, shoulder to hip; the referee steps in and lets it go on; the healers stand and sit. E3 also carries the in-ring discovery of the medium read's Gold-scale price: the woman or the air, not both. The break's inventory, with the other instrument working underneath. E4: the suite fails in sequence with coordinates; the read does not; out of ground; the conditions complete; **the reach**, held as the line drawn the year before at Halcenvane in three numbered rules (B4 ch23's signed minute: conditions not manufactured; a directed acquisition only within earnest engagement the subject begins himself; the full cost written beforehand) — the circle's shorthand this book gives it is *directed, open-eyed, or not at all* [B4-reconciled 2026-10-05: replaces "drawn two years earlier"; audit B8]; his own lane laid crosswise, fifteen feet at a third of the depth; through permission; the spark; the silence in strata (tower stairs, betting ledgers turned face down, the relay man out of sentence); her recognition; **the destabilization** (Wind drops mid-step; "a question of ownership"); her mercy, on a clock; **Stoppage. Daeva.** The ritual: healers at a walk, name/day/exchange, the nine pens not moving, five people at the rail not running. **The notice, verbatim.** Two firsts counted. The hand up; "That was mine." / "A piece of it."; the promise. Vastin standing, leaving.
+- **Daeva cutaway (~2,500):** split between the minutes after the match (what she saw; a lane that was hers, seeded by him; the delight; she must not name a mechanism) and the four seconds she breaks procession at the closing ceremony, with the citation she will never read.
+- **The in-camera night. Umber cutaway (~3,500)** plus impersonal narration: the tables brought up on a trolley ("I would like the room to be able to say that we looked"); nine precedents, the eighty-first cycle's analogy and "only one of them"; the attempt column by column ("The column asks me for his tier"); three arguments (jurisdiction, preservation, *answer-ability*) and Umber's answers; the ruling ("It has a priesthood" / "The record is the truth or it is nothing."); ninety minutes on eleven words ("*under* over *by*"); signatures, daylight, the stamp. Vastin is present by observation right, silent, and receives one look. **The entry, read at dawn.**
+- **The morning after:** the copying counter breaks in small ways; Auremont waits in line at its own request; the wrong theories (including "Daeva did it"); *our fighter does not mis-seed.* The log: "nobody guesses digestion."
+- **Ilsev cutaway (~1,400)** (the closed referral filed "last year", per C12; her first private sheet) and **Havel (~600)** (the fifth entry). **Seln (~1,000):** the first report that is true in fact; relief, unexamined; the private file updated anyway.
+- **The second pole** at the rail over the empty ring, with the fold-mark not yet lifted (protected).
+- **Optional (owner call C8): the Norhold session** [B4-reconciled 2026-10-05: "spring" dropped; it would be the provision's third evaluation]: ninety routine minutes in a borrowed room, Gault's travel case, and renewal, in the post-match week.
+- **The meeting (~5,500):** the note ("that sentence is not a formality"); the council objects (Karis, Lira, Brom, Ephram); Cael overrules alone; Seln's line ("forty-year career", OWNER #17) [B4-reconciled 2026-10-05]; **Brom at the arch.** The hour: the inventory he gives without remarking; "Thanks are the wrong instrument"; the nouns (*Anomaly. Irregularity. Basis. Review.* then *Posture. Handling. Exposure. … containment*); "who decides which men are sent minutes"; **the warning, verbatim, at the exact centre**; "I don't guess"; the convening summons; **the four-second silence on the Level 4 question**; "Nothing answers a conclusion"; "How did you evaluate me?" ("the method is not a boy's"); no protection; "It's the only thing I had to give." The room catalogued out. "Fifty-one minutes." **Vastin cutaway (~1,000)** after the hour, before the convening: walking back into a machine he understands and can no longer account for. No threat, no side-switch. The council grades the warning both ways: "Same build." **The circle's costed rule,** four initials. The log (protected).
+- **Placement:** the reverse-order liturgy and the eight-count clapping; Rhagen fourth; the honor mast; Lira's "what the scrapyard placed"; the banner transfer (the four ties in lawful order; a crowd on its feet for a countersignature); **Daeva breaks procession: "Rematch."** The year's ledger in Hesk's volume (C6): seven fragments with Storm's stability flag still standing, the anomaly, the Reydan line. The letters (Hesk's reply verbatim; Vell). Brom: "The recess's problem." [B4-reconciled 2026-10-05: the source's "Summer's problem" is a season word (#35); not a §10 line; owner may prefer other wording.] Lira at the rail: "Four flags and an exchange … Silver bracket. Next cycle."
+- **The sixth man at the bench:** the manifest's procedure, the first waystation, the middle of the bench, nobody remarks on it, everybody counts. Ephram's account corrected from the bench's end.
+- **The convening window (≤900, impersonal):** verbatim question and testimony; Level 4 untraceable; *entered for formal proceedings*. **No "four centuries"; no "seven years"** (C3, C4).
+- **The road home in order** (C15). Tournament country thins. The waystation boards: fixtures, then grain, then nothing. **Ninth day:** the district seat and Brom's summons ("It isn't a promotion. It's a hearing about whether I get offered one."). **Twelfth day:** the watchers return ("They may be the last watchers I get whose names I could learn."). **Fourteenth day:** Karis's two bundles ("Nine of them matter"). Ephram's plain version. The last ferry. **The closing lines** (protected).
+
+Physical challenge: the match. Cutaways: Umber ≈3,500, Daeva ≈2,500, Ilsev ≈1,400, Havel ≈600, Seln ≈1,000, Vastin ≈1,000, plus the convening window, which counts toward neither share.
+
+Development: about 15 Cael beats. Supporting: Daeva (2), Umber (2), Vastin (2), Lira (2), Brom (2), Karis (2), Seln (1–2), Rooke (1), Withrow (1), Ephram (1), Ilsev and Havel (1 each), Hesk (1).
+
+## What must remain true / withheld
+
+- **End state (BOOK_MAP §1) is binding:** seven fragments; the Storm stability flag still standing (B6 Ch1 clears it later); Brom's review unresolved; Seln at the bench; Vastin still formally the Compact's instrument; no vote; Halcenvane third of fourteen.
+- **The mechanism stays sealed:** no one outside Lira, Brom and Karis says or thinks *integration*, *fragment*, *acquisition* or *witnessed*. Daeva gets "A piece of it." Seln is not told. Ephram is not told.
+- **Shadow is deployed nowhere,** including in the fourth exchange's extremity.
+- Umber and the panel: "impossible under the framework," and no theory. Vastin: the Level 4 question is declined, and nothing about makers or systems.
+- Hesk's reply and the closing lines are verbatim. Keep the notice's text exactly as in BOOK_MAP §10.
+- Book 6 Ch1 handoff: Hesk's volume holds the year's ledger, and the road's daily entries close in the old volume's last leaves. The flag "stood eleven weeks" belongs to Book 6, so do not resolve it here. Watchers resume on the road. No season name for the road home or the recess ahead (#35). Vastin is the Archmarshal, no age.
+- The year's ledger counts from B4 ch62 a year on: the landing beat four years; Compression's "no official eye" ends on finals day; Shadow's second year of "nowhere yet" closes with it still nowhere [B4-reconciled 2026-10-05].
+- Reader Standard. The discharge injury is real and rendered without gore. The stumble is frightening, not humiliating.
+
+## What the author owns
+
+Chapter boundaries (three for the match is the plan, but the author decides); every tactic inside §8's frame; the strata of the silence; the panel's arguments beyond the protected ruling; the morning's small breakages; the meeting's silences and counts; the ceremony's choreography; the road's days and talk; whether the optional Norhold session appears.
+
+## Where we leave pressure
+
+A continent knows there is something its silver cannot measure. A room with no windows has entered the question and not yet scheduled the answer. The boy rides up the bluff with seven things that aren't a Path and five people who watched the instruments fail, and somewhere behind him, the machine begins deciding.
+
+---
+
+## PRECEDING CHAPTER — editions/monroe-1.3/book-05-the-silver-standard/manuscript/chapter-53.md
+
+# Chapter 53 — Before, Not After
+
+At the fifth bell of the day before finals, with the guesting-house empty and the light going amber on the courtyard wall, Seln sat down at the document table in the front room and laid his pen on the blotter.
+
+The house was quiet in the way a house is quiet when everybody in it has gone somewhere else at once. The squad was at the hired hall. Rooke was with them. Gault had gone to the healers' corridor at the Concourse to look at the station that would stand at the ring's north break. Bracken was at the west tower with the pouch. On the stair the keeper's cat lay in a square of sun, and down in the courtyard somebody's washing moved on a line.
+
+The table stood under the window. Five buff folders lay along it in a row, one to a fighter, as they had every evening since the delegation arrived, holding whatever the west tower had sent that day: which hall at which bell, which floor, which healer, which form to sign. They lay open to anybody who passed. A thief who took one would have got a list of warm-up times.
+
+He had come back from the west tower an hour before he was expected. He did not account for the hour to anybody, and nobody was there to ask.
+
+For some while he did not write anything. He read, instead, as he read at his counter: the day's last papers first, the healers' attestation for the ring's north station, a revised allotment for the warm-up halls, the tower's note on the hour the ring would be opened for the finals. He initialled each where it wanted initialling and laid it in its folder. A floor allotment in the Ember fighter's folder had slipped a quarter-inch out of true. He squared it.
+
+Then he sat for a time with the pen in his hand and the cap still on it, and looked at the window.
+
+He did not use the delegation's paper. He opened his own case and took from it a packet of plain grey offcuts he kept for notes to the office, and chose one, and laid it on the blotter. With the little knife he kept for sealing wax he cut a strip from it, against the edge of a steel rule, in one stroke. He put the rest of the offcut back in the packet and the packet back in the case.
+
+He looked at the strip.
+
+Then he wrote. He did not use the hand he used at his counter. He used the plain round copy-hand every clerk learns in his first month and leaves behind in his second, the hand that belongs to nobody. He did not stop and he did not cross anything out.
+
+*Judges rewatch what they cannot score. Whatever you show tomorrow will be studied frame by frame by people whose profession is categories. Decide tonight what you are content to have studied forever.*
+
+He read it once through. He laid the blotter over it and pressed with the flat of his hand, and lifted the blotter, and tilted the strip toward the window to see that the ink lay evenly in every letter. It did.
+
+He drew the enrollee's folder out of the row.
+
+He went through its papers from the front, one sheet at a time, until he came to the renewal of the delegation credential. Behind that lay the bout protocol for the following day, four pages pinned at the corner. He laid the strip between them, face up. With two fingers he squared it to the protocol beneath, edge to edge, top and side, so that it sat no further in and no further out than any other paper there. He squared the renewal over it. He closed the folder and slid it back into its place in the row, and squared the row with the edge of his palm.
+
+He wiped the pen and capped it. He put the knife and the rule into the case and closed the case and set it on the floor by his chair.
+
+For a little while he sat with his hands folded on the empty blotter, looking at nothing in particular, as he sat at his counter in the wing at the end of a day when the last form had been taken and the copying was done.
+
+The cat on the stair got up, stretched, and went down to the kitchen.
+
+He took the case and went up to his room.
+
+---
+
+At the hired hall Rooke had put on the pads.
+
+He had not held pads for anybody, as far as Cael knew, in the whole time Cael had known him. The Shield reserve had held them all sitting. Tonight Rooke sent the reserve to a stool by the door, took off his coat and laid it over a barrel, and worked the pads onto his own hands a strap at a time, without hurry, frowning slightly at the buckles.
+
+"Hips. Shoulders. The landing beat, at a walk. You're not learning anything tonight. You're only showing your body where everything is, so it can find it in the dark."
+
+They went at a tenth of anything Cael had. Rooke counted. He counted every touch, out loud, in the flat voice he used at a rail, and moved the pads a hand's width at a time, up and out and back, and Cael followed them, and the hall was nothing but the count and the slap of palm on leather and two pairs of feet on old boards.
+
+Rooke stopped well before Cael would have.
+
+He simply lowered the pads, in the middle of a count, and stood there.
+
+Cael had been counting too. "There were eleven more in that."
+
+"There were." Rooke began on the buckles. "And tomorrow they'll still be in you, because you didn't spend them tonight. That's the whole trick of it." He pulled the first pad off. "Every man I ever coached wanted the eleven. The ones I gave them to were slow the next day."
+
+He laid the pads on the barrel, side by side.
+
+He put his coat on and did up the buttons from the bottom, one at a time.
+
+He spoke to the buttons. "Tomorrow there's nothing on my sheet I can't use. First time all year. Whatever walks out of that gate, I'm allowed to coach every bit of it." He did up the last button. "I'd thought I'd mind not knowing what it is. I find I don't." He looked across at the reserve on his stool. "Go and eat, the pair of you. Early night."
+
+He went out. The reserve looked at Cael with very round eyes and did not say anything whatever, and Cael thought it the best advice he had been given all day.
+
+---
+
+The eleventh thing they did not know went up on the door a little after the ninth bell.
+
+Karis wrote it in her smallest hand on the sheet pinned at eye height, under ten others, and stepped back. The sheet was headed *We don't know.* By then it was longer than anything on the wall, because the wall was still bare. That was her rule, and she had said it before she pinned anything: a claim went on the wall only if she could say where it came from, and if she could not, it went on the door.
+
+Most of the door was about Auremont. Auremont let nobody copy a bout of the girl's and never had. The Storm Path kept its workings sealed with the registry, as a potter keeps the recipe for a glaze. Every shop's file Karis had bought on her in three weeks had been ceremonies with adjectives. What the four of them actually had was the trial, from four places on one floor, and a walk round an empty ring.
+
+The night before had a form now, and this was the third time they had kept it. The first time nobody had known it was a form. The second had been at Halcenvane before Gault's oak, when everybody at the long table had given him a piece of the next day in place of a present. Tonight it was the back room, with the shutter shut and paper folded under the table's short leg. Ephram had knocked once, early, with a covered dish in each hand and the cider jug in the crook of his arm, and had not tried to come in. He had passed it all across to Brom at the door, and said, "Eat. Whatever else you do in there," and gone off down the stair whistling the lock-keeper's song badly on purpose.
+
+The first model was a pipe.
+
+Karis drew it plainly. The lane was a narrow pipe emptied of air from end to end in one go, and the girl went down it as a pea goes down a blowpipe, with nothing ahead of her to slow her down. It accounted for the speed and for the crack at the lane's head, which would be the air slapping back in behind. She pinned it up and stood off from it with her head on one side.
+
+"No," said Brom, from the door.
+
+They looked round.
+
+He held up his bound forearms. "Everything I ever stopped on these came at me pushing off something. A foot. A wall. The floor. You can't turn in nothing." He lowered them. "She turned. Twice. A little, at the north-west end, and coming in at Karis. Your pea doesn't."
+
+Karis counted silently to some number of her own with her eyes on the chart. Then she took it down pin by pin, laid it face down on the table, and wrote on the door: *A pipe. Dead. Brom: she turned.* And under it, *Most of an hour.*
+
+"Good," she said, and they could hear that she meant it. "That's an hour we've spent here and not out there."
+
+The second model was a river. The lane was a fast thin current laid along a line, and the girl rode it the way a barge rides the ebb out of the basin. It let her turn. It let her keep her pace without seeming to work for it. Karis liked it, and so did Cael, and she was just finishing the figures when Lira, flat on her back by the stove with her eyes shut, said, "No."
+
+"Why not?"
+
+"I was right beside it. North-east ramp." Lira did not open her eyes. "I've been round Winds since I was smaller than the reserve. When one goes past near you, you feel it before it gets there. It pulls your sleeve." She opened her eyes and looked at the ceiling. "My hair didn't move."
+
+Karis put the pen down.
+
+"Nothing moved. Not a hair on my arm. A river going that fast, I'd have felt it from the gallery."
+
+The river went face down on the pipe, and its line went on the door, and Karis stood at the empty wall with her pink palms pressed together under her chin for so long that Brom gave up and sat down on the floor.
+
+At last she turned. "Cael. Take me in. Slowly. From before she moved."
+
+He shut his eyes and went back.
+
+It cost. It always did: a dull pressure behind the eyes that would still be there in the morning. He went back to the barrier's far end, and the girl at its foot, and the moment the read had caught something wrong, and he made himself stay in that moment and look round it, as you stand in a doorway and look round a room.
+
+"It was wrong before she was. The air. All down the timber. Heavy where nobody was."
+
+"Heavy, and then?"
+
+"Then it folded." He kept his eyes shut. "Long, all down the barrier, a couple of her strides ahead of her. As if somebody had creased it. And the lane came in the crease. And then she came in the lane." He opened his eyes. "Fold. Lane. Her. She arrives third."
+
+Three words went onto a clean sheet, *she arrives third*, with *trial, read live* small in the corner, and the sheet went up alone in the middle of the bare wall.
+
+"Not empty. Not running. So it's still there, all of it, and it's standing still." She turned round to them. "It's stepped aside. That's all. The way a crowd steps aside for a steward with a staff. She isn't fast. She's walking at her own pace where the air has let her by, and every man in this city with a clock has been timing her for a runner." She picked up the pen. "*Permitted.*"
+
+She drew it: the fold, the lane in the fold, the girl last, and at the far end the fire riding the place where the air had been asked hardest. It went up on the wall, and it stayed there.
+
+She went at it herself for half an hour after that, standing in front of it with her arms folded, pulling at every joint. Where did the noise come from? From the fold, before anything moved; that was the pressing he had felt in his ears. Why was there nothing in her stride? Because her legs were not doing the work. And then, very quietly, the last one: why had she stopped, in the middle of an exchange, and looked at him?
+
+None of them could answer that. Karis put it on the door.
+
+"That one isn't about lanes. It's about her. I can't draw a person from a pile of ceremonies." She capped the pen. "So you take that one out there as it is. You're the only one who'll be close enough."
+
+Then she boxed one line on the wall, and boxed it again.
+
+"The fold first. Half a beat before the lane." She tapped the box. "Her body won't tell you anything, so don't ask it. Yesterday morning in the hall you put Lira down and listened past her. Do it to her. That's all I've got. The whole wall's worth half a beat."
+
+"Half a beat," said Cael. "Then we're rich."
+
+It was what Lira had said to her boot on the frosty night at the mill town, round the guest house's one good stove, about a great deal less. Flat by the stove, Lira snorted at the ceiling. And Karis, at the wall, let her shoulders come down half an inch.
+
+She did not write him the card at the table. She went and crouched at the stove with its door already open and the coals red, and wrote it on her knee in her tightest hand, three lines. *Air first. Not her. The leave runs out where the lane does. Half a beat and it's yours.* She held it up for him. He read it until he had it, and nodded, and she laid it on the coals, and the four of them watched it curl.
+
+Brom spoke when the card was ash. He had stood up again and gone back to the door.
+
+"You've never fought anyone where survival was the win condition."
+
+He let it go all round the room before he went on.
+
+"There's always been something to come out of it with. A figure. A touch. A rate you meant to keep under. The ganger. The grappler. The captain. Every one of them, you knew where you wanted to come out." He moved his weight from one foot to the other. "Tomorrow there's nowhere to get to. There's standing at the end, or not standing. Whatever you do out there, do it for that, and leave the rest. Score is for the judges."
+
+He looked down at his bound forearms.
+
+"And if she knocks the standing out from under you, and she might, then go down well. Chin in. Arms in. Loose, not stiff. Nothing left lying out for her to take. Going down well is a skill," he said. "You've had it off me since the circuit, a bit at a time, every time you hit the boards. You never noticed. Tomorrow you'll find out whether you were listening."
+
+Lira got up off the floor by the stove and went to the door, and Brom moved aside for her.
+
+She had her hand on the latch when she turned. At Halcenvane, the night before Gault's oak, she had said a thing like it, in other words, and it had been true then. She said it now in the words it had become.
+
+"The person who walks onto that floor has to still be you."
+
+She went out into the passage and shut the door. They heard her walk to the end of it and stand there, and then come back with a fresh candle, because the night was not finished. She had only gone out so that the line would be the last thing said before the business.
+
+The business had its own form, which was Karis's, and they kept it to the letter. Only the four of them. Nothing written anywhere but in Cael's log. No deciding until somebody who had once held the other side had argued it out loud as hard as it would go. And the minute set down first, before anything was done, because Karis said a minute set down afterwards was only ever a tidy story told by the winners.
+
+So Karis argued the other side, before anybody had proposed anything at all.
+
+"Keep it shut. That's the case. You go out tomorrow and fight inside your rates, as you've fought every floor this year, and she stops you. Early. One exchange, two. Nobody in that bowl thinks you're meant to win. Nothing new goes on any record. Every file on you stays wrong exactly the way we've built it to be wrong." She set her pen down. "I believed that, the morning the filing went up. I carried it round all day."
+
+"What changed?" said Brom.
+
+"I read the rider." Karis looked at the candle. "There's a clause in it for when the healers go in, and another for when they carry someone out. A stoppage under that woman isn't a line in a book. She crossed his ground on the trial floor without even looking at him and he had half a second. Give her all her attention and keep him inside his rates, and there's nothing cheap about losing early. There may not be any getting up from it." She picked up the pen again. "That's the case argued. I've left it. Open it."
+
+Cael named what was in it, every piece, because the minute would want the names.
+
+"Wind past six, if the fight asks for a seventh: six is where the hip starts sending bills, and past it they come due next morning. The push I took from the Bronze at Ardenmere, at a fighting load, the shove that moves a man off his feet from a hand's width; past the four blows a sitting we've held it to, and nobody official has seen it carry a load since the circuit record. Reydan's give, the thing that lets a blow land on me and go nowhere, on a scored floor in front of a crowd, which it hasn't been since the bout at Ardenmere that's its only paper. Karis's spark past the two contacts a bout we allow it in public. And the read, as deep as it goes." He looked at them. "All of it, at whatever she asks. Ceilings, not rates."
+
+"And what it costs," said Lira.
+
+"And what it costs." He did not look away. "Every plate anybody's ever set in front of me read me against those rates. Every shop's file was written against them. They're why nobody's ever quite known what to ask of me. After tomorrow whatever I show is in the book, and nobody will ever again measure me against less. There's no getting it back into the box." He put both palms down flat, and the rocking table tipped and was still. "A rate you have shown is a rate you have shown forever."
+
+"Open it," said Lira. "And keep the line from the door."
+
+Brom nodded. "Open it. I've held the pads inside the rates as long as I've known you. I'd like to see what I've been holding them for." The corner of his mouth went in. "So would you."
+
+"Agreed, then," said Karis, and wrote.
+
+He set the minute down in Hesk's book while they watched, under the ring, in his best hand.
+
+*The night before. The four of us. From the flags tomorrow, the bank is open: Wind past six; the push at a fighting load; Reydan's give on a scored floor; the spark past two; the read to the bottom. The case for keeping it shut was put by the one who'd held it, and she let it go herself. All four for. Set down tonight, ahead of the thing, so that when tomorrow's record says what it says, this page will already have said that we chose it.*
+
+"The rest stays where we put it," said Karis, when he had blotted the page. "The minute from the year before. Nothing made to happen. Only inside a fight somebody else begins. The cost on paper first." She looked at him steadily. "A bigger fight doesn't change a word of that."
+
+"Not a word."
+
+He did not put the pen down.
+
+"One more. It has to be said in here or nowhere." He looked at the candle and not at any of them. "The quiet thing stays sealed."
+
+The room went still. Then Lira leaned her elbows on the rocking table, because the form wanted an argument and nobody could land one the way she could.
+
+"Then cost the seal. Out loud, where the room can hear it." She held his eyes. "You've got a thing that makes you hard to find. Tomorrow you're fighting a woman who wins by knowing where you'll be. You've got a thing that hides you moving. She lays her road before you've moved. If anything in there was ever made for tomorrow, it's that." She sat back. "And it stays in the box. So say why."
+
+"Because of who it came from," said Cael.
+
+He did not say the name. All four of them knew it. It would never be spoken in this room or any other while any of them could help it.
+
+"Tomorrow gets written down three times over, and gone through for years by people whose whole work is sorting. If I use it, somebody sorting will find one loose thread. Where did a fighter with no tier ever see that kind of work, done well, for long enough to come away with any of it? It isn't a long thread. Pull it, and it comes away in your hand at a counter in the wing, where a quiet man has spent his whole life making sure nobody ever looks at him twice." He let the breath go. "What we owe him doesn't stop because the fight's a big one. He isn't told. He's never told. That's all of it."
+
+"That's all of it," said Lira, very quietly.
+
+Nobody wrote it down, and nobody ever would. What the four of them owed the man at the counter would go on being owed, as it had been since a bad night on a stair a year ago, near enough: kept off him the way you keep rain off somebody by holding a coat over them without saying you are holding it. They had only ever had one coin to pay it in. They paid it again tonight.
+
+---
+
+Cael found the strip at midnight, because he could not sleep and went down to read the protocol again, and the protocol was in his folder.
+
+It lay squared between the renewal and the protocol's first page. He read it standing in the dark front room by the light that came down the stair. He read it twice. Then he went to the stove.
+
+The poker hung on its hook. The fire had sunk to a low red bed behind the iron door. He opened the door, and stopped with his hand still on it.
+
+Somebody had already broken the ash.
+
+It had been done lately, and done thoroughly: the whole bed raked fine, the grey on top of the red broken down small and even, as though a hand had stood where he was standing a little while before with the poker and got the stove ready for something. The poker was back on its hook. The room was empty. The stair was dark all the way up.
+
+He did not let himself think about whose hand. He laid the strip flat on the red. It browned at one corner and blackened across its middle and caught, and was flame for a breath, and was nothing. He watched until there was nothing. Then he took the poker down and broke the new ash into the old until no one could have told the one from the other, as Karis had done on the common-room coals at Halcenvane on the only other night.
+
+There had been one before. Now there were two. Nobody had ever said one word about the first, and nobody ever would about this.
+
+He wrote it in the old volume, in its very last leaves, in the smallest hand he owned.
+
+*Second one. Nobody in the back room said a word outside it, and he still knew what tonight was for. He'll have had it from the rider and the protocols and the three scribes, the way he has everything, by counting what came across his counter.*
+
+*The first told me how to be measured. This one tells me I'm about to be, for good, and that what's left to me is which of me goes in the book. An hour before he wrote it, four of us at a rocking table had already chosen. He came to the same place from the far side of the counter, on his own.*
+
+*A strip of grey paper and a nobody's hand. If anybody had found it, it would have cost him the rest of his life. I can never tell him I know that.*
+
+---
+
+Nobody in the house was asleep, and everybody was lying very still so as to seem to be.
+
+Cael lay in the dark with the shutter open a crack on the harbour and listened to them. Above him, on the bare boards of the room under the roof, Brom was doing his nineteen, very slowly, with a soft thump at the end of each that he plainly thought nobody could hear. Cael counted them to nineteen. There was a pause, and they began again. Across the passage Karis's pen scratched a line, and was silent while she thought, and scratched another; the silences were the long part. Next door Lira was humming the turn of the lock-keeper's song under her breath, over and over, while something in her kit clicked shut and open and shut. And at the foot of the stair the keeper went to bed past every door, as he did every night, and Cael heard him count them softly, from habit, to five.
+
+Ephram's dish was on the sill. Cael got up and finished it cold, standing, with his fingers. Rooke would have approved.
+
+He did not count anything on paper. He lay down again and let his hand do it on the blanket, one finger at a time, the way he had counted the empty lines on the frame. Brom's way of going down; Lira's line; Karis's box on the wall. A strip of grey ash, broken fine. One thing sealed for a man who would never hear why. Five things opened, from the flags, as far as each would go. And under all of them, where it always was, the still place, in its three words, not to be touched. That was a whole hand and some over, and he let it lie.
+
+There was nothing left to do, so he did the things that do nothing. He wiped Hesk's steel pen and laid it in the gutter of the book. He set his boots by the door with the laces loose. He folded the morning's shirt over the chair.
+
+Hesk's travelling clock had never once told the right time in all the years he had owned it. He took it off the sill and wound it, and put its hands on by an hour, as he did on every night of every tournament week. In the morning the first thing he would do was put it back, and be sure of something.
+
+He opened Hesk's book under the lamp, past the ring and the minute, to the next clean leaf, and wrote slowly.
+
+*Quenna asked if I could not-do it in front of people who wish me harm. I learned to. It's under everything else I know how to do. It's held in front of wardens and panels and men with plates, and in front of a bowl of eight thousand people on their feet, and I never once had to wonder.*
+
+*Tomorrow's question is whether I can afford to keep not-doing it in front of someone who can kill me by accident.*
+
+*I don't think I can.*
+
+*Write it down before, not after.*
+
+He blotted it and closed the book and laid his hand flat on its cover for a moment. Then he put the lamp out and lay down, with the harbour moving under the window and the clock on the chair ticking an hour ahead of the whole city, and waited for the morning, so that he could put it right.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/EDITION_BRIEF.md
+
+# The Fractured Path — Monroe Jackson 1.3 edition (O'Connor 1.3 seat)
+
+Owner direction, 2026-10-01: rewrite the whole Fractured Path series through the
+O'Connor 1.3 seat on the Monroe Jackson 1.3 foundation, with Claude Opus 5.5 as the
+manuscript author, at about 300,000 words per book. When a book is complete, render
+every chapter through Breeze and publish it as a new edition. The current edition
+stays exactly as it is; this edition is new and recoverable.
+
+Public byline: Monroe Jackson. Seat: `oconnor` 1.3.0. Foundation: Monroe Jackson 1.3.0.
+Requested author: Opus (Claude Opus 5.5). Coordinator: this orchestrator session.
+Review seat: Sol (gpt-5.6-sol via `codex exec`) — a different model family from the author.
+
+## What "rewrite" means here
+
+This is a retelling at full length, not a copy-edit. The prose is new. The story is the
+same series.
+
+**Keep (canon — binding):**
+- Every book's spine: the major events, their order and outcomes, who lives and dies,
+  the ending state, ages, the calendar where later books depend on it.
+- Cael's fragment acquisitions — which fragment, in which book, under what engagement —
+  and the counts at each book's close. The system notice texts that later books quote.
+- The SECRET reveal schedule in `universe/CANON_RULES.md` and every reserved truth. A
+  rewrite may plant more; it may never disclose earlier than the schedule.
+- The universe rules, costs and limits in `universe/UNIVERSE_BIBLE.md`.
+- Relationships and their turning points as the existing books establish them.
+- Lines a later book quotes or calls back (log entries, notices, signature exchanges).
+  The book planner lists these as protected wording.
+
+**Change (the point of the edition):**
+- Length: about 300,000 words per book (owner). The existing books are 100–125k. The
+  extra ~190k comes from: developed fights given room (1,500–2,500+ words when the
+  changing problem earns it); learning encounters and training that show effort turning
+  into capability; events the current edition summarizes, put on the page; supporting
+  cast given private wants, independent decisions and arcs across the formula's 8–10
+  person cast; humor and warmth between people; brief POV cutaways; new episodes that
+  fit canon and do not alter any book's end state.
+- Shape: open-range movements of six or more chapters, one compact brief per movement,
+  no per-chapter cards or per-chapter gates. Roughly 55–65 chapters of ~5,000 words per
+  book in 7–9 movements; the author owns chapter boundaries.
+- Rhythm: the owner-selected numerical formula (compiled into every prompt). Baseline
+  of the current edition, measured by `tools/formula_metrics.py`: sentence mean ~17.5
+  (target 14.6), paragraph median ~44 words (target ~18), Flesch RE ~67 (target 72.3),
+  FK grade ~8.3 (target 6.8). The edition should move toward the targets.
+- POV: about 87% Cael, about 13% brief purposeful cutaways spread over 4–5 named
+  characters. Cutaways may never reveal what a reserved-truth boundary withholds.
+
+## Non-negotiable
+
+- **Reader Standard (Gate 27, owner):** written for a thirteen-year-old. Clean language
+  (no profanity, obscenity, crude slang or blasphemy, including "damn", "hell" as an
+  oath, "bastard" and softer cousins); moral goodness (honesty, courage, loyalty,
+  restraint, care for the weak, at a cost; wrong named as wrong; cruelty never
+  rewarded); violence with cost, fear and consequence and no gore; no sexual content
+  or innuendo. Outranks every voice preference. See `craft/VOICE_CHARTER.md` end section.
+- **Names:** keep every existing canon name. The registry's flagged collisions
+  (Vell/Velmere, the -vane cluster, Wray/Greyvane, Bracken/Brom) are the owner's call
+  and are NOT renamed in this edition. New minor characters the expansion needs may be
+  named by the planner, screened by ear against `craft/NAME_REGISTRY.md`, and listed
+  under "Names pending owner approval" in the book map. Never invent a name for an
+  existing canon role.
+- **Audio-first:** this ships as an audiobook. Clear referents, clear attribution,
+  names distinct by ear, punctuation that exposes meaning.
+
+## Where things live
+
+- Canon (read-only for this edition): `universe/UNIVERSE_BIBLE.md`,
+  `universe/CANON_RULES.md`, `universe/STATE_LEDGER.md`, `craft/NAME_REGISTRY.md`,
+  `craft/VOICE_CHARTER.md`, `series/THE_FRACTURED_PATH_SERIES.md`.
+- Source edition (the story being retold): `books/<book>/CHAPTER_ARCHITECTURE.md` and
+  `books/<book>/chapters/chapter-NN.md`. Read them for events, not for sentences.
+- This edition: `editions/monroe-1.3/<book>/` — `BOOK_MAP.md`, `STATE_LEDGER.md`,
+  `packets/MOVEMENT-NNN.md`, `manuscript/chapter-NN.md`, `state/movement-NNN/`.
+- Series-level edition maps: `editions/monroe-1.3/SERIES_MAP.md`, `CHARACTERS.md`.
+- Metrics: `python3 editions/monroe-1.3/tools/formula_metrics.py <chapters...>`.
+
+## Rhythm calibration (measured, 2026-10-01)
+
+Book 1 Movement 1 — the first movement drafted from this brief — overshot the formula in
+the short direction: sentence mean 8.8 words (target 14.6), 41% of sentences at five
+words or fewer (target ~28%), 0.3% at forty-plus (target ~3.3%), Flesch-Kincaid grade 2.8
+(target 6.8), about 106 dialogue tags per 10k words (target ~41). Paragraph median (15)
+and scene spacing were close. So, when drafting:
+
+- Let thought, action and description run in full, well-built sentences. Compound and
+  complex sentences with a clear hierarchy are the house texture, not the exception.
+- Join a run of three or four clipped statements into one sentence when they are one thought.
+- Keep short sentences for beats that land — a recognition, a hit, a turn — not as default.
+- Give each chapter a few deliberately long, readable sentences (forty words or more)
+  where an action or a thought earns the length.
+- Drop "he said" / "she said" when the paragraph already makes the speaker clear.
+- Keep short paragraphs (median ~18 words) and scene breaks about every 950 words.
+
+## No scripted prose surgery (2026-10-01)
+
+Rhythm and length repairs are done by reading, sentence by sentence, never by a script that
+splits sentences or paragraphs at clause or sentence boundaries. Two repairs did that and
+each needed a recheck to find the splits that broke a thought. Where the formula and a
+character's speech disagree, keep the speech: one-to-three-word dialogue lines and the short
+landing beats of a fight are not drift to be repaired.
+
+## Working ranges and accepted drift (coordinator, 2026-10-01, after five repairs)
+
+Five movement repairs show three of the formula's numbers pulling against the brief's other
+asks (full sentences as house texture, speech kept as people speak, paragraphs broken where the
+thought turns). Repairs that chase one of them push another out. So, until the owner rules
+otherwise, these are the working ranges a movement is held to, and repairs aim at them — not at
+the decimals:
+
+| Measure | Formula target | Working range | Why |
+|---|---|---|---|
+| Sentence mean | 14.6 | 13–15.5 | primary target — keep |
+| ≥40-word share | 3.3% | 2.5–4.5% | primary target — keep |
+| Words per scene | ~950 | 850–1,050 | primary target — keep |
+| ≤5-word share | 27.7% | up to ~34% | dialogue-heavy movements; short speech is kept |
+| Paragraph median | ~18 | up to ~30 | the 18 is an ASR pause proxy, not print; long cutaways run longer |
+| Flesch-Kincaid grade | 6.8 | 3.5–6 | clear short words; the syllable estimator is approximate |
+
+Measured drift outside a working range is reported in the movement's review; a repair is for
+the primary three and for concrete defects.
+
+## Source-reuse gate tightened to 8 words (coordinator, 2026-10-02)
+
+The 10-word gate let distinctive source phrasing through in 6–9-word fragments (the first
+movement's opening line, for example, echoed the current edition's). Measured at 8 words, movements
+written after authors began self-checking run 1–6 shared runs per 10k; the worst ran ~30. From now
+on `ed.sh overlap` and every editorial review use runs of **8 or more** words. Every listed run that
+BOOK_MAP does not protect is rewritten — re-composed, not a synonym swapped. Names, Path names,
+ranks and plain facts of canon will sometimes share a short run; re-compose the sentence around them.
+Movements closed under the 10-word gate get one book-level 8-word sweep at book completion.
+
+## Draft from your own event list, not from the source page (coordinator, 2026-10-02)
+
+Book 3 Movement 6's review found the retold scenes in ch42–44 to be close paraphrase: 23–32% of
+sentences followed a source sentence word for word in order, with words varied enough to pass the
+8-word gate. Everything the author invented was clean. The cause is drafting with the source open.
+So, for every movement:
+
+1. Read the source chapters the packet names, once, for what happens and who these people are.
+2. Close them. Write a private event list in your own words — what happens, in what order, who
+   wants what, what changes. Keep it in your working notes, not in the manuscript.
+3. Draft from that list and the book map. Do not reopen the source chapters while drafting.
+   Choose your own entry point into each scene and your own order of beats; the source's scene
+   shape is not canon, only its events are.
+4. Only protected wording (BOOK_MAP) is copied, exactly, from the map — not from the source page.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-05-the-silver-standard/BOOK_MAP.md
+
+# BOOK MAP — The Fractured Path, Book 5: The Silver Standard (Monroe Jackson 1.3 edition)
+
+Seat: O'Connor 1.3.0 (`oconnor`), foundation Monroe Jackson 1.3.0. Public byline: Monroe Jackson.
+Planning seat model: Claude Opus 5.5 (`claude-opus-5-5`), as reported by the runtime. Requested manuscript author: Opus.
+Plan date: 2026-10-01. Status: PLAN ONLY. No manuscript prose exists for this edition.
+
+Source of record for events: `books/book-05-the-silver-standard/chapters/chapter-01.md` … `chapter-24.md` (≈105,000 words). Where the prose and `CHAPTER_ARCHITECTURE.md` differ, the prose governs, except where §12 records a canon conflict. Canon: `universe/` (bible, rules, ledger), `series/THE_FRACTURED_PATH_SERIES.md`, `craft/NAME_REGISTRY.md`, `craft/VOICE_CHARTER.md` (Reader Standard). Book 4 Ch23–24 and Book 6 Ch1 were read for the seams, and Books 6–8 were grepped for callbacks. [B4-reconciled 2026-10-05: the EDITION's Book 4 is now closed (`editions/monroe-1.3/book-04-copper-crown/manuscript/chapter-01.md` … `chapter-62.md`); its ending (`chapter-57.md`–`chapter-62.md`) and the coordinator rulings in `editions/monroe-1.3/book-04-copper-crown/STATE_LEDGER.md` ("After Movement 8", "After Movement 9 — BOOK END") govern every seam below. The source Book 4 Ch23–24 are events-only reference and carry facts the edition overruled (Bracken "she", Vastin "sixty", "four years", "Sixteen weeks", "Six wins, no losses", the delegation "four days gone" at the birthday). The reconciliation audit and the applied changes are in `state/B4-RECONCILIATION-AUDIT.md` and `state/B4-RECONCILIATION-APPLIED.md`.]
+
+**Shape at a glance:** 9 movements · 60 chapters · 300,000 words · average 5,000 words per chapter · largest movement 35,000 words.
+
+**Book promise (series bible):** make the reader feel the tournament as the genuine proving ground it is, and make them sweat through every match.
+**Internal arc:** *I can beat anyone at my tier* → *I am not at any tier.* Both poles are written in the log, the first in confidence (source Ch4) and the second as the truth arriving (source Ch22).
+**The title object:** the Silver Standard is two things with one name. It is the fairest measuring instrument on the continent, a cycle-locked Silver Rank 5 reference profile. It is also the banner, silver on grey, held by the champion academy. The book is about what happens when that instrument is pointed at Cael and returns nothing.
+
+---
+
+## 1. Entry state and ending state (binding)
+
+### Entry (Book 4 close and source Ch1's recess inventory)
+
+- **When/where:** the first day of Halcenvane's qualifying year, after a recess of twelve weeks and four days [B4-reconciled 2026-10-05: no season word anywhere in this book (OWNER #35; B4 names no season for the recess or the new month); "the recess", weather words only. Halcenvane's weekdays are the office's First-day … Seventh-day, never English names]. The bluff above Ostrand.
+- **Cael:** sixteen, stated on the page. He turned sixteen on the eleventh of Sowing in Book 4. **Six confirmed fragments:** Wind-adjacent (Lira), Pressure-adjacent (Feryn), Iron-adjacent (Brom), Compression-adjacent (Reydan), Ember-adjacent (Karis, consented), Shadow-adjacent (Seln, Bronze, deployment none). The Tide-adjacent anomaly from session nine stays uncounted. The Wind working ceiling held at six bursts free on the sprung oak all recess (stone fewer; the seventh billed to the next morning) [B4-reconciled 2026-10-05: B4 counts bursts, floor-dependent, ch37/ch54/ch62; "repetitions" and "all summer" dropped], and the landing beat is still unshortened. The Shadow fragment's rent runs from waking, spent or not [B4-reconciled: B4's word is "rent", not "idle cost" (ch36, ch47, ch62); the discipline the reader knows is the working ledger's day count since the stair and the protocol *Hold. First.*]. Its two components (presence-suppression and movement-masking) are mutually exclusive in his hands, drifts come in the gaps and never in the work, and the weekly drift count is falling. Pressure-adjacent is held back at every Halcenvane plate, a flat line on the baseline and on the evaluation note of the twentieth; its only public paper is the Ardenmere circuit record; the circle's private cap is the right-shoulder rule, "four blows a sitting" [B4-reconciled: replaces "restricted to a shoulder schedule"; B4 ch43, ch54–55, ch62; OWNER #36 — the plate/Pressure shoulder is the RIGHT]. Compression-adjacent has not been shown on a scored floor or before a crowd since the Reydan bout at Ardenmere; its only paper is that bout in the Ardenmere circuit record (Vell's copy); no wing instrument has measured it and "nobody official has ever seen it" at Halcenvane [B4-reconciled: replaces "never been shown publicly"; B4 ch43 "Two are public. All five are on paper somewhere", ch62 inventory]. Ember's one wing measurement is the thermal vessel on the twentieth of Reaping, four instants, Gault's reading "better than the Greyvane exhibit supports"; the two-contacts-a-bout rate is the circle's rule for public floors, not a registry figure [B4-reconciled: replaces "licensed at two contacts, documented on a sealed vessel"; B4 ch54, ch62]. **One semester stamp, renewed** (the provision's evaluation of the twentieth of Reaping: "growth confirmed in five", the plate flat; the record keeps five capabilities, two of them public). Enrollment rests on the demonstration provision of the assay clause.
+- **Who knows the mechanism:** Lira, Brom and Karis only. Seln does not. Rooke suspects a gap between record and ceiling and has decided never to ask.
+- **Seln:** at his desk through the whole recess (his name against every working day of the wing's recess counter sheet, B4 ch62). He has functionally switched sides and files null reports; his quarterly closed "Continuation of embedded coverage recommended." One unsigned slip of wing paper has passed between him and Cael, once, inside a returned coursework folder (B4 ch53), learned and burned on the common-room coals the same night with Karis watching and asking nothing; nothing has been said of it by anyone [B4-reconciled 2026-10-05: B4 establishes ONE slip, not a running "stove protocol"; whether a second ever comes is this book's to decide (M8); if it does, the stove is the same unspoken procedure]. The locked case stays unopened. Karis moved her notebooks out of the archive sweep after he warned her in the corridor (the twenty-seventh of Reaping), and the circle took it in silence: *Gratitude is the leak.* "Thank you for the form" every week.
+- **Karis:** spent ten of the twelve weeks building the argument around the banked fielding clause (sixth part, subsection four; "Interesting."; "It's banked."). The passage behind the retired word sits in her Greyvane notebooks in the named top-floor reading room (*Reading room. Assigned: K. Dellenmoor.*, in Bracken's hand, standing through the recess): read, voiced once at Halcenvane as a question (B4 ch50, the word lower-case in her mouth, one factual clause, closed as *Why retire a working method?*), and not reopened [B4-reconciled 2026-10-05: replaces "unread and untouched"; the word is not used again in this book, and M1's "A note for winter" is a second stratum on a question already voiced, not a first discovery].
+- **Lira:** Wind Path, Iron-tier, Rank One, formal (the Ostrand registry station's Arbiter evaluation, fifty-one minutes; "They didn't give me anything today. They caught up."). The Crown is retired on the shelf over the settle. She now trains on Rooke's speed line. She means to write to Fiske over the recess; Fiske: "North tier, next season. I'll be watching the Iron bracket."
+- **Brom:** Iron Skin Path, Copper formal ("until somebody filed for him"). The force-redirect seam is repaired. Third in Rooke's cohort; lost the Copper final to Lira by one beat in the fourth exchange; recess sheet "Nineteen. Round three. Four a week." [B4-reconciled 2026-10-05: the cohort placing is Brom's, B4 ch61–62.] He reads the Velmere letters alone.
+- **Ephram:** Blade Path, Iron Rank Six, top of Halcenvane's Iron column (B4 ch8; rank changes only by advancement evaluation) [B4-reconciled 2026-10-05: replaces "cohort third, Iron Rank 4"; "third in a cohort" is Brom's B4 close, not Ephram's]. His sheet for supervised floor time with Cael "next term" is on Rooke's desk (B4 ch61), and he trains with the squad.
+- **Compact:** the Archmarshal Vastin's file note reads *Classification error is unlikely. Continue observation.* (B4 ch59, signed with his whole name; Cael infers its sense and says it as a belief; see B4 plan C7.) [B4-reconciled 2026-10-05: his title in B4 is "the Archmarshal" (ch38–ch59); use it.] Ilsev's second, escalated referral is pending. Havel has four private entries. The watchers hold steady: two at the ferry landing and two at the bluff road's foot, changing on the bell every four hours, "not one man added" since the carriages went down the hill (Karis's marbled log, B4 ch57–62) [B4-reconciled 2026-10-05: replaces "two at the bluff road, three on Ostrand market days, with the change at the second waystation", which is the source's and not B4's; if M1 wants the market-day third man or a waystation change, M1 dates it as the recess's one change, in one log line].
+- **Withrow:** "Halcenvane Academy will contest the qualifying season." (B4 ch61, exact.) The academy has not qualified in eighteen years (B4 ch61 says "eighteen" at the year's end as ch7 did a year earlier; the rounding is B4's own, so B5's convocation keeps "eighteen").
+- **Open from earlier books:** Reydan's "find me later"; Vell's offered archive session; the Iron Skin watcher; the market stranger; Hesk's history and the name he has never disclosed; Coss's grade; the records-broker's client ("private interest, not Compact pattern").
+
+### Ending (source Ch24, which must hand off cleanly to Book 6 Ch1)
+
+- **Cael:** seventeen; the birthday is staged on the page at the Norhold rest day (see §9). **Seven confirmed fragments.** The seventh is **Storm-adjacent (Daeva)**: acquired directed, mid-fight, in front of eight thousand people, with the notice verbatim (§10). Its stability flag **still stands** at book's close, and the frameworks are resettling. Book 6 Ch1 clears it "over the winter" after eleven weeks. The anomaly stays uncounted. **The bank is spent:** Wind past six, Pressure at combat load, Compression public, and Ember at collapse points are all now on the public record permanently. **Shadow-adjacent has never been deployed anywhere, and Seln has not been told** (Book 6 Ch15 tells him). The circle has initialed a new rule: the reach is never again taken mid-fight unless the cascade is costed first.
+- **The match record:** *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.* It is the most-reviewed result in tournament history. Every public theory is wrong. Nobody outside the circle uses the words *integration*, *fragment*, *acquisition* or *witnessed*.
+- **Halcenvane:** third of fourteen. Brom is **continental Copper champion**. His **mandatory advancement review** summons is collected at the district seat on the road home and is unresolved ("The recess's problem." [B4-reconciled 2026-10-05: the source's "Summer's problem" is a season word (#35); not a §10 protected line; owner may prefer another wording]; Book 6 dockets it at term's end). Lira is an Iron semifinalist ("Silver bracket. Next cycle."). Karis won her quarterfinal over Ternhall's top rank. Ephram reached the round of sixteen and is the cohort captain-in-the-making.
+- **Seln:** sits at the middle of the bench from the first waystation of the road home onward, and nobody remarks on it. He travels on the manifest as *records and floor scheduling*. He filed one true report (the Daeva match). The case is unopened.
+- **Vastin:** delivered the warning off the record. At the closing convening he testified against pre-decision and was set aside. He is still formally the Compact's instrument. He declined to discuss the Level 4 designation.
+- **Ilsev:** her second referral came back *Referral closed at registry level; no further inquiry authorized.* She has written her first private note. **Havel:** a fifth entry.
+- **The Compact:** the question *Whether the classification [SHATTERED] shall be designated an active threat category* is **entered for formal proceedings.** No vote. Book 6's challenge grows from this.
+- **Daeva:** "Find out what you are. Then find me. I want the rematch with whatever that is." At the ceremony she says "Rematch." The Silver Standard banner passes to Auremont.
+- **Threads closed:** the records-broker's client (the scouting economy, benign; the dossier's circulation remains as texture). Fenmark is closed as a wound.
+- **Threads opened:** Daeva's rematch; the faceless "people who want this to stop"; Brom's review.
+- **Threads touched and not advanced:** Reydan (one log line); Vell (a letter); Hesk (letters only); the anomaly (two inventories).
+- **The watchers** return by the twelfth day of the road. Book 6 opens with older, senior men.
+
+---
+
+## 2. The spine — every major source event, in order (all KEEP)
+
+Chronology fixes are noted inline; §9 holds the calendar.
+
+1. **Recess close (Ch1).** Log inventory: sixteen, six fragments, one anomaly, one stamp, "Open the year and find out."
+2. **Convocation:** Withrow's schedule speech; eighteen years.
+3. **Travel roster posted.** S. Seln is listed against *records and floor scheduling*. Cael's line reads *see demonstration provision, enrollment basis, filed*. Ephram: "Every academy on the circuit gets a roster. We get a roster and a reading assignment."
+4. **Roster submission in the records hall.** Bracken certifies "without omission" and the courier leaves at noon. On the bluff road Karis says "We didn't put you on the roster…"
+5. **Seln's counter:** "Pack for the third one." Gault: the panel travels.
+6. **Rooke's first squad session.** Ephram's second-year entry; the profiles table.
+7. **Deficiency memorandum (Ch2).** The four-page response (fielding clause, its history, the soldered syllogism, Bracken's mirror paragraph). Withrow signs it with Cael present and explains her order of operations.
+8. **Lira's out-loud argument on the wall** (the found family's procedure).
+9. **Vastin window: the three-sentence advisory, then silence.**
+10. **The card is printed** ("That is how careful institutions surrender. In the schedule.").
+11. **Rooke's map-room briefing.** The Standard explained; Karis: "So was the sorting." Cael's log: the honest want for the rating.
+12. **Karis reads the charter late and stops; "A note for winter."** (Book 8 plant; one touch.)
+13. **First meet, the wool town (Ch3).** Recognitions (the transcript; the validator's "adjacent to it"). Lira's Iron debut against the Stone Path. Brom's two Copper bouts. Karis's fieldwork. Ephram watched. Cael against the quarryman ("Story undersold you") and the Bronze. Second of six. Rooke's review.
+14. **The protest ruling (Ch4)**; Lira's two days of half work.
+15. **Second meet, the mill town.** The examiner's manual, page thirty-one ("You can lean it"); "one blind spot, and you live in it." Lira against the guild champion (pillar corner). Karis loses to Lira. Ephram's first regional title. Cael against the yard-master (the crane-beam's light), the academy entries, and the *curiosity* Bronze.
+16. **Seln's "Variance is cheap. Buy some."** Rooke's metronome remark. The engineered-scatter program.
+17. **The stove night ("we're rich"). The assay evaluation, routine. First pole written.**
+18. **The scouting economy (Ch5).** The grey-wool compiler logs him logging her. The board-man: "most classified fighter." Brom's dossier from the southern coach; page three as a funnel. Seln's reconciliation (private interest, the market). "Good." Karis's information audit. Auremont's junior scout charting resets. The null report.
+19. **Third meet, the quarry town (Ch6).** The cold halls. Lira at the coat-rack: "Huh. It's small." Lira against Fenmark's second entry. Brom's funnel. Karis and the panel clerk. Ephram's semifinal loss. Cael against the grappler foreman (wrenched shoulder; the variance bill). Hesk's letter (the workshop). The back steps. Zerin's sheet: "faster than me *right now*." Marek's page: "The dangerous direction."
+20. **Qualified (Ch7)** on a circular at a waystation. Rooke clears the shoulder.
+21. **Fourth meet, the confluence.** Lira against the Rank 7 builder (regional title). Brom's flat Copper season. Karis third; Ephram second. The barge-master ("I hope it's cargo"). The category outdraws the brackets. **The caravan captain's Shield bout goes on the page** (see §12 C11). Halcenvane is first in the region. Withrow: "Now we go be measured by everyone at once." Gault's fourth place.
+22. **Academy celebration** (*eighteen years. counted anyway.*).
+23. **Vastin window: the query** (*mitigation options*, *containment framing*, *exposure trajectory*). He answers with evaluations and orders the Norhold files.
+24. **Havel packs his private note.**
+25. **Road to Norhold (Ch8),** seventeen days. Withrow at the twelfth waystation. Arrival on the eighteenth. Fourteen delegations; the banner over the champion's gate; the watchers dissolve. The likenesses ("Inaccurate. The office's ledger is larger."). Ephram's "pre-sold." Auremont arrives and Cael declines the read. The Concourse orientation (Umber "can't want anything from you"). The ring's sockets ("cheaper than deciding"). The draw (Zerin, Marek, Ivenne, the blank).
+26. **Opening (Ch9).** The procession; first sight of Daeva at a hundred metres. Umber locks the Standard. Opening rounds: Lira against the Ash screener, Brom, Karis, Ephram. Two Silver filings. Rooke's council; Seln's "Scheduling is opinion." Karis: "Again." The city's tournament. The empty unplated chair.
+27. **Zerin (Ch10).** The quarterfinal; three days of study ("no gather"; "she's never behind"); Lira's audit of the other road. Lira loses the semifinal on points, four exchanges. At the boards: "Silver bracket, next cycle. Be there." "It's a better want. It costs more."
+28. **Glass (Ch11).** Brom's semifinal against the returning fair-day veteran. Rhagen's warm-up ("peer-reviewing"). The mirror study. The final against Marek over four exchanges (survey, pricing, accumulation, the con). **Continental Copper champion.** The advancement-review notice. The Velmere letter: "Noted."
+29. **What Ternhall Kept (Ch12).** The study collapses; Lira's walk. "The file is *finished*. You're not." The quarterfinal (the file wins, the abandonment, the stranger, the unfinished lattice). Karis loses the semifinal to Auremont's lattice-breaker. The boards with Ivenne. The notebook finding.
+30. **Silver (Ch13).** The ring goes up. Rooke plans a loss. The Rhagen Shield captain: the weave, eleven relocations, the drainage crown, a handspan twice ("We could not find the edges of you"). The circle's debrief: "The doctrine is *filling*." Midpoint log. The Blade duelist three days later. **Vastin fills the chair**, writes twice, and leaves before the number. Seln: "Somebody announced it for him."
+31. **Seventeen (Ch14).** The rest-day walk. The blue door. Seln sits at the table. Hesk's ledger volume and note. Quenna's card and Vell's receipt. The inventory in the new volume. The team trial draws Auremont. "The clause does the rest. Again."
+32. **The Team Trial (Ch15).** Umber approves the squad "with relief." Inspection of the floor. Two exchanges as the better unit. The third: Daeva's stormlane down the diagonal; the half-second read; she stops and reads him. The fourth: re-forming. Auremont advances on objectives. Ephram's handshake.
+33. **The Challenge (Ch16).** The category dies of success. Daeva files: *Overdue.* Detonation through every register. The inner council and the scribes. Cael accepts. Umber's four-item convening. **Vastin clears his calendar.** The board posts [UNCLASSIFIED].
+34. **Third Place (Ch17).** The ridge floor against Rhagen, won as an ensemble; Marek caught by Karis; the scribe's column note. Third on the continent. Withrow's toast; Lira's "you come back to this table." The ring is rebuilt at midnight.
+35. **Daeva (Ch18).** Her window: thirteen in a garden court, the ladder, "specimen," the Tuesday calibration, the dossier, the filing, Auremont's objection. Then the ring conversation two days out: floor numbers, "Being allowed to," "Neither number is us," "Don't hold anything back that matters."
+36. **Eve (Ch19).** Karis's model (three charts; "she arrives third"; *permitted*; the half-beat; the burned card). Rooke's padwork. Brom's survival frame. Lira's liturgy. The banking council and minute. Shadow held sealed. Seln's slip. The Quenna entry.
+37. **Gold Rank Three (Ch20).** Absolute capacity; Umber checks the floor himself. "Terms hold." The first exchange is a courtesy pass and he spends everything public. In the second the fold read works and he scores at the collapse point. The third is braided lanes and the armed resolution point (left side hit). Inventory at the break.
+38. **The Storm (Ch21).** Fourth exchange: the suite fails in sequence; the read does not. He reaches, integrates, seeds one lane, and steps through. Silence. The destabilization; Daeva's mercy stoppage. The healers. The notice. "That was mine." "A piece of it." The rematch promise. Vastin leaves.
+39. **The Silver Standard (Ch22).** The in-camera panel runs until dawn: the tables tried, three arguments, Umber's ruling, the drafting, Vastin present by observation right. The entry. The run on copies; the wrong theories; "our fighter does not mis-seed." Ilsev's closed referral and private note; Havel's fifth entry. Seln's true report. Second pole written at the rail.
+40. **The Meeting (Ch23).** The note; the council objects; Cael overrules. Brom waits at the arch. The hour: the nouns; the warning verbatim; "I don't guess"; the Level 4 non-answer; "Nothing answers a conclusion"; "the method is not a boy's"; "It's the only thing I had to give." The council. The circle's costed rule. The log.
+41. **Placement (Ch24).** Closing ceremony and banner transfer; Daeva breaks procession ("Rematch"). The year's ledger in Hesk's volume. Letters to Hesk and Vell; Hesk's reply. Brom: "The recess's problem." [B4-reconciled 2026-10-05: no season word, #35.] Lira at the rail. The sixth man at the bench. The convening window (≤900 words). The road home, the watchers, Brom's summons, Karis's two bundles, Ephram's plain version. The closing lines.
+
+---
+
+## 3. The expansion plan — where the extra ≈195,000 words come from
+
+Nothing here changes an end state or discloses a reserved truth early. Word figures are planning allowances, not quotas.
+
+### A. Fights given developed room (≈78,000 words of contest, learning fights included)
+
+| Fight | Source | Edition allowance | What the extra room is for |
+|---|---|---|---|
+| Ephram's second-year entry, first squad session | Ch1 para | 1,800 | Learning fight: the continental entry Cael "will see forty times", taken apart slowly, with a correction Cael can attempt again |
+| **New:** Rooke's mock-exhibition night, Cael vs Ephram rated by Gault and Karis with the examiner's manual | — | 2,500 | Teaches the three ratings and par through a bout (front-loaded teaching) |
+| Lira vs the Stone Path at the wool town | Ch3 | 2,000 | Already good; give the slope its terrain |
+| Brom vs the buried fair-day Copper R4 | Ch3 summary | 2,000 | Summarized in the source; the first funnel and pricing in public |
+| Cael vs the quarryman; Cael vs the Bronze | Ch3 | 2,800 + 1,200 | "Managed effort" felt by an opponent |
+| Lira vs the guild champion (pillar corner) | Ch4 summary | 2,300 | On the page |
+| **Karis vs Lira, bracket semifinal ("a family argument")** | Ch4 summary | 1,800 | On the page; Karis loses and gains data; Lira finds what Karis watches |
+| Ephram's first regional final | Ch4 summary | 1,600 | On the page; his winning becomes a habit |
+| Cael vs the yard-master (crane-beam light) | Ch4 | 3,200 | Siege arithmetic; the deliberate fifth exchange (the doctrine's tax) |
+| Lira vs Fenmark's second entry | Ch6 | 2,000 | The doctrine "from inside and beneath"; the exit she gives him |
+| Ephram's third-meet semifinal loss (heat-shadow) | Ch6 summary | 1,300 | On the page; itemized freight |
+| Cael vs the grappler foreman | Ch6 | 2,800 | The variance's first real bill; Compression held banked at contact |
+| Lira vs the confluence Rank 7 builder | Ch7 | 2,800 | Taxation at the structure's edges; "she has stopped fighting inside other people's bouts" |
+| **New on the page:** Cael vs the caravan captain (Bronze Shield, convoy coverage renewed layer by layer) | Ch13 reference only | 2,600 | Closes a source gap; teaches renewal rhythm and timing-and-taxing, which Rhagen's weave later denies |
+| Cael vs the barge-master (current) | Ch7 | 2,600 | Reading the bed of the push |
+| **New:** waystation sparring on the Norhold road, Lira's corner-game against Cael's reads | — | 2,200 | Learning fight: she rehearses "corner a fighter whose baseline outruns your bursts" against the one reader who can see her build |
+| Lira vs the Ash screener (round one) | Ch9 | 1,800 | Taxing the sense she leans on |
+| Brom vs the hill-country mispricing (round two, five exchanges) | Ch9 summary | 1,800 | On the page |
+| Ephram vs the coastal second entry | Ch9 summary | 1,200 | "Two flags to learn the man's reset" |
+| Lira vs Zerin (+ quarterfinal) | Ch10 | 4,800 | Featured; four exchanges, each a different problem |
+| Brom vs the fair-day veteran (semifinal rematch) | Ch11 | 2,000 | "Second time's the real rating" |
+| Brom vs Marek | Ch11 | 5,000 | Featured; survey / pricing / accumulation / con |
+| Karis vs Ivenne | Ch12 | 4,500 | Featured; file / abandonment / stranger / unfinished lattice |
+| Karis vs Auremont's lattice-breaker (semifinal) | Ch12 paragraph | 1,500 | On the page; he "beat the stranger too" (her loss purchases knowledge without becoming a disguised win) |
+| **Ephram's round-of-sixteen exit** vs the lake academy's methodical Shield | implied (Ch12 standings) | 1,400 | On the page; the price of admission paid |
+| Cael vs the Rhagen Shield captain | Ch13 | 4,800 | Featured; the weave has no rhythm; the margin a handspan |
+| Cael vs the Blade duelist | Ch13 | 3,000 | Taking away the clock |
+| Team trial semifinal vs Auremont | Ch15 | 7,000 | Four exchanges; the third voids the floor |
+| Third-place trial vs Rhagen | Ch17 | 5,500 | Ensemble; the crossing war; the caught fall |
+| **Daeva** | Ch20–21 | **14,000** | Three chapters (§8) |
+
+### B. Learning and training arcs (≈24,000)
+
+1. **The Standard as machinery (M1–M2).** The scoring architecture (execution / control / effect, five judges, high and low struck, scaled to par), learned three ways: the map room, a mock-exhibition night graded with the examiner's manual (new), and the mill-town study ("page thirty-one"). The reader should be able to price a rating before the panel posts it.
+2. **Wind's cost structure (M1, recalled).** The recess's finding [B4-reconciled 2026-10-05: no season word]: six bursts free on the sprung oak is what the architecture buys at its current cost, so the cost structure is the work. One dramatized dawn session in the recess. The landing beat is still unshortened (B4 ch62: "three years of trying to trim it"; a year on, four).
+3. **The variance program (M2–M4).** Engineered scatter (a slow first exchange against grapplers; a point conceded with the light behind him), costed and rotated. The grappler shows the theater's budget is three-quarters of the scene's cost. By the confluence the record "breathes."
+4. **Shadow's rent (log, M1–M7)** [B4-reconciled 2026-10-05: B4's word is "rent"; "idle cost" is the source's]. It costs from waking, spent or not; drifts come in the gaps; the drift count per week falls; and it is useful nowhere. The new volume's inventory records the second year of that answer [B4-reconciled 2026-10-05: B4 ch62 "Useful where: nowhere yet. Second year of that answer begins now"; B5 Ch14 falls inside that second year]. The discipline is a background tax the reader learns to feel.
+5. **Shield coverage (M4, new).** In the Norhold block [B4-reconciled 2026-10-05: no season word] Cael works against the Shield third-year reserve's renewal rhythm. Then he meets the caravan captain's layered coverage, which can be timed and taxed. Rhagen's captain later teaches "Silver is not a bigger Iron": continuous weave, nothing to time. Effort turns into capability and then meets its limit.
+6. **Lira's taxation economy (M2–M6).** Taxing the pillar corner, the doctrine gap, the builder's anchoring decision, the corner-game rehearsed on the road. Zerin outruns it at full baseline, and the lesson is spent again in both trials.
+7. **Brom's pricing (M2–M6).** Page three as a funnel; renting the repair; the shoulder-line con. In the third-place trial he prices Marek a second time, faster.
+8. **Karis's absorption (M2–M6, planted).** Across the season, show her charting other people's configurations the way she charts panels: Lira's economy, Brom's pricing, the circuit's not-holding-back. These are notes about other people, never rehearsed in herself. Ivenne's bout is the first time they come out of her hands, unplanned and unscoutable. Do not show a private rehearsal; the source's "it wasn't decided" must stand.
+9. **Reading the medium (M8, new).** After the challenge, Cael trains the Iron-adjacent surface read off weight-language and onto air: Lira's bursts in a closed hall (her wash, a half-beat early), a harbor squall line, the arrestor masts' grounding hum. He reaches Lira-scale reliably. He discovers the price only in hints, because his attention narrows. At Gold scale the price is total, and the ring is where he learns it (source Ch20). The decisive read is earned on the page before it decides anything.
+
+### C. Summarized events put on the page (≈22,000)
+
+- The recess's last week (one dawn ceiling session; one Bracken conversation from Karis's four "about something else").
+- The response drafting: four days and two of verification, with Bracken and Karis at a counter ("a mirror, not a trap").
+- The second meet's bracket finals (Lira; Karis vs Lira; Ephram's title).
+- Karis's two interviews with the presiding adjudicator's clerk at the quarry town (how cold affects flag timing).
+- The fourth meet's other bouts (Brom's final; Karis third; Ephram's near-miss final).
+- The road to Norhold's other days (third: the coastal column; ninth: the flagstaff; fourteenth: the road sorting itself).
+- The opening rounds' fuller card.
+- Karis's semifinal and Ephram's exit at Norhold.
+- The post-match week of resettling (the log at entry length: Wind returning to rate; the left side; "Gold architecture is heavy").
+- The road home in order (ninth day: the district seat; twelfth: the watchers; fourteenth: Karis's bundles).
+
+### D. Supporting-cast arcs (10 people; private wants, independent decisions; many small beats each)
+
+| Character | Private want | Independent decisions on the page | Beats |
+|---|---|---|---|
+| **Lira** | To stop needing an instrument to admit what she is, and then to want something bigger than parity | Assigns herself the argument (M1); gets the board-man's truth (M3); tells Karis about the coat-rack (M6); makes the case against at council (M8); orders "come back to this table" (M8); says the number out loud (M9) | 14–16 |
+| **Brom** | To be priced right, by himself first, and to know what Velmere's ledger now says | Reads dossiers only at the table; rents the repair; moves off the joint by his own judgment (M7); stands at the arch for fifty-one minutes (M9); "I'd have ninety days to decide whether I want one drawn" | 12–14 |
+| **Karis** | To be more than her documentation, and to finish things properly | Banks both clauses; runs the information audit; burns her plan before Ivenne; kills two models in a night; drafts the costed rule and gets four initials | 13–15 |
+| **Seln** | To keep a desk between the boy and the apparatus; unexamined, a seat at a table | "Pack for the third one"; "Variance is cheap"; the reconciliation; sits at the blue door; the slip; the true report; the middle of the bench (his reason is never stated) | 10–12 |
+| **Ephram** | To own his verdict and become someone who wins things | Rehearses in the open and learns the cost; the harbor; the platform trade; the handshake; declines to correct the innkeeper | 9–11 |
+| **Rooke** | To coach the whole fighter, including the parts he refuses to ask about | Plans a loss on the boards; hand flat and low; takes the padwork himself; "Best loss I've coached in twenty years" | 8–10 |
+| **Withrow** | To have built an institution that holds regardless of who stumbles | The order-of-operations speech; signing with Cael present; eight words; absent from the board on purpose; the toast | 7–9 |
+| **Daeva** | An ending she doesn't already know | Files over her academy's objection; tells her ceiling; mercy on a clock; breaks procession | 7–9 |
+| **Vastin** | To keep the record honest when the record stops mattering | The advisory; evaluations in place of fittings; ordering the files; clearing the calendar; the hour; the testimony | 8–10 |
+| **Umber** | For the mark to be true | Audits his own seals in public; approves the squad; the four-item convening; refuses the number | 6–8 |
+
+Secondary threads, one or two beats each: Bracken (boilerplate, the mirror, "slept like a quarry stone"), Gault (the travel case's handle; fourth place), Hesk (letters), Zerin, Marek, Ivenne, Ilsev, Havel, Quenna and Vell (letters), the southern coach.
+
+### E. New episodes (inside canon; ≈20,000)
+
+1. **The mock-exhibition grading night (M1).** Rooke stages two rated bouts on the second floor; Gault and Karis sit as "panel" with the examiner's manual. Cael learns what par feels like from the outside. Seed for page thirty-one.
+2. **The response nights (M1).** Karis finds the bracket rule on the second day (the stair at a run). Bracken writes his one-paragraph aria.
+3. **The caravan captain (M4).** The fourth meet's five challenges include a Bronze Shield convoy guard. This is the bout source Ch13 cites but never stages.
+4. **The cold term at Halcenvane (M4)** [B4-reconciled 2026-10-05: no season word (#35); "winter" replaced throughout; snow, ice and the melt stay as weather]. The Norhold preparation block. Lira and Cael build a Zerin from times alone. Brom pins Marek's notations over his bed. Rooke appoints Ephram the trial caller. Karis builds "Norhold from its provinces" and **does not open the strata note** (B6 Ch1 has her "making herself wait for winter," meaning the next one; that is B6's wording, not this book's). The watchers stand in snow, two and two. A letter from Hesk in the cold months. Seln's null report for the block. The Norhold travel roster posts.
+5. **Waystation sparring on the road (M5).** Above.
+6. **Umber on the eve of the opening (M5, cutaway).** The seals of the last cycle, the case, his clerks. Plants the man whose ruling ends the book's argument.
+7. **Reading the medium (M8).** Above.
+8. **Optional (owner call, §12 C8): the Norhold session (M9)** [B4-reconciled 2026-10-05: "spring" dropped, #35]. Gault's travel case, a borrowed room, ninety routine minutes, renewal, in the week after the match. It supplies the stamp count Book 6 Ch9 assumes ("Four semester stamps"). It would be the provision's THIRD evaluation (B4 held one, the twentieth of Reaping, against the baseline; the mill-town session in M2 is the second).
+
+### F. Humor and warmth (no quota; give each person their own comic habit)
+
+The board-man ("uncertainty is the whole product"). The likenesses (Lira's "better organized" scowl; Brom as a mountain; Seln's "Inaccurate. The office's ledger is larger."). Ephram's lines ("pre-sold"; the harbor's duty roster; the lock-keeper song). Gault's handle and his fourth-place ribbon. Brom's food arriving unordered and the cake he paid for three days early. Karis's "Things adults say that the paper does not support." Karis dancing once and threatening documentation. The guesting-house keeper on the stair. The relay man who "ran out of sentence." The cohort's reaction when Rooke almost smiles.
+
+---
+
+## 4. Movements
+
+| # | Chapters | Words | Source chapters | Title | Reason, in one line |
+|---|---|---|---|---|---|
+| 1 | 1–6 | 31,000 | 1–2 | Roster | Put Cael on the roster by other people's honest text, and teach the Standard |
+| 2 | 7–13 | 35,000 | 3–4 | Standard Measures | Two meets of the doctrine working too well; the first pole written in confidence |
+| 3 | 14–19 | 33,000 | 5–6 | The Scouting Economy | The market reads him at his own speed; Fenmark closes; Zerin and Marek arrive on paper |
+| 4 | 20–26 | 34,000 | 7 (+ the Norhold block, new) | Qualified | The threshold, the confluence, the questions above Vastin change grammar; the cold term builds Norhold [B4-reconciled 2026-10-05: no season word] |
+| 5 | 27–32 | 32,000 | 8–9 | The Concourse | The road, the city, the seal, the draw, the opening rounds, the empty chair |
+| 6 | 33–39 | 35,000 | 10–12 | Three Floors | Each companion fights separately: Zerin, Marek, Ivenne |
+| 7 | 40–46 | 34,000 | 13–15 | Silver | Silver is not a bigger Iron; seventeen; the found family fights together and meets the storm |
+| 8 | 47–53 | 32,000 | 16–19 | The Challenge | *Overdue*; third place; her window; the medium read; the bank is spent |
+| 9 | 54–60 | 34,000 | 20–24 | Unscorable | The match, the blank, the warning, the placement, the room with no windows |
+
+Thirds of the book: M1–M3 = 99,000 (source Ch1–6); M4–M6 = 101,000 (Ch7–12); M7–M9 = 100,000 (Ch13–24). The qualifying season carries most of the new fights. The last third keeps its density because its source is already event-dense.
+
+---
+
+## 5. POV plan
+
+Book-level allocation (owner formula §6): **Cael ≈87% (≈261,000 words); cutaways ≈13% (≈39,000)**. Four named cutaway characters at 2.5–3.3% each, plus short Compact-row cutaways shared by Ilsev and Havel. Close third throughout. Cutaways are brief, purposeful scenes inside Cael's chapters, never alternating chapters. The book-level shape governs; M8 and M9 run cutaway-heavy (≈30%) by design, because Daeva's window and the in-camera night are scenes Cael cannot attend.
+
+| Cutaway | Where (≈words) | Allowed to know | Must never know / say |
+|---|---|---|---|
+| **Vastin** (≈10,000; 3.3%; "the Archmarshal" in B4, no stated age, "forty years" — OWNER #17 [B4-reconciled 2026-10-05]) | M1 advisory 2,000 · M4 the query 2,500 · M5 the observation files and a seat he did not request, 1,000 · M7 after the duelist bout, what he wrote twice, 1,500 · M8 clearing the calendar, 2,000 · M9 after the hour, before the convening, 1,000 | His evaluation and file note; the advisory; the changed vocabulary from above; his answered queries; the summons to the convening; that the Level 4 designation exists, is untraceable, and disturbs him | The integration mechanism or fragments; Seln's null reports (reserved past this book); falsification (B6); any maker, system intent or Architect thought; any threat or side-switch. Keep his age unstated (§12 C2) |
+| **Daeva** (≈9,500; 3.2%) | M8 the window: garden court, ladder, Tuesday calibration, dossier, filing, objection room, 7,000 · M9 after the match and at the procession, 2,500 | Her Kindling and program; Storm Path mechanics as she lives them; the dossier's public contents; what she saw (a lane that was hers, seeded by him) | Any name or theory for the mechanism. She must not think "copy," "absorb," "integrate" or "witnessed." Her words stay at "mine," "a piece," "something I couldn't name" |
+| **Seln** (≈7,500; 2.5%) | M2 reading the ratings spread, 1,200 · M3 the dossier and reconciliation, 3,000 · M4 the null report in the Norhold block [B4-reconciled 2026-10-05: no season word], 800 · M7 the rest day, deciding nothing aloud, 500 · M8 the slip written and squared, 1,000 · M9 the true report and the bench, 1,000 | Tradecraft; the dossier; the variance statistics; the slip; that the bank is being spent (inferred from outcomes) | The mechanism and the Shadow acquisition (B6 Ch15 tells him). No sentence states his reason for switching (the B4 rule continues). The case's contents are never shown or hinted. "How the three evenings were spent" stays off the page |
+| **Umber** (≈7,500; 2.5%) | M5 the eve of the opening and the seals, 2,000 · M6 the Copper final from the tower rail, 1,000 · M7 the squad ruling ("Approve it before somebody makes me invent something"), 1,000 · M9 the in-camera night, 3,500 | The tables, precedents and charter; what nine charts show; that the performance is impossible under his framework | Any theory of how it was done. He may say the schedule "met something it doesn't contain," and no more |
+| **Ilsev / Havel** (≈4,500 together; 1.5%) | M4 Havel packs the note, 800 · M5 Havel reads the row's seating order, 500 · M6 Ilsev's pen at the Copper final, 500 · M7 Ilsev's pen stops at the trial, 700 · M9 Ilsev's closed referral and first private note, 1,400; Havel's fifth entry, 600 | The designation's text and untraceability; their own referrals and notes | Its origin, author or purpose; falsification; anything about Cael's architecture |
+
+**The convening window (M9, ≤900 words):** impersonal narration anchored to a minute and to "a participant's late account." It counts toward neither share. It may state only what §11 allows.
+
+---
+
+## 6. Calendar spine (for continuity; the author may adjust within it)
+
+[B4-reconciled 2026-10-05: season names removed from this section (OWNER #35; B4 M1 close "No season named at Halcenvane"; B4 M9 names no season for the recess). Weather words stay. No month order, no month length and no cross-month day count is ever stated; day counts run in days and weeks from events. The series calendar is an OWNER item (#35, #36.4).]
+- **Qualifying year (convocation to the year's turn).** Day 0 is convocation. The roster is filed on day 4; the memorandum arrives inside the week; Withrow signs on the fourth evening of drafting; the card is printed after about nine days of silence. **The first meet** (the wool town, two days south) falls about five weeks after convocation. **The second** (the mill town, a week west, first hard frost) comes about three weeks later. **The third** (the quarry town, ten days north-west, cold halls) is "eleven weeks" after Seln's counter sentence. **Qualified** comes on the road home. **The fourth meet** (the confluence, two days north of Ostrand) is at the year's turn, in the deep cold.
+- **The cold term (the Norhold block).** Vastin's query arrives in the first week. Havel is assigned. The Norhold block runs.
+- **The road and the tournament.** The road is seventeen days, with the melt under the wheels, and arrival on the eighteenth. The opening is on the first day of a new month (unnamed), about a week after arrival (Cael "had waited a week" for first sight).
+- **Tournament (T = day from the opening).** T1 procession and locking. T2–T4 opening rounds; Silver filings post on T3; the Compact row is charted on T4. About T5 Lira's quarterfinal; about T8 the Zerin semifinal (eleven days before the trial). Brom's semifinal and final run in the second week (the Copper bracket finishes early; see §12 C14). Ivenne about T9, Karis's semifinal about T11. The ring goes up in the second week; the Shield captain bout about T7; **Vastin sits about T10** (the chair held nine days); the duelist about T10. **Rest day T11 = the birthday** (recommend the eleventh of Sowing; §12 C7) [B4-reconciled 2026-10-05: OWNER-pending — the #35 update offers moving the birthday to "the third of Reaping", in which case B5's recollection follows; default stays the eleventh of Sowing; never place the date beside a season word]. Team trial T12. Filing T15. Acceptance and convening T16. Ring conversation T18. Third place T18. **Finals day T20.** Panel overnight T20–21. Meeting T22. Closing ceremony T23. Road home seventeen days.
+- **[M6-redated 2026-10-05 — coordinator ruling; governs over the line above from T10 on.]** M6 (ch33) defers the exhibition ring by a west-tower notice on T5; the Copper final clears the main floor on T9 morning; the crews raise the ring on the night of T10, complete by dawn T11. Rooke's "four days … seven" (M5 ch32) is dead on the page and is not restated. Protected items 22–23 fix the order captain → duelist → rest day → trial ("Tomorrow I find out…"). New spine: **T11 Shield captain** (first Silver exhibition, main floor's ring). **T14 duelist** ("three days later"); **Vastin sits T14**, between the bouts' business; the chair was held T1–T13, so Seln's line reads "held for him for **thirteen** days" (not §10-protected). **T15 rest day = the birthday** (date still OWNER-pending #35; never beside a season word). **T16 team trial.** T17–T18 the empty board; **T19 filing**, the board at dusk; **T20 convening**; **T21 third place**, the ring rebuilt at midnight; T22 the ring "two days out"; T23 eve; **T24 finals day**; panel overnight T24–25; T25 the morning after and the meeting; **T26 closing.** Road home seventeen days. The office's "three weeks" (M5 ch29, ch32) stands as the round figure for the span; no later text states the tournament's length in days. Drop §6's "eleven days before the trial" for Zerin's semifinal (it was T8 against a T16 trial).
+
+---
+
+## 7. Progression plan
+
+### 7.1 Capabilities: where they appear or change, at what cost
+
+| Where | Event | Cost on the page |
+|---|---|---|
+| M1 | Inventory in the old volume: six fragments, each with its standing cost and deployment rule; the anomaly; the stamp [B4-reconciled 2026-10-05: mirror B4 ch62's inventory a year on — Wind six free on the sprung oak, the landing beat unshortened; Pressure held back at the plate, on the Ardenmere record not the wing's, "four blows a sitting" to the right shoulder; the Iron read eleven of twelve at the fourth weight; Compression "nowhere on any record", "nobody official has ever seen it"; Ember four instants on the copper pot; Shadow deployment none, rent from waking, drifts in the gaps, the second year of "nowhere yet"; the anomaly's three words "Still open. Still real. Patience."] | — |
+| M1 | Wind ceiling: six is a cost-structure fact, not a number to raise | Landing beat locked; the leading hip |
+| M1–M2 | **The public suite at documented rates** as a performed discipline. The rating band is chosen ("strong Iron, ceiling unknown") | Every bout is a doubled effort: win and calibrate |
+| M2 | The Standard read from inside: page thirty-one; the instrument leans downward without knowing it | The flinch at declining an honest measure, inventoried |
+| M2–M4 | Engineered scatter | The grappler: a wrenched shoulder-seam, four days; "paid full price, first installment" |
+| M2–M7 | Shadow rent [B4-reconciled 2026-10-05: B4's word]: drifts in the gaps, the count falling; deployment none | Continuous, from waking; Ch19 states the price of the seal |
+| M3–M4 | Iron-adjacent read used on current and on weight-language; compound gaze across five meets | Eye-ache after long charting; recall at tenth speed costs "behind the eyes" |
+| M4 | Shield renewal rhythm timed and taxed (reserve; caravan captain) | Ember's two contacts (the circle's public-floor rule, not a registry figure [B4-reconciled 2026-10-05]) spent against layers |
+| M7 | Silver depth: a weave with no rhythm; eleven relocations; undocumented footwork at a handspan, twice; Compression held banked at contact | Left hip flexor four days; channel-burn on the right hand. "There is no band below me to hide in anymore." |
+| M7 | The trial: the read at its absolute limit against a stormlane; vacated ground at half a second | — |
+| M8 | **Reading the medium** trained to Lira scale | Attention narrows. The Gold-scale price (the woman or the air, not both) is learned in the ring |
+| M8 | **The bank is spent (council and minute):** Wind past six, Pressure at combat load, Compression public, Ember at collapse points. Shadow sealed | "A rate you have shown is a rate you have shown forever." |
+| M9 | The match: Compression on a tournament floor for the first time, in front of a crowd for the first time since the Reydan bout at Ardenmere [B4-reconciled 2026-10-05: replaces "public for the first time in its existence"; B4 ch43 puts the Reydan bout on the Ardenmere circuit record]; Pressure shoves and falls; the score at the collapse point; the armed point; the left side hit, shoulder to hip | Ignition-arm burn; feet ringing; the left side at a known discount (a fifth of a beat) |
+| M9 | Fourth exchange: Wind, Compression, Pressure and Ember fail in sequence; the read does not | — |
+| M9 | **The reach**: directed, open-eyed, mid-fight. **FRAGMENT ACQUIRED — Storm-adjacent** (verbatim, §10). A crude half-scale lane: fifteen feet at a third of the depth; a spark of discharge | A half-second of a fight he did not have; **destabilization**: Wind drops mid-step, the stumble, the stoppage |
+| M9 | Firsts counted: the first notice to say *Gold*; the first stability warning | Resettling across the post-match week and the road (the flag still stands at close) |
+| M9 | The circle's costed rule, initialed | — |
+
+Fragment count stays **six** until the notice in M9, then **seven**. The anomaly is never counted and is touched only in the M7 inventory and the M9 ledger, with the standing three words.
+
+### 7.2 Front-loaded teaching (owner formula §4)
+
+Book target ≈58 progression-vocabulary hits per 10k words, shaped **first third ≈83 / 10k, middle ≈43 / 10k, last ≈47 / 10k** (the source proportion 900 : 471 : 514, ~1.7×). In this book the vocabulary is: tier, rank, rating, par, the Standard, execution/control/effect, band, normalization, bracket, seed, exhibition, Arbiter, classification, registry, validation, Path, declaration, fragment, notice, ceiling, cost, burst, landing beat, surface read, compound gaze, banked/public suite, deployment, documented rate, integration (circle and log only), stability.
+- **First third (M1–M3, src 1–6):** teach hard. Tier brackets and seeding by paper. The Standard's architecture, worked at least three times on the page. Exhibition provisions. Registry validation ("adjacent"). Each fragment's cost in the inventory. The band and the variance program. The assay evaluation. Let the reader price ratings before the panel posts them.
+- **Middle (M4–M6, src 7–12):** surface the system at turning points. The threshold; the query's nouns; Silver assessment pending on Zerin's sheet; Brom's advancement-review machinery; Karis's documented self.
+- **Last (M7–M9, src 13–24):** the Silver depth; the inventory at seventeen; the bank council; the match; the notice; the unscorable entry; the year's ledger. Character and plot carry the rest.
+
+### 7.3 Development cadence (owner formula §5)
+
+- **Cael:** ≈4.5 growth or realization beats per 10k words, ≈136 in the book, one about every 2,200 words. Planned by movement: M1 13 · M2 14 · M3 13 · M4 17 · M5 16 · M6 18 · M7 15 · M8 15 · M9 15. That is ≈40 / 51 / 45 by thirds: a slight middle bump, not back-loaded.
+- **Supporting cast:** many small beats each, spread across the ten in §3 D. No one takes more than ~20% of the secondary budget.
+
+### 7.4 Prose and rhythm targets (owner formula §2–3, §8–9; measured after each movement with `tools/formula_metrics.py`)
+
+| Measure | Target |
+|---|---|
+| Sentence length | Mean 14.6 words, median 11, wide spread (stdev ~26); ~27.7% of sentences at ≤5 words; ~3.3% at ≥40 |
+| Paragraphs (directional proxy) | Median ~18, mean ~26.8 words |
+| Scene/section breaks (directional proxy) | About every 950 words (~8.7 per 10k) |
+| Readability | Flesch Reading Ease ~72.3; FK grade ~6.8 |
+| Dialogue tags | ~41 / 10k |
+| Combat vocabulary | ~22 / 10k, present throughout and not only in fights |
+| Secondary, to taste | Adverbs ~161 / 10k; keep "that" below 92 / 10k |
+
+The current edition measured mean 17.5, paragraph median ~44, FRE ~67 and FK ~8.3. The source's long, semicolon-and-dash sentences are its biggest gap from target. Move toward the targets, and keep a purposeful long sentence when its hierarchy is clear.
+
+**Reader Standard (thirteen-year-old)** outranks every voice preference. The source scans clean of the banned list; keep it clean. Violence carries cost and fear without gore, including the Gold discharge on the left side and the stopped match.
+
+**Audio-first:** clear referents; attribution in scenes with three or more speakers (councils, the blue door, the trial bench); fragment and notice text speakable aloud. Notices are anchored to Cael's perception within two sentences.
+
+---
+
+## 8. Major fights and set pieces: planning allowances (private staging the author owns)
+
+Each major fight needs, privately: terrain, starting positions, reach, objectives, available techniques, injuries and limits. Render it as changing decisions. The opponent learns too. Reversals follow from planted information.
+
+- **The quarryman (M2; wool town; third floor against the old market wall).** He herds to the wall; Cael pre-empts with the surface read and turns the wall around by increments. The opponent's correction: he reads managed effort. Carry the "undersold!" rumor forward.
+- **The yard-master (M2; mill-guild hall; crane-beam light; tool racks on the west flank).** Siege by paid-for inches; the floor shrinks to two-thirds. The answer is the light he has stopped seeing. The fifth exchange is bought on purpose, as the doctrine's tax. Cost: the left calf.
+- **The grappler foreman (M3; slate flags, cold).** The designed slow first exchange meets a real grappler. One hand gets on him. Compression stays banked at a handspan, and a wrenched shoulder-seam is the price. He wins the long way. The log gives the true accounting.
+- **The caravan captain (M4, new; the confluence's second hall; Bronze Shield).** Coverage renewed layer by layer, each layer a discrete declaration. Cael learns to time the renewal and tax it with Ember. **Teach only renewal-and-tax here**, so Rhagen's continuous weave in M7 lands as "Silver is not a bigger Iron." Allowance 2,600.
+- **The barge-master (M4).** Current with a bed; riding the grain; one contact. Bruising along the right forearm.
+- **Lira vs Zerin (M6; second floor, forty feet under the high glass).** E1: a tenth late on every window. E2: spending, corners, the banked burst; Zerin is *behind* for half a beat. E3: Zerin studies, pays the tax early, and yield per corner falls. E4: full baseline; the medium changes state. The final arithmetic: "naught-three, two-one, one-two, one-three." The burst shoulder takes a week of half work.
+- **Brom vs Marek (M6; main floor; sixty feet; a stone-and-board inlay seam ring).** Brom plants with the seam behind his heels. E1: five stakes. E2: tolls. E3: interest rising; the sixth seam found and declined. Break: Marek does not glance at the shoulder line. E4: the con. Deep forearm bruising.
+- **Karis vs Ivenne (M6; second floor; migrating light panes; dais on the south rail).** The file wins, then the abandonment (raw, unanchored points placed in passing), then the stranger, then the unfinished lattice. Both palms scorched at the heel and the left wrist strained, "half an exchange of invention left."
+- **The Rhagen Shield captain (M7; the exhibition ring; fifty-two feet; drainage crown; north and south gate breaks).** Survey (the weave takes probes like deep water); mining the edge (eleven relocations; the downhill spread); the captain re-anchors on the crown and prices the twelfth; the handspan twice; Ember knocks one layer off tempo; the fourth exchange arrives through the aging seam. Left hip flexor; channel-burn.
+- **Team trial (M7; ninety-foot scenario floor; three platforms, the south one costing double; a diagonal barrier with two joint gaps; sight-blocks).** Lira's "fast north, slow south"; Brom in the second joint; Karis's ramps; Ephram's calls. E3: **the stormlane runs down the diagonal**, the feature nobody priced and Cael's notebook alone noted. E4: re-forming. Daeva crosses him once at full speed and stops for one second.
+- **Third place (M8; ridge diagonal, sixty-one paces; crown shoulder-high for eleven).** The crossing war; Lira's downhill curriculum; Marek takes the west-dip gap, which was real and priced, and Karis catches him with one hand. In the second exchange the captain verifies the instrument. E3: consolidation.
+- **Daeva (M9; ≈14,000 words over three chapters).** The ring (§10 figures): fifty-two by forty-eight; crown half an inch north to south; barrier six feet with bull-nose coping; four gate breaks; four arrestor masts at the quarters; reinforced stone over a through-bolted sub-frame. Starting marks at the flags. She owns the middle, and her lanes run downhill. **E1 (≈3,000):** courtesy pass; every public architecture spent in ninety seconds; losing ground. **E2 (≈2,500):** the fold read pays; early arrivals; the score at the collapse point; the bill (burned forearm, ringing feet). **E3 (≈3,000):** braid; triage; the armed resolution point; the left side hit, shoulder to hip; the referee steps in and lets it continue; the third movement on a damaged instrument. **Break (≈1,200):** inventory, with the other instrument working underneath it. **E4 (≈3,500):** the suite fails in sequence; the read stays legible; out of ground; the conditions complete; the reach, held as the line drawn the year before at Halcenvane in three numbered rules (B4 ch23's signed minute: conditions not to be manufactured; a directed acquisition only within earnest engagement the subject begins himself; the full cost written beforehand, including the wish) — "directed, open-eyed, or not at all" is the circle's own shorthand for it in this book, not a B4 quotation [B4-reconciled 2026-10-05: replaces "a decision drawn two years earlier"; the minute is d113 of B4, a little over a year before finals day]; the seeded lane; the silence in strata; the destabilization; her mercy. **After (≈800):** healers, the notice, the hand up, the promise. Expand the decisive exchange, allow recovery and observation, then accelerate. Exchanges run to exchanges, not a clock.
+
+---
+
+## 9. The record and window passages: exact limits
+
+- **The convening (M9):** "a chamber with no windows," faceless officials, the question read verbatim, the tournament record and the unscorable entry cited, Vastin's testimony verbatim, the Level 4 designation cited and nobody able to name its authorizing office (sub-layer; trace attempted and closed), *entered for formal proceedings*, no vote. **Cut the source's "and a flag no living hand had authorized four centuries before that"** and "seven years" (§12 C4 and C3). Use "a flag no living hand had authorized."
+- **The in-camera panel (M9):** the minute's single stage direction (*the Chief Adjudicator paused*); Vastin *present by observation right of the Compact, one senior officer, who spoke no word*.
+
+---
+
+## 10. Protected wording (verbatim; later books quote or call these back)
+
+**Marked † where Books 6–8 quote or echo the line (verified by grep, 2026-10-01).** The rest are architecture-locked or series-bible beats. Keep every word; repair punctuation only if the meaning is unchanged and word-locked.
+
+**Charter, registry and adjudication text**
+1. † (B4 Ch24 → B5 Ch2) *Participating academies shall field any practitioner appearing on their enrollment record.*
+2. (Ch1) *I certify this record complete and true, containing every practitioner enrolled at this institution on the date given, without omission.*
+3. (Ch2) *Item the third: the enrollment record submitted includes a practitioner holding no registry classification. An unclassified practitioner cannot be seeded to a tier bracket. A practitioner who cannot be seeded cannot be fielded. The roster is accordingly defective on its face. Correct and resubmit within fourteen days.*
+4. (Ch2) *practitioners for whom no tier seeding is applicable shall be scheduled per the demonstration-exhibition provisions* · *demonstration performances are rated against the Standard for performance rating only.*
+5. (Ch2, Vastin's advisory) *The clause says what it says. The enrollment is lawful on its face and adjudicated at public record. If the Compact wishes practitioners of this kind not to compete, it should write different rules — not misread the ones it has.*
+6. (Ch2) *C. Cael, enrolled practitioner, unclassified — scheduled per demonstration-exhibition provisions.* [B4-reconciled 2026-10-05: kept verbatim; the registry name is "Caelen Hesk-ward, 41-7843-V" (B4 ch2) — let the roster line carry the registry number in one clause so "C. Cael" reads as the schedule office's abbreviation.]
+7. (Ch4) *The Standard rates performance, not outcomes. The panel finds the performance was rated correctly, and observes that the protest's actual complaint — that the practitioner appears to have won without extending himself — is not a scoring error, and the remedy for it is not available from this office.*
+8. (Ch4, manual) *Judges rate the performance demonstrated, not the capacity inferred.* · *performance below evident capacity is not a scoring irregularity.*
+9. (Ch7, the query's nouns) *mitigation options* · *containment framing* · *exposure trajectory*
+10. (Ch7) *the demonstration-exhibition category, administered per charter as a scored non-standing curiosity, was this meet's principal public attraction, a circumstance for which the administering office can locate no precedent and, it must be admitted, no rule against.*
+11. (Ch9, Umber's attestation) *the mark is the mark of the last cycle and every cycle; no hand has adjusted it; against it all are measured alike*
+12. (Ch9) *Squads shall be drawn from the academy's roster.* · *Again.*
+13. † (Ch16, the filing's reason) *Overdue.*
+14. (Ch16) CAEL — HALCENVANE — [UNCLASSIFIED] vs. DAEVA — AUREMONT — GOLD 3.
+15. (Ch17) *engagement resolved by three fighters, none of whom occupied the contested ground at initiation. Recommend the trial sheet acquire a column.*
+16. † (Ch22) *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.*
+17. (Ch22) *Referral closed at registry level; no further inquiry authorized.*
+18. (Ch24) *Whether the classification [SHATTERED] shall be designated an active threat category.* · *entered for formal proceedings*
+
+**The notice (Ch21), verbatim:**
+```
+FRAGMENT ACQUIRED
+[unnamed] — Storm-adjacent. Duration: sustained. Integration: partial.
+Tier equivalent: Gold.
+Stability: provisional — architecture under load.
+Note: pressure-differential component; corridor-seeding component. Short range.
+Acquisition: directed. Engagement: adversarial, combat.
+```
+
+**Log entries (Cael's hand)**
+19. (Ch1 close) *Season's open. The tournament rules say an academy fields what it enrolls. I'm enrolled. Somewhere a committee is about to have a very bad week, and for once, none of it will be my argument. It's just their own text, arriving.*
+20. (Ch3 close) *First meet. The companions are winning in brackets with their names on them. I'm winning in a category invented before the categories. Everyone's being measured. I'm being — accommodated. Filed under: things the season will have to answer.*
+21. (Ch4, first pole) *Rated again. In-band again. The judges keep writing numbers that mean "strong Iron, ceiling unknown," and the honest entry is: I can beat anyone at my tier. I've tested that sentence for three years and it holds. What I haven't tested is what tier means when the word points at me. Not this season's problem.* [B4-reconciled 2026-10-05 — OWNER item, wording kept: B4's ledger makes Book 2's Ardenmere circuit "two years" ago at Book 4, so "three years" here is correct only read as since the first Iron circuit; it must NOT restate B4's "three years" for Lira or the Wind (four by now) or for Brom (three). If the owner prefers no count: proposed *I've tested that sentence for years and it holds.* — protected line amended only on the owner's say; default keeps "three years".]
+22. (Ch13, the pivot) *I said I can beat anyone at my tier. I just beat Silver. So which tier is mine?* … *Tonight's honest entry: I have never once stood on the ladder. I've been climbing alongside it, and calling the nearest rung mine.*
+23. (Ch14) *Seventeen. Six fragments. Tomorrow I find out if the second technicality holds, and if it does — the found family fights together, on a sanctioned floor, for the first time in any of our lives. Whatever else this tournament is for, it was for that.*
+24. † (Ch14, Ch24 inventories) *Still open. Still real. Patience.*
+25. (Ch15) *She stopped mid-trial to read me. Gold Rank 3, nineteen years old, and the first person at this tournament whose attention feels like mine. Filed under: things that are going to happen whether I schedule them or not.*
+26. (Ch17) *They're building the floor to hold her. Nobody asked what it would take to hold me. Reasonable. I don't know either.*
+27. (Ch18) *Gold Rank 3. The system's favorite. And the loneliest read I've taken since Vastin — except hers is lonely like mine. Two days.*
+28. (Ch19) *Quenna asked if I could not-do it in front of people who wish me harm. I learned to.* … *Tomorrow's question is whether I can afford to keep not-doing it in front of someone who can kill me by accident.* · *I don't think I can.* · *Write it down before, not after.*
+29. (Ch22, second pole) *They didn't score me low. They didn't score me high. They couldn't score me. I have spent three years telling myself I can beat anyone at my tier. Tonight the fairest instrument ever built agreed with the Arbiter, the brackets, and the registry: I am not at any tier.* · *I keep waiting for that sentence to feel like a wound. It feels like the truth arriving.* [B4-reconciled 2026-10-05 — OWNER item, same as item 21: "three years" = since the Ardenmere circuit (B2); alternative if the owner drops the count: *I have spent years telling myself…*; default keeps "three years".]
+30. (Ch23) *First honest warning I've ever gotten from inside the machine. He built no case, made no ask, took no note. He just told me the weather. The Compact's best evaluator thinks the next thing that comes for me won't wear a uniform or file a challenge. Write it down. Believe it. Keep competing anyway — but from tonight, we build like people who believe it.*
+31. † (Ch24; B6 Ch24 and B7 Ch24 echo) *Reydan will read the accounts. It still isn't the answer. Not yet.*
+32. (Ch23, the circle's rule) *the conditions may complete themselves anywhere; the deciding may not. The line holds: directed, open-eyed — and from tonight, costed.* [B4-reconciled 2026-10-05: kept; "directed, open-eyed" is this book's shorthand for B4's three-rule minute (ch23), which B4 never phrases this way — when the circle recalls the line in prose, recall B4's rules, not the source's slogan.]
+
+**Spoken lines and letters**
+33. (Ch1, Karis) "We didn't put you on the roster. We just declined to commit fraud by leaving you off. The clause does the rest." · (Ch14) "You're on the roster," she said. "The clause does the rest. Again."
+34. (Ch1, Seln) "Pack for the third one. The halls at the third one are cold."
+35. (Ch3, the validator) "adjacent to it." (Ch3, Lira) "Nobody gets to be surprised by me anymore. I have to actually be this good."
+36. (Ch4, Karis) "The fairest instrument on the continent has exactly one blind spot, and you live in it." (Seln) "Variance is cheap. Buy some."
+37. (Ch5, Cael) "I'd rather fight people who prepared for the wrong me than people who prepared for nothing." (Seln) "private interest, confirmed — the market, not the Compact."
+38. (Ch6, Lira) "She's not faster than me," … "She's faster than me *right now*." (Brom) "This one's been mispriced too. The dangerous direction."
+39. (Ch7, Withrow) "Now we go be measured by everyone at once."
+40. (Ch8, Ephram) "At Halcenvane you arrived pre-explained. Here you arrived pre-*sold*. Try to be a disappointing product." (Cael) "Everyone else knows who they're fighting," he said. "I'm about to find out who volunteers."
+41. † (Ch10; B6 Ch6 and Ch19) "Fenmark threw you away?" / "Their ledger said Copper." / "Their ledger is garbage." … "Silver bracket, next cycle. Be there." · (Lira) "I used to want them to admit what I already was." … "Now I want to become something they haven't seen yet." … "It's a better want. It costs more."
+42. (Ch11, Rooke) "He'll find every gap. Plan to have fewer." · (letter) *Grandmother watched the lists for your name. She found it.* · "Noted," said Brom.
+43. (Ch12) "The file is accurate." / "The file is *finished*," … "You're not." · "Ternhall's file will fight the woman who left. Halcenvane sends the one who arrived." · (Ivenne/Karis) "Ternhall's file on you is the best document I've ever worked from," … "It was perfect through the first exchange." / "I know," said Karis. "I wrote most of it." … "Whatever you transferred for," … "Did you find it?" / "Yes."
+44. (Ch13, the Shield captain) "we found the edges of what you showed us. We could not find the edges of you. Rhagen distinguishes between those findings."
+45. † (Ch14, Hesk; B6 Ch5 echoes "measures true") *Seventeen. My trade says an instrument is finished when it measures true — not when it looks done. You measure true. Let the rest of them look. — H.*
+46. (Ch15, Ephram) "I'm done waiting. Whatever you are, I'm glad it's on my side of the floor."
+47. † (Ch16, Umber; B6 Ch6 echoes) "It has waited three hundred years for a bout that requires it. We will not refuse the one it was built for. The panel will rate what is demonstrated. The tables will hold, or we will learn something about the tables."
+48. (Ch16, Seln) "The adjudication office has requested three additional recording scribes for finals day." · (Cael) "They finally wrote it down the honest way," … "A blank, with my name next to it."
+49. (Ch16, Vastin's window) *an evaluation that begins from its conclusion is a report about the evaluator. Somewhere above him, a report about the evaluators was being written, and he intended to see the evidence himself before it was.*
+50. (Ch17, Withrow) "Third on the continent, by the instrument's own arithmetic." … "Whatever else happens on finals day — they counted us. Remember when they wouldn't."
+51. (Ch18) "They measure you and get nothing. They measure me and get records. You know what's identical about that?" / "Neither number is us," … "*Neither number is us.* Nineteen years, and I've never once said that sentence out loud." … "Don't hold anything back that matters. I'll know, and it will insult us both."
+52. (Ch19, Brom) "You've never fought anyone where survival was the win condition." … "Score is for the judges." · (Lira) "The person who walks onto that floor has to still be you." · (Seln's slip) *Judges rewatch what they cannot score. Whatever you show tomorrow will be studied frame by frame by people whose profession is categories. Decide tonight what you are content to have studied forever.*
+53. (Ch20) "Terms hold?" / "Terms hold,"
+54. (Ch21) "That was mine." / "A piece of it," … "Nineteen years," she said. "Nobody has ever shown me something I couldn't name." … "Find out what you are. Then find me. I want the rematch with whatever that is." · (Rooke) "That's the whole education, right there. Not the lane. The mercy, on a clock."
+55. (Ch22, Umber) "The record is the truth or it is nothing. Write the entry." · (Auremont) *our fighter does not mis-seed.*
+56. † (Ch23; B6 Ch11 quotes) "You should stop competing publicly." / Cael asked why. / "Because the people who want this to stop are not going to use official channels much longer." · "If I gave you names I would be guessing, and I don't guess." · "No. I evaluated you." … "But you'll know when the channel changes, now. Knowing is worth something. It's the only thing I had to give." · (Seln) "Wardens threaten. Politicians hint. That was neither." … "That was an honest man spending career capital to tell you the truth a few months early. Treat the warning as real, because it is."
+57. (Ch24, Daeva) "Rematch." · † (Hesk; B6 Ch6 echoes "no number goes here") *Third on the continent, and the judges wrote "no number goes here." Your grandmother would have had that framed. Seventeen, unmeasured, and true. Come home when the road allows. — H.* · (to Vell) *Your ledger rated me before any of theirs could. It's still the one I check the others against.*
+58. (Ch24, Vastin's testimony) "You are proposing to classify a boy as a threat category because your instruments cannot classify him as anything else. I have evaluated the instruments. The finding is theirs, not his."
+59. (Ch24, the close) "I have seven things that aren't a Path," … "A match record no instrument can hold, and five people who watched them fail to score me." … "And somewhere above all of it, a room full of careful people deciding what I am. Again." / "They're behind schedule," said Lira. "You already decided." / "Years ago," said Brom. / Karis, writing: "Noted." … *The standard was silver. He wasn't anything the silver could measure. The road home ran through a continent that now knew it — and somewhere behind them, in a room with no windows, the machine began deciding what to do about what it couldn't measure.*
+60. † (B6 Ch15 quotes) Daeva's Kindling: **thirteen, in a garden court** (§12 C1).
+61. (B4 carry) "Gratitude is the leak." (B4 ch58, exact) · the slip-and-stove protocol (unspoken) [B4-reconciled 2026-10-05: one slip in B4 (ch53), burned once; the "protocol" is this book's continuation of it, never named aloud]. Also carried exact from B4 ch62: "Thank you for the form."; Withrow's "Halcenvane Academy will contest the qualifying season."; the clause's citation "Sixth part… The fourth subsection"; Hesk's register "Sixteen suits you." (sets this book's "Seventeen" note, item 45); Ephram's "Next term."
+
+**Facts later books depend on:** the eleven words "travel" as an exhibit (B6 Ch4, Ch6, Ch8, Ch18); Brom's review via the continental title; Lira's "be there"; the Storm components (pressure differential; corridor seeding); the rematch; Seln at the bench from the waystation onward; the 52-foot ring; eight thousand witnesses.
+
+---
+
+## 11. Reserved truths and release limits for this book
+
+| Reserved truth | This book may | This book may NOT |
+|---|---|---|
+| Integration of witnessed abilities (known to the circle since B3) | Publish the **effect**: a practitioner with no Storm record deploying Storm architecture mid-bout. The log and the circle use "integration," "digestion" and "conditions"; Daeva gets "A piece of it." Public theories enumerated, all wrong | Any character outside Lira, Brom and Karis naming, guessing or approaching the mechanism. **Seln and Ephram are not told** (B6 Ch15 tells Seln). Rooke never asks. No cutaway voices it |
+| Compact falsifies classifications (B6) | Seln's locked case travels, unopened. Vastin's "errors get corrected, limits get defended" | Show or hint at the case's contents; any "reclassification" talk |
+| Level 4 origin (B6 plant; Architect later) | The closed referral; Ilsev's private note; Havel's fifth entry; Vastin declines the question; the convening cites it and cannot trace it | Any author, era or purpose; any "four centuries" (§12 C4) |
+| Fractured Path predates classification (B8; earliest plant B5, two plants minimum) | **Plants at source altitude:** Karis's stratum note on the charter (Ch2, "A note for winter"); "Again" and "Twice is starting to look like a door somebody built on purpose" (Ch9); "The strata keep holding me up" (Ch7 log); the steward's bricked-up door (Ch8) | The word [UNBOUND] anywhere; any new source; Karis opening the strata note this book; any connection to Cael's nature |
+| The Architect / Arbiter infrastructure (B9; will active B11) | Umber: the mark "was built for a world with a schedule in it." Daeva's sigil "older than the school and the city and the law" (her perception) | Any maker, design intent, listening system, or age figure for the system (§12 C4) |
+| The still place / Tide anomaly | Two inventory mentions with the three words | Reproduction, explanation or count. **No Tide Path practitioner appears anywhere in this book** (architecture constraint) |
+| Seln's switch | Behavior only: the slip, the table, the bench | A sentence stating his reason; a confession |
+| Vastin's arc | The five-stage escalation; the warning; the testimony | Threat; "stops being the Compact's instrument" (B6); detecting Seln's null reports |
+| The faction above Vastin | A shape: changed nouns, a seat held, a door closed from the other side | Names, faces or a location |
+| Hesk's history | "Your grandmother proved a version of it once with a door"; "Ask me when the road runs home" | The name; the story |
+
+---
+
+## 12. Canon conflicts found in the source (for owner ruling; drafting proceeds on the recommendation unless the owner rules otherwise)
+
+- **C1 · Kindling ages against the LOCKED rule (Kindling at fourteen).** [B4-reconciled 2026-10-05: OWNER-DECISIONS #16 default in force — Daeva thirteen as a rare exception (needs a bible amendment); others fourteen. Drafting is not blocked.] Daeva Kindled at **thirteen** (Ch18; the architecture says eleven), and **Book 6 Ch15 quotes "Daeva's at thirteen in a garden court."** Zerin: Ch6 says Kindled at fourteen inside the program, but Ch10 says "Kindled at twelve — a year early, verified." Marek "Kindled late" (Ch11). Ch21: "Storm practitioners are given a vocabulary for this at twelve." **Recommend:** keep Daeva at thirteen as a registry-verified rarity ("single digits per century"), because later prose depends on it, and the owner amends the bible's LOCKED line to admit documented early Kindlings or rules otherwise. Zerin Kindled at fourteen, in the program from twelve. Marek's rank "came late," with the rank machinery counting from a late registration, not a late Kindling. Ch21's figure becomes "at fourteen." **Owner call (bible).**
+- **C2 · Vastin's career length and age.** [B4-reconciled 2026-10-05: OWNER-DECISIONS #17 default in force — "forty"; age never stated; B4 ch59 "in forty years" and the M6/M7/M9 rulings "no stated age". Seln's line becomes "forty-year career"; M8's "thirty-odd" becomes "forty-odd". His title is "the Archmarshal". Drafting is not blocked.] The source says "thirty years" in Ch2, 7, 16 and 23 (including Seln's protected-adjacent "every rule of a thirty-year career") and "four decades" in Ch7 and Ch16. The architecture, B4 Ch23 and B8 ("his rounding") use **forty**. The bible makes him 51 at Book 4; B4's prose says sixty; B8 says fifty-three. **Recommend:** state no age. Use "forty years" as his own rounding, consistent with B4 and B8, and change Seln's line to "forty-year career" per the architecture. **Owner call**, because it touches protected-adjacent dialogue.
+- **C3 · Elapsed time since Kindling.** [B4-reconciled 2026-10-05: OWNER-DECISIONS #9/#18 default in force — "since his Kindling", never a number. B4's own event-counts, a year on: Book 1 (Lira, the Wind, the landing beat, Fenmark's certificate) four years; Book 2 (Brom, the Iron read, the Ardenmere circuit, Reydan, the Tide anomaly) three years; the Halcenvane minute, the stair and the Shadow fragment "a year, near enough". Drafting is not blocked; the "three years" in protected items 21 and 29 is an OWNER item (see §10).] The source has "four-year interior file," "four years of language" (Ch3), "four years' habit" (Ch8), and in the convening "seven years" (Ch24), against two and a half years by the LOCKED timeline. This is series-wide drift (B4 plan C3). **Plan:** "since his Kindling," "three years" only for since-Ardenmere at the year's end, and cut "four" and "seven." **Owner call** on the series-wide figure.
+- **C4 · Plant altitude (Architect / system age).** The Ch24 convening says "and a flag no living hand had authorized **four centuries before that**," which implies an automatic flag dating to the system's origin (B9/B11 territory). Narration also gives the system's age as "four hundred years" (Ch4), "fixed for four centuries" (Ch18) and similar; B8's leaf delivers ~400 years as a finding. **Cut the convening clause. Replace the narrated counts with "for as long as anyone kept records."** The tournament's "three hundred years" stays (charter age).
+- **C5 · SECRET leak.** Ch14: "the only five people on the continent who knew both his ledgers." Seln and Ephram are at that table and do not know. **Fix:** four who know, and two who have chosen not to ask.
+- **C6 · Hesk's volume.** Ch24 calls it "a birthday gift in midwinter … not been opened past its fourth leaf all season," which contradicts Ch14 (the rest-day gift, inventoried in the new volume, with Ch15's log in it). B6 Ch1 has the road home "closed in the old volume." **Plan:** the year's ledger goes in Hesk's volume (Ch24); the road's daily entries go in the old volume's last leaves (satisfying B6 Ch1); drop "midwinter" and "fourth leaf."
+- **C7 · Birthday calendar.** B4 stages sixteen on the eleventh of Sowing. B5 stages seventeen at the Norhold rest day in spring. Ch14 recalls sixteen as "a wall above a river, a delegation four days gone," which contradicts B4 Ch14 (B4 plan C8). **Plan:** the rest day falls on the eleventh of Sowing; recall sixteen only as "the first one, which proved the day could be kept." [B4-reconciled 2026-10-05: B4 ch37 stages sixteen on the eleventh of Sowing with the delegation not yet arrived (it came the twelfth of Reaping), so the source's "a delegation four days gone" is false in the edition. The date is OWNER-pending under #35's update ("the third of Reaping" is offered); default stays. Never beside a season word.]
+- **C8 · Semester evaluation.** Ch1 says the evaluation is "scheduled for the spring" and travels; Ch4 holds an evaluation at the mill town in the qualifying season; B6 Ch9 counts "Four semester stamps." **Plan:** the mill-town session is the qualifying-season evaluation (as staged). Add the optional brief Norhold session in M9 (renewal, routine) to support the count. **Owner call.** [B4-reconciled 2026-10-05: B4 holds ONE semester evaluation (the twentieth of Reaping) against a baseline, and Gault's calendar (ch62) calls the provision's evaluation "half-yearly", "Panel of record: Gault, with two", "Measured against: baseline (entry), and the note of the twentieth of Reaping". So the mill-town session is the provision's SECOND evaluation, not "Cael's third" as the source Ch1 has it; the optional Norhold session would be the third. No season word for either.]
+- **C9 · Shadow-adjacent's age.** Ch14 "sixteen months" and Ch19 "sixteen months ago" against B4 Ch24 "Sixteen weeks" at Book 4 close. **Plan:** "a year, near enough" / "since the records hall" / no count [B4-reconciled 2026-10-05: replaces "since last spring" (season word); in the edition the fragment was acquired on the stair on B4 d149/150, was "eighteen days old" at the eleventh of Sowing (ch37) and about seven weeks old at the B4 close — the source's "Sixteen weeks" is superseded]. (B6 Ch15's "two and a half years" is Book 6's problem; flag downstream.)
+- **C10 · Meta references in prose.** Ch5 "Book 3's flaw"; Ch12 "Third book of my life"; Ch22 "traveling toward all book." Not carried.
+- **C11 · Missing scene.** Ch13 cites "the caravan captain's convoy-work at the fourth meet," but no caravan captain appears in Ch7. **Resolved by expansion:** the bout goes on the page in M4.
+- **C12 · Ilsev's referral and service.** Ch22 says she filed it "from Halcenvane's inspection two years ago" and has "forty years of service"; the inspection was last year. **Plan:** "last year"; length of service unstated.
+- **C13 · Daeva's internal numbers.** Ch18 has "eleven years of records," "invested eleven years in me," and a Gold Rank 6 border veteran "the summer she was fifteen" while she was Iron (Silver at sixteen). **Plan:** six years since the garden court, seven in the program. The coastal bout is an exhibition across tiers, which the category permits. "Four years" without doubt stands.
+- **C14 · Bracket finals timing.** Brom's Copper final and the plaque are before the rest day (Ch11, Ch14), but Ch16 and Ch20 put "the four bracket titles" on finals day's morning card. **Plan:** the Copper bracket concludes in the second week; Iron, Silver and Gold finals run on finals day's morning card. Ch17's evening ceremony is the trial standings reading, and the official placement is the closing ceremony (Ch24).
+- **C15 · Road-home order.** Ch24 narrates the twelfth-day watchers before the ninth-day district seat. **Plan:** keep the days and put them in chronological order.
+- **C16 · Bracken's tenure.** "Four decades of certifying" (Ch1) against B4's twelve years as registrar (B4 plan) and B6 Ch1's "thirty years." **Plan:** "twelve years" (thirteen by this book's year end) or no figure; never "decades" [B4-reconciled 2026-10-05: resolved by closed B4 prose — ch5 "Twelve years I've kept these rolls… In twelve years, every record I've filed has been true"; B4 ledger "Bracken: twelve years in the office". Bracken is "he" throughout (OWNER #7). Flag B6 Ch1's "thirty years" to the B6 planner.]
+- **C17 · Small timing slips.** Ch16 says the log line is "eleven days old" (it is about three); Ch15 says Karis's palms are "four days old" (consistent with §6). Fix within §6's calendar.
+- **C18 · Vastin's in-camera attendance.** Ch22 has him present "by the observation seat's standing prerogative nobody had exercised in living panel memory." This is consistent with the bible and kept; noted because it makes Umber's ruling witnessed by the Compact.
+- **Downstream, not binding here:** B6 Ch1 says the Storm flag stood "eleven weeks" and B6 Ch14 says "nine weeks." B6 says "welcome to the winter term" two months after a spring road home. Flag for the B6 planner.
+
+Do not draft until the owner has ruled, or explicitly deferred, on **C1, C2 and C3**. They touch lines in several movements, and C1 touches the bible. [B4-reconciled 2026-10-05: this gate is SATISFIED by defaults in force — OWNER-DECISIONS #16 (Daeva thirteen, a rare exception), #17 ("forty"; age never stated), #18 ("since his Kindling", no number). Movement 1 may draft. Still OWNER-pending, not blocking: the series calendar and season names (#35, #36.4); the birthday month (#35 update); the "three years" in protected items 21 and 29; the weekday scheme for Norhold/Auremont (Daeva's "Tuesday calibration" — Halcenvane uses First-day … Seventh-day, Greyvane English names; default: "Tuesday" only inside Daeva's own window as Auremont's word, never in Cael's narration); B6 Ch1's "thirty years" for Bracken; the source's "Summer's problem".]
+
+---
+
+## 13. Names
+
+**All canon names are kept**, including the registry's flagged collisions (Halcenvane/Greyvane, Bracken/Brom, Vell/Velmere, Wray/Greyvane), which are not renamed in this edition. Names minted by the Book 5 source are kept: Daeva, Zerin, Marek, Ivenne, Umber, Norhold, Auremont, Rhagen, the Concourse, the Silver Standard, Storm Path, the stormlane.
+
+**Names pending owner approval: none.** The expansion follows the source's named-by-role convention, which keeps the collision surface small. **Do not name these roles:** the quarryman; the Bronze from the host town; the yard-master; the *curiosity* Bronze; the grey-wool compiler; the board-man; the southern coach; the grappler foreman; the equipment mistress (Lira declines her name on the page); the presiding adjudicator and her clerk; the validation officer; the barge-master; the **caravan captain** (new on the page); the guild champion; the confluence Rank 7; the Rhagen Shield captain and the Blade duelist (unnamed by design); Auremont's delegation head, risk officer, lead instructor, lattice-breaker, Silver seniors and scouts; the senior rating clerk; the three panelists; the Concourse steward; the guesting-house keeper; the cookshop proprietor; Ivenne's chancellor; the two Halcenvane **third-year reserves** (use Path tags, e.g. "the Shield reserve"); the faceless officials. If the owner later wants a name for the Shield reserve, screen it against Fiske (-sk), the G/B/C onset families (Gault, Brom, Bracken, Coss, Cleon), Vell (rhymes) and Book 4's pending Gwen and Abbot.
+
+---
+
+## 14. Run notes
+
+- One author session per movement: `packets/MOVEMENT-001.md` … `MOVEMENT-009.md`; manuscript `manuscript/chapter-01.md` … `chapter-60.md`; state in `state/movement-NNN/`. Append `STATE_LEDGER.md` after each movement from the surviving prose.
+- Each packet names the source chapters to read. The author reads them for events and people, not sentences. No source sentence is reused except the protected wording in §10.
+- Measure each completed movement with `python3 editions/monroe-1.3/tools/formula_metrics.py` and report target against observed in the editorial pass. Never invent a measurement.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-05-the-silver-standard/STATE_LEDGER.md
+
 # STATE LEDGER — Book 5: The Silver Standard (Monroe 1.3 edition)
 
 This is the book's entry state, taken from canon (Book 4 close) and the source edition's Ch1 recess inventory. After each movement is drafted, append one section built from the surviving prose, not from the plan. Where the prose and the plan differ, record the prose and note the difference. The binding end state is in `BOOK_MAP.md` §1, and the open owner rulings are in `BOOK_MAP.md` §12 (C1–C3 block drafting).
@@ -1576,3 +2830,133 @@ Lira on T16: one burst in E1 ("Early.").
   - Seln's grey offcuts and sealing-wax knife;
   - the slip squared between the credential renewal and the protocol;
   - the ash already broken.
+
+---
+
+## PROJECT EVIDENCE — universe/CANON_RULES.md
+
+# CANON RULES — The Fractured Path
+
+Canon status markers used throughout all planning documents.
+
+---
+
+## Status Definitions
+
+**LOCKED**
+Established fact. Cannot be changed without cascading revisions across multiple documents. Treat as fixed. If a locked fact conflicts with a new idea, the new idea must adapt, not the locked fact.
+
+**PROVISIONAL**
+Working assumption. Likely correct and consistent with locked facts, but the specific details may shift during drafting. Flag in writing so the detail can be confirmed or revised before the book is finalized.
+
+**SECRET**
+True information that exists in the planning layer but is not known to characters (or not known to the reader) at the point indicated. Secrets have a reveal book where they become known. Before the reveal book, they must be planted — not disclosed.
+
+**OPEN**
+Genuinely undecided. The planning layer acknowledges this question exists and deliberately does not answer it yet. Open items must be resolved before the relevant book enters chapter architecture.
+
+**RUMOR**
+Information that exists in the story world but is incorrect, distorted, or deliberately falsified. Used to track what characters believe vs. what is actually true. Rumors must be traceable to their source.
+
+---
+
+## Using Status Markers
+
+Every significant fact in a series bible or universe bible should carry a status marker. Format:
+
+> **LOCKED:** The Path system uses seven tiers.
+
+> **SECRET (reveals Book 9):** The Architect built the system to suppress Fractured Paths, not organize existing potential.
+
+> **OPEN:** Whether Warden Coss survives the series.
+
+> **RUMOR (source: Compact Registry):** [SHATTERED] classifications indicate dangerous instability.
+
+When writing chapter architecture, check the relevant universe bible and series bible entries. If a scene requires disclosing a SECRET before its reveal book, flag it explicitly and return to the planning layer before drafting.
+
+---
+
+## Reveal Schedule
+
+The following secrets have locked reveal books. Do not disclose earlier.
+
+| Secret | Reveal book | How it's revealed |
+|---|---|---|
+| The Fractured Path can integrate witnessed abilities | Book 3 | Cael uses Lira's Wind ability in combat without thinking |
+| The Fractured Path predates the classification system | Book 8 | Ancient records in edge-territory ruins |
+| The Compact falsifies Path classifications | Book 6 | Seln's intelligence cache |
+| The Arbiter system is the Architect's infrastructure | Book 9 | Fractured Path practitioner's tomb |
+| The Architect's will is active and hunting Cael | Book 11 | Direct encounter |
+| The Architect's true motivation (not malevolent) | Book 13-14 | Direct confrontation |
+| The Fractured Path is primordial — what all Paths were | Book 13 | Cael achieves full integration |
+
+---
+
+## Planting Requirements
+
+Every SECRET must be planted before its reveal. Minimum planting requirements:
+
+| Reveal book | Earliest plant | Minimum plant count |
+|---|---|---|
+| Book 3 | Book 1 | 1 plant |
+| Book 6 | Book 3 | 2 plants |
+| Book 8 | Book 5 | 2 plants |
+| Book 9 | Book 6 | 2 plants |
+| Book 11 | Book 8 | 3 plants |
+| Book 13-14 | Book 10 | 3 plants |
+
+Plants are tracked in each book's chapter architecture under the heading `## Clue / Plant Ledger`.
+
+---
+
+## Continuity Checkpoints
+
+At the end of each book's chapter architecture, a continuity checkpoint must confirm:
+
+- [ ] No SECRET disclosed before its reveal book
+- [ ] All OPEN items from this book identified and flagged for resolution
+- [ ] State ledger updated: Cael's ability list, companion status, antagonist status
+- [ ] Any PROVISIONAL facts used in this book confirmed or flagged as still provisional
+- [ ] Plant ledger: all required plants for future reveals present in chapter architecture
+
+---
+
+## OWNER VOICE — APPROVED
+
+# Monroe Jackson — Owner Voice
+
+Status: owner-confirmed seed. Revise only from accepted owner edits. This layer
+governs aesthetic disagreements with the general Monroe Light profile; canon and
+movement authority still govern story facts.
+
+## Shared prose instincts
+
+- Prefer readable, controlled sentences for the main narrative line.
+- Split a sentence when it asks the reader to carry several turns at once—action,
+  explanation, retrospective judgment, and metaphor—unless accumulation is the
+  intended emotional effect.
+- Long sentences are available, but they must create purposeful momentum or
+  association. Length by itself is not sophistication.
+- Choose the word that precisely matches the judgment and the viewpoint's natural
+  register. For example, the owner preferred “chosen poorly” to “chosen badly” in
+  measured narration. This is contextual evidence, not a ban on “badly.”
+- Preserve direct owner wording. Automated repair may work around an owner-authored
+  passage but may not silently restyle it.
+
+## Fantasy
+
+No fantasy-only owner preference has enough accepted evidence yet.
+
+## Science fiction
+
+No science-fiction-only owner preference has enough accepted evidence yet.
+
+## Learning discipline
+
+- One edit is an example, not a universal law.
+- Promote a broad instinct only when several accepted edits support the same
+  reader-facing preference, or when the owner states the preference directly.
+- Do not learn voice from continuity fixes, factual corrections, typographical
+  repairs, rejected suggestions, reverted edits, or untouched AI prose.
+- Do not carry names, setting facts, or plot events from an example into a new
+  movement. Learn the difference between WAS and NOW, not the example's subject.

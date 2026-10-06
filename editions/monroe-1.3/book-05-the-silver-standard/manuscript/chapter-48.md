@@ -6,15 +6,15 @@ It was an ordinary morning, as far as it went. The hip had held through two days
 
 The hall had its own noise at that hour, and he knew it by now as well as he knew the noise of the long table. It was wide and flat and busy. Thirty conversations, none of them about anything. Feet on mats. Somebody's coach counting. A crew somewhere down the far end of the building knocking wedges into something with a mallet.
 
-Then it narrowed.
+The coach was the first thing to go.
 
-It did not get louder. That was what made him stop. It drew in, all of it, toward one point, like a field of wheat when a wind finds it. Thirty conversations became twenty, became ten, became one conversation said thirty times. Feet that had been going about their business changed step. A door at the east end of the hall opened and did not close, and then the next one did the same.
+He had been counting a Blade through a drill two mats away, *four, five, six*, and at *seven* he simply stopped, with his mouth still open on the next number. Then the mallet at the far end stopped, between one wedge and the next. Cael did not hear anything begin. He heard things end, one after another, as if somebody were walking through the building pinching out candles. Thirty conversations became twenty, became ten, became one conversation said thirty times, and all thirty were turned the same way, toward the courtyard doors and whatever was on the other side of them.
 
-Brom stopped with his hands up. He looked at the door, and then at Cael.
+Brom lowered his hands. He did not look at the doors. He looked at Cael.
 
 "That's a filing," he said.
 
-On the next mat a Ternhall pair had let go of each other and were standing quite still, listening, like everybody else.
+The Blade two mats over was already walking toward the doors with his practice lath still in his fist, and his coach was walking after him, and neither of them had said a word to the other.
 
 Seln came in by the east door a little after that. He came at his usual pace, which was the pace of a man going to fetch a ledger from a shelf, through a building in which a great many other people had begun to walk quickly. He had a single sheet in his hand, the adjudication office's copy with its seal still on it, and he did not hurry and did not look at anybody, and the people near the door moved aside for him without knowing why.
 
@@ -66,41 +66,43 @@ Auremont had objected. It had done it in writing, in the morning, through its de
 
 She had not answered it.
 
-That was what the city saw, and the city understood it at once. Auremont had not fought her, because there was nothing to fight with. A practitioner who filed in her own name could not be unfiled by her house; the charter had no such door in it, and everybody in Norhold who could read a charter knew it by noon. So Auremont had put its objection on the record, where it would be seen to have been put, and Daeva had let it lie there. She had not argued. She had not explained. She had simply gone to her afternoon session.
+Lira read the posted copy over a stranger's shoulder in the outer court and came back to the long table looking thoughtful.
 
-The broadsides were kinder to the house than Cael had expected. They were kinder to her than anybody had expected. Every column he read in the outer court that afternoon took her side without quite saying so, the way a city takes the side of a ship that has slipped its moorings in a good wind. The continent's most careful program had raised a girl to do exactly what it asked, beautifully, for years. Now she had asked for something it had not scheduled, and reached out and taken it, and the whole port wanted to see what she would do with it.
+"They're not fighting her," she said. "They can't. Karis, tell me I'm right."
+
+"You're right." Karis did not even look up. "There's nothing in the charter that lets a house take back what one of its own has signed. They know it. That paper isn't meant to stop her. It's meant to be found in a drawer in ten years, so that everybody can see Auremont said no."
+
+"And she just went to her afternoon session," said Lira, half to herself. "As if it were weather."
+
+The broadsides had noticed the same thing, and they were gentle about it, gentler than Cael would have guessed. The best of them, a sheet from the harbour end that usually cared for nothing but odds, gave her a whole column without a single price in it. *For seven years,* it said, *a great house has told the finest fighter of her age where to stand, and she has stood there, and stood there beautifully. This morning she chose a floor for herself. We do not know what she will find on it. Neither, we suspect, does she. That is the first thing about her this paper has ever been unable to quote odds on, and we find we do not mind.*
 
 ---
 
-The office hung it at dusk.
+The office hung it at dusk. The five of them went down to read it after supper, because nobody in Norhold read a draw alone, and this was as near to a draw as made no difference.
 
-Not on the frame in the tunnel, where the category kept its business, but on the great board in the outer court, where the finals' card had stood all week. A man went up a ladder with a lamp and a long strip of painted board, and another man held the ladder, and the strip went in at the very top, over everything. Seln had once remarked in Cael's hearing that scheduling was opinion. Cael thought the west tower had just given its opinion to the whole city, in white paint.
+Ephram went first down the steps into the court, and it was Ephram Cael watched, because Ephram did something he had never noticed him do. At the bottom of the steps he stopped, and let the other four go past him, and fell in last, on the outside, a little apart. He turned so that he had the board on one side of him and the crowd on the other. He did not look at the board at all. He looked at the people. And Cael, following him with his eyes, understood with a small cold drop in the stomach that Ephram had come down the steps of every board this way since the cold term, at the back and the edge, keeping the door, and had never once said so to anyone.
 
-The five of them went down together after supper to read it, because nobody read a draw alone, and this was as near a draw as made no difference.
+Then he looked for Withrow, and she was not there.
 
-The court was packed to the colonnades. It made room for them without being asked, a lane opening ahead and closing behind, and the noise that had been rolling round the square as they came in dropped a little as they reached the front. It did not stop. It lowered, the way a room lowers when somebody it has been talking about walks in.
+She came to everything. She had stood at the front of the draw with her hands folded, and at the trial's posting, and at the boards on every night of the brackets, and been seen. Tonight the place at the front where she would have stood had two dockmen in it. Cael looked twice, and on the second look he understood it as he understood a move on a floor. She was the most careful person he knew. She had not forgotten. Somewhere earlier, by herself, she had read this board, and decided it was not hers to stand at. She had left it to the five of them.
 
-The strip said:
+Then the court opened for them, a lane through the crowd that closed again behind, and the noise of the square sank to a murmur as they reached the front, and he looked up.
+
+A man had gone up a ladder before dusk with a lamp and a long painted strip and set it in at the very top of the great board, above everything else on it. Seln had once said in Cael's hearing that scheduling was opinion. The west tower had given its opinion to the whole city in white paint.
 
 CAEL — HALCENVANE — [UNCLASSIFIED] vs. DAEVA — AUREMONT — GOLD 3.
 
-A clerk had added two words beneath it in a smaller hand: *filed; acceptance pending*. And beneath those, in the ordinary type the board had carried all week, the four bracket finals stood waiting, the titles the continent had fought over longest, set lower and printed smaller than a bout whose result would go into nobody's standings at all.
+Under it a clerk had added two words in a smaller hand: *filed; acceptance pending*. Under that, in the plain type the board had carried all week, the three bracket finals and the trial's final waited for finals day, and every one of them was set lower and printed smaller than a bout that would put nothing whatever into anybody's standings.
 
-He read it. The others stood with him while he did, and it was then, standing there, that he noticed how they stood.
+The others had settled round him while he read. He felt them do it without looking. Karis was on his right, holding her shut notebook against her chest in both hands. Brom had taken the place behind him and to the right where the crowd would have pushed in, so that it could not. And Lira was at his left shoulder, near enough to touch. She had been there at the slate in the circuit house at Ardenmere when he was a boy with nothing written after his name, and she was here, and he could not remember a single board in between when she had stood anywhere else.
 
-Brom was behind him, a half-step off to the right, where the press of the crowd would have come if Brom had not been in its way. Lira was at his left shoulder, close enough to touch, which was where she had been at the cheap slate in the circuit house at Ardenmere, and at every board since, and he could not remember her once choosing it. Karis had his right side, with her notebook shut in both hands like a hymn book. And Ephram was out on the edge of them, a little apart, turned half toward the board and half toward the crowd, as if he were keeping the door of a room. Cael understood with a small cold shock that Ephram had been standing exactly so at every board since the cold term, and had never said a word about it to anybody.
+Nobody had ever designed it. None of them could have told you why they stood that way. It was simply the shape they made when there was something to read.
 
-None of them had arranged it. Nobody had ever designed it, and none of them would have known how to explain it if asked. It was the shape they made.
+Rooke stood well back in the crowd with his hands in his pockets and said nothing at all. Seln had taken himself up onto the steps of the west tower's porch, out of the crush, and was holding the travel pouch to his chest and looking at the board with the face he kept for a timetable that had been changed without notice.
 
-Rooke was at the back of the crowd with his hands deep in his coat pockets, and said nothing. Seln had gone up three steps of the west tower's porch, out of the press, with the travel pouch held flat against his chest, and was reading the board from there with exactly the expression he used for a revised timetable.
+Cael read the line again, slowly, as he would read a contract.
 
-Withrow had not come.
-
-He looked for her twice before he understood. The chancellor came to every board. She had come to the draw and to the trial's posting and to every evening of the brackets, and stood at the front with her hands folded, and been seen. She was not here, and she was the most careful person he had ever known, so her absence was not an accident. She had looked at this board somewhere earlier, alone, and then decided whose it was. It was theirs. She had given it to them.
-
-He read the line again, slowly, as he would read a contract.
-
-His name. His house. Her name, her house, her tier. And between his house and the little *vs.*, in the place where every line on every board that year had carried a number of some kind, a rank or a seed or a band or a figure, there was a pair of square brackets with the registry's word inside them. He had seen that word on every paper anybody had ever written about him. He had never seen it painted a foot high in a public square, in the tournament's own lettering, for every carter and fishwife in the port to read on the way home.
+His name and his house. Her name, her house, her tier. And between his house and the little *vs.*, where every other line on every board that year had carried a number of some kind, there was a word inside two square brackets. He had seen that word on every paper anybody had ever written about him. He had never seen it painted a foot high in a public square, in the tournament's own lettering, for every carter and fishwife in the port to read on the way home.
 
 "They finally wrote it down the honest way," he said. "A blank, with my name next to it."
 
@@ -112,15 +114,13 @@ The long table met at the eighth bell, with every chair filled.
 
 Withrow sat at the head of it with a pot of tea at her elbow. Rooke had the chair at her right, Bracken the chair at her left with the pouch on his knees. Gault was at the far end peeling an apple with great attention. Ephram sat between Brom and Karis. Seln had the last chair, the one nearest the door, where he always sat when he sat with them at all.
 
-"I'll say how I see it," said Withrow, "and then I'll stop."
+Withrow had the office's copy of the filing flat on the table in front of her, and she did not make a speech. She went down the form instead, box by box, with one finger, the way she went down a ledger.
 
-She folded her hands on the table.
+"Challenger. Signed by herself, for herself. Her house has written to say it would rather she hadn't, and has not written to say it can stop her, because it can't." The finger moved. "Category. Theirs. Three hundred years old, and still on their books because nobody ever cared enough to take it off." Down again. "Enrollee. Ours, by our own clause, printed, and nobody's asked to read the clause twice." She tapped the foot of the form. "Office. The Chief Adjudicator's people sent the scheduling queries before noon; Bracken has seen them. The Compact has a row of chairs in that building and not one word to say about its card."
 
-"Our clause put him on the roster. Their charter made the category, three hundred years ago, and nobody has troubled to unmake it since, so it stands. She has filed in it, in her own name, against her own house's objection, and her house has no power to take it back and has said as much in writing." She looked down the table. "The Chief Adjudicator won't refuse it. His office sent its scheduling queries before noon; Bracken has seen them. The Compact has a row of seats in that building and no voice at all in what goes on its card. To deny this bout now, somebody would have to put his name to a reason, and nobody who could is going to."
+She turned the form round on the table, so that it faced down the room.
 
-She turned her cup round on its saucer, once.
-
-"So there is exactly one person in this city who can stop it," she said. "He is at this table. It isn't me."
+"There's one box on it still empty," she said. "The one that says *accepted*. Only one person in this city can leave it empty. He is at this table. It isn't me."
 
 Nobody looked at Cael. Everybody was careful not to.
 
@@ -142,43 +142,61 @@ Nobody said it aloud. Nobody needed to.
 
 Lira caught Cael's eye across the emptying room and tipped her head very slightly toward the stair, and the back room.
 
-The back room had one window over the courtyard pump and a table that rocked, and Karis folded a strip of paper under its short leg before she sat, as she always did. Brom shut the door and stayed by it. Lira did not sit at all. She stood with her back to the window, with the last of the light behind her, and when the other three were settled she spoke before anybody else could.
+The back room had one window over the courtyard pump and a table that rocked, and Karis folded a strip of paper under its short leg before she sat, as she always did. Lira went to the window. Brom shut the door, and before he had even turned round from it, he spoke, which he hardly ever did first.
 
-"Somebody has to argue against. I've decided it's me."
+"She gave you half a second on the trial floor."
 
-"Go on," said Cael.
+They all looked at him.
 
-"She's Gold. Rank Three. Nineteen years old, and if the shops have it right, she hasn't had a bout she might have lost since she was fifteen." Lira did not raise her voice. "Three days ago she ran the length of that barrier because she wanted to be at the other end of it. That's all it was. Getting somewhere. You were standing on the way, and it came within half a second of breaking your neck, and she wasn't even aiming." She held up one finger. "A filed bout is her aiming. All of her, on purpose, at you, for as long as you're standing. The safety rules in that building were written for two people of the same tier, and they've never once been asked to cover anything else." A second finger. "And the most you've had in hand against anybody this sitting is a handspan. Against a Silver. Twice."
+"Half a second, and she wasn't even looking at you. She was on her way somewhere and you were in the road." He turned his back to the door and leaned on it. "In that ring she'll be looking at you from the moment you walk out. Nothing else. Every bit of her, on you." He thought about it, slowly, as he thought about everything that mattered. "I'd want that one, if I were you. Attention you can read. Traffic you can't."
 
-She lowered her hand.
+Karis had her pen out. She was not writing with it. She was turning it over and over between her fingers on the table, end for end.
 
-"That's the argument against. I'm bound to make it. I've made it."
+"Seln just told us what kind of fight it is," she said. "Not a bout. A document. Three more scribes on top of the panel and the office and every coach in the bowl, and every shop in the quarter with a press. People who do nothing else for a living are going to read whatever you do in there for years." She stopped the pen. "So plan the fight as a *publication*. Decide what goes into it before you go out. After, it's in type, and nobody gets to choose anything."
 
-The pump in the courtyard creaked and splashed and stopped. Nobody spoke for a moment.
+She laid the pen flat beside her hand, and when she went on it was lower, though there was nobody to hear but the pump.
 
-Cael looked at Brom, because Brom had not said anything yet and was going to, and it was better to let him go next than to make him wait.
+"And the other thing priced too. You know the one." She held his eyes. "Don't decide this about the girl in the woodcuts. Decide it about the one who'll be standing there. She begins it. She means it. She brings everything. If there's ever going to be a floor where all of that is true at once, it's that one. I'm not telling you which way. I'm telling you to know, when you go, what you're going toward."
 
-"She gave you half a second on the trial floor," said Brom. "Half a second, and she wasn't looking at you. She was looking where she was going." He moved his weight from one foot to the other, slowly, the way he did when he was choosing a word. "In that ring she'll be watching you before the referee's hand comes down. Every bit of her. That's a different fight." He considered. "I'd want that one, if I were you. Attention you can read. Traffic you can't."
+Cael nodded. Then he looked at Lira, at the window, because she had not said anything, and that was not like her.
 
-Karis had her pen out. She was not writing with it. She turned it over in her fingers instead, end over end, on the table.
+"Somebody's got to argue against," said Lira. "I've been waiting for you to ask."
 
-"Seln just told us how it'll be kept," she said. "Three more scribes. That's on top of the panel's, and the office's, and every coach in the building, and every shop in the delegation quarter that'll print a page on it by the next noon. Whatever you do in that ring is going to be read for years by people who do nothing else." She stopped the pen. "So plan the fight as a *publication*. Choose what's in it beforehand. Afterwards it's set in type, and you don't get to choose any more."
+"I'm asking."
 
-She laid the pen flat. When she spoke again it was lower, though there was nobody to hear them but the pump.
+"Then answer me some things." She did not turn round from the window. "Against the Rhagen captain, what did you have in hand?"
 
-"And go in with the other thing priced as well. That one." Her eyes did not leave his. "A bout she began, in earnest, with everything she's got, on purpose. If those conditions have ever all been met at once in your life, they'll be met in that ring. I'm not on either side. I only require this: whichever way you go, go that way about the fight you'll really be standing in. Not the one in the woodcuts."
+"A handspan."
 
-Cael nodded slowly. Then he turned back to the window.
+"Twice. And he's a Silver. What is she?"
 
-"You haven't said your own side."
+"Gold. Rank Three."
 
-Lira made a face, because he always knew, and she always let him.
+"How many bouts in four years where she wasn't sure of the end?"
 
-"My side," she said, "is that I fought Zerin. And lost. Honestly, over four exchanges, with the whole city watching, and it was the most use anything's been to me since the day Fenmark put my things outside the door. I've been spending what that loss paid me every hour since." She came away from the window at last and sat down on the end of the bench, her left arm held close. "Zerin's the nearest thing to that woman I'll ever stand in front of, and it was worth it. And you've spent a whole year being measured by things that can't hold you. Panels and tables and men with plates and rods. There's one person at this sitting whose measure of you would be worth anything at all, and she put her name down this morning with one word for a reason." She looked at him. "I said somebody had to argue against. I never said it was what I thought."
+"None, if the shops are right."
+
+"They're usually right." Now she turned. "On the trial floor, was she trying to hurt you?"
+
+"No."
+
+"No. She was crossing a floor, and she nearly broke your neck going past. And the safety rules in that building, the stopping and the healers and the rest, who were they written for?"
+
+"Two fighters of the same tier."
+
+"Two fighters of the same tier." Lira folded her arms, the left one high and close, from a habit that had outlasted the week it had been needed. "That's the case against. It's a good one, and somebody had to make it out loud, and I've made it."
+
+The pump creaked and splashed below the window and was quiet.
+
+"And yours?" said Cael. "Your own side."
+
+Lira almost laughed. She always had one, and he always asked.
+
+"Mine is Zerin," she said. "I lost to her over four exchanges with the whole city watching, and I've been living on what that bought me ever since. Best thing that's happened to me since Fenmark put my things outside the door." She came away from the window and sat on the end of the bench. "And you've spent a year being measured by things that can't take your weight. Plates and panels and tables and men with rods. There's one person in this city whose measure of you would be worth having, and this morning she asked for it with one word." She looked at him. "I said somebody had to argue against. I never said it was me."
 
 Nobody said anything for a while.
 
-Cael sat with it all on the rocking table between them: the case against, which was true, and Lira's side, which was also true; Brom's attention; Karis's publication, and the thing she would not name in a room with a window. Three more pens. He found, sitting there, that the decision was not anywhere in the room at all. It had been made three days ago at the mouth of a lane, with a woman a stride away who had stopped in the middle of an exchange she was winning to look at him, and everything since had been him finding out where he had put it.
+Cael sat with all of it laid out on the rocking table: Brom's attention, Karis's publication and the thing she would not name with a window open, Lira's questions and Lira's answer. Three more pens. And he found that the decision was not something he had to make in this room at all. He had been carrying it since the trial floor the way a man carries a coin in his pocket, turning it over with his thumb without taking it out to look. Tonight all he was doing was taking it out and reading what was stamped on it.
 
 "I'll accept in the morning," he said. "At the counter. On their form, with my own hand."
 

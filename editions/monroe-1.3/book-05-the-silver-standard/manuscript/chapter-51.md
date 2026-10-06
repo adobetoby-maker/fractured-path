@@ -24,7 +24,7 @@ He came down and found Rooke at the rail with his sheet.
 
 "The top," he said. "Everybody's reading the hill as something between them and us. It's the only place on the floor you can stand and see everything. And everything you send from there goes downhill."
 
-Rooke looked at him for a moment and then at the hill.
+Rooke turned from him to the hill, and back.
 
 "The captain," he said.
 
@@ -36,39 +36,45 @@ Rooke looked at him for a moment and then at the hill.
 
 Rooke wrote that on his sheet, and drew a line under it, and did not say anything else.
 
-Along the floor the others had found their own pieces. Karis came back from the western saddle wiping her knees. "The boards there are laid over a seam in the stone," she said. "One anchor will hold on it. I can't get three to sit right." She thought about it. "So that's where the door goes." Brom had walked the west crossing up and back until he knew it, and came back with one sentence: "Two strides of flat on our side, then it's uphill." And Lira had run the west end twice at half pace, once each way, and reported that it was faster going north than coming back, because the stack broke the line later on the way in. "I'll be on the fast side of it," she said, and then, catching Rooke's eye: "Ready. On the fast side. Not early."
+Over on the north side of the hill Rhagen were measuring it. They had a staff as long as a man, painted in white rings a hand apart, and their coach held it upright against the bank in three places while a fighter read the rings off and another wrote them down. They did the crown and both saddles and both ends. They never once looked across. Nor did anybody in plain colours, though Cael noticed that Ephram had copied all three of their numbers onto his slate by watching the staff.
 
-Across the hill, in the same hour, Rhagen walked their own country in black and glass, five of them with their coach and a long staff marked in rings of white paint, measuring the crown's height in three places. In forty minutes neither squad so much as looked at the other.
+Halcenvane did it with feet and hands.
+
+Karis had gone up onto the western saddle and stamped on it, gently, at four places, listening. "Hollow on the near side," she said when she came down. "The boards are over a seam in the stone. My leading foot won't sit there. The other two will." She considered. "So the frame opens downhill whether I like it or not. That's where the door goes, then." Brom had set his shoulder to the face of the bank below the west crossing and pushed, and it had not moved, and he nodded at it as if it had passed a test. And Lira ran the west end twice, swinging her left arm loose and wide as she went, which she had not done all sitting and did now without seeming to notice. She came back pleased. "The stack hides you for one stride going north," she said. "Then you're there." She caught Rooke's eye. "Ready. Then there. Not early."
 
 ---
 
 Rooke kept the brief short, because everything worth saying was already on the sheets.
 
-"You know the captain's guard," he said, in the warm-up room under the north tiers. "You know Marek. What you haven't met is the two of them working together with three more, and Rhagen's whole book behind them." He looked round at them. "Here's their book in one line. They fight five-as-one-argument. Every fighter is a clause. The captain's guard is what holds the sentence together."
+He gave them Rhagen's book first, in the warm-up room under the north tiers, before he gave them anything else.
+
+"Their whole doctrine, in one line, as they'd say it themselves. Five-as-one-argument. Every fighter's a clause. The captain's guard is the grammar that holds them in a sentence." He looked round at them. "You've each had one clause already. Brom's had Marek, all four exchanges. Cael's had the captain. Today you get the whole sentence at once."
 
 Karis nodded slowly, as if the line were a document she would want later.
 
-"Nobody in this building has built a better squad," said Rooke. "Structure, every inch of it." He paused. "Against you lot. After the year you've had."
+"It's the best-made thing on this floor all week," said Rooke. "I've read their book twice. I'd sign it." He looked at the five of them, taped and waiting, with their year written all over them. "So go and argue with it."
 
 And he very nearly smiled.
 
 It was there and gone, a twitch at one corner of his mouth, but it was there, and the Shield reserve, who was standing at the back in his kit as the squad's alternate, went so pale that Lira had to turn and look at the wall.
 
-"Go and take it apart," said Rooke.
+"Go on," said Rooke. "Out."
 
 The noise reached them in the tunnel.
 
-Cael had expected the trial for third place to be half empty. Everybody had told him so. It was the tournament's orphan, the consolation, fought in the middle of the last week to tiers that were saving their voices for the finals. He came out of the tunnel's mouth behind Ephram and the bowl was full to the rails.
+Bracken had warned them at breakfast not to expect a crowd. In his reading of the old cycles, the bout for third had been fought more than once to a bowl with more stewards in it than paying seats. Cael came out of the tunnel's mouth behind Ephram and the bowl was full to the rails.
 
 It was more than full. People stood in the gangways and sat on the steps. And all round the tiers, on the north side and the south and up under the roof, there were banners that the tournament had not made. They were bedsheets and shop awnings and somebody's sail, and on every one of them, in big uneven letters painted by people who had never painted letters before, was one word. HALCENVANE. On one the second A had been put in backwards. On another somebody had run out of cloth and finished the word round the corner.
 
-The roar, when the five of them came out, was a roar for plain colours. Cael could hear the difference. The port had taken them up at some point in the last fortnight, the way a harbour takes up a ship's crew it has grown fond of, and it had turned out on a dull afternoon to see whether it had chosen well.
+The roar, when the five of them came out, was a roar for plain colours, and Cael could hear the difference. Somewhere in the last fortnight the port had decided they were its own. It had not asked them. A city did not ask. It had simply begun to say *the bluff* the way it said *the harbour*, and it had come out on a dull afternoon, with its bedsheets, to make sure.
 
-"We're the story," said Ephram, very quietly, beside him. He was taping Brom's wrists and did not look up. "They've come to see us finish third. They want to see it done properly."
+Ephram was kneeling at the gate taping Brom's wrists. He glanced up at the tiers once and back down.
 
-He did not say it proudly. He said it as a man reads a weather glass. And then he finished Brom's tape and walked out to the west gate in front of all of them, with his slate under his arm, because he was the caller.
+"Third," he said, very low. "They want to see us do third properly."
 
-At the rail of the delegation bench, where she had not sat for a single bracket bout of the sitting, Withrow sat with her hands folded on her closed files. Rooke stood beside her with his sheet blank. There was nothing left to write.
+There was no pride in it. He said it the way he would have read a weather glass. Then he bit off the tape and stood and went out to the west gate in front of all of them, slate under his arm, because he was the caller.
+
+Withrow had come down to the front rail. She had not sat there for a single bracket bout of the sitting; she had watched those from the upper gallery, among the other chancellors. Today she sat at the rail itself, with her closed files on her knee and her hands folded on them, and Rooke stood at her shoulder holding a coaching sheet with nothing written on it.
 
 The first exchange belonged to Rhagen, and Cael watched it happen with something very near admiration.
 
@@ -106,27 +112,27 @@ The captain did what his book said a structure should do when it has won somethi
 
 Cael knew what Marek was doing the moment he saw him walk. He had watched him do it to Brom for four exchanges on this same floor, before the hill was built. Marek was surveying. He went along the north side of the hill a stride at a time, and every few strides he stopped, and looked at something on Halcenvane's side, and Cael could almost see him writing it down.
 
-Lira, meanwhile, had the west crossing, and the Rhagen Wind had been sent to take it off her.
+Rhagen had sent its Wind to take the west crossing off Lira. Cael watched the Wind learn three things, in his own order, at the price of three walks to his gate.
 
-She taught him three things in that exchange, one at a time, and Cael watched every lesson.
+That a gap by a stack is not always a gap: he saw one, in the first minute, and took it, and found Lira standing exactly where it let out.
 
-The first time the Wind came at the crossing, he came fast down the north slope, and Lira was already over the low end and past the stack before his line had settled, and touched him on the hip as he arrived where she had been. He went back to his gate. He had learned what it was like to meet somebody who was ready before you were.
+That being quick is not the same as being first: the next time he came early and very fast, and she was not where he aimed, because she had not gone yet; she went when he did, and was over the low end a stride ahead of him, and he felt her hand on his hip as he passed the place she had just left.
 
-The second time he came slower, watching for her, and she showed him the gap behind the stack, and let him see it, and let him take it; and when he came out of it at the top of the crossing she was standing at its far shoulder, where the gap had to bring him, and touched him there. He went back to his gate again. He had learned that a gap she showed you was a gap she had sold you.
+And that doing everything right was not enough either. The third time he came clean, at the book's speed, on the book's line, offering her nothing, and she spent one burst low and flat along the bank's face and was waiting at the one spot his good line had to carry him to.
 
-The third time he did everything right. He came at the right speed down the right line with nothing to sell, clean, exactly as Rhagen's book would have had him, and Lira spent one burst flat along the bank's face, low and hard, and arrived at the one place his correctness had to carry him, and touched him on the shoulder as he got there. After that he went back to his gate and came out again and fought her like a man doing sums he has recently been robbed by. It was the right way to fight her. It was much too late.
+After that he came at her slowly, and cleverly, and well, like a man who has had his purse taken three times in one street and has started walking down the middle of it. It was the right way. It had come three walks too late.
 
 At the crown, the captain's guard was paying for Karis.
 
 She had moved up the saddle with the exchange and planted again just under the captain's new anchor, frame open on its downhill side, and every time the guard came down the slope across her frame she met its edge with her palm. She did not try to burn through it. She could not; nobody could. But a touch of fire on a layer as it renewed left that one layer half a beat behind the rest, as it had in the ring, and she did it again and again, one contact and then another, so that the captain's guard, all down the western slope, was always a little older than he meant it to be. Each time cost him a beat to put right. The beats added up.
 
-Cael ran the middle of the south country and fed all of it. "West is ageing." "Crown, two, slow." "Marek's reading Karis. Somebody tell him a lie." And somewhere in the third minute he saw what Marek had found.
+Cael ran the middle of the south country and fed all of it in single words. *West, old. Crown, slow.* And, once, to Lira, low, because Marek had stopped on the far slope and was looking at Karis's feet: *Show him something.* Lira showed him a burst she did not spend. Somewhere in the third minute Cael saw what Marek had found anyway.
 
 It was the door.
 
 Karis's frame at the western saddle stood open on its downhill side, on purpose, because it was the frame with a door in it that she had written on Rooke's sheet. The door was real. A man who came over the saddle on that line could get through the frame without touching her. Marek had walked the north side of the hill for three minutes and found it, and checked it twice, and Cael watched him look at it a third time and decide.
 
-"He's mapped the west saddle," Cael said, just loud enough. "He takes it before the bell. Brom. Your side."
+"Brom," said Cael, just loud enough. "West saddle. He's coming before the bell."
 
 Brom did not move.
 
@@ -148,33 +154,35 @@ The flag went up. A touch was a touch, wherever a hand landed and whatever it wa
 
 The bowl stood up too. Cael heard the sound of it go round the tiers, eight thousand people getting to their feet at once for one small courteous thing, and he knew that by the morning every broadside in the port would have a name for it. He was right. It was in the largest type any of them owned: THE ARGUMENT AND THE TABLE.
 
-Marek looked at Karis for a moment, quite steadily. Then he nodded to her, once, as one tradesman nods to another, and walked away to his gate to put his hand on the post.
+Marek's eyes went to Karis and stayed there, quite steady. Then he nodded to her, once, as one tradesman nods to another, and walked away to his gate to put his hand on the post.
 
 The captain tried Cael twice that exchange. Cael did not realise it until the second time.
 
-Twice the guard came down the slope not at Lira or Karis or the crossing, but at the middle of the south country, where Cael was. It did not come to take anything. It came the way a man taps a wall to find where the stud is: a measure, laid out across his part of the floor to see what came back. And twice, before it had properly arrived, it met somebody else's answer. The first time Lira was already at its flank, off a word Cael had given her a breath before, without either of them deciding it. The second time Brom had moved his toll a stride along the slope, into the guard's line, before the guard got there.
+It was the guard that told him. Twice it came down the slope toward the open middle of the south country, where nothing was worth having but Cael, and both times it came thin, the way a man taps along a plastered wall listening for the stud behind it. It wanted to see what came back.
 
-After the second time the captain stopped.
+What came back the first time was Lira, at its edge, before it had properly arrived, sent by one word a breath earlier that Cael did not remember deciding to say. What came back the second time was Brom's bulk, a stride along the slope from where it had been, standing in the guard's way as if he had always meant to stand there.
+
+The captain did not tap a third time.
 
 He did not try the middle again. And at the bell, when the marshals' boards came up and gave the exchange to Halcenvane by more than the first had gone to Rhagen, Cael watched him walk back to his own gate and take a small book out of his coat and write one line in it, standing. Then he shut the book and gave it to Rhagen's coach at the rail, and did not ask for it back.
 
-High up in the west tower's box the trial's engagement scribe, whose whole work was to write each settled exchange of touches against the name of one fighter, sat for four seconds with her pen lifted over the sheet. Then she wrote the redirect against Brom, and the reading against Cael, and the catch against Karis, all three, on the same line.
+High up in the west tower's box the trial's engagement scribe, whose whole work was to write each settled exchange of touches against the name of one fighter, sat for four seconds with her pen lifted over the sheet. Then, under the second exchange, she put three names on a single line: Karis, for the catch; Cael, for the reading; Brom, for the redirect.
 
 ---
 
 The third and fourth exchanges were the ones nobody would print, and the five of them would remember them longest.
 
-Rhagen had to win both now. They knew it and they did not panic. They came at it in good order, with all their book behind them, and they overreached, as they had to, with great dignity. The captain went back up to the crown and laid his guard down both slopes again, wider, thinner. Marek surveyed. The Wind came at Lira's crossing at the right speed on the right line every time.
+Now Rhagen needed both, and Rhagen came for both, and it was beautiful to watch them do it. They did not hurry. The captain went back up onto the crown and spread the guard thinner and wider down both slopes. Marek walked his survey along the north face again, a little faster. Every few minutes one of them made an offer, a platform left half open, a crossing gone quiet, the sort of invitation that a squad in a hurry accepts.
 
-And Halcenvane did not let any of it become exciting.
+Halcenvane did not accept any of them.
 
-That was the whole of it. Ephram called the rotations loose and early: platforms given up a beat before they would have been taken, never fought over a beat after. Lira held the west crossing with the fewest bursts she could, ready, never early. Karis moved her frame twice and planted it again each time with its door where she wanted it, and paid for each move in heat, and never once looked at her hands. Brom stood two strides wide of whatever mattered and collected. Cael read and gave out words and spent nothing he did not have to. He played inside his documented rates from the first call to the last bell, and did not let himself feel what it was costing to hold a whole floor in his head for that long until it was over. There was one final to come after this. He had nothing to spend before it.
+It was the least exciting thing Cael had ever been part of, and the hardest. Nobody did anything a broadside could print. Ephram let a platform go a beat before Rhagen arrived to take it, and took another a beat before Rhagen thought to defend it, and the marshals' quarter-minutes ticked into Halcenvane's column while nobody in the bowl could have said why. Lira kept the west crossing and spent nothing she could keep. Karis moved her frame twice, and each time she planted again she paid the heat for it in her palms without looking down. Brom stood two strides wide of whatever mattered, and things that mattered kept walking into him. And Cael held the whole floor in his head at the rates the record knew, the same as he had held the trial against Auremont, and did not let himself feel what it cost until it was over. There was one bout left for him after this. He would spend nothing early.
 
-Toward the end of the fourth he heard them, all five, talking.
+Toward the end of the fourth he heard all five of them talking.
 
-They were not shouting. The floor was too wide for that and the bowl too loud. They were simply passing words to and fro in the language they had been building at tables and on boards for a year, so that it went back and forth across the hill like a game of catch. "West's old." And Karis's frame would move. "Crown, two, patient." And Brom would turn a quarter. "South, now." And Ephram's count underneath all of it, steady, like the beat of a rower.
+It was not loud. It did not need to be. It went to and fro across the hill in the short words they had been wearing smooth at tables and on boards all year, a call and a move, a call and a move. *West, old*, and the frame would shift. *Crown, two, wait*, and Brom would turn a quarter. *South, now.* Under all of it Ephram counted, steadily, the way a man counts the strokes in a boat.
 
-The tiers did not roar. They made a long low sound instead, that went on and on, the sound a harbour makes when it watches a ship it is fond of come in over the bar.
+The tiers did not roar for it. They made a long low sound instead, and kept it up, the sound a market makes when the bell has gone for closing and nobody wants to go home.
 
 At the last bell the marshals' boards gave the fourth exchange to Halcenvane, as they had given the third. Three exchanges to one. The objective ledger to Halcenvane, by a long way. The engagement ledger to Halcenvane, by a little.
 
@@ -188,51 +196,45 @@ When he had finished he did not give them the sheet. He folded it and held it.
 
 "May I read it?" said Karis.
 
-"No," said Rooke. "It's for the file. I'll tell you what's on it." He looked down the row, at each of them in turn, without any hurry. "Every win sentence I've written in that file has had a fighter's name in it. This one hasn't." He tapped the folded sheet against his palm. "There were deeper squads in this building than ours. Better ones, on paper, man against man. We've fought two of them." He put the sheet into his inside pocket, where card four lived. "You were the only one that's a household."
+"No," said Rooke. "It's for the file." He tapped the folded sheet against his palm. "I've filled that file for twenty years, and I'll tell you a thing about it. Every line I've ever written under a win has a name in it. Who did it. Who carried it. Whose day." He put the sheet into his inside pocket, where card four lived. "I looked for the name today and there wasn't one to write. There were better squads in this building than ours, man for man. Deeper ones. We've fought two." He looked along the row. "You were the only one that's a household."
 
 Then he went off to the west tower to file it before any of them could think of an answer, and Ephram, whose voice had nearly gone from calling, sat down on the edge of the floor and laughed without making any sound at all.
 
 The boards came up at dusk. Marek came to them.
 
-It had become a habit between him and Brom since the Copper final, the boards, and neither of them had ever said so. Cael was a few yards off with Lira and heard all of it. Marek came through the crowd his notation book under his arm, his knuckles still taped, and stood at Brom's elbow, and looked for a while at the line that said *third place*. Then he opened the book at a page near the back and held it out.
-
-"I've written you up," he said. "The squad. You may read it if you like."
+It had become a habit between him and Brom since the Copper final, the boards, and neither of them had ever said so. Cael was a few yards off with Lira and heard all of it. Marek came through the crowd with his notation book under his arm and his knuckles still taped, and stood at Brom's elbow, and looked for a while at the line that said *third place*. Then he opened the book at a page near the back and held it out.
 
 Brom took the book in both hands, as he took any paper, and read the page. It was not long. Cael could see from where he stood that the last line was underlined twice.
 
 "*One point,*" Brom read aloud, slowly. "*Everything goes through the fifth man.*"
 
-"It's the best way of working a floor I have ever charted," said Marek. "And it hangs on one man's eyes. In three days the whole continent is going to watch that man stand in a ring with a storm, and find out whether the eyes hold." He took the book back and shut it. "The house hopes they do. Rhagen would like the chance to argue with your five again."
+"Yes," said Marek. "I've charted every squad at this sitting, and I've never charted one I liked better. I'd teach it, if I could work out how. But you can't teach it, because it isn't a method. It's him. Every word on your floor starts at his eyes." He took the book back and shut it. "On finals day those eyes are going into a ring with a storm. If they hold, the house would like to argue with your five again some day. If they don't, there's nothing left to argue with."
 
-He stood a moment longer. Something moved under his face that was not a finding.
+He tucked the book under his arm and did not go. He stood there a moment longer, looking at the board and not at Brom, and when he spoke again it was in a different voice, one that did not seem to have been written up first.
 
 "Personally also," he said. "Tell him Rhagen's floor will be watching for the fight, not the theater."
 
-He went away into the crowd, narrow and exact. Brom stood at the boards for a while after, looking at nothing, and then came over to Cael and gave him the sentence word for word, as carefully as a man handing across a receipt.
+Then he went, and the crowd closed behind him. Brom stood at the boards for a while after, looking at nothing, and then came over and gave Cael the sentence, all of it, without a word changed, in the voice he used for reading out a letter.
 
-The standings were read on the main floor at the eighth bell, with the lamps lit, and nobody in Halcenvane had ever seen it done.
+One house at the reading had no line.
 
-It was older than the brackets, Bracken said, and almost entirely paper. Every house that had fought at the sitting formed up on the bare stone where the hill had stood, in a long double line, in the order of its standing on the office's count. A clerk from the west tower stood on a box at the line's head with the reconciled sheets. Beside him, at a small table with a lamp, sat a validation officer in Compact grey, and in front of her lay the same sheets in a second copy, and she had a pen.
+It was a small delegation in grey from somewhere inland, six people, and they stood near the foot of the double line on the bare stone where the hill had been, a few places below Halcenvane. When the clerk reached them he read their name in the same flat voice he used for every name, and then he paused, as he paused after every name, for the line that came after. There was no line. He did not fill the pause. He let it run its proper length, the length a line would have taken, and the six of them stood to attention all through it, looking straight ahead, while the validation officer at her table found the place on her copy and set her initials beside nothing. Then the clerk read the next house up.
 
-The houses were read from the bottom.
+Cael had to look at the floor for a while after that.
 
-That meant Halcenvane stood and listened while eleven houses heard their sittings read back to them first. The clerk did not hurry and did not vary. He read each house's name and then its results, one by one, in the same flat voice he would have used for a list of cargo, and after each line he paused, and the validation officer found the line on her copy and set her initials in its margin, and only then did he go on. Some houses had a long reading. Some had one line. One house, a small grey-coated delegation from somewhere inland, had no line at all. The clerk read its name, and paused, and read nothing, and the six people of that house stood to attention through the whole length of the silence where their season would have been, and did not look at anybody. Cael found he had to look at the floor.
+The standings were the oldest thing at the sitting, Bracken had said at supper, older than the brackets, and almost entirely made of paper. Every house that had fought formed up on the floor at the eighth bell in the order of its count, lowest first. A west-tower clerk on a box read each one out. A validation officer in Compact grey sat at a small table under a lamp with a second copy of the sheets, and initialled every line as he finished it, and he did not go on until she had. At the north end of the floor stood the Silver Standard, furled on its staff and bound with a strap, with two of the colour-guard on either side. It would not be unbound before the closing.
 
-At the north end of the floor the Silver Standard stood on its staff, furled and wound in a strap, with a guard of two on either side of it. Nobody would unwind it until the closing. It stood there in the lamplight like a tall grey stone.
+Halcenvane was twelfth to be read. Eleven houses heard their sittings first.
 
-Then the clerk said *Halcenvane*, and Cael stopped counting things.
+Then the clerk said *Halcenvane*, and Cael stopped counting.
 
-He heard it as the tournament gave everything, name and house and result, one line at a time, with the pen moving at the table after each.
-
-Brom of Halcenvane, Copper bracket, champion of the continent. The pen moved. Lira of Halcenvane, Iron bracket, semifinalist; and there was a murmur along the double line at her name, and Lira stood very straight and pretended she had not heard it. Karis of Halcenvane, Iron bracket, quarterfinal, won, over Ternhall's first entry. Ephram of Halcenvane, Iron bracket, round of sixteen. And then the trial: semifinal, lost on the whole ledger to Auremont, which the office's own summary called, in one dry clause that made Rooke close his eyes for a moment, *the closest semifinal on the trial's record*; third place, won, over Rhagen Institute, three exchanges to one.
+The pen at the table moved after every line. Brom of Halcenvane, Copper bracket, champion of the continent. Lira of Halcenvane, Iron bracket, semifinalist; and a murmur ran along the line at her name, and Lira stood very straight and pretended she had not heard it. Karis of Halcenvane, Iron bracket, a quarterfinal won over Ternhall's first entry. Ephram of Halcenvane, Iron bracket, round of sixteen. And the trial: a semifinal lost on the whole ledger to Auremont, which the office's own summary called, in one dry clause that made Rooke close his eyes, *the closest semifinal on the trial's record*; and third place, won from Rhagen Institute, three exchanges to one.
 
 "Halcenvane Academy," said the clerk. "Third of fourteen, as the count stands at the close of the trials. To be confirmed at the closing."
 
-The pen moved. The validation officer initialled the margin. The clerk went on to the next house up.
+The validation officer initialled it. The clerk went on.
 
-Third of fourteen. Eighteen years Halcenvane had been off the qualifying lists. Nobody now teaching on the bluff had ever come to a continental sitting with it. Cael stood in the double line with the other four on either side of him and did not move, because nobody else was moving, and the arithmetic of the whole year went down into the office's book in a stranger's flat voice and stayed there.
-
-Nobody could rub it out now. Whatever else happened in that building, it was in.
+Cael stood in the line with the other four round him and did not move. Eighteen years the house on the bluff had been missing from the lists, and nobody who now taught there had ever stood on this floor in its colours. The whole year had just gone into the office's book in a stranger's voice, line by line, initialled, and there was no clerk anywhere who could reach in and take a line of it out again.
 
 Later that night, at the adjudication office's reconciliation of the day's sheets, the senior clerk asked the engagement scribe to account for the line in the second exchange with three names on it. She did not try to account for it. She wrote in the margin of the sheet instead, in a small square hand, and the note went into the office's record of the trial and was read aloud in the west tower more than once in the years after.
 
