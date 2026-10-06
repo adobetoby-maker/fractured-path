@@ -114,3 +114,6 @@ These are defaults, and none blocks drafting:
   - The record of five is unchanged.
   - Cael's inventory may say "the record holds two of them public… shown a third at its documented rate".
 - **Continental third place.** Norhold has no individual third-place bouts. Its "third place" is the TEAM trial (M8). Gault's own continental fourth is therefore "fourth on the figures" or similar, with no bout for third.
+
+## 41. Book 5 tournament calendar re-dated after M6 (coordinator default, 2026-10-05)
+M6 defers the exhibition ring (west-tower notice, T5); the ring is complete at dawn T11. New spine: Shield captain T11; duelist and Vastin's seat T14 (chair held thirteen days, replacing "nine"); rest day/birthday T15; team trial T16; filing T19; convening T20; third place T21; finals T24; closing T26. Recorded in book-05 BOOK_MAP §6 [M6-redated] and the M7 packet. Owner may restore a tighter span; the birthday date itself stays pending under #35.

@@ -8,6 +8,8 @@
 - Owner names: no new names. The Rhagen Shield captain and the Blade duelist are unnamed by design; the cookshop proprietor and the woodcut stallholder too.
 - Read before drafting: source `chapter-13.md`, `chapter-14.md` and `chapter-15.md`. The previous ending is `manuscript/chapter-39.md`. From `BOOK_MAP.md`, read §2 items 30–32, §3 A (Shield captain, duelist, team trial), §5 (Vastin, Umber, Ilsev, Seln), §6 (rest day = birthday), §7.1 (M7 rows), §8 (Shield captain; team trial), §10 items 22–25, 33, 44–46, and §11–§12 (C5, C6, C7, C9). Also `STATE_LEDGER.md`.
 
+> **[Coordinator note 2026-10-05, after M6 close — governs over this packet's dates.]** Calendar per BOOK_MAP §6 [M6-redated]: ring complete dawn T11; Shield captain T11; duelist T14 (three days later), Vastin sits T14; rest day/birthday T15; team trial T16. Seln's "nine days" below reads "thirteen days". The Silver exhibitions are in the **main floor's ring** (built on the main floor after the brackets cleared it), not "the second floor". Lira is on half work for her LEFT shoulder from T9 for a week. Ternhall's lattice anchors are PROVISIONAL house doctrine (M6).
+
 ## Where we enter
 
 It is the tournament's second week and the exhibition ring is up: fifty-two feet, a drainage crown, gate breaks north and south. The delegation's individual campaigns are banked. Lira's shoulder is in its week of half work, Brom's forearms are bruised, and both Karis's palms are scorched. Cael's two Silver bouts sold the second floor to standing room. He believes Shield is solved; the caravan captain taught him to time and tax a renewal.
