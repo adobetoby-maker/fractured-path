@@ -8,6 +8,8 @@
 - Owner names: no new names. Auremont's delegation head, risk officer and lead instructor stay unnamed, and so do the steward, the counsel and the guesting-house keeper.
 - Read before drafting: source `chapter-16.md`, `chapter-17.md`, `chapter-18.md` and `chapter-19.md`. The previous ending is `manuscript/chapter-46.md`. From `BOOK_MAP.md`, read §2 items 33–36, §3 A (third place) and B 9 (reading the medium), §5 (Daeva, Vastin, Seln), §7.1 (M8 rows), §8 (third place), §10 items 13–14, 26–28, 47–52, 60, and §11–§12 (C1, C2, C13). Also `STATE_LEDGER.md`.
 
+> **[Coordinator note 2026-10-05, after M6 close — governs over this packet's dates.]** Calendar per BOOK_MAP §6 [M6-redated] (OWNER-DECISIONS #41): team trial T16; the empty board T17–T18; filing T19 (the board at dusk); convening T20; third place T21, the ring rebuilt at midnight; the ring "two days out" T22; eve T23; finals day T24. Lira's LEFT shoulder (half work a week from T9). Brom is continental Copper champion. Ternhall's lattice anchors are PROVISIONAL house doctrine.
+
 ## Where we enter
 
 The day after the team trial. The dossiers have a new final page: *survived Daeva's lane at trial speed.* No ranked fighter with a standing to protect will file against him now. Lira's shoulder is near its week's end, Cael's hip has healed, and the third-place trial is scheduled against Rhagen.

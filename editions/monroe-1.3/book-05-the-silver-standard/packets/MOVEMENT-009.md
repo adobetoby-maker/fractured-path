@@ -8,6 +8,8 @@
 - Owner names: no new names. The three panelists, the senior rating clerk, the healers, the faceless officials and the presiding official stay unnamed.
 - Read before drafting: source `chapter-20.md` through `chapter-24.md`, and **Book 6 `chapter-01.md`** (the handoff). The previous ending is `manuscript/chapter-53.md`. From `BOOK_MAP.md`, read §1 (Ending), §2 items 37–41, §5 (Umber, Ilsev, Havel, Seln, Daeva, Vastin; the convening), §7.1 (M9 rows), §8 (Daeva), §9, §10 (the notice; items 16–18, 29–32, 53–59), §11 and §12 (C2, C3, C4, C6, C8, C12, C15). Also `STATE_LEDGER.md`.
 
+> **[Coordinator note 2026-10-05, after M6 close — governs over this packet's dates.]** Calendar per BOOK_MAP §6 [M6-redated] (OWNER-DECISIONS #41): finals day T24; panel overnight T24–25; the morning after and the meeting T25; closing ceremony T26; road home seventeen days. Do not state the tournament's length in days (the office's "three weeks" stands as the round figure).
+
 ## Where we enter
 
 Finals day comes up off the harbor. The bank was spent last night by minute. Karis's half-beat lives only behind his eyes. Shadow is sealed. The ring is built to Auremont's specification. The Compact row is full for the first time, and at its end, in the chair that waited, a man in plain greys has been in place for an hour.
