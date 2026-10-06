@@ -117,3 +117,10 @@ These are defaults, and none blocks drafting:
 
 ## 41. Book 5 tournament calendar re-dated after M6 (coordinator default, 2026-10-05)
 M6 defers the exhibition ring (west-tower notice, T5); the ring is complete at dawn T11. New spine: Shield captain T11; duelist and Vastin's seat T14 (chair held thirteen days, replacing "nine"); rest day/birthday T15; team trial T16; filing T19; convening T20; third place T21; finals T24; closing T26. Recorded in book-05 BOOK_MAP §6 [M6-redated] and the M7 packet. Owner may restore a tighter span; the birthday date itself stays pending under #35.
+
+## 42. Book 6 reconciliation to edition Book 5 (coordinator defaults, 2026-10-05)
+Source: `book-06-the-compacts-hand/state/B5-RECONCILIATION-AUDIT.md` (Fable continuity seat). Defaults in force until the owner rules:
+- **Season-blind B6 (#19 vs #35/#37 O1):** #19's restructure keeps its SHAPE (one academic year; served on the eighth day; the cache and Vastin before the midyear recess; the ruling in the year's last month; the Line crossed after the year's close) but carries NO season or month names — "the year's first weeks", "the cold term", "the midyear recess", "the year's last month", weather words for texture. "December" is struck. Owner may restore seasons when the series calendar is ruled (#35, #36.4).
+- **The birthday in B6:** a fixed date ("the eleventh of Sowing" default under #35; never beside a season word), with no cross-year day count and no month-of-year ordinal stated. The edition's own counts put the B5→B6 interval near 205 days, so the series calendar must later decide whether the academic year, the recess or the birthday moves. Owner item.
+- **The managed band** (B6 premise) is redefined against B5: a Halcenvane exhibition rate below the Norhold public record, scattered by the variance program so it never settles into a line; "the lid comes off" in M8 means the Norhold rates and past them.
+- All other A/B/C items applied as the audit proposes; §D (PENDING B5 M9, incl. A11 "a stamp renewed four times") re-run the day B5 M9 closes.
