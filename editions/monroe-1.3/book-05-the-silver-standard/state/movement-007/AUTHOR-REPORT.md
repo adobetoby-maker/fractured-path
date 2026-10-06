@@ -418,3 +418,88 @@ I did not run a separate density count.
 9. **Brom ordered the cake the morning after the captain's bout** (T12, three days before T15). The source's "settled the rest of it that morning" is not used.
 10. **Bracken's "quarry stone"** is a callback ("That's twice this sitting"), since M5 ch28 used the line first.
 11. **"Ephram's handshake"** is not counted as the second of their lives; the edition has not established a first.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, following `REPAIR-BRIEF.md` (coordinator, after the two Fable reviews). The pre-repair text is frozen in `pre-repair/`. I worked in reading order, ch40 to ch46. Every change was chosen by reading and applied by hand with the Edit tool, one exact string at a time. The one larger replacement, the trimmed Vastin passage in ch43, was written by hand as a single block. No sentence or paragraph was split or joined by script. No git command was run.
+
+**Coordinator rulings recorded.**
+- The team-trial format, the ring build, Vastin's handling, the read at its limit and the new canon are approved. Vastin's office is about two days away by post road, and nothing in M7 contradicts that.
+- Rhagen's off-page semifinal loss gets its line in M8. Nothing in M7 changed for it.
+- Five of the six proposed patterns were added to `protected-patterns.txt`. The sixth was the source's past tense and was re-composed (P1).
+
+**P1 — Source tracking (re-composed from the event, with new entry points; no synonym swaps).**
+- **ch46 ¶122** is re-composed in a new order:
+  - her eyes over him, feet, hands, shoulders, face;
+  - he recognises his own habit;
+  - "She was reading him." is kept as the carrying sentence;
+  - then a new paragraph: nobody ever had; everybody before was looking for a line to fill in or a figure to post; nothing in her face would be written down; she had met something on none of her tables and stopped to find out what it was.
+
+  "the way he looked at things" no longer appears in any tense.
+- **The seventeen tracked sentences:**
+  - ch40: Rooke's "Let him write down…" becomes "every Rhagen book open in those tiers says the same two words about you. Feet. Fire."
+  - ch41: Karis's unwritten notebook enters through the pencil lying in its fold.
+  - ch43, supper: opens on "Supper was half eaten before anybody said Vastin's name".
+  - ch43, the log: "So he got on a coach."
+  - ch43, the likeness-seller: enters through the wind flapping printed faces on a cord at the foot of the steps. Daeva's sheet: "only a thin stack of her left under a stone".
+  - ch44, Seln's bench: enters through Brom, without looking up, moving the mussel pot to the empty end of the bench. Seln looks at the pot, and then the bench is not empty any longer.
+  - ch44, Karis: "It's still the heading. Nothing since has made me want a better one."
+  - ch45, the inventory: the read was "the one thing I never ran short of" against both Silvers.
+  - ch45, the Ternhall cup: enters through the cup rising at the far colonnade, followed down to the hand and the russet sleeve.
+  - ch45, the criers: "a crier's voice went up under an awning, and then another".
+  - ch45, the Gold: "Auremont had not filed its squad yet. When it did, whatever else the list held, it would hold her…"
+  - ch45, Brom: leans on the barrier every few strides "the way a man leans on a fence to find the post that gives".
+  - ch45, the warm-up: "Gault was waving at him from the gate with the tape, and he went."
+  - ch46, the filing: enters through the fifth name going up in chalk; the first four are told as what nobody made much of.
+  - ch46, the two exchanges: "The marshals had chalked them both up beside the bluff's name… no clerk alive could rub them out again."
+  - ch46, Lira: "Half a beat early was Lira's whole trade… The lane did not take steps."
+  - ch46, Cael's thought: "*We built a house on this floor… She came in by a road it hasn't got a door for.*"
+  - ch46, after the stop: "The roar came back into his ears all at once. She had turned away inside it…"
+  - ch46, at the pump: "And she was ahead. She had the exchange, and the floor, and the whole bowl on its feet for her, and she gave up a whole second of it…"
+- **Two more echoes found by my own probe at 0.40 after the pass**, also re-composed:
+  - ch44, Karis's "designed it myself" became "If he ever wants a clerk, I'm available."
+  - ch45, the inventory's closing question became "the entry I wrote at the window after the captain, which has no answer yet…"
+- **Kept untouched, as the brief directs:**
+  - Lira's "Early.";
+  - the lane sequence from "The read caught something wrong" to "It gave him half a second";
+  - Brom's "Two gaps … elbows.";
+  - Ephram at the pump from "I've watched you from the rail" onward, with item 46 intact;
+  - every fight.
+
+**P2 — Continuity and referents.**
+1. **ch45:** the hired cart becomes "under his arm, the whole length of the quays, and up the stair". The ch44 close is unchanged.
+2. **ch44:** "Brom held it first of the three".
+3. **ch44:** "Cael sat with the book on his knees", named after Seln's speech.
+4. **ch43:** Vastin's "very few of them had been sixteen".
+5. **ch43, the log:** "and I'd wager he signed it with his whole name".
+6. **ch45, the draw:** "the houses highest on the count as it stood when the brackets reached their finals". The ranking is unchanged.
+7. **ch45, Bracken:** "That's twice since the bluff."
+8. **ch45, Rooke:** "Stopping it isn't a thing any five of you can do". The neighbouring narration "a Gold off a floor full of Irons" also became "a Gold off the floor", for the same reason (Brom is Copper).
+9. **ch43, the Vastin trim:** the cutaway is now ≈1,540 words, down from ≈1,870. The restated sword-and-light beats of all four exchanges are cut.
+   - Kept: the walk "like a loose board"; watching the boy, not the showman; the second exchange as his judgment ("declined to be told a story … not one person in the building was looking at it"); both book entries; the unread face, now compressed to the touch in the light; leaving before the figure; "It was only the place where the findings stopped."
+   - Cael's log line "A man who trusted the papers…" is kept.
+
+**Optional items, all taken.**
+- **ch46, the category line:** "The category had waited three hundred years for a bout that needed it. It had got two." becomes "Two Silvers had filed." This keeps item 47's idea fresh for Umber in M8.
+- **ch42, the light:** the bars now lie along the ring's WEST side early and slide EAST as the sun drops. Changed in Karis's brief ("they move east as the sun drops"), the spin (toward the west rail and the west side of the bowl), "the west rail", the third exchange's slide, and "the one way out was east and up the crown". The windows stay high on the west.
+- **ch43:** Vastin's second note opens "*Closing.*"
+- **ch44, Seln's clock:** he heard Lira choose the hour "on the stair the evening before".
+- **ch46, the routes:** "some through the first gap in the barrier and some round its western end".
+- **ch42, the day counts:** "the day after tomorrow" and "two days off". This matches my T-count: T12 to T14.
+
+**Declined.** Nothing in the must-fix list was declined.
+
+**After repair.**
+- `ed.sh gates book-05-the-silver-standard 7`: reader_standard=0, metadata=0, modern=0 on all seven chapters.
+- `ed.sh overlap book-05-the-silver-standard 7`: **1 unprotected** (ch43, the Seln line, flagged only because the shared words stop before the ruled "thirteen", as the brief expects) and 18 protected.
+- `sweep_probe.sh book-05-the-silver-standard 7 7`: **skeleton 2%, close 9%** on 1,480 sentences, down from 10%.
+  - By chapter: ch40 2/8 · ch41 3/12 · ch42 0/7 · ch43 1/7 · ch44 1/9 · ch45 3/8 · ch46 1/9.
+  - The close band missed the 7% the brief aimed for. I listed every remaining pair at 0.40 or above in ch41, ch44, ch45 and ch46. They are protected or packet lines (items 22, 44, 45; "costs double what it scores"; Umber's line; Karis's heading; "proved the day could be kept"), or short common-word sentences matched to unrelated source sentences (for example "The second time was in the north bay." against "He put out his hand, the second time in their lives."). I found no remaining sentence that follows a source sentence's content and order.
+- **Formula, movement:**
+  - prose 34,884;
+  - sentence mean 13.80; at most 5 words 29.2%; 40 words or more 4.4%;
+  - paragraph median 27; 918 words per scene;
+  - FK 4.38; FRE 88.3.
+
+  All are in the working ranges. Per chapter, ch43 runs a paragraph median of 37 after the Vastin trim (his reflective paragraphs remain) and ch45 runs 34; both are cutaway or ledger paragraphs.
+- **POV:** cutaways ≈3,680 words (Vastin ≈1,540, Seln ≈640, Umber ≈810, Ilsev ≈690), ≈10.5% of the movement.

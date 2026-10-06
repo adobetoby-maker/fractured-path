@@ -6,7 +6,7 @@ It was nearly full, and he had known for weeks that it would run out somewhere o
 
 Then he opened Hesk's.
 
-He had not written in it yet. He had carried it back from the harbour on his knees in a hired cart and up the stair under his arm, and set it on the table under the window, and walked round it twice, and had a wash, and come back, and it was still there. It lay open in the middle by itself, as it had at the cookshop. He turned back to the first leaf. The paper took the lamp's light softly and gave nothing back.
+He had not written in it yet. He had carried it back from the harbour under his arm, the whole length of the quays, and up the stair, and set it on the table under the window, and walked round it twice, and had a wash, and come back, and it was still there. It lay open in the middle by itself, as it had at the cookshop. He turned back to the first leaf. The paper took the lamp's light softly and gave nothing back.
 
 Every new book of accounts begins by saying what is in the till. Hesk had taught him that before he could spell *accounts*.
 
@@ -20,7 +20,7 @@ He wrote slowly, in his best hand, with Hesk's steel pen.
 
 *The push I took from the Bronze at Ardenmere. Flat on two plates on the bluff and one in a felt bag at the mill town. Four blows a sitting, paid in the right shoulder. Not asked for since the mill town's plate.*
 
-*Brom's read. Weight and direction, early. It paid for every Silver exchange I won this week. It can't see a weave, and it can't see a price. It sees what's heavy.*
+*Brom's read. Weight and direction, early. Against both Silvers it was the one thing I never ran short of. It can't see a weave, and it can't see a price. It sees what's heavy.*
 
 *Reydan's give. Not on a scored floor since Ardenmere. Nobody official has seen it. I held it still at a handspan, twice, in a pocket of stone at the north gate with a Silver's hand coming down. It would have worked. It stays where it is.*
 
@@ -32,7 +32,7 @@ He wrote slowly, in his best hand, with Hesk's steel pen.
 
 *Still open. Still real. Patience.*
 
-*One stamp, renewed. One enrollment, lawful. Half a tournament behind me and half to come. And one question I opened at the rail the night of the captain and haven't shut, about which tier is mine. It goes into this book first, ahead of everything that comes after it.*
+*One stamp, renewed. One enrollment, lawful. Half a tournament behind me and half to come. And the entry I wrote at the window after the captain, which has no answer yet and isn't going to get one by being copied out again. This book can carry it from here.*
 
 He sat back and let the ink dry in the tooth of the paper.
 
@@ -44,7 +44,7 @@ The outer court was full by the time they came down into it, and it was still fi
 
 The Concourse's canvas had come off in the late afternoon, and the city had stretched itself and begun to remember that it was a tournament town. Lamps were being lit along the colonnades. The criers were back in the betting rows under their awnings. On the platform at the court's north side the drum stood on its iron spindle, and the three clerks from the west tower stood beside it, and in front of them, on a board, the trial's printed frame waited with its four lines blank.
 
-Only four houses would field a squad. That had been on the trial rules since the fourth morning, and the standings had settled it the day the last bracket closed: the four houses highest on the count when the individual brackets were done. Auremont was first, by a long way. Rhagen was second. Halcenvane, on Brom's title and two semifinals and a quarterfinal over Ternhall's best, had come in third, a long way behind Rhagen and a hand ahead of the river academy.
+Only four houses would field a squad. That had been on the trial rules since the fourth morning, and the standings had settled which four: the houses highest on the count as it stood when the brackets reached their finals. Auremont was first, by a long way. Rhagen was second. Halcenvane, on Brom's title and two semifinals and a quarterfinal over Ternhall's best, had come in third, a long way behind Rhagen and a hand ahead of the river academy.
 
 Four squads, then, and two semifinals. The beaten pair would meet for third place on a later day, and the winners would meet in the final.
 
@@ -62,11 +62,11 @@ The clerk wrote it on the board in white. HALCENVANE — AUREMONT.
 
 For a moment the court was quiet in a way Cael had not heard it be quiet before. Then it was not quiet at all. It ran across the square from the board outward, faster than any crier could have carried it. People at the front read it aloud to the people behind them, and the people behind them turned round and said it to the next, and by the time it reached the colonnades on the far side it had been worn down to two words, and then, as he listened, to one, which was *Auremont*, said in a great many different tones of voice.
 
-He watched the houses read it. Rhagen's people read their line and were very obviously relieved, and were far too well brought up to let anybody in plain colours see them be relieved, and went off toward their quarter talking quickly and quietly among themselves. The river academy's coaches read it twice. Across the court, at the foot of the colonnade, two of Ternhall's Irons in their russet stood with cups in their hands. They had been knocked out of the bracket days before and stayed in the city to watch, and they read the line, and turned and looked for the Halcenvane party in the crowd, and found it. The taller of the two raised her cup toward them a little way, and held it for a breath before she drank.
+He watched the houses read it. Rhagen's people read their line and were very obviously relieved, and were far too well brought up to let anybody in plain colours see them be relieved, and went off toward their quarter talking quickly and quietly among themselves. The river academy's coaches read it twice. Then, at the foot of the far colonnade, a cup went up. It rose only a little way and stayed there. Cael followed it down to the hand that held it, and the hand to a russet sleeve: one of two Ternhall Irons, beaten out of the bracket days ago and staying on in the city to watch, who had gone looking through the crowd for plain colours and found them. She did not drink until she was sure they had seen.
 
 Cael knew what that meant. Everybody at a tournament knew. It meant *better you than us*, and it meant *go on anyway*, and both meanings were sincere.
 
-The betting rows had opened again with the canvas, and the criers were already at work. Cael listened to them as he listened to anything that had prices in it. There was a price on Auremont to win the semifinal, and it was very short. There was a price on Auremont to take the final. There was a price on how many exchanges the semifinal would run. Under the long row of chalked boards, at the end, the little framed sign was still hanging where it had hung all sitting, in neat white paint. *NO BOOK ON THE DEMONSTRATION BOUTS.* And two of the criers, noticing it, had begun to cry it as a selling point.
+Along the west side of the court a crier's voice went up under an awning, and then another. Cael listened to them as he listened to anything that had prices in it. There was a price on Auremont to win the semifinal, and it was very short. There was a price on Auremont to take the final. There was a price on how many exchanges the semifinal would run. Under the long row of chalked boards, at the end, the little framed sign was still hanging where it had hung all sitting, in neat white paint. *NO BOOK ON THE DEMONSTRATION BOUTS.* And two of the criers, noticing it, had begun to cry it as a selling point.
 
 "No price on the fifth man of the bluff! None! The house won't quote him! Come and see the thing we can't price!"
 
@@ -74,7 +74,7 @@ The betting rows had opened again with the canvas, and the criers were already a
 
 "They've made me a hole in their board," said Cael.
 
-Nobody else said what everybody in the court was thinking. Auremont's squad would have five names in it when it was filed. The first of the five would be the tournament's one Gold, and a team trial was not a bracket. A scenario floor had no tiers on it. It had ground, and the people each house sent out to stand on the ground.
+Nobody else said what everybody in the court was thinking. Auremont had not filed its squad yet. When it did, whatever else the list held, it would hold her, and there was no rule anywhere in the trial's pages to keep a Gold off the floor. A scenario floor had no tiers on it. It had ground, and the people each house sent out to stand on the ground.
 
 Karis had gone back to the guesting-house on the way down from the harbour, for a quarter of an hour, alone. Nobody had asked her why. Now she took her notebook out of her coat, the grey one, and opened it to the page she had shown Cael at this same board on the fourth morning, and spread it open on the rail below the board, under the torch, so that all five of them could read it.
 
@@ -152,7 +152,7 @@ He did not read it. He turned it over and laid it down again, blank side up, and
 
 Nobody said anything.
 
-"I've watched every minute of her that a man could watch in this city. I can tell you what she does. She finds whatever on a floor is least able to bear her, and goes there, and it doesn't bear her." He kept his hand where it was. "Stopping it isn't a thing five Irons can do, and I won't pretend to you it is."
+"I've watched every minute of her that a man could watch in this city. I can tell you what she does. She finds whatever on a floor is least able to bear her, and goes there, and it doesn't bear her." He kept his hand where it was. "Stopping it isn't a thing any five of you can do, and I won't pretend to you it is."
 
 He looked round at them.
 
@@ -204,7 +204,7 @@ Bracken collected the notice himself from the trial office at the second bell, a
 
 It was one sheet, sealed, and it said that the Halcenvane squad was approved as filed.
 
-"Within the hour of opening," said Bracken. "I'm told the Chief Adjudicator read the rule aloud once and approved it without a hearing." He sat down, which he rarely did at their table, and took a piece of bread, which he more rarely did. "I'm also told he was relieved. The trial office wants it known that it was not relieved, being an office, but that he was." He buttered the bread with great precision. "I don't mind telling you I was relieved myself. I've been sleeping badly on that clause for a year. Last night I slept like a quarry stone." He considered. "That's twice this sitting. I may be getting used to it."
+"Within the hour of opening," said Bracken. "I'm told the Chief Adjudicator read the rule aloud once and approved it without a hearing." He sat down, which he rarely did at their table, and took a piece of bread, which he more rarely did. "I'm also told he was relieved. The trial office wants it known that it was not relieved, being an office, but that he was." He buttered the bread with great precision. "I don't mind telling you I was relieved myself. I've been sleeping badly on that clause for a year. Last night I slept like a quarry stone." He considered. "That's twice since the bluff. I may be getting used to it."
 
 By the third bell the notice was on the boards in the outer court. HALCENVANE — SQUAD AS FILED.
 
@@ -228,7 +228,7 @@ Karis did not run anything. She went and stood on the ramp of the north-west pla
 
 "From up there you can't see the middle of the barrier," she said to Ephram. "The stacks are in the way, both ends. Any call you make from a northern ramp, you make without seeing where it lands." She considered it. "Auremont's caller has the same trouble from the same ramps. Whoever plans for it before the other one does gets a minute free. Count out loud when you're behind a stack. Then we'll know where you are even if we can't see you."
 
-Brom had gone to the barrier and was walking along its face with his wrapped hand on the timber, slowly, feeling for the places where the crews had joined one section to the next. Twice he stopped and turned sideways and put his shoulder into a place where the barrier was not, and came back out. When he had done the whole length he walked back to the gate.
+Brom had gone to the barrier. He did not look at it much. He leaned on it, every few strides, the whole length of it, the way a man leans on a fence to find the post that gives. Twice he stopped and turned sideways and put his shoulder into a place where the barrier was not, and came back out. When he had done the whole length he walked back to the gate.
 
 "Two gaps," he said. "At two of the joins. The first's about a third of the way along from our end. The second's forty feet past it." He held up one big bandaged hand. "One man through either at a run. Not two together. Not if they want to keep their elbows."
 
@@ -244,4 +244,4 @@ The read had nothing to say about it. The read saw weight, and the barrier's wei
 
 He wrote it down all the same, in the column of the notebook where he kept things he could not use yet. *The diagonal. Corner to corner, unbroken. Longest line on the floor. Everybody's reading it as a wall.* He looked at it, and added one more line under it. *The feature nobody has priced.*
 
-Then he put the notebook away and went back to the west gate to warm up, and the page stayed shut in his coat until the third exchange.
+Then he put the notebook away. Gault was waving at him from the gate with the tape, and he went.

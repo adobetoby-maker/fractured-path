@@ -268,7 +268,7 @@ It was not a question. Cael shook his head anyway.
 
 Brom nodded slowly. It was the long nod he gave a figure he had checked and found right and did not like. He did not say what he thought it had cost to hold a thing like that still with a Silver's hand coming down on him in a pocket of stone. He did not need to say it.
 
-Karis had her notebook open on the table in front of her. She had not written in it since they came into the room. Cael noticed that, and saw Lira notice it.
+The pencil lay in the fold of Karis's notebook, where it had lain untouched since she sat down. Cael saw it lying there, and saw Lira see it.
 
 "Then I'd like to put something on the record," said Karis. "Ours. Not theirs."
 

@@ -1,10 +1,10 @@
 # Chapter 46 — The Diagonal
 
-Auremont filed its five at the noon bell, and the bowl read the names off the boards one at a time, and the noise rose with every name.
+The fifth name went up on the board at the noon bell, after the other four, in the same white chalk as the rest.
 
-The lattice-breaker first, the heavy patient Force fighter who had taken Karis apart in four exchanges six days before. Then Zerin. Then two names Cael knew only from Rooke's sheets, a man and a woman, Silvers from the deep end of Auremont's program, who had fought team trials for ten years between them and lost very few.
+Nobody had made much of the first four. The clerk had chalked them in the order of the filing: the lattice-breaker, the heavy patient Force fighter who had taken Karis apart six days before; Zerin; and two names Cael knew only from Rooke's sheets, a man and a woman, Silvers from the deep end of Auremont's program, with ten years of team trials between them and few losses in any of them.
 
-Then the fifth.
+Then the clerk lifted the chalk again.
 
 The bowl did not shout her name. It said it, all of it at once, eight thousand people in one long low breath, and then it was quiet for a moment, and then it began to roar.
 
@@ -44,7 +44,7 @@ Ephram said one word.
 
 "North."
 
-Halcenvane went north. All five of them went through the first gap in the barrier and round its western end, into Auremont's country, and not one of them so much as looked at the south platform. The lattice-breaker and the Silver came down the long ramp onto it, and found nobody there to fight them for it, and stood on it.
+Halcenvane went north. All five of them crossed into Auremont's country, some through the first gap in the barrier and some round its western end, and not one of them so much as looked at the south platform. The lattice-breaker and the Silver came down the long ramp onto it, and found nobody there to fight them for it, and stood on it.
 
 It counted. It counted the same as either of the northern ones. But it had taken two of Auremont's five to get there, and it would take two of them to stay, and it was the farthest thing on the floor from everywhere that mattered.
 
@@ -130,7 +130,7 @@ For the last three minutes of the second exchange Auremont held one platform wit
 
 It came down to the wire. When the bell went and the marshals' boards came up, the second exchange was Halcenvane's on the objective count, by a handful of quarter-minutes.
 
-Two exchanges. On a sanctioned floor, in front of the whole city, with every scout on the continent in the tiers, the five of them had been the best squad on the floor for two exchanges running. It was on the record. It had been counted.
+Two exchanges. The marshals had chalked them both up beside the bluff's name, in a sanctioned book, in front of everybody who mattered in the business of fighting, and no clerk alive could rub them out again. It had been counted.
 
 At the rail Rooke had taken off his coat, which nobody had ever seen him do at a rail, and was holding it in both hands as if he had forgotten what it was for.
 
@@ -192,7 +192,7 @@ From the middle Cael could see quite clearly that there was nothing wrong with E
 
 She went to Lira next.
 
-Lira was at the north-east ramp. Everything Lira had built in her fighting life was built on one thing, which was getting to the place a half-beat before it mattered, and that needed one other thing, which was that the beat should be knowable. Lira read the lane coming. She went early, to the right place, with her one word in her mouth. And the lane was there before early. Daeva touched her on the back as she arrived, and was gone. Lira went to the gate and touched the post and came back, and did the right thing again, and it was the right thing again, and it was no use again.
+Lira was at the north-east ramp. Half a beat early was Lira's whole trade. She had made a fighting life out of arriving first, and every arrival she had ever made had been timed against somebody's next step. The lane did not take steps. Lira read it coming. She went early, to the right place, with her one word in her mouth. And the lane was there before early. Daeva touched her on the back as she arrived, and was gone. Lira went to the gate and touched the post and came back, and did the right thing again, and it was the right thing again, and it was no use again.
 
 Cael, watching from the middle, felt something he could only call pride.
 
@@ -212,7 +212,7 @@ Cael watched her the whole way. She did not look once at the frame she had plant
 
 For a little more than a minute the squad stopped being a squad. It was five people standing in different parts of a floor, and she came to each of them in turn, like a caller working down a street.
 
-*It isn't that she's better than the five of us,* Cael thought, in the one line his head had room for. *She's going in a direction we haven't got.*
+*We built a house on this floor,* Cael thought, and there was only room in him for the one thought. *She came in by a road it hasn't got a door for.*
 
 And then the lane turned toward him.
 
@@ -240,13 +240,15 @@ Not for a beat. For one whole second, in the middle of the third exchange of a c
 
 She looked at him.
 
-It was not how anybody had ever looked at him. Wardens had looked at him, and evaluators, and every registry instrument on the continent, and all of them had been looking for something to write down. She was not. She was reading him. She was looking at him the way he looked at things: taking him in, all of him, weight and stance and where his eyes were, carefully and without any hurry, as an instrument looks at something that is not on its tables and decides, in front of everybody, to stop and find out what it is.
+Her eyes went over him slowly. His feet first, and where his weight sat on them; then his open hands; then his shoulders; and last his face, where they stayed. He knew exactly what she was doing, because it was what he did himself, at every rail and every gate, to everybody, all day long. She was reading him.
+
+Nobody ever had. In a year of wardens and evaluators and brass plates and panels, everybody who looked at him had been looking for a line to fill in or a figure to post. Nothing in her face was going to be written down anywhere. She had come across something that was on none of her tables, and in front of eight thousand people she had stopped to find out what it was.
 
 Cael looked back. He did not know what she saw.
 
 One second.
 
-Then she was gone, back into the trial as if she had never left it, and the rest of the third exchange was hers by a long way.
+The roar came back into his ears all at once. She had turned away inside it, already moving, and the rest of the third exchange was hers by a long way.
 
 ---
 
@@ -284,7 +286,7 @@ Cael stood at the west gate with the other four and the Shield reserve, in the n
 
 Somewhere along the north-tunnel wall, he knew, the exhibition frame still hung on its pegs, with the captain's line on it and the lake man's, and every line below them empty. After this afternoon, he thought, they would stay empty. There was nobody below Gold left in this city who would stand across a ring from him for the pleasure of finding out.
 
-The category had waited three hundred years for a bout that needed it. It had got two. It was not going to get a third from anybody who still had a tier to lose.
+Two Silvers had filed. There would not be a third from anybody who still had a tier to lose.
 
 ---
 
@@ -322,7 +324,7 @@ Ephram found him later in the courtyard, by the pump, where Cael had gone down t
 
 Ephram did not say anything at first. He worked the pump handle for him, three long strokes, and stood back, and waited until Cael had dried his hand on his shirt.
 
-"At Halcenvane," he said, "I told myself I was going to be careful how I remembered it. All of it. You, especially." He looked at the water running away across the cobbles. "I have been careful. I've watched you from the rail for a year, and I've waited for a floor where I'd see it for myself, whatever it is, with nobody telling me what I was looking at. Today I was on the floor." He looked up. "And the best fighter in this city stopped. In the middle of a semifinal, winning, with eight thousand people watching, she stopped to look at you. Like we look at you. Like you look at everything."
+"At Halcenvane," he said, "I told myself I was going to be careful how I remembered it. All of it. You, especially." He looked at the water running away across the cobbles. "I have been careful. I've watched you from the rail for a year, and I've waited for a floor where I'd see it for myself, whatever it is, with nobody telling me what I was looking at. Today I was on the floor." He looked up. "And she was ahead. She had the exchange, and the floor, and the whole bowl on its feet for her, and she gave up a whole second of it to stand there and look at you. Like we look at you. Like you look at everything."
 
 He put out his hand.
 

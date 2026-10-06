@@ -26,7 +26,7 @@ Gault came in while they were eating and made Cael stand up and walk the length 
 
 "Four days," he said. "As I told you. You may walk. You may not run, and you may not burst, and you may not argue." He looked at the right hand, which Cael had held out to him without being asked. The channel the two ignitions had run down was a dry pink line from the heel of the palm into the wrist, and it had begun to peel at one edge. "That's healing. It'll be pink for a week and sound in four days. You'll not put fire through it before then."
 
-"The lake man's in three days," said Cael.
+"The lake man's the day after tomorrow," said Cael.
 
 "I'm aware of when the lake man is." Gault began to unwind the strapping on the hip to look at it. "That's your coach's problem. Mine is that you've four days of careful and the lake man's come along on the third of them. I'll tell Rooke what I've told you, and he'll do what he does, which is find a way round it." He pressed a thumb into the front of the joint. "Does that hurt?"
 
@@ -36,7 +36,7 @@ Gault came in while they were eating and made Cael stand up and walk the length 
 
 The frame by the north tunnel still had the figure painted on it when Cael limped down to the Concourse in the middle of the morning, and somebody had chalked a line under it in the night.
 
-It was the exhibition frame, the old dark board with its old type and its five short rules and its ruled lines underneath. The first ruled line had Rhagen's captain on it, and the two figures, and the result. The second had the lake house's duelist and the date three days off, and nothing else.
+It was the exhibition frame, the old dark board with its old type and its five short rules and its ruled lines underneath. The first ruled line had Rhagen's captain on it, and the two figures, and the result. The second had the lake house's duelist and the date two days off, and nothing else.
 
 The third line was empty. So were all the lines below it.
 
@@ -124,7 +124,7 @@ Karis had sat through the whole session at the end of the trestle with a pile of
 
 They looked at her.
 
-"The high windows on the west side of the bowl. In the afternoon they throw bars of light across the floor." She held up one of the broadsides, which had an account of the lake man's bracket bout from the cycle before. "Every account I can find, his flourishes finish in the light. Every one. He fights his passages so they end in a bright bar, where the top tier can see the blade catch." She laid the sheet down. "He'll do it in the ring. The bars cross the ring's west side in the middle of the afternoon."
+"The high windows on the west side of the bowl. In the afternoon they throw bars of light across the floor." She held up one of the broadsides, which had an account of the lake man's bracket bout from the cycle before. "Every account I can find, his flourishes finish in the light. Every one. He fights his passages so they end in a bright bar, where the top tier can see the blade catch." She laid the sheet down. "He'll do it in the ring. The bars come down into the ring by the middle of the afternoon, and they move east as the sun drops."
 
 Rooke looked at the broadside for a long moment. Then he looked at Cael.
 
@@ -176,9 +176,9 @@ The flags went up.
 
 The lake man opened as Rooke had said he would, quietly. He circled, low, testing, the sword point making small easy figures in the air, and the bowl went quiet with him, as an audience goes quiet at the beginning of a song. Then he began to build.
 
-It was beautiful. Cael could see that even while he watched it for the knife. A step in and a cut, small. A step back. Two steps in and two cuts, a little faster, a little wider, and the lake man's whole body beginning to turn into the rhythm of it. Three steps and a spin, the sword going round in a long bright arc toward the east rail, where the light from the high west windows lay across the planking in a long gold bar, and the whole east side of the bowl drew breath to see the blade catch it.
+It was beautiful. Cael could see that even while he watched it for the knife. A step in and a cut, small. A step back. Two steps in and two cuts, a little faster, a little wider, and the lake man's whole body beginning to turn into the rhythm of it. Three steps and a spin, the sword going round in a long bright arc toward the west rail, where the light from the high windows above lay across the planking in a long gold bar, and the whole west side of the bowl drew breath to see the blade catch it.
 
-The spin was a show. It was meant for the east rail and every face along it.
+The spin was a show. It was meant for the west rail and every face along it.
 
 Except for its last quarter-beat.
 
@@ -220,7 +220,7 @@ The man in the twelfth chair had opened the book on his knee. As Cael watched, h
 
 The lake man came out for the third exchange without any sentences at all.
 
-Cael saw it in the first two steps, and felt something cold go down his back. The man had stopped building. He had stopped bowing. He had stopped fighting for the top tier or the east rail or the light, and he had simply come out to fight, plainly, a Silver of the fourth rank with a true blade and nobody left to perform for.
+Cael saw it in the first two steps, and felt something cold go down his back. The man had stopped building. He had stopped bowing. He had stopped fighting for the top tier or the west rail or the light, and he had simply come out to fight, plainly, a Silver of the fourth rank with a true blade and nobody left to perform for.
 
 And plain, he was better.
 
@@ -230,13 +230,13 @@ The bowl, which had been a little restless through the second exchange, went qui
 
 The light had moved.
 
-It had been crossing the ring's east side at the start. Now the bars from the high windows had slid west with the afternoon and lay across the middle of the ring and the western slope of the crown, broad and gold and blinding. Cael had been watching them move all exchange, and he had been keeping out of them, on the walking leg, at a cost.
+It had been lying along the ring's west side at the start. Now the sun had dropped, and the bars from the high windows had slid east with it and lay across the middle of the ring and the eastern slope of the crown, broad and gold and blinding. Cael had been watching them move all exchange, and he had been keeping out of them, on the walking leg, at a cost.
 
 The lake man saw him keeping out of them. He was a showman. He knew where the light was better than anybody in the building.
 
 He herded Cael into it.
 
-He did it plainly, without a single flourish, three short cuts that left one way out, and the one way out was west and up the crown, into the bright bar. Cael took it. He stood in the light with it full in his eyes, and the lake man came out of the glare at him, straight, low, a plain thrust at the body with nothing round it at all.
+He did it plainly, without a single flourish, three short cuts that left one way out, and the one way out was east and up the crown, into the bright bar. Cael took it. He stood in the light with it full in his eyes, and the lake man came out of the glare at him, straight, low, a plain thrust at the body with nothing round it at all.
 
 Cael could have answered it. He was almost sure of that. A burst, low and to the right, off the bad hip, and he would have been out of the line; or the read and a turn on the left foot, and a step that would have cost the hip another day. He had answers. They were expensive, and he was almost sure.
 

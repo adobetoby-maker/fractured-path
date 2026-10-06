@@ -12,7 +12,7 @@ It was the size of a large book and the weight of a small anvil, done up in brow
 
 Seln read the figure in both forms. He set the parcel on the table and looked at it for a moment.
 
-There was a note propped against the water jug a little way along the table. It was not addressed to him, and he did not read it. He did not need to. He had heard Lira leave the house an hour before with Brom, talking about a cookshop with a blue door past the third wharf, and he knew the hour she had chosen, because she had chosen it at the top of her voice on the stair.
+There was a note propped against the water jug a little way along the table. It was not addressed to him, and he did not read it. He did not need to. He had heard Lira on the stair the evening before, telling Brom about a cookshop with a blue door past the third wharf, and he knew the hour she had chosen, because she had chosen it at the top of her voice.
 
 He could leave the post on the table. The boy would find it when he came down. He could give it to him at supper.
 
@@ -112,11 +112,13 @@ He crossed the shop to the long table. He put the parcel down in front of Cael, 
 
 Then Seln did what he had done at every meal the delegation had eaten in this city, or almost. His eyes went to the counter along the side wall, where there was a stool and a ledge and a view of the whole room. Cael saw them go there.
 
-And Seln pulled out the end of the bench, next to Brom, and sat down at the table, and took a piece of bread.
+Brom saw it too. Without looking up from his plate he put out one wrapped hand and moved the pot of mussels six inches along the table, to the empty end of the bench beside him, where nobody was sitting.
+
+Seln looked at the pot for a moment. Then the end of the bench was not empty any longer. He was on it, with his coat still buttoned, at the table and not beside it, and there was a piece of bread in his hand.
 
 For half a breath the table was very still.
 
-Then it went on, and the way it went on was the best thing Cael had ever seen five people do without discussing it. Lira, in the middle of telling Ephram that he would not be allowed to wind anything else today, reached down the table without looking and set a clean cup in front of Seln and filled it from the cider jug, and went on talking. Brom moved the pot of mussels six inches toward the end of the bench, to where Seln could reach it, and said nothing. Ephram turned round and asked Seln, quite seriously, whether the office happened to know what the harbour's lock gates were made of, because the lock-keeper had said oak and Ephram thought he had seen iron, and Seln said, "Both," and Ephram said, "I knew it," and that was all.
+Then it went on, and the way it went on was the best thing Cael had ever seen five people do without discussing it. Lira, in the middle of telling Ephram that he would not be allowed to wind anything else today, reached down the table without looking and set a clean cup in front of Seln and filled it from the cider jug, and went on talking. Brom went back to his plate. Ephram turned round and asked Seln, quite seriously, whether the office happened to know what the harbour's lock gates were made of, because the lock-keeper had said oak and Ephram thought he had seen iron, and Seln said, "Both," and Ephram said, "I knew it," and that was all.
 
 Karis did not say anything. She looked at Seln once, with her empty hands on the table. Then she looked across the table at Cael, and he looked back, and neither of them looked away for a moment.
 
@@ -174,7 +176,7 @@ Karis looked out of the window at the harbour for so long that Cael thought she 
 
 Nobody laughed. It was not that kind of story, and everybody at the table heard that it was not. Lira put her good hand on the wood near Karis's, not quite touching it, and Karis looked at the hand and left her own where it was.
 
-"I've never once had to change the heading," Karis said.
+"It's still the heading," Karis said. "Nothing since has made me want a better one."
 
 Seln's turn came last. He had not been asked, and he had not offered, and Lira simply looked at him down the table with her eyebrows up until he set his cup down.
 
@@ -220,7 +222,7 @@ After a moment Lira reached across and took the note out gently from under his h
 
 The book went round.
 
-Brom held it last of the three, turning it in his wrapped hands with great care, so as not to mark the leather. He opened it and shut it and listened to the sound it made shutting, which was a soft heavy sound like a door closing in a good house.
+Brom held it first of the three, turning it in his wrapped hands with great care, so as not to mark the leather. He opened it and shut it and listened to the sound it made shutting, which was a soft heavy sound like a door closing in a good house.
 
 "He made that to be used," said Brom. "Hard. For a long time." He handed it back. "He thinks you've got a long time of writing in you."
 
@@ -234,13 +236,13 @@ She turned the leaves one at a time with the tips of her fingers. The ruling was
 
 "For notes."
 
-"For arguing with yourself." She ran a fingertip down the narrow column, top to bottom. "He's never read a word you've written and he knows you'll write something down and come back a year later and want to quarrel with it. So he's ruled you somewhere to do the quarrelling, where it won't spoil the page." She shut the book and set it back in front of him, squared to the edge of the table. "It's exactly right. I'd have designed it myself, and written a memorandum to go with it."
+"For arguing with yourself." She ran a fingertip down the narrow column, top to bottom. "He's never read a word you've written and he knows you'll write something down and come back a year later and want to quarrel with it. So he's ruled you somewhere to do the quarrelling, where it won't spoil the page." She shut the book and set it back in front of him, squared to the edge of the table. "It's exactly right. If he ever wants a clerk, I'm available."
 
 Seln had watched the book go round from the end of the bench and had not reached for it. Now he set his cup down.
 
 "The office has signed for a good many parcels since the bluff," he said. "Kit. Floor declarations. Two crates of the chancellor's papers and one of Gault's instruments, which he would not let out of his sight on the coach. The office does not as a rule mind handing parcels over." He looked at the book on the table in front of Cael, and then, for a moment, at Cael. "That is the first one it has been sorry to hand over."
 
-He sat with the book on his knees for the last of the afternoon, while the light went round on the water, and thought about sixteen.
+Cael sat with the book on his knees for the last of the afternoon, while the light went round on the water, and thought about sixteen.
 
 Sixteen had been at Halcenvane, at the end of an ordinary long day, at the house's long table under a good lamp. Three people had decided that the day mattered, and gone to some trouble over it, and he had not known before that night that anybody but Hesk could keep his day for him. That had been the first one, which proved the day could be kept.
 

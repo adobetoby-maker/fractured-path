@@ -58,7 +58,7 @@ They were all there. Lira sat on an upturned crate by the window with her left a
 
 "Ten," said Lira.
 
-"Ten. They are very exact people." Rooke looked at Cael. "So you'll give him eleven, one for good measure. Eleven times you answer his coverage the same way, out loud, where his whole delegation can see it: you move, you make him reach, and you burn it where it can be burned." He tapped the sheet. "Let him write down that your answer to structure is your feet and your fire. Your feet and your fire are on your sheet. Any panel on this continent can read them."
+"Ten. They are very exact people." Rooke looked at Cael. "So you'll give him eleven, one for good measure. Eleven times you answer his coverage the same way, out loud, where his whole delegation can see it: you move, you make him reach, and you burn it where it can be burned." He tapped the sheet. "By the eleventh, every Rhagen book open in those tiers says the same two words about you. Feet. Fire. Good. Both of those are printed on your sheet already, where any panel on this continent can read them."
 
 He turned to the right-hand sheet.
 

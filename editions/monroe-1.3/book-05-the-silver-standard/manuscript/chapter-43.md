@@ -36,25 +36,11 @@ He watched the ring.
 
 He watched the boy come out of the north tunnel carefully.
 
-There was no limp, quite. There was a boy walking as a man walks across a room he knows has a loose board in it, keeping his weight on one side and not letting anybody see him keep it. Vastin had seen a great many people walk like that into a great many rooms, and very few of them had been seventeen.
+There was no limp, quite. There was a boy walking as a man walks across a room he knows has a loose board in it, keeping his weight on one side and not letting anybody see him keep it. Vastin had seen a great many people walk like that into a great many rooms, and very few of them had been sixteen.
 
-He watched the showman from the lake house bow to everybody in the building, and he watched the bout begin.
+The whole bowl watched the showman from the lake house, and there was nothing to learn from looking where eight thousand people were already looking. Vastin watched the boy, as he had once sat four feet from him in a room twelve feet by fourteen and watched him while he answered.
 
-He did not watch the showman. The whole bowl was watching the showman, and the showman was very good, and there was nothing to learn from looking where eight thousand other people were already looking.
-
-Vastin watched the boy, as he had sat four feet from him in a room twelve feet by fourteen and watched him while he answered.
-
-In the first exchange the boy was not where the blows landed, and Vastin saw how. He was not quick. Not that afternoon. He was early. He went to the right place a moment before there was any reason in the world to go there.
-
-In the second exchange the boy did something Vastin had never seen done on a floor.
-
-He declined to be told a story.
-
-The showman built his passages as such men did, toward an ending, and the whole bowl leaned toward each ending as it came.
-
-The boy did not lean. He stood on his good leg and let each passage come, and at the moment before its end, when even Vastin felt himself waiting for the last word, the boy was quietly somewhere else. He did it again and again. He did it at no speed at all, at the pace of a clerk turning pages. And the showman, who was a Silver and an artist, came slowly apart in front of him, sentence by sentence, until the boy stepped in through a half-beat in which the man's weight had nowhere to go and touched him on the arm.
-
-Nothing in it was hidden. That was what held Vastin's eye. Every piece of it was done in the open, on the floor, in front of everyone, inside the rule. And not one person in eight thousand had been looking at it.
+What he saw in the second exchange he had never seen done on a floor. The boy declined to be told a story. Each of the showman's passages leaned toward its ending, and the bowl leaned with it, and at the moment before the ending the boy was quietly somewhere else, at no speed at all, until the passage had nothing left to land on. It was all in the open, inside the rule, in front of everyone, and as far as Vastin could tell not one person in the building was looking at it.
 
 He opened his book and wrote.
 
@@ -62,19 +48,11 @@ He opened his book and wrote.
 
 He read it back, as he read every line, and it was true. He closed the book.
 
-He watched the third exchange with his hands folded on the closed book.
+In the third exchange the boy took a touch standing in the light, and in the instant before it Vastin saw something cross his face that he could not read. It was not surprise and it was not fear. It was very quick and then gone, and he did not write it down, because a thing he did not know could not go into a book as though he did.
 
-He saw the showman put the show down and fight, and he saw that the man was better without it, a good deal better, and that the boy, on one leg, had to work very hard to stay out of his way. He saw the light from the high windows move across the floor. He saw the boy keep out of it for most of an exchange, at a price, and then be driven into it by three plain cuts, and stand there with the glare full in his face.
+He opened the book again at the end, before the flags had come down.
 
-He saw the touch land.
-
-He had been watching the boy's face, not the showman's sword, and he saw something on it in the instant before the touch that he could not read. It was not surprise. It was not fear. It was very quick, and it was gone, and he did not write it down, because he did not know what it was, and a thing he did not know could not go into a book as though he did.
-
-In the fourth exchange he watched the showman give up the plain fight and throw one last long beautiful passage at the north rail, for no reason that had anything to do with winning, and he watched the boy step in under it and end the bout.
-
-He opened the book again before the flags had come down.
-
-*Close. Everything I saw today, I already had a word for.*
+*Closing. Everything I saw today, I already had a word for.*
 
 He read that back too. It was true. It was true in a way that he found, sitting in the held chair with the bowl on its feet around him, he would have to think about for some time.
 
@@ -102,7 +80,7 @@ He would go home in the morning, by the post road. There was a calendar on his d
 
 ---
 
-Cael gave the table the fact over supper, and one sentence with it.
+Supper was half eaten before anybody said Vastin's name, and it was Cael who said it.
 
 "The Archmarshal came himself," he said. "He reads every piece of paper anybody sends him, and he left it all on his desk and came to look."
 
@@ -124,11 +102,11 @@ Nobody said anything.
 
 Seln closed the file and took his hand off it, and went back to being a man at the end of a table who kept the papers. The table let him. It sat for a while with what he had said, and then, because it was supper and there was bread to pass, it began to talk again about other things, a little more quietly than before.
 
-*He evaluates,* Cael wrote that night. *That's all he has ever done, as far as I know him. He sat four feet from me for a day and asked me eleven questions and wrote down what I said. He wrote a note about me that I believe says I'm not a mistake, and he signed it with his whole name.*
+*He evaluates,* Cael wrote that night. *That's all he has ever done, as far as I know him. He sat four feet from me for a day and asked me eleven questions and wrote down what I said. He wrote a note about me that I believe says I'm not a mistake, and I'd wager he signed it with his whole name.*
 
 *Today he crossed the country to sit in a chair somebody else saved for him, and watched one bout, and wrote twice, and left before the number.*
 
-*A man who trusted the papers that reach his desk would have stayed at his desk. A man who trusted the panel would have waited for its figure. He did neither. Whatever reaches him about me now, he doesn't think it's enough. He's started checking it with his own eyes.*
+*A man who trusted the papers that reach his desk would have stayed at his desk. A man who trusted the panel would have waited for its figure. He did neither. Whatever reaches him about me now, he doesn't think it's enough. So he got on a coach.*
 
 *Seln says the stewards had his grade against that chair two weeks before his own clerk told anybody he was travelling. Somebody kept him a chair for thirteen days and told a steward his grade. I can't do anything with that. Nobody at this table can. But I'd like it written down that the chair was full today, and that the man in it went home without our figure, and that I'm seventeen in about two hours.*
 
@@ -176,9 +154,9 @@ He stopped at the end of the row and counted it. Thirty-one people, standing in 
 
 He thought about Brom's plaque on the long table, and Brom's summons, and walked on without saying anything to anybody.
 
-At the basin steps there was a likeness-seller with his sheets pegged along a cord between two poles, two for a copper, flapping a little in the wind off the water.
+The wind off the water was flapping a row of printed faces on a cord between two poles, at the foot of the basin steps, and the man who owned them was calling them at a copper the pair.
 
-The Auremont Gold had the middle of the cord, and the stack of her sheets on the stall's board was nearly gone. Zerin was beside her, and then the Rhagen captain on his oak with the guard drawn round him like a great soap bubble, and then the Iron bracket's last four with Lira among them, fists up, angrier than life again.
+Daeva of Auremont flapped in the middle of the row, and the man had only a thin stack of her left under a stone on his board. Zerin was beside her, and then the Rhagen captain on his oak with the guard drawn round him like a great soap bubble, and then the Iron bracket's last four with Lira among them, fists up, angrier than life again.
 
 At the very end of the cord, a little apart from the rest, hung a sheet of him.
 

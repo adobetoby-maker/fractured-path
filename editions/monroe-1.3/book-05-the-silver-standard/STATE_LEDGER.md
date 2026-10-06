@@ -1178,3 +1178,213 @@ The individual brackets are spent:
 - **The ring night:** the crews draw the plugs and set posts with a level and wedges. A woman oils each plug; Cael remembers the steward's grandmother.
 
 **Movement 6 CLOSED (2026-10-05).** Fable recheck r1: CLOSE WITH LINE FIXES — four applied (ch39 'hers to choose' → 'for Karis to choose'; ch37 E2 contacts count → 'every contact of the second exchange'; ch37 the broadsheet's score row spelled for the ear, 'nought to three, two to one, one to two, one to three'; ch37 'the five below him' → 'the five'). Where the author end-state above predates r1 (eight contacts, 'a week ago', Brom's rank, pencil), the manuscript and rulings govern. Overlap 0/17, gates 0, probe 1%/7%.
+
+
+## AFTER MOVEMENT 7 — chapters 40–46 (drafted 2026-10-05, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Calendar per #41: Shield captain T11 (Cael 2–1 in four; captain 30, Cael 27); duelist T14 (Cael 2–1, no fire, no bursts; duelist 28, Cael 25); Vastin sits T14 — "held for him for thirteen days"; rest day/birthday T15 (no date printed; OWNER-pending #35); team trial T16.
+- TEAM-TRIAL FORMAT (canon, stated once by Rooke, ch45): four exchanges by the timekeepers' glass; three platforms (the south one costs double what it scores); quarter-minutes kept by the platform marshals (objective ledger); flags count touches (engagement ledger); a touched fighter touches his own gate post; exchange to more quarter-minutes; split exchanges to the whole objective ledger.
+- Four houses fielded, by the count as it stood when the brackets reached their finals: Auremont, Rhagen, Halcenvane, the river academy. Only the Copper bracket is closed; the Iron, Silver and Gold finals are on finals day (T24).
+- Halcenvane lost its semifinal 2–2 on exchanges, the whole ledger to Auremont; no unit figure posted. Rhagen lost to the river academy the same afternoon off the page (M8 gives one line). Third-place trial T21: Halcenvane v Rhagen.
+- The exhibition ring (first build: chest-high planking, gate bays, the old open-air crown) came down before dawn T16; the M8/M9 ring is a NEW build at midnight T21 (re-laid stone; the crown becomes M9's half-inch; the oak round kept as an island).
+- Vastin: travelled himself; a steward greeted him "Archmarshal"; two notes, no conclusion (the second opens *Closing.*); left before the figure; his office about two days by post road. Cael's log only wagers that he signed with his whole name.
+- The read at its limit caught the air, not a body (ch46) — the M8 "reading the medium" seed; no mechanism.
+- New canon: Karis's first notebook (age ten, the healer entry; her mother as minor canon); Quenna's card; Vell's receipt; Bracken's "quarry stone" ("twice since the bluff"; first use on the road, M5 ch28).
+- Rooke's five findings (ch46) for third place: "Ready. Not early."; Brom two strides wide of a gap, not in it; "A frame with a door in it"; Ephram's "South."; Cael's diagonal.
+- Ledger the cookshop from the manuscript, not this report.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** Halcenvane weekdays (day N falls on weekday (N mod 7)+1). T = day from the opening; T1 = d214. No season names, no month names, no month order. The narration names days only as "the fourteenth day" and "the rest day".
+
+| Day | T | Weekday | Event |
+|---|---|---|---|
+| d223 | T10 | Seventh-day | (M6) Night: the crews raise the ring |
+| d224 | T11 | First-day | Dawn: Cael walks the finished ring (foreman; crown; bays). Second bell: Rooke's plan, the hired hall. Afternoon (the second hour after midday): **the Shield captain**, 2–1 in four; figures 30 / 27. Night: the back-room debrief; the midpoint log |
+| d225 | T12 | Second-day | The broadside's paragraph; Gault's four days; the empty frame. (Brom orders and pays for the cake this morning) |
+| d226 | T13 | Third-day | Afternoon: the hired hall, Ephram as the lake man; Karis on the windows. Evening: Vastin reaches the city by the post road |
+| d227 | T14 | Fourth-day | Vastin in seat twelve. Afternoon: **the duelist**, 2–1 in four; Vastin writes twice and leaves before the figure; 28 / 25. Supper: Seln's line. Night: the Log. Cael turns seventeen in the night |
+| d228 | T15 | Fifth-day | **Rest day / birthday** (date not printed). Late waking; the walk; the blue door from midday to mid-afternoon. Evening: the old volume's four lines; the inventory in Hesk's book. **Dusk: the trial draw**; Withrow files. Night: protected 23; Rooke's longest brief. Vastin leaves the city in the morning (his intention, ch43) |
+| d229 | T16 | Sixth-day | Before light: the ring is taken down and the terrain built. First bell: **Umber approves**. Second bell: Bracken brings the notice; posted by the third. Late morning: the inspection. Noon: Auremont files its five. **The team trial semifinal**: 2–2, the ledger to Auremont. Evening: Rooke's sheet; Ephram at the pump; protected 25; "Then your storm." |
+
+Coming, per BOOK_MAP §6: the empty board T17–T18; filing T19; convening T20; third place T21; the ring rebuilt at midnight; finals T24.
+
+**Every bout and figure in the movement** (#38: five judges; per-axis strike; marks to fifteen; ten = par; ratings to forty-five; par thirty).
+
+| Bout | Exchanges | Result | Figures |
+|---|---|---|---|
+| Cael vs the Rhagen Shield captain (Silver 6, Shield), exhibition, main-floor ring, T11 | E1 0–1 (left shoulder) · E2 1–0 (right hip, the eleventh relocation) · E3 none (bell) · E4 1–0 (ribs under the left arm) | **2–1 in four** | **captain 30, Cael 27** |
+| Cael vs the lake-house Blade duelist (Silver 4), exhibition, main-floor ring, T14 | E1 none · E2 1–0 (sword arm) · E3 0–1 (left ribs; conceded/lost in the light) · E4 1–0 (chest) | **2–1 in four** | **duelist 28, Cael 25** |
+| **Cael's exhibitions this year** | fifteen bouts unbeaten, none lost | 23, 22, 24, 22, 21, 23, 26, 20, 21, 24, 23, 25, 22, **27, 25** | the 27 is the year's highest and the first he did not set |
+| Team trial semifinal, Halcenvane vs Auremont, T16 | E1 Halcenvane · E2 Halcenvane (by a handful of quarter-minutes) · E3 Auremont (by a great deal) · E4 Auremont (by a few) | **2–2; the whole objective ledger to Auremont** ("the third exchange alone had given Auremont more quarter-minutes than the first two had given Halcenvane together") | no unit figures stated |
+
+**Burst ledger (Cael; per day on a floor).**
+
+| Day | Floor (free price) | Use | Bursts | Note |
+|---|---|---|---|---|
+| T11 | ring stone (four) | E1 one probe; E2 two (the seventh and eighth relocations); E4 one (uphill out of the north bay) | **4 of 4** | Ember 2 (E3, at the north bay); the hip from the E3 turn |
+| T13 | hired hall boards | Ephram's sentences | 0 | Gault's orders |
+| T14 | ring stone | the duelist | **0** | no Ember (hand); Rooke allowed one burst and it was not used |
+| T16 | trial floor | the trial | **0** | feet only, including the two steps off the lane |
+
+Lira on T16: one burst in E1 ("Early.").
+
+**Bodies.**
+- **Cael:**
+  - **Left hip flexor** pulled T11 (the E3 turn), strapped by Gault, "four days" T12–T15, clear for the trial.
+  - **Right-hand channel-burn** from the two ignitions (heel of the palm into the wrist), pink and peeling, "sound in four days", no fire until then; healing at close.
+  - A stinging left-rib touch from the duelist (T14), a day's matter.
+  - The right shoulder (Pressure) is unasked. Shadow: rent from waking; drifts "fewer this month than last"; deployment none.
+- **Lira:** the LEFT shoulder's half work ends T15; the wrap is off for the trial and the arm is carried close. Touched in E3; no new injury.
+- **Brom:** forearms in fresh linen, yellowing; no new injury.
+- **Karis:** palms a week old, pink and shiny at the heel. She fights in planted frames. The left wrist (T9) is not mentioned.
+- **Ephram:** fit; touched twice by Daeva (E2, E3).
+
+**Fragments and progression.**
+- Six confirmed, plus the anomaly (one inventory touch with the three words). No new capability, and no change to the public record (#40). Both exhibitions used the public suite at documented rates:
+  - Wind at four on stone (the captain), none against the duelist.
+  - The read throughout.
+  - Ember's two contacts on the captain, none on the duelist.
+  - Compression held still at contact range, twice, at a handspan, against the captain. It has not been on a scored floor since Ardenmere.
+  - Pressure untouched. Shadow none.
+- **New technique, not a fragment:**
+  - The undocumented turn back into the thick of a guard. Lira itemizes it; nobody drilled it.
+  - Downhill-spread mining of a weave from a crowned floor.
+  - "Refusing to be the audience" against a showman's timing.
+- **The read at its limit:** for the first time it reads something that is not a body, the pressed air along the diagonal, and gives half a second. This is the seed for M8's "reading the medium". Nothing more is claimed: Cael does not know how, and the margin says *Half.*
+- **The belief "Shield is solved" is closed:** "He had not solved Shield. He had solved a clock."
+- **The midpoint pole is written** (protected 22).
+
+**Knowledge.**
+- **Cael:**
+  - Silver is not a bigger Iron. A weave has layers that age, but no breath, plant, order or rhythm.
+  - The record and his margin have converged ("no band below me").
+  - The captain's finding (protected 44).
+  - Vastin came himself, wrote twice and left before the figure. The chair was held thirteen days; the stewards' book carried his grade from the first morning (Seln).
+  - Nobody below Gold will file now.
+  - Daeva read him and stopped; he does not know what she saw.
+- **Lira, Brom, Karis:** the handspan, twice; Compression held still; the undocumented footwork. They know the doctrine is "filling".
+- **Seln:** the stewards' book and the travel notice; that the boy is "paying". He knows nothing of the mechanism, and no reason is stated for anything he does.
+- **Ephram:** has seen it "for himself"; does not ask.
+- **Rooke:** the tap on the buttoned pocket (he knows an answer to "four" exists somewhere and will never ask where); "the third goes in the file as weather".
+- **Vastin:** two notes, no conclusion; *Subject's footwork… not previously recorded.*; the steward knew his grade. He goes home to move his calendar. Nothing of fragments or of Seln.
+- **Ilsev:** her form has no column for a unit; her second referral is still pending.
+- **Umber:** approved the squad "on a sheet that was already built to hold him".
+- **Daeva:** read the floor, longest at the barrier; read Cael for one second. No conversation.
+- **Zerin:** "unknown cost, go round".
+- Nobody outside the circle approaches the mechanism. *Integration*, *fragment* and *witnessed* do not appear in the prose.
+
+**Resources.**
+- **Hesk's volume** (grey-brown leather, brass corners, lies flat; faint grey ruling, about two dozen lines; a ruled outer margin on every leaf). Entries:
+  - the inventory at seventeen;
+  - protected 23;
+  - the trial entry (protected 25);
+  - the first margin word, *Half.*
+- **The old volume:** nearly full; rationed to a few lines a day ("Rest day. The blue door, all six. Brom's cake, paid three days early. Seln at the table.").
+- **Post:** Quenna's card; Vell's receipt (the cross-reference numbers with the circuit stamp); Hesk's note, kept with the volume.
+- **The likeness** with the eyes cut too old, bought for Hesk.
+- **Ephram's** lock-house duty roster page.
+- **Rooke's** coaching sheet with the five findings, and card FOUR in his inside pocket.
+- **Halcenvane's** copy of Rhagen's book (cracked at *Coverage*).
+- **The trial approval notice;** Withrow's five-name filing.
+
+**Relationships (on the page).**
+- **Rooke:** the tap; the planned loss; "dinner anyway"; refuses a deferral that would advertise the hip; the face-down sheet; the tunnel.
+- **Lira:** "It's called having a house"; the footwork itemized; "Early."; "ready, not early"; "Then your storm."
+- **Brom:** "forgiven for cost"; the cake; leaves the gap of his own judgment.
+- **Karis:** "filling"; a day with empty hands; her first notebook told; the frame moved mid-exchange; watches the lane.
+- **Seln:** **sits at the table** at the blue door; tells one story; walks at the end of the line, not behind it. Still no reason stated.
+- **Ephram:** plays the lake man and learns to break off; the duty roster; the platform trade; the handshake.
+- **Withrow:** a list, not an argument; "And happy birthday."
+- **Bracken:** sits at their table and eats bread.
+- **Umber:** approval. **Daeva:** one second.
+
+**Open threads.**
+- **Opened:**
+  - the read reaching the air (half a second);
+  - the empty exhibition frame (nobody below Gold);
+  - who held seat twelve and told the steward Vastin's grade;
+  - Vastin's calendar;
+  - the third-place trial against the other beaten semifinalist (Rhagen or the river academy, decided off the page in M8);
+  - the margin.
+- **Advanced:** Seln (the table; the line); the doctrine "filling"; the being-studied arc (Daeva studies back).
+- **Closed:**
+  - the Silver exhibitions;
+  - "Shield is solved";
+  - the squad's eligibility;
+  - the semifinal;
+  - Lira's half work;
+  - Cael's hip.
+
+**Prose vs plan differences.**
+- (a) **Rooke's plan** is on the morning of T11 itself, in the hired hall, not "two days out". The ring was only complete that dawn.
+- (b) The packet's "Cael's two Silver bouts sold the second floor to standing room" is the **main floor** (coordinator).
+- (c) **The duelist bout is fought with no fire and no burst** (the hip's third careful day; the hand), which makes "taking away the clock" a necessity. The conceded point is item two of the variance program, and Cael is left unsure whether he conceded it or lost it.
+- (d) **The Seln cutaway** opens ch44, stepping back in time to the morning post; Cael's walk ends ch43 at the door.
+- (e) **Rooke's longest brief** is on the night of T15, before the ruling ("I'm not going to spend a night waiting to find out what a clerk thinks"). The shortest team talk is at the gate on T16.
+- (f) **Karis's "ramps"** are anchored contact frames at ramp heads, not laid ignition architecture (Ember is contact-only).
+- (g) **Lira's one word** is "Early." (the M5 corner-game word).
+- (h) **Ephram's trade** gives Auremont a platform on purpose so that two Silvers must hold it beside Brom's gap.
+- (i) **The aftermath** has new entry points: Rooke in the tunnel; a five-line review sheet; Ephram at the pump; Lira at the door.
+- (j) **Umber's cutaway** runs ≈810 against ≈1,000, and **Vastin's** ≈1,870 against ≈1,500.
+- (k) Neither Gault nor Bracken is at the blue door. Bracken has his moment at breakfast on T16.
+
+## New canon minted (flag where marked)
+
+- **The exhibition ring (flag; M9's rebuilt ring differs):**
+  - fifty-two feet north to south, a few less east to west;
+  - planking chest-high on the posts, with a rope coping;
+  - north and south gate bays a stride deep, laid with newer, quicker stone;
+  - the floor **crowned** to the oak round at the centre, about a thumb's thickness higher than at the barrier ("The first ring stood out in the court… They laid the floor to throw the rain off… We patch to the old line. Easier than deciding.");
+  - taken down before dawn on T16 for the trial terrain, the plugs re-oiled.
+- **The foreman** (short, hawser forearms; "I put the level on every post myself"; "Mind the gates").
+- **Rhagen's book (flag):** the *Coverage* chapter; "ten readings" make a Rhagen survey's pattern ("We say ten. Nobody ever gives us eleven.").
+- **Rooke's four cards (verbatim):** *ONE. IT COVERS GROUND. NOT A MAN.* · *TWO. WIDE COSTS HIM. NOT STRENGTH. ATTENTION.* · *THREE. A LAYER CAN BE BURNED AT CONTACT.* · *FOUR. IT RENEWS WITHOUT A RHYTHM.* boxed in red chalk with *No answer recorded.* Card four sits in his inside coat pocket.
+- **The Rhagen weave (flag, M4/M7 Shield canon):**
+  - a depth that thickens rather than a plane; probes sink and slow;
+  - laid on the floor, not on the man; renewed everywhere at once, a little at a time, with no breath, plant, order or rhythm;
+  - spreads when laid downhill; costs attention when laid wide or round a corner;
+  - Ember at contact can catch one renewing layer and leave it half a beat late, which makes it, for a while, "the oldest thing in the guard";
+  - the captain re-anchors on the crown.
+- **The captain:** about thirty, middle height, broad, close hair greying early at the temples; bows to panel, referee and opponent.
+- **The lake man:** about twenty-five, tall, lean, mobile handsome face; bows to all four sides of the bowl and the stewards; his flourishes end in the high windows' light (Karis, from the broadsides).
+- **Figures (flag):** captain 30, Cael 27; duelist 28, Cael 25.
+- **The broadside paragraph** on paying ("we watched him pay it"). The odds board's *HE'S BETTER THAN THE WOODCUTS.*
+- **Vastin (flag):**
+  - day book *Norhold, on observation. Not requested by any office.*;
+  - by the post road, one bag; reaches the city the evening before T14; the inn under the outer wall;
+  - the row report's line *Subject's footwork in the third exchange not previously recorded.*;
+  - the steward greets him as "Archmarshal" unprompted;
+  - his two notes verbatim (Chapters table, ch43); leaves before the figure; nods to Havel; means to go home and move his calendar.
+- **Seln's added sentence (flag):** "The stewards' book at the east stair carried his grade against that seat on the first morning of the sitting. His own office's notice of travel reached the west tower yesterday at noon."
+- **Norhold at rest:**
+  - the hiring board (*Grain lighter. Six hands. Copper will do. Iron preferred. Dinner found.* / *Timber, the long dock, two days. Iron or better.*);
+  - the public house's brass plate in superseded registry wording;
+  - thirty-one people at the shut registry annex on the coopers' row;
+  - the likeness-seller at the basin steps ("Good luck to the bluff");
+  - the fiddler's four bars of the procession's march.
+- **The cookshop:**
+  - the proprietor (big, floury, twenty-two years in the shop; her mother kept it "the last time the city hosted"; "Fighters all sit facing the door"; "good for the till and bad for the sleep");
+  - Lira's sign *TAKEN. HALCENVANE. ASK THE GIRL WITH ONE ARM.*;
+  - the chandler's cushions; the honey-cake ordered and paid by Brom the morning after the captain's bout.
+- **Karis's first notebook (flag):** at ten, in an arithmetic book, the heading at the back; first entry *My mother, at the healer's: "This won't hurt."* / *It did. The healer said afterward that it would.* "I've never once had to change the heading."
+- **Seln's story:** the whistling clerk, eleven days by coach, four bars, nine hundred repetitions. No "I".
+- **Ephram:** the lock-gates are balanced and hand-wound; "wrong about the date by sixty years"; the duty roster page with two names marked *late*.
+- **Quenna's card (verbatim; flag):** *The broadsides come even this far now. Two Silvers filed, I read, and one of them from Rhagen. I once asked a boy whether he could hold back what he had in front of people who meant him harm. These are people who mean you well, and I suspect that is the harder room. You will manage it. — Q.*
+- **Vell's receipt (flag):** the posted exhibition figures entered under his Ardenmere circuit record, with the cross-reference numbers and stamp; *Should the tournament's books ever go missing, ours will not.*
+- **Hesk's volume** (described above). Brom: "He made that to be used… He thinks you've got a long time of writing in you." Lira will "steal some" paper.
+- **The inventory at seventeen (verbatim in ch45; flag for year counts):** no year counts beyond "a year, near enough" and "the second year"; "four a day on this city's stone"; "It sees what's heavy"; Pressure "flat on two plates on the bluff and one in a felt bag at the mill town… Not asked for since the mill town's plate".
+- **The team trial (flag, new canon):**
+  - **Who fields:** the four houses highest on the count after the brackets field squads (Auremont first, Rhagen second, Halcenvane third, the river academy fourth). The draw is from the drum at dusk. Semifinals Rhagen — the river academy and Halcenvane — Auremont; the beaten pair meet later for third.
+  - **Format (Rooke, stated once):** four exchanges by the timekeepers' glass. Three platforms; a house alone on a platform scores quarter-minutes, kept by the platform marshals (the objective ledger), and the flags count touches (the engagement ledger). A touched fighter goes back to his own gate and touches the post. The exchange goes to the house with more quarter-minutes; split exchanges go to the whole objective ledger. A quarter-hour inspection is allowed.
+  - **The floor:** ninety feet west to east, low rails; Halcenvane's gate west and Auremont's east; the head-high timber diagonal from the north-west corner to the south-east, cutting two triangles (Halcenvane's gate into the southern one). Two platforms in the north, one far down in the south-east of the southern triangle behind a stack, with long ramps on the old patched stone. Timber stacks at both barrier ends; two gaps at section joins, a third of the way along and forty feet past it; the oak round just south of the barrier's middle.
+  - The ticket office's *NONE*.
+- **Withrow:** "A filing with an argument stapled to it is a filing that thinks it will lose." "It's a list." The west tower's night clerk under the colonnade.
+- **Umber:** watched the ring come down at dawn; the trial office's two senior clerks and his deputy; "every figure was one we built a room for, after he'd arrived in it"; "a sheet that was already built to hold him".
+- **Bracken:** "Last night I slept like a quarry stone… That's twice this sitting. I may be getting used to it." He sits at their table.
+- **Ilsev's form (flag):** ten columns, each headed with name, house and registry classification. Her standing note *Authorizing office: not traced.* Her pen stopped mid-line at the E2 bell.
+- **Daeva** looks at the floor, not the fighters, at the presentation, longest at the barrier. The lane has a crack like a whip at its head, a struck-flint smell and a pale flicker; it makes ears pop and hair stand.
+- **Rooke's review sheet** (the five findings, verbatim in ch46): *Ready. Not early.* · *Left the gap. Should have left it sooner.* · *A frame with a door in it.* / *She came from where no ramp was. Think about that.* · *South.* · *The diagonal. I had it on paper this morning and didn't know what it was.*
+- **Ephram's speech** was "mostly" written on the road to the mill town and shown to Lira "at the waystation" ("a good speech with a sermon stuck on the end").
