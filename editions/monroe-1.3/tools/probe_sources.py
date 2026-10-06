@@ -17,7 +17,7 @@ if m:
     nums = [int(x) for x in re.findall(r"\d+", m.group(1))]
 else:
     m = re.search(r"\bsource\b(.*)", line, re.I)
-    seg = re.split(r";|\.\s|the previous ending", m.group(1), flags=re.I)[0] if m else ""
+    seg = re.split(r";|\.\s|the previous ending|,?\s*and\s+\**\s*Book\s+\d", m.group(1), flags=re.I)[0] if m else ""
     seg = re.sub(r"`?manuscript/[^`]*`?", "", seg)
     chs = [int(x) for x in re.findall(r"chapter-(\d+)\.md", seg)]
     if re.search(r"\bthrough\b|–|-to-", seg) and len(chs) >= 2:

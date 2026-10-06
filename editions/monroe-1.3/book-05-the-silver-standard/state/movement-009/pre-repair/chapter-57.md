@@ -1,0 +1,223 @@
+# Chapter 57 — Under Standard
+
+The healer in Auremont's warm-up room found the mark on the third look.
+
+It was on the front of Daeva's left shoulder, a little below the collarbone, where his palm had been. A round red place the size of a coin, with the skin shining at its middle. It was not a burn worth the name. The healer, who had been with the program since before Daeva came to it, dabbed salve on it with the tip of one finger and then stood back and looked at it for a long while, as if it were a word written on a wall in a hand she did not know.
+
+"Four years," the healer said at last, to nobody in particular.
+
+Daeva said nothing. She had been counting too.
+
+She sat on the bench under the room's one lamp with her shirt off the shoulder and her hands in her lap and let them all come and go. The room was full of her house. Her lead instructor stood in the doorway with his hands behind his back, tipping his head at her and not saying anything, which was the kindest thing he could have done. The delegation head came in, and said that the house was very proud, in a voice that did not know what it was proud of, and went out again. Two of the design staff stood by the far wall arguing in whispers over a chart that had nothing on it yet.
+
+The risk officer came last, with the folded sheet in his hand that the foreman had carried all night in his coat and taken out and read before every bolt went in, and that had held. He did not sit down. He stood in front of her and opened the sheet and closed it again.
+
+"The north mast took it," he said. "All of it. The trench carried it east, the way it falls. Nothing went into the rows." He looked at the sheet as if he had never seen it before. "I worked that sheet out against you. Every line of it was you. I didn't know what to work out for him, so I didn't." He folded it smaller. "It held anyway."
+
+"It was a good sheet," said Daeva.
+
+He nodded several times, and went out with it, and she heard him on the stair saying something to somebody about the cable, and then nothing.
+
+When they had all gone she sat on alone with the salve drying on her shoulder, and thought about the lane.
+
+It had been hers. She had known it the moment it opened, before her mind had caught up, the way you know your own name called across a street before you have turned round. Nobody else on the continent laid a lane like that. She had watched the coast Storms, and the old border Golds, and the one man from the eastern islands who came every cycle and lost in the second round. Their lanes were theirs, each one, the way a voice is somebody's. This one had been hers. It had been small and rough and laid crosswise out of a corner, where she would never have laid it, by somebody who had plainly never laid one before. But it had her grain in it. It had the little hitch at its far end where she always pinched the air hardest. It was like hearing a bar of a tune she had made up as a child, whistled back to her by a stranger in the street. It was in the wrong key, and too short, but hers.
+
+She did not try to work out how he had done it.
+
+She noticed that she did not try, and she was glad, as she had been glad two days ago on the floor of the boarded room. People had spent her whole life working out how she did things. They had built rooms and programs and floors for it, and written it all down, and every word they wrote had been true, and none of them had ever once got near her. She was not going to do that to him. She would not have known where to start anyway. She only knew that it was hers, and that it had come out of him, and that she had never in her life been so happy about anything she did not understand.
+
+Then she thought about the end.
+
+He had been going down at her feet with his side open and his legs gone, and she had seen the finish lying there, and she had not taken it. She had not decided not to, exactly. She had done what her hands knew. She had let the air under him go slack, so that it would not hold him up and would not let him fall either, but take him down slow, like a hand lowering a cup to a table.
+
+It was the thing the big quiet man had done to her on the coast when she was fifteen. She had spent a month of mornings learning never to let anybody do it to her again, and she had kept the exercise sheet ever since because it was the only honest record of a thing that had been done to her. She had always thought of it as the thing that had beaten her once.
+
+It had not occurred to her before this afternoon that a man might do it to catch somebody.
+
+That kept her on the bench until the lamp needed trimming. She thought perhaps he had not meant it kindly, the big quiet man, all those years ago. Perhaps he had. It did not much matter now. What mattered was that there were two ways to use it, and she had only ever been shown one.
+
+That night, in the marbled notebook in the lining of her case, she wrote one line under all the others. She wrote it slowly, in her best hand, and read it twice, and put the book away.
+
+*Today somebody asked me something.*
+
+---
+
+The young clerk had gone down for the stamp, and Umber stood at the window and waited for him to come back.
+
+It was the only thing left to wait for. The sheet lay on the black table behind him with nine names at its foot, the ink of the last one still wet. The stamp was in the strong room, three floors down, behind two locked doors and a logging clerk who would not give it up to anybody but a clerk of the minute, which was the rule, and a good one. So the boy had gone down with the key. Umber could hear his feet on the stair, getting fainter.
+
+Outside the glass the night was going, and the harbour had come up out of the dark without his noticing it, grey and flat and very still, with the masts in the basin standing up out of it like pens in a pot. A cart was crossing the quay with nobody beside it. Every lamp in the room had burned down to its last inch.
+
+He found that he was going back over the night as he went back over every sitting, slowly, from the beginning, to see what it would look like to some stranger reading the minute in fifty years by a worse lamp than this one, and he had always done it. He had done it as a young judge, and been laughed at for it.
+
+It had begun with a handcart.
+
+He had heard it before he saw it, bumping up the last flight backward, a step at a time, with somebody grunting at it. The porters had all gone home at the sixth bell. So the senior rating clerk had brought the tables up herself: all four volumes of them, in their old calf, and the bundle of corrections, strapped onto a cart with two belts that had once held somebody's luggage. Not one of the nine had ever seen the full set out of the strong room. The office ran on the short sheets, and had done since before any of them was born.
+
+The oldest of the panel had said, kindly, that the short sheets would do.
+
+"Very likely," she had said, unbuckling. "I would like the room to be able to say that we looked."
+
+He had kept that. He thought he would keep it a long time.
+
+Then his own clerks had read out what they had found in the strong room at noon, when he sent them down before the bout had even begun. Everything the office had ever filed when its tables ran out. There were nine. Nine times in three hundred years the mark had come to a place it could not go, and nine times somebody had written down what was done there.
+
+Most of them were nothing. Arguments over whether a hand had landed. Arguments between panels. Two cases of cheating that had ended careers and been forgotten. Only one of the nine had any shape like this one. In the eighty-first cycle a fighter had come before the panel in a Path that the tables had never been written out to hold, and that panel had set him between two Paths the tables did hold, and rated him by the likeness, and defended it in a long paper that nobody had ever overturned.
+
+He had asked her whether the eighty-first would serve.
+
+She had worked on that very question all afternoon. He had seen it in her face. "A likeness needs two ends, Chief Adjudicator. That panel had a Path on each side of its man. I went looking for two." She had put her hand on the first volume as if to keep it shut. "I found only one of them."
+
+That was the first time in the night he had been sure where they were going. It had been a little after the seventh bell.
+
+At the second hour the steward had come to his ear.
+
+An officer of the Compact was on the stair, asking to sit under the observation right in the fourth schedule of the charter. The right was as old as the charter. Umber had read it a hundred times and never seen it used, nor met anybody who had. He had said to let the man in. The man had come in, in plain grey, with nothing in his hands, and bowed to the table and to its head, and refused the chair at the foot, and sat down on the steward's plain stool by the door with his hands on his knee.
+
+The minute had him in one line. Umber had read the line at the end of the night and found nothing in it he would change.
+
+*Present by observation right of the Compact, one senior officer, who spoke no word.*
+
+He had not, all night. He was still there now, by the door, behind Umber's back. Umber had not turned round to look at him since the shutters went.
+
+---
+
+At the first bell after midnight he had made her try.
+
+That had been his rule from the start of the sitting, and he had said it before anybody else could speak. Nobody would argue about what to do in that room until the room had done the ordinary thing, aloud, start to finish, with the clerks writing down every step. In fifty years he did not want a single reader of the minute to be able to say that the ordinary thing had not been tried.
+
+So she had stood up with the first volume open and tried it.
+
+He remembered her finger going down the index, down one page and then over and down the next. There was nothing under Storm for a fighter with no Storm in his record. There was nothing under the fighter at all. So execution, which wanted a reference to be marked against, had nothing to be marked against. Control, which wanted to know how far a fighter had strayed from what he ought to show, found that nobody knew what he ought to show. She had said each thing plainly, as a fact about a book, and the clerks had written each down.
+
+Effect had been different. Effect did not care whose the work was. It asked only what the work had done, and that could be measured. She had set the three scribes' accounts side by side with the referee's sheet and the crews' plan, and measured from all of them, and they had agreed with each other to the foot. A lane about fifteen feet long, at about a third of the depth of hers.
+
+"That one's true," she had said, writing it in. "It may be the only one tonight."
+
+And then the last step, the composite at the back of the book, where the three marks were brought together and set against par for the fighter's own tier to make the figure that went up on the board. He remembered how she had taken the pen up for it. He remembered it stopping, an inch off the paper, and staying there.
+
+"The column asks me for his tier."
+
+She had put the pen down very carefully, beside the book, as if it might go off, and then she had said, to the room and to the clerks and to whoever read the minute in fifty years, that any figure would go in. She could write Silver, since he had beaten two. But it would be a figure she had made up, and everything worked out from it afterwards would be made up too, and every bit of it would go out to the board under the office's seal.
+
+Then she had shut the volume. He had not known until then how loud a book could be.
+
+After that, until the third bell after midnight, he had let them argue. He had made the clerks take all of it down. The three who had wanted a figure were good judges, and frightened, and not wrong about what refusing would cost. He wanted the minute to show that.
+
+The oldest of them had wanted half a figure. Rate what the tables could hold, he had said. Three exchanges and part of a fourth were plain fighting. There had been Wind in it, and a give that nobody could explain but everybody could see, and a touch, and reading. Rate all that, and put the last of it in words underneath, unrated.
+
+Umber had asked him what a reader would make of that figure.
+
+"What a reader always makes of it."
+
+"He'll take it for the whole afternoon," Umber had said. "It won't be. It will be a true figure for a bout nobody fought. I'll not put my name under it." Then, more gently: "Nor will you, I think, when you've slept."
+
+The woman from the coast had wanted the figure with a mark beside it, sent up the line with a note to say the panel had doubts. It would keep the category alive, she had said. A blank would kill it.
+
+"Sent up to whom?" he had asked her. "There's nobody over this table who rates bouts. That's why the table is here." It had come out sharper than he meant. "If we argue with our own figure, we've stopped being judges. We've become one more house with a grievance."
+
+And the youngest of them. He had been waiting for the youngest, because he knew the boy would make the best case of the three, and the most honest one.
+
+The boy had been pale, and had not looked at anybody. He had said that the families trusted the board. The houses sent their children up through the brackets on the strength of it. Fathers bet their wages and the old fighters in the cookshops settled arguments by it, and none of them understood the tables, and none of them needed to, because in three hundred years the board had always said something. Write a blank tonight, he had said, and the board had said nothing, once, about the one bout everybody saw. Every quarrel for the next hundred years would begin by pointing at it. "It's the answering they trust. Its answer-ability. That is the mark, as far as the world's concerned."
+
+Umber had sat a while before he said anything to that.
+
+"The world is wrong about it, then," he had said. "And that's our fault, for letting it be. The mark never told anybody it would always answer. It only ever told them that its answers were true. If we keep the promise we never made by breaking the one we did, we'll have kept nothing."
+
+Then he had heard out every argument that was left, though he knew where each would end. The mark was owed all of them.
+
+---
+
+He had ruled sitting down, with his hands flat on the table either side of the closed books. He remembered that, because he had meant to stand and had found he did not want to.
+
+"Forty years I've told every judge who came up those stairs one thing about this mark. It doesn't flatter. Not a house, not a fighter, not the panel. Tonight we have been asked to flatter it. To put a figure on that sheet that the tables never gave us, so that the mark looks whole. If we do that, nobody is measured by it any more. They kneel to it. It has a priesthood."
+
+He had stopped then. He had not meant to. The junior clerk, who was perhaps twenty, had looked up from the minute at the silence, and after a moment had written something down. Umber had read it at dawn. In forty years of his sittings it was the only time a clerk had written down anything about him that was not a word he had said.
+
+*The Chief Adjudicator paused.*
+
+"It was built for a world with a schedule in it," he had said then. "This afternoon the schedule met something it doesn't contain. It isn't the mark's shame. It's only the truth. And the whole of our work tonight is to put that truth in the book in the plainest words we have, and nothing softer. The record is the truth or it is nothing. Write the entry."
+
+The words had taken longer than the ruling.
+
+He had thought they would. Agreeing on what was true was one thing. Setting it down in eleven words of the office's flat type, for strangers to read who had not been in the room, was another. They had spent an hour and a half at it. He would have spent longer.
+
+*Unassessed* had gone first, because they had assessed, all night, with the full tables open. *Rating withheld* had gone next. It said there was a figure somewhere and the office was hiding it. The woman from the coast had wanted *beyond the scale*, and fought for it hard, and he had refused it because it was praise, and the entry was no place to praise anybody. The mark had not earned praise by failing. The boy did not need any.
+
+What was left was plain, and nobody could make it plainer.
+
+The last twenty minutes had gone on one word. The youngest wanted *by*. It was more honest, he said; it named who had tried. Umber had wanted *under*. A standard was a rule, he had said, not a fighter. Things fell under a rule or they did not. You could not beat it, and it could not lose. *By* would make the mark a man who had been knocked down in his own ring. *Under* said only that here was a place the rule did not reach. They had gone round it till two fair copies were spoiled. And then the boy had said *under* himself, before anybody asked him to.
+
+*Referred* had cost nothing. It was only an address. The rules sent anything shown outside classification to the Compact's seat, and everyone at the table knew the seat would have no better answer than they did. They had written it anyway. Without it the entry would have ended in a full stop, as if somebody had closed the matter.
+
+The nine had signed by seats, and the youngest had signed eighth. He had read the sheet through twice before he did it. Then he had asked, very quietly, whether his argument might come out of the minute now it had lost.
+
+"No," Umber had told him. "It was the best one made tonight. Leave it in, so that whoever sits here next can see what it cost us to say no to it."
+
+The boy came back up the stair with the stamp, out of breath.
+
+He inked it and set it on the foot of the sheet and lifted it clean, and the office's seal sat there under the nine names, black and square.
+
+Umber turned from the window to take the sheet, and so he turned toward the door, and the man in grey was looking at him.
+
+Nine hours on a steward's stool, and he had not slept, and he had not written a word, and his face showed neither. He simply looked. It lasted a second. It was two men who had spent their lives keeping two great instruments honest. One of the instruments had just put in writing, in its own type, that it could not do its work, and they were standing in the room where it had done so. Neither of them nodded. Then the man in grey looked down at his hands, and it was over. The clerk at the end of the table did not write it down. Umber was glad.
+
+The custom was that an entry was read aloud once before any copy was made, by the Chief Adjudicator, in daylight. He carried the sheet to the window. The nine stood up behind him.
+
+His hands were shaking. He looked at them with some interest. He had a sudden clear memory of his old master at his elbow on the morning of his first opening, forty years ago in this tower, pouring him something strong and telling him that his hands might shake, because the seals did not. They shook now. The words on the sheet lay perfectly still.
+
+He read them to the room.
+
+*Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.*
+
+---
+
+Lira knocked on his door before it was light. He had not been asleep.
+
+Brom was already on the stair with his coat on. Karis came out of her room dressed, with her notebook under her arm and her hair not done. Ephram came last, in his stockings, carrying his boots, and did not put them on until the street. Nobody had said the night before that they would go. They went.
+
+Cael walked the city carefully. Gault had strapped the left side from the shoulder to the hip in the healers' corridor, and the strapping was stiff, and under it the whole side felt as though it belonged to a larger man. The right forearm was salved and wrapped. On the guesting-house stair he had reached for the Wind out of plain habit, to take the last three steps, and it had not come; and then it had, late, from the wrong side of him, like a voice answering from the next room; and then it had gone again. So he walked. He thought about every step. He had not had to think about a step since he was small.
+
+There was a crowd at the frame by the north tunnel already. It opened for them, the way crowds had been opening for them for a week, and closed again behind.
+
+A young clerk came down the tunnel with a sheet in a frame of its own, and hung it on the nail beside the board where the steward had stood all those days with nothing to read, and stood back from it, and went away without looking at anybody.
+
+Cael read it.
+
+It did not take long. He read it again for that reason. He had stood in front of a great many boards in his life and read a great many figures off them about himself, and every one of them had been a number. This one had no number. It had a place where a number went, and the office had written in its own plain type that it could not put one there.
+
+He found that he did not feel anything about it yet. He thought that would come later, and that he would know when.
+
+Karis read it over his shoulder. She read everything twice and this she read three times.
+
+"*Under*," she said, at last. "Not *by*." She looked at the sheet with real respect. "Somebody sat up all night over that."
+
+By the middle of the morning the west tower's copying counter had begun to come apart.
+
+It did it gently, a little at a time, like a good coat in its last year of wear. Ephram went to watch, and came back to report, and went again. The little brass tokens the office gave out for places in the queue were all gone before the third bell. After that the clerks wrote numbers on whatever was to hand, and then on the wall, and then a boy was sent out for chalk and they wrote numbers on the floor of the passage in a long line going down the stair. By noon the office's own paper had gone. After that the copies of the nine charts went out on the backs of old seating plans out of a cupboard nobody had opened in years, so that half the city walked home with the panel's figures on one side and an empty gallery on the other. Two pens split. A copying clerk sat down on the stair in the middle of a shift and held his right hand in his left and would not say what was wrong with it.
+
+"Auremont's in the line," Ephram said, the third time he came back. His voice was nearly gone.
+
+"In what line?"
+
+"The copy line. Their delegation head, and the risk officer, and two coaches." He sat down heavily. "The steward went out to them and offered to take them straight through. Champion house. They always go through. The head thanked him and said they'd wait their turn, and they're standing behind a woman with a basket of eels and three boys from the hill house." He shook his head. "Half the city's walking past to look. Nobody's saying anything. They just go by and look."
+
+It was the thing Norhold remembered best about that morning. Years later Cael would meet people on the roads who had not seen a minute of the bout and could tell him exactly where Auremont had stood in that line.
+
+The guesses came up the stair with every visitor, all day, and he wrote every one of them down.
+
+The keeper had the first. He told it to them at breakfast, gravely, with the teapot: the boy had been Storm all along, registered and sealed, and the registry's blank on him was a cover so that he could be put up against her. The betting men believed that one, he said. Gault, coming in from the healers' corridor, had the second: a healer there had it from her cousin that there was a Path the registry never printed on the schedule, a Path that only mimicked others, and the state kept it hidden for its own uses. A man selling broadsides at the bridge had the third. It had all been arranged between the two houses, he said, the lane and the fall and the mercy, rehearsed in a warehouse. That one died by the afternoon, because everybody who had been in the bowl was saying the same thing at once, which was that it had not.
+
+There was a fourth that was only a feeling: that there had been cheating somehow, in some way nobody could describe. People held it because they could not bear the other thing. And a fifth, heard at the next table in the cookshop, that nothing remarkable had happened at all. Any fighter of good discipline might do a thing like that at that size, the man said, and the continent had simply never seen one try. He had not been in the building.
+
+And on the second morning there was the sixth. It came from the fishwife at the end of the quay, who had it from her sister, who sold to Auremont's kitchen. Daeva had done it. The lane had been hers, laid wrong in the fourth exchange, short and crosswise, a slip of her hand; and the boy had only stumbled into it by luck, and the crowd had made a wonder of him out of her mistake.
+
+That was the only one he copied into the book with any respect. It was the only guess on the continent that had started from a true thing. The lane had been hers. And from there it had set off in the one wrong direction there was, and gone farther along it than he would have believed anybody could.
+
+The city argued about it all that day. Then Auremont ended it. Its coaching staff sent four words to all four broadsides at once, unasked, and every one of them printed the words the next morning in the largest type they had.
+
+*our fighter does not mis-seed.*
+
+He wrote all six into Hesk's book that night, one under another, and drew a line beneath them, and wrote under the line.
+
+*Six guesses from a city that has argued about fighters for three hundred years. Every one of them reaches for a shape the world already owns: a secret register, a hidden Path, a cheat, a slip. Not one comes near. What happened doesn't have a shape in anybody's head yet, and you can't guess at a thing you can't picture. Nobody guesses digestion. I'd thought what kept it hidden was us, the four of us and this book. It isn't. It's that nobody can imagine it.*

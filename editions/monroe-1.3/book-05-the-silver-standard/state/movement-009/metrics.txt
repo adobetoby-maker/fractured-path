@@ -1,0 +1,19 @@
+chapters                     7
+words_total                  33217
+words_prose                  33189
+words_in_system_notices      28
+sentences                    2440
+sentence_mean                13.6   (target 14.6)
+sentence_median              10.0   (target 11)
+sentence_sd_pop              10.49
+share_le5_words              0.238
+share_ge40_words             0.026
+paragraphs                   721
+paragraph_mean               46.03
+paragraph_median             33
+scene_breaks_marked          31
+scene_breaks_per_10k         9.33
+words_per_scene              874.1   (target 950)
+flesch_reading_ease          89.8   (target 72.3)
+flesch_kincaid_grade         4.11   (target 6.8)
+method                       editions/monroe-1.3/tools/formula_metrics.py (see module docstring)
