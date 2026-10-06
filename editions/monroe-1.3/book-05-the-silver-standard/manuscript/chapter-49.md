@@ -92,7 +92,7 @@ She did not try to work out from the file what he was. She caught herself not tr
 
 Her window did not open.
 
-It never did, anywhere. Every room she had slept in since she was sixteen had a single pane of thick glass set in lead, with a small brass plate on the sill to say what it was rated for, and the rating was always her own assessed ceiling and a margin. The program's facilities office ordered them. She had stopped trying latches years ago.
+It never did, anywhere. Every room she had slept in since she was sixteen had a single pane of thick leaded glass, with a small brass plate on the sill to say what it was rated for, and the rating was always her own assessed ceiling and a margin. The program's facilities office ordered them. She had stopped trying latches years ago.
 
 Beyond the glass Norhold was changing its shift. The eating-houses on the basin were putting their shutters up and the bakers' boys were coming down from the upper town with trays on their heads. The lock-gates turned on their slow wheels. A lamp went up a mast and down again. In the quarter somebody was singing the procession tune and losing the middle of it and going back to the start.
 
