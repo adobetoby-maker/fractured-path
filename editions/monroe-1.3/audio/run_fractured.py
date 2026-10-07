@@ -9,7 +9,10 @@ usage: run_fractured.py BOOK [BOOK ...]
 import datetime, subprocess, sys, time
 from pathlib import Path
 
-RUN = Path("/Users/drive/.local/share/monroe-tts/fractured-run")
+# The accepted Monroe 1.3 Director's Cut preparations live here.  The older
+# ``fractured-run`` tree contains pre-refresh chapter text and must never be
+# rendered or published as the word-locked Director's Cut.
+RUN = Path("/Users/drive/.local/share/monroe-tts/fractured-directors-run")
 PY = Path("/Users/drive/.local/share/monroe-tts/breeze/venv/bin/python")
 RENDER = Path("/Users/drive/.local/share/monroe-tts/meridian-run/breeze_render_track.py")
 PUB = Path(__file__).resolve().parent / "fp_publish.py"
