@@ -1,5 +1,5 @@
-# The Shattered — Eleven v4 Director's Cut
+# The Shattered — Local Breeze Director's Cut
 
-Word-locked long-form upload package for Eleven v4. Direction is expressed with inline square-bracket audio tags; there is no SSML. The canonical prose is unchanged, and each chapter's source and directed hashes are recorded in `manifest.json`.
+This is the word-locked, marked local Breeze package. Standalone square-bracket lines are performance directions. The Breeze runner must attach each direction to the following segment's `instruct` field and must never send the direction words as spoken text. There is no SSML.
 
-Upload the full EPUB to ElevenLabs Audio Editor / Studio. Confirm the model, voice, and displayed credit estimate before generating. Do not treat generated audio as production-finished until it passes objective QA and the owner's full listen.
+Do not upload this package to ElevenLabs Studio or any literal long-form reader. Use the separate Clean Long-Form Narration package for those tools. Canonical source and directed-output hashes are recorded in `manifest.json`.

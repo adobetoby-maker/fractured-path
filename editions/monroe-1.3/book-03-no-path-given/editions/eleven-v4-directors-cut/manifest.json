@@ -1,31 +1,33 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "book_id": "book-03-no-path-given",
   "title": "No Path Given",
   "author": "Monroe Jackson",
-  "edition": "Eleven v4 Director's Cut",
-  "target_model": "eleven_v4",
-  "format": "full-book long-form upload",
-  "canonical_commit": "64c37d45b2a0c961338051b9d59a83a0c78e90e4",
-  "generated_at": "2026-10-05T05:18:43+00:00",
+  "edition": "Local Breeze Director's Cut",
+  "intended_use": "Local Breeze TTS 2 evaluation with direction lines parsed into the subsequent segment's instruct field",
+  "literal_long_form_upload": false,
+  "direction_words_spoken": false,
+  "artifact_compatibility_name": "Eleven-v4-Directors-Cut",
+  "canonical_commit": "e02d1ff48fe85292b1637941b30509ed89d4e540",
+  "generated_at": "2026-10-07T13:08:22+00:00",
   "chapter_count": 61,
-  "spoken_word_count": 287219,
-  "spoken_character_count": 1513266,
-  "upload_character_count": 1542236,
+  "spoken_word_count": 287218,
+  "spoken_character_count": 1513260,
+  "input_character_count": 1542230,
+  "upload_character_count": 1542230,
   "direction_tag_count": 317,
   "word_lock": "verified for all chapters",
   "ssml": false,
-  "credit_budget_note": "Use the account's generation estimate as authoritative before spending credits; upload character count is recorded for planning only.",
   "outputs": {
     "epub": {
       "file": "No-Path-Given-Eleven-v4-Directors-Cut.epub",
-      "sha256": "1d318cd1a304a5ab7d821762526580044410b94edab0ae407ebf136b9dcb08cb",
-      "bytes": 1301270
+      "sha256": "6a2e94165a71d72ba1e43e3569384b8ff279f6dff16253d6f824ed10b9d7fbc6",
+      "bytes": 631606
     },
     "plain_text": {
       "file": "No-Path-Given-Eleven-v4-Directors-Cut.txt",
-      "sha256": "cc3e914bcf0894d450ac6e3547a06d1a968cceec7bf5700a73fe65e07cc9adff",
-      "bytes": 1542813
+      "sha256": "27dc5143753ef0a359b789870f421881330ab5f00aabbfd4281619574164e3d5",
+      "bytes": 1542899
     }
   },
   "chapters": [
@@ -38,7 +40,7 @@
       "directed_sha256": "65fe405cd737451e214a8ebf98fb5bcd34bf85d85fc2055d928c6576ff45a9da",
       "spoken_word_count": 3956,
       "spoken_character_count": 21614,
-      "upload_character_count": 21989,
+      "input_character_count": 21989,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -52,7 +54,7 @@
       "directed_sha256": "9c1b5c2021d7ca0ce9146c204948486a5865de0b71eb14dcc9c1537ab8a2b784",
       "spoken_word_count": 4470,
       "spoken_character_count": 24014,
-      "upload_character_count": 24481,
+      "input_character_count": 24481,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -66,7 +68,7 @@
       "directed_sha256": "0d120460ccecd5927342468a04e9ddf5ca88e2bb181b8a0285173eb570030ce4",
       "spoken_word_count": 4388,
       "spoken_character_count": 23637,
-      "upload_character_count": 24035,
+      "input_character_count": 24035,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -80,7 +82,7 @@
       "directed_sha256": "5c9b0eb458ec56d43d505ee648be26ddcb858a87aa17342148cb151a2b314818",
       "spoken_word_count": 3692,
       "spoken_character_count": 19771,
-      "upload_character_count": 20156,
+      "input_character_count": 20156,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -94,7 +96,7 @@
       "directed_sha256": "7765c3ec5604d119b0eaec17722a6636e09559495718fec70d12e5468f4a2ecd",
       "spoken_word_count": 4866,
       "spoken_character_count": 26144,
-      "upload_character_count": 26528,
+      "input_character_count": 26528,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -108,7 +110,7 @@
       "directed_sha256": "16d15fbee4ce7e0eb1097031aafb1ee14fc651d17f8665a20b31220c1137a689",
       "spoken_word_count": 4807,
       "spoken_character_count": 26032,
-      "upload_character_count": 26474,
+      "input_character_count": 26474,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -122,7 +124,7 @@
       "directed_sha256": "e4d4c923f17a4cd07ef051823c8b5d8bad402bcf9b38fc52dc1f7bf204ecf5ca",
       "spoken_word_count": 4261,
       "spoken_character_count": 22628,
-      "upload_character_count": 23109,
+      "input_character_count": 23109,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -136,7 +138,7 @@
       "directed_sha256": "4f91c2b72bd04dfc53b57fb6985a9767d086a001d80b22934cf187d330edee04",
       "spoken_word_count": 5906,
       "spoken_character_count": 31259,
-      "upload_character_count": 31885,
+      "input_character_count": 31885,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -150,7 +152,7 @@
       "directed_sha256": "50e146c82c518bc8c6a5d1276b52dc8cb7289f7a2deb76ac62aae628cea44350",
       "spoken_word_count": 4286,
       "spoken_character_count": 23224,
-      "upload_character_count": 23782,
+      "input_character_count": 23782,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -164,7 +166,7 @@
       "directed_sha256": "ac1e85089020f7b679708e6a62cce01e5964c398d9770f1586b41e7670ceb31a",
       "spoken_word_count": 4100,
       "spoken_character_count": 21292,
-      "upload_character_count": 21742,
+      "input_character_count": 21742,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -178,7 +180,7 @@
       "directed_sha256": "c43738b30e693f334b4d86baa280b034273cfcc419995d6aca75d3b292dba5fd",
       "spoken_word_count": 4466,
       "spoken_character_count": 23530,
-      "upload_character_count": 23997,
+      "input_character_count": 23997,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -192,7 +194,7 @@
       "directed_sha256": "0aecdcc8928a3ec82d0b3484974255eebf5733accf7437a830dd2ff091d86e7a",
       "spoken_word_count": 3908,
       "spoken_character_count": 20682,
-      "upload_character_count": 21072,
+      "input_character_count": 21072,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -206,7 +208,7 @@
       "directed_sha256": "b9bc171dcca0adb6303997adb6b1e58596ac5d49a5a2d490bd249ee8921ea2ed",
       "spoken_word_count": 5394,
       "spoken_character_count": 28998,
-      "upload_character_count": 29490,
+      "input_character_count": 29490,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -220,7 +222,7 @@
       "directed_sha256": "2071baa18c638be7f749204daa58a0a70b3815f36a5fc32ae05bb4085a3d13a3",
       "spoken_word_count": 4881,
       "spoken_character_count": 26185,
-      "upload_character_count": 26669,
+      "input_character_count": 26669,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -234,7 +236,7 @@
       "directed_sha256": "d0d0358c0598479342d1745f8de946787102554c6835307f989d13652671d2da",
       "spoken_word_count": 4864,
       "spoken_character_count": 25557,
-      "upload_character_count": 26107,
+      "input_character_count": 26107,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -248,7 +250,7 @@
       "directed_sha256": "22cfd72f0dafe1df81e1c3763b8766d21bd0312c3a74dd913c6292a3a4a6e267",
       "spoken_word_count": 4126,
       "spoken_character_count": 22297,
-      "upload_character_count": 22734,
+      "input_character_count": 22734,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -262,7 +264,7 @@
       "directed_sha256": "bd1eb0a07f1fda28f1c47048d35fe672751c467d083ee72e5da793767a496efc",
       "spoken_word_count": 4778,
       "spoken_character_count": 25355,
-      "upload_character_count": 25828,
+      "input_character_count": 25828,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -276,7 +278,7 @@
       "directed_sha256": "cc7aff7f4272f4317d1deeb3b34686be1919f6eab412aa6c211ae92aeeb74c14",
       "spoken_word_count": 5056,
       "spoken_character_count": 26750,
-      "upload_character_count": 27206,
+      "input_character_count": 27206,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -290,7 +292,7 @@
       "directed_sha256": "4a617f3eecd2cfb9294066894ac12729b942f531786b7517327ba4f82c740c15",
       "spoken_word_count": 5570,
       "spoken_character_count": 29132,
-      "upload_character_count": 29535,
+      "input_character_count": 29535,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -304,7 +306,7 @@
       "directed_sha256": "880f79ea5b164ed27ad88274de60f1e674a65e57848b8b87d90cf23d55060c34",
       "spoken_word_count": 4694,
       "spoken_character_count": 24999,
-      "upload_character_count": 25464,
+      "input_character_count": 25464,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -318,7 +320,7 @@
       "directed_sha256": "e5a6416c3ba6039a84894df084c3d3e55fbfb1049968c5dc500b9103a8b168a8",
       "spoken_word_count": 4747,
       "spoken_character_count": 24727,
-      "upload_character_count": 25182,
+      "input_character_count": 25182,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -327,12 +329,12 @@
       "number": 22,
       "title": "Chapter 22 \u2014 Weather",
       "source": "editions/monroe-1.3/book-03-no-path-given/manuscript/chapter-22.md",
-      "source_sha256": "4536b1e5c82bcaffe0f0a46e2e2ba8993b9d9051cc6efb9b7dba17bff3fcd0c0",
+      "source_sha256": "74e75c0d8d23b59a4357280bac348582e6f140503b7482ac22eba284005bb348",
       "directed_file": "editions/monroe-1.3/book-03-no-path-given/editions/eleven-v4-directors-cut/chapters/chapter-22.txt",
-      "directed_sha256": "bd56be2073d18fb6d8f66a6741dc2b3e61fa988f88fc338896e5a9b7337a0ad7",
-      "spoken_word_count": 4381,
-      "spoken_character_count": 22936,
-      "upload_character_count": 23377,
+      "directed_sha256": "126381a802dafc568a257d37c752693c2ab3e60ed8f7d691b0fb5354f0ac4715",
+      "spoken_word_count": 4380,
+      "spoken_character_count": 22928,
+      "input_character_count": 23369,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -346,7 +348,7 @@
       "directed_sha256": "fe2a7c61c70e799f6d7242470a0bc36016c751cb78470e1cb43fa312251310c5",
       "spoken_word_count": 4251,
       "spoken_character_count": 22003,
-      "upload_character_count": 22446,
+      "input_character_count": 22446,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -360,7 +362,7 @@
       "directed_sha256": "d0e91fe5293496b417affcd7e50a7266d7d9c7ad90b990ed61e734317b33c8b6",
       "spoken_word_count": 4705,
       "spoken_character_count": 24573,
-      "upload_character_count": 25141,
+      "input_character_count": 25141,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -369,12 +371,12 @@
       "number": 25,
       "title": "Chapter 25 \u2014 The Other Direction",
       "source": "editions/monroe-1.3/book-03-no-path-given/manuscript/chapter-25.md",
-      "source_sha256": "64ba7f012ebbe8c22077b3038ebbbd5a9fc8b8cb65f58f96ae0ec9a2fe6c42da",
+      "source_sha256": "b439afc44d436868e1f0f71f2199115d3bb471431569c390ac3a383e503418cc",
       "directed_file": "editions/monroe-1.3/book-03-no-path-given/editions/eleven-v4-directors-cut/chapters/chapter-25.txt",
-      "directed_sha256": "3f9cc90e16ab9153011483edda88737ece8437c03211e53426b3a868ccc17896",
+      "directed_sha256": "8035fb26b1baa80f499b55b39366b4bbbb8a209a97b00a2a8778fdda65f6fd31",
       "spoken_word_count": 4316,
-      "spoken_character_count": 22615,
-      "upload_character_count": 22991,
+      "spoken_character_count": 22616,
+      "input_character_count": 22992,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -388,7 +390,7 @@
       "directed_sha256": "eee1ee882f41bdea92c2e9207dd91e6f3953088b861bf2b3de4bb568dbc1d5e6",
       "spoken_word_count": 5392,
       "spoken_character_count": 28121,
-      "upload_character_count": 28568,
+      "input_character_count": 28568,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -402,7 +404,7 @@
       "directed_sha256": "b5df160c6b008de18f467b44aedd1cce5493cb490f312ce272839b91eda209b1",
       "spoken_word_count": 4557,
       "spoken_character_count": 24337,
-      "upload_character_count": 24797,
+      "input_character_count": 24797,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -416,7 +418,7 @@
       "directed_sha256": "967a3020282133e47c2b06162085d8441bc1753c8f76241546f1b4f5a73713d8",
       "spoken_word_count": 4066,
       "spoken_character_count": 21478,
-      "upload_character_count": 21954,
+      "input_character_count": 21954,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -425,12 +427,12 @@
       "number": 29,
       "title": "Chapter 29 \u2014 What Gets Used",
       "source": "editions/monroe-1.3/book-03-no-path-given/manuscript/chapter-29.md",
-      "source_sha256": "158a97989a6910ad7a4f4e94c29513a9ba38c4ae1e55bfba9ff819a453cd2f52",
+      "source_sha256": "63eb00e35bc6788581b2eae84017307b88b1d709f43f050daf0074176e2a61bf",
       "directed_file": "editions/monroe-1.3/book-03-no-path-given/editions/eleven-v4-directors-cut/chapters/chapter-29.txt",
-      "directed_sha256": "4298d8dd8dbea27144334cb4c4eaeed68db5dadaf08b38dbec87c0a7a0120d4f",
+      "directed_sha256": "70c7987d2efedc9a3cb28336e123a641ea6af8e0d906454f2e3360bbb40ce39e",
       "spoken_word_count": 4269,
-      "spoken_character_count": 22311,
-      "upload_character_count": 22827,
+      "spoken_character_count": 22312,
+      "input_character_count": 22828,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -444,7 +446,7 @@
       "directed_sha256": "58a6b56af8ae2207b88347de529779e7af44fe64882225d63f572fb4fda6425f",
       "spoken_word_count": 4325,
       "spoken_character_count": 22424,
-      "upload_character_count": 22905,
+      "input_character_count": 22905,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -458,7 +460,7 @@
       "directed_sha256": "884ee2d23bca2e7f11f05612eee0781e54abb54fa1d244348e223795743997ee",
       "spoken_word_count": 3898,
       "spoken_character_count": 20777,
-      "upload_character_count": 21144,
+      "input_character_count": 21144,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -472,7 +474,7 @@
       "directed_sha256": "feb890f26426bd41e4ae02c0514bfedc131fe72053e01c3fd56c96ee4df3b2f3",
       "spoken_word_count": 4578,
       "spoken_character_count": 24380,
-      "upload_character_count": 24856,
+      "input_character_count": 24856,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -486,7 +488,7 @@
       "directed_sha256": "e616d275c301d4e575bfd126a5134f5bc651da3b80f5c7d7f226b6d20f040f0a",
       "spoken_word_count": 4726,
       "spoken_character_count": 24887,
-      "upload_character_count": 25290,
+      "input_character_count": 25290,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -500,7 +502,7 @@
       "directed_sha256": "dc4e9be0614ec7b43beeb925edbbb08bfebdfff9a1c964cdf7d3c3e357f192c0",
       "spoken_word_count": 4457,
       "spoken_character_count": 23162,
-      "upload_character_count": 23654,
+      "input_character_count": 23654,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -509,12 +511,12 @@
       "number": 35,
       "title": "Chapter 35 \u2014 Fight Me",
       "source": "editions/monroe-1.3/book-03-no-path-given/manuscript/chapter-35.md",
-      "source_sha256": "cd61478c6faafdaed8291d8765888d64ee0392419d32ed207d4d142a4375504e",
+      "source_sha256": "f062c7cf121d4726792987afd4d519735156501c36211525b912ae24dd0f2e8f",
       "directed_file": "editions/monroe-1.3/book-03-no-path-given/editions/eleven-v4-directors-cut/chapters/chapter-35.txt",
-      "directed_sha256": "0d96c089ecb8e32b4923405a320e828974ab251f796e41d44cee29edbde8bdf8",
+      "directed_sha256": "692b59979683be2bdcb6afb97123f21d38201438b80fc3ac723f4196363c7d08",
       "spoken_word_count": 3939,
       "spoken_character_count": 20993,
-      "upload_character_count": 21338,
+      "input_character_count": 21338,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -528,7 +530,7 @@
       "directed_sha256": "3586215a80b7646aa8fc5543e4bc912e72a295f8776c5558dca8004961a1207e",
       "spoken_word_count": 7517,
       "spoken_character_count": 39031,
-      "upload_character_count": 39311,
+      "input_character_count": 39311,
       "scene_count": 3,
       "direction_tag_count": 3,
       "word_lock": "verified"
@@ -542,7 +544,7 @@
       "directed_sha256": "6987a43f84cff9fb91d74ba5169197bcceea326a4d96be370566372dc554d7e2",
       "spoken_word_count": 5168,
       "spoken_character_count": 26819,
-      "upload_character_count": 27302,
+      "input_character_count": 27302,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -556,7 +558,7 @@
       "directed_sha256": "10b4c7020b5b15ae91a048873f8cd579370bdb4ff56f430c5724aa7b9f1d5c2d",
       "spoken_word_count": 4954,
       "spoken_character_count": 25521,
-      "upload_character_count": 25964,
+      "input_character_count": 25964,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -570,7 +572,7 @@
       "directed_sha256": "9b004e91e2878aa27ffaa30e53d3a71be98a79397c1e65e99cf4047c7d16379f",
       "spoken_word_count": 4186,
       "spoken_character_count": 22088,
-      "upload_character_count": 22541,
+      "input_character_count": 22541,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -584,7 +586,7 @@
       "directed_sha256": "ced867df4611687fb6c0194ef18ac42f82b385a1959b90307e0b5dff0f2f7da9",
       "spoken_word_count": 4728,
       "spoken_character_count": 24486,
-      "upload_character_count": 24896,
+      "input_character_count": 24896,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -598,7 +600,7 @@
       "directed_sha256": "9bf1903344bbd9186e8b71d1e81b0a4c02c6fc08f53dd68cfe478058ac540c7d",
       "spoken_word_count": 5909,
       "spoken_character_count": 30759,
-      "upload_character_count": 31419,
+      "input_character_count": 31419,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -612,7 +614,7 @@
       "directed_sha256": "7fcde5073ce3d759e99852152652ada39db9f0b9172bc6033effee32445c0285",
       "spoken_word_count": 4457,
       "spoken_character_count": 23418,
-      "upload_character_count": 23904,
+      "input_character_count": 23904,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -626,7 +628,7 @@
       "directed_sha256": "c53a5a17f3e882ab99e66507aac813e5fc0ce818c7fc0f375b393b2fee24c4ab",
       "spoken_word_count": 4183,
       "spoken_character_count": 22142,
-      "upload_character_count": 22628,
+      "input_character_count": 22628,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -640,7 +642,7 @@
       "directed_sha256": "c2660d601f2a1cfa5f6b2ab0432f686e7ebbf2d0eaea403ef84cbb908e0880ae",
       "spoken_word_count": 4807,
       "spoken_character_count": 25231,
-      "upload_character_count": 25656,
+      "input_character_count": 25656,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -654,7 +656,7 @@
       "directed_sha256": "e5c2b1b34d9f8bc14f2f531e7918dda294ab005b05a3feae0b4429da0d3bb193",
       "spoken_word_count": 5401,
       "spoken_character_count": 28675,
-      "upload_character_count": 29224,
+      "input_character_count": 29224,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -668,7 +670,7 @@
       "directed_sha256": "10fcc9a89366152baa3140831f0f811b7cc3a93c47f2bed9c35072f81d2e10ed",
       "spoken_word_count": 5974,
       "spoken_character_count": 31559,
-      "upload_character_count": 32207,
+      "input_character_count": 32207,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -682,7 +684,7 @@
       "directed_sha256": "5486ee599d45403481d98df7f6ab8ecee1db822682b99cb5b48f445d6948858b",
       "spoken_word_count": 4123,
       "spoken_character_count": 21963,
-      "upload_character_count": 22537,
+      "input_character_count": 22537,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -696,7 +698,7 @@
       "directed_sha256": "ab9480e8beec59b95064953273933556a50c1a344a4faa2848310fe84459afe9",
       "spoken_word_count": 5088,
       "spoken_character_count": 27238,
-      "upload_character_count": 27800,
+      "input_character_count": 27800,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -710,7 +712,7 @@
       "directed_sha256": "7e6f252b294aee433e420d430aaf2ac2e8eb6792a8c5a24a22b8d4b80b0057b1",
       "spoken_word_count": 4887,
       "spoken_character_count": 25660,
-      "upload_character_count": 26247,
+      "input_character_count": 26247,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -724,7 +726,7 @@
       "directed_sha256": "fb1dc22deb4ae56f81eb0c183e4c0561b67491698da881b77874c5756d36b8f4",
       "spoken_word_count": 4688,
       "spoken_character_count": 24419,
-      "upload_character_count": 24885,
+      "input_character_count": 24885,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -738,7 +740,7 @@
       "directed_sha256": "4a10dd76a6865202da9456e17d087ccdae194778f750032ca01d4913b78e0550",
       "spoken_word_count": 5268,
       "spoken_character_count": 27691,
-      "upload_character_count": 28318,
+      "input_character_count": 28318,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -752,7 +754,7 @@
       "directed_sha256": "eaf5578812783122ed747cef76f6c1312753598f4cedf0245090426320eaed73",
       "spoken_word_count": 6493,
       "spoken_character_count": 34171,
-      "upload_character_count": 34806,
+      "input_character_count": 34806,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -766,7 +768,7 @@
       "directed_sha256": "ec4ed103963b0ebea7bb3324352a3c81e0416dbb47b0679cd69d7cdd79ce7f4d",
       "spoken_word_count": 4645,
       "spoken_character_count": 23938,
-      "upload_character_count": 24390,
+      "input_character_count": 24390,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -780,7 +782,7 @@
       "directed_sha256": "5738b4aedfb703c0b4f27bdae2db106e088552b204a05689c718d1c7d17de990",
       "spoken_word_count": 4185,
       "spoken_character_count": 21756,
-      "upload_character_count": 22198,
+      "input_character_count": 22198,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -794,7 +796,7 @@
       "directed_sha256": "d5c8c55a8f836c37b59d738d2ad1ba267e9bc7cab524a6138043caf757a5b87b",
       "spoken_word_count": 4249,
       "spoken_character_count": 22354,
-      "upload_character_count": 22837,
+      "input_character_count": 22837,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -808,7 +810,7 @@
       "directed_sha256": "aaff378779924d30e50c5730154d96d7cacaaf12b8149eff5cf9c0fb104d121e",
       "spoken_word_count": 4091,
       "spoken_character_count": 21140,
-      "upload_character_count": 21613,
+      "input_character_count": 21613,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -822,7 +824,7 @@
       "directed_sha256": "bb9f3a57b315607bceff99c9ebd9c04bb2b44a19d90133d19e00ed7ac58b2f7b",
       "spoken_word_count": 4916,
       "spoken_character_count": 25541,
-      "upload_character_count": 26034,
+      "input_character_count": 26034,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -836,7 +838,7 @@
       "directed_sha256": "058545251c02ebb0fbc62c4ca53dfab4390f8ba8e013146771b8967690d8b23e",
       "spoken_word_count": 3766,
       "spoken_character_count": 19670,
-      "upload_character_count": 20050,
+      "input_character_count": 20050,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -850,7 +852,7 @@
       "directed_sha256": "5292914dac8f49ce4a90a8df5f4f51be0b8949303b96f1883727f36c78c884bf",
       "spoken_word_count": 4896,
       "spoken_character_count": 25245,
-      "upload_character_count": 25768,
+      "input_character_count": 25768,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -864,7 +866,7 @@
       "directed_sha256": "e33c6dcbe8f5659197d42cea42c5f33660b6e87c96b4f8953c9cc26cd8dedf1c",
       "spoken_word_count": 5165,
       "spoken_character_count": 27070,
-      "upload_character_count": 27648,
+      "input_character_count": 27648,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -878,7 +880,7 @@
       "directed_sha256": "eea2c2e21d19afb645a405e53f8b62db71f8c01aaf9a4fe210ddd085d476bf16",
       "spoken_word_count": 4399,
       "spoken_character_count": 22857,
-      "upload_character_count": 23300,
+      "input_character_count": 23300,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"

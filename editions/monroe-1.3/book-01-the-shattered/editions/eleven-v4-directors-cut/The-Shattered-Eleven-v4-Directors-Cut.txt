@@ -1,8 +1,8 @@
-The Shattered — Eleven v4 Director's Cut
+The Shattered — Local Breeze Director's Cut
 Monroe Jackson
 
-Prepared for ElevenLabs Audio Editor / Studio long-form upload.
-Target model: Eleven v4. Inline audio tags; no SSML.
+Prepared for local Breeze TTS 2 direction parsing; never upload this marked file to a literal long-form reader.
+Standalone square-bracket lines are performance instructions and must not be spoken. No SSML.
 
 Chapter 1 — Page Seven
 

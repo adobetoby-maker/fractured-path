@@ -1,8 +1,8 @@
-No Path Given — Eleven v4 Director's Cut
+No Path Given — Local Breeze Director's Cut
 Monroe Jackson
 
-Prepared for ElevenLabs Audio Editor / Studio long-form upload.
-Target model: Eleven v4. Inline audio tags; no SSML.
+Prepared for local Breeze TTS 2 direction parsing; never upload this marked file to a literal long-form reader.
+Standalone square-bracket lines are performance instructions and must not be spoken. No SSML.
 
 Chapter 1 — The Last Climb
 
@@ -5796,7 +5796,7 @@ Pressure-adjacent was second, and Feryn's. He had studied Feryn for six days bef
 
 Iron-adjacent was third, and Brom's, and it had come after weeks of sessions in which learning how Brom's body read force had been, in plain fact, the thing they were there to do. Watching Brom had been the assignment.
 
-Compression-adjacent was fourth, and Reydan's. The hardest fight of his life had produced that notice, in the third exchange, with defeat close enough to touch: an opponent he had studied more closely than any before, and every last scrap of his attention thrown at something he could not name.
+Compression-adjacent was fourth, and Reydan's. The hardest fight of his life had produced it, in the fourth exchange, with defeat close enough to touch: an opponent he had studied more closely than any before, and every last scrap of his attention thrown at something he could not name.
 
 Under every one of the four, in the column headed Integration, he had written the same word, partial, and under every one the Cost column had grown longer over the months than the Benefit. Wind was nearly whole by now and had cost him only fatigue. Iron was short-ranged and thin against speed. Pressure had three clean uses mapped and a shoulder to pay for each. Compression was a quarter on a good night and a half once, at double the price. Four fragments, four tolls, and four names.
 
@@ -6698,7 +6698,7 @@ He did not know what reaching was. He discovered that in the first minute, stand
 
 So he tried what he had.
 
-He tried attention first, all of it, the whole of his looking laid on her as he had once laid it on Reydan in the third exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
+He tried attention first, all of it, the whole of his looking laid on her as he had once laid it on Reydan in the fourth exchange. Every scrap of him pointed at the place where her off hand went still a quarter of a breath before each bloom. Nothing came of it but the timing, which he already had.
 
 He tried something like invitation. He found the place in himself where the four sat, if they sat anywhere, and held open the space beside them, absurdly, like a hand held out across a room to someone who has not seen it. He felt foolish doing it and kept doing it until she had laid six points and let them go.
 
@@ -7452,7 +7452,7 @@ Pressure-adjacent was Feryn's. He had watched Feryn, a Bronze-tier fighter, for 
 
 Iron-adjacent was Brom's. Weeks of sessions in Brom's sparring circle, and for most of them the read had not come at all. It had come after he asked Brom to stop being careful with him. He had wanted to learn faster, and Brom had obliged, and for a fortnight every wrong read had meant a hit that rang in his bones until the next morning. He had been reading a body that was trying, honestly and on purpose, to hurt him.
 
-Compression-adjacent was Reydan's, and he did not need to make himself remember that one, because he remembered it every time he breathed deep. Six hundred people. An Iron Rank Eight across the chalk. Everything he had built in Ardenmere riding on the third exchange, and the third exchange going wrong, and the notice arriving so late that a moment more would have made it useless to him.
+Compression-adjacent was Reydan's, and he did not need to make himself remember that one, because he remembered it every time he breathed deep. Six hundred people. An Iron Rank Eight across the chalk. Everything he had built in Ardenmere riding on the fourth exchange, and the fourth exchange going wrong, and the thing arriving so late that a moment more would have made it useless to him.
 
 He laid the four of them side by side on the page, and then he laid Karis beside them: fourteen sessions in a whitewashed room, nine paces and five and one, a quarter-hour and three hours, every one at demonstration intensity, with consent given aloud, and a rule at the bottom of the page that ended everything the moment anything happened she had not chosen. Nothing in that room had ever been used against him. Nothing in it had been trying. Nothing in it had cost anything if he failed except a line in a ledger that said null, which Karis was glad to write.
 
@@ -9200,7 +9200,7 @@ Six weeks sat behind him, as complete as they were ever going to be: the charts 
 
 Tomorrow everything that sentence needed would be in one yard, at one time, for the first time in his life with his eyes open. And two people who loved him, and one who had come across a whole country to stand in front of him, had told him in their different words to forget it was there.
 
-He did not know if he could, or if anybody could carry a sentence like that into a ring and set it down at the chalk. He thought about Reydan, in the third exchange of the bout that had ended everything in Ardenmere, when he had not been thinking about anything at all. He had been losing, and fighting, and losing, and the notice had come at the very last moment it could have come and still been any use to him, and he had not been watching himself once.
+He did not know if he could, or if anybody could carry a sentence like that into a ring and set it down at the chalk. He thought about Reydan, in the fourth exchange of the bout that had ended everything in Ardenmere, when he had not been thinking about anything at all. He had been losing, and fighting, and losing, and the thing had come at the very last moment it could have come and still been any use to him, and he had not been watching himself once.
 
 Perhaps that was all it was. Perhaps that was all it had ever been.
 

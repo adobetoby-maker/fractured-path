@@ -1,31 +1,33 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "book_id": "book-01-the-shattered",
   "title": "The Shattered",
   "author": "Monroe Jackson",
-  "edition": "Eleven v4 Director's Cut",
-  "target_model": "eleven_v4",
-  "format": "full-book long-form upload",
-  "canonical_commit": "64c37d45b2a0c961338051b9d59a83a0c78e90e4",
-  "generated_at": "2026-10-05T05:18:43+00:00",
+  "edition": "Local Breeze Director's Cut",
+  "intended_use": "Local Breeze TTS 2 evaluation with direction lines parsed into the subsequent segment's instruct field",
+  "literal_long_form_upload": false,
+  "direction_words_spoken": false,
+  "artifact_compatibility_name": "Eleven-v4-Directors-Cut",
+  "canonical_commit": "e02d1ff48fe85292b1637941b30509ed89d4e540",
+  "generated_at": "2026-10-07T13:08:22+00:00",
   "chapter_count": 60,
   "spoken_word_count": 305987,
   "spoken_character_count": 1570805,
+  "input_character_count": 1598852,
   "upload_character_count": 1598852,
   "direction_tag_count": 328,
   "word_lock": "verified for all chapters",
   "ssml": false,
-  "credit_budget_note": "Use the account's generation estimate as authoritative before spending credits; upload character count is recorded for planning only.",
   "outputs": {
     "epub": {
       "file": "The-Shattered-Eleven-v4-Directors-Cut.epub",
-      "sha256": "f4b6173246409bcb1020e16650461e62d2449d9f1a67d320a6c400ed118cb5ea",
-      "bytes": 1301864
+      "sha256": "236d553216fdd144c4a69ad8af25829edbe02412d48a4fd0b98a679a9a60e6e8",
+      "bytes": 641450
     },
     "plain_text": {
       "file": "The-Shattered-Eleven-v4-Directors-Cut.txt",
-      "sha256": "12340c4cc58e7dd324c345f2be935c75f07569a7683f4c7448e95dc9a81b1708",
-      "bytes": 1599428
+      "sha256": "f9389336823f587ac5f385fd6dd3f41e90a409d7e4af42f03d03d12ea2b35d79",
+      "bytes": 1599520
     }
   },
   "chapters": [
@@ -38,7 +40,7 @@
       "directed_sha256": "904b12502937c2ee6bb8f189cdb4b9fe151ae69f2e84269f2c09eda4544b96ef",
       "spoken_word_count": 5183,
       "spoken_character_count": 28275,
-      "upload_character_count": 28726,
+      "input_character_count": 28726,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -52,7 +54,7 @@
       "directed_sha256": "a8357c25324655047a3fdd73e1194806b5e24c6c5ef563ca8d55326ede85c640",
       "spoken_word_count": 4686,
       "spoken_character_count": 24994,
-      "upload_character_count": 25459,
+      "input_character_count": 25459,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -66,7 +68,7 @@
       "directed_sha256": "77b8357b9c4bc84d642fb0176f2ed873d8eae9d2870caedf6925de3abd239ab5",
       "spoken_word_count": 5172,
       "spoken_character_count": 27750,
-      "upload_character_count": 28233,
+      "input_character_count": 28233,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -80,7 +82,7 @@
       "directed_sha256": "62f68f2036d12cb6ea3e5502e888fcd1fb69e733b67e7197b6a9b6281210e32c",
       "spoken_word_count": 4573,
       "spoken_character_count": 24771,
-      "upload_character_count": 25236,
+      "input_character_count": 25236,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -94,7 +96,7 @@
       "directed_sha256": "582b6bc55818d7eb219d3ae233094220cd0039e229c3c0b8d008580a245a5c5a",
       "spoken_word_count": 4349,
       "spoken_character_count": 22797,
-      "upload_character_count": 23243,
+      "input_character_count": 23243,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -108,7 +110,7 @@
       "directed_sha256": "dac7b861e7928ff9ec994726fc3eb8fd5c031d1698726edc877f773bcfc1c1a7",
       "spoken_word_count": 5561,
       "spoken_character_count": 28279,
-      "upload_character_count": 28858,
+      "input_character_count": 28858,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -122,7 +124,7 @@
       "directed_sha256": "82d3427ddeb0faf119341dd108ae9291e83db8afdf4f146969dfeb7ff9c04956",
       "spoken_word_count": 4334,
       "spoken_character_count": 22501,
-      "upload_character_count": 22905,
+      "input_character_count": 22905,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -136,7 +138,7 @@
       "directed_sha256": "6885d6d804e22f6cfc7aa6ffda2454be025b0f377ec35720a67a40fe50964254",
       "spoken_word_count": 5636,
       "spoken_character_count": 29336,
-      "upload_character_count": 29844,
+      "input_character_count": 29844,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -150,7 +152,7 @@
       "directed_sha256": "5a870bb4a5badcb0c34dd4aa877f6d283122ef4ada9beb939f3e614ab0f338dd",
       "spoken_word_count": 5152,
       "spoken_character_count": 27182,
-      "upload_character_count": 27694,
+      "input_character_count": 27694,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -164,7 +166,7 @@
       "directed_sha256": "0c65741a7c2e08920310336a9a0eb8dca7cfd8517918423e52fe0d86ae292a65",
       "spoken_word_count": 5692,
       "spoken_character_count": 29863,
-      "upload_character_count": 30403,
+      "input_character_count": 30403,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -178,7 +180,7 @@
       "directed_sha256": "d73bf81573c42b088a214b48d609086f5b05e8275d8af7a37e741068bff193a5",
       "spoken_word_count": 5168,
       "spoken_character_count": 26836,
-      "upload_character_count": 27355,
+      "input_character_count": 27355,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -192,7 +194,7 @@
       "directed_sha256": "879c46864f4a4e73f59a39f1ee78bd332b0b98a35bbc06b7b89a474cc1e3a666",
       "spoken_word_count": 5996,
       "spoken_character_count": 31255,
-      "upload_character_count": 31589,
+      "input_character_count": 31589,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -206,7 +208,7 @@
       "directed_sha256": "28dbc55bbd870802b991f5d11aee2ae0f0aaf362940678f9a10644f849e175c7",
       "spoken_word_count": 4577,
       "spoken_character_count": 23394,
-      "upload_character_count": 23871,
+      "input_character_count": 23871,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -220,7 +222,7 @@
       "directed_sha256": "f9029be0769ea0a9e0350564c05e97d68fb65595b40a0a1fb845e293c56b1a49",
       "spoken_word_count": 4893,
       "spoken_character_count": 25166,
-      "upload_character_count": 25595,
+      "input_character_count": 25595,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -234,7 +236,7 @@
       "directed_sha256": "2addb4a1dc9ecc93c8c00c45e2105450ded49a0f34187302be7b35d83993cc6d",
       "spoken_word_count": 5367,
       "spoken_character_count": 27989,
-      "upload_character_count": 28394,
+      "input_character_count": 28394,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -248,7 +250,7 @@
       "directed_sha256": "2e74df18fce6f9ba2c58654992667fccfc02d986de216df049c7b83e89b8382a",
       "spoken_word_count": 5347,
       "spoken_character_count": 27255,
-      "upload_character_count": 27784,
+      "input_character_count": 27784,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -262,7 +264,7 @@
       "directed_sha256": "d29950ec0d18edd40c6faf8c267b2fc323fb32d497b39d11975d64668cfc8dbd",
       "spoken_word_count": 4386,
       "spoken_character_count": 22599,
-      "upload_character_count": 23072,
+      "input_character_count": 23072,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -276,7 +278,7 @@
       "directed_sha256": "9fcc6ec057e42be7e9dab248cf0ea2b976ad9819fe278319e8c83e542c7c0c51",
       "spoken_word_count": 5569,
       "spoken_character_count": 28319,
-      "upload_character_count": 28719,
+      "input_character_count": 28719,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -290,7 +292,7 @@
       "directed_sha256": "b1a375171b9392025e473d253f84508aea85f8ccc9bab8de30020979f0380a9c",
       "spoken_word_count": 4807,
       "spoken_character_count": 24530,
-      "upload_character_count": 24955,
+      "input_character_count": 24955,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -304,7 +306,7 @@
       "directed_sha256": "077f34c2781e4eec16ed441959dc4663a0466d116c28d3a536b1127cb98a12f8",
       "spoken_word_count": 4901,
       "spoken_character_count": 25129,
-      "upload_character_count": 25494,
+      "input_character_count": 25494,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -318,7 +320,7 @@
       "directed_sha256": "f41def8d053cd71c18d2acb9a4af49c801a0cbe2c459205a4e0b21fab99d31b3",
       "spoken_word_count": 5077,
       "spoken_character_count": 25785,
-      "upload_character_count": 26227,
+      "input_character_count": 26227,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -332,7 +334,7 @@
       "directed_sha256": "234f471b8498762f426ce12a75c98774add451072ed8a5676f2be09306d0e965",
       "spoken_word_count": 4893,
       "spoken_character_count": 25050,
-      "upload_character_count": 25510,
+      "input_character_count": 25510,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -346,7 +348,7 @@
       "directed_sha256": "442f0b9a76f58535480d7a7083ba794495c808fcb8242c370b0102a30b23589d",
       "spoken_word_count": 5337,
       "spoken_character_count": 27398,
-      "upload_character_count": 27964,
+      "input_character_count": 27964,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -360,7 +362,7 @@
       "directed_sha256": "99e6ced1dee450fb0a11b703ada500fcd09f8a50bbe41b26749de64e8b032ab4",
       "spoken_word_count": 4925,
       "spoken_character_count": 25053,
-      "upload_character_count": 25504,
+      "input_character_count": 25504,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -374,7 +376,7 @@
       "directed_sha256": "6d65bc23431054ffea1f355109b24926a48277031e7d0dfdb2450d779d85ed11",
       "spoken_word_count": 5620,
       "spoken_character_count": 28497,
-      "upload_character_count": 29052,
+      "input_character_count": 29052,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -388,7 +390,7 @@
       "directed_sha256": "aa802e03c77716af445b30b4a5d1799108e2bfd752119d35c147ba8fd4bb29e3",
       "spoken_word_count": 4198,
       "spoken_character_count": 21041,
-      "upload_character_count": 21359,
+      "input_character_count": 21359,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -402,7 +404,7 @@
       "directed_sha256": "9a59c20e8a31905b129f305521a4a40abb7cd6ba6b2e5c54be8995af7de76a22",
       "spoken_word_count": 4779,
       "spoken_character_count": 24404,
-      "upload_character_count": 24896,
+      "input_character_count": 24896,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -416,7 +418,7 @@
       "directed_sha256": "a2d8379bb2b34f5a0a3c0224c29629caf84ab4a27bb1184e16d833e7d048c0db",
       "spoken_word_count": 4282,
       "spoken_character_count": 22489,
-      "upload_character_count": 23136,
+      "input_character_count": 23136,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -430,7 +432,7 @@
       "directed_sha256": "440f76ff71a5769e4044041a7a4b18dff70dee4938336842061ad54ed6c859a9",
       "spoken_word_count": 7766,
       "spoken_character_count": 39549,
-      "upload_character_count": 40089,
+      "input_character_count": 40089,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -444,7 +446,7 @@
       "directed_sha256": "87041812f4ae00fbcc56d6f2391ec6494353f01bd176af7ebac626a5e432f7b8",
       "spoken_word_count": 4573,
       "spoken_character_count": 23889,
-      "upload_character_count": 24258,
+      "input_character_count": 24258,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -458,7 +460,7 @@
       "directed_sha256": "78a1f2c662c6aeea9a2875a3f7b44ee1b6a39f6f3370284a972537eaa1f7c587",
       "spoken_word_count": 3898,
       "spoken_character_count": 20377,
-      "upload_character_count": 20774,
+      "input_character_count": 20774,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -472,7 +474,7 @@
       "directed_sha256": "0b503d8a80fcbe520074284a9f7a823b1090d06d40987fd9f6a97e4da1d845fa",
       "spoken_word_count": 3783,
       "spoken_character_count": 19543,
-      "upload_character_count": 19839,
+      "input_character_count": 19839,
       "scene_count": 3,
       "direction_tag_count": 3,
       "word_lock": "verified"
@@ -486,7 +488,7 @@
       "directed_sha256": "1ed53c283f44db17a9ce4f0e5784114a2d1aec0d32e34701c297aa1dfd180620",
       "spoken_word_count": 3702,
       "spoken_character_count": 18937,
-      "upload_character_count": 19397,
+      "input_character_count": 19397,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -500,7 +502,7 @@
       "directed_sha256": "3535134a8518b261834b25001087880fb16245daf137ea3c24a0f27742f3f2db",
       "spoken_word_count": 4595,
       "spoken_character_count": 23594,
-      "upload_character_count": 24106,
+      "input_character_count": 24106,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -514,7 +516,7 @@
       "directed_sha256": "129bb84da8baf0f7ffb5cd2b35b29d8332e3a18827525649c37832a4b92cc892",
       "spoken_word_count": 7131,
       "spoken_character_count": 36357,
-      "upload_character_count": 37025,
+      "input_character_count": 37025,
       "scene_count": 8,
       "direction_tag_count": 8,
       "word_lock": "verified"
@@ -528,7 +530,7 @@
       "directed_sha256": "ebc465ef5a93eaf56faa929622fd356be0d62377682f8d406bc5f3b0db6efbd2",
       "spoken_word_count": 5723,
       "spoken_character_count": 29358,
-      "upload_character_count": 30074,
+      "input_character_count": 30074,
       "scene_count": 8,
       "direction_tag_count": 8,
       "word_lock": "verified"
@@ -542,7 +544,7 @@
       "directed_sha256": "f9261301e6a43a96cbf6f7cff78eeb7006372e6f6dcc7923e40b38e7d61c5d1c",
       "spoken_word_count": 6625,
       "spoken_character_count": 33571,
-      "upload_character_count": 34041,
+      "input_character_count": 34041,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -556,7 +558,7 @@
       "directed_sha256": "9b6d7bce5fc46181d2f17e0db263e0621a087b84dcfb8e9bea15943f026df8f6",
       "spoken_word_count": 5992,
       "spoken_character_count": 30306,
-      "upload_character_count": 30890,
+      "input_character_count": 30890,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -570,7 +572,7 @@
       "directed_sha256": "17dd8d03fe00ba014d142c981dd24fb0c4a83e7b32f67b28ddcb30a25627db15",
       "spoken_word_count": 6316,
       "spoken_character_count": 32170,
-      "upload_character_count": 32713,
+      "input_character_count": 32713,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -584,7 +586,7 @@
       "directed_sha256": "58d37a979e39f365e43d7ac94909f1aa58114cfabe2f91178d3f85792ebece94",
       "spoken_word_count": 7107,
       "spoken_character_count": 36160,
-      "upload_character_count": 36719,
+      "input_character_count": 36719,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -598,7 +600,7 @@
       "directed_sha256": "c0b8c2cae1d86cf730331de5300f42ad109af9788bc5682f8f31eaf496bf47d7",
       "spoken_word_count": 3750,
       "spoken_character_count": 19025,
-      "upload_character_count": 19469,
+      "input_character_count": 19469,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -612,7 +614,7 @@
       "directed_sha256": "b656289f7cd99563bbfadc6c4a602afd6d4c3fbebd0a481d2c28e0ef54289e2b",
       "spoken_word_count": 4341,
       "spoken_character_count": 22144,
-      "upload_character_count": 22595,
+      "input_character_count": 22595,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -626,7 +628,7 @@
       "directed_sha256": "906cb337360f87678d60f94e52ece99991d19f041836e15009ffb5ba70341db4",
       "spoken_word_count": 4467,
       "spoken_character_count": 22690,
-      "upload_character_count": 23149,
+      "input_character_count": 23149,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -640,7 +642,7 @@
       "directed_sha256": "d4fa123ef6c2663fb7a2cbe2ade125c1a495965d56b7e87a9cb424212197189f",
       "spoken_word_count": 4850,
       "spoken_character_count": 25034,
-      "upload_character_count": 25453,
+      "input_character_count": 25453,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -654,7 +656,7 @@
       "directed_sha256": "e65f439cc755435274d43e40878ec2e35061dc0d52b0c2969c14d25bf9792707",
       "spoken_word_count": 4924,
       "spoken_character_count": 24926,
-      "upload_character_count": 25459,
+      "input_character_count": 25459,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -668,7 +670,7 @@
       "directed_sha256": "bcff9b44fce22e39e75e9d43b1ef3401320a866e9301c7f29c051c76094bc13d",
       "spoken_word_count": 5668,
       "spoken_character_count": 28932,
-      "upload_character_count": 29097,
+      "input_character_count": 29097,
       "scene_count": 2,
       "direction_tag_count": 2,
       "word_lock": "verified"
@@ -682,7 +684,7 @@
       "directed_sha256": "f225d2177f2956da954ea160e822356adb488e371fe5a80a6aefd02369e290fd",
       "spoken_word_count": 5388,
       "spoken_character_count": 27518,
-      "upload_character_count": 27940,
+      "input_character_count": 27940,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -696,7 +698,7 @@
       "directed_sha256": "a4a40f32dfbbad1ae7c15c9e5d1f608ec5f427ab3552bdffe1447c8fde591630",
       "spoken_word_count": 5017,
       "spoken_character_count": 26123,
-      "upload_character_count": 26704,
+      "input_character_count": 26704,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -710,7 +712,7 @@
       "directed_sha256": "870ad566e723fdf86af7ffed69d167e056e7e84d9f8ec35e4f72ed837713ead1",
       "spoken_word_count": 4778,
       "spoken_character_count": 24965,
-      "upload_character_count": 25338,
+      "input_character_count": 25338,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -724,7 +726,7 @@
       "directed_sha256": "4acbc9d3f1a8d739e694d766d14333a627b2a778c3f96a6610fd97979f2f72aa",
       "spoken_word_count": 3982,
       "spoken_character_count": 20082,
-      "upload_character_count": 20679,
+      "input_character_count": 20679,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -738,7 +740,7 @@
       "directed_sha256": "d05668d6b13c6a7fd6198f18287d2ac5258c43ded0deafe258703d69d1c243be",
       "spoken_word_count": 6309,
       "spoken_character_count": 31390,
-      "upload_character_count": 31857,
+      "input_character_count": 31857,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -752,7 +754,7 @@
       "directed_sha256": "b28a26e236a4eb289c0882d168ab0b55a0e7f4ffc046dca1ea1b949eb7f5f784",
       "spoken_word_count": 5708,
       "spoken_character_count": 28812,
-      "upload_character_count": 29204,
+      "input_character_count": 29204,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -766,7 +768,7 @@
       "directed_sha256": "5b203a91efc3abf96082c4ad71441da3c41c6339f2c022ac3569a4143952a790",
       "spoken_word_count": 6138,
       "spoken_character_count": 30904,
-      "upload_character_count": 31473,
+      "input_character_count": 31473,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -780,7 +782,7 @@
       "directed_sha256": "0a1988393e234579e200406caee0b8c5f60f1b37b5c62413ac795f37899ac9f9",
       "spoken_word_count": 4865,
       "spoken_character_count": 24783,
-      "upload_character_count": 25204,
+      "input_character_count": 25204,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -794,7 +796,7 @@
       "directed_sha256": "3409d2913e346c50525bba964304d2013f927f408ca5e84a4deae783feecac2f",
       "spoken_word_count": 4824,
       "spoken_character_count": 24313,
-      "upload_character_count": 24738,
+      "input_character_count": 24738,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -808,7 +810,7 @@
       "directed_sha256": "b0065b9a1a28346aa2a1393c691ac0372a463d91343266f423262ff066c737cd",
       "spoken_word_count": 4839,
       "spoken_character_count": 24517,
-      "upload_character_count": 24919,
+      "input_character_count": 24919,
       "scene_count": 5,
       "direction_tag_count": 5,
       "word_lock": "verified"
@@ -822,7 +824,7 @@
       "directed_sha256": "6299159f1152307fb600442f4b2fb62da037f999b77e11766655fa58ed325c83",
       "spoken_word_count": 4595,
       "spoken_character_count": 23294,
-      "upload_character_count": 23767,
+      "input_character_count": 23767,
       "scene_count": 6,
       "direction_tag_count": 6,
       "word_lock": "verified"
@@ -836,7 +838,7 @@
       "directed_sha256": "fc5130a19b85f60a5934a97162d531190584742207132b29999511264218f949",
       "spoken_word_count": 6777,
       "spoken_character_count": 33771,
-      "upload_character_count": 34332,
+      "input_character_count": 34332,
       "scene_count": 7,
       "direction_tag_count": 7,
       "word_lock": "verified"
@@ -850,7 +852,7 @@
       "directed_sha256": "dda57e799cbd59a34f6b0812d831f6cad40ce757478ce1dbb990297ce55117f1",
       "spoken_word_count": 3661,
       "spoken_character_count": 18561,
-      "upload_character_count": 18910,
+      "input_character_count": 18910,
       "scene_count": 4,
       "direction_tag_count": 4,
       "word_lock": "verified"
@@ -864,7 +866,7 @@
       "directed_sha256": "aaa6fdcc3ec09a9ce46aa0a0d9cc6d17179871b4d4c07ede536107ba0d2fd974",
       "spoken_word_count": 3435,
       "spoken_character_count": 17273,
-      "upload_character_count": 17563,
+      "input_character_count": 17563,
       "scene_count": 3,
       "direction_tag_count": 3,
       "word_lock": "verified"
