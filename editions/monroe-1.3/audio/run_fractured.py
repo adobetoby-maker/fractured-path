@@ -27,7 +27,16 @@ def busy():
     import shutil
     if shutil.disk_usage("/Users/drive").free < 5 * 1024**3:  # pause, never fail mid-render, when under 5 GB free
         return True
-    for pat in ("run_meridian.py", "breeze_render_track.py"):
+    # Breeze yields MLX/Metal to the production Fish S2 audiobook queue.  The
+    # Fish wrapper can spend time in CPU-only QA between render children, so
+    # include both the wrapper and its renderer names here.
+    for pat in (
+        "run_meridian.py",
+        "breeze_render_track.py",
+        "run-kindled-monroe-1.2.5-ci.py",
+        "calder-narrator.py",
+        "render-local-tts.py",
+    ):
         if subprocess.run(["pgrep", "-f", pat], capture_output=True).returncode == 0:
             return True
     return False
