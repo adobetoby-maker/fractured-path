@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-07T21:46:31Z",
+  "generated": "2026-10-08T05:22:05Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -963,6 +963,20 @@
           "title": "Chapter 3 — Eleven Seconds",
           "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-03.md",
           "renders": [
+            {
+              "render": "local-breeze-directors-cut-audition",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Original Calder clone · Local Breeze Director's Cut",
+              "methodId": "breeze-tts2-original-calder-local-directors-cut",
+              "finishState": "objective-qa-and-owner-listening-pending",
+              "file": "audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-03.mp3",
+              "bytes": 17487981,
+              "durationSec": 2185.9,
+              "sha256": "9e22d4ca543e201aaa02f54ead534d1d9394114d2fca2f7481309ceabf0b75fa",
+              "sourceSha256": "7d6bfc139cbafed03736c5df2bca3bb691d0978882cbce47f8df3901378c6a8c",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-03.mp3",
+              "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
+            },
             {
               "render": "breeze-directed",
               "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
