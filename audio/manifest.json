@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-08T17:09:44Z",
+  "generated": "2026-10-08T18:13:42Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -886,7 +886,7 @@
       "title": "The Shattered (Monroe 1.3 edition)",
       "edition": "monroe-1.3",
       "totalChapters": 60,
-      "renderedChapters": 12,
+      "renderedChapters": 13,
       "chapters": [
         {
           "number": 1,
@@ -1263,6 +1263,27 @@
               "sourceSha256": "e3956e0d11ec6b9652619ad8115477cb6cf9892eef4a139ab8f967970bbd2a86",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/chapter-12.mp3",
               "note": "Listening audition, not production-approved. Breeze TTS 2 (research and non-commercial licence; evaluation only), original Calder clone, directed per segment after a full-chapter read. Pronunciations owner-confirmed: Cael, Lira; others unconfirmed."
+            }
+          ]
+        },
+        {
+          "number": 13,
+          "title": "Chapter 13 — Tonight's Answer",
+          "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-13.md",
+          "renders": [
+            {
+              "render": "local-breeze-directors-cut-audition",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Original Calder clone · Local Breeze Director's Cut",
+              "methodId": "breeze-tts2-original-calder-local-directors-cut",
+              "finishState": "objective-qa-and-owner-listening-pending",
+              "file": "audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-13.mp3",
+              "bytes": 13961133,
+              "durationSec": 1745.05,
+              "sha256": "79e73a877dc24f8b304a30936a9ef370b9359f3fad865ad35eb73e599ed389f4",
+              "sourceSha256": "06d1ccd02f0cc33be07327e6c4d39caa452126f8e48f8721cfdb7381ffffb79e",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-13.mp3",
+              "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
             }
           ]
         }
