@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-08T14:15:09Z",
+  "generated": "2026-10-08T15:35:48Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -1201,6 +1201,20 @@
           "title": "Chapter 11 — Homework",
           "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-11.md",
           "renders": [
+            {
+              "render": "local-breeze-directors-cut-audition",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Original Calder clone · Local Breeze Director's Cut",
+              "methodId": "breeze-tts2-original-calder-local-directors-cut",
+              "finishState": "objective-qa-and-owner-listening-pending",
+              "file": "audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-11.mp3",
+              "bytes": 16327533,
+              "durationSec": 2040.86,
+              "sha256": "ed16a209af9db6902a162bf2e79cd7187b1b10fa6255cef89981acd07cf7f28c",
+              "sourceSha256": "ff78c37aa68e8bed0a6a5fe2565d054d8e8bb6e9381e476456292505434288e2",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-11.mp3",
+              "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
+            },
             {
               "render": "breeze-directed",
               "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
