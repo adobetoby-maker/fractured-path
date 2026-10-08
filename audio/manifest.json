@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-08T07:41:53Z",
+  "generated": "2026-10-08T09:04:31Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -1068,6 +1068,20 @@
           "title": "Chapter 6 — The Rise",
           "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-06.md",
           "renders": [
+            {
+              "render": "local-breeze-directors-cut-audition",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Original Calder clone · Local Breeze Director's Cut",
+              "methodId": "breeze-tts2-original-calder-local-directors-cut",
+              "finishState": "objective-qa-and-owner-listening-pending",
+              "file": "audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-06.mp3",
+              "bytes": 16876845,
+              "durationSec": 2109.52,
+              "sha256": "3f514d776ffe8d4d595761d86737121981e402316beba3202e50fea4c18bf20d",
+              "sourceSha256": "0015c852a40575c864b4f7104cecbbbd195f16524c8b2c4e444bf293631e0eeb",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-06.mp3",
+              "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
+            },
             {
               "render": "breeze-directed",
               "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
