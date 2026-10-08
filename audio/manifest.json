@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-08T06:35:13Z",
+  "generated": "2026-10-08T07:41:53Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -1033,6 +1033,20 @@
           "title": "Chapter 5 — The Six O'Clock Light",
           "manuscript": "books/fractured-path-monroe-1.3/book-01/manuscript/chapter-05.md",
           "renders": [
+            {
+              "render": "local-breeze-directors-cut-audition",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Original Calder clone · Local Breeze Director's Cut",
+              "methodId": "breeze-tts2-original-calder-local-directors-cut",
+              "finishState": "objective-qa-and-owner-listening-pending",
+              "file": "audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-05.mp3",
+              "bytes": 13969581,
+              "durationSec": 1746.12,
+              "sha256": "8b74f31e9562464b720916301b5ba846c3f02be478abf14583e75b4b1374bf04",
+              "sourceSha256": "8772412f3706ae2230d4a296abaf755b3ae8b2fe58cc4705fb5bf9c923f7800b",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-01/local-breeze-directors-cut/chapter-05.mp3",
+              "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
+            },
             {
               "render": "breeze-directed",
               "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
