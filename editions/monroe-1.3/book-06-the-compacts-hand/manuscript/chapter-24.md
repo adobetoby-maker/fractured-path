@@ -202,7 +202,7 @@ So he told her, there at the rope, with Rooke standing a yard away and pretendin
 
 "So did I," said Rooke.
 
-He did not say it to either of them. He said it to his board, and he wrote it there while he said it, in his square capitals, and Cael read it upside down. *SW quarter, crossways boards, ex. 3. The stewards wrote that they'd mended something. I walked this floor at first light looking for it and pressed that corner three times and missed it. Mine.*
+He did not say it to either of them. He said it to his board, and he wrote it there while he said it, in his square capitals, and Cael read it upside down. *South-west quarter, crossways boards, exchange three. The stewards wrote that they'd mended something. I walked this floor at first light looking for it and pressed that corner three times and missed it. Mine.*
 
 "It was sawdust," said Lira.
 
