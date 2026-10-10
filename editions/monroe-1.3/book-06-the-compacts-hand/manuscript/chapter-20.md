@@ -246,7 +246,7 @@ Then for a while everybody talked about the steps at once, and nobody agreed on 
 
 Brom said the first thing he remembered was the bruise: something had hit him hard on the left hip on the second step, and when he looked down there was a boy's satchel buckle going away from him round the corner by the corn chandler's, and a voice saying sorry over its shoulder. He had not seen the boy's face. He rubbed the hip now, thoughtfully, as if the bruise might tell him more.
 
-Cael asked Karis which rulings had been on the shelf. She told him: Greyvane's, and four older ones, all on the text.
+Cael asked Karis what the shelf had established. "The clause survived five challenges," she said. "Greyvane was the newest."
 
 Karis said Jent had stopped by her, not the counsel.
 

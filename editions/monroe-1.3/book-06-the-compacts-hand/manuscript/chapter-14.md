@@ -68,7 +68,7 @@ He struck the sentence through and put the scrap in the stove, and put the ruled
 
 On the third evening there was a pinned note on a copy in his *held* tray, and he had moved the copy twice.
 
-*Thank you, sir. I shan't worry about it now.* The note was in a young man's hand, a hand still deciding what shape it meant to be. It was pinned to the copy of a station's Kindling entry, four years old, for a girl in the northern district: her Path, her first rank, in a station clerk's ordinary writing.
+*Second frame reading: within tolerance.* The note was in a young man's hand, a hand still deciding what shape it meant to be. It was pinned to the copy of a station's Kindling entry, four years old, for a girl in the northern district: her Path, her first rank, in a station clerk's ordinary writing.
 
 The junior who had pinned it had come up the too-steep stair that afternoon with the girl's file under his arm, nervous and good, and laid it out on the desk because Vastin had made him lay it out himself. Her floor work this season had run on ahead of what her station had written of her, by a margin he had measured four ways and could not make go away. "She doesn't do anything wrong, sir," the junior had said. "That's what I keep coming back to. She does everything her Path says she should. She just does it as if the station had written down somebody a year younger." He had turned his notes round so that Vastin could read them. "I measured it with the frame, and by the clock, and by her bouts, and against the tables. It's inside tolerance every way I measure it. I still don't like it."
 
