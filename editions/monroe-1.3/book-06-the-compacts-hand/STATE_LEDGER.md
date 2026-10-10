@@ -549,3 +549,5 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **The side-door officer:** young, a heavy cold, a ruled board; the door log's two columns (name; standing).
 - **Havel at Ostrand:** the inn by the bridge; junior chair, rotation "the seat's Fifth-days, until relieved"; the senior chair district grade; the five sheets stay at the inn on sitting days; "told, once, in a room with the door shut, that the mark was not his clearance".
 - **Withrow:** the charter folder in the locked case under the framed charter, key on her chain; the two old adverse notes (a fire-watch quarter; a year's declarations unindexed) with remedies and clearances.
+
+**Coordinator correction (2026-10-10).** Seln learns why Shadow was sealed in SOURCE Ch15 (The Cache), which is the edition's MOVEMENT 6 (BOOK_MAP §3 item 15, §6, §9) — not in M3. Until M6 he does not know a sealed thing exists.
