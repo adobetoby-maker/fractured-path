@@ -1,0 +1,96 @@
+Reading additional input from stdin...
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a127b0-9c86-72d2-820d-fd4b8cb821b8
+--------
+user
+You are Sol, the independent source-distance reader for the Monroe 1.3 edition of The Fractured Path, Book 6 "The Compact's Hand", Movement 4 (chapters 21–27). Work in /Users/drive/fractured-path-monroe13.
+
+Background: the 8-word overlap gate reads 0 unprotected for this movement and the skeleton probe reads 1% skeleton / 13% close. In Movement 3 a side-by-side read found 136 tracked passages that the probe missed; this movement was drafted under a stricter method (source read once, then closed; per-chapter self-check), and the author reports rebuilding flagged passages in ch22, ch26 and ch27. Verify independently.
+
+Read the source chapters for this movement: books/book-06-the-compacts-hand/chapters/chapter-09.md books/book-06-the-compacts-hand/chapters/chapter-10.md books/book-06-the-compacts-hand/chapters/chapter-11.md 
+Read the manuscript: editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-21.md … chapter-27.md. For calibration, also run the probe with pair output: from the worktree root, `SHOW=1 bash editions/monroe-1.3/tools/sweep_probe.sh book-06-the-compacts-hand 4 4`.
+
+By READING, side by side, find every passage that keeps a source sentence's content and order (its beats in the same sequence), whether the words are varied, the sentence is split, or near-verbatim. Do not count:
+- protected or packet lines (editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt; BOOK_MAP §10 Tier A/B);
+- facts and events the plan requires, so long as their telling is new;
+- common-word coincidences.
+
+Write editions/monroe-1.3/book-06-the-compacts-hand/state/movement-004/source-tracking.md containing:
+1. A verdict: the count of genuine tracked passages per chapter and per scene.
+2. A table with these columns: chapter:line, the manuscript opening words, the source sentence it follows (file:line plus the opening words), and the kind (varied / split / near-verbatim).
+3. For each densely tracked scene, a suggested new entry point or order of beats that would make it the author's own.
+
+Do not edit any manuscript file. Run no git commands.
+codex
+I’m using the O’Connor/Monroe skill because this is a Monroe 1.3 movement audit. I’ll follow its source-distance rules, read the protected/plan material first, run the requested probe, then do the side-by-side review and write only the movement report.
+exec
+/bin/zsh -lc "sed -n '1,240p' /Users/drive/.codex/skills/oconnor/SKILL.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+---
+name: oconnor
+description: Plan and orchestrate the Monroe 1.3.0 O'Connor progression-adventure seat, using Iron Prince structural research, Opus or Fable authorship, open-range movements and focused editorial loops.
+---
+
+# O'Connor 1.3.0 — Monroe Jackson author seat
+
+Canonical package: `/Users/drive/penname/pennamecodexv3`.
+Read `pen-names/oconnor/PIPELINE.md`, `VOICE.md` and `FORMULA.md` in that package.
+Read `/Users/drive/penname/research/ironprince-craft-formula.md` for its exact
+numerical targets. The compiler embeds craft sections 2–6 and 8–9 verbatim in both
+planning and drafting prompts. These are the owner's selected design targets,
+not optional research notes; do not soften them into generic craft advice.
+Codex maintains/orchestrates; Opus or Fable writes and repairs. Opus 5.5 is the default author;
+Fable (or another model) runs only when the owner names it. Never substitute the
+current Codex model silently. The public
+byline is Monroe Jackson; O'Connor is an internal seat name.
+
+Use six or more contiguous chapters per creative run (default 8, no upper cap). One compact
+movement brief replaces compulsory chapter cards. No chapter-by-chapter editorial
+gates. Output limits can require continuation of the same run; they must not cause
+shortened chapters or premature claims of completion.
+
+The owner names the characters. Use role placeholders during planning and resolve
+the needed names before prose drafting. A request to build/activate the seat is
+not permission to start a novel. Preserve canon and exact owner-protected text.
+
+Compile locally with `/Users/drive/penname/harness/oconnor.sh`:
+
+- `plan --root PROJECT --author opus --idea 'idea'` (or `--idea-file FILE`).
+- `formula --output FILE` exports the standalone numerical formula prompt.
+- `movement --root BOOK --author fable --packet packets/MOVEMENT-001.md --count 8`
+  with `--start N`, repeated `--context FILE`, optional `--previous FILE`, and
+  optional scene-specific `--action 'scene=stack'`.
+- `review --root BOOK --author fable --chapter manuscript/chapter-01.md`, repeating
+  `--chapter` for the complete movement in reading order. Add `--context FILE`
+  for editorial canon evidence; omit for manuscript-only cold reading.
+  Use `--formula-check` for editorial target/observed comparisons; omit it for a
+  blind cold read. Read `pen-names/oconnor/FORMULA_REVIEW.md` for measurement rules.
+
+The compiler prints a prompt; `--output FILE` saves without overwrite. It makes
+no model call. For authorized drafting, verify the locally installed author CLI's
+available model and subscription login, then supply the selected model and saved
+prompt. Do not switch to a paid API or alternate author on failure. Record the
+actual reported model separately from the seat version and requested alias.
+No new model invocation is authorized merely to validate this skill.
+
+After the completed movement: continuity/story pass, reader/clarity pass, one
+consolidated same-author repair, targeted recheck. Read `REVIEW.md` for the rubric.
+Label self-review vs fresh-context simulated cold read honestly. Use approved owner
+voice/examples; only accepted owner evidence updates the trainer.
+
+Read `PROVENANCE.md` when discussing research validity. Do not claim a full-book
+read or verified percentages from partial inspection. The transcript and quoted
+source-character study are private research, not drafting inputs. Read
+`references/combined-path-adapter.md` only for the owner's selected 600-year Kindling
+proposal; it is not a default premise for new books.
+
+exec
+/bin/zsh -lc "wc -l /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md /Users/drive/penname/research/ironprince-craft-formula.md && rg --files -g 'AGENTS.md' -g '"'!node_modules'"' /Users/drive/fractured-path-monroe13 /Users/drive 2>/dev/null | head -80" in /Users/drive/fractured-path-monroe13
