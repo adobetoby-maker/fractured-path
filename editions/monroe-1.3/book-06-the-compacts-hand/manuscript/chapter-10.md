@@ -148,7 +148,7 @@ And last the thing Cael trusted most: the little space before an answer that cos
 
 "That's the seat's to say. I'll be content with either."
 
-Four questions. One hard, Cael thought, one sly, two easy, and the counsel had put the sly one second, where a man tired of easy ones might trip. He had been counting the clock over the hearth between each question and its answer, and he had the four counts in his head: none, none, none, none. The sly one had cost Jent exactly what *No* had cost him.
+Four questions. One hard, Cael thought, one sly, two easy, and the counsel had put the sly one second, where a man tired of easy ones might trip. Cael had been counting the clock over the hearth between each question and its answer, and he had the four counts in his head: none, none, none, none. The sly one had cost Jent exactly what *No* had cost him.
 
 Four measures. Four nothings.
 

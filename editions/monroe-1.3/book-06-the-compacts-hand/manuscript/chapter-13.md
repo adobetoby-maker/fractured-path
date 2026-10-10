@@ -124,7 +124,7 @@ The side door let them in at the foot of the long room, close by the records tab
 
 Two officers sat there with their books squared to the table's edge. The senior was a heavy man he did not know. Behind him, at the junior chair, sat a man Cael did know, though he could not have said from where without thinking: a records officer with a careful face and a board, whom he had seen at a desk at Greyvane, and on a chair along the east wall of the evaluation room on the oak, and at other tables before those. The man was writing the date at the head of a leaf. He did not look up.
 
-He walked up the strip of floor between the two parties' tables to the house's place, and the old trade went under his boots as he went. The wool-factors had carved their lot numbers into the planking a hundred years ago, row after row, so that every bale had its place and every buyer could find it, and the registry had planed and waxed the boards and set its furniture down on the numbers without troubling to hide them. *Nine*, *ten*, *eleven*. Across the strip Jent was already at the petitioner's table with his inkwell unscrewed; he rose when Withrow came in, to his measured height, and sat again. Cael sat down at the house's table with *seventeen* under his left foot.
+Cael walked up the strip of floor between the two parties' tables to the house's place, and the old trade went under his boots as he went. The wool-factors had carved their lot numbers into the planking a hundred years ago, row after row, so that every bale had its place and every buyer could find it, and the registry had planed and waxed the boards and set its furniture down on the numbers without troubling to hide them. *Nine*, *ten*, *eleven*. Across the strip Jent was already at the petitioner's table with his inkwell unscrewed; he rose when Withrow came in, to his measured height, and sat again. Cael sat down at the house's table with *seventeen* under his left foot.
 
 Only then did he look up the room to its end. A low platform. The registry's sigil over it, very large, in plain black. The presiding seat on the platform, and to one side of it a bench of five chairs under grey cloth covers, waiting for evaluators the district had not yet called. Behind him he could hear the public benches without turning: every one of them taken, all the way back to the great double door, and people standing along the wall where there were no benches left.
 
@@ -188,7 +188,7 @@ He did not write a sixth. There was nothing to put on it.
 
 The long room stood when the seat rose. Cael was on his feet behind Withrow's chair, and so he saw her bow from behind: the line of her grey collar going down, and stopping, and the back of her neck held straight. He had watched her bow on the house's steps to visiting officers for two years and could have told its depth with his eyes shut. This was the same. It was the registry's own measure, the one she had been taught at twenty and had given across a platform like that one for twenty years from the officers' side, and she gave it now to a hood with no face under it as she would have given it to a registrar she had dined with.
 
-In the stir of the benches emptying, one coat at the far end of the last bench, nearest the side door, stood a fraction after all the others. It was Seln's. Cael had not seen him all morning. While the others went out to the coach he slipped back in for a moment and stood where Seln had sat, and found that from there a man could see both doors, all three tables and the platform without once turning his head. He went out again before anybody missed him.
+In the stir of the benches emptying, one coat at the far end of the last bench, nearest the side door, stood a fraction after all the others. It was Seln's. Cael had not seen him since the side door. While the others went out to the coach, Cael slipped back in for a moment and stood where Seln had sat, and found that from there a man could see both doors, all three tables and the platform without once turning his head. He went out again before anybody missed him.
 
 Withrow's carriage was waiting at the foot of the four steps, with the correspondents' pencils going on either side of it. She spoke to none of them. At its door she turned, with one hand on the frame, and found Cael with her eyes.
 
@@ -204,9 +204,9 @@ Brom had his face to the window. Lira was watching Brom.
 
 "So he's done looking," said Lira, with her boots up on the opposite bench and her back against the coach's door. "Or he's been told to be."
 
-The house's counsel had her bag on her knees. "He tendered nine," she said. "I tendered a hundred and seventy-three. The clerk receipted them on one leaf, one line under the other, and the seat initialled the leaf without turning it over."
+The house's counsel had her bag on her knees. "He tendered nine," she said. "I tendered a hundred and seventy-three. The junior receipted both lists, one after the other. Then the senior chair's minute went up under the hood and came back initialled, without either number changing the pace."
 
-"It wouldn't have turned it over for one or for a thousand," said Karis. "A seal can't count."
+"The pace wouldn't have changed for one or for a thousand," said Karis. "A seal can't count."
 
 "And the seal?" said Lira. "You told us to watch it. Did it do anything?"
 

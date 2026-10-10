@@ -440,7 +440,7 @@ Everything from paragraph seven on is kept in substance.
 Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page.
 
 
-## AFTER MOVEMENT 2 — chapters 8–13 (drafted 2026-10-06, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 2 — chapters 8–13 (drafted 2026-10-06, author claude-opus-5-5; repairs r1 and r2 applied; CLOSED 2026-10-10 after Sol recheck r2)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - Calendar: service day 8; the answer down day 19; the notice ("per seal") day 23; Jent's conference day 25; the first sitting the year's sixth Fifth-day, DAY 40. M3 inherits sittings likely days 47 and 54; the nine-week inventory clock counts from service (day 8). Brom's panel "convened under the docket of the fourth day… is confirmed" — inside the ninety days (which run out about day 22).
@@ -551,3 +551,5 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **Withrow:** the charter folder in the locked case under the framed charter, key on her chain; the two old adverse notes (a fire-watch quarter; a year's declarations unindexed) with remedies and clearances.
 
 **Coordinator correction (2026-10-10).** Seln learns why Shadow was sealed in SOURCE Ch15 (The Cache), which is the edition's MOVEMENT 6 (BOOK_MAP §3 item 15, §6, §9) — not in M3. Until M6 he does not know a sealed thing exists.
+
+**Movement 2 CLOSED (2026-10-10).** Recheck r1 (fresh Opus seat): SECOND REPAIR bounded to P2 (18 tracked passages) + 9 line fixes applied — including Havel's looks to B4 ch54:81: the Ardenmere pump step, two at Greyvane, the third look on the oak (this SUPERSEDES the r1 brief's "his looks total four"; he will not give himself another); the Log for the evaluation day ends on *wondering*; one guild would not let Lira in the door; the boards move ahead of the Force stamp. Repair r2 re-composed all 18. Sol recheck r2: CLOSE WITH LINE FIXES — six applied (ch10/ch13 pronouns named Cael; ch11 the old notes' remedies carry visiting officers' clearances; ch13 "not seen him since the side door"; ch13 the junior receipted both lists and the senior chair's minute went up under the hood and came back initialled — the seat did NOT initial the receipt leaf). Seln's step line now: "The office has written that kind of minute. Not that one. Others like it." (to Cael alone). 28,591 words. Overlap 0/10, gates 0, probe 1%/8%.
