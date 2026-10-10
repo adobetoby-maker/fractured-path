@@ -1,26 +1,26 @@
 # Chapter 18 — Fifteen Words
 
-Bracken left his counter.
+The first thing Bracken laid on the table was the receipt.
 
-Cael would think about that afterward more than about anything else that evening, because in two years on the hill he had never once seen it happen. The registrar's counter was open from the first bell to the eighth. If Bracken had to be somewhere else, a senior clerk stood behind it in his place, and if there was no senior clerk to be had, the counter was closed and a card hung on its grille to say so. Nobody on the hill had ever come into the records hall and found the counter open and nobody behind it.
+It was a narrow slip of the seat's buff paper, printed and filled in, with a pin through one corner where it had been fastened to something else, and he set it down beside the house's counsel's plate without a word, as if the receipt were the thing that mattered and whatever it had been pinned to could wait. The counsel had come back up the hill in the coach after the sitting and stayed to eat. She put down her fork.
 
-On the evening of the second sitting, a little after the seventh bell, a first-year who had gone down to ask about a lost key came back up to the residence to report, in a voice of real alarm, that the counter was open, the lamp was lit, the day's baskets were sitting on the trestle half sorted, and the registrar was gone.
+*Received at the registry seat, Ostrand, in the matter of the enrollee of record, Halcenvane: one statement, under the head* Statements entered (Silver and above). *Filing fee, four marks. Paid by the filer.*
 
-He was not gone. He was crossing the fountain court at the time, with a single sheet of paper in his hand, walking faster than anybody on the hill had ever seen him walk.
+"Silver and above," said Karis, reading it upside down from across the table. She said it slowly, the way she said a citation she had not expected to need. "That's a fossil. Nobody's filed under that head in—" She stopped.
 
-They were at supper. The table had been quiet since the coach came back up the hill, quiet in the way it had learned to be after a sitting, everybody eating and nobody talking about the morning. Bracken came in by the court door and down the length of the refectory without stopping, between the benches, with a hundred heads turning after him. He did not look at any of them. He came to the middle table and laid the sheet in front of the house's counsel, who had come back up the hill with the coach after the sitting and stayed to eat, and then he took up a place at the foot of the table, his hands clasped behind him.
+Withrow, at the table's head, had reached out and turned the slip a little toward the lamp with one finger. Under the printed lines the clerk had written the filer's rank in the space left for it, in a careful hand that had clearly never written it in that space before. Withrow read it, and her finger stayed on it.
 
-Withrow, at the table's head, began to rise to give him her chair.
+"Gold," she said. "Rank Three."
 
-"Thank you, Chancellor," said Bracken. "I'll stand."
+Nobody at the table needed telling who that was. There was exactly one.
 
-The counsel looked at the sheet. Cael saw her read the top of it, and stop, and read it again, and then look up at Bracken, who nodded once. She picked it up.
+Lira's cup stopped halfway to her mouth, and went back down to the board still full.
 
-"It came in the evening post, under the seat's seal," said Bracken. "A courtesy copy. It was filed at the seat yesterday, in the filer's own name."
+Only then did Bracken take the statement itself from behind his back, where he had been holding it all this time, and lay it in front of the counsel, and step back to the foot of the table. Withrow began to rise to give him her chair.
 
-"Read it," said Withrow.
+"Thank you, Chancellor. I'll stand."
 
-The counsel read it aloud, in the voice she kept for documents that would one day be quoted by people who had never met any of them.
+The counsel read it aloud, in the voice she kept for papers that would one day be quoted by people none of them would ever meet.
 
 *Daeva. Academy of Auremont. Storm Path; Gold, Rank Three. Entered on her own account at the seat at Ostrand, in the matter of Halcenvane's enrollee of record:*
 
@@ -28,45 +28,47 @@ The counsel read it aloud, in the voice she kept for documents that would one da
 
 She set it down.
 
-Nobody said anything. At the next table somebody laughed at something, and stopped, and looked round to see why the middle table had gone so still.
+Nobody said anything. At the next table somebody laughed at a joke and stopped, and looked round to see why the middle table had gone so quiet.
 
-Lira's cup stopped halfway to her mouth, and went back down to the board still full.
+Brom reached over and took the sheet by its edges, carefully, as if it might be wet. He read it once, slowly, without moving his lips, the way he read things that would cost somebody something. Then he laid it back down, and turned it round so that the writing faced the middle of the table and not him, toward all of them at once. Cael had never seen him do that with a paper.
 
-Brom reached over and took the sheet, carefully, by its edges, as if it were wet. He read it through once, slowly, with his lips not moving at all, the way he read the things that were going to cost somebody something. Then he laid it back down, and turned it round so that the writing faced the middle of the table instead of him, toward all of them at once. Cael had never seen him do that with a paper in his life.
+It was only then that anybody thought to ask what Bracken was doing there.
 
-"Fifteen words," said Ephram. He had come over from the cohort's table when Bracken passed it, and was standing behind Karis's shoulder. "Fifteen. Auremont has a whole faculty that does nothing but write filings. She could have had forty pages. They'd have bound it in blue for her."
+Because he should not have been. The registrar's counter was open from the first bell to the eighth, and in two years Cael had never known it open with nobody behind it. If Bracken had to be elsewhere, his senior clerk stood in his place; if there was no clerk, the counter shut and a card hung on the grille. But a first-year had come up from the records hall ten minutes ago, white-faced, to report that he had gone down about a lost key and found the counter lamp lit, the baskets half dealt on the trestle, and nobody there at all. Bracken had crossed the fountain court with this sheet in his hand at a pace nobody on the hill had ever seen from him. He had walked the length of the refectory between the benches with a hundred heads turning after him and had not looked at one of them.
+
+He stood at the foot of the table now with his hands clasped behind him, and seemed to be waiting for somebody to tell him what to do with himself.
+
+"Fifteen words," said Ephram. He had come over from the cohort's table when Bracken went past it, and was standing behind Karis. "She could have had forty pages. Auremont keeps a whole faculty for filings. They'd have bound it in blue for her."
 
 "Forty pages would have given them something to argue with," said Withrow.
 
-She had not touched the sheet. She sat with her hands folded on the board in front of her and looked at it from where she was.
+She had not touched the statement. She sat with her hands folded on the board and looked at it from where she was.
 
-"An argument can be answered," she said. "An argument asks to be answered. It has premises, and the other side goes looking for the weakest one, and finds it, and the seat rules on that. This isn't an argument." She looked at the sheet a moment longer. "This is the statement of a witness, from the highest-ranked practitioner alive, who was on the floor with him when the instruments failed. There is nothing in the code that answers it. The code never imagined that anyone at her rank would trouble to say anything at all." She turned her head. "The seat will do with it what it did with the Archmarshal," said the counsel quietly. "It will receive it, and enter it, and step round it."
+"An argument asks to be answered," she said. "It has its premises showing, and the other side goes looking for the weakest one and finds it, and the seat rules on that. This isn't an argument. This is a witness, the highest-ranked practitioner alive, who was on the floor with him when the instruments failed, saying what she saw. The code has no answer to it, because the code never imagined anybody at that rank would trouble to say anything at all."
+
+"The seat will do with it what it did with the Archmarshal," said the counsel quietly. "Receive it, enter it, and step round it."
 
 "Very likely." Withrow's eyes did not leave the sheet. "Registrar. In your thirteen years?"
 
 "Never," said Bracken. "Not at Gold."
 
-He took the envelope out from behind his back, where he had been holding it all this time, and turned it over.
+He seemed to come back to himself, saying it. He looked down the long room toward the court door as if he had just remembered where he was meant to be. "She paid it herself," he said. "Four marks. I thought the house would want to know she paid." And then, in a different voice, "My counter," and he went back down the refectory at his own pace, and out.
 
-"She paid the filing fee herself," he said. "Four marks. The seat's receipt is pinned inside. I thought the house would want to know she paid."
+Karis had it placed before the lamps went down, in the reading room, with the four of them round her and Ephram, who had followed them up without being invited and had not been sent away.
 
-Then he looked down the long room toward the court door, as if he had only that moment remembered where he was supposed to be, and said, "My counter," in a different voice, and went back down the refectory at his ordinary pace, and out.
+"It's what the receipt says," she said. "A provision older than the standard code: anybody at Silver or above may put a statement into the record of an institutional matter, if the matter touches on evaluation standards. It's from when what senior practitioners thought of an evaluation was part of how evaluation got done." She had the digest open. "Forty-four uses that anybody wrote down. All Silvers. A Silver who'd fought somebody and thought the frame had read him wrong, or read her wrong."
 
-Karis had it placed in the code before the lamps were turned down. She did it in the reading room, with the second volume open under the one lamp, and the four of them round her, and Ephram, who had followed them up the stair without being invited and had not been sent away.
+"Never a Gold?" said Lira.
 
-"There's a provision," she said, "for exactly this, and nobody remembers it exists. Anyone at Silver or above may put a statement into the record of an institutional matter, so long as the matter touches on standards of evaluation. It's old. It's from before the code was standard, the same age as the clause the Archmarshal cited. It comes from the time when what senior practitioners thought about an evaluation was a part of how evaluation was *done*." She laid her finger on the digest. "It's been used forty-four times that anybody wrote down. Always by Silvers. A Silver who'd fought somebody and thought the frame had read him wrong, or read her wrong. Forty-four times." She took her finger away. "Never by a Gold. Not once."
-
-"Why not?" said Lira.
-
-"Because a Gold never needs to say anything on the record about an evaluation. A Gold is what all the statements are written about." Karis shut the digest. "And look at what she's asked for. *Classify the instruments.* There's no form for that. There's no office that could do it if it wanted to. There's nobody to hand it to. She has asked the registry for a thing it has no shelf for, through a door nobody has opened in living memory, from a height nobody has ever knocked from." She shook her head slowly. "Nobody else alive would have written it. That's how you'd know it was hers without the signature."
+"A Gold never needs to say anything on the record about an evaluation. A Gold is what all the statements are written about." Karis shut the digest. "And look what she's asked for. *Classify the instruments.* There's nobody to hand that to. She's asked the registry for a thing it has no shelf for, through a door nobody's opened in living memory, from a height nobody ever knocked from." She shook her head slowly. "Nobody else alive would have written it. You'd know it was hers without the signature."
 
 "Will it matter?" said Lira.
 
-"To the seat? No. The seat will receive it, and the clerk will speak it into the record, and the seat will turn to the next thing on its list." Karis put the volume back on its shelf. "To the record, yes. Forty-five. Somebody a long time from now will turn to the forty-fifth and find a Gold's name on it and three sentences, and wonder what on earth these proceedings were doing. That's the only court she's ever been able to appeal to. She went to it."
+"To the seat? No. The seat will receive it and the clerk will speak it into the record and the seat will turn to the next thing on its list." Karis put the volume away. "To the record, yes. Forty-five. Somebody a long time from now will turn to the forty-fifth and find a Gold's name on it and fifteen words, and wonder what these proceedings were doing. That's the only court she's ever been able to appeal to. She's gone to it."
 
-Ephram had been standing at the window with his hands in his pockets. He turned round.
+Ephram had been at the window with his hands in his pockets. He turned round.
 
-"I'll tell you what it is," he said. "It's a captain's note. When the rota's wrong and the captain can't change it, she writes one line on it, in ink, and signs it, so that whoever looks at the rota afterward knows somebody saw." He looked at Cael. "She can't change the rota either. She's signed it."
+"It's a captain's note," he said. "When the rota's wrong and the captain can't change it, she writes one line on it in ink and signs it, so whoever looks at the rota afterward knows somebody saw." He looked at Cael. "She can't change this rota either. She's signed it."
 
 ---
 
@@ -94,15 +96,15 @@ He thought back. The wing had always had district post. The provision's hours we
 
 He did not say anything. Seln did not say anything. Seln laid another grey seal on Bracken's pile, at exactly the pace he had laid the last one.
 
-Near the bottom of the bag, Seln took out a letter in a narrow cream envelope with no seal on it at all, only a fold, and read its address, and laid it on top of the bundle in Cael's hand without once looking at it, or at him.
+When the bag was nearly empty Cael felt the bundle in his hand grow heavier by one letter, and looked down. Seln had laid it there face down, without a glance, and gone on.
 
-Cael knew the hand. He had seen it once before, filling the box on a challenge form at Norhold, upright and unhurried, with one word in the space where other people had written two.
+It had no seal. That was the first thing he noticed: only a fold, tucked in on itself. He turned it over. The address was in a clear upright hand that did not hurry, and he had seen that hand once before, at Norhold, filling in the box on a challenge form where other people had written two words, and writing one.
 
 "Thank you," he said.
 
 "Mm," said Seln, and took out the next letter.
 
-He read it at the window of his room, because letters lived at windows, with the light coming up grey over the river and the fountain not yet running in the court below.
+He read it first standing at the end of the sorting bench, among the piles, before he had properly decided to open it. He read it again on the stair. Then he took it to the window of his room, where letters were read in that house, with the light coming up grey over the river and the fountain not yet running in the court below, and read it twice more there.
 
 *They did this to me the other way — built the ladder to my height and called it fairness. Nobody files challenges against a favorite. Don't mistake what's happening to you for procedure. It stopped being procedure the day they couldn't score you.*
 
@@ -110,9 +112,9 @@ He read it at the window of his room, because letters lived at windows, with the
 
 *The rematch stands. Keep yourself unclassified.*
 
-He read it four times. Four was the number of times he read the letters that mattered, and he had not decided that it should be; it had simply turned out, over the years, that the ones that mattered took four.
+Four lines, in the same hand as *Overdue*, and not one word in them meant to make him feel better.
 
-There was no comfort in it. She had not written to comfort him, and he would have thought less of her if she had. She had written to tell him what was true, from the one place on the continent where it could be seen from the other side. Every instrument on the continent had read Daeva. Every one of them had found her exactly, and early, and had said so in figures, and the whole machine had been rearranged around her before she was old enough to know it was being done. She had been measured and loved for it. He had been measured and found to be a blank. And she was telling him, in two lines, that from where she stood the two things looked like the same thing with its face turned round.
+He found he liked her for that more than for anything. Every frame on the continent had read Daeva, early and exactly, and put her figures on every board, and arranged itself round her before she was old enough to see it happening; the machine had looked at her and loved what it saw. It had looked at him and seen a blank. He had always thought of those as opposites. She was telling him, from the far end of the same machine, that they were one thing seen from two sides.
 
 The ladder built to her height. He thought of the Concourse, the procession in seeding order, forty riders placed to be read from the pavement in the best light. He thought of her at a hundred yards, the first time, giving nobody anything to read at all.
 
@@ -122,11 +124,9 @@ He sat with it until the court below had begun to fill.
 
 Then he opened Hesk's book and wrote, because a thing that had been read four times needed to be put somewhere.
 
-*Daeva's private letter, the morning after her public one. The public one was for the record. This one is for me.*
+*Two documents from her in two days. The one with fifteen words was for the seat. The one with four lines is for me.*
 
-*Of everyone the system has ever been fond of, she's the one who has added up what the fondness cost. She's had all of it since her first frame. She is telling me not to take it for kindness when it turns the other way.*
-
-*Keep yourself unclassified. She means it as an order, not a joke. That's a strategy. Filed.*
+*Keep yourself unclassified. Coming from anybody else it would be a joke. She's the only person who's been classified all the way to the top and lived up there, and she's telling me what the view is like. That's a strategy. Filed.*
 
 Then he put it where it belonged, which was what *filed* had always meant in this book. He took the old volume down from the shelf over the sill, the full one, whose last line he had written on the ferry coming home from Norhold, and opened its front board. Behind it lay the letters he had kept: Hesk's reply, and Hesk's others, and Vell's from the ends of the years, in her ledger-keeper's hand. He slid Daeva's in among them. Hesk, who had made instruments all his life and trusted none he had not tested. Vell, who had kept honest figures in a cold yard when nobody paid her to. Daeva, whom every instrument on the continent had loved. Not one of the three had ever met another. He thought, squaring the letters against the spine, that they would get on, and that it would be frightening to be in the room when they did. He closed the board on them.
 
@@ -134,17 +134,17 @@ Then he put it where it belonged, which was what *filed* had always meant in thi
 
 Lira found him on the rail of the Crown yard's top tier that evening, with the sun going down behind the north range and the yard empty below.
 
-She had been under the lamps all afternoon. He could see it on her: the slight squint she had come out with, as if the dusk were too bright, and the way she held her head a little forward, the way people do who have been looking hard at something in a poor light. She leaned on the rail beside him and looked at the yard for a long time before she spoke, and when she spoke she came at it sideways, which was how she came at everything she cared about.
+She had been under the lamps all afternoon, and had come out of them squinting as if the dusk were too bright, with her head held a little forward like somebody still peering at a thing in poor light.
 
-"Zerin told me *Silver bracket, next cycle*," she said. "At a board. In front of her whole house. And then she turned round and walked off, and didn't look back to see if I'd heard."
+"Everybody at supper last night thought she'd taken your side," she said, before she had properly arrived at the rail. "The first-years. Half the cohort. *Daeva stands up for him.*" She leaned her elbows on the rail. "She didn't. That isn't what fifteen words on the seat's own paper is for. That's a card nailed to a wall, saying where she'll be standing when all this is over, so no office can ever say afterward it didn't know."
 
-"I remember."
+"You sound sure."
 
-"I've been building toward it since. Every drill. Every morning." She put her chin on her folded arms on the rail. "It's not a challenge, what she said. People think it was. It wasn't. A challenge is *I'll fight you*. That was *I'll be there*. It's telling you where somebody's going to be standing, and leaving it to you whether you come." She was quiet a moment. "It's the most useful thing anybody ever said to me, and it was four words, and I don't think she meant to be kind."
+"Somebody did it to me." She rested her chin on her crossed arms. "At a board, in front of her whole house. *Silver bracket, next cycle.* Then she turned round and walked off without looking back to see if I'd heard. People called it a challenge. It wasn't. A challenge is *I'll fight you*. That was *I'll be there*." She was quiet a while. "It's the most useful thing anybody's ever said to me. Four words. I don't think Zerin meant it kindly, and I don't think she cared whether it was kind."
 
-"Daeva."
+"And Daeva?"
 
-"Daeva's said it to you. Only she said it to the whole registry at the same time, on its own paper, with her rank under it." She lifted her head. "*Classify the instruments.* People will read that as her taking your side. It isn't. It's her nailing a card to the wall that says where she'll stand when this is over, so that no office can ever say afterward it didn't know." She pushed herself upright. "Auremont turns out strange ones. Good strange, one or two."
+"Same house, isn't it. Auremont." Lira pushed herself upright. "They turn out strange ones. Good strange, one or two."
 
 They watched the porter come out into the yard below with his long-handled brush and begin to sweep the oak, in long even strokes, from the north end.
 
@@ -157,6 +157,16 @@ They watched the porter come out into the yard below with his long-handled brush
 "Not yet."
 
 Lira nodded, as if that were a perfectly good answer, which from her it was. "Then tell me when it's yours to tell," she said, and went down the tier steps two at a time, and he heard her stop at the bottom and say something to the porter that made him laugh.
+
+That night the lantern was lit on the second floor again.
+
+Cael saw it from the court on his way in, one low light behind the middle roof's windows, and went up the stair as far as the rail by the door. Brom was at the old striking frame at the north end, alone. He was not running the long sequence he ran before a road. He was hitting the padded post, over and over, forearm and turn and drive, at fighting pace, with the post's tired springs groaning, and he was not stopping between them the way he always stopped to reset. The cream envelope was in the coat he had hung on the frame's corner; Cael could see the square of it against the cloth.
+
+After a while Ephram came up the other stair with his kit. He looked at Brom for a moment from the doorway. He did not say anything. He went to the frame beside Brom's, the one he had used every evening of the week before the first sitting, and set his feet, and began his entry line, the cut along it, the recovery, at the same pace as Brom's, a hair apart, keeping time.
+
+Neither of them looked at the other. After a quarter of an hour Brom slowed, and then stopped, and stood with his forearms hanging and his breath going, and Ephram stopped too, at the same moment, as if they had agreed it. Brom took his coat down off the frame and put it on, and his hand went to the left side of it and rested there, and then he went down the stair. Ephram stayed, and trimmed the lantern, and did not put it out.
+
+Cael went down by the other stair and did not write it in the column. It was not a cost. He did not know yet what it was.
 
 ---
 

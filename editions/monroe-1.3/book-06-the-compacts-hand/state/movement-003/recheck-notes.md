@@ -1,0 +1,14 @@
+Additional scope for this recheck (coordinator):
+- SOURCE DISTANCE IS THE PRIMARY CHECK. The pre-repair text failed a side-by-side source-distance read: 136 tracked passages, tabled in state/movement-003/source-tracking.md. Ch14, ch19 and ch20 scenes 2–6 were redrafted whole; ch15–18 were mostly redrafted scene by scene.
+  - For each tabled passage, decide whether its source content and order now survive in the current text (RESOLVED / STILL TRACKING), working side by side with the source chapters books/book-06-the-compacts-hand/chapters/chapter-05.md … chapter-08.md.
+  - Also look for NEW tracking introduced by the redraft.
+  - Give counts per chapter. If more than a handful remain, the verdict is SECOND REPAIR, scoped to those passages.
+- Check the Velmere day-45 letter: it stays SEALED, in Brom's left pocket, carried visibly through ch18–20, and is consistent with BOOK_MAP §4e #10 for M7.
+- Check that Seln is NOT told why Shadow was sealed. That reveal is the edition's M6.
+- Check the new canon from the repair for contradictions with Books 4–5 and the B6 ledger:
+  - Cael writes back to Hesk by Bracken's pouch;
+  - Gault's minute line on the four observers;
+  - Brom and Ephram at the frames without speaking;
+  - the ferry watcher looking at the document cases;
+  - Vastin striking a refusal in the old form.
+- Length is 31,667 words against about 34,000. Judge only whether anything a reader needs is missing.

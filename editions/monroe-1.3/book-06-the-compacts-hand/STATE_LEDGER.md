@@ -553,3 +553,118 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 **Coordinator correction (2026-10-10).** Seln learns why Shadow was sealed in SOURCE Ch15 (The Cache), which is the edition's MOVEMENT 6 (BOOK_MAP §3 item 15, §6, §9) — not in M3. Until M6 he does not know a sealed thing exists.
 
 **Movement 2 CLOSED (2026-10-10).** Recheck r1 (fresh Opus seat): SECOND REPAIR bounded to P2 (18 tracked passages) + 9 line fixes applied — including Havel's looks to B4 ch54:81: the Ardenmere pump step, two at Greyvane, the third look on the oak (this SUPERSEDES the r1 brief's "his looks total four"; he will not give himself another); the Log for the evaluation day ends on *wondering*; one guild would not let Lira in the door; the boards move ahead of the Force stamp. Repair r2 re-composed all 18. Sol recheck r2: CLOSE WITH LINE FIXES — six applied (ch10/ch13 pronouns named Cael; ch11 the old notes' remedies carry visiting officers' clearances; ch13 "not seen him since the side door"; ch13 the junior receipted both lists and the senior chair's minute went up under the hood and came back initialled — the seat did NOT initial the receipt leaf). Seln's step line now: "The office has written that kind of minute. Not that one. Others like it." (to Cael alone). 28,591 words. Overlap 0/10, gates 0, probe 1%/8%.
+
+
+## AFTER MOVEMENT 3 — chapters 14–20 (drafted 2026-10-10, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- Calendar: Vastin's petition day 41; the seat refuses day 44 (the house hears from the counsel day 44); Vastin receives the refusal day 45; sittings day 47 and day 54; the inventory named day 49 (the last day of its sixth week from service, day 8). Daeva's statement set aside at the THIRD sitting.
+- SELN is NOT told why Shadow was sealed — that is source Ch15, the edition's M6 (coordinator correction 2026-10-10). Until M6 he does not know a sealed thing exists.
+- THE VELMERE LETTER (day 45) stays SEALED: Brom pockets it unopened (left pocket), carried visibly through ch18–20; it is BOOK_MAP §4e #10's unopened letter for M7. The table keeps its agreement not to ask.
+- New canon: a gallery over wing three's west door; Rooke shuts the program floor to observers from day 46 (and chains the gallery stair before the visitors); a burst spent small can pass for a step; the Ostrand fee office seals archive requests and queries standing; the gate lodge's road column "since the year of the thieves"; under lamps the lane's dust casts a shadow Lira learns to read; Hesk's surveyor's-level story (no lesson drawn aloud); Cael writes back to Hesk by Bracken's pouch (Seln's advice); Gault's minute line on the four observers; Brom and Ephram at the old frames without speaking; at the ferry one watcher looks at the house's document cases, not at Cael; Vastin strikes a refusal of his own in the old form and rewrites it with a citation.
+- The pamphlet market: Ostrand plus three other towns — four in all.
+- Ch20: the private floor (new scene) opens the chapter; the hearing carries two Cael-level orientation beats; the ruling: "*Valid: held. To proceed: held. Both.*"
+- Length 31,667 words (M3 budget ~34,000); book first third ~91,000 against ~99,000 — running short; not padded.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names; feet and yards. Day 41 Sixth-day: Vastin's courtesy copy; his petition by that noon's dispatch. Day 43 First-day: the northern junior's file. **Day 44 Second-day**: the seat refuses the petition in the morning; the assistant's market errand; the counsel brings the refusal up at dusk (the house knows a day before Vastin). **Day 45 Third-day**: Vastin receives the denial (the fourth morning) and writes the finding that night; Bracken's baskets; Gault's notice; the correspondent and Rooke; the visitors' log; the piles; a Velmere letter (sealed, r1); the fee office's query; the column filled. **Day 46 Fourth-day**: wing three under the gallery (moved from the Fifth-day for the sitting); Rooke closes the program floor; Umber's transmission. **Day 47 Fifth-day: second sitting** (the exhibits, fifty-one minutes); the release to the faculties; Daeva's statement walked up at supper. **Day 48**: Daeva's letter in the post-room sort; Lira at the rail. **Day 49 Seventh-day** (last day of the inventory's sixth week): the lodge book; "holding a road"; the four queries and the Ternhall letter at supper; Hesk's letter; pre-restriction inventory named; Withrow's story. **Day 51 Second-day**: the honest floor. **Day 54 Fifth-day: the third sitting, the preliminary** — sustained on validity, sustained to full proceedings. Lira's first road meet is day ~63. Brom's panel and the ruling share the year's last Fifth-day.
+
+**Bodies.**
+- **Cael:** left forearm bruised from the Current's first-exchange strike (day 46), throbbing that day; not carried as an injury after. One lane on day 51 (ten counts). No other harm.
+- **Lira:** fit; trains under lamps since day 46; knocked down once by a lane (no injury). Left arm carried close from habit only.
+- **Brom, Karis, Seln, Ephram:** fit. The post porter's left shoulder strapped (a crate, day 46 or before); Seln does the morning sort.
+
+**Knowledge.**
+- **Cael and the circle:** Vastin petitioned for standing and was refused in two sentences without citation (the circle has the sentences verbatim from the counsel; they do not know of his finding, his candle or his drawer). The two old provisions. Umber's covering note. Daeva's statement (public) — and her private letter (Cael only; Lira knows a letter came, not its text). The four queries and the fifth (Denvash). Pre-restriction inventory: nine weeks, in the sixth on day 49. Withrow's haulier and the nine headings. The coats now hold the road. The preliminary's ruling and Ilsev's minuted scope. Nothing about falsification, the sub-layer, a maker, [UNBOUND] or Tide. The returns' wording still unknown. Cael knows nothing of Havel's note.
+- **Seln:** has still **not** been told why Shadow is sealed (see owner flag 1). He knows what he has always known; he has watched Cael learn the lodge book and the post sort.
+- **Vastin:** the courtesy copy, his own sentence adopted, the denial; the finding written and filed to no one; the northern junior's file kept in *held*, unnamed. Nothing of the cache, the mechanism or any sub-layer. He does not know the house heard of the denial before he did.
+- **Ephram:** the visitors' bout's figure; that four strangers agree with his chart; nothing else new.
+- **Withrow, Bracken, the counsel:** all of the above that reaches the house; Withrow has the Hesk letter's contents.
+- **Ilsev:** empanelled; her scope minuted. Nothing new.
+- **Havel:** at the junior chair on days 47 and 54; does not look. No sixth sheet.
+
+**Resources.**
+- **Hesk's book:** the column now has lines under Lira (the gallery log; the floor shut; "she says it's fine"; the file read *for completeness*, per her request on day 49), Brom (the Velmere letter) and Karis (the fee office's query; the assistant on the covered walk); **his own name still blank**. Log entries: the weekly question; Withrow's mercy; the order wrong; the dullest hour; the oak; Daeva filed; the line he can't find; the honest floor; counting doors.
+- **The old volume** (full): Daeva's letter now behind its front board with Hesk's letters and Vell's.
+- **Hesk's newest letter** (the surveyor's level; the dog; the protected paragraph).
+- **Karis's notebook:** five offices, dated, ruled under; the ninth heading.
+- **Karis's slip** *Both.* in Brom's right inside pocket. Brom's left pocket: summons, docket, confirmation, the Velmere letters (M2's opened day 33; **the day-45 letter still SEALED**, carried to M7 — r1).
+- **The assistant's four market sheets** and the spare woodcut (hers).
+- **Lira's three piles**, kept in her trunk by pile and date; the schoolroom letter on top of the kind pile.
+- **Ephram's confiscated weekly** in the captain's file; his chart with *gave her the first, bad arm*.
+- **Bracken's daybook** (post counts; the three faculty releases).
+- **The east hall** shut to observers by Rooke's order (chain, card, shutters); the program drills under lamps; the visitors' ledger kept with *none*.
+- **Seln's case:** not mentioned aloud (still on the shelf above the copying table). The five beans.
+
+**Fragments and progression.**
+- Seven confirmed; the anomaly not touched. **No new fragment.**
+- Deployments: public — the band in wing three (day 46: two bursts, the second spent small; one spark; the give shut). Private — the honest floor (day 51: Wind to six on boards; the give opened; one lane, ten counts). Shadow never used, never mentioned.
+- The managed band held in front of four outside houses; figure **22⅔**.
+- Lira: no rated bout in M3; lamp-drilling; the lane-by-shadow reading (private).
+
+**Relationships (on the page).**
+- **Lira:** proud of "her scouts", then not; "Put it in your column"; the lamps — "It makes it mine"; Zerin's card; "Then tell me when it's yours to tell"; the bean and the day after.
+- **Brom:** the quire arithmetic; the stair reading of Seln; "It's a good circle"; the Velmere letter pocketed sealed (r1); the estate's ledger; "Said."; holds the slip.
+- **Karis:** the printer for Cael's notebook; the two provisions; "That's twice"; the empty line; the ninth heading; the assistant ("Do it like that for a year"); the card and the cards; *Both.*
+- **Seln:** "They benched…"; "You may hold that"; "The lodge. Bring nothing."; the held "Mm"; the beans; walking the fences; the final line.
+- **Ephram:** the confiscated woodcut; "You're a case"; the chart that agrees; the captain's note.
+- **Withrow:** form thirty and the mercy; *choosing* twice; the library; the flour sack; dearer tonight.
+- **Bracken:** the baskets; leaves his counter; "Never. Not at Gold."; four marks.
+- **Rooke:** one sentence to the correspondent; at the east rail; the chain.
+- **The counsel:** "Its absence is a finding"; the steel rule's quarter turns; the fifth point; Jent on the steps.
+- **The assistant:** the market sheets; the mistake paid for; "boring"; back up the stair.
+- **Vastin and his clerk:** the stopped pen; the candle; "Later than usual. But yes."
+
+**Proceedings.**
+- **Second sitting (day 47):** exhibits — the house's 173 items read in fifty-one minutes, unopposed; Jent enters the adjudication office's referred file with Umber's covering note (read into the minute).
+- **Daeva's statement** filed at the seat (day 46), received; read into the minute at the third sitting under *statements entered* and set aside.
+- **Vastin's petition for standing** (day 41) refused by the seat (day 44) in two sentences without citation.
+- **Third sitting, the preliminary (day 54):** the evaluation seat constituted, Ilsev presiding with four district evaluators; Jent's petition (concessions; four points; the overstatement struck; *cognizable*); the counsel's answer in four parts (the preamble read; the ninety-one; "novel" minuted; twenty-two officers named). **Ruling: the enrollment sound, the clause law and unrepealed, the record whole, the house within its charter; notwithstanding, the integrity question cognizable within the registry's discretion; sustained to full proceedings; compelled re-evaluation to be argued on the merits and ruled on before the academic year closes.** Ilsev's scope minuted: the conduct of any re-evaluation, not its outcome, and not whether the protocol can read this practitioner.
+- File designations unchanged. The inventory (unserved, unnamed on any paper) runs to about day 70.
+
+**Open threads.**
+- **Opened:** the column's blank fourth line; the empty-then-filled fifth line; the closed program floor and the lamps; Lira's lane-by-shadow; Vastin's drawer (*Pending…*); the northern junior's copy in *held* (plant for M6); Karis's slip *Both.*; the printer's presses.
+- **Advanced:** Lira's ladder (no bout; the meet nine days off); Brom's Velmere (another letter; his family's file queried); Karis's standing (queried twice); the watchers (holding the road); Seln's method (shown); Withrow's *choosing* (dearer); the first pole (cracking).
+- **Closed:** the second and third sittings; Vastin's petition; Daeva's statement (noted and set aside); Umber's transmission.
+- **Plants (kept at altitude):** the northern junior's Kindling file that runs ahead of its station entry (Vastin cannot say why it stays; M6 pays it). Hesk's surveyor's level, set back a hair wrong because the whole valley agrees with it (a metaphor only; no one draws a lesson aloud). Neither names falsification, a maker or an age.
+
+**Prose vs plan differences.**
+- (a) **Seln is not told why Shadow was sealed** (owner flag 1).
+- (b) Vastin's room is in the Compact's house (B5's "two days from Norhold by the post road"), not at Norhold itself; no distances stated. His four supplementary findings are given nearest-first.
+- (c) The house hears of the denial (day 44) before Vastin receives it (day 45) — a new beat that keeps the spine's order (Halcenvane hears before the second sitting) inside the coordinator's calendar.
+- (d) Daeva's statement is set aside at the **third** sitting, not the second, so that the second sitting's fifty-one minutes stays an exhibits morning and the statement's rhyme with Vastin lands in the same room as the ruling.
+- (e) The Seln circuit is walked on days 48 (post sort) and 49 (lodge), and the four queries, Hesk's letter, the inventory and Withrow's story all fall on day 49, so the inventory is named inside its sixth week. The source's "four days" between the queries and Hesk's letter became two hours.
+- (f) The wing-three bout is on the Fourth-day (sitting week).
+- (g) A new honest-floor scene opens ch20 (not in the packet) to give the movement a second body after the visitors' bout and to pay Lira's lost light.
+- (h) The column (M2) is filled on page; Cael's own name stays blank throughout.
+- (i) Vastin's cutaway is ~5,100 words (the packet's ~5k).
+
+## New canon minted (flag where marked)
+
+- **Vastin's room (flag, minor):** the porter feeds the pigeons from the same half-circle; a **letter-book** of fair copies of everything that left the room in nineteen years; the lowest drawer at the far end of the cabinet of shallow drawers holds what is his; the floor's lamps go out at the half-bell after six (the house's rule); the candle on the consumables under his name.
+- **Vastin's clerk (flag):** nine years in the outer office; narrow, tidy; his one non-work sentence ("Will you be getting home tonight, sir? It's set in to rain.").
+- **Vastin's two chapter-fourteen files (flag):** a hill station keeper whose cracked housing read every Ash a rank high for six years, covered by false returns; a coastal district officer paid to enter a rank no frame had read; the second's daughter's letter answered *no*.
+- **Vastin's four supplementary findings (flag):** a district's enrollment challenge (decisive against the district, which wrote without grievance), a hill station's frame (retired on his evidence), a guild hall's matter, a sponsorship quarrel — all received.
+- **The two provisions (flag):** an evaluator who has examined the subject may lay his finding before proceedings (the old one: *shall receive*); nine recorded uses, all received (Karis's count from the digest).
+- **The northern junior's file (flag — plant):** a young evaluator from the northern district; a station Kindling entry four years old for a young woman whose shown work runs ahead of it, within tolerance; *continue observation*; Vastin keeps the copy in *held*.
+- **Withrow (flag):** "form thirty, refusals, third series" in the registry's second-year drafting book; she taught it as a mercy to every junior; her haulier: Force, Bronze Rank Four, thirty-one, guild haulage contract in a river district, wife, son and daughter, fourteen years owing; a station clerk's slip twenty years before; two silent frames; seven weeks; nine letters from four offices brought in a flour sack on the fourth day; east past the last station in eighteen months; the daughter is M1's daughter at the counter.
+- **The counsel (flag):** she heard the refusal at the long low inn on the wharf where the seat's clerks eat on sitting weeks; refused without citation "perhaps five times" in twenty-six years; turns her steel rule a quarter turn at the end of each part of an argument.
+- **Bracken's post procedure (flag):** a second trestle; four chalked boards *HOUSES. SPONSORS. FACULTIES. OTHER.*; the daily count in his counter daybook; heaviest day 196; fourteen chartered houses answered in the same two lines (text in ch16); grey-sealed seat letters carried up by hand.
+- **The gatepost board (flag):** *The house has answered the challenge in its filing. The filing is public. The house has nothing to add to it.*
+- **Rooke:** business in the town on Third-day evenings; the sentence to the correspondent; the program floor closed to observers from day 46 (shutters, chain and padlock, card *PROGRAM FLOOR CLOSED TO OBSERVERS. BY ORDER.*), the visitors' ledger kept with *none*.
+- **The visitors' log (flag):** the program clerk's second ledger from shortly after the first sitting; twenty-six names in a fortnight; four from outside houses (two Rhagen, the lake house, a northern house).
+- **Wing three's gallery (flag):** a narrow timber gallery over the west door from when wing three was the house's examination room, used to store benches until the porters cleared it for the four observers; observers enter by the lodge book.
+- **The Current third-year (flag — style):** Iron Rank Four, tall, glides "the way water goes over a weir"; two glides and a bend; adapts to straight glides, then glide-and-step.
+- **Cael's small burst (flag):** a burst spent short and low so that from above it reads as a quick step; learned this year, written only in the rotation's private margins. Consistent with the band; no new rate.
+- **The fee office (flag):** the district fee office at Ostrand seals every chartered house's request to an archive outside its district; it may query the requester's standing (a cited section); its query to Karis.
+- **The Ternhall archive keeper (flag):** an unnamed woman Karis has known since her first year; her private four-line letter.
+- **The lodge (flag):** the lodge-man (grey beard, bad knee, kept the gate since before Bracken); the wing may read the arrivals book on the Seventh-day; **the road column**, a line every bell since "the year of the thieves", on the order of the chancellor before last; the carter and the gatepost.
+- **The post room (flag):** behind the records hall's counter; the post porter (twenty years at the sort) has a strapped left shoulder; Seln does the sort.
+- **Daeva's statement header** (not protected; my text) and the Silver-and-above statement provision: forty-four recorded uses, all by Silvers, never a Gold; hers the forty-fifth.
+- **Umber's covering note** (three sentences; my text; ch17).
+- **The preliminary ruling** (two paragraphs; my text; ch20) and the empanelment line.
+- **Hesk:** the surveyor's level made for a man's father thirty years ago, set back a hair wrong at the son's request; brass a third dearer; the widow across the lane's dog. The shop's title is one district sheet in a tin box under the long bench with the receipts. As a small boy Cael slept in the shavings under the bench.
+- **Honest floor (flag):** under low lamps the lane's running dust throws a shadow on the boards, so the lane can be seen as a moving dark band; Lira reads it and bursts along its edge. No new figure (the lane's bill stays ten counts).
+- **The beans** (Seln's "A drawing can be found. Beans can be eaten.") and "walking the fences" as the monitoring office's slang for a pre-restriction inventory.

@@ -14,11 +14,7 @@ Rooke stood beside Ephram.
 
 He was not on any list for wing three. He had never come to a provision bout in the year Cael had been fighting them. He stood at the rail with his arms folded and his eyes on the gallery over the west door, and he did not look at Cael at all.
 
-Cael went to his chalk at the south end and took Hesk's book out of his coat. The line was written. He had written it the night before at the sill, as he had written one before every bout since the mill town, and he had taken longer over it than he ever had.
-
-*Fourth-day, wing three, the Current. The first exchange to her. Two bursts in the bout, no more. The spark once, and late. Buys: a figure in the low twenties and nothing at the top. Spends: the forearm, probably.*
-
-He read it once more and put the book away.
+Cael went to his chalk at the south end. He did not take Hesk's book out of his coat. The line had been written at the sill the night before, and he had it by heart.
 
 The Current came in from the south door.
 
@@ -42,7 +38,7 @@ He gave her the read.
 
 It went out under thought and came back with her weight. On the first glide she carried it in her back hip, which was right. On the second, half a beat before the bend began, her weight moved into the outside of her front foot, and he knew where the curve would end before she did.
 
-He knew something else as well. Two mornings ago, from the east hall's rail, he had watched Lira beat this exact pattern by going *along* the bend instead of across it, so that she arrived at the end of the curve before the Current did and stood there waiting. He could see the whole of it. A single burst, low, along her line; he would be standing at the end of her glide with his palm out when she got there.
+And he could see the other thing, as clearly as he had seen it at the sill: Lira's answer, one burst, low, *along* the bend instead of across it, and himself standing at the end of the curve with his palm out when the Current arrived.
 
 The book said the first exchange was hers.
 
@@ -56,11 +52,7 @@ Up in the gallery a pencil moved. He did not look. He did not need to; the read 
 
 He walked back to his chalk with the forearm ringing and set his feet.
 
-What he had to do this morning was not to fight her. It was to fight her in a way that four strangers could lay against a printed page and find exactly right: the six bursts that the house had seen on sprung oak, which on these boards meant four and never a fifth; the spark to two contacts and no further; the read that looked, from above, like good timing in a strong Iron. Rhagen had every exchange of his tournament written down and bound and for sale. The lake house had three pencils. Whatever he did in the next three exchanges would be set beside those books tonight in an inn by the river, by lamplight, line for line.
-
-And it could not match the last bout either. A record that repeated itself was a record that had been arranged. Seln had told him that across a document table a year ago, and he had built the rotation on it. So he must look like his record without looking like a copy of it, in front of people whose whole trade was telling the difference.
-
-It was like walking across a floor in another man's boots, exactly in his footprints, while that man's tailor watched from the stairs.
+Now, with the arm ringing, he felt what the line had meant when he wrote it. Every exchange from here would be read twice: once by three cards that had watched him for a year, and once again tonight, by lamplight, in an inn by the river, against a bound book of every bout he had ever fought in public. He was walking across a floor in another man's boots, exactly in his footprints, while the man's tailor watched from the stairs.
 
 "Exchange," said the clerk.
 
@@ -124,111 +116,92 @@ The Current stood a moment with her hand on her shoulder where his palm had been
 
 ---
 
-The three cards came down the trestle to Gault. He added them in his head, and again on the back of his hand, and gave the figure to the clerk.
+The four visitors came out of wing three by the west door with their boards under their arms and went across the outer court toward the east hall, to see the afternoon's Silver drills from its gallery, and at the foot of the gallery stair they found Rooke.
 
-"Twenty-two and two-thirds. Entered."
+He was on one knee on the bottom step, threading a chain through the stair's rail. It was a long chain, the kind the porters used on the cart-shed doors, and he had already run it twice round the newel post. As the four of them came up he drew the last link through, set a padlock in it, and snapped the padlock shut. Then he stood up and hung a card on the chain, square in the middle, where it would be read by anybody who came to the stair. The card was in his square capitals. *PROGRAM FLOOR CLOSED TO OBSERVERS. BY ORDER.*
 
-The clerk wrote it in the wing's book. Up in the gallery, four pencils wrote it too. Cael heard them. He walked to his chalk and picked up his coat and put it on over an arm that had begun, now that nobody was hitting it, to throb in long slow waves from the wrist to the shoulder.
+Cael saw it from the covered walk, where he had gone with his coat over his aching arm, and he stopped to watch.
 
-Ephram came down the room from the east rail with his chart open in his hand.
+The man from Rhagen who wrote things down said something courteous. Cael could not hear it, but he could see the shape of it: a visiting officer's surprise, a question about the house's custom, a slight lift of the board to show that he had signed the lodge book like everybody else. The man who did not write said nothing. The lake house officer looked at the card and then at her three pencils. The old man in the fur collar had brought his stool, and he set it down on the stones and sat on it, as if to see what would happen.
 
-"Twenty-two and two-thirds," he said. He wrote it on the line below the Blade, in the cramped square hand, and in the margin he wrote *gave her the first, bad arm*, and he did not draw a question mark beside it. He looked at the line for a moment. Then he looked up, past Cael's shoulder, at the gallery over the west door, where the man from Rhagen was writing.
+Rooke answered with one word. Cael did not hear that either, but Ephram, who had come out of wing three behind the visitors and was close enough, told him afterward what it was. It was *No.* The Rhagen man had then asked, very politely, by whose order, since the card said *by order*, and Rooke had looked at him for a while and said, "Mine," and that had been the second word. Then Rooke turned his back on them and went in at the hall's side door, and a moment later the shutters began to close along the gallery's high windows, one after another, all down the north wall, from the inside.
 
-"They've written the same number I have," he said.
+The four officers stood on the stones for a little while. Then they went away toward the gate, the old man carrying his stool.
+
+By the noon meal the whole house knew. The program would drill under lamps from now on, four of them, set on the painted floor at the corners of the crosses.
+
+It was only then, over his soup, that Cael let himself go back over the end of the bout, because the chain had come first in his mind and the figure second, and he found that he wanted to know why.
+
+Gault had added the three cards in his head, and again on the back of his hand. *Twenty-two and two-thirds. Entered.* The clerk had written it in the wing's book. Up in the gallery four pencils had written it too, and Cael had heard them. Ephram had come down the room from the east rail with the soft-folded chart and entered it below the Blade, in his cramped square hand, *gave her the first, bad arm*, and had not drawn a question mark beside it. Then he had looked up past Cael's shoulder at the man from Rhagen.
+
+"They've written the same number I have."
 
 "It's the number."
 
-"I know it's the number." Ephram folded the chart along its old creases. "I've kept this for two years and nobody has ever once agreed with me about you. Now four strangers from four houses all write down the same thing I write, in the same minute, and I find I don't like it in the least." He tucked the chart into the captain's file. "It's the first time my chart's ever been right, and I'd give a good deal to have it wrong again."
+"I know it's the number." Ephram had folded the chart along its old creases. "Two years I've kept this, and nobody's ever once agreed with me about you. Now four strangers from four houses write down what I write, in the same minute, and I find I don't like it at all." He had tucked the chart into the captain's file. "First time my chart's been right, and I'd give a good deal to have it wrong again."
 
-At the east rail, Rooke unfolded his arms.
+That was why the chain had come first. The figure was right. Ephram's chart was right. The four strangers' boards were right. It was all exactly right, and it was all going to travel down the bluff road tonight in four satchels to four houses, and be laid beside four bound books, and agree with them; and Rooke, who did not explain anything, had looked at the gallery for the whole bout and then gone and found a chain.
 
-He did not go to the trestle. He did not come down the room to Cael, or say anything to Ephram, or look again at the gallery. He walked straight out by the south door with his hands in his coat pockets, at his ordinary pace, and the cohort parted to let him through.
+Gault came out of his office into the passage behind wing three while Cael was still putting his coat on over the throbbing arm. He had the wing's book under his arm and the instrument case in his hand, and he stopped, which he did not usually do.
 
-By the noon meal the shutters on the east hall's high windows were closed, every one of them, along the whole north wall. The gallery stair had a chain across it at the foot with a padlock through the last link, and a card hung on the chain in Rooke's square capitals. *PROGRAM FLOOR CLOSED TO OBSERVERS. BY ORDER.* The afternoon drills went on below under lamps, four of them, set on the painted floor at the corners of the crosses.
+"There will be a line about observers in the minute of today's hours," he said. "I have written it. *Four officers of other houses present in the gallery, by the lodge book. The provision's demonstration conducted as on every other day.*" He looked at Cael over the case. "That second sentence is true. I wished it to be on the page in case anyone later wonders whether it was."
 
-Lira found Cael on the north wall at dusk. She was carrying her wraps in one hand and she did not have any apples.
+"Thank you, Magister."
 
-"He closed the floor," she said.
+"Don't thank me for writing down what happened." Gault shifted the case to his other hand. "That is the only thing I am for." He went on down the passage, and then, without turning round, added, "Your forearm. Put cold on it. I have written that down too."
 
-"I saw the chain."
+Lira found him on the north wall at dusk without any apples.
 
-"He didn't tell me why. He didn't tell anybody." She leaned on the wall beside him. "He told the clerk to keep writing the names. There won't be any names now, there's nobody let up the stair to write. But he told her to keep the book open anyway, every morning, and to write *none* if there are none." She looked down at the river. "So now there's a ledger with *none* in it, every day, in a closed room."
+"He's shut it," she said. "He didn't tell me why. He doesn't tell anyone why. He told the clerk to keep the book open and write *none*." She leaned on the wall. "So now there's a ledger in a closed room with *none* in it, every day."
 
 "How was it under the lamps?"
 
-"Dark." She said it without any weight at all. "Fine. The crosses are still there. I can still find them." She flexed the burst-hand. "I just can't see my heel coming any more. You can't read a lamp the way you can read a morning."
+"Dark. Fine. The crosses are still there; I can find them." She flexed her burst hand. "I just can't see my heel coming any more. You can't read a lamp the way you read a morning."
 
-He went up to his room after supper and opened Hesk's book to the column and wrote a second line under her name. *The east hall shut and shuttered, by Rooke's order, on account of who was watching me. She trains under lamps now. She says it's fine.*
+He wrote a second line under her name in the column that night. *The east hall shut and shuttered by Rooke's order, on account of who was watching me. She trains under lamps. She says it's fine.* He looked at the last three words a long while before he blotted them.
 
-He looked at the last three words for some time before he blotted them.
+There was a knock while the ink was still wet: the porter's boy, to say that Karis wanted them in the reading room, all of them, now, and that she had said *now* twice.
 
-
-A knock came while the ink was still wet. It was the porter's boy, with a message that Karis wanted them in the reading room, all of them, now, and that she had said *now* twice.
-
-She had a courtesy copy in front of her that had come up in the evening post, and a single sheet of her own beside it in the finding hand, and the look of somebody who has spent two hours with a door shut.
-
-The copy was from Norhold. Now that the proceedings had claimed the referral, the adjudication office in the west tower had sent on the whole of its file: the record of the match, the nine panel charts, and on a sheet by itself the entry Cael had last seen hung on a nail by the north tunnel, with half a city reading it over his shoulder. *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.* On top of everything lay a covering note in three sentences, signed by the Chief Adjudicator in his own hand.
+She had a courtesy copy from Norhold in front of her, and one sheet of her own beside it, and the look of someone who has spent two hours behind a shut door. The west tower's adjudication office had sent its whole referred file on to the proceedings that had claimed the referral: the record of the match; the nine panel charts; and on a sheet by itself the entry Cael had last seen hung on a nail by the north tunnel with half a city reading it over his shoulder. *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.* On top lay a covering note of three sentences, signed by the Chief Adjudicator in his own hand.
 
 *The registry having taken up this office's referral, the office sends the referred file in full, for the proceedings to use. It is the whole of the office's finding. The office has nothing to add to it, and asks that nothing be added to it in the office's name.*
 
-"This looks like bad news," said Karis, "and I want you to see that it isn't, quite."
+Cael read it and thought of the four satchels going down the hill.
 
-"It's his file," said Lira. "Going to them."
+"Another true number," he said. "Going somewhere its maker didn't send it."
 
-"It was always going to them. Think of a referral as a parcel at a post counter. When Umber's office wrote *Referred* on that sheet, it put the parcel on the counter and addressed it. When the registry took the referral up, somebody at the other end signed for it. After that the parcel isn't his. The code doesn't let him open it again to take anything out." She turned the copy so that the note faced them. "So he sent the lot, because he had to. And then he wrote three sentences on top."
+Karis looked at him sharply, and then nodded, as if he had saved her a paragraph.
 
-Brom leaned in from the doorway to read them.
+"Think of a referral as a parcel at a post counter," she said to the others. "When Umber's office wrote *Referred*, it put the parcel down and addressed it. When the registry took the referral up, somebody signed for it at the other end, and after that it isn't his. The code won't let him open it to take anything out. So he had to send every chart." She laid a finger on the note. "Then he wrote three sentences on top. The first is the form; he had no choice. The second is only true, and true things about your own file cost nothing. The third is the only sentence in the whole bundle he chose."
 
-"The first one he had to write," said Karis. "It's the form. The second one he didn't have to write, but it's only true, and a true thing about your own file costs you nothing." She put her finger under the third. "This one is the only sentence in the whole bundle that he chose."
+"*Nothing added in the office's name*," said Lira. "What does that do?"
 
-"*Nothing added to it in the office's name*," Lira read. "What does that do?"
-
-"On its own? Nothing. But a covering note has to be read aloud into the minute with whatever it covers. That's in the code, and no clerk in the land would dare skip it." Karis sat back. "So when Jent enters this file, the clerk will stand up and read Umber's three sentences into the record, and the third will go in with the rest. They can have his charts. They can have his entry. They can wave both at the seat for the rest of the year. What they can't do is say Umber meant anything by them except what's written on the sheet."
+"On its own, nothing. But a covering note has to be read aloud into the minute with whatever it covers, and no clerk alive would dare skip it. So when Jent enters this file, the third sentence goes into the record with it." Karis sat back. "They can have his charts. They can wave his entry at the seat all year. They can never say Umber meant anything by it but what's written on the sheet."
 
 "It's a man saying *not me*," said Brom.
 
-"It's a man saying *not in my name*." Karis folded her own sheet in half. "That's better. *Not me* is a feeling. *Not in my name* is on paper, under a signature, in a minute that will be kept for as long as the registry keeps anything." She stood up. "It's the only lever he had left. He pulled it as far as it would go."
-
-When the others had gone up, Cael stayed at the window with the copy, and read the third sentence over until the light went out of the glass.
-
-There was a thing he had been carrying for days, about the honest men. He could feel it starting to take a shape.
+"It's a man saying *not in my name*. That's better. *Not me* is a feeling. *Not in my name* is under a signature, in a minute, for as long as the registry keeps anything." She folded her sheet. "He had one lever left, and he leaned on it with all his weight."
 
 ---
 
-The second sitting at Ostrand was what the code called an exhibits sitting: a morning on which the record was built and nothing whatever was decided.
+By the fortieth minute a third of the gallery had gone somewhere else behind its eyes.
 
-They went down in the coach at first light behind Withrow's carriage, as they went down to everything. There were more people on the wool exchange's steps than the first time, and more folding boards among them. Inside, the benches were full to the back rail, with a row standing behind it. The hood was in its seat. The hands lay on the bench in front of the hood. At the records table, at the junior chair, the officer with the careful face was squaring a clean leaf to the table's edge, and did not look toward the house's table that morning any more than he had the first time.
+Cael noticed it before he noticed anything else about the second sitting, because he had been watching the benches instead of the clerk for some while by then. Halfway along the second row a correspondent had laid his board on the bench beside him and folded his arms and shut his eyes. At the back a woman in a market shawl had got out a half-knitted stocking. Two clerks from the river guild were playing some game on their knees with a stub of pencil and a scrap of paper. Nobody was angry and nobody had stopped believing anything. They had come down the market street to see a case and somebody was reading them an inventory. At the front benches not one pencil had moved for nine minutes.
 
-The house's counsel rose with her steel rule in her hand and asked that the respondent's exhibits be entered into the minute in their order.
+He looked down at his knee, where his own pencil had been keeping the tally under the table, a stroke for each item and a figure for each minute, and read backward what the room had stopped listening to.
 
-Then the clerk began to read them in.
+It was the house's exhibits, all of them, read into the minute by the seat's clerk in the order the counsel had asked, each with its number, title, date, where it came from and its line of receipt. The clerk had one pace and kept it for everything. A short item, eight or nine seconds; one with a certifying officer's line to recite, twenty or a little more. Bracken's index to the enrollment file, with Bracken's name in its certifying line: fourteen strokes' worth. The Greyvane ruling, the hearing that had kept Cael on his feet in a city he had never wanted to see: twenty-one. Karis's renewals table, rebuilt in a single silent hour with two dates on every row: eleven. The integrity section, forty pages, a night without sleep, ninety-one invocations each traced by hand to its own page: eight seconds. Its title had taken longer than its reading.
 
-A seat's clerk has one pace, and keeps it for a staffing note and a ruling alike. For each item he gave the number, the title, the date, where it came from, and the line of receipt. A short item took him eight or nine seconds. An item with a certifying officer's line to recite took twenty, or a little more. Cael had nothing in that room he was allowed to measure except time, so he measured time.
+And in among the strokes, a mark he had made when Jent rose, the only time Jent rose all morning, to enter one exhibit of his own by its number: the file from Norhold. The clerk had read the covering note into the minute with it, all three sentences, in the registry voice, exactly as Karis had said he would. Cael had watched the third one go into the record. *Asks that nothing be added to it in the office's name.* The hood had received it, as it received everything. Jent had sat down.
 
-Bracken's index to the enrollment file, with Bracken's name in its certifying line: fourteen seconds. The ruling at Greyvane, the hearing that had kept him on his feet in a city he had never wanted to see: twenty-one. Karis's renewals table, rebuilt in a single silent hour with two dates on every row: eleven. The answer's integrity section, forty pages, the night she had not slept, the ninety-one invocations each traced to its own page in the record by her own hand: eight seconds. The title was longer than the reading.
+When the clerk read the last number and its line of receipt, Cael had the total on his knee before the senior chair did. A hundred and seventy-three items. Fifty-one minutes and a little over. All of it unopposed. Not one word disputed by any person in the room, because Jent had conceded in writing before the first sitting that every exhibit was what it said it was.
 
-He kept a running sum on his knee under the table, in pencil, a stroke for every item and a figure for every minute.
+He thought of that morning, early, at Bracken's counter, before the coach went down. Three faculties of registry law had written to ask for the house's answer entire, to teach from, and Withrow had come down to sign the releases, and Bracken had objected, mildly, as a registrar objects to anything that has not happened before: a respondent's filing was the respondent's, he said, and three faculties holding it would mean three lecture rooms full of opinions by the month's end.
 
-When the clerk read the last number and its line of receipt, Cael had the total before the senior chair did. A hundred and seventy-three items. Fifty-one minutes and a little over. Everything the house had been able to prove about him, laid into a room at a clerk's even pace, and not one word of it disputed by any person present.
+"Good," Withrow had said, with the pen already in her hand. "Let them have opinions. Karis built a perfect filing, and Jent admitted as much on the record in front of a seat. If the only people who ever read it are a seat and its clerk, the house has wasted the best work it ever paid for." She had signed the second, and the third. "Bracken, a seat can set aside a petition. It can set aside an Archmarshal. In four hundred years no seat has managed to set aside a library."
 
-Jent did not object to anything. There was nothing in it he wished to object to; he had conceded in writing, before the first sitting, that every exhibit was what it said it was. He rose once, near the end, to enter a single exhibit of his own, by its number: the adjudication office's file from Norhold. The clerk read the covering note into the minute, all three sentences, in the registry voice, as Karis had said he would. The hood received it. Jent sat down.
+Now, looking at the correspondent asleep on the second bench, Cael understood what she had been buying. Not readers for the room. Readers for afterward.
 
-Somewhere past the half hour, Cael gave up timing the clerk and began timing the benches.
+*They read the whole truth about me into the record this morning,* he wrote that night, *and nobody stood up to argue with a word of it, and a third of the room went to sleep. It was the dullest hour of the year.*
 
-Halfway along the second row a correspondent laid his board on the bench beside him and folded his arms and shut his eyes. At the back, a woman in a market shawl took out a half-knitted stocking. Two clerks from the river guild were playing some game on their knees with a stub of pencil and a scrap of paper. Nobody was angry. Nobody had stopped believing anything. They had come down the market street to see a case and somebody was reading them an inventory, and by the fortieth minute a third of the room had quietly gone somewhere else behind its own eyes. For nine minutes together not one pencil moved at the front benches.
-
-He wrote the session down that night in two sentences. *They read the whole truth about me into the record this morning and nobody stood up to argue with any of it. It was the dullest hour of the year.*
-
-In the afternoon, on the hill, there was a small dispute at Bracken's counter.
-
-Three faculties of registry law had written to ask for the house's answer entire, to teach from. Withrow came down to sign the releases. Bracken objected, mildly, in the way a registrar objects to anything that has not happened before: a respondent's filing belonged to the respondent, he said, and three faculties holding copies would mean three lecture rooms full of opinions by the end of the month.
-
-"Good," said Withrow. She had the pen already. "Let them have opinions. Karis built a perfect filing, and Jent admitted as much on the record before a seat." She signed the first release and blotted it. "If the only people who ever read it are a seat and its clerk, the house has wasted the best piece of work it ever paid for." She signed the second. "Bracken, a seat can set aside a petition. It can set aside an Archmarshal. It has never once in four hundred years managed to set aside a library." She signed the third, and handed all three to the courier herself. "That's the only room I know of where a seat's discretion doesn't follow you in."
-
-Bracken said nothing more. He entered the three releases in his daybook in his small upright hand, and underlined the date.
-
-*Here's the thing I've been carrying, with a shape on it at last.*
-
-*Umber wrote the truest line anyone has ever written about me, and to judge by the word they chose, somebody sat up all night turning down a prettier one. The Archmarshal sat four feet from me for a day and set down only what his instruments said, and then asked to give the seat his finding and was told there was no room. Ilsev takes every question she can't answer up the proper channel with the proper citation, because that's what a proper channel is for. None of them told a single lie. This morning the clerk read Umber's file into the minute, and it went in on the petitioner's side.*
-
-*It isn't that the honest men keep losing. It's that the machine burns honest reports the way a stove burns seasoned oak: steadier and hotter than anything else you could feed it. A lie would smoke and give the house away. The truth just burns.*
+*Umber's line, the truest anyone ever wrote about me, went in on the petitioner's side. So will the Archmarshal's three sentences, and Ilsev's questions, sent up the proper channel with the proper citations. None of them told a lie. I keep waiting for the honest men to lose an argument, and they never do; they just keep being used. The machine burns honest reports the way a stove burns seasoned oak, steadier and hotter than anything else you could feed it. A lie would smoke and give the house away. The truth just burns.*
