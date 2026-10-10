@@ -24,7 +24,7 @@ Lira came out of the residence door with her kit on her back and her sash alread
 
 The confluence was two days north of Ostrand, and they spent most of both of them on roads that went along rivers.
 
-Karis drafted in the coach. She had the fourth sitting's papers in a document wallet on her knees and a board across the wallet, and she wrote on the board in pencil when the road was rough and in ink when it was smooth, and once, on a long straight stretch above the water meadows, she stopped drafting altogether and took a plain card out of the wallet's back.
+Karis drafted in the coach. She had the fourth sitting's papers in a document wallet on her knees and a board across the wallet. She wrote on the board in pencil when the road was rough and in ink when it was smooth, and once, on a long straight stretch above the water meadows, she stopped drafting altogether and took a plain card out of the wallet's back.
 
 It was the kind of card she used for questions she meant a seat to hear. It had one line on it. Cael could read most things upside down by now, and he could not read this, because she had written it very small and kept the heel of her hand across it. He watched her strike one word in the line and write another above it. Then she struck that one too. She changed the same word four times, while the coach went the whole length of the meadows, and the fourth time she left it. She saw him watching. She did not hide the card. She turned it face down on the board and went back to the draft, and he understood that he had been allowed to know there was a question, and nothing else.
 
@@ -134,7 +134,7 @@ Rooke had built it at the end of the inn's long back table when the plates had g
 
 He put one finger on the heel.
 
-"The fourth. If you're still on your feet in the fourth, he'll stop building for you altogether. He'll stand on what he's already made and give you nothing new to break. You'll have to beat him to his own stamp. You probably won't." He moved the finger down to the slice beneath. "The third, he'll move you. I don't know how. Somewhere you don't want to be, without you feeling it happen. That one's his whatever you do." He moved it again, to the table, where the bottom slice had been. "The second is the exam. Since the recess I've been building your mornings toward one exchange, and that's it. That's where I find out if I've taught you a way to fight or a way to look busy at dawn."
+"The fourth. If you're still on your feet in the fourth, he'll stop building for you altogether. He'll stand on what he's already made and give you nothing new to break. You'll have to beat him to his own stamp. You probably won't." He moved the finger down to the slice beneath. "The third, he'll move you. I don't know how. Somewhere you don't want to be, without you feeling it happen. That one's his whatever you do." He moved it again, to the bare table where the bottom slice had been, and left it there and said nothing about the second at all.
 
 "And the first?"
 
@@ -144,9 +144,11 @@ Lira took the slice back off his plate without asking and began to build the sta
 
 "One," said Rooke, as the second slice went down. "Two." She lifted the heel. "Three." She held it. "Four." She set it down on top. "Now it bears. Before four he's laid a promise. After four he's standing on a floor. Eleven years of his sheets, and that count hasn't shifted once."
 
-"So I go before four."
+Lira looked at the stack. Then she lifted the heel off it again and held it in the air, and said "Two," and with her other hand pushed the two slices under it sideways across the table into the salt before the heel could come down.
 
-"In the second. Not the first. In the first you go nowhere near it."
+"There," she said.
+
+Rooke looked at the bread in the salt for a moment. "That one's the second exchange," he said. "Don't you dare do it in the first."
 
 The Stone had been sitting at the table's other end with his hands folded on his stomach, as he sat at the program's trestle every morning. He leaned forward.
 

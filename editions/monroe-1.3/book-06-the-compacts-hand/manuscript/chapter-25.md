@@ -12,37 +12,31 @@ At the end of all those faces, coming along the inside of the north benches betw
 
 He carried a document case in front of his chest in both hands, as a verger carries a book in a procession, so that you saw the case before you saw the man. A clerk walked a pace behind him with nothing in his hands at all. He came at a slow even walk that did not hurry and did not linger, past the river academy's row, whose fighters were looking at their knees, and stopped in front of the house's bench under the square banner, and bowed to the Chancellor at the registry's exact depth.
 
-Bracken was on his feet before the bow had finished.
+Then the house's bench stood up, all of it, and Cael was behind Brom's shoulders and could see nothing at all. On the floor the Current girl and the Mire went on with their bout for perhaps a dozen people.
 
-Cael could not see the paper. He could see Bracken's back, standing, and the registrar's head bent at his reading angle, quite still, for a long time, while the officer waited with his hands folded and his clerk waited behind him and the house's bench, one by one, stood up too, without anybody telling it to. Withrow stood. Karis stood with her notebook shut on her finger. Brom stood, and took up a space and a half doing it. On the floor the Current girl and the Mire went on with their bout for perhaps a dozen people.
+"She thanked him," said a woman in the front row, to nobody, astonished. She had a baby asleep on her shoulder and had been on her feet for Lira's second exchange. "Did you hear that? She gave him his whole grade and thanked him."
 
-Then Bracken signed something on the officer's board, and was given something else, and looked at it as long as he had looked at the first, and sat.
-
-What Cael heard next was a silence. It came from the four rows nearest the house's bench, all at once, and it took him a moment to understand what had made it. Withrow had thanked the man. She had given him his grade, all of it, correctly, and thanked him, in a voice pitched to carry exactly four rows and not one row further; and four rows of people who had been on their feet for the house's fighter half an hour ago had just heard the house's Chancellor thank a registry officer, in public, for the paper he had served on her. They did not know where to put it. Cael watched them not know.
+The man beside her said nothing. Neither did anybody else in the four rows round the house's bench. They sat with it the way you sit with a coin somebody has handed you in a currency you do not recognise.
 
 The officer bowed again and turned and walked back the way he had come, the whole length of the north benches, at the same pace. Cael counted that walk, since he had missed the first. Fifty-one seconds, from the house's bench to the street door.
 
 ---
 
-He did not read the order until the hall had already cooled. Karis had the duplicate by then, and passed it along the bench to him without a word.
+He did not read the order until the hall had already cooled. By then it was on Bracken's board in two lines of the registrar's small square hand: *Received at a quarter past two, at the rail. Read entire, acknowledged, duplicate obtained and collated.* Under it Bracken had underlined *at the rail* twice. Karis had the duplicate, and passed it along the bench to Cael without a word.
 
 *The respondent institution is directed to produce at the fourth sitting of the seat the complete records of evaluation-linked floor work of the enrollee of record, Caelen Hesk-ward, for the academic year to date, in the form in which they are kept.*
 
-One sentence. The code's plainest instrument, the one every seat used a hundred times a year to put a record together. It asked for nothing the house did not keep anyway: wing three's figures, in Gault's book and in Bracken's, every bout of the year in the clerk's careful hand, twenty-three and a third, twenty-two and two-thirds, the band breathing inside its range as it had been built to.
+One sentence. Wing three's figures, every bout of the year in the clerk's careful hand, twenty-three and a third, twenty-two and two-thirds, the band breathing inside its range as it had been built to. Cael looked from the order to the two strokes under *at the rail* on Bracken's board, and back.
 
-"It asks for what we'd have given them for the asking," said Karis.
+"The hour isn't in the order," said Bracken, to nobody in particular, and folded his hands on the board.
 
-"It does." Bracken had his hands folded on his board. "It was served at a quarter past two, on the meet's first day, a quarter of an hour after the house's fighter came off the floor. The order is lawful in every line. The hour isn't in the order."
-
-By then Cael had already watched the hour work.
+Cael had already watched the hour work.
 
 There had been a boy. A small one, with a meet card he had been carrying round all morning for the Silver to sign; he had come to the house's rope after the exhibition instead, and held the card up to Lira, and she had taken his pencil and begun her name. Cael had been three yards away. He had watched the boy's mother look past her son at the man in grey going by, and come and put a hand on the boy's shoulder, very gently, and say they had to be going, now, before Lira had got to the end of the second letter. She had been very nice about it. Lira had stood at the rope with the pencil in her hand and the boy's card gone.
 
-After that the rest was only arithmetic. The steward who had found the house a second bench that morning, and a cushion for the Chancellor, went past the house's bench three times in the next hour and found something to do further along each time. Two of the correspondents who had come in for the exhibition picked up their boards and went out by the street door, not long after the officer, and did not come back. When the Current girl took the second touch of her bout off a curve that should have brought the whole north side up, the north side applauded sitting down, for about as long as was polite.
+After that the rest was only arithmetic. The steward who had found the house a second bench that morning, and a cushion for the Chancellor, went past the house's bench three times in the next hour and found something to do further along each time. Two of the correspondents who had come in for the exhibition picked up their boards and went out by the street door, not long after the officer, and did not come back.
 
-Nobody frowned. Nobody said a word to anybody. Three hundred people had simply taken their applause back into their own hands to weigh it, the way a careful buyer takes back a coin he was about to put down on a counter, and found that they would rather keep it, just for now, until they knew what it cost.
-
-Lira found him at the rope after the Current girl's bout, which the Current girl had won, two to nothing, in front of a hall that had not much minded.
+Lira found him at the rope after the Current girl's bout, which the Current girl had won, two to nothing. The Current girl came past them on her way to the trestles with her tape half off and said, "They clapped like it was a funeral," and went on before anybody could answer her.
 
 She had changed her shirt and put her coat on over it, and her hair was still dark with sweat. She put her elbows on the top rope, the one that had not given an inch to her shoulder blades two hours before, and looked at the house's banner.
 
@@ -162,7 +156,7 @@ And under all of it, at the bottom, where she had started three years ago and ha
 
 "Lira."
 
-Cael was at the rope a few yards off. She had not heard him come in by the river door; she never did. He had a folded leaf of paper in his hand, and she knew it, because Karis had given him the duplicate of yesterday's order to mind while she packed the wallet, and he had been carrying it ever since as if somebody had handed him a hot coal and told him not to put it down.
+Cael was at the rope a few yards off. She had not heard him come in by the river door; she never did. He had a folded leaf of paper in his hand, and she knew it. Karis had given him the duplicate of yesterday's order to mind while she packed the wallet, and he had been carrying it ever since as if somebody had handed him a hot coal and told him not to put it down.
 
 He did not say anything else. He had only said her name so that she would know he was there.
 
@@ -174,9 +168,9 @@ Cael looked down at the paper in his own hand.
 
 "Noted," he said.
 
-He did not ask her which. He did not need to, and he would not have, and she loved him for it the way you love a floor that does exactly what you expect of it.
+He folded his own leaf once more and put it inside his coat, out of sight, and kept his hand there a moment. That was all the answer he gave, and she found it was the one she wanted.
 
-She had not finished the count. She found she did not want to finish it out loud, even to herself; the bottom of it was a place four days east of Ostrand where the stamps stopped, and past that there was no steward and no sheet and no counter in Ostrand with her file in a drawer, and no Silver card. She had asked the question in the dairy and meant it. She still meant it. She was not going to say the rest of it tonight.
+She had not finished the count. She found she did not want to finish it out loud, even to herself. The bottom of it was a place four days east of Ostrand where the stamps stopped, and past that there was no steward and no sheet and no counter in Ostrand with her file in a drawer, and no Silver card. She had asked the question in the dairy and meant it. She still meant it. She was not going to say the rest of it tonight.
 
 What she would say, if anybody asked her, which nobody would, was smaller than that and harder. She had been given a ladder this year for the first time in her life, and she had found out, standing on its first rung, that she could have it and still want the door. Both at once. She had not known a person could. At Fenmark the only choice had been the one somebody made for her. Here there were two, and both of them were hers, and that was the worst of it and the best.
 
@@ -196,7 +190,7 @@ Nothing did. At the ferry the two grey coats were on the landing in their usual 
 
 *Lira, the confluence, the Silver Rank Eight: two touches to one, on the fourth. Twenty-seven to twenty-eight. Six bursts, one of them borrowed. She asked me to watch her feet and tell her first, and I did, and I'll keep doing it as long as she asks. The floor had four facts on it and I found three. Rooke wrote the fourth as his. It was mine as much as his. I looked at that corner too.*
 
-*The order: lawful in every line. Served at the hour when it would be seen. Fifty-one seconds there and fifty-one back. Withrow thanked him by his grade, and four rows heard her do it. The hall stopped saying it liked us and went on liking us quietly, which is worse, because there's nothing to answer.*
+*The order: one sentence, served at the hour it would be seen. Fifty-one seconds there and fifty-one back. A woman with a baby on her shoulder asked who thanks a man for that. The hall went on liking us and stopped saying so, which is worse, because there's nothing to answer.*
 
 He looked at the last line for a while. Then he wrote one more under it.
 

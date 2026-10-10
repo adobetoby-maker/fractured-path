@@ -267,3 +267,73 @@ All flags accepted. The day-71 meet stands; every M4 interval was rechecked agai
 - The gate's house-book entry: four numbered grounds; *Refusal requested in writing:* left blank.
 - Bracken's letter to the district seat (text summarized, ch27).
 - The officer's walk timed by Seln (in) and Cael (out), both fifty-one seconds.
+
+## Repair r2
+
+Same author (`claude-opus-5-5`), same session, 2026-10-10, from `REPAIR-BRIEF-r2.md` and `recheck-r1.md` (its chain descriptions only). Source chapters **not reopened**; keys located through `pre-repair/` line numbers. ch24 and ch26 untouched (the coordinator's ch24 listening fix stands). Every edit made by reading, as exact-string replacements; no git; `protected-patterns.txt` untouched.
+
+### The 41 keys — old chain → new chain
+
+**ch21 (7)**
+- **21:183** room: old use → window → stuck table → acoustics → **only the slate's cold through Cael's sleeve as he reads the chalk, and his first-year memory of it shrinking his voice** (history, window, table dropped).
+- **21:205** carter recap: three days → three questions → stamps → Line → turner → **Cael infers the carters from the chalk alone; Karis: "Which of them knew…?" — "None of them."** (Lira's recap dropped.)
+- **21:207** the third: won't go past → won't say why → **inverted: Brom's finger on the bottom mark, "Who's this… the one who wouldn't tell you?" → "He turns at the last station."**
+- **21:225** coastal man: winning → letter → posted → read in → thanked → used → **an object: Karis's ruled sheet of eleven sittings, each marked *held*; "He didn't leave the case. He left the room."** (letter/post/thanks off-page, carried only by the ruling Brom read.)
+- **21:229 (trust inference)** Brom's "true letter read as confession" → **dropped; the ruling's own text, read aloud by Brom, carries it.**
+- **21:229 (fled/default)** word *fled* → default → evidence → **object: the back of the sheet, a brown docket stamp *RESPONDENT MADE DEFAULT* and a pencilled *Fled.* in another clerk's hand; nobody explains it.**
+- **21:237** truest thing → form for leaving → tidy paperwork → **Karis folds both sheets and gives them to Lira: "Keep those with your carters… I'd want that sheet in my pocket the morning I decided."**
+
+**ch22 (13)**
+- **22:31 / 22:53** Lira asks → contents → plaque → hand to pocket → second box → nobody asks → **the hand first (mid-strapping, "as if it had gone there without him") → "It's the second box that's the problem." → Lira lists the first box herself, teasing → Karis turns to a clean page** (no not-asking line).
+- **22:69** Denvash: brass plate → eleven seconds → stamped card → back door → three years to undo → **"Denvash," and he stopped; everyone knew the brass plate** (rest off-page).
+- **22:71** receipt list in order → **"every paper of it, and not one piece of it had been news"** (list dropped; Umber alone stays, first).
+- **22:87** five cases → all one way → next case → strength is count → **"Induction. A good one. I'd put my name to it." — then the pencil laid across the page, point in the blank where a sixth stroke would go, and nothing more said.**
+- **22:99** Fenmark form → ground opened → not ground, floor → boards held by something → look under → both roads → **Lira stamps the dairy's slate: "That's ground… rock under that all the way down" → packet line → "His three. Both roads."** (Fenmark retelling and the joists chain dropped.)
+- **22:115** "Both roads" costs nothing → everyone saw → nobody charged him → **Brom says one word, "Cheap," like a stall price; Cael's face goes warm.**
+- **22:119** Seln's two looks seen and interpreted by Cael → **Cael never sees them; Lira tells him on the stair ("He looked at you… The other time was my chalk").**
+- **22:133** decided nothing → remembered as decided → night we asked → **inverted: Lira's packet line first, unprompted; Karis writes it at the top and adds *Not the night we decided.***
+- **22:147** log: asked/decided; Seln's look; what he'd paid for → **log is about Lira's chalk left on the shelf: "Nobody rubbed it out."**
+- **22:185** lawful room → errand → press → label → copied by habit → a year → corridor → **from the present: his hand on the shelf's edge; copies twelve years old exist "somewhere in what he kept"; the corridor arrives only as a clerk asking if he was unwell; the press and errand dropped.**
+- **22:195** wrong question → files ask if a person fits → none ask who decides → **object: the printed headings down his own return (*Subject. Attendance. … Remarks.*) — every one a question about the subject; no line for the rule; "whose question it had been".**
+- **22:213** boy believes the instrument faulty → full-strength case → true → returns counted as receipts → **"the boy believes" dropped; one image kept and moved: his returns in the same drawer as the boy's papers, "nothing in them at all"**; plus a new beat (the stamps: past the last station a return has no route).
+
+**ch23 (2)**
+- **23:149** "So I go before four" → "In the second, not the first" → **action: Lira lifts the heel at "Two" and shoves the slices into the salt; Rooke: "That one's the second exchange. Don't you dare do it in the first."**
+- **23:153** second is the exam → mornings built for it → fight or busy at dawn → **Rooke's finger moves to the bare table and he says nothing about the second at all.**
+
+**ch25 (6)**
+- **25:27** Bracken stands → reads entire → signs → duplicate → collates → sits → **off-page; arrives later as two lines on Bracken's board (*Read entire, acknowledged, duplicate obtained and collated*), *at the rail* underlined twice.**
+- **25:43** Withrow thanks by grade → pitched to four rows → they don't know where to put it → **dialogue carrier: a woman in the front row with a baby, "She thanked him… Did you hear that?"; the rows sit "with a coin… in a currency you do not recognise".**
+- **25:53** lawful → routine → could have been posted → hour is the message → **Karis's routine line and the explanation dropped; Bracken's underline, then only "The hour isn't in the order."**
+- **25:67** second touch → seated applause → polite → **dropped from narration; the Current girl in passing: "They clapped like it was a funeral."**
+- **25:69** nobody unkind → applause taken back to weigh → caution → **paragraph cut; the reading arrives the next day from the Silver ("A town remembering what its licences cost").**
+- **25:219** he doesn't ask which → doesn't need to → she loves him → **an action: Cael folds his own leaf and puts it inside his coat, out of sight; "That was all the answer he gave."**
+
+**ch27 (13)**
+- **27:5** four grounds in her order (schedule → instrument → office → enrollee) → **the clerk's entry in the registrar's order, person first (enrollee → office → nothing served → schedule), and Cael noting both orders are right "for the different rooms they were said in".**
+- **27:37** word up → stays in timbers → nobody looked up → hands lift → **consequence only: a finger-joint splinter of the bell-frame's oak in the heel of his hand, which he doesn't remember taking hold of, worked out in the lodge doorway.**
+- **27:65 / 27:77 / 27:83** real office wants refusal in writing → first brick → they didn't ask → errand not the order → cost both ways → measure the door → **the blank form line; Bracken: "Nothing was requested"; the counsel's touch; the inference moved to the notebook in Cael's words (*They weren't here for me… they were here for the door… They measured it.*).** General rule, brick and cost-both-ways dropped.
+- **27:71** a mounting body decides → half beat → she has none → trained out → **the horse carries it: horses shift to take a rider's coming weight; hers stood like a post; "Nobody had told the horse she was coming."**
+- **27:119** Gault recites rule → not informed → written down → Cael steadied → **Gault seen writing in the middle of the walk; "Magister?"; he shows the page (rule, *evaluator of record not informed*, hour); then the packet line; steadiness shown as Cael's hands going still.**
+- **27:181** grade from where and how long she stood → **Seln asks Cael whether her horse shifted when she mounted; "No." → "Then she's the best they had to spare this morning."**
+- **27:193** Karis forecasts the paper chain → **dropped; Bracken's letter and his "I shall write to that one" carry it; Karis says only "It's a good die. Somebody cut it properly."**
+- **27:197** two people held the gate → no rule → how thin → **silence: Karis looks at the door Bracken left by and up toward the Chancellor's rooms, "count[ing] something on the two of them and not say[ing] what it came to".**
+- **27:203** Lira silent all evening → asks the next thing → nobody answers → **written: she writes *WHAT DO THEY TRY NEXT, WHEN PAPER WON'T DO IT?* in her book and leaves it open, question up, between the rubbing and the copy; it is still there at the close.**
+- **27:269** Seln reads something behind the paper (lamp image) → **interpretation removed; only the hands, the eyes on the order, longer than anyone, and the cup.**
+- **27:273** Vastin's warning → today the unofficial channel knocked → measured door → will knock without Withrow → **Brom, to the floor: "Fifty-one minutes… that clock room at Norhold. And you came out of it with one sentence for us." — the sentence given verbatim (BOOK_MAP §1); the "other gates" coda dropped.**
+
+### Checks after r2
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `ed.sh overlap`: **0 unprotected**, 7 protected.
+- `sweep_probe.sh … 4 4`: **skeleton 1%, close 10%** (r1: 1% / 11%). ch21 0/10 · ch22 3/11 · ch23 0/10 · ch24 0/5 · ch25 1/12 · ch26 2/15 · ch27 1/9; every skeleton hit is a protected or packet line.
+- Formula (ch21–27): 29,296 words · sentence mean 13.68 · ≤5 29.3% · ≥40 4.6% (the edge of 2.5–4.5; ch26, untouched, carries 6.7%) · paragraph median 26.5 · words per scene 862 · FK 4.33.
+- Not regressed: the day-71 calendar; the burst ledger (ch24 untouched); Seln's boundary (no Shadow; the cache's content unstated — "maintenance records" kept as a label, location left as "somewhere in what he kept"); the sealed letter; the escort order and its heading; the hearing-provision plant (ch26 untouched); the Crown-yard reconstruction.
+
+### Length
+**29,296 against ~30,400** (−1.1k). The cuts are the chain links themselves (explanations, recaps, the "other gates" coda, the forecast). One new beat was added with a job (Seln on where a return's route ends — a plant toward the Line); I did not refill the rest.
+
+### New detail (flag for the ledger)
+- ch21: the coastal ruling's back carries a docket stamp *RESPONDENT MADE DEFAULT* and a pencilled *Fled.*; Karis's eleven-sitting *held* sheet; both now in Lira's coat.
+- ch22: Seln's return form's printed headings; returns have no route past the last station.
+- ch25: Bracken's board entry for the service.
+- ch27: Cael grew up across the lane from a carrier's yard at Denvash (horse lore) — minor; the splinter from the bell-frame; Gault writes on the walk; Lira's written question left on the table; Brom's "Fifty-one minutes" (B5 canon) introduces Vastin's sentence.
