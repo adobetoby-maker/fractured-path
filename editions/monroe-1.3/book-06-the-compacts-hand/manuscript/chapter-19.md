@@ -214,7 +214,7 @@ He sat down a step below her and told her about the flour sack. Not all of it. T
 
 "A hand on the clock."
 
-She was quiet for a long time. Then she said, "I wrote to him once, you know. From Greyvane. He wrote back two lines and told me to keep you out of draughts." She got up. "Put my line in the column. The Fenmark one. And then put a line in for him, too, even though he isn't one of the four. He'd want to be counted properly." She went along the landing to her door. "He'd say a column with a wrong total isn't a column."
+She was quiet for a long time. Then she said, "I wrote to him once, you know. From Greyvane. I asked when you were born. He sent back the date, and *thank you*, and *he won't have told you*." She got up. "Put my line in the column. The Fenmark one. And then put a line in for him, too, even though he isn't one of the four. He'd want to be counted properly." She went along the landing to her door. "He'd say a column with a wrong total isn't a column."
 
 ---
 

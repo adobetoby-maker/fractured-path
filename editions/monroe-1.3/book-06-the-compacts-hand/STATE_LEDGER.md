@@ -555,7 +555,7 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 **Movement 2 CLOSED (2026-10-10).** Recheck r1 (fresh Opus seat): SECOND REPAIR bounded to P2 (18 tracked passages) + 9 line fixes applied — including Havel's looks to B4 ch54:81: the Ardenmere pump step, two at Greyvane, the third look on the oak (this SUPERSEDES the r1 brief's "his looks total four"; he will not give himself another); the Log for the evaluation day ends on *wondering*; one guild would not let Lira in the door; the boards move ahead of the Force stamp. Repair r2 re-composed all 18. Sol recheck r2: CLOSE WITH LINE FIXES — six applied (ch10/ch13 pronouns named Cael; ch11 the old notes' remedies carry visiting officers' clearances; ch13 "not seen him since the side door"; ch13 the junior receipted both lists and the senior chair's minute went up under the hood and came back initialled — the seat did NOT initial the receipt leaf). Seln's step line now: "The office has written that kind of minute. Not that one. Others like it." (to Cael alone). 28,591 words. Overlap 0/10, gates 0, probe 1%/8%.
 
 
-## AFTER MOVEMENT 3 — chapters 14–20 (drafted 2026-10-10, author claude-opus-5-5; repair r1 applied; recheck pending)
+## AFTER MOVEMENT 3 — chapters 14–20 (drafted 2026-10-10, author claude-opus-5-5; repairs r1–r2 applied, r3 in progress; recheck pending)
 
 **Coordinator rulings and r1 changes (override the author's end-state below):**
 - Calendar: Vastin's petition day 41; the seat refuses day 44 (the house hears from the counsel day 44); Vastin receives the refusal day 45; sittings day 47 and day 54; the inventory named day 49 (the last day of its sixth week from service, day 8). Daeva's statement set aside at the THIRD sitting.
@@ -564,7 +564,12 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - New canon: a gallery over wing three's west door; Rooke shuts the program floor to observers from day 46 (and chains the gallery stair before the visitors); a burst spent small can pass for a step; the Ostrand fee office seals archive requests and queries standing; the gate lodge's road column "since the year of the thieves"; under lamps the lane's dust casts a shadow Lira learns to read; Hesk's surveyor's-level story (no lesson drawn aloud); Cael writes back to Hesk by Bracken's pouch (Seln's advice); Gault's minute line on the four observers; Brom and Ephram at the old frames without speaking; at the ferry one watcher looks at the house's document cases, not at Cael; Vastin strikes a refusal of his own in the old form and rewrites it with a citation.
 - The pamphlet market: Ostrand plus three other towns — four in all.
 - Ch20: the private floor (new scene) opens the chapter; the hearing carries two Cael-level orientation beats; the ruling: "*Valid: held. To proceed: held. Both.*"
-- Length 31,667 words (M3 budget ~34,000); book first third ~91,000 against ~99,000 — running short; not padded.
+- (r2) DAEVA'S LETTER is inside the BACK BOARD of Hesk's current book, opposite the cost column — NOT the old volume (B5 ch60 closed the old volume; all later writing goes into Hesk's book). This overrides the author end-state's "old volume… front board" line below.
+- (r2) Vastin's rewritten refusal answers a GUILD HALL's request for further time (not a station).
+- (r2) Bracken's daybook also carries: *Counter unattended, a quarter of an hour, by the registrar, on the registrar's own account.*
+- (r2) Lira wrote Hesk once from Greyvane to ask Cael's birthday; Hesk answered in THREE lines — the date, *thank you*, *he won't have told you* (B4 ch37).
+- (r2) Lira's road meet falls on day 63 (eighteen days after day 45; nine after day 54).
+- Length after r2: ~29,600 words (M3 budget ~34,000); book first third ~89,000 against ~99,000 — running short; not padded.
 
 **Author's end-state (as drafted; read through the rulings above):**
 ## State at movement end (for the ledger)
