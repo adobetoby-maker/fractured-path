@@ -158,9 +158,9 @@ Bracken came in at the hall's side door with a sheet in his hand and his pen beh
 
 "The letter to the district seat," he said, and read it to them; he read aloud everything the house was going to send. The date; the instrument as presented, quoted whole; the issuing office as named; *the registrar of this house is unable to place the said office in any register available to him, and respectfully asks that the instrument constituting it be supplied, together with the seal under which that instrument was itself issued.* He lowered the sheet. "It goes down with the morning bag. They will answer inside the week, because they must."
 
-"And if the answer's another seal?" said Brom.
+Karis opened her notebook to the date a week ahead and wrote *DISTRICT REPLY*. On the next leaf she wrote *REPLY* again and left the office blank. Brom told her she was scheduling paper she had not seen. She put an empty bracket round the following three leaves. "I'm scheduling the absence of a name," she said.
 
-"Then I shall write to that one, and ask the same thing." Bracken folded the letter once. "I shall keep asking until somebody is obliged to sign his name, or until there is nobody left to ask, and either way the book will show that the question was put." He looked round the table, a little over his spectacles. "It is not much. It is what a true book is for."
+Bracken looked at the bracket. "Leave me one more leaf after those." He folded the letter once. "If the replies never give us a person, the book will at least show how many times we asked for one." He looked round the table, a little over his spectacles. "It is not much. It is what a true book is for."
 
 He went back out to his counter.
 
@@ -240,7 +240,7 @@ Karis finished her copying and set down her pen. Nobody touched Lira's book. Bro
 
 "Fifty-one minutes," said Brom, to the floor between his boots. "That clock room at Norhold. And you came out of it with one sentence for us."
 
-He did not say which sentence. He did not need to. Every one of them had carried it home from Norhold and up this hill, and Cael heard it again now in the Archmarshal's dry voice, among forty clocks: *Because the people who want this to stop are not going to use official channels much longer.*
+He did not say which sentence. He did not need to. Every one of them had carried it home from Norhold and up this hill, and Cael heard it again now in the Archmarshal's dry voice, among forty clocks: *Because the people who want this to stop are not going to use official channels much longer.* The sentence no longer ended in the clock room. In Cael's mind it went on down the bluff road, past the arch Withrow had held that morning, toward doors where no chancellor would be waiting.
 
 Seln moved.
 
