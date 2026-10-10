@@ -170,13 +170,13 @@ Karis had slid a card along the table before the counsel stood. *NAMES. PREAMBLE
 
 It was the names that had made the evaluators look up. Ilsev heard her own read out among them and wrote something small in her file without lifting her head. The counsel read twenty-two of them, one at a time, each with a grade and a house and a day, at the pace at which a person reads names in a room where names matter. The grant at Greyvane and its two renewals on paper, the season's officers under a regional registrar's seal, the tournament's, and three days of the Compact's own senior evaluator on the bluff. At the Archmarshal's name Cael thought the stillness under the hood altered, the way still water alters when something passes under it. It took four minutes. In the quiet he heard a cart's iron tyre grind over the cobbles in the street. More looking, the counsel said when she had finished, than most practitioners get in a working life; and all of it done by people who could see, sealed and minuted, across three years. She turned the rule. Tick.
 
-It was the preamble that made the pencils go down, because nobody on those benches had heard it before. She laid her papers face down to read it. It was ninety seconds long, plain and old, and it said what the integrity sections were for: the testing of instruments, frames and stations and records and protocols, so that the registry might know which of its instruments it could trust. Then Karis's ninety-one, and Cael felt Karis go still beside him. Eighty-four about things. Seven about persons, every one of the seven about something a person had done. None, in ninety-one, about what a person was.
+It was Karis's count that made the pencils go down. Cael felt her go still beside him as the counsel gave it: seven times in the registry's whole record the integrity sections had been turned on a person, every one of the seven for something the person had done; eighty-four times on things; and not once on what a person was. Only after the count did the counsel lay her papers face down and read the room the preamble, ninety seconds of plain old words, so that the benches heard what the sections had been written for after they had heard what they had been used for. The testing of instruments. Frames, stations, records, protocols. So that the registry might know which of them it could trust.
 
 "Only that nobody ever has," the counsel said then, without a pause, and Cael understood from her answer what the hood had asked: whether the sections could never lawfully reach a practitioner, or only had never been made to. "That's enough. In all the years these sections have stood, this seat is asked to go first, and turn them on a person for what he is. A seat that's asked to go first deserves to hear it in plain words. The petition never used them."
 
 Jent rose to say the petitioner had never called the use an ordinary one, and was content for the minute to say it was new. The counsel said it after him, word for word, and this once, the only time all morning, she said it over her shoulder to the benches. Third turn. Tick.
 
-The shelf went quickly: Greyvane, and four older rulings behind it, four houses that had gone to law against this clause with money and counsel and lost on the text. Tick.
+Cael missed the shelf. Ilsev had turned a leaf in her file just then and looked, for the first time all morning, at the house's table, at him, for perhaps a breath; and by the time he had looked back to the counsel the rule had turned again and Karis had already ticked the line. Later, on the coach, he would have to ask Karis which rulings had been on it.
 
 And last, because the whole case ended in something that was not there, the drafters' list. She took up the directive that had standardized the code and turned to the schedule at its back where its drafters had listed every older provision they meant to cancel, and walked the hood down it slowly, item by item. At the bottom she stopped. They had been careful men, she said. They had listed everything they meant to end. The assay clause was not on their list. Care only runs one way.
 
@@ -244,7 +244,9 @@ Karis was looking out of the window at the river, and did not look round.
 
 Then for a while everybody talked about the steps at once, and nobody agreed on what had happened first.
 
-Brom said a runner had gone into him on the second step, a boy with a satchel, who said sorry over his shoulder without stopping and was round the corner by the corn chandler's before Brom had his balance back; there had been three more behind him. Lira said four towns by tonight. Cael thought of the printer in the wharf street on the old press that did not smear, needing two headlines and having room for one.
+Brom said the first thing he remembered was the bruise: something had hit him hard on the left hip on the second step, and when he looked down there was a boy's satchel buckle going away from him round the corner by the corn chandler's, and a voice saying sorry over its shoulder. He had not seen the boy's face. He rubbed the hip now, thoughtfully, as if the bruise might tell him more.
+
+Cael asked Karis which rulings had been on the shelf. She told him: Greyvane's, and four older ones, all on the text.
 
 Karis said Jent had stopped by her, not the counsel.
 

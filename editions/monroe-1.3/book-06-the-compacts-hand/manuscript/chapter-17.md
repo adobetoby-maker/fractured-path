@@ -238,6 +238,6 @@ He looked at the correspondent asleep on the second bench, and thought of three 
 
 *They read the whole truth about me into the record this morning,* he wrote that night, *and nobody stood up to argue with a word of it, and a third of the room went to sleep. It was the dullest hour of the year.*
 
-*Yesterday four strangers wrote down the same figure as Ephram's chart. This morning the clerk read Umber's three sentences into the minute, and the file under them went to the other table. Every true thing anybody writes about me ends up at the other table, and nobody even has to bend it first.*
+*Gault's minute for yesterday says the demonstration was conducted as on every other day. Umber's note says nothing is to be added in his name. Withrow wrote "Let them argue" across the bottom of a release. Three people, three lines, none of them meant for this year. Somebody is going to open those minutes long after the seat has ruled and the weeklies have stopped printing, and find that every honest person in the room left one sentence there for them.*
 
-*The machine burns honest reports the way a stove burns seasoned oak: steadier and hotter than anything else you could feed it. A lie would smoke and give the house away. The truth just burns.*
+*I'd like to know who that reader is. I'd like to be worth their trouble.*

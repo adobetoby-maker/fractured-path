@@ -447,3 +447,35 @@ Held: every protected and packet line (grep-checked: the denial and tab, Seln's 
 - **The Current** noticed the short burst and was told it was a step.
 - **Bracken's daybook** records his quarter-hour away from the counter.
 - **Lira** once wrote to Hesk from Greyvane (B4 canon) and asked for a line for him in the column.
+
+## Repair r3
+
+Same author (`claude-opus-5-5`), same session, 2026-10-10, from `recheck-r2.md` ("Why the 10 remain"). Bounded to the ten listed units; nothing else touched (the coordinator's ch19 "three lines" fix is untouched). Each chain was broken by starting from a different link, dropping or inverting a link, or letting a link happen off-page and arrive only as its consequence. All edits were composed by hand as exact-string replacements. No git.
+
+| Key | Old chain | New chain |
+|---|---|---|
+| 14:19 | direct-request history → no request → adopted words | adopted words first (the authorities table) → the minute dated yesterday → the "no request" link happens off-page and arrives only as the clerk's four words, "No, sir. Only the slip." The request-history link is dropped. |
+| 14:139 | reassurance → inexplicable lingering | the junior's relief is dropped; the *Continue observation* line on the copy triggers Vastin's own junior memory; the lingering is cut from the scene and arrives only as a consequence (the frame-shop visit the next morning, "because he could not settle to the tray"). |
+| 14:169 | familiar refusal → receiving-side recognition → old victim | inverted: the long refusal with a citation is already in *done* → the struck half-line is found underneath → recognition left implicit ("He had taught that line to every junior he ever had"); the old-victim link (the assessor) is dropped. |
+| 17:230 | true report → hostile institutional use → consuming-machine metaphor | the hostile-use link and the stove metaphor are dropped; new chain: three honest lines (Gault, Umber, Withrow) → a reader long after the ruling → "I'd like to be worth their trouble." |
+| 18:55 | old uses → no Gold → explanation → new total | the new total comes first, as an object (*45* ringed in the digest's margin) → Lira's question → "Her." The old-uses breakdown and the no-Gold explanation are dropped. |
+| 19:191 | east past the last station → eighteen months → records stop | begins from the records already stopped (the girl still coming) → one toll at the ferry, given to her → "the last line anybody ever wrote about him." The duration and "only eyes" links are dropped. |
+| 19:213 | paper wins → Denvash loss → system/person line disappears | begins at the first pole's page, read with the pen in hand → nothing written under it → one entry about the clock that is neither person nor text. The wins/loss tally is dropped. |
+| 20:193 | Greyvane → four litigated losses | the shelf happens off-page: Cael misses it because Ilsev looks at him for a breath; it arrives later only as Karis's answer in the coach ("Greyvane's, and four older ones, all on the text"). The hearing's macro-order (names, preamble, shelf, list) is kept. |
+| 20:195 | preamble → ninety-one-use breakdown | inverted: Karis's count first (persons/conduct, things, never what a person is) → the preamble read after, "so that the benches heard what the sections had been written for after they had heard what they had been used for." |
+| 20:293 | four couriers → fast spread → public splits win/fraud | the couriers, the spread and the win/fraud split are all dropped; what's left is Brom's bruise from a satchel buckle he never saw the owner of, and the shelf question answered. |
+
+### Checks after r3
+
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `ed.sh overlap`: 0 unprotected runs; 13 protected.
+- `sweep_probe.sh`: skeleton 1%, close 13%. By chapter: ch14 1/14 · ch15 2/9 · ch16 0/16 · ch17 0/16 · ch18 3/11 · ch19 3/19 · ch20 2/10.
+- Formula (ch14–20): words 29,409 · sentence mean 13.84 · ≤5 29.2% · ≥40 4.4% · words per scene 865. All inside the working ranges.
+
+### Ledger notes
+
+- Vastin asked the clerk whether anything came with the bundle ("No, sir. Only the slip.").
+- The digest's margin now carries Karis's ringed *45*.
+- The haulier's last record was given to the girl at Withrow's counter.
+- At the preliminary, Ilsev looked at the house's table once, for a breath, during the shelf.
+- The movement is 29,409 words (from 29,611); nothing was padded.

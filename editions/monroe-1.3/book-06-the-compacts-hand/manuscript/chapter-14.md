@@ -12,11 +12,11 @@ It had come from the ninth line of a printed list.
 
 The list was on a slip pinned to the bundle that had come up in the morning file. *For the evaluator's file, per standing distribution.* Under those words were printed the offices that received such things as a matter of course: the district seats, the stations' office, the archive, the weather clerks, eleven offices in all. The ninth line was his. Senior evaluator, the Compact. Between the stations' office and the weather clerks.
 
-He had never been on that list before in this matter. For three years every paper about the enrollee at Halcenvane had come up the too-steep stair addressed to him by name, wanting something. This one wanted nothing. It had been sent to him the way a river-level return is sent, so that he could not afterward say he had not been told.
+Under the slip was the instrument itself, and at its last leaf, where petitions keep the table of authorities they rely on, there were nine lines. Eight were sections of the code. The seventh, in a clerk's even type, was his. *Advisory of the Compact's senior evaluator upon the fielding clause (adopted).* He had not needed to turn to the paragraph; he had written those three sentences in this chair. Somebody had filed his title between a section on frames and a section on discretion.
 
-He had turned the bundle over then, he remembered, and found at its bottom the minute of a first sitting at Ostrand, dated yesterday; and only then gone back to the top and opened the instrument at its last leaf, where petitions keep their table of the authorities they rely on. There had been nine. Eight of them were sections of the code. The seventh line read, in a clerk's even type, *Advisory of the Compact's senior evaluator upon the fielding clause (adopted).*
+At the bottom of the bundle was the minute of a first sitting at Ostrand. It was dated yesterday.
 
-He had not needed to turn to the paragraph. He knew what three sentences it would be. He had written them in this chair and signed them with his name entire. Somebody had found them useful, and had put his title in a list of things relied upon, between a section on frames and a section on discretion.
+He had rung for the clerk then, he remembered, and asked whether anything had come up with the bundle: a covering letter, a line from anybody, a question. The clerk had looked through the wallet twice. "No, sir. Only the slip." Vastin had thanked him and sent him down, and sat on with that answer, which was the whole of the matter in four words.
 
 Down in the paved court the porter was folding his paper bag along its old creases. The pigeons had been fed late, and were still walking about on the stones in the sun, as if they suspected there might be more.
 
@@ -74,11 +74,9 @@ The junior who had pinned it had come up the too-steep stair that afternoon with
 
 They had gone through it for an hour: the station's line, his notes, the tolerances for a girl of that age and Path. Everything was sound. She had grown faster than a station had guessed.
 
-*Continue observation.* Vastin had said it, and the junior had written it, and his whole face had let go.
+Under the station's line, in the junior's hand, was the recommendation they had settled between them: *Continue observation.* The hand was still deciding what shape it meant to be, and seeing it, Vastin had remembered a smoking stove in a district house a long time ago, and his own file under his own arm, and a senior evaluator, long since a name on a plaque, telling him the thing every evaluator is told once: *Write what the instrument says. What you feel about it is information about you.* He had handed the same sentence on that afternoon, in other words. It had been easier to say than to hear.
 
-Watching that, Vastin had remembered a smoking stove in a district house a long time ago, and his own file under his own arm, and a senior evaluator, long since a name on a plaque, telling him the thing every evaluator is told once: *Write what the instrument says. What you feel about it is information about you.* He had gone down that stair lighter, too. He had just handed the same sentence on in other words. It had been easier to say than to hear.
-
-The copy had stayed behind when the junior left. Vastin had put it in *done*. Then in *held*. Now he took it out once more and looked at the station's line, the Path and the rank and the date and the seal, and could not have said what he was looking for, and put it back in *held*, and did not write anything about it anywhere. It was not yet a thing with edges. An evaluator who writes down every unease he cannot name ends with a file full of himself.
+He did not write anything about the copy. He put it back where it was.
 
 He turned down the lamp.
 
@@ -109,15 +107,11 @@ He went back for it, a step at a time, as he would have made a witness go back. 
 
 He read it again, to be sure it said what he remembered. It did.
 
-Then, since a morning has to be spent on something, he went on with the tray. Near the top of *in* lay a guild hall's request for more time to answer a finding on its own assessors, which he had already decided to refuse. He drew a sheet toward him and began, and his pen wrote, as it had written perhaps a hundred times in forty years, *The hall's request for further time is not contemplated by*
+By noon there was a refusal in *done* that had taken him a quarter of an hour to write, where such things usually took him a quarter of a minute. A guild hall had asked for more time to answer a finding on its own assessors, and he had said no; but he had said it at length, giving the hall the section it had failed to meet, the officer it might apply to instead, and the date by which it should. He had signed it with his name entire.
 
-and stopped.
+Under it in the tray lay the first sheet he had started, with a single half-line on it, struck through corner to corner so that it could still be read. *The hall's request for further time is not contemplated by*
 
-He sat and looked at the half-line.
-
-He knew the shape of it now from the other side. He had taught it to his juniors as the decent way to say no: it claimed no weighing it had not done, it argued nothing, it left the man outside with nothing in his hands to be angry at. Somebody at Ostrand had learned it very well. He thought, for no reason he could give, of a field assessor he had once refused in that form, years ago, who had left the service two years after and gone to a guild on the coast. He had never found out whether the man's extra page would have been right. That had been the whole convenience of the line.
-
-He struck the half-line through, corner to corner, so that it could still be read. On a clean sheet he wrote the refusal again: the section the hall had failed to meet, the officer it might apply to instead, the date by which it should. It took him a quarter of an hour. He signed it with his name entire and put it in *done*.
+He did not throw that sheet away. He had taught that line to every junior he ever had.
 
 Then he took a slip of paper and wrote a question on it.
 

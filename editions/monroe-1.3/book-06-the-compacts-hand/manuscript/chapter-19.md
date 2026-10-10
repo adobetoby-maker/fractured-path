@@ -190,7 +190,7 @@ Cael looked at the margin. The initials were a man's. Beside them, in a younger 
 
 "And then?"
 
-"The last record I have of him is a toll at the ferry by the last station, eastbound, a year and a half later. That's how long it takes to get round a lapsed endorsement inside the law." She was quiet a moment. "After the ferry there's nothing. Past that line a man stops making records, and records were the only eyes I ever had. The girl stayed with her mother's people. And came to my counter."
+"The girl kept coming to my counter after there was nothing more of him to file," said Withrow. "Every week, with her mother's people's address written on the back of her hand in case I had news." She was quiet a moment. "Once, I did. A toll paid at the ferry by the last station, eastbound, in his name. I gave her that. It was the last line anybody ever wrote about him."
 
 "What will they do to Hesk?" said Cael.
 
@@ -218,13 +218,11 @@ She was quiet for a long time. Then she said, "I wrote to him once, you know. Fr
 
 ---
 
-He wrote it past midnight, and it came out as two columns before it came out as sentences, because that was how the night had arrived.
+Past midnight he turned back through Hesk's book to the page where the first pole was written, on the night of the instrument, and read it through with the pen in his hand, meaning to write something under it.
 
-*Sittings: ours. Filings: ours. Every point there is to win on paper: ours, and the seat writes it down.*
+He sat a long time and wrote nothing under it. Then, at the foot of the facing page, small, he wrote:
 
-*Denvash: theirs. A tin box under a bench: theirs.*
-
-*I've stood for three years on one line, with the text on one side of it, which holds, and the people on the other, who fail me and can be read and beaten. I never once had to look for where it ran. Tonight there was a flour sack on Withrow's counter with nine letters in it, and I looked, and couldn't find it. A hand on a clock isn't a person, and it isn't text. I don't know what it is. I've never needed to.*
+*A hand on a clock isn't a person, and it isn't text. Withrow's flour sack had both in it and neither. I've never had to know which side of the line a thing stood on before I could fight it. Tonight I couldn't tell. The page with the line on it is still standing, and I don't know how much longer it will bear my weight.*
 
 Then, because Seln had told him to and because he could not have slept otherwise, he wrote the other letter.
 

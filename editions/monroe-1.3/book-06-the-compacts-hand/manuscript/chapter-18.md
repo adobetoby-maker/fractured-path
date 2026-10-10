@@ -50,11 +50,11 @@ Ephram had come over from the cohort's table when Bracken went past it, and was 
 
 He seemed to come back to himself, saying it. He looked down the long room toward the court door as if he had just remembered where he was meant to be. "She paid it herself," he said. "Four marks. I thought the house would want to know she paid." And then, in a different voice, "My counter," and he went back down the refectory at his own pace, and out.
 
-Karis did not explain it that night. She went up to the reading room before the lamps went down and came back with the digest open at its table of uses, and laid it on the residence table beside the receipt, with one finger on the line for *Statements entered (Silver and above)*. In the right-hand column, where the uses were counted, the figure was forty-four. Every name in the list of filers on the facing page had *Silver* after it.
+Karis went up to the reading room before the lamps went down and came back with the digest, and did not say anything. She laid it on the residence table beside the receipt, open at its table of uses, took a pencil, and in the margin beside the line for *Statements entered (Silver and above)* wrote a small *45*, and drew a ring round it.
 
-Lira ran her eye down the list and up again. "No Golds."
+"What's forty-five?" said Lira.
 
-"A Gold never needs to say anything on the record about an evaluation," said Karis. "A Gold is what all the statements are written about." She took her finger off the line. "Forty-five, now."
+"Her," said Karis, and closed the digest on the pencil.
 
 Ephram was still looking at his hands.
 
