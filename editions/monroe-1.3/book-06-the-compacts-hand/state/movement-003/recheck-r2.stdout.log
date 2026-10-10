@@ -1,0 +1,123 @@
+Reading additional input from stdin...
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a12799-a45f-7081-831b-d27b543f6831
+--------
+user
+You are Sol, the independent recheck seat for the Monroe 1.3 edition of The Fractured Path, Book 6 "The Compact's Hand", Movement 3 (chapters 14–20), after the same-author repair r2. Work in /Users/drive/fractured-path-monroe13. Files are under editions/monroe-1.3/book-06-the-compacts-hand/.
+
+Read first:
+- state/movement-003/recheck-r1.md, your previous recheck. Its "### Source-distance passage audit" lists the 91 STILL TRACKING passages, keyed to state/movement-003/source-tracking.md.
+- state/movement-003/REPAIR-BRIEF-r2.md.
+- The "## Repair r2" section of state/movement-003/AUTHOR-REPORT.md, which gives each key's old and new order.
+- The source chapters books/book-06-the-compacts-hand/chapters/chapter-05.md … chapter-08.md.
+
+Then do the following.
+
+1. Diff manuscript/chapter-14.md … chapter-20.md against state/movement-003/pre-repair-r2/.
+2. For each of the 91 keys, decide RESOLVED or STILL TRACKING, side by side with its source sentence. Apply the same standard as your r1 audit.
+   - Where the plan fixes the event order (the hearing's architecture), the events may stay in order.
+   - Inside each passage, the local sequence of observations and its carrier must be the author's own.
+3. Look for NEW tracking in the about 3,000 words of new scenes:
+   - Vastin at the frame shop and his walk home;
+   - the Current's "went short";
+   - Rooke on Lira's heel;
+   - Karis and the counsel choosing the hearing's order;
+   - Bracken's daybook.
+4. Verify that r2 broke nothing r1 resolved:
+   - the sealed Velmere letter, in Brom's left pocket, through ch16–20;
+   - Seln not told about Shadow, which belongs to the edition's M6;
+   - the two hearing orientation beats;
+   - the town count;
+   - protected and packet lines verbatim. The author dropped ch14's quotation of the Archmarshal's advisory, so confirm M3 does not require it (BOOK_MAP §10; the packet);
+   - knowledge boundaries;
+   - no dangling pronoun or reference;
+   - quotes and italics balanced.
+5. Check the ledger changes against Books 4–5 and the B6 STATE_LEDGER:
+   - Daeva's letter is now inside the back board of Hesk's book;
+   - Vastin's rewritten refusal is now to a guild hall;
+   - Lira's road meet is 18 days off on day 45 and 9 days off on day 54.
+6. Rerun the checks:
+   - from editions/monroe-1.3: `bash tools/ed.sh gates book-06-the-compacts-hand 3` and `bash tools/ed.sh overlap book-06-the-compacts-hand 3`;
+   - from the worktree root: `bash editions/monroe-1.3/tools/sweep_probe.sh book-06-the-compacts-hand 3 3`.
+
+Write state/movement-003/recheck-r2.md.
+- Put the verdict FIRST: CLOSE / CLOSE WITH LINE FIXES / THIRD REPAIR, with its scope and the counts.
+- Then your findings.
+- Then exact line fixes in this format, each old string verified with grep to match exactly once:
+  1. `manuscript/chapter-NN.md`
+     old: `exact current text`
+     new: `replacement text`
+
+Do not edit any manuscript file. Run no git commands.
+warning: Skill descriptions were shortened to fit the skills context budget. Codex can still see every skill, but some descriptions are shorter. Disable unused skills or plugins to leave more room for the rest.
+codex
+I’ll use the O’Connor/Monroe workflow because this is an explicit Monroe 1.3 independent recheck. I’ll keep the manuscript untouched, verify all 91 keyed passages and continuity items, rerun the three prescribed checks, and write only `state/movement-003/recheck-r2.md`.
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/drive/.codex/skills/oconnor/SKILL.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+---
+name: oconnor
+description: Plan and orchestrate the Monroe 1.3.0 O'Connor progression-adventure seat, using Iron Prince structural research, Opus or Fable authorship, open-range movements and focused editorial loops.
+---
+
+# O'Connor 1.3.0 — Monroe Jackson author seat
+
+Canonical package: `/Users/drive/penname/pennamecodexv3`.
+Read `pen-names/oconnor/PIPELINE.md`, `VOICE.md` and `FORMULA.md` in that package.
+Read `/Users/drive/penname/research/ironprince-craft-formula.md` for its exact
+numerical targets. The compiler embeds craft sections 2–6 and 8–9 verbatim in both
+planning and drafting prompts. These are the owner's selected design targets,
+not optional research notes; do not soften them into generic craft advice.
+Codex maintains/orchestrates; Opus or Fable writes and repairs. Opus 5.5 is the default author;
+Fable (or another model) runs only when the owner names it. Never substitute the
+current Codex model silently. The public
+byline is Monroe Jackson; O'Connor is an internal seat name.
+
+Use six or more contiguous chapters per creative run (default 8, no upper cap). One compact
+movement brief replaces compulsory chapter cards. No chapter-by-chapter editorial
+gates. Output limits can require continuation of the same run; they must not cause
+shortened chapters or premature claims of completion.
+
+The owner names the characters. Use role placeholders during planning and resolve
+the needed names before prose drafting. A request to build/activate the seat is
+not permission to start a novel. Preserve canon and exact owner-protected text.
+
+Compile locally with `/Users/drive/penname/harness/oconnor.sh`:
+
+- `plan --root PROJECT --author opus --idea 'idea'` (or `--idea-file FILE`).
+- `formula --output FILE` exports the standalone numerical formula prompt.
+- `movement --root BOOK --author fable --packet packets/MOVEMENT-001.md --count 8`
+  with `--start N`, repeated `--context FILE`, optional `--previous FILE`, and
+  optional scene-specific `--action 'scene=stack'`.
+- `review --root BOOK --author fable --chapter manuscript/chapter-01.md`, repeating
+  `--chapter` for the complete movement in reading order. Add `--context FILE`
+  for editorial canon evidence; omit for manuscript-only cold reading.
+  Use `--formula-check` for editorial target/observed comparisons; omit it for a
+  blind cold read. Read `pen-names/oconnor/FORMULA_REVIEW.md` for measurement rules.
+
+The compiler prints a prompt; `--output FILE` saves without overwrite. It makes
+no model call. For authorized drafting, verify the locally installed author CLI's
+available model and subscription login, then supply the selected model and saved
+prompt. Do not switch to a paid API or alternate author on failure. Record the
+actual reported model separately from the seat version and requested alias.
+No new model invocation is authorized merely to validate this skill.
+
+After the completed movement: continuity/story pass, reader/clarity pass, one
+consolidated same-author repair, targeted recheck. Read `REVIEW.md` for the rubric.
+Label self-review vs fresh-context simulated cold read honestly. Use approved owner
+voice/examples; only accepted owner evidence updates the trainer.
+
+Read `PROVENANCE.md` when discussing research validity. Do not claim a full-book
+read or verified percentages from partial inspection. The transcript and quoted
+source-character study are private research, not drafting inputs. Read
+`references/combined-path-adapter.md` only for the owner's selected 600-year Kindling
+proposal; it is not a default premise for new books.
+

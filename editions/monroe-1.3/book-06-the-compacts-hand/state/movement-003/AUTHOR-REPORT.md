@@ -312,3 +312,138 @@ Same author (`claude-opus-5-5`), same session, 2026-10-10, from `REPAIR-BRIEF.md
 - **The watchers:** one coat at the ferry landing was seen (day 54) looking at the house's document cases on the coach roof.
 - Karis's card at the preliminary reads *NAMES. PREAMBLE. SHELF. TEXT.*; the counsel argued the four parts in that order in Cael's telling (the plan's parts are all present).
 - The ruling's two paragraphs are recomposed (ch20); the holdings are unchanged.
+
+## Repair r2
+
+Same author (`claude-opus-5-5`), same session, 2026-10-10, from `REPAIR-BRIEF-r2.md` and `recheck-r1.md` ("Source-distance passage audit"). Source distance only. For each STILL TRACKING key I read the cited source sentence once, closed it, and rebuilt the passage from EVENT-LIST.md, changing the first detail, the internal order, what is shown versus told, and the carrier (dialogue, narration, an object, or the Log). Everything was composed by hand and applied as whole-scene or exact-string replacements; nothing was split or joined by script. No git command was run. `protected-patterns.txt` was not touched. Pre-r2 text: `pre-repair-r2/`.
+
+Held: every protected and packet line (grep-checked: the denial and tab, Seln's benched line, Daeva's statement and letter, Hesk's paragraph, Brom's question, "Nine weeks. They are in the sixth.", the day-after line, the hand-on-the-clock line, the coach exchange, the counting-doors log, Seln's last line, "Its absence is a finding.", *Kind. Unkind. Unhinged.*, "boring", "Never." / "Not at Gold.", "He is holding a road.", "That's a strategy. Filed.", "continue observation"); the accepted canon; ch17's bout; ch20's honest floor; both orientation beats (attached to new prose); the sealed letter in Brom's left pocket (ch16, ch18, ch19, ch20); Seln not told.
+
+### The 91 keys: old local order → new local order
+
+| Key | Old local order (as tracked) | New local order / carrier |
+|---|---|---|
+| 14:19 | slip *per standing distribution* → not asked, told → "for three years every paper asked" | the ninth line of the printed recipient list is his (object, first) → between the stations' office and the weather clerks → only then *not asked* |
+| 14:33 | read the whole instrument at his own pace | removed; he turns the bundle over and goes straight to the table of authorities |
+| 14:39 | chapter fourteen known → twice in forty years | the daughter's kept letter taken from the drawer first (object) → the two files only as its context |
+| 14:49 | finds para. 7 → his three sentences → *adopts* | the table of authorities at the instrument's back: line seven, *Advisory … (adopted)*; he never turns to the paragraph |
+| 14:57 | gets the boy's file out; a finding is not a memory | the ruled interview sheet surfaces as "what steadied him", after the letter-book |
+| 14:61 | file thick with others' paper → nine leaves listed → interview sheet | the boy's question going the other way is the first thing his eye finds, then the empty ruled line under question eleven |
+| 14:69 | reads the eleven in order → twelfth on no paper | the blank twelfth line he ruled himself (object); the eleven are never re-read |
+| 14:75 | being right left the proceedings one thing to use | carried by a scrap sentence he writes, tests and burns (*nothing of the evaluator's to use but his manners*) |
+| 14:77 | squares the nine leaves, back in the folder | removed; the sheet goes back and he goes home |
+| 14:93 | four-for-four as a counted sample | the four pasted acknowledgments in the letter-book, found the way a man checks a fastened buckle; no "sample" |
+| 14:97 | clerk's pen pauses at routing; Vastin supplies the route | evening: a small blot at the head of the routing column in the ledger (object) → the moment recalled from it |
+| 14:119 | third day, junior climbs with a file | the junior's pinned thank-you note on the copy in *held* (object) → the hour backfilled; new: the junior's own words about the girl's floor work |
+| 14:139 | Vastin keeps the copy, rereads the line, can't say why | tray moves only (*done*, *held*, out, *held*); new frame-shop scene the next morning (a true instrument men would rather were easier) |
+| 14:157 | "From the registry seat, sir. By seat courier" | no dialogue: a red-stamped courier wrapper in the waste-basket he doesn't remember throwing away |
+| 14:161 | pressed seal noted as a grade before reading | removed; reconstruction runs wrapper → folder → tread → face → sentences |
+| 14:169 | his own sentences of that family; the letter-book comparison | carried by his own pen writing the formula in a refusal to a guild hall (not a station) and stopping |
+| 14:177 | no citation → not a ruling | carried by action only: he rewrites his refusal *with* a citation |
+| 14:179 | *fully constituted* → full before he asked → schedule drawn by those who knew | a slip of his own pinned to the denial: two dates and a question (*who sat down in those five chairs in four days?*), unanswered |
+| 14:181 | cost its writer nothing | removed |
+| 14:187 | clerk comes at the bell, finds him writing | scene opens on the clerk's one non-work sentence, already spoken |
+| 14:193 | Vastin orders a candle onto consumables under his name | the clerk brings it unasked and enters it himself; Vastin finds the line next morning and leaves it |
+| 14:215 | the third page cost most (frames vs boy) | folded into one sentence inside the claims recalled end-first |
+| 14:221 | last paragraph written slowest | read aloud to the empty room to hear if it stands (dialogue carrier) |
+| 14:227 | read back → best finding → own drawer → tab | drawer checked in the morning → tab → claims recalled backward → new: the walk home in the rain → ends on the bare addressee line |
+| 15:35 | assistant back with satchel | ink on her cuffs (first detail) → she went into the printer's shop |
+| 15:47 | catalogue of six titles | titles reduced to one late clause, "what the money bought" |
+| 15:51 | seller asked what sold before → the series → second press | told by the printer himself in his shop while his boy inks |
+| 15:69 | Karis: put the printer in your notebook | Karis writes *the printer* on a slip and pushes it across, no speech |
+| 15:77 | Cael does the sum | Brom says the total first ("A carter's year. Every week.") and works backward to it; Lira's reaction added |
+| 15:105 | chaise → counsel → heard at the wharf inn | "When did he get it?" / "He hasn't." first → "Where?" "The wharf." → Cael works out the inn himself later |
+| 15:127 | Withrow hears it twice → "I have written that sentence" → taught as kindness | Withrow says nothing about it: lays open the registry drafting book; beside model thirty, her own margin note at nineteen, *the kindest one* (object) |
+| 15:151 | Karis finds and reads aloud the two provisions; counts uses | Karis reads nothing aloud; lays the digest open; Lira reads the number; one line about knocking on the right door twice |
+| 15:167 | counsel's standing speech on the stair | a card left propped on the top stair (object), ending with the packet line |
+| 15:205 | Brom's long look; on the stair Brom explains "himself too" | Brom asks Cael "Who was he talking about?" / "And?" and Cael has to say it |
+| 15:223 | log: Withrow taught the sentence | one-line log: *Withrow wrote "the kindest one" in a margin at nineteen* |
+| 15:227 | log: not argued, not read | one-line log: Brom asked me so that I'd have to say the answer myself |
+| 16:3 | post in sacks → baskets built | the counter's daybook columns read upside down (object) |
+| 16:19 | fair copy → "fourteen houses asked about the clause, not you" | a green-taped bundle labelled *Houses. Answered.*; Bracken says one word, "Fourteen" |
+| 16:61 | the second time, one man waits on a milestone | Rooke's satchel going down seen first → a hat on the milestone → a man under it |
+| 16:93 | "Rooke's had the clerk logging" → numbers → the question asked | the Rhagen man's question quoted first → then the ledger → then the counts |
+| 16:119 | Lira adopted the sacks; sorts them | removed; the three piles shown by her one-word label slips (object) |
+| 16:127 | the kind pile's contents listed | Cael takes one letter off each pile himself; Lira takes the unkind one back unread |
+| 16:153 | Ephram: "You're a case… a file sits in a drawer" | Ephram's cousin's faculty syllabus, week nine, *The Halcenvane matter (pending)* (object) |
+| 16:177 | the fee query arrives → Karis explains it's proper → "once is a clerk" | Cael reads Karis's answer upside down first, then infers the question on the back; no gloss |
+| 16:195 | assistant reports at length → "I was boring" → Karis's verdict | "I was boring" first → Karis: "Start at the end" → the story told backward |
+| 16:229 | the column: costs landed on the others first | entries, then a total line under each column, *0* under his own (object) |
+| 16:245 | log: "the order is the thing I got wrong" | removed; the zero carries it; new: Cael walks wing three at night before the bout |
+| 17:168 | courtesy copy of Umber's file → covering note | the Chief Adjudicator's unsteady signature seen first → the note |
+| 17:174 | Karis maps it: no discretion, parcel, third sentence, read into minute | Cael's "another true number" → Brom's "not me" → Karis's "not in my name" → Lira: could he have kept any back? → "No." |
+| 17:222 | Bracken objects → Withrow's library speech | three release sheets seen on the counter: Withrow's *For teaching. Let them argue.* and Bracken's *RESERVATION NOTED … and overruled* (objects); new coach brief by Karis before the sitting |
+| 17:230 | log: Umber, Vastin, Ilsev each told the truth → used as exhibits | log keyed to Ephram's chart and Umber's three sentences going to "the other table"; oak image kept |
+| 18:37 | Ephram: fifteen words; Auremont faculty | Ephram counts on his fingers to fifteen and looks at his hands (action, no line) |
+| 18:55 | Karis maps the provision's history → never a Gold → will it matter → forty-five | the digest's table of uses laid on the supper table beside the receipt; Lira reads "No Golds"; Karis: "Forty-five, now" |
+| 18:97 | private letter arrives; he knows the hand from *Overdue* | Seln holds it a moment and says "Auremont" (dialogue), lays it face down |
+| 18:113 | read four times; the mirror of the machine's love | not reread: copied into the Log by hand, noticing the dash and the missing salutation; the Storm-piece paragraph kept |
+| 18:123 | log → filed behind the old volume's board with Hesk's and Vell's | one Log line under the copy → the letter pinned inside the back board of Hesk's book, opposite the column; new: Bracken's night entry *Counter unattended…* |
+| 19:21 | Seln: none names the enrollee → lawful → pattern | Lira: "You haven't got one for him." / Seln: "That's the way to know it isn't a mistake." |
+| 19:31 | Lira on Fenmark under the corrections | Lira asks one precise question ("by name?") and leaves Fenmark unsaid |
+| 19:51 | open ledger → anyone entitled may read → head of house | Seln asks back "Who reads the post at Velmere?" → "My grandmother." |
+| 19:55 | Karis writes four offices, rules a blank line | four slips under four beans and a fifth blank slip (objects) |
+| 19:65 | the fifth arrives; hand recognized; opened walking | Seln brings it in from the evening sort and lays it unopened on the blank slip |
+| 19:79 | third paragraph carried and read aloud at the window | Cael reads silently, then passes it to Brom, who reads the protected paragraph aloud |
+| 19:135 | Karis: four about us; ninth heading; machinery; say it aloud | Karis moves the slips (one apart) → one sentence → "Somebody say it" → "Said." |
+| 19:143 | Lira turns the room → wins listed → the question | the packet line first, unprompted → her explanation after |
+| 19:153 | Withrow reads it standing; pause counted | Cael reads it aloud to her; her pen stops in the air and is laid down |
+| 19:177 | the haulier's particulars in order | her old margin note in the brown code (initials; children; house; Path and rank last) |
+| 19:191 | went east → year and a half → records stop | the last record: a ferry toll eastbound at the last station |
+| 19:199 | grandfather → *grew up in it* → licence review → "how slow" → protected line | "What will they do to Hesk?" → protected line first → the explanation after |
+| 19:207 | "I'm still choosing; it costs more; I'm paying" | *Choosing* written wordlessly in the code's margin beside the ninth heading; "Go to bed." |
+| 19:213 | log: I win sittings … men in Denvash … the line between system and people | a two-column tally (*ours / theirs*) first, then the line he can't find; new: Lira on the top stair (her Greyvane letter to Hesk) |
+| 20:103 | covers off → Ilsev recognized from her files | Lira's whisper "That's her" first |
+| 20:119 | Cael: the most honest instrument, installed to legitimize | Karis whispers it |
+| 20:121 | Havel at the records table, not looking | Brom says "None." (his count) |
+| 20:123 | Daeva read in → set aside → the rhyme narrated | two numbers on the back of his schedule, *44* and *54*; Karis nods |
+| 20:141 | Jent concedes the enrollment | the counsel's three margin headings struck one by one (object) |
+| 20:143 | concedes the clause | same strike, second heading |
+| 20:145 | concedes the paper; "every word" | third heading struck; "every word" kept as the moment it was struck |
+| 20:171 | cites Umber's file by page | Karis writes the page number down and doesn't look it up |
+| 20:173 | sits → Cael's moral summary of Jent | Lira: "I like him." / Cael: "So do I. That's the trouble with him." |
+| 20:193 | the shelf (precedent) | third in the new order; one sentence |
+| 20:195 | preamble read → ninety-one | the reason the pencils went down; Karis goes still |
+| 20:203 | the hood asks → counsel answers | the counsel's answer first; the question inferred from it |
+| 20:215 | the demonstration record → twenty-two names | first in order; Ilsev writes when her own name is read; the summary line after the names |
+| 20:225 | closing: "silence of an instrument over every evaluator … who is asking" | a new closing: "measure a man with the one instrument that has never once been able to see him … You have their names. Ask them." |
+| 20:255 | ruling paragraph 1 (enrollment → clause → record → charter) | heard again in reverse (charter → record → clause → enrollment) |
+| 20:259 | the gallery moves mid-ruling | a hat knocked to the floor; Lira catches Cael's sleeve |
+| 20:265 | "Both things at once. You are lawful. The machine…" | removed; Karis's hands flat; the second paragraph also reversed (outcome → basis → "may take it up") |
+| 20:269 | Ilsev asks leave → scope → minuted | the hood's answer heard first; her question inferred; Karis: "She's fencing her chair." |
+| 20:293 | steps: four couriers timed; misread everywhere | Brom collided with a runner on the second step; four towns; the printer's headlines |
+| 20:299 | Jent stops by the counsel: third movement / "So did the seat" | Jent stops by Karis: "Advocate. The ninety-one. Did you count them yourself?" |
+| 20:333 | ferry: log line → Seln | ferry watcher → the exchange on the far landing → log line → Seln's line last |
+
+### New material in r2 (genuine scenes, not filler)
+
+- ch14: the frame shop and its mender ("It's telling them it's damp"); the walk home in the rain; the junior's own description of the girl.
+- ch15: Seln told at the copying table (pen laid down square, then taken up); the Stone on Lira's lie with the back foot; Lira on the carter's copper.
+- ch16: Lira's road-meet count (eighteen days); Cael walks wing three in the dark before the bout.
+- ch17: the Current tells Cael he "went short" and he says it was a step; Rooke's "Listen to it" under lamps; Karis's coach brief before the exhibits sitting.
+- ch18: Bracken re-dealing his abandoned baskets at night, his daybook entry against himself.
+- ch19: Lira on the top stair (her Greyvane letter to Hesk; "a column with a wrong total isn't a column").
+- ch20: the evening before the preliminary: Karis and the counsel settle the order *from the people to the paper* and invent the rule's quarter turns; Withrow's "Sit up straight in the coach."
+
+### Checks after r2
+
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `ed.sh overlap`: **0 unprotected runs**; 13 protected (two fewer than r1 because ch14 no longer quotes the Archmarshal's three-sentence advisory, which M3 does not require).
+- `sweep_probe.sh`: **skeleton 1%, close 13%** (r1: 16%; r0: 19%). By chapter: ch14 1/13 · ch15 2/9 · ch16 0/16 · ch17 0/16 · ch18 3/12 · ch19 3/19 · ch20 2/9. Every skeleton hit is protected or packet text.
+- **Formula** (ch14–20): words 29,611 · sentence mean 13.81 · median 9 · ≤5 29.2% · ≥40 4.3% · paragraph median 29 · words per scene 871 · FRE 86.7 · FK 4.6. All inside the working ranges.
+
+### Length (declined to pad)
+
+29,611 words against r1's 31,667. Rebuilding passages around a different carrier (an object or a single line in place of a paragraph of explanation) is shorter by nature. I put back about 3,000 words of new scenes, listed above, each of which does story work, and stopped there rather than fill. The movement is ~2,000 under r1 and ~4,400 under the ~34k plan.
+
+### Ledger corrections (to the page)
+
+- **Daeva's letter** is now pinned inside the back board of Hesk's book, opposite the cost column (no longer in the old volume with Hesk's and Vell's letters). Its text is copied into the Log.
+- **The column** has a total line under each name and *0* under Cael's.
+- **Vastin:** the refusal he rewrote with a citation is to a guild hall (not a station); a pinned slip asks who filled the five chairs in four days; the junior's thank-you note is on the copy in *held*; he visited the house's frame shop; the finding's last paragraph was read aloud once to the empty room.
+- **Withrow:** her drafting book has *the kindest one* beside model refusal thirty, in her hand at nineteen; her brown code has the haulier's particulars and now *Choosing* beside the ninth heading; the haulier's last record is a ferry toll eastbound at the last station.
+- **Karis and the counsel** fixed the preliminary's order the evening before (from the people to the paper); Karis's card reads *NAMES. PREAMBLE. SHELF. TEXT.*; the counsel's privileged minute struck *EXECUTION. PROVISION. RECORD.* as Jent conceded them.
+- **Jent** spoke to Karis on the steps (the ninety-one), not to the counsel.
+- **The Current** noticed the short burst and was told it was a step.
+- **Bracken's daybook** records his quarter-hour away from the counter.
+- **Lira** once wrote to Hesk from Greyvane (B4 canon) and asked for a line for him in the column.
