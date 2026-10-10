@@ -168,9 +168,19 @@ She nodded, as if he had confirmed a figure she already had in her book, and fin
 
 ---
 
-On the Fifth-day, after supper, Brom came down the residence passage with the common room's one good chair on his shoulder.
+Cael was first down the dairy step on the Fifth-day, and Lira was already there.
 
-He carried it the way he carried everything, as if it weighed what a coat weighed, and he had to turn sideways at the foot of the stair to get its legs past the newel post. Lira was waiting at the little door at the passage's end with the lamp. She watched him come.
+She had the lamp on the table and a stub of the porter's chalk in her fingers, and she was writing on the slate shelf along the back wall, where the old dairy had once stood its cream to cool. She did not turn round. She wrote a column, short, in her square capitals, and stood back from it, and rubbed one figure out with the side of her hand and wrote it again.
+
+*4 LOADED. 3 LIGHT. STAMPS STOP. 2 GO ON. 1 TURNS.*
+
+He read it twice and did not ask. She had said Fifth-day.
+
+The room had been the farm's dairy before the hill was a house, and the house had never found another use for it. One step down from the passage; slate shelves round three walls; a slit of a window that looked at the bakehouse's back wall and nothing else; a long table that some joiner had built where it stood, so that it could leave only as firewood. The slate took sound in and kept it. Cael had stood in it once before, in his first year, looking for a lost boot, and had noticed then that his own voice came back to him smaller than he had sent it.
+
+Brom came down the passage with the common room's one good chair on his shoulder.
+
+He had to turn sideways at the newel post to get the legs by. Lira looked round at last.
 
 "Is that for you?"
 
@@ -178,72 +188,78 @@ He carried it the way he carried everything, as if it weighed what a coat weighe
 
 "There's a bench."
 
-"There is," said Brom, and set the chair down at the head of the table, and sat in it.
+"There is," said Brom, and put the chair at the head of the table, and sat in it. Something clinked in its seat as he did; he reached under himself and brought out a small spirit kettle and set it on the shelf beside Lira's chalk, without comment.
 
-The small room had been a dairy once, when the residence had been a farm and the hill had been grazing. You went down a step to get into it. Slate shelves ran round three walls at waist height, cool to the hand even now, and somebody long ago had cut a channel in the floor to carry off whatever needed carrying. The one window was a slit with a shutter, and it looked straight at the back wall of the bakehouse, six feet away, so there was nothing to see from it and nobody could see in. The table had been built in the room by a joiner who had never thought about the door. It would leave the room as firewood or not at all. Voices went into the slate and stopped there.
+Karis came in with nothing under her arm. That was so unusual that Cael looked twice. She had one sheet of paper, folded long, in her sleeve, and she sat down at the table's far end and did not take it out.
 
-The house used it for nothing. That was why Lira had chosen it.
+When Cael looked along the bench again, Seln was on it. He was at its middle, with his hands folded and nothing in front of him, and Cael had not heard the step or the door.
 
-Karis came in third with the whole proceeding under one arm. She put it on the slate shelf at her back with the writing turned to the wall, as if it were a guest who ought not to hear this, and only then sat down. Then Seln came in, last, and sat down on the bench at its middle, and put nothing in front of himself at all.
+"Right," said Lira.
 
-On his way to the bench Cael took the room's tally without meaning to.
+She came and sat on the table's corner, which was not allowed anywhere in the house, and looked at the four of them and then at the fifth.
 
-One lamp, turned three-quarters up, and one good chair with Brom in it. A table that would leave as firewood or not at all. Four people he would have followed into any room on the continent, and a fifth he had first seen two years ago at a copying table behind a counter, without the least idea what he was looking at. Sixty days since the courier. A fortnight since the wool exchange, where a hood had read *lawful* and *proceeding* into the minute with no pause between them.
+"Tell me why we're still answering them."
 
-Lira did not sit. She stayed on her feet at the table's end, both palms down on the wood, and she did not make a speech of it.
+Nobody answered. She had not expected anybody to.
 
-"Why do we keep answering them?"
+"I'm not asking about the filings. I know what Karis does is the best paper this house has ever sent down the hill. I know we win, every sitting." She put the chalk down on the table. "And I know that a fortnight ago a hood read *lawful* and *proceeding* into the minute in one breath, and went on to the next item. Every time we win, it goes on. So I'm putting it on the table. Once. Properly, with everybody here. Then it's been asked, and nobody can say afterward that it wasn't."
 
-Nobody said anything. She had not expected them to.
+"What's that?" said Brom, and nodded at the shelf.
 
-"I don't mean the filings. I know why we file. I know Karis is the best thing that's happened to this house's paper in a hundred years, and I know the house's counsel wins, and I know we win." She looked down the table. "Every sitting, we win. And every sitting, it goes on. The seat said it was lawful and then it said it would carry on anyway, in the same breath, and it doesn't care which of those we like. So I'm asking it out loud. Once. So that it's been asked." She straightened. "Why are we still in there?"
+"The road east. Read it after."
 
-"You've been down to the landing," said Karis.
+Cael had already read it, and was reading it again now, because a column of chalk that Lira had made was a sum she had done and he wanted to know how. Four days to something, loaded; three light. A place where something stopped. Two who went on past it and one who turned. She had been down to the landing, then, more than once, and come back up with numbers, and said nothing to anyone for a week.
 
-It was not a question. Karis had been watching Lira's boots for a week, apparently, the way she watched everything.
+"Carters," said Lira, watching him work it out. "Three. Three different days, and I asked each of them about something different, so none of them would know they'd been asked the road. Every station on it stamps your sheet. Past the last station, nothing does. That's the Line." She shrugged. "The one at the bottom turns round there. I asked him why, once. He told me he turns there, and I could see that was all I was going to get."
 
-"Three times." Lira sat, at last, on the end of the bench. "Three days, three carters, three different questions, so none of them would know they'd been asked anything." She held up her fingers one at a time. "The last Arbiter station on the east road is four days past Ostrand with a loaded wagon. Three with a light one. Every station stamps your sheet. After the last one, nobody stamps anything, and that's the Line. That's all it is. There's no post and no fence. It's the place the stamps stop." She lowered her hand. "Two of the three go past it every trip and make money doing it. Neither knows the other. They told me the same thing anyway. Past the stamps, nobody keeps a book."
+"You left him on," said Karis.
 
-"And the third?" said Brom.
-
-"Turns round at it." Lira looked at the lamp. "Wouldn't say why. I asked him once and he told me he turns there, and I could see I'd get the same three words for the rest of the day. So that's on the sheet too. I don't know what it means. I'm not leaving it off because I don't like it."
+"I'm not rubbing a man out because he spoils the sum."
 
 ---
 
-Karis stood up to answer.
+Karis did not stand to answer. She took the folded sheet out of her sleeve and held it out down the table, not to Cael, not to Lira, but to Brom.
 
-She did that sometimes, at the long table in the annex, when a finding had cost her something to make. Cael had seen it twice. She took one sheet from the bottom of her face-down pile, without looking for it, and turned it over, and laid it on the table in the lamplight where they could all see that it was short. Two paragraphs, in a copying clerk's hand.
+"Read the second paragraph," she said. "Out loud, if you would. I've read it too many times. I'd like to hear it in somebody else's voice."
 
-"I'll read the second paragraph first," she said. "Because it's the one I think about."
-
-She read it in the voice she kept for text that was not hers, flat and careful.
+Brom unfolded it. It was a copy in a copying clerk's hand, two paragraphs, short. He found the second and read it the way he read anything aloud, slowly, without any expression at all, so that every word came out the same weight as the one before it.
 
 *The seat notes the respondent's letter of withdrawal, entered at the eleventh sitting, in which the respondent states that he no longer has confidence in the integrity of these proceedings and will take no further part in them. The seat finds that a practitioner who declines the registry's process upon the ground that he does not trust it has himself stated, in terms, the integrity question the petition raises. The petition is granted by default.*
 
-She put the sheet down.
+He lowered it. He looked at Karis over the top of it.
 
-"A guild practitioner in a coastal district. An integrity matter. I found him in the Ternhall stacks in my second year, looking for something else." She kept two fingers on the corner of the page. "He was winning. I went back and read every ruling, because I didn't believe it, and they're sound; he was winning on every point. And at the eleventh sitting he wrote a letter. A good letter. Honest. He said he'd lost faith in the process and wouldn't attend again, and he posted it, folded in three, and the clerk read it into the minute." She tapped the page once. "They didn't twist a word of it. They didn't need to. They thanked him for it, and then they quoted it back at him as the proof."
+"Why'd he go?" he said. "If he was going to lose anyway, fine. Was he?"
 
-"Of what?" said Lira.
+"No." Karis had her hands round her own elbows. "I read every ruling in the file, in my second year at Ternhall, because I didn't believe it. He was winning every point. A coastal practitioner, a guild man, an integrity matter, eleven sittings, and the house's counsel would have been glad of any one of his rulings." She looked at the sheet in Brom's hands. "He didn't leave the case. He left the room. He wrote that he'd stopped believing in it, and he meant it, and he posted it, and a clerk read it into the minute. They thanked him. Then they used his own sentence to grant the whole petition."
 
-"That the registry was right not to trust him. He'd told them he didn't believe their instrument. And to a registry, a man who won't believe the instrument is a man the instrument was right to doubt. They didn't have to argue it. He'd argued it for them." Karis looked at the sheet. "There's a word the registry uses for what he did. I've read it in more files than I want to count. *Fled.* *Respondent absent from the jurisdiction; entered as fled.* And after that line, in every file I've ever opened, the default goes in, and the default is everything the petition asked for. Granted. With the flight cited underneath it as evidence."
+Lira had gone still on the table's corner.
 
-She did not sit down.
+"That's in the docket as *respondent made default*," said Karis. "Two words and a date. In the file it's longer. The file says *fled*." She unfolded her arms. "I've read that word in more files than I want to count. After it, the petition goes in by default, every line of it, with the leaving written underneath as evidence."
 
-"So let me give you the other column, since nobody else at this table is going to." She held up one hand and folded the fingers down as she went, nearest first. "A clause in Norhold's charter nobody had opened in forty years: it put him on the floor. Bracken's enrollment book, which would not lie for anyone: it keeps him on this hill. A provision at Greyvane, in a compilation, exactly where it had always been: it let him through the door. Vell's ledger at Ardenmere: his first honest figure." One finger was left. "And at Denvash there was nothing written down at all, and he went out of the back door with a stamped card." She closed the hand. "Every time it has gone right for us, it went right because something was on paper. Every time. I don't have a counter-case. I've looked."
+"So it was a true letter," said Brom slowly, "and they read it as a confession."
 
-"And the coastal man?" said Brom. "His letter. Was it wrong?"
+"It was the truest thing in his file. That's what I can't get past." Karis took the sheet back from him and folded it along its old crease. "Leaving is the one move they've already done the paperwork for. They've had two hundred years to make that form tidy. I'm not saying we stay because I'm sure of anything. I'm saying I've seen the form, and I want everybody at this table to have seen it too, before anybody fills it in."
 
-"It was true." Karis looked down at the sheet. "That's the part I can't get past. He wrote down exactly what he believed, and they filed it." She said it without heat; the pen in her fingers had turned end over end twice while she talked. "The machine has a form for leaving. It's had one for two hundred years. It doesn't have a form for staying in the room and being right. Think about which of those two it expects us to do."
+She opened her notebook flat on the table and wrote under the day's date: *Default — entered at the sitting after.*
 
-"The default isn't entered at the next sitting."
+Seln leaned across the table.
 
-It was Seln. He had not opened his eyes.
+He did not speak, and his eyes did not quite open. He turned Karis's notebook round with two fingers, took the pencil out of her hand as if it were a pen at his own counter, and wrote in the margin beside her line, small and square: *Forty days from the close of the fourth sitting. Days, not sittings.* Then he turned the book back to her and gave her the pencil and folded his hands again.
 
-Everyone looked at him. He went on in exactly the voice he used at the counter to tell a first-year that the fourth line of a form was in the wrong place.
+Karis read it. She drew one neat line through her own figure.
 
-"You said the default goes in at the next sitting after the flight. It doesn't. It goes in forty days after the close of the fourth sitting, if the respondent hasn't appeared. The code counts days. It doesn't count sittings." He folded his hands. "The difference matters to somebody, or the code wouldn't trouble to say it."
+"Thank you," she said.
 
-Karis looked at him for a moment. Then she sat down, and took out her notebook, and drew one neat line through a figure on its open page and wrote another above it, and said, "Thank you."
+It was the only thing Seln put into the council all night, and he had not said a word to do it.
 
-Seln said nothing more. He did not say anything else for the rest of the evening.
+Lira leaned over to read the margin upside down.
+
+"Forty days from what?"
+
+Seln's eyes stayed shut. It was Karis who answered, with her finger on his line. "From the day the fourth sitting closes. Before the fortieth day, a respondent who hasn't come back is only absent. On the fortieth, he's fled, and the default goes in." She looked at the figure as if she had never seen one before. "It's a narrow thing. I had it wrong."
+
+Lira got down off the table's corner, went to the shelf, and wrote under her own column in the porter's chalk, small: *40 — ABSENT, THEN FLED.* She stood back from it.
+
+"So there's a gap," she said. "Between one word and the other."
+
+"There's forty days," said Karis. "I don't know yet that there's a gap."

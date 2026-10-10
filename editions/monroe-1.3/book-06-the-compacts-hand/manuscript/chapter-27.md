@@ -1,281 +1,257 @@
 # Chapter 27 — Measure the Door
 
-Withrow did not answer the rider at once. She turned her head a little and spoke to the house's counsel, in a voice that did not reach the gatehouse, and Cael saw the counsel answer her in one word without taking her eyes off the order in Bracken's hand.
+The lodge-man wrote the hour on the back of his hand.
 
-Then Withrow turned back, and folded her hands in front of her, and gave the court her reasons: four of them, a sentence each.
+He did it with the stub of pencil from behind his ear, standing in his own doorway, while the last of the four horses was still going down the bluff road below the gate, because his book was on the counter behind him and he did not want to lose the minute in the turning round. Cael saw him do it from the wall stair, coming down. Then the old man went in, and took the book off the counter, and copied the figure off his hand into it, and licked his thumb and rubbed the hand clean.
 
-Nothing in any of them was there for show; each one held up the next. Cael heard them go off the walls and come back, and he set them down afterward in her order.
+By the time Cael reached the lodge door, Bracken was at the counter beside him with his senior clerk, and the house's book was open between them, and Bracken was giving the morning to the book in the order the book would want it.
 
-The seat at Ostrand had set the proceedings' schedule, and there was no assessment of any kind anywhere in it, before evaluation or after. No instrument served on this house since the eighth day of the year had said one word about taking the enrollee anywhere. Her registrar, who had read every seal that came up that road for thirteen years, could not place the office whose seal this was, and an order from an office nobody could place was a fault in the order, to be put right before anybody obeyed it. And the young man named at the top of it was an enrollee of this house in good standing, a party in proceedings that the code governed to the last comma, and he would be produced to anybody, anywhere, when the code said so and on no other word.
+Withrow had told him how, before she went in. Cael had heard her from the gatehouse. *All of it in the book, Registrar.* Now the registrar stood with his spectacles on the end of his nose and dictated, flat and even. The senior clerk wrote it in the hand he kept for the enrollment book, and Cael stood in the lodge door and listened to the morning come back to him one ruled line at a time.
 
-"So the house declines your paper until it can be verified," she said. "You may wait in my court while my registrar writes to the district seat, or you may go and come back with whatever constituted your office. My lodge-man will write down whichever you do."
+*Arrived at the second bell. Four, mounted, in travelling grey, no livery. Departed at a quarter before the third.*
 
-The lodge-man, in his doorway, took a pencil from behind his ear.
+*An order presented, under a seal of the registry's pattern, naming an issuing office unknown to this counter. Read aloud in the court at the Chancellor's request, in full, by the lead rider.*
 
-While she spoke, Cael read the fourth rider a third time.
+He had sat behind the bell-frame for that. He had counted it as it came back off the walls. Eighty-one words, and his registry name at the top of them.
 
-He had stopped asking the floor about her feet; the floor had told him what it knew. He asked the court instead what she could see from where she stood, and he found the answer by looking at the arch.
+*The Chancellor declined the order pending verification, on four grounds, as follows.*
 
-The gatehouse was deep. The arch ran through it for twelve feet or more, a tunnel of old stone with the gates folded back against its walls, and from almost anywhere in the outer court you could see only a slice of the road beyond it, the way you see a slice of a room through a door left ajar. From the covered walk you saw the left side of the road. From the lecture range you saw the right. Cael had stood in every corner of that court at one time or another, waiting for somebody, and he knew there were only a few feet of flagstone from which the whole opening lay open end to end, the road and both its verges and the first bend below the gate.
+The clerk numbered them down the margin, one to four, and Bracken gave him each in a single sentence, as Withrow had given them to the court, and Cael heard her voice under the registrar's.
 
-She was standing in them.
+*One. The seat at Ostrand has set the proceedings' schedule, and no assessment of any kind appears in it.*
 
-She had not turned to look at the arch since she came through it. She had her back three-quarters to it. But the angle her shoulders made with it was exact, and if she had turned her head a hand's breadth she would have had the whole of the road in her eye at once, every yard of it, without moving a foot.
+*Two. No instrument served on this house since the eighth day of the year contemplates the enrollee's removal anywhere.*
 
-That was the third time. He was beginning to see the shape.
+*Three. The registrar of this house cannot place the issuing office, and an order from an office that cannot be placed is defective until the office is verified.*
 
-The lead rider heard the Chancellor out without any change at all in his face.
+*Four. The enrollee is an enrollee of this house in good standing, a party in proceedings the code governs, and he will be produced when and where the code directs and on no other instrument.*
 
-"The house's position is noted," he said.
+Four sentences. She had built them so that each stood on the one before, and the last one had nothing left under it to kick.
 
-Then he did a small thing that Cael understood only when it was finished. He lifted his chin. It was a degree, no more, the movement a man makes when he wants his voice to carry over a wall to somebody on the other side of it. He did not look up. He did not turn his head toward the gatehouse. He kept his eyes on the Chancellor's face the whole time. But his voice, when it came again, was pitched to go up.
+"Next," said Bracken, and stopped, and took his spectacles off.
 
-"The order is addressed to two parties. The second may come with us of his own accord. If he comes voluntarily, nobody here need refuse anybody anything, and we can all be gone before the third bell."
+The clerk waited with the pen lifted.
 
-*Voluntarily.*
+"*An offer was made by the lead rider to the enrollee,*" said Bracken. "*In these words.*" He gave them exactly. Cael could have given them himself. "*The order is addressed to two parties. The second may come with us of his own accord. If he comes voluntarily, nobody here need refuse anybody anything, and we can all be gone before the third bell.*"
 
-The word went up off the flags and over the parapet and into the bell-frame where Cael sat on his heels, and it stayed there, among the old black timbers, as if it had been thrown up to him and was waiting to be caught.
+The pen went along the line.
 
-Nobody had looked at the gatehouse. Nobody had once looked up. Cael was as sure of that as he was of anything; he had been watching every face in the court for nine minutes. They did not know he was there.
+"*The offer was spoken upward, toward the gatehouse roof,*" said Bracken. "*There was nobody on the gatehouse roof.*"
 
-And the word had come up to him anyway, precisely.
+The clerk wrote that too. He did not look at Cael in the doorway, and neither did Bracken.
 
-He kept still. It was the only thing the word wanted from him, and it was harder than any floor he had stood on all year. Nine minutes behind the bell-frame had been nothing. Three seconds with that word hanging in the timbers went straight into his hands, which lifted off his knees by themselves and had to be set back down.
+Cael had been on the gatehouse roof. Nobody had looked up at it, the whole nine minutes. He was as sure of that as of anything; he had been watching every face in the court. And when the rider came to the one word he had come up the hill to say, he had lifted his chin a single degree, the way a man does who wants his voice to clear a wall, and kept his eyes on the Chancellor's face, and sent the word up anyway. *Voluntarily.* It had come over the parapet into the black timbers of the bell-frame and stayed there, waiting to be picked up.
 
-Withrow's eyes stayed on the rider's face.
+Keeping still had been the only thing it asked of him. It had been harder than any floor that year. Nine minutes crouched behind the frame had cost him nothing; three seconds with that word in the air went straight into his hands, which lifted off his knees by themselves and had to be put back.
 
-"You are speaking to me, Officer," she said. "There is nobody else in this court you have any business speaking to." Her voice stayed exactly where it had been all morning. "This house has four hundred and thirty young people in it. Not one of them has ever been asked to choose anything at its gate by a stranger on a horse, and not one of them will be while I keep it. If your office wants something from a student of mine, it writes to me."
+Withrow had not looked up either. "You are speaking to me, Officer," she had said. "There is nobody else in this court you have any business speaking to. If your office wants something from a student of mine, it writes to me." That was not going in the book. Bracken did not dictate it. It had not been addressed to the record.
 
-"Chancellor," said the rider, and inclined his head.
+The clerk turned to the printed form that went in behind every entry of an instrument served at the gate, and began to fill its lines from the entry. Instrument; office; date; disposition. Near the foot of the form there was a line Cael had never had cause to read before.
 
-And while the rider said *voluntarily* and the Chancellor answered him, Cael read the fourth rider for the last time, and the shape closed.
+*Refusal requested in writing: ______*
 
-He did not look at her. He looked at the court, and drew lines on it in his head, as he chalked a floor before a bout to see where a fighter could go. A line to the arch at her back. A line to the lodge door. A line to the corner where the covered walk ran through into the quadrangle. A line round the end of the lecture range, the way the boy had run. A line into the stable passage, where there had never been a door to shut and never would be.
+The clerk stopped with his pen above it.
 
-Every one of them went past her. Three went within a stride of her boots. And her shoulders, he saw now, were turned a hand's breadth square to the last of them: the one road out of that court that the house itself could not have closed.
+"What do I put, sir?"
 
-And she was doing nothing.
+"Nothing," said Bracken. "Nothing was requested."
 
-He ran the read at her again, at full depth, across forty feet of stone, at the moment the rider said the word, when anybody standing in a court with a live refusal in it gives away a fraction of something, however well trained. She gave away nothing. Not because she was hiding it. Hiding has a texture; Cael had learned to feel it over two years of Seln at a counter and a man in a fourth chair with nothing in his hands. This was not hiding. There was simply nothing there to hide. She was not laying anything, not holding anything, not readying anything. She was a person standing in a court.
+The house's counsel had come to the lodge door behind Cael, with her coat buttoned wrong and her hair coming down, and she leaned past him and looked at the empty line. She did not say anything. She put out one finger and touched the blank, once, as she would have touched a point she meant to come back to, and took the finger away.
 
-In exactly the right place.
+Cael looked at the blank and understood it.
 
----
+A real office turned away at a gate wants the refusal in writing before it has turned its horse. A written refusal is the first brick of the next instrument. These four had not asked for one. They had not argued, or cited, or read the order a second time. They had taken the paper back and ridden away at a working trot, like people who had finished an errand. Which meant the errand had never been the order. Paper of exactly that grade had come up the hill to find out what the house would do with it: how fast, who came, how long the registrar took over the seal, how many sentences the Chancellor needed. Refused, it had cost them a morning. Obeyed, it would have cost them nothing at all.
 
-They did not ask for a written refusal.
+They had come to measure the door. They had measured it, and gone home with the figure.
 
-The lead rider bowed to the Chancellor at the correct depth. He held out his hand for the order, and Bracken, after a moment, put it into the hand, though not before he had asked whether the house's senior clerk might take a fair copy at the lodge counter for the house's book, since it had been read aloud in the house; and the rider had said, without any interest, that he might. They waited while the clerk copied it. They waited while the clerk laid a sheet of thin paper over the seal and took a rubbing of it with the side of a pencil, at Bracken's nod. They did not object to that either.
+Withrow had not gone straight in. Cael saw her stop at the lodge door on her way across the court, where the lodge-man stood with the book under his arm and the hour still faintly grey on the back of his hand, and look up once more at the board he had painted.
 
-Then they took the paper back and got onto their horses.
+"*Anything sealed, fetch the registrar,*" she read aloud. "You did, and you shut your window, and you stood where you could see the whole of it." She nodded to him, the nod she gave her senior staff. "Your board did very well this morning. Put a fresh coat on it in the spring, if you would. I should like it to last."
 
-The fourth rider got up last, as she had got down. Cael watched her do it, because he had one more question to put to her and that was the only moment left to put it. A body getting onto a horse has to decide to, and the deciding shows for half a beat before the foot goes into the stirrup: the weight shifts, the knee loads, something in the shoulders gathers. Every fighter he had ever read had that half beat. She did not. She went up onto the horse the way a clerk sits down on a stool he sits on every day, without any gathering at all, and he understood that somebody, a long time ago, had trained the half beat out of her on purpose.
-
-They went down through the arch at a working trot, unhurried, four people finishing an errand.
-
-The house's counsel watched them go with her hands in her coat pockets and her hair coming down.
-
-"They didn't ask for it in writing," she said.
-
-Bracken looked at her.
-
-"A real office refused at a gate wants the refusal on paper before it's got its horse turned round," said the counsel. "It's the most useful thing it could take home. You build your next instrument on top of a written refusal; it's the first brick." She took one hand out of her pocket and pushed a pin back into her hair. "They didn't want a next instrument. They didn't want him either, today, or they'd have pushed. They came for something else."
-
-Up behind the bell-frame Cael had already worked out what.
-
-Not the enrollee. The door. They had brought a paper of exactly one grade up the hill to find out whether paper of that grade would open a chartered house's gate, and how fast the house would answer, and who would come, and how long the registrar would take over the seal, and what the Chancellor would say and in how many sentences. Refused, it had cost them a morning. Obeyed, it would have cost them nothing at all. Either way, they would ride down the bluff road knowing the exact weight of this house's procedure, tried at its own gate, and carry it away to whoever had sent them.
-
-*Measure the door.* That was the whole of the errand. They had measured it.
-
-Withrow waited until the last hoof had stopped sounding on the road below the gate. Then she spoke to Bracken without lowering her voice at all.
-
-"All of it in the book, Registrar. The hour they came and the hour they went. The order as it was read. The office, as they named it. What I said. And what they offered the boy, in their words, not mine, with a note that it was said up at the gatehouse roof, and that there was nobody on the roof."
-
-She went in.
-
-The lodge-man wrote the hour on the back of his hand with the pencil from behind his ear, because he had not had time to get his book.
+The lodge-man said he would, Chancellor, and stood straighter against his jamb than Cael had ever seen him stand, and did not sit down again on his high stool until she had gone round the corner of the lecture range.
 
 ---
 
-By noon the riders had multiplied.
+There was nothing in the house's book about the woman.
 
-Two first-years at the bread, enjoying themselves, had them at ten and wearing swords. The boy at the urn had it that the lodge-man had been struck and his window broken. The two second-years in front of Cael in the queue, who did not know what the back of his head looked like, were nearest the truth and worst: the Chancellor had sent Ostrand away from her gate, and Ostrand would shut the house for it, and one of them had a cousin who had heard the date.
+There was no line on the form for her and no reason Bracken should have thought of one. She had said nothing and done nothing and handed nobody anything. Cael stood in the lodge door while the clerk sanded the page, and gave her the lines himself, in his head, because nobody else was going to.
 
-He did not correct any of them. He got his soup and went to his table.
+He had read her four times. The first two he already had: three paces in, onto the one level patch in the court. The third time he had asked the court what she could see from there, and the answer had been the arch. The gatehouse was twelve feet deep. From almost anywhere in the court you saw only a slice of the road through it, the left side from the covered walk, the right from the lecture range. There were a few feet of flag from which the whole opening lay open end to end, road and verges and the first bend below the gate. She had stood in them with her back three-quarters to the arch, and never once turned to look.
 
-The house fed four hundred and thirty people at that hour, and he had sat at the same table for two years: the third-years' long one under the west windows, where the cohort ate. He sat down in his own place at it. The place beside him, on his left, was empty.
+The fourth time he had drawn lines. One to the arch behind her; one to the lodge door; one into the corner where the covered walk ran through to the quadrangle; one round the end of the lecture range; one into the stable passage, which had never had a door on it and never would. Every line went past her. Three went within a stride of her boots. And her shoulders had been squared, a hand's breadth, to the last of them: the one way out of that court the house itself could not have closed.
 
-It was the only empty place at the table. Cael saw that before he had picked up his spoon. The table was full from end to end, as it always was at noon, elbows touching. Somebody had been going to sit in that place, and had come to it with a tray, and had looked at who sat next to it, and had found a place somewhere else instead. He did not know who. Nobody at the table was looking at him, and nobody was not looking at him, and nobody said anything to him at all.
+And all that while she had laid nothing. He had run the read at her at full depth across forty feet of stone, at the moment the word went up, when anyone standing in a court with a refusal going on in it lets go of a fraction of something. She let go of nothing. It was not hiding; hiding has a grain to it, and he had learned that grain from two years of Seln at a counter. There was simply nothing there. She was a person standing in a court, in exactly the right place.
 
-Nobody needed to. An empty place at a full table says what it has to say by itself, in a voice everybody in the room can hear.
+The last thing he had seen was the last thing she did.
 
-Rooke sat down in the empty place with a full plate.
+A body getting onto a horse has to decide to, and the deciding shows for half a beat before the foot finds the stirrup: the weight shifts, the knee loads, the shoulders gather. Every fighter Cael had ever read had that half beat. She had not. She went up into the saddle the way a clerk sits down on the stool he sits on every morning, and he had understood, watching her, that somebody a long time ago had trained that half beat out of her on purpose.
 
-He did not look at Cael. He did not say anything about the gate. He put his elbows on the table and began to eat, steadily, the whole plate, and between mouthfuls he talked across the table to the Current girl about hips. Her hips, and Lira's, and the program's. He told her that the inside of a landing hip was the first thing to go on a planked floor and the last thing anybody thought to strap, and that Lira's had come back quiet after two days and she was to make it three before she believed it. He talked about hips for a whole meal, to a table of third-years who had never once heard him talk about anything for longer than a sentence, and at the end of it he wiped his plate with his bread and sat back.
+Gault had it in his book before Cael had it in his.
 
-Ephram had put his tray down on Cael's other side halfway through the hips. Then two of the cohort who had been at the far end of the table moved up. Then the rest of them shifted along, without anybody saying anything, until the table was the table again with no gaps in it anywhere.
+The Magister stopped him on the covered walk an hour after the riders had gone, which he had not done once all year. He had his case under his arm and a small black notebook in his other hand, open, with the pencil still in the fold.
 
-Rooke got up and took his plate away. He had not mentioned the gate once.
+"Under the provision," said Gault, in the voice he kept for panel notes, "the evaluator of record must be told of any assessment proposed for the enrollee before it is proposed. I was told of none." He looked at a point a little above Cael's left shoulder. "I have written that down."
 
-Gault stopped him on the covered walk in the middle of the afternoon.
+He shut the notebook on the pencil, gave his quarter-inch nod, and walked on toward the Magisters' stair.
 
-The Magister had not stopped him anywhere since the year began. He passed Cael on that walk most days, going between his rooms and the wing with his case under his arm, and nodded, a quarter-inch, and went on. Today he stopped dead in front of him with the case held to his chest in both arms.
+Cael watched him go. Of everything anybody had said to him since the second bell, that was the least comforting, and it was the one that steadied him. A man had read a rule, found it unkept, and put it in his book, where it would sit unread by anybody who could change anything. It was dull and exact and entirely true, and it steadied him more than Withrow had.
 
-"Under the provision," said Gault, in the voice he used for panel notes, "the evaluator of record must be told of any assessment proposed for the enrollee, before it is proposed. I was told of none." He looked at a point a little above Cael's left shoulder. "I have written that down."
+He went up to his sill and took out the observation notebook, and went past two years of the Crown yard, eleven Paths and every fighter on the hill, to the first clean leaf at the back. He wrote a heading the notebook had never needed before.
 
-He gave his quarter-inch nod and walked on toward the Magisters' stair.
+*The fourth rider. A woman. Unnamed. Path: not shown.*
 
-Cael watched him go. Of everything anybody had said to him since the second bell, that was the least comforting, and he found it was the one he could stand on. A man had read a rule, found it not kept, and put it in his book. That was all. It changed nothing. It would never be read by anybody who could change anything. And it was the first thing all day that had felt like ground.
+He did not write down the four times he had read her. He had them already, and the page was for what they meant.
 
-He thought of Lira in the dairy. *It's a floor.* All right. But Gault had just told him exactly where one board was, and that it was still nailed down.
+*Guess: the whole craft is where she stands. A Shield guards a person. This guards ground, and whatever has to cross it. If she can do anything from where she stands. I never saw her do anything.*
 
-He opened the observation notebook at the sill that afternoon, and went past the Halcenvane section with its eleven Paths, past the pages on every fighter he had watched in the Crown yard for two years, to the first clean leaf at the back.
+*Not known: how far she reaches. How fast. What it costs her. Nothing is free, so it costs her something, and I can't see what. A shape and no numbers.*
 
-He wrote a heading on it that the notebook had never had before.
+*Her horse never moved either, the whole nine minutes, in a strange court with a refusal going on in it. Somebody trained the horse too.*
 
-*The fourth rider. A woman. No name given. Path: not shown.*
-
-Then, under it, he set down what he had, plainly, in the order he had got it.
-
-*Three paces in. On the one level patch in the court, found without looking.*
-
-*Stood where the whole arch is open to her and never looked at it.*
-
-*Every way out of the court runs past her. Squared to the stable passage, the only way out without a door: the only one the house couldn't shut for her.*
-
-*Laid nothing. Held nothing. Readied nothing. Not hiding, because there was nothing there to hide. Got onto a horse without deciding to.*
-
-*Her horse never shifted either, in nine minutes, with a strange court round it. She had it standing like a quay post. Somebody trained the horse too.*
-
-He read that over. Then he wrote what he thought it meant, and marked it as a guess, because a guess with a line under it is cheaper than a guess you have forgotten you made.
-
-*Guess: her whole craft is where she stands. A Shield guards a person. She guards a piece of ground, and everything that has to cross it. If she can do anything from it at all; I haven't seen her do anything.*
-
-*Not known: her reach, her rate, her price. What she'd have done if anybody had moved. Nothing is free, so she pays something, and I can't see what. I have a shape and no numbers.*
-
-He sat looking at the page a long time. The light went off the river.
-
-Then he wrote one more line at the bottom of it, by itself, because there was only one person on the hill who might know.
+He looked at that for a while. Then he wrote one more line at the bottom, by itself, because there was only one person on the hill who might know.
 
 *Query for Seln: what Path holds people?*
 
 ---
 
-Seln answered it that evening in the records hall, at the long table, with the house's fair copy of the order lying flat in the middle of the wood and the clerk's pencil rubbing of the seal beside it.
+At noon he took the guess into the refectory and found it waiting for him.
 
-He had not been asked. Cael had not shown him the notebook. But Seln had been at the counter in the wing all afternoon, and had seen Cael come back from the sill and go past the wing's window to the library, and Cael supposed that a man who could tell what color a district office's seal turned when it was finished with you could also tell when somebody on the hill had a question for him.
+The third-years' long table under the west windows was full from end to end, as it was every noon, elbows touching. There was one place empty at it, and it was the place on Cael's left. Somebody had been going to sit there. Somebody had come to it with a tray, and looked at who was sitting next to it, and found a place somewhere else.
 
-He sat down at the middle of the bench, across from the copy, and folded his hands, and said it before anybody else had spoken.
+He sat down and looked at the empty place the way he had looked at the court that morning. One spot in a full room where nobody would stand. Every line in the room went round it.
 
-"Anchor Path."
+Rooke sat down in it.
 
-Karis looked up from the rubbing.
+He came with a full plate, and he did not look at Cael, and he did not say anything about the gate. He put his elbows on the table and began to eat, steadily, and between mouthfuls he talked across the board to the Current girl about hips. Her hips, and Lira's, and the whole program's. He told her the inside of a landing hip was the first thing to go on a planked floor and the last thing anybody thought to strap, and that Lira's had come back quiet after two days and she was to make it three before she believed it.
 
-"You won't find it on a meet card," said Seln. "You find it on a posting roll. I've filed reports from three towns where one of them was billeted, and I never once saw one on a floor." He spoke as he spoke at the counter, without hurry, giving each fact its own room. "It's rare at any station. The service writes to the family in the week the station enters it, and most of them go, because nobody else has ever written to them about anything." He turned his cup a quarter-turn on the wood. "It holds people. That's what the system keeps it for."
+Behind Cael two first-years at the bread were telling each other that there had been ten riders, with swords. Further along, a boy who had heard it from the urn said the lodge-man had been struck and his window broken. The two second-years nearest had it best and worst: the Chancellor had sent Ostrand away from her gate, and Ostrand would shut the house for it, and one of them had a cousin who knew the date.
+
+Rooke talked about hips through all of it. He talked about hips for a whole meal, to a table of third-years who had never once heard him say more than a sentence about anything, and the rumours went past him on both sides like water past a post.
+
+Ephram put his tray down on Cael's right, halfway through. Then two of the cohort moved up from the far end. Then the rest of them shifted along, without anybody saying a word, until the table was the table again with no gap anywhere in it. "Grievances are Third-day evenings," Ephram said to nobody in particular, reaching for the bread. "I'm not taking any at lunch."
+
+Rooke wiped his plate with his bread and took it away. He had not mentioned the gate once. He had stood in the one place in the room nobody else would stand, and the room had moved round him.
+
+Karis had Bracken's middle glass and the clerk's pencil rubbing of the seal on the long table in the records hall, with the fair copy of the order beside them, when Cael came in at dusk. The others were already there. Seln was at the middle of the bench across from the copy, with his hands folded and his cup at his elbow.
+
+Karis did not look up.
+
+"Before anybody says anything about her," she said, "I want the words straight, because they're going to blur if we're not careful, and I'll be the one keeping the notes." She held up one finger. "Ternhall's anchors are mine. Three footholds I plant in a floor, in their order, so that the heat of a contact runs down into the boards and not back up my arm. Ternhall calls the whole frame a lattice." A second finger. "Which has nothing to do with the Lattice Path. That's lines you can't see, strung across a space, that you find by walking into them." She lowered the hand. "And then there's whatever stood in our court this morning. It wasn't either of those. It didn't plant anything and it didn't string anything. I haven't got a word for it."
+
+"Anchor Path," said Seln.
+
+They looked at him. He had not opened his eyes.
+
+"You won't find it on a meet card," he said. "You find it on a posting roll. I've filed from three towns where one of them was billeted, and I never once saw one on a floor. It's rare at any station. The service writes to the family in the week the station enters it, and most of them go, because nobody else has ever written to them about anything. It holds people. That's what the system keeps it for."
 
 "Holds them how?" said Brom.
 
-"I've never stood in front of one at work, and I won't guess at it." Seln looked at the copy. "I know where they're posted. A practitioner at that grade, standing where she stood, doesn't do escort. Escort is for clerks with good horses. That one is enforcement." He laid one fingertip on the table beside the copy, not touching it. "Whoever wrote that paper is done assessing."
+"I've never stood near enough to one at work to say, and I won't guess." Seln opened his eyes and looked at the copy. "I know where they're posted, and it isn't escort. Escort is for clerks on good horses. One at that grade, standing where she stood, is enforcement." He laid one fingertip on the table beside the order, not touching it. "Whoever wrote that paper is done assessing."
 
 Nobody said anything for a moment.
 
 "Her grade," said Karis.
 
-"Look where she stood, and for how long, with everything that was going on round her." Seln did not look up. "Nobody learns that in a few years of carrying prisoners. That isn't an escort. That's the best tool somebody owns."
+"Look where she stood," said Seln, "and for how long, and with what going on round her. Nobody learns that carrying prisoners for a few years. That's the best tool somebody owns."
 
-Karis put her glass down. She had borrowed it from Bracken, the middle one of his three.
+Cael wrote *Anchor Path* in the notebook under the morning's page, and under it Karis's three words in her order, and ruled a line beneath them.
 
-"I want to say one thing clearly," she said, "because I'll be the one who has to keep it straight in the notes, and the words are all going to blur if I don't." She held up one finger. "Ternhall's anchors. Mine. Three footholds I plant in a floor, in their order, so that the heat of a contact goes down into the boards and not back up my arm. Ternhall calls the whole frame a lattice, which is a second word that has nothing to do with the third." A second finger. "The Lattice Path: lines you can't see, strung across a space, that you find by walking into them." A third. "And this. A Path that holds a person." She let the hand fall. "Three different things that people are going to want to call by the same name. I won't let them."
+Karis turned the rubbing over and laid her palm on it.
 
-Cael wrote all three in the notebook under the fourth rider's page, in her order, and drew a line under them.
+"Bracken writes to the district seat in the morning," she said. "In a week the answer comes back up the hill. It'll say a facilities office was constituted this year, correctly, by an instrument filed under a seal. The seal will be of the registry's pattern. The office that sealed it, nobody will be able to place. Write to that office, and the answer will be the same again, one more step up. Every sheet real. Every seal the right shape. And never, anywhere, a—"
 
-Then Karis turned the rubbing round on the table so that the others could see it, a grey circle of pencil with the registry's pattern standing up out of it in white.
+"What's the next thing they try?" said Lira.
 
-"Bracken will write to the district seat tomorrow," she said. "In a week the answer will come back up the hill, and it will say that a facilities office was constituted this year, correctly, by an instrument filed under a seal, and the seal will be a registry seal of the registry's pattern from an office nobody can place. And if he writes to that office, the answer will be the same again." She tapped the rubbing once with one finger. "Paper all the way down. Every leaf of it real. And never once, anywhere in it, a person."
+She said it from the end of the table, where she had been sitting with her landing leg along the bench and her back to the wall and nothing to say all evening. She did not raise her voice. She just did not wait for Karis to finish.
 
-She looked round the table.
-
-"The faceless layer has learned to write paper. This morning was a trial of their paper against our gate, and the gate held." She paused. "This time."
-
-Brom said nothing. Brom never asked a person to say a thing twice.
-
-"What held it was a registrar who reads seals with his thumb, and a chancellor who would sooner be shut than be quick," said Karis. "Two people. Not a rule anywhere in it. Take either of them away and that paper opens a gate like a cupboard door; it's well made, it'll open most of them." Her voice did not change. "I'd like us all to notice what held this morning, and how little of it there was."
-
-Lira had been sitting at the table's end with her back against the wall and her landing leg stretched out along the bench in front of her, saying nothing. Now she drew the leg in.
-
-"What's the next thing they try?" she said. "When paper won't do it."
+"When paper won't do it," she said. "What's next?"
 
 Nobody answered her.
 
-Cael found that he was looking at Seln. So, he saw, were the others; nobody had decided to, and all of them had. And Seln was looking down at the copy of the order, at the plain grey words in the senior clerk's careful hand, and he did not answer either.
+Bracken came in at the hall's side door while the question was still hanging there, with a sheet in his hand and his pen behind his ear. He had been at his counter since the riders left. He did not sit; he never sat in that room when there were enrollees in it.
 
----
+"The letter to the district seat," he said, and read it to them, because he read everything aloud that the house was going to send: the date; the instrument as presented, quoted whole; the issuing office as named; *the registrar of this house is unable to place the said office in any register available to him, and respectfully asks that the instrument constituting it be supplied, together with the seal under which that instrument was itself issued.* He lowered the sheet. "It goes down with the morning bag. They will answer inside the week, because they must."
+
+"And it'll say what Karis said," said Brom.
+
+"Very likely." Bracken folded the letter once. "Then I shall write again, to whatever office it names, and ask the same thing. I shall keep asking until somebody is obliged to sign his name, or until there is nobody left to ask, and either way the book will show that the question was put." He looked round the table, at each of them in turn, a little over his spectacles. "It is not much. It is what a true book is for."
+
+He went back out to his counter.
+
+Karis looked at the rubbing under her hand for a long moment. Then she finished what she had been going to say, quietly, to the table and not to Lira.
+
+"The faceless layer has learned to write paper," she said. "And this morning it found out where ours holds and where it doesn't. What held was a registrar who reads a seal with his thumb and a chancellor who would sooner be shut than be quick. Two people. No rule anywhere in it." She lifted her hand off the rubbing. "I'd like us all to notice how little that is."
 
 It was Brom who stood up.
 
-"Show me," he said. To Cael. "Where she stood."
+"Show me," he said, to Cael. "Where she stood."
 
-They went out to the Crown yard with two lanterns and a lump of the porter's chalk. Brom carried one lantern and Cael the other, and at the yard gate Cael looked back and found that Seln had come too, unasked, a few steps behind them, with his coat buttoned to the chin and his hands in its pockets.
+---
 
-The Crown yard was empty and dark and smelled of the oak. The porter's boards along the long wall stood chalked with the year's names, pale in the lanternlight, Ephram's at the head of the Iron column. They set the lanterns down on the sprung floor at either end and Cael went down on his knees with the chalk.
+Brom was already standing in the chalk ring when Cael got up off his knees.
 
-He drew the outer court on the oak at its own size. Fifty feet by seventy; he paced it, and Brom paced it after him, and they agreed. The arch, with its twelve feet of depth drawn in as two long lines. The lodge door in the arch's cheek. The covered walk's arch in the corner. The mouth of the lane round the lecture range. The stable passage, with no door drawn across it. And in the middle of everything, a square for the capped well, and round it a ring for the level flags.
+They had come out to the Crown yard with two lanterns and a lump of the porter's chalk, and at the yard gate Cael had looked back and found that Seln had come too, unasked, a few steps behind them, with his coat buttoned to the chin and his hands in its pockets. Seln had not come onto the oak. He stood at its edge by the porter's boards, where the year's names stood chalked pale in the lamplight, Ephram's at the head of the Iron column, and watched.
 
-When he had finished, Brom walked to the ring and stood in it, three paces in from the arch, with his shoulders turned a hand's breadth toward the stable passage.
+Cael had drawn the outer court at its own size, fifty feet by seventy, paced once by him and once by Brom until they agreed. The arch as two long lines, twelve feet apart. The lodge door in its cheek. The covered walk's corner. The mouth of the lane. The stable passage, with no door drawn across it. In the middle, a square for the capped well and a ring round it for the level flags; and Brom, before the chalk was out of Cael's hand, had walked into the ring three paces from the arch and turned his shoulders a hand's breadth toward the stable passage.
 
 "Here?"
 
 "A little left. There."
 
-Brom moved. He stood there, broad and still in the lanternlight, where she had stood.
+Brom moved, and stood. "Now walk out."
 
-"Now walk out," he said.
+Cael walked out. Middle to the arch, and back; middle to the lodge door; to the covered walk's corner; to the lane; to the stable passage; chalking each road on the oak behind him as he went, the way he chalked a fighter's footwork before a bout. Five lines out of one court.
 
-Cael walked out. He went from the middle of the drawn court to the arch, and then back and to the lodge door, and then to the covered walk's corner, and then to the lane, and then to the stable passage, chalking each road on the oak behind him as a line, the way he would have chalked the lines of a fighter's footwork before a bout. Five lines, from five places, out of one court.
+Every one went past Brom. Three went within a stride of him. One went straight through the place he stood, and he had to step aside to let Cael by. The line to the stable passage started almost under his boots.
 
-Every line went past Brom. Three of them went within a stride of him. One went straight through the place where he stood, and he had to step aside to let Cael by. And the line to the stable passage, the only one with no door on it, ran out from almost under his feet.
+"Try it," said Brom. "Get out past me. The doorless way."
 
-Seln had not come onto the floor. He stood at the edge of the oak, by the porter's boards, with his hands in his pockets, and watched them do it. Their voices went off the long wall behind him and came back late and thin, so that every word in the yard was said twice, the way the rider's voice had been said twice in the court that morning. After a while all three of them were speaking quietly, without having agreed to.
+Cael went from the lodge door's mark toward the stable passage at a walk, and Brom took one step, only one, sideways off the ring, and was standing in the line. Cael went the long way round, by the covered walk's corner, and Brom took one step back, and was in that line too. He had not hurried. He had hardly moved his feet.
 
-"I'd stand there too," said Brom at last, from the middle of the chalk. "If I were holding it." He looked down at his own feet on the drawn flags. "I'd never have found it in three steps."
+"One step," said Brom. "From there it's one step to anywhere you want to go." He looked down at the chalk. "And that's me. I can't hold anything. I'm just a big man standing in the right place."
 
-"What would she do from there?" Cael said. "If somebody walked."
+The long wall threw their voices back late and thin, so that everything said on the oak was said twice, the way the rider's voice had come back off the court that morning. Without agreeing to, they had all three begun to speak low.
 
-Brom shook his head. "I don't know."
+"I'd stand there too," said Brom at last, looking down at his feet on the drawn flags. "If I was holding it. I'd never have found it in three steps."
 
-"Nor do I." Cael looked at the five chalk lines running out across the oak from the place Brom stood. "I don't know how far she reaches. I don't know if she reaches at all. I've drawn where she stood and where everybody else would have to go. That's all I've got. It's a map of a floor with nothing on it about the fighter."
+"What would she do from there?" said Cael. "If somebody walked."
 
-"Then that's what it is," said Seln, from the edge of the oak.
+"I don't know."
 
-They both looked at him.
+"Nor do I." Cael looked at the five chalk lines running out from under Brom across the oak. "I don't know how far she reaches. I don't know that she reaches at all. I've drawn where she stood and where everybody else would have to go. It's a floor with nothing on it about the fighter."
 
-"Count what you've got," said Seln. "Five lines and a place to stand. Write those down. And leave the rest of it blank, where you can see it every time you open the page." He took one hand out of his pocket and gestured, a little, at the empty oak round the chalk. "A blank you can see is worth something. It's the ones you've forgotten are blank that get people hurt."
+"Then that's what it is," said Seln, from the edge.
 
-Brom stayed where he was a while longer, standing on the drawn flags with the lanterns at his feet. Then he stepped out of the ring, carefully, the way a man steps out of a place he means to remember, and they left the chalk on the oak for the porter to wash off in the morning and picked up the lanterns and went back.
+They both looked round.
 
----
+"Count what you've got. Five lines and a place to stand. Write those down." He took one hand out of his pocket and moved it a little, at the bare oak round the chalk. "Leave the rest blank, where you'll see it every time you open the page. A blank you can see is worth something. It's the blanks you've forgotten that get people hurt."
 
-Karis and Lira were still at the long table in the records hall when they came in. Karis had the rubbing under her glass again. Lira had her notebook open, which she did not often have, and was writing in it in her square capitals with her tongue between her teeth.
+Brom stayed where he was a while longer, on the drawn flags with the lanterns at his feet. Then he stepped out of the ring carefully, the way a man steps out of a place he means to remember. They left the chalk for the porter to wash off in the morning, and picked up the lanterns, and went back.
 
-The copy of the order lay where they had left it, in the middle of the table, under the lamp.
+The cup had not moved.
 
-Seln sat down across from it, at the middle of the bench, where he had sat before.
+That was what Cael saw first when they came back into the records hall: Seln's cup, at his elbow on the long table, exactly where it had stood when they went out. Karis and Lira were still at the table, Karis copying the evening into her notebook, Lira writing in her own in square capitals with her tongue between her teeth. Seln sat down at the middle of the bench where he had sat before, and did not touch it.
 
-He did not pick it up. He did not move it. He put his two hands flat on the wood, one on each side of the paper, close to it but not touching, and he looked at it.
+Seln turned his cups. He always had. A quarter-turn when he sat down, a quarter-turn back when he had said what he meant to say, a quarter-turn on the counter when he had finished a cup of the lodge-man's tea. Cael had watched him do it for two years without ever once remarking on it. Tonight the cup had stood at his elbow for a whole evening, through Anchor Path and the rubbing and Lira's question, and he had not turned it once.
 
-Cael had seen Seln look at a great many papers. Seln looked at paper the way other men looked at weather, quickly, to know whether to take a coat. He did not linger on anything; he had never needed to. Now he sat and looked at a fair copy of eighty-one words in the senior clerk's hand, a paper he had already read and could certainly have said back to them word for word, and he went on looking at it. Karis finished with the rubbing, and set the glass down, and he was still looking. Lira closed her notebook. Brom set his lantern on the end of the table and sat down beside it. Seln looked at the order.
+Cael thought, at first, that the man was tired. It had been a long day for everyone, and Seln was older than any of them and had been up before the bell to do the post-room sort. Cael sat down across from him and put the lantern on the table and said the thing that had been in his head since the oak.
 
-His hands did not move. That was what Cael noticed in the end, more than the looking. Seln's hands were always busy, in a quiet way that nobody remarked on; they squared a form, or laid a bean in a row, or turned a cup a quarter-turn and then a quarter-turn back. Now they lay flat on either side of the paper and did nothing at all. His cup stood at his elbow where it had stood all evening, and he had not turned it once since they came in.
+"Is there any way to find out how far she reaches? Without standing in front of her?"
 
-The others had read the paper, Cael thought. All of them, every word, twice. Seln was reading something else. Something behind it, that only he could see through it, as you see the shape of a lamp through a sheet of paper held up to it; something he had perhaps been reading for a very long time, and that had moved tonight.
+Seln did not answer.
 
-Nobody asked him. Cael did not ask him. Questions had never yet got anything out of Seln, and Cael had given up trying them a long time ago.
+He was not tired. Cael saw that as soon as he had asked. Seln's two hands were on the table, flat, one on each side of the fair copy of the order, close to the paper but not touching it, and his eyes were on the paper, and they had been on it, Cael understood now, since the moment he sat down. He was not reading it. He had read it; he could have said it back word for word. He was looking at it the way a man looks at a sheet of paper held up to a lamp, for the shape of something on the other side.
 
-He looked instead at the order, as Seln was looking at it. *Effective on presentation.* *Transport and escort provided.* *Given under the Compact's hand.* At Norhold, in a lent room of the timekeepers' office with forty clocks ticking on its walls, the Archmarshal had told him that the people who wanted this to stop would not go on using official channels much longer. This morning something that was neither one thing nor the other had come up the bluff road in plain grey, politely, with genuine paper in its hand, and knocked. It had measured the door and gone away. There were other gates on the continent, and most of them had no Withrow in them.
+Karis finished her copying and set down her pen. Lira closed her book. Brom sat with his elbows on his knees. And Seln went on looking at the order, longer than any of them, with his hands flat and still on either side of it.
 
-Cael said it aloud, because it was true and that table was for true things, and because somebody at it had to.
+At Norhold, in a lent room of the timekeepers' office with forty clocks going on its walls, the Archmarshal had told Cael that the people who wanted this to stop would not go on using official channels much longer. This morning something that was neither one kind of channel nor the other had come up the bluff road in plain grey, politely, with real paper in its hand, and knocked. It had measured the door and gone away. There were other gates on the continent, and most of them had no Withrow standing in them.
+
+Seln moved.
+
+He took his right hand off the table and reached for his cup, and Cael thought he was going to turn it at last. He did not. He picked it up and set it down again a full hand's breadth further away from the order, on the far side of his own reach, as if it had been standing too near something; and he put the hand back flat beside the paper, where it had been.
+
+Cael said it aloud, because it was true, and because somebody at that table had to.
 
 "Whatever we're going to do, the schedule isn't ours anymore."
 
-Nobody answered him. Lira looked at the lamp. Karis turned the rubbing face down. Brom sat with his elbows on his knees.
-
-And Seln, at the middle of the bench, with his hands flat on either side of the paper, went on looking at it, longer than anyone.
+Nobody answered him. And Seln, at the middle of the bench, with his hands flat on either side of the paper, went on looking at it.

@@ -12,13 +12,11 @@ Bracken stood at the yard gate with the travel sheet on a board and read it alou
 
 "I like knowing where I'm meant to stand."
 
-It had not been a certain thing, the colors. Two days before, at the delegation table in Withrow's outer office, Bracken had raised it, because raising it was what a registrar was for. He had raised it in the most careful way he had. The house was a named respondent in proceedings at the registry seat. A public meet was a public place. Was it the Chancellor's wish that the house's colors should travel, this year, to a floor where every registry-literate person in the region would see them, beside the name of a house that was being asked, under seal, whether it ought to exist in its present form?
+At the foot of Bracken's sheet, under the last tick, there was a line in his small square hand that had nothing to do with names. Cael read it upside down while the registrar was busy with the wagon.
 
-Withrow had not looked up from the travel sheet she was signing.
+*Colors: to travel. The Chancellor, verbatim: "The house sends its fighters in its own colors, Registrar, or it does not send them, and nobody at Ostrand has yet asked me to stop sending them."*
 
-"The house sends its fighters in its own colors, Registrar, or it does not send them, and nobody at Ostrand has yet asked me to stop sending them."
-
-That had been all. Bracken had written something on his board and nodded, and Cael had seen, from the door, that the nod was not reluctance. It was a man who had asked the question so that it would be on the record that somebody had asked it, and who was glad of the answer.
+So he had asked. Of course he had; a house named as respondent in a sitting at the registry seat, sending its colors to a public floor two days north, was exactly the kind of question a registrar's office exists to put, so that afterward it can be shown that somebody put it. And he had written down her answer word for word, with the quotation marks, the way he wrote down anything a person might later want to say they had not said. Cael did not think Withrow would ever want to say she had not said it. He thought Bracken knew that, and had written it down anyway, and was glad.
 
 Lira came out of the residence door with her kit on her back and her sash already over her shoulder, as if somebody might change their mind if she waited for it to be handed to her.
 
@@ -28,9 +26,11 @@ The confluence was two days north of Ostrand, and they spent most of both of the
 
 Karis drafted in the coach. She had the fourth sitting's papers in a document wallet on her knees and a board across the wallet, and she wrote on the board in pencil when the road was rough and in ink when it was smooth, and once, on a long straight stretch above the water meadows, she stopped drafting altogether and took a plain card out of the wallet's back.
 
-It was the kind of card she used for questions she meant a seat to hear. It had one line on it. Cael could read most things upside down by now, and he could not read this, because she had written it very small and kept the heel of her hand across it. He watched her strike one word in the line and write another above it. Then she struck that one too. She changed the same word four times, while the coach went the whole length of the meadows, and the fourth time she left it. She saw him watching. She did not hide the card. She turned it face down on the board and went back to the draft, and he understood that he had been allowed to know there was a question, and nothing else. Lira read the red drill-book for the first hour, with her lips moving on the counts, and then shut it and looked out of the window and did not open it again. Brom slept sitting up, which he could do anywhere, with his arms folded and his chin on his chest and one boot braced on the opposite bench so that the coach's lurches went into him and stopped.
+It was the kind of card she used for questions she meant a seat to hear. It had one line on it. Cael could read most things upside down by now, and he could not read this, because she had written it very small and kept the heel of her hand across it. He watched her strike one word in the line and write another above it. Then she struck that one too. She changed the same word four times, while the coach went the whole length of the meadows, and the fourth time she left it. She saw him watching. She did not hide the card. She turned it face down on the board and went back to the draft, and he understood that he had been allowed to know there was a question, and nothing else.
 
-Seln sat in the corner with his eyes closed and his hands folded on his knee. He had not brought the case. Cael noticed that without meaning to. The man had carried it to Norhold and back, every mile, and this morning he had climbed into the coach with nothing but a coat and a small bag and the ledger he kept for records support, and when Cael looked at the shelf above the copying table in his mind, the case was still on it.
+Lira read the red drill-book for the first hour, with her lips moving on the counts, and then shut it and looked out of the window and did not open it again. Brom slept sitting up, which he could do anywhere, with his arms folded and his chin on his chest and one boot braced on the opposite bench so that the coach's lurches went into him and stopped.
+
+Seln sat in the corner with his eyes closed, a coat, a small bag and the records ledger at his feet, and nothing else. The case had made the Norhold road with him, both ways. This time it had stayed on its shelf.
 
 They slept at a waystation on the first night, in a long room with eight beds and a stove.
 
@@ -52,9 +52,9 @@ He put the hand back in his pocket.
 
 "That's the program. Everything else is mornings. The program is getting things written down where nobody can rub them off."
 
-Cael said nothing. He stood at the rail and felt it land, the way a sentence lands that you have said yourself, in a different room, in different words, three nights before. *You can read it. It doesn't move.* Rooke was building Lira a ladder, and every rung of it was paper of exactly the kind Cael had spent the evening in the dairy defending. A figure under a seal. A line in a file. It would hold her weight for as long as the paper held.
+Cael said nothing. It was his own argument from the dairy, said back to him by somebody else in a dark yard, and it sounded different in Rooke's mouth: not a defence, a trade. Rooke was building Lira a ladder one sealed line at a time.
 
-And every rung of it was here, on this side of the stamps.
+And every rung of it stood on this side of the stamps.
 
 "Every fighter I've ever had was better than their file," said Rooke. "Every one. The file catches up, if you keep putting true things in it. It's slow. It's the only thing that does catch up." He nodded at the waystation door. "Bed."
 
@@ -72,25 +72,17 @@ He was as round and as red as he had been at the year's turn. He took a bag off 
 
 It was. The frame hung behind his counter between the casks, and in the frame was the printed ruling from the wool town, a little more yellow than it had been, with a fly-spot on the glass. The innkeeper read it out to them again, every word, in his ringing voice, while their bags stood on his floor. He laughed at *not available* exactly where he had laughed the first time. So did Lira, though she had heard it twice now and had once told Cael it was the best sentence any official had ever written.
 
-Withrow came in last, looked at the frame, and asked for tea.
-
-She drank it later in the inn's window seat, where she could see the hall across the square with its lamps being lit one by one for the evening's draw. Cael brought her the second cup because the innkeeper's girl was frightened of her. She took it and did not thank him, which with Withrow meant that she had expected him to bring it.
-
-"I have been careful in writing for sixty days," she said, to the window. "Every letter I've signed this year has been read twice by the house's counsel before it went down the hill. Every word on the gatepost was weighed by the registrar on his brass beam, very nearly." She set the cup on its saucer without a sound. "Tomorrow I intend to sit in the front of that hall, in the house's colors, where the whole region can see me, and be glad of one of my own people in public. I find I've been looking forward to it for a fortnight."
-
-She did not look at him.
-
-"Go and read your card," she said. "Rooke is waiting in the door, and he hates waiting in doors."
+Withrow came in last, looked at the frame for some time without any expression at all, and asked for tea.
 
 ---
 
-The card went up in the hall that evening, by lamplight, and Cael went across the square to read it with Rooke and Lira and the Current third-year, while the others ate.
+Cael went across the square after supper with Rooke and Lira and the Current third-year to read the card by lamplight.
 
-It was a short card. This was not a year in which the region qualified anybody for anything; the cycle ran every third year, and the hall's real meet, the one at the year's turn that had filled the barn to its beams, would not come round as a qualifier again for a while. This was the lighter card, the earlier one, for houses that wanted a floor and a figure and did not need a seeding. Six houses had sent fighters. The Iron draw was twelve deep. The Copper draw was nine.
+It was a short card. The cycle qualified nobody this year; this was the lighter, earlier card, for houses that wanted a floor and a figure and no seeding. Six houses. Twelve in the Iron draw, nine in the Copper.
 
 And at the bottom of the board, under a ruled line in the steward's chalk, was a short list headed *Exhibitions under the host's provision*.
 
-Rooke had filed it on the day the card was posted on the east hall door. Cael had seen him do it. It was a host's option, written into the confluence's own rules, older than the steward who kept them: a house could ask the host to schedule one of its fighters into an exhibition outside the tier draws, against a named opponent of any tier who agreed, five exchanges at most, two touches to end it, rated by the hall's panel for a figure and nothing more. No standing changed hands. No points went into anybody's total. The Iron Rank One of a house that had never had a Silver program could, under that provision, stand on a floor against a Silver, if a Silver would have her.
+Under it was one line. A house might ask the host to set one of its fighters against a named opponent of any tier who agreed, outside the draws: five exchanges at most, two touches to end it, a panel figure and nothing more. Rooke had asked, by letter, the day his card went up on the east hall door.
 
 The steward had pinned the acceptance beside the filing. It was written in a large, slow, careful hand on a scrap of a barge manifest, and it said only: *Yes. Glad to.* Under it was a name the house was never going to use, and the man's tier and rank and Path, and the name of his guild. *Silver. Rank Eight. Force. The confluence's bargemen.*
 
@@ -132,49 +124,51 @@ She nodded, and looked back at the river coming in from the east, quick and cold
 
 ---
 
-Rooke briefed her at the end of the inn's long back table when the plates had gone. Cael timed it out of habit, and it was four minutes, and he had all of it in the notebook before Rooke stood up.
+Lira pulled the bottom slice out of the stack.
 
-Rooke did not use paper. He used the bread.
+Rooke had built it at the end of the inn's long back table when the plates had gone: the heel of the loaf on top, a slice under it, a slice under that. He had built it without a word, while she watched, and she had watched until she could not stand it, and then reached across and drawn the bottom slice out from under the other two, so that the heel came down a finger's breadth onto the table.
 
-"You know Force," he said, and set a heel of the loaf on the table between the salt and the jug. "Goes into the floor in layers. Comes up where he wants it. You've beaten two Force builders in a year, and you beat them by going to the edge of a layer before it was finished and leaning on it till it fell over." He tapped the heel. "This is what they build. One course. They stand on it. You knock it down."
+"What goes first?" she said. "Out of all of it. Tell me what goes first, and I'll go there."
 
-He took a second slice off the loaf and laid it flat under the first, so that the heel sat on top of it.
+"Nothing goes first. That's the point of him." Rooke took the slice back off her and put it on his own plate. "I'll give it you backward. You'll remember it better."
 
-"This one doesn't stand on the course you can see," he said. "While the top one's still going up, he lays another underneath it. And the bottom one is what's carrying him. By the time you've found the edge of the top course and leaned on it, there's a second under it, and he's started a third under that." He slid a third slice in at the bottom, and the little stack rose a finger's width on the table. "You'll be working at the roof. He'll be standing in the cellar."
+He put one finger on the heel.
 
-Lira looked at the bread as if it had insulted her.
+"The fourth. If you're still on your feet in the fourth, he'll stop building for you altogether. He'll stand on what he's already made and give you nothing new to break. You'll have to beat him to his own stamp. You probably won't." He moved the finger down to the slice beneath. "The third, he'll move you. I don't know how. Somewhere you don't want to be, without you feeling it happen. That one's his whatever you do." He moved it again, to the table, where the bottom slice had been. "The second is the exam. Since the recess I've been building your mornings toward one exchange, and that's it. That's where I find out if I've taught you a way to fight or a way to look busy at dawn."
 
-"The number," said Rooke. "Every course he lays takes four of his counts before it'll bear weight. Before four it's a promise. After four it's a floor. Eleven years of his bouts, and that's the one figure in them that never moves." He took his finger off the stack. "So."
+"And the first?"
 
-"So I go before four," said Lira.
+"The first you lose." He looked at her. "Slowly. One burst, one, and you spend it finding out how far down he goes, because there's no other way to know how deep a Silver is than to stand on him. Nothing I've got could teach you that."
 
-"In the second exchange. In the first you go nowhere near it." He looked at her. "You'll lose the first. I want you to lose it slowly. You get one burst in it, one, and you spend it finding the bottom of that stack, because there's no way to learn how deep a Silver goes except to stand on top of him and feel how far down it is. Two months of mornings didn't teach you that. Nothing I've got could."
+Lira took the slice back off his plate without asking and began to build the stack again herself. She laid the bottom slice down. She set the second on it.
 
-"And the second?"
+"One," said Rooke, as the second slice went down. "Two." She lifted the heel. "Three." She held it. "Four." She set it down on top. "Now it bears. Before four he's laid a promise. After four he's standing on a floor. Eleven years of his sheets, and that count hasn't shifted once."
 
-"The second's the exam." Rooke said it flatly. "I built your mornings for that exchange. All of them, since the recess. That's where we find out whether I've been teaching you a way to fight, or a way to look busy at dawn. The third is his. The fourth is his." He paused. "If you're still on your feet in the fourth, I'll say something kind to you, and you'll have earned it."
+"So I go before four."
+
+"In the second. Not the first. In the first you go nowhere near it."
+
+The Stone had been sitting at the table's other end with his hands folded on his stomach, as he sat at the program's trestle every morning. He leaned forward.
+
+"His knees," he said. "Not his hands. He settles before every course: a long settle when he wants it deep, a short one when he's in a hurry. The hands lie. The knees never have."
+
+Lira looked at the little stack she had built.
+
+"So the plan," she said, "is that I go out and lose, and we all call it growth."
+
+"The plan is that you lose the first exchange, and we call it the first exchange." Rooke stood and took his coat off the chair. "Three bursts. I'll know if it's four. If you're on your feet in the fourth, I'll say something kind to you."
 
 "You've never said anything kind to me."
 
 "Then you'll remember it."
 
-The Stone had been sitting at the table's other end with his hands folded on his stomach, as he sat at the program's trestle every morning. He leaned forward now.
-
-"His knees," he said. "Watch his knees, not his hands. He settles before every course. A long settle for a deep one. A short one when he's in a hurry." He sat back. "The hands lie. The knees never have."
-
-Lira nodded slowly, still looking at the bread.
-
-"So the plan," she said, "is that I go out there and lose, and we all call it growth."
-
-"The plan," said Rooke, "is that you lose the first exchange, and we call it the first exchange." He stood up and took his coat off the back of the chair. "Three bursts. I'll know if it's four."
-
-When he had gone, Lira picked up the heel of the loaf from the top of the stack and ate it, very deliberately, looking at the bottom slice the whole time.
+When he had gone she took the heel off the top of the stack and ate it, slowly, looking at the bottom slice the whole time.
 
 ---
 
 Cael went over to the hall at first light, and Rooke was already on the floor.
 
-He was walking it. He did this before every meet in every hall, and nobody in the program had ever seen him miss one. This morning he was doing it slower than usual, because the stewards' letter that put the meet back eight days had said *repairs to the hall* and not one word about where. He went round the whole square inside the ropes, slowly, and every few paces he stopped and pressed the planks with the heel of his boot, and listened, and went on. Cael sat down on the end of a bench at the north rope and watched him and did not interrupt, because a floor was a document and Rooke read it the way Karis read paper, from the edges inward.
+He was walking it. He did this before every meet in every hall, and nobody in the program had ever seen him miss one. This morning he was doing it slower than usual, because the stewards' letter that put the meet back eight days had said *repairs to the hall* and not one word about where. He went round the whole square inside the ropes, slowly, and every few paces he stopped and pressed the planks with the heel of his boot, and listened, and went on. Cael sat down on the end of a bench at the north rope and watched him and did not interrupt.
 
 The hall was cold and grey and smelled of river. The great doors at the water end were shut, and a thin steady draught came in under them across the boards.
 

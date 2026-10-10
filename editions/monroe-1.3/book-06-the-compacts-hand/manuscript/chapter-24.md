@@ -72,7 +72,7 @@ She was moving before the steward's hand came down. Cael saw her weight go onto 
 
 And watched Lira's feet change while the settle was still going down.
 
-It was the four-count. She had drilled it for two months on a painted floor, the last weeks of it under lamps, three lies and a truth, until Rooke said she did it in her sleep and the Current girl said she did it in hers too, across the dormitory, out loud. She lied with the front foot. She lied with the back. She lied with her shoulders, a half-turn east that pulled the Silver's eyes the same way. And on the fourth she went, from the foot she did not care about, before his settle had reached the bottom.
+It was the four-count. She had drilled it for two months on a painted floor, the last weeks of it under lamps, three lies and a truth, until Rooke said she did it in her sleep and the Current girl said she did it in hers too, across the dormitory, out loud. She lied with the front foot. She lied with the back. She lied with her shoulders, a half-turn east that pulled the Silver's eyes the same way. And on the fourth she went, her second burst, from the foot she did not care about, before his settle had reached the bottom.
 
 She did not go for him. She went for the boards in front of his front foot, where the new course was going down.
 
@@ -104,7 +104,7 @@ He nodded to her once and went back to his chalk. Whatever he had read about her
 
 The third exchange was his.
 
-Cael knew it would be within ten breaths. The Silver's settles were short now, the Stone's short settle, the one he used in a hurry, and the courses came up out of the floor faster than Lira could find their edges. He laid one, and one under it, and one under that, and the hum in the boards went down and down until Cael felt it in his teeth. Lira went in at his front foot twice, and twice he was already standing on something else.
+Cael knew it would be within ten breaths. The Silver's settles were short now, the Stone's short settle, the one he used in a hurry, and the courses came up out of the floor faster than Lira could find their edges. He laid one, and one under it, and one under that, and the hum in the boards went down and down until Cael felt it in his teeth. Lira stepped in toward his front foot twice, on her feet and not her bursts, and twice he was already standing on something else.
 
 Then he began to move her.
 
@@ -114,9 +114,9 @@ Her push foot was on the boards by the rope. Cael saw them clearly for the first
 
 The sawdust was gone. Somebody's feet had kicked it into the rope's shadow during the first exchange, and under the lamps, where it had been, the grain of the planks ran the wrong way. Every other board on the floor ran north to south. Here, for a patch perhaps eight feet across, they ran east to west. They had been laid level with the rest and stained to match, and from the bench in the morning, under a heap of sawdust in the rope's shadow, they had been invisible. Somebody had mended that corner. The river had come in under the great doors at some time since the year's turn, and lifted the old planks, and the hall had put new ones down crossways.
 
-Lira burst off them.
+Lira drove off them. It was not a burst, only a hard push from the back foot to close the last yard, the kind she made a hundred times a bout without counting it.
 
-He saw her know it as she went. The burst came off a plank that flexed along the wrong axis and gave her three parts of what she had asked for. She went at the Silver with three-quarters of her speed, and he was standing exactly where three-quarters of her speed would bring her, at the end of a finished course, waiting. He had not been guessing. He had built the end of that run before she began it.
+He saw her know it as she went. The push came off a plank that flexed along the wrong axis and gave her three parts of what she had asked for. She went at the Silver with three-quarters of her speed, and he was standing exactly where three-quarters of her speed would bring her, at the end of a finished course, waiting. He had not been guessing. He had built the end of that run before she began it.
 
 She was inside a finished structure at contact range, with the floor under her about to heave.
 

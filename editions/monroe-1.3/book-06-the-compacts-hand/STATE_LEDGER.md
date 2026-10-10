@@ -675,3 +675,109 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **The beans** (Seln's "A drawing can be found. Beans can be eaten.") and "walking the fences" as the monitoring office's slang for a pre-restriction inventory.
 
 **Movement 3 CLOSED (2026-10-10).** Sol rechecks: r1 SECOND REPAIR (91 of 136 source-tracking passages); r2 THIRD REPAIR (10 left; +1 canon fix, Hesk's three-line answer); r3 CLOSE WITH LINE FIXES — two applied (ch14 the junior's pinned note now reads *Second frame reading: within tolerance.*; ch20 Karis: "The clause survived five challenges… Greyvane was the newest."). Final source-distance audit 136/136 resolved. r3 dropped from the page: the couriers and "four towns by tonight" in ch20 (what remains: Brom's bruise from a satchel buckle), the eighteen months in ch19, the old assessor in ch14 — later movements must not rely on them. 29,409 words. Overlap 0/13, gates 0, probe 1%/13%.
+
+
+## AFTER MOVEMENT 4 — chapters 21–27 (drafted 2026-10-10, author claude-opus-5-5; repair r1 applied; recheck pending)
+
+**Coordinator rulings and r1 changes (override the author's end-state below):**
+- CALENDAR: the road meet was POSTPONED eight days by the confluence hall (river repairs; the river lifted the south-west planks — the false quarter) from day 63 to DAY 71. This supersedes the M3 ledger's "day 63" as the meet date (the M3 page — eighteen days on day 45, nine on day 54 — stays true as the original schedule). Chain: day-68 council; day-71 meet; the 23-day sealed-letter interval; day-75 sitting; day-76 gate.
+- THE ESCORT ORDER (Tier B) verbatim under the heading *In the matter of Caelen Hesk-ward.* (#44) — 81 words read aloud.
+- LIRA'S SILVER EXHIBITION (ch24): exactly five bursts before E4 (the crossways launch is a push); the sixth "borrowed against tomorrow"; she finishes half a stride short; panel figure 27 to the Silver's 28, entered in the meet record under the hall's seal — it may stand on her file for the advancement evaluation (#38).
+- The hearing provision's second paragraph (the advocate heard at the close) is planted; Karis entered in the door log as *Advocate of record for the respondent, under the hearing provision* — for M8.
+- Seln: NOT told; does not know a sealed thing exists; the maintenance records' content never stated; he names Anchor Path (ch27). The day-45 Velmere letter still sealed in Brom's left pocket.
+- The fourth rider / Anchor: the blanks around its reach, rate and price stay blank; Cael's inference from the physical evidence; the chalk reconstruction of the Crown yard.
+- Length after r1: ~30,400 words (M4 budget ~34,000). Book 6 after four movements ~119,700 against ~133,000 — about 13,000 short; not padded.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names; feet and yards. Day 58 Second-day, day 61 Fifth-day, day 64 First-day: Lira's three carters. About day 57: the confluence's stewards put the road meet back eight days for repairs to their hall (from day 63 to day 71; see owner flag 1). Day 66 Third-day: the note; "five drawers… shut" (the last two days before). Day 67: Withrow's colors sentence. **Day 68 Fifth-day: the small room**; Seln in the dark wing that night. Day 69 Sixth-day: the delegation leaves (Withrow and Bracken in the hired carriage, the coach, the program wagon; Rooke, the Stone, Lira, the Current third-year, Karis, Seln, Brom, Cael; Ephram stays). Day 70: the confluence at dusk; the card; Rooke's brief. **Day 71 First-day: the exhibition (afternoon); the production order served a quarter past two.** Day 72: finals; the corridor; the last evening at the rail. Days 73–74: home in rain. **Day 75 Fifth-day: the fourth sitting** (records produced; the one question). **Day 76 Sixth-day, second bell: the escort order at the gate**; noon refectory; Gault; the notebook; records hall; the Crown yard after dark. Bracken writes to the district seat on day 77 (the answer due about a week later). Brom's panel and the ruling share the year's last Fifth-day. The *fled* default would enter forty days after the fourth sitting's close (day 75) — the code's count, said by Seln.
+
+**Bodies.**
+- **Cael:** unhurt. The cost of the band named aloud ("Every bout. Not much each time. It adds up.").
+- **Lira:** the north-west post across both shoulder blades (a hand-wide bruise by day 72, stiff); landing leg hot from the hip down the outside after six bursts (one past the floor's five) — two days at half work, no frames, no bursts until quiet; Rooke on day 76: quiet after two days, "make it three before she believed it". Left arm carried close from habit only.
+- **Brom, Karis, Seln, Ephram:** fit.
+
+**Knowledge.**
+- **The circle:** the road east as Lira's sum (the last Arbiter station four days past Ostrand loaded, three light; stamps stop there; two carters go past, the third turns at it and won't say why); the coastal default and *fled*; forty days after the fourth sitting's close; the five offices' inventories closed (Seln); Jent's sentence on the record; the fossil provision's two paragraphs (the second kept unmentioned); the escort order whole; a "facilities office" nobody can place; **Anchor Path** as a name and a use (rare; service; enforcement; holds people) — **inferred only: no range, rate or cost**; the three-way distinction (Ternhall's anchors / the Lattice Path / Anchor Path).
+- **Cael:** the fourth rider as a shape with no numbers (placement; the level flags; the arch's full span; every exit past her; squared to the doorless passage; no tell at the remount; even her horse trained). Rooke's account of the program as paper that can't be rubbed off. Nothing about falsification, a sub-layer, a maker, [UNBOUND] or Tide. The returns' wording still unknown. Nothing of Havel's note.
+- **Seln:** has still **not** been told why Shadow was sealed and does not know a sealed thing exists (his window touches only the two slips, the coals, the season's figures and Norhold). The maintenance records' content is not stated anywhere. He knows the clerk's timing at the confluence.
+- **Lira:** the Silver's advice ("go on your fifth"); the panel's figure under a hall's seal; the town's caution explained (licences). She has not said aloud that the road east has no Silver card.
+- **Ephram, Withrow, Bracken, the counsel, Rooke, Gault:** the gate; the order; the refusal. Gault: no assessment was notified to the evaluator of record (written in his book).
+- **Ilsev:** looked up at the question. **Havel:** wrote the time; did not look. No sixth sheet.
+- **Jent:** called Karis "Advocate" into the minute under the hearing provision.
+
+**Resources.**
+- **Hesk's book:** the dairy log (*We asked. We didn't decide.*; Seln's two looks; the question-mark page); the meet log; *They can't touch the paper… So they choose the hour.*; Cael's dairy notes and *He had brought receipts to a room that did not take them.* on the back of a schedule.
+- **The observation notebook:** the first page for the fourth rider; the query; Karis's three-way distinction ruled under.
+- **Karis's notebook:** *both roads* not written this time — instead *It was the night we asked*, dated; the plain card (question and Jent's answer, dated) inside the front cover with the fielding clause, the squad rule, the charter's slip and the stratum note.
+- **The house:** the production order and its duplicate (Bracken; the duplicate carried by Cael for Karis); the year's wing-three records copied and bound in the house's boards, produced at the fourth sitting and receipted by the junior chair; the house's book entry for the gate (hours, the order as read, the office as named, the refusal, the offer verbatim, "said up at the gatehouse roof… nobody on the roof"); the senior clerk's fair copy of the escort order; the pencil rubbing of its seal.
+- **Lira:** the steward's sheet *for your file* (touches by exchange, 28 / 27, Rooke's four words copied at the foot), folded inside her coat — "It would go in the box."
+- **Brom:** right pocket the slip *Both.*; **left pocket the day-45 Velmere letter still SEALED**, with the summons, docket and confirmation.
+- **Seln's case:** on the shelf above the copying table, untouched; the brass key in his waistcoat. Not mentioned aloud.
+
+**Fragments and progression.**
+- Seven confirmed; the anomaly untouched. **No new fragment.** Anchor Path inferred only.
+- Deployments: none on the page (no wing-three bout, no honest floor). The band named as a cost.
+- **Lira:** exhibition v the Silver Rank Eight, **two touches to one on the fourth exchange** (touches E1 his, E2 hers, E4 his; E3 clean); panel figure **27** to his **28**, in the confluence meet record under the hall's seal. Six bursts against Rooke's three; one past the planks' five.
+- The Current third-year: won her first Iron bout two to nothing; lost the semifinal on figures to a lake-house Blade.
+
+**Relationships (on the page).**
+- **Lira:** asks the question once; "Watch my feet… before anybody"; "Like a toll"; the Silver's "I asked"; "They waited till I'd lost well"; the sheet and the box.
+- **Brom:** the chair; three sentences; the plaque; the second box and the hand on the left pocket; the bowl at breakfast; "Show me."
+- **Karis:** the coastal letter ("It was true"); the induction; "Memory improves things"; the card; *Advocate* true for a day; "He wasn't even careful"; the three-way distinction; "how little of it there was".
+- **Seln:** one correction; two looks; the lamp at the dairy step; the clerk's timing ("I'd have gone at the same touch"); Anchor Path; came unasked to the Crown yard; "A blank you can see is worth something"; his hands flat, cup unturned.
+- **Withrow:** the colors sentence; "careful in writing for sixty days"; thanks by grade; the boards; the gate's reasons; "You are speaking to me, Officer."
+- **Bracken:** "Attendance"; the order read standing; the seal read by thumb; "I can't write four riders in it."
+- **Rooke:** the trough ("getting things written down where nobody can rub them off"); bread; honesty; "Mine"; "Again. Faster. It's there."; "I just did"; hips in the open seat.
+- **The Stone:** "Watch his knees"; hands above his head.
+- **The counsel:** "Old law is an old floor"; the second paragraph kept; "In your pocket, not your mouth"; why no written refusal.
+- **Jent:** "obliged to the respondent"; the answer; "I'd have asked it myself, in your chair."
+- **Gault:** "I have written that down."
+- **Ephram:** sits after Rooke.
+- **The assistant:** found the heading by being wrong.
+
+**Proceedings.**
+- Production order (day 71, served at the confluence on the delegation): the house's evaluation-linked floor records for *Caelen Hesk-ward*, year to date, at the fourth sitting. Produced day 75 in the house's boards; receipted.
+- **Fourth sitting (day 75):** the hearing provision invoked once; Karis entered as advocate of record; the interrogatory *What evidence, if any, would defeat the petition?*; Jent's answer minuted. Next sitting set down.
+- **Escort order (day 76):** *In the matter of Caelen Hesk-ward.* + the Tier B body; a "facilities office" newly constituted; declined pending verification; no written refusal demanded; logged. Bracken to write to the district seat.
+- File designations unchanged.
+
+**Open threads.**
+- **Opened:** the second paragraph of the hearing provision (Karis's closing, M8); Bracken's letter to the district seat (paper all the way down, predicted); the fourth rider's blank; Lira's box; the meet record's figure; Rooke's "paper nobody can rub off".
+- **Advanced:** the leaving question (asked; not decided); the first pole (defended at full strength; "a room that did not take" receipts); Seln's deciding; Brom's second box; the faceless layer (paper, then the gate); the watchers (now watching the house's luggage and colors).
+- **Closed:** the small room; the Silver exhibition; the production order; the fourth sitting's question; the escort order's first knock.
+- **Plants (kept at altitude):** Seln's "maintenance records… whose question it had been" (content never stated); his true, empty reports filed with the boy's receipts; the third carter who turns at the last station; Anchor Path as the system's tool for holding people. No maker, age or intent; no falsification word.
+
+**Prose vs plan differences.**
+- (a) **The road meet is on day 71** (put back eight days from day 63 by the confluence's repairs) so that the packet's order holds — see owner flag 1.
+- (b) The carters are a **Lira cutaway** (the packet lists them as "on the page"); a second Lira cutaway carries the bout sheet.
+- (c) The small room is an old **dairy**, not the source's store; Seln's correction is spoken live, not reported.
+- (d) The false quarter is **found during E3**, not charted before the bout; three facts are charted at dawn and the fourth line left blank — so Rooke's "Mine" is his own and Cael shares it in his log.
+- (e) The exhibition format is B5's (five exchanges at most; two touches ends it; panel figure only); "touch", not "flag".
+- (f) The fossil provision is **found by the assistant** (a struck index heading) and its **second paragraph** is the M8 hook, kept unmentioned at the seat.
+- (g) Jent answers the interrogatory addressed to Karis ("Advocate"); the door log enters her under the provision's own title.
+- (h) The four passes on the fourth rider are **interleaved with the gate scene in real time**, not recounted after.
+- (i) The escort order carries a six-word heading naming him (#44) above the verbatim Tier B body; the count of 81 is heading plus body (see owner flag 2).
+- (j) The closing line is **spoken aloud by Cael** at the records-hall table, not written in the log.
+
+## New canon minted (flag where marked)
+
+- **The small room (flag):** the residence's old dairy; a step down; slate shelves; a slit window onto the bakehouse wall six feet off; a table built in place. The common room's one good chair; Brom's spirit kettle.
+- **Lira's carters (flag):** three unnamed carters (an old man with mules; a woman with good horses whose daughter is a Mire and drives the second wagon; a young man with a new wagon who "turns there"); manifests stamped at every station, the gap after the last; the last Arbiter station a low stone building with a frame-house behind it and a sigil over the door, past the last chartered waystation.
+- **"Seals change color" (flag, minor):** a district office finished walking its fences sends acknowledgments, not queries; Seln reads it in the post.
+- **The coastal default (flag):** a coastal guild practitioner in an integrity matter, winning, withdrew by letter at the eleventh sitting; default ruling's second paragraph quotes his letter (text in ch21). The registry's line *Respondent absent from the jurisdiction; entered as fled.*
+- **The forty days (flag; supports §4e #9):** the default enters forty days after the close of the fourth sitting if the respondent has not appeared; the code counts days, not sittings.
+- **Seln's trade (flag):** nineteen postings in fifteen years (this the last); sixty-three subjects; he followed a few past their files and stopped; a commendation for clean product; the maintenance records copied on his **fourth posting, twelve years ago**, from a records-room press found while looking for a subject's travel endorsements; understood a year later in a green-distempered corridor; he copied his mother's ledgers as a boy. Content never stated.
+- **The meet postponement (flag):** the confluence's stewards put the road meet back eight days "for repairs to the hall"; the river had come in under the great doors and lifted the south-west planks; eight feet relaid crossways and stained to match.
+- **The confluence hall (flag):** new, stiff ropes at three heights (no rebound); lamps clustered on a beam over the middle (no light); the panel's table on the east side with no benches (the quiet side); the stewards' loft over the west doors; a small street door beside the great river doors; the trestle corridor behind the hall.
+- **The Silver Rank Eight (flag — style; unnamed):** the confluence's bargemen's guild; Silver eleven years; fights at the confluence twice a year; barefoot; builds courses under courses on a four-count; a long settle for depth, a short one in a hurry (the Stone); accepted on a barge manifest (*Yes. Glad to.*).
+- **The exhibition:** the host's provision filed by Rooke; touches E1/E2/E4; panel 28 / 27; the steward's sheet sent *for your file*.
+- **Rooke (flag):** "The registry… reads meet records"; "Every fighter I've ever had was better than their file"; "honesty" as the program's word for a first exchange lost on purpose.
+- **The production order text (flag):** one sentence (ch25).
+- **Withrow (flag):** the records bound in the house's boards with seal and contents leaf.
+- **The hearing provision (flag — M8 hook):** *Of the seat's hearing, and who may be heard*; struck in pencil in the general index a century ago; never repealed; para 1 (one question through counsel, on the record) last used ~140 years ago in a river district over a mill-race; para 2 (the advocate of record heard at the close, by the seat's leave) no recorded use; the door-log title *Advocate of record for the respondent, under the hearing provision.*
+- **The gate (flag):** the gatehouse walk over the arch with the old bell-frame; the outer court 50 × 70 feet, flagged, sloping to gutters, dead level round the capped farm well; five exits (the arch; the lodge door; the covered walk's corner into the quadrangle; the lane round the lecture range; the doorless stable passage); the arch twelve feet deep; the lodge board's four lines (*CARTS — ROUND BY THE LANE. CALLERS — SIGN AND WAIT. POST — THE BAG ON THE HOOK. ANYTHING SEALED — FETCH THE REGISTRAR.*); registry stock from two mills (Bracken: the south mill).
+- **The escort order's heading:** *In the matter of Caelen Hesk-ward.* (see flag 2).
+- **The riders:** the lead rider (forty or so, weathered); two others; the fourth, a woman (unnamed). A "facilities office… constituted this year, for the proceedings".
+- **Anchor Path (flag, as said by Seln):** on posting rolls, not meet cards; rare at any station; the service writes to the family the week the station enters it; "It holds people." **No range, rate or cost.**
