@@ -18,7 +18,7 @@ Two days to the conference. Seventeen to the first sitting.
 
 "Per seal," said Cael.
 
-"It's in the second volume," said Karis. "Toward the back, in the sections nobody reads unless they're looking for something to be frightened of. Some matters the registry decides belong to the office and not the officer. In those, the seat sits as itself. Whoever holds it that morning wears the hood and presses the seal, and the minute names the seal." She did not unfold her arms. "There's no name in the record because, in law, there's nobody to name."
+"It's in the second volume," said Karis. "Toward the back, in the sections nobody reads unless they're looking for something to be frightened of. Some matters the registry decides belong to the office and not the officer. In those, the seat sits as itself, not as whoever is in it. The code even gives it a hood for the purpose." She did not unfold her arms. "The minute takes the seal's impression and no signature. In law there's nobody under the hood to name."
 
 Bracken nodded once, as a teacher nods at a pupil who has got there first.
 
@@ -92,13 +92,11 @@ It did it carefully, a full turn and then a quarter more, so that nothing would 
 
 He was not big. Cael had expected size without knowing it, or a voice, or some weight in the way a man came across a room. What came across this room was a man of middle height and middle years in a brown coat that had been good once and had been kept good since, with the cuffs mended in a slightly different brown. A pair of spectacles hung on a black cord round his neck.
 
-He greeted the house's counsel first, by a name Cael heard and did not catch; she answered it with a short nod, as one tradesman nods to another across a street. He gave Withrow her title and the depth of bow the registry taught. Then he turned to Karis, who had come in behind the counsel with the summary under her arm.
+"Advocate," said Jent, and it was the third thing he said in that room.
 
-"Advocate," said Jent.
+The first two had gone to the others. A name to the house's counsel, which Cael heard and did not catch and which she answered with a short nod, as one tradesman nods to another across a street. A title, and the registry's measured bow, to Withrow. The third went past both of them to the girl behind them with the summary under her arm, and Karis's pen, which she had taken out to make a note of the room, stopped in the air.
 
-Karis's pen, which she had taken out to make a note of the room, stopped in the air.
-
-She did not correct him; Cael watched her decide not to. She was an enrollee with an Iron Rank Three on the porter's wall, and the house had given her a reading room, a lock and a line in the accounts, and nobody had yet found a title for her that fitted. This one fitted: a stranger had looked at the answer and at the person carrying it, and found the word on the first try.
+Nobody in the house had settled what to call her. The council had needed two sittings to head her line in the accounts. The porter's wall gave her a rank, which said what she could do on a floor and nothing at all about what she did on paper. Cael waited for her to say she was no such thing. She let it stand, and he thought he knew why. It was the first title anybody had ever given her for the work, and not for the room she did it in.
 
 Jent nodded to the three behind her as the house's attendance, and to Cael as a man nods to a party in a matter, and went back to his chair and unscrewed the inkwell.
 
@@ -120,11 +118,9 @@ Every one of the nine was there to be cited.
 
 "I was about to ask the same," said the counsel.
 
-"Then we're agreed." He took off his spectacles and let them hang. "I've been through it twice now. The best-documented enrollment I've reviewed in thirty years. Genuinely." That last word went across the table to Karis, as plainly as a measurement. "And the renewals table. Two dates to a row, and the reason for the gap. I've not seen that done before. Somebody was in the room."
+"Then we're agreed." He took off his spectacles and let them hang on their cord, and turned over a leaf of his own notes. "Your renewals table, Advocate. Two dates to every row, and the gap between them accounted for. I've not seen that before. Somebody was in the room." He let the leaf fall back. "The best-documented enrollment I've reviewed in thirty years. Genuinely."
 
-"Thank you," said Karis.
-
-She said it at once, before anybody else could speak. Cael turned his head. He had never once heard her thank anybody for a compliment.
+"Thank you," said Karis, quickly, before he had quite finished, and at the end of the table Lira's eyebrows went up as if somebody had dropped a plate.
 
 Under the table, where nobody could see, Cael let the read go.
 
@@ -152,21 +148,21 @@ And last the thing Cael trusted most: the little space before an answer that cos
 
 "That's the seat's to say. I'll be content with either."
 
-Four questions. One hard, Cael thought, one sly, two easy, and the counsel had put the sly one second, where a man who was tired of the easy ones might trip on it. Jent had not tripped, and had not even seemed to notice there was anything to trip on. Every answer had come at the same pace, in the same voice, with his hands in the same place on either side of the inkwell, as if the questions had all been the same size. He was never fast. There was simply nothing in the man that had to choose.
+Four questions. One hard, Cael thought, one sly, two easy, and the counsel had put the sly one second, where a man tired of easy ones might trip. He had been counting the clock over the hearth between each question and its answer, and he had the four counts in his head: none, none, none, none. The sly one had cost Jent exactly what *No* had cost him.
 
 Four measures. Four nothings.
 
-"I'll not trouble the seat with the clause," said Jent near the end, when the clerk asked whether counsel had anything further. "Or the papers, or the renewals. The respondent's right about all of it, and I'd only waste the seat's mornings pretending otherwise." He squared his leaf. "I'll trouble it with the registry's discretion. Whether there's a question of integrity at all. And, if there is, what's to be done about it. I'll put both on the schedule. The respondent will answer."
+When the clerk asked whether counsel had anything further, Jent was already screwing the lid onto the inkwell, a turn and a quarter.
 
-He screwed the lid down on the inkwell, a turn and a quarter, and put it in his coat, and stood.
+"Only the order of business." He put the inkwell in his coat and stood. "Enter that the petitioner takes no point on the clause, or the papers, or the renewals, and needn't be heard on any of them. Put me down for the registry's discretion, on whatever days the seat gives me. First, whether there's a question of integrity at all. Then the remedy." He waited while the clerk wrote. "The respondent will want time to answer each. I'd give it to them."
 
-"Chancellor. Counsel. Advocate."
-
-He looked at Cael once more and inclined his head exactly as far as a procurator inclines it to a party.
+The clerk's pen stopped. Jent looked down the table at Cael and inclined his head exactly as far as a procurator inclines it to a party.
 
 "Hesk-ward."
 
-He went down the short stair at an even pace. By the clock over the hearth the conference had taken the time the code allowed for it, to the minute.
+At the door he turned once more and gave the rest of the room what it was owed. "Chancellor. Counsel. Advocate."
+
+The stair took him. The clerk wrote the hour in his margin, and Cael, reading it upside down, saw that it was the same hour the schedule had given for the conference's end before anybody had come into the room.
 
 ---
 
@@ -202,7 +198,7 @@ He went down all three with his finger, a quarter-hour's work. Cael stood and wa
 
 The read had told him the man's weight in his chair to the ounce, Cael wrote that night at the sill, and nothing else at all.
 
-*Four nothings. He praised Karis's work and meant every word. He gave away the whole of our answer before the clerk had sharpened his pen, and giving it away didn't hurt him. You can't lose what was never yours.*
+*Four nothings. I have only ever found a man by what he was afraid to lose, and Jent brought nothing into that room that was his to lose. The compliment he paid Karis the way you pay a fee at a counter, the right amount, honestly. Our whole answer he handed back across the table like a parcel addressed to somebody else.*
 
 *He's a hand. Somebody else is the arm.*
 

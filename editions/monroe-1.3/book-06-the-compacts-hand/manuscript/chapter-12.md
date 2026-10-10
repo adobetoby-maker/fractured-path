@@ -216,11 +216,19 @@ Nobody said anything. Brom unfolded his arms. Karis, on Cael's other side, close
 
 Lira looked at the floor a moment longer, and then went down the stair to find her water, walking carefully on the left leg, and did not look back to see how it had been received.
 
-They were halfway across the court in the heat, the three of them, behind the crowd going out, before Karis spoke.
+Halfway across the court in the heat, behind the crowd going out, Cael had the observation notebook open on his palm and was writing as he walked, in the working pages at the front where the day's figures went. He had got as far as Lira's name.
 
-"*Admit*," she said. "Put it in the back. Where the things go that don't get crossed out."
+Karis reached across without breaking step, closed the notebook on his pencil, turned it over, and opened it again from the back.
 
-He stopped on the flags and took out the observation notebook and wrote it in the permanent section at the back, the date and the one word, *admit*, under Lira's name. Across the court Lira was coming out of the east hall's door with her water, slowly, on the bad leg. She saw the pen moving. She kept walking.
+"There," she said. "With the things that don't get crossed out. Her word was *admit*."
+
+He stopped on the flags and wrote it there: the date, and the one word under Lira's name.
+
+At supper Lira asked him, without looking up from her plate, where he had put it.
+
+"The back."
+
+She nodded once and went on eating, and that was all either of them ever said about it.
 
 ---
 
@@ -230,11 +238,13 @@ The first came on the thirty-first day, to Bracken's counter, in the district se
 
 "*Review for advancement of tier. The panel convened under this office's docket of the fourth day is confirmed: three assessors and a sigil frame, at the district seat. The practitioner's record is received and entered as it stands, the title included. Sitting: the last Fifth-day of the academic year.*" He turned the sheet to the light. "And at the foot. *Outcome anticipated: advancement, per title.*"
 
-He read the last word again, by itself. "*Anticipated.*"
+He read the last word again, by itself. "*Anticipated.*" Then he turned the sheet round and laid it in front of Karis, not Brom, with his finger beside the foot.
 
-Then he lowered the sheet.
+"You've read more dockets than anybody at this table but me," he said. "Have you ever seen that on one?"
 
-"I'll be writing to the district about that word," said Bracken. "A docket isn't allowed an opinion. Somebody down there decided it was cheaper to write the answer than to go on pretending he didn't know it." He looked at it over his spectacles as if it might go away. "I'd like to shake his hand. I'd also like to have him moved." He held the sheet out across the table. "Iron, Brom. They've as good as painted it on the door."
+Karis looked. "Never."
+
+"Nor have I, and every docket that came up this hill in thirteen years has crossed my counter." He took the sheet back. "A docket gives the day and the room and the panel. Nobody lets it guess at the end. Some district clerk got tired of guessing quietly and wrote his guess where we could all see it." He looked at the word over his spectacles as if it might go away. "I'd like to shake his hand. I'd also like to have him moved. I'll be writing to the district." He held the sheet out across the table to Brom. "Well. They've as good as painted it on the door."
 
 Brom wiped his hands on his napkin and took the sheet, and read it, and folded it twice along the creases the district clerk had put in it. Then he unbuttoned his coat and put it in the left inside pocket, with the first docket and the summons and the Velmere letters, and buttoned the coat again, and pressed the buttons down one after another with his palm.
 

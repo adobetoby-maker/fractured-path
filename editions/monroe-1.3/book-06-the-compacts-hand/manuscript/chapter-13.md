@@ -124,11 +124,9 @@ The side door let them in at the foot of the long room, close by the records tab
 
 Two officers sat there with their books squared to the table's edge. The senior was a heavy man he did not know. Behind him, at the junior chair, sat a man Cael did know, though he could not have said from where without thinking: a records officer with a careful face and a board, whom he had seen at a desk at Greyvane, and on a chair along the east wall of the evaluation room on the oak, and at other tables before those. The man was writing the date at the head of a leaf. He did not look up.
 
-Beyond the records table, on a low platform under the registry's sigil, stood the presiding seat. To its west stood the evaluation seat, a bench with five chairs on it, every one of them under a grey cloth cover, because the district's senior evaluators had not yet been called. Below the platform the two parties' tables faced each other across a strip of floor, and behind them the public benches ran back to the great double door, full to the rails.
+He walked up the strip of floor between the two parties' tables to the house's place, and the old trade went under his boots as he went. The wool-factors had carved their lot numbers into the planking a hundred years ago, row after row, so that every bale had its place and every buyer could find it, and the registry had planed and waxed the boards and set its furniture down on the numbers without troubling to hide them. *Nine*, *ten*, *eleven*. Across the strip Jent was already at the petitioner's table with his inkwell unscrewed; he rose when Withrow came in, to his measured height, and sat again. Cael sat down at the house's table with *seventeen* under his left foot.
 
-Under his feet the old trade was still cut into the boards. The lot numbers ran down the length of the floor in rows, carved into the planking by the wool-factors a hundred years ago so that every bale had its place and every buyer could find it. The registry had planed the floor and waxed it and laid its furniture over the numbers without trying to hide them. Cael walked to the house's table across *nine* and *ten* and *eleven*, and sat down with *seventeen* under his left foot.
-
-Jent was at the petitioner's table with his inkwell already unscrewed. He rose when Withrow came in, to his measured height, and sat again.
+Only then did he look up the room to its end. A low platform. The registry's sigil over it, very large, in plain black. The presiding seat on the platform, and to one side of it a bench of five chairs under grey cloth covers, waiting for evaluators the district had not yet called. Behind him he could hear the public benches without turning: every one of them taken, all the way back to the great double door, and people standing along the wall where there were no benches left.
 
 Cael counted the room, because that was the first thing he did anywhere. Benches, doors, windows, tables, officers. He counted it a second time, and a third. Each time it came out a face short.
 
@@ -139,8 +137,6 @@ So Cael watched the hands, because the hands were all there was.
 They kept time with the procedure, and a beat behind it, like a second clock in a house that has been set by the first. When the clerk passed up the minute, the hands took the pen and initialled where the clerk's finger had been, and set the pen down. When the schedule was read, they turned one leaf. The shoulders under the grey did not settle or lift. The hood did not turn toward the respondent's table, or the petitioner's, or the benches. In forty minutes he saw nothing move under that hood that the procedure had not asked to move, and nothing in the hands that the procedure had not put there.
 
 He had spent his life reading people. It came to him, about halfway through, that every one of them had given him something to read whether they meant to or not, because there had been somebody inside the coat doing the giving. There was a coat here, and a seat, and a seal. If there was anybody inside, the seat had been built so that it did not matter.
-
-Seln had a seat on the last bench, at the end nearest the side door. From it, Cael saw later, a man could watch both doors and every table and the platform without turning his head. Seln had not looked for it. It had been the one place free when he came in, or it had been made to look that way. Cael found him once and after that kept his eyes off that end of the room.
 
 ---
 
@@ -190,27 +186,27 @@ He did not write a sixth. There was nothing to put on it.
 
 ---
 
-When the seat rose, Withrow rose with it.
+The long room stood when the seat rose. Cael was on his feet behind Withrow's chair, and so he saw her bow from behind: the line of her grey collar going down, and stopping, and the back of her neck held straight. He had watched her bow on the house's steps to visiting officers for two years and could have told its depth with his eyes shut. This was the same. It was the registry's own measure, the one she had been taught at twenty and had given across a platform like that one for twenty years from the officers' side, and she gave it now to a hood with no face under it as she would have given it to a registrar she had dined with.
 
-She stood at the head of the house's table in her grey and inclined her head toward the platform, toward the hood and the hands and the seal, to the exact depth the registry taught its officers to give a seat: the depth she had been taught at twenty and had given from the other side of that platform for twenty years. It was not a hair deeper for being given by a respondent. It was not a hair less for being given to a seat that would never tell her whose hands those were. Cael, standing behind her, watched her straighten, and saw that she had meant every inch of it.
+In the stir of the benches emptying, one coat at the far end of the last bench, nearest the side door, stood a fraction after all the others. It was Seln's. Cael had not seen him all morning. While the others went out to the coach he slipped back in for a moment and stood where Seln had sat, and found that from there a man could see both doors, all three tables and the platform without once turning his head. He went out again before anybody missed him.
 
-She said nothing on the stair, or in the side door's passage, or on the four steps where the correspondents' pencils were going. At the foot of the steps her carriage was waiting, and she stopped at its door with one hand on the frame and looked back at him over her shoulder.
+Withrow's carriage was waiting at the foot of the four steps, with the correspondents' pencils going on either side of it. She spoke to none of them. At its door she turned, with one hand on the frame, and found Cael with her eyes.
 
-"The same depth," she said. "From this side. I measured." And she got in, and the carriage went off down the market street ahead of them.
+"The same depth," she said. "From this side. I measured."
 
-The coach went after it. On the river road Brom spoke first, which he seldom did.
+Then she got in, and the carriage went off down the market street, and the coach went after it.
 
-"The junior at the records table," he said. "He never looked at you. Not once."
+Brom had his face to the window. Lira was watching Brom.
 
-"No."
+"You were counting somebody," she said. "All morning. I saw your lips."
 
-"At Greyvane he looked at you twice. From the recorder's desk." Brom turned from the window. "I counted, from the gallery."
+"The records officer. The junior." Brom did not turn round. "At Greyvane he sat at the recorder's desk under the bench, and twice he looked up from it at Cael. I was in the gallery. I counted." He was quiet a while. "This morning, none."
 
 "So he's done looking," said Lira, with her boots up on the opposite bench and her back against the coach's door. "Or he's been told to be."
 
-The house's counsel had her bag on her knees. "Clean," she said. "Nine items from him, and he needed every one. A hundred and seventy-three from us, every one true. The seat took both lists in the same breath and handed them both to the clerk."
+The house's counsel had her bag on her knees. "He tendered nine," she said. "I tendered a hundred and seventy-three. The clerk receipted them on one leaf, one line under the other, and the seat initialled the leaf without turning it over."
 
-"Because to a seal they weigh the same," said Karis. "Paper's paper."
+"It wouldn't have turned it over for one or for a thousand," said Karis. "A seal can't count."
 
 "And the seal?" said Lira. "You told us to watch it. Did it do anything?"
 
@@ -218,13 +214,13 @@ The house's counsel had her bag on her knees. "Clean," she said. "Nine items fro
 
 Seln was at the far end of the bench with his eyes shut. He had not said anything since the wool exchange.
 
-"The senior chair was district grade," he said, without opening them. "The man at the junior chair is a monitoring officer, sent round on rotation. Under the hood, the seat's own grade, which belongs to the seal and not to whoever is wearing it." The coach went over a stone and he did not move. "Three officers. None of them the kind that decides. The office notes it."
+"Under the hood, no man's grade at all," he said, without opening them. "The seat's own. It goes with the seal, whoever is wearing it. A monitoring officer on his rounds behind the senior chair, and the senior chair itself a district man." The coach went over a stone and he did not move. "They keep the minute, all three. None of them has ever decided anything. That's done somewhere else, and they write it down."
 
 Nobody answered.
 
 At the residence door, when the others had gone in ahead of them and the coach was rolling off toward the stable yard, Seln stopped on the step, and Cael stopped with him.
 
-"That kind of room," said Seln, to the door. "The office knows it. It used to sit at the other table."
+"The office has written that kind of minute," said Seln, to the door. "Not that one. Others like it."
 
 Then he went in, at his even pace, and up the stair, and Cael stood a moment on the step by himself before he followed.
 
@@ -244,21 +240,21 @@ There was one slip for each. Lira's first meet off the hill, three weeks away no
 
 Karis came up the stair while he was sanding it, reading her draft aloud to herself as she climbed, the way she did when a sentence would not sit. He heard her in the doorway. *The respondent submits that the integrity sections, read with their own proviso,* and then nothing.
 
-The room had gone quiet. He knew without turning that she was standing at his shoulder, and that she was reading his page, and that she had stopped her own sentence in the middle to do it. He could have closed the book. He had never let anybody read the Log over his shoulder, not since the first volume. He left it open.
+He did not turn round. He heard the draft's paper stop rustling, and her breath close behind his right ear, and he knew where her eyes had gone. His hand moved to close the book, from a habit older than the bluff, and stopped, and lay flat on the sill beside it instead.
+
+A finger came past his shoulder, ink on its second knuckle, and rested on the sill beside his last line without touching the page.
 
 "That is not how any of us are built," said Karis.
 
-She said it in her flattest voice, the one she used for findings.
+It was her findings voice, the flat one.
 
-He let the pen rest. Then he wrote it in, underneath, in the parenthesis the Log kept for things said aloud at the window.
+He took up the pen again and wrote under the line, in the parenthesis the Log kept for things said aloud at the window, and she watched every letter of it go down.
 
 *(Karis read this entry over my shoulder and said "that is not how any of us are built." Noted. Filed. Afraid of it.)*
 
-He read it to her aloud, the parenthesis whole, the last three words too. She had read the rest. She could have the rest.
+When the pen reached the last three words, her finger on the sill tapped once.
 
-Karis stood through it with her arms crossed over the draft. She did not take back a word of what she had said, and she did not ask him to take back a word of what he had written.
-
-"Afraid of it," she said. "Good." She unfolded her arms. "Then be afraid of it accurately. Not at three in the morning, in general, about everything. Give it dates. Give it a column. Every week, put down what it's cost each of us, in the coin it actually costs, and add it up at the foot." She laid the draft on the sill beside his four slips. "Then on the day it starts costing us more than we can carry, you'll know which day it was. Not some other day. That one." She looked at the blank fourth slip. "That's what the notebook's for. Not for being frightened in. For knowing exactly how much."
+"Afraid of it," she said. "Good." She took her finger off the sill. "Then be afraid of it accurately. Not at three in the morning, in general, about everything. Give it dates. Give it a column. Every week, put down what it's cost each of us, in the coin it actually costs, and add it up at the foot." She laid the draft on the sill beside his four slips. "Then on the day it starts costing us more than we can carry, you'll know which day it was. Not some other day. That one." She looked at the blank fourth slip. "That's what the notebook's for. Not for being frightened in. For knowing exactly how much."
 
 She went to the door, and stopped there, with her hand on the frame.
 

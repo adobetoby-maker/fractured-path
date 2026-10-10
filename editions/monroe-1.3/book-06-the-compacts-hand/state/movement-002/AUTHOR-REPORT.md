@@ -373,3 +373,62 @@ All of it is drawn from the event list, none from the source. It was added becau
 - **Seln's "other table"** was said to Cael alone.
 - **New (flag):** Jent is on no procurator roll of this district or the two beside it, so he was admitted somewhere further off. This is kept at the plan's altitude: Jent is counsel, not face. Nothing about who sent him is said.
 - **New:** the integrity provisions' *upon a party's motion only* proviso (ch13, from first draft; now ledgered); the counsel's name heard and not caught (a device); the Greyvane keeper is Prynn.
+
+## Repair r2
+
+This was a bounded repair covering Priority 2 only. It was done by the same author (`claude-opus-5-5`) on 2026-10-10, working from `REPAIR-BRIEF-r2.md` and `recheck-r1.md` ("### Priority 2: PARTIAL"). Text before the repair is in `pre-repair-r2/`.
+
+The coordinator's nine line fixes were re-read in context and kept: *wondering*; "By supper" for the annex; the guild door; who "the five" are; Withrow's coach morning; Brom's docket; the boards ahead of the stamp (twice); and Havel's looks (the pump step, two at Greyvane, three on the oak).
+
+I worked from EVENT-LIST.md with the source closed. Every passage below was re-entered by hand from a new entry point and in a new order. Nothing was synonym-swapped, and no source sentence was cut into shorter pieces. No git was run, and `protected-patterns.txt` was not touched.
+
+| # | Where | Old entry and order | New entry and order |
+|---|---|---|---|
+| 1 | ch10, the compliment | "read it twice" → [protected] → "the last word went across the table to Karis" | the renewals table first ("Somebody was in the room") → the leaf falls → [protected], with no frame after it |
+| 2 | ch10, "Thank you" | thanks → "He had never once heard her thank anybody" | thanks cut in over his last word → Lira's eyebrows at the end of the table; the reason is left to the coach |
+| 3 | ch10, "nothing that had to choose" | a summary sentence about pace, ending on the source's turn | Cael's count on the hearth clock between question and answer: "none, none, none, none. The sly one had cost Jent exactly what *No* had cost him." |
+| 4 | ch10, the close of the conference | concession → discretion → "I'll put both on the schedule" → stands → titles → one word → "even pace… to the minute" | the inkwell is already shut when the clerk asks → "Only the order of business": the concession dictated as an entry; discretion as two items for the clerk; "I'd give it to them" → "Hesk-ward" first → the titles at the door → the clerk's margin hour matches the schedule's |
+| 5 | ch10, the log | praised → gave away → "You can't lose what was never yours" | "I have only ever found a man by what he was afraid to lose" → the compliment as a fee paid at a counter → the answer handed back "like a parcel addressed to somebody else" → [packet line] |
+| 6 | ch10, the greetings | counsel → Withrow → "Advocate" → doesn't correct → "found the word on the first try" | "Advocate" opens the passage as the third thing he said → the first two are told after → the house has no title for her → "the first title anybody had ever given her for the work, and not for the room she did it in" |
+| 7 | ch11, the two old notes | the notes, then remedy and clearance beside each | the only two leaves in two inks → he reads the house's answers (right side) first, because he has just read an empty one → then what they answered → "Both were long before Withrow" |
+| 8 | ch11, the folder speech | inspector from the grant → finding → *sustained* → "It never comes out" | "There's no form for taking a leaf out… There's a form for everything else" → the best day (*sustained*, tea for the clerk) → the inspector reads it last before he goes out to the floors → the bad case: "he stays a month" |
+| 9 | ch11, the bill | "I put every one of those beside your name… I'm not sorry… showing you the bill" | "Four. You like counting. Count them." → "Every one is a thing I asked for" → the seat reads these too → "After tonight, the adding-up is mine. It's my column." |
+| 10 | ch11, the other column | Greyvane transcript → the hunt → none → this paper → Karis's doors | Karis's doors first ("walked every one… as you'd walk a building somebody had asked you to insure") → "And the law on our side?" → "Is good law" → the transcript sent for, gone through "with every tool" → "nothing in either to find" → [protected line] |
+| — | ch11, the same docket day (lower-order) | "Somebody will say it's spite… worse… Spite gets tired" | "Lira will be sure somebody arranged it." / "A calendar did." → "People who mean things get tired of meaning them. A calendar never gets tired of anything." |
+| 11 | ch12, *admit* | Karis: put it in the back → he writes → "She saw the pen moving. She kept walking." | Cael is already writing in the front working pages → Karis turns the notebook over without breaking step: "There. With the things that don't get crossed out. Her word was *admit*." → he writes → at supper Lira asks where he put it; "The back." |
+| 12 | ch12, *anticipated* | "A docket isn't allowed an opinion. Somebody… decided it was cheaper…" → "Iron, Brom" | Bracken turns the sheet to Karis: "Have you ever seen that on one?" / "Never." → what a docket gives (day, room, panel) and that "nobody lets it guess" → the clerk "wrote his guess where we could all see it" → shake hand / moved / writing → "Well. They've as good as painted it on the door." |
+| 13 | ch13, the room | platform → evaluation seat → parties' tables → benches "full to the rails" | merged with the walk up the strip: lot numbers underfoot → Jent across the strip → sits on *seventeen* → only then looks up the room (platform, sigil, seat, five covered chairs) → hears the benches behind him without turning, people standing at the wall |
+| 14 | ch13, Seln's seat | placed during the sitting, with "found him once… kept his eyes off" | moved to after the sitting: one coat stands a fraction late as the benches empty → Cael slips back in and stands in Seln's place, and finds he can see both doors, all three tables and the platform |
+| 15 | ch13, the bow | the measured depth → "a seat that would never tell her" → "said nothing on the stair" → the remark | Cael sees the bow from behind (the collar's line) → compared with her bows on the house's steps → "as she would have given it to a registrar she had dined with" → [Seln's seat] → carriage door: "The same depth. From this side. I measured." |
+| 16 | ch13, Brom on Havel | "He never looked at you." / "No." / "At Greyvane… twice… I counted" | Lira: "You were counting somebody… I saw your lips" → Brom names him → Greyvane, the recorder's desk, twice, "I was in the gallery. I counted." → "This morning, none." |
+| 17 | ch13, the coach and the step | "took both lists… weigh the same" / "to a seal they weigh the same"; "None of them the kind that decides. The office notes it." / "It used to sit at the other table." | counsel: one receipt leaf, one line under the other, initialled "without turning it over" → Karis: "A seal can't count." Seln names the three grades from the hood downward: "They keep the minute, all three. None of them has ever decided anything. That's done somewhere else, and they write it down." On the step: "The office has written that kind of minute. Not that one. Others like it." |
+| 18 | ch13, over the shoulder | she reads, he lets her → flat voice → he reads her the parenthesis aloud "because she had read the rest" → "arms crossed… did not take back a word" | sound: her draft stops rustling and her breath is close → his hand moves to close the book, stops, lies flat → her inked finger rests on the sill by the line → [protected line] → he writes the parenthesis while she watches every letter → her finger taps once at the last three words → "Afraid of it… Good." She takes her finger off the sill |
+| — | ch10, per seal (lower-order) | "the seat sits as itself. Whoever holds it… the minute names the seal" | "not as whoever is in it. The code even gives it a hood… The minute takes the seal's impression and no signature." |
+
+**Kept verbatim:**
+- "the best-documented enrollment I've reviewed in thirty years. Genuinely."
+- "They've filed the face out of it."
+- "Advocate"
+- "He's a hand. Somebody else is the arm."
+- "They're called clerks."
+- "Make a note of the word *choosing*."
+- "I'm better now. I can admit I want it."
+- *outcome anticipated*
+- "the face of a man being offered his whole ledger back"
+- "I keep looking for the person and finding the hand."
+- "Whatever this challenge costs me, it should not cost them."
+- "That is not how any of us are built."
+- the parenthesis
+
+Every fact the recheck verified is unchanged.
+
+**One small knowledge note.** Seln's step line no longer says "the other table". It now says the office "has written that kind of minute", which keeps his past at the plan's altitude and is said to Cael alone.
+
+### Checks after r2
+
+- `ed.sh gates`: 0 / 0 / 0 on all six chapters.
+- `ed.sh overlap`: **0 unprotected runs**, 10 protected.
+- `sweep_probe.sh`: **skeleton 1%, close 8%**, the same as after r1 and not higher. By chapter: ch8 1/6 · ch9 0/5 · ch10 1/8 · ch11 0/8 · ch12 0/6 · ch13 2/14. The remaining skeleton hits are packet and Tier B lines and the #44 address.
+- Formula (ch8–13): words 28,591 (up about 380 from r1, all from re-entered beats); sentence mean 13.07; ≤5 30.6%; ≥40 3.9%; paragraph median 27; words per scene 986. All are inside the working ranges.
+
+**Ledger line, carried with fix 7:** Havel's looks are Ardenmere (the pump step); two at Greyvane (the recorder's desk); and three on the oak (B4 ch54:81 on entry; B4 ch55:151 twice after the frame broke).

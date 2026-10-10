@@ -16,15 +16,15 @@ The newest leaf was the eighth day's. It was in the registry's flat grey type, s
 
 Beside it the right-hand column was ruled, as every column in the folder was ruled, and empty.
 
-He turned back a leaf, and another. The house's placings, a long thin column of meets and figures, and last year's the only one with *third* in it. Inspections, each with its date and its officer's name and its finding. And near the front, two notes of the kind no house wanted, both in hands from long before Withrow's: a fire-watch that had let its book lapse for a quarter, and a records office that had left a year's declarations unindexed. Beside each, in the right-hand column, the remedy the house had made, and beside the remedy a clearance, stamped and initialled by whoever had come to see it done. Then the charter's grant on its heavier paper, under a seal gone the colour of tea.
+He turned back a leaf, and another. The house's placings, a long thin column of meets and figures, and last year's the only one with *third* in it. Inspections, each with its date and its officer's name and its finding. Near the front he came to the only two leaves in the folder written in two different inks. On each, the left side was an inspector's complaint and the right side was the house answering it, in another year and another hand. He read the right-hand sides first, because he had just been reading one that was empty: a book kept again, and initialled as kept; an index finished, and initialled as finished. Only then did he look across to see what they had answered. A quarter's lamp-hours nobody had written down. A year's declarations nobody had indexed. Both were long before Withrow. Then the charter's grant on its heavier paper, under a seal gone the colour of tea.
 
 He turned forward again to the eighth day. The empty column there was the same width as the columns beside the fire-watch and the records office. It had been ruled by the same machine.
 
-"The next inspector will read it the other way," said Withrow. "From the grant forward, the way they're taught. He'll come to that leaf last." She did not move her hands. "If the seat finds the house was wrong to enroll you, the finding goes into that column, and his inspection is a long one, and so is every one after it. If we have every piece of luck there is, a clerk writes *sustained* in that column one day and stamps it. The leaf is still there above the stamp. It never comes out."
+"There's no form for taking a leaf out," said Withrow. "I looked, once, at the registry, for somebody else's house. There's a form for everything else." She did not move her hands. "Suppose the seat is with us on every point. A clerk comes up our road with a stamp, and writes *sustained* in that column, and I give him tea. That's the best day this folder can have. And the next inspector starts where they're all taught to start, at the grant, and turns forward, and the last thing he reads before he goes out to look at our floors is that this house once stood in front of a seat for what it did with you. If the seat isn't with us, the column says that instead, and he stays a month."
 
 She opened her desk drawer, and took out a paper, and laid it on the folder on his knees. Then another, and another, without a word between them. The program's charter, dated the first morning of the year. The page of the house's accounts with Karis's line on it. The intake's roll, longer than any he had seen pinned to a board. The tournament's sheet with the house's placing on it.
 
-"That's what the column sits on," said Withrow. "I put every one of those beside your name myself. Nobody made me." She closed the drawer. "I'm not sorry, and I'm not asking you to be. I'm showing you the bill, once, plainly, across a desk, so you'll never have to lie awake at three in the morning adding it up for yourself."
+"Four," said Withrow. "You like counting. Count them." He counted them, though he did not need to. "Every one is a thing I asked for, on this desk, in my own hand. When the seat reads your name it will read these too, whether it means to or not." She closed the drawer. "I wanted them on your knees once, so you'd know their weight. After tonight, the adding-up is mine. It's my column."
 
 He did not say anything. He had learned that when she spoke in that voice the right answer was to have heard.
 
@@ -32,11 +32,11 @@ He did not say anything. He had learned that when she spoke in that voice the ri
 
 She took the papers back off the folder, one by one, and returned them to the drawer.
 
-"When the house first asked me to take you," she said, "I sent to Ostrand for the Greyvane transcript. I read it the way I used to read appeals, when I was twenty years a registry officer and nothing else: hunting for the trick. The place where somebody clever has made a law say what it doesn't." She looked at him across the desk. "I'm a good hunter. I didn't find one. It wasn't there to find."
+"Karis's doors are real," she said. "I sat with her slips the night she laid them out, and I've walked every one of them since, the way you'd walk a building somebody had asked you to insure. They open one way. She's right."
 
-"And this paper?"
+"And the law on our side?"
 
-"I've hunted it the same way. It's honest law. So is ours. And Karis's doors are real." She set both hands on the blotter, a hand's width apart. "That's two true things, and they point opposite ways, and I can only stand on one of them. So I've decided which. I'm going to stand on the first, out loud, in front of that seat and the broadsides and every inspector who ever opens that folder, with this whole house on my back, knowing where the second one goes." She did not lower her eyes. "Make a note of the word *choosing*."
+"Is good law." She looked at him across the desk. "I don't say that as your chancellor. Before you ever came up our road I had the Greyvane transcript sent from Ostrand, and I went through it with every tool twenty years at the registry gave me, the way I used to go through other people's appeals when I was paid to find what was wrong with them. I came away with nothing. Their paper is the same. Honest work, both of them, and nothing in either to find." She set both hands on the blotter, a hand's width apart. "That's two true things, and they point opposite ways, and I can only stand on one of them. So I've decided which. I'm going to stand on the first, out loud, in front of that seat and the broadsides and every inspector who ever opens that folder, with this whole house on my back, knowing where the second one goes." She did not lower her eyes. "Make a note of the word *choosing*."
 
 He took out the observation notebook and turned to her pages, two years of small facts in his cramped hand: how she crossed a court, how long she spoke at convocation, how many times she had lifted a page to stop a hall's noise, and at the bottom, from the first morning of this year, *load-bearing calm*. Under it he wrote the date and the word. Then he underlined it twice, once against the notebook's edge and once freehand, the way she had underlined *discretion* in her pocket code on the procedure night, and he did not write anything else, because nothing else was needed.
 
@@ -68,11 +68,11 @@ She had borrowed Brom's docket out of his left inside pocket to copy its date, a
 
 "The same morning," said Cael.
 
-"A street and a half apart." Karis looked at the slip. "Somebody will say it's spite. It isn't. It's a clerk with a calendar who likes his Fifth-days full."
+"A street and a half apart." Karis looked at the slip. "Lira will be sure somebody arranged it."
 
-"Is that better?"
+"Did somebody?"
 
-"It's worse. Spite gets tired." She put the slip in the back of her notebook, behind the six from the long table. "A clerk doesn't."
+"A calendar did. Some clerk likes his Fifth-days full and his last week tidy, and that's all." She put the slip in the back of her notebook, behind the six from the long table. "It would be easier if somebody had meant it. People who mean things get tired of meaning them. A calendar never gets tired of anything."
 
 She showed it to Brom at supper, because it was his date, and he had a right to it before anybody else made anything of it. He read the slip with his spoon in his other hand and gave it back.
 

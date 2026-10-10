@@ -2443,3 +2443,901 @@ He was looking at the letter in Cael's hand. At the square level address and the
 
 Lira reached across and picked up one of the four beans, the one at the right-hand end that was Karis's, and turned it over in her fingers.
 
+exec
+/bin/zsh -lc "sed -n '1401,1600p' editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+
+"We keep counting what they do," she said. She said it evenly, the way she read the true sum off a bout sheet after a loss. "And we're good. We're very good at the sittings. Karis's filing is the best thing anybody's ever written on this hill, and the house's counsel wins every point there is, and the seat writes down that she won it." She put the bean back exactly where it had been. "They'll let us be good at the sittings all year. It doesn't cost them a thing. Meanwhile there are men in Denvash asking an old man about a tin box." She looked round at each of them, one at a time, and her chin came up. "The question is what we do the day after."
+
+Nobody answered her.
+
+Cael looked round the table, because looking was what he did when he could not do anything else. Karis with her palm on the notebook's cover. Brom bent forward with his elbows on his knees and his eyes on the board. Lira, with the question still lying open in front of her where she had put it, and her chin up over it, waiting for one of them to pick it up. And at the middle of the bench Seln, who had walked fences like these himself, for years, and knew from the inside what the morning after looked like, sitting with his hands quite still on either side of the five beans as if the table might tip if he moved them.
+
+---
+
+Withrow read the letter by the lamp, standing at her office window.
+
+He had brought it up to her at the tenth bell, because she had told him at the start of the year to bring her anything that touched the house, and a registry man asking questions in a border town touched the house. She read Hesk's first two paragraphs at her usual pace, the pace she read everything at, and smiled once at the dog. Cael counted, out of habit: twelve breaths.
+
+At the third paragraph she stopped.
+
+Nothing showed on her face. She did not move. She only stopped reading, partway down the paragraph, and stood there with the page in her hand, looking at it. He had known her two years and had never once seen a piece of paper stop her. He counted that too, and got nine.
+
+Then she read to the end, and folded the letter along its crease, and gave it back to him.
+
+"Trade licences," she said. "And the title. On a man who makes barometers."
+
+She went to her desk and took up the brown pocket code that lived on its corner, the one she had underlined in her second year and again nine years later, and opened it near the back without looking for the page. Then she sat down, and pointed him with two fingers at the visitor's chair, and he sat. Neither of those things was usual.
+
+"I told you, the night the instrument came, that I put my name to two restrictions."
+
+"You did."
+
+"I didn't tell you I walked the fences for the second one myself. With my own hands. The district was short of clerks that year, and I was good at it." She set the open code down between them. "I'm going to tell you how a finished one goes. If you don't hear it from somebody who's done one, you'll make it up out of Seln's grammar and your own nights, and you'll make it louder than it was. You'll put a scene in it." She shook her head. "There isn't a scene. Start from that."
+
+She told it starting at the end, as the counsel read papers.
+
+"On the fourth morning a man came to my counter carrying a flour sack. He tipped it out on the counter in front of me, and it was letters. Nine of them. He had put them in the order they'd come to his door." Her finger rested on the open page. "The guild's was first. A guild may not keep a contract with an unclassified practitioner, so his contract was suspended from that day. The haulage yard's was second; they'd put another man on his run. Then his bank. The note on his house named his standing as its surety, and with the standing under restriction, the note was stopped. Then his daughter's school. A child's place at a school stands on the parent's standing, so hers was *under review*. Then the transit office, to say his travel endorsement had run out, so that the law no longer let him cross his own district's border to go and argue about any of the rest." She turned the page of the code without looking down at it. "And four more. I won't give you the rest. They were the same letter in other hands."
+
+"Who was he?"
+
+"Force Path. Bronze, Rank Four. A haulier, thirty-one, on a guild contract in a river district, with a wife and two children and a house he had fourteen more years to pay for." She said it like a line read off a form. "His fault, if you want to call it one, was a slip a station clerk made twenty years before, when they wrote his Kindling down. It could never be put right, because the only officer who could swear to what the frame had really read was dead. So the registry evaluated him again. Twice. The frame gave no valid classification either time." She looked up. "That was the whole of it. Twice they stood him in a frame, and twice the frame had nothing to say."
+
+"And the inventory."
+
+"Is in this book." She turned the code round on the blotter so that it faced him, and laid her finger at the top of a short list. "Nine headings. Employment. Membership and standing in a guild. Credentials and endorsements. Property, his own or shared. What he owed and what was owed to him. Enrollments, his and his family's. Travel and transit. Any office or contracted service. Other relationships." Her finger stopped at the bottom of the list. "Seven weeks it took me. It was careful work, and I was proud of the care. I've had a long while since to think about that."
+
+"What did you tell him? At the counter."
+
+"The truth. That he hadn't got nine problems. It was one trouble that had come to his door nine times in nine different coats, and there was no counter anywhere he could stand at to face it, because a restriction isn't a thing anybody does to you. It's a condition you are left standing in." She closed the code. "Nobody did anything to him. Nobody had to. That's how it was built."
+
+Cael found that he had stopped breathing a little while ago, and started again.
+
+"What became of him?"
+
+"In the end he crossed into the east, beyond the last station. Men with families usually go, sooner or later. This side of the line has no room in it for a man with children and no classification. It took him eighteen months, which is what it costs to get round a lapsed transit endorsement and stay inside the law. After he crossed, I don't know. A man past that line stops making records, and records were the only eyes I ever had." She was quiet for a moment. "His girl stayed behind, with her mother's people. You know the rest of that."
+
+"She came to your counter."
+
+"Every week for a year."
+
+Withrow closed both hands round the little brown book.
+
+"Now," she said. "Your grandfather. *Grew up in it* is what he told them, so it's what they wrote, and it's true. It goes under the ninth heading, a true line among true lines, and it waits there until the morning somebody wants the ninth heading. Nobody will say a word against him. They won't need to. Any licence held by a man the registry has entered as tied to a restricted person can be called in for review." She did not raise her voice. "Nobody refuses it. They review it."
+
+"For how long?"
+
+"For as long as anyone likes," said Withrow. "That's the whole design. Not a hand on the door. A hand on the clock."
+
+She got up, then, and went back to the window, and stood with her hands behind her looking out at the dark where the bluff fell away toward the river. When she spoke again she said it to the glass.
+
+"I told you at the start of this that I'd chosen, and that I was choosing. Both are still true." He saw her reflection in the black window, quite steady. "Tonight it's dearer than it was this morning. I've worked out by how much. I'm going to pay it."
+
+---
+
+He wrote the fourth reading into Hesk's book at his own window, past midnight, with the letter flat on the sill beside the column.
+
+*I win the sittings. Karis wins the filings. The counsel wins every point there is, and the seat enters that she won.*
+
+*And two polite men have been to Denvash to ask an old man whether my name is in a tin box under his bench.*
+
+*Where in that is the system doing what it's for? For three years I've stood on one line: on one side the text, which holds; on the other the people, who fail, and can be read, and can be beaten. I've never once doubted where that line was. Tonight Withrow told me about a flour sack and nine letters, and I went looking for the line, and couldn't find it. A hand on a clock isn't a person. It isn't text either. I don't know what it is. I've never before needed to know.*
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-20.md
+
+# Chapter 20 — Lot Seventeen
+
+Three nights before the third sitting, the honest floor was the only floor on the hill where anybody was allowed to see what Cael was.
+
+They went in at the quarter to the eleventh bell, as they always did, on the key Rooke had lent Lira for the program's dawn drills and had told her he did not want to know about after dark. But the east hall was not what it had been. The shutters along the gallery had been closed since the Fourth-day by Rooke's order, and they did not need to be drawn. The chain still hung across the foot of the gallery stair with its padlock and its card, *CLOSED TO OBSERVERS*, so that Brom had to step over it to set the jug down on the bottom stair. The four lamps that the program now drilled under all day were standing at the corners of the painted crosses where the porters had left them, cold.
+
+"Well," said Lira, looking round the shut-up hall with her wrists half taped. "The whole floor's honest now. Nobody's allowed to watch any of it."
+
+Brom lit two of the lamps and left the other two dark, because two had always been the number. Karis sat on the gallery stair above the chain with her notebook open on her knee. Nobody had asked her to come. She had come anyway, every week since the first night, and counted.
+
+"What do you want?" said Cael.
+
+"The real one." Lira tore the last strip of tape with her teeth. "Everything you can't show in wing three. I've had six days of drilling under lamps, and I can't see my own heel coming any more, and I keep landing a quarter-beat late on things I could read in my sleep in daylight." She put her hands on her hips. "If I can see you coming at your true rate, in lamplight, I can see anybody coming at anything. So come."
+
+He looked at Brom. Brom looked at the lamps and then at him, and nodded once, which meant *I'm holding the room*.
+
+So Cael fought her at his true rate, for the first time since the first week of the year.
+
+He let the read go all the way out and come all the way back, without stopping it anywhere short to look like timing. It brought him Lira's weight half a beat early, as it always did, and in lamplight half a beat was a long time. He used the Wind the way it wanted to be used and not the way the house's book had it. One burst, two, the second off the landing of the first; a third, low, along the wall; a fourth to take him round her lie on the four-count before her fourth arrived. On the boards in wing three he stopped at four, and never let a fifth show. Here he went to five without thinking about it, and then to six, and felt the old easy looseness come into his legs that he had not let himself feel on a floor in front of anybody since Norhold.
+
+Lira lost the first two exchanges. She lost them cleanly and quickly and said "Again" both times before she had finished losing.
+
+In the third she came at him with a straight palm, the hardest thing she had, from the end of a burst, and he did not move out of it. He let it land on his forearm. The give was there, Reydan's give, and for once he let it open. It drank her blow into the arm as a dry cup drinks water, and kept it, and her palm stopped against him as if it had hit a sack of wet sand. She stood there with her arm out, looking at it.
+
+"I hate that," she said with great feeling.
+
+"I know."
+
+"I'd forgotten how much." She shook her hand out. "Again. And lay one."
+
+He laid a lane.
+
+He laid it across her line from the north wall, a road of leaning air fifteen feet long and no wider than his shoulders, tipping south. His ears shut and opened again. And on the gallery stair Karis began to count aloud, quietly, from the moment it was laid.
+
+"One."
+
+In the lamplight Lira could not read her heel. She had said so. But Cael, watching her come at the lane on the four-count, saw her find something else. The dust in the cracks between the painted boards had woken as the lane went down, the way it always did, and was running south along the lane in a thin pale stream. In daylight from the high windows you could hardly see it. Under two lamps set low on the floor, it threw a shadow. The whole lane showed on the boards as a faint moving band of dark, like the wake of a fish under still water.
+
+Lira saw it on her second count. He watched her see it. Her lie went onto the back foot, outside the band, and on the third count, the empty one, she did not put a foot into the lane at all. On the fourth she burst along its edge, the length of it, not across, and came out at its end beside him with her palm already flat on his shoulder.
+
+"Touch," said Brom, from the dark beyond the lamps.
+
+"*Seven*," said Karis, on the stair.
+
+Cael reached for the Wind. It came late. It came a beat behind his asking, the right thing answering slow, as it had answered every time since the first night on this floor. He stood in it. *Bill, not flag.* Lira, beside him, breathing hard, was looking down at the boards where the dust was settling out of the band and the band was fading.
+
+"The dust," she said. "Under the lamps the dust makes a shadow. I can see the lane by its shadow."
+
+"I saw you see it."
+
+"*Ten*," said Karis. "*Eleven*."
+
+The Wind came when he called it.
+
+"Ten counts," said Karis, and wrote it down. "Same as the first night."
+
+Lira had gone down on one knee by the end of the lane, and was looking along the boards at the last of the dust, with her face close to the floor and the lamp throwing her shadow long behind her.
+
+"I lost my light," she said, to the boards. "Rooke shut it out on account of who was watching you. I've been angry about it for six days, all by myself, under these lamps, and I haven't told anybody, because it was the right thing to do and I knew it was." She stood up and dusted her knee. "And it turns out the lamps show me a thing the windows never did."
+
+"That doesn't make it fair."
+
+"No. It makes it mine." She went back to her cross. "Lay another. Not across this time. Lay it down the line, at me, and let me try to stand in it."
+
+"We said we don't spend a new figure the night we find it."
+
+"It's not a new figure. It's the same lane. I'm the new thing." She set her feet. "Lay it."
+
+He laid it, once more, and she stood in it on the four-count and was pushed off her feet into the dust, and laughed out loud from the floor, and Karis counted ten and wrote ten, and then Brom said that was enough for one night in a voice that nobody argued with.
+
+They put out the lamps by the old order, the far one first, and stepped back over Rooke's chain, and Lira locked the door behind them.
+
+On the stair Cael thought about it, the way he thought about everything on stairs.
+
+In wing three, four strangers had written down a figure for him that was exactly right and entirely false: the band, the house's rate, twenty-two and two-thirds. Here, on a floor with the shutters closed and a chain across the stair, there had been nobody to write anything at all, and the figure had been true. Six bursts on boards. The give opened. A lane and its bill. Every true number about him this year had been made in a locked room by four people who would never be allowed to say it aloud. And every false one had gone into a book.
+
+He wrote it in Hesk's book at the sill before he slept. *The only honest measurement anybody has taken of me since Norhold was taken tonight, by Karis, on a closed floor, under two lamps. It will never be entered anywhere. Lira found the lane by its shadow. That will be entered nowhere either, and it's the best thing anybody learned on this hill this week.*
+
+---
+
+On the ferry going down to the third sitting, Karis wrote one word on a slip of paper, folded it twice, and handed it to Brom.
+
+"Don't open that," she said, "until we're in the coach coming home."
+
+Brom put it into his right inside pocket, the empty one. The left was for Velmere.
+
+"What's on it?" said Lira.
+
+"What's going to happen." Karis watched the brown water slide past under the rail. "We'll win this morning. On the text, on every point the text has in it. It will feel exactly like winning, the whole way through, right up to the last paragraph." She settled her hands on the case in her lap, which held the house's closing notes and nothing she could have made better. "I want it on paper before, in my own hand, so nobody can say afterward I was just being gloomy."
+
+"That's what you said last time," said Lira.
+
+"And I'll tell you before the last one. Once you stop saying a finding out loud, it starts turning into a hope behind your back."
+
+The ferry nudged the landing. Withrow's carriage went off up the causeway, and the coach after it, and the market street climbed ahead of them toward the top of the town, where the wool exchange stood on its plinth with people already thick on its four steps.
+
+Cael sat with the schedule on his knee and did not read it. He watched the coach instead. Lira, with Rooke's drill-book shut under her hand and her eyes on the shopfronts, and her left heel tapping the floor in a small quick count she did not know she was keeping; the program's first road meet was nine days off now, and Rooke had forbidden her to think about it before noon, and she was obeying him so hard it showed. Brom with his hands on his knees. Karis not reading. Seln at the end of the bench with his eyes shut and, on the seat beside him, the satchel that held his own copy of the sheaf the wing's register said had never been made. And the house's counsel opposite, small and straight in her grey, adding a line now and then to her privileged minute in a hand like the stitching on a good boot.
+
+At the side door the young officer with the ruled board had got rid of his cold. He read the list through without once turning away, and when he came to the last line he did not ask for a name. Somebody had already copied it into the first column of his door log from the last sitting, exactly as the instrument had it: *Caelen Hesk-ward*. In the second column he wrote what he had written twice before, *the enrollee of record, unclassified*, and it took him nine seconds, now that his hand knew the way.
+
+Inside, the long floor was as it had been, the old lot numbers cut in rows down the planking under the wax. Cael crossed *nine*, *ten*, *eleven*, and sat down at the house's table with *seventeen* under his left foot. The first time, that had been an accident. The second time, a habit. This morning he had walked to it on purpose, and he knew it, and he let himself know it. You could not choose the room. You could choose where in it you put your feet.
+
+The covers were off the evaluation seat.
+
+He had looked at those five grey shapes on two Fifth-days and tried to guess the chairs underneath. They turned out to be plain, high-backed and unpadded, the kind a district buys by the dozen. Two men and two women of the district sat in four of them, in the registry's grey, upright, with files squared on small lap-desks, looking at nothing in particular. He did not know any of them.
+
+The fifth chair stood a little forward of the others, in the middle.
+
+He knew her from the back of her head.
+
+Ilsev had come in through the main doors with the ordinary morning crowd, carrying her own files, not with the officers by the platform door. She had set the files on her lap-desk at an angle he would have known anywhere: never quite square to the desk's edge, and never one hair different from the last time he had seen it, at a counter in Greyvane, on the east wall of a room on the bluff, in the first seat of the Compact's row high over the Concourse at Norhold. Now she had a small folding knife out and was sharpening a pencil into a fold of paper open on her knee, slowly, turning the pencil after each stroke, so that not one shaving should fall on the wool exchange's floor.
+
+The clerk rose and read the empanelment.
+
+*Evaluation seat: constituted. Presiding: the district's senior evaluator. Scope: as the institutional sections of the code provide.*
+
+Ilsev closed the fold of paper over the shavings, put it in her coat pocket, and bent her head toward the platform to the depth the registry taught, no more and no less. Then she opened the topmost file and began to read it with the patience of somebody who has read it three times and intends one more before she is asked a single question.
+
+He did not know what he felt, looking at her. Not comfort. Not its opposite. She was the most exactly honest officer he had ever stood in front of; he had never once seen her be anything but correct, to the letter and the comma. And somebody had sat her down in the middle of this, at the very edge of the corridor, where she could be seen by everybody. Put the straightest officer in the registry beside a thing, and nobody will ever look past her to see the shape of what she is standing beside.
+
+exec
+/bin/zsh -lc "sed -n '1601,1820p' editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold-prompt.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+
+At the records table, at the junior chair, the officer with the careful face wrote the time at the head of a fresh leaf and did not lift his eyes.
+
+Before either party was called, the clerk read one more paper into the minute. It came under *statements entered*. He gave the filer's name and house and Path and rank, and the date, and the line of receipt, and then the text, in the voice that adds nothing.
+
+*I fought him. Your instruments failed him, not the other way around. Classify the instruments.*
+
+Eleven seconds, all told. The hood received it. Jent did not stir. The counsel did not stir. There was nothing anybody on that platform could say about it, because there was nowhere in the schedule to say it. The clerk set the sheet on the pile of things received and picked up his next.
+
+Cael felt the rhyme go through the room like a struck bell that nobody else heard.
+
+*Ten days ago the best evaluator the Compact owns asked to be heard, and the seat was too full. This morning the best practitioner alive has been heard, and the seat filed her on a pile. Two of the highest credentials in the world have now told this room the truth, and the room said thank you both times.* He wrote it under the table on the back of his schedule, small. *Rank isn't the thing it listens to. I don't know yet what is.*
+
+---
+
+Jent rose at the petitioner's table with nothing in his hands.
+
+His inkwell was screwed shut. His clerk's tabbed folder lay at his elbow and he did not touch it once. He stood in his brown coat with its cuffs mended in a slightly different brown, and faced the hood, and only the hood, and spoke in a voice set to reach the back rail of the gallery and not one inch farther. For forty minutes it never rose and never fell.
+
+Cael took notes, because it was the only way he had ever found to keep a man like this from simply washing past him.
+
+*Concedes the enrollment. First minute. Before anybody can ask.* The petition, Jent said, had never alleged anything wrong in how the enrollment was made, and if anybody in the room had heard it that way, the petitioner asked to be corrected now, at the start, so that the seat's time would not go on it.
+
+*Concedes the clause.* It was law. Nothing in the standardizing had touched it. The house's history of where it came from was accepted, every word, and taken over as the petitioner's own.
+
+*Concedes the paper.* The house's record of the enrollment was the best he had read in thirty years of reading them, he said again, for the minute. When the clerk looked up to ask whether that was to go in as spoken, Jent said, "Every word. I'd decline to soften it, if I were asked." The front benches shifted. Cael could not put a name to it, and wrote *stir: ?* in his margin and left it.
+
+Then Jent laid out what was left, which was all of it, in four pieces, and gave each piece its number aloud.
+
+*1. The integrity sections are there for the registry's confidence.* Not for a practitioner. Not for a house. For the registry's trust in its own evaluations. Jent read the sections' opening line to prove it.
+
+*2. No standard reading, no evaluated confidence.* If the standard protocol could not read a man, then the registry had nothing it had measured on which to trust him: that, and that only, with no accusation anywhere in it. *By that fact and by nothing else*: Jent said it three times, and stopped once to explain it, and Cael wrote in the margin, *a man laying a plank over a ditch and walking on it to show you*.
+
+*3. The provision describes. It doesn't evaluate.*
+
+Here Jent started to go further than he needed. "A record kept under the demonstration provision," he said, "is not a record that this seat could—"
+
+He stopped.
+
+Cael lifted his pencil off the paper. He watched the man stand there with his empty hands and make up his mind, in front of forty benches and a hood, in something under two breaths.
+
+"No," said Jent. "I withdraw that. It overreaches, and it's false. The provision makes a record, and the record can be read; the respondent spent fifty-one minutes at the last sitting reading it in. The petitioner's point is smaller." He half turned his head toward the clerk. "That record is of what the practitioner has done. It isn't, and it doesn't pretend to be, a measure of what he is. Everything in the petition rests on that difference. Clerk, take the wider words out of the minute, if you would."
+
+The clerk drew his pen through a line in the minute.
+
+*Withdrew it himself. Against his own interest. Because it wasn't true.*
+
+*4. The discretion is the registry's, and it's whole.* Nobody disputed it. The seat could use it without first finding fault in anything at all.
+
+And so, said Jent, the petitioner's request was a modest one. Not that the enrollment be found faulty, since it was not; only that the question of integrity be found to be one the seat might take up; and that, having taken it up, the seat order what the code ordered for such questions, namely a fresh evaluation by the standard protocol, with the enrollment left to stand or fall by whatever the frame said.
+
+He cited the adjudication office's file, by its page, as *the office's own finding that what the practitioner can do lies beyond the Standard's tables*. He did not read out the result on that page. He did not name the practitioner on the other side of it, or mention a crowd, or a floor, or a stoppage in a fourth exchange. He gave a page number, and closed his mouth on it.
+
+He sat down. He unscrewed his inkwell.
+
+Cael looked at his notes and added the last line, the one he had been putting off since the conference in the old counting room.
+
+*No cruelty in him. Not even coldness. He's courteous, and he means it, and he just took back the best sentence he had because it was untrue. I'd learn less if he were easier to hate. He's a good tool, and he's being handled well. The file I want belongs to whoever is doing the handling.*
+
+---
+
+The house's counsel stood up with her papers in her hand, and for two hours she never looked down at them.
+
+She had brought the joiner's steel rule. She laid it on the table in front of her before she spoke. Karis, at Cael's elbow, slid a card across to him under the edge of the table. It had four words on it in her finding hand, one under the other.
+
+*TEXT. SHELF. PREAMBLE. NAMES.*
+
+"She'll turn the rule at the end of each," Karis breathed. "So I don't lose my place. Tick them."
+
+He ticked them.
+
+TEXT took half an hour. The counsel did not argue what the assay clause meant. She told where it had come from, three times, from three accounts made by three people who had not seen each other's work until the end: the house's own, the reading room's, and one she had paid the district archivist to make for her because, she told the hood, two accounts that agree might be luck. Then she took up the standardizing directive and turned to the schedule at its back, where its drafters had set down every older provision they meant to cancel, and walked the hood down it, item by item, and when she reached the bottom she stopped. The drafters had been careful men, she said. They had listed everything. The assay clause was not on their list. And care, she said, only ever runs one way. She gave the rule a quarter turn. Cael ticked TEXT.
+
+SHELF was the Greyvane ruling, entered, and the four older rulings behind it, entered: four houses that had gone to law against the clause, with lawyers and money, and four that had lost, every one on the text. The clause had been tried, she said, by everybody who could afford to try it. It had held each time. A quarter turn. A tick.
+
+PREAMBLE began with the counsel laying her papers face down on the table.
+
+"I mean to read the seat the preamble to the integrity sections," she said. "I don't believe anybody in this room has ever heard it aloud."
+
+It took her ninety seconds. It was short, and old, and it said in plain words what the sections were for: the testing of instruments. Frames and stations. Records and their keeping. Protocols and who held them. So that the registry might know which of its instruments could be trusted. Cael watched the benches while she read, and thought she was right; nobody's face along them knew a word of it.
+
+Then she gave them Karis's ninety-one, and he felt Karis go very still beside him. Ninety-one recorded uses. Eighty-four about things. Seven about persons, and all seven about what a person had done. Not one, in ninety-one, about what a person was. A clause made to find out whether a frame could be trusted, the counsel said, could only be made to ask the same of a man by bending it until the words cracked.
+
+There, at the end of PREAMBLE, the hood spoke for the only time that morning.
+
+It asked, in a registrar's voice that might have belonged to anybody, whether counsel's case was that the integrity sections could never lawfully reach a practitioner, or only that nobody had ever made them.
+
+"Only that nobody ever has," said the counsel, without a pause. "That's enough. In all the years these sections have stood, this seat is asked to go first: to turn them on a person for what he is. A seat that's asked to go first deserves to hear it said in plain words. The petition never did."
+
+Jent was up before she had finished.
+
+"The petitioner has never said the use was an ordinary one, and is content to have the minute record that it is new."
+
+"The petitioner is content to have the minute record that it is new," the counsel said, and as she said it she turned round, for the only time in two hours, and gave it to the gallery. Then she turned back to the hood and gave the rule its third quarter turn.
+
+NAMES.
+
+The grant at Greyvane and its two renewals on paper. A season's bouts under a regional registrar's seal and the rating instrument the whole continent used. A tournament entered under a clause of its own charter. The Compact's own senior evaluator, who had come up the bluff with his instruments, spent three days with them, and gone home without writing a single finding against the boy. More evaluating, the counsel said, than most practitioners on the continent would have in the whole of their lives, done by people with eyes in their heads, under seal, on the record, across three years.
+
+"By twenty-two officers," she said. "I'll name them."
+
+And she did, one at a time, at the pace a person reads names aloud in a room where they matter, each with a grade and a house and the day the officer had sat. Gault's was among them. So was Ilsev's; Ilsev did not look up. So, in its place among the inspection's, was the Archmarshal's, and Cael thought he saw the hood's stillness alter at it, the way still water alters when something passes underneath. Four minutes. The gallery sat through every one of them so quietly that he heard, out in the street, a cart's iron tyre grind over the cobbles below the steps.
+
+Karis passed two more cards forward to the counsel's elbow while all this went on, and Cael, who had never in his life managed not to read upside down, read both. The first corrected a page number. The counsel glanced at it and used the right page in her next sentence without a hitch. The second said *Leave the fifth point. Don't need it.* The counsel turned it face down. She left the fifth point.
+
+She ended with a sentence she and Karis had spent a week building, which she had taken in so completely that nobody would ever have guessed it was built.
+
+"The petitioner would have the seat take one instrument's silence over the word of every officer who ever stood in a room with this practitioner and used their eyes. The seat should refuse. For three years the record has been the evaluation. Nothing in the record has moved since. Only the questioner has."
+
+She turned the rule to where it had begun, and sat.
+
+The gallery made the sound galleries make when they have watched somebody do a difficult thing well and are not allowed to clap: a long low murmur without words in it, which went on a little while and stopped. Ilsev wrote for a long time. The hood received it.
+
+---
+
+The noon adjournment was an hour, and they spent it in the narrow passage behind the selling floor where the wool-factors had once kept their samples. It still smelled of fleece. Nobody said the morning had gone well, because nobody wished to be the one who had said it.
+
+Lira had sat through the morning on the bench behind the house's table, where *attendance* sat, and had lost the thread in the first half hour. She caught Karis against the wall.
+
+"The list," she said. "The drafters' list. One breath."
+
+"They wrote down everything they were cancelling. They didn't write down ours."
+
+"That's all?"
+
+"That's the first half hour."
+
+"Then why did it take her a half hour?"
+
+"Because if she'd said it in one breath it would have sounded like a trick." Karis leaned her head back against the stone. "True things that matter have to take long enough to look true."
+
+Through the passage's far doorway Cael could see the records table. The officer with the careful face had stayed at it for the adjournment. He was eating a piece of bread over a spread handkerchief, very neatly, leaning away from the minute-book so that nothing should fall on it. He did not look up at the doorway once. Cael watched him finish the bread, and fold the handkerchief over the crumbs, and put it away in his coat, and square the minute-book to the table's edge again with both hands, and he did not know why he could not stop watching it.
+
+The hood read the ruling from a single leaf, plainly written in the hour of the adjournment, in the same voice it had used for its one question, without a pause anywhere.
+
+*Having heard both parties, the seat holds: that the enrollment was rightly made; that the clause it rests on is law, which the standardizing directive left unrepealed; that the house's record of the enrollment is whole, and is left as it stands; and that from first to last the house has kept within its charter.*
+
+Every point. Every last point that paper could carry, carried, under the seat's own seal, into the minute, where it would stay as long as there was a minute.
+
+Halfway through it the gallery had begun to move. Boards were coming up. On the second bench a correspondent was half out of his seat with his hat already in his hand, meaning to be the first through the doors to the runner in the street. The hood did not change its voice or its speed by a hair.
+
+*The seat holds also that the petition's question of evaluation integrity is one it may take up, since how far the integrity sections reach a practitioner is for the registry to say, and the seat so says. The matter goes forward to full proceedings. Whether the enrollee shall be compelled to re-evaluation under the standard Arbiter protocol is to be argued at the sittings that remain, and ruled on before the academic year is out.*
+
+The correspondent sat down again, slowly, with his hat on his knee.
+
+Both at once. *You are lawful. The machine goes on.*
+
+Cael read the room in the few seconds after, because a room tells the truth for a few seconds after a ruling before it remembers to arrange itself. The counsel writing in her minute with no expression at all. Withrow at the head of the house's table with her chin exactly where it had been for three hours. Karis's hands flat on the table and white across the knuckles. Forty benches of people working out, each at his own speed, that they had just watched a house win every point it had and lose the morning in two paragraphs. And Jent, at the petitioner's table, not smiling, not gathering his papers, not looking across the floor at all; receiving what he had been sent to fetch with the face of a man who has just been told it will rain.
+
+Then Ilsev stood.
+
+She asked leave to speak, and had it. She did not open her files.
+
+"I'd ask the seat," she said, "to say for the minute what the evaluation seat is here to do."
+
+"To assess the conduct of any re-evaluation the seat orders," said the hood. "Its keeping to protocol. Not its result."
+
+"Nor whether the standard protocol can read this practitioner at all."
+
+"Nor that."
+
+"Then I'd ask that those words be minuted exactly as the seat has said them," said Ilsev, "so that no one can stretch this chair afterward to cover that question."
+
+The clerk wrote it. Ilsev sat, and took up her new pencil, and wrote the same words into her own file in her own hand, and set the file back on her lap-desk at its old angle.
+
+Cael watched her and knew what she had done, because he had seen her do it at Greyvane. A reader of texts, marking the edge of a text in ink so that nobody could ever claim afterward that it had said more than it said. She had just told the whole room, in the only language she had ever used, that her seat would certify how the corridor was walked, and had been given no say at all in where the corridor led.
+
+It was the most honest thing said in that room all day. It altered nothing whatever.
+
+When the hood stood, the whole floor stood with it. Withrow bowed to the platform at the registry's depth.
+
+---
+
+On the steps it was still bright afternoon.
+
+Lira counted the runners, because Cael had his hands full of the counsel's second case. Four of them, off down the market street in four directions before the gallery had finished coming out through the doors. "Four," she said. "Four towns by tonight."
+
+Cael thought of the printer in the wharf street, setting this paragraph into type by lamplight on the old press, the one that did not smear, and finding he needed two headlines for it and had room for one. One sheet would set it under *HALCENVANE VINDICATED*, and the other under *THE CASE GOES ON*, and neither headline would be false. Very few of the people who bought them would see in it what the people on these steps had just watched: a door being shut, with great courtesy, while the house was still inside it, and the house thanked for the quality of its paperwork.
+
+Jent was the last of the petitioner's party out through the doors. He came down the four steps at his ordinary pace, with his clerk and the folder that had stayed shut all morning, and at the bottom he stopped beside the counsel.
+
+"You should have taken your fifth point," he said. "It was a good one."
+
+"It was. I didn't need it."
+
+"No." Jent put on his hat. "That's why I'd have liked to hear it." He nodded to her, once, and went off up the market street on foot, alone, like any man walking home to his dinner.
+
+The counsel looked after him until he turned the corner by the corn chandler's.
+
+"In twenty-six years," she said, "he's the only one who's ever stopped on the way down to mark my paper. It costs him nothing, so he's generous with it. It's also accurate, which is what I can't forgive." She took her case back from Cael. "He'll give more away next time."
+
+"Has he got anything left?" said Lira.
+
+"Watch him find something," said the counsel. "Giving things away is how that man walks forward."
+
+The coach went home along the river road with the light going off the water, behind Withrow's carriage, with the six of them inside: the five and the counsel.
+
+At the first milestone past the town Brom took the slip out of his right inside pocket. He unfolded it, read it, and held it up so that they could all see.
+
+One word, in Karis's hand.
+
+*Both.*
+
+Karis did not look at it. She was looking out of the window at the river.
+
+"We won every point that can be won on paper," she said.
+
+Brom folded the slip along its creases, taking the time he always took over anything he meant to keep. "And?"
+
+"And it's proceeding."
+
+Nobody said anything after that for a long way. The river slid by. Lira kept one hand on the closed drill-book and never lifted its cover, and Cael watched her keep it shut. He watched Brom put the slip back in the right-hand pocket and leave his hand there over it. He watched the counsel write one line into her minute, which he read upside down: *Valid: held. To proceed: held. Both.*. He counted the Archmarshal's part in the day, which was none at all, a name read aloud among twenty-two by somebody else; and the seal's part, which had been the whole of it, and had no face.
+
+At the ferry, while the coach waited its turn, he set the night's entry in his head. It came out at a single line, and he did not try to make it longer.
+
+*Part of me is still keeping score. The rest of me has started counting doors.*
+
+Seln had not opened his eyes since the town. He did not open them now. He spoke from his corner of the bench in the dry, level voice of the office, the voice of a man who had kept its accounts from the inside for fifteen years, and who had never until this year heard anybody outside that trade say the sum out loud.
+
+"Now you understand the file I've been reading my whole career."
+
+codex
+I’ve finished the seven supplied chapters (14–20). The central effect is strong: procedural victories become progressively more frightening, while the private training scenes keep the stakes embodied. I’m checking the score evidence and one apparent arithmetic inconsistency before writing the review.
+exec
+/bin/zsh -lc "test -e editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md; printf '%s\\n' "'$?; rg -n "three other towns|other two towns|Four times asked|Twenty-two and two-thirds|Two at the foot|Both'"\\.\" editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-{14,15,16,17,18,19,20}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+1
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-20.md:321:*Both.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-20.md:331:Nobody said anything after that for a long way. The river slid by. Lira kept one hand on the closed drill-book and never lifted its cover, and Cael watched her keep it shut. He watched Brom put the slip back in the right-hand pocket and leave his hand there over it. He watched the counsel write one line into her minute, which he read upside down: *Valid: held. To proceed: held. Both.*. He counted the Archmarshal's part in the day, which was none at all, a name read aloud among twenty-two by somebody else; and the seal's part, which had been the whole of it, and had no face.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-17.md:129:"Twenty-two and two-thirds. Entered."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-17.md:135:"Twenty-two and two-thirds," he said. He wrote it on the line below the Blade, in the cramped square hand, and in the margin he wrote *gave her the first, bad arm*, and he did not draw a question mark beside it. He looked at the line for a moment. Then he looked up, past Cael's shoulder, at the gallery over the west door, where the man from Rhagen was writing.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-18.md:193:Every bell, all week, the same line in the lodge-man's square hand. *Two at the foot.* And every few lines, at the bell the two coats at the road's foot gave way to the next two: *Two at the foot. Changed.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-18.md:201:The road column did not care about any of them. *Two at the foot. Two at the foot. Changed.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-15.md:79:He had the price. He had the bridge-end stall's three times. He had the back of the pamphlet, which listed the same two weeklies for sale in three other towns. He did not have the print runs, and without the print runs the sum was a guess, and he would not put a guess in the notebook as if it were a figure.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-15.md:87:"Ask how much paper." Brom took the pencil out of his hand and turned the notebook round. "A stall that size takes a quire in the morning and sends the boy for another at noon. I've watched him. A quire's twenty-four sheets." He wrote it down in his large slow figures. "If he's three times what he was, he's on three quires. The other two towns are bigger. Say four each, to be safe." He did not ask how Cael knew the towns; he only worked down the page, a line at a time, the way he loaded a cart, with the heaviest things at the bottom and each line lashed to the one beneath it before he trusted it with the next. "There. Two weeklies. That's your copper."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-14.md:93:Four times asked. Four times received. It was a thin sample, and it was every case that existed.
+
+apply patch
+patch: completed
+/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..736b177de9c454406d4dbaef1deb9d7751430cb0
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+@@ -0,0 +1,86 @@
++# Movement 003 review — simulated cold read
++
++This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, chapters 14–20, in their declared order. No editorial canon was supplied, so apparent continuity issues below are not verified canon violations. The two reader perspectives are editorial lenses, not demographic research or a sales forecast.
++
++## Unscored reader response
++
++Interest caught immediately on “The porter was late with the pigeons.” The ordinary irregularity is a clean warning that something institutional has shifted, and Vastin’s realization that his own exact language has been turned against him gives the opening chapter a complete emotional and moral arc. The strongest hook is not whether the law is technically valid; it is whether conscientious people can do anything once procedure has been designed to absorb conscientious objections.
++
++Interest slipped briefly in the middle of chapter 15’s pamphlet calculation and again across the successive sorting, archive-query, and letter scenes in chapters 16–19. Each scene contributes a new fact, but several produce it through a similar rhythm: paper arrives, a careful person reads it exactly, the group names what it means, and Cael records the conclusion. The accumulation is purposeful and ultimately pays off in the five beans, but the sameness of delivery slightly reduces surprise before that payoff.
++
++Cael matters most because his governing belief is visibly changing. He begins by treating the threat as something he can measure, document, and personally pay for; the movement forces him to see costs arriving first for Lira, Brom, Karis, the house, and Hesk. Lira is the strongest attachment point beside him. Her “That doesn’t make it fair. / No. It makes it mine” turns an imposed loss of daylight into earned tactical knowledge without pretending the loss was good. Vastin also matters immediately despite occupying only the opening chapter: his unused finding is a convincing act of integrity precisely because it does not rescue anyone.
++
++I expect the remaining sittings to order the standard re-evaluation while the pre-restriction inventory closes around Cael’s relationships. I also expect Ilsev, Jent, and perhaps Vastin to constrain how the machine acts without being able to stop it, and I expect Cael’s private, unclassified capability to become strategically incompatible with continued concealment. I would continue. The movement ends on a genuine change in comprehension—Cael is “counting doors”—rather than merely postponing a verdict.
++
++## Fluent thirteen-year-old lens
++
++These scores are editorial judgments. A 5 means understandable but inconsistent, 7 engaging with located weaknesses, and 9 compelling with few substantial distractions.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 14, opening through “The third paper was a bundle tied in grey tape” | The late pigeons, crooked press, painful hand, and unfamiliar bundle create unease before the legal explanation begins. The concrete objects carry the reader through the initial institutional vocabulary. | High |
++| Keep reading | 9/10 | Chapter 20, ruling from “The seat holds also” through Seln’s final line, “Now you understand the file I’ve been reading my whole career” | The house wins every stated point and still loses the practical morning. That paradox resolves the movement’s evidence while opening a more dangerous next phase. | High |
++| Interest / freshness | 9/10 | Chapter 19, supper scene from Seln placing the first bean through “walking the fences” | Turning a covert bureaucratic campaign into five edible beans is distinctive, visual, and easy to remember. The threat feels original because its weapon is coordinated ordinary paperwork. | High |
++| Clarity / flow | 7/10 | Chapter 20, the four-part argument labeled TEXT, SHELF, PREAMBLE, NAMES | The card and quarter-turned steel rule are excellent guides, but terms such as integrity sections, standardizing directive, assay clause, evaluation seat, and standard protocol arrive in dense succession. A fluent young reader can follow the result more easily than every legal distinction. | Medium-high |
++| Character attachment | 9/10 | Chapter 20, private training, from “I lost my light” through “No. It makes it mine” | Lira names both the unfair cost and what she has learned from it; Cael refuses the false consolation. Their loyalty is shown through honest disagreement and shared practice. | High |
++| Humor / warmth | 8/10 | Chapter 16, letter-sorting scene: “Kind. Unkind. Unhinged,” the circled star, and Brom’s “It’s a good circle” | Humor grows from the group’s habits and provides relief without mocking the frightened nine-year-old or erasing the pressure. Ephram’s confiscation of the bad woodcut supplies a second strong warm beat. | High |
++| Action / suspense | 8/10 | Chapter 17, supervised bout from the Current’s first bend through “Provision. Two to one” | Position, tactical adaptation, and Cael’s self-imposed concealment are trackable. The exciting problem is not simply winning but producing a true-looking false record while the observers learn. | High |
++| Progression payoff | 9/10 | Chapter 20, honest-floor bout from Cael’s six bursts through Lira seeing the lane in the dust’s shadow | Earlier techniques—read, burst, give, lane, and ten-count recovery—combine in a new condition. Lira gains a repeatable perception rather than a convenient one-time answer, while Cael demonstrates the widening gap between public rating and real capability. | High |
++| Connection | 9/10 | Chapters 15–20, the second gallery ledger, Cael’s cost column, the road column, the beans, and Karis’s word “Both” | Objects and phrases recur with changed meaning. “Choosing,” “accurate,” “nothing to add,” and the various columns accumulate rather than reset, making the seven chapters feel like one designed movement. | High |
++| Read-aloud quality | 8/10 | Chapter 14, denial scene from “They might have come off the same bench” through “there is no appeal from an empty room” | The prose has controlled cadence, strong short landings, and dialogue that sounds distinct. Some long legal sentences in chapters 19–20 demand rereading, and chapter 20’s written form “*Both.*.” creates a small audible/typographic stumble. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9/10 | Chapter 14, from “For the evaluator’s file, per standing distribution” through Vastin finding his three sentences under “Adopts” | The chapter quickly turns professional routine into personal complicity. Vastin’s principles, power, and limitation are dramatized rather than summarized. | High |
++| Keep reading | 9/10 | Chapter 19, Hesk’s “Whatever they’re building, it has a shape. Mind the shape,” through Withrow’s account of the flour sack and nine letters | The threat expands from litigation to a coordinated pre-verdict restriction system, and the consequences become specific enough to make the next sitting urgent. | High |
++| Interest / freshness | 9/10 | Chapter 18, Daeva’s filing: “I fought him. Your instruments failed him, not the other way around. Classify the instruments.” | The movement repeatedly asks who or what is actually being evaluated. Daeva’s fifteen words reverse the institution’s premise with memorable economy while remaining powerless in the immediate proceeding. | High |
++| Clarity / flow | 8/10 | Chapter 19, Seln’s explanation beginning “In the office we used to call it walking the fences” | The causal chain is explicit and chilling: inventory first, simultaneous closures later. Clarity dips mainly where several procedural distinctions are restated across adjacent chapters rather than where any one explanation fails. | High |
++| Character attachment | 9/10 | Chapter 14, Vastin filing the finding under “Pending a proceeding worth sending it to”; chapter 19, Withrow’s “Tonight it’s dearer” | Secondary characters make costly choices consistent with their professional identities. Nobody becomes conveniently heroic, and attachment grows from the price of remaining exact. | High |
++| Humor / warmth | 8/10 | Chapter 15, Ephram’s woodcut critique and confiscation; chapter 18, Cael imagining Hesk, Vell, and Daeva in one room | Dry humor distinguishes relationships and prevents the institutional plot from becoming airless. It is sparse enough that grief and threat still register. | High |
++| Action / suspense | 8/10 | Chapter 17, entire Current bout, especially Cael choosing not to use Lira’s solution in the first exchange | The physical contest is legible and strategically double-layered: Cael must manage a capable opponent and curate the observers’ conclusion. The private fight in chapter 20 then develops rather than repeats the mechanics. | High |
++| Progression payoff | 9/10 | Chapter 20, “The dust… makes a shadow” through Karis’s second ten-count measurement | Capability changes consequence and relationship. Lira adapts to lost daylight, Cael’s lane acquires an observable tell and a stable cost, and the “honest floor” gives the reader a satisfying true measure denied to the public record. | High |
++| Connection | 10/10 | Chapter 14’s “shall receive,” chapter 18’s received-and-filed Gold statement, and chapter 20’s “Two of the highest credentials… and the room said thank you” | The movement is exceptionally good at carrying language, objects, and institutional actions forward until their meanings invert. The joins between Vastin’s remote office, the house, the road, and the hearings remain causally tight. | High |
++| Read-aloud quality | 9/10 | Chapter 20, the ruling’s turn at “The seat holds also,” followed by “You are lawful. The machine goes on.” | Long formal passages are punctuated by short interpretive blows, and repeated document language gains force aloud. A few overextended cumulative sentences and the stray terminal punctuation after “Both” keep it below near-flawless. | High |
++
++## Manuscript-only consistency check
++
++- **Canon:** No canon evidence was supplied, so I cannot verify canon compliance or identify a canon violation. Within these seven chapters, names, institutional roles, and the sequence of the three sittings remain internally consistent.
++- **Physical state:** Cael’s struck left forearm carries from the first exchange in chapter 17 into the post-bout throb and Ephram’s note, “bad arm.” Lira’s fatigue, burst-hand, and difficulty under lamps recur coherently and lead to the shadow discovery. Vastin’s aching left hand is stable within chapter 14. I found no clear physical-state contradiction.
++- **Power limits:** The distinction between public display and private capacity is unusually clear. Cael plans two public bursts in chapter 17, withholds the give, uses the spark once and late, and produces 22⅔; in chapter 20 he reaches six bursts, opens the give, lays a lane, and again pays the established ten-count delay. The movement does not let an unexplained ability solve the proceeding.
++- **Knowledge boundaries:** Information travels through identifiable routes: courtesy copies, tavern clerks, the gate ledger, archive keepers, letters, and Seln’s former-office knowledge. The deliberate asymmetry—Halcenvane learning the refusal before Vastin receives it—is explicitly noticed rather than accidentally omniscient. Chapter 15’s retrospective sentence, “He worked it out the next evening,” briefly widens the narrative distance but does not break Cael’s knowledge boundary.
++- **Reserved disclosures:** None were supplied, so I cannot assess whether a planned revelation arrived early. Within the manuscript, the reveal sequence is controlled: watchers become a held road; separate queries become a row; the row becomes a pre-restriction inventory; Withrow then supplies the lived consequence.
++- **Apparent internal inconsistency:** In chapter 15’s pamphlet calculation, Cael reads that the two weeklies are sold in “three other towns,” implying Ostrand plus three, and the conclusion later says “people in four towns.” Brom’s spoken calculation accounts for the bridge-end stall and “the other two towns,” apparently omitting one town. This may be a one-word error, but as written the inputs do not match.
++
++## Overall judgment
++
++This is a compelling movement with a clear dramatic shape: exclusion of an honest evaluator, widening collateral surveillance, discovery of the pre-verdict machinery, a private truthful measurement, and a public ruling that validates everything while advancing the threat. Its best achievement is making paperwork suspenseful without pretending paperwork is action in disguise. The records matter because every record changes who can act, what can be denied, and which relationship will pay.
++
++The main risk is cumulative sameness. Many characters share a professional devotion to exactness, and many scenes reach their turn through a document being read, correctly interpreted, and restated in a sharpened aphorism. Those repetitions are thematic, but a light differentiation of scene rhythm would make the five-bean and “Both” payoffs strike even harder. The physical sequences should remain at their present developed length; they are the movement’s clearest relief from—and embodiment of—the procedural pressure.
++
++## Repair brief
++
++### 1. Rebalance the middle accumulation without removing evidence
++
++- **Location:** Chapter 15, the pamphlet-market calculation, through chapter 16’s post baskets, observer log, fee-office query, and cost column.
++- **Observed issue:** Several consecutive scenes use the same progression: a paper or ledger appears, a careful reader extracts its implication, and Cael records a concise conclusion. Each fact is useful, but the repeated delivery rhythm briefly flattens escalation.
++- **Effect on the reader:** A younger reader may feel the story pausing for proof; an adult reader may anticipate the rhetorical turn before the characters reach it, reducing the surprise of Seln’s beans.
++- **Proposed scope:** Make a light scene-level cadence pass only. Compress duplicated procedural setup or let one implication remain unglossed until the bean scene; do not remove the gallery log, fee-office query, Brom letter, or cost column, because all four are needed for the later pattern.
++- **Strength to preserve:** The concrete administrative objects and the principle that the threat becomes frightening through lawful, individually ordinary acts.
++
++### 2. Give the chapter 20 argument one more human navigation marker
++
++- **Location:** Chapter 20, from Jent’s four numbered pieces through the counsel’s TEXT / SHELF / PREAMBLE / NAMES response and the noon ruling.
++- **Observed issue:** The logic is sound, but dense clusters of institutional terms make the local question—what exactly has just been conceded, and what remains dangerous—harder to retain on one pass, especially for the thirteen-year-old lens.
++- **Effect on the reader:** The reader can understand the final paradox while losing some of the tactical pleasure of how each advocate constructed it.
++- **Proposed scope:** Add or sharpen two brief Cael-level orientation beats at major transitions, phrased in consequences rather than definitions. Preserve the full hearing and its four-part architecture; this needs clearer handrails, not a shorter argument.
++- **Strength to preserve:** Jent’s voluntary withdrawal of a false overreach, the steel-rule choreography, and the devastating two-paragraph ruling.
++
++### 3. Correct the precision glitches locally
++
++- **Location:** Chapter 15, “three other towns” versus Brom’s “other two towns”; chapter 20, the sentence ending “*Valid: held. To proceed: held. Both.*.”
++- **Observed issue:** The market arithmetic appears to drop one town, and the italicized quotation is followed by a second full stop.
++- **Effect on the reader:** Both are small, but this movement teaches the reader to trust exact counts, exact wording, and exact records, so tiny accounting and punctuation errors attract disproportionate notice.
++- **Proposed scope:** Resolve the intended number of towns with a one-phrase correction and delete the redundant terminal punctuation. Recheck only the nearby calculation and sentence, not the surrounding scenes.
++- **Strength to preserve:** The manuscript’s pleasure in verifiable figures and the clipped finality of “Both.”
+
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..736b177de9c454406d4dbaef1deb9d7751430cb0
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+@@ -0,0 +1,86 @@
++# Movement 003 review — simulated cold read
++
++This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, chapters 14–20, in their declared order. No editorial canon was supplied, so apparent continuity issues below are not verified canon violations. The two reader perspectives are editorial lenses, not demographic research or a sales forecast.
++
++## Unscored reader response
++
++Interest caught immediately on “The porter was late with the pigeons.” The ordinary irregularity is a clean warning that something institutional has shifted, and Vastin’s realization that his own exact language has been turned against him gives the opening chapter a complete emotional and moral arc. The strongest hook is not whether the law is technically valid; it is whether conscientious people can do anything once procedure has been designed to absorb conscientious objections.
++
++Interest slipped briefly in the middle of chapter 15’s pamphlet calculation and again across the successive sorting, archive-query, and letter scenes in chapters 16–19. Each scene contributes a new fact, but several produce it through a similar rhythm: paper arrives, a careful person reads it exactly, the group names what it means, and Cael records the conclusion. The accumulation is purposeful and ultimately pays off in the five beans, but the sameness of delivery slightly reduces surprise before that payoff.
++
++Cael matters most because his governing belief is visibly changing. He begins by treating the threat as something he can measure, document, and personally pay for; the movement forces him to see costs arriving first for Lira, Brom, Karis, the house, and Hesk. Lira is the strongest attachment point beside him. Her “That doesn’t make it fair. / No. It makes it mine” turns an imposed loss of daylight into earned tactical knowledge without pretending the loss was good. Vastin also matters immediately despite occupying only the opening chapter: his unused finding is a convincing act of integrity precisely because it does not rescue anyone.
++
++I expect the remaining sittings to order the standard re-evaluation while the pre-restriction inventory closes around Cael’s relationships. I also expect Ilsev, Jent, and perhaps Vastin to constrain how the machine acts without being able to stop it, and I expect Cael’s private, unclassified capability to become strategically incompatible with continued concealment. I would continue. The movement ends on a genuine change in comprehension—Cael is “counting doors”—rather than merely postponing a verdict.
++
++## Fluent thirteen-year-old lens
++
++These scores are editorial judgments. A 5 means understandable but inconsistent, 7 engaging with located weaknesses, and 9 compelling with few substantial distractions.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 14, opening through “The third paper was a bundle tied in grey tape” | The late pigeons, crooked press, painful hand, and unfamiliar bundle create unease before the legal explanation begins. The concrete objects carry the reader through the initial institutional vocabulary. | High |
++| Keep reading | 9/10 | Chapter 20, ruling from “The seat holds also” through Seln’s final line, “Now you understand the file I’ve been reading my whole career” | The house wins every stated point and still loses the practical morning. That paradox resolves the movement’s evidence while opening a more dangerous next phase. | High |
++| Interest / freshness | 9/10 | Chapter 19, supper scene from Seln placing the first bean through “walking the fences” | Turning a covert bureaucratic campaign into five edible beans is distinctive, visual, and easy to remember. The threat feels original because its weapon is coordinated ordinary paperwork. | High |
++| Clarity / flow | 7/10 | Chapter 20, the four-part argument labeled TEXT, SHELF, PREAMBLE, NAMES | The card and quarter-turned steel rule are excellent guides, but terms such as integrity sections, standardizing directive, assay clause, evaluation seat, and standard protocol arrive in dense succession. A fluent young reader can follow the result more easily than every legal distinction. | Medium-high |
++| Character attachment | 9/10 | Chapter 20, private training, from “I lost my light” through “No. It makes it mine” | Lira names both the unfair cost and what she has learned from it; Cael refuses the false consolation. Their loyalty is shown through honest disagreement and shared practice. | High |
++| Humor / warmth | 8/10 | Chapter 16, letter-sorting scene: “Kind. Unkind. Unhinged,” the circled star, and Brom’s “It’s a good circle” | Humor grows from the group’s habits and provides relief without mocking the frightened nine-year-old or erasing the pressure. Ephram’s confiscation of the bad woodcut supplies a second strong warm beat. | High |
++| Action / suspense | 8/10 | Chapter 17, supervised bout from the Current’s first bend through “Provision. Two to one” | Position, tactical adaptation, and Cael’s self-imposed concealment are trackable. The exciting problem is not simply winning but producing a true-looking false record while the observers learn. | High |
++| Progression payoff | 9/10 | Chapter 20, honest-floor bout from Cael’s six bursts through Lira seeing the lane in the dust’s shadow | Earlier techniques—read, burst, give, lane, and ten-count recovery—combine in a new condition. Lira gains a repeatable perception rather than a convenient one-time answer, while Cael demonstrates the widening gap between public rating and real capability. | High |
++| Connection | 9/10 | Chapters 15–20, the second gallery ledger, Cael’s cost column, the road column, the beans, and Karis’s word “Both” | Objects and phrases recur with changed meaning. “Choosing,” “accurate,” “nothing to add,” and the various columns accumulate rather than reset, making the seven chapters feel like one designed movement. | High |
++| Read-aloud quality | 8/10 | Chapter 14, denial scene from “They might have come off the same bench” through “there is no appeal from an empty room” | The prose has controlled cadence, strong short landings, and dialogue that sounds distinct. Some long legal sentences in chapters 19–20 demand rereading, and chapter 20’s written form “*Both.*.” creates a small audible/typographic stumble. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9/10 | Chapter 14, from “For the evaluator’s file, per standing distribution” through Vastin finding his three sentences under “Adopts” | The chapter quickly turns professional routine into personal complicity. Vastin’s principles, power, and limitation are dramatized rather than summarized. | High |
++| Keep reading | 9/10 | Chapter 19, Hesk’s “Whatever they’re building, it has a shape. Mind the shape,” through Withrow’s account of the flour sack and nine letters | The threat expands from litigation to a coordinated pre-verdict restriction system, and the consequences become specific enough to make the next sitting urgent. | High |
++| Interest / freshness | 9/10 | Chapter 18, Daeva’s filing: “I fought him. Your instruments failed him, not the other way around. Classify the instruments.” | The movement repeatedly asks who or what is actually being evaluated. Daeva’s fifteen words reverse the institution’s premise with memorable economy while remaining powerless in the immediate proceeding. | High |
++| Clarity / flow | 8/10 | Chapter 19, Seln’s explanation beginning “In the office we used to call it walking the fences” | The causal chain is explicit and chilling: inventory first, simultaneous closures later. Clarity dips mainly where several procedural distinctions are restated across adjacent chapters rather than where any one explanation fails. | High |
++| Character attachment | 9/10 | Chapter 14, Vastin filing the finding under “Pending a proceeding worth sending it to”; chapter 19, Withrow’s “Tonight it’s dearer” | Secondary characters make costly choices consistent with their professional identities. Nobody becomes conveniently heroic, and attachment grows from the price of remaining exact. | High |
++| Humor / warmth | 8/10 | Chapter 15, Ephram’s woodcut critique and confiscation; chapter 18, Cael imagining Hesk, Vell, and Daeva in one room | Dry humor distinguishes relationships and prevents the institutional plot from becoming airless. It is sparse enough that grief and threat still register. | High |
++| Action / suspense | 8/10 | Chapter 17, entire Current bout, especially Cael choosing not to use Lira’s solution in the first exchange | The physical contest is legible and strategically double-layered: Cael must manage a capable opponent and curate the observers’ conclusion. The private fight in chapter 20 then develops rather than repeats the mechanics. | High |
++| Progression payoff | 9/10 | Chapter 20, “The dust… makes a shadow” through Karis’s second ten-count measurement | Capability changes consequence and relationship. Lira adapts to lost daylight, Cael’s lane acquires an observable tell and a stable cost, and the “honest floor” gives the reader a satisfying true measure denied to the public record. | High |
++| Connection | 10/10 | Chapter 14’s “shall receive,” chapter 18’s received-and-filed Gold statement, and chapter 20’s “Two of the highest credentials… and the room said thank you” | The movement is exceptionally good at carrying language, objects, and institutional actions forward until their meanings invert. The joins between Vastin’s remote office, the house, the road, and the hearings remain causally tight. | High |
++| Read-aloud quality | 9/10 | Chapter 20, the ruling’s turn at “The seat holds also,” followed by “You are lawful. The machine goes on.” | Long formal passages are punctuated by short interpretive blows, and repeated document language gains force aloud. A few overextended cumulative sentences and the stray terminal punctuation after “Both” keep it below near-flawless. | High |
++
++## Manuscript-only consistency check
++
++- **Canon:** No canon evidence was supplied, so I cannot verify canon compliance or identify a canon violation. Within these seven chapters, names, institutional roles, and the sequence of the three sittings remain internally consistent.
++- **Physical state:** Cael’s struck left forearm carries from the first exchange in chapter 17 into the post-bout throb and Ephram’s note, “bad arm.” Lira’s fatigue, burst-hand, and difficulty under lamps recur coherently and lead to the shadow discovery. Vastin’s aching left hand is stable within chapter 14. I found no clear physical-state contradiction.
++- **Power limits:** The distinction between public display and private capacity is unusually clear. Cael plans two public bursts in chapter 17, withholds the give, uses the spark once and late, and produces 22⅔; in chapter 20 he reaches six bursts, opens the give, lays a lane, and again pays the established ten-count delay. The movement does not let an unexplained ability solve the proceeding.
++- **Knowledge boundaries:** Information travels through identifiable routes: courtesy copies, tavern clerks, the gate ledger, archive keepers, letters, and Seln’s former-office knowledge. The deliberate asymmetry—Halcenvane learning the refusal before Vastin receives it—is explicitly noticed rather than accidentally omniscient. Chapter 15’s retrospective sentence, “He worked it out the next evening,” briefly widens the narrative distance but does not break Cael’s knowledge boundary.
++- **Reserved disclosures:** None were supplied, so I cannot assess whether a planned revelation arrived early. Within the manuscript, the reveal sequence is controlled: watchers become a held road; separate queries become a row; the row becomes a pre-restriction inventory; Withrow then supplies the lived consequence.
++- **Apparent internal inconsistency:** In chapter 15’s pamphlet calculation, Cael reads that the two weeklies are sold in “three other towns,” implying Ostrand plus three, and the conclusion later says “people in four towns.” Brom’s spoken calculation accounts for the bridge-end stall and “the other two towns,” apparently omitting one town. This may be a one-word error, but as written the inputs do not match.
++
++## Overall judgment
++
++This is a compelling movement with a clear dramatic shape: exclusion of an honest evaluator, widening collateral surveillance, discovery of the pre-verdict machinery, a private truthful measurement, and a public ruling that validates everything while advancing the threat. Its best achievement is making paperwork suspenseful without pretending paperwork is action in disguise. The records matter because every record changes who can act, what can be denied, and which relationship will pay.
++
++The main risk is cumulative sameness. Many characters share a professional devotion to exactness, and many scenes reach their turn through a document being read, correctly interpreted, and restated in a sharpened aphorism. Those repetitions are thematic, but a light differentiation of scene rhythm would make the five-bean and “Both” payoffs strike even harder. The physical sequences should remain at their present developed length; they are the movement’s clearest relief from—and embodiment of—the procedural pressure.
++
++## Repair brief
++
++### 1. Rebalance the middle accumulation without removing evidence
++
++- **Location:** Chapter 15, the pamphlet-market calculation, through chapter 16’s post baskets, observer log, fee-office query, and cost column.
++- **Observed issue:** Several consecutive scenes use the same progression: a paper or ledger appears, a careful reader extracts its implication, and Cael records a concise conclusion. Each fact is useful, but the repeated delivery rhythm briefly flattens escalation.
++- **Effect on the reader:** A younger reader may feel the story pausing for proof; an adult reader may anticipate the rhetorical turn before the characters reach it, reducing the surprise of Seln’s beans.
++- **Proposed scope:** Make a light scene-level cadence pass only. Compress duplicated procedural setup or let one implication remain unglossed until the bean scene; do not remove the gallery log, fee-office query, Brom letter, or cost column, because all four are needed for the later pattern.
++- **Strength to preserve:** The concrete administrative objects and the principle that the threat becomes frightening through lawful, individually ordinary acts.
++
++### 2. Give the chapter 20 argument one more human navigation marker
++
++- **Location:** Chapter 20, from Jent’s four numbered pieces through the counsel’s TEXT / SHELF / PREAMBLE / NAMES response and the noon ruling.
++- **Observed issue:** The logic is sound, but dense clusters of institutional terms make the local question—what exactly has just been conceded, and what remains dangerous—harder to retain on one pass, especially for the thirteen-year-old lens.
++- **Effect on the reader:** The reader can understand the final paradox while losing some of the tactical pleasure of how each advocate constructed it.
++- **Proposed scope:** Add or sharpen two brief Cael-level orientation beats at major transitions, phrased in consequences rather than definitions. Preserve the full hearing and its four-part architecture; this needs clearer handrails, not a shorter argument.
++- **Strength to preserve:** Jent’s voluntary withdrawal of a false overreach, the steel-rule choreography, and the devastating two-paragraph ruling.
++
++### 3. Correct the precision glitches locally
++
++- **Location:** Chapter 15, “three other towns” versus Brom’s “other two towns”; chapter 20, the sentence ending “*Valid: held. To proceed: held. Both.*.”
++- **Observed issue:** The market arithmetic appears to drop one town, and the italicized quotation is followed by a second full stop.
++- **Effect on the reader:** Both are small, but this movement teaches the reader to trust exact counts, exact wording, and exact records, so tiny accounting and punctuation errors attract disproportionate notice.
++- **Proposed scope:** Resolve the intended number of towns with a one-phrase correction and delete the redundant terminal punctuation. Recheck only the nearby calculation and sentence, not the surrounding scenes.
++- **Strength to preserve:** The manuscript’s pleasure in verifiable figures and the clipped finality of “Both.”
+
+exec
+/bin/zsh -lc "wc -l editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md && sed -n '1,24p' editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md && tail -40 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md && git status --short -- editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+      86 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+# Movement 003 review — simulated cold read
+
+This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, chapters 14–20, in their declared order. No editorial canon was supplied, so apparent continuity issues below are not verified canon violations. The two reader perspectives are editorial lenses, not demographic research or a sales forecast.
+
+## Unscored reader response
+
+Interest caught immediately on “The porter was late with the pigeons.” The ordinary irregularity is a clean warning that something institutional has shifted, and Vastin’s realization that his own exact language has been turned against him gives the opening chapter a complete emotional and moral arc. The strongest hook is not whether the law is technically valid; it is whether conscientious people can do anything once procedure has been designed to absorb conscientious objections.
+
+Interest slipped briefly in the middle of chapter 15’s pamphlet calculation and again across the successive sorting, archive-query, and letter scenes in chapters 16–19. Each scene contributes a new fact, but several produce it through a similar rhythm: paper arrives, a careful person reads it exactly, the group names what it means, and Cael records the conclusion. The accumulation is purposeful and ultimately pays off in the five beans, but the sameness of delivery slightly reduces surprise before that payoff.
+
+Cael matters most because his governing belief is visibly changing. He begins by treating the threat as something he can measure, document, and personally pay for; the movement forces him to see costs arriving first for Lira, Brom, Karis, the house, and Hesk. Lira is the strongest attachment point beside him. Her “That doesn’t make it fair. / No. It makes it mine” turns an imposed loss of daylight into earned tactical knowledge without pretending the loss was good. Vastin also matters immediately despite occupying only the opening chapter: his unused finding is a convincing act of integrity precisely because it does not rescue anyone.
+
+I expect the remaining sittings to order the standard re-evaluation while the pre-restriction inventory closes around Cael’s relationships. I also expect Ilsev, Jent, and perhaps Vastin to constrain how the machine acts without being able to stop it, and I expect Cael’s private, unclassified capability to become strategically incompatible with continued concealment. I would continue. The movement ends on a genuine change in comprehension—Cael is “counting doors”—rather than merely postponing a verdict.
+
+## Fluent thirteen-year-old lens
+
+These scores are editorial judgments. A 5 means understandable but inconsistent, 7 engaging with located weaknesses, and 9 compelling with few substantial distractions.
+
+| Dimension | Score | Exact passage location | Reason | Confidence |
+|---|---:|---|---|---|
+| Opening pull | 8/10 | Chapter 14, opening through “The third paper was a bundle tied in grey tape” | The late pigeons, crooked press, painful hand, and unfamiliar bundle create unease before the legal explanation begins. The concrete objects carry the reader through the initial institutional vocabulary. | High |
+| Keep reading | 9/10 | Chapter 20, ruling from “The seat holds also” through Seln’s final line, “Now you understand the file I’ve been reading my whole career” | The house wins every stated point and still loses the practical morning. That paradox resolves the movement’s evidence while opening a more dangerous next phase. | High |
+| Interest / freshness | 9/10 | Chapter 19, supper scene from Seln placing the first bean through “walking the fences” | Turning a covert bureaucratic campaign into five edible beans is distinctive, visual, and easy to remember. The threat feels original because its weapon is coordinated ordinary paperwork. | High |
+| Clarity / flow | 7/10 | Chapter 20, the four-part argument labeled TEXT, SHELF, PREAMBLE, NAMES | The card and quarter-turned steel rule are excellent guides, but terms such as integrity sections, standardizing directive, assay clause, evaluation seat, and standard protocol arrive in dense succession. A fluent young reader can follow the result more easily than every legal distinction. | Medium-high |
+## Manuscript-only consistency check
+
+- **Canon:** No canon evidence was supplied, so I cannot verify canon compliance or identify a canon violation. Within these seven chapters, names, institutional roles, and the sequence of the three sittings remain internally consistent.
+- **Physical state:** Cael’s struck left forearm carries from the first exchange in chapter 17 into the post-bout throb and Ephram’s note, “bad arm.” Lira’s fatigue, burst-hand, and difficulty under lamps recur coherently and lead to the shadow discovery. Vastin’s aching left hand is stable within chapter 14. I found no clear physical-state contradiction.
+- **Power limits:** The distinction between public display and private capacity is unusually clear. Cael plans two public bursts in chapter 17, withholds the give, uses the spark once and late, and produces 22⅔; in chapter 20 he reaches six bursts, opens the give, lays a lane, and again pays the established ten-count delay. The movement does not let an unexplained ability solve the proceeding.
+- **Knowledge boundaries:** Information travels through identifiable routes: courtesy copies, tavern clerks, the gate ledger, archive keepers, letters, and Seln’s former-office knowledge. The deliberate asymmetry—Halcenvane learning the refusal before Vastin receives it—is explicitly noticed rather than accidentally omniscient. Chapter 15’s retrospective sentence, “He worked it out the next evening,” briefly widens the narrative distance but does not break Cael’s knowledge boundary.
+- **Reserved disclosures:** None were supplied, so I cannot assess whether a planned revelation arrived early. Within the manuscript, the reveal sequence is controlled: watchers become a held road; separate queries become a row; the row becomes a pre-restriction inventory; Withrow then supplies the lived consequence.
+- **Apparent internal inconsistency:** In chapter 15’s pamphlet calculation, Cael reads that the two weeklies are sold in “three other towns,” implying Ostrand plus three, and the conclusion later says “people in four towns.” Brom’s spoken calculation accounts for the bridge-end stall and “the other two towns,” apparently omitting one town. This may be a one-word error, but as written the inputs do not match.
+
+## Overall judgment
+
+This is a compelling movement with a clear dramatic shape: exclusion of an honest evaluator, widening collateral surveillance, discovery of the pre-verdict machinery, a private truthful measurement, and a public ruling that validates everything while advancing the threat. Its best achievement is making paperwork suspenseful without pretending paperwork is action in disguise. The records matter because every record changes who can act, what can be denied, and which relationship will pay.
+
+The main risk is cumulative sameness. Many characters share a professional devotion to exactness, and many scenes reach their turn through a document being read, correctly interpreted, and restated in a sharpened aphorism. Those repetitions are thematic, but a light differentiation of scene rhythm would make the five-bean and “Both” payoffs strike even harder. The physical sequences should remain at their present developed length; they are the movement’s clearest relief from—and embodiment of—the procedural pressure.
+
+## Repair brief
+
+### 1. Rebalance the middle accumulation without removing evidence
+
+- **Location:** Chapter 15, the pamphlet-market calculation, through chapter 16’s post baskets, observer log, fee-office query, and cost column.
+- **Observed issue:** Several consecutive scenes use the same progression: a paper or ledger appears, a careful reader extracts its implication, and Cael records a concise conclusion. Each fact is useful, but the repeated delivery rhythm briefly flattens escalation.
+- **Effect on the reader:** A younger reader may feel the story pausing for proof; an adult reader may anticipate the rhetorical turn before the characters reach it, reducing the surprise of Seln’s beans.
+- **Proposed scope:** Make a light scene-level cadence pass only. Compress duplicated procedural setup or let one implication remain unglossed until the bean scene; do not remove the gallery log, fee-office query, Brom letter, or cost column, because all four are needed for the later pattern.
+- **Strength to preserve:** The concrete administrative objects and the principle that the threat becomes frightening through lawful, individually ordinary acts.
+
+### 2. Give the chapter 20 argument one more human navigation marker
+
+- **Location:** Chapter 20, from Jent’s four numbered pieces through the counsel’s TEXT / SHELF / PREAMBLE / NAMES response and the noon ruling.
+- **Observed issue:** The logic is sound, but dense clusters of institutional terms make the local question—what exactly has just been conceded, and what remains dangerous—harder to retain on one pass, especially for the thirteen-year-old lens.
+- **Effect on the reader:** The reader can understand the final paradox while losing some of the tactical pleasure of how each advocate constructed it.
+- **Proposed scope:** Add or sharpen two brief Cael-level orientation beats at major transitions, phrased in consequences rather than definitions. Preserve the full hearing and its four-part architecture; this needs clearer handrails, not a shorter argument.
+- **Strength to preserve:** Jent’s voluntary withdrawal of a false overreach, the steel-rule choreography, and the devastating two-paragraph ruling.
+
+### 3. Correct the precision glitches locally
+
+- **Location:** Chapter 15, “three other towns” versus Brom’s “other two towns”; chapter 20, the sentence ending “*Valid: held. To proceed: held. Both.*.”
+- **Observed issue:** The market arithmetic appears to drop one town, and the italicized quotation is followed by a second full stop.
+- **Effect on the reader:** Both are small, but this movement teaches the reader to trust exact counts, exact wording, and exact records, so tiny accounting and punctuation errors attract disproportionate notice.
+- **Proposed scope:** Resolve the intended number of towns with a one-phrase correction and delete the redundant terminal punctuation. Recheck only the nearby calculation and sentence, not the surrounding scenes.
+- **Strength to preserve:** The manuscript’s pleasure in verifiable figures and the clipped finality of “Both.”
+?? editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..736b177de9c454406d4dbaef1deb9d7751430cb0
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+@@ -0,0 +1,86 @@
++# Movement 003 review — simulated cold read
++
++This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, chapters 14–20, in their declared order. No editorial canon was supplied, so apparent continuity issues below are not verified canon violations. The two reader perspectives are editorial lenses, not demographic research or a sales forecast.
++
++## Unscored reader response
++
++Interest caught immediately on “The porter was late with the pigeons.” The ordinary irregularity is a clean warning that something institutional has shifted, and Vastin’s realization that his own exact language has been turned against him gives the opening chapter a complete emotional and moral arc. The strongest hook is not whether the law is technically valid; it is whether conscientious people can do anything once procedure has been designed to absorb conscientious objections.
++
++Interest slipped briefly in the middle of chapter 15’s pamphlet calculation and again across the successive sorting, archive-query, and letter scenes in chapters 16–19. Each scene contributes a new fact, but several produce it through a similar rhythm: paper arrives, a careful person reads it exactly, the group names what it means, and Cael records the conclusion. The accumulation is purposeful and ultimately pays off in the five beans, but the sameness of delivery slightly reduces surprise before that payoff.
++
++Cael matters most because his governing belief is visibly changing. He begins by treating the threat as something he can measure, document, and personally pay for; the movement forces him to see costs arriving first for Lira, Brom, Karis, the house, and Hesk. Lira is the strongest attachment point beside him. Her “That doesn’t make it fair. / No. It makes it mine” turns an imposed loss of daylight into earned tactical knowledge without pretending the loss was good. Vastin also matters immediately despite occupying only the opening chapter: his unused finding is a convincing act of integrity precisely because it does not rescue anyone.
++
++I expect the remaining sittings to order the standard re-evaluation while the pre-restriction inventory closes around Cael’s relationships. I also expect Ilsev, Jent, and perhaps Vastin to constrain how the machine acts without being able to stop it, and I expect Cael’s private, unclassified capability to become strategically incompatible with continued concealment. I would continue. The movement ends on a genuine change in comprehension—Cael is “counting doors”—rather than merely postponing a verdict.
++
++## Fluent thirteen-year-old lens
++
++These scores are editorial judgments. A 5 means understandable but inconsistent, 7 engaging with located weaknesses, and 9 compelling with few substantial distractions.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 14, opening through “The third paper was a bundle tied in grey tape” | The late pigeons, crooked press, painful hand, and unfamiliar bundle create unease before the legal explanation begins. The concrete objects carry the reader through the initial institutional vocabulary. | High |
++| Keep reading | 9/10 | Chapter 20, ruling from “The seat holds also” through Seln’s final line, “Now you understand the file I’ve been reading my whole career” | The house wins every stated point and still loses the practical morning. That paradox resolves the movement’s evidence while opening a more dangerous next phase. | High |
++| Interest / freshness | 9/10 | Chapter 19, supper scene from Seln placing the first bean through “walking the fences” | Turning a covert bureaucratic campaign into five edible beans is distinctive, visual, and easy to remember. The threat feels original because its weapon is coordinated ordinary paperwork. | High |
++| Clarity / flow | 7/10 | Chapter 20, the four-part argument labeled TEXT, SHELF, PREAMBLE, NAMES | The card and quarter-turned steel rule are excellent guides, but terms such as integrity sections, standardizing directive, assay clause, evaluation seat, and standard protocol arrive in dense succession. A fluent young reader can follow the result more easily than every legal distinction. | Medium-high |
++| Character attachment | 9/10 | Chapter 20, private training, from “I lost my light” through “No. It makes it mine” | Lira names both the unfair cost and what she has learned from it; Cael refuses the false consolation. Their loyalty is shown through honest disagreement and shared practice. | High |
++| Humor / warmth | 8/10 | Chapter 16, letter-sorting scene: “Kind. Unkind. Unhinged,” the circled star, and Brom’s “It’s a good circle” | Humor grows from the group’s habits and provides relief without mocking the frightened nine-year-old or erasing the pressure. Ephram’s confiscation of the bad woodcut supplies a second strong warm beat. | High |
++| Action / suspense | 8/10 | Chapter 17, supervised bout from the Current’s first bend through “Provision. Two to one” | Position, tactical adaptation, and Cael’s self-imposed concealment are trackable. The exciting problem is not simply winning but producing a true-looking false record while the observers learn. | High |
++| Progression payoff | 9/10 | Chapter 20, honest-floor bout from Cael’s six bursts through Lira seeing the lane in the dust’s shadow | Earlier techniques—read, burst, give, lane, and ten-count recovery—combine in a new condition. Lira gains a repeatable perception rather than a convenient one-time answer, while Cael demonstrates the widening gap between public rating and real capability. | High |
++| Connection | 9/10 | Chapters 15–20, the second gallery ledger, Cael’s cost column, the road column, the beans, and Karis’s word “Both” | Objects and phrases recur with changed meaning. “Choosing,” “accurate,” “nothing to add,” and the various columns accumulate rather than reset, making the seven chapters feel like one designed movement. | High |
++| Read-aloud quality | 8/10 | Chapter 14, denial scene from “They might have come off the same bench” through “there is no appeal from an empty room” | The prose has controlled cadence, strong short landings, and dialogue that sounds distinct. Some long legal sentences in chapters 19–20 demand rereading, and chapter 20’s written form “*Both.*.” creates a small audible/typographic stumble. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9/10 | Chapter 14, from “For the evaluator’s file, per standing distribution” through Vastin finding his three sentences under “Adopts” | The chapter quickly turns professional routine into personal complicity. Vastin’s principles, power, and limitation are dramatized rather than summarized. | High |
++| Keep reading | 9/10 | Chapter 19, Hesk’s “Whatever they’re building, it has a shape. Mind the shape,” through Withrow’s account of the flour sack and nine letters | The threat expands from litigation to a coordinated pre-verdict restriction system, and the consequences become specific enough to make the next sitting urgent. | High |
++| Interest / freshness | 9/10 | Chapter 18, Daeva’s filing: “I fought him. Your instruments failed him, not the other way around. Classify the instruments.” | The movement repeatedly asks who or what is actually being evaluated. Daeva’s fifteen words reverse the institution’s premise with memorable economy while remaining powerless in the immediate proceeding. | High |
++| Clarity / flow | 8/10 | Chapter 19, Seln’s explanation beginning “In the office we used to call it walking the fences” | The causal chain is explicit and chilling: inventory first, simultaneous closures later. Clarity dips mainly where several procedural distinctions are restated across adjacent chapters rather than where any one explanation fails. | High |
++| Character attachment | 9/10 | Chapter 14, Vastin filing the finding under “Pending a proceeding worth sending it to”; chapter 19, Withrow’s “Tonight it’s dearer” | Secondary characters make costly choices consistent with their professional identities. Nobody becomes conveniently heroic, and attachment grows from the price of remaining exact. | High |
++| Humor / warmth | 8/10 | Chapter 15, Ephram’s woodcut critique and confiscation; chapter 18, Cael imagining Hesk, Vell, and Daeva in one room | Dry humor distinguishes relationships and prevents the institutional plot from becoming airless. It is sparse enough that grief and threat still register. | High |
++| Action / suspense | 8/10 | Chapter 17, entire Current bout, especially Cael choosing not to use Lira’s solution in the first exchange | The physical contest is legible and strategically double-layered: Cael must manage a capable opponent and curate the observers’ conclusion. The private fight in chapter 20 then develops rather than repeats the mechanics. | High |
++| Progression payoff | 9/10 | Chapter 20, “The dust… makes a shadow” through Karis’s second ten-count measurement | Capability changes consequence and relationship. Lira adapts to lost daylight, Cael’s lane acquires an observable tell and a stable cost, and the “honest floor” gives the reader a satisfying true measure denied to the public record. | High |
++| Connection | 10/10 | Chapter 14’s “shall receive,” chapter 18’s received-and-filed Gold statement, and chapter 20’s “Two of the highest credentials… and the room said thank you” | The movement is exceptionally good at carrying language, objects, and institutional actions forward until their meanings invert. The joins between Vastin’s remote office, the house, the road, and the hearings remain causally tight. | High |
++| Read-aloud quality | 9/10 | Chapter 20, the ruling’s turn at “The seat holds also,” followed by “You are lawful. The machine goes on.” | Long formal passages are punctuated by short interpretive blows, and repeated document language gains force aloud. A few overextended cumulative sentences and the stray terminal punctuation after “Both” keep it below near-flawless. | High |
++
++## Manuscript-only consistency check
++
++- **Canon:** No canon evidence was supplied, so I cannot verify canon compliance or identify a canon violation. Within these seven chapters, names, institutional roles, and the sequence of the three sittings remain internally consistent.
++- **Physical state:** Cael’s struck left forearm carries from the first exchange in chapter 17 into the post-bout throb and Ephram’s note, “bad arm.” Lira’s fatigue, burst-hand, and difficulty under lamps recur coherently and lead to the shadow discovery. Vastin’s aching left hand is stable within chapter 14. I found no clear physical-state contradiction.
++- **Power limits:** The distinction between public display and private capacity is unusually clear. Cael plans two public bursts in chapter 17, withholds the give, uses the spark once and late, and produces 22⅔; in chapter 20 he reaches six bursts, opens the give, lays a lane, and again pays the established ten-count delay. The movement does not let an unexplained ability solve the proceeding.
++- **Knowledge boundaries:** Information travels through identifiable routes: courtesy copies, tavern clerks, the gate ledger, archive keepers, letters, and Seln’s former-office knowledge. The deliberate asymmetry—Halcenvane learning the refusal before Vastin receives it—is explicitly noticed rather than accidentally omniscient. Chapter 15’s retrospective sentence, “He worked it out the next evening,” briefly widens the narrative distance but does not break Cael’s knowledge boundary.
++- **Reserved disclosures:** None were supplied, so I cannot assess whether a planned revelation arrived early. Within the manuscript, the reveal sequence is controlled: watchers become a held road; separate queries become a row; the row becomes a pre-restriction inventory; Withrow then supplies the lived consequence.
++- **Apparent internal inconsistency:** In chapter 15’s pamphlet calculation, Cael reads that the two weeklies are sold in “three other towns,” implying Ostrand plus three, and the conclusion later says “people in four towns.” Brom’s spoken calculation accounts for the bridge-end stall and “the other two towns,” apparently omitting one town. This may be a one-word error, but as written the inputs do not match.
++
++## Overall judgment
++
++This is a compelling movement with a clear dramatic shape: exclusion of an honest evaluator, widening collateral surveillance, discovery of the pre-verdict machinery, a private truthful measurement, and a public ruling that validates everything while advancing the threat. Its best achievement is making paperwork suspenseful without pretending paperwork is action in disguise. The records matter because every record changes who can act, what can be denied, and which relationship will pay.
++
++The main risk is cumulative sameness. Many characters share a professional devotion to exactness, and many scenes reach their turn through a document being read, correctly interpreted, and restated in a sharpened aphorism. Those repetitions are thematic, but a light differentiation of scene rhythm would make the five-bean and “Both” payoffs strike even harder. The physical sequences should remain at their present developed length; they are the movement’s clearest relief from—and embodiment of—the procedural pressure.
++
++## Repair brief
++
++### 1. Rebalance the middle accumulation without removing evidence
++
++- **Location:** Chapter 15, the pamphlet-market calculation, through chapter 16’s post baskets, observer log, fee-office query, and cost column.
++- **Observed issue:** Several consecutive scenes use the same progression: a paper or ledger appears, a careful reader extracts its implication, and Cael records a concise conclusion. Each fact is useful, but the repeated delivery rhythm briefly flattens escalation.
++- **Effect on the reader:** A younger reader may feel the story pausing for proof; an adult reader may anticipate the rhetorical turn before the characters reach it, reducing the surprise of Seln’s beans.
++- **Proposed scope:** Make a light scene-level cadence pass only. Compress duplicated procedural setup or let one implication remain unglossed until the bean scene; do not remove the gallery log, fee-office query, Brom letter, or cost column, because all four are needed for the later pattern.
++- **Strength to preserve:** The concrete administrative objects and the principle that the threat becomes frightening through lawful, individually ordinary acts.
++
++### 2. Give the chapter 20 argument one more human navigation marker
++
++- **Location:** Chapter 20, from Jent’s four numbered pieces through the counsel’s TEXT / SHELF / PREAMBLE / NAMES response and the noon ruling.
++- **Observed issue:** The logic is sound, but dense clusters of institutional terms make the local question—what exactly has just been conceded, and what remains dangerous—harder to retain on one pass, especially for the thirteen-year-old lens.
++- **Effect on the reader:** The reader can understand the final paradox while losing some of the tactical pleasure of how each advocate constructed it.
++- **Proposed scope:** Add or sharpen two brief Cael-level orientation beats at major transitions, phrased in consequences rather than definitions. Preserve the full hearing and its four-part architecture; this needs clearer handrails, not a shorter argument.
++- **Strength to preserve:** Jent’s voluntary withdrawal of a false overreach, the steel-rule choreography, and the devastating two-paragraph ruling.
++
++### 3. Correct the precision glitches locally
++
++- **Location:** Chapter 15, “three other towns” versus Brom’s “other two towns”; chapter 20, the sentence ending “*Valid: held. To proceed: held. Both.*.”
++- **Observed issue:** The market arithmetic appears to drop one town, and the italicized quotation is followed by a second full stop.
++- **Effect on the reader:** Both are small, but this movement teaches the reader to trust exact counts, exact wording, and exact records, so tiny accounting and punctuation errors attract disproportionate notice.
++- **Proposed scope:** Resolve the intended number of towns with a one-phrase correction and delete the redundant terminal punctuation. Recheck only the nearby calculation and sentence, not the surrounding scenes.
++- **Strength to preserve:** The manuscript’s pleasure in verifiable figures and the clipped finality of “Both.”
+
+codex
+Completed the simulated cold-read review and wrote only the requested file:
+
+[review-cold.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md)
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..736b177de9c454406d4dbaef1deb9d7751430cb0
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md
+@@ -0,0 +1,86 @@
++# Movement 003 review — simulated cold read
++
++This is a **fresh-context simulated cold read**, not a real audience measurement. I read only the seven supplied manuscript chapters, chapters 14–20, in their declared order. No editorial canon was supplied, so apparent continuity issues below are not verified canon violations. The two reader perspectives are editorial lenses, not demographic research or a sales forecast.
++
++## Unscored reader response
++
++Interest caught immediately on “The porter was late with the pigeons.” The ordinary irregularity is a clean warning that something institutional has shifted, and Vastin’s realization that his own exact language has been turned against him gives the opening chapter a complete emotional and moral arc. The strongest hook is not whether the law is technically valid; it is whether conscientious people can do anything once procedure has been designed to absorb conscientious objections.
++
++Interest slipped briefly in the middle of chapter 15’s pamphlet calculation and again across the successive sorting, archive-query, and letter scenes in chapters 16–19. Each scene contributes a new fact, but several produce it through a similar rhythm: paper arrives, a careful person reads it exactly, the group names what it means, and Cael records the conclusion. The accumulation is purposeful and ultimately pays off in the five beans, but the sameness of delivery slightly reduces surprise before that payoff.
++
++Cael matters most because his governing belief is visibly changing. He begins by treating the threat as something he can measure, document, and personally pay for; the movement forces him to see costs arriving first for Lira, Brom, Karis, the house, and Hesk. Lira is the strongest attachment point beside him. Her “That doesn’t make it fair. / No. It makes it mine” turns an imposed loss of daylight into earned tactical knowledge without pretending the loss was good. Vastin also matters immediately despite occupying only the opening chapter: his unused finding is a convincing act of integrity precisely because it does not rescue anyone.
++
++I expect the remaining sittings to order the standard re-evaluation while the pre-restriction inventory closes around Cael’s relationships. I also expect Ilsev, Jent, and perhaps Vastin to constrain how the machine acts without being able to stop it, and I expect Cael’s private, unclassified capability to become strategically incompatible with continued concealment. I would continue. The movement ends on a genuine change in comprehension—Cael is “counting doors”—rather than merely postponing a verdict.
++
++## Fluent thirteen-year-old lens
++
++These scores are editorial judgments. A 5 means understandable but inconsistent, 7 engaging with located weaknesses, and 9 compelling with few substantial distractions.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 14, opening through “The third paper was a bundle tied in grey tape” | The late pigeons, crooked press, painful hand, and unfamiliar bundle create unease before the legal explanation begins. The concrete objects carry the reader through the initial institutional vocabulary. | High |
++| Keep reading | 9/10 | Chapter 20, ruling from “The seat holds also” through Seln’s final line, “Now you understand the file I’ve been reading my whole career” | The house wins every stated point and still loses the practical morning. That paradox resolves the movement’s evidence while opening a more dangerous next phase. | High |
++| Interest / freshness | 9/10 | Chapter 19, supper scene from Seln placing the first bean through “walking the fences” | Turning a covert bureaucratic campaign into five edible beans is distinctive, visual, and easy to remember. The threat feels original because its weapon is coordinated ordinary paperwork. | High |
++| Clarity / flow | 7/10 | Chapter 20, the four-part argument labeled TEXT, SHELF, PREAMBLE, NAMES | The card and quarter-turned steel rule are excellent guides, but terms such as integrity sections, standardizing directive, assay clause, evaluation seat, and standard protocol arrive in dense succession. A fluent young reader can follow the result more easily than every legal distinction. | Medium-high |
++| Character attachment | 9/10 | Chapter 20, private training, from “I lost my light” through “No. It makes it mine” | Lira names both the unfair cost and what she has learned from it; Cael refuses the false consolation. Their loyalty is shown through honest disagreement and shared practice. | High |
++| Humor / warmth | 8/10 | Chapter 16, letter-sorting scene: “Kind. Unkind. Unhinged,” the circled star, and Brom’s “It’s a good circle” | Humor grows from the group’s habits and provides relief without mocking the frightened nine-year-old or erasing the pressure. Ephram’s confiscation of the bad woodcut supplies a second strong warm beat. | High |
++| Action / suspense | 8/10 | Chapter 17, supervised bout from the Current’s first bend through “Provision. Two to one” | Position, tactical adaptation, and Cael’s self-imposed concealment are trackable. The exciting problem is not simply winning but producing a true-looking false record while the observers learn. | High |
++| Progression payoff | 9/10 | Chapter 20, honest-floor bout from Cael’s six bursts through Lira seeing the lane in the dust’s shadow | Earlier techniques—read, burst, give, lane, and ten-count recovery—combine in a new condition. Lira gains a repeatable perception rather than a convenient one-time answer, while Cael demonstrates the widening gap between public rating and real capability. | High |
++| Connection | 9/10 | Chapters 15–20, the second gallery ledger, Cael’s cost column, the road column, the beans, and Karis’s word “Both” | Objects and phrases recur with changed meaning. “Choosing,” “accurate,” “nothing to add,” and the various columns accumulate rather than reset, making the seven chapters feel like one designed movement. | High |
++| Read-aloud quality | 8/10 | Chapter 14, denial scene from “They might have come off the same bench” through “there is no appeal from an empty room” | The prose has controlled cadence, strong short landings, and dialogue that sounds distinct. Some long legal sentences in chapters 19–20 demand rereading, and chapter 20’s written form “*Both.*.” creates a small audible/typographic stumble. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 9/10 | Chapter 14, from “For the evaluator’s file, per standing distribution” through Vastin finding his three sentences under “Adopts” | The chapter quickly turns professional routine into personal complicity. Vastin’s principles, power, and limitation are dramatized rather than summarized. | High |
++| Keep reading | 9/10 | Chapter 19, Hesk’s “Whatever they’re building, it has a shape. Mind the shape,” through Withrow’s account of the flour sack and nine letters | The threat expands from litigation to a coordinated pre-verdict restriction system, and the consequences become specific enough to make the next sitting urgent. | High |
++| Interest / freshness | 9/10 | Chapter 18, Daeva’s filing: “I fought him. Your instruments failed him, not the other way around. Classify the instruments.” | The movement repeatedly asks who or what is actually being evaluated. Daeva’s fifteen words reverse the institution’s premise with memorable economy while remaining powerless in the immediate proceeding. | High |
++| Clarity / flow | 8/10 | Chapter 19, Seln’s explanation beginning “In the office we used to call it walking the fences” | The causal chain is explicit and chilling: inventory first, simultaneous closures later. Clarity dips mainly where several procedural distinctions are restated across adjacent chapters rather than where any one explanation fails. | High |
++| Character attachment | 9/10 | Chapter 14, Vastin filing the finding under “Pending a proceeding worth sending it to”; chapter 19, Withrow’s “Tonight it’s dearer” | Secondary characters make costly choices consistent with their professional identities. Nobody becomes conveniently heroic, and attachment grows from the price of remaining exact. | High |
++| Humor / warmth | 8/10 | Chapter 15, Ephram’s woodcut critique and confiscation; chapter 18, Cael imagining Hesk, Vell, and Daeva in one room | Dry humor distinguishes relationships and prevents the institutional plot from becoming airless. It is sparse enough that grief and threat still register. | High |
++| Action / suspense | 8/10 | Chapter 17, entire Current bout, especially Cael choosing not to use Lira’s solution in the first exchange | The physical contest is legible and strategically double-layered: Cael must manage a capable opponent and curate the observers’ conclusion. The private fight in chapter 20 then develops rather than repeats the mechanics. | High |
++| Progression payoff | 9/10 | Chapter 20, “The dust… makes a shadow” through Karis’s second ten-count measurement | Capability changes consequence and relationship. Lira adapts to lost daylight, Cael’s lane acquires an observable tell and a stable cost, and the “honest floor” gives the reader a satisfying true measure denied to the public record. | High |
++| Connection | 10/10 | Chapter 14’s “shall receive,” chapter 18’s received-and-filed Gold statement, and chapter 20’s “Two of the highest credentials… and the room said thank you” | The movement is exceptionally good at carrying language, objects, and institutional actions forward until their meanings invert. The joins between Vastin’s remote office, the house, the road, and the hearings remain causally tight. | High |
++| Read-aloud quality | 9/10 | Chapter 20, the ruling’s turn at “The seat holds also,” followed by “You are lawful. The machine goes on.” | Long formal passages are punctuated by short interpretive blows, and repeated document language gains force aloud. A few overextended cumulative sentences and the stray terminal punctuation after “Both” keep it below near-flawless. | High |
++
++## Manuscript-only consistency check
++
++- **Canon:** No canon evidence was supplied, so I cannot verify canon compliance or identify a canon violation. Within these seven chapters, names, institutional roles, and the sequence of the three sittings remain internally consistent.
++- **Physical state:** Cael’s struck left forearm carries from the first exchange in chapter 17 into the post-bout throb and Ephram’s note, “bad arm.” Lira’s fatigue, burst-hand, and difficulty under lamps recur coherently and lead to the shadow discovery. Vastin’s aching left hand is stable within chapter 14. I found no clear physical-state contradiction.
++- **Power limits:** The distinction between public display and private capacity is unusually clear. Cael plans two public bursts in chapter 17, withholds the give, uses the spark once and late, and produces 22⅔; in chapter 20 he reaches six bursts, opens the give, lays a lane, and again pays the established ten-count delay. The movement does not let an unexplained ability solve the proceeding.
++- **Knowledge boundaries:** Information travels through identifiable routes: courtesy copies, tavern clerks, the gate ledger, archive keepers, letters, and Seln’s former-office knowledge. The deliberate asymmetry—Halcenvane learning the refusal before Vastin receives it—is explicitly noticed rather than accidentally omniscient. Chapter 15’s retrospective sentence, “He worked it out the next evening,” briefly widens the narrative distance but does not break Cael’s knowledge boundary.
++- **Reserved disclosures:** None were supplied, so I cannot assess whether a planned revelation arrived early. Within the manuscript, the reveal sequence is controlled: watchers become a held road; separate queries become a row; the row becomes a pre-restriction inventory; Withrow then supplies the lived consequence.
++- **Apparent internal inconsistency:** In chapter 15’s pamphlet calculation, Cael reads that the two weeklies are sold in “three other towns,” implying Ostrand plus three, and the conclusion later says “people in four towns.” Brom’s spoken calculation accounts for the bridge-end stall and “the other two towns,” apparently omitting one town. This may be a one-word error, but as written the inputs do not match.
++
++## Overall judgment
++
++This is a compelling movement with a clear dramatic shape: exclusion of an honest evaluator, widening collateral surveillance, discovery of the pre-verdict machinery, a private truthful measurement, and a public ruling that validates everything while advancing the threat. Its best achievement is making paperwork suspenseful without pretending paperwork is action in disguise. The records matter because every record changes who can act, what can be denied, and which relationship will pay.
++
++The main risk is cumulative sameness. Many characters share a professional devotion to exactness, and many scenes reach their turn through a document being read, correctly interpreted, and restated in a sharpened aphorism. Those repetitions are thematic, but a light differentiation of scene rhythm would make the five-bean and “Both” payoffs strike even harder. The physical sequences should remain at their present developed length; they are the movement’s clearest relief from—and embodiment of—the procedural pressure.
++
++## Repair brief
++
++### 1. Rebalance the middle accumulation without removing evidence
++
++- **Location:** Chapter 15, the pamphlet-market calculation, through chapter 16’s post baskets, observer log, fee-office query, and cost column.
++- **Observed issue:** Several consecutive scenes use the same progression: a paper or ledger appears, a careful reader extracts its implication, and Cael records a concise conclusion. Each fact is useful, but the repeated delivery rhythm briefly flattens escalation.
++- **Effect on the reader:** A younger reader may feel the story pausing for proof; an adult reader may anticipate the rhetorical turn before the characters reach it, reducing the surprise of Seln’s beans.
++- **Proposed scope:** Make a light scene-level cadence pass only. Compress duplicated procedural setup or let one implication remain unglossed until the bean scene; do not remove the gallery log, fee-office query, Brom letter, or cost column, because all four are needed for the later pattern.
++- **Strength to preserve:** The concrete administrative objects and the principle that the threat becomes frightening through lawful, individually ordinary acts.
++
++### 2. Give the chapter 20 argument one more human navigation marker
++
++- **Location:** Chapter 20, from Jent’s four numbered pieces through the counsel’s TEXT / SHELF / PREAMBLE / NAMES response and the noon ruling.
++- **Observed issue:** The logic is sound, but dense clusters of institutional terms make the local question—what exactly has just been conceded, and what remains dangerous—harder to retain on one pass, especially for the thirteen-year-old lens.
++- **Effect on the reader:** The reader can understand the final paradox while losing some of the tactical pleasure of how each advocate constructed it.
++- **Proposed scope:** Add or sharpen two brief Cael-level orientation beats at major transitions, phrased in consequences rather than definitions. Preserve the full hearing and its four-part architecture; this needs clearer handrails, not a shorter argument.
++- **Strength to preserve:** Jent’s voluntary withdrawal of a false overreach, the steel-rule choreography, and the devastating two-paragraph ruling.
++
++### 3. Correct the precision glitches locally
++
++- **Location:** Chapter 15, “three other towns” versus Brom’s “other two towns”; chapter 20, the sentence ending “*Valid: held. To proceed: held. Both.*.”
++- **Observed issue:** The market arithmetic appears to drop one town, and the italicized quotation is followed by a second full stop.
++- **Effect on the reader:** Both are small, but this movement teaches the reader to trust exact counts, exact wording, and exact records, so tiny accounting and punctuation errors attract disproportionate notice.
++- **Proposed scope:** Resolve the intended number of towns with a one-phrase correction and delete the redundant terminal punctuation. Recheck only the nearby calculation and sentence, not the surrounding scenes.
++- **Strength to preserve:** The manuscript’s pleasure in verifiable figures and the clipped finality of “Both.”
+
+tokens used
+89,037
+Completed the simulated cold-read review and wrote only the requested file:
+
+[review-cold.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-003/review-cold.md)
