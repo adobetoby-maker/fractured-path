@@ -14,23 +14,13 @@ He carried a document case in front of his chest in both hands, as a verger carr
 
 Then the house's bench stood up, all of it, and Cael was behind Brom's shoulders and could see nothing at all. On the floor the Current girl and the Mire went on with their bout for perhaps a dozen people.
 
-"She thanked him," said a woman in the front row, to nobody, astonished. She had a baby asleep on her shoulder and had been on her feet for Lira's second exchange. "Did you hear that? She gave him his whole grade and thanked him."
-
-The man beside her said nothing. Neither did anybody else in the four rows round the house's bench. They sat with it the way you sit with a coin somebody has handed you in a currency you do not recognise.
-
 The officer bowed again and turned and walked back the way he had come, the whole length of the north benches, at the same pace. Cael counted that walk, since he had missed the first. Fifty-one seconds, from the house's bench to the street door.
 
----
-
-He did not read the order until the hall had already cooled. By then it was on Bracken's board in two lines of the registrar's small square hand: *Received at a quarter past two, at the rail. Read entire, acknowledged, duplicate obtained and collated.* Under it Bracken had underlined *at the rail* twice. Karis had the duplicate, and passed it along the bench to Cael without a word.
+He did not read the order until the hall had already cooled. Bracken had two folded leaves in the breast of his coat by then and a fresh smear of the officer's ink on his thumb, and Karis had the duplicate, which she passed along the bench to Cael without a word.
 
 *The respondent institution is directed to produce at the fourth sitting of the seat the complete records of evaluation-linked floor work of the enrollee of record, Caelen Hesk-ward, for the academic year to date, in the form in which they are kept.*
 
-One sentence. Wing three's figures, every bout of the year in the clerk's careful hand, twenty-three and a third, twenty-two and two-thirds, the band breathing inside its range as it had been built to. Cael looked from the order to the two strokes under *at the rail* on Bracken's board, and back.
-
-"The hour isn't in the order," said Bracken, to nobody in particular, and folded his hands on the board.
-
-Cael had already watched the hour work.
+One sentence. Wing three's figures, every bout of the year in the clerk's careful hand, twenty-three and a third, twenty-two and two-thirds, the band breathing inside its range as it had been built to. Cael folded it and gave it back to Karis.
 
 There had been a boy. A small one, with a meet card he had been carrying round all morning for the Silver to sign; he had come to the house's rope after the exhibition instead, and held the card up to Lira, and she had taken his pencil and begun her name. Cael had been three yards away. He had watched the boy's mother look past her son at the man in grey going by, and come and put a hand on the boy's shoulder, very gently, and say they had to be going, now, before Lira had got to the end of the second letter. She had been very nice about it. Lira had stood at the rope with the pencil in her hand and the boy's card gone.
 
@@ -114,21 +104,15 @@ She stood with that. It was the thing she had said to Rooke at the rope, turned 
 
 He thought about it. He took long enough that she thought he would not answer, and the river went by behind the wall.
 
-"Because you'd asked," he said. "Eleven years. You'd be surprised what a man will do for being asked." He looked along the corridor toward the hall door, where the noise of the finals was starting up. "Saw your grey coat yesterday."
+"Because you'd asked," he said. "Eleven years. You'd be surprised what a man will do for being asked." He looked along the corridor toward the hall door, where the noise of the finals was starting up.
 
-"He wasn't mine."
-
-"No. Walked down my hall, though, didn't he." He shrugged. "This town pays more to the registry than any town on the river. Barge dues, licences, the lot. Nobody here loves it. Nobody here cheers against it either. That's all you heard yesterday, when it went quiet. Not a town that's turned on you. A town remembering what its licences cost." He put his hands back behind him. "They'll come round. We always do, after."
-
-"After what?"
-
-"After whatever it is." He nodded to her, once, the nod he had given her across the boards after her touch, and went past her down the corridor toward the hall.
+"Come back when you're Silver," he said. "I'll still be here. I'm always here." He nodded to her, once, the nod he had given her across the boards after her touch, and went past her down the corridor toward the hall.
 
 She stood among the trestles with her face hot. She was, for a whole minute, unreasonably happy, and then she went in to watch the finals.
 
 They were good finals. The Current girl went out in the Iron semifinal to a Blade from the lake house, on figures, after four level exchanges, and came off the floor with her chin up. The house's bench cheered her. Most of the north benches were polite. A woman Lira had signed a card for on the first morning, before any of it, caught her eye across the square during the Copper final and smiled at her, quickly, and then looked away as if she had been caught at something.
 
-Lira found she did not mind as much as she had at the rope yesterday. *A town remembering what its licences cost.* She could understand that. She had been a town like that herself, once, at a station counter, with her form in her hand.
+Lira found she did not mind as much as she had at the rope yesterday. She had a corridor of trestles in her now, and a bargeman telling her to go on her fifth, and that turned out to weigh more than a woman's smile across a square.
 
 ---
 
@@ -152,6 +136,10 @@ Then the sheet itself. Not Rooke's red book, which was the program's and nobody 
 
 Zerin's card at the end of last year. Four words and two stops. *Silver bracket. Next cycle.*
 
+What she would have said about it, if anybody had asked her, which nobody would, was smaller than any rung and harder. She had been given a ladder this year for the first time in her life, and she had found out, standing on its first rung, that she could have it and still want the door. Both at once. She had not known a person could. At Fenmark the only choice had been the one somebody made for her. Here there were two, and both of them were hers, and that was the worst of it and the best.
+
+The Current girl had cried a little after her semifinal, in the corridor of trestles, where she thought nobody could see. Lira had gone and stood with her until she stopped, and had told her that a loss on figures was a loss you could read, and that she would read it with her in the morning. She had meant that too. She would be there in the morning. She did not know about the mornings after that.
+
 And under all of it, at the bottom, where she had started three years ago and had thought she would always stand: Iron Rank One—
 
 "Lira."
@@ -168,14 +156,6 @@ Cael looked down at the paper in his own hand.
 
 "Noted," he said.
 
-He folded his own leaf once more and put it inside his coat, out of sight, and kept his hand there a moment. That was all the answer he gave, and she found it was the one she wanted.
-
-She had not finished the count. She found she did not want to finish it out loud, even to herself. The bottom of it was a place four days east of Ostrand where the stamps stopped, and past that there was no steward and no sheet and no counter in Ostrand with her file in a drawer, and no Silver card. She had asked the question in the dairy and meant it. She still meant it. She was not going to say the rest of it tonight.
-
-What she would say, if anybody asked her, which nobody would, was smaller than that and harder. She had been given a ladder this year for the first time in her life, and she had found out, standing on its first rung, that she could have it and still want the door. Both at once. She had not known a person could. At Fenmark the only choice had been the one somebody made for her. Here there were two, and both of them were hers, and that was the worst of it and the best.
-
-The Current girl had cried a little after her semifinal, in the corridor of trestles, where she thought nobody could see. Lira had gone and stood with her until she stopped, and had told her that a loss on figures was a loss you could read, and that she would read it with her in the morning. She had meant that too. She would be there in the morning. She did not know about the mornings after that.
-
 She did not fold the sheet again. She put it inside her coat as it was, with its soft creases, against her ribs, where it would go into the box when there was a box, and buttoned the coat over it.
 
 "Come on," she said. "They're putting the lights out."
@@ -190,7 +170,7 @@ Nothing did. At the ferry the two grey coats were on the landing in their usual 
 
 *Lira, the confluence, the Silver Rank Eight: two touches to one, on the fourth. Twenty-seven to twenty-eight. Six bursts, one of them borrowed. She asked me to watch her feet and tell her first, and I did, and I'll keep doing it as long as she asks. The floor had four facts on it and I found three. Rooke wrote the fourth as his. It was mine as much as his. I looked at that corner too.*
 
-*The order: one sentence, served at the hour it would be seen. Fifty-one seconds there and fifty-one back. A woman with a baby on her shoulder asked who thanks a man for that. The hall went on liking us and stopped saying so, which is worse, because there's nothing to answer.*
+*The order: one sentence, served at the hour it would be seen. Fifty-one seconds there and fifty-one back. The hall went on liking us and stopped saying so, which is worse, because there's nothing to answer.*
 
 He looked at the last line for a while. Then he wrote one more under it.
 

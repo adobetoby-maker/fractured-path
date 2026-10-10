@@ -337,3 +337,57 @@ Same author (`claude-opus-5-5`), same session, 2026-10-10, from `REPAIR-BRIEF-r2
 - ch22: Seln's return form's printed headings; returns have no route past the last station.
 - ch25: Bracken's board entry for the service.
 - ch27: Cael grew up across the lane from a carrier's yard at Denvash (horse lore) — minor; the splinter from the bell-frame; Gault writes on the walk; Lira's written question left on the table; Brom's "Fifty-one minutes" (B5 canon) introduces Vastin's sentence.
+
+## Repair r3
+
+Same author (`claude-opus-5-5`), same session, 2026-10-10, from `recheck-r2.md` "Source-distance findings". Source not reopened. ch23, ch24 and ch26 untouched. The coordinator's three ch27 line fixes (Karis's notebook scheduling, Bracken's "Leave me one more leaf…", the "other gates" consequence after Vastin's sentence) were read in context and left exactly as applied. Each key below received at least two operations (C = cut a link/passage, I = invert, O = off-page/consequence only, M = merged into a different scene moment, X = carrier changed). No git; `protected-patterns.txt` untouched.
+
+### The 25 keys — old chain → new chain
+
+**ch21 (5)**
+- **21:205** three pieces gathered separately → none of the informants knew → **C+O:** Karis's question and Lira's "None of them" cut; the method lives only in Lira's own cutaway at the chapter's head; the council sees only the chalk.
+- **21:207** third carter turns → refuses reason → **C+M:** the exchange cut from the council; the refusal stays dramatized once, in Lira's landing scene; at the table only Karis's finger under *1 TURNS* ("You left that one on").
+- **21:225** ruling → eleven *held* → left the room (winning → withdrawal → default) → **C+X:** the *held* sheet and "left the room" cut; winning is no longer in the chain. The ruling now sits on the slate shelf **beside Lira's chalk** as Karis's exhibit ("the road… in chalk… what the road looks like from the seat's side, in ink"), with "I'm not arguing for staying" first.
+- **21:229 (trust inference)** distrust → proof of the integrity question → default → **C+X:** the ruling's text rewritten: it enters the letter of withdrawal *on the record* and grants default for non-appearance within the code's time. The respondent's own letter is still cited (packet), but distrust is no longer turned into proof.
+- **21:229 (*fled*/default)** stamp + pencilled *Fled* paired → **C+M:** both removed from the sheet; *fled* now arrives only through the forty-days margin (Seln) and Lira's chalk *40 — ABSENT, THEN FLED*.
+
+**ch22 (7)**
+- **22:87** five marks → blank sixth → induction / tally not guarantee → **C+M:** gate, sixth stroke and the "tally" phrase cut; Karis says and writes the single word *induction* in the present, while the kettle sings ("That's what yours is. A good one.") and says nothing else about it.
+- **22:99** literal ground → not ground but a floor → *Both roads* → **C+I+M:** the heel-stamp and literal-ground link cut; Lira's packet line now **interrupts** Cael mid-sentence ("It's the only ground I've ever—"), said to her chalk; Karis notes it in his blank lines' margin with an *L.*; *Both roads* moved to the stair.
+- **22:115** *Both roads* → "Cheap" → Cael concedes he stays put → **C+M:** "Cheap" and the concession cut; *Both roads* is exchanged on the stair, Lira holding the lamp — "as if he had signed something".
+- **22:119** Lira reports two looks (Cael's sentence, her chalk) → **C+X:** one look only, carried by **Karis's margin note** (*S.: eyes open at C.'s last sentence. A long time.*); Lira reports nothing. (Seln's own window still remembers the chalk, in his POV.)
+- **22:133** night we asked → not the night we decided → memory will make it one → **C:** both following links cut; Karis writes the packet line at the top of the page and shuts the book.
+- **22:185** copies made lawfully from habit → meaning arrives later in the corridor → **I+C+M:** moved to Seln's **entry** through the wing's green back passage, which recalls the green corridor first; the copies arrive after, as what he understood there; "lawful room", "habit" and the mother's ledgers cut (the mother's-ledger plant drops from M4; M6 can carry it).
+- **22:195** headings all about the subject → none about the rule → whose question → **C+M:** the form-headings passage cut; "whose question it had been all along" folded into the corridor sentence as what he understood, with no reasoning shown.
+
+**ch25 (5)**
+- **25:27** board: received → read entire → acknowledged → duplicate collated → **C+O:** board entry cut; only consequences: two folded leaves in Bracken's coat and the officer's ink on his thumb.
+- **25:43** Withrow thanks by grade → four rows hear → can't place it → **C (whole beat)+C (log line):** not required by packet or ledger; cut, with its echo in the coach log.
+- **25:53** order's words lack the hour → the hour did the work → **C+M:** "The hour isn't in the order" and the cross-reference cut; the timing reading is left to Lira's "They waited… Till I'd lost well" and Seln's supper account of the clerk.
+- **25:69** not a town turned on you → licences → caution → **C+X:** the Silver's interpretation cut; he says only "Come back when you're Silver… I'm always here"; Lira's later echo replaced by her own measure (the corridor weighs more than a woman's smile).
+- **25:219** paired papers → wordless answer → unsaid half → **C+M:** Cael's wordless pocketing cut; Lira's unsaid half (ladder and door, the Current girl) moved **before** Cael arrives, into the count; after "Noted" she only puts the sheet away.
+
+**ch27 (8)**
+- **27:37** offer aimed upward → reaches the frame → cost in his hands (splinter) → **C+X:** splinter memory cut; the upward aim exists only as Bracken's dictated entry ("spoken upward… There was nobody on the gatehouse roof").
+- **27:65 / 27:77 / 27:83** blank written-refusal line → no next paper wanted → door-measuring probe → **C+M+X:** the printed form, its blank, the clerk's question and the notebook inference cut; one flat entry remains (*No refusal in writing was requested.*); the conclusion is spoken in the **Crown yard** — Brom: "they turned round at the first no" / Cael: "They came to measure the door." / Brom: "Now they've got the figure." (no reasoning about next instruments).
+- **27:71** mount warns → hers doesn't → trained out (via horse) → **C+O:** the horse paragraph cut; the tell survives only as Seln's question at the table ("Did it shift?" / "No.") and his grade conclusion.
+- **27:119** Gault writes on the walk → shows the rule → says it → Cael steadied → **M+C+X:** moved into the **lodge**, during the dictation: Gault asks Bracken to add to the house book that the evaluator of record was not told, writes his own line, says the packet sentence "to nobody in particular" and leaves; the shown page and Cael's steadiness cut.
+- **27:193** another seal → another question → repeat → **left as the coordinator's applied fix** (Karis schedules *DISTRICT REPLY*, *REPLY* with a blank office, an empty bracket; Bracken: "Leave me one more leaf after those"). Not re-edited, per instruction; flagged here so the recheck can judge the fix.
+- **27:203** Lira writes "what next when paper fails?" → nobody answers → **C (whole beat)+C (closing references):** not required by packet or ledger; cut, with the open-book references in the close (Lira now simply opens her eyes).
+
+### Checks after r3
+- `ed.sh gates`: 0 / 0 / 0.
+- `ed.sh overlap`: **0 unprotected**, 7 protected.
+- `sweep_probe.sh … 4 4`: **skeleton 1%, close 10%** — ch21 0/8 · ch22 3/12 · ch23 0/10 · ch24 0/5 · ch25 1/11 · ch26 2/15 · ch27 1/9; skeleton hits are protected/packet lines.
+- Formula (ch21–27): 28,038 words · sentence mean 13.84 · ≤5 28.5% · ≥40 4.6% · paragraph median 27 · words per scene 935 (four continuous-scene breaks merged by hand) · FK 4.36.
+- Not regressed: calendar (day 71), burst ledger, Seln/Shadow/cache boundary (the label *maintenance records* and "whose question" kept, content unstated), sealed letter, escort order and heading, hearing provision, Crown yard (now also carrying *measure the door*), every protected and packet line (grep-checked: *Prepare both roads*, *It's the second box…*, *I'm not leaving the room…*, *It's not ground. It's a floor.*, *Both roads*, *It was the night we asked*, *the deciding has stopped being quiet*, the question and Jent's answer, *Again. Faster. It's there.*, *One of these…* / *Noted*, the Anchor query, *Whoever wrote that paper…*, *I have written that down*, the faceless-layer line, the closing line).
+
+### Length
+**28,038** (r2: 29,296; −1.26k). Every reduction is a cut link or a cut beat the plan does not require (Withrow's thanks; Lira's written question; the form blank; the horse paragraph; the splinter; the *held* sheet; the headings). Nothing was refilled.
+
+### Canon touched in r3 (for the ledger)
+- The coastal ruling's text (ch21) now grants default for non-appearance and enters his letter; no back-of-sheet stamp.
+- Gault's notice is entered **in the house's gate book** at his request (ch27), not shown on the covered walk.
+- The house book's last gate entry: *No refusal in writing was requested.*
+- *Measure the door* is said aloud by Cael in the Crown yard.
+- Withrow's public thanks to the officer at the confluence is no longer on the page.

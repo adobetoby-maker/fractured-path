@@ -8,37 +8,17 @@ Nobody else moved.
 
 Across the table Karis's notebook lay open at the evening's page, and Cael read it upside down while Brom found the cups. He read it from the bottom up. The house's counsel read every paper that way, from the end to the beginning, because the end was where a writer put what he wanted and the beginning was only how he hoped you would feel about it. Cael had caught the habit from her in the first week of the year and never quite put it down.
 
-The last thing Karis had written was two words with a line under them.
+The bottom line was still wet. Karis was writing it as he watched, one word in her finding hand, and she said it across the table while she wrote, without looking up, as if she were finishing a sentence somebody had begun an hour ago.
 
-*A floor.*
+"Induction," she said. "That's what yours is. A good one."
 
-That had been Lira, a quarter of an hour ago.
+She blotted it with the side of her hand. She did not say anything else about it, then or later, and Cael did not ask her to.
 
-She had got down off the table's corner while he was still finishing, and stamped once, hard, with her heel, on the dairy's slate floor. The sound went into the shelves and stopped.
+Above it, small, squeezed into the margin, was a line he had not watched her write. *S.: eyes open at C.'s last sentence. A long time.* He had not seen that. His own eyes had been on Lira's chalk when he said it. Karis, it seemed, had been looking at Seln.
 
-"That's ground," she had said. "There's rock under that all the way down to the river. You couldn't get under it with a pick." She had looked at him. "What you've got isn't that. I'm not against it; there's a supersession on my own file because somebody wrote a thing down right. But you've got the wrong word for it. It's not ground. It's a floor."
+Above that there was a gap. Three ruled lines with nothing on them, and two words pencilled into the margin beside them, with an *L.* after.
 
-Karis had written it down then, the two words, and underlined them.
-
-Lira had climbed back onto the corner of the table and picked up her chalk. "His three," she had said, with a nod at the good chair. "Both roads."
-
-"Both roads," Cael had said.
-
-"Cheap," Brom had said from the chair. He had not said it unkindly. He had only said it, the way he would have told a man the price of a thing at a stall, and gone back to looking at the lamp. Cael had felt his face go warm, and had not argued, because Brom was right: both roads meant he could stand exactly where he stood. Reading it upside down now, two words with a line under them, he felt the warmth come back.
-
-Above *A floor*, a little higher, Karis had drawn a gate.
-
-Four upright strokes and one across them, the way a carter scores a load. Beside it, in her finding hand, *induction*, and smaller, *a tally, not a guarantee*.
-
-She had drawn it while he was talking, and when he finished she had turned the notebook round on the slate so that he could see it.
-
-"Induction," she had said. "A good one. I'd put my name to it."
-
-Then she had laid the pencil down across the page, with its point in the blank beside the gate, where a sixth stroke would have gone, and taken her hand away and said nothing else at all. The pencil had lain there across the page while Lira got down off the table and stamped her heel. He had looked at it the whole time.
-
-Above the gate there was a gap on Karis's page. Three ruled lines with nothing on them.
-
-That was his. She had not written down a word of what he said. She had not needed to; she had heard every piece of it before, one piece at a time, on coaches and in reading rooms, for three years.
+The three lines were his. She had not written down a word of what he said. She had not needed to; she had heard every piece of it before, one piece at a time, on coaches and in reading rooms, for three years.
 
 He had started at the wrong end.
 
@@ -50,7 +30,13 @@ He had started at the wrong end.
 
 "And between?" Brom had said, from the chair, in the voice he used for a man who has left out the middle of a sum.
 
-So he had given them between, every paper of it, and not one piece of it had been news to anybody at that table. That was the strange part: sitting in a cold dairy setting out his own life to the four people who had lived most of it with him. They had let him. Nobody had hurried him. And at the end he had said it straight across the table to Lira: "I'm not leaving the room while the text still works."
+So he had given them between, every paper of it, and not one piece of it had been news to anybody at that table. That was the strange part: sitting in a cold dairy setting out his own life to the four people who had lived most of it with him. They had let him. Nobody had hurried him, until near the end.
+
+"It's the only ground I've ever—" he had said.
+
+"It's not ground. It's a floor."
+
+Lira had not got down off the table to say it, or raised her voice. She had said it to her chalk, and gone on writing on the shelf, and that was why Karis had put it in the margin with an *L.* after it. He had stopped. Then he had finished anyway, straight across the table to her: "I'm not leaving the room while the text still works."
 
 At the very top of Karis's page, above his three empty lines, was Brom.
 
@@ -72,8 +58,6 @@ Lira had looked at the hand on his coat, and away from it, and gone straight on.
 
 And Karis had turned to a clean page.
 
----
-
 He had his hand on that pocket now, with the kettle in the other.
 
 Cael did not need to be told what was under the hand. A square cream envelope with a dark red seal on it, unbroken, which had come up the hill twenty-three days ago and had not been opened since. Under it, the summons, the docket, the district's confirmation with *outcome anticipated* on it in a clerk's round hand, and a sitting on the last Fifth-day of the year at which three assessors and a sigil frame would almost certainly find Brom an Iron. His family's ledger had been waiting for that line since before he could lift a practice weight. In the second box was a grandmother at the head of a long table, and a word he had never once said in the same breath as *east*.
@@ -84,31 +68,29 @@ The cups went round. Lira took hers in both hands and put her boots up on the be
 
 "It was the night we asked," she said.
 
-Karis had her pencil back. She wrote it, exactly like that, at the very top of the page, above Brom's three sentences, so that the page now began with the last thing anybody said. Under it, after a moment, she added a second line, and read it out as she wrote it.
-
-"*Not the night we decided.*" She looked round the table. "In a month somebody will want it to have been. It wasn't."
-
-"Nothing decided," said Brom.
-
-Karis dated the page and shut the book.
+Karis wrote it, exactly like that, at the very top of the page, above Brom's three sentences, so that the page now began with the last thing anybody said. She dated it and shut the book.
 
 They went up together. Brom went first with the chair on his shoulder and the kettle hooked on one finger. Seln picked the lamp up off the table without being asked and stood at the foot of the dairy step and held it up while each of them climbed past him into the passage, Brom, Karis, Lira, Cael, one at a time. When they were all up he handed the lamp to Lira and said good night to nobody in particular and went out by the side door into the court.
 
 Cael, at the passage window, watched him cross it. Not toward the staff stair. Toward the dark bulk of the assessment wing on the far side of the court, where nobody had business at that hour.
 
-Lira had stopped beside him with the lamp.
+Lira had stopped beside him with the lamp. She did not look at the court. She looked at him.
 
-"He looked at you," she said. "Seln. When you said you weren't leaving the room. Did you see?"
+"Both roads," she said.
 
-"No."
+"Both roads."
 
-"A long time. Longer than he's ever looked at anybody, that I've seen." She held the lamp a little higher, as if it would show her the court better. "He opened his eyes twice all night. The other time was my chalk." She went on up the stair.
+She nodded, as if he had signed something, and went on up the stair with the light.
 
 Cael wrote one line at the sill before he slept.
 
 *Lira's chalk is still on the dairy shelf: the road east, and under it the forty days. Nobody rubbed it out. I think nobody is going to.*
 
 ---
+
+He came in by the wing's back passage, because the side door stuck in the damp and the back way did not.
+
+The passage was distempered green to the height of a man's shoulder, and he had never once walked it without the other one coming back to him: a corridor the same green in a town twelve years and three postings away, where a clerk had put his head out of a side door to ask whether he was unwell, because he had stopped dead in the middle of the floor and stood there. He had not been unwell. He had been understanding, all at once, a run of ledgers labelled *maintenance records*, which he had copied a year before as dull upkeep and never thought about since. He had understood, in that green corridor, whose question it had been all along. He had kept his appointment afterward, and kept it well.
 
 The return was on the copying table where he had left it at the sixth bell, sealed and addressed, ready for the morning bag.
 
@@ -158,11 +140,7 @@ In the registry's file on the boy, he supposed, his returns lay in the same draw
 
 He reached up, once, while the cupboard stood open, and put his hand on the edge of the shelf above the copying table, in the dark, where the other thing stood. He did not take it down. He left his hand on the shelf's edge for the space of a long breath, the way a man rests his hand on a door he has decided not to open tonight.
 
-Somewhere in what he kept were copies twelve years old, of a long dull run of ledgers labelled *maintenance records*. He had made them on his fourth posting, in a room he had every right to be in, because he made copies of things; he had made copies of his mother's ledgers as a boy, for the pleasure of seeing two hands come out the same. A clerk in a green corridor, a year after he made them, had come out of a side door and asked whether he was unwell, because he had stopped dead in the middle of the floor between two ordinary appointments. He had said no. He had kept the appointment. He had not been unwell. He had been reading, in his head, all at once, what the copies said.
-
 He took his hand off the shelf and shut the cupboard.
-
-The return still lay on the table, square to its edge, and he looked at the printed headings down its left side, which he had filled in so many times that he no longer saw them. *Subject. Attendance. Examination. Figure. Associations. Conduct. Remarks.* Every heading on the form was a question about the subject. There was not one line anywhere on it, and never had been on any form of the service's that he had ever filled in, for a question about the rule the subject was being measured by, or whose rule it was, or since when. He had paper that showed whose question it had been all along. As far as he knew, nobody else alive had.
 
 He had not left the service. A man in his trade could not leave it and keep what he kept. So he had stayed, and filed true, and kept.
 

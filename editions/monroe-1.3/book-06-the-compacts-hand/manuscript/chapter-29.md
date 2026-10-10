@@ -220,6 +220,42 @@ She went out.
 
 "It's only a road," said Brom.
 
+He came up to Cael's room an hour later with his kit bag, all the same, and turned it out on the bed.
+
+It was what he took to every floor that was not the house's own. Two rolls of linen strapping, a roll of the stiff kind that the healers used for wrists, a tin of the porter's horse salve that smelled of tar and worked better than anything the infirmary had, a clean neckcloth, a flask, a heel of bread wrapped in a napkin, and a short length of leather with a buckle at each end that Cael had never seen him use and had never asked about. He went through all of it with his big careful fingers, as he did before a meet, and put it back in a different order.
+
+"It's a sitting," said Lira from the window seat. "They'll want him to say *They are mine* and sign. Nobody straps for that."
+
+"I strap for the road," said Brom.
+
+She did not laugh at him. That was how Cael knew she had been thinking about the road too.
+
+Karis came last, with the attestation wallet under her arm and her coat already over the back of the chair as if she meant to sleep in it. She checked the wallet's contents leaf against its contents, which she had done at supper and would do again in the coach, and then she sat on the end of the bed beside Brom's kit and looked at the sill.
+
+There was nothing on the sill but Hesk's book and the lamp. The case had gone back down the stair under Seln's coat an hour after it came up.
+
+Cael told them.
+
+He told them in the order it had happened, because that was the only fair way: the knock at dusk, the case set down beside the book, *I'm going to open this. Not tonight.* What he had asked and what Seln had answered. The reading room. The floor schedule and the First-day after the sitting, five names, five quarters of an hour, and a sixth line that was only Ephram wanting the Crown yard. He did not say what was in the case, because he did not know. Nobody asked.
+
+Karis sat very still with the wallet on her knees.
+
+"My room," she said.
+
+"If you'll have it."
+
+"He asked for my room." She said it slowly, as if she were reading it off a page in a hand she did not know. "Out of every room on the hill." Then she looked up, and Cael saw that she was not frightened, or not only. "Yes. Tell him yes. Tell him I'll have the girl sent home early that day, and the kettle on, and every paper on the table turned over." She stopped. "No. Don't tell him the last part. I'll just do it."
+
+"I'll bring the kettle," said Brom.
+
+Lira did not say anything for a while. She was looking out at the rain. When she spoke it was to the glass.
+
+"Two years he's sat at the middle of the bench," she said. "Two years, and never once put anything of his on the table. Not a cup. Not a word he didn't have to." She turned round. "Good. That's all. Good."
+
+Brom stood and shouldered his kit bag. At the door he stopped, and put his hand flat to the left side of his coat, where the letter was, the one he had carried sealed since the forty-fifth day, and kept it there a moment, as if he were checking that the road had not already taken something.
+
+"The hour before light," he said, and went.
+
 Cael wrote it that night with the rain at last beginning to slacken against the glass.
 
 *The bridge chained at the third ring. The ferry tied up. One road to the seat tomorrow, round by the upper ferry, four hours. Seln came up the stair at dusk with a case under his coat and set it on my sill. He's going to open it. He isn't sure. I believe him more because he isn't.*
