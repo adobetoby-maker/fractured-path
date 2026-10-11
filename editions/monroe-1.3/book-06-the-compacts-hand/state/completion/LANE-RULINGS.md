@@ -12,3 +12,6 @@
 2. **Square capitals** belong to Bracken, Rooke and Ephram; Lira's were changed to "large capitals" / "capitals". Accepted.
 3. **Jent's inkwell lid:** ch10's "a turn and a quarter" stays; no match to ch48 needed.
 4. **Four changes beyond the priorities** (ch25:167 a wedged sentence cut; ch12:25 a simile repeated from ch2; ch18:157 one sentence recast; ch19:61 one of three cup quarter-turns in one scene): accepted.
+
+## Step 4 — listening proof (Sol) and lock
+Verdict: render-ready after one required fix. Applied by the coordinator: ch12's card `LIRA / FORCE THIRD-YEAR` → `LIRA AGAINST FORCE THIRD-YEAR` (the book's only slash). The coordinator also replaced the book's one named season, found on a final grep (ch26: "every spring" → "once a year"; #42). The second-ear joins (ch13, ch18), ch49 and ch60 all pass.

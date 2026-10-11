@@ -182,7 +182,7 @@ Withrow came round the corner of the lecture range at the pace she used for ever
 
 She did not hurry across the court. She walked to the lodge and stopped beside the lodge-man in his doorway, and before she said a word to anybody, she lifted her eyes to the board on the lodge wall.
 
-The lodge-man had painted it himself in white on black, years before Bracken came to the hill, and he went over the letters every spring with a fine brush. *CARTS — ROUND BY THE LANE. CALLERS — SIGN AND WAIT. POST — THE BAG ON THE HOOK. ANYTHING SEALED — FETCH THE REGISTRAR.* Cael watched Withrow find the last line with her eyes and stop on it. The lodge-man had done exactly what his board said. Anything sealed had come up the road, and he had sent his boy for the registrar, and he had shut his window so that he could stand in his own door and see the whole of it.
+The lodge-man had painted it himself in white on black, years before Bracken came to the hill, and he went over the letters once a year with a fine brush. *CARTS — ROUND BY THE LANE. CALLERS — SIGN AND WAIT. POST — THE BAG ON THE HOOK. ANYTHING SEALED — FETCH THE REGISTRAR.* Cael watched Withrow find the last line with her eyes and stop on it. The lodge-man had done exactly what his board said. Anything sealed had come up the road, and he had sent his boy for the registrar, and he had shut his window so that he could stand in his own door and see the whole of it.
 
 She gave the lodge-man a small nod, the kind she gave her senior staff, and he stood up straighter against his jamb.
 
