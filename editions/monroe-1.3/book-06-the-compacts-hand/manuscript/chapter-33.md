@@ -64,11 +64,11 @@ So he lifted a finger, and she made a mark, and he lifted a finger, and she made
 
 ---
 
-The storm moved a little before noon.
+Lira saw it before he felt it.
 
-Something large in him lifted its head. He had never found a better way to put it, though Karis had asked him for one more than once: a great slow weight that had lain quiet since the dawn on the second floor, raising itself to look at whatever had just come into the house. His ears closed and opened. The air in the room changed its weight, not much, the way the air changes before thunder. On the sill, in the corner where the porter's girl never quite reached with her cloth, the little drift of grey dust woke up and began to run, slowly, in a thin stream along the edge of the wood, toward the window frame.
+She was in the chair for her shift a little before noon, with her strapped foot up on a stool and her crutch against the wall and Rooke's red drill-book open on her knee, and she stopped reading and looked at the sill. In the corner of it, where the porter's girl never quite reached with her cloth, a little drift of grey dust had woken up and begun to run along the edge of the wood toward the window frame in a thin stream, as if the sill had tipped.
 
-Lira was in the chair, because it was her shift. She had her strapped foot up on a stool and her crutch against the wall, and she was reading Rooke's red drill-book with her lips moving, and she looked up at the dust as soon as it moved.
+Then his ears closed and opened, and he knew. Something large in him had lifted its head: the great slow weight that had lain quiet since the dawn on the second floor, raising itself to look at whatever had just come into the house. The air in the room changed its weight, not much, the way air does before thunder.
 
 "Is that you?"
 
@@ -86,11 +86,13 @@ She watched the dust run. Then she took a stub of pencil out of her pocket and w
 
 She wrote *don't know* on her palm, and the time by the bell.
 
-Lira timed it by the clock on the sill. Forty minutes, while he lay flat and let his ears close and open as they liked and the grey dust ran and stopped and ran again along the wood, until whatever was being shifted had been shifted. The scrape stopped. The weight in the air went back to being the weight of air. The dust lay still in a new place, an inch along the sill from where it had been.
+This first turn was short. The scrape stopped after a quarter of an hour by Hesk's clock, and the dust lay still an inch along the sill from where it had been, and Lira wrote the figure under *don't know* and went back to her drill-book.
 
-"Forty minutes," said Lira.
+It came back in the afternoon and stayed. He lay flat through it and let his ears close and open as they liked, while the grey dust ran and stopped and ran again along the wood and the chest in the cellar went the rest of the way along its wall, slowly, scrape by scrape, until it had found the place it wanted and the air went back to being the weight of air.
 
-There was a second turn of it after the noon bell, shorter, fifteen minutes by Hesk's clock on the sill, and after that the chest in the cellar stayed where it had been put.
+"Forty minutes," said Karis, from the clock, when it was done; she had come up for her shift at the start of it and had not taken her eyes off the dust. "That's longer than the morning's. I think it's sitting down."
+
+It was. It did not move again.
 
 ---
 
@@ -268,7 +270,7 @@ He went round the whole room after that, every surface, every thing that rested 
 
 He priced it, lying there, because that was what he did with anything new. A word a thing. A word cost almost nothing; a word was cheaper than the Wind's landing beat or the read's quiet minute after. But this house alone had more doors in it than he could count from his bed, and there were other houses, and roads with gates on them, and inns, and every door was going to need its word. It would never be paid off. It would be a small coin he put down at every threshold he ever crossed, so many times a day that one morning he would look up and find he had stopped noticing his hand go to his pocket.
 
-Thresholds most. He could tell that already. He had named the door and it had stopped asking, but it had not stopped looking. It was told, and it accepted being told, and somewhere at the back it still leaned toward that frame the way a hound that has been sent to its basket leans toward the kitchen.
+Thresholds most; he could tell that already. He had named the door and it had stopped asking, but it had not stopped looking. It was told, and it accepted being told, and somewhere at the back it still leaned toward that frame the way a hound that has been sent to its basket leans toward the kitchen.
 
 Lira opened her eyes and found him looking at the washstand with his lips moving.
 

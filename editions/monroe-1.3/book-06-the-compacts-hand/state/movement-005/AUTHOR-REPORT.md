@@ -226,3 +226,58 @@ flesch_reading_ease 90.8 (target 72.3) · flesch_kincaid_grade 3.87 (target 6.8)
 14. **No placeholders and no new names.** Unnamed roles: the western-stores correspondent (a woman), the mould-room man, the catechism's teacher (an old woman), the chandler's woman, the bridge-ward, the district seat's clerk and senior records officer, the coachman, the ferryman, the six (the lead, four, the woman), the toll-keeper, the healer, the side-door officer, the assistant.
 15. **Proposed protected pattern:** one (the closing line). Not applied; `protected-patterns.txt` untouched.
 16. **Length:** 35,682 against ~36,000 (≈99%); not padded.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, 2026-10-10, from `REPAIR-BRIEF.md`. Every repair was made by reading and written as a hand-composed exact-string edit (Edit tool). No script split or joined sentences. **The source was not reopened**: from `source-tracking.md` I read only the tracked-passage table (manuscript line, opening words and the source's first few words), not any source passage. No git command was run, and `protected-patterns.txt` was not touched. All the coordinator's rulings on my flags were accepted; the closing line is unchanged.
+
+### Must fix 1 — the six tracked passages (chains broken from the event list)
+
+| Where | Old chain | New |
+|---|---|---|
+| 28:7 | Seln up all night with the copy, then the copy tells nothing, then the paper's stock | Enters on the outcome: the paper itself is a day gone down the road in a saddlebag. The night with the fair copy arrives afterward, as the place he worked that out. |
+| 29:23 | The answer arrives in the sort, then four lines, then their contents | Inverted. The four lines come first, then the burning (before the bag is buckled again), then the sort and how the envelope came, and last who she is and why she writes four lines. |
+| 29:49 | The teacher and her room, then the grades | Enters on Seln saying the grades over in the wing. The teacher, the room over the chandler's, the cat and the craft move to after her *Four… The fourth does not knock.*, as the memory the grades call up. |
+| 29:133 | The case off the shelf, then described | The description is dropped. At the sill only the lamp on the brass lock, and the boy's eyes going to it. |
+| 33:67 | The Storm resettles: forty minutes, then a quarter hour | **The order is reversed:** a quarter hour before noon, then forty minutes in the afternoon. The scene now enters on Lira seeing the sill's dust before Cael feels anything, and Karis times the second turn. Ch34's inventory now reads "a quarter hour and then forty minutes". |
+| 34:177 | The satchel's leather and make, then the strap and buckle, then the pocket and the fit | Inverted. Hand into the flap, then the pocket, then the book in, to a hair. Only then the strap, the filed buckle with its bevel, and last the leather. |
+
+### Must fix 2 — ch30, the seal number
+
+The ledger holds every number, one die to a line. The rubbing's number belongs between the ferry office's die (one below it) and the fee office's die (one above it). Those two stand on consecutive lines, with no line for the number between them. The slip records the two flanking numbers with their offices and the rubbing's number with nothing against it. The sixth sheet now reads "…where the numbers one below it and one above it stand on consecutive lines with no line for it between." No other reference to the number or the gap needed changing: ch30's form paragraph and Havel's ledger image never stated the arithmetic.
+
+### Must fix 3 — ch30–31, the attacker count
+
+In ch31 the lead stays at the cart's wheel keeping time and "sent the other four in". The four:
+- two go to Brom in the channel;
+- the first man Lira stopped stands over her;
+- the man she stopped at the ditch is now **given the coach** — the horses, the driver, whoever stands by them. He stands at the off horse's head watching Karis's hands. He takes one step toward her as a strand frays, then stops ("Custody").
+
+He has a withdrawal beat: on the first heartbeat he runs after the man leaving Lira. Six are accounted for: the lead, four men, and the woman. The fight is not shortened; it is +140 words.
+
+### Must fix 4 — ch30, Havel's opening
+
+There is one orienting paragraph after the rubbing is described: the letter's first paragraph quotes the instrument whole, and the rubbing is the seal off the escort order that the lead of four riders read aloud in the house's outer court on the Sixth-day and the house declined at its gate. The three register checks and the form with no line are kept. No absence statement was trimmed, because each one closes a different register.
+
+### Optional — the annex (ch29)
+
+Cael's line choosing the room now says "the old lumber room across the landing… and the house has called the two rooms together the annex since Bracken had it cleared". The closing line is unchanged.
+
+### Cadence pass (ch28–30, ch33 explanatory runs; dialogue, protected text, the notice and the ch31 fight untouched)
+
+Only true one-thought pairs were joined: Bracken's silence as his yes; "He had been, and he had not known she knew"; the mended mould and the second run; the good rubbing and the good seal; the river and the beam; "Two sentences, and both of them true"; "because it was not his letter"; "It was not a decision; he did not decide it"; "dry, as the ferryman had said"; "ordinary, and he knew the shape of ordinary"; Karis's face; Seln's road; "Thresholds most; he could tell that already". The contrast beats were left short.
+
+### Checks after r1
+
+- `ed.sh gates`: 0 / 0 / 0 on all seven chapters.
+- `ed.sh overlap`: **0 unprotected**, 11 protected.
+- `sweep_probe.sh`: **skeleton 1%, close 11%**. By chapter: ch28 0/9 · ch29 2/12 · ch30 0/9 · ch31 0/10 · ch32 1/11 · ch33 1/12 · ch34 1/10.
+- Formula (ch28–34):
+  - words: 35,943 (up from 35,682);
+  - sentence mean: 13.37;
+  - ≤5 share: 30.7%;
+  - ≥40 share: 4.5%;
+  - paragraph median: 28;
+  - words per scene: 971;
+  - FK grade: 3.94.
+  - All are within the working ranges. Length held (≈100% of ~36,000), with no padding.

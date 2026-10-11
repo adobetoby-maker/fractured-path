@@ -14,14 +14,6 @@ One favour, one fact. The paper that had come up the hill to the gate had been m
 
 The other half was in the west.
 
-The porter's shoulder was still strapped, so Seln still did the morning sort, and that was where the quick bag found him on the Fourth-day.
-
-He liked the sort, and had liked it since the first morning. The post room behind the records hall's counter was a narrow place with a bench along one wall and forty pigeonholes on the other, and a brass beam for weighing parcels, and a little iron stove that the porter kept going from the first bell whatever the weather. You stood at the bench with the bags and took out everything that had come up the hill in the night, and gave each piece its hole, and in half an hour you knew where every letter in the house was going and roughly why. Nobody watched you do it. It was the most honest half-hour of his day.
-
-The quick bag's envelope was in among the house's ordinary post, addressed to the wing in a clerk's hand, about the size of an invoice. He sorted it into the wing's hole with the rest. Then he sorted everything else. Then he took it out again and opened it at the bench with his back to the door.
-
-Four lines. She had always written four lines. In nine years of owing him she had never once written him a letter, and she had never needed to, because a woman who kept the issue ledgers for half a continent knew exactly how much a line weighed.
-
 *Second run, south mould: thirteen lots, every one in the book, every one against an office you could find in a directory.*
 
 *A fourteenth, drawn the same week, written in above the first ruled line, where nothing is ever written.*
@@ -30,11 +22,15 @@ Four lines. She had always written four lines. In nine years of owing him she ha
 
 *Nobody here wrote it, and nobody here will say so twice.*
 
-He read it two times. Then he opened the little stove's door with the poker and laid the sheet on the coals, flat, the way she would have expected him to, and stood with the poker in his hand until it was ash and the ash had broken.
+The sheet was ash in the post room's stove before the bag-strap was buckled again. He stood over the little iron door with the poker until the ash broke, as she would have expected him to, and only then went back to the bench and the half-sorted bags, because a man who stops the sort in the middle is a man somebody remembers.
+
+It was the Fourth-day. The porter's shoulder was still strapped, so the sort was still his, and he had liked it since the first morning. The post room behind the records hall's counter was a narrow place with forty pigeonholes along one wall, a bench along the other, a brass beam for weighing parcels and the stove the porter kept going from the first bell whatever the weather. In half an hour at that bench you knew where every letter in the house was going and roughly why, and nobody watched you learn it. It was the most honest half-hour of his day.
+
+Her envelope had come up in among the house's ordinary post, addressed to the wing in a clerk's hand and no bigger than an invoice, and he had given it the wing's hole and gone on with everything else before he let himself take it out again. In nine years of owing him she had never once written to him, and when at last she did it was four lines and no signature, because a woman who kept the issue ledgers for half a continent knew to a hair what a line weighed.
 
 So that was the paper.
 
-A mould mended in the south. A second run off it, this year. Thirteen honest lots, gone out in the ordinary way to offices with names and doors and clerks who could be written to. And a fourteenth, the same week, off the same run, on the same stock, that had not gone into the ledger at all but over it. Written in above the line by somebody who could reach a store-house ledger in the west and open it and put a thing where nothing went, and leave a mark in the column that was only a mark.
+A mould mended in the south, and a second run off it this year. Thirteen honest lots, gone out in the ordinary way to offices with names and doors and clerks who could be written to. And a fourteenth, the same week, off the same run, on the same stock, that had not gone into the ledger at all but over it. Written in above the line by somebody who could reach a store-house ledger in the west and open it and put a thing where nothing went, and leave a mark in the column that was only a mark.
 
 He had seen a great deal of paper in his life. He had never seen that.
 
@@ -46,13 +42,7 @@ He finished the post.
 
 ---
 
-The woman who had taught him the grades had taught them in a room over a ship's chandler's on a quay, the year he came into the service, to six young men who were not yet anything.
-
-She had been old then. She had walked with a stick she never leaned on, and kept a cat that slept on the window-ledge in the sun, and she had begun every morning's lesson by saying the same thing, which was that nobody in that room would ever be told the whole of anything, and that the sooner they stopped minding the better. Then she had taught them the craft: how to read a subject, how to write a return that was true and useful and no longer than it needed to be, and how to be in a town for a year and leave nothing behind but a room that had been let.
-
-And on the last morning she had taught them the grades, because she said they would need to know what the other side of the table did, so as to know where they themselves were standing.
-
-He said them over now, standing at the copying table in the empty wing with the rain on the windows, in the order she had said them.
+Back in the wing, with the copying table under his hands and the rain on the long windows, he went down the grades. He had not said them over since he was young enough to need them, and he found they were all still there, in their order, like tools in a rack nobody had touched.
 
 The record. Paper in a subject's file. A query, a designation, a mark in a column. It cost nothing and was never undone, and it was where everything began.
 
@@ -63,6 +53,8 @@ The knock. Paper again, but from an office nobody could place, brought to a door
 And the hand. No paper. No faces. A road, at a place where no house stood, at an hour somebody had chosen.
 
 *Four*, she had said, and struck the floor once with the stick she never leaned on. *Learn them in that order, because they come in that order. And when you have seen the third, gentlemen, do not wait for the fourth to knock. The fourth does not knock.*
+
+That had been the last morning, in a room over a ship's chandler's on a quay, with six young men on benches who were not yet anything, and a cat asleep in the sun on the window-ledge. She had been old even then. She had opened every lesson by telling them that nobody in that room would ever be told the whole of anything and that the sooner they stopped minding the better; she had spent the weeks between on the craft, how to read a subject, how to write a return that was true and useful and no longer than it needed to be, how to live a year in a town and leave nothing behind but a room that had been let. The grades she had kept for the end, so that they would know what the other side of the table did, and where they themselves stood.
 
 The boy had had the record since before he could read it. He had had the instrument since the first week of the year, in a sealed packet read out by a woman standing in her own hall. Five days ago he had had the knock, at the gate, in eighty-one words, with a woman standing in the one place in the court that could not be got round.
 
@@ -130,7 +122,7 @@ He was at the window, at the sill, with Hesk's book open and the lamp lit and th
 
 Seln unbuttoned his coat and set the case on the sill beside the book.
 
-It was not large. It was the size of a bound register, of dark leather gone pale at the corners, with a brass lock and no mark on the outside anywhere. Seln kept one hand on the lid and did not sit.
+He kept one hand flat on the lid and did not sit. The lamp found the brass of the lock and nothing else, because there was nothing else on the outside of it for a lamp to find, and the boy's eyes went to the lock and stayed there a moment and came back up to his face.
 
 "I'm going to open this," he said. "Not tonight."
 
@@ -152,7 +144,7 @@ The boy thought about it for perhaps three breaths. "The reading room."
 
 "The researcher's."
 
-"It has Bracken's card on the door. *Assigned: K. Dellenmoor.* It has the brass lock and one key, and she wears the key. The annex across the landing has the code on a shelf and the assistant's table, and people go up and down that stair all day with books." He stopped. "And it's hers. Nobody on the hill would think twice about four people going up to her room. They've been doing it all year."
+"It has Bracken's card on the door. *Assigned: K. Dellenmoor.* It has the brass lock and one key, and she wears the key. The old lumber room across the landing has the code on a shelf and the assistant's table, and the house has called the two rooms together the annex since Bracken had it cleared, and people go up and down that stair all day with books." He stopped. "And it's hers. Nobody on the hill would think twice about four people going up to her room. They've been doing it all year."
 
 "Five people," said Seln.
 

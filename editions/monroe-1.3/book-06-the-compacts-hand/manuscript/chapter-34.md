@@ -174,13 +174,11 @@ He opened Hesk's parcel last, when the cake was eaten and the kettle had been fi
 
 He took the waxed thread's right end and pulled, and the knot came undone all at once, as it always did for him and for nobody else. Under the oilcloth was brown paper, dry, and under the brown paper was a satchel.
 
-It was made of brown leather, the good thick kind that Hesk bought for instrument cases and would not use for anything that did not deserve it. It was plain. It had a flap that came down over the front and a strap long enough to go across a man's body and rest on the opposite hip, so that it would not swing when he walked, or ran. The buckle on the strap was brass, and it was not a bought buckle. Cael knew it at once. He had watched Hesk file buckles at the long bench since he was small enough to sleep in the shavings under it, and this one had Hesk's file marks on the inside of the tongue where nobody would see them, and a little bevel on the frame that Hesk put on everything he made so that it would not catch on cloth.
+He did not look at the outside of it first. He opened the flap and put his hand in, the way he would have put his hand into any bag Hesk had made, to find out what it was for, and against the back his fingers found a pocket stitched flat and close in Hesk's waxed thread.
 
-Inside, against the back, there was a pocket. It was stitched in with Hesk's waxed thread, flat and close, and it was exactly as wide as a book and exactly as deep.
+He knew what it was for before he had measured it with his eyes. He took Hesk's book out of his coat and slid it in. It went all the way down without being pushed and stood there with a quarter-inch to spare on every side, as if the pocket had been cut round it. Hesk had not seen the book since the day he bound it. He had cut that pocket from memory, at the far end of the country, and it fitted to a hair.
 
-He took Hesk's book out of his coat and put it in the pocket.
-
-It fitted. It went in all the way down without being pushed, and stood there, with a quarter-inch of leather above it on every side, and the flap came down over it and the buckle went home. Hesk had never seen the book since he bound it. He had bound it from memory, cut the pocket from memory, at the far end of the country, and it fitted to a hair.
+Only then did Cael look at the rest. The flap came down over everything. The strap was long enough to cross a man's body and ride on the opposite hip, so that the bag would sit still when he walked and not swing when he ran. And the buckle was not a bought buckle. Hesk's file marks were on the inside of the tongue, where only somebody who had slept in the shavings under that bench would think to look, and the frame had the little bevel Hesk put on everything he made so that it would not catch on cloth. He ran his thumb over the bevel. The leather round it was the heavy brown kind Hesk kept for instrument cases and would not waste on anything that did not deserve it.
 
 There was a note folded small under the flap. It was on a leaf from Hesk's order-pad, in Hesk's small fast hand, with one initial at the foot. He read it to himself first. Then he read it again.
 
@@ -228,7 +226,7 @@ He took the book out of its pocket and opened it to a clean leaf and wrote the i
 
 *What I carry: eight confirmed.*
 
-*Wind-adjacent — Lira, the burst. Pressure-adjacent — the Bronze from Ardenmere, the push. Iron-adjacent — Brom, the read, which found the fourteen. Compression-adjacent — Reydan, the give. Ember-adjacent — Karis, the spark, two contacts and no more. Shadow-adjacent — the stair, sealed, rent from waking. Storm-adjacent — Daeva, the lane; moved twice this week, forty minutes and a quarter hour, and settled. Anchor-adjacent — the hand with no face; idle by naming; wants doorways.*
+*Wind-adjacent — Lira, the burst. Pressure-adjacent — the Bronze from Ardenmere, the push. Iron-adjacent — Brom, the read, which found the fourteen. Compression-adjacent — Reydan, the give. Ember-adjacent — Karis, the spark, two contacts and no more. Shadow-adjacent — the stair, sealed, rent from waking. Storm-adjacent — Daeva, the lane; moved twice this week, a quarter hour and then forty minutes, and settled. Anchor-adjacent — the hand with no face; idle by naming; wants doorways.*
 
 *Under all eight, the still place I don't count.*
 

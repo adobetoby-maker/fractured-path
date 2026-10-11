@@ -4,7 +4,7 @@ The count was slow, and the four men moved on it.
 
 Cael had seen drills like it on the second floor, when Rooke wanted a team to learn to arrive. You did not run at your mark. You walked, and the count told you how long you had, and you timed your stride so that you came onto your mark on the last word, at the same moment as everyone else came onto theirs. Four men arriving together round a coach were not four men. They were a ring. A ring could be drawn tight by one more word.
 
-They came in from the two ditches and the two ends, one at each corner of the coach, unhurried, with their staves still at their belts and their hands open. *One.* Their feet touched the chalk at the same instant. *Two.* The lead's voice went along the cut like a man calling a dance.
+The lead did not move. He stayed by the cart's wheel with one hand lifted, keeping the time, and sent the other four in. They came from the two ditches and the two ends, one at each corner of the coach, unhurried, with their staves still at their belts and their hands open. *One.* Their feet touched the chalk at the same instant. *Two.* The lead's voice went along the cut like a man calling a dance.
 
 Lira went on two and a half.
 
@@ -119,6 +119,8 @@ He knew what she was doing as soon as he saw it, because he had heard her explai
 It frayed.
 
 He could not see it. He saw the horse's leg shift, a finger's breadth, as if somebody had cut one strand of a halter. He saw Karis's face, set and white, and her right hand, and the skin of her fingers going red from the tips down. She moved the hand an inch along the line she could not see and put her heat into it again.
+
+The man Lira had stopped at the ditch stood two yards off from her at the off horse's head, with his stave held across his body in both hands. He had been given the coach, plainly, once the ring was gone: the horses, the driver, whoever stood by them. He was watching Karis's hands. When the second strand went and the horse's leg shifted again, he took one step toward her and then stopped, as if he had remembered his orders, and only watched. Custody. He was not there to touch anybody who was not wanted.
 
 The coachman sat on his box with his reins in his hands and could not let go of them. He was talking to his horses in the same low steady voice he always used. His hands were held where they were, in the air in front of him, as if he were driving a coach that was not moving.
 
@@ -240,7 +242,7 @@ She lifted two fingers of her left hand.
 
 The team broke off in four heartbeats.
 
-He counted them, because it was the last thing he could do. On one the man standing over Lira turned his back on her and went for the north bank. On two the two men in the channel were on their feet and going, the second holding his own arm, past Brom, who let them past, into the gully beyond the culvert. On three the man at the cart was gone behind it, and the ropes on the north bank were taking weight. On four there was nobody on the road at all but the four of them and the coachman and the horses.
+He counted them, because it was the last thing he could do. On one the man standing over Lira turned his back on her and went for the north bank, and the one at the off horse's head let go of his stave with one hand and went after him at a run. On two the two men in the channel were on their feet and going, the second holding his own arm, past Brom, who let them past, into the gully beyond the culvert. On three the man at the cart was gone behind it, and the ropes on the north bank were taking weight. On four there was nobody on the road at all but the four of them and the coachman and the horses.
 
 And her.
 

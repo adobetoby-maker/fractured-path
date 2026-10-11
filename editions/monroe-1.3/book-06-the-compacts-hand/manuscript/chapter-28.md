@@ -4,7 +4,7 @@ Bracken wound the counter clock every Seventh-day before the first bell, and nob
 
 Seln knew that, so he waited.
 
-He had not slept much. He had sat up in the wing with the fair copy of the order under the lamp until the fire-watch went by twice, reading it the way he would have read a subject's letters, for what was underneath. The copy had told him nothing. That was not the copy's fault. The senior clerk had made it on the house's own stock, in the hand he kept for the enrollment book, and a fair copy carried the words and nothing else. Whatever the paper itself had to say, it had said at the lodge window for a minute and forty seconds, to one man with a glass, and then it had ridden away down the bluff road in a saddlebag.
+The paper itself was a day gone. It had ridden down the bluff road in a saddlebag yesterday morning, after a minute and forty seconds at the lodge window in front of one man with a glass, and whatever it had to say about itself it had said then, to him, and to nobody since. Seln had worked that out at about the fire-watch's second round, sitting up in the wing with the senior clerk's fair copy under the lamp and getting nothing from it but the words, which was all a fair copy on the house's own stock could ever give.
 
 So the question had to go to the man with the glass.
 
@@ -14,7 +14,7 @@ The records hall was dark except for the one lamp on the counter. Rain had not c
 
 "Registrar." He had his hands in his coat pockets. He took them out. "One question, if you have a minute for it. It's about the paper at the gate."
 
-Bracken's spectacles came down off his forehead onto his nose. He did not say anything. That was his way of saying yes.
+Bracken's spectacles came down off his forehead onto his nose. He did not say anything, which was his way of saying yes.
 
 "When you held the order up to the light in the lodge," said Seln, "where did the mark sit?"
 
@@ -158,7 +158,7 @@ Lira rolled her left shoulder. She did it slowly, forward and back, with her fac
 
 "I'm only telling you because you were going to ask." She looked at Cael. "You were going to ask. You've been looking at my back for a week like it was a bill."
 
-He had been. He had not known she knew.
+He had been, and he had not known she knew.
 
 He found that he did not have anything to say to that, and that she did not need him to, and he put it away for later.
 

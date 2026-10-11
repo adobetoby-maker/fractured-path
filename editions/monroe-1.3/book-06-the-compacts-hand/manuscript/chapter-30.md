@@ -12,11 +12,13 @@ Havel took it. He thanked the young man, who apologised again for the rain and w
 
 Inside the oilcloth were two things. The registrar's letter, in a clear upright hand that wasted nothing, asking that the instrument constituting a certain office be supplied, together with the seal under which that instrument was itself issued. And a sheet of thin paper with a pencil rubbing on it of a seal, taken carefully, the grey of the lead built up in even strokes until the device stood out white: the registry's own pattern, the river and the scale, inside a beaded rim.
 
+The letter said where the rubbing had come from, in its first paragraph, with the instrument quoted whole: it was the seal off the escort order that the lead of four riders had read aloud in the house's outer court on the Sixth-day morning, and that the house had declined at its own gate and let ride away again down the bluff road.
+
 He laid the rubbing on the table by the window and looked at it for a long time without touching it.
 
-His right hand ached at the web of the thumb. It had ached every morning for a year. He opened it and closed it twice under the table, out of habit, though there was nobody in the room to see.
+His right hand ached at the web of the thumb, as it had every morning for a year. He opened it and closed it twice under the table, out of habit, though there was nobody in the room to see.
 
-It was a good rubbing. It was also a good seal. That was the first thing he noticed and the thing he went on noticing all afternoon: whoever had cut the die had cut it properly. The river ran the right way. The scale's beam was level. The beading round the rim was even and close, and in the beading, at the bottom, where every registry die carried its cutter's number, there were four small figures that the pencil had picked out faintly, as a pencil does when it passes over something raised. He took the reading glass out of his kit and bent over them until he was sure of all four.
+It was a good rubbing, and it was also a good seal. That was the first thing he noticed and the thing he went on noticing all afternoon: whoever had cut the die had cut it properly. The river ran the right way; the scale's beam was level. The beading round the rim was even and close, and in the beading, at the bottom, where every registry die carried its cutter's number, there were four small figures that the pencil had picked out faintly, as a pencil does when it passes over something raised. He took the reading glass out of his kit and bent over them until he was sure of all four.
 
 The usual was a letter of two sentences. He could have written it in his sleep. But the usual came after the registers, and so, because it was the order the manual gave, he went to the registers first.
 
@@ -36,15 +38,13 @@ The third was the number.
 
 Every die the registry used was cut by one of three cutters, and every cutter numbered every die in the beading of its rim, and every number went into the cutters' issue ledger against the office the die was cut for. The ledger itself was in the west. A copy was kept at every district seat, in the strong-room, and brought up to date every quarter by the post. Havel signed for the strong-room key at noon on the Fourth-day, with the clerk as his witness, and went down with a lamp.
 
-The ledger ran in numbers, in order, without a gap. That was the point of it. He found the run where the rubbing's four figures ought to be, and laid his finger on the line above and the line below.
+The ledger ran in numbers, in order, one die to a line, every number cut and every number entered. That was the point of it. He found the place where the rubbing's four figures ought to be, and laid his finger on the page.
 
-The line above was a die cut for a ferry office on a southern river. The line below was a die cut for a district fee office in the east. The two numbers were one apart.
+The number one below the rubbing's stood there against a die cut for a ferry office on a southern river. The number one above it stood against a die cut for a district fee office in the east. And they stood on consecutive lines, in the same ink, as they had been written, the ferry office's line and then the fee office's line directly under it.
 
-The rubbing's number was the number between them.
+The rubbing's number belonged between them. There was no line for it. There was no room on the page for one. The ledger stepped over it as if the cutters had never counted it, and the number on the rubbing, by the registry's own book, was a number the registry had never cut.
 
-There was no line between them. There was no room on the page for one. The ledger went straight from the ferry office to the fee office in the same ink, on consecutive lines, as it had been written, and the number on the rubbing was simply not a number the registry had ever cut.
-
-He stood in the strong-room with his finger on the page and the lamp hissing for perhaps a minute. Then he wrote the line above and the line below on a slip of paper, with their numbers, and the rubbing's number between them, and nothing else. He locked the strong-room and gave the key back and signed for its return.
+He stood in the strong-room with his finger on the page and the lamp hissing for perhaps a minute. Then he wrote the two flanking numbers on a slip of paper, each with its office, and the rubbing's number between them with nothing against it, and nothing else. He locked the strong-room and gave the key back and signed for its return.
 
 ---
 
@@ -56,11 +56,11 @@ He drafted the usual at the senior records officer's own table, on the district 
 
 *The office named in the registrar's letter was constituted on the date entered in the district's register of offices, by instrument filed at this seat under seal. The registrar is respectfully referred to the issuing authority of the said instrument for any further particulars.*
 
-Two sentences. They were both true. The senior read them, nodded, signed, and handed them back for the clerk to copy fair. It would go up the hill with the next bag.
+Two sentences, and both of them true. The senior read them, nodded, signed, and handed them back for the clerk to copy fair. It would go up the hill with the next bag.
 
 The form of the usual had no line for what Havel had found. There was a line for the office and a line for the instrument and a line for where to write next. There was nowhere on it to say that the seal on the instrument was in none of the registers that seals were kept in. Nobody had ever needed such a line. A seal was a thing that was in the registers. That was what made it a seal.
 
-He did not add a line. It was not his letter. It was the district's, and the district had a form, and the form was correct.
+He did not add a line, because it was not his letter. It was the district's, and the district had a form, and the form was correct.
 
 At the inn that evening the river was louder than he had ever heard it.
 
@@ -72,7 +72,7 @@ He read them through. The first went back to a pump step at Ardenmere and a form
 
 Then he took a clean sheet of the same kind and dipped his pen, and wrote the date, and under it the sixth entry, in the plain hand he kept for the sheets.
 
-*The seal on the instrument constituting the facilities office named in the order presented at Halcenvane, and on the order itself (registrar's rubbing): absent from the district's impression book; absent from the registry's schedule of seals of office, this year's and last; its rim number absent from the cutters' issue ledger, which runs without a line between the numbers on either side of it. Checked three ways. Absent from every registry of seals.*
+*The seal on the instrument constituting the facilities office named in the order presented at Halcenvane, and on the order itself (registrar's rubbing): absent from the district's impression book; absent from the registry's schedule of seals of office, this year's and last; its rim number absent from the cutters' issue ledger, where the numbers one below it and one above it stand on consecutive lines with no line for it between. Checked three ways. Absent from every registry of seals.*
 
 He read it back. It recorded something that had happened. It did not say what he made of it. That was the rule of the sheets, and he had kept it six times.
 
@@ -82,7 +82,7 @@ A mark with no office behind it. A seal with no register under it. They lay side
 
 He understood, sitting there, that there would not be a seventh.
 
-It was not a decision. He did not decide it. It was more as if he had come to the end of a ledger and found the last page ruled off. Every one of the six recorded something the registers could not answer, and he had always been able to write it down because the registers answered everything else, and he could lay one against the other and see exactly where the gap was. This one had gone through all three registers and come out the other side. There was nothing left to lay a seventh against. A seventh would have to be something he thought, and the sheets did not hold what he thought. They never had.
+It was not a decision; he did not decide it. It was more as if he had come to the end of a ledger and found the last page ruled off. Every one of the six recorded something the registers could not answer, and he had always been able to write it down because the registers answered everything else, and he could lay one against the other and see exactly where the gap was. This one had gone through all three registers and come out the other side. There was nothing left to lay a seventh against. A seventh would have to be something he thought, and the sheets did not hold what he thought. They never had.
 
 He put the six back between the second manual and the third, the same way round, and buckled the kit.
 
@@ -162,7 +162,7 @@ Seln stood on the landing with his collar up.
 
 He did not explain. Nobody asked him to. He turned and went down off the end of the landing onto a narrow path among the willows, with the river roaring at his left hand, and in about the time it took Cael to look away and back again he was not a thing that anybody would have looked at twice. He was a grey shape among grey trees. Then he was not even that.
 
-Cael put it away with the other things he had counted that morning. Seln had not been asked. He had chosen the road himself.
+Cael put it away with the other things he had counted that morning. Seln had not been asked; he had chosen the road himself.
 
 ---
 
@@ -170,7 +170,7 @@ The road went up from the landing in two long bends, between hawthorn hedges, an
 
 It was a deep straight cutting through a spur of the hill that came down to the river. Somebody a long time ago had decided to go through the spur rather than round it, and had dug a road down into the chalk and carted the chalk away, and the walls were still there, white and steep and streaked with green where the water ran. On the north side, uphill, the bank stood twenty feet over the road. On the south side, toward the river, it was lower, ten or twelve feet. Toward the far end of the cut, a stone's throw short of where it opened out again, the south bank had been eaten away underneath by some flood long ago, before the road had a ditch, so that its lip hung out over a hollow of shadow, like a brow over an eye.
 
-The road itself was twenty-odd feet wide, cambered high in the middle so the water would run off it, with a ditch along the north side. It was dry. The ferryman had been right. The wind came along the cut from the west behind them and lifted the chalk dust off the crown in little white skirls, and the horses' feet sent it up in clouds.
+The road itself was twenty-odd feet wide, cambered high in the middle so the water would run off it, with a ditch along the north side. It was dry, as the ferryman had said it would be. The wind came along the cut from the west behind them and lifted the chalk dust off the crown in little white skirls, and the horses' feet sent it up in clouds.
 
 A skein of geese went over, very high, calling.
 
@@ -190,7 +190,7 @@ He opened the door and got down into the white dust before anyone could stop him
 
 He sent the read down.
 
-It went out of him through the hand into the ground the way it went into a floor, the cheapest thing he owned and the one he trusted most. It did not read chalk the way it read a man. It read weight. The road under him was carrying the coach, four tons of it through the wheels, the horses in front, the cart's dead weight across the crown forty yards on. All of that was ordinary. He knew the shape of ordinary.
+It went out of him through the hand into the ground the way it went into a floor, the cheapest thing he owned and the one he trusted most. It did not read chalk the way it read a man. It read weight. The road under him was carrying the coach, four tons of it through the wheels, the horses in front, the cart's dead weight across the crown forty yards on. All of that was ordinary, and he knew the shape of ordinary.
 
 And there were places in the cut where the ground was carrying weight and nothing stood there.
 
@@ -208,7 +208,7 @@ He took his hand off the road.
 
 "Fourteen," he said.
 
-He said it to the coach door, not loudly. Karis's face was in the window. He saw her understand it. He saw Lira, awake now, understand it a beat after.
+He said it to the coach door, not loudly. Karis's face was in the window, and he saw her understand it. He saw Lira, awake now, understand it a beat after.
 
 Then they came.
 
