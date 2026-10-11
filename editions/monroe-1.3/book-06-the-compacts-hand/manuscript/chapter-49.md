@@ -206,7 +206,7 @@ It was a small thing to see, and he did not think the benches saw it. The four d
 
 The evaluator nearest the records table looked at Ilsev. Ilsev did not look at him. She was looking at the clerk, with her file shut on her knee, and her face told Cael nothing whatever.
 
-On the fourth bench Gault had not moved. He was the evaluator of record, the only man in that room who was called so every day, and he had declined nothing in his life. He sat with his case straight on his knees and his eyes on the pasted form, and then he took out his small book and wrote a line in it.
+On the fourth bench Gault had not moved. He was the evaluator of record, the only man in that room who was called so every day, and he had declined nothing in his life. The refusal was the Archmarshal's; the form's old column had only Gault's title to put it under. He sat with his case straight on his knees and his eyes on the pasted form, and then he took out his small book and wrote a line in it.
 
 "So entered," said the hood, and the pens began again.
 
