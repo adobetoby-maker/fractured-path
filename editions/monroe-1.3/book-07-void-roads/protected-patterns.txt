@@ -1,2 +1,7 @@
 # Book 7 protected patterns (regex lines; apostrophes as .?) — BOOK_MAP §10 units and packet lines kept whole
 # Patterns are added by the coordinator after each movement, verified against BOOK_MAP §10 and the packet.
+# M1 packet lines (kept whole)
+the way you look for a stair in the dark with a foot
+at a higher price and for worse people
+two carts went quiet on it last month
+did you ever hear of a ledger.?keeper called vell

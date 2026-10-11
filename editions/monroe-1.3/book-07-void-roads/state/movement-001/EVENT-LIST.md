@@ -144,3 +144,17 @@ No unit for chapters 1–7 is given in the map only in part, as I read §10 (the
 ## Withheld (checked against the packet)
 
 Five travellers. Eighteen, said once; nothing about nineteen. No fragment used; *Deployment since the Line: none* through day 49. The stillhound's sense unknown: Karis has the word only. Nobody hears "quiet ground". No healer, no Tide practitioner, no Oryn. No Compact on the page beyond Seln's one sentence and the registry's printed sheet. Teague and Cael exchange no words. The Thornwater carter is never named; nobody new is named, and no mule either. "The academy above Ostrand" in narration. Seln's case stays shut. No season, month or weekday names; no year count since the Kindling; no "his Path" for Cael.
+
+## Amendments made while drafting (recorded after the prose; the list above is as first written)
+
+- **Teague's healer is not on the page.** The list had her asleep at the upper inn in Teague's count. The packet says "no healer" for this movement, so the paragraph was removed; Teague counts his three and nothing is said of a fourth. His own paper is not mentioned in his window either (Pike speaks of it at the plank instead: "Copper, the same as mine", "Bronze, if I'd to call him anything"), so the "eleven years old" figure was never used.
+- **The Thornwater carter has kept his road twenty-two years**, not nineteen. The word "nineteen" does not appear anywhere in the seven chapters (the packet wants nothing about nineteen near Cael's age, and I kept the word out altogether).
+- **Seln's first walks** are the ninth evening (east road, to the saddle and a little beyond) and before light on the tenth (north road), so that his remark about the cart's gauge on the tenth morning is true. The cold road is the thirtieth morning.
+- **Seln's window ran long**: about 1,050 words in chapter 4 and about 1,120 in chapter 6 (plan 1,800 in all).
+- **Karis lit three fires with a point** on the road before the hold began (days 3, 4, 5), and a page-light under the cart: four declarations, all entered by her.
+- **Pike has kept the question for thirty years** ("I've been asked it every day for thirty years"), to agree with the map's protected chapter-24 line about his ledger.
+- **The wash is three hours out on the east road**, reached "in three hours, walking fast"; chapter 5 passes it "in the middle of the morning" on day 42.
+- **Day 14, the wall:** Lira reads it from the lower inn's door after the first line is entered and reports "Thirteenth. Of thirteen." and the top line's single word. Cael does not read the sheet himself until day 49.
+- **The fleece slip** seen on day 9 (eleven bales, a mark the bale, delivered dry) is the eleven-bale captain's job on day 49: ten delivered dry and one wet.
+- **Thornwater's ford slip** carries the hold's own mark (a thorn twig over a wavy line), the mark the steading's woman makes on the stretch slip at her gate.
+- **Fragment names are used plainly** in narration and in the log (Wind, Pressure, the Iron read, Compression, Ember, Shadow, Storm, Anchor, Blade) beside the older epithets, to carry the movement's teaching load.

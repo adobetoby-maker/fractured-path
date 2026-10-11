@@ -26,11 +26,11 @@ He sat at the shelf's lip, ten paces off, with his back to what was left of the 
 
 Cael let his breath go, and found that Brom had been right about that as well.
 
-He had no Path, and he said so to himself plainly, because the dark was a good place for plain things. An Arbiter had woken in him at fourteen, on a brass plate in a windowless room, and it had taken eleven seconds over him and gone dark, and it had been dark ever since. What answered him now were nine fragments, which was the log's word for them: pieces of other people's Paths, each one taken inside a fight that somebody else had begun in earnest, and each one written into Hesk's book with a name beside it and a price.
+He had no Path, and so no tier and no rank, and he said so to himself plainly, because the dark was a good place for plain things. An Arbiter had woken in him at fourteen, on a brass plate in a windowless room, and it had taken eleven seconds over him and gone dark, and it had been dark ever since. What answered him now were nine fragments, which was the log's word for them: pieces of other people's Paths, each one taken inside a fight that somebody else had begun in earnest, and each one written into Hesk's book with a name beside it and a price.
 
 They were not quiet, either, though he had supposed, coming east, that they would lie still on a road where nobody was asking him for anything.
 
-The quiet one had lifted at dusk, as it lifted at every dusk, soft behind all the rest, and he had held it where it was while Seln laid a fire ten feet away. The quick one had asked about the edge of the scree, and for once had been told that it was right. The heavy one did nothing whatever; it sat in him as a full pail sits on a step, and he was aware of it all day in the way that one is aware of a pail.
+Shadow, the quiet one, had lifted at dusk, as it lifted at every dusk, soft behind all the rest, and he had held it where it was while Seln laid a fire ten feet away. Blade was the newest of the nine and the quickest, and it had asked about the edge of the scree, and for once had been told that it was right. Storm did nothing whatever. It was a Gold's worth of weather, the heaviest fragment he owned, and it sat in him as a full pail sits on a step, so that he was aware of it all day in the way that one is aware of a pail.
 
 None of that was use, and he had used nothing since a ring of churned turf beside a split thorn. But he had begun to see that carrying nine things and not using them was a kind of work, and that it went on all night.
 
@@ -66,7 +66,7 @@ That was fair. He lay down where she had been lying, in the warmth she had left 
 
 They finished the hill by hand.
 
-There was as much of it under the shelf as Brom had said, and it was no kinder than what lay above. The boxes went down a leg at a time, and the cart followed on its locked wheels with a large man leaning back on a rope; and Cael went ahead with the wedge, his back to the slope, and said where the edge was. He said it forty times that morning, and the quick one in him agreed with every one of them.
+There was as much of it under the shelf as Brom had said, and it was no kinder than what lay above. The boxes went down a leg at a time, and the cart followed on its locked wheels with a large man leaning back on a rope; and Cael went ahead with the wedge, his back to the slope, and said where the edge was. He said it forty times that morning, and Blade agreed with every one of them.
 
 At the bottom the scree ran out into grass, quite suddenly, and they stood in the valley.
 
@@ -238,7 +238,7 @@ The sun went off the valley floor. It did so all at once out here, when the west
 
 It lifted.
 
-He knew it at once, and he was ready, as he had been ready at every dusk since a door log in a wool exchange. It came up soft behind the other eight and offered him what it always offered, which was to make less of him. He told it no. He had told it no so many times that the word had worn smooth, and he was tired, with eleven miles in his legs, and he said it as a man says good night.
+It was Shadow, the one fragment of the nine that he kept sealed. He knew it at once, and he was ready, as he had been ready at every dusk since a door log in a wool exchange. It came up soft behind the other eight and offered him what it always offered, which was to make less of him. He told it no. He had told it no so many times that the word had worn smooth, and he was tired, with eleven miles in his legs, and he said it as a man says good night.
 
 His boots stopped making any sound.
 
@@ -266,7 +266,7 @@ Seln went forward to the wheel and laid a hand on the tailboard, as though it ha
 
 Cael wrote it that night by the fire, in pencil, with the book on his knee.
 
-*Fifth day. Deployment since the Line: none. At dusk, on an empty road, the sealed one got as far as my boots. Four strides, both feet, before I had it shut. I didn't ask for it and I didn't use it for anything, so it isn't a deployment. It's what the thing costs to carry. Call it rent. Entered as rent, and Seln heard it, which is right. He would.*
+*Fifth day. Deployment since the Line: none. At dusk, on an empty road, Shadow got as far as my boots, seal and all. Four strides, both feet, before I had it shut. I didn't ask for it and I didn't use it for anything, so it isn't a deployment. It's what the thing costs to carry. Call it rent. Entered as rent, and Seln heard it, which is right. He would.*
 
 ---
 
@@ -304,7 +304,7 @@ They halted at dusk, where the road widened by the river. The old man pulled his
 
 It was cold by the water once the sun had gone, and nobody lit anything.
 
-The boy came back along the carts while there was still some light. He had been looking at the gelding over his shoulder all day and wanted a nearer look. He grinned at Lira as boys had been grinning at her since Ardenmere, and stood there with his thumbs in his belt. Then he seemed to feel that five strangers and a horse deserved something of him. He took out his right hand and turned it palm up, with the fingers spread, as Karis spread hers before a point.
+The boy came back along the carts while there was still some light. He had been looking at the gelding over his shoulder all day and wanted a nearer look. He grinned at Lira as boys had been grinning at her since Ardenmere, and stood there with his thumbs in his belt. Then he seemed to feel that five strangers and a horse deserved something of him. He took out his right hand and turned it palm up, with the fingers spread, as Karis spread hers before she set a point.
 
 A hand came down across his wrist.
 
@@ -324,11 +324,11 @@ Cael had never heard the word used so, and he knew what it meant before he had f
 
 "Then you know how to keep quiet. Keep it."
 
-He went back to his mules. That was the whole of it, and it was a good deal more than the woman on the mule had given them.
+He went back to his mules. He had said nothing further, and even so it came to more than the woman on the mule had given them.
 
 Cael sat down on the cart's shaft. He did what he had done on the east tier of a yard every week for two years, with a notebook on his knee, and it steadied him as it always had: he set out the claim, and what stood under it, and then he ruled.
 
-The claim was that out here nobody on a road used a Path, or lit a fire he could do without, or spoke where a hand would serve; and that everybody showed steel.
+The claim was that out here nobody on a road declared a Path, at any tier, for any purpose; or lit a fire he could do without, or spoke where a hand would serve; and that everybody showed steel.
 
 Under it he had five things. Three carts had gone a day without a word, and every one of their people wore an edge outside the coat, the boy included. There were rings of stones on the halting-grounds that had never been burned in, because they had never been meant for fire. A courier had counted their smokes from a ridge and told them it was their wood. And a boy had been about to show them something, and had had it taken out of his hand.
 
@@ -340,13 +340,13 @@ They were all near enough to hear. Lira had her chin on her fist.
 
 "Hold what?"
 
-"All of it. Whatever each of you has. Nobody declares anything on a road, for any reason, until we know what it brings." He kept his voice where the old man had kept his. "Not a burst. Not the skin. Not a point to light a pipe by."
+"All of it. Whatever each of you has. Nobody declares anything on a road, for any reason, until we know what it brings." He kept his voice where the old man had kept his. "Not a Wind burst. Not Iron Skin. Not an Ember point to light a pipe by."
 
 "I haven't done one thing since the Line," said Lira.
 
-"Karis has lit two fires with her finger."
+"Karis has lit three fires with her finger."
 
-"Three," said Karis. "There was the one under the cart. I've entered all of them, with the hour." She had gone a little paler. "I shall enter that I didn't know."
+"Four," said Karis. "There was the one under the cart. I've entered all of them, with the hour." She had gone a little paler. "I shall enter that I didn't know."
 
 "And if a wheel goes down in a river?" said Brom.
 
@@ -358,9 +358,9 @@ They were all near enough to hear. Lira had her chin on her fist.
 
 Brom thought that over, and seemed to find it sound.
 
-"And you?" said Lira, looking at him. "You've nine."
+"And you?" said Lira, looking at him. "You've nine fragments, and not one of them's a Path. Does it count?"
 
-"I hold all nine." It sounded like more, said aloud. "It's the one thing I've had real practice at."
+"I don't know that either. So I hold all nine." It sounded like more, said aloud. "It's the one thing I've had real practice at."
 
 He wrote the day's lines in what light there was. *Sixth day. Deployment since the Line: none. Ruling: hold.* Then he put the book away and ate cold flour-cake with the rest of them, in the dark, with the river going by.
 

@@ -2,7 +2,7 @@
 
 They walked behind the three carts for two days more, and in all that time nobody spoke to them.
 
-It was not unfriendly, for Cael had been ignored by experts, in a house on a bluff, and he knew the feel of it; this was something else, and he came to think of it as being let alone. On the eighth evening the woman with the hides walked back along the road at dusk and laid a flat cake on the shaft of their cart, still warm from being carried inside her coat, and walked away again before anybody could thank her. Lira broke it in five, and Brom said it was barley, and that was the whole of the conversation.
+It was not unfriendly, for Cael had been ignored by experts, in a house on a bluff, and he knew the feel of it; this was something else, and he came to think of it as being let alone. On the eighth evening the woman with the hides walked back along the road at dusk and laid a flat cake on the shaft of their cart, still warm from being carried inside her coat, and walked away again before anybody could thank her. Lira broke it in five, and Brom said it was barley, and nobody found anything to add.
 
 The country came down as they went. The red trees thinned and gave over to a broad pale tree with leaves that showed silver when the wind turned them, which Karis also declined to name, and the river they were following grew slow and wide and took in others. It was warm in the bottom. The dust stood behind the carts until long after they had passed, and there were flies about the gelding's eyes all day.
 
@@ -10,7 +10,7 @@ On the ninth day, a little before noon, the road went up over a last low rise, a
 
 Cael came up to the crest beside the wheel and looked down at a town.
 
-It lay on the far side of a river a hundred yards across, green-brown and unhurried, and he read it from the water upward, as he had been taught to read a floor. There was a landing, with a flat boat at it. Above the landing stood a long low building with a deep eave, and on the rise behind that a taller one with two chimneys; between them a smithy was sending up the only smoke he had seen in three days that was not his own. Along the river below the buildings ran a meadow, half a mile of it, with a single great ash standing in the middle and carts and tents scattered round the tree like washing.
+It lay on the far side of a river a hundred yards across, green-brown and unhurried, and he read it from the water upward, as he had been taught to read a floor. There was a landing, with a flat boat at it. Above the landing stood a long low building with a deep eave, and on the rise behind that a taller one with two chimneys; between them a smithy was sending up the first smoke he had seen in three days. Along the river below the buildings ran a meadow, half a mile of it, with a single great ash standing in the middle and carts and tents scattered round the tree like washing.
 
 That was all there was, and he went on looking for the rest of it.
 
@@ -42,7 +42,7 @@ Their own turn came last. The gelding had not cared for the Ost and did not care
 
 Nobody told them where to stand in the meadow, so they stood and watched where everyone else stood.
 
-The carts lay along the river side with their shafts down and a stone behind each wheel. The tents were farther in, in no order he could find, of hide and tarred canvas and old sail, and they were not the same tents from one hour to the next. While Brom was getting the gelding out of the shafts a crew of four struck one within thirty yards of him, rolled it, and walked out by the north road with it on a pole between two of them; and before the flattened grass had lifted, a woman with a handcart had pitched on the same place. He did not see anybody ask anybody's leave. He had counted nineteen tents from the ferry, out of habit, and there were twenty-two when he counted again; and by evening only eleven of the first nineteen stood where they had stood at noon.
+The carts lay along the river side with their shafts down and a stone behind each wheel. The tents were farther in, in no order he could find, of hide and tarred canvas and old sail, and they were not the same tents from one hour to the next. While Brom was getting the gelding out of the shafts a crew of four struck one within thirty yards of him, rolled it, and walked out by the north road with it on a pole between two of them; and before the flattened grass had lifted, a woman with a handcart had pitched on the same place. He did not see anybody ask anybody's leave. He had counted seventeen tents from the ferry, out of habit, and there were twenty when he counted again; and by evening only nine of the first seventeen stood where they had stood at noon.
 
 The old man had gone straight to the ash. He drew his two mules into its shade as a man walks into his own kitchen, and nobody else stood within twenty feet of him, though the shade was the best in the meadow.
 
@@ -96,7 +96,7 @@ Lira went along it fast, with her finger out, and her face fell as she went.
 
 Cael did not answer her, because he had started at the left-hand post and was reading.
 
-He had done this once before. He had been fifteen, and new to a district, and he had stood in front of a board at a crossroads in Ardenmere for the better part of a morning before he let himself go near the yard it spoke of. A girl had told him afterward that almost nobody did that. Most people either never looked, or walked straight in and were carried out the same day, and he had done a third thing, which was to stand in the road and try to understand the board first. It had served him then, and he did it again now, slowly, a slip at a time.
+He had done this once before. He had been new to a district, and not long past his Kindling, and he had stood in front of a board at a crossroads in Ardenmere for the better part of a morning before he let himself go near the yard it spoke of. A girl had told him afterward that almost nobody did that. Most people either never looked, or walked straight in and were carried out the same day, and he had done a third thing, which was to stand in the road and try to understand the board first. It had served him then, and he did it again now, slowly, a slip at a time.
 
 *Six crossings, the landing's goods; a crew to stand; two marks.* There was a seal on that one, pressed in dark wax.
 
@@ -120,9 +120,11 @@ There were eight more. One wanted a night-watch kept on the landing, and one wan
 
 "Nobody's asked you to fight it. They want it brought home."
 
-"That's worse," said Lira. He read all fourteen from the left post to the right, and then he went back and read them the other way, because he had found what was wrong with them and wished to be sure.
+"That's worse," said Lira.
 
-Every name on the board in Ardenmere had carried letters after it, and a number. *Cu 3*, or *Fe 1*. They had been ratings, borrowed from the registry's tiers and kept in somebody's private ledger, and a stranger could not have stood in that yard for a minute without being told where he stood among them. He had learned to read a card by them before he learned anything else. Here there was a job, and whoever wanted it done, and what they would pay.
+He read all fourteen from the left post to the right, and then he went back and read them the other way, because he had found what was wrong with them and wished to be sure.
+
+Every name on the board in Ardenmere had carried letters after it, and a number: *Cu 3*, and the like. They had been ratings, borrowed from the registry's tiers and kept in somebody's private ledger, and a stranger could not have stood in that yard for a minute without being told where he stood among them. He had learned to read a card by them before he learned anything else. Here there was a job, and whoever wanted it done, and what they would pay.
 
 Not one of the fourteen said who might take it. None of them asked for a tier, or a rank, or a Path of any kind, and none said *Iron or above*, or *a Bronze to lead*. The slip with the seal on it wanted a crew to stand on a boat, and it was all one to that slip whether the crew were five Golds or five carters' boys.
 
@@ -146,7 +148,7 @@ The left sleeve of his coat was folded and pinned at the elbow, neatly, with a b
 
 He looked at Lira and then at Cael. Then he looked at each of them again, in the same order, just as carefully, as though the first look had been only a draft.
 
-"That's all a hirer wants to hear from me," he said. "Did they come back, and did his goods come with them. I've been asked it every day for eleven years and I've not yet been asked a second question."
+"That's all a hirer wants to hear from me," he said. "Did they come back, and did his goods come with them. I've been asked it every day for thirty years and I've not yet been asked a second question."
 
 "Are you the keeper?" said Lira.
 
@@ -164,7 +166,7 @@ The others had come up while he spoke, Brom large and quiet, and Karis with her 
 
 "Copper," said Brom slowly. "And you keep the book."
 
-"Somebody's got to. The Golds weren't asking for it." Pike took the pen from his ear. "You'll be the five that came in behind the old man with the horse. You'll want a heading."
+"Somebody's got to. The Golds weren't asking for it." Pike took the pen from his ear. "You'll be the five with the horse, that came in behind the old man. You'll want a heading."
 
 "We want work," said Lira. "There's no bouts. What do crews do, here?"
 
@@ -192,19 +194,19 @@ Pike looked at them for the third time, and the fourth.
 
 They said them, Lira as she would have given hers to a registrar, and Brom as he would have told the hour, and Karis spelled hers out letter by letter. Then there was a gap, no longer than a breath, and Cael knew whose it was without turning his head.
 
-A man who had been posted to nineteen towns had been written into a book in every one of them, always by some other hand, and under a grade.
+A man who had been posted from town to town for fifteen years had been written into a book in every one of them, always by some other hand, and under a grade.
 
 "Seln," said Seln. He seemed a little surprised by the sound of it.
 
 "Cael."
 
-Pike wrote it and did not ask for the rest. There was a rest, long and correct, with a hyphen in it, and it stood on a withdrawal leaf in a registrar's hall and on a file that had not been tied; but nobody in this meadow had any use for it, and Cael found that he had none either.
+Pike wrote it and did not ask for the rest. There was a rest, long and correct, with a hyphen in it, and it stood on a withdrawal leaf in a registrar's hall and on a file that had not been tied; but nobody in this meadow had any use for it, and Cael had none either.
 
 "How old are you?" said Pike, without lifting his head.
 
 "Eighteen."
 
-"Hm. I'd two arms at eighteen. Never did me the good you'd think."
+"I'd two arms at eighteen. Never did me the good you'd think."
 
 He ruled the leaf with the edge of the stone, drawing the pen down beside it four times, and when he had five columns he wrote a word at the head of each. Cael read them upside down, across the plank, as he had read a deposit book and an enrollment book and most of what he knew.
 
