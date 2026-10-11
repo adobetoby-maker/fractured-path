@@ -96,7 +96,7 @@ He laid it back under the stone himself. He set the corner on its own line of du
 
 "I know."
 
-It was all either of them said about it. There was a fence on the oak, four slips along: the upper inn's paddock, in sight of the ferry, three days of posts and rails at five marks, and work that a person with a bad hip could do sitting. Teague drew its tack and held it out, and Pike wrote his name to it before he shut the book and tucked it under what was left of his arm.
+It was all either of them said about it. There was a fence on the oak, four slips along: the axe-head hold's longer fence on the east road, forty marks, HOLD. Teague drew its tack and held it out, and Pike wrote his name to it before he shut the book and tucked it under what was left of his arm.
 
 Teague stood a breath longer in front of two slips with five names on each.
 

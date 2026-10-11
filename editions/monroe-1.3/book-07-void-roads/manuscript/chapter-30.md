@@ -162,7 +162,7 @@ She had said it lightly, with her hands on the tenth sheet. Then she seemed to h
 
 ---
 
-Karis finished the eleventh sheet with the sun a hand lower than he had measured it. The tenth had torn under her pencil, and she had done it over from the first stroke; her quarter of an hour had run to three.
+Karis finished the eleventh sheet at the quarter-hour.
 
 She numbered the last corner and rolled the sheet, and for once she did not stop to look at what she had got. Brom had set the box at the foot of the tallest stone, on the eastern side, an hour ago, to keep ten sheets of paper out of the north wind. He knelt there now with his back to it and reached behind him for the strap, and Cael went to steady the weight onto his shoulders, since that was a thing that could be done with one arm.
 
@@ -216,7 +216,7 @@ They all were. He saw their heads turn, one after another, across twenty-six str
 
 Then they looked at the sun.
 
-It was on the ridge. He had measured two hands under it, and given away a quarter of an hour, and let the quarter run to three; and the lower rim of it was touching the hills now, red and flattened, and going. The shadows of the eleven stones had run out across the floor and joined. Between them, where the last light struck it level, the grey had begun to shine.
+It was on the ridge. He had measured two hands under it and spent the quarter of an hour he had given away; now the lower rim of it was touching the hills, red and flattened, and going. The shadows of the eleven stones had run out across the floor and joined. Between them, where the last light struck it level, the grey had begun to shine.
 
 Then four of them looked at Oryn.
 
