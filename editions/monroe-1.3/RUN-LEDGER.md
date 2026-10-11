@@ -339,3 +339,4 @@ Append-only. One line per event. The orchestrator writes this; seats do not.
 - 2026-10-11 01:45 MDT — Ledger AFTER MOVEMENT 6 appended (reveal, Kindling mechanics, seal terms, clean door). B6 M7 (ch41–47) compiled; Opus author (claude-opus-5-5) launched, no-source method, #45.
 - 2026-10-11 02:00 MDT — B6 M6 repair r1 landed (claude-opus-5-5; ch38 trigger, ch40 headcount, 5 chains, ~240 words of echoes; 32,267 words; overlap 0/14, gates 0, probe 2%/14%). Sol recheck r1 launched.
 - 2026-10-11 02:20 MDT — B6 M6 (ch35–40) CLOSED after one repair round. Sol recheck r1: CLOSE WITH LINE FIXES, 1 applied by coordinator (claude-opus-5-5). Author claude-opus-5-5 (no-source draft + r1).
+- 2026-10-11 02:35 MDT — B6 ch35–40 published (boundary-universe 59cf21f, build-gated, clean worktree). Live: ch1–40 byte-identical; ch41 404. Text/reading only; no audio.
