@@ -894,3 +894,92 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **Hesk's satchel (flag):** brown instrument leather; cross-body strap; filed brass buckle with a bevel; a stitched book pocket that fits Hesk's book to a hair.
 
 **Movement 5 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — all six tracked passages resolved; three line fixes applied by the coordinator (ch30 listening; ch32 hand continuity; ch33 abbreviation). First movement to close after a single repair round. ~35,950 words. Overlap 0/11, gates 0, probe 1%/11%. Where the author end-state above gives the Storm resettlings in another order, the order above governs.
+
+
+## AFTER MOVEMENT 6 — chapters 35–40 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+
+**Coordinator rulings (override the author's end-state below):**
+- THE RESERVED REVEAL (source Ch15) is now on the page: Seln's cache laid out in Karis's reading room on the morning of day 88; Cael tells Seln the mechanism end to end with the circle present; "You kept my file too, then."; Seln's limit — "you may say it to me twice more in your life".
+- KINDLING MECHANICS (Sol reserved-truths audit PASS vs B7/B8): Kindling is the person's own Arbiter waking and a brass plate lighting; the station records hold the keeper's frame reading and margin; the orders correct what is entered on the registry; Karis reads Cael's eleven seconds as the corrections function failing safe and the bracketed word as what was written over the old name. The older word spoken once, by Karis (ch39).
+- SELN'S SEAL TERMS (as amended by the audit for B7's witness/exposure logic): while Shadow's use can be seen by anyone who could carry the seeing west, it stays sealed; the debt is closed; the seal stays on Seln's new terms.
+- The clean door (PROVISIONAL): the code plus the house's old enrollment book ("Resigned in good standing"); day 75 → day 115 (the forty-day trigger as fixed in r1); Seln's own door "a different shape". Lira: "we don't run, we walk."
+- Anchor perception (for now): sure to about 10 ft, faint at 12, nothing at 14; a held door is never asked about; perception practice only — nothing deployed.
+- The rule said by all five; Cael "Nothing about me", Seln "Nothing about the boy"; Seln's hand last.
+- Vastin's window (ch40, ~1,850): in the borrowed office; "No. I am not with anyone."; he tells the junior aloud to continue observation, files nothing, writes nothing. "Four young people and a man at a window."
+- The day-45 Velmere letter still sealed in Brom's left pocket (for M7).
+- Length ~32,500 (≈105% of budget, #45). Book 6 ~186k after six movements.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names; feet and yards; Halcenvane weekdays. **Day 88 Fourth-day:** Lira's strapping off (morning); the case opened in the reading room after supper (five arrivals a quarter apart, Cael fourth, Seln on the eighth bell); the mechanism told to Seln; the seal's grounds revised. **Day 89 Fifth-day:** the counter; Brom's sling off at noon; Lira's question on the north wall at dusk. **Day 90 Sixth-day:** Rooke's "Not yet." **Day 91 Seventh-day:** the Greyvane leaves (Bracken, noon); the enrollment book lent; the clean door found that night. **Day 92 First-day:** the enrollment book returned before the second bell; the honest floor, perception only, after the tenth bell. **Day 93 Second-day:** the four findings. **Day 94 Third-day:** Vastin proposed; five hands. **Day 95 Fourth-day:** Seln reads the closures. **Day 96 Fifth-day:** the note left at the inn on the wharf. **Day 98 Seventh-day:** the borrowed office, the second bell after noon; Vastin eleven minutes early (the Ostrand station's inspection that morning). **About day 103:** Vastin at his desk (the "fifth morning after", having walked six river stations in four days). The *fled* default would enter on day 115 if Cael left. The midyear recess is ahead; not dated. Brom's panel and the ruling share the year's last Fifth-day.
+
+**Bodies.**
+- **Cael:** ribs called mended about day 90 (a week before day 98); forearm healing, no dressing by the honest floor. Anchor: perception only on day 92; **nothing laid, nothing fixed**; one near-fixing stopped by naming at twelve feet (Brom counted "One"); a dull ache behind the eyes after. Shadow: sealed, rent from waking.
+- **Lira:** right ankle out of strapping day 88; walks carefully; still favours the left (the sense reads it); Rooke's "Not yet" on day 90; off frames and floor. Left arm carried close from habit only.
+- **Brom:** sling off day 89; "a week of nothing heavy, nothing over my head"; raises the right hand to vote. Day-45 Velmere letter **still sealed** in the left inside pocket (his hand rests on it at the finding).
+- **Karis:** right hand healed, the fingers a shade paler from tip to second knuckle, steady on a pen; eight smallest ignitions with the **left** hand on day 92, *Not an instance.*
+- **Seln, Ephram:** unchanged.
+
+**Knowledge.**
+- **The revelation's reach: six** — Cael, Lira, Brom, Karis, Seln (day 88) and **Vastin** (day 98, the cache only). Not filed, published or used.
+- **The circle and Seln:** the cache's contents; Seln's finding; Karis's four findings and the limit (reach not strength; the flag as the function failing safe; two hundred years; the leaf the same age as the first memorandum; the reading older and unattributed; the older word's three steps; the bracketed word as what was written where the old name was; the anomaly not touched; re-evaluation as the delivery); the clean door (*resigned in good standing*, provisional).
+- **Seln:** now knows **the mechanism, end to end, and the Shadow acquisition and the seal's reason** (§9). He did not see the reach on the road and was not told anything of it beyond the telling.
+- **Vastin:** the cache, read whole; **nothing about Cael**, no mechanism, nothing of Seln's reports or their emptiness; he recognised the copier's trade from his stance and wrote nothing down. He told his junior "Continue observation" and nothing else.
+- **Ilsev, Havel:** never told (the eleven-word rule).
+- **Ephram, Bracken, Rooke, Withrow, the house's counsel:** nothing of the cache. Bracken lent a volume "for a citation".
+- Nothing about a maker, will or purpose; the word *falsification* never said; the older word said once (ch39); no Tide practitioner.
+
+**Resources.**
+- **The case:** on Karis's reading-room shelf, second from the floor, between two of her grey Greyvane boxes; **two keys** (the room's on Karis's cord; the case's in Seln's waistcoat). Karis's four finding slips are in the lid's pocket beside the leaf. The fifth slip (one word, written on day 88 before reading) in Karis's coat, to be burned. The case went to Ostrand and back on day 98 inside Seln's post satchel.
+- **Hesk's book (in the satchel):** day 88's entry (*does not go into a book*); the Shadow line struck through and corrected (*Sealed, on his terms*), initialled; the seal's revision entry; the perception rule initialled by four with *A held door isn't asked about…*; *Not this either. Still open.* Daeva's letter still inside the back board.
+- **Karis's grey notebook:** *Greyvane: the founders' hands* filled (*Received… Nine leaves… Paid.*) and struck; the clean-door sheet (*for now, and provisionally*); the perception figures (*10*, *For now*, *Eight, left, smallest. Not an instance.*).
+- **The Greyvane leaves** (nine seal impressions of known years with the founders' signatures; the budget's first spend; under the archive's seal).
+- **The enrollment book** (old volume) back on Bracken's counter day 92.
+- Brom: two boxes roped under his bed. Lira: the east hall key.
+
+**Fragments and progression.**
+- **Eight confirmed**, unchanged; the anomaly checked against the cache and left open.
+- **Deployments: none.** Anchor perception only (no point laid; the twelve-foot near-fixing stopped by naming). Shadow sealed. No Storm lane, no burst, no read on a floor in M6.
+- Anchor perception (new, flag below): rests and lines; a landing read a breath early; a held thing not asked about; two fixed points and a line read as a threshold; perception range ~10 ft sure, faint at 12, none at 14, *for now*.
+
+**Relationships (on the page).**
+- **Seln:** "That is my sentence"; the finding said once; "Estimating felt like filing"; the corridor; "Nothing anybody would have noticed"; the mother's ledger; two keys; the four questions; "twice more"; "I knew who on the third"; **"You kept my file too, then."**; the terms; "Mm" and the cup; "My door is a different shape"; worst version (the knock); the last hand; the note; "He was not managing us."
+- **Lira:** the crutch left; "Don't help me"; reads the father's letter; "Nine weeks of nothing"; asks Seln what pleasant cost; "We all held the coat"; the leaving question; "Not yet" taken; naming stairs and doors; caught favouring a foot; *bill*; "They *found* it"; "It's not evidence. It's a map."; "Are you with us?"
+- **Brom:** reads the orders; "That's a form"; hand on the sealed letter; "How many?"; the kettle; the two boxes "since the gate"; "Corridor"; the held door, "doorstop"; counted "One" and stopped; first hand up.
+- **Karis:** the glue; the four findings; afraid accurately; gloves; one word face down; "I don't guess past paper"; the clean door; the left-hand ignitions; the eleven words; "the middle of the story"; it can't be filed; the rule for Vastin.
+- **Vastin:** the line; three refusals; "I am not with anyone"; the junior; nothing written.
+- **Bracken:** the leaves up four flights; "I don't ask what for." **Rooke:** "Not yet." **Ephram:** "I don't like holes"; at the frames with Brom.
+
+**Proceedings.** No sitting in M6. No instrument served. File designations unchanged. **No third move by the faction**; Seln reads the silence as a schedule. The clean door (PROVISIONAL): *fled* enters forty days after the fourth sitting's close (day 115) if Cael is absent; the house's charter takes a line for harbouring; three associates' files take a note (four files with his); after a ruling and before a revocation's effect, withdrawal is entered *resigned in good standing*. Vastin will decline to certify the re-evaluation protocol when asked (he says so in Ostrand; M7 enters the declining).
+
+**Open threads.**
+- **Opened:** the clean door (one day, only if they lose); Seln's terms for the seal; Vastin's declining to come; the fifth slip to burn; the junior told "Continue observation"; Lira's "map".
+- **Advanced:** the corridor ("walk… perfectly"); Brom's boxes; Lira's ankle (not yet); Anchor (perception only); Vastin (instrument no longer, not an ally).
+- **Closed:** the case opened; Series Secret #2 discharged; the asymmetry debt (the mechanism and the seal told); Karis's "older strata" (paid, to the limit); the stratum line's question mark; Karis's three blank Greyvane lines.
+- **Plants:** the Book 9 plants placed — the leaf's "appended to… not the reading" and the millwright's race; Lira's "They *found* it… whatever's under it"; Vastin's "runs on the thing it accuses". The eleven seconds at Denvash as the function failing (for "Thanks for the eleven seconds", M9). No maker, will or purpose.
+
+**Prose vs plan differences.**
+- (a) **The room** is Karis's reading room at the top of the library (M5's page), not "a stone room two floors below the library" (packet). Owner flag 1.
+- (b) The case is gone from its shelf on day 88's morning (M5 put it back on day 81); the packet's "down for days" is not used.
+- (c) The three routes are habit, not instruction (Seln: "Come the way you always come").
+- (d) The debt is paid the same night as the cache, with the circle present (they shared the seal).
+- (e) The clean door is found from the code and the house's old enrollment book, borrowed from Bracken "for a citation".
+- (f) Vastin is brought to Ostrand by his own yearly river inspection (B5 ch50's station inspection), and summoned by an unsigned note quoting his Norhold note.
+- (g) The Vastin window adds the junior at the door, told "Continue observation" — spoken, not written; he files nothing and writes nothing.
+- (h) Cutaway: Vastin ~1,850 words (packet ~2k). No other cutaway (M6 ~94% Cael).
+
+## New canon minted (flag where marked)
+
+- **The cache (flag):** forty pairs (a copied station Kindling record with the keeper's frame reading and margin, and a clipped *Order of reclassification at evaluation* — *Per corrective classification at Kindling evaluation: enter …. Margin reading not to be entered. Observe nine weeks following entry.* — with a back slip *Observed nine weeks. Nothing to report.*); twenty-three field reports stamped *Read against file. Enter at file.* (some with *Continue observation*; one *Noted, and I do not like it.*); nineteen printed memoranda, *Memorandum to keepers of stations and to clerks of entry. Corrective classification at Kindling evaluation.*, three sentences, reissued about every ten years, seventy-one signatures, none twice; **the leaf** (ink, no seal, grey-brown paper): *Of the advisory corrections function. The function is appended to the reading and is not the reading. It does not alter what the reading shows. It advises what is to be entered, and the entry is made as advised. It is to be maintained, and its maintenance is the office's charge.*
+- **The father's letter and the clerk's four lines (flag; texts mine, ch35).**
+- **Seln's history (flag):** the fourth press of a district seat's top-floor records room; five weeks of night copying by one lamp on the floor; the memoranda were spares; the leaf the only original; the case bought later from a surveyors' case-maker; the green-distempered station corridor a year on; his mother kept a grain factor's books on a river quay for twenty years; he copied them for a copper a page.
+- **The seal's terms (flag):** sealed while Seln's name is on any roll of the service; afterward Cael's, unasked. (Consistent with B7 owning any use past the Line.)
+- **Karis's dating (flag):** the first memorandum and the leaf about two hundred years old (Greyvane's nine renewal seals; the seventh issue between Greyvane's fourth and fifth renewals); the first three memoranda close the door, remove the exit, delete the name, each citing an article of the standardization directive.
+- **The eleven seconds (flag):** read by Karis as the function failing to find a column and failing safe; the bracketed word as what was written where the old name was (builds on B3 ch51 / B4 ch50).
+- **The clean door (flag, PROVISIONAL):** the code's sections as stated above; the old enrollment book's entry *Withdrawn in the week following the district seat's ruling, before the date of its effect. Resigned in good standing.* (a fourth-year, two registrars ago).
+- **Anchor perception (flag):** rests and lines; a foot's landing read a breath early; a door with a hand on it is not asked about; two fixed points and a line read as a threshold; **perception range** sure to ~10 ft, faint at 12, none at 14 (*for now*); naming stops a near-fixing; the bill a dull ache behind the eyes. **Reach, rate and price of deployment still blank.**
+- **Karis's smallest ignitions:** pin-head flames that sit on bare wood without scorching; eight with the left hand, not logged as a margin instance.
+- **The borrowed office (flag):** the protected description plus: brown door with empty hooks; one tall small-paned window over a lightwell to the wool exchange's green cupola; six odd chairs; a cold iron stove; ledger shapes in the dust (eleven); three pale squares; a landing clock on the second landing; a singer on the floor above; the occupant on circuit in the hill stations six weeks; the keeper's book of reasons.
+- **Vastin (flag):** the river inspection (six stations in four days; one frame shimmed and so certified); the fourth station's keeper and his drawer of sheets with margins; his lens on a cord; he will decline to certify.
+- **Minor:** the iron stair's loose ninth tread; the wing's station-closure board; Compact officers lie at the inn on the wharf.
