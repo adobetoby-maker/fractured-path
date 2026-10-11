@@ -6,6 +6,8 @@
 - Chapters: 48–54 (7) · Budget: ~36,000 words
 - Owner names: canon names only. Unnamed: the counsel, the presiding seal, the correspondents, the girl and her mother at the district station, the district officer, Rooke's clerk.
 
+> **[Coordinator note 2026-10-11, after M7's Sol plan audit — governs over this packet's dates.]** The ratified calendar is in STATE_LEDGER "AFTER MOVEMENT 7": sittings 6–11 days 117/124/138/145/152/166; the last month opens day 176; closings days 187 and 194; ruling and Brom's panel DAY 201; council and last bout DAY 202 (ruling and Brom's panel DAY 201). The Velmere envelope is the day-45 letter, sealed, on Brom's table since day 173. GAULT is Halcenvane's evaluator of record; VASTIN is the Archmarshal/certifying office — the protected minute line stays verbatim but the prose must not relabel Vastin. Seln KNOWS (M6); "twice more" stands at two. Draft WITHOUT opening the source chapters (events from this packet, BOOK_MAP §3–§4, §8, §9 and the ledger).
+
 **Read before drafting:** source `chapter-18.md`, `chapter-19.md`, `chapter-20.md`. Context: `BOOK_MAP.md` §§2, 4a (the last bout), 6 (Havel, Lira), 7 (M8 row), 8, 11 (#4–6, #12–13); `STATE_LEDGER.md` (after M7).
 
 ## Where we enter

@@ -6,6 +6,8 @@
 - Chapters: 55–60 (6) · Budget: ~30,000 words
 - Owner names: canon names only. Unnamed: the assistant, the seminar instructor, the district officer, the porters and stableman, the morning clerk, the office supervisor, the waystation keeper, the last watcher, the post-rider, the faceless clerk of the closing window.
 
+> **[Coordinator note 2026-10-11, after M7's Sol plan audit — governs over this packet's dates.]** The ratified calendar is in STATE_LEDGER "AFTER MOVEMENT 7": sittings 6–11 days 117/124/138/145/152/166; the last month opens day 176; closings days 187 and 194; ruling and Brom's panel DAY 201; M9 enters DAY 203 (the morning after the last bout); the academic year closes DAY 207; the Line is crossed after it. The Velmere envelope is the day-45 letter, sealed, on Brom's table since day 173. GAULT is Halcenvane's evaluator of record; VASTIN is the Archmarshal/certifying office — the protected minute line stays verbatim but the prose must not relabel Vastin. Seln KNOWS (M6); "twice more" stands at two. Draft WITHOUT opening the source chapters (events from this packet, BOOK_MAP §3–§4, §8, §9 and the ledger).
+
 **Read before drafting:** source `chapter-21.md` through `chapter-24.md`; Book 7 `chapter-01.md` (the hand-off). Context: `BOOK_MAP.md` §§1 (ending), 2, 6 (Seln, Lira, Vastin, faceless windows), 7 (M9 row), 8, 9, 11 (#2, #8, #9, #15); `STATE_LEDGER.md` (after M8).
 
 ## Where we enter

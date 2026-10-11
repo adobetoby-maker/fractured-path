@@ -985,3 +985,167 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **Minor:** the iron stair's loose ninth tread; the wing's station-closure board; Compact officers lie at the inn on the wharf.
 
 **Movement 6 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch38 log entry `B.'s hand.` → `Brom's hand.`). The clean door's forty-day default counts from the close of the fourth sitting (the one that put the record): day 75 → day 115. Reserved-truths amendments confirmed present. ~32,270 words. Overlap 0/14, gates 0, probe 2%/14%.
+
+
+## AFTER MOVEMENT 7 — chapters 41–47 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+
+**Coordinator rulings (override the author's end-state below):**
+- Sol plan audit: M7 RATIFIED AS WRITTEN. Sol source distance: 0 tracked passages.
+- RATIFIED CALENDAR (binding for M8–M9). Coordinator choice for the finish: the council and the last bout DAY 202; M9 entry DAY 203; the academic year closes DAY 207; the Registry Line is crossed after day 207.
+
+| Day(s) | Halcenvane day | Ratified event / consequence |
+|---:|---|---|
+| 8 | First-day | Joint service. The nine-week inventory clock begins. |
+| 40 | Fifth-day | First sitting. |
+| 47 | Fifth-day | Second sitting. |
+| 54 | Fifth-day | Third sitting / preliminary. |
+| 70 | Seventh-day | Last day of the nine-week inventory clock when day 8 is counted as its first day. The day-71 meet therefore does not move that clock. |
+| 71 | First-day | Confluence meet; production order. |
+| 75 | Fifth-day | Fourth sitting. The forty-day absence/default clock begins at its close. |
+| 76 | Sixth-day | Escort order at the gate. |
+| 82 | Fifth-day | Fifth sitting. |
+| 98 | Seventh-day | Vastin in the borrowed Ostrand office; M6 closes / M7 enters. |
+| 99–112 | First-day through Seventh-day, twice | Midyear recess. |
+| 113 | First-day | Term after the recess opens. |
+| 115 | Third-day | The day-75 absence/default would enter if Cael had left. He has not; the proceeding and the clean-door strategy remain intact. |
+| 117 | Fifth-day | Sixth sitting. |
+| 124 | Fifth-day | Seventh sitting. |
+| 138 | Fifth-day | Eighth sitting; Gault's notes, including the day-76 leaf. |
+| 145 | Fifth-day | Ninth sitting. |
+| 152 | Fifth-day | Tenth sitting; certification request renewed and minuted. |
+| about 155 | Second-day | Vastin's refusal leaves by the noon dispatch. This need not be assigned a harder date on the page. |
+| 166 | Fifth-day | Eleventh sitting; merits conclude; closings and ruling set down. |
+| 173 | Fifth-day | Brom moves the day-45 envelope from his pocket to his table, exactly twenty-eight days before the ruling. |
+| 176 | First-day | The academic year's last month opens. |
+| 187 | Fifth-day | First closing sitting: the month's second Fifth-day. |
+| 194 | Fifth-day | Second closing sitting: the month's third Fifth-day. |
+| 201 | Fifth-day | Ruling on the month's last Fifth-day; Brom's panel on the same docket day, at the second bell. |
+| 201 or 202 | Fifth-day night or Sixth-day | M8's council and last bout. M8 must choose one of these two dates: a later bout would push the year through day 208 and make day 201 cease to be the last Fifth-day. Day 202 gives the ruling, council, and bout separate beats and is the cleaner inheritance. |
+| bout + 1 | Sixth-day (if bout 201) or Seventh-day (if bout 202) | M9 entry: the morning after the last bout. |
+| M9 entry + 4 | day 206 or 207 | Academic year closes. The Registry Line must be crossed after this day. Preferred clean sequence: bout 202, M9 entry 203, year close 207. |
+
+- M8 CAUTION (plan audit): the protected Tier B minute says "declined by the evaluator of record". GAULT is Halcenvane's evaluator of record; VASTIN is the Archmarshal / certifying office to whom the certification request went (M7 ch46: *The Archmarshal declines to certify.*). M8 uses the protected words verbatim in the minute but must NOT relabel Vastin as Halcenvane's evaluator of record in its prose.
+- The Velmere envelope is the day-45 letter, moved from Brom's left pocket to his table on day 173, still sealed: "I'm not opening it before the panel and I'm not opening it before the ruling."
+- Resident enrollees over the recess: FORTY-ONE (Bracken). Road-craft: FOUR trainees, four door approaches; water at forty paces; two watches of four; Brom "I check."
+- Lira: lost the return bout to the Current girl two flags to one (asked the mended foot for leave); beat the lake house's Blade two touches to one; the advancement evaluation posted for after the ruling; the night spar on a closed floor (the suite past the Halcenvane rates shown to Lira alone; only costs logged).
+- Sittings: the sixth (Jent concedes three points; one production order); the eighth (Gault's notes produced entire, including the day-76 gate leaf; Jent disclaims knowledge for the record); the tenth (certification request renewed and minuted); the eleventh (leave for Karis's closing "to be considered at the close"). Bracken: "expect fourteen" = eleven merits, two closings, one ruling.
+- Havel: six sheets, no seventh; noticed *until relieved*. Withrow answered thirty-four chancellors' letters herself; four advised *release*.
+- Seln: the mechanism not said to him again — the "twice more" count unchanged; his five beans. Nobody leaves, resigns or votes; Anchor idle; Shadow sealed.
+- Three roped boxes at the records hall's north end, unmentioned. Ends "Next: Ostrand" and the changing of the coats.
+- Length ~35,000 (≈103%). Book 6 ~221k after seven movements.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names; feet, yards and paces; Halcenvane weekdays. **Working assumption (flag 1):** the midyear recess is days 99–112; the term after it opens day 113. Day 98 Seventh-day: back from Ostrand; the last carts. Day 99: the empty hill. Day 101: Hesk's letter. Day 102: the argument. Day 105: the lodge; the silence read. Day 106: Lira "Now." Day 107: the orchard. Day 109: the night road. Day 110: the bout posted. **Day 111 Sixth-day: the return bout, lost.** Day 113: term. **Day 117: sixth sitting.** Day 121: Withrow's letters. Day 124: seventh sitting (Havel's window only). Day 125: Brom's schedule. **Day 128 Second-day: Lira's win.** Day 129: Rooke's slate; the night spar. **Day 138: eighth sitting.** Day 145: ninth (log). Day 151 Fourth-day: the year's last supervised bout. Day 152: tenth sitting (the certification request renewed; log). About day 155: Vastin declines. **Day 166: eleventh sitting — merits concluded; two closing sittings and the ruling set down.** **Day 173 Fifth-day: the envelope squared.** **Day 176 First-day: the year's last month opens.** On Bracken's slate: closing sittings on the month's second and third Fifth-days (days 187 and 194 on this count); **the ruling and Brom's panel on its last Fifth-day (day 201), the panel at the second bell.** The page itself states no day numbers after the seventy-sixth (Gault's leaf) and the hundred and seventeenth (Havel).
+
+**Bodies.**
+- **Cael:** unhurt. The night spar's bills (day 129): right hip crest to knee from the sixth burst on boards; shoulder, three pushes at load; one lane, ten counts; a naming mid-fight; behind the eyes "till morning". Day 151: a knee wrenched on purpose, as priced. Anchor idle by naming (asks at a gateway in the dark, at Lira's planted feet, at little else by the last month). Shadow sealed on Seln's terms; one drift on the night road, held.
+- **Lira:** right ankle sound; the fault was asking it on landing (found day 111); cured by drilling — lands on either foot by choice from day 128; Rooke calls the foot late. Left arm carried close from habit only. A lath touch on the left forearm (day 128), no injury.
+- **Brom:** left shoulder takes its whole share under the short frame from day 125 ("The left's back"). Red bars on the forearms from the iron; nothing carried.
+- **Karis:** unchanged; no ignition in M7.
+- **Seln, Ephram, Withrow, Bracken, Gault, Rooke:** unchanged. Havel's right hand aches at the web of the thumb.
+
+**Knowledge.**
+- **The revelation's reach: six**, unchanged. Not filed, published or used. The cache is on Karis's shelf under two keys; it was not opened on the page in M7.
+- **The mechanism was not said to Seln** in M7 (the "twice more" limit stands at two).
+- **Cael and the circle:** the corridor's schedule (two closing sittings and a ruling; leave "to be considered at the close"); that the evaluation seat renewed its request for the Archmarshal's certificate (they know what he said he would write; they do not know he has written it); Brom's schedule of evidence; the advancement evaluation's date (the first sitting after the year's close).
+- **Cael alone:** Withrow's thirty-four letters and the four that advise release; that Ephram wrote something on the back of his chart (not what); that three boxes stand on the deposit shelf (unmentioned; struck out of his own log).
+- **Lira:** what Cael is with the lid off, privately; she has told nobody and will not.
+- **Seln:** unchanged; taught the road openly; said "the fifth" and called it arithmetic.
+- **Vastin:** declined in one line; nothing else known or done. He knows the seat may proceed without him.
+- **Havel:** compared the two leaves of schedule two; the designation's line agreed; made nothing of it; **six sheets, no seventh**; noticed the words *until relieved*. Learned nothing of the truth.
+- **Ilsev:** wrote something small at the foot of a leaf when Gault's gate note was read; never told anything.
+- **Ephram:** ninety-eight entries and two holes, none over the line; has decided something privately and written it down; asks nothing.
+- **Withrow, Bracken, Rooke, Gault, the house's counsel, the assistant:** nothing of the cache. Bracken entered a deposit "to the depositor, or to her order" and did not ask. Rooke said "It is." and nothing else.
+- **Jent:** no knowledge of the gate order, for the minute; otherwise unreadable.
+
+**Resources.**
+- **Hesk's book (in the satchel, on a new strap cut by Brom; Hesk's buckle kept):** the recess entries; the argument is not logged as an argument; the packet line on the silence; the spar's price and bill (no exchanges); the term's log; *Not deciding… entering it as one*; the last-month inventory with *In the records hall* struck through and *Not mine to enter.* Hesk's recess letter and the eighteen note in the satchel pocket against the book's back board; Daeva's letter inside the back board.
+- **Karis:** thirty slips for a closing (eleven fleshed by day 159); the grey notebook (*forty paces — of whose?*; *two of four*; *on a person*); four oilcloth bundles become **three deal boxes, roped, on the deposit shelf at the records hall's north end** (Bracken's tags one, two, three; deposit book: *Depositor: K. Dellenmoor. Contents: the depositor's own papers. To be released to the depositor, or to her order.*). The case, unwrapped, still on her reading-room shelf.
+- **Brom:** on his table under the window, the summons, both dockets and the schedule of evidence under a whetstone; **the day-45 Velmere letter squared beside them, seal up, unopened**; two boxes roped under the bed; the plaque face down. Right pocket: the slip *Both.*
+- **Lira:** the carter's book in her coat (pencil; *FLOORS*, *PEOPLE*, *ME*); the east hall's key; her program sheet with four losses (three *Not fought*, one fought) and one win under the house's panel (28 to 26).
+- **Ephram:** the chart, closed with a ruled line, something written on the back of the third sheet, in the captain's file.
+- **The assistant:** a note upon the struck heading, under her own name, lodged with the registrar and annexed to the motion.
+- **Withrow:** thirty-four answers in her own hand.
+- **Seln:** the weekly returns' bundle, "as thick as his hand is wide".
+- **Havel:** six sheets between the second manual and the third.
+
+**Fragments and progression.**
+- **Eight confirmed**, unchanged; the still place uncounted and untouched.
+- **Deployments:** public — the band in wing three (day 151: one small burst, the give shut, the read; 23⅔; never past the Halcenvane ceiling). Private, two people, a closed floor (day 129) — Wind to seven on boards, the push at fighting load ×3, the give (three blows), one spark, one lane (ten counts), the read at depth. **Anchor: none** (idle; two namings). **Shadow: none** (one drift held). The honest floor once in the term, perception only (ten feet, faint at twelve).
+- **The provision's supervised hours for the year are complete** on day 151; there is no further wing-three bout this year.
+- **Lira:** program trial lost two flags to one (day 111); exhibition won two touches to one, panel 28 to 26 (day 128). The advancement evaluation falls at the first sitting after the year's close.
+- **Brom:** the panel will read the record, the house's sheets (supplied, four pounds nine ounces) and a sigil-frame reading under load, on the year's last Fifth-day at the second bell.
+
+**Relationships (on the page).**
+- **Lira:** "Six"; "as if it were a ladder"; crosses a floor arguing; "Don't come"; "Next time, say. Even if I bite."; "On the right"; "That's after the ruling."; "Don't be kind."; "I know you liked it."; "It's mine."; "*Door. It's held.*"
+- **Karis:** "Then what am I writing?"; "I'll write it as if it were ground. That's my cost."; "Say it as if it mattered."; the floor and the cord; "Files change"; "I can't promise you the room" taken with a nod; the bread passed.
+- **Brom:** the docket he can't read; "Can it be taught?"; the gate's top hinge; "Me."; "I check."; "The left's back" earned; the envelope; "It's the kindest thing anybody's done for me on this hill."; the strap.
+- **Seln:** "Mm"; "You should not."; "Do not take me for a pattern."; written down as what he is doing; five beans; "It is the first time in a good many years that anybody has come back up a road in the dark to look for me."
+- **Ephram:** stays for the frames; the plates in order of weight; a ruled line; "I'm not asking… He didn't, did he."
+- **Withrow:** "I would rather you had the right figure under mine than a guess."
+- **Bracken:** *Nothing sealed*; "fourteen"; the same Fifth-day, "because nobody else was going to"; "I ask when, not why."
+- **Rooke:** "Now."; "Your head hasn't heard."; two words on a card; "It is."
+- **Gault:** "I have written that down."
+- **The house's counsel:** "You look as if you'd expected it since breakfast"; "Sit up straight tomorrow. It's nearly the last time you'll have to."
+- **Jent:** "Your table was better than ours."; "I would rather hear her than read her."
+- **Hesk:** "Eat something green."
+- **The assistant:** an unmarked sheet. **The Current girl:** "I know it's the foot." **The gardener:** "He's counting my windows."
+
+**Proceedings.**
+- **Sixth sitting (day 117):** the petitioner adopts the respondent's supplemental table of renewals, withdraws the ninth line of schedule two and re-tenders the schedule, and accepts the evaluator of record in every particular. Production order: the evaluator of record's notes for the year, entire, at the eighth sitting. (Ordinary paper.)
+- **Seventh (day 124):** the petitioner accepts the tournament office's record; the respondent's second supplemental upon how that record was kept; a registrar's correction slip.
+- **Eighth (day 138):** Gault's notes produced entire (seventeen panel notes, five others, one of them the seventy-sixth day); received. The petitioner disclaims knowledge of the gate order and relies on none of the volume. A further supplemental upon the recorded invocations of the integrity provisions (nineteen leaves and a table).
+- **Ninth (day 145):** the remedy argued. **Tenth (day 152):** the evaluation seat renews its request to the Archmarshal's office for certification of the protocol; minuted.
+- **The Archmarshal's answer (about day 155):** *The Archmarshal declines to certify.* Sent by the noon dispatch; not yet before the seat on the page.
+- **Eleventh (day 166):** the house moves under the hearing provision's second paragraph that the advocate of record be heard at the close; no objection; **"The seat will consider the motion at the close."** Merits concluded. Two closing sittings in the year's last month, a week apart; the ruling on its last Fifth-day; hours to be notified.
+- File designations unchanged. **No instrument served beyond the production order. No third move by the faction.** Seln files a true, empty return every week.
+
+**Open threads.**
+- **Opened:** leave for Karis's closing (undecided until the close); the declined certificate in transit; Ephram's line on the back of his chart; the three boxes and *or to her order*; Havel's *until relieved*; the advancement evaluation's date; Lira's silence about the spar; "early".
+- **Advanced:** the corridor (eleven sittings attended; the clean door still one day wide); Lira's ladder (a loss, a win, the date named); Brom's review (schedule; the frame); the Velmere letter (on the table, sealed); Karis's field habits and the assistant's standing; Seln's road-craft and "the fifth"; Withrow's cost; the watchers (four, senior, waiting).
+- **Closed:** the merits; the provision's supervised hours; the recess; Lira's ankle.
+- **Plants:** none new toward Books 8–9. Vastin's "a thing usually present was not there" prepares M8's entry of the declining; Havel's *until relieved* prepares his transfer request.
+
+**Prose vs plan differences.**
+- (a) **The envelope** is the day-45 letter moved from Brom's pocket to his table on day 173 (coordinator ruling); no new envelope arrives. The packet's "arrives about four weeks before the ruling" is rendered as "squared on the table four weeks to the day before it".
+- (b) **Seln's reading of the silence** was first spoken in ch39; M7 has him read it again at the lodge and the log carries the packet's sentence.
+- (c) **Seln's return** is reported aloud by Seln and seen as a lamp across the court; there is no Seln cutaway in M7 (the plan gives him none).
+- (d) **The return bout is in Cael's POV** (from the door) and **Lira's window follows it** the same night; the plan's "Lira (the return bout and the ankle)" window is the night floor and the book.
+- (e) **Havel's window** is given its own event (the two leaves of schedule two) rather than only exhibits logged.
+- (f) **The night spar** falls on the night of Rooke's slate (day 129), the day after the win.
+- (g) **"A last wing-three bout"** is the year's last supervised session under the provision (the hours complete).
+- (h) **The orchard, the gardener and the farm track** are new ground on the bluff's south slope.
+- (i) **Ephram stays on the hill** for the recess.
+
+## New canon minted (flag where marked)
+
+- **The recess (flag):** two weeks; about forty enrollees stay by slip (*Remaining in residence. Reason:*); the program runs through it; no wing three; the records hall "keeps no recess".
+- **Hesk's recess letter (text mine, ch41).**
+- **The lodge's road column in recess** and its foot line *Two at the road foot, changed at the bell. Two at the landing.* A tin cup.
+- **The farm (flag):** the bluff's south slope — kitchen gardens, upper and lower orchard, a stream along the bottom hedge to the water meadows, the farm track from the stable passage through the orchard gate to the meadow gate (about four hundred yards), the gardener's cottage (a gate dropped on its top hinge; a dog). **The gardener:** unnamed, thirty years with the house's trees.
+- **Seln's road-craft (flag):** camp forty paces from water, "of the shortest person present" (water covers a voice at forty paces and a foot at ten; things walk to water at night; wet ground); the open approach (down the middle of the track, in daylight, hands seen, stop and be looked at); two watches of four hours, two to a watch, the fifth sleeps through and rotates; oilcloth twice, pencil not ink, nothing written at the bottom of a load, "whatever you would grieve to lose rides on a person"; forty pounds for a day, thirty for thirty days. The night-road drill: hand on the shoulder in front; halts; a head-count by touch.
+- **Brom counts (flag):** "I check." — he counts again when the first count is right.
+- **Rooke's slate** outside the east hall (chalk, wiped with his sleeve), its texts (ch42, ch45); "Now."; the red-book word under Lira's name (unread).
+- **The Current girl in the bout (style, consistent with M3):** learns inside the bout; breaks the glide into pieces; goes and stands where a foot will land.
+- **Lira's fault and cure (flag):** asking the mended foot in the air and stepping to the left; cured by landing on the right until the asking dulls; then landing by choice.
+- **Lira's book (flag):** a carter's stitched book in oilcloth from the chandler by the bridge; pencil in the spine; *FLOORS* (oak six, boards five, slate four, crossways planks, chalk road four), *PEOPLE*, *ME*; begun the night after the dairy.
+- **The merits sittings (flag):** as listed under Proceedings; Jent's three concessions; the re-tendered schedule two; the correction slip; the house's exhibits at 179 after the seventh.
+- **Schedule two's fourteenth line** is the designation written out (its ninth line, on the first renewal, withdrawn). Havel knows the title; nothing follows.
+- **Withrow's letters (flag):** thirty-four from heads of chartered houses since the preliminary — eleven kind, nineteen asking what the house will do, four advising release; one from a friend of twenty years; the lake house among them. All answered in her own hand.
+- **Brom's schedule of evidence (text mine, ch45)** and the district clerk's gloss (the assessors set the load "at what the title was won against, and a little over").
+- **The old frames (flag):** a low stone room behind the stables, once a harness store; the short frame (two uprights, an iron bar in greased slots, two springs, catches; iron plates on pegs). **Iron Skin as seen (flag, minor):** begins at the wrists; the skin stops creasing, a dull grey under a lamp; the load runs through him to the floor.
+- **The lake house's Blade (flag):** unnamed, Iron Rank Five, fair, good-humoured; a lath in a canvas sleeve; commits in three beats (heel, hip, edge) and cannot take a commitment back; lays a line across a path. Exhibition on the Crown yard: three cards (the lake house's instructor, the Mire instructor, the Stone); 28 to 26.
+- **The advancement evaluation's date (flag):** the district seat, Ostrand, the first sitting after the year's close.
+- **The night spar (flag):** private; costs logged, exchanges not; "early" as Lira's word for what he is.
+- **Gault (flag):** evaluator of record eleven times; seventeen panel notes for the year to the eighth sitting and five others; the seventy-sixth day's leaf (text mine, ch46).
+- **Karis's field habits (flag):** bundles in oilcloth with a contents leaf under the first fold; a flat knot in brown waxed cord; timing herself with Hesk's clock; "I've had a table since I was eleven."
+- **The assistant's note (flag):** *a note upon a heading of the code, by an enrollee of the second year*, entered on her own file with the house's stamp and annexed to the house's motion.
+- **The provision's hours (flag):** the wing's sheet *Supervised hours under the provision, the academic year: complete upon this session.*
+- **The Mire third-year (style):** Iron Rank Five; makes the boards feel a hand's depth soft where he looks; Cael's load-read contradicts the foot.
+- **Ephram's chart:** ninety-eight entries, two gaps, a ruled line under the last, something written on the back of the third sheet.
+- **Vastin (flag):** the first notice of certification came in the year's eighth week and was acknowledged in one line; the renewed request's text (mine, ch46); his answer *The Archmarshal declines to certify.*; the code lets a seat proceed on its own authority where a certificate is withheld.
+- **The hearing provision in use (flag):** the motion made at the eleventh sitting; "considered at the close"; if refused, the closing goes in as a written submission (the counsel).
+- **The records hall (flag):** the hall's slate for the house's sittings; the deposit shelf under the north window; the marbled deposit book and its entry.
+- **Bracken's slate text (ch47).**
