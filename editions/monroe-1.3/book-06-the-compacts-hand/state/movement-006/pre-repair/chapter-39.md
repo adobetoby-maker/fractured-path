@@ -1,0 +1,253 @@
+# Chapter 39 — Two Hundred Years
+
+Karis had five nights, and she used all of them, and on the Second-day she said she was ready.
+
+Nobody saw her work; that was the arrangement. The assistant went home at the sixth bell every evening with a story about glue, and believed it, and told Ephram, who told the refectory, so that by the Fourth-day half the hill knew that the researcher at the top of the library was mending a founding volume with something that smelled, and kept away. The lamp burned in the window at its usual height every night and went out at its usual hour. Behind it, at the far end of the long table under the brown-paper shade, Karis sat with the case open and the two keys in the room, Seln's for an hour at a time while he sat silent at the middle of the bench, and laid the whole of it out again, and again, and again, until it would lie in the order she wanted.
+
+Cael went up on the third night only to bring her bread, because Brom said somebody had to and Brom's shoulder did not like the top stair yet. She did not look up when he came in. The forty pairs were not in four rows any longer. They lay in a single long line down the whole of the table, sorted by something he could not see, with a slip of paper on each in her small upright hand. The memoranda stood beside them in nineteen separate piles, one issue to a pile. Every seal on every one of them had a numbered slip tucked under it, and the nine new leaves from Greyvane lay open across the window end in their fresh grey wax. Seln sat at the middle of the bench with his hands flat and watched her. Karis asked Cael one question without looking up, about Denvash, and he answered it standing at her elbow, and Seln said nothing at all.
+
+He put the bread down at her elbow and went away again. The next night, when Karis came down to the east hall with the rest of them, she brought the plate back empty, and he did not know whether she had eaten the bread or Seln had.
+
+On the Second-day after supper they came up as they came up every evening of the year, by their three ways, a few minutes apart. The assistant had gone home singing, and the lamp was in the window.
+
+Karis had put everything away.
+
+The case stood shut between the grey boxes on its shelf. The long table was bare again to its faded green cloth. In the middle of the cloth, under the shaded lamp, lay four slips of paper folded once and numbered on the outside in her hand, one to four, in a row. A little apart from them lay a fifth, face down.
+
+She waited until Seln had looked at the room in his order and come in and sat down, and Brom had lit the kettle's blue flame under the pot, and Lira had got her foot up on the stool. Then she put her hands flat on the table either side of the slips, the way Seln did, and Cael wondered if she knew she was doing it.
+
+"Four findings," she said, "and one limit. I'm going to give you them in the order I found them, which is the order they stand on each other in. I'm not going past the case. If anybody asks me to go past it, I'll stop, and I'll stop for good, and I mean that." She looked round at them. "Not because I'm cross, but because the minute I guess at something in front of this paper, the paper's no use to anybody, including me."
+
+"Nobody's going to ask," said Lira.
+
+"You will," said Karis, "all of you, because it'll be the most natural thing in the world. I'm telling you now so you'll know what I'm doing when I don't answer."
+
+She unfolded the first slip.
+
+---
+
+"The orders don't correct strength," she said. "They correct reach."
+
+She did not have the forty out. She did not need them. She had them by heart, every station and every margin, and she gave them in the order she had sorted them into, which was not the order Seln had laid them on the table.
+
+"I sorted them by the margin," she said, "not by the station or the date, but by what the keeper wrote at the edge of the reading, that the order told the clerk not to enter. And every margin is the same kind of thing. *Reads into. Something of. A second family, faint.* Not one keeper in forty wrote at the margin that a child was too strong. Several of the forty were weak; a first rank, and a low one, with a second family showing faintly behind it like a face behind a window. They were corrected all the same. And I went through every pair looking for one where the order took strength away and left the rest, and there isn't one. When a rank goes, it goes because the second family went, and the second family was what was holding the rank up." She moved one finger on the cloth. "They don't correct how much. They correct how far."
+
+"Reach," said Brom.
+
+"Reach, how far a reading goes past the one column the station has for it." She looked at the four slips. "Strength they leave alone, because strength they like. Strength's easy; you write it down in a rank and build somebody a ladder. Daeva was read at thirteen, in a garden court, and nobody ever corrected a line of hers. She's the strongest thing on the continent at her age, and they've never once taken anything off her paper. They built her a ladder to her height and called it a cycle."
+
+Cael sat very still.
+
+*They did this to me the other way — built the ladder to my height and called it fairness.* He had the letter by heart; it lived inside the back board of Hesk's book, in the satchel across his chest. He had never told Karis its words. She had come to the same sentence from the far side of a case.
+
+"And reach is what they can't have," Karis went on, "because reach is what doesn't fit a column. A child who reads Current and something of Mire isn't a better Current. She's a question the registry hasn't got a box for. So the function closes the question before anybody asks it. Margin reading not to be entered. And she goes home with one family on her paper and grows into the paper, because people do."
+
+"Nine weeks of nothing," said Lira quietly.
+
+"Nine weeks of nothing. They watch to see whether the margin comes back, and it never does, not in forty. Of course it doesn't, when nobody's told her it was there."
+
+She turned the first slip over. There was more on the back.
+
+"The second half of the first finding is the mark on Cael's file."
+
+Nobody moved.
+
+"The leaf says the function is appended to the reading and advises what's entered. It doesn't say what happens when the reading gives it nothing to advise, and nothing else in the case says it in words." She looked at Cael. "But your file says it. The petition put it in schedule two by its full title, on the first night of the year, and you read it. *Suppression-Advisory Watch, Priority Level 4.*"
+
+"Advisory," said Seln.
+
+"Advisory, the same word, on a designation nobody at any height has ever been able to trace to an office." Karis drew a breath. "Cael told me on the third night, when he brought the bread. I asked him about Denvash, and he told me: eleven seconds. The plate lit eleven seconds late, and the word came at the end of them."
+
+Cael had not known she had asked for anything but the bread. He remembered telling her, standing at her elbow with the plate in his hand, and her not looking up.
+
+"Eleven seconds is a long time for a reading," said Karis. "Every other reading on the continent is done before you've finished a breath. I think the function had his reading in front of it for eleven seconds and couldn't find a column to put it in, any column, and couldn't take the margin off because it was all margin. So it did what a good form does when it can't be filled in: it failed safe, and wrote the one word it had for a thing that couldn't be written. Then it marked the file, so that whoever came after would know there was something there it hadn't been able to correct." She laid the slip down. "The mark has no office behind it because no office made it. It made itself, the way a stamp comes down when a lever's pulled. And Ilsev sent it up, at the hearing, twice, to every height she could reach, and asked who'd authorized it. Something answered her each time, something that wasn't anybody."
+
+She was quiet a moment.
+
+"She just never knew what was answering."
+
+Nobody said anything. Brom's kettle ticked on its shelf.
+
+"Ilsev did everything right," said Karis. "She saw a mark nobody could account for, and she sent it up and wrote down that it hadn't been traced. She's the most honest seat in the district. And Havel at the junior chair, who looks at the file every time it's on a table, as Brom's counted. He's seen something he can't place, and he's kept looking at it, which is all an honest man can do with a thing like that." She looked at each of them. "I want a rule about them before we go on."
+
+"Say it," said Lira.
+
+"Ilsev and Havel are never told. It would only cost them."
+
+Eleven words. Cael counted them because he could not help counting them, and found that he was glad there were so few.
+
+"Agreed," said Brom.
+
+"Agreed," said Lira.
+
+Seln moved one finger. "Agreed."
+
+"Agreed," said Cael.
+
+Karis nodded once, and wrote the eleven words on the back of the first slip, under the rest, and folded it again.
+
+---
+
+The second slip was longer, and she held it a while before she opened it.
+
+"The second finding is about time," she said. "How old each piece of it is. I'm going to tell you how I dated it first, because if I don't you'll think I'm guessing, and I'm not."
+
+She dated it the way she dated everything, she said: by paper, by type, by seal and by the words. The paper of the memoranda changed three times in nineteen issues, from a soft rag stock to a harder one and then to the bright registry paper of the instrument on Cael's sill, and she knew roughly when the registry had changed mills from the house's own oldest filings, which were on the same stocks in the same order. The type changed twice. The words hardly changed at all, but where a word did change, it changed to one the founding compilers would not have used. And the seals.
+
+"Greyvane," said Karis.
+
+She put her hand on the corner of the table where the nine leaves had lain all week.
+
+"Nine renewals of Greyvane's charter, nine registry seals set beside the founders' hands, nine years written under them in the charter's own text. I've never in my life had nine seals with years on them side by side before. I laid every memorandum's seal against them, under the glass, ring by ring." She looked at Seln. "The newest issue is from this generation. The seventh falls between Greyvane's fourth renewal and its fifth. The oldest are older than any seal Greyvane has. I counted back from where they meet, ten years an issue, near enough, the way the seals change." She put the slip down. "The first memorandum is two hundred years old, give or take a decade."
+
+"Two hundred years," said Lira.
+
+"And the leaf is the same age as the first memorandum, on the same paper. The hand is the hand of the first one's top signature; I'd swear to that in front of Ilsev. Somebody sat down two hundred years ago, wrote out what the function was and what it was for, signed the first memorandum to every station, and put the note that explained it in the bottom of the box." She was quiet a moment. "So that's when it began, the policy, two hundred years ago, near enough, at somebody's desk. That's the middle layer."
+
+"Middle," said Cael.
+
+"Middle." She touched the leaf's place on the table, though the leaf was in its sleeve in the case. "Read it again in your head: *The function is appended to the reading and is not the reading. It does not alter what the reading shows.* It goes out of its way to say it didn't make the reading. It's a note written by somebody who added something to a thing that was already there, and wanted it understood which part was his." She looked at Brom. "Think of your father's forge in the shed past the gardens, and the mill that must have stood on the estate's stream. If a millwright wants a wheel, he doesn't dig the river, because the river's there already. He cuts a race beside it, and puts his wheel in the race, and spends the rest of his life keeping the race clear of weed. That's maintenance, and that's what this leaf is: a millwright's note about a race. It doesn't say a word about who dug the river."
+
+"Then who did?" said Lira.
+
+"That's the question I said you'd ask," said Karis. "And there it is, and I'll come to it."
+
+She went on.
+
+"Under the policy there's something older: the reading, whatever it is that wakes behind your breastbone at Kindling and reads you. The function sits on it. It's older than the function by however long, and the case doesn't say how long, and I don't know." She laid her hand flat. "But the case does show me one thing about what was there before the function came, because the first memoranda had to clear it out of the way. The first three issues, about eleven years apart, in the oldest paper. And they're not about the forty. They're about the old custom."
+
+She looked at Cael.
+
+"You know the margin I copied at Greyvane. The one in the old records, where an assessor once looked at somebody whose work went across many families, and couldn't fit him in any column, and wrote him down by what he could show instead, by judgment, with the old word." She did not drop her eyes. "I said it once, at Halcenvane, and closed it as a question. I'll say it once more, here, because I have to, and then not again. *Unbound.*"
+
+The word sat on the table among them.
+
+"That was the old way," she said. "Before the policy. An assessor who met a reading that went across many families could write that, pending further study, and the person went on with his life under that word, and nobody corrected anything. It was a door the old system left open. And the first three memoranda shut it, in order. Each of them cites an article of the directive by its number, the same directive I sat over at Halcenvane." She counted on her fingers, slowly, one, two, three. "The first: *close the door.* No assessor may designate by judgment of what a person shows; a station enters what the reading gives, and only that. The second: *remove the exit.* The provisional custom, pending further study, is struck; there is to be no designation that waits on study. The third: *delete the name.* The old word is discontinued, and every person who carried it is to be re-entered under a flag."
+
+She did not say which flag, and she did not have to. Cael's own schedule two had it, bracketed, under *Path*, on the instrument on his sill.
+
+"That's the word your Arbiter said at Denvash," said Karis, quite gently. "It isn't a classification, Cael, and it never was. It's what they wrote where the old name used to be."
+
+He found that he had known it for a long time, in the way you know a thing you have never let yourself look at. He sat with it. It did not hurt the way he had thought it would. It was more like setting down something he had been carrying the wrong way round for years and finding that it was lighter the right way up.
+
+Karis turned the second slip over.
+
+"And that's where the case ends," she said. "So here is the limit."
+
+She did not read it from the slip. She said it to the room, slowly, in the voice she kept for the last line of a finding, the line she would be held to.
+
+"Here is the limit, and I am entering it as a limit and not a finding, because the difference is the whole of my discipline."
+
+Nobody moved.
+
+"I can tell you when the policy began, near enough, and that it was a policy, and that it's been kept since by forms. I can tell you that the oldest thing it did was shut a door the old way had left open, and take the name off the people who'd used it. I can't tell you what the old word was for, before. I can't tell you what the reading is, underneath the function, or how old, or how it came to be there to have a race cut beside it. Nothing in that case reaches down that far, not a line." She put the slip on top of the first one. "We've explained the middle of the story. Not the beginning. Entered as a limit."
+
+It was quiet in the room for a long time. The lamp in the window burned at its usual height for the valley to see. The kettle had begun, very faintly, to sing.
+
+It was Lira who spoke.
+
+She had her chin on her fist and her eyes on the place on the table where the leaf had lain all week, and when she spoke it was slowly, the way she worked out a floor from the rail before a bout.
+
+"They *found* it," she said.
+
+Karis looked at her.
+
+"The registry, or whoever sat at that desk. They didn't make the reading. Your leaf says so, as near as it can without saying it. It was there, and they found it, and they cut their race beside it and put their wheel in and kept it clear for two hundred years." She lifted her chin off her fist. "Two hundred years is a long time to a registry. It's the whole of their paper. It isn't a long time compared to whatever's under it."
+
+Nobody answered her, because nobody could, and Karis did not try. She sat with her hands flat on the table and her eyes on Lira's face. Cael saw her decide not to write it down, and saw what it cost her not to.
+
+The third slip was the shortest, and Karis read it almost at once, as if to get past it.
+
+"I went through everything for the anomaly," she said to Cael, "for session nine. You asked me to, at Greyvane, and I've never forgotten that you asked." She did not look at the slip. "Anything in the forty that read across a family with nobody of that family near. Anything in the reports about a practitioner who took something from no one. Any memorandum that mentions Tide by name, or a reading at a distance, or one that came without an engagement. Anything in the leaf." She shook her head. "Nothing. Not one line in it touches session nine. The function corrects what the reading shows at Kindling. Your session nine wasn't a Kindling, and the reading didn't show it to anybody, and nobody corrected it. Whatever it is, the case didn't do it and doesn't know about it."
+
+Cael took Hesk's book out of the satchel.
+
+He opened it at the table, under the shaded lamp, at the clean leaf after Seln's terms, and wrote it there with all of them watching, because he wanted them to see it written. He had kept that one honest for three years and he was going to go on keeping it honest.
+
+*Not this either. Still open.*
+
+He blotted it and closed the book.
+
+"That's all," said Karis. "That's the whole of the third."
+
+"It's enough," said Cael.
+
+---
+
+For the fourth she did not unfold the slip at all. She took the grey notebook out of her coat instead and opened it at the inside of its front cover, where a few lines had gathered over two years that belonged to no case: the fielding clause, the squad rule, the charter's slip, Jent's answer on its plain card, and above them all, in her small hand, the line from the first night of the year. Cael knew it before she put her finger under it.
+
+She read it aloud.
+
+"*They're trying to move him back inside the instrument.*" She moved her finger down a line. "*I don't know why that distinction feels important. Noting it.*" She laid the open notebook on the cloth beside the slips. "Cael put a question mark beside it in his notebook. I saw him do it. I've owed him the answer since the first night."
+
+"And now you've got it," said Brom.
+
+"Now I've got it." She put her finger on the line. "The petition asks for one thing, compelled re-evaluation under standard protocol. It doesn't care about the provision or the house or the clause; it wants him in front of a reading again." She looked at the case on its shelf. "A re-evaluation is an evaluation. The memorandum covers every evaluation at which a reading is entered. If the reading reads him this time, older, with eight things in him instead of none, the function is waiting beside it with its advice, and the advice is entered, and the order comes down, and he's a column, whatever column it chooses: one family, first rank, margin not to be entered." Her voice was very steady. "And if the reading goes out again, the way it went out at Denvash, then there's no valid classification, and it's chapter fourteen, in sequence: nullification, suspension, restriction."
+
+"Both doors," said Lira.
+
+"Both doors open into the same room, and it doesn't matter to them which he walks through." Karis laid her hand flat over the open cover. "Re-evaluation isn't the test. It's the delivery."
+
+Seln had not spoken all night except to agree to the eleven words. He spoke now, to the table, in his counter voice.
+
+"That is why the road has gone quiet."
+
+They looked at him.
+
+"Nobody has come since the cut: no team, no knock, no rider at the gate. I have been reading the post for it every morning, and the lodge book, and the coats, and there is nothing." He moved one finger. "I thought at first they were counting what the road cost them, but that is not it. Why spend a team on a road, where things go wrong and a team goes home with nothing, when the seat will deliver him at the close of the year, by the book, in a room with a clerk? They don't need the hand when they have the instrument, and they are waiting for it to do its work."
+
+Nobody said anything for a while.
+
+"Then it's not people," said Brom slowly, "is it? I keep looking for the person, somebody who decided."
+
+"There were people," said Seln. "Two hundred years ago, one, at a desk. Since then there have been seventy-one people signing for coal, and keepers writing down margins, and clerks entering what they're told, and evaluators stamped *enter at file*, and a district clerk who told a father the truth and sent it up. None of them is wicked. Most of them are good at their work." He was quiet a moment. "A conspiracy can be exposed. A convenience cannot."
+
+"It can't be filed either," said Karis.
+
+She said it as if she had been carrying it for five nights and had only now found the place to put it down.
+
+"I've thought about it every night this week, who you'd file it with. The seat runs on it, and so does the registry. Every evaluation office in the Compact sends its readings through it. You'd be filing a complaint about the corrections function with an office whose whole business is entering what the corrections function advises. And they'd read it, and they'd find nothing irregular in it, because there isn't anything irregular in it. Every form's been filled in properly for two hundred years." She took her hand off the notebook. "There isn't a seat outside it. There's nobody to send it to who isn't standing on it."
+
+Cael sat on the bench and looked at the four slips and the open notebook.
+
+He thought of the first night of the year at his window, with the instrument on the sill and the pole written out in his best hand. *The system has text, and text has held me every time the people failed.* He had believed the people were the trouble and the text was the floor. Then the road had shown him that the room was never the system. He had thought, coming home over the bridge at dusk with his ribs strapped, that he had come to the bottom of it, that the system was broken somewhere he could not see, and that he was looking for the break.
+
+There was no break; that was the whole of it. Every part of it was working.
+
+He said it aloud. "It isn't broken. It's maintained."
+
+Nobody answered him. Karis looked at him across the table for a long moment. Then she closed the notebook on its cover, and gathered up the four slips and gave them to Seln, who unlocked the case on its shelf and put them in the lid's pocket beside the leaf and locked it again. The fifth slip she kept face down, without ever turning it over, and put it in her coat.
+
+"That's all of it," she said. "Four findings and a limit."
+
+"What's on the fifth?" said Brom.
+
+"What I wrote on the first night, under the leaf, before I'd read anything." Karis buttoned the coat over it. "One word, and I was right. I'm not going to say it, because I wrote it before I had the paper, and a thing you write before the paper is a guess, even when it's right." She stood. "I'll burn it in the morning."
+
+---
+
+He went down the top stair behind Lira, at her pace, which was faster tonight than it had been. She went down standing now, one step at a time, with her hand on the wall and her right foot set down carefully but set down.
+
+On the third-floor landing, where the top stair met the main one, she stopped and put her hand on the newel post's worn cap, and did not name it.
+
+"So what's it for?" she said.
+
+He knew what she meant.
+
+"The case," said Lira. "If it can't be filed, if there's nobody to send it to who isn't standing on it. If we can't publish it without spending Seln, and we can't use it at the seat without the seat reading it as a forgery, and Karis won't take it a line past the paper." She looked down the main stair into the lamplit dark. "Twelve years on a shelf and five nights on her table, and it doesn't prove anything to anybody who matters. What's it for?"
+
+He did not have an answer. He stood on the landing beside her and waited, because he could see she had one.
+
+Lira took her hand off the post.
+
+"It's not evidence. It's a map."
+
+She started down the main stair, slowly, with her hand on the rail.
+
+"Evidence is for a room," she said over her shoulder. "You carry it in and put it on a table and hope somebody reads it right, and we've done that all year, and the room was never the system." She went down another step. "A map's for walking. It doesn't have to convince anybody; it only has to be right about where the doors are." She stopped on the next landing and looked back up at him. "And now we know where they are, all of them, even the ones that open one way."
+
+He came down the stair after her.
+
+"*Rail*," she said to the rail, under her hand, quite seriously. "*It goes all the way down. You can trust it.*"
+
+He said it after her.
