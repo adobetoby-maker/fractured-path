@@ -100,6 +100,21 @@ BOOKS = {
             "[Firm, lucid narration; build through the compact's final test and let the aftermath breathe]",
         ],
     },
+    "book-07-void-roads": {
+        "title": "Void Roads",
+        "chapter_count": 60,
+        "movement_ranges": [(1, 7), (8, 14), (15, 22), (23, 30), (31, 37), (38, 44), (45, 52), (53, 60)],
+        "movement_tags": [
+            "[Quiet, exact narration; let the road's altered rules emerge through practical consequence]",
+            "[Observant, controlled narration; keep the ford, the count, and the group's strain spatially clear]",
+            "[Focused, analytical narration; make each survey finding legible without overexplaining it]",
+            "[Measured, watchful narration; hold the quiet ground's pressure beneath the ordinary work]",
+            "[Taut, lucid narration; keep the Ring's fragment uses, costs, and positions easy to follow]",
+            "[Restrained, intimate narration; give the telling, its consent boundary, and its cost full weight]",
+            "[Building, spatially clear narration; sustain the Stair's danger without rushing its decisions]",
+            "[Firm, deliberate narration; carry the binding discoveries cleanly and let the final road remain open]",
+        ],
+    },
 }
 
 SCENE_RULES = [
