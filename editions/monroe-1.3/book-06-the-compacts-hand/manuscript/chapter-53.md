@@ -68,7 +68,7 @@ She turned it on the desk so that it faced him, as she had on the night she told
 
 She laid one finger on the empty ruling.
 
-"In the week after the close a clerk will come up our road with a stamp, and he will write here what the second head of the ruling says. *Respondent institution compliant; no finding.* I shall give him tea. I told you a year ago that the best day this folder could have was a clerk writing *sustained*, and I was wrong, for this is better. It is the cleanest remedy column I have seen against a contested entry in twenty years at the registry and all my years in this chair." She took the finger away. "And in Bracken's enrollment book, under your name, there will be five words in his hand. Under three other names as well, I gather, though I have not asked how many and I shall not."
+"In the week after the close a clerk will come up our road with a stamp, and he will write here what the ruling says of the respondent institution. *Respondent institution compliant; no finding.* I shall give him tea. I told you a year ago that the best day this folder could have was a clerk writing *sustained*, and I was wrong, for this is better. It is the cleanest remedy column I have seen against a contested entry in twenty years at the registry and all my years in this chair." She took the finger away. "And in Bracken's enrollment book, under your name, there will be five words in his hand. Under three other names as well, I gather, though I have not asked how many and I shall not."
 
 She shut the folder, quite gently, with one hand.
 
@@ -154,7 +154,7 @@ It was the first room she had ever left that she would miss, and she thought tha
 
 The red book lay on Rooke's table, where it always lay. There was a word in it under her name; he had written it on the day of the Blade, and then a second, and she had never seen either. She stood over the book in the dark with her hand flat on its cover, and did not open it. It was his, and whatever he had written, he had written of the program's entrant. She would tell him tomorrow, after the bout, in one sentence, to his face, for she owed him that much and he would want no more. If he chose to show her the page then, he would.
 
-She laid the key on the red book, and then took it up again. Not yet. There were five days, and she meant to drill on every one of them.
+She laid the key on the red book, and then took it up again. Not yet. There was one morning left before the key went back, and she meant to drill in it.
 
 There was a scrap of paper under her door when she came up, and his door, when she got to it, was not latched. He was asleep at the window with his head on his arm and the lamp burning down, and that foolish clock ticking on the shelf, behind the world as it always was. The book lay open under his elbow.
 

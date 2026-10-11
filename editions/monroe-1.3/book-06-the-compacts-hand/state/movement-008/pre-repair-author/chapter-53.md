@@ -1,0 +1,369 @@
+# Chapter 53 — The Sunward Mark
+
+There was a light under the chancellor's door, and he had known there would be.
+
+He stood in the passage a moment with the satchel on his shoulder. It was past midnight, and the house was dark from the lodge to the library, and he had come down four flights and across the court to tell a woman a thing before a board could tell her. He had not thought about what he would say. He knocked on the frame, as he knocked on Brom's.
+
+"Come," said Withrow.
+
+She was at her desk with the lamp turned low and her hands on the blotter, a hand's width apart, and she was not writing. The two piles of letters were gone. The charter hung in its frame behind her, and under it the locked case stood open, and the folder from the case lay on the desk in front of her, shut.
+
+"Sit," she said. "You've come to tell me you are going, and you would rather I heard it from you than from Bracken's face in the morning. I have already seen Bracken's face. He came down your stair an hour ago and asked me for the key to the stationery press, and he is not a man who can ask for a key without my knowing what it is for."
+
+Cael sat down in the chair across the desk.
+
+"All of us," he said. "Before the year closes. By a door that's in the code, and in an old enrollment book. Karis found it in the term before the recess, and it leaves nothing in that folder."
+
+"*Resigned in good standing.*" She said it without surprise. "I know the door. I have known it for four days."
+
+He looked at her. He had seen her through two panes of glass, on the first evening in Ostrand, reach across a table and shut a book, and he had seen her face before a carriage door closed. He had put both away to look at later, and it was later now.
+
+"Then you should have the whole of it," said Withrow, "since you have brought me yours." She took a folded sheet from inside her coat and opened it on the blotter and turned it toward him. It was not the house's paper. There were four lines on it in the small capitals of the house's counsel, and each had a day written against it.
+
+*Ruling: the Fifth-day.*
+
+*Notice of date, to the Chancellor, by a district officer: upon the ruling, or the day after.*
+
+*Evaluation: the Fourth-day following. The last day of the academic year.*
+
+*Revocation takes effect: at that day's close.*
+
+"The ruling says five weeks," she said. "That is the outside of it. The inside is in a section upon notices, which gives a district five days, and in the habits of a district clerk who has never in my time notified a date one day later than the code allowed him. Bracken went to the district hall on our first morning in the town, to look at the room where Brom would stand, and there is a board beside its door. He read on it that the frame-house was reserved for the registry's use on the last day of the year." Her voice was quite even. "It was written up before any ruling was given, and I want you to understand that there was nothing crooked in that. A prudent clerk books a frame when he sees that one may be wanted, exactly as Bracken books a coach, and he would have struck it off again without a thought if the seat had gone the other way."
+
+"So it isn't five weeks."
+
+"It is five days. An officer will ride up to my gate with the notice tomorrow, or the day after, and it will be addressed as the last one was: to the chancellor, to produce the enrollee. You will still be mine on that day, for the revocation does not bite until its close." She looked down at the four lines. "I read an order aloud at that gate once and declined it, because nobody could tell me whose it was. This one would be a seat's, and I could not decline it. I should have to walk you into that frame-house myself, under the house's seal, or else refuse a seat in writing and let them enter the refusal in my folder."
+
+Five weeks had become five days. He heard the sentence in his head in the log voice, flat, and knew that he would write it down.
+
+"The counsel showed you this on the First-day," he said.
+
+"She did. She showed me the arithmetic, and then she showed me the section Karis found, and she recommended that I put it to you." Withrow took her hands off the blotter and folded them. "She was right to recommend it, and it was good advice. If the enrollee withdraws before the day, the order has nobody to stand in the frame and no house to produce him, and my folder shows a challenge answered and a house cleared. I have known since the First-day evening that the best thing that could happen to this academy was for you to walk out of it."
+
+"And you didn't say so."
+
+"No."
+
+The lamp ticked. He waited, because she was not a woman who left a thing half said.
+
+"Four chancellors advised me this term to let you go," said Withrow. "I answered every one of them in my own hand, and told them that the harm was done the day a house handed over an enrollee to spare itself. I believed it when I wrote it." She looked at him directly. "And then a small woman with a steel rule showed me that I need hand nobody over. I need only mention a door: a quiet word, in a guesting-house parlour, from a chancellor to an enrollee who has spent a year trying not to cost her anything. You'd have gone that night. Don't tell me you wouldn't. You'd have gone for my folder, and I should have done with one sentence what I refused to do under four riders."
+
+He did not tell her that he wouldn't, for it was true.
+
+"So I kept it," she said. "For four days, through a return and a ruling. I let you hear the hood say *revoked* without knowing how short the time was. I should like to say that it was easy and that I never wavered, and I can't; I sat in a carriage this afternoon and very nearly said it through the window." Her mouth moved a little. "I wanted it to be yours. If you went, I wanted you to go because you had priced it with your own people, at a table, with my need left out of the sum. And if you stayed, I meant to walk beside you into that frame-house and take what they wrote."
+
+"It wasn't left out," said Cael. "I've counted it since the first week."
+
+"I know. I watched you count it. But you put it there yourself, and I did not. That is the whole of the difference, and it is the only thing I have had to give you this year that was worth anything."
+
+He found that he could not answer. He had been keeping the largest thing he knew from her for half a year, and it had sat between them like a lie in every room; she had kept a thing from him for four days, and he saw now which of the two silences had been the kinder.
+
+---
+
+She opened the folder.
+
+She turned it on the desk so that it faced him, as she had on the night she told him to write down a word, and it was open at the same leaf. On the left was the entry for the eighth day, in Bracken's hand: the house a respondent before the seat at Ostrand, the subject of the proceedings, *Status: pending*. On the right the column was ruled, and still empty.
+
+"I showed you my column once," she said. "Four papers out of a drawer. Now the other one."
+
+She laid one finger on the empty ruling.
+
+"In the week after the close a clerk will come up our road with a stamp, and he will write here what the ruling says of the respondent institution. *Respondent institution compliant; no finding.* I shall give him tea. I told you a year ago that the best day this folder could have was a clerk writing *sustained*, and I was wrong, for this is better. It is the cleanest remedy column I have seen against a contested entry in twenty years at the registry and all my years in this chair." She took the finger away. "And in Bracken's enrollment book, under your name, there will be five words in his hand. Under three other names as well, I gather, though I have not asked how many and I shall not."
+
+She shut the folder, quite gently, with one hand.
+
+"That is what a year of this comes to on paper. An enrollee was challenged. The house answered and was cleared. The enrollee left. Every inspector who opens that case for the next thirty years will start at the grant and turn forward, and that is what he will read, and he will draw the natural conclusion from it. He will think the boy saw which way it was going, and ran, and that the house was well rid of him."
+
+"It's what the form says."
+
+"It is. Forms say what happened and never why, and I have spent my life filling them in." Withrow stood up. She was a tall woman, and she stood very straight, and for the first time since the recess she did not look tired. "The record will say you left. I'll spend the rest of my tenure making the record say why."
+
+He looked up at her.
+
+"There is no form for taking a leaf out of that folder," she said. "I told you so. There is also no rule against putting one in. I have a closing in the registry's presses under an enrollee's name, which I can cite, and a magister's note for the seventy-sixth day. I have thirty-four chancellors who wrote to ask me what I would do, and who now owe me the courtesy of reading what I did. And I have a right-hand column in a great many places besides this one." She came round the end of the desk. "I do not know what took you up that stair tonight with four others. I am not a fool, and I can see that it was more than a ruling, and I am not going to ask. Bracken asks when. I find I do not want even that."
+
+"Chancellor—"
+
+"No. I said in the term that I'd be annoyed if you thanked me, and I should be." She had her hand on the door. "The captain came to me at supper to ask for the Crown yard tomorrow at the fourth bell. I told him the yard was Rooke's to give and the bout was yours, and I see by your face that he has since asked you. I shall be in the stand. I have sat under a rug in other people's halls for two years to watch my own fighters, and I should like to see one thing on my own oak before the year closes."
+
+She opened the door herself.
+
+He had never known her do it for anybody. A chancellor rang, or said *that will be all*, and one found one's own way out. She stood with the door held wide and the dark passage beyond it, as a district officer had stood at a station on the north road, and it was not the same thing at all.
+
+"Go to bed," said Withrow. "You have a floor tomorrow, and for once nobody has told you to look ordinary on it."
+
+---
+
+He did not go to bed. There was a thing to write first, and the rule said it was to be written before, at its full weight, by a lamp, with nobody hurrying him.
+
+He sat at the sill with Hesk's clock losing its minutes on the shelf behind him and turned to a clean leaf. He had priced the eighth on a leaf like this, in the week of the rain, and four people had put their initials to it, and he had not thought then that he would ever price another. He wrote it slowly.
+
+*The ninth, if it comes. It may not. I'm not to make it come; that's the first rule, and it's kept. He asked. Nobody put the asking in his mouth. He wrote it on the back of a chart in wing three and kept it till the seat had done with me.*
+
+*In earnest: yes. He'll put his lath down if I give him less. Awake, and on purpose: yes. I'm writing this the night before, with a pen, and I know exactly what I'm about.*
+
+*The weight. The storm was Gold and the road was Silver. He's Iron, the sixth rank of it. Karis's curve says it comes quicker each time. I'll price it as if it didn't.*
+
+*Buys: an edge, I think, and a way of knowing where a line will be crossed. I've watched it for three years from a tier and I couldn't tell you how it's done.*
+
+*Spends: the left forearm. He will have to cut at me, and I'll have to take it where I can read it, on the guard, more than once. A Blade's edge isn't the wood's, and I don't believe the give will hold it. Breath. The hip and the shoulder for everything else, because he's asked for all of it and he's to have it. Ten counts for a lane, and ten again. Then whatever the new one does to me afterward. The last asked* There? *forty times an hour for two days.*
+
+He stopped there, with the pen lifted, because the rest was not a bill of that kind.
+
+*And this. He isn't to be told. Not tomorrow on the oak, nor in a letter from wherever we are by then. He's the one person on this hill who wanted the true measurement and nothing else, and he's waited three years for it, and I'm going to take something from him in the middle of it and never say. Lira's known since Ardenmere. Brom, Karis. The one I took the quiet thing from knows now. He can't. It would put him on a file beside mine, and he's staying.*
+
+*That's the cost that doesn't heal in a week. Entered at full weight. I've read it over, and I'm still going to do it, if it comes.*
+
+He blotted it and put his initials at the foot.
+
+Brom's lamp was lit. He was sitting on the edge of his bed in his shirt with his forearms on his knees, and on the table under the window lay two papers. On the left was the district's finding, folded along its folds, with the printed slip tucked into it; on the right, a hand's breadth off, lay the envelope with the red seal, as he had squared it four weeks ago, and its seal had not so much as a crack across it.
+
+"I said I'd know what I was answering," said Brom, when he saw where Cael was looking. "I do. I find I needn't read the question." He took the book and read the leaf through at his own pace, and set his mark at the foot, the B with the bar. "They can lie there, the two of them. I've signed nothing and I've refused nothing. Somebody will find them when the room's cleared and wonder." He gave the book back. "He'll hit you hard. He hits harder than he looks."
+
+Karis was still in the reading room, on the floor, with a lantern. She read the leaf twice, and at *I'll price it as if it didn't* she made a small sound through her nose and wrote *K.* under Brom's mark.
+
+Lira's door was shut and there was no light under it. He knocked, and nobody answered, and after a moment he tore a corner from the back of a schedule and wrote on it against the wall: *Priced. It's in the book, on my sill. Come and read it.* He pushed it under the door.
+
+At the sill again he turned back a leaf and wrote the day's line under the ruling's three words, because it would not wait for morning.
+
+*Five weeks became five days.*
+
+He meant to sit up until she came, and he put his head down on his arm to rest his eyes.
+
+---
+
+Lira had the east hall to herself, and no lantern.
+
+She had not lit one. She knew the floor well enough by now to walk it blind, every cross and arrow of it, and the gallery shutters let in a little grey from the court. She stood at the south chalk with the key in her fist and her boots off.
+
+Somebody had painted this floor for her.
+
+She had never quite let herself say it in so many words. She had said *the program*, and *Rooke's floor*, and once, to Cael on a stair, *heavy*. But the plain fact was that a man had taken a hall, and had it planed, and sent to a river academy for a red book, and had a painter put four hundred marks on the boards, each one where a Wind fighter of exactly her reach would want it. Nobody had built anything to her height before. Fenmark had built a room for a girl it had imagined, and when she had turned out not to be that girl it had put her outside the room with her form correctly filled in.
+
+She ran the count, front foot and back foot and shoulders, and went on the fourth, a small low burst across the grey, and came down on the right. The boards took her and gave her back. She went again and came down on the left, and she had not needed to choose. That was the thing she had learned in this hall, on eleven tries one night and a thousand since: that the foot was not a question you asked.
+
+She stood on a painted cross and breathed.
+
+All her life she had wanted one thing from a room, which was to be let walk out of it standing up. She had been proud of that. She had said it to Cael on a road somewhere, as if it were a thing to be proud of, to want so little. And then a man with a board under his arm had built her a ladder, and she had found out in about a week that she wanted to climb it more than she had ever wanted anything, and had been ashamed, and then had stopped being ashamed.
+
+She was going to walk out of this room standing up, and nobody was putting her out. The door was open, and there was a sitting with her name fourth on a board, and a coach who had ruled a line under it so that it could not be wiped off. She could stay. She had turned that over on a stair in the records hall, honestly, watching Brom weigh paper: she could let four people go east, and be at a blue door in a fortnight in clean wraps.
+
+She had put her hand up second.
+
+It was the first room she had ever left that she would miss, and she thought that was probably what it was to have been given something.
+
+The red book lay on Rooke's table, where it always lay. There was a word in it under her name; he had written it on the day of the Blade, and then a second, and she had never seen either. She stood over the book in the dark with her hand flat on its cover, and did not open it. It was his, and whatever he had written, he had written of the program's entrant. She would tell him tomorrow, after the bout, in one sentence, to his face, for she owed him that much and he would want no more. If he chose to show her the page then, he would.
+
+She laid the key on the red book, and then took it up again. Not yet. There was one morning left before the key went back, and she meant to drill in it.
+
+There was a scrap of paper under her door when she came up, and his door, when she got to it, was not latched. He was asleep at the window with his head on his arm and the lamp burning down, and that foolish clock ticking on the shelf, behind the world as it always was. The book lay open under his elbow.
+
+She eased it out, and he did not stir. He slept like a person who had been sat up straight for a year.
+
+She read the leaf standing, by what was left of the lamp. She had read one of these before, in a week of rain, and had written across the bottom of it in capitals that nobody was to go in after him alone. That one had been about a woman on a road who meant to put him in a wagon; it had frightened her, and it had been simple. This one was not simple. She read down it, through the forearm and the lanes, and came to the part where the pen had plainly stopped and started again.
+
+*He isn't to be told.*
+
+Lira stood with the book in her hands.
+
+She had known what he could do since Ardenmere, when she was fifteen. She had never once thought of it as a thing taken from her; it had come out of him, and it was hers too, and she had been glad. But she had known. Nobody had ever kept it from her.
+
+The captain was going to stand on the oak tomorrow and be given the truest fight of his life, and one true thing would be kept back from him for as long as he lived. He had asked for the measurement, and he would get a great deal of it. She found that she minded for him, more than she had expected to; he had turned his back on a table of papers for her friend's sake on a birthday, and gone down a stair whistling.
+
+And she saw that Cael minded more than she did. He had written it down as a cost, at full weight, in ink, before he could be tempted to call it something else. That was the rule working, and it was what the rule was for.
+
+She took the pen from where it had rolled against the clock. Under Brom's barred letter and Karis's neat one she wrote *L.* Then she turned the pen in her fingers, and wrote one line more, across the foot, in the capitals she kept for such leaves.
+
+*HE ASKED. DON'T BE KIND.*
+
+She slid the book back under his elbow and turned the lamp down to save the oil.
+
+At the end of the corridor a window looked north over the roofs, and from it you could see the Crown yard, a black pit with a pale floor, and she stopped there because there was a light in it. A lantern stood on the faculty stand. By it she could make out the porter's ladder against the first of the four boards, and a short square man on the third rung with his sleeve rolled, writing with a lump of chalk.
+
+He wrote for a long time, for a man who used one word.
+
+He had not waited for the porter, or for morning. Somebody had come to his door at midnight and told him, and he had put on his coat and gone down to the yard in the dark and chalked it himself, before any officer of the house could wake up and wonder whether it was wise. She watched until he climbed down and held the lantern up to read it over, and then rubbed out one word with his cuff and wrote it again.
+
+She went to bed in her wraps. She thought she would not sleep, and she slept at once.
+
+---
+
+Cael read the board at first light, with a stiff neck and three sets of initials under his own.
+
+He had come down by the rim, alone, before the first bell. The oak lay below him in its pit, pale and dry, and on the wall above the faculty stand the first of the four black boards had been wiped of the year's afternoons, every one, and four lines stood on it in Rooke's square capitals.
+
+*THE CROWN YARD. THE FOURTH BELL.*
+
+*BLADE, IRON SIX. THE ENROLLEE.*
+
+*ROOKE'S RULE: FOUR EXCHANGES, A TOUCH OR NONE IN EACH. TWO ENDS IT.*
+
+*THE HILL AND THE TOWN.*
+
+He read the last line twice. Rooke had closed a floor to observers in the year's seventh week, with a chain and a card, and had kept a ledger with *none* in it ever since; and now he had chalked an invitation to a valley.
+
+By the second bell the valley was coming.
+
+Cael watched it from the north wall, because there was nothing else he could usefully do. The ferry came across low in the water and went back empty and came again. The bluff road had people on every switchback: wool-factors in their good coats, and carters, and a file of district clerks who had found that they had business on the hill. The man who had bought a second press was there, and so was the woman who kept the guesting-house, with a basket. The lake house's blue-grey wagon had not gone home after the ruling, and it came up at a walk with a lath in a canvas sleeve sticking out of the back.
+
+The lodge-man had his book out on a trestle under the arch and was making every one of them sign it. *Callers, sign and wait*, said his board, and he had kept that gate since before Bracken, and saw no reason why a ruling should alter it.
+
+Two men in travelling coats came up among the rest, and waited their turn at the trestle like anybody, and took the pen, and wrote. Cael was too far off to see what they put. They did not look up at the wall, and one of them had a walking stick he did not need.
+
+He had no line to read at his chalk today, and he found that strange. For a year and more he had read one before every bout: what to take late, and what to give, and the figure it was meant to buy. He had the rotation's book in his coat from habit, and at the north wall he took it out and opened it at the day.
+
+*Sixth-day. The Crown yard. Ephram. All of it.*
+
+There was nothing under that. What it bought and what it spent were on another leaf, in another book, with capitals across the foot. He shut the rotation and did not open it again.
+
+---
+
+At the fourth bell he went down the steps onto the oak, and counted the yard one last time.
+
+It was sixty feet by forty, laid so close that a fingernail would not go between the boards, and sunk four feet below the ground, with three short flights of steps, of which he had come down the east one. The stone tiers went up from the rim on three sides, with eleven hundred seats in them and a little over; he had counted them at dawn in his first week on the hill, when they were empty, and had felt them on the back of his neck.
+
+They were not empty now. He counted by tens and by rows, as he had counted benches in a wool exchange, and gave it up at twelve hundred, where the stone ran out and the people did not. They stood along the rim behind the top tier, and sat on the steps, and a row of first-years had got onto the wall of the lecture range and were dangling their legs.
+
+On the fourth side was the faculty stand. Withrow sat in the registrar's chair at its middle, upright, with her hands in her lap, and Bracken stood behind her. Gault was at the stand's end with his instrument case set very straight beside him, though there was nothing in a bout for it to measure. At the long table Rooke stood with his glass and his board, and his clerk sat at his elbow with two books open, and the house's healer had the bench below with her bag.
+
+He found his own people without looking for them. They were on the east tier, low down: Brom, with his arms folded, and Karis beside him with her hands under her, and Lira between the Current girl and the Stone. The assistant sat behind them, and behind her were two benches of Ephram's cohort, who had been told nothing about cheering today. At the end of the stand, by the porter's boards, where the year's names stood in their columns, a man in a dark coat stood with his hands in his pockets, and nobody would have looked at him twice.
+
+High on the west tier, at the very top, sat a grey man with a walking stick across his knees and a pencil.
+
+*Let him write*, Cael thought, and it surprised him how little it weighed.
+
+Ephram was on the oak already. He stood in the middle of it in his greys with the lath in his right hand, point down, and when Cael came off the steps he turned and walked to a chalk. He did not go to the south one. It was the fourth bell, with the sun come round over the lecture range, and from the south chalk a man had it at his back. Ephram walked the whole length of the floor to the north mark and turned there, and stood with the light full in his face.
+
+It was the worse mark, and any first-year knew it. A captain who had headed the Iron column for three years could have taken either, and nobody would have said a word.
+
+He was leaving himself no excuse. Cael understood it as he walked to the south chalk with the sun warm between his shoulders: whatever Ephram learned in the next four exchanges, he meant to have learned it against every disadvantage he could arrange, so that there would be nothing afterward to set against it.
+
+Rooke came to the edge of the stand.
+
+"Rooke's rule," he said. He did not raise his voice, and twelve hundred people heard him. "Four exchanges. A touch or none. Two ends it. I call a guard a guard." He looked along the oak, from one chalk to the other. "Exchange."
+
+His hand came down.
+
+---
+
+Ephram came off the north mark at a walk.
+
+Cael knew the walk. He had stood in front of it for a season on this floor, calling the weight aloud: every angle, every pace, the lath low and never thrown. The old read went out through his boots into sprung oak and came back with Ephram in it, early, as it always did. The weight was forward and a little left, the shoulders had not dropped, and the back heel was down. It was the front foot only, then, and the thing to do was wait.
+
+The heel came up. Cael slipped right and outside, as he had slipped a hundred times, and the lath went by his hip.
+
+It did not stop, and that was new. The first cut had not finished before Ephram's front heel was down again, a pace on, and a second cut was already beginning out of the end of the first, a different way in, flat, at the ribs. Heel, hip, edge. He could not take the first one back and had not tried to; he had only built the second on top of it, as a mason lays a course.
+
+Cael gave ground with one burst, small and low, spent short so that from a tier it would look like a quick step.
+
+And the third was coming out of the second. He had watched this from the rim on a First-day, slow, against nobody: three in a row, each a different way in, each begun before the last had ended. He read the heel go down for the third, and the weight, and where the cut would finish, and he knew, a half beat early, exactly where he needed to be.
+
+He waited the half beat.
+
+He did not choose to. That was the shame of it, and he felt it even as it happened. A year of Fifth-days in wing three had put the waiting into his body as a drill puts a landing into a foot. Twelve hundred people were looking down, and a grey man with a pencil, and the coat was on him before he had so much as thought of it. He stood in his own bout and waited, so that it would look as if he had found the answer when a good Iron would have found it.
+
+The hip never came.
+
+Heel, and then the edge. Ephram had cut the middle out of it, and the lath was simply there, a beat sooner than three years of watching had taught Cael's eyes to expect, and it lay across his left forearm from the wrist to the elbow like a bar of cold iron. Then it was hot.
+
+"Touch," said Rooke. "Blade."
+
+The tiers made a noise, though not much of one. They had seen a good fighter take a touch from a better, as they had seen it ninety-eight times.
+
+Ephram did not lift the lath in salute. He looked at Cael along it for a moment, with the sun in his eyes and no pleasure at all in his plain face, and then he turned and walked back to the north chalk.
+
+Cael walked to the south. His forearm had begun to throb in a line. A Blade's edge was not the wood's; he had written that last night as a guess, and it was a guess no longer.
+
+*Take the first late*, the rotation had said for a year.
+
+"Exchange," said Rooke.
+
+Ephram did not move.
+
+He stood on the north chalk with his feet together. He turned the lath over once in his hand, and set its tip on the oak, and folded both hands on the grip, as a man leans on a spade. The yard waited. Rooke's hand had come down, and the glass was turned, and the sand was running.
+
+"That's ninety-nine," said Ephram.
+
+He did not shout it. He said it across forty feet of oak in his captain's voice, and it carried to the rim.
+
+"I've ninety-eight of those on three sheets. I don't want another. I said what I'd do." He nodded at the lath under his hands. "It's down. I'll stand here till the sand's out, and the next glass, and the one after that. You can touch me twice whenever you like, and they'll put it on the board that you won."
+
+A murmur went round the tiers and died. On the stand Rooke had not stirred, and he had not called it either.
+
+Cael stood on the south chalk with the sun on his back, and he could feel every one of them above him. He had felt eleven hundred empty seats on his neck at dawn in his first week, and it was nothing to this. Withrow sat in the registrar's chair, and Gault had signed two years of his figures, and a coat held a pencil at the top of the west tier. And there were four hundred people he had eaten beside since he came up the road, who knew him as a quiet enrollee with a provision and a decent read.
+
+*With a table and a yard full of people*, Lira had said, sitting on a painted floor. *I know what their face is going to do.*
+
+Five hands had gone up for this, and he had priced it. He looked down the length of the oak at a man leaning on a lath with the sun in his eyes, who had ruled a red line in the first month he knew him and had waited three years to be shown the far side of it.
+
+He did not take the coat off. He let it fall.
+
+It was easier than it had been in the east hall, and he had not thought that possible. Everything he owned came awake at once, under an open sky, in front of everybody, and for the first time since Norhold there was no part of him standing guard over any other part.
+
+He did not wait.
+
+The Wind first, because it was the oldest: low and flat off the left foot, straight down the middle of the floor. The oak took the landing and threw him on, as it was built to, and he was in the air again before the beat had finished. Three. Ephram's hands had come off the grip, and he had the lath up, and his heel was going down, and the read had all of it, deep, to the hips, a full beat before it happened.
+
+Cael put the push into the oak under that heel.
+
+It was not a flat hand, which was all he had ever shown on the bluff. This was the push at fighting load, the whole shove of it, through his palm and down, and the air over a square yard of floor went solid and then gave. Ephram's front heel came down on a board that had jumped, and the first beat of his cut landed crooked. A Blade could not take it back. The hip followed the crooked heel, and the edge followed the hip, wide, a yard from anybody.
+
+The tiers had gone silent.
+
+Four. He went past the wide cut on the outside, and Ephram turned on the miss faster than a man of his size ought to turn. A line was already there. He had not cut it; he had turned his wrist, and the lath lay level across the place where Cael's next landing would come down, because he read lines, and knew what would cross one a breath before it crossed.
+
+Cael saw the lath waiting and took a fifth burst out of the air above it, sideways, off nothing but the landing beat of the fourth, and came down ten feet clear with his hip beginning to write. Five on the oak, and the day's free six were nearly gone.
+
+Ephram was grinning. Cael saw it, across the floor, with the sun full on it, and he had never seen that face grin on the oak in three years.
+
+Then he asked the air to lean.
+
+He had done it on a stone floor at Norhold with eight thousand people watching, and on a chalk road, and in a painted hall at night, and he had never done it here. He set his feet and asked, and a lane went down across the Crown yard from his chalk to the space behind Ephram's left shoulder, fifteen feet of it, shoulder-wide. His ears closed and opened. The dust in the joints of the oak woke and ran, pale, along the line.
+
+Somebody on the east tier screamed, with delight, and he thought it was the Current girl.
+
+The read had gone out into the lane, as it must. He took it back off the air and gave it to the man, as he had learned to at a price, and then he stepped into the downhill and it carried him a third faster than any feet.
+
+The lath was lying across the lane's end.
+
+He saw it with a beat to spare, and understood it in the same instant. A lane was a line. It was the longest, plainest line anybody had ever laid on that oak, with dust running down it to show the way, and Ephram had not needed to know what it was. He had read where it went, and had put his edge at the end of it and stood there, waiting, with his heel down.
+
+Cael came out of the lane into a cut that was already committed, and burst out of it. Six. Straight up and back, off the lane's own speed, with the edge passing under his boots near enough to feel, and he landed badly, with the hip shouting.
+
+And then the bill came in.
+
+It was the warm hand over the inside of his skull, and everything went slow. He began the count, because it was the only thing that came when he called. *One.*
+
+Ephram did not know about the ten counts; nobody on the bluff did but three people on a tier. But he was the best Iron on the hill and he could see a man who had gone a beat late, and he came in.
+
+*Two. Three.* Three cuts in a chain, heel and hip and edge. Cael asked for the Wind and it came after he had asked, and he got out from under the first by the width of a sleeve. *Four.* The second he took on his raised left forearm, with the give open, and it opened late, and the edge went through it. *Five.* He had been right about that too. The give was a cup, and a cup holds a blow, and this was not a blow; it was a line of cold drawn across the bruise that was already there.
+
+"Guard," said Rooke.
+
+*Six. Seven.* The third was the short one, with no hip in it. He saw the heel go down, and he knew, and he could do nothing with the knowing for a whole slow beat. He spent a burst he could not afford. Seven. It was one past what the oak gave free, and it took him out sideways along the rim wall with the lath's wind on his neck.
+
+*Eight.*
+
+Ephram turned and came on, breathing through his mouth. He had the sun behind him now and Cael had it in his eyes; they had changed ends without either of them choosing it.
+
+*Nine. Ten.*
+
+At eleven the hand lifted off the inside of his head, and everything answered when he called.
+
+He had not felt the pull. He noticed that, with the sweat running into his eyes: no wrong thing had answered in all of that, on a full floor, at this weight. The right things had come late and then they had come. It was the bill, and not the flag.
+
+He set his feet, and Ephram set his. The lath came up, and the heel began to go down.
+
+"Time," said Rooke. "No touch."
+
+The sand had run out.
+
+For a breath there was no sound in the Crown yard at all. Twelve hundred people had watched a quiet enrollee with a provision go down the middle of the oak on a river of dust, and they had not yet agreed with one another about what they had seen.
+
+Ephram lowered the lath.
+
+He was soaked, and his chest was going like a bellows, and there was a look on his face that Cael had never seen on it, on the oak or off. It was the face of a man who has been adding a long column for three years and has reached the foot of it and found that the sum was larger than the paper.
+
+He looked up at the tiers for a moment, as if the three sheets were pinned there, with the red line he had ruled across them and the ninety-eight dots that had never touched it. Then he looked back, and laughed, once, out of what breath he had.
+
+"There it is. Three years. Again."

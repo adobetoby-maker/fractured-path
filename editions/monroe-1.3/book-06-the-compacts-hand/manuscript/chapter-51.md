@@ -174,19 +174,7 @@ It came in and sat, and it had a single leaf in front of it.
 
 The hood read. It read in the voice it had used all year, level and unhurried, with no more weight on one word than on another, and it paused at the end of each head so that the clerk might have it. Cael fixed his eyes on the exchange's clock over the doors.
 
-"*The seat, having heard the parties upon the merits and at the close, rules as follows.*
-
-"*It records that fourteen sittings were held; that the exhibits of the petitioner and of the respondent were received entire and without objection; that the statement entered under the provision for such statements was noted; and that, the certificate of the protocol being withheld, the seat proceeds upon its own authority, as the code allows.*
-
-"*First. The enrollment of the said Caelen Hesk-ward at the chartered academy at Halcenvane was lawfully executed under the demonstration provision of the assay clause, which provision stands. The seat so held at the preliminary, and so holds.*
-
-"*Second. The respondent institution has been compliant with its charter and with every order of this seat. No finding is made against it, and none is to be entered.*
-
-"*Third. The integrity question raised by the petition being within the registry's discretion, and the seat being satisfied that the question cannot be answered upon the record alone, the enrollment basis is revoked. The revocation shall take effect at the close of the present academic year.*
-
-"*Fourth. The said Caelen Hesk-ward shall be re-evaluated under standard Arbiter protocol, at the district seat at Ostrand, within five weeks of this day, upon a date to be notified. The evaluation seat constituted for these proceedings shall see to its conduct.*
-
-"*Fifth. Upon the result of that evaluation, the provisions of the fourteenth chapter shall apply as they are written.*
+"*The seat, having heard the petition and the responses in full, and having found the enrollment lawful in its execution and the respondent institution compliant with its charter throughout — which findings stand undisturbed — nonetheless finds the evaluation-integrity question sustained on the merits. The demonstration provision describes the practitioner; it does not evaluate him within the meaning of the integrity provisions. The petition for compelled re-evaluation under standard Arbiter protocol is granted. The re-evaluation shall be conducted at the district Arbiter station within five weeks. Should the re-evaluation return no valid classification, the procedure of the code's chapter fourteen shall apply: nullification, suspension, asset-restriction. The demonstration-provision enrollment is revoked effective at the close of the present academic year.*
 
 "*Given under the Compact's hand.*"
 
@@ -216,7 +204,7 @@ Jent came across the aisle before the benches had finished rising.
 
 He came to Withrow first. He stood in front of her, a man of middle height in a coat with mended cuffs, and bowed, not to the registry's depth but a little past it.
 
-"Chancellor," he said. "Your house is clear in every line of that leaf. I asked that it should be, in terms, and I wanted you to hear so from the petitioner and not from a clerk. If an inspector ever opens your folder at this year, send him to the second head."
+"Chancellor," he said. "Your house is clear in every line of that leaf. I asked that it should be, in terms, and I wanted you to hear so from the petitioner and not from a clerk. If an inspector ever opens your folder at this year, send him to the finding that the respondent institution was compliant throughout."
 
 "I heard it read," said Withrow. Her voice was perfectly even. "I shall know where to send him."
 

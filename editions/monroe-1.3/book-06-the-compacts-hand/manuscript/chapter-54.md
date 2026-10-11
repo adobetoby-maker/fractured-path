@@ -169,19 +169,19 @@ He had not known the notices had those words in them. The one before had said *c
 
 "Coach."
 
-It was Rooke's clerk, the thin anxious young man who had kept the visitors' ledger. He had come to the edge of the stand with a book open on each forearm, and he looked from one to the other like a man holding two plates.
+It was Rooke's clerk, the thin anxious young man who had kept the visitors' ledger. He had come to the edge of the stand with the house's permanent book open on one forearm and the program's on the other.
 
-"Which book, Coach? It isn't a program bout, so it oughtn't to go in the program's. And it isn't a ladder bout, so I don't see how it goes in the house's. There's no head for it in either."
+"Which name, Coach? It isn't a program bout, and it isn't a ladder bout. The house's permanent column only has a head for one fighter. Ephram, or the enrollee?"
 
 Rooke did not turn round. He was watching Brom and the healer get Ephram to his feet.
 
 "Both. Enter both."
 
-"And for him? There's no column that—"
+"Under what name for the enrollee? There's no column that—"
 
 "As chalked."
 
-The clerk looked up at the first board, at the two words Rooke had written there in the dark, and then he sat down at the long table and dipped his pen. He wrote it twice, once in each book, as a man does who has been told to get a thing down where nobody can rub it off.
+The clerk looked up at the first board, at the two words Rooke had written there in the dark, and then he sat down at the long table and dipped his pen. He entered the bout twice in the house's book, once under each fighter, as a man does who has been told to get a thing down where nobody can rub it off.
 
 Cael stood up, and his legs allowed it.
 
@@ -237,37 +237,15 @@ Lira did not answer the question. She looked down the steps at him, and then out
 
 Ephram came back when the light had begun to go yellow.
 
-He came down the steps slowly, with his right arm bound across his chest in a sling of the healer's linen and his coat hung over the shoulder. He had washed. He carried the porter's chalk pail in his left hand, and he was carrying it badly.
+He came down the steps slowly, with his right arm bound across his chest in a sling of the healer's linen and his coat hung over the shoulder. Rooke's clerk was waiting by the boards with the chalk and the bout sheet.
 
-"There's a custom," he said. "You'll not know it. You've never been on a board." He set the pail down on the stand. "Whoever loses on the oak chalks it. With his own hand, the same day, where the other can see him do it. It's older than the brass on the Copper crown. The porter does the rest of the year, but he doesn't do that."
+The clerk chalked the result under the notice in the same three-line grammar the yard used for every bout. Cael and Ephram stood together while he did it. Ephram looked at the board rather than at Cael, which was the register the ritual ran in.
 
-"You've one arm."
+"Whatever you are," he said, "I said I'm glad it's on my side of the floor. At the trial. When she stopped to read you." He looked at his bound shoulder. "The floor's about to be the whole continent, and I'm not on it — I'm staying; you know I'm staying; it's the right thing for me and you'd tell me so if I asked, which is why I'm not asking." He put out his left hand. "Still glad. That's the whole thing. I made myself wait two years to fight you straight and it was worth every month, and I don't need to know what you are to know that. Go be it somewhere with more room."
 
-"I've the wrong one. Hold the ladder."
+Cael took the offered hand with his right.
 
-Cael held the ladder, with his own one good hand. Ephram went up three rungs of it, left-handed, as carefully as a man crossing ice, and stopped level with the head of the third board, where the Iron column began.
-
-His own name stood there. *Ephram. Blade. Rank Six.* It had stood there, in one porter's chalk or another's, since before Cael came up the road.
-
-He took a lump of chalk out of his coat pocket and looked at the name for a moment. Then he reached up above it, to the bare black strip between the name and the board's painted heading, and drew a line. It was short and level, the width of the column, and it wavered, because it was drawn with the wrong hand.
-
-He wrote nothing above it.
-
-"I asked the porter this afternoon what he'd put," said Ephram, to the board. "He said there wasn't a column, and he'd want a fifth board, and the house wouldn't vote him the paint." He looked at his line. "So that's a rule, with the space over it left. Anybody who reads this board next year will see that the head of the Iron column has something above it, and that nobody could put a name to it. The first-years will ask. I'll tell them."
-
-He came down the ladder, one rung at a time, and stood on the stand with chalk on his fingers.
-
-"I said last night I wanted to find out," he said. "Well, I have. I had one touch off you, while you were still being careful, and I'll keep that one. I had none after. I've a shoulder that wants a month." He turned the chalk over in his left hand. "I was the best fighter on this hill for three years, by the only measure the hill has. And the measure was short the whole time, and I'm the man who kept the chart that proves it. Ninety-eight entries. I ruled the line myself."
-
-He looked up at the wavering rule above his name.
-
-"Still glad."
-
-He said it plainly, as he would have read out a rota.
-
-"I thought I would be. I wasn't sure. You don't know a thing like that until it's cost you something, and I'd rather it had cost me a shoulder than have gone on not knowing." He put the chalk in his pocket. "Go and be whatever that was, somewhere there's room for it. I'll be here. Somebody has to tell them it happened, and get the third line wrong."
-
-Cael stood with his hand still on the ladder.
+Cael stood with Ephram's left hand still in his.
 
 It was in him, new, housed for the moment where nothing else was, a thing with an edge and a rule to it. It had come out of the man in front of him an hour ago, and he could have said so in a dozen words. *There's something I took. You should know what you gave.*
 
@@ -289,11 +267,9 @@ He went up the steps, slowly, and at the top he began to whistle. It was the son
 
 He wrote it at the rim, sitting on the coping with his feet over the oak. He wrote in pencil, as Karis had learned to, with the book on his knee and the bound arm steadying the page.
 
-*Nine. Taken in earnest from a friend. He asked for the fight and not for this, and gave it without knowing that he gave it. Iron weight. It came quietly, like a rule laid along a line already drawn. An edge that is where you say it is, and a line past the end of it that knows what will cross. I saw the whole yard by it for one breath. I put it down and did not pick it up again. The bout was fought with what I brought.*
+*Nine. Taken in earnest from a friend who asked me to show him straight — so I showed him straight, and the architecture did what it does with earnest, and the notice said "non-hostile," which it has never said, because there has never been a fight like it in the log. Ephram asked for the true measurement. He got it. He doesn't know he gave me a piece of himself for it; he consented to a fight, not to the thing the fight fed. I wrote the price down before the bout, the way the covenant says, so that when it cost — and it cost — I'd have written the cost before I collected it, which is the only line between me and what the office did at a road cut and in a records hall — spending people whose names it never bothered to write down, and asking nobody anything.*
 
-*He isn't told. That was priced last night and it's owing from today. It doesn't go yellow in a fortnight. He chalked a rule over his own name with his wrong hand and said he was still glad, and I stood there holding his ladder with a thing of his in me and said I was writing something down.*
-
-*Not priced: his shoulder. I knew a Blade can't take a commitment back. I never asked where it goes if somebody stands in the way. That's mine. He says he'd have minded more if I'd known. I mind that I didn't. Entered.*
+*He said "non-hostile" and the system agreed. Nine fragments and the ninth one's engagement field says the closest thing to friendship a machine knows how to file. I'll take it. It's the truest thing the instrument ever wrote about me except "no number goes here," and it was written about a fight I didn't want to win.*
 
 He read it over once, and then set down the bills, smaller.
 
@@ -321,7 +297,7 @@ It left it. He had felt it settle, in the place beside the other, as a second to
 
 He sat on at the rim.
 
-The sun had gone behind the lecture range. Below him the oak lay in its pit, pale and dry and empty, sixty feet by forty, with a few scuffs on it near the wall where a man had knelt. The porter had finished the tiers and gone, and up on the wall the four boards were going grey. He could still read the first of them, and on the third, at the head of a column, a short wavering line with nothing over it.
+The sun had gone behind the lecture range. Below him the oak lay in its pit, pale and dry and empty, sixty feet by forty, with a few scuffs on it near the wall where a man had knelt. The porter had finished the tiers and gone, and up on the wall the four boards were going grey. He could still read Rooke's notice on the first, and beneath it the clerk's three chalked lines of the bout's result.
 
 He had come back from the pump by the covered walk, past the records hall.
 
