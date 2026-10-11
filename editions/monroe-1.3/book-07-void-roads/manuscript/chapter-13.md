@@ -30,17 +30,17 @@ Karis could not have counted it out. Brom took the purse from her coat, and foun
 
 She had her shoulder to the gate already. Lira had been watching her from the cart's tail with a frown, and Cael knew that frown, for it had been turned on a sheet of sailcloth by a hearth, and on a card at Norhold, and on every list she had ever stood under.
 
-"Can I ask you a thing?" said Lira. "It isn't about your ford."
+The woman's eyes went from Brom's sling to Lira's bound foot on the stave.
 
-The woman waited.
+"It's set stiff. It'll set stiffer. Healer would've had it straight in an hour."
 
-"Where do they keep the ranks, out here? Is there anywhere east of this where somebody would know what Iron, Rank One was? Where they'd write it down, and put you above one person and below another?"
+"There isn't one."
 
-The woman looked at the stave, and the stick, and then at Lira's face, for longer.
+"There's not. They stop inside, where the tiers are."
 
-"They stop inside, where the tiers are," she said.
+Lira looked down at the stave.
 
-She meant the ranks. She had said it as she might have said that barley stopped at a certain height on a hill; it was a thing about the ground, and nobody had decided it.
+She did not ask again.
 
 "You came up from my ford," she said. "That's what I know of you, and it's what anybody'll know." She put her weight against the gate. "Mind the stretch. It's noon."
 
@@ -182,7 +182,7 @@ A stick settled in the fire.
 
 She raised her head, and she was looking at Cael.
 
-"That woman said they stop inside. The ranks. So what am I becoming, exactly, if nobody's measuring?"
+"There's no sheet for it out here. The ranks. So what am I becoming, exactly, if nobody's measuring?"
 
 Nobody answered her.
 
@@ -338,7 +338,7 @@ Brom nodded to him, as one tradesman to another, and walked off down the meadow 
 
 Pike watched his back, as he had watched it once before, on the day he paid out two worn coins.
 
-"Held a dog with a shoulder and a river, that one," he said.
+"Held a dog with a shoulder and a river, that one."
 
 He said it level, in his carrying voice, as he gave out any line, though there was nobody near enough to hear but four.
 

@@ -304,13 +304,13 @@ She returned to the hide. She had been dictating its features to Cael since brea
 
 "He does; and everywhere else on this map his roads go straight across bare skin to the next square. It's only here that a road walks round a patch of it." She studied the bend. "I haven't a word for it. Put that it's a quiet place. A quiet place on the hide, with a road bent about it."
 
-"You mean the quiet ground?"
+"You mean the quiet ground? Everybody knows the quiet ground. Nobody goes in."
 
 It was a woman's voice, and it came from her left.
 
 She was broad, in a wide straw hat, and she was walking past the tail-board with a sack of barley on her hip, and she did not stop. She had spoken as one puts a child right about the name of a bird.
 
-"Everybody knows the quiet ground. Nobody goes in."
+Karis heard three sentences and no invitation to a fourth.
 
 She went on to the cart with the clouded-eyed man. A small boy of four or five had been sitting on its foot-board, swinging his heels, and she heaved the sack up beside him and climbed after it.
 

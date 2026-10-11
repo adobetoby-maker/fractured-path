@@ -1,0 +1,289 @@
+# Chapter 10 — The Ford
+
+They were on the gravel with an hour of light to spare, and Seln had been in the river for some time already.
+
+It had all been arranged by noon. The steading's woman had stood in her yard with her sleeves rolled and told them what she would give and what she would keep, as she might have laid out the terms for a load of barley.
+
+"He's my eyes," she had said, of the bowman. "He'll stand on the bank where he can see the whole of it, and he'll not come down to you, whatever he sees. That's no unkindness. I've one bowman."
+
+"I wouldn't ask it of him," Cael had said.
+
+"No. You'd not know to." She had looked across at the carter, who was backing his mule between the shafts of an empty cart. "He'll be at the last bend above the beach, with her nose in a bag. Either way there'll be something to carry."
+
+"That's cheerful," Lira had said.
+
+"It's true," said Brom.
+
+Seln had come down the ladder last, and the strap across his chest was gone. The case lay in the loft between the second box and the third. He had looked back up at it twice from the yard, like a man who has left a child with strangers, and had said nothing about it to anybody.
+
+Now he was under the gravel bar's near flank, twenty yards down from its head, and Cael could not see him.
+
+He had watched him go in. It had been off the near beach, a little below the white stones, where the bottom fell away a stride from the edge. Seln had left his coat and boots under the cut bank and walked into the pool in his shirt with a knife that Cael saw then for the first time, a narrow dull thing no longer than a hand, which gave back no light. The water had taken him to the waist, and the chest. He had gone on until it closed over his shoulders, and only then, with nothing above the river but his face, had he done what he had not done since a fire at a crossroads.
+
+Nothing changed that Cael could have pointed to. A man's head was there on the green water, and then it was a thing that the eye did not care to rest on, like one stone among a great many. Behind eight others the ninth of his own fragments turned over, as a dog lifts its head at a voice it knows. It was Shadow, which had come to him out of that same Path, and he put it down.
+
+If Karis's second clause held, the river was hiding the Path while the Path hid the man. He drifted in under the overhang, where the pool had cut the gravel back, and that was the last anybody saw of him.
+
+The rest of them were where the charcoal had put them. Brom stood on his stone in the near channel, five yards out, with his left heel against the lip and the bill in his right hand, facing the beach they had come down. Karis was at the bar's blunt head, beside a boulder the size of a loaf, and she had her small knife out; the blade of it shook a little, and her face did not. Cael and Lira had the far landing, where the two green grooves came up out of the water onto the gravel, with one of them on either side.
+
+On the cut bank above the near beach a lean man stood in the grass with an arrow on his string and its point toward his boots.
+
+Then there was nothing to do but stand.
+
+He had thought that there would be frogs. There were none; the only sound at that ford was the water going over the lip into the two pools, a long steady hiss like rain on a roof, and it covered everything. Nothing here would stop to warn him. He watched the far beach, and the grass above it, where three paths came down that he could not see, and the sun went lower behind them.
+
+It took the colour first. The river had been green all afternoon, and brown in the shallows, and gold where the light struck along it; and when the western ridge took the sun, the whole valley went grey in one breath, as it always did. He looked at the water sliding over the rock at his feet, and he knew what the man on the settle had meant.
+
+And it was dusk. He had known that it would be, and had thought of little else for the whole mile down. Shadow lifted behind the rest, soft, as it had lifted at every dusk for fifty days, with the one offer that he had ever wanted to take; and tonight he must stand still for an hour with it at his shoulder, in a place where being less would have been worth more than forty marks.
+
+*No*, he told it. He ground his heel in the gravel, and the stones answered him, loudly. He did it again a minute later, to be sure.
+
+He counted the large stones along the far waterline, having nothing else to do with his eyes.
+
+There were twenty.
+
+He went over them a second time from the left, slowly, with his mouth dry. Yesterday at noon there had been seventeen. He found the seventh from the upstream end, which he did not remember, long and low, with the water lapping at it; and another near the middle, and a third.
+
+He lowered his left hand beside his thigh and put out three fingers, where Lira would see.
+
+She had seen something already. She moved her head the width of a thumb, back toward the beach behind them, and he understood that she had been counting on that side.
+
+At his left shoulder Karis drew a breath.
+
+---
+
+The Ember point was no bigger than a grain of barley.
+
+He caught it at the edge of his eye, a seed of yellow standing up on a grey stone, and on the far beach three of the twenty rose to their feet.
+
+They did it all together and without any sound. They had been lying along the waterline with their bellies on the wet shingle and their chins on their paws, and they came up as mist comes off a pond. They were just as he had seen one on a rise of ground ten days ago: low, long in the back, with the head carried level.
+
+"Behind," said Lira, not moving her lips.
+
+He turned his head. On the near beach, on the stones that five people had walked down an hour before with their boots crunching, three more were standing. Brom faced them across fifteen yards of water with the bill held low.
+
+"And one."
+
+It was at the tail of the bar. It was twenty yards behind his right shoulder, on the same gravel that he stood on, and it was larger than the others and had a left ear torn half away. He did not know how long it had been there; he thought that it had very likely been there when he arrived.
+
+The river had stood up on three sides of them.
+
+All seven heads pointed at one place. It was the first declaration that any of the five had made on a road since the sixth day: a seed of flame on a rock, and the small pale person who stood a stride from it with a pencil knife in her right hand and her left held open.
+
+Brom had not forgotten what he had been asked for. Cael saw him shift the bill, and draw his own knife left-handed, and strike its pommel once against the hook. It rang out over the water like a hammer on an anvil.
+
+Six heads did not move by a hair. They might have been cut out of slate.
+
+The seventh turned. At the tail the torn ear came round first, and then the whole long head, quite slowly, to the stone in the near channel where the sound had been. It rested there on Brom for the space of a breath, and then it went back to the light.
+
+*Every head but one.* He marked it, and knew that a man with his chin in a pool had marked it as well.
+
+Nothing happened for the space of four breaths, and he had time to think that the page was wrong.
+
+Then the middle one of the three on the far beach lowered its head and walked into the river.
+
+The two beside it went in after it. They did not go abreast; they fell in behind, one and then the other, in its wake, as ducklings follow. He looked back across his shoulder. On the near beach not one of the three had stirred a foot. Nothing on that side had gone first, and so nothing there had gone at all, and he put that by to think about when he had the time.
+
+They came across the far channel in a line.
+
+It was twenty yards of fast water on green rock, and they went over it as cats go over ice, flat-footed, with each paw set down and tried. Their heads never wavered from the yellow seed. Karis was counting under her breath, as she had counted to ninety on a gravel bar with a stone in her lap. He did not hear the number at which she stopped.
+
+The yellow went out. She had ended her declaration between two beats of her heart, as she had said that she could.
+
+He watched for what the three would do, with the knife sweating in his hand; and they did nothing whatever. They did not check or lift their heads. They came on, in their line, for the place where the light had been.
+
+He understood it then, and it was the first part of her second clause that he had ever seen with his own eyes. They did not know. They had left dry stones with a declaration fixed in their heads, and the river had shut over their feet, and with it whatever sense they had for a Path; and they were walking to the place as a man crosses a dark room to where he last saw the door.
+
+The grooves came up onto the gravel between him and Lira. There were two yards from his boots to hers.
+
+The first hound came up between them. It set its forefeet on dry stones and shook one of them, twice, and raised its head, and its head began to swing, low, from side to side. It had lost its line. It was as tall at the shoulder as his knee and as long as he was, and it smelled of wet slate. It was a yard from him, and it had not so much as looked at him.
+
+He stepped in and put the knife behind its shoulder, low, where the ribs ended, and bore down on it with all his weight.
+
+It turned on him faster than a thing of that size ought to turn. Its teeth shut on his left sleeve and went through the cloth of his coat as if it had been paper, and he felt the wind of them on his wrist. Then its legs went from under it, and it was dead before it had finished coming round.
+
+"Six," said Lira.
+
+The two behind it had stopped. They stood with their forefeet on the gravel's edge and the river running round their hocks, and they did not come on. They had lost the thing they were walking behind.
+
+---
+
+They came up out of the water apart.
+
+One went to the right, toward Lira, and the other came for him. He set himself to meet it, with the knife low, and it was not there. Its teeth clicked on the skirt of his coat, and it was back out of reach, a clear yard, with its head level, before his arm had finished moving.
+
+It came in again at his knee. He cut at it, and cut air.
+
+It could have had his leg, and he knew that for certain by the third pass. It had the reach and the speed, and jaws that had gone through a coat sleeve without slowing; if it had meant to pull him down it would have done so, and he would have been on the gravel. It did not mean to. It nipped, and sprang away, and stood, and waited. Then it nipped again.
+
+It was biting to be answered.
+
+That was the whole of what it was doing. It had been walking to a declaration, and the declaration had gone out, and here was a warm shape standing where it had been; and so it was asking that shape the only question it knew how to ask, with its teeth. It would go on asking until he declared. He thought of a silent man on his back with a broken leg, and understood what had been done to him before his fellow shouted.
+
+Nine fragments came up in him at every snap.
+
+It had been easier on the stretch. Nothing had touched him there. Compression had waited all these weeks for a blow, and each time the teeth met in his coat it rose to take the weight and send it down through his heels. Wind begged for his feet. Pressure had begun to gather under his breastbone, a breath at a time, where anything might feel it gathering. He put them down, and they got up, and he put them down again, while a grey thing tore the hem of his coat to ribbons.
+
+On his right the other was at Lira in the same way. She had never in her life let a feint go by without an answer, and she went after it with the long knife, and it gave back before her down the bar.
+
+"Lira," he said.
+
+It was the first word that any of them had spoken aloud since the beach. She did not turn her head.
+
+Both of the two were up on the gravel now, and both were looking the wrong way. That was Brom's mark. Cael raised his left fist to the height of his shoulder and shut it twice.
+
+Brom did not hurry. He stood on his stone with three grey shapes in front of him across the water, and he rolled his shoulders once, as he did before he lifted anything. Then he declared.
+
+Iron Skin came up from both wrists together. It was the grey of a hearthstone, and it went over the backs of his hands and along his forearms and in under the rolled sleeves; it came out again at his collar and climbed the cords of his neck to the hinge of his jaw. His skin stopped creasing. In that light he looked like something a mason had left half finished on a rock.
+
+Cael felt the discharge go out of Brom. He had stood beside that Path in harness rooms and on district floors, and it had never been more to him than a fact about Brom, like his height. After fifty days in which nobody near him had declared anything at all, it went across the river like a bell.
+
+Every head turned.
+
+The hound at his knee swung round in the middle of a snap, as a weathercock swings. Twenty yards down the bar the other did the same. On the near beach the three that had stood like posts while their fellows crossed and one of them died all moved their heads by the same inch, together. At the tail, the torn ear came round.
+
+The one on the left of the three stepped onto the rock, and the other two fell in behind it.
+
+His own was gone. It went from him across the head of the bar at a flat run, past Karis's knees as though she were a bush, straight for the grey man on the stone; and he went after it, and he had never felt so slow. Something low passed him on the right, and something else behind that, which was not grey. He had no eyes for either.
+
+The first hound came up out of the channel onto Brom's stone, and Brom gave it his left forearm, held across his body like a bar.
+
+Its teeth met on iron. Cael heard them, a sound like a spade going into gravel.
+
+And Brom dropped it.
+
+He let Iron Skin go as a man lets a coat fall from his shoulders in a doorway, all at once, and stood in what was underneath. The grey went out of his neck and his hands, and out of the arm with the jaws shut on it, between one beat of his heart and the next.
+
+He was still large.
+
+Cael saw his face take the teeth. He did not cry out, and he did not try to pull the arm away. He turned his left shoulder in over the animal's neck and went down on one knee with all his weight, off the edge of the slab into the fast water, and bore its head and its forelegs under.
+
+The current took the hound's hindquarters. It swept them round and out over the lip, into the falling water, and the river pulled one way and Brom's heel against the rim of his stone held the other, and the animal was drawn out straight between them like a flag in a wind. Its jaws dragged down his arm as the river hauled on it. He let them drag. He kept his shoulder where it was.
+
+Cael had a foot in the channel when Brom spoke, without turning his head.
+
+"Stay there."
+
+The two that had followed came up to the stone through the water, and found no declaration there to meet them, and stood. One of them set its teeth in the tail of Brom's coat and tugged at it, twice. It was asking. He gave it no answer whatever, having a river to hold.
+
+It took as long as it takes to count thirty slowly.
+
+"Five," said Brom, to the water, through his teeth.
+
+Cael turned to look for Lira then, and found her not three yards from him.
+
+---
+
+Lira had stopped thinking of it as a dog at about the time it took her sleeve.
+
+It was a feinter. She had met a dozen of them, at Fenmark, on a chalked floor, with a coach walking the edge who gave a mark for every feint that was answered in time; and she had been the best in her year at it, since her answer was always the same one. When something came at your knee you were simply somewhere else. You were there before the eye of the girl opposite had finished telling her that you had gone.
+
+It came at her knee.
+
+*No*, she told her feet, and cut at it, and it was a yard off with its head level, looking at her as a clerk looks over a counter.
+
+Her whole body knew what to do with this animal. She was Wind. The burst sat in her calves like a held breath, and it had sat there since she was fourteen, and for fifty days she had been taking a stride at a time away from it, on a river bar, with a boy telling her how who had been her partner since a lane in Ardenmere. *You say it at the first stride. Then you say it again at the second.* She said it at the snap. She said it again as the thing sprang back, and again as it settled.
+
+So she pressed it instead, which was the other answer to a feinter, and the only one she had left.
+
+It gave ground. She took the ground. That was correct; she had been taught it before she was taught to read a card. It gave another yard, down the firm spine of the gravel where she had run in her bare feet yesterday, and she followed with the long knife out in front of her and her weight low, and it nipped at her wrist and gave again.
+
+She was enjoying it, a little. She would have denied that to anybody.
+
+She could not have said what stopped her. It might have been the sound of the water, which had changed, for the hiss of the lip was behind her now and there was a deeper noise on either hand. Or it was only the back of her neck. She had stood in a great many yards with somebody waiting behind her for the bell.
+
+She turned her head by an inch.
+
+The beach was a long way off. The boy was a small dark shape up at the head of the bar with a grey thing dancing round his knees. She had come twenty yards down the gravel, or more, a pace at a time, and all of them in one direction; and there was black water close on her left and close on her right.
+
+Eight paces behind her right shoulder the seventh was standing.
+
+It was a good deal bigger than the one in front of her, and one of its ears hung in two pieces. It was not looking at her, and that was the part she would remember afterward, when she remembered any of it. It looked past her shoulder, up the bar, at nothing, with its weight forward on its toes. It had been lying on that spot when she ran at it yesterday. It had stood there for the whole of this, and a mild man had told her in a loft, in so many words, exactly where it would be and what it was for.
+
+*He is never the one you are looking at.*
+
+She had looked at the wrong dog for twenty yards.
+
+She stood quite still. The feinter was in front of her and the other was behind, and there was a pool on either hand with no floor to it. Her feet wanted to go. Every rank that she had ever been given had been given her for going: there were twenty feet of air between her and the far beach, and she could have been standing on those stones before either animal had turned its head.
+
+She had run round by the bed of a wash for less, with the water coming.
+
+*No.*
+
+It cost more than it had at the wash. She felt it go through her from the heels up, like a rope taking a load.
+
+Up at the head of the bar, the big fool declared.
+
+She saw the grey of it at the edge of her eye, and she felt the discharge, as she had felt it a hundred times across a harness room; it was as though the weight of him had doubled. He had done it exactly on the count. She had never known him early or late for anything.
+
+Both heads went round.
+
+The feinter's swung away from her like a needle to the north, and behind her shoulder she felt the big one's turn as well, though she kept her eyes to the front. For a breath neither of them had any more interest in her than in the gravel.
+
+Then the feinter ran.
+
+It went by her within reach of her hand, flat out, up the spine of the bar toward the grey man on the stone, and it did not so much as bend its line to clear her. She was a post. She was a thing that happened to be standing in its road.
+
+And she was behind it.
+
+---
+
+She had run that gravel three times yesterday, and the dog had never run it at all with anybody after it.
+
+That was the only edge she had. It had four legs and a start of three yards. She had the spine of the bar by heart: where it was firm, and where one flat stone rocked, and the place a third of the way up where the ridge bent to the left and a person who went straight put a foot in soft shingle.
+
+At the first stride the burst said *now*.
+
+She told it no. At the second it said so again, a good deal louder, since the thing in front of her was pulling away and every yard of her life had taught her what to do when something pulled away. She refused it at the third stride and at the fourth, and after that she did not count. There was no room in her for counting. There was a grey back, and the line of the stones, and her own two feet, which were doing a thing that she had not known they could do by themselves.
+
+She was fast.
+
+It came to her at about the tenth stride, with something very like outrage. She had always supposed that the speed was the burst. The running had been the walk up to it, as a singer clears her throat; no panel had ever given her a rank for the running. She had not known that there was this much of it. The dog took the bend of the ridge straight, and its hind feet went into the soft, and she went round by the firm stones and had a yard back.
+
+She was gaining on it. She was gaining on a four-legged animal, on gravel, in bad light, with nothing in her feet but feet.
+
+Nobody was scoring it.
+
+That came to her in the middle of the run as well, and she had no time to do anything about it. There was no chalk. No slate hung on any wall. A man stood on a bank with a bow who might or might not have been able to make her out at that distance. She was running the best twenty-five yards of her life for no one at all, and she noticed that she minded.
+
+The weight went off the river.
+
+It went all at once, like a cart lifted off a foot. The big fool had put his Path down. In front of her the dog checked. It had come to the edge of the gravel at the bar's head, where the channel began, and the declaration it was running to had gone out like a lamp; it stood there on three legs with one forefoot raised over the water, and its head began to swing.
+
+She took it behind the shoulder.
+
+She put the long knife in low, where she had seen the boy put his, and the whole of her run went down her arm behind it. It came round at her. Its jaws shut on the air a hand's breadth from her face, so near that she felt its breath, and then it folded.
+
+There was the stop still to make.
+
+She was two strides from the edge with all that speed in her, and she did what she had spent a month on a river bar failing to do, and one morning under a platform doing at last while a man lifted two fingers from a bow. She stopped. She did it between one stride and the next, dead, on both feet.
+
+The edge was round stones lying on round stones, with the water through them.
+
+She had said so herself, yesterday, about the tail. She had not thought to say it of the sides.
+
+Her right foot rolled outward, and went on rolling. It went past the place where an ankle stops, and she heard it go. It made a small wet sound, like a green twig bent double, and she knew that sound. She had heard it once at Fenmark from a girl two places above her on the list, who had not been on the list the term after.
+
+Then she was sitting in the river to her waist, with a dead hound across her shin and the long knife still in her hand.
+
+There was nothing at the end of it.
+
+She had not burst. She had not used her Path at all. So the air had not cracked, and the gravel had not gone up in a fan, and not one head on that river had turned to see where she was. That was the point of it; she knew perfectly well that it was the point. She had done the fastest and the quietest thing of her whole life, and the proof that she had done it rightly was that nothing whatever had happened.
+
+The pain was coming. She could feel it on its way, like somebody climbing a stair.
+
+"Five," said a voice across the water, through its teeth.
+
+The boy had turned round. He was three yards off, and he was looking at her with the eyes that went over a thing a piece at a time and missed none of it, and in a moment they would get to her foot.
+
+"Lira."
+
+She had one thing to say, and she picked it with care. There were dogs still on that gravel, and she would not have him kneeling over an ankle.
+
+"I'm fine."
+
+He knew what that was worth, and she watched him know it. She held his eye until he let it stand.
+
+"Four left," she said. "Mine makes it four. Somebody ought to keep the count." She pointed past him with the knife, since her hand was shaking too much to point with anything smaller. "Behind you."
+
+At the head of the bar, by a stone the size of a loaf, something grey had begun to walk.

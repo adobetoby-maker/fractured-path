@@ -76,7 +76,7 @@ Karis's finger moved in the notebook.
 
 Nobody at the board answered, and then the man on the settle, who had been looking into his bowl, raised his head.
 
-"River's their colour," he said.
+"River's their colour."
 
 He told it in a few sentences, and he told it to the fire.
 

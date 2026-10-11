@@ -22,7 +22,7 @@ He had watched him go in. It had been off the near beach, a little below the whi
 
 Nothing changed that Cael could have pointed to. A man's head was there on the green water, and then it was a thing that the eye did not care to rest on, like one stone among a great many. Behind eight others the ninth of his own fragments turned over, as a dog lifts its head at a voice it knows. It was Shadow, which had come to him out of that same Path, and he put it down.
 
-The river had hidden the Path, and the Path had hidden the man. He had drifted in under the overhang, where the pool had cut the gravel back, and that was the last anybody saw of him.
+If Karis's second clause held, the river was hiding the Path while the Path hid the man. He drifted in under the overhang, where the pool had cut the gravel back, and that was the last anybody saw of him.
 
 The rest of them were where the charcoal had put them. Brom stood on his stone in the near channel, five yards out, with his left heel against the lip and the bill in his right hand, facing the beach they had come down. Karis was at the bar's blunt head, beside a boulder the size of a loaf, and she had her small knife out; the blade of it shook a little, and her face did not. Cael and Lira had the far landing, where the two green grooves came up out of the water onto the gravel, with one of them on either side.
 
