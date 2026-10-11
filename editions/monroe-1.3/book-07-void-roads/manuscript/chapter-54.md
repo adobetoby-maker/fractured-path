@@ -316,10 +316,10 @@ On the kerb Seln stopped, since a person could. He set his boot in the stirrup o
 
 "One," he said.
 
-She took it. Brom was looking at the roll of paper, and at what Karis held, with his coat black from the shoulder to the belt.
+She took it. From the coping, before they came down, Brom had looked at the roll of paper and at what Karis held, with his coat black from the shoulder to the belt. He had asked:
 
 "What did we get?"
 
-[[TIER-B: Karis's answer on the kerb, "Walls… Twelve sheets." — coordinator to supply protected text]]
+"Walls," Karis said, from the coping. "I've the walls. Twelve sheets."
 
 Nobody proposed going back for anything. They left it in its water, with four of a healer's bolts in it, and went out along the grey path in file, at one pace, as they had come.

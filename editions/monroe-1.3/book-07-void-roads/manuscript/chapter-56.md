@@ -72,7 +72,7 @@ It had been the hundred and seventeenth morning, three days before, when Teague 
 
 He had not sent for her. She had come of her own motion, as she did every year. She went up the north water when the roads dried, to her daughter's hold, and set whatever that valley broke until the first hard frost. Then she walked down to Lowmarch, and asked a one-armed man where the crew was. This year he had told her Millrace. She had ridden down on the mill's cart, on the sacks, and had been sitting on the flat stone by the ford when Teague came off the ridge with a stake still to set.
 
-He had set it. The woman with the net had put her mark on the shingle, and there were four marks in his belt that he had counted as lost. He had sent his word north by the mill's carter, in so many words, for the man with the book: five strokes to look at, and all of them walking; and the three hundred was to stay where it lay.
+He had not set it. The woman with the net had not put her mark on the shingle, and the four marks were lost, as he had said they would be. He had sent his word north by the mill's carter, in so many words, for the man with the book: five strokes to look at, and all of them walking; and the three hundred was to stay where it lay.
 
 That was his business with that crew done, by any reckoning that he had ever used, and he sat on the bank at dusk with his boots off and found that it was not done.
 

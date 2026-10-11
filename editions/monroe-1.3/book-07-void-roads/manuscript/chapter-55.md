@@ -26,7 +26,7 @@ Lira held nothing; she sat on the grey stone with the bow across her knee, and l
 
 She sat down where she had knelt, on the frozen turf, with her knees drawn up and her forehead on them, and it was as long as it takes to count a hundred before she lifted her head. Nobody went to her. Cael had heard her say on a mountain that her reserve was a purse; he had watched her empty it at a mill, and at two stones, and he understood by now that what she spent on such a morning was the very thing that a child at some northern gate was waiting for, and that she knew it to the grain.
 
-"Twice. It'll hold twice. It will not hold three times this season, so don't ask it to," she said. "I've mended that twice in six days. The first time it was a clean hole, and I'd a road to do it on. This time it was torn, and I did it sitting in a ditch. There isn't a third in that flesh. If it goes again before the thaw, I shall be binding it like a carter's wife, and it'll knit as a carter's does, crooked, in three months. Have you got that?"
+"Twice. It'll hold twice. It will not hold three times this season, so don't ask it to" — and Brom said, "Arm," and she said, "No," and he didn't.
 
 "Twice."
 
@@ -160,7 +160,7 @@ He wrote the day's bill then, with his eyes still swimming a little, and he kept
 
 *Anchor: one point, on the slab in the hole, held while four went in. I couldn't have told you my own name.*
 
-*Three. Deployment since the Line: twenty-seven.*
+*Three. Deployment since the Line: twenty-six.*
 
 *We left it alive.*
 
@@ -298,4 +298,4 @@ He wrote it down while the light came.
 
 *Tide: once, on the healer, by her leave.*
 
-*Deployment since the Line: twenty-eight.*
+*Deployment since the Line: twenty-seven.*

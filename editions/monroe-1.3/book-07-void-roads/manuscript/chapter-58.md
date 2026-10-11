@@ -26,9 +26,9 @@ Lira had the bow off her back. She held it out by the stock, with the one bolt l
 
 "It rode on my mule for thirty rounds in a cover, and I looked at it at noon one day, at a stone, and left it where it was. It's done more across your knee than it ever did for me." Oryn did not put out a hand. "There's one in it. See that it stays in till it's wanted."
 
-She looked along the five of them then, once, and said the thing that she had stopped the mule to say.
+She looked along the five of them then, once. Her sum ran to the oxen ford on the hundred and twenty-fifth, three weeks after it had looked for her; then she said the thing that she had stopped the mule to say.
 
-[[TIER-B: Oryn at the fork, "I'm three weeks late there…" — coordinator to supply protected text]]
+"I'm three weeks late there, and three weeks is three weeks, and there's an old woman at Thornwater whose knee I said I'd see, and I said it after the thaw."
 
 "I've been a stop on my own route for nine days. I'm going back to being the route."
 
@@ -108,7 +108,7 @@ He had Hesk's book out, to enter the hour, as Karis did. He wrote something else
 
 He looked at it. He had never written that of anywhere. He had been in other people's country since he was fourteen, and had learned every yard of it as a prisoner learns a wall.
 
-It was true, and he let it stand; and the other thing was in the same coat with it, and had been all morning. They were walking along a ruler. Somebody had set three floors in a row, as a person sets stones along a path; and when he looked ahead down the ridge, to where the strip went on into the blue, he was more afraid of what was under the brass than he had been of a thing in a marsh.
+It was true, and he let it stand; and the other thing was in the same coat with it, and had been all morning. They were walking along a ruler. Three floors lay in a row, as stones lie along a path; and when he looked ahead down the ridge, to where the strip went on into the blue, he was more afraid of what was under the brass than he had been of a thing in a marsh.
 
 He put the book away, with both of them in it, and went on.
 
@@ -148,23 +148,23 @@ At the old ruts Lira stopped, and looked down the slope, and then at Cael.
 
 She went down from the ruts by herself, on the whole of her foot, with her head a little on one side and her lips moving. He counted with her. She had found the line at forty paces inside the ruts at the Stair; the ruts at the Fallow had kept forty yards. She passed forty without a check. She passed a hundred.
 
-At a hundred and ninety, or within a pace or two of it, her left boot came down beside one of the dark uprights, and she stopped as she had stopped at the reeds.
+At a hundred and eighty-nine, or within a pace or two of it, she stopped one pace above the dark uprights.
 
-"Gone." She drew the foot back. "Back. It's here. It's at the stakes."
+"The iron marks it," she said. "I'm not going over."
 
 "A hundred and ninety," said Karis, at the ruts. "Not forty."
 
-"Whoever drove a cart round this one didn't care to come within a furlong of it." Lira had not moved from where she stood. "And I can see why somebody'd want a fence. You'd be over the edge and well down the hill before you thought to look for it."
+"Whoever drove a cart round this one kept a furlong off." Lira had not moved from where she stood. "The iron tells us where to stop. Without it you'd be well down the hill before you thought to look."
 
 Nobody crossed. Cael came down to her, and the others behind him; and they stood in a row along the outside of that fence, in the last of the light, as people stand at the rail of a bridge.
 
-He could have gone over. He knew it as he stood there. He had walked across three such lines and felt nothing but the ground, and he was the one person at that iron for whom Lira's *gone* had never had any teeth. He kept his boots beside theirs. It was a crew's line or it was nobody's, and he had learned on a white floor what it cost to hold a different ruling from the people whom he was ruling for.
+He could have gone over. He knew only that he had crossed three such lines before and that the fragments had answered there; nobody had tested this line, and nobody would. He kept his boots beside theirs. It was a crew's line or it was nobody's, and he had learned on a white floor what it cost to hold a different ruling from the people whom he was ruling for.
 
 ---
 
 It was iron, of the registry's pattern.
 
-He had seen four such stakes. There had been one at a grey stone on the Fallow, and two at the Stair with a road between, and one at the track's end beside a marsh. Each had stood alone on its edge, to say that somebody had been there with a cord.
+He had seen four such stakes. There had been one at a grey stone on the Fallow, and two at the Stair with a road between, and one at the track's end beside a marsh. Each had stood alone at an edge where a cord had been laid.
 
 These did not stand alone. Anchor had known it before his eyes did; it had asked at two bars with an old road between them, ten days ago, and here it asked at every pace, in its thin held note, as far as he could hear. There was a bar at his right knee, a hand's length clear of the turf, and another a pace beyond it, and another a pace beyond that. They went on so in both directions, one to a pace, round the head of that valley, for as far as he could see iron against the grass.
 
@@ -182,7 +182,7 @@ Lira had gone along the fence to the left, counting under her breath, and Brom t
 
 "Forty on mine," said Brom. "The same."
 
-Karis had her lamp lit by then. She had set a point on its wick with her own hand, outside that line, and she had the long cord laid along the feet of the bars with Cael at its far end. There was no call for anybody's foot. The line was marked for her at every pace, in iron, by people who had wished it to be found.
+Karis had her lamp lit by then. She had set a point on its wick with her own hand, outside that line, and she had the long cord laid along the feet of the bars with Cael at its far end. There was no call for anybody's foot. The line was marked at every pace in iron; no foot was needed to find it.
 
 She laid it twenty times. At each cord's end she set her short cord from the last bar to the line that the long one would next take, as she had on three other rounds. Cael, holding the lamp for her, saw that the short measure did not come to the knot that it had always come to. It came to half.
 

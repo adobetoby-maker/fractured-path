@@ -70,7 +70,7 @@ It would not miss. She could make it lie a hair to this side of a dot, or a hair
 
 And she had not chosen the third. That was the thing which she kept returning to, as a tongue goes back to a tooth. She had laid that edge on two rings at a grey stone, in daylight, with five people looking, before any one of them had seen a reed. It had run off into a corner of the skin where a man once lifted his hand. They had walked along it for three days, in a strip a mile wide, and had come over a rise onto a marsh.
 
-Nobody arranges a test of that kind. It had been set for her, by a ruler, and she had passed through it on her feet.
+There was no arranging a test of that kind. She had laid the ruler herself, before the third place was known, and then passed through the answer on her feet.
 
 She wrote the line on the first leaf, under the walls, and then on the second, and the third.
 

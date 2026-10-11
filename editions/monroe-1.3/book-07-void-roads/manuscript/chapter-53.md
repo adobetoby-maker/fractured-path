@@ -384,9 +384,9 @@ Cael wrote the day's log with his back against the old stake, as he had written 
 
 *Seln wrote its rule in Karis's book with his own hand. He has never done that.*
 
-*Anchor: one point, set on a plate at the kerb's foot, and held for sixty counts. The first that I ever set. It came at eleven and stayed with it till I let go, and while it did I had nothing else at all. Counted in the number. I'll not call a trial a use.*
+*Anchor: one point, set on a plate at the kerb's foot, and held for sixty counts. The first that I ever set. It came at eleven and stayed with it till I let go, and while it did I had nothing else at all. Not counted in the number. I'll not call a trial a use.*
 
-*Deployment since the Line: twenty-four.*
+*Deployment since the Line: twenty-three.*
 
 *In at first light. Karis hasn't said if since the Stair.*
 

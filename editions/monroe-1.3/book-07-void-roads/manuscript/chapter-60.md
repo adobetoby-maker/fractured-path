@@ -14,7 +14,7 @@ She took the purse out of her coat. Cael had seen that woman pay for a cart, and
 
 It was a narrow room with one small window, and it smelled of barley. There was a table in it of scrubbed deal. The keeper moved his meal-sacks to one end, and by the time the hearth had been banked for the night she had made the other end her own.
 
-Brom set the kit on the table. It lay there in its tarred canvas, with the strap coiled on the lid, as it had lain on a floor under the ground: a cord knotted at the fives, and a mallet, and a bar that had never been driven. Beside it Karis put a dead man's ledger, shut. The three boxes stood against the warm wall, and each of them had one leaf in it that was the same as its fellows.
+Brom set the kit on the table. Its case lay there in tarred canvas, with the strap coiled on the lid, as it had lain on a floor under the ground; inside were a cord knotted at the fives, stake thirty-two with the stroke and the bar and a bright turned point, and a mallet. The stake had never been driven. Beside it Karis put a dead man's ledger, shut. The three boxes stood against the warm wall, and each of them had one leaf in it that was the same as its fellows.
 
 Then she took out the sheets.
 
@@ -28,7 +28,7 @@ She set her lamp in the middle, and lit it with a point, and unrolled the hide.
 
 Cael did not go to the hearth with the others. He sat down at the meal-sack end of that table, with Hesk's book, while she worked; and he did the thing that he did at the start of anything, which he had last done on the night that he was nineteen.
 
-*Hundred and twenty-ninth day, night. A back room with a door on it, in the lower inn at Lowmarch. First snow. Ninety-six in hand. Nine lines in Pike's book, and no number against the season. Eleventh on the cloth. Deployment since the Line: twenty-eight.*
+*Hundred and twenty-ninth day, night. A back room with a door on it, in the lower inn at Lowmarch. First snow. Ninety-six in hand. Nine lines in Pike's book, and no number against the season. Eleventh on the cloth. Deployment since the Line: twenty-seven.*
 
 He ruled a line beneath, and wrote the rest slowly, since it was to stand through a cold term.
 
