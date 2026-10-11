@@ -16,7 +16,7 @@ Lira had stopped chewing, and Karis, who had her notebook half out of her coat, 
 
 "A different question?"
 
-"At that bench you asked the healer, at her own table, with three mendings just gone out of her and eleven people looking on. Nobody is read at that table but by me; you turned it round on me once, and I told you what that was." She pushed back her left cuff. "And you'd have had your hand on a tired woman who was being stared at, and gone off thinking that was a Tide. This is a woman on a rock, who has eaten, and walked an hour, and there's nobody here who hasn't seen her asleep. She's the one you've asked, and she can say yes."
+"At that bench you asked to touch a boy while I had his wrist, so that you could feel what I felt. His leave was never yours to ask from me, and his treatment was not your lesson." She pushed back her left cuff. "Here you've asked to read me. This is my wrist, and I can answer for it."
 
 "And what's it for? You said that there has to be something."
 

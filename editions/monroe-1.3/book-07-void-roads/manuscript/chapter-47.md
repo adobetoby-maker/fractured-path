@@ -82,9 +82,9 @@ That one took her until the shadow of the wheel lay across the door, and when it
 
 She had told them on a mountain that her reserve was a purse, and that three such mendings emptied it.
 
-She did the rest of them with one hand each, and that took her less time than the knee had. Cael counted a dozen. There was a carter with a wrenched back, and a boy with a stye, and a woman whose tooth she looked at and would not touch. She laid two fingers on a wrist, or a palm on a forehead, for a count of ten, and told each of them the truth in a sentence. She put tape on a thumb. She told a big sullen man that there was nothing wrong with him that a week away from his brother would not cure, and the whole bench laughed, the man included.
+She did eleven of the rest with one hand each, and that took her less time than the knee had. There was a carter with a wrenched back and a woman whose tooth she looked at and would not touch. She laid two fingers on a wrist, or a palm on a forehead, for a count of ten, and told each of them the truth in a sentence. She put tape on a thumb. She told a big sullen man that there was nothing wrong with him that a week away from his brother would not cure, and the whole bench laughed, the man included.
 
-Then there was nobody between the five and the door.
+Then there was only a boy with a swollen wrist between the five and the door. He had been sitting on his father's coat, and he came up when Oryn crooked a finger at him.
 
 ---
 
@@ -102,7 +102,7 @@ He got up off the bench and went to the edge of the turf roof's shadow, and stop
 
 He had turned it over on the ridge since before the sun was up, and it had seemed a plain enough thing there. It was harder in front of her, with her sleeves pushed back and three mendings gone out of her since first light.
 
-"I've read one thing with what I had from you, and it was myself. I found no bank in it anywhere, as you found none. I don't know what a bank is like under the hand. I've only your word that there is such a thing." He kept his own hands at his sides. "I'd go back to it better if I had felt one. So I'm asking whether I may read you, here, when the bench is done. The short one, and no more than you choose."
+"I've read one thing with what I had from you, and it was myself. I found no bank in it anywhere, as you found none. I don't know what a bank is like under the hand. I've only your word that there is such a thing." He kept his own hands at his sides. "When you take the boy's wrist, may I set my hand on it too? I want to learn what reaches you through yours."
 
 He heard Lira's breath stop, on the bench behind him.
 
@@ -114,13 +114,13 @@ She said it without heat. She hung the cloth on its nail, and turned back to him
 
 "You asked. That's the rule and you kept it. The answer's no. Next."
 
-He stood for as long as it took him to be sure that he had nothing to add, and he had nothing. He had asked a person for the first time in his life whether he might do a thing to her; she had said that he might not; and the whole of what was left to him was to go and sit down. He went and sat down. It was not hard to do, and he was a little surprised at that, since he had dreaded it.
+He stood for as long as it took him to be sure that he had nothing to add, and he had nothing. For the first time in his life, he had asked before putting his hand on another person; he had been told that he might not; and the whole of what was left to him was to go and sit down. He went and sat down. It was not hard to do, and he was a little surprised at that, since he had dreaded it.
 
 Lira was getting to her feet beside him, with her right hand already at the knot of her sling.
 
 He took Hesk's book out of the satchel. He had written nothing in it yet that day, and he wetted the pencil and put this down before anything else, with the date over it, so that it should stand first.
 
-*Hundred and thirteenth day. Millrace, the healer's bench, a little after noon. Asked her, at her own bench, whether I might read her. It is the first time that I have asked anybody. She said no. Entered before anything else today, since it is the first of its kind and I want it to head the leaf.*
+*Hundred and thirteenth day. Millrace, the healer's bench, a little after noon. Asked her leave to touch the boy's wrist while she held it, so that I could learn what came to her hand. She said no. I stepped back. Entered before anything else today, since it is the first refusal under the rule and I want it to head the leaf.*
 
 Karis had been reading it upside down, from his other side.
 

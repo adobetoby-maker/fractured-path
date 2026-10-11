@@ -248,7 +248,7 @@ Lira had picked up the fallen one already, and was holding it out.
 
 They were six hours in that room, by the oil.
 
-Karis worked along the walls on her knees, and then standing, and then on Brom's bent back, which he offered without being asked and would not hear refused. She did not rub everything; she went down each course with her lamp held close and her lips moving, and wherever a group of strokes stood that she had not yet got on paper, she put out her hand behind her. Twice she left the paper altogether, and walked the foot of a wall with the short cord in her fist, counting, and wrote a figure where nobody could see it.
+Karis worked along the walls on her knees, and then standing, and then on Brom's bent back, which he offered without being asked and would not hear refused. She did not rub everything; she went down each course with her lamp held close and her lips moving, and wherever a group of strokes stood that she had not yet got on paper, she put out her hand behind her. Twice she left the paper altogether, and walked the foot of a wall with the short cord in her fist, counting the divisions within one line against the cord's scale rather than the distance along the stone, and wrote a figure where nobody could see it.
 
 "Sheet."
 
