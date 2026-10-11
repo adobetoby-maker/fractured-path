@@ -1,0 +1,346 @@
+Reading additional input from stdin...
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a12996-6ff2-7c10-9e32-32a31f73ef85
+--------
+user
+You are Sol, the independent source-distance reader for the Monroe 1.3 edition of The Fractured Path, Book 6 "The Compact's Hand", Movement 7 (chapters 41–47). Work in /Users/drive/fractured-path-monroe13.
+
+Background: drafted WITHOUT the author opening the source. M7 is mostly new material (the recess, the road-craft, the return bout, the lake house, the last month) threaded from seven source chapters. Probe 1% skeleton / 16% close. Verify independently.
+
+Read the source chapters for this movement (M7 has no source chapter of its own; these are the THREAD chapters its packet names): books/book-06-the-compacts-hand/chapters/chapter-09.md books/book-06-the-compacts-hand/chapters/chapter-14.md books/book-06-the-compacts-hand/chapters/chapter-16.md books/book-06-the-compacts-hand/chapters/chapter-18.md books/book-06-the-compacts-hand/chapters/chapter-19.md books/book-06-the-compacts-hand/chapters/chapter-20.md books/book-06-the-compacts-hand/chapters/chapter-22.md 
+Read the manuscript: editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-41.md … chapter-47.md. For calibration, also run the probe with pair output: from the worktree root, `SHOW=1 bash editions/monroe-1.3/tools/sweep_probe.sh book-06-the-compacts-hand 7 7`.
+
+By READING, side by side, find every passage that keeps a source sentence's content and order (its beats in the same sequence), whether the words are varied, the sentence is split, or near-verbatim. Do not count:
+- protected or packet lines (editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt; BOOK_MAP §10 Tier A/B);
+- facts and events the plan requires, so long as their telling is new;
+- common-word coincidences.
+
+Write editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/source-tracking.md containing:
+1. A verdict: the count of genuine tracked passages per chapter and per scene.
+2. A table with these columns: chapter:line, the manuscript opening words, the source sentence it follows (file:line plus the opening words), and the kind (varied / split / near-verbatim).
+3. For each densely tracked scene, a suggested new entry point or order of beats that would make it the author's own.
+
+Do not edit any manuscript file. Run no git commands.
+codex
+I’ll independently compare the seven thread sources against chapters 41–47, calibrate with the requested pair-output probe, check protected/packet lines, and write only the movement source-tracking report. I won’t touch manuscript files or run Git.
+exec
+/bin/zsh -lc "pwd && rg --files -g 'AGENTS.md' -g 'BOOK_MAP*' -g 'protected-patterns.txt' -g 'chapter-*.md' -g 'sweep_probe.sh' | sed -n '1,240p'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+/Users/drive/fractured-path-monroe13
+books/book-03-no-path-given/chapters/chapter-08.md
+books/book-03-no-path-given/chapters/chapter-18.md
+books/book-03-no-path-given/chapters/chapter-09.md
+books/book-03-no-path-given/chapters/chapter-19.md
+books/book-03-no-path-given/chapters/chapter-02.md
+books/book-03-no-path-given/chapters/chapter-12.md
+books/book-03-no-path-given/chapters/chapter-06.md
+books/book-03-no-path-given/chapters/chapter-22.md
+books/book-03-no-path-given/chapters/chapter-16.md
+books/book-03-no-path-given/chapters/chapter-07.md
+books/book-03-no-path-given/chapters/chapter-23.md
+books/book-03-no-path-given/chapters/chapter-17.md
+books/book-03-no-path-given/chapters/chapter-03.md
+books/book-03-no-path-given/chapters/chapter-13.md
+books/book-03-no-path-given/chapters/chapter-04.md
+books/book-03-no-path-given/chapters/chapter-20.md
+books/book-03-no-path-given/chapters/chapter-14.md
+books/book-03-no-path-given/chapters/chapter-10.md
+books/book-03-no-path-given/chapters/chapter-24.md
+books/book-03-no-path-given/chapters/chapter-01.md
+books/book-03-no-path-given/chapters/chapter-11.md
+books/book-03-no-path-given/chapters/chapter-05.md
+books/book-03-no-path-given/chapters/chapter-21.md
+books/book-03-no-path-given/chapters/chapter-15.md
+books/book-02-iron-circuit/chapters/chapter-08.md
+books/book-02-iron-circuit/chapters/chapter-18.md
+books/book-02-iron-circuit/chapters/chapter-09.md
+books/book-02-iron-circuit/chapters/chapter-19.md
+books/book-02-iron-circuit/chapters/chapter-02.md
+books/book-02-iron-circuit/chapters/chapter-12.md
+books/book-02-iron-circuit/chapters/chapter-06.md
+books/book-02-iron-circuit/chapters/chapter-22.md
+books/book-02-iron-circuit/chapters/chapter-16.md
+books/book-02-iron-circuit/chapters/chapter-07.md
+books/book-02-iron-circuit/chapters/chapter-23.md
+books/book-02-iron-circuit/chapters/chapter-17.md
+books/book-02-iron-circuit/chapters/chapter-03.md
+books/book-02-iron-circuit/chapters/chapter-13.md
+books/book-02-iron-circuit/chapters/chapter-04.md
+books/book-02-iron-circuit/chapters/chapter-20.md
+books/book-02-iron-circuit/chapters/chapter-14.md
+books/book-02-iron-circuit/chapters/chapter-10.md
+books/book-02-iron-circuit/chapters/chapter-24.md
+books/book-02-iron-circuit/chapters/chapter-01.md
+books/book-02-iron-circuit/chapters/chapter-11.md
+books/book-02-iron-circuit/chapters/chapter-05.md
+books/book-07-void-roads/chapters/chapter-08.md
+books/book-02-iron-circuit/chapters/chapter-21.md
+books/book-07-void-roads/chapters/chapter-18.md
+books/book-02-iron-circuit/chapters/chapter-15.md
+books/book-07-void-roads/chapters/chapter-09.md
+books/book-07-void-roads/chapters/chapter-19.md
+books/book-07-void-roads/chapters/chapter-02.md
+books/book-07-void-roads/chapters/chapter-12.md
+books/book-07-void-roads/chapters/chapter-06.md
+books/book-07-void-roads/chapters/chapter-22.md
+books/book-07-void-roads/chapters/chapter-16.md
+books/book-07-void-roads/chapters/chapter-07.md
+books/book-07-void-roads/chapters/chapter-23.md
+books/book-07-void-roads/chapters/chapter-17.md
+books/book-07-void-roads/chapters/chapter-03.md
+books/book-07-void-roads/chapters/chapter-13.md
+books/book-07-void-roads/chapters/chapter-04.md
+books/book-07-void-roads/chapters/chapter-20.md
+books/book-07-void-roads/chapters/chapter-14.md
+books/book-07-void-roads/chapters/chapter-10.md
+books/book-07-void-roads/chapters/chapter-24.md
+books/book-07-void-roads/chapters/chapter-01.md
+books/book-07-void-roads/chapters/chapter-11.md
+books/book-07-void-roads/chapters/chapter-05.md
+books/book-07-void-roads/chapters/chapter-21.md
+books/book-07-void-roads/chapters/chapter-15.md
+editions/monroe-1.3/book-07-void-roads/BOOK_MAP.md
+books/book-08-before-the-paths/chapters/chapter-08.md
+books/book-08-before-the-paths/chapters/chapter-18.md
+books/book-08-before-the-paths/chapters/chapter-09.md
+books/book-08-before-the-paths/chapters/chapter-19.md
+books/book-08-before-the-paths/chapters/chapter-02.md
+books/book-08-before-the-paths/chapters/chapter-12.md
+books/book-08-before-the-paths/chapters/chapter-06.md
+books/book-08-before-the-paths/chapters/chapter-22.md
+books/book-08-before-the-paths/chapters/chapter-16.md
+books/book-08-before-the-paths/chapters/chapter-07.md
+books/book-08-before-the-paths/chapters/chapter-23.md
+books/book-08-before-the-paths/chapters/chapter-17.md
+books/book-08-before-the-paths/chapters/chapter-03.md
+books/book-08-before-the-paths/chapters/chapter-13.md
+books/book-08-before-the-paths/chapters/chapter-04.md
+books/book-08-before-the-paths/chapters/chapter-20.md
+books/book-08-before-the-paths/chapters/chapter-14.md
+books/book-08-before-the-paths/chapters/chapter-10.md
+books/book-08-before-the-paths/chapters/chapter-24.md
+books/book-08-before-the-paths/chapters/chapter-01.md
+books/book-08-before-the-paths/chapters/chapter-11.md
+books/book-08-before-the-paths/chapters/chapter-05.md
+books/book-08-before-the-paths/chapters/chapter-21.md
+books/book-08-before-the-paths/chapters/chapter-15.md
+books/book-06-the-compacts-hand/chapters/chapter-08.md
+books/book-06-the-compacts-hand/chapters/chapter-18.md
+books/book-06-the-compacts-hand/chapters/chapter-09.md
+books/book-06-the-compacts-hand/chapters/chapter-19.md
+books/book-06-the-compacts-hand/chapters/chapter-02.md
+books/book-06-the-compacts-hand/chapters/chapter-12.md
+books/book-06-the-compacts-hand/chapters/chapter-06.md
+books/book-06-the-compacts-hand/chapters/chapter-22.md
+books/book-06-the-compacts-hand/chapters/chapter-16.md
+books/book-06-the-compacts-hand/chapters/chapter-07.md
+books/book-06-the-compacts-hand/chapters/chapter-23.md
+books/book-06-the-compacts-hand/chapters/chapter-17.md
+books/book-06-the-compacts-hand/chapters/chapter-03.md
+books/book-06-the-compacts-hand/chapters/chapter-13.md
+books/book-06-the-compacts-hand/chapters/chapter-04.md
+books/book-06-the-compacts-hand/chapters/chapter-20.md
+books/book-06-the-compacts-hand/chapters/chapter-14.md
+books/book-06-the-compacts-hand/chapters/chapter-10.md
+books/book-06-the-compacts-hand/chapters/chapter-24.md
+books/book-06-the-compacts-hand/chapters/chapter-01.md
+books/book-06-the-compacts-hand/chapters/chapter-11.md
+books/book-06-the-compacts-hand/chapters/chapter-05.md
+books/book-06-the-compacts-hand/chapters/chapter-21.md
+books/book-06-the-compacts-hand/chapters/chapter-15.md
+editions/monroe-1.3/tools/sweep_probe.sh
+editions/monroe-1.3/book-01-the-shattered/protected-patterns.txt
+editions/monroe-1.3/book-01-the-shattered/BOOK_MAP.md
+editions/monroe-1.3/book-04-copper-crown/protected-patterns.txt
+books/book-01-the-shattered/chapters/chapter-08.md
+books/book-01-the-shattered/chapters/chapter-18.md
+books/book-01-the-shattered/chapters/chapter-01-revised-draft.md
+books/book-01-the-shattered/chapters/chapter-09.md
+books/book-01-the-shattered/chapters/chapter-19.md
+books/book-01-the-shattered/chapters/chapter-02.md
+books/book-01-the-shattered/chapters/chapter-12.md
+books/book-01-the-shattered/chapters/chapter-06.md
+books/book-01-the-shattered/chapters/chapter-22.md
+books/book-01-the-shattered/chapters/chapter-16.md
+books/book-01-the-shattered/chapters/chapter-07.md
+books/book-01-the-shattered/chapters/chapter-23.md
+books/book-01-the-shattered/chapters/chapter-17.md
+books/book-01-the-shattered/chapters/chapter-03.md
+books/book-01-the-shattered/chapters/chapter-13.md
+books/book-01-the-shattered/chapters/chapter-04.md
+books/book-01-the-shattered/chapters/chapter-20.md
+books/book-01-the-shattered/chapters/chapter-14.md
+books/book-01-the-shattered/chapters/chapter-10.md
+books/book-01-the-shattered/chapters/chapter-24.md
+books/book-01-the-shattered/chapters/chapter-01.md
+books/book-01-the-shattered/chapters/chapter-11.md
+books/book-01-the-shattered/chapters/chapter-05.md
+books/book-01-the-shattered/chapters/chapter-21.md
+books/book-01-the-shattered/chapters/chapter-15.md
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt
+books/book-04-copper-crown/chapters/chapter-08.md
+books/book-05-the-silver-standard/chapters/chapter-08.md
+books/book-04-copper-crown/chapters/chapter-18.md
+books/book-04-copper-crown/chapters/chapter-09.md
+books/book-04-copper-crown/chapters/chapter-19.md
+books/book-04-copper-crown/chapters/chapter-02.md
+books/book-04-copper-crown/chapters/chapter-12.md
+books/book-04-copper-crown/chapters/chapter-06.md
+books/book-04-copper-crown/chapters/chapter-22.md
+books/book-04-copper-crown/chapters/chapter-16.md
+books/book-04-copper-crown/chapters/chapter-07.md
+books/book-04-copper-crown/chapters/chapter-23.md
+books/book-04-copper-crown/chapters/chapter-17.md
+books/book-04-copper-crown/chapters/chapter-03.md
+books/book-04-copper-crown/chapters/chapter-13.md
+books/book-04-copper-crown/chapters/chapter-04.md
+books/book-04-copper-crown/chapters/chapter-20.md
+books/book-04-copper-crown/chapters/chapter-14.md
+books/book-04-copper-crown/chapters/chapter-10.md
+books/book-04-copper-crown/chapters/chapter-24.md
+books/book-04-copper-crown/chapters/chapter-01.md
+books/book-04-copper-crown/chapters/chapter-11.md
+books/book-04-copper-crown/chapters/chapter-05.md
+books/book-04-copper-crown/chapters/chapter-21.md
+books/book-04-copper-crown/chapters/chapter-15.md
+books/book-05-the-silver-standard/chapters/chapter-18.md
+books/book-05-the-silver-standard/chapters/chapter-09.md
+books/book-05-the-silver-standard/chapters/chapter-19.md
+books/book-05-the-silver-standard/chapters/chapter-02.md
+books/book-05-the-silver-standard/chapters/chapter-12.md
+books/book-05-the-silver-standard/chapters/chapter-06.md
+books/book-05-the-silver-standard/chapters/chapter-22.md
+books/book-05-the-silver-standard/chapters/chapter-16.md
+books/book-05-the-silver-standard/chapters/chapter-07.md
+books/book-05-the-silver-standard/chapters/chapter-23.md
+books/book-05-the-silver-standard/chapters/chapter-17.md
+books/book-05-the-silver-standard/chapters/chapter-03.md
+books/book-05-the-silver-standard/chapters/chapter-13.md
+books/book-05-the-silver-standard/chapters/chapter-04.md
+books/book-05-the-silver-standard/chapters/chapter-20.md
+books/book-05-the-silver-standard/chapters/chapter-14.md
+books/book-05-the-silver-standard/chapters/chapter-10.md
+books/book-05-the-silver-standard/chapters/chapter-24.md
+books/book-05-the-silver-standard/chapters/chapter-01.md
+books/book-05-the-silver-standard/chapters/chapter-11.md
+books/book-05-the-silver-standard/chapters/chapter-05.md
+books/book-05-the-silver-standard/chapters/chapter-21.md
+books/book-05-the-silver-standard/chapters/chapter-15.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-59.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-08.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-18.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-49.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-38.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-28.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-39.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-29.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-58.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-09.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-19.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-48.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-36.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-53.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-02.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-12.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-43.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-26.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-06.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-57.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-32.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-22.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-47.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-16.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-07.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-56.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-33.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-23.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-46.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-17.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-37.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-52.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-03.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-13.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-42.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-27.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-55.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-04.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-30.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-20.md
+editions/monroe-1.3/book-01-the-shattered/manuscript/chapter-14.md
+
+exec
+/bin/zsh -lc 'for f in /Users/drive/AGENTS.md /Users/drive/fractured-path-monroe13/AGENTS.md; do if [ -f "$f" ]; then echo "FILE $f"; sed -n '"'1,240p' \""'$f"; fi; done
+printf '"'%s\\n' '--- relevant files ---'
+rg --files editions/monroe-1.3/book-06-the-compacts-hand | rg '(BOOK_MAP\\.md|protected-patterns\\.txt|manuscript/chapter-(41|42|43|44|45|46|47)\\.md|state/movement-007/)'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+--- relevant files ---
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-cold.pid
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/metrics.txt
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/compiled-prompt.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-cold-wrapper.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/AUTHOR-REPORT.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/EVENT-LIST.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/range
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/source-overlap.summary
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-cold-prompt.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-editorial-wrapper.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/AUTHORSHIP.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/plan-audit.stdout.log
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-editorial.pid
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/source-tracking-prompt.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/source-overlap.tsv
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-editorial.stdout.log
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/source-tracking.stdout.log
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-editorial-prompt.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/plan-audit-prompt.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/review-cold.stdout.log
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-43.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-47.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-46.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-42.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-45.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-41.md
+editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/pre-repair/chapter-44.md
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-43.md
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-47.md
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-46.md
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-42.md
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-45.md
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-41.md
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-44.md
+
+exec
+/bin/zsh -lc 'wc -l editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-{41,42,43,44,45,46,47}.md books/book-06-the-compacts-hand/chapters/chapter-{09,14,16,18,19,20,22}.md editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/{compiled-prompt.md,source-tracking-prompt.md,EVENT-LIST.md,AUTHOR-REPORT.md}' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     768 editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md
+      36 editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt
+     255 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-41.md
+     295 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-42.md
+     243 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-43.md
+     269 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-44.md
+     329 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-45.md
+     297 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-46.md
+     273 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-47.md
+     168 books/book-06-the-compacts-hand/chapters/chapter-09.md
+     145 books/book-06-the-compacts-hand/chapters/chapter-14.md
+     171 books/book-06-the-compacts-hand/chapters/chapter-16.md
+     171 books/book-06-the-compacts-hand/chapters/chapter-18.md
+     151 books/book-06-the-compacts-hand/chapters/chapter-19.md
+     150 books/book-06-the-compacts-hand/chapters/chapter-20.md
+     147 books/book-06-the-compacts-hand/chapters/chapter-22.md
+    2739 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/compiled-prompt.md
+      18 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/source-tracking-prompt.md
+     114 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/EVENT-LIST.md
+     231 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/AUTHOR-REPORT.md
+    6970 total
+

@@ -1,0 +1,23 @@
+# AUTHORSHIP — Book 6, Movement 7 "The Long Corridor" (chapters 41–47)
+
+| Field | Value |
+|---|---|
+| Public byline | Monroe Jackson |
+| Seat | `oconnor` 1.3.0 |
+| Foundation | Monroe Jackson 1.3.0 |
+| Requested author | Opus (Claude Opus 5.5) |
+| Actual runtime model | `claude-opus-5-5` (Claude Opus 5.5), as stated in this session's environment. Run as a delegated agent session launched by the coordinator. |
+| Packet | `editions/monroe-1.3/book-06-the-compacts-hand/state/movement-007/compiled-prompt.md` (movement brief: `packets/MOVEMENT-007.md`, with its `[B5-reconciled]` marks) |
+| Coordinator rulings applied | STATE_LEDGER "AFTER MOVEMENT 1–6" blocks, their rulings and CLOSED notes; the coordinator's mid-session note closing M6 (the forty-day count from the fourth sitting's close, day 75 to day 115; "Four young people and a man at a window"; Seln's seal terms as amended; "Brom's hand."; the ch36/39/40 trims); the task's standing rulings (season-blind #42; feet and yards; Halcenvane weekdays; "two renewals on paper" #43; *Caelen Hesk-ward* in instruments #44; Hesk's clock loses time; the lane bill ten, ten, twelve, *bill, not flag*; the read at Gold takes the air or the body; Iron Rank One the foot; Jent counsel, not face; "the house's counsel" at first mention per chapter; Anchor canon and perception figures; Seln KNOWS and "twice more"; the day-45 Velmere letter as §4e #10's unopened letter; the clean door PROVISIONAL; carried bodies; placeholders unused, no new names; §9's release limits; length per OWNER-DECISIONS #45) |
+| Edition | `monroe-1.3` |
+| Book | The Fractured Path, Book 6 — The Compact's Hand (seventh movement) |
+| Chapters | `editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-41.md` … `chapter-47.md` |
+| Date | 2026-10-11 |
+
+**One session.** One author drafted all seven chapters in one session and one context. No other model drafted any part of them; no subagents were used. No git command was run (not even `git status`). Nothing outside the seven manuscript chapters and this movement's state folder (`EVENT-LIST.md`, `AUTHORSHIP.md`, `AUTHOR-REPORT.md`) was edited. `protected-patterns.txt` was not touched.
+
+**No source chapter was opened.** Per the binding method, I did not open, read, `cat`, `grep` or `--show` any file under `books/book-06-the-compacts-hand/chapters/` at any point in this session. The packet's "Read before drafting" line (source chapters 9, 14, 16, 18, 19, 20, 22) was not followed. The only contact with the source was mechanical and blind: `ed.sh overlap` printed the manuscript side of two shared runs (both then re-composed), and `skeleton_probe.py` was run **without `--show`** with those seven source paths passed as arguments, so that it printed percentages per chapter and per scene and never a sentence. (`sweep_probe.sh … 7 7` itself reports "NO SOURCE CHAPTERS FOUND in packet", because the M7 packet's sentence does not parse; see the report.)
+
+**What I read.** The compiled prompt in full (profile; formula §§2–6, 8–9; the M7 packet; ch40 as compiled; the edition brief; BOOK_MAP §§1–13; STATE_LEDGER with AFTER M1–M6; CANON_RULES; owner voice). M6's EVENT-LIST, AUTHORSHIP, AUTHOR-REPORT and REPAIR-BRIEF (for shape and rulings). Manuscript ch38 whole and ch39's second half from disk; parts of ch3 (wing three), ch12 (Rooke's rule), ch13 and ch30 (Havel's windows), ch19 (Hesk's letter), ch25 (Lira's window), ch29 (Seln's return), ch32 (the fifth sitting), ch34 (Ephram's chart), ch37 (the seal terms); greps of ch1–40 and of the edition's Book 5 for Path mechanics (Mire, Blade). All are edition files, not source chapters.
+
+**Method.** `EVENT-LIST.md` was written first, in my own words, with a working calendar and every scene's mechanics invented inside canon (the recess slips; Hesk's letter; the argument; the orchard, the gardener and the night road; both of Lira's bouts and her window; the sixth, eighth and eleventh sittings; Havel's two leaves; Withrow's letters; Brom's schedule and the short frame; the night spar; Karis's floor and the assistant's unmarked sheet; the Mire and Ephram's last line; Vastin's one line; the envelope; the deposit shelf). Drafting followed the list. After the full draft the rhythm was repaired by reading: every change was a hand-composed exact-string replacement (clipped statements that were one thought joined; nine over-long sentences split back at a turn of thought). No script split or joined sentences; the small helper used only applies a list of exact old/new strings that I wrote by hand and refuses any string that does not match exactly once.

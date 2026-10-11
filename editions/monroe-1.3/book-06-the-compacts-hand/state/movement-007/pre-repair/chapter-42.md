@@ -1,0 +1,295 @@
+# Chapter 42 — Forty Paces
+
+Lira crossed the east hall again on the First-day of the recess's second week, and this time she did not know she was doing it.
+
+Cael saw it from the door. He had come down with her before the first bell, as he had every morning that week, and stood where he had stood sixteen days before, with his shoulder against the frame and the two lamps burning over the painted floor. The program was six people in a hall built for sixty. The Force was working the heavy frame at the far end with his broad back to everybody, and the Current girl was walking a line of white crosses on her toes, and the program's clerk sat at her trestle under the first lamp with the red book open and a mug steaming beside it.
+
+The Stone stood on a cross in the middle of the floor with his hands folded in front of him, waiting, as he always waited, for somebody to notice where he was standing.
+
+Lira noticed. She had been at the rail with the drill-book on her knee, and Cael saw her look up from the page to the Stone's feet, and down to the page again, and up.
+
+"That's not where it says," she said.
+
+The Stone said nothing. He never did.
+
+"It's a cross short. The book has you on the fifth for the third count, and you're on the fourth." She got up with the book open in her hand and her finger on the place. "Look. Here. Unless your clerk at the river drew it wrong, which I'd believe, because he's drawn the arrow on the next page backward and I've been meaning to say."
+
+She was walking as she said it, straight out across the painted boards with her eyes on the page and her finger on the line, arguing with a man forty feet away, and her feet went down one after the other on the planed floor exactly as they had gone down on it every morning of the year until the road. She did not look at them once.
+
+She reached the Stone, and stopped, and held the book up under his nose.
+
+"There," she said. "Fifth."
+
+The Stone looked at the page, and then took one slow step to his left, onto the fifth cross, and folded his hands again.
+
+"Now," said Rooke.
+
+He was at the far rail with his board under his arm, and he had not moved or raised his voice, and Lira turned round with the book still held up and looked at him across the hall, and then down at her own feet in the middle of the floor, a long way from any rail.
+
+"Oh," she said.
+
+"Wraps," said Rooke. "Walk the four-count. Walk it. If I see a burst before the Third-day I'll strike you for a week and enjoy it." He took the pencil from behind his ear. "Again, from the top. On the four."
+
+She went and got her wraps, trying very hard not to smile, and it was not working.
+
+Cael stayed at the door for the rest of the hour and watched her walk the count: three lies and a truth, the front foot, the back, the shoulders, and on the fourth a step where the burst would have been. The Stone stood on his crosses and moved when she made him move. She was slow, and a little stiff through the hips from sixteen days of benches, and she knew the drill so well that her hands kept coming up for a burst she was not allowed to spend.
+
+It was on the ninth or tenth pass that he saw it.
+
+At the end of every count there was a landing; even walked, there was a landing, a last step where the weight came down and held, and she came down on the left every time. When the count ended on a left foot she landed on it, and when it ended on a right foot she took a quick small extra step, so small it looked like part of the drill, and landed on the left then too.
+
+He watched it through six more passes to be sure, and she did not know. Rooke, at the rail, wrote something on his board and did not say what.
+
+Cael did not say anything either. It was her first morning back on a floor, and she had crossed it without thinking, and she was not smiling now only because she had forgotten to. He thought that whatever was written on Rooke's board would keep until the Third-day.
+
+---
+
+It was Brom who asked Seln, and he asked him at supper, at the one lit table, in front of thirty people, which was how they all knew afterward that he had thought about it for a long time.
+
+"You've done roads," he said.
+
+Seln looked up from his bowl.
+
+"Fifteen years of being sent to places. You don't do that without walking between them." Brom turned his spoon over. "I've done one road in my life that wasn't in a coach, and I did it badly, and I had Lira's blisters to carry as well as my own. I'd like to do the next one better. Whenever it is, and wherever." He did not look at any of them. "Can it be taught?"
+
+"The trade cannot," said Seln. "Not here, and not by me." He set his own spoon down. "The road can. It is not a secret. Carters know it, and drovers, and anybody who has slept out in the rain twice and decided to be drier the third time." He considered. "Tomorrow, at the second bell after noon, in the lower orchard, if the weather holds. In coats."
+
+"The lower orchard," said Karis. "You can see the lower orchard from the bluff road's second switchback."
+
+"You can."
+
+"And from the ferry, with a glass."
+
+"With a good one." Seln took up his spoon again. "A thing done in the open goes into a log as what it is. Five people in an orchard on a recess afternoon, learning to pitch a camp from the wing's assistant, who is known to have travelled. If anybody writes that down, he will write it down in those words, and then he will turn the page. A thing done in a cellar goes into a log as whatever the man with the pencil is afraid of." He ate. "I would always rather be written down as what I am doing."
+
+So they went down to the lower orchard on the Second-day, in coats.
+
+The house's farm lay on the back of the bluff, on the long south slope away from the river, where the wind was less. Below the stable passage were the kitchen gardens in their walls, and below the gardens the upper orchard and the lower, old trees in rough grass with their branches bare and black with wet. Below the lower orchard a stream came down out of a fold in the slope and ran along the bottom hedge toward the water meadows, loud over stones. The farm track went down beside it, and at the orchard's foot, where the track met the stream, stood a small stone cottage with smoke going up from it, which was the gardener's.
+
+It was not raining, but a flat grey cloud lay over the whole valley like a lid, and under it the air was very still and cold, and every sound carried.
+
+Seln stood them in the grass by the stream.
+
+"Water," he said. "You will want to sleep beside it. Everybody does, the first night. It is pleasant, and you are tired, and the kettle is heavy." He looked at the stream. "Listen."
+
+They listened. The stream went over its stones.
+
+"Now," said Seln. He turned his back on them and walked away up the slope between the trees, at his counter pace, counting under his breath, and they watched him go. At forty paces he stopped and turned round under an old pear tree, a small grey man in a clerk's coat, and said something.
+
+None of them heard it, and he walked back down.
+
+"I said, *there is somebody behind you*," he said. "In my ordinary voice. From where you stand, beside the water, you could not hear a man speak at forty paces. You could not hear a foot on gravel at ten. Running water covers everything smaller than itself." He turned and pointed up at the pear tree. "From there you could hear me cough from here. So you camp there, and not here. Forty paces from the water. Near enough to fetch it in the dark without a lantern. Far enough that the water is not talking over your watch all night."
+
+"And that's the whole reason?" said Lira.
+
+"There are two more. Everything that walks at night walks to water, on four legs or on two, and you would rather it did not walk through your blankets to get there. And the ground beside a stream is wet a foot down however dry it looks, and you will know it by morning in your hips." He looked at Brom. "Forty paces. You are the tallest. Pace it, and tell me what yours come to."
+
+Brom paced it, solemnly, up the slope to the pear tree, and came back and said that he made it thirty-five.
+
+"Then thirty-five is your forty," said Seln. "Remember that it is the distance that matters, and not the number."
+
+Karis had her grey notebook out. She wrote *forty paces* and then, after a moment's thought, a question mark, and under it, *of whose?*
+
+"Of the shortest person present," said Seln, reading it upside down. "That is the rule as I was taught it."
+
+"That's you," said Lira.
+
+"It usually is."
+
+---
+
+The open approach took the rest of the afternoon, and the gardener enjoyed it more than anybody.
+
+Seln had been to see him that morning. He was a wide slow old man with earth in the creases of his hands, who had kept the house's trees for thirty years. He had been told that five people from the hill would come walking up to his door, one at a time, and that he was to stand at his window and look at each of them exactly as he would look at a stranger coming down his track at dusk. He had asked whether he was allowed to say what he thought, and Seln had said that was the point.
+
+"When you come to a place where people live," said Seln, at the top of the track, "you come the way the track comes. In the middle of it, at a walk, in daylight if there is any left. Your hands are where a man at a window can see them. You stop a little way off, where he can look at you for as long as he likes, and you let him look, and you do not speak until he has." He nodded down the track at the cottage. "He will decide what you are in the time it takes you to walk forty yards. You cannot stop him deciding. You can only give him an easy thing to decide."
+
+"And if I'd rather see the place before it sees me?" said Lira.
+
+"Then you come through his hedge, and look in at his back window, and learn a great deal. And he finds your boot-mark under it in the morning, and tells every carter who stops for a month that somebody came through his hedge." Seln's face did not change. "In my trade I have come through hedges. On a road, with boxes, I would come down the track."
+
+Lira went first, quickly and lightly, with her chin up, and Cael, watching from the top, saw her eyes go to the cottage's door, and the gap beside the woodpile, and the gate into the meadow, one after the other, before she was halfway there.
+
+The gardener opened his window.
+
+"That one's looking for the way out," he called up the track. "Before she's in. I'd not open the door to her. I'd send the dog."
+
+"I haven't done anything!" said Lira.
+
+"That's what they say."
+
+Karis went second, at a steady pace, with her hands held a little out from her sides as if she were carrying a tray, and stopped at the right distance. She would have done well, the gardener said, if she had not then stood and read the date cut into his lintel, with her lips moving, for as long as it took him to wonder what she wanted with it.
+
+Cael went third. He walked down the middle of the track with his hands open and stopped where Seln had said to stop, and stood, and let himself be looked at, and thought he had done it rather well.
+
+"He's counting my windows," said the gardener.
+
+"I'm not," said Cael, who had been.
+
+"Four, and the one in the roof. Go on. Tell me it's not five." The old man leaned on his sill, delighted. "I'd give that one a cup of water and watch him drink it and shut the door."
+
+Brom went last.
+
+He came down the track at the slow heavy walk he used for everything, in the very middle of it, with his big hands hanging open at his sides. He was not looking at the cottage; he was looking at the gardener, plainly, as he would have looked at a man across a counter. He stopped where the others had stopped, and stood there and waited, with the grey sky behind him, and did not shift his feet.
+
+The gardener looked at him for quite a long time.
+
+"That one," he said at last, "I'd ask in." He sounded almost disappointed. "He looks like he'd mend the gate."
+
+"I would," said Brom. "It's dropped on the top hinge."
+
+"It has. Three years." The old man shut the window, and a moment later opened his door, and stood in it wiping his hands. "Well, come in, then, the lot of you, since it's all pretending. There's a kettle. Not her. She can wait for the dog."
+
+They sat in the gardener's kitchen for the last hour of the light, six of them round a table made for two, and Seln did the watches there, on the scrubbed boards, with five dried beans out of the old man's jar.
+
+"A night is eight hours of dark, near enough," he said. "Two watches of four hours. Two to a watch." He put two beans together, and two more a little apart, and one by itself. "The fifth sleeps the night through, and it is a different fifth every night."
+
+"Three watches would be shorter," said Lira. She had been allowed in after all, and had the dog's head on her knee. "Less than three hours each. I can stay awake for three hours standing on my head."
+
+"For one night." Seln moved the beans. "Three watches, and every one of you is woken once in the dark, every night, and by the fifth night there is nobody on the road who has slept four hours together in a week. Two watches, and three people in five sleep four hours unbroken at the least, and one sleeps eight. A road is not a night. It is thirty nights, one after another, and you must be able to lift things at the end of them."
+
+He looked at the five beans for a moment.
+
+"Five," said Lira slowly. "You said the fifth."
+
+"I was speaking of arithmetic," said Seln, and picked the beans up one at a time and put them back in the jar.
+
+Nobody said anything else about it. Karis wrote *two of four* in her notebook and drew a ring round it, and the gardener poured the tea, and told Brom at length what was wrong with the top hinge, and Brom listened to all of it.
+
+Karis asked about paper. She asked it as she asked everything, with the pencil already down on the page, and what she wanted to know was what became of a leaf on a road in the wet, and whether there was a rule for it.
+
+"Oilcloth," said Seln. "And then a second oilcloth, because the first has a seam. Pencil and not ink; ink runs, and a wet pencil line only goes soft. Nothing written goes at the bottom of a load, where the water gathers." He turned his cup a quarter turn on the gardener's scrubbed boards. "And whatever you would grieve to lose rides on a person and not on a cart. A cart can be left behind in a hurry. People generally bring themselves."
+
+She wrote it all, and underlined *on a person*.
+
+"How heavy's a box," said Brom, "that a man can carry all day?"
+
+"A man, or you?"
+
+"Say a man. I'll do my own sum after."
+
+"Forty pounds, for one day, and he will tell you about it at supper. Thirty, for thirty days." Seln considered him. "The weight is the smaller half of it. The rest is how the load is stacked, and what is on top when it rains, and I will not teach you that, because nobody can. You will stack it wrong twice and then you will know."
+
+Brom nodded slowly, as he nodded at the short frame's bar when it gave the way he had expected. Cael could see him beginning the sum.
+
+Cael sat with his cup in both hands. He had counted to five as well, and he had seen Seln look at the beans.
+
+---
+
+The night road came two days later, on the Fourth-day, after the tenth bell.
+
+They went out by the orchard gate, and Seln wrote it in the lodge book himself before they went. *Five, to the farm, by the orchard gate. To return before the first bell.* The lodge-man read it over his spectacles and said that in his day people had gone to the farm at night for other reasons, and went back to his fire.
+
+There was no moon, and the cloud had not lifted in four days. Past the stable passage the dark came down like a sack, and Cael stood in it at the top of the farm track with the others breathing round him and could not see his own hand.
+
+"Four hundred yards," said Seln's voice, to his left. "The track goes down beside the orchard wall to the meadow gate. I am going ahead. Somewhere between here and the gate I shall be sitting, and I shall count what I hear. You are to walk it so that I count nothing." A pause. "You will halt three times. I leave it to you where. At every halt, somebody is to make sure of the party. Decide who, now, before you move."
+
+"Me," said Brom.
+
+Nobody argued.
+
+"Then give me to a count of two hundred," said Seln, and Cael heard perhaps four of his steps on the track, and after that nothing whatever.
+
+They stood in the dark and counted.
+
+At two hundred Brom said, very low, "Hand on the shoulder in front. Lira leads; she's lightest on her feet. Then Karis. Then Cael. I'm last. If you lose the shoulder, stop and say nothing, and I'll walk into you."
+
+Cael found Karis's shoulder with his left hand, and behind him Brom's hand came down on his own, heavy and warm through the coat, and stayed.
+
+They walked.
+
+He had not known how loud he was. On a floor he was quiet; he had been quiet on floors for years. On a farm track in the pitch dark, with ruts under his boots that he could not see, he was a cart, and every stone turned. Karis in front of him was worse, for she had something in her coat that creaked, a notebook's board against a pencil tin, and at every step it said so. Only Lira made no sound at all; and Brom, behind him, was so quiet that twice he thought the hand on his shoulder belonged to nobody.
+
+The new thing woke up at the first gateway.
+
+He felt it before his foot found the gap in the wall: two stone posts and the space between them, a threshold, the first it had met all night that it could not see either. *There?*
+
+*Gateposts*, he told it, without moving his lips. *The orchard's. It's a gap in a wall. Leave it be.*
+
+It left it.
+
+And then, a little farther on, where the track went down between the wall and a high black hedge and the dark was as thick as it would ever be, the other one stirred.
+
+It did not ask, for the quiet thing from the stair never asked. It only offered, as it had offered every day of his life for two years, and it offered now with a kind of patience, as if it had been waiting since supper for him to see the sense of it. A man was sitting somewhere ahead in the dark, counting, and Cael was trying not to be counted; and here in him, sealed and paid for every morning since he woke, was the one thing he owned that could take him down that track past any man alive.
+
+He walked on the stones with his loud boots and did not turn his head toward it.
+
+It was not hard, as it had been hard once, in a corner, with a lane coming. It was only strange, tonight, because the man in the dark was the man it had come from, and the whole of what that man was teaching them this week was how to be seen plainly and written down as what they were. He held it shut, as he had held it shut every day for two years, and counted Karis's steps instead.
+
+"Halt," said Brom's voice, hardly a breath.
+
+They stopped, and Brom's hand left his shoulder. He heard nothing, and then felt the hand again, briefly, on the top of his head, as if he were being counted like a sheep, and then nothing, and then Karis shifted in front of him as the hand found her, and a moment later Lira made a very small sound that might have been a laugh.
+
+"Four," said Brom. "On."
+
+They walked. The second halt came at the bottom of the orchard wall, where the stream's noise began to come up through the dark, and Brom went along the line again, a hand on each head. "Four. On."
+
+It was at the third halt, within sound of the water, that he was a long time coming back.
+
+Cael felt the hand touch his head and go forward, and heard nothing for a count of ten. Then the hand came back, and touched him again, and went behind him, and he understood that Brom was going over the line a second time.
+
+"Four," said Brom, very quietly. "Stay here."
+
+"There are four of us," Lira whispered.
+
+"Stay here."
+
+He went back up the track, and Cael heard him go, three steps, and then not. They stood in the black with the stream talking below them and waited for what felt like a long time, and Karis's pencil tin creaked once and she pressed her hand over it.
+
+When Brom came back there was somebody with him, though Cael did not hear the second pair of feet at all. He only heard Brom say, in his ordinary voice, not troubling to keep it down any longer, "He was in the hedge. Thirty yards back, at the bend. He came down behind us after the first halt and he's been on the end of the line ever since, a pace behind me."
+
+"A pace and a half," said Seln, from the dark.
+
+"I counted four and it was right, and I didn't like it." Brom's voice was puzzled, as if he were working it out as he said it. "There wasn't anything wrong with four. I just had the feeling the line was longer than I'd left it. So I went back to where it stopped."
+
+"How did you know to?" said Seln.
+
+Brom was quiet a moment.
+
+"I check," he said.
+
+That was all. He did not seem to think it needed more, and after a moment Cael understood that it did not. Brom had held twelve feet of road with one arm, and had sat a rota outside a door for two nights without being asked. Of course it was Brom who counted, and counted again when the first count was right.
+
+Seln struck a light then, and they stood blinking round a stub of candle in a tin, five faces and the black hedge.
+
+"I counted the lady with the notebook eleven times," he said. "I am sorry. You will have to carry your pencils in something that does not talk." Karis took the tin out of her coat and looked at it as if it had betrayed her. "The boy, I heard on every stone from the gate to the first halt, and after that only twice. You learn fast, and your boots are wrong." He turned to Lira. "You I did not hear at all. You I saw, once, against the sky at the orchard corner, because you stood up straight to look ahead. On a road, do your looking from lower down."
+
+"And Brom?" said Lira.
+
+"I walked a pace and a half behind him for three hundred yards," said Seln, "and I never once heard him put a foot down. I have known men who were paid for that." He shielded the candle with his hand. "It is the first time in a good many years that anybody has come back up a road in the dark to look for me. I had forgotten what it was like." He said it to the candle, in his counter voice. Then he blew the candle out. "Again, from the gate. Up the hill this time, which is harder. And you count me too. I am on the end of the line."
+
+They walked it three more times before the lecture range rang the half after midnight. Cael's boots did not get any quieter, and at every halt the hand came down on his head, and went forward, and came back.
+
+"Five," said Brom, each time. "On."
+
+---
+
+Rooke posted it on the Fifth-day.
+
+He had a board of his own outside the east hall's door, a plain slate in a frame, separate from the house's and the wing's, and he wrote on it in chalk in a square hand and wiped it with his sleeve. On the Fifth-day morning there was one new line on it, under the week's drills.
+
+*Sixth-day, first bell. Program floor. Wind, Iron One, v. Current, Iron Four. Rated. Program trial rule.*
+
+Lira read it standing very straight.
+
+"That's the one he struck," she said. "The first of the three. He's put it back." She read it again, as if it might have changed. "Two days on bursts, and he's put it back."
+
+"Is that too soon?"
+
+"It's exactly when I'd have done it, if I were him." She turned away from the board. "If he waits a fortnight, I'll have a fortnight to think about it, and I think too much already. He knows that. He's known that about me since the second week." She started along the covered walk, and he went with her. "I told you I'd have won it. In the reading room, on your birthday, with my foot up on a bench. I said it out loud in front of the captain."
+
+"You did."
+
+"I still would." She walked a few steps. "I think I still would."
+
+At the corner of the walk she stopped.
+
+"Come tomorrow," she said. "Rooke'll let you, if I ask him. He let you stand in the door all week." She was not looking at him; she was looking across the empty court at the fountain. "Not the gallery. And not the rail either. The door, behind me, where I can't see you from my chalk. I want you there, and I don't want to look up and find you counting."
+
+"I'll stand in the door."
+
+"And don't write it down while it's happening. After, if you like. Not during."
+
+"Not during."
+
+She nodded. Then she took a breath, and let it out, and said, in a much lighter voice, that the gardener's dog had more sense than the gardener, and that she had half a mind to go down after supper and tell them both so. She talked about the dog the whole way to the refectory, and he let her.

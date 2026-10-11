@@ -26,6 +26,13 @@ else:
         nums = chs
     else:
         nums = [int(x) for x in re.findall(r"\d+", re.split(r"chapters?", seg, maxsplit=1)[-1])]
+if not nums:
+    # Fallback: a packet with no single source clause (e.g. "no source chapter of its own. Read the threads it
+    # carries: source `chapter-09.md` (...), `chapter-14.md` ...") — take every chapter file the line names,
+    # skipping manuscript/ paths and other books' chapters.
+    l2 = re.sub(r"`?manuscript/[^`]*`?", "", line)
+    l2 = re.sub(r"\bBook\s+\d+\s+`chapter-\d+\.md`", "", l2)
+    nums = sorted({int(x) for x in re.findall(r"chapter-(\d+)\.md", l2)})
 root = Path(__file__).resolve().parents[3] / "books" / book / "chapters"
 for n in nums:
     print(root / f"chapter-{n:02d}.md")
