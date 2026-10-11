@@ -1,12 +1,10 @@
 # Chapter 36 — Written Before
 
-There was a finger of oil in Karis's lantern, and he meant to have said all of it before that was gone.
+He drew the ladder up himself, hand over hand, and laid it along the edge of the loft.
 
-They were in the loft, among the barley sacks, with the ladder drawn up after them. The two boxes that had waited there stood against the gable, and the third, with the corner that was worn white, had been set down between them and not yet opened. Below them the barn was dark. Across the yard there was one small window with no light in it, where a healer had gone to her bed at dusk like a person who has work in the morning.
+There was no need of it. Nobody in that hold would have come up uninvited; and the one person whom he did not want at its foot had gone to her bed at dusk, across the yard, behind a small window with no light in it, like somebody who has work in the morning. He drew it up all the same. He had asked four people among the barley sacks to hear a thing, and he wished to have done something with his hands before he began.
 
-He had asked the four of them up, and they had come; and they had looked at his face by the lantern, and had sat down without talking.
-
-Lira had the sack nearest the light, with her right hand laid over the sling. Brom sat on the boards with his knees up and his hands open on them, one pale across the pads of the fingers. Karis had her notebook, and a throat the colour of an old apple; she had spoken twice that day, a word at a time, in a voice like a rasp on wood. Seln had placed himself by the ladder's head, where he could hear the yard.
+They had come, and had looked at his face, and had sat down without talking. The two boxes that had waited in that loft stood against the gable, and the third, with the corner that was worn white, had been set down between them and not yet opened.
 
 "She runs the long reading at first light," said Cael. "On me, in the back room, with the door shut."
 
@@ -16,19 +14,23 @@ Nobody moved.
 
 "We heard it," said Brom.
 
-"And none of you said what it was, and nor did I. I've had fifteen days in which to say it, and a ring; and I'm saying it now with one night to go, which is late." He looked at the flame. "It's the thing that I take them in."
+He was on the boards with his knees up, and his hands lay open on them, one of the two pale across the pads of the fingers.
+
+"And none of you said what it was, and nor did I. I've had fifteen days in which to say it, and a ring; and I'm saying it now with one night to go, which is late." He looked at the flame of Karis's lantern. She had held up one finger when she lit it, to show him how much oil an hour at a stone had left her, and he meant to have said all of it before that was gone. "It's the thing that I take them in."
 
 It was out, and it lay on the boards among them. He went on, since he had built the rest with some care and wished them to see every joint of it.
 
 "I've nine, and you know how each of them came. There was somebody with a Path, who used it on me or against me for long enough, and meant it; and there was something that mattered to both of us in how it came out, whether that was a card, or a ruling, or only which of us was left standing. That's the whole of what any of them had in common, and Karis has a page on it."
 
-Karis lifted one finger from the notebook.
+Karis lifted one finger from the notebook. Her throat was the colour of an old apple by that light, and she had spoken twice that day, a word at a time, in a voice like a rasp on wood.
 
-It was a single leaf, and she had been two years in the making of it. It had a curve on it, for how quickly each of the nine had come, and a column for what each had cost him afterward; and at its head, in her small exact hand, stood three words with a rule under every one. She had never in his hearing called it more than a model. He had its three words by heart, and so had the others, since she had read them out on the night that the eighth was priced.
+Her page was a single leaf, and she had been two years in the making of it. It had a curve on it, for how quickly each of the nine had come, and a column for what each had cost him afterward; and at its head, in her small exact hand, stood three words with a rule under every one. She had never in his hearing called it more than a model. He had its three words by heart, and so had the others, since she had read them out on the night that the eighth was priced.
 
 "So I've laid tomorrow beside her page, a piece at a time. It wants to be sustained. She says twenty minutes, with both her hands on me, and I've never stood a bout that was a quarter as long. It wants stakes, on both sides. Mine are that I'm three days off that floor, with every one of the nine still shaken by it. Hers are that she's spent three mendings on us and she's late at the top of her round, and she means to lay out a fourth on a boy who has given her nothing four times. And it wants to be in earnest."
 
 "On you," said Lira. "Not against you."
+
+She had the sack nearest the lantern, and her right hand lay over the sling as if to keep it from hearing.
 
 "On me. She'll go into it with everything that she is, since that's the only way she does anything."
 
@@ -62,7 +64,7 @@ He heard how that sounded, in a loft, with a girl's arm tied up six feet from hi
 
 "It isn't the model that I wanted you for. It's what's under it. She doesn't know what I am."
 
-Seln's head had turned from the yard.
+Seln's head had turned. He had put himself at the loft door, where he could hear the yard, and until then he had not looked at the lantern at all.
 
 "I've told her nothing. She has put her hands on me four times and found no banks, and she watched me go up a hill with fire in my fist, and in all that time she has never asked me one question that wasn't about a hurt. She thinks that she is going to lay me on a table and read me. If something is taken from her while she does it, she'll not have been told that it might be. She can't say yes to it, and she can't say no."
 
@@ -70,7 +72,7 @@ The lantern ticked, and for a breath that was the only sound in the loft.
 
 "Then tell her," said Lira. "Tonight. Before."
 
-She had not raised her voice. She sat with her hand over the sling and looked straight at him, as she had looked on a gravel bar when he gave her a plan with a lock in it.
+She had not raised her voice; she looked straight at him across the flame, as she had looked on a gravel bar when he gave her a plan with a lock in it.
 
 "She's across a yard, and there's a door. You knock on it, and you say that there's a thing you do, and what it is, and that it might do it to her. And then she says what she says."
 
@@ -104,9 +106,7 @@ Cael looked at him. In two years he had never been given anything by that man th
 
 "She's felt you not be there, four times, and that's more than I had." She leaned forward, as far as the sling would let her. "Those are reasons, and they're good ones; you never bring bad ones. Which of them is the real one?"
 
-It was the question that she had put by on a shelf at a stone. He saw that this was the same question, cut to a smaller size, and that she had every right to this one tonight.
-
-He had known the answer since the fork, and had gone round it for a day and a half as a carter goes round a ring.
+It was the question that she had put by on a shelf at a stone; he saw that this was the same question, cut to a smaller size, and that she had every right to this one tonight. He had known the answer since the fork, and had gone round it for the rest of that day as a carter goes round a ring.
 
 "I don't know what she'd say."
 
@@ -158,7 +158,7 @@ She looked at him to be sure that he had it, and shut the book.
 
 "That's not consent."
 
-It was Seln. He had come away from the ladder's head, and he stood at the edge of the light with his hands behind him.
+It was Seln. He had come away from the loft door, and he stood at the edge of the light with his hands behind him.
 
 "It's the nearest thing to it the log's ever had, and it's still not it. I'd enter both."
 
@@ -180,11 +180,11 @@ Her voice was very quiet.
 
 It lay on the boards beside the two torn leaves. He had nothing to put against it, since there was nothing that could be put.
 
-He looked at the four of them in the last of the oil. Not one had told him that he might, and not one had offered to stand in a door. Each of them had called the thing by its name, in turn, as Pike said a line to a meadow so that anybody might call it wrong; and nobody in that loft had called it wrong, least of all himself.
+He looked at the four of them in the last of the oil. Not one had told him that he might, and not one had offered to stand in a door. Each of them had called the thing by its name, in turn, as Pike said a line to a meadow so that anybody might call it wrong; and the four names had been one name, which was *wrong*, and he had not a word to set against it.
 
 He called for no hands, since it was not a matter that hands could carry.
 
-"I'm going to do it," he said. "I've heard every one of you, and I think that you're right. I am going to lie down on that table in the morning and say nothing, and tell her the minute that it's over. I want you to know that I chose it with all of this in front of me. Nobody talked me into it, and nobody was kept from talking me out."
+"I'm going to do it," he said. "I've heard every one of you, and you're right. The right thing is to cross that yard tonight; or, failing that, to tell her in the morning before she has laid a hand on me. I know that. I am going to lie down on that table and say nothing, and tell her the minute that it's over. I want you to know that I chose it with all of this in front of me. Nobody talked me into it, and nobody was kept from talking me out."
 
 "Then enter it tonight," said Seln. "By your own rule: before, and at its full weight. An entry made tomorrow will have learned how the morning went."
 
@@ -222,7 +222,9 @@ It was not a good page. He had hoped a little that it would look better written;
 
 That was all that the last line meant. A registry had read him for years, and written down what it found, and had never once told him beforehand what it was reaching for or what the reaching might cost him. He was about to reach for somebody else in the same way. The one thing that he had which that office had not was a leaf with tonight's date at the head of it.
 
-It was a thin difference. It was the only one, and he held to it.
+It was a thin difference, and it did not make the thing allowed. He was exact with himself about that, since he was trying to be exact about all the rest. To cross the yard now and knock would be right. To say in the morning, before she had so much as washed her hands, what those hands might lose, would be right. Four people had shown him both doors. A leaf written first opened neither of them; it meant only that when he walked past them he would be doing it with his eyes open, and could never afterward tell anybody, himself least of all, that he had not known.
+
+He held to that much, since it was all there was.
 
 The bead went out. He lay down between two sacks of barley with the book under his hand; and in the dark Wind leaned a little toward where Lira was breathing, and the heaviest of the nine shifted, like a sea a long way off, and was still.
 

@@ -14,7 +14,7 @@ It lay a yard west of the stone, where it had come down, with the frost of one n
 
 He stood there. Seln cut the bolt out first, since there would be no getting at it afterward. He did it with the narrow knife and his back turned to the rest of them, and it took him very little time; when he straightened he had a short thick shaft in his hand with the iron unbent, and he wiped it on the grass and held it out.
 
-Karis had the sleeve. She had taken charge of it at first light, when Brom was told what he might not do, and she slid the bolt in beside the rest and showed them the mouth of the leather.
+Karis had the sleeve. She had taken charge of it at noon, when Brom was told what he might not do, and she slid the bolt in beside the rest and showed them the mouth of the leather.
 
 Cael counted, since she could not say it. There were three that had never left the sleeve, and one that had sat on a string all night and not been wanted, and one out of a hound.
 
@@ -50,9 +50,9 @@ Nobody said *yours*. It was the one word that Cael listened for through the whol
 
 He wrote before the light went.
 
-*Ninety-seventh day. The stone. Throat and fingers mended at noon; nothing came. My calf read and not mended: the fourth time she's found nothing. The dead one drawn off south. The bolt cut out: five in the sleeve. Bread in sixths, by Brom, for four meals.*
+*Ninety-seventh day. The stone. Two mended at noon, and nothing came. My calf read a fourth time, and left in its cloth. Five bolts. Bread in sixths, for four meals.*
 
-*Seln carried maps once that had round holes in them. One of the holes is here. The iron is the registry's. The paper was a question, and we answered it by coming out.*
+*The paper was a question, and we answered it by coming out.*
 
 *Nobody has asked me anything. I keep waiting to be glad.*
 
@@ -166,7 +166,7 @@ It was the arm that she could not get used to.
 
 She had not known how much of walking was done with the hands. Her balance was all on one side. When the wind pushed her she put out the right and nothing answered it from the left; when she stepped over a rut she felt the tied arm start, under the grey wool, and stop against the knot. It did that forty times in the first hour. It was like walking beside a dog that keeps going for the same gate.
 
-The big fool was behind her with the box, and his hands in two clean rags.
+The big fool was behind her with the box, and one hand held a little away from its strap.
 
 "You walk like that carter," he said. "The one with the feet."
 
@@ -220,7 +220,7 @@ They had a fire that night, at the spring, and Seln made the bread.
 
 It was the first flame that any of them had lit on the Fallow road since the way out, and Cael noticed that nobody discussed it. They were a day west of a grey stone; the ground under them was only ground, and a flint was not a declaration. Seln struck it. He had gathered dead stems of the pale grass by the armful, since there was nothing else in that country to burn, and they went up with a hiss and wanted feeding every minute.
 
-Brom sat on a pannier with his rags on his knees and gave orders.
+Brom sat on a pannier with his hands on his knees and gave orders.
 
 "More water than that. It wants to be like a wet clay. Now fold it; no, toward you. You're not folding a letter."
 
@@ -282,13 +282,17 @@ The second thing took him the rest of the mile. A woman was walking on the low s
 
 They came down to the fork an hour after noon, and up the valley with the smoke of a hold standing over the fence in front of them. The east gate was open. He had gone out by it five days before with five other people and a calfskin, to pick up something that somebody had left lying.
 
-The steading's woman was in the gateway.
+It was the bowman who saw them first.
 
-She was there before they were. She had her sleeves rolled and a basin on her hip, and she watched them come up the last hundred yards as she had watched five come in from a ford: a head at a time, with her lips. He saw her eyes stop on a strip of grey blanket round a girl's neck. They went to a throat with a yellow mark across it, and to two rags, and a boy who walked as though he had been put together carefully. They went last to the healer, who was whole, and to the mule.
+He had no business at that gate. He kept the western one, and in three stays Cael had seen him leave his platform once, to watch six people go out by the east; and he was standing beside the east gate now, with his bow at the length of his arm, like a man who has been coming to the same place at the same hour for five days. He looked at nobody but Lira. He watched her come up the last fifty yards on the flat of her foot, with a strip of grey wool across her and a hand tucked under her collarbone, and he did not lift two fingers from the stave. He took off his cap.
+
+Lira saw it. She put up the great boot an inch, and set it down whole.
+
+There was broth. He could smell it from under the lintel. The steading's woman came out of the long house with a ladle in her hand, wiping the other on her apron, and stopped on the step; and she did what she had done when five came in from a ford, which was to go along them with her lips.
 
 "Six. Well."
 
-It was all that she said. He thought that it was the longest speech of approval he had ever heard from her; she had counted them out of that gate, and she had not been certain of the sum.
+It was all that she said, and she said it to the ladle. He thought it the longest speech of approval that he had ever had from her; she had counted them out of that gate, and she had not been certain of the sum.
 
 "There are six blankets," said Seln. He had them rolled on his shoulder. "One is a hand narrower than it went out. I regret it."
 
@@ -296,9 +300,7 @@ It was all that she said. He thought that it was the longest speech of approval 
 
 "It's the best of them," said Lira.
 
-"It would be." The woman stood aside. "There's broth. The back room's swept."
-
-Lira went in under the lintel on the flat of her foot. On his platform by the western gate, across the whole width of the yard, a lean man stood up with a bow in his hand and looked at how she walked, and at what was tied across her; and he did not lift two fingers. He took his cap off.
+"It would be." The woman jerked her head at the long house. "It's on the board. The back room's swept."
 
 ---
 
@@ -324,7 +326,7 @@ He drew it in. He went past the place where a strip of pitch had told him *there
 
 "I said the rule was twenty-one days. I'd have laid money on sooner, and I don't lay money." She was rolling the dead tape onto its peeled stick. "Leg."
 
-He put his boot up on the coping. She unwound her own linen and turned the calf to the light. There was a seam down it, pale and dry, a hand long, lying over two older marks; she ran her thumb the length of it and did not shut her eyes.
+He put his boot up on the coping. She undid a knot that she had once called a good one, and dropped a strip of grey blanket on the ground, and turned the calf to the light. There was a seam down it, pale and dry, a hand long, lying over two older marks; she ran her thumb the length of it and did not shut her eyes.
 
 "That opened three nights back. It's closed. Four days, counting the one it went on." She let his leg go. "I've a man in this hold who cut his shin on a scythe at the start of the harvest and it's weeping yet."
 

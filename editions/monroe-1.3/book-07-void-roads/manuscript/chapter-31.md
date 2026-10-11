@@ -292,19 +292,27 @@ Brom carried her the four strides, on one arm, with the bow in the other hand, a
 
 "Nothing," Oryn said, to the arm. Her hands were to the wrist in what was coming out of it. "Nothing in my hands."
 
-She took her hands away as though the arm had burnt them.
+It was Karis who moved first. She had been bound in a barn once, by a woman with two lanterns, and had watched what that woman did before anything else; and she had both her small hands shut round Lira's arm above the elbow, on the inside, before the healer's had come away.
 
-Then she was a different person, and one that he had not met. She had a roll of linen out of her coat, the stiff kind that smelled of a pine wood, and her right knee on the inside of Lira's arm above the elbow, with all her weight on the knee.
+"Higher," said Oryn. "In, against the bone. Now lean on her as if you meant it."
 
-There was a good deal of blood, and it was black in that light. The teeth had met through the arm; he knew what that was, from the inside of his own calf, and he knew that his calf had been the smaller matter. He had seen her hurt in a dozen ways since a lane in Ardenmere, and he had never before seen so much of her on the outside.
+Her voice was quite level. She was a different person already, and one that he had not met. She was a woman on her knees in the grass with nothing in her hands, and her linen was two hundred yards off on a mule, with everything else that she had left there at noon.
 
-"You," said Oryn, to Karis. "Both hands. There, where my thumb is. Harder than that. You'll not hurt her worse than she's hurt."
+"Cloth. Whatever's clean."
 
-Karis put both hands where the thumb was, and leaned.
+Brom had it out before Cael had so much as thought. It was a strip of plain linen folded in four, which had lived inside his shirt since the middle of the eighty-seventh day; she had tied it round his wrist herself, on a mountain. She tore it across at the fold and put the halves into Cael's hands.
 
-The linen went on from the wrist upward, turn over turn, pulled with the healer's teeth at every third. Her lips kept no count, for there was nothing in her hands to count. She worked as the steading's woman had worked in a barn by two lanterns, quickly and without tenderness, and when the roll was done she tore the tail of it down the middle and knotted it.
+"One on the top, where the holes are, and one beneath. Flat. Hold them."
 
-"Up. That stays above her heart." She took Lira's left wrist and laid it against Lira's own right collarbone, and shut Lira's right hand over it. "You hold that there. You don't let it down to balance, and you don't put it out if you fall. If you fall, you fall on your face."
+He held them. The teeth had met through the arm. He knew what that was, from the inside of his own calf, and he knew that his calf had been the smaller matter. He had seen her hurt in a dozen ways since a lane in Ardenmere, and he had never before seen so much of her on the outside.
+
+The healer had dragged the tail of her own shirt out from under the brown coat, and she was tearing it upward, with one hand and her teeth, into strips three fingers wide. She did not wind them herself. She had lifted Lira's forearm across her own knee, to keep it higher than the heart, and she would not let go of it for anything.
+
+"Round, now. Begin at the elbow and come down to the wrist; you're shutting a sack, not rolling a sleeve. Tighter than you like. Tuck the end under, and don't put a knot on the hurt."
+
+He wound, and tucked. It was quick, and nobody was gentle, and when it was done the arm was a pale thick bundle that darkened slowly along one side.
+
+"That stays above her heart." She took Lira's left wrist and laid it against Lira's own right collarbone, and shut Lira's right hand over it. "You hold that there. You don't let it down to balance, and you don't put it out if you fall. If you fall, you fall on your face."
 
 "The foot's gone," said Lira. Her teeth were knocking. "The right. I heard it."
 

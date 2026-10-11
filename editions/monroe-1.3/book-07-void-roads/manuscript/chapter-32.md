@@ -126,11 +126,17 @@ It was ten strides. On the tenth he let it go, with his hands already on the ani
 
 The sound of his own feet came back a beat late, like an echo off a wall. His hands had gone as cold as if he had held them in a spring. And the dark-backed one, which had heard nothing come and seen nothing come, shifted its grip to finish.
 
-He had its weight. He had been carrying a pace and a half of the world since the far lip, and he knew where every pound of that long body sat and which way it leaned. He took it by the loose skin behind the skull and by the root of the tail. He did not pull it off her, since a thing that is pulled bites down. He lifted the hind end as high as his chest and turned his whole back into it, as he would have thrown a sack onto a cart.
+He did not try to drag it off her, since a thing that is pulled bites down. He had Lira's knife, and he could not spend the blade either, with two small fists lying under those teeth. He gave it the other end. He put the horn of the hilt in at the back of the jaw, crosswise, where Seln had put a flat blade on a white floor, and bore down on it as on the handle of a pump.
+
+The jaws came open by the width of two fists, and Karis had them out before he could have told her to.
+
+It went for him then, as he had known that it would. It had lost what it was holding, and here was the thing that had taken it. He had been carrying a pace and a half of the world since the far lip, and he had the whole long weight of the animal inside it, and the way that the weight meant to go. It gathered and came, low, at his knee.
+
+He was not there. He did that with his own two feet and nothing in them. A girl on a painted floor had taught it to him before she taught him anything else, and had told him that nothing is thrown which has not first been let go by. He stepped off its line by the width of his body. He took it as it passed, by one foreleg and a handful of hide, and added what he had to what it was already doing.
 
 Five bands of linen said *there*. He went through them.
 
-A hound with its hind feet off the ground has nothing to bite from. It let go of two fists to find the earth again, and by then it was in the air; and it went over his hip and into the standing grass on the south side, a full yard out, and he heard it land.
+It went on a yard farther than it had meant to go, off the edge of the trodden grass and into the standing stems on the south side, shoulder first, and he heard it roll.
 
 Karis lay with her fists under her chin and her mouth open. No sound was coming out of it. Her eyes were on him, and they were quite clear. They went to his hands, and to the place ten strides back where he had been standing, and returned.
 
@@ -244,17 +250,17 @@ The landing locked.
 
 *One.*
 
-He had priced this count too, and the price was a bad one. The dark-backed one had not gone into the chaff. It had run the rut's rim. Whether a boy's two hands had taught it something in the lane he could not have said. It was the only one of the eight that had been on the right side of the channel when he left it, and it was three strides from him, and already in the air.
+He had priced this count too, and the price was a bad one. The dark-backed one had not gone into the chaff. It had run the rut's rim, and whether a boy's hands had taught it something in a lane he could not have said. It was the only one of the eight on the right side of the channel when he left it. It was behind him now, up the slope, and he could not turn his head to learn how near.
 
-He could not move his feet. He could not have moved a finger.
+He could not have moved a finger.
 
-It hit him at the end of the count, and Compression took it.
+It hit him low, in the backs of the thighs, at the end of the count, and Compression took it.
 
-It took it late. For the first beat there was nothing between him and a hound's whole weight but the left forearm that he had thrown across his body, and he felt the bone of that arm ring from the wrist to the elbow like a struck rail. Then the thing that a fighter had once put through him, and left with him, came up through his frame and did what it was for. The rest of the blow went through his shoulder and his spine and his locked knees, and down into the hill.
+It took it late. For the first beat there was nothing there at all, and the animal's whole weight went into his legs as a cart's tail goes into a man in a lane. His knees went. He pitched forward down the hill with its chest on his shoulders, and kept the knife up, and put out the other arm. His left forearm met the ground under the two of them. Then the thing that a fighter had once put through him, and left with him, arrived and did what it was for. There was only one road open to it. The whole of that blow went down one bone into the hill, and he felt it ring from the elbow to the wrist like a struck rail.
 
-He stood. The hound came off him as it would have come off a wall, sideways, and rolled.
+The hound had run into a thing that gave like a gate and then did not give. It went on over his head, as a sack comes off a tipped cart, and rolled away down the slope in front of him.
 
-His feet were his own again. He ran west.
+His feet were his own again. He was up and past it before it had found its legs, and running west.
 
 ---
 
@@ -304,7 +310,7 @@ Karis held it for a count of six. He counted it for her. At six the wall went do
 
 It was full dark. The stars were out. He lay where he had fallen and went over it, since somebody had to.
 
-Two were dead: one on a white floor, with a bolt in its eye, and one a yard from his boots. Seven had gone, north and south, and nobody on that hill could have said more of them than that. Six people were on the western side of a grey stone. One of them had an arm bitten through and an ankle gone for the third time, and one could not speak. One was looking at the fingers of both his hands by starlight. He himself had a calf laid open, and a forearm in which the feeling was going out like a tide, and nine things under his hand again that had not yet stopped shaking.
+Two were dead: one on a white floor, with a bolt in its eye, and one a yard from his boots. Seven had gone, north and south, and nobody on that hill could have said more of them than that. Six people were on the western side of a grey stone. Four of the six were hurt, and he would have the count of that by lamplight. He knew already that every hurt but his own had been taken by somebody who had no means of answering. Nine things lay under his hand again, and they had not yet stopped shaking.
 
 There were no instruments, and there would be no hundred marks.
 

@@ -20,13 +20,15 @@ He had thought about what it would be. He had lain awake over it in a loft, with
 
 It did not go down. It went along.
 
-He felt it leave her right hand at about the thirtieth breath. It was not warmth, and it was not a touch; it was nearer to what a person feels when somebody else's attention comes to rest on the back of his neck. It set out from his breastbone toward his feet. It went the whole length of him, without haste, as water goes when a sluice is lifted at the head of a dry channel; and when it had reached as far as there was to reach, it turned and came back up the other side, and he felt it arrive under the nape of his neck, in her left hand, where she was waiting for it.
+He felt it leave her right hand at about the thirtieth breath. It was not warmth, and it was not a touch; it was nearer to what a person feels when somebody else's attention comes to rest on the back of his neck. It set out from his breastbone toward his feet, and it went the whole length of him without haste, as a joiner runs his thumb down the edge of a plank to learn whether it is true. When there was no more of him to go along it turned, and came back up the other side, and he felt it arrive under the nape of his neck, in her left hand, where she was waiting for it.
 
 Then it set out again.
 
-He lay very still. There was a beat in it. It was not his heart, which went a good deal faster, and it was not his breath. It was slower than either and it did not vary, and he knew it before he had found the word for where he knew it from. He had walked beside it for six days down a valley, at a mule's shoulder, with five bands of linen teaching him where his own edge was. It was the pace that she kept on a road. She was going through him at it.
+He lay very still. It was not even, and that was the first thing about it that he could have sworn to. Down his right side it bore a shade more lightly than down his left, and came a hair late. Each time, the heel of her hand on his breastbone eased and settled with it, by so little that he would never have caught it without three weeks of a tape to teach him what a hair was. He knew that unevenness. He had walked behind it for a day and a half down a mountain before he saw what it was: a raw heel, taped, and favoured for so long that it had been built into everything she did.
 
-He could feel her keeping time. He had not expected that of all things: that he would lie under an instrument and be able to tell that it was a person. A brass plate in a district hall had waited over him for eleven seconds, and he had not felt it wait. An assessor's panel had read him across a floor and he had got nothing from it but a number on a slate. This had a gait. It favoured the right side by a hair, as she did, over a raw heel.
+It was only after that that he found the beat. It was slower than his heart and slower than his breath, and it did not vary. It was the pace that she kept on a road, below a mule, and she was going through him at it.
+
+He could feel her keeping time. He had not expected that, of all things: that he would lie under an instrument and be able to tell that it was a person. A brass plate in a district hall had waited over him for eleven seconds, and he had not felt it wait; an assessor's panel had read him across a floor, and he had got nothing from it but a number on a slate. This one limped.
 
 He had been afraid, coming over the yard, that it would be like being searched. He had been searched by a good many careful people; he knew the hands of a clerk going through a satchel, and the eyes of a panel going over a stance for the thing that was wrong with it. This did not rummage. It went down him and came back as a carter goes down his own road, looking at what was there, and it took up nothing to see what lay beneath.
 
@@ -96,19 +98,19 @@ He had been waiting for it without knowing that he waited. He had lain under han
 
 They had all been afraid of him. He had first seen it on the morning of his Kindling, and had not had the word for it then. It had looked like anger, mostly.
 
-She had found it eight minutes ago. He had heard her find it: *there it is, I've got the moving.* She had been walking up and down the length of something for twelve minutes that was like nothing she had ever put her hands in. And her voice was the voice in which she had told an ox-driver that four small bones were broken.
+She had found it eight minutes ago, and he had heard her find it: *there it is, I've got the moving.* She had been walking up and down the length of something for twelve minutes that was like nothing she had ever put her hands in, and her voice was the voice in which she had told an ox-driver that four small bones were broken.
 
 She was not afraid of him.
 
-He turned that over, slowly, at a man asleep's pace. She had watched him go up a hill with fire in his fist, in a place where she could not count to four, and she had asked him whether his calf was worse than an arm. She had read his leg afterward and found nothing, and said so, and bound it in cloth.
+He turned that over, slowly, at a man asleep's pace. She had watched him go up a hill with fire in his fist, in a place where she could not count to four, and she had asked him whether his calf was worse than an arm. She had read him afterward and found nothing, and said so, and left his leg in its cloth.
 
-It was not courage. He did not think that it had occurred to her that courage was wanted. It was her trade. A healer who stood amazed at a broken leg would never set it; she had spent her working life walking up to the worst thing in a yard and asking which it was, and her craft had no room in it for being impressed. He was the strangest thing that she had ever touched. To her that made him a difficult reading, and she was doing it as well as she could.
+It was not courage, and he did not think that it had so much as occurred to her that courage was wanted. It was her trade. A healer who stood amazed at a broken leg would never set it; she had spent her working life walking up to the worst thing in a yard and asking which it was, and her craft had no room in it for being impressed. He was the strangest thing that she had ever touched, and to her that made him a difficult reading, which she was doing as well as she knew how.
 
 He had been a case to a great many people. He had never before been a patient.
 
-Something in him eased that had been braced for longer than he had carried any of the nine. He let it. She did not tell him that he was helping.
+Something in him eased that had been braced for longer than he had carried any of the nine, and he let it; and she did not tell him that he was helping.
 
-She had gone quiet. He counted through the fifteenth minute, and the sixteenth, with nothing over him but her breathing and the slow going-along; and he felt it change. It was not weaker. It had been a walk, and now it was a search. She went down one side of him and stopped, and came back a hand's breadth, and tried it again from a little farther in, as she had tried a stone with her feet at dawn, eight times. She was looking for an edge. She looked for it under his heart, and along his arms to the fingers, and in the long muscles of his back. She was not finding one, and she would not leave off.
+She had gone quiet. He counted through the fifteenth minute, and the sixteenth, with nothing over him but her breathing and the slow going-along; and he felt it change. It was no weaker, but it had been a walk, and now it was a search. She went down one side of him and stopped, and came back a hand's breadth, and tried it again from a little farther in, as she had tried a stone with her feet at dawn, eight times. She was looking for an edge: under his heart, and along his arms to the fingers, and in the long muscles of his back. She was not finding one, and she would not leave off.
 
 The sweat had come out on her. A drop of it fell on his collarbone.
 
@@ -124,7 +126,7 @@ He did not answer, since he had been told not to speak to her.
 
 It was the longest thing that he had ever heard her say with her eyes shut.
 
-*More than one.* She had it. She did not know what she had. She had gone through a house with a lamp and counted more rooms than a house ought to hold, and she had stood in every one of them and could not find a wall.
+*More than one.* She had it, and she did not know what she had. She had gone through a house with a lamp and counted more rooms than a house ought to hold, and she had stood in every one of them and could not find a wall.
 
 He was at two hundred and twenty-eight. That left one minute of her twenty.
 
@@ -152,11 +154,13 @@ That was the first thing that he was sure of. He had refused nine things a strid
 
 He went through what came after that, as quickly as he had gone through it on a white floor with his hands on a skull.
 
-He would not have to tell her. There would be nothing to tell. He would walk out into the yard having wanted a thing with his whole heart, and having climbed a ladder to say so, and having written it on a leaf with the price beside it; and at the last breath he would have kept his hands clean, and the leaf would be a page about a boy who had thought of doing wrong and had not. Four people in a loft would be glad. He would let them be.
+It would be right. He did not hide that from himself, lying there. Four people had said so in a loft, and nothing that he had written afterward by a bead of oil had altered it by a hair. There was even an honest way to do it: he could shut the place, and when she lifted her hands he could tell her all the same what had stood open in him while she worked, and what he had come within a breath of taking.
 
-And it would be a lie. He saw that with great plainness. He had not written that he would be good. He had written that he wanted it, and that he would pay. To shut that place now, and call the shutting a conscience, would be to keep the whole of the wanting and send back only the bill; and he would be the registry after all, which had never once owned to what it reached for.
+That was the right road. He saw the whole length of it, and he did not want it.
 
-He did not tell himself that it was right. Four people had told him what it was, and he had agreed with every one of them.
+There was another way to stop, and he looked at that one longer, since it was the one that he would really have taken. He could shut the place and say nothing. He would walk out into the yard having wanted a thing with his whole heart, and having climbed a ladder to say so, and having written it on a leaf with the price beside it. Four people would be glad, and he would let them be; and the leaf would turn into a page about a boy who had thought of doing wrong and had not. That stopping would be a lie, and he would not add it to the rest.
+
+So he knew which was right, and he chose against it. He was exact about why. It was not that a leaf permitted him; a thing written down beforehand is only a thing done on purpose. It was that he wanted to know what he was more than he wanted to be in the right, and the one instrument that might tell him was standing at his breastbone. He would answer for it within the minute, on this table, to her face.
 
 He looked at it squarely, with his neck loose and his eyes open on a rafter.
 

@@ -58,7 +58,7 @@ He had told the boy that he did not know what the number counted, and that he wo
 
 He carried what he had carried as a careful clerk carries it, in drawers, each one shut. It was how a man could bear fifteen years of other people's paper and still sleep. But one of them, at the stake, had shifted on its runners, and all day it had stood a finger's breadth open, with nothing to be seen in it but dark.
 
-The big man came down out of the north when the east had begun to grey, walking as a person walks who has stood since midnight, with a bow in two bundles of rag.
+The big man came down out of the north when the east had begun to grey, walking as a person walks who has stood since midnight, with a bow in his two hands and a rag round one of them.
 
 "Yours is over," said Brom. "Nothing?"
 
@@ -110,27 +110,21 @@ He went down on one knee in front of her, so that she should not have to lift he
 
 ---
 
-The healer did her two at noon.
+By the time the sun stood straight overhead, Karis had a horn cup in both hands and was finding out whether she could drink.
 
-She had woken at first light and eaten the sixth of a loaf that lay by her head, and slept again, on purpose, for two hours by the sun. Then she had got up and washed to the elbow from the skin, and taped Lira's foot without a word, with an anchor turn and two strips up the outside and the long one crossed in front. After that she had sat with her back against a pannier and her eyes on the top of the sky.
+She did it a mouthful at a time, with her chin down and a look of sharp inquiry, as she would have tried a new pen. Across the front of her throat, where there had been a mark the colour of a plum at first light, there was something yellow and old.
 
-"I'll do them when it's straight up," she said. "You've all told me that's the hour those things have never been seen about. If I'm to shout twice more I'll do it then."
+The healer had named the hour herself. She had woken with the sun and eaten the sixth of a loaf that lay by her head, and slept again, on purpose, for two hours more; then she had taped Lira's foot without a word, and sat down against a pannier with her eyes on the top of the sky. She would do her two when it was straight up, she said. They had all told her that it was the hour at which those animals had never been seen about, and if she was to shout twice more she would do it then.
 
-Cael watched it from the grass, with his leg out.
-
-She took Karis first. Two fingers went to the inside of a thin wrist, and the other hand lay along the front of the throat, lightly, where there was a bruise the shape of two fists. Her lips went to ten.
+The throat had taken her a quarter of an hour. She had sat back from it on her heels, with both hands hanging, and given her judgment to the grass.
 
 "Days. Hoarse before it's anything."
 
-Karis's hand moved, for a pencil that she had put down.
+Karis had reached for her pencil at once.
 
-"No. Don't write it. I can see what you want to know." The healer shifted her palm a little. "It's pressed, and it's swollen, and I can take the swelling down and start the rest. I can't give you the voice today. It comes back by itself, rough first, and you'll leave it alone until it does. You don't whisper. A whisper's harder on it than talking."
+"No. Don't write it. I can see what you want to know. I've taken the swelling down and started the rest, and that's all there was to do. The voice comes back by itself, rough first, and you'll leave it be until it does. You don't whisper. A whisper's harder on it than talking." She had flexed her fingers. "That's one."
 
-She shut her eyes. It took her a quarter of an hour, and when her hands came away the bruise had gone from purple to yellow, as a week does it, and Karis swallowed, and swallowed again, with a look of astonishment.
-
-"That's one."
-
-Brom was beside her already, on his knees, with the rags unwound.
+Brom was carrying the pan back to the panniers now. He had it by the rim, in the hand that she had done, and he held it out in front of him and watched four of his own fingers under it as he went, as a farmer watches a new man at a job. That had been her second. He had come to her on his knees straight after the throat, with the rag already unwound, and Cael had seen the whole of it from the grass.
 
 The hand was the pads of four fingers laid open by a string in the dark, bled into the linen and dried there, and she soaked the linen off with the pan's water and a corner of the lantern's oil, slowly, while Brom looked at the scrub. When it was off she turned the hand over in the light and said, "String," as a verdict, and put her palms round it.
 
@@ -142,37 +136,45 @@ Shorter than the throat; less than half, by the floor. The fingers, when she ope
 
 "I know you will. I've met you."
 
-She sat back, and Cael saw what the pair of them had cost her. She had been grey when she woke, and she was grey again. A Tide on a road had two in her, and she had spent the whole of yesterday's on one arm.
+That had been a little while ago. She had been grey when she woke, and she was grey again; a Tide on a road had two in her, and she had spent the whole of yesterday's on one arm.
 
-"Leg," she said.
+She did not get up. She looked across the grass at Cael's left leg, where a strip of grey blanket had gone dark in the night, and jerked her chin at it.
 
-He had not expected it. He had thought that she would take her two hours first; but she was looking at the calf, where a strip of grey blanket had gone dark in the night, and she held out her hand for it as for a tool.
-
-"Who tied this?"
+"Who tied that?"
 
 Karis lifted one skinned hand.
 
-"It's a good knot. It's the wrong cloth." She had it off, and she spent very little time over what was under it. She washed it from the skin, and it ran, and she put both her hands round the leg above the place and below. Her lips began to move.
+"It's a good knot, and it's the wrong cloth, and it'll serve. Don't take it off. Lift the edge for me."
 
-He counted with her, as he had counted on a mountain, and on a scrubbed table, twice. *One. Two.* He knew now what he had not known on any of those days. He had stood on a hill in the dark with every one of the nine going out of him at once, and she had been standing on a lane below him with her eyes open.
+He lifted the edge. She leaned, with her hands on her own knees, and looked under the wool from a foot away.
+
+"That opened last night. It's half shut. I can see it drawing together from both ends, clean, with nothing doing it, the same as those ribs." She sat back. "You've got what a carter gets, and you've got it on already."
+
+"You've not read it," said Lira.
+
+She had come up on her good elbow. The healer turned her head.
+
+"I've read him three times."
+
+"Not since the hill. You've had a night's sleep, and you've seen more of him than you had. Put your hands on him."
+
+"I've seen him run up a hill. That's not the same as reading him."
+
+She came over all the same, on her knees, since she had been asked plainly. She took his right wrist, which had nothing wrong with it but the cold, and laid two fingers on the side of his neck, and her lips began to move.
+
+He counted with her, as he had counted on a mountain, and twice on a scrubbed table. *One. Two.* He knew now what he had not known on any of those days. He had stood on a hill in the dark with every one of the nine going out of him at once, and she had been standing on a lane below him with her eyes open.
 
 *Five. Six.*
 
-At six her lips stopped.
-
-Her hands stayed where they were. She shifted her thumbs, and pressed, and he saw the old crease come between her brows. She had the look of a person trying a door that she knows to be locked, for the sake of having tried it.
+At six her lips stopped. He saw the old crease come between her brows; she had the look of a person trying a door that she knows to be locked, for the sake of having tried it.
 
 "I can't mend what I can't read. That's the rule."
 
-"You'd a night's sleep," said Lira. She had come up on her good elbow. "And you've seen more of him than you had. Try it again."
+"Again," said Lira.
 
-"I've seen him run up a hill. That's not the same as reading him." Oryn took her hands away and wiped them on her breeches. "And I don't say a finding four times to a patient and change it on the fifth."
+"No." Oryn let go of him, and wiped her hands on her breeches. "And I don't say a finding four times to a patient and change it on the fifth."
 
-Her eyes came up to his, level and tired and a little hungry, as they had come up once over three broken ribs.
-
-"It's closing. I can see it closing. It opened last night and it's half shut, with nothing doing it, the same as those ribs." She reached for clean linen. "You get what a carter gets. Again."
-
-She bound it in her own cloth, tight and neat, and she put no question to him of any kind.
+Her eyes came up to his, level and tired and a little hungry, as they had come up once over three broken ribs. She put no question to him of any kind. She pressed the edge of the blanket strip down with her thumb, as she pressed the strip on her own heel, and left Karis's knot where it was.
 
 ---
 
@@ -198,7 +200,7 @@ Cael sat across from her, with his leg out, and listened.
 
 "The top gate of my round's eleven days north of here," said Oryn. "That's by the road, at her pace." She tipped her head toward the camp, and the mule. "I'm not telling you for thanks. I've watched you. You count everything that's put in front of you, and that's a figure nobody would have put there."
 
-He had been counting, since a far lip, what the day had cost. He had Lira's arm in it, and a throat, and four fingers; he had his own leg, and a number in a book. He had not had this. A woman had added a stop to the only thing she owned, for two reasons of her own, and the stop had taken three mendings in two days from seven gates that had not been asked.
+He had been counting, since a far lip, what the day had cost, and he had supposed the count complete. He had not had this. A woman had added a stop to the only thing she owned, for two reasons of her own, and seven gates that had never been asked were paying for it.
 
 "I'd not have had it," he said. "I have it now."
 

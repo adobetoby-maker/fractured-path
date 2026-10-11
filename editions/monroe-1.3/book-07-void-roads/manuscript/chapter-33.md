@@ -4,9 +4,9 @@ It was Brom who had the flint, and he struck it with the heel of his hand.
 
 The spark took on the third stroke. Karis's small brass lantern had come out of the middle box, and when its flame stood up Cael saw the camp that six people had made without meaning to. They were ten yards west of the grey stone, on the old line of the road, with the mule standing over them and her ears laid back. A long grey thing lay between them and the stone, where it had come down out of the air, and nobody looked at it.
 
-Beyond the stone the slope went up into the dark. At the top of it there was still a faint paleness where the floor lay, and between that and the lamp, along sixty yards of grass, ran a strip of black no wider than his hand, where a wall had stood for a count of six; the frost was coming down on it already.
+Beyond the stone the slope went up into the dark. At the top of it there was still a faint paleness where the floor lay. Between that and the lamp, along sixty yards of grass, ran a strip of black no wider than his hand, where a wall had stood for a count of six; the frost was coming down on it already.
 
-Lira was on her back in the grass, and the healer knelt beside her. She had the stiff black linen off the arm already, a turn at a time, and laid in a heap.
+Lira was on her back in the grass, and the healer knelt beside her. She had the cloth off the arm already, three strips of her own shirt and two pads of a linen cuff, and had laid it in a heap.
 
 "Light," said Oryn. "Here. Lower than that."
 
@@ -16,7 +16,7 @@ She put her hands round the arm, one above the place and one below, as she had p
 
 "There. Back."
 
-She said it to the arm, on a breath, and that was all the notice that she gave it; she had waited thirty rounds to learn what a line did to her hands, and learned it at noon, and tonight she had no time to spare for having them back. She opened her eyes and looked up at five people, and spoke quickly, as she had spoken on the hill.
+She said it to the arm, on a breath, and that was all the notice that she gave it. She had waited thirty rounds to learn what a line did to her hands, and had learned it at noon, and tonight she had no time to spare for having them back. She opened her eyes and looked up at five people, and spoke quickly, as she had spoken on the hill.
 
 "It's deep. It's the deepest thing I've done on a road. I'll be in it an hour, near enough, and I'll hear nothing that anybody says to me, so say it now." She jerked her chin at the dark. "You've a finding about what those things hunt. I've heard it at your fire more than once. A mend's a Path used, and this one's a Path used for an hour, at night, with seven of those somewhere in that grass. It's the loudest thing for a mile, and I can't do it quietly."
 
@@ -34,7 +34,7 @@ There was one thing more to do before she went under. It was Karis's to do, and 
 
 "No one," said Seln's voice, out of the south.
 
-"Lira's arm, and her ankle. Karis's throat. Brom's hands. Six bolts, at noon: three in the sleeve, one on the string, one a yard from that stone, and one gone. The box is whole, and there are eleven sheets in it and on her."
+"Four of us are hurt, and she'll have each of those from the one that it belongs to. Six bolts, at noon: three in the sleeve, one on the string, one a yard from that stone, and one gone. The box is whole, and there are eleven sheets in it and on her."
 
 He had come to himself. He looked at the healer when he said it, since she was the one of the six who had no reason to know what she had been looking at.
 
@@ -56,31 +56,23 @@ She shut her eyes. Her hands settled, with the fingers overlapping, and her face
 
 ---
 
-He held the lantern for an hour, and for the whole of it he watched her face.
+He held the lantern for an hour, and he measured the hour by its oil.
 
-He did not watch the arm. He had seen what was to be seen of that at the head of a lane, and he found that he had no wish to learn how it looked when the linen was off. A healer on a mountain had grown a little older while he looked at her, over a shin. It was more than a little now. The sweat came out along her cropped hair in the first minutes and ran, though the frost was coming down, and by the middle of the hour the skin under her eyes had gone the colour of a bruise; her breath came slowly, at the pace that she walked.
+There had been four fingers of it in the glass when Brom struck the flint; he had noted that, as he noted everything. It went down by the breadth of one of them while a square woman knelt in the grass with her eyes shut. He held the flame where she had told him to hold it, and kept it from moving.
 
-Lira did not speak. She had been told once to lie still and let it, and she lay still. Her eyes were open, and they were on him.
+Lira did not speak. She had been told once, on a mountain, to lie still and let it, and she lay still, and her right hand was the only part of her that told him anything. At first it had hold of the grass, a whole fistful, with the knuckles standing. A little later it left the grass and found the strap of Hesk's satchel, where that hung from his shoulder beside her, and took two turns of it round the wrist. By the time the oil stood halfway down the fourth finger the strap had gone slack, and the hand lay open on her own breast.
 
-He could not read what was in them. He had been able to read that face across a yard since a lane in Ardenmere, and tonight he could not. It was not anger, which he knew, and it was not fear either. She looked at him steadily, by the light of a brass lamp, as she might have looked at a card that had come up with a name on it she had not expected, while a stranger's hands took six weeks out of her arm in an hour.
+Her eyes were open as well, and they were on him.
 
-He had an hour, too, in which the bills came in.
+He could not read what was in them. He had been able to read that face across a yard since a lane in Ardenmere, and tonight he could not. It was not anger, which he knew, and it was not fear either. She looked at him steadily, as she might have looked at a card that had come up with a name on it which she had not expected.
 
-His left forearm went first. The ringing had gone out of the bone before he reached the stone, and something duller had come into its place, which spread; by the end of the first quarter he could not have told by feel where his fingers were. He set the lantern's ring over that wrist, like a bucket on a hook, and held the wrist up with the other hand.
-
-His hands were cold, both of them, with a cold that the night did not account for. He knew whose that was. It had come down a stair with a boy, long ago, in another person's life, and it had taken something out of the air for ten strides and kept a little of him for its trouble.
-
-Something in his right arm had begun to ask about the lantern's rim. *Edge?* It had asked that question of half the world for a season, patiently, and tonight for the first time it had been told yes; and now it asked like a child that has been given one sweet. He told it no, and it asked again.
-
-The heaviest of them lay in him like wet sand. He had put three lanes down a ditch, and he could feel every one.
-
-Under all of that the calf burned, slowly, in its own blood. He looked at none of it for long. He had opened a purse and counted out what was in it, and here was the reckoning, an item at a time, on his own body; and every item was smaller than the one that the healer had her hands on.
+His left arm had gone dead to the elbow before the first quarter was out. He hung the lantern's ring over that wrist, like a bucket on a hook, and held the wrist up with the other hand. Something in his right arm had begun to ask about the lantern's brass rim. *Edge?* It had put that question to half the world for a season, patiently, and tonight for the first time it had been told yes; it asked now like a child that has been given one sweet. He told it no, and it asked again.
 
 Nothing came out of the grass.
 
-He listened for it the whole hour, and he learned what that hillside sounded like at night. The pale grass never stopped; the wind went over it from the north in long breaths, and it hissed and lay down and stood again, so that he was always hearing something come and finding that it was only the country. Twice Brom shifted his feet. Once the mule blew, and once, far off toward the north, a bird got up and cried and settled. There was a small dry ticking, close by, which he could not place until he saw that it was the frost, taking hold on the black linen in the heap.
+He listened for it the whole hour, and he learned what that hillside sounded like at night. The pale grass never stopped. The wind went over it from the north in long breaths, and it hissed and lay down and stood again, so that he was always hearing something come and finding that it was only the country. Twice Brom shifted his feet. Once the mule blew, and once, far off toward the north, a bird got up and cried and settled. There was a small dry ticking, close by, which he could not place until he saw that it was the frost, taking hold on the wet cloth in the heap.
 
-Seven animals were somewhere in that dark which hunted the very thing that a square woman was doing with her eyes shut, and they did not come. He did not know why. He set it beside a great many other things that he did not know, and held the lamp.
+Seven animals were somewhere in that dark which hunted the very thing that a healer was doing a yard from his knee, and they did not come. He did not know why. He set it beside a great many other things that he did not know, and held the lamp.
 
 When her hands opened, she did not take them away at once. She turned the arm over in them, toward the light, and looked.
 
@@ -130,7 +122,11 @@ She got one hand to the ground, to push herself up, and the arm folded. She did 
 
 There were six of Thornwater's blankets on that mule, and there were six people.
 
-Seln brought them down, since he was the only one with two hands and nothing wrong with either, and he laid two on Lira and one on the healer where she had fallen. He cut the bread as well, a round loaf from the hold's oven, into six, with the same knife that had cut the sling; and he left the sixth piece on a pannier lid by Oryn's head, where she would find it before she found anything else.
+Seln brought them down, since he was the only one with two hands and nothing wrong with either, and he laid two on Lira and one on the healer where she had fallen. He stayed a breath longer over the healer than a blanket needed.
+
+"She has gone grey to the lips," he said, to nobody. "Her hair is wet through, in this frost, and I do not think that she knows it. I have seen people spent. I have not seen one spent so far who still stopped to answer about a foot."
+
+He cut the bread as well, a round loaf from the hold's oven, into six, with the same knife that had cut the sling; and he left the sixth piece on a pannier lid by Oryn's head, where she would find it before she found anything else.
 
 Nobody made a fire. Nobody proposed one.
 
@@ -148,7 +144,7 @@ She wrote one line more, and turned it to him.
 
 *I am asking nothing tonight. Entered.*
 
-Then she shut the book. She did not lie down. She was looking at his left leg, which lay stretched toward the lamp with the cloth black from the knee to the boot, and he watched her think it through as she thought through everything: the healer was asleep and would be asleep till morning, Seln had the south and Brom the north, and Lira had one arm. That left a person with two skinned hands and no voice.
+Then she shut the book. She did not lie down. She was looking at his left leg, which lay stretched toward the lamp with the cloth black from the knee to the boot, and he watched her think it through as she thought through everything. The healer was asleep and would be asleep till morning; Seln had the south and Brom the north, and Lira had one arm. That left a person with two skinned hands and no voice.
 
 She came across to him on her knees, with what remained of the blanket strip, and took his boot into her lap.
 
@@ -176,7 +172,7 @@ Oryn did not open her eyes. Her lips moved, in the trodden grass.
 
 "I wasn't asking for tonight," said Brom. "I was telling you there was one." He looked down at her with an expression that Cael had last seen on him at the edge of a moss. "Go to sleep. You're asleep."
 
-He washed it himself, from the skin, with his teeth set, and wound a strip of the sling's leavings round it; and he took up the bow again with that bundle and went back to the north.
+He washed it himself, from the skin, with his teeth set, and wound a strip of clean linen out of the healer's pannier round it; and he took up the bow again with that bundle and went back to the north.
 
 That was the camp. Nobody had said a word to Cael about a hill. They had eaten bread beside him, and passed him the water, and Seln had put the last blanket round his shoulders without a remark, as he would have put it round anybody. Four of them knew what he was and had not known until tonight that it reached in there. One of them knew nothing, and had asked him whether his calf was worse than an arm.
 
@@ -186,13 +182,13 @@ He had expected questions, and he had been given a blanket, and a sixth of a loa
 
 He wrote while there was oil.
 
-Karis had looked at the lantern's glass before she slept, and held up three fingers, and he took it that she meant hours. He set it on the lid of the box and opened Hesk's book to the page that had stopped short. The entry there was in his own hand and a few hours old; it said that the dogs were inside, and that he had told nobody, and he read it as he might have read the writing of somebody he had known as a boy.
+Karis had looked at the lantern's glass before she slept, and held up three fingers, which was what an hour had left in it. He set it on the lid of the box and opened Hesk's book to the page that had stopped short. The entry there was in his own hand and a few hours old; it said that the dogs were inside, and that he had told nobody, and he read it as he might have read the writing of somebody he had known as a boy.
 
 He did not go back to finish it. He began a new one beneath.
 
 *Ninety-sixth day, night. West of the stone, on the old road.*
 
-*Nine hounds, inside. Two dead, both Brom's, with a healer's bow that he had never shot: one on the floor, at thirteen feet, with my hands on its head; one over the stone, at six. Seven out, north and south along the line's outside. Not seen after. No instruments were there. No price.*
+*Nine hounds, inside. Two dead, both Brom's, with a healer's bow that he had never shot. Seven out, north and south along the line's outside. Not seen after. No instruments were there. No price.*
 
 *Lira: left forearm bitten through and held; mended at the line, an hour, by lantern. One arm till first snow, by order. Right ankle gone a third time, and not mended. Karis: throat; no voice. Brom: four fingers, on a string. Seln: nothing. Oryn: spent to the bottom, and asleep on the road.*
 
@@ -270,7 +266,7 @@ He sat on beside her with a dead arm across his knee.
 
 The seven did not come, and the stone lay where it had lain, and behind it, a long way off up the slope, there was a faint paleness that he would not have seen if he had not known where to look. He watched the stars go over, and tried to make the sentence that she had given him leave to wait for.
 
-He could not make it. He had the fact, which was that nine things had answered him in a place where a healer could not count. He had nothing to put after the fact. And he knew what became of a thing that was written down before anybody understood it, since it had been done to him: a clerk had found no tier for a boy, and had put a word in capitals where the tier should go, and from that morning nobody had needed to ask what the boy was. A file stopped the asking. He would not do that to this, and he would not hide it either.
+He could not make it. He had the fact, which was that nine things had answered him in a place where a healer could not count. He had nothing to put after the fact. And he knew what became of a thing that was written down before anybody understood it, since it had been done to him. A clerk had found no tier for a boy, and had put a word in capitals where the tier should go, and from that morning nobody had needed to ask what the boy was. A file stopped the asking. He would not do that to this, and he would not hide it either.
 
 It was the better part of two hours before he opened the book again; and he wrote by starlight, large, one sentence to a line, as Karis had written at this same stone on the night before.
 
