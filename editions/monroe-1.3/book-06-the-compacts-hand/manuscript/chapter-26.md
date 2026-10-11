@@ -42,7 +42,7 @@ He looked it up. There was a printed slip on the board with it on, in the seat's
 
 *K. Dellenmoor. Advocate of record for the respondent, under the hearing provision.*
 
-Karis watched him write it. Cael watched Karis. She did not say anything, and her face did not do anything that the officer would have noticed, but she watched every letter go down, and when he blotted it she let out a breath that Cael heard and the officer did not.
+Karis watched him write it. Cael watched Karis. Her face did not do anything that the officer would have noticed, but she watched every letter go down, and when he blotted it she let out a breath that Cael heard and the officer did not.
 
 Inside, the long room smelled of lanolin and hot lamp oil, as it always did. The benches were fuller than at the third sitting. Cael crossed lot *nine*, lot *ten*, lot *eleven*, and sat down at the respondent's table with *seventeen* under his left foot, where he always sat now. Ilsev was in the middle chair of the evaluation seat with her files on her lap-desk at their angle and her four district evaluators upright around her. At the records table behind her, at the junior chair, the officer with the careful face had the receipt book open and his pen ready and his eyes on the leaf.
 
@@ -94,7 +94,7 @@ He answered across the floor, not to the seat and not to the counsel but to the 
 
 "None, Advocate. The petition doesn't turn on evidence. It turns on discretion."
 
-He sat. He unhooked his spectacles from their black cord, folded them, and laid them on the table in front of him. That was all.
+He sat. He unhooked his spectacles from their black cord, folded them, and laid them on the table in front of him.
 
 The clerk's pen started again. Cael heard it scratch across the leaf, word by word, at its ordinary speed, putting the sentence into the minute, where it would stay.
 
@@ -112,7 +112,7 @@ He had brought receipts to a room that did not take them.
 
 He wrote that on the back of the schedule, under the dairy notes, very small. Then he sat and looked at it while the clerk's pen went on across the floor.
 
-Beside him Karis had not opened her notebook. Her pen lay on the table, capped, between her two flat hands. She did not write anything at all for the rest of the sitting. Cael understood that later, when he saw what she did instead; at the time he only saw her sitting very still while the seat set down its next date, and the hood rose a little after the eleventh bell, and the long room began to empty.
+Beside him Karis had not opened her notebook. Her pen lay on the table, capped, between her two hands. She did not write anything at all for the rest of the sitting. Cael understood that later, when he saw what she did instead; at the time he only saw her sitting very still while the seat set down its next date, and the hood rose a little after the eleventh bell, and the long room began to empty.
 
 ---
 
@@ -188,7 +188,7 @@ She gave the lodge-man a small nod, the kind she gave her senior staff, and he s
 
 "You have something for this house," she said to the lead rider.
 
-He was a man of forty or so, weathered, with a flat attentive face that gave nothing away and missed nothing either. He held out a folded paper with a seal on it.
+He was a man of forty or so, weathered, with an attentive face that gave nothing away and missed nothing either. He held out a folded paper with a seal on it.
 
 "For the Chancellor. And for the enrollee of record."
 
@@ -208,13 +208,13 @@ He sat on his heels behind the bell-frame and heard the name at the top of it go
 
 The rider gave him the paper.
 
-Bracken did not look at the seal first. He looked at the paper. He weighed it on his flat palm as if it were a letter he was going to charge postage on, and ran his forefinger once along the fold, and held the edge up to his eye to see the deckle. Registry stock came from two mills, Cael knew, because Bracken had once told him so at the counter with enormous pleasure, and Bracken could tell the two apart by their edges.
+Bracken did not look at the seal first. He looked at the paper. He weighed it on his palm as if it were a letter he was going to charge postage on, and ran his forefinger once along the fold, and held the edge up to his eye to see the deckle. Registry stock came from two mills, Cael knew, because Bracken had once told him so at the counter with enormous pleasure, and Bracken could tell the two apart by their edges.
 
-Then the glass came out of his waistcoat pocket, the smallest of his three, and he held it over the seal without moving, for a long time.
+Then the glass came out of his waistcoat pocket, the smallest of his three, and he held it over the seal without moving.
 
-Then he did a thing Cael had never seen him do. He shut his eyes and laid the ball of his thumb on the impression, flat, and moved it slowly round the seal, once, the way a blind reader reads raised letters with a fingertip.
+Then he did a thing Cael had never seen him do. He shut his eyes and laid the ball of his thumb on the impression and moved it slowly round the seal, once, the way a blind reader reads raised letters with a fingertip.
 
-Nobody spoke. Four riders, a chancellor, the house's counsel with her hair coming down, the lodge-man in his doorway, and up on the gatehouse a boy behind a bell-frame, all of them stood and waited while the registrar read a seal with his eyes shut. It took him a minute and forty seconds. Cael counted it. It was a long time to stand still in a court; Bracken had earned every second of it at his counter, and the riders seemed to know that, because none of them shifted.
+Four riders, a chancellor, the house's counsel with her hair coming down, the lodge-man in his doorway, and up on the gatehouse a boy behind a bell-frame, all of them stood and waited while the registrar read a seal with his eyes shut. It took him a minute and forty seconds. Cael counted it. It was a long time to stand still in a court; Bracken had earned every second of it at his counter, and the riders seemed to know that, because none of them shifted.
 
 While he waited, Cael read the fourth rider a second time.
 
@@ -228,7 +228,7 @@ That was the second time, and it gave him one strange thing, and he did not yet 
 
 Bracken opened his eyes and took his thumb off the seal.
 
-"The paper's from the registry's south mill," he said, in the flattest of all his counter voices. "The die is cut to the registry's pattern. Both of them are exactly what they say they are." He looked at the seal a moment longer. "The office isn't. Or it isn't one I've ever met. In thirteen years every office that sends paper into this district has sent some of it across my counter, and this one never has."
+"The paper's from the registry's south mill," he said, in the driest of all his counter voices. "The die is cut to the registry's pattern. Both of them are exactly what they say they are." He looked at the seal a moment longer. "The office isn't. Or it isn't one I've ever met. In thirteen years every office that sends paper into this district has sent some of it across my counter, and this one never has."
 
 "Facilities," said the rider. "An office constituted this year, for the proceedings."
 
@@ -236,6 +236,6 @@ Bracken opened his eyes and took his thumb off the seal.
 
 "The order is effective on presentation."
 
-"I don't doubt it's been presented." Bracken looked up then, over his spectacles, at the rider and the three behind him. "I don't doubt you, either. But my book has a column for the office that issues an instrument, and I have never yet left that column empty, and I can't write four riders in it." He held the order out toward the rider at the length of his arm, flat on his open palm, the way he held out a form at his counter that had been filled in on the wrong side.
+"I don't doubt it's been presented." Bracken looked up then, over his spectacles, at the rider and the three behind him. "I don't doubt you, either. But my book has a column for the office that issues an instrument, and I have never yet left that column empty, and I can't write four riders in it." He held the order out toward the rider at the length of his arm, on his open palm, the way he held out a form at his counter that had been filled in on the wrong side.
 
 He did not let go of it.

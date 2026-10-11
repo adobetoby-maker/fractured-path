@@ -2,13 +2,13 @@
 
 On the Second-day Cael went up to the east hall's gallery before the first bell, to watch Lira be taught.
 
-He took the rail at the north end, as he had on the second morning of the year. The high windows were behind him. At this hour the sun came through them low and flat, and laid long bars of light across the painted floor below, over the white crosses and the arrows, so that the whole hall looked ruled like a page in a ledger, with a line for every stride a fighter might take. Lira said she could read it. She said that on a bright morning she could see her own feet a quarter-beat before they landed, because the light told her where the shadow of her heel would fall. She had said it lightly, the way she said most things that mattered to her, and then she had gone out of her way never to train in the afternoon again.
+He took the rail at the north end, as he had on the second morning of the year. The high windows were behind him. At this hour the sun came through them low, and laid long bars of light across the painted floor below, over the white crosses and the arrows, so that the whole hall looked ruled like a page in a ledger, with a line for every stride a fighter might take. Lira said she could read it. She said that on a bright morning she could see her own feet a quarter-beat before they landed, because the light told her where the shadow of her heel would fall. She had said it lightly, the way she said most things that mattered to her, and then she had gone out of her way never to train in the afternoon again.
 
 Rooke sat at his trestle with the red book. The Stone sat beside him with his hands folded on his stomach, a broad patient man from the river academy who had come up the hill for the year to teach a Wind fighter to think in courses. Down at the near end, the program clerk had two ledgers open in front of her this morning instead of one. Cael noticed that, and noticed that she wrote in the second only when the gallery door opened, and he did not think anything of it.
 
 Lira ran the four-count against the Current girl.
 
-The girl came at her in long glides, two and a bend, the second glide curving out wide so that the strike came off the end of the curve from a place you had not been watching. Lira watched the bend. On the first glide she lied with her back foot, the one she did not care about, and on the girl's count of four she went. One burst, low, along the line of the bend instead of across it, so that she arrived at the end of the curve a breath before the girl did. She was standing there waiting. Her palm was flat on the girl's shoulder when the strike should have come.
+The girl came at her in long glides, two and a bend, the second glide curving out wide so that the strike came off the end of the curve from a place you had not been watching. Lira watched the bend. On the first glide she lied with her back foot, the one she did not care about, and on the girl's count of four she went. One burst, low, along the line of the bend instead of across it, so that she arrived at the end of the curve a breath before the girl did. She was standing there waiting. Her palm was on the girl's shoulder when the strike should have come.
 
 "Again," said Rooke, without looking up from the book.
 
@@ -22,7 +22,7 @@ That was when Cael saw the two men at the far end of the gallery.
 
 They were not house; he knew every face that came to that rail by now, and these two were strangers. They wore travelling coats and good boots with the road still on them, each with a writing board held against his chest the way a clerk holds a ledger he does not mean to let anybody read. They stood together by the south stair, and they did not lean on the rail the way people did who had come to enjoy a drill. They stood back from it. One of them wrote whenever Lira burst. The other did not write at all. The other watched the gallery.
 
-Cael looked at them for a while, and decided they were scouts. A Silver program meant scouts. Houses all over the region would want to know what Rooke was building on these boards, and who he was building it for, and the answer to the second question was standing below in a sweat-dark shirt with her chin up. He found that he was proud of that, plainly and without reservation. Two strangers had come up a long hill on a cold morning to write Lira down.
+Cael looked at them, and decided they were scouts. A Silver program meant scouts. Houses all over the region would want to know what Rooke was building on these boards, and who he was building it for, and the answer to the second question was standing below in a sweat-dark shirt with her chin up. He was proud of that, plainly and without reservation. Two strangers had come up a long hill on a cold morning to write Lira down.
 
 He did not see, that morning, that the one who did not write had looked four times at the north end of the rail, where Cael stood. He worked it out the next evening, from something Lira said, and it cost him something to do the sum backward.
 
@@ -30,7 +30,7 @@ Lira finished the line. She bowed to the trestle, the short bow the program used
 
 The Stone came up the gallery stair afterward, which he did not usually do, and stood at the rail a little way from Cael with his hands folded over his stomach, looking down at the empty painted floor as if it were still full.
 
-"She lies with the wrong foot now," he said. "Did you see? The back one. The one she doesn't care about. She learned that somewhere that wasn't here." He did not look at Cael. "Somebody laid her a floor that tipped. I'd like to meet them."
+"She lies with the wrong foot now," he said. "Did you see? The back one. The one she doesn't care about. She learned that somewhere that wasn't here. Somebody laid her a floor that tipped. I'd like to meet them."
 
 Cael said nothing. The Stone seemed to expect nothing.
 
@@ -68,7 +68,7 @@ Cael had wanted that figure for two years, and had never had a single number to 
 
 The rest of the girl's sheets he read afterward, and they were only what the money bought: six titles in Ostrand, from the Greyvane hearing in its fourth edition at six marks down to the copper-and-a-half woodcut.
 
-Karis wrote two words on a slip, *the printer*, and pushed it across the table to him, and did not say anything. He knew what she meant. Hers were for things she could cite in front of a seat. That one was for his.
+Karis wrote two words on a slip, *the printer*, and pushed it across the table to him. He knew what she meant. Hers were for things she could cite in front of a seat. That one was for his.
 
 He put the slip in his notebook and wrote the figure under it and nothing else.
 
@@ -100,11 +100,11 @@ That was all she said about it, and Withrow seemed to need no more. Cael did. He
 
 He did not like it at all.
 
-Withrow did not say anything about the sentences. She got up and went to the shelf behind her desk, and took down a thin book bound in faded blue, and opened it near the middle, and laid it on the blotter facing them. It was the registry's drafting book, the one its clerks were given in their second year. The page was a list of model refusals, numbered. Beside the thirtieth, in the margin, somebody had written in a young, very upright hand: *the kindest one*.
+Withrow got up and went to the shelf behind her desk, and took down a thin book bound in faded blue, and opened it near the middle, and laid it on the blotter facing them. It was the registry's drafting book, the one its clerks were given in their second year. The page was a list of model refusals, numbered. Beside the thirtieth, in the margin, somebody had written in a young, very upright hand: *the kindest one*.
 
 "I wrote that," said Withrow. "I was nineteen." She left the book open. "I taught it to every junior I ever had, from that page."
 
-The counsel watched her and said nothing. Cael understood that she had come up the hill partly to bring the news and partly to stand in that room while it arrived.
+The counsel watched her. Cael understood that she had come up the hill partly to bring the news and partly to stand in that room while it arrived.
 
 "Should the house write to him?" he said. "Tell him we know? That it's being laughed about before it's reached him?"
 
@@ -154,7 +154,7 @@ When the plates were mostly empty, at the middle of the bench, Seln turned his c
 
 He said it to the cup, and went back to his bread.
 
-Brom put his spoon down and looked at him, the long slow weighing look he gave a load before he got under it, and Seln ate through it without appearing to feel it.
+Brom put his spoon down and looked at him, long and slow, and Seln ate through it without appearing to feel it.
 
 On the stair afterward Brom stopped Cael at the turn with one hand, and asked him a question, which he almost never did.
 
@@ -164,7 +164,7 @@ On the stair afterward Brom stopped Cael at the turn with one hand, and asked hi
 
 "And?"
 
-Cael stood on the step and thought about it, and about the voice Seln had said it in, flat, as if the sentence belonged to somebody else; and then about fifteen years of true reports going up a chain to an office that wanted something other than true.
+Cael stood on the step and thought about it, and about the voice Seln had said it in, as if the sentence belonged to somebody else; and then about fifteen years of true reports going up a chain to an office that wanted something other than true.
 
 "Himself," he said.
 

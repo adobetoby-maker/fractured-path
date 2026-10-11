@@ -36,7 +36,7 @@ He laid it across her line from the north wall, a road of leaning air fifteen fe
 
 In the lamplight Lira could not read her heel. She had said so. But Cael, watching her come at the lane on the four-count, saw her find something else. The dust in the cracks between the painted boards had woken as the lane went down, the way it always did, and was running south along the lane in a thin pale stream. In daylight from the high windows you could hardly see it. Under two lamps set low on the floor, it threw a shadow. The whole lane showed on the boards as a faint moving band of dark, like the wake of a fish under still water.
 
-Lira saw it on her second count. He watched her see it. Her lie went onto the back foot, outside the band, and on the third count, the empty one, she did not put a foot into the lane at all. On the fourth she burst along its edge, the length of it, not across, and came out at its end beside him with her palm already flat on his shoulder.
+Lira saw it on her second count. He watched her see it. Her lie went onto the back foot, outside the band, and on the third count, the empty one, she did not put a foot into the lane at all. On the fourth she burst along its edge, the length of it, not across, and came out at its end beside him with her palm already on his shoulder.
 
 "Touch," said Brom, from the dark beyond the lamps.
 
@@ -86,13 +86,13 @@ They did not argue about what to say. That had been settled weeks ago, in eleven
 
 "That's why it should be last." Karis had four slips of paper in front of her and was moving them about like a girl playing at shop. "If you open with the list, the seat spends two hours thinking it's a quarrel about paper. Jent will have given away all the paper before you stand up. He gives it away first; he always does. So start where he can't follow you." She put one slip at the head of the row. "Start with the people. Twenty-two of them, by name. Make the seat sit through every name. Then the preamble, so they hear what the sections were for. Then the shelf. And then the list, last, so the last thing they hear is the thing that isn't there."
 
-The counsel stopped turning the rule. She looked at the four slips for a long moment.
+The counsel stopped turning the rule. She looked at the four slips.
 
 "From the people to the paper," she said.
 
 "From the people to the paper."
 
-"I'll need to mark my place. Two hours is long for a gallery." The counsel laid the rule flat on the table, pointing at the window, and turned it a quarter of the way round, and then another quarter, as if she were trying the weight of the idea. "That will do. A turn for each. Anyone who loses the thread can look at the rule."
+"I'll need to mark my place. Two hours is long for a gallery." The counsel laid the rule on the table, pointing at the window, and turned it a quarter of the way round, and then another quarter, as if she were trying the weight of the idea. "That will do. A turn for each. Anyone who loses the thread can look at the rule."
 
 Karis wrote the four words on a card in her finding hand, one under the other, and put the card in her case for the morning. Then she sat back and rubbed her eyes, and Cael saw that her hands were not steady.
 
@@ -104,7 +104,7 @@ Karis wrote the four words on a card in her finding hand, one under the other, a
 
 "That's her," said Lira, behind him, very low.
 
-She was on the attendance bench, close enough to lean forward and say it into his collar, and she said it before Cael had looked toward the evaluation seat at all. He looked. The grey covers were gone from its five chairs, and four district evaluators he had never seen sat upright in four of them, two men and two women, with their files squared on small lap-desks. The fifth chair stood a little forward of the others. In it sat a broad-backed woman in the registry's grey. Her files were set at an angle he would have known anywhere, never quite square to the desk and never a hair different from the last time: a counter at Greyvane, the east wall of a room on the bluff, the first seat of the Compact's row over the Concourse.
+She was on the attendance bench, close enough to lean forward and say it into his collar, and she said it before Cael had looked toward the evaluation seat at all. He looked. The grey covers were gone from its five chairs, and four district evaluators he had never seen sat upright in four of them, two men and two women, with their files on small lap-desks. The fifth chair stood a little forward of the others. In it sat a broad-backed woman in the registry's grey. Her files were set at an angle he would have known anywhere, never quite square to the desk and never a hair different from the last time: a counter at Greyvane, the east wall of a room on the bluff, the first seat of the Compact's row over the Concourse.
 
 Ilsev did not look up. She was reading.
 
@@ -154,7 +154,7 @@ Jent asked for a single word from the seat, *cognizable*: that this was a questi
 
 He gave a page number in the file from Norhold, once, and closed his mouth on it. Karis wrote the page number down and did not look it up; she knew what was on it.
 
-Then he sat, and unscrewed his inkwell, and laid his hands flat on either side of his clerk's tabbed folder, which he had never once opened.
+Then he sat, and unscrewed his inkwell, and laid his hands on either side of his clerk's tabbed folder, which he had never once opened.
 
 "I like him," Lira breathed behind Cael, unhappily.
 

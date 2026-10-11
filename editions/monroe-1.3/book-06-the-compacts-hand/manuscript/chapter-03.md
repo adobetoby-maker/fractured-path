@@ -202,7 +202,7 @@ He went down to the east end of the room, still holding his side, and Ephram unf
 
 It was a chart, as Cael had known it would be; he had not known how much of one.
 
-There were columns ruled down the page, and every line of every column was a bout. The first line was the first figure the house had put on him in the qualifying year, in the long room with five chairs and a rope. After it came every floor they had fought on, in every town, and the figures went down the page in Ephram's small, cramped hand, with the floor and the town and the opponent's Path beside each. Twenty-three, twenty, twenty-six, twenty-two, twenty-four, twenty-one, twenty-five, twenty-three. In the margins there were notes in smaller writing. *Soft boards. Loud gallery. He let the Blade have the first.* And once, against a figure of twenty, *bad fish at breakfast (mine, not his)*.
+There were columns ruled down the page, and every line of every column was a bout. The first line was the first figure the house had put on him in the qualifying year, in the long room with five chairs and a rope. After it came every floor they had fought on, in every town, and the figures went down the page in Ephram's square, cramped hand, with the floor and the town and the opponent's Path beside each. Twenty-three, twenty, twenty-six, twenty-two, twenty-four, twenty-one, twenty-five, twenty-three. In the margins there were notes in smaller writing. *Soft boards. Loud gallery. He let the Blade have the first.* And once, against a figure of twenty, *bad fish at breakfast (mine, not his)*.
 
 Halfway down the page there was a line with no figure on it at all. Just *Norhold*, in capitals, and a long dash, and then nothing.
 

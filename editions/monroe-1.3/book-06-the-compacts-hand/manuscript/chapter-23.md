@@ -16,7 +16,7 @@ At the foot of Bracken's sheet, under the last tick, there was a line in his sma
 
 *Colors: to travel. The Chancellor, verbatim: "The house sends its fighters in its own colors, Registrar, or it does not send them, and nobody at Ostrand has yet asked me to stop sending them."*
 
-So he had asked. Of course he had; a house named as respondent in a sitting at the registry seat, sending its colors to a public floor two days north, was exactly the kind of question a registrar's office exists to put, so that afterward it can be shown that somebody put it. And he had written down her answer word for word, with the quotation marks, the way he wrote down anything a person might later want to say they had not said. Cael did not think Withrow would ever want to say she had not said it. He thought Bracken knew that, and had written it down anyway, and was glad.
+So he had asked. Of course he had; a house named as respondent in a sitting at the registry seat, sending its colors to a public floor two days north, was exactly the kind of question a registrar's office exists to put. And he had written down her answer word for word, with the quotation marks. Cael did not think Withrow would ever want to say she had not said it. He thought Bracken knew that, and had written it down anyway, and was glad.
 
 Lira came out of the residence door with her kit on her back and her sash already over her shoulder, as if somebody might change their mind if she waited for it to be handed to her.
 
@@ -26,7 +26,7 @@ The confluence was two days north of Ostrand, and they spent most of both of the
 
 Karis drafted in the coach. She had the fourth sitting's papers in a document wallet on her knees and a board across the wallet. She wrote on the board in pencil when the road was rough and in ink when it was smooth, and once, on a long straight stretch above the water meadows, she stopped drafting altogether and took a plain card out of the wallet's back.
 
-It was the kind of card she used for questions she meant a seat to hear. It had one line on it. Cael could read most things upside down by now, and he could not read this, because she had written it very small and kept the heel of her hand across it. He watched her strike one word in the line and write another above it. Then she struck that one too. She changed the same word four times, while the coach went the whole length of the meadows, and the fourth time she left it. She saw him watching. She did not hide the card. She turned it face down on the board and went back to the draft, and he understood that he had been allowed to know there was a question, and nothing else.
+It was the kind of card she used for questions she meant a seat to hear. It had one line on it. Cael could read most things upside down by now, and he could not read this, because she had written it very small and kept the heel of her hand across it. He watched her strike one word in the line and write another above it. Then she struck that one too. She changed the same word four times, while the coach went the whole length of the meadows, and the fourth time she left it. She saw him watching. She did not hide the card. She turned it face down on the board and went back to the draft.
 
 Lira read the red drill-book for the first hour, with her lips moving on the counts, and then shut it and looked out of the window and did not open it again. Brom slept sitting up, which he could do anywhere, with his arms folded and his chin on his chest and one boot braced on the opposite bench so that the coach's lurches went into him and stopped.
 
@@ -46,17 +46,11 @@ Rooke went out after supper and walked up and down the yard in the dark with his
 
 Rooke stopped walking. He stood by the trough with the waystation's one lamp behind him, so that Cael could not see his face, only the shape of his shoulders and his breath going up.
 
-"The registry doesn't read my book," he said. "It doesn't read the Stone's card, or what Withrow says at the gate, or what I think of her. It reads meet records. Stewards' sheets, sealed by a hall, filed with a district. That's all it's ever read about a fighter it hasn't got round to classifying yet." He took one hand out of his pocket and made a small flat shape in the air, like a man laying a sheet on a table. "Tomorrow there'll be a line on a confluence sheet with her name on it, and a Silver's name, and a figure. In a year or two some clerk at a counter in Ostrand will pull her file for the advancement sitting, and that line will be in it, in a steward's hand, under a hall's seal. And nobody can take it out again."
+"The registry doesn't read my book," he said. "It reads meet records. Stewards' sheets, sealed by a hall, filed with a district. Tomorrow there'll be a line on a confluence sheet with her name on it, and a Silver's name, and a figure. In a year or two some clerk at a counter in Ostrand will pull her file for the advancement sitting, and that line will be in it, in a steward's hand, under a hall's seal. And nobody can take it out again. That's the program. Everything else is mornings."
 
-He put the hand back in his pocket.
+It was Cael's own argument from the dairy, said back to him in a dark yard. Rooke was building Lira a ladder one sealed line at a time, and every rung of it stood on this side of the stamps.
 
-"That's the program. Everything else is mornings. The program is getting things written down where nobody can rub them off."
-
-Cael said nothing. It was his own argument from the dairy, said back to him by somebody else in a dark yard, and it sounded different in Rooke's mouth: not a defence, a trade. Rooke was building Lira a ladder one sealed line at a time.
-
-And every rung of it stood on this side of the stamps.
-
-"Every fighter I've ever had was better than their file," said Rooke. "Every one. The file catches up, if you keep putting true things in it. It's slow. It's the only thing that does catch up." He nodded at the waystation door. "Bed."
+"Every fighter I've ever had was better than their file," said Rooke. "The file catches up, if you keep putting true things in it. It's slow." He nodded at the waystation door. "Bed."
 
 Cael went. Rooke stayed out in the yard another three-quarters of an hour; Cael heard his boots on the stones the whole time, going up and down, until he fell asleep.
 
@@ -86,9 +80,9 @@ Under it was one line. A house might ask the host to set one of its fighters aga
 
 The steward had pinned the acceptance beside the filing. It was written in a large, slow, careful hand on a scrap of a barge manifest, and it said only: *Yes. Glad to.* Under it was a name the house was never going to use, and the man's tier and rank and Path, and the name of his guild. *Silver. Rank Eight. Force. The confluence's bargemen.*
 
-Lira stood in front of the board for a long time.
+Lira stood in front of the board.
 
-"He's been Silver eleven years," said Rooke, beside her. "He fights here twice a year and nowhere else. He's never been asked by an Iron before. Nobody's ever thought it was worth the walk." He did not look at her. "He wrote back inside an hour."
+"He's been Silver eleven years," said Rooke, beside her. "He fights here twice a year and nowhere else. He's never been asked by an Iron before. Nobody's ever thought it was worth the walk. He wrote back inside an hour."
 
 "Why?"
 
@@ -100,7 +94,7 @@ The door gave onto a stone apron at the very point of the tongue, with a low wal
 
 Lira sat on the wall with her back to the hall and her feet hanging over the east river.
 
-"Eleven years," she said. "Eleven years a Silver, in a town that loves its bargemen like brothers, and nobody ever once walked across the square and asked him for a bout." She shook her head. "He wrote *glad to*. On a manifest. I can see him doing it, at the quay, with somebody's crate for a desk."
+"Eleven years," she said. "And he wrote *glad to*. On a manifest. I can see him doing it, at the quay, with somebody's crate for a desk."
 
 "Are you frightened?"
 
@@ -120,7 +114,7 @@ The water tore on at the point.
 
 "Your feet," said Cael. "All of it. Before anybody."
 
-She nodded, and looked back at the river coming in from the east, quick and cold out of the dark, from the direction the road went. She looked at it for a long time. She did not say anything about it, and he did not ask, and after a while they went in.
+She nodded, and looked back at the river coming in from the east, quick and cold out of the dark, from the direction the road went. After a while they went in.
 
 ---
 
@@ -196,7 +190,7 @@ Rooke looked at the notebook upside down and read the three lines without asking
 
 Lira could not eat breakfast.
 
-She sat at the inn table with a plate in front of her and turned a piece of bread over and over in her fingers, and Brom watched her do it from across the table for some time without saying anything. Then he got up and went to the kitchen door and came back with a bowl of something hot and set it down in front of her, on top of the bread, and sat down again.
+She sat at the inn table with a plate in front of her and turned a piece of bread over and over in her fingers, and Brom watched her do it from across the table. Then he got up and went to the kitchen door and came back with a bowl of something hot and set it down in front of her, on top of the bread, and sat down again.
 
 "Eat that."
 

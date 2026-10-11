@@ -190,7 +190,7 @@ There was a knock while the ink was still wet: the porter's boy, to say that Kar
 
 The first thing Cael saw on the long table was a signature.
 
-It was at the foot of a short covering note, in brown ink, and it was the Chief Adjudicator's own, written large and a little unsteadily, by a hand that had shaken once at a window in the west tower and evidently still did. Karis had the note under her palm and the rest of the courtesy copy squared beside it: the adjudication office's whole file from Norhold, the match's record, the nine panel charts, and on a sheet by itself the entry Cael had last seen hanging on a nail by the north tunnel. *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.*
+It was at the foot of a short covering note, in brown ink, and it was the Chief Adjudicator's own, written large and a little unsteadily, by a hand that had shaken once at a window in the west tower and evidently still did. Karis had the note under her palm and the rest of the courtesy copy beside it: the adjudication office's whole file from Norhold, the match's record, the nine panel charts, and on a sheet by itself the entry Cael had last seen hanging on a nail by the north tunnel. *Result: stoppage, Daeva, fourth exchange. Performance rating: unscorable under standard. Referred.*
 
 She lifted her hand off the note so that they could read it.
 
@@ -208,7 +208,7 @@ Cael read the third sentence first, without meaning to, and then went back for t
 
 "No," said Karis.
 
-She did not say anything else. She did not need to. They looked at the shaky signature for a while, all of them, and then she squared the copy and put it in the reading room's own press, and turned the key.
+She gathered the copy and put it in the reading room's own press, and turned the key.
 
 ---
 

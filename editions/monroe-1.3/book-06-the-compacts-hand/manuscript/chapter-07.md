@@ -12,8 +12,6 @@ He did not reach for the volume. He sat with his hands folded on the table, look
 
 "I filed one once. My fourth year in the office. The district station in Ostrand had a frame that took to reading every Stone who stood in it a rank higher than he was. Not by much. Enough. A month of Stones went out of that station with ranks on their papers they hadn't earned, and nobody noticed until a quarryman's boy came up this hill with a certificate that said Rank Four and couldn't lift what a Rank Two lifts." He turned his folded hands over. "I wrote it up under the integrity provisions, because that's what they're for. They took the frame off its floor and tested it for a fortnight, and found a seam in the casing that let the damp in, and mended it, and read every Stone of that month over again. Then the frame went back on its floor and read true." He looked down the table at Cael. "That's an integrity question, in that volume. A frame that has drifted. You take it off the floor and test it until it reads true."
 
-Nobody said anything.
-
 By then the second volume lay open in front of the counsel. She had reached across Bracken for it while he talked, and found the place, and now she went down the sections with her rule.
 
 "Twelve sections," she said. "Frames. Stations. Assessors suspected of being bought. Panels whose records argue with themselves. Instruments, or the people who keep instruments." She lifted the rule. "I've looked tonight for the case where somebody turned these sections round to point at the man standing in the frame instead of the frame. There isn't one. This is new."
@@ -26,9 +24,9 @@ By then the second volume lay open in front of the counsel. She had reached acro
 
 "You are the frame." The counsel's voice did not change at all. "And a frame that will not read true comes off the floor."
 
-Cael sat with that. All his life frames had been the things that failed to read him, and he had stood in front of them and been the question they could not answer. Now the paper had turned it round. He was the instrument on the bench, and they meant to open his casing and look for the seam that let the damp in, as Bracken's men had done with the station in Ostrand. He found he was not afraid of their looking. He was afraid of what they would write when they found no seam at all, because a frame with nothing wrong in it that still would not read was not a thing the second volume had a section for. It was a thing chapter fourteen had.
+Cael sat with that. All his life frames had been the things that failed to read him, and he had stood in front of them and been the question they could not answer. Now the paper had turned it round. He was the instrument on the bench, and they meant to open his casing and look for the seam that let the damp in, as Bracken's men had done with the station in Ostrand. He was not afraid of their looking. He was afraid of what they would write when they found no seam at all, because a frame with nothing wrong in it that still would not read was not a thing the second volume had a section for. It was a thing chapter fourteen had.
 
-Karis had turned to the back while the counsel spoke. She had marked the thirty-fourth paragraph with a slip when the counsel first read the paper upward, and she found it without looking and read it in a voice with nothing added.
+Karis had turned to the back while the counsel spoke. She had marked the thirty-fourth paragraph with a slip when the counsel first read the paper upward, and she turned to it at once and read it in a voice with nothing added.
 
 *34. That the enrollee be compelled to re-evaluation under standard Arbiter protocol, and that the enrollment stand or fall upon that evaluation's result.*
 
@@ -50,7 +48,7 @@ He turned the observation notebook round and slid it up to her. She looked down 
 
 The third volume lay shut at Bracken's elbow, and for a while after the counsel had finished he left it there.
 
-Then he drew it to him, opened it at a place he did not need to look for, laid a strip of plain paper under the first line, and put on his spectacles. He read it flat. Cael had heard him read a hundred pages aloud and never one like this; there was nothing in the voice at all, because Bracken would not let there be.
+Then he drew it to him, opened it at a place he did not need to look for, laid a strip of plain paper under the first line, and put on his spectacles. Cael had heard him read a hundred pages aloud and never one like this; there was nothing in the voice at all, because Bracken would not let there be.
 
 "Registry code. Evaluation procedures. Chapter fourteen." He did not look up. "*Where an evaluation conducted under standard Arbiter protocol returns no valid classification, the following shall apply in sequence.* One. *Nullification of any enrollment, sponsorship, or standing predicated upon the evaluand's practitioner status.* Two. *Suspension of practitioner status pending review, such review to be initiated by the registry at its discretion.* Three."
 
@@ -80,7 +78,7 @@ She looked at him steadily.
 
 "Noted," said the counsel, and wrote it, and did not write the name, because none had been given.
 
-Withrow stood a moment longer. Then she laid her hand on Bracken's shoulder, briefly, which Cael had never in two years seen her do to anybody, and went back up the stair without another word.
+Withrow stood a moment longer. Then she laid her hand on Bracken's shoulder, briefly, which Cael had never in two years seen her do to anybody, and went back up the stair.
 
 ---
 
@@ -120,8 +118,6 @@ She looked down at the six slips.
 
 "It's not a question. It's a corridor. Every door in it is real law, and every door opens one way."
 
-Nobody spoke.
-
 The counsel wrote it down, slowly, every word. Bracken's spectacles stayed in his hand. Above them, through the ceiling, a board creaked once, the sound of somebody who has stood still a long time shifting her weight at last.
 
 From the foot of the stair, where none of them had heard her come down again, Withrow said, "The house will answer."
@@ -136,7 +132,7 @@ They waited, and the pen stopped.
 
 "That clause is why he's never stood in a station since Denvash," she said, to the heading and not to him. "It's never once asked a frame anything. It keeps him on a floor in front of people, where no Arbiter ever comes." She underlined the heading. "Every paper they've sent up this hill has broken itself on that clause. This one hands it back to us whole and asks for one thing only. A station. The provision doesn't interest them at all. They're trying to move him back inside the instrument."
 
-Nobody answered. She did not seem to want anybody to.
+She kept the pen on the line she had drawn.
 
 "I don't know why that distinction feels important. Noting it."
 
@@ -148,7 +144,7 @@ Cael copied her sentence into the observation notebook and gave it a question ma
 
 *Go up,* Karis said a little after, without lifting her pen. *There's nothing left tonight that you can count.*
 
-So he went out into the court with his copy under his arm. The fountain was the only sound on the hill. On his way across he looked, as he always looked, at the assessment wing, and at the far end of its long front, on the ground floor, behind the counter's window, one lamp was burning. At that hour, in a wing where nobody had business before the third bell. He stood in the court and looked at it for a moment, and did not let himself guess what the man at the copying table was making. Whatever it was, it would be made properly, and it would arrive without a note.
+So he went out into the court with his copy under his arm. The fountain was the only sound on the hill. On his way across he looked, as he always looked, at the assessment wing, and at the far end of its long front, on the ground floor, behind the counter's window, one lamp was burning. At that hour, in a wing where nobody had business before the third bell. He stood in the court and did not let himself guess what the man at the copying table was making. Whatever it was, it would be made properly, and it would arrive without a note.
 
 The residence front was dark except for one window, and he went up the stair toward it.
 
@@ -164,7 +160,7 @@ Karis came up a little after. He heard her step on the stair and moved out of th
 
 He watched her count the room. She did it all at once, as she counted anything: a lamp lit at an hour no lamp should be, a fire kept in that should have been let die, two people awake with no work to do, a drill-book open and unread, four cups with their handles turned. He watched her reach the fourth cup, in front of her own chair, and stop.
 
-She said nothing about it. She went to the table and held the cup while Brom filled it, and drank half of it standing.
+She went to the table and held the cup while Brom filled it, and drank half of it standing.
 
 "Four days," she told the room, and finished the cup, and set it back in front of her chair.
 
@@ -186,13 +182,13 @@ All of it had taken nine hours, and he did not give them all of it. He gave them
 
 When he came to the corridor he said it in Karis's words, every one of them.
 
-Brom had been looking into his cup. He went on looking into it for a while after Cael stopped, the way he looked at a weight before deciding where to take hold. Then he said one word to the cup, quietly.
+Brom had been looking into his cup, and he went on looking into it after Cael stopped. Then he said one word to the cup, quietly.
 
 "Corridor."
 
 Cael told them the rest: the answer anyway, the four days, and last the thing Karis had said sideways with her pen still moving, that the paper did not want the clause at all. It wanted him back in front of a frame.
 
-The embers ticked on the hearth. Nobody said anything for a while.
+The embers ticked on the hearth.
 
 "Then what's the answer for?" said Brom at last. "If the doors only open one way."
 
@@ -210,9 +206,9 @@ He opened his mouth and found the answer already there, whole and certain.
 
 "Then there's a place where they read it wrong," he said. "There always is. Karis will find it."
 
-Lira looked at him for a long moment and did not argue. Then she swung her feet down off the window seat, took her drill-book, and went up the stair without a word.
+Lira looked at him and did not argue. Then she swung her feet down off the window seat, took her drill-book, and went up the stair.
 
-Brom gathered the four cups onto the tray with their handles turned the same way, and carried the tray to the hob, and banked the fire properly at last. At the door he stopped with his hand on the frame, not looking at Cael.
+Brom gathered the four cups onto the tray with their handles turned the same way, and carried the tray to the hob, and banked the fire properly at last. At the door he stopped with his hand on the frame.
 
 "Corridor," he said, once more, to nobody, and went up.
 

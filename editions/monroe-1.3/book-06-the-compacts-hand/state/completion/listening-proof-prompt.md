@@ -12,7 +12,8 @@ Read Book 4's and Book 5's proofs first, and match their structure and judgement
 ## Read
 - In editions/monroe-1.3/book-06-the-compacts-hand/state/completion/:
   - COMPLETION-PLAN.md;
-  - whole-arc-read.md (its §8 line fixes are already applied);
+  - whole-arc-read.md (it proposed no line fixes; its one protected-line question was ruled in OWNER-DECISIONS #47);
+  - LANE-RULINGS.md (the coordinator's rulings on both lanes);
   - PASS-BRIEF.md;
   - LANE-A-REPORT.md and LANE-B-REPORT.md (the two texture lanes, both applied).
 - editions/monroe-1.3/EDITION_BRIEF.md: the audio and Reader Standard sections.
@@ -49,7 +50,7 @@ Check for these five things.
    - Numerals and tallies: scores, flags, ratings, figures, T-numbers, day counts.
    - Abbreviations, stray markdown, and `---` spacing (a blank line before and after).
 
-4. **Typos and broken joins** left by the lanes and repairs: a mid-clause end, a lower-case start, doubled words, a dangling comparison where a simile was cut, a number changed in one place but not its echo.
+4. **Typos and broken joins** left by the lanes and repairs. The two texture lanes cut about 3,130 words, most of them declared pauses, silences and small gestures, so read every place where a speech now runs straight into the next action. The Lane A author asked for a second ear at ch13:217–219 (Seln's "they write it down" now runs straight to the residence door) and ch18:97 (two declared silences over the post are gone). Read ch60 closely: the coordinator-directed fix that moves Seln's case under the canvas, Seln awake at the fire, and the purse line. Read ch49 around the certification minute (#47). Look for: a mid-clause end, a lower-case start, doubled words, a dangling comparison where a simile was cut, a number changed in one place but not its echo.
 
 5. **Paragraphs over about 700 characters.** List these only.
 

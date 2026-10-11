@@ -16,7 +16,7 @@ Bracken read it from the address to the signature. Then he took the house's budg
 
 "Then it'll be right when it comes, and it won't come quickly." He sealed the request and put it in the pigeonhole for the Greyvane post. "She has never filled a request of mine in under a month, and she has never once sent me a wrong leaf. Before the midyear recess, I'd say. Not long before."
 
-For a while Karis stayed at the counter with her hands on the wood, looking at the pigeonhole where the request had gone. Cael had seen her ask for things at counters before. At Greyvane she had asked on her own account, for a student's fee, and been made to wait. At Norhold she had asked on the tournament's, and been answered by a clerk who did not look up. She had never asked as anybody's. Now there was a line in a book with her name above it, and a house's seal on her request, and a registrar who had entered it without a word, as he would have entered a request from the Magister.
+Karis stayed at the counter with her hands on the wood, looking at the pigeonhole where the request had gone. Cael had seen her ask for things at counters before. At Greyvane she had asked on her own account, for a student's fee, and been made to wait. At Norhold she had asked on the tournament's, and been answered by a clerk who did not look up. She had never asked as anybody's. Now there was a line in a book with her name above it, and a house's seal on her request, and a registrar who had entered it without a word, as he would have entered a request from the Magister.
 
 She took out her notebook and turned it over, and opened it from the back, where the six slips from the long table lived in their pocket behind the last leaf with Brom's two dates beside them. On the inside of the back board she wrote the request's number and *Greyvane: the founders' hands*, and under it she ruled three short lines and left them empty.
 
@@ -58,17 +58,17 @@ But they were a hair apart, and they kept the same time.
 
 On the second evening Cael saw the shape of it. Ephram finished a sequence and stopped, and stood with his sword arm down, and watched Brom reset. Watched the turn, and the half-breath after it, and the drive. Then he went back to his own frame. A little later Brom stopped, in the middle of his work, and stood, and watched Ephram's entry line go in: where the feet went, where the weight sat, which way the shoulder came round. Then he went back to his.
 
-On the third evening Lira came up the stair and stood at the rail beside Cael. She did not ask what they were doing. She watched them for a long time, leaning on the rail, and Cael saw her lips move once, counting something, and then stop.
+On the third evening Lira came up the stair and stood at the rail beside Cael. She watched them, leaning on the rail, and Cael saw her lips move once, counting something, and then stop.
 
 On the fourth evening the lantern burned low, and neither of them trimmed it. Ephram stopped at his frame and watched Brom's reset one more time, the whole of it, top to bottom, with his head a little on one side. Brom finished it. Then Brom turned round from his frame and stood and looked at Ephram, straight, the way he looked at a floor before he stood on it. Ephram looked back.
 
 Neither of them nodded. Neither of them did anything at all. After a while Ephram picked up his kit and went down the stair, and Brom turned back to his frame and finished his work alone, and trimmed the lantern, and put it out.
 
-Cael went down by the other stair with Lira beside him. In the court under the covered walk's north arch she stopped, and looked back up at the second floor's dark windows, and then at him. She did not say anything. She did not need to. He had seen it too: two men learning a floor they expected one day to stand on across from each other, each taking the other's measure as thoroughly as either knew how, and neither in any hurry to say what for.
+Cael went down by the other stair with Lira beside him. In the court under the covered walk's north arch she stopped, and looked back up at the second floor's dark windows, and then at him. He had seen it too: two men learning a floor they expected one day to stand on across from each other, each taking the other's measure as thoroughly as either knew how, and neither in any hurry to say what for.
 
 Karis called them to the annex the night before the sitting.
 
-Only the four of them: Lira cross-legged on the window seat, Brom in the doorway because the reading room had three chairs and he would not take one, Cael at the window. One lamp. The girl had been sent to bed and had gone, which she did not always do. On the long table Karis had laid out a sheet on which she had drawn the selling floor of the wool exchange from Bracken's description, with the seat on its platform at the far end and the tables below and the benches behind, and every chair marked in small square letters.
+Only the four of them: Lira cross-legged on the window seat, Brom in the doorway because the reading room had three chairs and he would not take one, Cael at the window. One lamp. The girl had been sent to bed and had gone, which she did not always do. On the long table Karis had laid out a sheet on which she had drawn the selling floor of the wool exchange from Bracken's description, with the seat on its platform at the far end and the tables below and the benches behind, and every chair marked in small neat letters.
 
 "Tomorrow is a form," she said. "Filled in, by six or seven people, in a room."
 
@@ -122,7 +122,7 @@ He filed them where the other eleven lived. A circle of pale wood in an office a
 
 The side door let them in at the foot of the long room, close by the records table, so that the first thing Cael saw of the proceedings was its paper.
 
-Two officers sat there with their books squared to the table's edge. The senior was a heavy man he did not know. Behind him, at the junior chair, sat a man Cael did know, though he could not have said from where without thinking: a records officer with a careful face and a board, whom he had seen at a desk at Greyvane, and on a chair along the east wall of the evaluation room on the oak, and at other tables before those. The man was writing the date at the head of a leaf. He did not look up.
+Two officers sat there with their books open in front of them. The senior was a heavy man he did not know. Behind him, at the junior chair, sat a man Cael did know, though he could not have said from where without thinking: a records officer with a careful face and a board, whom he had seen at a desk at Greyvane, and on a chair along the east wall of the evaluation room on the oak, and at other tables before those. The man was writing the date at the head of a leaf. He did not look up.
 
 Cael walked up the strip of floor between the two parties' tables to the house's place, and the old trade went under his boots as he went. The wool-factors had carved their lot numbers into the planking a hundred years ago, row after row, so that every bale had its place and every buyer could find it, and the registry had planed and waxed the boards and set its furniture down on the numbers without troubling to hide them. *Nine*, *ten*, *eleven*. Across the strip Jent was already at the petitioner's table with his inkwell unscrewed; he rose when Withrow came in, to his measured height, and sat again. Cael sat down at the house's table with *seventeen* under his left foot.
 
@@ -178,7 +178,7 @@ A sixth sheet would need something that had happened. Nothing had happened. A fo
 
 He went back to the times.
 
-*The seat confirmed the schedule. The evaluation seat to be empanelled at a date to be notified. The seat rose.* He wrote the minute it rose, and blotted the leaf, and squared the receipt book on top of the door log, and did not look up at the respondent's table even when the scrape of its chairs went down the long room.
+*The seat confirmed the schedule. The evaluation seat to be empanelled at a date to be notified. The seat rose.* He wrote the minute it rose, and blotted the leaf, and set the receipt book on top of the door log, and did not look up at the respondent's table even when the scrape of its chairs went down the long room.
 
 That evening, at the inn, he took the five sheets out from between the manuals and read them through, every line, in order, the first to the fifth. He read them twice. Then he put them back between the manuals, the same way round, and buckled the kit, and sat at the window over the bridge for a while with his hands folded and the right one aching.
 
@@ -216,8 +216,6 @@ Seln was at the far end of the bench with his eyes shut. He had not said anythin
 
 "Under the hood, no man's grade at all," he said, without opening them. "The seat's own. It goes with the seal, whoever is wearing it. A monitoring officer on his rounds behind the senior chair, and the senior chair itself a district man." The coach went over a stone and he did not move. "They keep the minute, all three. None of them has ever decided anything. That's done somewhere else, and they write it down."
 
-Nobody answered.
-
 At the residence door, when the others had gone in ahead of them and the coach was rolling off toward the stable yard, Seln stopped on the step, and Cael stopped with him.
 
 "The office has written that kind of minute," said Seln, to the door. "Not that one. Others like it."
@@ -240,13 +238,13 @@ There was one slip for each. Lira's first meet off the hill, three weeks away no
 
 Karis came up the stair while he was sanding it, reading her draft aloud to herself as she climbed, the way she did when a sentence would not sit. He heard her in the doorway. *The respondent submits that the integrity sections, read with their own proviso,* and then nothing.
 
-He did not turn round. He heard the draft's paper stop rustling, and her breath close behind his right ear, and he knew where her eyes had gone. His hand moved to close the book, from a habit older than the bluff, and stopped, and lay flat on the sill beside it instead.
+He did not turn round. He heard the draft's paper stop rustling, and her breath close behind his right ear, and he knew where her eyes had gone. His hand moved to close the book, from a habit older than the bluff, and stopped, and lay on the sill beside it instead.
 
 A finger came past his shoulder, ink on its second knuckle, and rested on the sill beside his last line without touching the page.
 
 "That is not how any of us are built," said Karis.
 
-It was her findings voice, the flat one.
+It was her findings voice.
 
 He took up the pen again and wrote under the line, in the parenthesis the Log kept for things said aloud at the window, and she watched every letter of it go down.
 
@@ -264,4 +262,4 @@ She went to the door, and stopped there, with her hand on the frame.
 
 She went down the stair. He sat a long while at the window with the four slips and her draft on the sill, and the blank slip at the end of the row, and the fountain going on below in the dark court. Then he turned to a clean page at the back of Hesk's book, past the minute and the costed rule, past the first pole and every entry since, and ruled a column down it, and wrote four names at the head of the column.
 
-He left the rest of it empty, for now. It was the first page he had ever begun that he hoped he would never need to fill.
+He left the rest of it empty, for now.

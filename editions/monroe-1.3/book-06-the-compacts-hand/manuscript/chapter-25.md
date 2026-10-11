@@ -34,11 +34,9 @@ She had changed her shirt and put her coat on over it, and her hair was still da
 
 "For what?"
 
-"Till I'd lost well." She said it quite calmly. "If he'd come in before my bout, it would have been the respondent's bench getting a paper, and everybody would have been sorry for us for a minute and then watched me get thrown on the ropes and forgotten it. He came after. When half the hall had just stood up." Her hands were tight on the rope. "That's when it's worth the most. You serve paper on the people everybody's just decided they like."
+"Till I'd lost well." She said it quite calmly. "He came after. When half the hall had just stood up." Her hands were tight on the rope. "You serve paper on the people everybody's just decided they like."
 
-He did not say anything. She was right, and she did not need him to say so.
-
-"I didn't finish his name," she said. "The boy's. I'd got as far as the *i*." She let go of the rope. "I'd just like to have had the whole afternoon. That's all. One whole afternoon with nothing served on it."
+"I didn't finish his name," she said. "The boy's. I'd got as far as the *i*." She let go of the rope. "I'd just like to have had the whole afternoon. One whole afternoon with nothing served on it."
 
 She went off along the rope toward the Current girl, who was looking for her, and he watched her put an arm round the younger girl's shoulders and say something that made her laugh.
 
@@ -48,7 +46,7 @@ Seln came down from the loft for supper, which he did not always do, and sat at 
 
 "The clerk," he said, when the bread had been round once.
 
-Nobody had asked him anything. He did not usually wait to be asked; he simply waited until enough people were listening.
+He did not usually wait to be asked; he simply waited until enough people were listening.
 
 "He was in the hall from the first bell," Seln said. "Not with the officer. On his own, on the south benches, three rows back, with a sausage roll. He watched the Copper draw and the Iron first round like a man who'd paid for a seat. He watched the exhibition." He turned his spoon over on the table. "At the second touch for the confluence he got up and went out by the street door. Nineteen minutes later he came back in behind the officer, carrying nothing, and they took fifty-one seconds from the street door to our bench. I counted. So did half the hall."
 
@@ -62,7 +60,7 @@ Karis put her cup down.
 
 "They waited for the hall." Seln laid the spoon down square. "The clerk's errand was to tell the officer when the room was at its warmest. He judged it well. I'd have gone at the same touch."
 
-There was a silence at the table. It was the first time Cael had heard Seln say what he would have done in somebody else's coat, and from the way Karis was looking at him, it was the first time she had too.
+It was the first time Cael had heard Seln say what he would have done in somebody else's coat, and from the way Karis was looking at him, it was the first time she had too.
 
 Withrow had been eating steadily at the table's head, as if none of it concerned her. Now she put down her knife.
 
@@ -76,7 +74,7 @@ Withrow had been eating steadily at the table's head, as if none of it concerned
 
 "That," said Withrow, "is the idea."
 
-Cael looked down the table at her. She did not look back. She went on with her supper, and Lira, three places down, put her elbows on the table, which was not allowed, and smiled at her plate for the first time since the street door had opened.
+Withrow went on with her supper, and Lira, three places down, put her elbows on the table, which was not allowed, and smiled at her plate for the first time since the street door had opened.
 
 ---
 
@@ -98,7 +96,7 @@ The Silver was walking it too, from the other end, with his hands behind his bac
 
 "It was mine to know about," said the Silver. "They put those boards down in my hall. I've trained on them since." He did not sound sorry about it. He sounded like a man stating where the quay steps were. "Your sixth was there, you know. Yesterday. The one that came short." He held up one big hand with the fingers spread, and folded the thumb down. "Next time, go on your fifth. You won't have spent the floor."
 
-She stood with that. It was the thing she had said to Rooke at the rope, turned round the other way, and it was better said this way.
+She stood with that.
 
 "Why did you write *glad to*?" she said. "On the manifest."
 
@@ -132,7 +130,7 @@ The Stone, first, because she could still see him: on his feet at the quiet end 
 
 The Silver in the corridor this morning, among the trestles, telling her to go on her fifth. *Because you'd asked.*
 
-Then the sheet itself. Not Rooke's red book, which was the program's and nobody else's, but this: a figure in a meet record, under a hall's seal, filed with a district. One point under a man who had been Silver for eleven years. Rooke said the registry read meet records and nothing else. One day a clerk at a counter in Ostrand would take her file out of a drawer for the advancement sitting, and this would be in it, and that clerk would not be able to take it out again.
+Then the sheet itself. Not Rooke's red book, which was the program's and nobody else's, but this: a figure in a meet record, under a hall's seal, filed with a district. One point under a man who had been Silver for eleven years. One day a clerk at a counter in Ostrand would take her file out of a drawer for the advancement sitting, and this would be in it.
 
 Zerin's card at the end of last year. Four words and two stops. *Silver bracket. Next cycle.*
 
@@ -146,7 +144,7 @@ And under all of it, at the bottom, where she had started three years ago and ha
 
 Cael was at the rope a few yards off. She had not heard him come in by the river door; she never did. He had a folded leaf of paper in his hand, and she knew it. Karis had given him the duplicate of yesterday's order to mind while she packed the wallet, and he had been carrying it ever since as if somebody had handed him a hot coal and told him not to put it down.
 
-He did not say anything else. He had only said her name so that she would know he was there.
+He had only said her name so that she would know he was there.
 
 She held her sheet up a little, not toward him, just up, beside the pale fold of his, where the last lamp could find them both. Behind them a porter with a long pole was putting the lamps out one at a time, working toward them from the far end.
 
@@ -164,7 +162,7 @@ She did not fold the sheet again. She put it inside her coat as it was, with its
 
 They were two days going home, and it rained on the second, a long fine rain that came in at the coach's window frames and ran down the inside of the glass.
 
-Cael wrote up the meet in the coach, on his knee, while the rain ran down the window and Brom slept and Lira, opposite, slept too, with her head against the window frame and one hand inside her coat. Karis had the fourth sitting's papers open and the production order's duplicate pinned to the top of them with a clip. Every so often she took the plain card out of the wallet's back and looked at it, and put it away again. Seln, in his corner, was awake for once, with his eyes on the wet fields going by. Cael did not ask him what he had seen from the loft that he had not said at supper. He had learned two years ago that the only way to get anything from Seln was to leave a space beside him and wait to see if anything came and sat in it. Lira, asleep against the window frame, kept her hand inside her coat the whole of the second day, flat over something folded, and did not take it out even when the coach went over the ford and woke everybody else.
+Cael wrote up the meet in the coach, on his knee, while the rain ran down the window and Brom slept and Lira, opposite, slept too, with her head against the window frame and one hand inside her coat. Karis had the fourth sitting's papers open and the production order's duplicate pinned to the top of them with a clip. Every so often she took the plain card out of the wallet's back and looked at it, and put it away again. Seln, in his corner, was awake for once, with his eyes on the wet fields going by. Cael did not ask him what he had seen from the loft that he had not said at supper. He had learned two years ago that the only way to get anything from Seln was to leave a space beside him and wait to see if anything came and sat in it.
 
 Nothing did. At the ferry the two grey coats were on the landing in their usual places, under the rain, as if it were not raining. One of them watched the program wagon go aboard behind the coach, with the colors trunk lashed on top of it, and did not look at the coach at all.
 
@@ -172,6 +170,6 @@ Nothing did. At the ferry the two grey coats were on the landing in their usual 
 
 *The order: one sentence, served at the hour it would be seen. Fifty-one seconds there and fifty-one back. The hall went on liking us and stopped saying so, which is worse, because there's nothing to answer.*
 
-He looked at the last line for a while. Then he wrote one more under it.
+Then he wrote one more under it.
 
 *Nothing in the order was wrong. They chose the hour.*

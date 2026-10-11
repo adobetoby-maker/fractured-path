@@ -96,7 +96,7 @@ The lantern by the door gave the boards a little light, and beyond the light the
 
 Then he asked the air to lean.
 
-He had never found better words for it. Daeva had her own words, and they were not his. To him it was like putting a palm against the morning and pressing, and feeling the whole of it give a little, along one line, the way a board gives when you step on its end. The air in front of him tipped. Fifteen feet of it, no more, in a narrow road no wider than his shoulders, and it reached perhaps a third as deep as hers had reached. His ears closed and opened, and the dust on the boards woke up. It ran, in a thin pale stream along the floor, down the length of the lane, as water runs down a gutter, and gathered against the far edge of it in a little drift.
+He had never found better words for it. Daeva had her own words, and they were not his. To him it was like putting a hand flat against the morning and pressing, and feeling the whole of it give a little, along one line, the way a board gives when you step on its end. The air in front of him tipped. Fifteen feet of it, no more, in a narrow road no wider than his shoulders, and it reached perhaps a third as deep as hers had reached. His ears closed and opened, and the dust on the boards woke up. It ran, in a thin pale stream along the floor, down the length of the lane, as water runs down a gutter, and gathered against the far edge of it in a little drift.
 
 He stepped into the downhill of it, and the floor came to him faster than his feet had any right to bring it.
 

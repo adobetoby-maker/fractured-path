@@ -80,7 +80,7 @@ He said it to the near horse's ears and not to her, quite pleasantly, and she wa
 
 "I turn there," he said.
 
-That was all. He looked at the river. He did not look unfriendly, or frightened, or sorry he had told her the rest. He just stood beside his new wagon as if there were a wall across the road at that spot that only he could see, and she understood that she could ask him again and he would say the same three words again, in the same voice, as many times as she liked.
+He looked at the river. He did not look unfriendly, or frightened, or sorry he had told her the rest. He just stood beside his new wagon as if there were a wall across the road at that spot that only he could see, and she understood that she could ask him again and he would say the same three words again, in the same voice, as many times as she liked.
 
 She did not ask him again. She thanked him for the road and took her tape up the hill.
 
@@ -90,7 +90,7 @@ Four days to the last station, loaded. Three if light. Stamps on a sheet as far 
 
 So it went on the sheet.
 
-She stood with her back against the warm wall and looked up at the gate for a while.
+She stood with her back against the warm wall and looked up at the gate.
 
 Up there, pinned to the east hall door in Rooke's square capitals, was a card with her name on it for the program's first road meet. Rooke had crossed out its date a week ago and chalked another eight days later, when the confluence's stewards wrote that the meet was put back for repairs to their hall; she had minded for an afternoon and then been glad of the eight days. Up there was a red drill-book with a figure in it that was hers, and a broad patient man from the river academy who had written to ask whether he might come and teach her, after she beat him. Up there was a word she had never had before this year, and had to learn to say: *program*. Somebody had built a ladder, and leaned it against a wall, and put her name at the foot of it.
 
@@ -100,7 +100,7 @@ She had always wanted to leave rooms on her own feet. That was the whole of it, 
 
 She had not thought, when she swore it, that the next room might be one she loved.
 
-In the morning she wrote the note on the residence board in her square capitals, under Ephram's grievance hours and above somebody's lost scarf. Numbers, not names. Everybody on that board who mattered would know whose five it was.
+In the morning she wrote the note on the residence board in her large capitals, under Ephram's grievance hours and above somebody's lost scarf. Numbers, not names. Everybody on that board who mattered would know whose five it was.
 
 ---
 
@@ -170,7 +170,7 @@ She nodded, as if he had confirmed a figure she already had in her book, and fin
 
 Cael was first down the dairy step on the Fifth-day, and Lira was already there.
 
-She had the lamp on the table and a stub of the porter's chalk in her fingers, and she was writing on the slate shelf along the back wall, where the old dairy had once stood its cream to cool. She did not turn round. She wrote a column, short, in her square capitals, and stood back from it, and rubbed one figure out with the side of her hand and wrote it again.
+She had the lamp on the table and a stub of the porter's chalk in her fingers, and she was writing on the slate shelf along the back wall, where the old dairy had once stood its cream to cool. She did not turn round. She wrote a column, short, in capitals, and stood back from it, and rubbed one figure out with the side of her hand and wrote it again.
 
 *4 LOADED. 3 LIGHT. STAMPS STOP. 2 GO ON. 1 TURNS.*
 
@@ -226,11 +226,11 @@ Brom unfolded it. It was a copy in a copying clerk's hand, two paragraphs, short
 
 That was all of it. Brom looked at the sheet a moment longer, as if there ought to be more, and then folded it and handed it back up the table.
 
-"I'm not arguing for staying," said Karis. "I want that said first." She laid the folded sheet on the slate shelf, beside Lira's chalk, and squared it to the shelf's edge. "There's the road east, in chalk. And there's what the road looks like from the seat's side, in ink, when somebody walks it in the middle. His own letter, entered on the record, and the default on top of it. I've had that sheet in my notebook since my second year. I don't know which way this goes. I'd just like the two of them on the same shelf while we talk."
+"I'm not arguing for staying," said Karis. "I want that said first." She laid the folded sheet on the slate shelf, beside Lira's chalk. "There's the road east, in chalk. And there's what the road looks like from the seat's side, in ink, when somebody walks it in the middle. His own letter, entered on the record, and the default on top of it. I've had that sheet in my notebook since my second year. I don't know which way this goes. I'd just like the two of them on the same shelf while we talk."
 
-Nobody said anything for a while. Lira, on the table's corner, looked from the chalk to the sheet and back.
+Lira, on the table's corner, looked from the chalk to the sheet and back.
 
-Karis opened her notebook flat on the table and wrote under the day's date: *Default — entered at the sitting after.*
+Karis opened her notebook on the table and wrote under the day's date: *Default — entered at the sitting after.*
 
 Seln leaned across the table.
 

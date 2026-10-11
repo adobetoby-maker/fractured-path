@@ -8,11 +8,11 @@ Nobody else moved.
 
 Across the table Karis's notebook lay open at the evening's page, and Cael read it upside down while Brom found the cups. He read it from the bottom up. The house's counsel read every paper that way, from the end to the beginning, because the end was where a writer put what he wanted and the beginning was only how he hoped you would feel about it. Cael had caught the habit from her in the first week of the year and never quite put it down.
 
-The bottom line was still wet. Karis was writing it as he watched, one word in her finding hand, and she said it across the table while she wrote, without looking up, as if she were finishing a sentence somebody had begun an hour ago.
+The bottom line was still wet. Karis was writing it as he watched, one word in her finding hand, and she said it across the table while she wrote, as if she were finishing a sentence somebody had begun an hour ago.
 
 "Induction," she said. "That's what yours is. A good one."
 
-She blotted it with the side of her hand. She did not say anything else about it, then or later, and Cael did not ask her to.
+She blotted it with the side of her hand.
 
 Above it, small, squeezed into the margin, Karis had written *C. — last sentence* and drawn a line beneath it.
 
@@ -120,7 +120,7 @@ It was a small brass key worn bright at the bow, and it had lived in that pocket
 
 He thought instead about the step.
 
-He had packed his own box nineteen times. That was the thing nobody at the table knew about him, and it had come into his head while the big one was naming his shirts. A posting ended on a morning like any other; a letter came; a man put what he owned into one box and his papers into another and went down to the coach. He knew to the ounce what a life weighed when it had to be carried. He knew, too, that the box you packed was never the problem. It was the other one, the one that would not go in a box at all, and he had watched the big one put his hand flat over it and say so, and nobody at the table had asked, and Seln had liked them all very much for that.
+He had packed his own box nineteen times. That was the thing nobody at the table knew about him, and it had come into his head while the big one was naming his shirts. A posting ended on a morning like any other; a letter came; a man put what he owned into one box and his papers into another and went down to the coach. He knew to the ounce what a life weighed when it had to be carried. He knew, too, that the box you packed was never the problem. It was the other one, the one that would not go in a box at all, and he had watched the big one put his hand over it and say so, and nobody at the table had asked, and Seln had liked them all very much for that.
 
 The dairy step, an hour ago, with the lamp in his hand, and the four of them coming up past him into the dark one at a time. The big one with a chair on his shoulder and a letter he would not open. The researcher, who had drawn the corridor they were all standing in more truly than anyone in the registry could have drawn it, and did not know who had built the walls. The girl with the chalk, who had walked a road east in three pieces so that nobody would see her add it up. The boy last, with his receipts. He had lit each of them up one step. He had not told one of them what the step was made of.
 

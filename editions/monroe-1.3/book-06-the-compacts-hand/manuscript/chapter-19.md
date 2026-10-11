@@ -4,7 +4,7 @@ When the plates had been cleared, Seln put four dried beans on the board in a ro
 
 They were the speckled brown beans the kitchen soaked for the Second-day stew. He had taken them out of his coat pocket without any hurry. He laid them a hand's breadth apart, in front of his own place at the middle of the bench, and now he sat back from them with his hands folded and looked at none of the four people across the table.
 
-Nobody asked anything for a moment. The refectory went on round them, loud at the far end where the first-years were.
+The refectory went on round them, loud at the far end where the first-years were.
 
 "A drawing can be found," said Seln, to the beans. "These can be eaten. Ask."
 
@@ -36,7 +36,7 @@ Seln touched the third bean. "The district seat. Twelve days ago. A query on the
 
 "There is only one."
 
-Lira did not say anything about Fenmark. She asked Seln one precise question instead, in the voice she used at a rating table for a figure she suspected.
+Lira asked Seln one precise question, in the voice she used at a rating table for a figure she suspected.
 
 "Did they ask for the Fenmark sheet by name?"
 
@@ -58,9 +58,7 @@ Lira had been looking along the row the whole time, from left to right and back.
 
 "You haven't got one for him," she said. "There isn't a bean with his name on it."
 
-"No," said Seln. He turned his cup a quarter-turn. "That's the way to know it isn't a mistake."
-
-Nobody asked him to explain that, and he did not.
+"No," said Seln. "That's the way to know it isn't a mistake."
 
 Karis took four slips from the back of her notebook, wrote the four offices on them, one to a slip, and laid each one under its bean. Then she took a fifth slip and laid it at the end of the row, beyond the last bean, with nothing written on it and nothing on top of it.
 
@@ -68,7 +66,7 @@ On the stair afterward Lira asked her what the blank slip was for.
 
 "Whoever's next," said Karis. "So far they've touched people with a seat at that table. Nobody that careful stops at the table." She reached the landing. "I've left room."
 
-Brom had come up behind them, slower. At the turn of the stair he stopped, and Cael, a step below, saw his right hand go to the left side of his coat, where the inside pocket was, and rest there flat over the cloth. There was a square cream envelope in that pocket with its dark red seal still whole. It had come up with the post four days ago, and he had turned it over once at the table and put it away unopened, and nobody had asked. Now an office in his own province kept an open book with a question in it about his family, and his grandmother could turn its pages whenever she liked.
+Brom had come up behind them, slower. At the turn of the stair he stopped, and Cael, a step below, saw his right hand go to the left side of his coat, where the inside pocket was, and rest there over the cloth. There was a square cream envelope in that pocket with its dark red seal still whole. It had come up with the post four days ago, and he had turned it over once at the table and put it away unopened, and nobody had asked. Now an office in his own province kept an open book with a question in it about his family, and his grandmother could turn its pages whenever she liked.
 
 Brom took the hand away from the pocket and went on up the stair. Nobody asked him then, either.
 
@@ -80,13 +78,13 @@ He had been doing the sorts all week for the post porter, mornings and evenings,
 
 Cael knew the hand from across the table. Square, upright, the address set out as level as the bubble in a good spirit glass. Denvash.
 
-Nobody touched it for a moment. Then Cael reached over and took it, and broke the fold, and read it where he sat, to himself, all of it, from the brass to the dog to the third paragraph and the single initial at the end. He read the third paragraph twice. Then he did not trust his voice, and he passed the sheet across the table to Brom, with his thumb under the third paragraph.
+Cael reached over and took it, and broke the fold, and read it where he sat, to himself, all of it, from the brass to the dog to the third paragraph and the single initial at the end. He read the third paragraph twice. Then he did not trust his voice, and he passed the sheet across the table to Brom, with his thumb under the third paragraph.
 
 Brom read it aloud. He read it slowly, the way he read anything, without any change in his voice for any of it.
 
 *Two polite men from the registry came through Denvash asking after my trade licenses and the shop's title. Wanted to know if you had any interest recorded in either. I told them my grandson's interest in this shop is that he grew up in it, and they wrote that down. Whatever they're building, it has a shape. Mind the shape. — H.*
 
-Brom laid the sheet down, and nobody said anything, and Seln put his hand in his pocket and took out a fifth bean and set it on the slip, beside the envelope, apart from the others.
+Brom laid the sheet down, and Seln put his hand in his pocket and took out a fifth bean and set it on the slip, beside the envelope, apart from the others.
 
 Then Cael took the letter back and read them the rest of it, the first part, the part he had smiled at. He did not quite know why he did it. Perhaps he wanted them to hear Hesk as Hesk was, a man with a bench and a stove and opinions, and not as a line in somebody's inventory.
 
@@ -134,23 +132,19 @@ Karis's pen lay on the board where she had let go of it. Cael had never seen her
 
 "How long does it take?"
 
-"For a smith with a forge and a wife and a guild, six weeks. Ten, if the wife's people are spread about." He looked at the four in their row and the one apart. "For a boy with friends at three provincial registries, and a house that took him in, and a grandfather with a shop at the far end of the country—" He laid one finger flat on the board beside the fifth bean. "Nine weeks. They are in the sixth."
+"For a smith with a forge and a wife and a guild, six weeks. Ten, if the wife's people are spread about." He looked at the four in their row and the one apart. "For a boy with friends at three provincial registries, and a house that took him in, and a grandfather with a shop at the far end of the country—" He laid one finger on the board beside the fifth bean. "Nine weeks. They are in the sixth."
 
-Nobody said anything.
-
-Karis did not answer that with words at first. She reached out and moved the slips: the four office slips she pushed together into one heap under the four beans, and the Denvash slip she drew a hand's breadth further away from them, by itself, with its bean on it.
+Karis reached out and moved the slips: the four office slips she pushed together into one heap under the four beans, and the Denvash slip she drew a hand's breadth further away from them, by itself, with its bean on it.
 
 "They're not freezing him," she said, looking at the one slip. "He has nothing they could freeze. They're finding out what you'd mind." She took her hand away. "Somebody say it, so I know I'm not the only one who saw it."
 
 "Said," said Brom.
 
-He was looking at the letter in Cael's hand, the square level address and the old fold. He had never met Hesk. He had heard about him at a hundred tables, the stove and the spectacles pushed up on the forehead and the barometers waiting to come right, and he looked at the letter as if it were something of his own that a stranger had taken out of his coat.
+He was looking at the letter in Cael's hand, the level address and the old fold. He had never met Hesk. He had heard about him at a hundred tables, the stove and the spectacles pushed up on the forehead and the barometers waiting to come right, and he looked at the letter as if it were something of his own that a stranger had taken out of his coat.
 
 "The question is what we do the day after."
 
 Lira said it before anyone expected her to say anything, with Karis's bean turning in her fingers. Then she put the bean back exactly where it had been and explained herself, evenly, the way she read the true sum off a bout sheet after a loss. "Not whether we win the next sitting. We'll win it. They'll let us win every sitting all year; it costs them nothing. There are men in Denvash asking about a tin box. That isn't about any sitting. That's about the morning after the last one." Her chin came up. "So that's the question."
-
-Nobody answered her.
 
 Cael looked round the table, because looking was what he did when there was nothing to do. Karis with her palm on the notebook's cover. Brom bent forward with his elbows on his knees and his eyes on the board. Lira with the question still lying open where she had put it, and her chin up over it, waiting for one of them to pick it up. And at the middle of the bench Seln, who had walked fences like these himself for years and knew from the inside what the morning after one looked like, sitting with his hands quite still on either side of the five beans, as if the table might tip if he moved them.
 
@@ -202,7 +196,7 @@ She let that stand a moment before she explained it.
 
 She opened the code once more at the nine headings, took up her pen, and wrote one word in the margin beside the ninth, small, under her own old note about the haulier, in the hand she had used to underline that book in her second year. Then she turned the book round so that he could read it. *Choosing.*
 
-She did not say anything about it. She closed the code, and put it back on the corner of the desk, and said, "Go to bed."
+She closed the code, and put it back on the corner of the desk, and said, "Go to bed."
 
 Lira was sitting on the top stair of the residence when he came up, with her back against the newel post and her knees drawn up, waiting, though she would not have said so.
 

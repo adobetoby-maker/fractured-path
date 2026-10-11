@@ -122,7 +122,7 @@ He was at the window, at the sill, with Hesk's book open and the lamp lit and th
 
 Seln unbuttoned his coat and set the case on the sill beside the book.
 
-He kept one hand flat on the lid and did not sit. The lamp found the brass of the lock and nothing else, because there was nothing else on the outside of it for a lamp to find, and the boy's eyes went to the lock and stayed there a moment and came back up to his face.
+He kept one hand on the lid and did not sit. The lamp found the brass of the lock and nothing else, because there was nothing else on the outside of it for a lamp to find, and the boy's eyes went to the lock and stayed there a moment and came back up to his face.
 
 "I'm going to open this," he said. "Not tonight."
 
@@ -242,7 +242,7 @@ Karis sat very still with the wallet on her knees.
 
 "I'll bring the kettle," said Brom.
 
-Lira did not say anything for a while. She was looking out at the rain. When she spoke it was to the glass.
+Lira was looking out at the rain. When she spoke it was to the glass.
 
 "Two years he's sat at the middle of the bench," she said. "Two years, and never once put anything of his on the table. Not a cup. Not a word he didn't have to." She turned round. "Good. That's all. Good."
 

@@ -28,7 +28,7 @@ The counsel read it aloud, in the voice she kept for papers that would one day b
 
 She set it down.
 
-Nobody said anything. At the next table somebody laughed at a joke and stopped, and looked round to see why the middle table had gone so quiet.
+At the next table somebody laughed at a joke and stopped, and looked round to see why the middle table had gone so quiet.
 
 Brom reached over and took the sheet by its edges, carefully, as if it might be wet. He read it once, slowly, without moving his lips, the way he read things that would cost somebody something. Then he laid it back down, and turned it round so that the writing faced the middle of the table and not him, toward all of them at once. Cael had never seen him do that with a paper.
 
@@ -50,7 +50,7 @@ Ephram had come over from the cohort's table when Bracken went past it, and was 
 
 He seemed to come back to himself, saying it. He looked down the long room toward the court door as if he had just remembered where he was meant to be. "She paid it herself," he said. "Four marks. I thought the house would want to know she paid." And then, in a different voice, "My counter," and he went back down the refectory at his own pace, and out.
 
-Karis went up to the reading room before the lamps went down and came back with the digest, and did not say anything. She laid it on the residence table beside the receipt, open at its table of uses, took a pencil, and in the margin beside the line for *Statements entered (Silver and above)* wrote a small *45*, and drew a ring round it.
+Karis went up to the reading room before the lamps went down and came back with the digest. She laid it on the residence table beside the receipt, open at its table of uses, took a pencil, and in the margin beside the line for *Statements entered (Silver and above)* wrote a small *45*, and drew a ring round it.
 
 "What's forty-five?" said Lira.
 
@@ -66,7 +66,7 @@ He went down to the records hall late that night, because he could not sleep and
 
 Bracken was dealing the evening's sacks into the baskets, the ones he had abandoned half dealt when he crossed the court at a pace nobody had seen. He had his sleeves rolled and his spectacles on, and he was going through the letters at his ordinary speed, address and seal and basket, as if to put the evening back the way it ought to have been.
 
-"I left the counter," he said, without looking up. "Thirteen years and I have never left the counter. A first-year came to ask about a key and found nobody here." He dealt three to *OTHER*. "I have written it in the daybook. *Counter unattended, a quarter of an hour, by the registrar, on the registrar's own account.*" He dealt one to *FACULTIES*. "I was not going to leave that out."
+"I left the counter," he said. "Thirteen years and I have never left the counter. A first-year came to ask about a key and found nobody here." He dealt three to *OTHER*. "I have written it in the daybook. *Counter unattended, a quarter of an hour, by the registrar, on the registrar's own account.*" He dealt one to *FACULTIES*. "I was not going to leave that out."
 
 "It was a Gold filing," said Cael.
 
@@ -94,7 +94,7 @@ The third pile was the tallest. That was not strange in itself; Bracken's counte
 
 He thought back. The wing had always had district post. The provision's hours were signed in the wing, and the district seat had written to the wing about them, about observers and schedules and the figures in the wing's book, every few weeks for two years. He had stood at the wing's counter himself and watched the desk clerk open grey seals.
 
-He did not say anything. Seln did not say anything. Seln laid another grey seal on Bracken's pile, at exactly the pace he had laid the last one.
+Seln laid another grey seal on Bracken's pile, at exactly the pace he had laid the last one.
 
 When the bag was nearly empty, Seln held one letter a moment longer than the others, which he had not done with any letter that morning.
 
@@ -150,11 +150,11 @@ That night the lantern was lit on the second floor again.
 
 Cael saw it from the court on his way in, one low light behind the middle roof's windows, and went up the stair as far as the rail by the door. Brom was at the old striking frame at the north end, alone. He was not running the long sequence he ran before a road. He was hitting the padded post, over and over, forearm and turn and drive, at fighting pace, with the post's tired springs groaning, and he was not stopping between them the way he always stopped to reset. The cream envelope was in the coat he had hung on the frame's corner; Cael could see the square of it against the cloth.
 
-After a while Ephram came up the other stair with his kit. He looked at Brom for a moment from the doorway. He did not say anything. He went to the frame beside Brom's, the one he had used every evening of the week before the first sitting, and set his feet, and began his entry line, the cut along it, the recovery, at the same pace as Brom's, a hair apart, keeping time.
+After a while Ephram came up the other stair with his kit. He looked at Brom from the doorway. Then he went to the frame beside Brom's, the one he had used every evening of the week before the first sitting, and set his feet, and began his entry line, the cut along it, the recovery, at the same pace as Brom's, a hair apart, keeping time.
 
 Neither of them looked at the other. After a quarter of an hour Brom slowed, and then stopped, and stood with his forearms hanging and his breath going, and Ephram stopped too, at the same moment, as if they had agreed it. Brom took his coat down off the frame and put it on, and his hand went to the left side of it and rested there, and then he went down the stair. Ephram stayed, and trimmed the lantern, and did not put it out.
 
-Cael went down by the other stair and did not write it in the column. It was not a cost. He did not know yet what it was.
+Cael went down by the other stair and did not write it in the column. It was not a cost. He had no name for it yet.
 
 ---
 
@@ -188,7 +188,7 @@ The lodge-man saw him look at it.
 
 Cael read it over Seln's arm.
 
-Every bell, all week, the same line in the lodge-man's square hand. *Two at the foot.* And every few lines, at the bell the two coats at the road's foot gave way to the next two: *Two at the foot. Changed.*
+Every bell, all week, the same line in the lodge-man's plain hand. *Two at the foot.* And every few lines, at the bell the two coats at the road's foot gave way to the next two: *Two at the foot. Changed.*
 
 Changed at the bell. Every bell that the rotation said they should change. Not once early. Not once late.
 
@@ -216,4 +216,4 @@ Seln stopped too, a stride ahead, and turned his head a little, not all the way 
 
 It was the same sound he made at the counter, at the table, at the lodge-man's carter. But this time he held it a fraction longer, and Cael had stood across enough tables from him by now to hear the difference. It was the sound of a man who has set a sum in front of somebody, without a word of explanation, and has just watched him add it up right.
 
-Then Seln went on across the court to the wing at his even pace. Cael stood where he was in the cold, with nothing in his hands, and found that he had been taught something, and could not have said at what point in the last quarter hour the teaching had happened.
+Then Seln went on across the court to the wing at his even pace, and Cael stood where he was in the cold, with nothing in his hands.

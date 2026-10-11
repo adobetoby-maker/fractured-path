@@ -6,7 +6,7 @@ He did it with the stub of pencil from behind his ear, standing in his own doorw
 
 By the time Cael reached the lodge door, Bracken was at the counter beside him with his senior clerk, and the house's book was open between them, and Bracken was giving the morning to the book in the order the book would want it.
 
-Withrow had told him how, before she went in. Cael had heard her from the gatehouse. *All of it in the book, Registrar.* Now the registrar stood with his spectacles on the end of his nose and dictated, flat and even. The senior clerk wrote it in the hand he kept for the enrollment book, and Cael stood in the lodge door and listened to the morning come back to him one ruled line at a time.
+Withrow had told him how, before she went in. Cael had heard her from the gatehouse. *All of it in the book, Registrar.* Now the registrar stood with his spectacles on the end of his nose and dictated in an even voice. The senior clerk wrote it in the hand he kept for the enrollment book, and Cael stood in the lodge door and listened to the morning come back to him one ruled line at a time.
 
 *Arrived at the second bell. Four, mounted, in travelling grey, no livery. Departed at a quarter before the third.*
 
@@ -44,7 +44,7 @@ Gault was in the lodge doorway beside Cael. Nobody had seen him come across the 
 
 "Registrar," he said. "If you would add that the evaluator of record was not told of any assessment proposed for the enrollee. Before it was proposed, or since."
 
-Bracken gave it to the clerk in his flat voice, and the clerk wrote it. Gault opened his own notebook on his forearm and wrote in it too, standing in the doorway, a short line, and closed it on the pencil.
+Bracken gave it to the clerk, and the clerk wrote it. Gault opened his own notebook on his forearm and wrote in it too, standing in the doorway, a short line, and closed it on the pencil.
 
 "I have written that down," said Gault, to nobody in particular, and went away across the court toward the Magisters' stair.
 
@@ -78,7 +78,7 @@ He did not write down the four times he had read her. He had them already, and t
 
 *Not known: how far she reaches. How fast. What it costs her. Nothing is free, so it costs her something, and I can't see what. A shape and no numbers.*
 
-He looked at that for a while. Then he wrote one more line at the bottom, by itself, because there was only one person on the hill who might know.
+Then he wrote one more line at the bottom, by itself, because there was only one person on the hill who might know.
 
 *Query for Seln: what Path holds people?*
 
@@ -92,7 +92,7 @@ He sat down and looked at the empty place the way he had looked at the court tha
 
 Rooke sat down in it.
 
-He came with a full plate, and he did not look at Cael, and he did not say anything about the gate. He put his elbows on the table and began to eat, steadily, and between mouthfuls he talked across the board to the Current girl about hips. Her hips, and Lira's, and the whole program's. He told her the inside of a landing hip was the first thing to go on a planked floor and the last thing anybody thought to strap, and that Lira's had come back quiet after two days and she was to make it three before she believed it.
+He came with a full plate. He put his elbows on the table and began to eat, steadily, and between mouthfuls he talked across the board to the Current girl about hips. Her hips, and Lira's, and the whole program's. He told her the inside of a landing hip was the first thing to go on a planked floor and the last thing anybody thought to strap, and that Lira's had come back quiet after two days and she was to make it three before she believed it.
 
 Behind Cael two first-years at the bread were telling each other that there had been ten riders, with swords. Further along, a boy who had heard it from the urn said the lodge-man had been struck and his window broken. The two second-years nearest had it best and worst: the Chancellor had sent Ostrand away from her gate, and Ostrand would shut the house for it, and one of them had a cousin who knew the date.
 
@@ -100,7 +100,7 @@ Rooke talked about hips through all of it. He talked about hips for a whole meal
 
 Ephram put his tray down on Cael's right, halfway through. Then two of the cohort moved up from the far end. Then the rest of them shifted along, without anybody saying a word, until the table was the table again with no gap anywhere in it. "Grievances are Third-day evenings," Ephram said to nobody in particular, reaching for the bread. "I'm not taking any at lunch."
 
-Rooke wiped his plate with his bread and took it away. He had not mentioned the gate once. He had stood in the one place in the room nobody else would stand, and the room had moved round him.
+Rooke wiped his plate with his bread and took it away. He had not mentioned the gate once.
 
 Karis had Bracken's middle glass and the clerk's pencil rubbing of the seal on the long table in the records hall, with the fair copy of the order beside them, when Cael came in at dusk. The others were already there. Seln was at the middle of the bench across from the copy, with his hands folded and his cup at his elbow.
 
@@ -138,9 +138,9 @@ Bracken looked at the blank leaves. "Leave me one more leaf after those." He fol
 
 He went back out to his counter.
 
-Karis turned the rubbing over and looked at the grey circle of the seal for a while, the registry's pattern standing up white out of the pencil.
+Karis turned the rubbing over and looked at the grey circle of the seal, the registry's pattern standing up white out of the pencil.
 
-"It's a good die," she said. "Somebody cut it properly." She put her palm flat on it. "The faceless layer has learned to write paper."
+"It's a good die," she said. "Somebody cut it properly." She put her palm on it. "The faceless layer has learned to write paper."
 
 She did not go on. She looked at the side door Bracken had gone out by, and then up, at the ceiling, toward the Chancellor's rooms on the floor above, and Cael watched her count something on the two of them and not say what it came to.
 

@@ -88,7 +88,7 @@ The conference was not in the hall. It was up a short stair at the back, in what
 
 The first thing Cael saw in it was a hand screwing the lid onto a travelling inkwell.
 
-It did it carefully, a full turn and then a quarter more, so that nothing would spill. Then the hand set the inkwell square on the table, and its owner stood up, and came round the table to meet them.
+It did it carefully, a full turn and then a quarter more, so that nothing would spill. Then the hand set the inkwell on the table, and its owner stood up, and came round the table to meet them.
 
 He was not big. Cael had expected size without knowing it, or a voice, or some weight in the way a man came across a room. What came across this room was a man of middle height and middle years in a brown coat that had been good once and had been kept good since, with the cuffs mended in a slightly different brown. A pair of spectacles hung on a black cord round his neck.
 
@@ -190,11 +190,11 @@ Bracken was at his counter when they came up the hill, and he did not ask how it
 
 Cael told him. Middle height and middle years. The brown coat, the cuffs mended in a different brown, the spectacles on their black cord, the inkwell with its screw lid. The way he had weighed the house's list in his palm before he opened it.
 
-Bracken listened with his hands flat on the counter. Then he went to the locked press, and came back with three thin bound books, and laid them side by side: the rolls of procurators admitted to practise before the registry seats of this district and the two beside it, each name with its date and its sponsor and, against some of them, a little ink drawing in the margin by some long-dead clerk with time on his hands.
+Bracken listened with both hands on the counter. Then he went to the locked press, and came back with three thin bound books, and laid them side by side: the rolls of procurators admitted to practise before the registry seats of this district and the two beside it, each name with its date and its sponsor and, against some of them, a little ink drawing in the margin by some long-dead clerk with time on his hands.
 
 He went down all three with his finger, a quarter-hour's work. Cael stood and watched him do it, because he could see Bracken wanted it watched.
 
-"Not on any of them," said Bracken at last, and closed the third. "Admitted somewhere, or he couldn't stand at a seat. But not here, and not next door." He put the three books one on top of another, squared. "So he came from further off than the next district to stand at our seat in a matter about our house." He looked at Cael over the books. "Which is information. I don't yet know what it's information about."
+"Not on any of them," said Bracken at last, and closed the third. "Admitted somewhere, or he couldn't stand at a seat. But not here, and not next door." He put the three books one on top of another. "So he came from further off than the next district to stand at our seat in a matter about our house." He looked at Cael over the books. "Which is information. I don't yet know what it's information about."
 
 The read had told him the man's weight in his chair to the ounce, Cael wrote that night at the sill, and nothing else at all.
 

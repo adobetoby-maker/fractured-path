@@ -10,7 +10,7 @@ She put it into his hands, and went and sat down behind her desk, and folded her
 
 He sat in the visitor's chair with the folder on his knees. He opened it at the back, because that was where the house's counsel would have started.
 
-The newest leaf was the eighth day's. It was in the registry's flat grey type, sent up the road to be pinned in, because a house had to keep its own folder current with whatever the registry entered against it.
+The newest leaf was the eighth day's. It was in the registry's plain grey type, sent up the road to be pinned in, because a house had to keep its own folder current with whatever the registry entered against it.
 
 *Respondent: the academy of Halcenvane, in formal proceedings before the seat at Ostrand. Subject of proceedings: the basis on which it enrolled Caelen Hesk-ward, unclassified, its enrollee of record. Status: pending.*
 
@@ -26,7 +26,7 @@ She opened her desk drawer, and took out a paper, and laid it on the folder on h
 
 "Four," said Withrow. "You like counting. Count them." He counted them, though he did not need to. "Every one is a thing I asked for, on this desk, in my own hand. When the seat reads your name it will read these too, whether it means to or not." She closed the drawer. "I wanted them on your knees once, so you'd know their weight. After tonight, the adding-up is mine. It's my column."
 
-He did not say anything. He had learned that when she spoke in that voice the right answer was to have heard.
+He had learned that when she spoke in that voice the right answer was to have heard.
 
 "Now the other column."
 
@@ -92,7 +92,7 @@ On the Fifth-day that week he fought in wing three at the band, against a Blade.
 
 She was an Iron Rank Five of the third year, with a long patient guard that liked to make you come to it, and a habit of holding her edge-line a hand's breadth lower than the cohort taught, so that a man who read the line by the cohort's rule stepped onto it. Cael read her weight instead of her line, and went to her slowly in the first exchange and took it with a burst off the left foot when her back heel lifted. In the second she walked him into the corner by the south door, one patient step at a time, and he spent a second burst getting out of it and came out a stride short of where he wanted to be. The third was the rotation's: it went to her, whatever it cost, and it cost him her edge-line laid across his forearm, hard, a sting that went through the wrap and stayed there for an hour. In the fourth he waited for the heel again and it came, and the touch was his.
 
-Twenty-two and a third. Gault gave the clerk the figure. Ephram, at the rail, wrote it in his chart and did not draw a question mark, and did not look up, and Cael found he was grateful to him for not looking up.
+Twenty-two and a third. Gault gave the clerk the figure. Ephram, at the rail, wrote it in his chart and did not draw a question mark, and kept his eyes on the chart, and Cael was grateful to him for it.
 
 ---
 
@@ -186,7 +186,7 @@ Late. He felt Lira's hand close on his sleeve.
 
 It came on time.
 
-Nobody spoke for a moment. Then Lira took the pencil stub out of her pocket and wrote on her palm, under the place where the tape stopped. "Ten, ten, twelve," she said. "Clean at eleven, eleven, thirteen." She looked up. "That's the last one tonight."
+Lira took the pencil stub out of her pocket and wrote on her palm, under the place where the tape stopped. "Ten, ten, twelve," she said. "Clean at eleven, eleven, thirteen." She looked up. "That's the last one tonight."
 
 "I'm all right."
 

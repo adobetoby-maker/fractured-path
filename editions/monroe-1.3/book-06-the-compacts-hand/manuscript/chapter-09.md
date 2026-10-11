@@ -8,7 +8,7 @@ Cael saw it in the morning, on his way past the hook by the records-hall side do
 
 Karis had written the integrity section in a night.
 
-She was asleep when he came in. She was sitting upright in her chair at the long table with her arms folded on the wood in front of her and her head on her arms, and the pen had rolled out of her hand and stopped against the inkwell. The lamp at her elbow had burned itself dry and gone out. In front of her, squared into one stack so neat that it might have been cut with a blade, lay the night's work in her finding hand. The girl at the outer table across the landing had put a shawl over Karis's shoulders and then, apparently, not dared to do anything else. She sat at her own table with her hands in her lap, guarding the door from inside the room.
+She was asleep when he came in. She was sitting upright in her chair at the long table with her arms folded on the wood in front of her and her head on her arms, and the pen had rolled out of her hand and stopped against the inkwell. The lamp at her elbow had burned itself dry and gone out. In front of her, in one stack so neat that it might have been cut with a blade, lay the night's work in her finding hand. The girl at the outer table across the landing had put a shawl over Karis's shoulders and then, apparently, not dared to do anything else. She sat at her own table with her hands in her lap, guarding the door from inside the room.
 
 "Since the eighth bell," the girl whispered. "She didn't stop. I filled the lamp twice. Then I fell asleep, and when I woke up she'd stopped." She looked at the stack as if it might go off. "She said not to wake her unless the building was on fire."
 
@@ -60,8 +60,6 @@ She brought it back and laid it in front of him.
 
 Bracken read it, and nodded once, and went back to the lamp-oil.
 
-Cael understood, walking up the library stair behind her afterward, that he had just watched two people who did not say kind things to each other say one. Karis had put Bracken's own filing into the answer, as evidence that the integrity provisions were for frames; it was the strongest single line on the leaf, because it had been filed by a registrar at the very counter that was answering. And Bracken had asked for his own small error to be left standing in it, so that nobody could ever say the house had tidied the record to suit itself. Neither of them had said a word about why.
-
 ---
 
 The house's counsel came up the hill at noon and read the forty pages backward.
@@ -86,11 +84,11 @@ The counsel finished her climb a little before the fifth bell and set the rule a
 
 "That's all there is." The counsel stood and buttoned her coat. "I've read a good many answers to a good many petitions. That's the best section on these provisions I've seen written by anybody, and I include my own. Put it in." She picked up her bag. "I'll be back up the hill when the rest of it's done. Send for me early. I like to read things twice."
 
-When she had gone down the stair, Karis did not say anything for a while. She sat with her hands folded on the forty pages. Then she tore a strip off the bottom of a used sheet and wrote two lines on it, fast, and pushed it across the table to him without looking up.
+When she had gone down the stair, Karis sat with her hands folded on the forty pages. Then she tore a strip off the bottom of a used sheet and wrote two lines on it, fast, and pushed it across the table to him.
 
 *Best thing I've written. Worth exactly what a record is worth: the seat can agree with every word and turn the page.*
 
-He read it and copied it into the observation notebook, both lines, in her section, and slid the strip back. She put it in her pocket. He understood that she had wanted it written down and had not wanted to be heard asking, and that a slip of paper across a table was the way she had found to have both.
+He read it and copied it into the observation notebook, both lines, in her section, and slid the strip back. She put it in her pocket.
 
 When he looked up from the notebook, the stack had been turned over. The last page lay on top, where he would read it first, and Karis was standing at the window with her back to the room.
 
@@ -154,7 +152,7 @@ At the foot of the leaf Bracken initialled both copies in the corner, and blotte
 
 "Then go on."
 
-They did four more before the rain eased. When Cael went back across the court at last, his own life was lying in two neat piles on a registrar's counter, checked and initialled, and he found that he felt lighter for having read it aloud than he had ever felt for keeping it to himself.
+They did four more before the rain eased. When Cael went back across the court at last, his own life was lying in two neat piles on a registrar's counter, checked and initialled, and he felt lighter for having read it aloud than he had ever felt for keeping it to himself.
 
 In the morning the court steamed. Bracken sent the porter's boy up the library stair with a message for Karis, and the message was one word long, and Karis read it on the landing and came down at once with the boy still trying to keep up.
 
@@ -188,7 +186,7 @@ Bracken put the last weight away. "Three."
 
 It went down the hill on the nineteenth day, a Fifth-day, at the second bell.
 
-Cael watched from the covered walk with half the house beside him. Nobody had announced anything. Nobody needed to. The head groom came out of the stable yard on the bigger of the two greys in the coat he wore at convocation and nowhere else, and his son on the other grey looking as if he had been told to sit up straight and was doing it with his whole body. Between them rode Bracken's senior clerk, a long patient man who had kept the enrollment book for nine years and had never in his life been looked at by so many people at once. The wallet was strapped across the front of his saddle under a fold of the house's own cloth, and he kept one hand flat on it the whole way across the court.
+Cael watched from the covered walk with half the house beside him, though nobody had announced anything. The head groom came out of the stable yard on the bigger of the two greys in the coat he wore at convocation and nowhere else, and his son on the other grey looking as if he had been told to sit up straight and was doing it with his whole body. Between them rode Bracken's senior clerk, a long patient man who had kept the enrollment book for nine years and had never in his life been looked at by so many people at once. The wallet was strapped across the front of his saddle under a fold of the house's own cloth, and he kept one hand on it the whole way across the court.
 
 They went out under the arch at a walk.
 

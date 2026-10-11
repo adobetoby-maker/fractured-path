@@ -20,7 +20,7 @@ The real errand had been the board, but he had a docket number to ask Bracken ab
 
 Beside the daybook lay a bundle of fair copies tied with green tape, with a label on the tape: *Houses. Answered.*
 
-Bracken came out of the post room with his sleeves rolled. He did not say anything about the daybook. He answered the docket question. Then he saw where Cael was looking, and untied the tape and turned the top copy round.
+Bracken came out of the post room with his sleeves rolled, and answered the docket question. Then he saw where Cael was looking, and untied the tape and turned the top copy round.
 
 *Halcenvane's enrollment stands on a provision the registry has not set aside, and has been entered in full on the public record. Each chartered house must read that provision for itself.*
 
@@ -40,7 +40,7 @@ At the second switchback below the gate, Rooke stopped.
 
 There was a hat on the milestone there. It took Cael a moment to see that there was a man under it, sitting with his collar turned up and a board on his knee, very still, the way people sit who have been sitting a long time. Lira, who had come up the wall stair with two apples and given him one without asking, said the porter's boy had counted: since the third bell. He had read the board on the gatepost, perhaps. It said in registry type that the house had answered the challenge in its filing, that the filing was public, and that the house had nothing to add to it. He had not come up to argue with the lodge-man. He had simply sat down where a man on the outside of the bend could see the gate and the wall and the whole road up to them, and waited for a boy to come down it.
 
-They watched Rooke say something short. The man looked up the road toward the gate for a long moment. Then he got up, and tucked the board under his arm, and went down the hill in front of Rooke at a walk.
+They watched Rooke say something short. The man looked up the road toward the gate. Then he got up, and tucked the board under his arm, and went down the hill in front of Rooke at a walk.
 
 When Rooke came back up without the satchel, Lira leaned over the wall.
 
@@ -70,7 +70,7 @@ He thought of her coming away from Fenmark at fourteen with nothing, after an ex
 
 The schoolroom letter was already lying by itself on the board when Cael sat down after supper.
 
-It was folded very small, on paper ruled for copying, set apart from the three piles at Lira's end of the long table and squared to the board's edge. Nobody was touching it. Lira read it to him, once, in a voice with nothing added.
+It was folded very small, on paper ruled for copying, set apart from the three piles at Lira's end of the long table. Nobody was touching it. Lira read it to him, once, in a voice with nothing added.
 
 *To the boy at Halcenvane. My teacher read us about you. I am nine and not Kindled yet. Does it hurt, not having a Path written down? I would like to know before it is my turn.*
 
@@ -88,7 +88,7 @@ He reached across and took one letter off the top of each. The kind one was from
 
 "It's a good circle," said Brom.
 
-"None of these get answered," said Lira, to nobody in particular, squaring the kind pile. "They all go in my trunk. By pile, then by date. Somebody ought to have a record of this year that wasn't kept by a clerk."
+"None of these get answered," said Lira, to nobody in particular. "They all go in my trunk. By pile, then by date. Somebody ought to have a record of this year that wasn't kept by a clerk."
 
 "Good," said Karis, from the end of the table, without looking up from her volume.
 
@@ -108,9 +108,7 @@ The last one had come on the thirty-first day, and Brom had kept it two nights o
 
 Nobody asked. That had been the arrangement since the recess, and it held. Lira tied her bundle with a knot she did not usually use. Karis opened her volume again at the page she had just closed. Cael watched Brom's hand come away from the pocket and settle on the board, and then, a moment later, go back to the pocket and rest flat on the cloth over it, and stay there, as if the letter might get out.
 
-The arrangement held. It had started to cost the table something, and Brom more than any of them.
-
-On the stair afterward Lira fell into step beside Cael and said, without looking at him, "I'd open it for him."
+On the stair afterward Lira fell into step beside Cael and said, "I'd open it for him."
 
 "I know."
 
@@ -124,7 +122,7 @@ Karis had gone up before the piles were tied. When Cael followed her to the read
 
 It was an answer, then. Only afterward did he see the question, printed on the other side of the sheet she was writing on. It was a form from the district fee office at Ostrand, which put its seal on every request a chartered house sent to an archive outside its own district. Her request of the thirty-fifth day, to Greyvane, for the founders' signature leaves, was in order and its fee was paid; before the office would seal it on, it asked the requester to state her standing, its last renewal, and the officer who had renewed it. It cited the section that let it ask.
 
-She finished, and blotted it, and did not say anything about it, and he did not ask.
+She finished, and blotted it.
 
 The door from the landing opened, and the assistant stood there in her cloak with her face pale round the mouth and red at the cheekbones.
 
@@ -166,7 +164,7 @@ Then he turned forward to a clean page, because tomorrow was the Fourth-day and 
 
 He had written one before every bout since the mill town: a single line out of the rotation, saying which exchange he would give away, how many bursts he would let the house see, where the spark would go, and what the figure ought to come to at the end. Seln had told him across a document table that his figures were too tidy. The rotation was the cure: scatter, built on purpose and paid for in advance, so that no one with a pencil and a season's worth of his numbers could find the hand that set them.
 
-Tonight he sat with the pen over the page for a long time.
+Tonight the pen stayed over the page.
 
 The trouble was the strangers. Three cards and a clerk who knew him were one kind of audience. Four officers from four houses, with the broadsheets and the tournament books in their satchels, were another. Rhagen wrote down every exchange of every bout it could see and bound the result and sold it; somebody in an inn that very night would be laying tomorrow's figure beside last season's, line for line. Whatever he did must look exactly like the record, which meant like a strong Iron with a few odd gifts on a good day. And it must not look like the last bout, or the one before, because a record that matches itself has been arranged, and men whose trade is arrangements can smell it.
 
@@ -185,7 +183,5 @@ He put the book away and went down, late as it was, to wing three.
 Nobody stopped him. The assessment wing was dark except for the lamp at the counter, and the door to wing three had never been locked in his time. He went in and stood on the old pine boards with the high east windows black above him, and then he walked the floor, slowly, from his chalk at the south end to the Current's at the north, counting strides. Fourteen. He walked it again along the line her bend would take. Then he went to the west end and looked up.
 
 The gallery over the door was clean. The porters had swept it that afternoon; he could smell the damp of the swept boards. Somebody had set a row of four chairs along its rail, and a fifth stool, for whoever might not want a chair. From the floor, standing where he would stand, he could see all five of them without turning his head. From the gallery, he supposed, they would see the top of his head and his feet, and whatever his feet did.
-
-He stood there a while longer in the dark, a fighter getting the measure of a room, as he had in every hall he had ever fought in. Only this time it was not the floor he was measuring. It was the people who would sit above it and decide, from his feet, what he was.
 
 Then he went to bed.

@@ -2,7 +2,7 @@
 
 The east hall had never held a crowd before, and on the thirtieth morning of the year it held one.
 
-Nobody had announced the trial beyond a line on Rooke's own board, chalked the evening before in his square capitals: *PROGRAM TRIAL. SECOND-DAY, SECOND BELL. LIRA / FORCE THIRD-YEAR. RATED.* That was all. But the house had read it, and the house knew what *rated* meant on that floor. It meant the first bout ever fought on the program's painted boards under the program's own seal, with a figure at the end of it that would go into the program's own book. By the half-bell the gallery was full along both sides. By the second bell the porters had opened the shutters on the high windows to let the heat out, and the light came down onto the white crosses in long bright bars, and there were people standing on the gallery stair.
+Nobody had announced the trial beyond a line on Rooke's own board, chalked the evening before in his square capitals: *PROGRAM TRIAL. SECOND-DAY, SECOND BELL. LIRA / FORCE THIRD-YEAR. RATED.* But the house had read it, and the house knew what *rated* meant on that floor. It meant the first bout ever fought on the program's painted boards under the program's own seal, with a figure at the end of it that would go into the program's own book. By the half-bell the gallery was full along both sides. By the second bell the porters had opened the shutters on the high windows to let the heat out, and the light came down onto the white crosses in long bright bars, and there were people standing on the gallery stair.
 
 He had found Lira an hour before it, sitting on the east hall's outer step in the grey light with her back against the doorpost and a roll of tape in her lap, doing her wrists. She did them slowly, as she never did on an ordinary morning, a turn at a time, pressing each turn flat with her thumb before the next went over it.
 
@@ -12,7 +12,7 @@ He sat down on the step below her.
 
 "You asked me once not to count your bursts," he said.
 
-"I did. Ages ago." She started the other wrist. "I still don't want you to. I'll know how many. I'll be the one paying for them." She pressed a turn flat. "Count his."
+"I did. Ages ago." She started the other wrist. "I still don't want you to. I'll know how many. I'll be the one paying for them." She pressed a turn down. "Count his."
 
 "His what?"
 
@@ -22,7 +22,7 @@ Down the walk the Force came round the corner of the range with two of his cohor
 
 Cael had the rail at the north end, where he had stood on the second morning of the year to watch the red book. Brom stood on his left with his arms folded. Karis stood on his right with her notebook shut and her pen in her hand. Ephram was three steps down the gallery stair with the captain's file under his arm, where he could see the whole floor and be seen by the whole cohort, which Cael supposed was the point. The girl from the reading room's outer table had found a place against the far wall of the gallery, with her small notebook open.
 
-Below them on the floor stood the rating table: a trestle under the north windows with three chairs behind it. The clerk with the red drill-book sat at one end. Rooke sat in the middle with his board and his pencil. And at the other end, with a ruled card in front of him and his hands folded on the table like a man waiting outside a shop, sat the Stone from the river academy, who had asked to come and teach the girl who beat him and was now going to put a figure on her.
+Below them on the floor stood the rating table: a trestle under the north windows with three chairs behind it. The clerk with the red drill-book sat at one end. Rooke sat in the middle with his board and his pencil. And at the other end, with a ruled card in front of him and his hands folded on the table, sat the Stone from the river academy, who had asked to come and teach the girl who beat him and was now going to put a figure on her.
 
 Rooke stood up at the second bell and said the rule, once, in a voice that carried to the back of the gallery without being raised.
 
@@ -138,7 +138,7 @@ There was nowhere near him to land. To touch him she would have to come down on 
 
 Rooke's rule was three bursts. She had spent three.
 
-Lira stood at her chalk and looked at the ring of jumping floor for a long moment. Her lips were not moving now. She was not counting him; there was no count left to find. Cael watched her decide, and saw her know exactly what it would cost.
+Lira stood at her chalk and looked at the ring of jumping floor. Her lips were not moving now. She was not counting him; there was no count left to find. Cael watched her decide, and saw her know exactly what it would cost.
 
 She went.
 
@@ -208,11 +208,11 @@ He nodded, a short honest nod, the way a man nods to somebody who has told him w
 
 Lira came up the stair to the rail.
 
-She had her tapes balled in one fist and the other hand pressed flat against the outside of her thigh where Rooke's thumb had been, and her face had the look Cael had watched on it for two months of mornings and never had words for. She stood at the rail beside him and looked down at the painted floor. The trestle. The clerk back at his red book. The Stone, folding his card in half along a crease he made with his thumbnail, and putting it inside his coat.
+She had her tapes balled in one fist and the other hand pressed against the outside of her thigh where Rooke's thumb had been, and her face had the look Cael had watched on it for two months of mornings and never had words for. She stood at the rail beside him and looked down at the painted floor. The trestle. The clerk back at his red book. The Stone, folding his card in half along a crease he made with his thumbnail, and putting it inside his coat.
 
 "He came from the river to teach me a count," she said. "A man I beat. He wrote and asked." She turned the balled tape in her fingers. "There was a time I'd have thrown that back in his face and called it pity, and walked out to the yard to prove I didn't need it." She watched the Stone go out. "I'm better now. I can admit I want it."
 
-Nobody said anything. Brom unfolded his arms. Karis, on Cael's other side, closed her notebook very quietly.
+Brom unfolded his arms. Karis, on Cael's other side, closed her notebook very quietly.
 
 Lira looked at the floor a moment longer, and then went down the stair to find her water, walking carefully on the left leg, and did not look back to see how it had been received.
 
@@ -258,13 +258,13 @@ Late that night, crossing the court from the north wall, Cael looked up at the r
 
 Lira was sitting on the stair in the dark when he came in, with her bad leg out straight along the step.
 
-"It's on the table," she said quietly. "Squared on top of the docket. Edges level. Not opened."
+"It's on the table," she said quietly. "On top of the docket. Edges level. Not opened."
 
 "You went in?"
 
 "His door doesn't latch unless you lean on it." She looked at her own hands. "I didn't lean on it. I wanted to." She was quiet a moment. "When he opens it, nobody asks. Not what it said. Not whether he's all right. Tell Karis. I'll tell her too, so she hears it twice."
 
-Karis heard it twice. She did not say anything about it to either of them. But from the next evening on, the annex door stood open every night until the last bell, with the lamp lit inside and Karis at the long table with her back to the stair, and anybody coming up could have walked in and sat down without knocking. Nobody remarked on it. Brom went past it twice the next evening on his way to the stair and did not go in.
+Karis heard it twice. From the next evening on, the annex door stood open every night until the last bell, with the lamp lit inside and Karis at the long table with her back to the stair, and anybody coming up could have walked in and sat down without knocking. Brom went past it twice the next evening on his way to the stair and did not go in.
 
 On the third evening he opened the letter.
 

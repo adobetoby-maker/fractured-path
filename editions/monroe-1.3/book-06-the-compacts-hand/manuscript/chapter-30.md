@@ -96,8 +96,6 @@ Cael sat with his back to the horses and watched the house go up behind them int
 
 At the foot of the road the two coats under the chandler's eaves stood away from the wall to watch them turn. Cael saw one of them lift his head to read which way. West, along the bank road. The man did not move after that. There was nowhere he needed to go with it at that hour; he would write it on his board and give it to the next man on the bell, and by noon it would be wherever such things went.
 
-Inside the coach, for a long while, nobody talked.
-
 Brom had the two record cases on his knees, one on top of the other, with his arms round them. He had not let them ride on the roof on the day of the exhibits and he was not going to let them ride on the roof today, in mud. Karis sat beside him with the attestation wallet in her lap and her lips moving. She was saying the form over, the questions the seat's clerk would ask the maker and the enrollee and the advocate, and the answers, under her breath, the way Lira counted her bursts before a bout. Lira was asleep against the window with her coat over her like a blanket and her mouth a little open. She could sleep anywhere in a moving vehicle. She said it was the only useful thing she had learned from guilds.
 
 Seln sat in the far corner with his eyes shut and his hands in his lap. He had sat like that in the coach on every road all year. Cael had long ago stopped thinking it meant he was asleep.
@@ -160,7 +158,7 @@ Seln stood on the landing with his collar up.
 
 "Then I'll be at the culvert."
 
-He did not explain. Nobody asked him to. He turned and went down off the end of the landing onto a narrow path among the willows, with the river roaring at his left hand, and in about the time it took Cael to look away and back again he was not a thing that anybody would have looked at twice. He was a grey shape among grey trees. Then he was not even that.
+He turned and went down off the end of the landing onto a narrow path among the willows, with the river roaring at his left hand, and in about the time it took Cael to look away and back again he was not a thing that anybody would have looked at twice. He was a grey shape among grey trees. Then he was not even that.
 
 Cael put it away with the other things he had counted that morning. Seln had not been asked; he had chosen the road himself.
 
@@ -186,7 +184,7 @@ The coachman pulled up forty yards short and sat looking at it. Then he said som
 
 "Wait," said Cael.
 
-He opened the door and got down into the white dust before anyone could stop him, and walked to the coach's front wheel on the south side, and bent to it as if to look at the hub. Then he went down on one knee on the road and put his palm flat on the chalk.
+He opened the door and got down into the white dust before anyone could stop him, and walked to the coach's front wheel on the south side, and bent to it as if to look at the hub. Then he went down on one knee on the road and put his palm on the chalk.
 
 He sent the read down.
 
@@ -222,7 +220,7 @@ She came out of the hollow at an ordinary walking pace and stopped on the crown 
 
 He did not need to see it. He had read her four times across forty feet of stone in the outer court six days ago, and drawn her on the oak in chalk, and written her shape in the notebook with no numbers in it. She had stood on the one level place in the court. She stood on the one level place in the cut. Every line out of the cut went past her.
 
-The man at the cart spoke. He spoke to the coachman, not to anybody in the coach, in a flat even voice that carried along the chalk walls without being raised.
+The man at the cart spoke. He spoke to the coachman, not to anybody in the coach, in an even voice that carried along the chalk walls without being raised.
 
 "Stay on the box. Nobody here wants you." He moved his head a fraction, toward the culvert. "The one we want walks east to the culvert. Nobody else is wanted. Nobody else need be touched."
 

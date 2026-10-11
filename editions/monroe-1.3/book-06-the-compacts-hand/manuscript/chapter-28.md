@@ -118,7 +118,7 @@ Karis's finger stopped too.
 
 "It's different," said the girl. She held the card closer to the lamp. "The copy's got twenty-two and two-thirds. The card's got…" She tilted it. "The card's got it twice. There's twenty-three and a third, and a line through it, and twenty-two and two-thirds written over the top in another ink."
 
-Karis took the card. She looked at it for a long moment without saying anything. Then she turned the copy toward the lamp and looked at the margin beside the line, and Cael saw her mouth change.
+Karis took the card. She looked at it. Then she turned the copy toward the lamp and looked at the margin beside the line, and Cael saw her mouth change.
 
 There was a note in the margin, so small that you would not have seen it unless you were looking for exactly that, in Seln's square hand. *Figure corrected on the card in the desk clerk's hand, different ink. Corrected figure copied. Both seen.*
 
@@ -132,7 +132,7 @@ The girl wrote. Then she looked up at Karis with ink on two fingers.
 
 "No. It's a correction. A mistake is when nobody wrote it down." Karis turned back to the copy. "Go on. You found it. That's the whole job."
 
-The girl went on. *Fifth-day, the ninth week.* Cael watched her for a while, and then watched Karis, who had not once looked up at him. She did not need to; the year was in her hands, and she was reading it straight.
+The girl went on. *Fifth-day, the ninth week.* Cael watched her, and then watched Karis, who had not once looked up at him. She did not need to; the year was in her hands, and she was reading it straight.
 
 He thought about Seln at the copying table in the wing four nights ago, with the rain on the roof, finding a line through a figure on a card and copying the figure and the line both, and saying nothing to anybody, because it was not his to say anything about. Writing it down instead, small, where it would be found by the one person who was going to look.
 
@@ -160,8 +160,6 @@ Lira rolled her left shoulder. She did it slowly, forward and back, with her fac
 
 He had been, and he had not known she knew.
 
-He found that he did not have anything to say to that, and that she did not need him to, and he put it away for later.
-
 "So," said Lira. "What's this?"
 
 He told them.
@@ -176,7 +174,7 @@ Karis's arm came down slowly, and the attestation papers with it.
 
 "I mean the reach."
 
-Nobody said anything for a moment. The rain went on against the glass.
+The rain went on against the glass.
 
 ---
 
@@ -198,7 +196,7 @@ He wrote the heading. *Priced before. If it is her, or anyone like her, in a fig
 
 "Say it," said Lira.
 
-"It's wanting it." He did not look at any of them. "If I write the price down tonight, I'm saying I'd pay it. That's wanting it. On the stair I didn't want anything. At Norhold I didn't know I wanted it until it was in front of me. This is the first time I've ever sat down at a table and wanted one on purpose, a week ahead, in ink."
+"It's wanting it. If I write the price down tonight, I'm saying I'd pay it. That's wanting it. On the stair I didn't want anything. At Norhold I didn't know I wanted it until it was in front of me. This is the first time I've ever sat down at a table and wanted one on purpose, a week ahead, in ink."
 
 "Yes," said Karis.
 
@@ -212,7 +210,7 @@ That was all she said, and he looked up at her. She was standing with the papers
 
 So he wrote it.
 
-Karis gave him the first figure. She had kept a column for the storm since Norhold, the days and weeks and what had leaned in him and when, and she turned to it in her notebook and laid her palm flat across it while she thought. Eleven weeks at Gold for the flag to clear. The first month the worst. A Silver ought to weigh less, she said; nobody could say how much less, because there was only the one point on her curve that was any good, and one point was not a curve. She drew one anyway, lightly, on the back of an attestation leaf, through the storm and through the ones before it. Each of the earlier ones had its bill written in the old volume, a day or two of quiet in some room while the rest of him moved over to make space, and she knew those bills better than he did, because she had copied them. They were small points, low on the paper, close together. The storm stood up at the far side of the leaf by itself, like a tree in a field, and her pencil went from the little ones up to it in a long uneasy curve that she did not like and said so.
+Karis gave him the first figure. She had kept a column for the storm since Norhold, the days and weeks and what had leaned in him and when, and she turned to it in her notebook and laid her palm across it while she thought. Eleven weeks at Gold for the flag to clear. The first month the worst. A Silver ought to weigh less, she said; nobody could say how much less, because there was only the one point on her curve that was any good, and one point was not a curve. She drew one anyway, lightly, on the back of an attestation leaf, through the storm and through the ones before it. Each of the earlier ones had its bill written in the old volume, a day or two of quiet in some room while the rest of him moved over to make space, and she knew those bills better than he did, because she had copied them. They were small points, low on the paper, close together. The storm stood up at the far side of the leaf by itself, like a tree in a field, and her pencil went from the little ones up to it in a long uneasy curve that she did not like and said so.
 
 "Nine weeks," she said. "If I had to put a number on it. Something less than a flag, for about nine weeks. I don't believe it. Write it down."
 
@@ -242,7 +240,7 @@ Then he came to the part he could not price, and he did what Seln had told him o
 
 Lira took the pen out of his hand.
 
-She did not ask. She leaned off the bed and took it, and pulled the book toward her across the sill, and wrote one more line under his in her square capitals, pressing hard, the way she always did.
+She did not ask. She leaned off the bed and took it, and pulled the book toward her across the sill, and wrote one more line under his in her large capitals, pressing hard, the way she always did.
 
 *NOBODY GOES IN AFTER HIM ALONE.*
 

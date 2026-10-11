@@ -186,7 +186,7 @@ He laughed, a short surprised bark, the laugh of a man who has not been answered
 
 At the east end of the square, by the panel's table, on the quiet side where there were no benches, the Stone was on his feet with his hands above his head, applauding.
 
-He was the river academy's man. Half a row of the river academy's own fighters sat on the north benches, in their own colors, and every one of them could see him: their instructor, the man they had sent up the hill for a year, standing alone at the quiet end of the confluence hall with his hands in the air for a girl from another house who had beaten him at the wool town. It would cost him something when he went home. He plainly did not care. He went on clapping, slowly, with his big hands over his head, until Lira saw him; and when she saw him she put her own hand flat on her chest and bowed to him, a little, from the waist, and he stopped.
+He was the river academy's man. Half a row of the river academy's own fighters sat on the north benches, in their own colors, and every one of them could see him, standing alone at the quiet end of the confluence hall with his hands in the air for a girl from another house who had beaten him at the wool town. It would cost him something when he went home. He plainly did not care. He went on clapping, slowly, with his big hands over his head, until Lira saw him; and when she saw him she put her own hand on her chest and bowed to him, a little, from the waist, and he stopped.
 
 ---
 
@@ -196,7 +196,7 @@ She came to Cael.
 
 "Feet," she said. "Go on. All of it. Before anybody."
 
-So he told her, there at the rope, with Rooke standing a yard away and pretending not to listen. He told her the first exchange, the test with the ball of the foot, the knee giving a little on the deep landing. He told her the two small checks in the south-west corner, which she had not known were the same corner. He told her the second exchange whole, because it had been beautiful and she ought to hear it said: the long lie, the drift that was not a drift, the burst along the east rope that put her behind his hip. He told her the third, the fan that walked her south and west a step at a time, and the planks.
+So he told her, there at the rope, with Rooke standing a yard away and pretending not to listen. He told her the first exchange, and the two small checks in the south-west corner, which she had not known were the same corner. He told her the second whole, because it had been beautiful and she ought to hear it said. He told her the third, the fan that walked her south and west a step at a time, and the planks.
 
 "Crossways," he said. "Eight feet of them, by the south-west post. Under the sawdust. I looked at that corner at dawn and saw sawdust."
 
@@ -210,7 +210,7 @@ He did not say it to either of them. He said it to his board, and he wrote it th
 
 So Cael told her the fourth, and the sixth burst, and the half stride, a little more than a foot, between where her lead foot came down and where it should have come down.
 
-Lira listened to the whole of it without interrupting. When he finished she stood a moment with her hands on her hips, looking at the boards where she had been, and then she said it herself, before Rooke could.
+When he finished she stood a moment with her hands on her hips, looking at the boards where she had been, and then she said it herself, before Rooke could.
 
 "I got in twice. Once it counted." Her breath was still coming hard. "The craft was there both times. The last time I got there late, and the late was the sixth burst, and the sixth burst was me spending the floor in the third to get out of a corner I should never have been standing in." She flexed her right hand. "So it's not a different bout I want. It's the same bout, sooner."
 
@@ -222,7 +222,7 @@ Then he did a thing nobody in the program had ever seen him do. He said his note
 
 He underlined it once and turned the board round so that she could see it.
 
-The rest of the board was the bill, because Rooke billed everything, and he read her that too, without softening any of it. Six bursts, against his three. One past the floor's five, borrowed against tomorrow. The north-west post, across both shoulder blades; Rooke spread his hand on the board to show how wide the mark would be by morning, and she was already standing as if it had set. Her landing leg, hot again from the hip down the outside; two days at half work, no frames, and no bursts until it was quiet. And at the bottom, the line about the south-west boards, with *Mine* at the end of it.
+The rest of the board was the bill, because Rooke billed everything, and he read her that too, without softening any of it. Six bursts, against his three. The north-west post, across both shoulder blades. Her landing leg, hot again from the hip down the outside; two days at half work. And at the bottom, the line about the south-west boards, with *Mine* at the end of it.
 
 "It's paid," said Lira.
 

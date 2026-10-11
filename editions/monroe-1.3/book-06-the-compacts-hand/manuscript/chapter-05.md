@@ -2,7 +2,7 @@
 
 The eighth day of the year was a First-day, hot and still, and at the second bell Cael was on the covered walk with a book under his arm and nowhere in particular to be.
 
-The house had found its feet by then. A week was long enough for that. The intake had stopped walking in groups of six and started walking in groups of two. The boards along the walk had filled up with the year's ordinary paper: the research standings, the program's floor hours, the refectory's rota, and a sheet in Ephram's cramped hand announcing that the captain would hear grievances on Third-day evenings in the common room and would not be held responsible for his answers. The fire-watch boy's slate hung on its nail under the north arch with last night's hours chalked down it in large careful figures, the last of them rubbed out once and made again.
+The house had found its feet by then. A week was long enough for that. The intake had stopped walking in groups of six and started walking in groups of two. The boards along the walk had filled up with the year's ordinary paper: the research standings, the program's floor hours, the refectory's rota, and a sheet in Ephram's square hand announcing that the captain would hear grievances on Third-day evenings in the common room and would not be held responsible for his answers. The fire-watch boy's slate hung on its nail under the north arch with last night's hours chalked down it in large careful figures, the last of them rubbed out once and made again.
 
 Cael stopped at the slate, because he always did, and then he looked east, because the arch looked east, and saw them.
 
@@ -194,11 +194,11 @@ He took out Hesk's book and Hesk's steel pen. The words had been ready since the
 
 He sanded it, gave it a full minute by Hesk's clock, and closed the book.
 
-Then he looked at what he had written, for a while, with the book shut.
+Then he went over what he had written, with the book shut.
 
-He had meant every word. He found he meant them still. A year ago he had been a boy on a provision, alive because somebody kept writing it down, and a hearing, a panel and the continent's oldest contest had all tried their instruments on him and found they could not make him fit, and every time the text had held him. He had no reason to think this text would not.
+He had meant every word. He meant them still. A year ago he had been a boy on a provision, alive because somebody kept writing it down, and a hearing, a panel and the continent's oldest contest had all tried their instruments on him and found they could not make him fit, and every time the text had held him. He had no reason to think this text would not.
 
-But he noticed something, sitting at the window with the book closed on his knee, and he made himself look at it squarely, because noticing things was the one work he had never been able to stop doing.
+But he noticed something, sitting at the window with the book closed on his knee, and he made himself look straight at it, because noticing things was the one work he had never been able to stop doing.
 
 It was the voice. Withrow's registry voice, reading the first page aloud in the records hall. He had thought, while she read, that she was using it because it was the right instrument for service. He thought now that she had been using it because it was the only one she had that would not shake.
 

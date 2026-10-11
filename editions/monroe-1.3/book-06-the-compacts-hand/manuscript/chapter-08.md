@@ -8,7 +8,7 @@ Fourteen days. Thirteen, now.
 
 He got up and dressed and put the copy in its folder under his arm, because he did not want to leave it on the sill for the porter's boy to read, and went down.
 
-Karis was not at breakfast. Her chair at the end of the table stood pushed in square, and her cup was gone from the rack, which meant she had been down before the bell and taken it up with her. Lira sat across from his place with her elbows either side of a bowl of porridge she was not eating. Brom ate for two, steadily, as if somebody had told him he would need it.
+Karis was not at breakfast. Her chair at the end of the table stood pushed in, and her cup was gone from the rack, which meant she had been down before the bell and taken it up with her. Lira sat across from his place with her elbows either side of a bowl of porridge she was not eating. Brom ate for two, steadily, as if somebody had told him he would need it.
 
 "She's been up there since the third bell," said Lira. "Brom heard her on the stair."
 
@@ -38,7 +38,7 @@ It was a sheaf of paper, bound along its edge with tape, thirty-odd leaves. It h
 
 The hand was a copying hand. It was so even that it might have been printed, and it made no letter larger than any other.
 
-"It was under the door when I came up," said Karis without looking round. "At the third bell. Pushed through flat, so it wouldn't crease." She turned a page of the code. "The porter's boy was sweeping this stair at the second bell. He says the wing's teaching assistant came up it with something under his arm, and went down it again without, and wished him good morning on the way."
+"It was under the door when I came up," said Karis. "At the third bell. Pushed through flat, so it wouldn't crease." She turned a page of the code. "The porter's boy was sweeping this stair at the second bell. He says the wing's teaching assistant came up it with something under his arm, and went down it again without, and wished him good morning on the way."
 
 Cael looked down at the sheaf. Thirty-odd leaves. The paragraphs of a paper served at the second bell yesterday, mapped against a code of three volumes, with the history of every section underneath. It would have taken a clerk with a good lamp a week.
 
@@ -58,7 +58,7 @@ Four days to the answer's bones, said Karis. After that, the flesh, and then Bra
 
 He did not ask how Lira was going to keep a whole intake off a set of steps. He found out at noon.
 
-She had gone to Ephram. Ephram, as captain, still held the meal rota the two second-years had drafted on the first night, the one with a column of names and a table chosen for watching how Cael held a spoon. Lira asked him for it. She took it to the common room, crossed out the heading, and wrote a new one above it in her square capitals. *RECORDS HALL STEPS. ONE PAIR AT A TIME. NOBODY SITS. NOBODY ASKS. ANYBODY ELSE IS SENT TO THE FRAMES.* Then she gave it back to Ephram to sign, and he signed it, and pinned it up on the covered walk beside the house's one-line answer from the day before.
+She had gone to Ephram. Ephram, as captain, still held the meal rota the two second-years had drafted on the first night, the one with a column of names and a table chosen for watching how Cael held a spoon. Lira asked him for it. She took it to the common room, crossed out the heading, and wrote a new one above it in her large capitals. *RECORDS HALL STEPS. ONE PAIR AT A TIME. NOBODY SITS. NOBODY ASKS. ANYBODY ELSE IS SENT TO THE FRAMES.* Then she gave it back to Ephram to sign, and he signed it, and pinned it up on the covered walk beside the house's one-line answer from the day before.
 
 By the first bell after noon there was a pair of second-years on the records-hall steps, standing very straight. One was the Mire boy who looked at ceilings. The other was the girl from the short table with her small notebook, and she was writing in it.
 
@@ -112,7 +112,7 @@ The first was Karis's own finding from Greyvane, the long one, the one she had b
 
 "Then they've conceded the clause twice." Karis capped her pen. "Once in their paragraph six. Once by silence in front of these."
 
-The counsel looked at the fastened bundle for a long moment, the way Cael had seen Brom look at a lift before he took it.
+The counsel looked at the fastened bundle the way Cael had seen Brom look at a lift before he took it.
 
 "That's not a rib," she said. "That's a wall."
 
@@ -164,7 +164,7 @@ Then he looked at the table again, very closely, under the lamp. In the margin b
 
 He took it up at the third bell, with the old volume of the Log under his arm.
 
-Karis was already at the long table. She did not look round when he came in. She held out her hand behind her, palm up, the way she had held out the leaf, and he put the renewals table into it.
+Karis was already at the long table. She held out her hand behind her, palm up, the way she had held out the leaf, and he put the renewals table into it.
 
 "Nine days," he said.
 
@@ -176,7 +176,7 @@ He opened the old Log on the table beside her elbow at the evaluation day, and l
 
 "In writing. Bracken objected in writing. She won."
 
-Karis said nothing to that. She laid the renewals table down square, took the whole leaf out of the answer, and drew a clean sheet toward her.
+Karis took the whole leaf out of the answer and drew a clean sheet toward her.
 
 He watched her rule the grid again from nothing, column by column, and thought that a footnote would have cost her a minute. A small number in the cell, a line at the foot, and the nine days were explained. She was going to spend an hour instead. She had told the counsel the day before that she had no hours to spare that week.
 
@@ -204,7 +204,7 @@ He looked at the old leaf, lying out of the answer on its own. The pencil dot sa
 
 She went back to the schedules.
 
-He stood by the table with the old Log under his arm. She had not been testing him. She had used him, the way she used the code's third volume and Prynn's copy and the sheaf with no note on it: as the best source she had on one question. It was the most useful he had ever been to her, and he found he did not mind the method in the least.
+He stood by the table with the old Log under his arm. She had not been testing him. She had used him, the way she used the code's third volume and Prynn's copy and the sheaf with no note on it: as the best source she had on one question. It was the most useful he had ever been to her, and he did not mind the method in the least.
 
 And on the way down the stair he remembered the counter, and the four sentences Seln had spent on him in a queue on the third day of the year. *Standing papers on the provision come up for the ledger's half-year check. Keep the documentation current.* The renewals table was the provision's standing papers, set out in a grid. Whatever went down the hill this week would sit in the registry's file beside the registry's own dates when the half-year check came, and a table that disagreed with them by nine days would have been the first thing the check found. Karis had not heard Seln say it. She had kept the documentation current anyway, because that was what she did with documents.
 

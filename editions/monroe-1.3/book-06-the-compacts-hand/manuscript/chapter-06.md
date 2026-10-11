@@ -50,9 +50,9 @@ Bracken went down the chapter a line at a time with his finger under the print, 
 
 "Not one," he said.
 
-Withrow closed the brown book without another word, put it under her arm, and went back up the stair at her ordinary pace.
+Withrow closed the brown book, put it under her arm, and went back up the stair at her ordinary pace.
 
-Cael sat with it a while before he did anything else. For two years his whole place on the bluff had lived because somebody kept writing it down: a stamp, a renewal, a line in the enrollment book in Bracken's upright hand, every one of them a thing an officer was obliged to do on a day the code named. The provision was alive because it had dates in it. Part two had none. It was the same machine run backward, a thing that stayed done because nobody was ever obliged to undo it. He realized he had never once thought of a date as a kindness, and that it was the kindest thing on any form he had ever signed.
+For two years his whole place on the bluff had lived because somebody kept writing it down: a stamp, a renewal, a line in the enrollment book in Bracken's upright hand, every one of them a thing an officer was obliged to do on a day the code named. The provision was alive because it had dates in it. Part two had none. It was the same machine run backward, a thing that stayed done because nobody was ever obliged to undo it. Cael realized he had never once thought of a date as a kindness, and that it was the kindest thing on any form he had ever signed.
 
 ---
 
@@ -80,7 +80,7 @@ Bracken did not know it. He said so when Cael passed him the leaf. He knew every
 
 Cael ruled a line under his column. A man building a case writes *evidence* on every page, because one day he will be standing in front of a seat with his evidence in his hands. This man had written *discretion*.
 
-*They don't expect to prove anything,* he wrote under the line. *They expect to be agreed with.* Then he passed the column down to Karis. She read it, and laid it with her notes without a word, and he understood that he had done a piece of the night's real work.
+*They don't expect to prove anything,* he wrote under the line. *They expect to be agreed with.* Then he passed the column down to Karis. She read it, and laid it with her notes, and he understood that he had done a piece of the night's real work.
 
 The counsel began at the end.
 
@@ -122,7 +122,7 @@ Karis took the first finding standing, as she took anything that was going to be
 
 The counsel took the second, in the voice of somebody reading out tomorrow's weather.
 
-"Paragraph six." The rule went under it. "*The provision by which the enrollment was made is acknowledged to be valid, and to have survived in law the standardization directive. Neither is put in issue.*" She lifted the rule. "I came up this hill expecting to spend the year proving exactly that. Whether the clause is still law. Whether the directive killed it. Whether a house may still enroll by demonstration on a clause out of the founding text. They've signed it for me, under their own seal, in the sixth paragraph of their first paper." She laid the rule flat on the leaf. "Nobody has ever done that to me before."
+"Paragraph six." The rule went under it. "*The provision by which the enrollment was made is acknowledged to be valid, and to have survived in law the standardization directive. Neither is put in issue.*" She lifted the rule. "I came up this hill expecting to spend the year proving exactly that. Whether the clause is still law. Whether the directive killed it. Whether a house may still enroll by demonstration on a clause out of the founding text. They've signed it for me, under their own seal, in the sixth paragraph of their first paper." She set the rule on the leaf. "Nobody has ever done that to me before."
 
 "Is that good?" said Cael.
 
@@ -164,9 +164,9 @@ Cael put it in the observation notebook as well, since word for word was the onl
 
 *And the warrant on it is his. He warned me in a room where nothing was written down. They answered in a room where everything is, and signed it with his name.*
 
-He looked at the two lines for a while.
+He read the two lines over.
 
-He found he was not frightened. Not yet. He was something nearer cold. It was the feeling he had had on the morning of his Kindling at Denvash, standing in a frame that had nothing to say about him and was perfectly calm about it. The fright would come later, he knew, at the window, in the dark, where there was time for it; not here, where there was work.
+He was not frightened. Not yet. He was something nearer cold. It was the feeling he had had on the morning of his Kindling at Denvash, standing in a frame that had nothing to say about him and was perfectly calm about it. The fright would come later, he knew, at the window, in the dark, where there was time for it; not here, where there was work.
 
 He looked up, and Karis was looking at him across the lamps.
 
