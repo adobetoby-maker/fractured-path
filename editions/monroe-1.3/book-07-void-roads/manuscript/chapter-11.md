@@ -2,6 +2,8 @@
 
 He turned, and saw three things, one after another, and understood them in the wrong order.
 
+Four were left alive, and he could have put a finger on each. There was the pair from the near beach, wading away from Brom's stone, and the hound that had torn his coat, at the near edge of the gravel. And there was the old one with the torn ear, thirty yards off at the tail, which had not stirred.
+
 The first was the pair from Brom's stone. They had left a large silent man kneeling in a river and come up out of the channel onto the gravel, and they passed within ten feet of Cael, and of Lira sitting in the water with a knife; and neither of them turned its head. They went by as carters go by a milestone, and trotted away down the spine of the bar, shoulder to shoulder, toward the tail.
 
 They had stopped asking.
@@ -12,7 +14,7 @@ The second thing was his own hound, the one that had torn his coat. It had lost 
 
 The third thing was Karis.
 
-She stood beside her boulder with the little knife in front of her. Her Ember point had been out for a long time, and she was as dark as any of them; that made no difference to the animal, which remembered. It did not rush her. It walked up to her as a man walks up to a door at which he has knocked before.
+She stood beside her boulder, at the upstream nose of the bar, with the little knife in front of her. The hound that had torn his coat had turned its back on the channel and was crossing the head of the gravel toward her. Her Ember point had been out for a long time, and she was as dark as any of them; that made no difference to the animal, which remembered. It did not rush her. It went as a man goes up to a door at which he has knocked before.
 
 "Karis," said Cael, and ran.
 
@@ -68,7 +70,7 @@ It was all the report he made. Lira had dragged herself up out of the water onto
 
 Down the bar, the three were standing.
 
-Two of them were halfway to the tail, side by side, turned to face the head, and the torn ear was where it had been all evening. They did not come on, or cast about. They stood with their heads level, as a grey thing had once stood beside a white stone while a gate was barred.
+The pair from the near beach were halfway to the tail, side by side, turned to face the head, and the torn ear was where it had been all evening. They did not come on, or cast about. They stood with their heads level, as a grey thing had once stood beside a white stone while a gate was barred.
 
 "They're waiting," said Lira.
 
@@ -200,17 +202,19 @@ Nothing was left to hear at that ford but the water falling over the rock.
 
 "And two that I can't call," said Karis.
 
-He was standing in the river to his ankles. It came to him slowly that the water was cold, and colder about the left leg than the right; it seemed to be going into that leg, as it goes into a split boot. He looked down.
-
-There were two holes in his breeches, one at the outside of the calf and one at the inside, and they matched. The water round that boot was the wrong colour.
-
 "I regret the leg," said Seln.
 
-His teeth were knocking together so that he could hardly bring the words out, and his lips were the colour of slate.
+His teeth were knocking together so that he could hardly bring the words out, and his lips were the colour of slate. He was looking at the river round Cael's boots.
 
-"I was half a count late. The water makes one slow."
+"What leg?"
 
-"You were on the count," said Cael, and then he had to sit down.
+"The left. I was half a count late. The water makes one slow."
+
+Cael took a step toward the gravel, to tell him that he had been on the count, and the left foot did not come with him. It dragged, toe down, like a boot that has lost its heel, and he sat down in a hand's depth of river with the knife still in his fist.
+
+He felt it then, and not before. The water went into his calf, cold, at two places. He put his hand down, and came on a hole in his breeches at the outside of the leg, and its fellow at the inside, where the teeth had met.
+
+"You were on the count," he said.
 
 ---
 
@@ -354,15 +358,23 @@ He went out, and they heard him climb his ladder; and the woman blew out one of 
 
 ---
 
-"It won't keep," said Karis.
+He had Hesk's book on his knee, and the day's heading written, before the woman's lantern had stopped swinging on its nail.
 
-He had thought that she was asleep. Brom was; he had lain down with his sewn arm across his chest and gone out like a candle, as he did everywhere. Seln slept sitting up, inside the coat, and Lira lay on her back with her right foot outside the blanket on its piece of stave.
+Brom was asleep; he had lain down with his sewn arm across his chest and gone out like a candle, as he did everywhere. Seln slept sitting up, inside the coat, and Lira lay on her back with her right foot outside the blanket on its piece of stave. Cael had got as far as one line about what the animals hunted by, and there he stopped with the pencil lifted, since the sentence was not his to write.
 
-"I shall have tidied it by morning," said Karis. "I always do. I want it down as it happened, tonight, and I can't hold the pencil." She turned her bandaged hands over on the straw. "It will have to go in yours."
+"Karis."
 
-He fetched Hesk's book from the peg. She had never read a leaf of it; whatever he showed her of the fragments she saw, and the book she left alone, and she turned her face a little toward the wall as he opened it.
+"I'm awake. You've begun it. I can hear the pencil."
 
-"I shan't look. Read it back to me when it's done. Head it *Finding*, with a capital. Then the day, and the place. Then *K., dictating; C.'s hand.*"
+"It's your finding. I'd sooner it went down in your words than in mine."
+
+She had never read a leaf of that book; whatever he showed her of the fragments she saw, and the book she left alone. She turned her face a little toward the wall.
+
+"Read me what you have."
+
+"*The stillhound follows Path discharge.*"
+
+"It followed a buckle. It *hunts* discharge. Strike that, and begin again. Head it *Finding*, with a capital. Then the day, and the place. Then *K., dictating; C.'s hand.*"
 
 "I've put *by dictation*."
 
@@ -380,14 +392,6 @@ She gave it to him in five sentences, with her eyes shut, and she spoke the stop
 
 *Five: they learn. After three were killed by people who had declared nothing, the rest let such people alone.*
 
-"You've written *follows*, in the first," she said. "I said *hunts*."
-
-"You can't hear which word I've written."
-
-"It was longer. Change it."
-
-He changed it.
-
 "*Not accounted for: a hundred and ten yards. Dusk.*" She was quiet for a little. "I had a line at the foot of the other leaf. About the evidence against."
 
 "That there was none, and you didn't trust it."
@@ -396,7 +400,7 @@ He changed it.
 
 He read it to her from the heading, and she was asleep before he reached the fourth sentence. He finished it anyway, quietly, since she had asked.
 
-Then he wrote his own.
+Then he went back to his own.
 
 *Fifty-third day. Thornwater. The ford, at dusk: five dead, counted by the hold's bowman. Two went down the river and are not counted. They're open.*
 

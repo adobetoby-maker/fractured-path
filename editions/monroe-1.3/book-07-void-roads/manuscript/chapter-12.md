@@ -1,12 +1,10 @@
 # Chapter 12 — Elevens
 
-The leg gave him eleven strides, and he spent the first morning learning that it would not give him twelve.
+By noon of the first day he had chosen his stopping places.
 
-He tried it across the yard, from the barn door to the well. He went out limping a little, with the linen tight round his calf, and counted from habit; and at the twelfth stride the whole muscle shut, as it had shut on a green rock in the dark, and held him where he stood with a goose looking at him. It let go when he had counted twenty, and he went on, and it gave him eleven more.
+There was the corner of the trough, and the well's coping, and a post by the long house door where a hired man might reasonably stand to look at the weather. Each lay ten strides from the last, or a little under. The leg gave him eleven, as it had on a gravel bar in the dark; at the twelfth the calf shut like a fist and held him wherever he happened to be, which was generally among geese. So he had learned to arrive somewhere on the tenth, of his own accord, and to make it look like a choice.
 
-It was forty-four strides from the barn to the well, so that the yard came to four elevens exactly, and he was more pleased by that than the fact deserved.
-
-He did with it what he did with everything, which was to measure the thing and then live inside the measure. He drew water in elevens, and crossed to the long house in three of them and a short one; and by noon he had learned to stop at the tenth stride of his own accord, in some place where a person might reasonably be standing, so that it should look like a choice.
+He did with it what he did with everything, which was to measure the thing and then live inside the measure. He drew water in elevens and carried in elevens, and he had begun to reckon the whole hold as so many of them from the barn door.
 
 "You walk like a man paying a toll," said the steading's woman, going by with a basket.
 
@@ -64,15 +62,15 @@ He had been hurt often enough. He had broken a forearm against a Gold on a stone
 
 Nobody at Thornwater was deciding what his leg meant.
 
-A woman came twice a day with warm water and unwound the linen. She looked at two holes, one on either side of his calf, and said "Dry," or "Wet yet," and bound it up again, and went away to see to her geese. That was the whole of the attention it got. He was a hired man with a bitten leg, and the leg belonged to him.
+A woman came twice a day with warm water and unwound the linen. She looked at his calf, and said "Dry," or "Wet yet," and bound it up again, and went away to see to her geese. That was the whole of the attention it got, for he was a hired man with a bitten leg, and the leg belonged to him.
 
-He drew water. He sat on the well's coping when the count ran out, and kept the notebook that was for other people, since there was a good deal to put in it.
+He drew water, and sat on the well's coping when the count ran out, and kept the observation notebook, since there was a good deal to put in it.
 
-The hold had changed toward them. No one made a speech, for Thornwater made none about anything; he read it instead in small things. There were five bowls on the long board at supper, set down among the others, where on their first stay the crew had eaten at the end. A child of four came across the yard on the second morning, with great care, carrying an egg in both hands, and gave it to Lira, and ran. And the old man in the chimney corner, who had not woken for anything in Cael's hearing, opened one eye when Brom came in under the lintel and moved his feet to make room.
+The hold had changed toward them, though no one made a speech of it, Thornwater making none about anything; he read it instead in small things. There were five bowls on the long board at supper, set down among the others, where on their first stay the crew had eaten at the end. A child of four came across the yard on the second morning, with great care, carrying an egg in both hands, and gave it to Lira, and ran. And the old man in the chimney corner, who had not woken for anything in Cael's hearing, opened one eye when Brom came in under the lintel and moved his feet to make room.
 
 Seln carried sacks.
 
-He had been told that the hold did not feed people for sitting, and he was the only one of the five who could stand on both feet and use both hands. So he carried for all of them. He was not built for it. He went up the ladder with a sack of barley across his narrow shoulders and the expression of a man doing a long sum in his head, forty times in a morning; and at the end of each day he reported to nobody at all how many he had taken up.
+He had been told that the hold did not feed people for sitting, and he was the only one of the five who could stand on both feet and use both hands. So he carried for all of them, though he was not built for it. He went up the ladder with a sack of barley across his narrow shoulders and the expression of a man doing a long sum in his head, forty times in a morning; and at the end of each day he reported to nobody at all how many he had taken up.
 
 "Thirty-eight," Cael heard him say on the second evening, to a rafter. "I am told that the large one did forty-one before noon."
 
@@ -86,7 +84,7 @@ By the third day there was not a knife in Thornwater that would not take the hai
 
 It was on that day that the bowman came down from his platform at noon.
 
-Cael had not known that he ever did. He walked across the yard in his slow dry way with a length of ash in his hand, peeled, as tall as his shoulder, with a fork left at the top of it for a palm to sit in, and he stood it against the trough where Lira's hand would find it. He kept his eyes off her foot. He lifted two fingers from his side, an inch, and let them fall, and went back up his ladder.
+Cael had not known that he ever did. He walked across the yard in his slow dry way with a length of ash in his hand, peeled, as tall as his shoulder, with a fork left at the top of it for a palm to sit in, and he stood it against the trough where Lira's hand would find it. He kept his eyes off her foot; he lifted two fingers from his side, an inch, and let them fall, and went back up his ladder.
 
 "I never asked for that," said Lira, to the yard.
 
@@ -104,17 +102,17 @@ He raised his own an inch.
 
 "Between us we've the pair," said Brom.
 
-Something moved in the thin brown face. It was a long way from a smile, though it had started out in that direction. He nodded once more, and went back across the dark yard to the house; and it was the only thing Cael ever heard him say that was not about a river.
+Something moved in the thin brown face, a long way from a smile, though it had started out in that direction. He nodded once more, and went back across the dark yard to the house; and it was the only thing Cael ever heard him say that was not about a river.
 
 ---
 
 Karis had her boxes down on the third morning.
 
-She had lain awake over it. He knew that because she told him so, at the ladder's head, with the grey light coming in under the thatch.
+She had lain awake over it, as he knew because she told him so, at the ladder's head, with the grey light coming in under the thatch.
 
 "I can't write, and I can't turn a leaf. I've three boxes over my head that I can't open, and a finding in a book I've never read. I shall go out of my mind by noon." She held up her two fists. "I want a table."
 
-There was a trestle in the barn, twelve feet of scrubbed board where the hold mended its sacks. Seln and one of the men brought the boxes down the ladder between them, and she had them set along the board on their sides, with the lids off, in their order: left, and middle, with its one corner worn white, and right. Their open mouths faced her. She sat down on a keg before them.
+There was a trestle in the barn, twelve feet of scrubbed board where the hold mended its sacks. Seln and one of the men brought the boxes down the ladder between them, and she had them set along the board on their sides, with the lids off, in their order: left, and middle, with its one corner worn white, and right. Their open mouths faced her, and she sat down on a keg before them.
 
 It made three shelves in a row, as tall as her shoulders when she sat, with no wall behind them and a barn all round; and a hen walked along the top of the middle one and was removed.
 
@@ -198,7 +196,7 @@ The carter took a scrap of bark out of his hat.
 
 "From the one-armed man, same as the last. You're to read it, and if it's wrong you say so when you're down." He held it out, and then looked at the hands in front of him, and gave it to Cael. "He's said it once already, before I'd my hat on, and he'd the whole meadow standing."
 
-Cael was at the well, on the last stride of an eleven. He read it there, aloud, since one of them could not have held it and one had only a single hand to spare.
+Cael was at the well, on the last stride of an eleven, and he read it there, aloud, since one of them could not have held it and one had only a single hand to spare.
 
 *Stillhound pack, Thornwater ford: cleared. Five confirmed. Crew of five, four injured, none lost. Price paid.*
 
@@ -214,7 +212,7 @@ There was a silence in the yard, and even the geese seemed to feel it.
 
 "I know we did." She shifted her grip on the ash. "I've had a rank read out before, and a result. I never had one that gave my hurts and left out the rest."
 
-Karis had come up at Cael's shoulder to see the bark. She could not take it, and so she read it where it lay in his hand, twice, with her lips.
+Karis had come up at Cael's shoulder to see the bark; she could not take it, and so she read it where it lay in his hand, twice, with her lips.
 
 "*Cleared*, and a colon after it," she said. "He's never used one before, and everything after the colon is what *cleared* cost. And *five confirmed*: he won't write seven, and he won't write that two went down the river, because nobody counted those with a bow; he writes what somebody stood over." She looked up. "The last noun has changed again. *Nothing lost* was casks, and *no losses* was a cart and a mule. *None lost* is us."
 
@@ -222,7 +220,7 @@ Karis had come up at Cael's shoulder to see the bark. She could not take it, and
 
 It was the question the carter had been told to bring an answer to. Cael went through the line again, a word at a time, as he had gone through the other one in this same yard.
 
-There had been a pack, and the ford was clear; they had come up through the stretch in the dark behind a cart, with every frog in the valley creaking. Five had been counted; and he looked at a sling, and a stick, and two bound hands, and felt the linen round his own calf.
+There had been a pack, and the ford was clear; they had come up through the stretch in the dark behind a cart, with every frog in the valley creaking. Five had been counted, and he had only to look about the yard for the rest of it.
 
 "No," he said. "It isn't wrong anywhere."
 
@@ -232,7 +230,7 @@ He led his mule away to the barn.
 
 Cael wrote it that evening in the loft door, with his leg stretched along the boards.
 
-*Fifty-seventh day. Thornwater. Fifth line, in Pike's hand, by the carter. Forty marks, in his box. Earned, fifty-eight.*
+*Fifty-seventh day. Thornwater. Fifth line, in Pike's hand, by the carter. Forty marks, in his box.*
 
 He sat with the pencil lifted, and thought about figures.
 
@@ -260,13 +258,13 @@ Down in the yard Lira was going along the fence on her stick, by herself, slowly
 
 Karis had been awake since four by the clock, thinking about her hands.
 
-The woman had unwound them yesterday and wound them again more thinly. There were two lines across each palm, the upper where she had first taken hold and the lower where she had taken hold again; they would be pink in a month, the woman said, if she left them shut. Karis had inquired how one left a hand shut, and had not been given an answer. She had not set an Ember point since the gravel bar, and she doubted that with these hands she could have said where one would go.
+The woman had unwound them yesterday and wound them again more thinly. There were two lines across each palm, the upper where she had first taken hold and the lower where she had taken hold again; they would be pink in a month, the woman said, if she left them shut. Karis had inquired how one left a hand shut, and had not been given an answer. She had not set an Ember point since the ford, and she doubted that with these hands she could have said where one would go.
 
 So on the fifty-eighth morning she sat on the tail-board of a cart in Thornwater's yard with the calfskin unrolled beside her. She could not hold its corners down, and so Brom had brought four stones from the well's foot, and set one on each, and stepped back with his arm in its sling, looking as pleased as if he had been allowed to carry something.
 
 Cael sat on her other side with her notebook on his knee and her pencil in his fingers. He was the best of her three pairs of hands, for he wrote small and did not argue about a stop.
 
-The grain was moving. Three carts had come in by the east gate at first light, with mules bigger and darker than the Thornwater beast. The people with them were strangers to her, and they gave five bandaged persons in a yard no longer a glance than they gave the geese.
+The grain was moving: three carts had come in by the east gate at first light, with mules bigger and darker than the Thornwater beast. The people with them were strangers to her, and they gave five bandaged persons in a yard no longer a glance than they gave the geese.
 
 She would have liked to know where they came from, and that was a mild way of putting it. There were squares with dots in them on the hide at her elbow, away to the east, and rows of ticks between; and here in front of her stood six or seven people who had driven those ticks with their own wheels.
 
@@ -312,7 +310,7 @@ She was broad, in a wide straw hat, and she was walking past the tail-board with
 
 Karis heard three sentences and no invitation to a fourth.
 
-She went on to the cart with the clouded-eyed man. A small boy of four or five had been sitting on its foot-board, swinging his heels, and she heaved the sack up beside him and climbed after it.
+The woman went on to the cart with the clouded-eyed man. A small boy of four or five had been sitting on its foot-board, swinging his heels, and she heaved the sack up beside him and climbed after it.
 
 Karis's mouth had come open.
 

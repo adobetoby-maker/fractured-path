@@ -112,9 +112,9 @@ Pike looked at five hands, and looked again. He drew the paper back under his st
 
 He blotted it. He did not seem troubled, and he did not make light of it either; he had been asked for a sum and had given the honest state of his working.
 
-Cael watched the feather go back behind his ear, and understood what he had just seen done. That book was thirty years of a single question, which was who had come back, and every crew Pike had ever sent down a road had either proved him right or was not there to prove him wrong. In all that time he had said yes to one hold. This morning he had struck it with his own pen, before two hundred people, and written beneath it the mark of the lowest line on his wall; and if five strokes did not come up from that river, it would not be Teague's name that the meadow remembered beside the forty marks.
+Cael looked at the five strokes drying under a struck name. They were short, and all of a height, and each of them was a person: one who ran, and one who carried, and one who counted, and one who walked every road first. The fifth was himself, who had reached for the paper. If that river kept any of the five, the stroke would stand on the slip all the same, since Pike did not unwrite things.
 
-No crew had ever yet made that book a liar, and its keeper had just set down, in his own hand, the one line that could.
+It was only as the feather went back behind the man's ear that he saw whose hand was on that paper besides theirs. The whole meadow had watched Pike strike a hold and send the bottom of his sheet to do the work of its top. Whatever came up from the ford, or failed to, he would have to stand at this plank and say it, twice.
 
 "Taken," said Pike to the tents, and said the whole slip through again, with that word at the end of it.
 

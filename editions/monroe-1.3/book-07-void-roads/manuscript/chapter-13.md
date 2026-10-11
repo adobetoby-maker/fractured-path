@@ -28,7 +28,7 @@ Karis could not have counted it out. Brom took the purse from her coat, and foun
 
 "You will. I'm telling you what it'll look like when you have."
 
-She had her shoulder to the gate already. Lira had been watching her from the cart's tail with a frown, and Cael knew that frown, for it had been turned on a sheet of sailcloth by a hearth, and on a card at Norhold, and on every list she had ever stood under.
+She had her shoulder to the gate already, and there she stopped pushing.
 
 The woman's eyes went from Brom's sling to Lira's bound foot on the stave.
 
@@ -36,13 +36,15 @@ The woman's eyes went from Brom's sling to Lira's bound foot on the stave.
 
 "There isn't one."
 
+It was Lira who said it, from the cart's tail, loudly and at once, before anybody could be sorry for her. She had called her own faults in a yard in that voice, to be ahead of the coach.
+
 "There's not. They stop inside, where the tiers are."
 
-Lira looked down at the stave.
+The woman said it as she might have said that barley stopped at a certain height on a hill. It was a thing about the ground, and nobody had decided it. One healer walked a route, and was not due; the rest of that trade kept to the country where somebody ranked it.
 
-She did not ask again.
+Lira looked down at the stave, and then at the road, and whatever she thought of that she kept behind her teeth.
 
-"You came up from my ford," she said. "That's what I know of you, and it's what anybody'll know." She put her weight against the gate. "Mind the stretch. It's noon."
+"You came up from my ford," the woman said. "That's what I know of you, and it's what anybody'll know." She put her weight against the gate. "Mind the stretch. It's noon."
 
 It shut, and they heard the bar go across.
 
@@ -170,19 +172,19 @@ Nobody needed to be told who.
 
 The carter had got up quietly and gone to see to his mule.
 
-"At Norhold I lost to a girl that a whole program had built," said Lira. "You were all at the rail. When it was over there was a sheet, with figures on it, and it told me to a tenth of a point how far I was from Silver. I hated that sheet, and I kept it; I've still got it somewhere, in with the certificate." She looked into the flames. "Then on the hill they made a ladder to my height. Nobody had ever made me anything. They built it, and put my name on the bottom rung, and there was a rung for every week after. I walked off it. I paid the whole price for walking off it, and I'd do it again tomorrow."
-
-She was quiet for a little.
-
-"But I knew where I was. Every morning. Iron, Rank One, and I could have told you to a rung how far above it I meant to be."
+"I ran thirty yards of gravel at that ford with nothing in my feet," said Lira. "No Wind. No burst. I caught a dog. I've never run like it. I didn't know I could, and I'm telling you it was the best thing I've ever done on my two legs, and it cost—" She stopped. Her hand had gone toward the stave, and she took it back. "It cost what it cost. And there isn't a person alive who can say whether it was good. There's a man with a bow who lifted two fingers. There's a book that says nobody died."
 
 A stick settled in the fire.
 
-"I ran thirty yards of gravel at that ford with nothing in my feet. No Wind. No burst. I caught a dog. I've never run like it. I didn't know I could, and I'm telling you it was the best thing I've ever done on my two legs, and it cost—" She stopped. Her hand had gone toward the stave, and she took it back. "It cost what it cost. And there isn't a person alive who can say whether it was good. There's a man with a bow who lifted two fingers. There's a book that says nobody died."
+"At Norhold there was a sheet. I lost to a girl that a whole program had built, with all of you at the rail, and when it was over the sheet told me to a tenth of a point how far I was from Silver. I hated it, and I kept it; I've still got it somewhere, in with the certificate." She looked into the flames. "And on the hill there was the ladder. Nobody had ever made me anything, and they made that to my height, with my name on the bottom rung. I knew where I was, every morning. Iron, Rank One, and I could have told you to a rung how far above it I meant to be."
+
+She was quiet for a little.
+
+"I'm not asking for the hill back. I walked off that ladder on my own feet, and I'd walk off it tomorrow."
 
 She raised her head, and she was looking at Cael.
 
-"There's no sheet for it out here. The ranks. So what am I becoming, exactly, if nobody's measuring?"
+"That woman said the healers stop inside, where the tiers are. I've had it going round since her gate. It isn't only healers that stop there. It's the sheets, and the ladders, and the ranks. So what am I becoming, exactly, if nobody's measuring?"
 
 Nobody answered her.
 
@@ -228,7 +230,7 @@ He counted them twice, since eleven days ago he had hardly been able to see the 
 
 It was the middle of the morning on the sixtieth day. They had crossed the wash at first light, with Brom walking wide of the cart and both hands behind his back, and they had come over the saddle slowly. Pike was not at his plank, and the book was not out; a boy at the nearest fire said that he was down at the landing, since the ferry had brought a sack.
 
-So they stood under the long eave, four bandaged people and a fifth, and waited to be paid. Nobody in the meadow came near. But a woman frying dough had stopped with her fork in the air when they came by, and she had not yet gone back to her pan.
+So the five of them stood under the long eave, and waited to be paid. Nobody in the meadow came near. But a woman frying dough had stopped with her fork in the air when they came by, and she had not yet gone back to her pan.
 
 Seln was reading the board.
 

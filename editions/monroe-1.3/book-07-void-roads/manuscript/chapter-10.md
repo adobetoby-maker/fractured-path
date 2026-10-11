@@ -22,7 +22,7 @@ He had watched him go in. It had been off the near beach, a little below the whi
 
 Nothing changed that Cael could have pointed to. A man's head was there on the green water, and then it was a thing that the eye did not care to rest on, like one stone among a great many. Behind eight others the ninth of his own fragments turned over, as a dog lifts its head at a voice it knows. It was Shadow, which had come to him out of that same Path, and he put it down.
 
-If Karis's second clause held, the river was hiding the Path while the Path hid the man. He drifted in under the overhang, where the pool had cut the gravel back, and that was the last anybody saw of him.
+If Karis's second clause held, the river was hiding the Path while the Path hid the man. Seln had drifted in under the overhang, where the pool had cut the gravel back, and that was the last anybody saw of him.
 
 The rest of them were where the charcoal had put them. Brom stood on his stone in the near channel, five yards out, with his left heel against the lip and the bill in his right hand, facing the beach they had come down. Karis was at the bar's blunt head, beside a boulder the size of a loaf, and she had her small knife out; the blade of it shook a little, and her face did not. Cael and Lira had the far landing, where the two green grooves came up out of the water onto the gravel, with one of them on either side.
 
@@ -92,7 +92,7 @@ The yellow went out. She had ended her declaration between two beats of her hear
 
 He watched for what the three would do, with the knife sweating in his hand; and they did nothing whatever. They did not check or lift their heads. They came on, in their line, for the place where the light had been.
 
-He understood it then, and it was the first part of her second clause that he had ever seen with his own eyes. They did not know. They had left dry stones with a declaration fixed in their heads, and the river had shut over their feet, and with it whatever sense they had for a Path; and they were walking to the place as a man crosses a dark room to where he last saw the door.
+He understood it then, and it was the first part of her second clause that he had ever seen with his own eyes. They did not know. They had left dry stones with a declaration fixed in their heads, and the river had shut over their feet, and with it, if she was right, whatever sense they had for a Path; and they were walking to the place as a man crosses a dark room to where he last saw the door.
 
 The grooves came up onto the gravel between him and Lira. There were two yards from his boots to hers.
 
@@ -130,7 +130,7 @@ On his right the other was at Lira in the same way. She had never in her life le
 
 It was the first word that any of them had spoken aloud since the beach. She did not turn her head.
 
-Both of the two were up on the gravel now, and both were looking the wrong way. That was Brom's mark. Cael raised his left fist to the height of his shoulder and shut it twice.
+Both of the two were up on the gravel now, and both were looking the wrong way. That made six, and he placed them once more: the two testers on the bar, the three on the near beach, which had not yet stirred a foot, and the torn ear at the tail. It was Brom's mark. Cael raised his left fist to the height of his shoulder and shut it twice.
 
 Brom did not hurry. He stood on his stone with three grey shapes in front of him across the water, and he rolled his shoulders once, as he did before he lifted anything. Then he declared.
 

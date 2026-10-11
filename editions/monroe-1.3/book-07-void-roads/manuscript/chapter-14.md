@@ -10,11 +10,11 @@ A boy ran with it to the round shed.
 
 "The smith. The smith." He laid that one aside. "The hide-woman's two, from the turf fire, and somebody's paid the carriage. The hide-woman's two."
 
-She came and took it herself. Cael knew her broad dusty back, and the long knife on her thigh. As she turned away she saw four people in linen under the eave, and she stopped, and looked at Cael for a breath with her head a little on one side, as she had looked at him across a wash. Then she tucked her letter into her bodice and went.
+She came and took it herself, and Cael knew her broad dusty back, and the long knife on her thigh. As she turned away she saw four people in linen under the eave, and she stopped, and looked at Cael for a breath with her head a little on one side, as she had looked at him across a wash. Then she tucked her letter into her bodice and went.
 
 There was one for the old man under the ash, who walked up for it slowly and held it as a thing that might be hot, for he had no letters. Pike told him, so that nobody else could hear, to come back at dusk and it would be read to him, and the old man nodded, and carried it away unopened.
 
-The sack was nearly empty. Pike brought out a folded sheet, sealed with plain wax that had no mark in it, and he read the outside to himself and frowned, and read it again.
+The sack was nearly empty when Pike brought out a folded sheet, sealed with plain wax that had no mark in it; and he read the outside to himself and frowned, and read it again.
 
 "This one's not much on it," he said. "*Cael.* And under that, *past the Line.* That's the whole of the direction." He looked over the heads at the meadow, twice. "I've the one Cael."
 
@@ -24,7 +24,7 @@ It took Cael a moment to move.
 
 "There's the one town." Pike held the letter out across the oak. "Every scrap that comes east of the turf fire without a better direction comes to this plank, for there's nowhere else it can stop. Whoever wrote that knew it, or he guessed, and he guessed right."
 
-Cael knew the hand before he had it in his fingers. It was square and upright, with every letter standing by itself, and it had labelled each drawer of a shop in Denvash. He had sent his own letter west on the fourth day with no place on it to answer to, so that it should leave no thread back to an old man with two polite visitors; and the old man had answered anyway, into the air.
+Cael knew the fold. The sheet had been brought into thirds, and the thirds into thirds, so exactly that its edges made one line. He had opened two years of packets made up in that way, each with a little silver in the middle of it, and he turned this one over from habit to feel for the coin. There was none. He had sent his own letter west on the fourth day with no place on it to answer to, so that it should leave no thread back to an old man with two polite visitors; and the old man had answered anyway, into the air.
 
 He walked down to the river with it, in two elevens, and sat on the bank above the gravel bar before he broke the wax.
 
@@ -164,7 +164,7 @@ Seln was gone before light on the sixty-first day. He came back at dusk, and sat
 
 Cael looked at the boots, and then, on purpose, at the fire. Seln had watched him do it, and for the first time in sixty days it seemed to amuse him.
 
-They went out on the sixty-second, slowly, since it was a crew with three good legs. The south road ran level through river meadows, and the leg that had given eleven strides at Thornwater gave twenty now and wanted a shorter rest. Lira would not ride anything; she went the whole way on the ash stick with her mouth shut, and at noon they came to the fork.
+They went out on the sixty-second, slowly. The south road ran level through river meadows, and the leg that had given eleven strides at Thornwater gave twenty now and wanted a shorter rest. Lira would not ride anything; she went the whole way on the ash stick with her mouth shut, and at noon they came to the fork.
 
 It was a halting-ground like the others, a level of beaten earth with a ring of chock-stones, and in the middle of it stood a curb of dry stone as high as his waist. Two posts carried a windlass over it, with an iron crank at one end and no rope on the drum, and the trough beside it had gone green and then dried.
 
@@ -172,7 +172,7 @@ He leaned over the curb, which smelled of wet stone and of nothing else, and he 
 
 There was a spot of candle-grease on the inner edge of the curb, so fresh that the dust had not yet greyed it. On the curb lay a flat stone; and when he lifted the stone he came on a stub of candle beneath it, tied to a long string with a knot at every yard.
 
-He looked round. Seln stood at the edge of the halting-ground with his hands behind him, studying the hills, and Cael put the stone back where it had been.
+He looked round, and Seln stood at the edge of the halting-ground with his hands behind him, studying the hills; so Cael put the stone back where it had been.
 
 "I have a page on this," said Karis.
 
@@ -208,7 +208,7 @@ They let the string run, and it went slack at the tenth knot.
 
 They stirred it, and it was the most foolish-looking work he had ever been paid for.
 
-Brom showed them what to cut. He stood over Seln with the bill and pointed with his chin at this branch of thorn and that. They bound up a faggot as wide as the shaft, and made it fast to the ferryman's rope and the rope fast to the drum. Lira sat on an upturned bucket with both hands on the crank, and wound the great prickly bundle down into the dark and up again, and down, like somebody churning butter in a giant's kitchen, while Cael stood on one leg and took the other side of the handle.
+Brom showed them what to cut, standing over Seln with the bill and pointing with his chin at this branch of thorn and that. They bound up a faggot as wide as the shaft, and made it fast to the ferryman's rope and the rope fast to the drum. Lira sat on an upturned bucket with both hands on the crank, and wound the great prickly bundle down into the dark and up again, and down, like somebody churning butter in a giant's kitchen, while Cael stood on one leg and took the other side of the handle.
 
 "Forty," said Karis. "Light it again."
 
@@ -328,9 +328,7 @@ They stirred the shaft again, and worked it after that in turns of a hundred, by
 
 "It's water. I've been drinking the other kind out of ditches since the Line. This is water."
 
-A carter came up the south fork with two mules while the last bucket stood on the curb. He stopped them at the edge of the halting-ground and stood watching Brom, plainly waiting to learn whether a large young man would drop where he stood. When a full minute had gone by he came and dipped his own cup.
-
-He scratched a wheel on the slip with the point of his knife.
+A carter came up the south fork with two mules while the last bucket stood on the curb. He stopped them at the edge of the halting-ground and stood watching Brom, plainly waiting to learn whether a large young man would drop where he stood. When a full minute had gone by he came and dipped his own cup, and then he scratched a wheel on the slip with the point of his knife.
 
 "The lad that went down for the bucket was mine," he said. "He's not been easy on a ladder since." He looked at the faggot, and at the candle on its knotted string, and let them both go unexplained; and then he watered his mules at the trough.
 
@@ -340,7 +338,7 @@ Pike said the well on the sixty-fourth morning.
 
 "*The well at the south fork. Air cleared, shaft drawn, six stones set. Four marks.*" He said it for the tents, and wrote it, and said it over.
 
-"*Air cleared,*" said Karis. "He asked me what we'd done, and I told him, and he's written it down as though a person cleared air every day of the week." She had the purse between her wrists. "Fifty-two."
+"*Air cleared,*" said Karis. "He asked me what we'd done, and I told him, and he's written it down as though a person cleared air every day of the week." She had counted the four in. "Fifty-two."
 
 Lira had stood through both readings with the stick under her right hand.
 
@@ -357,6 +355,8 @@ Brom had started after her, and Cael put two fingers on his sleeve.
 "She may. She'll get up."
 
 By evening the stick had gone from the wall. He saw it next day under the ash, where an old carter had wedged it beneath his cart's shaft for a prop, and he did not think that the bowman would have minded.
+
+She had been trying the foot without it since the well, a few steps at a time, behind a cart or at the river's edge, wherever she judged that nobody could see. Nothing had mended. The hold's woman had told her how the ankle would be, and it was being so; and to run on it was a risk, which she had looked over as she looked over a draw, and taken.
 
 She ran on the sixty-fifth, at first light.
 
@@ -406,7 +406,7 @@ Seln had drawn the stitches two days before, with Karis's small scissors, and Br
 
 He turned it to the light, and bent the wrist slowly down and brought it back, and nothing parted.
 
-He looked at it for a long time. It was the look that he gave a lock that had opened at the first touch, slow and without pleasure, as if he were waiting to learn what was wrong with it. Then he took up the cloth and wound it on again.
+He looked at it for a long time, with the look that he gave a lock that had opened at the first touch, slow and without pleasure, as if he were waiting to learn what was wrong with it. Then he took up the cloth and wound it on again.
 
 "It's shut," he said.
 
@@ -422,7 +422,7 @@ He looked at it for a long time. It was the look that he gave a lock that had op
 
 Karis held a pencil on the sixty-eighth day.
 
-She did it at their own fire, with all four of them pretending to look elsewhere. The linen was off, and there were two lines across each of her palms, an inch apart, which had gone from red to a raw pink; and she closed her fingers on the pencil a little at a time.
+She did it at their own fire, with all four of them pretending to look elsewhere. The linen was off, and the lines across her palms had gone from red to a raw pink; and she closed her fingers on the pencil a little at a time.
 
 The first thing she did was to take Lira's copy of the finding out of her coat, and to hunt along it for the place where a comma had a dot standing over it, a good way up; and she struck out the dot. Then she laid the pencil down, since it hurt, and looked at what she had done with deep satisfaction.
 
@@ -434,11 +434,11 @@ The first thing she did was to take Lira's copy of the finding out of her coat, 
 
 He wrote the long entry on the sixty-ninth evening, at the boards by the inn door, where the light was. It was the hour at which he had once written that he was free, and he had not gone back to read that page, since there was no need.
 
-He had walked up the saddle road before supper, as he did now every evening, to learn what the leg would say. It was a leg again on level ground, and he could not have told anybody which one had been bitten; but on the hill it gave him nine strides and then shut its fist, and he had stood on the slope with the meadow below him until it let go, and come down.
+He had walked up the saddle road before supper, as he did now every evening, to learn what the leg would say; and he had stood on the slope with the meadow below him until it had finished saying it, and come down.
 
 *Sixty-ninth day. Lowmarch.*
 
-*Six lines in Pike's book. The sixth is a well: air cleared, shaft drawn, six stones set. Earned, sixty-two. In hand, fifty-two. Twelfth of thirteen. The top line is eleven up, and its captain has been in and gone out again on two holds' slips, and has said nothing to us or about us. Pike says that is the ledger.*
+*Six lines in Pike's book, and the sixth is a well. Earned, sixty-two. In hand, fifty-two. Twelfth. The captain at the top has been in and gone out again on two holds' slips, and has said nothing to us or about us. Pike says that is the ledger.*
 
 *Mine: the calf is a leg on level ground and gives nine strides uphill. Lira: no stick since the sixty-fourth. She runs. The ankle bends less, and later; those are her words, and I have not counted since the first run. Brom: shut, not sound, and wrapped. He has carried nothing for sixteen days and I think it is the hardest thing he has done past the Line. Karis: a pencil, yesterday. Seln: nothing to report, which he reported.*
 
