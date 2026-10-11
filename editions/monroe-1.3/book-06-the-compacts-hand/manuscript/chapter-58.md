@@ -266,7 +266,7 @@ Cael looked across it. Seln sat at the far side, a little back from the rest, as
 
 "The wing," said Cael. "This morning. Did you—"
 
-"I was not there to see," said Seln. "I imagine it was noticed. I left the keys where they could be counted." He turned his cup a quarter turn on his knee. "I have filed nothing today. It is the first First-day in fifteen years, and I had expected to mind it more."
+"I was not there to see," said Seln. "I imagine it was noticed. I left the keys where they could be counted." He turned his cup a quarter turn on his knee. "I have filed nothing today. There has not been a First-day like it in fifteen years, and I had expected to mind it more."
 
 "Do you mind it at all?"
 
