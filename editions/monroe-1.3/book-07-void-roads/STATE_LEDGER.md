@@ -1,6 +1,6 @@
 # STATE LEDGER — Book 7: Void Roads (Monroe Jackson 1.3 edition)
 
-This is the entry state for this edition's Book 7. It is built from canon and from the Book 6 close as drafted (B6 Ch23–24), carrying the Book 7 source facts that the opening movement inherits. **Append a dated section after each movement from the surviving prose** (template at the foot). Prose governs plans. Record plan deviations explicitly, and never overwrite canon silently.
+This is the entry state for this edition's Book 7. It is built from the CLOSED edition Book 6 prose, chapters 48–60, with the AFTER MOVEMENT 8 and AFTER MOVEMENT 9 coordinator rulings/CLOSED notes governing the handoff. **Append a dated section after each movement from the surviving prose.** Prose governs plans; coordinator rulings govern any recorded repair. Record plan deviations explicitly, and never overwrite canon silently. [B6-reconciled 2026-10-11: audit A1]
 
 Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript exists yet.
 
@@ -8,7 +8,7 @@ Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript ex
 
 ## 0. Calendar and age
 
-- **Now:** the second day past the Registry Line, at the switchback-shelf camp above a valley with no name (B6 Ch24). Book 7 counts days *past the Line*.
+- **Now:** the second day past the Registry Line, at the switchback shelf above a valley with no name. This is the second camp past the Line and the first fire past it (edition B6 ch59–60). Book 7 counts days *past the Line*. [B6-reconciled 2026-10-11: audit A1, D4, N1]
 - **Book 7 runs:** day 2 → day 131. Fixed days the prose and Book 8 depend on:
   - day 4: the ford, where the last westbound courier takes two letters
   - day 9: Lowmarch
@@ -50,31 +50,35 @@ Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript ex
   - day 130: the ferry's last run
   - day 131: Oryn's letter (Book 8 Ch1 opens here)
 - **Cael:** **eighteen** until the 102nd; **nineteen** after the middle of that day's meal. No other birthday in this book.
-- **Seasons:** late summer into the back of autumn, with first snow on the 129th. The mail ferry runs monthly: inbound on about the 60th and the 91st; outbound on the 102nd; the last run on the 130th.
+  - **[Coordinator note 2026-10-11 — the birthday.]** Day 102 past the Line stands. Never set the birthday beside a season name, a month order, or any count of days or months back to the last birthday or to Book 6's year (OWNER-pending #42/#48: the series calendar is the owner's to rule). "Nineteen" is stated; the interval is not. [B6-reconciled 2026-10-11: coordinator O6]
+- **Weather/road clock:** warm-road days give way to hard-cold days; first snow falls on the 129th. Mail-ferry schedule: inbound about the 60th and 91st; outbound on the 102nd; last run on the 130th. [B6-reconciled 2026-10-11: audit A2]
 - **Road times (prose, fixed):** Lowmarch ↔ Thornwater two days; Thornwater → the Fallow rise two days; Lowmarch → Oxhollow six days (north-west); Lowmarch → Millrace one day south on the Stair road; Millrace's fork → the Stair's line the same afternoon; the Stair → the Hall three days along the bearing; the Hall → the fork one day; the fork → the fourth site a day and a half; the fourth site → Lowmarch six days; the fourth site's gap → Thornwater four days.
 
 ## 1. Cael — body (entry)
 
 | Item | State at entry | Notes for drafting |
 |---|---|---|
-| General | Healthy; walked fit from the road east | No injury open |
-| Left forearm | The Crown-yard bruise, "the colour of a bad plum," a week from gone (B6 Ch24) | Gone by about the ninth day; no mention needed |
+| General | Healthy; walked fit from the road east | No injury open; Crown-yard left-forearm bruise one week from gone; ten-count headache/inability-to-eat bill cleared on the road [B6-reconciled 2026-10-11: audit D3] |
+| Left forearm | The Crown-yard bruise, "the colour of a bad plum," a week from gone (edition B6 ch58, ch60) [B6-reconciled 2026-10-11: audit D3; stale pointer retargeted by F-rerun F2.3 basis — the quoted phrase is the source edition's, not verbatim in the edition] | Gone by about the ninth day; no mention needed |
 | Calf / ribs | Whole | Calf bitten at the ford (day 53). Ribs broken on the bench (day 78). See BOOK_MAP §8 |
-| Attention | Counting watchers out of habit; the count is zero | The habit kept, its reason gone ("the habits stay"; B6 Ch23) |
+| Attention | Counting watchers out of habit; the count is zero | The habit kept, its reason gone: the last watcher turned back at the provincial marker (edition B6 ch59) [B6-reconciled 2026-10-11: coordinator ruling] |
 
 ## 2. Cael — fragments and capabilities (entry)
+
+> [B6-reconciled 2026-10-11: coordinator ruling] The Source column for rows 1–5 and the anomaly keeps SOURCE-edition chapter numbers, as a tool reference only; the edition's chapters differ and authors do not open the source. Rows 6–9 cite edition chapters.
+
 
 | # | Fragment | Source | Status | Cost / limit (as the log prices it) |
 |---|---|---|---|---|
 | 1 | Wind-adjacent | Lira (B1 Ch15) | Integrated | Evasion framework and burst. **Fixed one-count landing lock**, unshortened. Rule: never spend a burst near an opponent whose single hit he cannot price |
 | 2 | Pressure-adjacent | Feryn (B1 Ch17) | Integrated | Gathers over most of a breath; visible; force comes back off anything that redirects. **Audio rule: in any spoken list, "the Bronze from Ardenmere," never Feryn's name beside Oryn's** |
-| 3 | Iron-adjacent read | Brom (B2 Ch13) | Integrated | About a pace and a half; mass and vector, never intent; the cheapest and quietest thing he owns. Book 7's workhorse for floors and ground |
+| 3 | Iron-adjacent read | Brom (B2 Ch13) | Integrated | About a pace and a half; mass and vector, never intent; the cheapest and quietest thing he owns. Book 7's workhorse for floors and ground. At Gold weight the read chooses air or body/ground, never both; a Storm lane in the air suspends the body/ground read until the air read is relinquished. [B6-reconciled 2026-10-11: audit B3] |
 | 4 | Compression-adjacent | Reydan (B2 Ch24) | Integrated | At contact; force through his frame into the ground; the bill comes later (forearm, or ribs) |
 | 5 | Ember-adjacent | Karis (B3 Ch13, directed) | Integrated | One ignition point; contact-adjacent; one channel |
-| 6 | Shadow-adjacent (Bronze) | Seln (B4 Ch13) | Integrated; **sealed** | Presence-suppression and movement-masking. **Costs from waking; drifts at dusk.** Sealed from any witness who could carry it west (a defector's tradecraft in his hands would burn its source). **Book 7 uses it exactly twice:** the Ring (ten strides; circle and Oryn only) and the Stair ascent (unseen) |
-| 7 | Storm-adjacent (Gold-equivalent) | Daeva (B5 Ch21) | Integrated; stability flag cleared B6 Ch1 | Pressure-differential and corridor-seeding at short range; the heaviest thing he owns; resettles round any new arrival |
-| 8 | Anchor-adjacent (Silver-equivalent) | the unnamed Compact operative, "the hand with no face" (B6 Ch13) | Integrated | Fixed-point binding and lattice-perception. **Idle state: wants doorways** (since the Ostrand road). Can release a laid point from inside (B6 Ch13) |
-| 9 | Blade-adjacent (Iron-equivalent) | Ephram (B6 Ch20) | Integrated | Edge-declaration and line-reading; engagement field *earnest — non-hostile* |
+| 6 | Shadow-adjacent (Bronze) | Seln (edition B4 ch34) [B6-reconciled 2026-10-11: audit C1] | Integrated; **sealed** | Presence-suppression and movement-masking. **Costs from waking; drifts at dusk.** Sealed from any witness who could carry it west (a defector's tradecraft in his hands would burn its source). **Book 7 uses it exactly twice:** at the Ring, unseen and unattributable to Oryn, and on the Stair ascent, unseen by the rim. [B6-reconciled 2026-10-11: audit B2] |
+| 7 | Storm-adjacent (Gold-equivalent) | Daeva (edition B5 ch56) | Integrated; stability flag cleared in edition B6 M1 | Short-range pressure-differential/corridor lane. At Gold weight the read is air or body, not both. Lane bills: ten / ten / twelve counts, clean at eleven / eleven / thirteen; untested past three. After-effect: everything answers a beat late — bill, not flag. Heaviest fragment; resettles round a new arrival. [B6-reconciled 2026-10-11: audit A4, B3, C1] |
+| 8 | Anchor-adjacent (Silver-equivalent) | unnamed Compact operative, “the hand with no face” (edition B6 ch31/ch33/ch38) | Integrated | Fixed points, lines and a cage; purposeful unbinding once; uncommanded twelve-second doorway hold once. Perception sure at about ten feet, faint at twelve, absent at fourteen. Idle state wants doorways. Reach, rate and price otherwise unknown. [B6-reconciled 2026-10-11: audit A5, B1, C1] |
+| 9 | Blade-adjacent (Iron-equivalent) | Ephram (edition B6 ch54) | Partial at acquisition (the notice reads *Integration: partial*); still settling on the road east, asking *Edge?* of every arris (edition B6 ch58, ch60) | Edge-declaration and line-reading; engagement field *adversarial, earnest — non-hostile*. [B6-reconciled 2026-10-11: coordinator ruling] Notice exact at edition B6 ch54:145-152; first integration pull is the yard-gate lintel, named and quieted. [B6-reconciled 2026-10-11: audit D1, C1] |
 | — | Tide-adjacent anomaly | B2 Ch19 (session nine) | **Not a fragment; not counted** | "Still open. Still real. Patience." Inventories only until the tenth fragment exists |
 
 **Count at entry: nine confirmed + one anomaly.** Planned change: the tenth, **Tide-adjacent (Iron)**, on day 100 (M5); BOOK_MAP §7.
@@ -83,19 +87,21 @@ Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript ex
 
 **Method (not a fragment):** the observation at full depth (claim / evidence / ruling); the catalogue; the log's inventory, done at the start of anything; **the hold**, a sequence of small refusals, taught in M1.
 
-**What the system sees:** [SHATTERED]. The file reads *Active non-compliance. Observation priority escalated.* Asset-restriction is *pending jurisdiction* and executes west of the Line on showing paper. The Suppression-Advisory Watch is at Level 4, unchanged (origin: Book 6's matter; untouched here).
+**What the system sees:** [SHATTERED]. The file reads *Status: active non-compliance, observation priority escalated.* [B6-reconciled 2026-10-11: audit C3] Asset-restriction is *pending jurisdiction* and executes west of the Line on showing paper. The Suppression-Advisory Watch is at Level 4, unchanged (origin: Book 6's matter; untouched here).
 
 ## 3. Companions (entry)
 
 | Name | Path / standing | Body | Want | Knows |
 |---|---|---|---|---|
 | Lira | Wind; Iron R1 formal (survives the resignation) | Uninjured | "To become something they haven't seen yet" — and there is no ladder out here | The mechanism since B1 Ch16; has read the log |
-| Brom | Iron Skin (always in full); Copper formal for good; continental Copper champion | Uninjured | Worth without a number | The mechanism; has read the log since B2 |
-| Karis | Ember; ranking forfeited (was Iron R3) | Uninjured | Primary sources; a finding that outlives her | The mechanism; sees demonstrations, not the log; holds copied [UNBOUND] passages |
-| Seln | Shadow; Bronze; left the Compact in form (B6 Ch22); late thirties | Uninjured | First honest employment; not to be asked for his report | The mechanism since B6 Ch15; the case's contents (two centuries of the machine's maintenance records) |
+| Brom | Iron Skin (always in full); Copper formal for good; continental Copper champion. He left the last Velmere letter sealed and unopened on his table at Halcenvane, with the unsigned finding; he carries no family letter east (edition B6 ch56). [B6-reconciled 2026-10-11: coordinator O1] | Uninjured | Worth without a number | The mechanism; has read the log since B2 |
+| Karis | Ember; Iron R3 retained; research standing, budget/allocation, annex, archive privileges and restricted-collection access lapsed [B6-reconciled 2026-10-11: audit D2] | Uninjured | Primary sources; a finding that outlives her | The mechanism; sees demonstrations, not the log; holds copied [UNBOUND] passages |
+| Seln | Shadow; Bronze; fifteen years' service; left without notice or form; four keys surrendered | Uninjured | First honest employment; not to be asked for his report | Mechanism known since edition B6 ch37; recognized that Cael kept his file; “twice more” count remains two; knows the case's contents [B6-reconciled 2026-10-11: audit B5, C2, D2] |
 | Oryn | Tide; Iron R4 (PROVISIONAL) | — | — | **Not met.** First on the page on day 80 (M3) |
 
 **Who knows the mechanism:** Cael, Lira, Brom, Karis, Seln. Nobody else. Oryn becomes the sixth on day 100.
+
+**Who knows the cache/falsification history:** the five travelers plus Vastin. Vastin does not know the integration mechanism. Ephram, Withrow, Bracken, Ilsev, Havel, Rooke, Gault, Jent and the public know neither. [B6-reconciled 2026-10-11: audit N6]
 
 ## 4. Knowledge — what the party knows and does not (entry)
 
@@ -113,11 +119,12 @@ Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript ex
 
 ## 5. Resources and objects (entry)
 
-- **The Power Log** (in Hesk's satchel; about a third of its leaves left) and **the observation notebook**.
-- **Karis's three boxes** (left, middle, right; the middle with a corner worn white). They hold the field archive, the registry's printed continental sheet, the masonry chips (registry-era, standardization-era, pre-standardization, founding-era) and **the Ternhall straightedge** (brass, folding).
-- **Seln's locked case** on its strap: the cache, carried on every road, never off him, **never opened in this book**.
-- **The cart and the horse** (B6 Ch24). **C1 default:** sold in Lowmarch's first week. The sale and the rest of the B6 purse become a sealed reserve the crew does not live on. The log's "in hand" counts only the board purse. *Owner ruling pending.*
-- **Two letters**, to Hesk and to Vell, written at the shelf and handed to the westbound courier at the ford on day 4.
+- **Hesk's satchel** (Cael's): the current Power Log (about a third of its leaves left); the full old volume, with Hesk's letters under its front board; the observation notebook; and the two held no-return-address letters to Hesk and Vell. [B6-reconciled 2026-10-11: audit D3, N3; coordinator O1 (the Velmere letter is not carried)]
+- **Karis's three numbered boxes** (left, middle, right; middle with one corner worn white): the field archive, masonry chips, registry printed continental sheet and Ternhall brass straightedge. The printed sheet is marked *ridge* and *Shelf; a pine; water at 36*. [B6-reconciled 2026-10-11: audit D3, N4]
+- **Lira's route book:** a separate road record, marked *Ridge: one horse, three boxes by hand. Scree: by hand again. Shelf.* [B6-reconciled 2026-10-11: audit N4]
+- **Seln's locked case:** the cache. He brought it east in his own post satchel; since the shelf it rides under the cart's canvas with the three boxes (edition B6 ch60). Once the cart is sold in Lowmarch's first week (#23) it goes back on its strap and is on him on every road. **Never opened in this book.** [B6-reconciled 2026-10-11: coordinator ruling]
+- **The cart and the horse** (edition B6 ch56, ch60). **C1 default:** sold in Lowmarch's first week. The sale and the rest of the B6 purse become a sealed reserve the crew does not live on. The log's "in hand" counts only the board purse. OWNER #23 governs: sell cart and gelding in Lowmarch's first week; put the sale and remaining Book 6 purse into a sealed reserve the crew does not live on. [B6-reconciled 2026-10-11: audit D3, N7]
+- **Letters:** Hesk and Vell, written at the shelf, no return address, held for the day-4 westbound courier. Daeva's no-return-address reply already went west at the first water beyond the Line. [B6-reconciled 2026-10-11: audit D3, D5]
 - **No weapons of note** beyond knives, Brom's bill-hook and Lira's long knife. **No crossbow** until Oryn hands hers to Brom at the Ring's stone (day 96).
 - **Money at entry:** the board purse is empty (nothing earned). The Book 6 purse is as C1 rules.
 
@@ -147,7 +154,7 @@ Planning seat: Claude Opus 5.5 (`claude-opus-5-5`), 2026-10-01. No manuscript ex
 
 ## 6. Relationships and open threads (entry)
 
-- **The found family's grammar on new terrain** (B6 Ch24): Brom load-balances; Karis indexes; Lira maps; Seln walks every approach first and now says what he finds; Cael catalogues and keeps the log. Watches: two of four hours, never Seln and Brom on the same one.
+- **The found family's grammar on new terrain** (edition B6 ch58–60): Brom load-balances; Karis indexes; Lira maps; Seln walks every approach first and now says what he finds; Cael catalogues and keeps the log. Watches, as Seln taught them in the orchard and Lira keeps in a ruled table: two watches of four hours, two to a watch, the fifth sleeps through, and the fifth changes each night. The rota is not set aside for anyone's judgment, Seln's included (he lost that argument at the shelf). [B6-reconciled 2026-10-11: coordinator ruling]
 - **Ephram** at the academy above Ostrand. He stayed, and his absence is noted without grief. One letter in this book.
 - **Hesk** in Denvash. Letters only. In this book: the grandmother who crossed the Line, and his straightedge.
 - **Vell** in Ardenmere. One letter in, one out. "The session still stands" stays unexplained.

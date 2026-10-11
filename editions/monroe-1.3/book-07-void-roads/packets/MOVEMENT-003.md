@@ -9,6 +9,8 @@
 - POV: Cael ≈34,200. **Lira cutaway ≈1,800** (day 78, the ledge: the burst her body chose before she did; "That was me. The loud thing."). **Oryn cutaway ≈2,600** (days 84–92: out of Oxhollow's gate north on her route, the carter's hand she owed, the child three stops on, the patient she wants to read whole; she decides to put a day on the route; it ends before Thornwater). **Teague cutaway ≈1,400** (day 84, Oxhollow's ford at dusk: four sentences priced before he says them).
 - Formula load: progression vocabulary ≈78 per 10k (Tide taught in full; the herd's derived sense; tiers). ≈17 growth beats. Supporting beats for Lira, Brom, Karis, Seln, Oryn, Teague, Pike.
 
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B6-reconciled 2026-10-11: coordinator O3]
+
 **Read before drafting:** B7 source `chapter-05.md`, `chapter-06.md`, `chapter-07.md`; `BOOK_MAP.md` §5 (Oryn and Teague windows), §7 (Tide), §8 (stampede), §10, §12 C7–C8; `STATE_LEDGER.md` (Movement 2 append).
 
 ## Where we enter

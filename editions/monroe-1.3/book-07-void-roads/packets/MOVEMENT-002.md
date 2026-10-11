@@ -9,11 +9,13 @@
 - POV: Cael ≈32,800. **Lira cutaway ≈1,800** (day 53, the bar at dusk without Wind: fast, with nothing at the end of it, and the ankle). **Karis cutaway ≈1,400** (day 58, the cart-yard: "everybody knows", and the cost of not asking).
 - Formula load: progression vocabulary ≈82 per 10k (discharge, declaration, Iron Skin as a shout, the lattice point, the seal restated). ≈15 growth beats. Supporting beats for Lira, Brom, Karis, Seln, Pike, the steading's woman, the bowman.
 
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B6-reconciled 2026-10-11: coordinator O3]
+
 **Read before drafting:** B7 source `chapter-03.md`, `chapter-04.md` (and `chapter-05.md` lines on days 60–70); `BOOK_MAP.md` §7 (first mover; deployment count), §8 (ford allowance), §9 (Reader Standard: the ford witness), §10; `STATE_LEDGER.md` (Movement 1 append).
 
 ## Where we enter
 
-The second morning after the wall (day 51). Teague's crew went out at the previous dawn on the autumn road and is a week away. The five are thirteenth of thirteen with about ten marks, sleeping in the meadow. Nobody is hurt. Karis holds one word, *stillhound*, underlined.
+The second morning after the wall (day 51). Teague's crew went out at the previous dawn on the cold road and is a week away. [B6-reconciled 2026-10-11: audit A2] The five are thirteenth of thirteen with about ten marks, sleeping in the meadow. Nobody is hurt. Karis holds one word, *stillhound*, underlined.
 
 ## What this movement is for
 
@@ -34,7 +36,7 @@ The country's first rule, learned in the body and paid for in four of five, and 
 - **Deployment since the Line: one** (the ford burst), from day 53 onward. No other fragment use, private or public. **Shadow unused.**
 - Quiet ground stays three sentences from a carter's wife. Nobody asks Pike or anyone else. No healer or Tide practitioner appears; "the nearest walks a route and she's not due" is the only reference.
 - The ankle never gets a healer in this movement, and it is never mended in this book.
-- Teague is absent: on the autumn road, then back and out again on hold slips. No meeting.
+- Teague is absent: on the cold road, then back and out again on hold slips. No meeting. [B6-reconciled 2026-10-11: audit A2]
 - Karis's hypothesis becomes a *finding* only after the fight. It is entered in the log in his hand at her dictation.
 
 ## What the author owns
