@@ -45,6 +45,9 @@ This is the book's entry state from the CLOSED Monroe 1.3 Book 7 manuscript, chi
 
 **The Compact knows:** quiet ground exists and stops Arbiters; the Fallow completion report identifies the crew; the Stair rim saw a declaration; a clerk's packet says the crew kept the kit. It does not know that Cael's fragments work inside.
 
+**He does not know:** that the index is a grade; the Architect; Treswick's archive or Cleon; anything Vastin carries; that instruments will read wrong in his hands. The last is discovered on the 168th (Book 7 ends with the instruments reading TRUE in his hand; Book 8 Ch1 owns the first hair). [B7-reconciled 2026-10-11: coordinator ruling] (restored: entry content the amendment's replacement had dropped)
+- The faceless faction has reached twice: on paper (a completion report naming the crew that walks out) and in person on the Stair's rim. Book 6's sentence from Vastin stands: "I knew the system was imperfect. I didn't know it was designed to be." [B7-reconciled 2026-10-11: coordinator ruling]
+
 **Terminology:** `the Quieting` is the process at quiet ground, not a place. `[UNBOUND]` is a historical stratum-limit word, not a current classification. `the still place` is Cael's old private log label for the non-flowing location in him; it is not the Quiet and not a fragment. `the Compact` is the institution; do not use it as a new name for the faction or the Quieting.
 
 ### Resources and accounts [B7-reconciled 2026-10-11: amendment 15]
