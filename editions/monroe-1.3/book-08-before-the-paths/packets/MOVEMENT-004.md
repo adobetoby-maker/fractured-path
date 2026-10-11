@@ -6,6 +6,9 @@
 - Chapters: 20–26 (7 chapters) → `manuscript/chapter-20.md` … `chapter-26.md`
 - Word budget: ~34,000
 - Owner names: no new names. The clerk stays unnamed ("do not name"). No new hold names on Oryn's route; use Oxhollow or none.
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-07.md`, `chapter-08.md` and `chapter-09.md`.
   - The previous ending is this edition's `manuscript/chapter-19.md`.

@@ -5,7 +5,10 @@
 - Author: Opus (Claude Opus 5.5)
 - Chapters: 54–60 (7 chapters) → `manuscript/chapter-54.md` … `chapter-60.md`
 - Word budget: ~36,000
-- Owner names: no new names. **The young one's name is said once, in the stream-bed, and is never written.**
+- Owner names: no new names. **The young one's name is said once, in the stream-bed, and is never written.** [OWNER-pending #54]
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-21.md`, `chapter-22.md`, `chapter-23.md` and `chapter-24.md`.
   - The previous ending is this edition's `manuscript/chapter-53.md`.
@@ -23,20 +26,20 @@ The book's cost, then its answer. The pass takes a life that did not have to be 
 Consequential turns and promises:
 - **The pass (306th; ~5,500, developed; BOOK_MAP §8).**
   - Seln's reconnaissance. "It's through." Cael draws it and tells the doctrine to Teague's four, once: "Behind it. Noted?" / "Noted." The young one nods with his whole head.
-  - **The tall woman speaks to the six** for the first time in a year: "And then?"
+  - **The tall woman speaks to the six** for the first time [B7-reconciled 2026-10-11: amendment 27]: "And then?"
   - The wall goes up as a lean-to slant. Brom's forearm is bolted before it is up.
   - The pine and the stack come down the plane and close the mouth behind them. The scree is swept clean, and Seln climbs it.
-  - The broad man is hit at the slant's high edge. **The young one goes out a stride to drag him and is killed by the sixth volley.** Oryn's hands are on him, and come off with nothing done. Vastin cannot move. The broad man says the name, once.
+  - The broad man is hit at the slant's high edge. **The young one goes out a stride to drag him and is killed by the sixth volley.** Oryn's hands are on him, and come off with nothing done. Vastin cannot move. The broad man says the name, once. [OWNER-pending #54]
   - Seln goes over the lip at the seventh volley. **Cael's first use of Force** on the second stack's brace, taking it along the shelf. The recoil stops in the ribs.
   - Teague takes the stair left-handed. The tall woman reverses her spear. The team breaks east along the ridge; none taken.
   - Vastin goes down. Karis sits with her bound hand on his shoulder. Teague kneels by his own dead. **"A wall keeps everyone behind it, and one of mine wasn't."** At the far mouth Cael understands that the line was not drawn in ink.
 - **Burial and the plain's edge (306th).** Teague's crew builds the cairn in their own order. The six carry at his leave. Lira and Seln recover the mule by the ridge path. **Eleven.** Oryn: "Ribs. May I?" / "Yes." **"That's a line. That's not yours." / "It's mine now."** No term tonight.
-- **The still place, read as made (~3,000).** He recalls the warning by heart. Then **the twelfth turned inward on purpose**: still; set; *bones*; *a floor with nothing built on it*; *an instruction with no language*. "The same kind of thing, to that instrument, as the sites were to Cleon's." He tells no one, not Lira, not Oryn, not Karis. The Arbiter is unchanged. **The instruments read wronger**: the cord a stride short, the edges a hair and a half to two out. The trend is up and he draws no line. **The log, verbatim** ("the whole year").
+- **The still place, read as made (~3,000).** He recalls the warning by heart. Then **the twelfth turned inward on purpose**: still; set; *bones*; *a floor with nothing built on it*; *an instruction with no language*. "The same kind of thing, to that instrument, as the sites were to Cleon's." He tells no one, not Lira, not Oryn, not Karis. The Arbiter is unchanged. **The instruments read wronger**: the cord a stride short, the edges a hair and a half to two out. The trend is up and he draws no line. **The log, verbatim** ("the whole year"). [OWNER-pending #58]
 - **The court (307th; ~6,000).** It lies low on the plain, and the rock is worn to the floor for a mile. The stumps. **The pacing: 159 cords**, Lira on the line, 1,012 across, sharp and perfect. The cuts are deeper, there is a stratum under everything, and this is the first cut: "The others are copies." The bearing ends, with no sixth site. The log is written standing. The council: the same three sentences as the crest, and one more.
 - **At the line (dusk).** Every sigil goes dark at the same stride. Lira: "Right." Brom prices the stump. Karis: "It's the first one." Seln gives the count. Vastin: "This is where they drew it." Oryn steps in one stride and back: "Nothing. Everything, round it. Same as you." It goes unanswered. Teague steps in one stride and back: "Field's mine. This isn't field." The turning begins. **The fixed exchange, then "Wait here."**
 - **The centre.** 506 strides. At a hundred strides, the twelfth is turned on the floor: the same reading. The eyes pay. **No edge. No seam.** "Not the Quiet." "Not a fragment." "The same kind of made." He fit. It was not an accident. **The third sentence stays unsaid.** He counts the strides back.
 - **The line again.** Oryn: "May I?" / "Yes." "The same finding." Lira: "Well?" / "I'll tell you on the road. If there's road." He tells nobody what the centre felt like and gives them the count instead. "Twenty-nine tomorrow." / "Thirty's the month."
-- **The ledger, the letter and the dawn (307th night–308th), verbatim.** Teague: "Next spring … My crew comes." Oryn: "The day I have to." … "Spring. Bring the map. Lie still when I say." "Six. Six and no mule." Vastin is unadmitted. "West." **Closing prose, verbatim.**
+- **The ledger, the letter and the dawn (307th night–308th), verbatim.** Teague: "After the next thaw … My crew comes." [B7-reconciled 2026-10-11: OWNER-pending #48] Oryn: "The day I have to." … "After the thaw: bring the map, and lie still when I say." [B7-reconciled 2026-10-11: OWNER-pending #48] "Six. Six and no mule." Vastin is unadmitted. "West." **Closing prose, verbatim.**
 
 **Physical challenge:** the pass (the book's major fight), the burial, the ridge path, and the pacing as a physical task.
 **Cutaways (~5,800):** Seln, ~1,800, on the ridge with Lira to recover the mule: the swept scree below, the dead pine. Oryn, ~2,000, the night after the first death under her hands. **She has not heard the leaf. No cutaway at the court.** Vastin, ~2,000, at the court's rim at night: the line he never asked about. **He is unadmitted and not asking. There is no hint of Book 9's request.**
@@ -50,7 +53,7 @@ Consequential turns and promises:
 - Every reading has consent: the montage, the ribs, and after the centre (Gate 27).
 - The death is brief and not graphic. Its cost carries: eleven, the gap where a fourth stood, and Teague one short and not saying the number. Nobody strikes a retreating opponent.
 - Vastin does not ask and is not asked; there is no vote. Oryn has not heard the leaf. Cael is nineteen.
-- Count Oryn's days past her road from the cairn (§12 C3). The letter's "Tell Lira's family I said so" stays verbatim (§12 C11).
+- Count Oryn's days past her road from the cairn (§12 C3). The letter's "Tell Lira's family I said so" stays verbatim (§12 C11). [OWNER-pending #55]
 
 ## What the author owns
 

@@ -178,7 +178,7 @@ Cael thought of a mile of grass, and of nine hands put down at every stride, and
 
 ---
 
-Karis had written through the whole of it, and when he had done she turned the leaf back to its head.
+Karis had written through the whole of it, and when Seln had done she turned the leaf back to its head.
 
 Cael knew the leaf, for it was the one with the noun on it, underlined once, and beneath that five counts and a distance, and she had carried it in her coat for nine days. It was a good deal fuller now than when he had last been shown it; she had ruled a line across under the *110*, and below the line her small exact hand went on to the foot of the page.
 

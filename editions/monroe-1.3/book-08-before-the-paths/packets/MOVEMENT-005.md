@@ -6,6 +6,9 @@
 - Chapters: 27–33 (7 chapters) → `manuscript/chapter-27.md` … `chapter-33.md`
 - Word budget: ~35,000
 - Owner names: no new names. The broker's factor and the six attackers stay faceless and unnamed.
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-10.md`, `chapter-11.md` and `chapter-12.md`.
   - The previous ending is this edition's `manuscript/chapter-26.md`.
@@ -36,7 +39,7 @@ Consequential turns and promises:
 - **Costs and the acquisition.** Karis's left hand is cut on a step's edge. Brom binds it with thread, a strip of shirt and his teeth, because no healer inside the gate would put hands on it. Vastin is spent past the road and the knee goes again. **The Iron-Wall notice renders, verbatim.** "I put the wall in front of it anyway. I'd like that entered" / "It's entered." **Not told.** The faction's limit is entered as a finding. **The log, verbatim.**
 
 **Physical challenge:** the alley (a major fight) and Brom's cart.
-**Cutaways (~4,500):** Seln, ~2,000, on the night walk: the roof, the cache's weight, the registry's door, deciding nothing. **The contents stay unknown.** Karis, ~2,500, in the decipherment: her method, her refusal to guess, the letters coming one by one. **The leaf is not readable in this movement.**
+**Cutaways (~4,500):** Seln, ~2,000, on the night walk: the roof, the locked case's weight [B7-reconciled 2026-10-11: amendment 23], the registry's door, deciding nothing. **The contents stay unknown.** Karis, ~2,500, in the decipherment: her method, her refusal to guess, the letters coming one by one. **The leaf is not readable in this movement.**
 **Development:** about 15 Cael beats. Supporting: Vastin 3, Brom 2, Seln 2, Karis 2, Cleon 2, Lira 1.
 
 ## What must remain true / withheld

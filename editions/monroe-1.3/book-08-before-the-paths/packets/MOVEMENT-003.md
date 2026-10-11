@@ -6,6 +6,9 @@
 - Chapters: 13–19 (7 chapters) → `manuscript/chapter-13.md` … `chapter-19.md`
 - Word budget: ~34,000
 - Owner names: no new names. The shoulder hold's factor stays unnamed.
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-04.md`, `chapter-05.md` and `chapter-06.md`.
   - The previous ending is this edition's `manuscript/chapter-12.md`.
@@ -24,12 +27,12 @@ Consequential turns and promises:
 - **The slip:** "Ours" (Karis), then "Ours" (Brom). Pike writes a sixth line for the healer. Vastin follows.
 - **Road day one (278th, ~2,000):** a silent-movement drill for the newcomer. Walk silent, signal by hand, nobody declares unless they are meant to be loud. Vastin walks at the back of the column, where a man walks who has not been told where to walk. He is learning the doctrine, not drilling under a wall (§13).
 - **The cut (279th, ~3,500–4,000, developed).** Scout it from the lip first. The factor: "Carters declare, on the ice." Positions as in BOOK_MAP §8. **Iron Wall first shown:** a plane across the road, wall to wall. It holds eight hounds at a run, but the man holding it is rooted and becomes the loudest thing in the cut. Brom works its south end silent with a rock. Lira works the scree with two arms. Cael bursts *away*, then goes still on the scree while the lock beat lands. The pack turns back and breaks on the wall. The heap; Seln in the heap; the runnel; steel. Five dead and three into the sink ("clear because it's empty, not because it's safe"). Costs: Brom's foot. **Vastin's knee**, bound by Oryn for "a month". The lesson, verbatim, and the log, verbatim.
-- **The spring (280th).** Three readers. The instruments. **"Behaves as device. Cannot be."** Karis stops her lamps sentence with the ruler rule. **The grade:** the same stroke and bar on all four sites, the fourth's twice the size; "Two copies of one ignorance." Vastin has three reflexes: a directive, a classification, "This has to go up". The second row counts a sheet short in Cael's hands. **Seln sets the technician's sheet before Cael.** Cael does the sum: his Kindling day, five years and a hundred-some days back. He does not write it, and puts the sheet back. Then: "You keep drafting orders." / "Habit." / "Out here the habit's the tell. Draft nothing. Just look." This is the first thing Seln has ever taught anyone. **Close, verbatim:** Cleon is named for the first time.
+- **The spring (280th).** Three readers. The instruments. **"Behaves as device. Cannot be."** Karis stops her lamps sentence with the ruler rule. **The grade:** the same stroke and bar on all four sites, the fourth's twice the size; "Two copies of one ignorance." Vastin has three reflexes: a directive, a classification, "This has to go up". The second row counts a sheet short in Cael's hands. **Seln sets the technician's sheet before Cael.** Cael does the sum: the date matches his Kindling day; no numeric elapsed span is computed [B7-reconciled 2026-10-11: amendment 21]. He does not write it, and puts the sheet back. Then: "You keep drafting orders." / "Habit." / "Out here the habit's the tell. Draft nothing. Just look." This is the first thing Seln has ever taught anyone. **Close, verbatim:** Cleon is named for the first time.
 - **The fork-stone (280th evening).** Oryn's terms: "I'm not an archive person." The city she left; the column for the patient's tier; "Leaving and routing are different verbs." "Three weeks." **The station term:** she asks for it, he writes it in the log and reads it back, verbatim. She prices everyone, Vastin included and none priced lower than the rest. Millrace: "Bring me whatever walks out of that archive with you. All of it."
 - **First light (281st).** "Not the steps. Not the square." The mule goes north with Oryn. Cael turns at a quarter-mile. From the top of the rise he sees Treswick, and a pale steady light on its crown that he does not look at.
 
 **Physical challenge:** the cut (a major fight) and the road drill.
-**Cutaway (~1,800):** Seln at the spring. He does the sum and decides to set the sheet in front of Cael without a word. He weighs what it costs to give a thing without saying it. He does not theorize about the deep layer. **The cache stays unopened and undecided.**
+**Cutaway (~1,800):** Seln at the spring. He does the sum and decides to set the sheet in front of Cael without a word. He weighs what it costs to give a thing without saying it. He does not theorize about the deep layer. **Seln's locked case stays shut, unopened and undecided.** [B7-reconciled 2026-10-11: amendment 21]
 **Development:** about 15 Cael beats. Supporting: Vastin 3, Seln 2, Oryn 2, Karis 2, Brom 1, Lira 1.
 
 ## What must remain true / withheld
@@ -39,7 +42,7 @@ Consequential turns and promises:
 - Karis never finishes the lamps sentence. The grade stays unread. There is no claim about who graded the sites or why.
 - Vastin's age is not stated. Oryn does not read Cael; "the one thing I'm walking up that road owing".
 - The fork is on this side of the long rise. Oryn's condition was first written "at the fork above Millrace" in Book 7.
-- Reader Standard: the hounds die without gore. Oryn binds the knee and gets two fingers on the wrist, with consent implied by the form (she reads no one without asking).
+- Reader Standard: the hounds die without gore. Oryn binds the knee and gets two fingers on the wrist, after she asks and receives an explicit yes; the form never substitutes for consent [B7-reconciled 2026-10-11: amendment 21].
 
 ## What the author owns
 

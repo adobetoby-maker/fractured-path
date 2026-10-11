@@ -14,3 +14,6 @@ Protected text verified by the lane against `pre-lanes/`: 51 patterns, 350 itali
 4. **ch42 and ch43 means** (13.31, 13.34): in range; accepted.
 5. **The reserves stay reserves.** The two lanes worked at matching rates (114 and 140 edits; −0.8% and −1.0%), so neither reserve is applied.
 Protected text verified by the lane against `pre-lanes/`: 140 changed lines, none touching a protected run; every log, letter, slip, document, the notice and the 13 deployment lines identical; ch32, 36, 37, 38 and 49 byte-identical to the baseline.
+
+## Step 4 — listening proof (Sol) and lock
+The first proof run was rejected as not a full read and re-run as four full-text proofs; the merged record is `listening-proof.md`. One required fix applied by the coordinator (ch9: "when Seln had done"). One proposed fix declined (ch2: "Cu 3" stays, read as letters, as the locked Book 1 does). Overlap re-run after the fix: 0 unprotected in all eight movements.

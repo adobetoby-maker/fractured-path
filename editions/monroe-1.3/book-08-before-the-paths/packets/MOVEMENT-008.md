@@ -6,9 +6,12 @@
 - Chapters: 47–53 (7 chapters) → `manuscript/chapter-47.md` … `chapter-53.md`
 - Word budget: ~35,000
 - Owner names: no new names. The watch is faceless. Teague's crew stays unnamed.
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-19.md` and `chapter-20.md`.
-  - Book 7 source `chapter-23.md`, for the fourth site from the crest.
+  - Reviewer-only fourth-site evidence: closed Book 7 edition `manuscript/chapter-58.md:117–229` and Book 7 STATE_LEDGER AFTER MOVEMENT 8. The author does not open it under O3. [B7-reconciled 2026-10-11: amendment 26]
   - The previous ending is this edition's `manuscript/chapter-46.md`.
   - From `BOOK_MAP.md`: §2 items 32–35; §3 A (the Span; water at the seep), B 6, C (the leg); §5 (the Seln, Teague and Karis cutaways); §8 (the Span); §9; §10 Tier A 7–8, 14, 26 and the S19–S20 Tier C lines; §11; §12 C3, C14; §13.
   - `STATE_LEDGER.md`, latest section.
@@ -25,10 +28,10 @@ Consequential turns and promises:
 - **The leg (299th–303rd; ~9,000).**
   - The Stair's bowl: Karis spends an hour at the rim checking a number she already has.
   - **The cairn at noon on the 300th:** Oryn looks once, straight, and walks on east.
-  - The Hall's marsh, where Cael read himself twice in the autumn.
+  - The Hall's marsh, where Cael read himself twice earlier at the Hall. [B7-reconciled 2026-10-11: amendment 26]
   - **Two dry camps, and water at the seep (~3,000 set piece).** Shale-backs stand on the slope by the only water. Teague's field reading leads. The young one moves too fast and the tall woman stops him with a hand, wordlessly.
   - "Known" is entered under each date. The crest at dusk on the 303rd.
-- **The crest.** The watch-post: hut, fire, kit under a hide, two timbers, seven hoods, two crossbows, one low practitioner. "They knew." Seln: "That iron's been in the ground years. Not one winter." Teague: "Drawn?" Cael draws it. "Nobody declares. Nobody dies. They're seven people on a posting. Noted?" / Teague's **first "Noted."**
+- **The crest.** The watch-post: hut, fire, kit under a hide, two timbers, seven hoods, two crossbows, one low practitioner. "They knew." Seln: "That iron's been in the ground years. Not one cold term." [B7-reconciled 2026-10-11: OWNER-pending #48] Teague: "Drawn?" Cael draws it. "Nobody declares. Nobody dies. They're seven people on a posting. Noted?" / Teague's **first "Noted."**
 - **The Span fight (304th; ~4,500, developed; BOOK_MAP §8).**
   1. The watch has the first exchange. Brom takes bolts on Iron.
   2. **Teague goes through the middle.** Cael is at his left, a stride back, the whole exchange. **The thirteenth.** The notice renders verbatim. The recoil goes to the wrist, then the elbow: "Through."
@@ -45,7 +48,7 @@ Consequential turns and promises:
   - Seln on the pass: "I looked at it." **The close, verbatim.**
 
 **Physical challenge:** the seep, and the Span (a major fight).
-**Cutaways (~5,500):** Seln, ~1,800, on the crest at night or along the perimeter before dawn. He reads the iron and the watch. The cache stays unopened. Teague, ~1,700, in the watch's hut after the fall. He counts his crew; the broad man's leg; the young one asleep. **Nothing of the mechanism. Not the young one's name.** Karis, ~2,000, the night after the lamps finding. She holds the refusal in her own head, knows the six-word sentence exists, and does not write it.
+**Cutaways (~5,500):** Seln, ~1,800, on the crest at night or along the perimeter before dawn. He reads the iron and the watch. Seln's locked case stays shut and unopened. [B7-reconciled 2026-10-11: amendment 26] Teague, ~1,700, in the watch's hut after the fall. He counts his crew; the broad man's leg; the young one asleep. **Nothing of the mechanism. Not the young one's name.** Karis, ~2,000, the night after the lamps finding. She holds the refusal in her own head, knows the six-word sentence exists, and does not write it.
 **Development:** about 15 Cael beats. Supporting: Teague 2, the young one 2, Karis 2, Vastin 2, Seln 1–2, Oryn 2, Brom 1, Lira 1.
 
 ## What must remain true / withheld

@@ -6,6 +6,9 @@
 - Chapters: 7–12 (6 chapters) → `manuscript/chapter-07.md` … `chapter-12.md`
 - Word budget: ~30,000
 - Owner names: no new names.
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-02.md` and `chapter-03.md`.
   - The previous ending is this edition's `manuscript/chapter-06.md`.
@@ -14,18 +17,18 @@
 
 ## Where we enter
 
-It is the 270th day at Lowmarch. There are six now, with Oryn's spring stop at Pike's plank. Lira has two arms she does not quite trust, and Brom's shoulder is still bound and unread. The ferryman says the ice will go in a week, and has said so for a week. Karis's case is made and no one has answered it.
+It is the 270th day at Lowmarch. There are six now, with Oryn's first post-thaw stop [B7-reconciled 2026-10-11: amendment 20] at Pike's plank. Lira has two arms she does not quite trust, and Brom's shoulder is still bound and unread. The ferryman says the ice will go in a week, and has said so for a week. Karis's case is made and no one has answered it.
 
 ## What this movement is for
 
 The book's question arrives as paper, carried by the last man anyone expected to carry it. Vastin comes through the board with no rank, no seal and a bad knee. Over two scenes he hands over three things in an order he decided on the road. The man who brings them has nothing to do once they are on the table, and the movement makes that hurt.
 
 Consequential turns and promises:
-- **The week before the ferry** (270th–276th). Tents return to the meadow. Oryn's patients come to the plank, seen from outside. Teague's crew gets ready for spring.
+- **The week before the ferry** (270th–276th). Tents return to the meadow. Oryn's patients come to the plank, seen from outside. Teague's crew gets ready for the road after the thaw. [B7-reconciled 2026-10-11: amendment 20]
 - **Lira's return to the floor** (~2,000, learning fight). It is her first two-armed bout with Cael since the Ring. The arm tells her once and she does not stop. That is the visible correction (it pays at Millrace: "Once.").
 - **The ferry** (277th, first light). The river is in flood and the rope is strained, and a passenger holds a line physically, with no Path, before Cael knows the stance (~1,500). Then: "Cael knew the stance before he knew the face." "Vastin," Seln says, in the voice for an inventory. "Not that. Not for some months. Vastin will do; it did for my father."
 - **The plank.** Pike: "What'd he do?" / "Nothing. Out here. Nothing yet." / "Then he's nothing yet." A copper and a half for bread. Teague reads the man's hands a step longer than a crew looks. Lira's face for men in grey doesn't fit a brown coat.
-- **The long table** (midday). The Seln–Vastin doorway exchange, verbatim; these are their first words to each other. Vastin says the short thing: he resigned or walked out. Brom: "Three hundred miles is a demonstration." The layer: Karis supplies its existence ("Under every station on the continent. I said so at a table in the autumn"). Vastin's new fact: "Not *will not*. *Cannot.* There is no key." The name is a citation to a designer, and the trail ends at Treswick. Vastin then has nothing to do. Lira asks "Why us." Oryn notices the knee: "Then I still haven't asked." "What follows you": nothing that crosses the Line, and the Stair's rim "is not mine". Cael remembers the Book 6 sentence and says only, "Ask him the thing you want to ask him." Karis asks. **Close (verbatim).**
+- **The long table** (midday). The Seln–Vastin doorway exchange, verbatim; these are their first words to each other. Vastin says the short thing: he resigned or walked out. Brom: "Three hundred miles is a demonstration." The layer: Karis supplies its existence ("Under every station on the continent. I said so at a table before we left Ostrand") [B7-reconciled 2026-10-11: OWNER-pending #48]. Vastin's new fact: "Not *will not*. *Cannot.* There is no key." The name is a citation to a designer, and the trail ends at Treswick. Vastin then has nothing to do. Lira asks "Why us." Oryn notices the knee: "Then I still haven't asked." "What follows you": nothing that crosses the Line, and the Stair's rim "is not mine". Cael remembers the Book 6 sentence and says only, "Ask him the thing you want to ask him." Karis asks. **Close (verbatim).**
 - **The back room** (evening), in Vastin's order:
   1. **The records.** A courier's flat holding six years of abstracts, the anomaly column ("Total"), and six rows. "More than four." The completion report is the last sheet.
   2. **The page,** verbatim and set apart.

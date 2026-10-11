@@ -6,6 +6,9 @@
 - Chapters: 41–46 (6 chapters) → `manuscript/chapter-41.md` … `chapter-46.md`
 - Word budget: ~32,000
 - Owner names: no new names. The shoulder hold's factor, the ford-keeper and Teague's crew stay by role.
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
 - Read before drafting:
   - Source `chapter-17.md` and `chapter-18.md`.
   - The previous ending is this edition's `manuscript/chapter-40.md`.
