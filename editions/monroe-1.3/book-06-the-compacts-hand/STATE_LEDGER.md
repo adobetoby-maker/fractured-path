@@ -783,3 +783,112 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **Anchor Path (flag, as said by Seln):** on posting rolls, not meet cards; rare at any station; the service writes to the family the week the station enters it; "It holds people." **No range, rate or cost.**
 
 **Movement 4 CLOSED (2026-10-10).** Sol source-distance audit: 85 → r1 41 → r2 25 → r3 6, closed by ten Sol line fixes (eight chain fixes, two seams opened by cuts), applied by the coordinator. r2 canon checks PASS: Vastin's warning in ch27 is verbatim against B5 ch58:189 (*Because the people who want this to stop are not going to use official channels much longer.*) and Brom knows it via B5 ch59's long-table retelling; Seln's ch22 realisation that a return has nowhere to go past the last station stays at the M6 boundary. r2 fixes kept: Karis's notebook reply schedule; Bracken's "Leave me one more leaf…"; the "other gates" consequence after Vastin's warning. Cut in r2–r3 (later movements must not rely on them): Karis's forecast of the reply chain; the ch27 splinter, the form's blank line, the horse paragraph, Lira's written question; ch25 Withrow's public thanks and the Silver's "licences" reading; ch22's headings passage and the mother's-ledger detail. ~27,965 words. Overlap 0/7, gates 0, probe 1%/10%.
+
+
+## AFTER MOVEMENT 5 — chapters 28–34 (drafted 2026-10-10, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+
+**Coordinator rulings (override the author's end-state below):**
+- Source distance PASS on first draft (Sol: 6 tracked) — the no-source method is standard from M6.
+- Flood geography: the town ferry and Ostrand bridge closed (third ring, middle pier); the upper chain ferry at the narrows; the return through the cut on the river road west of Ostrand.
+- ANCHOR (canon): fixed points and lines between them; a cage built from a first point set on his coat; release from inside; used once on purpose (the unbinding), once uncommanded (the twelve-second doorway); never used to hold anyone; reach, rate and price blank beyond the notice and the woman's half-second; naming as the idle state.
+- Seln never learns why Shadow was sealed in M5 and never sees the reach (under the wagon, the linchpin). His ch29 old press "a little above where it should have sat… put there by somebody who could reach" is a contentless plant for M6.
+- Havel stops at six entries (no seventh sheet). Bodies: Lira's RIGHT ankle (strapped, crutch, six days off the floor, three struck bouts); Brom's left shoulder out and back in by itself (sling); Karis's right hand (pale mark); Cael's forearm and ribs.
+- The four-minute decision in the exchange's yard, before the sitting; Withrow's one line in her private book that night.
+- "The eleventh of Sowing" once, no day count. "The annex" = the reading room plus the lumber room (M2); "Tomorrow, Seln's annex" (protected).
+- r1 in progress (line-level): the seal-number logic in ch30; the fifth attacker placed in ch30–31; Havel's opening echo; six tracked passages; a cadence pass. Events and state unchanged.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season or month names; feet and yards; Halcenvane weekdays. Day 77 Seventh-day: Seln at Bracken's counter; two favours; the drop; rain from the morning. Day 78 First-day: the cards read in the annex. Day 79 Second-day: the reach priced. Day 80 Third-day: the mould-room answer; Havel given the letter. Day 81 Fourth-day: the western answer; the grades; the catechism; the case carried to Cael at dusk; the cipher (five arrivals on day 85); the null report; the bridge chained at the third ring after the fourth bell, the town ferry tied up at noon; Havel's sixth entry that night. **Day 82 Fifth-day: the upper ferry; the cut (mid-morning); the reach and the unbinding; the fifth sitting (documentary) at the hour after noon; home over the bridge at dusk (water under the second ring).** Day 83 Sixth-day: schedule posted a day early (the five moved to day 88); fixity; Storm resettles (40 min; 15 min); the doorway (twelve seconds); Rooke. Day 84 Seventh-day: the idle state found by naming at dawn; Karis's curve; the district seat's answer. **Day 87 Third-day: the eleventh of Sowing — eighteen.** Day 88 Fourth-day: the annex (tomorrow at close). Brom's panel and the ruling share the year's last Fifth-day. The *fled* default would enter forty days after day 75.
+
+**Bodies.**
+- **Cael:** **eighteen** from day 87. Left forearm skinned wrist to elbow on the camber (dressed and bound; itching by day 87); **right ribs, two cracked, not through** (eight days from day 82, to ~day 90). Right shoulder's word at the fourth push. Pressure spent at fighting load (four pushes); the spark once; one lane (ten counts). Excused from wing three (ribs) — no band bout this week. Anchor integrated to the **idle state by naming** (about two days); still leans toward thresholds.
+- **Lira:** **right ankle** turned on the ditch's lip on the fourth burst (four bursts on chalk, within the road's free budget); strapped days 82–88 on a crutch; off frames and floor until Rooke sees her cross the east hall without thinking; **three program bouts struck as *Not fought*** (next Second-day, the Current girl, rated; the Fifth-day after, the Ash second-year from the northern house; the lake house's exhibition, their Blade). Left shoulder clean (both blades) from day 79.
+- **Brom:** **left shoulder out and back in by itself** (second contact); sling; about a week (to ~day 89). Day-45 Velmere letter **still sealed** in the left inside pocket (checked on the road).
+- **Karis:** right hand blistered — **her fourth logged ignition-margin instance**; wrapped five days (to day 87); the fingers from tip to second knuckle **a shade paler for good**; wrote left-handed for the week.
+- **Seln:** unhurt (wet to the knees).
+- **The coachman's near horse:** foreleg held most of the fight; trembling, walked off.
+
+**Knowledge.**
+- **Cael and the circle (Lira, Brom, Karis):** the woman on the Ostrand road and her craft as fought: points fixed against a surface; lines between them; points laid where a half beat says the body will go; nothing taken back; range costs a half-second stillness; a cage laid through a first point set against the body; release from inside unthreads it. The notice text. The fixity proposals; the doorway; the naming; Karis's curve *for now*. The team: six, no faces, no paper, no blades; a closed wagon with two rings. **Not reported** to the seat or registry (the four-minute decision); Withrow told; one line in her private book. The district seat's answer. Seln will open the case on day 88 in the reading room; nobody knows what is in it.
+- **Seln:** the paper traced (the second run; the fourteenth lot above the ruled line, a mark for a word); the four grades; has decided to open the case; **has not been told why Shadow was sealed and does not know a sealed thing exists**; **did not see the reach or the unbinding** (he was under the wagon in the gully; "I heard it"); knows the team broke off and the boy has ribs. **Does not know the mechanism.**
+- **Havel:** the seal absent from every registry of seals, recorded as a fact; nothing made of it; **six sheets, the last**. Learned nothing of the truth.
+- **Ephram:** a gap in his chart; the face-down table; asked nothing.
+- **Rooke:** "Ribs" and Lira's ankle; nothing else.
+- **Jent:** nothing visible.
+- Nothing about falsification, the sub-layer, a maker, [UNBOUND] or Tide is on the page. The revelation's reach is still zero.
+
+**Resources.**
+- **Hesk's book**, now in **Hesk's satchel** (brown instrument leather, filed brass buckle, a book pocket cut from memory) with **the eighteen note** folded in the pocket against the back board. In the book: the priced leaf (four initials; *NOBODY GOES IN AFTER HIM ALONE*); its margin of priced-against-paid (the doorway and the others' bills "not on the leaf"); the eighth's entry and the bills (on the road bank, pencil); *The room was never the system.*; the birthday inventory. A faint dull patch on the book's cover where the root point was laid.
+- **Karis's notebook:** *Fourth.* (left-handed); the squared tally sheet (forty an hour down to one), the doorway line boxed, *For now.* boxed; the slip *Seventh week: corrected on the original; the maker noted it.*
+- **Seln:** two favours left (one never to be spent); the quick bag; the case **back on the shelf above the copying table**, unopened; the brass key; the null-report bundle with this week's duplicate; the floor schedule with the five on day 88.
+- **Ephram's chart** (ninety-one entries, red line, one gap) in the captain's file.
+- **Withrow's private black-cloth book**, one line.
+- **The house:** the seat's notice for the fifth sitting; the attestation receipt (Karis's left-hand signature); the district seat's two-sentence answer; Bracken's next letter begun (to the issuing authority).
+- **The road:** a closed wagon without its off-side linchpin left in the gully by the culvert; the linchpin in the north ditch.
+
+**Fragments and progression.**
+- **Eight confirmed.** **Anchor-adjacent acquired day 82** in the cut (directed, open-eyed, mid-fight; priced on day 79 at Silver weight; the first Silver; the first nameless source). Notice verbatim (see Protected).
+- **Deployments:** Anchor — **one deliberate use (the unbinding)**; **one uncommanded fixing (the doorway, twelve seconds, day 83)**. No other Anchor use; no hold. Shadow offered once in E1, refused; never used. In the fight: the Wind once, the push ×4 at fighting load, the read (contact; and given back), one lane, the spark once.
+- **Storm-adjacent:** resettled twice on day 83 (forty minutes; a quarter hour); settled.
+- **The anomaly:** under its standing words in the birthday inventory; not otherwise touched.
+- **Idle state:** naming — a word a thing, at every threshold; doorways still lean.
+
+**Relationships (on the page).**
+- **Seln:** Bracken's narrow question; the favours; believes the boy; the case on the sill; "You're sure." / "No…"; the annex; "Five."; under the wagon; "Ribs?"; the cup turned; "It is a good room…"; the tenth bell.
+- **Lira:** "Clean… You've been looking at my back like it was a bill."; *NOBODY GOES IN AFTER HIM ALONE*; the four bursts and the ditch; "We tell them" and the nod; "it was in you and it wasn't you. Both."; her three bouts said aloud; naming the stair with him.
+- **Brom:** "Then that's me."; the channel; two contacts; the minute; the strapping one-handed; the hand to the left pocket; "She's right. I hate it."; the rota; the forge; the harvest song.
+- **Karis:** "You don't get to want it until she begins."; the curve not believed; "My room"; the course frayed; *Fourth.*; "It reads as manufactured theater."; the tally; *For now.*
+- **Ephram:** the gap; the turned chair; "Noted."; ninety-one; "somebody's been paying attention"; the third line wrong.
+- **Withrow:** "Go the long way and come back the short one."; the black book; "That is not a request."
+- **Bracken:** the sixteenth; the glass and the chain; the parcel up the stair; "You had it a week early, Advocate."
+- **Rooke:** "Ribs."; three bouts; "I'd have stood there."; the bolt.
+- **The house's counsel:** "Is there anybody I need to send for?"
+- **Jent:** "Roads are poor this month."
+- **Havel:** the sixth sheet, the last.
+
+**Proceedings.**
+- **Fifth sitting (day 82, documentary):** the records' contents leaf read; the maker attests ("I made them. They are true.", with the seventh-week correction noted); the enrollee attests ("They are mine."); the advocate of record signs the receipt. No question from the petitioner. The road not reported.
+- The district seat's answer (day 84): the office constituted by instrument filed under seal; referred to the issuing authority. Bracken writing on.
+- File designations unchanged. No instrument served this movement. **No third move by the faction.**
+
+**Open threads.**
+- **Opened:** the case's opening (day 88, the reading room, five arrivals); Bracken's next letter; the wagon left in the gully (nobody will look); Withrow's private line; Lira's three *Not fought* on her program sheet; the doorway's line on the next leaf.
+- **Advanced:** the first pole (dead — "the room was never the system"; no second pole yet); Seln's deciding (decided); Karis's curve; Ephram's watching; Brom's sealed letter (still sealed); Havel (closed at six).
+- **Closed:** the reach priced and paid; the fifth sitting; the district seat's answer; Havel's note (six, the last); Storm's resettling.
+- **Plants (kept at altitude):** Seln's twelve-years-ago press — "paper that was entirely correct in every particular, and that sat a little above where it should have sat, and had been put there by somebody who could reach" (ch29) — rhymes with the fourteenth lot; no content, no *falsification*. Havel's first and sixth sheets side by side (a mark with no office; a seal with no register) — nothing made of them.
+
+**Prose vs plan differences.**
+- (a) **The trip's shape** is the flood: the town ferry tied up and Ostrand bridge chained at the third ring force the coach round by an upper chain ferry at a narrows two hours west, and back east along the far bank's river road through the cut (west of Ostrand, two hours short — §11 #7). The faction chose a day with one road.
+- (b) The cut is in wind after rain; "road dust" is the cut's chalk (the ferryman: it drinks the rain and blows dry in an hour). Geese once, no season word.
+- (c) **Seln's absence** is given a concrete act: under the team's wagon in the gully, taking its linchpin. He sees nothing of the reach.
+- (d) **The notice** is read on the bank after the team is gone (it waits "patient as a clerk").
+- (e) The four-minute decision is made **before** the sitting, in the exchange's yard, by the exchange's clock.
+- (f) **The postponement** is Seln posting the next week's schedule a day early with the five moved to day 88; the original First-day plan (day 85) never went up on a board.
+- (g) **Rooke strikes Lira's bouts** on day 87, having said so on day 83.
+- (h) The birthday is in **the reading room** (tomorrow's room), so Seln's line about the room is about where he will open the case.
+- (i) The eighth's log is written in pencil **on the bank**, in Hesk's book carried in Cael's coat.
+- (j) Cutaways: Seln ~5.6k (packet ~5k), Havel ~2.0k (packet ~2k).
+
+## New canon minted (flag where marked)
+
+- **Anchor in use (flag):** points fixed against a surface (ground, stone, a jamb, a horse's foreleg, a coat); invisible; the read finds a laid point as "weight with no body"; lines (courses) between points, found by touch, frayed by heat (Karis) and by Cael's spark (one thread); points laid where the target's half beat says it will go; points accumulate and are not lifted; range costs a half-second's stillness ("threading a needle"); a **cage** is points close round a body laid through a **first point set against the body**; a closed cage is a hold; **released from inside** by letting the first point go, the cage and every point threaded through it unthread in the order laid. Consistent with B7's "can release a laid point from inside" and "wants doorways".
+- **The fourteen (flag):** two on the milestone, one on each culvert parapet, three high in the north bank, two in the south lip, three across the west mouth (flush; the coach rolled over them), three in the road; a frame closed at both mouths with one twelve-foot channel along the south bank to the culvert.
+- **The cut (flag):** chalk; ~440 yards; north bank twenty feet with a ditch below, south bank ten–twelve feet, **undercut near the east end**; cambered road twenty-odd feet wide; culvert, low parapets, milestone *seven* to the city; two bends up from the ferry landing through hawthorn.
+- **The upper ferry (flag):** a chain ferry at a rock narrows two hours west of Halcenvane on the near bank; runs in any water; an old ferryman who talks to the chain.
+- **Ostrand bridge (flag):** five iron rings on the middle pier; shut to everybody at the third ring "since the year the middle arch went"; reopened under the second.
+- **The team (flag):** six — a lead (counts the drill), four (two heavier), the woman; grey road clothes, hoods, scarves to the eyes; staves, soft rope, hobbles, a folded hood; no blades; a closed wagon with a barred back, a bench and two floor rings, its horses tied up the stream. The woman's **grey eyes** (minor).
+- **The fixity cascade (flag):** *There?* at every thing that comes to rest against a surface, ~40 an hour (Karis's finger tally); refusing costs a little; **naming** what a thing is and is for quiets it for good; it asks about people too (Lira's foot); thresholds most.
+- **Karis's curve (flag — hypothesis):** "the more you carry, the faster you take the next" (Storm off the line) — boxed *For now.*
+- **Seln (flag):** four favours in fifteen years (the mould-room man; the western-stores woman; a coastal ferry-master; a retired officer of his service, never to be spent); two spent; the drop at a ship's chandler's near the bridge; the **quick bag**; registry sample leaves in the back of his second manual; **the four grades** (record, instrument, knock, hand) and the catechism taught by an old woman with a stick and a cat in a room over a chandler's on a quay, to six recruits; the catechism said on nineteen first mornings; his weekly return's text (ch29).
+- **The south mill and the western stores (flag):** registry stock's mark a fixed distance from the deckle; the mould mended this year, the mark a sixteenth low, "the second"; thirteen lots against offices and a fourteenth written above the first ruled line with a mark for a word.
+- **Havel (flag):** the district seat's records room a man short; the impression book (red wafers); the printed schedule of seals of office (grey binding, yearly); the cutters' issue ledger (three cutters; the rim number in the beading; a copy in every district strong-room); the rubbing's number falls between a southern ferry office's die and an eastern fee office's, consecutive; the facilities office's instrument bears the same seal; the reply's text; the sixth sheet's text.
+- **The documentary sitting (flag):** three questions — maker, enrollee, advocate; the five chairs covered; no correspondents.
+- **Bracken:** winds the counter clock eleven turns on Seventh-days; measured the order's mark with his rule at the lodge window and wrote *Mark a sixteenth low against house stock.*
+- **The second set of copies** kept in the annex; the seventh-week card corrected in the desk clerk's ink, with Seln's margin.
+- **Brom (flag):** his father's own forge — a dirt-floored shed past the kitchen gardens behind the estate (the estate's smith did the real work); hinges, brackets, a keg of nails; "Nobody blames the rule for the fire." His mark is a B with a bar through it. A Velmere harvest song for the last load.
+- **Ephram:** books the Crown yard every First-day from the second bell; the ch1 singer's three lines were what he learned.
+- **The house's healer (flag, unnamed):** a spare grey woman, twenty years strapping fighters.
+- **Withrow's private black-cloth book (flag).**
+- **Hesk's satchel (flag):** brown instrument leather; cross-body strap; filed brass buckle with a bevel; a stitched book pocket that fits Hesk's book to a hair.
