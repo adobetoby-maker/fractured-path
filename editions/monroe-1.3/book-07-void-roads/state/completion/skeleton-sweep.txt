@@ -64,3 +64,13 @@ chapter-50.md	sentences=231	skeleton=2%	close=16%
 chapter-51.md	sentences=288	skeleton=1%	close=18%
 chapter-52.md	sentences=264	skeleton=6%	close=19%
 TOTAL	sentences=1869	skeleton=3%	close=18%
+== book-07-void-roads M8 (ch53–60)
+chapter-53.md	sentences=269	skeleton=1%	close=16%
+chapter-54.md	sentences=229	skeleton=2%	close=16%
+chapter-55.md	sentences=201	skeleton=5%	close=17%
+chapter-56.md	sentences=176	skeleton=3%	close=15%
+chapter-57.md	sentences=172	skeleton=1%	close=14%
+chapter-58.md	sentences=162	skeleton=6%	close=19%
+chapter-59.md	sentences=191	skeleton=2%	close=17%
+chapter-60.md	sentences=234	skeleton=9%	close=20%
+TOTAL	sentences=1634	skeleton=4%	close=17%

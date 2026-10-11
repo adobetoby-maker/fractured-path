@@ -1,0 +1,251 @@
+# Chapter 16 — Floats
+
+Karis took the grey thing on her two forearms, since her palms would not bear the weight of it, and held it up to the sky.
+
+"It's horn," she said.
+
+She turned it edgewise. It was as thick as two fingers in the middle and thinned toward the rim, and it was built in leaves, one upon another, like the hoof of a horse or the bark of the red trees.
+
+"It grew. Something laid this down a layer at a time, and carried it for years; there's lichen on it as old as any on that rock." She tipped it, and the pale underside showed, smooth and faintly hollowed. "And then it was shed, as a stag sheds. This lay on a back."
+
+"A broad one," said Brom.
+
+"If these overlap, as I think they must, then a broad one indeed." She looked up the slope, at two hundred and sixty yards of thin grey slabs, and Cael saw the same thought reach all of them together. A person could not have told, from where they stood, how much of that hillside was stone.
+
+"It bears now," said Seln.
+
+He had dusted his fingers, and he stood with his hands behind him.
+
+"I asked a question at the plank, two mornings ago, and I have carried the answer for a day and a half, since it concerned nothing that we had yet seen. I asked what a shale-back was, and whether a crew had ever come to harm by one." He inclined his head toward the horn. "He gave me the carters' rule first, and he gave it twice, and I shall give it as he did. 'Never be below them. Never be *loud* below them.'"
+
+"Below," said Lira. She glanced up the fan, and then along the edge of the shelf at the top of it, and her mouth went thin. "That's a bench. It's got a mountain on one side of it. Where else is there to be?"
+
+"I put that to him also. He said that the salt crews go under them twice a year on the cold road, and walk, and are let alone. The animals are as mild as cattle. A man may pass beneath a herd all day."
+
+"And if he's loud?"
+
+"There he had two tales, and I asked for both." Seln looked at the ground while he told them, as he did when he was reading from memory. "The first is his own time. A salt string was going under a ledge herd on the cold road, and a block had come down across the track; and a Force at the tail of the string shifted it with his Path, since that was quicker than unloading. The hill came down, with the herd upon it. They found two mules."
+
+Nobody spoke.
+
+"The second he had from a carter, who had it from his father. Men used to come up a side water off the Thornwater road with carts, for roofing stone. It lies ready split at the foot of a great slide, and need only be loaded. One year they did not come back down, and the next year nobody went up to learn why." He lifted his eyes to the wheel-ruts under their feet, with the turf grown over them. "I had not supposed, until this morning, that I should be standing in the second tale."
+
+"Which loud?" said Karis.
+
+Her voice was sharp with attention.
+
+"He said *loud*. A carter says that of a Path, and of a shout, and I've heard one say it of a fire. Which did he mean?"
+
+"I asked him that in those words. He said, the kind a man would not be on a road." Seln spread his hands a little. "He means all three, and he does not know which. It is the rule that Thornwater keeps, for the reason that Thornwater gave us."
+
+Cael looked at the slope for a long count. Nothing on it moved. A small wind came down the gorge and stirred the heather, and across the water the far wall gave back the sound of the stream, late.
+
+"The hold stands," he said. "No Path and no fragment, for any of us, here as on a road; that's not new. What's new is that until somebody can tell me which kind of loud, we keep every kind of quiet as well. Low voices. No iron on iron. And nobody goes under anything with a back until we've looked at it first."
+
+"We're about to drag a cart up a hill of plates," said Lira.
+
+"Then we'll do it when there's nothing above us. He's looked." He turned to Seln. "You have looked?"
+
+"For a quarter of an hour. I should not say so otherwise."
+
+"Then how do we haul?" said Brom. "A rope wants calling. Somebody has to say when to heave and when to stand, or a man loses his fingers."
+
+"With an arm," said Karis. "One arm up is *walk*, and both is *hold*. I can't pull on anything, so I shall stand where everybody can see me and be the voice." She looked at her two pink palms. "It's the first use I've found for them since a river."
+
+---
+
+Brom walked out onto the fan, and it moved under him.
+
+It did not slide. The whole surface gave a little, with a dry clinking, as a shingle beach gives under a boot, and settled again about his ankles. He stood in it with his arms out. Then he climbed ten yards, slowly, and each step sank and slipped back half its length, so that he seemed to be wading upstream.
+
+"It's loose to the depth of my arm," he said, when he came down. "Farther, maybe. There's no floor to it that I can find."
+
+They tried the cart loaded all the same, since he wished to see what it would do. Seln and Cael took the shafts and Brom went into his rope, and they put her at the slope and leaned.
+
+She went up four yards. Then the wheels stopped turning. Cael felt it through the shaft before he saw it; the rims had sunk into the plates to the depth of a hand, and they were no longer rolling over the slope but pushing a wave of it ahead of them. Brom leaned harder, and the wave grew. The cart stood still for a breath, with three people straining at her. Then the stones under her let go all together, and she came back down the four yards with a long sigh of slate, a little sideways, and stopped where she had started.
+
+Brom stepped out of his rope and regarded her.
+
+"She floats," he said.
+
+"She what?" said Lira.
+
+"Floats. A wheel's for a road. It wants something hard under it to turn on. There's nothing hard in that." He pushed his boot into the fan and watched the plates close round it. "She'll not roll on it. She sits in it, like a boat in a pond, and she goes where it goes, and it only knows the one way."
+
+"Then it can't be done."
+
+"I never said that. You don't row a boat up a weir. You put a line on her bow from the top of the weir, and you lift her head, and you let her swim up."
+
+He would have her empty first, and nobody disputed it.
+
+The boxes went up by hand, and it took what was left of the day. Seln and Cael slung the left-hand box between them from its two rope beckets and set off, and it was the worst climb that Cael had made since a scree above a valley with no name. He had nine strides. At the tenth the calf shut its fist, and he stood on a slope that crept under his boots, with half a box hanging from his right hand, and counted twenty while the gorge breathed cold on his neck. Seln waited beside him each time without a word, looking at the view, as a man waits for a door to be unlocked.
+
+It shut on him three times before the top, and each time it let go a little sooner.
+
+Brom took the middle box by himself. He knelt, and had Lira set it on his back, and passed his rope over it and across his chest. Then he stood up under it and walked onto the fan with his hands clasped before him, as a porter walks under a chest.
+
+"That's lifting," said Karis.
+
+"It's carrying. It sits on me. There's nothing hanging off a hand." He did not turn his head, since the box would not let him. "The hold's woman said the wrist would be wet if I'd used it. Look at it when I come down."
+
+Karis looked at it when he came down, and it was dry, and she wrote that as well.
+
+He took the third box after it, in the same manner, while the light went yellow on the far wall. Lira carried the stores, two steps and a slide, and would not be told that a bound ankle had no business on loose plates. By the last of her journeys the cart stood at the foot of the fan with nothing in it but its own seat board, and looked like a thing that had been robbed.
+
+They slept that night at the top, on the end of the shelf, because she would not have three boxes left alone on a mountain and nobody cared to be the one to tell her that there was no one within a day's walk to steal them. It was too dark by then to see what they had climbed to. He lay with his back against the third box and heard the stream a long way down on his right hand, and a second stream, fainter, that was only the first one coming back from the wall.
+
+---
+
+The cart went up in the morning, by six stages, and Brom built every one of them.
+
+He had found his weir. Islands of solid rock stood up out of the fan here and there, the bones of the hill showing through its skin, and a rope laid over bare rock would have sawed itself through in an hour. So he had Seln cut a length of red trunk, as thick as a thigh, and peel it. He bedded that across a notch in the first island, and laid the ferryman's rope over it, so that the log should turn and the rope not rub.
+
+One end went down to a bridle on the cart's axle-tree, where a pull from above would lift her nose. At the other end he put himself. He stood in a loop that went round his chest and under both arms, facing downhill, with his hands behind his back; and when Karis, up at the log, raised her arm, he walked down the mountain. Seln and Cael went down with him, hauling hand over hand, and for every yard that three people descended the cart rose one, nose first, half buried, with the plates parting round her and closing behind as water closes behind a punt.
+
+"Hold," said Karis, in the low carrying voice that she kept for a reading-room.
+
+They held. Lira scrambled across below the cart and wedged slabs under both wheels, and the rope was carried up to the next island, and the log after it.
+
+The first stage went as he had planned it, and the second did not.
+
+Along the gorge-ward edge of the fan there ran a gully, a chute as wide as a road, and the whole skin of the slope leaned that way, like a floor in an old house. Twenty yards into the second stage the cart began to lean with it. She went sideways, quite gently, a foot for every yard she climbed, floating off the line of the rope toward the chute; and up at the island the peeled log began to creep along its notch after her.
+
+"The log's walking," said Karis. "I can't stop it with my hands."
+
+"Lira," said Brom.
+
+She was there already. They had knotted the box-lashings into a second line and made one end fast to the cart's near side, and Lira had carried the other up the slope and to the left, away from the chute, to a boulder as big as a barrel. She sat down behind it now with both boots against the rock, and passed the line round her back, and took it in her two fists in front of her.
+
+"It's a thing I can do sitting," she said. "Walk."
+
+They walked. The line came taut across the slope and the cart's head swung, a little, back toward the island.
+
+Then the fan under the near wheel let go.
+
+It was a small slip, a barrowful of plates running out from under the rim, and the cart dropped a foot and snatched. Cael saw the line take Lira. It lifted her off her seat and dragged her a yard up the boulder's face, with her heels scraping, and he saw what happened in her calves, because he had been watching for it for sixty days. Every sinew in her stood ready to be somewhere else. It was the burst, asking, with the whole of her Path behind it.
+
+In his own feet Wind leaned with hers, as it always did.
+
+She sat down. She did it on purpose, hard, as one sits on a lid, and drove both boots against the rock again, and the line burned through her fists for a hand's breadth and stopped. The cart's nose came round.
+
+"Walk," she said, through her teeth.
+
+He walked. Nine fragments had come up at the snatch, and he went on down the slope with the rope in his hands, putting them down one at a time. Compression had felt the jerk come along the hemp and had offered to take it through his frame into the hill. Anchor had been asking about the island since first light. *There?* A point fixed against that notch, and told to stay, would have been a better thing than any log; it would not have walked, or worn, or needed a man's weight to hold it. He owned the craft of it. He told it that the log was Brom's, and to leave it.
+
+The Iron read was harder to refuse, because it offered the thing he was being paid to know.
+
+Within a pace and a half of his boots it would have given him every plate on that slope, and which way the whole loose skin meant to go, a breath before it went. He was a surveyor today, by the terms of a slip, and he carried an instrument that no surveyor west of the Line could have bought, and he kept it shut.
+
+It was not only the hold. A reading taken with that thing could be checked by nobody, and Cael had lived since his Kindling under figures that could not be checked by the person they concerned. What Karis did with a knotted cord, any carter could do after her, at the same place, and get the same number or call her a liar. That was the map the man was buying. The other would only have been a boy on a hillside saying that he knew.
+
+They brought her over the lip at noon. The last yard was rotten rock, and four of them lifted while Brom got his back under the tail and straightened his legs, with his hands on his knees and nowhere near a rail.
+
+"Carrying," he said, to Karis, before she could open her mouth.
+
+---
+
+He saw the bench properly for the first time with the cart standing on it.
+
+It was a road, or the stone that a road might have been made on. It ran west from the top of the fan along the wall of the gorge, as level from end to end as a shelf in a shop, thirty feet broad where they stood; and no hand, by the look of it, had ever cut it. The mountain rose on the left in a long grey slope of plates, steep as a roof, to a skyline that he had to lean back to find. On the right there was an edge, and beyond the edge blue air, and the far wall three hundred yards off with a white thread of water hanging on it.
+
+Only one thing was wrong with it. The whole shelf tipped outward, toward the drop, gently, like the top of a desk.
+
+"Pitched," said Brom, who had seen it at once. "Like a roof. Everything that falls on this from up there is meant to roll across it and go over." He set a pebble down. It lay still for a breath, and then it trundled away from him, quite slowly, the whole thirty feet, and dropped out of sight without a sound.
+
+"Four, and a piece," said Karis, with Hesk's clock in her hand. "I heard it land, and then I heard it land again." She looked at the far wall with respect. "I shall have to take the first."
+
+Lira was to run first. She would go out a hundred of her own strides along the shelf, and stand a stone on its end where she stopped, and come back and say what she had found; and nothing with a wheel was to go on any stretch until she had been over it at speed.
+
+"Why running?" said Brom. "She could walk it and see more."
+
+"Because a thing that'll bear me running will bear her walking," said Lira. She was looking down the shelf, and not at anyone. "And if a piece of this is going to go, I'd sooner it went under me than under three boxes and the four of you tied to them. I can get off it."
+
+Cael said nothing to that. He had stopped counting her runs on a gravel bar, and he did not begin again; but it cost him something to hear her set her own ankle against a mountain as though it were a price she had already agreed.
+
+Lira went, with her Path where she had kept it since the ford. She ran lightly, well in from the edge, and her right foot came down a shade behind her left, and he looked at the gorge until she was a small figure standing a stone on end. She walked back.
+
+"Slab," she said. "Good slab, all the way. Dry. It rings a bit hollow about halfway, on the outside, so I kept in."
+
+He paced it after her, since a hundred of his strides made a hundred yards and that was to be the unit of the map, and his hundredth fell eleven yards short of her stone.
+
+"Mine are bigger," said Lira, with satisfaction.
+
+Karis measured where he stopped. She had her cord for the width, knotted at every foot. For the pitch she had made a thing out of the brass straightedge and a pebble hung on a thread, and she laid the brass across the slope and read off how far the thread hung from its mark. It took her the better part of a quarter of an hour, and she spoke each number once.
+
+"One. Twenty-six feet. A hand and two fingers in the yard, outward. Slab; hollow at fifty on the outer third. No water. Cart: yes, keeping in."
+
+He wrote it across six columns in his smallest hand, and beside the table he drew a short length of shelf between her two ruled lines, and marked the hollow place with a cross.
+
+Lira had come to look over his arm.
+
+"How many of those will there be?" she said. "Before the other end."
+
+"If the salt crews are right about three days for a mule," said Karis, "then sixty. Perhaps seventy."
+
+"Seventy lines." Lira began to laugh, low, mindful of the rule. "Seventy marks. He's being paid by the line." She pointed at the book in his hand. "You've written in one of those every night since a lane in Ardenmere, and nobody ever gave you a copper. Now there's a man with a ford who'll give you a mark every time you rule one off."
+
+"It's her line," said Cael. "I only hold the pencil."
+
+"It's in your hand. That's whose it is; ask Pike."
+
+He looked at what he had written. It was twenty words and four numbers, and it said what a hundred yards of mountain was like, and whether a wheel could go there. He had kept a log through every term since his Kindling, and all of it had been called watching; and it was the first time in his life that a line of his had been worth a coin to a stranger.
+
+"What's the rate for a strap?" said Brom.
+
+---
+
+Seln had asked leave to go, at the third hundred, and that was strange enough to be remembered.
+
+"I am of no use at a shaft that she is not of more," he had said, with a small bow toward Lira. "I cannot run, or carry, or count by a clock. There is one part of a day's work on a road that I can do better than any of you, which is to go on in front and learn where a person would be glad to lie down. I should like to do it."
+
+"How shall we know the place?" said Brom.
+
+"I shall leave you word."
+
+The word was at the end of the sixth hundred. Lira came back from her run with a flat pebble in her palm, which she had found lying on the very stone she would have stood on end; and on the pebble, scratched with the point of a knife, there were two short strokes and an arrow.
+
+"Two more," said Brom, turning it over. "That's a man who's used to leaving things for people who mustn't be seen reading them."
+
+They made the eighth as the light was failing. The shelf bent there round a buttress, and behind the bend the wall leaned out into a roof as deep as a room and twice as long, with a floor of dry grit under it. Nobody was in it. A second pebble lay in the middle of the floor, with nothing scratched on it at all.
+
+Seln himself was forty yards farther on, down on one knee at a place where water came out of the rock, and he was not filling the skin. He was looking at the wet ground beside the lower of two small pools.
+
+"I should drink from the upper one," he said, when they came up. He held both hands apart to show the width. "Something has used the other. It was heavy, and it had a foot as broad as that, with no claw to it, and it came down off the slope to do it and went back the same way."
+
+"When?" said Karis.
+
+"Not today, and not yesterday. I do not know the animal, and so I do not know how long its mark keeps." He stood, and wiped his knee. "The roof is dry. I have not slept under a better since a loft."
+
+They ate cold under it, and nobody proposed a fire. Brom let the tail-board down by its chains as gently as he could, and one link slipped and struck the frame, a small clear note, like a spoon on a cup.
+
+It came back off the far wall when he had already begun to apologise for it.
+
+They listened to it go. Up on the dark slope above them nothing whatever happened.
+
+"Well," said Brom, very low. "That's one thing it doesn't mind."
+
+"It's one thing that slope doesn't mind tonight, with nothing on it that we can see," said Karis. "I shan't write more than that."
+
+He wrote his own page with his back to the wall, by the last grey light, since there was to be no lamp.
+
+*Seventy-third day. The bench, at the end of the eighth hundred. The cart came up the fan in six stages, by Brom's reckoning and nobody's Path. Eight lines in Karis's table, and each of them says yes. Lira says that I am paid by the line.*
+
+*By Pike's rule we are not to be loud under whatever lives on this hill. We have seen one piece of horn and one footmark.*
+
+*The nine: held, on a hill where three of them would have been of use. Deployment since the Line: one.*
+
+There was ice on the kettle in the morning, a skin as thin as a leaf, the first that any of them had seen past the Line. Lira ran the ninth hundred with her breath smoking, and they drew the cart on after her with Brom leaning into his rope on the up-slope side. Wherever a gully came down the face it had laid a tongue of loose plates right across the shelf, and on those she floated, as he had said she would. There he walked against the strap with his whole body slanted, like a man in a gale.
+
+The tenth was slab, and the eleventh was slab with a crack.
+
+Lira went out for the twelfth, and she did not come back at a run.
+
+He saw her stop, sixty yards off. She stood quite still for as long as it would have taken to count ten. Then she set no stone on its end; she turned, and walked back toward them along the inside of the shelf, slowly, close under the wall, and her feet made no sound on the rock.
+
+She did not speak when she reached them. She took Cael by the sleeve and drew him three steps out from under the buttress, and pointed with her chin, up and to the west.
+
+He looked where she showed him, and saw the mountain.
+
+A quarter of a mile along, and far up the slope, another shelf ran across the face. It was narrower than theirs. Along it, for the length of a long field, the grey plates of the hillside lay in a row, humped and overlapping, each heap about the size of the cart; and there was a gap of bare rock between each heap and the next, and all the gaps were the same.
+
+He counted the heaps, since he could no more have helped it than breathing, and he had reached twenty-two when one of them lifted its head.
