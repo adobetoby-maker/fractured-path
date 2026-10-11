@@ -1,0 +1,30 @@
+You are the review seat doing a TARGETED RECHECK (Sol, via codex; the author is Claude Opus 5.5). Do not modify any manuscript file. Working directory: /Users/drive/fractured-path-monroe13.
+
+book-07-void-roads, Movement 8 (chapters 53–60) of the Monroe 1.3 edition of The Fractured Path, after the same-author repair r1. Files under editions/monroe-1.3/book-07-void-roads/:
+- brief: state/movement-008/REPAIR-BRIEF.md
+- reviews: state/movement-008/review-editorial.md, review-cold.md
+- author's report: state/movement-008/AUTHOR-REPORT.md ("## Repair r1")
+- pre-repair: state/movement-008/pre-repair/
+- current text: manuscript/chapter-53.md … chapter-60.md
+- context: BOOK_MAP.md, STATE_LEDGER.md (latest "After Movement" block and the entry state), the movement packet packets/MOVEMENT-008.md (incl. coordinator notes), the previous chapters, and the source chapters in books/book-07-void-roads/chapters/.
+
+Read the FULL current movement, then follow editions/monroe-1.3/tools/RECHECK-TEMPLATE.md exactly: (1) brief items RESOLVED/PARTIAL/NOT with quoted evidence (diff -U0 vs pre-repair); (2) continuity; (3) formula — run `python3 editions/monroe-1.3/tools/formula_metrics.py` on the chapters, `bash editions/monroe-1.3/tools/ed.sh overlap book-07-void-roads 8`, `bash editions/monroe-1.3/tools/ed.sh gates book-07-void-roads 8`, `bash editions/monroe-1.3/tools/sweep_probe.sh book-07-void-roads 8 8`; (4) reader clarity; (5) listening proof on every chapter.
+
+COORDINATOR NOTES FOR THIS RECHECK (they override the generic file list above where they differ):
+- This is the BOOK'S LAST MOVEMENT. The author's repair report is state/movement-008/REPAIR-REPORT-r1.md. The baseline for diff -U0 is state/movement-008/pre-repair-r1/ (the frozen draft plus the coordinator's nineteen plan-audit line fixes); state/movement-008/pre-repair/ is the draft the reads saw.
+- Also read state/movement-008/plan-audit.md and source-tracking.md, state/movement-008/LEDGER-RULINGS.md (the coordinator's draft closing rulings — check EVERY bullet against the surviving prose and report any that the text does not bear out, with chapter:line), BOOK_MAP §1 "Ending" (binding) and §10 for Ch21–24, book-08-before-the-paths/BOOK_MAP.md's opening and STATE_LEDGER.md, and OWNER-DECISIONS.md #18, #23–#25, #42, #46–#55.
+- Settled, not findings: the flags ruled KEEP in REPAIR-BRIEF.md; the final count TWENTY-SEVEN with the trial point uncounted; the fourth site outside only; the line's direction handled without a compass bearing.
+- **Rule on two author stagings, with an exact fix if needed:**
+  (1) ch54, the lead-in to the protected `"Walls," Karis said, from the coping. "I've the walls. Twelve sheets."`: the author restaged the coordinator's lead-in — the kerb is named once as "the hall's outer coping"; Brom asks from three strides out on the grey path; Karis answers from the coping. Check against the source's full context for who is where when this is said, and against ch54–55's staging of Brom's fall and wound.
+  (2) ch60:151–161, the old woman's knee: mended at Millrace (ch47); she now winters at Thornwater at her daughter's hearth; Oryn had told her at the mill she would see the knee there after the thaw; she walks over on the mended knee without waiting ("You said it to a woman lying on a hurdle. I never agreed to it."). Check against ch44, ch47, the protected fork line ("there's an old woman at Thornwater whose knee I said I'd see, and I said it after the thaw") and BOOK_MAP §1.
+- **The ending, item by item, on the page** (BOOK_MAP §1 "Ending"): the fourth site not entered, not named, effect unknown and untested by any Path (no sigil lost or returned, no hand on the iron), no watch-post, no dating on the cordon, silhouette ambiguous; the instruments read true in Cael's hand; ninety-six in hand with every step shown; nine lines; eleventh; the kit on the table, itemised; fifty-two sheets (11 + 29 + 12); first snow on the 129th; the last ferry on the 130th; two letters west; Teague's and Pike's lines in the map's current (#48) words; Lira's order at first snow; the ankle unmended; Brom's shoulder bound, not mended a third time; Oryn's bow with Lira, one bolt left; the protected inventory and closing EXACT against the source, and the closing the book's last text.
+- **Reader Standard, the consent thread's end:** the debt paid as Oryn set it (three self-readings on three different days — the 102nd, the night of the 119th, before light on the 120th: are the last two "different days" on the page?); Oryn read only with her leave; Teague neither read nor asked; nothing forgives or endorses the taking of the tenth.
+- **"The still place":** told as a located finding, not a new coinage; shape and sensation only; no theory.
+- Confirm after repair: Lira's left arm inert at the Hall; the coda no longer re-explains; nothing counts the trial or says twenty-eight; Shadow unused; the case shut; nothing decoded; Karis's hypothesis unstated; only the two permitted maker sentences outside protected text; Teague's crew unnamed; no new names; season-blind; yards and feet; #49 and #51 untouched.
+- Source distance: the first read found zero tracked passages. Confirm the repair introduced none (overlap and the probe), opening the source only as needed.
+- If you propose a line fix, do not introduce a run of eight or more words that also stands in the source; never inside a protected unit. Run no git commands.
+
+Write state/movement-008/recheck-r1.md: verdict FIRST (CLOSE / CLOSE WITH LINE FIXES / SECOND REPAIR, with scope), then sections (1)–(5), then exact line fixes in exactly this format, each old string verified with grep to match exactly once:
+N. `manuscript/chapter-NN.md`
+   old: `...`
+   new: `...`
