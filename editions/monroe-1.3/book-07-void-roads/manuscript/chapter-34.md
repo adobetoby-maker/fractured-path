@@ -96,7 +96,7 @@ He had taken those rounds for what a junior takes everything for, which is a thi
 
 Seln stayed on his heels by the iron a long while, and went over what he had, strictly, as he would have gone over it for somebody else's signature. He had eight sheets, seen once, by a boy who was counting. He had rounds, ruled, with a road going about one of them. He had a stake under his eyes, of the pattern that is signed for, driven on the edge of a circle that a researcher had paced with her feet.
 
-He did not have the leaf. There would be one. A sheet with a hole in it has a page somewhere that says what the hole is for; that was how every office that he had ever served drew breath. He had never seen it. He did not know what room it lay in, or under what heading, or whose hand had ruled those rounds. He knew the weight of a tin and the number of its sheets, and he knew that he would be asked for more than that before the sun was high, by a small person with a pencil and no voice.
+He did not have a leaf to put beside the sheets. He had never seen one. He knew the weight of a tin and the number of its sheets, and he knew that he would be asked for more than that before the sun was high, by a small person with a pencil and no voice.
 
 He could not tell, from memory, where on those sheets a round had fallen. He had the look of one: a water crossed, and dashes running on east of it, and then the white place. To say more than that he needed a ford drawn by somebody who had put a wheel through it.
 
@@ -130,15 +130,15 @@ She shut her eyes. It took her a quarter of an hour, and when her hands came awa
 
 "That's one."
 
-Brom was beside her already, on his knees, with the rags unwound. The cuts had dried black across eight finger-pads, and the two deep ones stood a little open.
+Brom was beside her already, on his knees, with the rags unwound.
 
-[[TIER-B: Oryn mending Brom's string-cut fingers at noon on the 97th, "String… That's two." — coordinator to supply protected text]]
+The hand was the pads of four fingers laid open by a string in the dark, bled into the linen and dried there, and she soaked the linen off with the pan's water and a corner of the lantern's oil, slowly, while Brom looked at the scrub. When it was off she turned the hand over in the light and said, "String," as a verdict, and put her palms round it.
 
-It was quicker than the throat. When she let go of him there were eight thin pale lines where the cuts had been, and he closed both fists, slowly, and opened them.
+Shorter than the throat; less than half, by the floor. The fingers, when she opened her hands, had four dark lines across the pads where there had been four open mouths, and Brom closed the hand and opened it.
 
-"You draw nothing with those till the hundredth day. Not a bow, not a rope, not a lace if you can find somebody else to pull it. They're skin. They're not hide yet."
+"Nothing on the string for three days," Oryn said. "Span it with the stirrup and your foot, like a man who's had his fingers opened once, which you are now. You'll not lose the lines. That's two."
 
-"The hundredth," said Brom. "That's three days. I'll know when."
+"The hundredth," said Brom. "I'll know when."
 
 "I know you will. I've met you."
 
@@ -188,13 +188,17 @@ The healer had come too. She had not been asked. She looked at the square brown 
 
 "That's cold," she said. She did not move.
 
-[[TIER-B: Oryn sitting against the stake on the 97th, summing her mendings, "Three in two days… That's a route." — coordinator to supply protected text]]
+"Three in two days," Oryn said, after a while, to the country.
 
-Cael had sat down across from her, with his leg out. He waited to learn whether she had more.
+He waited.
+
+"The arm. That was last night, and it was one, and it was the size of two. The throat. The hand. Three mendings in two days." She turned her hands over on her knees and looked at them, and let them lie. "That's a route. Near enough, that's what I carry between a hold and the next one, for the people who feed me and shoe the mule. Three serious hurts and a road's worth of small ones. And I've spent it on a road two days from the nearest roof, on a crew that's not on my circuit, sitting against a piece of iron somebody drove where they'd measured to."
+
+Cael sat across from her, with his leg out, and listened.
 
 "The top gate of my round's eleven days north of here," said Oryn. "That's by the road, at her pace." She tipped her head toward the camp, and the mule. "I'm not telling you for thanks. I've watched you. You count everything that's put in front of you, and that's a figure nobody would have put there."
 
-He had been counting, since a far lip, what the day had cost. He had Lira's arm in it, and a throat, and eight fingers; he had his own leg, and a number in a book. He had not had this. A woman had added a stop to the only thing she owned, for two reasons of her own, and the stop had taken three mendings in two days from seven gates that had not been asked.
+He had been counting, since a far lip, what the day had cost. He had Lira's arm in it, and a throat, and four fingers; he had his own leg, and a number in a book. He had not had this. A woman had added a stop to the only thing she owned, for two reasons of her own, and the stop had taken three mendings in two days from seven gates that had not been asked.
 
 "I'd not have had it," he said. "I have it now."
 
@@ -264,7 +268,7 @@ She was not finished. The pencil stayed over the paper, and came down, and it ma
 
 *Blank. Stamped. Filed.*
 
-Cael read them twice. They were the whole of it, and there was not a verb in them that reached past what six people had seen with their eyes. A map had a blank where this place was. A bar of iron had a stamp. And somewhere there was a page, which none of them would ever read, in a room that the one person who might have known could not name.
+Cael read them twice. They were the whole of it, and there was not a verb in them that reached past what six people had seen with their eyes. A map had a blank where this place was. A bar of iron had a stamp.
 
 He had been ruling a line since a wash, through a query and a posting and a stake. He had it now with a fourth point on it, and for the first time he could see which way along it he was looking; and it ran west.
 

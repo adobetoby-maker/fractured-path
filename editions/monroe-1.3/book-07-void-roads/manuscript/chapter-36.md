@@ -6,7 +6,7 @@ They were in the loft, among the barley sacks, with the ladder drawn up after th
 
 He had asked the four of them up, and they had come; and they had looked at his face by the lantern, and had sat down without talking.
 
-Lira had the sack nearest the light, with her right hand laid over the sling. Brom sat on the boards with his knees up and his two hands open on them, pale across the pads of the fingers. Karis had her notebook, and a throat the colour of an old apple; she had spoken twice that day, a word at a time, in a voice like a rasp on wood. Seln had placed himself by the ladder's head, where he could hear the yard.
+Lira had the sack nearest the light, with her right hand laid over the sling. Brom sat on the boards with his knees up and his hands open on them, one pale across the pads of the fingers. Karis had her notebook, and a throat the colour of an old apple; she had spoken twice that day, a word at a time, in a voice like a rasp on wood. Seln had placed himself by the ladder's head, where he could hear the yard.
 
 "She runs the long reading at first light," said Cael. "On me, in the back room, with the door shut."
 
@@ -88,7 +88,7 @@ Karis's pencil made a small mark on the stub, and stopped.
 
 He said it quite gently, as he had said it at a stake to a small person holding up a leaf.
 
-"I shall not be a reason. You shut that thing for my sake, and you have kept it shut at a cost that I watched you pay in a river. But I have had four nights in which to consider who was looking in a lane, and I find that I should sooner be known to that woman than be used to keep her ignorant of a thing that is to be done to her. Strike the second. It is not available to you."
+"I shall not be a reason. You shut that thing for my sake, and you have kept it shut at a cost that I watched you pay in a river. But I have had four nights in which to consider who was looking in a lane, and I find that I should sooner have her told what may be done to her than be used to keep her ignorant. Strike the second. It is not available to you."
 
 Cael looked at him. In two years he had never been given anything by that man that was not a report, and he did not at once know what to do with his face.
 
@@ -118,7 +118,7 @@ Nobody in the loft breathed.
 
 "That's honest," said Brom. "I'll say so much for it."
 
-He had not shifted from his place on the boards. He was looking at his own open hands, where a healer had drawn eight new lines.
+He had not shifted from his place on the boards. He was looking at his own open hand, where a healer had drawn four new lines.
 
 "What's it cost her?"
 

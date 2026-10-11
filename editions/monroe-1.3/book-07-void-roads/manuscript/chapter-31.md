@@ -290,7 +290,7 @@ They got her over the lip to the head of the lane.
 
 Brom carried her the four strides, on one arm, with the bow in the other hand, and Oryn was on her knees in the grass before Lira's back had touched it. Both her hands went round the arm, above the place and below it, as they had gone round a shin on a mountain, and her eyes shut.
 
-[[TIER-B: Oryn at the rim, hands on Lira's bitten arm, "Nothing… Nothing in my hands." — coordinator to supply protected text]]
+"Nothing," Oryn said, to the arm. Her hands were to the wrist in what was coming out of it. "Nothing in my hands."
 
 She took her hands away as though the arm had burnt them.
 

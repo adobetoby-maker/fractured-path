@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """Register unprotected overlap runs as protected patterns ONLY when the run is quoted in the movement packet
 or the BOOK_MAP (i.e. a plan-quoted line kept whole). Anything else is reported and left for the author.
-usage (from the worktree root): register_runs.py BOOK N LABEL"""
+usage (from the worktree root): register_runs.py BOOK N LABEL [AUDIT_REPORT.md]
+With AUDIT_REPORT.md, runs found inside the report's restored text (the "new:" strings of its exact line fixes —
+protected units the Sol audit restored from the source) are registered too."""
 import re, subprocess, sys
 from pathlib import Path
 book, n, label = sys.argv[1], int(sys.argv[2]), sys.argv[3]
 E = Path("editions/monroe-1.3"); B = E / book
 def norm(s): return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9' ]+", " ", s.lower().replace("’", "'"))).strip()
 plan = norm((B / f"packets/MOVEMENT-{n:03d}.md").read_text() + " " + (B / "BOOK_MAP.md").read_text())
+if len(sys.argv) > 4:
+    rep = Path(sys.argv[4]).read_text()
+    plan += " " + norm(" ".join(x.replace("\\n", " ") for x in re.findall(r"(?m)^\s*new:\s*`(.*)`\s*$", rep)))
 out = subprocess.run(["bash", str(E / "tools/ed.sh"), "overlap", book, str(n)], capture_output=True, text=True).stdout
 add, rest = [], []
 for line in out.splitlines():

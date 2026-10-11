@@ -48,23 +48,15 @@ It was a good deal harder than refusing.
 
 He had refused the nine at every stride of a road, and he knew that work as he knew the weight of his own boots. He was not to refuse them now; a refusal was a holding, and she had said that she would know. He was not to let them answer either. He had to lie as a house lies when somebody goes through it with a lamp, with every door standing as it happened to stand, and he found that he had never in his life left a door alone.
 
-"I'm looking for the sides of it," said Oryn. "The banks. Everybody's got them. They're the first thing I get, as a rule, before I've so much as got the pulse."
-
 Her current went down the length of him and came back.
 
-"Your big one's are like a wall. Both sides, straight up, as if somebody had built them. I could have leaned on them. That's a Skin, and I'd know one through a blanket."
+*Eighty-four.* Something in his feet turned over like a sleeper who had heard his name. It was Wind. He did not tell it no, and he did not let it rise. He let it turn over, and it settled.
 
-*Eighty-four.* It was passing his feet when she said it, and something in his feet turned over like a sleeper who has heard his name. It was Wind. He did not tell it no, and he did not let it rise. He let it turn over. It settled.
-
-"The small one runs hot. I felt the heat of hers before I'd found her wrist, on that mountain, and she was empty as a dry well at the time. That's an Ember. The bed's narrow and it's warm to the hand."
-
-His right palm had grown warm on the plank. He left it where it lay.
-
-"And the girl's goes by so fast that there's nothing to feel but the draught of it. You put your hand in and it's gone past already. That's what a Wind is like, under the hands. I had hold of hers for an hour at that stone and I'd not swear that I ever touched the bottom."
+His right palm grew warm on the plank. He left it where it lay.
 
 She was silent for several breaths. He felt the thing that she was doing go more slowly along his left side, where three ribs had been, and then down the leg that a hound had opened, and stop there, and go on.
 
-[[TIER-B: Oryn during the long reading, her commentary on finding no banks in him, "there's more water" — coordinator to supply protected text]]
+"Everyone I've ever had my hands in, this is the part where I know." She said it as a finding about herself. "Iron Skin, you feel the banks first — dense, walled, everything held. Ember, the banks are a fire's, hot at the edge. Wind you barely feel the banks at all, the water's too fast. But there's always a bank. It's how you know which river." A pause, long, her current going along Ember and stopping at the ignition point and lying there as if it had found a stone in a bed. "I can't find one here. I keep putting my hand where the bank ought to be and there's more water."
 
 He was at a hundred and eight. That was nine minutes.
 

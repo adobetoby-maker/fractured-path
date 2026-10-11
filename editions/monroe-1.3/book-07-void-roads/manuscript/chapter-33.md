@@ -24,7 +24,7 @@ She said it to the arm, on a breath, and that was all the notice that she gave i
 
 "It can. The arm can't." Her mouth was hard. "So keep that bow up, and somebody look the other way."
 
-Brom had the bow between his knees already. He set his boot in the stirrup a third time, with eight fingers that he had not yet let anybody see, and drew, and Cael heard his breath go in through his teeth. He laid a bolt on it, which left three in the sleeve. Then he walked ten yards to the north and stood there with his back to the lantern, a broad dark shape with a box still on it.
+Brom had the bow between his knees already. He set his boot in the stirrup a third time, with four fingers that he had not yet let anybody see, and drew, and Cael heard his breath go in through his teeth. He laid a bolt on it, which left three in the sleeve. Then he walked ten yards to the north and stood there with his back to the lantern, a broad dark shape with a box still on it.
 
 Seln had gone to the south without being asked, and Cael could not see him at all.
 
@@ -164,11 +164,11 @@ Seln was standing at the lantern's edge. There was grass-seed in his hair and th
 
 "I have looked. I find that I mind it rather more than I had expected to." He inclined his head, as to a report that had been received, and went back to the south.
 
-Brom had come in. He did not wait to be asked. He knelt down heavily beside the sleeping healer, box and all, and laid the bow in the grass with the bolt still on it, and held out both his hands into the light, palms up.
+Brom had come in. He did not wait to be asked. He knelt down heavily beside the sleeping healer, box and all, and laid the bow in the grass with the bolt still on it, and held out one hand into the light, palm up.
 
 "Hand."
 
-Across the pads of four fingers on each there was a cut, straight, as though it had been ruled, and in two of them it had gone deep. They had bled down into his cuffs and dried. He had drawn that string three times with them, the last time when they were already open, and he had stood an hour in the frost with the stock in them.
+Across the pads of four fingers there was a cut, straight, as though it had been ruled. They had bled down into his cuff and dried. He had drawn that string three times with them, the last time when they were already open, and he had stood an hour in the frost with the stock in that hand.
 
 Oryn did not open her eyes. Her lips moved, in the trodden grass.
 
@@ -176,7 +176,7 @@ Oryn did not open her eyes. Her lips moved, in the trodden grass.
 
 "I wasn't asking for tonight," said Brom. "I was telling you there was one." He looked down at her with an expression that Cael had last seen on him at the edge of a moss. "Go to sleep. You're asleep."
 
-He washed them himself, from the skin, with his teeth set, and wound a strip of the sling's leavings round each; and he took up the bow again in those two bundles and went back to the north.
+He washed it himself, from the skin, with his teeth set, and wound a strip of the sling's leavings round it; and he took up the bow again with that bundle and went back to the north.
 
 That was the camp. Nobody had said a word to Cael about a hill. They had eaten bread beside him, and passed him the water, and Seln had put the last blanket round his shoulders without a remark, as he would have put it round anybody. Four of them knew what he was and had not known until tonight that it reached in there. One of them knew nothing, and had asked him whether his calf was worse than an arm.
 
@@ -194,7 +194,7 @@ He did not go back to finish it. He began a new one beneath.
 
 *Nine hounds, inside. Two dead, both Brom's, with a healer's bow that he had never shot: one on the floor, at thirteen feet, with my hands on its head; one over the stone, at six. Seven out, north and south along the line's outside. Not seen after. No instruments were there. No price.*
 
-*Lira: left forearm bitten through and held; mended at the line, an hour, by lantern. One arm till first snow, by order. Right ankle gone a third time, and not mended. Karis: throat; no voice. Brom: eight fingers, on a string. Seln: nothing. Oryn: spent to the bottom, and asleep on the road.*
+*Lira: left forearm bitten through and held; mended at the line, an hour, by lantern. One arm till first snow, by order. Right ankle gone a third time, and not mended. Karis: throat; no voice. Brom: four fingers, on a string. Seln: nothing. Oryn: spent to the bottom, and asleep on the road.*
 
 *Mine: left calf open on the old seam. Left forearm struck; dead to the elbow. Ribs taped, three days to run; they held.*
 

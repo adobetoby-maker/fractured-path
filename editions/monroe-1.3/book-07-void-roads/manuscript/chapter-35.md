@@ -10,7 +10,7 @@ It lay a yard west of the stone, where it had come down, with the frost of one n
 
 "I'd not be drawing anything. I'd be carrying."
 
-"You'd be shutting eight new fingers on a hind leg. Stand there."
+"You'd be shutting four new fingers on a hind leg. Stand there."
 
 He stood there. Seln cut the bolt out first, since there would be no getting at it afterward. He did it with the narrow knife and his back turned to the rest of them, and it took him very little time; when he straightened he had a short thick shaft in his hand with the iron unbent, and he wiped it on the grass and held it out.
 
