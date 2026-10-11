@@ -1,0 +1,13 @@
+### Coordinator rulings (binding)
+- **The finding is earned and entered.** Stillhounds answer Path discharge; Karis's hypothesis (with its water clause) became a finding only after the ford, entered in the log in Cael's hand at her dictation. It leaves two things unaccounted: the hundred and ten yards, and dusk. Nothing more is known.
+- **Deployment since the Line: ONE** — a single Wind burst at the ford on day 53. None before; none after. Shadow is unused by Cael and stays sealed. Seln's use of his OWN native Shadow Path under water at the ford is not Cael's deployment and stands (it tested the water clause).
+- **The ford** is the upper of the two unnamed day-43 crossings, two to three hours below Thornwater's gate; walked day 52, fought day 53. Seven hounds; the bowman is the witness; the carter carts four of them home through the stretch in the dark.
+- **"They stop inside, where the tiers are": "they" are HEALERS.** The protected unit's full three-speech form is on the page at the steading's gate (ch13). Lira's thought about ranks is her own inference on the road. No healer appears; "the nearest walks a route and she's not due" stands; **Lira's ankle is not mended in this book** and her run on day 65 is a chosen risk.
+- **Quiet ground** remains three sentences from the carter's wife, spoken as one speech. Nobody asks. The bend on the carter's map two days east of Thornwater, round bare hide, is the only geography; Movement 4 inherits it.
+- **Teague is absent:** back on the 57th and out again, known only by Pike's report. No meeting.
+- **Bodies:** Cael bitten through the calf ("the calf in elevens"); Karis's hand cannot hold a pencil; Lira's ankle splinted, then walking; Brom's shoulder in a sling. Exact states are in the author's state section below, as corrected after repair.
+- **All new canon KEEP** (plan audit §6): the lip stones; "the third" as a man of the hold; the flint fire on the road lit on the strength of the finding, with the hold unchanged; the well's bad air; Pike pricing Brom's part at "a fifth of forty"; the closing bare tack.
+- **Length:** about 36,900 words against 36,000, accepted; the fight's 6,900 words accepted as earned. **Names:** none minted.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial (pass; one register priority), cold read (three clarity items), source-distance (6 tracked passages, no dense scene), plan / canon / protected-text audit (RATIFY WITH LINE FIXES — twelve applied by the coordinator). Same-author repair r1 in progress when this block was written; the CLOSED note follows below when the recheck returns.
