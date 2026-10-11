@@ -114,7 +114,7 @@ She said it without heat. She hung the cloth on its nail, and turned back to him
 
 "You asked. That's the rule and you kept it. The answer's no. Next."
 
-He stood for as long as it took him to be sure that he had nothing to add, and he had nothing. For the first time in his life, he had asked before putting his hand on another person; he had been told that he might not; and the whole of what was left to him was to go and sit down. He went and sat down. It was not hard to do, and he was a little surprised at that, since he had dreaded it.
+He stood for as long as it took him to be sure that he had nothing to add, and he had nothing. He had never before asked leave to put his hand on another person. He had asked, and had been told that he might not; and the whole of what was left to him was to go and sit down. He went and sat down. It was not hard to do, and he was a little surprised at that, since he had dreaded it.
 
 Lira was getting to her feet beside him, with her right hand already at the knot of her sling.
 
