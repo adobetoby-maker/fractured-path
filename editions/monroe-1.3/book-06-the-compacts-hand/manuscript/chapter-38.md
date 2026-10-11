@@ -310,7 +310,7 @@ Nobody said anything for a moment.
 
 Cael stood in the middle of the painted floor and looked at Brom's hand on the edge of the door, the big square hand that had held twelve feet of road against two men on the Ostrand road and held a girl up in a doorway for twelve seconds. Something in him went quiet that had nothing to do with the new thing.
 
-It did not ask about a door somebody was holding; it only wanted to hold what nobody was holding. He did not know yet what to do with that. He wrote it down anyway, after, on the leaf under the rule: *A held door isn't asked about. B.'s hand. It only wants what nobody has.*
+It did not ask about a door somebody was holding; it only wanted to hold what nobody was holding. He did not know yet what to do with that. He wrote it down anyway, after, on the leaf under the rule: *A held door isn't asked about. Brom's hand. It only wants what nobody has.*
 
 ---
 

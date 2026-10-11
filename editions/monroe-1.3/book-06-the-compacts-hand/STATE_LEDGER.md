@@ -896,7 +896,7 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 **Movement 5 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — all six tracked passages resolved; three line fixes applied by the coordinator (ch30 listening; ch32 hand continuity; ch33 abbreviation). First movement to close after a single repair round. ~35,950 words. Overlap 0/11, gates 0, probe 1%/11%. Where the author end-state above gives the Storm resettlings in another order, the order above governs.
 
 
-## AFTER MOVEMENT 6 — chapters 35–40 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+## AFTER MOVEMENT 6 — chapters 35–40 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 applied; CLOSED 2026-10-11 after Sol recheck r1)
 
 **Coordinator rulings (override the author's end-state below):**
 - THE RESERVED REVEAL (source Ch15) is now on the page: Seln's cache laid out in Karis's reading room on the morning of day 88; Cael tells Seln the mechanism end to end with the circle present; "You kept my file too, then."; Seln's limit — "you may say it to me twice more in your life".
@@ -983,3 +983,5 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **The borrowed office (flag):** the protected description plus: brown door with empty hooks; one tall small-paned window over a lightwell to the wool exchange's green cupola; six odd chairs; a cold iron stove; ledger shapes in the dust (eleven); three pale squares; a landing clock on the second landing; a singer on the floor above; the occupant on circuit in the hill stations six weeks; the keeper's book of reasons.
 - **Vastin (flag):** the river inspection (six stations in four days; one frame shimmed and so certified); the fourth station's keeper and his drawer of sheets with margins; his lens on a cord; he will decline to certify.
 - **Minor:** the iron stair's loose ninth tread; the wing's station-closure board; Compact officers lie at the inn on the wharf.
+
+**Movement 6 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch38 log entry `B.'s hand.` → `Brom's hand.`). The clean door's forty-day default counts from the close of the fourth sitting (the one that put the record): day 75 → day 115. Reserved-truths amendments confirmed present. ~32,270 words. Overlap 0/14, gates 0, probe 2%/14%.
