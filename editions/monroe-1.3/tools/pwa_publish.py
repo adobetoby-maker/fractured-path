@@ -10,11 +10,11 @@ public/manuscripts/books/fractured-path-monroe-1.3/book-0K/manuscript/, regenera
 manuscript-index block from each chapter's H1, sets totalChapters = N and the subtitle's
 "· in progress" flag (dropped with --complete). Does not build, commit or push.
 """
-import argparse, json, re, shutil
+import argparse, json, os, re, shutil
 from pathlib import Path
 
 ED = Path(__file__).resolve().parents[1]
-APP = Path("/Users/drive/boundary-universe")
+APP = Path(os.environ.get("PWA_APP", "/Users/drive/boundary-universe"))  # PWA_APP: publish into a clean worktree
 BOOKS = {1: "book-01-the-shattered", 2: "book-02-iron-circuit", 3: "book-03-no-path-given", 4: "book-04-copper-crown",
          5: "book-05-the-silver-standard", 6: "book-06-the-compacts-hand", 7: "book-07-void-roads", 8: "book-08-before-the-paths"}
 def js(x):
