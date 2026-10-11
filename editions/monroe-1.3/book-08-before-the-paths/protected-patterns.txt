@@ -1,0 +1,2 @@
+# Book 8 protected patterns (regex lines; apostrophes as .?) — BOOK_MAP protected units and packet lines kept whole
+# Patterns are added by the coordinator after each movement, verified against the plan or restored by the Sol audit.
