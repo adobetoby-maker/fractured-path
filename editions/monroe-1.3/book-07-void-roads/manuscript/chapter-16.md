@@ -210,7 +210,7 @@ They made the eighth as the light was failing. The shelf bent there round a butt
 
 Seln himself was forty yards farther on, down on one knee at a place where water came out of the rock, and he was not filling the skin. He was looking at the wet ground beside the lower of two small pools.
 
-"I should drink from the upper one," he said, when they came up. "Something has used the other. It was heavy, and it had a foot as broad as that, with no claw to it, and it came down off the slope to do it and went back the same way."
+"I should drink from the upper one," he said, when they came up. He held both hands apart to show the width. "Something has used the other. It was heavy, and it had a foot as broad as that, with no claw to it, and it came down off the slope to do it and went back the same way."
 
 "When?" said Karis.
 
