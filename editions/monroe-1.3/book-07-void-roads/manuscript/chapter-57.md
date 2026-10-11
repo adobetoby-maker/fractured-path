@@ -22,7 +22,7 @@ She had seen it. It had been a hand below her chin for a quarter of an hour, on 
 
 *The lone line is present. Divisions seen; not counted; not measured.*
 
-She read that over, and let it stand. It was true, and it was less than she wanted, and she had learned from a man with apple trees to tell those two apart.
+She read that over, and left it. It was true, and it was less than she wanted.
 
 A blanket had come onto her shoulders at some hour of the first afternoon. She had not seen it arrive. She had noticed, some time later, that she was no longer shaking, and had put up a hand, and found wool; and under her fingers at the corner there was a darn that she knew, since she had watched it made by lamplight in a loft, in very small stitches, by a person who mended his own things and nobody else's.
 
@@ -40,7 +40,7 @@ Seln sat down on his heels at her elbow. He had the limp little book out of his 
 
 "*Reach, edge to centre,*" he said. "As he has it."
 
-She copied the figure. She copied it into the second leaf, and the third. He turned the book a little toward the light for each, and did not once offer to put it into her hand; it stayed in his, with two of his fingers closed on its spine, as it had stayed there for five days.
+She copied the figure. She copied it into the second leaf, and the third. He turned the book a little toward the light for each, and did not once offer to put it into her hand; it stayed in his, with two of his fingers closed on its spine.
 
 She understood that well enough. She had lived for years beside shelves that she was allowed to read at and forbidden to carry from. And he had been the keeper of one shut thing for twelve years; it was not to be supposed that he would take up a second and hold it open to everybody. He had come twenty yards across the turf with it, unasked, which was a great deal farther than she had expected.
 
@@ -68,7 +68,7 @@ She did not trust that, and she set about breaking it. A straight thing will lie
 
 It would not miss. She could make it lie a hair to this side of a dot, or a hair to that; she could not make daylight show between the brass and any of the three.
 
-And she had not chosen the third. That was the thing which she kept returning to, as a tongue goes back to a tooth. She had laid that edge on two rings at a grey stone, in daylight, with five people looking, before any one of them had seen a reed. It had run off into a corner of the skin where a man once lifted his hand. They had walked along it for three days, in a strip a mile wide, and had come over a rise onto a marsh.
+And she had not chosen the third. She had laid that edge on two rings at a grey stone, in daylight, with five people looking, before any one of them had seen a reed. It had run off into a corner of the skin where a man once lifted his hand. They had walked along it for three days, in a strip a mile wide, and had come over a rise onto a marsh.
 
 There was no arranging a test of that kind. She had laid the ruler herself, before the third place was known, and then passed through the answer on her feet.
 
@@ -94,7 +94,7 @@ There were more than six. Teague had come down off the rise with the first of th
 
 "I have moved one," she said. "It is entered that I moved it, and why. These are the middles."
 
-She showed them the three dots. Then she laid the brass down, and took her hands away from it, as she had at a grey stone six days before.
+She showed them the three dots. Then she laid the brass down, and took her hands away from it.
 
 "Three points make a line. Four make an argument."
 
@@ -136,7 +136,7 @@ Cael went and stood a stride and a half from her. He had come to her at a mill, 
 
 "I'm telling you where I'll be."
 
-She did not turn round at once.
+She did not turn round.
 
 "That's a healer's sentence," Oryn said. She gave the strap a last pull. "You've had it off me twice now, and it's no pleasanter the second time."
 
@@ -191,8 +191,6 @@ She fetched the rafter herself, and broke it across her knee.
 Cael waited until the bowls were empty. He had made up his mind to it on the road. A thing had been the healer's to hear before anybody, and she had heard it; and there were four people at that fire who had been told at a loft's ladder that it existed, and had asked him nothing since.
 
 "I owe the rest of you something. She's had it, as she set it, so it's free." He kept it short. "There's a place in me, under the breastbone, where nothing moves. All ten fragments go round it. I've read it three times, and it keeps. I don't know what it is, and I've been told to stop touching it."
-
-For a breath there was only the fire.
 
 "A quiet in there," said Brom slowly. "Under the noise. I said that. On a bench, with my hand on you, when there were only three of them."
 

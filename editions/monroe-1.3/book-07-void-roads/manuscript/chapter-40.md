@@ -46,7 +46,7 @@ The steading's woman bent and gathered up six marks.
 
 All three of them looked at him. Lira had gone a little red.
 
-He saw the six days then, all at once, as he saw a bout when it was over. A girl with one arm tied had gone off behind a barn each evening with another man's flint-bag full of pebbles, to teach five fingers the work of ten, so that when the day came she could pay for it herself and ask nobody to hold a purse open for her.
+He saw the six days then, as he saw a bout when it was over. A girl with one arm tied had gone off behind a barn each evening with another man's flint-bag full of pebbles, to teach five fingers the work of ten, so that when the day came she could pay for it herself and ask nobody to hold a purse open for her.
 
 "He's lit every fire for six days with Seln's. I was going to put it back."
 
@@ -106,7 +106,7 @@ The small man stopped talking, so suddenly that even the geese seemed to notice.
 
 "Can you," he said.
 
-"The stalk of the green is fresh, and the stalk of the brown has dried. They are the same shape and the same size." She had her finger in the basket now, and Cael knew that there would be no stopping her; she had been wrong about very few things that she could look at, and she went at this one as she had once gone at a restricted shelf. "The brown has been let hang until the skin roughened, and that is all."
+"The stalk of the green is fresh, and the stalk of the brown has dried. They are the same shape and the same size." She had her finger in the basket now, and Cael knew that there would be no stopping her; she had been wrong about very few things that she could look at. "The brown has been let hang until the skin roughened, and that is all."
 
 "Is it."
 
@@ -224,7 +224,7 @@ Outside the door somebody was knocking the frost off his boots.
 
 It was a line in a square hand, on a small leaf, and Cael had not thought of it since he crossed the Line. It came into his head whole, at a board in a grain hold with a goat's bones on it; and it took him a breath to learn what had fetched it. Brom was reading aloud, and he had just said *instruments*.
 
-The carter stood inside the door with his hat in his hands. He was a short thick man with twenty-two years on one road, and he had driven a light cart up a frozen valley since first light; his eyebrows were white with it. He had held a scrap of bark out across the board, and Cael had had a book in one hand and a pencil in the other. So it was Brom who had taken it and turned it to the fire, and who was giving it to the table now in his slow voice, a stop at a time, as he had once read out the tags on a researcher's bundles.
+The carter stood inside the door with his hat in his hands. He was a short thick man with twenty-two years on one road, and he had driven a light cart up a frozen valley since first light; his eyebrows were white with it. He had held a scrap of bark out across the board, and Cael had had a book in one hand and a pencil in the other. So it was Brom who had taken it and turned it to the fire, and who was giving it to the table now in his slow voice, a stop at a time.
 
 "From the one-armed man, same as before," the carter had said. "You're to read it, and if it's wrong you say so when you're down."
 
@@ -314,7 +314,7 @@ He laid the bark in and buckled the flap. Nobody at that board had spoken the ol
 
 Seln spoke to him at the door, when the hold was banking its fire and the others had gone out into the frost.
 
-"I have had the day in my head since the shelf. I had it the last time, also. I stood in a corridor on that occasion and told you about a board." He had his hands behind him. "I thought that I should like to learn whether I could say the thing itself. Many happy returns."
+"I have had the day in my head since the shelf. I had it the last time, also. I stood in a corridor on that occasion and told you about a board. I thought that I should like to learn whether I could say the thing itself. Many happy returns."
 
 "Thank you."
 
@@ -326,7 +326,7 @@ It came home to his own two fingers, and he very nearly sat up.
 
 He had not been sure that anything would go. He had sent it out from the palm on his breastbone a breath before, as blindly as a person drops a stone into a well to hear how deep the water lies. It had gone the whole length of him, in fits, and turned; and here it was, arriving under the two fingers that he had laid on the inside of his right wrist. It set out again without being told.
 
-He knew nothing of how the thing was done except how it had been done to him, and so he had begun where she began, with two fingers and a palm, and the breath of a man asleep, and a count. At ten the short reading had given him the moving, as it had once given her that much at a ford. It was his own gait, quick and slow, and no more. The rest he had from the piece of her that sat under his breastbone, which had felt the way of it for twenty minutes on a plank and had kept it.
+He knew nothing of how the thing was done except how it had been done to him, and so he had begun where she began, with two fingers and a palm, and the breath of a man asleep, and a count. At ten the short reading had given him the moving. It was his own gait, quick and slow, and no more. The rest he had from the piece of her that sat under his breastbone, which had felt the way of it for twenty minutes on a plank and had kept it.
 
 The first thing that he went looking for was the last thing that she had told him of. He went along the dry hiss in his feet until he had it clear, and then he looked for the place where it stopped and something else began; and there was none. It thinned, and the millstone was under it, and he could not have said where the one had left off. He tried it with the wick in his hand, and with the bellows, and with the low sea under everything. Each went on into the next as water goes into water.
 
@@ -334,7 +334,7 @@ The first thing that he went looking for was the last thing that she had told hi
 
 He could count, though, by sound and by where each one lay. He went along them, and there were nine that he knew; and the thing that went out from his palm and came back was a tenth, lighter than any of them. He had not been able to hear that one in three days of listening. He could tell it now only as a walker tells his own stride, by the going of it.
 
-Ten, then, and not a bank to any of them. He set that by, to be written first.
+Ten, then, and not a bank to any of them. He kept that, to be written first.
 
 It was on the next pass that he found the other.
 

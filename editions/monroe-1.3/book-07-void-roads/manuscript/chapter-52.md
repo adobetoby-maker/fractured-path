@@ -12,7 +12,7 @@ It was the hundred and fifteenth morning. He had slept as a stone sleeps, and wo
 
 "Then you'll be an hour or two with your backs to the sky. I'd not care to be, after yesterday." His grey eyes came round. "We'll hold it till you're up."
 
-Cael had lain against a bar of iron the night before, shaking, and had watched a lantern go away round the ruts to look for whatever six people had left; he had thought then that it was more than a captain owed to a crew ten lines under him, and he had not known how to say so. He did not know now. He had one word for a thing that he could neither refuse nor repay, and he had already given it to this man once.
+Cael had lain against a bar of iron the night before, shaking, and had watched a lantern go away round the ruts to look for whatever six people had left; he had thought then that it was more than a captain owed to a crew ten lines under him, and he had not known how to say so. He did not know now.
 
 "Noted," he said.
 
@@ -108,7 +108,7 @@ It was hardly a question. She had put it to the wall.
 
 "Lines," Karis said.
 
-She said it at once, without turning round.
+She said it without turning round.
 
 "I do not know that they are letters. I said so on a floor nineteen days ago, and I do not know it yet. They are lines, cut in groups, by somebody who meant something, and that is as far as I can swear." Her lamp moved along the course. "It is a great deal farther than I could swear a month ago."
 
@@ -226,7 +226,7 @@ A sheet of thin paper slid down the eastern wall and folded itself on the floor.
 
 Karis had let go of it. She had been kneeling at the lowest course, with her left hand spread to hold the sheet and her right about to begin; and she had come up off her knees as if somebody had laid a cold hand between her shoulders.
 
-She stood with her back to the stone, and she had gone white, and then red, and both her hands were open at her sides.
+She stood with her back to the stone, and she had gone white, and then red.
 
 "Say that again," she said. "The last word."
 
@@ -298,7 +298,7 @@ She sat back on her heel, with the pencil still on the paper.
 
 "The floor was carved by somebody who knew the circle's size," she said.
 
-Nobody answered her, and it lay in that cold room as her three facts had once lain on a trestle; Cael saw every one of them leave it where it had fallen.
+Nobody answered her. Cael saw every one of them leave it where it had fallen.
 
 It was Seln who spoke, and he did it carefully.
 

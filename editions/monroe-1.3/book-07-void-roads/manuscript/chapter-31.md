@@ -26,7 +26,7 @@ The first was pale, nearly white along the spine, so that against that floor he 
 
 They did not hurry, and it was that which he liked least. They spread out among the eleven stones as a crew spreads out in its own yard at the end of a day. One sat and scratched. The pale one stood at the middle of the round, by the place where a cord had ended, with its nose down on the grey.
 
-They had gone out by the east at first light, as Seln had read off bare earth, and they had come home by the west, up the one track on the whole of that hillside which six people had made since noon. He thought of a healer at the far end of that track, counting to ten on a wrist, twice, with her Path running; he did not know that it bore, and he put it by for whoever kept findings.
+They had gone out by the east at first light, as Seln had read off bare earth, and they had come home by the west, up the one track on the whole of that hillside which six people had made since noon. He thought of a healer at the far end of that track, counting to ten on a wrist, twice, with her Path running; he did not know that it bore, and he left it for whoever kept findings.
 
 "The road's cut."
 

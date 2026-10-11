@@ -10,7 +10,7 @@ So she had the barn floor swept first. It was a threshing floor of beaten clay, 
 
 Her voice was coming back. It still had the hinge in it, but she could put a sentence together now if she rested between.
 
-They were long strips, each of them as long as a tall man and a hand and a half wide, of the thin paper that she rubbed stones with; and Brom brought them to her one at a time on his two palms, as he had carried them to a box. She took the first and read the corner. She had written there, on a floor with the sun going down, the stone's number, and its height, and the way that it faced.
+They were long strips, each of them as long as a tall man and a hand and a half wide, of the thin paper that she rubbed stones with; and Brom brought them to her one at a time on his two palms. She took the first and read the corner. She had written there, on a floor with the sun going down, the stone's number, and its height, and the way that it faced.
 
 "West by north. Lay it there. The foot of it outward."
 
@@ -36,7 +36,7 @@ She had Lira lift the first strip by its head and hold it to the light of the do
 
 "I do not know that these are letters. I said so on the floor, and nothing has altered. But the strokes stand one after another, with gaps between, and a thing set in groups can be counted in groups." She laid her finger under a hooked stroke with two short bars across its stem. "That. I want to know whether that is on any other strip. If it is on four, it is a kind. If it is on this one alone, it is a scratch, and I shall say so."
 
-They went at it as they had once gone at a library on the same trestle. Cael drew each group on a slip of bark as she called it, with a number, and Lira laid the slips out in rows on the clay; and whenever a group turned up that had a slip already, Karis dropped a grain of barley into the horn cup at her feet.
+Cael drew each group on a slip of bark as she called it, with a number, and Lira laid the slips out in rows on the clay; and whenever a group turned up that had a slip already, Karis dropped a grain of barley into the horn cup at her feet.
 
 By the middle of the afternoon there were a great many slips, and the cup rattled.
 
@@ -58,7 +58,7 @@ Lira sat back on her heels.
 
 "For the day that I have a second."
 
-She said it to the cup. Cael heard it, and so did Seln, who was standing by the trestle with a sheet of thin paper in his hand that had a ring of charcoal on it.
+She said it to the cup. Cael heard it, and so did Seln, who was standing by the trestle with a sheet of thin paper that had a ring of charcoal on it.
 
 ---
 
@@ -81,8 +81,6 @@ She had kept it for the doubtful ones, and there were a good many grains in it. 
 Were they one kind, or two?
 
 She knew how she would have answered a week ago. She would have looked hard, and trusted her eye, and said *one*; and she would have been as sure of it as she had been of a stalk.
-
-She could still taste that apple. A small bald man had been talking about fruit, and it was the best sentence on method that anybody had said to her since Ternhall.
 
 She had one basket.
 
@@ -118,13 +116,13 @@ He held it out to her across the sill, and she turned it to the light. Four dark
 
 Then her eyes went past him, into the barn.
 
-It was the only time that he saw her look at it. She took in the swept clay, and the eleven pale strips lying like spokes, and the wands in their clay, and a small person on a keg in the middle with barley at her feet. Her look went round them once. It took about as long as it took her to count a bench.
+It was the only time that he saw her look at it. She took in the swept clay, and the eleven pale strips lying like spokes, and the wands in their clay, and a small person on a keg in the middle with barley at her feet. Her look went round them once.
 
 "Is that what was round their feet?"
 
 "It is," said Karis. "A band on each. I rubbed them on the afternoon of the ninety-sixth."
 
-"I've walked round those stones thirty times. I never knew that they'd anything on them." The healer was silent for a breath. "I never went near enough. I was told that I'd no business there."
+"I've walked round those stones thirty times. I never knew that they'd anything on them. I never went near enough. I was told that I'd no business there."
 
 She put no question about the lines. She had seen a table with somebody else's work on it, and had given it the one look that a person gives to a trade which is not hers; and Cael, who had been read for most of his life by people who could not leave a strange thing alone, thought that he had never seen it done so cleanly.
 
@@ -142,11 +140,11 @@ Oryn did it aloud, on her fingers, as she did every sum.
 
 She went back across the yard to her bench, on the low side of nothing.
 
-Cael turned a slip of bark over in his fingers. He had the sum. A woman had put one day on her route for a boy whom she could not read; she had spent five on a road at his heels, and nine more at this gate, and a mending on a table with the door shut. He had it entered where she had told him to have it, and he was to do nothing with it.
+He had the sum, and he was to do nothing with it.
 
 There was a step in the yard that he did not know.
 
-It was slow and dry, and it came from the western gate. He had never before seen that man on the ground at noon without a reason. The bowman crossed the frozen yard as he had crossed it once with a peeled stick, without hurry, and he had something long under his arm in a goatskin with the hair still on it. He came to the barn door and stopped, and his eyes went over the paper ring without the least curiosity and found the person kneeling in it.
+It was slow and dry, and it came from the western gate. He had never before seen that man on the ground at noon without a reason. The bowman crossed the frozen yard without hurry, and he had something long under his arm in a goatskin with the hair still on it. He came to the barn door and stopped, and his eyes went over the paper ring without the least curiosity and found the person kneeling in it.
 
 He lifted two fingers from the goatskin, an inch.
 
@@ -166,7 +164,7 @@ She had been putting it off. She had a leaf to rule for the box, the first fair 
 
 The barn was cold, and smelled of barley and of hens. She sat at the trestle with Seln's coat round her and her notebook open at the five rows, and for once she did not begin by writing.
 
-She began instead with what other people called it. A carter's wife had given her *quiet ground*, across a yard, in three sentences. A one-armed man had said the same two words under an eave, and had told them where the sigil went to sleep. She had those entered as said. They were good words for what they were, which was a warning.
+She began instead with what other people called it. A carter's wife had given her *quiet ground*, across a yard, in three sentences. A one-armed man had said the same two words under an eave, and had told them where the sigil went to sleep. She had those entered as said. They were good words for a warning.
 
 They were a carter's words, though, and a carter had never been in; he meant a patch of country that his road went round. *Ground* was a where.
 
@@ -188,17 +186,13 @@ There was the carters' *sleep*. She liked that one least. A thing that sleeps ha
 
 There was *silencing*, which she held longest. It was the right sort of word; it was made out of a verb, and a verb was what she had seen. But it claimed too much. To silence a thing was to stop its mouth, and she had copied a great many pages on what an Arbiter was, in a room where the pages were counted before she left it, and not one of them said that it spoke.
 
-She had the pencil in her hand. She wrote the two words that were left, small, to see how they stood.
+She wrote the two words that were left, small, to see how they stood.
 
 *the Quieting*
 
-She looked at it for some time.
-
 It was made out of a verb, like the other; it named a thing that went on happening, to whatever came over the line, for as long as it stayed there. It did not say how, and it did not say why. It took *the* in front, which made it one thing, and it would take a place after it without complaint: the Quieting at the Fallow Ring. She could write *inside* before it, and *the edge of*, and *a site of*.
 
-It was the right grammar. It was a word for a process; a place could be hung on it afterward, and another place after that.
-
-She distrusted it at once, for the fit. A name that sits too well is a hypothesis in a clean shirt, and she turned out its pockets. It claimed that something was quieted, and she had five rows for that. It claimed that it was one thing and not five, and she had one stride. She could find nothing else in it.
+She distrusted it for the fit. A name that sits too well is a hypothesis in a clean shirt, and she turned out its pockets. It claimed that something was quieted, and she had five rows for that. It claimed that it was one thing and not five, and she had one stride. She could find nothing else in it.
 
 She underlined it, once. She would say it to four people before it went into the box, so that any of them might call it wrong.
 
@@ -242,7 +236,7 @@ She said the word to them at the trestle, in the middle of that morning, with in
 
 "For what is at that place. For what it is that the five of us walked into, and he walked through."
 
-She turned her leaf round on the board, and said the two words aloud while Cael read them upside down, as she had once read a line of his.
+She turned her leaf round on the board, and said the two words aloud while Cael read them upside down.
 
 "It's got a name," said Brom. "Quiet ground. The carter's wife said it, and the one-armed man, and that old keeper at the ford would have, I dare say, if we'd asked him."
 
@@ -268,7 +262,7 @@ Lira tried it in her own mouth.
 
 "He has a word of his own, and so has every carter who reads his plank; they have kept alive by it." Karis shook her head. "Mine is for the box. I should be sorry to hear it in a meadow before I know whether it is right."
 
-"A name that is read out to a meadow is on a boat inside the month," said Seln, from the end of the trestle, where he had stood through all of it with his hands behind him.
+"A name that is read out to a meadow is on a boat inside the month," said Seln, from the end of the trestle, where he had stood through all of it.
 
 "Does it say why?" said Cael.
 
@@ -286,7 +280,7 @@ He had seen her from the ladder at first light, with a pen in her hand and a lea
 
 "I should have to stand there."
 
-Cael looked at two words on a leaf, and he knew as well as anybody living what a name could do to a thing. A clerk had once put one on a boy, in capitals, where a tier should have gone; and from that morning nobody had needed to ask what the boy was, since there was a word on a file that answered for him. A name of that sort shut a door. This was the first that he had ever watched being made which had been cut to keep the door open.
+Cael looked at two words on a leaf, and he knew as well as anybody living what a name could do to a thing. A word in capitals on a file had shut a door on a boy. This was the first that he had ever watched being made which had been cut to keep the door open.
 
 She let her own sentence lie where it had fallen; she had said a thing about a word, and no more. She drew the leaf back, and said the name over once more, aloud, exactly as she had said it the first time. Then she wrote it at the head of the fair leaf, and the box had its first heading.
 

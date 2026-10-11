@@ -4,7 +4,7 @@ Seln asked for the other paper before he would speak about this one.
 
 Cael took it out of Hesk's book, where it had lain since the ninetieth night with five strokes at its foot. Seln held the two sheets up to the fire, one in each hand, so that the flame stood behind both; and for some time he looked through them, as he had looked through the first on an inn's boards, and read no word of either.
 
-They were alone under the ash. The nearest of the other fires was forty yards off, with two carters asleep at it, and the mule stood between with the boxes under her blanket. Brom had built their own fire up. Lira sat on the middle box with her foot set down whole and her right hand over the knot of her sling.
+They were alone under the ash. The nearest of the other fires was forty yards off, with two carters asleep at it, and the mule stood between with the boxes under her blanket. Brom had built their own fire up. Lira sat on the middle box with her foot set down whole.
 
 "The margin is pricked by the same wheel," said Seln. "There is a tooth missing from it. Every eleventh hole stands a little wide of its neighbours, on both sheets, in the same place. And the hand is one hand. He makes the foot of that letter with a second stroke, which is a fault, and he has made it twice." He lowered the papers. "They were written at one desk, by one clerk, I should say at one sitting. He ruled two sheets and filled them one after the other, and they were folded into the same wrapper before the ink of the second was a day old."
 
@@ -54,9 +54,9 @@ He gave her the first place because she had not taken her eyes off him since the
 
 "Walk away."
 
-She let that stand by itself for a breath, so that nobody should mistake it for the start of something longer.
+She left it there, so that nobody should mistake it for the start of something longer.
 
-"He's just told you what it is. It's got a ruled edge and a word for itself. I don't need it read to me a third time." Her right hand had closed on the knot. "There's a walk on that oak at fifty that nobody's scratched, a string of salt to the middle holds before the pass shuts. There's a fence at forty, the day the hold comes off it. That's ninety marks of work that was posted by people who want a fence. We'd be down from both before the snow."
+"He's just told you what it is. It's got a ruled edge and a word for itself. I don't need it read to me a third time. There's a walk on that oak at fifty that nobody's scratched, a string of salt to the middle holds before the pass shuts. There's a fence at forty, the day the hold comes off it. That's ninety marks of work that was posted by people who want a fence. We'd be down from both before the snow."
 
 "And the circles?" said Karis.
 
@@ -68,7 +68,7 @@ She looked down at her sling, and up again.
 
 "Brom."
 
-Brom had been turning a stick in the fire, and he laid it down, and rubbed the four dark lines on his fingers with his thumb, and was a good while beginning.
+Brom had been turning a stick in the fire, and he laid it down, and was a good while beginning.
 
 "Three hundred's a number a man doesn't reach for."
 
@@ -89,8 +89,6 @@ He looked across the fire at a cream sheet.
 "I don't know what's wrong with this one. Seln's told me, and I believe him, and I still couldn't put my hand on the place. But I know what my father's face looked like. I've been wearing it since that bench." He shut his mouth, and opened it once more. "That's mine. I've not said go, and I've not said stay."
 
 "Karis."
-
-She had her notebook shut under both hands, as she had held it at an inn's boards.
 
 "I would go alone."
 
@@ -116,11 +114,11 @@ Lira was staring across the fire.
 
 "You'd walk us onto that floor to get a look at somebody."
 
-"I should walk myself onto it. I have told you what I think the paper is. I did not say that it was wise to answer it." Seln folded his hands on the two sheets. "I was asked what I would do, and I have said. I should be sorry to have it counted for more than one hand."
+"I should walk myself onto it. I have told you what I think the paper is. I did not say that it was wise to answer it. I was asked what I would do, and I have said. I should be sorry to have it counted for more than one hand."
 
 Karis had opened her mouth and shut it again, and Cael was glad of it. Whatever lay behind those few words was Seln's, and he had laid on the table as much of it as he chose.
 
-It was Cael's turn, and he had had the whole of the walk down from the inn to find a reason; he had found several, and he set them all by, since he had learned at an inn's boards what his reasons were worth when he dressed them.
+It was Cael's turn, and he had had the whole of the walk down from the inn to find a reason; he had found several, and he used none of them, since he had learned at an inn's boards what his reasons were worth when he dressed them.
 
 "I'll say the thing that none of you can say for me. Then I'll say why it matters."
 
@@ -128,7 +126,7 @@ He looked round the four of them, one face at a time.
 
 "Inside the circle, I'm the only one who works. They chose a floor that makes the rest of you helpless. They don't know it doesn't do anything to me."
 
-It was the first time that he had said it to all of them in so many words. He had told it on a gate-walk as a thing that frightened him, and in a loft as a thing that he had hidden, and he had never before set it down in front of them as a fact to be used: four Paths stopped at such a line, and ten fragments did not. It lay there among them in the firelight like a tool on a bench.
+It was the first time that he had said it to all of them in so many words. He had told it on a gate-walk as a thing that frightened him, and in a loft as a thing that he had hidden, and he had never before set it down in front of them as a fact to be used: four Paths stopped at such a line, and ten fragments did not.
 
 "Seln's read the paper right, and Brom's read the number right. It's a trap, and it's been cut to our measure by somebody with our files open. Everything in it has been reckoned." He kept his voice low. "But it stands on one belief, which is that a certain kind of floor does the same to all of us. And that's the one thing about this crew that nobody in the west can find out. They sent a paper to learn whether we'd come out of the first, and we did, and what they've learned from it is wrong."
 
@@ -224,7 +222,7 @@ He got up, which he seldom did once he was down, and turned his shoulder to what
 
 "Hold. On my own mark. If they're late down, nobody comes to me for that slip. It stays theirs till I've seen them or seen where they stopped." He sat down again. "That's said. I'll say it to the meadow in the morning."
 
-Cael stood with nothing in his hands, and he knew what that word was for: a captain asked for it so that a job should be kept for him. Pike had turned it round, as a healer had once said that her table was turned: he had put it on a paper so that if five people did not come back, nobody else should be sent up that ridge after three hundred marks to learn why.
+Cael knew what that word was for: a captain asked for it so that a job should be kept for him. Pike had turned it round: he had put it on a paper so that if five people did not come back, nobody else should be sent up that ridge after three hundred marks to learn why.
 
 "Thank you," he said.
 
@@ -306,7 +304,7 @@ For twelve years the thing in the case had been like weather to him. It had fall
 
 But a boy had come up a hill with a word on his file where a tier should have been, and had looked at every instrument that was turned on him as though somebody had built it. That had been the end of the weather. If a thing was built, then there was a builder, with a walk, and a way of holding a pen, and a tiredness at the end of the day. Seln could no longer do without seeing one: he wished to stand on the same ground as a single one of them, in daylight, and learn what a person looked like who did this for his living.
 
-It was a clerk's want, since a file wanted a name at its head; he did not think that it was a noble one, and he entered it as it stood.
+It was a clerk's want, since a file wanted a name at its head; he did not think that it was a noble one, and he took it for what it was.
 
 Then he audited his vote, since he owed that.
 

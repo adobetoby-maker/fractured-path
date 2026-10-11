@@ -1,0 +1,197 @@
+chapter-31.md	sentences=215	skeleton=1%	close=16%
+  scene 1	n=61	skeleton=0%	close=18%
+  scene 2	n=37	skeleton=0%	close=8%
+  scene 3	n=33	skeleton=0%	close=15%
+  scene 4	n=52	skeleton=2%	close=19%
+  scene 5	n=32	skeleton=3%	close=16%
+chapter-32.md	sentences=253	skeleton=1%	close=13%
+  scene 1	n=58	skeleton=2%	close=10%
+  scene 2	n=62	skeleton=2%	close=18%
+  scene 3	n=33	skeleton=0%	close=9%
+  scene 4	n=50	skeleton=2%	close=14%
+  scene 5	n=50	skeleton=0%	close=10%
+chapter-33.md	sentences=190	skeleton=6%	close=25%
+  scene 1	n=48	skeleton=4%	close=21%
+  scene 2	n=46	skeleton=7%	close=30%
+  scene 3	n=39	skeleton=0%	close=8%
+  scene 4	n=32	skeleton=12%	close=38%
+  scene 5	n=25	skeleton=12%	close=36%
+chapter-34.md	sentences=217	skeleton=10%	close=23%
+  scene 1	n=46	skeleton=2%	close=13%
+  scene 2	n=50	skeleton=4%	close=16%
+  scene 3	n=40	skeleton=18%	close=35%  <-- over 15%
+  scene 4	n=19	skeleton=37%	close=42%  <-- over 15%
+  scene 5	n=62	skeleton=8%	close=21%
+chapter-35.md	sentences=271	skeleton=3%	close=23%
+  scene 1	n=28	skeleton=0%	close=11%
+  scene 2	n=47	skeleton=2%	close=28%
+  scene 3	n=30	skeleton=0%	close=30%
+  scene 4	n=46	skeleton=4%	close=28%
+  scene 5	n=35	skeleton=3%	close=17%
+  scene 6	n=35	skeleton=0%	close=26%
+  scene 7	n=50	skeleton=6%	close=16%
+chapter-36.md	sentences=221	skeleton=12%	close=24%
+  scene 1	n=35	skeleton=9%	close=23%
+  scene 2	n=58	skeleton=9%	close=21%
+  scene 3	n=54	skeleton=2%	close=17%
+  scene 4	n=33	skeleton=48%	close=55%  <-- over 15%
+  scene 5	n=41	skeleton=2%	close=17%
+chapter-37.md	sentences=184	skeleton=8%	close=25%
+  scene 1	n=37	skeleton=0%	close=14%
+  scene 2	n=39	skeleton=21%	close=38%  <-- over 15%
+  scene 3	n=36	skeleton=14%	close=28%
+  scene 4	n=52	skeleton=0%	close=23%
+  scene 5	n=20	skeleton=10%	close=20%
+TOTAL	sentences=1551	skeleton=6%	close=21%
+chapter-38.md	sentences=250	skeleton=2%	close=17%
+  scene 1	n=41	skeleton=0%	close=15%
+  scene 2	n=48	skeleton=0%	close=25%
+  scene 3	n=51	skeleton=8%	close=22%
+  scene 4	n=50	skeleton=0%	close=14%
+  scene 5	n=28	skeleton=0%	close=11%
+  scene 6	n=32	skeleton=3%	close=12%
+chapter-39.md	sentences=226	skeleton=1%	close=12%
+  scene 1	n=51	skeleton=0%	close=16%
+  scene 2	n=49	skeleton=2%	close=6%
+  scene 3	n=30	skeleton=0%	close=10%
+  scene 4	n=31	skeleton=0%	close=10%
+  scene 5	n=32	skeleton=0%	close=19%
+  scene 6	n=33	skeleton=3%	close=15%
+chapter-40.md	sentences=267	skeleton=4%	close=15%
+  scene 1	n=36	skeleton=3%	close=17%
+  scene 2	n=43	skeleton=0%	close=7%
+  scene 3	n=51	skeleton=8%	close=16%
+  scene 4	n=24	skeleton=4%	close=4%
+  scene 5	n=39	skeleton=0%	close=15%
+  scene 6	n=74	skeleton=8%	close=20%
+chapter-41.md	sentences=234	skeleton=1%	close=20%
+  scene 1	n=46	skeleton=0%	close=22%
+  scene 2	n=38	skeleton=0%	close=8%
+  scene 3	n=44	skeleton=5%	close=27%
+  scene 4	n=38	skeleton=0%	close=16%
+  scene 5	n=31	skeleton=0%	close=29%
+  scene 6	n=37	skeleton=3%	close=16%
+chapter-42.md	sentences=228	skeleton=4%	close=23%
+  scene 1	n=48	skeleton=8%	close=29%
+  scene 2	n=39	skeleton=0%	close=15%
+  scene 3	n=44	skeleton=0%	close=18%
+  scene 4	n=65	skeleton=6%	close=26%
+  scene 5	n=32	skeleton=0%	close=22%
+chapter-43.md	sentences=224	skeleton=2%	close=17%
+  scene 1	n=40	skeleton=0%	close=15%
+  scene 2	n=34	skeleton=6%	close=15%
+  scene 3	n=34	skeleton=0%	close=18%
+  scene 4	n=38	skeleton=0%	close=8%
+  scene 5	n=36	skeleton=0%	close=17%
+  scene 6	n=42	skeleton=7%	close=26%
+chapter-44.md	sentences=243	skeleton=8%	close=25%
+  scene 1	n=48	skeleton=4%	close=31%
+  scene 2	n=62	skeleton=11%	close=26%
+  scene 3	n=3	skeleton=100%	close=100%
+  scene 4	n=49	skeleton=12%	close=37%
+  scene 5	n=36	skeleton=3%	close=11%
+  scene 6	n=45	skeleton=0%	close=11%
+TOTAL	sentences=1672	skeleton=3%	close=18%
+chapter-45.md	sentences=207	skeleton=3%	close=20%
+  scene 1	n=55	skeleton=0%	close=16%
+  scene 2	n=35	skeleton=3%	close=17%
+  scene 3	n=40	skeleton=2%	close=22%
+  scene 4	n=36	skeleton=0%	close=14%
+  scene 5	n=41	skeleton=10%	close=32%
+chapter-46.md	sentences=286	skeleton=6%	close=20%
+  scene 1	n=44	skeleton=5%	close=9%
+  scene 2	n=50	skeleton=2%	close=24%
+  scene 3	n=43	skeleton=16%	close=26%  <-- over 15%
+  scene 4	n=36	skeleton=8%	close=19%
+  scene 5	n=31	skeleton=6%	close=29%
+  scene 6	n=35	skeleton=0%	close=20%
+  scene 7	n=47	skeleton=2%	close=17%
+chapter-47.md	sentences=186	skeleton=3%	close=13%
+  scene 1	n=28	skeleton=0%	close=7%
+  scene 2	n=40	skeleton=2%	close=15%
+  scene 3	n=36	skeleton=0%	close=19%
+  scene 4	n=45	skeleton=2%	close=9%
+  scene 5	n=37	skeleton=11%	close=14%
+chapter-48.md	sentences=197	skeleton=2%	close=13%
+  scene 1	n=31	skeleton=10%	close=19%
+  scene 2	n=46	skeleton=2%	close=13%
+  scene 3	n=37	skeleton=0%	close=8%
+  scene 4	n=33	skeleton=0%	close=9%
+  scene 5	n=50	skeleton=0%	close=16%
+chapter-49.md	sentences=210	skeleton=2%	close=18%
+  scene 1	n=61	skeleton=0%	close=11%
+  scene 2	n=37	skeleton=0%	close=16%
+  scene 3	n=30	skeleton=0%	close=20%
+  scene 4	n=42	skeleton=0%	close=21%
+  scene 5	n=40	skeleton=12%	close=25%
+chapter-50.md	sentences=231	skeleton=2%	close=16%
+  scene 1	n=37	skeleton=0%	close=19%
+  scene 2	n=32	skeleton=0%	close=6%
+  scene 3	n=32	skeleton=0%	close=22%
+  scene 4	n=54	skeleton=6%	close=20%
+  scene 5	n=46	skeleton=2%	close=15%
+  scene 6	n=30	skeleton=0%	close=13%
+chapter-51.md	sentences=288	skeleton=1%	close=18%
+  scene 1	n=34	skeleton=0%	close=21%
+  scene 2	n=49	skeleton=0%	close=16%
+  scene 3	n=39	skeleton=3%	close=28%
+  scene 4	n=48	skeleton=2%	close=15%
+  scene 5	n=26	skeleton=8%	close=15%
+  scene 6	n=41	skeleton=0%	close=17%
+  scene 7	n=51	skeleton=0%	close=16%
+chapter-52.md	sentences=264	skeleton=6%	close=19%
+  scene 1	n=42	skeleton=0%	close=17%
+  scene 2	n=40	skeleton=0%	close=15%
+  scene 3	n=43	skeleton=2%	close=19%
+  scene 4	n=47	skeleton=2%	close=13%
+  scene 5	n=50	skeleton=20%	close=30%  <-- over 15%
+  scene 6	n=42	skeleton=10%	close=21%
+TOTAL	sentences=1869	skeleton=3%	close=18%
+chapter-53.md	sentences=269	skeleton=1%	close=16%
+  scene 1	n=45	skeleton=0%	close=11%
+  scene 2	n=53	skeleton=0%	close=9%
+  scene 3	n=44	skeleton=0%	close=9%
+  scene 4	n=34	skeleton=3%	close=18%
+  scene 5	n=59	skeleton=3%	close=25%
+  scene 6	n=34	skeleton=3%	close=26%
+chapter-54.md	sentences=229	skeleton=2%	close=16%
+  scene 1	n=37	skeleton=0%	close=8%
+  scene 2	n=28	skeleton=0%	close=11%
+  scene 3	n=49	skeleton=2%	close=6%
+  scene 4	n=32	skeleton=3%	close=22%
+  scene 5	n=40	skeleton=8%	close=25%
+  scene 6	n=43	skeleton=0%	close=23%
+chapter-55.md	sentences=201	skeleton=5%	close=17%
+  scene 1	n=24	skeleton=4%	close=17%
+  scene 2	n=41	skeleton=2%	close=10%
+  scene 3	n=39	skeleton=0%	close=10%
+  scene 4	n=40	skeleton=18%	close=32%  <-- over 15%
+  scene 5	n=57	skeleton=4%	close=16%
+chapter-56.md	sentences=176	skeleton=3%	close=15%
+  scene 1	n=52	skeleton=0%	close=15%
+  scene 2	n=34	skeleton=0%	close=6%
+  scene 3	n=41	skeleton=0%	close=10%
+  scene 4	n=49	skeleton=10%	close=27%
+chapter-57.md	sentences=172	skeleton=1%	close=14%
+  scene 1	n=29	skeleton=3%	close=10%
+  scene 2	n=51	skeleton=0%	close=22%
+  scene 3	n=47	skeleton=2%	close=13%
+  scene 4	n=45	skeleton=0%	close=9%
+chapter-58.md	sentences=162	skeleton=6%	close=19%
+  scene 1	n=38	skeleton=8%	close=18%
+  scene 2	n=41	skeleton=0%	close=10%
+  scene 3	n=33	skeleton=0%	close=18%
+  scene 4	n=50	skeleton=12%	close=26%
+chapter-59.md	sentences=191	skeleton=2%	close=17%
+  scene 1	n=35	skeleton=0%	close=6%
+  scene 2	n=64	skeleton=0%	close=17%
+  scene 3	n=45	skeleton=0%	close=20%
+  scene 4	n=47	skeleton=9%	close=23%
+chapter-60.md	sentences=234	skeleton=9%	close=20%
+  scene 1	n=37	skeleton=8%	close=16%
+  scene 2	n=55	skeleton=13%	close=29%
+  scene 3	n=33	skeleton=0%	close=9%
+  scene 4	n=42	skeleton=0%	close=14%
+  scene 5	n=35	skeleton=6%	close=11%
+  scene 6	n=32	skeleton=25%	close=34%  <-- over 15%
+TOTAL	sentences=1634	skeleton=4%	close=17%

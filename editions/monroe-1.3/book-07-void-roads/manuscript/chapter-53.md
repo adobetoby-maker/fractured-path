@@ -60,7 +60,7 @@ They left the stone at first light on the hundred and sixteenth day, and for thr
 
 The frost had gone off in the night. Cael woke to a low grey sky and a smell of wet earth, which he had not smelled for three weeks, and by the middle of the forenoon the ruts were dark and soft where they had rung the day before. The carters' road came back to its line beyond the low ground, as a one-armed man had said that it would, and went on south and east under the foot of the ridge. A salt cart had been along it a week ago, and nothing since.
 
-Seln went a quarter of a mile in front, where he could be seen against the sky. Karis walked behind him with the hide under her arm, and at every halt she unrolled it on her knee, and laid the brass along it, and looked from the skin to the country and back again. Lira came next, on the whole of her foot, and a road gone soft was no better for her than a road gone hard. The great boot slid in the mud as it had skated on the ice, and her right arm went out, and her left stayed where a knot held it.
+Seln went a quarter of a mile in front, where he could be seen against the sky. Karis walked behind him with the hide under her arm, and at every halt she unrolled it on her knee, and laid the brass along it, and looked from the skin to the country and back again. Lira came next, on the whole of her foot, and a road gone soft was no better for her than a road gone hard.
 
 Brom had the brown mule and two of the boxes, and the kit on his own back by its strap. The healer came last with the grey, which carried the third.
 
@@ -76,7 +76,7 @@ Brom had the brown mule and two of the boxes, and the kit on his own back by its
 
 "They're not," said Lira, without turning her head. "It's a deal worse when it stops hurting. You forget that it's there."
 
-They slept that night in a halting-ring, with a fire of Seln's flint, and Cael sat his watch with Hesk's book shut on his knee. He owed a healer two readings of himself yet, on two different days, and he had not laid a finger on his own wrist since she told him *not tonight* between two bars of iron. He let it stand. She had asked for a night that was only a night; every one since had been the eve of a floor or the morrow of one, and he thought it likely that this was the eve of another. The debt weighed on him a good deal less than it had on a halting-ground above the wash, and he took that for a sign that he had begun to believe her.
+They slept that night in a halting-ring, with a fire of Seln's flint, and Cael sat his watch with Hesk's book shut on his knee. He owed a healer two readings of himself yet, on two different days, and he had not laid a finger on his own wrist since she told him *not tonight* between two bars of iron. He left it so. She had asked for a night that was only a night; every one since had been the eve of a floor or the morrow of one, and he thought it likely that this was the eve of another. The debt weighed on him a good deal less than it had on a halting-ground above the wash, and he took that for a sign that he had begun to believe her.
 
 On the second morning the road swung away south toward a hold whose smoke they could see, and the brass did not go with it.
 
@@ -348,7 +348,7 @@ They went out as they had come in, at one pace, with the swell beside them in th
 
 They made their camp at the track's end, a few yards outside the grey stone, with the two mules hobbled on the rise. It had come on cold again with the dusk. Seln lit the fire, and the six of them sat close about it while Karis said what she wanted.
 
-"The walls are cut on the inner side. I could see the courses through the gap, and I could not have read one stroke of them at thirty yards if I had sat on that kerb for a week." She had her hands round her knees. "So it is the inside or it is nothing."
+"The walls are cut on the inner side. I could see the courses through the gap, and I could not have read one stroke of them at thirty yards if I had sat on that kerb for a week. So it is the inside or it is nothing."
 
 "There's a way to do it," said Seln. "It has given us its rule, and a rule is a plan. On the floor, we move. We rest only on what comes up out of the old work: the path, and the kerb, and the tops of those walls, which are a yard through. A wall-top is a kerb set on end." He counted it off. "We go in at first light. Lira carries the bow, spanned, since she can loose it and cannot bend it. I carry the hook and the sleeve. Karis has her paper and nothing else. Thirty yards of plates, at a walk, with nobody standing; in at the gap; and up."
 

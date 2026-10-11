@@ -1,0 +1,460 @@
+== ch31
+  37: MAP | 6w the grass where the cord went
+  63: ITAL | 0w 
+  229: ITAL | 0w 
+  235: ITAL | 0w 
+  293: PAT | 0w 
+  323: MAP | 6w i can't fix this here move
+  331: ITAL | 0w 
+== ch32
+  35: ITAL | 0w 
+  117: ITAL | 0w 
+  137: ITAL | 0w 
+  163: ITAL | 0w 
+  183: ITAL | 0w 
+  185: ITAL | 0w 
+  215: ITAL | 0w 
+  223: ITAL | 0w 
+  229: ITAL | 0w 
+  235: ITAL | 0w 
+  251: ITAL | 0w 
+  267: ITAL | 0w 
+== ch33
+  69: ITAL | 0w 
+  93: MAP | 52w a mend that deep holds nothing for a season nothing that arm is not to
+  107: MAP | 7w one arm from here to the snow
+  113: MAP | 12w the ankle's a tape and a season i've told you that before
+  135: ITAL | 0w 
+  137: ITAL | 0w 
+  139: ITAL | 0w 
+  145: ITAL | 0w 
+  189: ITAL | 0w 
+  191: PAT ITAL | 0w 
+  193: ITAL | 0w 
+  195: ITAL | 0w 
+  199: ITAL | 0w 
+  201: ITAL | 0w 
+  203: ITAL | 0w 
+  205: ITAL | 0w 
+  207: ITAL | 0w 
+  209: ITAL | 0w 
+  211: ITAL | 0w 
+  213: ITAL | 0w 
+  215: ITAL | 0w 
+  217: ITAL | 0w 
+  221: ITAL | 0w 
+  223: ITAL | 0w 
+  225: ITAL | 0w 
+  229: ITAL | 0w 
+  233: MAP ITAL | 26w everyone else's went to sleep at the stone mine has been asleep since 
+  273: MAP ITAL | 80w i'm not keeping it secret i'm keeping it unfiled there's a difference 
+== ch34
+  15: MAP | 6w waiting for someone to ask for
+  39: ITAL | 0w 
+  93: ITAL | 0w 
+  129: PAT | 0w 
+  131: PAT | 0w 
+  133: PAT | 0w 
+  165: ITAL | 0w 
+  167: ITAL | 0w 
+  171: MAP | 10w i can't mend what i can't read that's the rule
+  175: PAT | 0w 
+  193: PAT | 0w 
+  197: PAT | 0w 
+  237: MAP | 33w five years ago by the stake maybe six they paced the circles and stamp
+  241: ITAL | 0w 
+  245: ITAL | 0w 
+  249: MAP | 7w the compact knows what quiet ground does
+  253: MAP | 7w and it's filed somewhere we can't reach
+  257: ITAL | 0w 
+  263: MAP | 16w i carried the maps i never saw the file i'm not going to draw you one
+  267: ITAL | 0w 
+  271: ITAL | 0w 
+  295: MAP | 13w the report goes west on the next ferry it'll say we came out
+  311: MAP | 6w six is wrong i'm a stop
+== ch35
+  49: ITAL | 0w 
+  53: ITAL | 0w 
+  55: ITAL | 0w 
+  57: ITAL | 0w 
+  59: ITAL | 0w 
+  67: MAP ITAL | 12w not a rope not a knife not a fall not a friend
+  71: ITAL | 0w 
+  87: ITAL | 0w 
+  99: ITAL | 0w 
+  103: ITAL | 0w 
+  111: ITAL | 0w 
+  115: ITAL | 0w 
+  189: ITAL | 0w 
+  199: ITAL | 0w 
+  215: ITAL | 0w 
+  243: ITAL | 0w 
+  251: ITAL | 0w 
+  259: ITAL | 0w 
+  321: ITAL | 0w 
+  323: PAT | 0w 
+  349: MAP | 8w you don't get a yes you get told
+  353: ITAL | 0w 
+== ch36
+  47: MAP ITAL | 21w ephram fought you in earnest and the notice said non hostile this is e
+  51: MAP ITAL | 18w the model doesn't say the engagement has to be a fight it says it has 
+  57: ITAL | 0w 
+  65: MAP | 6w she doesn't know what i am
+  101: MAP | 9w there's nothing i could put in front of her
+  111: MAP | 6w i don't know what she'd say
+  115: MAP | 7w i was the only thing that worked
+  149: ITAL | 0w 
+  163: MAP | 18w it's the nearest thing to it the log's ever had and it's still not it 
+  173: MAP ITAL | 10w it when you're not broken i run the long one
+  179: MAP | 11w she didn't ask for the rest those aren't the same sentence
+  183: ITAL | 0w 
+  205: MAP ITAL | 50w written before tomorrow morning the back room the door shut oryn runs 
+  207: MAP ITAL | 98w the conditions as i have them sustained twenty minutes at contact is l
+  209: MAP ITAL | 80w the price she doesn't know what i am she can't consent to what she can
+  211: MAP ITAL | 51w if it takes what she's using on me it takes it from the one person on 
+  213: MAP ITAL | 26w after i tell her in full on her table before i'm off it whatever it co
+  215: MAP ITAL | 6w i want it write that too
+  217: MAP ITAL | 14w write it before not after that's the whole difference between me and t
+  269: MAP | 7w i say lie still you lie still
+== ch37
+  55: ITAL | 0w 
+  61: PAT | 0w 
+  91: ITAL | 0w 
+  101: ITAL | 0w 
+  117: ITAL | 0w 
+  125: MAP | 64w i can feel that there's movement more than one i can't count them i ca
+  129: ITAL | 0w 
+  135: MAP | 13w i've never had my hands in something and not known what it was
+  167: ITAL | 0w 
+  175: CODE FENCE
+  176: CODE
+  177: CODE
+  178: CODE
+  179: CODE
+  180: CODE
+  181: CODE
+  182: CODE FENCE
+  188: ITAL | 0w 
+  196: ITAL | 0w 
+  212: MAP | 12w something just changed she said in you while i was in there
+  234: MAP | 8w i need to tell you what i am
+  240: MAP | 23w then lie still while you do it you've been still for twenty minutes i 
+== ch38
+  157: MAP | 20w so i couldn't read you because there was nothing in you shaped like a 
+  161: MAP | 15w what i know is you've now got a piece of the thing i read with
+  169: MAP | 8w then use it on yourself first before anyone
+  173: MAP | 16w i want to know what you find and i want to be the one you tell
+  181: PAT | 0w 
+== ch39
+  11: ITAL | 0w 
+  47: MAP | 18w you have an instrument now it's not mine it never will be i'm entering
+  85: PAT | 0w 
+  93: PAT | 0w 
+  185: ITAL | 0w 
+  225: ITAL | 0w 
+  233: ITAL | 0w 
+  247: ITAL | 0w 
+  249: ITAL | 0w 
+  277: PAT ITAL | 0w 
+  285: MAP | 13w and when it turns outward you ask every time i ask the dying
+== ch40
+  95: ITAL | 0w 
+  147: PAT | 0w 
+  177: ITAL | 0w 
+  209: MAP ITAL | 32w hundred and second day past the line nineteen written at thornwater in
+  217: MAP | 7w good write it down before it changes
+  223: ITAL | 0w 
+  225: ITAL | 0w 
+  231: MAP ITAL | 23w recovery fallow road broker's posting taken witnessed completed incomp
+  239: MAP | 6w six went in six came out
+  299: ITAL | 0w 
+  333: ITAL | 0w 
+  367: ITAL | 0w 
+  369: MAP ITAL | 6w i can't find where one stops
+  371: MAP ITAL | 6w nothing in a fight and the
+  377: MAP ITAL | 71w still open still real now i can see it that's worse the tenth fragment
+  383: PAT ITAL | 0w 
+  385: ITAL | 0w 
+  387: MAP ITAL | 27w daeva's rematch reydan's answer both ride east nineteen ten fragments 
+  389: ITAL | 0w 
+== ch41
+  55: ITAL | 0w 
+  83: ITAL | 0w 
+  93: ITAL | 0w 
+  169: ITAL | 0w 
+  171: ITAL | 0w 
+  175: MAP | 6w a clock that stopped and started
+  179: ITAL | 0w 
+  185: ITAL | 0w 
+  187: ITAL | 0w 
+  189: ITAL | 0w 
+  193: ITAL | 0w 
+  197: ITAL | 0w 
+  217: ITAL | 0w 
+  265: ITAL | 0w 
+  283: ITAL | 0w 
+== ch42
+  23: MAP | 11w a clock that stopped and started again without losing the time
+  27: ITAL | 0w 
+  41: MAP | 23w a personal spiritual entity should not fail the way five looms fail wh
+  51: MAP | 7w six sigils on the road that day
+  59: MAP | 8w i'm not filing that either i'm counting it
+  65: MAP ITAL | 18w one dark since fourteen no change either side of the line stated by hi
+  75: ITAL | 0w 
+  171: ITAL | 0w 
+  221: ITAL | 0w 
+  225: ITAL | 0w 
+  269: MAP | 52w it's older i'll say once and not again than unbound older than the wor
+  277: MAP | 17w everything i can date i've dated the floor's under all of it i don't k
+  341: ITAL | 0w 
+== ch43
+  19: ITAL | 0w 
+  25: ITAL | 0w 
+  47: ITAL | 0w 
+  69: MAP | 24w i have a hypothesis and i'm not entering it because entering it would 
+  79: MAP | 6w does it help not writing it
+  81: MAP | 6w no karis said it's just correct
+  93: MAP | 33w perfect isn't natural somebody made a floor that turns paths off it's 
+  101: MAP | 11w i'm not karis said i'm saying it to you that's different
+  133: MAP | 6w near enough if it's let alone
+  301: MAP | 6w is that i don't know what
+  305: MAP ITAL | 17w you told me when you knew you don't know so you told me that keep doin
+  311: MAP ITAL | 15w in there i was the only thing that worked i don't know which one's wor
+  313: MAP | 8w the second one you're allowed to say so
+== ch44
+  27: MAP ITAL | 7w stated by him not tested by me
+  51: MAP | 34w my hands stop at that line yours don't i had my hands in you for twent
+  55: MAP | 7w i'm not going to guess past it
+  69: MAP ITAL | 14w they know something turns paths off they don't know something doesn't 
+  77: ITAL | 0w 
+  81: ITAL | 0w 
+  85: ITAL | 0w 
+  89: MAP | 15w we find the others all of them and we find out whether they're the sam
+  95: MAP | 12w that's how you find a handful one at a time for money
+  107: PAT | 0w 
+  111: MAP | 25w don't go in without me not because i'm any use inside because somebody
+  133: MAP | 10w i don't do that it's a count you like counts
+  141: MAP ITAL | 109w vastin received the broker's completion report as a courtesy copy forw
+  157: MAP ITAL | 20w the reading turned outward i ask first every time if i ever don't that
+  199: MAP | 12w don't read anyone on the road to find out whether you can
+  203: ITAL | 0w 
+  211: MAP ITAL | 7w on the road to find out whether
+  219: MAP ITAL | 49w nothing out here reads me and at a line you can mark with a rock every
+  275: ITAL | 0w 
+== ch45
+  53: ITAL | 0w 
+  157: PAT | 0w 
+  187: MAP ITAL | 33w recovery surveyor's instruments abandoned at a site on the stair road 
+  211: ITAL | 0w 
+== ch46
+  21: MAP | 10w that's not a wage that's a lure cut to fit
+  27: MAP | 11w where the road drops off the ridge and the ground opens
+  29: ITAL | 0w 
+  33: MAP | 25w this isn't a contract it's a pre restriction inventory they've mapped 
+  45: MAP | 11w they want the case the boy's the price of the case
+  73: PAT | 0w 
+  111: MAP | 24w they'll send people a lure's no use if nobody's waiting at the end of 
+  129: MAP | 29w inside the circle i'm the only one who works they chose a floor that m
+  165: MAP | 6w i don't like it i'm in
+  171: MAP | 15w i want it entered that i said walk away i was right we're going anyway
+  189: ITAL | 0w 
+  191: ITAL | 0w 
+  193: MAP ITAL | 41w priced too well seln says it's for the case i say the floor's for me a
+  195: ITAL | 0w 
+  197: ITAL | 0w 
+  217: ITAL | 0w 
+  247: MAP | 16w my crew's at millrace in two days teague said if you're late back we'l
+  269: MAP ITAL | 6w south of lowmarch the first day
+  281: ITAL | 0w 
+  293: ITAL | 0w 
+== ch47
+  115: MAP | 13w you asked that's the rule and you kept it the answer's no next
+  123: ITAL | 0w 
+  127: PAT | 0w 
+  157: MAP | 7w you're asking me to break the route
+  159: MAP | 9w i'm not asking i'm telling you where we'll be
+  163: MAP | 6w that's worse that's a healer's sentence
+  175: MAP | 7w i'm not going to be anybody's sixth
+  201: MAP | 26w you're on the route now which means when i say lie still you lie still
+  245: MAP ITAL | 28w hundred and thirteenth day the fork above millrace oryn came on her te
+== ch48
+  13: MAP PAT | 10w yes that's the answer and i'm the one giving it
+  37: ITAL | 0w 
+  41: ITAL | 0w 
+  45: ITAL | 0w 
+  47: ITAL | 0w 
+  51: ITAL | 0w 
+  61: ITAL | 0w 
+  89: ITAL | 0w 
+  97: ITAL | 0w 
+  115: MAP | 7w yes she said that's what i am
+  121: MAP | 6w he asked twice and got one
+  185: ITAL | 0w 
+  211: MAP | 6w newer this one's been re surveyed
+  257: ITAL | 0w 
+  275: ITAL | 0w 
+  277: ITAL | 0w 
+  279: ITAL | 0w 
+  281: ITAL | 0w 
+== ch49
+  63: ITAL | 0w 
+  113: ITAL | 0w 
+  133: ITAL | 0w 
+  169: ITAL | 0w 
+  171: ITAL | 0w 
+  177: ITAL | 0w 
+  179: ITAL | 0w 
+  263: MAP | 19w i can see what's wrong i can't feel it and i can't touch it tape it le
+  267: PAT | 0w 
+  273: MAP | 8w i came south for exactly this enter that
+== ch50
+  83: ITAL | 0w 
+  153: PAT | 0w 
+  197: PAT | 0w 
+  289: ITAL | 0w 
+== ch51
+  23: ITAL | 0w 
+  25: ITAL | 0w 
+  31: ITAL | 0w 
+  149: MAP | 13w it held a stair it's not going to hold anything else this season
+  193: ITAL | 0w 
+  197: ITAL | 0w 
+  199: ITAL | 0w 
+  201: ITAL | 0w 
+  203: ITAL | 0w 
+  205: ITAL | 0w 
+  207: ITAL | 0w 
+  209: ITAL | 0w 
+  211: ITAL | 0w 
+  213: ITAL | 0w 
+  217: ITAL | 0w 
+  221: MAP ITAL | 27w second nameless team same hand i own a piece of the first one and i us
+  243: MAP | 7w you walked out of the quiet declaring
+  249: MAP | 16w then you're not on the board anymore you're something the board doesn'
+  263: ITAL | 0w 
+  315: ITAL | 0w 
+  377: ITAL | 0w 
+== ch52
+  13: MAP | 6w we'll hold it till you're up
+  159: MAP | 16w he tried to drive it twice by the head it wouldn't go nothing goes int
+  169: MAP ITAL | 12w nobody leaves a registry kit it's signed out you don't get another
+  191: MAP | 13w i don't know what this is in and i'm not going to say
+  195: ITAL | 0w 
+  207: ITAL | 0w 
+  223: ITAL | 0w 
+  233: ITAL | 0w 
+  263: ITAL | 0w 
+  295: MAP PAT ITAL | 17w every ten cords and a piece two hundred and twenty yards and a stride 
+  299: MAP | 11w the floor was carved by somebody who knew the circle's size
+  311: MAP | 15w a measurement is a fact about a ruler not about the hand that held it
+  357: ITAL | 0w 
+  359: MAP ITAL | 77w instruments recovered the contract's paid and the man who posted it is
+== ch53
+  35: ITAL | 0w 
+  45: ITAL | 0w 
+  79: ITAL | 0w 
+  93: ITAL | 0w 
+  123: MAP | 8w big under comes up nobody's seen it whole
+  205: ITAL | 0w 
+  279: MAP ITAL | 19w it's blind it reads weight on the floor it strikes where the weight is
+  325: MAP | 10w it reads that as the heaviest thing on the floor
+  327: MAP ITAL | 8w it reads that as the thing that stays
+  373: MAP | 15w we're going in without paths to look at walls with a thing under the f
+  383: ITAL | 0w 
+  385: ITAL | 0w 
+  387: ITAL | 0w 
+  389: ITAL | 0w 
+  391: ITAL | 0w 
+== ch54
+  63: MAP ITAL | 10w it's blind it reads the floor get off the floor
+  119: MAP | 7w no i can see that you're not
+  121: ITAL | 0w 
+  123: ITAL | 0w 
+  151: ITAL | 0w 
+  183: MAP ITAL | 13w a thing that hunts what stays commits to the thing that stays hardest
+  227: ITAL | 0w 
+  245: MAP | 7w brom cael said wall your weight now
+  323: PAT | 0w 
+== ch55
+  29: MAP PAT | 17w twice it'll hold twice it will not hold three times this season so don
+  53: ITAL | 0w 
+  79: MAP | 7w lie still i want to read you
+  155: ITAL | 0w 
+  157: ITAL | 0w 
+  159: ITAL | 0w 
+  161: ITAL | 0w 
+  163: ITAL | 0w 
+  165: ITAL | 0w 
+  203: MAP ITAL | 117w read myself ten currents and i can't find the banks either oryn's righ
+  211: ITAL | 0w 
+  231: ITAL | 0w 
+  237: ITAL | 0w 
+  275: MAP | 13w a still place that everything goes around i've never felt that in anyo
+  279: MAP | 19w i don't know what right would look like in you nobody does that's not 
+  289: MAP | 13w write it down and stop touching it things you keep touching don't heal
+  293: MAP | 6w i don't know what it is
+  297: ITAL | 0w 
+  299: ITAL | 0w 
+  301: ITAL | 0w 
+== ch56
+  7: ITAL | 0w 
+  49: MAP | 6w then it wants binding not hands
+  85: ITAL | 0w 
+  87: MAP | 6w it i don't know how far
+  169: ITAL | 0w 
+  179: MAP | 16w and the registry doesn't and i'd sooner be worth what i did than what 
+  183: MAP | 6w that's not an answer to mine
+  189: MAP | 11w i don't have one neither does the board you said so
+  197: MAP | 8w the board's going to need a new column
+  203: MAP ITAL | 35w teague sat down next to me asked what i am i could have read him i ask
+== ch57
+  13: MAP | 6w sixty two cords and twenty strides
+  17: ITAL | 0w 
+  23: ITAL | 0w 
+  41: ITAL | 0w 
+  59: ITAL | 0w 
+  77: ITAL | 0w 
+  99: MAP | 9w three points make a line four make an argument
+  103: ITAL | 0w 
+  141: MAP | 6w that's a healer's sentence oryn said
+  193: MAP | 6w i don't know what it is
+== ch58
+  31: PAT | 0w 
+  33: MAP | 18w i've been a stop on my own route for nine days i'm going back to being
+  63: MAP ITAL | 19w hundred and twenty second day the fork oryn north on her terms i didn'
+  107: ITAL | 0w 
+  193: MAP | 27w half the bend is twice the round four hundred near enough twice the ra
+  199: MAP | 13w that's not a survey that's a cordon they've been here more than once
+  207: MAP ITAL | 9w twice the size is it twice the anything else
+  219: MAP | 24w not without her not without knowing what a circle twice the size does 
+  221: MAP | 7w it's finished karis said it's a line
+  223: MAP | 14w then it's a line that points somewhere we go home and find out where
+  229: MAP ITAL | 81w four sites one line the last one's twice the size and the compact fenc
+== ch59
+  45: ITAL | 0w 
+  65: ITAL | 0w 
+  69: ITAL | 0w 
+  71: ITAL | 0w 
+  173: ITAL | 0w 
+  187: MAP ITAL | 21w crew of six ford cleared traverse mapped ring entered stair entered an
+  199: MAP | 27w teague says you need a column i don't have i've kept this ledger thirt
+  221: MAP | 10w after the thaw whatever's on that bearing my crew comes
+  235: MAP | 15w fence forty teague says it's yours if you want it he's got the cold ro
+== ch60
+  31: ITAL | 0w 
+  35: ITAL | 0w 
+  37: MAP ITAL | 164w wind adjacent lira pressure adjacent the bronze from ardenmere iron ad
+  39: MAP ITAL | 39w one anomaly session nine tide adjacent not an entry any more a locatio
+  41: MAP ITAL | 17w reydan will get his answer daeva will get her rematch both are going t
+  67: MAP ITAL | 36w nineteen i'm told it's late the ferry's fault not mine your grandmothe
+  79: MAP ITAL | 29w nineteen past the line and there's a roof it's an inn the shape you sa
+  83: MAP ITAL | 68w vell there's a second ledger on the continent with my name in it kept 
+  113: ITAL | 0w 
+  123: ITAL | 0w 
+  191: MAP ITAL | 8w a healer who needs a page to know
+  215: MAP ITAL | 23w route's whole the knee held nobody died of three weeks after the thaw 
+  247: MAP ITAL | 8w the sites were on an alignment not random
+  255: MAP | 69w i have ten things that aren't a path cael said eventually to nobody in
+  257: MAP | 10w lira one armed feeding the fire then we follow it
+  263: MAP | 31w down the fire the man who used to file reports about him watched the s
+  265: MAP | 58w nothing out here had read him at three floors older than any registry 

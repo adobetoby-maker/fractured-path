@@ -1,0 +1,54 @@
+ch	line	target	candidate (found, applied, then restored to stay on the brief numbers)
+31	53	P1 as-had	cut "as he had taken it up at a ford"
+32	89	P1 as-had	cut "as a man of Thornwater had once got a hand between"
+33	151	P1 as-had	cut "as she had lain on a mountain"
+33	77	P2 at-once	"did not take them away at once" -> "did not take them away"
+34	123	P2 at-once	"reached for her pencil at once" -> "reached for her pencil"
+34	273	P2 look	"Cael read them twice." -> "Cael read them."
+35	317	P1 as-had	cut "as she had pressed on Lira's shin under a rock"
+39	265	P2 pause/look	"looked at him for some time, as" -> "looked at him as"
+40	5	P2 pause	"enjoyed that for the length of a few breaths" -> "enjoyed that"
+40	211	P2 pause	"For a breath only the spit" -> "Only the spit"
+44	9	P1 as-had	cut "as she had sat at a board with a goat on it"
+44	53	P2 look	"rested on him for the length of a breath" -> "rested on him"
+44	123	P1 as-had	cut "as he had sat on the first night of the listening"
+44	137	P2 pause	"for some time afterward" -> "afterward"
+45	11	P1 as-had	cut "as he had stood on every morning that they had spent behind that fence"
+45	43	P2 pause	"for some time he left it shut" -> "he left it shut"
+45	115	P1 as-had	cut "as he had felt a yard do it once, at an academy on a hill"
+46	5	P2 pause	cut "for some time"
+46	213	P1 as-had	cut "as he had written them on another paper twenty-two days before"
+46	275	P1 that-was	"That was the part of it that he had not been able to make..." -> "He had never been able to make four friends understand that part of it"
+47	31	P2 at-once	"it came at once, low and hoarse" -> "it came low and hoarse"
+47	41	P1 as-had	cut "as they had lain on a sill at Thornwater"
+48	247	P1 as-had	cut "as he had once given five people the order of a watch"
+49	17	P1 as-had	cut "as he had grunted on the Fallow"
+49	77	P2 at-once	"understand all of it at once, as" -> "understand all of it, as"
+50	159	P2 at-once	"said Seln at once" -> "said Seln"
+50	243	P2 at-once	"paid for it at once" -> "paid for it"
+51	159	P1 as-had	cut "as it had come at the stone on the Fallow"
+51	219	P2 pause/look	cut "He looked at that for a little."
+52	95	P2 pause	"for some time she did not move" -> "she did not move"
+43	11	P1 as-had	"as a one-armed man read a line under an eave" (held: ch43 mean at the 13.3 floor)
+43	59	P2 pause	"she let a good while go by before she spoke" (held: mean floor)
+43	237	P1 as-had	"as it had on a rim" (held: mean floor)
+43	329	P1 as-had	"as it had once stayed for a breath on the top of his head in a loft" (held: mean floor)
+42	89	P1 as-had	"as she had taken it by lantern at a stone" (held: ch42 mean at the floor)
+42	139	P1 which-was	"she did what she had made up her mind on the ladder to do, which was to say the thing" (held: mean floor)
+42	47	P3 hand	Seln "with his hands behind him" (held: mean floor)
+53	205	P1 as-had	"as she had said it at two other stones"
+35	365	P1 as-had	cut "as eight had sat down at Oxhollow"
+44	239	P1 that-was	cut "That was all."
+46	5	P1 as-had	cut "as he had looked through the first on an inn's boards"
+47	193	P1 as-had	cut "what he had seen on her face in a yard, when she unloaded a mule: it was"
+48	221	P1 as-had	cut "as he had told it at a stake on the Fallow"
+49	247	P1 as-had	cut "as Cael had seen her do once before, at the rim of a white floor, with a strip of her own shirt in her teeth"
+51	247	P1 as-had	cut "as he had set down a question at an inn's door two nights before"
+53	139	P1 as-had	cut "as she had set one on the Fallow and one between two bars of iron"
+53	381	P1 as-had	cut "as he had written one at another stake three days' walk behind him"
+33	235	habit let-stand	"He let it stand" -> "He left it"  [restored: the sentence-level probe count rose with this change]
+51	353	P1 restatement (Teague)	cut ": that he had seen a man walk out of the Quiet and declare" (scene just shown at :239-249)  [restored: the sentence-level probe count rose with this change]
+53	361	P2 pause/look	"looked at him for some time, and then" -> "looked at him, and then"  [restored: the sentence-level probe count rose with this change]
+54	65	P1 as-had	cut "as he had once pitched a single word down two hundred yards of old road"  [restored: the sentence-level probe count rose with this change]
+58	111	habit let-stand	cut "and he let it stand"  [restored: the sentence-level probe count rose with this change]
+54	213	P2 at-once	"told him the price at once, low" -> "told him the price, low"  [restored: the sentence-level probe count rose with this change]

@@ -4,7 +4,7 @@ Karis got up from her copies when the sun was a hand above the rise, and took th
 
 "I have had two of these round, and I have paced neither of them wet," she said. "Lira. Your foot."
 
-It was done as it had been done at the Stair, with one difference, which was that nobody needed a sigil to find the way. Lira went along the reeds with the cord's end shut in her right fist and her boot half over the line, saying *gone* and *back* under her breath, and at every station her toe was within a hand of the first stem. Seln cut the turfs, which came up black and dripping. Cael wrote. His eyes had come back to him in the night, and he set down sixty-two stations in a better hand than the last.
+It was done as at the Stair, with one difference: nobody needed a sigil to find the way. Lira went along the reeds with the cord's end shut in her right fist and her boot half over the line, saying *gone* and *back* under her breath, and at every station her toe was within a hand of the first stem. Seln cut the turfs, which came up black and dripping. Cael wrote. His eyes had come back to him in the night, and he set down sixty-two stations in a better hand than the last.
 
 They were the whole of the forenoon about that perimeter, with the marsh on their right and the frost going grey on the turf. Not once in that round did the water stand a yard inside the line, or a reed a yard beyond it. A spring had filled that basin for longer than anybody could say, and it had filled it to a line that five people could feel in their heads and no farther. Cael could not have said what water knew about such an edge, and not one of them tried.
 
@@ -44,7 +44,7 @@ The woman had not waited to be made known to anybody. She was sixty, or near it,
 
 "Twice."
 
-The woman looked at her for as long as it takes to draw one breath. She did not seem to think any the worse of what she had been told, or any the better; she had the face of a person adding a column.
+The woman looked at her. She did not seem to think any the worse of what she had been told, or any the better; she had the face of a person adding a column.
 
 "Then it wants binding, not hands," she said, and put her satchel down on the turf.
 
@@ -132,7 +132,7 @@ It was the middle of the hundred and twentieth day when the ground fell away in 
 
 He had never been within two days of that place. He knew what it was. Every salt man on the cold road had a tale of it, and not one of the tales had a man in it who went down to the reeds.
 
-There was a camp at the track's end with two fires. He counted, as he counted before he did anything, and he counted his own first: a spear, and a bow, and a boy, and an old woman with a board. Then he counted the camp, and there were six in it.
+There was a camp at the track's end with two fires. He counted his own first: a spear, and a bow, and a boy, and an old woman with a board. Then he counted the camp, and there were six in it.
 
 He looked at the rope between the reeds. There were breeches on it, frozen as stiff as boards, six pairs, and they had not got so wet by walking on grass.
 

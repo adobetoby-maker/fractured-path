@@ -126,7 +126,7 @@ Cael stayed where he was a little longer, with his right hand lying on his knee 
 
 They came to the end of the ridge with the sun a hand above the western hills, and the ground opened under them.
 
-Cael stopped where the road tipped over, and counted what there was, as he counted anything that he would have to walk into.
+Cael stopped where the road tipped over, and looked at what there was, as he looked at anything that he would have to walk into.
 
 The ridge did not run down into a valley. It broke off, as a table breaks off at its edge, and its western face went down in one long slope of pale grass to a low place that lay below them like the print of an enormous thumb. It was a bowl, though so shallow that a cart might have been driven anywhere in it. He put it at five hundred yards from side to side, which was far wider than the swell that the Fallow Ring had stood on, and it had not half that swell's height.
 
@@ -238,7 +238,7 @@ He had. He took it off.
 
 The quiet one did not let any of them sleep until he had said his order, and he said it at the fire, when it was full dark, with the six of them close about it.
 
-"I have walked the ruts," said Seln. "All the way round, at dusk. It is sixteen hundred paces and a little more. I found no person and no sign of one, and I shall walk it again before light. That is a fact about the ruts." He folded his hands. "If I had laid this, I should not be on the ruts tonight either. I should be a quarter of a mile back from them, on my face, in grass of this colour, and I should come up to them when you were over that stone and not before. So I shall tell you what I can see, which is nothing. And I shall tell you what I should assume, which is that they are here."
+"I have walked the ruts," said Seln. "All the way round, at dusk. It is sixteen hundred paces and a little more. I found no person and no sign of one, and I shall walk it again before light. That is a fact about the ruts. If I had laid this, I should not be on the ruts tonight either. I should be a quarter of a mile back from them, on my face, in grass of this colour, and I should come up to them when you were over that stone and not before. So I shall tell you what I can see, which is nothing. And I shall tell you what I should assume, which is that they are here."
 
 "All of that, and we go," said Brom.
 

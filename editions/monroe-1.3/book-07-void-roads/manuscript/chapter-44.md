@@ -44,7 +44,7 @@ Cael kept his eyes on the lantern. He had told a healer on her own table whose e
 
 It was put to the sack by the ladder.
 
-"I was the one who didn't know what she was looking at," said Oryn. "A boy went sideways out of a file with a crack like a whip, in a place where I couldn't count to four. Then there was fire in his fist." She rubbed her hands together slowly. "I've been told since what that was. I'll say what I know, which is less than any of you."
+"I was the one who didn't know what she was looking at," said Oryn. "A boy went sideways out of a file with a crack like a whip, in a place where I couldn't count to four. Then there was fire in his fist. I've been told since what that was. I'll say what I know, which is less than any of you."
 
 She held her two palms up to the lantern.
 
@@ -68,9 +68,9 @@ It was Seln who answered him, from the dark by the loft door.
 
 "They know something turns Paths off. They *don't* know something doesn't turn off. Yet."
 
-The last word lay in the loft like a dropped coin, and for the length of several breaths nobody stooped for it.
+The last word lay in the loft like a dropped coin, and nobody stooped for it.
 
-Cael waited for one of them to join those things together. He had sat in a good many rooms where it would have been done before the lamp was trimmed: a seat would have found a word for it, and a clerk would have written the word down, and by morning there would have been a file. Here six people sat round one lantern with a made floor, and an age that had no ruler, and a boy; and each of them left the three lying apart, as Karis had left them on a trestle, since nobody in that loft knew what lay between them and nobody was willing to pretend.
+Cael waited for one of them to join those things together. He had sat in a good many rooms where it would have been done before the lamp was trimmed, and by morning there would have been a file. Here six people sat round one lantern with a made floor, and an age that had no ruler, and a boy; and each of them left the three lying apart, since nobody in that loft knew what lay between them and nobody was willing to pretend.
 
 She had unrolled the calfskin on the boards, with its roads in double lines and its fords in three wavy strokes, and the thin paper lay on it with a ring of charcoal sitting on her pencilled one.
 
@@ -100,7 +100,7 @@ Brom let his breath go, heavily.
 
 "So did I," said Lira.
 
-The healer had got to her feet. She had sat through the whole of it on the edge of a sack, with her hands on her knees, and Cael could not have said what she made of a calfskin with rings on it.
+The healer had got to her feet. She had sat through the whole of it on the edge of a sack, and Cael could not have said what she made of a calfskin with rings on it.
 
 "There will be another edge," said Karis, to her. "I had a healer's count at the first. I should like one at the next."
 
@@ -276,7 +276,7 @@ She put no question to herself about what he was. She had heard a small pale per
 
 She thought about the line instead, since that was hers.
 
-She had crossed it eight times in the grey, where nobody was to see, and one person had seen and held his tongue for twelve days. She had gone in with her palms up, and with two fingers on her own wrist, and backward, and with her eyes shut; and she had stood in it for a count of a hundred with her arms hanging. Each time it had been the same. On one side of a grey stone she was a Tide, Iron, of the fourth rank, with a reserve like a purse. On the other she was a woman in a dead man's coat who could tie a knot.
+She had crossed it eight times in the grey, where nobody was to see, and one person had seen and held his tongue for twelve days. Each time it had been the same. On one side of a grey stone she was a Tide, Iron, of the fourth rank, with a reserve like a purse. On the other she was a woman in a dead man's coat who could tie a knot.
 
 She had not minded it as much as she had expected, and that was the thing that she had gone in eight times to be sure of. A carter with a split palm did not care which side of a stone her hands had last worked on. And on the evening after that noon she had bound a girl's arm inside the line with a man's folded cuff and strips of her own shirt, having nothing else, and the binding had held until six people could get the arm out to where a Tide was a Tide.
 

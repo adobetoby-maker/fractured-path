@@ -12,7 +12,7 @@ He told it standing, in the order in which it had happened, and he kept it short
 
 Seln inclined his head, by the width of a finger. It was what he gave to a report that he would not have altered.
 
-"What did she call it?" said Lira. She was on her sack by the shutter, with her right hand over the sling.
+"What did she call it?" said Lira. She was on her sack by the shutter.
 
 "She said that I'd turned her table round. Nobody lies down on it without being told what she means to do to them, and this morning the one who wasn't told was the healer." He made himself give them the rest of it as she had given it to him. "She said the part that she minded most was the four of you. I hadn't done it without knowing its name. I'd been told the name by four people, and agreed."
 
@@ -178,7 +178,7 @@ Something went out of him into the cold, as small as a breath. His weight went o
 
 "One," said Lira.
 
-It was not mockery. She was keeping the count for him, as he had kept hers on a gravel bar.
+It was not mockery. She was keeping the count for him.
 
 He went back to the well's end. He had heard something in that one, under the stumble, and he wished to hear it again.
 
@@ -238,7 +238,7 @@ He did it again. *Four, and.* He did it four times more after that, there and ba
 
 "No." She was looking at his feet. "It's a better lean than mine. I load mine, the same as you did. I shall have to think about that, when I've two feet to think with."
 
-He sat down beside her on the coping. His calves ached pleasantly, and the thing under his soles was still half a beat behind, and it no longer troubled him. He had spent a hundred days holding nine things shut; and until this noon he had never been able to hear what any one of them cost while he was spending it. A bill had always come afterward, in a forearm or a rib. This was the first time that he had been shown the price beforehand.
+He sat down beside her on the coping. His calves ached pleasantly, and the thing under his soles was still half a beat behind, and it no longer troubled him. He had spent a hundred days holding nine things shut; and until this noon he had never been able to hear what any one of them cost while he was spending it.
 
 On the platform by the western gate the bowman had turned round. It was the one hour of the day when nothing had ever come up that valley, and he seemed to keep it for looking inward, at the hold. He had watched a boy fall about a yard eleven times, and get it right, and he stood with his bow at the length of his arm and gave no sign that it was any business of his. Then his eyes went to the girl on the coping, who had seen a fault from thirty feet with one arm tied, and they stayed there a good deal longer.
 

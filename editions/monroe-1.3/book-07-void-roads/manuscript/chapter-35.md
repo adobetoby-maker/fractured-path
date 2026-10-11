@@ -122,7 +122,7 @@ The healer got up in the grey. She did not go to the mule. She walked the ten ya
 
 Then she stepped across.
 
-He went still. She was one stride inside, and there were seven animals somewhere that he had not seen since a wall went down. He looked past her, at the grass, and kept his eyes moving over it; and since he could not have helped it, he counted.
+He went still. She was one stride inside, and there were seven animals somewhere that he had not seen since a wall went down. He looked past her, at the grass, and kept his eyes moving over it; and he counted.
 
 The first time she only stood, with her palms up, and stepped back.
 
@@ -140,7 +140,7 @@ The eighth was the longest, and she did nothing in it at all. She let go of the 
 
 She came out. She rubbed her hands together slowly, as she did when they had been in cold water, and she looked across the grass and saw him sitting with a book on his knee.
 
-Neither of them spoke. She held his eye for as long as it takes to count three. Then she went to her panniers.
+Neither of them spoke. She held his eye. Then she went to her panniers.
 
 He had the book open. He had the day's number written at the head of a clean leaf, and nothing under it. He had entered every crossing of that line since the ninety-fifth evening: five people abreast, and Karis's nine in the dark, and each of the trials in its row.
 
@@ -220,7 +220,7 @@ They had a fire that night, at the spring, and Seln made the bread.
 
 It was the first flame that any of them had lit on the Fallow road since the way out, and Cael noticed that nobody discussed it. They were a day west of a grey stone; the ground under them was only ground, and a flint was not a declaration. Seln struck it. He had gathered dead stems of the pale grass by the armful, since there was nothing else in that country to burn, and they went up with a hiss and wanted feeding every minute.
 
-Brom sat on a pannier with his hands on his knees and gave orders.
+Brom sat on a pannier and gave orders.
 
 "More water than that. It wants to be like a wet clay. Now fold it; no, toward you. You're not folding a letter."
 
@@ -288,7 +288,7 @@ He had no business at that gate. He kept the western one, and in three stays Cae
 
 Lira saw it. She put up the great boot an inch, and set it down whole.
 
-There was broth. He could smell it from under the lintel. The steading's woman came out of the long house with a ladle in her hand, wiping the other on her apron, and stopped on the step; and she did what she had done when five came in from a ford, which was to go along them with her lips.
+There was broth. He could smell it from under the lintel. The steading's woman came out of the long house with a ladle in her hand, wiping the other on her apron, and stopped on the step, and went along them with her lips.
 
 "Six. Well."
 
@@ -332,7 +332,7 @@ He put his boot up on the coping. She undid a knot that she had once called a go
 
 He waited for her to ask.
 
-She stepped back, a stride and a half, and looked him over from there, the whole of him, as she had looked five people over from the corner of a rock. It took her as long as it takes to count five.
+She stepped back, a stride and a half, and looked him over from there, the whole of him, as she had looked five people over from the corner of a rock.
 
 "Still and whole."
 

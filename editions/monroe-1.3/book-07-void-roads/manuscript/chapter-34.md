@@ -20,7 +20,7 @@ It was an accurate word. He had submitted a great many accurate reports, and few
 
 He knew why. He was the cut; he had told a girl so in a loft, in so many words. The cut is the man placed where the subject will run, and he is never where the blow falls. At a ford he had lain in a pool for an hour and a quarter while four people were bled on a bar of gravel thirty yards from his face. And tonight, while a hound took a girl's arm on a white floor, he had been two hundred yards away with his fingers in the lashings of a mule's pack.
 
-It had been right. A bow at the lip had been worth more than a second knife, and he would have gone again. He noted only that it was the same price each time, and that somebody else always paid it. He had no column for that, and he found, a little to his surprise, that he would have liked one.
+It had been right. A bow at the lip had been worth more than a second knife, and he would have gone again. He noted only that it came out the same each time, and that somebody else always paid. He had no column for that, and he found, a little to his surprise, that he would have liked one.
 
 There was the other thing, and he came to it when he had finished with himself, as he came to the difficult page of any file.
 
@@ -92,7 +92,7 @@ It was a small exact circle, ruled with a compass. He remembered the prick of th
 
 He had counted eight, and said *eight*, and the senior had initialled the docket; and a young man with a satchel had gone down a stair thinking about his dinner.
 
-He had taken those rounds for what a junior takes everything for, which is a thing that he has not been told. He had supposed a post, or a store, with a guard on it. It had never once entered his head that a place might be left off a map because of what the ground itself did there.
+He had taken those rounds for what a junior takes everything for, which is a thing that he has not been told. He had supposed a post, or a store, with a guard on it. It had never once occurred to him that a place might be left off a map because of what the ground itself did there.
 
 Seln stayed on his heels by the iron a long while, and went over what he had, strictly, as he would have gone over it for somebody else's signature. He had eight sheets, seen once, by a boy who was counting. He had rounds, ruled, with a road going about one of them. He had a stake under his eyes, of the pattern that is signed for, driven on the edge of a circle that a researcher had paced with her feet.
 
@@ -180,7 +180,7 @@ Her eyes came up to his, level and tired and a little hungry, as they had come u
 
 Seln came for them in the afternoon.
 
-He had been at the stake since first light, by himself, with a calfskin and a stick of charcoal and a sheet of Karis's clean paper. Cael had watched him from the camp: a narrow dark figure three cords up the line, sitting on its heels, that drew a little and then sat for a long while with its hands hanging.
+He had been at the stake since first light, by himself, with a calfskin and a stick of charcoal and a sheet of Karis's clean paper. Cael had watched him from the camp: a narrow dark figure three cords up the line, sitting on its heels, that drew a little and then sat for a long while.
 
 "I have something to show," he said. "I should like it shown where the iron is. It is three cords, and she may take my arm."
 
@@ -244,7 +244,7 @@ Brom was looking at the iron, behind the healer's back.
 
 "Who's *they*? You keep saying it. The registry's a room full of clerks. A clerk didn't walk two days past a fence and drive that in."
 
-Seln was silent for a breath. There was a word that not one of the five had said aloud since they crossed the Line, and Cael saw him decide to say it.
+There was a word that not one of the five had said aloud since they crossed the Line, and Cael saw him decide to say it.
 
 "The Compact knows what quiet ground does."
 

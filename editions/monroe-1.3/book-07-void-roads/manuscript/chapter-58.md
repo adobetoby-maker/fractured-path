@@ -32,13 +32,13 @@ She looked along the five of them then, once. Her sum ran to the oxen ford on th
 
 "I've been a stop on my own route for nine days. I'm going back to being the route."
 
-Nobody answered her. She had told them at a mill what she would do on the day that the round could not spare her, and what they were to say to it. Cael had written down, where he wrote such things, that he would not ask her to stay.
+Nobody answered her. Cael had written down, where he wrote such things, that he would not ask her to stay.
 
 She clicked her tongue at the jenny, and took the left-hand road.
 
 He went with her. He had not meant to, and he did not know that he was going to until his boots were on the frozen ruts beside hers, at her stride and a half, with the grey mule's breath on the back of his neck. She gave him one glance and let it be.
 
-He counted, since he could not walk beside anybody without counting. He said nothing through the whole of it. There were a good many things that he might have asked on that piece of road: whether a child's chest had changed, and how a round was walked in snow, and when he would see her. There was the other, which was whether she would ever tell him what she had refused to tell him on her table. He asked none of them. Each was hers to give, and she had a road to walk.
+He said nothing through the whole of it. There were a good many things that he might have asked on that piece of road: whether a child's chest had changed, and how a round was walked in snow, and when he would see her. There was the other, which was whether she would ever tell him what she had refused to tell him on her table. He asked none of them. Each was hers to give, and she had a road to walk.
 
 At fifty paces she stopped.
 
@@ -74,7 +74,7 @@ They went up, with Brom on the low side of the mule and three boxes swaying. It 
 
 She did not pretend that the line was better than it was. At each halt she had Seln stand a furlong ahead of her, and looked back along the turf to the last place where they had rested; then she moved him a few paces to one hand or the other, with her arm, until the two marks and her own boots lay in a row. It was how a person carries a ruler across country when she has none long enough, and she said that it was good to the width of the strip and no better.
 
-Seln went ahead between halts, as he had gone ahead on every road since a shelf. He came back to them once in each hour, by whatever clock he carried, and gave his report in a word.
+Seln went ahead between halts. He came back to them once in each hour, by whatever clock he carried, and gave his report in a word.
 
 "Nothing."
 
@@ -116,7 +116,7 @@ He put the book away, with both of them in it, and went on.
 
 Seln was standing on the crest when they came up to him at dusk, and he did not say the word that he had said seven times the day before and nine times since morning.
 
-The ridge ended there. It broke off in a long brow, and under the brow a valley began: a great shallow head of pale ground, scooped out of the hills as a bowl is scooped, and open toward the south. The light was going. What there was of it lay level across the grass and showed him the size of the place, which he did not at once believe. Seln gave it one word, as he gave everything.
+The ridge ended there. It broke off in a long brow, and under the brow a valley began: a great shallow head of pale ground, scooped out of the hills as a bowl is scooped, and open toward the south. The light was going. What there was of it lay level across the grass and showed him the size of the place, which he could not at first believe. Seln gave it one word, as he gave everything.
 
 "Larger."
 
@@ -182,7 +182,7 @@ Lira had gone along the fence to the left, counting under her breath, and Brom t
 
 "Forty on mine," said Brom. "The same."
 
-Karis had her lamp lit by then. She had set a point on its wick with her own hand, outside that line, and she had the long cord laid along the feet of the bars with Cael at its far end. There was no call for anybody's foot. The line was marked at every pace in iron; no foot was needed to find it.
+Karis had her lamp lit by then. She had set a point on its wick with her own hand, outside that line, and she had the long cord laid along the feet of the bars with Cael at its far end. There was no call for anybody's foot; the line was marked at every pace in iron.
 
 She laid it twenty times. At each cord's end she set her short cord from the last bar to the line that the long one would next take, as she had on three other rounds. Cael, holding the lamp for her, saw that the short measure did not come to the knot that it had always come to. It came to half.
 
@@ -202,7 +202,7 @@ Nobody asked him who. He had said the name of it once, at a stake, and it had no
 
 "There was a sheet with two," he said, after a breath. "I told you that I could not place it. A marsh three days behind us, and this: I can place it now."
 
-Lira was standing a pace above the iron, where she had stopped, with her right hand shut on the strap of the bow.
+Lira was standing a pace above the iron, where she had stopped.
 
 "Twice the size. Is it twice the *anything else*?"
 

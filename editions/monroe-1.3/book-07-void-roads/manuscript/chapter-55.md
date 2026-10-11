@@ -6,7 +6,7 @@ She had counted on his wrist as she crossed, and her lips had gone past four wit
 
 "Down. On the left side. Somebody get that coat off him, and somebody light me a fire, and I don't care which of you does which."
 
-It was Karis who lit it. She had come over the stone with a morning's pencil in her arms and her cheek bleeding, and she put the sheets into Lira's lap and held out her right hand; and a point stood on the kindling that Seln had laid ready before first light. It was the first thing that any of them had declared in a day, and Cael saw her look at her own palm afterward, as she had looked at it outside another stone.
+It was Karis who lit it. She had come over the stone with a morning's pencil in her arms and her cheek bleeding, and she put the sheets into Lira's lap and held out her right hand; and a point stood on the kindling that Seln had laid ready before first light. It was the first thing that any of them had declared in a day, and Cael saw her look at her own palm afterward.
 
 The coat came away from Brom's shoulder with a sound that he did not care for, and under it the binding hung in a loop, and the linen beneath was black.
 
@@ -98,7 +98,7 @@ She had him lift his shirt, and she pressed with the flat of her thumb in two pl
 
 "From this morning. Count it yourself; you will anyway."
 
-She did not get up at once. She studied him from the outside, as she had once studied him in a yard, for whatever the outside would give.
+She did not get up at once. She studied him from the outside, for whatever the outside would give.
 
 "I told you a night that's only a night, and I meant one with nothing in front of it. You've not had one since, and you'll not get one on this road. But I've been looking at you for a quarter of an hour, and there's another kind." She nodded at his chest. "You read it frightened, in a loft. Tonight there's nothing left in you to be frightened with; I doubt that you could be afraid of a wolf. So you'll read it tonight, when the rest are down. Then you'll sleep, and you'll read it once more when you wake, before you've had time to think. That's three, on three days, with a night between each."
 
@@ -126,7 +126,7 @@ Lira had not left the grey stone. She sat on it with her foot set down whole and
 
 "It's not coming out of that water. He read the mud."
 
-"I know what he read. I watched it come up out of a hole this morning, the whole of it, when a carter had said that nobody ever saw so much." Her right hand moved on the stock, a finger's breadth, and lay still. "I'm not saying that it's coming. I'm saying that I've one, and it's in."
+"I know what he read. I watched it come up out of a hole this morning, the whole of it, when a carter had said that nobody ever saw so much. I'm not saying that it's coming. I'm saying that I've one, and it's in."
 
 He left her to it, since she had sat on a stair for a day once with that same bow, for the same reason, and had been right.
 
@@ -150,7 +150,7 @@ Lira had seen it too, and she looked from Brom's finger to the bent brown neck.
 
 Not one of the four of them got up to put the blanket back, since she would have woken. They let her be, in the middle of them, with a big man's wrist in her hand, while the short day went over toward the rise.
 
-He wrote the day's bill then, with his eyes still swimming a little, and he kept it to what the day had cost.
+He wrote the day's log then, with his eyes still swimming a little, and he kept it to what the day had cost.
 
 *Hundred and nineteenth day. The track's end, outside the stone. All six out. Brom's shoulder opened on a wall and is mended a second time, an hour; it will not be mended a third. Four bolts spent; one in the bow, with Lira.*
 

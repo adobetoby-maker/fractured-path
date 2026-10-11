@@ -26,7 +26,7 @@ It was a small hard tick on the roof over their heads, like a pebble dropped on 
 
 "I should say that it will take him some time."
 
-It took him the better part of the forenoon. He did not hurry. A tick came, and a skittering, and then nothing for as long as it takes to walk a quarter of a mile; and then another. Cael counted them, since he could not help it: some fell short and rang on the far side of the roof, and one struck so near the hole that they heard it skate past the lip.
+It took him the better part of the forenoon. He did not hurry. A tick came, and a skittering, and then nothing for as long as it takes to walk a quarter of a mile; and then another. Some fell short and rang on the far side of the roof, and one struck so near the hole that they heard it skate past the lip.
 
 "Six. Seven. Eight," said Seln, at intervals, from the doorway. He might have been reading out a floor schedule. "Nine. Ten. Eleven."
 
@@ -228,7 +228,7 @@ He had made up his mind about the next thing in the dark. There were ten bolts l
 
 He stepped over it.
 
-It took the whole of his attention, and he saw that at once, and saw the price of it. He was a boy walking across thirty yards of bare stone in the last of the light, with six people looking at that stone; and he could not raise his eyes to them. He had them in his head only: two on the brow in front of him, two away on his left, one on his right, and one behind, where the west was still green. He walked with his eyes in the ground, and stepped over four bolts, and went round a fifth.
+It took the whole of his attention. He was a boy walking across thirty yards of bare stone in the last of the light, with six people looking at that stone; and he could not raise his eyes to them. He had them in his head only: two on the brow in front of him, two away on his left, one on his right, and one behind, where the west was still green. He walked with his eyes in the ground, and stepped over four bolts, and went round a fifth.
 
 Then there was frozen grass under him, and the old road.
 

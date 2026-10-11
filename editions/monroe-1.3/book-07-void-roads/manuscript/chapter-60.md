@@ -14,7 +14,7 @@ She took the purse out of her coat. Cael had seen that woman pay for a cart, and
 
 It was a narrow room with one small window, and it smelled of barley. There was a table in it of scrubbed deal. The keeper moved his meal-sacks to one end, and by the time the hearth had been banked for the night she had made the other end her own.
 
-Brom set the kit on the table. Its case lay there in tarred canvas, with the strap coiled on the lid, as it had lain on a floor under the ground; inside were a cord knotted at the fives, stake thirty-two with the stroke and the bar and a bright turned point, and a mallet. The stake had never been driven. Beside it Karis put a dead man's ledger, shut. The three boxes stood against the warm wall, and each of them had one leaf in it that was the same as its fellows.
+Brom set the kit on the table. Its case lay there in tarred canvas, with the strap coiled on the lid; inside were a cord knotted at the fives, stake thirty-two with the stroke and the bar and a bright turned point, and a mallet. The stake had never been driven. Beside it Karis put a dead man's ledger, shut. The three boxes stood against the warm wall, and each of them had one leaf in it that was the same as its fellows.
 
 Then she took out the sheets.
 
@@ -22,7 +22,7 @@ She laid them in three heaps along the deal, and did not try to make their edges
 
 "Fifty-two," said Lira, from the door. She had counted them as they went down.
 
-"Fifty-two sheets. Forty-one kinds, at the two that I could do properly. Three perimeters of one size, and a fourth that is twice it." Karis leaned on the deal with both palms. "I had three boxes of other people's stone when I crossed the Line. I should not have said that there was anything east of it to put in them."
+"Fifty-two sheets. Forty-one kinds, at the two that I could do properly. Three perimeters of one size, and a fourth that is twice it. I had three boxes of other people's stone when I crossed the Line. I should not have said that there was anything east of it to put in them."
 
 She set her lamp in the middle, and lit it with a point, and unrolled the hide.
 
@@ -46,7 +46,7 @@ He shut the book on it. On the far side of the lamp a strip of brass was going d
 
 The last ferry crossed at noon on the hundred and thirtieth day, with two fingers of snow on its rail.
 
-The ferryman had been at the shelf since first light with a pole and an axe, to cut her a lane. Half the meadow stood on the landing to see it. The scow went out along its cable slowly, shouldering the broken ice, with the gelding walking his round in the shed and the boy calling the turns. On the far bank a man in a hat with one side cut away stood waiting beside a mule, as he had stood at a ford on the fourth day past the Line.
+The ferryman had been at the shelf since first light with a pole and an axe, to cut her a lane. Half the meadow stood on the landing to see it. The scow went out along its cable slowly, shouldering the broken ice, with the gelding walking his round in the shed and the boy calling the turns. On the far bank a man in a hat with one side cut away stood waiting beside a mule.
 
 It was a quarter of an hour before the boat came home again. It brought a wet canvas bag, and the bag went up the bank to the plank under the eave, where Pike had set out his book for the last time before the thaw.
 
@@ -66,11 +66,11 @@ There was a strip of brass in it. It was a hand longer than the one from Ternhal
 
 *Nineteen. I'm told it's late; the ferry's fault, not mine. Your grandmother said a man who catalogues everything eventually needs to draw a line through it. This one's true to a hair. Mind the shape. — H.*
 
-He read it standing in the snow, and then he read it again.
+He read it standing in the snow.
 
 An old man in Denvash had cut that leaf from his pad a long while ago, and had rolled a ruler in it for a boy who was going where there were no instruments. It had lain in a bag on the wrong side of a river for a month and more. And in that time the boy had walked off the end of another person's brass for three days and come to a marsh, and had stood at a fence of iron with a line going through it. He had not written one word of that west. The old man could not have known that there was a line. He had only known the boy.
 
-"He says that it is true to a hair," said Karis, at his elbow. She was looking at the brass as she had once looked at a founding stone. "I should like to see it against mine."
+"He says that it is true to a hair," said Karis, at his elbow. "I should like to see it against mine."
 
 "Tonight. I've two letters to write, and that boat's not going to wait for me."
 
@@ -84,7 +84,7 @@ The second took him longer, since it was to a woman who had kept a ledger with h
 
 There was a third that he owed, to a friend on a bluff who lost to him every time he ran it. He had no line for that one yet. It would go by the first boat of the thaw, and he wrote in his own book that it was to.
 
-He folded the two, and put no place on either, and gave them to the ferryman's boy with a copper apiece. The clerk's packet went into the same bag. Seln watched it go down the bank, with his hands behind him.
+He folded the two, and put no place on either, and gave them to the ferryman's boy with a copper apiece. The clerk's packet went into the same bag. Seln watched it go down the bank.
 
 "It will say that a crew kept what it was sent for," he said. "It cannot say why, since he does not know. I find that I can bear that."
 
@@ -100,7 +100,7 @@ It had been the hundred and twenty-second morning, eight days before, when Oryn 
 
 She did not turn her head at the notch. She had left a good many gates in thirty rounds, and had found out in the first of them that a healer who looks back has only doubled what she is carrying.
 
-The jenny went as she had always gone, which was badly. She led as a gate swings. For the whole of the first morning Oryn's right hand kept going out to a small brown cheek that was two days behind her on another road; it met a grey ear like an oar, and came back. She let it. She had told a girl in a yard that a beast should not be named, and had learned at a wicket how little that helped.
+The jenny went as she had always gone, which was badly. She led as a gate swings. For the whole of the first morning Oryn's right hand kept going out to a small brown cheek that was two days behind her on another road; it met a grey ear like an oar, and came back. She let it.
 
 She did her sum as she climbed, since she did it every morning, and it came out as she had given it to five people at a heap of stones. There was a bench at the mill that she had left a day short, and two gates beyond it that had not seen her at all. There was the ford with the oxen. Beyond the ford was the gate that had given her the coat, and beyond that the child.
 
@@ -138,7 +138,7 @@ She came down to Thornwater's eastern gate at dusk on the hundred and twenty-fif
 
 "By the bench. And by one that walked."
 
-She led the jenny in under the gate-walk. A lean man stood up there with a long bow at the length of his arm, as he had stood on every evening that she could remember, and he lifted two fingers from the stave. She had never known him do that for her. She understood, crossing the yard, that it was not for her: it was for a girl with one arm, who had sat on those planks beside him and shot at a sack, and he was asking after her in the only way that he had.
+She led the jenny in under the gate-walk. A lean man stood up there with a long bow at the length of his arm, and he lifted two fingers from the stave. She had never known him do that for her. She understood, crossing the yard, that it was not for her: it was for a girl with one arm, who had sat on those planks beside him and shot at a sack, and he was asking after her in the only way that he had.
 
 "Her arm's whole," said Oryn, upward. "It held a stair, which it shouldn't have. It's held nothing since."
 
@@ -170,7 +170,7 @@ The word came on the second day, with the last of the grain carts.
 
 It was a long stooped carter whom she knew, fetching for the gates up the water, and he had been as far as the ford with the oxen and a gate beyond. He gave it to her in the yard, as he had been given it, in the order of the road. The mill had had nothing worse than a crushed thumb. The two gates above it had buried nobody. At the ford a man had lost a finger to a chain and kept the hand; they had bound it themselves, badly, and it had not gone bad. And at the gate where the little one was, the breathing was no different. She coughed at night, and slept after.
 
-Oryn heard the whole of it standing, with her hands under her arms.
+Oryn heard the whole of it standing.
 
 Three weeks, then, and seven gates, and nobody dead of it. She did not take that for a reason. A person who has crossed thin ice once has not learned that ice will bear; she has been lucky, and knows it by the cold in her stomach afterward. But the round was whole. Every gate on it was where she had left it, with everybody in it that she had left there, and waiting.
 
@@ -186,7 +186,7 @@ It was the steading's woman who told her about the carter, on the evening of the
 
 "No. You've said." She set a strip of clean bark down on the scrubbed plank, and a pot of the hold's ink, and a pen cut from a goose quill. "There it is, all the same."
 
-Oryn looked at it for some time after the door had shut.
+Oryn looked at it after the door had shut.
 
 She did not keep a book. She had said so to the pale one across a fire: a healer who needs a page to know who is owed has stopped looking at them. She had never in thirty rounds set down a word about any person whom she had had her hands in. But those five were two days south, with a saddle between that would be shut by morning, and she could not look at them. There was a girl down there with an arm in a knot of hers, who had been told *first snow*; and by the feel of that sky she would be looking at it out of a window tomorrow.
 
@@ -224,7 +224,7 @@ Cael took it to the hearth. There were not a dozen people in that long room so e
 
 It was a hand that Cael had never seen. It was square, and stiff, and it pressed, like a person lifting something heavy. He read the four lines out, as they stood, a stop at a time: the route, and a knee, and what three weeks had cost; and then the thaw, and a map, and what he was to do when he was told.
 
-Nobody spoke for a breath. Brom had six bowls in a row on the board. He looked along them. He had put the last one down a little apart, as he always did; and he did not take it back.
+Brom had six bowls in a row on the board. He looked along them. He had put the last one down a little apart, as he always did; and he did not take it back.
 
 "Six, by letter."
 
@@ -240,7 +240,7 @@ She laid the Ternhall brass along that line, on the three centres that she had p
 
 "Yours," she said. "From the other end."
 
-He had the strip from Denvash in his coat. It was cold from the back room, and it took the firelight all along one edge. He set it down on the skin beyond hers, with its end on the ring by the marsh, and slid it up until the two lay in one length; and he bent, as she had bent beside a fire in the dark, and looked for daylight.
+He had the strip from Denvash in his coat. It was cold from the back room, and it took the firelight all along one edge. He set it down on the skin beyond hers, with its end on the ring by the marsh, and slid it up until the two lay in one length; and he bent, and looked for daylight.
 
 There was none. The edge lay on the dot at the hall, and on the dot at the Stair, where hers met it; he moved it along, and it lay on the dot at the Fallow. It touched the three for him exactly as hers had touched them for her.
 

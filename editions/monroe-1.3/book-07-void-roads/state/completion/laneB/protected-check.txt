@@ -1,0 +1,5 @@
+ch41:169 changed line holds protected/italic text -> OK(protected text intact) [] [] []
+ch53:79 changed line holds protected/italic text -> OK(protected text intact) [] [] []
+ch54:123 changed line holds protected/italic text -> OK(protected text intact) [] [] []
+ch56:7 changed line holds protected/italic text -> OK(protected text intact) [] [] []
+# changed old lines: 140; violations: 0

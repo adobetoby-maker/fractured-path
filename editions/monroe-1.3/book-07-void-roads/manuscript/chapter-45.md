@@ -54,7 +54,7 @@ He took his fingers off his wrist. The listening went on at the edge of his thou
 
 ---
 
-They came over the saddle above Lowmarch in the afternoon of the hundred and twelfth day, and he stopped on the crown of it and counted what was there.
+They came over the saddle above Lowmarch in the afternoon of the hundred and twelfth day, and he stopped on the crown of it to see what was there.
 
 It was the fourth time that he had looked down on that town from high ground. He had learned on the first that it was a river, and a ferry, and two inns, and a smith, and a meadow with no wall. On the others he had learned to read the meadow as he had once read a board, since it changed with every week, and whatever was true of that country showed there first.
 
@@ -80,7 +80,7 @@ She put it exactly as they had been told to put it, in a loft, by the healer her
 
 He clicked to his pair and went on up the hill.
 
-They stood with it on the hill for a breath. She had told them that if they wanted her sooner than Thornwater they were to ask a carter, and they had asked the first carter that they met, and she was a day from where they stood. Cael had expected to count gates for a week.
+She was a day from where they stood. Cael had expected to count gates for a week.
 
 "She said not without her," said Lira.
 
@@ -162,7 +162,7 @@ Pike was looking up at her from under his own handwriting, and he did not seem d
 
 He said it mildly, and he took up his cup. Cael stood before a sheet of sized sailcloth with eleven lines on it, and found that he was not thinking of the line that they had lost.
 
-He had been a number in other people's books for as long as he could remember. A magister had given him one every week, to the decimal. Vell had kept one for him in a yard. Every one of those figures had been somebody's best account of how much of a thing he was; and here was a book-keeper with one arm, who had never owned an instrument, saying aloud in a room that his own book had a true line in it and was too small to hold what the line meant. It was not a thing that any registry seat would have said. Cael did not know what to do with it, and he set it by, to be looked at later.
+He had been a number in other people's books for as long as he could remember. A magister had given him one every week, to the decimal. Vell had kept one for him in a yard. Every one of those figures had been somebody's best account of how much of a thing he was; and here was a book-keeper with one arm, who had never owned an instrument, saying aloud in a room that his own book had a true line in it and was too small to hold what the line meant. Cael did not know what to do with it.
 
 It was Karis who touched his sleeve.
 
@@ -188,7 +188,7 @@ Cael picked the paper up. It was the same weight as the other, which lay folded 
 
 Below the bracket there was a seal in dark wax, a hook and a bar.
 
-For the space of a breath there was only the fire. Three hundred marks was more than twice what the five of them had earned in a hundred and twelve days. He did the sum without wishing to, and saw Brom doing it, with his lips.
+Three hundred marks was more than twice what the five of them had earned in a hundred and twelve days. He did the sum without wishing to, and saw Brom doing it, with his lips.
 
 Pike had his eyes on his book.
 
@@ -206,7 +206,7 @@ He did not raise his voice for it, and he kept his eyes on the book. He had told
 
 "I've told you what I know about ground like that. I've never been nearer to this one than the ruts."
 
-Karis had not been listening to him. She had the paper by one corner, turned to the fire, and her lips were moving over a single line of it; and Cael, who had watched her ring three blanks on a calfskin and write a word beside two of them, saw the colour come up into her face.
+Karis had not been listening to him. She had the paper by one corner, turned to the fire, and her lips were moving over a single line of it; and Cael saw the colour come up into her face.
 
 "A day south, and a little aside," she said. "In his hill-hatching. I rang it on the ninety-second evening, and I wrote *guess*."
 
@@ -214,7 +214,7 @@ She looked up at the four of them.
 
 "That's the carter's second circle."
 
-Seln had not yet touched the sheet. He stood a pace behind Brom's shoulder with his hands at his back, and his mild eyes went over the pricked margin from the top hole to the bottom, as they went over any paper, and came to rest on the bracket.
+Seln had not yet touched the sheet. He stood a pace behind Brom's shoulder, and his mild eyes went over the pricked margin from the top hole to the bottom, as they went over any paper, and came to rest on the bracket.
 
 "Can it be read at our own fire?" said Cael.
 

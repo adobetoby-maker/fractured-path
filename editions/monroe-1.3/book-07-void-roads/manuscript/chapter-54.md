@@ -22,7 +22,7 @@ He heard it draw level, and fall in behind, and follow. It was no nearer than it
 
 The gap in the wall had a sill of the grey, a hand above the water. Seln went over it without breaking step, and the rest of them after him.
 
-It was a room. He could see that much while he walked, and he took it in as he had once taken in a floor from a rail, without stopping. It was twelve strides each way. The walls were a yard through, and they stood three times Brom's height at the far corner and were broken down to the height of a man's chest in two places on the left, with every break worn as round as a river stone. There was no roof and there never could have been a beam; the mist lay across the top like a lid. And the inner face of every wall was cut. The sunk lines ran in their courses from the water's skin to the broken tops, course over course, straight and hooked and crossing, nine deep where the wall was whole.
+It was a room. He could see that much while he walked, and he took it in without stopping. It was twelve strides each way. The walls were a yard through, and they stood three times Brom's height at the far corner and were broken down to the height of a man's chest in two places on the left, with every break worn as round as a river stone. There was no roof and there never could have been a beam; the mist lay across the top like a lid. And the inner face of every wall was cut. The sunk lines ran in their courses from the water's skin to the broken tops, course over course, straight and hooked and crossing, nine deep where the wall was whole.
 
 Karis made a small sound, and kept walking.
 
@@ -104,7 +104,7 @@ The knocking came round to it at once. It did not wait for eleven. The plate wen
 
 "We sit until it goes back to its round. I cannot tell you how long that will be."
 
-It was cover, and it was a trap, and the same yard of stone was both. Cael understood it as he had understood a stair under a floor: nothing could come at them where they sat, and they could not leave it. He watched the plates lift below him, in a line that went round the hole and came back; and when it passed beneath his boots he could see a length of back under the clear water, as broad as the ledge itself, going by for a great deal longer than he liked.
+It was cover, and it was a trap, and the same yard of stone was both. Cael understood it: nothing could come at them where they sat, and they could not leave it. He watched the plates lift below him, in a line that went round the hole and came back; and when it passed beneath his boots he could see a length of back under the clear water, as broad as the ledge itself, going by for a great deal longer than he liked.
 
 Along the wall from him there was a rustle of paper.
 
@@ -120,7 +120,7 @@ Lira looked at the soles of her boots, and then at the back of her head.
 
 It was the only thing that was said about it. Cael heard the pencil going, steadily, on thin paper against stone. He heard Karis say *sheet*, in a voice that had the blood in it, and Lira let go of the belt, and tore one from the roll with her teeth, and passed it down, and took hold again. A finished sheet came up over the edge and was pinned under a pebble. The two of them moved a yard along the wall on their knees, and Karis went over once more.
 
-It went on for the better part of an hour. The mist thinned over their heads and went from grey to white. Seln stood on the tall wall and said *there* each time that the line of lifting plates passed below him, and it passed a great deal oftener than once in a quarter of an hour; the thing had given up its round, and was going about that one room as a dog goes about a tree. Cael's breeches froze to the stone. He counted the sheets as they came up, since he counted everything, and then he made himself stop, since a man who is counting paper is not watching a floor.
+It went on for the better part of an hour. The mist thinned over their heads and went from grey to white. Seln stood on the tall wall and said *there* each time that the line of lifting plates passed below him, and it passed a great deal oftener than once in a quarter of an hour; the thing had given up its round, and was going about that one room as a dog goes about a tree. Cael's breeches froze to the stone. He counted the sheets as they came up, and then he made himself stop, since a man who is counting paper is not watching a floor.
 
 He looked away from the two of them, across the hole.
 
@@ -286,7 +286,7 @@ Seln set his boot in the stirrup, on the highest wall in that place, and bent, a
 
 "Four. Keep the last."
 
-That made four. Cael had counted them without meaning to. He was counting very little else; there was a point under a great weight of jaw, and himself, and a kind of grey coming in from the sides of what he could see.
+There was a point under a great weight of jaw, and himself, and a kind of grey coming in from the sides of what he could see.
 
 "They're on the sill," said Lira. "Both of them. She's got him sitting."
 

@@ -14,7 +14,7 @@ It grew colder with every morning. On the first the sky was clear, and the ruts 
 
 On the fourth the wind went into the north and stayed there, and they walked with their chins in their collars and the mule's breath freezing on her whiskers.
 
-To Cael, who had learned that crew's sound on a hundred roads and had learned it again at a fork with a pair of boots gone out of it, five had already begun to seem the number that a road was walked by. He did not care for that, and he wrote it down, so that he should be held to noticing it.
+To Cael, five had already begun to seem the number that a road was walked by. He did not care for that, and he wrote it down, so that he should be held to noticing it.
 
 His ribs kept the count for him.
 
@@ -72,13 +72,13 @@ He had written *nothing to report* at the foot of a weekly return for twelve yea
 
 He shut the book, and put it back inside his coat, against the strap.
 
-It lay where it had lain for nine days, on his breastbone, beside the other thing; and he sat for some time with his hand over the pair of them.
+It lay where it had lain for nine days, on his breastbone, beside the other thing; and he sat with his hand over the pair of them.
 
 It was three days later, on the fourth of that road, with the wind gone into the north, that he saw what he had been doing.
 
 He was walking a furlong ahead of the others, and he put his hand up to his coat as he did a dozen times in a day; and for once he noticed that the hand had two things to find. There was a case, locked, which he had carried shut through twelve years and three postings and across a Line. And there was a book, which he had carried shut for twelve days.
 
-He had not meant to keep it so. He had put it into his coat in a cold room because it was registry paper. Reading registry paper was the one craft that he had brought east with him. That had been true. It was also true that he had read it to nobody since. A researcher had wanted one figure out of it, at a fire by a marsh, and had not felt able to ask. She had stopped with her pencil over a leaf, and looked at her own cuff, where the figure had been washed out. He had gone to her. He had held the page to the light for her three times with his fingers shut on its spine.
+He had not meant to keep it so. He had put it into his coat in a cold room because it was registry paper. Reading registry paper was the one craft that he had brought east with him. That had been true. It was also true that he had read it to nobody since. A researcher had wanted one figure out of it, at a fire by a marsh, and had not felt able to ask. He had gone to her. He had held the page to the light for her three times with his fingers shut on its spine.
 
 He had seen people stand so before him for fifteen years, on the other side of a counter.
 
@@ -102,7 +102,7 @@ She stopped. She looked at it, and then at him; and she put up her hand beside i
 
 He put it into her hand, and took his own away.
 
-It was an odd thing to feel a weight leave his fingers that he had not been asked for. She did not move for a breath. Then she shut her hand on it, and held it against her coat as she had once held a flake from the footing of a city's gate.
+It was an odd thing to feel a weight leave his fingers that he had not been asked for. She did not move for a breath. Then she shut her hand on it, and held it against her coat.
 
 "I shall enter where it was found, and when," said Karis, "and by whose hand it came to me."
 
@@ -194,7 +194,7 @@ It stayed there, and he did not bring it down. He looked at the place for as lon
 
 He turned the ledger round.
 
-He took it by its corner and swung it on the bench, so that the writing faced the other way. Cael had read every line of that book upside down for a hundred and twenty days, across an oak plank, as he had once read a bailiff's list on a counter. It lay the right way up before him now. He read the season in a square black hand, and at the end of it a ruled space with nothing in it.
+He took it by its corner and swung it on the bench, so that the writing faced the other way. Cael had read every line of that book upside down for a hundred and twenty days, across an oak plank. It lay the right way up before him now. He read the season in a square black hand, and at the end of it a ruled space with nothing in it.
 
 "Teague says you need a column I don't have. I've kept this ledger thirty years. First time it's been wrong about a crew by being too small."
 

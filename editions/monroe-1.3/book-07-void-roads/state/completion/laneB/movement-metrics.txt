@@ -1,0 +1,10 @@
+M5 pre-lanes  words=36493 mean=13.7 ge40=0.04 le5=0.295 breaks=30 words/scene=986.3 para_median=25 FK=3.43
+M5 manuscript words=36428 mean=13.69 ge40=0.039 le5=0.295 breaks=30 words/scene=984.5 para_median=25 FK=3.43
+M6 pre-lanes  words=37512 mean=13.56 ge40=0.04 le5=0.261 breaks=34 words/scene=914.9 para_median=24 FK=3.42
+M6 manuscript words=36877 mean=13.46 ge40=0.038 le5=0.263 breaks=34 words/scene=899.4 para_median=24.0 FK=3.39
+M7 pre-lanes  words=42321 mean=13.84 ge40=0.04 le5=0.258 breaks=38 words/scene=920.0 para_median=25 FK=3.46
+M7 manuscript words=41994 mean=13.78 ge40=0.039 le5=0.26 breaks=38 words/scene=912.9 para_median=24.0 FK=3.43
+M8 pre-lanes  words=37056 mean=13.99 ge40=0.038 le5=0.256 breaks=31 words/scene=950.2 para_median=25 FK=3.58
+M8 manuscript words=36502 mean=13.88 ge40=0.037 le5=0.258 breaks=31 words/scene=935.9 para_median=24.0 FK=3.54
+Mall pre-lanes  words=153382 mean=13.77 ge40=0.04 le5=0.267 breaks=133 words/scene=941.0 para_median=24.0 FK=3.47
+Mall manuscript words=151801 mean=13.7 ge40=0.038 le5=0.269 breaks=133 words/scene=931.3 para_median=24 FK=3.45

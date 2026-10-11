@@ -116,7 +116,7 @@ Karis was next, and she had said that she would never grow used to it. She cross
 
 She set the point on the wick of her lamp.
 
-The healer came over between two of them, with Brom's good arm across her shoulders and his weight on her; and Cael watched her do what he had seen her do at a rock on the Fallow, eight times in one grey morning, when she thought that nobody saw. She took one stride past the stone. She stopped dead, with her eyes shut and her lips moving, and her free hand closed on Brom's wrist.
+The healer came over between two of them, with Brom's good arm across her shoulders and his weight on her. She took one stride past the stone. She stopped dead, with her eyes shut and her lips moving, and her free hand closed on Brom's wrist.
 
 The count went to four, and on, and did not stop.
 
@@ -170,7 +170,7 @@ He went round the three boxes under their blanket with the lamp held low, and st
 
 "What did they see?" said Cael. "Tell me as you'd write it for them."
 
-"A fence that failed at dusk, at its knot, which was set on an iron bar that stands upon the very edge of the place; and directly afterward a boy, who stood up out of the old road beside that bar and declared." Seln folded his hands. "Nobody on that rim saw anything between the stair and the bar. I asked Lira what she saw from the thirty-fourth step, and she says that she saw a stair. They will write that he crept up a rut in bad light while they were watching a hole, and that a knot tied a hand's breadth from such an edge is a knot which nobody should have trusted. A man who lays fences for his living would far sooner put that on paper than the other thing, and he has no cause to think of the other thing at all. It holds."
+"A fence that failed at dusk, at its knot, which was set on an iron bar that stands upon the very edge of the place; and directly afterward a boy, who stood up out of the old road beside that bar and declared. Nobody on that rim saw anything between the stair and the bar. I asked Lira what she saw from the thirty-fourth step, and she says that she saw a stair. They will write that he crept up a rut in bad light while they were watching a hole, and that a knot tied a hand's breadth from such an edge is a knot which nobody should have trusted. A man who lays fences for his living would far sooner put that on paper than the other thing, and he has no cause to think of the other thing at all. It holds."
 
 He turned, and went up the old road to the brow by himself.
 
@@ -276,7 +276,7 @@ Pike looked at the shingle, and at him, and at the shingle again.
 
 Pike said nothing more. He wrote the name. But he kept his one hand on the shingle for a breath after the ink was dry, and Teague knew that he had been read; and he found, somewhat to his surprise, that he did not mind it.
 
-He had told a boy at a door that his crew would be at Millrace in two days, and it had been true when he said it only because he had decided, between one sentence and the next, to make it true. He had been turning that over ever since. A man does not walk up to another crew and hand it the hair on his own neck.
+He had told a boy at a door that his crew would be at Millrace in two days, and it had been true when he said it only because he had decided, between one sentence and the next, to make it true. A man does not walk up to another crew and hand it the hair on his own neck.
 
 But he could be half a day from where a certain paper pointed, with a spear and a bow and a boy, on honest business. Nobody could say that it rested on nothing, since it rested on three stakes and four marks.
 
@@ -290,7 +290,7 @@ It was the boy who asked, at that fork, before the blankets were down. He had a 
 
 "I heard it. I never knew you take four marks."
 
-Teague looked at him for some time. He had made it a rule, nine cold terms ago, that he would not walk three people up a road for a reason that he was ashamed to give them; and the rule held on a ridge at night as it held at a plank.
+Teague looked at him. He had made it a rule, nine cold terms ago, that he would not walk three people up a road for a reason that he was ashamed to give them; and the rule held on a ridge at night as it held at a plank.
 
 "There's a paper that I hung back on a nail," he said. "There's a crew that took it down. I think that it's a bad paper, and I can't tell you what's bad in it. I said to them that if they were late, we'd come and look."
 

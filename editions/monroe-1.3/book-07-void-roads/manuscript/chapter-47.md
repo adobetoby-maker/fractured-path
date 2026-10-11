@@ -136,7 +136,7 @@ He put it down, with her initial; and he had hardly lifted the pencil when a hoa
 
 "I can see who it was. Hand."
 
-He gave her his hand across the sill, and she turned it over and gave it back. She put two fingers on Karis's throat. She gave Seln her short nod. In the time that it takes to draw a bucket she had gone round the five of them and found nothing that wanted her, and she sat down on her keg with her forearms on her knees.
+He gave her his hand across the sill, and she turned it over and gave it back. She put two fingers on Karis's throat. She gave Seln her short nod. She had gone round the five of them and found nothing that wanted her, and she sat down on her keg with her forearms on her knees.
 
 "That's my bench, then. Which of you is going to tell me why you're a day south of your board, with a mule of mine and three boxes, on a road that goes nowhere but a ford?"
 
@@ -178,7 +178,7 @@ She walked to the lean-to's edge and stood looking up the valley, where a hurdle
 
 "That one-armed man said it under his eave, and wrote it. A clerk said it to a boat." She did not turn round. "I've a round. It's seven gates and twenty days and it's the only thing that I own. A woman who's one of six belongs to the six. I've seen what that does to a healer; she ends up mending the same four people for the rest of her days and calling it a calling."
 
-She stood there for about as long as it takes to count twenty. Cael did not help her, and nor did any of the others; it was her sum, on her fingers, and they had each of them learned at a stone that she did not want it done for her.
+She stood there. Cael did not help her, and nor did any of the others; it was her sum, on her fingers, and they had each of them learned at a stone that she did not want it done for her.
 
 Then she put two of those fingers into her mouth and whistled.
 

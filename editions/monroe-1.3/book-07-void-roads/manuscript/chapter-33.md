@@ -174,7 +174,7 @@ Oryn did not open her eyes. Her lips moved, in the trodden grass.
 
 He washed it himself, from the skin, with his teeth set, and wound a strip of clean linen out of the healer's pannier round it; and he took up the bow again with that bundle and went back to the north.
 
-That was the camp. Nobody had said a word to Cael about a hill. They had eaten bread beside him, and passed him the water, and Seln had put the last blanket round his shoulders without a remark, as he would have put it round anybody. Four of them knew what he was and had not known until tonight that it reached in there. One of them knew nothing, and had asked him whether his calf was worse than an arm.
+Nobody had said a word to Cael about a hill. They had eaten bread beside him, and passed him the water, and Seln had put the last blanket round his shoulders without a remark, as he would have put it round anybody. Four of them knew what he was and had not known until tonight that it reached in there. One of them knew nothing, and had asked him whether his calf was worse than an arm.
 
 He had expected questions, and he had been given a blanket, and a sixth of a loaf, and a knot that lay flat. He did not know yet which he would have found the easier to bear.
 

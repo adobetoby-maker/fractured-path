@@ -12,7 +12,7 @@ Karis had the leaf ready, and she read it standing, as a one-armed man read a li
 
 "One. A bar of iron of the registry's pattern, bearing its stamp and the number thirty-one, stands on the edge of the Quieting at the Fallow Ring, a boot's width from the place where I found that edge with my feet. Two. By its rust, and by the turf grown against it, it has stood there about five years. Three. It was driven at the far end of a measure, so that whoever drove it had found the same circle that I paced, and had a cord or a chain to find it with. Four. I do not know what the number counts, or what was written down afterward, or where it is kept."
 
-She lowered the leaf, which was the shortest thing that she had read out in six days; she had plainly cut it down from something a good deal longer.
+She lowered the leaf, the shortest thing that she had read out in six days; she had plainly cut it down from something a good deal longer.
 
 "Is it wrong?"
 
@@ -26,7 +26,7 @@ She altered it, in ink, and initialled the alteration.
 
 Cael stood by the shutter with a slip of bark in his fingers and listened to four sentences.
 
-He had been ruling a line through that iron since a wash on the road east. There had been a query sent down to a registry, asking which way certain people had gone; and a paper under a broker's seal, with a sum written twice; and a stake. At a bar of iron eleven days ago he had seen for the first time which way along that line he was looking. He had expected to find the whole of it on her leaf, and it was not there: there was a stamp, and a number, and a length of time, and a measure; and under those she had written, plainly, the three things that she did not know.
+He had been ruling a line through that iron since a wash on the road east: a query, and a paper under a broker's seal, and a stake. He had expected to find the whole of it on her leaf, and it was not there: there was a stamp, and a number, and a length of time, and a measure; and under those she had written, plainly, the three things that she did not know.
 
 It was a smaller leaf than the one in his head, and he saw that it was the better one.
 
@@ -104,7 +104,7 @@ She turned round then, and met his eye.
 
 "You have been a sentence in somebody's box since you were fourteen. There is a word on a file in the west that was put there by a form, since the form could not be filled in, and you have had to walk about under it. I have watched what that cost." Her hand lay on the lid. "There is nothing in this box about you that you have not been told to your face, and there is not going to be. That is all that I kept you for."
 
-He could not answer her at once. He had come down a ladder at first light, four mornings ago, and seen a leaf go into that box with nothing on it; he had turned slips for her every day since, and had kept his mouth shut.
+He could not answer her. He had seen a leaf go into that box with nothing on it, four mornings ago, and had kept his mouth shut.
 
 "I'll not ask you what the fear is," he said.
 
@@ -118,7 +118,7 @@ It was the coldest morning that they had yet had at that gate. The trough had fr
 
 Oryn did not make an occasion of it. She came out of the back room with her sleeves pushed up, and undid her own knot, and her two hands went round the forearm. Cael, at the barn door, watched her lips go to ten and stop there.
 
-He had done the sum on the ladder, and he did it again now, since he could not help it. If the eighth mark had turned, there would be a mending to pay for it, and then more days of watching on top of that. Every one of them would come off a round that was already sixteen behind, and be laid against a girl who had been told that she was not to carry them and would carry them regardless. If it had not turned, a healer went north in the morning.
+If the eighth mark had turned, there would be a mending to pay for it, and then more days of watching on top of that. Every one of them would come off a round that was already sixteen behind, and be laid against a girl who had been told that she was not to carry them and would carry them regardless. If it had not turned, a healer went north in the morning.
 
 She shifted her thumb to the lowest mark of the outer row, and pressed, and counted a second time.
 
@@ -132,7 +132,7 @@ Lira let out a breath that she seemed to have been holding for four days.
 
 "Near enough, if it's let alone. And it's been let alone. I've had my eye on it."
 
-It was not praise, and Lira did not take it for any. She set her jaw and nodded, as she would have taken a figure off a slate; but Cael saw her right hand come open on her knee, a finger at a time.
+Lira set her jaw and nodded, as she would have taken a figure off a slate; but Cael saw her right hand come open on her knee, a finger at a time.
 
 The healer was looking at her right shin.
 
@@ -148,7 +148,7 @@ She stopped in front of Cael last.
 
 She did not put a hand on him; she looked at his left leg, where a seam lay under the cloth, and at how he stood on it, and at the forearm that he had come down on under a hound's weight, and then at his face. It was the look that she gave a bench: it went over him from a stride and a half, and took what it could get from the outside, which with him had only ever been bone.
 
-"You I can tell nothing. You'd know before I would." She rubbed her palms together. "That's sixteen out of this gate. A round never gives a day back; it takes one."
+"You I can tell nothing. You'd know before I would. That's sixteen out of this gate. A round never gives a day back; it takes one."
 
 He had that sum by heart, from the ninety-fifth day to the morning after a fortnight. Sixteen and one made seventeen, somewhere on a road that he had never seen; and she did not say where the one would fall.
 
@@ -234,11 +234,11 @@ There was a scuffling on the planks, and the nose of the bow went down out of si
 
 "One."
 
-It was the only one that he gave her. Cael understood it: there was to be a single bolt from the knee, at sixty paces, with a hold looking on, and no second if it went wide. He stood at a wicket with his hands shut. Wind had come up in his feet to go with her, as it had on a rim; and he heard it come, and let it lie.
+It was the only one that he gave her. Cael understood it: there was to be a single bolt from the knee, at sixty paces, with a hold looking on, and no second if it went wide. Wind had come up in his feet to go with her, as it had on a rim; and he heard it come, and let it lie.
 
 She took longer over that one than over all of the eight.
 
-He could not see her. He could see a strip of grey blanket through a gap between two planks, lying across her breast, and it did not stir. He thought of a girl who had run a quarter-mile of that fence flat out and stopped dead on both feet. He thought of the same girl a hundred yards down a ledge with her arms out and a herd coming, who had never in her life done a thing slowly if there was a way to do it fast.
+He could not see her. He could see a strip of grey blanket through a gap between two planks, lying across her breast, and it did not stir. He thought of a girl a hundred yards down a ledge with her arms out and a herd coming, who had never in her life done a thing slowly if there was a way to do it fast.
 
 The slap came.
 
@@ -288,8 +288,6 @@ He gave it to her in order, and low, and he began by telling her that it had not
 
 "I could have had it off your arm in a breath, three ways. And every one of them would have brought the other eight to where you were lying."
 
-She was silent for the length of a few breaths.
-
 "I did that sum the next night, on my back," she said. "I'd have ruled the same. I'd have been sick, doing it."
 
 "I was."
@@ -326,7 +324,7 @@ She made a small sound that was nearly a laugh.
 
 "Then don't."
 
-She said it at once, and without any hurt in it; and he heard her hand move. It came along the plank between them in the dark, the right one, which was allowed to hold things; and it stopped against the side of his boot, and stayed there, as it had once stayed for a breath on the top of his head in a loft.
+She said it without any hurt in it; and he heard her hand move. It came along the plank between them in the dark, the right one, which was allowed to hold things; and it stopped against the side of his boot, and stayed there, as it had once stayed for a breath on the top of his head in a loft.
 
 "Then six."
 

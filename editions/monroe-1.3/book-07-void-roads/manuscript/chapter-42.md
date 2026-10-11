@@ -40,8 +40,6 @@ The barn had gone very quiet, and the only sound in it was a hen scratching down
 
 "A personal spiritual entity should not fail the way five looms fail when somebody shuts the sluice on the wheel that drives them."
 
-It lay on the cold air among the sacks.
-
 "They all stop on the one thread," said Brom slowly. He had grown up within hearing of a mill, on a stream that ran through his father's ground. "I've stood in the shed and seen it."
 
 "I am not filing that," said Karis. "It has a likeness in it. I have said it once, in a barn, to four people, and it does not go into the box."
@@ -60,7 +58,7 @@ He let that lie while a person might have drawn one breath, and his mild eyes st
 
 Cael stood where he was. He had been a row on that leaf since noon on the ninety-sixth, ruled in Karis's hand at the foot of five others, with a numeral against it; and he had filled it for her himself, with a pencil going, in two halves that were each of them true.
 
-Karis drew the leaf toward her and studied the sixth row for some time. Then she dipped the pen, and drew one stroke through the numeral that stood at the head of it, and wrote against the struck figure, small and exact.
+Karis drew the leaf toward her and studied the sixth row. Then she dipped the pen, and drew one stroke through the numeral that stood at the head of it, and wrote against the struck figure, small and exact.
 
 *one dark since fourteen; no change either side of the line; stated by him, not tested by me*
 
@@ -122,7 +120,7 @@ He had seen her do her sums aloud a good many times, on her fingers, with the an
 
 She lifted the second pannier down herself, and the steading's woman took the loaf out of it again, as if she had expected nothing else.
 
-Cael stood in the barn door with a slip of bark in his hand. It was the second time that he had watched that woman put days on the only thing she owned; the first had been at a long house door, with a bowl in her hand, and each time it had been for one of them. He was to have it, as she had told him against a bar of iron, and to do nothing with it. It grew harder with every day that she added.
+Cael stood in the barn door with a slip of bark in his hand. It was the second time that he had watched that woman put days on the only thing she owned; the first had been at a long house door, with a bowl in her hand, and each time it had been for one of them. He was to have it, and to do nothing with it. It grew harder with every day that she added.
 
 ---
 
@@ -190,7 +188,7 @@ She took her face off the wood. She had not made a sound. She had not declared a
 
 She sat down on the planks with her back against a post. He did not explain. He stood with his own long bow at the length of his arm and looked down the valley; and by and by she understood that he meant to stand there until she was finished, however long that took.
 
-It took about as long as two hundred breaths. She counted them, since there was nothing else to count.
+It took about as long as two hundred breaths.
 
 "Shooting's stopping," he said then, to the valley. "You know stopping. I watched you learn it under this walk."
 
@@ -294,7 +292,7 @@ She looked about the walk. It was eight feet of planking with a post at each end
 
 He showed her, without a word, by sitting down. He was not a young man, and he did it in stages. He sat on the planks with his left leg folded under him and his right knee drawn up, and the sole of that boot planted; and he laid an invisible stock across the knee, and bent his cheek to it.
 
-It was her bad foot. She saw that at once, and she saw in the next breath that it did not matter, since the right foot was to be set down whole, heel and toe together, and to roll nowhere and push at nothing, exactly as a healer had ordered it at a stone. It was the first thing that she had been asked to do with that ankle in twelve days that the ankle was good for.
+It was her bad foot. She saw that, and she saw in the next breath that it did not matter, since the right foot was to be set down whole, heel and toe together, and to roll nowhere and push at nothing, exactly as a healer had ordered it at a stone. It was the first thing that she had been asked to do with that ankle in twelve days that the ankle was good for.
 
 She sat. The boy bent his back.
 
@@ -312,11 +310,11 @@ She put one in the ring.
 
 She shut her mouth on what she had been about to say, since it was true. She had been a Wind since she was fourteen, and she had never in her life sat down without some part of her already on the way to getting up.
 
-She thought of an oak floor on a bluff, and of a man at a rail who had made her walk a count for a month: three lies and a truth, with a step on the fourth where a burst would have been. He had struck her for bursting. But there had always been the Third-day at the end of it, when he let them off the count, and a person could go.
+She thought of an oak floor on a bluff, and of a man at a rail who had made her walk a count for a month. He had struck her for bursting. But there had always been the Third-day at the end of it, when he let them off the count, and a person could go.
 
 There was no Third-day on this walk. There was the count, and at the end of the count there was a finger and a lever.
 
-She let her breath out, and did not take the next one. She let the knee go heavy. She waited, as she had waited at the lip of a gravel bar with a river in front of her, until there was nothing in her that was on its way anywhere, and then a little longer.
+She let her breath out, and did not take the next one. She let the knee go heavy. She waited until there was nothing in her that was on its way anywhere, and then a little longer.
 
 She had three in the ring from the knee, of the second eight. He put her back on the rail for a third, and she had five.
 
