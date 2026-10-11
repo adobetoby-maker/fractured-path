@@ -196,7 +196,7 @@ Six things the registers could not answer. He had written each of them down on t
 
 He sat and looked at them.
 
-He had thought, this morning a week ago, with the dry pen resting under a fourteenth line, that there might be a seventh. He could admit that here. What he had hoped, for the space of perhaps a breath, was a simple thing: that a mark written out at last in a schedule, under seal, before a seat, would have to say whose it was. Every designation he had ever receipted stood against the office that made it, and in all these years he had wanted nothing from that mark but the name of an office.
+He had thought, this morning a week ago, with the dry pen resting under a fourteenth line, that there might be a seventh. He could admit that here. What he had hoped, for the space of perhaps a breath, was a simple thing: that a designation written out under seal before a seat would have to name its office.
 
 The schedule did not give one. It gave the title, in a clerk's fair copy, and no office after it, on the old leaf or the new. The petition had only set down that the mark was there. He had known that since the pump step, and had written it on the first sheet, and a thing written once did not want writing again.
 

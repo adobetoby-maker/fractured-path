@@ -987,7 +987,7 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 **Movement 6 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch38 log entry `B.'s hand.` → `Brom's hand.`). The clean door's forty-day default counts from the close of the fourth sitting (the one that put the record): day 75 → day 115. Reserved-truths amendments confirmed present. ~32,270 words. Overlap 0/14, gates 0, probe 2%/14%.
 
 
-## AFTER MOVEMENT 7 — chapters 41–47 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+## AFTER MOVEMENT 7 — chapters 41–47 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 applied; CLOSED 2026-10-11 after Sol recheck r1)
 
 **Coordinator rulings (override the author's end-state below):**
 - Sol plan audit: M7 RATIFIED AS WRITTEN. Sol source distance: 0 tracked passages.
@@ -1149,3 +1149,5 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **The hearing provision in use (flag):** the motion made at the eleventh sitting; "considered at the close"; if refused, the closing goes in as a written submission (the counsel).
 - **The records hall (flag):** the hall's slate for the house's sittings; the deposit shelf under the north window; the marbled deposit book and its entry.
 - **Bracken's slate text (ch47).**
+
+**Movement 7 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch44: Havel's hope stated once — that a designation written out under seal would have to name its office; the schedule gives the title and no office, which his first sheet already records; no seventh). Havel's years in the work are 'all these years' (no count). Calendar unchanged. ~35,000 words. Overlap 0, gates 0, probe 1%/16%; source distance 0 tracked.
