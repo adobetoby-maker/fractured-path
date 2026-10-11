@@ -151,25 +151,19 @@ Contact range.
 Acquisition: directed. Engagement: adversarial, earnest — non-hostile.
 ```
 
-He read it through twice.
-
 Nine.
 
-*Iron.* It was the lightest thing he had been handed since before Norhold, and Karis's curve had been right again, for it had come in a breath. *Edge-declaration.* That was the edge that stood clear of the wood because a man said so. *Line-reading.* It was the thin bright rule that had ended on his third button. *Contact range.* He had five lines across his forearm that said the same.
-
-And at the top, where a name went, *unnamed*, as it had said on the road. It always said so. He had sat on a chalk bank and grieved that he would never be able to find the woman it had come from.
+He began at the top, where a name went, and it said *unnamed*, as it had said on the road. It always said so. He had sat on a chalk bank and grieved that he would never be able to find the woman that one had come from.
 
 He knew this one's name, and where he slept, and what he whistled on a stair, and that he could not get the third line of a song right. Ephram was eighteen inches from him, having his arm bound, and he could have said it now. That was the difference, and it was the cost. He had written it down the night before at full weight, and it weighed exactly what he had written.
 
-He read the last line a third time.
+The middle of it his arm could have told him. *Iron*: it was the lightest thing he had been handed since before Norhold, and Karis's curve had been right again, for it had come in a breath. *Edge-declaration* was the edge that stood clear of the wood because a man said so, and *line-reading* the thin bright rule that had ended on his third button. *Contact range.* He had five lines across his forearm that said the same.
 
-*Earnest — non-hostile.*
-
-He had not known the notices had those words in them. The one before had said *combat*. The storm had come out of a Gold who was trying to beat him, and the road out of a woman who meant to put him in a wagon. This had come out of a man who had asked for the bout because he wished to know the truth about a friend, and who had fought with everything he had and wished him no harm in the world. Whatever kept the notices had known the difference, and it had a word for it.
+The last two words he did not know what to do with. He had never met them in a notice, and he left them where they were, for the Log.
 
 "Coach."
 
-It was Rooke's clerk, the thin anxious young man who had kept the visitors' ledger. He had come to the edge of the stand with the house's permanent book open on one forearm and the program's on the other.
+It was Rooke's clerk, the thin anxious young man who had kept the visitors' ledger. He had come to the edge of the stand with the house's permanent book open on his forearm.
 
 "Which name, Coach? It isn't a program bout, and it isn't a ladder bout. The house's permanent column only has a head for one fighter. Ephram, or the enrollee?"
 
@@ -215,7 +209,7 @@ The house went more slowly, for it did not seem to know how to leave. First-year
 
 Withrow was the last.
 
-She had not left the registrar's chair. She sat in it, upright, with her hands in her lap, while the stand emptied round her and Bracken went down with the clerk's two books under his arm, and she went on sitting until the tiers were bare stone again and the porter had begun at the top with his broom. Then she stood.
+She had not left the registrar's chair. She sat in it, upright, with her hands in her lap, while the stand emptied round her and Bracken went down with the house's book under his arm, and she went on sitting until the tiers were bare stone again and the porter had begun at the top with his broom. Then she stood.
 
 She did not come to the steps. She looked at the oak, the whole length of it, as a woman looks at a room she has kept for a long time, and up at the first board, where four lines stood in a coach's capitals. Then she looked at Cael on his step, with his arm bound.
 
@@ -237,19 +231,19 @@ Lira did not answer the question. She looked down the steps at him, and then out
 
 Ephram came back when the light had begun to go yellow.
 
-He came down the steps slowly, with his right arm bound across his chest in a sling of the healer's linen and his coat hung over the shoulder. Rooke's clerk was waiting by the boards with the chalk and the bout sheet.
+He came down the steps slowly, with his right arm bound across his chest in a sling of the healer's linen and his coat hung over the shoulder. Rooke's clerk was waiting by the boards with the chalk and the bout sheet, and Cael got up off his step and went along the stand to them.
+
+It was the yard's custom, and he had watched it from a tier a hundred times and never stood in it: after a bout on the oak the clerk chalked the result, and the two who had fought stood at the board while he did. The first board was high. The clerk set the porter's ladder against it, and Cael steadied one side of it with his one good hand and Ephram the other with his, and neither of them said that it wanted steadying.
 
 The clerk chalked the result under the notice in the same three-line grammar the yard used for every bout. Cael and Ephram stood together while he did it. Ephram looked at the board rather than at Cael, which was the register the ritual ran in.
 
 "Whatever you are," he said, "I said I'm glad it's on my side of the floor. At the trial. When she stopped to read you." He looked at his bound shoulder. "The floor's about to be the whole continent, and I'm not on it — I'm staying; you know I'm staying; it's the right thing for me and you'd tell me so if I asked, which is why I'm not asking." He put out his left hand. "Still glad. That's the whole thing. I made myself wait two years to fight you straight and it was worth every month, and I don't need to know what you are to know that. Go be it somewhere with more room."
 
-Cael took the offered hand with his right.
-
-Cael stood with Ephram's left hand still in his.
+Cael took the offered hand with his right, which was the only one he could close, and for a moment neither of them let go. The clerk came down the ladder beside them and went away with his sheet.
 
 It was in him, new, housed for the moment where nothing else was, a thing with an edge and a rule to it. It had come out of the man in front of him an hour ago, and he could have said so in a dozen words. *There's something I took. You should know what you gave.*
 
-Ephram would have listened. He would have gone still, and thought about it, and very probably said that he was glad of that as well; he had turned his back on a table of papers twice, for a friend's sake, without being told what was on them.
+Ephram would have listened. He would have gone still, and thought about it, and very probably said that he was glad of that as well. But he had just said, of his own accord, that he did not need to know; he had turned his back on a table of papers twice, for a friend's sake, on the same understanding.
 
 And then he would have known. He would have been a cohort captain at a chartered house who knew what the registry's unclassified enrollee was, and what he had carried east, and he would have known it on the day a district officer rode up to the gate, and for every day after. He was staying. He had a board with his name on it, and they would come and ask him, courteously, what he had seen.
 
@@ -259,7 +253,7 @@ Cael did not say it.
 
 "I'm writing something down."
 
-"You always are." Ephram picked up his coat with the wrong hand and got it over his shoulder at the second try. "Don't make me sound clever in it. I walked into a post."
+"You always are." Ephram took his hand back and hitched the coat on his shoulder with it. "Don't make me sound clever in it. I walked into a post."
 
 He went up the steps, slowly, and at the top he began to whistle. It was the song from the residence windows, and the third line was wrong.
 
@@ -271,7 +265,9 @@ He wrote it at the rim, sitting on the coping with his feet over the oak. He wro
 
 *He said "non-hostile" and the system agreed. Nine fragments and the ninth one's engagement field says the closest thing to friendship a machine knows how to file. I'll take it. It's the truest thing the instrument ever wrote about me except "no number goes here," and it was written about a fight I didn't want to win.*
 
-He read it over once, and then set down the bills, smaller.
+He read it over once. *And it cost* was true of more than he had priced the night before, and he set that down next, and then the bills, smaller.
+
+*Not priced: his shoulder. I knew a Blade can't take a commitment back. I never asked where it goes if somebody stands in the way. That's mine. He says he'd have minded more if I'd known. I mind that I didn't. Entered.*
 
 *Left forearm, wrist to elbow: the touch, and four more on the guard, the last to the bone or near it. Hip, crest to knee: ten on the oak, four past the six. Shoulder: six pushes at load, one past Norhold. Two lanes, ten and ten. Behind the eyes. One spark. Not the quiet thing; in a yard with twelve hundred people looking down it had nothing to offer and didn't. Not the one from the road.*
 

@@ -1,6 +1,6 @@
 # Chapter 51 — The Hand
 
-Havel had written the time when the senior evaluator stood, and the time when she sat, and the difference between them was six minutes.
+Havel, in the junior chair at the records table, had written the time when the senior evaluator stood, and the time when she sat, and the difference between them was six minutes.
 
 He looked at the two figures after the room had emptied. He had written a great many pairs of times in that book since the fortieth day, and he could not remember looking at a pair before, for it was not his place to notice how long a thing had taken. It was his place to see that anybody who wanted to know could find out. He blotted them.
 
@@ -62,7 +62,7 @@ The exchange's porch had a board for the seat's public record, behind a brass gr
 
 There was nobody on the steps. A boy came across from the trough, one of the lads the correspondents paid to watch the board, and read the heading with his lips moving: *Return of the evaluation seat.* He looked for a ruling under it and did not find one, and went back to the trough.
 
-That was the public record. Havel stood a moment with the key in his hand and looked at his own pins. A thing he had carried between two manuals since before that boy could read was up on a wall in a market street, in a fair hand, for anybody; and the street went by. A carter passed, and two women with a basket between them, and on the far side a man in a travelling coat with a walking stick, who glanced at the board as he glanced at everything and wrote nothing down.
+Havel stood a moment with the key in his hand and looked at his own pins, and the street went by: a carter, and two women with a basket between them, and on the far side a man in a travelling coat with a walking stick, who glanced at the board as he glanced at everything and wrote nothing down.
 
 He had thought, when he was younger, that if it were ever said aloud something would happen.
 
@@ -84,15 +84,15 @@ The river ran low and plain under the middle pier. He set the kit on the table b
 
 He read them through, slowly, as an officer reads anything he means to rely on. Then he did something he had not done to them before. He took the pencil from the kit's loop and wrote a small figure in the top corner of each, from one to six. They had never been numbered, for to number a thing was to say how many of it there were to be.
 
-He did not take a clean sheet. He looked at the place where the clean sheets lay, and thought about what a seventh would say. It would say that on the fourth call day the senior seat read two returns into the minute; and that was in the minute, and pinned up in a porch. The six held what the registers could not answer, or would not, and this the registers had answered themselves, aloud. A thing that stood in the public record did not want a private sheet. That was what a public record was for.
+He did not take a clean sheet. He looked at the place where the clean sheets lay, and thought about what a seventh would say. It would say that on the fourth call day the senior seat read two returns into the minute; and that was in the minute, and pinned up in a porch. The six held what the registers could not answer, or would not, and this the registers had answered themselves, aloud. A thing that stood in the public record did not want a private sheet.
 
 He tied the six with a length of the red tape he used for receipts, once round and once across, and made the knot flat.
 
 Six entries. Done.
 
-It was a strange word to think, and he sat with it, because nothing whatever was done. The mark stood on the file as it had always stood, and the seal he had hunted through three ledgers still belonged to no office, and tomorrow at the hour after noon a ruling would be read and he would write the time. He did not understand it tonight any better than he had on the pump step. He had six facts and no leave to add them up, and he had never once tried.
+It was a strange word to think, because nothing whatever was done. The mark stood on the file as it had always stood, and the seal he had hunted through three ledgers still belonged to no office. He had six facts and no leave to add them up, and he had never once tried.
 
-But his part of it was done. He had kept them until somebody whose office it was said one of them aloud. He could not have said why that was enough, and yet it was.
+But his part of it was done. He had kept them until somebody whose office it was said one of them aloud.
 
 He put the bundle back between the manuals, the same way round, and took out the other paper.
 
@@ -172,7 +172,7 @@ It came in and sat, and it had a single leaf in front of it.
 
 "In the matter of Caelen Hesk-ward. For ruling. The fourteenth sitting."
 
-The hood read. It read in the voice it had used all year, level and unhurried, with no more weight on one word than on another, and it paused at the end of each head so that the clerk might have it. Cael fixed his eyes on the exchange's clock over the doors.
+The hood read. It read in the voice it had used all year, level and unhurried, with no more weight on one word than on another, and it paused at the end of each sentence so that the clerk might have it. Cael fixed his eyes on the exchange's clock over the doors.
 
 "*The seat, having heard the petition and the responses in full, and having found the enrollment lawful in its execution and the respondent institution compliant with its charter throughout — which findings stand undisturbed — nonetheless finds the evaluation-integrity question sustained on the merits. The demonstration provision describes the practitioner; it does not evaluate him within the meaning of the integrity provisions. The petition for compelled re-evaluation under standard Arbiter protocol is granted. The re-evaluation shall be conducted at the district Arbiter station within five weeks. Should the re-evaluation return no valid classification, the procedure of the code's chapter fourteen shall apply: nullification, suspension, asset-restriction. The demonstration-provision enrollment is revoked effective at the close of the present academic year.*
 
@@ -188,7 +188,9 @@ Cael had thought, for a year, that when it came he would feel the floor go, and 
 
 Lawful. Compliant. Revoked.
 
-He had heard those three words coming since the preliminary, when the seat had said *sound* and *whole* and *notwithstanding* in one breath. There was no trick in them. A year of Fifth-days had been walking toward exactly this leaf, and every door on the way had been real law and had opened one way, as Karis had told them on the first night. He had read it better than they did, and so had she, and it had made no difference, because it had never turned on the reading.
+It was all one paragraph, and the first two words were given away in a clause, as findings that *stand undisturbed*, before the *nonetheless*. He had heard that word coming since the preliminary, when the seat had said *sound* and *whole* and *notwithstanding* in one breath. Karis's fifty-one minutes had been answered in a single sentence: the provision described him, and did not evaluate him. The counsel had asked a table on the first night whether they knew the difference, in front of a seat, between a description and an evaluation, and here it was, a year later, in the seat's own mouth.
+
+There was no trick in it. A year of Fifth-days had been walking toward exactly this leaf, and every door on the way had been real law and had opened one way, as Karis had told them on the first night. He had read it better than they did, and so had she, and it had made no difference, because it had never turned on the reading.
 
 What he felt was not the floor going. It was a corridor ending. He had been walking down it so long that he had stopped feeling the walls, and now there was a last door, with a year's close chalked on it, and behind him nothing whatever that he needed to go back for.
 
@@ -232,7 +234,7 @@ Bracken changed the slate before he took his coat off.
 
 He rubbed out the three lines with the heel of his hand, the two closings and the ruling, and left the fourth, because that was Brom's and not the house's. He wrote in their place, square and plain:
 
-*Ruling given. No finding against the house. The enrollment basis revoked, from the year's close.*
+*Ruling given. No finding against the house. The enrollment revoked, from the year's close.*
 
 He read it over, and dusted his fingers, and went behind his counter, where the lamps were lit in pairs down the length of the records hall and both his clerks were already bent over the middle table.
 
@@ -258,9 +260,7 @@ He squared the leaf to the counter's edge, and stepped back from it.
 
 Cael looked at the engrossment under the lamp.
 
-*I keep looking for the person and finding the hand.* That was his own line, from the year's sixth week, and he had gone on looking. He had looked at Jent and at a hood and down a road with chalk on it, and had wanted an arm, somewhere, that the hand belonged to.
-
-There was no arm. There were two hundred and six honest people, and a leaf two hundred years old in a locked case, and a clerk with a good hand. He stopped looking, and it was like setting down a thing he had carried so long that he had forgotten it had weight.
+*I keep looking for the person and finding the hand.* That was his own line, from the year's sixth week, and he had gone on looking, at Jent and at a hood and down a road with chalk on it. He stopped looking. It was like setting down a thing he had carried so long that he had forgotten it had weight.
 
 At the middle table the copy-sets were coming off the clerks' pens, and Brom was squaring them.
 

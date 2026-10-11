@@ -80,7 +80,7 @@ She had been frightened of this part, he thought, and she took it slowly.
 
 She gave it to them plainly, as a thing that belonged to the room: that the provisions existed for the testing of instruments, of frames and stations and records and protocols, and that they had been written so that the registry might know which of its own instruments it could trust.
 
-"Instruments," said Karis. "That is the handle. I went and read how the tool has been used, to see whether the hands that held it could read, and they could. There are ninety-one recorded invocations of these sections in the registry's whole record. Eighty-four concern things: a frame that read a rank high, a station seam that let in the damp, a plate, a ledger, a seal. The sixty-third was filed by the registrar who is sitting at this table, in his fourth year, upon a station frame in this town, and the registry thanked him for it." Bracken looked at the seal's box. "Seven concern persons. I have read all seven, and every one is about something the person did. A false return. A rank that was bought. A seal that was lent. In all that record these sections have never once been turned upon a person for what he is."
+"Instruments," said Karis. "That is the handle. I went and read how the tool has been used, to see whether the hands that held it could read, and they could. There are ninety-one recorded invocations of these sections in the registry's whole record. Eighty-four concern things: a frame that read a rank high, a station seam that let in the damp, a plate, a ledger, a seal. The sixty-third was filed by the registrar who is sitting at this table, in his fourth year, upon a station frame in this town, and the registry thanked him for it." Bracken looked at the seal's box. "The other seven name a person, and I have read each of them through. What the registry complained of, every time, was an act: somebody had sent in a false return, or paid for a rank, or lent out a seal. Not one of the seven complains of what the person was."
 
 She let that stand.
 
@@ -108,7 +108,7 @@ A third.
 
 Ilsev looked up. It was only for a moment, over the top of her file, at the thin girl on the boards; then she looked down again, and her hand moved to the foot of a leaf and wrote something small.
 
-"And the fourth," said Karis, and her little finger went down. "I asked. I asked the petitioner what evidence would defeat his petition, and a reading in the frame is evidence, and he told me there was none. He did not say, *let us see what the frame returns.* He is too honest a man to say so, and in thirteen sittings he never has. Nobody has. No officer, no clerk, no witness has stood in this room and told the seat that the frame will return a classification, because everybody here knows what it will return. It will return nothing. It was asked once before, at a district station, when he was fourteen, and it took eleven seconds to answer, and its answer is the word on his file."
+"And the fourth," said Karis, and her little finger went down. "I asked. I asked the petitioner what evidence would defeat his petition, and a reading in the frame is evidence, and he told me there was none. He did not say, *let us see what the frame returns.* He is too honest a man to say so, and in thirteen sittings he never has. Nobody has. No officer, no clerk, no witness has stood in this room and told the seat that the frame will return a classification. It was asked once before, at a district station, when he was fourteen, and it took eleven seconds to answer, and its answer is the word on his file."
 
 She lowered her hand.
 
@@ -116,11 +116,11 @@ Cael sat very still behind Withrow's chair. He knew what the eleven seconds had 
 
 ---
 
-"So this is the remedy," said Karis. "Stand a man on a scale that every officer present knows cannot weigh him. Write down that the scale returned nothing. And then apply to him the chapter of the code that opens by supposing an evaluation under the standard protocol which *returns no valid classification.*" She gave the four words their full length. "I have read the fourteenth chapter a great many times this year. It is a careful piece of drafting. It was written for the case in which the registry tried, in good faith, to find out what a person was, and could not, and it gives the registry something to do in that case, so that the person is not left in no column at all. It is harsh, and I think it was meant as a kindness."
+"So this is the remedy," said Karis. "Stand a man on that scale, write down that it returned nothing, and then apply to him the chapter of the code that opens by supposing an evaluation under the standard protocol which *returns no valid classification.*" She gave the four words their full length. "I have read the fourteenth chapter a great many times this year. It is a careful piece of drafting. It was written for the case in which the registry tried, in good faith, to find out what a person was, and could not, and it gives the registry something to do in that case, so that the person is not left in no column at all. It is harsh, and I think it was meant as a kindness."
 
 Withrow's collar did not move.
 
-"It was not written to be reached on purpose. No drafter writes a remedy for *where the registry has made sure of failing*. And that is what is asked. The seat is asked to order a test in order to obtain a failure, so that the failure may open the chapter."
+"It was not written to be reached on purpose. The seat is asked to order a test in order to obtain a failure, so that the failure may open the chapter."
 
 She stopped, and breathed. He saw her shoulders go down a little, and knew she had come to one of the marked places and was spending her minute there.
 
@@ -202,11 +202,11 @@ The clerk read the entry as he had read the others, in the code's own old words,
 
 Four pens stopped.
 
-It was a small thing to see, and he did not think the benches saw it. The four district evaluators had been writing in a row, and at that line they stopped, one after another, like men on a road who see the one ahead halt. They were working officers. Every one of them had stood practitioners in frames for years, under a protocol that carried the Archmarshal's certificate as a matter of course, as a loaf carries a baker's mark; that office had been the protocol's evaluator of record since before any of them was born. It had been asked twice for its name and had not given it, and the form had no line for why.
+It was a small thing to see, and he did not think the benches saw it. The four district evaluators had been writing in a row, and at that line they stopped, one after another, like men on a road who see the one ahead halt. They were working officers. Every one of them had stood practitioners in frames for years, under a protocol that carried the Archmarshal's certificate as a matter of course, as a loaf carries a baker's mark; the certifying office had put its name to that protocol since before any of them was born. It had been asked twice for its name and had not given it, and the form had no line for why.
 
 The evaluator nearest the records table looked at Ilsev. Ilsev did not look at him. She was looking at the clerk, with her file shut on her knee, and her face told Cael nothing whatever.
 
-On the fourth bench Gault had not moved. He was the house's own evaluator of record, the only man in that room who was called so every day, and he had declined nothing in his life. He sat with his case straight on his knees and his eyes on the pasted form, and then he took out his small book and wrote a line in it.
+On the fourth bench Gault had not moved. He was the evaluator of record, the only man in that room who was called so every day, and he had declined nothing in his life. He sat with his case straight on his knees and his eyes on the pasted form, and then he took out his small book and wrote a line in it.
 
 "So entered," said the hood, and the pens began again.
 

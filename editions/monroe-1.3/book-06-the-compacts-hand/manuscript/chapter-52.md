@@ -10,7 +10,7 @@ Karis had the table's end. Lira sat on the bench with her back to the wall and o
 
 So the case would leave the room tonight on Seln, and nobody remarked on it.
 
-"The ruling," said Karis. "Everybody heard it, and I've the engrossment by heart, so I'll give it once and short. Lawful. Compliant. Revoked from the year's close. A frame within five weeks, on a date they'll send, and the fourteenth chapter on whatever the frame says." She laid her pale fingers on the three slips. "That leaves three roads, and I've written one on each. I haven't put them in order of anything, because I didn't want to cheat."
+"The ruling," said Karis. "Everybody heard it, and I've the engrossment by heart, so I'll give it once and short. Lawful. Compliant. Revoked from the year's close. A frame within five weeks, on a date they'll send, and the fourteenth chapter when the frame returns nothing." She laid her pale fingers on the three slips. "That leaves three roads, and I've written one on each. I haven't put them in order of anything, because I didn't want to cheat."
 
 She turned them face up, one at a time, and they said *Frame*, and *Fight*, and *Leave*.
 
@@ -32,7 +32,7 @@ Brom leaned forward in the good chair with his forearms on his knees.
 
 He had done it on a north road two days ago, by a horse trough, and he gave it to them as he had found it there.
 
-"I stand in it. Within five weeks, at the district seat, with Ilsev seeing to the conduct of it, and she'll see to it properly. I put my hand where I'm shown. It was asked once before, and it took eleven seconds." He did not look at Seln, and he went no nearer to it than that. "We know what it says. Karis told a seat so for fifty-one minutes and nobody contradicted her: *no valid classification.* Then the chapter opens, in its order. One: every enrollment or standing that rests on my being a practitioner is void, and that's this hill. Two: I'm suspended as a practitioner pending a review, and the review is to be begun by the registry at its discretion."
+"I stand in it. Within five weeks, at the district station, with Ilsev seeing to the conduct of it, and she'll see to it properly. I put my hand where I'm shown. It was asked once before, and it took eleven seconds." He did not look at Seln, and he went no nearer to it than that. "We know what it says. Karis told a seat so for fifty-one minutes and nobody contradicted her: *no valid classification.* Then the chapter opens, in its order. One: every enrollment or standing that rests on my being a practitioner is void, and that's this hill. Two: I'm suspended as a practitioner pending a review, and the review is to be begun by the registry at its discretion."
 
 "With no date," said Karis.
 
@@ -304,7 +304,7 @@ And below, after a space:
 
 Nobody moved.
 
-"I've been glad for three years that you came up our road," said Ephram. "I said some hard things on a tier in your first months here, and I've been glad every day since that I was wrong. I'd like to find out whether I'm still glad when you stop being careful with me. I think I will be. I'd like to know."
+"I told you at the trial that whatever you are, I was glad it was on my side of the floor," said Ephram. "I said some hard things on a tier in your first months here, and I've been glad every day since that I was wrong. I'd like to find out whether I'm still glad when you stop being careful with me. I think I will be. I'd like to know."
 
 Cael looked at the two pencilled lines.
 

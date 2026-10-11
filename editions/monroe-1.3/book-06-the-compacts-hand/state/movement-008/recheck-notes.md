@@ -1,0 +1,12 @@
+Additional scope for this recheck (coordinator):
+- **Baselines.** pre-repair/ holds the author's FIRST draft. pre-repair-author/ holds the text after the coordinator applied the plan audit's nine exact fixes (state/movement-008/plan-audit.md, "Exact line fixes") and before the author's r1. Diff against pre-repair-author/ to see the author's r1 changes.
+- **PROTECTED TEXT.** Check that these are now verbatim against BOOK_MAP §8 Tier B and the protected source wording, and that the author's r1 did not alter them:
+  - the ruling paragraph (ch51);
+  - Ephram's "Still glad." speech (ch54);
+  - the ninth's Log entry, *Nine. Taken in earnest from a friend…* (ch54);
+  - the boards-ritual line (ch54).
+- **Leftovers.** Check that nothing in ch51–54 still assumes the removed versions: five numbered heads, "the second head", the loser chalking, a blank rule above Ephram's name, two books, five drill days for Lira.
+- **Naming.** "The certifying office" is the Archmarshal's office in ch49–50. Unqualified "evaluator of record" means Gault. The protected certification line is verbatim.
+- **Source distance.** The two tracked passages, 49:83 and 54:154, should be RESOLVED against books/book-06-the-compacts-hand/chapters/chapter-18.md and chapter-20.md. Check for new tracking in the r1 changes.
+- **ch52.** The three small edits ("station"; Ephram's line pointing at his Book 5 trial line, "glad it was on my side of the floor") must agree with Book 5's text (editions/monroe-1.3/book-05-the-silver-standard/manuscript).
+- **M9 inheritance.** Confirm the M9 inheritance list in plan-audit.md still matches the page after r1: dates, bodies, fragment inventory, who knows what, the envelope, the boxes.

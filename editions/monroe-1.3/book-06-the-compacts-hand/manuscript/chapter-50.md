@@ -120,7 +120,7 @@ Karis filed her last paper that afternoon, and he went with her to carry the wal
 
 It was three leaves. She had written it at the parlour's long table in the morning, in pencil first, from habit, and then in ink, and the counsel had read it standing and signed the foot without altering a word.
 
-"It's upon the entry they read out," said Karis, as they crossed the lane. "The certificate. The code lets a seat go on by its own authority where the certificate's withheld; I looked at the section the night we got home. So I went back through the digests to see how often a seat ever had." She held up four fingers. "Four times. I've set them out, with their years. A guild hall's frame, where the assessor wouldn't sign. Two station frames in the hill districts. A plate. Four times in the whole record a seat has proceeded without that office's name, and every time it was upon a thing. Never once upon a person."
+"It's upon the entry they read out," said Karis, as they crossed the lane. "The certificate. The code lets a seat go on by its own authority where the certificate's withheld; I looked at the section the night we got home. So I went back through the digests to see how often a seat ever had." She held up four fingers. "Four times. I've set them out, with their years. A guild hall's frame, where the assessor wouldn't sign. Two station frames in the hill districts. A plate. Four times in the whole record a seat has proceeded without the certifying office's name, and every time it was upon a thing. Never once upon a person."
 
 "It won't—"
 
@@ -190,13 +190,11 @@ In the doorway the officer stood and watched them. He was pleased. Anybody could
 
 Cael would have staked the notebook on that man. He would have staked Hesk's book. There was not a lie anywhere in him.
 
-*It isn't broken*, he had said in a reading room. He had said it of a case of paper. He had not yet seen it on a north road in the middle of an ordinary morning, with a mother's hand going up to check a pin.
-
 They went away toward the town, the two of them, the girl holding the slip and reading it over as she walked. They passed within six feet of him. She had a scatter of freckles and one front tooth a little crooked, and she did not see him at all.
 
 He stood at the trough until they were out of sight.
 
-He had been arguing about himself for a year. He saw that now. It had been his enrollment and his file, the nine days of his renewal, his frame. Every leaf of a hundred and eighty had his name at its head. And the whole while, on every north road in the Compact, on every morning the stations opened, this had been going on behind a door that a decent man held for you.
+He had been arguing about himself for a year: his enrollment and his file, the nine days of his renewal, his frame. And the whole while, on every north road in the Compact, on every morning the stations opened, this had been going on.
 
 The seat would rule in two days. He had thought of the ruling, all year, as the thing that would decide. It would decide what the registry did. He understood, with the sun on the back of his neck, that it would leave him with a decision of his own all the same, and that it was not the one he had been preparing for. It had nothing to do with whether he could win. It was whether he would stand in a frame, knowing what was appended to it, and let it enter him as advised.
 
