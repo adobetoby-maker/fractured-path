@@ -104,7 +104,7 @@ By the third time round his ears had come forward.
 
 "That's as near as he'll get. I'd not take it from him."
 
-They settled the price on an upturned bucket, Brom and the ferryman, and it took a good while, because Brom had counted the old mule's stops. There had been eleven in a single crossing, the day before, and he knew how many carts had stood waiting on the far bank through each one, and he set that sum against the gelding's teeth and went on setting it there, patiently, until the ferryman stopped talking about teeth. Cael did not hear the figure, though he heard what went with it, for that had been his own notion: dry room for three boxes in the loft above the drum, where the ferryman's boy slept, for as long as the horse walked underneath.
+They settled the price on an upturned bucket, Brom and the ferryman, and it took a good while, because Brom had counted the old mule's stops. There had been eleven in a single crossing, the day before, and he knew how many carts had stood waiting on the far bank through each one. He set that sum against the gelding's teeth and went on setting it there, patiently, until the ferryman stopped talking about teeth. Cael did not hear the figure, though he heard what went with it, for that had been his own notion: dry room for three boxes in the loft above the drum, where the ferryman's boy slept, for as long as the horse walked underneath.
 
 "And the mule?" said Brom, when they had shaken on it.
 
@@ -210,7 +210,7 @@ It was a job that Cael had done before, at a higher price and for worse people.
 
 He thought about it through the first two crossings, with his hand on a rail that had been worn pale by other hands. For fourteen sittings he had climbed four steps in Ostrand to stand on a number carved in a wool exchange's floor, and he had stood there to be looked at. A seat had looked, under a hood, and a procurator, and two hundred people on benches, and every one of them had been deciding what he was while he stood. It had cost a house its year, and a registrar thirteen sleepless nights, and four people their enrollments.
 
-Here he was worth two marks among five, and a river was looking at him. There were alders on the far bank, and a heron, and upstream, a long way off, something that might have been a boat drawn up under a bank. Whoever was in it would see five heads on a rail and count them, and that was all they would ever want from him; nobody on that water cared what the heads had in them.
+Here he was worth two marks among five, and what looked at him was a river. There were alders on the far bank, and a heron, and upstream, a long way off, something that might have been a boat drawn up under a bank. Whoever was in it would see five heads on a rail and count them, and that was all they would ever want from him; nobody on that water cared what the heads had in them.
 
 "You're smiling," said Karis. She was amidships, with her notebook, timing the crossing by Hesk's clock.
 
@@ -276,7 +276,7 @@ Pike looked at him, and looked again.
 
 "Well, it spends the same," he said. "That's the pity of it." But he went on watching Brom's back for a little while as they walked away down the meadow.
 
-The woman with the dough had gone back to her pan. She had heard it, though, and so had the man with the harness across his knees, and the three children; and by dark, Cael supposed, the whole meadow would know that five strangers had stood on a boat all day and lost nothing. It was not much to be known for. It was also the first thing that anybody east of a line knew about them at all, and it happened to be true.
+The woman with the dough had gone back to her pan. She had heard it, though, and so had the man with the harness across his knees, and the three children; and by dark, Cael supposed, the whole meadow would know that five strangers had stood on a boat all day and lost nothing. It was not much to be known for; but it was the first thing that anybody east of a line knew about them at all, and it happened to be true.
 
 It bought flour, and salt, and a piece of bacon no bigger than a hand, and Brom told them that it would have kept the gelding for one day and the half of another. Karis wrote the line into the field archive as she had heard it said, and drew her second rule under two of its words.
 

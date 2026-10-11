@@ -46,7 +46,7 @@ The carter turned his head and considered Lira for some time. He did not seem of
 
 He said no more, and the fire talked for a while by itself.
 
-Cael did what he always did. The claim was a mile of road that carters crossed only at one hour of the day. Under it stood two carts that had not come home, and a price that the whole meadow thought too small, and a word, *quiet*, that everybody out here used for a thing done and also for a thing that happened to a cart. He had no notion what walked on that stretch. But a man who had kept the road for twenty-two years had just said what he wanted for it, and it was the one thing they had spent a month learning to do.
+Cael did what he always did, and began with the claim, which was a mile of road that carters crossed only at one hour of the day. Under it stood two carts that had not come home, and a price that the whole meadow thought too small, and a word, *quiet*, that everybody out here used for a thing done and also for a thing that happened to a cart. He had no notion what walked on that stretch; but a man who had kept the road for twenty-two years had just said what he wanted for it, and it was the one thing they had spent a month learning to do.
 
 "Hands," he said, low.
 
@@ -92,9 +92,9 @@ The mule took to Brom at the first halt. It walked the length of its tether to r
 
 "They do, with me." Brom stood quite still under it. "I've never known why. I think it's that I'm the same height as a post."
 
-Cael watched the carter at that halt, and at the next, and learned more from his hands than he had from his mouth. The man carried a lump of mutton fat in a rag, and he worked it into both axles every time the cart stood, though neither had begun to complain. His trace chains were bound in strips of old sacking from end to end, so that they could not ring. He had cut the iron heel-plates off his own boots, a long time ago by the look of the leather, and when the mule threw up its head at a bird he laid two fingers on its nose before it could think of making a remark. He had been asked what was on his road, and had declined to say. But everything he owned had been taught not to make a sound, and Cael supposed that was an answer too.
+Cael watched the carter at that halt, and at the next, and learned more from his hands than he had from his mouth. The man carried a lump of mutton fat in a rag, and he worked it into both axles every time the cart stood, though neither had begun to complain. His trace chains were bound in strips of old sacking from end to end, so that they could not ring. He had cut the iron heel-plates off his own boots, a long time ago by the look of the leather, and when the mule threw up its head at a bird he laid two fingers on its nose before it could think of making a remark. He had been asked what was on his road, and had declined to say; but everything he owned had been taught not to make a sound, and Cael supposed that was an answer too.
 
-They camped cold, in a hollow, a good way back from a stream. Lira and Seln took the first watch and Brom and Karis the second, and it was Cael's night to be the fifth, which he spent lying on his back, hearing every sound the scrub made and failing to sleep through any of them.
+They camped cold, in a hollow, a good way back from a stream. Lira and Seln took the first watch and Brom and Karis the second. It was Cael's night to be the fifth, which he spent lying on his back, hearing every sound the scrub made and failing to sleep through any of them.
 
 The second day went well until two hours after noon.
 
@@ -198,7 +198,7 @@ Ten strides later a stone turned under her heel. It was nothing, a loose cobble 
 
 He looked back once, across his shoulder, because he could not help it.
 
-Karis was at the mule's off shoulder with her face as white as her fingers. Her right hand had gone to the breast of her coat, where the notebook was. It stopped there. It came down. He saw it go up again within ten strides, and stop on the same button, and come down; she was a person watching the one thing in a month that she most wanted to write, at the one moment when taking out a pencil might be a thing this country heard. He counted, since counting was what he had. She decided against it five times in that mile.
+Karis was at the mule's off shoulder with her face as white as her fingers. Her right hand had gone to the breast of her coat, where the notebook was. It stopped there. It came down. He saw it go up again within ten strides, and stop on the same button, and come down; she was a person watching the one thing in a month that she most wanted to write, at the one moment when taking out a pencil might, for all she knew, be a declaration too. He counted, since counting was what he had. She decided against it five times in that mile.
 
 Behind her the carter walked with his palm spread over the mule's nostrils, and the mule's ears lay back along its neck.
 
@@ -220,11 +220,11 @@ He had done this for two years so that a house on a bluff might keep its charter
 
 He had it down to counting by the last quarter mile, and what he counted was the thing on the rise.
 
-That was the method. He had used it on fighters for two years, from the east tier of a yard, and he had never once tried it on an animal; but he could find no reason why it should not hold. One wrote down what could be counted. One gave a name to nothing else.
+That was the method. He had used it on fighters for two years, from the east tier of a yard, and he had never once tried it on an animal; but he could find no reason why it should not hold. One wrote down what could be counted, and gave a name to nothing else.
 
-So, first: it kept its station. He checked that three times. The ruts bent a little to the right, toward the swell, and the grey shape gave ground, drifting up the slope until there were forty-five yards between them again. The ruts bent left, and it came down. Whatever it wanted, it wanted it from exactly that far away, like a watcher who has been told his distance.
+So, first: it kept its station, and he checked that three times. The ruts bent a little to the right, toward the swell, and the grey shape gave ground, drifting up the slope until there were forty-five yards between them again. The ruts bent left, and it came down. Whatever it wanted, it wanted it from exactly that far away, like a watcher who has been told his distance.
 
-Second: it made no sound. He had known that from the grass. Now he saw the other half of it, which was that the frogs went dumb a little way in front of it and took up again a little way behind, so that it walked the whole time inside the hole that Lira had heard. He did not know how frogs had learned to do that. He thought it would take a long time.
+Second: it made no sound. He had known that from the grass. Now he saw the other half of it, which was that the frogs went dumb a little way in front of it and took up again a little way behind, so that it walked the whole time inside the hole that Lira had heard. He did not know how frogs had learned to do that, and he thought that it would take a long time.
 
 The third thing he nearly missed. Its head was not turned toward the people. All the way up the valley it had been turned a little behind him, toward the cart, and when he looked for the reason he heard it: the buckle. It was the one thing in the whole party that kept time. He lifted his left hand and closed the fist, twice, where Brom would see.
 
@@ -232,7 +232,7 @@ There was a pause of four strides. Then the clicking stopped, for a large hand h
 
 The grey head swung. It went slowly to one side and then to the other, low, casting, as a dog casts that has lost a line. Brom let go. The buckle clicked, and the head came round and settled on it again.
 
-*It tracked the buckle.* That was worth having, though not for itself. The buckle moved at forty-five yards and the grey head moved with it. A wired wheel, ten feet walking, and a carter breathing through his teeth had drawn no answer Cael could see. The observation told him neither what sense had found the buckle nor what the thing was waiting for.
+*It tracked the buckle.* That was worth having, and it was all that he had. At forty-five yards the grey head had moved when the buckle moved, and had lost it when the buckle stopped; a wired wheel, and ten feet walking, and a carter breathing through his teeth had drawn no answer that Cael could see. He could not say what sense had found the buckle, and the finding told him nothing of what the thing was waiting for.
 
 The fourth thing was the gravel.
 
@@ -252,7 +252,7 @@ The fence stood up out of the grass all at once, as the carter had said it would
 
 He looked to the right. The grey shape had stopped.
 
-It had not sat, or turned. It stood in the thin grass with its head level, beside a white stone, and it came no farther. Cael fixed the stone. Then he counted his own strides from abreast of it to the gate, as Karis would have counted, with his lips shut.
+It had not sat, or turned. It stood in the thin grass with its head level, beside a white stone, and it came no farther. Cael fixed the stone. Then he lengthened his stride to the yard, as he had learned to do on sixty feet of oak, and counted from abreast of it to the gate, as Karis would have counted, with his lips shut.
 
 A hundred and ten.
 

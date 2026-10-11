@@ -2,7 +2,7 @@
 
 The woman who held the lantern kept it low, at her knee, where it would light the ground and not her own eyes.
 
-Cael noticed that before he noticed her. She was a broad grey-braided woman of fifty or sixty with her sleeves rolled to the elbow, and she stood in the gap of her gate and counted them through it as a farmer counts sheep at a hurdle: the dark coat first, then the two of them abreast, and the mule, and the cart, and last a very large young man with a hedging bill. She moved her lips for each. When the tailboard was inside she put her shoulder to the gate and shut it, and dropped a bar as thick as his arm.
+Cael noticed that before he noticed her. She was a broad grey-braided woman of fifty or sixty with her sleeves rolled to the elbow. She stood in the gap of her gate and counted them through it as a farmer counts sheep at a hurdle: the dark coat first, then the two of them abreast, and the mule, and the cart, and last a very large young man with a hedging bill. She moved her lips for each. When the tailboard was inside she put her shoulder to the gate and shut it, and dropped a bar as thick as his arm.
 
 Then she let out her breath, and so did everybody else.
 
@@ -66,13 +66,13 @@ By daylight it was a hold like any other, he supposed, though it was the first h
 
 The fence closed off the whole head of the valley and ran on round, up one shoulder and down the other, a quarter of a mile about. Within it stood a long house, and the barn with the loft over it, and a yard for carts, and a well with a sweep; there were a dozen people or so, of every age, and a line of geese that hissed at all of them alike. The grain was the point of the place. It came up from the river country in sacks, on one man's cart, and it sat under that roof until other carts came down from holds farther east to fetch it, and the woman with the grey braid stood between the two and saw that nobody was cheated in either direction.
 
-She ran it as Bracken had run a counter. Cael saw that within an hour, and it warmed him to her more than any welcome could have done. She had a tally of the sacks on a board by the barn door, in strokes, and when Brom took the first one up the ladder she drew her charcoal through a stroke without being asked.
+She ran it as Bracken had run a counter, which Cael saw within an hour, and it warmed him to her more than any welcome could have done. She had a tally of the sacks on a board by the barn door, in strokes, and when Brom took the first one up the ladder she drew her charcoal through a stroke without being asked.
 
 There were forty-one sacks, and each weighed about as much as Lira.
 
 Brom took them up one at a time, on his right shoulder, with his left hand for the ladder. It was the tree on the gravel bar over again, with a twelve-foot drop under it and a floor of flagstones, and Cael, who was drawing water at the well, watched every trip from the side of his eye. On the seventeenth, a rung went. It cracked through under the leading boot with a sound like the wheel had made, and the whole of Brom's weight and a sack of barley came down eighteen inches onto the rung beneath.
 
-He did not drop this load, for Lira was standing under him with the next one. Cael had his own breath stopped, and Anchor had already found the ladder's rail and asked whether it should be held.
+He did not drop this load, for Lira was standing under him with the next one. Cael had his own breath stopped, and Anchor had already found the ladder's rail and asked whether it should be held. It had held a doorway once, for twelve seconds, without waiting for his leave, and he answered it quickly.
 
 *Rail. Leave it.*
 
@@ -106,7 +106,7 @@ She gave him a long look, the same that she had given him over a lantern, and we
 
 Karis spent that day and the next with one leaf.
 
-She had made a table of it in her exact hand. At the head stood the word, underlined once, and under the word his five counts in the order he had given them: *keeps station at forty-five yards; makes no sound; follows the buckle with its head; will not cross the gravel fan; answers nothing, having been given nothing.* Beneath those stood the figure, *110*, and after it, in smaller writing, *of C.'s strides, gate to stone.* She had gone out to the well in the heat of noon and paced a hundred and ten of her own along the inside of the fence, which came to a good deal less, so as to know in her legs how far it was.
+She had made a table of it in her exact hand. At the head stood the word, underlined once, and under the word his five counts in the order he had given them: *keeps station at forty-five yards; makes no sound; follows the buckle with its head; will not cross the gravel fan; answers nothing, having been given nothing.* Beneath those stood the figure, *110 yards*, and after it, in smaller writing, *gate to stone; C.'s count, paced at a yard to the stride; not taped.* She had gone out in the heat of noon and walked the same hundred and ten yards along the inside of the fence, in her own shorter steps, so as to know in her legs how far it was.
 
 "It stops short," she said. She was sitting on the top box with the leaf on her knee. "Short of what? I can think of four answers, and I've no way of choosing among them. It may stop short of the fence, or of the people behind the fence. It may be that something lies under the ground at that distance and nowhere else. Or a hundred and ten is simply as near as it ever comes to anything, and the stone is an accident."
 
@@ -120,17 +120,17 @@ Seln went out by the gate at noon on the forty-fifth day, when the sun stood str
 
 He had waited for the hour, and he went without his Path, as he had gone everywhere since a crossroads fire; Shadow was a declaration like any other, and he had told four people to make none. Nobody had given him the reason for the hour, and he had not sought it; but a carter of twenty-two years kept that rule, and so did a hold that had stood behind this fence for longer, and he had not lived to his age by supposing himself wiser than the people of a place. The man on the platform watched him lift the bar. He did not call down. Seln had the feeling of being entered in a column, correctly, by somebody who would not trouble him about it afterward.
 
-He walked to the white stone. It was a hundred and four of his paces; the boy's stride was a little shorter than his own.
+He walked to the white stone. The boy had made it a hundred and ten yards from the gate, at a yard to the stride, and Seln's own longer pace brought him there in a hundred and four, which was the same distance to within a yard or two.
 
 The ground beside it was soft, and it had kept everything.
 
-There were four prints, set square, where a thing had stood. Each was as broad as his palm and deeper at the toe than at the heel, and that depth told him how long. A creature that stands a moment leaves a mark like a seal in wax. One that stands until its weight has settled forward leaves a mark like these, and he judged that it had been there from the time a gate opened until the time an arrow went back into its case.
+There were four prints, set square, where a thing had stood. Each was as broad as his palm and deeper at the toe than at the heel, and that depth told him how long. A creature that stands a moment leaves a mark like a seal in wax, and one that stands until its weight has settled forward leaves a mark like these; he judged that it had been there from the time a gate opened until the time an arrow went back into its case.
 
-It had not circled or lain down. He could find no place where it had shifted its feet. When it went, it had turned in its own length, and gone back down the valley on the line it had come by, at a walk; he followed that line for two hundred yards with the grass over his head, and the prints lay as evenly as stitches. He cut across to the ruts at three places and paced the gap. It was forty-five yards at each, as nearly as his legs could tell him.
+It had not circled or lain down, and he could find no place where it had shifted its feet. When it went, it had turned in its own length, and gone back down the valley on the line it had come by, at a walk; he followed that line for two hundred yards with the grass over his head, and the prints lay as evenly as stitches. He cut across to the ruts at three places and paced the gap. It was forty-five yards at each, as nearly as his legs could tell him.
 
 He stood in the grass for some time with that.
 
-He knew what he was looking at, and it was not anything that he knew about animals, of which he knew very little. It was his own trade. A man set to follow another is given his distance. He is told to keep it, and neither close nor fall back; and it is chosen so that the ordinary noise of the person in front will cover him, and so that one particular thing, if it should happen, will reach him across the gap. He does not act until it does. He may walk behind a subject for a year and never be given leave.
+He knew what he was looking at, and it was not anything that he knew about animals, of which he knew very little. It was his own trade. A man set to follow another is given his distance. He is told to keep it, and neither close nor fall back; and it is chosen so that the ordinary noise of the person in front will cover him, and so that one particular thing, if it should happen, will reach him across the gap. He does not act until it does, and he may walk behind a subject for a year and never be given leave.
 
 Seln had stood at that distance outside a great many doors. He had stood there for two years below a bluff, in effect, with a clerk's pen in his hand.
 
@@ -140,9 +140,9 @@ That was the form, and it had made itself without his leave, as it did. He read 
 
 There were three ways out of Thornwater. He had known that from the loft door on the first morning, and he had taken them one at a time, at this hour only.
 
-The first was the road they had come by. The second went north from a wicket in the fence, up to grazing, and ended at a stone hut with nobody in it. The third left by a gate on the eastern side and went on up the valley, over a low place in the hills. He had walked two hours along that one, yesterday, with the sun on his head. It was a road like the others. It had ruts, and the ruts had been used, though not lately, and nobody had told him that it was different from the rest and nobody had told him that it was the same. He turned back at the two hours because he had promised himself that he would be within a fence, any fence, well before the light began to go.
+The first was the road they had come by, and the second went north from a wicket in the fence, up to grazing, and ended at a stone hut with nobody in it. The third left by a gate on the eastern side and went on up the valley, over a low place in the hills. He had walked two hours along that one, yesterday, with the sun on his head. It was a road like the others, with ruts that had been used, though not lately; and nobody had told him that it was different from the rest, and nobody had told him that it was the same. He turned back at the two hours because he had promised himself that he would be within a fence, any fence, well before the light began to go.
 
-He had now eight roads in his head, and the manner of an animal's waiting. It was the fullest return he had ever composed.
+He had now the first hours of eight roads in his head, five out of Lowmarch and three out of this fence, and the manner of an animal's waiting. It was the fullest return he had ever composed.
 
 He considered, walking back up the ruts to the gate, whether any part of it bore upon the day in hand. That was the rule he had made for himself, and he applied it with care, since he distrusted rules that he found convenient. They were inside a fence. They would go down this valley again behind a cart, at noon, with the sun over them. On that day there was nothing in his eight roads that five people needed in order to put one foot before the other, and so he would keep it, as he had kept the rest.
 
@@ -158,7 +158,7 @@ Seln found that he liked him very much, and went in to carry sacks.
 
 The carter was back on the fourth day, an hour past noon, with the mule in a lather.
 
-He had gone out at noon on the first full day of their stay, with the witnessed slip in his hat and nothing in the cart, sitting on the tailboard as he had not once sat while the grain was on it; and an empty cart behind a rested mule, it seemed, could do in one day what a loaded one did in two. He had brought salt up with him, and a keg of nails, and a bolt of blue cloth that three women came out of the house to look at.
+He had gone out at noon on the first full day of their stay, with the witnessed slip in his hat and nothing in the cart, sitting on the tailboard as he had not once sat while the grain was on it. An empty cart behind a rested mule, it seemed, could do in one day what a loaded one did in two. He had brought salt up with him, and a keg of nails, and a bolt of blue cloth that three women came out of the house to look at.
 
 He had also brought a scrap of bark. He took it out of his hat and held it out to Cael between two fingers, as though he were not sure that he ought to be touching it.
 
@@ -214,7 +214,7 @@ He went to see to his mule.
 
 Cael wrote in the loft door that evening, with his legs hanging over the yard and the last of the sun on the page.
 
-He had not written much at Thornwater. The first night he had not trusted his hand, and since then he had drawn water, and carried what Brom could not, and helped Karis to pace out a number along a fence. He was eighteen, and for three days he had been a hired man on a grain hold, and it had suited him better than he would have guessed. But there was a scrap of bark in the pocket of Hesk's book now, where two letters had lain, and it seemed to him that the book ought to know.
+He had not written much at Thornwater, for the first night he had not trusted his hand, and since then he had drawn water, and carried what Brom could not, and helped Karis to pace out a number along a fence. He was eighteen, and for three days he had been a hired man on a grain hold, and it had suited him better than he would have guessed. But there was a scrap of bark in the pocket of Hesk's book now, where two letters had lain, and it seemed to him that the book ought to know.
 
 *Forty-sixth day past the Line. Thornwater: a grain hold at the head of a valley, two days east of the board. Fourth line, in Pike's hand, copied and brought up by the carter. Nine marks, in his box. Earned, eighteen. In hand tonight, a few coppers and a map.*
 
@@ -224,9 +224,9 @@ He had not written much at Thornwater. The first night he had not trusted his ha
 
 He stopped there and looked out over the fence.
 
-The carter had said it as he might have said that the hay was in. *That's the season open.* He had meant the roads, and the weather on them, and a board in a meadow with slips enough on it for every crew that could walk. He could not have known what the word had been to the person he said it to.
+The carter had said it as he might have said that the hay was in. *That's the season open.* He had meant the roads, and the weather on them, and a board in a meadow with slips enough on it for every crew that could walk; and he could not have known what the word had been to the person he said it to.
 
-Cael had lived by seasons since he was fourteen, and he had not owned one of them. The first had been the registry's, a round of assessments in a district office, and he had been carried through it like a parcel that nobody could find the right shelf for. After that it had been a circuit's, and a tournament's, with a bracket drawn by other people. Then it was a house's, an academic year, with a bell in it; and the last had been a seat's, under a hood, fourteen sittings long. Each of them had opened on a day that somebody else appointed. Each had closed with a paper.
+Cael had lived by seasons since he was fourteen, and he had not owned one of them. The first had been the registry's, a round of assessments in a district office, and he had been carried through it like a parcel that nobody could find the right shelf for. After that it had been a circuit's, and a tournament's, with a bracket drawn by other people. Then it was a house's, an academic year, with a bell in it; and the last had been a seat's, under a hood, fourteen sittings long. Each of them had opened on a day that somebody else appointed, and each had closed with a paper.
 
 This one had opened because the mud had dried.
 

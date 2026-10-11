@@ -78,27 +78,27 @@ Down the gravel Lira had turned and set her feet.
 
 He had told three people what it cost them, and he thought he owed the book the same account of himself.
 
-He wrote it on the eighteenth day, at noon, on the bank above the bar, while Brom carried his tree and Lira ran. It took him the better part of an hour. He had written the nine out often enough, on a hill, as a list of what each could do. He had never set them down as what each one charged him to be carried and left alone.
+He wrote it on the eighteenth day, at noon, on the bank above the bar, while Brom carried his tree and Lira ran, and it took him the better part of an hour. On the hill he had only ever listed what each of the nine could do.
 
-*Eighteenth day. The nine, as things held. Not what they do. What it costs to have each one and not use it, which I'm calling rent.*
+*Eighteenth day. The nine, as things held. Not what each can do: what it charges me to carry it and leave it alone, which I'm calling rent.*
 
-*Wind, from Lira. It wants the first stride of anything. My feet lean before I've decided, a dozen times a day, and I put them back. If I ever spend a burst, the landing locks for one count, and that count has never got shorter. Rent: small, and constant.*
+*Wind, from Lira. It wants the first stride of anything, and my feet lean a dozen times a day before I've decided. If I ever spend a burst, the landing locks for one count, and that count has never got shorter.*
 
-*Pressure, from the Bronze from Ardenmere. It gathers over most of a breath and anybody can see it gathering. The easiest to refuse, because it is the slowest to arrive. It tried at the tree on the river.*
+*Pressure, from the Bronze from Ardenmere. It gathers over most of a breath, where anybody can see it gathering, and so it is the easiest to refuse.*
 
-*Iron, from Brom: the read. A pace and a half round me, the mass of a thing and which way it is going, never what it means to do. It is the cheapest and quietest thing I own, and the hardest to leave shut, because it doesn't feel like doing anything. It feels like looking. I hold it anyway. I don't know what looking sounds like out here.*
+*Iron, from Brom: the read. A pace and a half round me, the mass of a thing and which way it is going, never what it means to do. The cheapest and quietest thing I own, and the hardest to leave shut, because it feels like looking. I don't know what looking sounds like out here.*
 
-*Compression, from Reydan. Only at contact; the load goes through me into the ground and the bill comes later. Nothing to hold until something hits me.*
+*Compression, from Reydan. Only at contact; the load goes through me into the ground and the bill comes later. It charges nothing until something hits me.*
 
-*Ember, from Karis. One point, one channel. It wants to set a point on anything I look at for long. Karis lasted ninety today and I'd not have done better.*
+*Ember, from Karis. One point, one channel, and it would set that point on anything I look at for long.*
 
-*Shadow. Source protected; sealed, as it was on the hill, and for the hill's reason, which was who might carry the seeing west. It costs from the moment I wake and it drifts at dusk. It got as far as my boots on the fifth day. There are two reasons on it now where there was one: the seal, and whatever it is a road hears.*
+*Shadow. Source protected, and sealed against anyone who might carry the seeing west. It costs from the moment I wake and it drifts at dusk; on the fifth day it got as far as my boots. Two reasons to keep it shut now, where there was one: the seal, and whatever it is a road hears.*
 
-*Storm, from Daeva. Gold weight, and the heaviest thing I carry, and idle it does nothing at all but sit. If I open it, the read is the air or my own body and the ground, never both, and a lane takes the air. Three lanes so far. After each, everything I have answered a beat late: for ten counts, and ten, and twelve, and came clean at eleven, eleven and thirteen. That is a bill, not a flag. I have not tried a fourth. Rent while idle: I tire sooner than the miles account for.*
+*Storm, from Daeva. Gold weight, the heaviest thing I carry, and idle it only sits, so that I tire sooner than the miles account for. If I open it, the read is the air or my own body and the ground, never both, and a lane takes the air. Three lanes so far: after each, everything I have answered a beat late, for ten counts, and ten, and twelve, and came clean at eleven, eleven and thirteen. That is a bill, not a flag. I have not tried a fourth.*
 
-*Anchor. Unnamed; the hand with no face. Fixed points, and lines between them, and a cage. I have unbound one thing on purpose, once, and I once held a doorway for twelve seconds without meaning to. It sees what is fixed: sure at ten feet, faint at twelve, nothing at fourteen. I don't know its reach, or its rate, or its price. Rent: ever since the Ostrand road it has asked about every sill and gate and doorway I've gone through, and a town with no wall has a great many doors.*
+*Anchor. Unnamed; the hand with no face. Fixed points, and lines between them, and a cage; and one unbinding, done once, on purpose. It sees what is fixed: sure at ten feet, faint at twelve, nothing at fourteen. I don't know its reach, or its rate, or its price. Ever since the Ostrand road it has asked about every sill and gate and doorway I've gone through, and a town with no wall has a great many doors.*
 
-*Blade, from Ephram. Partial still. It asks "Edge?" of anything with a corner on it, takes a name, and settles. It was right once, on a scree.*
+*Blade, from Ephram. Partial still. It asks "Edge?" of anything with a corner on it, takes a name, and settles.*
 
 *Nine. And one anomaly, not counted, that came from nobody. Still open. Still real. Patience.*
 
@@ -106,11 +106,11 @@ He wrote it on the eighteenth day, at noon, on the bank above the bar, while Bro
 
 He read it over, and he had not expected it to come to so much.
 
-"You've written *rent* seven times," said Lira.
+"That's a bill against every one of them," said Lira.
 
 She had come up the bank with her hair stuck to her forehead, and she was reading over his arm as she had read over it since Ardenmere. Brom had the same leave. Karis, who sat ten feet away with her stone, saw what he showed her and never once looked at the book.
 
-"Six. Compression doesn't charge, and Blade only asks."
+"Eight. Compression charges nothing until I'm hit."
 
 "It's a good deal of rent, for a man with no income."
 
@@ -252,7 +252,7 @@ He went up it in the grey, alone, at the pace he had once taught four young peop
 
 Nobody had sent him, and he was clear with himself about that, as he tried to be about most things. For fifteen years somebody had always sent him, and there had been a line on a sheet to say where, and a second line for the hour at which he was to be back. When he left the last of those houses he had expected that particular habit to be among the first to go.
 
-It had not gone. He walked, and at each turn of the track he did the three things that he had always done. He found the place where a man would stand who wished to watch the road without being seen from it. He found the place where the road was narrowest. He looked for water, and paced it from where a camp might lie.
+It had not gone. He walked, and at each turn of the track he did the three things that he had always done: he found the place where a man would stand who wished to watch the road without being seen from it, and the place where the road was narrowest, and he looked for water, and paced it from where a camp might lie.
 
 Then, since he could not help it, he wrote it up.
 
@@ -266,11 +266,11 @@ He had not known that he would find that restful. He stood in the notch himself 
 
 *Nothing further to report*, the form said, and came to its foot, and waited to be folded.
 
-That was the part he could not get used to. A return was a thing with a desk at the far end of it. He had made seven hundred of them, more or less, and at the end of each there had been somebody who asked for it, in a level voice, across a table; and he had given what could be checked and kept back all the rest, so evenly and for so long that it had been mistaken for a manner of writing. He had five roads in his head now, entire, down to the paces. They were better than anything he had ever sent in, for he had left nothing out of them.
+That was the part he could not get used to, for a return was a thing with a desk at the far end of it. He had made seven hundred of them, more or less, and at the end of each there had been somebody who asked for it, in a level voice, across a table; and he had given what could be checked and kept back all the rest, so evenly and for so long that it had been mistaken for a manner of writing. He had five roads in his head now, entire, down to the paces, and they were better than anything he had ever sent in, for he had left nothing out of them.
 
 And nobody had asked.
 
-He did not offer it. That was not sullenness; he had examined himself for it, with some care. He told them whatever bore on the day in hand. He had told them the gauge of the east road when a horse depended on it, and he had put five people where they ought to stand on a boat. The rest he kept, as he had always kept the rest, and he went about with it and waited for the level voice. *What did you see?* It would come at a fire, he supposed. The boy would say it, since the boy wrote everything down.
+He did not offer it. That was not sullenness; he had examined himself for it, with some care. He told them whatever bore on the day in hand: he had given them the gauge of the east road when a horse depended on it, and he had put five people where they ought to stand on a boat. The rest he kept, as he had always kept the rest, and he went about with it and waited for the level voice. *What did you see?* It would come at a fire, he supposed. The boy would say it, since the boy wrote everything down.
 
 The boy had not said it; on the first night in the meadow he had looked at the dust on a pair of boots, and then he had very deliberately looked somewhere else. Seln had been watched for most of his life and had watched for the remainder. He could not remember being left a thing to keep before, and he had not yet settled how such a courtesy ought to be entered.
 
@@ -302,7 +302,7 @@ The woman with the hides was on the western lip with her two mules. She had got 
 
 They made a chain of it and had the bales out in half an hour, and while the last of them went up, Brom walked round the wagon as he walked round any load. When he came back he had the whole of it, and he gave it to them with his hands as much as his voice.
 
-A pole went under the broken corner, lashed fore and aft, so that the wagon would ride on three wheels and a skid. The long rope went from the tongue up the western ramp to the mules, and to Brom. That was the haul. But the bed fell away downstream, and a thing dragged across a slope will always swing its tail to the low side and go over; so a second line must run from the tail-ring back to the eastern bank, and somebody must stand there and pay it out, a foot at a time, and never let it go slack.
+A pole went under the broken corner, lashed fore and aft, so that the wagon would ride on three wheels and a skid. The long rope went from the tongue up the western ramp to the mules, and to Brom. That was the haul. But the bed fell away downstream, and a thing dragged across a slope will always swing its tail to the low side and go over. So a second line must run from the tail-ring back to the eastern bank, and somebody must stand there and pay it out, a foot at a time, and never let it go slack.
 
 "That's the light end," he said, and looked at Lira. "It wants somebody quick. There's a thorn stump on the lip. Two turns round it, and the stump holds the wagon. You only hold the stump."
 
@@ -348,7 +348,7 @@ The woman with the hides scratched her mark on the slip against her own tailboar
 
 "You're not paper," she said.
 
-It would have been easy to take. He was tired, and it was meant kindly, and it was the best thing anybody had said to him since a registrar wrote in a margin. But a clerk had written him down at fourteen, in a district office at the far end of the country, and he had been in somebody's book every day since. One morning in a ditch had not unwritten it, and he did not want the first good opinion he earned out here to rest on a mistake.
+It would have been easy to take, for he was tired, and it was meant kindly, and it was the best thing anybody had said to him since a registrar wrote in a margin. But a clerk had written him down at fourteen, in a district office at the far end of the country, and he had been in somebody's book every day since. One morning in a ditch had not unwritten it, and he did not want the first good opinion he earned out here to rest on a mistake.
 
 "I am," he said.
 

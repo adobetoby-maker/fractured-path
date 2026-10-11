@@ -2,11 +2,11 @@
 
 *Second day past the Line. One fire. Deployment since the Line: none.*
 
-He had written that under the inventory an hour ago, and since then he had done nothing at all but keep it true.
+He had written that under the inventory an hour ago. The last line of it was his own count and nobody else's: it was for the nine things he carried, and whether he had let one of them out. Since then he had done nothing at all but keep it true.
 
 The fire had burned down to a red eye, and Cael let it go, for Brom had said at the start of the watch that a man who feeds a fire all night ends by looking at the fire, and Brom was generally right about anything that had weight. So he sat with his back to the embers and his face to the dark, on a shelf of turf that nobody had ever troubled to name, and he counted.
 
-It was an old habit, and he had it from a hill. For a year there had been two men at the foot of a road with a tin cup between them, and a third on a tier with a pencil, and a mild clerk at a copying table who had turned out to be the best of the four; and he had learned to find each of them in the first minute of any morning, as a man feels for his purse. He ran the count now over a country he could not see. He took the ridge behind them first, and the scree, and the black shoulder to the north where a night bird kept its two notes, and then the gulf in front, in sections, from the near ground outward.
+It was an old habit, and he had it from the hill he had left a week ago, where somebody had always been set to watch him. For a year there had been two men at the foot of a road with a tin cup between them, and a third on a tier with a pencil, and a mild clerk at a copying table who had turned out to be the best of the four; and he had learned to find each of them in the first minute of any morning, as a man feels for his purse. He ran the count now over a country he could not see. He took the ridge behind them first, and the scree, and the black shoulder to the north where a night bird kept its two notes, and then the gulf in front, in sections, from the near ground outward.
 
 Nobody was there.
 
@@ -26,13 +26,13 @@ He sat at the shelf's lip, ten paces off, with his back to what was left of the 
 
 Cael let his breath go, and found that Brom had been right about that as well.
 
-He had no Path, and so no tier and no rank, and he said so to himself plainly, because the dark was a good place for plain things. An Arbiter had woken in him at fourteen, on a brass plate in a windowless room, and it had taken eleven seconds over him and gone dark, and it had been dark ever since. What answered him now were nine fragments, which was the log's word for them: pieces of other people's Paths, each one taken inside a fight that somebody else had begun in earnest, and each one written into Hesk's book with a name beside it and a price.
+He had no Path of his own, and so no tier and no rank, and he said so to himself plainly, because the dark was a good place for plain things. Everybody else he knew had come away from a Kindling at fourteen with one: a single gift, which an Arbiter named and a registry ranked ever after. His own Arbiter had woken too, on a brass plate in a windowless room, and it had taken eleven seconds over him and gone dark, and it had been dark ever since. What answered him now were nine fragments, which was the log's word for them: abilities taken out of other people's Paths, each one inside a fight that somebody else had begun in earnest, and each one written into Hesk's book with a name beside it and a price.
 
 They were not quiet, either, though he had supposed, coming east, that they would lie still on a road where nobody was asking him for anything.
 
 Shadow, the quiet one, had lifted at dusk, as it lifted at every dusk, soft behind all the rest, and he had held it where it was while Seln laid a fire ten feet away. Blade was the newest of the nine and the quickest, and it had asked about the edge of the scree, and for once had been told that it was right. Storm did nothing whatever. It was a Gold's worth of weather, the heaviest fragment he owned, and it sat in him as a full pail sits on a step, so that he was aware of it all day in the way that one is aware of a pail.
 
-None of that was use, and he had used nothing since a ring of churned turf beside a split thorn. But he had begun to see that carrying nine things and not using them was a kind of work, and that it went on all night.
+None of that was use. He had spent two years keeping such things down under other people's eyes, and he had let none of them out since a ring of churned turf beside a split thorn, from a caution that he could not yet have given a reason for. But he had begun to see that carrying nine things and not using them was a kind of work, and that it went on all night.
 
 He took Hesk's clock out of its stocking and tilted the face to the embers, and it said a quarter past the hour. It lost, as it always had, and a researcher with her pencil out had ruled two days ago that it was right by definition, being the only clock east of a line. He supposed the watch was over.
 
@@ -232,7 +232,7 @@ The gelding's shoes rang on the stones. It had not mattered on the upland, where
 
 Lira opened her mouth, and shut it, and walked on with her hand a little tighter on the strap.
 
-They went on late, since the light held. Cael walked last, behind the tailboard, where the dust was; he had taken that place because his arm was sound again and he thought it his turn, and because from the back he could see all four of them and the road behind as well. He had not stopped looking at the road behind. He had only stopped expecting anything of it.
+They went on late, since the light held. Cael walked last, behind the tailboard, where the dust was; he had taken that place because his arm was sound again and he thought it his turn, and because from the back he could see all four of them and the road behind as well. He had not stopped looking at the road behind; he had only stopped expecting anything of it.
 
 The sun went off the valley floor. It did so all at once out here, when the western ridge took it, and the grass turned from gold to grey between one breath and the next.
 
@@ -286,7 +286,7 @@ He watched them for the whole of a day, having nothing else to do with his eyes.
 
 They did not talk. He noticed that first, and it was a good hour before he believed it. An old man led, with two mules, and behind him came a boy of fifteen or so with one, and then the woman; and when the old man wanted the boy he did not call back to him, but lifted a hand, and the boy looked. Once the woman clicked her tongue, twice, and the old man slowed. From the middle of the morning until the sun stood in the west Cael heard no word spoken above the creak of the wheels.
 
-They wore steel, and they wore it outside. The old man had a hatchet through his belt, over his coat, with the edge forward, and the woman carried a long knife on her thigh and had a boar spear slung in rings along the cart's side, where one pull would free it; even the boy had a hedging bill, too big for him. None of it was hidden and none of it was held. It was simply there to be seen, like the courier's hatchet in its loop.
+They wore steel, and they wore it outside. The old man had a hatchet through his belt, over his coat, with the edge forward, and the woman carried a long knife on her thigh and had a boar spear slung in rings along the cart's side, where one pull would free it. Even the boy had a hedging bill, too big for him. None of it was hidden and none of it was held; it was simply there to be seen, like the courier's hatchet in its loop.
 
 At noon they stopped and ate, and Lira went a few steps up the bank, by habit, for sticks.
 
@@ -332,7 +332,7 @@ The claim was that out here nobody on a road declared a Path, at any tier, for a
 
 Under it he had five things. Three carts had gone a day without a word, and every one of their people wore an edge outside the coat, the boy included. There were rings of stones on the halting-grounds that had never been burned in, because they had never been meant for fire. A courier had counted their smokes from a ridge and told them it was their wood. And a boy had been about to show them something, and had had it taken out of his hand.
 
-He did not know why. That was the weakness in the ruling, and he looked at it squarely, for not one of the five things said what the rule was a rule against. But he knew what a rule looked like when a whole country kept it and nobody troubled to say it aloud.
+He did not know why, and that was the weakness in the ruling, which he looked at squarely, for not one of the five things said what the rule was a rule against. But he knew what a rule looked like when a whole country kept it and nobody troubled to say it aloud.
 
 "Hold," he said.
 

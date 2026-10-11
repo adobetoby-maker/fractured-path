@@ -18,27 +18,29 @@ Pike had the book open and the stone on it. He looked up as they came along the 
 
 "No."
 
-Pike nodded, and turned his shoulder to the meadow, and said it out over the heads of the people at the plank in his level, carrying voice, so that it went as far as the ash.
+Pike nodded, and turned his shoulder to the meadow, and raised his level, carrying voice over the heads of the people at the plank, so that it went as far as the ash. The Thornwater line went out exactly as it had come to them on bark.
 
-The Thornwater line went out exactly as it had come to them on bark.
-
-It was strange to hear. Cael had read those words on a scrap of bark in a hold's yard, and thought them his; and now they belonged to a woman with a board of loaves on her head, and a man mending a trace, and an old carter under a tree, who had lifted his chin at the word *stretch* and held it there to the end. Several of the people at the plank turned and looked at the five of them. They looked once, at their boots and their steel, and then went back to their own affairs.
+It was strange to hear. Cael had read those words in a hold's yard, and thought them his; and now they belonged to a woman with a board of loaves on her head, and a man mending a trace, and an old carter under a tree, who had lifted his chin at the word *stretch* and held it there to the end. Several of the people at the plank turned and looked at the five of them. They looked once, at their boots and their steel, and then went back to their own affairs.
 
 Pike unlocked the iron box and counted nine coins onto the oak, in threes. Karis took them up, since the purse was hers to keep. She did not count them a second time in front of him, which Cael knew she would do later.
 
-A woman was next. She was lean and burnt, with a strip of red cloth tied round her hair, and two men and a girl stood at her back; she laid a slip on the plank and stepped away from it with her arms folded. Pike read it to himself, and read it again, and then he gave it to the meadow.
+Pike did not wait for her to finish. Another slip lay ready under the edge of his stone, where somebody had left it for him earlier in the day. He drew it out with two fingers, and read it to himself, and read it again, and he was giving it to the meadow before the last of their silver was off the oak.
 
 "North road. Four carts of salt and iron walked to the upper holds. Delivered at the last gate. One mule lamed. Fourteen marks."
 
-"Lame when I took him," said the woman.
+"Lame when I took him."
 
-She had not raised her voice either. Pike looked at her, in his careful double fashion.
+It came from behind Cael's shoulder, in no louder a voice than Pike's own. He turned, and found a lean, burnt woman with a strip of red cloth tied round her hair, standing a little way out from the eave with her arms folded. He had taken her for one of the crowd.
+
+Pike looked at her, in his careful double fashion.
 
 "Which foot?"
 
 "Near fore. He was pointing it in the yard before a pack went on. His own carter will tell you."
 
 Pike lifted his head and called a name across the grass, and a man at the second fire stood up with a bowl in his hand. He was asked one question, and he answered it with a nod and sat down again.
+
+Two men and a girl got up off the bank then, where they had been sitting with their packs between their feet, and came to stand at the woman's back. Cael saw that it was a captain who had spoken, and that her crew had left her to say it alone until it was proved.
 
 "One mule lame at taking," said Pike, and dipped his pen.
 
@@ -58,7 +60,7 @@ Pike looked past her, down the length of the meadow. There were perhaps two hund
 
 He pushed the last coin across.
 
-Cael had been written in a good many books. There was one in a district office with a single word against his name, and one that a mild man had filled for two years, and one on a shelf somewhere with slips in its pocket that no officer would own; and the thing they had all had in common was that they were shut. People had read them about him in rooms he was not let into. He had stood on a carved number for fourteen sittings and never once been shown the page.
+Cael had been written in a good many books. There was one in a district office with a single word against his name, and one that a mild man had filled for two years, and one on a shelf somewhere with slips in its pocket that no officer would own; and the thing they had all had in common was that they were shut. People had read them about him in rooms he was not let into, and he had stood on a carved number for fourteen sittings and never once been shown the page.
 
 This book lay open on a plank in the weather, and its keeper stood up and shouted it at anybody who was frying dough.
 
@@ -84,7 +86,7 @@ Pike had the pen in his hand. He did not put it down, and he did not dip it. He 
 
 Nobody at the plank moved.
 
-Cael did not understand it for the space of a breath, and then he did, and the hair stood on his arms. It was no threat, for Pike would write it, exactly, as he wrote everything. He would put down that a captain said eleven dry, and beside it that a witness at the landing had marked ten; and then he would stand up and say both to two hundred people, and say them again when the ink was on. It would be in the book for as long as there was a book. Every hirer who ever asked about that crew would be told that its captain had once stood at this plank and argued with a mark.
+Cael did not understand it for the space of a breath, and then he did, and the hair stood on his arms. It was no threat, for Pike would write it, exactly, as he wrote everything. He would put down that a captain said eleven dry, and beside it that a witness at the landing had marked ten; and then he would stand up and say both to two hundred people, and say them again when the ink was on. It would be in the book for as long as there was a book, and every hirer who ever asked about that crew would be told that its captain had once stood at this plank and argued with a mark.
 
 The big man had got there as well. His eyes went over the faces, and the fires, and came back to the pen.
 
@@ -256,7 +258,7 @@ That was all. Nobody at that table spoke of it again, that night or for a long t
 
 It lay with the east uppermost, and Karis put her fingers back on the corners.
 
-"There are five roads off that edge," she said, after a moment. "I've counted the ticks on each. I don't know where one of them ends."
+"There are five roads out of that ring," she said, after a moment. "I've counted the ticks on each. Three of them run off the hide before they come to anything."
 
 "I have walked the first part of every one," said Seln, mildly, and picked up his cup.
 
@@ -282,7 +284,7 @@ Brom was pouring the last of the jug into five cups, with great fairness, a litt
 
 Nobody in the room was watching him. He checked it, as he checked it everywhere, and the count came out at nothing, and for the first time it did not go round again by itself.
 
-He had been turning one sentence over since a frame-house door, and he had not written it, because he had not been sure that it would stand. He had waited to see whether the country would take it back. It had had forty-nine days in which to do so. He put the pencil to the page.
+He had been turning one sentence over since a frame-house door, and he had not written it, because he had not been sure that it would stand. He had waited to see whether the country would take it back, and it had had forty-nine days in which to do so. He put the pencil to the page.
 
 *No instrument out here reads me. No Arbiter station, no assessment panel, no registry seat with a seal on it. The board reads what we did. Since my Kindling I've been the case the instruments couldn't parse, and it turns out the cure was a country with no instruments. Write it plainly, because it's true: I'm free. First time.*
 
@@ -312,13 +314,13 @@ Forty marks, and Thornwater's mark at the foot. He had stood in front of that sl
 
 Two carts gone, a month back. He knew the stretch, and what that mile asked of a person's hands, and he knew that the ford on that road was a worse place than the grass. It wanted clearing, and it wanted clearing by somebody who would not lose a man doing it; and there were, by his reckoning, two crews on the sheet who could, and the other was up the north road until the new moon.
 
-So it was his, and it must wait a week, since frost would not. He had weighed the one against the other and chosen, and he did not go back over a thing he had weighed. But a held slip was a kind of debt. If that ford took anybody while he was on a ledge with a string of salt, it would be on his name, whether Pike wrote it there or not.
+So it was his, and it must wait a week, since frost would not. He had weighed the one against the other and chosen, and he did not go back over a thing he had weighed; but a held slip was a kind of debt. If that ford took anybody while he was on a ledge with a string of salt, it would be on his name, whether Pike wrote it there or not.
 
 He set it down, as he set down a pack at a door, and looked at the room.
 
-His eye went to the sheet from habit. He did not read the top of it. He knew what was at the top. He read the bottom, where the ink was new, and it was as he had been told at the ferry: Pike had written a list. There were five names on one line. In all the time he had been looking at that sheet there had never been a line on it with more than one.
+His eye went to the sheet from habit. He did not read the top of it, since he knew what was at the top; he read the bottom, where the ink was new, and it was as he had been told at the ferry: Pike had written a list. There were five names on one line, and in all the time he had been looking at that sheet there had never been a line on it with more than one.
 
-He had heard their four said, or heard of them. A boat, a fence, the hide-woman's wagon. And today the stretch, walked at dusk, by the carter's own telling, with a hound pacing them for half the mile; and not one of the five had so much as lifted a hand.
+He had heard their four lines said at the plank, or heard of them: a boat, a fence, the hide-woman's wagon. And today the stretch, walked at dusk, by the carter's own telling, with a hound pacing them for half the mile; and not one of the five had so much as lifted a hand.
 
 That was not nothing. He had known Silvers who could not have done it.
 
@@ -338,7 +340,7 @@ He stood on the sill and knew that something was wrong with the number before he
 
 He went over them a second time, slowly, from the left.
 
-There was a man at the end of the bench. He sat a little back from the lamp, in a dark coat, with a strap across his chest and a cup in both hands, and his eyes were shut. Teague's look had gone across him the first time as it would have gone across a patch of plaster. He was the same height sitting as everybody else. He was the same colour as the wall. He had chosen the one place at those boards that the light from the door did not quite reach, and Teague did not believe for a moment that he had chosen it by chance, or that he was asleep.
+There was a man at the end of the bench. He sat a little back from the lamp, in a dark coat, with a strap across his chest and a cup in both hands, and his eyes were shut. Teague's look had gone across him the first time as it would have gone across a patch of plaster. He was the same height sitting as everybody else, and the same colour as the wall. He had chosen the one place at those boards that the light from the door did not quite reach, and Teague did not believe for a moment that he had chosen it by chance, or that he was asleep.
 
 *That one first*, he thought. He ought always to have been first. The one a man finds on his second pass is the one he should have looked for on the first, and Teague entered it against himself, as a thing to be remembered on a road.
 
@@ -350,7 +352,7 @@ Teague could not tell what he was.
 
 That was the part worth a price. A Force stood one way and a Wind another, and anybody could tell a Skin by how he came through a door. This one sat like none of them. There was nothing in the set of him to say what he had in his hands, and nothing to say that they were empty.
 
-He had no word to give them. A man did not speak to a bottom line that had cost him nothing. If they were what four lines said, then the board would put them across his road before the snow, and there would be something to say then, and something to price.
+He had no word to give them, for a man did not speak to a bottom line that had cost him nothing. If they were what four lines said, then the board would put them across his road before the snow, and there would be something to say then, and something to price.
 
 He stayed on the sill a breath longer than he needed, all the same, and let himself be read to the end. It seemed only fair.
 
@@ -360,7 +362,7 @@ Cael read him back, a thing at a time.
 
 He was a man of forty or so, of the middle height, heavy in the forearm, with hair cropped close and gone grey over the ears. He had stopped on the sill before he came in. That was the first item, and Cael put the most weight on it. Three people had stopped behind him in the same instant, at the same distances, without a word; and for the length of a breath the man's eyes had gone nowhere at all, while he listened to them be there. He had counted his own before he counted the room.
 
-The right wrist was strapped with a band of leather four fingers wide, worn black, and laced on the inside, where a man can lace a thing himself. Nobody wears that for show. There was an old hurt under it, or one that he expected, or both.
+The right wrist was strapped with a band of leather four fingers wide, worn black, and laced on the inside, where a man can lace a thing himself. Nobody wears that for show; there was an old hurt under it, or one that he expected, or both.
 
 He carried a hand-axe in his belt, over the coat, with the edge forward. His boots had been soled more than once, and the coat had been mended at the shoulder, neatly, by somebody else.
 
@@ -372,9 +374,9 @@ That was the item he could not rule on. He set it apart.
 
 And last the man had come to him, and stayed.
 
-It was not the registry's look, which he knew in his sleep; that one went to the place where a designation should be, and then it went through him. This look stopped at what was there. It took his hands, and the book under them, and how he sat. It was asking the question that a one-armed man asked of every slip, and it was content to wait for the answer.
+It was not the registry's look, which he knew in his sleep; that one went to the place where a designation should be, and then it went through him. This look stopped at what was there: it took his hands, and the book under them, and how he sat. It was asking the question that a one-armed man asked of every slip, and it was content to wait for the answer.
 
-He did not know what the answer would be. He thought that he would rather be asked it by this man than by most.
+He did not know what the answer would be, but he thought that he would rather be asked it by this man than by most.
 
 Neither of them spoke. The man on the sill moved his head, perhaps the width of a finger, at nothing, and Cael did not nod.
 

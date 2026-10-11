@@ -14,7 +14,7 @@ It lay on the far side of a river a hundred yards across, green-brown and unhurr
 
 That was all there was, and he went on looking for the rest of it.
 
-He looked for the wall first. Every town he had ever entered had kept one, even Denvash, which was nothing, and a wall meant a gate, and a gate meant a man in it with a book. He looked for the station next, the low stone house with the windowless building behind, and for a board of hours, and for any roof with a seal burned into its sign. His eye went over the place three times in search of them, like a tongue going back to where a tooth has been.
+He looked for the wall first, since every town he had ever entered had kept one, even Denvash, which was nothing; and a wall meant a gate, and a gate meant a man in it with a book. He looked for the station next, the low stone house with the windowless building behind, and for a board of hours, and for any roof with a seal burned into its sign. His eye went over the place three times in search of them, like a tongue going back to where a tooth has been.
 
 "There's no wall," he said.
 
@@ -42,7 +42,7 @@ Their own turn came last. The gelding had not cared for the Ost and did not care
 
 Nobody told them where to stand in the meadow, so they stood and watched where everyone else stood.
 
-The carts lay along the river side with their shafts down and a stone behind each wheel. The tents were farther in, in no order he could find, of hide and tarred canvas and old sail, and they were not the same tents from one hour to the next. While Brom was getting the gelding out of the shafts a crew of four struck one within thirty yards of him, rolled it, and walked out by the north road with it on a pole between two of them; and before the flattened grass had lifted, a woman with a handcart had pitched on the same place. He did not see anybody ask anybody's leave. He had counted seventeen tents from the ferry, out of habit, and there were twenty when he counted again; and by evening only nine of the first seventeen stood where they had stood at noon.
+The carts lay along the river side with their shafts down and a stone behind each wheel. The tents were farther in, in no order he could find, of hide and tarred canvas and old sail, and they were not the same tents from one hour to the next. While Brom was getting the gelding out of the shafts a crew of four struck one within thirty yards of him, rolled it, and walked out by the north road with it on a pole between two of them. Before the flattened grass had lifted, a woman with a handcart had pitched on the same place. He did not see anybody ask anybody's leave. He had counted seventeen tents from the ferry, out of habit, and there were twenty when he counted again; and by evening only nine of the first seventeen stood where they had stood at noon.
 
 The old man had gone straight to the ash. He drew his two mules into its shade as a man walks into his own kitchen, and nobody else stood within twenty feet of him, though the shade was the best in the meadow.
 
@@ -124,9 +124,9 @@ There were eight more. One wanted a night-watch kept on the landing, and one wan
 
 He read all fourteen from the left post to the right, and then he went back and read them the other way, because he had found what was wrong with them and wished to be sure.
 
-Every name on the board in Ardenmere had carried letters after it, and a number: *Cu 3*, and the like. They had been ratings, borrowed from the registry's tiers and kept in somebody's private ledger, and a stranger could not have stood in that yard for a minute without being told where he stood among them. He had learned to read a card by them before he learned anything else. Here there was a job, and whoever wanted it done, and what they would pay.
+Every name on the board in Ardenmere had carried letters after it, and a number: *Cu 3*, and the like. They had been ratings, borrowed from the registry's tiers and kept in somebody's private ledger, and a stranger could not have stood in that yard for a minute without being told where he stood among them. He had learned to read a card by them before he learned anything else; and here there was only a job, and whoever wanted it done, and what they would pay.
 
-Not one of the fourteen said who might take it. None of them asked for a tier, or a rank, or a Path of any kind, and none said *Iron or above*, or *a Bronze to lead*. The slip with the seal on it wanted a crew to stand on a boat, and it was all one to that slip whether the crew were five Golds or five carters' boys.
+Not one of the fourteen said who might take it: none of them asked for a tier, or a rank, or a Path of any kind, and none said *Iron or above*, or *a Bronze to lead*. The slip with the seal on it wanted a crew to stand on a boat, and it was all one to that slip whether the crew were five Golds or five carters' boys.
 
 "It doesn't price us," he said. "The board, I mean. It prices the work, and it doesn't say one word about who does it." He put his finger under the shingle, without touching. "At the Cinder House you'd have read this in a breath. You'd have known who was above you and who you could reach. There's nothing here to read that way."
 
@@ -250,7 +250,7 @@ They looked at Cael then, as he had known they would.
 
 Nobody laughed, and Brom nodded slowly, as a man nods at a weight he has also lifted, and Karis wrote something short and did not underline it.
 
-It was a strange lightness, and he was not sure that he trusted it. Out beyond a line he had waited for the ground to tell him he had crossed something, and it had said nothing. Today a book had been opened and ruled for him, and it had not wanted to know what he was. Both times he had braced for a step that was not there.
+It was a strange lightness, and he was not sure that he trusted it. Out beyond a line he had waited for the ground to tell him he had crossed something, and it had said nothing; today a book had been opened and ruled for him, and it had not wanted to know what he was. Both times he had braced for a step that was not there.
 
 "I don't see how it works," said Lira. "That's what I can't get past. If there's no rank, then how does anybody out here know I'm better than I was last month?"
 
