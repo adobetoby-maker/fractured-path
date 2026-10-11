@@ -84,6 +84,22 @@ BOOKS = {
             "[Firm, lucid narration; build through the final standard and let the aftermath breathe]",
         ],
     },
+    "book-06-the-compacts-hand": {
+        "title": "The Compact's Hand",
+        "chapter_count": 60,
+        "movement_ranges": [(1, 7), (8, 13), (14, 20), (21, 27), (28, 34), (35, 40), (41, 47), (48, 54), (55, 60)],
+        "movement_tags": [
+            "[Quiet, exact narration; let the new compact and its private costs emerge without recap]",
+            "[Observant, controlled narration; keep rank, obligation, and friendship legible beneath the travel]",
+            "[Focused, analytical narration; make each test of the compact readable in rule and consequence]",
+            "[Measured, public-facing narration; hold the spectacle at a human scale and let pressure accumulate]",
+            "[Patient, strategic narration; allow alliances, debts, and suspicion to change by degrees]",
+            "[Dry, precise narration; let institutional language reveal leverage without overplaying it]",
+            "[Taut, spatially clear narration; keep danger readable and thought moving under pressure]",
+            "[Restrained, intimate narration; give loyalty, doubt, and the cost of command room to register]",
+            "[Firm, lucid narration; build through the compact's final test and let the aftermath breathe]",
+        ],
+    },
 }
 
 SCENE_RULES = [
@@ -110,6 +126,14 @@ def sha256_file(path: Path) -> str:
 
 def git_value(root: Path, *args: str) -> str:
     return subprocess.check_output(["git", *args], cwd=root, text=True).strip()
+
+
+def canonical_commit_for(repo: Path, book_id: str) -> str:
+    match = re.match(r"book-(\d{2})-", book_id)
+    if not match:
+        raise ValueError(f"Cannot derive text-lock tag from {book_id}")
+    tag = f"monroe13-book{match.group(1)}-text-locked"
+    return git_value(repo, "rev-list", "-n", "1", tag)
 
 
 def clean_spoken_markdown(text: str) -> str:
@@ -197,7 +221,7 @@ def xhtml_document(title: str, blocks: list[dict[str, str]]) -> str:
 '''
 
 
-def make_epub(path: Path, book_id: str, title: str, chapters: list[dict], modified: str) -> None:
+def make_epub(path: Path, book_id: str, title: str, chapters: list[dict], modified: str, edition: str = EDITION) -> None:
     nav_items = "\n".join(
         f'          <li><a href="text/chapter-{chapter["number"]:02d}.xhtml">{html.escape(chapter["title"])}</a></li>'
         for chapter in chapters
@@ -213,7 +237,7 @@ def make_epub(path: Path, book_id: str, title: str, chapters: list[dict], modifi
         spine_items.append(f'<itemref idref="chapter-{number:02d}"/>')
     opf = f'''<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="book-id">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="book-id">urn:uuid:{book_id}-local-breeze-directors-cut</dc:identifier><dc:title>{html.escape(title)} — {EDITION}</dc:title><dc:creator>{AUTHOR}</dc:creator><dc:language>en</dc:language><meta property="dcterms:modified">{modified}</meta></metadata>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="book-id">urn:uuid:{book_id}-{re.sub(r'[^a-z0-9]+', '-', edition.casefold()).strip('-')}</dc:identifier><dc:title>{html.escape(title)} — {html.escape(edition)}</dc:title><dc:creator>{AUTHOR}</dc:creator><dc:language>en</dc:language><meta property="dcterms:modified">{modified}</meta></metadata>
   <manifest>{"".join(manifest_items)}</manifest><spine>{"".join(spine_items)}</spine>
 </package>
 '''
@@ -298,7 +322,7 @@ def build_book(repo: Path, book_id: str) -> dict:
     text_path = output / f"{stem}-{COMPATIBILITY_STEM}.txt"
     epub_path = output / f"{stem}-{COMPATIBILITY_STEM}.epub"
     text_path.write_text("\n".join(full_text_parts).rstrip() + "\n", encoding="utf-8")
-    commit = git_value(repo, "rev-parse", "HEAD")
+    commit = canonical_commit_for(repo, book_id)
     commit_time = datetime.fromisoformat(git_value(repo, "show", "-s", "--format=%cI", commit)).astimezone(timezone.utc)
     make_epub(epub_path, book_id, title, records, commit_time.strftime("%Y-%m-%dT%H:%M:%SZ"))
     manifest_records = [{key: value for key, value in record.items() if key != "blocks"} for record in records]
