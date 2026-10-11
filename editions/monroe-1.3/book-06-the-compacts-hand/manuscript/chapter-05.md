@@ -2,7 +2,7 @@
 
 The eighth day of the year was a First-day, hot and still, and at the second bell Cael was on the covered walk with a book under his arm and nowhere in particular to be.
 
-The house had found its feet by then. A week was long enough for that. The intake had stopped walking in groups of six and started walking in groups of two. The boards along the walk had filled up with the year's ordinary paper: the research standings, the program's floor hours, the refectory's rota, and a sheet in Ephram's square hand announcing that the captain would hear grievances on Third-day evenings in the common room and would not be held responsible for his answers. The fire-watch boy's slate hung on its nail under the north arch with last night's hours chalked down it in large careful figures, the last of them rubbed out once and made again.
+The house had found its feet by then. A week was long enough for that. The intake had stopped walking in groups of six and started walking in groups of two. The boards along the walk had filled up with the year's ordinary paper: the research standings, the program's floor hours, the refectory's rota, and a sheet in Ephram's cramped hand announcing that the captain would hear grievances on Third-day evenings in the common room and would not be held responsible for his answers. The fire-watch boy's slate hung on its nail under the north arch with last night's hours chalked down it in large careful figures, the last of them rubbed out once and made again.
 
 Cael stopped at the slate, because he always did, and then he looked east, because the arch looked east, and saw them.
 
@@ -24,7 +24,7 @@ Cael went past them and up the steps and in. Nobody stopped him. It would not ha
 
 The records hall was cool after the court, and dim, and very quiet.
 
-Bracken was behind his counter. He had not come down from the window in a hurry; there was no sign on him that he had come down at all. He stood with both hands resting on the counter's edge, a narrow grey man in a grey coat, and when Cael came in he looked at him once and then back at the door, and said nothing.
+Bracken was behind his counter. He had not come down from the window in a hurry; there was no sign on him that he had come down at all. He stood with both hands resting on the counter's edge, a narrow grey man in a grey coat, and when Cael came in he looked at him once and then back at the door.
 
 The rider came in behind Cael with the case under his arm.
 
@@ -102,7 +102,7 @@ Then she saw his face, and the look went.
 
 Karis stood in the doorway and did not move.
 
-He told her the first page. He had it nearly whole; he had been listening the way he listened to anything that would have to be written down later. *Does not allege fraud. Nor contest the text.* *Evaluation integrity.* *Compelled re-evaluation under standard Arbiter protocol.* *Stand or fall.* She listened to all of it without interrupting, with her pen still in her hand, and when he had finished she looked past him, down the narrow stair, for a long moment.
+He told her the first page. He had it nearly whole; he had been listening the way he listened to anything that would have to be written down later. *Does not allege fraud. Nor contest the text.* *Evaluation integrity.* *Compelled re-evaluation under standard Arbiter protocol.* *Stand or fall.* She listened to all of it without interrupting, with her pen still in her hand, and when he had finished she looked past him, down the narrow stair.
 
 "Standard Arbiter protocol," she said. "Those words? Exactly those?"
 
@@ -154,7 +154,7 @@ Behind them the records-hall door opened and Bracken came out onto the top step 
 
 "This was on my counter," he said, "when I came back from the press with the rulings. Stamped. Countersigned. In order." He read from it. "*Research standing: floor and archive hours, by application. Applicant: K. Dellenmoor. Hours: the records hall, this night, from the eighth bell until the work is done. Purpose: the house's answer to an instrument served this day. Received and entered.*" He lowered it. "The stamp is the assessment wing's. The hand on the received line is the wing's. The form was built in the recess for an office that had never had a use for it until this morning." He looked down at the three of them on his steps. "Somebody has been expecting us."
 
-Nobody said who. Nobody had to. Across the court, behind the assessment wing's tall windows, the counter would be open, and a man would be at a copying table with his head down, rising when the queue moved to take the next sheet.
+Across the court, behind the assessment wing's tall windows, the counter would be open, and a man would be at a copying table with his head down, rising when the queue moved to take the next sheet.
 
 Bracken folded the green sheet and put it in his coat, beside the brass glass.
 

@@ -6,7 +6,7 @@ The refectory ran the length of the old range under the bell tower, three long t
 
 Seln sat between Brom and Karis, at the middle of the bench.
 
-He had sat there every evening since the first waystation on the road home. Nobody had said a word about it then and nobody said one now. He ate slowly, with his elbows in, and he cut his bread into exact squares before he buttered any of it, and when Brom pushed the dish of beans along to him he took some and pushed it on to Karis without looking up. It was the most ordinary thing in the room. Cael counted it anyway, every evening, the way a man counts heads at a door at the end of a long day.
+He had sat there every evening since the first waystation on the road home. He ate slowly, with his elbows in, and he cut his bread into exact squares before he buttered any of it, and when Brom pushed the dish of beans along to him he took some and pushed it on to Karis. It was the most ordinary thing in the room. Cael counted it anyway, every evening, the way a man counts heads at a door at the end of a long day.
 
 At the short table under the windows, two second-years were watching him eat.
 
@@ -82,7 +82,7 @@ On the fifth morning the wing signed his hours, and he went to wing three to fig
 
 Until this year the provision's supervised hours had been signed in the east and north halls. But over the recess Rooke's program had taken the east hall for its own, and the assessment wing had moved all of the provision's bouts into a hall of its own to make room, the third of its three. Everybody called it wing three. It was a long plain room behind Gault's office, with whitewashed walls and old pine boards and a row of east windows high up, so that in the mornings the light came in over the heads of the people at the trestle and lay along the floor in bars.
 
-Gault sat at the trestle in the middle of the north side with his case beside him on the bench. It was the case with the handle, the one he carried his instruments in, and he had set it down very straight, as he always did, as if it might have opinions about the bench. On his right sat the Ash instructor with her book held against her chest. On his left sat the Mire instructor, a square calm woman with a pencil behind each ear. Each of the three had a card in front of them, ruled into three columns, execution, control and effect, and the wing added the three cards with no strike, which was the house's own way and not the tournaments'. The desk clerk from the counter sat at the end of the trestle with the wing's book open, to write the figure down when there was one.
+Gault sat at the trestle in the middle of the north side with his case beside him on the bench. It was the case with the handle, the one he carried his instruments in, and he had set it down very straight, as he always did, as if it might have opinions about the bench. On his right sat the Ash instructor with her book held against her chest. On his left sat the Mire instructor, a broad calm woman with a pencil behind each ear. Each of the three had a card in front of them, ruled into three columns, execution, control and effect, and the wing added the three cards with no strike, which was the house's own way and not the tournaments'. The desk clerk from the counter sat at the end of the trestle with the wing's book open, to write the figure down when there was one.
 
 At the east end of the room, at the rail under the windows, stood Ephram.
 
@@ -202,7 +202,7 @@ He went down to the east end of the room, still holding his side, and Ephram unf
 
 It was a chart, as Cael had known it would be; he had not known how much of one.
 
-There were columns ruled down the page, and every line of every column was a bout. The first line was the first figure the house had put on him in the qualifying year, in the long room with five chairs and a rope. After it came every floor they had fought on, in every town, and the figures went down the page in Ephram's square, cramped hand, with the floor and the town and the opponent's Path beside each. Twenty-three, twenty, twenty-six, twenty-two, twenty-four, twenty-one, twenty-five, twenty-three. In the margins there were notes in smaller writing. *Soft boards. Loud gallery. He let the Blade have the first.* And once, against a figure of twenty, *bad fish at breakfast (mine, not his)*.
+There were columns ruled down the page, and every line of every column was a bout. The first line was the first figure the house had put on him in the qualifying year, in the long room with five chairs and a rope. After it came every floor they had fought on, in every town, and the figures went down the page in Ephram's small, cramped hand, with the floor and the town and the opponent's Path beside each. Twenty-three, twenty, twenty-six, twenty-two, twenty-four, twenty-one, twenty-five, twenty-three. In the margins there were notes in smaller writing. *Soft boards. Loud gallery. He let the Blade have the first.* And once, against a figure of twenty, *bad fish at breakfast (mine, not his)*.
 
 Halfway down the page there was a line with no figure on it at all. Just *Norhold*, in capitals, and a long dash, and then nothing.
 
@@ -226,7 +226,7 @@ He did not ask. Cael waited for him to ask, and he did not.
 
 "That's the thing." Ephram leaned on the rail. "At Norhold I watched you do things I'd never seen you do on this hill. Not once, in two years. I watched you go past six in a ring. I watched you take a Gold's fire into your arm and keep it." He said it quite plainly, as he would have read off a bout card. "So I know the edges on this chart aren't yours. They're somebody's. Maybe the house's. Maybe the provision's. I don't know whose." He shrugged. "Doesn't matter. I'll keep charting. One day it's going to go off the top of the paper, here, on this hill, and when it does, I want to have been the one who drew the line it went past."
 
-Cael said nothing. There was nothing he could say that was both true and his to say, and Ephram knew it, and had arranged things so that he did not have to.
+There was nothing Cael could say that was both true and his to say, and Ephram knew it, and had arranged things so that he did not have to.
 
 He thought there was something else behind it, too. Ephram's eyes had gone to the empty floor while he talked, to the chalk marks at either end, and stayed there a moment longer than a man's eyes stay on a floor he has no business with. Whatever it was, it was not ready to be said. Cael knew that look. He wore it himself, in front of the Log, most nights.
 

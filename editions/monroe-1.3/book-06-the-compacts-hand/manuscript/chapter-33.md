@@ -52,11 +52,11 @@ He had not known his mouth was moving.
 
 "I don't know. A lot."
 
-"Then we'll find out." She drew a line across the top of the squared sheet and wrote the bell beside it. "Every time it asks, lift a finger. Don't say anything. I'll make the marks." She looked at him. "I can't write well with this hand. I can make marks."
+"Then we'll find out." She drew a line across the top of the sheet and wrote the bell beside it. "Every time it asks, lift a finger. Don't say anything. I'll make the marks." She looked at him. "I can't write well with this hand. I can make marks."
 
-So he lifted a finger, and she made a mark, and he lifted a finger, and she made another. By the end of her shift the first two lines on the squared sheet each had about forty marks on them, in rows of five with a stroke through, in her slanting left-handed scrawl.
+So he lifted a finger, and she made a mark, and he lifted a finger, and she made another. By the end of her shift the first two lines on the sheet each had about forty marks on them, in rows of five with a stroke through, in her slanting left-handed scrawl.
 
-"Forty an hour," she said. "Near enough." She looked at the sheet for a long time without saying anything. "It's courteous, isn't it."
+"Forty an hour," she said. "Near enough." She studied the marks. "It's courteous, isn't it."
 
 "How do you know?"
 
@@ -130,7 +130,7 @@ He reached for it, because he knew how, because he had done it on the road: he r
 
 "Three. Four."
 
-Lira had stopped pushing against it. She stood in Brom's arm and put her open hand flat on the nothing in the doorway, at the height of her shoulder, and held it there, and looked at Cael through it.
+Lira had stopped pushing against it. She stood in Brom's arm and put her open hand on the nothing in the doorway, at the height of her shoulder, and held it there, and looked at Cael through it.
 
 "Five," said Brom. "Six. Seven."
 
@@ -142,7 +142,7 @@ He did not try again, because he did not know what else to try. He stood in the 
 
 On twelve it let go.
 
-It let go by itself, without his asking. He felt the point leave the left jamb and the right, and the line between them go slack and simply not be there, and Lira's flat hand went forward through the doorway into the room as if somebody had opened a door she had been leaning on. Brom held her up. Her crutch lay on the boards inside the room where it had skidded.
+It let go by itself, without his asking. He felt the point leave the left jamb and the right, and the line between them go slack and simply not be there, and Lira's hand went forward through the doorway into the room as if somebody had opened a door she had been leaning on. Brom held her up. Her crutch lay on the boards inside the room where it had skidded.
 
 Nobody said anything for a long time.
 
@@ -166,13 +166,13 @@ He would have. He knew it as she said it.
 
 "It was mine," he said. "Whatever did it. It came out of me."
 
-"So does your Wind," said Lira, "and nobody blames you when it knocks a tray off a table on the oak." She put her foot more squarely on the stool. "Write that it was in you and it wasn't you. Both. They're both true, and I was the one in the doorway, so I get to say which goes first."
+"So does your Wind," said Lira, "and nobody blames you when it knocks a tray off a table on the oak." She settled her foot on the stool. "Write that it was in you and it wasn't you. Both. They're both true, and I was the one in the doorway, so I get to say which goes first."
 
-He shut the door, carefully, all the way, until the latch clicked. Then he sat down on the end of the bed, because Lira had the chair, and nobody said anything else until Karis came at the fifth bell with her squared paper and stopped in the doorway, which was only a doorway, and looked at the three of them, and asked what had happened.
+He shut the door, carefully, all the way, until the latch clicked. Then he sat down on the end of the bed, because Lira had the chair, and they were still sitting so when Karis came at the fifth bell with her squared paper and stopped in the doorway, which was only a doorway, and looked at the three of them, and asked what had happened.
 
-Brom told her, and she listened. Then she came in, and sat on the floor with her back to the wall, and drew a line on the squared paper at the bell, and wrote beside it, in her wide crooked left-handed letters, *Doorway. Uncommanded. Twelve seconds. Brom counting.*
+Brom told her, and she listened. Then she came in, and sat on the floor with her back to the wall, and drew a line on her sheet at the bell, and wrote beside it, in her wide crooked left-handed letters, *Doorway. Uncommanded. Twelve seconds. Brom counting.*
 
-She did not say anything about it. She looked at the line for a long time, and then she drew a small box round it.
+She looked at the line, and then she drew a small box round it.
 
 Rooke came at dusk, which nobody expected.
 
@@ -186,7 +186,7 @@ That was true, and small, and it was everything the leaf had said Rooke was to b
 
 Rooke nodded, and looked at Lira.
 
-"The ankle's six days in strapping," he said. "I've talked to the healer. You're off the frames and off the floor until I see you walk across the east hall without thinking about it. That's three bouts on the card. The Second-day after next, the Fifth-day after that, and the lake house's exhibition." He took one hand out of his pocket and moved it, palm down, flat, as if he were wiping a board. "I'll strike them in the morning."
+"The ankle's six days in strapping," he said. "I've talked to the healer. You're off the frames and off the floor until I see you walk across the east hall without thinking about it. That's three bouts on the card. The Second-day after next, the Fifth-day after that, and the lake house's exhibition." He took one hand out of his pocket and moved it, palm down, as if he were wiping a board. "I'll strike them in the morning."
 
 "Three," said Lira.
 
@@ -194,7 +194,7 @@ Rooke nodded, and looked at Lira.
 
 He went.
 
-Lira sat in the chair for a long while after he had gone, with her hands in her lap.
+When his step had gone from the stair, Lira picked up the red drill-book and found her place in it.
 
 ---
 
@@ -210,9 +210,7 @@ Brom did not open his eyes. "Measured what?"
 
 "The leaf. I sat at the sill with all of you on the Second-day and priced it. I wrote down everything I could think of, the first minute and a week without the band and the lane and the read and somebody in the room. I left blanks where I didn't know, the way Seln said." He looked at the door. "There wasn't a line for that. There wasn't a line that said it might do something on its own, in a doorway, to Lira, with me lying here saying *no*. I didn't think of it. I measured it wrong."
 
-Brom was quiet for a while.
-
-"My father had a forge," he said.
+"My father had a forge," said Brom.
 
 Cael turned his head on the pillow.
 
@@ -230,9 +228,7 @@ The lamp hissed a little.
 
 "You sat at that sill on the Second-day with the rain on the window and measured it cold," said Brom. "Three times. With all of us. You wrote down what you could see and left blanks where you couldn't. Then it went in the fire, on a road, and it did something in a doorway that nobody could have measured, because nobody's ever had this iron before." He opened his eyes at last and looked at Cael across the dark room. "You've measured. That's the part that's yours."
 
-Cael did not say anything for a long time.
-
-"And the doorway?"
+"And the doorway?" said Cael at last.
 
 "The doorway's the fire's," said Brom. "We'll write it down. Next time there's a leaf, it'll have a line for doorways." He shut his eyes again. "Go to sleep. I'm counting."
 
@@ -291,9 +287,9 @@ She joined the points with the pencil, slowly, and looked at what she had.
 
 "You said nine weeks."
 
-"I said nine weeks and I said I didn't believe it." She turned back through the notebook to the page on the Second-day, the leaf they had all initialled, where *about nine weeks, Karis's curve, not believed* stood in his own hand. She laid the squared sheet beside it. Then she turned back further, to the column she had kept for the storm since Norhold, and further, to the old figures she had copied out of the old volume, the little points low on the paper from the Wind and the read and the rest.
+"I said nine weeks and I said I didn't believe it." She turned back through the notebook to the page on the Second-day, the leaf they had all initialled, where *about nine weeks, Karis's curve, not believed* stood in his own hand. She laid the new sheet beside it. Then she turned back further, to the column she had kept for the storm since Norhold, and further, to the old figures she had copied out of the old volume, the little points low on the paper from the Wind and the read and the rest.
 
-She did not say anything for a long while. Then she drew one more line on the squared sheet, very lightly, from the first of the old points through the storm and down again to the two days.
+Then she drew one more line on the new sheet, very lightly, from the first of the old points through the storm and down again to the two days.
 
 "Each one's come in faster than the one before," she said. "Not the storm. The storm was heavy and it came in the middle of the floor, and it's off the line. But the others. Every time there's more of you already there to make room, the next one finds its place quicker. The more you carry, the faster you take the next." She looked at the line. "That's what it looks like. That's what it looks like *now*."
 
@@ -305,9 +301,9 @@ She wrote two words under the line, in her crooked left hand, and drew a box rou
 
 Bracken came up the stair at the fifth bell with a letter in his hand.
 
-He did not come in, but stood in the doorway, which was only a doorway, and looked at the rota on the door and the squared paper on Karis's knee and did not ask about either. He held out the letter.
+He did not come in, but stood in the doorway, which was only a doorway, and looked at the rota on the door and the squared paper on Karis's knee, and held out the letter.
 
-"The district seat," he said. "Their answer. It came up in the noon bag." He read it out, as he read everything the house received, flat and complete. Two sentences. The office was constituted on the date entered in the district's register of offices, by instrument filed at the seat under seal. The registrar was respectfully referred to the issuing authority of the said instrument for any further particulars.
+"The district seat," he said. "Their answer. It came up in the noon bag." He read it out, as he read everything the house received, every word at the same weight. Two sentences. The office was constituted on the date entered in the district's register of offices, by instrument filed at the seat under seal. The registrar was respectfully referred to the issuing authority of the said instrument for any further particulars.
 
 "It's what she said it would say," said Brom.
 

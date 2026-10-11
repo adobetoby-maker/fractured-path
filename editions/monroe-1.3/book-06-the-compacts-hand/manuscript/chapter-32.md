@@ -61,7 +61,7 @@ Nobody had asked her. She said it to the sky.
 
 "Good." She looked at Brom's arm. "And that?"
 
-"Shoulder," said Brom, round the strapping. "Left. It's in. It was out for a heartbeat and it went back in by itself when he came off me." He tied the knot with his teeth and his right hand. "A week. It's had worse." Then he sat back on his heels and, with the same right hand, without thinking about it, reached across under his coat and felt the left inside pocket, where the sealed letter was. Cael watched his face as he found it there. Then Brom took the hand away and put it on Lira's strapped foot, flat, and left it there.
+"Shoulder," said Brom, round the strapping. "Left. It's in. It was out for a heartbeat and it went back in by itself when he came off me." He tied the knot with his teeth and his right hand. "A week. It's had worse." Then he sat back on his heels and, with the same right hand, without thinking about it, reached across under his coat and felt the left inside pocket, where the sealed letter was. Cael watched his face as he found it there. Then Brom took the hand away and put it on Lira's strapped foot and left it there.
 
 Karis had gone down the gully to the culvert. She came back up it with her right hand wrapped in her own wet handkerchief and held up in front of her like something she had been asked to carry and must not drop. The fingers that stuck out of the end of the wrapping were red to the second knuckle and already shining. She sat down on the parapet beside the milestone, which said seven, and took her notebook out of her coat with her left hand, and opened it on her knee, and wrote something with the pencil in her left hand, slowly, the letters going wide and childish.
 
@@ -71,7 +71,7 @@ Cael could read it from the bank. It was one word.
 
 She had kept a count of her hand's ignition margin since Greyvane. Three times before, she had pushed her heat past where the skin could take it, and three times it had healed, and she had logged every one in this notebook in her small exact hand. The fourth was in her right hand, and it was enormous, and it was crooked. She looked at it for a moment and did not try to make it neater.
 
-The coachman had got down off his box. He was walking the near horse up and down the road between the coach and the cart, slowly, with his hand on its neck, talking to it. The horse's foreleg had been held by a point for most of the fight. It was trembling. The coachman walked it, and talked, and did not look at any of them. Once, passing the bank where Cael sat, he said without stopping, "Twenty-two years I've driven this coach," in exactly the tone he used for the horses, and walked on.
+The coachman had got down off his box. He was walking the near horse up and down the road between the coach and the cart, slowly, with his hand on its neck, talking to it. The horse's foreleg had been held by a point for most of the fight. It was trembling. The coachman walked it, and talked, and kept his eyes on the horse. Once, passing the bank where Cael sat, he said without stopping, "Twenty-two years I've driven this coach," in exactly the tone he used for the horses, and walked on.
 
 Cael sat on the bank and looked at all of them.
 
@@ -93,7 +93,7 @@ He looked round the cut once, at all of them. At Lira's foot in Brom's lap. At B
 
 "The off-side one." Seln looked at it as if it were a thing he had found on a beach. "I was under the wagon when they came back down the gully. They walked past it. Nobody looked under it. Nobody looks under a wagon." He turned and dropped the pin into the ditch on the north side, where it went into the mud without a sound and did not come up. "I didn't see anything up here. The bank was in the way. I heard it."
 
-He did not ask what he had heard. He did not ask how it had ended. He looked at Cael on the bank for perhaps one breath longer than he looked at anything else.
+He did not say what he had heard, and he did not ask how it had ended. He looked at Cael on the bank for perhaps one breath longer than he looked at anything else.
 
 "Ribs?" he said.
 
@@ -171,8 +171,6 @@ Karis had her wrapped hand in her lap and her eyes on the clock across the yard.
 
 "Think how it reads," she said. "Not how it happened. How it reads, on a minute, at a seat, in that room. The respondent arrives at a documentary sitting the seat asked for him in person, with chalk to his knees and his advocate's hand in a wet cloth. He says that on the way here, this morning, on the only road open, six people he cannot name, whose faces he did not see, with no paper and no seal and no office, tried to take him into custody, and failed, and left. His witnesses are the four people who came with him and a coachman in the house's pay." She stopped. "No faces. No names. No paper. No wagon, by tonight, I'd wager, if anybody went to look. On the morning of a sitting, six days after the house turned away an order at its gate and made the order look sinister." She did turn then, and looked at all of them. "It reads as manufactured theater. Jent wouldn't even have to say so. He'd be kind about it. Everybody in the room would be kind about it, and every weekly in four towns would print it by the Fourth-day under a woodcut of the gate."
 
-Nobody said anything.
-
 The clock across the yard moved its hand on.
 
 "She's right," said Brom at last. He said it to his own knees, heavily. "I hate it. She's right."
@@ -197,7 +195,7 @@ Then he wrote the second, and the third, and did not ask anything. Cael watched 
 
 The house's counsel was waiting just inside, in her grey coat, with her bag and her steel rule. She had come up from her rooms by the wharf in the morning before the water reached the market steps. She looked at them as they came in out of the light, one at a time, the way she read a paper, from the end up: at Lira on Brom's arm with one foot strapped; at Brom's left arm hanging; at Karis's hand; at Cael's sleeve; at the chalk on every one of them to the knee, white as millers.
 
-She did not ask what had happened. She asked one thing.
+She asked one thing.
 
 "Is there anybody I need to send for?"
 
@@ -207,7 +205,7 @@ The counsel nodded, once. She turned her steel rule over in her fingers, a quart
 
 It was smaller today. That was what Cael noticed first. The benches were half empty; a documentary sitting drew no correspondents. Up on the platform the five chairs of the evaluation seat stood under their grey covers, as they had stood at the first sitting, before the seat was called. Lot seventeen was carved into the floor under his foot. The hood was in its place.
 
-At the records table Havel sat in the junior chair with the times and the receipts, and wrote the minute they came in. He did not look up.
+At the records table Havel sat in the junior chair with the times and the receipts, and wrote the minute they came in.
 
 The seat's clerk read the designation. Then he read the contents leaf of the records the house had produced, bundle by bundle, in the house's boards, from the first card of the year to the last.
 
@@ -233,11 +231,11 @@ That was all it asked. It did not ask whether they were all of him. Nobody had e
 
 "The advocate of record."
 
-Karis went up to the clerk's table and signed the receipt leaf with her left hand. Cael watched the pen go. Her name came out wide and slanting and unlike itself. She looked at it on the page for a moment, and did not try to make it neater, and gave the pen back.
+Karis went up to the clerk's table and signed the receipt leaf with her left hand. Cael watched the pen go. Her name came out wide and slanting and unlike itself. She looked at it on the page, did not try to make it neater, and gave the pen back.
 
 The seat initialled where the clerk's finger pointed. It rose.
 
-Jent had sat at his table through all of it with his spectacles on their black cord and his travelling inkwell shut, and said nothing, because a documentary sitting gave the petitioner nothing to say. As the long room emptied he gathered his single folder and came along behind their table toward the door, and stopped by Cael's chair for a moment, and looked at the chalk on Cael's sleeve and on Lira's strapped boot and on all their knees.
+Jent had sat at his table through all of it with his spectacles on their black cord and his travelling inkwell shut, and said nothing, because a documentary sitting gave the petitioner nothing to say. As the long room emptied he gathered his single folder and came along behind their table toward the door, and stopped by Cael's chair, and looked at the chalk on Cael's sleeve and on Lira's strapped boot and on all their knees.
 
 He said it pleasantly, in the voice a man uses about the weather across a counter.
 
@@ -253,7 +251,7 @@ He might have known. He might have had no idea. There was no way, from the outsi
 
 Jent nodded, as if that were the right answer to something, and went out.
 
-He stayed in his chair a moment after the others had stood. Brom was helping Lira up. Karis was packing the wallet one-handed. Seln was already at the door. The long room was nearly empty, the clerk sanding his minute, Havel squaring his receipt book to the edge of the table.
+He stayed in his chair a moment after the others had stood. Brom was helping Lira up. Karis was packing the wallet one-handed. Seln was already at the door. The long room was nearly empty, the clerk sanding his minute, Havel blotting the last line in his receipt book.
 
 Cael sat with the chalk on his knees and looked at the room.
 

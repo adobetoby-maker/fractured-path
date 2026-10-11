@@ -26,7 +26,7 @@ Brom came over before anything else and laid his hand on Cael's right side, low,
 
 "I let him."
 
-Brom took his hand away and said nothing about it. He looked at Cael for the space of a breath, with the look he gave a floor before he stood on it, and then went to the far end of the painted lines and began unrolling the wraps for his forearms. It was all the comment Brom would ever make, and Cael felt it settle on him like a coat.
+Brom took his hand away. He looked at Cael for the space of a breath, with the look he gave a floor before he stood on it, and then went to the far end of the painted lines and began unrolling the wraps for his forearms. It was all the comment Brom would ever make, and Cael felt it settle on him like a coat.
 
 "Rules," said Lira from the stair. "Mine. I've been thinking about them all week, so you don't get to change them." She tore the tape with her teeth. "No band. No rotation. No rate. Whatever you've got, you use it, and whatever it costs, you tell us, and we write it down. Nobody's watching. Nobody's charting. If it goes off the top of a page, there isn't a page."
 
@@ -112,7 +112,7 @@ Brom considered this, unwrapping and rewrapping the end of one forearm, which wa
 
 "Mm." Brom set his feet again. "Push, then."
 
-This was the one Cael had shut his hand on in wing three. He set his right palm flat against Brom's chest, below the collarbone, and Brom set himself to it, the way he set himself against anything, with his weight down in his heels and his knees soft and his whole body arranged to be the thing that did not move.
+This was the one Cael had shut his hand on in wing three. He set his right palm against Brom's chest, below the collarbone, and Brom set himself to it, the way he set himself against anything, with his weight down in his heels and his knees soft and his whole body arranged to be the thing that did not move.
 
 Cael gave him the push.
 
@@ -242,9 +242,7 @@ He gave his attention to Brom. To Brom's hands, rolling up the wrap, turn after 
 
 It was going down. It went down a little every month, and it had never stopped. Rent from waking, every day, spent or not. He had never used it, not once, not even in the last corner of the hardest fight of his life, when it had offered itself to him like a hand held out. It was sealed for a debt, and the debt was to a quiet man who sat at the middle of the bench and cut his bread into squares, and who did not know it was owed, or what for. Nobody had told him yet. The four of them had decided that at Norhold, on the night of the seal. Not yet. When it could be told whole.
 
-He sat with that for a while, and did not say it, because the other two knew it as well as he did.
-
-Brom set the rolled wrap down on the boards beside him, square to a painted cross.
+Brom set the rolled wrap down on the boards beside him.
 
 "That's what goes up to wing three," he said. "Every Fifth-day. All that. And you take it as far as the door and leave it there and go in with the rest."
 
@@ -258,7 +256,7 @@ Brom picked up the second wrap and began to roll it.
 
 "Then once a week," he said, "you come here. Here, with us, and you take all of it out of the bag and use it, every piece, and we write down what it costs." He pressed the wrap smooth with his thumb. "So you don't forget it's yours. A man who keeps a thing shut long enough starts to think the shut is the thing."
 
-Lira turned her head on the boards and looked at Brom for a long moment.
+Lira turned her head on the boards and looked at Brom.
 
 "That's the most you've said since Norhold," she said.
 
@@ -294,13 +292,13 @@ Bracken was still at the window when Cael reached the landing. He did not turn r
 
 "And this is the seventh day."
 
-"It is." Bracken lifted the glass again, looked, and lowered it. He was quiet for a while. Then he said, as if Cael had asked a question, which in a way he had: "The entry they wrote on you at Norhold had one word at its end. *Referred.* A referral is a letter, in my trade. A letter that has gone up a road gets an answer that comes down one." He turned the glass over in his hands. "I've kept this office for thirteen years. I've never yet seen an answer come down a road that I didn't see coming a minute before it reached the gate. I see no reason to begin now."
+"It is." Bracken lifted the glass again, looked, and lowered it. Then he said, as if Cael had asked a question, which in a way he had: "The entry they wrote on you at Norhold had one word at its end. *Referred.* A referral is a letter, in my trade. A letter that has gone up a road gets an answer that comes down one." He turned the glass over in his hands. "I've kept this office for thirteen years. I've never yet seen an answer come down a road that I didn't see coming a minute before it reached the gate. I see no reason to begin now."
 
 "How long do they usually take?"
 
 "Longer than this, for a small question." Bracken put the glass in his coat. "This is not a small question."
 
-He did not say anything else, and Cael did not ask him to. They stood together at the high window for a while longer, a narrow grey man and a boy with a bad hip, looking at an empty road in the sun. A cart came up out of the trees on the lowest switchback, loaded with hay, a farmer walking at the horse's head. Bracken took the glass out again, and looked, and put it away.
+They stood together at the high window a while longer, a narrow grey man and a boy with a bad hip, looking at an empty road in the sun. A cart came up out of the trees on the lowest switchback, loaded with hay, a farmer walking at the horse's head. Bracken took the glass out again, and looked, and put it away.
 
 "Hay," he said.
 

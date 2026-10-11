@@ -52,7 +52,7 @@ At the water break she came to the foot of the gallery stair and sat on the bott
 
 Her collar was dark through. Her hands were taped to the wrist, and she rolled them, one and then the other, the way she did when she wanted something to do with them. She held her left arm a little close to her side. It had not hurt her since the team trial at Norhold; the healers had taken the wrap off for that day and never put it back. But the arm still remembered being careful, and some mornings it carried itself close out of habit, the way a man who has lost a tooth goes on chewing on the other side.
 
-She did not say anything for a while. She looked at the floor: the white lines, the crosses, the arrows, the frames on their new springs, the clerk at the trestle turning a page of the red book, Rooke beside him with his pencil. The whole hall had been rebuilt over the recess for one purpose, and the purpose was sitting on a stair with a tin cup.
+She drank, and looked at the floor: the white lines, the crosses, the arrows, the frames on their new springs, the clerk at the trestle turning a page of the red book, Rooke beside him with his pencil. The whole hall had been rebuilt over the recess for one purpose, and the purpose was sitting on a stair with a tin cup.
 
 "It's heavier than it looks from the rail," she said. "Don't write that down."
 
@@ -72,7 +72,7 @@ Since Fenmark Lira had kept a whole vocabulary for the registry, and he had hear
 
 "Is it working?"
 
-"You saw." She put the cup down on the step. "Rooke says the sitting doesn't read the board. It reads the rating. I'm Iron Rank One on the porter's wall, and I'll stay Rank One on it, and it doesn't matter. When the advancement evaluation comes, they'll put me on a floor in front of a panel and mark what I do, and if the marks sit where Silver sits, that's where I go. Not up the column. Across it." She pressed the tape flat at her wrist. "The rank's a certificate. The rating's a figure. Rooke says nobody in the Silver bracket ever asked to see anybody's certificate."
+"You saw." She put the cup down on the step. "Rooke says the sitting doesn't read the board. It reads the rating. I'm Iron Rank One on the porter's wall, and I'll stay Rank One on it, and it doesn't matter. When the advancement evaluation comes, they'll put me on a floor in front of a panel and mark what I do, and if the marks sit where Silver sits, that's where I go. Not up the column. Across it." She pressed the tape down at her wrist. "The rank's a certificate. The rating's a figure. Rooke says nobody in the Silver bracket ever asked to see anybody's certificate."
 
 "And the figure?"
 
@@ -120,7 +120,7 @@ The room itself had changed. The great map of the continent had come down off th
 
 She drank half her tea standing. Then she crossed to the shelf by the door, where the house's certified copy of the tournament charter stood in its grey card covers among the regional schedules, and laid one finger along its spine, and kept it there.
 
-He did not say anything. He had watched her hand stop at that book last year, in the deep cold, at the founding articles where a slip of her own paper stood up out of the binding. He had seen her walk past it a hundred times since.
+He had watched her hand stop at that book last year, in the deep cold, at the founding articles where a slip of her own paper stood up out of the binding. He had seen her walk past it a hundred times since.
 
 "Old books first," said Karis to the spine, as if he had asked. "The founding text. The first consolidation. The second. Each one until I can say what it says without looking, and nothing newer on the table until then. I made the bargain with the only person I can't talk round." She took her finger away. "A note for the cold term."
 
@@ -180,7 +180,7 @@ One of the pair at the road's foot was grey in the beard and leaned on a stick h
 
 He watched until the light went, and they did not look up once.
 
-He wrote it on the wall, with the notebook flat on the coping and his back to the river.
+He wrote it on the wall, with the notebook open on the coping and his back to the river.
 
 *Third evening. The change on the bell, both pairs, as every year. Different men. These have no questions about the hill; whoever sent them answered all of those first. Men with no questions get sent at the end of something, not the start. You don't post your best men to learn a gate. You post them to be standing there when it opens.*
 

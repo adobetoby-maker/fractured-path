@@ -88,7 +88,7 @@ The fourth push came, and the right shoulder spoke, low, the way it always spoke
 
 He stopped.
 
-Four pushes and she had not taken a step. Four pushes and he was still in the cut, with three points round him and the woman on her flat patch of crown, and every push had moved nobody but him.
+Four pushes and she had not taken a step. Four pushes and he was still in the cut, with three points round him and the woman where she had stood from the first, and every push had moved nobody but him.
 
 He tried to make her move them.
 
@@ -108,7 +108,7 @@ He had a moment, then, because she let him have it.
 
 He looked round the cut for the length of a breath. Lira was on the ground.
 
-She was at the edge of the north ditch, where the camber fell away into it, sitting in the chalk with one leg out in front of her and her hands flat behind her. She had spent four bursts. He had not seen the third or the fourth, and he did not know which had put her there. He knew only that her right foot was turned at an angle no foot was meant to hold, and that she was holding very still. One of the four stood over her, a yard off, with his stave across his body in both hands. He did not touch her. He did not need to. He stood between her and the coach and looked at her, and she looked back at him.
+She was at the edge of the north ditch, where the camber fell away into it, sitting in the chalk with one leg out in front of her and her hands braced behind her. She had spent four bursts. He had not seen the third or the fourth, and he did not know which had put her there. He knew only that her right foot was turned at an angle no foot was meant to hold, and that she was holding very still. One of the four stood over her, a yard off, with his stave across his body in both hands. He did not touch her. He did not need to. He stood between her and the coach and looked at her, and she looked back at him.
 
 Custody. Not assault. They did not want her. They wanted her out of the way.
 
@@ -246,7 +246,7 @@ He counted them, because it was the last thing he could do. On one the man stand
 
 And her.
 
-She was last. She stood on her flat patch of crown for one more moment, with her hands closed, and looked at him.
+She was last. She stood on her patch of crown with her hands closed and looked at him.
 
 It lasted one second. He could see nothing of her face but the band of skin between the hood and the scarf and the two eyes in it. They were grey, and steady, and not angry. He had braced for anger. It was not there. It was the look of somebody who has spent her whole life on one craft and has just watched it done backward, in front of her, by a boy on his knees in the dust, and is trying to see how.
 

@@ -24,7 +24,7 @@ He ruled a margin and wrote the interval shut.
 
 *Ephram: captain again from tomorrow, of the whole cohort this time. He has spent the recess learning the names of every first-year on the intake list, in order, so that he can pretend not to know them.*
 
-He stopped there and looked down into the court for a while. A first-year was dragging a trunk across the flags on its corner, too proud to ask for help. Then he went on.
+He stopped there and looked down into the court. A first-year was dragging a trunk across the flags on its corner, too proud to ask for help. Then he went on.
 
 *The coats at the bottom of the hill: two at the ferry landing, two at the foot of the road, changing on the bell. Same arrangement as last year. Different men. The two I knew from the bridge never came back up the valley. These are older and stand differently, and they don't watch the gate the way men watch a gate they're learning. They watch it the way you watch a kettle you already know will boil.*
 
@@ -40,7 +40,7 @@ He blotted it with sand, the way Bracken did, and tipped the sand back into its 
 
 He woke an hour before light and knew at once that he would not sleep again.
 
-There was a pull in him somewhere, faint, like a coat caught on a nail as you go through a door. He had felt it every morning since Norhold. Some mornings it was in the hip and some mornings in the chest, and some mornings he could not have said where it was at all. He lay and listened to the house breathe for a while. Then he got up and dressed in the dark and went down the residence stair in his stockings, carrying his boots.
+There was a pull in him somewhere, faint, like a coat caught on a nail as you go through a door. He had felt it every morning since Norhold. Some mornings it was in the hip and some mornings in the chest, and some mornings he could not have said where it was at all. He lay and listened to the house breathe. Then he got up and dressed in the dark and went down the residence stair in his stockings, carrying his boots.
 
 The second floor stood under the middle roof, across the court and up one flight, and at that hour it was black. He lit the lantern by the door from the porter's tinderbox and turned it low. The boards ran away from him into the dark, plain pine, a little stiffer than the sprung oak of the Crown yard and a great deal less forgiving, laid long ago by somebody who must have believed that the best way to teach a fighter about falling was to make him do it on something hard. On oak he had six free bursts in a day. Here it was five, and he had stopped being surprised by that a long time ago.
 
@@ -60,7 +60,7 @@ The read came next, Brom's read, the cheapest thing he owned and the one he trus
 
 That was two.
 
-The push next, the thing he had taken from the Bronze at Ardenmere. There was a striking post in the corner, wrapped in old canvas. He set his right hand flat against it and leaned, and then did not lean; he gave it the push. The post shuddered on its foot, and the canvas whumped, and a little dust came down from the beam above. He gave it four. At the fourth the right shoulder spoke, low, the way it always spoke at the fourth. In public he never showed more than a flat hand at a plate. At Norhold he had given a Gold five in one sitting, and his shoulder had counted the fifth for a week afterward.
+The push next, the thing he had taken from the Bronze at Ardenmere. There was a striking post in the corner, wrapped in old canvas. He set his right palm against it and leaned, and then did not lean; he gave it the push. The post shuddered on its foot, and the canvas whumped, and a little dust came down from the beam above. He gave it four. At the fourth the right shoulder spoke, low, the way it always spoke at the fourth. In public he never showed more than a flat hand at a plate. At Norhold he had given a Gold five in one sitting, and his shoulder had counted the fifth for a week afterward.
 
 He did not give the post a fifth. He did not need to know what he already knew.
 
@@ -96,7 +96,7 @@ The lantern by the door gave the boards a little light, and beyond the light the
 
 Then he asked the air to lean.
 
-He had never found better words for it. Daeva had her own words, and they were not his. To him it was like putting a hand flat against the morning and pressing, and feeling the whole of it give a little, along one line, the way a board gives when you step on its end. The air in front of him tipped. Fifteen feet of it, no more, in a narrow road no wider than his shoulders, and it reached perhaps a third as deep as hers had reached. His ears closed and opened, and the dust on the boards woke up. It ran, in a thin pale stream along the floor, down the length of the lane, as water runs down a gutter, and gathered against the far edge of it in a little drift.
+He had never found better words for it. Daeva had her own words, and they were not his. To him it was like putting a palm against the morning and pressing, and feeling the whole of it give a little, along one line, the way a board gives when you step on its end. The air in front of him tipped. Fifteen feet of it, no more, in a narrow road no wider than his shoulders, and it reached perhaps a third as deep as hers had reached. His ears closed and opened, and the dust on the boards woke up. It ran, in a thin pale stream along the floor, down the length of the lane, as water runs down a gutter, and gathered against the far edge of it in a little drift.
 
 He stepped into the downhill of it, and the floor came to him faster than his feet had any right to bring it.
 
@@ -138,7 +138,7 @@ He took Hesk's book out of his coat and wrote it on his knee, with the pencil he
 
 *Eleven weeks. The flag is down. Settled.*
 
-He looked at the next line for a while before he wrote it, because he knew Hesk would read the book one day and he knew what Hesk would say about leaving things out.
+He held the pencil over the next line before he wrote it, because he knew Hesk would read the book one day and he knew what Hesk would say about leaving things out.
 
 *Relief. Writing the word because it's the true one. Hesk says the book keeps the whole account or it isn't an account.*
 

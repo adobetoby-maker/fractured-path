@@ -6,7 +6,7 @@ The card was pinned at the board's head in Rooke's square capitals, as every car
 
 *Not fought.*
 
-Rooke stood back and looked at the board for a moment with the chalk in his hand. Then he put the chalk in his pocket and went in to the program floor and shut the door behind him, and Cael heard the bolt go home on the inside, which it never did.
+Rooke stood back with the chalk in his hand and looked at the board. Then he put the chalk in his pocket and went in to the program floor and shut the door behind him, and Cael heard the bolt go home on the inside, which it never did.
 
 He went down the rest of the stair one tread at a time.
 
