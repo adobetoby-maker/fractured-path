@@ -32,7 +32,7 @@ Oryn bit off the linen and tucked the roll into her coat.
 
 Cael had been waiting for that question, and he saw that the others had too, for Lira's eyes came up from her leg.
 
-"Because I mend what I can read," said the healer, without heat. "I read her leg at a count of ten and I knew what it was, and how she was built round it, and where the thing that knits had stopped; and then I knew where to put mine. I had my hands on him for three times as long and I got bone. I'd have got that much with my eyes shut, off a dead sheep." She showed her palms, briefly, as she had shown them to herself. "Past the bone there's nothing I can lay hold of. I'd be pushing in the dark, and I don't do that to anybody."
+"Because I cannot mend what I can't read." The healer said it without heat. "I read her leg at a count of ten and I knew what it was, and how she was built round it, and where the thing that knits had stopped; and then I knew where to put mine. I had my hands on him for three times as long and I got bone. I'd have got that much with my eyes shut, off a dead sheep." She showed her palms, briefly, as she had shown them to herself. "Past the bone there's nothing I can lay hold of. I'd be pushing in the dark, and I don't do that to anybody."
 
 She turned to Brom then, and had his left arm out of its sleeve before he could offer it. The seam was dry and pale. She wound a strip of plain linen round the wrist, four turns, no tighter than a cuff, and tied it.
 
@@ -340,7 +340,7 @@ The finger moved on, over the bay, and came to the last three hundreds. The two 
 
 "It isn't there any longer," said Cael. "It went on the morning we came to it. There's a lip of rock thirty-one paces long that a mule can be led over, by somebody who knows how, and there's no road." He put his own finger on the margin, where Karis had written small. "And that's the herd. They're shale-backs, on the face over the bay. If anybody uses a Path beneath them, they run, and the hill comes with them, and that's how your cart went into the gorge. She's written that it's derived."
 
-"I have written that it was derived on the seventy-fifth day, and used on the seventy-eighth," said Karis. "I haven't written that it's tested, since I couldn't see both ends."
+"I have written that it was derived on the seventy-fifth day, and used on the seventy-eighth," said Karis. "I haven't written that it's tested. The ledge went and the declaration followed in the same breath; that's two causes in an accident, not one cause in a test."
 
 The old man straightened, as far as he could. He looked at the leaf from end to end once more, the whole length of a mountain on a board.
 

@@ -32,7 +32,7 @@ Brom's forearm had parted at the wrist for the length of a finger, where it had 
 
 Karis sat where she had sat down, and she had spoken twice since then and no more. When Seln went to her and put his coat round her shoulders she let him, and her eyes followed his hands as though they were a long way off.
 
-There were three boxes. He counted them a second time, since they had cost what they had cost. In the third, under the masonry chips, there was a bag that had not been opened since the twelfth day, and it would buy nothing whatever on this shelf.
+There were three boxes, and Brom's older ash wedge lay beside them. He counted the boxes a second time, since they had cost what they had cost. In the third, under the masonry chips, there was a bag that had not been opened since the twelfth day, and it would buy nothing whatever on this shelf.
 
 Then he counted what they had to eat, and that took less time. Brom had slung the bread bag on his own back that morning, from habit, and it held a loaf and a half and the hard end of the bacon. Seln had his flint, a twist of salt, and a water-skin a third full. Everything else had been on the cart.
 
@@ -226,11 +226,7 @@ There was nothing to see. He had half expected a light, or a colour, as there wa
 
 "All of them. That's what I pay. It doesn't come from nowhere."
 
-"Cold," said Lira suddenly.
-
-Her eyes had opened wide, and she was staring at the pale rock over her head.
-
-"No. It's going along."
+Lira's face went a colour that was not white, and she said "Cold," not to anyone, and then "No. It's going along," and put her head back and shut her eyes.
 
 "Then lie still and let it," said Oryn.
 

@@ -44,7 +44,7 @@ It was Wind, and it was hers, and it was the whole of it. He had not heard that 
 
 Wind stood up in his own feet to answer hers. He put it down.
 
-The crack went out across the gorge. He had time to see Lira turn her head toward the mountain, and then the far wall gave it back, late, as clear as a whip.
+Her declaration crossed the gorge. Its crack went with it. He had time to see Lira turn her head toward the mountain, and then the far wall gave it back, late, as clear as a whip.
 
 Thirty heads came up.
 
@@ -124,7 +124,7 @@ All nine of them were up. He had never felt them so, on the stretch or at the fo
 
 The slope lit.
 
-He saw it at the edge of his left eye and could not help turning his head. Across the face of the mountain, above the pale rock, a line of fire had stood up out of the shale. It ran from a point high over the wall's middle down and outward on either hand, straight as two rules, yellow-white, the height of a man's knee; and it was sixty yards from end to end. She had joined them. Nine points and eight channels, laid on frozen stone in the time it takes to lace a boot, and every one of them burning.
+He saw it at the edge of his left eye and could not help turning his head. Across the face of the mountain, above the pale rock, a line of fire had stood up out of the shale. It ran from a point high over the wall's middle down and outward on either hand, straight as two rules, yellow-white, the height of a man's knee; and it was sixty yards from end to end. She had joined them. Nine points and eight channels, no join longer than eight paces, laid on frozen stone in the time it takes to lace a boot, and every one of them burning.
 
 He felt her discharge go over him like the door of a furnace opening. He had stood near that Path in archives and annexes for two years. It had never been a quarter of this.
 

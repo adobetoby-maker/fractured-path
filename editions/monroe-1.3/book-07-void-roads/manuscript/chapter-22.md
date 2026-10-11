@@ -164,7 +164,7 @@ Her fingers woke for that. She had not touched it, and she did not need to. It w
 
 "You were looked for up the water," he said. "On the eighty-first."
 
-"I was up a hill, after a crew that was late."
+"I was late."
 
 He took that in, and she saw him keep it. He had a level voice. "Is it a thing you'd do?"
 
@@ -172,11 +172,7 @@ He took that in, and she saw him keep it. He had a level voice. "Is it a thing y
 
 He nodded. He had asked, and been told the price, and she saw him put it by.
 
-"They're in the yard," she said, as she passed. She could not have said why she told him. "Your five."
-
-"They're not mine."
-
-"No," said Oryn. "They're not anybody's. I noticed that."
+She nodded once and went on.
 
 ---
 
@@ -244,11 +240,11 @@ They had done two holds' work in four weeks, a drain cut and a byre roofed, and 
 
 It was the bow's hip that he minded, and he put it first, since it was the cost.
 
-He had timed the second of his two slips to end at the upper hold on the eighty-first day. That was the day the healer's round should have brought her to its gate. He had said nothing of it to the bow; he had only found a day's more work on a byre roof that might have waited, and stayed. She had not come, and nobody at that gate could say why. He had the reason now from her own mouth, in one sentence on a hill: she had been up a mountain after a crew that was late.
+He had timed the second of his two slips to end at the upper hold on the eighty-first day. That was the day the healer's round should have brought her to its gate. He had said nothing of it to the bow; he had only found a day's more work on a byre roof that might have waited, and stayed. She had not come, and nobody at that gate could say why. On the hill she had given him no more than that she was late.
 
 He did not blame her. Worst went first; he would have kept that order himself.
 
-But it was a day he had spent and a thing he had hoped for; and if the crew was the one he supposed, he had both of them to set down against five names. Pike would have said that it was the ledger. He had struck a ford off Teague's hold and given it to them, and that had cost nothing. Teague had weighed that slip against frost on a pass and chosen the pass, and a man could not be robbed of what he had put down himself. This was the first time they had cost him anything, and they did not so much as know it.
+But it was a day he had spent and a thing he had hoped for, and he could not set it down against five names. Pike had struck a ford off his hold and given it to them; that had cost nothing, because he had chosen the pass himself. The healer's lateness was not theirs on any ground he had read.
 
 The road came round the shoulder of the hill, and Oxhollow lay under him.
 
