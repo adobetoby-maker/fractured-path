@@ -6,8 +6,6 @@ The outermost was the carters' road, two pale ruts going the whole way round the
 
 Six people stood at the stone. The sun was coming up behind them over the ridge, and their shadows went before them down the old road.
 
-Nothing had changed in that low ground since they looked down on it at dusk. Seln had come in along the ruts not a quarter of an hour before, shaking his head; the frost lay unbroken on the old road as far as the floor, and the only marks that it would carry by noon were the ones that their own boots were about to make.
-
 Seln was already over. He walked as he walked every approach, without haste, with his hands a little away from his sides and the strap of a locked case across his chest. When he had gone ten yards he lifted two fingers, and Lira stepped over the stone after him, on the whole sole of the great boot.
 
 "Gone," said Karis, ten yards behind Lira.
@@ -37,8 +35,6 @@ Forty paces to the stone, and five yards beyond: that made forty-five. He knew t
 "Back," said Seln's voice, from far down the road.
 
 It was the word, and all four of them came round to it as they had agreed. But the healer had not waited for a word. She was over the stone already, running, with her coat flying out behind her; she had seen a man hit five yards from where her hands worked, and she had come to fetch him out.
-
----
 
 Cael ran too, and he was thinking as he ran.
 
@@ -100,7 +96,7 @@ And there was one on the north, kneeling.
 
 That made six, and four of them had bows. Every one was the grey of the road in a dry month. They wore hoods, and under each hood there was a cloth drawn up across the face, of the kind that carters wore against dust. Not one of them had called out, or so much as lifted a hand to another. They stood at four stations round five hundred yards of grass, outside an edge that none of them had needed a stone to find, and they looked down.
 
-"Six," said Seln. "Two at the gate, two south, one west, one north. Four bows. I walked past every one of those places twice."
+"Six, and four bows," said Seln. "I walked past every one of those places twice."
 
 "Can we rush the two?" said Brom. He was grey round the mouth, and his voice was quite steady. "It's forty yards."
 
@@ -146,8 +142,6 @@ Karis was away first, with her coat held up in both fists. Brom ran. A bolt in t
 
 It was a hundred and ninety yards of grass. He had paced none of it, and he measured it now with his lungs.
 
-Wind lay in his feet the whole way, asking. He ran on his own legs, as he had run before ever he knew that there was anything else to run on; and a boy who could have been at that hole in four breaths went down the hill at the pace of a hurt man, at the tail of his own crew, with his back to a spanned bow.
-
 At sixty the bolt came.
 
 He heard that one. It went over his right shoulder with a sound like cloth tearing, and he saw it strike, far ahead, on the grey of the floor between Karis and Seln. It did not stick. It skipped, as a flat stone skips on a pond, and went skating away across the plate with its feathers spinning.
@@ -182,7 +176,7 @@ It was Lira's voice, and it was cut short. There was a scrape, and a thud of som
 
 "Keep on," she said, between her teeth. "I've got it. I've got the bow. Keep *on*."
 
-*Twenty.* The air changed at that step. It had been the frost's air above; here it was still, and dry, and a good deal colder, as it is in a cellar that has been shut for a long time. He went down through it with the edges asking under his feet.
+*Twenty.* The air changed at that step, as if he had gone through a door; he had no time to learn how, and went down through it with the edges asking under his feet.
 
 At the fortieth there was no forty-first. His boot came down on the level, and he walked into Seln's back.
 
@@ -196,9 +190,7 @@ The tinder caught. Seln held it to the lamp, and the small brass thing took the 
 
 It showed them a room.
 
-The room took their breathing and gave none of it back. It was colder than the frost above, with the cold of a thing that has not been warm in a very long time, and it smelled as the bottom of a dry well smells, of stone and of nothing else.
-
-It was square, and Cael put it at ten strides each way. The floor was the same grey, level and seamless. So was the roof. He looked up, and it took him a breath to understand what he was looking at: the roof of that room was the underside of the floor that they had run across. There was no beam in it and no arch; it lay over them like a lid, a foot above Brom's head.
+It was square, and Cael put it at ten strides each way. The floor was the same grey, level and seamless. So was the roof. He looked up, and it took him a breath to understand what he was looking at: the roof of that room was the underside of the floor that they had run across. There was no beam in it and no arch; it lay over them like a lid, and he judged it a foot above Brom's head.
 
 The walls were cut.
 
@@ -312,4 +304,4 @@ When Lira's boots had stopped on the stair, the healer looked into the lamp. It 
 
 She blew it out.
 
-The dark came down on them like a cloth. Far up, at the head of forty steps, there was a small square of sky. Cael stood under a lid of grey stone and went over what the morning had left him. There were six of them below it, of whom two were bleeding. There were six on the rim. There were five bolts in a healer's bow and its sleeve. Of somebody else's there were three lying on the floor above, and a fourth in Brom. It was not yet the middle of the forenoon.
+The dark came down on them like a cloth. Far up, at the head of forty steps, there was a small square of sky. Two of the six under that lid were bleeding, and it was not yet the middle of the forenoon.

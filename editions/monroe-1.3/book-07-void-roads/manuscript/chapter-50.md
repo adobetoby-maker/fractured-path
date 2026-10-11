@@ -2,13 +2,13 @@
 
 They had the day in that room by the colour of one small square.
 
-It stood at the head of forty steps, a man's height on each side, and for the first hours after the lamp went out it was grey, and everything else was black. Cael learned the room by its sounds, and he went over it again and again, since it steadied him to know where each of them was.
+It stood at the head of forty steps, a man's height on each side; for the first hours after the lamp went out it was grey, and everything else was black. Cael learned the room by its sounds.
 
-Lira sat on the thirty-fourth step, six above the floor, with the bow along her knee and her eyes on the square, and Seln stood below her in the doorway at the stair's foot. Brom was on the ground against the wall beside that doorway, to the north of it, with three coats on him, and the healer sat on her heels at his left hand. Karis had gone to the wall opposite and put her back against it; and in the middle of the floor, where nobody went, a case lay in the dark with its cord.
+Lira sat on the thirty-fourth step, six above the floor, with the bow along her knee, and Seln stood below her in the doorway at the stair's foot. Brom was on the ground against the wall to the north of that doorway, with three coats on him, and the healer sat on her heels at his left hand. Karis had put her back against the wall opposite; and in the middle of the floor, where nobody went, a case lay in the dark with its cord.
 
 That was six below, and there were six above; he had Seln's word for it every hour.
 
-Seln went up for them himself: he climbed to the fifth step from the top and no higher, and lay along the stair with his chin on the stone, so that his eyes came level with the floor outside and nothing else of him did. From there, he said, the rim stood all round against the sky like the edge of a dish, and he counted what was on it. Then he came down, without a sound, and said it to the room in his mild voice.
+Seln went up for them himself. He climbed to the fifth step from the top and no higher, and lay along the stair with his chin on the stone, so that his eyes came level with the floor outside and nothing else of him did. From there, he said, the rim stood all round against the sky like the edge of a dish, and he counted what was on it. Then he came down, without a sound, and said it to the room in his mild voice.
 
 "Six. Two at the gate, two south, one west, one north. None has left his place."
 
@@ -26,11 +26,11 @@ It was a small hard tick on the roof over their heads, like a pebble dropped on 
 
 "I should say that it will take him some time."
 
-It took him the better part of the forenoon, and he did not hurry. A tick came, and a skittering, and then nothing for as long as it takes to walk a quarter of a mile; and then another. Cael counted them, since he could not help it: some fell short and rang on the far side of the roof, and one struck so near the hole that they heard it skate past the lip.
+It took him the better part of the forenoon. He did not hurry. A tick came, and a skittering, and then nothing for as long as it takes to walk a quarter of a mile; and then another. Cael counted them, since he could not help it: some fell short and rang on the far side of the roof, and one struck so near the hole that they heard it skate past the lip.
 
 "Six. Seven. Eight," said Seln, at intervals, from the doorway. He might have been reading out a floor schedule. "Nine. Ten. Eleven."
 
-The square had gone from grey to white; it was near noon, and bright up there, and a little of the brightness came down as far as the tenth step and lay on it like spilt milk.
+The square had gone from grey to white. It was near noon, and bright up there, and a little of the brightness came down as far as the tenth step and lay on it like spilt milk.
 
 Then there was a sound that was not on the roof.
 
@@ -52,11 +52,11 @@ Cael had gone to the foot of the stair, where he could see her against the white
 
 "You didn't shoot," he said.
 
-"At what? There's nobody in it." She did not turn her head. "I've one in the groove. If I loose it at a patch of sky I've an empty bow that I can't span, and Seln has to come up six steps into the light to do it for me. He'd like that, up there. He'd like to see me waste it."
+"At what? There's nobody in it." She did not turn her head. "I've one in the groove. If I loose it at a patch of sky I've an empty bow that I can't span, and Seln has to come up six steps into the light to do it for me. He'd like that, up there."
 
-"I only wondered."
+She let her breath go out.
 
-"A man on a gate-walk told me that shooting's stopping. I've stopped. I'll go on being stopped till there's something standing in that square." Her right hand moved on the stock, a finger's breadth, and lay still. "It stays in the bow."
+"I've stopped. I'll go on being stopped till there's something standing in that square." Her right hand moved on the stock, a finger's breadth, and lay still. "It stays in the bow."
 
 ---
 
@@ -70,7 +70,7 @@ There was the water, of which they had five flasks among six, since the healer h
 
 "I'm sure about the water. Somebody's got to be sure about something."
 
-There was the bread, which was his own, and black on both faces. He had it broken into six by feel, and when the healer told him that he was to eat his share and not hide it in his coat for somebody else, he ate it, with a great deal of noise, so that she should hear him do it.
+There was the bread, which was his own, and black on both faces. He broke it into six by feel, and ate his share with a great deal of noise, so that the healer should hear him do it.
 
 "I've a list," he said presently. He said it to the roof. "I've been keeping it since the ford. There was a dog that had my arm, and I drowned it. There was a cart that I had by the tail. A bowstring. Now there's a man on a hill whom I never saw." He shifted, and grunted. "It's been a better class of thing each time. I'd like that noticed."
 
@@ -80,11 +80,11 @@ There was the bread, which was his own, and black on both faces. He had it broke
 
 "I don't know," said Oryn. "But you'll sit still for it. You're grey, and you're no worse than you were, and I'd like to keep both of those."
 
-She had two fingers on his wrist again. Cael had heard her do it a dozen times since the lamp went out: there was a small shift of cloth, and then her lips, counting to thirty, and then a word, which was always the same word, *there*. She could not read him; she could count his heart as any woman in a steading could, and she did it every quarter of an hour by some clock that she carried in her head.
+She had two fingers on his wrist again. She could not read him; she could count his heart as any woman in a steading could, and she did it every quarter of an hour by some clock that she carried in her head, and said the same one word after it, which was *there*.
 
-"I learned a thing at the other one," she said, after one of those counts, to nobody. "At the stone. I learned how long an arm keeps when it's bound, and how far a person can be carried. It came to about two hundred yards." He heard her rub her palms together. "It's a little over two hundred from the head of that stair to where I'm a healer. I've been sitting here with that figure since the morning. It's a short walk. I never saw a longer."
+"I learned at the other one how far a person can be carried with a thing bound up," she said, after one of those counts, to nobody. "It came to about two hundred yards." He heard her rub her palms together. "It's a little over two hundred from the head of that stair to where I'm a healer. It's a short walk. I never saw a longer."
 
-The cold was the worst of it. There was no frost in that room, and no wind; but the stone drank the warmth out of whatever touched it, steadily, as dry ground drinks water, and Cael had given his coat to Brom, and by the middle of the white he could not feel his feet. He walked. He went along the south wall with his fingers on it, ten strides and back, and at the fourth turn his hand met wool.
+The cold was the worst of it. There was no frost in that room, and no wind; but the stone drank the warmth out of whatever touched it, as dry ground drinks water. Cael had given his coat to Brom, and by the middle of the white he could not feel his feet. He walked the south wall with his fingers on it, ten strides and back, and at the fourth turn his hand met wool.
 
 "That is my shoulder," said Karis.
 
@@ -92,33 +92,19 @@ She was sitting with her back against the stone and her knees drawn up. He could
 
 "You're reading it."
 
-"I am touching it. That is a different thing, and I had better be honest about which." Her voice was small and exact in the dark. "It is cut as the bands on those stones were cut. I can find a hooked stroke with two bars across its stem under my second finger. I rubbed that stroke on the ninety-sixth afternoon, and dropped a grain into a cup for it."
-
-"Then it's the same hand. The same sort."
-
-"I think so. I shall not say so. I cannot tell by touch whether the bars stand close or wide, and it was the close and the wide that filled my bowl." She let her hand come down. "I have a wall here that I would give a year of my life to read. It is against my spine. My paper is in a box at a stone, and there is a finger of oil in that lamp, and the oil is for his shoulder if it turns. I have gone over that three times, to see whether I could make it come out otherwise. It will not."
+"I am touching it. That is a different thing, and I had better be honest about which." Her voice was small and exact in the dark. "It is cut as the bands on those stones were cut. I can find a hooked stroke with two bars across its stem under my second finger, and I cannot tell by touch whether the bars stand close or wide; so I shall not say that it is the same hand." She let her hand come down. "I have a wall here that I would give a year of my life to read. It is against my spine. My paper is in a box at a stone, and there is a finger of oil in that lamp, and the oil is for his shoulder if it turns. I have gone over that three times, to see whether I could make it come out otherwise. It will not."
 
 "You could ask her for the lamp."
 
-"I could. She would refuse me, and she would be right, and then both of us would have had to hear it said." She was silent for a breath. "I have a notebook and a pencil. I could draw what my finger finds. I should be drawing what I supposed, in the dark, and writing a date on it. I have struck that out of better people's work than mine."
+"I could. She would refuse me, and she would be right, and then both of us would have had to hear it said."
 
 He sat down beside her, since there was nothing that he could say to it. Her hand found his sleeve in the dark, and patted it twice, clumsily, as she might have patted a book that she meant to come back to.
 
 ---
 
-It was Seln who said what the day was for, and he waited until the square had begun to lose its white.
+It was Seln who said what the day was for. He waited until the square had begun to lose its white, and then he spoke from the doorway to the whole of the room.
 
-He had come down from his count, and the six were where they had been. He stood in the doorway with what little light there was behind him, and spoke to the whole of the room.
-
-"I have had since this morning to read it, and I am fairly sure of my reading. You should have it."
-
-"Go on," said Cael.
-
-"The bolt was for the last man. It was put into him five yards inside the stone, where a healer stood watching, by somebody who can hit a shoulder at forty-five yards and chose to. They could have had any of us, anywhere. They wanted a wound that would bring her over, and a fence to shut behind her." His mild voice did not alter. "A crew with a hurt man and a healer at the stone might have fought its way back to her. A crew with a hurt man and a healer who has no hands will sit still."
-
-"That's what I said," said Oryn. "On the road. I said that it was for me."
-
-"You did. I am only setting it in its place." He went on. "There are six of them, for a rim of sixteen hundred paces. That is a quarter of a mile to each station, and nobody to spare. It is why they have not come down. If one leaves his place, there is a gap in the dish that five people might run for. They will not come in, and they do not need to."
+"I have had since this morning to read it, and you should have my reading. The bolt she read for herself, on the road, and she read it rightly. A crew with a hurt man and a healer at the stone might have fought its way back to her. A crew with a hurt man and a healer who has no hands will sit still." His mild voice did not alter. "There are six of them, for a rim of sixteen hundred paces. That is a quarter of a mile to each station, and nobody to spare, which is why they have not come down; if one leaves his place, there is a gap in the dish that five people might run for. They will not come in, and they do not need to."
 
 "Why don't they need to?" said Lira.
 
@@ -148,7 +134,7 @@ She had pitched it for him alone.
 
 "I'm not saying that you're wrong. I've an arm that says you weren't wrong the last time." Her eyes were on the square. "I'm saying that I can see it. I'd not have you think that it went by me."
 
-"There were six of them looking, on the road. Down here there's nobody; but a light shows at the top of a stair, and a warm man is a thing that somebody up there might wonder about tomorrow." He said it low. "Seln's rule is the only thing we have that they haven't. If I spend it to be comfortable, I've spent it."
+"There were six of them looking, on the road. Down here a light shows at the top of a stair, and a warm man is a thing that somebody up there might wonder about tomorrow." He said it low. "Seln's rule is the only thing we have that they haven't. If I spend it to be comfortable, I've spent it."
 
 "I know. It's a good rule." She was silent for a breath. "It's hard to watch, though. I thought that you ought to be told so by somebody who wasn't angry."
 
@@ -156,11 +142,9 @@ She had pitched it for him alone.
 
 The square was going grey when he had it.
 
-He had been at it since the morning, as he went at anything: a thing at a time, from the beginning, leaving nothing out. He did not have an answer; but he could say the whole of the question, and he had learned at a healer's table that this was most of the way.
+He had been at it since the morning, as he went at anything: a thing at a time, from the beginning, leaving nothing out. He did not have an answer. But he could state the whole of the question, and he had learned at a healer's table that this was most of the way.
 
 "I want to read it out," he said. "The whole design. Stop me where I've got it wrong."
-
-They turned toward him in the dark; he heard them do it.
 
 "There's a paper, priced so that we'd come. There's a floor at the end of it where a Wind can't run, and an Iron Skin is a big man, and an Ember can't light her own lamp, and a Shadow has a knife and fifteen years. There's a bolt, placed to bring a healer over a line. There's a fence behind her. There are four bows on a rim, far enough back that we can't reach them and near enough to shoot anybody who climbs. And there's a night." He drew a breath. "Every piece of it does one thing. It takes away what one of us can do. It's a list with six names on it and a line through each."
 
@@ -170,7 +154,7 @@ They turned toward him in the dark; he heard them do it.
 
 He let that lie.
 
-"So everything that's built on it is built for people who can do nothing. They watch the hole for somebody climbing out with his hands up. They've a fence that needs no guard, since nobody inside can so much as see it. Seln says they'll stand where they are till morning, and I think so too; they've no cause to move." He turned to the doorway. "What would they be watching for? If they thought that one of us might try something."
+"So everything that's built on it is built for people who can do nothing. They've a fence that needs no guard, since nobody inside can so much as see it, and they watch the hole for somebody climbing out with his hands up." He turned to the doorway. "What else would they watch for, if they thought that one of us might try something?"
 
 "A shout," said Seln at once. "Some declaration: a crack, a light. It is what anybody watches for in a practitioner. And on this ground it cannot come, so they are not watching for it very hard."
 
@@ -212,7 +196,7 @@ The healer had got to her feet; he could hear it, and he knew where she had stop
 
 "I know. I'm saying the rule out loud so it's been said on this floor too."
 
-He understood her. She had no hands in that room, and no purse, and a man bleeding whom she could not mend; she had one thing that was hers, and she was setting it down on the stone where he would have to step over it.
+He understood her well enough. She had no hands in that room, and no purse, and a man bleeding whom she could not mend; she had one thing that was hers, and she was setting it down on the stone where he would have to step over it.
 
 "It's been said. I heard it."
 
@@ -228,7 +212,7 @@ He gave it back to her exactly as she had given it.
 
 He went up thirty steps on his own feet, like anybody.
 
-At the fourth from the top he stopped. The square was over his head, and it was the colour of slate; he could see one star in it. Below him the stair went down into black, and he knew that a girl with one arm was looking up it at his back. He knew that Seln had turned round in the doorway and was facing the room, which was his way of saying that he had seen the thing before and did not need to see it again; and three more people were beyond the corner of that door, and could have seen nothing if they had tried.
+At the fourth from the top he stopped. The square was over his head, and it was the colour of slate; he could see one star in it. Below him the stair went down into black, and he knew that a girl with one arm was looking up it at his back. He knew that Seln had turned round in the doorway and was facing the room, which was his way of saying that he had seen the thing before and did not need to see it again. Three more people were beyond the corner of that door, and could have seen nothing if they had tried.
 
 Above him there was the lip of the floor, and a great deal of open sky. He was a yard below the level of the stone, and no person on that rim could have seen the top of his head.
 
@@ -248,7 +232,7 @@ It took the whole of his attention, and he saw that at once, and saw the price o
 
 Then there was frozen grass under him, and the old road.
 
-He took the southern of its two ruts, since that was the side that the newer bar stood on. It was a trough a foot deep and as wide as a wheel, with turf grown down into it, and it ran straight up the fall of the ground to a stone that he could not yet see; and he had a hundred and ninety yards of it to walk.
+He took the southern of its two ruts, since that was the side that the newer bar stood on. It was a trough a foot deep and as wide as a wheel, with turf grown down into it, and it ran straight up the fall of the ground to a stone that he could not yet see. He had a hundred and ninety yards of it to walk.
 
 The cold began at fifty.
 
@@ -264,7 +248,7 @@ It made no sound, since nothing that he did made any sound. But he stood for ten
 
 At a hundred and fifty there was a noise that nearly stopped that heart altogether.
 
-It was the grey mule. She was hobbled above the stone with the brown one, and she had put up her head and brayed at the dusk, long and rusty, as she had no doubt brayed at every dusk of her life. The brown mule did not bray. She had turned her ears, both together, down the old road, and she was looking straight at the place where he stood.
+It was the grey mule. She was hobbled above the stone with the brown one, and she had put up her head and brayed at the dusk, long and rusty, as she had no doubt brayed at every dusk of her life. The brown mule did not bray. She had turned her ears, both together, down the old road. She was looking straight at the place where he stood.
 
 On the brow, the sitting shape turned its hood toward the two beasts.
 

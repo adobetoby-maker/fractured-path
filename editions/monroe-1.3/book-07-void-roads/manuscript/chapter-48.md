@@ -6,19 +6,21 @@ She had called the halt herself, an hour south of the fork, where a grey rock as
 
 He knew what she meant, though he had been turned away at a bench three hours before, in six words, and had gone and sat down, and it had not once crossed his mind since that the matter might be opened again by her.
 
-It was hers to open; he saw that, and he saw also that if he was to have it, he must put the whole question over again from the beginning, as though the first had never been answered, since she would not have him take a thing that he had not asked for.
+It was hers to open. He saw that, and he saw also that she would not have him take a thing that he had not asked for; if he was to have it, he must ask it outright of the woman who was sitting on that rock.
 
 "May I read you?"
 
 "Yes. That's the answer, and I'm the one giving it, and I want you to notice that it's the same day as the lean-to and a different question, and that the rule held both times. Put your hand on it. Surface first. Count of ten. Don't go in past the count until I say."
 
-Lira had stopped chewing, and Karis, who had her notebook half out of her coat, pushed it back in.
+Lira had stopped chewing, and Karis, who had her notebook half out of her coat, pushed it back in. Cael had not stirred. There were two words in that answer which he could not make fit.
 
-"I'd three mendings just gone out of me at that bench, and eleven people looking on," said Oryn. "You'd have put your fingers on a tired woman who was being stared at, and gone off thinking that was a Tide. I told you what a first reading is. It's the reader's morning. I'd not have yours spoiled by mine."
+"A different question?"
 
-"And now?"
+"At that bench you asked the healer, at her own table, with three mendings just gone out of her and eleven people looking on. Nobody is read at that table but by me; you turned it round on me once, and I told you what that was." She pushed back her left cuff. "And you'd have had your hand on a tired woman who was being stared at, and gone off thinking that was a Tide. This is a woman on a rock, who has eaten, and walked an hour, and there's nobody here who hasn't seen her asleep. She's the one you've asked, and she can say yes."
 
-"Now I've eaten, and walked an hour, and there's nobody here who hasn't seen me asleep." She pushed back her left cuff. "And there's a reason for it, which there has to be. You said it yourself, and you said it well enough. You've read one thing in your life, and it's got no banks, and you don't know what one is. You can't tell what's missing from a thing until you've had your hands on one that's whole." Her eyes were level. "That's what it's for. It's not to learn whether your fingers work. I'd not sit here for that."
+"And what's it for? You said that there has to be something."
+
+"You told me yourself, and well enough. You've read one thing in your life, and it's got no banks, and you don't know what one is. You can't tell what's missing from a thing until you've had your hand on one that's whole." Her eyes were level. "It's not to learn whether your fingers work. I'd not sit here for that."
 
 "I know that you wouldn't."
 
@@ -30,17 +32,17 @@ It was strange beyond telling to stand so. She had stopped a stride and a half f
 
 "Breathe out," said Oryn. "You're holding it. Start when you've none left."
 
-He let it go, and under his breastbone the tenth fragment, the lightest thing that he carried, turned toward his fingers, as a person turns her head at her own name.
+He let it go, and under his breastbone the tenth fragment, the lightest thing that he carried, turned toward his hand, as a person turns her head at her own name.
 
 *One.*
 
-It went out through his right hand and into her wrist as it had gone out of his palm in a loft, blindly, like a stone dropped down a well. In himself it had come home to his own two fingers after the whole length of him. Here it came to his left, under her jaw, almost before he had counted.
+It went out through his right hand and into her wrist as it had gone out of his palm in a loft, blindly, like a stone dropped down a well. In himself it had gone the whole length of him before it came home. Here it was back under his palm almost before he had counted.
 
 *Two. Three.*
 
 There was something there.
 
-He nearly took his hands away. In himself, at ten, he had had only his own gait, quick and slow, and nothing whatever to say what it went along in. This went along *in* something. He felt the sides of it first, close on either hand, and high, and as plain as the banks of a mill-race where the stone has been laid by somebody who knew his work; he could have walked along the top of them.
+He nearly took his hand away. In himself, at ten, he had had only his own gait, quick and slow, and nothing whatever to say what it went along in. This went along *in* something. He felt the sides of it first, close on either hand, and high, and as plain as the banks of a mill-race where the stone has been laid by somebody who knew his work; he could have walked along the top of them.
 
 *Four. Five. Six.*
 
@@ -48,13 +50,13 @@ And he knew it. That was the thing that he had not been ready for. Nobody had ev
 
 *Seven. Eight. Nine.*
 
-"Tide," he said, at ten, and took both hands away.
+"Tide," he said, at ten, and took his hand away.
 
 ---
 
 "Well, I'd hope so," said Oryn. "I've been one for eleven years."
 
-She was rubbing her wrist with her other thumb, where his fingers had been, and she was watching his face with an attention that he had seen her give only to a thing on her plank.
+She was rubbing her wrist with her other thumb, where his hand had been, and she was watching his face with an attention that he had seen her give only to a thing on her plank.
 
 "It was *there*," said Cael. He heard his own voice, and it was not steady. "At three. I'd counted to ten on myself and had my own feet and nothing else. I thought that was what ten gave you."
 
@@ -76,7 +78,7 @@ She was silent for a little while, and behind him the grey mule was trying to ea
 
 She turned round on the ledge, so that her back was to him.
 
-"Your left hand on the back of my neck, under the collar. The right stays on the wrist." She held it out behind her. "It goes along from the one and comes home to the other. You know how it goes. You've had it done."
+"Your left hand on the back of my neck, under the collar. The right goes back on the wrist." She held it out behind her. "It goes along from the one and comes home to the other. You know how it goes. You've had it done."
 
 He got up on his knees. He laid his left palm on the back of her neck, under the cropped hair, where her own left hand had once lain under his for twenty minutes, and took her wrist again; and he felt her draw one long breath and let the whole of it go, as she had taught him to.
 

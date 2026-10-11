@@ -4,7 +4,7 @@ He let Shadow go while he lay in the ditch, with his arm still round a bar of th
 
 It went out of him as it had come. The sound of his own breath returned, loud and ragged, and after it the creak of frozen grass under his hip and the grey mule shifting her feet above the stone. He was a boy lying in an old rut at dusk, under the turf's lip, where nobody on that brow could have seen more of him than a shoulder; and whatever they had looked at for the last quarter of an hour, it had not been him.
 
-He drew his arm back. He could not feel it. Both his hands were dead to the elbow, with a cold that had nothing to do with the frost, and when he pushed himself up on them it was like leaning on two posts.
+He drew his arm back. Both his hands were dead to the elbow, with a cold that had nothing to do with the frost, and when he pushed himself up on them it was like leaning on two posts.
 
 He stood.
 
@@ -16,7 +16,7 @@ He did it slowly, since he wished it seen. He set his boots down on the outside 
 
 The bow came round.
 
-He had priced this on the stair. There was one bolt in that groove, and when it was gone, a boot must go into a stirrup and a hook onto a string, and a back must straighten; he had watched that man do it once, from a frozen road, and it had taken him something over twenty counts. One bolt, then, and after it twenty counts in which a bow was a stick. He had been told on a bluff never to spend the Wind near a thing whose single blow he could not price. He could price this one to a hair.
+He had priced this on the stair. There was one bolt in that groove, and when it was gone, a boot must go into a stirrup and a hook onto a string, and a back must straighten; he had watched that man do it once, from a frozen road, and it had taken him something over twenty counts. He had been told on a bluff never to spend the Wind near a thing whose single blow he could not price. He could price this one to a hair.
 
 He set his feet as Lira had taught him to set them.
 
@@ -32,7 +32,7 @@ The landing locked.
 
 Then the count was done, and Cael ran.
 
-He went up the slope on a slant, toward the old road, with the frozen grass breaking under him and forty paces of hill before him, and his hands swinging at the ends of his arms like things that he had borrowed. He counted as he ran, and it was the bowman's count that he kept and not his own: at seven the hook was on the string, and at eleven the back was beginning to come up.
+He went up the slope on a slant, toward the old road, with the frozen grass breaking under him and forty paces of hill before him. He counted as he ran, and it was the bowman's count that he kept and not his own: at seven the hook was on the string, and at eleven the back was beginning to come up.
 
 At twelve yards short of the brow he reached the lip of the old rut, and he gave up the ground.
 
@@ -64,7 +64,7 @@ The other stood two yards off.
 
 He had not run, and he had not reached for anything, since he carried nothing to reach for. He stood with his feet apart on the trodden ruts, and both hands held out before his chest, bare, with the palms turned toward Cael and the fingers a little spread. They were quite still.
 
-Cael knew that stillness. He had knelt in a chalk cut with nineteen points round him, and had watched a woman make it fifteen feet away, with the whole of her attention gone down into the ends of her fingers; it was the stillness of threading a needle. In another breath there would be something set against the front of his coat, and told to stay.
+Cael knew that stillness. He had knelt under it once in a chalk cut, and it was the stillness of threading a needle. In another breath there would be something set against the front of his coat, and told to stay.
 
 He did not let Anchor look. He had no need to; he had the hands.
 
@@ -156,7 +156,7 @@ It took a quarter of an hour. When she had finished she did not let go of the wr
 
 He paid the rest of his own bill sitting against the old iron, with his knees drawn up.
 
-It came all at once, as it had come at the stone on the Fallow. His right forearm was dead from the wrist to the elbow, where a stock had been stopped, and across his left palm there was a white weal as long as a finger. He had held a knife with a flame on its point in a hand too cold to know that the hilt was hot, and he had found it out only when he tried to open that hand again. He could not stop shaking. He had had a week of barley sacks and tables to rest in, and he had spent the whole of what it gave him between a stair and a brow, in less time than a kettle takes.
+It came all at once, as it had come at the stone on the Fallow. Across his left palm there was a white weal as long as a finger. He had held a knife with a flame on its point in a hand too cold to know that the hilt was hot, and he had found it out only when he tried to open that hand again. He could not stop shaking. He had had a week of barley sacks and tables to rest in, and he had spent the whole of what it gave him between a stair and a brow, in less time than a kettle takes.
 
 The healer looked at the palm from her stride and a half.
 
@@ -166,21 +166,17 @@ Seln had gone to the mules.
 
 He went round the three boxes under their blanket with the lamp held low, and stooped over each cord in turn, and touched nothing. When he came back his face was as it had been all day.
 
-"I tied those to be read. There is a stem of grass laid under every knot, and each is where I laid it." He set the lamp down. "Nobody has had a hand on them. I had thought that it would be so. Six people with a quarter of a mile of rim apiece do not leave it to look into a mule's load."
+"I tied those to be read. There is a stem of grass laid under every knot, and each is where I laid it." He set the lamp down. "Six people with a quarter of a mile of rim apiece do not leave it to look into a mule's load."
 
 "What did they see?" said Cael. "Tell me as you'd write it for them."
 
-"I have been composing it since you called." Seln folded his hands. "A fence was laid round that ground before light, and shut behind six people after sunrise. It held all day. At dusk it failed, at its knot, which was set on an iron bar that stands upon the very edge of the place. Directly afterward a boy stood up out of the old road beside that bar and walked across the edge. He declared a Wind, and something heavy in a ditch, and a fire, and he took a blow that ought to have broken his arm."
-
-"And between the stair and the bar?"
-
-"Nobody on that rim saw anything between the stair and the bar. I asked Lira what she saw from the thirty-fourth step. She says that she saw a stair." His mild eyes rested on Cael. "They will write that he crept up a rut in bad light while they were watching a hole. They will write that a knot tied a hand's breadth from such an edge is a knot that nobody should have trusted. A man who lays fences for his living would far sooner put that on paper than the other thing, and he has no cause to think of the other thing at all. It holds."
+"A fence that failed at dusk, at its knot, which was set on an iron bar that stands upon the very edge of the place; and directly afterward a boy, who stood up out of the old road beside that bar and declared." Seln folded his hands. "Nobody on that rim saw anything between the stair and the bar. I asked Lira what she saw from the thirty-fourth step, and she says that she saw a stair. They will write that he crept up a rut in bad light while they were watching a hole, and that a knot tied a hand's breadth from such an edge is a knot which nobody should have trusted. A man who lays fences for his living would far sooner put that on paper than the other thing, and he has no cause to think of the other thing at all. It holds."
 
 He turned, and went up the old road to the brow by himself.
 
 When he came down he had a crossbow in his hands.
 
-He brought it into the lamplight and turned it over, slowly, as he turned over any paper. It was a good bow, heavier than the healer's, with a prod of horn and sinew. The string hung from one end of it, cut, and the lock was an empty socket. He ran his thumb along the underside of the stock, and under the stirrup, and across the butt.
+He brought it into the lamplight and turned it over, slowly, as he turned over any paper. It was a good bow, heavier than the healer's, with a prod of horn and sinew, and its string hung cut from one end. He ran his thumb along the underside of the stock, and under the stirrup, and across the butt.
 
 "There was a maker's stamp here. It has been taken off with a file, and the place oiled. There is no armoury number. It was bought for one day, by somebody who meant from the first to leave it lying." His voice had not risen. Cael had never heard it so quiet. "I walked past the place where that man lay, twice. I have sat in a hole since sunrise with his bolt on the stair. I have his bow. And I could not tell you tonight whether he was tall."
 
@@ -248,7 +244,7 @@ He paused. He was choosing the next thing as he chose everything, by weight.
 
 "Yes."
 
-Teague's eyes did not leave him, and Cael waited for the rest of it. There was a great deal that a captain might fairly have asked of somebody who had just broken a rim of six with nothing in his hands: he might have asked how, and with what, and what a boy was who had a Wind's crack in him and a fire as well. Cael watched him weigh each of those, and set every one of them down again, as he had set down a question at an inn's door two nights before, since he had no means to price the answer.
+Teague's eyes did not leave him, and Cael waited for the rest of it: how, and with what, and what a boy was who had a Wind's crack in him and a fire as well. He watched the man weigh each of those and set it down again, as he had set down a question at an inn's door two nights before.
 
 "Then you're not on the board anymore. You're something the board doesn't have a column for."
 
@@ -280,9 +276,9 @@ Pike looked at the shingle, and at him, and at the shingle again.
 
 Pike said nothing more. He wrote the name. But he kept his one hand on the shingle for a breath after the ink was dry, and Teague knew that he had been read; and he found, somewhat to his surprise, that he did not mind it.
 
-He had told a boy at a door that his crew would be at Millrace in two days, and it had been true when he said it only because he had decided, between one sentence and the next, to make it true. He had been turning that over ever since. He had read a certain paper on a nail, and had hung it back, for the same reason that he had laid its fellow under a stone: there was something wrong in it that he could not put his hand on. He could not have told another captain what. A man does not walk up to a crew and hand it the hair on his own neck.
+He had told a boy at a door that his crew would be at Millrace in two days, and it had been true when he said it only because he had decided, between one sentence and the next, to make it true. He had been turning that over ever since. A man does not walk up to another crew and hand it the hair on his own neck.
 
-But he could be half a day from where the paper pointed, with a spear and a bow and a boy, on honest business. Nobody could say that it rested on nothing, since it rested on three stakes and four marks.
+But he could be half a day from where a certain paper pointed, with a spear and a bow and a boy, on honest business. Nobody could say that it rested on nothing, since it rested on three stakes and four marks.
 
 They walked at noon, and slept at the fork above the mill, without a fire, a crew's length apart; and before he lay down he counted his three by their breathing, as he did every night of his life. The bow's was the short one, since that hip had not liked the ridge.
 
@@ -294,7 +290,7 @@ It was the boy who asked, at that fork, before the blankets were down. He had a 
 
 "I heard it. I never knew you take four marks."
 
-Teague looked at him for some time. He had made it a rule, nine cold terms ago, that he would not walk three people up a road for a reason that he was ashamed to give them; and he found that the rule held on a ridge at night as it held at a plank.
+Teague looked at him for some time. He had made it a rule, nine cold terms ago, that he would not walk three people up a road for a reason that he was ashamed to give them; and the rule held on a ridge at night as it held at a plank.
 
 "There's a paper that I hung back on a nail," he said. "There's a crew that took it down. I think that it's a bad paper, and I can't tell you what's bad in it. I said to them that if they were late, we'd come and look."
 
@@ -316,7 +312,9 @@ He set two stakes with the spear and the boy, in water to the thigh, while the b
 
 The middle of the day came. He stood in the mill water with a maul in his hands and looked up at the notch in the ridge, and nobody came through it.
 
-He had not said how late. He saw that now. He had said *if you're late back*, as though late were a thing that would announce itself. He gave it one hour more by the shadow of the wheel.
+He had not said how late, and he saw that now: he had said *if you're late back*, as though late were a thing that would announce itself.
+
+He gave it one hour more by the shadow of the wheel.
 
 Then he laid the maul down on the bank, beside the third stake.
 
@@ -352,9 +350,7 @@ On the brow, where the ruts turned, two people had lain all day, and the frost s
 
 That was a crossbow. He had expected a bow of some kind. He had not expected that every sign of its owner would stop at the height of a boot.
 
-He said his piece to the boy at the stone, and it was a short piece. He had said that he saw a man walk out of the Quiet and declare, which was true. He had not said three, since he could not price three, and he had put no question about what else there was. A captain who asks a question that he has no column for has only given himself something to carry, and he had three to carry already.
-
-The healer had a big man under her hands, and kept her eyes on him.
+He said his piece to the boy at the stone, and kept it short: that he had seen a man walk out of the Quiet and declare. He did not say three, since he could not price three, and he put no question about what else there was. A captain who asks a question that he has no column for has only given himself something to carry, and he had three to carry already.
 
 He sent the spear south-about by the ruts with the lantern, and the boy with him. They were gone the better part of two hours. They came back by the north, having walked the whole of the ruts, with a crossbow each and a third across the boy's shoulders.
 
@@ -366,17 +362,21 @@ He sent the spear south-about by the ruts with the lantern, and the boy with him
 
 The bow had the three of them across his knee before they were fairly on the grass. He turned each to the lantern, and tried each empty lock with his thumb, and shook his head over them like a man at a horse fair.
 
-"Three makers, and every one's had his name filed off. I never saw the like." He looked up. "They're a deal better than mine."
+"Three makers, and not a name left on one of them." He looked up. "They're a deal better than mine."
 
 Teague did not answer him. He was looking down the old road, to where a lamp burned beside a grey stone, and a boy sat against a bar of iron with a book on his knee.
 
-He had a rank that he had never sent west. He had earned it on a ledge in the cold, where there was no station to see it, and had let the registry go on writing the old one; it had seemed to him then that what a man had done was worth more than what was put down about him. So he knew a little about being something that a book had no line for. It was a very little. He had kept back one tier. That boy had no tier to keep back. Whatever he was, it was not written anywhere at all.
+He had a rank that he had never sent west. He had earned it on a ledge in the cold, where there was no station to see it, and had let the registry go on writing the old one; it had seemed to him then that what a man had done was worth more than what was put down about him.
+
+So he knew a little about being something that a book had no line for. It was a very little, for he had kept back one tier, and that boy had no tier to keep back. Whatever he was, it was not written anywhere at all.
 
 It made Teague uneasy, and he did not pretend otherwise. But six people had lain on this rim with their faces covered and their bows unmarked, and had shot a man from behind; and one boy had stood up in front of them with a light held where everybody could see it. He knew which of those two things he would sooner have on a road beside his three.
 
 He did not sleep much. A while before the light he got up and woke them.
 
-Nobody had asked it of him. The boy at the stone had asked him for nothing, either at an inn's door or across a lantern; he had only said *noted*, and *yes*. But a crew that has been shot at from four sides through the whole of a day will keep looking up for a month afterward, and Teague had seen what that does to people. If there was a thing to be fetched out of that hole, they would fetch it better without having to watch the sky.
+Nobody had asked it of him. The boy at the stone had asked him for nothing, either at an inn's door or across a lantern; he had only said *noted*, and *yes*.
+
+But a crew that has been shot at from four sides through the whole of a day will keep looking up for a month afterward, and Teague had seen what that does to people. If there was a thing to be fetched out of that hole, they would fetch it better without having to watch the sky.
 
 He put the spear on the southern rim, where two had stood, and sent the boy west, since the boy had the legs for it. The bow he set on the north, which was the shortest walk, and he took the brow himself.
 

@@ -139,3 +139,14 @@ Letting a debt stand unpaid without picking at it (45) · a number said by a boo
 - **The four crossbows** are in a row by the stone on the 115th, one of them in two pieces, and are left there. Nobody of the six carries one away; their later use is not decided here.
 - **The boxes were not opened by the six:** Seln had laid a stem of grass under every knot, and each is where he laid it.
 - **Karis says "Gone" at the stride; Lira says "Gone" and "Back" under her breath on the perimeter.** Movement 8's use of the pair at the Hall is not spent: nothing here is made of the words.
+
+## Changes in repair round 1 (2026-10-11; see `REPAIR-REPORT-r1.md`)
+
+- 113th, Millrace: he asks the healer at her own bench, with her line waiting, and is refused; on the road she offers as herself. Two questions, one day (her protected words).
+- 113th, the road: the short reading is done with one hand, his right on her wrist; the second hand comes only for the minute of the long one.
+- 114th: no event added or removed. The chamber's roof was called a foot above Brom's head at a crouch.
+- 115th, the stair: Lira takes up the bolt from the thirty-first step; Brom sees a lamp flame standing straight before anybody names the twentieth step; the cold and the smell of nothing are said inside, by Oryn.
+- 115th, the chamber: ten strides paced; the roof found to be a hand above Brom's head. No groove: the line that Karis keeps for the last of the oil lies between the courses, on every wall, and recurs at the perimeter's radius (protected).
+- 115th, the kit: read from the cord inward (cord run out half way, mallet, bar, book), and the open case named last.
+- 115th, the ledger: its eight stations are the old irons; Seln dates it with them, five cold terms; the stroke-and-bar is two visits, the later one undated.
+- 115th, the stone: the rim's shafts are laid in a row and not counted aloud; the log line about the round and the sheets is cut.

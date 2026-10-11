@@ -102,7 +102,7 @@ He got up off the bench and went to the edge of the turf roof's shadow, and stop
 
 He had turned it over on the ridge since before the sun was up, and it had seemed a plain enough thing there. It was harder in front of her, with her sleeves pushed back and three mendings gone out of her since first light.
 
-"I've read one thing with what I had from you, and it was myself. I found no bank in it anywhere, as you found none. I don't know what a bank is like under the hand. I've only your word that there is such a thing." He kept his own hands at his sides. "I'd go back to it better if I had felt one. So I'm asking whether I may read you. Here, or afterward, or on a day you name. The short one, and no more than you choose."
+"I've read one thing with what I had from you, and it was myself. I found no bank in it anywhere, as you found none. I don't know what a bank is like under the hand. I've only your word that there is such a thing." He kept his own hands at his sides. "I'd go back to it better if I had felt one. So I'm asking whether I may read you, here, when the bench is done. The short one, and no more than you choose."
 
 He heard Lira's breath stop, on the bench behind him.
 
@@ -120,7 +120,7 @@ Lira was getting to her feet beside him, with her right hand already at the knot
 
 He took Hesk's book out of the satchel. He had written nothing in it yet that day, and he wetted the pencil and put this down before anything else, with the date over it, so that it should stand first.
 
-*Hundred and thirteenth day. Millrace, the healer's bench, a little after noon. Asked her whether I might read her. It is the first time that I have asked anybody. She said no. Entered before anything else today, since it is the first of its kind and I want it to head the leaf.*
+*Hundred and thirteenth day. Millrace, the healer's bench, a little after noon. Asked her, at her own bench, whether I might read her. It is the first time that I have asked anybody. She said no. Entered before anything else today, since it is the first of its kind and I want it to head the leaf.*
 
 Karis had been reading it upside down, from his other side.
 

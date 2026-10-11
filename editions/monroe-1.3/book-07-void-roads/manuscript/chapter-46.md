@@ -264,11 +264,13 @@ The frost was coming down, and he could hear it, very faintly, in the grass. Fou
 
 He began with what he knew, which was the clerk.
 
-He had never met the man. He knew that he was no longer young, since his capitals were of a pattern that had not been taught for twenty years; that he ruled his own sheets and had been given a damaged wheel to do it with; and that he had been told what to write and nothing about why. Seln could hear the dictation in it. *South of Lowmarch; the first day.* A clerk left to himself would have put *one day south*. Somebody had stood at that man's shoulder with a surveyor's notes in his hand and read them out a stop at a time, and the clerk had set them down as they came.
+He had never met the man. He knew that he was no longer young, since his capitals were of a pattern that had not been taught for twenty years; that he ruled his own sheets and had been given a damaged wheel to do it with; and that he had been told what to write and nothing about why.
+
+Seln could hear the dictation in it. *South of Lowmarch; the first day.* A clerk left to himself would have put *one day south*. Somebody had stood at that man's shoulder with a surveyor's notes in his hand and read them out a stop at a time, and the clerk had set them down as they came.
 
 So there had been two people in that room, at the least: there was a hand that wrote, and a voice that knew the ground.
 
-He had spent fifteen years as the first of those. He knew what it was to write a true line at another person's bidding and not be told what the line was for. He had written sixty-three subjects into bundles in that way, each of them a person with a face that he could have drawn; and he had sent every bundle up a stair to people whom he had never once seen.
+He had spent fifteen years as the first of those, and he knew what it was to write a true line at another person's bidding without being told what the line was for. He had written sixty-three subjects into bundles in that way, each of them a person with a face that he could have drawn; and he had sent every bundle up a stair to people whom he had never once seen.
 
 That was the part of it that he had not been able to make four friends understand, and tonight he had not tried.
 
@@ -276,13 +278,17 @@ He let himself go back to the corridor, which he allowed seldom. It was distempe
 
 After that there had been a press, in a records room on a top floor, and five weeks, and a case.
 
-Twelve years. He had kept it by never once describing it. He had carried it from posting to posting in the bottom of a satchel, under his shirts, and written *nothing to report* every week over the top of it; and in all that time he had never learned the name of one person who had made what was inside. He knew their paper. He knew how they folded it, and where they filed it, a little above where it should have sat, as only somebody could who was able to reach. He had their handwriting by heart, and it had not one face in it.
+Twelve years. He had kept it by never once describing it. He had carried it from posting to posting in the bottom of a satchel, under his shirts, and written *nothing to report* every week over the top of it; and in all that time he had never learned the name of one person who had made what was inside.
 
-He had been taught four grades of pressure, in their order. There was the record, and then the instrument, and then the knock, which was paper that nobody would own. Last came the hand, which was a road with no paper at all. He had believed for fifteen years that the hand was the worst of them. Then four people had come home to a hill from a chalk cut on the Ostrand road, and had told him what the hand looked like when it came: people with staves, who did their work without a word, and broke off in four heartbeats, and left nothing behind them but footmarks. He had told them that what stood in that road was a glove.
+He knew their paper: how they folded it, and where they filed it, a little above where it should have sat, as only somebody could who was able to reach. He had their handwriting by heart, and it had not one face in it.
+
+He had been taught four grades of pressure, in their order. There was the record, and then the instrument, and then the knock, which was paper that nobody would own. Last came the hand, which was a road with no paper at all. He had believed for fifteen years that the hand was the worst of them.
+
+Then four people had come home to a hill from a chalk cut on the Ostrand road, and had told him what the hand looked like when it came: people with staves, who did their work without a word, and broke off in four heartbeats, and left nothing behind them but footmarks. He had told them that what stood in that road was a glove.
 
 A glove had something inside it. He had thought so then, and had kept it to himself, since it was not a finding.
 
-Now there was a fifth grade, which nobody had taught him, and he had held it in his two hands tonight. It was a lure. A lure was a different kind of thing from the other four. The record could be kept by nobody in particular, and the instrument read by any clerk; the knock came through a door and the hand out of a ditch. But something had to be done about a lure when it was taken. Somebody had to be there.
+Now there was a fifth grade, which nobody had taught him, and he had held it in his two hands tonight. It was a lure, and a lure was a different kind of thing from the other four. The record could be kept by nobody in particular, and the instrument read by any clerk; the knock came through a door and the hand out of a ditch. But a lure that is taken must be met. Somebody had to be there.
 
 *People have faces.*
 
@@ -296,25 +302,31 @@ What he wanted was smaller than that, and he thought that it was worse.
 
 He wanted to know that it was done by persons.
 
-For twelve years the thing in the case had been like weather to him. It had fallen on forty children, and on a good many more before them, as rain falls on a field; and a man does not go looking for the face of rain. He files what it did; and Seln had filed it, and had been very good at that, and it had let him sleep. But a boy had come up a hill with a word on his file where a tier should have been, and had looked at every instrument that was turned on him as though somebody had built it. That had been the end of the weather. If a thing was built, then there was a builder, with a walk, and a way of holding a pen, and a tiredness at the end of the day. Seln found that he could no longer do without seeing one. He wished to stand on the same ground as a single one of them, in daylight, and learn what a person looked like who did this for his living.
+For twelve years the thing in the case had been like weather to him. It had fallen on forty children, and on a good many more before them, as rain falls on a field; and a man does not go looking for the face of rain. He files what it did; and Seln had filed it, and had been very good at that, and it had let him sleep.
+
+But a boy had come up a hill with a word on his file where a tier should have been, and had looked at every instrument that was turned on him as though somebody had built it. That had been the end of the weather. If a thing was built, then there was a builder, with a walk, and a way of holding a pen, and a tiredness at the end of the day. Seln could no longer do without seeing one: he wished to stand on the same ground as a single one of them, in daylight, and learn what a person looked like who did this for his living.
 
 It was a clerk's want, since a file wanted a name at its head; he did not think that it was a noble one, and he entered it as it stood.
 
 Then he audited his vote, since he owed that.
 
-He had been asked what he would do, and he had answered for himself, and he had said that it should count for one hand. All of that was correct. It was also true that four people had heard him want something for the first time in two years, and that three of them were of an age to be moved by it. He had seen the researcher shut her mouth on a question. He had seen the big one look at him as he looked at a load that had shifted. Had he put his thumb on the scale? He thought not. The boy had ruled on his own ground, and the boy's reason was better than his: it was about what the paper did not know, and it would have stood if Seln had never spoken.
+He had been asked what he would do, and he had answered for himself, and he had said that it should count for one hand. All of that was correct. It was also true that four people had heard him want something for the first time in two years, and that three of them were of an age to be moved by it. He had seen the researcher shut her mouth on a question. He had seen the big one look at him as he looked at a load that had shifted.
+
+Had he put his thumb on the scale? He thought not. The boy had ruled on his own ground, and the boy's reason was better than his: it was about what the paper did not know, and it would have stood if Seln had never spoken.
 
 He was not certain. He wrote that down too, in the place where he kept such things, which was nowhere.
 
 There was a way to be certain, and he had been looking at it since the fire was banked.
 
-The paper followed the case. He had said so himself. If the case were to go south tonight, by itself, on one man's chest, then by first light there would be nothing at this fire that anybody in the west had priced. Five people would wake to a walk at fifty and a fence at forty. He knew the south road; he had walked the first hours of it alone in their second week here, as he had walked every road out of this town. He could be on the ridge before the stars turned, and he would have his face, very likely; and an arm two weeks old would never come within a mile of that floor.
+The paper followed the case. He had said so himself. If the case were to go south tonight, by itself, on one man's chest, then by first light there would be nothing at this fire that anybody in the west had priced. Five people would wake to a walk at fifty and a fence at forty.
+
+He knew the south road; he had walked the first hours of it alone in their second week here, as he had walked every road out of this town. He could be on the ridge before the stars turned, and he would have his face, very likely; and an arm two weeks old would never come within a mile of that floor.
 
 His hand was on the strap, and he let it stay there, and looked at the thing squarely.
 
 He had lost an argument on a shelf above a valley with no name, on the second night past the Line. He had proposed that the watches should be his to arrange as he judged best, since he had fifteen years of judging them; and a girl with a ruled table had told him that the rota was not set aside for anybody's judgment, his own included. He had been angry for an hour and grateful ever since. A man who has decided things alone for fifteen years does not stop because he has resolved to; he stops when four people will not let him.
 
-And there was the other reason, which he had given a boy in a loft. He had told him that he would sooner see a healer warned of what might be done to her than be used as the reason for keeping her ignorant. If that was good for a healer, it was good for a crew. He could not carry the danger off in the night and leave them to find a cold place under a tree. That was the service's way. It had been his own way, every week, for fifteen years: to know what was best for a subject, and arrange it, and say nothing.
+And there was the other reason, which he had given a boy in a loft. He had told him that he would sooner see a healer warned of what might be done to her than be used as the reason for keeping her ignorant. If that was good for a healer, it was good for a crew. He could not carry the danger off in the night and leave them to find a cold place under a tree. That was the service's way, and it had been his own, every week, for fifteen years: to know what was best for a subject, and arrange it, and say nothing.
 
 He had resigned from that. He had merely never filed it.
 

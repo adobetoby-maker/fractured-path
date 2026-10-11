@@ -2,9 +2,7 @@
 
 Cael went up to the brow when the sun was a hand above the ridge, and the man who stood there did not turn round until he was within five paces.
 
-It was the hundred and fifteenth morning. He had slept as a stone sleeps, and woken to find that the ground came to his feet when it should, and that his right arm would bend. His left palm was wound in what remained of a roll of tape. He had counted four upright shapes on the rim before he had his boots on, one at each of the places where a hood had stood the day before; and for the length of a breath he had been on his feet with nothing in his hands.
-
-Then he had seen that every one of the four had a face.
+It was the hundred and fifteenth morning. He had slept as a stone sleeps, and woken to find that the ground came to his feet when it should, and that his right arm would bend. His left palm was wound in what remained of a roll of tape. He had counted four upright shapes on the rim before he had his boots on, one at each of the places where a hood had stood the day before, and he had been on his feet with nothing in his hands before he saw whose they were.
 
 "You've put your crew round it," he said.
 
@@ -14,7 +12,7 @@ Then he had seen that every one of the four had a face.
 
 "Then you'll be an hour or two with your backs to the sky. I'd not care to be, after yesterday." His grey eyes came round. "We'll hold it till you're up."
 
-Nobody had asked it of him. Cael had lain against a bar of iron the night before, shaking, and had watched a lantern go away round a quarter of a mile of ruts to look for whatever six people had left; he had thought then that it was more than a captain owed to a crew ten lines under him, and he had not known how to say so. He did not know now. He had one word for a thing that he could neither refuse nor repay, and he had already given it to this man once.
+Cael had lain against a bar of iron the night before, shaking, and had watched a lantern go away round the ruts to look for whatever six people had left; he had thought then that it was more than a captain owed to a crew ten lines under him, and he had not known how to say so. He did not know now. He had one word for a thing that he could neither refuse nor repay, and he had already given it to this man once.
 
 "Noted," he said.
 
@@ -40,7 +38,7 @@ It took Lira the first three cords to learn the trick of it, and after that she 
 
 "Gone," she would say, under her breath. "Back. Gone. It's like a wall that you can lean your foot on."
 
-At each cord's end Seln knelt and cut a turf, and Karis came up along the rope, counting, and laid her short cord from the turf to the place where the long one would next lie; and at every station it was the same short measure, as it had been on the Fallow.
+At each cord's end Seln knelt and cut a turf, and Karis came up along the rope, counting, with her short cord in her other hand.
 
 They went the whole way round, with the Quieting on their right hand and four people watching from the rim.
 
@@ -54,33 +52,45 @@ Karis went down the page with her pencil, twice. Then she turned back in the not
 
 "It is the same," she said. "Cord for cord, and the odd strides are the same number of strides." Her voice was not quite steady. "I said two hundred, from the ridge, by my eye, and I was twenty short of it, and a stride. It is the Fallow's round, and so it is the Fallow's radius."
 
-"The same size," said Lira. "The both of them."
+"Then they're the one size," said Lira.
 
-"To a stride. I should like somebody to tell me how a thing comes to be the same size twice, five days' walk apart, by accident." She shut the book on her finger. "Nobody will. I am going down to look at a wall."
+"To a stride. I should like somebody to tell me how that comes about by accident, five days' walk apart." She shut the book on her finger. "Nobody will. I am going down to look at a wall."
 
 ---
 
-They went down with two lamps, and the stair was a different place. Karis had filled her brass one to the neck from the can in the left-hand box.
+The bolt lay where it had stopped, on the thirty-first step, with its three grey feathers turned to the wall.
 
-The day before, Cael had gone down it at a run, in the dark, counting edges. He walked it now behind Teague's lantern. The steps were the grey of the floor, cut out of it and not laid; every edge was as sharp as on the day that it was made, since no foot had ever worn one. On the thirty-first a bolt lay, with three grey feathers, and Lira bent and took it up as she passed, and put it through her belt.
+Lira bent for it as she passed, and put it through her belt.
 
-"That's twelve," she said. "He'll want it for his count."
+"That's twelve. He'll want it for his count."
 
-At the twentieth the air changed, as it had changed in the dark, and both flames stood up straight and still. It was colder there than the frost had been, and there was no smell in it of earth, or of water, or of anything that grows.
+They were going down with two lamps. Karis had filled her brass one to the neck from the can in the left-hand box, and Teague's horn lantern swung in Seln's hand at the head of the file; and by the pair of them the stair was a different place from the one that Cael had gone down at a run. The steps were the grey of the floor, cut out of it and not laid. Every edge was as sharp as on the day that it was made, since no foot had ever worn one.
 
-They were all six of them on that stair. The healer came last.
+"Your flame's wrong," said Brom.
 
-She had said at the stone that she would not sit outside a second day and listen. Four people were holding the rim who knew what a crossbow was; and she had found out what it was worth to be on the right side of a line when the line was shut. She meant to be where a certain shoulder was; and if anything opened, it could be carried up forty steps and two hundred yards with her walking beside it.
+He was speaking to Karis, over her shoulder. His right arm was bound across his chest, and he had not once put his left hand to the wall.
 
-Brom went in front of her, with his right arm bound across his chest, and did not once put his hand to the wall.
+"It's stood like that since a good way back. Like a nail. No lamp burns so on a stair."
 
-Cael catalogued the room properly, since nobody had been able to the day before.
+Karis held the brass thing up. The flame in it stood as straight as a ruled stroke, and it did not lean when she moved, or when she breathed on the glass.
 
-It was ten strides from the door to the western wall, and ten across, and he paced both. The roof was the underside of the floor that they had crossed, a foot above Brom's head, without a beam or a crack; he held the lantern up to it and found his own light looking back at him, dully, as from still water. The floor was the same, and there was dust on it. It lay as thin as the bloom on a plum, and it had taken their boots of yesterday along the northern wall and beside the door, and nobody's anywhere else.
+"Since the twentieth," said Seln, without turning round. "I was counting. The air stops there. I had it yesterday in the dark, by the feel of it on my face, and took it for my own fear."
 
-The walls were what he had seen by one small lamp, and a great deal more.
+So had Cael. He kept that to himself, and went down the last nine steps behind a light that did not flicker.
 
-They were cut from the floor to the roof. The work ran in courses, one above another, five to a wall, each as tall as a forearm; and in every course the fine sunk lines stood side by side in their groups, straight and hooked and crossing, as close as the words on a page.
+The healer came last, and it was she who said the rest of it, when all six of them stood inside the door.
+
+"It's colder than the frost up there," said Oryn. "And it smells of nothing. A cellar smells of earth, and a well of water. I've been in sick-rooms shut up for a month that had more in them to breathe than this."
+
+She had said at the stone that she would not sit outside a second day and listen. Four people who knew what a crossbow was were holding the rim, and she meant to be where a certain shoulder was; if anything opened, it could be carried up forty steps and two hundred yards with her walking beside it.
+
+Cael paced the room from the door to the western wall, and then across. It was ten strides each way, as he had put it the day before, and that much of his count held. The roof did not. He had called it a foot above Brom's head; and Brom put up his left hand, and his palm lay on the grey with the elbow still bent.
+
+"A hand," said Brom. "I'd have had my hair in it yesterday, if I'd stood up straight. I wasn't standing up straight."
+
+None of them had been. They had seen that room once, for as long as a healer needed a lamp, with a bolt in one of them; and Cael went round it now as he would have liked to then. The roof was the underside of the floor that they had crossed, without a beam or a crack, and when he held the lantern up to it he found his own light looking back at him dully, as from still water. The floor was the same grey. There was a dust on it as thin as the bloom on a plum, which had taken their boots of yesterday along the northern wall and beside the door, and nobody's anywhere else.
+
+The walls were cut from the floor to the roof. The work ran in courses, one above another, five to a wall, each as tall as a forearm; and in every course the fine sunk lines stood side by side in their groups, straight and hooked and crossing, as close as the words on a page.
 
 Karis stood in the middle of the eastern wall with her lamp held up, and for some time she did not move at all.
 
@@ -90,7 +100,7 @@ Karis stood in the middle of the eastern wall with her lamp held up, and for som
 
 "No. I have six hours of oil and a roll of paper; I can sample it, and I shall have to choose." She had not taken her eyes from the stone. "It is the same hand. I may say that now, since I can see the bars."
 
-The healer had stopped inside the door, at her stride and a half from the nearest wall. She had been round eleven stones on the Fallow thirty times and had never gone near enough to see that they were cut, and she had sat with her back to this for a whole day in the dark. She held up her two palms to it, slowly, as she held them to a patient whom she had not yet touched; and then she let them fall.
+The healer had stopped at her stride and a half from the nearest wall. She had been round eleven stones on the Fallow thirty times and had never gone near enough to see that they were cut, and she had sat with her back to this for a whole day in the dark. She held up her two palms to it, slowly, as she held them to a patient whom she had not yet touched; and then she let them fall.
 
 "What are they," said Oryn.
 
@@ -100,7 +110,7 @@ It was hardly a question. She had put it to the wall.
 
 She said it at once, without turning round.
 
-"I do not know that they are letters. I said so on a floor nineteen days ago, and I have counted them every day since, and I do not know it yet. They are lines, cut in groups, by somebody who meant something, and that is as far as I can swear." Her lamp moved along the course. "It is a great deal farther than I could swear a month ago."
+"I do not know that they are letters. I said so on a floor nineteen days ago, and I do not know it yet. They are lines, cut in groups, by somebody who meant something, and that is as far as I can swear." Her lamp moved along the course. "It is a great deal farther than I could swear a month ago."
 
 ---
 
@@ -114,23 +124,23 @@ He went on his knees, with Teague's lantern set down on the stone and pushed ahe
 
 "We can look."
 
-It was a case. He had taken it for one by lamplight, and it was plainer by two: a flat box as long as a man's arm, of board covered with tarred canvas, with a strap to go over a shoulder. The lid stood open and thrown right back. Nothing was left in it.
+It was the cord that Cael's eye went along first, since it was the only thing there that was going anywhere. It ran out over the floor toward the eastern wall, pale and thin, with a knot in it at every fifth span, and it lay as straight as a ruled line for half the width of the room. There it stopped. The rest of its length lay beside it in a coil that nobody had paid out.
 
-Everything that it had held was on the floor beside it, in a row.
+Somebody had been measuring from the middle of that room to its wall, and had got half way.
 
-"He was at work," said Seln quietly. "A man who is packing puts things in. These have been taken out, and laid down in the order of taking, by somebody who meant to pick them up in the same order when he had done."
-
-There was a book, nearest the case, lying open on its face, and a mallet with an iron-bound head; and beside the mallet lay a square bar of iron as thick as two fingers. And from the case's other end a cord ran out along the floor, pale and thin, toward the eastern wall. It had a knot in it at every fifth span, and it lay as straight as a ruled line for half the width of the room; then it stopped, with the rest of its length in a coil.
-
-"That's all?" said Brom. He sounded almost injured. "I said that a kit was a cart's worth. I said brass."
+"A mallet," said Brom. He was naming them as he came to them, like a man going along a bench of tools. "Iron on the head of it. A bar. And that's a book, on its face." He sounded almost injured. "Is that all? I said that a kit was a cart's worth. I said brass."
 
 "It is a kit for one thing," said Karis. She had come away from her wall at last. "A cord to find how far, and a bar to mark where; a mallet for the bar, and a book to say that it was done. He did not come to map this country. He came to put iron on an edge."
 
-She knelt by the bar. Cael held the lantern for her.
+The thing that they had come out of stood behind them all. Cael had taken it by one small lamp for the whole of what was there: a flat case as long as a man's arm, of board under tarred canvas, with a strap to go over a shoulder. Its lid was thrown right back, and nothing was left in it.
+
+"They lie in the order that they came out," said Seln quietly. "The cord, and the mallet, and the bar; and the book last and nearest, since a man writes last. Nobody packs so. He meant to take them up again."
+
+Karis knelt by the bar, and Cael held the lantern for her.
 
 It was the same pattern as the two at the stone, and it was clean, since no rust had come to it in that dry cold. Under the beaten head there was the registry's stamp; and under the stamp, punched deep, were two figures, and beneath the figures a short upright stroke with a bar across its foot.
 
-"Thirty-two," said Lira. "With the mark. It's the fellow of the newer one."
+"Thirty-two," said Lira. "And it's got the mark that the newer one has."
 
 "It was never driven," said Seln.
 
@@ -148,7 +158,7 @@ She sat back.
 
 "He tried to drive it. Twice, by the head. It wouldn't go. Nothing goes into this."
 
-Cael thought of a man kneeling where she knelt, with that mallet in his fist, in a room under the ground. He had come down forty steps to set a bar of iron in the middle of the thing that he had been sent to measure. He had struck it once, and looked. He had struck it a second time, harder. And then he had laid the mallet down beside the bar, quite neatly, and had not struck a third.
+Cael thought of a man kneeling where she knelt, with that mallet in his fist, in a room under the ground. He had struck it once, and looked. He had struck it a second time, harder. And then he had laid the mallet down beside the bar, quite neatly, and had not struck a third.
 
 "So where is he?" said Brom.
 
@@ -184,15 +194,19 @@ He went on to the next line before anybody could ask him again.
 
 "Then there are distances, measured in cords, as she measures; his cord is that one, knotted at the fives. He begins at the edge. *North station to floor.* *East station to floor.* There are eight of those, by the points of the compass and the half-points, and against every one of them he has put the same figure."
 
-"The same," said Karis, to the wall.
+"His stations are the old irons," said Karis, to the wall. "There was a bar at each of those eight points this morning, scaled as the old one at the stone is scaled. I had a turf within a boot of every one."
 
-"The same, eight times. He seems to have found that as remarkable as you did, since he has underlined the eighth."
+"Then this is the book of whoever drove them." Seln kept his eyes on the leaf. "I put five cold terms on the old iron at the stone, and I see no cause to alter that for his book."
 
-"And then?"
+"The bar in his kit's got the other one's mark," said Lira. "The newer one's."
 
-"Then a line by itself. *Reach, edge to centre.* She would call it the radius. It is in his own figures, and he has gone over it twice with the pencil, so that it has cut the paper." Seln read it out.
+"It has. So that mark lay in this man's case five cold terms ago, and somebody set the same on a bar at our stone a good deal later. Those are two visits, and I can tell you no more of them. I said that I should not put a meaning on two strokes of a punch; I shall not put a date on them either."
 
-Cael saw Karis's shoulders move, though she said nothing. She turned her head, a very little, toward the leaf of her own that she had filled that morning, which lay on the lid of the middle box; and then she turned back to the stone.
+"And after the distances?" said Karis.
+
+"A line by itself. *Reach, edge to centre.* She would call it the radius. It is in his own figures, and he has gone over it twice with the pencil, so that it has cut the paper."
+
+He read it out, and she wrote it down without turning her head.
 
 "Below that he has a few lines on the floor and the stair, such as she has in her own table. I shall read them to her when she has a hand free." Seln turned the leaf. "And on the second page there is one line only."
 
@@ -210,7 +224,9 @@ Seln read it as it stood.
 
 A sheet of thin paper slid down the eastern wall and folded itself on the floor.
 
-Karis had let go of it. She had been kneeling at the lowest course, with her left hand spread to hold the sheet and her right about to begin; and she had come up off her knees as if somebody had laid a cold hand between her shoulders. She stood with her back to the stone, and she had gone white, and then red, and both her hands were open at her sides.
+Karis had let go of it. She had been kneeling at the lowest course, with her left hand spread to hold the sheet and her right about to begin; and she had come up off her knees as if somebody had laid a cold hand between her shoulders.
+
+She stood with her back to the stone, and she had gone white, and then red, and both her hands were open at her sides.
 
 "Say that again," she said. "The last word."
 
@@ -232,11 +248,11 @@ Lira had picked up the fallen one already, and was holding it out.
 
 They were six hours in that room, by the oil.
 
-Karis worked along the walls on her knees, and then standing, and then on Brom's bent back, which he offered without being asked and would not hear refused. She did not rub everything; she went down each course with her lamp held close and her lips moving, and wherever a group of strokes stood that she had not yet got on paper, she put out her hand behind her.
+Karis worked along the walls on her knees, and then standing, and then on Brom's bent back, which he offered without being asked and would not hear refused. She did not rub everything; she went down each course with her lamp held close and her lips moving, and wherever a group of strokes stood that she had not yet got on paper, she put out her hand behind her. Twice she left the paper altogether, and walked the foot of a wall with the short cord in her fist, counting, and wrote a figure where nobody could see it.
 
 "Sheet."
 
-It was there. It was there every time. Lira could not hold a sheet against a wall and rub it; that wanted two hands. But she had the roll under her right arm and the pebbles in her belt, and before the first hour was out she had learned the walls better than their reader. She had counted the courses, and had seen that a group which stood in the second course of the east wall came again in the fourth course of the south; and she was standing at the south wall with a sheet torn off and ready while Karis was still on her knees at the east.
+It was there, as it was every time. Lira could not hold a sheet against a wall and rub it; that wanted two hands. But she had the roll under her right arm and the pebbles in her belt, and before the first hour was out she had learned the walls better than their reader. She had counted the courses, and had seen that a group which stood in the second course of the east wall came again in the fourth course of the south; and she was standing at the south wall with a sheet torn off and ready while Karis was still on her knees at the east.
 
 "Sheet," said Karis, and found it against her fingers. She frowned. "I had not asked."
 
@@ -250,17 +266,17 @@ It was there. It was there every time. Lira could not hold a sheet against a wal
 
 "You do," said Oryn, from the door.
 
-Cael wrote. His right arm would not carry a pencil for more than a line together, and he did it with the left, in a hand that a child might have been ashamed of. Seln read him the slips of bark out of the middle box, one after another: every group that had been drawn at a trestle in a barn, with its number. Karis called from the wall. *That is the hook with two bars. It is on the east, second course. It is close.* He put a stroke against the slip. *That is the same hook. South, fourth. Close again.*
+Cael wrote, with his left hand, as he had written the stations. Seln read him the slips of bark out of the middle box, one after another, every group that had been drawn at a trestle in a barn; and Karis called from the wall where each one stood here, and whether its bars were close or wide, and he put a stroke against the slip.
 
 "It is close on both," said Karis, an hour later, in a voice that he had not heard from her before. "It was wide on the ninth stone. So wide was only the ninth stone. It comes out of the bowl, and it goes into the cup with its fellow."
 
-The cup and the bowl stood on the lid of the box, where the lamp could reach them; she had carried them from Thornwater in a twist of cloth. One by one, through the afternoon, he watched the grains leave the bowl: some went into the cup, and some she laid on the stone by themselves, in a row, and those were the ones that the second floor had told her were no kind at all.
+The cup and the bowl stood on the lid of the box, where the lamp could reach them; she had carried them from Thornwater in a twist of cloth. One by one, through the afternoon, he watched the grains leave the bowl: some went into the cup, and some she laid on the stone by themselves, in a row, and those were the ones which the second floor had shown her to be no kind at all.
 
 There were twenty-nine sheets when the first lamp began to gutter.
 
 She came to the box then, and sat down on the floor in front of it with her skirt full of pencil dust, and tipped out the cup.
 
-She counted the grains back into it, one at a time, with all of them standing round and Brom holding his breath, and then she did it a second time. Then she uncovered a figure in the corner of a leaf, which had had her thumb over it for twelve days, and looked from that to the cup.
+She counted the grains back into it, one at a time, with all of them standing round and Brom holding his breath. Then she uncovered a figure in the corner of a leaf, which had had her thumb over it for twelve days, and looked from that to the cup.
 
 "The cup was under it, and the cup and the bowl together were over it. I knew that it lay between, and I would not say where." She set the last grain down.
 
@@ -268,17 +284,17 @@ She counted the grains back into it, one at a time, with all of them standing ro
 
 "Kinds," said Lira.
 
-"Kinds. Forty-one on the Fallow, when the doubtful ones are taken out or let in as this wall bids, and forty-one here. I have been over these four walls for six hours, looking for a forty-second, and there is none; and there is not one of the forty-one that is wanting." She looked up. "A man with apple trees told me that I wanted to see them both at the thaw. I have seen them both."
+"Kinds. Forty-one on the Fallow, when the doubtful ones are taken out or let in as this wall bids, and forty-one in the courses here. I have been over the courses of these four walls for six hours, looking for a forty-second, and there is none in them; and there is not one of the forty-one that is wanting." She looked up. "A man with apple trees told me that I wanted to see them both at the thaw. I have seen them both."
 
 She wrote it down, and underlined it once.
 
-There was one thing more, and she had kept it for the last of the oil.
+There was one thing more, and she had kept it for the last of the oil. She had been over the Fallow's eleven strips for four days at a trestle in a barn, and she had every stroke of them by heart.
 
 She went to the eastern wall's sheets, knelt on one knee, and put the end of her pencil on a line.
 
 "This one. It's not on the Ring. I looked for it for four days and it isn't on any upright. It's here, on every wall, and it's not in the courses with the rest — it's *between* them. On its own. Here." The pencil moved along the sheet to the next one, and the next. "And here. And here. I've paced the spacing because I pace things. It comes every — " she looked at the notebook, where she had written it, and read it out as a number she had checked twice — "every ten cords and a piece. Two hundred and twenty yards and a stride, to the stride. It recurs, on the wall, at the perimeter's radius."
 
-She had gone quite still with the sheet in her hand.
+She sat back on her heel, with the pencil still on the paper.
 
 "The floor was carved by somebody who knew the circle's size," she said.
 
@@ -286,13 +302,13 @@ Nobody answered her, and it lay in that cold room as her three facts had once la
 
 It was Seln who spoke, and he did it carefully.
 
-"You are setting your cord beside his. His came out of a registry store, and his figure is in a registry book. I have spent fifteen years learning what that office's paper is worth, and I should not care to see you rest a finding on a number of theirs."
+"You are setting your cord beside his, and his figure is in a registry book. I have spent fifteen years learning what that office's paper is worth. I should not care to see you rest a finding on a number of theirs."
 
 "I am not resting it on a number of theirs."
 
 She had answered him at once.
 
-"I paced that round this morning with two box-ropes and a girl's left foot. He paced it with a knotted line, some years ago, for people whom I should not trust to tell me the hour. We have the same figure, and I do not care in the least who sent him." She laid her hand on the short cord. "A measurement is a fact about a ruler, not about the hand that held it."
+"I paced that round this morning with two box-ropes and a girl's left foot. He paced it with a knotted line, for people whom I should not trust to tell me the hour, and his line found what mine did." She laid her hand on the short cord. "A measurement is a fact about a ruler, not about the hand that held it."
 
 ---
 
@@ -324,33 +340,21 @@ Nobody else on that rim stirred, and Brom did not turn his head. But his back st
 
 The boy came down from the west while they were drinking.
 
-He had been over the floor, and through the grass below the stone, and he had an armful of ash shafts, which he laid on the turf in a row beside four crossbows, one of which was in two pieces.
+He had been over the floor, and through the grass below the stone, and he had an armful of ash shafts, which he laid on the turf in a row beside four crossbows, one of which was in two pieces. Lira drew the one from her belt and laid it at the end of the row. There was an iron head lying by the stone that had no shaft to it; the boy looked at that, and at Brom, and went rather red.
 
-"Eleven," he said, to nobody in particular. "Ten off the grey and one out of the grass."
-
-"Twelve," said Lira, and drew the one from her belt. "It was on the stair. And there's a head by that stone, and the rest of it under his blanket. That's thirteen."
-
-The boy looked at the head, and at Brom, and went rather red.
-
-Brom had taken up one of the shafts, and he tried it in the groove of the healer's bow, where it stood proud of the wood by the thickness of a finger, and would not lie down.
+Brom had taken up one of the shafts, and he tried it along the stock of the healer's bow, where it stood proud of its channel by the thickness of a finger, and would not lie down.
 
 "Too stout. They'll not go in hers." He put it back in the row. "I'd as soon not have them, come to that."
 
 Teague had come down from the brow, and he looked at a tarred case on the turf, and at Cael, and he put no question about either.
 
-"We've a stake to set at a weir," he said. "There's four marks hangs on it. You'll be down the ridge behind us, or you'll not, as you choose."
-
-"We'll not be down today."
-
-"I'd not have thought so." His eyes went to the calfskin that Karis was unrolling. "I'll tell the one-armed man that he's five strokes to look at. He'll want to know what he's to write."
+"We've a stake to set at a weir," he said. "There's four marks hangs on it." His eyes went to the calfskin that Karis was unrolling. "I'll tell the one-armed man that he's five strokes to look at. He'll want to know what he's to write."
 
 He went, with his three behind him at their distances.
 
 Cael sat down against the grey stone, in the full sun, and opened Hesk's book.
 
 *Hundred and fifteenth day. The stone at the Stair. All six up, and nothing spent. Deployment since the Line: twenty-three. A hundred and two in hand. The three hundred lies in Pike's box against a broker's mark, and that mark is never going on this paper.*
-
-*Karis has the round, and it is the Fallow's. Twenty-nine sheets.*
 
 *Instruments recovered. The contract's paid, and the man who posted it is never going to see them, because Seln's keeping the ledger and I'm keeping the kit. Someone measured this place five years ago and wrote bearing and stopped. Karis has a straightedge. She's been waiting her whole life to use it. The Ring, the Stair, and whatever's on that bearing. Pike said a handful. We have two. The kit says three. We're going to go look.*
 
