@@ -1,0 +1,3 @@
+Completed the targeted recheck and wrote [recheck-r1.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-008/recheck-r1.md).
+
+Verdict: **CLOSE WITH LINE FIXES** — one fix restores Ephram’s missing one-month shoulder prognosis for M9 inheritance. All manuscript files remain untouched. The Monroe/O’Connor protocol governed the full-movement, formula, continuity, and listening checks.

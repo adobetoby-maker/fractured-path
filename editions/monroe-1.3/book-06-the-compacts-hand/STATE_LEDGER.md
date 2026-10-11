@@ -1153,7 +1153,7 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 **Movement 7 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch44: Havel's hope stated once — that a designation written out under seal would have to name its office; the schedule gives the title and no office, which his first sheet already records; no seventh). Havel's years in the work are 'all these years' (no count). Calendar unchanged. ~35,000 words. Overlap 0, gates 0, probe 1%/16%; source distance 0 tracked.
 
 
-## AFTER MOVEMENT 8 — chapters 48–54 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+## AFTER MOVEMENT 8 — chapters 48–54 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 applied; CLOSED 2026-10-11 after Sol recheck r1)
 
 **Coordinator rulings (override the author's end-state below):**
 - BOOK_MAP §8 protects the FULL Tier B units: the ruling paragraph (ch51, one paragraph, "the close of the present academic year"), Ephram's "Still glad." speech and the ninth's Log entry (*Nine. Taken in earnest from a friend…*) are restored whole from the protected wording (Sol plan audit; applied by the coordinator). Where the author end-state below describes five numbered heads, a loser-chalks ritual, a blank rule above Ephram's name, "two books", or five drill days for Lira — those are SUPERSEDED.
@@ -1315,3 +1315,5 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **The Crown yard:** Rooke's board text (ch53); the stand's registrar's chair; **the boards custom** (the loser chalks it himself, the same day, in the other's sight; "older than the brass on the Copper crown"); the rule above the Iron column.
 - **Rooke's clerk** is the program's clerk who kept the visitors' ledger; the bout is entered in the program's book and the house's.
 - **Minor:** Bracken's three pairs of glasses all about him when he has read a thing more than once; the lodge-man signs every caller in.
+
+**Movement 8 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch54: Ephram's one-month shoulder prognosis restored outside the protected text, for the M9 body inheritance). Protected Tier B units verbatim; no leftover of the removed versions; 'the certifying office' / Gault as evaluator of record; both tracked passages resolved. r1 also aligned ch52 ('station'; Ephram's line pointing at his B5 trial line, 'glad it was on my side of the floor'). ~40,800 words. Overlap 0/21, gates 0, probe 1%/11%.

@@ -130,7 +130,7 @@ Rooke looked down at the two of them from the edge of the stand with his glass i
 
 "Two touches to one," he said, to twelve hundred people. "The enrollee."
 
-Then the healer had Ephram's wrist in one hand and his elbow in the other, and Brom had him round the chest. She said something short, and there was a second sound like the first, and Ephram made a noise that he afterward denied.
+Then the healer had Ephram's wrist in one hand and his elbow in the other, and Brom had him round the chest. She said something short, and there was a second sound like the first, and Ephram made a noise that he afterward denied. She bound his arm across his chest and said the shoulder would want a month.
 
 *Ten.*
 
