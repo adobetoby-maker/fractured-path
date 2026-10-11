@@ -199,13 +199,13 @@ Seln looked at the folded hands.
 
 "Set them."
 
-"While my name is on any roll of the service, it stays where it is." Seln said it slowly and exactly, the way he wrote a line in a return that he meant to be read by somebody careful. "Not for my file, which can look after itself now; it has had practice. For the trade. Somewhere, in a room I will never see, there is a man whose whole work is sorting, and while I am a name on his list he has a reason to look at anything that moves the way I move. When I am not on any list there is no thread to pull, and then it is yours. Use it or don't, as you judge." He unfolded his hands. "And you will not ask me first. That is the other term."
+"While its use can be seen by anyone who could carry the seeing west, it stays where it is." Seln said it slowly and exactly, the way he wrote a line in a return that he meant to be read by somebody careful. "Not for my file, which can look after itself now; it has had practice. For the trade. Somewhere, in a room I will never see, there is a man whose whole work is sorting, and any report of a thing that moves the way I move gives him a thread to pull. Where there is no witness who can carry it west, there is no thread, and then it is yours. Use it or don't, as you judge." He unfolded his hands. "And you will not ask me first. That is the other term."
 
 Cael took Hesk's book out of the satchel.
 
 He opened it on the cloth to the leaf after the birthday inventory, and uncapped Hesk's steel pen, and wrote it there in front of all of them, in the smallest plain hand he had, with the shaded lamp drawn close.
 
-*Shadow-adjacent, the quiet thing from the stair. Told tonight, whole, to the man it came from, in Karis's room, the four of us there. The debt is closed. The seal is kept. Grounds revised: no longer a debt kept from him. His terms: sealed while his name is on any roll of the service; after, mine, and I don't ask.*
+*Shadow-adjacent, the quiet thing from the stair. Told tonight, whole, to the man it came from, in Karis's room, the four of us there. The debt is closed. The seal is kept. Grounds revised: no longer a debt kept from him. His terms: sealed from any witness who could carry it west; otherwise mine, and I don't ask.*
 
 He blotted it and turned the book round on the cloth so that it faced across the table.
 

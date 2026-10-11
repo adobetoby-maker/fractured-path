@@ -2990,3 +2990,472 @@ The Archmarshal looked at the copy a little longer. Then he put it back in *held
 
 It was the hardest thing he did that week, and nobody saw him do it, and nothing anywhere recorded that it had been done.
 
+codex
+I’ve completed the six-chapter cold read. The movement’s central effect is unusually strong: documentary procedure becomes suspense, while Seln and Vastin give the institutional revelation a human cost. I’m now checking exact anchors and the requested output path before writing the review; I’ve found one concrete internal headcount inconsistency to include.
+exec
+/bin/zsh -lc "if [ -e editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md ]; then ls -l editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md; else echo MISSING; fi
+rg -n -F -e 'The new thing asked nothing' -e 'The honest people were in the drawer too' -e 'A conspiracy can be exposed. A convenience cannot.' -e \"It's not evidence. It's a map.\" -e 'Five young people and a man at a window' -e 'I knew the system was imperfect' -e 'It was the hardest thing he did that week' editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-{35,36,37,38,39,40}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+MISSING
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-39.md:203:"There were people," said Seln. "Two hundred years ago, one, at a desk. Since then there have been seventy-one people signing for coal, and keepers writing down margins, and clerks entering what they're told, and evaluators stamped *enter at file*, and a district clerk who told a father the truth and sent it up. None of them is wicked. Most of them are good at their work." He was quiet a moment. "A conspiracy can be exposed. A convenience cannot."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-39.md:243:"It's not evidence. It's a map."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:197:"I knew the system was imperfect. I didn't know it was designed to be."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:279:He thought of the room in Ostrand, though he had told himself on the post road that he would not. Five young people and a man at a window. The man had stood a little to one side of the glass, where the frame hid him from the lane, the way the field service teaches its people to stand, and had copied forty orders in a round level hand that never once let itself be hurried. The Archmarshal had known what he was from the doorway. He had known, reading, roughly what the copying must have cost and how many years it had sat somewhere before it came to that table. He did not know the man's name, and he had been careful all the way home not to wonder it.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:329:It was the hardest thing he did that week, and nobody saw him do it, and nothing anywhere recorded that it had been done.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:3:The new thing asked nothing when he woke.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:287:The honest people were in the drawer too.
+
+exec
+/bin/zsh -lc "rg -n -F -e 'Then don'\"'\"'t think about it where he can see you' -e 'Somebody always does' -e 'Nothing to report' -e 'You sign them the way you sign for coal' -e 'Nothing made by people is never wrong' -e 'You may say it to me twice more in your life' -e 'You kept my file too' -e 'The debt is closed. The seal is kept.' -e 'It only wants what nobody has' -e 'Brom counts past one' -e 'Re-evaluation isn'\"'\"'t the test. It'\"'\"'s the delivery.' -e 'It isn'\"'\"'t broken. It'\"'\"'s maintained.' -e 'He gets the case. Nothing about' -e 'No. I am not with anyone.' editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-{35,36,37,38,39,40}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-39.md:189:"Both doors open into the same room, and it doesn't matter to them which he walks through." Karis laid her hand flat over the open cover. "Re-evaluation isn't the test. It's the delivery."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-39.md:217:He said it aloud. "It isn't broken. It's maintained."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-38.md:225:*Perception only. Nothing laid. Nothing fixed. Every* There? *named, aloud if need be. If anything fixes, Brom counts. If Brom counts past one, we stop.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-38.md:313:It did not ask about a door somebody was holding; it only wanted to hold what nobody was holding. He did not know yet what to do with that. He wrote it down anyway, after, on the leaf under the rule: *A held door isn't asked about. B.'s hand. It only wants what nobody has.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-37.md:99:"You may say it to me twice more in your life," he said.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-37.md:182:"You kept my file too, then."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-37.md:208:*Shadow-adjacent, the quiet thing from the stair. Told tonight, whole, to the man it came from, in Karis's room, the four of us there. The debt is closed. The seal is kept. Grounds revised: no longer a debt kept from him. His terms: sealed while his name is on any roll of the service; after, mine, and I don't ask.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:35:"Then don't think about it where he can see you," said the healer, which was very nearly a joke, and went to wash the shears.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:39:"Somebody'll need it," she said to Cael at the door. "Somebody always does." She stopped on the threshold and put her hand flat on the frame, and said, quite seriously, "*Infirmary door. People come in hurt and go out less hurt.*"
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:207:"*Observed nine weeks. Nothing to report.*"
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:211:Karis took the second pair, and read the record, and Brom read the order. A station in the hill country, a boy. *Ash, first rank. Keeper's note: something of Stone in the frame; second family?* And the order: *Enter: Ash, Rank One. Margin reading not to be entered. Observe nine weeks.* And on the back, *Observed nine weeks. Nothing to report.*
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:227:"*Nothing to report.* I have written it every week for fifteen years. On the bottom of every return, in that hand." He did not look at the slip. "It is a true sentence. When there is nothing, that is what you write. It is the commonest line in the service."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:231:He had been kept by that sentence. He knew it as surely as he knew the ribs. Two years of true, empty weeks had gone up out of the wing with his name on the outside fold, and every one of them had said that nothing had happened. That sentence had stood between him and the people who read returns. And here was the same sentence, word for word, clipped to the back of a girl from a river town. In her case it said that the correction had held. Nothing to report. She had gone home smaller and stayed there, and nine weeks of somebody's careful watching had found nothing in her worth writing down, because the thing worth writing down had been taken off her paper before she was old enough to know it was there.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-36.md:77:"A reissue is the lightest paper in any office," he said. "The words were settled before you were born. The clerk brings it in with the coal accounts and the lamp-oil order, and you sign where he points, because the last man signed there and the man before him." He looked at the yellow stack. "I have signed reissues, as every officer has. You sign them the way you sign for coal."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-36.md:199:"She kept the books for a grain factor on a river quay, twenty years at the same desk with the same scale outside the window. I copied her ledgers from the time I could hold a pen, because the factor paid a boy a copper a page for the fair copies, and I was the boy." He looked at the stack of orders. "Every page of her ledger had a mistake on it, a weight misheard or a sack counted twice or a figure carried wrong. And every mistake was struck through with one line, so you could still read it, and initialled, and the right figure written beside it in the margin. That was what right looked like: a page that had been near something real, and been wrong, and been put right by a person who signed for it." He moved one hand toward the memoranda, the whole two centuries of them. "This has never once been wrong. There is not a struck figure in it, nor an initial in a margin. Two hundred years of paper made by people, and not one of them ever made a mistake." He took the hand back. "Nothing made by people is never wrong. It had been made to agree."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:47:"Then that's the rule," she said. "That's the one that matters. The rest are risks, and we can weigh them, but that one's a rule." She put both hands flat on the table. "He gets the case. Nothing about Cael."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:227:"No. I am not with anyone."
+
+exec
+/bin/zsh -lc "rg -n -F -e 'Five,' -e 'five of them' -e 'five people' -e 'The four of them' -e 'Karis had the chair' -e 'Brom had the chair' -e 'Seln came up last' -e 'Nothing anybody would have noticed' -e \"I'm the best doorstop\" -e 'turned it a quarter turn' -e 'They stopped.' editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-{35,36,37,38,39,40}.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-36.md:187:"Nothing anybody would have noticed," he said at last. "That was the price."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-37.md:220:Then he put out his hand and turned it a quarter turn on the table.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-37.md:224:They went down at a little before the tenth bell, one at a time, a few minutes apart, because Seln said that five people coming down a stair together was a meeting, and five people coming down one at a time was the library closing.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-35.md:135:Brom had the chair by the shelf, with the sling still across his chest for one more night, and his spirit kettle stood on the end of the shelf over its little blue flame, not boiling. He nodded to Cael. He did not say anything about the stair or the stacks or the ribs.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:75:"Five," said Lira.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:123:Brom had the chair with its back to the wall. Karis had the chair at the table's end, with the case on the floor at her feet, its lock still shut; Seln had carried it down inside the post satchel, between the wing's letters, and given it to her in the keeper's hall without a word. Seln came up last and locked the door behind him and gave the key to nobody. He did not sit. He went to the window and stood a little to one side of it, where the frame hid him from the lane, and looked down.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:145:Vastin stood on the landing in his plain grey coat with his hands empty at his sides, and did not come in at once. He looked at the room the way Seln had looked at the reading room on the birthday, the door and the window and the bare table and the shapes on the shelves, and then the five of them, one at a time. He did not let his eyes stay on any one of them longer than on the others, not on Cael, and not on the man who had opened the door to him.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-40.md:201:When at last he turned from the window, his face had been tidied. Whatever had been in it was put away somewhere behind his eyes, as a careful man folds a letter he cannot yet answer and shuts it in a drawer, and he looked round the table at the five of them in turn, the first time he had let himself look at them since he began.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-38.md:167:The five of them sat in the reading room under the shaded lamp, with the case on its shelf between the grey boxes and the lamp in the window turned up as high as every night, and Karis laid it out for them on the bare cloth in the order she had found it. She had the code's second volume open on the left and the old enrollment book open on the right, and a single sheet of her own between them with five lines on it.
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-38.md:309:"I'm the best doorstop on the bluff." Brom took his hand away again, deliberately, and Cael felt the *There?* come up like a hound's head, and Brom put his hand back, and it went down. "There. I can do it all night, and I've done harder work for less."
+editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-38.md:373:They stopped.
+
+apply patch
+patch: completed
+/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..be0ebaf87bcdd3e97a5689e03d250547e5c61824
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+@@ -0,0 +1,83 @@
++# Simulated cold-read review — Movement 006
++
++This is a **fresh-context simulated cold read**, not a real audience measurement or a human-reader test. I read only the six supplied manuscript files, Chapters 35–40, in their declared order. I was given no editorial canon, plans, formula check, drafting history, or earlier chapters. The supplied movement feels locally complete: it opens the case, interprets what the case proves, tests the new threshold sense, and ends with Vastin making a consequential choice. The larger book plainly remains in progress. All judgments below are limited to this movement.
++
++## Unscored reader response
++
++The opening caught me with “The new thing asked nothing when he woke” (Chapter 35, line 3). The absence of a demand is made physically meaningful through Cael’s injuries and his ritual of naming the door. I did not yet understand the new thing, the naming, the case, the road, or the proceeding, but the scene gave me a person managing an intrusive change rather than a glossary. The empty place on Seln’s shelf then converted unease into a concrete promise.
++
++Interest rose sharply once the case was opened. The strongest early turn is not the existence of the reclassification orders but the father’s careful letter and the district clerk’s honest reply. “The honest people were in the drawer too” (Chapter 35, line 287) changes the antagonist from a hidden villain into a system that can absorb decent conduct. The movement keeps deepening that idea: reissues signed like coal orders, Seln’s mother’s corrected ledgers, the distinction between a reading and the advisory function, and finally the conclusion that the system is not broken but maintained.
++
++My attention slipped in portions of Chapters 36 and 39, where evidence already made legible in scene is restated through several successive analyses. The forty paired documents, twenty-three reports, nineteen memoranda, Karis’s four findings, and Vastin’s later rereading all serve distinct dramatic purposes, but their cumulative explanatory weight occasionally outruns the next choice. This is most noticeable in the long historical account in Chapter 39 between the dating of the memoranda and the “entered as a limit” conclusion. I remained interested, but I sometimes felt ahead of the explanation.
++
++Seln matters most to me by the end, with Cael close behind. His cost is expressed in behavior rather than declared grievance: “Nothing anybody would have noticed” (Chapter 36, line 187). The mutual revelation in Chapter 37—Cael learning that Seln knew he was on the stair, then Seln learning that Cael kept his file—is the emotional center of the movement. Lira is the person who repeatedly turns information into a usable moral question, and Karis’s refusal to guess past the paper keeps the discoveries credible. Vastin arrives late but becomes fully dimensional because he does not join the group, does not ask to be reassured, and chooses one narrow refusal he can honestly make.
++
++I expect the next major event to be the seat’s response when Vastin declines to certify the re-evaluation protocol. That refusal should force the institution either to expose a substitute mechanism or to place pressure on him. I also expect the one-day withdrawal door, the group’s decision to “walk perfectly,” and the threshold ability’s newly measured perception and cost to converge near the ruling.
++
++I would continue. The movement delivers a substantial revelation, a changed understanding of the antagonist, a tested capability, and an emotionally costly new ally-adjacent actor without pretending any of those things solve the book’s problem.
++
++## Fluent thirteen-year-old reader lens
++
++These scores are editorial judgments through a lens, not demographic findings.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 7/10 | Chapter 35, line 3, “The new thing asked nothing when he woke,” through the infirmary-door naming at line 39 | The bodily discomfort and unexplained “new thing” create immediate curiosity. A reader entering cold at Chapter 35 must carry several unknowns at once, however, and “Today was the shape” is evocative before it is intelligible. | High |
++| Keep reading | 8/10 | Chapter 35, lines 183–287, from the four-part unpacking of the case through “The honest people were in the drawer too” | Each layer of paper answers one question and opens a worse one. The father’s letter supplies a human victim before the institutional explanation becomes abstract. | High |
++| Interest / freshness | 9/10 | Chapter 39, lines 203–217, “A conspiracy can be exposed. A convenience cannot” and “It isn’t broken. It’s maintained” | Making correct paperwork, ordinary competence, and inherited convenience the mechanism of harm feels specific and fresh. There is no easy wicked official for the reader to dismiss. | High |
++| Clarity / flow | 7/10 | Chapter 39, lines 65–165, Karis’s dating of the policy, the older reading, the old custom, and the entered limit | The logic is ultimately clear, especially because Karis distinguishes findings from limits. The density of “reading,” “function,” “entry,” “margin,” “policy,” “directive,” and “flag” can make this passage require rereading. | High |
++| Character attachment | 9/10 | Chapter 37, lines 182–220, “You kept my file too” through Seln’s quarter-turn of the cup | Cael and Seln discover that each has protected the other without seeking credit. The cup turn makes acceptance visible without sentimental explanation. | High |
++| Humor / warmth | 8/10 | Chapter 35, lines 35–39, the healer’s almost-joke and Lira’s infirmary-door definition; Chapter 38, line 309, Brom as “the best doorstop on the bluff” | Humor belongs to distinct characters and releases pressure without mocking the pain. The naming ritual and the group’s practical care provide warmth throughout a very cold subject. | High |
++| Action / suspense | 7/10 | Chapter 38, lines 225–373, the signed test rule through Brom’s count of one and the immediate stop | The learning encounter has rules, roles, a near-failure, a visible cost, and disciplined adaptation. The movement is nevertheless dominated by people reading and reasoning in rooms, which may feel slow to a younger action-led reader. | High |
++| Progression payoff | 8/10 | Chapter 38, lines 249–313 and 327–373, Cael perceiving rests and anticipated foot placement, then learning that a held door is quiet and stopping a partial fixation | The new ability becomes understandable rather than merely impressive. Its range, trigger, social meaning, and first bill are all tested, while the characters wisely avoid claiming mastery. | High |
++| Connection | 9/10 | Chapter 37, line 208, the revised seal entry; Chapter 39, line 243, “It’s not evidence. It’s a map” | Doors, thresholds, files, naming, holding, maps, and costs recur as both physical facts and moral ideas. Earlier details repeatedly become later decisions rather than decorative callbacks. | High |
++| Read-aloud quality | 9/10 | Chapter 40, lines 197–201, Vastin’s “designed to be” line and the description of his face being “tidied” | The sentence lengths vary cleanly, dialogue attribution is controlled, and repeated phrases gather force. A few long analytical paragraphs in Chapter 39 are easier on the page than aloud, but the overall cadence is excellent. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 35, lines 3–83, from the quiet new thing through the clean oblong on Seln’s shelf | The opening combines aftermath, an emerging power, covert procedure, and damaged bodies without exposition-first staging. Its mystery feels deliberate rather than evasive. | High |
++| Keep reading | 9/10 | Chapter 40, lines 197–240, Vastin’s realization, three refusals, and refusal to declare himself “with” the group | The local payoff is morally exact but strategically incomplete. Vastin changes the board by withholding certification, while his independence preserves uncertainty about what he will do next. | High |
++| Interest / freshness | 9/10 | Chapter 36, lines 51–79, the nineteen reissued memoranda and the coal-order analogy; Chapter 39, line 203 | The antagonist is administrative continuity rather than a mastermind. Forms, copying hands, seals, and filing habits become an original engine of threat instead of mere worldbuilding texture. | High |
++| Clarity / flow | 8/10 | Chapter 39, lines 176–217, re-evaluation as “delivery” through “It isn’t broken. It’s maintained” | The central causal chain is very clear: re-evaluation invokes the function; either result puts Cael back inside the instrument. Some interpretive restatement across Chapters 36, 39, and 40 slows an otherwise precise escalation. | High |
++| Character attachment | 9/10 | Chapter 36, lines 169–199, Lira asking the cost of Seln’s pleasantness and Seln explaining how his mother’s imperfect ledger taught him what “right” looked like | Private history directly explains present competence. Seln’s reserve, Lira’s humane directness, and Karis’s evidence discipline distinguish them without assigned personality speeches. | High |
++| Humor / warmth | 9/10 | Chapter 37, lines 214–220, Brom’s one-handed tea and Seln turning the cup; Chapter 38, lines 299–313, the doorstop exchange | Warmth is enacted as practical accommodation: tea, pacing, hands on doors, waiting for injured people, and not helping when help would violate dignity. The humor is dry and relational. | High |
++| Action / suspense | 8/10 | Chapter 35, lines 91–183, the separated routes and covert arrival; Chapter 38, lines 225–373, the controlled threshold experiment; Chapter 40, lines 115–197, waiting for and watching Vastin read | Suspense comes from procedural exposure, not combat. Positions, entrances, observers, rules, and abort conditions are trackable. The long silences work because discovery or betrayal remains possible. | High |
++| Progression payoff | 8/10 | Chapter 37, lines 35–88, Cael’s full accounting of fragments and prices; Chapter 38, lines 249–373, the first structured observation of the new ability | Existing capabilities and costs are consolidated, the sealed fragment receives new terms, and the new sense gains a measurable working model. The movement advances knowledge more than raw power, appropriately. | High |
++| Connection | 9/10 | Chapter 35, line 231, the double meaning of “Nothing to report”; Chapter 37, line 208, the corrected ledger entry; Chapter 39, line 243, the case becoming a map; Chapter 40, line 329, Vastin’s unrecorded act | Motifs do structural work across the full movement. The final act of not writing answers a movement built from paper, while Seln’s mother’s visible corrections answer the registry’s false perfection. | High |
++| Read-aloud quality | 9/10 | Chapter 36, line 199, Seln’s account of the ledger; Chapter 40, line 329, the final sentence | Cadence, parallelism, and short landing sentences are consistently controlled. The prose lets silence and repeated official phrases accumulate meaning without unclear speakers or referents. | High |
++
++## Continuity, rules, and disclosure check
++
++No editorial canon evidence was supplied, so I cannot verify canon violations or plan adherence. I can report only internal consistency within Chapters 35–40.
++
++- **Physical state:** Cael’s ribs and forearm, Lira’s right ankle, Brom’s left shoulder, and Karis’s hand limitations are carried consistently. Lira leaves the crutch but remains barred from floors and frames, descends stairs seated before progressing to careful standing descent, fails Rooke’s walk test, and participates in the east-hall test from a bench. Brom’s sling comes off with a week of restrictions; subsequent actions are presented as careful or one-handed. Cael’s ribs improve across the movement without disappearing at convenient moments.
++- **Power limits:** Cael recounts the fragment costs and acquisition rules in Chapter 37 before the new threshold sense is tested. Chapter 38 explicitly limits the test to perception, gives Brom an abort count, stops at one, distinguishes perception range from reach, records a bill behind the eyes, and does not let the ability solve a decisive problem. The sealed Shadow-adjacent fragment remains sealed under revised terms.
++- **Knowledge boundaries:** The group’s rule in Chapter 40—“He gets the case. Nothing about Cael” (line 47)—is honored in the Ostrand room. Vastin is allowed to infer and choose without being given Cael’s private account. Vastin in turn chooses not to write Seln or the young people into a file. Karis consistently separates findings, hypotheses, and limits; session nine remains “Still open.”
++- **Reserved disclosures:** None were supplied for comparison. Internally, the movement shows strong disclosure discipline: the case explains the middle layer but explicitly does not explain the origin of the reading, and characters refuse to fill that gap with guesses.
++- **Apparent internal inconsistency:** Chapter 40 establishes that Vastin looks at “the five of them” in the borrowed room (lines 145 and 201): Cael, Lira, Brom, Karis, and Seln. In Vastin’s later recollection, however, the room contains “Five young people and a man at a window” (line 279), which totals six and makes the five non-Seln participants young. The scene contains four young people plus Seln. This is an internal headcount error, not a canon-dependent judgment.
++
++## Overall judgment
++
++This is a compelling movement with a clear internal arc and unusually disciplined thematic construction. Its best achievement is that it makes institutional horror legible without reducing it to a lecture or a villain reveal. Paper is evidence, hiding place, weapon, inheritance, and trap. The characters’ different methods of knowing—Cael’s counting, Karis’s documentary restraint, Brom’s practical analogy, Lira’s moral directness, Seln’s operational caution, and Vastin’s measurement—create conflict and cooperation even while most scenes take place around tables.
++
++The chief tradeoff is pace. The accumulation is necessary to make two centuries of ordinary conduct feel real, and the final Vastin sequence earns its silence. The movement sometimes explains the same conclusion once through the documents, once through dialogue, and once through interior summary. A selective compression would increase pressure without turning the case into a thin clue or sacrificing the developed procedural scenes.
++
++## Repair brief
++
++### 1. Correct the Ostrand-room headcount
++
++- **Location:** Chapter 40, line 279, “Five young people and a man at a window.” Compare lines 123, 145, and 201.
++- **Observed issue:** The room contains Cael, Lira, Brom, Karis, and Seln: four young people and one man at the window, five people total. The recollection currently describes six.
++- **Effect on the reader:** A careful reader may stop to recount the group at the exact moment Vastin’s moral reasoning should remain uninterrupted.
++- **Proposed scope:** One phrase only: use “Four young people and a man at a window,” or an equally exact five-person construction.
++- **Strength to preserve:** Keep the anonymous, file-avoiding way Vastin remembers them and the contrast between the young people and Seln at the window.
++
++### 2. Compress explanatory echoes, not documentary drama
++
++- **Location:** Chapter 36, especially lines 51–79 and 199–203; Chapter 39, especially lines 65–165 and 189–217; Chapter 40, lines 154–197.
++- **Observed issue:** The same institutional conclusion is sometimes delivered by the evidence, restated by a character, and then restated in interior summary. Across the movement, repeated inventories of the forty pairs, twenty-three reports, nineteen memoranda, and their implications can make the reader feel ahead of the prose.
++- **Effect on the reader:** The middle of the movement loses some forward pressure, particularly for the fluent thirteen-year-old lens, and the sharpest formulations compete with nearby explanations instead of landing alone.
++- **Proposed scope:** Make a surgical compression pass on sentences that only paraphrase a conclusion the immediately preceding document or dialogue has already established. Do not remove an evidence class, shorten Vastin’s silent read into summary, or reduce the east-hall learning scene. Preserve the full father’s letter, the coal-order analogy, Seln’s mother’s ledger, Karis’s entered limit, “It’s not evidence. It’s a map,” and Vastin’s three refusals.
++- **Strength to preserve:** The procedural accumulation is the movement’s suspense mechanism and moral proof. Tighten duplicate interpretation while retaining the physical handling of paper, the patient silences, and the sense that the conclusion has been earned rather than announced.
+
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..be0ebaf87bcdd3e97a5689e03d250547e5c61824
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+@@ -0,0 +1,83 @@
++# Simulated cold-read review — Movement 006
++
++This is a **fresh-context simulated cold read**, not a real audience measurement or a human-reader test. I read only the six supplied manuscript files, Chapters 35–40, in their declared order. I was given no editorial canon, plans, formula check, drafting history, or earlier chapters. The supplied movement feels locally complete: it opens the case, interprets what the case proves, tests the new threshold sense, and ends with Vastin making a consequential choice. The larger book plainly remains in progress. All judgments below are limited to this movement.
++
++## Unscored reader response
++
++The opening caught me with “The new thing asked nothing when he woke” (Chapter 35, line 3). The absence of a demand is made physically meaningful through Cael’s injuries and his ritual of naming the door. I did not yet understand the new thing, the naming, the case, the road, or the proceeding, but the scene gave me a person managing an intrusive change rather than a glossary. The empty place on Seln’s shelf then converted unease into a concrete promise.
++
++Interest rose sharply once the case was opened. The strongest early turn is not the existence of the reclassification orders but the father’s careful letter and the district clerk’s honest reply. “The honest people were in the drawer too” (Chapter 35, line 287) changes the antagonist from a hidden villain into a system that can absorb decent conduct. The movement keeps deepening that idea: reissues signed like coal orders, Seln’s mother’s corrected ledgers, the distinction between a reading and the advisory function, and finally the conclusion that the system is not broken but maintained.
++
++My attention slipped in portions of Chapters 36 and 39, where evidence already made legible in scene is restated through several successive analyses. The forty paired documents, twenty-three reports, nineteen memoranda, Karis’s four findings, and Vastin’s later rereading all serve distinct dramatic purposes, but their cumulative explanatory weight occasionally outruns the next choice. This is most noticeable in the long historical account in Chapter 39 between the dating of the memoranda and the “entered as a limit” conclusion. I remained interested, but I sometimes felt ahead of the explanation.
++
++Seln matters most to me by the end, with Cael close behind. His cost is expressed in behavior rather than declared grievance: “Nothing anybody would have noticed” (Chapter 36, line 187). The mutual revelation in Chapter 37—Cael learning that Seln knew he was on the stair, then Seln learning that Cael kept his file—is the emotional center of the movement. Lira is the person who repeatedly turns information into a usable moral question, and Karis’s refusal to guess past the paper keeps the discoveries credible. Vastin arrives late but becomes fully dimensional because he does not join the group, does not ask to be reassured, and chooses one narrow refusal he can honestly make.
++
++I expect the next major event to be the seat’s response when Vastin declines to certify the re-evaluation protocol. That refusal should force the institution either to expose a substitute mechanism or to place pressure on him. I also expect the one-day withdrawal door, the group’s decision to “walk perfectly,” and the threshold ability’s newly measured perception and cost to converge near the ruling.
++
++I would continue. The movement delivers a substantial revelation, a changed understanding of the antagonist, a tested capability, and an emotionally costly new ally-adjacent actor without pretending any of those things solve the book’s problem.
++
++## Fluent thirteen-year-old reader lens
++
++These scores are editorial judgments through a lens, not demographic findings.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 7/10 | Chapter 35, line 3, “The new thing asked nothing when he woke,” through the infirmary-door naming at line 39 | The bodily discomfort and unexplained “new thing” create immediate curiosity. A reader entering cold at Chapter 35 must carry several unknowns at once, however, and “Today was the shape” is evocative before it is intelligible. | High |
++| Keep reading | 8/10 | Chapter 35, lines 183–287, from the four-part unpacking of the case through “The honest people were in the drawer too” | Each layer of paper answers one question and opens a worse one. The father’s letter supplies a human victim before the institutional explanation becomes abstract. | High |
++| Interest / freshness | 9/10 | Chapter 39, lines 203–217, “A conspiracy can be exposed. A convenience cannot” and “It isn’t broken. It’s maintained” | Making correct paperwork, ordinary competence, and inherited convenience the mechanism of harm feels specific and fresh. There is no easy wicked official for the reader to dismiss. | High |
++| Clarity / flow | 7/10 | Chapter 39, lines 65–165, Karis’s dating of the policy, the older reading, the old custom, and the entered limit | The logic is ultimately clear, especially because Karis distinguishes findings from limits. The density of “reading,” “function,” “entry,” “margin,” “policy,” “directive,” and “flag” can make this passage require rereading. | High |
++| Character attachment | 9/10 | Chapter 37, lines 182–220, “You kept my file too” through Seln’s quarter-turn of the cup | Cael and Seln discover that each has protected the other without seeking credit. The cup turn makes acceptance visible without sentimental explanation. | High |
++| Humor / warmth | 8/10 | Chapter 35, lines 35–39, the healer’s almost-joke and Lira’s infirmary-door definition; Chapter 38, line 309, Brom as “the best doorstop on the bluff” | Humor belongs to distinct characters and releases pressure without mocking the pain. The naming ritual and the group’s practical care provide warmth throughout a very cold subject. | High |
++| Action / suspense | 7/10 | Chapter 38, lines 225–373, the signed test rule through Brom’s count of one and the immediate stop | The learning encounter has rules, roles, a near-failure, a visible cost, and disciplined adaptation. The movement is nevertheless dominated by people reading and reasoning in rooms, which may feel slow to a younger action-led reader. | High |
++| Progression payoff | 8/10 | Chapter 38, lines 249–313 and 327–373, Cael perceiving rests and anticipated foot placement, then learning that a held door is quiet and stopping a partial fixation | The new ability becomes understandable rather than merely impressive. Its range, trigger, social meaning, and first bill are all tested, while the characters wisely avoid claiming mastery. | High |
++| Connection | 9/10 | Chapter 37, line 208, the revised seal entry; Chapter 39, line 243, “It’s not evidence. It’s a map” | Doors, thresholds, files, naming, holding, maps, and costs recur as both physical facts and moral ideas. Earlier details repeatedly become later decisions rather than decorative callbacks. | High |
++| Read-aloud quality | 9/10 | Chapter 40, lines 197–201, Vastin’s “designed to be” line and the description of his face being “tidied” | The sentence lengths vary cleanly, dialogue attribution is controlled, and repeated phrases gather force. A few long analytical paragraphs in Chapter 39 are easier on the page than aloud, but the overall cadence is excellent. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 35, lines 3–83, from the quiet new thing through the clean oblong on Seln’s shelf | The opening combines aftermath, an emerging power, covert procedure, and damaged bodies without exposition-first staging. Its mystery feels deliberate rather than evasive. | High |
++| Keep reading | 9/10 | Chapter 40, lines 197–240, Vastin’s realization, three refusals, and refusal to declare himself “with” the group | The local payoff is morally exact but strategically incomplete. Vastin changes the board by withholding certification, while his independence preserves uncertainty about what he will do next. | High |
++| Interest / freshness | 9/10 | Chapter 36, lines 51–79, the nineteen reissued memoranda and the coal-order analogy; Chapter 39, line 203 | The antagonist is administrative continuity rather than a mastermind. Forms, copying hands, seals, and filing habits become an original engine of threat instead of mere worldbuilding texture. | High |
++| Clarity / flow | 8/10 | Chapter 39, lines 176–217, re-evaluation as “delivery” through “It isn’t broken. It’s maintained” | The central causal chain is very clear: re-evaluation invokes the function; either result puts Cael back inside the instrument. Some interpretive restatement across Chapters 36, 39, and 40 slows an otherwise precise escalation. | High |
++| Character attachment | 9/10 | Chapter 36, lines 169–199, Lira asking the cost of Seln’s pleasantness and Seln explaining how his mother’s imperfect ledger taught him what “right” looked like | Private history directly explains present competence. Seln’s reserve, Lira’s humane directness, and Karis’s evidence discipline distinguish them without assigned personality speeches. | High |
++| Humor / warmth | 9/10 | Chapter 37, lines 214–220, Brom’s one-handed tea and Seln turning the cup; Chapter 38, lines 299–313, the doorstop exchange | Warmth is enacted as practical accommodation: tea, pacing, hands on doors, waiting for injured people, and not helping when help would violate dignity. The humor is dry and relational. | High |
++| Action / suspense | 8/10 | Chapter 35, lines 91–183, the separated routes and covert arrival; Chapter 38, lines 225–373, the controlled threshold experiment; Chapter 40, lines 115–197, waiting for and watching Vastin read | Suspense comes from procedural exposure, not combat. Positions, entrances, observers, rules, and abort conditions are trackable. The long silences work because discovery or betrayal remains possible. | High |
++| Progression payoff | 8/10 | Chapter 37, lines 35–88, Cael’s full accounting of fragments and prices; Chapter 38, lines 249–373, the first structured observation of the new ability | Existing capabilities and costs are consolidated, the sealed fragment receives new terms, and the new sense gains a measurable working model. The movement advances knowledge more than raw power, appropriately. | High |
++| Connection | 9/10 | Chapter 35, line 231, the double meaning of “Nothing to report”; Chapter 37, line 208, the corrected ledger entry; Chapter 39, line 243, the case becoming a map; Chapter 40, line 329, Vastin’s unrecorded act | Motifs do structural work across the full movement. The final act of not writing answers a movement built from paper, while Seln’s mother’s visible corrections answer the registry’s false perfection. | High |
++| Read-aloud quality | 9/10 | Chapter 36, line 199, Seln’s account of the ledger; Chapter 40, line 329, the final sentence | Cadence, parallelism, and short landing sentences are consistently controlled. The prose lets silence and repeated official phrases accumulate meaning without unclear speakers or referents. | High |
++
++## Continuity, rules, and disclosure check
++
++No editorial canon evidence was supplied, so I cannot verify canon violations or plan adherence. I can report only internal consistency within Chapters 35–40.
++
++- **Physical state:** Cael’s ribs and forearm, Lira’s right ankle, Brom’s left shoulder, and Karis’s hand limitations are carried consistently. Lira leaves the crutch but remains barred from floors and frames, descends stairs seated before progressing to careful standing descent, fails Rooke’s walk test, and participates in the east-hall test from a bench. Brom’s sling comes off with a week of restrictions; subsequent actions are presented as careful or one-handed. Cael’s ribs improve across the movement without disappearing at convenient moments.
++- **Power limits:** Cael recounts the fragment costs and acquisition rules in Chapter 37 before the new threshold sense is tested. Chapter 38 explicitly limits the test to perception, gives Brom an abort count, stops at one, distinguishes perception range from reach, records a bill behind the eyes, and does not let the ability solve a decisive problem. The sealed Shadow-adjacent fragment remains sealed under revised terms.
++- **Knowledge boundaries:** The group’s rule in Chapter 40—“He gets the case. Nothing about Cael” (line 47)—is honored in the Ostrand room. Vastin is allowed to infer and choose without being given Cael’s private account. Vastin in turn chooses not to write Seln or the young people into a file. Karis consistently separates findings, hypotheses, and limits; session nine remains “Still open.”
++- **Reserved disclosures:** None were supplied for comparison. Internally, the movement shows strong disclosure discipline: the case explains the middle layer but explicitly does not explain the origin of the reading, and characters refuse to fill that gap with guesses.
++- **Apparent internal inconsistency:** Chapter 40 establishes that Vastin looks at “the five of them” in the borrowed room (lines 145 and 201): Cael, Lira, Brom, Karis, and Seln. In Vastin’s later recollection, however, the room contains “Five young people and a man at a window” (line 279), which totals six and makes the five non-Seln participants young. The scene contains four young people plus Seln. This is an internal headcount error, not a canon-dependent judgment.
++
++## Overall judgment
++
++This is a compelling movement with a clear internal arc and unusually disciplined thematic construction. Its best achievement is that it makes institutional horror legible without reducing it to a lecture or a villain reveal. Paper is evidence, hiding place, weapon, inheritance, and trap. The characters’ different methods of knowing—Cael’s counting, Karis’s documentary restraint, Brom’s practical analogy, Lira’s moral directness, Seln’s operational caution, and Vastin’s measurement—create conflict and cooperation even while most scenes take place around tables.
++
++The chief tradeoff is pace. The accumulation is necessary to make two centuries of ordinary conduct feel real, and the final Vastin sequence earns its silence. The movement sometimes explains the same conclusion once through the documents, once through dialogue, and once through interior summary. A selective compression would increase pressure without turning the case into a thin clue or sacrificing the developed procedural scenes.
++
++## Repair brief
++
++### 1. Correct the Ostrand-room headcount
++
++- **Location:** Chapter 40, line 279, “Five young people and a man at a window.” Compare lines 123, 145, and 201.
++- **Observed issue:** The room contains Cael, Lira, Brom, Karis, and Seln: four young people and one man at the window, five people total. The recollection currently describes six.
++- **Effect on the reader:** A careful reader may stop to recount the group at the exact moment Vastin’s moral reasoning should remain uninterrupted.
++- **Proposed scope:** One phrase only: use “Four young people and a man at a window,” or an equally exact five-person construction.
++- **Strength to preserve:** Keep the anonymous, file-avoiding way Vastin remembers them and the contrast between the young people and Seln at the window.
++
++### 2. Compress explanatory echoes, not documentary drama
++
++- **Location:** Chapter 36, especially lines 51–79 and 199–203; Chapter 39, especially lines 65–165 and 189–217; Chapter 40, lines 154–197.
++- **Observed issue:** The same institutional conclusion is sometimes delivered by the evidence, restated by a character, and then restated in interior summary. Across the movement, repeated inventories of the forty pairs, twenty-three reports, nineteen memoranda, and their implications can make the reader feel ahead of the prose.
++- **Effect on the reader:** The middle of the movement loses some forward pressure, particularly for the fluent thirteen-year-old lens, and the sharpest formulations compete with nearby explanations instead of landing alone.
++- **Proposed scope:** Make a surgical compression pass on sentences that only paraphrase a conclusion the immediately preceding document or dialogue has already established. Do not remove an evidence class, shorten Vastin’s silent read into summary, or reduce the east-hall learning scene. Preserve the full father’s letter, the coal-order analogy, Seln’s mother’s ledger, Karis’s entered limit, “It’s not evidence. It’s a map,” and Vastin’s three refusals.
++- **Strength to preserve:** The procedural accumulation is the movement’s suspense mechanism and moral proof. Tighten duplicate interpretation while retaining the physical handling of paper, the patient silences, and the sense that the conclusion has been earned rather than announced.
+
+codex
+The review is written. I’ve kept the repair brief to two high-leverage items: the definite headcount error and a surgical compression pass that explicitly preserves the documentary suspense, the east-hall learning scene, and Vastin’s full reading sequence. I’m doing a final file-only verification now.
+exec
+/bin/zsh -lc 'wc -l editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+tail -n 35 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+git status --short -- editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+git diff --check -- editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+      83 editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+| Read-aloud quality | 9/10 | Chapter 36, line 199, Seln’s account of the ledger; Chapter 40, line 329, the final sentence | Cadence, parallelism, and short landing sentences are consistently controlled. The prose lets silence and repeated official phrases accumulate meaning without unclear speakers or referents. | High |
+
+## Continuity, rules, and disclosure check
+
+No editorial canon evidence was supplied, so I cannot verify canon violations or plan adherence. I can report only internal consistency within Chapters 35–40.
+
+- **Physical state:** Cael’s ribs and forearm, Lira’s right ankle, Brom’s left shoulder, and Karis’s hand limitations are carried consistently. Lira leaves the crutch but remains barred from floors and frames, descends stairs seated before progressing to careful standing descent, fails Rooke’s walk test, and participates in the east-hall test from a bench. Brom’s sling comes off with a week of restrictions; subsequent actions are presented as careful or one-handed. Cael’s ribs improve across the movement without disappearing at convenient moments.
+- **Power limits:** Cael recounts the fragment costs and acquisition rules in Chapter 37 before the new threshold sense is tested. Chapter 38 explicitly limits the test to perception, gives Brom an abort count, stops at one, distinguishes perception range from reach, records a bill behind the eyes, and does not let the ability solve a decisive problem. The sealed Shadow-adjacent fragment remains sealed under revised terms.
+- **Knowledge boundaries:** The group’s rule in Chapter 40—“He gets the case. Nothing about Cael” (line 47)—is honored in the Ostrand room. Vastin is allowed to infer and choose without being given Cael’s private account. Vastin in turn chooses not to write Seln or the young people into a file. Karis consistently separates findings, hypotheses, and limits; session nine remains “Still open.”
+- **Reserved disclosures:** None were supplied for comparison. Internally, the movement shows strong disclosure discipline: the case explains the middle layer but explicitly does not explain the origin of the reading, and characters refuse to fill that gap with guesses.
+- **Apparent internal inconsistency:** Chapter 40 establishes that Vastin looks at “the five of them” in the borrowed room (lines 145 and 201): Cael, Lira, Brom, Karis, and Seln. In Vastin’s later recollection, however, the room contains “Five young people and a man at a window” (line 279), which totals six and makes the five non-Seln participants young. The scene contains four young people plus Seln. This is an internal headcount error, not a canon-dependent judgment.
+
+## Overall judgment
+
+This is a compelling movement with a clear internal arc and unusually disciplined thematic construction. Its best achievement is that it makes institutional horror legible without reducing it to a lecture or a villain reveal. Paper is evidence, hiding place, weapon, inheritance, and trap. The characters’ different methods of knowing—Cael’s counting, Karis’s documentary restraint, Brom’s practical analogy, Lira’s moral directness, Seln’s operational caution, and Vastin’s measurement—create conflict and cooperation even while most scenes take place around tables.
+
+The chief tradeoff is pace. The accumulation is necessary to make two centuries of ordinary conduct feel real, and the final Vastin sequence earns its silence. The movement sometimes explains the same conclusion once through the documents, once through dialogue, and once through interior summary. A selective compression would increase pressure without turning the case into a thin clue or sacrificing the developed procedural scenes.
+
+## Repair brief
+
+### 1. Correct the Ostrand-room headcount
+
+- **Location:** Chapter 40, line 279, “Five young people and a man at a window.” Compare lines 123, 145, and 201.
+- **Observed issue:** The room contains Cael, Lira, Brom, Karis, and Seln: four young people and one man at the window, five people total. The recollection currently describes six.
+- **Effect on the reader:** A careful reader may stop to recount the group at the exact moment Vastin’s moral reasoning should remain uninterrupted.
+- **Proposed scope:** One phrase only: use “Four young people and a man at a window,” or an equally exact five-person construction.
+- **Strength to preserve:** Keep the anonymous, file-avoiding way Vastin remembers them and the contrast between the young people and Seln at the window.
+
+### 2. Compress explanatory echoes, not documentary drama
+
+- **Location:** Chapter 36, especially lines 51–79 and 199–203; Chapter 39, especially lines 65–165 and 189–217; Chapter 40, lines 154–197.
+- **Observed issue:** The same institutional conclusion is sometimes delivered by the evidence, restated by a character, and then restated in interior summary. Across the movement, repeated inventories of the forty pairs, twenty-three reports, nineteen memoranda, and their implications can make the reader feel ahead of the prose.
+- **Effect on the reader:** The middle of the movement loses some forward pressure, particularly for the fluent thirteen-year-old lens, and the sharpest formulations compete with nearby explanations instead of landing alone.
+- **Proposed scope:** Make a surgical compression pass on sentences that only paraphrase a conclusion the immediately preceding document or dialogue has already established. Do not remove an evidence class, shorten Vastin’s silent read into summary, or reduce the east-hall learning scene. Preserve the full father’s letter, the coal-order analogy, Seln’s mother’s ledger, Karis’s entered limit, “It’s not evidence. It’s a map,” and Vastin’s three refusals.
+- **Strength to preserve:** The procedural accumulation is the movement’s suspense mechanism and moral proof. Tighten duplicate interpretation while retaining the physical handling of paper, the patient silences, and the sense that the conclusion has been earned rather than announced.
+?? editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..be0ebaf87bcdd3e97a5689e03d250547e5c61824
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+@@ -0,0 +1,83 @@
++# Simulated cold-read review — Movement 006
++
++This is a **fresh-context simulated cold read**, not a real audience measurement or a human-reader test. I read only the six supplied manuscript files, Chapters 35–40, in their declared order. I was given no editorial canon, plans, formula check, drafting history, or earlier chapters. The supplied movement feels locally complete: it opens the case, interprets what the case proves, tests the new threshold sense, and ends with Vastin making a consequential choice. The larger book plainly remains in progress. All judgments below are limited to this movement.
++
++## Unscored reader response
++
++The opening caught me with “The new thing asked nothing when he woke” (Chapter 35, line 3). The absence of a demand is made physically meaningful through Cael’s injuries and his ritual of naming the door. I did not yet understand the new thing, the naming, the case, the road, or the proceeding, but the scene gave me a person managing an intrusive change rather than a glossary. The empty place on Seln’s shelf then converted unease into a concrete promise.
++
++Interest rose sharply once the case was opened. The strongest early turn is not the existence of the reclassification orders but the father’s careful letter and the district clerk’s honest reply. “The honest people were in the drawer too” (Chapter 35, line 287) changes the antagonist from a hidden villain into a system that can absorb decent conduct. The movement keeps deepening that idea: reissues signed like coal orders, Seln’s mother’s corrected ledgers, the distinction between a reading and the advisory function, and finally the conclusion that the system is not broken but maintained.
++
++My attention slipped in portions of Chapters 36 and 39, where evidence already made legible in scene is restated through several successive analyses. The forty paired documents, twenty-three reports, nineteen memoranda, Karis’s four findings, and Vastin’s later rereading all serve distinct dramatic purposes, but their cumulative explanatory weight occasionally outruns the next choice. This is most noticeable in the long historical account in Chapter 39 between the dating of the memoranda and the “entered as a limit” conclusion. I remained interested, but I sometimes felt ahead of the explanation.
++
++Seln matters most to me by the end, with Cael close behind. His cost is expressed in behavior rather than declared grievance: “Nothing anybody would have noticed” (Chapter 36, line 187). The mutual revelation in Chapter 37—Cael learning that Seln knew he was on the stair, then Seln learning that Cael kept his file—is the emotional center of the movement. Lira is the person who repeatedly turns information into a usable moral question, and Karis’s refusal to guess past the paper keeps the discoveries credible. Vastin arrives late but becomes fully dimensional because he does not join the group, does not ask to be reassured, and chooses one narrow refusal he can honestly make.
++
++I expect the next major event to be the seat’s response when Vastin declines to certify the re-evaluation protocol. That refusal should force the institution either to expose a substitute mechanism or to place pressure on him. I also expect the one-day withdrawal door, the group’s decision to “walk perfectly,” and the threshold ability’s newly measured perception and cost to converge near the ruling.
++
++I would continue. The movement delivers a substantial revelation, a changed understanding of the antagonist, a tested capability, and an emotionally costly new ally-adjacent actor without pretending any of those things solve the book’s problem.
++
++## Fluent thirteen-year-old reader lens
++
++These scores are editorial judgments through a lens, not demographic findings.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 7/10 | Chapter 35, line 3, “The new thing asked nothing when he woke,” through the infirmary-door naming at line 39 | The bodily discomfort and unexplained “new thing” create immediate curiosity. A reader entering cold at Chapter 35 must carry several unknowns at once, however, and “Today was the shape” is evocative before it is intelligible. | High |
++| Keep reading | 8/10 | Chapter 35, lines 183–287, from the four-part unpacking of the case through “The honest people were in the drawer too” | Each layer of paper answers one question and opens a worse one. The father’s letter supplies a human victim before the institutional explanation becomes abstract. | High |
++| Interest / freshness | 9/10 | Chapter 39, lines 203–217, “A conspiracy can be exposed. A convenience cannot” and “It isn’t broken. It’s maintained” | Making correct paperwork, ordinary competence, and inherited convenience the mechanism of harm feels specific and fresh. There is no easy wicked official for the reader to dismiss. | High |
++| Clarity / flow | 7/10 | Chapter 39, lines 65–165, Karis’s dating of the policy, the older reading, the old custom, and the entered limit | The logic is ultimately clear, especially because Karis distinguishes findings from limits. The density of “reading,” “function,” “entry,” “margin,” “policy,” “directive,” and “flag” can make this passage require rereading. | High |
++| Character attachment | 9/10 | Chapter 37, lines 182–220, “You kept my file too” through Seln’s quarter-turn of the cup | Cael and Seln discover that each has protected the other without seeking credit. The cup turn makes acceptance visible without sentimental explanation. | High |
++| Humor / warmth | 8/10 | Chapter 35, lines 35–39, the healer’s almost-joke and Lira’s infirmary-door definition; Chapter 38, line 309, Brom as “the best doorstop on the bluff” | Humor belongs to distinct characters and releases pressure without mocking the pain. The naming ritual and the group’s practical care provide warmth throughout a very cold subject. | High |
++| Action / suspense | 7/10 | Chapter 38, lines 225–373, the signed test rule through Brom’s count of one and the immediate stop | The learning encounter has rules, roles, a near-failure, a visible cost, and disciplined adaptation. The movement is nevertheless dominated by people reading and reasoning in rooms, which may feel slow to a younger action-led reader. | High |
++| Progression payoff | 8/10 | Chapter 38, lines 249–313 and 327–373, Cael perceiving rests and anticipated foot placement, then learning that a held door is quiet and stopping a partial fixation | The new ability becomes understandable rather than merely impressive. Its range, trigger, social meaning, and first bill are all tested, while the characters wisely avoid claiming mastery. | High |
++| Connection | 9/10 | Chapter 37, line 208, the revised seal entry; Chapter 39, line 243, “It’s not evidence. It’s a map” | Doors, thresholds, files, naming, holding, maps, and costs recur as both physical facts and moral ideas. Earlier details repeatedly become later decisions rather than decorative callbacks. | High |
++| Read-aloud quality | 9/10 | Chapter 40, lines 197–201, Vastin’s “designed to be” line and the description of his face being “tidied” | The sentence lengths vary cleanly, dialogue attribution is controlled, and repeated phrases gather force. A few long analytical paragraphs in Chapter 39 are easier on the page than aloud, but the overall cadence is excellent. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 35, lines 3–83, from the quiet new thing through the clean oblong on Seln’s shelf | The opening combines aftermath, an emerging power, covert procedure, and damaged bodies without exposition-first staging. Its mystery feels deliberate rather than evasive. | High |
++| Keep reading | 9/10 | Chapter 40, lines 197–240, Vastin’s realization, three refusals, and refusal to declare himself “with” the group | The local payoff is morally exact but strategically incomplete. Vastin changes the board by withholding certification, while his independence preserves uncertainty about what he will do next. | High |
++| Interest / freshness | 9/10 | Chapter 36, lines 51–79, the nineteen reissued memoranda and the coal-order analogy; Chapter 39, line 203 | The antagonist is administrative continuity rather than a mastermind. Forms, copying hands, seals, and filing habits become an original engine of threat instead of mere worldbuilding texture. | High |
++| Clarity / flow | 8/10 | Chapter 39, lines 176–217, re-evaluation as “delivery” through “It isn’t broken. It’s maintained” | The central causal chain is very clear: re-evaluation invokes the function; either result puts Cael back inside the instrument. Some interpretive restatement across Chapters 36, 39, and 40 slows an otherwise precise escalation. | High |
++| Character attachment | 9/10 | Chapter 36, lines 169–199, Lira asking the cost of Seln’s pleasantness and Seln explaining how his mother’s imperfect ledger taught him what “right” looked like | Private history directly explains present competence. Seln’s reserve, Lira’s humane directness, and Karis’s evidence discipline distinguish them without assigned personality speeches. | High |
++| Humor / warmth | 9/10 | Chapter 37, lines 214–220, Brom’s one-handed tea and Seln turning the cup; Chapter 38, lines 299–313, the doorstop exchange | Warmth is enacted as practical accommodation: tea, pacing, hands on doors, waiting for injured people, and not helping when help would violate dignity. The humor is dry and relational. | High |
++| Action / suspense | 8/10 | Chapter 35, lines 91–183, the separated routes and covert arrival; Chapter 38, lines 225–373, the controlled threshold experiment; Chapter 40, lines 115–197, waiting for and watching Vastin read | Suspense comes from procedural exposure, not combat. Positions, entrances, observers, rules, and abort conditions are trackable. The long silences work because discovery or betrayal remains possible. | High |
++| Progression payoff | 8/10 | Chapter 37, lines 35–88, Cael’s full accounting of fragments and prices; Chapter 38, lines 249–373, the first structured observation of the new ability | Existing capabilities and costs are consolidated, the sealed fragment receives new terms, and the new sense gains a measurable working model. The movement advances knowledge more than raw power, appropriately. | High |
++| Connection | 9/10 | Chapter 35, line 231, the double meaning of “Nothing to report”; Chapter 37, line 208, the corrected ledger entry; Chapter 39, line 243, the case becoming a map; Chapter 40, line 329, Vastin’s unrecorded act | Motifs do structural work across the full movement. The final act of not writing answers a movement built from paper, while Seln’s mother’s visible corrections answer the registry’s false perfection. | High |
++| Read-aloud quality | 9/10 | Chapter 36, line 199, Seln’s account of the ledger; Chapter 40, line 329, the final sentence | Cadence, parallelism, and short landing sentences are consistently controlled. The prose lets silence and repeated official phrases accumulate meaning without unclear speakers or referents. | High |
++
++## Continuity, rules, and disclosure check
++
++No editorial canon evidence was supplied, so I cannot verify canon violations or plan adherence. I can report only internal consistency within Chapters 35–40.
++
++- **Physical state:** Cael’s ribs and forearm, Lira’s right ankle, Brom’s left shoulder, and Karis’s hand limitations are carried consistently. Lira leaves the crutch but remains barred from floors and frames, descends stairs seated before progressing to careful standing descent, fails Rooke’s walk test, and participates in the east-hall test from a bench. Brom’s sling comes off with a week of restrictions; subsequent actions are presented as careful or one-handed. Cael’s ribs improve across the movement without disappearing at convenient moments.
++- **Power limits:** Cael recounts the fragment costs and acquisition rules in Chapter 37 before the new threshold sense is tested. Chapter 38 explicitly limits the test to perception, gives Brom an abort count, stops at one, distinguishes perception range from reach, records a bill behind the eyes, and does not let the ability solve a decisive problem. The sealed Shadow-adjacent fragment remains sealed under revised terms.
++- **Knowledge boundaries:** The group’s rule in Chapter 40—“He gets the case. Nothing about Cael” (line 47)—is honored in the Ostrand room. Vastin is allowed to infer and choose without being given Cael’s private account. Vastin in turn chooses not to write Seln or the young people into a file. Karis consistently separates findings, hypotheses, and limits; session nine remains “Still open.”
++- **Reserved disclosures:** None were supplied for comparison. Internally, the movement shows strong disclosure discipline: the case explains the middle layer but explicitly does not explain the origin of the reading, and characters refuse to fill that gap with guesses.
++- **Apparent internal inconsistency:** Chapter 40 establishes that Vastin looks at “the five of them” in the borrowed room (lines 145 and 201): Cael, Lira, Brom, Karis, and Seln. In Vastin’s later recollection, however, the room contains “Five young people and a man at a window” (line 279), which totals six and makes the five non-Seln participants young. The scene contains four young people plus Seln. This is an internal headcount error, not a canon-dependent judgment.
++
++## Overall judgment
++
++This is a compelling movement with a clear internal arc and unusually disciplined thematic construction. Its best achievement is that it makes institutional horror legible without reducing it to a lecture or a villain reveal. Paper is evidence, hiding place, weapon, inheritance, and trap. The characters’ different methods of knowing—Cael’s counting, Karis’s documentary restraint, Brom’s practical analogy, Lira’s moral directness, Seln’s operational caution, and Vastin’s measurement—create conflict and cooperation even while most scenes take place around tables.
++
++The chief tradeoff is pace. The accumulation is necessary to make two centuries of ordinary conduct feel real, and the final Vastin sequence earns its silence. The movement sometimes explains the same conclusion once through the documents, once through dialogue, and once through interior summary. A selective compression would increase pressure without turning the case into a thin clue or sacrificing the developed procedural scenes.
++
++## Repair brief
++
++### 1. Correct the Ostrand-room headcount
++
++- **Location:** Chapter 40, line 279, “Five young people and a man at a window.” Compare lines 123, 145, and 201.
++- **Observed issue:** The room contains Cael, Lira, Brom, Karis, and Seln: four young people and one man at the window, five people total. The recollection currently describes six.
++- **Effect on the reader:** A careful reader may stop to recount the group at the exact moment Vastin’s moral reasoning should remain uninterrupted.
++- **Proposed scope:** One phrase only: use “Four young people and a man at a window,” or an equally exact five-person construction.
++- **Strength to preserve:** Keep the anonymous, file-avoiding way Vastin remembers them and the contrast between the young people and Seln at the window.
++
++### 2. Compress explanatory echoes, not documentary drama
++
++- **Location:** Chapter 36, especially lines 51–79 and 199–203; Chapter 39, especially lines 65–165 and 189–217; Chapter 40, lines 154–197.
++- **Observed issue:** The same institutional conclusion is sometimes delivered by the evidence, restated by a character, and then restated in interior summary. Across the movement, repeated inventories of the forty pairs, twenty-three reports, nineteen memoranda, and their implications can make the reader feel ahead of the prose.
++- **Effect on the reader:** The middle of the movement loses some forward pressure, particularly for the fluent thirteen-year-old lens, and the sharpest formulations compete with nearby explanations instead of landing alone.
++- **Proposed scope:** Make a surgical compression pass on sentences that only paraphrase a conclusion the immediately preceding document or dialogue has already established. Do not remove an evidence class, shorten Vastin’s silent read into summary, or reduce the east-hall learning scene. Preserve the full father’s letter, the coal-order analogy, Seln’s mother’s ledger, Karis’s entered limit, “It’s not evidence. It’s a map,” and Vastin’s three refusals.
++- **Strength to preserve:** The procedural accumulation is the movement’s suspense mechanism and moral proof. Tighten duplicate interpretation while retaining the physical handling of paper, the patient silences, and the sense that the conclusion has been earned rather than announced.
+
+codex
+Completed the simulated cold-read review and created only:
+
+[review-cold.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md)
+diff --git a/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..be0ebaf87bcdd3e97a5689e03d250547e5c61824
+--- /dev/null
++++ b/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md
+@@ -0,0 +1,83 @@
++# Simulated cold-read review — Movement 006
++
++This is a **fresh-context simulated cold read**, not a real audience measurement or a human-reader test. I read only the six supplied manuscript files, Chapters 35–40, in their declared order. I was given no editorial canon, plans, formula check, drafting history, or earlier chapters. The supplied movement feels locally complete: it opens the case, interprets what the case proves, tests the new threshold sense, and ends with Vastin making a consequential choice. The larger book plainly remains in progress. All judgments below are limited to this movement.
++
++## Unscored reader response
++
++The opening caught me with “The new thing asked nothing when he woke” (Chapter 35, line 3). The absence of a demand is made physically meaningful through Cael’s injuries and his ritual of naming the door. I did not yet understand the new thing, the naming, the case, the road, or the proceeding, but the scene gave me a person managing an intrusive change rather than a glossary. The empty place on Seln’s shelf then converted unease into a concrete promise.
++
++Interest rose sharply once the case was opened. The strongest early turn is not the existence of the reclassification orders but the father’s careful letter and the district clerk’s honest reply. “The honest people were in the drawer too” (Chapter 35, line 287) changes the antagonist from a hidden villain into a system that can absorb decent conduct. The movement keeps deepening that idea: reissues signed like coal orders, Seln’s mother’s corrected ledgers, the distinction between a reading and the advisory function, and finally the conclusion that the system is not broken but maintained.
++
++My attention slipped in portions of Chapters 36 and 39, where evidence already made legible in scene is restated through several successive analyses. The forty paired documents, twenty-three reports, nineteen memoranda, Karis’s four findings, and Vastin’s later rereading all serve distinct dramatic purposes, but their cumulative explanatory weight occasionally outruns the next choice. This is most noticeable in the long historical account in Chapter 39 between the dating of the memoranda and the “entered as a limit” conclusion. I remained interested, but I sometimes felt ahead of the explanation.
++
++Seln matters most to me by the end, with Cael close behind. His cost is expressed in behavior rather than declared grievance: “Nothing anybody would have noticed” (Chapter 36, line 187). The mutual revelation in Chapter 37—Cael learning that Seln knew he was on the stair, then Seln learning that Cael kept his file—is the emotional center of the movement. Lira is the person who repeatedly turns information into a usable moral question, and Karis’s refusal to guess past the paper keeps the discoveries credible. Vastin arrives late but becomes fully dimensional because he does not join the group, does not ask to be reassured, and chooses one narrow refusal he can honestly make.
++
++I expect the next major event to be the seat’s response when Vastin declines to certify the re-evaluation protocol. That refusal should force the institution either to expose a substitute mechanism or to place pressure on him. I also expect the one-day withdrawal door, the group’s decision to “walk perfectly,” and the threshold ability’s newly measured perception and cost to converge near the ruling.
++
++I would continue. The movement delivers a substantial revelation, a changed understanding of the antagonist, a tested capability, and an emotionally costly new ally-adjacent actor without pretending any of those things solve the book’s problem.
++
++## Fluent thirteen-year-old reader lens
++
++These scores are editorial judgments through a lens, not demographic findings.
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 7/10 | Chapter 35, line 3, “The new thing asked nothing when he woke,” through the infirmary-door naming at line 39 | The bodily discomfort and unexplained “new thing” create immediate curiosity. A reader entering cold at Chapter 35 must carry several unknowns at once, however, and “Today was the shape” is evocative before it is intelligible. | High |
++| Keep reading | 8/10 | Chapter 35, lines 183–287, from the four-part unpacking of the case through “The honest people were in the drawer too” | Each layer of paper answers one question and opens a worse one. The father’s letter supplies a human victim before the institutional explanation becomes abstract. | High |
++| Interest / freshness | 9/10 | Chapter 39, lines 203–217, “A conspiracy can be exposed. A convenience cannot” and “It isn’t broken. It’s maintained” | Making correct paperwork, ordinary competence, and inherited convenience the mechanism of harm feels specific and fresh. There is no easy wicked official for the reader to dismiss. | High |
++| Clarity / flow | 7/10 | Chapter 39, lines 65–165, Karis’s dating of the policy, the older reading, the old custom, and the entered limit | The logic is ultimately clear, especially because Karis distinguishes findings from limits. The density of “reading,” “function,” “entry,” “margin,” “policy,” “directive,” and “flag” can make this passage require rereading. | High |
++| Character attachment | 9/10 | Chapter 37, lines 182–220, “You kept my file too” through Seln’s quarter-turn of the cup | Cael and Seln discover that each has protected the other without seeking credit. The cup turn makes acceptance visible without sentimental explanation. | High |
++| Humor / warmth | 8/10 | Chapter 35, lines 35–39, the healer’s almost-joke and Lira’s infirmary-door definition; Chapter 38, line 309, Brom as “the best doorstop on the bluff” | Humor belongs to distinct characters and releases pressure without mocking the pain. The naming ritual and the group’s practical care provide warmth throughout a very cold subject. | High |
++| Action / suspense | 7/10 | Chapter 38, lines 225–373, the signed test rule through Brom’s count of one and the immediate stop | The learning encounter has rules, roles, a near-failure, a visible cost, and disciplined adaptation. The movement is nevertheless dominated by people reading and reasoning in rooms, which may feel slow to a younger action-led reader. | High |
++| Progression payoff | 8/10 | Chapter 38, lines 249–313 and 327–373, Cael perceiving rests and anticipated foot placement, then learning that a held door is quiet and stopping a partial fixation | The new ability becomes understandable rather than merely impressive. Its range, trigger, social meaning, and first bill are all tested, while the characters wisely avoid claiming mastery. | High |
++| Connection | 9/10 | Chapter 37, line 208, the revised seal entry; Chapter 39, line 243, “It’s not evidence. It’s a map” | Doors, thresholds, files, naming, holding, maps, and costs recur as both physical facts and moral ideas. Earlier details repeatedly become later decisions rather than decorative callbacks. | High |
++| Read-aloud quality | 9/10 | Chapter 40, lines 197–201, Vastin’s “designed to be” line and the description of his face being “tidied” | The sentence lengths vary cleanly, dialogue attribution is controlled, and repeated phrases gather force. A few long analytical paragraphs in Chapter 39 are easier on the page than aloud, but the overall cadence is excellent. | High |
++
++## Adult genre-reader lens
++
++| Dimension | Score | Exact passage location | Reason | Confidence |
++|---|---:|---|---|---|
++| Opening pull | 8/10 | Chapter 35, lines 3–83, from the quiet new thing through the clean oblong on Seln’s shelf | The opening combines aftermath, an emerging power, covert procedure, and damaged bodies without exposition-first staging. Its mystery feels deliberate rather than evasive. | High |
++| Keep reading | 9/10 | Chapter 40, lines 197–240, Vastin’s realization, three refusals, and refusal to declare himself “with” the group | The local payoff is morally exact but strategically incomplete. Vastin changes the board by withholding certification, while his independence preserves uncertainty about what he will do next. | High |
++| Interest / freshness | 9/10 | Chapter 36, lines 51–79, the nineteen reissued memoranda and the coal-order analogy; Chapter 39, line 203 | The antagonist is administrative continuity rather than a mastermind. Forms, copying hands, seals, and filing habits become an original engine of threat instead of mere worldbuilding texture. | High |
++| Clarity / flow | 8/10 | Chapter 39, lines 176–217, re-evaluation as “delivery” through “It isn’t broken. It’s maintained” | The central causal chain is very clear: re-evaluation invokes the function; either result puts Cael back inside the instrument. Some interpretive restatement across Chapters 36, 39, and 40 slows an otherwise precise escalation. | High |
++| Character attachment | 9/10 | Chapter 36, lines 169–199, Lira asking the cost of Seln’s pleasantness and Seln explaining how his mother’s imperfect ledger taught him what “right” looked like | Private history directly explains present competence. Seln’s reserve, Lira’s humane directness, and Karis’s evidence discipline distinguish them without assigned personality speeches. | High |
++| Humor / warmth | 9/10 | Chapter 37, lines 214–220, Brom’s one-handed tea and Seln turning the cup; Chapter 38, lines 299–313, the doorstop exchange | Warmth is enacted as practical accommodation: tea, pacing, hands on doors, waiting for injured people, and not helping when help would violate dignity. The humor is dry and relational. | High |
++| Action / suspense | 8/10 | Chapter 35, lines 91–183, the separated routes and covert arrival; Chapter 38, lines 225–373, the controlled threshold experiment; Chapter 40, lines 115–197, waiting for and watching Vastin read | Suspense comes from procedural exposure, not combat. Positions, entrances, observers, rules, and abort conditions are trackable. The long silences work because discovery or betrayal remains possible. | High |
++| Progression payoff | 8/10 | Chapter 37, lines 35–88, Cael’s full accounting of fragments and prices; Chapter 38, lines 249–373, the first structured observation of the new ability | Existing capabilities and costs are consolidated, the sealed fragment receives new terms, and the new sense gains a measurable working model. The movement advances knowledge more than raw power, appropriately. | High |
++| Connection | 9/10 | Chapter 35, line 231, the double meaning of “Nothing to report”; Chapter 37, line 208, the corrected ledger entry; Chapter 39, line 243, the case becoming a map; Chapter 40, line 329, Vastin’s unrecorded act | Motifs do structural work across the full movement. The final act of not writing answers a movement built from paper, while Seln’s mother’s visible corrections answer the registry’s false perfection. | High |
++| Read-aloud quality | 9/10 | Chapter 36, line 199, Seln’s account of the ledger; Chapter 40, line 329, the final sentence | Cadence, parallelism, and short landing sentences are consistently controlled. The prose lets silence and repeated official phrases accumulate meaning without unclear speakers or referents. | High |
++
++## Continuity, rules, and disclosure check
++
++No editorial canon evidence was supplied, so I cannot verify canon violations or plan adherence. I can report only internal consistency within Chapters 35–40.
++
++- **Physical state:** Cael’s ribs and forearm, Lira’s right ankle, Brom’s left shoulder, and Karis’s hand limitations are carried consistently. Lira leaves the crutch but remains barred from floors and frames, descends stairs seated before progressing to careful standing descent, fails Rooke’s walk test, and participates in the east-hall test from a bench. Brom’s sling comes off with a week of restrictions; subsequent actions are presented as careful or one-handed. Cael’s ribs improve across the movement without disappearing at convenient moments.
++- **Power limits:** Cael recounts the fragment costs and acquisition rules in Chapter 37 before the new threshold sense is tested. Chapter 38 explicitly limits the test to perception, gives Brom an abort count, stops at one, distinguishes perception range from reach, records a bill behind the eyes, and does not let the ability solve a decisive problem. The sealed Shadow-adjacent fragment remains sealed under revised terms.
++- **Knowledge boundaries:** The group’s rule in Chapter 40—“He gets the case. Nothing about Cael” (line 47)—is honored in the Ostrand room. Vastin is allowed to infer and choose without being given Cael’s private account. Vastin in turn chooses not to write Seln or the young people into a file. Karis consistently separates findings, hypotheses, and limits; session nine remains “Still open.”
++- **Reserved disclosures:** None were supplied for comparison. Internally, the movement shows strong disclosure discipline: the case explains the middle layer but explicitly does not explain the origin of the reading, and characters refuse to fill that gap with guesses.
++- **Apparent internal inconsistency:** Chapter 40 establishes that Vastin looks at “the five of them” in the borrowed room (lines 145 and 201): Cael, Lira, Brom, Karis, and Seln. In Vastin’s later recollection, however, the room contains “Five young people and a man at a window” (line 279), which totals six and makes the five non-Seln participants young. The scene contains four young people plus Seln. This is an internal headcount error, not a canon-dependent judgment.
++
++## Overall judgment
++
++This is a compelling movement with a clear internal arc and unusually disciplined thematic construction. Its best achievement is that it makes institutional horror legible without reducing it to a lecture or a villain reveal. Paper is evidence, hiding place, weapon, inheritance, and trap. The characters’ different methods of knowing—Cael’s counting, Karis’s documentary restraint, Brom’s practical analogy, Lira’s moral directness, Seln’s operational caution, and Vastin’s measurement—create conflict and cooperation even while most scenes take place around tables.
++
++The chief tradeoff is pace. The accumulation is necessary to make two centuries of ordinary conduct feel real, and the final Vastin sequence earns its silence. The movement sometimes explains the same conclusion once through the documents, once through dialogue, and once through interior summary. A selective compression would increase pressure without turning the case into a thin clue or sacrificing the developed procedural scenes.
++
++## Repair brief
++
++### 1. Correct the Ostrand-room headcount
++
++- **Location:** Chapter 40, line 279, “Five young people and a man at a window.” Compare lines 123, 145, and 201.
++- **Observed issue:** The room contains Cael, Lira, Brom, Karis, and Seln: four young people and one man at the window, five people total. The recollection currently describes six.
++- **Effect on the reader:** A careful reader may stop to recount the group at the exact moment Vastin’s moral reasoning should remain uninterrupted.
++- **Proposed scope:** One phrase only: use “Four young people and a man at a window,” or an equally exact five-person construction.
++- **Strength to preserve:** Keep the anonymous, file-avoiding way Vastin remembers them and the contrast between the young people and Seln at the window.
++
++### 2. Compress explanatory echoes, not documentary drama
++
++- **Location:** Chapter 36, especially lines 51–79 and 199–203; Chapter 39, especially lines 65–165 and 189–217; Chapter 40, lines 154–197.
++- **Observed issue:** The same institutional conclusion is sometimes delivered by the evidence, restated by a character, and then restated in interior summary. Across the movement, repeated inventories of the forty pairs, twenty-three reports, nineteen memoranda, and their implications can make the reader feel ahead of the prose.
++- **Effect on the reader:** The middle of the movement loses some forward pressure, particularly for the fluent thirteen-year-old lens, and the sharpest formulations compete with nearby explanations instead of landing alone.
++- **Proposed scope:** Make a surgical compression pass on sentences that only paraphrase a conclusion the immediately preceding document or dialogue has already established. Do not remove an evidence class, shorten Vastin’s silent read into summary, or reduce the east-hall learning scene. Preserve the full father’s letter, the coal-order analogy, Seln’s mother’s ledger, Karis’s entered limit, “It’s not evidence. It’s a map,” and Vastin’s three refusals.
++- **Strength to preserve:** The procedural accumulation is the movement’s suspense mechanism and moral proof. Tighten duplicate interpretation while retaining the physical handling of paper, the patient silences, and the sense that the conclusion has been earned rather than announced.
+
+tokens used
+91,500
+Completed the simulated cold-read review and created only:
+
+[review-cold.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-06-the-compacts-hand/state/movement-006/review-cold.md)
