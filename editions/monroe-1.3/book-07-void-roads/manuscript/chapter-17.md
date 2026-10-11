@@ -26,11 +26,9 @@ There was none. No head was turned toward any other. Each of the thirty faced th
 
 Cael weighed it. Thirty animals stood three hundred and fifty yards up a slope of loose plates, and the five of them had a cart, and a rule in a one-armed man's words. To go back was to go down the fan, and to go on was to do for one afternoon what carters did every year.
 
-"We go on," he said, "at a walk. Lira runs the hundreds as before, but she runs them under the wall, and Karis measures. Nobody calls a figure across the shelf; if you want me to hear a number, you come and say it in my ear."
+"We go on," he said, "at a walk. Nobody calls a figure across the shelf; if you want me to hear a number, you come and say it in my ear."
 
-They did twelve more lines that day, and it was the quietest work he had ever done in company.
-
-He paced, and wrote. Karis laid her brass on the rock and bent over her thread, and came to him with each figure as a clerk brings a paper to a desk. Brom leaned into his rope on the up-slope side, with his eyes on the cart's near wheel and never once on the hill, like a man passing a dog that he has been told will bite if it is stared at. The dry hub ticked at every turn, and up on the face the rasping went on without a break. Each time he raised his eyes from the page the grey heaps were where they had been.
+They did twelve more lines that day, and it was the quietest work he had ever done in company. Karis came to him with each figure as a clerk brings a paper to a desk. Brom leaned into his rope with his eyes on the cart's near wheel and never once on the hill, like a man passing a dog that he has been told will bite if it is stared at. Up on the face the rasping went on without a break, and each time Cael raised his eyes from the page the grey heaps were where they had been.
 
 At the twentieth hundred he looked up and found them behind his left shoulder, and he had not seen one of them take a step.
 
@@ -40,7 +38,7 @@ Seln had found the second overhang, and he had found it directly beneath the mid
 
 "It is the only one in the next mile," he said, before anybody could remark on it. "I looked for another, and I should have preferred another."
 
-It was deeper than the first, a long low cave of a place where a bed of softer stone had weathered back, and from its mouth the whole line of the upper shelf could be seen against the evening sky. He had swept it, and laid his ring of stones, and put nothing in the ring.
+It was deeper than the first, a long low cave of a place where a bed of softer stone had weathered back, and from its mouth the whole line of the upper shelf could be seen against the evening sky. He had laid a ring of stones on its floor, and put nothing in the ring.
 
 Karis stood looking at the ring for some time.
 
@@ -48,89 +46,61 @@ Karis stood looking at the ring for some time.
 
 Lira turned round. Brom had been lowering the tail-board with both hands under it, and he stopped with it halfway.
 
-"Hear me first. The country's rule has three things in it, and Pike's *loud* has the same three, since it's the same rule. For the hounds we found out which one mattered, and it cost four of us a month. I don't know which matters to those." She tipped her head at the roof, and at what was above it. "I shall have to find out, because the last column of his table is mine, and a carter who comes over this bench with a Force at his tail-board ought to be told what he may do with him. Of the three, there is one that I can test this evening and then take back."
+"Hear me first. Pike's *loud* has three things in it, as the country's rule has, and I don't know which of them matters to those." She tipped her head at the roof, and at what was above it. "Of the three, a fire is the one I can try this evening and then take back. It's struck with a flint, it will be the size of my two hands, and if a head comes up, Seln puts his coat over it. A Path I can't take back, and a shout I'd sooner not try on purpose."
 
-"Fire," said Cael.
-
-"It's struck with a flint. It will be the size of my two hands, under a roof of rock, at three hundred and fifty yards; and if one head comes up, Seln puts his coat over it, and we've lost a coat." She folded her arms, carefully, on account of her palms. "A Path I can't take back, and a shout I'd sooner not try on purpose. But I should like to cross one of the three off tonight, while it's cheap."
-
-"And if it isn't cheap?" said Brom. "If it's the one?"
+"And if it's the one?" said Brom.
 
 "Then we learn it with a fire that a coat can put out, and not next week with one we need."
 
-Cael had the ruling, and he did not hurry it. He had lifted the rule from tinderboxes once before, above a wash, on the strength of a page that had been tested at a ford; and this was tested by nobody. He turned her reasoning over for the place where it would break, as she had once asked four people to do in a loft, and what he found was that she had already chosen the one test whose failure they could best afford.
+Cael had the ruling. He had lifted the rule from tinderboxes once before, above a wash, on the strength of a page that had been tested at a ford, and this was tested by nobody; but when he turned her reasoning over for the place where it would break, he saw that she had already chosen the one test whose failure they could best afford.
 
 "Hands," he said.
 
-There were five. Brom's came up last, and he set the tail-board down on its chains first, so gently that no link spoke.
+There were five. Seln struck the flint, and Lira lay on her stomach at the mouth of the overhang and watched the upper shelf with her chin on her fists, since her eyes were the best of the five. A thread of smoke went up and flattened under the rock and crept out along it into the dusk.
 
-Seln struck the flint, and Lira lay on her stomach at the mouth of the overhang, where the roof stopped, and watched the upper shelf with her chin on her fists, since her eyes were the best of the five. The tinder caught. A thread of smoke went up and flattened under the rock and crept out along it into the dusk, and when the first twigs had taken there was light on all their faces.
+"Nothing," she said, when the twigs had taken. "They're scraping. The third from this end has lain down; it folded up its front legs first, like a cow."
 
-"Well?" said Karis. She had Hesk's clock open on her knee.
+They gave it half an hour by Hesk's clock, with the fire built up to the size of a hat, and thirty beaks rasped on in the dark overhead.
 
-"Nothing." Lira kept her head where it was. "They're scraping. The third from this end has lain down; it folded up its front legs first, like a cow."
-
-"Did it look this way?"
-
-"It looked at its own feet."
-
-They gave it a quarter of an hour by the clock, and then another, with the fire built up to the size of a hat, and thirty beaks rasped on in the dark overhead. Karis shut the clock.
-
-"One," she said, and wrote it. "Fire: lit and fed for half an hour, in plain sight, at three hundred and fifty yards, and not a head." She looked up. "I shan't call it struck off for good. I call it struck off at that distance, and at that size. But I'm a good deal warmer than I was."
+"One," said Karis, and wrote it. "Fire, lit and fed in plain sight at three hundred and fifty yards, and not a head. I shan't call it struck off for good. I call it struck off at that distance, and at that size."
 
 "Twenty-two years," said Brom, to the flames, in a fair imitation of a carter, and Lira laughed into her sleeve.
 
-They ate hot food for the first time since the wash. Afterward Karis sat with her notebook shut on her finger, looking at the black line of the upper shelf, and Cael knew what she was going to ask before she drew the breath for it.
+They ate hot food for the first time since the wash, and afterward Karis asked for the whole of the next day. She would do no hundreds; she would sit on a rock in front of that roof with the clock and watch the herd from first light until she could not see.
 
-"I want tomorrow, all of it. We do no hundreds, and I sit on a rock in front of this place with the clock and look at them from first light until I can't see." She turned to him. "It will cost a day's lines, and I know what that is in flour."
+"It will cost a day's lines," she said, "and I know what that is in flour."
 
-"It isn't a day off the map," he said. "It's the map. The column says whether it takes a cart, and why, and those are part of why."
+"It isn't a day off the map. It's the map. Your column says whether the shelf takes a cart, and why, and those are part of why."
 
-"That's what I'd have argued."
-
-"Then I've saved you a sentence."
-
-"I had four ready." She opened the notebook, and her eyes had the brightness in them that he had seen over a charcoal river. "I shall want a second pair of eyes, since I can't watch both ends of a line three hundred yards long; and a hand, for when mine stops."
+"That's what I'd have argued. I had four sentences ready." Her eyes had the brightness in them that he had seen over a charcoal river. "I shall want a second pair of eyes, since I can't watch both ends of a line three hundred yards long; and a hand, for when mine stops."
 
 ---
 
-She took her seat at first light, on a slab ten yards out from the overhang's mouth, with her knees drawn up and the clock beside her on a folded stocking.
+She took her station at first light, on a slab ten yards out from the overhang's mouth, with her knees drawn up and the clock beside her on a folded stocking.
 
-Cael sat on her left with the notebook, and Lira lay on the rock at her right, on her stomach again. Brom stayed under the roof with the cart and the boxes, mending a strap, and Seln had gone on westward before any of them woke. There was ice on the slab. The sun had not yet reached into the gorge, and thirty heaps of grey stone lay along the upper shelf with frost on their backs.
+Cael sat on her left with the notebook, and Lira lay on the rock at her right, on her stomach again. Brom stayed under the roof with the cart, and Seln had gone on westward before any of them woke. The sun had not yet reached into the gorge, and thirty heaps of grey stone lay along the upper shelf with frost on their backs.
 
 "The east end is mine," said Karis, "and you have the west. Lira takes whichever of them does something. Nobody is to tell me what he thinks it means; I want what it did, and when."
 
-The first thing she had from them was the spacing, and she had it within the hour.
-
-"Count the gaps, in lengths. I've no means of taping them from here."
-
-He counted. Between the westernmost animal and the next there was room for one of them and half another, and between that one and the third it was the same, and so along the line as far as he could see it clearly. Where a half-grown calf stood inside its dam the two of them made one place, and the gap was kept from the pair.
-
-"A length and a half," he said. "Everywhere."
-
-"I make it the same. Watch the sixth from your end; it's about to come forward, for it's scraped out what's in front of it."
-
-The sixth moved up a pace. It did so with great deliberation, one thick leg at a time, and a breath afterward the seventh did the same, and the eighth after that. He watched the gap close and open again down eleven animals, like a pulse going along a rope, and when it had passed, every gap was a length and a half once more.
+The first observation was the spacing, and she had it within the hour. He counted the intervals for her in lengths, since there was no means of taping them, and between every animal and the next there was room for one of them and half another; a calf and its dam made one place, and the gap was kept from the pair. When the sixth from his end had scraped out what was in front of it and moved up a pace, the seventh did the same a breath afterward, and the eighth after that. He watched the gap close and open again down eleven animals, like a pulse going along a rope.
 
 "They don't look at each other to do that," said Lira. "Their heads are down, and they can't see past their own beaks."
 
 "Write that she said so," said Karis, "and the time."
 
-The second thing took her until the sun was on the shelf. High on the face, a little west of the leading animal, a vein of white stone ran down the slope as broad as a door, and at the first hour by the clock the leader's beak had been a cart's length short of it. She had him enter that. At the second hour the white vein was behind the leader's tail, and the whole line, thirty animals and all their gaps, lay forty yards farther along the mountain than it had.
+The second thing took her until the sun was on the shelf. High on the face, a little west of the leading animal, a vein of white stone ran down the slope as broad as a door, and at the first hour by the clock the leader's beak had been a cart's length short of it. At the second hour the white vein was behind the leader's tail, and the whole line, thirty animals and all their gaps, lay forty yards farther along the mountain than it had.
 
 "Did you see one of them walk?" she said.
 
-He thought about it honestly.
+"I saw the sixth come up a pace, and twice more I saw a leg lift. I never saw the line go anywhere."
 
-"I saw the sixth come up a pace, and the ones behind it, and twice more I saw a leg lift. I never saw the line go anywhere."
-
-"Nor I, and I watched one animal for a count of three hundred without blinking more than I could help. It took four steps in that time, each of them while it was scraping." She rubbed her eyes with the back of her wrist. "They move as the hand of this clock moves. One looks away, and it's later."
+"Nor I, and I watched one animal for a count of three hundred. They move as the hand of this clock moves." She rubbed her eyes with the back of her wrist. "One looks away, and it's later."
 
 The third thing came down on them out of the sky at about noon.
 
 The sun had been on the crags above the upper shelf for an hour, and whatever the frost had been holding there it let go. He heard a crack, a long way up, and then a hollow knocking that grew; and a rock the size of a keg came down the face in great slow bounds, turning over in the air, and went straight through the line.
 
-It passed between the ninth animal and the tenth. It struck their own shelf between them with a sound like a mallet on a cask, and burst, and the larger half of it leaped out again and went on down the slope toward the bench, so that he felt the blow come up through the slab under him. The piece crossed the lower shelf two hundred yards west of where they sat, taking a spray of plates with it, and dropped into the gorge. A good while afterward the far wall gave the whole of it back, the crack and the knocking and the burst.
+It passed between the ninth animal and the tenth. It struck their own shelf between them with a sound like a mallet on a cask, and burst, and he felt the blow come up through the slab under him. The larger half leaped out again and crossed the bench two hundred yards west of where they sat, and dropped into the gorge; and a good while afterward the far wall gave the whole of it back.
 
 Karis had not flinched, and her eyes had never left the line.
 
@@ -142,7 +112,7 @@ Karis had not flinched, and her eyes had never left the line.
 
 "Not a head, and that went by as close to them as I am to you."
 
-"A step, then, from the two it nearly hit, and a step isn't flight." Karis let out her breath. "Give me the notebook; I want to put this one in my own hand." She took it on her knee and wrote slowly, with her lips tight. "*Sound: a rock the size of a keg, striking the shelf between two animals, loud enough to be returned by the gorge. Felt in the slab at three hundred and fifty yards. Two animals moved one step each. No other response.*"
+"A step, then, from the two it nearly hit, and a step isn't flight." Karis let out her breath. "Give me the notebook; I want to put this one in my own hand." She took it on her knee and wrote slowly, with her lips tight. "*Sound: a rock the size of a keg, striking their own shelf. Felt in the slab here. Two animals moved one step each. No other response.*"
 
 "That's two of the three," said Cael.
 
@@ -162,7 +132,7 @@ Then he heard it. It was a long grinding rush, like a load of slates shot off a 
 
 "There," said Lira, who was up on her elbows. "Under the last one, at this end. Look."
 
-A piece of the upper shelf had gone. He could see the scar, pale and sharp-edged, where a slab as big as a barn door had been lying along the lip, and the slab itself was sliding still, far down the face, breaking as it went. The easternmost animal stood above the place with its hindquarters low and its legs spread wide. It had been standing on the thing when it went.
+A piece of the upper shelf had gone. He could see the scar, pale and sharp-edged, where a slab as big as a barn door had been lying along the lip, and the slab itself was sliding still, far down the face, breaking as it went. The easternmost animal stood above the place with its hindquarters low and its legs spread wide, for it had been standing on the thing when it went.
 
 He turned that over while the last of the plates ran out below. He had been watching one animal, on purpose, at the far end of a line three hundred yards long; and he had not seen the cause of what it did, and it had not seen the cause either, and it had moved all the same.
 
@@ -232,7 +202,7 @@ She had said it slowly, and she was looking at her own right foot.
 
 "Uphill, and all together, with no first animal to wait for. The hounds go to the thing, and these go from it." She wrote four words and underlined them. "*Same sense. Opposite answer.* And there is Pike's word to lay beside it, which is *loud*; and when we asked a ford what a carter meant by that, the answer was a Path."
 
-She wrote for some minutes, and when she read it out it was shorter than he had expected.
+She wrote for some minutes, numbering her clauses as she had numbered them in a barn, and when she read the page out it was shorter than he had expected.
 
 "*Shale-back. Seventy-fifth day. One: it does not answer fire at three hundred and fifty yards, nor sound, nor a blow on its own shelf. Two: it answers something given off by one of its own in fright, at once, the whole herd together, by moving away. Three: by that, and by the carters' rule, it will answer a declaration in the same way, and a declaration is a great deal larger than a frightened animal.*" She stopped. "*Derived. Not tested.*"
 
@@ -252,7 +222,7 @@ She said it without any weight, as she would have read out a width.
 
 Cael looked up at the grey heaps on the mountain, and he saw what the page meant for him.
 
-At the ford he had found a seam. He had sat on a gravel bar with four hurt people and gone over what he had counted, and there had been a first mover to give the pack, and a place to put a knife behind it. There was no seam in this. Nothing on that hill went first or could be led, and there was no cut dog; if those thirty ever ran, there would be no opponent to read, only a slope, and the single question of where a person ought to be standing.
+At the ford he had found a seam. He had sat on a gravel bar with four hurt people and gone over what he had counted, and it had yielded a first mover to give the pack, and a place to put a knife behind it. There was no seam in this. Nothing on that hill went first or could be led, and there was no cut dog; if those thirty ever ran, there would be no opponent to read, only a slope, and the single question of where a person ought to be standing.
 
 "Write it in yours, too. I'd like it in two hands."
 

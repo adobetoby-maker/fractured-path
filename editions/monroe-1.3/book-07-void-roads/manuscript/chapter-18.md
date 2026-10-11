@@ -4,51 +4,27 @@ The first narrowing came at the thirty-third hundred, and Karis gave it a number
 
 "One," she said, into his ear. "Of his eight. I shall keep them in a separate column, since they're what a carter will ask about first."
 
-The hill had put down a foot there. A buttress of the grey slab came out of the face and ran right across the bench, and where it reached the edge it had left a shelf eleven feet broad, by the cord, where there had been twenty-five. It was room and to spare. Even so the cart looked different on it, with the wall at Brom's left elbow and nothing at all beyond the off wheel.
+The hill had put down a foot there. A buttress of the grey slab came out of the face and ran right across the bench, and where it reached the edge it had left a shelf eleven feet broad where there had been twenty-five. It was room and to spare for a cart that the smith had cut to four feet between the wheels and five from hub to hub. Even so she looked different on it, with the wall at Brom's left elbow and nothing at all beyond the off wheel.
 
-They had measured her at the top of the fan, as they would have measured any other thing on the mountain. She was four feet between the wheels since the smith had cut her, and five from hub to hub, and Karis had written both figures at the head of the table in a box by themselves.
+It was the seventy-sixth day, and they were making up for the one that Karis had spent on a rock. The second narrowing was nine feet, and the third nine and a half. The fourth was seven, on a pitch of two full hands to the yard, and there Lira walked backward in front of the off wheel for the whole length of it, laying a flat stone under the rim at every turn so that it should have something to bite.
 
-"Because every line under it means *this* cart," she said. "A farm wagon from Oxhollow is a foot wider, for all I know. I can tell him what the shelf is. I can't tell him what he'll put on it."
+"Cart: yes, with a man at the outer wheel and dry weather," breathed Karis, at the end of her figures. "I shouldn't care to say it of a wet day, and I've said so in the last column."
 
-It was the seventy-sixth day, and they were making up for the one she had spent on a rock. Lira ran each hundred close under the wall, where the slab was thickest, and came back to say what was in it. He paced and wrote. The table had grown down its long pasted leaf a line at a time, and the drawn shelf beside it had begun to look like the thing itself, with its crosses for hollow places and its small hatched tongues wherever a gully had laid loose stone across the way.
+That column had been growing more careful since morning. On the first afternoon every line of it had said a plain *yes*, and now each *yes* dragged a condition after it, like a cart with a pole lashed under its corner.
 
-On those tongues the cart still floated, and Brom still walked against his strap.
+Brom leaned on his rope through all of it, and Cael thought that he had never seen him so content. He had stood idle in a yard for five days and in a meadow for eleven. Here he had found a way of putting his whole weight to use that a woman with a needle could not have forbidden, and he had found it by himself. Iron Skin had not once risen to meet a load on that shelf. Cael had his own things to keep down there, for Compression rose whenever the rope snatched, and Wind leaned at every yard that Lira ran, and he paid the rent on both fragments and spent neither.
 
-He had it to a craft by now. He could tell from the sound under the near wheel when the plates were about to carry her outward, and he would lean a breath before they did, with his whole weight slanted toward the hill and his hands idle at his back; and the cart would hang on the rope like a boat on a mooring, swing a little, and come on. He never spoke while he did it, and afterward he would look at his left wrist, briefly, as a man glances at a door that he has been told to keep shut.
-
-Cael watched him at it through most of that day, between one line and the next, and thought that he had never seen Brom so content. He had stood idle in a yard for five days and in a meadow for eleven. Here he had found a way of putting his whole weight to use that a woman with a needle could not have forbidden, and he had found it by himself. Iron Skin had not once risen to meet a load on that shelf; and when the cart came safe across a tongue of plates he never glanced round for anybody to have noticed.
-
-Cael had his own things to keep down on those tongues. Compression rose whenever the rope snatched, and Wind leaned at every yard that Lira ran, and he paid the rent on both fragments and spent neither.
-
-The second narrowing was nine feet, and the third nine and a half. The fourth was seven, on a pitch of two full hands to the yard, and there Lira walked backward in front of the off wheel for the whole length of it, laying a flat stone under the rim at every turn so that it should have something to bite.
-
-"Four," breathed Karis. "Seven feet. Two hands, outward. Slab under grit. Cart: yes, with a man at the outer wheel and dry weather. I shouldn't care to say it of a wet day."
-
-"Then say that."
-
-"I have. It's in the last column."
-
-He wrote it. That column had been growing more careful all day; on the first afternoon every line of it had said a plain *yes*, and now each *yes* dragged a condition after it like a cart with a pole lashed under its corner.
-
-Overhead the rasping went on. He had ceased to hear it, as he had once ceased to hear frogs, and he caught himself at that and made himself listen. The line had been above the second overhang at first light. By noon it lay over the fourth narrowing, and they had not got ahead of it by a yard.
+Overhead the rasping went on. The line had been above the second overhang at first light, and by noon it lay over the fourth narrowing, and they had not got ahead of it by a yard.
 
 "They're following us," said Lira at the next halt, with her mouth almost on his collar.
 
-"They're going where the moss hasn't been eaten," said Karis, who had heard. "And so, as it happens, are we, since that's west. I shan't write *following*. I've nothing under it."
+"They're going where the moss hasn't been eaten," said Karis, who had heard, "and so, as it happens, are we. I shan't write *following*. I've nothing under it."
 
-"It feels like following."
+They slept beyond the fifth narrowing, which was eight feet, under a brow of rock that Seln had marked for them with a pebble. Cael wrote four lines by a small fire, of which the last was the one he wrote every night.
 
-"A good many things do."
+*Seventy-sixth day. Forty-seven lines. Every one says yes, and most of them on a condition. The herd is over us still.*
 
-The fifth narrowing was eight feet, and beyond it Seln had found them a place to sleep that was not much more than a brow of rock with a dry floor under it. He was sitting in it with the water-skin when they came up, and he had swept it.
-
-They had a small fire, and Cael wrote by it, briefly, since his eyes were tired from the table.
-
-*Seventy-sixth day. The bench, beyond the fifth narrowing. Forty-seven lines. Every one says yes, and most of them now say yes on a condition, which Karis holds to be the more honest sort. The herd is over us still. It has come as far west today as we have, and she will not let me write that it follows.*
-
-*The calf is a leg on this shelf, since the shelf is level. Brom has not once looked at the hill. Deployment since the Line: one.*
-
----
+*Deployment since the Line: one.*
 
 The sixth was six feet and a hand, in the middle of the next morning, and the seventh was the one that Cael remembered afterward.
 
@@ -78,13 +54,11 @@ Karis looked at him. Then she held out the cord.
 
 He lay where she had lain, with the edge of the mountain under his breastbone and a long blue emptiness in front of his face, and he drew the cord tight from the foot of the rib to the last sound inch of the rim. He found the knot. It was five feet nine.
 
-He had expected nothing else, for he had never known her figure and his own to differ. But he understood, getting up, what she had given him at the slab two days before. She had not asked for his hand because hers was tired. She had asked for it so that a number on that table could be doubted by somebody before a wheel was put on it; and it was an odd use to be wanted for, by a person who had once kept an index of everything he could do, and he liked it better than any of the rest.
+He had expected nothing else. But he understood, getting up, what she had asked of him at the slab two days before: a hand that might doubt a number on that table before a wheel was put on it. It was an odd use to be wanted for, by a person who had once kept an index of everything he could do, and he liked it better than any of the rest.
 
-They took her through an inch at a time. Seln knelt at the off wheel with his cheek nearly on the rock, watching the rim against a scratch that Karis had made, and lifted one finger for every hand's breadth of travel. Cael had the shafts alone, so that there should be one pair of feet to steer by. Brom leaned on the strap. It took a quarter of an hour to go four yards, and the only sounds were the dry hub and five people breathing through their mouths.
+They took her through an inch at a time. Seln knelt at the off wheel with his cheek nearly on the rock, watching the rim against a scratch that Karis had made, and lifted one finger for every hand's breadth of travel. Cael had the shafts alone, so that there should be one pair of feet to steer by. It took a quarter of an hour to go four yards, and the only sounds were the dry hub and five people breathing through their mouths.
 
-When the tail was clear, Lira let go of the frame and wiped both palms on her breeches.
-
-"Seven," whispered Karis. "Five feet nine. A hand and a half, outward. Sound for a foot at the rim and crust beyond. Cart: yes. This cart, with a man at each wheel who has nothing else in his hands." She waited while he wrote. "And under that: *a wagon of five feet six between the hubs, no.* I want him to have the number where the yes stops."
+"Cart: yes," whispered Karis, when the tail was clear. "This cart, with a man at each wheel who has nothing else in his hands. And under that: *a wagon of five feet six between the hubs, no.* I want him to have the number where the yes stops."
 
 ---
 

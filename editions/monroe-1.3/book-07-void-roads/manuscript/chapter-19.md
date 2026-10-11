@@ -132,6 +132,8 @@ The front met it.
 
 He could see the animals now, the foremost, with their heads down and their plates flying; and he saw them feel it. The middle of the line broke. The ones dead above the arrowhead's point flung themselves left and right as if the ground there had been snatched away, and the ones beside them went with them, and in the space of two breaths a front eighty yards wide had torn down the middle into two streams. Eleven paces above the rock there was nothing coming at all.
 
+A bird over the bay would have seen it plainly: the pale rock lying east and west across the floor, and above it an arrowhead of fire, point up the hill, with one foot burning a little beyond each end of the rock. The herd had broken on that point into two streams, one pouring down outside the eastern foot and one outside the western, and everything between the two feet was in shelter. Cael was coming from the east with a box, so the eastern stream was the one that could reach him; Lira was coming off the ledge from the west, and the western was hers.
+
 He was eight yards short of the wall's end.
 
 He was outside her line. Its eastern foot stood a little ahead of him and uphill, burning, and the eastern stream was pouring down past the end of it, and he was in the edge of where that stream was going to be.
@@ -304,7 +306,7 @@ She had watched those points go down in barns and annexes and on the end wall of
 
 *She's staked the whole page on it*, thought Lira, running. *With us underneath.*
 
-Twenty yards. The near arm of the fire came down the slope ahead of her and stopped a little beyond the wall's end, and on this side of it, on her side, the right-hand stream was coming.
+Twenty yards. The near arm of the fire came down the slope ahead of her and stopped a little beyond the wall's end, and on this side of it, on her side, the western stream was coming.
 
 She was outside the line. She saw that with great clearness. Ten yards more would put her under the rock, and she did not have ten yards; she had perhaps six, and a foot that was a beat behind.
 

@@ -166,13 +166,11 @@ Her fingers woke for that. She had not touched it, and she did not need to. It w
 
 "I was late."
 
-He took that in, and she saw him keep it. He had a level voice. "Is it a thing you'd do?"
+He let that be the whole of it. He had a level voice. "Is it a thing you'd do?"
 
 "Not on a road. Not in a night." She did not soften it; he was not a man one softened things for. "It's two days of me and a week lying down after, and I'm five days behind. Ask me on a round when I'm not."
 
-He nodded. He had asked, and been told the price, and she saw him put it by.
-
-She nodded once and went on.
+He nodded. He had asked, and been told the price, and she saw him put it by. She gave him a nod of her own, as one gives it to a man who has not wasted one's time, and went on up the hill below the mule.
 
 ---
 
@@ -206,11 +204,13 @@ It was he.
 
 She left that hold at first light on the ninety-first, with two days of road in front of her and the mule going well. And somewhere on the first of those days, between a ford and a stand of the red trees, she found that she had been doing a sum for the better part of a morning without having set herself to it.
 
-Three ribs, broken on the seventy-eighth. Twenty-one days to knit, in anybody; less, in him, by what she had felt. She would be at Thornwater on the ninety-third, and he would be fifteen days from the break. Not whole. She could not run the long one over a break. She would have her two days at that gate, and the carter's hand, which she owed, and whatever was on the bench; and then the round would take her on.
+Three ribs, broken on the seventy-eighth. Twenty-one days to knit, in anybody. By what she had felt under her hand they would be sound in him some days sooner. But she could not read him, and so she could not know it, and she had never in her life lifted a tape on a guess. It would be the ninety-ninth, then, by the rule. The long one wanted him whole and still, and it wanted the better part of a day out of her besides, so that the hundredth was the first morning on which she could run it.
+
+She would be at Thornwater on the ninety-third, and he would be fifteen days from the break. She would have her two days at that gate, and the carter's hand, which she owed, and whatever was on the bench; and on the ninety-fifth the round would take her out by the far road.
 
 The hand troubled her more than she liked. A split across the palm is a small thing on the day, and she had left it clean and wrapped, and told the man to keep it out of a rein. He would not have kept it out of a rein. He had a load for Thornwater and one pair of hands, and he had given her the news of a late crew when he might have held his tongue and had his mending. By the ninety-third that hand would be fifteen days old. She owed it to him as she owed nothing else on the round, and she meant to pay it before she sat down.
 
-And he would be whole a week after she had gone.
+So he would be whole four days after she had gone. She would be two gates on by then, and the round would not bring her back to Thornwater for twenty days more; and a crew off a board does not keep whole for twenty days. He would be on some other road, and as like as not broken in some other place.
 
 She walked a mile on that.
 
@@ -222,7 +222,9 @@ What he was she left alone. That was a question for people who kept books.
 
 On the morning of the ninety-second, on a level stretch with frost in the ruts, she did the thing she had done three times before.
 
-She took it out of the round. Not two days; she had not two. One. She would find it somewhere, off a road, or out of her own two hours, and six gates would wait a day longer on her account, and she would know every one of the people she was making wait.
+She took it out of the round. It was five days from the ninety-fifth to the hundredth, and she went through them one at a time, as she went along a bench. Four she could spend at Thornwater's own table without lying to anybody. The grain was moving; carters came through that yard from every hold up the valley, and a bench that filled twice in two days would fill again in four. They would make her late at six gates all the same, and she knew every one of the people she would be keeping waiting. But they were work.
+
+The fifth was not. On the hundredth she would mend nobody. She would spend a mending's worth of herself on a boy with nothing wrong with him, to learn a thing that would help no one on her route; and no hold owed her that day, and she owed it to none of them. If it was to be had, it must be added.
 
 She put a day on the route.
 
@@ -230,7 +232,7 @@ Then she clicked her tongue to the mule, and went on at the same pace as before,
 
 ---
 
-Teague had counted his three before the healer's mule was out of hearing.
+It was still the eighty-fourth day, and the light was going off the hill above Oxhollow, when Teague counted his three. He had done it before the healer's mule was out of hearing.
 
 They were behind him on the hill. The spear had not changed pace for the stop. The boy had both mules by one rein and was looking back up the road after the woman, with his mouth a little open, as he looked after everything. The bow had stood square on both legs for as long as the healer's eyes were on that hip, and now the weight had gone over to the right again.
 
@@ -242,7 +244,7 @@ It was the bow's hip that he minded, and he put it first, since it was the cost.
 
 He had timed the second of his two slips to end at the upper hold on the eighty-first day. That was the day the healer's round should have brought her to its gate. He had said nothing of it to the bow; he had only found a day's more work on a byre roof that might have waited, and stayed. She had not come, and nobody at that gate could say why. On the hill she had given him no more than that she was late.
 
-He did not blame her. Worst went first; he would have kept that order himself.
+He did not blame her. A healer on a round is not late for nothing, and he had never known this one's reasons to be poor ones.
 
 But it was a day he had spent and a thing he had hoped for, and he could not set it down against five names. Pike had struck a ford off his hold and given it to them; that had cost nothing, because he had chosen the pass himself. The healer's lateness was not theirs on any ground he had read.
 
@@ -266,11 +268,11 @@ The old keeper was on his bench by the stone house, with a tally-stick, and he g
 
 "All five came down?"
 
-"All five. On her mule, the one."
+"All five. On their feet, the most of them."
 
 Teague went on down to the water.
 
-So he had it, and there was nothing in it that a man could not have read off a yard and a keeper. They had cleared a ford with five, in a way that nobody on those roads had cleared one before, and they had walked a mountain and brought back a true answer; and they had lost a cart doing it, and come home on a healer's charity with three of them marked.
+So he had it, and there was nothing in it that a man could not have read off a yard and a keeper. They had cleared a ford with five, in a way that nobody on those roads had cleared one before, and they had walked a mountain and brought back a true answer; and they had lost a cart doing it, and come down with three of them marked.
 
 He had four things to say to that boy. He priced each of them, on the bank, as he would have priced a stage.
 
@@ -286,7 +288,7 @@ He looked back, once. The spear. The boy. The bow, on the good leg.
 
 He decided to say it. A man who meant to share a contract owed the other crew the warning.
 
-The boy was sitting on the gravel at the water's edge, alone, with a book on his knee. He held one arm in a little against his left side, and under the shirt, when he breathed, something drew a line across his ribs. There was a healer's tape on him. It would be three weeks, then, from whenever the mountain had done it.
+The boy was sitting on the gravel at the water's edge, alone, with a book on his knee. He held one arm in a little against his left side, and under the shirt, when he breathed, something drew a line across his ribs. There was a healer's tape on him. That meant ribs; and ribs, by her rule, were three weeks under linen, counted from whichever day the mountain had done it.
 
 Teague still could not tell what he was. A Force stood one way and a Wind another, and there was no Path in the set of that boy that a man could name, and no want of one. He went down the bank.
 

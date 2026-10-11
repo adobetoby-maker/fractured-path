@@ -1,28 +1,26 @@
 # Chapter 21 — Thirty-One Paces
 
-She taped him at first light, before she had eaten, and she talked the whole time to somebody else.
+He found the edge of it at his first whole breath.
 
-"Shirt up, and your arm on your head. Not that one."
+It was grey in the hollow still. He had got to his feet by the wall, as he did every morning, to learn what the night had done to him, and he had drawn in air to say something to Brom. At a certain depth, a little short of where the ribs had stopped him the day before, a hand seemed to close across his left side and hold it.
 
-He got the left arm up, slowly, and held it there with the right. She had a roll of linen in her hand, wound on a peeled stick, a strip three fingers wide that had been spread on one face with something brown and shining; and when she warmed the end of it against the lamp glass the hollow smelled of pine.
+It was the tape. She had put it on him by the lamp, before the light came and before she had so much as eaten. There were five bands of linen, three fingers wide, each drawn from his breastbone round under the arm to the spine in a single pull, while he stood with his left arm on his head and no air in him at all. He had supposed, while she did it, that he was being splinted.
 
-"What's on it?" said Karis, who was sitting up this morning in Seln's coat, with her notebook open on her knee and no pencil in her hand.
+"That's all it does," said Oryn.
 
-"Pitch, and mutton fat, and a thing I get from a hold that keeps bees. It sticks to skin, and it comes off again when I say so." Oryn laid her left hand on Cael's side, below the hurt, with the thumb along the lowest rib. "Breathe out, all of it. More than that; you've a cupful left. Now hold there."
+She had seen him find it. She was winding what was left of the strip back onto its peeled stick, and she spoke across him to Karis, who was sitting up this morning in Seln's coat with her notebook open on her knee and no pencil in her hand.
 
-He held. She drew the strip from his breastbone round under the arm and on to the spine, firmly, in one pull, and smoothed it down with the heel of her hand before he had finished being surprised. The second went on above it, lapping the first by half, and she laid five in all.
+"I want you to have that right, if you mean to write it. It mends nothing, and it doesn't hold the bone, for you can't hold a rib; it's got to move, or he stops breathing. People take it for a splint, and it isn't one."
 
-"Breathe."
+"What's on it?" said Karis. "It smells like a pine wood."
 
-He breathed in; and at a certain depth, a little short of where the ribs had stopped him yesterday, the tape drew tight across his side like a hand laid there.
-
-"That's all it does," she said, still to Karis. "I want you to have that right, if you mean to write it. It mends nothing, and it doesn't hold the bone, for you can't hold a rib; it's got to move, or he stops breathing. People take it for a splint, and it isn't one."
+"Pitch, and mutton fat, and a thing I get from a hold that keeps bees. It sticks to skin, and it comes off again when I say so."
 
 "Then what is it for?" said Lira. She was propped against a box with her right leg stretched out in front of her, bare from the knee, and she had not stopped looking at it since she woke.
 
 "It tells the ribs where the edge is."
 
-Oryn bit off the linen and tucked the roll into her coat.
+Oryn tucked the roll into her coat.
 
 "He'll go to draw a full breath, or turn to pick something up, and that pulls before the bone does, so he stops there. He'll have learned it by tonight, and he'll hate it by noon tomorrow, and it stays on till I take it off." She looked at him at last. "Twenty-one days from the morning they went, and I want to be the one who lifts it. Can you count that far?"
 
@@ -32,7 +30,7 @@ Oryn bit off the linen and tucked the roll into her coat.
 
 Cael had been waiting for that question, and he saw that the others had too, for Lira's eyes came up from her leg.
 
-"Because I cannot mend what I can't read." The healer said it without heat. "I read her leg at a count of ten and I knew what it was, and how she was built round it, and where the thing that knits had stopped; and then I knew where to put mine. I had my hands on him for three times as long and I got bone. I'd have got that much with my eyes shut, off a dead sheep." She showed her palms, briefly, as she had shown them to herself. "Past the bone there's nothing I can lay hold of. I'd be pushing in the dark, and I don't do that to anybody."
+"Because I cannot mend what I can't read." The healer said it without heat. "I read her leg at a count of ten and I knew what it was, and how she was built round it, and where the thing that knits had stopped; and then I knew where to put mine. I had my hands on him for three times as long and I got bone. I'd have got that much with my eyes shut, off a dead sheep." She showed her palms, briefly. "Past the bone there's nothing I can lay hold of. I'd be pushing in the dark, and I don't do that to anybody."
 
 She turned to Brom then, and had his left arm out of its sleeve before he could offer it. The seam was dry and pale. She wound a strip of plain linen round the wrist, four turns, no tighter than a cuff, and tied it.
 
@@ -154,51 +152,49 @@ They slept that night beside a seep of good water, halfway down, in a fold of th
 
 ---
 
-It was at the noon halt on the second day that she took Lira's leg across her knee.
+She saw the ankle from below, walking, on the second morning.
 
-They had come off the hillside at last, onto a floor of turf beside a stream, and the road was in sight, half a mile off, two pale ruts going north-west. Oryn lifted the girl down without asking leave and sat her on a stone. She put both hands round the shin, and her lips moved to ten.
+The track had come down by then onto the last long slant above the valley, and Lira's right foot hung from the pack-saddle at about the height of the healer's shoulder, bare, and wound with the strip of linen that it had worn since a meadow. Oryn went beside it for the better part of a mile. Cael, two paces behind, saw her eyes go to it and come away, and go again, as a person's go to a thing that somebody else has done badly.
 
-"It's knitting, and it's ahead of where I'd have looked for it." She pressed with her thumbs, up and down the bone. "You've good legs. Somebody's taken trouble with them."
+"Who put that on?"
 
-"A good many people," said Lira. "They kept lists."
+"I did," said Lira.
 
-The healer's right hand had gone on down. Cael saw it reach the ankle, where the dirty strip of linen was still wound over the bare skin, and stop there; and he saw Lira's face go still, as a person's does who has carried a question a long way and comes suddenly upon the door.
+"It's holding nothing. It would keep a stocking up, if you'd a stocking."
 
-Oryn unwound the linen. She took the heel in one palm and the top of the foot in the other and moved it gently, up and down, and in and out, and she counted again. It took her a good deal longer than ten.
+Lira did not answer for the length of one turn of the track. Then she asked, from the back of a mule, over the heads of four people, and Cael could hear what it cost her to do it so.
 
-"Who saw to this?"
+"It's the cords, and not the bone. A woman with a barn bound it to a stave, four weeks back. She said that it would set stiff, and that a healer would have had it straight in an hour." Her voice was very level. "Can you mend it?"
 
-"A woman with a barn, who bound it to a stave. She said it would set stiff, and stiffer." Lira's voice was very level. "She said a healer would have had it straight in an hour."
+Oryn kept her pace. She put up her left hand and took the heel in her palm as it swung, and went on so, with another person's foot in her hand and her lips moving; and it took her a good deal longer than ten. She turned the foot outward. It went a little way, and stopped.
 
-"So I would, that week." Oryn turned the foot outward, and it went a little way and stopped. "This is four weeks old. It isn't a break. It's the cords that hold the joint, torn, and they've grown back short, and across each other. It's knit wrong, but it's knit, and it's strong."
-
-Lira said nothing for the space of three breaths. Then she asked, and Cael could hear what it cost her to do it in front of four people.
-
-"Can you mend it?"
-
-"I could."
+"So I would have, that week," she said. "It's knit now. It's knit wrong, short, and across itself; but it's knit, and it's strong."
 
 "Will you?"
 
-Oryn held the foot and looked at it, and she did her sum aloud, plainly, as Pike did his.
+She did her sum aloud, walking, as plainly as Pike did his.
 
-"To put that right I'd have to take it back to the day it went, and undo the whole of what's grown, and then bring it up again straight. That's two mendings, or three; I'd not know till I was in it. Then you're on your back for a week while it takes." She laid the foot down on her knee. "I've two in me on a road. There's a table at that ford that hasn't seen me for twenty-five days, and I don't know who's lying on the bench beside it. It could be nobody. It could be a man with his chest stove in, who's been waiting on me since the day I went up your hill."
+"To put that right I'd have to take it back to the day it went, and undo the whole of what's grown, and then bring it up again straight. That's two mendings, or three; I'd not know till I was in it. Then you're on your back for a week while it takes." She let the foot go. "I've two in me on a road. There's a table at that ford that hasn't seen me for twenty-five days, and I don't know who's lying on the bench beside it. It could be nobody. It could be a man with his chest stove in, who's been waiting on me since the day I went up your hill."
 
 She shook her head, once.
 
 "That's a tape and a season. It'll set."
 
-Lira looked at her own right foot, lying in a stranger's lap, and Cael watched her take it. He had seen her take a result before, on a painted floor, with a sheet of figures to tell her how far she had fallen short. There was no sheet here. There was a square woman with tired eyes, who had spent what she had on the leg above that ankle, and had said to her face what the rest was worth and to whom it was owed.
+Lira looked straight in front of her, over the long brown ears, and Cael watched her take it. He had seen her take a result before, on a painted floor, with a sheet of figures to tell her how far she had fallen short. There was no sheet here. There was a square woman with tired eyes, walking below a mule, who had spent what she had on the leg above that ankle, and had said to her face what the rest was worth and to whom it was owed.
 
 She had asked it once, and she let that be the whole of her asking.
 
-"Then show me the tape," said Lira. "What's on it now I did myself."
+"Then show me the tape," said Lira, a quarter of a mile farther on. "Properly. What's on it I did myself."
 
-"I could tell, for it's been holding your stocking up." Oryn had the roll out of her coat. "Watch, and then you'll take it off and do it, twice. I'm not going to be there every morning."
+"At the halt. And when I've shown you, you'll take it off and do it, twice. I'm not going to be there every morning."
 
-She showed her. It was a craft, like any other, and Cael watched it as he would have watched a new guard. One turn went round the shin above the ankle, for an anchor; then a strip ran from the inside of that, down under the heel, and up the outside, pulled hard.
+They halted at noon, on a floor of turf beside a stream, with the road in sight half a mile off, two pale ruts going north-west; and there she showed her. It was a craft, like any other, and Cael watched it as he would have watched a new guard. One turn went round the shin above the ankle, for an anchor; then a strip ran from the inside of that, down under the heel, and up the outside, pulled hard.
 
-"Always that way, up the outside. That's the side it went over on, so that's the side that's slack, and you're lending it a cord." She laid a second beside the first, and then a long one that went over the top of the foot and under the arch and crossed itself in front, like a figure of eight. "That one stops it rolling. Now stand."
+"Always that way, up the outside. That's the side it went over on, so that's the side that's slack, and you're lending it a cord." She laid a second beside the first, and then a long one that went over the top of the foot and under the arch and crossed itself in front, like a figure of eight. "That one stops it rolling." Her thumb went on up the shin, of its own accord, and pressed along the new bone. "And this is ahead of where I'd have looked for it. You've good legs. Somebody's taken trouble with them."
+
+"A good many people," said Lira. "They kept lists."
+
+"Now stand."
 
 Lira stood, on turf, with her weight on both feet. She rocked forward onto her toes and back, and something went over her face that was a long way from joy and yet was on the road to it.
 
@@ -214,7 +210,7 @@ Lira stood, on turf, with her weight on both feet. She rocked forward onto her t
 
 They reached the road before dusk, and there was a halting-ground beside it, with a ring of chock-stones and the black place of other people's fires.
 
-It was the second night down, and the first on which nobody was too cold or too sore to talk. Seln had the fire. Brom had made a bread of the healer's flour on a hot stone, and it had come off black on both faces, and everyone ate it.
+It was the second night down, and the first on which nobody was too cold or too sore to talk. Seln had the fire, and Brom had made a bread of the healer's flour on a hot stone; it had come off black on both faces, as his bread did, and everyone ate it.
 
 Karis had been studying the healer across the flames for some time, with her notebook on her knee. She could hold a pencil again, for as long as it took to write a line, and she had spent her line that evening on the foot of the long leaf. Cael had seen it: *Sixty-three. The ledge. Gone, for thirty-one paces. Cart: no.*
 
@@ -246,7 +242,7 @@ She shrugged, heavily.
 
 "That's what late is. It's not a number. It's who I don't know about."
 
-Cael turned that over. He had counted a great many things in his life, and it had never once occurred to him to count them so.
+Cael turned that over. He had counted a great many things in his life, strides and fighters and watchers at a gate, and he had always taken the count for the thing itself. It had never once occurred to him that a number might only be the name of the people one had lost sight of.
 
 Karis had waited as long as she was able.
 
@@ -264,7 +260,7 @@ She held them up to the firelight, the broad backs and the short nails.
 
 "That's the book. A healer who needs a page to know who's owed has stopped looking at them."
 
-Karis sat with her pencil lifted over nothing, and Cael saw the two halves of her at war: the one that could not bear a thing unwritten, and the one that knew a primary source when it sat down across a fire from her.
+Karis sat with her pencil lifted over nothing, and Cael saw the two halves of her at war: the archivist, who could not bear a thing unwritten, and the researcher, who knew a primary source when it sat down across a fire from her.
 
 "I have a rule about not asking," she said at last, rather faintly. "I made it at a fence, and I've never wanted so much to break it."
 
@@ -274,7 +270,7 @@ It was Lira who asked. She had her taped foot stretched to the fire beside the h
 
 "You're Iron, Rank Four; you said so on the hill. That's three above me, and I was thought good." She was picking the words. "A Tide of that rank could sit in any city on the continent and have people come to her. Why are you walking round seven fences with a sore heel?"
 
-Oryn was slow to answer. When she did, her voice had not changed, and yet Cael thought that it was the first thing she had told them which she had not said a hundred times before.
+Oryn was slow to answer; and when she did, though her voice had not changed, Cael thought that it was the first thing she had told them which she had not said a hundred times before.
 
 "A healing house keeps a list, every morning, of who's waiting and for what. Do you know what order it's in?"
 

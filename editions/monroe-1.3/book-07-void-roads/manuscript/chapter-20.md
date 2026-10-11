@@ -140,23 +140,23 @@ Lira's leg was hot that night. Cael felt it through the stocking when he reached
 
 ---
 
-He saw the mule before he saw the woman.
+It was Lira who knew first, and she knew it by ear.
 
-It was the middle of the eightieth day, and the rain had gone through, and he had got himself propped at the western end of the rock, where he could watch the ledge. He could do that much. He had been watching it since Seln went out along it in the first grey light, a narrow dark figure under the overhang, and passed from sight where the shelf was broken.
+It was the middle of the eightieth day. The rain had gone through, and Cael had got himself propped at the western end of the rock, where he could watch the ledge; he had been watching it since Seln went out along it in the first grey light and passed from sight where the shelf was broken. In six hours he had seen nothing move on it but a bird.
 
-Now something was coming back.
+"That's iron," said Lira.
 
-It was Seln, and he was walking in front, at an easy pace, with his hands clasped behind him; and behind Seln there were two long brown ears, and under the ears a small neat mule with a pack on it as high as its own back. And beside the mule, on the outer side of it, between the animal and three hundred feet of air, there walked a woman.
+She was lying on her back with her eyes shut and her hot leg in its slates, and she had lifted one hand from the floor, as she had once lifted it in a valley full of frogs.
 
-Cael read her as he read anybody, from the feet.
+"On rock. Listen. Something's coming along that shelf with shoes on, and nothing that lives on this hill wears shoes."
 
-She walked at a carter's pace. It was the pace that he had fallen in behind on the fifth day, which is neither quick nor slow and can be kept from dark to dark; she did not lengthen it when the bay opened in front of her, or when she saw four people lying under a rock. She had one hand laid on the mule's shoulder. She kept herself on the side where the drop was and the beast on the side where the wall was, and when the ledge widened she did not change over.
+He heard it then, a small hard clink, and another, as even as a clock. A little after that Seln came round the bend of the ledge, under its roof. He was alone, and he walked no faster than he ever did; but he came straight over the shale to the end of the wall, and for once he gave his report before he had sat down.
 
-She was not tall, but she was square in the shoulder and broad in the hand, and she wore a man's coat of some thick brown stuff that had been made for a bigger person and taken in. Her hair was cropped as short as a boy's. He thought that she was perhaps ten years older than himself, and he could not have said why he was sure it was not more.
+"There is a healer behind me, with a mule. I did not fetch her. I met her below the shoulder at sunrise, already on her way up, and she has not altered her pace since for anything that I could tell her about a leg." He looked at Lira's. "She said that she would see it for herself, and that it was a quarter of an hour either way."
 
-On top of the pack, lashed along it in an oiled cover, there was something with the shape of a crossbow.
+The clinking stopped beyond the wall's end. Somebody said one word to an animal; and then a woman was standing at the corner of the rock, a stride and a half from where Lira lay, with a cheek-strap in her fist and a brown mule's long head at her shoulder.
 
-She brought the mule across the shale to the end of the wall and stopped it with a word, a stride and a half from where Lira lay. Her eyes went over the five of them a single time, and it did not take her as long as it takes to count five. He saw her eyes go to the slates on a leg, and to a dark cloth at a wrist, and to the way that he himself was sitting, with one arm shut against his side; and they rested longest on Karis, who had nothing wrong with her that could be seen.
+Her eyes went over the five of them a single time, and it did not take her as long as it takes to count five. He saw them go to the slates on a leg, and to a dark cloth at a wrist, and to the way that he himself was sitting, with one arm shut against his side; and they rested longest on Karis, who had nothing wrong with her that could be seen.
 
 "Who's worst?"
 
@@ -168,7 +168,15 @@ She had not asked who they were, or what had happened to them, or how five peopl
 
 "I'm fine," said Lira.
 
-"You're not. I can see your leg from here." The woman was already kneeling. She had Cael's coat sleeve unknotted in the time it took to say it, and she lifted off the upper slate and looked at what was under it without touching. "Who put these on?"
+"You're not. I can see your leg from here." The woman put the cheek-strap into Seln's hand without troubling to see whether he would take it. "Water, somebody. I've had these on a mule since before it was light, and I'll not put them on that as they are."
+
+Brom poured for her out of the skin. She washed to the wrists, rubbing hard, and it was while she did so that Cael read her; she had read him first, which did not often happen to him.
+
+He began with the hands, since she was holding them out. They were broad and brown, and the nails had been cut as short as nails can be. She was not tall, but she was square in the shoulder, and she wore a man's coat of some thick brown stuff that had been made for a bigger person and taken in. Her hair was cropped as short as a boy's. He thought that she was perhaps ten years older than himself, and he could not have said why he was sure it was not more. On top of the mule's pack, lashed along it in an oiled cover, there was something with the shape of a crossbow.
+
+Then she knelt. She had Cael's coat sleeve unknotted in three movements, and she lifted off the upper slate and looked at what was under it without touching.
+
+"Who put these on?"
 
 "I did," said Brom.
 
@@ -228,7 +236,7 @@ There was nothing to see. He had half expected a light, or a colour, as there wa
 
 Lira's face went a colour that was not white, and she said "Cold," not to anyone, and then "No. It's going along," and put her head back and shut her eyes.
 
-"Then lie still and let it," said Oryn.
+"That's right," said Oryn. "Lie still and let it."
 
 It took the greater part of an hour, and he counted it by the shadow of the wall, which crept the width of two hands across the floor. After the first of it the hollow was silent. Brom held Lira as he would have held a full pail, and Seln stood at the mule's head with the rein in his fingers; and Cael watched a stranger's face, and saw it grow a little older while he looked.
 
@@ -304,7 +312,9 @@ Seln inclined his head. He looked, Cael thought, like a man who has had a report
 
 "Can I stand on it?" said Lira. She had been flexing the foot all this while, a little at a time, with the wonder of a person who has been given back a thing she had already begun to grieve for.
 
-"Tomorrow, with somebody's arm. It's knit, and it's sound, but it's new, and new bone's like new bread; it wants a day before you cut it." Oryn looked down at the leg as a wheelwright looks at a spoke he has just driven. "It'll walk in a week as well as the other. You'll not run on it for a month, and I can see by your face that you were about to ask."
+Oryn did not answer at once. She leaned over and set her thumb on the place where the wrong turn had been, and pressed, hard, with her eyes on Lira's face and not on the leg. Lira's face did nothing whatever.
+
+"Tomorrow, with somebody's arm," she said then. "It's knit, and it's sound, but it's new, and new bone's like new bread; it wants a day before you cut it. It'll walk in a week as well as the other. You'll not run on it for a month, and I can see that you were about to ask."
 
 "I wasn't," said Lira, who had been.
 
@@ -320,11 +330,19 @@ He counted with her. *One. Two.* It was the first time since he crossed the Line
 
 At five the reading stopped.
 
-She took both hands away and held them palm upward in front of her, and studied them. It was the look of a carpenter whose rule has just given him a length that cannot be. Then she wiped them on her coat, and breathed, and put them back on his side, with the fingers spread wider; and this time she did not count at all.
+Her left hand stayed where it was. The right she put out behind her, without turning her head.
+
+"Wrist," she said. "Anybody's."
+
+It was Brom who gave her one, the left, with its new seam. She closed two fingers on it, and her lips moved as far as three, and she let it go.
+
+"That's there," she said, to nobody.
+
+She brought the hand back and laid it on his side beside the other, with the fingers of both spread wide, and shut her eyes; and this time she did not count at all.
 
 He watched her face, and he knew what it was doing, for he had seen a brass plate in a district hall wait eleven seconds over a boy of fourteen before it lit. He had seen assessors look at a panel with that same small stillness, and a hooded seat, and a clerk with a form that had no box for him. It was what an instrument looked like when it reached for the thing it was made to read, and closed on air.
 
-She was not an instrument, and that was the difference. She took her hands away a second time and sat back on her heels, and she looked straight at him.
+She was not an instrument, and that was the difference. She took her hands away at last and sat back on her heels, and she looked straight at him.
 
 "Your ribs are broken," she said. "I can feel that they're broken. I can't feel *you*."
 
@@ -360,7 +378,7 @@ It was dusk before Cael opened the book, and it was easier than it had been in t
 
 He looked at that, and added what belonged with it.
 
-*The herd's dead: heard, not sworn, which is Karis's wording. She cannot hold a pencil again, and will not be able to set a point for a week.*
+*Some of the herd went over the edge after the cart. How many: heard, not sworn, which is Karis's wording. She cannot hold a pencil again, and will not be able to set a point for a week.*
 
 *The healer put her hands on my ribs and could not read me. She told me so to my face, and asked nothing.*
 

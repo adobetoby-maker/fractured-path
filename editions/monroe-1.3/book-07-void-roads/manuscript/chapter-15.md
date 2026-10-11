@@ -52,17 +52,17 @@ Cael read the slip through once more, for the thing that was not in it. There wa
 
 He went along the whole plank afterward, from the left-hand post to the right, as he had gone along it on the ninth day and on the forty-ninth.
 
-There were fourteen slips. He gave each the same attention, the bark and the hide and the two shingles, and he sorted them as he read, as he had once sorted a board in Ardenmere by what each card would cost him. There was a fence for somebody on the north water, at five marks. A string of mules wanted walking to the turf fire, westward, and that one he passed over without stopping. A carter on the south road wanted a wheel fetched. There was hay to be got in at the upper inn, for a mark and the hay-loft to sleep in.
+There were fourteen slips. He gave each the same attention, the bark and the hide and the two shingles, and he sorted them as he read, as he had once sorted a board in Ardenmere by what each card would cost him. There was a fence to be set for a steading on the north water, at five marks, and a wheel to be fetched for a carter on the south road, and hay to be got in at the upper inn for a mark and the loft to sleep in. A string of mules wanted walking westward to the turf fire, and that slip he passed over without stopping.
 
 When he had done, the paper with the horned head was at the top of the heap in his mind, and it had got there so quickly that he distrusted it. He made himself say why, in items, as he would have made a stranger say it.
 
-The first was the plainest: it paid. Seventy marks was more than the book had ever counted out to them, and the crew was still four hurts short of whole.
+The first was the plainest, which was that it paid. Seventy marks was more than Pike's book had counted out to them in six lines, and the crew was still four hurts short of whole.
 
-The second was that nobody's finger was on it. The last large slip they took had carried a captain's name in capitals. A one-armed man had struck that name with his own pen before a meadow, and they had gone down to a river under the weight of it. This one had been posted for anyone at all. If they took it they would take it off nobody, and the first line on the sheet could read it when he came down and find nothing in it that was his.
+The second was that nobody's finger was on it. The last large slip they took had carried a captain's name in capitals. A one-armed man had struck that name with his own pen before a meadow, and they had gone down to a river under the weight of it. This one had been posted for anyone at all, with no hold on it. If they took it they would take it off nobody, and the captain at the top of the sheet could read it when he came down and find nothing in it that had been his.
 
 He was longest over the third item, since it was not a reason of the same kind.
 
-It was *ground*. Nothing in those three lines of careful writing had teeth. He looked for the opponent in it, from a habit as old as his reading, and found a shelf, and a gorge, and a question about a wheel. Somebody wanted a mountain looked at closely and written down, with numbers, by people who would say what they had counted and no more. The paper named no tier and no rank. It asked for a cart and a count.
+It was *ground*. Nothing in those three lines of careful writing had teeth; he looked for the opponent in it, from a habit as old as his reading, and found only a shelf, and a gorge, and a question about a wheel. Somebody wanted a mountain looked at closely and written down, with numbers, by people who would say what they had counted and no more. The paper named no tier and no rank. It asked for a cart and a count.
 
 He had done that for nothing since before he could remember. He had catalogued a harness room and a painted floor and sixty feet of sprung oak, and two years of other people's fights from the east tier of a yard; and all of it had been held against him at one time or another, as the habit of a person who watched because he could do nothing else. Now a stranger with a ford was offering seventy marks for it.
 
@@ -186,15 +186,11 @@ So he drew, and the two in the shafts had little to do but steer. They went over
 
 Seln lit the fire with his flint. It was the fourth they had had on a road, and Cael noticed that not one of them watched the first smoke go up; the thing had become ordinary in twelve days, and he thought that a carter with cold feet would have been glad to see it.
 
-Karis ruled her table before the light went, on a long leaf that she had pasted up out of four. She drew two lines down the middle of it for the edges of a shelf that none of them had yet seen, and beside them six narrow columns, and she wrote a head over each in her small exact hand: the number of the stretch, its width, its pitch, the footing, water, and a last one that she left wide.
+Karis ruled her table before the light went, on a long leaf that she had pasted up out of four. She drew two lines down the middle of it for the edges of a shelf that none of them had yet seen, and beside them six narrow columns, with a head over each in her small exact hand: the number of the stretch, its width, its pitch, the footing, water, and a last one that she left wide.
 
 "What goes in that?" said Lira.
 
-"Whether it takes a cart. Yes or no, and why." She blew on the ink. "It's the only column he's paying for. The other five are there so that he can believe it."
-
-"And who fills it in? You can't write for more than a few minutes."
-
-"I measure, and I say the figure aloud. He writes." Her pencil pointed across the fire, at Cael. "He writes small, and he doesn't argue about a stop, and he has never in his life put down a number that he didn't count. I've had three pairs of hands since the river, and I know which one I want for a table."
+"Whether it takes a cart. Yes or no, and why." She blew on the ink. "It's the only column he's paying for. The other five are there so that he can believe it; and he writes them." Her pencil pointed across the fire, at Cael. "He writes small, and he has never in his life put down a number that he didn't count. I've had three pairs of hands since the river, and I know which one I want for a table."
 
 He wrote by its light.
 
