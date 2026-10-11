@@ -74,7 +74,7 @@ The room was low, and warm, and smelled of turf. It had six beds along one side,
 
 Cael stopped in front of it, and Karis was there before him. It was the registry's own print, under glass, with the seal at its head, and it was the last such board on that road. They had passed one at every waystation since Ostrand, and he had read each of them in passing, as he read everything; he read this one through, standing, with his arm aching in its strap.
 
-[[TIER-B: the waystation board — coordinator to supply protected text]]
+*By charter of the registry, this house being chartered: TIER VERIFICATION available at the district station, Ostrand, four days west. No station lies east of the river crossing, and the station at the ford is unstaffed. TRAVEL ENDORSEMENTS may be lodged at this house for forward transmission; allow twenty days. ENROLLMENT INQUIRIES by the same. The chartered rates of this house are posted within. Complaints of a chartered house lie to the district seat.*
 
 "Twenty days," said Karis. She had her finger on the glass. "For an endorsement."
 
@@ -268,7 +268,7 @@ The plate lay in the floor, in the middle of the room, under its frame. It was b
 
 He had been fourteen, in a room like this, at the far end of the country, and had put his hand where he was shown.
 
-[[TIER-B: "You couldn't read me… Thanks for the eleven seconds." — coordinator to supply protected text]]
+"You couldn't read me," he told it, conversationally, the way you tell a fact to an old machine. "Since my Kindling I thought that was the system failing. Turns out it was the most honest thing the system ever did — the one time the layer under you couldn't finish its job, because there was no bin beneath me to file the lie in." He looked at the dark frame a moment longer. "You're the only part of the whole apparatus that never lied about me. You just went quiet. Everything above you did the lying." He shouldered the satchel. "Thanks for the eleven seconds. They were the truest measurement I ever got."
 
 He pulled the door to. He did not latch it; it had not been latched.
 
@@ -320,7 +320,7 @@ He walked back to where Seln stood, and looked west, with his arms hanging, as h
 
 He counted. Cael saw his lips move. Then he began at the near end and counted again.
 
-"Nobody's watching," said Brom.
+"Nobody's watching," said Lira.
 
 It was very quiet, for the wind had dropped.
 
@@ -372,9 +372,13 @@ It was soft at the folds by now. It had come up a bluff in a post-room sort in t
 
 He had not answered, for there had been no answer he could put into a pouch that a clerk would read for completeness. There was no pouch out here. He tore a clean leaf from the back of the observation notebook and laid it on the book's cover, under the pin of light.
 
-[[TIER-B: Cael's reply to Daeva (Tier A: *The rematch stands. Not postponed — relocated. It happens on a floor nobody owns…*, whole) — coordinator to supply protected text]]
+*They ruled. We left — resigned, before the date, in good standing, four files closed complete and one man who filed nothing. You said keep myself unclassified. Done, permanently, on my own paper this time: I'm past the Registry Line, where the word has no meaning, which turns out to be the only place the word is safe.*
 
-He read it over once. It was short, and it was true, and there was nothing in it that he would have minded a clerk copying. He folded it in three and wrote her name on the outside, and *Auremont*, and nothing else.
+*The rematch stands. Not postponed — relocated. It happens on a floor nobody owns, and I think you'd prefer that anyway; a Gold-tier fact and an unclassified one, fighting where no seal can score either of us, is the only honest version of the bout, and we both knew it at Norhold. Find me when you're ready to fight something no ladder built. I'll be east.*
+
+*— C.*
+
+He read it over once. It was true, and there was nothing in it that he would have minded a clerk copying. He folded it in three and wrote her name on the outside, and *Auremont*, and nothing else.
 
 "Is that her?" said Lira, from the dark. She had come in from the horse, with rain on her face. "The Gold?"
 
@@ -432,13 +436,9 @@ The man thought that over, and seemed to find nothing wrong with it. He put the 
 
 Cael watched the bag go. It had her name in it. It would go to a turf fire, and down a hill, and onto a hook, and it would cross the whole of a country that had a file on him, and come at last to a hall in a city, and to a woman for whom a ladder had been built to exactly her own height.
 
-"That's one," said Lira. She was wringing out her sleeve. "There were two. The Compression. Reydan. He told you to find him later, and you've never written to him."
+The log banked the thread beside its lineage:
 
-"No. I've nothing to tell him yet. He asked a question, and I haven't the answer."
-
-"But you mean to."
-
-"I mean to. It's the same debt as hers. It only wants longer." He pulled the satchel's strap straight on his shoulder. "Both promises ride east with me."
+*Reydan wanted the answer when I have it. Daeva wants the rematch with whatever I am. Both promises ride east with me. Both get kept. Not yet. The road's long and it runs the right direction.*
 
 ---
 

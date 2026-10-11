@@ -184,7 +184,7 @@ Nobody answered him, and it did not want an answer. Lira, who had never in her l
 
 He drew a single small leaf from under the daybook and turned it round. It was Gault's hand, the panel-note hand, as square as a ruled table, which Cael had seen once a week for two years at the foot of three cards.
 
-[[TIER-B: Gault's last note, ending *The instruments will not see its like.* — coordinator to supply protected text]]
+*Assay-provision enrollment: resigned in good standing prior to revocation date. Baseline file: closed complete. Four terms of evaluation-linked observation, no adverse finding, no anomaly of conduct. The evaluator of record notes that the file closes on the enrollee's own act and not the registry's, and that this is the correct closing, and the only just one available. The instruments will not see its like.*
 
 He read it through, and then he read its last line again.
 

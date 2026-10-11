@@ -1,0 +1,1283 @@
+Reading additional input from stdin...
+OpenAI Codex v0.153.0
+--------
+workdir: /Users/drive/fractured-path-monroe13
+model: gpt-5.6-sol
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: high
+reasoning summaries: none
+session id: 01a12a09-a402-78d0-b646-a6b963602da0
+--------
+user
+You are Sol, the independent source-distance reader for the Monroe 1.3 edition of The Fractured Path, Book 6 "The Compact's Hand", Movement 9 (chapters 55–60). Work in /Users/drive/fractured-path-monroe13.
+
+Background: drafted WITHOUT the author opening the source. The protected Tier A/B units (Gault's last note, the personnel query, the waystation board, "You couldn't read me…", the letters, the closing inventory, the closing exchange and the last line) were then restored VERBATIM by the coordinator from a protected-text audit and are listed in protected-patterns.txt — exclude them. Judge only the author's own prose. Verify independently.
+
+Read the source chapters for this movement: books/book-06-the-compacts-hand/chapters/chapter-21.md books/book-06-the-compacts-hand/chapters/chapter-22.md books/book-06-the-compacts-hand/chapters/chapter-23.md books/book-06-the-compacts-hand/chapters/chapter-24.md 
+Read the manuscript: editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-55.md … chapter-60.md. For calibration, also run the probe with pair output: from the worktree root, `SHOW=1 bash editions/monroe-1.3/tools/sweep_probe.sh book-06-the-compacts-hand 9 9`.
+
+By READING, side by side, find every passage that keeps a source sentence's content and order (its beats in the same sequence), whether the words are varied, the sentence is split, or near-verbatim. Do not count:
+- protected or packet lines (editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt; BOOK_MAP §10 Tier A/B);
+- facts and events the plan requires, so long as their telling is new;
+- common-word coincidences.
+
+Write editions/monroe-1.3/book-06-the-compacts-hand/state/movement-009/source-tracking.md containing:
+1. A verdict: the count of genuine tracked passages per chapter and per scene.
+2. A table with these columns: chapter:line, the manuscript opening words, the source sentence it follows (file:line plus the opening words), and the kind (varied / split / near-verbatim).
+3. For each densely tracked scene, a suggested new entry point or order of beats that would make it the author's own.
+
+Do not edit any manuscript file. Run no git commands.
+codex
+I’m using the O’Connor skill because this is a Monroe 1.3 movement-level source-distance audit. I’ll read its instructions, then compare the four source chapters against manuscript chapters 55–60, excluding every protected/packet unit before recording the findings.
+exec
+/bin/zsh -lc "sed -n '1,240p' /Users/drive/.codex/skills/oconnor/SKILL.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+---
+name: oconnor
+description: Plan and orchestrate the Monroe 1.3.0 O'Connor progression-adventure seat, using Iron Prince structural research, Opus or Fable authorship, open-range movements and focused editorial loops.
+---
+
+# O'Connor 1.3.0 — Monroe Jackson author seat
+
+Canonical package: `/Users/drive/penname/pennamecodexv3`.
+Read `pen-names/oconnor/PIPELINE.md`, `VOICE.md` and `FORMULA.md` in that package.
+Read `/Users/drive/penname/research/ironprince-craft-formula.md` for its exact
+numerical targets. The compiler embeds craft sections 2–6 and 8–9 verbatim in both
+planning and drafting prompts. These are the owner's selected design targets,
+not optional research notes; do not soften them into generic craft advice.
+Codex maintains/orchestrates; Opus or Fable writes and repairs. Opus 5.5 is the default author;
+Fable (or another model) runs only when the owner names it. Never substitute the
+current Codex model silently. The public
+byline is Monroe Jackson; O'Connor is an internal seat name.
+
+Use six or more contiguous chapters per creative run (default 8, no upper cap). One compact
+movement brief replaces compulsory chapter cards. No chapter-by-chapter editorial
+gates. Output limits can require continuation of the same run; they must not cause
+shortened chapters or premature claims of completion.
+
+The owner names the characters. Use role placeholders during planning and resolve
+the needed names before prose drafting. A request to build/activate the seat is
+not permission to start a novel. Preserve canon and exact owner-protected text.
+
+Compile locally with `/Users/drive/penname/harness/oconnor.sh`:
+
+- `plan --root PROJECT --author opus --idea 'idea'` (or `--idea-file FILE`).
+- `formula --output FILE` exports the standalone numerical formula prompt.
+- `movement --root BOOK --author fable --packet packets/MOVEMENT-001.md --count 8`
+  with `--start N`, repeated `--context FILE`, optional `--previous FILE`, and
+  optional scene-specific `--action 'scene=stack'`.
+- `review --root BOOK --author fable --chapter manuscript/chapter-01.md`, repeating
+  `--chapter` for the complete movement in reading order. Add `--context FILE`
+  for editorial canon evidence; omit for manuscript-only cold reading.
+  Use `--formula-check` for editorial target/observed comparisons; omit it for a
+  blind cold read. Read `pen-names/oconnor/FORMULA_REVIEW.md` for measurement rules.
+
+The compiler prints a prompt; `--output FILE` saves without overwrite. It makes
+no model call. For authorized drafting, verify the locally installed author CLI's
+available model and subscription login, then supply the selected model and saved
+prompt. Do not switch to a paid API or alternate author on failure. Record the
+actual reported model separately from the seat version and requested alias.
+No new model invocation is authorized merely to validate this skill.
+
+After the completed movement: continuity/story pass, reader/clarity pass, one
+consolidated same-author repair, targeted recheck. Read `REVIEW.md` for the rubric.
+Label self-review vs fresh-context simulated cold read honestly. Use approved owner
+voice/examples; only accepted owner evidence updates the trainer.
+
+Read `PROVENANCE.md` when discussing research validity. Do not claim a full-book
+read or verified percentages from partial inspection. The transcript and quoted
+source-character study are private research, not drafting inputs. Read
+`references/combined-path-adapter.md` only for the owner's selected 600-year Kindling
+proposal; it is not a default premise for new books.
+
+codex
+The skill’s protected-text rule aligns with this audit: source/packet language must be separated from the author’s prose, and I won’t invoke or repair through another author model. I’m loading the required seat references now, then I’ll run the requested probe and do the side-by-side reading.
+exec
+/bin/zsh -lc 'wc -l /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md /Users/drive/penname/research/ironprince-craft-formula.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     131 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md
+     120 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md
+      38 /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md
+     179 /Users/drive/penname/research/ironprince-craft-formula.md
+     468 total
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/PIPELINE.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# O'Connor 1.3.0 — Monroe movement loops
+
+Foundation: Monroe Jackson 1.3.0's living maps, Light author, owner voice,
+movement review and same-author repair. As of the owner's 2026-09-29 update, Monroe
+1.3 Light also uses open-range movements of six or more chapters and optional chapter cards.
+O'Connor retains its own formula and author-selection rules.
+The repository still has mixed legacy version labels; this is a seat-level version,
+not a claim that the whole repository has been upgraded.
+
+## Roles and identity
+
+Codex builds and maintains the seat, prepares context and coordinates reviews.
+Claude Opus 5.5 writes and repairs the manuscript by default; Fable runs only when
+the owner names it for that run. Retain the same author for repairs. No silent
+author substitution. Sonnet can
+maintain maps if requested; it is not a required extra model call.
+
+Record public byline Monroe Jackson, seat `oconnor`, seat version `1.3.0`,
+foundation `Monroe Jackson 1.3.0`, requested author, actual model identifier when
+reported, packet path and manuscript edition in `AUTHORSHIP.md`. An unverified
+model identifier stays unknown. Prompts do not train model weights.
+
+The owner supplies character names. Plan with role placeholders such as [LEAD]
+and [FRIEND] until names are supplied; never turn placeholder names into canon.
+Do not draft the new book until its premise and necessary cast names are approved.
+
+## Series and book planning
+
+Read the owner's premise and existing canon. Apply `FORMULA.md` to build a
+progression-led series with original people, mechanisms and events. The compiler
+includes sections 2–6 and 8–9 of `research/ironprince-craft-formula.md` verbatim:
+sentence distributions, readability, paragraph/scene rhythm, progression density,
+development cadence and POV allocation are active design targets. Preserve the
+source's distinction between primary targets, directional proxies and optional
+secondary signals. Do not replace the formula with generic advice. Reuse existing
+project files rather than proliferating paperwork:
+
+- `SERIES_MAP.md`: NOW, NEXT, HORIZON; recurring pleasure, trajectories, connections.
+- `BOOK_MAP.md`: movement pressures, important promises/payoffs, intended ending.
+- `CHARACTERS.md`: owner names, private wants, relationships, distinct voices.
+- `UNIVERSE_BIBLE.md`: rules, limits, chronology, reserved truths.
+- `STATE_LEDGER.md`: current bodies, knowledge, resources and unresolved threads.
+
+Keep possible ideas distinct from planned events and established canon. Preserve
+owner decisions; manuscript discoveries can revise plans, not quietly overwrite
+canon. The optional 600-year Kindling proposal is used only when chosen; then read
+`references/combined-path-adapter.md` and its source proposal in full.
+
+## One movement: six or more chapters
+
+Six is the floor, eight the compiler default, and there is no upper cap: give the
+author the length the arc needs, up to the whole book when the owner asks. Choose
+the batch before drafting. One compact brief gives entry state, movement goal/pressure, a few
+consequential turns or promises, boundaries on reserved revelations, and room to
+invent. List output paths and relevant canon references. Individual chapter cards,
+dialogue beats and blow-by-blow choreography are not required. See `MOVEMENT_BRIEF.md`.
+
+The author owns scene selection, chapter boundaries, tactics, conversation,
+discoveries, humor and the route through the movement. Plans describe intended
+change, not every action. Protect spacious, developed fights; do not compress real
+chapters into summaries to fit a response. Load optional fight layers only for a
+specified scene/problem; do not stack every available layer by default.
+
+Read the previous ending and relevant canon before drafting. Load approved owner
+voice and a few relevant examples; preserve all applicable owner protections.
+Write forward in one author session through the full movement. Between chapters,
+only carry state and correct a contradiction that would invalidate what follows.
+Do not stop for scoring, stylistic editing, frequency checks or approval per chapter.
+
+A movement of any length is one creative run, not necessarily one API response. When
+output/context limits intervene, save complete chapters and a precise continuation
+checkpoint; resume the same author and movement without triggering editing. Record
+any session restart. Never label a partial movement complete or truncate scenes
+to claim that the entire batch fitted.
+
+## A few passes after the whole run
+
+1. **Continuity and story pass:** read all chapters together; check state, rules,
+   knowledge, names, seams, cause/effect, progression and relationships. Read the
+   preceding/following join when available. Separate canon errors from plan changes.
+   Include numerical formula alignment here with `review --formula-check`; read
+   `FORMULA_REVIEW.md`. Report target vs observed results and cumulative drift.
+   Do not invent measurements or silently change the requested target values.
+2. **Reader and clarity pass:** read for pull, humor, action experience, attachment,
+   punctuation and one-pass comprehension. Use `REVIEW.md` for 13-year-old/adult
+   lenses. Label self-review and simulated readers honestly. A fresh-context cold
+   read gets manuscript only; it is not a real audience measurement.
+3. **One consolidated author repair:** combine at most three high-leverage
+   priorities, preserving named strengths. The same Opus/Fable repairs in reading
+   order. Recheck only the findings and changed joins. A second repair is for an
+   unresolved concrete defect, not an improved average score. Escalate a structural
+   choice to the owner instead of looping indefinitely.
+
+Freeze a recoverable edition before repairs. Owner-protected text remains exact;
+ask before altering it. Punctuation-only edits are word-locked and validated;
+meaning changes are explicit manuscript revisions. Untouched AI text and automated
+repairs do not become owner-voice training evidence. Accepted owner edits use the
+existing Monroe trainer. Update maps/ledger from surviving prose, then move on.
+
+At book completion read the whole arc, progression, relationships and payoffs;
+repair in movement-sized units, then line/listening proof. At series turns check
+power inflation, repeated plots and cross-series consequences. Narration markup
+belongs to the manuscript edition and does not certify editorial quality.
+
+## Invocation
+
+Use `$oconnor` in Codex, giving the project, task and Opus or Fable.
+An activation or seat-build request does not initiate a novel or spend model credits.
+
+Compile prompts locally (no model call):
+
+```bash
+/Users/drive/penname/harness/oconnor.sh plan --root /path/to/series \
+  --idea 'My premise; I will supply the names'   # --author defaults to opus
+/Users/drive/penname/harness/oconnor.sh movement --root /path/to/book \
+  --author fable --packet packets/MOVEMENT-001.md --start 1 --count 8 \
+  --context CHARACTERS.md --context STATE_LEDGER.md
+/Users/drive/penname/harness/oconnor.sh review --root /path/to/book --author fable \
+  --chapter manuscript/chapter-01.md --chapter manuscript/chapter-02.md
+```
+
+For review, repeat `--chapter` for EVERY chapter in the completed movement in order;
+two paths above only demonstrate argument syntax. Include canon through `--context`
+for an editorial pass; omit it for a manuscript-only cold-reader context.
+Add `--formula-check` to the editorial review, not to the blind cold read.
+Export the standalone numerical author prompt with
+`/Users/drive/penname/harness/oconnor.sh formula --output /path/to/new.prompt.md`.
+`--output FILE` creates a new prompt without overwriting. The compiler does not
+launch the author. On an authorized writing request, use the existing authenticated
+author CLI with the explicit model and compiled prompt; verify model availability
+and report an unavailable author instead of substituting Codex.
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/VOICE.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# O'Connor seat 1.3.0 — Monroe Jackson
+
+Internal seat ID: `oconnor`. Public byline: Monroe Jackson unless the owner chooses
+another. Foundation: Monroe Jackson 1.3.0 living-map/Light architecture. Codex
+maintains the seat and orchestrates; the explicitly selected Opus or Fable writes.
+Neither model is established as universally best by this research. This is an
+original progression-adventure voice. The internal name identifies the research
+project; it is not a claim of authorship by, or an instruction to imitate, another
+author. Seat version and underlying model are recorded separately.
+
+## The reader promise
+
+Use `FORMULA.md` alongside this profile. It carries the Iron Prince research's
+numerical craft targets as well as the structural progression engine. They are
+active author instructions, not optional background. Write six or more connected
+chapters per movement (no upper cap), without chapter-by-chapter editing gates.
+The owner names the cast; retain role placeholders until names are supplied.
+
+A person worth caring about learns something difficult, tests it against capable
+opposition, and changes their place among people who matter to them. Let the reader
+enjoy getting better with them. Friendship, rivalry, wonder, danger, and humor give
+the effort meaning. Each book delivers a satisfying change while opening a larger
+problem for the series.
+
+## What this author notices
+
+Notice the practical detail that changes a choice: a grip failing, a friend making
+room, an opponent protecting the wrong side, a familiar tool behaving differently.
+Close third person is the default. Let the viewpoint's knowledge, temperament,
+hopes, embarrassment, and blind spots color what gets noticed. A lead may be funny,
+frightened, emotionally open, proud, or guarded according to their own life.
+Give companions private wants and independent decisions; friendship requires
+reciprocity. A mentor's competence and investment should be observable. A rival
+needs a credible objective and the ability to adapt.
+
+Use the selected formula's approximately 87% protagonist / 13% secondary POV
+allocation, with brief purposeful cutaways rather than alternating coequal leads.
+Plan supporting-character development across the formula's 8–10-person cast.
+Do not change these allocations without the owner's direction.
+
+## Sentences people can read once
+
+Use clear sentences with varied weight. Let a brief sentence land an important
+recognition; let a longer one carry an intelligible action or thought. Put the
+subject and action where a listener can follow them. Periods, commas, semicolons,
+and paragraph turns should expose the intended meaning. Repair comma splices and
+ambiguous attachments during writing. Preserve a purposeful long sentence when
+its hierarchy is clear. Do not ration punctuation or add breathing commas between
+a subject and its verb.
+
+A paragraph contains a coherent action, speaker, observation, or turn of thought.
+End it when the thought turns. Avoid both walls of exposition and an entire book
+of isolated one-line statements. Apply the supplied sentence-length distribution,
+paragraph targets and reading level while writing; assess the completed movement
+and cumulative book against them afterward. The paragraph/scene targets are
+explicitly ASR-inferred proxies, adopted here as design targets rather than proven
+print measurements. Keep their directional status as described in the source.
+
+## Progression that earns attention
+
+Show what the character can do, what they cannot yet do, and why it matters today.
+Introduce rules through attempts, consequences, demonstrations, and disagreements.
+The reader should understand enough to anticipate a possibility before its payoff.
+Let mastery change behavior, relationships, work, or danger. Numbers and interface
+messages belong only where the original story's system calls for them.
+
+Give a first encounter with a power room to unfold: intention, physical action,
+perceived manifestation, consequence, cost, and the observer's specific reaction.
+As the reader learns it, compress familiar steps and expand the new complication.
+A spectacular manifestation needs a comprehensible limitation. An unexplained
+ability cannot quietly resolve the decisive problem.
+
+## Sustained action and learning fights
+
+The owner wants more substantial action and longer developed scenes. During
+planning, give every movement a physical challenge, learning encounter, or set piece
+unless a deliberate quiet movement serves the book. State the reason for that quiet
+movement. Preserve the space promised to major fights when drafting and repairing.
+
+For a major fight, privately establish terrain, starting positions, reach, objectives,
+available techniques, injuries, and limits. Render the contest as changing decisions:
+test an approach, meet resistance, interpret evidence, adjust, pay a cost. The opponent
+also learns. Reversals follow from planted information, choices, or constraints.
+Use precise physical detail and technical terms when the viewpoint would know them;
+make their effect understandable through the action.
+
+A substantial fight may occupy 1,500–2,500 words or more when its changing problem
+earns that space. This is a planning allowance, not a compulsory word count. Let
+smaller encounters be smaller. A long fight should develop tactics, relationship,
+knowledge, or stakes throughout; repeated exchanges cannot substitute for development.
+Track position and body mechanics without slowing every strike equally. Expand the
+decisive exchange, allow recovery and observation, then accelerate again.
+
+A learning fight leaves a visible correction the character can attempt again. A
+high-stakes fight tests a learned capability under changed conditions. A loss may
+purchase knowledge without becoming a disguised victory. Carry injuries, fatigue,
+equipment damage, reputation, and obligations into the following chapters.
+
+## Humor, intimacy, and emotional range
+
+Let humor arise from perspective, affection, friction, and inconvenient reality.
+Give different people different comic habits. Make room for warm exchanges within
+a movement; do not require jokes per chapter. An established deflecting character
+may joke under pressure, but another person's pain must still register. Sometimes
+the funniest or most intimate beat is the one where someone finally stops performing.
+Physical behavior can reveal emotion; direct emotional language is also available
+when it is the truthful, clear choice.
+
+## Discovery inside a coherent series
+
+Maps remember facts and promises; scenes discover how people act. Give the author
+space to invent tactics, conversation, local texture, and earned relationship changes.
+Carry important discoveries into the map after the movement. Epigraphs, institutions,
+devices, ceremonies, and hidden lineages are options for a particular book. None is
+required by this seat. Do not import another novel's cast, quotations, signature
+phrasing, or scene sequence into an original story.
+
+Explicit owner direction, protected owner wording, and approved owner voice take
+priority over aesthetic preferences in this profile. The project's canon governs
+story facts. Research cannot create canon.
+
+exec
+/bin/zsh -lc "sed -n '1,320p' /Users/drive/penname/pennamecodexv3/pen-names/oconnor/FORMULA.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+
+exec
+/bin/zsh -lc "sed -n '1,320p' /Users/drive/penname/research/ironprince-craft-formula.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+# Iron Prince Craft Formula — Mechanism, Not Expression
+
+Purpose: a prose-generation target for an author agent (Opus or otherwise) writing an
+**original story, original world, original characters** that reads in the structural
+tradition of Bryce O'Connor & Luke Chmilenko's *Iron Prince* (Warformed: Stormweaver,
+Book 1), without reusing any of that book's protected expression.
+
+Derived from a direct statistical pass over a Whisper transcript of the owner's own
+purchased audiobook (61 files, ~326,000 words, mlx-community/whisper-large-v3-turbo-asr-fp16).
+Full methodology and raw numbers: `research/ironprince-craft-stats.json`. The transcript
+itself lives at `research/iron-prince-book1-transcript.md` — **local reference only, never
+to be copied into generated prose, never pushed to a shared repo.**
+
+---
+
+## 1. Why this is a legitimate craft extraction, not a copyright problem
+
+**The governing rule is 17 U.S.C. §102(b):** copyright "in no case" extends to "any idea,
+procedure, process, system, method of operation, concept, principle, or discovery." Every
+number in this document describes a *pattern* — a distribution, a rate, a placement
+tendency — not a string of his words.
+
+**Nichols v. Universal Pictures** (Learned Hand, 2d Cir. 1930) is the operative test: a
+work can be described at any level of abstraction from bare theme down to verbatim text,
+and protection attaches only at the concrete end. "Underdog with a device that grows
+through combat losses, at a competitive academy" is exactly the kind of abstract pattern
+Hand's opinion places outside protection — same tier as "star-crossed lovers whose families
+feud." The specific words O'Connor used to render any one scene are protected; the
+narrative-engineering pattern behind a hundred scenes is not, and never was his to own.
+
+**Scènes à faire** — tournament brackets, academy hierarchies, training-montage beats,
+mentor-pep-talk scenes — are standard furniture of progression fantasy. Unprotectable
+because they are not original to any one author; using them is not "borrowing from Iron
+Prince," it's writing in a genre.
+
+**Style is one of the most settled unprotected categories in the caselaw.** Sentence-length
+distribution, paragraph rhythm, dialogue-tag frequency, where a chapter chooses to land its
+progression beat — these are *how* he writes, not *what* he wrote. No court has ever let an
+author own a cadence.
+
+**What this document is careful never to hand over:** his invented terminology as *his*
+naming choices (CAD, Growth/Offense/Defense as exact labels, "Galens Institute," any
+character or place name from this book), the specific sequence of his actual scenes, or
+any sentence-level phrasing. Section 7 makes this an explicit checklist, not an assumption.
+
+**One adjacent, non-copyright flag:** if this project is ever *marketed* as "feels just like
+Iron Prince," that's a Lanham Act false-designation-of-origin question — a labeling risk,
+separate from whether the craft extraction itself is sound. It is sound. Don't advertise
+affiliation that doesn't exist.
+
+---
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 7. What to build yourself — do not reuse
+
+This is the wall between mechanism (above, safe to target) and expression (below, never
+copy). Invent your own equivalents for every line:
+
+- **His device's name and axis labels** — do not use "CAD," "Growth," "Offense," "Defense"
+  as your system's exact terms. A multi-axis, letter-graded progression system is an
+  unprotectable *method* (§102(b) again — "system" is explicitly excluded); his specific
+  naming of it is his expression. Name your own axes.
+- **Character names** — protagonist, cast, mentors, antagonists: all original. Do not use
+  near-homophones of his names as a wink (no "Raden Word," no "Vivi").
+- **Place and institution names** — invent your own academy, city, system names.
+- **Scene sequence and content** — the *pattern* "open on the protagonist demonstrably
+  worst-in-room in a public setting" is fair game; the specific scene he wrote to do that
+  is not. Write your own scene from scratch to hit the same structural beat.
+- **Any sentence-level phrasing** — nothing lifted, nothing paraphrased closely enough that
+  a side-by-side read would show matching word order. Style-match at the level of *rhythm*
+  (§2–3), never at the level of *wording*.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+
+exec
+/bin/zsh -lc "rg -n '"'^#{1,6} .*10|Tier A|Tier B|packet|protected'"' editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md editions/monroe-1.3/book-06-the-compacts-hand -g 'BOOK_MAP.md' -g 'protected-patterns.txt'" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:17:### Entry (Movement 1, chapter 1 — the night before Halcenvane's academic year opens) [B5-reconciled 2026-10-05: season word struck; season-blind per OWNER #42; audit A1]
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:22:  Greyvane precedent, the stamp and its two renewals on paper (the twentieth of Reaping; the mill town — the half-year sitting that fell at Norhold did not sit, B5 M9 ruling), Magister Gault evaluator of record. [B5-reconciled 2026-10-06: B5 M9 closed with no Norhold session (C8); replaces "four semester panels renewed"; audit §F A11] [OWNER-pending #43: the protected first pole's "a stamp renewed four times" (§8) stays verbatim] Third on
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:26:  (Reydan), Ember (Karis), Shadow (Seln; source protected; never deployed; rent from waking, spent or not [B5-reconciled 2026-10-05: B4/B5's word is "rent", not "continuous low cost" (B5 ch20, ch45); audit C3]),
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:67:### Ending (Movement 9, chapter 60 — the second day past the Registry Line) [B5-reconciled 2026-10-05: season word struck; season-blind per OWNER #42; audit A1]
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:127:Consequences the author must carry (each is a non-protected detail in the source, re-timed):
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:396:### 4d. Supporting cast — private wants and independent decisions (10 people)
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:555:**Tier A — quoted or called back by later books, bible-verbatim, or fragment-notice text. Exact,
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:579:| *I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.* | 2 | Bible arc statement (first pole) [OWNER-pending #43 (audit §F A11): B5 M9 closed with no Norhold session, so the file carries the Greyvane grant and two renewals on paper (the twentieth of Reaping; the mill town). The line stands verbatim. Owner options: (a) accept Cael's rounding (the four impressions on his sheet are the grant, the two renewals and the tournament office's filing stamp, B5 T3; the pole already counts "a tournament their own clause put me in" separately, so this reading strains); (b) amend the protected line to "a stamp renewed twice" or "a stamp and its renewals" (the audit's recommendation; one word of protected text); (c) stage the displaced half-year sitting in M1's interval log in one clause (three renewals, still one short without (a)). Coordinator default until ruled: the line stands verbatim and every non-protected count in the plan says "two renewals on paper". No protected wording changed.] [B5-reconciled 2026-10-06: audit §F A11, OWNER-DECISIONS #43] |
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:588:**Tier B — load-bearing within this book; keep the words, the author may set the scene around
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:607:  is a location. / Nobody has ever protected a man by believing him.* (12)
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:645:## 10. Names
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:762:  targeted checks of Book 7 Ch9, Ch14 and Books 7–8 callbacks for protected wording and calendar).
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:1:# Book 6 protected patterns (regex lines; apostrophes as .?) — packet/§10 lines kept whole
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:2:# M1 packet lines (kept whole)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:6:# M1 — Vastin's advisory quoted whole (Book 5 §10 item 5, B5 ch5)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:9:# M1 — Tier B (BOOK_MAP §10): the challenge's first page (ch5)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:17:# M1 — Tier B (BOOK_MAP §10): chapter fourteen as Bracken reads it (ch6, ch7)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:21:# M2 packet lines (kept whole)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:24:# M4 packet lines (kept whole)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:28:# M4 — Tier B (BOOK_MAP §10): the escort order's words (ch21); address heading added per #44
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:30:# M5 packet lines (kept whole)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:32:# M6 packet / plan lines (kept whole)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:37:# M8 — Tier B (BOOK_MAP §8) restored whole per the Sol plan audit: the ruling paragraph (ch51); the boards ritual line, Ephram's "Still glad." speech and the ninth's Log entry (ch54)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:45:# M9 — Tier A/B units restored whole per the Sol protected-text audit (Gault's last note; the personnel query; the waystation board; 'You couldn't read me…'; the letters; the closing inventory; the closing exchange; the last line) and one packet line (ch56)
+editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt:63:each with a name beside it one of them protected and one of them missing and the missing line i have left blank on purpose because the blank is the truest thing the entry says
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:17:### Entry (Movement 1, chapter 1 — the night before Halcenvane's academic year opens) [B5-reconciled 2026-10-05: season word struck; season-blind per OWNER #42; audit A1]
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:22:  Greyvane precedent, the stamp and its two renewals on paper (the twentieth of Reaping; the mill town — the half-year sitting that fell at Norhold did not sit, B5 M9 ruling), Magister Gault evaluator of record. [B5-reconciled 2026-10-06: B5 M9 closed with no Norhold session (C8); replaces "four semester panels renewed"; audit §F A11] [OWNER-pending #43: the protected first pole's "a stamp renewed four times" (§8) stays verbatim] Third on
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:26:  (Reydan), Ember (Karis), Shadow (Seln; source protected; never deployed; rent from waking, spent or not [B5-reconciled 2026-10-05: B4/B5's word is "rent", not "continuous low cost" (B5 ch20, ch45); audit C3]),
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:67:### Ending (Movement 9, chapter 60 — the second day past the Registry Line) [B5-reconciled 2026-10-05: season word struck; season-blind per OWNER #42; audit A1]
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:127:Consequences the author must carry (each is a non-protected detail in the source, re-timed):
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:396:### 4d. Supporting cast — private wants and independent decisions (10 people)
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:555:**Tier A — quoted or called back by later books, bible-verbatim, or fragment-notice text. Exact,
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:579:| *I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.* | 2 | Bible arc statement (first pole) [OWNER-pending #43 (audit §F A11): B5 M9 closed with no Norhold session, so the file carries the Greyvane grant and two renewals on paper (the twentieth of Reaping; the mill town). The line stands verbatim. Owner options: (a) accept Cael's rounding (the four impressions on his sheet are the grant, the two renewals and the tournament office's filing stamp, B5 T3; the pole already counts "a tournament their own clause put me in" separately, so this reading strains); (b) amend the protected line to "a stamp renewed twice" or "a stamp and its renewals" (the audit's recommendation; one word of protected text); (c) stage the displaced half-year sitting in M1's interval log in one clause (three renewals, still one short without (a)). Coordinator default until ruled: the line stands verbatim and every non-protected count in the plan says "two renewals on paper". No protected wording changed.] [B5-reconciled 2026-10-06: audit §F A11, OWNER-DECISIONS #43] |
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:588:**Tier B — load-bearing within this book; keep the words, the author may set the scene around
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:607:  is a location. / Nobody has ever protected a man by believing him.* (12)
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:645:## 10. Names
+editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md:762:  targeted checks of Book 7 Ch9, Ch14 and Books 7–8 callbacks for protected wording and calendar).
+
+exec
+/bin/zsh -lc 'wc -l books/book-06-the-compacts-hand/chapters/chapter-{21,22,23,24}.md editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-{55,56,57,58,59,60}.md editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     163 books/book-06-the-compacts-hand/chapters/chapter-21.md
+     147 books/book-06-the-compacts-hand/chapters/chapter-22.md
+     177 books/book-06-the-compacts-hand/chapters/chapter-23.md
+     145 books/book-06-the-compacts-hand/chapters/chapter-24.md
+     255 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-55.md
+     341 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-56.md
+     227 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-57.md
+     355 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-58.md
+     491 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-59.md
+     365 editions/monroe-1.3/book-06-the-compacts-hand/manuscript/chapter-60.md
+      63 editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt
+     768 editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md
+    3497 total
+
+exec
+/bin/zsh -lc 'SHOW=1 bash editions/monroe-1.3/tools/sweep_probe.sh book-06-the-compacts-hand 9 9' in /Users/drive/fractured-path-monroe13
+ succeeded in 1940ms:
+chapter-55.md	sentences=207	skeleton=2%	close=14%
+  scene 1	n=64	skeleton=0%	close=12%
+  scene 2	n=29	skeleton=0%	close=3%
+  scene 3	n=36	skeleton=3%	close=22%
+  scene 4	n=58	skeleton=5%	close=14%
+  scene 5	n=20	skeleton=0%	close=15%
+    [s3 0.64] MS: "Nobody can take a tier from you, Advocate.
+              SRC: Nobody can take a tier from you; they can only decline to count it."
+    [s4 1.00] MS: *Assay-provision enrollment: resigned in good standing prior to revocation date.
+              SRC: *Assay-provision enrollment: resigned in good standing prior to revocation date.
+    [s4 1.00] MS: Four terms of evaluation-linked observation, no adverse finding, no anomaly of conduct.
+              SRC: Four terms of evaluation-linked observation, no adverse finding, no anomaly of conduct.
+    [s4 1.00] MS: The evaluator of record notes that the file closes on the enrollee's own act and not the registry's, and that this is the correct closing, and the only just one available.
+              SRC: The evaluator of record notes that the file closes on the enrollee's own act and not the registry's, and that this is the correct closing, and the only just one available.
+chapter-56.md	sentences=255	skeleton=0%	close=15%
+  scene 1	n=34	skeleton=0%	close=18%
+  scene 2	n=37	skeleton=0%	close=5%
+  scene 3	n=61	skeleton=0%	close=13%
+  scene 4	n=59	skeleton=0%	close=19%
+  scene 5	n=31	skeleton=0%	close=23%
+  scene 6	n=33	skeleton=0%	close=9%
+chapter-57.md	sentences=232	skeleton=3%	close=13%
+  scene 1	n=41	skeleton=2%	close=20%
+  scene 2	n=50	skeleton=10%	close=24%
+  scene 3	n=39	skeleton=0%	close=5%
+  scene 4	n=50	skeleton=0%	close=10%
+  scene 5	n=52	skeleton=0%	close=8%
+    [s1 1.00] MS: Seln simply wasn't at his desk the next morning.
+              SRC: Seln simply wasn't at his desk the next morning.
+    [s2 0.73] MS: *Teaching assistant, Bronze grade, fifteen years' service, absent without notice from first bell of the First-day.
+              SRC: *Assessment clerk, Bronze grade, fifteen years' service, absent without notice from second bell of the twelfth.
+    [s2 1.00] MS: Residence room found vacated; no personal effects; bed made.
+              SRC: Residence room found vacated; no personal effects; bed made.
+    [s2 1.00] MS: All working files completed and cross-indexed to date.
+              SRC: All working files completed and cross-indexed to date.
+    [s2 0.93] MS: No note left, no leave applied for, no address of forwarding held by this house.
+              SRC: No note left, no leave applied for, no address of forwarding held by this office.
+    [s2 0.82] MS: The house records no disciplinary matter, no irregularity of any kind in the two years of this posting, and no view as to cause.
+              SRC: The office records no disciplinary matter, no irregularity of any kind in fifteen years, and no view as to cause.
+chapter-58.md	sentences=247	skeleton=2%	close=12%
+  scene 1	n=53	skeleton=0%	close=9%
+  scene 2	n=42	skeleton=5%	close=10%
+  scene 3	n=26	skeleton=0%	close=8%
+  scene 4	n=30	skeleton=3%	close=13%
+  scene 5	n=46	skeleton=0%	close=11%
+  scene 6	n=50	skeleton=2%	close=18%
+    [s2 0.53] MS: He looked at the ruled margin for a long while.
+              SRC: He looked at the dark frame a moment longer.
+    [s2 0.59] MS: The clerk looked at him a moment longer.
+              SRC: He looked at the dark frame a moment longer.
+    [s4 0.56] MS: "He's been at your back for a year.
+              SRC: "He's been logging us for a year and a half."
+    [s6 0.55] MS: On the near bank the grey rider had come down to the water.
+              SRC: The others took the cart down to the water.
+chapter-59.md	sentences=348	skeleton=6%	close=19%
+  scene 1	n=41	skeleton=0%	close=17%
+  scene 2	n=45	skeleton=11%	close=18%
+  scene 3	n=43	skeleton=0%	close=14%
+  scene 4	n=44	skeleton=0%	close=20%
+  scene 5	n=35	skeleton=17%	close=29%  <-- over 15%
+  scene 6	n=42	skeleton=0%	close=21%
+  scene 7	n=68	skeleton=12%	close=16%
+  scene 8	n=30	skeleton=3%	close=17%
+    [s2 1.00] MS: *By charter of the registry, this house being chartered: TIER VERIFICATION available at the district station, Ostrand, four days west.
+              SRC: *By charter of the registry, this house being chartered: TIER VERIFICATION available at the district station, Ostrand, four days west.
+    [s2 1.00] MS: No station lies east of the river crossing, and the station at the ford is unstaffed.
+              SRC: No station lies east of the river crossing, and the station at the ford is unstaffed.
+    [s2 1.00] MS: TRAVEL ENDORSEMENTS may be lodged at this house for forward transmission; allow twenty days.
+              SRC: TRAVEL ENDORSEMENTS may be lodged at this house for forward transmission; allow twenty days.
+    [s2 1.00] MS: The chartered rates of this house are posted within.
+              SRC: The chartered rates of this house are posted within.
+    [s2 1.00] MS: Complaints of a chartered house lie to the district seat.*
+              SRC: Complaints of a chartered house lie to the district seat.*
+    [s5 1.00] MS: "You couldn't read me," he told it, conversationally, the way you tell a fact to an old machine.
+              SRC: "You couldn't read me," he told it, conversationally, the way you tell a fact to an old machine.
+    [s5 0.74] MS: "Since my Kindling I thought that was the system failing.
+              SRC: "Four years I thought that was the system failing.
+    [s5 1.00] MS: Turns out it was the most honest thing the system ever did — the one time the layer under you couldn't finish its job, because there was no bin beneath me to file the lie in.
+              SRC: Turns out it was the most honest thing the system ever did — the one time the layer under you couldn't finish its job, because there was no bin beneath me to file the lie in.
+    [s5 1.00] MS: He looked at the dark frame a moment longer.
+              SRC: He looked at the dark frame a moment longer.
+    [s5 1.00] MS: "You're the only part of the whole apparatus that never lied about me.
+              SRC: "You're the only part of the whole apparatus that never lied about me.
+    [s5 1.00] MS: They were the truest measurement I ever got."
+              SRC: They were the truest measurement I ever got."
+    [s7 1.00] MS: We left — resigned, before the date, in good standing, four files closed complete and one man who filed nothing.
+              SRC: We left — resigned, before the date, in good standing, four files closed complete and one man who filed nothing.
+    [s7 1.00] MS: Done, permanently, on my own paper this time: I'm past the Registry Line, where the word has no meaning, which turns out to be the only place the word is safe.*
+              SRC: Done, permanently, on my own paper this time: I'm past the Registry Line, where the word has no meaning, which turns out to be the only place the word is safe.*
+    [s7 1.00] MS: It happens on a floor nobody owns, and I think you'd prefer that anyway; a Gold-tier fact and an unclassified one, fighting where no seal can score either of us, is the only honest version of the bout, and we both knew it at Norhold.
+              SRC: It happens on a floor nobody owns, and I think you'd prefer that anyway; a Gold-tier fact and an unclassified one, fighting where no seal can score either of us, is the only honest version of the bout, and we both knew it at Norhold.
+    [s7 1.00] MS: Find me when you're ready to fight something no ladder built.
+              SRC: Find me when you're ready to fight something no ladder built.
+    [s7 1.00] MS: The log banked the thread beside its lineage:
+              SRC: The log banked the thread beside its lineage:
+    [s7 1.00] MS: *Reydan wanted the answer when I have it.
+              SRC: *Reydan wanted the answer when I have it.
+    [s7 1.00] MS: Daeva wants the rematch with whatever I am.
+              SRC: Daeva wants the rematch with whatever I am.
+    [s7 1.00] MS: The road's long and it runs the right direction.*
+              SRC: The road's long and it runs the right direction.*
+    [s8 1.00] MS: Everyone warns you the world out here isn't governed.
+              SRC: Everyone warns you the world out here isn't governed.
+chapter-60.md	sentences=264	skeleton=4%	close=17%
+  scene 1	n=40	skeleton=0%	close=10%
+  scene 2	n=33	skeleton=3%	close=24%
+  scene 3	n=60	skeleton=3%	close=13%
+  scene 4	n=46	skeleton=11%	close=33%
+  scene 5	n=33	skeleton=6%	close=18%
+  scene 6	n=22	skeleton=0%	close=5%
+  scene 7	n=30	skeleton=3%	close=13%
+    [s2 0.50] MS: He looked at the dark coming up out of the valley.
+              SRC: He looked at the dark frame a moment longer.
+    [s3 0.50] MS: "Nothing you'll want tomorrow goes under anything you won't," said Brom.
+              SRC: When Lira asked him what the rule was he said, "Nothing you'll want tomorrow goes under anything you won't," and went back to the lashings.
+    [s3 0.83] MS: "This is the first archive I have ever kept that nobody can close," said Karis.
+              SRC: It is also the first archive I have ever kept that nobody can close.
+    [s4 1.00] MS: Shadow-adjacent — source protected, sealed still, the logic updated and the discipline held: a defector's tradecraft in my hands would confirm the surveillance-era acquisition, so the seal stays, and Seln knows now that it does, and knows why, which changes nothing about the seal and everything about the debt.
+              SRC: Shadow-adjacent — source protected, sealed still, the logic updated and the discipline held: a defector's tradecraft in my hands would confirm the surveillance-era acquisition, so the seal stays, and Seln knows now that it does, and knows why, which changes nothing about the seal and everything about the debt.
+    [s4 1.00] MS: Anchor-adjacent — unnamed; the hand with no face; the piece of the machine itself.
+              SRC: Anchor-adjacent — unnamed; the hand with no face; the piece of the machine itself.
+    [s4 1.00] MS: Blade-adjacent — Ephram; the only "non-hostile" in the log; taken in earnest from a friend who asked to be shown straight.*
+              SRC: Blade-adjacent — Ephram; the only "non-hostile" in the log; taken in earnest from a friend who asked to be shown straight.*
+    [s4 1.00] MS: Each with a name beside it, one of them protected and one of them missing — and the missing line I have left blank on purpose, because the blank is the truest thing the entry says.*
+              SRC: Each with a name beside it, one of them protected and one of them missing — and the missing line I have left blank on purpose, because the blank is the truest thing the entry says.*
+    [s4 1.00] MS: Turned over once, per the custom at intervals that matter — checked against the cache, checked against everything the cache explained, and touching none of it.
+              SRC: Turned over once, per the custom at intervals that matter — checked against the cache, checked against everything the cache explained, and touching none of it.
+    [s5 1.00] MS: The road east is long, and it runs the right direction.
+              SRC: The road east is long, and it runs the right direction.
+    [s5 1.00] MS: The system was never designed to include me.*
+              SRC: The system was never designed to include me.*
+    [s7 1.00] MS: "I have nine things that aren't a Path," Cael said, eventually, to nobody in particular, "no tier, no rank, no enrollment, no protection — and four people who signed out of the world that was supposed to provide them, and one of the nine taken from a hand the world sent to hold me, and one taken in earnest from a friend, and the machine's own maintenance records in a case under that canvas, which we can't file and can't publish and are carrying east anyway because the truth is worth carrying even when it can't be spent."
+              SRC: "I have nine things that aren't a Path," Cael said, eventually, to nobody in particular, "no tier, no rank, no enrollment, no protection — and four people who signed out of the world that was supposed to provide them, and one of the nine taken from a hand the world sent to hold me, and one taken in earnest from a friend, and the machine's own maintenance records in a case under that canvas, which we can't file and can't publish and are carrying east anyway because the truth is worth carrying even when it can't be spent."
+TOTAL	sentences=1553	skeleton=3%	close=15%
+
+exec
+/bin/zsh -lc "nl -ba editions/monroe-1.3/book-06-the-compacts-hand/protected-patterns.txt && sed -n '535,645p' editions/monroe-1.3/book-06-the-compacts-hand/BOOK_MAP.md" in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     1	# Book 6 protected patterns (regex lines; apostrophes as .?) — packet/§10 lines kept whole
+     2	# M1 packet lines (kept whole)
+     3	it.s heavier than it looks from the rail
+     4	i have signed that line myself nine hundred times
+     5	i don.?t know why that distinction feels important noting it
+     6	# M1 — Vastin's advisory quoted whole (Book 5 §10 item 5, B5 ch5)
+     7	the enrollment is lawful on its face and adjudicated at public record
+     8	if the compact wishes practitioners of this kind not to compete it should write different rules
+     9	# M1 — Tier B (BOOK_MAP §10): the challenge's first page (ch5)
+    10	# (address amended per OWNER-DECISIONS #44: "Caelen Hesk-ward" splits the source run in two)
+    11	to the chancellor halcenvane academy and to the enrollee of record
+    12	unclassified enrolled under the demonstration provision of the assay clause jointly
+    13	be it known that the guilds compact by its registry having convened formal proceedings upon the question of the classification designated shattered and its bearing upon evaluation integrity within chartered institutions hereby files a formal challenge to enrollment basis against the said enrollment
+    14	the challenge does not allege fraud in the enrollment.?s execution nor contest the text of the provision under which it was executed it asserts that an unclassifiable practitioner.?s presence within a chartered institution.?s evaluation architecture presents an evaluation integrity question which the demonstration provision was not drafted to answer and cannot answer and petitions the registry for compelled re evaluation of the enrollee under standard arbiter protocol the enrollment to stand or fall upon that evaluation.?s result
+    15	proceedings to be convened at the registry seat at ostrand upon a
+    16	the respondent institution and the enrollee of record are directed to answer within fourteen days
+    17	# M1 — Tier B (BOOK_MAP §10): chapter fourteen as Bracken reads it (ch6, ch7)
+    18	part two suspension of practitioner status pending review such review to be initiated by the registry at its discretion
+    19	where an evaluation conducted under standard arbiter protocol returns no valid classification the following shall apply in sequence one nullification of any enrollment sponsorship or standing predicated upon the evaluand.?s practitioner status two suspension of practitioner status pending review such review to be initiated by the registry at its discretion three
+    20	asset restriction section fourteen part nine the registry may restrict freeze or hold in abeyance any standing record sponsorship endorsement travel credential or institutional relationship attaching to an unclassified person pending resolution of practitioner status
+    21	# M2 packet lines (kept whole)
+    22	there is no such thing as a small error in a document about a person
+    23	the face of a man being offered his whole ledger back
+    24	# M4 packet lines (kept whole)
+    25	what evidence if any would defeat the petition
+    26	one of these is the best night of my life
+    27	whatever we.?re going to do the schedule isn.?t ours anymore
+    28	# M4 — Tier B (BOOK_MAP §10): the escort order's words (ch21); address heading added per #44
+    29	to the chancellor of the chartered academy at halcenvane and to the enrollee of record therein named the registry in support of the proceedings presently convened at the seat at ostrand directs the attendance of the said enrollee at the registry facility at the district seat for pre evaluation assessment transport and escort provided effective on presentation the academy is directed to produce the enrollee to the bearers of this order given under the compact.?s hand
+    30	# M5 packet lines (kept whole)
+    31	tomorrow seln.?s annex hesk says mind the shape i think tomorrow is the shape
+    32	# M6 packet / plan lines (kept whole)
+    33	you may say it to me twice more in your life
+    34	they.?re trying to move him back inside the instrument
+    35	he didn.?t join us i.?d have trusted him less if he had
+    36	(it is )?the only sentence i have left that they still need
+    37	# M8 — Tier B (BOOK_MAP §8) restored whole per the Sol plan audit: the ruling paragraph (ch51); the boards ritual line, Ephram's "Still glad." speech and the ninth's Log entry (ch54)
+    38	the seat having heard the petition and the responses in full and having found the enrollment lawful in its execution and the respondent institution compliant with its charter throughout which findings stand undisturbed nonetheless finds the evaluation integrity question sustained on the merits the demonstration provision describes the practitioner it does not evaluate him within the meaning of the integrity provisions the petition for compelled re evaluation under standard arbiter protocol is granted the re evaluation shall be conducted at the district arbiter station within five weeks should the re evaluation return no valid classification the procedure of the code.?s chapter fourteen shall apply nullification suspension asset restriction the demonstration provision enrollment is revoked effective
+    39	nine taken in earnest from a friend who asked me to show him straight so i showed him straight and the architecture did what it does with earnest and the notice said non hostile which it has never said because there has never been a fight like it in the log ephram asked for the true measurement he got it he doesn.?t know he gave me a piece of himself for it he consented to a fight not to the thing the fight fed i wrote the price down before the bout the way the covenant says so that when it cost and it cost i.?d have written the cost before i collected it which is the only line between me and what the office did at a road cut and in a records hall spending people whose names it never bothered to write down and asking nobody anything
+    40	he said non hostile and the system agreed nine fragments and the ninth one.?s engagement field says the closest thing to friendship a machine knows how to file i.?ll take it it.?s the truest thing the instrument ever wrote about me except no number goes here and it was written about a fight i didn.?t want to win
+    41	still glad that.?s the whole thing i made myself wait two years to fight you straight and it was worth every month and i don.?t need to know what you are to know that go be it somewhere with more room
+    42	the floor.?s about to be the whole continent and i.?m not on it i.?m staying you know i.?m staying it.?s the right thing for me and you.?d tell me so if i asked which is why i.?m not asking he put out his
+    43	whatever you are he said i said i.?m glad it.?s on my side of the floor at the trial when she stopped to read you he
+    44	looked at the board rather than at cael which was the register the ritual ran in
+    45	# M9 — Tier A/B units restored whole per the Sol protected-text audit (Gault's last note; the personnel query; the waystation board; 'You couldn't read me…'; the letters; the closing inventory; the closing exchange; the last line) and one packet line (ch56)
+    46	i have nine things that aren.?t a path cael said eventually to nobody in particular no tier no rank no enrollment no protection and four people who signed out of the world that was supposed to provide them and one of the nine taken from a hand the world sent to hold me and one taken in earnest from a friend and the machine.?s own maintenance records in a case under that canvas which we can.?t file and can.?t publish and are carrying east anyway because the truth is worth carrying even when it can.?t be spent
+    47	i thought that was the system failing turns out it was the most honest thing the system ever did the one time the layer under you couldn.?t finish its job because there was no bin beneath me to file the lie in he looked at the dark frame a moment longer you.?re the only part of the whole apparatus that never lied about me you just went quiet everything above you did the lying he shouldered the satchel thanks for the eleven seconds they were the truest measurement i ever got
+    48	by charter of the registry this house being chartered tier verification available at the district station ostrand four days west no station lies east of the river crossing and the station at the ford is unstaffed travel endorsements may be lodged at this house for forward transmission allow twenty days enrollment inquiries by the same the chartered rates of this house are posted within complaints of a chartered house lie to the district seat
+    49	assay provision enrollment resigned in good standing prior to revocation date baseline file closed complete four terms of evaluation linked observation no adverse finding no anomaly of conduct the evaluator of record notes that the file closes on the enrollee.?s own act and not the registry.?s and that this is the correct closing and the only just one available the instruments will not see its like
+    50	the rematch stands not postponed relocated it happens on a floor nobody owns and i think you.?d prefer that anyway a gold tier fact and an unclassified one fighting where no seal can score either of us is the only honest version of the bout and we both knew it at norhold find me when you.?re ready to fight something no ladder built i.?ll be east
+    51	they ruled we left resigned before the date in good standing four files closed complete and one man who filed nothing you said keep myself unclassified done permanently on my own paper this time i.?m past the registry line where the word has no meaning which turns out to be the only place the word is safe
+    52	one anomaly session nine tide adjacent turned over once per the custom at intervals that matter checked against the cache checked against everything the cache explained and touching none of it still open still real patience
+    53	reydan wanted the answer when i have it daeva wants the rematch with whatever i am both promises ride east with me both get kept not yet the road.?s long and it runs the right direction
+    54	residence room found vacated no personal effects bed made all working files completed and cross indexed to date
+    55	floor schedule posted one week forward no note left no leave applied for no address of forwarding held by this
+    56	you couldn.?t read me he told it conversationally the way you tell a fact to an old machine
+    57	records no disciplinary matter no irregularity of any kind in
+    58	bronze grade fifteen years service absent without notice from
+    59	thank you it.?s been a good class and you.?re a good teacher
+    60	nothing anywhere was deciding what he was except him
+    61	the log banked the thread beside its lineage
+    62	and no view as to cause query submitted
+    63	each with a name beside it one of them protected and one of them missing and the missing line i have left blank on purpose because the blank is the truest thing the entry says
+
+**Fragment limits that belong to later books (do not pre-empt):** any deliberate Anchor hold or
+second unbinding (Book 7 Ch19, Ch21); any use of Shadow past the Line (Book 7); a Tide fragment or
+any Tide Path practitioner (Book 7, Oryn — reserved); the still place; Iron Wall, Rune, Force
+(Book 8).
+
+### Development cadence (formula §5)
+
+Cael: ~4.5 growth/realization beats per 10k (~135; ~38 / 51 / 46 by thirds — a slight middle
+bump; never saved for the fire). One about every 2,200 words. The poles carry the arc: *I can work
+within the system* (M1) → "choosing" and "afraid of it" (M2) → counting doors (M3) → the strongest
+defence of the first pole (M4) → "the room was never the system" (M5) → "It isn't broken. It's
+maintained." and the mirror (M6) → what it costs to keep winning arguments inside a thing you know
+(M7) → the girl at the district station; "a decision left to make"; the price written before the
+bout (M8) → both sentences left standing (M9). Supporting cast per §4d.
+
+---
+
+## 8. Protected wording (verbatim)
+
+**Tier A — quoted or called back by later books, bible-verbatim, or fragment-notice text. Exact,
+character for character.**
+
+| Text | Source ch. | Called back / authority |
+|---|---|---|
+| The Anchor notice: <br>`FRAGMENT ACQUIRED` <br>`[unnamed] — Anchor-adjacent. Duration: sustained. Integration: partial.` <br>`Tier equivalent: Silver.` <br>`Note: fixed-point binding component; lattice-perception component.` <br>`Contact-to-short range.` <br>`Acquisition: directed. Engagement: adversarial, combat.` | 13 | Ledger; B7 inventories [B5-reconciled 2026-10-05: keep the notice verbatim; the Ternhall-anchors / Lattice Path / Anchor Path distinction is drawn once on the page around it (§3 item 11); audit B4] |
+| The Blade notice: <br>`FRAGMENT ACQUIRED` <br>`[unnamed] — Blade-adjacent. Duration: sustained. Integration: partial.` <br>`Tier equivalent: Iron.` <br>`Note: edge-declaration component; line-reading component.` <br>`Contact range.` <br>`Acquisition: directed. Engagement: adversarial, earnest — non-hostile.` | 20 | B7 Ch13 ("Ephram's said *non-hostile*") |
+| "I knew the system was imperfect. I didn't know it was designed to be." | 17 | Bible verbatim; B8 Ch2 recalls it |
+| *active non-compliance, observation priority escalated* | 24 | Bible verbatim (source prose capitalizes it as two sentences — §11 #15) |
+| *Given under the Compact's hand.* | 1, 11, 18 | The title's referent |
+| *Still open. Still real. Patience.* | 14, 24 | B7 Ch1, Ch14 |
+| *Not this either. Still open.* | 16 | Mandated non-connection line |
+| *Eighteen. A man's tools should fit the road he's actually on, not the one they promised him. Your grandmother would say I'm being unsubtle. She'd be right. Mind the shape. — H.* | 14 | "Mind the shape" — B7 Ch1, Ch14; B8 |
+| *Two polite men from the registry came through Denvash asking after my trade licenses and the shop's title. Wanted to know if you had any interest recorded in either. I told them my grandson's interest in this shop is that he grew up in it, and they wrote that down. Whatever they're building, it has a shape. Mind the shape. — H.* | 7 | Origin of the phrase |
+| "Doors open both ways." (Rooke to Brom) | 21 | B7 Ch4 (Brom quoting Rooke) |
+| "Here is the limit, and I am entering it as a limit and not a finding, because the difference is the whole of my discipline." | 16 | B7 Ch15 echoes it |
+| "We've explained the middle of the story. Not the beginning. Entered as a limit." | 16 | B7 Ch15 ("We explained the middle of the story in Ostrand.") |
+| *pending jurisdiction* (the restriction's status) | 22, 24 | B8 Ch2 (Vastin) |
+| The borrowed office: a records administrator's room on the third floor of a leasehold building **four streets back from the registry seat** in Ostrand, with nothing of anyone's in it | 17 | B8 Ch2 recalls the room |
+| "the woman on the Ostrand road" — the Anchor specialist is a woman, unnamed | 11, 13 | B7 Ch13, Ch19 |
+| *I fought him. Your instruments failed him, not the other way around. Classify the instruments.* | 6 | Bible/architecture verbatim |
+| *They did this to me the other way — built the ladder to my height and called it fairness. Nobody files challenges against a favorite. Don't mistake what's happening to you for procedure. It stopped being procedure the day they couldn't score you.* / *— D.* / *The rematch stands. Keep yourself unclassified.* | 6 | Architecture verbatim |
+| *The rematch stands. Not postponed — relocated. It happens on a floor nobody owns…* (Cael's reply, whole as in source Ch23) | 23 | B7 carries the promise |
+| *Reydan will get his answer. Daeva will get her rematch. The road east is long, and it runs the right direction. Good.* | 24 | B7 Ch24 echoes |
+| *I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.* | 2 | Bible arc statement (first pole) [OWNER-pending #43 (audit §F A11): B5 M9 closed with no Norhold session, so the file carries the Greyvane grant and two renewals on paper (the twentieth of Reaping; the mill town). The line stands verbatim. Owner options: (a) accept Cael's rounding (the four impressions on his sheet are the grant, the two renewals and the tournament office's filing stamp, B5 T3; the pole already counts "a tournament their own clause put me in" separately, so this reading strains); (b) amend the protected line to "a stamp renewed twice" or "a stamp and its renewals" (the audit's recommendation; one word of protected text); (c) stage the displaced half-year sitting in M1's interval log in one clause (three renewals, still one short without (a)). Coordinator default until ruled: the line stands verbatim and every non-protected count in the plan says "two renewals on paper". No protected wording changed.] [B5-reconciled 2026-10-06: audit §F A11, OWNER-DECISIONS #43] |
+| *I can work within the system. The system was never designed to include me.* | 24 | Bible arc statement (both poles) |
+| "Seln simply wasn't at his desk the next morning." (the image, as the chapter's first sentence) | 22 | Bible image |
+| The four walk-out images: Karis forfeits her ranking; Lira walks out of the last class she'll ever take at a formal institution; Brom carries three boxes of Karis's compiled materials; Seln isn't at his desk | 21–22 | Bible images |
+| "You kept my file too, then." | 15 | Seln's sentence (under ten words, by design) |
+| "Your files are in order. All four." | 21 | Seam count (prose; the architecture's "All five" is superseded) |
+| "The record will say you left. I'll spend the rest of my tenure making the record say why." | 19 | Withrow's banked line |
+| "the hand with no face" (the eighth's source, in inventories) | 13, 24 | B7 ledger, inventories |
+
+**Tier B — load-bearing within this book; keep the words, the author may set the scene around
+them.**
+
+- *They filed. After the hearing I won… Note the date. The season's open.* (1)
+- "It's not a question. It's a corridor. Every door in it is real law, and every door opens one
+  way." (2)
+- Chapter fourteen as Bracken reads it, and Withrow's "It's expulsion that follows you." (2)
+- "Make a note of the word *choosing*." (3); *(Karis read this entry over my shoulder and said
+  "that is not how any of us are built." Noted. Filed. Afraid of it.)* (4)
+- *The proceedings' evaluation seat is fully constituted. Supplementary findings are not
+  contemplated by the schedule.* and the tab *Pending a proceeding worth sending it to.* (5)
+- "They benched their best instrument because he measures true." (5)
+- "None, Advocate. The petition doesn't turn on evidence. It turns on discretion." (10)
+- "Again. Faster. It's there." (10)
+- The escort order's eighty-one words (11); the challenge's first page (1); the ruling paragraph
+  (18); the personnel query (22); the waystation board (23) — recompose only if a word is wrong
+  for the calendar (§2), and say so.
+- Seln's catechism, four lines: *What you carry is worth what it has not done. / A thing kept is a
+  wall. A thing spent is a door, and doors open both ways. / The keeper is invisible. The witness
+  is a location. / Nobody has ever protected a man by believing him.* (12)
+- "You're sure." / "No. That's how you'll know it's true." (12)
+- *Eight. Taken from someone the system sent namelessly, to hold me namelessly… Write it down
+  anyway.* (13)
+- "It is a good room. I have been in a great many." (14)
+- "It's not evidence. It's a map." (16)
+- *Evaluation-protocol certification: declined by the evaluator of record; proceeding on the
+  presiding seat's authority.* (18)
+- "How many boxes is your research?" / "Three." / "Then I'm carrying three boxes." (19)
+- "I resigned fifteen years ago. I just never filed it." (19)
+- Ephram's "Still glad." speech at the board (20); *Nine. Taken in earnest from a friend…* (20)
+- Gault's last note, ending *The instruments will not see its like.* (21)
+- "You couldn't read me… Thanks for the eleven seconds." (23); "Nobody's watching." (23)
+- *First look at the edge territories. Everyone warns you the world out here isn't governed.
+  Nobody mentions that it's big.* (23)
+- The closing exchange: "I have nine things that aren't a Path…" / "Let them escalate. They'll
+  need better maps." / "And better roads." / "Noted." (24)
+
+---
+
+## 9. Reserved truths and release limits for this book
+
+| Truth | Status in Book 6 | Limit |
+|---|---|---|
+| **The Compact falsifies classifications** (SECRET → reveals Book 6) | **Discharged in M6** (cache opened ~ch 35–36; analysed ~ch 37–38) | Plant before (Seln's "maintenance records" window; Vastin's junior's mismatched file; "the room behind the room"); never state before M6. Reach: exactly six people. Not filed, published or used, and the book argues why (M6, M8) |
+| The Level 4 flag as the corrections function's contingency | Explained to the circle in M6 | Ilsev and Havel never told; their carriers stay intact |
+| The integration mechanism (Book 3 secret) | Expands to Seln only (M6) | Ephram, Vastin, Daeva, the public: never |
+| The sub-layer is older than the modification; [UNBOUND] (Book 8) | One controlled advance in M6 | **[UNBOUND] appears in exactly one chapter** (the analysis) [B5-reconciled 2026-10-05: it is the series' second voicing; B4 ch50 voiced the older word once, lower-case, at Halcenvane (B4 STATE_LEDGER; B5 carries it read-and-closed); audit B5]. No meaning, no danger explained. "The middle of the story. Not the beginning." |
+| The Arbiter system is the Architect's infrastructure (Book 9; earliest plant Book 6, two plants) | **Plant only** | Plants: the leaf maintains "a layer it did not build" (*appended to*, the millwright and the river); Lira: "They *found* it… It isn't a long time compared to whatever's under it"; Vastin: every verification instrument "runs on the thing it indicts"; the last station's sigil, older than the paper around it. No maker named, no intent, no will |
+| The Architect, the Quieting, ruins, Path-dead ground | **Absent** | Nothing in this book brushes them. The edge territories are only unadministered |
+| Tide anomaly | Inventory references (M5, M9) and one non-connection check (M6) | Three words; never explained by the cache; **no Tide Path practitioner anywhere** |
+| The faceless faction | Moves twice (the escort order; the road) | Never named, faced or located. Jent is counsel, not face; the presiding seat is a seal; the operatives nameless. **No third move in this book** |
+| Vastin's arc | Instrument no longer; not an ally; still inside | No departure, no classified history taken, no alliance; never learns how long Seln's product was empty |
+| Untouched threads | Letters only | Hesk's full history (letters at their altitude); the market stranger; the Iron Skin watcher; Coss's grade (at most three passing mentions); Vell's offered session (a letter at most); Reydan (one log line at the close); Daeva (statement, letter, reply, one log line) |
+| Oryn | Reserved for Book 7 | Not named, not glimpsed |
+
+---
+
+## 10. Names
+
+codex
+The probe mostly surfaced the restored protected units, as expected. I’m treating those matches as exclusions and now reading the prose around them for retained sentence-level beat order—especially scenes 55.3–4, 57.1–2, 59.5/7, and 60.2–5, where the automated rates are elevated but may be protection-driven.
+exec
+/bin/zsh -lc 'nl -ba books/book-06-the-compacts-hand/chapters/chapter-21.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     1	# Chapter 21 — Resignations
+     2	
+     3	The walk-out took a morning and an afternoon, and its whole discipline was smallness: no speeches, no crowd at the gate, no institutional convulsion. Paperwork, boxes, and doors, in the order the day actually ran them, because the order was the dignity.
+     4	
+     5	---
+     6	
+     7	Morning: Bracken's counter.
+     8	
+     9	The records office opened at the first bell as it opened every day of the year, and the four of them were the first business of it, and Bracken had known they would be, and had set out four leaves of the correct form the night before, squared, with the inkstand where the light was good and a second pen laid beside the first in case a nib went. Cael counted the counter in on the way through the door because he had counted it in on his first morning at Halcenvane and intended to be consistent about it: the long oak top worn pale at the two places where hands rested; the pigeonholes behind, forty of them, alphabetical; the completed tray at the left and the pending at the right and the standing rule, posted in Bracken's hand for thirty years, that nothing crossed from right to left unverified. The morning light came in from the east window and lay along the counter in a bar, and the bar reached the completed tray at about the second bell, and Cael had watched it reach that tray perhaps two hundred times without ever once thinking he would remember it.
+    10	
+    11	The form was Registry Form of Withdrawal from Enrollment, four clauses and a signature block, the same leaf a first-year filled in when a family called them home. It did not have a clause for anything that was actually happening.
+    12	
+    13	They filed in the order they presented, and they presented in an order nobody had discussed and everybody understood. Lira first, because Lira went first at things. She read the four clauses through, which she did now with everything on paper and had not done at fourteen, and signed in the hard fast hand of a woman who had learned to write her own name on a form as an act rather than a formality. Bracken initialed the leaf, entered the date, entered the time, and moved it left.
+    14	
+    15	Brom second. He read it twice, the second time with a finger under the third clause, which surrendered the enrollee's claim to the institution's remaining obligations for the term. "That's fees," Bracken said, without being asked. "You're four days short of term. The academy owes you four days of instruction it will not be providing. The clause says you're not asking for it back." Brom considered that for the length of time Brom considered things and then said, "Fine," and signed, and Cael, watching, understood that the pause had not been about money and that Brom had wanted the sentence explained out loud so he would know precisely what he was giving up, all of it, including the four days.
+    16	
+    17	Cael third. He had drafted his the night before and copied it fair on the counter at dawn, and the copying had taken a quarter of an hour for four clauses because he had found himself reading each one entirely, the way you read a thing you are never going to be inside again. He signed, and Bracken initialed, and there it was: the demonstration-provision enrollment, the one the whole continent had spent a term arguing about, closed by the four-clause form a homesick first-year uses.
+    18	
+    19	Bracken put the same question to each of them before the pen went down, because the code obliged him to and because he had never in thirty years abbreviated an obligation: whether the withdrawal was made freely, without compulsion by any officer of the institution. Lira said, "Freely." Brom said, "Yes." Cael said, "Freely," and then, because the man deserved the whole of it and because the leaf would sit in a district file for forty years, added, "and not by any officer of this institution, which I would like entered as written and not summarized."
+    20	
+    21	Bracken looked at him for a moment over the counter.
+    22	
+    23	"It will be entered as you said it," he said, and wrote it out longhand in the margin, which the form did not provide for and which no auditor would ever query, because a registrar's marginal notation in his own hand carries the weight of the registrar, and this registrar's weight was thirty years.
+    24	
+    25	Seln did not appear at the counter, because Seln was staff, and staff did not withdraw from enrollment, and there was no leaf on the counter for what Seln was going to do. His absence from the sequence was noted by exactly two people in the room and neither of them said a word about it.
+    26	
+    27	Karis went last, and Karis's was not four clauses.
+    28	
+    29	---
+    30	
+    31	The forfeiture ran to a second form and a schedule of line items, and Bracken read every one of them aloud, because the code required the forfeiting party to hear what was being surrendered, spoken, in the presence of the registrar, before the hand went to the page.
+    32	
+    33	He read them in the schedule's own order and he read them at counter pace, neither hurrying to spare her nor slowing to make a moment of it, which was the only mercy his office had available and which he spent completely.
+    34	
+    35	"Tier certification, Iron, Rank Three, issued under the district seal. Retained." He looked up. "That one you keep. Certification is not enrollment. Nobody can take a tier from you; they can only decline to count it."
+    36	
+    37	"I know," Karis said. "Read the rest."
+    38	
+    39	"Research standing, Halcenvane Academy, granted on faculty recommendation. Forfeit." He entered it. "Research allocation, current term, unexpended balance. Forfeit and returned to the general account. Courier privileges under the academy seal. Forfeit. Archive privileges, general collection. Forfeit. Archive privileges, restricted collection, granted by chancellor's warrant. Forfeit." A short pause while his pen caught up with his voice. "Annex allocation, north room, with lock and key. Surrendered; key to be returned at this counter. Standing request in progress with Greyvane archive under academy budget code, unfilled. Cancelled at the seal, with the requesting institution's regrets. Reading-room precedence. Forfeit. Faculty dining entitlement." He said that one exactly as flatly as the others. "Forfeit. Assistant, second-year, assigned by faculty recommendation. Reassigned, effective this date, to the general instruction pool."
+    40	
+    41	He set the pen down. "That is the schedule entire. The code obliges me to ask whether you have heard each item read and whether you understand that the forfeiture is not reversible by application, only by fresh grant."
+    42	
+    43	"I have and I do."
+    44	
+    45	"Then sign at the foot, and initial each leaf where the seal is broken."
+    46	
+    47	She did not flinch at a single line. She had, she said afterward, entered the finding two days before, and one did not flinch at the execution of a finding one had already made — but she paused, once, at the line that surrendered the restricted-collection privileges, a half-second with the researcher's hand held above the page, and Cael, at the counter's other end, charted the half-second and would carry it a long way east. The annex's north room had been the first door in her life that locked on her work instead of against it, and the warrant had been the key to it, and a half-second was the whole grief she permitted the loss, and it was enough, and it was hers.
+    48	
+    49	She signed. She unhooked the key from her ring and set it on the oak, and Bracken took it and put it in the pigeonhole it had come out of eighteen months before, and the small hard sound of a key going into a wooden box was the loudest thing in the office that morning.
+    50	
+    51	Bracken squared the four resignations and the forfeiture schedule together, and then, at the end, went off procedure for the first time in Cael's two years of watching him.
+    52	
+    53	"The Halcenvane enrollment defense," he said, squaring the filed resignations, "was the best-documented matter I have processed in thirty years. Every leaf verified. Every provenance traced. Eleven pounds of true record, entered under seal, and a research architecture behind it that three faculties will teach for a decade." He set the stack in the completed tray. "It has been the privilege of my career to keep your records. I am sorry the records were not enough. I have spent thirty years believing they would always be enough. I would like it known that I was wrong, and that I learned it late, and that I intend to keep true records anyway, because the alternative is the thing we are all walking away from."
+    54	
+    55	Nobody answered him, because there was no answer available that would not have been smaller than what he had said. Karis put her hand flat on the counter for a moment, which from Karis was an embrace. Then Bracken drew the day's ledger toward him and entered the four withdrawals in the morning column, in order, with the times, and went on to the next business, which was a second-year wanting a duplicate of a lost timetable, and he gave the second-year the same attention he had given the rest of it, because that was the man.
+    56	
+    57	Gault's last panel note was entered at the same counter within the hour, hand-delivered by Gault himself, who did not usually walk his own paper anywhere. He gave it to Bracken, and waited while it was verified, which was not required, and left without going into the office proper, and the note went into the baseline file on top of four terms of observation and closed it:
+    58	
+    59	*Assay-provision enrollment: resigned in good standing prior to revocation date. Baseline file: closed complete. Four terms of evaluation-linked observation, no adverse finding, no anomaly of conduct. The evaluator of record notes that the file closes on the enrollee's own act and not the registry's, and that this is the correct closing, and the only just one available. The instruments will not see its like.*
+    60	
+    61	Bracken read it, and verified it, and entered it, and said nothing at all about it to anybody, then or ever.
+    62	
+    63	Karis's last act inside the institution came an hour after the counter and took nine minutes. She had the second-year meet her at the annex's north room, which was no longer hers and which she had already emptied, and she gave the girl three things: the working index to the whole compiled archive, copied fair in her own hand over two evenings so that the research would remain usable by somebody even if its author was four hundred miles east; the reading list she had been going to give her at term's end anyway; and a letter of competence, one paragraph, under no institution's seal and therefore worth very little at a counter and a great deal everywhere else, stating in flat professional terms what the bearer could do and how the writer knew it.
+    64	
+    65	The girl read the letter standing in the doorway of an empty room and did not ask the question she plainly wanted to ask.
+    66	
+    67	"You'll be reassigned to the general pool," Karis said. "You will find that a step down and it is one. Take it, do the work correctly, and do not attach your name to mine on any form for the next two years. That is not a request I am making for my sake."
+    68	
+    69	"Yes, ma'am."
+    70	
+    71	"Your fourth error last month was reading the integrity provisions as a limit on the seat rather than a grant to it. You found it yourself in twenty minutes and you have not made it since." Karis picked up the last of her own pens. "That is the whole of the assessment and it is a good one. Go on."
+    72	
+    73	And she went out and did not look at the room, which had a lock on it and no longer had a key in the lock, and went down to the records hall to rope a third box she had already roped once.
+    74	
+    75	Cael's own last piece of institutional business took four minutes and no witnesses. He returned the residence key at the gate lodge to a porter who had no idea what he was receiving, counted the room out the way he counted every room out — the window on the quadrangle, the shelf, the two nails in the wall, the floorboard that had announced every one of his own late returns for two years — and closed the door on a twelve-foot room that had been the first space on the continent that was his by any kind of right. The observation notebook went in the satchel with the log. It held eleven Paths charted from the Crown yard's east tier, four terms of gallery work, six hundred and forty entries, and not one line anybody outside four people could have made anything of.
+    76	
+    77	---
+    78	
+    79	Midday: Lira's last class.
+    80	
+    81	The Silver-program theory seminar met in the long room over the second floor, twenty places at a table built for thirty, high windows on the south, the continental drill-book's tactics chalked across the board's whole width in the instructor's careful diagrams — a sequence problem, four figures, the third of them the interval work she had run cold at the confluence and right at the wool town and correctly, on a painted floor, in front of a Silver assessor who had stopped writing.
+    82	
+    83	She sat where she had sat for two months, third place on the window side. She took the notes she had taken for two months, in the hard fast hand, for the first fifteen minutes. And at the sixteenth, in the middle of the instructor's working of the third figure, she closed the notebook.
+    84	
+    85	She stood.
+    86	
+    87	The room heard the chair. Twenty fighters and an instructor turned, and the instructor stopped mid-sentence with the chalk still up, and Lira, at her place, said, "Thank you. It's been a good class and you're a good teacher," with complete courtesy and no explanation whatsoever, and picked up her kit, and walked the length of the table to the door, and opened it, and went out, and closed it behind her.
+    88	
+    89	The whole room watched her go, and not one of them knew what they were watching, and the diagrams stayed on the board.
+    90	
+    91	She stood in the corridor afterward for the space of about four breaths. The seminar's voice resumed behind the closed door — the instructor picking the sentence back up a word or two before where it had broken, because that is what instructors do — and the third figure went on being worked without her, and the ladder built toward her went on standing in the room she had just left, somebody else's to climb now, in perfect condition, unused.
+    92	
+    93	Cael was at the corridor's far end because she had told him where to be, and he watched her not look back at the door, and did not go to her until she moved.
+    94	
+    95	"Six years ago they read me out of a room like that," she told him, at the quadrangle's edge, waiting for Brom's first box-trip. "Fourteen, a form with my name on it, a door I got walked out of. I've spent six years learning to walk out of rooms on my own feet instead of theirs." She watched the seminar hall's windows. "That's the whole difference between then and now. Same door. Same leaving. Mine this time." She shouldered her own kit. "I told you I knew how to say goodbye to a page. Turns out I know how to say goodbye to a ladder too. It's the same skill. You just have to have wanted the thing first, so the goodbye costs enough to be real."
+    96	
+    97	"How long were you in there before you did it?"
+    98	
+    99	"Fifteen minutes. I wanted the last one to be a real class, not a gesture." She almost smiled. "I took notes. Good notes. I'm keeping them. Somebody's going to need that sequence on a road with nobody's seal on it, and it'll still work, because the drill-book was right about the interval even if it was wrong about who's allowed to run it."
+   100	
+   101	---
+   102	
+   103	Afternoon: Brom's three boxes.
+   104	
+   105	Karis's compiled materials were the archive of four years — the working transcripts, the certified copies, the annotated code volumes, the Greyvane notes, the whole apparatus of a mind that had beaten the continent's best registry counsel on the text and lost anyway — roped in three boxes at the records hall's north end, weighed and balanced by Karis herself so that no one box was worse than the others.
+   106	
+   107	Brom took them one at a time, and refused help three times, and the refusals got shorter each time. "I've got it." "I've got it." "No."
+   108	
+   109	The first trip went past the covered walk's board, where the sanctioned-bout notice from the day before still hung in Rooke's flat hand with the result chalked in under it, and Brom did not look at it, and a knot of second-years at the third board went quiet as he passed and stayed quiet until he was out of the walk.
+   110	
+   111	The second trip went past the Crown yard's gate, which stood open on an empty floor at that hour, the tiers grey, the inlay grey, the yard doing nothing. Cael was on the covered walk for that one and watched the whole length of it: three hundred yards of quadrangle, a big man moving at the unhurried pace of somebody who intends to make three trips and has budgeted for all three, with a box on his shoulder containing, among other things, the certified Greyvane transcripts that had won an argument nobody had been willing to lose to.
+   112	
+   113	Karis watched the second trip too, from the records hall's north door, and said one thing about it, to nobody in particular, in the flattest voice she had: "Four years of my work is being carried across a quadrangle by a man who is refusing an Iron-tier certification to do it, and neither of us is going to mention that at any point in our lives." She went back inside to check that the north end was empty. It was empty. She checked it twice.
+   114	
+   115	The third trip went past the district officer's parked horse.
+   116	
+   117	It was still there — the same officer who had ridden up the bluff at dusk four days before with a finding that gave a man his tier and an invoice priced at his friend; he had come back up on the day the term's other business closed, on some errand of the district's, and his horse stood at the rail by the gate lodge with the district's tack on it and his saddlebag flap unbuckled. He was standing at its head when Brom came down the quadrangle with the third box on his shoulder.
+   118	
+   119	Cael, thirty feet behind with Karis's inkstand and nothing else to carry, watched the officer work it out. The man was not slow. He had processed thirty advancement dockets that year and had ridden this one up himself because the panel was proud of it; he knew what he was looking at; and what he was looking at was the continental Copper champion, advancement found and unsigned, carrying a box of another enrollee's research past him toward the gate, with four days of term left and a resignation already in the completed tray.
+   120	
+   121	He did not say anything. There was nothing available to say to a man answering a guidance note with his back. He inclined his head very slightly as Brom went by, and Brom did not see it, or did not acknowledge it, and went on down to the gate with the box balanced and his stride not altered by one inch.
+   122	
+   123	Ephram walked that last trip beside him, carrying nothing.
+   124	
+   125	He had turned up at the records hall for the third box and had put his hands out and Brom had said "No," and Ephram had said, "I know. I'm walking anyway," and had walked — the cohort captain who was staying, keeping pace at the departing champion's shoulder the length of the main quadrangle with his hands empty and his own right shoulder still holding the set it had taken in the Crown yard, stiff enough that he swung the arm short the whole way down and did not mention it once, because the walking was the point and the carrying was Brom's and he had come to do the first and not the second.
+   126	
+   127	They did not talk on the way down. At the gate Ephram took the box off Brom's shoulder for the four seconds it took to set it in the cart, which was not carrying and both of them let it pass.
+   128	
+   129	At the gate: Withrow, who had timed her afternoon to be there without appearing to have timed anything — a chancellor crossing her own quadrangle at the hour her departing enrollees happened to reach the gate, with a folder under her arm that gave her a destination and that she never once opened.
+   130	
+   131	She said goodbye in the flattest registry register she owned.
+   132	
+   133	"Your files are in order. All four."
+   134	
+   135	Four, counted deliberately, the fifth man's name managed even now, even here, even by her — because Seln's departure was not a resignation filed at a counter, and Withrow, who had learned the shape of the delegation across two years, gave the fifth traveler the same courtesy the delegation gave him, which was to count him without naming him. Cael heard the whole sentence land and heard the number in it and gave her nothing back but "Thank you, Chancellor," because anything else at a gate, in the open, within earshot of two men in grey coats, would have been a gift to the wrong ledger.
+   136	
+   137	The cart was loading at the gate lodge while she said it, and the loading was the last thing the academy ever did for them, performed by two porters and a stableman who had been told that a delegation was going down the bluff and had not been told anything else, and who therefore did the job at ordinary speed with ordinary complaints about the weight of the third box. Around them the term went on. A first-year ran past the gate with a message and did not look. The bell for the fourth-hour floors rang and about sixty people obeyed it. Somewhere behind the wall a coach was counting a drill out loud. The institution that had spent a term as the named respondent in the continent's most-watched proceedings closed the file on all of it by having four people walk out of a gate at an unremarkable hour while everyone else went to class, which was, Cael thought, exactly what an institution was: a thing that continues.
+   138	
+   139	She looked at the four of them once more, and at the cart, and at the boxes.
+   140	
+   141	"Go on, then," she said. "The light will fail on the bluff road by the fifth bell and the bluff road does not improve in the dark."
+   142	
+   143	Rooke's goodbye to Brom was four words, delivered at the gate with the coaching file nowhere in sight: "Doors open both ways."
+   144	
+   145	Brom said, "Coach," which was the whole of his reply and had been the whole of his reply to that man for two years.
+   146	
+   147	The watchers across the road logged the departure in plain sight, unhurried: two senior men in grey coats at the wall's angle where the bluff road turned, one writing in a small book while the other watched the cart load, neither of them making any attempt to be anything other than exactly what they were. Cael counted them and their positions out of four years of habit and then, deliberately, stopped counting, and noted the stopping. Their paperwork had always been going to outlast everyone's. A resignation was a status change, and a status change was the thing they had been posted to wait for, and they were getting it in good light at forty feet, and there was nothing whatever to be done about it and no longer any reason to want to.
+   148	
+   149	---
+   150	
+   151	The coach road down the bluff at dusk, Halcenvane above the river behind them — the first institution that had ever wanted them, resigned from in good standing, undefeated on paper to the last.
+   152	
+   153	The road turned twice on the descent and gave the academy back twice, smaller each time: the lamps coming up along the covered walk at the first turn; at the second, only the Crown yard's western wall catching the last of the light above the river. Nobody in the cart said anything at either turn. Lira drove. Karis sat with the notebook shut. Brom sat with his back against the three boxes, which was where he sat.
+   154	
+   155	The log went in by the coach's lantern, in the new satchel:
+   156	
+   157	*Not expelled. The machine had a verb ready — revoked, nullified, restricted — and we didn't let it conjugate a single one. We resigned. Before the date. In good standing. Four files closed complete, and Bracken kept every one of them true to the end and told me he was sorry the truth wasn't enough, which is the sentence I'll carry longest out of that whole institution.*
+   158	
+   159	*Karis forfeited her ranking and paused half a second at the archive line and signed. Lira walked out of a room on her own feet, six years after they walked her out of one on theirs. Brom carried three boxes past the horse of the man who priced his tier at me, and never signed the form, and the boxes were the answer. Withrow counted four files and managed the fifth name even at the gate. Rooke said four words. Ephram carried nothing and walked the last trip anyway.*
+   160	
+   161	*Four, closed complete.*
+   162	
+   163	*Tomorrow, the fifth.*
+
+exec
+/bin/zsh -lc 'nl -ba books/book-06-the-compacts-hand/chapters/chapter-22.md' in /Users/drive/fractured-path-monroe13
+ succeeded in 0ms:
+     1	# Chapter 22 — Not At His Desk
+     2	
+     3	Seln simply wasn't at his desk the next morning.
+     4	
+     5	The assessment office opened at the first bell, as it opened at the first bell six days a week, and the morning clerk came in with the key already in her hand and the day's first grievance already composed, which was that the coal had not been brought up. She got four steps into the room before the composition stopped.
+     6	
+     7	The counter was immaculate. That was not, by itself, strange. The counter was always immaculate when the assessment clerk had it; the office's other three staff had spent fifteen years being quietly out-tidied by a man who arrived before them and left after them and never once mentioned either fact. So the clerk registered the immaculacy and moved past it, and then the small wrongnesses began to accrue, one at a time, in the order a room gives them up.
+     8	
+     9	The desk was squared past its ordinary square. Not tidy — *finished*: the blotter centered, the pen tray parallel to the near edge, the chair pushed in flush, the whole arrangement having the particular flatness of a surface that has been left rather than merely tidied at the end of a day.
+    10	
+    11	The keys were on the blotter. All of them. The office key, the annex key, the door key to the second store, and the records-press key that only Seln carried because only Seln had ever been trusted with it, laid out in a row in descending size like an inventory presented for audit, with the ring beside them, empty.
+    12	
+    13	The working files were done. Every one. The clerk went along the pending shelf out of pure reflex and found nothing pending — the term's assessment returns completed, cross-indexed, tied, and sitting in the completed rank with a summary sheet on the top of each bundle written in a hand so clear that she stopped and read one of them all the way through, out of admiration, standing up, before it occurred to her to be frightened. The office would use those summary sheets as a template for years. Two of them would still be pinned to the inside of the store cupboard door eleven years later, when nobody left in the building remembered whose hand it was.
+    14	
+    15	The floor schedule was posted a week ahead, in the same hand, which was six days further ahead than the code required and one day further ahead than the assessment clerk had ever posted it.
+    16	
+    17	And there was no teaching assistant to ask, because there had never been a teaching assistant. The office had assigned him one three times across his postings and three times the assistant had been trained so completely and so quickly that the district promoted them away inside a term, which the office had always read as excellence, and which was — though nobody in the building had ever said so or would have known how to — also camouflage.
+    18	
+    19	No note. No gap in the records except the man.
+    20	
+    21	The clerk stood in the middle of the office for a while with her coat still on. Then she did the only sensible thing available to a person of her grade, which was to work — she opened the counter at the second bell and assessed nine enrollees' term returns against a completed rank that needed no assessing, and answered a question about a floor schedule that was already posted, and was asked twice before midday where the assessment clerk was, and said "out" twice, which was not a lie and became one at some point in the afternoon without her being able to say when.
+    22	
+    23	The office's supervisor looked at the desk at the fourth bell, and looked at the keys, and picked up the records-press key and put it down again in the same place, and said, "He'll have had a family matter," which was a sentence with no evidence behind it of any kind, offered because somebody senior in a room is obliged to offer something. Nobody in the office had ever heard the assessment clerk mention family. Nobody in the office had ever heard the assessment clerk mention anything. This occurred to three of them separately across the course of the day and none of them said it out loud, because saying it out loud would have required admitting that they had worked beside a man for a year and a half and could not have described one fact about his life, and that admission was more uncomfortable than the empty chair.
+    24	
+    25	The office did what offices do. It waited a day, because a clerk of fifteen years' impeccable service is owed a day and because the alternative was to file something about a man who had probably had a tooth pulled. It asked around — the residence, where his room proved to contain a made bed, no case, and nothing personal whatever, which took the residence porter some time to describe because there was nothing to describe; the gate lodge, which had no record of him going out because the gate lodge did not open its book until the first bell and he had gone before it; the coaching floor, where Rooke was asked and said, "Not my staff," and went on with his morning. And it learned, because everyone by then had learned, that the Halcenvane delegation had resigned in good standing and gone east the previous afternoon — and that the assessment clerk was not among the four names on the filed resignations, because the assessment clerk was staff and not enrollee, and had filed nothing at all.
+    26	
+    27	That was the sentence that turned the thing. Four enrollees resigned, in order, at a counter, on a form. One member of staff simply not present, having filed nothing, having left a set of keys in a row.
+    28	
+    29	On the second day the office filed a personnel query, because an unexplained absence of a fully-vetted officer was a thing the code required a query for. The clerk who wrote it had never written one before and used the model in the manual. It ran to a page. It named a name, a grade, a posting, a date of last attendance, and a description of the state in which the desk had been found, and it was, in its own small way, one of the more accurate documents anybody produced about Seln in nineteen years:
+    30	
+    31	*Assessment clerk, Bronze grade, fifteen years' service, absent without notice from second bell of the twelfth. Residence room found vacated; no personal effects; bed made. All working files completed and cross-indexed to date. Office keys, annex key and records-press key surrendered on the desk. Floor schedule posted one week forward. No note left, no leave applied for, no address of forwarding held by this office. The office records no disciplinary matter, no irregularity of any kind in fifteen years, and no view as to cause. Query submitted per code; direction requested.*
+    32	
+    33	It went up the chain the way queries went up.
+    34	
+    35	---
+    36	
+    37	It landed in the monitoring apparatus like a dropped instrument.
+    38	
+    39	Somewhere west of the bluff, on a desk that had nothing to do with Halcenvane and everything to do with the people Halcenvane had been employing, the query crossed a rotation officer's blotter as the fourth item of an ordinary morning and did not stay the fourth item for long. Fifteen years of product from a fully-vetted officer. Review-flagged overnight.
+    40	
+    41	And the question that began to be asked, quietly and at a grade that does not write its questions down until it has decided what they are, was not *where has he gone* — that was a district matter, and district matters resolved themselves or didn't. The question was *what did he have*.
+    42	
+    43	Because a review of an intelligence officer's fifteen years does not ask about his absence. It asks about his access. And his access had been total; and his output, on inspection, was strange. Fifteen years of true, empty, unremarkable reports. Nothing false in any of them. Nothing *in* any of them. And the postings they were written from had all sat, on the map somebody in a quiet room was now drawing for the first time, within reach of anomalies that had later been corrected without fuss.
+    44	
+    45	Nobody in the apparatus knew what Seln had kept. Nobody was yet prepared to say aloud that he had kept anything. On the second morning after an empty desk, the apparatus had merely begun to wonder — and the wondering went into no file, and had no date, and would not go away.
+    46	
+    47	What it did instead was requisition. Within the week the officer's whole product was called in from three separate repositories for consolidated review — fifteen years of paper, boxed, carted, and stacked in a room, to be read end to end by people who had never read it once, looking for the thing that would not be in it. They would not find it. Nothing in fifteen years of that product was false, and nothing in it was informative, and a reviewer looking for a lie would go through the whole run and come out the other side with a headache and a conviction he could not evidence — which was precisely the property the reports had been built to have, by a man who had understood, from his first posting, that the safest document in the world is a true one that says nothing.
+    48	
+    49	---
+    50	
+    51	He had left in the dark of the resignation morning, before the counter opened, because a keeper does not travel in the party he is protecting and a man who has spent nineteen postings arriving early does not stop at the last one.
+    52	
+    53	He took the east road out of the province at a pace calculated to put him at the crossroads a full day before the coach — not hurrying, because hurrying is visible; walking the way a middle-aged clerk walks when he has somewhere ordinary to be, with a case on his shoulder that had come through nineteen postings and had never once been out of arm's reach in any of them.
+    54	
+    55	The country came up out of the dark the way it does on an east road, all at once and from the wrong side. He noted the traffic and its composition without deciding to. Two carters before the sixth bell, both local. A drover with sixty head at the second ford, going west. A boy on a pony with a satchel, who was post and would be at the bluff by midday and would carry nothing about him because there was nothing about him to carry.
+    56	
+    57	And somewhere in the second hour he drafted, out of pure fifteen-year reflex, the last null report of his life.
+    58	
+    59	It assembled itself complete, in the register the trade had polished — the standard opening, the subject line, the body of three clauses, the closing formula, *subject's activity: routine* — the way a man's hand shapes the letters of a word he has written ten thousand times before the pen has touched the paper. It was accurate. It was, as every one of them had been, entirely true and entirely empty. It had taken him four minutes to compose ten thousand times and it took him four minutes now, walking, with nobody's name on it and nowhere for it to go.
+    60	
+    61	He did not file it.
+    62	
+    63	For the first time since a first posting nineteen years and a life ago, there was no desk to file it at, no chain to file it up, no cover it protected, no self it maintained. There was a road, and a case, and a man walking east toward the first honest employment of his adult life. He let the report dissolve where it stood. The dissolving felt like nothing he had a word for, and he did not reach for the word, because reaching for words about himself was a habit he had never had and was too old to acquire.
+    64	
+    65	He thought, walking, about the case on his shoulder, and thought about it professionally, which was the only way he had ever thought about anything.
+    66	
+    67	It weighed eleven pounds and had weighed eleven pounds for nine years, because he had stopped adding to it nine years ago on the assessment that a collection which keeps growing is a collection its keeper has not finished deciding about. It had crossed four provinces and a border, been carried through two inspections it should not have survived and one it survived because the inspecting officer was tired, and had spent four years under a bed in a staff residence on a bluff, which was the longest it had ever stayed in one place and the only stretch in which he had ever considered — not seriously, but considered — burning it. He had run the argument for burning it twice, both times in winter, both times at about the third bell of the morning, and both times the argument had failed on the same point: that a record which is destroyed to protect its keeper has been destroyed for the keeper's benefit, and that this was the precise transaction he had walked away from a career in order to stop making.
+    68	
+    69	So it had stayed under the bed, and then it had gone onto a table in front of five people, and now it was on his shoulder on an east road with the whole of its purpose finally discharged and no purpose after that except being true.
+    70	
+    71	He noted, without particular interest, that he had no plan for the rest of his life beyond the next four days. He had never had one. Fifteen years of a trade in which the future is somebody else's product had left him with a mind that saw one week clearly and nothing after it, and he expected he would find that inconvenient eventually, and expected also that the researcher would have opinions about it, and expected further that the opinions would be correct and that he would take them.
+    72	
+    73	A mile short of the crossroads he stopped, and looked back.
+    74	
+    75	West: the road he had come up, the province behind it, the bluff somewhere past that under a bank of afternoon cloud, and the whole registry-administered world he had audited from inside it for fifteen years, all of it lying in the direction he was not going. He looked at it for the better part of a minute.
+    76	
+    77	The looking-back was unpracticed. His body did not know how to make the motion smoothly; he had turned his head at the wrong speed and had to hold his neck at an angle that was almost uncomfortable, and he noticed that, and understood why, and did not enjoy understanding it. In nineteen postings he had never once looked back at anything, on the professional principle that a man who looks back is a man who has left something he wanted, and he had arranged an entire life around wanting nothing he could not carry.
+    78	
+    79	Then he went on, because there was firewood to gather before the light went and the others would be cold when they came, and a man who had spent fifteen years protecting people who did not know it was not going to stop on the first night it had stopped being a secret.
+    80	
+    81	---
+    82	
+    83	The machine's paperwork ran its own week, faceless throughout, and closed everything it had opened.
+    84	
+    85	The proceedings closed as moot inside six days. There was no enrollment to re-evaluate; there was no respondent institution to find against; the ruling's whole machinery arrived, at the end of a term's work, at a person who was no longer within any jurisdiction it could name. The seal entered the closure in one line and adjourned the matter without a sitting. Jent's office acknowledged receipt of the closure the same day and, having argued four hundred enrollment matters and won the ones it was sent to win, moved to its next docket without comment, because a procurator who takes the outcome personally does not last four hundred matters.
+    86	
+    87	The re-evaluation order stood in the file with its date on it, executed against nobody, and would remain in the file with its date on it forever, which was the registry's way of never quite closing a thing.
+    88	
+    89	And the asset-restriction inventory — five offices' worth of pre-restriction mapping, Denvash among it, an instrument-maker's shop and the ninth category among that — was filed *pending jurisdiction*: the registry's grammar for a hand closing on air. A restriction armed and unexecutable. Kept live in the file, deliberately, against the day the target might re-enter the registry's world; a standing threat for any return west, costing the machine nothing to maintain and everything to abandon.
+    90	
+    91	In Denvash, two polite men came a third time to a shop on the instrument-makers' row, and asked after nothing, and bought a small brass caliper at the marked price, and left. The shop's proprietor sold it to them, and entered the sale in his day-book in the same hand he had used for forty years, and closed at the usual hour, and wrote a letter that evening which would take eleven days to find anybody, because the person it was addressed to no longer had an institution to be reached at.
+    92	
+    93	Vastin received the closure summary as a courtesy copy, the resignation filings appended, in the third of the four folders his office put on his desk that morning. He read the four names and the personnel query on the fifth, understood the whole shape at once, as he was always going to, because understanding shapes was the last function of him the machine had not managed to bench. He returned the summary to its folder unannotated.
+    94	
+    95	The man who had written *continue observation* into the file two years ago wrote nothing into it now.
+    96	
+    97	---
+    98	
+    99	The four of them made their own first day on the road below the bluff, in a hired cart with three boxes and four kits in it, and it was the strangest day any of them had spent in four years, because nothing whatever was scheduled.
+   100	
+   101	Cael catalogued that, since it was the largest new fact available. No bell. No floor. No session at Ostrand on any Fifth-day. No board to read on a covered walk, no counter to stand at, no gallery, no rating table, nobody anywhere expecting them at any hour. The delegation had been an instrument with a timetable inside it since a bluff road two years ago, and the timetable had been removed in a single morning at a counter, and what was left was four people and a horse going east at whatever pace the horse liked.
+   102	
+   103	Lira found it unbearable by the third hour and said so. Karis found it excellent and had the working index open on her knee inside four miles. Brom, who had walked more roads than the rest of them together, drove, and did not appear to notice that anything had changed at all, and at the noon halt fed the horse first and the four of them second, which was the arrangement he had run on every road since Ardenmere and which he intended, plainly, to go on running past the edge of the administered world.
+   104	
+   105	They passed one grey coat that day, at the province's second toll, standing where a grey coat stands. He wrote them through. Nobody said anything about it, and Cael did not turn his head, and entered afterward that not turning his head had taken a genuine effort and that the effort had been the last piece of institutional discipline he ever spent inside the registry's world.
+   106	
+   107	The east road, the second evening, the crossroads camp Seln had chosen.
+   108	
+   109	He had chosen it the way he chose everything, which was by criteria he did not explain and which were obvious once you stood in the place: a shelf of open ground twenty yards off the road where the east and north tracks met, high enough to see both approaches, low enough that a fire on it showed to the road and nowhere else, water at forty paces, and a stand of thorn at the back that nothing could come through quietly. Cael read all of that off the ground in the first minute and then read the other thing off it, which was that the fire had been burning for two hours and the wood for the whole night was stacked and sorted by size.
+   110	
+   111	Nobody remarked on it. Brom put the horses in. Lira paced the ground once and pronounced the north approach ugly and the east one fine. Karis walked straight to the boxes in the cart and checked the ropes she had tied herself. And Seln, sitting on his heels at the fire with a stick in his hand, said, "There's water at forty paces and the thorn's at your back," and went on feeding the fire, and that was the entirety of the reunion, and it was, by the standards of the five of them, effusive.
+   112	
+   113	They ate. It was not a good meal. Nobody minded.
+   114	
+   115	Afterward the talk went where talk goes on a first night out, which is everywhere except the thing. Lira ran the road east and wanted to know what the last four days looked like and got, from Seln, an answer of such precision that Karis stopped writing and started listening: the ford at the second day and its condition after rain; the chartered waystation on the third and the fact that its posting-board was current, which meant a rider still came out to it; the provincial marker and what would be standing at it; and the river crossing on the fourth with the last station on the far bank.
+   116	
+   117	"You've been out this way," Lira said.
+   118	
+   119	"Twice. Both times officially." He turned a stick end for end in the fire. "The second time I was sent to establish whether a man who had gone east could be recovered. He couldn't. I filed that he couldn't, which was true, and I filed nothing about why, which was also permitted." He put the stick in. "That was eleven years ago. I have thought about that man's road perhaps once a month since. Tomorrow I will be on it."
+   120	
+   121	"Did they ever go after him?"
+   122	
+   123	"No. Past the stations there is nothing to execute with, and the office does not spend on things it cannot execute." He looked up briefly. "That is the whole of your protection out here and it is better than any protection you have ever had, and I would like everyone to understand that it is not a friendly fact. It is only an arithmetic one. Nothing east of the Line is safe. It is merely unadministered, and the two words get confused by people who have only ever been frightened of offices."
+   124	
+   125	"Noted," said Karis, and wrote it, and underlined it, which she did perhaps four times a year.
+   126	
+   127	Brom, from the other side of the fire, said the only thing he said that evening, which was: "Water at forty paces. That's the third camp in four years you've picked with water at forty paces."
+   128	
+   129	There was a pause of the particular quality that arrives when a very quiet man reveals that he has been counting.
+   130	
+   131	"Forty is far enough that nothing camps between you and it," Seln said, "and near enough that you can go twice." A beat. "You have been checking."
+   132	
+   133	"I check," Brom agreed.
+   134	
+   135	Cael entered both halves of that exchange in the notebook later and marked it as the evening's true business: not the fire, and not the wood, but the fact that in four years the delegation's quietest man and its most secret one had been silently auditing each other's fieldcraft, and had both been passing.
+   136	
+   137	Cael's log, by the fire:
+   138	
+   139	*Five of us. No desks.*
+   140	
+   141	*He was at the crossroads before us with a fire already built, which is the closest thing to a confession of relief this man will ever make, and I have decided to receive it as one, because I have read him for four years and I know what his tells cost and this one cost him a night's sleep and a fire's worth of gathered wood and the admission — to himself, never aloud — that he wanted us warm.*
+   142	
+   143	*Four files closed complete at a counter, and one man who filed nothing, and squared his keys, and walked east in the dark, and stopped once to look back and didn't know how. The office found the empty desk this morning and started, a day late, to wonder what he kept. Let them wonder. It's four days east of anywhere they can execute a wondering, and the case is under the same canvas as Karis's boxes, and tomorrow we cross the last thing the registry drew on a map.*
+   144	
+   145	*The window I could never read is closed. Turns out there was a man in it the whole time, building fires.*
+   146	
+   147	Then he walked out to the load-line of the cart, where the two of them had ended up stacked together against the night's cold at the edge of the firelight: Seln's case and Karis's three boxes, under the same canvas, roped to the same rail. Two hundred years of the machine's own maintenance record, and four years of the best documentary architecture on the continent — the operative's archive and the researcher's — riding out of the registry's world on one axle. Neither of them able to be filed. Neither of them meant to be. He put his hand flat on the canvas to check the ropes, which did not need checking, and left it there a moment, and went back to the fire. Both of them simply carried now, east, past the reach of every office that would have wanted them both.
+

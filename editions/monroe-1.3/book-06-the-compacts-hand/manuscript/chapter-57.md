@@ -44,7 +44,7 @@ The registrar did what a registrar does.
 
 A man on the house's strength had not come to his work. He was not an enrollee, whose leaving had a form, and he was not faculty, whose leaving had a council. He had been placed with the wing two years ago by a district office's letter, as teaching assistants were, and it was to that office that the house now owed a question. Bracken wrote it before noon, in his upright hand, with one pair of glasses on, and he put no adjective in it, for he had none he could prove. It went down the hill in the First-day bag.
 
-[[TIER-B: the personnel query — coordinator to supply protected text]]
+*Teaching assistant, Bronze grade, fifteen years' service, absent without notice from first bell of the First-day. Residence room found vacated; no personal effects; bed made. All working files completed and cross-indexed to date. Inner-door key, records-press key, post-room key and wing side-door key surrendered on the copying-table blotter. Floor schedule posted one week forward. No note left, no leave applied for, no address of forwarding held by this house. The house records no disciplinary matter, no irregularity of any kind in the two years of this posting, and no view as to cause. Query submitted to the placing district office per code; direction requested.*
 
 It was a single leaf, and it asked where a man was. Leaves of that kind go into a tray, and somebody takes them out in their turn, and looks up the name.
 

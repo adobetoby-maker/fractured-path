@@ -198,19 +198,13 @@ It was a Sixth-day. That was what the hill would have called it. But the hill's 
 
 Then he wrote the inventory, since a camp made out of nothing was as good a place as any to count what he carried.
 
-*What I carry: nine confirmed.*
+*Nine confirmed fragments.*
 
-*Wind-adjacent — Lira, the burst. Pressure-adjacent — the Bronze from Ardenmere, the push. Iron-adjacent — Brom, the read. Compression-adjacent — Reydan, the give; a cup, and not for edges. Ember-adjacent — Karis, the spark. Shadow-adjacent — the stair; sealed, on his terms; rent from waking. Storm-adjacent — Daeva, the lane; ten counts after, a bill and not a flag.*
+*Wind-adjacent — Lira. Pressure-adjacent — Feryn. Iron-adjacent — Brom. Compression-adjacent — Reydan. Ember-adjacent — Karis. Shadow-adjacent — source protected, sealed still, the logic updated and the discipline held: a defector's tradecraft in my hands would confirm the surveillance-era acquisition, so the seal stays, and Seln knows now that it does, and knows why, which changes nothing about the seal and everything about the debt. Storm-adjacent — Daeva. Anchor-adjacent — unnamed; the hand with no face; the piece of the machine itself. Blade-adjacent — Ephram; the only "non-hostile" in the log; taken in earnest from a friend who asked to be shown straight.*
 
-He came to the eighth and wrote its first word. Then he lifted the pen and moved it along the line, and set it down again further on.
+*Nine fragments. Each with a name beside it, one of them protected and one of them missing — and the missing line I have left blank on purpose, because the blank is the truest thing the entry says.*
 
-*Anchor-adjacent —            ; the hand with no face. Idle by naming. Asked nothing at the Line.*
-
-*Blade-adjacent — Ephram. Idle by naming. Agreed with, once, on a scree.*
-
-*Spent since the Line: nothing. Not one of the nine.*
-
-*Under all nine, the still place I don't count.*
+*One anomaly. Session nine. Tide-adjacent. Turned over once, per the custom at intervals that matter — checked against the cache, checked against everything the cache explained, and touching none of it. Still open. Still real. Patience.*
 
 He looked at the list.
 
@@ -226,7 +220,7 @@ It did not say whose the quiet thing had been. It never had. *The stair*, it sai
 
 And it did not say what was in the satchel. It said nothing about a case, or forty pairs of leaves, or a paragraph two hundred years old about a function that was to be maintained. He had written once, on the night it was opened, that it did not go into a book. Six people in the world knew it, and five of them were on this shelf, and he did not think the number would ever be seven by any act of his.
 
-That left the last thing, which was not a line, and had a procedure.
+The anomaly entry had a procedure behind it.
 
 It had been a long procedure, once. He had sat with the old volume for an hour at a time, and tested, and compared each new arrival against it, at Greyvane and at Halcenvane and on a night of frost with Karis's gloves on the table. It took him less time now, for he had done it often, and it always came out the same.
 
@@ -240,9 +234,7 @@ Then he shut his eyes and looked for the place.
 
 It was where it had always been. It lay under the nine, lower than any of them, and it did not pull, and it did not ask. Nothing in him had ever shifted to make room for it, for it had been there before there was anything to shift. He did not touch it. He only found that it was there, as a man feels in the dark for the wall beside his bed, and it was the same as it had been the last time.
 
-He opened his eyes and wrote the three words under the inventory. He had written them before, on a sill, on a birthday.
-
-*Still open. Still real. Patience.*
+He opened his eyes. The three words stood under the inventory, as they had stood before, on a sill, on a birthday.
 
 ---
 
@@ -258,7 +250,7 @@ Then he turned back.
 
 He turned a long way back, past a ruling and a road cut and a birthday, to the front of the book, and found the leaf by its date, the night of the eighth day. He had written an entry there in the small hours, after a records hall with the lamps lit in pairs. It was in his best hand. He had been very sure.
 
-*I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.*
+*I can work within the system. I have the receipts: a hearing, a provision, two renewals on paper, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.*
 
 He read it through. He had expected to wince, and he did not.
 
@@ -342,7 +334,7 @@ He had written it all down. It was on the leaf, in order, with a gap in it the w
 
 He said it aloud. He had never once done that with an inventory.
 
-[[TIER-B: the closing exchange, first line (Cael: "I have nine things that aren't a Path…") — coordinator to supply protected text]]
+"I have nine things that aren't a Path," Cael said, eventually, to nobody in particular, "no tier, no rank, no enrollment, no protection — and four people who signed out of the world that was supposed to provide them, and one of the nine taken from a hand the world sent to hold me, and one taken in earnest from a friend, and the machine's own maintenance records in a case under that canvas, which we can't file and can't publish and are carrying east anyway because the truth is worth carrying even when it can't be spent."
 
 Nobody answered at once. The resin spat.
 
@@ -354,9 +346,11 @@ He said it feelingly, having carried a box up a ridge that morning.
 
 Cael looked at the two of them, and at a researcher with her pale fingers round a tin cup, and at a mild man in a dark coat who had sat at the edge of other people's tables for fifteen years.
 
-"Noted," he said.
+Karis wrote one word in the field archive.
 
-He did not write it down. The book stayed shut. He put it into the satchel, in the pocket Hesk had cut for it from memory, and did up the buckle.
+"Noted."
+
+Cael did not write it down. His book stayed shut. He put it into the satchel, in the pocket Hesk had cut for it from memory, and did up the buckle.
 
 The fire burned. Below the shelf a valley lay in the dark, with water going through it, and nobody had ever told him what it was called; beyond it there were seven ridges that he had counted, and more that he had not. Brom went back to the lip and sat down facing outward. After a little while Seln lay down under the pine, on his side, with the satchel under his head, and shut his eyes as a man does who has decided to trust a table.
 
@@ -368,4 +362,4 @@ He listened for it now, on a shelf of rock, as he had listened at a ring of chur
 
 There was the fire, and the water. Four people were breathing.
 
-He had not been without that column since his Kindling. There was nothing left anywhere that was deciding what he was. There was only him.
+And for the first time since his Kindling, nothing anywhere was deciding what he was, except him.
