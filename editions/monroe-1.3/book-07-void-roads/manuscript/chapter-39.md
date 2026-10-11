@@ -28,9 +28,11 @@ It was fierce, and it was not unkind, and he could not have said which of the tw
 
 "She's set two things on it. I'm to use it on myself before I use it on anybody. And whatever I find, she is the one I tell, on a day that she names." He looked round the four of them. "So if there's anything to find, it's hers before it's yours. I'm saying so now, in order that nobody should think later that I kept a thing back without leave. It's part of what's owed."
 
-"Then it's hers," said Lira, and that was the whole of the discussion.
+"Then it's hers," said Lira.
 
-"What does it do?" said Brom. "The new one. You've not said."
+Karis made one short mark in her notebook. Brom had been waiting his turn, with his eyes on his boots, and he raised them now.
+
+"What does it do?" he said. "The new one. You've not said."
 
 "Nothing that you'd see. It's contact, and self; it stops at the length of my arm. It won't turn a blow or light a wick. It's of no use in a fight, and of no use to anybody but me."
 

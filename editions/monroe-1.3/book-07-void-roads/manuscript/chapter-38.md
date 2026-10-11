@@ -10,8 +10,6 @@ Her hands lay where they had lain for twenty minutes, the left under his neck an
 
 "Did it hurt? When it went out."
 
-It was the first thing that she had said, and it was a healer's question.
-
 "No. It was like a wick being pinched."
 
 He gave her the rest as the five of them had settled it in a reading room above Ostrand, a piece at a time, with nothing in it that Karis could not have sworn to. He had never said it to anybody lying down. It was easier than he had feared and a good deal worse than he had hoped, since her palm rose and fell with his breath and she could feel every place where he wished to hurry.
@@ -140,7 +138,7 @@ He got down off the table. She came back to it and stood opposite him with her a
 
 "Then it didn't touch my hands, and it's still what you did."
 
-She tapped the cover of the book with one thick finger.
+She had brought Hesk's book with her from the sill, and she tapped its cover with one thick finger.
 
 "There's a line in there about what it's to cost you. Whatever I like, you've written, down to my walking north without you on the road. I've been paid in a good many ways out here. I've had a coat, and a cold fowl, and a shoe on the mule. I never yet had a patient hand me his own fine, ready counted, before I'd said what was owing."
 
@@ -178,11 +176,15 @@ She pulled the stool to her with her foot, and still did not sit.
 
 "I'm not asking you for a promise. I've seen what you do with what you want. I'm telling you what's owed, and I'll say when."
 
+"Then it's owed, and I've heard you say so."
+
 "Good." Oryn gave him the book. "Now lie down again. Not for me. You're the colour of the wall and you've been standing on that calf for a quarter of an hour, and I've just been told I'm a patient's source, and I'd like a minute to sit with the second thing before I go and eat."
 
 He lay down. She put the horn cup into his hand, with water in it, and waited until he had drunk. Then she took Hesk's book back and sat down on the three-legged stool herself, for the first time since he had come into that room, with the book on her knee.
 
-"Leave that with me. Get your shirt, and go and eat something, and send nobody in."
+She had her minute. He gave it to her with his eyes on the rafters, and nothing in that room moved but the light on the sill.
+
+"Leave this with me," she said at the end of it. "Get your shirt when the floor's steady under you, and go and eat something, and send nobody in."
 
 ---
 

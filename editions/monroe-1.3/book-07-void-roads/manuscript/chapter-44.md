@@ -102,15 +102,17 @@ Brom let his breath go, heavily.
 
 The healer had got to her feet. She had sat through the whole of it on the edge of a sack, with her hands on her knees, and Cael could not have said what she made of a calfskin with rings on it.
 
+"There will be another edge," said Karis, to her. "I had a healer's count at the first. I should like one at the next."
+
 "North in the morning," Oryn said. It was not an answer to Karis; it was a fact about a route. "Oxhollow's seventeen days late and the old woman's knee doesn't care what's under a floor. I'll be on the road at first light and I'll be three days north by the time you're back at the board." She looked at him. "Thornwater's on my route. You know where that is now."
 
-She looked along the five of them, and her eyes stopped at the sling.
+Then her eyes went along the other four, and stopped at the sling.
 
 "Don't go in without me. Not because I'm any use inside. Because somebody should be outside the line who can put an arm back on."
 
-"How would we find you?" said Lira.
+"And if it's sooner than Thornwater?" said Lira.
 
-"As anybody finds a healer. You ask a carter which gate she's late at."
+"Then you'll find me as anybody finds a healer. You ask a carter which gate she's late at."
 
 Brom had the ladder down. She went to the head of it, where Seln had stood all evening with his back to the yard, and she put her hand on his shoulder.
 
@@ -242,7 +244,7 @@ She would need it tomorrow night. There was a jenny at the next gate that was th
 
 She did her sum as she climbed. She did it every morning, as another person might say her name over.
 
-Out of that gate on the hundred and eleventh, when she had said the ninety-fifth: sixteen. Two days of road to the next. Two gates after it. Then the ford with the oxen, where they had last seen her on the eighty-fourth and had looked for her on the hundred and fourth; she would come down to it on the hundred and twenty-first, if nothing broke, and that was seventeen.
+Out of that gate on the hundred and eleventh, when she had said the ninety-fifth: sixteen. Two days of road to the next. Two gates after it, and an old woman on the way whose knee had never once kept to a healer's days; that was where the odd one would go. Then the ford with the oxen, where they had last seen her on the eighty-fourth and had looked for her on the hundred and fourth. She would come down to it on the hundred and twenty-first, if nothing broke, and that was seventeen.
 
 Beyond the ford there was the gate that had given her the coat. Beyond that one there was the child.
 

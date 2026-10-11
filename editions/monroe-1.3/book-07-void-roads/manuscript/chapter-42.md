@@ -36,7 +36,7 @@ She said it without any change of voice, as she might have read out the width of
 
 "I was frightened at the stone, on the night that I ruled them, and I entered that I was. I have had eleven days to find out why." She put the pen down. "I sat at lectures on what an Arbiter is, and I copied a good many pages in a room where they counted the pages before I left. On one point every page agrees. It is a person's own. It wakes for one person, on one morning, and names one gift; mine is not Lira's, and Brom's is no kin to a healer's, and not one of them has anything to do with another."
 
-The barn had gone very quiet. Down in the straw a hen was scratching, and that was the only sound in it.
+The barn had gone very quiet, and the only sound in it was a hen scratching down in the straw.
 
 "A personal spiritual entity should not fail the way five looms fail when somebody shuts the sluice on the wheel that drives them."
 
@@ -44,7 +44,7 @@ It lay on the cold air among the sacks.
 
 "They all stop on the one thread," said Brom slowly. He had grown up within hearing of a mill, on a stream that ran through his father's ground. "I've stood in the shed and seen it."
 
-"I am not filing that," said Karis. "It has a likeness in it, and I have struck better sentences than that out of other people's notes for less. I have said it once, in a barn, to four people, and it does not go into the box."
+"I am not filing that," said Karis. "It has a likeness in it. I have said it once, in a barn, to four people, and it does not go into the box."
 
 Seln had stood at the trestle's end through the whole of the reading, with his hands behind him.
 
@@ -224,7 +224,7 @@ She drew the nearest of the long strips across the trestle's end, and put her fi
 
 "The second is the join. A wall is stones laid on stones, with a bed between them." She turned the honey-coloured chip on its side, and a thread of pale mortar ran along one edge of it. "He wrote two words in my table on that floor, under *level*, and I asked him whether he was sure: *no seam*, in the floor, or where the stones stand up out of it. Two of us looked."
 
-Cael kept his eyes on the board. He had looked with more than his eyes, and she did not yet know it.
+Cael kept his eyes on the board; he had looked with more than his eyes, and she did not yet know it.
 
 "The third is the edge. A dressed stone is squared to sit on its neighbour, with a face and a bed and an arris between." She set the district hall's chip upright, on a side that was as true as a book's. "I went round every one of those eleven on my knees, and not one has a laid edge. They are not set on that floor. They come up out of it."
 

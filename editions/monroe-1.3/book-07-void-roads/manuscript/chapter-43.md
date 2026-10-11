@@ -12,7 +12,7 @@ Karis had the leaf ready, and she read it standing, as a one-armed man read a li
 
 "One. A bar of iron of the registry's pattern, bearing its stamp and the number thirty-one, stands on the edge of the Quieting at the Fallow Ring, a boot's width from the place where I found that edge with my feet. Two. By its rust, and by the turf grown against it, it has stood there about five years. Three. It was driven at the far end of a measure, so that whoever drove it had found the same circle that I paced, and had a cord or a chain to find it with. Four. I do not know what the number counts, or what was written down afterward, or where it is kept."
 
-She lowered the leaf. It was the shortest thing that she had read out in six days, and she had plainly cut it down from something a good deal longer; there was not an *as though* in it, or a *we suppose*, and every noun in the four sentences was a thing that somebody in that barn had stood over.
+She lowered the leaf, which was the shortest thing that she had read out in six days; she had plainly cut it down from something a good deal longer.
 
 "Is it wrong?"
 
@@ -22,13 +22,13 @@ She altered it, in ink, and initialled the alteration.
 
 "And the maps?" said Lira. "He counted eight sheets with holes in them. That's not in your four."
 
-"It is not in the four because nobody in this barn has seen it but one person, once, as a boy, when he was counting corners. I have his memory entered where he gave it, on the leaf of the ninety-seventh, with *entered as said* beneath." Karis touched the roll of thin paper that had the ring of charcoal on it. "That ring lies on mine. It is the best thing that I have to hang a guess on, and I am not promoting a guess to a finding because I should like it to be one."
+"It is not in the four because nobody in this barn has seen it but one person, once, as a boy, when he was counting corners. I have his memory entered where he gave it, on the leaf of the ninety-seventh, with *entered as said* beneath." Karis touched the roll of thin paper that had the ring of charcoal on it. "That ring lies on mine. It is the best thing that I have to hang a guess on, and a guess is what it stays."
 
 Cael stood by the shutter with a slip of bark in his fingers and listened to four sentences.
 
-He had been ruling a line through that iron since a wash on the road east. There had been a query sent down to a registry, asking which way certain people had gone; and a paper under a broker's seal, with a sum written twice; and a stake. At a bar of iron eleven days ago he had seen for the first time which way along that line he was looking. He had expected to find the whole of it on her leaf. It was not there. There was a stamp, and a number, and a length of time, and a measure; and under those she had written, plainly, the three things that she did not know.
+He had been ruling a line through that iron since a wash on the road east. There had been a query sent down to a registry, asking which way certain people had gone; and a paper under a broker's seal, with a sum written twice; and a stake. At a bar of iron eleven days ago he had seen for the first time which way along that line he was looking. He had expected to find the whole of it on her leaf, and it was not there: there was a stamp, and a number, and a length of time, and a measure; and under those she had written, plainly, the three things that she did not know.
 
-It was a smaller leaf than the one in his head, and he saw that it was the better one, since everything on it would still be true if every guess of his turned out to be wrong.
+It was a smaller leaf than the one in his head, and he saw that it was the better one.
 
 "Thirty-one," said Lira. She had been turning it over. "If there's a thirty-one, there's a thirty. And like as not a thirty-two."
 
@@ -58,13 +58,13 @@ She would not call the fifth a finding at all.
 
 It was the evening of the hundred and ninth day, with the light gone from the shutter and the hold's lantern standing on the trestle among the chips. She had asked the four of them to stay down after the day's slips were counted; and when they had settled, on kegs and sacks and the foot of the ladder, she let a good while go by before she spoke. She had three leaves laid side by side on the scrubbed board, and a fourth beside them, which was the rubbing of the founding stone.
 
-"I have four things in the box," she said at last. "A name. Five rows that are one row. A floor that is older than my oldest stone. A bar of iron. Each of them is a thing that was seen, by more than one of us, and I should swear to any of them in front of a seat."
+"I have four things in the box," she said at last. "A name. Five rows that are one row. A floor that is older than my oldest stone. A bar of iron. I should swear to any of them in front of a seat."
 
 "And the fifth?" said Brom.
 
 "There is no fifth. That is what I kept you for." She did not sit down. "I have been laying leaves side by side since before it was light on the morning that I gave you the name, and I have known since then what they say when they lie so."
 
-Her voice had come back, all but a roughness on the long words. It was low, and quite steady, and Cael had heard it shake more over an apple.
+Her voice had come back, all but a roughness on the long words; it was low, and quite steady, and Cael had heard it shake more over an apple.
 
 "I have a hypothesis and I'm not entering it, because entering it would make it a finding, and it isn't one. It's a fear."
 
@@ -72,7 +72,7 @@ The lantern ticked; and Brom, who had turned his head toward Cael, turned it bac
 
 "Is it a bad one?" he said.
 
-"I am not saying what it is. If I say it to four people in a barn, I have entered it; you would each of you carry it out of that door, and it would be in five heads instead of one. I have kept sentences out of that box for having a likeness in them. This has a good deal worse in it than a likeness."
+"I am not saying what it is. If I say it to four people in a barn, I have entered it; you would each of you carry it out of that door, and it would be in five heads instead of one."
 
 Lira was sitting on the keg, with her sling, and her flat foot stretched out to the lantern, and she had been watching Karis's face and not the leaves.
 
@@ -81,12 +81,6 @@ Lira was sitting on the keg, with her sling, and her flat foot stretched out to 
 "No," Karis said. "It's just correct."
 
 It was said without any bitterness, as she might have told them that a figure had to be carried to the next column whether anybody liked the look of it there or not. She gathered the three leaves, one upon another, with the rubbing on top, and put them into the box, and let the lid down.
-
-Cael had put no question to her in four days. He had seen a pen held over a clean page at first light, four days ago, from the fourth rung of a ladder, and a leaf put away with nothing on it; and he had understood then that there was a thing which she would sooner sit up with than hand to him.
-
-He had one of his own, which had come to him at a camp by a stone, with an arm two hours old lying beside him, and he had written in Hesk's book that he would not invent a word for it. He had not gone back to that sentence since. He had only added to what stood under it: a tenth thing, and a place in the middle of himself that he was not yet free to speak of.
-
-So there were two people in that barn who had each got a sentence that they would not write. He did not suppose that the two sentences were the same, though he was fairly sure that they were about the same thing.
 
 The others went up; and Brom took the lantern's fellow from its nail and lit Lira up the ladder ahead of him, a rung at a time, with his big hand held ready under her heel and never touching it. He had been told what that arm might not do, and had decided for himself what the rest of her was likely to want. Seln went last and made no sound.
 
@@ -100,7 +94,7 @@ She did not take the leaves out again, since she had them by heart.
 
 He heard them laid down, one after another, like three stones on a board.
 
-He had had the same three in a row since a far lip, and had looked at them on a good many nights, and he had never heard them said. It was a different thing to hear them in that small exact voice, in a cold barn that smelled of hens, from the one person he knew who had never in her life written down a thing that she had not counted.
+He had had the same three in a row since a far lip, and had looked at them on a good many nights, and he had never heard them said. It was a different thing to hear them in that small exact voice, in a cold barn that smelled of hens.
 
 "You're entering them together," he said. "Side by side. That's most of the way to a verb."
 
@@ -110,15 +104,11 @@ She turned round then, and met his eye.
 
 "You have been a sentence in somebody's box since you were fourteen. There is a word on a file in the west that was put there by a form, since the form could not be filled in, and you have had to walk about under it. I have watched what that cost." Her hand lay on the lid. "There is nothing in this box about you that you have not been told to your face, and there is not going to be. That is all that I kept you for."
 
-He could not answer her at once.
+He could not answer her at once. He had come down a ladder at first light, four mornings ago, and seen a leaf go into that box with nothing on it; he had turned slips for her every day since, and had kept his mouth shut.
 
-"I've one too," he said. "A thing I'm not writing."
+"I'll not ask you what the fear is," he said.
 
-"I had supposed so. I shan't ask what it is."
-
-"I shan't ask for yours."
-
-"No," said Karis. "I'd noticed that. It is the kindest thing that anybody has done for me since I crossed the Line, and I have entered it."
+"No. You have not, in four days, and I had noticed." She took her hand from the lid. "It is the kindest thing that anybody has done for me since I crossed the Line, and I have entered it."
 
 ---
 
@@ -160,11 +150,7 @@ She did not put a hand on him; she looked at his left leg, where a seam lay unde
 
 "You I can tell nothing. You'd know before I would." She rubbed her palms together. "That's sixteen out of this gate. A round never gives a day back; it takes one."
 
-He had the sum before she had finished it: the eighty-fourth day at a ford, and twenty days of a round, and seventeen on top.
-
-"That's the hundred and twenty-first."
-
-"If nothing breaks," said Oryn.
+He had that sum by heart, from the ninety-fifth day to the morning after a fortnight. Sixteen and one made seventeen, somewhere on a road that he had never seen; and she did not say where the one would fall.
 
 ---
 
@@ -200,7 +186,7 @@ Brom's mouth came open.
 
 He shut his mouth, since it was the second time in ten days that he had been told that he was not the one who set a price.
 
-She went to the animal herself. The small brown mule was standing at the trough with her ears forward, and the healer laid a hand flat on her neck, under the mane, and stood so for as long as it takes to count ten. Cael could not tell whether she was reading the beast or taking leave of her, and he thought it likely that for that woman the two had never been different acts. Then she took the hand away and spoke to Brom over the brown back, without turning her head.
+She went to the animal herself, where the small brown mule stood at the trough with her ears forward, and laid a hand flat on her neck, under the mane, and stood so for as long as it takes to count ten. Cael could not tell whether she was reading the beast or taking leave of her, and he thought it likely that for that woman the two had never been different acts. Then she took the hand away and spoke to Brom over the brown back, without turning her head.
 
 "She goes on the low side of nothing. You go on the low side of her. She'll not cross moving water with anybody on her near hand, and it's no use arguing; she was like that when I got her. Her near hind's been shod since the Oxhollow road, and it'll want looking at by the thaw. She answers to a click." She showed him, with her tongue. "She's never had a name, and she's not to be given one. It's a beast. You name a thing and then you're sorry for it."
 
@@ -282,7 +268,7 @@ She was alone on the walk, and that was new. The lean man had gone down to his s
 
 "He said to keep it till he'd eaten," she said. She kept her eyes on the valley. "He said that nothing's come up to that stone since our ford. Fifty-seven evenings. He's stood here for every one."
 
-Cael sat down against the other post. The planks were cold, and the hold was at its board; they could hear the spoons.
+Cael sat down against the other post, on planks as cold as the well's rim; the hold was at its board, and they could hear the spoons.
 
 "It's later," he said.
 

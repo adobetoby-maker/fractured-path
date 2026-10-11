@@ -70,7 +70,7 @@ Karis had opened her notebook against the purse.
 
 Brom came round the end of the long house in the middle of the forenoon with a basket on his arm, and a man came with him, talking.
 
-Cael had seen the man before without knowing whose he was. He was small and spare, a head shorter than the steading's woman, with a bald brown crown and flour to both elbows; and in all his days at that hold Cael had never heard him say a word, since he had never been near enough to the hearth. Thornwater, it appeared, kept its talk in one place. The woman at the gate counted people with her lips and spent a word on every six of them, and the man on the platform had said perhaps forty in a hundred days; and here was the hold's whole share of speech, walking beside Brom with a wooden spoon in his belt and getting through it at a great rate.
+Cael had seen the man before without knowing whose he was. He was small and spare, a head shorter than the steading's woman, with a bald brown crown and flour to both elbows; and in all his days at that hold Cael had never heard him say a word, since he had never been near enough to the hearth. Thornwater, it appeared, kept its talk in one place. The woman at the gate counted people with her lips and spent a word on every six of them, and the man on the platform had said perhaps forty in a hundred days. Here was the hold's whole share of speech, walking beside Brom with a wooden spoon in his belt and getting through it at a great rate.
 
 "—and that one you'll not thank me for today, nor this month. It's a keeper. It wants the cold on it. You bring that one out when the snow's going and everything else on the shelf is pig-meat, and you put it in a pot with a bit of honey, and then you come and tell me. Whereas this—"
 
@@ -194,8 +194,6 @@ It was only a number. He had been given a great many, by a great many people, an
 
 The healer said nothing at all. She raised her cup an inch from the board, and set it down, and went on eating.
 
----
-
 "Write it," said Lira.
 
 "Now?"
@@ -218,43 +216,45 @@ She said it to her bowl. He could not tell what was in it. She had told a camp a
 
 "Good. Write it down before it changes."
 
-It was then that somebody knocked the frost off his boots at the door.
+Outside the door somebody was knocking the frost off his boots.
 
-It was the carter, a short thick man with twenty-two years on one road, who had driven a light cart up a frozen valley since first light; his eyebrows were white with it. He had a keg under one arm, and when he took his hat off there was a scrap of bark in the crown of it.
+---
 
-"From the one-armed man, same as before. You're to read it, and if it's wrong you say so when you're down." He looked along the six of them and gave it to Cael, as he had given the last. "He's said it under his eave once already, before and after, with the meadow standing. And the broker's clerk had his own off the plank and away down to the landing while the ink was wet. There's a boat goes west today."
+*The instruments will not see its like.*
 
-Cael turned the bark to the fire, and it was Pike's square black hand.
+It was a line in a square hand, on a small leaf, and Cael had not thought of it since he crossed the Line. It came into his head whole, at a board in a grain hold with a goat's bones on it; and it took him a breath to learn what had fetched it. Brom was reading aloud, and he had just said *instruments*.
+
+The carter stood inside the door with his hat in his hands. He was a short thick man with twenty-two years on one road, and he had driven a light cart up a frozen valley since first light; his eyebrows were white with it. He had held a scrap of bark out across the board, and Cael had had a book in one hand and a pencil in the other. So it was Brom who had taken it and turned it to the fire, and who was giving it to the table now in his slow voice, a stop at a time, as he had once read out the tags on a researcher's bundles.
+
+"From the one-armed man, same as before," the carter had said. "You're to read it, and if it's wrong you say so when you're down."
 
 *Recovery, Fallow road, broker's posting. Taken. Witnessed. Completed: incomplete — instruments not recovered — crew returned. Six went in. Six came out. No price paid.*
 
-He read it aloud, and then he went through it again by himself, a word at a time, since that was what he had been sent it for.
+Brom came to the end of it, and looked up.
 
-*Instruments not recovered.*
+The other line was a long way west of that hearth, on the far side of the Line, in a registrar's daybook, entered with a withdrawal. It had never been in the satchel. A magister had written it on the last day that Cael stood at that counter, and had asked that he should read it there; and he had carried it off by heart, since that was the only way in which he was let to carry it.
 
-He knew another line with that word in it, and it was not in the satchel; it was a long way west of this hearth, on the far side of the Line, in a registrar's daybook, entered with a withdrawal. A magister with a hand like a ruled table had written it on the last day that Cael stood at that counter, and had asked that he should read it there. He had it by heart. *The instruments will not see its like.*
+Gault had signed a figure for him every week for two years, to the decimal, and had ended by writing that no instrument would have such a thing to measure again. Pike had one arm and a horn ink-pot, and had never owned an instrument in his life. Somebody had told him that some were lying at a place, and that a crew had gone to look; and he had put down that they were not there, and that the crew was. Cael thought that he would have liked to see the two men at one table.
 
-Gault had signed a figure for him every week for two years, to the decimal. He had ended by writing that no instrument would have such a thing to measure again. And here was a man with one arm and a horn ink-pot, who had never owned an instrument in his life, and who had written down in six words what six people did. There had been nothing at that place to recover. He had put that down too.
-
-"Is it wrong?" said the carter.
-
-"No. It isn't wrong anywhere."
-
-"Then I'll tell him so." He put his hat on. "I've been three days on that road, light, and I've a mule to see to."
-
-The door shut behind him. He had brought a keg of salt up that valley, and a piece of bark, and nothing else; Cael had looked at his hands, and at the floor of the porch beyond him, before he could prevent himself. No boat had come in from the west since the ninety-first day. He knew that as well as anyone. Three people at that board had seen where his eyes went, and each of them found something to do with a spoon.
-
-"Six went in. Six came out," said Seln. He had the bark now, and held it to the light as he held all paper. "He's counted her."
+"Six went in. Six came out," said Seln. He had reached across for the bark, and he held it to the light as he held all paper. "He's counted her."
 
 Oryn was breaking bread.
 
 "So has the broker," Seln said.
 
-She finished with the bread before she looked up. Her eyes went to the bark, and then to the book that lay open by Cael's bowl with its pencil not yet dry, and they were as tired and as level as he had ever seen them.
+"He has that," said the carter. "The one-armed man said it under his eave, before and after, with the meadow standing; and the broker's clerk had his own off the plank and away down to the landing while the ink was wet. There's a boat goes west today." He turned his hat round. "Is it wrong, then? I'm to carry the answer."
+
+"No," said Cael. "It isn't wrong anywhere."
+
+"Then I'll tell him so. I've been three days on that road, light, and I've a mule to see to."
+
+The door shut behind him.
+
+The healer finished with her bread before she looked up. Her eyes went to the bark in Seln's fingers, and then to the book that lay open by Cael's bowl with its pencil not yet dry, and they were as tired and as level as he had ever seen them.
 
 "It's changed, then. I said that it would." She held out her hand. "Pass that."
 
-He passed her the bark, and she read it for herself, once, and gave it to Karis. He had written a healer down as a stop, in pencil, a minute before a one-armed man's line came in at the door to say that the country had already entered her otherwise; and a clerk's fair copy of that same count was in a boat by now, going west to whoever had put the question.
+Seln passed it, and she read it for herself, once, and gave it on to Karis. Cael had written a healer down as a stop, in pencil, a minute before a one-armed man's line came in at the door to say that the country had already entered her otherwise. A clerk's fair copy of that same count was in a boat by now, going west to whoever had put the question.
 
 ---
 
@@ -294,7 +294,7 @@ He said it without any triumph, as a thing that he had found out for himself in 
 
 "He's right," said the steading's woman. "He's right about nothing else under this roof. He's right about apples."
 
-Karis sat with a wrinkled apple in her hand. Cael had seen that face on her over a column that would not come out, and he knew what was going on behind it: she was not hunting for a way round the man, since she had none and knew it, and she was going back along her own reasoning to find the place where it had first gone wrong. Then she drew her notebook toward her, and wrote, and turned it round for the board to see.
+Karis sat with a wrinkled apple in her hand. Cael had seen that face on her over a column that would not come out. She was not hunting for a way round the man; she was going back along her own reasoning to find the place where it had first gone wrong. Then she drew her notebook toward her, and wrote, and turned it round for the board to see.
 
 *Three. I said two. I was looking at one basket.*
 
@@ -306,6 +306,12 @@ Karis sat with a wrinkled apple in her hand. Cael had seen that face on her over
 
 She finished it, bite by bite, in the firelight, with the whole of Thornwater looking on, while Lira wept with laughing and Brom ate apples. The small man stood over her like a physician until the core was bare. And Cael saw the healer's mouth go down at one corner, which was not a smile, and which was nearer to one than anything he had seen there in two days.
 
+The steading's woman cleared the board herself. She took six bowls on one arm, and left what was not hers to clear: a basket with three brown apples in it, and a book, and a scrap of bark. Cael drew Hesk's satchel up from under the bench to put the bark away with Pike's other lines.
+
+That satchel had been a parcel once. It had come to him in oilcloth on the last of these days, tied with a knot that undid at one pull for anybody who knew the end of it; and a leaf from an order-pad lay under its flap still, folded small. He knew before he looked that there was nothing beside the leaf tonight. No boat had come in from the west since the ninety-first day, and a carter cannot bring up a valley what a ferry has not landed.
+
+He laid the bark in and buckled the flap. Nobody at that board had spoken the old man's name all evening, and he did not speak it now.
+
 Seln spoke to him at the door, when the hold was banking its fire and the others had gone out into the frost.
 
 "I have had the day in my head since the shelf. I had it the last time, also. I stood in a corridor on that occasion and told you about a board." He had his hands behind him. "I thought that I should like to learn whether I could say the thing itself. Many happy returns."
@@ -316,17 +322,13 @@ Seln spoke to him at the door, when the hold was banking its fire and the others
 
 ---
 
-He did it that night, alone, as she had set it.
+It came home to his own two fingers, and he very nearly sat up.
 
-The others slept, and he had waited until Brom's breathing went over into the long pull that meant an ox could have walked across him, and until the lantern had been dark for an hour. Then he lay down on his back on the boards, between a wall of barley and the ladder's head, with his boots off.
+He had not been sure that anything would go. He had sent it out from the palm on his breastbone a breath before, as blindly as a person drops a stone into a well to hear how deep the water lies. It had gone the whole length of him, in fits, and turned; and here it was, arriving under the two fingers that he had laid on the inside of his right wrist. It set out again without being told.
 
-He did not know how it was done. He knew only how it had been done to him, and so he began there: he laid two fingers of his left hand on the inside of his right wrist, and put his right palm on his own breastbone, and breathed like a man asleep; and when he had the breath slow enough he counted.
+He knew nothing of how the thing was done except how it had been done to him, and so he had begun where she began, with two fingers and a palm, and the breath of a man asleep, and a count. At ten the short reading had given him the moving, as it had once given her that much at a ford. It was his own gait, quick and slow, and no more. The rest he had from the piece of her that sat under his breastbone, which had felt the way of it for twenty minutes on a plank and had kept it.
 
-At ten he had the moving, as she had had it with two fingers at a ford. It was his own gait, quick and slow, and it was all that the short reading gave him.
-
-So he went past it, as she had. He had felt the way of it for twenty minutes under her hands, and the piece of her that sat under his breastbone knew the rest. Something set out from his right palm toward his feet. It went the whole length of him, in fits, and turned, and came home to the two fingers on his wrist; and it set out again.
-
-The first thing that he learned was the last thing that she had told him. He went along the dry hiss in his feet until he had it clear, and then he looked for the place where it stopped and something else began; and there was none. It thinned, and the millstone was under it, and he could not have said where the one had left off. He tried it with the wick in his hand, and with the bellows, and with the low sea under everything. Each went on into the next as water goes into water.
+The first thing that he went looking for was the last thing that she had told him of. He went along the dry hiss in his feet until he had it clear, and then he looked for the place where it stopped and something else began; and there was none. It thinned, and the millstone was under it, and he could not have said where the one had left off. He tried it with the wick in his hand, and with the bellows, and with the low sea under everything. Each went on into the next as water goes into water.
 
 *No banks.* She had looked for twenty minutes. He looked for a good deal longer than that, lying in the dark with his neck loose, and he came to the same wall and stood at it.
 
@@ -336,7 +338,7 @@ Ten, then, and not a bank to any of them. He set that by, to be written first.
 
 It was on the next pass that he found the other.
 
-He had been going down the middle of himself, under the breastbone, where the ten lay closest. They drew together there; it was like the place in a hold's yard where every path crosses, and everything was nearer to everything else than it was anywhere in his arms or his feet. He went into that crowded place at his own uneven pace.
+He had been going down the middle of himself, under the breastbone, where the ten lay closest. They drew together there, as he had told a healer in a yard; it was like the place in a hold's yard where every path crosses. He went into that crowded place at his own uneven pace.
 
 And he went round.
 
@@ -357,6 +359,8 @@ He lay with two fingers on his wrist and counted what he could count. He knew wh
 That made three things, and he had no fourth.
 
 He took his hands away from himself, and the going-along came home and lay down. He did not go back for another look. It was a little while before he could have said why, and then he could: he had spent years asking that thing to show itself, and it had; and he had liked it a good deal better as a line on a leaf.
+
+He was alone with it, as she had set it. He had seen to that before he began. He had waited until Brom's breathing went over into the long pull that meant an ox could have walked across him, and until the lantern had been dark for an hour. Only then had he lain down on the boards with his boots off, between a wall of barley and the ladder's head. There were four people asleep within six feet of him. For that one night the thing was nobody's but his, and he would have given a good deal to hand it to any of them.
 
 He got up, and took Hesk's book to the loft door, and wrote there by the stars, with the frost coming in round his feet and the pencil cold between his fingers.
 
