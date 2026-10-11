@@ -1,0 +1,12 @@
+141c141
+< That was new as well. On a floor he had only ever had his own hurts to price, and he had grown so used to pricing them that he did it now without thinking, as a carter greases an axle. He could not do it for Lira's feet, or for Brom's hands. He watched Karis's small straight back beside the wheel, and he had no figure for it at all.
+---
+> On a floor he had only ever had his own hurts to price, and he had grown so used to pricing them that he did it now without thinking, as a carter greases an axle. He could not do it for Lira's feet, or for Brom's hands. He watched Karis's small straight back beside the wheel, and he had no figure for it at all.
+171c171
+< Lira had come to sit by him, with her arms round her knees. She had read it over his arm, as she always did, and she said nothing about it for some time.
+---
+> Lira had come to sit by him, with her arms round her knees. She had read it over his arm, as she always did, and she said nothing about it.
+265c265
+< "It rolls," she said, walking back up with her hands on her hips. "The spine's firm. You can run on the spine as if it were a road. But the last five yards are round stones lying on round stones, with the water through them, and the edges are worse. If I had to stop there in a hurry I'd want to do it short."
+---
+> "It rolls," she said, walking back up. "The spine's firm. You can run on the spine as if it were a road. But the last five yards are round stones lying on round stones, with the water through them, and the edges are worse. If I had to stop there in a hurry I'd want to do it short."

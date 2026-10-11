@@ -1,0 +1,31 @@
+PASS  protected-patterns.txt: 51 patterns, 22 occur in ch1-30, identical match counts before/after  []
+PASS  italic segments (logs/letters/slips/documents): 350 segments, multiset identical per chapter  []
+PASS  'Deployment since the Line' lines: 27 lines, identical in order
+PASS  dialogue: 33973 spoken words, word sequence identical per chapter  []
+      quote-mark count changed in chapters (merged speech where a hand beat was cut): [(2, 214, 212), (26, 182, 180)]
+PASS  BOOK_MAP §10: 287 quoted/italic units, 91 stand in ch1-30 at baseline, all stand unchanged after  []
+PASS  changed hunks: 133 token-level hunks; 1958 protected tokens in ch1-30; no hunk deletes, replaces or splits a protected run  []
+      number words/digits inside removed text (back-references cut with their callback; no primary statement changed):
+        ch5: removed ['forty', 'three'] inserted []  ::  'off, as they had kept forty yards behind three carts on a road.'
+        ch10: removed ['hundred'] inserted []  ::  'discharge, as she had felt it a hundred times across a harness room;'
+        ch15: removed ['second'] inserted []  ::  'reading a second time,'
+        ch15: removed ['ninth', 'forty', 'ninth'] inserted []  ::  'right, as he had gone along it on the ninth day and on the forty-ninth.\n\nThere'
+        ch15: removed ['fifty', 'ninth'] inserted []  ::  'lip, as they had on the fifty-ninth night.\n\nSeln'
+        ch15: removed ['three'] inserted []  ::  'it. Cael knew that face. He had seen it turned on a wagon in a wash with three wheels and '
+        ch16: removed ['first'] inserted []  ::  'there. He had kept a log through every term since his Kindling, and all of it had been cal'
+        ch16: removed ['ten'] inserted []  ::  'still for as long as it would have taken to count ten.'
+        ch17: removed ['one', 'three', 'hundred'] inserted []  ::  'went.\n\nHe turned that over while the last of the plates ran out below. He had been watchin'
+        ch18: removed ['two'] inserted []  ::  'else. But he understood, getting up, what she had asked of him at the slab two days before'
+        ch20: removed ['second'] inserted []  ::  'He counted the boxes a second time, since they had cost what they had cost.'
+        ch20: removed ['one', 'one'] inserted []  ::  'He had been a good many words in his time. He had been a flag on a board and a level on an'
+        ch21: removed ['seven'] inserted []  ::  'It had asked at every sill and coping since a river, and at seven narrowings, and here'
+        ch21: removed ['one'] inserted []  ::  'about."\n\nCael turned that over. He had counted a great many things in his life, strides an'
+        ch21: removed ['three'] inserted []  ::  'open. She looked as she had looked in a cart-yard, when a woman dropped three sentences in'
+        ch24: removed ['second'] inserted []  ::  'arm; and then he looked at all of it a second time, as he did.\n\n"You\'re'
+        ch24: removed ['two'] inserted []  ::  'with his two hands hanging open,'
+        ch24: removed ['three', 'one', 'two'] inserted []  ::  "cask.\n\nNone of them had been meant for the others' company. The woman with the barley had "
+        ch27: removed ['fifth', 'fifty', 'third'] inserted []  ::  'as it had come up beside a turf fire on the fifth day and at a ford on the fifty-third,'
+PASS  inserted text (192 words in 103 hunks): no season/month/weekday, no metric unit, no 'his Path'  []
+      capitalised words in inserted text (check for new names): ['And', 'Cael', 'Can', 'Did', 'Eleven', 'Four', 'He', 'Here', 'It', "It's", 'Karis', 'Nobody', 'On', 'Quieter', 'Read', 'Same', 'Seln', 'She', 'The', 'Then', 'There', "There's", 'They', 'Thirteenth', 'This', 'Under', 'We', 'What', "What's", "Why's", "You're"]
+
+OVERALL: PASS

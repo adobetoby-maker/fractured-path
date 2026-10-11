@@ -200,7 +200,7 @@ He was a long while about it, for he put his palm against every post of the fort
 
 He came back with four coins in a sock and a boy behind him carrying a sack on his shoulder. The coins he counted into Brom's hand. The sack, which was flour, and a good twenty pounds of it, the boy let down at Brom's feet as though that were the natural place for anything heavy. The old man scratched his mark on the slip with a nail, three upright strokes and a bar across them, and gave it back.
 
-He looked along his fence once more, and then at the five of them.
+He looked at the five of them.
 
 "Cheap," he said.
 
@@ -262,7 +262,7 @@ None showing use. He stopped at the third of them, a notch between two boulders,
 
 It was long, and it stood straight, and he had found the same at every one of them, on five roads, for twenty days. A man who stands in a place, morning after morning, to watch a road leaves the mark of his feet there, and of his waiting, and Seln knew that mark as a baker knows his own thumb in a loaf. He had left it himself in every town he was ever posted to. There was none of it here. The grass had never been stood in, and he did not think that there was, in all this country, one person whose work it was to watch another and write down what he did.
 
-He had not known that he would find that restful. He stood in the notch himself for a moment, from habit, and then he stepped out of it again, feeling a little foolish.
+He had not known that he would find that restful. He stood in the notch himself, from habit, and then he stepped out of it again, feeling a little foolish.
 
 *Nothing further to report*, the form said, and came to its foot, and waited to be folded.
 

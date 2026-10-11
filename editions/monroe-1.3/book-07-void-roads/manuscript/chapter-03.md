@@ -10,7 +10,7 @@ He had been awake a good while, as Cael knew by the gelding, who had been watere
 
 "There's a slip on that plank with a seal on it. Two marks, for a crew to stand on a boat all day." He put his palm flat over the four heaps and the fifth together. "He eats that in two days. So does the cart, standing. Every second morning one of those fourteen slips goes down a horse, and we've done the work for it, and we're no further on."
 
-Nobody spoke at once, and the gelding pulled at his net, loudly, as though to make the point for him.
+Nobody spoke, and the gelding pulled at his net, loudly, as though to make the point for him.
 
 "He draws the cart," said Lira. "That's what he's for. You can't carry three boxes on your back to wherever the work is."
 
@@ -88,7 +88,7 @@ Lira drew breath, but Brom spoke first, as Cael had known he would, since it was
 
 "He's stopped liking hills. He'll do one in a day if nobody argues with him, and he'll want the afternoon for it. He likes going down them less. That's the whole of what's wrong, and I've walked behind him for a fortnight looking for the rest."
 
-The ferryman turned his head and looked at his own floor, which lay as level as water all the way round, and he went on looking at it for some time.
+The ferryman turned his head and looked at his own floor, which lay as level as water all the way round.
 
 "There's no hill in it," he said.
 
@@ -142,7 +142,7 @@ Karis counted it. She had the purse from Ostrand in her lap, and the ferryman's 
 
 "That's my rule, and I'd better say it," said Brom.
 
-He sat on one of the boxes, which he had carried up a ladder into the loft that afternoon and then carried down again for this, since Karis would not have the bag sealed out of her sight, and his hands hung between his knees.
+He sat on one of the boxes, which he had carried up a ladder into the loft that afternoon and then carried down again for this, since Karis would not have the bag sealed out of her sight.
 
 "We eat what the board pays. Only that. What's in that cloth doesn't buy a loaf, or a net, or a night under a roof, however wet it is." He looked round at them. "It's there for a leg that's broken, or a box that's burned, or a morning when one of us has to be got somewhere fast. It isn't for dinner."
 
@@ -160,7 +160,7 @@ Karis nodded once, as she nodded at a citation.
 
 "Mine's shorter," said Cael. "Most of what I put in was Hesk's. He sent it a little at a time for two years, folded inside his letters, out of a shop that two polite men keep calling at. It was never mine to eat. I'd like to send some of it back one day and tell him that I didn't need it."
 
-Lira looked at the fire for a while, and then she nodded, slowly.
+Lira looked at the fire, and then she nodded, slowly.
 
 "All right. I'd have said the same in a week," she said. "I only wanted it said before I'd agreed to it."
 

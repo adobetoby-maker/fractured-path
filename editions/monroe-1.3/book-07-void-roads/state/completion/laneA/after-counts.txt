@@ -1,0 +1,15 @@
+that_was	143
+as_X_had	159
+which_was	43
+at_once	37
+measured_pause	57
+looks	27
+hand	665
+count_family	270
+enter_family	39
+price_family	51
+bill_cost	76
+let_it_stand	2
+put_set_by	1
+as_if_though	51
+words	152182

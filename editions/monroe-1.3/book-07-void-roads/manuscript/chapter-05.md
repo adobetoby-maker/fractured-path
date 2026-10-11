@@ -2,7 +2,7 @@
 
 By the forty-first day they had three lines in Pike's book and a place at the edge of the carters' fire.
 
-Nobody had offered it to them. A fire burned most nights in the middle of the meadow, a little way from the ash, and the people with carts sat round it on their own shafts and upturned buckets. For a month the five had kept to their own fire, forty yards off, as they had kept forty yards behind three carts on a road. Then, on the evening after the wash, the woman with the hides had moved her bucket a foot to the left without looking at anybody, and it had left a gap in the ring. Brom had looked at the gap for a whole day before he would let them sit in it.
+Nobody had offered it to them. A fire burned most nights in the middle of the meadow, a little way from the ash, and the people with carts sat round it on their own shafts and upturned buckets. For a month the five had kept to their own fire, forty yards off. Then, on the evening after the wash, the woman with the hides had moved her bucket a foot to the left without looking at anybody, and it had left a gap in the ring. Brom had looked at the gap for a whole day before he would let them sit in it.
 
 Nine marks earned, the book said. It did not say that Lira's palms had skinned over, or that Brom could now drop a tree at the first slip and catch it again at the second, or that Karis had held a point unlit to the count of three hundred and then put it out herself. Cael kept those in his own book, at the foot of each day, under a line that had not changed since a ring of churned turf.
 
@@ -232,7 +232,7 @@ There was a pause of four strides. Then the clicking stopped, for a large hand h
 
 The grey head swung. It went slowly to one side and then to the other, low, casting, as a dog casts that has lost a line. Brom let go. The buckle clicked, and the head came round and settled on it again.
 
-*It tracked the buckle.* That was worth having, and it was all that he had. At forty-five yards the grey head had moved when the buckle moved, and had lost it when the buckle stopped; a wired wheel, and ten feet walking, and a carter breathing through his teeth had drawn no answer that Cael could see. He could not say what sense had found the buckle, and the finding told him nothing of what the thing was waiting for.
+*It tracked the buckle.* He had that much, and no more. At forty-five yards the grey head had moved when the buckle moved, and had lost it when the buckle stopped; a wired wheel, and ten feet walking, and a carter breathing through his teeth had drawn no answer that Cael could see. He could not say what sense had found the buckle, and the finding told him nothing of what the thing was waiting for.
 
 The fourth thing was the gravel.
 

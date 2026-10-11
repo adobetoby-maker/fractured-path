@@ -1,0 +1,19 @@
+91c91
+< Anchor asked, as he had expected. It had asked at every sill and coping since a river, and at seven narrowings, and here was a rim thirty yards long with a broken boy on it. *There? There?* Each stone under his boot was a place where a point might be fixed and told to stay, and at each one he said no, and moved his foot to the next mark.
+---
+> Anchor asked, as he had expected. Here was a rim thirty yards long with a broken boy on it. *There? There?* Each stone under his boot was a place where a point might be fixed and told to stay, and at each one he said no, and moved his foot to the next mark.
+245,246d244
+< Cael turned that over. He had counted a great many things in his life, strides and fighters and watchers at a gate, and he had always taken the count for the thing itself. It had never once occurred to him that a number might only be the name of the people one had lost sight of.
+< 
+253c251
+< Karis's mouth came open. She looked as she had looked in a cart-yard, when a woman dropped three sentences in passing and drove away.
+---
+> Karis's mouth came open.
+285c283
+< The fire ticked. Lira was looking at her with an expression that Cael had not seen on her since a sheet of sailcloth by a hearth.
+---
+> The fire ticked. Lira was watching the healer.
+315c313
+< The old man took that in without any change of face. Then he jerked his head at the door of the stone house, and they followed him in, all but the healer, who had gone on up the bank toward the palisade with her hand on the mule's shoulder.
+---
+> The old man took that in without any change of face. Then he jerked his head at the door of the stone house, and they followed him in, all but the healer, who had gone on up the bank toward the palisade with the mule.

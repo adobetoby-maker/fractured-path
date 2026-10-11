@@ -1,0 +1,19 @@
+35c35
+< There were three boxes, and Brom's older ash wedge lay beside them. He counted the boxes a second time, since they had cost what they had cost. In the third, under the masonry chips, there was a bag that had not been opened since the twelfth day, and it would buy nothing whatever on this shelf.
+---
+> There were three boxes, and Brom's older ash wedge lay beside them. In the third, under the masonry chips, there was a bag that had not been opened since the twelfth day, and it would buy nothing whatever on this shelf.
+75,76d74
+< He knew what she was telling him. He had given her the order of it at the wall's end, the ledge and then herself, and she had been turning it over ever since to see whether it would bear.
+< 
+149c147
+< She was lying on her back with her eyes shut and her hot leg in its slates, and she had lifted one hand from the floor, as she had once lifted it in a valley full of frogs.
+---
+> She was lying on her back with her eyes shut and her hot leg in its slates, and she had lifted one hand from the floor.
+291c289
+< Nobody answered at once. Then Seln lifted his chin at the slope above the wall.
+---
+> Nobody answered. Then Seln lifted his chin at the slope above the wall.
+367c365
+< He knew that word. It was Karis's, and she kept it for a thing that had been looked at carefully and written down with nothing added. He had been a good many words in his time. He had been a flag on a board and a level on an advisory, and one word in capitals that a registry had settled on when it could find no tier; and every one of them had been a verdict, given by people who were angry with him for not fitting. This woman's hands had come back empty twice, and she had only said so, and put a name on the emptiness that made no claim about him at all.
+---
+> He knew that word. It was Karis's, and she kept it for a thing that had been looked at carefully and written down with nothing added. This woman's hands had come back empty twice, and she had only said so, and put a name on the emptiness that made no claim about him at all.

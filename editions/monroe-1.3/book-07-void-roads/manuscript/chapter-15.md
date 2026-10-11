@@ -8,7 +8,7 @@ There were fifty-two marks in the purse, and the name at the top of the sheet wa
 
 "It's a mountain," said Lira.
 
-She did not turn round to say it. She stood before the left-hand post with her head a little on one side, reading a second time, and her lips moved at the figure.
+She did not turn round to say it. She stood before the left-hand post with her head a little on one side, and her lips moved at the figure.
 
 "It isn't a ford at all. The ford's only where they pay you." She put her boot on at last, hopping. "He let me say I'd had enough of fords, and he knew what was on it the whole time."
 
@@ -50,13 +50,13 @@ Cael read the slip through once more, for the thing that was not in it. There wa
 
 ---
 
-He went along the whole plank afterward, from the left-hand post to the right, as he had gone along it on the ninth day and on the forty-ninth.
+He went along the whole plank afterward, from the left-hand post to the right.
 
-There were fourteen slips. He gave each the same attention, the bark and the hide and the two shingles, and he sorted them as he read, as he had once sorted a board in Ardenmere by what each card would cost him. There was a fence to be set for a steading on the north water, at five marks, and a wheel to be fetched for a carter on the south road, and hay to be got in at the upper inn for a mark and the loft to sleep in. A string of mules wanted walking westward to the turf fire, and that slip he passed over without stopping.
+There were fourteen slips. He gave each the same attention, the bark and the hide and the two shingles, and he sorted them as he read. There was a fence to be set for a steading on the north water, at five marks, and a wheel to be fetched for a carter on the south road, and hay to be got in at the upper inn for a mark and the loft to sleep in. A string of mules wanted walking westward to the turf fire, and that slip he passed over without stopping.
 
 When he had done, the paper with the horned head was at the top of the heap in his mind, and it had got there so quickly that he distrusted it. He made himself say why, in items, as he would have made a stranger say it.
 
-The first was the plainest, which was that it paid. Seventy marks was more than Pike's book had counted out to them in six lines, and the crew was still four hurts short of whole.
+The first was the plainest: it paid. Seventy marks was more than Pike's book had counted out to them in six lines, and the crew was still four hurts short of whole.
 
 The second was that nobody's finger was on it. The last large slip they took had carried a captain's name in capitals. A one-armed man had struck that name with his own pen before a meadow, and they had gone down to a river under the weight of it. This one had been posted for anyone at all, with no hold on it. If they took it they would take it off nobody, and the captain at the top of the sheet could read it when he came down and find nothing in it that had been his.
 
@@ -68,7 +68,7 @@ He had done that for nothing since before he could remember. He had catalogued a
 
 It was work, besides, that four half-mended people could do. A man with a bitten calf could pace a level shelf and write. A girl with a stiff ankle could tell him whether a hundred yards of it would bear her, and a researcher who could hold a pencil for a quarter of an hour had a cord, and a clock, and a head that kept numbers as a jar keeps water. Nobody would have to be fast, or hard, or to set anything alight; the job asked for no Path from any of them, and for no fragment of his.
 
-He wanted that job more than he had wanted the forty. It surprised him, and he entered it as a want, since Hesk had taught him that a figure left out of a sum did not thereby cease to be owed.
+He wanted that job more than he had wanted the forty. It surprised him, and he did not hide it from himself, since Hesk had taught him that a figure left out of a sum did not thereby cease to be owed.
 
 "Does it need the cart?" he said. "We've none. We could walk your bench and measure it. She has a cord, and I can pace a yard."
 
@@ -100,7 +100,7 @@ Lira's went up, and Brom's, and Karis's with the pencil in it. Seln lifted two f
 
 The other four went down the meadow to find the smith, and Seln did not go with them.
 
-Cael looked back from the ash. The eave was sixty yards behind him, and under it two men stood at the far end of the plank, where the oak ran out past the right-hand post. One of them had a book under his arm. The other had his hands clasped behind him and his head bent, as a clerk stands who has come to ask for the loan of a file. He was talking, low, and Pike was listening with his chin down.
+Cael looked back from the ash. The eave was sixty yards behind him, and under it two men stood at the far end of the plank, where the oak ran out past the right-hand post. One of them had a book under his arm. The other stood with his head bent, as a clerk stands who has come to ask for the loan of a file. He was talking, low, and Pike was listening with his chin down.
 
 It was the first question that Cael had ever seen Seln put to anybody in that meadow.
 
@@ -182,7 +182,7 @@ Karis walked round him once and examined the knot, and the lie of the rope over 
 
 "I can find nothing in it to forbid," she said. "I shall enter that I looked."
 
-So he drew, and the two in the shafts had little to do but steer. They went over the saddle with the sun behind them and down into the grey scrub by a road they had walked five times, past the wash, which was dry and red, and they made their camp at the thorn stump on its eastern lip, as they had on the fifty-ninth night.
+So he drew, and the two in the shafts had little to do but steer. They went over the saddle with the sun behind them and down into the grey scrub by a road they had walked five times, past the wash, which was dry and red, and they made their camp at the thorn stump on its eastern lip.
 
 Seln lit the fire with his flint. It was the fourth they had had on a road, and Cael noticed that not one of them watched the first smoke go up; the thing had become ordinary in twelve days, and he thought that a carter with cold feet would have been glad to see it.
 
@@ -248,7 +248,7 @@ He followed it up with his eyes. It narrowed as it rose, and at the top, a very 
 
 "And that's the road to it," said Brom.
 
-He had slipped the rope from his shoulder, and he stood with his head back and his mouth a little open, looking at two hundred yards and more of stone that would slide if a goat sneezed on it. Cael knew that face. He had seen it turned on a wagon in a wash with three wheels and a river coming.
+He had slipped the rope from his shoulder, and he stood with his head back and his mouth a little open, looking at two hundred yards and more of stone that would slide if a goat sneezed on it.
 
 "Can it be done?" said Lira.
 

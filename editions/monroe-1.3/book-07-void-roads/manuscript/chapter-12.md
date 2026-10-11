@@ -160,7 +160,7 @@ He knew most of what was in them. There were the masonry chips, each in its twis
 
 "Nothing."
 
-She said it at once, and then she frowned, since it had not been exact.
+She had said it too fast, and she frowned, since it had not been exact.
 
 "No. I'll put it properly. That's everything I know about the wrong country." Her chin went along the shelves, left to right. "Every leaf I've copied since I could hold a pen, and every one of them is about the place we walked out of: tiers, and ranks, and what an Arbiter station does with a person. I've read forty accounts of how a Path is assessed, and there isn't a page in three boxes that has the word *stillhound* on it."
 
@@ -212,7 +212,7 @@ There was a silence in the yard, and even the geese seemed to feel it.
 
 "I know we did." She shifted her grip on the ash. "I've had a rank read out before, and a result. I never had one that gave my hurts and left out the rest."
 
-Karis had come up at Cael's shoulder to see the bark; she could not take it, and so she read it where it lay in his hand, twice, with her lips.
+Karis had come up at Cael's shoulder to see the bark; she could not take it, and so she read it where it lay in his hand, with her lips.
 
 "*Cleared*, and a colon after it," she said. "He's never used one before, and everything after the colon is what *cleared* cost. And *five confirmed*: he won't write seven, and he won't write that two went down the river, because nobody counted those with a bow; he writes what somebody stood over." She looked up. "The last noun has changed again. *Nothing lost* was casks, and *no losses* was a cart and a mule. *None lost* is us."
 
@@ -282,7 +282,7 @@ The man turned his head and looked at her with the good eye. Then he looked acro
 
 He was not angry, and he went back to his buckle.
 
-She could not even resent it, and she entered it in her head beside the rest. A road was the whole of what such a man owned. He knew which ford shifted and which hold cheated on a measure, and he was worth his hire exactly so long as other people did not know those things; one did not hand that to a stranger who would write it down and carry it away in a box.
+She could not even resent it. A road was the whole of what such a man owned. He knew which ford shifted and which hold cheated on a measure, and he was worth his hire exactly so long as other people did not know those things; one did not hand that to a stranger who would write it down and carry it away in a box.
 
 Lira came back across the yard with her chin up.
 
@@ -328,7 +328,7 @@ The clouded-eyed man clicked his tongue. The cart turned in the yard, with the c
 
 She would not see them again, for they were going two days, or four, to a square with a dot in it, by a road that walked round something.
 
-That was what the other way cost, and she made herself price it honestly, for it would have been easy to call it a triumph. One got exactly what one was given: she had three sentences, and no means in the world of cross-examining them, and their only witness was on her way east at a mule's pace.
+It would have been easy to call it a triumph. One got exactly what one was given: she had three sentences, and no means in the world of cross-examining them, and their only witness was on her way east at a mule's pace.
 
 "Write," she said.
 
@@ -354,6 +354,6 @@ He ruled the second line, and he was looking at her, she saw, with the careful f
 
 "Not a good one. The first."
 
-She had him fold the leaf, and carry it into the barn, and lay it in the middle box, with the corner that was worn white. Then she sat on the tail-board with her hands in her lap, looking at the east gate.
+She had him fold the leaf, and carry it into the barn, and lay it in the middle box, with the corner that was worn white. Then she sat on the tail-board, looking at the east gate.
 
 Seln had gone out by that gate on the forty-fifth day, at noon, and walked two hours along the road; she knew, for she had seen the dust on him. The hide said two days. She did the subtraction, and kept the answer, and put no question to him either.

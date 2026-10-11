@@ -1,0 +1,24 @@
+17c17
+< He had dusted his fingers, and he stood with his hands behind him.
+---
+> He had dusted his fingers.
+41c41
+< Cael looked at the slope for a long count. Nothing on it moved. A small wind came down the gorge and stirred the heather, and across the water the far wall gave back the sound of the stream, late.
+---
+> Cael looked at the slope. Nothing on it moved. A small wind came down the gorge and stirred the heather, and across the water the far wall gave back the sound of the stream, late.
+163c163
+< Cael said nothing to that. He had stopped counting her runs on a gravel bar, and he did not begin again; but it cost him something to hear her set her own ankle against a mountain as though it were a price she had already agreed.
+---
+> Cael said nothing to that. He had stopped counting her runs on a gravel bar, and he did not begin again; but it was hard to hear her set her own ankle against a mountain as though it were a price she had already agreed.
+191c191
+< He looked at what he had written. It was twenty words and four numbers, and it said what a hundred yards of mountain was like, and whether a wheel could go there. He had kept a log through every term since his Kindling, and all of it had been called watching; and it was the first time in his life that a line of his had been worth a coin to a stranger.
+---
+> He looked at what he had written. It was twenty words and four numbers, and it said what a hundred yards of mountain was like, and whether a wheel could go there.
+237c237
+< There was ice on the kettle in the morning, a skin as thin as a leaf, the first that any of them had seen past the Line. Lira ran the ninth hundred with her breath smoking, and they drew the cart on after her with Brom leaning into his rope on the up-slope side. Wherever a gully came down the face it had laid a tongue of loose plates right across the shelf, and on those she floated, as he had said she would. There he walked against the strap with his whole body slanted, like a man in a gale.
+---
+> There was ice on the kettle in the morning, a skin as thin as a leaf, the first that any of them had seen past the Line. Lira ran the ninth hundred with her breath smoking, and they drew the cart on after her with Brom leaning into his rope on the up-slope side. Wherever a gully came down the face it had laid a tongue of loose plates right across the shelf, and on those she floated. There he walked against the strap with his whole body slanted, like a man in a gale.
+243c243
+< He saw her stop, sixty yards off. She stood quite still for as long as it would have taken to count ten. Then she set no stone on its end; she turned, and walked back toward them along the inside of the shelf, slowly, close under the wall, and her feet made no sound on the rock.
+---
+> He saw her stop, sixty yards off. She stood quite still. Then she set no stone on its end; she turned, and walked back toward them along the inside of the shelf, slowly, close under the wall, and her feet made no sound on the rock.

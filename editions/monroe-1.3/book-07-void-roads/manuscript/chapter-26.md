@@ -86,11 +86,11 @@ It was Lira, and she had said it between her teeth, with great satisfaction.
 
 Brom had put the bread down, and for a little he only looked at it.
 
-"He's quoted Rooke," he said at last. "That's Rooke to the life. He'd not tell you a thing was good, and he'd not tell you it was bad; he'd tell you what he'd seen, and you could carry it home and find out." He looked at his own hands. "*Quieter.* I'd like to know which of us he meant."
+"He's quoted Rooke," he said at last. "That's Rooke to the life. He'd not tell you a thing was good, and he'd not tell you it was bad; he'd tell you what he'd seen, and you could carry it home and find out. *Quieter.* I'd like to know which of us he meant."
 
 "All of us, I should think," said Lira. "You broke more benches than I did."
 
-Cael had read the last lines but two again, to himself. *I still lose to you every time I run it.* He could see the bout as it had gone, on sixty feet of sprung oak, with a blade's edge declared against him in earnest and nothing held back on either side; and he could see a tall, exact person walking it through afterward in an empty yard, alone, looking for the place where it turned. Something in Cael stirred at the thought, quick and bright, and asked *Edge?* of the nearest arris, which was the lip of the wash. He told it no. It was Ephram's, that question. He carried it for him, and paid the rent on it, and had never yet spent it.
+Cael had read the last lines but two again, to himself. *I still lose to you every time I run it.* He could see the bout as it had gone, on sixty feet of sprung oak, with a blade's edge declared against him in earnest and nothing held back on either side; and he could see a tall, exact person walking it through afterward in an empty yard, alone, looking for the place where it turned. Something in Cael stirred at the thought, quick and bright, and asked *Edge?* of the nearest arris, which was the lip of the wash. He told it no. It was Ephram's, that question. He carried it for him, unspent.
 
 "Read me the fourth again," said Seln. "The query."
 

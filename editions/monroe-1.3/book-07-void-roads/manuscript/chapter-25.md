@@ -46,7 +46,7 @@ Cael stood with the cup in his hand, and the question that he had not asked went
 
 He had read that man's feet in the silt of a ford, and his halts at five halting-grounds after it. He had watched him count three people on a sill before he looked at a room, and had been told by him on a river bank, in a level voice, what a mountain was worth. Now he had the man's answer to a hundred marks as well, at second hand, from a book-keeper who gave out nothing that he had not seen with his own eyes.
 
-It was a reason against. He entered it as one, with the name of the man who had given it; and he noticed that Pike had said what was done, and had not said why. He did not think that Pike had been told.
+It was a reason against. He took it as one, with the name of the man who had given it; and he noticed that Pike had said what was done, and had not said why. He did not think that Pike had been told.
 
 ---
 
@@ -122,7 +122,7 @@ She nodded at the lamp.
 
 "He says that there is a place on a road where an Arbiter stops. He says it stops at a line, and that a person knows the line by her own. If that is so, then it can be found with nothing but feet, by anybody, and found again in the same place the next day by somebody else. I have been taught that an Arbiter cannot be tested at all; that it is the one thing every instrument we own takes for granted. I should like to stand where one fails." She drew a breath. "I would go for nothing. I say so in order that nobody should count my hand as a vote for the hundred."
 
-Cael had known her for two years, and in all that time he had heard her ask for a room, and for silence, and once for an hour more with a restricted shelf. He had never before heard her say what she wanted in front of four people and then decline to argue for it. She sat with both hands on the shut notebook, a little flushed, and looked at nobody.
+Cael had known her for two years, and in all that time he had heard her ask for a room, and for silence, and once for an hour more with a restricted shelf. He had never before heard her say what she wanted in front of four people and then decline to argue for it. She sat a little flushed, and looked at nobody.
 
 "Brom."
 
@@ -178,7 +178,7 @@ He folded his hands.
 
 "Inside the Line, at a desk, from a book of forms. I do not say whose desk. I say that it was not composed on that landing. It was copied there, or else it came over the water as it stands, with the money."
 
-For some time the only sound was the fire. Cael looked at a cream sheet that had lain a month under a river stone, and saw it as he had not seen it at the plank: a thing with a ruled margin, lying on an inn's boards in a country that kept no paper. He had walked east for ninety days, and here was a piece of the west on his own table, with a seal on it that told him nothing.
+The only sound was the fire. Cael looked at a cream sheet that had lain a month under a river stone, and saw it as he had not seen it at the plank: a thing with a ruled margin, lying on an inn's boards in a country that kept no paper. He had walked east for ninety days, and here was a piece of the west on his own table, with a seal on it that told him nothing.
 
 "It goes in."
 

@@ -14,7 +14,7 @@ She turned it edgewise. It was as thick as two fingers in the middle and thinned
 
 "It bears now," said Seln.
 
-He had dusted his fingers, and he stood with his hands behind him.
+He had dusted his fingers.
 
 "I asked a question at the plank, two mornings ago, and I have carried the answer for a day and a half, since it concerned nothing that we had yet seen. I asked what a shale-back was, and whether a crew had ever come to harm by one." He inclined his head toward the horn. "He gave me the carters' rule first, and he gave it twice, and I shall give it as he did. 'Never be below them. Never be *loud* below them.'"
 
@@ -38,7 +38,7 @@ Her voice was sharp with attention.
 
 "I asked him that in those words. He said, the kind a man would not be on a road." Seln spread his hands a little. "He means all three, and he does not know which. It is the rule that Thornwater keeps, for the reason that Thornwater gave us."
 
-Cael looked at the slope for a long count. Nothing on it moved. A small wind came down the gorge and stirred the heather, and across the water the far wall gave back the sound of the stream, late.
+Cael looked at the slope. Nothing on it moved. A small wind came down the gorge and stirred the heather, and across the water the far wall gave back the sound of the stream, late.
 
 "The hold stands," he said. "No Path and no fragment, for any of us, here as on a road; that's not new. What's new is that until somebody can tell me which kind of loud, we keep every kind of quiet as well. Low voices. No iron on iron. And nobody goes under anything with a back until we've looked at it first."
 
@@ -160,7 +160,7 @@ Lira was to run first. She would go out a hundred of her own strides along the s
 
 "Because a thing that'll bear me running will bear her walking," said Lira. She was looking down the shelf, and not at anyone. "And if a piece of this is going to go, I'd sooner it went under me than under three boxes and the four of you tied to them. I can get off it."
 
-Cael said nothing to that. He had stopped counting her runs on a gravel bar, and he did not begin again; but it cost him something to hear her set her own ankle against a mountain as though it were a price she had already agreed.
+Cael said nothing to that. He had stopped counting her runs on a gravel bar, and he did not begin again; but it was hard to hear her set her own ankle against a mountain as though it were a price she had already agreed.
 
 Lira went, with her Path where she had kept it since the ford. She ran lightly, well in from the edge, and her right foot came down a shade behind her left, and he looked at the gorge until she was a small figure standing a stone on end. She walked back.
 
@@ -188,7 +188,7 @@ Lira had come to look over his arm.
 
 "It's in your hand. That's whose it is; ask Pike."
 
-He looked at what he had written. It was twenty words and four numbers, and it said what a hundred yards of mountain was like, and whether a wheel could go there. He had kept a log through every term since his Kindling, and all of it had been called watching; and it was the first time in his life that a line of his had been worth a coin to a stranger.
+He looked at what he had written. It was twenty words and four numbers, and it said what a hundred yards of mountain was like, and whether a wheel could go there.
 
 "What's the rate for a strap?" said Brom.
 
@@ -234,13 +234,13 @@ He wrote his own page with his back to the wall, by the last grey light, since t
 
 *The nine: held, on a hill where three of them would have been of use. Deployment since the Line: one.*
 
-There was ice on the kettle in the morning, a skin as thin as a leaf, the first that any of them had seen past the Line. Lira ran the ninth hundred with her breath smoking, and they drew the cart on after her with Brom leaning into his rope on the up-slope side. Wherever a gully came down the face it had laid a tongue of loose plates right across the shelf, and on those she floated, as he had said she would. There he walked against the strap with his whole body slanted, like a man in a gale.
+There was ice on the kettle in the morning, a skin as thin as a leaf, the first that any of them had seen past the Line. Lira ran the ninth hundred with her breath smoking, and they drew the cart on after her with Brom leaning into his rope on the up-slope side. Wherever a gully came down the face it had laid a tongue of loose plates right across the shelf, and on those she floated. There he walked against the strap with his whole body slanted, like a man in a gale.
 
 The tenth was slab, and the eleventh was slab with a crack.
 
 Lira went out for the twelfth, and she did not come back at a run.
 
-He saw her stop, sixty yards off. She stood quite still for as long as it would have taken to count ten. Then she set no stone on its end; she turned, and walked back toward them along the inside of the shelf, slowly, close under the wall, and her feet made no sound on the rock.
+He saw her stop, sixty yards off. She stood quite still. Then she set no stone on its end; she turned, and walked back toward them along the inside of the shelf, slowly, close under the wall, and her feet made no sound on the rock.
 
 She did not speak when she reached them. She took Cael by the sleeve and drew him three steps out from under the buttress, and pointed with her chin, up and to the west.
 

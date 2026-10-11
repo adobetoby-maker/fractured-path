@@ -1,0 +1,4 @@
+193c193
+< Seln had not risen, and he had touched nothing. He was reading, with his head a little on one side, as Cael had seen him read a wet margin beside a pool on a mountain.
+---
+> Seln had not risen, and he had touched nothing. He was reading, with his head a little on one side.

@@ -1,0 +1,12 @@
+49c49
+< It was a reason against. He entered it as one, with the name of the man who had given it; and he noticed that Pike had said what was done, and had not said why. He did not think that Pike had been told.
+---
+> It was a reason against. He took it as one, with the name of the man who had given it; and he noticed that Pike had said what was done, and had not said why. He did not think that Pike had been told.
+125c125
+< Cael had known her for two years, and in all that time he had heard her ask for a room, and for silence, and once for an hour more with a restricted shelf. He had never before heard her say what she wanted in front of four people and then decline to argue for it. She sat with both hands on the shut notebook, a little flushed, and looked at nobody.
+---
+> Cael had known her for two years, and in all that time he had heard her ask for a room, and for silence, and once for an hour more with a restricted shelf. He had never before heard her say what she wanted in front of four people and then decline to argue for it. She sat a little flushed, and looked at nobody.
+181c181
+< For some time the only sound was the fire. Cael looked at a cream sheet that had lain a month under a river stone, and saw it as he had not seen it at the plank: a thing with a ruled margin, lying on an inn's boards in a country that kept no paper. He had walked east for ninety days, and here was a piece of the west on his own table, with a seal on it that told him nothing.
+---
+> The only sound was the fire. Cael looked at a cream sheet that had lain a month under a river stone, and saw it as he had not seen it at the plank: a thing with a ruled margin, lying on an inn's boards in a country that kept no paper. He had walked east for ninety days, and here was a piece of the west on his own table, with a seal on it that told him nothing.

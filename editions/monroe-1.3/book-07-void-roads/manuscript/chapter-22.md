@@ -122,7 +122,7 @@ He looked at the table. It was bare again already, and somebody had swilled it d
 
 She had told him what late was. He would have been asking her to be late to all of it at once, and to call that a wage.
 
-He did not say it, and it was not like the things he had left unsaid at a fire; he was not sparing himself. He had no right to the sentence, and that was a different sort of silence.
+He did not say it. He had no right to the sentence.
 
 She had the cheek-strap in her hand. The gate stood open on the north side, and beyond it the road went up a long brown hill.
 
@@ -130,7 +130,7 @@ She had the cheek-strap in her hand. The gate stood open on the north side, and 
 
 "Nine days."
 
-She nodded, once, as to a thing entered. Then she clicked her tongue to the mule, and went out under the lintel at a carter's pace, on the low side.
+She nodded, once. Then she clicked her tongue to the mule, and went out under the lintel at a carter's pace, on the low side.
 
 ---
 
@@ -316,7 +316,7 @@ He had no argument. The man had not said that they had failed. He had said what 
 
 "The board's going to have you and me on the same contract inside a season. Be good enough that I'm glad."
 
-He nodded, the width of a finger, as he had nodded once from a sill. Then he walked on into the river, and his three came after him, each at the same distance from the next.
+He nodded, the width of a finger. Then he walked on into the river, and his three came after him, each at the same distance from the next.
 
 They crossed without a sound. Cael watched it as he would have watched a thing well made. The one with the spear went second and grounded it at every step. The one with the bow walked a little short on one side and kept the pace regardless. A boy of sixteen or so brought the two mules through on a slack rein, and not one of the four looked down at the water. They had kept the hold on roads since before he knew there was one.
 

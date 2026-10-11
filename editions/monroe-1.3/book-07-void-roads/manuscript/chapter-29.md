@@ -14,7 +14,7 @@ They held the trials at the stone, at noon, and Karis set the order.
 
 The sun stood as high as it would go at that time of year, pale and small, and their shadows lay short on the frosted grass. They had gathered on the western side of the grey stone, with the turn of the ruts at their backs and the ring two hundred yards and more in front. Oryn had the mule by the cheek-strap a few yards behind the rest, and her free hand tucked into her armpit for warmth; she had watched the whole of the morning from that stone without a word.
 
-Cael looked at the leaf that he had been given. There were five rows on it, each headed with a letter, and his own was not among them. That was as it should be, since he had been handed the pencil for the very reason that there was nothing of his to enter. He had kept the count at a great many trials of other people, from the east tier of a yard, and had thought himself used to the seat.
+Cael looked at the leaf that he had been given. There were five rows on it, each headed with a letter, and his own was not among them. That was as it should be, since he had been handed the pencil for the very reason that there was nothing of his to enter. He had kept the count at a great many trials of other people, and had thought himself used to the seat.
 
 Karis stepped over.
 
@@ -46,7 +46,7 @@ She stepped back over. He saw the colour come into her face as the foot came dow
 
 "Back," she said. "First row. Write it as I gave it: every place seen; none set; no cost."
 
-He wrote it, and looked at it a breath longer than a line needed. He had sat in a whitewashed room for the better part of a year while that small exact person laid points on a wall for him to study, and he carried one of them still, the fifth of his nine, with its rent paid; and he had not known until this noon that there was a place anywhere where her hand could make that dip and have nothing come of it.
+He wrote it, and looked at it a breath longer than a line needed. He had sat in a whitewashed room for the better part of a year while that small exact person laid points on a wall for him to study, and he carried one of them still, the fifth of his nine; and he had not known until this noon that there was a place anywhere where her hand could make that dip and have nothing come of it.
 
 ---
 
@@ -130,9 +130,9 @@ There was no arguing with that. Cael had the ruling, and he gave it with a nod, 
 
 He did not watch her go. If a one-armed man had been wrong for thirty years, the answer to it would come out of the grass on the eastern side, a quarter of a mile off, where three runs crossed a line; and somebody had to have his eyes there when the air broke. He fixed them on that place and kept them on it.
 
-So it was his own feet that told him. Wind stood up in them to go with hers, harder than it had leaned in three months, as it had stood up once at the mouth of a ledge, and he put it down; and in the same instant the grass behind his shoulder hissed.
+So it was his own feet that told him. Wind stood up in them to go with hers, harder than it had leaned in three months, and he put it down; and in the same instant the grass behind his shoulder hissed.
 
-That was the whole of it. He waited for the crack, and for whatever a far hillside would send back, and the air lay as it had lain all morning, cold and still. Nothing stirred on the eastern grass.
+He waited for the crack, and for whatever a far hillside would send back, and the air lay as it had lain all morning, cold and still. Nothing stirred on the eastern grass.
 
 He turned his head. She was a yard and a half along the line from the place where she had planted herself, with the left foot forward and the right drawn up beside it, looking down at the pair of them on the frost.
 

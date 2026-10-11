@@ -1,0 +1,12 @@
+131c131
+< Something in Cael had turned toward the thing as well. Anchor had asked about doorways for a year, and about every sill and rim on a mountain; it asked now, more quietly than it had ever asked, as one craftsman takes note of another's work. *There.* It was not a question. Here was a point that somebody else had fixed, and told to stay, and it had stayed.
+---
+> Something in Cael had turned toward the thing as well. Anchor asked now, more quietly than it had ever asked, as one craftsman takes note of another's work. *There.* It was not a question. Here was a point that somebody else had fixed, and told to stay, and it had stayed.
+209c209
+< Then she said one thing more, without any weight, as she had once read out the width of a shelf.
+---
+> Then she said one thing more, without any weight.
+229c229
+< "I do not know what the number counts, and I shall not guess." Seln rose. He stood with his hands behind him and looked from the stake to the ring, and back along the line of turfs to the stone, as he would have looked over a room that somebody had left in a hurry. "It stands a boot's width from where she stopped. She found that place with her feet, this morning, knowing nothing. Whoever drove this found the same place to the same boot's width."
+---
+> "I do not know what the number counts, and I shall not guess." Seln rose. He looked from the stake to the ring, and back along the line of turfs to the stone, as he would have looked over a room that somebody had left in a hurry. "It stands a boot's width from where she stopped. She found that place with her feet, this morning, knowing nothing. Whoever drove this found the same place to the same boot's width."

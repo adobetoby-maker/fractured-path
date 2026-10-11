@@ -86,7 +86,7 @@ Pike had the pen in his hand. He did not put it down, and he did not dip it. He 
 
 Nobody at the plank moved.
 
-Cael did not understand it for the space of a breath, and then he did, and the hair stood on his arms. It was no threat, for Pike would write it, exactly, as he wrote everything. He would put down that a captain said eleven dry, and beside it that a witness at the landing had marked ten; and then he would stand up and say both to two hundred people, and say them again when the ink was on. It would be in the book for as long as there was a book, and every hirer who ever asked about that crew would be told that its captain had once stood at this plank and argued with a mark.
+Cael did not understand it, and then he did, and the hair stood on his arms. It was no threat, for Pike would write it, exactly, as he wrote everything. He would put down that a captain said eleven dry, and beside it that a witness at the landing had marked ten; and then he would stand up and say both to two hundred people, and say them again when the ink was on. It would be in the book for as long as there was a book, and every hirer who ever asked about that crew would be told that its captain had once stood at this plank and argued with a mark.
 
 The big man had got there as well. His eyes went over the faces, and the fires, and came back to the pen.
 
@@ -154,7 +154,7 @@ Lira was frowning at the name, and Cael knew the frown, since he had seen it tur
 
 "Copper," said Brom. He had not been asked, and he said it as a man lays down a thing he has been carrying since a gate. "For good. There's a finding that says otherwise, on a table, and I'll never sign it."
 
-Pike looked at him twice, with the same look that had followed him down the meadow on the fourteenth day.
+Pike looked at him twice.
 
 "Same as me, then," he said. He set the stone a little higher on the page. "I'll tell you what I tell every one that comes over that hill with a number in his coat. A Bronze who lost my carter is worth less than a Copper who brought him home. Out here that's arithmetic. In there it was heresy."
 
@@ -254,7 +254,7 @@ He had told them, on a shelf of turf, that he knew a certain phrase, having copi
 
 She said it in her small dry voice, as she would have corrected a citation. Lira took her finger off the map.
 
-That was all. Nobody at that table spoke of it again, that night or for a long time after. Seln lifted his hand from the edge of the hide. Then he took the skin by two of its corners and turned it on the boards, a half circle, so that the ring with the bar through it lay nearest the door, and everything else that a carter had drawn in twenty-two years ran away from them toward the hearth.
+Nobody at that table spoke of it again, that night or for a long time after. Seln lifted his hand from the edge of the hide. Then he took the skin by two of its corners and turned it on the boards, a half circle, so that the ring with the bar through it lay nearest the door, and everything else that a carter had drawn in twenty-two years ran away from them toward the hearth.
 
 It lay with the east uppermost, and Karis put her fingers back on the corners.
 
@@ -342,7 +342,7 @@ He went over them a second time, slowly, from the left.
 
 There was a man at the end of the bench. He sat a little back from the lamp, in a dark coat, with a strap across his chest and a cup in both hands, and his eyes were shut. Teague's look had gone across him the first time as it would have gone across a patch of plaster. He was the same height sitting as everybody else, and the same colour as the wall. He had chosen the one place at those boards that the light from the door did not quite reach, and Teague did not believe for a moment that he had chosen it by chance, or that he was asleep.
 
-*That one first*, he thought. He ought always to have been first. The one a man finds on his second pass is the one he should have looked for on the first, and Teague entered it against himself, as a thing to be remembered on a road.
+*That one first*, he thought. He ought always to have been first. The one a man finds on his second pass is the one he should have looked for on the first, and Teague marked it against himself, as a thing to be remembered on a road.
 
 And then there was the fifth, who was looking straight at him.
 
@@ -370,7 +370,7 @@ He had read Lira, and it had taken him three breaths. Brom had hardly taken him 
 
 Then he had stopped, and Cael had watched him do it. The man's eyes had finished with the table and come to rest, and a small crease had come between them, and they had gone back to the left and begun again. Cael had seen officers, and watchers, and a hooded seat, and a Gold on a stone floor look at the five of them, and every one had counted four. This one had found, on a second pass, a mild man in a dark coat with his eyes shut.
 
-That was the item he could not rule on. He set it apart.
+He could not rule on that item, and he set it apart.
 
 And last the man had come to him, and stayed.
 

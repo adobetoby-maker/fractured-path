@@ -1,0 +1,23 @@
+25c25
+< Pike saw them from the landing road. He looked at a strange cart with three boxes on it, and at a girl in one boot of her own and one the size of a bucket, and at how Cael held his left arm; and then he looked at all of it a second time, as he did.
+---
+> Pike saw them from the landing road. He looked, twice over, at a strange cart with three boxes on it, and at a girl in one boot of her own and one the size of a bucket, and at how Cael held his left arm.
+101c101
+< It was Brom who said it. He had come up to the oak, with his two hands hanging open, and he was looking at the small words under the line as he had looked at a smith's cut axle.
+---
+> It was Brom who said it. He had come up to the oak, and he was looking at the small words under the line as he had looked at a smith's cut axle.
+145c145
+< He counted, since he could no more have helped it than breathing, and it was nine before the man spoke.
+---
+> He counted, and it was nine before the man spoke.
+203,204d202
+< None of them had been meant for the others' company. The woman with the barley had never looked at her husband's map with a pencil in her hand, and the carter had certainly never read a broker's paper; and yet all three were speaking of one patch of grass, two days beyond a fence, as though they had agreed on it beforehand.
+< 
+227c225
+< Seln had not spoken at all. He stood at the plank's end with his hands behind him, and he had not yet troubled with the words; it was the sheet itself that he studied, where it lay, as a joiner studies a board.
+---
+> Seln had not spoken at all. He stood at the plank's end, and he had not yet troubled with the words; it was the sheet itself that he studied, where it lay, as a joiner studies a board.
+249c247
+< It was done. Cael had carried that six since the seventy-first morning, as one carries a stone in a boot, and he waited to feel lighter and did not. The smith had gone back into his shed already, and presently the rasp began again. A cart was only a cart, and the man had been paid for it twice over; all the same there would be a clean place under that lean-to for a good while, and Brom stood looking at it with his hands hanging until Karis took him by the sleeve.
+---
+> It was done. Cael had carried that six since the seventy-first morning, as one carries a stone in a boot, and he waited to feel lighter and did not. The smith had gone back into his shed already, and presently the rasp began again. A cart was only a cart, and the man had been paid for it twice over; all the same there would be a clean place under that lean-to for a good while, and Brom stood looking at it until Karis took him by the sleeve.

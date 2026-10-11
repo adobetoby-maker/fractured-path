@@ -1,0 +1,8 @@
+171c171
+< That was how it had turned beside a white stone, by the reading of the ground, and that was how it turned now. It had waited the whole evening for something to come to it, and something had; and it was the first to move. Beyond it, up the bar, he saw two grey shapes wheel together and come after.
+---
+> It had waited the whole evening for something to come to it, and something had; and it was the first to move. Beyond it, up the bar, he saw two grey shapes wheel together and come after.
+321c321
+< She came to Seln last. He sat on a sack in Brom's coat, with his wet hair on end, and she looked him over once, and then again more closely, as one looks at a ewe that ought to be lame.
+---
+> She came to Seln last. He sat on a sack in Brom's coat, with his wet hair on end, and she looked him over as one looks at a ewe that ought to be lame.

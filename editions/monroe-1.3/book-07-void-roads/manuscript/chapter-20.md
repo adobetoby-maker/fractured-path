@@ -32,7 +32,7 @@ Brom's forearm had parted at the wrist for the length of a finger, where it had 
 
 Karis sat where she had sat down, and she had spoken twice since then and no more. When Seln went to her and put his coat round her shoulders she let him, and her eyes followed his hands as though they were a long way off.
 
-There were three boxes, and Brom's older ash wedge lay beside them. He counted the boxes a second time, since they had cost what they had cost. In the third, under the masonry chips, there was a bag that had not been opened since the twelfth day, and it would buy nothing whatever on this shelf.
+There were three boxes, and Brom's older ash wedge lay beside them. In the third, under the masonry chips, there was a bag that had not been opened since the twelfth day, and it would buy nothing whatever on this shelf.
 
 Then he counted what they had to eat, and that took less time. Brom had slung the bread bag on his own back that morning, from habit, and it held a loaf and a half and the hard end of the bacon. Seln had his flint, a twist of salt, and a water-skin a third full. Everything else had been on the cart.
 
@@ -71,8 +71,6 @@ He had thought her asleep. She was lying on her back with her right leg laid str
 "Does it hurt?"
 
 "Yes." She thought about it. "It's a different hurt from the ankle. That one was a thing I'd done, and this is only a thing that's there."
-
-He knew what she was telling him. He had given her the order of it at the wall's end, the ledge and then herself, and she had been turning it over ever since to see whether it would bear.
 
 "Karis turned thirty animals with a page she'd not tested," said Lira presently. "And Brom carried two boxes he's not allowed to lift. And you went back for the third and stood under one of those things with your hands shut. I saw the marks where you came down." A plate slid, somewhere above. "I ran away from it, and I was the only one who did what I was supposed to."
 
@@ -146,7 +144,7 @@ It was the middle of the eightieth day. The rain had gone through, and Cael had 
 
 "That's iron," said Lira.
 
-She was lying on her back with her eyes shut and her hot leg in its slates, and she had lifted one hand from the floor, as she had once lifted it in a valley full of frogs.
+She was lying on her back with her eyes shut and her hot leg in its slates, and she had lifted one hand from the floor.
 
 "On rock. Listen. Something's coming along that shelf with shoes on, and nothing that lives on this hill wears shoes."
 
@@ -288,7 +286,7 @@ She went to Karis last of the three, on her knees, and read her as she had read 
 
 "It's like a well you drop a stone in, and hear it land on the bottom dry." She sat back. "What did you do?"
 
-Nobody answered at once. Then Seln lifted his chin at the slope above the wall.
+Nobody answered. Then Seln lifted his chin at the slope above the wall.
 
 The shale still lay banked there, in the shelter of the rock, where neither stream had carried it off; and across it, from a point high up down to either hand, ran two straight black lines. The plates along them had been burnt to the colour of iron.
 
@@ -364,7 +362,7 @@ She was frowning at his side, as at a sum that had come out oddly, and she spoke
 
 "That's not an answer," Oryn said. "That's a *finding*."
 
-He knew that word. It was Karis's, and she kept it for a thing that had been looked at carefully and written down with nothing added. He had been a good many words in his time. He had been a flag on a board and a level on an advisory, and one word in capitals that a registry had settled on when it could find no tier; and every one of them had been a verdict, given by people who were angry with him for not fitting. This woman's hands had come back empty twice, and she had only said so, and put a name on the emptiness that made no claim about him at all.
+He knew that word. It was Karis's, and she kept it for a thing that had been looked at carefully and written down with nothing added. This woman's hands had come back empty twice, and she had only said so, and put a name on the emptiness that made no claim about him at all.
 
 She got up and fetched clean cloth from her pannier, and a flask; and she unwound Seln's neckcloth from his calf and washed what was under it, and bound it again in her own linen, tight and neat. She put no hand round it to count.
 

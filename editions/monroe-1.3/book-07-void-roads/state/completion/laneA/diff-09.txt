@@ -1,0 +1,8 @@
+47c47
+< Cael counted fourteen, from an old man asleep in the chimney corner to a child on somebody's knee. They sat down both sides of a trestle with bowls in front of them, and when five strangers came in under the lintel the talk dropped and did not rise again. A place had been left at the hearth end of the board; and on the settle beyond it sat a man with his right arm laid along a folded sack.
+---
+> There were fourteen, from an old man asleep in the chimney corner to a child on somebody's knee. They sat down both sides of a trestle with bowls in front of them, and when five strangers came in under the lintel the talk dropped and did not rise again. A place had been left at the hearth end of the board; and on the settle beyond it sat a man with his right arm laid along a folded sack.
+157c157
+< The lantern hissed, and for some time that was the only sound in the loft.
+---
+> The lantern hissed, and it was the only sound in the loft.

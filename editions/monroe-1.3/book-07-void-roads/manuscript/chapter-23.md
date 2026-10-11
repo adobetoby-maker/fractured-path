@@ -66,7 +66,7 @@ The first prints were a man's, of the middle size, set down evenly. Beside the r
 
 "I should think somebody does, about once a day." He stood up carefully. "They went up this bank at dusk, with the light going and a river to get over, and there isn't a scuffed print among the four of them. Nobody turned to look back. Nobody stepped out of the line."
 
-He had not expected to enjoy it. But there was a pleasure in reading a thing well made, and he had it now, as he had had it from the east tier of a yard, watching a good pair work. The difference was that he did not want to beat this one. He had no notion what he wanted from it; the man had told him to be good enough to be glad of, and Cael was reading the silt to learn what *good enough* walked like.
+He had not expected to enjoy it. But there was a pleasure in reading a thing well made, and he had it now. The difference was that he did not want to beat this one. He had no notion what he wanted from it; the man had told him to be good enough to be glad of, and Cael was reading the silt to learn what *good enough* walked like.
 
 The carter had halted his mules on the bank and was waiting, with his sleepy face turned toward them. He had seen Lira's foot. He looked at it for some time, and then he went round to the cart's tail and took down a pair of boots.
 
@@ -110,7 +110,7 @@ She tried it again, and her face changed a little.
 
 By noon of the second day he hated the tape, as he had been told that he would.
 
-He could have borne the pain of it; he had carried pain before, on worse terms, and priced it and gone on. What he could not bear was that the thing was always right. He would reach for the water-skin, or turn his head to see what Lira had laughed at, or simply draw the breath that a hill wanted; and five bands of linen would close across his side a hair before the bone did, and tell him *there*. Every time, when he stopped to check it, the tape had known and he had not. A person can forgive an instrument for being wrong. He was learning that it was a good deal harder to forgive one for being right four thousand times a day.
+He could have borne the pain of it; he had carried pain before, on worse terms, and gone on. What he could not bear was that the thing was always right. He would reach for the water-skin, or turn his head to see what Lira had laughed at, or simply draw the breath that a hill wanted; and five bands of linen would close across his side a hair before the bone did, and tell him *there*. Every time, when he stopped to check it, the tape had known and he had not. A person can forgive an instrument for being wrong. He was learning that it was a good deal harder to forgive one for being right four thousand times a day.
 
 There was no arguing with it, and he could not bear a thing that he could neither argue with nor measure, so he measured it.
 

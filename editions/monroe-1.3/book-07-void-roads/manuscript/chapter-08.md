@@ -138,7 +138,7 @@ He had gone to a good many fights. He had gone to them down a lane in Ardenmere,
 
 He had expected that to feel like freedom, and it did, a little. Chiefly it felt like four people walking in front of him toward a river.
 
-That was new as well. On a floor he had only ever had his own hurts to price, and he had grown so used to pricing them that he did it now without thinking, as a carter greases an axle. He could not do it for Lira's feet, or for Brom's hands. He watched Karis's small straight back beside the wheel, and he had no figure for it at all.
+On a floor he had only ever had his own hurts to price, and he had grown so used to pricing them that he did it now without thinking, as a carter greases an axle. He could not do it for Lira's feet, or for Brom's hands. He watched Karis's small straight back beside the wheel, and he had no figure for it at all.
 
 Brom put an edge on the bill at every halt.
 
@@ -168,7 +168,7 @@ Cael had heard a pencil come out of the spine of a notebook, somewhere on his le
 
 *Deployment since the Line: none.*
 
-Lira had come to sit by him, with her arms round her knees. She had read it over his arm, as she always did, and she said nothing about it for some time.
+Lira had come to sit by him, with her arms round her knees. She had read it over his arm, as she always did, and she said nothing about it.
 
 "Thirteenth of thirteen," she said at last. "Sent for the forty. Do you know what that would be, at home? It'd be the bottom seed drawn against the title in the first round, because the title was out of town. Iron against Gold, and no panel to tell you so."
 
@@ -262,7 +262,7 @@ Lira ran the bar. She did it without being told, in her bare feet first and then
 
 Cael watched her come down it and thought of a painted floor at Norhold. She had been quicker there, with the burst, and she had never looked like this, for there she had been running at a mark. Here she ran thirty yards of loose stones for no one, and stopped because she had decided to.
 
-"It rolls," she said, walking back up with her hands on her hips. "The spine's firm. You can run on the spine as if it were a road. But the last five yards are round stones lying on round stones, with the water through them, and the edges are worse. If I had to stop there in a hurry I'd want to do it short."
+"It rolls," she said, walking back up. "The spine's firm. You can run on the spine as if it were a road. But the last five yards are round stones lying on round stones, with the water through them, and the edges are worse. If I had to stop there in a hurry I'd want to do it short."
 
 "Then stop short."
 

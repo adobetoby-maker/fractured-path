@@ -1,0 +1,16 @@
+17c17
+< Cael looked at the leaf that he had been given. There were five rows on it, each headed with a letter, and his own was not among them. That was as it should be, since he had been handed the pencil for the very reason that there was nothing of his to enter. He had kept the count at a great many trials of other people, from the east tier of a yard, and had thought himself used to the seat.
+---
+> Cael looked at the leaf that he had been given. There were five rows on it, each headed with a letter, and his own was not among them. That was as it should be, since he had been handed the pencil for the very reason that there was nothing of his to enter. He had kept the count at a great many trials of other people, and had thought himself used to the seat.
+49c49
+< He wrote it, and looked at it a breath longer than a line needed. He had sat in a whitewashed room for the better part of a year while that small exact person laid points on a wall for him to study, and he carried one of them still, the fifth of his nine, with its rent paid; and he had not known until this noon that there was a place anywhere where her hand could make that dip and have nothing come of it.
+---
+> He wrote it, and looked at it a breath longer than a line needed. He had sat in a whitewashed room for the better part of a year while that small exact person laid points on a wall for him to study, and he carried one of them still, the fifth of his nine; and he had not known until this noon that there was a place anywhere where her hand could make that dip and have nothing come of it.
+133c133
+< So it was his own feet that told him. Wind stood up in them to go with hers, harder than it had leaned in three months, as it had stood up once at the mouth of a ledge, and he put it down; and in the same instant the grass behind his shoulder hissed.
+---
+> So it was his own feet that told him. Wind stood up in them to go with hers, harder than it had leaned in three months, and he put it down; and in the same instant the grass behind his shoulder hissed.
+135c135
+< That was the whole of it. He waited for the crack, and for whatever a far hillside would send back, and the air lay as it had lain all morning, cold and still. Nothing stirred on the eastern grass.
+---
+> He waited for the crack, and for whatever a far hillside would send back, and the air lay as it had lain all morning, cold and still. Nothing stirred on the eastern grass.

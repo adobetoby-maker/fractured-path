@@ -1,0 +1,12 @@
+125c125
+< He did not say it, and it was not like the things he had left unsaid at a fire; he was not sparing himself. He had no right to the sentence, and that was a different sort of silence.
+---
+> He did not say it. He had no right to the sentence.
+133c133
+< She nodded, once, as to a thing entered. Then she clicked her tongue to the mule, and went out under the lintel at a carter's pace, on the low side.
+---
+> She nodded, once. Then she clicked her tongue to the mule, and went out under the lintel at a carter's pace, on the low side.
+319c319
+< He nodded, the width of a finger, as he had nodded once from a sill. Then he walked on into the river, and his three came after him, each at the same distance from the next.
+---
+> He nodded, the width of a finger. Then he walked on into the river, and his three came after him, each at the same distance from the next.

@@ -20,7 +20,7 @@ It was the last morning of the job, and he let himself know it. Three lines rema
 
 "No doubt."
 
-But Seln went on looking up the slope, with his mild face lifted and his hands quite still on the shaft, and Cael saw that he liked the quiet no better than he had liked the eighth narrowing. He had chosen every place they slept on that mountain, and he had not wished to sleep in this one's middle.
+But Seln went on looking up the slope, with his mild face lifted, and Cael saw that he liked the quiet no better than he had liked the eighth narrowing. He had chosen every place they slept on that mountain, and he had not wished to sleep in this one's middle.
 
 "She's off," said Brom.
 
@@ -138,7 +138,7 @@ He was eight yards short of the wall's end.
 
 He was outside her line. Its eastern foot stood a little ahead of him and uphill, burning, and the eastern stream was pouring down past the end of it, and he was in the edge of where that stream was going to be.
 
-He had perhaps a count of two, and he spent it as he had spent a breath on a gravel bar, pricing.
+He had perhaps a count of two, and he spent the whole of it pricing.
 
 Compression had the thing measured already. It had waited since a river for a blow worth taking, and it showed him how: a plated shoulder at a run, met square, and sent down through his frame into the slab beneath the shale. He would have stood. Anchor offered him the other way. *There.* One fixed point against the rock under his left boot, and told to stay, and a boy with a box would have been a post that a river goes round.
 
@@ -246,7 +246,7 @@ So she bound the ankle in the dark, on the seventy-eighth morning, and ate nothi
 
 She set her feet at the ledge's mouth, and went.
 
-The rock was a gift. It was dry under its roof, and rimed along the outer half where the roof stopped, so she kept in, close under the wall, as she had promised a fire that she would. Her left foot struck and her right came after it. She had the count in her legs. Forty. Fifty. The gorge went by on her right hand, blue and enormous, and she gave it none of her attention; she was reading the shelf five yards ahead of her toes, for cracks and for colour, as she had read a sprung floor.
+The rock was a gift. It was dry under its roof, and rimed along the outer half where the roof stopped, so she kept in, close under the wall, as she had promised a fire that she would. Her left foot struck and her right came after it. She had the count in her legs. Forty. Fifty. The gorge went by on her right hand, blue and enormous, and she gave it none of her attention; she was reading the shelf five yards ahead of her toes, for cracks and for colour.
 
 She saw no crack. She would say so afterward to anyone who asked, and nobody ever did.
 

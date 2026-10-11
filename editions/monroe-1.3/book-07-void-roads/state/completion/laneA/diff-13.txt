@@ -1,0 +1,20 @@
+79c79
+< He had caught it with his left hand. Cael had seen that, and had seen his face afterward, and had put it by for the evening.
+---
+> He had caught it with his left hand. Cael had seen that, and had seen his face afterward.
+93c93
+< Nobody moved at once. They had not had a fire on a road since the sixth day, when an old man asked Cael what he was; and he looked now at the dead wood lying under the scrub, twenty feet off, which not one of them had so much as glanced at for fifty days.
+---
+> Nobody moved. They had not had a fire on a road since the sixth day, when an old man asked Cael what he was; and he looked now at the dead wood lying under the scrub, twenty feet off, which not one of them had so much as glanced at for fifty days.
+131c131
+< Cael thought that it was the first thing the finding had bought them, and that it had been paid for at a ford; and he held his own hands a little nearer the flame on the strength of it.
+---
+> It was the first thing the finding had bought them, and Cael held his own hands a little nearer the flame on the strength of it.
+191c191
+< Brom's mouth opened, and shut again. He had a question of his own that was first cousin to hers, and he had been carrying it since a jug; Cael could see him hold it up beside hers and conclude that it did not fit. Karis could have given an answer by method, with a table in it, and she had the sense to know that it was not what had been asked. Seln looked at his hands.
+---
+> Brom's mouth opened, and shut again. He had a question of his own that was first cousin to hers, and he had been carrying it since a jug; Cael could see him hold it up beside hers and conclude that it did not fit. Karis could have given an answer by method, with a table in it, and she had the sense to know that it was not what had been asked.
+229c229
+< He counted them twice, since eleven days ago he had hardly been able to see the oak for paper. The dry roads had done the reverse of what they had done before; crews had gone out by all five roads and taken their slips with them, and the meadow was down to nine tents and a few carts under the ash. The tarred wood showed its tack-holes again in drifts, and by the right-hand post there was a clean place the size of a hand.
+---
+> Eleven days ago he could hardly see the oak for paper. The dry roads had done the reverse of what they had done before; crews had gone out by all five roads and taken their slips with them, and the meadow was down to nine tents and a few carts under the ash. The tarred wood showed its tack-holes again in drifts, and by the right-hand post there was a clean place the size of a hand.

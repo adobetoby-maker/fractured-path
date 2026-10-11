@@ -88,7 +88,7 @@ Then there was nobody left on the near side but himself. He had known that it wo
 
 The tape spoke at once. He had reached out a little farther than a man reaches who is walking on a floor, and the five bands drew across his side and said *there*; so he took the breath shallower and the reach shorter, and it let him be. He learned that he could go so, at half a stride, with his face to the rock.
 
-Anchor asked, as he had expected. It had asked at every sill and coping since a river, and at seven narrowings, and here was a rim thirty yards long with a broken boy on it. *There? There?* Each stone under his boot was a place where a point might be fixed and told to stay, and at each one he said no, and moved his foot to the next mark.
+Anchor asked, as he had expected. Here was a rim thirty yards long with a broken boy on it. *There? There?* Each stone under his boot was a place where a point might be fixed and told to stay, and at each one he said no, and moved his foot to the next mark.
 
 There was something else that wanted to help him, and it was harder to turn away. The Iron read would have given him every plate on that lip within a pace and a half: which was seated on rock and which on its fellow, and which meant to go. He would have known the ground as he knew his own weight. He had refused it on a fan, when all that hung on it was a map.
 
@@ -242,15 +242,13 @@ She shrugged, heavily.
 
 "That's what late is. It's not a number. It's who I don't know about."
 
-Cael turned that over. He had counted a great many things in his life, strides and fighters and watchers at a gate, and he had always taken the count for the thing itself. It had never once occurred to him that a number might only be the name of the people one had lost sight of.
-
 Karis had waited as long as she was able.
 
 "But you keep a record," she said. "You must. Seven holds, and every one with its sick; what you found, and what you did, and what you said you'd do next time. I should like to see how you've ruled it, for I've never seen a healer's book."
 
 "I've not got one. No ledger, and no roll."
 
-Karis's mouth came open. She looked as she had looked in a cart-yard, when a woman dropped three sentences in passing and drove away.
+Karis's mouth came open.
 
 "Then how do you know who's owed?"
 
@@ -282,7 +280,7 @@ She let the hand fall.
 
 "In the city I healed Bronzes with bruises. Out here I set legs. I'm not going back and I'm not stopping. The route is the only thing I own."
 
-The fire ticked. Lira was looking at her with an expression that Cael had not seen on her since a sheet of sailcloth by a hearth.
+The fire ticked. Lira was watching the healer.
 
 "Did you mind?" she said. "Leaving it, and not being told any more what you were."
 
@@ -312,7 +310,7 @@ Pike had said that he would ask it at his gate, and Cael had had the answer read
 
 "In your gorge."
 
-The old man took that in without any change of face. Then he jerked his head at the door of the stone house, and they followed him in, all but the healer, who had gone on up the bank toward the palisade with her hand on the mule's shoulder.
+The old man took that in without any change of face. Then he jerked his head at the door of the stone house, and they followed him in, all but the healer, who had gone on up the bank toward the palisade with the mule.
 
 It was one room, with a hearth and a bench and a scrubbed board under the window. Karis unrolled the long leaf on the board, and weighted its four corners with the old man's own tally-sticks, and stood back.
 

@@ -48,7 +48,7 @@ Lira woke as she did everything. He had put two fingers on her shoulder, and she
 
 "Do what Brom does, and count us." She was feeling about for her boots. "We're harder. We move."
 
-Karis woke more slowly. She put out one pale hand before her eyes were open, and it found the canvas and went along it to the knot over the middle box, and rested there. Then she sat up and asked what the clock said, and wrote the figure down before she had so much as looked at the sky.
+Karis woke more slowly. She put out one pale hand before her eyes were open, and it found the canvas and went along it to the knot over the middle box. Then she sat up and asked what the clock said, and wrote the figure down before she had so much as looked at the sky.
 
 He looked for the fifth, and it took him a moment, which he supposed was to the man's credit.
 
@@ -60,7 +60,7 @@ Seln lay under the pine, on his side, with an empty satchel beneath his head. He
 
 "You were going to look at him until he woke."
 
-That was fair. He lay down where she had been lying, in the warmth she had left on the turf, and he was asleep before she had finished with her second boot.
+He lay down where she had been lying, in the warmth she had left on the turf, and he was asleep before she had finished with her second boot.
 
 ---
 
@@ -196,7 +196,7 @@ Cael sat on the shingle and wrote while the horse drank.
 
 *Fourth day. The letters to Hesk and to Vell went west by a courier on a mule, a copper each, as far as the turf fire. She showed us the ford by riding it. She did not ask what the letters were. She did not ask what we were either. Entered, because I can't remember the last person who didn't.*
 
-He looked at the last line a while. Then he added the other, which was getting to be a habit.
+Under it he added the other. It was getting to be a habit.
 
 *Deployment since the Line: none.*
 
@@ -238,7 +238,7 @@ The sun went off the valley floor. It did so all at once out here, when the west
 
 It lifted.
 
-It was Shadow, the one fragment of the nine that he kept sealed. He knew it at once, and he was ready, as he had been ready at every dusk since a door log in a wool exchange. It came up soft behind the other eight and offered him what it always offered, which was to make less of him. He told it no. He had told it no so many times that the word had worn smooth, and he was tired, with eleven miles in his legs, and he said it as a man says good night.
+It was Shadow, the one fragment of the nine that he kept sealed. He knew it, and he was ready, as he had been ready at every dusk since a door log in a wool exchange. It came up soft behind the other eight and offered him what it always offered, which was to make less of him. He told it no. He had told it no so many times that the word had worn smooth, and he was tired, with eleven miles in his legs, and he said it as a man says good night.
 
 His boots stopped making any sound.
 

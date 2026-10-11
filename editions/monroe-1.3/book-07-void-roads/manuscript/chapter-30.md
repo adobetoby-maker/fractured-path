@@ -190,7 +190,7 @@ There were a good many such places. He could see the first four. They went back 
 
 Nothing was in them. He checked that twice. The hollow was empty, as far as light went, and no sound came out of it, and the wind brought him only the smell of cold earth and something rank and dry.
 
-Seln had not risen, and he had touched nothing. He was reading, with his head a little on one side, as Cael had seen him read a wet margin beside a pool on a mountain.
+Seln had not risen, and he had touched nothing. He was reading, with his head a little on one side.
 
 "This morning," he said, very low. "Before we had laid the first cord. More than six. I should say eight, or nine; they have gone over each other's marks and I cannot do better." He pointed, without lifting his hand from his knee, at the newest prints. They led away from the mouth, down the slope, to the east. "Out. All of them, and none back since."
 

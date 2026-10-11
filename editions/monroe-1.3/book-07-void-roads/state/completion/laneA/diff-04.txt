@@ -1,0 +1,8 @@
+203c203
+< He looked along his fence once more, and then at the five of them.
+---
+> He looked at the five of them.
+265c265
+< He had not known that he would find that restful. He stood in the notch himself for a moment, from habit, and then he stepped out of it again, feeling a little foolish.
+---
+> He had not known that he would find that restful. He stood in the notch himself, from habit, and then he stepped out of it again, feeling a little foolish.

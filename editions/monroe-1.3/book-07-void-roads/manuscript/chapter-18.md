@@ -54,7 +54,7 @@ Karis looked at him. Then she held out the cord.
 
 He lay where she had lain, with the edge of the mountain under his breastbone and a long blue emptiness in front of his face, and he drew the cord tight from the foot of the rib to the last sound inch of the rim. He found the knot. It was five feet nine.
 
-He had expected nothing else. But he understood, getting up, what she had asked of him at the slab two days before: a hand that might doubt a number on that table before a wheel was put on it. It was an odd use to be wanted for, by a person who had once kept an index of everything he could do, and he liked it better than any of the rest.
+He had expected nothing else.
 
 They took her through an inch at a time. Seln knelt at the off wheel with his cheek nearly on the rock, watching the rim against a scratch that Karis had made, and lifted one finger for every hand's breadth of travel. Cael had the shafts alone, so that there should be one pair of feet to steer by. It took a quarter of an hour to go four yards, and the only sounds were the dry hub and five people breathing through their mouths.
 
@@ -78,7 +78,7 @@ He looked down into it. The sides went down smooth and close, without a ledge, a
 
 "Then it stops here," said Karis. Her voice had gone thin. "At the fifty-ninth hundred. With the end in sight."
 
-"I never said that." Brom was looking at the cart as he had looked at a rung of ash in a barn. "It wants carrying."
+"I never said that." Brom was looking at the cart. "It wants carrying."
 
 "No," said Karis.
 
@@ -132,9 +132,9 @@ The wheels came down on rock. Brom backed out from under her on his knees and st
 
 Beyond the eighth the mountain let go of the bench at last, and it opened like a hand.
 
-He had lived for five days on a shelf that he could have thrown a stone across. Now the wall on his left fell back in a long curve and came round again two hundred yards on, and between the wall and the drop there lay a bay forty yards deep, floored from side to side with fine loose shale that had come down the face and spread. The slope above it was the same roof-pitch of plates, but lower; the upper shelf ran across it not three hundred yards up. He did not need to count what was on that shelf, and he counted it all the same, and it came to thirty.
+He had lived for five days on a shelf that he could have thrown a stone across. Now the wall on his left fell back in a long curve and came round again two hundred yards on, and between the wall and the drop there lay a bay forty yards deep, floored from side to side with fine loose shale that had come down the face and spread. The slope above it was the same roof-pitch of plates, but lower; the upper shelf ran across it not three hundred yards up, with thirty grey heaps along it.
 
-Seln had a fire laid, and he was sitting beside it with his hands on his knees.
+Seln sat beside a fire that he had laid.
 
 He had chosen the eastern corner of the bay, hard against the eighth narrowing, where a slab leaned out from the wall and water ran down the rock behind it into a basin the size of a hat. The cart stood on sound stone there, and that was as well, for she would have floated on every yard of the bay's floor.
 
@@ -158,7 +158,7 @@ It ran out from her feet along the wall of the gorge, dead level, as straight as
 
 "Three hundreds," he said. "That's all that's left of his table."
 
-"And then down the other side to a ford, and a man counts out seventy." She had her arms folded. Her right foot was set a little forward, on its whole sole, and she was looking along the ledge as he had seen her look along a painted floor at Norhold before the bell. "It's the best ground on the whole mountain. It's rock from end to end. There isn't a plate on it."
+"And then down the other side to a ford, and a man counts out seventy." She had her arms folded. Her right foot was set a little forward, on its whole sole, and she was looking along the ledge. "It's the best ground on the whole mountain. It's rock from end to end. There isn't a plate on it."
 
 "It's six feet wide."
 

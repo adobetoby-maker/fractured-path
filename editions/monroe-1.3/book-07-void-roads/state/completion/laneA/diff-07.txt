@@ -1,0 +1,20 @@
+89c89
+< Cael did not understand it for the space of a breath, and then he did, and the hair stood on his arms. It was no threat, for Pike would write it, exactly, as he wrote everything. He would put down that a captain said eleven dry, and beside it that a witness at the landing had marked ten; and then he would stand up and say both to two hundred people, and say them again when the ink was on. It would be in the book for as long as there was a book, and every hirer who ever asked about that crew would be told that its captain had once stood at this plank and argued with a mark.
+---
+> Cael did not understand it, and then he did, and the hair stood on his arms. It was no threat, for Pike would write it, exactly, as he wrote everything. He would put down that a captain said eleven dry, and beside it that a witness at the landing had marked ten; and then he would stand up and say both to two hundred people, and say them again when the ink was on. It would be in the book for as long as there was a book, and every hirer who ever asked about that crew would be told that its captain had once stood at this plank and argued with a mark.
+157c157
+< Pike looked at him twice, with the same look that had followed him down the meadow on the fourteenth day.
+---
+> Pike looked at him twice.
+257c257
+< That was all. Nobody at that table spoke of it again, that night or for a long time after. Seln lifted his hand from the edge of the hide. Then he took the skin by two of its corners and turned it on the boards, a half circle, so that the ring with the bar through it lay nearest the door, and everything else that a carter had drawn in twenty-two years ran away from them toward the hearth.
+---
+> Nobody at that table spoke of it again, that night or for a long time after. Seln lifted his hand from the edge of the hide. Then he took the skin by two of its corners and turned it on the boards, a half circle, so that the ring with the bar through it lay nearest the door, and everything else that a carter had drawn in twenty-two years ran away from them toward the hearth.
+345c345
+< *That one first*, he thought. He ought always to have been first. The one a man finds on his second pass is the one he should have looked for on the first, and Teague entered it against himself, as a thing to be remembered on a road.
+---
+> *That one first*, he thought. He ought always to have been first. The one a man finds on his second pass is the one he should have looked for on the first, and Teague marked it against himself, as a thing to be remembered on a road.
+373c373
+< That was the item he could not rule on. He set it apart.
+---
+> He could not rule on that item, and he set it apart.

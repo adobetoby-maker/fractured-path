@@ -82,7 +82,7 @@ Nothing happened for the space of four breaths, and he had time to think that th
 
 Then the middle one of the three on the far beach lowered its head and walked into the river.
 
-The two beside it went in after it. They did not go abreast; they fell in behind, one and then the other, in its wake, as ducklings follow. He looked back across his shoulder. On the near beach not one of the three had stirred a foot. Nothing on that side had gone first, and so nothing there had gone at all, and he put that by to think about when he had the time.
+The two beside it went in after it. They did not go abreast; they fell in behind, one and then the other, in its wake, as ducklings follow. He looked back across his shoulder. On the near beach not one of the three had stirred a foot. Nothing on that side had gone first, and so nothing there had gone at all.
 
 They came across the far channel in a line.
 
@@ -214,7 +214,7 @@ It cost more than it had at the wash. She felt it go through her from the heels 
 
 Up at the head of the bar, the big fool declared.
 
-She saw the grey of it at the edge of her eye, and she felt the discharge, as she had felt it a hundred times across a harness room; it was as though the weight of him had doubled. He had done it exactly on the count. She had never known him early or late for anything.
+She saw the grey of it at the edge of her eye, and she felt the discharge; it was as though the weight of him had doubled. He had done it exactly on the count. She had never known him early or late for anything.
 
 Both heads went round.
 
@@ -282,7 +282,7 @@ She had one thing to say, and she picked it with care. There were dogs still on 
 
 "I'm fine."
 
-He knew what that was worth, and she watched him know it. She held his eye until he let it stand.
+He knew what that was worth, and she watched him know it. She held his eye until he gave way.
 
 "Four left," she said. "Mine makes it four. Somebody ought to keep the count." She pointed past him with the knife, since her hand was shaking too much to point with anything smaller. "Behind you."
 

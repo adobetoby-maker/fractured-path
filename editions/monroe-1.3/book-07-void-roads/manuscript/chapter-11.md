@@ -168,7 +168,7 @@ He had written it in Hesk's book a dozen times, and had never before stood in it
 
 The torn ear came round in its own length.
 
-That was how it had turned beside a white stone, by the reading of the ground, and that was how it turned now. It had waited the whole evening for something to come to it, and something had; and it was the first to move. Beyond it, up the bar, he saw two grey shapes wheel together and come after.
+It had waited the whole evening for something to come to it, and something had; and it was the first to move. Beyond it, up the bar, he saw two grey shapes wheel together and come after.
 
 It took his left calf.
 
@@ -318,7 +318,7 @@ His own leg was the least of it. The teeth had gone in at the outside of the cal
 
 "Clean through the meat," she said, turning it to the light. "You've had the luck of the four."
 
-She came to Seln last. He sat on a sack in Brom's coat, with his wet hair on end, and she looked him over once, and then again more closely, as one looks at a ewe that ought to be lame.
+She came to Seln last. He sat on a sack in Brom's coat, with his wet hair on end, and she looked him over as one looks at a ewe that ought to be lame.
 
 "And what's wrong with you?"
 

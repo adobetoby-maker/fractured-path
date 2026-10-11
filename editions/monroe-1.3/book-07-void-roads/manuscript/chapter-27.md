@@ -148,7 +148,7 @@ Karis had her notebook open, and her pencil was not moving. Cael knew what that 
 
 "That's what it'd have to be. Nobody can tell me who, or when, or what was broken." She shrugged, heavily. "A hold keeps what it needs of a thing. It needed *don't*. It didn't need the rest, so the rest is gone."
 
-Karis wrote that down, and underlined nothing. He saw her look at what she had written, and then at the dark beyond the firelight to the east, with an expression that he knew. She had been given a rule, and under the rule there had once been a finding, and somebody had thrown the finding away.
+Karis wrote that down, and underlined nothing. He saw her look at what she had written, and then at the dark beyond the firelight to the east.
 
 "The day after tomorrow," she said, half to herself, "there will be six of us who saw it. I mean to write down who."
 
@@ -252,7 +252,7 @@ The mule had settled the matter of the line for herself an hour before. She had 
 
 "She's nothing in her for it to take." Oryn had the rein, and she stood looking at her animal's four small hooves with an expression that Cael could not read. "I've walked her round this place thirty times, by the ruts, because I was told to. I never once thought to ask what she'd have done if I'd let her choose."
 
-Shadow lifted then, as it lifted at every dusk. Cael felt it come up soft behind the other eight, as it had come up beside a turf fire on the fifth day and at a ford on the fifty-third, offering to take him out of the light; and he told it no. It had come at the turn of the ruts as it came anywhere. He wondered whether it would have come a stride beyond the stone, and thought that he knew, and did not go to see.
+Shadow lifted then, as it lifted at every dusk. Cael felt it come up soft behind the other eight, offering to take him out of the light; and he told it no. It had come at the turn of the ruts as it came anywhere. He wondered whether it would have come a stride beyond the stone, and thought that he knew, and did not go to see.
 
 He walked up to the crest once more before he lay down, since he wished to see the place with the day going off it.
 

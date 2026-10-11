@@ -24,7 +24,7 @@ He looked for the wall first, since every town he had ever entered had kept one,
 
 "I do not think one does, here."
 
-A cable ran over the river, bank to bank, sagging to the water in the middle. The old man had gone down to a post at the road's foot and was pulling on a cord, and after a while the flat boat on the far side began to move, though nobody was rowing it.
+A cable ran over the river, bank to bank, sagging to the water in the middle. The old man had gone down to a post at the road's foot and was pulling on a cord, and the flat boat on the far side began to move, though nobody was rowing it.
 
 It took them the better part of an hour to work out how. The boat was a scow, square at both ends, with a rail, and it hung on the cable by two running blocks; a second rope went from its bow to a round shed on the far bank, open at the sides, and inside that shed something walked in a circle. When it walked, a drum turned and the rope came in. When it stopped, which it did every few turns, a man's voice came across the water, patient and tired, and after a while it went on again.
 
@@ -54,7 +54,7 @@ The old man had gone straight to the ash. He drew his two mules into its shade a
 
 It smelled of mules, and tar, and of something frying. A woman went between the tents with a board on her head and flat loaves stacked on the board; a man sat cross-legged in the grass with a harness across his knees, driving an awl through it with the heel of his hand. Three children and a yellow dog were trying to get a goat to go somewhere it had decided against. After nine days of ridges and a river, it seemed to Cael as loud as a city.
 
-There were fires here, and he saw it almost at once, and felt Karis see it beside him, for her pencil came out of the spine of her notebook. There were cook-fires at half the tents, and a woman frying something over one, and smoke lying along the river in a low blue shelf. People were talking, too, in ordinary voices, and somebody laughed aloud. Down by the smithy a man was holding the end of an iron bar across the anvil with his bare forearm, and the arm was grey to the elbow, and nobody round him so much as turned to look.
+There were fires here, and he felt Karis see it beside him, for her pencil came out of the spine of her notebook. There were cook-fires at half the tents, and a woman frying something over one, and smoke lying along the river in a low blue shelf. People were talking, too, in ordinary voices, and somebody laughed aloud. Down by the smithy a man was holding the end of an iron bar across the anvil with his bare forearm, and the arm was grey to the elbow, and nobody round him so much as turned to look.
 
 "So it is the road," said Karis, very low, writing. "It isn't a rule about fire, or about speaking, or about a Path. It's a rule about doing any of them on a road. Here they do all three." She underlined something. "That's narrower than I had it. I don't know that it's any clearer."
 
@@ -192,7 +192,7 @@ Pike looked at them for the third time, and the fourth.
 
 "I've forty headings in this book," he said, "and every one's a name. One name. A man, or a woman, and whoever walks with them." He scratched his jaw with the feather end of the pen. "Well. It'll be five names, then. It takes more ink. Say them slow, and I'll write what I hear."
 
-They said them, Lira as she would have given hers to a registrar, and Brom as he would have told the hour, and Karis spelled hers out letter by letter. Then there was a gap, no longer than a breath, and Cael knew whose it was without turning his head.
+They said them, Lira as she would have given hers to a registrar, and Brom as he would have told the hour, and Karis spelled hers out letter by letter. Then there was a gap, and Cael knew whose it was without turning his head.
 
 A man who had been posted from town to town for fifteen years had been written into a book in every one of them, always by some other hand, and under a grade.
 
@@ -238,7 +238,7 @@ She had been turning it over since the plank. She sat with her arms round her kn
 
 "I had it ready. I've had it ready for a year. *Wind. Iron, Rank One.* I've a certificate for it in this coat, with a seal, and I thought he'd want to see that before he'd so much as write my name." She shook her head. "He wrote my name and went to his dinner."
 
-"I'd mine ready as well," said Brom. "Copper. For good, and I can say why." He turned his big hands over. "And then the man with the book's a Copper himself, and he says it the way I'd say I was tall."
+"I'd mine ready as well," said Brom. "Copper. For good, and I can say why. And then the man with the book's a Copper himself, and he says it the way I'd say I was tall."
 
 "Iron, Rank Three," said Karis. "Certified, and retained. I've not had it counted since a counter, and I find that I expected him to count it." She considered. "I think I was looking forward to his declining."
 

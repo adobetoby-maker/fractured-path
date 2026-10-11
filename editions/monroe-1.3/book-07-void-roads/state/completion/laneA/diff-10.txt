@@ -1,0 +1,12 @@
+85c85
+< The two beside it went in after it. They did not go abreast; they fell in behind, one and then the other, in its wake, as ducklings follow. He looked back across his shoulder. On the near beach not one of the three had stirred a foot. Nothing on that side had gone first, and so nothing there had gone at all, and he put that by to think about when he had the time.
+---
+> The two beside it went in after it. They did not go abreast; they fell in behind, one and then the other, in its wake, as ducklings follow. He looked back across his shoulder. On the near beach not one of the three had stirred a foot. Nothing on that side had gone first, and so nothing there had gone at all.
+217c217
+< She saw the grey of it at the edge of her eye, and she felt the discharge, as she had felt it a hundred times across a harness room; it was as though the weight of him had doubled. He had done it exactly on the count. She had never known him early or late for anything.
+---
+> She saw the grey of it at the edge of her eye, and she felt the discharge; it was as though the weight of him had doubled. He had done it exactly on the count. She had never known him early or late for anything.
+285c285
+< He knew what that was worth, and she watched him know it. She held his eye until he let it stand.
+---
+> He knew what that was worth, and she watched him know it. She held his eye until he gave way.

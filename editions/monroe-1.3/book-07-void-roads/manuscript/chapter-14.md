@@ -10,7 +10,7 @@ A boy ran with it to the round shed.
 
 "The smith. The smith." He laid that one aside. "The hide-woman's two, from the turf fire, and somebody's paid the carriage. The hide-woman's two."
 
-She came and took it herself, and Cael knew her broad dusty back, and the long knife on her thigh. As she turned away she saw four people in linen under the eave, and she stopped, and looked at Cael for a breath with her head a little on one side, as she had looked at him across a wash. Then she tucked her letter into her bodice and went.
+She came and took it herself, and Cael knew her broad dusty back, and the long knife on her thigh. As she turned away she saw four people in linen under the eave, and she stopped, and looked at Cael with her head a little on one side. Then she tucked her letter into her bodice and went.
 
 There was one for the old man under the ash, who walked up for it slowly and held it as a thing that might be hot, for he had no letters. Pike told him, so that nobody else could hear, to come back at dusk and it would be read to him, and the old man nodded, and carried it away unopened.
 
@@ -172,11 +172,11 @@ He leaned over the curb, which smelled of wet stone and of nothing else, and he 
 
 There was a spot of candle-grease on the inner edge of the curb, so fresh that the dust had not yet greyed it. On the curb lay a flat stone; and when he lifted the stone he came on a stub of candle beneath it, tied to a long string with a knot at every yard.
 
-He looked round, and Seln stood at the edge of the halting-ground with his hands behind him, studying the hills; so Cael put the stone back where it had been.
+He looked round, and Seln stood at the edge of the halting-ground, studying the hills; so Cael put the stone back where it had been.
 
 "I have a page on this," said Karis.
 
-She had come up beside him, and she was looking down the shaft with an expression he had not seen on her since a barn.
+She had come up beside him, and she was looking down the shaft hungrily.
 
 "It's in the middle box, over a ferryman's horse, and I couldn't hold it if it were here; but I know it by heart. It was a lecture on the works of towns, on wells, and drains, and cellars, and I copied it because nobody else in the room was troubling to." She put her bound hands on the curb. "It's the one leaf in three boxes that is as true on this side as on the other."
 
@@ -230,7 +230,7 @@ He went down it the next morning, on the rope, and it was the first argument Sel
 
 "That is so. I do not like it any the better."
 
-They tried the candle first, and it burned to the water. He hung it on its own string, a yard below his boots, where he could watch it between his feet; and Karis leaned over the curb above him with her white hands on the stone.
+They tried the candle first, and it burned to the water. He hung it on its own string, a yard below his boots, where he could watch it between his feet; and Karis leaned over the curb above him.
 
 "I shall count," she said. "Aloud, by tens, and you'll answer every ten. If you miss one, they wind, and I shan't call it a second time."
 
@@ -368,7 +368,7 @@ She went.
 
 He counted. He was doing it before he knew, as he counted everything, the strides and the breaths between them; and by the end of the first sixty yards he had the whole of it. Her left leg did what it had always done. Her right came down a little short, and the push from it arrived a shade behind where it ought to be, so that every second stride began a little after she had meant it to.
 
-She came back up the bar with her hands on her hips.
+She came back up the bar.
 
 "It bends less, and later," she said.
 

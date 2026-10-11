@@ -1,0 +1,32 @@
+11c11
+< She did not turn round to say it. She stood before the left-hand post with her head a little on one side, reading a second time, and her lips moved at the figure.
+---
+> She did not turn round to say it. She stood before the left-hand post with her head a little on one side, and her lips moved at the figure.
+53c53
+< He went along the whole plank afterward, from the left-hand post to the right, as he had gone along it on the ninth day and on the forty-ninth.
+---
+> He went along the whole plank afterward, from the left-hand post to the right.
+55c55
+< There were fourteen slips. He gave each the same attention, the bark and the hide and the two shingles, and he sorted them as he read, as he had once sorted a board in Ardenmere by what each card would cost him. There was a fence to be set for a steading on the north water, at five marks, and a wheel to be fetched for a carter on the south road, and hay to be got in at the upper inn for a mark and the loft to sleep in. A string of mules wanted walking westward to the turf fire, and that slip he passed over without stopping.
+---
+> There were fourteen slips. He gave each the same attention, the bark and the hide and the two shingles, and he sorted them as he read. There was a fence to be set for a steading on the north water, at five marks, and a wheel to be fetched for a carter on the south road, and hay to be got in at the upper inn for a mark and the loft to sleep in. A string of mules wanted walking westward to the turf fire, and that slip he passed over without stopping.
+59c59
+< The first was the plainest, which was that it paid. Seventy marks was more than Pike's book had counted out to them in six lines, and the crew was still four hurts short of whole.
+---
+> The first was the plainest: it paid. Seventy marks was more than Pike's book had counted out to them in six lines, and the crew was still four hurts short of whole.
+71c71
+< He wanted that job more than he had wanted the forty. It surprised him, and he entered it as a want, since Hesk had taught him that a figure left out of a sum did not thereby cease to be owed.
+---
+> He wanted that job more than he had wanted the forty. It surprised him, and he did not hide it from himself, since Hesk had taught him that a figure left out of a sum did not thereby cease to be owed.
+103c103
+< Cael looked back from the ash. The eave was sixty yards behind him, and under it two men stood at the far end of the plank, where the oak ran out past the right-hand post. One of them had a book under his arm. The other had his hands clasped behind him and his head bent, as a clerk stands who has come to ask for the loan of a file. He was talking, low, and Pike was listening with his chin down.
+---
+> Cael looked back from the ash. The eave was sixty yards behind him, and under it two men stood at the far end of the plank, where the oak ran out past the right-hand post. One of them had a book under his arm. The other stood with his head bent, as a clerk stands who has come to ask for the loan of a file. He was talking, low, and Pike was listening with his chin down.
+185c185
+< So he drew, and the two in the shafts had little to do but steer. They went over the saddle with the sun behind them and down into the grey scrub by a road they had walked five times, past the wash, which was dry and red, and they made their camp at the thorn stump on its eastern lip, as they had on the fifty-ninth night.
+---
+> So he drew, and the two in the shafts had little to do but steer. They went over the saddle with the sun behind them and down into the grey scrub by a road they had walked five times, past the wash, which was dry and red, and they made their camp at the thorn stump on its eastern lip.
+251c251
+< He had slipped the rope from his shoulder, and he stood with his head back and his mouth a little open, looking at two hundred yards and more of stone that would slide if a goat sneezed on it. Cael knew that face. He had seen it turned on a wagon in a wash with three wheels and a river coming.
+---
+> He had slipped the rope from his shoulder, and he stood with his head back and his mouth a little open, looking at two hundred yards and more of stone that would slide if a goat sneezed on it.

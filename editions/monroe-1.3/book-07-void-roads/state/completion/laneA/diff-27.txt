@@ -1,0 +1,8 @@
+151c151
+< Karis wrote that down, and underlined nothing. He saw her look at what she had written, and then at the dark beyond the firelight to the east, with an expression that he knew. She had been given a rule, and under the rule there had once been a finding, and somebody had thrown the finding away.
+---
+> Karis wrote that down, and underlined nothing. He saw her look at what she had written, and then at the dark beyond the firelight to the east.
+255c255
+< Shadow lifted then, as it lifted at every dusk. Cael felt it come up soft behind the other eight, as it had come up beside a turf fire on the fifth day and at a ford on the fifty-third, offering to take him out of the light; and he told it no. It had come at the turn of the ruts as it came anywhere. He wondered whether it would have come a stride beyond the stone, and thought that he knew, and did not go to see.
+---
+> Shadow lifted then, as it lifted at every dusk. Cael felt it come up soft behind the other eight, offering to take him out of the light; and he told it no. It had come at the turn of the ruts as it came anywhere. He wondered whether it would have come a stride beyond the stone, and thought that he knew, and did not go to see.

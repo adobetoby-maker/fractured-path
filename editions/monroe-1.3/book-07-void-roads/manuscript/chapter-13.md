@@ -76,7 +76,7 @@ They camped the second night on the flat above the wash, beside the thorn stump,
 
 It had been a slow day. The carter would not take his mule faster than the worst leg in the party, and that was sometimes Cael's and sometimes the cart's own, for a hind wheel had begun to talk. In the middle of the afternoon the tail had slid in a wet rut, toward Brom, and he had caught the rail before it could go over.
 
-He had caught it with his left hand. Cael had seen that, and had seen his face afterward, and had put it by for the evening.
+He had caught it with his left hand. Cael had seen that, and had seen his face afterward.
 
 The sun went, and the cold came up out of the wash, and Lira pulled her blanket to her chin.
 
@@ -90,7 +90,7 @@ She sat with her back against a box and her two hands in her lap. The woman had 
 
 "It says so in the first sentence."
 
-Nobody moved at once. They had not had a fire on a road since the sixth day, when an old man asked Cael what he was; and he looked now at the dead wood lying under the scrub, twenty feet off, which not one of them had so much as glanced at for fifty days.
+Nobody moved. They had not had a fire on a road since the sixth day, when an old man asked Cael what he was; and he looked now at the dead wood lying under the scrub, twenty feet off, which not one of them had so much as glanced at for fifty days.
 
 It was his ruling, and he could not put it on Karis.
 
@@ -128,7 +128,7 @@ Lira laughed, for the first time since a loft.
 
 "I'll not do it by myself," said the carter. "I'm telling you that now. I'll do it with five that's been down to that ford, and I'll not do it else." He turned his hands over to warm the backs. "But I'll do it tonight."
 
-Cael thought that it was the first thing the finding had bought them, and that it had been paid for at a ford; and he held his own hands a little nearer the flame on the strength of it.
+It was the first thing the finding had bought them, and Cael held his own hands a little nearer the flame on the strength of it.
 
 Karis had been looking across the fire.
 
@@ -188,7 +188,7 @@ She raised her head, and she was looking at Cael.
 
 Nobody answered her.
 
-Brom's mouth opened, and shut again. He had a question of his own that was first cousin to hers, and he had been carrying it since a jug; Cael could see him hold it up beside hers and conclude that it did not fit. Karis could have given an answer by method, with a table in it, and she had the sense to know that it was not what had been asked. Seln looked at his hands.
+Brom's mouth opened, and shut again. He had a question of his own that was first cousin to hers, and he had been carrying it since a jug; Cael could see him hold it up beside hers and conclude that it did not fit. Karis could have given an answer by method, with a table in it, and she had the sense to know that it was not what had been asked.
 
 Cael did not answer either, and it was not for want of something to say.
 
@@ -226,7 +226,7 @@ She thought about that, turning the stick.
 
 There were fourteen slips on the plank.
 
-He counted them twice, since eleven days ago he had hardly been able to see the oak for paper. The dry roads had done the reverse of what they had done before; crews had gone out by all five roads and taken their slips with them, and the meadow was down to nine tents and a few carts under the ash. The tarred wood showed its tack-holes again in drifts, and by the right-hand post there was a clean place the size of a hand.
+Eleven days ago he could hardly see the oak for paper. The dry roads had done the reverse of what they had done before; crews had gone out by all five roads and taken their slips with them, and the meadow was down to nine tents and a few carts under the ash. The tarred wood showed its tack-holes again in drifts, and by the right-hand post there was a clean place the size of a hand.
 
 It was the middle of the morning on the sixtieth day. They had crossed the wash at first light, with Brom walking wide of the cart and both hands behind his back, and they had come over the saddle slowly. Pike was not at his plank, and the book was not out; a boy at the nearest fire said that he was down at the landing, since the ferry had brought a sack.
 

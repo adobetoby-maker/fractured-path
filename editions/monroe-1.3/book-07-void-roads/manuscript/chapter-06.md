@@ -32,7 +32,7 @@ He seemed to think that covered it, and he led the mule away toward the barn.
 
 Cael looked at Karis. She had the notebook out at last; it had come out of her coat the moment the bar dropped, as though it had been on a spring. She wrote one word at the head of a clean leaf, and looked at it, and drew a single line beneath it. Then she looked up at the woman with the lantern, and he saw the second question arrive in her face, whole, with its grammar. It was the question of what a thing like that could be waiting for.
 
-She shut her mouth on it. He was close enough to see what that cost her, and it was a good deal more than a pencil had.
+She shut her mouth on it. He was close enough to see the effort.
 
 The woman had been looking at the cart. She lifted the edge of the small canvas and saw three roped boxes on top of her grain, with a paper tag on each. She let the canvas down. Then she raised the lantern a little, for the first time, and went over the five of them with it, their boots and their coats and the cut of Lira's hair, and stopped at Cael.
 
@@ -102,7 +102,7 @@ Lira saw it. She went red to the ears and ran the whole fence again.
 
 "No. They teach the other. Every school west of the Line gives you a rank for declaring quicker than the next person, and none of them has a word for this." He watched Lira go round. "We call it the hold. We're having to find it out for ourselves."
 
-She gave him a long look, the same that she had given him over a lantern, and went in.
+She gave him a long look, and went in.
 
 Karis spent that day and the next with one leaf.
 
@@ -136,7 +136,7 @@ Seln had stood at that distance outside a great many doors. He had stood there f
 
 *Subject animal kept station on the party at forty-five yards for something over half a mile, without approach. Halted one hundred and ten yards from the hold's gate and remained until the gate was barred. Withdrew at a walk by the line of its coming. It was waiting upon a signal. The signal was not given. This officer does not know what the signal is.*
 
-That was the form, and it had made itself without his leave, as it did. He read the last sentence over. He had written *nothing further to report* at the foot of seven hundred returns, and he had never before written that he did not know a thing. It had always been possible to leave such matters out.
+The form had made itself without his leave, as it did. He read the last sentence over. He had written *nothing further to report* at the foot of seven hundred returns, and he had never before written that he did not know a thing. It had always been possible to leave such matters out.
 
 There were three ways out of Thornwater. He had known that from the loft door on the first morning, and he had taken them one at a time, at this hour only.
 
@@ -174,7 +174,7 @@ It was in the square black hand. Cael read it standing in the yard, with the oth
 
 "I'm not complaining. I'd have counted it myself."
 
-Lira read it twice with her lips moving, and then looked up.
+Lira read it with her lips moving, and then looked up.
 
 "Is it wrong?"
 

@@ -22,7 +22,7 @@ They went over with the Oxhollow cart, a copper a wheel and a copper a beast out
 
 The meadow had thinned, for the cold had sent most of the tents home, and there were five fires where there had been a dozen; but the long eave was where it had always been, and under it twelve feet of tarred oak, and behind the oak a bald brown head bent over a book.
 
-Pike saw them from the landing road. He looked at a strange cart with three boxes on it, and at a girl in one boot of her own and one the size of a bucket, and at how Cael held his left arm; and then he looked at all of it a second time, as he did.
+Pike saw them from the landing road. He looked, twice over, at a strange cart with three boxes on it, and at a girl in one boot of her own and one the size of a bucket, and at how Cael held his left arm.
 
 "You're down," he said.
 
@@ -98,7 +98,7 @@ Pike wrote, and the pen went to the horn pot and came back four times. When the 
 
 "Fair."
 
-It was Brom who said it. He had come up to the oak, with his two hands hanging open, and he was looking at the small words under the line as he had looked at a smith's cut axle.
+It was Brom who said it. He had come up to the oak, and he was looking at the small words under the line as he had looked at a smith's cut axle.
 
 "It was his cart, and we brought him back a story about it. I'd have written it the same."
 
@@ -142,7 +142,7 @@ Pike's face stopped.
 
 Cael had no other word for it. He had watched that face for eighty days, and it was never still; it looked at a thing and then looked again, and something in it went on working like a mill between the two looks. Now the one arm lay on the book and the brown eyes rested on a sheet of cream paper, and nothing in the face moved at all.
 
-He counted, since he could no more have helped it than breathing, and it was nine before the man spoke.
+He counted, and it was nine before the man spoke.
 
 "That's the Fallow Ring."
 
@@ -200,8 +200,6 @@ She looked up at Pike.
 
 Cael looked at the three things lying side by side on the tarred oak. There was a leaf in his own hand that held a stranger's passing word, and a calfskin that a carter had drawn for his wheels over twenty-two years, and a cream sheet under a seal that he had first seen burned into the end of a cask.
 
-None of them had been meant for the others' company. The woman with the barley had never looked at her husband's map with a pencil in her hand, and the carter had certainly never read a broker's paper; and yet all three were speaking of one patch of grass, two days beyond a fence, as though they had agreed on it beforehand.
-
 "Why's it under your stone?" said Lira. "Everything else you've got is on a tack. You shout it at people."
 
 "I said it. I'm bound to say it; twice, the day it came, to the whole grass, with the price." He turned the cream sheet a little with one finger. "The broker's clerk brought it up from the landing the morning after the last sack, sealed as you see it, with a hundred marks in a bag, counted. I've had that seal on bales for thirty years. I never had it before on a slip that sends a crew two days past Thornwater."
@@ -224,7 +222,7 @@ A hundred marks was more than everything that the board had paid them in ninety 
 
 "The paper doesn't say. I've read it more than twice."
 
-Seln had not spoken at all. He stood at the plank's end with his hands behind him, and he had not yet troubled with the words; it was the sheet itself that he studied, where it lay, as a joiner studies a board.
+Seln had not spoken at all. He stood at the plank's end, and he had not yet troubled with the words; it was the sheet itself that he studied, where it lay, as a joiner studies a board.
 
 "I'll not mark it tonight," said Pike. "That's not a thing I'd say of a fence. Take it in with you, and put it on your boards, and look at it with a lamp. If you bring it me in the morning I'll say it and write your strokes." He pushed the paper across the oak with one finger, until it lay in front of Cael. "And if you don't, it goes back where it was."
 
@@ -246,7 +244,7 @@ The smith held out his hand, and Karis counted six thick coins into it, and he s
 
 "A hundred and eight," she said.
 
-It was done. Cael had carried that six since the seventy-first morning, as one carries a stone in a boot, and he waited to feel lighter and did not. The smith had gone back into his shed already, and presently the rasp began again. A cart was only a cart, and the man had been paid for it twice over; all the same there would be a clean place under that lean-to for a good while, and Brom stood looking at it with his hands hanging until Karis took him by the sleeve.
+It was done. Cael had carried that six since the seventy-first morning, as one carries a stone in a boot, and he waited to feel lighter and did not. The smith had gone back into his shed already, and presently the rasp began again. A cart was only a cart, and the man had been paid for it twice over; all the same there would be a clean place under that lean-to for a good while, and Brom stood looking at it until Karis took him by the sleeve.
 
 The account was square, as far as coin could square it. There remained a rope with no figure against it, and a line in a book that said *cart lost*, and neither of those could be paid off; they could only be added to, by whatever the five of them did next.
 

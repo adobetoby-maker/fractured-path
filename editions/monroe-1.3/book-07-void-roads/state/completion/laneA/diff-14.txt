@@ -1,0 +1,20 @@
+13c13
+< She came and took it herself, and Cael knew her broad dusty back, and the long knife on her thigh. As she turned away she saw four people in linen under the eave, and she stopped, and looked at Cael for a breath with her head a little on one side, as she had looked at him across a wash. Then she tucked her letter into her bodice and went.
+---
+> She came and took it herself, and Cael knew her broad dusty back, and the long knife on her thigh. As she turned away she saw four people in linen under the eave, and she stopped, and looked at Cael with her head a little on one side. Then she tucked her letter into her bodice and went.
+175c175
+< He looked round, and Seln stood at the edge of the halting-ground with his hands behind him, studying the hills; so Cael put the stone back where it had been.
+---
+> He looked round, and Seln stood at the edge of the halting-ground, studying the hills; so Cael put the stone back where it had been.
+179c179
+< She had come up beside him, and she was looking down the shaft with an expression he had not seen on her since a barn.
+---
+> She had come up beside him, and she was looking down the shaft hungrily.
+233c233
+< They tried the candle first, and it burned to the water. He hung it on its own string, a yard below his boots, where he could watch it between his feet; and Karis leaned over the curb above him with her white hands on the stone.
+---
+> They tried the candle first, and it burned to the water. He hung it on its own string, a yard below his boots, where he could watch it between his feet; and Karis leaned over the curb above him.
+371c371
+< She came back up the bar with her hands on her hips.
+---
+> She came back up the bar.

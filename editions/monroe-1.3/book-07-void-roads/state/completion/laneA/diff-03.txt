@@ -1,0 +1,16 @@
+13c13
+< Nobody spoke at once, and the gelding pulled at his net, loudly, as though to make the point for him.
+---
+> Nobody spoke, and the gelding pulled at his net, loudly, as though to make the point for him.
+91c91
+< The ferryman turned his head and looked at his own floor, which lay as level as water all the way round, and he went on looking at it for some time.
+---
+> The ferryman turned his head and looked at his own floor, which lay as level as water all the way round.
+145c145
+< He sat on one of the boxes, which he had carried up a ladder into the loft that afternoon and then carried down again for this, since Karis would not have the bag sealed out of her sight, and his hands hung between his knees.
+---
+> He sat on one of the boxes, which he had carried up a ladder into the loft that afternoon and then carried down again for this, since Karis would not have the bag sealed out of her sight.
+163c163
+< Lira looked at the fire for a while, and then she nodded, slowly.
+---
+> Lira looked at the fire, and then she nodded, slowly.

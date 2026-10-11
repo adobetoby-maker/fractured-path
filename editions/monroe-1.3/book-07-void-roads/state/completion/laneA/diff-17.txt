@@ -1,0 +1,23 @@
+15c15
+< He looked for the leader, and he did it without thinking, as he had done it at a ford with the light going. A pack had a first mover, and a crew had a captain, and every yard he had ever sat above had held one fighter round whom the rest arranged themselves. He went along the line from the east end to the west for the animal that the others watched.
+---
+> He looked for the leader without thinking. A pack had a first mover, and a crew had a captain, and every yard he had ever sat above had held one fighter round whom the rest arranged themselves. He went along the line from the east end to the west for the animal that the others watched.
+43c43
+< Karis stood looking at the ring for some time.
+---
+> Karis stood looking at the ring.
+137,138d136
+< He turned that over while the last of the plates ran out below. He had been watching one animal, on purpose, at the far end of a line three hundred yards long; and he had not seen the cause of what it did, and it had not seen the cause either, and it had moved all the same.
+< 
+237c235
+< Seln came back at dusk, and they had a fire again, since one of the three had been paid for.
+---
+> Seln came back at dusk, and they had a fire again, since one of the three had been struck off.
+239c237
+< He sat down a little behind the rest and held out his hands to it, and he let a full minute go by before he spoke, which was his way of saying that the thing bore.
+---
+> He sat down a little behind the rest and held out his hands to it, and he let a full minute go by before he spoke.
+259c257
+< Brom had said nothing since the slab. He had been working something out, with his big hands hanging between his knees, and he brought it up now as he brought up a stone from a well, slowly and whole.
+---
+> Brom had said nothing since the slab. He had been working something out, and he brought it up now as he brought up a stone from a well, slowly and whole.

@@ -1,0 +1,20 @@
+163c163
+< She said it at once, and then she frowned, since it had not been exact.
+---
+> She had said it too fast, and she frowned, since it had not been exact.
+215c215
+< Karis had come up at Cael's shoulder to see the bark; she could not take it, and so she read it where it lay in his hand, twice, with her lips.
+---
+> Karis had come up at Cael's shoulder to see the bark; she could not take it, and so she read it where it lay in his hand, with her lips.
+285c285
+< She could not even resent it, and she entered it in her head beside the rest. A road was the whole of what such a man owned. He knew which ford shifted and which hold cheated on a measure, and he was worth his hire exactly so long as other people did not know those things; one did not hand that to a stranger who would write it down and carry it away in a box.
+---
+> She could not even resent it. A road was the whole of what such a man owned. He knew which ford shifted and which hold cheated on a measure, and he was worth his hire exactly so long as other people did not know those things; one did not hand that to a stranger who would write it down and carry it away in a box.
+331c331
+< That was what the other way cost, and she made herself price it honestly, for it would have been easy to call it a triumph. One got exactly what one was given: she had three sentences, and no means in the world of cross-examining them, and their only witness was on her way east at a mule's pace.
+---
+> It would have been easy to call it a triumph. One got exactly what one was given: she had three sentences, and no means in the world of cross-examining them, and their only witness was on her way east at a mule's pace.
+357c357
+< She had him fold the leaf, and carry it into the barn, and lay it in the middle box, with the corner that was worn white. Then she sat on the tail-board with her hands in her lap, looking at the east gate.
+---
+> She had him fold the leaf, and carry it into the barn, and lay it in the middle box, with the corner that was worn white. Then she sat on the tail-board, looking at the east gate.

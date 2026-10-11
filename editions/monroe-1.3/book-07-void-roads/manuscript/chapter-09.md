@@ -44,7 +44,7 @@ Something in her face eased by the width of a hair.
 
 It was a long low room with a hearth across one end, and everybody in the hold was in it.
 
-Cael counted fourteen, from an old man asleep in the chimney corner to a child on somebody's knee. They sat down both sides of a trestle with bowls in front of them, and when five strangers came in under the lintel the talk dropped and did not rise again. A place had been left at the hearth end of the board; and on the settle beyond it sat a man with his right arm laid along a folded sack.
+There were fourteen, from an old man asleep in the chimney corner to a child on somebody's knee. They sat down both sides of a trestle with bowls in front of them, and when five strangers came in under the lintel the talk dropped and did not rise again. A place had been left at the hearth end of the board; and on the settle beyond it sat a man with his right arm laid along a folded sack.
 
 He was thirty-five or so, thin and brown, with three days of stubble on him. The arm was bound in clean linen from the tips of the fingers to the elbow, so thickly that it had no shape, and one of his legs was thrust out stiff before him. He did not shift it when they sat.
 
@@ -154,7 +154,7 @@ Seln moved the stick to the long shape in the middle of the river, and set its p
 
 "The seventh did not come down from any bank. It got up from here, where it had been lying on the gravel since before we arrived, among stones of its own colour, in the full light, with its chin on its feet; and it walked four yards to the far pool and drank, as the others had, dry-footed, and walked back and lay down."
 
-The lantern hissed, and for some time that was the only sound in the loft.
+The lantern hissed, and it was the only sound in the loft.
 
 "I ran at that," said Lira. Her voice had gone thin. "I ran at it three times."
 

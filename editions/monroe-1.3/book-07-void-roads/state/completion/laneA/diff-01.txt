@@ -1,0 +1,16 @@
+51c51
+< Karis woke more slowly. She put out one pale hand before her eyes were open, and it found the canvas and went along it to the knot over the middle box, and rested there. Then she sat up and asked what the clock said, and wrote the figure down before she had so much as looked at the sky.
+---
+> Karis woke more slowly. She put out one pale hand before her eyes were open, and it found the canvas and went along it to the knot over the middle box. Then she sat up and asked what the clock said, and wrote the figure down before she had so much as looked at the sky.
+63c63
+< That was fair. He lay down where she had been lying, in the warmth she had left on the turf, and he was asleep before she had finished with her second boot.
+---
+> He lay down where she had been lying, in the warmth she had left on the turf, and he was asleep before she had finished with her second boot.
+199c199
+< He looked at the last line a while. Then he added the other, which was getting to be a habit.
+---
+> Under it he added the other. It was getting to be a habit.
+241c241
+< It was Shadow, the one fragment of the nine that he kept sealed. He knew it at once, and he was ready, as he had been ready at every dusk since a door log in a wool exchange. It came up soft behind the other eight and offered him what it always offered, which was to make less of him. He told it no. He had told it no so many times that the word had worn smooth, and he was tired, with eleven miles in his legs, and he said it as a man says good night.
+---
+> It was Shadow, the one fragment of the nine that he kept sealed. He knew it, and he was ready, as he had been ready at every dusk since a door log in a wool exchange. It came up soft behind the other eight and offered him what it always offered, which was to make less of him. He told it no. He had told it no so many times that the word had worn smooth, and he was tired, with eleven miles in his legs, and he said it as a man says good night.

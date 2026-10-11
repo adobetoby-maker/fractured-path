@@ -1,0 +1,16 @@
+27c27
+< A cable ran over the river, bank to bank, sagging to the water in the middle. The old man had gone down to a post at the road's foot and was pulling on a cord, and after a while the flat boat on the far side began to move, though nobody was rowing it.
+---
+> A cable ran over the river, bank to bank, sagging to the water in the middle. The old man had gone down to a post at the road's foot and was pulling on a cord, and the flat boat on the far side began to move, though nobody was rowing it.
+57c57
+< There were fires here, and he saw it almost at once, and felt Karis see it beside him, for her pencil came out of the spine of her notebook. There were cook-fires at half the tents, and a woman frying something over one, and smoke lying along the river in a low blue shelf. People were talking, too, in ordinary voices, and somebody laughed aloud. Down by the smithy a man was holding the end of an iron bar across the anvil with his bare forearm, and the arm was grey to the elbow, and nobody round him so much as turned to look.
+---
+> There were fires here, and he felt Karis see it beside him, for her pencil came out of the spine of her notebook. There were cook-fires at half the tents, and a woman frying something over one, and smoke lying along the river in a low blue shelf. People were talking, too, in ordinary voices, and somebody laughed aloud. Down by the smithy a man was holding the end of an iron bar across the anvil with his bare forearm, and the arm was grey to the elbow, and nobody round him so much as turned to look.
+195c195
+< They said them, Lira as she would have given hers to a registrar, and Brom as he would have told the hour, and Karis spelled hers out letter by letter. Then there was a gap, no longer than a breath, and Cael knew whose it was without turning his head.
+---
+> They said them, Lira as she would have given hers to a registrar, and Brom as he would have told the hour, and Karis spelled hers out letter by letter. Then there was a gap, and Cael knew whose it was without turning his head.
+241c241
+< "I'd mine ready as well," said Brom. "Copper. For good, and I can say why." He turned his big hands over. "And then the man with the book's a Copper himself, and he says it the way I'd say I was tall."
+---
+> "I'd mine ready as well," said Brom. "Copper. For good, and I can say why. And then the man with the book's a Copper himself, and he says it the way I'd say I was tall."

@@ -128,7 +128,7 @@ She had gone very still, with the cord's end in her fist.
 
 Seln had come back down the line with his wand, and he stood over the stake and looked at it without bending. His mild face told Cael nothing whatever, and by now Cael knew that for a kind of news.
 
-Something in Cael had turned toward the thing as well. Anchor had asked about doorways for a year, and about every sill and rim on a mountain; it asked now, more quietly than it had ever asked, as one craftsman takes note of another's work. *There.* It was not a question. Here was a point that somebody else had fixed, and told to stay, and it had stayed.
+Something in Cael had turned toward the thing as well. Anchor asked now, more quietly than it had ever asked, as one craftsman takes note of another's work. *There.* It was not a question. Here was a point that somebody else had fixed, and told to stay, and it had stayed.
 
 He put that down, and looked at what was left.
 
@@ -206,7 +206,7 @@ She turned her head and looked across the grass to the east, where eleven broken
 
 "From any mark on it to the middle is ten cords. I can work that without a table. Ten cords from this stone, on the old line of the road, and one would be standing in the centre of those."
 
-Then she said one thing more, without any weight, as she had once read out the width of a shelf.
+Then she said one thing more, without any weight.
 
 "A circle is a made shape."
 
@@ -226,7 +226,7 @@ Cael went after him, and they stood over the iron together. In the full light it
 
 "Thirty-one."
 
-"I do not know what the number counts, and I shall not guess." Seln rose. He stood with his hands behind him and looked from the stake to the ring, and back along the line of turfs to the stone, as he would have looked over a room that somebody had left in a hurry. "It stands a boot's width from where she stopped. She found that place with her feet, this morning, knowing nothing. Whoever drove this found the same place to the same boot's width."
+"I do not know what the number counts, and I shall not guess." Seln rose. He looked from the stake to the ring, and back along the line of turfs to the stone, as he would have looked over a room that somebody had left in a hurry. "It stands a boot's width from where she stopped. She found that place with her feet, this morning, knowing nothing. Whoever drove this found the same place to the same boot's width."
 
 "With a cord," said Cael.
 

@@ -1,0 +1,12 @@
+23c23
+< But Seln went on looking up the slope, with his mild face lifted and his hands quite still on the shaft, and Cael saw that he liked the quiet no better than he had liked the eighth narrowing. He had chosen every place they slept on that mountain, and he had not wished to sleep in this one's middle.
+---
+> But Seln went on looking up the slope, with his mild face lifted, and Cael saw that he liked the quiet no better than he had liked the eighth narrowing. He had chosen every place they slept on that mountain, and he had not wished to sleep in this one's middle.
+141c141
+< He had perhaps a count of two, and he spent it as he had spent a breath on a gravel bar, pricing.
+---
+> He had perhaps a count of two, and he spent the whole of it pricing.
+249c249
+< The rock was a gift. It was dry under its roof, and rimed along the outer half where the roof stopped, so she kept in, close under the wall, as she had promised a fire that she would. Her left foot struck and her right came after it. She had the count in her legs. Forty. Fifty. The gorge went by on her right hand, blue and enormous, and she gave it none of her attention; she was reading the shelf five yards ahead of her toes, for cracks and for colour, as she had read a sprung floor.
+---
+> The rock was a gift. It was dry under its roof, and rimed along the outer half where the roof stopped, so she kept in, close under the wall, as she had promised a fire that she would. Her left foot struck and her right came after it. She had the count in her legs. Forty. Fifty. The gorge went by on her right hand, blue and enormous, and she gave it none of her attention; she was reading the shelf five yards ahead of her toes, for cracks and for colour.

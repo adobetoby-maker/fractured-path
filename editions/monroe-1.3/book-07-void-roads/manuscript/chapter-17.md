@@ -12,7 +12,7 @@ The head was small for such a body, and carried at the height of a man's knee. I
 
 It was. Along the upper shelf, east of the last animal, the stone was scoured pale in a band as wide as the shelf itself, and ahead of the first it was dark and furred. They were mowing it.
 
-He looked for the leader, and he did it without thinking, as he had done it at a ford with the light going. A pack had a first mover, and a crew had a captain, and every yard he had ever sat above had held one fighter round whom the rest arranged themselves. He went along the line from the east end to the west for the animal that the others watched.
+He looked for the leader without thinking. A pack had a first mover, and a crew had a captain, and every yard he had ever sat above had held one fighter round whom the rest arranged themselves. He went along the line from the east end to the west for the animal that the others watched.
 
 There was none. No head was turned toward any other. Each of the thirty faced the rock in front of its own beak, and the gaps between them were so nearly equal that he could have laid Karis's cord in any one of them and found the same knot in the next.
 
@@ -40,7 +40,7 @@ Seln had found the second overhang, and he had found it directly beneath the mid
 
 It was deeper than the first, a long low cave of a place where a bed of softer stone had weathered back, and from its mouth the whole line of the upper shelf could be seen against the evening sky. He had laid a ring of stones on its floor, and put nothing in the ring.
 
-Karis stood looking at the ring for some time.
+Karis stood looking at the ring.
 
 "I want a fire," she said.
 
@@ -133,8 +133,6 @@ Then he heard it. It was a long grinding rush, like a load of slates shot off a 
 "There," said Lira, who was up on her elbows. "Under the last one, at this end. Look."
 
 A piece of the upper shelf had gone. He could see the scar, pale and sharp-edged, where a slab as big as a barn door had been lying along the lip, and the slab itself was sliding still, far down the face, breaking as it went. The easternmost animal stood above the place with its hindquarters low and its legs spread wide, for it had been standing on the thing when it went.
-
-He turned that over while the last of the plates ran out below. He had been watching one animal, on purpose, at the far end of a line three hundred yards long; and he had not seen the cause of what it did, and it had not seen the cause either, and it had moved all the same.
 
 "What did you see?" said Karis. Her eyes were still on the hill, and her voice was very quiet, and it had something in it that made the hair lift on his arms. "Each of you, in order. Cael."
 
@@ -234,9 +232,9 @@ He took out the book and wrote it, with the day at the head: the plates he had b
 
 ---
 
-Seln came back at dusk, and they had a fire again, since one of the three had been paid for.
+Seln came back at dusk, and they had a fire again, since one of the three had been struck off.
 
-He sat down a little behind the rest and held out his hands to it, and he let a full minute go by before he spoke, which was his way of saying that the thing bore.
+He sat down a little behind the rest and held out his hands to it, and he let a full minute go by before he spoke.
 
 "The shelf narrows," he said. "I have been within sight of the end of it. For the next eight of your hundreds it is much as you have had it. After that there are places where the hill comes down to the edge and leaves less room, and I counted eight of them. The eighth I did not like."
 
@@ -256,7 +254,7 @@ Lira had been lying on her back with her right foot propped on a box. She sat up
 
 She lay down again without answering, and there was the beginning of a smile about her mouth.
 
-Brom had said nothing since the slab. He had been working something out, with his big hands hanging between his knees, and he brought it up now as he brought up a stone from a well, slowly and whole.
+Brom had said nothing since the slab. He had been working something out, and he brought it up now as he brought up a stone from a well, slowly and whole.
 
 "So it needn't be on purpose," he said.
 
