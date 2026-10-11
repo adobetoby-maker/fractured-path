@@ -10,11 +10,13 @@ At the top the house was emptying: the outer court was full of carts, and the lo
 
 He went through to the north wall, because that was where he went, and sat on the coping by the third buttress, and watched the carts go down.
 
-It took them until the light was going, a slow line down the switchbacks with the trunks swaying and the wheels loud on the turns, and at the foot of the road the coats stepped back against the chandler's wall to let them by. On the river the ferry made its crossing, and came back empty, and crossed again full. Four hundred and thirty enrollees lived on the bluff, and by dusk perhaps forty of them were left.
+It took them until the light was going, a slow line down the switchbacks with the trunks swaying and the wheels loud on the turns, and at the foot of the road the coats stepped back against the chandler's wall to let them by. On the river the ferry made its crossing, and came back empty, and crossed again full. Four hundred and thirty enrollees lived on the bluff, and by dusk forty-one of them were left.
 
-Four of the forty had signed their slips together, at the wing's counter, that morning before they went down.
+Four of the forty-one had signed their slips together, at the wing's counter, that morning before they went down.
 
 The slips were the house's ordinary form for the recess, half a sheet, with a printed line for the enrollee's name and a printed line under it that said *Remaining in residence. Reason:*. Lira had written *the program*, and Brom *the frames*, and Karis had written *research standing, per council*, in her small upright hand, with the date of the council's sitting after it, because she could not leave a reason uncited. Cael had stood at the counter with the pen for a while and then written *the proceedings*.
+
+It was the plainest reason of the four. Since the year's eighth day the registry had had a petition before its seat in the town below, asking that he be stood in a frame and read again. If the frame could not read him, the code had a chapter for that: his enrollment struck out, and after it, a letter at a time, everything else with his name on it. And a respondent who left the hill while the thing was pending would be entered as fled, with a note on three friends' files to say whose friends they were.
 
 Seln had taken the slip from him across the counter, and read the one line, and blotted it.
 
@@ -48,7 +50,9 @@ Then he wrote three lines.
 
 *The recess starts tomorrow. Nobody goes home.*
 
-He blotted it and read it back. It was true and it said nothing, and he understood with a small cold turn of the stomach that he had written it the way Seln wrote a return. He did not cross it out.
+Six people now knew what was in the case on Karis's shelf, and the sixth was an officer of the Compact who had read it through that afternoon and carried nothing away but the knowing. What it was, Cael did not write. It was not a thing that went into a book.
+
+He blotted the page and read it back. It was true and it said nothing, and he understood with a small cold turn of the stomach that he had written it the way Seln wrote a return. He did not cross it out.
 
 In his room, Hesk's clock on the shelf said ten minutes short of the eighth bell, and the lecture range had rung the eighth while he was on the stair. It had lost its usual minutes since the morning, in its usual direction. He set it right and wound it, and lay down, and was asleep before he had finished counting the things he did not have to do tomorrow.
 
@@ -58,7 +62,7 @@ The hill was a different place with nobody on it.
 
 He found that out on the First-day morning, crossing the outer court to the refectory, when the fountain went up and came down and he could hear it do both. On an ordinary morning you could not hear the fountain at all; there were too many boots on the flags and too many voices under the covered walk, and somebody always shouting for somebody from a window. This morning there was the fountain, and the wind coming over the north wall off the river, and a pigeon on the lodge roof saying the same thing over and over, and nothing else.
 
-The refectory had one table lit, for the cooks had put all forty of the house's remaining enrollees at the long table nearest the kitchen door, so that they would only have to carry the porridge one way, and the rest of the hall stood empty under its high windows with the benches turned up on the boards. The forty sat close together at their one table, as people do in a big room, and talked in low voices.
+The refectory had one table lit, for the cooks had put all forty-one of the house's remaining enrollees at the long table nearest the kitchen door, so that they would only have to carry the porridge one way, and the rest of the hall stood empty under its high windows with the benches turned up on the boards. The forty-one sat close together at their one table, as people do in a big room, and talked in low voices.
 
 Lira was there already, in her program wraps, eating fast. She had been on the east hall's floor since before the first bell, or not on it, exactly, but at its rail, with Rooke's red book on her knee, watching.
 
@@ -118,9 +122,9 @@ He got out paper and wrote back the same afternoon, before he could think better
 
 He did not write anything he could not have read aloud to the coats at the foot of the road, and he found, when he had finished, that it was a long letter all the same.
 
-He took it down to the post room himself and gave it to Seln for Bracken's pouch.
+He took it down to the post room himself and gave it to Seln for Bracken's pouch, and Seln read the direction.
 
-"Denvash," said Seln, reading the direction, and put it in the pouch without another word.
+"Denvash," he said, and put it in the pouch without another word.
 
 ---
 

@@ -58,9 +58,7 @@ Cael, holding the index, watched her not look up. She had written eleven slips o
 
 ---
 
-The eleventh sitting took nineteen minutes.
-
-He counted them on the exchange's clock, over the doors, because there was nothing else in the long room to count that he had not already counted. Forty benches. Five chairs. The hood. Lot seventeen. A thin sun came through the high windows on the east side and lay across the petitioner's table, on the travelling inkwell with its lid screwed down.
+The eleventh sitting took nineteen minutes, and he counted them on the exchange's clock, over the doors, because there was nothing else in the long room to count that he had not already counted. Forty benches. Five chairs. The hood. Lot seventeen. A thin sun came through the high windows on the east side and lay across the petitioner's table, on the travelling inkwell with its lid screwed down.
 
 "In the matter of Caelen Hesk-ward," said the seat's clerk. "Upon the merits. The eleventh sitting."
 
@@ -210,7 +208,7 @@ Bracken's eyes came up from the daybook, over the second glass, and met his.
 
 Neither of them said anything.
 
-It lasted perhaps as long as it takes to read a line. Bracken had written *or to her order* in his own hand. He had lent an old enrollment book for a citation and had not asked what for. He had read every leaf the house had filed all year, and counted the sittings, and seen the last Fifth-day coming since the year's first week. He was a registrar of thirteen years' standing, and there was nothing whatever in his face.
+It lasted perhaps as long as it takes to read a line. Bracken had written *or to her order* in his own hand, as he had lent an old enrollment book for a citation and not asked what for. He had read every leaf the house had filed all year, and counted the sittings, and seen the last Fifth-day coming since the year's first week. He was a registrar of thirteen years' standing, and there was nothing whatever in his face.
 
 "The third volume," he said. "You'll want it back by the second bell tomorrow. I ask when, not why."
 
@@ -238,11 +236,9 @@ He thought about them for a while, the four men down there, senior, patient, cha
 
 He had helped to bring it. He had sat up straight in a coach eleven times.
 
-He did not think that had been wrong, though he turned it over once more, to be sure, as Karis turned a leaf she already knew. If he had gone east in the week of the case, the word would be on four files now and a line on Withrow's charter, and thirty-four chancellors would have had their answer from a hood instead of from her pen. He had stayed, and gone to every sitting, and kept his face still behind a first-year with a new badge. He had won the nine days and Gault's notes and the ninety-one, and watched each of them go into the minute and weigh nothing.
+He did not think that had been wrong. If he had gone east in the week of the case, the word would be on four files now, and a line on Withrow's charter.
 
-It had cost what it cost. Karis was writing thirty slips for a room she might not be let speak in. Lira had landed a thousand times on a foot, for a sitting she had read the date of and called by its right name. Brom had a letter on his table that he could not open and a frame he meant to stand in honestly. Seln had a bundle as thick as his hand. Withrow had ink to the knuckle.
-
-And he had a year of bouts in which he had known the answer half a beat early and waited.
+It had cost what it cost: thirty slips for a room Karis might not be let speak in, a thousand landings on one foot, a letter on a table that could not be opened, a bundle as thick as a man's hand, ink to the knuckle.
 
 None of them had said they were leaving. He did not think any of them had decided it, in so many words, even alone. It was only that there were now three boxes on a shelf, and two under a bed, and a carter's book in a coat, and a new strap on a satchel, and five beans in a gardener's jar.
 

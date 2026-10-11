@@ -162,7 +162,7 @@ It was a good question, and she had been taught to ask them, one a morning, for 
 
 "Files change," said Karis. "It's what they're for." She took the code's second volume out of Cael's arms and set it on the corner of the table. "You'll want that. The cross-heading is in the back. Find it."
 
-She went back across the landing to her own room. Cael followed her, and at the door he looked round. The assistant had not opened the volume yet; she was sitting with both hands still flat on the sheet that had no mark on it, reading it again.
+She went back across the landing to her own room, and Cael followed her, and at the door he looked round. The assistant had not opened the volume yet; she was sitting with both hands still flat on the sheet that had no mark on it, reading it again.
 
 In the reading room Karis stood for a moment with her back to him and her pale fingers pressed against the edge of the bare table.
 
@@ -264,13 +264,13 @@ He read the leaf through, as he read everything, from its head to its seal.
 
 The first notice had come in the year's eighth week and he had acknowledged it by return, in one line, as he acknowledged every notice. He remembered writing the line, and he had meant, then, to sign the certificate when it was asked for. The protocol was sound. He had helped to write two of its sections as a young man, and had defended the whole of it before three convenings, and in all his service he had never refused his name to a thing he knew to be sound.
 
-The protocol was sound still. He could find nothing wrong with any sentence of it.
+The protocol was sound still; he could find nothing wrong with any sentence of it.
 
-Down in the paved court the porter was feeding the pigeons from his paper bag, as he did at this hour, and the birds had come to him in their usual half-circle. The window on the Archmarshal's left stood open a hand's breadth. His left hand, which did not like mornings, lay on the blotter.
+Down in the paved court the porter was feeding the pigeons from his paper bag, as he did at this hour, and the birds had come to him in their usual half-circle. The window on the Archmarshal's left stood open a hand's breadth, and his left hand, which did not like mornings, lay on the blotter.
 
 He did not open the lowest drawer. There was no finding to consult and no minute to draft, and he had known since a borrowed room in Ostrand exactly what he would write when this leaf came. He had said it aloud there, to five people, so that he would not be able to pretend afterward that he had not.
 
-He found, now that it had come, that he did not need the saying. He would have written the same if nobody had ever heard him.
+He found, now that it had come, that he did not need the saying; he would have written the same if nobody had ever heard him.
 
 He dipped the pen.
 
@@ -294,4 +294,4 @@ His clerk came for the tray at the usual hour. He took up the day's finished pap
 
 The clerk waited a moment, as though there might be a covering note, or a word. There was not. He went down the too-steep stair with the tray, and the Archmarshal heard him go, every step, to the bottom.
 
-He drew the next thing toward him from the tray on the right. It was a guild hall's query about a frame. He read it through from its head to its seal, and dipped his pen, and answered it.
+He drew the next thing toward him from the tray on the right, a guild hall's query about a frame. He read it through from its head to its seal, and dipped his pen, and answered it.

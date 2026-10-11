@@ -229,3 +229,37 @@ Chapter-level drift (reported, not chased): ch42's mean (12.6; the orchard and t
 15. **No placeholders and no new names.** Unnamed: the gardener, the Current girl, the Force, the Stone, the lake house's Blade and instructor, the Mire third-year, the program's clerk, the assistant, the house's counsel, the seat's clerk, the side-door officer, the senior chair, Vastin's clerk, the district clerk, the chancellors, the coats, the lodge-man, the healer.
 16. **Proposed protected patterns:** none. `protected-patterns.txt` untouched.
 17. **Length:** 35,041 against ~34,000 (≈103%) per #45; not padded. Lira's, Havel's and Vastin's windows run a little under their allowances; the spar and the orchard a little over.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, 2026-10-11, from `REPAIR-BRIEF.md` and the cold read's three priorities, with the coordinator's rulings recorded (calendar RATIFIED; the day-45 envelope RATIFIED; all flags accepted). Every change was composed by hand and written as an exact-string replacement. No script split or joined sentences. No source chapter was opened. No git command was run. `protected-patterns.txt` was not touched.
+
+### Must fix
+
+1. **Forty versus forty-one (ch41).** Anchored to Bracken's daybook: "by dusk forty-one of them were left"; "Four of the forty-one had signed their slips together"; "all forty-one of the house's remaining enrollees"; "The forty-one sat close together".
+2. **Five approaches promised, four performed (ch42).** The gardener "had been told that four young people from the hill would come walking up to his door". The surrounding paragraphs were rechecked: four walk the track (Lira, Karis, Cael, Brom); "six of them round a table made for two" is the five and the gardener; Seln's "Five people in an orchard" counts himself and stands.
+3. **Orientation in ch41** (two insertions, three beats, no recap of M6):
+   - after *the proceedings* on Cael's slip — why he stays and what the proceeding can do: a petition before the seat since the year's eighth day to stand him in a frame and read him again; if the frame cannot read him, "his enrollment struck out, and after it, a letter at a time, everything else with his name on it"; and a respondent who leaves while it is pending "would be entered as fled, with a note on three friends' files";
+   - after the Log's *Six now* — "Six people now knew what was in the case on Karis's shelf, and the sixth was an officer of the Compact who had read it through that afternoon and carried nothing away but the knowing. What it was, Cael did not write."
+   The deniable routes, the empty hill and the three-line Log entry are unchanged.
+4. **Havel (ch44).** Both halves of the brief's either/or, lightly: two sentences of receipt mechanics cut (the manual's page; "That was the whole of the task"), and the inn passage now states once what he hoped and why it fails — "that a mark written out at last in a schedule, under seal, before a seat, would have to say whose it was… The schedule did not give one. It gave the title, in a clerk's fair copy, and no office after it, on the old leaf or the new." The petition only set down that the mark was there, which the first sheet already holds; everything else about the line the registers answer. Kept: his viewpoint, nothing disclosed or connected, six sheets, no seventh, *until relieved*. ("Four years" in his reckoning is now "all these years"; no count of years is stated.)
+5. **ch47, the final window.** Three reflective paragraphs became two short ones: the sentences restating the thesis (the nine days, Gault's notes and the ninety-one "weigh nothing"; the year of bouts known half a beat early; the chancellors' answer from a hood) are cut, and the costs are a single concrete list ("thirty slips… a thousand landings on one foot, a letter on a table… a bundle as thick as a man's hand, ink to the knuckle"). The inventory paragraph (three boxes, two under a bed, a carter's book, a new strap, five beans) stands. The chapter still ends on *Next: Ostrand. Two sittings and a ruling.* and the coats changing on the bell.
+
+### Cadence (bounded)
+
+Twenty joins, all in expository bridges of ch41, ch44, ch46 and ch47, each a true one-thought pair: the long room's furniture and the steps after the sixth sitting, Havel's table and fortnight, Withrow's desk (ch44); the landing, Vastin's window and blotter, the next thing in his tray (ch46); the eleventh sitting's clock and the deposit book (ch47); the post room (ch41). No dialogue line, landing beat, bout, spar or road-craft passage was touched. The ≥40-word share is unchanged at 4.4%.
+
+### Checks after r1
+
+- `ed.sh gates`: reader_standard=0, metadata=0, modern=0 on all seven chapters.
+- `ed.sh overlap`: **0 unprotected, 0 protected.**
+- `sweep_probe.sh book-06-the-compacts-hand 7 7` (now working): **skeleton 1%, close 16%** on 1,474 sentences. By chapter: ch41 1/14 · ch42 1/16 · ch43 0/22 · ch44 1/17 · ch45 0/10 · ch46 0/17 · ch47 1/16.
+- **Formula** (ch41–47): words 35,047 · sentence mean 13.55 · ≤5 31.4% · ≥40 4.4% · paragraph median 26 · words per scene 922 · FRE 90.2 · FK 4.05. All inside the working ranges.
+- **Length:** 35,047 against 35,041 before the repair (≈103% of budget, #45). The ch41 beats (+150) and the ch47 compression (−130) roughly cancel; nothing padded.
+
+### Ledger corrections (to the page)
+
+- Forty-one enrollees remain in residence for the recess; four of them are the circle.
+- The gardener was told to expect four.
+- Schedule two's fourteenth line gives the designation's title and **no office after it** (on both leaves); Havel hoped it would name one.
+- Calendar as ratified: recess days 99–112; sittings on days 117, 124, 138, 145, 152 and 166; the last month opens day 176; closings days 187 and 194; ruling and Brom's panel day 201.

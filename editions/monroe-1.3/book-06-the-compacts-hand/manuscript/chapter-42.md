@@ -100,7 +100,7 @@ Karis had her grey notebook out. She wrote *forty paces* and then, after a momen
 
 The open approach took the rest of the afternoon, and the gardener enjoyed it more than anybody.
 
-Seln had been to see him that morning. He was a wide slow old man with earth in the creases of his hands, who had kept the house's trees for thirty years. He had been told that five people from the hill would come walking up to his door, one at a time, and that he was to stand at his window and look at each of them exactly as he would look at a stranger coming down his track at dusk. He had asked whether he was allowed to say what he thought, and Seln had said that was the point.
+Seln had been to see him that morning. He was a wide slow old man with earth in the creases of his hands, who had kept the house's trees for thirty years. He had been told that four young people from the hill would come walking up to his door, one at a time, and that he was to stand at his window and look at each of them exactly as he would look at a stranger coming down his track at dusk. He had asked whether he was allowed to say what he thought, and Seln had said that was the point.
 
 "When you come to a place where people live," said Seln, at the top of the track, "you come the way the track comes. In the middle of it, at a walk, in daylight if there is any left. Your hands are where a man at a window can see them. You stop a little way off, where he can look at you for as long as he likes, and you let him look, and you do not speak until he has." He nodded down the track at the cottage. "He will decide what you are in the time it takes you to walk forty yards. You cannot stop him deciding. You can only give him an easy thing to decide."
 
