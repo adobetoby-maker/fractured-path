@@ -1,0 +1,337 @@
+# Chapter 22 — Nine Days
+
+The table stood under a lean-to roof against the gate-house wall, and nobody in Oxhollow had put so much as a cup on it for twenty-five days.
+
+Cael could tell that from the wood. It was a slab of ash on two trestles, long enough for a man to lie on, and it had been scrubbed so often that the grain stood up pale and clean, and round its feet the earth was swept. A bench ran along the wall beside it. Eight people were sitting on the bench when the five came up from the ford with seventy marks, and it was plain that some of them had been there since the mule was first seen on the valley road.
+
+The healer was not at her table. She was in the long house, eating, and when she had eaten she climbed the gate-house ladder and slept.
+
+"There's people waiting," said Lira, to the woman who kept the gate. "There's a boy on that bench with his arm in a scarf."
+
+"She's a rule. She'll not lay a hand on anybody till she's had a meal and two hours on her back, not if the hold was burning." The woman said it with a kind of pride. "They've waited on her twenty-five days. They'd sooner wait two hours more and have the one who can count to three."
+
+She came down when the shadow of the palisade had reached the well. She washed her hands to the elbow in a bucket, and then she went along the bench.
+
+It was the thing he had seen her do under a rock, and he understood it better for seeing it done eight times. She stopped in front of each of them at her stride and a half and looked. Then she put two fingers on a wrist, or a hand on the hurt place, and her lips moved to ten, and she passed on to the next without a word. An old man with a cough. A child on a lap. A woman who held her left forearm away from her body, wrapped in a cloth that had been wet and dried.
+
+At the end of the bench she turned round.
+
+"You," she said to the woman. "Then him, with the foot. Then the boy. The rest of you I'll see after, and none of you is going to die of it."
+
+Cael sat on an upturned trough with his back against a post and watched the whole of it, since the tape would not let him do much else.
+
+The arm was a scald, a week old, and it had gone bad. He saw a red line running up the inside of it from the wrist toward the elbow, and the woman's eyes were too bright. Oryn laid her on the ash and put both hands round the forearm above the cloth, and shut her eyes, and it was as it had been with Lira; there was nothing to see but a square brown woman breathing slowly, and the sweat coming out along her cropped hair. It took half an hour. When she lifted her hands the red line was a faint pink thread, and the woman on the table had begun to cry quietly from relief.
+
+She said the number to nobody, under her breath, and drank a cup of water standing.
+
+The foot belonged to a man who drove the oxen, and one of them had stood on it. The boy had gone off a hay-rick onto his shoulder. She set that bone with her thumbs before she mended it, and told him first that he would mind it, and he bit his scarf.
+
+After the third she did not get up at once. She let herself down onto the end of the bench, a little at a time, with one hand on the wall.
+
+"That's three."
+
+"And those?" said Lira. She was on the trough beside Cael, with her taped foot on her knee, and she tipped her head at the five still sitting.
+
+"A tooth, which the smith can draw. A cough that's had him every cold term for twenty years. The child's fat, and it's cross, and there's nothing the matter with it." The healer's voice had gone hoarser. "I've looked at every one. That's what the bench is for. It isn't the ones I mend who need me to come on the day. It's the ones I have to tell from the others."
+
+Lira watched her flex her fingers.
+
+"Does it do anything else? Tide. Could you fight with it?"
+
+Oryn was slow to answer, and Cael saw her mouth go hard.
+
+"There's one thing, and you'll hear of it from somebody, so hear it from me. A hand on a wrist, for a breath, at the moment the other one means to declare; and whatever was coming doesn't come. I'm not opening a way then. I'm shutting one." She looked at her right hand as though it were a tool that she kept in the bottom of a chest. "It costs me a day's mendings, and the next day's, and it mends nobody. I've done it. I'd give a good deal not to know how."
+
+---
+
+She called him to the table when the yard had emptied.
+
+"You. Up here, and your shirt."
+
+He got onto the ash by stages. The light was going yellow, and the others had drawn in without being asked; Karis sat on the end of the bench with her notebook shut, and Brom stood behind her, and Seln was a darker place against the gate-post. Lira had not moved from the trough.
+
+Oryn laid her hand along his left side, over the five bands of linen, and counted.
+
+He counted with her. It was the second time, and he knew now what to watch for. At six a crease came between her brows. At ten she left the hand where it was and shifted her thumb, a little, from one rib to the next.
+
+"They're knitting," she said. "Six days, and they've done the work of ten." She pressed, very lightly. "That's not what I mind. I've known bone knit fast in the young. What I mind is that when a rib knits, I can feel the thing that's doing the knitting. It's there in a goat. And these are closing up under my hand, as neat as you like, with nothing doing it."
+
+She took the hand away.
+
+"Give me your wrist. The right one; there's nothing wrong with that."
+
+He gave it. She laid two fingers on the inside of it, and two of the other hand on the side of his neck below the jaw, as she had laid them on Karis, and this time she shut her eyes.
+
+He lay still on the scrubbed wood and looked at the underside of a turf roof. Nine things lay in him as quiet as he had ever known them; he had held them for eighty-four days, and it had become very like breathing. He could not tell what her fingers were reaching for. He knew only that none of the nine had stirred, and that if one had, he would have felt her feel it.
+
+It went on a long time past ten.
+
+"No," said Oryn.
+
+She opened her eyes and stepped back, and she rubbed her hands together slowly, as a person does who has had them in cold water.
+
+"That's three times. The first I thought it was the break; a bad one can shout over everything. So I went where you're whole. There's nothing wrong with that wrist, or that neck, and there's still nothing I can read." She looked at Karis, who was the one writing it down, or would be. "It's like putting my hands in a river in the dark. Something's moving. I can't find the banks, so I can't read it, so I can't touch it. That's the rule. I didn't make it."
+
+"What are the banks?" said Karis. Her voice was not quite steady, and Cael did not think that the healer could know why.
+
+"Everybody's got them. What moves in a person moves in a bed, the same bed all their life, and the shape of the bed is their Path. I put my hands on you and I felt the banks before I felt anything else, and I said Ember, and I was right. I'd know a Wind from a Skin with a glove on." She jerked her chin at the table. "In him it's moving, and it hasn't a side anywhere that I can find."
+
+Nobody in the yard breathed. Lira's eyes had come round to Cael, and Brom's, and he kept his own on the turf.
+
+"You counted ten the first time," said Karis. "And just now you didn't count. Are those two different things?"
+
+"They're the same thing, done twice as hard. That's the short one, and a healing house calls it the surface reading. Hands on the hurt, or on a wrist, and a count of ten. It tells me what's broken and where it's standing, and it costs me nothing I'd notice; I did eight of them along that bench." Oryn leaned on the edge of the ash. "There's a long one, which they call the deep reading. Both hands, and all of me, and it isn't a count, it's minutes. I go through the whole of how a person's built, as you'd go through every room of a house with a lamp. It costs what a mending costs. And the one under my hands has to lie still for it, and be whole, since a break shouts."
+
+"Have you run it on him?"
+
+"I don't run it on a road. I've not the day to spare for it, and he's three ribs short of whole." She turned back to Cael, and for the first time since a rock he saw something in her face that was neither tiredness nor arithmetic. It was appetite. "When you're not broken, I run the long one. It won't read you either. I want to feel it not read you properly."
+
+He heard *minutes*, and *both hands*, and *all of me*. He knew what else those words described, and so did four people in that yard, and one of them had gone white to the lips over a shut notebook.
+
+"Get down," said Oryn. "I've three things to ask you, and then I'm done."
+
+---
+
+She asked them while she was strapping the panniers, with her back half turned.
+
+"You've broken things before. There's an old one in that left forearm that I could see from the bench. Did they knit where they should?"
+
+"Yes."
+
+"Slower than other people's, or faster?"
+
+He thought of a stone floor, and a Gold, and a bone that an infirmary had given six weeks.
+
+"Faster."
+
+"I'd have laid money on it." She pulled a buckle through. "Has a healer ever got anything from you? A Tide, anywhere, with hands on?"
+
+He thought of a bed in that infirmary, and two voices in a corridor deciding what his ribs meant.
+
+"No."
+
+"No." She said it after him, with a kind of grim content, as a carter says the weight of a load he has guessed right. "That's the visit."
+
+She did the rest of them in the time it took to load a mule. She looked at Lira's foot, and at how the long strip crossed in front, and said that it would do. She had Brom's wrist out of its cuff and into it again. She told Karis to eat, and to ask nothing of herself for three days more, not so much as a spark to see by. To Seln she gave a nod, as one gives it to a man of one's own trade, and Seln returned it exactly.
+
+Cael stood by the well with his shirt laced and a sentence ready.
+
+He had been building it since the halting-ground. *We go south in the morning, six days, to a town with a board. There are five of us, and in one month we have been bitten, and broken, and emptied, and the nearest hands were a day and a half down a mountain. Come south.* It was a reasonable sentence. He could have priced it for her: what a crew would pay, and what the board paid a crew.
+
+He looked at the table. It was bare again already, and somebody had swilled it down; it would stand so for twenty days, scrubbed, with its bench against the wall, and on the twentieth there would be people sitting there before it was light. There were six more like it. There was a child with a chest, three stops on, and a carter with his hand in a rag.
+
+She had told him what late was. He would have been asking her to be late to all of it at once, and to call that a wage.
+
+He did not say it, and it was not like the things he had left unsaid at a fire; he was not sparing himself. He had no right to the sentence, and that was a different sort of silence.
+
+She had the cheek-strap in her hand. The gate stood open on the north side, and beyond it the road went up a long brown hill.
+
+"Thornwater's on my route in nine days. You'll be on the board by then. Come find me. I want to read you when you're not broken."
+
+"Nine days."
+
+She nodded, once, as to a thing entered. Then she clicked her tongue to the mule, and went out under the lintel at a carter's pace, on the low side.
+
+---
+
+Oryn walked out of that gate with her hands in the pockets of a dead man's coat, and she kept them there for the first mile.
+
+She did not often do that. A healer's hands are her eyes, and she carried hers open, as a rule, swinging, where the air could get at them. This evening they felt as they had felt once in her first year on a house's staff, when she had been set to wash a hundred bandages in a trough in the cold and had lost her fingers to the wrist; she could move them, and they would not tell her anything.
+
+She had put them on that boy three times.
+
+She had spent three mendings at the table since noon, the whole of a Tide's reserve for a day, and every one had been what it should be. The scald had stood in the arm like water behind a board. The ox-man's foot had been four small bones and a great deal of noise. She had gone into each of them as she went into a house she knew, and found what was stopped, and opened it, and come out tired. That was her trade. She had not once, since the morning her Path woke, laid a hand on a living body and had it come back to her empty.
+
+Three times, now. Once on a mountain, over three broken ribs, and twice on a scrubbed table.
+
+She was not a person who guessed. She had been taught by a woman who struck her knuckles for guessing, and she had come to be glad of it. So she went over what her hands had found, as she would have gone over a patient for a second healer, and she kept strictly to that.
+
+There was bone. Bone answered to anyone; she had felt the breaks as a blind man feels a step. There was movement, past the bone. She was sure of that, and it was what kept her fingers stupid. A dead thing she could have understood. This was more alive than most, and it ran, and she had felt it running; and she could no more have said which way, or between what, than she could have drawn the wind.
+
+*No banks.* She had told the small pale one so, since the small pale one was writing it down. It was the truest thing she had, and it was not much.
+
+She tried her hands on the mule, at the first turn of the hill, as a person tries a lamp that has gone out once. She laid her palm on the warm brown neck, under the mane, and counted. It was all there. A beast's bed is broad and shallow and runs slow, and she had felt this one's every day for thirty rounds; it told her of a sound heart, and a near hind hoof that would want the smith inside the month. Her hands were as they had always been.
+
+That ought to have been a comfort, and it was only half of one. If the fault was not in the instrument, then it lay in the thing the instrument had been put to, and she had no place to keep a thought of that kind.
+
+The road went up the hill in a long slant, and she went up it below the mule.
+
+Four people were coming down.
+
+She knew the first of them, as anybody on those roads did. It was Teague, off the north water, with a string of two mules behind him and his three; and she gave them what she gave everything on legs, which was a look from a stride and a half as they drew level. A spear, carried upright and grounded at each step, by somebody who never hurried. A boy who was all wrists. And a bow, on the back of one who walked a hair short on the left, at the hip.
+
+Her fingers woke for that. She had not touched it, and she did not need to. It was old, ten years or more; the joint had been out and gone back in by itself, a little wrong, and grown a seat there. She knew what it would cost to unmake that. She knew, too, that the captain had stopped his walk by half a pace to let her see it.
+
+"You were looked for up the water," he said. "On the eighty-first."
+
+"I was up a hill, after a crew that was late."
+
+He took that in, and she saw him keep it. He had a level voice. "Is it a thing you'd do?"
+
+"Not on a road. Not in a night." She did not soften it; he was not a man one softened things for. "It's two days of me and a week lying down after, and I'm five days behind. Ask me on a round when I'm not."
+
+He nodded. He had asked, and been told the price, and she saw him put it by.
+
+"They're in the yard," she said, as she passed. She could not have said why she told him. "Your five."
+
+"They're not mine."
+
+"No," said Oryn. "They're not anybody's. I noticed that."
+
+---
+
+She was at the next gate on the eighty-sixth, five days after she had said.
+
+It was the hold that had given her the coat. She did there what she always did. She ate, and slept her two hours, and walked the bench; and at the end of it sat a man whose shoulder had come out of its place a week before, hauling a calf. His brothers had put it back for him, kneeling on his chest, since there was nobody else. It was in. It was not right. She spent two on it that should have been one, and she did not need to be told whose five days those were.
+
+There was a woman on that bench, too, with a breast-fed child that would not thrive, and an old herdsman who wished to be told that the pain in his side was nothing. She told the one what to do and the other the truth. Neither of them cost her a mending, and both of them had needed her on the day; and that was the part of the round that nobody at a healing house would have understood, for a house counted what its hands did, and never what its eyes had spared them.
+
+She gave that hold a night and a morning, and went on. They had put a loaf and a cold fowl in the off pannier without being asked, as they did every round, and the smith's girl had looked at the near hind hoof. It was how the coat had come to her. Nobody at any of the seven gates had ever spoken of a price, and nobody had ever let her leave with less than she came with.
+
+The route was the only thing she had ever made. She thought of that on the road, where there was time. She had not been given it. There had been no round when she crossed the Line, only a rumour in a ferry-town that the holds had no hands; and she had gone to the first gate, and mended what was there, and asked where the next fence was. It had been four holds, the first year. She had put the fifth on in her third round, and the sixth for an old woman's sake. The seventh she had added because of a child.
+
+So she knew how a stop was put on. It was not done lightly. Every stop was two days, and every two days was a day that six other gates waited; she had sat on a chock-stone with a pencil in her teeth, the night she added the seventh, and worked it through until the round came out at twenty.
+
+The child was at the next gate.
+
+She got there on the eighty-ninth evening, and she did not eat first. That was a rule broken, and she knew it, and she went straight through the yard to a house under a pear tree and put two fingers on a small wrist and two on a neck.
+
+Her lips moved to ten.
+
+The banks were where they had always been, narrow and clear, a little ragged on the left side where the breath came hard in the cold. It was running. It was no worse than it had been twenty-five days ago, and perhaps a shade better.
+
+She sat down on the floor of that house, and the child's mother put a bowl in her hands.
+
+It had been nothing. She had been five days late, and for five days she had not known, and it had been nothing, this round. She ate the whole bowl. Her hands had told her the truth as easily as they ever had; they had gone in and come out full, and she sat and looked at them in the firelight with a relief that she would not have owned to anybody.
+
+It was not her hands, then. She had half thought, on the hill out of Oxhollow, that something in them might have begun to fail.
+
+It was he.
+
+She left that hold at first light on the ninety-first, with two days of road in front of her and the mule going well. And somewhere on the first of those days, between a ford and a stand of the red trees, she found that she had been doing a sum for the better part of a morning without having set herself to it.
+
+Three ribs, broken on the seventy-eighth. Twenty-one days to knit, in anybody; less, in him, by what she had felt. She would be at Thornwater on the ninety-third, and he would be fifteen days from the break. Not whole. She could not run the long one over a break. She would have her two days at that gate, and the carter's hand, which she owed, and whatever was on the bench; and then the round would take her on.
+
+The hand troubled her more than she liked. A split across the palm is a small thing on the day, and she had left it clean and wrapped, and told the man to keep it out of a rein. He would not have kept it out of a rein. He had a load for Thornwater and one pair of hands, and he had given her the news of a late crew when he might have held his tongue and had his mending. By the ninety-third that hand would be fifteen days old. She owed it to him as she owed nothing else on the round, and she meant to pay it before she sat down.
+
+And he would be whole a week after she had gone.
+
+She walked a mile on that.
+
+She was not a person who wanted things. She had wanted one thing, once, which was to keep a list in the right order, and she had got it, and it had filled her days so full that there was no room left over. She had not thought that there was anything else her hands were hungry for.
+
+They were hungry for this. She had spent her life reading what people were built like, and she had been proud of never meeting a body she could not go into. Now she had met one. She did not want to mend him; there was nothing to mend that a strip of linen could not see to. She wanted to lay both hands on him, whole and still, for as long as it took, and feel exactly how it was that he could not be read.
+
+What he was she left alone. That was a question for people who kept books.
+
+On the morning of the ninety-second, on a level stretch with frost in the ruts, she did the thing she had done three times before.
+
+She took it out of the round. Not two days; she had not two. One. She would find it somewhere, off a road, or out of her own two hours, and six gates would wait a day longer on her account, and she would know every one of the people she was making wait.
+
+She put a day on the route.
+
+Then she clicked her tongue to the mule, and went on at the same pace as before, on the low side, toward a gate that was still a day's walk off.
+
+---
+
+Teague had counted his three before the healer's mule was out of hearing.
+
+They were behind him on the hill. The spear had not changed pace for the stop. The boy had both mules by one rein and was looking back up the road after the woman, with his mouth a little open, as he looked after everything. The bow had stood square on both legs for as long as the healer's eyes were on that hip, and now the weight had gone over to the right again.
+
+Three. Whole, and fed at noon, and one of them no better off than a week ago.
+
+They had done two holds' work in four weeks, a drain cut and a byre roofed, and there was nothing in either that would be talked of at a plank. He did not mind that. Most of what kept a crew at the top of a sheet was work of that kind, done to the day and brought home without a mark on anybody; a man who wanted his lines to be stories did not keep his people long.
+
+It was the bow's hip that he minded, and he put it first, since it was the cost.
+
+He had timed the second of his two slips to end at the upper hold on the eighty-first day. That was the day the healer's round should have brought her to its gate. He had said nothing of it to the bow; he had only found a day's more work on a byre roof that might have waited, and stayed. She had not come, and nobody at that gate could say why. He had the reason now from her own mouth, in one sentence on a hill: she had been up a mountain after a crew that was late.
+
+He did not blame her. Worst went first; he would have kept that order himself.
+
+But it was a day he had spent and a thing he had hoped for; and if the crew was the one he supposed, he had both of them to set down against five names. Pike would have said that it was the ledger. He had struck a ford off Teague's hold and given it to them, and that had cost nothing. Teague had weighed that slip against frost on a pass and chosen the pass, and a man could not be robbed of what he had put down himself. This was the first time they had cost him anything, and they did not so much as know it.
+
+The road came round the shoulder of the hill, and Oxhollow lay under him.
+
+He read the yard through the open gate as he went by it, without turning his head more than a walking man does.
+
+There was no cart. That was the first thing, and it was the largest. He had heard on the road that they had hired the smith's, and there were three boxes standing against the gate-house wall on the bare ground, and a crew that has wheels does not stand its goods on the ground.
+
+The mild one was by the gate-post. Teague found him at once, this time, and was pleased with himself for a breath, until he saw that the man had been looking at him since the shoulder of the hill.
+
+The big one sat on the well's coping with a box-rope coiled over his knee. His left wrist had a cuff of clean linen on it, tied with a knot that Teague knew, since he had seen it on his own people. Mended, then, and under orders. The girl was on a trough. She had one boot, and the other foot was bare and strapped, crosswise, by somebody who had been shown how. It was on its whole sole. He had read those feet in an inn as the quickest thing in the room, and he would not have laid a copper on them now.
+
+The small pale one was asleep sitting up, with her head on a box and a book shut under her hand.
+
+There were four of them, and he had counted them rightly.
+
+The old keeper was on his bench by the stone house, with a tally-stick, and he gave Teague the rest in the time it took two mules to pass.
+
+"It's a no," he said. "Over the top. I've paid seventy to be told so, and I'd pay it again. They put their own cart in my gorge finding out."
+
+"All five came down?"
+
+"All five. On her mule, the one."
+
+Teague went on down to the water.
+
+So he had it, and there was nothing in it that a man could not have read off a yard and a keeper. They had cleared a ford with five, in a way that nobody on those roads had cleared one before, and they had walked a mountain and brought back a true answer; and they had lost a cart doing it, and come home on a healer's charity with three of them marked.
+
+He had four things to say to that boy. He priced each of them, on the bank, as he would have priced a stage.
+
+The first was the two jobs, set side by side with the same number on each. It would cost him nothing, and it would tell the boy that he was being read, and by what. That was fair. The boy had read him across a room and not troubled to hide it.
+
+The second cost Teague something, and he had known that he would pay it since the fifty-seventh day. The ford had been good work. To say so aloud was to say that the slip had gone where it ought, and that he had no claim left on it, even in his own head. It was true, and a true thing was owed.
+
+The third would land hardest, and he turned it over longest. He did not mean it unkindly. A cart was not a carter. Nobody lay in that gorge. But a crew that went out with another man's wheels and came back without them had done a thing that the board would enter, and it was better that they heard the word for it from him, on a river bank, than read it on a wall.
+
+The fourth was the only one that he might have kept. It gave something away. It told five people at the bottom of a sheet that the name at the top expected to stand on a road beside them before the cold term was out; and it set a term on that, which was his to set, since he had three behind him who would be standing there too.
+
+He looked back, once. The spear. The boy. The bow, on the good leg.
+
+He decided to say it. A man who meant to share a contract owed the other crew the warning.
+
+The boy was sitting on the gravel at the water's edge, alone, with a book on his knee. He held one arm in a little against his left side, and under the shirt, when he breathed, something drew a line across his ribs. There was a healer's tape on him. It would be three weeks, then, from whenever the mountain had done it.
+
+Teague still could not tell what he was. A Force stood one way and a Wind another, and there was no Path in the set of that boy that a man could name, and no want of one. He went down the bank.
+
+---
+
+Cael heard the mules on the gravel and shut the book on his pencil.
+
+He had known who it would be. A crew had come down the north road at a walking pace, in single file, without a word passing among them; and the man in front had a band of black leather laced on his right wrist and a hand-axe in his belt. He came to a stand a stride and a half from where Cael sat. It was the second time that day that somebody had chosen that distance.
+
+He gave no name, and he wanted none.
+
+"You cleared Thornwater's ford with five and lost a cart on the high bench with five."
+
+"Yes."
+
+It was the first word that Cael had ever said to him. There was no other to put with it. He could have told the man about a ledge that showed no crack, and a page marked *derived*, and sixty yards of fire held for eight seconds by a person who had never held a third of it. All of that was true, and all of it was his to know and nobody's to plead.
+
+"The ford was good work. The bench was a cart."
+
+There was no contempt in it. He said it as Pike said a line, level, so that it could be called wrong if it was wrong; and he waited, as Pike waited.
+
+Cael went through it for the place where he could say so. He thought of a smith in Lowmarch, and six marks owed, and a tail-board that had not banged. He thought of what a ford-keeper had counted out, and what the ford-keeper had said he was paying for.
+
+He had no argument. The man had not said that they had failed. He had said what the bench was, on a board that wrote down outcomes, and it was that.
+
+"The board's going to have you and me on the same contract inside a season. Be good enough that I'm glad."
+
+He nodded, the width of a finger, as he had nodded once from a sill. Then he walked on into the river, and his three came after him, each at the same distance from the next.
+
+They crossed without a sound. Cael watched it as he would have watched a thing well made. The one with the spear went second and grounded it at every step. The one with the bow walked a little short on one side and kept the pace regardless. A boy of sixteen or so brought the two mules through on a slack rein, and not one of the four looked down at the water. They had kept the hold on roads since before he knew there was one.
+
+He opened the book again while there was light.
+
+*Eighty-fourth day. Oxhollow, at the ford. The map is delivered: sixty-three lines, and the last one says no. Seventy marks, counted. Earned, a hundred and thirty-two. In hand, a hundred and sixteen. Six owed to the smith for a cart that is in a gorge.*
+
+*Mine: three ribs taped, twenty-one days from the seventy-eighth; the calf bound in her cloth. Lira: a leg that is new, an ankle that is taped and will not be mended. Brom: mended, and not to pull. Karis: empty, and filling. Seln: nothing.*
+
+*The nine: held, on a mountain and off it. Deployment since the Line: one.*
+
+*Teague priced us. He's right about the cart. Oryn read me three times and got nothing three times and wants a fourth. Two people out here measuring me, and neither of them has a seal. I keep waiting to mind.*
+
+He read the last of it over, and it stood.
+
+On the far bank four people and two mules were going up out of the river into the dusk, quiet, a crew's length apart. He turned his head the other way. The north road climbed the brown hill behind the hold in one long slant, and a mile up it, small and steady, there was a mule, and on the low side of the mule a woman, walking at a pace that she could keep until dark.
