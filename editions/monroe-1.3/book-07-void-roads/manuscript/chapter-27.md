@@ -16,7 +16,7 @@ She looked at that for a breath. Then she put the lid on over it, and drove the 
 
 "Those stay," she said. "The chips come. I have a piece of every sort of dressed stone that I could reach between Denvash and the Line, and a date for each, and if there is so much as a doorstep at this place, I mean to know which of them it matches."
 
-So the middle box went east on Brom's back, with the chips in it, and the lamp, and the calfskin and the printed sheet, and a quire of clean paper. He knelt and had it set on him, and passed a strap of plaited sacking over his chest, and stood up. He had refused to let anyone take a turn. Cael had seen that look on him at the edge of a moss.
+So the middle box went east on Brom's back, with the chips in it, and the lamp, and the calfskin and the printed sheet, and a quire of clean paper. He knelt and had it set on him, and passed a strap of plaited sacking over his chest, and stood up. He had refused to let anyone take a turn. Cael had seen that look on him at the edge of a moss. The only other thing that left the loft that morning was on a strap across Seln's chest, shut, as it had left every loft before.
 
 Oryn was waiting at the east gate with the mule.
 

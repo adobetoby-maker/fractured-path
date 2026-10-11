@@ -34,19 +34,19 @@ She went and read it, with her nose a hand's breadth from the wet ink, and came 
 
 "I wasn't sneering. I was working out how good you'd have to be to get past him by two."
 
-Pike had sat down at last, on the hearth bench, under his own handwriting, with the ledger beside him and a cup somebody had put into his hand. Cael took his own cup and went over, as he had gone over once before to ask about a ledger-keeper in Ardenmere.
+Pike had sat down at last, on the hearth bench, under his own handwriting, with the ledger open beside him and a cup that somebody had put into his hand. Cael took his own cup and went over, as he had gone over once before to ask about a ledger-keeper in Ardenmere.
 
-Cael had meant to ask about the man at the top, whom Pike had said came in last night. He had not yet found the words.
+He had a question, and he had not yet found the words for it. It concerned the name at the head of the new sheet. A man had come in the night before, Pike had said at the plank, with news of a cart in a gorge; and for the whole of that man's time at the oak a sheet of cream paper had been lying under a river stone, where anybody who read a plank from end to end must come to it.
 
-Pike drank, and looked at the fire, and then he looked across the room at the boards by the door, where a lamp stood beside a cream sheet.
+Pike drank. He looked at the fire, and then across the room at the lamp on the boards by the door, and then down at the leaf beside him.
 
 "Teague's nine up," Pike said, to the book, asked by nobody. Then, still to the book, at the same size, as if it were the next line and not a different thing: "He read that slip yesterday. Read it twice, same as the boy did. Put it back under the stone and took the fence. I'd have done the same, and I told him, and he said he knew."
 
-Cael stood with the cup in his hand.
+Cael stood with the cup in his hand, and the question that he had not asked went out of him unspoken.
 
-He had read that man's feet in the silt of a ford, and his halts at five halting-grounds after it. He had watched him count three people on a sill before he looked at a room, and had been told by him on a river bank, in a level voice, what a mountain was worth. Now he knew what that same man had done at the plank a night ago, with a hundred marks under his hand.
+He had read that man's feet in the silt of a ford, and his halts at five halting-grounds after it. He had watched him count three people on a sill before he looked at a room, and had been told by him on a river bank, in a level voice, what a mountain was worth. Now he had the man's answer to a hundred marks as well, at second hand, from a book-keeper who gave out nothing that he had not seen with his own eyes.
 
-It was a reason against. He entered it as one, with the name of the man who had given it, and he noticed that Pike had not told him what the reason was. He did not think that Pike knew.
+It was a reason against. He entered it as one, with the name of the man who had given it; and he noticed that Pike had said what was done, and had not said why. He did not think that Pike had been told.
 
 ---
 
@@ -78,9 +78,9 @@ He was given it, as he had been given a struck slip on the fifty-seventh day. It
 
 He priced it as he would have priced a stage, a thing at a time.
 
-The price came first, and it was a hundred. That was too much. A surveyor's kit was a thing that one man carried on a strap; he had seen such a kit once, years ago and a long way west. It was two days out to that rise and two home, on a road he knew, and nobody paid a hundred marks for four days and a case. But *too much* was only a reason if a man could say what it was too much for, and he could not.
+The price came first, and it was a hundred, which was too much. A surveyor's kit was a thing that one man carried on a strap; he had seen such a kit once, years ago and a long way west. It was two days out to that rise and two home, on a road he knew, and nobody paid a hundred marks for four days and a case. But *too much* was only a reason if a man could say what it was too much for, and he could not.
 
-The hirer was the broker, by the wax. Teague had carried that man's bales. He paid to the day, and argued every copper beforehand and none after; and he had never in his life sent a crew farther than his own landing. That was odd. It was not wrong. A broker posts for whoever puts money in his hand.
+The hirer was the broker, by the wax. Teague had carried that man's bales. He paid to the day, and argued every copper beforehand and none after; and he had never in his life sent a crew farther than his own landing. That was odd, and it was not wrong; a broker posts for whoever puts money in his hand.
 
 The ground he knew. He had been round the Fallow Ring eleven times, with carts, by the ruts, at noon, and had looked across the grass each time at a row of grey stumps and kept walking. Every carter's child knew what was said of it. He had never put it to the proof, and he did not need a paper to tell him why not: he had three behind him, and in that place the spear would be a man with a spear, and the bow a man with a bad hip, and the boy a boy. He would not take them in for a hundred, or for twice a hundred.
 
@@ -96,7 +96,9 @@ He laid it back under the stone himself. He set the corner on its own line of du
 
 "I know."
 
-It was all either of them said. Pike shut the book and tucked it under what was left of his arm, and Teague stood a breath longer in front of two slips with five names on each.
+It was all either of them said about it. There was a fence on the oak, four slips along: the upper inn's paddock, in sight of the ferry, three days of posts and rails at five marks, and work that a person with a bad hip could do sitting. Teague drew its tack and held it out, and Pike wrote his name to it before he shut the book and tucked it under what was left of his arm.
+
+Teague stood a breath longer in front of two slips with five names on each.
 
 They would be at the ferry tomorrow. He had kept a day ahead of them from Oxhollow without trying to, and he knew their pace, with a taped boy and a girl on one boot. The boy would read this plank as he had read a doorway, from one end to the other, leaving nothing out. He would find the stone.
 
@@ -224,7 +226,9 @@ Pike took it without a word. He read it twice, though he could have said it in h
 
 Cael counted who heard it, since a thing said at that plank was only as good as its hearers.
 
-Teague was there. He stood a little way out from the eave, on the trodden grass, with his thumbs in his belt, and his three behind him at their distances: the spear, grounded, and the bow on the good leg, and the boy with a heel of bread. That made four. The Oxhollow carter had come up from his mules and stood chewing, which was five. The hide-woman had her arms folded. Under the ash the old carter had lifted his chin at the first word and was holding it there. Two men in tarred aprons had stopped with a bundle of shingles between them; and the boy who took the standing-money stood on one leg beside a tent-rope, with his bag forgotten in his hand. That was ten.
+Teague was there. He stood a little way out from the eave, on the trodden grass, with his thumbs in his belt, and his three behind him at their distances: the spear, grounded, and the bow on the good leg, and the boy with a heel of bread. That made four. The Oxhollow carter had come up from his mules and stood chewing, which was five.
+
+The hide-woman had her arms folded. Under the ash the old carter had lifted his chin at the first word and was holding it there. Two men in tarred aprons had stopped with a bundle of shingles between them; and the boy who took the standing-money stood on one leg beside a tent-rope, with his bag forgotten in his hand. That was ten.
 
 The eleventh was at Pike's elbow. He was a thin young man with ink on his cuffs and a ledger under his arm, and he had come up from the landing at a trot when he was sent for.
 

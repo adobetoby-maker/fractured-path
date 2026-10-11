@@ -20,7 +20,9 @@ She stepped back, and it was there. It hung where it always hung, with the same 
 
 Karis did it nine times.
 
-She counted them, and at each crossing she made herself attend to one thing only, as she would have made a student attend. The third time she watched for the instant, and it had no width that she could find. The fifth time she went over slowly, a hand's breadth at a time, to learn whether it dimmed; it did not, and then it was gone. The seventh time she tried to hold it. She fixed the whole of her will on that small bright mark and carried it forward as one carries a full cup, and it went out between one heartbeat and the next without the least sense that anything had been taken from her. That was the part she liked least. She had not been robbed. She had merely looked down and found her hands empty.
+She counted them, and at each crossing she made herself attend to one thing only, as she would have made a student attend. The third time she watched for the instant, and it had no width that she could find. The fifth time she went over slowly, a hand's breadth at a time, to learn whether it dimmed; it did not, and then it was gone.
+
+The seventh time she tried to hold it. She fixed the whole of her will on that small bright mark and carried it forward as one carries a full cup, and it went out between one heartbeat and the next without the least sense that anything had been taken from her. That was the part she liked least. She had not been robbed. She had merely looked down and found her hands empty.
 
 After the ninth she knelt again, on the near side, and thought about emptiness, since she had lately become something of an authority.
 
@@ -100,7 +102,7 @@ They walked the third cord. Lira kept to her stride inside, and Karis to the lin
 
 He wrote it.
 
-He had put down sixty-three lines at her dictation on a mountain, and this was his third on a hillside, and it was of another kind from any of those. On the bench he had written what a cord and a clock could show to anybody who came after. Here the only instruments were two people's Arbiters, going out and coming back. He had none to offer, and so he held the pencil for the people who had; and he did not grudge it, which surprised him a little.
+It was the third line of a new table, and it was of another kind from the sixty-three that he had written on a mountain. There a cord and a clock had shown what anybody could check. Here the only instruments were two people's Arbiters, going out and coming back; he had none to offer, and so he held the pencil for the people who had, and it surprised him a little that he did not grudge it.
 
 ---
 
@@ -150,13 +152,7 @@ By the tenth station she no longer needed the wand.
 
 "In," said Lira, a stride beyond her.
 
-"Measure it."
-
-He laid the short cord from where the straight line would have run to where her boots were, and it was six feet and a half.
-
-"It has been six and a half ten times," said Karis. "My hand has learned it; I bring the end round by the same bend at every station, as one learns the turn of a stair in the dark. I shall go on measuring, since a wrist is not an instrument. But I know already what he is going to write."
-
-He wrote it at every station after that, and it never altered by so much as a knot.
+He laid the short cord down all the same, since a wrist is not an instrument, and wrote what the knot said. He had written that figure nine times already.
 
 They went round the north side with the ruts beside them. He could see where the carts had gone, forty yards off, keeping the same distance from the line the whole way, as exactly as if the carters had had a cord of their own; and he supposed that in a sense they had. A man who walked in front of a mule here for twenty-two years, with a Path in him, would have learned to the yard where he ceased to be comfortable.
 
@@ -182,9 +178,11 @@ Cael looked at the print, which was the breadth of the ones beside a white stone
 
 "Two hands," said Seln. "I shall hold you to it."
 
-They took the south side at a better pace, since by now each of them had the work by heart. Lira drifted out twice more and said so. Brom's turfs lay behind them in a long curve, black on the pale grass, each a cord from the last, bending always by the same small measure to the right; and when Cael looked back along them from the fiftieth, he could see the curve closing on itself like a hoop.
+They took the south side at a better pace, since by now each of them had the work by heart. Lira drifted out twice more and said so. Brom's turfs lay behind them in a long curve, black on the pale grass; and when Cael looked back along them from the fiftieth, he could see the curve closing on itself like a hoop.
 
-From the south he had the whole of it in one view, for the first and only time. The grey stone was away on his left hand, with a small brown mule beside it. Beyond it the ruts swung out round the north in their wide curve. The floor lay in the middle of everything, with its eleven broken stones, and on the far side, where no turf had been cut, there was the low place in the grass where Seln had knelt. Nothing moved in the whole of it but themselves. It looked like the plainest piece of country in the world, and five people had just walked the edge of it with their Arbiters going out and coming back at every stumble.
+From the south he had the whole of it in one view, for the first and only time. The grey stone was away on his left hand, with a small brown mule beside it. Beyond it the ruts swung out round the north in their wide curve. The floor lay in the middle of everything, with its eleven broken stones, and on the far side, where no turf had been cut, there was the low place in the grass where Seln had knelt.
+
+Nothing moved in the whole of it but themselves. It looked like the plainest piece of country in the world, and five people had just walked the edge of it with their Arbiters going out and coming back at every stumble.
 
 ---
 
@@ -202,7 +200,7 @@ She stood there with her eyes shut, and her lips moved for some time. Cael knew 
 
 "Round a field," said Brom.
 
-"Round a field, with the same bend at sixty-two stations out of sixty-two, and it has come home to the stone it started from." She opened her eyes. "That is not a rough round. I have the offset written sixty-two times in his hand, and it is one figure. There is only one shape that turns by the same measure at every step and closes."
+"Round a field, and home to the stone that it started from." She opened her eyes. "I have one offset written sixty-two times in his hand. There is only one shape that will do that."
 
 She turned her head and looked across the grass to the east, where eleven broken stones stood about a pale floor.
 

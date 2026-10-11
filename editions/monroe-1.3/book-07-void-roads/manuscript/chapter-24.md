@@ -52,7 +52,9 @@ Pike had not raised his head, and he said it level, as he would have told her th
 
 Cael stood and looked at his own name in another man's capitals.
 
-He had been written on a good many boards. A woman in Ardenmere had chalked him up with a question mark, and a panel had posted him at a rate that it had scattered on purpose, and for two years a house had put his name on a card every week because a schedule told it to. Nobody had ever before gone to the keeper of a book and asked who was good, and been given him. He had stood in an inn, forty days ago, and heard Pike say that he could not send a hold a crew that had never yet had anything go wrong. Something had gone wrong for them twice since then, and they had come back from it both times, and here it was on a shingle.
+He had been written on a good many boards. A woman in Ardenmere had chalked him up with a question mark, and a panel had posted him at a rate that it had scattered on purpose, and for two years a house had put his name on a card every week because a schedule told it to. Nobody had ever before gone to the keeper of a book and asked who was good, and been given him.
+
+He had stood in an inn, forty days ago, and heard Pike say that he could not send a hold a crew that had never yet had anything go wrong. Something had gone wrong for them twice since then, and they had come back from it both times, and here it was on a shingle.
 
 "A fortnight," said Lira. "They'd wait a fortnight, for us, with a bull loose." She looked round at the others, and her eyes were very bright. "He didn't say fast. Nobody said fast. They said *who*."
 
@@ -82,7 +84,9 @@ It went down the meadow in that level carrying voice, past five fires. A woman l
 
 "Is it wrong?" said Pike.
 
-He put it to all five, as he put it to anybody. Cael went through the line a word at a time, for the place where he could say so. *Mapped* was true, and *delivered*; carts would go round, for an old man with a tally-stick had said it in those words. There had been a cart, and there was none, and three of them had been hurt. He looked for the thing that the line left out, and found it at once, and it was everything: a ledge that had shown no crack, and a page marked derived, and eight seconds of fire. None of that was in Pike's column, and he had known since a river bank that it would not be.
+He put it to all five, as he put it to anybody. Cael went through the line a word at a time, for the place where he could say so. *Mapped* was true, and *delivered*; carts would go round, for an old man with a tally-stick had said it in those words. There had been a cart, and there was none, and three of them had been hurt.
+
+He looked for the thing that the line left out, and found it at once, and it was everything: a ledge that had shown no crack, and a page marked derived, and eight seconds of fire. None of that was in Pike's column, and he had known since a river bank that it would not be.
 
 "No," he said.
 
@@ -194,7 +198,9 @@ She looked up at Pike.
 
 "It's a paper with a hundred on it," said Pike. "I'd not call it more."
 
-Cael looked at the three things lying side by side on the tarred oak. There was a leaf in his own hand that held a stranger's passing word, and a calfskin that a carter had drawn for his wheels over twenty-two years, and a cream sheet under a seal that he had first seen burned into the end of a cask. None of them had been meant for the others' company. The woman with the barley had never looked at her husband's map with a pencil in her hand, and the carter had certainly never read a broker's paper; and yet all three were speaking of one patch of grass, two days beyond a fence, as though they had agreed on it beforehand.
+Cael looked at the three things lying side by side on the tarred oak. There was a leaf in his own hand that held a stranger's passing word, and a calfskin that a carter had drawn for his wheels over twenty-two years, and a cream sheet under a seal that he had first seen burned into the end of a cask.
+
+None of them had been meant for the others' company. The woman with the barley had never looked at her husband's map with a pencil in her hand, and the carter had certainly never read a broker's paper; and yet all three were speaking of one patch of grass, two days beyond a fence, as though they had agreed on it beforehand.
 
 "Why's it under your stone?" said Lira. "Everything else you've got is on a tack. You shout it at people."
 

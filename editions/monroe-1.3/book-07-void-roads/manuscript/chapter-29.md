@@ -126,23 +126,27 @@ She sat down on the grass outside the line and took off the great boot, and unwo
 
 "I know what it'll be. I heard it come back off a mountain." Lira's face was pale. "It went off by itself, that morning. I never told it to. I've got to walk into a place with dogs in it on this foot, and I'd like to know, before I do, whether it can."
 
-There was no arguing with that. Cael had the ruling, and he gave it with a nod, and she stepped over the stone and turned to face north, with the ring on her right hand, and set her feet.
+There was no arguing with that. Cael had the ruling, and he gave it with a nod, and she stepped over the stone and turned to face north, with the ring on her right hand.
 
-He had watched her do that a thousand times, from a rail at Norhold, and on a gravel bar in the mist, and at the mouth of a ledge on the seventy-eighth morning. He knew the order of it as he knew his own name: the weight going forward onto the balls of both feet, and the heels lifting, and then the gathering in her calves that came a breath before the air broke. For three months he had seen her reach that last place and refuse it.
+He did not watch her go. If a one-armed man had been wrong for thirty years, the answer to it would come out of the grass on the eastern side, a quarter of a mile off, where three runs crossed a line; and somebody had to have his eyes there when the air broke. He fixed them on that place and kept them on it.
 
-She did not refuse it now. He saw her ask.
+So it was his own feet that told him. Wind stood up in them to go with hers, harder than it had leaned in three months, as it had stood up once at the mouth of a ledge, and he put it down; and in the same instant the grass behind his shoulder hissed.
 
-Every sinew in her answered. Her whole body went into it at once, and in his own feet Wind leaned to go with her, as it always did; he put it down.
+That was the whole of it. He waited for the crack, and for whatever a far hillside would send back, and the air lay as it had lain all morning, cold and still. Nothing stirred on the eastern grass.
 
-She took one step.
-
-It was a long one, and very fast, and it carried her a yard and a half along the line; she landed on her left foot and brought the right up beside it, and stood. The grass hissed, and that was all the sound there was. Over the whole wide hillside the air lay as it had lain before, cold and still, and no echo came back from anywhere, since nothing had been sent.
-
-Lira stayed as she was, looking down at her own two feet on the frost, a yard and a half from where they had started.
+He turned his head. She was a yard and a half along the line from the place where she had planted herself, with the left foot forward and the right drawn up beside it, looking down at the pair of them on the frost.
 
 "That was a step," she said.
 
-"I asked for all of it. I did everything. You saw me; you'd have seen if I'd held any back." She lifted her head. Her eyes were very wide, and for an instant Cael thought that she was going to weep, and then he saw that it was not that at all. "It's in me. It's not in the air."
+She said it to her feet. Then she looked round at the row of them, and her eyes were very wide.
+
+"I asked for all of it. I went up onto my toes and let the whole of both legs go, the way I'd go on a card, and I didn't stop it. I've stopped it every day for three months, just there, with my heels off the ground. I never touched it this time. Brom saw; he'd have seen if I'd held any back."
+
+"She went like a hare off its form," said Brom. "For a yard."
+
+For an instant Cael thought that she was going to weep, and then he saw that it was not that at all.
+
+"It's in me. It's not in the air."
 
 She turned it over, standing there.
 
@@ -156,7 +160,7 @@ Lira stepped back over the grey stone, and stopped dead on the near side with he
 
 "Back?" said Karis.
 
-"Back. All at once." She had her hand flat against her own breastbone. "I felt it at the stone last night, but I wasn't looking then. I was looking this time."
+"Back." She had her hand flat against her own breastbone. "I felt it at the stone last night, but I wasn't looking then. I was looking this time."
 
 "What is it like? I want it in your words. I have Brom's door, and my own purse."
 
@@ -238,13 +242,17 @@ Cael looked at her as she said it. She had walked two days up an empty road to l
 
 For a quarter of an hour after that, nobody at the stone had an eye to spare for anybody else.
 
-Cael watched it happen. Five people had each lost a thing, a stride from where they stood, and had it handed back, and every one of them had turned inward to look at it. Oryn was hobbling the mule, with her lips moving in a count that she did not seem to know she was keeping. Brom knelt by the middle box. Karis sat with her eyes shut, and Lira walked up and down on the great boot, a little apart, and Seln stood looking east. There were five rows to be ruled fair before the leaf went into a box. He took it a cord along the line to the north, to Brom's first turf, where there was a flat place to kneel; and nobody marked his going.
+Cael watched it happen. Five people had each lost a thing, a stride from where they stood, and had it handed back, and every one of them had turned inward to look at it. Oryn was hobbling the mule, with her lips moving in a count that she did not seem to know she was keeping. Brom knelt by the middle box. Karis sat with her eyes shut, and Lira walked up and down on the great boot, a little apart, and Seln stood looking east.
+
+There were five rows to be ruled fair before the leaf went into a box. He took it a cord along the line to the north, to Brom's first turf, where there was a flat place to kneel; and nobody marked his going.
 
 He had seen that it would be so. He had been waiting for it since first light.
 
 He stood beside a square of black turf and priced the thing, as he priced everything, and he did it honestly, since he was about to do it regardless.
 
-The finding in his book said that the hounds answered what went out of a person; and a fragment answering went out of him, as he had felt it go at a ford, where one burst had drawn three. That was the cost, and he set it down first. Against it there was the hour, at which no hound on any road had ever been seen abroad, and there was the choice of what to ask. The Iron read was the quietest thing he owned. He had refused it on a fan and a lip and a bench, when it would have told him what he was being paid to learn, and each time he had refused because a boy's word could be checked by nobody.
+The finding in his book said that the hounds answered what went out of a person; and a fragment answering went out of him, as he had felt it go at a ford, where one burst had drawn three. That was the cost, and he set it down first. Against it there was the hour, at which no hound on any road had ever been seen abroad, and there was the choice of what to ask.
+
+The Iron read was the quietest thing he owned. He had refused it on a fan and a lip and a bench, when it would have told him what he was being paid to learn, and each time he had refused because a boy's word could be checked by nobody.
 
 This was a different matter from a map. Six people were about to walk into a place where every one of them believed that all six were alike, and he was the only one who could find out whether that was so.
 
@@ -286,9 +294,13 @@ Karis took it from him, and read down the five rows, nodding at each. Then she l
 
 She said it to the leaf. It was a clerk's question; she had a table with a row empty.
 
-He had perhaps a breath. He saw Lira, stamping her foot down into a boot the size of a bucket, with her face still stripped from that one step, and he saw a healer flexing her fingers; and he saw that the healer was the plainest reason of all, since she knew nothing of what he was. He could not have said, at that stone, in front of her, that the things he carried had answered him in there, without telling her what he carried; and that was not his alone to tell.
+He had perhaps a breath. He saw Lira, stamping her foot down into a boot the size of a bucket, with her face still stripped from that one step, and he saw a healer flexing her fingers; and he saw that the healer was the plainest reason of all, since she knew nothing of what he was.
 
-It was a real reason. He distrusted it for coming so readily to hand.
+To tell it at that stone was to tell it to her, and he could not have said that the things he carried had answered him without saying what they were. There were nine, and every one of them had come out of a person.
+
+One had come out of the mild man who stood six feet off with his hands behind him, looking east. It was the very thing that Seln had reached for at this stone, not half an hour ago, and not found; and Cael had held it shut at every dusk for ninety-six days, so that nobody who might one day speak of it to a carter bound for a ferry should know where a boy had learned it. A healer spoke to every carter on seven roads. She would not have meant the least harm by it.
+
+That was not his alone to give away. It was a real reason, and he distrusted it for coming so readily to hand.
 
 "It was dark before," said Cael. "It's dark now."
 
