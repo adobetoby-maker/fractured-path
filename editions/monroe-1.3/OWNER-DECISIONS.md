@@ -158,3 +158,5 @@ Seven protected lines say variants of "mine didn't", "my Path", "mine has been a
 
 ## 50. Book 7 — "Six years I've wanted a face" (OWNER ITEM; needed before Book 7 Movement 7)
 The protected line gives Seln six years; edition Book 6 has him carry the case twelve years (fifteen in service). **Default until ruled: the line stays verbatim** and the plan stops calling the case a six-year matter. Options: (1) "Twelve years I've wanted a face."; (2) "All these years I've wanted a face."; (3) keep six and name a separate event six years back that began the wish.
+
+**#50 update (coordinator, 2026-10-11, before B7 Movement 7).** Default confirmed and written into Movement 7's packet: the line stays verbatim and unglossed; no six-year event is invented; the case's twelve years is not stated in that scene. One thing the owner may like to know: the closed Movement 5 has Seln date the registry's survey of the circles at "five years ago by the stake, maybe six" (ch34), so on the page "six years" can be heard as the time since that survey without any change. If the owner prefers option (1) or (2), it is a one-numeral change.
