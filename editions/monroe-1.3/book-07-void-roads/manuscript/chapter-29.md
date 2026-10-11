@@ -162,7 +162,7 @@ Lira stepped back over the grey stone, and stopped dead on the near side with he
 
 Lira frowned, and hunted for it.
 
-[[TIER-B: Lira, of her Arbiter's return on stepping back over the line — "like a clock that stopped and started again without losing the time." — coordinator to supply protected text]]
+"It doesn't come on like a lamp. It's just there, and it's where it was, like a clock that stopped and started again without losing the time."
 
 Karis had Cael write that down as it was spoken, the whole of it, in the fourth row. She read it over his arm when it was done.
 

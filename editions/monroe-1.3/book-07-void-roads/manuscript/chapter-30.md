@@ -160,7 +160,7 @@ He did not call. He lifted his left hand a little from his side, with the finger
 
 "Leave that," said Cael.
 
-Karis had the eleventh sheet half rubbed. She looked up at his face, and took the paper off the stone as it was.
+Karis had finished the eleventh sheet. She looked up at his face, and rolled the paper at once.
 
 They crossed the floor together, the five of them, twenty-six strides, and their boots were silent on it. At the eastern lip Cael stepped down onto the turf beside Seln and saw what he was looking at.
 

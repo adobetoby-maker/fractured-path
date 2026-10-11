@@ -34,17 +34,17 @@ She went and read it, with her nose a hand's breadth from the wet ink, and came 
 
 "I wasn't sneering. I was working out how good you'd have to be to get past him by two."
 
-Pike had sat down at last, on the hearth bench, under his own handwriting, and somebody had put a cup into his hand. Cael took his own cup and went over, as he had gone over once before to ask about a ledger-keeper in Ardenmere.
+Pike had sat down at last, on the hearth bench, under his own handwriting, with the ledger beside him and a cup somebody had put into his hand. Cael took his own cup and went over, as he had gone over once before to ask about a ledger-keeper in Ardenmere.
 
-"The man at the top," he said. "You told us at the plank that he came in last night."
+Cael had meant to ask about the man at the top, whom Pike had said came in last night. He had not yet found the words.
 
 Pike drank, and looked at the fire, and then he looked across the room at the boards by the door, where a lamp stood beside a cream sheet.
 
-[[TIER-B: Pike, in the board's room, of Teague — "Teague's nine up… He read that slip yesterday. Read it twice… I'd have done the same, and I told him, and he said he knew." — coordinator to supply protected text]]
+"Teague's nine up," Pike said, to the book, asked by nobody. Then, still to the book, at the same size, as if it were the next line and not a different thing: "He read that slip yesterday. Read it twice, same as the boy did. Put it back under the stone and took the fence. I'd have done the same, and I told him, and he said he knew."
 
 Cael stood with the cup in his hand.
 
-He had read that man's feet in the silt of a ford, and his halts at five halting-grounds after it. He had watched him count three people on a sill before he looked at a room, and had been told by him on a river bank, in a level voice, what a mountain was worth. And the same man had stood at that plank a night ago, with a hundred marks under his hand, and had read it twice, and put it back under a stone.
+He had read that man's feet in the silt of a ford, and his halts at five halting-grounds after it. He had watched him count three people on a sill before he looked at a room, and had been told by him on a river bank, in a level voice, what a mountain was worth. Now he knew what that same man had done at the plank a night ago, with a hundred marks under his hand.
 
 It was a reason against. He entered it as one, with the name of the man who had given it, and he noticed that Pike had not told him what the reason was. He did not think that Pike knew.
 
@@ -126,7 +126,7 @@ Cael had known her for two years, and in all that time he had heard her ask for 
 
 Brom had turned the paper toward himself with one finger, and he had been doing a sum. Cael knew the look of it. He had worn that look over a wash and a fan and a cut axle.
 
-[[TIER-B: Brom, at the council — "A survey kit's a cart's worth… That's not the reason. That's what it is." — coordinator to supply protected text]]
+"A survey kit's a cart's worth. Brass. A level, a chain, the rule. Nobody puts a cart's worth down and walks off from it unless they walked off fast." He looked at the jug. "That's not the reason. That's what it is."
 
 He pushed the paper back to the middle of the table and picked up his cup.
 
