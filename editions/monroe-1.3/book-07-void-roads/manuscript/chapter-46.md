@@ -106,7 +106,7 @@ Lira's head came round.
 
 "Seln," said Cael.
 
-[[TIER-B: Seln at the council — the packet's "Take it…", which stands before the map's whole "They'll send people…" — coordinator to supply protected text]]
+"Take it."
 
 "They'll send people. A lure's no use if nobody's waiting at the end of it. People have faces. Six years I've wanted a face."
 

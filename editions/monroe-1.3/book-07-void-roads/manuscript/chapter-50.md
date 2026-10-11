@@ -232,7 +232,7 @@ At the fourth from the top he stopped. The square was over his head, and it was 
 
 Above him there was the lip of the floor, and a great deal of open sky. He was a yard below the level of the stone, and no person on that rim could have seen the top of his head.
 
-It was dusk. Shadow, the ninth fragment that he carried, had been lifting in him for an hour, as it lifted at every dusk, like a tide coming up a beach. He had told it no on the fifth evening past the Line, and at a ford with the light going, and on a gate-walk; he had refused it on something over a hundred evenings, and let it have him once, for ten strides.
+It was dusk. Shadow had been lifting in him for an hour, as it lifted at every dusk, like a tide coming up a beach. He had told it no on the fifth evening past the Line, and at a ford with the light going, and on a gate-walk; he had refused it on something over a hundred evenings, and let it have him once, for ten strides.
 
 He did not tell it no.
 

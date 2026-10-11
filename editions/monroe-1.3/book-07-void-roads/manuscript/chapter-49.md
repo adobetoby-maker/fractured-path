@@ -272,7 +272,7 @@ She sat back on her heels.
 
 "You'll not draw it?" said Seln, from the door.
 
-[[TIER-B: Oryn, of the bolt, to Seln's question — the map's "the bolt's the plug", given from the middle of a sentence — coordinator to supply protected text]]
+"It's high. It's missed the lung and it's missed the big vessel, or he'd not be talking. Leave it in, because the bolt's the plug. When my hands work again I'll take it out and close what it opened. Not before."
 
 "Tape," said Lira's voice, from up the stair. A small hard roll came down the steps, one at a time, and lay on the floor in the light. "It's what I've left from the ankle. It's hers anyway."
 

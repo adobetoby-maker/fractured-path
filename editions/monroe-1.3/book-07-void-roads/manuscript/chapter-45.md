@@ -192,7 +192,7 @@ For the space of a breath there was only the fire. Three hundred marks was more 
 
 Pike had his eyes on his book.
 
-[[TIER-B: Pike, unasked, of the Stair slip — the packet's "Nothing else ever…", which stands before the map's whole line that follows — coordinator to supply protected text]]
+"Nothing else ever."
 
 "I'd not take it."
 

@@ -80,7 +80,7 @@ It was ten strides from the door to the western wall, and ten across, and he pac
 
 The walls were what he had seen by one small lamp, and a great deal more.
 
-They were cut from the floor to the roof. The work ran in courses, one above another, five to a wall, each as tall as a forearm; and in every course the fine sunk lines stood side by side in their groups, straight and hooked and crossing, as close as the words on a page. Between the second course and the third, on all four walls, there was a space a hand wide with nothing in it but a single groove, which ran level right round the room; and at each corner a short stroke was cut across it.
+They were cut from the floor to the roof. The work ran in courses, one above another, five to a wall, each as tall as a forearm; and in every course the fine sunk lines stood side by side in their groups, straight and hooked and crossing, as close as the words on a page.
 
 Karis stood in the middle of the eastern wall with her lamp held up, and for some time she did not move at all.
 
@@ -274,13 +274,9 @@ She wrote it down, and underlined it once.
 
 There was one thing more, and she had kept it for the last of the oil.
 
-It was the groove. She went to it with her short cord, where it ran between the second course and the third, and she laid the cord along it from one corner's cross-stroke to the next. She did that on all four walls, and came back to the box and did a sum on the back of the twenty-ninth sheet, and frowned at it, and did it again another way.
+She went to the eastern wall's sheets, knelt on one knee, and put the end of her pencil on a line.
 
-"Seln. Read me his reach once more. Edge to centre."
-
-He read it.
-
-[[TIER-B: Karis, of the line between the courses and the radius — the map's "every ten cords and a piece. Two hundred and twenty yards and a stride, to the stride.", given from the middle of a sentence — coordinator to supply protected text]]
+"This one. It's not on the Ring. I looked for it for four days and it isn't on any upright. It's here, on every wall, and it's not in the courses with the rest — it's *between* them. On its own. Here." The pencil moved along the sheet to the next one, and the next. "And here. And here. I've paced the spacing because I pace things. It comes every — " she looked at the notebook, where she had written it, and read it out as a number she had checked twice — "every ten cords and a piece. Two hundred and twenty yards and a stride, to the stride. It recurs, on the wall, at the perimeter's radius."
 
 She had gone quite still with the sheet in her hand.
 

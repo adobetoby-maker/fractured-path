@@ -10,7 +10,7 @@ It was hers to open; he saw that, and he saw also that if he was to have it, he 
 
 "May I read you?"
 
-[[TIER-B: Oryn's answer on the road — the map's "Yes. That's the answer, and I'm the one giving it…" — coordinator to supply protected text]]
+"Yes. That's the answer, and I'm the one giving it, and I want you to notice that it's the same day as the lean-to and a different question, and that the rule held both times. Put your hand on it. Surface first. Count of ten. Don't go in past the count until I say."
 
 Lira had stopped chewing, and Karis, who had her notebook half out of her coat, pushed it back in.
 
@@ -22,9 +22,9 @@ Lira had stopped chewing, and Karis, who had her notebook half out of her coat, 
 
 "I know that you wouldn't."
 
-"Then come here. You'll do it as I do it, since it's the only way you've seen. Two on the wrist. Two on the neck, under the jaw, where the beat is. You count to ten with your lips and you take your hands away at ten, whatever you've got."
+"Then come here."
 
-He went to her. She had her wrist held out, inside upward, as he had seen a hundred people hold theirs out to her; it was broad and brown, with a white scar across the heel of the hand that he had never been near enough to notice. He laid the first two fingers of his right hand on it, and put two of his left under the angle of her jaw, lightly, where a pulse knocked.
+He went to her. She held out her wrist, inside upward, as he had seen a hundred people hold theirs out to her; it was broad and brown, with a white scar across the heel of the hand that he had never been near enough to notice. He put his right hand on her wrist.
 
 It was strange beyond telling to stand so. She had stopped a stride and a half from every person that he had ever seen her meet, until her hands were wanted; and he had been read by her six times and had never once touched her.
 
