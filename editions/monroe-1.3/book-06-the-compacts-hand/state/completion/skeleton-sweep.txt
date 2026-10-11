@@ -68,3 +68,11 @@ chapter-52.md	sentences=306	skeleton=1%	close=9%
 chapter-53.md	sentences=318	skeleton=0%	close=10%
 chapter-54.md	sentences=243	skeleton=4%	close=13%
 TOTAL	sentences=1828	skeleton=1%	close=11%
+== book-06-the-compacts-hand M9 (ch55–60)
+chapter-55.md	sentences=206	skeleton=2%	close=14%
+chapter-56.md	sentences=255	skeleton=0%	close=15%
+chapter-57.md	sentences=233	skeleton=3%	close=13%
+chapter-58.md	sentences=247	skeleton=2%	close=12%
+chapter-59.md	sentences=353	skeleton=6%	close=19%
+chapter-60.md	sentences=271	skeleton=4%	close=18%
+TOTAL	sentences=1565	skeleton=3%	close=15%
