@@ -116,7 +116,7 @@ It was a records administrator's room on the third floor of a leasehold building
 
 Cael stood in the doorway and looked at it in Seln's order before he knew he was doing it.
 
-The door: plain, painted brown, with a lock that took the keeper's key and a row of empty hooks on its back. The window: one, tall, with small panes, looking across a lightwell and the slate roofs of the lane to a green cupola four streets off, which was the wool exchange where the seat sat. The room: bare, with a long scrubbed table in the middle and nothing on it, and six chairs round it, none matching, brought up from somewhere in the building for the afternoon, and a cold iron stove in the corner. Shelves down one wall, empty, with the shapes of ledgers left on them in the dust, clean oblongs of wood where somebody's work had stood until the week before last. On the plaster above the shelves, three paler squares where something framed had hung. No paper. No pen. No cup. Whoever he was, the man whose room it was had taken every last thing of his own with him on circuit and left only the shapes.
+What the room had most of was absence. Along one wall the shelves still kept the outlines of the man's ledgers in the dust, clean oblongs of bare wood where his work had stood until a week or two ago, and above them on the plaster three paler squares showed where he had hung whatever he liked to look at. He had taken all of it on circuit with him, or locked it away, and left the shapes. What remained belonged to the building: a long scrubbed table, six chairs carried up from some store below and no two of them alike, an iron stove gone cold in the corner, and a brown door with a row of empty hooks on its back. The one tall window had small panes. Through them, across a lightwell and the wet slates of the lane, a green cupola stood four streets off, over the wool exchange where the seat sat.
 
 "It's a good room," said Lira, from the chair by the stove. She had been there half an hour. "I've been counting, and there's nothing in it to count."
 
@@ -154,13 +154,13 @@ He nodded. He bowed, not to any of them, but to the room, a short stiff bow from
 
 Karis lifted the case onto the table and turned it to face him.
 
-Seln came to the table's other end and took the brass key from his waistcoat and opened the lock with its dry sound, and lifted the lid, and stepped back. He did not lay anything out this time. Karis did. She did it in the order it had come out of the case on the first night, the forty first, in four rows of ten, then the bundle in the wing's pink tape, then the two stacks of the memoranda, and last of all the leaf in its sleeve, a hand's width from everything else. When she had finished she sat down again in her chair and folded her hands and said nothing.
+Seln came to the table's other end and took the brass key from his waistcoat and opened the lock with its dry sound, and lifted the lid, and stepped back. He did not lay anything out this time. Karis did, in the order it had come out of the case on the first night, with the leaf in its sleeve last and a hand's width apart. When she had finished she sat down again in her chair and folded her hands and said nothing.
 
 Nobody said anything about anything.
 
 Vastin read.
 
-He read the way Karis read, all of it, from the beginning, before he let himself think a single thing. He took the first pair from the top of the first row and read the record and then the order and then the slip on the back, and laid it face down, and took the second. His face did not change. His left hand lay on the table beside the rows, and every now and then, without his seeming to know it, it opened and closed, slowly, twice, the way a man tests a hand that has begun to dislike mornings.
+His left hand was the only part of him that moved for a long while. It lay on the wood beside the rows, and now and then, without his seeming to know it, it opened and closed twice, slowly, as a man tries a hand that has begun to dislike mornings. The rest of him read. A pile grew at his right elbow, face down, a pair at a time, each one turned over only when he had been through the station's record, the order clipped to it and the narrow slip pinned behind, in that order and never another.
 
 Cael counted the pairs as they went face down. He could not help it.
 
@@ -188,7 +188,7 @@ It went on past the point where silences end in rooms, past the point where some
 
 The clock on the landing ticked. Through the floor came the sound of the weight on the boards again below, and somebody laughing, and a door. The singer on the floor above had stopped, and Cael did not know when. Out of the window, across the slate roofs, the green cupola of the wool exchange stood in the grey afternoon, four streets off, with a thin smoke going up behind it from somebody's chimney in a straight line, because there was no wind. Brom breathed, slow and even, the way he breathed in a long hold at the frames. The cold stove ticked once, the way iron does when the day changes round it. Cael's ribs, which the healer had called mended a week ago, reminded him where they had been.
 
-Vastin did not move. His left hand lay on his knee, and once it opened and closed. His eyes were on the window, on the cupola, or past it, on nothing in particular, the way a man looks at the sky when he is listening for something a long way off. His face was quite still. It was the face of a man reading a figure he had been sure of for forty years and finding that he had misread it on the first day, and every day since.
+Vastin did not move. His left hand lay on his knee, and once it opened and closed. His eyes were on the window, on the cupola, or past it, on nothing in particular, the way a man looks at the sky when he is listening for something a long way off. His face was quite still.
 
 Cael found that he could not look at it for long. He looked at the shapes of the ledgers on the shelf instead, the clean oblongs in the dust, and counted them, eleven, and then counted them again, and there were still eleven.
 
@@ -276,7 +276,7 @@ He had read forty margins on a scrubbed table in a borrowed room in Ostrand. Eve
 
 He sat with the copy in front of him for a long time.
 
-He thought of the room in Ostrand, though he had told himself on the post road that he would not. Five young people and a man at a window. The man had stood a little to one side of the glass, where the frame hid him from the lane, the way the field service teaches its people to stand, and had copied forty orders in a round level hand that never once let itself be hurried. The Archmarshal had known what he was from the doorway. He had known, reading, roughly what the copying must have cost and how many years it had sat somewhere before it came to that table. He did not know the man's name, and he had been careful all the way home not to wonder it.
+He thought of the room in Ostrand, though he had told himself on the post road that he would not. Four young people and a man at a window. The man had stood a little to one side of the glass, where the frame hid him from the lane, the way the field service teaches its people to stand, and had copied forty orders in a round level hand that never once let itself be hurried. The Archmarshal had known what he was from the doorway. He had known, reading, roughly what the copying must have cost and how many years it had sat somewhere before it came to that table. He did not know the man's name, and he had been careful all the way home not to wonder it.
 
 He would not write the man down. He would not write any of them down: not the girl with the turned ankle who had asked him a straight question, not the big one with the bad shoulder, not the researcher who had held out her gloves, not the boy he had not let himself look at. A description is a file with the name left off, and he had spent forty years learning how easily the name comes back.
 

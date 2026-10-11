@@ -68,7 +68,7 @@ She was quiet a moment.
 
 Nobody said anything. Brom's kettle ticked on its shelf.
 
-"Ilsev did everything right," said Karis. "She saw a mark nobody could account for, and she sent it up and wrote down that it hadn't been traced. She's the most honest seat in the district. And Havel at the junior chair, who looks at the file every time it's on a table, as Brom's counted. He's seen something he can't place, and he's kept looking at it, which is all an honest man can do with a thing like that." She looked at each of them. "I want a rule about them before we go on."
+"Ilsev did everything right," said Karis. "She's the most honest seat in the district. And Havel at the junior chair, who looks at the file every time it's on a table, as Brom's counted. He's seen something he can't place, and he's kept looking at it, which is all an honest man can do with a thing like that." She looked at each of them. "I want a rule about them before we go on."
 
 "Say it," said Lira.
 
@@ -92,7 +92,7 @@ The second slip was longer, and she held it a while before she opened it.
 
 "The second finding is about time," she said. "How old each piece of it is. I'm going to tell you how I dated it first, because if I don't you'll think I'm guessing, and I'm not."
 
-She dated it the way she dated everything, she said: by paper, by type, by seal and by the words. The paper of the memoranda changed three times in nineteen issues, from a soft rag stock to a harder one and then to the bright registry paper of the instrument on Cael's sill, and she knew roughly when the registry had changed mills from the house's own oldest filings, which were on the same stocks in the same order. The type changed twice. The words hardly changed at all, but where a word did change, it changed to one the founding compilers would not have used. And the seals.
+The words had told her least, she said. Here and there a word had been swapped for one the founding compilers would never have used, and that put the issues in order and no more. The type gave her two breaks. The stocks gave her three: a soft rag, a harder sheet, and then the bright paper of the instrument on Cael's sill, and the house's own oldest filings ran through the same three in the same sequence, so she could say which issues were older than which. None of it gave her a year. Years had come up the library stair on the Seventh-day, in Bracken's arms.
 
 "Greyvane," said Karis.
 
@@ -102,11 +102,11 @@ She put her hand on the corner of the table where the nine leaves had lain all w
 
 "Two hundred years," said Lira.
 
-"And the leaf is the same age as the first memorandum, on the same paper. The hand is the hand of the first one's top signature; I'd swear to that in front of Ilsev. Somebody sat down two hundred years ago, wrote out what the function was and what it was for, signed the first memorandum to every station, and put the note that explained it in the bottom of the box." She was quiet a moment. "So that's when it began, the policy, two hundred years ago, near enough, at somebody's desk. That's the middle layer."
+"And the leaf is the same age as the first memorandum, on the same paper. The hand is the hand of the first one's top signature; I'd swear to that in front of Ilsev. Somebody sat down two hundred years ago, wrote out what the function was and what it was for, signed the first memorandum to every station, and put the note that explained it in the bottom of the box." She was quiet a moment. "That's the middle layer."
 
 "Middle," said Cael.
 
-"Middle." She touched the leaf's place on the table, though the leaf was in its sleeve in the case. "Read it again in your head: *The function is appended to the reading and is not the reading. It does not alter what the reading shows.* It goes out of its way to say it didn't make the reading. It's a note written by somebody who added something to a thing that was already there, and wanted it understood which part was his." She looked at Brom. "Think of your father's forge in the shed past the gardens, and the mill that must have stood on the estate's stream. If a millwright wants a wheel, he doesn't dig the river, because the river's there already. He cuts a race beside it, and puts his wheel in the race, and spends the rest of his life keeping the race clear of weed. That's maintenance, and that's what this leaf is: a millwright's note about a race. It doesn't say a word about who dug the river."
+"Middle." She touched the leaf's place on the table, though the leaf was in its sleeve in the case. "Read it again in your head: *The function is appended to the reading and is not the reading. It does not alter what the reading shows.* It's a note written by somebody who added something to a thing that was already there, and wanted it understood which part was his." She looked at Brom. "Think of your father's forge in the shed past the gardens, and the mill that must have stood on the estate's stream. If a millwright wants a wheel, he doesn't dig the river, because the river's there already. He cuts a race beside it, and puts his wheel in the race, and spends the rest of his life keeping the race clear of weed. That's maintenance, and that's what this leaf is: a millwright's note about a race. It doesn't say a word about who dug the river."
 
 "Then who did?" said Lira.
 
@@ -152,13 +152,13 @@ She had her chin on her fist and her eyes on the place on the table where the le
 
 Karis looked at her.
 
-"The registry, or whoever sat at that desk. They didn't make the reading. Your leaf says so, as near as it can without saying it. It was there, and they found it, and they cut their race beside it and put their wheel in and kept it clear for two hundred years." She lifted her chin off her fist. "Two hundred years is a long time to a registry. It's the whole of their paper. It isn't a long time compared to whatever's under it."
+"The registry, or whoever sat at that desk. They didn't make the reading. Your leaf says so, as near as it can without saying it. It was there, and they found it." She lifted her chin off her fist. "Two hundred years is a long time to a registry. It's the whole of their paper. It isn't a long time compared to whatever's under it."
 
 Nobody answered her, because nobody could, and Karis did not try. She sat with her hands flat on the table and her eyes on Lira's face. Cael saw her decide not to write it down, and saw what it cost her not to.
 
 The third slip was the shortest, and Karis read it almost at once, as if to get past it.
 
-"I went through everything for the anomaly," she said to Cael, "for session nine. You asked me to, at Greyvane, and I've never forgotten that you asked." She did not look at the slip. "Anything in the forty that read across a family with nobody of that family near. Anything in the reports about a practitioner who took something from no one. Any memorandum that mentions Tide by name, or a reading at a distance, or one that came without an engagement. Anything in the leaf." She shook her head. "Nothing. Not one line in it touches session nine. The function corrects what the reading shows at Kindling. Your session nine wasn't a Kindling, and the reading didn't show it to anybody, and nobody corrected it. Whatever it is, the case didn't do it and doesn't know about it."
+"I went through everything for the anomaly," she said to Cael, "for session nine. You asked me to, at Greyvane, and I've never forgotten that you asked." She did not look at the slip. "Anything in the forty that read across a family with nobody of that family near. Anything in the reports about a practitioner who took something from no one. Any memorandum that mentions Tide by name, or a reading at a distance, or one that came without an engagement. Anything in the leaf." She shook her head. "Nothing. Not one line in it touches session nine. The function works at Kindling, and session nine wasn't a Kindling. Whatever it is, the case didn't do it and doesn't know about it."
 
 Cael took Hesk's book out of the satchel.
 
@@ -194,7 +194,7 @@ Seln had not spoken all night except to agree to the eleven words. He spoke now,
 
 They looked at him.
 
-"Nobody has come since the cut: no team, no knock, no rider at the gate. I have been reading the post for it every morning, and the lodge book, and the coats, and there is nothing." He moved one finger. "I thought at first they were counting what the road cost them, but that is not it. Why spend a team on a road, where things go wrong and a team goes home with nothing, when the seat will deliver him at the close of the year, by the book, in a room with a clerk? They don't need the hand when they have the instrument, and they are waiting for it to do its work."
+"Nobody has come since the cut: no team, no knock, no rider at the gate. I have been reading the post for it every morning, and the lodge book, and the coats, and there is nothing." He moved one finger. "I thought at first they were counting what the road cost them, but that is not it. Why spend a team on a road, where things go wrong and a team goes home with nothing, when the seat will deliver him at the close of the year, by the book, in a room with a clerk? They don't need the hand when they have the instrument."
 
 Nobody said anything for a while.
 
@@ -206,7 +206,7 @@ Nobody said anything for a while.
 
 She said it as if she had been carrying it for five nights and had only now found the place to put it down.
 
-"I've thought about it every night this week, who you'd file it with. The seat runs on it, and so does the registry. Every evaluation office in the Compact sends its readings through it. You'd be filing a complaint about the corrections function with an office whose whole business is entering what the corrections function advises. And they'd read it, and they'd find nothing irregular in it, because there isn't anything irregular in it. Every form's been filled in properly for two hundred years." She took her hand off the notebook. "There isn't a seat outside it. There's nobody to send it to who isn't standing on it."
+"I've thought about it every night this week, who you'd file it with. The seat runs on it, and so does the registry, and every evaluation office in the Compact sends its readings through it. You'd be filing a complaint about the corrections function with an office whose whole business is entering what it advises, and they'd find nothing irregular, because every form's been filled in properly for two hundred years." She took her hand off the notebook. "There's nobody to send it to who isn't standing on it."
 
 Cael sat on the bench and looked at the four slips and the open notebook.
 

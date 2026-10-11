@@ -170,7 +170,7 @@ The five of them sat in the reading room under the shaded lamp, with the case on
 
 She put her finger on the code.
 
-"First. A respondent who leaves the jurisdiction while a proceeding is pending is absent. You remember the coastal letter. The seat doesn't need him to have run. It needs him not to be there. Forty days after the close of the last sitting he failed to attend, it enters him." She did not need to read the line. "*Respondent absent from the jurisdiction; entered as fled.* That's Cael. The fourth sitting closed on the seventy-fifth day. If he were gone, it would enter on the hundred and fifteenth, long before any ruling."
+"First. A respondent who leaves the jurisdiction while a proceeding is pending is absent. You remember the coastal letter. The seat doesn't need him to have run. It needs him not to be there. The code doesn't count missed sittings; it counts days from the close of the fourth sitting, the one that put the record, and if he's out of the jurisdiction on the fortieth of them, it enters him." She did not need to read the line. "*Respondent absent from the jurisdiction; entered as fled.* That's Cael. The fourth sitting closed on the seventy-fifth day. If he were gone, it would enter on the hundred and fifteenth, long before any ruling."
 
 "Second." She turned two leaves. "A chartered house whose enrollee is entered as fled, during a proceeding brought against his enrollment, is entered as having harboured the flight. It's one line on the house's charter. It doesn't close the house; it sits on the charter for the next inspection, and the inspection reads it." She looked at the table. "Withrow's charter folder, the one with the remedy column."
 

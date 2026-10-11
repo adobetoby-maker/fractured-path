@@ -175,9 +175,9 @@ Brom nodded once, slowly, at the floor.
 
 The kettle had stopped ticking. The lamp stood up straight in its glass.
 
-Seln sat with his hands flat on the cloth and looked at Cael for a long time, and his face showed nothing, as it showed nothing at the counter. But Cael had sat across counters from him for two years, and had walked a circuit with him and read a lodge book at his elbow, and had watched him look at rooms. He knew that Seln was doing now what he did to a room, going back through it, two years of it: the counter, the bench and the cup, the slips on the common-room fire, the season's figures that never once settled into a line. The afternoon at Norhold where everything held back went out in one breath, and one thing did not. He was finding, one at a time, all the places where a boy had held a coat over him without saying he was holding it.
+Cael did not watch his face. Two years across a counter had taught him that it was the last place on the man where anything would show. He watched the hands instead, flat on the green cloth, and saw the fingertips pressed down until they had gone pale, the way a clerk presses a ledger open at a page he means to read back through from the top. Cael knew which pages. The counter, the bench and the cup. The slips on the common-room fire. A season's figures that never once settled into a line. An afternoon at Norhold where everything held back went out in one breath, except one thing. Somewhere in all that, a boy had been holding a coat over him and never saying so, and the hands were finding each place.
 
-Then Seln spoke, very quietly.
+The colour came back into the fingertips, and he said it to the cloth.
 
 "You kept my file too, then."
 

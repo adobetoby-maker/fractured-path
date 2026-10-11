@@ -199,3 +199,44 @@ flesch_reading_ease 88.5 (target 72.3) · flesch_kincaid_grade 4.29 (target 6.8)
 13. **No placeholders and no new names.** Unnamed: the father, the daughter, the district clerk, the office's absent occupant, the building's keeper, the northern junior, Seln's mother, the inn's boy, the fourth station's keeper, the first-year with the new badge, the healer.
 14. **Proposed protected patterns:** four (above). Not applied; `protected-patterns.txt` untouched.
 15. **Length:** 32,503 against ~31,000 (≈105%) per #45; not padded.
+
+## Repair r1
+
+Same author (`claude-opus-5-5`), same session, 2026-10-10, from `REPAIR-BRIEF.md`. Every change was read in place and recomposed by hand as an exact-string edit. No script split or joined sentences. No source chapter, and not `source-tracking.md`'s quoted text, was opened; the five tracked passages were rebuilt from the line numbers alone. No git command was run, and `protected-patterns.txt` was not touched. The coordinator's two ch37 reserved-truths fixes (the seal terms keyed to a witness who could carry it west, in Seln's speech and in Cael's log) were re-read in context and left as they stand.
+
+### Must fix 1 — ch38, the forty-day trigger
+Only the trigger sentence changed. It now reads: *The code doesn't count missed sittings; it counts days from the close of the fourth sitting, the one that put the record, and if he's out of the jurisdiction on the fortieth of them, it enters him.* Day 75, day 115, the *fled* entry, the four files, the good-standing door, Karis's three-part proof and "we don't run, we walk" are all unchanged.
+
+### Must fix 2 — ch40, the room
+"Five young people" is now "Four young people and a man at a window". Nothing round it changed.
+
+### Must fix 3 — the five tracked passages
+- **36:89 (the leaf and the gloves):** Karis no longer looks at the leaf for a long time and then fetches gloves from the annex. She has the gloves in her coat for the cold term, puts them on while looking at Seln rather than at the leaf, and only then turns it toward the lamp. Cael's view opens the description.
+- **37:178 (the lead-in only):** the long look, the unreadable face and the delayed speech are gone. Cael now watches Seln's hands, not his face. The fingertips are pressed pale "as a clerk presses a ledger open at a page he means to read back through", and the colour coming back cues the line. The protected sentence is untouched.
+- **39:95 (the dating):** the order is now words first, then type, then stocks. Each is weighed for what it could and could not give, and the conclusion is that none of them gave a year. The years "came up the library stair… in Bracken's arms", which hands the paragraph to the Greyvane seals.
+- **40:119 (the office):** the door, window and room list is gone. The paragraph now opens on absence (the ledger shapes and the pale squares), then what belonged to the building, then the window. The protected description sentence before it is unchanged.
+- **40:163 (Vastin begins to read):** it now opens on the left hand, then the face-down pile growing at his elbow. The record, order and slip still come in that fixed order. "He read the way Karis read" is cut.
+
+### Must fix 4 — explanatory echoes (compressed only where dialogue or a document had just established the point)
+- **ch36:**
+  - Karis's gloss on "That's a form" cut to one sentence.
+  - "There was a line of people signing for coal" cut; Seln's coal-order analogy is kept.
+  - "Nothing made by people is never wrong" cut; the mother's ledger is kept whole.
+- **ch39:**
+  - Ilsev's referrals restated → cut.
+  - "So that's when it began… two hundred years ago" → "That's the middle layer."
+  - "It goes out of its way to say it didn't make the reading" → cut.
+  - The repeated race in Lira's line → cut; both packet fragments kept.
+  - The anomaly's explanation → one clause.
+  - "they are waiting for it to do its work" → cut.
+  - Karis's "can't be filed" speech compressed. "There isn't a seat outside it" is cut, and "There's nobody to send it to who isn't standing on it" is kept, because Lira quotes it on the stair.
+- **ch40:**
+  - The re-listing of the cache's layout → "in the order it had come out of the case on the first night, with the leaf in its sleeve last".
+  - The interpretive sentence on Vastin's face in the silence → cut. The silent read and the silence are otherwise whole.
+- **Kept, as named in the brief:** every evidence class; the father's letter; the coal order; the mother's ledger; Karis's entered limit; "It's not evidence. It's a map."; the three refusals; the east-hall scene.
+
+### Checks after r1
+- **Gates:** 0 / 0 / 0 on all six chapters.
+- **Overlap:** **0 unprotected runs, 14 protected.** The coordinator's new M6 patterns cover the four packet lines.
+- **Sweep:** skeleton 2%, close 14%, on 1,427 sentences. By chapter (skeleton / close): ch35 1/18 · ch36 1/13 · ch37 2/15 · ch38 0/9 · ch39 2/17 · ch40 3/15.
+- **Formula:** 32,267 words · sentence mean 13.5 · ≥40 words 3.8% · ≤5 words 26.9% · paragraph median 21 · 978 words per scene · FK grade 4.3. All within the working ranges. The trims cost about 240 words, which were not padded back.

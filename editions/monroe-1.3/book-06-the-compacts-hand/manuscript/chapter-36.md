@@ -54,7 +54,7 @@ Karis looked at him.
 
 "I don't mean the shape of it," said Brom. "I mean what it is. You don't reissue a thing nineteen times because you're still arguing about it; you reissue it because it's how things are done. The estate had forms like that, the harvest tally and the stable book, and nobody thought about them, because that was what they were for." He moved his hand off the table. "That's a form."
 
-"Yes," said Karis, after a moment. "That's exactly what it is." She said it slowly, as if she had been carrying the thought and had not yet found a place to set it down, and Brom had set it down for her. "A form is what you make when a thing is done so often that nobody should have to think about it. You make it so that the next man doesn't have to decide anything. He only fills it in."
+"Yes," said Karis, after a moment. "You make a form so that the next man doesn't have to decide anything. He only fills it in."
 
 Lira had pulled the yellow stack a little toward her along the cloth. She did not pick anything up. She looked at the first leaf with its brown edges and its heavy type.
 
@@ -76,7 +76,7 @@ They looked at him. He had not moved.
 
 "A reissue is the lightest paper in any office," he said. "The words were settled before you were born. The clerk brings it in with the coal accounts and the lamp-oil order, and you sign where he points, because the last man signed there and the man before him." He looked at the yellow stack. "I have signed reissues, as every officer has. You sign them the way you sign for coal."
 
-Seventy-one names, thought Cael, and he looked for the one that would make it simple, the cruel one, the one who had known and wanted it. There was no such name on the table. There was a line of people signing for coal.
+Seventy-one names, thought Cael, and he looked for the one that would make it simple, the cruel one, the one who had known and wanted it. There was no such name on the table.
 
 ---
 
@@ -86,11 +86,9 @@ Seln moved for the first time since he had put his hands on the table. He went r
 
 "Everything else is my hand," he said. "The orders and the records and the reports I copied, at night, over five weeks. The memoranda were spares. The press held three or four of every issue and nobody had counted them in a generation, so I took one of each. This is the only thing in the case that someone else made." He took his finger off it. "A copy of it would have been worth nothing. Everything it says is in what it is."
 
-Karis looked at it for a long time without touching it.
+Karis's hands were already in her coat pockets. She carried thin cotton gloves there all through the cold term, for the founders' volumes on her top shelf, and she drew them out now and worked them on while she kept her eyes on Seln and not on the leaf, as if it would be rude to look at it bare-handed. Only when the second glove was on did she reach across and turn it a quarter toward the lamp by one corner.
 
-Then she got up and went to the annex across the landing, unlocking the door and locking it after her, and came back with a pair of thin cotton gloves of the kind she wore for the founders' volumes. She put them on, finger by finger. She sat down again and drew the leaf an inch nearer the lamp by its corner.
-
-It was small, smaller than any of the memoranda, a single leaf of a thick grey-brown paper that had a faint grain in it like cloth. The writing on it was not printed. It was ink, in a hand Cael had never seen, upright and very old-fashioned and very clear, with a heading and a short paragraph under it. There was no seal. At the foot there was a mark that might once have been a seal before something wore it away, or might never have been anything.
+Cael could see it from the bench. It was small, smaller than any of the memoranda, a single leaf of a thick grey-brown paper that had a faint grain in it like cloth. The writing on it was not printed. It was ink, in a hand Cael had never seen, upright and very old-fashioned and very clear, with a heading and a short paragraph under it. There was no seal. At the foot there was a mark that might once have been a seal before something wore it away, or might never have been anything.
 
 Karis read it aloud. She read it more slowly than she had read anything that night.
 
@@ -196,7 +194,7 @@ Seln did not look up from the orders. "My mother's ledger was always right."
 
 Nobody understood him, and he saw it, and he went on, which he did not often do.
 
-"She kept the books for a grain factor on a river quay, twenty years at the same desk with the same scale outside the window. I copied her ledgers from the time I could hold a pen, because the factor paid a boy a copper a page for the fair copies, and I was the boy." He looked at the stack of orders. "Every page of her ledger had a mistake on it, a weight misheard or a sack counted twice or a figure carried wrong. And every mistake was struck through with one line, so you could still read it, and initialled, and the right figure written beside it in the margin. That was what right looked like: a page that had been near something real, and been wrong, and been put right by a person who signed for it." He moved one hand toward the memoranda, the whole two centuries of them. "This has never once been wrong. There is not a struck figure in it, nor an initial in a margin. Two hundred years of paper made by people, and not one of them ever made a mistake." He took the hand back. "Nothing made by people is never wrong. It had been made to agree."
+"She kept the books for a grain factor on a river quay, twenty years at the same desk with the same scale outside the window. I copied her ledgers from the time I could hold a pen, because the factor paid a boy a copper a page for the fair copies, and I was the boy." He looked at the stack of orders. "Every page of her ledger had a mistake on it, a weight misheard or a sack counted twice or a figure carried wrong. And every mistake was struck through with one line, so you could still read it, and initialled, and the right figure written beside it in the margin. That was what right looked like: a page that had been near something real, and been wrong, and been put right by a person who signed for it." He moved one hand toward the memoranda, the whole two centuries of them. "This has never once been wrong. There is not a struck figure in it, nor an initial in a margin. Two hundred years of paper made by people, and not one of them ever made a mistake." He took the hand back. "It had been made to agree."
 
 Karis sat back on the bench.
 
