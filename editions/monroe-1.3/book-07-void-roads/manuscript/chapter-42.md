@@ -218,7 +218,7 @@ She laid a scrap of the thin paper on the first chip and rubbed the side of her 
 
 She drew the nearest of the long strips across the trestle's end, and put her finger on the grey between two of the sunk lines.
 
-"The band is cut into it, and the band came up. Now look at the ground that the band is cut in." The paper there was one even grey from edge to edge. "I rubbed eleven stones a hand above that floor, and there is not a tool-mark on one of them, except the lines that somebody meant. I entered *no stroke* on the afternoon, and did not know what I had."
+"The band is cut into it, and the band came up. Now look at the ground that the band is cut in." The paper there was one even grey from edge to edge. "I rubbed eleven stones a hand above that floor, and there is not a tool-mark on one of them, except the sunk lines themselves. I entered *no stroke* on the afternoon, and did not know what I had."
 
 "That's one," said Brom.
 
@@ -252,7 +252,7 @@ She laid the knife down beside the founding stone.
 
 She had Lira lift two strips to the light, side by side: the stone that had faced south-east, and the stone that had faced due north.
 
-"It is the same band, cut by the same hand to the same depth; a fingernail, he said, and I measured it." On the southern strip the lines stood sharp and white. On the northern they were grey and narrow, and in two places the pencil had not found them at all. "That is weather. That is a north wind on the Fallow, taking a little off a stone in every cold term. Now the founding stone." She put its rubbing between the two strips. "It has stood in a north wall for as long as that city has had a gate. Look at how much of the tool is left on it, and then look at how much of that band is left on the north."
+"It is the same band, cut to the same depth; a fingernail, he said, and I measured it." On the southern strip the lines stood sharp and white. On the northern they were grey and narrow, and in two places the pencil had not found them at all. "That is weather. That is a north wind on the Fallow, taking a little off a stone in every cold term. Now the founding stone." She put its rubbing between the two strips. "It has stood in a north wall for as long as that city has had a gate. Look at how much of the tool is left on it, and then look at how much of that band is left on the north."
 
 Cael looked. He was no judge of stone; but he could count, and he could see which of two things was the more worn, and it was not the one that a city reckoned its age by.
 

@@ -270,9 +270,9 @@ She heard it all without a word. He saw the hunger in her face that he had seen 
 
 "Where is it loudest."
 
-He had not been asked that by Brom, or by himself. He stood up from the coping, since it seemed a thing to be answered standing, and showed her with his hand.
+He had not been asked that by Brom, or by himself. He stood up from the coping, since it seemed a thing to be answered standing.
 
-[[TIER-B: Cael's answer to Oryn's question in the yard, the packet's partly quoted line beginning "Here…" — coordinator to supply protected text]]
+"Here." The breastbone, where her front hand had been. "Under where you were. It's not louder there. It's *nearer*. Everything's nearer there."
 
 Oryn's eyes rested on his hand, and then on his face. She took it as she took a count that had come out to ten: she had it, and she would know it again, and she added nothing.
 

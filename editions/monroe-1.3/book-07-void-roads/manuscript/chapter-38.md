@@ -128,7 +128,7 @@ He lay under that. He had known for a night and a morning what she would be enti
 
 ---
 
-She came back to the table, and stood over him with her arms folded.
+He got down off the table. She came back to it and stood opposite him with her arms folded.
 
 "Now what it did. You'll want that, for your book, and I want it for my hands. I'll tell you what I'd tell a second healer, and no more." She spoke slowly, sorting it. "I felt nothing go. I'd swear to that. Near the end there was something going along beside me, at my own pace. I took it for myself. You hear your own feet, in a long one, when you're tired. Then it wasn't beside me any longer. It was in you, going by itself, and you were different."
 
@@ -178,9 +178,9 @@ She pulled the stool to her with her foot, and still did not sit.
 
 "I'm not asking you for a promise. I've seen what you do with what you want. I'm telling you what's owed, and I'll say when."
 
-[[TIER-B: the packet's line beginning "You're the colour of the wall…", after Oryn's condition on the table — coordinator to supply protected text]]
+"Good." Oryn gave him the book. "Now lie down again. Not for me. You're the colour of the wall and you've been standing on that calf for a quarter of an hour, and I've just been told I'm a patient's source, and I'd like a minute to sit with the second thing before I go and eat."
 
-She put the horn cup into his hand, with water in it, and waited until he had drunk. Then she sat down on the three-legged stool herself, for the first time since he had come into that room, with Hesk's book on her knee.
+He lay down. She put the horn cup into his hand, with water in it, and waited until he had drunk. Then she took Hesk's book back and sat down on the three-legged stool herself, for the first time since he had come into that room, with the book on her knee.
 
 "Leave that with me. Get your shirt, and go and eat something, and send nobody in."
 

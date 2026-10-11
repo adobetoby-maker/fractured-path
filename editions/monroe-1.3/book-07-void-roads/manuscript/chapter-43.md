@@ -158,7 +158,7 @@ She stopped in front of Cael last.
 
 She did not put a hand on him; she looked at his left leg, where a seam lay under the cloth, and at how he stood on it, and at the forearm that he had come down on under a hound's weight, and then at his face. It was the look that she gave a bench: it went over him from a stride and a half, and took what it could get from the outside, which with him had only ever been bone.
 
-"You I can tell nothing. You'd know before I would." She rubbed her palms together. "I go in the morning. That's sixteen out of this gate. A round never gives a day back; it takes one. So I'll call it seventeen at Oxhollow, where there's a table that's been looking for me since the hundred and fourth."
+"You I can tell nothing. You'd know before I would." She rubbed her palms together. "That's sixteen out of this gate. A round never gives a day back; it takes one."
 
 He had the sum before she had finished it: the eighty-fourth day at a ford, and twenty days of a round, and seventeen on top.
 

@@ -102,7 +102,7 @@ Brom let his breath go, heavily.
 
 The healer had got to her feet. She had sat through the whole of it on the edge of a sack, with her hands on her knees, and Cael could not have said what she made of a calfskin with rings on it.
 
-[[TIER-B: Oryn to the six in the loft, on her leaving, the packet's partly quoted line beginning "North in the morning…" — coordinator to supply protected text]]
+"North in the morning," Oryn said. It was not an answer to Karis; it was a fact about a route. "Oxhollow's seventeen days late and the old woman's knee doesn't care what's under a floor. I'll be on the road at first light and I'll be three days north by the time you're back at the board." She looked at him. "Thornwater's on my route. You know where that is now."
 
 She looked along the five of them, and her eyes stopped at the sling.
 

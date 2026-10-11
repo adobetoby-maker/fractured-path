@@ -34,7 +34,7 @@ Cael stood at the barn door and looked at it. He had counted those stones from t
 
 She had Lira lift the first strip by its head and hold it to the light of the door. The rubbing stood out white on grey: fine lines, straight and hooked and crossing, a band of them that had gone right round the foot of a stone and met itself.
 
-"I do not know that these are letters. I said so on the floor, and nothing has altered. But somebody cut them one stroke after another, with gaps between, and a thing that is cut in groups can be counted in groups." She laid her finger under a hooked stroke with two short bars across its stem. "That. I want to know whether that is on any other strip. If it is on four, it is a kind. If it is on this one alone, it is a scratch, and I shall say so."
+"I do not know that these are letters. I said so on the floor, and nothing has altered. But the strokes stand one after another, with gaps between, and a thing set in groups can be counted in groups." She laid her finger under a hooked stroke with two short bars across its stem. "That. I want to know whether that is on any other strip. If it is on four, it is a kind. If it is on this one alone, it is a scratch, and I shall say so."
 
 They went at it as they had once gone at a library on the same trestle. Cael drew each group on a slip of bark as she called it, with a number, and Lira laid the slips out in rows on the clay; and whenever a group turned up that had a slip already, Karis dropped a grain of barley into the horn cup at her feet.
 
@@ -52,7 +52,7 @@ Lira sat back on her heels.
 
 "You've a cup full of barley and a floor full of bark, and you're not saying."
 
-"I was wrong about apples." Karis rested her throat, and went on. "I looked into one basket, on one day, and I said *two*. A man who had kept those trees for twenty-six years showed me three. This is one basket." Her hand went round the eleven strips. "I have one floor. If a hook is cut a little wide on the ninth stone, I cannot tell whether that is a different kind, or the same kind and a tired arm. Nobody could, from here. So I shall count. And I shall not number the kinds from one site."
+"I was wrong about apples." Karis rested her throat, and went on. "I looked into one basket, on one day, and I said *two*. A man who had kept those trees for twenty-six years showed me three. This is one basket." Her hand went round the eleven strips. "I have one floor. If a hook is cut a little wide on the ninth stone, I cannot tell whether that is a different kind, or the same kind a little wider. Nobody could, from here. So I shall count. And I shall not number the kinds from one site."
 
 "Then what's the count for?"
 
@@ -130,7 +130,7 @@ She tipped the cup out on the clay and counted the grains back into it, one at a
 
 It gave her a number. She wrote it small, in the corner of a leaf, and put her thumb over it. Then she took her thumb away and looked at it, since a researcher who cannot look at her own figure has no business holding a pencil.
 
-It was more than she had expected, and that was the first thing. She had sat at lectures on old hands. She owned copies of nine alphabets, in the left-hand box, three of them out of a restricted room; and the largest had fewer signs than she had grains. If these were letters, it was a prodigal sort of language. If they were not letters, then she did not know what a person cuts into stone, group after group, with gaps between.
+It was more than she had expected, and that was the first thing. She had sat at lectures on old hands. She owned copies of nine alphabets, in the left-hand box, three of them out of a restricted room; and the largest had fewer signs than she had grains. If these were letters, it was a prodigal sort of language. If they were not letters, then she did not know what the grouped marks were.
 
 She did not know. She made herself say it over, there on the keg. It was the truest thing on the floor.
 
@@ -148,9 +148,9 @@ It had not been the sourness that she minded. It had been a small bald man sayin
 
 She had one basket.
 
-Eleven stones, on one floor, rubbed in one afternoon by one hand. Every difference on those strips was a difference that she could not weigh. A wide hook might be a word. It might be a mason whose arm was tired at the ninth stone, or a flaw in the grey, or her own pencil slipping while Lira shifted her palm. She could not ask the mason. She could not go back to the stone.
+Eleven stones, on one floor, rubbed in one afternoon by one hand. Every difference on those strips was a difference that she could not weigh. A wide hook might be a word. It might be a flaw in the grey, a variation in the cut, or her own pencil slipping while Lira shifted her palm. She could not test the cut. She could not go back to the stone.
 
-So she had a count, and no number that she would say. The grains in the cup were the kinds that she would swear to. The grains in the bowl were the kinds that only a second floor could give her or take away. If there was a second floor, and the hook stood wide on it in the same place, then it was a kind, and it came out of the bowl. If it stood narrow, it had been an arm.
+So she had a count, and no number that she would say. The grains in the cup were the kinds that she would swear to. The grains in the bowl were the kinds that only a second floor could give her or take away. If there was a second floor, and the hook stood wide on it in the same place, then it was a kind, and it came out of the bowl. If it stood narrow, the width on the first floor was not a kind.
 
 She drew a line under the figure. *Counted on the 103rd. One site. Not to be given out as the number of kinds.* And beneath that, since she kept that account too: *I want very much to give it out.*
 
