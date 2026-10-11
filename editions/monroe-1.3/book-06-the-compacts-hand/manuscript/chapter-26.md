@@ -138,7 +138,7 @@ Karis watched him go until he turned the corner.
 
 "He wasn't even careful," she said.
 
-She said it quietly, almost to herself, and Cael heard what was under it, because he had felt the same thing at the respondent's table with the schedule on his knee. Every other person in that room had been careful all year. The house's counsel weighed every sentence on her steel rule. Bracken read every seal twice. Withrow pitched her voice to four rows. Karis herself had changed one word on one card four times. And the man on the other side of the floor had been asked the one question in the whole proceeding that ought to have made him careful, and he had answered it the way you answer a child who asks you which way is north.
+She said it quietly, almost to herself, and Cael heard what was under it, because he had felt the same thing at the respondent's table with the schedule on his knee. Every other person in that room had been careful all year. The house's counsel weighed every sentence on her steel rule. Bracken read every seal twice. Withrow had ordered the production answered in the house's own boards. Karis herself had changed one word on one card four times. And the man on the other side of the floor had been asked the one question in the whole proceeding that ought to have made him careful, and he had answered it the way you answer a child who asks you which way is north.
 
 Because for him it was as simple as that. There was nothing to be careful of.
 

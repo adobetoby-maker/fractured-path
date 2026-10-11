@@ -10,13 +10,13 @@ The last three words were the part Seln read twice. The man had added them on hi
 
 Seln put the circular in the copying-room stove and watched the pencil go brown and then go.
 
-One favour. One fact. The paper that had come up the hill to the gate had been made this year, off a mended mould, in the south mill's second run of registry stock. That was all. It did not say who had drawn it. It did not say where it had gone. It only said that somebody, somewhere, after the mending, had ordered registry paper and been sent it.
+One favour, one fact. The paper that had come up the hill to the gate had been made this year, off a mended mould, in the south mill's second run of registry stock. That was all: it did not say who had drawn it, or where it had gone. It only said that somebody, somewhere, after the mending, had ordered registry paper and been sent it.
 
 The other half was in the west.
 
 The porter's shoulder was still strapped, so Seln still did the morning sort, and that was where the quick bag found him on the Fourth-day.
 
-He liked the sort. He had liked it since the first morning. The post room behind the records hall's counter was a narrow place with a bench along one wall and forty pigeonholes on the other, and a brass beam for weighing parcels, and a little iron stove that the porter kept going from the first bell whatever the weather. You stood at the bench with the bags and took out everything that had come up the hill in the night, and gave each piece its hole, and in half an hour you knew where every letter in the house was going and roughly why. Nobody watched you do it. It was the most honest half-hour of his day.
+He liked the sort, and had liked it since the first morning. The post room behind the records hall's counter was a narrow place with a bench along one wall and forty pigeonholes on the other, and a brass beam for weighing parcels, and a little iron stove that the porter kept going from the first bell whatever the weather. You stood at the bench with the bags and took out everything that had come up the hill in the night, and gave each piece its hole, and in half an hour you knew where every letter in the house was going and roughly why. Nobody watched you do it. It was the most honest half-hour of his day.
 
 The quick bag's envelope was in among the house's ordinary post, addressed to the wing in a clerk's hand, about the size of an invoice. He sorted it into the wing's hole with the rest. Then he sorted everything else. Then he took it out again and opened it at the bench with his back to the door.
 
@@ -38,7 +38,7 @@ A mould mended in the south. A second run off it, this year. Thirteen honest lot
 
 He had seen a great deal of paper in his life. He had never seen that.
 
-That was not true. He stood at the bench and made himself correct it, because the voice he kept for the audit would not let the sentence stand. He had seen it once. Twelve years ago, in a press, in a records room in an old building. He had seen paper that was entirely correct in every particular, and that sat a little above where it should have sat, and had been put there by somebody who could reach.
+That was not true. He stood at the bench and made himself correct it, because the voice he kept for the audit would not let the sentence stand. He had seen it once, twelve years ago, in a press in a records room in an old building. He had seen paper that was entirely correct in every particular, and that sat a little above where it should have sat, and had been put there by somebody who could reach.
 
 He did not think any further along that road. He had not let himself walk down it in twelve years except on the worst nights, and this was a weekday morning, and there was post to finish.
 
@@ -48,7 +48,7 @@ He finished the post.
 
 The woman who had taught him the grades had taught them in a room over a ship's chandler's on a quay, the year he came into the service, to six young men who were not yet anything.
 
-She had been old then. She had walked with a stick she never leaned on, and kept a cat that slept on the window-ledge in the sun, and she had begun every morning's lesson by saying the same thing, which was that nobody in that room would ever be told the whole of anything, and that the sooner they stopped minding the better. Then she had taught them the craft. How to read a subject. How to write a return that was true and useful and no longer than it needed to be. How to be in a town for a year and leave nothing behind but a room that had been let.
+She had been old then. She had walked with a stick she never leaned on, and kept a cat that slept on the window-ledge in the sun, and she had begun every morning's lesson by saying the same thing, which was that nobody in that room would ever be told the whole of anything, and that the sooner they stopped minding the better. Then she had taught them the craft: how to read a subject, how to write a return that was true and useful and no longer than it needed to be, and how to be in a town for a year and leave nothing behind but a room that had been let.
 
 And on the last morning she had taught them the grades, because she said they would need to know what the other side of the table did, so as to know where they themselves were standing.
 
@@ -58,13 +58,13 @@ The record. Paper in a subject's file. A query, a designation, a mark in a colum
 
 The instrument. A proceeding, in daylight, by the book. A petition and a seat and an answer, and every door in it real law. It cost a great deal and was always lawful, and it was what an office used when it wanted to be seen being right.
 
-The knock. Paper again, but from an office nobody could place, brought to a door and read there. It was not meant to be obeyed. It was meant to see what the door did. How fast. Who came. How long the man with the glass took over the seal.
+The knock. Paper again, but from an office nobody could place, brought to a door and read there. It was not meant to be obeyed; it was meant to see what the door did, how fast, who came, and how long the man with the glass took over the seal.
 
 And the hand. No paper. No faces. A road, at a place where no house stood, at an hour somebody had chosen.
 
 *Four*, she had said, and struck the floor once with the stick she never leaned on. *Learn them in that order, because they come in that order. And when you have seen the third, gentlemen, do not wait for the fourth to knock. The fourth does not knock.*
 
-The boy had had the record since before he could read it. He had had the instrument since the first week of the year, in a red-sealed packet read out standing in a hall. Five days ago he had had the knock, at the gate, in eighty-one words, with a woman standing in the one place in the court that could not be got round.
+The boy had had the record since before he could read it. He had had the instrument since the first week of the year, in a sealed packet read out by a woman standing in her own hall. Five days ago he had had the knock, at the gate, in eighty-one words, with a woman standing in the one place in the court that could not be got round.
 
 A fourteenth lot was what the knock looked like from inside a ledger. Seln had held its ash on the end of a poker an hour ago.
 
@@ -106,7 +106,7 @@ He believed him.
 
 *Nobody has ever protected a man by believing him.* It was true. He had never seen it done. He was going to try.
 
-The wing's clock went on with its slow tick over the counter. Nothing in the room changed its note. Seln stood with his two hands flat on the copying table and understood, quite calmly, that this was the largest thing that had happened to him since a green corridor twelve years ago, and that it had happened in a weekday morning between the post and the noon bell, and that nobody would ever write it down.
+The wing's clock went on with its slow tick over the counter. Nothing in the room changed its note. Seln stood with his two hands flat on the copying table and understood, quite calmly, that this was the largest thing that had happened to him since a green corridor twelve years ago, and that it had happened on a weekday morning between the post and the noon bell, and that nobody would ever write it down.
 
 He reached up and took the case off the shelf.
 
@@ -130,15 +130,17 @@ He was at the window, at the sill, with Hesk's book open and the lamp lit and th
 
 Seln unbuttoned his coat and set the case on the sill beside the book.
 
-It was not large. It was the size of a bound register, of dark leather gone pale at the corners, with a brass lock and no mark on the outside anywhere. Seln kept one hand on the lid. He did not sit.
+It was not large. It was the size of a bound register, of dark leather gone pale at the corners, with a brass lock and no mark on the outside anywhere. Seln kept one hand on the lid and did not sit.
 
 "I'm going to open this," he said. "Not tonight."
 
-The boy looked at the case and then at him, and did not reach for it, and did not ask what was in it. Seln had known that he would not. It was why he had climbed the stair.
+The boy looked at the case and then at him, and did not reach for it, and did not ask what was in it. Seln had known that he would not. It was why he had climbed the stair. When the boy spoke at last it was quietly, to the case as much as to the man, and it was not quite a question.
 
-"You're sure," said the boy.
+"You're sure."
 
-"No," said Seln. "That's how you'll know it's true."
+Seln heard what the boy was offering him. It was a way back down the stair. The boy had built it in two words and held it open, so that a man could take his case and go and nobody need ever mention it again. Seln looked at it, and did not take it.
+
+"No. That's how you'll know it's true."
 
 They decided the rest in a quarter of an hour, standing, with the case between them on the sill and the rain going on.
 

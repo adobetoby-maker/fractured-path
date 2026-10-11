@@ -60,7 +60,7 @@ The lodge-man said he would, Chancellor, and stood straighter against his jamb t
 
 There was nothing in the house's book about the woman.
 
-There was no line on the form for her and no reason Bracken should have thought of one. She had said nothing and done nothing and handed nobody anything. Cael stood in the lodge door while the clerk sanded the page, and gave her the lines himself, in his head, because nobody else was going to.
+There was no line in the house's book for her and no reason Bracken should have thought of one. She had said nothing and done nothing and handed nobody anything. Cael stood in the lodge door while the clerk sanded the page, and gave her the lines himself, in his head, because nobody else was going to.
 
 He had read her four times. The first two he already had: three paces in, onto the one level patch in the court. The third time he had asked the court what she could see from there, and the answer had been the arch. The gatehouse was twelve feet deep. From almost anywhere in the court you saw only a slice of the road through it, the left side from the covered walk, the right from the lecture range. There were a few feet of flag from which the whole opening lay open end to end, road and verges and the first bend below the gate. She had stood in them with her back three-quarters to the arch, and never once turned to look.
 
@@ -132,9 +132,9 @@ Bracken came in at the hall's side door with a sheet in his hand and his pen beh
 
 "The letter to the district seat," he said, and read it to them; he read aloud everything the house was going to send. The date; the instrument as presented, quoted whole; the issuing office as named; *the registrar of this house is unable to place the said office in any register available to him, and respectfully asks that the instrument constituting it be supplied, together with the seal under which that instrument was itself issued.* He lowered the sheet. "It goes down with the morning bag. They will answer inside the week, because they must."
 
-Karis opened her notebook to the date a week ahead and wrote *DISTRICT REPLY*. On the next leaf she wrote *REPLY* again and left the office blank. Brom told her she was scheduling paper she had not seen. She put an empty bracket round the following three leaves. "I'm scheduling the absence of a name," she said.
+Karis opened her notebook near the back and wrote *NO NAME*. Then she turned to the date a week ahead and entered *DISTRICT REPLY*, leaving the intervening leaves blank. Brom told her she was scheduling paper she had not seen. "I'm keeping room for it," she said.
 
-Bracken looked at the bracket. "Leave me one more leaf after those." He folded the letter once. "If the replies never give us a person, the book will at least show how many times we asked for one." He looked round the table, a little over his spectacles. "It is not much. It is what a true book is for."
+Bracken looked at the blank leaves. "Leave me one more leaf after those." He folded the letter once. "The query should stand beside whatever answer it earns." He looked round the table, a little over his spectacles. "It is not much. It is what a true book is for."
 
 He went back out to his counter.
 
@@ -174,11 +174,11 @@ Cael went from the lodge door's mark toward the stable passage at a walk, and Br
 
 The long wall threw their voices back late and thin, so that everything said on the oak was said twice, the way the rider's voice had come back off the court that morning. Without agreeing to, they had all three begun to speak low.
 
-"They didn't want you this morning," said Brom, looking down at his feet on the drawn flags. "Not really. Four of them, and one of those, and they turned round at the first no."
+Brom paced the drawn arch once, heel to toe, then looked back at the ring.
 
 "They came to measure the door," said Cael.
 
-Brom considered the chalk arch, twelve feet deep, and the open stable passage. "Well," he said. "Now they've got the figure." Then, after a while: "I'd stand there too, if I was holding it. I'd never have found it in three steps."
+Brom considered the chalk arch, twelve feet deep, and the open stable passage. After a while he said, "I'd stand there too, if I was holding it. I'd never have found it in three steps."
 
 "What would she do from there?" said Cael. "If somebody walked."
 

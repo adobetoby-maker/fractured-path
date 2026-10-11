@@ -14,7 +14,7 @@ So it was the carter who had brought up the road, and that was the point.
 
 It was the second of three, and she had built all three the way Rooke had taught her to build a bout against a builder: one look at each corner, and never the same corner twice.
 
-On a floor, if you went to the same place three times, the other fighter learned where you liked to go. A carter was no different. Ask one man three questions about the east road and he would remember you in a week, and tell the next man who stood him a cup, and the next man might wear a grey coat. So she had split her question in three, and gone to three people on three days, and asked each of them about one thing that had nothing to do with the other two. Afterward she could add them up herself, on the walk back up the hill, where nobody could see her do the sum.
+On a floor, the obvious attack taught the other fighter where to wait. The grey coats had made the landing feel like a floor. Lira had learned to let useful talk arrive sideways, then keep her arithmetic for the climb home.
 
 The first had been an old man with a mule team, three days before. Rooke really had wanted the new frame cord, and the river barge really had brought it down, and she really had been the only one in the program with a free hour on a Second-day morning. She had carried his manifest for him from the barge to his cart while he complained about the mules, and she had asked him, idly, what all the stamps on it were for.
 
@@ -246,7 +246,7 @@ Lira leaned over to read the margin upside down.
 
 "Forty days from what?"
 
-Seln's eyes stayed shut. It was Karis who answered, with her finger on his line. "From the day the fourth sitting closes. Before the fortieth day, a respondent who hasn't come back is only absent. On the fortieth, he's fled, and the default goes in." She looked at the figure as if she had never seen one before. "It's a narrow thing. I had it wrong."
+Seln's eyes stayed shut. It was Karis who answered, with her finger on his line. "From the day the fourth sitting closes. Before the fortieth day, a respondent who hasn't come back is only absent. On the fortieth, the code changes the entry to *fled*." She looked at the figure as if she had never seen one before. "It's a narrow thing. I had it wrong."
 
 Lira got down off the table's corner, went to the shelf, and wrote under her own column in the porter's chalk, small: *40 — ABSENT, THEN FLED.* She stood back from it.
 

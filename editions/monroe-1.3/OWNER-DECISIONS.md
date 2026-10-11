@@ -130,3 +130,6 @@ Book 5 closed with no Norhold session (C8), so Cael's file carries the Greyvane 
 
 ## 44. Book 6 — the challenge's address (coordinator default, 2026-10-06)
 The Compact's formal challenge (B6 ch5, Tier B first page) addressed "the enrollee of record, Cael, unclassified". Book 5 makes registry usage explicit: official instruments use *Caelen Hesk-ward* (B5 ch2:5; ch5:87, Karis: the tournament roster's line was "the first time any official paper has ever called him what we call him"). Default in force: amend the one noun phrase of Tier B text to *the enrollee of record, Caelen Hesk-ward, unclassified,* — the rest of the first page unchanged (Tier B permits recomposition where a word is wrong; this is a canon correction, recorded here). M2's house answer addresses the same name. Owner may restore "Cael".
+
+## 45. Book 6 length — fuller later movements (OWNER RULING, 2026-10-10)
+Asked: Book 6 ran at ~88% of budget after four movements (source-distance repairs trimmed restatement; nothing padded). Owner chose **fuller later movements**: Movements 5–9 develop their planned scenes more fully (more dramatized beats, more room per planned scene) so the book lands nearer its ~300k budget. Still no padding; no restatement added back; source distance still binding.

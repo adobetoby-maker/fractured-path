@@ -54,8 +54,6 @@ Somewhere at the back of him, in its sealed place, the quiet thing from the stai
 
 He did not look at it. It stayed where it was.
 
----
-
 Behind him something hit something with a sound like a sack of grain dropped off a cart.
 
 He turned his head for the length of one breath. Two of the four had given up on the ring. They had seen where their work was, and it was not at the coach. It was in the channel along the south bank, under the lip, where the frame left its one way open to the culvert, and where Brom was standing in it.
@@ -67,8 +65,6 @@ He was on the chalk now, two yards back up the channel, on one knee. Brom had no
 That was one.
 
 Cael turned back to her.
-
----
 
 He had backed off two steps to think, and the two steps were gone.
 
@@ -82,7 +78,7 @@ She did not need to hurry. She had all morning. She had laid fourteen before he 
 
 He tried the push.
 
-He put his right palm flat against the point at his breastbone, where his chest had found it, and leaned, and then did not lean. He gave it the push at fighting load, the thing he had taken from the Bronze at Ardenmere, the thing that had thrown a Gold's pinned weight off him at Norhold.
+He put his right palm flat against the point at his breastbone, where his chest had found it, and leaned, and then did not lean. He gave it the push at fighting load, the thing he had taken from the Bronze at Ardenmere, the thing he had given a Gold five times in one sitting at Norhold.
 
 The point did not move.
 
@@ -96,7 +92,7 @@ Four pushes and she had not taken a step. Four pushes and he was still in the cu
 
 He tried to make her move them.
 
-He went wide, fast, toward the north ditch, as if he meant to run along it past her to the cart. She laid a point in front of him at the ditch's edge. It was further from her than any she had laid yet, nearly twenty feet, and he saw what it cost her. She was still for an instant. Not the stillness of a woman waiting. The stillness of a woman doing something, the way a person goes still to thread a needle. Half a second. Less. Then she was waiting again.
+He went wide, fast, toward the north ditch, as if he meant to run along it past her to the cart. She laid a point in front of him at the ditch's edge. It was further from her than any she had laid yet, and he saw what it cost her. She was still for an instant. Not the stillness of a woman waiting. The stillness of a woman doing something, the way a person goes still to thread a needle. Half a second. Less. Then she was waiting again.
 
 He turned before he reached the point, and came back, and went wide the other way, toward the south. She laid one there. Half a second.
 
@@ -118,7 +114,7 @@ Custody. Not assault. They did not want her. They wanted her out of the way.
 
 At the near horse, Karis had her right hand flat in the air a hand's breadth above the animal's foreleg, as if she were warming it at a fire.
 
-He knew what she was doing as soon as he saw it, because he had heard her explain the difference on the night of the gate with three fingers held up. Ternhall's anchors were her own, three footholds that drank the heat of a contact down into a floor. The Lattice Path was lines strung across the air. These were neither. These were points, and they held. But something ran between them. When she had put her hand out to the horse's leg she had found it, the way you find a rope across a dark yard: a line, taut, between the point fixed against the horse's foreleg and one of the fourteen in the bank. And she had put her heat into it.
+He knew what she was doing as soon as he saw it, because he had heard her explain the difference on the night of the gate, counting the words off on her fingers. Ternhall's anchors were her own, three footholds that drank the heat of a contact down into a floor. The Lattice Path was lines strung across the air. These were neither. These were points, and they held. But something ran between them. When she had put her hand out to the horse's leg she had found it, the way you find a rope across a dark yard: a line, taut, between the point fixed against the horse's foreleg and one of the fourteen in the bank. And she had put her heat into it.
 
 It frayed.
 
@@ -206,7 +202,7 @@ Three more, and it would close. He could feel exactly where. Three gaps, one at 
 
 She would lay them in the next three breaths. She had all the breaths she wanted.
 
-He went down the line. He did it in the time it took to draw one breath, the way he would have gone down a form at Seln's counter.
+He went down the line. He did it in the time it took to draw one breath, the way he went down a rotation page before a bout.
 
 *One. The conditions are not to be made.* He had not made this road. The river had made it, and somebody who read rivers.
 
@@ -216,7 +212,7 @@ He went down the line. He did it in the time it took to draw one breath, the way
 
 He did it with his eyes open.
 
-He knelt in the cage and held still, all of him, in front of four exchanges of her. That was all it had ever been. Not taking anything. He turned everything he had left toward what he had watched her do, and kept it there, open. Subtraction. The points laid where his half beat said he would go. The stillness of a woman threading a needle at twenty feet, half a second's price for range. The accumulation that never gave anything back. The stitch against his coat, and everything worked through it. He had paid for every one of those in his own body on this road, and he knew them now the way he knew the floor of his own room in the dark.
+He knelt in the cage and held still, all of him, in front of four exchanges of her. That was all it had ever been. Not taking anything. He turned everything he had left toward what he had watched her do, and kept it there, open. Subtraction. The points laid where his half beat said he would go. The stillness of a woman threading a needle at the edge of her reach, half a second's price for range. The accumulation that never gave anything back. The stitch against his coat, and everything worked through it. He had paid for every one of those in his own body on this road, and he knew them now as well as he knew the stair to his own room with the lamps out.
 
 They came together.
 
@@ -224,7 +220,7 @@ It was quiet. It did not come down on him like the storm had come, all at once a
 
 Not with his eyes. He could see the lines.
 
-Every course in the cut stood out to him as plainly as the chalk dust had stood out along his lane: taut grey threads in the air, from point to point to point, a great slack net laid down the whole length of the road, closed at both ends, open in one channel where Brom stood. He saw the nineteen round him, each with its line to the next. He saw the one against his coat, the first stitch, with every other line in the cage worked through it. And he saw how it was held. It was held from inside, from where it touched him. It was the same thing as the points in the court and the horse's leg and the coachman's hands. It was a thing set against a surface and told to stay.
+Every course in the cut stood out to him as plainly as the chalk dust had stood out along his lane: taut grey threads in the air, from point to point to point, a great slack net laid down the whole length of the road, closed at both ends, open in one channel where Brom stood. He saw the nineteen round him, each with its line to the next. He saw the one against his coat, the first stitch, with every other line in the cage worked through it. And he saw how it was held. It was held from inside, from where it touched him. It was the same thing as the point at his breastbone and the one under the horse's leg and the ones that held the coachman's hands. It was a thing set against a surface and told to stay.
 
 From inside, he could tell it not to.
 
@@ -236,17 +232,15 @@ The near horse threw up its head and stamped, and stood on all four legs again a
 
 Karis looked at her own hand in the air above nothing, and took it back.
 
----
-
 She felt it in her hands.
 
-He saw that. He was still on his knees and he saw her feel her whole morning go out through her fingers, fourteen points laid before light and nineteen since, all of them at once. She did not stagger. She did not make a sound. Her two loose hands closed, slowly, as if somebody had pulled a rope out of them faster than she could hold it.
+He saw that. He was still on his knees and he saw her feel her whole morning go out through her fingers, fourteen points laid before light and every one she had laid since, all of them at once. She did not stagger. She did not make a sound. Her two loose hands closed, slowly, as if somebody had pulled a rope out of them faster than she could hold it.
 
 She lifted two fingers of her left hand.
 
 The team broke off in four heartbeats.
 
-He counted them, because it was the last thing he could do. On one the man standing over Lira turned his back on her and went for the north bank. On two the two men in the channel were on their feet and going, the second holding his own arm, past Brom, who let them past, into the gully beyond the culvert. On three the man at the cart was gone behind it, and the ropes on the north bank were taking weight. On four there was nobody on the road at all but the five of them and the coachman and the horses.
+He counted them, because it was the last thing he could do. On one the man standing over Lira turned his back on her and went for the north bank. On two the two men in the channel were on their feet and going, the second holding his own arm, past Brom, who let them past, into the gully beyond the culvert. On three the man at the cart was gone behind it, and the ropes on the north bank were taking weight. On four there was nobody on the road at all but the four of them and the coachman and the horses.
 
 And her.
 
@@ -260,4 +254,4 @@ He knelt in the road. The wind came along the cut from the west and blew the cha
 
 Brom was walking toward him down the channel, with his left arm hanging.
 
-The minute was coming. Cael could feel it coming, everything in him beginning to turn toward the new thing the way every head in a room turns toward a door. He did not try to stand. He knelt in the white dust and let it come, and Brom got there first, and stood over him, and did not say anything at all.
+The minute was coming. Cael could feel it coming, everything in him beginning to lean toward the new thing, as a crowded room leans toward somebody who has just come in. He did not try to stand. He knelt in the white dust and let it come, and Brom got there first, and stood over him, and did not say anything at all.

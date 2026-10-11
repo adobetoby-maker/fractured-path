@@ -10,7 +10,7 @@ He was a young man in a wet hat, and he apologised three times on the stair befo
 
 Havel took it. He thanked the young man, who apologised again for the rain and went.
 
-Inside the oilcloth were two things. The registrar's letter, in a clear upright hand that Havel had seen once before at the foot of an exhibit list, asking that the instrument constituting a certain office be supplied, together with the seal under which that instrument was itself issued. And a sheet of thin paper with a pencil rubbing on it of a seal, taken carefully, the grey of the lead built up in even strokes until the device stood out white: the registry's own pattern, the river and the scale, inside a beaded rim.
+Inside the oilcloth were two things. The registrar's letter, in a clear upright hand that wasted nothing, asking that the instrument constituting a certain office be supplied, together with the seal under which that instrument was itself issued. And a sheet of thin paper with a pencil rubbing on it of a seal, taken carefully, the grey of the lead built up in even strokes until the device stood out white: the registry's own pattern, the river and the scale, inside a beaded rim.
 
 He laid the rubbing on the table by the window and looked at it for a long time without touching it.
 
@@ -96,11 +96,25 @@ Cael sat with his back to the horses and watched the house go up behind them int
 
 At the foot of the road the two coats under the chandler's eaves stood away from the wall to watch them turn. Cael saw one of them lift his head to read which way. West, along the bank road. The man did not move after that. There was nowhere he needed to go with it at that hour; he would write it on his board and give it to the next man on the bell, and by noon it would be wherever such things went.
 
-Inside the coach nobody talked.
+Inside the coach, for a long while, nobody talked.
 
 Brom had the two record cases on his knees, one on top of the other, with his arms round them. He had not let them ride on the roof on the day of the exhibits and he was not going to let them ride on the roof today, in mud. Karis sat beside him with the attestation wallet in her lap and her lips moving. She was saying the form over, the questions the seat's clerk would ask the maker and the enrollee and the advocate, and the answers, under her breath, the way Lira counted her bursts before a bout. Lira was asleep against the window with her coat over her like a blanket and her mouth a little open. She could sleep anywhere in a moving vehicle. She said it was the only useful thing she had learned from guilds.
 
 Seln sat in the far corner with his eyes shut and his hands in his lap. He had sat like that in the coach on every road all year. Cael had long ago stopped thinking it meant he was asleep.
+
+Once, near the end of the first hour, Lira woke without moving anything but her eyes.
+
+"You're saying it out loud," she said to Karis.
+
+"I'm saying it so my mouth knows it before the room does." Karis did not stop turning the wallet's leaves. "The clerk asks the maker whether the copies are his and true. Then he asks the enrollee whether the figures are his own, earned on the house's floors. Then he asks the advocate to sign." She looked across at Cael. "That's all it is. Three questions and a pen. You say *They are mine*, and nothing else, and you sit down."
+
+"They are mine," said Cael.
+
+"Like that." She went back to her leaves. "Not a word after it. Whatever you're thinking, don't think it at them."
+
+Lira shut her eyes again. "He's always thinking it at them," she said, to the inside of her coat, and was asleep before anybody could answer.
+
+Cael sat with his back to the horses and turned the three words over. They were true. Every figure on every card in Brom's two cases had been earned on the house's floors, by him, on purpose, to the decimal. They were his in the way a rotation page was his, because he had written it the night before. He thought that if the clerk had asked whether they were all of him, he would not have known what to say, and he was glad the form did not ask it.
 
 The bank road ran west along the near side of the river, high on its terrace, with the water on the left below them roaring in the dark. Twice the wheels went into standing water to the hub and the coach lurched, and the coachman talked to the horses until they leaned into it and pulled out. Once a fallen branch lay across the road and Brom got down and dragged it off into the ditch and got back in, wet to the knees, and put the cases back on his lap without a word.
 
@@ -186,7 +200,7 @@ Fourteen.
 
 Two on the milestone. One on each parapet of the culvert. Three in the north bank, high, where nobody could reach. Two in the south bank's lip. Three in a line across the road behind them, at the west mouth of the cut, where they had come in a minute ago. And three more in the road itself, between the coach and the cart, in a rough curve.
 
-Each one was a weight with no body, pressed into the chalk at a single point, as if somebody very heavy were standing there on one toe. They did not move. They did not drain anything, the way Ternhall's anchors had drunk the heat out of Karis's contacts into a floor. They were not strung across the air like the Lattice Path's lines, to be found by walking into them. They were points, and they held.
+Each one was a weight with no body, pressed into the chalk at a single point, as if somebody very heavy were standing there on one toe. The coach had rolled over the three at the west mouth a minute ago without a jolt; they lay flush with the road like stones under the dust, waiting for whatever would be strung between them. They did not move. They did not drain anything, the way Ternhall's anchors had drunk the heat out of Karis's contacts into a floor. They were not strung across the air like the Lattice Path's lines, to be found by walking into them. They were points, and they held.
 
 Together they made a frame. He saw its shape as he knelt there, as clearly as he had seen the chalk court on the oak. Both mouths of the cut were closed. The west mouth behind them had three points across it, and the east had the cart and the culvert and the milestone. The north bank was too high. The middle of the road was held. There was one way through the whole cut that the points did not close, and it was a channel along the foot of the south bank, under the overhanging lip, perhaps twelve feet wide, running east past the cart's tail to the culvert.
 
@@ -218,9 +232,11 @@ Cael stood up out of the dust.
 
 He looked at the hobbles and the folded hood and the soft rope, and the staves that had been chosen because they bruised and did not cut, and the six faces that were not faces. He looked at the channel along the south bank, twelve feet wide, running to the culvert. He thought of the gully beyond it, which he could not see into, and what a man would keep there if he had come to take a person somewhere.
 
-"Custody," he said. "Not assault."
+He said it aloud, flatly, the way Rooke read a floor before a bout.
 
-He said it to the four in the coach, and he said it so they would all hear the same thing at the same time. They wanted him whole. They wanted him walking, or carried, but whole. That changed what they would and would not do to him. It did not change what they would do to anyone who stood in the way.
+"Custody. Not assault."
+
+He said it to the three in the coach, and he said it so they would all hear the same thing at the same time. They wanted him whole. They wanted him walking, or carried, but whole. That changed what they would and would not do to him. It did not change what they would do to anyone who stood in the way.
 
 Brom came out of the coach on the south side.
 

@@ -32,7 +32,7 @@ Bracken took a moment. He did not look at anything while he took it. Then he put
 
 Bracken looked at him over the spectacles for a little while. Seln let him look. Then the registrar nodded once, the small nod he gave to a form that had been filled in properly, and opened the day-book, and dipped his pen. He did not ask why. In two years he had never once asked Seln why about anything, and Seln had never once stopped being grateful for it.
 
-He went back across the court to the wing in the half dark. The lodge-man's window was open again. The board beside it had a fresh line of chalk where the boy had wiped a smudge off *ANYTHING SEALED*, which was like him.
+He went back across the court to the wing in the half dark. The lodge-man's window was open again. The rain had got at the board beside it in the night, and somebody had already chalked *ANYTHING SEALED* in fresh.
 
 A sixteenth of an inch was nothing. It was the width of a pencil line.
 
@@ -40,7 +40,7 @@ It was also a whole story, if you knew how paper was made. The mark in a sheet w
 
 So every sheet with the mark a sixteenth low had come off the mould after the mending. And the mould had been mended this year, or Bracken would have laid his rule on a low mark before.
 
-A second run. Sheets from the same mill, the same mould, the same pulp, for the same customer. Only later.
+A second run: sheets from the same mill and the same mould and the same pulp, for the same customer, only later.
 
 He had sample leaves of the registry's stock pressed flat in the back of his second manual, one from every posting, because he copied things. He took them out when he reached the copying table, and held the newest to the window. The mark sat where it had always sat. He put the leaves away again.
 
@@ -56,7 +56,7 @@ That was the price of a favour, and it was the reason he had kept four.
 
 He went down them in his head, as he went down them perhaps once a season, to be sure they were still where he had left them. A man who kept a mould room at a paper mill in the south. A woman who kept ledgers in a store-house in the west. A ferry-master on a coast he would never see again, who owed him a crossing and would have given him a boat. And an old officer of his own service, retired to a garden, who owed him the largest thing of the four and would have paid it gladly and been ruined by paying it. That one he would never spend. He had known that since the day it was owed. Some debts are only worth keeping so that the other man can sleep.
 
-Two, then. The mill and the ledger. They were the only two who could answer the only two questions he had.
+Two, then, the mill and the ledger, because they were the only two who could answer the only two questions he had.
 
 He sat at the copying table with the wing empty round him and the rain beginning at last against the windows, and he wrote two of them out.
 
@@ -108,7 +108,7 @@ The assistant read the cards aloud. Karis followed on the copy with her finger.
 
 "Fifth-day, the fifth week. Twenty-one, twenty-three, twenty-two…"
 
-It went on like that. Cael had not expected it to be hard to listen to, and it was. He knew every one of those afternoons. He had chosen each figure the night before it was earned, on a page at the back of Hesk's book, and spent the bout earning it to the decimal, and walked off the boards afterward exactly as tired as the rotation had said he would be. Hearing them read out in a row, the whole year so far, in the girl's careful voice, was like hearing somebody read your letters back to you. Every one of them was true. None of them was him.
+It went on like that, and Cael had not expected it to be hard to listen to, and it was, because he knew every one of those afternoons. He had chosen each figure the night before it was earned, on a page at the back of Hesk's book, and spent the bout earning it to the decimal, and walked off the boards afterward exactly as tired as the rotation had said he would be. Hearing them read out in a row, the whole year so far, in the girl's careful voice, was like hearing somebody read your letters back to you. Every one of them was true. None of them was him.
 
 Rain ran down the reading room's two windows. Below them the river had come up in the night. It was brown from bank to bank now, and moving fast in the middle, and there was a line of froth and sticks along the near side where it was pushing at the bottom of the river street.
 
@@ -120,7 +120,7 @@ Karis's finger stopped too.
 
 Karis took the card. She looked at it for a long moment without saying anything. Then she turned the copy toward the lamp and looked at the margin beside the line, and Cael saw her mouth change.
 
-There was a note in the margin. It was so small that you would not have seen it unless you were looking for exactly that, in Seln's square hand. *Figure corrected on the card in the desk clerk's hand, different ink. Corrected figure copied. Both seen.*
+There was a note in the margin, so small that you would not have seen it unless you were looking for exactly that, in Seln's square hand. *Figure corrected on the card in the desk clerk's hand, different ink. Corrected figure copied. Both seen.*
 
 "He found it first," said the girl.
 
@@ -132,7 +132,7 @@ The girl wrote. Then she looked up at Karis with ink on two fingers.
 
 "No. It's a correction. A mistake is when nobody wrote it down." Karis turned back to the copy. "Go on. You found it. That's the whole job."
 
-The girl went on. *Fifth-day, the ninth week.* Cael watched her for a while, and then watched Karis, who had not once looked up at him. She did not need to. The year was in her hands and she was reading it straight.
+The girl went on. *Fifth-day, the ninth week.* Cael watched her for a while, and then watched Karis, who had not once looked up at him. She did not need to; the year was in her hands, and she was reading it straight.
 
 He thought about Seln at the copying table in the wing four nights ago, with the rain on the roof, finding a line through a figure on a card and copying the figure and the line both, and saying nothing to anybody, because it was not his to say anything about. Writing it down instead, small, where it would be found by the one person who was going to look.
 
@@ -148,7 +148,7 @@ He had copied it out of Karis's notebook on the night of the fourth sitting, bec
 
 It had been raining for three days. It came against the glass in long soft gusts and ran down it, and beyond the glass the court was all grey water, and the fountain was a noise in the middle of it.
 
-Lira was on his bed with her boots off and her back against the wall and her feet crossed at the ankle. She had come in without knocking, as she always did, and sat down without asking, as she always did. Brom had the chair. He was too big for it, and it had complained when he sat in it, and he had sat in it anyway with great care, the way he did everything to furniture. Karis stood. She had a sheaf of the attestation papers under her arm and had not let go of them since supper.
+Lira was on his bed with her boots off and her back against the wall and her feet crossed at the ankle. She had come in without knocking, as she always did, and sat down without asking, as she always did. Brom had the chair, which was too small for him, and it had complained when he sat in it, and he had sat in it anyway with great care, the way he did everything to furniture. Karis stood. She had a sheaf of the attestation papers under her arm and had not let go of them since supper.
 
 Lira rolled her left shoulder. She did it slowly, forward and back, with her face turned a little toward the window, the way a person listens for a sound in a house. The rope at the confluence had laid a bruise across both her shoulder blades as wide as a hand, and he had watched it go from dark to yellow at the breakfast table over a week, a little more each morning, the way you watch a river go down.
 
@@ -182,7 +182,7 @@ Nobody said anything for a moment. The rain went on against the glass.
 
 The covenant was at the front of Hesk's book. He did not need to turn to it to know what it said, but he turned to it anyway and laid the book open on the sill where they could all see it.
 
-Three lines, in his best hand, from a long table at Halcenvane a year ago. *Nothing made to happen. Only inside a fight somebody else begins. The cost on paper first.* And under them, in Karis's wording from the last night at Norhold, with four sets of initials after it: *Never again in the middle of a fight unless what follows has been priced first, at the weight it will come at.*
+Three lines, in his best hand, from a long table at Halcenvane, written well over a year ago. *Nothing made to happen. Only inside a fight somebody else begins. The cost on paper first.* And under them, in Karis's wording from the last night at Norhold, with four sets of initials after it: *Never again in the middle of a fight unless what follows has been priced first, at the weight it will come at.*
 
 "At the weight it will come at," said Karis. "We don't know the weight."
 
@@ -202,7 +202,7 @@ He wrote the heading. *Priced before. If it is her, or anyone like her, in a fig
 
 "Yes," said Karis.
 
-That was all she said. He looked up at her. She was standing with the papers against her chest, and she did not look frightened, and she did not look as if she were about to argue him out of it.
+That was all she said, and he looked up at her. She was standing with the papers against her chest, and she did not look frightened, and she did not look as if she were about to argue him out of it.
 
 "The rule says the cost on paper first," she said. "It doesn't say you have to not want it. It says you have to know what you want before you're standing in the middle of it, so it can't decide for you." She came to the sill and put one finger on the page beside the covenant's second line. "That's what this one's for. You don't get to want it until she begins. That's the whole difference."
 
@@ -212,7 +212,7 @@ That was all she said. He looked up at her. She was standing with the papers aga
 
 So he wrote it.
 
-Karis gave him the first figure. She had kept a column for the storm since Norhold, the days and weeks and what had leaned in him and when, and she turned to it in her notebook and laid her palm flat across it while she thought. Eleven weeks at Gold for the flag to clear. The first month the worst. A Silver ought to weigh less, she said; nobody could say how much less, because there was only the one point on her curve that was any good, and one point was not a curve. She drew one anyway, lightly, on the back of an attestation leaf, through the storm and through the four before it whose prices were in the old volume. Each of the earlier ones had its bill written in the old volume, a day or two of quiet in some room while the rest of him moved over to make space, and she knew those bills better than he did, because she had copied them. They were small points, low on the paper, close together. The storm stood up at the far side of the leaf by itself, like a tree in a field, and her pencil went from the little ones up to it in a long uneasy curve that she did not like and said so.
+Karis gave him the first figure. She had kept a column for the storm since Norhold, the days and weeks and what had leaned in him and when, and she turned to it in her notebook and laid her palm flat across it while she thought. Eleven weeks at Gold for the flag to clear. The first month the worst. A Silver ought to weigh less, she said; nobody could say how much less, because there was only the one point on her curve that was any good, and one point was not a curve. She drew one anyway, lightly, on the back of an attestation leaf, through the storm and through the ones before it. Each of the earlier ones had its bill written in the old volume, a day or two of quiet in some room while the rest of him moved over to make space, and she knew those bills better than he did, because she had copied them. They were small points, low on the paper, close together. The storm stood up at the far side of the leaf by itself, like a tree in a field, and her pencil went from the little ones up to it in a long uneasy curve that she did not like and said so.
 
 "Nine weeks," she said. "If I had to put a number on it. Something less than a flag, for about nine weeks. I don't believe it. Write it down."
 
@@ -252,4 +252,4 @@ He initialled under it. Karis initialled with her small exact letters, and Brom 
 
 Then they sat there in the lamplight with the rain running down the window and the notice pinned to the frame, and nobody said goodnight for a long time.
 
-*Priced on the Second-day, before the sitting. Four initials. Three days of rain and the river over the bottom step of the river street. Lira's shoulder: clean, both sides. She saw me counting it.*
+*Priced on the Second-day, before the sitting, with four initials. Three days of rain and the river over the bottom step of the river street. Lira's shoulder: clean, both sides. She saw me counting it.*

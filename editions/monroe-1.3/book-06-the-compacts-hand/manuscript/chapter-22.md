@@ -14,7 +14,7 @@ The bottom line was still wet. Karis was writing it as he watched, one word in h
 
 She blotted it with the side of her hand. She did not say anything else about it, then or later, and Cael did not ask her to.
 
-Above it, small, squeezed into the margin, was a line he had not watched her write. *S.: eyes open at C.'s last sentence. A long time.* He had not seen that. His own eyes had been on Lira's chalk when he said it. Karis, it seemed, had been looking at Seln.
+Above it, small, squeezed into the margin, Karis had written *C. — last sentence* and drawn a line beneath it.
 
 Above that there was a gap. Three ruled lines with nothing on them, and two words pencilled into the margin beside them, with an *L.* after.
 
@@ -32,7 +32,7 @@ He had started at the wrong end.
 
 So he had given them between, every paper of it, and not one piece of it had been news to anybody at that table. That was the strange part: sitting in a cold dairy setting out his own life to the four people who had lived most of it with him. They had let him. Nobody had hurried him, until near the end.
 
-"It's the only ground I've ever—" he had said.
+He had been halfway through his last example when Lira cut across him.
 
 "It's not ground. It's a floor."
 
