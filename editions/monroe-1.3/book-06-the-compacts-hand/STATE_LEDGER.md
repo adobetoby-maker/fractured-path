@@ -785,7 +785,7 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 **Movement 4 CLOSED (2026-10-10).** Sol source-distance audit: 85 → r1 41 → r2 25 → r3 6, closed by ten Sol line fixes (eight chain fixes, two seams opened by cuts), applied by the coordinator. r2 canon checks PASS: Vastin's warning in ch27 is verbatim against B5 ch58:189 (*Because the people who want this to stop are not going to use official channels much longer.*) and Brom knows it via B5 ch59's long-table retelling; Seln's ch22 realisation that a return has nowhere to go past the last station stays at the M6 boundary. r2 fixes kept: Karis's notebook reply schedule; Bracken's "Leave me one more leaf…"; the "other gates" consequence after Vastin's warning. Cut in r2–r3 (later movements must not rely on them): Karis's forecast of the reply chain; the ch27 splinter, the form's blank line, the horse paragraph, Lira's written question; ch25 Withrow's public thanks and the Silver's "licences" reading; ch22's headings passage and the mother's-ledger detail. ~27,965 words. Overlap 0/7, gates 0, probe 1%/10%.
 
 
-## AFTER MOVEMENT 5 — chapters 28–34 (drafted 2026-10-10, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+## AFTER MOVEMENT 5 — chapters 28–34 (drafted 2026-10-10, author claude-opus-5-5, NO-SOURCE method; repair r1 applied; CLOSED 2026-10-11 after Sol recheck r1)
 
 **Coordinator rulings (override the author's end-state below):**
 - Source distance PASS on first draft (Sol: 6 tracked) — the no-source method is standard from M6.
@@ -795,7 +795,7 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - Havel stops at six entries (no seventh sheet). Bodies: Lira's RIGHT ankle (strapped, crutch, six days off the floor, three struck bouts); Brom's left shoulder out and back in by itself (sling); Karis's right hand (pale mark); Cael's forearm and ribs.
 - The four-minute decision in the exchange's yard, before the sitting; Withrow's one line in her private book that night.
 - "The eleventh of Sowing" once, no day count. "The annex" = the reading room plus the lumber room (M2); "Tomorrow, Seln's annex" (protected).
-- r1 in progress (line-level): the seal-number logic in ch30; the fifth attacker placed in ch30–31; Havel's opening echo; six tracked passages; a cadence pass. Events and state unchanged.
+- r1 (applied): ch30 the two registered dies sit on consecutive ledger lines and the rubbing's number has no line between them (Havel's slip and sixth sheet agree); ch30–31 the lead stays at the cart and sends four men in, the fifth stands at the off horse's head watching Karis and withdraws with the others; Havel's audit opens tied to the escort order read at the gate on the Sixth-day; ch29 'the annex' clause; the two STORM RESETTLINGS: a quarter hour before noon, then forty minutes in the afternoon (ch33, ch34 inventory).
 
 **Author's end-state (as drafted; read through the rulings above):**
 ## State at movement end (for the ledger)
@@ -892,3 +892,5 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **The house's healer (flag, unnamed):** a spare grey woman, twenty years strapping fighters.
 - **Withrow's private black-cloth book (flag).**
 - **Hesk's satchel (flag):** brown instrument leather; cross-body strap; filed brass buckle with a bevel; a stitched book pocket that fits Hesk's book to a hair.
+
+**Movement 5 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — all six tracked passages resolved; three line fixes applied by the coordinator (ch30 listening; ch32 hand continuity; ch33 abbreviation). First movement to close after a single repair round. ~35,950 words. Overlap 0/11, gates 0, probe 1%/11%. Where the author end-state above gives the Storm resettlings in another order, the order above governs.

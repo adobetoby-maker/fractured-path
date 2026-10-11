@@ -12,7 +12,7 @@ Havel took it. He thanked the young man, who apologised again for the rain and w
 
 Inside the oilcloth were two things. The registrar's letter, in a clear upright hand that wasted nothing, asking that the instrument constituting a certain office be supplied, together with the seal under which that instrument was itself issued. And a sheet of thin paper with a pencil rubbing on it of a seal, taken carefully, the grey of the lead built up in even strokes until the device stood out white: the registry's own pattern, the river and the scale, inside a beaded rim.
 
-The letter said where the rubbing had come from, in its first paragraph, with the instrument quoted whole: it was the seal off the escort order that the lead of four riders had read aloud in the house's outer court on the Sixth-day morning, and that the house had declined at its own gate and let ride away again down the bluff road.
+The letter said where the rubbing had come from, in its first paragraph, with the instrument quoted whole: it was the seal off the escort order that the leader of four riders had read aloud in the house's outer court on the Sixth-day morning, and that the house had declined at its own gate and let ride away again down the bluff road.
 
 He laid the rubbing on the table by the window and looked at it for a long time without touching it.
 

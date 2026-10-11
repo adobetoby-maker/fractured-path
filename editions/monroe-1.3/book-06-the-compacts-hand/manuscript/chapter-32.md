@@ -69,7 +69,7 @@ Cael could read it from the bank. It was one word.
 
 *Fourth.*
 
-She had kept a count of her hand's ignition margin since Greyvane. Three times before, she had pushed her heat past where the skin could take it, and three times it had healed, and she had logged every one in this notebook in her small exact hand. The fourth was in her left hand, and it was enormous, and it was crooked. She looked at it for a moment and did not try to make it neater.
+She had kept a count of her hand's ignition margin since Greyvane. Three times before, she had pushed her heat past where the skin could take it, and three times it had healed, and she had logged every one in this notebook in her small exact hand. The fourth was in her right hand, and it was enormous, and it was crooked. She looked at it for a moment and did not try to make it neater.
 
 The coachman had got down off his box. He was walking the near horse up and down the road between the coach and the cart, slowly, with his hand on its neck, talking to it. The horse's foreleg had been held by a point for most of the fight. It was trembling. The coachman walked it, and talked, and did not look at any of them. Once, passing the bank where Cael sat, he said without stopping, "Twenty-two years I've driven this coach," in exactly the tone he used for the horses, and walked on.
 

@@ -170,7 +170,7 @@ He would have. He knew it as she said it.
 
 He shut the door, carefully, all the way, until the latch clicked. Then he sat down on the end of the bed, because Lira had the chair, and nobody said anything else until Karis came at the fifth bell with her squared paper and stopped in the doorway, which was only a doorway, and looked at the three of them, and asked what had happened.
 
-Brom told her, and she listened. Then she came in, and sat on the floor with her back to the wall, and drew a line on the squared paper at the bell, and wrote beside it, in her wide crooked left-handed letters, *Doorway. Uncommanded. 12 s. B. counting.*
+Brom told her, and she listened. Then she came in, and sat on the floor with her back to the wall, and drew a line on the squared paper at the bell, and wrote beside it, in her wide crooked left-handed letters, *Doorway. Uncommanded. Twelve seconds. Brom counting.*
 
 She did not say anything about it. She looked at the line for a long time, and then she drew a small box round it.
 
