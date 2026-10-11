@@ -1151,3 +1151,167 @@ Overlap 0/19, gates 0, probe 2%/11%. 31,338 words; every packet beat on the page
 - **Bracken's slate text (ch47).**
 
 **Movement 7 CLOSED (2026-10-11).** Sol recheck r1: CLOSE WITH LINE FIXES — one applied (ch44: Havel's hope stated once — that a designation written out under seal would have to name its office; the schedule gives the title and no office, which his first sheet already records; no seventh). Havel's years in the work are 'all these years' (no count). Calendar unchanged. ~35,000 words. Overlap 0, gates 0, probe 1%/16%; source distance 0 tracked.
+
+
+## AFTER MOVEMENT 8 — chapters 48–54 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method; repair r1 in progress)
+
+**Coordinator rulings (override the author's end-state below):**
+- BOOK_MAP §8 protects the FULL Tier B units: the ruling paragraph (ch51, one paragraph, "the close of the present academic year"), Ephram's "Still glad." speech and the ninth's Log entry (*Nine. Taken in earnest from a friend…*) are restored whole from the protected wording (Sol plan audit; applied by the coordinator). Where the author end-state below describes five numbered heads, a loser-chalks ritual, a blank rule above Ephram's name, "two books", or five drill days for Lira — those are SUPERSEDED.
+- "Both. Enter both." = the bout entered under BOTH FIGHTERS' NAMES in the house's permanent column. The boards ritual: Rooke's clerk chalks the result while both fighters stand at the board. Lira has ONE morning left in the east hall before the key goes back.
+- Ratified by the audit: Cael wins the last bout two touches to one (day 202, fourth bell); Ephram's RIGHT shoulder out and set, a month in a sling, he stays at Halcenvane; the Blade notice and the fragment count (nine confirmed; the anomaly uncounted); the four call days in Ostrand; Ilsev's six minutes are a return, not a sitting (Bracken's fourteen holds); the certificate form's column heading "evaluator of record" is the certifying office's — Gault declined nothing; Seln's "twice more" stays at TWO; Brom's panel (day 201, second bell) and the Velmere envelope still sealed.
+- Prose convention from r1: "the certifying office" for the Archmarshal's office; unqualified "evaluator of record" = Gault.
+
+### Sol plan audit — inheritance for Movement 9 (binding)
+
+#### Dates and procedure
+
+- **Day 201, Fifth-day:** Brom's panel at the second bell; the ruling at the hour after noon. The ruling finds the enrollment lawful and Halcenvane compliant, grants compelled re-evaluation within five weeks, invokes chapter fourteen upon a null result, and makes revocation effective at the close of the present academic year (`manuscript/chapter-51.md:127–157,161–205`).
+- **Night of day 201 into day 202:** the council opens after the tenth bell; midnight sounds while Brom fetches Ephram (`manuscript/chapter-52.md:259–269`). The five hands therefore rise on **day 202, Sixth-day** (`manuscript/chapter-52.md:319–343`).
+- **Day 202, fourth bell:** the last bout. Cael wins two touches to one; Ephram's right shoulder is put out and set (`manuscript/chapter-54.md:97–137`).
+- **Day 203, Seventh-day:** M9 opens the morning after the bout. Four withdrawal forms are on Bracken's counter (`manuscript/chapter-54.md:326–330`; `packets/MOVEMENT-009.md:13–15`).
+- **Day 207, Fourth-day:** the academic year closes and the scheduled frame would sit; revocation takes effect at that day's close (`manuscript/chapter-53.md:21–35`). The four enrolled travelers must resign before then. The Registry Line is crossed only after day 207 (`STATE_LEDGER.md:994,1022–1025`; `packets/MOVEMENT-009.md:38`).
+
+#### Bodies
+
+- **Cael:** left forearm bound, five Blade lines wrist to elbow, nothing broken, expected plum-dark for a fortnight; right hip has paid ten bursts, four past the oak's six; right shoulder has paid six pushes at load, one past Norhold's five; two ten-count lanes; headache/slow bill behind the eyes; one spark. No flag. M9 must carry the bruise and road bill so Book 7 can enter with the bruise about a week from gone and no open injury (`manuscript/chapter-54.md:65–137,204–210,298–306`; B6 `BOOK_MAP.md:97–100`; B7 `BOOK_MAP.md:19`).
+- **Ephram:** right shoulder out, set on the oak, bound in a sling, expected to want a month. He stays at Halcenvane (`manuscript/chapter-54.md:109–137,238–268`; B6 `BOOK_MAP.md:69–79,97–100`).
+- **Brom:** two red bars across the forearms; otherwise sound. **Lira, Karis, Seln:** unhurt. Karis's fingers remain permanently paler from the earlier ignition margin (`manuscript/chapter-50.md:49–115`; B6 `BOOK_MAP.md:97–100`).
+
+#### Fragment inventory and deployments
+
+- **Nine confirmed fragments:** Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor-adjacent, Blade-adjacent. Session nine's Tide-adjacent anomaly remains uncounted. This is exactly Book 7's entry: “Nine confirmed fragments + the Tide-adjacent anomaly” (B7 `BOOK_MAP.md:19`).
+- Blade-adjacent is acquired in the third exchange, directed, open-eyed, costed, earnest, and non-hostile. The notice at `manuscript/chapter-54.md:145–152` is character-for-character the Tier A notice at B6 `BOOK_MAP.md:555–562`.
+- **Blade is not deployed:** Cael sees the yard's edges for one breath and puts the new fragment down (`manuscript/chapter-54.md:39–49`). Its first integration pull is the yard-gate lintel's lower edge, named and quieted (`manuscript/chapter-54.md:310–320`).
+- **Anchor is not used in the yard; Shadow stays sealed.** The public sees Wind to ten, the fighting-load push, two Storm lanes, the give, one spark, and the deep read. The managed band is over. Book 7 must still open with “Deployment since the Line: none” (B6 `BOOK_MAP.md:74–79,533–539`; `packets/MOVEMENT-001.md:15–17,27`).
+
+#### Who knows what
+
+- **The cache/falsification revelation remains at six:** Cael, Lira, Brom, Karis, Seln, Vastin. It is not filed, published, or used. Vastin knows the cache but never the mechanism (`BOOK_MAP.md:84–90,629–640`; `manuscript/chapter-52.md:61–105`).
+- **The integration mechanism remains at five:** Cael, Lira, Brom, Karis, Seln. Seln's allowance remains “twice more”; M8 does not spend a telling. Ephram, Withrow, Bracken, Ilsev, Havel, Rooke, Gault, Jent, and the public do not know it (`manuscript/chapter-37.md:99–103`; `manuscript/chapter-52.md:35,327–329`).
+- **Ephram** knows that all five are leaving east past the Line before the close and that Cael held the band deliberately. He knows neither cache nor mechanism and is never told that a fragment was taken (`manuscript/chapter-52.md:279–317`; `manuscript/chapter-54.md:270–286`).
+- **Withrow** knows the clean door, the five-day practical deadline, that Cael and others are going, and that the stair meeting involved “more than a ruling.” She deliberately does not ask what, how many, or when (`manuscript/chapter-53.md:15–17,31–57,79–93`).
+- **Bracken** knows four enrollees will withdraw before the year closes and has prepared four forms. He knows Brom's finding and guidance note. He does not know the cache or mechanism (`manuscript/chapter-52.md:121–185`; `manuscript/chapter-54.md:326–330`).
+- **Ilsev and Havel** know only the Level 4 returns and their record consequences. Ilsev has made those exact returns public and made no finding; Havel stops at six sheets and submits a transfer request (`manuscript/chapter-50.md:237–295`; `manuscript/chapter-51.md:3–123`).
+- The house, town, and two coats saw the public suite. A coat left the west tier for the bag (`manuscript/chapter-53.md:221–369`; `manuscript/chapter-54.md:194–200`).
+
+#### Envelope, findings, forms, and boxes
+
+- Brom's **day-45 Velmere envelope** remains on his table, seal up, unopened. Beside it are the district finding and guidance slip, folded and unsigned. Brom has neither signed nor refused (`manuscript/chapter-53.md:117–123`; `STATE_LEDGER.md:1027–1028`; B6 `BOOK_MAP.md:91–96`). M9 may leave both papers there.
+- **Karis's three numbered research boxes** remain roped on the records-hall deposit shelf. Brom has promised to carry all three; M9 already assigns three trips (`manuscript/chapter-47.md:185–205`; `manuscript/chapter-52.md:159–171`; `packets/MOVEMENT-009.md:24`).
+- **Seln's locked case** is in his post satchel and goes with him. Book 7 expects the three research boxes and Seln's case under one canvas, with the case riding on Seln when they walk (B6 `BOOK_MAP.md:69–73`; B7 `BOOK_MAP.md:21–23`).
+- **Carry caution for M9:** Brom's two personal boxes are still roped under his bed (`manuscript/chapter-47.md:117–125,243`; `STATE_LEDGER.md:1066`). Book 7's binding entry names only Karis's three boxes and Seln's case. M9 must unpack, consolidate, leave, or otherwise dispose of Brom's two boxes on the page; they cannot silently become Karis's three.
+
+**Author's end-state (as drafted; read through the rulings above):**
+## State at movement end (for the ledger)
+
+**Calendar.** No season, month or English weekday names; feet and yards; Halcenvane weekdays. Day 187 Fifth-day: first closing sitting (the twelfth). Day 190 First-day: Ephram on the oak. About day 193: the east hall rehearsal. Day 194 Fifth-day: second closing sitting (the thirteenth); the seat reserves; call days ordered. Day 197 First-day: down to Ostrand. Day 198: the wool yard; Karis's supplemental. Day 199 Third-day: the district station. Day 200 Fourth-day: the evaluation seat's return (not a sitting); Havel's transfer request written that night, dated for the morning. **Day 201 Fifth-day: Brom's panel at the second bell; the ruling at the hour after noon (the fourteenth sitting).** The council opens after the tenth bell on day 201 and the bell for midnight goes before Ephram is brought in, so **the hands go up on day 202**. **Day 202 Sixth-day:** Withrow in the small hours; the price written; Lira's window; Rooke chalks before light; **the bout at the fourth bell**; the empty yard at dusk. M9 enters day 203. **The district's notice (by a district officer, "tomorrow, or the day after") will name the Fourth-day, day 207, the year's last day; the revocation takes effect at that day's close.** The page states no day numbers.
+
+**Bodies.**
+- **Cael:** left forearm bound, five lines across it wrist to elbow (the touch in the first exchange and four more on the guard), nothing broken, "the colour of a plum by morning" and so for a fortnight (the healer). Right hip, crest to knee: ten bursts on the oak, four past the six. Right shoulder: six pushes at load, one past Norhold's five. Two lanes, ten counts and ten. Behind the eyes. One spark. No flag (no wrong thing answered). Anchor idle by naming; not used. Shadow sealed; it offered nothing. Blade-adjacent: integration partial; first pull at the yard gate's lintel, named and quieted.
+- **Ephram:** right shoulder out at the end of the fourth exchange, set on the oak by the house's healer with Brom holding him; bound in a sling; "a shoulder that wants a month". A red mark on the right wrist (the spark).
+- **Brom:** two red bars across the forearms (the wool press; the district's frame). **Lira, Karis, Seln:** unhurt. Karis slept in the coach on day 194.
+- **Bracken** wept on the reading-room landing (day 201 night).
+
+**Knowledge.**
+- **The revelation's reach: six**, unchanged. Not filed, published or used; argued once more and put down. The case left the reading room on Seln, in his post satchel.
+- **The mechanism was not said to Seln** in M8; the "twice more" limit stands at two. At the council the reach is referred to only as "the rule" and "on paper"; the priced leaf carries four sets of initials (Cael, Brom's barred B, K., L.) and not Seln's.
+- **The circle and Seln** now have the returns' wording (Ilsev's reading) and understand *Designation predates file creation* by M6's findings; the ruling's five heads; the district's five days (Cael from Withrow; he has not yet told the others on the page).
+- **Ephram:** told the departure (all five, east, past the Line, before the year closes) and nothing of the cache or the mechanism. He knows the band was held on purpose (his own inference, written on the chart's back) and has seen the suite past the Norhold rates. **He does not know a fragment was taken.** He is staying.
+- **Withrow:** knows they are going by the clean door and that it is "more than a ruling"; has not asked what, how many, or when. She had the arithmetic from the counsel on day 197 and withheld the recommendation.
+- **Bracken:** knows four enrollees will withdraw "before the year closes"; asks when, not why; read the frame-house reservation on the district's board on day 197.
+- **Ilsev, Havel:** learned nothing. Ilsev read the returns and her note into the public record and made no finding. Havel read the first return for the first time, stopped at six sheets, and connected nothing.
+- **Jent:** "was not told its office either."
+- **The house, the town and two coats** saw the lid off: Wind to ten on the oak, the push at load, two lanes, the give, a spark, the read at depth. One coat left the west tier's top "to catch a bag."
+- **Rooke, Gault, the house's counsel:** nothing of the cache. Gault saw what his figures had been figures of, and nodded.
+
+**Resources.**
+- **Hesk's book (in the satchel):** the shortest entry (day 199); *Lawful. Compliant. Revoked.* is thought, and the day's line *Five weeks became five days.* is written under "the ruling's three words"; the column filled at last (Brom's sentence word for word; Lira: *The program, the sitting, Rooke. Full price. It doesn't live here.*; Karis: *eight heads; see her sheet* and *the room*; a fifth ruled line with no head and Seln's sentence; Cael's own: *Wanted it true* and what follows); **the priced leaf for the ninth** with four sets of initials and Lira's capitals; the ninth's entry and bills in pencil; the reasons Anchor stayed in the kit.
+- **The rotation's book:** last line *Sixth-day. The Crown yard. Ephram. All of it.*; shut for good.
+- **The enrollee's engrossment of the ruling** (registry stock, the river and the scale), left squared on Bracken's counter by Seln.
+- **Karis:** thirty slips (twenty-one said); the pencil transcript of the evaluation seat's return (seventeen lines, on a deal board in the wallet); the receipt for her supplemental; her forfeiture sheet inside the notebook's front cover; a letter written to the research council for the assistant and one not written to the assistant; a second Greyvane request redirected care of Hesk at Denvash. Three boxes still on the deposit shelf.
+- **Brom:** on his table, the district's finding folded with the guidance slip tucked in, **unsigned**, and a hand's breadth off **the day-45 Velmere envelope, sealed, unopened**. Right pocket: the slip *Both.*
+- **Lira:** the carter's book with her bill under *ME*; the east hall's key, kept "for five days"; Iron Rank One's certificate in her coat.
+- **Seln:** the case in his post satchel.
+- **Ephram:** the chart, with *He has been under the line on purpose. All ninety-eight.* / *Ask for one. After.* on the back of the third sheet.
+- **Havel:** six sheets numbered one to six and tied with red tape; a *Request for relief from rotation*, signed, dated day 201.
+- **Bracken:** thirty-nine copy-sets of the ruling gone by the first bag of day 202; **four sheets of the registry's withdrawal form squared on his counter with a pen, "for morning."**
+- **The Crown yard's boards:** the first board in Rooke's capitals; on the third, a short wavering rule above Ephram's name with nothing over it.
+- **Rooke's clerk's two books:** the bout entered in both, "as chalked" (*the enrollee*).
+
+**Fragments and progression.**
+- **Nine confirmed.** **Blade-adjacent acquired day 202** in the third exchange of the Crown-yard bout (directed, open-eyed, inside an earnest fight Ephram began, the cost written the night before and initialled by four). Notice verbatim (see Protected). The first *earnest — non-hostile*.
+- **Deployments:** Blade — **none** (seen for one breath and put down). Anchor — **none** (a dozen askings at Ephram's heel, each named). Shadow — **none**. Public, on the oak, in front of the house and the town: Wind ten (four past the oak's six; one past Norhold's nine), the push at fighting load six (one past Norhold's five), two Storm lanes (ten counts each; the first on the bluff), the give opened and shut, one spark, the read at depth.
+- **The managed band is ended.** Its last use was the first exchange, by reflex.
+- **Idle states:** Anchor by naming; Blade by naming, housed beside it.
+- **Lira:** no rated bout; her advancement sitting stands on the district's board (fourth of six names) and will not be sat. **Brom:** the panel found for Iron (reading in the sigil frame under load, a count past forty); rank to be entered upon signature before the registrar within fourteen days; **not signed, not refused**.
+- The still place: not touched.
+
+**Relationships (on the page).**
+- **Karis:** "Now I can say it as if it were"; "I'll want you where I can see you"; the thumb; "It wasn't for the seat"; "I've lost twice in a week, and both times I was right"; the bibliography; "There wasn't anybody else whose address will still be an address"; *K.*
+- **Lira:** the petitioner on a painted floor; hands under her; "Then what was it for?"; the capstan bar; "Ask me after the Fifth-day"; "I wanted somebody to have seen it who knew what it was"; the stair; "Full price"; "The rule."; *HE ASKED. DON'T BE KIND.*; "That's the first time this school has ever seen him."
+- **Brom:** the blanket; four apples; "Again."; "I held it"; "This one's light"; the three boxes; "I find I needn't read the question"; over the rim wall; "I've had one out."
+- **Seln:** "I have sat under four seats. That is the first I have liked."; the door held; "I am sorry. I should have liked to find something."; "Then I'm found in a week"; one sentence; the last hand; absent from the boards.
+- **Ephram:** "I'll not ask a man for anything while a seat has him"; "There's nothing face down"; "I'm not coming"; the chart's back; the sunward mark; "That's ninety-nine"; "Then look"; "That's the door"; the rule above his name; "Still glad."; "Don't make me sound clever in it. I walked into a post."
+- **Withrow:** the collar; the code shut; "You did not lose badly"; four days; "I wanted it to be yours"; the door; last out, and a bow that was meant.
+- **Bracken:** a hand beside the wallet; "I can see both doors"; the slate; the stair; "When?"; four sheets.
+- **Rooke:** at the back wall; two fingers to the board's edge; chalk in the dark; "I call a guard a guard"; "Both. Enter both."; "As chalked."
+- **Gault:** a line in his small book; one nod.
+- **The house's counsel:** "Twenty-six years…"; the sleeve.
+- **Jent:** "Chancellor."; "Advocate."; "Hesk-ward."
+- **Ilsev:** "She reads what she was sent." **Havel:** "Copy it as it stands."; a hope for kindness no register enters.
+
+**Proceedings.**
+- **Twelfth sitting (day 187), upon the close:** the petitioner's closing (ten minutes); the respondent's counsel upon the remedy; **leave given** under the hearing provision's second paragraph: the advocate of record to be heard at the next sitting, once, within the hour; the petitioner may reply.
+- **Thirteenth sitting (day 194):** the advocate of record's closing (fifty-one minutes); the petitioner's reply in one paragraph; the standing entries read, among them *Evaluation-protocol certification: declined by the evaluator of record; proceeding on the presiding seat's authority.*; the seat reserves; ruling on the year's last Fifth-day at the hour after noon; the parties to keep within the bell from the First-day.
+- **Respondent's supplemental (day 198)** upon the entry of the certificate's absence (four instances of a seat proceeding without it, all upon frames or a plate); received.
+- **The evaluation seat's return (day 200; not a sitting):** read by Ilsev with the presiding chair covered; the designation at schedule two's fourteenth line; both returns entire; her note; the contradiction noted; no finding; entered; a fair copy in the porch's public record. No observation from either party.
+- **Fourteenth sitting (day 201), for ruling:** the enrollment lawful and the provision standing; the respondent institution compliant, no finding to be entered; **the enrollment basis revoked, the revocation to take effect at the close of the academic year**; **re-evaluation under standard Arbiter protocol at the district seat within five weeks, upon a date to be notified**, the evaluation seat to see to its conduct; the fourteenth chapter upon its result. *Given under the Compact's hand.* Bracken's fourteen came out exactly.
+- **Brom's advancement review (day 201):** found for the tier, Iron; unsigned.
+- **Pending for M9:** the district's notice of date (the frame-house is reserved for day 207); four withdrawals on the registry's form; a clerk's stamp in the charter folder's right-hand column in the week after the close. File designations unchanged at M8's end. **No resignation is filed in M8. No third move by the faction.**
+
+**Open threads.**
+- **Opened:** the district's notice (five days); the unsigned finding and the unopened envelope left on a table; Lira's sentence to Rooke (promised for "after the bout", not on the page); the red book's two words (unread); Karis's unwritten letter to the assistant; the Greyvane answer on its way to Denvash; Havel's request (not yet handed in on the page); Withrow's "leaf put in"; the blank over the Iron column; the coat gone "to catch a bag"; Blade's first days of asking; an unpriced cost (Ephram's shoulder).
+- **Advanced:** the clean door (now five days wide, and known to Withrow and Bracken); Seln's own door ("I just never filed it"); the watchers (they have their status change coming and the lid's rates in a pencil).
+- **Closed:** the proceedings; the hearing provision; the certification; the returns' wording; Brom's review; Havel's note (six, numbered, tied); the managed band; Ephram's question; the leaving question; the column.
+- **Plants:** none new toward Books 8–9. (A draft clause calling the station's sigil "older than the paint round it" was removed so that M9's last-station plant stays M9's.)
+
+**Prose vs plan differences.**
+- (a) **Leave is ruled at the first closing** and the closing delivered at the second, so that Karis has a week knowing she has the room, and Jent's ten minutes and her fifty-one fall on different days.
+- (b) **The declined certification** is entered at the second closing as one of the clerk's standing entries, read from a form pasted into the minute.
+- (c) **The four days are "call days"** (my mechanism): an old rule that parties keep within an hour of the seat for four days before a ruling. The evaluation seat uses it; **Ilsev's six minutes are a return, not a sitting** (day 200), with the presiding chair covered and eleven people in the room.
+- (d) **Havel's window** carries the minute to a copyists' loft and adds a copyist who doubts the sentence; the transfer request is written that night and not yet handed in.
+- (e) **Brom's panel is reported**, not staged (Cael may not attend another proceeding on a call day); Lira goes in with him.
+- (f) **The ruling's text is mine** (five heads and a recital) inside the packet's elements; the protected closing line is exact.
+- (g) **"Five weeks became five days"** is Withrow's arithmetic (the district's five days' notice; the frame-house reserved for the year's last day) and Cael's log line.
+- (h) **The council is in Karis's reading room**; the cache is argued for by Karis and answered by all four others; the verdict line is hers. The five hands come last and carry both parts (the leaving; the bout with the lid off).
+- (i) **Ephram had already asked Withrow for the yard at supper**; he is told the departure before the hands, and waits on the landing while they go up.
+- (j) **Lira's window** includes her reading and initialling the priced leaf while Cael sleeps, and seeing Rooke chalk the board.
+- (k) **Cael wins**, two touches to one; **Ephram's shoulder** is the fourth exchange's unpriced cost (BOOK_MAP §1: "Ephram's shoulder set").
+- (l) **The boards ritual** is a house custom I gave the yard: whoever loses on the oak chalks it himself.
+- (m) **The first pull** is at the yard gate, told after the log entry.
+
+## New canon minted (flag where marked)
+
+- **Call days / "keeping within the bell" (flag):** four days before a ruling; a seat or its evaluation seat may recall a party on an hour's notice; used twice in the counsel's time (once for a guild master's mother's maiden name). A return made on a call day is posted in the porch before the ruling.
+- **The wool-factors' guesting-house (flag):** old brick, a back gallery, in the lane behind the exchange; a parlour with a two-paned door; a flagged yard with a pump, a pentice of woolsacks and **an old screw wool press** (two posts, a beam, a wooden screw, a six-foot platen, a four-bar capstan). The woman who keeps it is unnamed.
+- **The district hall (flag):** three streets from the exchange; a blue door; a board of sittings beside it (the first sitting after the year's close: six names, Lira's the fourth); a second board on which the frame-house's reservations are written. The district's frame is "the size of a hay wagon"; **the plate is warm when it lights**; the assessors let the load down on springs and then again; they say only *stand there* and *thank you*.
+- **The district station on the north road (flag):** low stone, slate roof, a windowless frame-house behind, a sigil in the lintel, a bench, a board of hours; short of the toll-bar. **The district officer** there: stout, fair, unhurried, kind. The girl and her mother are unnamed; her Path is not given.
+- **The count of the room (day 187):** 187 on the benches, 19 by office, 206 with Cael. Jent has a clerk (thin, young, unnamed).
+- **Karis's closing (text mine, ch49)** and its count: thirty slips written, five cut in rehearsal, nine more dropped on her feet; fifty-one minutes.
+- **The standing entries (text mine)** and the pasted certificate form; **"evaluator of record" as the form's column heading** for the protocol's certifying office (see owner flag 2).
+- **Karis's supplemental (flag):** four recorded instances of a seat proceeding without the certificate — a guild hall's frame, two hill-district station frames, a plate.
+- **The evaluation seat's return (text mine around the protected and verbatim lines, ch50):** a designation "governs who must be present at an evaluation, and to what office its result is sent"; Ilsev's stated obligation to lay such a matter before the proceedings.
+- **Ilsev's appearance (flag, minor):** a spare woman of sixty or so, grey hair cut short, a plain coat.
+- **Havel (flag):** the copyists' loft over the long room (the factors' old sample loft; four desks; one copyist on a call day); the porch's public-record board behind a brass grille with the junior chair's key; the senior chair's bad tooth; the form *Request for relief from rotation* with five heads, and his entries.
+- **The ruling (text mine, ch51):** a recital and five heads; **the revocation takes effect at the close of the academic year**; the date of re-evaluation "to be notified".
+- **The district's notice (flag):** the code gives a district five days' notice for a compelled evaluation; the clerk reserved the frame-house for the year's last day before the ruling; the notice will be addressed to the Chancellor, to produce the enrollee.
+- **Seln's reading of the engrossment (flag):** registry stock from the first mould, the mark true, the die's rim number, the seat's own clerk's hand; and his four grades said aloud to Cael for the first time.
+- **Copy-sets (flag):** Withrow's order that the thirty-four houses that wrote and the five faculties have the ruling and the standing entries in the house's fair copy, three leaves to a set, by the next first bag.
+- **The district's finding (text mine)** and **the guidance note (text mine; flag):** a printed slip issued by rule with every finding; a paragraph the clerk marks where a practitioner has "associations of record"; Bracken issued it eleven times as a district clerk.
+- **Karis's forfeiture sheet (text mine):** eight heads; a second Greyvane request (the founders' correspondence), sealed by the fee office in the week the first was paid, answer expected in about eight weeks, redirected care of an instrument-maker at Denvash.
+- **Ephram (flag):** the chart's back, both lines; the three cuts chained "as a mason lays a course", and **the short cut** (heel and edge, no hip); he lays lines with a turn of the wrist and can hold two; **a Blade reads a Storm lane as a line**; "Every Blade's got a door in him. They tell you in the second year. They don't tell you where."
+- **Blade-adjacent as acquired (flag):** an edge "said" a hand's breadth out beyond the wood; a line past the tip along which the Blade has word of what will cross; at integration, one breath in which every edge in the yard is seen; the first pull asks *Edge?* of a lintel's arris; naming quiets it; housed beside Anchor.
+- **The give against an edge (flag):** the cup holds a blow and does not hold a declared edge.
+- **The Crown yard:** Rooke's board text (ch53); the stand's registrar's chair; **the boards custom** (the loser chalks it himself, the same day, in the other's sight; "older than the brass on the Copper crown"); the rule above the Iron column.
+- **Rooke's clerk** is the program's clerk who kept the visitors' ledger; the bout is entered in the program's book and the house's.
+- **Minor:** Bracken's three pairs of glasses all about him when he has read a thing more than once; the lodge-man signs every caller in.
