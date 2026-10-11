@@ -133,3 +133,9 @@ The Compact's formal challenge (B6 ch5, Tier B first page) addressed "the enroll
 
 ## 45. Book 6 length — fuller later movements (OWNER RULING, 2026-10-10)
 Asked: Book 6 ran at ~88% of budget after four movements (source-distance repairs trimmed restatement; nothing padded). Owner chose **fuller later movements**: Movements 5–9 develop their planned scenes more fully (more dramatized beats, more room per planned scene) so the book lands nearer its ~300k budget. Still no padding; no restatement added back; source distance still binding.
+
+## 46. Book 6 M9 protected-text rulings (coordinator defaults, 2026-10-11)
+- **The closing inventory (ch60) is protected text.** The M9 packet lists it as protected though BOOK_MAP §8 omits it; the Sol protected-text audit found its full protected wording and it is restored verbatim (two runs of 104 and 35 words). Recorded here as the protection ruling the editorial asked for. Owner may release it for re-composition.
+- **The first pole stays verbatim wherever it is quoted** (#43): ch60's recall of it reads "a stamp renewed four times", identical to ch7. The protected-text audit's "two renewals on paper" substitution inside the quoted pole was reverted by the coordinator; non-protected counts still say "two renewals on paper". If the owner chooses #43 option (b) "renewed twice", it changes in BOTH ch7:225 and ch60:253.
+- **The book's last line and the six restored units** (Gault's last note; the personnel query; the waystation board; "You couldn't read me…"; Cael's reply to Daeva; the closing exchange) are verbatim from the protected wording, with only the edition's mandatory changes ("Since my Kindling"; "Nine fragments"; the personnel query's teaching-assistant role, calendar and house frame).
+- **The shelf is the SECOND camp beyond the Line and the first fire** — Book 7's plan is amended to match (audit fix 16), not Book 6.

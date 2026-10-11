@@ -250,7 +250,7 @@ Then he turned back.
 
 He turned a long way back, past a ruling and a road cut and a birthday, to the front of the book, and found the leaf by its date, the night of the eighth day. He had written an entry there in the small hours, after a records hall with the lamps lit in pairs. It was in his best hand. He had been very sure.
 
-*I can work within the system. I have the receipts: a hearing, a provision, two renewals on paper, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.*
+*I can work within the system. I have the receipts: a hearing, a provision, a stamp renewed four times, a tournament their own clause put me in. The system has text, and text has held me every time the people failed. This is more text. We'll read it better than they do. We always have.*
 
 He read it through. He had expected to wince, and he did not.
 
