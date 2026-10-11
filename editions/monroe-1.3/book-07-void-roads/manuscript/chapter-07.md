@@ -20,7 +20,7 @@ Pike had the book open and the stone on it. He looked up as they came along the 
 
 Pike nodded, and turned his shoulder to the meadow, and said it out over the heads of the people at the plank in his level, carrying voice, so that it went as far as the ash.
 
-"Thornwater road, the stretch. Walked ahead of one cart, one carter, one mule. Delivered at the fence. No losses. Nine marks, paid."
+The Thornwater line went out exactly as it had come to them on bark.
 
 It was strange to hear. Cael had read those words on a scrap of bark in a hold's yard, and thought them his; and now they belonged to a woman with a board of loaves on her head, and a man mending a trace, and an old carter under a tree, who had lifted his chin at the word *stretch* and held it there to the end. Several of the people at the plank turned and looked at the five of them. They looked once, at their boots and their steel, and then went back to their own affairs.
 

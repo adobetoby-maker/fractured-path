@@ -232,7 +232,7 @@ There was a pause of four strides. Then the clicking stopped, for a large hand h
 
 The grey head swung. It went slowly to one side and then to the other, low, casting, as a dog casts that has lost a line. Brom let go. The buckle clicked, and the head came round and settled on it again.
 
-*It hears. As a dog does.* That was worth having, though not for itself. It could hear a buckle at forty-five yards, and so it had certainly heard a wired wheel, and ten feet walking, and a carter breathing through his teeth. It had heard all of them for half a mile, and it had done nothing. Whatever it was waiting for was not a sound that they were making.
+*It tracked the buckle.* That was worth having, though not for itself. The buckle moved at forty-five yards and the grey head moved with it. A wired wheel, ten feet walking, and a carter breathing through his teeth had drawn no answer Cael could see. The observation told him neither what sense had found the buckle nor what the thing was waiting for.
 
 The fourth thing was the gravel.
 
