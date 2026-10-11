@@ -250,11 +250,11 @@ It was Seln who sent it across the room, in the voice for distances; and beyond 
 
 Lira did not look at the gap either.
 
-She had slid down from her knees to the seat of her breeches on the wall-top, with her left leg folded under her and her right knee drawn up. The sole of the great boot was planted whole on the stone. Behind her right shoulder the wall rose a foot higher, where a course had not broken; she set her shoulder against that, and laid the stock across her knee.
+She had slid down from her knees to the seat of her breeches on the wall-top, with her left leg folded under her and her right knee drawn up. The sole of the great boot was planted whole on the stone. Behind her right shoulder a length of the wall's old coping still stood, a foot higher than the rest. She set her shoulder against it, and laid the stock across her knee, and drew its butt back into the hollow of that shoulder. The knee and the coping held the bow between them, and her right hand had only a lever to mind.
 
 The pale side was six yards below her, and as broad as a barn door.
 
-Her left arm came up, under the wool, to steady the thing. He saw it reach the knot and stop.
+Her left arm lay where a healer had tied it, high against the collar-bone, and did not stir. A lean man had told her on a gate-walk that a bow wants one hand, and a thing that does not move.
 
 She let her breath go out. She did not take the next. There was a count in which nothing in her was on its way anywhere; and then her finger closed on the lever.
 
@@ -312,11 +312,11 @@ There were thirty yards of plates between the hall and the kerb, and they were t
 
 Nothing lifted a plate behind them.
 
-On the kerb Seln stopped, since a person could. He set his boot in the stirrup once more, and spanned, and laid the last bolt in the groove; and he held the bow out to Lira by its stock.
+On the kerb, which was the hall's outer coping, Seln stopped, since a person could. He set his boot in the stirrup once more, and spanned, and laid the last bolt in the groove; and he held the bow out to Lira by its stock.
 
 "One," he said.
 
-She took it. From the coping, before they came down, Brom had looked at the roll of paper and at what Karis held, with his coat black from the shoulder to the belt. He had asked:
+She took it. Brom had not waited. He was three strides out along the grey path already, with the healer's shoulder under his left arm and his coat black from the shoulder to the belt. He had turned his head to look at the roll of paper, and at what Karis held against her chest.
 
 "What did we get?"
 

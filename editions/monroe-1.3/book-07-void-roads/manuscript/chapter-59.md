@@ -14,23 +14,21 @@ It grew colder with every morning. On the first the sky was clear, and the ruts 
 
 On the fourth the wind went into the north and stayed there, and they walked with their chins in their collars and the mule's breath freezing on her whiskers.
 
-Brom laid six bowls at every halt, and took one back. The mule went on the low side of nothing. Karis did her sums walking, and Seln brought his one word down the file; and to Cael, who had learned that crew's sound on a hundred roads and had learned it again at a fork with a pair of boots gone out of it, five had already begun to seem the number that a road was walked by.
-
-He did not care for that. He wrote it down, so that he should be held to noticing it.
+To Cael, who had learned that crew's sound on a hundred roads and had learned it again at a fork with a pair of boots gone out of it, five had already begun to seem the number that a road was walked by. He did not care for that, and he wrote it down, so that he should be held to noticing it.
 
 His ribs kept the count for him.
 
-He could not lie on them. He slept sitting, against a box or a wall, with his knees drawn up. He woke at every turn of the watch with the three old breaks as plain to him as three fingers laid on his side. They were no worse on the road. They only spoke, exactly as a healer had said that they would, and he counted her ten days off against them each night as a man counts off a sentence: the sixth on the ridge, and the seventh at the stones, and the eighth under the fence of a hold that would not open its gate.
+He could not lie on them, and he slept sitting, against a box or a wall, and woke at every turn of the watch. They were no worse on the road. They only spoke; and he counted a healer's ten days off against them each night, as a man counts off a sentence.
 
 Lira walked in front of him, and he watched her do it for six days.
 
-The foot was taped. A roll had been put into her hand at a fork, without a word, by a person who had then walked north. She wound it each morning herself, sitting on a box, with her one hand and her teeth, as she had been shown on a mountain. Then she set the great boot down whole, heel and toe together, at every stride of every mile, on ruts that were iron and on turf that was glass. She rolled nowhere and pushed at nothing.
+The foot was taped, from a roll that had been put into her hand at a fork, without a word, by a person who had then walked north; and she wound it herself each morning, sitting on a box, with her one hand and her teeth. Then she set the great boot down whole at every stride of every mile, on ruts that were iron and on turf that was glass.
 
 It went from under her on the fourth day, on a sheet of ice where a spring had crossed the road.
 
 He was three strides behind. He saw the boot go, and her right arm fly out; and he saw the left, under the grey wool, start to come and stop at a knot. She went down on her right shoulder and her hip, hard, with the bow clattering on her back. She lay for one breath with her cheek on the ice.
 
-Brom had the mule's rope in his good hand, and he did not let go of it. Not one of them went to lift her. Each of them knew what she had been told at a stone about that arm, and what she would say to a hand under it.
+Brom had the mule's rope in his good hand, and he did not let go of it. Not one of them went to lift her, since each of them knew what she would say to a hand under that arm.
 
 She got up by herself, on the right hand and both knees, as she climbed a ladder.
 
@@ -44,11 +42,11 @@ She walked on, with the foot set down whole. Karis offered her the mule's back t
 
 "I rode a mule off a mountain once, for that," said Lira. "I'll walk home on it."
 
-Nobody at that fire said what *it* was. Cael noticed that none of them had, in six days. They spoke of the foot, and the boot, and the tape, and of what she had been told. A healer had refused that joint once, on arithmetic, and a girl had made up her mind that she would not ask for it a second time; and its name went all the way from a fence of iron to a river without being spoken by anybody.
+Nobody at that fire said what *it* was, and Cael noticed that none of them had, in six days. They spoke of the foot, and the boot, and the tape; and the name of the joint itself went all the way from a fence of iron to a river without being spoken by anybody.
 
 He woke on the hundred and twenty-ninth morning lying on his left side.
 
-He had rolled onto it in his sleep, and it had let him. He lay and breathed, slowly, to the bottom of his chest, and nothing answered. It was ten days to the morning since a woman wet to the waist had pressed her thumb in two places and told him to count it himself.
+He had rolled onto it in his sleep, and it had let him. He lay and breathed, slowly, to the bottom of his chest, and nothing answered. It was ten days to the morning, as she had said.
 
 ---
 
@@ -60,9 +58,7 @@ It was a small hand, and upright. It pressed. It ruled no margin of its own, hav
 
 Seln had no more of him than that. There was no name in the book, and he had not looked for one; a field ledger is signed for at a counter, and the name stays at the counter.
 
-He had told four people at a fire that he wanted a face. He had gone up a ridge for one, and had been given six hoods and a bow with its maker's stamp filed off. He had broken that bow across a stone. He had not broken a thing in anger since he was a boy, and he was not proud of it, and he had entered it.
-
-This was the nearest that he had come. It was a person's own book. In twelve years of that matter he had handled a great deal of paper. Every leaf of it had been written by a clerk, at dictation, for somebody up a stair. Nobody had dictated this. A man had gone alone into a hole in the ground with a cord and a mallet, and had put down what he found there, for himself and for no reader, in the order in which he found it, and had been astonished.
+He had wanted a face, and had gone up a ridge for one, and had been given six hoods. This was the nearest that he had come. It was a person's own book. In twelve years of that matter he had handled a great deal of paper. Every leaf of it had been written by a clerk, at dictation, for somebody up a stair. Nobody had dictated this. A man had gone alone into a hole in the ground with a cord and a mallet, and had put down what he found there, for himself and for no reader, in the order in which he found it, and had been astonished.
 
 And then somebody had left him there.
 
@@ -78,9 +74,7 @@ He shut the book, and put it back inside his coat, against the strap.
 
 It lay where it had lain for nine days, on his breastbone, beside the other thing; and he sat for some time with his hand over the pair of them.
 
----
-
-It was on the fourth day of that road, with the wind gone into the north, that he saw what he had been doing.
+It was three days later, on the fourth of that road, with the wind gone into the north, that he saw what he had been doing.
 
 He was walking a furlong ahead of the others, and he put his hand up to his coat as he did a dozen times in a day; and for once he noticed that the hand had two things to find. There was a case, locked, which he had carried shut through twelve years and three postings and across a Line. And there was a book, which he had carried shut for twelve days.
 
@@ -90,7 +84,7 @@ He had seen people stand so before him for fifteen years, on the other side of a
 
 He went over it as he would have gone over a return. The case was shut for cause. There were names in it, and what was done to their owners; and there was a leaf in it that was no copy. It would be opened on a day, before the right people, or it would burn those whom it was kept for. He did not doubt that. He had audited it on a great many watches.
 
-The book was another matter. It was a page and a half of distances, set down honestly by a man with a knotted cord, and a line that stopped. A person at the back of this file needed it every evening of her life. She had told him in that same room that a measurement was a fact about a ruler, and not about the hand that held it. And she kept a box in which, by her own rule, nothing was written of anybody that he had not heard to his face.
+The book was another matter. It was a page and a half of distances, set down honestly by a man with a knotted cord, and a line that stopped. A person at the back of this file needed it every evening of her life; and she kept a box in which, by her own rule, nothing was written of anybody that he had not heard to his face.
 
 He had spent fifteen years learning to keep things from being read. He could think of no worse shelf for a dead man's true figures than the coat of such a person.
 

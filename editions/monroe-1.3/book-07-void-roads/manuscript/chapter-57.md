@@ -164,7 +164,7 @@ It was what six people sounded like on a hard road. He knew the sound as he knew
 
 They met one cart all that day.
 
-It came toward them a little after noon, behind a single mule, with a load of raw hides roped under a cloth and a smell going before it. The carter walked at the near wheel with a scarf over his nose. He looked at six people, and two beasts, and a sling, and an arm bound to a chest; and he lifted one hand to them, as carters did on that side of the Line, and they lifted theirs, and nobody broke step.
+It came toward them a little after noon, behind a single mule, with a load of raw hides roped under a cloth and a smell going before it. The carter walked at the near wheel with a scarf over his nose. He looked at six people, and two beasts, and a sling, and an arm bound to a chest. He lifted one hand to them, as carters did on that side of the Line, and they lifted theirs, and nobody broke step.
 
 There were two holds on that road, and both were shut. Each had its fence of split posts and its barred gate, and smoke going straight up from the long house; and at neither did anybody come to the gate-walk to see who went by. The cold term had come down on that country as a lid comes down on a box.
 

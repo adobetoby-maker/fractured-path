@@ -38,7 +38,7 @@ She clicked her tongue at the jenny, and took the left-hand road.
 
 He went with her. He had not meant to, and he did not know that he was going to until his boots were on the frozen ruts beside hers, at her stride and a half, with the grey mule's breath on the back of his neck. She gave him one glance and let it be.
 
-He counted, since he could not walk beside anybody without counting. He said nothing through the whole of it. There were a good many things that he might have asked on that piece of road: how late she would be now at a ford with oxen, and whether a child's chest had changed, and when he would see her. There was the other, which was whether she would ever tell him what she had refused to tell him on her table. He asked none of them. Each was hers to give, and she had a road to walk.
+He counted, since he could not walk beside anybody without counting. He said nothing through the whole of it. There were a good many things that he might have asked on that piece of road: whether a child's chest had changed, and how a round was walked in snow, and when he would see her. There was the other, which was whether she would ever tell him what she had refused to tell him on her table. He asked none of them. Each was hers to give, and she had a road to walk.
 
 At fifty paces she stopped.
 
@@ -146,7 +146,7 @@ At the old ruts Lira stopped, and looked down the slope, and then at Cael.
 
 "It's heard."
 
-She went down from the ruts by herself, on the whole of her foot, with her head a little on one side and her lips moving. He counted with her. She had found the line at forty paces inside the ruts at the Stair; the ruts at the Fallow had kept forty yards. She passed forty without a check. She passed a hundred.
+She went down from the ruts by herself, on the whole of her foot, counting under her breath, and he counted with her. The line had lain forty paces inside the ruts at the Stair, and the ruts at the Fallow had kept forty yards. She passed forty with the iron still a long way below her. She passed a hundred.
 
 At a hundred and eighty-nine, or within a pace or two of it, she stopped one pace above the dark uprights.
 
@@ -202,7 +202,7 @@ Nobody asked him who. He had said the name of it once, at a stake, and it had no
 
 "There was a sheet with two," he said, after a breath. "I told you that I could not place it. A marsh three days behind us, and this: I can place it now."
 
-Lira was standing with her right hand closed on the head of a bar. She was on the outside of it, and she kept her boots there.
+Lira was standing a pace above the iron, where she had stopped, with her right hand shut on the strap of the bow.
 
 "Twice the size. Is it twice the *anything else*?"
 

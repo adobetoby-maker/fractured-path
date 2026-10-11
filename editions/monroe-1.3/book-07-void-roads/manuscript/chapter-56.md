@@ -74,7 +74,7 @@ He had not sent for her. She had come of her own motion, as she did every year. 
 
 He had not set it. The woman with the net had not put her mark on the shingle, and the four marks were lost, as he had said they would be. He had sent his word north by the mill's carter, in so many words, for the man with the book: five strokes to look at, and all of them walking; and the three hundred was to stay where it lay.
 
-That was his business with that crew done, by any reckoning that he had ever used, and he sat on the bank at dusk with his boots off and found that it was not done.
+That was his business with that crew done, by any reckoning that he had ever used, and he sat on the bank at dusk with his boots off, and it was not done.
 
 He went over it as he went over a load. Six people had lain round that low ground for a day with their faces covered, and had gone off it north and south and west when a boy stood up with a light. They had gone as people go who have practised leaving. He had read where they lay, by lantern, and had found nothing above the height of a boot. People who take such pains over what they leave behind are not people who go home.
 

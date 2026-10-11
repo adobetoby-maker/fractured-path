@@ -26,11 +26,11 @@ She laid them in three heaps along the deal, and did not try to make their edges
 
 She set her lamp in the middle, and lit it with a point, and unrolled the hide.
 
-Cael did not go to the hearth with the others. He sat down at the meal-sack end of that table, with Hesk's book, while she worked; and he did the thing that he did at the start of anything, which he had last done on the night that he was nineteen.
+Cael did not go to the hearth with the others. He sat down at the meal-sack end of that table, with Hesk's book, while she worked.
 
 *Hundred and twenty-ninth day, night. A back room with a door on it, in the lower inn at Lowmarch. First snow. Ninety-six in hand. Nine lines in Pike's book, and no number against the season. Eleventh on the cloth. Deployment since the Line: twenty-seven.*
 
-He ruled a line beneath, and wrote the rest slowly, since it was to stand through a cold term.
+He ruled a line beneath it. What came next was the inventory, which he made at the start of anything: every fragment that he carried, in the order of its coming, with the Path that it stood beside and the person who had given it. He had last made one in a loft, on the night that he was nineteen. This was the first that he had ever written under a roof which he meant to come back to, and it was to stand as the count for the whole of a season past the Line; so he wrote it slowly, and left nothing out.
 
 *Ten confirmed fragments.*
 
@@ -40,7 +40,7 @@ He ruled a line beneath, and wrote the rest slowly, since it was to stand throug
 
 *Reydan will get his answer. Daeva will get her rematch. Both are going to need a map.*
 
-He read it through once. On the far side of the lamp a strip of brass was going down a calfskin, a hand's length at a time.
+He shut the book on it. On the far side of the lamp a strip of brass was going down a calfskin, a hand's length at a time.
 
 ---
 
@@ -102,23 +102,21 @@ She did not turn her head at the notch. She had left a good many gates in thirty
 
 The jenny went as she had always gone, which was badly. She led as a gate swings. For the whole of the first morning Oryn's right hand kept going out to a small brown cheek that was two days behind her on another road; it met a grey ear like an oar, and came back. She let it. She had told a girl in a yard that a beast should not be named, and had learned at a wicket how little that helped.
 
-She did her sum as she climbed, since she did it every morning.
-
-She had been a stop for nine days. She said it over without softening it. There had been a bench at the mill that she left a day short. There were two gates beyond the mill that had not seen her at all. There was the ford with the oxen, where they had looked for her on the hundred and fourth. She had said seventeen to a loft, and nineteen to a carter, and *or more* to a stone, and it would be the hundred and twenty-fifth before she so much as came down out of these hills. That was three weeks, to the day. Beyond the ford was the gate that had given her the coat, and beyond that the child.
+She did her sum as she climbed, since she did it every morning, and it came out as she had given it to five people at a heap of stones. There was a bench at the mill that she had left a day short, and two gates beyond it that had not seen her at all. There was the ford with the oxen. Beyond the ford was the gate that had given her the coat, and beyond that the child.
 
 She had sent word for the child. No word had come back to the mill before she left it, which meant that the breathing had not changed, or that the carter had been slow. She could not tell which. She put it with the things that could only be carried, where it did not get into her hands.
 
 Then she let herself go over the other, since she had four days and nobody to see her do it.
 
-She began with what her hands had, as she had been taught. They were full again. She had mended nobody for three days, and slept in a ruined hold with her back to a wall, and she could feel the purse of her reserve sitting heavy and whole, as it had not sat since a mill. They had held a shoulder twice, and it was mended, and bound by a woman who knew more about holding than she did; she had watched a drover's turn laid three times and could lay it now herself. They had held an arm with eight marks on it, all taken. They had been on a boy's wrist for a count of ten and had got what they always got.
+She began with what her hands had, as she had been taught. They were full again. She had mended nobody for three days, and she could feel the purse of her reserve sitting heavy and whole, as it had not sat since a mill. They had left a shoulder in the keeping of a woman who knew more about holding than she did, and she had a drover's turn to show for it, which she could lay now herself.
 
 It was the other way about that she had no practice in. He had been in *her*.
 
-She had felt him go along. She would have known that step anywhere now, quick and then dragging, like a person walking a road with a stone in his boot; and while it went, his voice had told her what the same step had found in himself. There were ten, and none had a side. And among them was a place where nothing moved, which all of them went round.
+She had felt him go along. She would have known that step anywhere now, quick and then dragging, like a person walking a road with a stone in his boot; and while it went, his voice had told her what the same step had found in himself.
 
 She had said the only true thing that she had. In eleven years she had put her hands into more bodies than she could number, the hurt and the whole and the dying, and every one of them had been all current, fast or slow, standing behind a break or running free. She had never met a still thing in a living person. The dying went still all at once, and everywhere. This was neither of those.
 
-She did not ask herself what it was. That belonged to a small pale woman with three boxes, and Oryn had no box. She had told him what a person does with a place in himself that he has found, and to leave off doing it; it was a healer's sentence, and she would have said it to a carter with a scab.
+She did not ask herself what it was. That belonged to a small pale woman with three boxes, and Oryn had no box. She had given him a healer's sentence about it, and she would have said the same to a carter with a scab.
 
 There was a thing that she had said at the marsh's edge, and she looked at that last.
 
@@ -150,17 +148,17 @@ There was no brown mule at the trough. She had known that there would not be, an
 
 There were seven of them under the back room's window in the morning, in the frost, and the first was sitting bolt upright on the bench's end with a stick across her knees.
 
-She was a very small old woman. Oryn had last seen her going away up a valley on a hurdle, between two grandsons, thirteen days before.
+She was a very small old woman. Oryn had mended that knee at a mill, thirteen days before, and had seen its owner go away up a valley on a hurdle between two grandsons. She came over the low place every year before the snow, to her daughter's hearth in this long house; and Oryn had told her, as the hurdle was lifted, that she would see the knee here, after the thaw.
 
-"You were to rest that a fortnight," said Oryn.
+"I said after the thaw," said Oryn.
 
-"I rested it ten days. Then a carter came by my door and told me that you'd gone off your round after a crew, south, onto bad ground. So I thought that if you weren't coming to my doorstep, I'd find out whether the knee would come to you." The old woman rapped it with her knuckles. "It's a day and a half over the low place. I did it in two. I'd one of the boys with me to carry the bread."
+"You said it to a woman lying on a hurdle. I never agreed to it." The old woman rapped the knee with her knuckles. "I rested it ten days, as I was bid. Then I came over to my daughter's, as I do, and I came on my own two legs, to find out whether the thing was yours or mine. It's a day and a half. I did it in two. I'd one of the boys with me to carry the bread."
 
 "On a stick."
 
 "I never leaned on it. I brought it to hit him with."
 
-Oryn got down on her heels in the frost, and put both hands round the joint. Her lips went to three. It was all there: the old banks, worn as smooth as a doorstep, and the current going through the place where a ladder had been as though no ladder had ever stood in it.
+Oryn got down on her heels in the frost, and put both hands round the joint. Her lips went to three. It was all there: the old banks, worn as smooth as a doorstep, and the current going through the place where a ladder had been as though no ladder had ever stood in it. She had promised that knee a look after the thaw, and it had walked over a hill to be looked at before the snow.
 
 "It's held," she said.
 
