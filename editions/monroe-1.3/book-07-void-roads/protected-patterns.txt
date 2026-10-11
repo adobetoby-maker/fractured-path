@@ -1,0 +1,2 @@
+# Book 7 protected patterns (regex lines; apostrophes as .?) — BOOK_MAP §10 units and packet lines kept whole
+# Patterns are added by the coordinator after each movement, verified against BOOK_MAP §10 and the packet.

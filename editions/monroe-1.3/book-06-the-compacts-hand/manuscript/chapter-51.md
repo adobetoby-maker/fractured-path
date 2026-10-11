@@ -22,7 +22,7 @@ He had not read it yet himself; he had only heard it, and he had always known th
 
 The second of the two returns he had by heart. He had read it once before, upside down, on a desk at Norhold, in perhaps three seconds, and had written it that night at the head of a sheet of his own, which lay in his kit at the inn, the fifth of six. He watched the copyist make the words, and they were the same words, and he felt nothing about them that he had not felt already.
 
-The first he had never seen. He had carried the file it answered; he had laid that file at her elbow in a hall on a bluff, square to the edge, and gone back to the foot of the table. A return had gone into it then, and he had not read it, because a records officer did not read what was addressed to the senior seat.
+The first he had never seen. He had carried the file it answered; he had laid that file at her elbow in a hall on a bluff, and gone back to the foot of the table. A return had gone into it then, and he had not read it, because a records officer did not read what was addressed to the senior seat.
 
 *Determination: no originating authority of record.*
 
@@ -58,7 +58,7 @@ He compared the copy, line by line, with a dry pen, and it agreed. He wrote *com
 
 He pinned it in the porch himself.
 
-The exchange's porch had a board for the seat's public record, behind a brass grille that opened with the junior chair's key. He put the sheet up with four pins, and squared it by the grille's bars, and locked it.
+The exchange's porch had a board for the seat's public record, behind a brass grille that opened with the junior chair's key. He put the sheet up with four pins, and locked the grille.
 
 There was nobody on the steps. A boy came across from the trough, one of the lads the correspondents paid to watch the board, and read the heading with his lips moving: *Return of the evaluation seat.* He looked for a ruling under it and did not find one, and went back to the trough.
 
@@ -68,13 +68,13 @@ He had thought, when he was younger, that if it were ever said aloud something w
 
 He went back in to the records table and entered the posting against the hour.
 
-The senior evaluator was still in the long room, which he had not expected. She sat in the middle chair below the covered platform with her file shut on her knee, quite alone, looking at nothing, like any woman at the end of a day's work. As he came down the side of the benches her right hand went to the breast of her coat and rested there flat for a moment, over the cloth, and came away.
+The senior evaluator was still in the long room, which he had not expected. She sat in the middle chair below the covered platform with her file shut on her knee, quite alone, looking at nothing, like any woman at the end of a day's work. As he came down the side of the benches her right hand went to the breast of her coat and rested there, over the cloth, and came away.
 
 He knew what was under it. He had seen her fold it twice, on a desk at Norhold, a sheet that was not office stock, and put it where she had never carried anything that was the Compact's; and he had gone back to an inn that night and written his fifth. There were two of them in one town again, each with paper the office had not asked for. He had thought so once before and had taken a kind of cold comfort in it.
 
 But it was not the same now, and he made himself see why. She had not taken out the sheet in her coat, which was hers and would stay hers. She had taken out the returns, which were the registry's, and stood up in the registry's own room, and read them into the registry's own minute at a pace a clerk could follow. She had found the one door her clearance left open and had gone through it in the plainest way there was.
 
-He had kept sheets. He did not think less of them for that, since a man did what his chair allowed. But he sat down at the records table and squared the receipt book, and he knew, as he knew when a count had come out, that they were finished.
+He had kept sheets. He did not think less of them for that, since a man did what his chair allowed. But he sat down at the records table and drew the receipt book toward him, and he knew, as he knew when a count had come out, that they were finished.
 
 ---
 
@@ -86,7 +86,7 @@ He read them through, slowly, as an officer reads anything he means to rely on. 
 
 He did not take a clean sheet. He looked at the place where the clean sheets lay, and thought about what a seventh would say. It would say that on the fourth call day the senior seat read two returns into the minute; and that was in the minute, and pinned up in a porch. The six held what the registers could not answer, or would not, and this the registers had answered themselves, aloud. A thing that stood in the public record did not want a private sheet.
 
-He tied the six with a length of the red tape he used for receipts, once round and once across, and made the knot flat.
+He tied the six with a length of the red tape he used for receipts, once round and once across, and knotted it.
 
 Six entries. Done.
 
@@ -102,7 +102,7 @@ It was a form. He had drawn it from the district seat's stationery press some we
 
 *Present duty.* He wrote it as his order had it: *Records, junior chair, institutional proceedings at Ostrand; the seat's Fifth-days, until relieved.*
 
-*Relief sought upon.* He considered that for some time, and wrote *The conclusion of the proceedings by ruling.* It was tomorrow, and a man might fairly ask to be relieved of a duty on the day the duty ended.
+*Relief sought upon.* He considered that, and wrote *The conclusion of the proceedings by ruling.* It was tomorrow, and a man might fairly ask to be relieved of a duty on the day the duty ended.
 
 *Posting sought.* The district seat's records room was a man short. He had seen it for himself when he went there with a rubbing of a seal: an impression book four months behind, and a ledger of dies that nobody had balanced against the cutters' copies since the last officer left. He wrote *District records, Ostrand, or any records room that is short.* He did not write *out of monitoring*, for the form had no line for what a man wished to leave.
 
@@ -118,7 +118,7 @@ None of that was grounds. He had never kept a sheet for what he felt, and a form
 
 It was true, every word. He read it over once and signed it and dated it for the morning, and laid it on top of the kit, where he would see it when he woke, to hand in at the district seat on his way to the exchange.
 
-The bridge-ward had lit his lantern. Havel sat at the window with his aching hand open on his knee and watched it, and thought, a little, about the young man at the far table, who had sat up straight for a year. He did not know what a ruling would do to him. He had never known what any of it would do; that had not been his to know. He found, sitting there, that he hoped the registers would be kind to him. He knew of no register that entered kindness, and he hoped it all the same.
+The bridge-ward had lit his lantern. Havel sat at the window with his aching hand open on his knee and watched it, and thought, a little, about the young man at the far table, who had sat up straight for a year. He did not know what a ruling would do to him. He had never known what any of it would do; that had not been his to know. He hoped, sitting there, that the registers would be kind to him. He knew of no register that entered kindness, and he hoped it all the same.
 
 Then the lantern went out, and he went to bed.
 
@@ -184,7 +184,7 @@ Two minutes and forty seconds.
 
 "So ruled," said the clerk, and wrote, and at the records table the junior chair wrote the time.
 
-Cael had thought, for a year, that when it came he would feel the floor go, and he had braced for that as he braced for a landing. He sat with his hands flat on the house's table and waited for it, and the lot number stayed under his boot, and the boards stayed where they were.
+Cael had thought, for a year, that when it came he would feel the floor go, and he had braced for that as he braced for a landing. He sat with his hands on the house's table and waited for it, and the lot number stayed under his boot, and the boards stayed where they were.
 
 Lawful. Compliant. Revoked.
 
@@ -242,7 +242,7 @@ He read it over, and dusted his fingers, and went behind his counter, where the 
 
 Seln was at the counter's far end. He had come down in the coach's corner without a word, and he stood now under the counter lamp with the enrollee's copy of the ruling laid in front of him on the wood. It was the seat's own engrossment, on registry stock, with the wax of the river and the scale at its foot; Cael had carried it up the hill in the satchel and had not been able to think what to do with it.
 
-Seln did not read it, for he had heard it read. He held it up to the lamp by two corners and looked through it, for some time. Then he laid it flat and took Bracken's boxwood rule from its nail, and measured something at the sheet's edge, and measured it again from the other side. He turned the leaf over and ran his thumbnail very lightly round the rim of the seal, as Bracken had once done under an arch, and bent close to the last line to look at the hand.
+Seln did not read it, for he had heard it read. He held it up to the lamp by two corners and looked through it. Then he laid it down and took Bracken's boxwood rule from its nail, and measured something at the sheet's edge, and measured it again from the other side. He turned the leaf over and ran his thumbnail very lightly round the rim of the seal, as Bracken had once done under an arch, and bent close to the last line to look at the hand.
 
 "Well?" said Cael.
 

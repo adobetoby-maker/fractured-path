@@ -20,11 +20,9 @@ The instructor was a spare grey woman with chalk on both cuffs, who had sat on d
 
 Chalk went on the board, and he watched Lira's shoulder, and it moved. She had her carter's book open on the desk's slope, the stitched one in oilcloth, with the pencil out of its spine, and she was writing.
 
-She wrote quickly and without looking up. The instructor went on, about a fighter who chose her foot late and a table that would read the choosing as a fault, and how many exchanges it took a good panel to learn otherwise, and Lira turned a leaf. She asked one question, which he could not hear, and was answered at some length, and wrote the answer down as well.
+She wrote quickly. The instructor went on, about a fighter who chose her foot late and a table that would read the choosing as a fault, and how many exchanges it took a good panel to learn otherwise, and Lira turned a leaf. She asked one question, which he could not hear, and was answered at some length, and wrote the answer down as well.
 
 There was a clock at the passage's end, and he counted by it: five minutes, and then ten.
-
-It came to him, on the bench, what she was doing. She was not sitting out a class for the look of it. She would never stand before a district's panel again, and she knew it better than anybody; but there was a road to the east with nobody's table on it, and somebody would have to be the east side for her out there, and she was taking down how it was done.
 
 The clock's hand came up to the quarter and went by, and Lira shut the book.
 
@@ -186,7 +184,7 @@ Brom came through the arch with the first box.
 
 He carried it in both arms, against his chest, as the deal was built to be carried, and he walked as he walked to a frame. He had come from the north end of the records hall, down the covered walk and across fifty feet of flags, and he went by the grey cob without a glance.
 
-The stableman had come out of the passage to look at the gelding's feet. He was the head groom, who had driven the house's own escort down with eleven pounds of answer, and he straightened when he saw the box.
+The stableman had come out of the passage to look at the gelding's feet, and he straightened when he saw the box.
 
 "There's a barrow in the passage," he said. "And a boy doing nothing. Let him fetch the other two."
 
@@ -194,7 +192,7 @@ The stableman had come out of the passage to look at the gelding's feet. He was 
 
 The stableman looked at him, and then at Karis, who stood by the tailboard with a canvas over her arm and her pale fingers gripped in it. He nodded, and went back to the white foot.
 
-Brom set the box down in the cart's bed, forward, against the board, with its paper tag uppermost, which said *one* in Bracken's hand. Karis put out her hand and laid it flat on the lid, on the knot, and took it away again. He went back for the second.
+Brom set the box down in the cart's bed, forward, against the board, with its paper tag uppermost, which said *one* in Bracken's hand. Karis put out her hand and laid it on the lid, on the knot, and took it away again. He went back for the second.
 
 The porter met him in the court. Cael saw it from the arch: the man with his pail, stepping into Brom's road and pointing at his own two arms.
 
@@ -238,7 +236,7 @@ They went by the grey cob together.
 
 He did not say it roughly. He said it as he would have said the hour, and went on, and the officer looked after him and then at his own hands, and put them down.
 
-The third box went into the cart. Brom stood back from the tailboard and looked at them, three in a row, each with its tag, each roped twice round and once over with the flat knot uppermost. He counted them, and then he counted them again, though the first count had been right.
+The third box went into the cart. Brom stood back from the tailboard and looked at them, three in a row, each with its tag, each roped twice round and once over with the knot uppermost. He counted them, and then he counted them again, though the first count had been right.
 
 "Three boxes," he said to Karis.
 
@@ -262,19 +260,19 @@ He had his book on its trestle under the arch, and he had turned to a new leaf a
 
 They wrote, the four of them, one under another, and he blew on the ink. When Cael looked up from the book, Withrow was standing in the arch.
 
-She had come down from her own range on her own feet. He had known her come to that gate once before, for four riders, when she had stood where she stood now, in the twelve feet of shadow under the gatehouse, and had an instrument read aloud. She had nothing in her hands today.
+She had come down from her own range on her own feet. She had come to that gate once before, for four riders, and had an instrument read aloud. She had nothing in her hands today.
 
 She looked at the cart, and the canvas, and the shapes under it, and then at each of them in turn, without haste: at Brom with his pack on, and Karis with none of her keys, and Lira at a horse's head. Her eyes came last to Cael, and to the arm he was holding above his heart because a healer had told him to.
 
-He had thought about what she might say. She had forbidden him to thank her, and she did not make farewells, and she had told him in her office that the record would say he left, and what she meant to do about that.
+She had forbidden him to thank her, and she did not make farewells.
 
 "Your files are in order," said Withrow. "All four."
 
 It was her registry voice, level and exact. She might have been giving a result across a counter to a girl with an address inked on the back of her hand.
 
-It was also everything she had, and he understood that, standing in the road. She had been twenty years in the registry and a good many more in that chair, and she had spent all of them learning that a file in order was the one thing an officer could truly give a person; a clerk could not make a paper kind, and could only make it right. She had looked at four of them, and she was telling them that every line was so.
+It was also everything she had. She had been twenty years in the registry and a good many more in that chair, and she had spent all of them learning that a file in order was the one thing an officer could truly give a person; a clerk could not make a paper kind, and could only make it right.
 
-*All four.* She had counted. She had told him she would not ask how many, and she had not asked, and she had counted all the same, what was hers to count. There was a fifth, and she had left him out of it without so much as a glance toward the wing.
+*All four.* She had told him she would not ask how many, and she had not asked; she had counted what was hers to count. There was a fifth, and she had left him out of it without so much as a glance toward the wing.
 
 "Chancellor," said Cael.
 
@@ -288,13 +286,13 @@ He had his board under his arm. He had come from the east hall, by the smell of 
 
 Cael raised it.
 
-Rooke looked at Lira, and she looked back, and neither of them said anything at all, since it had been said at dawn, over a book. Then he looked at Brom, who was at the tailboard with the last of the rope in his hands. Brom had stood in a district's frame two days ago and felt a plate come up warm, and had left the paper for it under a film of dust; and Rooke knew that, for he had heard everything on the hill by the second bell of any morning, and had once had a meet record kept under a hall's seal for a fighter because paper could not be rubbed off.
+Rooke looked at Lira, and she looked back, and neither of them said anything at all, since it had been said at dawn, over a book. Then he looked at Brom, who was at the tailboard with the last of the rope in his hands. Brom had stood in a district's frame two days ago and felt a plate come up warm, and had left the paper for it under a film of dust; and Rooke had heard everything on the hill by the second bell of any morning.
 
 "Doors open both ways," said Rooke.
 
 Brom's hands stopped on the rope.
 
-He did not ask what it meant, and Cael, watching him, thought that he did not need to. A man had told him at a counter that morning that he ought to hear the hinge before he shut a door, and here was another, a coach, telling him in four words that a hinge worked in both directions. Rooke had looked at a large fighter roping somebody else's boxes, and he had priced it, as he priced everything.
+He did not ask what it meant. A man had told him at a counter that morning that he ought to hear the hinge before he shut a door, and here was a coach telling him in four words that a hinge worked in both directions.
 
 "I'll remember it," said Brom.
 
@@ -314,7 +312,7 @@ At the fourth turn Cael looked back for her. The house stood up against the last
 
 There was a lamp in it. It had been lit early, and it was turned up as high as it would go. He did not say so to Karis, for he thought she knew.
 
-At the road's foot the coats had their two lanterns out, though it was not yet dark. There were two men by the milestone, senior, in travelling grey, with a tin cup on the wall between them. They had stood at that road since before the year opened, and all that time they had been waiting for one thing, which was a word to change in a column. It had changed at a quarter past the first bell.
+At the road's foot the coats had their two lanterns out, though it was not yet dark. There were two men by the milestone, senior, in travelling grey, with a tin cup on the wall between them. They had been waiting since before the year opened for a word to change in a column, and it had changed at a quarter past the first bell.
 
 The cart came down onto the level and went by them at a walk, and neither man moved. The elder had a walking stick he did not need, and he looked at the horse, and the canvas, and the three shapes under it, and at four people on foot, and at Cael last and longest. There was no ill will in it; he had the face of a man reading the last line of a long ledger. Then he took a book from his coat and a pencil from the book, and wrote.
 
@@ -332,9 +330,9 @@ The ferry was waiting, with its lantern lit. The ferryman looked at the cart and
 
 The woman who kept the guesting-house asked no questions. She had come up the bluff with a basket the day before, and she had seen what there was to see; she gave them the parlour with the two-paned door, and they put the cart in her yard, under the pentice, beside the old screw press.
 
-He wrote the day's line there, sitting on the press's platen with the book on his knee, where Brom had stood under that beam some days ago and held what it let down on him.
+He wrote the day's line there, sitting on the press's platen with the book on his knee.
 
-He had meant to write a good deal. There had been a clock, and a margin, and a key going into a pigeonhole, and a man walking beside a box with nothing in his hand. He looked at the clean leaf, and found that the day had already been written, four times over, by a registrar, and that it wanted very little from him.
+He had meant to write a good deal. There had been a clock, and a margin, and a key going into a pigeonhole, and a man walking beside a box with nothing in his hand. He looked at the clean leaf. The day had already been written, four times over, by a registrar, and it wanted very little from him.
 
 *Seventh-day. Four leaves at Bracken's counter, in the order we came: Lira, Brom, me, Karis. Entered and blotted. Nothing left on the hill with our names on it but what's true.*
 

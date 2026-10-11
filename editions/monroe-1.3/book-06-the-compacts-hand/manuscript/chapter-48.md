@@ -4,7 +4,7 @@ The long room was full, and he counted it.
 
 It was the only use he could find for the quarter hour before the seat came in. The coach had gone down the bluff road at the usual pace behind Withrow's carriage, and the two coats at the road's foot had looked at it as they looked at it every Fifth-day, and the young officer at the side door had written the same two lines in his log. But the exchange's four steps had been crowded to the plinth this morning, and the benches behind Cael were filling with a noise he had not heard in that room since the preliminary. A closing, the house's counsel had said, was the one day besides the first when a proceeding sold.
 
-So he sat with lot seventeen under his left boot and his hands flat on the house's table, and counted the people, as he had once counted the words in an instrument.
+So he sat with lot seventeen under his left boot and his hands on the house's table, and counted the people, as he had once counted the words in an instrument.
 
 He took the benches first. There were forty of them, and for eleven sittings he had been able to count the heads on them at a glance. Today he had to go bench by bench, turning a little in his chair, and Bracken, beside him, watched him do it and said nothing, having very probably done it himself on the way in. Twenty-three had folding boards on their knees. There was a whole bench of district clerks in their grey, who had come because it was their seat and their Fifth-day. There were wool-factors, who owned the room and seemed to feel that it had been borrowed for long enough. An instructor in a blue-grey coat sat near the back with her arms folded, and he thought she was the lake house's. On the fourth bench sat Lira, Brom, Gault and the assistant with her inky collar, and at its far end, by the pillar, where a man could see the whole platform and both tables without turning his head, Seln sat with his coat buttoned.
 
@@ -56,9 +56,9 @@ He inclined his head an inch toward Karis, and she inclined hers the same inch b
 
 "It may," said Jent. "The seat held at the preliminary that the question was cognizable. Nothing the respondent has filed since has touched that holding, and nothing was meant to; her filings have been upon the facts, and the facts were hers before she filed. So I have nothing to answer. I have used ten minutes because the seat was generous with the hour, and I did not like to seem ungrateful."
 
-He sat down, and screwed the lid of his inkwell a quarter turn tighter, though it had not been open.
+He sat down, and screwed the lid of his inkwell a little tighter, though it had not been open.
 
-Cael had sent the read after that man five times in the year and found nobody in the coat. He did not send it now, and he found that he no longer wanted to. He had spent months wishing Jent would turn out to be the arm, because an arm could be found out. But Jent was a hand, and a clean one. He had said exactly what he was asking for, in four sentences, before two hundred people, and every one of the four was true.
+Cael had sent the read after that man five times in the year and found nobody in the coat. He did not send it now, and he no longer wanted to. He had spent months wishing Jent would turn out to be the arm, because an arm could be found out. But Jent was a hand, and a clean one. He had said exactly what he was asking for, in four sentences, before two hundred people, and every one of the four was true.
 
 That was the edge on him. Cael saw it plainly for the first time, sitting behind Withrow's chair. A liar would have had to keep his story straight for fourteen sittings, and somewhere in a hundred and seventy-nine exhibits Karis would have caught him. An honest man had only to stand up and ask.
 
@@ -76,7 +76,7 @@ She was a very small woman, and the room had gone quiet for her as it always did
 
 She sat.
 
-Cael did not look at Karis, but he felt her beside him as he would have felt a lamp. She had her two hands laid flat on a shut wallet, pale fingers and all, and she had not written a word since the clerk spoke. She had thirty slips in that wallet. She had written every one of them out in full without knowing whether anybody would let her stand up.
+Cael did not look at Karis, but he felt her beside him as he would have felt a lamp. She had her two hands laid on a shut wallet, pale fingers and all, and she had not written a word since the clerk spoke. She had thirty slips in that wallet. She had written every one of them out in full without knowing whether anybody would let her stand up.
 
 Under the hood there was the small stillness that came before it spoke.
 
@@ -126,7 +126,7 @@ It was shorter. Cael could not have said how, from the rim; the heel went down, 
 
 Cael looked down at him.
 
-He found that he was not afraid of it. A month ago he would have been. He had stood at a rail in wing three and watched Ephram write on the back of a sheet, and had gone cold, because for two years the worst thing anybody on the hill could do to him was to ask. Now there was a date he could count to, and after it there would be either no band or a door, and in neither case anything left to guard from a friend.
+He was not afraid of it. A month ago he would have been. He had stood at a rail in wing three and watched Ephram write on the back of a sheet, and had gone cold, because for two years the worst thing anybody on the hill could do to him was to ask. Now there was a date he could count to, and after it there would be either no band or a door, and in neither case anything left to guard from a friend.
 
 "After the last Fifth-day," he said.
 
@@ -184,7 +184,7 @@ He looked at the clock, and added two.
 
 "Those five are nine minutes. I'm putting some of it back, further on. There's a place where I go too fast because I'm frightened of it."
 
-She did not say which place, and nobody asked. Cael thought of the nineteenth slip, and of the breath she had taken before the twentieth.
+She did not say which place. Cael thought of the nineteenth slip, and of the breath she had taken before the twentieth.
 
 Brom had come out from under the blanket with his hair on end. He folded it in four, squarely, as he folded everything, and laid it over the back of Rooke's chair.
 

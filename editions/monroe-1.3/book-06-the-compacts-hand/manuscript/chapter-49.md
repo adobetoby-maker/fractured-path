@@ -174,7 +174,7 @@ Nobody made a sound. Ephram had told his cohort that a seat fined for cheering, 
 
 "The petitioner," said the hood. "If he is so advised."
 
-Jent stood. He took off his spectacles, and let them fall on their cord, and stood for a moment with his hands at his sides.
+Jent stood. He took off his spectacles, and let them fall on their cord, and stood with his hands at his sides.
 
 "The registry does not dispute a syllable of it," he said.
 
@@ -184,7 +184,7 @@ He said it to the platform, and then he turned and said the rest to her.
 
 He sat down.
 
-It was the best that could have been said, and it was the worst, for he had not left her so much as a quarrel to go home with. Cael looked at the side of Karis's face, and it was perfectly composed, and her hands lay flat on the shut wallet.
+It was the best that could have been said, and it was the worst, for he had not left her so much as a quarrel to go home with. Cael looked at the side of Karis's face, and it was perfectly composed, and her hands lay on the shut wallet.
 
 "The seat has heard the parties," said the hood. "Before it reserves, the clerk will read the standing entries."
 
@@ -206,13 +206,13 @@ It was a small thing to see, and he did not think the benches saw it. The four d
 
 The evaluator nearest the records table looked at Ilsev. Ilsev did not look at him. She was looking at the clerk, with her file shut on her knee, and her face told Cael nothing whatever.
 
-On the fourth bench Gault had not moved. He was the evaluator of record, the only man in that room who was called so every day, and he had declined nothing in his life. The refusal was the Archmarshal's; the form's old column had only Gault's title to put it under. He sat with his case straight on his knees and his eyes on the pasted form, and then he took out his small book and wrote a line in it.
+On the fourth bench Gault had not moved. He was the evaluator of record, the only man in that room who was called so every day, and he had declined nothing in his life. The refusal was the Archmarshal's; the form's old column had only Gault's title to put it under. Gault sat with his case straight on his knees and his eyes on the pasted form, and then he took out his small book and wrote a line in it.
 
 "So entered," said the hood, and the pens began again.
 
-That was the whole of it. Five words had gone out from a desk by a noon dispatch, after a man had weighed them for four days on a post road and found them worth sending though they would stop nothing. They had stopped nothing. They were in the minute as an absence, between the count of the exhibits and the count of the orders, and the clerk was already reading the next line.
+Five words had gone out from a desk by a noon dispatch, after a man had weighed them for four days on a post road and found them worth sending though they would stop nothing. They had stopped nothing. They were in the minute as an absence, between the count of the exhibits and the count of the orders, and the clerk was already reading the next line.
 
-Cael found that it was enough, and it surprised him. He had wanted a wall, a month ago, and had been given a blank on a form. But he had watched Gault hand up a leaf because it was there, and he had heard Karis spend fifty-one minutes on a room that could not be moved, and he thought he was beginning to learn how the honest ones did it. They did not do it to win. They did the thing that was theirs to do, to its full weight, and let it be entered.
+It was enough, and that surprised him. He had wanted a wall, a month ago, and had been given a blank on a form. But he had watched Gault hand up a leaf because it was there, and he had heard Karis spend fifty-one minutes on a room that could not be moved, and he thought he was beginning to learn how the honest ones did it. They did not do it to win. They did the thing that was theirs to do, to its full weight, and let it be entered.
 
 "The seat reserves," said the hood. "It will give its ruling upon the last Fifth-day of the academic year, at the hour after noon. From the First-day of that week the parties will keep within the bell, at the seat's call and the evaluation seat's. So ordered."
 
@@ -234,7 +234,7 @@ The crowd was coming out past them on both sides, quietly, like people leaving a
 
 In the coach Brom unbuttoned his right-hand pocket and held out an apple, and Karis took it and ate it in about nine bites, core and all but the stalk, and then he held out the second and she ate that. Then she said, to nobody, "I left out the tournament charter's provisions. I meant to. I had a note for the cold term," and she put her head against the leather beside the window and was asleep before the bridge.
 
-She did not cry, though he had wondered whether she would. She slept with her mouth a little open and the wallet sliding off her knees, and Brom put out one hand and held it there, flat, all the way up the switchbacks.
+She did not cry, though he had wondered whether she would. She slept with her mouth a little open and the wallet sliding off her knees, and Brom put out one hand and held it there all the way up the switchbacks.
 
 Lira sat opposite, looking at her.
 
@@ -248,9 +248,7 @@ He thought about it while the coach climbed. He had asked himself the same quest
 
 "It wasn't for the seat," he said. "I thought it was, all year. It's in the minute now. Every word she said is there under her own name, in the registry's own presses, for as long as there's a registry, and somebody will read it. Some girl in a reading room with ink on her collar, looking for something else." He watched Karis's pale fingers, open on her knee. "And it was for her. She wanted to do the thing properly, once, with everybody looking. She's done it."
 
-Lira said nothing for a while.
-
-"I'd have cried," she said at last. "I nearly did, and I wasn't even the one saying it."
+"I'd have cried," said Lira at last. "I nearly did, and I wasn't even the one saying it."
 
 "I know. I saw you sit on your hands."
 

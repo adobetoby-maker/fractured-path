@@ -24,7 +24,7 @@ Six people knew what the Archmarshal would write on that leaf. Four of them had 
 
 *That's a decision too. I'm entering it as one. Not deciding, every day, on purpose, by all five of us, with a date on it.*
 
-He had looked at *five* for a while after he wrote it, and then he had let it stand. Seln had counted five beans on a gardener's table and called it arithmetic, and Cael did not think there was a better word for it yet.
+He had let *five* stand. Seln had counted five beans on a gardener's table and called it arithmetic, and Cael did not think there was a better word for it yet.
 
 ---
 
@@ -42,9 +42,9 @@ Cael was let in to fetch things, which was how he was useful on such nights. He 
 
 "Then your closing goes in as a written submission, every word, under your name, and I read out as much of it as the hood will sit through." She said it quite gently. "It will be in the minute either way. I can't promise you the room."
 
-Karis nodded, and did not look up from the sheet.
+Karis nodded, with her eyes on the sheet.
 
-Cael, holding the index, watched her not look up. She had written eleven slips out in full as though a seat could be moved by them. She was going to write nineteen more, in the weeks that were left, not knowing whether anybody would let her stand up and say them. He had told her in this room that it was not ground, and she had said that she would pay the cost. He had not understood until now that the cost came due every night.
+Cael, holding the index, watched her. She had written eleven slips out in full as though a seat could be moved by them. She was going to write nineteen more, in the weeks that were left, not knowing whether anybody would let her stand up and say them. He had told her in this room that it was not ground, and she had said that she would pay the cost. He had not understood until now that the cost came due every night.
 
 "The note," said the counsel. "Your girl's. Is it lodged?"
 
@@ -94,7 +94,7 @@ That was all it said about it; it did not say yes, or no, or when in the close. 
 
 The seat rose.
 
-Cael stood with the rest, behind Withrow's chair, and watched the line of her grey collar go down to the registry's depth and come up, and he found that he was counting again, not benches this time. Days. The clerk had not said a number. He did not need one; Bracken had turned the calendar card over on his palm in the coach that morning, and Cael had read it upside down.
+Cael stood with the rest, behind Withrow's chair, and watched the line of her grey collar go down to the registry's depth and come up, and he was counting again, not benches this time. Days. The clerk had not said a number. He did not need one; Bracken had turned the calendar card over on his palm in the coach that morning, and Cael had read it upside down.
 
 Five weeks to the last Fifth-day. Two sittings, and then a hood reading from a single leaf.
 
@@ -126,7 +126,7 @@ It was a plain room, like all the rooms on that corridor, with a bed and a press
 
 Brom was standing at the table with his coat off and laid over the chair, and he was emptying its left inside pocket.
 
-He did it slowly, a thing at a time, as he did everything. The summons, soft at the folds. The first docket. The district's confirmation, with *anticipated* on it in a clerk's round hand. The schedule of evidence. He unfolded each of them and flattened it under his palm and laid it on the one before, until there was a small squared stack at the table's left-hand corner, and then he set the whetstone in its sock on top to hold them.
+He did it slowly, a thing at a time, as he did everything. The summons, soft at the folds. The first docket. The district's confirmation, with *anticipated* on it in a clerk's round hand. The schedule of evidence. He unfolded each of them and smoothed it under his palm and laid it on the one before, until there was a small stack at the table's left-hand corner, and then he set the whetstone in its sock on top to hold them.
 
 Then he took out the envelope.
 
@@ -138,7 +138,7 @@ He took his hands away.
 
 "Four weeks," he said. "To the day. I worked it out on the box, coming down, last Fifth-day, after the hood said it." He did not look round. "I thought I'd like to stop carrying it."
 
-Cael stood in the doorway and did not say anything.
+Cael stood in the doorway.
 
 He had never asked. None of them had. It had been agreed in the recess before the year opened, in about as many words as it takes to pass the salt, that what came to Brom from Velmere was Brom's, and that nobody would ask what it offered or what he meant to answer. He had seen Brom's face, once, on the evening the first of this year's letters was opened, and had gone on not asking. He had watched that hand go to that pocket a dozen times a day through a road and a cache and a recess. He did not know one word of what was in either envelope.
 
@@ -155,8 +155,6 @@ He did not say what he would be answering, but got up, and went to the press, an
 Cael gave him the satchel, and sat on the end of the bed and watched Brom measure the old strap against the new with his thumb, and cut it, and set the buckle, Hesk's buckle, with the bevel, onto the fresh leather with two rivets and the flat of the whetstone.
 
 On the table under the window the envelope lay square to the edge, with its red seal up, in the last of the afternoon's light.
-
-Neither of them looked at it again, and both of them knew exactly where it was.
 
 ---
 
@@ -194,7 +192,7 @@ He knew the knot. He had held the cord for it, sitting on a cold floor.
 
 He stood and looked at them.
 
-There was no name on any of them, only a paper tag on each, tied to the cord, with a number in Bracken's hand: a one, a two and a three. He did not touch the tags, and he did not need to lift a box to know its weight. He thought he could have said, to within a dozen leaves, what was in each. The Greyvane notebooks. The year's papers from Norhold, in their two tied bundles with the contents leaves. Her own fair copies of the year's filings, the ones that were hers and not the house's. All of it wrapped in oilcloth inside the deal, each bundle with its own leaf on top under the first fold, so that it could be found by counting in the dark.
+There was no name on any of them, only a paper tag on each, tied to the cord, with a number in Bracken's hand: a one, a two and a three. He did not touch the tags, and he did not need to lift a box to know its weight. He thought he could have said, to within a dozen leaves, what was in each. The Greyvane notebooks. The year's papers from Norhold, in their two tied bundles with the contents leaves. Her own fair copies of the year's filings, the ones that were hers and not the house's.
 
 Three. He counted them twice, which was once more than three boxes needed.
 
@@ -206,9 +204,7 @@ Bracken was at his daybook. Beside it on the counter lay another book, a narrow 
 
 Bracken's eyes came up from the daybook, over the second glass, and met his.
 
-Neither of them said anything.
-
-It lasted perhaps as long as it takes to read a line. Bracken had written *or to her order* in his own hand, as he had lent an old enrollment book for a citation and not asked what for. He had read every leaf the house had filed all year, and counted the sittings, and seen the last Fifth-day coming since the year's first week. He was a registrar of thirteen years' standing, and there was nothing whatever in his face.
+It lasted perhaps as long as it takes to read a line. Bracken had written *or to her order* in his own hand, as he had lent an old enrollment book for a citation and not asked what for. He was a registrar of thirteen years' standing, and there was nothing whatever in his face.
 
 "The third volume," he said. "You'll want it back by the second bell tomorrow. I ask when, not why."
 
@@ -220,9 +216,9 @@ He wrote it in the daybook, and drew the marbled book toward him with one finger
 
 Cael went out into the covered walk with the code under his arm.
 
-Nobody mentioned the boxes at the noon meal. Karis sat with a volume open beside her bowl and read it while she ate. Lira, across from her, described at length a thing Rooke had said to the Force about his knees. Brom ate for three, and Seln was at the staff table with the desk clerk, turning his cup. Cael looked at each of them in turn, and each of them, he was quite sure, knew what stood on the deposit shelf at the north end of the records hall, and how many, and whose knots. Not one of them said so.
+Nobody mentioned the boxes at the noon meal. Karis sat with a volume open beside her bowl and read it while she ate. Lira, across from her, described at length a thing Rooke had said to the Force about his knees. Brom ate for three, and Seln was at the staff table with the desk clerk, turning his cup. Each of them, Cael was quite sure, knew what stood on the deposit shelf at the north end of the records hall, and how many, and whose knots.
 
-He did not say so either. He passed Karis the bread.
+He passed Karis the bread.
 
 ---
 
@@ -232,7 +228,7 @@ The window was open a hand's breadth, and the air that came in was milder than i
 
 At the foot of the bluff road, small and yellow, the coats had their two lanterns lit.
 
-He thought about them for a while, the four men down there, senior, patient, changed on the bell. They had stood at that road since before the year opened, and they had been waiting all that time for one thing, a change in a column. A status. The riders had come, and the road, and after that nothing; and they had gone on standing there through a recess and eleven sittings with their tin cup, because the thing they were waiting for was being brought to them, a Fifth-day at a time, by the people they were watching.
+He thought about the four men down there, senior, patient, changed on the bell. They had stood at that road since before the year opened, and they had been waiting all that time for one thing, a change in a column. A status. The riders had come, and the road, and after that nothing; and they had gone on standing there through a recess and eleven sittings with their tin cup, because the thing they were waiting for was being brought to them, a Fifth-day at a time, by the people they were watching.
 
 He had helped to bring it. He had sat up straight in a coach eleven times.
 
@@ -240,7 +236,7 @@ He did not think that had been wrong. If he had gone east in the week of the cas
 
 It had cost what it cost: thirty slips for a room Karis might not be let speak in, a thousand landings on one foot, a letter on a table that could not be opened, a bundle as thick as a man's hand, ink to the knuckle.
 
-None of them had said they were leaving. He did not think any of them had decided it, in so many words, even alone. It was only that there were now three boxes on a shelf, and two under a bed, and a carter's book in a coat, and a new strap on a satchel, and five beans in a gardener's jar.
+None of them had said they were leaving. There were now three boxes on a shelf, and two under a bed, and a carter's book in a coat, and a new strap on a satchel, and five beans in a gardener's jar.
 
 He opened Hesk's book and wrote.
 
@@ -254,7 +250,7 @@ He opened Hesk's book and wrote.
 
 *In the records hall*
 
-He stopped, and looked at the three words for some time.
+He stopped.
 
 Then he drew one straight line through them, so that they could still be read, and wrote beside them in the margin, small.
 
@@ -262,7 +258,7 @@ Then he drew one straight line through them, so that they could still be read, a
 
 He blotted the page, and Hesk's clock, on the shelf behind him, said a quarter to the tenth bell, and was wrong by its usual amount.
 
-There was one more line to write, and he had known what it was since the hood rose. He wrote it in the log voice, flat, as he would have written a floor and a figure.
+There was one more line to write, and he had known what it was since the hood rose. He wrote it in the log voice, as he would have written a floor and a figure.
 
 *Next: Ostrand. Two sittings and a ruling.*
 

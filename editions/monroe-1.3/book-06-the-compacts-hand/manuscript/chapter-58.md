@@ -76,7 +76,7 @@ He laid his left hand on the blotter. It did not like mornings. Below the window
 
 *Pending jurisdiction.* So they had gone where no district ran.
 
-He found that he was glad of it. It was not a thing to write in a margin, and he noted it only in passing, as he would have noted a reading that came out a hair above tolerance.
+He was glad of it. It was not a thing to write in a margin, and he noted it only in passing, as he would have noted a reading that came out a hair above tolerance.
 
 He took up his pen.
 
@@ -88,7 +88,7 @@ He had forty years' practice in saying what was so, and he had learned in this o
 
 *The house's record is the soundest I have reviewed.* That was true as well, and it would be cited against the next house, to show how little a sound record weighed.
 
-He looked at the ruled margin for a long while. It was empty, and quite clean.
+He looked at the ruled margin. It was empty, and quite clean.
 
 Then he laid the pen down.
 
@@ -104,7 +104,7 @@ His clerk came for the tray at the usual hour. The man had been nine years in th
 
 "Enter it as returned," said the Archmarshal. "That is what has occurred. If the seat wishes to know what the office observes, it will see that the office has not said."
 
-The clerk looked at him a moment longer. Then he squared the leaf with the rest and went down the too-steep stair, and the Archmarshal listened to him go, every step.
+The clerk looked at him a moment longer. Then he put the leaf with the rest and went down the too-steep stair, and the Archmarshal listened to him go, every step.
 
 He drew the next thing toward him. It was a hill station's request for a second frame, and he read it through from its head to its seal, and dipped his pen, and answered it in full.
 
@@ -172,7 +172,7 @@ Nobody answered him.
 
 So there was that line, too, in a ford-keeper's book. Cael thought about it as the gelding picked his way across the stones. He thought about a girl who had come every week to a counter with an address inked on her hand, and about the one true thing a registrar had been able to give her at last: a toll paid, eastbound, in a man's name. It was the last line anybody had ever written about her father, and she had been glad to have it.
 
-There would be a line like it about them at every water from here to the last stamp. *Four, a cart, eastbound.* He found that he did not mind. It was true, and whoever read it would learn only that they had gone.
+There would be a line like it about them at every water from here to the last stamp. *Four, a cart, eastbound.* He did not mind. It was true, and whoever read it would learn only that they had gone.
 
 Lira looked back from the far bank, over the gelding's withers, and kept looking.
 
@@ -204,7 +204,7 @@ The gelding had not offered to.
 
 It was dusk when they came to the eighteenth stone.
 
-Cael had begun to count against the light an hour before, for the gelding was done. He had stopped twice on a rise that was hardly a rise, and stood with his head low and his sides going, and Lira had stood with him and not argued. Brom had his hand flat on the tailboard and was very nearly pushing. Karis had not spoken since the ford; she walked behind the off wheel, where she could see the canvas, and she put each foot down as if she were being marked on it.
+Cael had begun to count against the light an hour before, for the gelding was done. He had stopped twice on a rise that was hardly a rise, and stood with his head low and his sides going, and Lira had stood with him and not argued. Brom had his hand on the tailboard and was very nearly pushing. Karis had not spoken since the ford; she walked behind the off wheel, where she could see the canvas, and she put each foot down as if she were being marked on it.
 
 *Seventeen*, on a stone with moss in its figure. Then came a long stretch between hedges, with the sky going the colour of a pigeon's breast, and then *Eighteen.*
 
@@ -230,7 +230,7 @@ The fire was built.
 
 It was built, and lit, and burning, on a level place under the brake's lee, beside a flat stone, and somebody had laid it small to large. A heap of broken ash stood by it, stacked, with the thick ends one way, and there was a can of water on the stone. There were five places round the fire where the grass had been trodden flat, and Cael looked at those for longer than he looked at anything else.
 
-Nobody said anything. Brom stood with the gelding's reins in his fist and stared at the woodpile, and Karis had her hand on the canvas.
+Brom stood with the gelding's reins in his fist and stared at the woodpile, and Karis had her hand on the canvas.
 
 "The water is that way," said Seln. He nodded south, into the dusk. "There is a stream under the lane. I should like somebody to pace it who is not me."
 
@@ -342,7 +342,7 @@ The cart lurched, and the water came up over the hub and slapped the underside o
 
 The wheel climbed, and the bed came clear. Brom let it down as he let down a bar into its catches, without a sound, and followed it up the far bank with the river running out of his coat.
 
-Karis had the canvas off one corner before the cart had stopped. She put her hand in, flat, along the bottom of the first box, and the second, and the third.
+Karis had the canvas off one corner before the cart had stopped. She put her hand in along the bottom of the first box, and the second, and the third.
 
 "Dry," she said. She said it twice more. Then she sat down on the wet bank with her back against the wheel.
 

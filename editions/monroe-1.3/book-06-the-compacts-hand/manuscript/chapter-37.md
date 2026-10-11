@@ -28,7 +28,7 @@ Seln did not move.
 
 He told the rule: how the four of them had sat at a long table at Halcenvane, before the stair, and written it in a minute in Karis's hand, and numbered it, and signed it. Nothing made to happen. Only inside a fight somebody else begins. The cost on paper first. And after Norhold, a fourth line under the three, initialled by four: never again in the middle of a fight unless what follows has been priced first, at the weight it will come at.
 
-"Because every one of them costs," he said. "The Wind's bill comes to the hip. The push comes out of the right shoulder, four blows a sitting and no more. The read is cheap, and the give is a cup that fills. Karis's spark burns me too, at the fingers, if I spend it past two contacts. The storm's the heaviest thing I own, and when I lay a lane the whole of me goes a beat slow afterward for ten counts, and if I lay three close together the third costs twelve." He said it in the log's voice, flat and exact. "Those are the prices, and they're all in the book. Nothing's free. That was the first thing I learned, on a cot at Ardenmere with the Log on my knee, and it's still true."
+"Because every one of them costs," he said. "The Wind's bill comes to the hip. The push comes out of the right shoulder, four blows a sitting and no more. The read is cheap, and the give is a cup that fills. Karis's spark burns me too, at the fingers, if I spend it past two contacts. The storm's the heaviest thing I own, and when I lay a lane the whole of me goes a beat slow afterward for ten counts, and if I lay three close together the third costs twelve." He said it in the log's voice, each figure exact. "Those are the prices, and they're all in the book. Nothing's free. That was the first thing I learned, on a cot at Ardenmere with the Log on my knee, and it's still true."
 
 He told Daeva, on the stone at Norhold in front of eight thousand people, and the storm that came out of her into him, and the eleven weeks of it settling, and the morning on the second floor when it settled.
 
@@ -38,7 +38,7 @@ He told the woman on the Ostrand road.
 
 He stopped.
 
-He had told it all but one, and he had told it in order, with the prices. He found that his hands were steady. He found, too, that he was tired in a way the ribs had nothing to do with. It was as if he had carried something heavy up four flights and set it down, and only now felt how heavy it had been.
+He had told it all but one, and he had told it in order, with the prices. His hands were steady. He was tired, too, in a way the ribs had nothing to do with. It was as if he had carried something heavy up four flights and set it down, and only now felt how heavy it had been.
 
 Seln had not moved once. He had not turned his cup, because there was no cup. He had not looked away from Cael's face in all that time, and his own face had shown nothing at all, as it showed nothing at the counter. But Cael had watched him listen, and he listened the way Karis read, all of it, to the end, before he let himself think a single thing about any of it.
 
@@ -92,7 +92,7 @@ Karis looked up from the cloth very sharply. Seln did not look at her; he waited
 
 "I know," said Seln. "I watched you make it."
 
-He sat for a while after that with his hands flat and his eyes on the cloth, and nobody spoke. Brom's kettle had begun to tick on its shelf, the small dry sounds a pot makes before it thinks about boiling. Cael waited, and did not know for what.
+He sat on after that with his eyes on the cloth. Brom's kettle had begun to tick on its shelf, the small dry sounds a pot makes before it thinks about boiling. Cael waited, and did not know for what.
 
 At last Seln looked up.
 
@@ -118,7 +118,7 @@ He watched that go into Seln's face and not come out. Nothing changed in it. Sel
 
 So he told the stair.
 
-He told it the way he had written it, standing against a wall under a lamp in the covered walk with the notebook flat on the stone at the third hour. The archive at Halcenvane on a bad night two years ago, near enough, in the first year he was on the hill. The fire-watch gone the long way round. A man with a bag at the top of the upper flight, in the doorway, with his gloved hand already going into a press he had no business opening. And on the landing above him, in the light, the wing's assistant. He was reading the man a form, one plain line after another, about copying and paper and what a magistrate counted in years, until the man's hand came back out of the press with nothing in it.
+He told it the way he had written it, standing against a wall under a lamp in the covered walk with the notebook held to the stone at the third hour. The archive at Halcenvane on a bad night two years ago, near enough, in the first year he was on the hill. The fire-watch gone the long way round. A man with a bag at the top of the upper flight, in the doorway, with his gloved hand already going into a press he had no business opening. And on the landing above him, in the light, the wing's assistant. He was reading the man a form, one plain line after another, about copying and paper and what a magistrate counted in years, until the man's hand came back out of the press with nothing in it.
 
 "I was on the half-landing," said Cael. "Below you, in the corner behind Brom's coat, in the dark, where I'd sat three nights running."
 
@@ -213,7 +213,7 @@ Seln read it upside down without touching it, the way he read everything that ca
 
 "Mm," he said.
 
-Brom got up out of the chair by the shelf, which took him the usual time, and went to the kettle. It had boiled, and none of them had heard it go. It stood over its blue flame with a thin plume coming out of the spout, as if it had been waiting a long while for somebody to notice. Brom said nothing about it, and made the tea one-handed, which he had got good at in a week, and put a cup in front of each of them on the bare cloth, Seln's last.
+Brom got up out of the chair by the shelf, which took him the usual time, and went to the kettle. It had boiled, and none of them had heard it go. It stood over its blue flame with a thin plume coming out of the spout, as if it had been waiting a long while for somebody to notice. Brom made the tea one-handed, which he had got good at in a week, and put a cup in front of each of them on the bare cloth, Seln's last.
 
 Seln looked at his cup.
 
@@ -260,8 +260,6 @@ So he wrote what he could.
 *Lira's strapping off this morning, Brom's sling off tomorrow, and the ribs two more days by the healer's count.*
 
 *Told the whole of it tonight, in order, to the one person at that table who had never heard it, the first time from the beginning. It's longer than I thought, and shorter. Twice more in my life, he says, and not a third.*
-
-He looked at that for a while.
 
 Then he turned back three leaves to the birthday inventory, to the line for the sixth, and drew one straight line through *sealed, rent from waking* so that it could still be read, the way Seln's mother had done in a grain factor's ledger on a river quay, and wrote the new figure beside it in the margin.
 

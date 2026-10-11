@@ -4,7 +4,7 @@ Karis had five nights, and she used all of them, and on the Second-day she said 
 
 Nobody saw her work; that was the arrangement. The assistant went home at the sixth bell every evening with a story about glue, and believed it, and told Ephram, who told the refectory, so that by the Fourth-day half the hill knew that the researcher at the top of the library was mending a founding volume with something that smelled, and kept away. The lamp burned in the window at its usual height every night and went out at its usual hour. Behind it, at the far end of the long table under the brown-paper shade, Karis sat with the case open and the two keys in the room, Seln's for an hour at a time while he sat silent at the middle of the bench, and laid the whole of it out again, and again, and again, until it would lie in the order she wanted.
 
-Cael went up on the third night only to bring her bread, because Brom said somebody had to and Brom's shoulder did not like the top stair yet. She did not look up when he came in. The forty pairs were not in four rows any longer. They lay in a single long line down the whole of the table, sorted by something he could not see, with a slip of paper on each in her small upright hand. The memoranda stood beside them in nineteen separate piles, one issue to a pile. Every seal on every one of them had a numbered slip tucked under it, and the nine new leaves from Greyvane lay open across the window end in their fresh grey wax. Seln sat at the middle of the bench with his hands flat and watched her. Karis asked Cael one question without looking up, about Denvash, and he answered it standing at her elbow, and Seln said nothing at all.
+Cael went up on the third night only to bring her bread, because Brom said somebody had to and Brom's shoulder did not like the top stair yet. She did not look up when he came in. The forty pairs were not in four rows any longer. They lay in a single long line down the whole of the table, sorted by something he could not see, with a slip of paper on each in her small upright hand. The memoranda stood beside them in nineteen separate piles, one issue to a pile. Every seal on every one of them had a numbered slip tucked under it, and the nine new leaves from Greyvane lay open across the window end in their fresh grey wax. Seln sat at the middle of the bench with his hands flat and watched her. Karis asked Cael one question, about Denvash, with her eyes still on the seals, and he answered it standing at her elbow, and Seln said nothing at all.
 
 He put the bread down at her elbow and went away again. The next night, when Karis came down to the east hall with the rest of them, she brought the plate back empty, and he did not know whether she had eaten the bread or Seln had.
 
@@ -66,7 +66,7 @@ She was quiet a moment.
 
 "She just never knew what was answering."
 
-Nobody said anything. Brom's kettle ticked on its shelf.
+Brom's kettle ticked on its shelf.
 
 "Ilsev did everything right," said Karis. "She's the most honest seat in the district. And Havel at the junior chair, who looks at the file every time it's on a table, as Brom's counted. He's seen something he can't place, and he's kept looking at it, which is all an honest man can do with a thing like that." She looked at each of them. "I want a rule about them before we go on."
 
@@ -74,7 +74,7 @@ Nobody said anything. Brom's kettle ticked on its shelf.
 
 "Ilsev and Havel are never told. It would only cost them."
 
-Eleven words. Cael counted them because he could not help counting them, and found that he was glad there were so few.
+Eleven words. Cael counted them because he could not help counting them, and he was glad there were so few.
 
 "Agreed," said Brom.
 
@@ -102,7 +102,7 @@ She put her hand on the corner of the table where the nine leaves had lain all w
 
 "Two hundred years," said Lira.
 
-"And the leaf is the same age as the first memorandum, on the same paper. The hand is the hand of the first one's top signature; I'd swear to that in front of Ilsev. Somebody sat down two hundred years ago, wrote out what the function was and what it was for, signed the first memorandum to every station, and put the note that explained it in the bottom of the box." She was quiet a moment. "That's the middle layer."
+"And the leaf is the same age as the first memorandum, on the same paper. The hand is the hand of the first one's top signature; I'd swear to that in front of Ilsev. Somebody sat down two hundred years ago, wrote out what the function was and what it was for, signed the first memorandum to every station, and put the note that explained it in the bottom of the box. That's the middle layer."
 
 "Middle," said Cael.
 
@@ -114,7 +114,7 @@ She put her hand on the corner of the table where the nine leaves had lain all w
 
 She went on.
 
-"Under the policy there's something older: the reading, whatever it is that wakes behind your breastbone at Kindling and reads you. The function sits on it. It's older than the function by however long, and the case doesn't say how long, and I don't know." She laid her hand flat. "But the case does show me one thing about what was there before the function came, because the first memoranda had to clear it out of the way. The first three issues, about eleven years apart, in the oldest paper. And they're not about the forty. They're about the old custom."
+"Under the policy there's something older: the reading, whatever it is that wakes behind your breastbone at Kindling and reads you. The function sits on it. It's older than the function by however long, and the case doesn't say how long, and I don't know." She laid her hand on the cloth. "But the case does show me one thing about what was there before the function came, because the first memoranda had to clear it out of the way. The first three issues, about eleven years apart, in the oldest paper. And they're not about the forty. They're about the old custom."
 
 She looked at Cael.
 
@@ -128,7 +128,7 @@ She did not say which flag, and she did not have to. Cael's own schedule two had
 
 "That's the word your Arbiter said at Denvash," said Karis, quite gently. "It isn't a classification, Cael, and it never was. It's what they wrote where the old name used to be."
 
-He found that he had known it for a long time, in the way you know a thing you have never let yourself look at. He sat with it. It did not hurt the way he had thought it would. It was more like setting down something he had been carrying the wrong way round for years and finding that it was lighter the right way up.
+He had known it for a long time, in the way you know a thing you have never let yourself look at. He sat with it. It did not hurt the way he had thought it would. It was more like setting down something he had been carrying the wrong way round for years and finding that it was lighter the right way up.
 
 Karis turned the second slip over.
 
@@ -154,7 +154,7 @@ Karis looked at her.
 
 "The registry, or whoever sat at that desk. They didn't make the reading. Your leaf says so, as near as it can without saying it. It was there, and they found it." She lifted her chin off her fist. "Two hundred years is a long time to a registry. It's the whole of their paper. It isn't a long time compared to whatever's under it."
 
-Nobody answered her, because nobody could, and Karis did not try. She sat with her hands flat on the table and her eyes on Lira's face. Cael saw her decide not to write it down, and saw what it cost her not to.
+Nobody could answer her, and Karis did not try. She sat with her hands on the table and her eyes on Lira's face. Cael saw her decide not to write it down, and saw what it cost her not to.
 
 The third slip was the shortest, and Karis read it almost at once, as if to get past it.
 
@@ -186,7 +186,7 @@ She read it aloud.
 
 "Both doors," said Lira.
 
-"Both doors open into the same room, and it doesn't matter to them which he walks through." Karis laid her hand flat over the open cover. "Re-evaluation isn't the test. It's the delivery."
+"Both doors open into the same room, and it doesn't matter to them which he walks through." Karis laid her hand over the open cover. "Re-evaluation isn't the test. It's the delivery."
 
 Seln had not spoken all night except to agree to the eleven words. He spoke now, to the table, in his counter voice.
 
@@ -195,8 +195,6 @@ Seln had not spoken all night except to agree to the eleven words. He spoke now,
 They looked at him.
 
 "Nobody has come since the cut: no team, no knock, no rider at the gate. I have been reading the post for it every morning, and the lodge book, and the coats, and there is nothing." He moved one finger. "I thought at first they were counting what the road cost them, but that is not it. Why spend a team on a road, where things go wrong and a team goes home with nothing, when the seat will deliver him at the close of the year, by the book, in a room with a clerk? They don't need the hand when they have the instrument."
-
-Nobody said anything for a while.
 
 "Then it's not people," said Brom slowly, "is it? I keep looking for the person, somebody who decided."
 
@@ -216,7 +214,7 @@ There was no break; that was the whole of it. Every part of it was working.
 
 He said it aloud. "It isn't broken. It's maintained."
 
-Nobody answered him. Karis looked at him across the table for a long moment. Then she closed the notebook on its cover, and gathered up the four slips and gave them to Seln, who unlocked the case on its shelf and put them in the lid's pocket beside the leaf and locked it again. The fifth slip she kept face down, without ever turning it over, and put it in her coat.
+Karis looked at him across the table. Then she closed the notebook on its cover, and gathered up the four slips and gave them to Seln, who unlocked the case on its shelf and put them in the lid's pocket beside the leaf and locked it again. The fifth slip she kept face down, without ever turning it over, and put it in her coat.
 
 "That's all of it," she said. "Four findings and a limit."
 

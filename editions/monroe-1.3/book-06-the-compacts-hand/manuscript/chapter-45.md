@@ -18,15 +18,15 @@ He lowered it.
 
 "Then I shall leave you to it." Bracken turned to go, and turned back, as he always did. "Under load," he said. "I asked the district clerk what load. He wrote back that it is the assessors' to set on the day, and that in his experience they set it at what the title was won against, and a little over." He nodded once to each of them, the small nod, and went out into the yard.
 
-Nobody said anything until the door had shut.
+The door shut behind him.
 
-Then Ephram, who had not stopped his set, finished it, and let the long frame's bar come back to its rest with both hands, and went to the rack by the wall where the short frame's iron plates hung on their pegs. He took down two, and looked at them, and hung one back, and took down a heavier one in its place.
+Ephram, who had not stopped his set, finished it, and let the long frame's bar come back to its rest with both hands, and went to the rack by the wall where the short frame's iron plates hung on their pegs. He took down two, and looked at them, and hung one back, and took down a heavier one in its place.
 
-He did not ask what the title had been won against. A man who had kept two years of somebody else's figures on three sheets of ruled paper was not likely to have missed Brom's.
+He had kept two years of somebody else's figures on three sheets of ruled paper, and he was not likely to have missed what Brom's title had been won against.
 
 He slid the plates onto the short frame's bar, one each side, and stepped back, and looked at Brom.
 
-Brom folded the schedule along its folds and put it into his left inside pocket, with the summons and the docket and the confirmation, and his hand stayed there a moment, flat on the cloth, over the square shape of the thing that was also in that pocket and had been since the forty-fifth day. Then he took the hand away and walked in under the bar.
+Brom folded the schedule along its folds and put it into his left inside pocket, with the summons and the docket and the confirmation, and his hand stayed there a moment, over the stiff shape of the thing that was also in that pocket and had been since the forty-fifth day. Then he took the hand away and walked in under the bar.
 
 ---
 
@@ -68,7 +68,7 @@ The bar went up.
 
 It was the first whole sentence he had spoken since Bracken left, and he wiped his hands on the cloth at his belt and began taking the plates off the bar, one at a time, and hanging them on their pegs in order of weight.
 
-Brom sat down on the bench by the wall, heavily, with his forearms on his knees. There were two long red bars across them where the iron had lain, and he looked at them for a while.
+Brom sat down on the bench by the wall, heavily, with his forearms on his knees. There were two long red bars across them where the iron had lain.
 
 "They'll find it," he said. He did not seem to be speaking to either of them in particular. "That's the thing. I've known since the docket came that they'd find it, and I know now what the paper is that they'll write it on. I told you in the reading room. I can't read that sheet anymore." He turned his forearms over. "And I still want to stand in their frame and have the plate say what's true. I've been thinking about why. I think it's only that I'd like to have been right about myself, once, in front of somebody whose job it was to check."
 
@@ -76,13 +76,13 @@ Brom sat down on the bench by the wall, heavily, with his forearms on his knees.
 
 "Did she?" Brom thought about it. "She would."
 
-He did not say what he would do with the finding afterward, but his hand went to the pocket again and rested there. Ephram, at the rack, with his back to them, hung up the last plate and squared it on its peg, and if he saw the hand he gave no sign of it.
+He did not say what he would do with the finding afterward, but his hand went to the pocket again and rested there. Ephram, at the rack, with his back to them, hung up the last plate.
 
 ---
 
 The lake house came up the bluff road on the Second-day in a hired wagon with a blue-grey cloth over its hoops, and half the hill was at the north wall to watch it climb.
 
-There were five of them: an instructor in a long coat, a clerk with a board, two fighters who had come to watch and carry, and the Blade. He got down in the outer court and stood looking about him at the lodge and the arch and the covered walk with frank interest, a square, fair, good-humoured young man of twenty or so with a wooden lath in a canvas sleeve across his back. He was Iron Rank Five, and he had beaten the Current girl on figures at the confluence, after four level exchanges, and had come and found her afterward to tell her that he had not enjoyed a bout so much all year. She had told Lira, and Lira had said that it was a very annoying thing for him to have done.
+There were five of them: an instructor in a long coat, a clerk with a board, two fighters who had come to watch and carry, and the Blade. He got down in the outer court and stood looking about him at the lodge and the arch and the covered walk with frank interest, a broad, fair, good-humoured young man of twenty or so with a wooden lath in a canvas sleeve across his back. He was Iron Rank Five, and he had beaten the Current girl on figures at the confluence, after four level exchanges, and had come and found her afterward to tell her that he had not enjoyed a bout so much all year. She had told Lira, and Lira had said that it was a very annoying thing for him to have done.
 
 It was the last of the three bouts Rooke had struck, and the one she had wanted most.
 
@@ -122,7 +122,7 @@ The tiers made a noise, and somewhere along the west side the Current girl's voi
 
 The Blade laughed.
 
-He stood at his chalk with the lath across his shoulders and laughed, out loud, shaking his head, exactly as the Force had laughed at her on the painted floor at the start of the year. Then he stopped laughing and looked at the oak for a moment, at the place behind his own hip, and Cael saw him put it away somewhere to be used.
+He stood at his chalk with the lath across his shoulders and laughed, out loud, shaking his head, exactly as the Force had laughed at her on the painted floor at the start of the year. Then he stopped laughing and looked at the oak, at the place behind his own hip, and Cael saw him put it away somewhere to be used.
 
 He did not commit in the second.
 
@@ -190,8 +190,6 @@ She said it to the slate, in an ordinary voice, and it was not a question. She h
 
 He did not turn round, but went on looking at the rain. Cael watched the back of his head and could not have said what the man knew. Rooke had eaten in the open seat at a refectory table on the day of the riders, and had struck three bouts off a card without asking how an ankle had come to be turned on the way to a sitting. He knew what a ruling could do to an enrollment, and he knew whose friend his entrant was. He had built her a hall. He had never once asked her for a promise.
 
-Nobody said anything for the space of perhaps five breaths.
-
 "Then I'd better be ready for it," said Lira.
 
 "You'd better." Rooke turned from the rain at last, and looked at her, and then for a moment past her at Cael, with a face that gave away exactly as much as his board did. "Twenty-eight is a figure. It isn't the figure. Wraps. Every count ends on whichever foot I call, and I'll call it late."
@@ -224,7 +222,7 @@ She did not say before what, and he did not ask.
 
 "Price it, then. But don't score it." She unfolded herself from the coping. "Tenth bell. Bring the book if you must. I'm not writing on my hand."
 
-He priced it at his sill, by the lamp, in four lines. *Night, the east hall, L. alone. Everything public, at the rate, to win. Buys: she knows. Spends: hip past five on boards; shoulder; ten counts for a lane, twelve for a third; behind the eyes. Not the quiet thing. Not the new one.* He looked at *she knows* for a moment and left it.
+He priced it at his sill, by the lamp, in four lines. *Night, the east hall, L. alone. Everything public, at the rate, to win. Buys: she knows. Spends: hip past five on boards; shoulder; ten counts for a lane, twelve for a third; behind the eyes. Not the quiet thing. Not the new one.*
 
 The hall was cold, and the shutters were down, and she had lit both lanterns and chalked two marks on the painted floor thirty feet apart. She was at the south one in her wraps with her weight even, and he left his coat and the satchel on the bench and went to the north.
 
@@ -268,7 +266,7 @@ She had turned. She was looking at his face.
 
 "That's the ten," she said softly, and went.
 
-She came straight at him, burst on burst, her second and her third with no count between them, and he called the Wind to go and it came a beat behind his asking, and he called the read and it came late, and he got his forearm up and opened the give and it opened *late*, and by then her palm was flat against his ribs, on the right side, exactly where they had been cracked.
+She came straight at him, burst on burst, her second and her third with no count between them, and he called the Wind to go and it came a beat behind his asking, and he called the read and it came late, and he got his forearm up and opened the give and it opened *late*, and by then her palm was against his ribs, on the right side, exactly where they had been cracked.
 
 "Touch," said Lira. "Mine."
 
@@ -294,9 +292,9 @@ Once, when she planted both feet to change direction, the new thing lifted its h
 
 He stopped.
 
-She was bent over with her hands on her knees, and he found that he was not standing very well himself. His right hip had stopped writing and begun to shout, and his shoulder had counted the pushes and had a view about the last one, and there was a slow thick ache behind his eyes that was the lane and the naming together.
+She was bent over with her hands on her knees, and he was not standing very well himself. His right hip had stopped writing and begun to shout, and his shoulder had counted the pushes and had a view about the last one, and there was a slow thick ache behind his eyes that was the lane and the naming together.
 
-She straightened up, and looked at him for a long moment in the lantern light. She was not frightened, as he had been afraid, on the wall, that she would be. Her face was the one she had turned on the Blade's lath, held out to her across his palms: somebody had offered her a thing, and she was deciding whether it was hers to take.
+She straightened up, and looked at him in the lantern light. She was not frightened, as he had been afraid, on the wall, that she would be. Her face was the one she had turned on the Blade's lath, held out to her across his palms: somebody had offered her a thing, and she was deciding whether it was hers to take.
 
 "Right," she said. "Now I know."
 

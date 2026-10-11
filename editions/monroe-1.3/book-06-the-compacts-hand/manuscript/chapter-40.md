@@ -6,11 +6,9 @@ Cael said it on the Third-day night, in the reading room, before he could talk h
 
 They were all there. They had come up by their three ways after supper as they did every evening now, without needing a floor schedule to tell them when. Karis had put the enrollment book back on Bracken's counter on the First-day before the second bell, as promised, and Bracken had weighed it on his palm and written it in. The case stood on its shelf between the grey boxes, and the lamp burned in the window.
 
-Nobody asked who. They knew who.
+They all knew who.
 
 "He warned us," said Cael. "At Norhold, in a room that belonged to neither office, with forty clocks in it and nothing written down by either side. He told us to stop competing in public, and why, and he didn't have to. It cost him something to say it, and he said it anyway, and then he went back and was set aside for saying the same thing at the convening." He made himself go slowly. "And he's still the one evaluator in the Compact they need a sentence from. When the seat comes to re-evaluate me, somebody has to certify the protocol, and it'll be him they ask. He's going to be asked to sign the delivery, and he doesn't know what's being delivered."
-
-Nobody answered at once.
 
 "Seln paid twelve years for that case," Cael said, "and we've had it six nights. We can't file it, and we can't publish it, and we can't use it. But we can let one honest man inside the thing see what the thing is, before they hand him the pen." He looked at the cloth. "I think we owe him that, and I think it's the same debt as the stair. I don't know how to tell the difference."
 
@@ -44,11 +42,7 @@ Cael went last, because he had proposed it.
 
 Karis looked at him for a long moment.
 
-"Then that's the rule," she said. "That's the one that matters. The rest are risks, and we can weigh them, but that one's a rule." She put both hands flat on the table. "He gets the case. Nothing about Cael."
-
-Nobody said anything.
-
-"Say it," said Karis, "everybody, out loud. I want to hear it in every voice in this room, so that whoever's tired at the end of an afternoon in a strange room hears their own voice saying it."
+"Then that's the rule," she said. "That's the one that matters. The rest are risks, and we can weigh them, but that one's a rule." She put both hands on the table. "He gets the case. Nothing about Cael. Say it, everybody, out loud. I want to hear it in every voice in this room, so that whoever's tired at the end of an afternoon in a strange room hears their own voice saying it."
 
 "He gets the case," said Brom. "Nothing about Cael."
 
@@ -68,7 +62,7 @@ Brom's went up first, the right, because the left still did not like going over 
 
 Seln's stayed flat on the table.
 
-Nobody hurried him. They held their hands up and waited. It was his case and his twelve years and his name on a roll somewhere, and if his hand did not go up, then theirs would come down, and none of them would ever mention it again. Cael found that he did not know which way it would go. He found too that he could bear either, and that this was new.
+Nobody hurried him. They held their hands up and waited. It was his case and his twelve years and his name on a roll somewhere, and if his hand did not go up, then theirs would come down, and none of them would ever mention it again. Cael did not know which way it would go. He could have borne either, and that was new.
 
 Seln lifted his hand off the cloth. He held it there a moment, a hand's breadth above the table, as if weighing it. Then he raised it.
 
@@ -154,7 +148,7 @@ He nodded. He bowed, not to any of them, but to the room, a short stiff bow from
 
 Karis lifted the case onto the table and turned it to face him.
 
-Seln came to the table's other end and took the brass key from his waistcoat and opened the lock with its dry sound, and lifted the lid, and stepped back. He did not lay anything out this time. Karis did, in the order it had come out of the case on the first night, with the leaf in its sleeve last and a hand's width apart. When she had finished she sat down again in her chair and folded her hands and said nothing.
+Seln came to the table's other end and took the brass key from his waistcoat and opened the lock with its dry sound, and lifted the lid, and stepped back. He did not lay anything out this time. Karis did, in the order it had come out of the case on the first night, with the leaf in its sleeve last and a hand's width apart. When she had finished she sat down again in her chair and folded her hands.
 
 Nobody said anything about anything.
 
@@ -164,7 +158,7 @@ His left hand was the only part of him that moved for a long while. It lay on th
 
 Cael counted the pairs as they went face down. He could not help it.
 
-At the twenty-third, Vastin found the letter. He unfolded the father's sheet, and read it, and unfolded the clerk's four lines inside it, and read those. Then he read the father's again from the top. He folded them both along their old folds, exactly as Lira had folded them, and slid them back under the clip, and laid the pair face down on the others. He sat for a moment with his hand flat on top of the face-down stack. Then he took the twenty-fourth.
+At the twenty-third, Vastin found the letter. He unfolded the father's sheet, and read it, and unfolded the clerk's four lines inside it, and read those. Then he read the father's again from the top. He folded them both along their old folds, exactly as Lira had folded them, and slid them back under the clip, and laid the pair face down on the others. He sat with his hand on top of the face-down stack. Then he took the twenty-fourth.
 
 He read all forty. He untied the pink tape, and read the twenty-three reports, and at the first one that carried *Continue observation* under its stamp he stopped. He stopped there for longer than he had stopped for the letter. He held the sheet a little nearer the window's light, and read the evaluator's line under the clerk's stamp twice, and put it down very carefully on the others. He went on.
 
@@ -190,7 +184,7 @@ The clock on the landing ticked. Through the floor came the sound of the weight 
 
 Vastin did not move. His left hand lay on his knee, and once it opened and closed. His eyes were on the window, on the cupola, or past it, on nothing in particular, the way a man looks at the sky when he is listening for something a long way off. His face was quite still.
 
-Cael found that he could not look at it for long. He looked at the shapes of the ledgers on the shelf instead, the clean oblongs in the dust, and counted them, eleven, and then counted them again, and there were still eleven.
+Cael could not look at it for long. He looked at the shapes of the ledgers on the shelf instead, the clean oblongs in the dust, and counted them, eleven, and then counted them again, and there were still eleven.
 
 Then Vastin spoke. He said it to the window.
 
@@ -200,7 +194,7 @@ Then Vastin spoke. He said it to the window.
 
 When at last he turned from the window, his face had been tidied. Whatever had been in it was put away somewhere behind his eyes, as a careful man folds a letter he cannot yet answer and shuts it in a drawer, and he looked round the table at the five of them in turn, the first time he had let himself look at them since he began.
 
-"Nobody here has asked me for anything," said Vastin. "I noticed that on the landing, and I have been noticing it for two hours." He laid his left hand flat on the scrubbed wood. "So I will save you the asking. There are three things I will not do, and you should go home knowing which."
+"Nobody here has asked me for anything," said Vastin. "I noticed that on the landing, and I have been noticing it for two hours." He laid his left hand on the scrubbed wood. "So I will save you the asking. There are three things I will not do, and you should go home knowing which."
 
 He put one finger down on the table.
 
@@ -274,8 +268,6 @@ The Archmarshal read the station's line, and then he read the margin beside it. 
 
 He had read forty margins on a scrubbed table in a borrowed room in Ostrand. Every one of them had had something in it before it was cleaned.
 
-He sat with the copy in front of him for a long time.
-
 He thought of the room in Ostrand, though he had told himself on the post road that he would not. Four young people and a man at a window. The man had stood a little to one side of the glass, where the frame hid him from the lane, the way the field service teaches its people to stand, and had copied forty orders in a round level hand that never once let itself be hurried. The Archmarshal had known what he was from the doorway. He had known, reading, roughly what the copying must have cost and how many years it had sat somewhere before it came to that table. He did not know the man's name, and he had been careful all the way home not to wonder it.
 
 He would not write the man down. He would not write any of them down: not the girl with the turned ankle who had asked him a straight question, not the big one with the bad shoulder, not the researcher who had held out her gloves, not the boy he had not let himself look at. A description is a file with the name left off, and he had spent forty years learning how easily the name comes back.
@@ -300,7 +292,7 @@ He had a file under his arm, a different one, and a question about a guild hall'
 
 "The northern girl, sir," he said. "I've been wondering. Should I ask for a third reading? I could have the frame shop send a man up. Or write to her station for its sheet." He coloured a little. "I still don't like it."
 
-The Archmarshal looked at him for a long moment, at the hand still deciding what shape it meant to be, at the young face that had not yet been told anything it could not unknow.
+The Archmarshal looked at him, at the hand still deciding what shape it meant to be, at the young face that had not yet been told anything it could not unknow.
 
 "No," he said. "Continue observation."
 
@@ -324,6 +316,6 @@ At the sixth bell his clerk stood in the doorway with the day's wallet against h
 
 The clerk waited a moment, as if there might be more, and there was not, and he went down.
 
-The Archmarshal looked at the copy a little longer. Then he put it back in *held*, under the three other things, exactly where it had been, and squared the tray with the side of his hand. He turned down the lamp. He took his coat from its hook and went down the too-steep stair at the ordinary hour. He crossed the paved court where the pigeons had gone to roost and went home.
+The Archmarshal looked at the copy a little longer. Then he put it back in *held*, under the three other things, exactly where it had been, and pushed the tray back to its place. He turned down the lamp. He took his coat from its hook and went down the too-steep stair at the ordinary hour. He crossed the paved court where the pigeons had gone to roost and went home.
 
 It was the hardest thing he did that week, and nobody saw him do it, and nothing anywhere recorded that it had been done.

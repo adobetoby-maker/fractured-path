@@ -194,8 +194,6 @@ Rooke nodded, and looked at Lira.
 
 He went.
 
-When his step had gone from the stair, Lira picked up the red drill-book and found her place in it.
-
 ---
 
 Brom had the watch after supper, and by the end of it the house was asleep.

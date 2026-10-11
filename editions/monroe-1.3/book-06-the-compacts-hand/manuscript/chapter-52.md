@@ -2,7 +2,7 @@
 
 The reading room had a bare table, and there was nothing left on it to turn over.
 
-He noticed that before anything else, coming in fourth, as he had come in fourth on the night the case was opened. On that night every sheet in the room had been squared and weighted and ready, and on his birthday every sheet had been turned on its face, because the captain was coming. Tonight the cloth lay bare from end to end. The shelves behind it had gaps in them the width of grey boxes, and the only paper in the whole room was three slips in front of Karis and the book he had brought himself.
+He noticed that before anything else, coming in fourth, as he had come in fourth on the night the case was opened. On that night every sheet in the room had been stacked and weighted and ready, and on his birthday every sheet had been turned on its face, because the captain was coming. Tonight the cloth lay bare from end to end. The shelves behind it had gaps in them the width of grey boxes, and the only paper in the whole room was three slips in front of Karis and the book he had brought himself.
 
 The lamp in the window was turned up as high as it had been every night that year, so that the valley would see what it always saw.
 
@@ -36,7 +36,7 @@ He had done it on a north road two days ago, by a horse trough, and he gave it t
 
 "With no date," said Karis.
 
-"With no date. Withrow underlined that twice in her own code, nine years apart. And three is part nine." He had it by heart, having heard Bracken read it, flat, on the night of the procedure. "They may restrict, freeze or hold anything that attaches to me: a record, a sponsorship, a travel paper, *any institutional relationship.* They've walked those fences already. They read Lira's file for completeness, and they wrote to Brom's family's estate, and they queried Karis's standing twice, and they sent two polite men to Denvash to ask about a shop's title."
+"With no date. Withrow underlined that twice in her own code, nine years apart. And three is part nine." He had it by heart, having heard Bracken read it on the night of the procedure. "They may restrict, freeze or hold anything that attaches to me: a record, a sponsorship, a travel paper, *any institutional relationship.* They've walked those fences already. They read Lira's file for completeness, and they wrote to Brom's family's estate, and they queried Karis's standing twice, and they sent two polite men to Denvash to ask about a shop's title."
 
 "Hesk told them where to put their pencils," said Lira.
 
@@ -45,8 +45,6 @@ He had done it on a north road two days ago, by a horse trough, and he gave it t
 He stopped a moment, because the rest was harder to put into the log voice.
 
 "And there's what it is. Karis found it, the fourth of her findings. The frame is how they get me back inside. I'd have a line on a file that says *suspended, pending review*, and somebody told to observe, and I'd be entered, and whatever I was after that would be what was written." He looked at the slip. "I saw a girl go into a station on the north road on the Third-day, and she came out happy. I'll not stand in that building. I can lose everything else that's on this table tonight, but I'll not be entered as advised."
-
-Nobody spoke for a little.
 
 "That's not a price," said Brom slowly. "That's a no."
 
@@ -68,7 +66,7 @@ It took her a quarter of an hour, and she did not cheat.
 
 She stopped, breathing rather fast.
 
-It was the best case there was, and Cael, with the pen in his hand, found that some part of him had leaned toward it while she spoke. It was the old pole, the one he had written in his best hand on the first night: *The system has text, and text has held me.* The most honest reader he knew had just told him, in her closing voice, that there was one more text.
+It was the best case there was, and some part of Cael, with the pen in his hand, had leaned toward it while she spoke. It was the old pole, the one he had written in his best hand on the first night: *The system has text, and text has held me.* The most honest reader he knew had just told him, in her closing voice, that there was one more text.
 
 "That's the argument," said Karis. "Now somebody answer it."
 
@@ -100,7 +98,7 @@ Karis looked from one of them to the next, and last at Cael.
 
 For a moment Karis did not move. Then she let her breath go, and something went out of her shoulders that he thought had been there since Greyvane.
 
-"Yes," she said. "That's the answer. I knew it was, and I needed to hear it lose." She put her hand flat on the second slip. "You don't file a grievance with the instrument that forged the record. You leave its jurisdiction."
+"Yes," she said. "That's the answer. I knew it was, and I needed to hear it lose." She put her hand on the second slip. "You don't file a grievance with the instrument that forged the record. You leave its jurisdiction."
 
 She turned the slip face down beside the first.
 
@@ -168,7 +166,7 @@ She looked up at him, with her pale fingers flat on the cloth.
 
 He sat down in the good chair.
 
-Nobody said anything. Lira had both hands over her mouth. Cael found that he could not see the ruled column very well, and bent his head over it, and wrote under Brom's name what Brom had said, word for word, because he had promised to write what they told him and not what he guessed.
+Lira had both hands over her mouth. Cael could not see the ruled column very well, and bent his head over it, and wrote under Brom's name what Brom had said, word for word, because he had promised to write what they told him and not what he guessed.
 
 On the landing, Bracken had not moved.
 
@@ -330,7 +328,7 @@ Cael turned to the table.
 
 She nodded.
 
-Brom's hand went up first, as it had in this room once before, the right, flat, like a man taking an oath. Lira's followed, and then Karis's, pale to the second knuckle, and Cael put up his own.
+Brom's hand went up first, as it had in this room once before, the right, like a man taking an oath. Lira's followed, and then Karis's, pale to the second knuckle, and Cael put up his own.
 
 Seln sat with both hands folded on the satchel on his knees. He looked at the four hands, and then at the lamp in the window, turned up as high as it would go. He had been in a great many rooms, and had sat at the edge of every one of them for fifteen years, and he had counted five beans onto a gardener's table and called it arithmetic.
 

@@ -26,7 +26,7 @@ He said nothing about it to anybody, and neither did Cael, and in the morning th
 
 The third day was the hill.
 
-The woman with the good horses had called it a long climb, and she had not been making it sound worse than it was. The road left the river's country an hour after light and went up, not steeply but steadily, round the shoulders of the land, for the whole of a day. The gelding stopped at the first shoulder, as a clock stops: he put all four feet down square and blew, and nothing Lira said to him made the least difference.
+The woman with the good horses had called it a long climb, and she had not been making it sound worse than it was. The road left the river's country an hour after light and went up, not steeply but steadily, round the shoulders of the land, for the whole of a day. The gelding stopped at the first shoulder, as a clock stops: he planted all four feet and blew, and nothing Lira said to him made the least difference.
 
 "She said one a day," said Lira. "She didn't say how much of the day."
 
@@ -104,7 +104,7 @@ The keeper laughed, a dry sound, without turning from the fire.
 
 They left him at first light on the Fourth-day.
 
-It was the last day of the academic year. Cael had known it when he woke, as one knows a date that has been set against one's name for a long time. Somewhere behind him, six switchbacks up from a river, a bell would ring that evening and the house would close its books; and at some hour between, on a north road short of a toll-bar, a stout fair man would unlock a windowless building. He did not know the hour, for Withrow's sheet had given only the day, and he found that he kept looking at the sun.
+It was the last day of the academic year. Cael had known it when he woke, as one knows a date that has been set against one's name for a long time. Somewhere behind him, six switchbacks up from a river, a bell would ring that evening and the house would close its books; and at some hour between, on a north road short of a toll-bar, a stout fair man would unlock a windowless building. He did not know the hour, for Withrow's sheet had given only the day, and he kept looking at the sun.
 
 "You've gone quiet," said Lira, at the horse's head.
 
@@ -160,7 +160,7 @@ A man had paid a toll here, eastbound, a long time ago. He had been a haulier, w
 
 There was no ferryman now, and no book. Five people were crossing where he had crossed, and nobody at all was writing it down.
 
-Cael left the board face up. He could not have said why that seemed better.
+Cael left the board face up.
 
 ---
 
@@ -226,7 +226,7 @@ Lira folded her arms. She had said a thing on a stair once, in the cold, about a
 
 "Found," she said. "Again."
 
-Nobody added to that, for there was nothing to add that would not have been a guess. The wind went over the roof, and the dark block sat in its notch with its mark on it, as it had sat before anybody built a wall there to keep the rain off a clerk.
+The wind went over the roof, and the dark block sat in its notch with its mark on it, as it had sat before anybody built a wall there to keep the rain off a clerk.
 
 They slept in the station. It was the first roof that week which nobody charged them for.
 
@@ -256,7 +256,7 @@ Nobody hurried him.
 
 "It was warm. I've not got over that. I'd thought all my life it'd be cold, like a scale." He looked down at his own forearms, where the red bars had nearly gone. "It said what I was. It was right, and I heard a man count past forty. Then I walked out of it and left the paper on a table."
 
-He put his hand flat on the gelding's neck.
+He put his hand on the gelding's neck.
 
 "I'm Copper on that side of this stone," he said. "For good. That's in a book, and it'll never be altered, because I'll never sign. I've known it since a landing, and I wanted to say it once while I was still standing where it's true." He drew a breath. "On this side there's no book. So I don't know what I am over here. I expect I'll find out by lifting things."
 

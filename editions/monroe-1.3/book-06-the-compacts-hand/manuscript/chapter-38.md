@@ -38,7 +38,7 @@ He came out of the infirmary with the linen triangle folded small in his good ha
 
 "A week of nothing heavy," he said, "and nothing over my head. She says I'm to let it remember where it lives." He opened the hand again and looked at it. "It's forgotten. You'd think it would remember a thing like that."
 
-He went to the old frames all the same, after the noon meal, because Ephram was there. Cael went with him and stood at the wall and watched. Brom did not lift anything. He stood beside the frames with his arms folded, the left one carefully, and watched Ephram work through the long frame's sets one after another without a word, the way they had stood together at those frames all year. Ephram did not ask about the shoulder. At the end of his sets he wiped his hands, and looked at Brom's left arm for one second, and nodded at it as if it had passed some test he had set it privately, and went.
+He went to the old frames all the same, after the noon meal, because Ephram was there. Cael went with him and stood at the wall and watched. Brom did not lift anything. He stood beside the frames with his arms folded, the left one carefully, and watched Ephram work through the long frame's sets one after another without a word, the way they had stood together at those frames all year. At the end of his sets he wiped his hands, and looked at Brom's left arm for one second, and nodded at it as if it had passed some test he had set it privately, and went.
 
 "He measures everything," said Brom, when the captain had gone.
 
@@ -122,7 +122,7 @@ Rooke looked at her feet, and then at her face.
 
 He nodded, and turned back to the floor, where the Current girl was waiting on the four-count with her hands up. "Again. On the four," he said, and the program went on.
 
-Lira walked back across the hall the same way, thinking about every step, and came out past Cael into the grey dawn of the covered walk, and did not say anything for a while.
+Lira walked back across the hall the same way, thinking about every step, and came out past Cael into the grey dawn of the covered walk.
 
 "I knew before he said it," she said at last. "I knew at the third step." She pulled her scarf up. "I wanted him to say it out loud, so I'd stop wondering, that's all. Now it's said, and I can stop."
 
@@ -132,7 +132,7 @@ He came into the reading room with a flat packet under his arm wrapped in oilclo
 
 "Nine days on the road," he said. "Registered, under seal, with the archive's compliments and an invoice for the copying that I have paid and entered. The first spend on the house's first budget line for an enrollee's research." He gave it to her. "It came before the recess, as they promised. I note it because the archive at Greyvane has never in my thirteen years kept a promise about a date, and I wish it to be on the record that it has kept one."
 
-Karis signed his receipt with her right hand, the pale fingers steady on the pen. Then she broke the seal and folded back the oilcloth and looked at what was inside for a long moment without touching it, the way she had looked at the leaf.
+Karis signed his receipt with her right hand, the pale fingers steady on the pen. Then she broke the seal and folded back the oilcloth and looked at what was inside without touching it, as she had looked at the leaf.
 
 Nine sheets, each with a seal impression taken in fresh wax from an old die and a line of signatures copied under it in an archivist's careful hand. The founders' hands, and the registry seals that had been set beside them on the charter, one for every year the charter had been renewed.
 
@@ -174,11 +174,9 @@ She put her finger on the code.
 
 "Second." She turned two leaves. "A chartered house whose enrollee is entered as fled, during a proceeding brought against his enrollment, is entered as having harboured the flight. It's one line on the house's charter. It doesn't close the house; it sits on the charter for the next inspection, and the inspection reads it." She looked at the table. "Withrow's charter folder, the one with the remedy column."
 
-Nobody said anything.
-
 "Third. The enrolled associates of a respondent entered as fled." She did not look at Lira or Brom. "Every enrollee of this house whose file names him, in a minute or a squad list or a delegation. A note on each file: *associated with a respondent entered as fled.* No penalty, only a note, on three files." She paused. "His makes four."
 
-Lira's hand had gone flat on the bench beside her.
+Lira's hand had closed on the edge of the bench.
 
 "So we can't go," said Brom.
 
@@ -298,8 +296,6 @@ Brom put his hand back on the door.
 
 The asking stopped, not slowly but at once, the way a dog stops barking when somebody it knows comes through the gate.
 
-Nobody said anything for a moment.
-
 "It's already held," said Karis quietly. "That's it, isn't it? It wants to fix the door so the door will stay, but a door with a hand on it is staying already. Somebody's holding it, and there's nothing left for it to do."
 
 "So I'm a doorstop," said Brom.
@@ -362,7 +358,7 @@ It stopped where it was, halfway out of him, and came back, and lay down, the wa
 
 Brom did not say two.
 
-Nobody said anything for a long moment. Then Karis closed her left hand, and the two flames went out, and the hall was only two lanterns and the painted floor and the chalk.
+Karis closed her left hand, and the two flames went out, and the hall was only two lanterns and the painted floor and the chalk.
 
 "That's the bill," said Cael, and his voice was not quite steady. "Behind the eyes, like the naming on the first morning. Not bad."
 

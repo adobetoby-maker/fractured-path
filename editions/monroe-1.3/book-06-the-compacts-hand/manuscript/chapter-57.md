@@ -6,7 +6,7 @@ The desk clerk opened the assessment wing on the First-day, as he had opened it 
 
 There was nobody at it.
 
-That was not, in itself, a thing to write down, for a man could be late. But the clerk sat with his pencil lifted, and found that he could not go on to his column. In two years the teaching assistant had never once been late. He had never been early either. He had come in by the inner door at the same moment each day, without a sound, so that the clerk had mostly not noticed him arrive, and had only looked up and found the table occupied, as one finds that a clock has been wound.
+That was not, in itself, a thing to write down, for a man could be late. But the clerk sat with his pencil lifted, and could not go on to his column. In two years the teaching assistant had never once been late. He had never been early either. He had come in by the inner door at the same moment each day, without a sound, so that the clerk had mostly not noticed him arrive, and had only looked up and found the table occupied, as one finds that a clock has been wound.
 
 He got down off his stool and went to look.
 
@@ -22,7 +22,7 @@ There was a cupboard under the table, which he had never opened, since it was no
 
 He straightened up.
 
-The stove in the corner was cold. He opened it, since he had opened everything else. It was full to the bars of fine pale ash, as soft as flour. It was a great deal of ash. He had been in the wing on the Sixth-day and the stove had been raked out then, for the bout. He could not think what a man would burn in one mild Seventh-day to make so much, and after a moment he stopped trying, because he found that he did not wish to know.
+The stove in the corner was cold. He opened it, since he had opened everything else. It was full to the bars of fine pale ash, as soft as flour. It was a great deal of ash. He had been in the wing on the Sixth-day and the stove had been raked out then, for the bout. He could not think what a man would burn in one mild Seventh-day to make so much, and after a moment he stopped trying, because he did not wish to know.
 
 On the shelf over the table stood the first manual and the second, and beside them a space. The dust lay a little differently there, in a clean oblong about the length of a forearm, and the clerk looked at it and it told him nothing. He could not have said what had stood in that place. He had sat ten feet from it for two years.
 
@@ -104,7 +104,7 @@ The boy came to the counter at the third bell with a card he had no need to brin
 
 The last bundle was the thickest. It had the name of this hill on its label, and its count said *one*.
 
-He held it a little longer than the rest. It was two years of true weeks. *Subject attended. Subject's figure as entered by the house.* He had been proud of the others once, and there was a commendation for them in a drawer. He found that he was not proud of this one. He was something else, and he did not have the word, and the catechism had never supplied it.
+He held it a little longer than the rest. It was two years of true weeks. *Subject attended. Subject's figure as entered by the house.* He had been proud of the others once, and there was a commendation for them in a drawer. He was not proud of this one. He was something else, and he did not have the word, and the catechism had never supplied it.
 
 He put it in, and shut the door on it.
 
@@ -118,7 +118,7 @@ He did not go by the gate. The lodge-man kept a column for every bell, and Seln 
 
 There was a jar on the sill of the gardener's cottage. He knew it was there, though he could not see it, and he knew what was in it. He had counted five beans onto that man's table once and called it arithmetic, and had not expected the gardener to keep them.
 
-He did not take one. A thing left where it lay was sometimes all the mark a man could make.
+He did not take one.
 
 At the meadow gate he stopped, by habit, to count the people behind him by touch. He remembered, with his hand already lifted, that there were none.
 
@@ -154,7 +154,7 @@ He knew better. It was the first thing he had told them in the orchard, and he h
 
 Seln stood on the crest, in the middle of the road, and turned all the way round.
 
-He did it badly. He knew he was doing it badly, and he did not move. He had left nineteen towns and had not looked back at one of them. It had not been a hardship. There had been nothing behind him in any of those places but a file and a rented room, and he had no practice at this. He stood square, like a first-year told to be seen, with his hands hanging.
+He did it badly. He knew he was doing it badly, and he did not move. He had left nineteen towns and had not looked back at one of them. It had not been a hardship. There had been nothing behind him in any of those places but a file and a rented room, and he had no practice at this. He stood full on to the valley, like a first-year told to be seen, with his hands hanging.
 
 The valley was a darkness with a lighter band in it, which was the river. Beyond the river the bluff stood up, blacker than the sky, and he found the house by its shape. It had no lights, for it was past midnight, and four hundred people were asleep in it.
 
@@ -208,7 +208,7 @@ He took a pencil and a leaf from his coat. He wrote it down, to be rid of it.
 
 He read it over. Every word was true. It was the last of its kind, and it was as good as any of them; a reader could have checked each line against a book and found it stood, and he would have learned nothing about a boy who had let a coat fall in front of twelve hundred people.
 
-*Subject's associations unchanged.* He looked at that line for some time. Then he took the pencil and added one word to the end of it, which no return of his had ever carried.
+*Subject's associations unchanged.* He looked at that line. Then he took the pencil and added one word to the end of it, which no return of his had ever carried.
 
 *Five.*
 

@@ -20,7 +20,7 @@ The house's counsel rose, and said that the house produced, and sat, which was a
 
 "The evaluator of record," said the clerk.
 
-Gault went up to the clerk's table with the volume, and laid it down, and squared it.
+Gault went up to the clerk's table with the volume, and laid it down.
 
 "Are these your notes upon the enrollee for the current academic year?"
 
@@ -52,17 +52,13 @@ Jent had risen, and stood with his hands at his sides and his spectacles hanging
 
 "Received," said the hood. "Entire. And entered."
 
-That was all. The clerk wrote, and at the records table the junior chair drew the volume toward him and opened his receipt book. In the middle chair below the platform, Ilsev had turned a leaf in her file and was writing something small at its foot, and she did not look at the house's table, and she did not look at the hood.
-
-Cael sat with his hands flat on the wood.
+The clerk wrote, and at the records table the junior chair drew the volume toward him and opened his receipt book. In the middle chair below the platform, Ilsev had turned a leaf in her file and was writing something small at its foot, and she did not look at the house's table, and she did not look at the hood.
 
 A magister had just put into a registry seat's own minute, under its own order, in a clerk's level voice, that somebody had tried to take the respondent off his hill by a paper nobody would own. It had been received, and it would lie in the registry's presses beside the table of renewals for as long as there was a registry.
 
 And nothing whatever would come of it; he knew that as surely as he knew the lot number under his boot. Nobody on that platform would ask whose office it was, because the district seat had already answered in two sentences that the office was duly constituted and the house was referred elsewhere. The note would be true, and entered, and it would change the ruling by not one word.
 
 He looked along the house's table at Gault, who had come back and sat down and set his case straight. The magister's face was quite calm. He had been asked for his notes, and he had given them, all of them, the inconvenient with the rest. He had not expected it to do anything; it had simply not occurred to him to leave a leaf out.
-
-*That is how the honest ones do it*, Cael thought. They did it not to win, but because the leaf was there.
 
 "The second supplemental submission of the respondent," said the clerk, "upon the recorded invocations of the integrity provisions. Nineteen leaves and a table. Received and entered."
 
@@ -82,9 +78,9 @@ He found Karis on the floor.
 
 It was some days after the eighth sitting, on an afternoon of hard bright cold, and he had come up the four flights with a question about the ninth that he forgot at the door. The reading room's table stood bare to its cloth, with the chairs pushed in, and the lamp in the window was not lit, because it was day. And under the window, on the boards, with her back against the wall and her knees up and a square of planed deal across them, sat Karis, writing in pencil.
 
-She had a lantern beside her, though the sun was on her hair, and three bundles in front of her on the floor, each wrapped in oilcloth and tied with cord, and a fourth open on its cloth with its leaves in a squared stack and a single sheet lying on top.
+She had a lantern beside her, though the sun was on her hair, and three bundles in front of her on the floor, each wrapped in oilcloth and tied with cord, and a fourth open on its cloth with its leaves in a stack and a single sheet lying on top.
 
-"Don't step on the cord," she said, without looking up.
+"Don't step on the cord," she said.
 
 He did not step on the cord, and sat down on the floor opposite her, since it seemed to be where people were sitting.
 
@@ -114,7 +110,7 @@ The case stood on its shelf between the two grey boxes, where it had stood since
 
 "Then hold this cord."
 
-He held the cord while she folded the oilcloth over the fourth bundle, corner and corner and the long flap last, and then she took the cord from him and tied her flat knot, and looked at Hesk's clock, which he had not noticed she had borrowed from his sill.
+He held the cord while she folded the oilcloth over the fourth bundle, corner and corner and the long flap last, and then she took the cord from him and tied her knot, and looked at Hesk's clock, which he had not noticed she had borrowed from his sill.
 
 "Forty-four," she said. "It loses, doesn't it? Call it forty-six."
 
@@ -122,7 +118,7 @@ He held the cord while she folded the oilcloth over the fourth bundle, corner an
 
 The assistant found out the next morning, and Cael was there for that too, because Karis had asked him to carry the code's second volume across the landing.
 
-The girl was at her table in the old lumber room, where she sat every morning from the first bell, with ink on her collar and yesterday's digest squared in front of her. She was a second-year, and she had come to that table at the start of the year unable to find a section without being told its number, and she could now find one from a struck heading in an index a century old, and Cael did not think she had noticed the difference.
+The girl was at her table in the old lumber room, where she sat every morning from the first bell, with ink on her collar and yesterday's digest in front of her. She was a second-year, and she had come to that table at the start of the year unable to find a section without being told its number, and she could now find one from a struck heading in an index a century old, and Cael did not think she had noticed the difference.
 
 Karis laid a sheet on the table in front of her.
 
@@ -162,7 +158,7 @@ It was a good question, and she had been taught to ask them, one a morning, for 
 
 "Files change," said Karis. "It's what they're for." She took the code's second volume out of Cael's arms and set it on the corner of the table. "You'll want that. The cross-heading is in the back. Find it."
 
-She went back across the landing to her own room, and Cael followed her, and at the door he looked round. The assistant had not opened the volume yet; she was sitting with both hands still flat on the sheet that had no mark on it, reading it again.
+She went back across the landing to her own room, and Cael followed her, and at the door he looked round. The assistant had not opened the volume yet; she was sitting with both hands still on the sheet that had no mark on it, reading it again.
 
 In the reading room Karis stood for a moment with her back to him and her pale fingers pressed against the edge of the bare table.
 
@@ -214,13 +210,13 @@ He was bored.
 
 It was not quite that. He had been early; that was Lira's word for it, and she had been thinking about it for three weeks, and so had he. For the whole of four exchanges he had known what the Mire would do a half beat before the Mire did it, and had then stood and waited that half beat out, every time, so that it would look as if he had found it when a good Iron would have found it. It was a strange sort of work, for nobody had been in any danger. He had only been waiting, for a year, inside every bout.
 
-Hiding had turned into waiting, and he had not seen it happen. There was a ruling coming, on a day he could count to, and after it either there was no more need of a band, or there was a door.
+There was a ruling coming, on a day he could count to, and after it either there was no more need of a band, or there was a door.
 
 He looked toward the east end of the room.
 
 Ephram was at the rail under the windows.
 
-He had the three sheets out, unfolded, laid on the rail's flat top with his forearm across them against the draught, and a pencil in his hand. He was not looking at Cael; he was writing the figure in at the foot of the third sheet, in his square hand, with the date and the floor and the three cards. He set the dot beside it on the scale in the margin, and then he laid his rule across the page and drew a line under the entry, a single firm line, from edge to edge.
+He had the three sheets out, unfolded, laid on the top of the rail with his forearm across them against the draught, and a pencil in his hand. He was not looking at Cael; he was writing the figure in at the foot of the third sheet, with the date and the floor and the three cards. He set the dot beside it on the scale in the margin, and then he laid his rule across the page and drew a line under the entry, a single firm line, from edge to edge.
 
 He had never drawn a line under one before.
 
@@ -246,11 +242,11 @@ Cael walked the length of the room to him, since there did not seem to be anythi
 
 It was not a question, and he did not wait for it to be answered.
 
-Cael stood at the rail where the sheets had lain, and the wood was still a little warm from Ephram's forearm. Whatever had been written on the back of the third page was in a green-taped file going down the wing's corridor, and he did not know what it was. He knew only that Ephram had decided something, and that it had taken him ninety-eight entries to be sure.
+Cael stood at the rail where the sheets had lain, and the wood was still a little warm from Ephram's forearm. Whatever had been written on the back of the third page was in a green-taped file going down the wing's corridor.
 
 ---
 
-The request came to the Archmarshal's desk on a morning of sun, in the ordinary bag, and his clerk laid it in the tray on the right with the day's other paper and said nothing about it.
+The request came to the Archmarshal's desk on a morning of sun, in the ordinary bag, and his clerk laid it in the tray on the right with the day's other paper.
 
 It was the third thing from the top, and he came to it in its turn.
 
@@ -270,7 +266,7 @@ Down in the paved court the porter was feeding the pigeons from his paper bag, a
 
 He did not open the lowest drawer. There was no finding to consult and no minute to draft, and he had known since a borrowed room in Ostrand exactly what he would write when this leaf came. He had said it aloud there, to five people, so that he would not be able to pretend afterward that he had not.
 
-He found, now that it had come, that he did not need the saying; he would have written the same if nobody had ever heard him.
+Now that it had come, he did not need the saying; he would have written the same if nobody had ever heard him.
 
 He dipped the pen.
 

@@ -76,7 +76,7 @@ She had her boots off and her feet to the fire, and she did not raise her voice.
 
 "You made us say it back to you. All of it. You made me walk a farm track in the dark with my hand on Brom's coat and count people by touch, and you said if a thing's worth teaching it's worth trusting." She pointed a stick at him. "So either you taught us right, and you can sleep, or you didn't, and you'd better say so now, because I've been doing it your way for five nights."
 
-Seln looked at her for some time.
+Seln looked at her.
 
 "That is not a fair argument," he said.
 
@@ -104,7 +104,7 @@ He kept them in his pack, nested, in a sock. There had been four of them once, t
 
 He stood looking at the sixth. It was a spare. It had been carried up four flights once, to a birthday, when there had been a captain at the table.
 
-Nobody said anything, and Lira had gone still.
+Lira had gone still.
 
 On a hill a week behind them, a man with his arm in a sling would be walking a cohort of first-years round a yard, and telling them that the rota was a joke. He would have a board with his name on it. It was the right place for him, and he had said so himself before anybody could say it for him.
 
@@ -156,11 +156,13 @@ She sat back on her heels.
 
 "Do you know what I had, on the hill?" she said. "I had a budget, and a room with a lock, and three archives' privileges under a seal, and a restricted collection that I was let into by the hour. Somebody had granted me every one of them. Every one could be queried, and two were, and all of it lapsed at a counter, in the order it was given." She looked at the three boxes, and the sheet, and the two small marks. "Nobody granted me this. There's no fee office for it, and no council that can vote it away, and I haven't a key to hand in."
 
-She touched the brass bar, to square it.
+She touched the brass bar, to set it true.
 
 "This is the first archive I have ever kept that nobody can close," said Karis.
 
 She said it in her small dry voice, as a finding, and then she pressed her lips together hard and looked at the fire. Brom put the second box on top.
+
+Seln had got up from the fire, and he took the surveyor's case out of his post satchel, where it had ridden against his hip since Halcenvane, and held it out across the tailboard. "With the boxes," he said, and Brom set it in beside the third, and drew the canvas down over case and boxes together when the load was done.
 
 Lira had her own book out by then, and had turned to the page with the capitals. *4 LOADED. 3 LIGHT. STAMPS STOP. 2 GO ON. 1 TURNS.* She had chalked that on a dairy wall once, and copied it out afterward, and carried it through eleven sittings.
 
@@ -172,7 +174,7 @@ Lira had her own book out by then, and had turned to the page with the capitals.
 
 Karis read out the purse after that, since she had kept it.
 
-They had pooled it in a parlour in Ostrand, and a cart and an old horse had come out of it, and four nights' hay. Cael had put in what Hesk had sent him over two years, a little at a time, in letters, and what he had not spent, and he had thought it a fair sum until he saw the others'. Lira's was small. Brom's was a good deal, and he had said only that the estate paid a son's allowance whether the son answered his letters or not. Karis had the price of some books she had sold to the lake house. Seln's had come out of the post satchel in a flat leather wallet, and nobody had remarked on it then.
+They had pooled it in a parlour in Ostrand, and a cart and an old horse had come out of it, and four nights' hay. Cael had put in what Hesk had sent him over two years, a little at a time, in letters, and what he had not spent, and he had thought it a fair sum until he saw the others'. Lira's was small. Brom's was a good deal, and he had said only that the estate paid a son's allowance whether the son answered his letters or not. Karis had the price of some books she had sold to the lake house. Seln's had come later, at the crossroads fire, out of the post satchel in a flat leather wallet, and nobody had remarked on it then.
 
 She read the total. Not one of them had guessed so high.
 
@@ -214,7 +216,7 @@ He looked at the list.
 
 Two of the nine were new since the year opened: the one from a chalk road, and the one from the oak. Seven had a person's name beside them. One had a source the page would not give, and one had no name to give.
 
-The sixth was the one that stayed shut. It had been sealed for two years and more, and the seal held tonight exactly as it had held on the hill. Only one thing in that line had changed. The man it came from had been told, and he was asleep under a pine with a satchel for a pillow.
+The sixth was the one that stayed shut. It had been sealed for two years and more, and the seal held tonight exactly as it had held on the hill. Only one thing in that line had changed. The man it came from had been told, and he sat across the fire with his cup in his hands and an empty satchel at his feet.
 
 The eighth was the blank. She had grey eyes above a scarf, and she had threaded fourteen points through a chalk cut, and somebody had sent her there without so much as a paper. Whoever she was, she had a name, and nobody had thought it worth giving him. He would carry a piece of her for the rest of his life and never be able to say whose it was. He had written *unnamed* and let it stand, for a guess would have been a lie.
 
@@ -222,7 +224,7 @@ There were two things the page did not say.
 
 It did not say where he was. It had a day at its head, and a count of days, and no place. There was no name to give the place, and he would not have written one if there had been.
 
-And it did not say what was in the satchel. It said nothing about a case, or forty pairs of leaves, or a paragraph two hundred years old about a function that was to be maintained. He had written once, on the night it was opened, that it did not go into a book. Six people in the world knew it, and five of them were on this shelf, and he did not think the number would ever be seven by any act of his.
+And it did not say what lay under the canvas with the three boxes. It said nothing about a case, or forty pairs of leaves, or a paragraph two hundred years old about a function that was to be maintained. He had written once, on the night it was opened, that it did not go into a book. Six people in the world knew it, and five of them were on this shelf, and he did not think the number would ever be seven by any act of his.
 
 That left the last entry, which was not a fragment at all.
 

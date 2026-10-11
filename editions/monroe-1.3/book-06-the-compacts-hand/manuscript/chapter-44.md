@@ -8,7 +8,7 @@ At the foot of the road the two coats stood under the chandler's eaves. They loo
 
 "Sixth sitting," said Bracken, to nobody. "I said eleven. I should like it noted that I now say fourteen, and that I said so in the second month, and was thought gloomy."
 
-"Nobody thought you gloomy," said Karis, without looking up from the board.
+"Nobody thought you gloomy," said Karis, to the board.
 
 "The senior clerk did. He has since apologised."
 
@@ -26,19 +26,17 @@ The house's counsel was waiting inside, small and grey and straight-shouldered, 
 
 "I have," said Cael.
 
-She considered that for a moment, and something that was not quite a smile came and went at the corner of her mouth.
+She considered that, and something that was not quite a smile came and went at the corner of her mouth.
 
 "Yes," she said. "I suppose you have." And she led them into the long room.
 
 ---
 
-Nothing in it had changed. He had half thought something would, after the recess, after Ostrand and the borrowed office four streets back, as he had half thought the hill would look different on the morning after the case. But the wool exchange smelled of lanolin and damp coats, as it always had, and the forty benches ran back to the doors, a quarter full, with lot seventeen cut into the floor under his left boot. On the platform the hood sat in its place behind the long table, grey and still, and below it the five chairs of the evaluation seat stood in their row with their covers off and five people in them. Four were district evaluators whose names he had heard read once and had written down; and in the middle, with a file open on her knee at its usual angle, sat Ilsev.
+Nothing in it had changed. He had half thought something would, after the recess, after Ostrand and the borrowed office four streets back, as he had half thought the hill would look different on the morning after the case. But the wool exchange smelled of lanolin and damp coats, as it always had, and the forty benches ran back to the doors, a quarter full, with lot seventeen cut into the floor under his left boot. On the platform the hood sat in its place behind the long table, grey and still, and below it the five chairs of the evaluation seat stood in their row with their covers off and five people in them. Four were district evaluators whose names he had heard read once and had written down; and in the middle, with a file open on her knee at its usual angle, sat Ilsev, reading.
 
-She did not look up. She was reading.
+At the records table the senior chair had the minute, and Havel had the times and the receipts. Havel did not look up; Cael had learned by now that the man would not, and no longer waited for it.
 
-At the records table the senior chair had the minute, and Havel had the times and the receipts. Havel did not look up either; Cael had learned by now that the man would not, and no longer waited for it.
-
-He sat, and put his hands flat on the house's table, one on each side of the place where his notebook would have gone if he had brought it into this room, which he never had.
+He sat, and put his hands on the house's table, one on each side of the place where his notebook would have gone if he had brought it into this room, which he never had.
 
 He knew what was in the case on Karis's shelf, and that this room ran on it. The frame they meant to stand him in was the thing on the leaf, appended to the reading and not the reading, and every person on that platform would go home tonight not knowing it, and so would Jent, perhaps, and so would the clerk. He was the only one in the long room, besides Karis at his elbow, who knew what the argument was about.
 
@@ -68,17 +66,15 @@ The clerk carried the sheet to the records table, and Havel took it, and laid it
 
 The third line. The counsel turned her steel rule a quarter turn on the table, and it ticked.
 
-Three points, in something under ten minutes. Cael sat with his hands flat and counted them, because he could not help it, and waited to feel what he had felt at the preliminary when the first three headings went down, the hard small lift under the ribs of a thing won.
+Three points, in something under ten minutes. Cael counted them, because he could not help it, and waited to feel what he had felt at the preliminary when the first three headings went down, the hard small lift under the ribs of a thing won.
 
 It did not come.
 
-He looked for it, quite honestly. They had spent four days on that table of renewals, in the annex, at the start of the year. He had found the nine days himself, in his own old Log, and Karis had let him find them. He had been proud of it for a week. And a man in a mended coat had just stood up before a hood and said that every line of it was right, and adopted it, and thrown away a piece of his own petition rather than leave an error standing.
+They had spent four days on that table of renewals, in the annex, at the start of the year. He had found the nine days himself, in his own old Log, and Karis had let him find them. And a man in a mended coat had just stood up before a hood and said that every line of it was right, and thrown away a piece of his own petition rather than leave an error standing.
 
-It was a clean win. It was as clean as anything in the whole proceeding. And it weighed nothing, because Jent had not needed the ground he was giving. He was a man clearing a table before a meal. Every concession made the petition smaller and harder, until there would be nothing left of it but the single thing it had always been: a question for the seat's discretion, about a frame.
+It was as clean a win as anything in the whole proceeding, and it weighed nothing, because Jent had not needed the ground he was giving. He was a man clearing a table before a meal. Every concession left the petition smaller and harder, and nearer the single thing it had always been: a question for the seat's discretion, about a frame.
 
 *None, Advocate.* He had said so in the fourth sitting, in so many words, and Cael had written it down and had gone on bringing receipts.
-
-Winning had become a form. That was the size of it. They filed, and it was received, and it was true, and it was conceded; and each time, the corridor was one door shorter and no wider.
 
 "The supplemental submission of the respondent upon the renewals," said the clerk. "Eleven leaves. Adopted by the petitioner. Received and entered."
 
@@ -176,7 +172,7 @@ The merits were heavier than the first sittings had been, though there was not m
 
 He liked the correction slip, and was a little ashamed of how much. It was a small square of the house's paper, and it said that the registrar had found, on reading his own exhibit list a fourth time, that he had written the fifth of a month for the sixth, and begged leave to amend. Nobody would ever have caught it, and it could not have mattered to anything. The man had found it himself, and walked it down a hill.
 
-Havel numbered it and pasted it in beside the line it corrected, and squared it with his thumbnail.
+Havel numbered it and pasted it in beside the line it corrected.
 
 The house's exhibits stood at a hundred and seventy-nine by the end of the seventh sitting. He had receipted every one, and in eleven weeks he had not found among them a leaf out of order, a seal smudged past reading, or a count that did not come to what its contents leaf said it came to. He had sat junior to a good many proceedings, and had never sat junior to a record like it.
 
@@ -200,19 +196,17 @@ He had thought, this morning a week ago, with the dry pen resting under a fourte
 
 The schedule did not give one. It gave the title, in a clerk's fair copy, and no office after it, on the old leaf or the new. The petition had only set down that the mark was there. He had known that since the pump step, and had written it on the first sheet, and a thing written once did not want writing again.
 
-Everything else about the line, the registers answered perfectly. Second schedule, fourteenth line, received on the fortieth day, re-tendered on the hundred and seventeenth, both leaves alike. There was nothing there to write. The six sheets held what the registers could not answer. This, they could.
+Everything else about the line, the registers answered perfectly. Second schedule, fourteenth line, received on the fortieth day, re-tendered on the hundred and seventeenth, both leaves alike. There was nothing there to write.
 
 And a sheet for what he felt, sitting forty feet from that table every Fifth-day with a pen in his hand, was a thing he had never kept and did not know how to begin.
 
 He did not take a clean sheet from the kit. He looked at the place in it where the clean sheets were, and he left them there.
 
-He thought instead, for a while, of the words on his rotation order. *The seat's Fifth-days, until relieved.* He had read them in the first week as he read any order, for what they required of him. He read them differently tonight, in his head, with the river going by. A man could be relieved because the work was done. He could also ask.
+He thought instead of the words on his rotation order. *The seat's Fifth-days, until relieved.* He had read them in the first week as he read any order, for what they required of him. He read them differently tonight, in his head, with the river going by. A man could be relieved because the work was done. He could also ask.
 
 He had never asked to be moved off anything in his life. He did not ask now. He only noticed, as he might have noticed a door in a wall he had walked past for years, that the order had the word in it.
 
 He put the six back between the second manual and the third, the same way round, and buckled the kit.
-
-Then he sat a little longer at the window with his aching hand open on his knee, and watched the bridge-ward's lantern, until it went out.
 
 ---
 
@@ -226,15 +220,11 @@ There was a pile at her left hand too. It was taller.
 
 She was a tall woman, and she sat very upright, and tonight for the first time since he had known her she looked as if she had been sitting upright for a long while. The lamp was turned low. The charter hung in its frame on the wall behind her with its locked case beneath.
 
-"Eleven of them are kind," she said. "I answer those last, because they're easy and I save them. Nineteen want to know what the house will do if the seat goes against it. That is a fair question from people whose own charters are written in the same words as mine." She touched the taller pile. "And four have advised me, very civilly, to let you go."
-
-Cael did not say anything.
-
-"Not expel. Nobody has written that word. *Release.* *Come to an accommodation.* One of them wants me to *spare the house a ruling*." Her voice was quite even. "Their reasoning is not foolish. If this seat rules that those sections can be turned upon a person for what he is, that ruling stands in the registry's books for every house on the continent. If I let you go before it rules, there is no ruling. One boy leaves one hill, and thirty-four charters sleep sound. The man who put it most plainly has been my friend for twenty years. He wrote it in his own hand, and it cost him something to write."
+"Eleven of them are kind," she said. "I answer those last, because they're easy and I save them. Nineteen want to know what the house will do if the seat goes against it. That is a fair question from people whose own charters are written in the same words as mine." She touched the taller pile. "And four have advised me, very civilly, to let you go. Not expel. Nobody has written that word. *Release.* *Come to an accommodation.* One of them wants me to *spare the house a ruling*." Her voice was quite even. "Their reasoning is not foolish. If this seat rules that those sections can be turned upon a person for what he is, that ruling stands in the registry's books for every house on the continent. If I let you go before it rules, there is no ruling. One boy leaves one hill, and thirty-four charters sleep sound. The man who put it most plainly has been my friend for twenty years. He wrote it in his own hand, and it cost him something to write."
 
 "What did you answer?"
 
-"That the thing he's afraid of is done the day a house hands over an enrollee to avoid it. After that, nobody needs a ruling. They need only file, and wait for us to count the cost." She squared the face-down pile with the side of her hand. "I put it more gently than that. He's a good man, and frightened, and I have been both."
+"That the thing he's afraid of is done the day a house hands over an enrollee to avoid it. After that, nobody needs a ruling. They need only file, and wait for us to count the cost. I put it more gently than that. He's a good man, and frightened, and I have been both."
 
 The fire ticked. He looked at the two piles, and at her right hand, which had ink on the second finger to the knuckle.
 
@@ -248,9 +238,9 @@ The fire ticked. He looked at the two piles, and at her right hand, which had in
 
 She looked at him then, directly, as she had looked at him across this desk with a charter folder open between them.
 
-"I didn't send for you to be thanked, and I'll be annoyed if you try. I sent for you because you keep a column. I've seen it. Four names at the head." She did not ask how she had seen it, and he did not ask either. "I would rather you had the right figure under mine than a guess. Thirty-four letters, and thirty-four answers by the end of the week, and not one of them says I'm sorry I did it."
+"I didn't send for you to be thanked, and I'll be annoyed if you try. I sent for you because you keep a column. I've seen it. Four names at the head." She did not say how she had seen it, and he did not ask. "I would rather you had the right figure under mine than a guess. Thirty-four letters, and thirty-four answers by the end of the week, and not one of them says I'm sorry I did it."
 
-He found he could not speak for a moment.
+For a moment he could not speak.
 
 He knew a thing she did not. He knew that there was a door, one day wide, that would let him walk out of her house after a ruling and leave nothing in her folder but an entry in an old enrollment book. He knew that he was sitting through every Fifth-day in a room he no longer believed in, in part so that the door would still be there when it was wanted, and her charter clean on the other side of it. He could not tell her any of that, or why he had stopped believing in the room.
 

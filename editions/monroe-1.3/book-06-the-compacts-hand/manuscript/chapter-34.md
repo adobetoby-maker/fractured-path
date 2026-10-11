@@ -10,7 +10,7 @@ Rooke stood back with the chalk in his hand and looked at the board. Then he put
 
 He went down the rest of the stair one tread at a time.
 
-Lira was at the long table in the refectory with her strapped foot up on the bench and a bowl in front of her that she was not eating. She did not ask whether Rooke had done it. She looked at his face as he lowered himself onto the bench across from her, and nodded, and pushed the bowl an inch further away.
+Lira was at the long table in the refectory with her strapped foot up on the bench and a bowl in front of her that she was not eating. She looked at his face as he lowered himself onto the bench across from her, and nodded, and pushed the bowl an inch further away.
 
 "Eat," he said.
 
@@ -48,7 +48,7 @@ Bracken brought it up himself. He did not have to; the porter's shoulder was men
 
 Cael did not open it.
 
-He set it on the sill beside Hesk's book and looked at it for a long while. It was wrapped in oilcloth and tied with waxed thread in Hesk's own knot, the one that came undone with a single pull if you knew which end and held like iron if you did not. He knew which end. He did not pull it. Lira had said tonight. He thought he would let it be tonight.
+He set it on the sill beside Hesk's book. It was wrapped in oilcloth and tied with waxed thread in Hesk's own knot, the one that came undone with a single pull if you knew which end and held like iron if you did not. He knew which end. He did not pull it. Lira had said tonight. He thought he would let it be tonight.
 
 ---
 
@@ -58,7 +58,7 @@ It had three chairs and a bench and a window seat and the long table, and Karis'
 
 The table had been cleared.
 
-Not cleared. Karis did not clear a table; there was nowhere to put what was on it. But every sheet on it had been turned face down. Every stack had been squared to the table's edge and turned over so that only the backs showed, plain and grey and blank, the code's three volumes shut and laid flat with their spines to the wall, her notebooks closed, the attestation wallet buckled. The whole long table was a field of the backs of things. In the middle of it, on a clean cloth, stood a honey cake on a kitchen plate with a knife beside it.
+Not cleared. Karis did not clear a table; there was nowhere to put what was on it. But every sheet on it had been turned face down. Every stack had been turned over where it stood so that only the backs showed, plain and grey and blank, the code's three volumes shut and laid with their spines to the wall, her notebooks closed, the attestation wallet buckled. The whole long table was a field of the backs of things. In the middle of it, on a clean cloth, stood a honey cake on a kitchen plate with a knife beside it.
 
 The assistant was just going. She had carried the cake up the library stair herself, she said, so that nobody would drop it, and she put her head round the door to say so, and wished him a good birthday with ink on two fingers, and went down the stair again before anybody could ask her to stay. Karis had sent her home early. Cael heard her singing to herself all the way down.
 
@@ -82,7 +82,7 @@ He stopped in the doorway and stood there with one hand on the frame, a tall loo
 
 He came in. Then he saw the table.
 
-Cael watched him see it. He watched the captain's eyes go along the long table, slowly, from end to end, over the turned stacks and the shut books and the squared backs of every sheet, the way they went along a floor before a bout, reading it. He saw Ephram understand that every piece of paper in the room had been turned face down, and that it had been turned face down because he was coming, and that nobody was going to say so.
+Cael watched him see it. He watched the captain's eyes go along the long table, slowly, from end to end, over the turned stacks and the shut books and the blank backs of every sheet, the way they went along a floor before a bout, reading it. He saw Ephram understand that every piece of paper in the room had been turned face down, and that it had been turned face down because he was coming, and that nobody was going to say so.
 
 Ephram did not say so either.
 
@@ -146,15 +146,13 @@ She looked at her plate.
 
 "Three. Not fought. Rooke struck them this morning. They'll go on my sheet as losses, and the sheet will go to the evaluation at the end of the year with three losses on it that I never stood on a floor for." She looked up. "There. Said."
 
-Nobody said anything for a moment.
-
-Cael found that he could not look away from her. She had not hidden them. He had expected that she would, a little, the way he would have, writing the bill small at the bottom of a page where nobody need read it unless they went looking. She had not written them anywhere. She had said them out loud, in a room full of people, on his birthday, in order, with the dates.
+Cael could not look away from her. She had not hidden them. He had expected that she would, a little, the way he would have, writing the bill small at the bottom of a page where nobody need read it unless they went looking. She had not written them anywhere. She had said them out loud, in a room full of people, on his birthday, in order, with the dates.
 
 "I'd have stood there again," she said, more quietly. "In the cut. Where the man's foot was going to land. I'd stand there tomorrow. I'm not saying them so anybody'll say I shouldn't have. I'm saying them because they're mine and they cost something and I want them said where somebody heard." She picked up the cake at last. "That's all."
 
 Ephram, with his back to the table, said, "Noted."
 
-He said it the way Cael said it, exactly, in the log voice, flat and kind. Lira looked at the back of his head and laughed, once, surprised.
+He said it the way Cael said it, exactly, in the log voice, level and kind. Lira looked at the back of his head and laughed, once, surprised.
 
 Then Ephram took the captain's file off his knees and opened it, without turning round, and took out three sheets of close-ruled paper, and held them up over his shoulder without looking, so that Cael could take them.
 
@@ -162,7 +160,7 @@ Cael took them.
 
 It was the chart. He had known it existed for a year and had never seen it close. Every figure he had put up on the house's floors since the qualifying year, in order, in Ephram's square careful hand, one to a line, with the date and the floor and the three cards and the figure, and a little dot beside each one on a running scale in the margin, so that the dots made a line down the three pages. The line breathed. It went up a little and down a little and never once settled, and never once went past the mark at the top that Ephram had ruled across all three pages in red.
 
-At the bottom of the third page, under the last figure, there was a gap. And in the gap, in the same square hand, small: *Excused (ribs).*
+At the bottom of the third page, under the last figure, there was a gap. And in the gap, in the same hand, small: *Excused (ribs).*
 
 "Ninety-one," said Ephram, to the window. "Ninety-one entries since the qualifying year, and one gap this week." He was quiet a moment. "I'm not asking about any of them. I've never asked and I'm not going to start tonight." He held out his hand over his shoulder again for the sheets. "I wanted you to know somebody's been paying attention. That's all. Many happy returns."
 
@@ -184,9 +182,9 @@ There was a note folded small under the flap. It was on a leaf from Hesk's order
 
 *Eighteen. A man's tools should fit the road he's actually on, not the one they promised him. Your grandmother would say I'm being unsubtle. She'd be right. Mind the shape. — H.*
 
-He did not read it aloud. Nobody asked him to. He folded it small again and put it in the satchel's pocket with the book, against the book's back board, and buckled the flap.
+He did not read it aloud. He folded it small again and put it in the satchel's pocket with the book, against the book's back board, and buckled the flap.
 
-Across the table Seln was looking at the satchel. He had not looked at anything else since the brown paper came off. He did not say anything about it. He looked at the strap that went across the body, and the buckle that would not catch, and the flap that came down over everything, and Cael thought, though he could not have said how he knew it, that Seln was thinking about roads.
+Across the table Seln was looking at the satchel. He had not looked at anything else since the brown paper came off. He looked at the strap that went across the body, and the buckle that would not catch, and the flap that came down over everything, and Cael thought, though he could not have said how he knew it, that Seln was thinking about roads.
 
 "It's a good bag," said Brom, at last.
 
@@ -196,7 +194,7 @@ The evening broke up a little before the tenth bell. Ephram went first, with the
 
 Lira came down the library stair with Cael, step and crutch, step and crutch, with his good hand under her elbow on the turns and neither of them saying that it was the wrong way round, a girl on a crutch helping a boy with strapped ribs down a stair by letting him help her.
 
-At the reading room's door he had felt it ask. He had felt it on every doorway since the road, and this one was a good door, oak, heavy, set square in its frame, the kind of door the new thing wanted most. *There?* He had named it under his breath. *Door. Karis's. It opens.*
+At the reading room's door he had felt it ask. He had felt it on every doorway since the road, and this one was a good door, oak, heavy, set true in its frame, the kind of door the new thing wanted most. *There?* He had named it under his breath. *Door. Karis's. It opens.*
 
 Lira had heard him.
 
@@ -232,7 +230,7 @@ He took the book out of its pocket and opened it to a clean leaf and wrote the i
 
 *Still open. Still real. Patience.*
 
-He looked at the list for a long time. Eight lines and a ninth that was not a line. Seven names he could have written a letter to, and one he never could.
+Eight lines and a ninth that was not a line. Seven names he could have written a letter to, and one he never could.
 
 Somebody knocked at the door.
 

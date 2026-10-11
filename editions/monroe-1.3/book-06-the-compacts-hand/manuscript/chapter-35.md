@@ -34,9 +34,9 @@ She walked to the door and back as if the floor might have been waxed in the nig
 
 "Then don't think about it where he can see you," said the healer, which was very nearly a joke, and went to wash the shears.
 
-The crutch stood in the corner where she had leaned it on the first morning, and she looked at it for a moment and then left it there.
+The crutch stood in the corner where she had leaned it on the first morning, and she looked at it and left it there.
 
-"Somebody'll need it," she said to Cael at the door. "Somebody always does." She stopped on the threshold and put her hand flat on the frame, and said, quite seriously, "*Infirmary door. People come in hurt and go out less hurt.*"
+"Somebody'll need it," she said to Cael at the door. "Somebody always does." She stopped on the threshold and put her hand on the frame, and said, quite seriously, "*Infirmary door. People come in hurt and go out less hurt.*"
 
 He said it after her. Nothing in him had been asking, and it was quiet anyway.
 
@@ -64,7 +64,7 @@ Ephram was reading the board when he came in. Ephram read the board every mornin
 
 "Better."
 
-"Good." The captain found his own name and moved his finger to the next. "The chart's got a hole in it, and I don't like holes." He considered the Fourth-day column for a moment, Cael's line among the others, a practice booking on a floor nobody wanted after supper. Then he went on down the door to the Fifth-day, as if he had read nothing at all, and Cael could not have said whether he had.
+"Good." The captain found his own name and moved his finger to the next. "The chart's got a hole in it, and I don't like holes." He considered the Fourth-day column, Cael's line among the others, a practice booking on a floor nobody wanted after supper. Then he went on down the door to the Fifth-day, as if he had read nothing at all, and Cael could not have said whether he had.
 
 He went to the wing after breakfast because the excused slip wanted a countersign, and because he wanted to see the shelf.
 
@@ -80,7 +80,7 @@ He looked at it for exactly as long as a man looks at anything on a shelf while 
 
 The clerk countersigned the slip and Cael said thank you. At the copying table Seln turned a leaf, and said, to the column and to nobody, "Mm."
 
-That was all. Cael went out through the wing doors into the cold and stood a moment on the step.
+Cael went out through the wing doors into the cold and stood a moment on the step.
 
 Somewhere between the last time he had looked and this morning, Seln had taken it down. Nobody on the hill had seen him do it. Cael had been looking at that shelf every time he stood at the counter for a week, and he had not seen it either.
 
@@ -178,9 +178,7 @@ It was in a sleeve of folded paper, plain and heavy, made to fit it. Seln took i
 
 Then he stepped back from the table and put both hands flat on the wood in front of him, and said nothing.
 
-Nobody said anything.
-
-Cael had no clock, because he had left Hesk's on the sill, and he did not count. He found afterward that he could not have told anybody how long it was, which had not happened to him since he was small. He knew only what he saw while it went on. The shaded lamp's flame stood up very straight and still in its glass. On the cloth the forty rows lay in its light, and the yellow stack, and the leaf in its sleeve at the end. Lira's hands were in her lap, one inside the other, and Brom did not reach for the kettle. Karis sat with her eyes going along the first row and back, along and back, the way they went along a shelf, and she did not reach for anything either.
+Cael had no clock, because he had left Hesk's on the sill, and he did not count. Afterward he could not have told anybody how long it was, which had not happened to him since he was small. He knew only what he saw while it went on. The shaded lamp's flame stood up very straight and still in its glass. On the cloth the forty rows lay in its light, and the yellow stack, and the leaf in its sleeve at the end. Lira's hands were in her lap, one inside the other, and Brom did not reach for the kettle. Karis sat with her eyes going along the first row and back, along and back, the way they went along a shelf, and she did not reach for anything either.
 
 Seln's hands lay flat on the wood, and Cael watched them, and they did not move at all.
 
@@ -206,8 +204,6 @@ He turned it over. There was a slip pinned to the back, a narrow strip in the sa
 
 "*Observed nine weeks. Nothing to report.*"
 
-Nobody said anything.
-
 Karis took the second pair, and read the record, and Brom read the order. A station in the hill country, a boy. *Ash, first rank. Keeper's note: something of Stone in the frame; second family?* And the order: *Enter: Ash, Rank One. Margin reading not to be entered. Observe nine weeks.* And on the back, *Observed nine weeks. Nothing to report.*
 
 The third was a coastal station, a girl again. *Current, second rank at the frame. Keeper's note at the margin: reads into Wind, faint.* Enter: Current, Rank One.
@@ -222,7 +218,7 @@ Lira had been very quiet all this while. She leaned forward on the bench, carefu
 
 "That is my sentence," said Seln.
 
-They all looked at him. He was still standing, with his hands flat on the table. He said it in the voice he used at the counter.
+They all looked at him. He was still standing, with his hands on the table. He said it in the voice he used at the counter.
 
 "*Nothing to report.* I have written it every week for fifteen years. On the bottom of every return, in that hand." He did not look at the slip. "It is a true sentence. When there is nothing, that is what you write. It is the commonest line in the service."
 
@@ -232,7 +228,7 @@ He had been kept by that sentence. He knew it as surely as he knew the ribs. Two
 
 The same words. One set had kept him, and the other had buried her.
 
-He did not say that either. He put his hand on the edge of the table, and Lira, without looking at him, put her own hand over it for a moment and took it away.
+He did not say that either. He put his hand on the edge of the table, and Lira, without looking at him, put her own hand over it and took it away.
 
 They read eleven more pairs before anybody stopped.
 
@@ -246,7 +242,7 @@ There was something folded behind it, under the clip. A sheet folded small, in q
 
 Lira put out her hand.
 
-Karis looked at her a moment, and gave it to her. Lira unfolded the outer sheet on her knee and smoothed it flat with the side of her hand. It was Seln's copying hand again, but the copying hand had done something Cael had never seen it do: it had kept the shape of another man's writing inside its own. The lines ran uphill and the capitals were too large. The spelling was a careful man's spelling, a man who wrote seldom and had looked up the hard words.
+Karis looked at her a moment, and gave it to her. Lira unfolded the outer sheet on her knee and smoothed it with the side of her hand. It was Seln's copying hand again, but the copying hand had done something Cael had never seen it do: it had kept the shape of another man's writing inside its own. The lines ran uphill and the capitals were too large. The spelling was a careful man's spelling, a man who wrote seldom and had looked up the hard words.
 
 Lira read it aloud.
 
@@ -290,4 +286,4 @@ Seln took his hands off the table at last. He looked at the two sheets lying on 
 
 "That is the only letter," he said. "In forty. I copied it because it was the only one. I have read it more often than anything else in the case."
 
-Lira nodded. She folded the father's letter in quarters along its old folds and put the clerk's inside it, the way it had been, and slid them both back under the clip of the twenty-third pair, and squared the pair with the side of her finger to the one beside it.
+Lira nodded. She folded the father's letter in quarters along its old folds and put the clerk's inside it, the way it had been, and slid them both back under the clip of the twenty-third pair, and laid the pair in its place in the row.

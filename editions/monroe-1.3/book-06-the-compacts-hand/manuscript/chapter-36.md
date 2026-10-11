@@ -14,7 +14,7 @@ It was an evaluator in the east, on a station circuit, about a young man of a ca
 
 There were twenty-three. She read every one, and she read the stamp at the foot of every one, and after the sixth she stopped reading the stamp aloud because everybody in the room could say it with her. A woman in the hill country whose Stone came up too heavy for its column. A ferryman's boy whose Current had something of Wind in it that his station had not written down. A girl at a guild hall in the south who did everything her Path said she should, the evaluator wrote, only as if she were older than her paper. Each report saw the same thing and asked for the same thing, and each came back stamped the same way. *Read against file. Enter at file.* Some carried *Continue observation* under the stamp in the evaluator's own hand, and some carried nothing, and one carried a single line that Karis read twice before she read it out: *Noted, and I do not like it.*
 
-When she had finished she squared the twenty-three together and laid her hand flat on top of them.
+When she had finished she gathered the twenty-three together and laid her hand on top of them.
 
 "Down," she said, "every one. Where the file and the floor disagreed, the floor was corrected to the file, and never the other way."
 
@@ -24,7 +24,7 @@ When she had finished she squared the twenty-three together and laid her hand fl
 
 "No," said Seln.
 
-Cael sat on the bench and looked at the squared bundle under her hand.
+Cael sat on the bench and looked at the bundle under her hand.
 
 He had spent all year writing himself down. Every Fifth-day in wing three he had stood in front of three cards and fought at a rate the house had chosen for him, a smaller man than the one he was, entered in the house's book at a figure that breathed and never rose. He had paid for it every week and called it a cost. But he had chosen it. He had sat at a long table with the people who mattered to him and decided, in ink, how much of himself to show, and he could have stopped any Fifth-day he liked. None of the twenty-three had chosen anything. Somebody had looked at what they were and stamped the page to say they were something less, and they had never even been told there was a page.
 
@@ -44,7 +44,7 @@ Karis read the heading of the oldest aloud, and then the heading of the newest, 
 
 "How many?" said Lira.
 
-"Nineteen issues, reissued every ten years or so, by the look of the seals, when the officers changed or the paper did." Karis squared the stack. "Nineteen times somebody sat at a desk and had it set in type again, and signed it, and sent it to every station in the Compact."
+"Nineteen issues, reissued every ten years or so, by the look of the seals, when the officers changed or the paper did. Nineteen times somebody sat at a desk and had it set in type again, and signed it, and sent it to every station in the Compact."
 
 Brom had been looking at the stacks without reading anything. He had his good hand on the table and his chin down, and he spoke to the paper.
 
@@ -86,7 +86,7 @@ Seln moved for the first time since he had put his hands on the table. He went r
 
 "Everything else is my hand," he said. "The orders and the records and the reports I copied, at night, over five weeks. The memoranda were spares. The press held three or four of every issue and nobody had counted them in a generation, so I took one of each. This is the only thing in the case that someone else made." He took his finger off it. "A copy of it would have been worth nothing. Everything it says is in what it is."
 
-Karis's hands were already in her coat pockets. She carried thin cotton gloves there all through the cold term, for the founders' volumes on her top shelf, and she drew them out now and worked them on while she kept her eyes on Seln and not on the leaf, as if it would be rude to look at it bare-handed. Only when the second glove was on did she reach across and turn it a quarter toward the lamp by one corner.
+Karis's hands were already in her coat pockets. She carried thin cotton gloves there all through the cold term, for the founders' volumes on her top shelf, and she drew them out now and worked them on while she kept her eyes on Seln and not on the leaf, as if it would be rude to look at it bare-handed. Only when the second glove was on did she reach across and turn it toward the lamp by one corner.
 
 Cael could see it from the bench. It was small, smaller than any of the memoranda, a single leaf of a thick grey-brown paper that had a faint grain in it like cloth. The writing on it was not printed. It was ink, in a hand Cael had never seen, upright and very old-fashioned and very clear, with a heading and a short paragraph under it. There was no seal. At the foot there was a mark that might once have been a seal before something wore it away, or might never have been anything.
 
@@ -130,13 +130,11 @@ He did not sit down to say it, and he did not raise his voice. He stood at the m
 
 "The registry corrects them. At Kindling, when the station reads them. Downward, by a form, for as long as it has had paper to write the form on. That is what I have carried."
 
-Nobody said anything.
-
 He did not say it again. Nobody in the room said it again that night, in those words or any others. It lay on the table among the paper, said once, and nobody touched it.
 
 Cael watched them hold it.
 
-Lira's hands had come together in her lap, one inside the other, and stayed there. Karis had not taken her gloves off. She sat with them resting on the cloth either side of the leaf, as if she had forgotten they were on. Brom's good hand had gone, very slowly, to the left side of his coat, and lay flat over the inside pocket where the summons was, and the docket, and the letter from Velmere that he had carried sealed since the forty-fifth day. He did not take anything out. He only kept his hand there, the way a man puts his hand on a wall in the dark.
+Lira's hands had come together in her lap, one inside the other, and stayed there. Karis had not taken her gloves off. She sat with them resting on the cloth either side of the leaf, as if she had forgotten they were on. Brom's good hand had gone, very slowly, to the left side of his coat, and lay over the inside pocket where the summons was, and the docket, and the letter from Velmere that he had carried sealed since the forty-fifth day. He did not take anything out. He only kept his hand there, the way a man puts his hand on a wall in the dark.
 
 Seln's hands were flat on the table, as they had been all night.
 
@@ -154,7 +152,7 @@ Brom nodded slowly, as if that were an answer, and it was.
 
 "Where?" said Lira.
 
-"My fourth posting, twelve years ago." Seln put one hand back on the table, flat, as if the wood steadied him. "A district seat in an old building, a records room on its top floor with presses round the walls, the kind with doors. I was looking for a subject's travel endorsements. They were filed where they should not have been, so I opened presses until I found them, and in the fourth press I found these." He moved his eyes over the rows. "The orders were in bound runs, a few years to a volume, with the records bundled behind them, and the memoranda on the bottom shelf in a box. And at the back of the box, loose, under the oldest, that." He did not look at the leaf. "Nobody had opened the press in years; the dust said so."
+"My fourth posting, twelve years ago." Seln put one hand back on the table, as if the wood steadied him. "A district seat in an old building, a records room on its top floor with presses round the walls, the kind with doors. I was looking for a subject's travel endorsements. They were filed where they should not have been, so I opened presses until I found them, and in the fourth press I found these." He moved his eyes over the rows. "The orders were in bound runs, a few years to a volume, with the records bundled behind them, and the memoranda on the bottom shelf in a box. And at the back of the box, loose, under the oldest, that." He did not look at the leaf. "Nobody had opened the press in years; the dust said so."
 
 "And you copied it," said Karis.
 
@@ -176,7 +174,7 @@ Lira was looking at him with her chin on her fist.
 
 "Two years on this hill," said Lira.
 
-She said it the way she said a figure to a panel, flat and exact, and she did not take her eyes off Seln while she said it.
+She said it the way she said a figure to a panel, plain and exact, and she did not take her eyes off Seln while she said it.
 
 "Two years at that counter, and 'Mm,' and your cup turned a quarter on every table. Floor schedules on three doors in that hand, every week, so neat nobody's ever read one twice. Pleasant to every first-year who couldn't fill in a sheet, and to every Magister who wanted a room, and to me, the first week, when I didn't know where the east hall was and you walked me half across the court to show me." She took her chin off her fist. "With that on a shelf over your head the whole time, behind you, where you could feel it." She was quiet a moment. "I'd like to know what that cost, being pleasant."
 
@@ -190,7 +188,7 @@ Karis had taken her gloves off and laid them side by side on the cloth beside th
 
 "You said it sat a little above where it should have, the orders. But they're correct. I've read fourteen tonight, and every one is right: every date agrees with its record, every station is named the way the station names itself, every clip is on the right pair." She frowned at the rows. "There isn't a slip in them anywhere. How did a junior on his fourth posting look at paper that was correct in every particular and know it was wrong?"
 
-Seln did not look up from the orders. "My mother's ledger was always right."
+"My mother's ledger was always right," said Seln.
 
 Nobody understood him, and he saw it, and he went on, which he did not often do.
 
@@ -226,9 +224,9 @@ Seln was buttoning his coat.
 
 Seln stopped with his hand on the third button.
 
-"Will you sit down." Cael found that his voice was steadier than he had expected. "It's my turn to put something on the table."
+"Will you sit down." His voice was steadier than he had expected. "It's my turn to put something on the table."
 
-Nobody in the room moved for a moment. Then Lira let go of the bench and sat back down on it, slowly, and put her right foot out straight again in front of her. Karis took her hand away from the lamp. Brom looked at Cael for a long time, and then he lowered himself back into the chair by the shelf without a word, and reached over with his good hand, and turned the kettle's little blue flame up again under the pot.
+Lira let go of the bench first and sat back down on it, slowly, and put her right foot out straight again in front of her. Karis took her hand away from the lamp. Brom looked at Cael for a long time, and then he lowered himself back into the chair by the shelf without a word, and reached over with his good hand, and turned the kettle's little blue flame up again under the pot.
 
 They all knew what he meant. They had known since a back room in Norhold on the night before the final, when Lira had told him to cost the seal out loud, and he had.
 

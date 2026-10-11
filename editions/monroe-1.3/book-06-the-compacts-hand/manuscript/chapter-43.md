@@ -50,7 +50,7 @@ Blue.
 
 "One each," said the clerk.
 
-At the far rail the Force unfolded his arms and folded them again the other way. Rooke wrote something on his board. Cael let out a breath he had not known he was holding, and Lira, walking back, opened and shut her taped hands twice, quickly, the way she did when she was pleased with herself and did not mean to show it.
+At the far rail the Force unfolded his arms and folded them again the other way. Rooke wrote something on his board. Cael let out a breath he had not known he was holding, and Lira, walking back, opened and shut her taped hands twice, quickly, pleased and not meaning to show it.
 
 She had one burst left, and two exchanges to spend it in.
 
@@ -66,7 +66,7 @@ She shifted to the left to reach. It took as long as a blink. The Current girl g
 
 No flag.
 
-It was the Current girl who found it. Cael saw her find it. She stood at the north chalk before the fourth with her hands loose and her head a little on one side, looking not at Lira's face or her shoulders but at her feet, as a person looks at a sum on a slate that has come out the same three times. Then her eyes went, once, to a place on the boards to the left of where Lira was standing.
+It was the Current girl who found it. Cael saw her find it. She stood at the north chalk before the fourth with her hands loose and her head a little on one side, with her eyes on Lira's feet, as if they were a sum on a slate that had come out the same three times. Then her eyes went, once, to a place on the boards to the left of where Lira was standing.
 
 He could have called out. He kept his hands in his coat.
 
@@ -92,7 +92,7 @@ She was breathing hard, with both hands on her knees, and she straightened up an
 
 "She wasn't," said Rooke.
 
-He had got up at last, and he came across the painted floor with his board, and stopped in front of Lira, and looked at her feet for some time.
+He had got up at last, and he came across the painted floor with his board, and stopped in front of Lira, and looked at her feet.
 
 "Three bursts," he said. "And a walk. I counted seven landings that mattered. Every one of them on the left." He turned the board round so that she could see it. He had ruled a line down the middle of it and made his marks on one side only. "The healer passed that foot a fortnight ago. I passed it on the First-day. It's sound. I'd put the Force on it." He turned the board back. "Your foot's mended. Your head hasn't heard."
 
@@ -132,7 +132,7 @@ Lira had forgotten that until she let herself into the east hall after the tenth
 
 Then she felt foolish, because he was not there to need it, and shut it behind her.
 
-She hung the lantern on the hook by the rail and sat down on the bench under it to take off her boots. She did the left first and then the right, and when the right was off she held the foot in both hands for a moment and looked at it by the lantern. It was a foot. The swelling had gone out of it weeks ago, and the yellow after the swelling. She pressed her thumb into the hollow under the ankle bone, hard, where the healer had pressed, and it did not hurt at all, not even the ghost of a hurt.
+She hung the lantern on the hook by the rail and sat down on the bench under it to take off her boots. She did the left first and then the right, and when the right was off she held the foot in both hands and looked at it by the lantern. It was a foot. The swelling had gone out of it weeks ago, and the yellow after the swelling. She pressed her thumb into the hollow under the ankle bone, hard, where the healer had pressed, and it did not hurt at all, not even the ghost of a hurt.
 
 That was the trouble. If it had hurt, she would have known what she was fighting.
 
@@ -188,11 +188,11 @@ She read it over. It was all true, and it did not make her feel any better, and 
 
 She did not get up at once.
 
-The lantern hissed, and up in the dark of the gallery something small moved along the rail and was still. She sat with the book on her knee and her bare right foot flat on the cold boards, on purpose, and let herself think about the sheet.
+The lantern hissed, and up in the dark of the gallery something small moved along the rail and was still. She sat with the book on her knee and her bare right foot planted on the cold boards, on purpose, and let herself think about the sheet.
 
 Four losses. Rooke would send her program sheet down to the district seat with the meet record, when the time came, and a clerk at a counter would lay the two side by side. On one, a figure of twenty-seven against a Silver of eleven years' standing. On the other, *Not fought. Not fought. Not fought.* and a red flag from a girl three ranks up who was her friend. The clerk would not know about a ditch. There was no column on the sheet for ditches.
 
-She found that she minded. That surprised her a little. She had thought, after the reading room, after the forty pairs and the father's letter that she had read aloud in her own voice, that she would never again be able to care what a clerk at a counter laid beside what. She knew what the counter was. She knew what sat behind every certificate in the wing's drawer, her own among them, three lines in a hand she had never seen.
+She minded. That surprised her a little. She had thought, after the reading room, after the forty pairs and the father's letter that she had read aloud in her own voice, that she would never again be able to care what a clerk at a counter laid beside what. She knew what the counter was. She knew what sat behind every certificate in the wing's drawer, her own among them, three lines in a hand she had never seen.
 
 She had wondered about that, once. Only once, on the second night, on the stair. What had the keeper read on her, before anybody wrote it down? She remembered a brass plate, and cold fingers turning her by the shoulder, and being told to stand still. She did not remember anybody saying a word she could use.
 
@@ -228,9 +228,9 @@ The hill filled up again on the First-day.
 
 Cael watched it from the north wall, as he had watched it empty. The carts came up the switchbacks in the grey morning with the trunks swaying, and the ferry crossed full and went back empty, and at the foot of the road the coats stood against the chandler's wall and counted up what they had counted down. By the second bell the outer court was loud. By the third somebody was shouting for somebody from a window, and he could no longer hear the fountain.
 
-He found that he was sorry about the fountain.
+He was sorry about the fountain.
 
-There was a floor sheet for him at the wing's counter, the first in fourteen days, and the desk clerk pushed it across without looking up. *Fourth-day, wing three. Supervised, per provision.* Under it, in the same hand, a line he had not seen on a sheet since before the recess: *Fifth-day: the seat. Excused all floors.*
+There was a floor sheet for him at the wing's counter, the first in fourteen days, and the desk clerk pushed it across. *Fourth-day, wing three. Supervised, per provision.* Under it, in the same hand, a line he had not seen on a sheet since before the recess: *Fifth-day: the seat. Excused all floors.*
 
 He folded it and put it in his coat, and went up to his room, and took Hesk's book out of the satchel.
 

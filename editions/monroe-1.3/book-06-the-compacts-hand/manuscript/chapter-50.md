@@ -52,7 +52,7 @@ Cael came out onto the gallery with the satchel on his shoulder and looked down.
 
 Brom stood under the platen.
 
-He had his coat off and his feet set and his forearms crossed above his head, the right over the left, and the platen rested on them. Lira was at the capstan with both hands on a bar and her heels dug in, walking it round a quarter turn at a time. With every quarter the black timber came down a finger's breadth, and Brom took it.
+He had his coat off and his feet set and his forearms crossed above his head, the right over the left, and the platen rested on them. Lira was at the capstan with both hands on a bar and her heels dug in, walking it round a step at a time. With every step the black timber came down a finger's breadth, and Brom took it.
 
 "More," said Brom.
 
@@ -104,7 +104,7 @@ Lira stopped swinging her feet.
 
 "Ask me after the Fifth-day."
 
-Neither of them said anything more. Brom pumped water over his forearms, and Lira jumped down and went to look at the screw's thread, and after a while she asked him how you would grease a thing like that, and he told her.
+Brom pumped water over his forearms, and Lira jumped down and went to look at the screw's thread, and after a while she asked him how you would grease a thing like that, and he told her.
 
 On the gallery Cael stood with his hand on the satchel's new strap.
 
@@ -126,13 +126,13 @@ It was three leaves. She had written it at the parlour's long table in the morni
 
 "I know it won't. Don't say it; you said it on the floor, and I only needed it once." She was not cross. "It's inert. It goes in under my name and it sits there. But the count's true, and nobody else was going to make it, and I didn't like the seat to rule without having been told."
 
-The seat's office was a hatch in the exchange's side passage, with a brass grille and a shelf. The junior chair sat behind it. Cael had never seen the man so close. He was a man with a careful face and a clerk's stoop, and he took the three leaves from Karis without lifting his eyes above her hands. He counted them and looked at the signature and entered them in a book against the hour. He wrote a receipt in a plain square hand, and tore it at the rule, and slid it under the grille.
+The seat's office was a hatch in the exchange's side passage, with a brass grille and a shelf. The junior chair sat behind it. Cael had never seen the man so close. He was a man with a careful face and a clerk's stoop, and he took the three leaves from Karis without lifting his eyes above her hands. He counted them and looked at the signature and entered them in a book against the hour. He wrote a receipt in a plain hand, and tore it at the rule, and slid it under the grille.
 
 "Received," he said. "It will be before the seat."
 
 "Thank you," said Karis.
 
-His right hand was opening and closing a little, under the shelf, as if it ached. He did not look up at either of them, and after a moment he drew the next thing in his tray toward him.
+His right hand was opening and closing a little, under the shelf, as if it ached. He drew the next thing in his tray toward him.
 
 In the lane Karis folded the receipt into the wallet's back pocket, with all the others.
 
@@ -144,7 +144,7 @@ On the third day he walked north.
 
 He was within his rights. The counsel had drawn the bound for him on a scrap of paper at breakfast: the bridge, the wharf, the east gate, and on the north road the toll-bar, beyond which a man could no longer be said to hear the bell. Inside that line he might go where he liked. He said where he was going to Brom, who nodded, and to Bracken, who wrote it down.
 
-The coat came with him. It was the one from the upper window, the older of the pair, a grey patient man with a walking stick he did not need. He followed at forty yards, in plain sight, down the middle of the street, as Seln had taught four people in an orchard to walk when they wished to be written down as what they were. Cael found that he did not mind it. They had been walking the same roads for a long time.
+The coat came with him. It was the one from the upper window, the older of the pair, a grey patient man with a walking stick he did not need. He followed at forty yards, in plain sight, down the middle of the street, as Seln had taught four people in an orchard to walk when they wished to be written down as what they were. Cael did not mind it. They had been walking the same roads for a long time.
 
 The north road left the town between tanyards and came out among garden plots and low walls. A little short of the toll-bar, on the left, stood the district station.
 
@@ -170,7 +170,7 @@ The door opened.
 
 The district officer who came out was a stout, fair, unhurried man in registry grey with his sleeves turned back, and he had a board in his hand. He looked at the bench and smiled. It was a real smile. He said a name that Cael was too far off to catch, and then something else, and the girl laughed in spite of herself and stood up.
 
-The mother stood too, and was told, kindly, by a hand held out flat, that she was to wait. She sat down again. The girl went in under the sigil with her crown of braids, and the officer held the door for her as he might have held it for his own daughter.
+The mother stood too, and was told, kindly, by a hand held out, that she was to wait. She sat down again. The girl went in under the sigil with her crown of braids, and the officer held the door for her as he might have held it for his own daughter.
 
 The new thing in Cael lifted its head. It always did, at a threshold, and this was more of a threshold than most. *There?*
 
@@ -204,7 +204,7 @@ That night, at the window, with the cupola dark against the sky and the bell qui
 
 *Third-day. The district station, the north road. A girl of fourteen. Her mother had done her hair.*
 
-He looked at it, and then blotted it and shut the book. He had not written a shorter entry all term, and he did not add to it.
+He blotted it and shut the book. He had not written a shorter entry all term.
 
 ---
 
@@ -264,7 +264,7 @@ She sat down, and set the file at its angle.
 
 Cael looked up at the clock over the doors. Six minutes.
 
-He sat with his hands flat on the wood, and they were quite steady, and he was glad of that.
+His hands on the wood were quite steady, and he was glad of that.
 
 *Designation predates file creation.*
 
@@ -284,7 +284,7 @@ Jent rose. He looked, for the first time in a year, a little tired.
 
 The counsel stood. "None," she said, and sat.
 
-That was all. The clerk shut his book.
+The clerk shut his book.
 
 On the steps, in the empty street, Karis stopped with the deal board against her chest. She had the whole of it, in pencil, in seventeen lines, and she was looking at the eleventh.
 

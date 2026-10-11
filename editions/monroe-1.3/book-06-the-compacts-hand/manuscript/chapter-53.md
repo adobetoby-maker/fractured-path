@@ -34,7 +34,7 @@ He looked at her. He had seen her through two panes of glass, on the first eveni
 
 "It is five days. An officer will ride up to my gate with the notice tomorrow, or the day after, and it will be addressed as the last one was: to the chancellor, to produce the enrollee. You will still be mine on that day, for the revocation does not bite until its close." She looked down at the four lines. "I read an order aloud at that gate once and declined it, because nobody could tell me whose it was. This one would be a seat's, and I could not decline it. I should have to walk you into that frame-house myself, under the house's seal, or else refuse a seat in writing and let them enter the refusal in my folder."
 
-Five weeks had become five days. He heard the sentence in his head in the log voice, flat, and knew that he would write it down.
+Five weeks had become five days. He heard the sentence in his head in the log voice, and knew that he would write it down.
 
 "The counsel showed you this on the First-day," he said.
 
@@ -56,7 +56,7 @@ He did not tell her that he wouldn't, for it was true.
 
 "I know. I watched you count it. But you put it there yourself, and I did not. That is the whole of the difference, and it is the only thing I have had to give you this year that was worth anything."
 
-He found that he could not answer. He had been keeping the largest thing he knew from her for half a year, and it had sat between them like a lie in every room; she had kept a thing from him for four days, and he saw now which of the two silences had been the kinder.
+He could not answer. He had been keeping the largest thing he knew from her for half a year, and it had sat between them like a lie in every room; she had kept a thing from him for four days, and he saw now which of the two silences had been the kinder.
 
 ---
 
@@ -152,7 +152,7 @@ She had put her hand up second.
 
 It was the first room she had ever left that she would miss, and she thought that was probably what it was to have been given something.
 
-The red book lay on Rooke's table, where it always lay. There was a word in it under her name; he had written it on the day of the Blade, and then a second, and she had never seen either. She stood over the book in the dark with her hand flat on its cover, and did not open it. It was his, and whatever he had written, he had written of the program's entrant. She would tell him tomorrow, after the bout, in one sentence, to his face, for she owed him that much and he would want no more. If he chose to show her the page then, he would.
+The red book lay on Rooke's table, where it always lay. There was a word in it under her name; he had written it on the day of the Blade, and then a second, and she had never seen either. She stood over the book in the dark with her hand on its cover, and did not open it. It was his, and whatever he had written, he had written of the program's entrant. She would tell him tomorrow, after the bout, in one sentence, to his face, for she owed him that much and he would want no more. If he chose to show her the page then, he would.
 
 She laid the key on the red book, and then took it up again. Not yet. There was one morning left before the key went back, and she meant to drill in it.
 
@@ -168,7 +168,7 @@ Lira stood with the book in her hands.
 
 She had known what he could do since Ardenmere, when she was fifteen. She had never once thought of it as a thing taken from her; it had come out of him, and it was hers too, and she had been glad. But she had known. Nobody had ever kept it from her.
 
-The captain was going to stand on the oak tomorrow and be given the truest fight of his life, and one true thing would be kept back from him for as long as he lived. He had asked for the measurement, and he would get a great deal of it. She found that she minded for him, more than she had expected to; he had turned his back on a table of papers for her friend's sake on a birthday, and gone down a stair whistling.
+The captain was going to stand on the oak tomorrow and be given the truest fight of his life, and one true thing would be kept back from him for as long as he lived. He had asked for the measurement, and he would get a great deal of it. She minded for him, more than she had expected to; he had turned his back on a table of papers for her friend's sake on a birthday, and gone down a stair whistling.
 
 And she saw that Cael minded more than she did. He had written it down as a cost, at full weight, in ink, before he could be tempted to call it something else. That was the rule working, and it was what the rule was for.
 
@@ -178,7 +178,7 @@ She took the pen from where it had rolled against the clock. Under Brom's barred
 
 She slid the book back under his elbow and turned the lamp down to save the oil.
 
-At the end of the corridor a window looked north over the roofs, and from it you could see the Crown yard, a black pit with a pale floor, and she stopped there because there was a light in it. A lantern stood on the faculty stand. By it she could make out the porter's ladder against the first of the four boards, and a short square man on the third rung with his sleeve rolled, writing with a lump of chalk.
+At the end of the corridor a window looked north over the roofs, and from it you could see the Crown yard, a black pit with a pale floor, and she stopped there because there was a light in it. A lantern stood on the faculty stand. By it she could make out the porter's ladder against the first of the four boards, and a short broad man on the third rung with his sleeve rolled, writing with a lump of chalk.
 
 He wrote for a long time, for a man who used one word.
 
@@ -210,7 +210,7 @@ The lodge-man had his book out on a trestle under the arch and was making every 
 
 Two men in travelling coats came up among the rest, and waited their turn at the trestle like anybody, and took the pen, and wrote. Cael was too far off to see what they put. They did not look up at the wall, and one of them had a walking stick he did not need.
 
-He had no line to read at his chalk today, and he found that strange. For a year and more he had read one before every bout: what to take late, and what to give, and the figure it was meant to buy. He had the rotation's book in his coat from habit, and at the north wall he took it out and opened it at the day.
+He had no line to read at his chalk today, and it was strange. For a year and more he had read one before every bout: what to take late, and what to give, and the figure it was meant to buy. He had the rotation's book in his coat from habit, and at the north wall he took it out and opened it at the day.
 
 *Sixth-day. The Crown yard. Ephram. All of it.*
 

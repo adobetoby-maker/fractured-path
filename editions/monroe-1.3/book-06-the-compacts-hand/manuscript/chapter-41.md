@@ -14,7 +14,7 @@ It took them until the light was going, a slow line down the switchbacks with th
 
 Four of the forty-one had signed their slips together, at the wing's counter, that morning before they went down.
 
-The slips were the house's ordinary form for the recess, half a sheet, with a printed line for the enrollee's name and a printed line under it that said *Remaining in residence. Reason:*. Lira had written *the program*, and Brom *the frames*, and Karis had written *research standing, per council*, in her small upright hand, with the date of the council's sitting after it, because she could not leave a reason uncited. Cael had stood at the counter with the pen for a while and then written *the proceedings*.
+The slips were the house's ordinary form for the recess, half a sheet, with a printed line for the enrollee's name and a printed line under it that said *Remaining in residence. Reason:*. Lira had written *the program*, and Brom *the frames*, and Karis had written *research standing, per council*, in her small upright hand, with the date of the council's sitting after it, because she could not leave a reason uncited. Cael had stood at the counter with the pen, and then written *the proceedings*.
 
 It was the plainest reason of the four. Since the year's eighth day the registry had had a petition before its seat in the town below, asking that he be stood in a frame and read again. If the frame could not read him, the code had a chapter for that: his enrollment struck out, and after it, a letter at a time, everything else with his name on it. And a respondent who left the hill while the thing was pending would be entered as fled, with a note on three friends' files to say whose friends they were.
 
@@ -22,7 +22,7 @@ Seln had taken the slip from him across the counter, and read the one line, and 
 
 "Mm," he had said, and put it with the others.
 
-That was all. Nobody had asked the four of them whether they would go home for the recess, and nobody had needed to. The fifth was staff, and had no slip to sign.
+Nobody had needed to ask the four of them whether they would go home for the recess. The fifth was staff, and had no slip to sign.
 
 Lira came out along the wall while the last carts were still on the upper switchback, walking at the careful pace she had kept all week, and sat down on the coping beside him with her right foot out along the stone. She had come up from the town on the program's market cart with the tape and the chalk, three hours before him, and she had plainly been waiting to see him come.
 
@@ -34,13 +34,13 @@ Lira came out along the wall while the last carts were still on the upper switch
 
 "Nobody looked at me at all. They were counting trunks."
 
-"Good." She watched the carts for a while. "He never looked at you either. Two hours in that room, and he looked at everybody else exactly as long as he looked at the stove. I timed it. He was doing it on purpose, and it was the kindest thing I've ever seen anybody do with their eyes."
+"Good." She watched the carts. "He never looked at you either. Two hours in that room, and he looked at everybody else exactly as long as he looked at the stove. I timed it. He was doing it on purpose, and it was the kindest thing I've ever seen anybody do with their eyes."
 
 "I know."
 
 "Six," said Lira, to the valley, as if she were trying the number on. "Six people carrying one thing. I've only ever kept a secret among three before, and I thought three was a lot." She got up, with her hand on the buttress. "I'm going in. It's wet, and I'm not allowed to be heroic about anything until Rooke says."
 
-When the last cart had gone down he took Hesk's book out of the satchel and opened it on his knee in the last of the light. He did not write anything about Ostrand at first, but sat with the pen over the page for a long time and thought about what could go in a book and what could not.
+When the last cart had gone down he took Hesk's book out of the satchel and opened it on his knee in the last of the light. He did not write anything about Ostrand at first, but sat with the pen over the page and thought about what could go in a book and what could not.
 
 Then he wrote three lines.
 
@@ -60,7 +60,7 @@ In his room, Hesk's clock on the shelf said ten minutes short of the eighth bell
 
 The hill was a different place with nobody on it.
 
-He found that out on the First-day morning, crossing the outer court to the refectory, when the fountain went up and came down and he could hear it do both. On an ordinary morning you could not hear the fountain at all; there were too many boots on the flags and too many voices under the covered walk, and somebody always shouting for somebody from a window. This morning there was the fountain, and the wind coming over the north wall off the river, and a pigeon on the lodge roof saying the same thing over and over, and nothing else.
+He learned it on the First-day morning, crossing the outer court to the refectory, when the fountain went up and came down and he could hear it do both. On an ordinary morning you could not hear the fountain at all; there were too many boots on the flags and too many voices under the covered walk, and somebody always shouting for somebody from a window. This morning there was the fountain, and the wind coming over the north wall off the river, and a pigeon on the lodge roof saying the same thing over and over, and nothing else.
 
 The refectory had one table lit, for the cooks had put all forty-one of the house's remaining enrollees at the long table nearest the kitchen door, so that they would only have to carry the porridge one way, and the rest of the hall stood empty under its high windows with the benches turned up on the boards. The forty-one sat close together at their one table, as people do in a big room, and talked in low voices.
 
@@ -78,7 +78,7 @@ Cael had not known Ephram was staying.
 
 "Somebody has to keep the frames honest," said Ephram, when he asked. "The springs go if nobody works them for a fortnight. I've seen it." He wiped his bowl with his bread. "Also I like the hill better with nobody on it. Don't tell the cohort."
 
-Brom looked at his own bowl and said nothing. His left hand had gone to his coat, flat, over the inside pocket, the way it went a dozen times a day, and Cael did not think he knew it had.
+Brom looked at his own bowl. His left hand had gone to his coat, over the inside pocket, the way it went a dozen times a day, and Cael did not think he knew it had.
 
 After the meal Cael went to the wing, from habit, and found the counter shut and Seln at the copying table behind it anyway, with the lamp lit and a ledger open, copying.
 
@@ -120,7 +120,7 @@ There was nothing in it, and that was what Hesk's letters were for: a buckle and
 
 He got out paper and wrote back the same afternoon, before he could think better of it. He told Hesk that the hill was empty, and described the refectory's one table and the fountain you could hear, and Brom and the captain at the frames, keeping the springs honest. He wrote that Lira's ankle was mending, and that it rained most days, and that Karis had read the whole of a code volume over her breakfast without spilling a drop on it, which Hesk would think was the most remarkable thing in the letter.
 
-He did not write anything he could not have read aloud to the coats at the foot of the road, and he found, when he had finished, that it was a long letter all the same.
+He did not write anything he could not have read aloud to the coats at the foot of the road, and when he had finished it was a long letter all the same.
 
 He took it down to the post room himself and gave it to Seln for Bracken's pouch, and Seln read the direction.
 
@@ -132,7 +132,7 @@ The argument came on the Fourth-day night, in the reading room, and it was the f
 
 It began with paper, as most things in that room did. Karis had cleared the cloth at the table's near end and laid out on it, in rows, a set of slips in her small upright hand. Each slip was a heading, and under each heading was a column of citations in pencil, and at the top of the first row, on a slip by itself, she had written *If leave is given.*
 
-"The second paragraph," she said, before anybody asked. "*Of the seat's hearing, and who may be heard.* The advocate of record heard at the close, by the seat's leave. The house's counsel thinks the seat will give it, if it's asked properly and early." She squared the first row with the side of her hand. "So I'm writing a closing. In bones, for now. The flesh after."
+"The second paragraph," she said, before anybody asked. "*Of the seat's hearing, and who may be heard.* The advocate of record heard at the close, by the seat's leave. The house's counsel thinks the seat will give it, if it's asked properly and early." She ran her finger down the first row. "So I'm writing a closing. In bones, for now. The flesh after."
 
 Lira was in the window seat with her right foot up on the cushion and Rooke's red book on her knee. She had been reading the book, or looking at it, and now she looked at the slips.
 
@@ -158,15 +158,13 @@ They looked at him.
 
 "The district's confirmation. *Outcome anticipated: advancement, per title.* I used to take it out at night and read it." He did not take it out now. "It's a clerk's round hand. It's a good sheet. It says three assessors and a sigil frame will find me an Iron, and they will. And I look at it now and all I can see is a form." He rubbed his thumb along his knee. "It's not that I think it's false. I think it's true. I just can't see it anymore without seeing the drawer it'll go in."
 
-Nobody answered him for a moment.
-
 "That is what knowing costs," said Seln.
 
 He was at the middle of the far side, where he always sat, with his hands flat and his cup turned, and he had not said anything all evening.
 
 "I filed true returns for fifteen years," he said, "knowing what they were for. Every word of every one of them was right. You get used to it." He moved one finger on the cloth. "You should not."
 
-Cael had been sitting on the end of the bench under the lamp with the satchel on his knees. He had not meant to say anything; he had meant to listen, and to let Karis and Lira have it out, because they would have it out more honestly without him. But the words had been in him since Ostrand, and since before Ostrand, since the stair after the four findings, and he found that they were coming whether he meant them to or not.
+Cael had been sitting on the end of the bench under the lamp with the satchel on his knees. He had not meant to say anything; he had meant to listen, and to let Karis and Lira have it out, because they would have it out more honestly without him. But the words had been in him since Ostrand, and since before Ostrand, since the stair after the four findings, and they were coming whether he meant them to or not.
 
 "I don't believe it anymore," he said.
 
@@ -190,7 +188,7 @@ Karis looked at him.
 
 Karis had gone quite still.
 
-"Then what am I writing?" she said. Her voice was very level. "If it isn't ground. If the closing is a speech to a floor somebody laid where they liked." She looked at her slips, and Cael saw that her pale fingers were pressed flat on the cloth. "I've built everything I am on paper being worth reading properly. You've just told me it isn't."
+"Then what am I writing?" she said. Her voice was very level. "If it isn't ground. If the closing is a speech to a floor somebody laid where they liked." She looked at her slips, and Cael saw that her pale fingers were pressed hard on the cloth. "I've built everything I am on paper being worth reading properly. You've just told me it isn't."
 
 "I didn't say that."
 
@@ -198,21 +196,19 @@ Karis had gone quite still.
 
 "I said I don't stand on it anymore." He held her eyes. "I didn't say it's not worth writing. They'll read your closing, and the minute will have it, and when they rule they'll rule against it in writing. That's not nothing. It's just not ground."
 
-She was quiet for a long moment.
-
 "No," she said at last. "It isn't nothing." She picked up the pencil. "All right. Then I'll write it as if it were ground. I'll write every line of it as if the seat could be moved by it, because that's the only way I know how to write a line." She drew a short straight line under *If leave is given*. "That's my cost. I'll pay it."
 
 "You'll hate it," said Lira.
 
-"I already hate it. I've hated it since the leaf." Karis did not look up from the slip. "I'm good at things I hate. Ask anybody who's seen me index."
+"I already hate it. I've hated it since the leaf. I'm good at things I hate. Ask anybody who's seen me index."
 
-Lira looked at her for a moment across the room, at the bent head and the hair coming down at the back and the pencil already moving again. Something went out of her shoulders that had been in them since she asked the question.
+Lira looked at her across the room, at the bent head and the hair coming down at the back and the pencil already moving again. Something went out of her shoulders that had been in them since she asked the question.
 
 "Then I'll climb as if it were a ladder," she said, and picked up Rooke's red book, and opened it at the page she had been on. "If you're going to be stubborn about it, I'm not going to be the only one in the room who isn't."
 
 Brom got up and lit the kettle. It took a long time, as it always did, and then it refused to boil, as it always did, and he stood over it with his hands on his hips and told it what he thought of it in a low voice, and Lira laughed, and the room let its breath go.
 
-Nobody had decided anything. Cael sat with the satchel on his knees and understood that nobody was going to, not tonight and not for a long while. It had only been said.
+Nothing had been decided. Karis's pencil went on down the first slip.
 
 ---
 
@@ -222,7 +218,7 @@ They had done it every Seventh-day since the inventory, and the recess did not c
 
 The road column was the last column on the page, kept since the year of the thieves on the order of the chancellor before last, one line at every bell, for whatever came up the bluff road or went down it. In term it ran to three or four entries a bell, and this week it ran to one or none. *Carter, flour. Post, the bag. None. None. The registrar's man, to town and back. None.*
 
-And at the foot of every day, in the lodge-man's square hand: *Two at the road foot, changed at the bell. Two at the landing.*
+And at the foot of every day, in the lodge-man's hand: *Two at the road foot, changed at the bell. Two at the landing.*
 
 "They have not thinned," said Seln.
 
@@ -234,7 +230,7 @@ And at the foot of every day, in the lodge-man's square hand: *Two at the road f
 
 "The same quiet. Read again." He closed the book and gave it back to the lodge-man through his window with a word of thanks. Then he walked with Cael out under the arch and along the outer wall, where the wind came up the bluff off the river, and spoke to the wall rather than to him. "They have not gone. They have stood down. There is a difference. A man who has gone has decided he was wrong. A man who has stood down has decided he does not need to do anything, because what he wants is coming to him by itself." He walked a little way. "The corridor is on schedule. Every sitting sits. Every form is filed. Nobody on this hill has put a foot wrong, and so nobody has to come up the road and make one."
 
-Cael walked beside him and said nothing. Below them, at the foot of the road, the two coats stood under the eaves of the chandler's warehouse with the wet coming off the roof in front of them in a bright line. One of them had a tin cup. They were older men than the pair who had stood there at the start of the year, grey at the temples, heavy in the shoulder, and they had the patience of men who had been told that the work was nearly over and needed only to be seen through.
+Cael walked beside him. Below them, at the foot of the road, the two coats stood under the eaves of the chandler's warehouse with the wet coming off the roof in front of them in a bright line. One of them had a tin cup. They were older men than the pair who had stood there at the start of the year, grey at the temples, heavy in the shoulder, and they had the patience of men who had been told that the work was nearly over and needed only to be seen through.
 
 "I would do the same," said Seln. "In their chair. I have done the same."
 
@@ -243,8 +239,6 @@ That night Cael wrote it in the book at his sill, under the lamp, in the log voi
 *Seventh-day of the recess's first week. The road column: none, none, the post, none. Four coats, senior, every bell. No third move. Seln's reading of the silence, unchanged: why spend a team when the seat will deliver him at the year's close.*
 
 *They aren't waiting for us to do something. They're waiting for us to do nothing, for a very long time, perfectly. So are we.*
-
-He looked at that last line for a while, and then he left it.
 
 When he had blotted it he went to the window. Across the dark court the wing's counter was shut, and behind it one lamp was burning at the copying table, as it burned every Seventh-day night of the year.
 

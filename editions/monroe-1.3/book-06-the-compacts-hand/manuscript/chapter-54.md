@@ -114,7 +114,7 @@ Then the bill came in, and everything Cael owned went slow.
 
 *One.* He tried to get down beside him and his knees bent a beat after he asked. *Two.* "Healer," Rooke was saying, in the same voice in which he had called the touch, and a spare grey woman was already off her bench and coming along the stand with her bag. *Three.* Somebody very large had come over the rim wall without troubling about the steps.
 
-"Don't move it," said Brom. He was on his knees on the oak with one hand flat between Ephram's shoulder blades. "I've had one out. It goes back. It goes back worse if you help."
+"Don't move it," said Brom. He was on his knees on the oak with one hand between Ephram's shoulder blades. "I've had one out. It goes back. It goes back worse if you help."
 
 "That's the door," said Ephram.
 
@@ -175,7 +175,7 @@ Rooke did not turn round. He was watching Brom and the healer get Ephram to his 
 
 "As chalked."
 
-The clerk looked up at the first board, at the two words Rooke had written there in the dark, and then he sat down at the long table and dipped his pen. He entered the bout twice in the house's book, once under each fighter, as a man does who has been told to get a thing down where nobody can rub it off.
+The clerk looked up at the first board, at the two words Rooke had written there in the dark, and then he sat down at the long table and dipped his pen. He entered the bout twice in the house's book, once under each fighter.
 
 Cael stood up, and his legs allowed it.
 
@@ -183,11 +183,11 @@ At the far end of the stand, Gault had not moved from beside his case. The magis
 
 He did not take out his small book. For once he did not seem to need to write a thing down in order to have it.
 
-He nodded. It was one small exact nod, the kind he gave a card that had been added right, and Cael nodded back, and found that he had to look somewhere else quickly.
+He nodded. It was one small exact nod, the kind he gave a card that had been added right, and Cael nodded back, and had to look somewhere else quickly.
 
-The yard was a great deal of noise. He had expected that, and had not expected the kinds. The Current girl was standing on her bench with both fists in the air and tears running down her face, and seemed not to know about the tears. The assistant had her hands over her mouth. Half of Ephram's cohort were over the rail and round him, and the porter stood by his pail with his cap in his hand, blowing his nose and speaking severely to the ground. Brom walked beside the healer with the captain's good arm across his shoulders, and his eyes were wet, and he did not wipe them; he had said once that a man who looks at a hurt only teaches it to be looked at.
+The yard was a great deal of noise. He had expected that, and had not expected the kinds. The Current girl was standing on her bench with both fists in the air and tears running down her face, and seemed not to know about the tears. The assistant had her hands over her mouth. Half of Ephram's cohort were over the rail and round him, and the porter stood by his pail with his cap in his hand, blowing his nose and speaking severely to the ground. Brom walked beside the healer with the captain's good arm across his shoulders, and his eyes were wet, and he did not wipe them.
 
-Karis was not crying. She was on her feet, clapping, with her pale fingers flat, and her face was the one she wore when a count came out.
+Karis was not crying. She was on her feet, clapping, and her face was the one she wore when a count came out.
 
 Lira was not crying either. She had her arms folded and her chin up, and she was looking round the tiers at twelve hundred faces, one after another. She had sat on a painted floor and told him she knew what their faces would do, and she seemed to be checking it.
 
@@ -203,7 +203,7 @@ He sat on the lowest step of the east flight while it did, because the healer ha
 
 "I don't strap those," said the healer, and went after her other patient.
 
-The town went first. It went up the tiers and out by the yard gate in a slow loud river, wool-factors and carters and clerks, and he heard his name in it, the registry's and the hill's, and a good many guesses, and let them go by. The lake house's Blade came down to the rim before he left and stood looking at the oak for some time with his lath across his shoulders; then he looked at Cael, and laughed, and shook his head, and went away.
+The town went first. It went up the tiers and out by the yard gate in a slow loud river, wool-factors and carters and clerks, and he heard his name in it, the registry's and the hill's, and a good many guesses, and let them go by. The lake house's Blade came down to the rim before he left and stood looking at the oak with his lath across his shoulders; then he looked at Cael, and laughed, and shook his head, and went away.
 
 The house went more slowly, for it did not seem to know how to leave. First-years stood about in knots on the tiers, re-fighting the fourth exchange with their hands. Nobody came down the steps to him, and that was Lira's doing, who had put herself at the head of the east flight with her arms folded.
 
@@ -213,17 +213,17 @@ She had not left the registrar's chair. She sat in it, upright, with her hands i
 
 She did not come to the steps. She looked at the oak, the whole length of it, as a woman looks at a room she has kept for a long time, and up at the first board, where four lines stood in a coach's capitals. Then she looked at Cael on his step, with his arm bound.
 
-Her face was not the registry face, and he did not know what it was. He thought that she had seen a thing on her own oak that explained two years of an enrollee looking ordinary, and that she was adding it, quite calmly, to the things she had decided not to ask about.
+Her face was not the registry face, and he did not know what it was.
 
 She inclined her head to him. It was not the registry's depth; it was a good deal less, and it was meant.
 
-Then she went out by the north arch, alone, and she was the last out of the yard.
+Then she went out by the north arch, alone.
 
 On the tier above him the Current girl had come back for a scarf. She stopped beside Lira, red-eyed and hoarse.
 
 "I've trained on this hill with him for two years," she said. "I've watched every wing-three card there was. I never saw one bit of that. Not one." She wiped her nose on her wrist. "Where's he been *keeping* it?"
 
-Lira did not answer the question. She looked down the steps at him, and then out over the empty oak.
+Lira looked down the steps at him, and then out over the empty oak.
 
 "That's the first time this school has ever seen him," she said.
 
@@ -243,9 +243,7 @@ Cael took the offered hand with his right, which was the only one he could close
 
 It was in him, new, housed for the moment where nothing else was, a thing with an edge and a rule to it. It had come out of the man in front of him an hour ago, and he could have said so in a dozen words. *There's something I took. You should know what you gave.*
 
-Ephram would have listened. He would have gone still, and thought about it, and very probably said that he was glad of that as well. But he had just said, of his own accord, that he did not need to know; he had turned his back on a table of papers twice, for a friend's sake, on the same understanding.
-
-And then he would have known. He would have been a cohort captain at a chartered house who knew what the registry's unclassified enrollee was, and what he had carried east, and he would have known it on the day a district officer rode up to the gate, and for every day after. He was staying. He had a board with his name on it, and they would come and ask him, courteously, what he had seen.
+Ephram would have listened. He would have gone still, and thought about it, and very probably said that he was glad of that as well. And then he would have known, on the day a district officer rode up to the gate, and for every day after. He was staying. He had a board with his name on it, and they would come and ask him, courteously, what he had seen.
 
 Cael did not say it.
 
@@ -271,7 +269,7 @@ He read it over once. *And it cost* was true of more than he had priced the nigh
 
 *Left forearm, wrist to elbow: the touch, and four more on the guard, the last to the bone or near it. Hip, crest to knee: ten on the oak, four past the six. Shoulder: six pushes at load, one past Norhold. Two lanes, ten and ten. Behind the eyes. One spark. Not the quiet thing; in a yard with twelve hundred people looking down it had nothing to offer and didn't. Not the one from the road.*
 
-He stopped at that, and looked at it, because it wanted its reason beside it, and the log had always been more honest than he was aloud.
+He stopped at that, because it wanted its reason beside it.
 
 It had lifted its head a dozen times in four exchanges. A heel going down on oak was the plainest thing to fix in all the world, and Ephram had put his heel down thirty times; one point under that boot, set and told to stay, would have ended the bout in the first exchange. *There?* it had asked, each time, in its courteous way. *His*, he had told it. *Leave it.*
 
@@ -289,7 +287,7 @@ He had stood under the gate with a bound arm and very nearly laughed. It had tak
 
 *Lintel*, he had told it. *It keeps the arch up. It isn't for cutting. Leave it.*
 
-It left it. He had felt it settle, in the place beside the other, as a second tool settles into a rack that somebody has already made room in. He supposed it would ask again. He supposed it would ask about every sill and step and table's edge between here and wherever they were going, for a day or two, and take names instead.
+It left it. He had felt it settle, in the place beside the other, as a second tool settles into a rack that somebody has already made room in. He supposed it would ask about every sill and step and table's edge between here and wherever they were going, for a day or two, and take names instead.
 
 He sat on at the rim.
 
@@ -299,7 +297,7 @@ He had come back from the pump by the covered walk, past the records hall.
 
 Its door had stood open, and the lamps were lit in pairs. Bracken was at his counter in his shirtsleeves, with all three pairs of glasses about him and a quire of printed forms at his elbow, on the registry's own stock, and Cael had been able to read their heading from the walk: *Withdrawal of an enrollee from a chartered house.* Bracken had counted four sheets off the quire and laid them in a row on the wood, under the lamp. He had squared each of them to the counter's edge with one finger, and then to its neighbour, and set the pen beside them.
 
-Four. He had not looked up. They were for morning.
+Four. They were for morning.
 
 Seln had looked round a reading room at the top of a library once, on the evening of a birthday, with six people in it and a honey cake. *It is a good room*, he had said. *I have been in a great many.*
 

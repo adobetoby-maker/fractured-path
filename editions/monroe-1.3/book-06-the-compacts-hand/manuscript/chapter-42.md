@@ -50,7 +50,7 @@ It was Brom who asked Seln, and he asked him at supper, at the one lit table, in
 
 Seln looked up from his bowl.
 
-"Fifteen years of being sent to places. You don't do that without walking between them." Brom turned his spoon over. "I've done one road in my life that wasn't in a coach, and I did it badly, and I had Lira's blisters to carry as well as my own. I'd like to do the next one better. Whenever it is, and wherever." He did not look at any of them. "Can it be taught?"
+"Fifteen years of being sent to places. You don't do that without walking between them." Brom turned his spoon over. "I've done one road in my life that wasn't in a coach, and I did it badly, and I had Lira's blisters to carry as well as my own. I'd like to do the next one better. Whenever it is, and wherever." He kept his eyes on the spoon. "Can it be taught?"
 
 "The trade cannot," said Seln. "Not here, and not by me." He set his own spoon down. "The road can. It is not a secret. Carters know it, and drovers, and anybody who has slept out in the rain twice and decided to be drier the third time." He considered. "Tomorrow, at the second bell after noon, in the lower orchard, if the weather holds. In coats."
 
@@ -66,7 +66,7 @@ So they went down to the lower orchard on the Second-day, in coats.
 
 The house's farm lay on the back of the bluff, on the long south slope away from the river, where the wind was less. Below the stable passage were the kitchen gardens in their walls, and below the gardens the upper orchard and the lower, old trees in rough grass with their branches bare and black with wet. Below the lower orchard a stream came down out of a fold in the slope and ran along the bottom hedge toward the water meadows, loud over stones. The farm track went down beside it, and at the orchard's foot, where the track met the stream, stood a small stone cottage with smoke going up from it, which was the gardener's.
 
-It was not raining, but a flat grey cloud lay over the whole valley like a lid, and under it the air was very still and cold, and every sound carried.
+It was not raining, but a low grey cloud lay over the whole valley like a lid, and under it the air was very still and cold, and every sound carried.
 
 Seln stood them in the grass by the stream.
 
@@ -148,13 +148,13 @@ They sat in the gardener's kitchen for the last hour of the light, six of them r
 
 "For one night." Seln moved the beans. "Three watches, and every one of you is woken once in the dark, every night, and by the fifth night there is nobody on the road who has slept four hours together in a week. Two watches, and three people in five sleep four hours unbroken at the least, and one sleeps eight. A road is not a night. It is thirty nights, one after another, and you must be able to lift things at the end of them."
 
-He looked at the five beans for a moment.
+He looked at the five beans.
 
 "Five," said Lira slowly. "You said the fifth."
 
 "I was speaking of arithmetic," said Seln, and picked the beans up one at a time and put them back in the jar.
 
-Nobody said anything else about it. Karis wrote *two of four* in her notebook and drew a ring round it, and the gardener poured the tea, and told Brom at length what was wrong with the top hinge, and Brom listened to all of it.
+Karis wrote *two of four* in her notebook and drew a ring round it, and the gardener poured the tea, and told Brom at length what was wrong with the top hinge, and Brom listened to all of it.
 
 Karis asked about paper. She asked it as she asked everything, with the pencil already down on the page, and what she wanted to know was what became of a leaf on a road in the wet, and whether there was a rule for it.
 
@@ -248,7 +248,7 @@ Brom was quiet a moment.
 
 "I check," he said.
 
-That was all. He did not seem to think it needed more, and after a moment Cael understood that it did not. Brom had held twelve feet of road with one arm, and had sat a rota outside a door for two nights without being asked. Of course it was Brom who counted, and counted again when the first count was right.
+He did not seem to think it needed more. Brom had held twelve feet of road with one arm, and had sat a rota outside a door for two nights without being asked. Of course it was Brom who counted, and counted again when the first count was right.
 
 Seln struck a light then, and they stood blinking round a stub of candle in a tin, five faces and the black hedge.
 

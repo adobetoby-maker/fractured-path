@@ -10,9 +10,9 @@ They were as he had squared them at dusk. Cael had read their heading from the c
 
 "I have filled in what the enrollment book could tell me," said Bracken. He had one pair of glasses on and the other two on his forehead. "The house, the year of entry, the basis, the tier as certified. I did it last night, to spare you the writing, and because I did not care to have anybody misspell this house in my hall on its last morning with them. Three lines are left to each of you: the day, and your name in your own hand, in my presence, and a line for the reason, which the registry prints because it is curious and which the code allows an enrollee to leave empty." He moved the pen a finger's width toward them. "I take them in the order they are offered. I have no order of my own."
 
-Nobody moved for a moment. Then Lira went up to the counter, quickly, as she went onto a floor.
+Lira went up to the counter first, quickly, as she went onto a floor.
 
-She had come straight from the east hall, with her hair damp and the tape still on her wrists, and there was no key in her fist. Cael had heard her go down the residence stair before it was light, to spend the one morning she had left. She had not told him what she meant to do at the end of it, and he had not asked.
+She had come straight from the east hall, with her hair damp and the tape still on her wrists, and there was no key in her fist. Cael had heard her go down the residence stair before it was light, to spend the one morning she had left. She had not told him what she meant to do at the end of it.
 
 She read the first leaf from its head to its foot, which took her no time at all. *Withdrawal of an enrollee from a chartered house.* Her name stood on it in Bracken's small upright hand, and under it *Wind*, and *Iron, Rank One*.
 
@@ -40,7 +40,7 @@ Brom came up second, and stood a moment with his hands at his sides.
 
 The pen lay where Lira had left it. It was a plain steel pen in a dark holder, with the house's mark burned into the wood, and it had lain at that end of the counter for longer than Cael had troubled to notice. Bracken had said so on a landing two nights ago. *There is a pen on my counter. There has been one there since the fourth day of the year.*
 
-"That's the one," said Brom, when he had looked at it for some time.
+"That's the one," said Brom, when he had looked at it.
 
 "It is." Bracken had taken the glasses off his nose and was holding them. "I put it there on the evening I walked your docket up to a refectory table. A finding for advancement is signed before the registrar of the practitioner's house, and I thought that when yours came I should like the pen to have been waiting. It was a small vanity, and I have had it cleaned every Seventh-day."
 
@@ -84,7 +84,7 @@ The reason line he left empty. It was not that he had no reason, for he had abou
 
 "One moment," said Bracken.
 
-He had not blotted it. He turned the leaf a quarter round on the counter, so that its left margin lay toward him, and he looked up at the clock he had just wound, and then he dipped the pen himself.
+He had not blotted it. He turned the leaf on the counter, so that its left margin lay toward him, and he looked up at the clock he had just wound, and then he dipped the pen himself.
 
 He wrote in the margin. It was not the upright hand of his entries but the other, the sloped longhand of his private daybook, which Cael had seen perhaps four times, and he wrote three lines of it, slowly and close, running up the edge of the form where the registry had printed nothing. Then he turned the leaf back, and Cael read it.
 
@@ -94,7 +94,7 @@ He wrote in the margin. It was not the upright hand of his entries but the other
 
 "There is a margin. A margin belongs to the officer who takes the paper, and I have been thirteen years learning what one is for." Bracken laid the pen down. "Somebody will open this, some year. He will see a challenge, and a ruling, and a withdrawal inside the same week, and he will ask himself the natural question, which is whether the house put you out to save itself. He will be a careful man, I hope, and I should like him to find that the registrar was there, and looked at the clock, and wrote down what he saw." He paused. "The chancellor knew of this door four days before you did, and she did not say one word to you about it. I know what that cost, for I was the one she did not send. It ought to be written somewhere that nobody pushed."
 
-He blotted the three lines, pressing the paper down with the flat of his hand.
+He blotted the three lines, pressing the paper down with his palm.
 
 Then he opened the enrollment book. It was the current volume, the tall one, in the house's own boards, and he turned to a leaf near the front and then to three others, and at each he wrote the same thing against a name. He did it four times, without hurrying, and Cael read the fourth upside down, as he had read most of what he knew.
 
@@ -116,9 +116,9 @@ She had been at the top of the library. He knew it by her breathing, which was f
 
 "I made mine in the order the council granted them. I thought you would rather hear it go backward than have it put in an order you could correct."
 
-She very nearly smiled, and put her hands flat on the counter, with the pale fingers spread.
+She very nearly smiled, and put her hands on the counter, with the pale fingers spread.
 
-Bracken read. He read as he had read the fourteenth chapter to a table on the first night, flat and exact, giving each line the same weight as the last, and after each he stopped until she answered.
+Bracken read. He read as he had read the fourteenth chapter to a table on the first night, giving each line the same weight as the last, and after each he stopped until she answered.
 
 "*The budget voted to the enrollee's research, being the first so voted by this house.*"
 
@@ -178,7 +178,7 @@ He looked at the leaves under the seal.
 
 "It has not been cheap. I weighed your answer on the post-room's beam and was proud of the figure. I lit this hall by my own authority, and read you the code until morning, and told a table of tired people that it was real law and that we should read it. I should like one thing said at this counter, by me, since nobody will enter it." He cleared his throat. "I was wrong about what the reading would buy you. I have known it since a seal came to my gate that I could not place."
 
-Nobody answered him, and it did not want an answer. Lira, who had never in her life been quiet at a counter, stood with her taped wrists crossed and looked at him as she had looked at twelve hundred faces from a tier.
+It did not want an answer. Lira, who had never in her life been quiet at a counter, stood with her taped wrists crossed and looked at him as she had looked at twelve hundred faces from a tier.
 
 "There is one thing more," said Bracken, in his ordinary voice, and put one pair of glasses back on. "The evaluator of record was at this counter before I had finished with the clock. He does not speak to me while I wind it; he is the only officer of the house who has never needed telling. He left a leaf from his book, which is his last note upon the provision's enrollee, and he asks that it be entered with the withdrawal. He asked also that you should read it here, before I do."
 
@@ -190,7 +190,7 @@ He read it through, and then he read its last line again.
 
 *The instruments will not see its like.*
 
-Gault had signed a figure for him every week, to the decimal, and each one had been earned exactly as written; and yesterday, on the oak, he had been shown what the figures had been figures of, and had nodded once and written nothing. Cael had thought the nod was the whole of it. He ought to have known better, for the magister had never in his life let a thing stand that was not written down.
+Gault had signed a figure for him every week, to the decimal; and yesterday, on the oak, he had been shown what the figures had been figures of, and had nodded once and written nothing. Cael had thought the nod was the whole of it. He ought to have known better, for the magister had never in his life let a thing stand that was not written down.
 
 "He has dated it for today," said Bracken. "He was particular that it should carry the same day as the leaf."
 
@@ -240,7 +240,7 @@ There was a bed, and a press, and a table, and a sill, and he had lived among th
 
 The satchel took the rest, as it had been cut to. Hesk's book went into its pocket, and behind it the old volume, full to its last leaf, with the letters under its front board, and beside them the observation notebook, which held two years of the Crown yard's east tier. He did not own a thing he would grieve to lose that was not now on that strap.
 
-On the sill lay the enrollee's copy of the instrument. It had lain there, first leaf up, since the eighth day of the year: nineteen leaves on one side, thirty-seven paragraphs, three schedules, whose words he had counted on the first night as a man counts the guards on a wall. He squared it to the sill's edge and left it, since it had been addressed to the house as much as to him, and the house could have it back.
+On the sill lay the enrollee's copy of the instrument. It had lain there, first leaf up, since the eighth day of the year: nineteen leaves on one side, thirty-seven paragraphs, three schedules, whose words he had counted on the first night as a man counts the guards on a wall. He left it where it lay, since it had been addressed to the house as much as to him, and the house could have it back.
 
 There was one thing more, and it would neither go nor stay.
 
