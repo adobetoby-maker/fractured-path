@@ -1,14 +1,16 @@
 # Chapter 60 — Nine
 
-The track went down the far side of the ridge by switchbacks, over scree.
+The boxes went down the far side of the ridge before the cart did.
 
-It was the worst ground of the week. The slope was all broken stone, grey and loose, lying at the angle where it had come to rest and no steeper, and somebody had cut a road across it a long time ago, back and forth, six times. It was a shelf scraped out with a mattock, a cart's width and no more, and on the outside there was nothing but air.
+Brom would have it no other way, and Lira agreed with him for the gelding's sake.
 
-"He doesn't like going down," said Lira. "I've told you that. He likes it less than going up."
+"He doesn't like going down," she said. "I've told you that. He likes it less than going up."
 
 "Then he doesn't go down with a load pushing him," said Brom.
 
-They did it by hand again, the other way. Brom took an ash pole they had carried from the crossroads and ran it through the spokes of both wheels, so that they could not turn, and the cart went down the first leg on its locked tyres like a sledge. He walked behind it with a rope round his waist and the rope round the axle, leaning back, while Lira had the gelding's head and the scree moved under every hoof. Seln and Karis carried the second box between them. Cael went ahead of them all with the wedge and the hobble-stakes, and at each turn he put his back against the rock and told them where the edge was.
+It was the worst ground of the week. The whole face of the hill was broken stone, grey and loose, lying at the angle where it had come to rest and no steeper, and the track had been scraped across it with a mattock, a cart's width and no more, turning back on itself wherever it ran out of hill. On the outside there was nothing but air.
+
+So they did it by hand again, the other way, a leg at a time. Brom carried the first box down to the turn and came back up for the third, as he had carried them out of a gate, and Seln and Karis took the second between them. Then he ran an ash pole from the crossroads through the spokes of both wheels, so that they could not turn, and the empty cart went down on its locked tyres like a sledge. He walked behind it with a rope round his waist and the rope round the axle, leaning back, while Lira had the gelding's head and the scree moved under every hoof. At the turn the boxes were taken up again. Cael went ahead of them all with the wedge and the hobble-stakes, and at each bend he put his back against the hill and told them where the edge was.
 
 It asked him about that edge. It had been quiet since the station, the quick one, and he had thought it was done. But there had never been an edge like this, which ran for four hundred yards with a hundred feet of nothing on the far side of it.
 
@@ -18,31 +20,33 @@ It asked him about that edge. It had been quiet since the station, the quick one
 
 It was the first time he had ever agreed with it, and it seemed satisfied.
 
-At the third turn the slope let go of them. The rock stepped back, and the cut widened into a level place, thirty paces long and twelve deep, with a wall of clean stone at its back and a lip of turf at its front. A twisted pine grew out of the wall, and under the pine the ground was dry.
+Partway down they came through water. A seep ran out of the hill above the track and across it, and the stones there were black and slid like wet slates, so that Brom took the cart over them a hand's breadth at a time.
 
-Brom stopped the cart. He stood leaning back on the rope, with the sweat running off his jaw, and he looked at the shelf from one end to the other.
+A little below the wet place the track bent round a single block of stone the size of a barn. It had come down off the ridge in some year before there was a road, and stuck, and everything that fell after it had banked up behind it and gone to turf. A twisted pine had got its roots into the crack between the block and the slope. There was a flat there, thirty paces of it, with the great stone standing between it and the drop, and under the pine the ground was dry.
+
+Brom stopped the cart. He stood leaning back on the rope, with the sweat running off his jaw, and looked the place over from one end to the other.
 
 "Here," he said.
 
 "There's two hours of light yet," said Lira.
 
-"There's three more of those turns, and that horse has done two hills and a river since he ate. I've carried a box up a ridge and down one." He let the rope go slack. "Here."
+"There's as much hill again under us, and that horse has done two climbs and a river since he ate. I've carried a box up a ridge and down one." He let the rope go slack. "Here."
 
 Nobody argued. They looked at Seln, from habit, and he was already walking the ground.
 
-There was nothing on it. Cael saw that as he stood with the stakes in his hand. Every place they had slept that week had been made by somebody: a woman had kept a parlour, and a narrow man a long room, and an old man had cut turf; even at the last station there had been a roof, hung on a carter's wire, and at the crossroads a fire had been waiting. This was a shelf on a hill, with a pine tree on it. Whatever it was going to be by dark, they would have to make it.
+There was nothing on it. Cael saw that as he stood with the stakes in his hand. Every place they had slept that week had been made by somebody: a woman had kept a parlour, and a narrow man a long room, and an old man had cut turf; even at the last station there had been a roof, hung on a carter's wire, and at the crossroads a fire had been waiting. This was a shelf of turf behind a fallen rock, with a pine tree on it. Whatever it was going to be by dark, they would have to make it.
 
 Seln had begun on the wood.
 
-He did not ask anybody. He went along the foot of the rock wall, where the pine had been dropping dead limbs for longer than there had been a road, and gathered them up, and broke them across his knee and laid them small to large. He was quicker at it than he had been four days ago, and he had the fire's place chosen, under the lee of the wall, before the gelding was out of the shafts.
+He did not ask anybody. He went round the foot of the block, where the pine had been dropping dead limbs for longer than there had been a road, and gathered them up, and broke them across his knee and laid them small to large. He was quicker at it than he had been four days ago, and he had the fire's place chosen, in the lee of the stone, before the gelding was out of the shafts.
 
-"Water," said Karis. She had her notebook out. "I heard it at the turn, below us."
+"Water," said Karis. She had her notebook out. "That seep we came through."
 
-She went to find it, and came back frowning at her own figures.
+She went back up the track to it, and came down again frowning at her own figures.
 
-"There's a seep. It comes out of the rock at the next bend and runs across the track. It's thirty-six paces, of mine, and I did it twice. The shelf isn't long enough to be forty from it."
+"It's thirty-six paces, of mine, and I did it twice. There's nowhere on this flat that's forty from it."
 
-They all looked at Seln. He straightened up from the fire with a stick in each hand, and considered the thirty paces of shelf, and the pine, and the bend.
+They all looked at Seln. He straightened up from the fire with a stick in each hand, and considered the flat, and the pine, and the track going up.
 
 "The rule is for water that covers a voice," he said. "And for water that things walk down to at night. That is a seep on a scree. It would not cover a cough, and nothing comes to it but us." He bent again. "A rule has its reasons written beside it so that one may tell when they are absent. I should stay where you are."
 
@@ -160,7 +164,7 @@ She said it in her small dry voice, as a finding, and then she pressed her lips 
 
 Lira had her own book out by then, and had turned to the page with the capitals. *4 LOADED. 3 LIGHT. STAMPS STOP. 2 GO ON. 1 TURNS.* She had chalked that on a dairy wall once, and copied it out afterward, and carried it through eleven sittings.
 
-"I asked the two who go on," she said. "I never said. The old man with the mules gave me the most. He said it's a week from the turning place to the first hold, loaded, and that there's a river country, lower down, and people in it who'll buy what a wagon brings. He didn't tell me a name, and I didn't like to ask a third question." She wet her pencil. "I'm putting us in. *Ridge: one horse, three boxes by hand. Scree, six turns. Shelf.* Somebody'll come after us with a cart one day and want to know."
+"I asked the two who go on," she said. "I never said. The old man with the mules gave me the most. He said it's a week from the turning place to the first hold, loaded, and that there's a river country, lower down, and people in it who'll buy what a wagon brings. He didn't tell me a name, and I didn't like to ask a third question." She wet her pencil. "I'm putting us in. *Ridge: one horse, three boxes by hand. Scree: by hand again. Shelf.* Somebody'll come after us with a cart one day and want to know."
 
 "Who?" said Brom.
 
@@ -208,21 +212,23 @@ Then he wrote the inventory, since a camp made out of nothing was as good a plac
 
 He looked at the list.
 
-There were nine lines, and eight of them had a person in them: a girl he had met at Ardenmere, and a man at a table, a researcher, and a Gold, a fighter who had told him to come and find him, and a friend who whistled a song wrong. He could have written to seven of them, and some were asleep within ten feet of him.
+Two of the nine were new since the year opened: the one from a chalk road, and the one from the oak. Seven had a person's name beside them. One had a source the page would not give, and one had no name to give.
 
-And there was the gap. He had left it the width of a name, as he would have left it for anybody, since it was the only honest way to write her. She had grey eyes above a scarf, and she had threaded fourteen points through a chalk cut, and somebody had sent her there without so much as a paper. Whoever she was, she had a name, and nobody had thought it worth giving him. He would carry a piece of her for the rest of his life and never be able to say whose it was.
+The sixth was the one that stayed shut. It had been sealed for two years and more, and the seal held tonight exactly as it had held on the hill. Only one thing in that line had changed. The man it came from had been told, and he was asleep under a pine with a satchel for a pillow.
 
-He let the blank stand. A line through it would have been a lie, and so would a guess.
+The eighth was the blank. She had grey eyes above a scarf, and she had threaded fourteen points through a chalk cut, and somebody had sent her there without so much as a paper. Whoever she was, she had a name, and nobody had thought it worth giving him. He would carry a piece of her for the rest of his life and never be able to say whose it was. He had written *unnamed* and let it stand, for a guess would have been a lie.
 
 There were two things the page did not say.
 
-It did not say whose the quiet thing had been. It never had. *The stair*, it said, as it had said for two years and more, and a careful reader might have turned back through two volumes and found only that. The man it had come from was asleep under a pine with a satchel for a pillow, and his name was in no book of Cael's, and would not be; he had ruled a line for him on a leaf of costs and left the head of it empty.
+It did not say where he was. It had a day at its head, and a count of days, and no place. There was no name to give the place, and he would not have written one if there had been.
 
 And it did not say what was in the satchel. It said nothing about a case, or forty pairs of leaves, or a paragraph two hundred years old about a function that was to be maintained. He had written once, on the night it was opened, that it did not go into a book. Six people in the world knew it, and five of them were on this shelf, and he did not think the number would ever be seven by any act of his.
 
-The anomaly entry had a procedure behind it.
+That left the last entry, which was not a fragment at all.
 
-It had been a long procedure, once. He had sat with the old volume for an hour at a time, and tested, and compared each new arrival against it, at Greyvane and at Halcenvane and on a night of frost with Karis's gloves on the table. It took him less time now, for he had done it often, and it always came out the same.
+Each of the nine had come to him from somebody. This had come from nobody. It had been lying underneath already when a boy of fifteen first thought to look, and it had never once done anything. So the log kept it out of the count, and called it an anomaly, and checked it.
+
+The check had been a long one, once. He had sat with the old volume for an hour at a time, and tested each new arrival against it, at Greyvane and at Halcenvane and on a night of frost with Karis's gloves on the table. It took him less time now, for it always came out the same.
 
 He drew the old volume from the satchel. It was full to its last leaf, and soft, and it opened where it had always opened.
 
@@ -232,7 +238,7 @@ It was his own hand at fifteen, rounder than his hand was now, and pressing hard
 
 Then he shut his eyes and looked for the place.
 
-It was where it had always been. It lay under the nine, lower than any of them, and it did not pull, and it did not ask. Nothing in him had ever shifted to make room for it, for it had been there before there was anything to shift. He did not touch it. He only found that it was there, as a man feels in the dark for the wall beside his bed, and it was the same as it had been the last time.
+It was where it had always been. It lay under the nine, lower than any of them, as a floor lies under what stands on it, and it did not pull, and it did not ask. He did not touch it. He only found that it was there, as a man feels in the dark for the wall beside his bed, and it was the same as it had been the last time.
 
 He opened his eyes. The three words stood under the inventory, as they had stood before, on a sill, on a birthday.
 
@@ -240,7 +246,7 @@ He opened his eyes. The three words stood under the inventory, as they had stood
 
 The fire had burned down a little. He put on a limb of the pine, and it flared.
 
-There were two debts he had brought over the Line, and he had promised a girl by a stream that they rode with him. He wrote them next, plainly, so that he could not afterward pretend they had been left at a gate.
+There were two debts he had brought over the Line, and he had written at a stream that morning that both of them rode east with him. He set them down again under the inventory, shorter, so that he could not afterward pretend they had been left at a gate.
 
 *Reydan will get his answer. Daeva will get her rematch. The road east is long, and it runs the right direction. Good.*
 
@@ -330,7 +336,7 @@ He had not yet lain down. He was sitting by the fire with his coat round him and
 
 Cael had the book shut on his knee.
 
-He had written it all down. It was on the leaf, in order, with a gap in it the width of a name. He had been keeping that kind of list since he was fourteen, and he had always kept it where nobody could read it over his shoulder. He looked round the fire, at four faces lit from below, and counted them, from habit.
+He had written it all down. It was on the leaf, in order, with one line in it that had no name. He had been keeping that kind of list since he was fourteen, and he had always kept it where nobody could read it over his shoulder. He looked round the fire, at four faces lit from below, and counted them, from habit.
 
 He said it aloud. He had never once done that with an inventory.
 
@@ -358,7 +364,7 @@ Cael sat on.
 
 He had been read at fourteen, in a room, in eleven seconds, and since that morning there had always been somebody deciding what he was. A warden had done it, and a provost, and a tournament office; a seat had done it under a hood, and a designation had done it that no office would own. Some of them had been kind, and most had been correct, and all of them had been writing in a column that he could not see.
 
-He listened for it now, on a shelf of rock, as he had listened at a ring of churned turf for a threshold that was not there.
+He listened for it now, on a shelf above a valley, as he had listened at a ring of churned turf for a threshold that was not there.
 
 There was the fire, and the water. Four people were breathing.
 

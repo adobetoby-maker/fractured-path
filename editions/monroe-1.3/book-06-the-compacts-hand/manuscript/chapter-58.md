@@ -110,7 +110,7 @@ He drew the next thing toward him. It was a hill station's request for a second 
 
 ---
 
-They left Ostrand at first light, by the east road.
+None of that had happened yet. It was only the First-day, the morning a desk clerk on the bluff found four keys in a row, and they left Ostrand at first light, by the east road.
 
 Cael had not slept much. The parlour had a settle and a floor, and he had taken the floor, and the bills had come in during the night, as the healer had said they would. His hip had stiffened from the crest to the knee, and his shoulder would not lift past the level of his ear. The forearm had gone the colour she had promised, a dark plum from the wrist to the elbow with five darker bars across it, and it beat in time with his heart whenever he let it hang. Behind his eyes there was a heaviness that had nothing to do with any lane; it was only what was owed.
 

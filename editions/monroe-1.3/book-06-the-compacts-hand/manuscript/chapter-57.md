@@ -10,13 +10,13 @@ That was not, in itself, a thing to write down, for a man could be late. But the
 
 He got down off his stool and went to look.
 
-The table was clear. It was not the clearness of a man gone for a moment. The pen had been wiped and laid in its tray, and the ink was stoppered, and the quire of the wing's forms was squared to the table's left-hand corner. The chair had been pushed in until its back touched the wood.
+He knew before he had crossed the floor, and it was his ears that told him. For two years a pen had been going at that table from the first bell, a small dry steady sound, and he had added his column against it every morning without once noticing that he did. The room was not making it. He could hear the clock over the counter instead, which he had not heard at that hour since the year before last.
 
-On the blotter lay four keys.
+The table had nothing on it but its blotter, and on the blotter lay four keys.
 
 They were set in a row, the largest at the left and the smallest at the right, each a finger's width from the next, with their bows all turned the same way. The clerk knew them. There was the key to the inner door, and the key to the press where the cards were kept, and the post room's, which the wing had held since the porter hurt his shoulder. The smallest was the key to the wing's side door. They were every key the house had ever put into that man's hand, and they had been laid out so that the next person would not have to hunt for one.
 
-There was no note. He looked under the blotter, and under the quire, and then, feeling foolish, under the table.
+There was no note. He looked under the blotter, and in the table's one drawer, and then, feeling foolish, under the table.
 
 There was a cupboard under the table, which he had never opened, since it was not his. Its door stood an inch ajar. Inside there was nothing whatever but swept boards, and one short end of grey tape.
 

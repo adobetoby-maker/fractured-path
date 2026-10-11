@@ -436,6 +436,8 @@ The man thought that over, and seemed to find nothing wrong with it. He put the 
 
 Cael watched the bag go. It had her name in it. It would go to a turf fire, and down a hill, and onto a hook, and it would cross the whole of a country that had a file on him, and come at last to a hall in a city, and to a woman for whom a ladder had been built to exactly her own height.
 
+He sat down on the bank with Hesk's book on his knee. It was his log, where he set down what he carried and what he owed. One promise had gone west that minute in a mule's bag, and it was answered, not paid. The other was older, and nobody had been written to about it at all. He put the two side by side on the page.
+
 The log banked the thread beside its lineage:
 
 *Reydan wanted the answer when I have it. Daeva wants the rematch with whatever I am. Both promises ride east with me. Both get kept. Not yet. The road's long and it runs the right direction.*
