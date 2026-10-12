@@ -12,6 +12,13 @@ from pathlib import Path
 packet, book = Path(sys.argv[1]), sys.argv[2]
 text = packet.read_text()
 line = next((l for l in text.splitlines() if re.search(r"read before drafting|source chapters to read first", l, re.I)), "")
+if line.rstrip().endswith(":") and "chapter-" not in line:
+    # Book 8 packets: "- Read before drafting:" followed by bullets; the source is the "- Source `chapter-NN.md` …" bullet.
+    ls = text.splitlines(); i = ls.index(line)
+    for l in ls[i + 1:i + 12]:
+        if re.match(r"\s*-\s*Source\b", l):
+            line = "source " + re.sub(r"^\s*-\s*Source\b", "", l); break
+        if l.startswith("## "): break
 m = re.search(r"source chapters to read first[^:]*:([^(\n]*)", line, re.I)
 if m:
     nums = [int(x) for x in re.findall(r"\d+", m.group(1))]
