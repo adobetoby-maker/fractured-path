@@ -62,17 +62,23 @@ It was hardly a voice.
 
 ---
 
-It was the bank that Cael looked at then, and not the shelf.
+Cael counted heads, since a hill had come down on them and he knew of nothing else to do. He made it ten under the roof, and an old man at its foot.
 
-He had been taught to see a thing that was out of its place. The whole of that slope was out of its place. It lay in the mouth behind him, under a tree. What stood where it had been was a slab of grey rock, as bare as a washed slate, going up at a steep pitch from the stones of the bed to the lip of the shelf. There was not a loose plate left on it from end to end of the gap. The first heap's fall had taken the quilt off the table.
+There should have been eleven. The place by the bank was empty, where a small grey man had stood with his back to the rock.
 
-Seln was a third of the way up it already.
+A little grit ran down past the roof's high corner, and stopped. Teague's eyes had gone up to it already. Cael followed them, and saw the sole of a boot against the hill, a long way over their heads, and a hand above it feeling for a hold. Then both were gone behind the roof's edge, where three bows on a shelf would have had to lean out over forty feet of air to find them.
 
-He had not said a word to anybody. He went as a lizard goes on a wall, flat, on his fingers and the sides of his boots, close in under the roof's high corner, where a man on the shelf would have had to lean out over forty feet of air to see him.
+He understood only then what the man was climbing.
 
-Teague had seen him. The grey eyes went up the slab once, and across to the shelf, and Cael watched a field being done over again in the space of a breath.
+There was no bank. He had been taught to mark a thing that was out of its place, and the whole of that slope was out of its place: it lay in the mouth behind him, under a tree. Where it had been there was grey rock, as bare as a washed slate, from the stones of the bed to the lip of the shelf, and not a loose plate left on it from end to end of the gap. *Take the quilt off*, a mild voice had said that morning, on a flat of shale. The people on that shelf had just taken it off for him.
+
+Seln had seen it before the dust was down, and had said nothing, and gone.
+
+The grey eyes came down the slab once, and went across to the shelf, and Cael watched a field being done over again in the space of a breath.
 
 "Bow," said Teague.
+
+He meant his own: the broad man, with the shin on a board. Brom was in the middle yet, with linen round the stub of a bolt in his left forearm.
 
 The broad man was moving before the word was out.
 
@@ -136,7 +142,7 @@ One broad hand went under the neck, and one came down flat on the breast. Her ey
 
 They stopped sooner than he had ever seen them stop.
 
-She took her hands away. She held them a little off the coat, with the fingers open, and looked at them. A healer shut what was open, and knit what was broken; she had said above a weir that she mended what was brought to her. Nothing had been put in front of her. It had gone before her hands came down.
+She took her hands away. She held them a little off the coat, with the fingers open, and looked at them. A healer shut what was open, and knit what was broken. Nothing had been put in front of her; it had gone before her hands came down.
 
 The lean old woman stood over them with her board under her arm, and there was nothing for her to bind.
 
@@ -148,7 +154,7 @@ Nobody said it a second time.
 
 Cael looked back down the wedge, since he could not look any longer at what was in front of him.
 
-An old man sat at the foot of his own roof with his face toward them. He had seen every part of it, down the whole length of the thing that he was holding up; a man who is the foot of a wall has nowhere else to turn his eyes. He could not get up. He could not have crawled. The plane that he had raised could not be shifted one stride eastward by any power that he owned, since it stood where it had been drawn, as it always had. That was the nature of it, and he had known it for as long as he had held the thing.
+An old man sat at the foot of his own roof with his face toward them. He had seen every part of it, down the whole length of the thing that he was holding up; a man who is the foot of a wall has nowhere else to turn his eyes. He could not get up. He could not have crawled. The plane that he had raised could not be shifted one stride eastward by any power that he owned, since it stood where it had been drawn, as it always had.
 
 The hands on the ash had been white before. They were whiter now.
 
@@ -222,7 +228,7 @@ He did what anybody would have done beside a thing that was going. He let the ma
 
 Cael got his knees onto the shelf.
 
-It was moving. It was a thing moving which ought to be stopped; a captain had taught him the name for that on a ridge, with his arm in linen. The top of the heap had begun to lean out over the lip. Beneath that lip, on the bed, there were two men with their heads down, running.
+It was moving. It was a thing moving which ought to be stopped; a captain had taught him the name for that. The top of the heap had begun to lean out over the lip. Beneath that lip, on the bed, there were two men with their heads down, running.
 
 He could not hold a cartload of stone, and nobody could. But a thing had been said across a boy's head in a meadow, to a carter who wanted a second cart shifted; and he had lined himself against a slab on the shale, the evening before, and had learned where his own hip was.
 
@@ -300,7 +306,7 @@ Seln came to the lip, and called one word down into the bed.
 
 It was the first time that Cael had ever heard that man raise his voice.
 
-Seln had taken the high ground from that team by going up the one slope which its own rig had swept bare for him; and an old man sitting in a stream-bed had bought him the time to climb it.
+Forty feet under the shelf a roof of dust still lay on the air, with a brown coat at its low end. Nobody had yet told the old man that he might leave off.
 
 The captain came along the shelf.
 
@@ -320,7 +326,7 @@ He did not ask.
 
 Seln took him down the stair, with a shoulder under his right arm, and said nothing the whole way.
 
-They were coming out from under the roof by its high end when he reached the bed. A captain had ordered it from the shelf, in three words. The lean old woman had the broad man sitting against the southern wall, in the sun, and the healer was on her heels beside him.
+They were coming out from under the roof by its high end when he reached the bed. The lean old woman had the broad man sitting against the southern wall, in the sun, and the healer was on her heels beside him.
 
 "Shoulder," Cael heard her say. "May I?"
 
@@ -366,6 +372,6 @@ It went down from his boots in broad shallow steps, and then it left off steppin
 
 A small pale woman had ruled a line once, on a calfskin, along a strip of brass. He had walked along it since a table in a healer's yard. He had thought of it, on every one of those days, as a thing made with a pencil.
 
-He looked back. Four people were setting a blanket down on a flat of rock, in the mouth of a gap.
+He looked back. Four people were setting a blanket down on a flat of rock, in the mouth of a gap, where the line ran out between two walls.
 
 It was not ink.

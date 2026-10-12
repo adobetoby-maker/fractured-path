@@ -30,8 +30,6 @@ Then the accounts, since a ledger that has no accounts in it is only a list.
 
 He stopped there, with the pencil lifted.
 
-He had thought, on a shelf, with his forehead on the rock, that he had perhaps paid a little of it, and he had gone over that since. He would not have taken such a payment from another person; and Brom, who priced things, had told him behind a step of shale to pay when it could be paid, and not a day sooner, and not to ease his own back.
-
 He put down the last line. It was the one that he had walked to.
 
 *Stood in the middle of the first one. Nothing. Entered.*
@@ -78,7 +76,7 @@ Karis had been watching him.
 
 "For a ferry. Teague'll have it in a bag at Lowmarch before we've seen a river."
 
-"Then I shall add nothing to it," she said. "I thought for a moment that I wanted to send a line of my own. I find that there is nobody to whom I could send it who would not want the paper as well; and I had sooner carry the paper there myself."
+"Then I shall add nothing to it," she said. "I had sooner carry my own paper there myself."
 
 "Fifty-two sheets."
 
@@ -154,7 +152,7 @@ Cael could not find an answer to that. He had a thing lying along him from the h
 
 "After the next thaw."
 
-{{JOIN}}
+He let that stand for a breath, as he had once let its fellow stand in a yard full of snow.
 
 "Whatever's on the next line. My crew comes."
 
@@ -184,7 +182,15 @@ She had done it herself. Three boxes stood in a row upon the rock, with the flat
 
 It was the eighth day since she had stood at a cairn. Cael did not say so, since she knew it better than his book did.
 
-She went along them, before she would get up, as she had gone along six people at a fork-stone. She looked under the linen on Brom's forearm, having asked, and told him that he was to keep it out of the wet and that the colours on his chest were coming on nicely. She took Karis's left hand, by her leave, and turned it to the light. "It'll leave a line," she said. She told Lira nothing whatever, since there was nothing that wanted telling, and Lira said that she had noticed.
+She went along them, before she would get up, as she had gone along six people at a fork-stone. She looked under the linen on Brom's forearm, having asked, and told him that he was to keep it out of the wet and that the colours on his chest were coming on nicely.
+
+She took Karis's left hand, by her leave, and turned it to the light.
+
+"It'll leave a line," she said.
+
+"I have a use for lines," said Karis.
+
+She told Lira nothing whatever, since there was nothing that wanted telling, and Lira said that she had noticed.
 
 She stood for a good while in front of the old man.
 
@@ -200,7 +206,7 @@ Her two hands went round the linen, above the laths and below. It did not take h
 
 Something happened at the corner of her mouth, and went.
 
-She came to Cael last. She did not ask to read him, since she had done that at the cut, in the dark, and had her finding. She looked at the tape through his shirt, and at the box which stood nearest to his feet.
+She came to Cael last. She did not ask to read him, since she had done that at the cut, in the dark, and had her finding.
 
 He had a folded paper in Hesk's book. A girl had offered it to this woman at a mill, in so many words, and had been told where it might be said. There had been a great deal of road since, and he had not once found the mile for it; there had been a fence, and a gap, and a heap of stones.
 
@@ -210,15 +216,15 @@ He had not laid it across her finding, and he would not. But it had walked out o
 
 "The day I have to," Oryn said.
 
-"Noted," said Cael.
+"Noted," Cael said.
 
 "Everybody says that."
 
-{{JOIN}}
+Her eyes had gone to the box that stood nearest his feet, and from the box to the place where her tape lay under his shirt.
 
-"They'll carry. They'll hurt," Oryn said.
+"They'll carry. They'll hurt," she said.
 
-{{JOIN}}
+Then she gave him the rest, as she had once sent it to him on a strip of bark, and she did not soften a word of it.
 
 "After the thaw: bring the map, and lie still when I say."
 
@@ -272,7 +278,7 @@ He did it in three movements. He stood for a breath upon the ash, with the bound
 
 Nobody had told him to. Nobody told him not to.
 
-He slung it above his sound leg, and came across the rock, at his own beat, and stopped a stride behind a big man with a box, where he had stood since a ford. He looked at nobody. He had asked nothing of any of them, that morning or on any other, and nobody had asked a thing of him.
+He slung it above his sound leg, and came across the rock, at his own beat, and stopped a stride behind a big man with a box, where he had stood since a ford. He looked at nobody. He had asked for no place among them, that morning or on any other, and nobody had offered him one.
 
 Cael saw Brom's head turn, by the width of a finger, and turn back.
 

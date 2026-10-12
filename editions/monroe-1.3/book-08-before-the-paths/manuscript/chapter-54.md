@@ -90,7 +90,11 @@ The broad man, who had one leg bound to a board, looked at the ground between hi
 
 Cael looked at his own drawing. There were two walls, and a floor eight strides wide, and everything that could kill a person stood on the left hand and above. There was no roof in it anywhere, on the thread or on the floor. But he had seen a thing made once, out of nothing, across a road, on which eight hounds had broken like water on a pier; and he had not been able to stop thinking of it since Seln said *shelf*.
 
+He laid the burnt stick down upon the charcoal, along the floor, from the one mouth to the other.
+
 "It's through," Cael said.
+
+He had not ruled on anything, since the field was another man's. He had only said where the line went, as the one who had drawn it.
 
 "Then here's what I see in it," said Teague. "The bows I can live with. A bolt's one man hurt, and they've a count of twenty and more between every flight. It's the two heaps. A heap of that size on a bed of that width is a crew gone, and there's no walking through it and no walking under it." He rubbed his jaw with the back of his left hand. "But a rig's one stroke. Once it's fallen it's only a heap. I want the first of them down on nothing."
 
@@ -244,7 +248,7 @@ Karis considered a brown mule for the space of a breath. Then she took the couri
 
 They walked the four miles in file, and nobody spoke, since it was a road.
 
-Cael went at a captain's shoulder, a stride back. In front of them the tall man's spear stood up against the east, and beyond the spear a small grey shape went from step to step of the shale with its hands empty. Behind him he could hear the whole of the rest: the pannier, and the hooves, and three pieces of wood going down, none of them upon the same beat. There was the ash, and the old woman's staff, and a trestle's leg at the tail with a grunt in it; and he thought that a stranger with his eyes shut would have taken the twelve of them for a house for the sick that had got up and walked.
+Cael went at a captain's shoulder, a stride back. In front of them the tall man's spear stood up against the east, and beyond the spear a small grey shape went from step to step of the shale with its hands empty. Behind him he could hear the whole of the rest: the pannier, and the hooves, and three pieces of wood going down, none of them upon the same beat.
 
 The notch grew as they came. It had stood on the skyline for two days as a square bite out of a ridge, and now it had walls. He could see the dark of them, and a paler tongue of stones that came out between and spread upon the shale like spilt meal. The ridge ran away from it north and south as far as he could see, a long brown wall with its head in the sun, and in all that length there was the one door.
 

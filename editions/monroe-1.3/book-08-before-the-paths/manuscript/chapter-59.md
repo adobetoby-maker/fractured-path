@@ -70,7 +70,7 @@ It did not say *sits*, as it said of a page. It did not say *goes*, as it had sa
 
 Then it gave him the shape, with no more words, as it had given it in the dark.
 
-There was something that bore. It lay level under everything, whole, from one side of that place to the other, and nothing whatever was carried upon it. Here he was past the last of the rows, and there was not a mark. And it leaned. The whole bare floor leaned, as a line of cut signs leans, steadily, at he could not have said what.
+There was something that bore. It lay level under everything, whole, from one side of that place to the other, and nothing whatever was carried upon it. Here he was past the last of the rows, and there was not a mark. And it leaned. The whole bare floor leaned, as a line of cut signs leans, steadily; and he could not have said what it leaned at.
 
 It was the same reading.
 

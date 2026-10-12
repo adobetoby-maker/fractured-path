@@ -46,7 +46,7 @@ He found them when she had shown him where to look. They stood along the rim, a 
 
 "Nor after," said Oryn, "till I've had my fingers on somebody's wrist."
 
-Behind his eyes the folded thing had come about, toward the whole of it, as a head turns to the only voice in a room. He looked at his bootlaces, and counted them, and it lay down. But it did not lie down far, and he knew that he would be giving his eyes other work for the whole of that day, with a floor half a mile wide at his elbow that a hand had made.
+Behind his eyes the folded thing had come about, toward the whole of it, as a head turns to the only voice in a room. He looked at his bootlaces, and counted them, and it lay down, though not far.
 
 ---
 
@@ -72,7 +72,7 @@ So he sat on the middle box, at the first stump, a pace outside the cut, with th
 
 They began a little before noon.
 
-Lira took the brass eye. She did not walk beside the line; she walked on it, with one boot set before the other along the cut's outer lip, heel to toe, as she would have gone along the top of a wall. No part of her was over. Seln came behind with the cord's tail, and laid its fourth knot to the scratch that she left; and Karis went beside them on the worn rock with her notebook, and called each length as it was made.
+Lira took the brass eye. She did not walk beside the line; she walked on it, with one boot set before the other along the cut's outer lip, heel to toe, as she would have gone along the top of a wall. No part of her was over. Seln came behind with the cord's tail, and laid its fourth knot to the scratch that she left. That was a length: the whole cord, which was twenty strides. Karis went beside them on the worn rock with her notebook, and called each one as it was made.
 
 "One."
 
@@ -86,11 +86,9 @@ She called, and he answered, and the strokes went down in their fives.
 
 The line did not seem to bend, and that was the strangest part of the morning. He walked along a cut that ran dead straight before him, for as far as he could see, and there was a floor on his right hand the whole way. Yet when he looked back, at the twentieth length, an old man on a box was no longer behind him. He was behind and to the right, and at the fortieth he was farther round; the straight line was carrying them about a middle that none of them had seen.
 
-They came to the second stump at the fourteenth length, and the third at the twenty-ninth.
+They came to the second stump at the fourteenth length, and the third at the twenty-ninth. Karis wrote down both.
 
-"They are not evenly set," said Karis. She had written both. "Nor are the Fallow's. I shall want to know whether they are unevenly set in the same places."
-
-She did not stop for it, and she did not stop for the rows either, which went by a stride from her left boot, hour upon hour, cut as deep as a finger. He saw her eyes go to them, and come away. She had waited the best part of her life for a wall of that hand, and had learned to read it under a town; and she walked past half a mile of it with her pencil on a column of figures.
+She did not stop for them, and she did not stop for the rows either, which went by a stride from her left boot, hour upon hour, cut as deep as a finger. He saw her eyes go to them, and come away. She had waited the best part of her life for a wall of that hand, and had learned to read it under a town; and she walked past half a mile of it with her pencil on a column of figures.
 
 "One thing at a time," she said, to nobody, at about the fiftieth.
 
@@ -148,7 +146,7 @@ She did the sum standing, and he watched the pencil. A length was twenty strides
 
 "About fifty. Something over eleven hundred yards; I make it eleven hundred and seven, as near as hemp will say." She looked at the slip of ash, with its eight nail-marks all in the one place. "And it is round. I have measured a millstone that was not so round. I do not know what was used to cut it."
 
-It was sharp, and it was perfect. Cael looked along the cut, to where it went away into the low sun, and thought of every made thing that he had ever handled: a brass rule that an old man swore was true to a hair, and a cord that a dead surveyor had knotted, and a wheel. Not one of them had been so nearly what it was meant to be as this; and it had lain out here under that sky with nobody to look at it.
+It was sharp, and it was perfect; and it had lain out here under that sky with nobody to look at it.
 
 "And the half of it?" said Cael.
 
@@ -182,6 +180,8 @@ Nobody spoke.
 
 "A person who makes a mark for himself does not make the slip a second time," said Karis. "A person who is copying, and has been told to leave nothing out, copies the slip. I have seen it in a clerk's hand at the foot of six sheets." She laid her palm flat on the notebook. "I have read strata since I was a girl. I have laid these floors under everything that I had. And there has been one more under them, all the time."
 
+Nobody else on that rock could have said the next thing; and for the space of a breath she did not say it either.
+
 "The others are copies," said Karis.
 
 She sat back on her heels. Her face was quite white, and Cael had seen it so only once before, in a gallery, on the morning when she said that she could read. He thought that being believed, which had lain so heavy on her beside a lamp two nights ago, could hardly have been heavier than this.
@@ -204,7 +204,7 @@ Cael looked at two strips of brass lying in one line across a calfskin. An old m
 
 "And past it?" said Lira.
 
-She had been up on the dish's eastern lip with Seln, where the worn rock was highest, and had come back with her face burnt by the light.
+She had been up on the dish's eastern lip with Seln, and had come back.
 
 "Nothing. I looked till my eyes ran. There's no gap in anything, and no road, and not a bump. It's plain till it's sky."
 
@@ -250,8 +250,6 @@ It was a long look, and there was a heap of stones in it, seven miles off, and a
 
 "I heard you the first time," said Teague. "I'd not have heard you yesterday at noon. I'll say that, so you know what you're asking." His left hand had closed on his belt. "It stands. I kept it on a shelf with him lying under me, and I'll not unkeep it on a flat."
 
-He turned from that, as a man turns from a thing that he has finished.
-
 "You, with the hide. I'm asking. What is it?"
 
 "It is the fifth place, and it has two bars to its stroke, and its first sheet is older than any that I have a figure for." Karis spoke as she read a label. "I can tell you what four such places have done to seven people. They took what each carried, at a stride, and gave it back at a stride, whole. I cannot tell you that this one does as the four did. I should want one person over, and back, before a second went."
@@ -274,7 +272,7 @@ Cael saw her shoulders go tight, and ease.
 
 Lira brought the boot back.
 
-"Right," she said.
+"Right."
 
 It was the word that she kept for a thing which had turned out to be exactly what it was.
 
@@ -290,7 +288,7 @@ He stepped back over, and a healer let go of his wrist.
 
 Karis went over with her notebook shut. She stood a stride inside, with the rows running away from her feet on either hand; and for the first time that day she let herself look along them.
 
-"It's the first one," she said.
+"It's the first one."
 
 Then she came out, and wiped her eyes with the back of her bound hand, and was not ashamed of it.
 
@@ -308,7 +306,7 @@ It was a sunk stroke in a grey floor, two fingers wide, and he looked at it as C
 
 "I stood at a line for forty years," Vastin said, "and told people which side of it they were. I never once asked who drew it."
 
-{{JOIN}}
+He lifted his eyes from the cut, and looked along it to the left hand, and to the right, for as far as it could be seen.
 
 "This is where they drew it."
 
@@ -326,7 +324,7 @@ She kept them there while a person might have counted fifty. Then she stepped ov
 
 "Nothing," Oryn said. "Everything, round it."
 
-{{JOIN}}
+She had said that to the floor. She turned her head, and said the rest to him.
 
 "Same as you."
 
@@ -348,9 +346,11 @@ He stepped back.
 
 "My crew's stood at four of these. It's stood at enough," Teague said.
 
-{{JOIN}}
+He looked round then, as he had looked round on a shelf beside a row of iron, at the boy who stood where his left shoulder would have been.
 
 "Field's mine. This isn't field."
+
+It was the ruling that he had given at that fence, in two words, when he asked to be told how.
 
 He did not put his three across. Cael saw the tall man's eyes go to the cut, and to his captain; and the captain shook his head, by the width of a finger.
 
@@ -360,15 +360,15 @@ The tall man turned his spear about, so that its head lay toward the west; the b
 
 So there were six at the rim, and a healer with a mule.
 
-The plain had gone dark from edge to edge, and the floor had not. It lay under the first stars as it had lain under the sun, pale and level, with eleven small stumps along its rim. It seemed to Cael that there was more light in it now than there was in the sky.
+The plain had gone dark from edge to edge, and the floor had not. It lay under the first stars as it had lain under the sun, pale and level, with eleven small stumps along its rim; and it seemed to Cael that there was more light in it now than there was in the sky.
 
 Lira had come to his shoulder.
 
 She did not say anything for a while. She was looking where he was looking, which was nowhere, since there was nothing out there to look at; and he could hear, behind the two of them, a big man and a small pale woman and a quiet one, and a stick, who had all come to stand at that rim without being asked.
 
-"Every other one, yours worked and ours died," Lira said.
+"Every other one, yours worked and ours died," she said.
 
-"Yes," Cael said.
+"Yes."
 
 "You think this one's different."
 

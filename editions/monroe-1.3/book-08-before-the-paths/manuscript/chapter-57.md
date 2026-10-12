@@ -66,8 +66,6 @@ She did not set terms out of fright. So she had set none, and he would walk on t
 
 There was the other place in him, and she did not go round it tonight in her mind. She had gone round it for forty minutes at a mill, with all that she had, and had said what she found: there was nothing there for her kind of hand, and everything else in him went about it. It was not what she had met today. In the boy there had been banks, with the water just gone out of them. In the other there had never been a bank.
 
-She had no more than that. She had told a girl so, and she would not dress it up at midnight because she was low.
-
 Somebody sat down beside her.
 
 It was done stiffly, with a staff, and a little grunt at the end. Oryn did not need to turn her head, since she knew the sound of that staff as she knew the mule's feet.
@@ -106,7 +104,7 @@ Karis looked up.
 
 "You have not touched it in a hundred and thirty-eight days."
 
-"I know how long. I said *hold*, in a yard, and I'm not lifting that. I'm taking one more reading for it." He had thought about how to say this, and he said it plainly. "Tomorrow you'll put that cord round the oldest of them, and I'll be standing by with my hands itching for an end. I'd sooner know tonight what my hand's worth on it."
+"I know how long. I said *hold*, in a yard, and I'm not lifting that. I'm taking one more reading for it. Tomorrow you'll put that cord round the oldest of them, and I'll be standing by with my hands itching for an end. I'd sooner know tonight what my hand's worth on it."
 
 "It is a fair reason. It is also the night of a day on which you have been hurt, and I should want that written upon the entry."
 
@@ -114,7 +112,7 @@ Karis looked up.
 
 She took the tarred case from beside the old man, who slept sitting against a box with his mouth a little open, and she drew out the cord herself, and the slip of ash.
 
-They did it on the flat of the rock, by the lamp, and they did it as it had been done at Lowmarch: one length, and four knots, and two strides. Brom held the brass eye down on a white stone with his boot. Karis ran the cord out to its fourth knot, and Brom came up; she ran it again, and laid the slip down twice. She set a second stone where it ended.
+They did it on the flat of the rock, by the lamp, and they did it as it had been done at Lowmarch: one length, and four knots, and two strides. A length was the whole cord run out to its last knot, which was twenty strides; four knots more were twenty again. Brom held the brass eye down on a white stone with his boot. Karis ran the cord out to its fourth knot, and Brom came up; she ran it again, and laid the slip down twice. She set a second stone where it ended.
 
 "Forty-two," she said. "Brom."
 
@@ -147,8 +145,6 @@ She had a hair in the back of her notebook, which she had kept there since the h
 "A hair and a half," she said. "And for the other, two."
 
 She took the strips back. In her own fingers each of them lay from prick to prick, as true as the day that it was cut.
-
-Nobody spoke for a little. The lamp's flame stood up straight.
 
 "It's more," said Brom.
 
@@ -226,9 +222,11 @@ This leaned so, steadily, and there was not a mark upon it. There was no sign. T
 
 He could not have said what it leaned at. There was nothing in him to take a bearing by.
 
+But he knew what he had been handed. It came to one sentence, and he let himself have the one.
+
 The same kind of thing, to that instrument, as the sites were to Cleon's.
 
-He did not go one step past that.
+He did not go a step past that.
 
 There was a step. He could feel where it was, as he had felt a word eight nights ago. He left it alone. It was one look, by a tool whose owner had said that it could not look there; and what he had got from it was a shape, and not a meaning. He would put the shape into the book. He would not put down a syllable of what it might mean, since he did not know, and since a guess written in that hand had a way of becoming a finding by morning.
 
