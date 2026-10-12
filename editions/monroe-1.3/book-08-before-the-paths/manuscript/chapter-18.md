@@ -216,7 +216,11 @@ She turned her head, and looked westward, where the road went over the next swel
 
 "Everything I can't read points at the same place."
 
-[[TIER-B: "Treswick," / "The archive under it. Cleon." / "Who's Cleon?" — the plan gives these three lines without their speakers; coordinator to supply the lines and tags here]]
+"Treswick," Vastin said.
+
+Karis said, "The archive under it. Cleon."
+
+"Who's Cleon?" Cael said.
 
 "The only historical-Path practitioner registered west of the Line. If the language is anywhere, it's under his hands. A day and a half."
 

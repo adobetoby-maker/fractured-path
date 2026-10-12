@@ -174,7 +174,7 @@ She stood before Cael at her stride and a half, and she looked at his hands. The
 
 "You, I've not read. I said at my own plank that when I put my hands on that again I'd know what I was reading for, and I'd have slept. I don't know yet. And I'll not do it tired, at a fork, with a round in front of me."
 
-[[TIER-B: Oryn, of the reading that she has not given Cael — "... the one thing I'm walking up that road owing" — the plan quotes this in part; coordinator to supply the protected line here]]
+"That's on me," said Oryn. "It's the one thing I'm walking up that road owing, and I'll pay it."
 
 "Then it'll keep," said Cael.
 
@@ -190,7 +190,7 @@ Cael had a thing in him, since noon, that had walked out of a row of paper and t
 
 The boxes came off the mule on the two hundred and eighty-first day, as soon as there was light to rope by, and the frost was white on the fork-stone.
 
-Brom unroped them himself. He had lashed them on the brown back at a ferry's shed with the beckets outward, so that they might go up any road; he had not said then that the last of that road would be on men's shoulders, and he did not say it now. He took the heaviest on his left side, where the webbing was not. Seln took the second by its beckets, on his back, above the strap of the case. The third stood on the frozen turf.
+Brom unroped them himself. He had lashed them on the brown back at a ferry's shed with the beckets outward, so that they might go up any road; he had not said then that the last of that road would be on people's shoulders, and he did not say it now. He took the heaviest on his left side, where the webbing was not. Lira took the second by its beckets, using both arms. The third stood on the frozen turf.
 
 A raw hand in linen went out toward it, from the side where a stick was.
 
@@ -200,11 +200,11 @@ The hand stopped.
 
 "I was not about to lift it. I had thought to steady it, while he—"
 
-"It's steady," said Cael. He got the box up by one becket, and Lira took the other and swung it to his shoulders with both arms, as if she had been doing so all her life. "It's been steady since Ostrand."
+"It's steady," said Cael. He got the third box up by one becket, and Brom steadied the other long enough to swing it to his shoulders. "It's been steady since Ostrand."
 
 Vastin put his hand back on the stick. He did not look pleased, and he did not argue; it was a middle state, and Cael thought that the man had not spent much of his life in it.
 
-There was not a great deal else to be done, since Karis had the flat under one arm and the hide under the other, as she had carried them off a landing. Lira took the tarred case in her left hand, by its strap, and nobody remarked on which hand it was. The healer's pannier stayed on the mule, with her linen in it, and a bow hung beside it with its one bolt.
+There was not a great deal else to be done, since Karis had the flat under one arm and the hide under the other, as she had carried them off a landing. Lira had the second box. The tarred kit case remained by the fork-stone. The healer's pannier stayed on the mule, with her linen in it, and a bow hung beside it with its one bolt.
 
 "She'll look for you at every halt," said Brom. He had the mule's nose in his big palm. "She's had three boxes on her since the snow."
 
@@ -212,7 +212,7 @@ There was not a great deal else to be done, since Karis had the flat under one a
 
 She did not say goodbye, since she had never said it to anybody, at any gate. She looked at each of them once, in no order, and at a bound knee last. Then she stood a moment before Cael, with her free hand shut, at her own distance.
 
-[[TIER-B: "Not the steps," … "Not the square." — the plan gives these two lines without their speaker or speakers; coordinator to supply the lines and tags here]]
+"Not the steps," she said. "Not the square."
 
 She turned the mule's head to the north.
 
@@ -221,6 +221,8 @@ They watched her go down the rut and past the fold, a square figure in an old co
 "It's six bowls," said Lira.
 
 "It's seven," said Brom. "I'll lay hers. Somebody can carry it empty for three weeks, and I'd as soon that it were me."
+
+When the northern rut had taken Oryn and the mule out of sight, Vastin went back to the fork-stone. He picked up the tarred kit case by its strap without asking anybody and came after the other five.
 
 They took the western ruts, and the box rode badly on Cael's shoulders for the first furlong, and then he found the way of it, as he had on a stair with something heavier. At a quarter of a mile he turned.
 
@@ -250,7 +252,7 @@ There was a town on the bluff.
 
 He counted it, since he counted anything: it went up in three steps. A wall ran round the foot of the bluff, grey and long, with a great many roofs behind it. Higher, where the ground steepened, there was a second wall, and the roofs inside that were of slate. The third was at the top, close and pale, about the crown of the rock. It was a day's walk off still, and he could have covered the whole of it with his thumb.
 
-"Three tiers," said Lira, at his shoulder. She had set the tarred case down. "They've built the ladder out of stone. I'd wondered what it would look like from outside."
+"Three tiers," said Lira, at his shoulder. She had set her box down. "They've built the ladder out of stone. I'd wondered what it would look like from outside."
 
 Nobody else said anything, and Karis had stopped a yard in front of them all. She stood with a calfskin under her arm and the wind pulling at her coat, and looked at a place whose name she had read once on the spine of a catalogue that she was not let to open. Seln was counting gates, with his lips. Brom lowered his box to the rock and rolled his left shoulder, and studied those three walls as he would have studied any wall.
 

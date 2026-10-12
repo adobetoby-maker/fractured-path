@@ -90,7 +90,7 @@ The crook was leaned against the bank. The factor climbed the low side with the 
 
 "So it's clear," said Brom.
 
-[[TIER-B: "clear because it's empty, not because it's safe" — the plan quotes this in part and does not pin its speaker; coordinator to supply the protected line and its tag here]]
+"It's clear because it's empty, not because it's safe," said Seln.
 
 Nobody added to it, and the factor came down off the bank.
 
@@ -162,7 +162,7 @@ Nobody answered him. The fire ticked.
 
 "I have never once in forty years needed someone else to be the reason."
 
-[[TIER-B: "You do now," — the plan gives this line without its speaker; coordinator to supply the tag]]
+"You do now," Cael said.
 
 Vastin received it as he had received the price of a loaf. He bowed his head by a little, toward the voice, and it was not the short stiff bow; it was a good deal less practised than that.
 

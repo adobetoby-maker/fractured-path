@@ -182,7 +182,7 @@ Cael knew it before she had moved the pencil. It was struck into the head of an 
 
 She took the dead man's ledger, and opened it at its first page, and set it down above the four sheets, so that a small pressed stroke and bar in pencil lay over four in a clerk's ink.
 
-[[TIER-B: "Two copies of one ignorance." — the plan gives this line without its speaker; coordinator to supply the tag here]]
+Karis said, "Two copies of one ignorance."
 
 Nobody at the slab asked who had filled that square, or by what rule, since there was not a person there who could have answered. Cael looked at five small marks. He had been stood on a plate once, and something had been written at the head of a sheet about him, in a place that a printer had ruled for it. It appeared that a hole in the ground could be filed in the same fashion. He put that where he put the rest, and added no verb to it.
 
