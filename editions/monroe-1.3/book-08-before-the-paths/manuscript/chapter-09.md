@@ -114,7 +114,7 @@ He caught it. Cael saw him get both fists on it, and saw the river take the ster
 
 A brown coat came down the tilted planks behind him.
 
-Its owner did not hurry. He had one leg that would not bend, and he came down that deck sideways, as a man goes down a stair with a bad knee. He stooped to the carter, and took the strap's tail out of the one fist that still held it. Cael watched him pass it round the rail-post in a single turn. He took the end behind his own back, and brought it forward under his other arm, and shut both hands on it against his chest.
+Its owner did not hurry. He had one leg that would not bend, and he came down that deck sideways. He stooped to the carter, and took the strap's tail out of the one fist that still held it. Cael watched him pass it round the rail-post in a single turn. He took the end behind his own back, and brought it forward under his other arm, and shut both hands on it against his chest.
 
 Then he set the soles of his boots against the post's foot, with the stiff leg straight and the other bent, and sat back upon the strap.
 

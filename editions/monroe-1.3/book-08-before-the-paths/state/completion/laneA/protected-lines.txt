@@ -1,0 +1,145 @@
+chapter-01.md:199	map	Pike brought his book out to the plank at noon on the hundred and thirty-third day, for the first time since t
+chapter-01.md:203	italic/doc	*Roof, the ferryman's rope-house; shingles found; five, when it has kept a thaw out.*
+chapter-01.md:205	italic/doc	*The well-house at the south fork; a door hung and a hearthstone laid; three, and flour.*
+chapter-01.md:207	italic/doc	*Fence, the axe-head hold, the long one; forty. HOLD.* There were five short strokes at the foot of that one a
+chapter-01.md:281	italic/doc	*Hundred and thirty-third day. Lowmarch, the lower inn. The cold stay is paid: four a month, five months, twen
+chapter-01.md:285	italic/doc	*The ten, by use. Trials, in the ferryman's shed, at night, with the door kept. Not uses. Not counted.*
+chapter-01.md:287	italic/doc	*Wind, from Lira: three bursts across the horse-walk, and then more behind the drum. The landing locks for one
+chapter-01.md:289	italic/doc	*Ember, from Karis: one point, on a wick. The heat comes back to the hand that carries the thing. The left pal
+chapter-01.md:291	italic/doc	*Shadow: came up at dusk as far as my knees. Held. Not opened, and it won't be.*
+chapter-01.md:293	italic/doc	*Deployment since the Line: twenty-seven.*
+chapter-02.md:281	italic/doc	*forty; paid*
+chapter-03.md:281	italic/doc	*Edge?* It had asked that one word of every corner and rim since a friend's sword put it in his arm, and tonig
+chapter-03.md:293	italic/doc	*Hundred and fiftieth day. The shed. Trials. Not counted.*
+chapter-03.md:295	italic/doc	*Compression, from Reydan: a sack, twice. Both heels down, and it stops against me like a post; the bill is th
+chapter-03.md:297	italic/doc	*Pressure, from the Bronze from Ardenmere: most of a breath to gather, where anybody can see. Narrow and deep;
+chapter-03.md:299	italic/doc	*Blade, from Ephram: an edge on my knife for about as long as a match burns. The steel pays. The knife won't c
+chapter-03.md:301	italic/doc	*Tide, from Oryn: asked, on the hundred and forty-eighth, for Lira's ankle. Told no. Not used. That is the rul
+chapter-03.md:303	italic/doc	*The yard: three touches to none. The read asked, and nobody would have seen. No Paths means the ten, whatever
+chapter-03.md:305	italic/doc	*Deployment since the Line: twenty-eight.*
+chapter-04.md:125	italic/doc	*There?*
+chapter-04.md:239	italic/doc	*Hundred and sixty-first day. A cart through the river at the bend, eighty yards out. The carter, his two mule
+chapter-04.md:241	italic/doc	*The read: the ground, on ice, from the shelf to the hole and back to the green. In earnest. All my near sight
+chapter-04.md:243	italic/doc	*Deployment since the Line: twenty-nine.*
+chapter-04.md:255	italic/doc	*Iron, from Brom: the read. The mass of a thing and which way it goes. The ground or the air, never both. A pa
+chapter-04.md:257	italic/doc	*On the ice the other nine were no use. Anchor would have held the lip and cost me the read. Wind would have s
+chapter-04.md:259	italic/doc	*Two still to try: Storm and Anchor. Tide waits on somebody's yes.*
+chapter-04.md:275	italic/doc	*third site confirmed on bearing*
+chapter-05.md:33	map	"He has done nothing that I could see to be different." Karis had come down the yard, and was frowning at the 
+chapter-05.md:107	map+pattern	"A measurement is a fact about a ruler," Karis said, "not about the hand that held it."
+chapter-05.md:113	map+italic/doc	*Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold.*
+chapter-05.md:155	italic/doc	*Hundred and sixty-eighth: one cord, two edges. Four hands agree. One does not, by a piece and by a hair. Cord
+chapter-05.md:191	italic/doc	*What I should have to be able to show.*
+chapter-05.md:211	italic/doc	*Storm, from Daeva: one lane. Ten counts late; clean at eleven. The read goes blind to the ground while it las
+chapter-05.md:213	italic/doc	*Anchor, unnamed: a point, by the hand, held to thirty. Everything else goes while it holds. Seen at ten feet;
+chapter-05.md:215	italic/doc	*That is the ten. Deployment since the Line: twenty-nine.*
+chapter-05.md:237	map	Cael entered that as he would have entered a touch taken. *He is better at this than I am. The cloth has said 
+chapter-06.md:91	map	"That's a season. Take it off."
+chapter-06.md:139	map	"Route's whole," Oryn said. "The knee held. Nobody died of three weeks."
+chapter-06.md:143	map	"It's an arm. Use it. It'll be slow for a month and it'll ache in the wet for a year and then it won't. Don't 
+chapter-06.md:203	map	"I don't know what that is," said Oryn. She pushed her sleeves up, from habit, and looked at what she had done
+chapter-06.md:257	pattern	"It's west," she said. "Treswick. The last Compact city on the Line. There's a registry office on the old town
+chapter-06.md:293	italic/doc	*Two hundred and seventieth day.*
+chapter-06.md:295	map+italic/doc	*The ferry runs when the ice goes. Karis has a bearing, an index she can't read, and a language she can't read
+chapter-08.md:25	italic/doc	*Out,* he thought, when the right came. *Home.* The left started. He did not go back from it. He went in down 
+chapter-08.md:143	italic/doc	*Ephram. You lose because you run it alone. I lost to a seven-foot pole all the cold term, three to none and t
+chapter-08.md:147	map	It rained that night, for the first time since the snow, and in the morning Lira came to the board with her le
+chapter-09.md:67	italic/doc	*There?* asked Anchor, of the post. It was a fair question. A point laid on that oak would have held it as a n
+chapter-09.md:171	pattern	Cael knew the stance before he knew the face.
+chapter-09.md:175	pattern	"Vastin," Seln said, beside him, in the voice for an inventory, and it was not an inventory.
+chapter-09.md:183	map	"Not that. Not for some months. Vastin will do; it did for my father."
+chapter-09.md:231	map	"Nothing," Vastin said. "Out here. Nothing yet."
+chapter-09.md:265	italic/doc	*Two hundred and seventy-seventh day. The read: the ground, at the landing, from the post's foot to the old si
+chapter-10.md:19	map	"Then you already know it doesn't care who you were."
+chapter-10.md:111	map	"Three hundred miles is a demonstration."
+chapter-10.md:155	map	"Not *will not*. *Cannot.* There is no key."
+chapter-11.md:105	map	"Because a council would file it," Vastin said, "and I spent forty years being the man they sent to make sure 
+chapter-11.md:109	map	"I helped bury smaller things. I'd like to dig one up before I'm done."
+chapter-11.md:239	italic/doc	*Total.*
+chapter-12.md:65	map+italic/doc	*—of the Architect: see the lower archive at Treswick, which holds it in full—*
+chapter-12.md:79	map	"No. I have one line, and I shall not say more about it than one line will carry. It is a title, and it stands
+chapter-12.md:111	italic/doc	*Deep layer. Sequence initiated*
+chapter-12.md:115	map+italic/doc	*Unreadable. Not halted. Running. Correlated with classification event —*
+chapter-12.md:135	italic/doc	*not read*
+chapter-12.md:173	italic/doc	*Received of Vastin, at Lowmarch, day two hundred and seventy-seven past the Line: one courier's flat, holding
+chapter-12.md:197	pattern	Oryn had not moved from the hinges. "She's right. Go and lie down, and don't take the stairs fast," she said i
+chapter-12.md:299	italic/doc	*Two hundred and seventy-seventh day, night. The first boat brought no paper for us. It brought one man, who w
+chapter-12.md:301	italic/doc	*Deployment since the Line: thirty.*
+chapter-13.md:27	pattern+italic/doc	*Clearance. The cut below the shoulder hold, on the border road, two days west.*
+chapter-13.md:261	italic/doc	*Two hundred and seventy-eighth day. A halting-ground on the border road, eleven miles from the river. A slip 
+chapter-13.md:263	italic/doc	*I ruled on a job. I have still not touched the page.*
+chapter-13.md:265	italic/doc	*Deployment since the Line: thirty.*
+chapter-14.md:233	italic/doc	*Yes*, he told the fifth of the ten, for the first time in earnest since a stair.
+chapter-15.md:141	italic/doc	*Away*, he thought. *Not at.*
+chapter-16.md:95	pattern	"It's clear because it's empty, not because it's safe," said Seln.
+chapter-16.md:161	map	"The wall held the line," Vastin said. "And someone else had to be the reason they wanted the line."
+chapter-16.md:165	map	"I have never once in forty years needed someone else to be the reason."
+chapter-16.md:173	map	"I know fields. I don't know packs." Vastin took up the stick. "I'll learn or I won't."
+chapter-16.md:191	italic/doc	*Two hundred and seventy-ninth day. The shoulder hold. The cut is clear of eight: five killed, by a rock twice
+chapter-16.md:193	italic/doc	*I planned it wrong. They do not go to where a thing is declared. On that ice they go to where it stops. I put
+chapter-16.md:201	map+italic/doc	*Vastin fought. He rooted the road and nearly got eaten for it — a wall's no good if you're the only thing mak
+chapter-16.md:209	italic/doc	*The point: Ember, one grain, at the mark. In earnest. The left palm, though I held nothing.*
+chapter-16.md:211	italic/doc	*Wind: one burst, away, ten strides, to the north bank inside the wall. The lock was spent behind another man'
+chapter-16.md:213	italic/doc	*Nothing came of standing by it. Ten.*
+chapter-16.md:215	italic/doc	*Deployment since the Line: thirty-two.*
+chapter-17.md:91	italic/doc	*Behaves as device. Cannot be.*
+chapter-17.md:109	map	"No," said Karis. "A measurement is a fact about a ruler, not about the hand that held it."
+chapter-18.md:111	italic/doc	*Deep layer*, the sheet said, in the first of its lines; and then two words; and then that day.
+chapter-18.md:171	map	"Out here the habit's the tell."
+chapter-18.md:209	map	"Six years," Karis said. "They measured all of it. They graded it — the sites are ranked by something, and it'
+chapter-18.md:213	map	"Everything I can't read points at the same place."
+chapter-18.md:223	map	"The only historical-Path practitioner registered west of the Line. If the language is anywhere, it's under hi
+chapter-18.md:227	map	"And then I find out whether I've been right for five years or wrong for five years, and I don't know which I'
+chapter-19.md:67	map	"Leaving and routing are different verbs. I'm doing the second."
+chapter-19.md:95	map	"No. So I don't know what a station does with it. That's the whole of my reason, and it's no better than that.
+chapter-19.md:109	map+italic/doc	*The fork. Oryn north; five holds; routing, not the other verb. Her term, given at the fire, taken in the log 
+chapter-19.md:183	pattern	"That's on me," said Oryn. "It's the one thing I'm walking up that road owing, and I'll pay it."
+chapter-19.md:191	map	"Three weeks, and the mill. And you'll not come to me there with what you think that I ought to hear." Her eye
+chapter-19.md:231	pattern	"Not the steps," she said. "Not the square."
+chapter-20.md:49	italic/doc	*What does it weigh?* asked the read, civilly, of the post, as it had asked of every rut for three days. Cael 
+chapter-20.md:97	map+italic/doc	*Write it down and stop touching it.*
+chapter-20.md:197	pattern	He had been putting a cord on a stone and writing down *no length*. A cord is made to be run out along a road,
+chapter-21.md:55	italic/doc	*What is it that you feel?*
+chapter-21.md:59	italic/doc	*And there?*
+chapter-21.md:119	map	"I declined to read you a second time," said Vastin. "You know that. What you do not know is why."
+chapter-21.md:227	italic/doc	*Lira asked whether it was the thing I was told to leave alone. I said beside it. I read a healer's order for 
+chapter-21.md:233	map+italic/doc	*Ran the reading on myself again. Same nothing at the center. I think the reading can't do it — you can't meas
+chapter-21.md:241	italic/doc	*V. sat. He told me the rest of why. I told him what the reading can't do, and nothing of what reads. What he 
+chapter-21.md:243	italic/doc	*Deployment since the Line: thirty-two. Myself, twice: not counted, as before.*
+chapter-22.md:55	italic/doc	*There?* asked Anchor, in its thin held note, of the two sockets and the road between them. He told it no.
+chapter-22.md:251	map	"I can't mend a thing that's whole. It'd have to be parted again, where it's knit, and laid straight; and then
+chapter-23.md:15	map	Karis had not sat down. She stood in the middle of the loft with the flat under one arm and the hide under the
+chapter-23.md:43	map	"I have papers I will not show. I want that said once, so that nobody asks twice."
+chapter-23.md:79	italic/doc	*There?* said Anchor, of the arch. It was a tall one, with a groove cut down each jamb where something heavy c
+chapter-23.md:207	italic/doc	*Irregular. Subsistence taken in a licensed house by an officer of the gate, without payment; to be drawn to t
+chapter-23.md:281	pattern	Lira said, to nobody, "Four hands," and then, "I've two."
+chapter-23.md:287	map	Cael wrote: *Entered by count. That's the door.*
+chapter-23.md:327	map+pattern	"Last time we walked into a place like this," Cael said, "it took four years and a hearing to walk out."
+chapter-23.md:329	map	"Last time we didn't know what we were looking for," Karis said.
+chapter-23.md:333	map+pattern	"A name and a reason," Karis said. "Older than the walls, under our feet, and nobody's read it because nobody'
+chapter-24.md:81	pattern	"Fused. Grey. No join. Three of them. I copied every mark on all three. Fifty-two sheets," Karis said.
+chapter-24.md:265	italic/doc	*Two hundred and eighty-third day. Treswick, the district under the first wall. A hundred and thirty-six. Saw 
+chapter-24.md:267	italic/doc	*S. has a way to the yard that crosses nothing I've written about. A stair. Tomorrow, the second bell, on a ca
+chapter-24.md:269	italic/doc	*Deployment since the Line: thirty-two.*
+chapter-25.md:251	italic/doc	*There?* asked Anchor. It asked very softly here, as a person lowers his voice in an old room. Cael told it no
+chapter-26.md:157	map+italic/doc	*Lira looked at the whole ladder from the top of it and it didn't pull. She priced it. She's carrying a box.*
+chapter-26.md:243	italic/doc	*There?* said Anchor.
+chapter-27.md:33	italic/doc	*There?* he waited to hear, from the thin held note; and he did not hear it.
+chapter-27.md:227	map+pattern	"Being believed — " He stopped. "I had thought it would be a relief. It's not. It's the end of being able to b
+chapter-28.md:73	pattern	"He's on the count. Four hands, same as yesterday, entered by the practitioner and answered for by her, and th
+chapter-28.md:107	map	"Don't be sorry," Seln said. "Be nobody."
+chapter-28.md:287	italic/doc	*Two hundred and eighty-fifth day. Treswick; the loft. A hundred and thirty-six. Deployment since the Line: th
+chapter-28.md:291	map+italic/doc	*Karis has been looking for this room her whole life. Cleon's been sitting in it for thirty years waiting for 
+chapter-29.md:31	italic/doc	*What does it weigh?* asked the read.
+chapter-29.md:141	map	"You think Karis is right? That it's all built on something?"
+chapter-29.md:145	map	"I think we're about to find out."
+chapter-29.md:147	map	"Good. I'd hate to have turned down a real job for a wrong hunch."
+chapter-29.md:237	map	"I can tell you these are orders. I can't tell you what they order. For that you need the language, and the la
+chapter-29.md:257	map	"It doesn't work on a river, and it doesn't work on a man, and it doesn't work on a tree, because nobody chose
+chapter-29.md:305	italic/doc	*Brom: the left shoulder wrenched, under a dray in the registry's yard, with no Path opened. He is carrying on
+chapter-29.md:307	italic/doc	*Cleon has a board. He put it against her fourth sheet and it was the same line twice. Some signs bear, and so
+chapter-29.md:309	italic/doc	*He says what it won't work on, and I'm one of the things. I wanted it tried all the same. Not said.*
+chapter-29.md:311	italic/doc	*Deployment since the Line: thirty-two.*
+chapter-30.md:159	map+italic/doc	*Brom was offered the life. He picked up the box.*
+chapter-30.md:161	map+italic/doc	*Seln looked at it. Decided nothing.*
+chapter-30.md:273	map	"You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anythi

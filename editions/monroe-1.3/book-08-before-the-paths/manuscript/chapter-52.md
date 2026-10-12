@@ -26,7 +26,7 @@ Lira had seen it. So had Brom; Cael heard him let his breath out through his nos
 
 The country changed before noon.
 
-The grass thinned, and then there was more stone than grass. It was shale, grey and dark, lying in great flat steps, each as broad as a field and no higher than a man, so that they went down the land as a person goes down a wide stair. There was no water anywhere on it, and nothing grew in the cracks but a thin red moss. The gap in the hills stood up ahead of them the whole day, square, and came no nearer than a thing does that is watched.
+The grass thinned, and then there was more stone than grass. It was shale, grey and dark, lying in great flat steps, each as broad as a field and no higher than a man, so that they went down the land as down a wide stair. There was no water anywhere on it, and nothing grew in the cracks but a thin red moss. The gap in the hills stood up ahead of them the whole day, square, and came no nearer than a thing does that is watched.
 
 Teague called the halt in the middle of the afternoon, under one of the steps.
 
@@ -40,7 +40,7 @@ Seln had his coat buttoned already. He went away eastward over the lip, alone, w
 
 She asked for Brom's blanket, since it was the largest that they had. She meant to lay the whole line out upon it as it lay across the country.
 
-She had it spread on the flat of the shelf, twenty yards from where the boy was laying a fire, and upwind of it; she had never been willing to have a spark near paper. Then she stood at its edge with the hide under one arm and the courier's flat under the other, and looked at a grey square of wool as he had seen her look at a wall under a floor.
+She had it spread on the shelf, twenty yards from where the boy was laying a fire, and upwind of it; she had never been willing to have a spark near paper. Then she stood at its edge with the hide under one arm and the courier's flat under the other, and looked at a grey square of wool as he had seen her look at a wall under a floor.
 
 "I have had these in three boxes for the better part of two hundred days," she said. "I have never had them in one place. I want everything that anybody has found on this, in order, before the light goes; and I should be glad if nobody put down a pebble that I had not asked for."
 
@@ -86,7 +86,7 @@ He shut his eyes, and it was too late for that; he had had it.
 
 "I'm not offering it. I'm telling you what it took, just now, before I could stop it, since it's yours to file and not mine." He opened his eyes upon the shale beside the blanket's edge, which nobody had made. "He said that an instruction leans, and showed it you in one row. Every sheet that you've laid does it, as they lie now, and they lie with your brass. There's not one that goes across. They go east."
 
-Nobody spoke. Brom had a pebble in his hand, and did not put it down.
+Brom had a pebble in his hand, and did not put it down.
 
 Karis looked at fourteen sheets for the space of a dozen breaths. Then she took up her pencil.
 
@@ -98,7 +98,7 @@ Karis looked at fourteen sheets for the space of a dozen breaths. Then she took 
 
 ---
 
-She sent for the old man then.
+She sent for Vastin then.
 
 He came across from the fire on the ash, with the lean old woman's eyes following two laths the whole way; and he stopped at the blanket's edge, and looked at what lay on it, and did not offer to sit.
 

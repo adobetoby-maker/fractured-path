@@ -1,0 +1,48 @@
+== overlap M1
+# summary: 0 unprotected shared runs of >= 8 words; 9 protected runs (allowed)
+== gates M1
+chapter-01.md words=5250 reader_standard=0 metadata=0 modern=0
+chapter-02.md words=5022 reader_standard=0 metadata=0 modern=0
+chapter-03.md words=5280 reader_standard=0 metadata=0 modern=0
+chapter-04.md words=4890 reader_standard=0 metadata=0 modern=0
+chapter-05.md words=5394 reader_standard=0 metadata=0 modern=0
+chapter-06.md words=5185 reader_standard=0 metadata=0 modern=0
+== overlap M2
+# summary: 0 unprotected shared runs of >= 8 words; 11 protected runs (allowed)
+== gates M2
+chapter-07.md words=5199 reader_standard=0 metadata=0 modern=0
+chapter-08.md words=5004 reader_standard=0 metadata=0 modern=0
+chapter-09.md words=4932 reader_standard=0 metadata=0 modern=0
+chapter-10.md words=4688 reader_standard=0 metadata=0 modern=0
+chapter-11.md words=5113 reader_standard=0 metadata=0 modern=0
+chapter-12.md words=5210 reader_standard=0 metadata=0 modern=0
+== overlap M3
+# summary: 0 unprotected shared runs of >= 8 words; 16 protected runs (allowed)
+== gates M3
+chapter-13.md words=5245 reader_standard=0 metadata=0 modern=0
+chapter-14.md words=4608 reader_standard=0 metadata=0 modern=0
+chapter-15.md words=4683 reader_standard=0 metadata=0 modern=0
+chapter-16.md words=4698 reader_standard=0 metadata=0 modern=0
+chapter-17.md words=4768 reader_standard=0 metadata=0 modern=0
+chapter-18.md words=5104 reader_standard=0 metadata=0 modern=0
+chapter-19.md words=5721 reader_standard=0 metadata=0 modern=0
+== overlap M4
+# summary: 0 unprotected shared runs of >= 8 words; 12 protected runs (allowed)
+== gates M4
+chapter-20.md words=5340 reader_standard=0 metadata=0 modern=0
+chapter-21.md words=5223 reader_standard=0 metadata=0 modern=0
+chapter-22.md words=5035 reader_standard=0 metadata=0 modern=0
+chapter-23.md words=5501 reader_standard=0 metadata=0 modern=0
+chapter-24.md words=4908 reader_standard=0 metadata=0 modern=0
+chapter-25.md words=4570 reader_standard=0 metadata=0 modern=0
+chapter-26.md words=4677 reader_standard=0 metadata=0 modern=0
+== overlap M5
+# summary: 0 unprotected shared runs of >= 8 words; 17 protected runs (allowed)
+== gates M5
+chapter-27.md words=5603 reader_standard=0 metadata=0 modern=0
+chapter-28.md words=4993 reader_standard=0 metadata=0 modern=0
+chapter-29.md words=4966 reader_standard=0 metadata=0 modern=0
+chapter-30.md words=5264 reader_standard=0 metadata=0 modern=0
+chapter-31.md words=4761 reader_standard=0 metadata=0 modern=0
+chapter-32.md words=5237 reader_standard=0 metadata=0 modern=0
+chapter-33.md words=5248 reader_standard=0 metadata=0 modern=0

@@ -202,7 +202,7 @@ He had another. It lay behind his eyes in two words, and the two findings did no
 
 He looked at the roof, and kept his own.
 
-It was not the first thing that he had kept back. He had kept a date from everybody, at a spring, and a warning. But he had never before kept a thing from the person whose hands had drawn it out, with those hands hardly cold upon him; and he found that it had a weight which the others had not.
+It was not the first thing that he had kept back. He had kept a date from everybody, at a spring, and a warning. But he had never before kept a thing from the person whose hands had drawn it out, with those hands hardly cold upon him; and it had a weight which the others had not.
 
 "That's all?" said Lira. She was not asking him.
 
@@ -228,7 +228,7 @@ It was said without any heat.
 
 The paper stayed where it was. Cael had put his hand to his coat when the girl began, and he took it away again.
 
-He was not sorry. She had drawn a line round her own table; and it was the same line that a small pale woman had drawn on a desk with a bound hand: what a person had found went on one page, and what a person had been told went on another.
+He was not sorry. She had drawn a line round her own table; and it was the same line that Karis had drawn on a desk with a bound hand: what a person had found went on one page, and what a person had been told went on another.
 
 "Go to bed," said Oryn. "The pair of you. I'm going to sit here until I can stand."
 
@@ -242,7 +242,7 @@ His eyes began to pay before he was across the yard.
 
 It came as it had come on a stair under a registry: first a dryness, and then sand, as though somebody had thrown a handful of the road into his face. By the door of the cart-shed the mill's one lantern had a ring round it, like a moon in mist, and he did not look at it twice.
 
-They had been given the cart-shed, with last year's hay thrown down between the wheels. Ten people lay in it, and a big man's breathing went up and down at the far end like a slow saw. He found his place by his hands, and lay down on his back with his arm across his face, and let the water run.
+They had been given the cart-shed, with last year's hay thrown down between the wheels. Ten people lay in it, and Brom's breathing went up and down at the far end like a slow saw. He found his place by his hands, and lay down on his back with his arm across his face, and let the water run.
 
 It ran for a long time. He had not turned the twelfth; it had turned of itself, and he had not looked at anything, with his eyes or without them. It billed him all the same, to the grain, as a toll-keeper charges a cart that was pushed through his gate by somebody else.
 

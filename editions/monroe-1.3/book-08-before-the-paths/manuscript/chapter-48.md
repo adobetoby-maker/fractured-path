@@ -54,7 +54,7 @@ Brom told off the water before anybody had sat down: there were ten skins betwee
 
 The healer, who was sitting on a fallen post with the rope under her boot, said nothing at all; but Cael saw the corner of her mouth go down.
 
-There was a rafter lying in the grass under the gable. It had lain there on the hundred and twenty-first night, and a big man had bent to it then, and a bound arm had started toward it and stopped at the first strap. Two women had told him *twice*, and *not three*; and Brom looked at it now for some time. Then he stooped, and put both hands under it, and lifted, and carried it to the fire against his chest as a man carries a sleeping child.
+There was a rafter lying in the grass under the gable. It had lain there on the hundred and twenty-first night, and Brom had bent to it then, and a bound arm had started toward it and stopped at the first strap. Two women had told him *twice*, and *not three*; and he looked at it now for some time. Then he stooped, and put both hands under it, and lifted, and carried it to the fire against his chest as a man carries a sleeping child.
 
 He broke it across his knee himself.
 
@@ -312,7 +312,7 @@ He laid what he had found on the grass between the two fires, since it was for b
 
 "No cart could come within two miles of that fold. Somebody walks to it, with kegs on a beast, as often as a keg is emptied." He looked east along the ridge, where there was nothing to see but grass going grey. "It is a day from here to the brow. I think that a posting sends for its water."
 
-Teague had come across the gap to look at the hoop, and he stood over it with his thumbs in his belt.
+Teague had come across the gap to look at the hoop, and he stood over it.
 
 "Then we'll see their fire tomorrow," he said.
 

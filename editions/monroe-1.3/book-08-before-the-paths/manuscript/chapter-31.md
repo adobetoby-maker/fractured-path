@@ -68,7 +68,7 @@ It was a tally of loads, as she had known that it would be. A cramped brown hand
 
 She found *twelve* within the first leaf, and *nine*, twice, spelled alike both times. *Seven* took her longer; this town had brought in a great many things by the dozen and the score, and few by sevens.
 
-She did not look toward the plank at all; she kept her shoulder to it.
+She kept her shoulder to the plank the whole while.
 
 On her folded leaf she wrote the three words as that clerk had written them, one under another. Then she wrote the pattern, as she had sworn to, and nothing else. In the first word, six letters; the third and the sixth alike. In the second, four; the first and the third alike, and its last the same as that pair in the word above. In the third, five; its second and fourth alike, and the same again as that letter; its third the same as the fifth of the first word; its last the same as the first of the second.
 
@@ -326,7 +326,7 @@ He had moved it before the word. He knew that he had, since the word had been cu
 
 It happened twice more before the bell.
 
-He turned it over on the cold rock, with his forearm along his thigh. He had thought that he was learning one man's habits, as a groom learns a horse. That was not quite it. All the looking in that gallery ran one way. It began at the low left corner of whatever was looked at, and it climbed to the right; and it did so on the plank, and on every sheet of fifty-two, and it had done so at a cook-house counter. The board stood propped against the table's edge, with its head a little back; and he found that he knew, without the grey head's help, which end of each row the reed would come to first.
+He turned it over on the cold rock, with his forearm along his thigh. He had thought that he was learning one man's habits, as a groom learns a horse. That was not quite it. All the looking in that gallery ran one way. It began at the low left corner of whatever was looked at, and it climbed to the right; and it did so on the plank, and on every sheet of fifty-two, and it had done so at a cook-house counter. The board stood propped against the table's edge, with its head a little back; and he knew, without the grey head's help, which end of each row the reed would come to first.
 
 He could not have said how he knew, since he had not been told anything; and he did not make a finding of it. He put it with a cord that read short, and a hair, and a wish; and the heap was getting large.
 

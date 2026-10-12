@@ -134,7 +134,7 @@ She had turned to the man with the card.
 
 He had not looked at her, or at the boy beside her with a hand inside his coat. He looked at the leaf of horn on its beech board. Then he laid the upper board over it, as a lid is laid, and set the jar upon the board.
 
-Cael went up the stair a flight behind a sound that scraped, as he had said that he would. He did not go nearer. On the second landing he found that the sound had got above him, higher than it had ever been at a bell; and something in his chest that had been shut all day came a little way open at that, and he let it.
+Cael went up the stair a flight behind a sound that scraped, as he had said that he would. He did not go nearer. On the second landing the sound had got above him, higher than it had ever been at a bell; and something in his chest that had been shut all day came a little way open at that, and he let it.
 
 He took the foot of the case for the last three steps. Nobody spoke of it.
 
@@ -206,7 +206,7 @@ He knew that he would have to. He did not think that a cart's tail was the place
 
 In the lane the four alleys had lost their white. He pushed through four bars of a paler light, with a shoulder against his own at each; and he did not look at them, and he did not think about them. He looked at a pair of raw hands on a tarred case, a yard from his face.
 
-They were shut very tight. The old man had not said one word since the bell.
+They were shut very tight. Vastin had not said one word since the bell.
 
 "He's been like that since noon," said Lira, low. "Brom tried him with a joke, in the yard. He said, *I beg your pardon?* As if Brom had asked him the hour."
 
@@ -218,17 +218,17 @@ They were shut very tight. The old man had not said one word since the bell.
 
 "I'd better."
 
-The old keeper at the round arch counted one, and four, and said that their lame one looked no better for his ride. Nobody answered him. He looked a second time at the cart, and at the faces round it, and made his stroke without another word.
+The old keeper at the round arch counted one, and four, and said that their lame one looked no better for his ride. He looked a second time at the cart, and at the faces round it, and made his stroke without another word.
 
 ---
 
 The stable kept an iron basket on three legs, for the carters, and Brom had it out by the stall door before the cart was swept.
 
-He laid the fire himself, with ends of split log from the kitchen's heap, and struck it with his own flint. A small pale woman stood by and watched him do it, with her bound hand in her coat, and did not offer. She had not struck a point since a fork on a moor. There was a wall over that yard with a book at its gate.
+He laid the fire himself, with ends of split log from the kitchen's heap, and struck it with his own flint. Karis stood by and watched him do it, with her bound hand in her coat, and did not offer. She had not struck a point since a fork on a moor. There was a wall over that yard with a book at its gate.
 
 "It'll want a quarter of an hour to be worth sitting at," he said. "I'm going for the pot."
 
-They brought the old man out of his stall between them, and set him on the mounting block, with the leg along it and a blanket folded under the heel. There were buckets in the stable, of oak, with rope handles. Lira turned five of them upside down in a round about the basket. It was nearly dark under the arch, and the lamp over the painted door had been lit; and Seln sat down on the bucket that faced it.
+They brought Vastin out of his stall between them, and set him on the mounting block, with the leg along it and a blanket folded under the heel. There were buckets in the stable, of oak, with rope handles. Lira turned five of them upside down in a round about the basket. It was nearly dark under the arch, and the lamp over the painted door had been lit; and Seln sat down on the bucket that faced it.
 
 Cael did not sit. He stood with his back to the stable wall and his hand inside his coat.
 

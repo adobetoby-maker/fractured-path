@@ -304,7 +304,7 @@ Teague set the file as Cael would have laid out a bout, from the ground upward, 
 
 "And my bow last, where he can see all our backs and the road behind them."
 
-It was the first time that those two had exchanged a word, and Cael marked it. The old man had opened his mouth afterward, as he opened it after any instruction, and Cael waited for the clause; but Teague had already turned to the pegs, and whatever had been prepared was not called for.
+It was the first time that those two had exchanged a word, and Cael marked it. Vastin had opened his mouth afterward, as he opened it after any instruction, and Cael waited for the clause; but Teague had already turned to the pegs, and whatever had been prepared was not called for.
 
 They walked the meadow.
 
@@ -312,7 +312,7 @@ They went round it in file, at a road's pace, between the fires. Carters stopped
 
 By the third round they stood together.
 
-It was a small thing. Cael, at a captain's left shoulder, a stride back, felt it happen behind him, as a person feels a door shut somewhere in his own house: nine people stopped on one flat hand, and there was not a sound in that corner of the meadow but the fires. He glanced once to his right, and Teague had not turned his head. But the chin had come up, by the width of a finger, at nothing at all.
+It was a small thing. Cael, at a captain's left shoulder, a stride back, felt it happen behind him, as a person feels a door shut somewhere in his own house: nine people stopped on one flat hand, and there was not a sound in that corner of the meadow but the fires. He glanced once to his right, and Teague had not turned his head. But the chin had come up, at nothing at all.
 
 They were in the fourth when Lira left the file. A small clear voice had called her name from the gate of the inn yard, twice, in a tone that Cael knew. She was gone for as long as it takes to cross a yard, and she came back at a run, and touched his sleeve.
 

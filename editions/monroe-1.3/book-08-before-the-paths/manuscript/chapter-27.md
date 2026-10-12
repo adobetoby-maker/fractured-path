@@ -8,7 +8,7 @@ It was done as a thing is passed over a counter. The man in the dusty coat had s
 
 Then he went down the stair ahead of them, into the dark, with no light at all.
 
-Cael stood on the first tread and listened to him go. The steps were quick and flat and perfectly even, with never a hand put out to the wall, and they grew small as a dropped stone grows small in a well. A man who has gone up and down one stair for the better part of his life does not need to see it.
+Cael stood on the first tread and listened to him go. The steps were quick and perfectly even, with never a hand put out to the wall, and they grew small as a dropped stone grows small in a well. A man who has gone up and down one stair for the better part of his life does not need to see it.
 
 "He's left us," said Brom.
 
@@ -68,7 +68,7 @@ He counted his strides instead, since it was something to count.
 
 The floor was the bluff's own rock, cut level, and it was clean. No dust lay on it as dust lies in a loft; there was only a fine pale bloom along the foot of each bay, where nobody walked, and it was the colour of a certain coat. The air smelled of dry paper, and of old glue, and of cold stone, and under those of nothing whatever. It was the smell of a book that has stood shut on a shelf since before its reader was born.
 
-He listened for the feet of five storeys of clerks, which he had carried down with him to an iron sill, and they were gone. He could hear the lamp burn. He could hear the old man's stick, and Brom's breath, and the small dry rub of a calfskin against a sleeve.
+He listened for the feet of five storeys of clerks, which he had carried down with him to an iron sill, and they were gone. He could hear the lamp burn. He could hear Vastin's stick, and Brom's breath, and the small dry rub of a calfskin against a sleeve.
 
 "There is no register of this," said Vastin.
 

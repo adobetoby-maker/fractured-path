@@ -4,7 +4,7 @@ The bridge was a made thing that morning, and it had never been one before.
 
 It was the two hundred and ninety-second morning past the Line, and Cael saw it from the kerb of the carts' street, where the hill dropped away and all the roofs of the district lay below. It stood out on the brown water as it had stood the day before, small and dark, on five piers. He had looked at it then as a person looks at a road that he came in by. Now it was the oldest thing that he could see from that hill which anybody had built. He had that on the word of a small pale woman, who had laid her hand where the masons' pale stone was cut to fit it. And the new thing behind his eyes came round to it, across half a mile of air, like a head lifted from a book.
 
-He did not know whether it could read so far. He found that he did not wish to learn it on a street, with three hours' sleep in him and a lamp to hold.
+He did not know whether it could read so far. He did not wish to learn it on a street, with three hours' sleep in him and a lamp to hold.
 
 He put his eyes on the tail-board of the handcart. That was no better. The tail-board had a hinge, and the hinge leaned.
 
@@ -24,7 +24,7 @@ She thought about that for the length of ten strides.
 
 "You're going to run out of places to put your eyes," she said.
 
-The clerk wrote *the same*, and *four*. The old man went down twenty-seven steps on his seat, with his heel in Cael's palm, and said at the foot that he believed he had improved upon his time.
+The clerk wrote *the same*, and *four*. Vastin went down twenty-seven steps on his seat, with his heel in Cael's palm, and said at the foot that he believed he had improved upon his time.
 
 There was tar on the lamp's ring before the first sheet had been looked at.
 
@@ -254,7 +254,7 @@ A needle swings to iron. Nobody says that the needle has seen the iron. A cord h
 
 It was three strides to that window.
 
-He looked at the three strides. The old man slept in a stall now. The pallet by the gable had been rolled, and there was nothing between his knee and the blanket but boards. He could cross them. He could lift one corner of a horse-blanket, and see for himself whether the thing on the crown burned as it had always burned.
+He looked at the three strides. Vastin slept in a stall now. The pallet by the gable had been rolled, and there was nothing between his knee and the blanket but boards. He could cross them. He could lift one corner of a horse-blanket, and see for himself whether the thing on the crown burned as it had always burned.
 
 He had written a sentence at a fork-stone, in this book, at a square woman's asking, and had read it back to her. It did not say *the steps* and *the square* because those were the only two ways of going near. It said them because she had seen what he did with a question.
 

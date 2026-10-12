@@ -44,7 +44,7 @@ Nobody spoke for another furlong. It was Vastin who did it first, and he had wai
 
 "No," said Cael.
 
-"I do not say it as a complaint. I am trying to enter it correctly." The old man was a little out of breath, and he had kept his place, a dozen strides back, so that he had to pitch the words forward. "I have not gone into a room in forty years that did not turn to see who had come. I have just stood within fifty yards of a thing that hunts, and it went over me as it went over a bush. I find that I have no column for that."
+"I do not say it as a complaint. I am trying to enter it correctly." He was a little out of breath, and he had kept his place, a dozen strides back, so that he had to pitch the words forward. "I have not gone into a room in forty years that did not turn to see who had come. I have just stood within fifty yards of a thing that hunts, and it went over me as it went over a bush. I find that I have no column for that."
 
 "You were a post. A post is what it doesn't look at."
 
@@ -222,7 +222,7 @@ The cold came up out of the cut to meet him like the air from a cellar. He kept 
 
 At sixty strides there was a flat stone at the road's edge, and Brom stepped onto it and set his feet, with the rock held against his thigh. Vastin stopped behind him. Cael did not see where Lira went; there was a small dry rattle on the scree above, and then nothing. Seln had left them at the foot, and was already nowhere.
 
-Brom looked at him, once. Then the big man put his right hand flat, palm down, at his side.
+Brom looked at him, once. Then he put his right hand flat, palm down, at his side.
 
 Cael went on by himself.
 

@@ -1,0 +1,32 @@
+ch31 sentences 211->211  skeleton(>=0.50) 2->2  close(>=0.35) 25->25
+ch32 sentences 243->243  skeleton(>=0.50) 5->5  close(>=0.35) 40->40
+ch33 sentences 243->243  skeleton(>=0.50) 12->12  close(>=0.35) 36->37
+    changed sentence at 0.38: He stopped a step above Vastin, and looked at him for some time.
+ch34 sentences 220->219  skeleton(>=0.50) 3->3  close(>=0.35) 33->33
+    changed sentence at 0.45: They put Vastin on the mounting block, with the leg out along it.
+ch35 sentences 248->247  skeleton(>=0.50) 9->9  close(>=0.35) 47->46
+ch36 sentences 263->263  skeleton(>=0.50) 1->1  close(>=0.35) 30->30
+ch37 sentences 284->283  skeleton(>=0.50) 10->10  close(>=0.35) 55->55
+ch38 sentences 212->212  skeleton(>=0.50) 15->15  close(>=0.35) 46->46
+ch39 sentences 217->217  skeleton(>=0.50) 1->1  close(>=0.35) 50->49
+ch40 sentences 181->181  skeleton(>=0.50) 10->10  close(>=0.35) 34->34
+ch41 sentences 216->215  skeleton(>=0.50) 1->1  close(>=0.35) 29->29
+ch42 sentences 265->265  skeleton(>=0.50) 1->1  close(>=0.35) 32->32
+ch43 sentences 215->213  skeleton(>=0.50) 1->1  close(>=0.35) 26->26
+ch44 sentences 242->242  skeleton(>=0.50) 1->1  close(>=0.35) 28->28
+ch45 sentences 284->283  skeleton(>=0.50) 12->12  close(>=0.35) 42->42
+ch46 sentences 248->248  skeleton(>=0.50) 3->3  close(>=0.35) 27->27
+ch47 sentences 223->222  skeleton(>=0.50) 0->0  close(>=0.35) 17->17
+ch48 sentences 249->249  skeleton(>=0.50) 0->0  close(>=0.35) 16->16
+ch49 sentences 258->258  skeleton(>=0.50) 1->1  close(>=0.35) 19->19
+ch50 sentences 248->248  skeleton(>=0.50) 4->4  close(>=0.35) 23->23
+ch51 sentences 250->249  skeleton(>=0.50) 9->9  close(>=0.35) 25->25
+ch52 sentences 247->247  skeleton(>=0.50) 7->7  close(>=0.35) 30->30
+ch53 sentences 214->214  skeleton(>=0.50) 10->10  close(>=0.35) 23->23
+ch54 sentences 260->259  skeleton(>=0.50) 1->1  close(>=0.35) 29->29
+ch55 sentences 260->260  skeleton(>=0.50) 4->4  close(>=0.35) 45->45
+ch56 sentences 224->224  skeleton(>=0.50) 1->1  close(>=0.35) 25->25
+ch57 sentences 240->240  skeleton(>=0.50) 13->13  close(>=0.35) 47->47
+ch58 sentences 256->256  skeleton(>=0.50) 9->9  close(>=0.35) 29->29
+ch59 sentences 232->232  skeleton(>=0.50) 5->5  close(>=0.35) 47->47
+ch60 sentences 200->200  skeleton(>=0.50) 12->12  close(>=0.35) 40->40

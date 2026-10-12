@@ -82,7 +82,7 @@ She was at the tall book before he had done. Cael held the flame for her, a hand
 
 "Fifteen."
 
-Cael knelt, and kept the light where it was wanted; and he found that he had put it there, twice, before the finger moved.
+Cael knelt, and kept the light where it was wanted; and he had put it there, twice, before the finger moved.
 
 He had done as much for three days, and it was not the same. He had moved the lamp then because the eyes always went one way, and he had learned the way as a groom learns a horse. He moved it now because he could see where the row was going. A made thing was looked at from where it stood upon the ground, toward where it went, and a light set anywhere else lay across the grain of it. He was glad to have that; it explained six days of *left* and *up a finger*.
 
@@ -126,7 +126,7 @@ He went to his desk to write the card. A long way off, at the stair's foot, some
 
 ---
 
-The old man had gone to the stair a quarter of an hour before the bell, by himself.
+Vastin had gone to the stair a quarter of an hour before the bell, by himself.
 
 He had said that he would. A person who must climb as he had to climb did well to begin early. He had gone off down the gallery on the stick, hand over hand along the black uprights, with a civil refusal for each of the three who offered an arm. He had left the tarred case leaning at the foot of the first flight. Cael heard him before he saw the place: a slow scrape, and a breath, and a scrape, somewhere up in the dark of the first flight.
 
@@ -160,7 +160,7 @@ Brom had heard, as he heard everything on a stair, having nothing to do there bu
 
 "I'm going back down. I'm going to tell him."
 
-Nobody answered at once. Above them a boot's heel knocked on stone, and there was a pause, and a breath.
+Above them a boot's heel knocked on stone, and there was a pause, and a breath.
 
 "You've one up there that you couldn't tell," said Lira. She did not say it unkindly; she had read two lines in a book, the night before, and had read them twice. "You wrote that you can't tell the taking without the rest, and the rest isn't yours. It's six people's."
 
@@ -272,7 +272,7 @@ Brom was still on the box, at the stair's foot, in the dark.
 
 "He's at his board."
 
-The big man asked nothing else. He got up, and turned his bound shoulder to his own load, and swung it there in one heave; and Cael found the third box by its beckets and got it onto his back. The tarred case stood against the wall where it had been left, and he took it up by its strap.
+Brom asked nothing else. He got up, and turned his bound shoulder to his own load, and swung it there in one heave; and Cael found the third box by its beckets and got it onto his back. The tarred case stood against the wall where it had been left, and he took it up by its strap.
 
 There was a little brown light at the top of everything, three flights up, where a girl stood holding a lamp for a man who had not yet come for it. It showed him the first landing. It showed him, three steps above that, a pair of boots, and a leg thrust out as stiff as a bolster.
 
@@ -288,7 +288,7 @@ He sat on a tread with his back to the climb and his face to the two who were co
 
 So they took it up between them.
 
-Cael held the case by its foot, and the old man had the strap's end shut in his fist. At every tread the two raw hands went to the stone, and the sound leg thrust, and the whole length of him was hitched one step higher into the dark, backward, with the case drawn after him like a thing being brought up out of a well. They were face to face, and Cael could not see the face. He could hear it breathe, a yard above his own, and he bore up the weight of a cord and a mallet and one stake, so that it should not pull upon that hand.
+Cael held the case by its foot, and Vastin had the strap's end shut in his fist. At every tread the two raw hands went to the stone, and the sound leg thrust, and the whole length of him was hitched one step higher into the dark, backward, with the case drawn after him like a thing being brought up out of a well. They were face to face, and Cael could not see the face. He could hear it breathe, a yard above his own, and he bore up the weight of a cord and a mallet and one stake, so that it should not pull upon that hand.
 
 He had a thing to read, and it had waited since the fifth row.
 
@@ -332,7 +332,7 @@ He shut them. That was worse; they burned behind the lids, and the water came ou
 
 "My eyes have gone. They'll be back. It's an hour, about."
 
-He had not lied to the man by the width of a hair. He stood on a tread that he could not see, with a box dragging at his shoulders and a strap in his fist, and waited to be asked how he came to know the length of it.
+He had not lied to the man. He stood on a tread that he could not see, with a box dragging at his shoulders and a strap in his fist, and waited to be asked how he came to know the length of it.
 
 "I do not ask," said the old man. There was a silence, and a scrape, and the case drew upward by the height of one step. "There are eight more. Each is of the same rise; I have had occasion to learn them today. Put your right foot up. Higher. There."
 

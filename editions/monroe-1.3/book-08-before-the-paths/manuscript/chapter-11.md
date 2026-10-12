@@ -258,7 +258,7 @@ The thumb went down last.
 
 "I shall not say a number tonight. I have turned one row of six, by a lamp, and I have counted signs that I cannot read by telling one group from another. I should not put my name to such a count." She lifted her hand from the deal. "I shall say how many when I have checked it in daylight."
 
-Nobody spoke. The hide stood rolled in the corner by the meal-sacks, with four rings on it. Cael had walked round three of those rings, and had counted the bars of a fence about the fourth, and he had supposed that a calfskin held all that there was to hold. Somebody at a desk had known better than that for six years, and had written the same word in a narrow column each time, and had sent the sheet where nobody would receive it.
+The hide stood rolled in the corner by the meal-sacks, with four rings on it. Cael had walked round three of those rings, and had counted the bars of a fence about the fourth, and he had supposed that a calfskin held all that there was to hold. Somebody at a desk had known better than that for six years, and had written the same word in a narrow column each time, and had sent the sheet where nobody would receive it.
 
 "There is one sheet more in that flat," said Vastin. "It lies under the sixth row, and it is not the office's. I should prefer that you had counted the rest before you saw it."
 

@@ -28,7 +28,7 @@ Lira laughed. It was one short breath through the nose, and it was the first sou
 
 "I'd forgotten that I didn't like them."
 
-They went on between the hedges, and for half a mile nobody used the leave that he had been given. Cael found that he had a great deal to say and no notion of how a person began. He had not been silent all those days; they had talked at every fire, behind every wall, and through a whole cold term in a back room. It was only on a road that the mouth was shut, with the sigils in their pockets and his ten lying closed, and he had left off noticing it as a carter leaves off noticing his own wheels. He noticed it now, as it lifted. It was like setting down the box.
+They went on between the hedges, and for half a mile nobody used the leave that he had been given. Cael had a great deal to say and no notion of how a person began. He had not been silent all those days; they had talked at every fire, behind every wall, and through a whole cold term in a back room. It was only on a road that the mouth was shut, with the sigils in their pockets and his ten lying closed, and he had left off noticing it as a carter leaves off noticing his own wheels. He noticed it now, as it lifted. It was like setting down the box.
 
 The road found its tongue sooner than they did. A cart came out of a field gate ahead of them, piled with dung and steaming, and the man at the horse's head was whistling. He whistled the same four notes over and over, badly, and did not leave off when he saw six strangers under loads. He looked at the boxes, and at the beckets, and pulled his horse over to let the weight go by, as one carrier does for another. He had given Cael the same length of glance that he gave the hedge.
 
@@ -276,6 +276,6 @@ Cael turned that over. He had kept a question for that man since a board at Lowm
 
 "At your pace."
 
-"Thank you." The old man drew a breath, and let it out. "It is a curious thing, to be the slowest in a company. I had never had the opportunity."
+"Thank you." He drew a breath, and let it out. "It is a curious thing, to be the slowest in a company. I had never had the opportunity."
 
 The third post came up out of the afternoon, a long way ahead, where the hedges ended and the river meadows began. It was too far off to read; but there was a figure on it, and under the figure three short bars.

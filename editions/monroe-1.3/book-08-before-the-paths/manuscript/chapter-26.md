@@ -10,13 +10,13 @@ Each was no wider than a door. Each ran straight, from the lane, away to his lef
 
 He kept his eyes on Brom's heels.
 
-It was harder than the rise had been. On the rise the thing had been a thumb's breadth of light at a day's distance, and he had only needed to turn his head. Here it came at him sideways, at the edge of his sight, a bar of brightness that swung across the cobbles in front of his boots at each opening and was gone. He did not need to look. He had only to walk through it. He found that the muscles of his neck had set like a rope with a load on it.
+It was harder than the rise had been. On the rise the thing had been a thumb's breadth of light at a day's distance, and he had only needed to turn his head. Here it came at him sideways, at the edge of his sight, a bar of brightness that swung across the cobbles in front of his boots at each opening and was gone. He did not need to look. He had only to walk through it. The muscles of his neck had set like a rope with a load on it.
 
 At the first alley Lira's shadow fell across the brightness before it reached him.
 
 She had come up on his left at the gate, and she had stayed there. She was a hand shorter than he was, with a box that stood up above her head; and at every opening she was between it and him for the two strides that it took to pass. She did not look down the alleys. He could see the side of her face, and it was turned to the lane ahead, and her chin was level. She went by each strip of white as she would have gone by a dog that she did not mean to notice.
 
-Nobody had asked it of her. He had not asked it on a road, or in a loft where a blanket hung on two nails, and he did not ask now. He counted the alleys instead, since he counted anything. There were four.
+Nobody had asked it of her. He had not asked it on a road, or in a loft where a blanket hung on two nails, and he did not ask now. He counted the alleys instead. There were four.
 
 At the third there was a sound.
 
@@ -84,7 +84,7 @@ Brom went in after her, and his box all but brushed both walls.
 
 "I shall go before you," said Cael.
 
-The stick had stopped at the slot's mouth. The old man was looking down the first flight, and at his right leg, and he was doing a sum.
+The stick had stopped at the slot's mouth. Vastin was looking down the first flight, and at his right leg, and he was doing a sum.
 
 "You are behind me, in the order."
 

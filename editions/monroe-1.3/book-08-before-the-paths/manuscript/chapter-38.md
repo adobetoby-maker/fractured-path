@@ -26,7 +26,7 @@ She stood by the second chair, with her notebook against her chest. She had slep
 
 He stood at the desk's left side, a hand off, where the lamp would have been.
 
-There was a fourth in that end of the gallery. The old man sat on Brom's box by the nearest bay, six strides from the desk, with the bound leg out along its plank and both hands on the ash; he could not have followed a ladder, and he was only where he had been set down, as he was every morning.
+There was a fourth in that end of the gallery. Vastin sat on Brom's box by the nearest bay, six strides from the desk, with the bound leg out along its plank and both hands on the ash; he could not have followed a ladder, and he was only where he had been set down, as he was every morning.
 
 The man reached up to the shelf.
 
@@ -132,7 +132,7 @@ The man had not opened his eyes; he stood two paces from his own desk, with his 
 
 Nobody looked at Cael.
 
-He marked that, and it was done three ways. The red eyes were shut, and had been since before she began. The grey ones had gone to a bay of bundles and were reading the under side of a tag. And the small pale woman, who had asked him to stand there, kept her face to a wall. He had been looked away from by one person in that gallery, two days ago, on purpose and for his own sake. It appeared to have spread.
+He marked that, and it was done three ways. The red eyes were shut, and had been since before she began. The grey ones had gone to a bay of bundles and were reading the under side of a tag. And Karis, who had asked him to stand there, kept her face to a wall. He had been looked away from by one person in that gallery, two days ago, on purpose and for his own sake. It appeared to have spread.
 
 "I shall say what I take it to be," said Karis. "I shall say it once as well, and plainly, and then I shall stop. It is not the leaf. It is only my account of the leaf, and it is worth less."
 
@@ -250,7 +250,7 @@ She would not be hurried over it, and nobody tried. She sat down at last, in the
 
 Cael kept his place at the desk's side, and read it as it came, from the wrong side, with its head away from him, as he had read every paper that had ever concerned him.
 
-He did not say it over; he had been asked not to, and he found that it was no hardship. He only watched the pencil.
+He did not say it over; he had been asked not to, and it was no hardship. He only watched the pencil.
 
 At the line below the middle it stopped.
 
@@ -272,7 +272,7 @@ She finished the face. She laid the pencil down across the board, and flexed her
 
 Boots were coming up the gallery, and a small brown light with them.
 
-It was Brom's tread, and beside it a quicker one. Cael turned his head, and saw the lamp first, low, at a big man's knee, and above it Lira's face with dust on it to the eyebrows; and he saw the face take in that end of the gallery, in the time that it takes to draw a breath, and go still.
+It was Brom's tread, and beside it a quicker one. Cael turned his head, and saw the lamp first, low, at Brom's knee, and above it Lira's face with dust on it to the eyebrows; and he saw the face take in that end of the gallery, in the time that it takes to draw a breath, and go still.
 
 There was not much to take in. A tape lay untied. A woman sat in a chair with a board on her knees. A man stood with his eyes shut. And on a box by the nearest bay there was an old one who had gone the colour of the rock behind him, with both hands on a stick.
 

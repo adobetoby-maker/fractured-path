@@ -274,7 +274,7 @@ It was a long bare swell of the moor, a mile and more from its foot to its head.
 
 Cael walked with his eyes on the ruts.
 
-He had a good deal to carry besides the box, and he went over it, a stride at a time, as he would have gone over a count. There was a job, done and paid, with a hundred and thirty-eight marks to show for it. There was a wall that he had stood behind for the space of one count, and an eleventh thing that had not come of it. There was a mark in a small ruled square, which was on four sheets and an iron stake and which nobody could read. He had a name, short and strange, for a man who sat under a town. He had two sentences in a book, in his own hand, about a flight of steps and a paved place.
+He had a good deal to carry besides the box, and he went over it, a stride at a time. There was a job, done and paid, with a hundred and thirty-eight marks to show for it. There was a wall that he had stood behind for the space of one count, and an eleventh thing that had not come of it. There was a mark in a small ruled square, which was on four sheets and an iron stake and which nobody could read. He had a name, short and strange, for a man who sat under a town. He had two sentences in a book, in his own hand, about a flight of steps and a paved place.
 
 And there was a day. He had not written that, and he did not go over it. He only knew where it lay, as a person knows without looking where the stair is in his own house.
 
@@ -286,7 +286,7 @@ This was the west. The moor fell away in long brown folds to a plain, and the pl
 
 There was a town on the bluff.
 
-He counted it, since he counted anything: it went up in three steps. A wall ran round the foot of the bluff, grey and long, with a great many roofs behind it. Higher, where the ground steepened, there was a second wall, and the roofs inside that were of slate. The third was at the top, close and pale, about the crown of the rock. It was a day's walk off still, and he could have covered the whole of it with his thumb.
+It went up in three steps. A wall ran round the foot of the bluff, grey and long, with a great many roofs behind it. Higher, where the ground steepened, there was a second wall, and the roofs inside that were of slate. The third was at the top, close and pale, about the crown of the rock. It was a day's walk off still, and he could have covered the whole of it with his thumb.
 
 "Three tiers," said Lira, at his shoulder. She had set her box down. "They've built the ladder out of stone. I'd wondered what it would look like from outside."
 
@@ -302,7 +302,7 @@ He had seen that it was there; and he turned his eyes from it as he would have t
 
 A stick came up over the lip behind him, and stopped.
 
-Vastin stood with both hands on its head, getting his breath, with the bound leg a little out and a tarred case on his shoulder. He looked at the town for some time. He had gone in at those gates, no doubt, on a horse, behind a clerk, with a seal; and he looked now as a man looks at a house that he once had the keys of.
+Vastin stood with both hands on its head, getting his breath, with the bound leg a little out and a tarred case on his shoulder. He looked at the town for some time. He had gone in at those gates, no doubt, on a horse, behind a clerk, with a seal.
 
 He said nothing, and nobody asked him to.
 

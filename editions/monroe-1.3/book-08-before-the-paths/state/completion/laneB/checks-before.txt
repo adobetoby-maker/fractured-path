@@ -1,0 +1,44 @@
+== M5
+# summary: 0 unprotected shared runs of >= 8 words; 17 protected runs (allowed)
+chapter-27.md words=5603 reader_standard=0 metadata=0 modern=0
+chapter-28.md words=4993 reader_standard=0 metadata=0 modern=0
+chapter-29.md words=4966 reader_standard=0 metadata=0 modern=0
+chapter-30.md words=5264 reader_standard=0 metadata=0 modern=0
+chapter-31.md words=4761 reader_standard=0 metadata=0 modern=0
+chapter-32.md words=5237 reader_standard=0 metadata=0 modern=0
+chapter-33.md words=5248 reader_standard=0 metadata=0 modern=0
+== M6
+# summary: 0 unprotected shared runs of >= 8 words; 27 protected runs (allowed)
+chapter-34.md words=4902 reader_standard=0 metadata=0 modern=0
+chapter-35.md words=5714 reader_standard=0 metadata=0 modern=0
+chapter-36.md words=5805 reader_standard=0 metadata=0 modern=0
+chapter-37.md words=5999 reader_standard=0 metadata=0 modern=0
+chapter-38.md words=4655 reader_standard=0 metadata=0 modern=0
+chapter-39.md words=4874 reader_standard=0 metadata=0 modern=0
+chapter-40.md words=4307 reader_standard=0 metadata=0 modern=0
+== M7
+# summary: 0 unprotected shared runs of >= 8 words; 14 protected runs (allowed)
+chapter-41.md words=4750 reader_standard=0 metadata=0 modern=0
+chapter-42.md words=5646 reader_standard=0 metadata=0 modern=0
+chapter-43.md words=4585 reader_standard=0 metadata=0 modern=0
+chapter-44.md words=5482 reader_standard=0 metadata=0 modern=0
+chapter-45.md words=6097 reader_standard=0 metadata=0 modern=0
+chapter-46.md words=5676 reader_standard=0 metadata=0 modern=0
+== M8
+# summary: 0 unprotected shared runs of >= 8 words; 20 protected runs (allowed)
+chapter-47.md words=5027 reader_standard=0 metadata=0 modern=0
+chapter-48.md words=5416 reader_standard=0 metadata=0 modern=0
+chapter-49.md words=5586 reader_standard=0 metadata=0 modern=0
+chapter-50.md words=5766 reader_standard=0 metadata=0 modern=0
+chapter-51.md words=5552 reader_standard=0 metadata=0 modern=0
+chapter-52.md words=5165 reader_standard=0 metadata=0 modern=0
+chapter-53.md words=4703 reader_standard=0 metadata=0 modern=0
+== M9
+# summary: 0 unprotected shared runs of >= 8 words; 17 protected runs (allowed)
+chapter-54.md words=5677 reader_standard=0 metadata=0 modern=0
+chapter-55.md words=5509 reader_standard=0 metadata=0 modern=0
+chapter-56.md words=4745 reader_standard=0 metadata=0 modern=0
+chapter-57.md words=5114 reader_standard=0 metadata=0 modern=0
+chapter-58.md words=5810 reader_standard=0 metadata=0 modern=0
+chapter-59.md words=5231 reader_standard=0 metadata=0 modern=0
+chapter-60.md words=4499 reader_standard=0 metadata=0 modern=0

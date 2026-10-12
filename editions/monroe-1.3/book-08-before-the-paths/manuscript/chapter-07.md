@@ -4,7 +4,7 @@ The scow went into the river stern first, on the two hundred and seventy-first m
 
 She had sat all the cold term on a baulk of squared oak at the slip's head, with blocks under her bilges, and the blocks had been knocked out in the night. Now she rode on six rollers of peeled alder. The ferryman's boy ran round from her stern with each roller as it came free and laid it down again under her bow, and Brom walked backward down the slope with his good shoulder against her and his boots sliding in the tallow. Cael had a line from her rail, with two turns of it round a pile, and he gave it out a hand at a time when he was told to.
 
-He had his back to the far bank, and he was aware of it the whole time, as a man is aware of a door behind him. Three nights ago a small pale woman had asked him, at a board, to go back over that river, to a town inside the Line with a gate and a book in it. He had said that he would rule, and he had not ruled. Nothing could come over that water to change what a ruling would cost, and nobody could go over it to pay, until this boat swam.
+He had his back to the far bank, and he was aware of it the whole time, as a man is aware of a door behind him. Three nights ago Karis had asked him, at a board, to go back over that river, to a town inside the Line with a gate and a book in it. He had said that he would rule, and he had not ruled. Nothing could come over that water to change what a ruling would cost, and nobody could go over it to pay, until this boat swam.
 
 "Hold her," said the ferryman.
 
@@ -106,7 +106,7 @@ Cael had been waiting for the fourth, and it came last.
 
 "No." Seln did not soften it. "The paper is drawn against whatever attaches to an unclassified person, until his status is settled. For three of you that is a certificate. You have none, and so the thing that it holds is you. There is an order for a room and an hour. Its hour fell after we were gone, and the code keeps an hour whether anybody stands in the room or not. Inside a district it would be kept again, and you would be produced."
 
-Nobody at the board spoke, and Cael heard the keeper shift a cask in the next room.
+Cael heard the keeper shift a cask in the next room.
 
 "To a frame," he said.
 

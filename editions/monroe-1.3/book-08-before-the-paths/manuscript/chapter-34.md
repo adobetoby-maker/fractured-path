@@ -14,7 +14,7 @@ He came down on one leg and two hands, with the other leg swung out stiff, twice
 
 Cael told it no. It had asked seven times since he woke, of a trapdoor and a stall and the lip of the trough, and it took the answer each time like a post taking rain.
 
-They put the old man on the mounting block, with the leg out along it. He looked at the ladder for some time.
+They put Vastin on the mounting block, with the leg out along it. He looked at the ladder for some time.
 
 "I shall not go up that again," he said. "I say it now, so that it need not be argued at dusk by people who are tired. The stall at the end has nothing in it. I have looked at it through the boards for nine nights. I will not say that I looked forward to it; but it has straw, and its floor is level with the yard."
 
@@ -60,7 +60,7 @@ Seln had already turned toward the arch.
 
 He was gone before the sentence had quite ended, as he generally was.
 
-The old man put out one raw hand, when the boxes were going onto the cart, and touched Cael's sleeve.
+Vastin put out one raw hand, when the boxes were going onto the cart, and touched Cael's sleeve.
 
 "There is a thing which I should rather say here, where it costs nothing. The man at that beam writes each weight against whoever owns the load, and he will ask whose it is." The grey eyes were level. "A load that travels on a practitioner's card is entered to the head of the card. That is the rule, and it has an article, which I do not give you. I have told you now, in a yard. I shall not tell him."
 
@@ -190,7 +190,7 @@ Cael watched him count it. There were Brom's two, and Lira's two, and his own; a
 
 The pen had risen from the leaf.
 
-There were three things by now that the man had not asked. Cael had them counted, since he counted anything. Six days ago an old porter had laid a name and a rank and an office on that ledge, and nothing had been said of it since. This morning the same matter had come in by the bottom gate, on wheels, with another man's chalk against it, after seven days on backs. And somewhere in the yard there would be a yard-man who had gone up the cut at first light with a broom, and found a tread lying out of its bed, and two plain bolts, and had brought the bolts to somebody.
+There were three things by now that the man had not asked. Six days ago an old porter had laid a name and a rank and an office on that ledge, and nothing had been said of it since. This morning the same matter had come in by the bottom gate, on wheels, with another man's chalk against it, after seven days on backs. And somewhere in the yard there would be a yard-man who had gone up the cut at first light with a broom, and found a tread lying out of its bed, and two plain bolts, and had brought the bolts to somebody.
 
 The clerk looked at a hand and a leg. His mouth opened a very little.
 
@@ -214,7 +214,7 @@ He hung the lamp's ring on Lira's fingers, and went down into the dark ahead of 
 
 It began a good deal later.
 
-The old man looked down the first flight for a moment, as he had once looked into a cut. Then he gave Cael the stick to carry, and turned about, and lowered himself by his hands until he sat upon the top step with his back to the dark.
+Vastin looked down the first flight for a moment, as he had once looked into a cut. Then he gave Cael the stick to carry, and turned about, and lowered himself by his hands until he sat upon the top step with his back to the dark.
 
 "I have gone down into a number of archives," he said. "I had not hitherto done it in the manner of a child of two."
 
@@ -226,7 +226,7 @@ It was twenty-seven, and it took as long as the whole of the hill.
 
 *Both heels*, said Compression, once, on the second flight, when a raw hand slipped upon the stone; and Cael's frame creaked, and the hand found its hold, and he told the thing to lie down.
 
-At the foot the old man sat for the space of ten breaths. Then he held up his right hand, without a word, for the ash.
+At the foot he sat for the space of ten breaths. Then he held up his right hand, without a word, for the ash.
 
 ---
 
@@ -242,7 +242,7 @@ It asked of the cross-way, and of each of the black uprights, one after another,
 
 And two yards from his right shoulder, on Brom's box, with the bound leg out along a plank that Lira had found for it, sat the person whom it had come from.
 
-Cael did not look at him, since he had the flame to mind; but he knew where the man was, as he knew where the desk was, and the stair; and each time that the thing in him asked its question, he heard under it the other, which he had lain awake upon. *He does not know.* A man had asked that a wall be entered, and had been told that it was. He sat now with his two raw hands on an ash stick, watching a reed go along a row, and did not know that what he had stood on a step and poured himself into was kneeling at his elbow, in a boy, asking how far.
+Cael had the flame to mind; but he knew where the man was, as he knew where the desk was, and the stair; and each time that the thing in him asked its question, he heard under it the other, which he had lain awake upon. *He does not know.* A man had asked that a wall be entered, and had been told that it was. He sat now with his two raw hands on an ash stick, watching a reed go along a row, and did not know that what he had stood on a step and poured himself into was kneeling at his elbow, in a boy, asking how far.
 
 It was a debt, and it had not grown lighter for a night's sleep.
 

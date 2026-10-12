@@ -116,7 +116,7 @@ He said it to the window. It was a small offer, and it did the work of the first
 
 "I know that you can. It's why I'm saying it to you and not to the mule."
 
-Nobody added to that. Karis had gone back to her three heaps of paper, and she spoke without lifting her head, in the small exact voice, as though she were finishing a sum aloud.
+Karis had gone back to her three heaps of paper, and she spoke without lifting her head, in the small exact voice, as though she were finishing a sum aloud.
 
 "It is not in these."
 

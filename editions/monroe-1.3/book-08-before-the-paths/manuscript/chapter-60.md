@@ -94,7 +94,7 @@ He let her keep it.
 
 Across the dead side of the fire somebody had got up. It was the tall man. He had a cup of his own on the embers, and a strip of linen, and he wrung the one out of the other with his big chapped hands, a little less hard than he had the night before; and he carried it on both palms to where a captain lay with his arm along a slat. Cael did not watch the rest. But he marked that there had been a second night of it, and he thought that there would be a third.
 
-He did not sleep much. He lay and listened to ten people breathing, and a mule, and tried to tell them apart; and he found that he kept counting on to eleven, and that the count would not close.
+He did not sleep much. He lay and listened to ten people breathing, and a mule, and tried to tell them apart; and he kept counting on to eleven, and the count would not close.
 
 Toward morning the floor began to go grey. It did not fade. The day came up round it, slowly, until there was as much light in the sky as in the stone, and then more; and it lay there in the sun as it had lain the noon before, level and bare, a thing in a plain.
 

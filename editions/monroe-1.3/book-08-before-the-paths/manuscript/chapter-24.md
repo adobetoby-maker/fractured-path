@@ -56,7 +56,7 @@ Cael looked at that for some time. The man did not blink them shut and open them
 
 His hands were square, with the nails pared to the quick, and they were as pale as roots.
 
-So this was Cleon. The name had been said at a spring, by a small pale woman with one glove off, and asked after once; nobody had said it since. It sat on a dusty coat and a pair of shut eyes no better and no worse than a name ever sits on a stranger.
+So this was Cleon. The name had been said at a spring, by Karis with one glove off, and asked after once; nobody had said it since. It sat on a dusty coat and a pair of shut eyes no better and no worse than a name ever sits on a stranger.
 
 Nobody stood next to him. There was room for two at that end of the counter, and the clerks had left it, as the carters on a bench had made room for a keeper; but this was the other kind of room, and Cael knew it well. It was the space that people leave about a person whom they have long since stopped trying to talk to.
 
@@ -128,7 +128,7 @@ He looked at her then, for the first time, as he had looked at the sheet: from t
 
 "Not here," he said.
 
-He had picked up his spoon again, and he spoke between mouthfuls, to the wall, in short pieces, like a man reading down a bill; and Cael, by the doorpost, with a bowl going cold in his hand, understood that he was hearing a list that had been ready for a very long time.
+He had picked up his spoon again, and he spoke between mouthfuls, to the wall, in short pieces; and Cael, by the doorpost, with a bowl going cold in his hand, understood that he was hearing a list that had been ready for a very long time.
 
 "I don't read on a counter. There's gravy on it. That's the first."
 
@@ -180,7 +180,7 @@ He turned, and went up the room toward the street door.
 
 He passed within two strides of the yard, and of a boy of nineteen who stood against a doorpost with a bowl; and his red eyes did not come that way at all. They were on the floor, and they went along the flags, a joint at a time, as though he were reading how those had been laid as well.
 
-Cael had wished to be nobody in that yard, and he had been, and he ought to have been the easier for it. He found that some part of him had wanted the head to turn. He set it by, to be gone over later.
+Cael had wished to be nobody in that yard, and he had been, and he ought to have been the easier for it. Some part of him had wanted the head to turn. He set it by, to be gone over later.
 
 The man went out by the street door. He went a full stride beyond it, onto the paving, into the noon, with one hand coming up already to shade his eyes.
 

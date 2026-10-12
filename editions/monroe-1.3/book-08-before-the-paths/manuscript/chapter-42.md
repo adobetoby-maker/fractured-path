@@ -124,7 +124,7 @@ It was not the promise. That was paid, and she would hear at a mill that it had 
 
 The road ran on its causeway for three miles, with a ditch on either hand, and a white mist stood in the river meadows as high as the cobs' bellies.
 
-It was a town's ground. A person might speak on it, as far as the first hedge, and for a long while nobody did. The dray set the pace, which was a stick's pace or a little better. The lean man walked at his near cob's head, and the six came after his wheels in the order that they had learned, with a quiet man gone on ahead into the white. Cael walked last, behind the tail-board.
+It was a town's ground. A person might speak on it, as far as the first hedge, and for a long while nobody did. The dray set the pace, which was a stick's pace or a little better. The lean man walked at his near cob's head, and the six came after his wheels in the order that they had learned, with Seln gone on ahead into the white. Cael walked last, behind the tail-board.
 
 So he had an old man in front of him, riding backward, for the whole of twelve miles.
 
@@ -182,15 +182,15 @@ Cael felt the twelve of them settle, as hounds settle at a threshold that they k
 
 "Hill," said the carter, without turning his head. It was the one word that he had spent since the hedge.
 
-The old man got down.
+Vastin got down.
 
-He did it as he had learned to do everything in the last fortnight, by his hands, a little at a time, with the sound foot finding the road first and the stick after it. The case he left on the coils. Nobody offered him an arm, since he would have had to refuse it aloud. But a big man with a box on his shoulder had fallen back to walk on his right, and Cael was on his left, as he had been once before on this very road, going the other way.
+He did it as he had learned to do everything in the last fortnight, by his hands, a little at a time, with the sound foot finding the road first and the stick after it. The case he left on the coils. Nobody offered him an arm, since he would have had to refuse it aloud. But Brom, with a box on his shoulder, had fallen back to walk on his right, and Cael was on his left, as he had been once before on this very road, going the other way.
 
 It was a mile and more to the top, aslant, with the wind coming over it into their faces.
 
 That was new. It had blown out of the west on every day that they spent upon that moor, and had been at their faces going in; it had gone round in the night, and it was at their faces coming out. Lira looked up at the grey sky with the look that she kept for unfair rulings.
 
-Cael counted the plantings of the stick, since he had nothing else to count. Each of them cost a breath. He had walked behind that sound, and beside it, ever since a ferry's planks, and he knew its two voices: the dull one, when the leg was only tired, and the short one, when it was hurt. This was the dull one. It had been the short one all the way down these same ruts, fourteen days ago, with a case on the shoulder above it that a healer had forbidden.
+Cael listened to the plantings of the stick. Each of them cost a breath. He had walked behind that sound, and beside it, ever since a ferry's planks, and he knew its two voices: the dull one, when the leg was only tired, and the short one, when it was hurt. This was the dull one. It had been the short one all the way down these same ruts, fourteen days ago, with a case on the shoulder above it that a healer had forbidden.
 
 They came to the top.
 

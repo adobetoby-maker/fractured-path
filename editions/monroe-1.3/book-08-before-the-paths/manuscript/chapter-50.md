@@ -32,7 +32,7 @@ Teague's left hand had come out of his belt. He lifted two fingers.
 
 Brom walked.
 
-He went down the middle of the shelf at the pace of a man crossing a yard to a pump, with his coat buttoned to the neck and his arms a little out from his sides. Cael, who was to follow a pair of shoulders and not that one, saw the back of the thick neck above the collar; and between one stride and the next it went the colour of a slate that is drying after rain. There was no sound in it at all. The hands that hung at the big man's sides had gone the same grey to the wrist, and he shut them slowly, and opened them.
+He went down the middle of the shelf at the pace of a man crossing a yard to a pump, with his coat buttoned to the neck and his arms a little out from his sides. Cael, who was to follow a pair of shoulders and not that one, saw the back of the thick neck above the collar; and between one stride and the next it went the colour of a slate that is drying after rain. There was no sound in it at all. The hands that hung at Brom's sides had gone the same grey to the wrist, and he shut them slowly, and opened them.
 
 He was thirty yards from the timbers when the first bolt struck him.
 
@@ -326,7 +326,7 @@ The rest came out by the gap.
 
 "Back," said Lira, on the shale, and let her shoulders down.
 
-Karis put out her right hand and looked at the palm of it. The old man was last. He stopped with the stick already over, and the stiff leg not; and for the length of one breath he stood so, with a bar of iron between his feet, as a person stands in a doorway who has forgotten what he came into the room for. His eyes had gone to the air a little to one side of him.
+Karis put out her right hand and looked at the palm of it. Vastin was last. He stopped with the stick already over, and the stiff leg not; and for the length of one breath he stood so, with a bar of iron between his feet, as a person stands in a doorway who has forgotten what he came into the room for. His eyes had gone to the air a little to one side of him.
 
 Then he brought the leg across.
 

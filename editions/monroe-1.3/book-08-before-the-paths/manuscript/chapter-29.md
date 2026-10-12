@@ -278,7 +278,7 @@ The fourth row was the shortest, of seven signs, and it stood near the foot of t
 
 Cael kept the flame where it was wanted, and did not hear what Karis answered. He saw her glove come down upon the table's edge, flat, an inch from her own pencil, where she had been told that nobody was to lean; and the man beside her looked at the glove, and for once did not say so.
 
-He had been listening to another thing since noon. It had been said over his head, to a big man, as a rate is stated; and one piece of it had gone into him like a splinter. It was the piece about a man.
+He had been listening to another thing since noon. It had been said over his head, to a big man; and one piece of it had gone into him like a splinter. It was the piece about a man.
 
 He had come to that town with one question. He had written at a fire that he was about to hand it to a stranger, and had been afraid of it for two days, in a loft, with a small pale woman's roll across his knee. He need not have been. The stranger had told a gallery, without being asked, that he could not take it.
 
@@ -296,7 +296,7 @@ He put the wish where he put a cord, and a hair, and a date. He would write it t
 
 He was there already.
 
-When the bell went they roped the boxes, and Brom took his on the right shoulder again, and nobody said anything about it. On the long stair Cael counted the steps behind that box, twenty-seven, and the twenty-two after them in the open air; and the big man did not once shift it to the other side, since there was no other side to shift it to.
+When the bell went they roped the boxes, and Brom took his on the right shoulder again, and nobody said anything about it. On the long stair Cael watched that box for twenty-seven steps, and for the twenty-two after them in the open air; and Brom did not once shift it to the other side, since there was no other side to shift it to.
 
 The dray was gone from the yard when they crossed it. Its two logs lay by the dock, where somebody had thrown them, and the wheel had been found. Brom looked at the place in passing, as a man looks at a piece of work that he has finished and been paid for.
 

@@ -112,7 +112,7 @@ He laid a shingle down on the snow at his right boot, with its butt toward the b
 
 "Not past that," he called back. "Keep left of every one I drop."
 
-He went on so, a pace and a half at a time, feeling for the line where the thick ice ended, and marking it. Brom came after him at ten yards. Seln came ten yards behind Brom, and stepped where the big man had stepped. It took nine shingles to reach the cart, and by the seventh the one in his own hand had begun to swim before his eyes.
+He went on so, a pace and a half at a time, feeling for the line where the thick ice ended, and marking it. Brom came after him at ten yards. Seln came ten yards behind Brom, and stepped where he had stepped. It took nine shingles to reach the cart, and by the seventh the one in his own hand had begun to swim before his eyes.
 
 ---
 
@@ -258,7 +258,7 @@ He turned to the other leaf, and filled a line that he had ruled twenty-eight da
 
 *Two still to try: Storm and Anchor. Tide waits on somebody's yes.*
 
-On the far side of the lamp Karis had moved her three heaps to the table's end. She had the kit's case open before her, with the cord out of it, and beside the cord a peg of peeled hazel, cut to the length of the iron stake and pointed with a knife. Under her two hands, open for the first time since a quiet man had put it into them on a road, was the dead surveyor's book.
+On the far side of the lamp Karis had moved her three heaps to the table's end. She had the kit's case open before her, with the cord out of it, and beside the cord a peg of peeled hazel, cut to the length of the iron stake and pointed with a knife. Under her two hands, open for the first time since Seln had put it into them on a road, was the dead surveyor's book.
 
 "I have left this for thirty-four days," she said. "I did not wish to read another person's findings until I had finished entering my own. I have finished."
 

@@ -76,7 +76,7 @@ She looked up the slope, to where a captain stood with his thumbs in his belt, a
 
 "You said an hour," said Teague.
 
-Lira took the brass eye, and Seln had his knife out for the turfs. The three of them went over the stone in a row, and Cael saw three backs change, each a little, at the one stride: the girl's chin lifted, and the quiet man's shoulders went up by the width of a finger, and the small woman said one word under her breath, as she had said it at three such lines.
+Lira took the brass eye, and Seln had his knife out for the turfs. The three of them went over the stone in a row, and Cael saw three backs change, each a little, at the one stride: the girl's chin lifted, and the quiet man's shoulders went up, and the small woman said one word under her breath, as she had said it at three such lines.
 
 "Gone."
 
@@ -216,7 +216,7 @@ It was a straight look, and she did not hurry over it; it went up the hill to th
 
 Then she turned her back on it and tightened a strap that did not want tightening.
 
-Nobody spoke; Lira was looking at the grass, and Karis had her notebook half out of her coat, and pushed it in again. The old man, a stride behind the place where Brom had been, stood with both hands on the head of his stick, and his eyes were on a pannier.
+Lira was looking at the grass, and Karis had her notebook half out of her coat, and pushed it in again. Vastin, a stride behind the place where Brom had been, stood with both hands on the head of his stick, and his eyes were on a pannier.
 
 Cael did not go to her. He stood where a captain had stood him, and found that it was harder to watch a person stay than it had been to watch her go, since the staying had a price upon it, and nobody among the twelve but herself could read the figure.
 
@@ -260,9 +260,9 @@ The basin lay below them as round as a plate. The reeds in it were green at the 
 
 He heard the boy's breath go in, behind him.
 
-The four from the house on the rise had seen that place once, from where they stood now. They had found six pairs of breeches steaming on a rope, and a very big man lying strapped. Teague looked at it a good while with his thumbs in his belt.
+The four from the house on the rise had seen that place once, from where they stood now. They had found six pairs of breeches steaming on a rope, and a very big man lying strapped. Teague looked at it a good while.
 
-The old man had come up last. He had stood a stride behind Brom on the Stair's brow, the day before, and looked down at a grey floor for the whole of an hour without a word; and Cael had thought then that a person who has read six years of sheets upon a place might have little left to say of the place itself. He stopped now at the rise's crown, on the stick, and his eyes went round the edge of the reeds, slowly, the whole way, as they would have gone round a seal.
+Vastin had come up last. He had stood a stride behind Brom on the Stair's brow, the day before, and looked down at a grey floor for the whole of an hour without a word; and Cael had thought then that a person who has read six years of sheets upon a place might have little left to say of the place itself. He stopped now at the rise's crown, on the stick, and his eyes went round the edge of the reeds, slowly, the whole way, as they would have gone round a seal.
 
 "It is at that edge," he said. "Where they stop."
 

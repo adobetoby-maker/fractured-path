@@ -24,7 +24,7 @@ She had turned to the Stair's sheets. Her finger went to a group of signs on the
 
 "It stands four times on that floor, always behind a sign that bears. I uncovered it on my ninth day under the town, and it was not the word that I had wished for. It was only *set*, as a stone is set, or a stake."
 
-Nobody spoke. Vastin had come to the door by then, on the stick, with the tarred case under his arm; he had stopped on the sill as a man stops who is not sure of a room.
+Vastin had come to the door by then, on the stick, with the tarred case under his arm; he had stopped on the sill as a man stops who is not sure of a room.
 
 "So the fourth line says this," said Karis. "It says: the mark. And hung from the mark, level, with neither above the other, two things that take it. The one is those who are kindled, and the other is what is set. And after both, a number, which is three."
 
@@ -32,7 +32,7 @@ Nobody spoke. Vastin had come to the door by then, on the stick, with the tarred
 
 "I do not know where; the list does not say, and I shall not say it for the list." She held out her bound hand toward the door, palm upward, without looking. "I should like the case."
 
-The old man brought it to the table himself, and undid the strap.
+Vastin brought it to the table himself, and undid the strap.
 
 She drew the iron out. It was a stake as long as her forearm, numbered thirty-two, with its point still bright, since nobody had ever driven it; and she laid its head under the window, beside the first page of a dead man's book and the corner of an office's sheet.
 
@@ -144,7 +144,7 @@ She drew off the cork, and opened the legs, with her right hand, upon the hide; 
 
 "Three," said Brom. "With a mule, and a girl in a sling, and a healer gone north."
 
-"A surveyor's length I know to the stride. I walked behind that cord for a whole cold term, and I know what a day of ours comes to in it." Her lips moved over the office's figure. "This run is three such days, less a little." She closed the legs by the width of a hair; then she lifted one point, and swung it round, along the brass, as a person walks a pair of compasses across a chart.
+"A surveyor's length I know to the stride. I walked behind that cord for a whole cold term, and I know what a day of ours comes to in it." Her lips moved over the office's figure. "This run is three such days, less a little." She closed the legs by the width of a hair; then she lifted one point, and swung it round, along the brass.
 
 It came down off the skin.
 
@@ -192,7 +192,7 @@ It was not put as a question. Karis answered it all the same, with one small nod
 
 They were on the south road by the middle of the forenoon, in the file that a captain had set under an ash.
 
-It held. Cael had not been sure that it would, outside a meadow. A quiet man went ahead, small against the pale grass, and after him seven feet of ash with a leaf of steel on it. Then came a pair of shoulders that did not look round; and Cael walked a stride behind the left of those, where he had been put. He had never in his life walked at anybody's shoulder to be asked what he saw.
+It held. Cael had not been sure that it would, outside a meadow. Seln went ahead, small against the pale grass, and after him seven feet of ash with a leaf of steel on it. Then came a pair of shoulders that did not look round; and Cael walked a stride behind the left of those, where he had been put. He had never in his life walked at anybody's shoulder to be asked what he saw.
 
 Behind him he could hear the rest by their feet. There was Karis's, with the flat and the hide, and beside it the tap of a lean old woman's staff. A big man came next with a box; and last of all there was a slow uneven step, the bad hip of a man with a crossbow on his back.
 
@@ -256,7 +256,7 @@ The answer came from a lean-to against the mill's southern wall, low and hoarse,
 
 There was a brown mule tied to a fence-post, with a white foot. She had her head up already, and both ears pricked at a big man with a box; and Brom, who could not lift an arm to her, stopped in the track and said something under his breath that was not meant for anybody else.
 
-The bench along the mill's wall was empty, at the end of a day. The old man had come down the notch last, a tread at a time, behind the locked wheel; he reached the bench as the others reached the fence, and looked at it, and plainly thought it wiser to be found on his feet.
+The bench along the mill's wall was empty, at the end of a day. Vastin had come down the notch last, a tread at a time, behind the locked wheel; he reached the bench as the others reached the fence, and looked at it, and plainly thought it wiser to be found on his feet.
 
 Oryn came out of the lean-to, wiping her hands a finger at a time.
 
@@ -284,7 +284,7 @@ She did not so much as glance at the slat.
 
 "There's a count," said Teague.
 
-He had come down to the fence with his thumbs in his belt. It was the first time that he had spoken to her.
+He had come down to the fence. It was the first time that he had spoken to her.
 
 "Ten on it, for a line that runs east. It's contract, and it's mine in the field, and neither of you is on it." His chin went to the old woman. "She's said that she'll not be counted. I'd sooner hear yours from you than be told it by a boy."
 

@@ -40,7 +40,7 @@ She let her breath out through her nose, and said nothing more.
 
 Nobody on that flat spoke, and Cael heard the broad man shift his stick.
 
-He had stood in a cut once, with a hillside of loose stone on either hand, and had been afraid of what lived in it. He tried now to see a heap as long as a cart let go from forty feet above a bed eight strides wide, with twelve people and a mule walking along the bottom; and he found that he could see it perfectly well, and that there was no place in the picture where anybody was standing afterward.
+He had stood in a cut once, with a hillside of loose stone on either hand, and had been afraid of what lived in it. He tried now to see a heap as long as a cart let go from forty feet above a bed eight strides wide, with twelve people and a mule walking along the bottom; and he could see it perfectly well, and there was no place in the picture where anybody was standing afterward.
 
 "The first stands twenty strides inside the mouth. There is a dead pine at the shelf's lip beside it, standing, and they have roped the tree to the frame, so that the one will bring down the other. The second is sixty strides in."
 
@@ -162,7 +162,7 @@ Her two thick hands went round the linen, above the laths and below them, and he
 
 "Then here's what I'll amend, and it's the whole of what I'll amend. You'll not stand it. You'll sit it. On the ground, with that leg laid out in front of you and not a pound of you on it. If what comes down goes into the hill through the seat of your breeches, it's not going through my laths."
 
-The old man was silent.
+Vastin was silent.
 
 It was a small thing to say, and Cael thought that he was perhaps the only person on that flat, besides its owner, who knew the size of it. He had stood two feet from that wall in a cut, and at its foot in a stair; and each time the thing that held it up had been a pair of boots which looked as if they had been let into the ground, and above them a man who had been taught through the whole of a long service that an officer of the floor does not sit.
 
@@ -246,7 +246,7 @@ Karis considered a brown mule for the space of a breath. Then she took the couri
 
 ---
 
-They walked the four miles in file, and nobody spoke, since it was a road.
+They walked the four miles in file.
 
 Cael went at a captain's shoulder, a stride back. In front of them the tall man's spear stood up against the east, and beyond the spear a small grey shape went from step to step of the shale with its hands empty. Behind him he could hear the whole of the rest: the pannier, and the hooves, and three pieces of wood going down, none of them upon the same beat.
 

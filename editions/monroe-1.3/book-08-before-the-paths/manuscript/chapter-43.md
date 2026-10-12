@@ -72,7 +72,7 @@ He did not turn to see who was near him. He looked at the wet stones, and spoke 
 
 It was the place. Cael knew it by Brom's stone, three strides below, and by the lie of the two banks; there was no other sign of it in the world. A plane had stood on that spot from one bank to the other, as high as the scree, and a man had been the foot of it.
 
-The old man looked at the wet stones for the space of several breaths.
+Vastin looked at the wet stones for the space of several breaths.
 
 Then he lifted the stick.
 
@@ -144,7 +144,7 @@ Carters had lain on it since the cut was opened. They had not lit fires; the bla
 
 They ate by the same dead ring as before. Cael marked who sat where, since it was the kind of thing that he marked.
 
-The old man sat.
+Vastin sat.
 
 He did it without a word, on the stone that he had stood beside on the two hundred and seventy-eighth night with his bread in his hand. He let himself down by the stick and one palm, with the bound leg out before him across the ring; and when he was down he looked round the six faces, in the order that he kept, as though he expected the thing to be remarked.
 
@@ -248,10 +248,6 @@ They went over with the carts. Seln stood at the stern and watched the western b
 
 "He has not come down to the landing," he said. "There is a horse tied in the alders, above the last bend. It has no rider on it. I do not know where the rider is."
 
-Nobody answered, since there was nothing to be done about a horse in a wood.
-
 Lowmarch came up out of the dusk on the eastern side as it had come up on the first evening that Cael ever saw it. But the meadow was not as he had left it. There had been nineteen fires along that water on the night before the first boat. There were more than forty now; the holds had opened, and every crew that had lain up for the cold was down to hear what the plank would say. Carts stood wheel to wheel by the smith's rail. There was a light in every window of the lower inn.
-
-He counted the meadow, since he counted anything.
 
 Then his eyes went up the bank, to the house on the rise. It had one window on the river side. There was a lamp in it; and against the lamp, for a moment, before the scow's bow touched, he saw the shape of a man who was standing quite still, with his thumbs in his belt.

@@ -28,7 +28,7 @@ Cael looked. The boy was sitting with his back to a tussock, all wrists, chewing
 
 There was a stick grounded in the grass on Cael's other hand.
 
-The old man had not sat. He stood with the stiff leg a little before the other, as he stood at every halt now, since getting down cost him more than staying up; and he was looking east along the ridge with the attention that he gave to a sheet.
+Vastin had not sat. He stood with the stiff leg a little before the other, as he stood at every halt now, since getting down cost him more than staying up; and he was looking east along the ridge with the attention that he gave to a sheet.
 
 "I am informed that we shall see a fence by dusk," he said.
 
@@ -52,13 +52,13 @@ Lira had stopped chewing.
 
 "You can stand," she said. "You stood an hour at a post because a healer said so, and never moved. There's days when that's all that anybody's got."
 
-Vastin inclined his head to her, by the width of a finger, like somebody handed a small coin which he means to keep.
+Vastin inclined his head to her, like somebody handed a small coin which he means to keep.
 
 ---
 
 Seln was on the brow when they came up to him at dusk, and he had neither hand raised.
 
-The ridge broke off there, as it had on the hundred and twenty-third evening, and under it the valley began. Cael had carried that place in his head for a hundred and eighty days. He found that he had it right, and that it was larger. It was a great shallow head of pale ground, scooped out of the hills as a bowl is scooped, and open toward the south; and the light went level across it and laid the shadow of every tussock a yard long.
+The ridge broke off there, as it had on the hundred and twenty-third evening, and under it the valley began. Cael had carried that place in his head for a hundred and eighty days. He had it right, and it was larger. It was a great shallow head of pale ground, scooped out of the hills as a bowl is scooped, and open toward the south; and the light went level across it and laid the shadow of every tussock a yard long.
 
 The old ruts went round its head, high up, with turf in them. A furlong below the ruts there was the fence.
 
@@ -284,7 +284,7 @@ She was a yard off in the dark, and by her voice she was sitting up with her arm
 
 "It's a count. Keep your left foot under you; you leave it behind when you're frightened."
 
-He lay and thought about his left foot. It was a strange thing to be told, on such a night, by the only person living who would have known it; and he found that it had done more for him than the square of earth had.
+He lay and thought about his left foot. It was a strange thing to be told, on such a night, by the only person living who would have known it; and it had done more for him than the square of earth had.
 
 The old three ribs had begun to talk a little, with the cold of the ground. They had been quiet since the morning of the first snow, and he did not think much of it.
 

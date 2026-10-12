@@ -4,7 +4,7 @@ The fourteenth letter came out of the Hall on the two hundred and ninetieth day,
 
 Cael had the lamp. He had put it where the reed was going, three times that afternoon, before the rough voice had finished the word; and the third time the man had not troubled to begin it. He only moved, and the light was there. Neither of them remarked on it. A lamp is not thanked for burning.
 
-The old man had stood by the nearest bay since the morning, with both hands on his stick. He had not gone toward the ring once. Cael had watched for it, at the trimming and at the noon hour and when the light was wanted high; and each time the grey eyes had gone to the thing, and rested, and come away. He thought that it was a good deal harder than the four had been. It is one matter to stop a foot that has started. It is another to stand in a room with one office in it for six hours, and look at the office, and leave it where it is.
+Vastin had stood by the nearest bay since the morning, with both hands on his stick. He had not gone toward the ring once. Cael had watched for it, at the trimming and at the noon hour and when the light was wanted high; and each time the grey eyes had gone to the thing, and rested, and come away. He thought that it was a good deal harder than the four had been. It is one matter to stop a foot that has started. It is another to stand in a room with one office in it for six hours, and look at the office, and leave it where it is.
 
 "Fourteen," said Karis. She said it to her notebook. "It closes the number after five. I had the head of that word two days since, and I could not have the tail."
 
@@ -30,7 +30,7 @@ The clerk walked behind them through the vault with his lantern, and turned his 
 
 The yard was empty.
 
-He had never seen it so. They had used the whole of the clerk's quarter-hour that evening, since a small pale woman would not leave a tally-book lying open; and the wagons were gone from the dock, and the pan had been hooked up on the weigh-beam, and the carts' gate at the bottom was shut and barred. The light had begun to go. It lay grey on the long worn trough of the paving, and there was not a soul on it.
+He had never seen it so. They had used the whole of the clerk's quarter-hour that evening, since Karis would not leave a tally-book lying open; and the wagons were gone from the dock, and the pan had been hooked up on the weigh-beam, and the carts' gate at the bottom was shut and barred. The light had begun to go. It lay grey on the long worn trough of the paving, and there was not a soul on it.
 
 "It's quiet," said Brom.
 
@@ -62,7 +62,7 @@ There were two people inside the gate.
 
 They stood with their backs to it. They wore long coats of no colour, and hoods, and each had a cloth tied across the lower half of his face, so that there was nothing under the hood at all. Each had a stave. They were not porters' poles. They were as long as a man and as thick as a wrist, and shod.
 
-Nobody spoke. One of the two shifted his grip, and they began to come up the steps, side by side, without any haste.
+One of the two shifted his grip, and they began to come up the steps, side by side, without any haste.
 
 Cael's breath had stopped. He had ten things in him, and every one had come awake at that bar.
 
@@ -114,7 +114,7 @@ It was Brom who met the two below.
 
 He had turned at the bar, with the rest, and he had not turned back. Cael did not see the beginning of it. He had it afterward from three people, and from the stair. He saw the end, over his shoulder, between one breath and the next.
 
-The big man let his box go. He did not set it down; he had no arm that would have set it. He dropped his right shoulder, and the thing slid off the webbing and fell across the fourth step with its long side to the gate, and lay there. It shut one half of the slot. He stood in the other.
+Brom let his box go. He did not set it down; he had no arm that would have set it. He dropped his right shoulder, and the thing slid off the webbing and fell across the fourth step with its long side to the gate, and lay there. It shut one half of the slot. He stood in the other.
 
 He had nothing in his hands. He had not been able to lift the left above the elbow for four days, and the right was in another woman's knot.
 
@@ -162,7 +162,7 @@ There was a small sound higher up.
 
 Karis had flattened herself to let the girl go by. She had the flat under one arm and the hide under the other, as she had carried them up and down that stair for seven days, and she had not a hand to spare for the wall. Her boot was on the sixth step. It was the wet one, worn into a dish.
 
-It went from under her. She sat down hard on the stair, and the flat did not leave her arm. It was her left hand that went out, flat, to save the rest of her, and found the lip of the step above.
+It went from under her. She sat down hard on the stair, and the flat did not leave her arm. It was her left hand that went out to save the rest of her, and found the lip of the step above.
 
 That stone had not been worn round. It had been cut to an edge by whoever laid it, before there were walls on that hill, and seven days of porters going by on the other side had done nothing to blunt it.
 

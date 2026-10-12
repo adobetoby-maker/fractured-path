@@ -1,0 +1,5 @@
+{'hunks': 94, 'dialogue segments': 2424, 'italic spans': 343, 'pattern hits before': 10, 'pattern hits after': 10}
+BOOK_MAP s10 quoted strings checked: 314 | occurrences in ch31-60 before/after: 148 148
+protected patterns: 29
+PROBLEMS: 1
+   (35, 'NUMBER CHANGED', "Nobody answered at once. Above them a boot's heel knocked on stone, and there was a pause, || ['once'] -> []")

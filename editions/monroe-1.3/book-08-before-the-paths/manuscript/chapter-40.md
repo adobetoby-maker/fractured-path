@@ -260,7 +260,7 @@ They got Karis up the ladder between them, Lira above and Cael below, more aslee
 
 Seln took the ladder's head; he had the folded page yet, and he gave it into Cael's hand as he went by, without a word.
 
-They put the old man into his stall; he went on the stick, and one shoulder, and let himself down into the straw by his hands. When he was down he lay looking at the boards over his head, where six people would sleep.
+They put Vastin into his stall; he went on the stick, and one shoulder, and let himself down into the straw by his hands. When he was down he lay looking at the boards over his head, where six people would sleep.
 
 "Fourteen," he said.
 

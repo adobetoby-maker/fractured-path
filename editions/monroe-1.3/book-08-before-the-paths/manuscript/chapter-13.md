@@ -28,9 +28,7 @@ Five of them read it together from the left-hand post, since Lira and Brom had c
 
 "It's twenty," said Pike. "At the hold's own gate, on the factor's thumb, when the factor's walked it. That's a hold that's lost carts. It doesn't say what to. They never do; they'd have to pay more."
 
-Nobody answered him at once.
-
-Cael read the slip a second time, as he read anything, and it was the last five words that he read. Two roads left the western landing. One ran away to the south and west for three hundred miles, to a ford and a station and a house with a seal, and an old man had come down it on a stick. The other was the border road. It went up over a moor to the Line by the short way, and Cael knew what stood at the end of it, since a small pale woman had laid her palm on a strip of oilcloth and told him; and last night he had read it again, in a square black copy, under a title.
+Cael read the slip a second time, as he read anything, and it was the last five words that he read. Two roads left the western landing. One ran away to the south and west for three hundred miles, to a ford and a station and a house with a seal, and an old man had come down it on a stick. The other was the border road. It went up over a moor to the Line by the short way, and Cael knew what stood at the end of it, since Karis had laid her palm on a strip of oilcloth and told him; and last night he had read it again, in a square black copy, under a title.
 
 "Two days west," said Lira, with her lips. She did not say the rest.
 
@@ -130,7 +128,7 @@ It was as near as he had ever come to giving advice, and Cael took it as he woul
 
 "I know where it is."
 
-The chin came up by the width of a finger. Then he turned to his sacks. The tall man went by with another on his shoulder, and gave five people and a healer the length of a stride, and not a word.
+The chin came up. Then he turned to his sacks. The tall man went by with another on his shoulder, and gave five people and a healer the length of a stride, and not a word.
 
 The ferryman took the mule aboard last, with a sack over her eyes.
 
@@ -198,7 +196,7 @@ The fingers stayed up a breath longer than they needed. Then they came down, and
 
 "That's the one thing you don't do with them," said Cael.
 
-"No. I heard it as I did it." The old man's face had not altered, but the back of his neck had gone a dull red above the frieze. "I have acknowledged every instruction that I was ever given, aloud, and I have required it of others. I beg your pardon. It will not be the last."
+"No. I heard it as I did it." Vastin's face had not altered, but the back of his neck had gone a dull red above the frieze. "I have acknowledged every instruction that I was ever given, aloud, and I have required it of others. I beg your pardon. It will not be the last."
 
 ---
 

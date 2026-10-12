@@ -96,7 +96,7 @@ They went out by the door where the muck went.
 
 It was at the stable's far end, a low thing on leather hinges, and it gave upon a lane no wider than a barrow. They passed the end stall to reach it. There was a long shape in the straw there, under two blankets, with a bound leg laid out along a plank; and its eyes were open.
 
-The old man did not speak; he looked at the two of them, and at the door, and then one raw hand came out from under the blanket and shut, slowly, into a fist.
+Vastin did not speak; he looked at the two of them, and at the door, and then one raw hand came out from under the blanket and shut, slowly, into a fist.
 
 It was the second of the four hands that a road had taught him. *Seen.*
 
@@ -162,7 +162,7 @@ He told that one no as well, and he had begun to count them.
 
 The lane went down toward the river, and it smelled of tar and new hemp.
 
-Cael knew where it led before he saw. He had stood in that place with a big man, nine days ago, by daylight, and watched him look into the cut end of a rope as a person looks into a flower. It had been full of people walking backward then.
+Cael knew where it led before he saw. He had stood in that place with Brom, nine days ago, by daylight, and watched him look into the cut end of a rope as a person looks into a flower. It had been full of people walking backward then.
 
 It was a shed, open all down one side, and it ran away along the inside of the town wall for three hundred yards. There was a great wheel at its head, and beyond the wheel a floor of trodden boards as straight as a ruled line, under a roof on posts, with coils hanging the whole length of the wall like hats on a row of pegs. A lantern burned at the far end, very small, where the tar yard was.
 

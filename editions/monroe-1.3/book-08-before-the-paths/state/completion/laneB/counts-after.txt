@@ -1,0 +1,17 @@
+old man: 139
+small pale woman: 27
+big man: 40
+quiet man: 10
+as|the way|like a/an man|person|woman|boy|girl: 102
+He found that: 19
+found that (any): 38
+nobody said|spoke|answered: 16
+did not look: 47
+didn't look: 0
+count*: 263
+enter/entered/entry: 67
+price/bill: 33
+flat: 166
+finger/hair measures: 25
+thumbs in belt: 13
+told it no: 17

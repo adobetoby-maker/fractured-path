@@ -30,7 +30,7 @@ Nobody at that fire could dispute it, and Cael went over the offer as he went ov
 
 "Hands," said Cael.
 
-All five went up. Teague looked along them, and nodded by the width of a finger, and went back up the bank to his own.
+All five went up. Teague looked along them, and nodded, and went back up the bank to his own.
 
 By the next morning there was a square trodden in the snow under the great ash, twelve strides on a side, with a hazel peg at each corner. Somebody had carried a bench down from the upper inn and set it along the western edge. Lira took one end of it. Brom took the middle, since a shoulder in webbing was of no use in a square. At the other end, with her staff across her knees and a splinting board at her feet, sat a lean old woman in a cap, who looked at the knot on Brom's webbing as she sat down and at nothing else that belonged to the five.
 

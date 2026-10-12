@@ -292,4 +292,4 @@ She did not go back to the fire. She lay down where she was, on the bare rock, a
 
 He sat with his arm across his eyes, and waited for them to finish.
 
-There was a leaf in his coat that nobody had read but the hand which wrote it. He had told no one. He had not thought, when he made that ruling, how much it would resemble being alone; and he found that it did not, quite, since there was a girl on the rock beside him who had been handed the book and had given it back.
+There was a leaf in his coat that nobody had read but the hand which wrote it. He had told no one. He had not thought, when he made that ruling, how much it would resemble being alone; and it did not, quite, since there was a girl on the rock beside him who had been handed the book and had given it back.

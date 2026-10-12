@@ -84,7 +84,7 @@ But there were seven, and one bank, and it was thirty feet from the road to the 
 
 It was Brom's right boot.
 
-The big man did not make a sound, and he did not answer. He stood on one foot and a hound, with a sack on his left arm that he had wrapped for this and had not been asked for. He looked down at the thing with an expression of deep and patient dislike.
+Brom did not make a sound, and he did not answer. He stood on one foot and a hound, with a sack on his left arm that he had wrapped for this and had not been asked for. He looked down at the thing with an expression of deep and patient dislike.
 
 ---
 
@@ -102,7 +102,7 @@ Everything that he owned came to him then at once, and each of the ten had its r
 
 He could have used any of them. The road's rule was broken already, by a better man than himself, for a better reason than he had ever had. No hound in that cut would have turned its head for one point of Ember more.
 
-That was what stopped him, and it stopped him as a hand stops a child at a door.
+That was what stopped him.
 
 They would not have turned. He could have made himself as loud as he pleased, here, at the wall's end, and it would have altered nothing whatever. The sound that they wanted was here already, and he would only have been adding to it. Seven hounds were trying to get round a wall. Not one of the seven had any wish to go through it. Why should it? Everything that it had come for was standing at the end.
 
@@ -118,7 +118,7 @@ She had come down the bank. He never knew how; there was a rush of plates, and s
 
 It was slow. He watched the fingers close in their order, the first and then the next. But what they closed on did not get away from them. The hand that could not yet hit a thing held it, as it had held a reed and a stave and a carter's boot. With the head held, she had all the time that her right side needed.
 
-It was done in one stroke, close in, with the whole of her quick shoulder behind it, and it was not a thing to look at. The jaws came open. The hound went down across the old man's boots.
+It was done in one stroke, close in, with the whole of her quick shoulder behind it, and it was not a thing to look at. The jaws came open. The hound went down across Vastin's boots.
 
 "Two hands," said Lira. She was breathing hard, and she looked at the left with something very like astonishment. "It held."
 
@@ -170,7 +170,7 @@ He saw what it did to them. Water hid a hound from what it hunted, and hid what 
 
 A small grey man came over the north bank above the wall.
 
-Cael had not known where Seln was until that moment. He stepped down into the heap as he would have stepped off a kerb, with a short knife held low. Nothing in it knew that he was there, since he gave off no more than a stone does. He bent to the nearest of the two in the water, with one hand on its neck as a man steadies a horse, and it folded at the knees. He did not look at it afterward. He had done it as he did a paper.
+Cael had not known where Seln was until that moment. He stepped down into the heap as he would have stepped off a kerb, with a short knife held low. Nothing in it knew that he was there, since he gave off no more than a stone does. He bent to the nearest of the two in the water, with one hand on its neck as a man steadies a horse, and it folded at the knees. He had done it as he did a paper.
 
 Brom had got down off his stone, with one foot dragging and a rock in his left hand. He lifted it over the other, and let go.
 
@@ -194,7 +194,7 @@ It let them through together, without any great noise. There was a long soft tea
 
 Nothing came up.
 
-"Three," he said. "Into the sink." He found that he was not glad of it, and he did not try to be.
+"Three," he said. "Into the sink." He was not glad of it, and he did not try to be.
 
 When he turned round, the wall was still standing.
 

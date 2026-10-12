@@ -34,7 +34,7 @@ They had left a stave. It lay where Lira had dropped it, with her knife standing
 
 Seln was at the head of the cut. He came down the flights as he came down a ladder, winding a thin cord round his fingers as he came, with a small pear of lead swinging from its end. It was a thing off a desk: a copying clerk hangs such a weight over the edge of a ledger, to keep his page open.
 
-"The four went by the lane," he said, "two east and two west, at a walk, and they had their hoods back before the first corner. I did not see a face. The two below went out by the carts' gate, which had been left upon the latch for them." He stopped a step above the old man, and looked at him for some time. "I could take one of the four, and I took the one who was there to be believed."
+"The four went by the lane," he said, "two east and two west, at a walk, and they had their hoods back before the first corner. I did not see a face. The two below went out by the carts' gate, which had been left upon the latch for them." He stopped a step above Vastin, and looked at him for some time. "I could take one of the four, and I took the one who was there to be believed."
 
 "They cut your cord," said Lira.
 
@@ -44,7 +44,7 @@ He put it into his sleeve. Then he went down on his heels, which Cael had seldom
 
 "He cannot stay in a stair. They will count you out at two gates, and it is past the bell already. I can bring him to the head of this, and no farther; I am on no card."
 
-They took him up between them, Seln and Cael, a step at a time. The sound leg did what it could, and the other hung. At each of the thirteen steps to the lane the old man let his breath out through his nose, and said nothing at all.
+They took him up between them, Seln and Cael, a step at a time. The sound leg did what it could, and the other hung. At each of the thirteen steps to the lane he let his breath out through his nose, and said nothing at all.
 
 At the top Seln slid out from under the arm, and Brom came into his place with the wrong shoulder.
 
@@ -68,7 +68,7 @@ There was a house inside the second wall with a board at its door, and Lira spok
 
 "It is the ninth article of the schedule," said a voice from the gable, very faintly. "The entry precedes the treatment. I have signed for the keeping of it."
 
-They had laid the old man on the pallet under the blanketed window. He had not spoken since the cut, and Cael had thought him asleep.
+They had laid Vastin on the pallet under the blanketed window. He had not spoken since the cut, and Cael had thought him asleep.
 
 "After the fourth bell there's the side door," said Lira. "With a card. It said so."
 
@@ -142,7 +142,7 @@ Brom had the linen off the knee. One of the two laths had cracked along its leng
 
 "I was told what it would cost," said Vastin. "She was exact, and I should like it remembered that she was."
 
-Nobody answered him. Cael had heard those words given, on a frozen road, by a square woman with her sleeves pushed up: that a man who stood a wall on that leg inside the month would keep the stick for the rest of his days. It was the eleventh day of thirty.
+Cael had heard those words given, on a frozen road, by a square woman with her sleeves pushed up: that a man who stood a wall on that leg inside the month would keep the stick for the rest of his days. It was the eleventh day of thirty.
 
 He went and sat down on his own pallet, at last, with his back against the third box.
 
@@ -172,7 +172,7 @@ He had it, then. It sat under his breastbone with the rest, as real as any of th
 
 He told it no, and thought that he would be telling it so for a long while.
 
-There was one thing more, and he had kept it for the last, as a person keeps the worst line of a bill. He knew whose it was. He had not had to grieve for a name that he would never learn, as he had once on a chalk bank; the name was three yards from him, against a gable, being given water by a girl, and it could not close its hand upon a bowl.
+There was one thing more, and he had kept it for the last. He knew whose it was. He had not had to grieve for a name that he would never learn, as he had once on a chalk bank; the name was three yards from him, against a gable, being given water by a girl, and it could not close its hand upon a bowl.
 
 ---
 
@@ -220,7 +220,7 @@ He had told the healer within the minute, with her palm still on him. But she ha
 
 This man knew nothing of it. He had not asked on a bank what read a still place, and he had not asked tonight what six people came to see. To say *I have your wall in me* was to say how it had got there, and how it got there was the one thing that Cael did not own alone. Five others held it. They had kept it out of every book for longer than he could say, and they had kept it above all from the office that lay on that straw with its hands open.
 
-He believed that the old man would have done nothing with it. That was not the question, since it was not his to spend upon a belief.
+He believed that Vastin would have done nothing with it. That was not the question, since it was not his to spend upon a belief.
 
 So it was a debt, and of a kind that he had not carried before. He had owed a healer a telling, and had paid it. He owed this one, and could not pay; and the man had thanked him.
 
@@ -306,4 +306,4 @@ Cael lay down. He put the book under the box's becket, where an awl had mended i
 
 *This far?* said the eleventh, of the dark.
 
-*No*, he said. He had a lamp to hold in the morning, and he found that he knew already which way it would be wanted.
+*No*, he said. He had a lamp to hold in the morning, and he knew already which way it would be wanted.

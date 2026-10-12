@@ -68,7 +68,7 @@ A man had sat down on the shale at Cael's left while he watched. He had done it 
 
 He got up before Cael could find an answer, and went back to his own side.
 
-Cael sat on with his bowl. He had been thanked by a man from whom he had taken something a stride away, at that very timber, in those very breaths; and the man did not know it, and could not be told. He found that the bruise on his collar-bone was a good deal easier to carry.
+Cael sat on with his bowl. He had been thanked by a man from whom he had taken something a stride away, at that very timber, in those very breaths; and the man did not know it, and could not be told. The bruise on his collar-bone was a good deal easier to carry.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Karis laid the six rows out along the slab in the order that they had lain in the leather, with the newest at her left hand, and she put a pebble on every corner of every heap before she let go of it.
 
-The wind could not reach them there. It went over the top of the outcrop with a steady hollow noise, like breath across the mouth of a jar, and now and then a little of it came round the rock's end and lifted a sheet's edge by the width of a finger. The sun stood a hand above the eastern moor. It was a thin white light, with no warmth in it, and it showed every ruled line.
+The wind could not reach them there. It went over the top of the outcrop with a steady hollow noise, like breath across the mouth of a jar, and now and then a little of it came round the rock's end and lifted a sheet's edge. The sun stood a hand above the eastern moor. It was a thin white light, with no warmth in it, and it showed every ruled line.
 
 "I shall count first," she said. "Nobody is to read me anything until I have counted."
 
@@ -38,7 +38,7 @@ She drew out a sheet from under one turned corner after another, and read down t
 
 "The others are sheets whose signs I have matched to nothing. I shall not call them places, and I should be glad if nobody else did." Karis turned the corners down again, one after another, and squared the row. "They go back as they came out. When a sign can be read, I shall know what I was holding."
 
-Nobody spoke. Cael looked at the calfskin, where a ruled line went through four rings and off the edge of the skin onto bare rock. He had watched a small pale woman slide a strip of brass along that line, a hand at a time, on the first night of a cold term, past the fourth ring and onto the table, as though the deal might have something to say about where it went next.
+Cael looked at the calfskin, where a ruled line went through four rings and off the edge of the skin onto bare rock. He had watched Karis slide a strip of brass along that line, a hand at a time, on the first night of a cold term, past the fourth ring and onto the table, as though the deal might have something to say about where it went next.
 
 ---
 

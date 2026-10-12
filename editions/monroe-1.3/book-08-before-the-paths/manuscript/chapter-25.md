@@ -174,7 +174,7 @@ Vastin went under the arch with the case on his shoulder and his eyes on the set
 
 Lira went under the arch second.
 
-Cael had her back in front of him, and a box on it, and above the box the back of her head. He could not see her face. He saw what her head did. As she came level with the board that hung from the second keeper's neck, where a line stood for every stranger who had walked through that gate today on his own paper, her chin turned toward it by the width of a finger.
+Cael had her back in front of him, and a box on it, and above the box the back of her head. He could not see her face. He saw what her head did. As she came level with the board that hung from the second keeper's neck, where a line stood for every stranger who had walked through that gate today on his own paper, her chin turned toward it.
 
 There would be names on that sheet, in a clerk's hand, each with a district and a rank; and there was a pocket in her coat with such a line folded in it, sealed, which a station at Ostrand had made out to her, and which she had worked harder for than for anything else that she owned. She had only to put the box down.
 
@@ -256,7 +256,7 @@ He had his eyes on the ground. He had put them there under the arch, before the 
 
 There was no sound from that end, and he had thought that there would be. There was only a brightness lying on the stones, and at the top of his sight, where he would not lift it, a paleness in the air that was not the sun's.
 
-It was a hundred paces off. He could have walked to it while a person counted to sixty. Hesk's book lay against his ribs, under the box's strap, with two sentences in it that a square woman had read with her lips moving; and he found that he was glad, for the first time, that she had made him write them. A thing that he had only said would have been arguing with him by now.
+It was a hundred paces off. He could have walked to it while a person counted to sixty. Hesk's book lay against his ribs, under the box's strap, with two sentences in it that a square woman had read with her lips moving; and he was glad, for the first time, that she had made him write them. A thing that he had only said would have been arguing with him by now.
 
 He turned right.
 

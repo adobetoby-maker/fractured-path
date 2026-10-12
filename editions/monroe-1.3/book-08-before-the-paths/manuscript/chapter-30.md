@@ -18,7 +18,7 @@ He could not sleep; he had written three words about a wish, and the writing had
 
 When the lantern went out he lay with his hands behind his head and listened to the loft, as he had listened to every room that he had ever slept in.
 
-A room full of sleepers has a shape, and he had known this one's for five nights. Brom made the most of it, in the middle, breathing like something felled. Lira lay on her right side, a yard from Cael's elbow, and Karis by the boxes, small and quick, with a catch at the top of every breath that had been there since a cook-house. There was the old man's, upright, by the gable. And there was a place near the ladder's head where nothing was. He had learned to know it as a person knows where a rug lies in a dark room, because the floor does not ring there.
+A room full of sleepers has a shape, and he had known this one's for five nights. Brom made the most of it, in the middle, breathing like something felled. Lira lay on her right side, a yard from Cael's elbow, and Karis by the boxes, small and quick, with a catch at the top of every breath that had been there since a cook-house. There was Vastin's, upright, by the gable. And there was a place near the ladder's head where nothing was. He had learned to know it as a person knows where a rug lies in a dark room, because the floor does not ring there.
 
 The room changed shape.
 
@@ -64,7 +64,7 @@ It was five storeys, and he could see three of them. There was a light in one wi
 
 To the left of it, and a little higher, there was the other light.
 
-He looked at that for some time. It was small, at such a distance, and pale, and it did not flicker. Every station that he had ever served under had burned so; a man who works in a registry leaves off seeing it within a month, as he leaves off hearing the clock. He had not been inside a wall with one for longer than he cared to reckon. He found that he saw it again.
+He looked at that for some time. It was small, at such a distance, and pale, and it did not flicker. Every station that he had ever served under had burned so; a man who works in a registry leaves off seeing it within a month, as he leaves off hearing the clock. He had not been inside a wall with one for longer than he cared to reckon. He saw it again.
 
 The boy had not looked at it once. Seln had watched him not look, from a roof, down the whole length of a lane with four alleys in it, and had thought it very well done.
 
@@ -242,7 +242,7 @@ It was a tall man's task. Cael knew it as he rose. He was the shortest man in th
 
 The stick had moved before the rough voice was done.
 
-It took one step, and stopped. Cael saw the old man look at his own boot, which had gone forward, as he might have looked at a clerk who had spoken out of turn. Nobody had asked him. The word had been *lamp*, and he was not the lamp.
+It took one step, and stopped. Cael saw Vastin look at his own boot, which had gone forward, as he might have looked at a clerk who had spoken out of turn. Nobody had asked him. The word had been *lamp*, and he was not the lamp.
 
 He drew the boot back.
 

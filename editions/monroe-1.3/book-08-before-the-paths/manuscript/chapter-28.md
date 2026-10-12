@@ -20,7 +20,7 @@ Karis laid the card on the ledge. The shutter was up already, and the clerk sat 
 
 He counted the boxes with his eyes, as he had the day before, and he dipped his pen. Then he stopped.
 
-It was a small thing to see. The pen had gone down to the leaf, and it did not write. It hung a finger's breadth above a clean line, and the clerk looked at the three boxes on the paving, and at the tarred case, and then he laid his left hand on the book and turned it back by one leaf.
+It was a small thing to see. The pen had gone down to the leaf, and it did not write. It hung above a clean line, and the clerk looked at the three boxes on the paving, and at the tarred case, and then he laid his left hand on the book and turned it back by one leaf.
 
 "This is entered," he said.
 
@@ -52,7 +52,7 @@ They had come two hundred and eighty-five days to that hatch, and got through it
 
 ---
 
-He did not see the old man move.
+He did not see Vastin move.
 
 He heard the stick, twice, sharp on the paving, and then a brown coat had gone past him and stood at the ledge. He knew that walk. He had last seen it cross a room on a bluff, with a file under its arm; it had four feet of table in front of it then, and every clerk in the building upon his feet.
 
@@ -132,7 +132,7 @@ Cael said nothing for a moment. He could have told the man that it had come to n
 
 "It wasn't him sending up that did it," he said. "You'd stood that. You stood a whole gate of it yesterday, twice. It was that you knew the answer."
 
-"I knew the article." It came out before the old man could stop it, and he heard it, and was silent. Then, more slowly: "Yes. He had a difficulty with a form, and I have never in my life stood by while a clerk had a difficulty with a form. I had the schedule in my mouth. I was three words from telling him its number."
+"I knew the article." It came out before he could stop it, and he heard it, and was silent. Then, more slowly: "Yes. He had a difficulty with a form, and I have never in my life stood by while a clerk had a difficulty with a form. I had the schedule in my mouth. I was three words from telling him its number."
 
 "And then he'd have asked who was telling him."
 
@@ -246,7 +246,7 @@ When his steps had gone, Brom walked up the gallery and stood looking at the two
 
 "He cleared the other," said Karis. She had not got up from it. She laid one glove flat on the wiped wood, beside her knee. "He did that last night, after we had gone up. I do not suppose that anybody has sat here in his lifetime."
 
-Nobody said anything to that. Brom cut the loaf.
+Brom cut the loaf.
 
 ---
 
@@ -280,7 +280,7 @@ He had not meant to ask; but it had gone round in him through four hours of hold
 
 Nobody added to it. Brom went down for the pot, and brought it up on a board, with seven bowls, and set the seventh at the end by itself; and the old man took his standing and thanked him once.
 
-Shadow lifted while they ate, and Cael felt every other sound in him sink, as a yard goes quiet under snow, and he told it no, and it lay down.
+Shadow lifted while they ate, and Cael felt every other sound in him sink; he told it no, and it lay down.
 
 He took out Hesk's book when the bowls had gone, and set the day at its head.
 

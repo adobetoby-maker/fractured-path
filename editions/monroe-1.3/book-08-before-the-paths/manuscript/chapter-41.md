@@ -82,7 +82,7 @@ That was all, and they went on, two pens at one leaf. There was a quick small ha
 
 Behind him the tables were being stripped.
 
-The fifty-two sheets had lain there for eleven days in three heaps, as they had lain upon three floors. They were to go up at the bell, and a clerk was to write that they were gone. Lira lifted them one at a time, flat on her two forearms, the slow arm and the quick, while Brom held each box's lid. On the third box, six strides from the desk, sat the old man, with his bound leg along a plank. He had the tarred case for a desk, and a leaf of Karis's notebook upon it.
+The fifty-two sheets had lain there for eleven days in three heaps, as they had lain upon three floors. They were to go up at the bell, and a clerk was to write that they were gone. Lira lifted them one at a time, flat on her two forearms, the slow arm and the quick, while Brom held each box's lid. On the third box, six strides from the desk, sat Vastin, with his bound leg along a plank. He had the tarred case for a desk, and a leaf of Karis's notebook upon it.
 
 She had given it to him herself, at the stair's foot, with a pencil.
 
@@ -176,9 +176,9 @@ He had not looked at the boy. He had not done so since he poured a cup of water 
 
 Cael got up off his knee, which had a callus on it now, like a tiler's. He had been a lamp in that gallery since the third hour of the second day. He had been told *left*, and *up a finger*, by a man who did not know his name and had never asked what he was; and it came to him, standing there with his hand empty, that it was the only work he had ever done inside a wall which nobody had written down. No form had a line for it. He had held a light where it was wanted, and had learned which way the looking went; and a week of another person's whole life's work had been done by it.
 
-He found that he would have liked to say so. He did not. He had been looked away from for his own sake, and the least that he could do was to let it be done well.
+He would have liked to say so. He did not. He had been looked away from for his own sake, and the least that he could do was to let it be done well.
 
-The old man had asked for his quarter of an hour again, and had been given it. They heard him above them on the second flight when they came to the stair's foot with the boxes: two hands set down, and a breath, and a scrape. He was at the head when they reached it, sitting against the iron with the case in his arms.
+Vastin had asked for his quarter of an hour again, and had been given it. They heard him above them on the second flight when they came to the stair's foot with the boxes: two hands set down, and a breath, and a scrape. He was at the head when they reached it, sitting against the iron with the case in his arms.
 
 "Twenty-seven," he said. "Unassisted. I mention it for the tally."
 

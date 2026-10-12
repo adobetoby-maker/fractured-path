@@ -70,7 +70,7 @@ He had come back inside a Compact wall for the first time since he walked down a
 
 It was Vastin whom he turned to see.
 
-The old man came over the sill on his stick, with the tarred case on his shoulder. The keeper's eyes were on the stick's foot. The thumb moved one bead, and stayed there, and the grey head did not lift.
+He came over the sill on his stick, with the tarred case on his shoulder. The keeper's eyes were on the stick's foot. The thumb moved one bead, and stayed there, and the grey head did not lift.
 
 Cael saw the right hand leave the stick.
 
@@ -178,7 +178,7 @@ He looked a moment longer, at the blue band in a bay's forelock, and at a carter
 
 "They shoe by the tier."
 
-He picked up his box. Nobody added anything, and Cael did not think that anything could have been added.
+He picked up his box.
 
 Beyond the smith's the ground went up steeply, and one street climbed it. At its head, two hundred yards above them, stood the second wall, with an arch in it; and in the arch were two figures in long coats of that same dark blue. Cael looked at the coats. He did not look higher.
 

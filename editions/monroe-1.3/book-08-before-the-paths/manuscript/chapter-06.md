@@ -192,7 +192,7 @@ She made no reply to that, and he had not looked for one. She had told six peopl
 
 "Then nobody knows what it stops," she said. "Good. Keep it so till somebody does."
 
-He had one more thing for her, which was not on the hide. He had carried it for ninety-eight days, and nobody had asked him to bring it over a river. But he was standing at the plank where he had once lain still and let her spend herself on him, and he found that he could not stand there and keep a thing back.
+He had one more thing for her, which was not on the hide. He had carried it for ninety-eight days, and nobody had asked him to bring it over a river. But he was standing at the plank where he had once lain still and let her spend herself on him, and he could not stand there and keep a thing back.
 
 "There's another. It isn't a body's, and I don't know that it's yours. But you've had everything else."
 
@@ -278,7 +278,7 @@ It was all that he had. He had kept out of such places since his Kindling, by ev
 
 "That is what I asked for," said Karis, and folded her leaf.
 
-Nobody else spoke. Brom gathered six bowls, and the fire ticked, and Cael sat on with her first two words going round in him. They were small words. Every road that the five had walked since the Line led away from them; and not one of the six had ever said the second of the two aloud as a place to go.
+Brom gathered six bowls, and the fire ticked, and Cael sat on with her first two words going round in him. They were small words. Every road that the five had walked since the Line led away from them; and not one of the six had ever said the second of the two aloud as a place to go.
 
 ---
 

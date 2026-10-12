@@ -72,7 +72,7 @@ He had heard it a good way off, since he could have told that step from any othe
 
 "It's as good as another."
 
-The old man looked at the bank, and he looked at it for longer than a bank deserved: it was two feet of turf, sloping, with a ditch below it on the road's side. Then he looked at his right leg, which stuck out before him in its linen and its two laths like a thing that belonged to somebody else.
+Vastin looked at the bank, and he looked at it for longer than a bank deserved: it was two feet of turf, sloping, with a ditch below it on the road's side. Then he looked at his right leg, which stuck out before him in its linen and its two laths like a thing that belonged to somebody else.
 
 "I have a matter to put before you," he said. "I find that I will not do it standing over you, since I have said a great many things to people from that height, and you were one of the people. So I am going to sit down. I tell you beforehand, since I shall not be able to get up again without you, and I had rather that you knew it now than learned it afterward."
 
@@ -80,7 +80,7 @@ He did not wait for an answer.
 
 He turned his back to the bank. He set the stick's foot in the turf, a long way out, and took its head in both his raw hands. Then he let himself down by the strength of his arms, an inch at a time, with the bound leg held off the ground in front of him and the other bending under the whole of his weight. Cael saw the hands shake on the ash. He saw the left one, which did not open flat, slip a little, and take hold again.
 
-The old man was down. He sat on the bank with one boot braced in the turf and the other leg stuck straight out over the ditch, and he was breathing as he had breathed at the top of the rise.
+He was down. He sat on the bank with one boot braced in the turf and the other leg stuck straight out over the ditch, and he was breathing as he had breathed at the top of the rise.
 
 It was the first time that Cael had seen him lower than his own two feet since a cut on a moor, where he had gone down because nothing was left in him to stand with. This was not that. He had chosen it. A man who had stood for forty years at the upper end of every room had put himself where he could not rise without the arm of a boy whom the registry had no column for; and he had done it before he said a word, so that it could not afterward be taken back.
 
@@ -228,7 +228,7 @@ He set the day at the head, since he could not write anything without it, and th
 
 He looked at that, and it was true, and he let it stand.
 
-The rest came more slowly. He had it in order now. He had said most of it aloud on a bank within the hour, to the last person living whom he would have expected to say it to, and he found that it had been easier to say than it was to write. A thing said to one man in the dusk could be walked away from. He knew what Hesk's book did with a sentence.
+The rest came more slowly. He had it in order now. He had said most of it aloud on a bank within the hour, to the last person living whom he would have expected to say it to, and it had been easier to say than it was to write. A thing said to one man in the dusk could be walked away from. He knew what Hesk's book did with a sentence.
 
 *Ran the reading on myself again. Same nothing at the center. I think the reading can't do it — you can't measure a stillness with a thing that only feels movement. I need an instrument for what doesn't move. Karis says there's a man in Treswick who reads how things are built. Maybe that's the instrument. Maybe I'm about to hand a stranger the one question I've never let anyone hold. Tomorrow. The walls are close enough now to have a color.*
 

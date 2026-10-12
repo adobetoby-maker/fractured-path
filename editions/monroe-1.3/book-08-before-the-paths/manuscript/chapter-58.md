@@ -60,7 +60,7 @@ He kept his eyes off the rows, since he had a pencil, and a book, and had been g
 
 "I want a mark that will not move," said Karis.
 
-She was looking at the old man.
+She was looking at Vastin.
 
 "We came to the edge at this stump. I shall begin here, and go round by the left hand, and I must know to a stride when I have come back. Will you stand at it?"
 
@@ -216,7 +216,7 @@ She wrote three words under the ring, small. He read them upside down, as he had
 
 *No sixth found.*
 
-He took out his own book, and wrote the day's entry standing, since he could not well sit, and since he found that he did not care to sit down in front of that floor.
+He took out his own book, and wrote the day's entry standing, since he could not well sit, and since he did not care to sit down in front of that floor.
 
 *Three hundred and seventh day. The fifth place, at the end of the line. A hundred and twenty-three. Vastin: twenty-eight; he was the mark that the round closed on. Oryn is seven days past her cairn. Eleven of us.*
 

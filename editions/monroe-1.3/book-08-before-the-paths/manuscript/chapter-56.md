@@ -68,7 +68,7 @@ She had said it before he had finished. She was looking at the ridge, and she di
 
 Seln took her by the team's own road, since there was no other that a mule could come back by.
 
-It went up the stair, and through the cleft at the shelf's end, and out upon the back of the ridge. He climbed it without haste. He had gone up the other way that morning, on his fingers, over rock that had been a quilt of loose stone an hour before; and he found that he did not wish to hurry over anything for the rest of that day.
+It went up the stair, and through the cleft at the shelf's end, and out upon the back of the ridge. He climbed it without haste. He had gone up the other way that morning, on his fingers, over rock that had been a quilt of loose stone an hour before; and he did not wish to hurry over anything for the rest of that day.
 
 He had been through the hollow first, alone, while the stone was being carried.
 
@@ -220,7 +220,7 @@ They ate. Seln gave his finding while the pot went round, in six sentences, and 
 
 Teague nodded, once, and asked nothing further. Cael understood that he had been handed one more thing for a column in which there were a good many already, and that he would add it up on the road home, by himself.
 
-Karis had the three boxes off the mule and had counted every lashing. Beside her the old man sat propped against the middle one, with a blanket over his legs; and Lira was on her heels before him with a bowl.
+Karis had the three boxes off the mule and had counted every lashing. Beside her Vastin sat propped against the middle one, with a blanket over his legs; and Lira was on her heels before him with a bowl.
 
 "I am informed that I cannot lift it," said Vastin. "I have tried the information twice, and I find that it is correct."
 

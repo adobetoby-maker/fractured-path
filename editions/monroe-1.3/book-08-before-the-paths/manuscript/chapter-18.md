@@ -84,7 +84,7 @@ It lay the wrong way up.
 
 Cael saw that before he saw anything else, and for a breath it steadied him. A clerk who set a paper before a person turned it to face him. This one had been turned the other way, with its printed head toward the far side of the rock, as papers had lain on a registrar's counter at Denvash, and on a magister's desk, and on a table on a bluff. It was how he had learned to read. Somebody had noticed that, and had laid the sheet so on purpose.
 
-He was not one short. That came next, like the blood coming back into a hand. There had been nothing the matter with his counting. A sheet had been out of the row, in a quiet man's sleeve, and here it was.
+He was not one short. That came next, like the blood coming back into a hand. There had been nothing the matter with his counting. A sheet had been out of the row, in Seln's sleeve, and here it was.
 
 Then he understood that it had not been given back to the row.
 
@@ -154,7 +154,7 @@ She had the rows back in the leather in their order, and the flap down. Nobody h
 
 Vastin had stood through the whole of the morning. He was standing now, a yard from the rock, with both hands on the head of his stick and his eyes on that flat of waxed leather. Cael, who had had reason to watch faces that day, saw something gather in his.
 
-"There are places in that country," the old man said slowly. He was not speaking to anybody. "They have been measured for six years by an office that told no other office. They are classed, by a mark that the survey's own people carry on their iron. A surveyor who formed a view of them had the space for his view struck off the form. And a return upon the deepest thing that the Compact owns has been laid among their sheets, for want of a shelf, with a brush drawn through it." His voice had quickened, and gone level. "This has to go up."
+"There are places in that country," Vastin said slowly. He was not speaking to anybody. "They have been measured for six years by an office that told no other office. They are classed, by a mark that the survey's own people carry on their iron. A surveyor who formed a view of them had the space for his view struck off the form. And a return upon the deepest thing that the Compact owns has been laid among their sheets, for want of a shelf, with a brush drawn through it." His voice had quickened, and gone level. "This has to go up."
 
 Nobody answered him.
 
@@ -244,7 +244,7 @@ At the basin a square woman had stopped wringing linen. She stood with a wet clo
 
 Karis put the glove on.
 
-He went and got the mule himself. Nobody had asked for hands, and nobody did. There was a road, and it went one way. A job had put them on it, and what lay at its end had been named now by the two people with the best right to name it. He found that he had no ruling left to give. He had only to pick up a box.
+He went and got the mule himself. Nobody had asked for hands, and nobody did. There was a road, and it went one way. A job had put them on it, and what lay at its end had been named now by the two people with the best right to name it. He had no ruling left to give. He had only to pick up a box.
 
 "The fork by dark," he said. "Oryn, how far is it?"
 

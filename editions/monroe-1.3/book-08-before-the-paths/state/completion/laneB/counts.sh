@@ -1,0 +1,21 @@
+#!/bin/bash
+# usage: counts.sh DIR  — target pool counts, chapters 31-60, case-insensitive occurrence counts
+D="$1"
+c() { cat "$D"/chapter-{31..60}.md | grep -oiE "$1" | wc -l | tr -d ' '; }
+echo "old man: $(c 'old man')"
+echo "small pale woman: $(c 'small pale woman')"
+echo "big man: $(c 'big man')"
+echo "quiet man: $(c 'quiet man')"
+echo "as|the way|like a/an man|person|woman|boy|girl: $(c '\b(as|the way|like) an? (man|person|woman|boy|girl)\b')"
+echo "He found that: $(c 'he found that')"
+echo "found that (any): $(c 'found that')"
+echo "nobody said|spoke|answered: $(c 'nobody (said|spoke|answered)')"
+echo "did not look: $(c 'did not look')"
+echo "didn't look: $(c 'didn.t look')"
+echo "count*: $(c '\bcount(s|ed|ing)?\b')"
+echo "enter/entered/entry: $(c '\b(enter|entered|entry|entries|entering|enters)\b')"
+echo "price/bill: $(c '\b(price|prices|priced|pricing|bill|bills|billed)\b')"
+echo "flat: $(c '\bflat\b')"
+echo "finger/hair measures: $(c '(width of a finger|finger.?s? ?width|finger-width|width of a hair|hair.?s? ?(width|breadth)|by a hair|to a hair|a finger.s width|the width of (a|one|two|three) fingers?)')"
+echo "thumbs in belt: $(c 'thumbs? (in|into|on|at|through|behind) (his|her|the|their) belt')"
+echo "told it no: $(c 'told (it|them|that|the [a-z]+) no\b')"

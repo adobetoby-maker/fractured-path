@@ -60,7 +60,7 @@ He went down the ladder without a sound. Karis looked after him; and then she lo
 
 Cael went out an hour after noon.
 
-He had not meant to. He had lain on a pallet with his hands behind his head and listened to the street, and he had found that he could not lie under a town which he had not looked at. He had looked at the foot of it for a day. He wished to see how it stood.
+He had not meant to. He had lain on a pallet with his hands behind his head and listened to the street, and he could not lie under a town which he had not looked at. He had looked at the foot of it for a day. He wished to see how it stood.
 
 "Which way?" said Lira. She had sat up as soon as his boots moved.
 
@@ -306,7 +306,7 @@ The lantern had burned down a finger's breadth, and Brom had carried seven bowls
 
 "There was a difficulty," said Karis.
 
-"It is the exposure. I cannot shorten it." Seln spoke as he would have priced a wall. "The form does not require the clerk to ask who a bearer is, or a hand, and it does not forbid him. There will be a moment at that yard door when a pen is held over a line, and a man is counting; and if he is a curious man, or only a careful one, he will say *and you are?*, to pass the time. I have known a hundred clerks. Eighty of them would."
+"It is the exposure. I cannot shorten it." Seln spoke to the lantern. "The form does not require the clerk to ask who a bearer is, or a hand, and it does not forbid him. There will be a moment at that yard door when a pen is held over a line, and a man is counting; and if he is a curious man, or only a careful one, he will say *and you are?*, to pass the time. I have known a hundred clerks. Eighty of them would."
 
 "And then?"
 

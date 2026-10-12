@@ -76,7 +76,7 @@ He did not tell her the rest, which had come to him on the shelf while a wrist w
 
 And the tier had come to him this morning, unasked, as one word in his own cataloguing.
 
-He had not taken it, and he could not give it back. He found that those two facts did not make it sit any easier.
+He had not taken it, and he could not give it back. Those two facts did not make it sit any easier.
 
 ---
 
@@ -182,7 +182,7 @@ He went back to count his four.
 
 They went down to it at noon, when the sun stood over the dish and nothing in it had a shadow.
 
-There were six. Karis had the hide and a roll of paper, and Lira the pebbles. Brom came, since he said that he had not walked five days to look at a bridge from a hill, and Seln, who said nothing. The old man had got up from the upper baulk when he saw them go to the iron, and had taken his place a stride behind Brom without being asked.
+There were six. Karis had the hide and a roll of paper, and Lira the pebbles. Brom came, since he said that he had not walked five days to look at a bridge from a hill, and Seln, who said nothing. Vastin had got up from the upper baulk when he saw them go to the iron, and had taken his place a stride behind Brom without being asked.
 
 The healer was at the bars before them, with her sleeves pushed up.
 
@@ -196,11 +196,11 @@ She put two fingers on it, and he stepped over. Cael watched her lips. They move
 
 She drew him back by the wrist, and the count went on past four, and she let him go.
 
-"It's twice the size and it does the one thing. That's all that I wanted, and I'll want it again when you come out." She looked at the six of them, and last at Cael. He had a figure ready for her, and had been turning over how to give it with an old man standing five feet off. She saw that he had something. She shook her head, by the width of a finger. "Not at a fence. I said that I'd not ask how many, and I'll not be told across a row of iron either."
+"It's twice the size and it does the one thing. That's all that I wanted, and I'll want it again when you come out." She looked at the six of them, and last at Cael. He had a figure ready for her, and had been turning over how to give it with an old man standing five feet off. She saw that he had something. She shook her head. "Not at a fence. I said that I'd not ask how many, and I'll not be told across a row of iron either."
 
 They went down the turf.
 
-It was four hundred and forty yards, and two strides. He had seen the figure written by lamplight, on a night when nobody would cross. It was a long way to walk with nothing on either hand, and the grey thing grew as they came, and he found that he could not make it stop growing.
+It was four hundred and forty yards, and two strides. He had seen the figure written by lamplight, on a night when nobody would cross. It was a long way to walk with nothing on either hand, and the grey thing grew as they came, and he could not make it stop growing.
 
 Then they were at the foot of it.
 
