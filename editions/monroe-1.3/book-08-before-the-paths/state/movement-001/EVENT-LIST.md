@@ -114,3 +114,8 @@ Rules set for himself before a trial (1) · where the locked count falls (1) · 
 - **A vocabulary pass** after the draft put the plain names back in about twenty places (fragment, Path, tier, rank, Iron, Copper, Bronze, deployment) and added a short paragraph in ch1 giving the four companions by Path and tier.
 - **Markers:** four, as planned. **Deployment:** twenty-eight (140th) and twenty-nine (161st), as planned.
 - **Cutaways** came out shorter than the packet's figure: Teague about 1,540 words, Karis about 1,905.
+
+## After the audit and repair r1 (2026-10-11)
+
+- The four markers are replaced by the protected units, whole (the coordinator's audit fixes). The kit's cord is amended: run out to its last knot, the fourth; four knots to a length; the yard is one length and four knots and two strides. "West", "Treswick" and "the Deepstacks" are first said aloud in Karis's protected speech on the 268th.
+- Repair r1 (same author): the opening's account of the three entered places moved to the back-room scene; four passages re-entered (the stalled counts on the landing; Teague's sign at the plank; the hundredth notch on the 230th; Thornwater's yard through the mule); the first bout headed with its day, the 148th; one beat added in the long dark (Lira's knife sharpened on the 181st). See `REPAIR-REPORT-r1.md`.

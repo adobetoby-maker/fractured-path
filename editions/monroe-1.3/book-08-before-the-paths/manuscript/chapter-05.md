@@ -6,7 +6,7 @@ Karis drove her hazel peg into the inn yard at noon on the hundred and sixty-eig
 
 She had chosen her ground with care. The peg stood against the left-hand post of Pike's plank, under the eave. At the yard's far side, by the gate, there was a stone trough with a scratch cut in its foot that morning with her knife. The snow between had been trodden as hard as a floor by a cold term of boots.
 
-She showed them how it was done, and she was a long time about it, since she had never before had anybody to show. The brass eye went over the peg. The cord was run out to its last knot, which was the fourth, and drawn until it had left the snow along the whole of its length and no tighter. A pebble was set down at the end. Then the peg was lifted, and carried to the pebble, and driven there, and the cord was run out again.
+She showed them how it was done. She was a long time about it, since she had never before had anybody to show. The brass eye went over the peg. The cord was run out to its last knot, which was the fourth, and drawn until it had left the snow along the whole of its length and no tighter. A pebble was set down at the end. Then the peg was lifted, and carried to the pebble, and driven there, and the cord was run out again.
 
 "He has knotted it at the fives, which is five strides of his own. Four knots is a length. So a person counts lengths, and then knots, and then whatever strides are left over, by this." She held up a slip of ash with a notch at each end, a stride long by the dead man's reckoning. "It is not clever. It only wants doing the same way every time."
 
@@ -16,7 +16,7 @@ She did it herself, and the yard came to one length and four knots and two strid
 
 "Forty-two. Now Lira."
 
-Lira could not drive a peg, and Seln drove it for her. She ran the cord out with her right hand, and drew it, and set her pebbles with the toe of the great boot; and she arrived at the scratch on the trough with two strides in hand. Brom did it left-handed, and came to forty-two. Seln did it without appearing to hurry and without any waste, as he did everything, and had the same.
+Lira could not drive a peg, and Seln drove it for her. She ran the cord out with her right hand, and drew it, and set her pebbles with the toe of the great boot. She arrived at the scratch on the trough with two strides in hand. Brom did it left-handed, and came to forty-two. Seln did it without appearing to hurry and without any waste, as he did everything, and had the same.
 
 "Good," said Karis. She was pleased, and it made her brisk. "It is a sound cord, and a level yard, and four people can agree about it. Cael."
 
@@ -46,7 +46,7 @@ Brom drew it with the whole of his left arm and his back, until the hemp creaked
 
 She set them. She drove the peg herself. He did no more than run the cord out and hold its end; and when the slip of ash had been laid down once from the fourth knot, there was room for only half of it again before the line cut in the stone.
 
-She took the cord out of his hand. Without moving the peg she drew the last length herself, and laid the slip, and laid it again; and the second time its notch came down upon the scratch as a key comes into a lock.
+She took the cord out of his hand. Without moving the peg she drew the last length herself, and laid the slip, and laid it again. The second time its notch came down upon the scratch as a key comes into a lock.
 
 "Forty-two," said Lira, quietly. She had stopped accusing him of anything.
 
@@ -84,7 +84,7 @@ He took it away. She put out one finger, and touched the brass, and it lay on it
 
 "Now the other."
 
-He laid Hesk's edge to its own marks. It was the straightedge that an old man had sent over a river to a boy, with a note round it that said *true to a hair*; and Cael watched a small pale woman bend to its far end, and stay there, and slowly move her one hair until it lay along the wood on the wrong side of the prick.
+He laid Hesk's edge to its own marks. It was the straightedge that an old man had sent over a river to a boy, with a note round it that said *true to a hair*. Cael watched a small pale woman bend to its far end, and stay there, and slowly move her one hair until it lay along the wood on the wrong side of the prick.
 
 "Long," said Karis. "By the same. It has gone past its mark."
 
@@ -122,7 +122,7 @@ There were thirty-one lays and a piece from the eye to the first knot.
 
 She had done this once before, on the hundred and sixteenth evening, at a fire, on the day after that cord came up out of the ground. She had the figure in her trials leaf. She did not look at it until she had her new one written down, since a person who knows what she is hoping to find will find it.
 
-Then she took the leaf out of her coat. *Thirty-one, and a piece under half.* The cord had not altered by the width of her pencil in fifty-four days. She did the second knot, and the third, and they were as the first.
+Then she took the leaf out of her coat. *Thirty-one, and a piece under half.* The cord had not altered by the width of her pencil in fifty-four days. She did the second knot, and the third, and the fourth, and they were as the first.
 
 So the cord was true. She had known that it would be; she had watched four people get one figure out of it in a yard. She had measured it regardless, since *I had known that it would be* was not a sentence that she allowed in a box.
 
@@ -134,13 +134,13 @@ She had a sentence for occasions of this kind. It was the one that she had given
 
 She had not made it for brass. She had made it as a girl, in a hall with a counter in it, on the day when a registrar laid a card before her that said *Iron*, and a numeral, and *certified*. The girl beside her had wept at hers. Karis had read her own twice, and had asked what instrument it had been taken with, and how that instrument was kept true; and the registrar had looked at her as at a child who inquires what the sky is fastened to.
 
-Nobody had been able to tell her. And so she had worked it out for herself on the walk home, and had found that it steadied her wonderfully. The card was not a fact about Karis. It was a fact about a plate, and a table of figures, and whoever had last adjusted them. A ruler said what a ruler said. If it said different things of the same length, then somebody had a bad ruler, and the length was exactly what it had been before.
+Nobody had been able to tell her, and so she had worked it out for herself on the walk home, and had found that it steadied her wonderfully. The card was not a fact about Karis; it was a fact about a plate, and a table of figures, and whoever had last adjusted them. A ruler said what a ruler said. If it said different things of the same length, then somebody had a bad ruler, and the length was exactly what it had been before.
 
 She had built a good deal on that. She had gone into rooms where she was the smallest person and the lowest tier, and had argued from it. She had copied marks off stone for years with nobody's leave, and nobody's belief either. A rubbing was a fact about a wall, and it did not matter in the least whose hand had held the pencil.
 
 And now there was a cord that read forty-two in four hands and forty-one and a piece in a fifth.
 
-She made herself look at it squarely, as she would have looked at another person's error. The cord was sound. The yard had not moved. The peg had been hers, and the pebbles. She had set them with her own fingers, the third time, so that he had done nothing at all but hold an end. If her sentence was true, then what she had seen could not have happened. She had seen it three times.
+She made herself look at it squarely, as she would have looked at another person's error. The cord was sound, and the yard had not moved. The peg had been hers, and the pebbles, which she had set with her own fingers, the third time, so that he had done nothing at all but hold an end. If her sentence was true, then what she had seen could not have happened. She had seen it three times.
 
 There was another sentence. She knew that there was, as one knows that there is a step in the dark at the bottom of a stair.
 
@@ -162,17 +162,15 @@ It was past the middle of the night when she opened the other book.
 
 She had meant to go to her blanket. She had got as far as putting the cord away, coiled, in its place in the tarred case, beside a stake that had never been in ground; and then her hand had gone to the limp little ledger instead of to the lamp.
 
-It fell open at its first page. It always did, now.
-
-There were the four signs, and the number.
+It fell open at its first page, as it always did now, upon the four signs and the number.
 
 She had looked at them on every night since the ice road, and they had not improved. They were small, and upright, and they pressed, like everything in that hand; but they were not his own. A man does not invent four signs for the place where he is standing. He had copied them out of something, carefully, as a carter copies the mark of a hold onto a bale. They were somebody's name for a square hole with a stair in it.
 
 And under the number, where there was no need for anything at all, he had put the short stroke and the bar.
 
-She knew that mark from four places. It was struck into the head of the stake in that case. It was on the newer of two iron bars at a grey stone on the Stair road. It was on every bar of a fence round a place that she had not been let into, under the number thirty-four. And it was here. It stood beside the Stair twice over and beside the fourth place, and she had never found it beside the Fallow or the hall.
+She knew that mark from four places. It was struck into the head of the stake in that case, and into the newer of two iron bars at a grey stone on the Stair road; it was on every bar of a fence round a place that she had not been let into, under the number thirty-four; and it was here. It stood beside the Stair twice over and beside the fourth place, and she had never found it beside the Fallow or the hall.
 
-She had turned that over until it was as smooth as a river stone. Two had the mark, and two had not. The two that had it were not the two largest, since the Stair was of one size with the others. They were not the two nearest to anything. A girl with her arm in a sling had pointed out, on a morning by a marsh, which way the numbers ran, and Karis had entered the order and declined to say what was being ordered. She declined still. She had been at that mark for fifty-five days, and she could not have said what it counted, or whether it counted anything.
+She had turned that over until it was as smooth as a river stone. Two had the mark, and two had not; and the two that had it were neither the two largest, since the Stair was of one size with the others, nor the two nearest to anything. A girl with her arm in a sling had pointed out, on a morning by a marsh, which way the numbers ran, and Karis had entered the order and declined to say what was being ordered. She declined still. She had been at that mark for fifty-five days, and she could not have said what it counted, or whether it counted anything.
 
 But somebody could.
 
@@ -182,7 +180,7 @@ There was a page somewhere on which those signs stood in a column, with their me
 
 She had never in her life wanted an object as she wanted that page. It was not only that it would save her a year. She had been right before, in an annex, with three leaves on a trestle before it was light; she had been right, and it had made no difference, since she had had nothing to show a seat but her own rubbings and her own word. Stone proved that marks existed. It took a text to say what they meant, and it took a text that somebody else had kept to make anybody believe her.
 
-She knew where such texts were kept. She had known for years, having once read the place's name on the spine of a catalogue that she was not allowed to open. It was a long way from this room. It was on the other side of a river, and of a Line, and of a great deal that five people had walked away from; and there was one among the five whom it would cost more than all the rest together.
+She knew where such texts were kept, and had known for years, having once read the place's name on the spine of a catalogue that she was not allowed to open. It was a long way from this room. It was on the other side of a river, and of a Line, and of a great deal that five people had walked away from; and there was one among the five whom it would cost more than all the rest together.
 
 She would have to ask it of him. She understood that tonight, with the dead man's four signs under her hand, as she had not let herself understand it at the fence.
 
@@ -196,9 +194,9 @@ Under it she began a list. The lamp burned down a finger's breadth before she ha
 
 ---
 
-The long dark lay on Lowmarch through all the weeks that followed, when the sun stood up over the eastern hill for five hours and went home; and it was in those weeks that Cael filled the last of his seven lines.
+The long dark lay on Lowmarch through all the weeks that followed, when the sun stood up over the eastern hill for five hours and went home. It was in those weeks that Cael filled the last of his seven lines.
 
-He laid the lane on the hundred and seventy-sixth night, in the meadow below the ash, when the three fires were covered. Storm was the seventh of the ten, a Gold's worth of weather that had come to him out of a bout with a Gold, and it was the heaviest thing that he carried. It wanted the air. To give it the air he had to take the ground from the read, since at that weight he could have one or the other; and it was like shutting an eye.
+He laid the lane on the hundred and seventy-sixth night, in the meadow below the ash, when the three fires were covered. Storm was the seventh of the ten, a Gold's worth of weather that had come to him out of a bout with a Gold, and it was the heaviest thing that he carried. It wanted the air. To give it the air he had to take the ground from the read, since at that weight he could have one or the other. It was like shutting an eye.
 
 The lane went down the snow toward the river, as long as a cart and team, high at his end and low at the other. Everything in it went one way. A flood of dry snow poured along that channel as meal pours out of a sack, and burst over the bank in a white cloud.
 
@@ -216,13 +214,23 @@ Anchor he tried in the shed, on the capstan bar. He set a point with his palm, a
 
 *That is the ten. Deployment since the Line: twenty-nine.*
 
+One of the ten had sent its bill to somebody else. On the hundred and eighty-first day he took Lira's long knife up to the smith, with a copper of his own, and brought it back with an edge on it, and laid it beside her bowl.
+
+She tried it on her thumbnail.
+
+"It cuts," she said.
+
+"It did before I borrowed it."
+
+"I know when it stopped." Brom held the loaf down on the board for her, and she cut it in five, one-handed, and the crust cracked under the steel. The room smelled of barley, and of the smith's oil. "That's the first bread in this inn since the Fallow that hasn't been torn."
+
 The silent yard went on through all of it, on every morning that the cold road spared, and he lost there more often than he won.
 
-He learned something from each losing. But what he learned most from was a game that Teague set on the hundred and ninetieth day, with a sack of meal in the middle of the square and three people at either end. Whoever carried it over the other side's pegs had it. Cael stood with Seln and Karis, since they were the three of the five who had two arms apiece; and he turned to them to say what he thought they should do.
+He learned something from each losing. But what he learned most from was a game that Teague set on the hundred and ninetieth day, with a sack of meal in the middle of the square and three people at either end. Whoever carried it over the other side's pegs had it. Cael stood with Seln and Karis, since they were the three of the five who had two arms apiece. He turned to them to say what he thought they should do.
 
 He had said four words of it when the sack went past him.
 
-Teague's three had not spoken, and their captain was not even among them. He stood by the bench with his thumbs in his belt. He had looked at a place on the trodden snow, once, before the word was given; and when it was given the spear was standing in that place, and the bow was where the spear had been, and the boy had the sack over the pegs and was waiting to be told whether he might put it down.
+Teague's three had not spoken, and their captain was not even among them. He stood by the bench with his thumbs in his belt. He had looked at a place on the trodden snow, once, before the word was given. When it was given the spear was standing in that place, and the bow was where the spear had been, and the boy had the sack over the pegs and was waiting to be told whether he might put it down.
 
 "You put your hands up," said Teague afterward, without any unkindness. "It's a good way to choose a road. It's no way to cross a yard."
 
@@ -230,17 +238,15 @@ Cael entered that as he would have entered a touch taken. *He is better at this 
 
 ---
 
-The river was a river again at the middle on the two hundred and thirtieth day.
+Seln cut the hundredth notch on the landing, on the two hundred and thirtieth morning, and there was hardly room left on the wand to take it.
 
-It had been coming for a week. The ferryman had pulled his green on the two hundred and twenty-fourth, bough by bough, and stood them against his rope-house. The road-ice went grey, and then it went dull, and a carter who tried it against advice put a wheel through at the landing's foot and was laughed at. By the two hundred and thirtieth morning there was a lane of black water down the channel, as wide as the scow was long, with the shelves standing white on either hand and cakes of ice turning in the current.
+"A hundred," he said. "A desk has had a hundred days. I had thought that I knew what one would do with them. I find that I should have liked to be wrong by more."
 
-"A hundred," said Seln.
+Cael was looking past him at what had been a road. The ferryman had pulled his green six days before, bough by bough, and stood the boughs against his rope-house. The ice had gone grey since, and then dull, and a carter who tried it against advice had put a wheel through at the landing's foot and been laughed at. This morning the two shelves stood white along the banks, and between them ran a lane of black water as wide as the scow was long, with cakes of ice turning in it.
 
-He had come to the landing with the hazel wand under his arm, and he had just cut a notch in it. There was hardly room for another.
+"It cannot cross yet," said Seln. He had followed Cael's eyes to the far bank. "The ferryman says that she is six weeks and more from carrying a boat, with those shelves. I shall begin a second wand."
 
-"A desk has had a hundred days. I had thought that I knew what one would do with them. I find that I should have liked to be wrong by more." He looked across the black lane at the far bank. "It cannot cross yet. The ferryman says that she is six weeks and more from carrying a boat, with those shelves. I shall begin a second wand."
-
-The light had come back before the warmth did. Then the warmth came, by day, and the eaves ran. At night it froze again, so that every morning the meadow was a sheet of glass with last year's grass standing up through it. Lira walked on it with her foot set down whole and her eyes on the ground. She had not fallen since a road in the frost, and she did not mean to begin; and each evening she went down to the gravel bar and stood looking at the saddle to the east, where the snow still lay to the top.
+The light had come back before the warmth did. Then the warmth came, by day, and the eaves ran. At night it froze again, so that every morning the meadow was a sheet of glass with last year's grass standing up through it. Lira walked on it with her foot set down whole and her eyes on the ground. She had not fallen since a road in the frost, and she did not mean to begin. Each evening she went down to the gravel bar and stood looking at the saddle to the east, where the snow still lay to the top.
 
 The ferryman had his scow up on blocks by then, and was paying her seams with tar.
 
@@ -256,7 +262,7 @@ The ferryman had his scow up on blocks by then, and was paying her seams with ta
 
 "I know that there's a mule," said Brom.
 
-Cael had not touched the cord again. Karis had not offered it, and he had not asked; it lay coiled in its tarred case beside a stake that had never been driven, and one pale hair lay pressed in the fold of a notebook, and for ninety-five days the two of them had kept his ruling as carefully as if either had known what it was a ruling about.
+Cael had not touched the cord again. Karis had not offered it, and he had not asked. It lay coiled in its tarred case beside a stake that had never been driven, and one pale hair lay pressed in the fold of a notebook, and for ninety-five days the two of them had kept his ruling as carefully as if either had known what it was a ruling about.
 
 Karis said the other thing on the two hundred and sixty-third.
 
@@ -278,6 +284,6 @@ He had known for a long while that the sentence would end so. It did not help hi
 
 "After Thornwater, then," said Karis. "To six."
 
-The carter came over the saddle the next morning with his breeches wet to the thigh, and said that the road was open if a person did not mind the ford.
+The carter came over the saddle the next morning with his breeches wet to the thigh. The road was open, he said, if a person did not mind the ford.
 
 Lira had been ready since before it was light. The bow was on her back, with its one bolt, and the sling was knotted high at her collar-bone as a healer had left it at a fork. She had not spoken of that arm since a strip of bark was read out at a hearth, and she did not speak of it now. She went up the saddle road first, on the whole of her foot, and the rest of them followed her.

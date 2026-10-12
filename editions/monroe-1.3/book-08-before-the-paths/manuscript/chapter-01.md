@@ -12,11 +12,11 @@ There was a stone trough inside the door, and the water in it had shut in the ni
 
 He stood over it, and Ember made its offer. It was the fifth of the ten things that he carried, and it would set one small hot point on whatever he looked at for long enough; it was looking at the ice now, through his eyes, like a child at a window. He told it no. A point was a thing spent, and what it burned was the hand that carried it. He put his heel through the ice instead, twice, and the mule pushed past his knee and drank.
 
-He was nineteen, and he had no Path. Everybody else whom he knew had been given one at fourteen, at a Kindling, when an Arbiter woke on a brass plate and named the single gift that a person would be ranked by for the rest of her life. His own Arbiter had woken too. It had taken eleven seconds over him, and had gone dark, and it had never lit again. What answered him instead were fragments: pieces of other people's Paths, ten of them now, each one taken in the middle of a fight that somebody had meant, and each one written down in an old man's book with a name beside it and a price.
+He was nineteen, and he had no Path. Everybody else whom he knew had been given one at fourteen, at a Kindling, and had been ranked by it ever since; his own Arbiter had woken on its brass plate that day, and taken eleven seconds over him, and gone dark. What answered him instead were fragments. There were ten of them now, pieces of other people's Paths, each one taken in the middle of a fight that somebody had meant, and each one written down in an old man's book with a name beside it and a price.
 
-The prices were what he knew best. For a hundred and thirty days he had carried all ten down every road in this country and used them as seldom as he could, since the roads out here belonged to things that hunted whatever a Path gave off. He could have said to a grain what each of them charged him for being kept shut. He knew a good deal less about what each would do when it was let out, and where it would fail him, and what it cost afterward.
+The prices were what he knew best, since he had carried all ten down the roads of this country for a hundred and thirty days and used them as seldom as he could. He could have said to a grain what each fragment charged him for being kept shut. He knew a good deal less about what each would do when it was let out, and where it would fail him, and what it cost afterward.
 
-It was a poor thing to be ignorant of, with what lay behind him. There were three places in that country, a ring of stones and a stair under a floor and a hall in a marsh, where a line lay on the ground and every Arbiter that crossed it stopped; the fragments had gone on answering him inside all three, and nobody alive could say why. There was a fourth, twice the size, behind a fence of registry iron, which no one had entered. And up at the inn, on a calfskin, a ruled pencil line ran through the middles of all four and off the edge.
+It was a poor thing to be ignorant of, with where the five of them meant to go. Up at the inn, on a calfskin, a ruled pencil line ran through four rings and off the edge of the skin; and the fourth ring stood for a place behind a fence of registry iron, twice the size of the other three, which nobody had yet entered.
 
 He left the mule to her water and went out to the end of the planks.
 
@@ -28,7 +28,7 @@ It was the third of the ten, and Brom's, and the cheapest thing that he owned. I
 
 "She'll not bear a cat before the new moon."
 
-The ferryman was sitting on a keg in the lee of his rope-house, with a running block across his knees and a pot of tallow beside him. He had been there the whole time. He had watched a stranger stable a mule and break a trough and walk to the end of a landing, and he had not thought any of it worth a word until now.
+The ferryman was sitting on a keg in the lee of his rope-house, with a running block across his knees and a pot of tallow beside him. He had been there the whole time, and had not thought a stranger's mule or a broken trough worth a word until now.
 
 "I wasn't going to try her," said Cael.
 
@@ -44,11 +44,11 @@ The ferryman was sitting on a keg in the lee of his rope-house, with a running b
 
 He said nothing more about it. Cael had been priced by experts for as long as he could remember, and he waited for the figure; the man only turned the block over and began on its other cheek.
 
-Cael stayed where he was, with the cold coming up through the planks, and did what he did at the start of anything, which was to count what he had.
+Over the man's head the ferry's cable hung bare from bank to bank, with rime on it. She had made her last crossing. No post would come over until the thaw, so that a letter to Denvash and another to a yard in a western city would lie unanswered for as long as the ice chose.
 
-He had kept five counts since the Line, in Hesk's book, and every one of them had stopped at this river. The ferry had made her last crossing, and her cable hung bare from bank to bank with rime on it; no post would come over until the thaw, so that a letter to Denvash and another to a yard in a western city would lie unanswered for as long as the ice chose. The board was ruled off. There were nine lines under five names in a one-armed man's ledger, and a sheet of sailcloth by the inn's hearth with those names on its eleventh line, and neither would change by a stroke while the holds were shut. There were ninety-six marks in a purse. There were twenty-seven uses written against the ten fragments.
+Cael had Hesk's book inside his coat, and he did not need to take it out, since every figure in it had stopped at this river. There were nine lines under five names in a one-armed man's ledger, and a sheet of sailcloth by the inn's hearth with those names on its eleventh line, and neither would change by a stroke while the holds were shut. There were ninety-six marks in a purse. There were twenty-seven uses written against the ten fragments.
 
-Nothing was going to move any of those figures for a long while. He had never in his life been anywhere for a whole season with nothing to be measured against, and he did not know what a person did with that.
+He took a count at the start of anything; it was the one habit that he had brought east whole. He had never before come to the start of a thing and found the count made already, with nothing in it that would move for a season, and he did not know what a person did with that.
 
 He knew what he would do with the first night of it.
 
@@ -63,6 +63,8 @@ In the west each of them had been a line in a registry: an Ember of the third ra
 The kit's case lay open on the deal. It had come up out of a hole in the ground sixteen days ago, on Brom's good shoulder, and nobody had yet done more than look into it. There was the cord, coiled, with a knot at every fifth stride. There was the mallet. And there was the stake, which Karis had lifted out and was holding in both hands, as a person holds something that belongs to somebody else.
 
 It was registry iron, a foot and a half long. It had a number struck into its head, thirty-two, and beneath the number a short stroke and a bar. Its point had been turned on a wheel, and it was bright.
+
+The hole that it came out of was one of three. There was a ring of stones in that country, and a stair under a floor, and a hall in a marsh; round each of them a line lay on the ground, and every Arbiter that was carried over it stopped. Four sigils at this table had gone out at those lines like lamps, and come back a stride outside them. The ten fragments had gone on answering Cael within all three, and nobody in the room could have said why.
 
 "You could knock it into the yard and have done," said Lira. "You've wanted a peg for that cord since the marsh."
 
@@ -94,7 +96,7 @@ Karis had turned on her stool.
 
 "I'll keep your door," said Seln.
 
-He said it to the window. It was a small offer, quietly made, and it did the work of the first rule without anybody having to arrange it.
+He said it to the window. It was a small offer, and it did the work of the first rule without anybody having to arrange it.
 
 "There is a thing that I am counting as well, and I had better say so once. A packet went over that river yesterday in a clerk's bag. I know the road that it takes, and the kind of desk that it stops at, and about how long such a desk sits on a paper before it writes another. Nothing can come back while the ice holds." He looked down at the landing. "On the day that it goes, something can."
 
@@ -214,6 +216,8 @@ He opened the ledger at their heading and laid his stone on the leaf.
 
 "We're stopping," said Cael.
 
+The keeper had come out to his own door, behind the plank, with the cloth over his shoulder, since it was his floor that was to be priced.
+
 "Meadow rate is four a month for a crew that's on my sheet," said Pike.
 
 The keeper said, "Pike," and Pike said, "Eleventh."
@@ -248,11 +252,17 @@ Pike wrote it, and said it over to the meadow, as he said everything. Forty fire
 
 He shut the ledger on it.
 
-Across the inn yard, by the smith's rail, five people were loading two mules. There were sacks of salt on the snow, and a board lashed along one pack; a tall figure stood at the mules' heads with a grounded spear, and a broad man was easing his weight onto his right leg, and a boy of sixteen or so was trying to lift two sacks where he had been given one. A lean old woman in a cap stood by with a staff that she did not lean on. The man who was testing the girths had a band of black leather laced on his right wrist. Pike had guessed him a Bronze once, under that eave, and had never been told. He finished the buckle that he was at. Then his head came up, and his eyes went over the plank, and the heaps of money on it, and five people standing in front of three slips.
+It was Brom who saw the sacks. There was a boy of sixteen or so by the smith's rail, on the far side of the inn yard, trying to get two of them onto his shoulder where he had been given one; they were the long grey kind that meant salt, and a dozen more lay on the snow beside a pair of mules. A lean old woman in a cap stood by with a staff that she did not lean on. A tall figure held the mules' heads, with a spear grounded, and a broad man was easing his weight onto his right leg.
 
-He lifted his chin to Cael, by the width of a finger.
+"That's the cold road, loading," said Brom. "He'll be a fortnight up it."
 
-Cael lifted his own. It was everything that passed between the two crews that morning. They had the same river to wait for, and each of them knew what the other meant to do when it opened.
+The fifth of them was bent under a mule's belly with both hands on a girth. He had a band of black leather laced on his right wrist; Pike had guessed him a Bronze once, under that eave, and had never been told. Cael put up one hand to that bent back, open, as carters did on this side of the Line when they passed on a road.
+
+The man could not have seen it. He finished the buckle that he was at, and straightened; and it appeared that he had, for his chin came up by the width of a finger, and went down again. Then he took the leading mule by the cheek-strap.
+
+"Was that for us?" said Lira.
+
+"It was for the fence," said Brom. "He's handed it over. He'd not cross a yard to say so."
 
 Teague's five went up toward the cold road in file, a crew's length apart, and not one of them looked back.
 
@@ -284,7 +294,7 @@ He ruled a line under that, and began a new leaf. He headed it as he had never h
 
 He read the leaf over. It was a poor thing beside the inventory that he had made four nights ago, which had ten names in it, and a still place, and two promises. This had three fragments and the small plain facts of two evenings in a shed, and under them he had ruled seven lines and left them empty.
 
-He had made lists all his life of what he was and what he owed. He had never made one of what he did not know, with the gaps left standing in it on purpose; and he saw, with the pencil still in his fingers, who had shown him that a book might be kept so. A one-armed man had turned a ledger round at first snow, in front of fifty people, to show a boy the place where nothing was written.
+He had made lists all his life of what he was and what he owed. He had never made one of what he did not know, with the gaps left standing in it on purpose; and he saw who had shown him that a book might be kept so. A one-armed man had turned a ledger round at first snow, in front of fifty people, to show a boy the place where nothing was written.
 
 On the far side of the lamp Karis had the hide flat under her four pebbles. She was not ruling anything. She had the older strip of brass laid along her pencil line, and she was sliding it up the skin a hand at a time, past the fourth ring and off the edge, onto the bare deal, as though the table might have something to say about where the line went next.
 

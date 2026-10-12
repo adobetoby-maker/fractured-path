@@ -42,7 +42,7 @@ What was left of the meadow came to look, since there was little else to look at
 
 ---
 
-Teague made the pairs himself, and he made the first of them without seeming to think.
+Teague made the pairs himself on the hundred and forty-eighth morning, and he made the first of them without seeming to think.
 
 "The one with the book, against my spear. He'll learn the most by it. So shall I."
 
@@ -84,7 +84,7 @@ He had not been watching the pole. Cael understood, late, that the man had kept 
 
 "Ten days, and you'll have that again. Bow, you're with the big one's bill. He's not to swing it; you're to show me how a man gets by a hook."
 
-Seln had stood at the north-west peg throughout, with his hands in his sleeves. He had a peeled hazel wand under one arm, and before the pairs were made he had cut a notch in it with his thumbnail, as he had on every morning since a clerk's bag went over the river. There were eighteen notches now.
+Seln had stood at the north-west peg throughout, with his hands in his sleeves. He had a peeled hazel wand under one arm, and before the pairs were made he had cut a notch in it with his thumbnail, as he had on every morning since a clerk's bag went over the river on the hundred and thirtieth day. There were eighteen notches now.
 
 "I do not fight in yards," he said, when Teague's look came to him.
 

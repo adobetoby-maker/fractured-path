@@ -58,15 +58,13 @@ Lira put up her chin to him. It was not much, and from her it was a salute.
 
 The steading's woman had the bar in her two hands. She counted them in through her gate with her lips, as she had on the first night that they ever stood in it; and Cael saw her get to five, and go on looking down the road for a sixth, before she remembered who was inside her fence already.
 
-Inside the fence the yard was as it had been, with the geese drawn up along the barn wall and the well in the middle, and a bench under the back room's window. The last of that day's people was getting up from it as they came in, an old man with a hand bound in clean linen; and behind him, drying her fingers one at a time on a strip of canvas, stood the healer. She was a Tide, of the fourth rank in Iron, and nobody at that gate had ever asked her for the figure.
+It was the mule who found the healer. The brown beast had lifted her head as the bar dropped behind them. She drew her cheek-strap out of Brom's fist without any hurry, and walked away across the flagstones with her pack on, between the geese, to the bench under the back room's window; and there she put her nose down against a broad square back in an old coat.
 
-Oryn did not come to meet them. She looked along the five from where she was, as she looked along any bench, taking the worst first: a sling, and a boot with river water running out of its lacings, and four yards of webbing with a knot upon it that she had not tied. Her eyes rested on Cael for no longer than they had rested on the gatepost.
+Oryn was on her heels at the bench's end, with an old man's hand between her own two. She did not turn round. Her right hand left its work, and went out behind her, and found a small brown cheek where it had always been.
 
-Then they came to the mule.
+She had not asked after that animal in a hundred and forty-three days, by letter or by carter, and she did not ask now. She was a Tide, of the fourth rank in Iron, and nobody at that gate had ever asked her for the figure either.
 
-She had not asked after that animal in a hundred and forty-three days, by letter or by carter, and she did not ask now. The brown mule had lifted her head at the well. She walked across the flagstones with her pack on, between the geese, and stopped with her nose against a broad square chest; and Oryn's right hand went out, and found a small brown cheek where it had always been.
-
-"You came by the ford," she said, over the mule's ears.
+"You came by the ford," she said, to the hand that she was binding.
 
 "It's to the thigh," said Brom.
 
@@ -74,7 +72,11 @@ She had not asked after that animal in a hundred and forty-three days, by letter
 
 "No," said Lira.
 
-"No. I'd not have thought it." The healer took her hand away from the mule. "There's a loft, and there's a pot. I eat now, and I'm on my back two hours, and I'll look at nobody tonight who isn't bleeding. In the morning, before that bench fills."
+"No. I'd not have thought it."
+
+She tied off the linen, and sent the old man away with a word about keeping it dry, and only then got up and turned to them. Her eyes passed over Cael as they would have passed over the gatepost. They went to four yards of webbing, and to a knot upon it that she had not tied; they went down to a boot with river water running out of its lacings; and they stopped at a fold of grey wool, and stayed there.
+
+"There's a loft, and there's a pot," said Oryn. "I eat now, and I'm on my back two hours, and I'll look at nobody tonight who isn't bleeding. In the morning, before that bench fills."
 
 She had Lira on the bench on the two hundred and sixty-sixth morning, as soon as there was light to see by, with the frost still white on the flags.
 
@@ -136,7 +138,7 @@ Lira said it to Oryn.
 
 "Route's whole," Oryn said. "The knee held. Nobody died of three weeks."
 
-Oryn sat down on her keg after that, with her head lowered, for a count of fifty. When she raised it she looked at the arm.
+She sat down on her keg after that, with her head lowered, for a count of fifty. When she raised it she looked at the arm.
 
 "It's an arm. Use it. It'll be slow for a month and it'll ache in the wet for a year and then it won't. Don't fall on it."
 
@@ -228,7 +230,7 @@ Brom laid six bowls. He looked along the row, and did not take one back. But Ory
 
 Cael counted the board, as he counted any room. There was a big man with one arm bound and six bowls laid; and a girl who kept turning her left hand over on the wood, as though it had come back to her from a mender's; and a small pale woman with a hide; and a quiet one with his back to the wall; and at the end, on her feet, a healer who had walked two days down a saddle because it was her road.
 
-Karis waited until the bowls were empty. She had the hide on the board, and a leaf beside it with eleven lines.
+Karis waited until the bowls were empty. She had the hide on the board, spread upon Seln's oilcloth, with the brass laid along its pencil line, and a leaf beside it with eleven lines.
 
 "I am going to make a case," she said. "I have made it to one of you already, so that he should not hear it first in company. I shall say what I think, and what it rests on, and what it does not rest on; and I shall ask for nothing tonight."
 
@@ -254,7 +256,7 @@ Karis answered him without looking away from the map.
 
 "It's west," she said. "Treswick. The last Compact city on the Line. There's a registry office on the old town, and under the old town there's an archive that was there before the Compact was — the Deepstacks, the scholars call it, when they call it anything — records nobody converted because nobody was ordered to and nobody needed to. Whatever these are" — her hand on the oilcloth — "if there's a word for them anywhere on the continent, it's in a book under that registry that nobody has opened since before there was a registry to open it. And there's a provision. The old scholars' provision. It lets a registered historical-studies practitioner in. I'm not one, out here. There's a man there who is."
 
-"It has a gate, with a book in it," said Seln. He spoke to the fire, as he did when he would rather not have been asked. "It has a registry office over that archive, and a station on its crown. There is a paper of ours that executes on the hour when any of us shows a certificate inside the Line; I told you so on the ninth day, and nothing has changed it. And there is one among us whose file is not shut."
+"It has a gate, with a book in it," said Seln. He had not taken his eyes from the fire. "And a station on its crown. There is a paper of ours that executes on the hour when any of us shows a certificate inside the Line; I told you so on the ninth day, and nothing has changed it. And there is one among us whose file is not shut."
 
 Cael felt the whole board take care not to look at him.
 
@@ -276,7 +278,7 @@ It was all that he had. He had kept out of such places since his Kindling, by ev
 
 "That is what I asked for," said Karis, and folded her leaf.
 
-Nobody else spoke. He went back over the hour while the fire ticked. Karis had said *a town*, and *inside the Line*. Seln had said *a gate*. Lira had said *the ladder*, and Brom had asked the price. Six people had sat at a board and talked of nothing but a direction, and not one of them had said its name.
+Nobody else spoke. Brom gathered six bowls, and the fire ticked, and Cael sat on with her first two words going round in him. They were small words. Every road that the five had walked since the Line led away from them; and not one of the six had ever said the second of the two aloud as a place to go.
 
 ---
 

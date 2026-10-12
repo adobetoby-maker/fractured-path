@@ -2,7 +2,7 @@
 
 They went out to the fence at first light on the hundred and thirty-eighth day, by the cold road, with the mule carrying meal and two of the keeper's shovels.
 
-It was a road again as soon as the meadow was behind them, and so the hold came down on all five as it had on every road since the Line. Nobody declared; the sigils stayed in their pockets, and Cael's ten fragments lay shut, and the read asked at every bend what the frozen ruts weighed and was told that it need not know.
+It was a road again as soon as the meadow was behind them, and so the hold came down on all five as it had on every road since the Line. Things lived along the roads of that country which hunted whatever a Path gave off, and nobody declared. The sigils stayed in their pockets, and Cael's ten fragments lay shut, and the read asked at every bend what the frozen ruts weighed and was told that it need not know.
 
 They walked for two days up the north water under a sky like a pewter dish, and slept the night between in a hay barn that a carter had told Brom of, with the mule's breath going up among the rafters and Seln sitting out his watch in the doorway. Lira set the great boot down whole at every stride of both days. The bow rode on her back with its one bolt; nobody had proposed that she should stay by a hearth while a fence was mended, and nobody who knew her would have tried.
 
