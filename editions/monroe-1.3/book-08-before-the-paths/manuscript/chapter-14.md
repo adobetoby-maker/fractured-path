@@ -1,0 +1,249 @@
+# Chapter 14 — Carters Declare
+
+The copper was on its stone in the morning, with the frost on it, and Vastin stood over it for a moment before he took it up.
+
+"That is the second coin which this road has declined of me," he said. "An old man with three carts left the first on a stump."
+
+"It was in the pot," said Brom. He was strapping the pannier, left-handed, with his knee against the mule.
+
+"So I was told at your board, and I paid there, and you let me."
+
+"A board's got a keeper. That's his pot, and he'll have his copper for it from anybody who isn't on a sheet." Brom drew the strap home. "A road hasn't one. Out here it's whoever carried the barley, and I carried it. Put that away."
+
+Vastin put it away. He did not thank Brom a second time, and Cael thought that he was learning that as well.
+
+It was the two hundred and seventy-ninth day. They were on the road in the grey before the sun, which is dusk turned round, with a ground mist lying in the hollows of the moor as high as a man's knee. The country had risen all the day before. It was heather now, and bent, and outcrops of a dark stone that broke into plates, and the ruts climbed through it toward a long shoulder of hill that stood against the west like the back of a beast lying down.
+
+Seln's right fist came up at the second mile.
+
+It went out to the left and stayed there. Cael looked where it went, and for the space of several strides he saw only the mist and the heather; then a piece of the mist moved against the rest, and he had the shape of it. It was low, and long in the back, and it carried its head stretched out level. It was going along the slope at a walk, forty-five yards off, at exactly the pace of a mule, and not one sprig of heather stirred round its legs.
+
+He had last seen one alive on a white floor, with its teeth in a girl's arm.
+
+The fist opened and lay flat, with the palm to the ground.
+
+Six people and a mule stopped where they were, and stood as they were. Cael had done it a hundred times, and it had never once been easy, since all ten of the things that he carried woke at the first grey and spoke together. Wind leaned his feet toward the next rise with a whole burst ready. Pressure began to gather under his breastbone, a breath at a time. The read asked to be let out for one pace and a half, to tell him what he knew already; and it did not feel like doing anything, and he shut it. He put them down, one after another, as a man goes round a house at night shutting doors.
+
+Then he turned his head, slowly, by the width of a hand, to see what stood behind him.
+
+Vastin was at the ditch.
+
+He had gone to it without looking at his feet, at the flat of a hand thirty yards ahead of him. He stood in the wet bents at the road's edge with the stick's foot on turf, and he was not upright; he had let his shoulders come forward and his head hang a little, like a man who has stopped to get his breath on a hill. It was not well done. Anybody who knew him would have seen the effort in it. But there was nothing in that mist that knew him, and nothing in his two wrapped hands, which lay on the stick's head as quietly as they had lain on a trough.
+
+The grey head swung, low, once to each side. It passed over a mule, and a small woman, and a large man bent at a girth. It passed over an old man at a ditch as it passed over the thorn beside him.
+
+Seln lifted two fingers.
+
+They went on, and it went with them. It kept its distance for the better part of half a mile, drifting up the slope where the ruts bent toward it and coming down where they bent away, and in all that time nobody on the road made a sound that a Path would have made. The mist thinned. A beck came down across the road in a spread of wet stones, and the mule's feet rattled in it. At the edge of those stones the grey thing stopped, as if it had come to a wall, and stood; and when Cael next turned his head there was only heather.
+
+Lira put her right hand out at her side, and turned it over, empty.
+
+Nobody spoke for another furlong. It was Vastin who did it first, and he had waited until the road let him.
+
+"It did not look at me."
+
+"No," said Cael.
+
+"I do not say it as a complaint. I am trying to enter it correctly." The old man was a little out of breath, and he had kept his place, a dozen strides back, so that he had to pitch the words forward. "I have not gone into a room in forty years that did not turn to see who had come. I have just stood within fifty yards of a thing that hunts, and it went over me as it went over a bush. I find that I have no column for that."
+
+"You were a post. A post is what it doesn't look at."
+
+"Yes. I had understood the instruction. I had not understood that it would feel like being let off something."
+
+He said no more, and nobody told him that he had done it well. Cael saw Lira turn her head a little, on the whole of her foot, and look at a ditch that was now a furlong behind them, and face the road again.
+
+---
+
+The road came up under the shoulder at noon, and there it divided.
+
+The ruts went on to the right, round the foot of a spur of dark rock that came down off the hill like a buttress, and were lost between two banks of broken stone. A foot-track left them at a cairn and climbed straight up the spur's side, among sheep-scrapes, to a wall of the same dark stone with smoke going up behind it.
+
+"That'll be the cut, where the wheels go," said Brom. "And that's the hold. I'd sooner be told what's in a thing before I walk the mule into it."
+
+They took the track. It was steep, and the mule went up it as if she had been born on a stair, and Vastin went up it a step at a time with his mouth shut and the stick doing the work of the knee.
+
+The gate had no axe-head on it, or anything else. It was a plain bar across a gap in a wall as thick as a cart, and the factor was at it before they had got their breath: a spare grey person in a leather apron, with a slate hung from the belt on a cord and a sheep-crook in one hand. A pair of pale eyes went along them and counted.
+
+"Pike's five, for the cut. I asked for five, and I see five and two over."
+
+"One's a healer, and she's on the slip," said Cael. "The other's walking behind us."
+
+"I don't pay behind."
+
+"He's not asked to be paid."
+
+The factor regarded Vastin, who made the short bow, and it appeared to answer the purpose, since the bar was drawn. The yard within was small and very clean, with a long low house on one side and a salting-shed on the other. The shed's door stood open on a row of empty hooks.
+
+"I've had no salt up since the first frost. I've had no wheel up of any kind. They're stood on your landing, I don't doubt, thirty of them, saying that they'll come when it's fit." The crook pointed down over the wall, to where the spur fell away. "That's my road. It goes through the rock there by a cut that my grandfather's people made, a hundred strides and a cart's width, and it's the only way a wheel can come to this gate. Since the frost it's had three carts off me. And a carter, and two mules."
+
+"What took them?" said Karis. She had her notebook out.
+
+"You know what took them, or Pike's sent me the wrong five."
+
+"I should like it in your words. I have it only in mine."
+
+The factor looked at her a moment, and then leaned the crook against the wall, as a person does who has been asked a question worth both hands.
+
+"They all know what a road is. They come up from the river quiet as a burying, two days, and never a finger lit; I've had Iron men walk through that gate who'd let a beast die in the shafts on the moor sooner than bring up the grey. They know. Then they come into my cut." A hand went out flat, and tilted. "There's a seep at the head of it. It comes down the middle of the road, a stride wide, and from the first frost till the last it's glass from top to bottom, in a place the sun never finds. A wheel goes onto that. Then the cart begins to go, backward, down a hill, with a year's goods on her and a man's own two beasts in front. What does the man do?"
+
+"He holds it," said Brom slowly.
+
+"He's Iron, or he's Stone, or he's some small thing that he was given at fourteen and has kept in his pocket for two days. He's had it out before he's thought. Carters declare, on the ice." The factor spat over the wall. "And then they come up out of the sink."
+
+"How many?" said Seln.
+
+"There's a hole below the road on the north side, where that water goes into the hill. They lie up round it. I've seen five. I'd not swear to five, and nobody who's been nearer has come back to tell me better."
+
+Cael heard that, and he saw that Seln had heard it too.
+
+"They never came up for a cart that kept its feet," the factor went on. "Not once. A man could lead a mule through there at noon with her head held, and I've known it done all the cold term by them that had the nerve. It's the wheels. I can't salt a byre off a mule's back."
+
+"And the terms?" said Cael.
+
+"Twenty, on this bar, when I've led a beast of my own up that cut and down it again with my hand on her, and come home. Not when you tell me it's done." The crook was taken up. "There's a pot for a healer whether she's with a crew or not. There always was. And I'll thank the rest of you not to ask me what you're called."
+
+"Nobody will," said Brom.
+
+---
+
+From the hold's back wall a sheep-walk ran out along the spur's crest, and at its end the ground stopped.
+
+Cael lay on his stomach there with Lira on his left and Seln on his right, and looked down thirty feet of scree into the cut. He had learned in a library, from a list of other people's bouts, that a place is fought in before it is stood in, and he had never had a better seat to learn one from.
+
+It was a hundred strides long, as they had been told, and it rose from his left hand to his right, from east to west, by perhaps the height of two men in its whole length. The road in the bottom of it was no wider than a cart and a man walking beside. On the near side, the south, the bank was this same scree that he lay at the head of, loose plates of the dark stone lying at the pitch of a steep roof. The north bank was low. A man could have stepped up onto it; and beyond it the ground fell away again, steeply, down more of the same broken stone, to a hollow.
+
+"Fifty-five yards," said Seln, under his breath. "From the road's edge to the water. I have counted it three times against that thorn."
+
+The hollow was round, like a bowl, and it lay in the spur's shadow, where the day never came. There was ice on it. The ice was grey and dull, with water standing on it at the edges, and Cael knew that grey: the shelf at Lowmarch had gone that colour a week before the river took it. At one side, under a lip of rock, there was a black place where it had not shut, and he could hear water going down there, a long way, into the hill.
+
+Round that bowl's rim the stone had been scooped. There were hollows in it, each the length of a hound, worn as smooth as the seat of an old chair.
+
+"Three," said Lira, with her lips. "No. Four. There's one with its head down."
+
+"Five," said Seln. "Under the thorn."
+
+They were grey on grey, and they did not move, and it took Cael the better part of a quarter-hour to be certain of the fifth. They lay as dogs lie that have nothing to wait for, each in its own scrape, with its nose toward the road.
+
+"Five is what can be seen from here," said Seln. "There is a strip under the north bank that this lip hides, perhaps four yards of it, the whole length of the cut. I cannot tell you what lies in it. I should not care to say five to a factor who has just told me five."
+
+"Then we'll say five that we've seen," said Cael, "and plan for more."
+
+He went over the cut itself, a stride at a time, with his eyes. Down the middle of the road ran the thing that the factor had held out a flat hand for. It began at a wet place under the rock at the head, away to his right, and it came down the whole hundred strides as straight as a rule: a stride of blue-white ice, with the dark road on either side of it. In that shade it had never softened. He knew what such ice did to a weight. He had lain on a river with his face against two hands of it, and felt a cart come up out of a hole.
+
+"Where do they come up?" he said.
+
+"There." Lira did not point. "And there, and a third at the top. See the bank? It's worn. Three places, all in the upper half. The stone's a different colour where they've gone over it." She was silent for a little, studying the scree under her own chin. "This side's bad going. It's all plates. If I ran on that, it'd run with me. I could cross it slow, on my hands, or I could go down it sitting. I'd not care to be a thing with four legs trying to come up it in a hurry."
+
+"Could you stand on it?"
+
+"With two arms," said Lira. "I could now."
+
+He let that go by, since she had not said it to be answered. He was looking at the foot of the cut, away to his left, where the banks ran out and the road came into the light.
+
+There was a cart there, on its side, with one wheel in the air. Beyond it lay the bed of a second, without wheels, and a scatter of grey staves that had been barrels. A third had gone clean off the road at the bottom and lay in the heather with its pole snapped.
+
+"All three," he said. "Right at the foot. Not one of them's in the cut."
+
+"They slid," said Lira. "It's a hill, and it's glass. Whatever goes on that ice at the top is at the bottom before it stops."
+
+"So that's where it was done. Whatever was done to them."
+
+He put it with the rest, as a fact about carts. Seln had turned his head a very little at the words, as he did at a line in a paper that was not quite what it ought to be, and had said nothing, having nothing yet to say. Cael was to remember that afterward: he had lain on a rock for two hours with the whole of it under his eyes, and he had read it as far as the wheels and not a stride further.
+
+---
+
+Karis had her leaf of findings on the well's coping, with a stone on it, and the seven of them stood round it in the hold's yard.
+
+"I shall read you five lines that you have heard, and then I shall say what I think they are worth here," she said. "It hunts what a Path gives off. It hears, and sees a little, and kills on neither. Water masks it. It has no leader, and where nothing moves first, it stands. And it learns." She laid her pencil on the last. "After three had been killed at a ford by people who had declared nothing, the others would not come near such people. I have that from one evening, at one river, and I shall not pretend that it is more. It is all that we have."
+
+"Three," said Brom. "So we've to kill three, quiet, and the rest pack up."
+
+"If they are like the others. I think that a hold will not pay us for an *if*."
+
+"It's what there is," said Cael.
+
+He had made the plan on the rock, and he gave it to them as he would have laid out a bout, from the ground upward. Brom had gathered a handful of pebbles, without being asked, and he set them down on the coping one at a time as each place was named.
+
+"They don't come for a cart that keeps its feet. They come for a declaration. So we give them one: small, and short, and a long way from anybody. At the top of the cut, eighty strides up. One point of Ember on a twist of tow, on the ice. It's out in a breath. And whoever sets it doesn't stay there."
+
+"They go to where it was," said Lira.
+
+"They go to where it was, and it's gone, and nothing's moving. So they stand. That's her fourth line. Five hounds, or more, standing on a stride of glass at the top of a hill with their heads swinging, and us below them, as quiet as posts." He touched the pebbles. "Brom here, twenty strides down from the mark, on the south edge, where there's a flat stone to stand on that isn't ice. Lira above him on the scree. Seln over the north bank, where they'll not see him and I shan't. When they come down to try us, they try Brom first. He's wrapped."
+
+"I'm always wrapped," said Brom. He had a meal-sack bound round his left forearm already, over the sleeve, with cord. "It's a boot for an arm."
+
+"You've a bill."
+
+"A bill wants swinging, and I've the one arm to swing it. A rock only wants lifting and letting go." He had chosen it on the way up: a plate of the dark stone as big as a loaf, with one edge like an axe. "I'll have the rock."
+
+"And who is to be loud?" said Karis. "It is my fragment that you mean to use. I have set ten thousand such points, and I should not burn my hand."
+
+"You'd be eighty strides up a hill of ice with nobody near you, and you've never had to walk away from a thing that was coming. I've done little else since my Kindling." He did not let it sound like a joke. "It's a piece of yours that I'll be using, and it's mine to pay for. I'm the only one of us who can be loud once and then be nothing. That's the use of me."
+
+Nobody disputed it. He was more afraid than he had let them hear, since he had been tried by teeth, on a river bar, and knew to a grain what it was to stand still for it.
+
+"Then here is the whole of the doctrine, for anybody who's not heard it in one piece," he said, and he did not look at the well's far side. "Nobody declares unless they're meant to be loud. One of us, once, in a place that we've chosen beforehand. Everybody else is dark from the foot of that cut to its head, whatever they see. If the loud one can't do it, then nobody's loud, and we walk out by the foot as we came in."
+
+"A grain," said Karis. "Not a flame. You have a habit of letting it grow."
+
+"A grain."
+
+Lira had unslung the bow. She held it out to the healer, with its hook and its one bolt, and it was the left hand that she held it in.
+
+"I can't span that lying on plates, and I'd want both hands for the stone. It's yours. I've only carried it."
+
+"A season," said Oryn. "I'd noticed." She took it, and hung it on the mule.
+
+"You'll have the foot of the cut," Cael said to Karis. "With the clock, and the mule, and the boxes. It's eighty strides from the mark and sixty from Brom, and it's the last place in that road that anything will come to."
+
+"And I'm with the mule," said Oryn. She had her sleeves pushed up. "My linen's on her. I'll not be two hundred yards from my linen a second time."
+
+That left one, and he had been standing at the well's far side with both hands on his stick.
+
+"A stride behind Brom," said Cael. "On the edge, on the dry. If one comes down and tries him, you'll see it done from as near as you are to me, and you'll see him not answer."
+
+"You know what I said to you at the ring."
+
+"I do. It's why you're behind the one of us who can best bear it."
+
+"I shall be a stride behind him," said Vastin. "I can undertake where I shall stand. I have told you what I cannot undertake, and I had rather say it twice than have you find it out."
+
+"It's heard twice," said Cael.
+
+---
+
+They went into the cut from its foot an hour after noon, when the factor judged that the shadow lay deepest and the beasts below were most asleep.
+
+Cael walked by the three carts. He had not meant to look at them, and he looked: a wheel with two spokes gone, and a barrel-head with a hold's mark burned in it, and under the nearest bed a mule's collar, with the straw coming out. Somebody had driven that cart for two days up a silent road with a Path in his pocket. He had kept it there until the very last hundred strides.
+
+Karis stopped there, at the bank's end, with the mule's cheek-strap in one hand and Hesk's clock in the other. Oryn stood beside her with her arms bare to the elbow. Neither of them said anything, since there was nothing that the road allowed.
+
+The cold came up out of the cut to meet him like the air from a cellar. He kept to the south edge, where a strip of dead turf and gravel ran beside the ice, a little wider than his two boots. The read asked at every stride what the stuff weighed, and Anchor asked *There?* of the wheel-ruts frozen into it, in its thin held note, as it asked at every sill; he told the one that he knew, and the other no. He did not look at the north bank, which was no higher there than his belt, or think of the strip under it that a lip of rock had hidden.
+
+At sixty strides there was a flat stone at the road's edge, and Brom stepped onto it and set his feet, with the rock held against his thigh. Vastin stopped behind him. Cael did not see where Lira went; there was a small dry rattle on the scree above, and then nothing. Seln had left them at the foot, and was already nowhere.
+
+Brom looked at him, once. Then the big man put his right hand flat, palm down, at his side.
+
+Cael went on by himself.
+
+It was twenty strides, and they took him longer than the sixty had. At the eightieth the cut's head stood above him, black and wet, with the seep coming out under it in a skin over the stones. He stooped, and laid a twist of tarred tow on the ice, in the middle, and stepped back two paces onto the turf. His mouth was dry.
+
+He looked at the tow.
+
+*Yes*, he told the fifth of the ten, for the first time in earnest since a stair.
+
+A seed of yellow stood on the tar. It grew for one breath to the size of a barley grain, and that was all he gave it. He shut Ember as he would have shut a hand. The heat that ought to have gone somewhere came home along his left arm instead, though he had been holding nothing, and the old weal across that palm woke and stung as though he had laid it on a kettle.
+
+He turned his back on the mark, and walked.
+
+Wind had his feet before the first stride was down. It leaned him at the foot of the cut with everything that it had, and he told it no, and found that his own two legs had something to offer in its place: a walk, a little bent, close under the scree, such as a girl on a bench had beaten into him with the two halves of a count. He did not run. A thing that ran on that road would be looked at.
+
+He heard them at the tenth stride. It was a sound like gravel poured from a cart, away up on his left, beyond the bank; and it did not come from three places. It came from the whole upper half of the cut together.
+
+They came over the north bank at the mark, as Lira had said that they would, and he turned his head as far as a post may. There were five, grey and long, pouring over the worn places with their heads level. And behind those, out from under the strip that nobody had been able to see, there came three more.
+
+He was two strides from Brom's stone. He stopped, and stood, and counted eight.
+
+They reached the tow, where there was a smear of soot on the ice and nothing else. He waited for them to stand.
+
+They did not so much as check. The first of them set its feet on the glass at the mark, and turned its head down the hill, toward the foot, where three carts lay; and all eight of them came on.

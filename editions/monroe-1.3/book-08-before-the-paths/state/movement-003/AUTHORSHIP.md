@@ -1,0 +1,27 @@
+# AUTHORSHIP — Book 8, Movement 3 "The Border Road" (chapters 13–19)
+
+| Field | Value |
+|---|---|
+| Public byline | Monroe Jackson |
+| Seat | `oconnor` 1.3.0 |
+| Foundation | Monroe Jackson 1.3.0 |
+| Requested author | Opus (Claude Opus 5.5) |
+| Actual runtime model | `claude-opus-5-5` (Claude Opus 5.5), as stated in this session's environment. Run as a delegated agent session launched by the coordinator. |
+| Method | **NO-SOURCE.** |
+| Packet | `editions/monroe-1.3/book-08-before-the-paths/state/movement-003/compiled-prompt.md` (movement brief: `packets/MOVEMENT-003.md`, with its four coordinator notes of 2026-10-11: the rulings after the Movement 1 audit, the rulings after the Movement 2 audit, the inheritance from Movement 2, and NO-SOURCE drafting). |
+| Coordinator rulings applied | The eight provisional facts in the launch prompt. **Two coordinator notes received during the run** (the Movement 2 repair landing, and Movement 2's close after Sol's recheck): chapters 10–12 re-read from disk after the first; Lira read the technician's sheet aloud and Cael has not read its date; the page is a copy on desk paper in Vastin's hand, never a leaf; *Total* is the one word in the anomaly column; five strokes and a count of six; no possessive before "Path" in narration; nothing about a frame shop. The packet's rulings (Teague's spear a tall man, he / his; Teague can read; the stroke and bar on stakes thirty-two and thirty-four only, the sheets being another matter; the cord of twenty strides; deployment thirty; purse 118). BOOK_MAP §9, §11, §12 C1–C2 and C12, §13. Reader Standard. No new names. |
+| Edition | `monroe-1.3` |
+| Drafted | 2026-10-11 |
+| Manuscript files | `manuscript/chapter-13.md` … `manuscript/chapter-19.md` |
+| State files written | `state/movement-003/EVENT-LIST.md`, `state/movement-003/AUTHORSHIP.md`, `state/movement-003/AUTHOR-REPORT.md` |
+
+## Method statement
+
+- **No source chapter was opened.** No file under `books/` and no file under `v3-runs/` was read, searched, listed or grepped by me at any point in this session. Events came from the packet, Book 8's BOOK_MAP, Book 8's STATE_LEDGER (ENTRY, AFTER MOVEMENT 1, AFTER MOVEMENT 2 with its rulings), the coordinator's notes, and the edition's own closed text.
+- **What was read:** the compiled prompt in full, in pages; Book 8 `chapter-01.md` to `chapter-11.md` in full from disk and `chapter-12.md` in full twice (as compiled, and again from disk after the repair landed), with `chapter-10.md` from its third scene and `chapter-11.md` from its last scene re-read after the repair; Movement 2's `AUTHORSHIP.md`, the head of its `AUTHOR-REPORT.md` and the head of its `EVENT-LIST.md`, for format only; Book 7 `chapter-05.md` (by search), `chapter-06.md` (opening), `chapter-09.md` and `chapter-11.md` (the stillhound hypothesis and the five findings, by range), and `chapter-47.md` (Oryn's terms at the fork above Millrace, by range); the rest of Books 1–7 by search only (how a registry date and a Kindling are written; the hounds; burst distances; Millrace; Oryn's past, of which the earlier books say nothing); the tools' own scripts; `protected-patterns.txt`. No audit, review or recheck file was opened.
+- **Order of work:** `EVENT-LIST.md` first, with the sums, the picture of the cut and the list of protected units; then the seven chapters from it, in order. Every scene's mechanics are mine. The list's foot section ("Changes made while drafting") was written after the draft.
+- **Source-derived text seen:** only the output of `ed.sh overlap`, which prints shared runs out of my own chapters. The first run listed eleven runs of 8–14 words. Three are the plan's own quoted text (the slip, and two lines that stand inside `[[TIER-B]]` markers). The other eight were ordinary phrases (two day-headings, "with his hands at his sides", "with the face of a man who has been", and the like) and were re-composed. No source sentence has been seen.
+- **Probe use:** the launch prompt gives `sweep_probe.sh book-08-before-the-paths 13 19`; the script takes movement numbers, not chapters, so it was run once as `sweep_probe.sh book-08-before-the-paths 3 3`, after drafting, without `SHOW`. It printed per-chapter figures only.
+- **Protected text:** every unit that BOOK_MAP §10 and the packet give whole, with its speaker pinned, is in the manuscript word for word, once; a script of mine checked the exact strings. Six `[[TIER-B]]` markers stand, each on its own line, where the plan quotes a line in part or does not pin its speaker.
+- **Rhythm repair:** first drafts measured between 12.4 and 15.9 by chapter. Each chapter was re-composed by reading, by the same author in the same session, through individually written replacements of exact passages (sentences divided where the thought turned; sentences that were one thought joined; new passages where a scene ran short; trims where one ran long). No rule or script split or joined sentences at punctuation. A read-only listing of sentence lengths by the metrics tool's own splitter was kept in the session's scratch directory, outside the repository.
+- **No git command was run.** `BOOK_MAP.md`, `STATE_LEDGER.md`, the packets, `protected-patterns.txt`, chapters 1–12 and every other book's files are untouched. Nothing was written outside `manuscript/chapter-13.md`–`chapter-19.md` and `state/movement-003/`. `state/movement-003/audit-notes.md` appeared during the run; it is not mine and I did not open it.
