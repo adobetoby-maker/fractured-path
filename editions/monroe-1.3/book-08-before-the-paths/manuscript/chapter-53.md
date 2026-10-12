@@ -2,9 +2,9 @@
 
 There was wood for one fire.
 
-The boy had carried it from the watch's own stack, a bundle of split pine on his back, since nothing on that shale would burn; and when he had laid it under the step, with a flint, there was plainly not enough of it to be divided. So the two crews sat down at one hearth for the first time on that road. Nobody had ruled it, and nobody remarked on it. They sat in two halves all the same, with a yard of stone between, as two households sit along a bench at a burying.
+Teague's boy had carried it from the watch's own stack, a bundle of split pine on his back, since nothing on that shale would burn; and when he had laid it under the step, with a flint, there was plainly not enough of it to be divided. So the two crews sat down at one hearth for the first time on that road. Nobody had ruled it, and nobody remarked on it. They sat in two halves all the same, with a yard of stone between, as two households sit along a bench at a burying.
 
-Brom laid seven bowls. The boy, on his own side, laid five.
+Brom laid seven bowls. The boy, on his own crew's side, laid five.
 
 Brom looked at the row when it was done. It went the whole way round the fire, twelve bowls of two different turnings, and there was a person coming for each.
 
@@ -36,7 +36,7 @@ He lowered himself onto the shale. It took him some time. The pine went down upr
 
 Neither of them said another word.
 
-Lira had her hand over her mouth. Brom was looking very hard into his bowl. On the far side of the fire a boy had opened his own mouth, and a big chapped hand, which was nearest, came down flat upon his knee and stayed there until he had shut it.
+Lira had her hand over her mouth. Brom was looking very hard into his bowl. On the far side of the fire Teague's boy had opened his own mouth, and the tall man's big chapped hand, which was nearest, came down flat upon his knee and stayed there until he had shut it.
 
 "Shin," said Oryn.
 
@@ -158,17 +158,13 @@ She had asked for that. Twelve people lay under the step, forty yards off, about
 
 She had the work to do first, and she did it.
 
-It was a reduction, and there was nothing in it that asked her to be clever. She had two letters, a hooked upright and a thing like a gate. She had the old town's way of counting, which she had taken from the spines of its tally-books by pattern alone before she would let herself read a word of them. She wrote out every year of that count whose first word began with the one sign and whose second began with the other. Then she struck out those which no clerk could have meant.
+It was a reduction, and there was nothing in it that asked her to be clever. She had two letters, a hooked upright and a thing like a gate; and she had the old town's way of counting, which she had taken from the spines of its tally-books by pattern alone before she would let herself read a word of them. She worked it through on the lid, twice, with her left hand kept off the wood.
 
-There were eleven left. They lay together, in a row, in the one hundred.
+It would not close. She had known before she began that it would not; a year that is written by its first letters is a year with a door left open in it.
 
-She could not choose among the eleven. She had known before she began that she would not be able to; a year that is written by its first letters is a year with a door left open in it. She put down all eleven, and ruled a line beneath them, and laid beside the row the one year that she had in full, from the head of a certain skin.
+She looked at what she had for some time. Her hand was not quite steady, and she observed it, as she would have observed it in anybody.
 
-It stood among them, the fourth from the top.
-
-She looked at that for some time. Her hand was not quite steady, and she observed it, as she would have observed it in anybody.
-
-It was not proof that the two were one year. She wrote that down first, so that it should stand above everything else: *not shown to be the same year; shown to be one of eleven, of which that year is another.* A clerk in an office had copied two marks forward, from sheet to sheet, for longer than she could well think about, and had never known that he was copying a date. Whoever drew the first of those sheets had reckoned as the old town reckoned. He had drawn it within a few years of the day when a man ruled a leaf of skin and wrote upon it, in a fair hand, what he had done.
+She wrote the limit down first, so that it should stand above everything else: *not shown to be the same year; shown to be near it.* A clerk in an office had copied two marks forward, from sheet to sheet, for longer than she could well think about, and had never known that he was copying a date. Whoever drew the first of those sheets had reckoned as the old town reckoned.
 
 She would say the figure to the nearest hundred, and she would say *or near it*. She would say it one time.
 
@@ -282,7 +278,7 @@ She was sitting on a stone with the box before her. The hide lay across its lid,
 
 "I have it," she said. "As near as it can be had. Come round to this side."
 
-He came round, and stood at her shoulder, and looked down at a calfskin with four rings on it. He had first seen that skin on a board in a meadow, with one ring. He had walked to every one of the four.
+He came round, and stood at her shoulder, and looked down at a calfskin with four rings on it. He had walked to every one of the four.
 
 Beyond the last of them, on the bare paper, there was a mark that he could see only because the lamp stood low. It was a ring pressed with a thumbnail, with a grain of sand at its heart.
 
@@ -290,11 +286,11 @@ She put her forefinger down beside it.
 
 "It's here," Karis said. "Third-tier, documented four hundred years back — as old as the record, as old as the Architect, as old as the machine. The first one they made, or near it."
 
-"And it's on the line."
+"And it's on the line," said Cael.
 
 "It's the *end* of the line. Oldest-last. Everything before it was practice, or maintenance, or — I don't have the word. This is the one that's been quiet since before quiet had a name."
 
-{{JOIN}}
+She took her finger from the paper, and looked up at him.
 
 "You still want to stand in the middle of it."
 
@@ -302,7 +298,7 @@ She put her forefinger down beside it.
 
 "Why."
 
-{{JOIN}}
+He found that he knew, and he told her.
 
 "Because every other site, my Path worked while everyone's died. I want to know what the *oldest* one does to me. I think it's going to tell me something the records can't."
 

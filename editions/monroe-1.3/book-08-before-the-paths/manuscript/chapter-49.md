@@ -12,7 +12,7 @@ Teague called the noon halt in a hollow, out of the wind, where the two crews sa
 
 Lira came and sat by him with her bread.
 
-"He never drank his cup, the night before last," she said. She did not look across the gap. "The boy. I watched it. The kettle had gone to the old one's linen, and there was nothing left to heat; so he put his own cup on the embers, and wrung the cloth out of that, and took it over on his two hands. He went to his blanket dry."
+"He never drank his cup, the night before last," she said. She did not look across the gap. "Teague's boy. I watched it. The kettle had gone to the old one's linen, and there was nothing left to heat; so he put his own cup on the embers, and wrung the cloth out of that, and took it over on his two hands. He went to his blanket dry."
 
 "Did Teague know?"
 
@@ -76,8 +76,6 @@ She had her hand over her eyes.
 
 "The sink," said Teague.
 
-He had said it to himself as much as to her.
-
 "There's a salt road two days north of this, on the high side, that looks down into here from a long way off. I've had it from three carters and never believed one of them. They say that there's a hole in the middle of this ground where the country's water goes, and a span standing over the hole, sunk down in the dish so that you see only the top of it." He put his thumbs in his belt. "They call it that. The Sunken Span. I took it for a tale about a bridge with no river."
 
 Karis had her notebook out, and had written the three words before he had done.
@@ -96,7 +94,7 @@ Cael counted them. He had seen their like on a rim once, and in a stepped alley 
 
 They had not run to that barricade. They had been standing at it.
 
-"They knew," Karis said.
+"They knew," said Karis, under her breath.
 
 "That iron's been in the ground years. Not one cold term."
 
@@ -104,7 +102,7 @@ It was Seln, and he had said it without turning from the fence.
 
 "I told you on this turf that it was a cordon, and that they had been here more than once. I had forty bars by one lamp when I said it. There is light enough tonight to see a quarter of the round." His voice was as mild as ever. "Some of that iron is bright, and a good deal of it is not; and a path has been trodden along the outside of it, the whole way, by people who walk it. Nobody wore that to the stone since the thaw, to meet twelve strangers. It was there for whoever came."
 
-"Two hundred and six," said Karis, very low. "From the first sheet."
+"Two hundred and six," she said. "From the first sheet."
 
 Down on the strip, a point of white light stood up over the timbers, and hung there, and went out.
 
@@ -166,7 +164,7 @@ He had not planned it. He had been set at a shoulder to say what he saw, and the
 
 He gave it as a term, and he put his own word on the end of it, as a person sets a thumb to a slip.
 
-"Nobody declares. Nobody dies. They're seven people on a posting. Noted?" Cael said.
+"Nobody declares. Nobody dies. They're seven people on a posting. Noted?"
 
 "Noted," said Teague.
 
@@ -290,7 +288,7 @@ He lay and thought about his left foot. It was a strange thing to be told, on su
 
 The old three ribs had begun to talk a little, with the cold of the ground. They had been quiet since the morning of the first snow, and he did not think much of it.
 
-A hand touched his boot while the stars were still out. It was the boy's; he was going along the fold from one sleeper to the next, as he had plainly been told to, and waking each by the foot, without a word. When Cael sat up he could see the whites of the eyes, very large.
+A hand touched his boot while the stars were still out. It belonged to Teague's boy; he was going along the fold from one sleeper to the next, as he had plainly been told to, and waking each by the foot, without a word. When Cael sat up he could see the whites of the eyes, very large.
 
 The old man had needed no waking. He was on his feet at the fold's lip, on the stick, as he had been when the last of them lay down, since for him the getting up was a longer business than the staying up; and he had his face to the east, where there was a grey line and nothing else.
 

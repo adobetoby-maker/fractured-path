@@ -2,7 +2,7 @@
 
 They carried the broad man up out of the ravine on his own blanket, four to the corners, and it took them the better part of an hour.
 
-Brom had one corner, and the tall man another. The boy had the third, and would not give it up; and Cael, who had only the one arm that morning, was told by Lira to stand aside and took the fourth all the same until she put him off it with her shoulder. They laid the man in the hut that seven strangers had slept in, on a heap of somebody else's bracken. He had not made a sound that could be heard at five yards, from the bed of the ravine to the blanket in the door.
+Brom had one corner, and the tall man another. Teague's boy had the third, and would not give it up; and Cael, who had only the one arm that morning, was told by Lira to stand aside and took the fourth all the same until she put him off it with her shoulder. They laid the man in the hut that seven strangers had slept in, on a heap of somebody else's bracken. He had not made a sound that could be heard at five yards, from the bed of the ravine to the blanket in the door.
 
 Seln was on the shelf when they came out.
 
@@ -18,11 +18,13 @@ She was grey still, from a shin. She had come up the broken stair of rock a trea
 
 The old woman had the board out already, and a roll of linen. She stood at the captain's right side and waited, as she had plainly waited there a great many times, for him to remember that he had an arm.
 
-"A third time on that arm and I'll set it in a splint. That's not a healer's opinion. That's a fact about a line," Oryn said.
+"A third time on that arm and I'll set it in a splint," said Oryn. "That's not a healer's opinion. That's a fact about a line."
 
 "Noted," said Teague.
 
-"Everybody says that now," said Oryn.
+He had not looked round at her.
+
+"Everybody says that now," said Oryn, to the timber under her.
 
 Teague held the arm out to the board after that, and looked over the old woman's head at the dish while she bound it.
 
@@ -43,8 +45,6 @@ Oryn looked at the two from the baulk.
 He buttoned the coat. Then he went to the hut's door, where a pack lay that was not his, and looked at it, and at a contract.
 
 "What it costs is carried the same, so far as a cost can be," he said. "That was the second head. I can't carry a man's shin for him." He picked the pack up by its straps, and settled it on the shoulder that had been mended at a mill. "I can carry what was on his back."
-
-Nobody in the hut said a word to that. But the boy, who was kneeling by the bracken, looked up at a very big man with an expression that Cael had last seen on a child being handed a second helping.
 
 There was a keg by the fire, three parts full. Brom had drawn a skin from it before anybody could tell him not to, and then he had stood over it, frowning, and laid three coppers of his own on its lid.
 
@@ -82,9 +82,9 @@ He had not taken it, and he could not give it back. He found that those two fact
 
 Teague counted them by their breathing, as he had every night of his life, though it was the middle of the day.
 
-There were three to be had so, in the hut. The old woman's was the lightest; she had sat down against the turf wall with her board across her knees, and gone to sleep sitting up, between one sentence and the next, as she always could. The bow's was short, and it caught at the top. The boy's was long.
+There were three to be had so, in the hut. The old woman's was the lightest; she had sat down against the turf wall with her board across her knees, and gone to sleep sitting up, between one sentence and the next, as she always could. The bow's was short, and it caught at the top: that was the broad man, nearest the door, with his leg on a board. The boy's was long.
 
-The fourth he had by a shadow. It lay across the blanket in the door, as narrow as a post, and it had not shifted in an hour. The spear was at the gap.
+The fourth he had by a shadow. It lay across the blanket in the door, as narrow as a post, and it had not shifted in an hour. The spear, his tall man, was at the gap.
 
 *Four.* He had said it on the lip, aloud, since he had needed to hear it.
 
@@ -94,7 +94,7 @@ He had been told what that meant, an hour since, on the shelf, in three short se
 
 "You heard me," said the bow.
 
-Teague had thought him asleep. He lay on a stranger's bracken with his leg on a board and his eyes on the roof.
+Teague had thought him asleep. He lay on a stranger's bracken with his eyes on the roof.
 
 "I heard you."
 
@@ -144,7 +144,7 @@ He had held, though, at the edge of that grass. The bow had gone off a ledge thi
 
 He would have to think about whose boots a boy watched.
 
-The other boy he did not have to think about, since he had been within a stride of him for the only three breaths that mattered.
+The other boy, the one with the book, he did not have to think about, since he had been within a stride of him for the only three breaths that mattered.
 
 He had asked for a left side kept, with a stick, and he had been given exactly that. A stave had come at his own bent head, and it had been met. Another had come across at the boy's throat, and the boy had put a stick up on end and taken the rest on his neck, and had not given back the length of a boot. Teague had felt the place stay full behind his shoulder. A man who is setting a line can feel that, as he feels a floor.
 
@@ -323,6 +323,8 @@ Karis had stopped drawing.
 She had the pencil's butt on a group of signs in the second course, at the height of her chin. It stood by itself, with a tick on either side of it, and she had gone back to it three times.
 
 "I have a word here that I can turn," she said. "It is the only one on this face that I am sure of."
+
+She read it off the stone, once, as she read a figure.
 
 "Through," said Karis.
 

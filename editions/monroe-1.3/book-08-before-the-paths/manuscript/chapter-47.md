@@ -6,9 +6,11 @@ Cael had walked that ridge once before, and never so. He went a stride behind a 
 
 Behind him the file had a sound that it had not had in a meadow.
 
-There were Lira's boots, and behind them a second pair that came down exactly when hers did, a little too carefully. There was the creak of a pannier, and four small hooves, and the tap of a staff that nobody leaned upon. A big man's tread came next. And a stride behind that, where it had been ordered, there was a stick.
+It was twelve people and a mule. Six of them stood on one side of a contract, with an old man counted among them now, and a captain's four on the other; and there were two healers, whom the count of ten left out, since a healer is not sent.
 
-It had a beat of its own: the ash went down, and the stiff leg came through, and the good one after it. He had listened to that beat down three hundred yards of gallery and up a stair; he had never before heard it keep a road. It was slower than the file. But at each flat hand, when eleven people stood, the stick made up its yards without hurry, and was a stride behind Brom again before two fingers went up.
+He had them all by ear. There were Lira's boots, and behind them a pair that came down exactly when hers did, a little too carefully: that was Teague's boy, the youngest of his four. There was the creak of Oryn's pannier, and four small hooves, and the tap of the lean old woman's staff, which she did not lean upon. Brom's tread came next. A stride behind that, where it had been ordered, there was Vastin's stick; and last of all came the uneven step of the broad man with the crossbow, whom his own crew called the bow.
+
+It had a beat of its own: the ash went down, and the stiff leg came through, and the good one after it. He had listened to that beat down three hundred yards of gallery and up a stair; he had never before heard it keep a road. It was slower than the file. But at each flat hand, when the file stood, the stick made up its yards without hurry, and was a stride behind Brom again before two fingers went up.
 
 Nobody had told the old man how that was to be done. He had looked at the thing for a morning and found the way of it for himself.
 
@@ -18,13 +20,13 @@ Seln stood on the brow, small, with his hands at his sides, and he did not lift 
 
 The ridge broke off there like a table's edge. Its western face went down in one long slope of grass to a low place as round as the print of a thumb, five hundred yards from side to side; and in the bottom of that lay the floor, grey and bare, with a small square of dark cut in the middle of it.
 
-He had lain a day under that square with five people and a bolt. He had come up out of it at dusk without a sound, and walked two hundred yards of ditch with his hands dying on him, and had stood up beside a bar of iron where six hoods could see him. A hundred and eighty-five days had gone over the place since, and a cold term's snow. It had not altered by a blade.
+He had lain a day under that square with five people and a bolt. He had come up out of it at dusk without a sound, and walked two hundred yards of ditch with his hands dying on him, and had stood up beside a bar of iron where six hoods could see him. A hundred and eighty-five days had gone over the place since, and a cold term's snow.
 
 Teague's eyes were on the rim, where they went first on any ground.
 
 He lifted two fingers of his left hand, and turned them a little. The tall man went away southward along the live ruts without a word, with seven feet of ash on his shoulder. He walked a quarter of the round, and stopped, and grounded the butt in the turf; and Cael knew the spot. That man had stood on it from first light until the middle of a forenoon, with his face bare, while a girl with one arm found an edge sixty times with her boot.
 
-The boy went west, at a trot, until a hand from the brow slowed him. The bow sat down where he was, with his bad leg out along the turf and the short walk behind him.
+Teague's boy went west, at a trot, until a hand from the brow slowed him. The broad man sat down where he was, with his bad leg out along the turf and the short walk behind him.
 
 Nobody had asked for a rim to be held. It was held inside the time that a kettle takes, by three people who had held it before; and then the captain looked down the old road, to where a healer and a mule were coming up to the brow with a small pale woman between them.
 
@@ -148,7 +150,7 @@ He knew what road lay a day ahead of them, and so did four others at that fire.
 
 Nobody asked her; he had written in a book, at a mill, that he would not, and Brom, who had opened his mouth, looked at that hand and shut it again and took up his spoon.
 
-It was the boy who came across.
+It was Teague's boy who came across.
 
 He came round the end of the bank with a heel of bread in his fist, and stopped where the light of the second fire began, as a person stops at the edge of somebody else's yard. He was all wrists and collar. He looked back once, to where a captain sat with his arm along a board, and then he looked at Lira.
 
@@ -198,7 +200,7 @@ He had seen the place once, in a soft grey morning, with gnats over the pools. T
 
 It was a cairn. Somebody had built it at the bend, as high as a man's hip, of flat stones laid with care; and from its foot a third way went off, north, up the side of the hill. It was no wider than a mule, and it climbed aslant through the pale grass to a saddle, and went over. Nothing with wheels had ever gone that way, and by the look of the turf not a great deal on legs; it was a road that was kept open by one person's feet, once in a round, and by whoever came down it to fetch her.
 
-Teague's hand came up flat, and eleven people stood.
+Teague's hand came up flat, and the file stood.
 
 "Skins," he said. "There's a gate down there, and there's none for three days after. Mine have their own purse."
 
@@ -216,7 +218,7 @@ Then she turned her back on it and tightened a strap that did not want tightenin
 
 Nobody spoke; Lira was looking at the grass, and Karis had her notebook half out of her coat, and pushed it in again. The old man, a stride behind the place where Brom had been, stood with both hands on the head of his stick, and his eyes were on a pannier.
 
-Cael did not go to her. He had gone fifty paces up such a road beside her once, without meaning to, and had asked nothing the whole way; this time there was no road of hers to walk on, since she had not taken it. He stood where a captain had stood him, and found that it was harder to watch a person stay than it had been to watch her go, since the staying had a price upon it, and nobody among the twelve but herself could read the figure.
+Cael did not go to her. He stood where a captain had stood him, and found that it was harder to watch a person stay than it had been to watch her go, since the staying had a price upon it, and nobody among the twelve but herself could read the figure.
 
 It was a long quarter of an hour before two figures came back up the south road.
 
@@ -250,7 +252,7 @@ The track went under the turf in the last hour of the light.
 
 They had walked it hard. A tree as thick as Brom's leg stood in one rut, and it had put on a hand of girth; there were the pools on either side, black and still, and the silver-backed leaves coming. Five people and a healer had taken a day and a morning over that track once, in a strip a mile wide, with a hide held open and a man sent a furlong ahead to be sighted on. Twelve went along it now between noon and dusk, since eleven of them had only to follow a quiet man who knew where it came out.
 
-Twice the stick fell behind, and twice a flat hand went up for nothing that Cael could see; the file stood, and drank, and the stick came up. Nobody remarked on it. He had seen that captain give a seat on a cart to an old man's leg, and say plainly that he would not walk ten at the pace of one; and he saw now that the same man would stop ten for a hare, twice in an afternoon, sooner than let one of them be seen to be waited for.
+Twice the stick fell behind, and twice a flat hand went up for nothing that Cael could see; the file stood, and drank, and the stick came up. Nobody remarked on it. A captain who had said plainly that he would not walk ten at the pace of one would stop ten for a hare, it appeared, sooner than let one of them be seen to be waited for.
 
 Then there were no ruts, and the ground rose a little, and Seln was standing on the crown of it.
 
@@ -283,8 +285,6 @@ He had two findings of that place now. One was hers. It had cost her forty minut
 The twelfth leaned.
 
 It had found the iron behind his shoulder: a made thing, driven by a mallet some six cold terms ago. He felt it come about to that, mildly, and he gave his eyes the reeds. There were a great many. He counted the green ones along a yard of the edge until the lean came up short and lay down again.
-
-His hands were on his knees, and he left them there. A sore place was to be let alone; he had been told so on this very turf, and he had got round it once since by a field's breadth.
 
 Out in the water, a long way off, something knocked twice against stone.
 

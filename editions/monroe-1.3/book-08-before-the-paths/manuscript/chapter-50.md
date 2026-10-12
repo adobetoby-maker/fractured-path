@@ -4,9 +4,11 @@ By daylight it was a smaller place than he had drawn.
 
 The shelf ran away before them between the drop and the iron, level, and grey with trodden shale. On the left hand the ground simply ended; there was a lip, and then air, and the far wall of the ravine twelve yards off with the sun on it. On the right the bars stood in their row, a pace apart, scaled and bright by turns. Beyond them the turf went down toward the middle of the dish, as smooth as a floor and as empty.
 
+Nine stood at the shelf's mouth, as a captain had set them. Brom was in front. Teague was behind his right shoulder, with the tall man and his spear on the one hand and Cael on the other. Then came Lira, and Teague's boy, and Karis; then Vastin on his stick; and last the broad man whom that crew called the bow, with his crossbow spanned.
+
 Forty yards on, two squared timbers lay across the whole of the way.
 
-They had been carted a great distance to lie there, since nothing grew in that country that was taller than a man's knee. Each was as thick as a thigh. They were lashed one above the other to a pair of trestles, and the upper stood as high as a chest; and behind it, in a row, were seven hoods with the new sun full upon them.
+Each was as thick as a thigh. They were lashed one above the other to a pair of trestles, and the upper stood as high as a chest; and behind it, in a row, were seven hoods with the new sun full upon them.
 
 Cael looked at them as he had been taught to look, for what a person wants.
 
@@ -110,7 +112,9 @@ He saw it arrive, a stride from his face. The straight arm jarred from the palm 
 
 Teague's face went the colour of the shale. The arm came down off the air and hung.
 
-"Through," Teague said.
+"Through," said Teague.
+
+He said it to the place where two timbers had stood, and not to his arm.
 
 ---
 
@@ -130,9 +134,9 @@ He had no book out, and no hand free for one. It stood in him all the same, in t
 
 The watch was on its feet again before he had drawn three breaths.
 
-He would have said, a moment since, that it was beaten. It did not behave as beaten people do. The hoods got up off the shale one after another, and nobody ran; they drew back behind the timbers where those now lay, askew, a body's length nearer to their own fire, and stood to them a second time. One had a stock in his hands that hung in two pieces from its string. The other had his bow whole. He set his boot in the iron while Cael watched, and hauled, and laid a bolt in the groove, and brought the nose up level with a big man's chest at eight yards.
+The hoods got up off the shale one after another, and nobody ran; they drew back behind the timbers where those now lay, askew, a body's length nearer to their own fire, and stood to them a second time. One had a stock in his hands that hung in two pieces from its string. The other had his bow whole. He set his boot in the iron while Cael watched, and hauled, and laid a bolt in the groove, and brought the nose up level with a big man's chest at eight yards.
 
-The white point stood over the shelf again. It had gone out when its maker fell. He had lit it afresh from his knees.
+The white point stood over the shelf again.
 
 Brom had come up. He stood in front of a captain, square, as he had stood at the shelf's mouth, with his coat torn across the breast and his neck the colour of slate. The tall man's steel had come down level beside him.
 
@@ -154,7 +158,7 @@ They went to the left, where the ground ended. They went to the right. Cael, a s
 
 He saw the man see it. There was a strip of shale a cart wide, with a bow at the end of it. And a stride beyond the bars there was a quarter of a mile of turf, level, with nothing on it and nobody's name to it, running on past the timbers and the fire and the hut to the place where a ravine bent in.
 
-It was width. It had been lying beside them since they came down the hill.
+It was width.
 
 "You," said Teague. He had not turned his head; he said it backward, along the file. "With the hide. I said that you'd be asked. That ground, past the iron. Can a body stand on it?"
 
@@ -166,19 +170,23 @@ Karis had come up between Lira and the wall of a big man's back. She stopped at 
 
 "It is ground."
 
-"And theirs?" The chin went toward the hoods, by the width of a finger. "What do they keep, in there?"
+Cael made an entry then, in his head, since there was still no hand for a book. He made it before a boot went over, and in the tense that it would have to be true in afterward.
 
-"Nothing that we do not. There is one of them who has something to lose by it. The rest have a stave on either side of that iron, and so have we."
+*Nothing was gained inside.*
 
-Nothing was gained inside.
+A sigil stopped at that stride for a hood as it stopped for a girl. For the one person on that shelf in whom nothing stopped, he had answered already, behind a brow, with his own word on the end.
 
-Teague had heard as much as he wanted.
+Teague had heard as much as he wanted. He turned his head, for the first time that morning, and looked at the boy behind his left shoulder.
 
-"By count," Cael said.
+"You've stood on three of them," he said. "I've stood on none. Say how."
+
+"By count," said Cael.
+
+It was to be one at a time, as a small pale woman tried any floor, with each one saying what he found.
 
 ---
 
-Cael went first, since there was nothing in him that a line could take.
+Cael went first, since he had no sigil for a line to take; what he carried was no Path, and no such ground had ever touched it.
 
 Three people on that shelf knew why. The rest saw a boy with a stick step over a bar of iron numbered thirty-four, two strides onto the turf, and turn round. Under his breastbone the thin note had asked at the bar, and the post in him had asked at the line. He had told them no. Nothing else in him so much as blinked: there were twelve things going round a still one, as they went on any ground, and a thirteenth that was not yet a minute old.
 
@@ -192,7 +200,7 @@ Lira was over before the word was out. She went one stride past the bar, and sto
 
 She went over at the girl's heels, with the hide under her arm, and said her one word under her breath.
 
-Teague had turned his head at last. He was not looking at the iron. He was looking down the file, to where a boy stood behind the place that Lira had left, with both his fists shut.
+Teague's head had come farther round. He was not looking at the iron. He was looking down the file, to where his own boy stood behind the place that Lira had left, with both his fists shut.
 
 He said nothing. He only looked.
 
@@ -208,7 +216,7 @@ There had been a stick at the tail of the file. It came up now past a broad man 
 
 He set the ash over the iron first, and the stiff leg after it. Cael saw his face as he came across, and looked away from it. A man had carried something beside him for longer than any of the four in front of him had been alive, and had told a great many others what theirs was worth; and it had left him at a stride, on a hillside, without a sound.
 
-That was five. There were four on the shale: a captain with one arm, and a spear, and a big grey man, and a bow.
+That was five. There were four on the shale: Teague with one arm, and the tall man's spear, and Brom, grey to the neck, and the broad man's bow.
 
 They walked.
 
@@ -244,7 +252,11 @@ He counted, since he counted everything.
 
 "You'll die in there."
 
-"We've been in three times," Cael said.
+It came across the iron, thick through a cloth, from the empty-handed man; and he called it as a person calls to a child on thin ice.
+
+"We've been in three times," said Cael.
+
+He said *we* for a crew that had stood on three such floors, and he did not raise his voice.
 
 *Three.*
 
@@ -270,7 +282,7 @@ He had been walking up the shelf since the five stopped: slowly, with the dead a
 
 *Five.*
 
-Beside Karis, a boy had made a noise in his throat.
+Beside Karis, Teague's boy had made a noise in his throat.
 
 All his weight had gone forward onto his toes. He had seen it better than any of them, since he was looking straight across the shelf; and the man who had gone over that edge had reached up from the grass, two evenings ago, and taken a skin of water out of his hand. There was nobody near him this morning who would lay a palm on his chest.
 

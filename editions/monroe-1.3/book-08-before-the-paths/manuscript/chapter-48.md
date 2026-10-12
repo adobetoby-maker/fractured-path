@@ -20,9 +20,9 @@ The mule drank it to the wood, and looked for another.
 
 Cael had kept his fist down, both times. A captain could see a barred gate as well as he could; Teague had turned his head toward each for the space of three strides, and had walked on.
 
-They met no cart all that day. The file went as it had been set, and he listened to it behind him, since his eyes were wanted in front. A new sound had come into it since the ford. The lean old woman's staff and the old man's stick went down together now. Neither of them had chosen that, he thought: she walked beside the pannier, and he a stride behind Brom, ten yards apart; but two pieces of ash that strike the same road all day will find the one beat. Whenever the file stood, he heard the two of them stop on the one tap.
+They met no cart all that day. The file went as it had been set, and he listened to it behind him, since his eyes were wanted in front. A new sound had come into it since the ford. The lean old woman's staff and the old man's stick went down together now. Neither of them had chosen that, he thought: she walked beside the pannier, and he a stride behind Brom, ten yards apart; but two pieces of ash that strike the same road all day will find the one beat.
 
-The bow was the slow one, by the afternoon. That hip had not cared for a marsh's damp, and its owner came on at the tail with his crossbow slung, saying nothing to anybody. Cael heard the boy's feet break their time once, and turn, and heard them come back to it at a sharp small sound, such as a man makes with his tongue to a dog.
+The broad man, the bow of Teague's crew, was the slow one by the afternoon. That hip had not cared for a marsh's damp, and its owner came on at the tail with his crossbow slung, saying nothing to anybody. Cael heard the boy's feet break their time once, and turn, and heard them come back to it at a sharp small sound, such as a man makes with his tongue to a dog.
 
 They came to the third hold at dusk.
 
@@ -112,7 +112,7 @@ The road divided there. The right hand went on south and east under the foot of 
 
 He had walked fifty paces up that left-hand road, once, at a healer's stride and a half, and had asked her nothing the whole way. She had stopped him. She had said where she was to be found, and what he was to bring. He had turned round to four people and a mule.
 
-There were eleven now, and two beasts' worth of load on one.
+There were eleven behind him now, and two beasts' worth of load on one.
 
 He did not look round for her. He heard the pannier creak, and the four hooves go by the stones without a check; and when the file bent with the road he saw her at the edge of his eye, with the rope over her shoulder and her face to the front. She had been a day and a half past her own turning when she came to that heap. She did not give the notch so much as her chin.
 
@@ -196,7 +196,7 @@ Brom did the sum on his fingers, and his face changed.
 
 "I'll go."
 
-It was the boy. He was on his feet, with two skins caught up by their necks, and he had gone red to the collar.
+It was Teague's boy. He was on his feet, with two skins caught up by their necks, and he had gone red to the collar.
 
 "There's only the one of him at it. I can carry them out as they're filled, and he needn't leave the pan. I'm quick. I'd be down and back while—"
 
@@ -242,7 +242,7 @@ The ledge was as broad as a table, and black, and it wept from a seam at the hei
 
 He lay down along the ledge on his chest, with both forearms flat upon the wet rock.
 
-*The read, and nothing else.* He had ruled it on another hill, under snow, with these same creatures a furlong off; and he had held to it that day beside a calf in a hole. If he wanted any other of the twelve on this slope, he would have to want it and go without.
+*The read, and nothing else.* He had ruled it on another hill, under snow, beside a calf in a hole. If he wanted any other of the twelve on this slope, he would have to want it and go without.
 
 He opened the read, and gave it the stone.
 
@@ -300,7 +300,7 @@ Oryn had unrolled her strip of canvas in a dip of the turf, and pressed it down 
 
 So four more had been wanted, and they had been fetched before the light went. The tall man took the first pair, and the boy took the second. Nobody had told him that he might; a captain had only looked at two skins lying on the grass, and then at him. He went down that slope at three steps and a stand, with nineteen grey backs above him and the whole herd gathered to the wet. Cael, who could see a furlong well enough and nothing nearer, watched a small dark shape take as long over sixty yards as it had ever taken over anything in its life.
 
-He came back over the lip with both skins full, and nobody said a word to him. But the bow, sitting on the turf with his leg out, reached up as he went by and took one of them out of his hand; and the boy, who was all wrists, stood for a breath looking at the hand that was left empty.
+He came back over the lip with both skins full, and nobody said a word to him. But the broad man, sitting on the turf with his bad leg out, reached up as he went by and took one of them out of his hand; and the boy, who was all wrists, stood for a breath looking at the hand that was left empty.
 
 Seln had gone down last of all, alone, when the beasts had left the pan for the night's lying.
 

@@ -38,15 +38,11 @@ Seln had his coat buttoned already. He went away eastward over the lip, alone, w
 
 ---
 
-She asked for Brom's blanket, since it was the largest that they had.
+She asked for Brom's blanket, since it was the largest that they had. She meant to lay the whole line out upon it as it lay across the country.
 
 She had it spread on the flat of the shelf, twenty yards from where the boy was laying a fire, and upwind of it; she had never been willing to have a spark near paper. Then she stood at its edge with the hide under one arm and the courier's flat under the other, and looked at a grey square of wool as he had seen her look at a wall under a floor.
 
-"I have had these in three boxes for the better part of two hundred days," she said. "I have never had them in one place. I want all of it on this, in order, before the light goes."
-
-"All of what?" said Brom.
-
-"Everything that anybody has found. I shall tell you where each thing lies, and I should be glad if nobody put down a pebble that I had not asked for."
+"I have had these in three boxes for the better part of two hundred days," she said. "I have never had them in one place. I want everything that anybody has found on this, in order, before the light goes; and I should be glad if nobody put down a pebble that I had not asked for."
 
 She laid the hide in the middle.
 
@@ -70,17 +66,17 @@ She had turned to Cael. He took out Hesk's book, and from between its leaves the
 
 He had gone down on one knee to hold a sheet's corner while Lira found a stone for it.
 
-It was the worst place that he could have chosen. For fourteen days he had kept the folded thing behind his eyes from looking, by giving them some other work: a row of piers, or his own laces, or the reeds along a yard of marsh. There was nothing on that blanket that had not been made. The hide was a made thing, and the brass. The sheets were made things twice over, since each was a hand's copy of a hand's cutting. He had his face a foot from the wool, and wherever he might have turned his eyes there was only more of it.
+It was the worst place that he could have chosen. For fourteen days he had kept the folded thing behind his eyes from looking, by giving them some other work: a row of piers, or his own laces, or the reeds along a yard of marsh. There was nothing on that blanket that had not been made. He had his face a foot from the wool, and wherever he might have turned his eyes there was only more of it.
 
 It came about all at once, like a head turning.
 
 *Goes.*
 
-It was not one sheet. It was the whole of the blanket, in the one breath: fourteen pieces of thin paper, from four places, each lying as its wall had stood. Every run on every one of them leaned. He had felt a single row do so, at the end of a reed, under a town. He had never felt a field of them, and he had never before had them laid out as the stone had stood.
+It was not one sheet. It was the whole of the blanket, in the one breath: fourteen pieces of thin paper, from four places, each lying as its wall had stood. He had felt a single row lean, at the end of a reed, under a town. He had never felt a field of them, and he had never before had them laid out as the stone had stood.
 
-They all leaned the one way.
+It was the brass that he had it by. The strip lay along a pencil line in the middle of the wool, a foot from his hand. Whatever leaned on that blanket leaned with it, as straws lie with a stream. There was a western wall under the Stair, and an eastern, and a pier that faced a pier across a ravine; they stood four ways, and lay four ways upon the wool, and there was not a row in any of them that went across that strip.
 
-He shut his eyes, and it was too late for that; he had had it. It had been like looking down a hillside of grass that the wind has combed. There was a western wall under the Stair, and an eastern, and a pier that faced a pier across a ravine; they stood four ways, and lay four ways upon the wool. Each row in them went off out of its own stone in the direction of a square gap in some hills.
+He shut his eyes, and it was too late for that; he had had it.
 
 "You've gone white," said Lira.
 
@@ -88,17 +84,17 @@ He shut his eyes, and it was too late for that; he had had it. It had been like 
 
 "I know what it reads. I have not asked you for it."
 
-"I'm not offering it. I'm telling you what it took, just now, before I could stop it, since it's yours to file and not mine." He opened his eyes upon the shale beside the blanket's edge, which nobody had made. "They lean. Every sheet that you've laid. He said that an instruction leans, and showed it you in one row. These all lean one way, as they lie now. Along the brass. East."
+"I'm not offering it. I'm telling you what it took, just now, before I could stop it, since it's yours to file and not mine." He opened his eyes upon the shale beside the blanket's edge, which nobody had made. "He said that an instruction leans, and showed it you in one row. Every sheet that you've laid does it, as they lie now, and they lie with your brass. There's not one that goes across. They go east."
 
 Nobody spoke. Brom had a pebble in his hand, and did not put it down.
 
 Karis looked at fourteen sheets for the space of a dozen breaths. Then she took up her pencil.
 
-"That is one glance, by an instrument that I cannot check, taken without being asked for," she said. "I shall enter it so, and I shall enter it as yours. I shall not ask you to look a second time; I know what it costs you, and a second glance by the same eye is not a second witness." She wrote. "But I laid them as the walls stood before you knelt down, and I told nobody why. If I had been asked this morning which way such a thing would run, supposing that it ran at all, I should have said that I could not possibly know."
+"That is one glance, by an instrument that I cannot check, taken without being asked for," she said. "I shall enter it so, and as yours: that the rows agree with the brass, and which way. I shall not ask you to look a second time. I know what it costs you, and a second glance by the same eye is not a second witness." She wrote. "But I laid them as the walls stood before you knelt down, and I told nobody why."
 
-"It's what the hide says already," said Lira. "It's a line. We've been walking it."
+"Then they point on," said Lira. "Each one at the next. It's what the hide says already."
 
-"The hide says where four places are. This says that whoever cut them cut each one to go on to the next." She blew the lead off the leaf. "It is a different sentence, and I have only his word for it. I am very glad to have that."
+"The hide says where four places are, and not what any one of them is looking at. *The next* is yours, and I shall not enter it." She blew the lead off the leaf. "Going east, the next is the older, every time. You had that from an office's corners, at a table. A thing that leans at what was there before it may as well be looking back as going on. I have that they lie one way. I have not what for."
 
 ---
 
@@ -114,9 +110,9 @@ He took the row as he would have taken a seal.
 
 "I have never read a paper standing that I did not afterward wish I had read sitting," said Vastin. "But I observe that the choice has been made for me." He leaned the stick against his hip, and turned the first sheet to the light.
 
-Karis had gone back to the hide's eastern edge, where the clean sheet was.
+Karis had gone back to the hide's eastern edge, where the clean sheet was pinned. The country was laid out; what she wanted of the blanket now was a year.
 
-There was a prick in it, no bigger than a grain of sand, and a pencil line that ran through the prick and a hand's breadth beyond. She had six sheets beside her knee. They were the ones whose square held a stroke and two bars.
+There was a prick in it, no bigger than a grain of sand, and a pencil line that ran through the prick and a hand's breadth beyond. She had six of the office's sheets beside her knee, one out of each taped row of the flat. They were the ones whose square held a stroke and two bars.
 
 "I told you at a table that these have no figure in the corner," she said to Cael, without looking up. "The Fallow's sheet says sixty-one there, and the place behind us says two hundred and six. These have two signs. I said that they were out of the index, and that I could not read them."
 
@@ -134,15 +130,9 @@ Cael looked at the two marks. One was a hooked upright, and one was a thing like
 
 "It is a year, in the count that those books keep. It is the year of the first sheet that anybody ever drew upon that place; and it was put down by a person who reckoned as the old town reckoned, before there was any office to give it a number." She sat back upon her heels. "I have exactly one other year in that count. It stands at the head of a thing that I read aloud, once."
 
-Her eyes had gone to the corner of the blanket, where a pebble lay on a folded paper. She did not reach for it. She turned back three leaves in her notebook, and laid her pencil's butt beside something that he could not see, and looked from that to the corner of a clerk's sheet.
+Her eyes had gone to the corner of the blanket, where a pebble lay on the folded copy. She did not reach for it, and she did not turn back a leaf of her notebook.
 
-She did it twice.
-
-"They are the same two letters," said Karis.
-
-He did not say anything. On his other side Lira had stopped with a sheet half lifted.
-
-"I am not going to tell you that it is the same year, since two years may begin alike; I shall work the reduction through tonight, by myself, with the tally-books' pattern, and I shall say the figure once when I have it. I can tell you now that it is the same hundred." Her voice was small and quite steady. "The office wrote down that it is older than two hundred and six, by leaving the figure out. It did not know by how much. I think that I do."
+"I am not going to lay the one beside the other on a blanket, with the light going and four people looking. I shall work it tonight, by myself, with the tally-books' pattern. I shall say a figure once, when I have one." Her voice was small and quite steady. "The office wrote down that this place is older than two hundred and six, by leaving the figure out. That is as much as the corner has said aloud."
 
 She took the Ternhall brass off the pencil line, and laid it by.
 
@@ -186,7 +176,7 @@ Cael heard it as he had once heard a number read off the foot of a sheet. It was
 
 The stick had moved.
 
-It came away from a hip, and its foot found the shale. The old man had taken a step toward the blanket; his right hand was rising, with a clerk's sheet still in it, and his eyes had gone from a ruled table to a folded paper under a pebble at the far corner.
+It came away from a hip, and its foot found the shale. The old man had taken a step toward the blanket; his right hand was rising, with a clerk's sheet still in it, and his eyes had gone from a ruled table to the folded copy under its pebble at the far corner.
 
 "If a man designed the apparatus, then the sigils —"
 
@@ -200,7 +190,7 @@ He stopped.
 
 "I have told you how a thing goes out, and how it comes back. I have six people's word for it and my own. I have not told you what it is that goes, or why, or what cuts it; I do not know, and I have no leaf that says." She tore the ruled page out of the notebook, cleanly, along its fold, which Cael had never seen her do to any page. "And that is not what I have. That is a thing that somebody wrote down, a long time ago, about himself. I read it once, and I asked that nobody say it back."
 
-She got up. She walked the length of Brom's blanket, past the hide and the fourteen sheets, to the corner that was farthest from a folded paper; and she laid the ruled leaf down there, by itself, and put a stone on it.
+She got up. She walked the length of Brom's blanket, past the hide and the fourteen sheets, to the corner that was farthest from the folded copy; and she laid the ruled leaf down there, by itself, and put a stone on it.
 
 "Two pages," said Karis. "There is the whole of this blanket between them, and I have laid nothing across. Whoever wants a line from the one to the other will have to find something to rule it with. I have not got it. Nor have you."
 
@@ -224,7 +214,7 @@ He kept it where it was.
 
 "There is something pinned to this," said Vastin.
 
-He had gone back to the oldest row. He had read it through to its last sheet, standing, as a man reads who has been told to and means to finish. He was holding the brown tape itself now, which had bound the row, turned inside out between his finger and thumb.
+He had gone back to the oldest of the flat's six taped rows. The blanket's last work that day was his. He had read the row through to its last sheet, standing, as a man reads who has been told to and means to finish. He was holding the brown tape itself now, which had bound the row, turned inside out between his finger and thumb.
 
 "I beg your pardon. I had taken it for a clerk's tag. It is two slips, folded small, and put through with a pin under the knot, where the tape would cover them." He looked at Karis. "I should like leave to draw the pin."
 
@@ -262,11 +252,13 @@ He laid the two slips down on the edge of the flat, side by side.
 
 It was Brom who asked, since he was the one who priced things.
 
-"The Compact," Vastin said.
+"Who's the somebody else?" he said. "I'd want to know who it is that can say no to a thing like that, and put wax on it."
 
-{{JOIN}}
+"The Compact," said Vastin.
 
-Vastin said, "Yes. Part of it."
+He heard how that sounded, on a hillside. His eyes went once more to the two wafers, the red and the dark.
+
+"Yes. Part of it."
 
 "You know whose they are," said Lira. "The two seals. You knew them both before you'd read a word."
 
@@ -286,4 +278,4 @@ Karis had the two slips in her fingers already. She folded each upon its old cre
 
 She laid the row back into the flat with the rest.
 
-Nobody pried at it. Cael marked that, since he had half expected that somebody would. A crack had been found in a thing that had stood over the whole of his life like a wall, by the man who had once been its warder; and five people looked at it by the last of the light, on a blanket, and let it lie where it had been found. It would keep. He had learned from a healer what a person does with a place that he has only just discovered, and he thought that for once not one of them had done it.
+Nobody pried at it. A crack had been found in a thing that had stood over the whole of Cael's life like a wall, by the man who had once been its warder; and five people looked at it by the last of the light, on a blanket, and let it lie where it had been found.
