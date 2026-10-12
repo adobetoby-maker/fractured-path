@@ -18,7 +18,11 @@ She was grey still, from a shin. She had come up the broken stair of rock a trea
 
 The old woman had the board out already, and a roll of linen. She stood at the captain's right side and waited, as she had plainly waited there a great many times, for him to remember that he had an arm.
 
-[[TIER-B: "A third time on that arm and I'll set it in a splint. That's not a healer's opinion. That's a fact about a line." / "Noted," / "Everybody says that now," — three lines; BOOK_MAP §13 gives the third to Oryn ("Oryn's 'Everybody says that now' comes on the 304th"); the first two are not pinned. Staged on the shelf, an hour after the fall: Oryn on the upper baulk, grey from the shin, speaking to the arm from her distance without touching it (she has not been asked to read it, and the older healer has it on her board); Teague standing; so Oryn / Teague / Oryn. If the first line is the older healer's, it cannot be said in the six's hearing in this movement — coordinator to supply protected text]]
+"A third time on that arm and I'll set it in a splint. That's not a healer's opinion. That's a fact about a line," Oryn said.
+
+"Noted," said Teague.
+
+"Everybody says that now," said Oryn.
 
 Teague held the arm out to the board after that, and looked over the old woman's head at the dish while she bound it.
 
@@ -56,7 +60,7 @@ He stopped at Lira's shoulder, and gave it to her as he had once given her anoth
 
 She did not turn her head.
 
-"At the timbers," she said. "I saw your back. You went as stiff as you did on a plank, and I thought that it was the stick on your neck." Her eyes were still on the path. "Does he know?"
+"At the timbers," she said. "I saw your back go still, and I thought that it was the stick on your neck." Her eyes were still on the path. "Does he know?"
 
 "No."
 
@@ -320,7 +324,7 @@ She had the pencil's butt on a group of signs in the second course, at the heigh
 
 "I have a word here that I can turn," she said. "It is the only one on this face that I am sure of."
 
-[[TIER-B: the bearing runs "Through" — the packet gives the single quoted word at the Span ("The bearing runs 'Through'") and pins no speaker. Staged as the word that Karis turns on the western pier's inner face, said by her in the ravine's bed under the arch, as observation and not meaning; the scene's last lines below (Brom's and hers) stand after it. If it is instead a remark of Teague's or Cael's about the line, the lead-in above about a word on the stone wants a different object — coordinator to supply protected text]]
+"Through," said Karis.
 
 "So it's a gate," said Brom.
 
@@ -330,7 +334,7 @@ She had the pencil's butt on a group of signs in the second course, at the heigh
 
 He wrote it by the watch's fire, at dusk, with eleven people about it and one in a hut.
 
-Karis had been told what lay under a hide. She had gone and looked, and had come back with one of the new bars across her two palms, and had sat for some time with it in her lap, saying nothing. Then she had asked the captain's leave to keep it, as though it had been his.
+Karis had been told what lay under a hide. She had gone and looked, and had come back saying nothing.
 
 *Three hundred and fourth day. The watch's post, on the shelf above the fourth place. A hundred and twenty-three. Vastin: twenty-five; he stood inside the line this morning, and it took what he carries, and gave it back. Oryn is four days past her cairn. She knit a shin in the ravine's bed and was grey for a quarter of an hour.*
 

@@ -110,7 +110,7 @@ He saw it arrive, a stride from his face. The straight arm jarred from the palm 
 
 Teague's face went the colour of the shale. The arm came down off the air and hung.
 
-[[TIER-B: "Through." — the packet gives the one word after "the recoil goes to the wrist, then the elbow" and pins no speaker. Staged here: said at the moved timbers, in the breath after the arm drops, with a gap now standing where the barricade was. Teague could own it (of the way that is now open) or Cael (of where the hurt has gone in the arm); the tall man does not speak to the six. The next lines stand for either — coordinator to supply protected text]]
+"Through," Teague said.
 
 ---
 
@@ -170,11 +170,11 @@ Karis had come up between Lira and the wall of a big man's back. She stopped at 
 
 "Nothing that we do not. There is one of them who has something to lose by it. The rest have a stave on either side of that iron, and so have we."
 
-[[TIER-B: "Nothing was gained inside" — a fragment, quoted three times in the plan in the same words ("is entered first"; "fairness is entered before the act"), with nothing to say whose entry it is or how the sentence ends. Staged: it stands here, as narration or as Cael's own entry, BEFORE anybody crosses; the crossing follows below and shows it, and I have not written the sentence in other words. (Karis's answer just above gives the mechanics in her own terms, as a reading; if the restored sentence doubles her last two sentences, they can go) — coordinator to supply protected text]]
+Nothing was gained inside.
 
 Teague had heard as much as he wanted.
 
-[[TIER-B: "By count." — the packet gives the two words between the entry above and "five go over stake thirty-four"; no speaker is pinned. Staged as the order by which they cross: one at a time, each saying a number or a finding as the boot goes over. Teague (the field; "shares and costs by the count"), Karis (the reading; her test) or Cael could own it — coordinator to supply protected text]]
+"By count," Cael said.
 
 ---
 
@@ -242,7 +242,9 @@ He counted, since he counted everything.
 
 *Two.*
 
-[[TIER-B: "You'll die in there." / "We've been in three times." — neither speaker is pinned. Staged inside the count: the first is called across the iron from the shelf at the first second, by one of the hoods (the empty-handed man is nearest, sitting where he fell with a hand in another's collar); the second is the answer from the row of five, by one who has been in (Cael, Lira or Karis; not the boy, not Vastin). The count resumes at three below — coordinator to supply protected text]]
+"You'll die in there."
+
+"We've been in three times," Cael said.
 
 *Three.*
 

@@ -96,7 +96,7 @@ Cael counted them. He had seen their like on a rim once, and in a stepped alley 
 
 They had not run to that barricade. They had been standing at it.
 
-[[TIER-B: "They knew." — the packet gives the two words and pins no speaker. Staged at this place: said on the brow, low, by one of the six, as twelve look down at seven hoods already standing to; Seln's pinned line (next paragraph) answers it by correcting its scale. Cael, Lira, Brom or Karis could own it; Cael's protected log of the 304th has the same two words in his own hand — coordinator to supply protected text]]
+"They knew," Karis said.
 
 "That iron's been in the ground years. Not one cold term."
 
@@ -166,7 +166,7 @@ He had not planned it. He had been set at a shoulder to say what he saw, and the
 
 He gave it as a term, and he put his own word on the end of it, as a person sets a thumb to a slip.
 
-[[TIER-B: "Nobody declares. Nobody dies. They're seven people on a posting. Noted?" — the plan gives the four sentences whole and pins only the answer (Teague's first "Noted"). Staged as Cael's, said standing over the drawn earth to Teague, before any order for the morning is given; the paragraph above is the lead into it and the line below is Teague's pinned reply. If the unit is Teague's own and the reply another's, the two paragraphs above and the reply's tag want turning — coordinator to supply protected text]]
+"Nobody declares. Nobody dies. They're seven people on a posting. Noted?" Cael said.
 
 "Noted," said Teague.
 

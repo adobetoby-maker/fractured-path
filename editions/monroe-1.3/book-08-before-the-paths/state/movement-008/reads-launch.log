@@ -1,0 +1,31 @@
+launched Sol editorial review pid 96637
+launched Sol cold review pid 96640
+== review-editorial
+written (    2922 words)
+Completed the editorial review using the O’Connor framework.
+
+[review-editorial.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-008/review-editorial.md)
+
+No other repository files were modified. The primary release blocker is the ten unresolved Tier-B placeholders embedded in the manuscript.== review-cold
+written (    2525 words)
+Completed the simulated cold-read review and wrote only the requested file:
+
+[review-cold.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-008/review-cold.md)== source-tracking
+written (     601 words)
+Completed the independent source-distance audit.
+
+- Verdict: **1 genuine tracked passage**, in chapter 52, scene 2.
+- No densely tracked scenes.
+- Protected and plan-required material was excluded.
+- The requested probe was run.
+- No manuscript files were edited.
+
+Report: [source-tracking.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-008/source-tracking.md)== plan-audit
+written (   10331 words)
+Completed the Movement 8 audit:
+
+[plan-audit.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-008/plan-audit.md)
+
+Verdict: **REPAIR — bounded line repair**.
+
+It includes sections 1–8, rulings on all owner flags and minted canon, protected-text restorations, Movement 9 inheritance, and 41 exact fixes. Every `old:` string was verified to occur exactly once using fixed-string `grep`. No other files were modified, and no git commands were run.

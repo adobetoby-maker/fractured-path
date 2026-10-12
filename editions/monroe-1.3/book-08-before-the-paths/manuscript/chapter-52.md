@@ -262,7 +262,11 @@ He laid the two slips down on the edge of the flat, side by side.
 
 It was Brom who asked, since he was the one who priced things.
 
-[[TIER-B: "The Compact … Yes. Part of it." — elided, and neither part is pinned. Staged as question and answer over the two slips: one of the five at the blanket (Brom, by the line above; Lira or Cael would serve) asks who the "somebody else" was, and Vastin answers that it was the Compact itself, a part of it. He does not name either seal. The lines below follow his answer — coordinator to supply protected text]]
+"The Compact," Vastin said.
+
+{{JOIN}}
+
+Vastin said, "Yes. Part of it."
 
 "You know whose they are," said Lira. "The two seals. You knew them both before you'd read a word."
 

@@ -172,7 +172,7 @@ It was not proof that the two were one year. She wrote that down first, so that 
 
 She would say the figure to the nearest hundred, and she would say *or near it*. She would say it one time.
 
-She had wanted for five years to be able to say one such thing with a paper under it.
+She had wanted for years to be able to say one such thing with a paper under it.
 
 It came to her as she blotted the line, and she set the pencil down. Being believed had been the thing that she wanted, for all of those years, as a person wants a meal; and a man under a town had told her what it was like when it arrived. He had said it with his eyes shut, in the hearing of five people. He had said that it was the end of being able to be wrong.
 
@@ -218,7 +218,7 @@ If she wrote six words tonight, she would have made that thing herself, out of n
 
 She would not hand him a guess to stand on.
 
-She wanted to. She let herself know that as well, since it was true, and since a refusal that costs nothing is only a habit. She had stood for five years on the wrong side of shut presses. She had never in her life been so near to a thing, with a pencil in reach.
+She wanted to. She let herself know that as well, since it was true, and since a refusal that costs nothing is only a habit. She had stood for years on the wrong side of shut presses. She had never in her life been so near to a thing, with a pencil in reach.
 
 She took her hand off the wood.
 
@@ -288,6 +288,22 @@ Beyond the last of them, on the bare paper, there was a mark that he could see o
 
 She put her forefinger down beside it.
 
-[[TIER-B: the S20 close — "It's here," Karis said. "Third-tier, documented four hundred years back — as old as the record, as old as the Architect, as old as the machine. The first one they made, or near it." / "And it's on the line." / "It's the *end* of the line. Oldest-last. Everything before it was practice, or maintenance, or — I don't have the word. This is the one that's been quiet since before quiet had a name." … "You still want to stand in the middle of it." / "More than I've wanted anything since I was fourteen." / "Why." / "Because every other site, my Path worked while everyone's died. I want to know what the *oldest* one does to me. I think it's going to tell me something the records can't." — the plan pins only the first speaker (Karis) and carries one elision before "You still want…". Staged: Karis on a stone at the box's lid with her finger beside the thumbnail ring, Cael standing at her shoulder; she has just worked the reduction and says the figure here, once; the alternation runs Karis / Cael / Karis … Karis / Cael / Karis / Cael. Nothing of mine stands between her finger going down and the fixed last line below — coordinator to supply protected text]]
+"It's here," Karis said. "Third-tier, documented four hundred years back — as old as the record, as old as the Architect, as old as the machine. The first one they made, or near it."
+
+"And it's on the line."
+
+"It's the *end* of the line. Oldest-last. Everything before it was practice, or maintenance, or — I don't have the word. This is the one that's been quiet since before quiet had a name."
+
+{{JOIN}}
+
+"You still want to stand in the middle of it."
+
+"More than I've wanted anything since I was fourteen."
+
+"Why."
+
+{{JOIN}}
+
+"Because every other site, my Path worked while everyone's died. I want to know what the *oldest* one does to me. I think it's going to tell me something the records can't."
 
 He was right. He did not yet know how right.
