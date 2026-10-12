@@ -90,7 +90,7 @@ The broad man, who had one leg bound to a board, looked at the ground between hi
 
 Cael looked at his own drawing. There were two walls, and a floor eight strides wide, and everything that could kill a person stood on the left hand and above. There was no roof in it anywhere, on the thread or on the floor. But he had seen a thing made once, out of nothing, across a road, on which eight hounds had broken like water on a pier; and he had not been able to stop thinking of it since Seln said *shelf*.
 
-[[TIER-B: "It's through." — the packet gives the two words after "Seln's reconnaissance" and pins no speaker. Staged here: said over the drawing on the shale when the three ways have been priced (back; the team's own path; round) and only the bed is left. Teague could own it (the ruling; his word at the Span's timbers was "Through."), Seln (the close of his report) or Karis (of the line). The paragraphs on either side stand for any of the three — coordinator to supply protected text]]
+"It's through," Cael said.
 
 "Then here's what I see in it," said Teague. "The bows I can live with. A bolt's one man hurt, and they've a count of twenty and more between every flight. It's the two heaps. A heap of that size on a bed of that width is a crew gone, and there's no walking through it and no walking under it." He rubbed his jaw with the back of his left hand. "But a rig's one stroke. Once it's fallen it's only a heap. I want the first of them down on nothing."
 

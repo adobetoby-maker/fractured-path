@@ -14,7 +14,7 @@ He looked at that for a little, and then he wrote the inventory; and it came as 
 
 He read it over, and it was true to the last stop.
 
-He had added three words to an entry that had stood unaltered since a session with a healer, on the far side of a cold term. They were not a finding. Karis would have told him so, and she would have been right, since no ruler had been laid on anything. They were only what he had said aloud on a floor, to nobody, with his palm on his own chest. He had put them down because he would not keep a book that left out the one thing which he had walked a year to say.
+He had added three words to an entry that had stood unaltered since a session with a healer, on the far side of a cold term. They were not a finding. Karis would have told him so, and she would have been right, since no ruler had been laid on anything. They were only what he had said aloud on a floor, to nobody, with his palm on his own chest. He had put them down because he would not keep a book that left out the one thing which he had walked all this way to say.
 
 There was more that he might have written, and he knew where on the leaf it would have gone, and he did not go there.
 
@@ -148,7 +148,15 @@ Cael held out the letter.
 
 Cael could not find an answer to that. He had a thing lying along him from the heel to the palm, which belonged to this man, and which had cracked two ribs for him the day before yesterday; and he stood and was thanked for a doctrine.
 
-[[TIER-B: Teague's departure — "The thaw's past," / "Noted," / "After the next thaw." … "Whatever's on the next line. My crew comes." — Tier A 22 heads the unit "Teague:" but does not say which of the first two lines is his and which the answer, and it elides between "After the next thaw." and "Whatever's on the next line." Staged here: dawn of the 308th at the western side of the fire, Teague a stride from Cael with the letter already in his coat, his three standing behind him; the term that he set at Lowmarch ("After the thaw. Whatever's on that bearing. My crew comes.") has been kept, and this is its successor. Nothing of mine stands between his last speech above and this unit; the paragraph below has him go — coordinator to supply protected text]]
+"The thaw's past," Teague said.
+
+"Noted," said Cael.
+
+"After the next thaw."
+
+{{JOIN}}
+
+"Whatever's on the next line. My crew comes."
 
 No hand was offered. None had been offered at a bench, either, and Cael had learned since what that man meant by it.
 
@@ -176,7 +184,7 @@ She had done it herself. Three boxes stood in a row upon the rock, with the flat
 
 It was the eighth day since she had stood at a cairn. Cael did not say so, since she knew it better than his book did.
 
-She went along them, before she would get up, as she had gone along six people at a fork-stone. She looked under the linen on Brom's forearm, having asked, and told him that he was to keep it out of the wet and that the colours on his chest were coming on nicely. She took Karis's left hand, by her leave, and turned it to the light. She told Lira nothing whatever, since there was nothing that wanted telling, and Lira said that she had noticed.
+She went along them, before she would get up, as she had gone along six people at a fork-stone. She looked under the linen on Brom's forearm, having asked, and told him that he was to keep it out of the wet and that the colours on his chest were coming on nicely. She took Karis's left hand, by her leave, and turned it to the light. "It'll leave a line," she said. She told Lira nothing whatever, since there was nothing that wanted telling, and Lira said that she had noticed.
 
 She stood for a good while in front of the old man.
 
@@ -200,7 +208,19 @@ He had not laid it across her finding, and he would not. But it had walked out o
 
 "There's a leaf," he said. "You said on the road. There was road, and I never told you. When will you hear it?"
 
-[[TIER-B: Oryn's departure — "The day I have to." / "Noted," / "Everybody says that." … "They'll carry. They'll hurt," … "After the thaw: bring the map, and lie still when I say." — Tier A 22 heads the unit "Oryn:" and elides twice; the "Noted," between her first and third lines is not pinned. Staged here: dawn of the 308th at the rim, the mule unloaded, three boxes on the rock at Cael's feet; her first line answers his question above about the leaf (she has still not heard it); "Noted," reads as his; "They'll carry. They'll hurt," is said of his ribs with her eyes on the box that he must take up; the last line is her term, as in her letter. If "The day I have to." answers something else, my question above wants turning. The paragraph below has her go — coordinator to supply protected text]]
+"The day I have to," Oryn said.
+
+"Noted," said Cael.
+
+"Everybody says that."
+
+{{JOIN}}
+
+"They'll carry. They'll hurt," Oryn said.
+
+{{JOIN}}
+
+"After the thaw: bring the map, and lie still when I say."
 
 She got up onto the mule.
 

@@ -1,0 +1,27 @@
+launched Sol editorial review pid 13807
+launched Sol cold review pid 13810
+== review-editorial
+written (    3626 words)
+Completed the editorial review and wrote only the requested file:
+
+[review-editorial.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-009/review-editorial.md)
+
+It includes reader-lens scoring, continuity and canon checks, protected-wording and source-overlap findings, formula alignment, Reader Standard review, and a three-priority repair brief.== review-cold
+written (    2566 words)
+Completed the simulated cold-read review and created only the requested file:
+
+[review-cold.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-009/review-cold.md)== source-tracking
+written (     768 words)
+Completed the independent source-distance audit.
+
+Verdict: **2 genuine tracked passages**, both in chapter 55 (scenes 2 and 5). No densely tracked scenes. Protected and packet-required material was excluded.
+
+Report: [source-tracking.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-009/source-tracking.md)
+
+No manuscript files were edited, and no git commands were run.== plan-audit
+written (    9637 words)
+Completed the audit: [plan-audit.md](/Users/drive/fractured-path-monroe13/editions/monroe-1.3/book-08-before-the-paths/state/movement-009/plan-audit.md).
+
+Verdict: **REPAIR**, bounded to 18 exact line fixes. All 18 `old:` strings were grep-verified to occur exactly once. Sections 1–8 include every coordinator reading, owner flag, protected unit, canon invention, and Book 9 exit state.
+
+Only the requested output file was created. No git commands were run.

@@ -1,0 +1,4621 @@
+# Manuscript movement review
+
+Project root: /Users/drive/fractured-path-monroe13
+This is a compiled prompt, not evidence that a model ran or chapters were written.
+
+---
+
+## REVIEW
+
+# O'Connor movement review
+
+Read the complete supplied movement in chapter order before judging it. State
+whether this is self-review, a fresh-context simulated cold read, or a real human
+read. Do not claim independent testing when you have the drafting history.
+
+First give an unscored reader response: where interest caught, where it slipped,
+which person matters, which event you expect next, and whether you would continue.
+Then use two perspectives: a fluent thirteen-year-old reader and an adult genre
+reader. These are lenses, not demographic research. Do not infer a sales forecast.
+
+For each applicable dimension give a 1–10 score, an exact passage location, a reason
+and confidence. Mark an absent feature N/A instead of giving invented evidence:
+
+| Dimension | What to judge |
+|---|---|
+| Opening pull | A concrete reason to care before explanation takes over |
+| Keep reading | Unresolved pressure and satisfying local payoff |
+| Interest / freshness | Specific people, choices and problems |
+| Clarity / flow | Meaning on one pass and clean transitions |
+| Character attachment | Agency, vulnerability, recognizable differences |
+| Humor / warmth | Character-grounded pleasure, timing, emotional honesty |
+| Action / suspense | Trackable contest, adaptation, cost, earned scene length |
+| Progression payoff | Effort visibly changes capability and consequence |
+| Connection | State, plants and relationships carried across chapters |
+| Read-aloud quality | Punctuation, referents, dialogue attribution and cadence |
+
+Anchor interpretation: 5 = understandable but inconsistent; 7 = engaging with
+located weaknesses; 9 = compelling with few substantial distractions. These are
+editorial judgments, not calibrated measurements. Do not average the two readers
+into a release gate. Do not award points for matching another book's word counts.
+
+Separately check canon, physical state, power limits, knowledge boundaries and
+reserved disclosures. Cite the project evidence for a contradiction. If only the
+plan supports a claim, identify it as plan adherence rather than a canon error.
+
+Return a concise repair brief with at most three priorities. Each needs location,
+observed issue, effect on the reader, proposed scope and a strength to preserve.
+Retain the developed action the owner requested. Punctuation can repair an unclear
+sentence; do not shorten a successful fight merely to reduce its word count.
+
+If comparing runs, keep chapter coverage and scoring rubric equal. Hide model and
+seat labels from a fresh reader where feasible. Report tradeoffs and uncertainty;
+one movement does not prove which seat is better across a series.
+
+---
+
+## REVIEW COVERAGE
+
+7 files supplied in declared order. Only claim this coverage. If the movement is incomplete, say so. Editorial canon evidence is present only when supplied below. Without it, report apparent inconsistency, not verified canon violations.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-54.md
+
+# Chapter 54 — Behind It
+
+Seln came back over the lip of the shale at first light, and he was wet to the ankle.
+
+Nobody had moved a stick. A captain had said that nobody would. Eleven people had lain all night under a step of rock, with their loads lashed and their boots on, and had watched a notch in some hills go from black to grey. Cael had not slept for the last hour of it. He had lain on his back and attended to a thing that lay along him from the heel to the palm; and it, for its part, had attended to the ground.
+
+Teague was on his feet at the edge of the flat before the small shape was fairly up. He stood as he had stood the night before, with one thumb in his belt and the other arm along its slat; and Cael was a stride behind his left shoulder, where he had been put.
+
+"You went in," said Teague.
+
+"I went in. I said that I should go no nearer than a mile, and I have gone a good deal nearer. A mile told me nothing, and I did not care to bring you nothing twice." Seln's voice was as mild as it was at any hour. "There is a pool inside the mouth, under the southern wall, where the last of some old rain lies. I went through it, since a man in water leaves no heel. I lay behind a rock at that wall's foot from the middle of the night until I could see my own hand."
+
+"And?"
+
+"It is kept."
+
+He let that stand for a breath. Then he gave the rest in order, as he gave anything.
+
+"The gap is a hundred strides from mouth to mouth, and eight wide on the floor. The floor is loose stone; it is the bed of a stream that has not run in my lifetime. On the right hand, going in, the wall is sheer, and four times my height, and nothing can be done with it. On the left it is not a wall. It is a bank of broken shale, very steep, and it goes up to a shelf of rock which runs the whole length of the gap, two thirds of the way to the top."
+
+"And they're on the shelf."
+
+"They are on the shelf. I counted nine, and I will not swear that it is not ten. There is a hollow in the back wall up there, with a fire in it which cannot be seen from any side but one, and I could not see to the back of the hollow."
+
+"Bows?"
+
+"Three. I heard three strings tried, one after another, a little before the light." He paused. "I heard a cough as well. I had heard it before, on a shelf beside a fence, from a man who has slept a cold term on stone."
+
+"So the seven are in it."
+
+"The seven, and two more, or three. They had a day's start of us, and I think now that they did not walk it to an empty place."
+
+"Faces?" said Lira.
+
+"Hoods, and cloths. In the dark, among themselves."
+
+She let her breath out through her nose, and said nothing more.
+
+"That is not the worst of it," said Seln. "There are two heaps of stone on that shelf, at its very edge. Each is as long as a cart, and as high as my chest. Each is kept from falling by a frame of timber, and the frame is kept by one wedge under its foot. I have read of such a thing; I had not seen one. A man strikes the wedge with a maul, and the heap goes down the bank onto whatever is in the bed."
+
+Nobody on that flat spoke, and Cael heard the broad man shift his stick.
+
+He had stood in a cut once, with a hillside of loose stone on either hand, and had been afraid of what lived in it. He tried now to see a heap as long as a cart let go from forty feet above a bed eight strides wide, with twelve people and a mule walking along the bottom; and he found that he could see it perfectly well, and that there was no place in the picture where anybody was standing afterward.
+
+"The first stands twenty strides inside the mouth. There is a dead pine at the shelf's lip beside it, standing, and they have roped the tree to the frame, so that the one will bring down the other. The second is sixty strides in."
+
+"And a way up?" said Teague.
+
+"One. At the far end, ninety strides in, the rock of the shelf comes down to the bed in broken steps. A man could climb it with a single hand. Both heaps stand over the ground that he must cross to reach it."
+
+"What about the bank?"
+
+"I put my palm on it. It is a slab of bare rock, as smooth as a table, and the loose stone lies upon it to the depth of my arm, like a quilt. It would not bear a child. I could not have gone a yard up it without bringing half of it down about my ears, and the whole of them to the edge to learn what had moved." He considered that, as he considered everything. "Take the quilt off, and anybody could walk up the table."
+
+Cael marked that sentence. A captain had taught him on a ridge to mark three kinds of thing in any piece of ground, and this was none of the three; it was only a thing that might be different on another day, and he put it by without knowing what it was worth.
+
+"One matter more, and I have done. They did not climb to that shelf from the floor. There is a path. It leaves the foot of the hills half a mile north of the mouth, and goes up onto the ridge, and along it. It comes down to the shelf's eastern end by a cleft, and I should suppose that it goes on down the far side to the plain. It is their road. They carried their timber by it."
+
+"How old's the timber?" said Brom.
+
+"Grey. Two cold terms, I should say, and perhaps more. It was not cut for us."
+
+"Nothing ever is," said Lira. "We only keep turning up at it."
+
+---
+
+He drew it on the bare shale, with a burnt stick from the fire, since there was no earth on that flat to cut.
+
+Nobody had needed to ask him this time. He made two lines for the walls, a hand apart, and hatched the left one for the bank; and he set the shelf above the hatching, with two squares upon it for the heaps, and a cross beside the first of them for a tree. At the far end he put a row of short strokes going down, for a stair. Then he drew the path, which he had not seen, as a thread that came in over the top and ended at the shelf's eastern corner.
+
+Teague looked at it for some time.
+
+"Three ways," he said. "Back's the first."
+
+"Back's seven days to a mill," said Brom, "and those people keep the door for good."
+
+"I wasn't counting it. I came out here to be at the front of the thing; I said so at a bench, and I'll not go home having seen the back of a ridge." He put the toe of his boot beside the thread. "That's the second."
+
+"It passes above their shelf within the length of a stave," said Seln. "It is a pace wide, with the drop on one hand. I should not take two men on sticks along it, in file, under three bows. I should not take myself."
+
+"And round?"
+
+"Five miles to either hand, and I saw nothing in ten that a person could go up without both his arms."
+
+The broad man, who had one leg bound to a board, looked at the ground between his boots. Beyond him an old man stood on a length of ash, as he stood at every halt, with a face that told nothing.
+
+"You, with the hide," said Teague, without turning. "I said that you'd be asked. Does it go round?"
+
+"The line goes through that gap," said Karis. "I ruled it across two ridges from the back of a bridge, and I have looked along it every hour since. The office's figure is three days from the iron, and it is given along the line. It does not say by which door a person is to come." She had the calfskin under her arm, and did not unroll it. "I can tell you where the place is. I cannot tell you that there is any other way to it than the one in front of you."
+
+Cael looked at his own drawing. There were two walls, and a floor eight strides wide, and everything that could kill a person stood on the left hand and above. There was no roof in it anywhere, on the thread or on the floor. But he had seen a thing made once, out of nothing, across a road, on which eight hounds had broken like water on a pier; and he had not been able to stop thinking of it since Seln said *shelf*.
+
+[[TIER-B: "It's through." — the packet gives the two words after "Seln's reconnaissance" and pins no speaker. Staged here: said over the drawing on the shale when the three ways have been priced (back; the team's own path; round) and only the bed is left. Teague could own it (the ruling; his word at the Span's timbers was "Through."), Seln (the close of his report) or Karis (of the line). The paragraphs on either side stand for any of the three — coordinator to supply protected text]]
+
+"Then here's what I see in it," said Teague. "The bows I can live with. A bolt's one man hurt, and they've a count of twenty and more between every flight. It's the two heaps. A heap of that size on a bed of that width is a crew gone, and there's no walking through it and no walking under it." He rubbed his jaw with the back of his left hand. "But a rig's one stroke. Once it's fallen it's only a heap. I want the first of them down on nothing."
+
+"They'll not drop it on nothing," said Lira.
+
+"No. They'll drop it on a thing that they can't afford to leave standing."
+
+He did not look at the old man.
+
+Cael saw him not do it, since the grey eyes stayed upon a patch of charcoal with a great deal of care. That man had said at a bench, before fifty people, that he would not ask a thing with a month on it to be shown for a count; and it seemed that a captain who will not ask must be careful also where he rests his eyes.
+
+Cael did not ask either. It was not his knee, and it was not his word that lay on it, since a healer had set that. Nor was the field his.
+
+He had the like of it in himself. A post had stood in him since a stair under a town, and every line that he came to it asked him the same two words. He had never once given it an answer. He did not know that it would stop a thrown cup, let alone the side of a hill; and a thing that has never been tried is not tried first with eleven people beneath it.
+
+"A wall'd not hold that," said Brom.
+
+Every head came round to him.
+
+"I'm not saying his. I'm saying any. I've stood under a quarry face when a ledge let go, and I've seen what was left of the shed. Nobody stops a thing like that. Nobody holds a roof up, either." He frowned at the charcoal, and then he put out one thick finger and drew a stroke across the two walls, aslant. "You lean it. A lean-to's not held up by the man who built it. It's leaned on the hill, and the hill carries it, and whatever falls on it runs off down the low side."
+
+---
+
+"I have followed the argument," said Vastin.
+
+He had not moved from where he stood. He had both hands folded on the head of the ash, and he spoke to the drawing, as a captain had.
+
+"I believe that I am its next sentence, and that nobody on this rock is willing to say me. I am obliged to all of you for it." He drew a breath through his nose. "Three days ago, at noon, I had it entered that I would not stand a wall before my month was out. It was entered at my own asking, and it is in his book. I was told eleven days more, at a mill, by a person who was entitled to tell me. This morning I have twenty-seven of thirty."
+
+He turned then. He had to turn the whole of himself, upon the stick, since the leg would not do it for him; and when he had done he was facing the healer, who sat on her heels by the mule with a skin of water in her lap.
+
+"I broke your word once, under a town, and I have not walked a mile since without the reminder. I do not propose to break it a second time. I ask whether you will amend it. If you will not, I shall not do the thing; a captain will find some other way, and I shall be perfectly easy."
+
+Oryn looked at him for a while.
+
+"Sit down," she said.
+
+"I beg your—"
+
+"Not on your knees. On that blanket, with the leg out. I'll not rule on a joint that I've not had my hands in since the mill."
+
+He sat, and it took him some time, and nobody watched it.
+
+Cael had known that man refuse to sit before a crew for the whole length of a road, and had been warned beforehand on the one evening when he did. He saw him go down now upon a blanket, before twelve people and a mule, because a healer had said two words; and he saw that it cost him a good deal less than it once had.
+
+She came across, and went down on her heels at her stride and a half, and pushed up her sleeves.
+
+"May I?"
+
+"You may."
+
+"I'll have it plainer."
+
+"Yes," said Vastin.
+
+Her two thick hands went round the linen, above the laths and below them, and her eyes shut. Cael watched her lips, which moved for the length of forty breaths and then were still.
+
+"It's knitting," she said. "It's three days short of done, and it'd tell you so if you stood a wall on it. What I said at the mill is as true this morning as it was then." She did not take her hands away. "How does the thing come down through you? When something strikes it."
+
+"Through whatever I have set upon the ground."
+
+"Your feet."
+
+"I have never had occasion to set down anything else."
+
+"Then here's what I'll amend, and it's the whole of what I'll amend. You'll not stand it. You'll sit it. On the ground, with that leg laid out in front of you and not a pound of you on it. If what comes down goes into the hill through the seat of your breeches, it's not going through my laths."
+
+The old man was silent.
+
+It was a small thing to say, and Cael thought that he was perhaps the only person on that flat, besides its owner, who knew the size of it. He had stood two feet from that wall in a cut, and at its foot in a stair; and each time the thing that held it up had been a pair of boots which looked as if they had been let into the ground, and above them a man who had been taught through the whole of a long service that an officer of the floor does not sit.
+
+"I have held that thing upon eleven fields," he said at last, "and on a road, and in a stair. I have never been otherwise than upright. I do not know that it can be raised by a man who is sitting on the ground."
+
+"Then you'll find out."
+
+"On a morning when somebody's shooting," said Lira, under her breath; and across the flat a boy's head came round at words that he had been given once, by a fire, and he went red.
+
+"And hear the rest, since you asked me fairly," said Oryn. "It'll take everything in you that isn't the knee. I had my hands on you at a mill for the better part of an hour, and I know how much there is. You're not young, and you've walked the country on a stick. When it goes up, you'll drain like a keg with the bung out; and when it comes down, you'll not get up. I can't give that back. It's not a hole in you. It's a spending." She let go of the leg. "The month stands as I counted it. Twenty-seven."
+
+"I am obliged to you. It shall be as you say."
+
+Teague had said nothing through the whole of it. He spoke now, to the charcoal.
+
+"I didn't ask it."
+
+"No," said Vastin. "I observed that you did not. It is the reason why I was able to offer."
+
+Nobody put it to hands, since it had not been that kind of question. A man had asked leave of the one person who could give it, and had been given it at a price, in front of everybody; and a captain who had built a count upon that wall, and had kept his mouth shut about it for nine days, bent down stiffly and picked up his own pack with his left hand.
+
+---
+
+"Tell mine what it is to be under one," said Teague. "You've stood by his twice, and I've stood by none."
+
+He had said nearly the same on a shelf by a fence, two days before, and Cael had answered him in two words. This wanted more.
+
+His own had come up to the drawing. The tall man stood with his spear grounded, and the broad one leaned on a trestle's leg. The lean old woman had come as well, who was on nobody's count; and the boy was at the front, with his fists shut, looking at a stroke of charcoal as if it might be taken away.
+
+"It doesn't go anywhere," said Cael. "That's the first thing, and it's the one that I got wrong. It won't follow you. He can't lift a foot while it's up; today he'll not be able to shift where he sits. It has a side that things break on, and a side that people live on; and the edge between the two is no thicker than that line." He touched the stroke. "A stride past the edge, and it's nothing to you. It might as well be in another country. That's all the craft there is in it, for anybody who isn't him."
+
+He looked at a captain and his three, and at an old woman, and he gave them the doctrine in the form that he gave anything which had to be kept.
+
+"Behind it. Noted?"
+
+"Noted," said Teague's boy.
+
+It was out of him before any of the others had drawn breath. He nodded as he said it, with the whole of his head, as a horse nods; and the broad man beside him made a sound in his throat that might have been a laugh on another morning.
+
+Then the tall man spoke.
+
+"And then?"
+
+It was a deep voice, and unhurried, and Cael had never heard it. He had lost to that man's pole for the whole of a cold term. He had kept the other side of a captain from him at two timbers, and had watched his hand lie upon a boy's breastbone like a gatepost; and in all of that, across a cold term and a road, he had not had one word from him. Lira's chin had come up. Brom had stopped with a strap half buckled.
+
+The long quiet face was turned to Cael, and it waited.
+
+He could have drawn something. He had a burnt stick in his fingers, and five people looking at him who had begun to think, somewhere on a road, that a boy with a book generally had the next line; and he found that this was the very reason why he could not hand them one that he had not got.
+
+"Then I don't know," he said.
+
+He made himself go on.
+
+"I've drawn as far as the wall. When it's up, and the first heap's come down on it, there are still three bows on a shelf. There's a second heap, and a stair ninety strides off that goes under both. I've no *and then*. I'd be telling you a tale if I drew one."
+
+The tall man looked at him for a breath longer. Then he nodded, by the width of a finger, and turned his eyes to his captain.
+
+"I'll say when I've seen it," said Teague. "That's the trade. Nobody gets the second half of a field until he's standing in the first." He looked round the ring of them. "A wall buys time. It never bought a man anything else, and I'll not pretend that this one will."
+
+He gave his orders, and they were short: they would go in at the mouth in a knot, along the bank's foot, and not in file. The big one would walk the old man to his place and set him down. The healers would keep the middle, as deep under the thing as it would stand over their heads.
+
+"Girl. You're at the low end, with him. If one of theirs comes down that bank to get at the foot of it, he's yours. Nothing reaches the old man while it's up."
+
+"I've done that once," said Lira. "In a stair."
+
+"And the one with the hide sits by him, out of the road. Mine are at the high end, with me." He glanced once to his left. "You're where you were."
+
+"The beast stays out," he said, after that.
+
+"My boxes are on her," said Karis.
+
+"Then they stay out with her. I'll not have a thing that kicks under a roof that I can't see."
+
+"There are nine sheets in the middle box which I drew two days ago in a ravine. They exist nowhere else."
+
+"She'll stand," said Brom. "There's a nook by the mouth, he says, out of anything's road. I'll hobble her in it myself. She stood a whole cold term in a shed with nothing to look at but a rope."
+
+Karis considered a brown mule for the space of a breath. Then she took the courier's flat out from under the lashings, and slung it on her own back with the hide, and felt in her coat for the notebook.
+
+"I am carrying what I could not bear to lose," she said. "I find that it is very nearly all of it."
+
+---
+
+They walked the four miles in file, and nobody spoke, since it was a road.
+
+Cael went at a captain's shoulder, a stride back. In front of them the tall man's spear stood up against the east, and beyond the spear a small grey shape went from step to step of the shale with its hands empty. Behind him he could hear the whole of the rest: the pannier, and the hooves, and three pieces of wood going down, none of them upon the same beat. There was the ash, and the old woman's staff, and a trestle's leg at the tail with a grunt in it; and he thought that a stranger with his eyes shut would have taken the twelve of them for a house for the sick that had got up and walked.
+
+The notch grew as they came. It had stood on the skyline for two days as a square bite out of a ridge, and now it had walls. He could see the dark of them, and a paler tongue of stones that came out between and spread upon the shale like spilt meal. The ridge ran away from it north and south as far as he could see, a long brown wall with its head in the sun, and in all that length there was the one door.
+
+The thing along him had found it from half a mile.
+
+It did not ask, since it never had; it only went on taking account of whatever stood braced in front of him, and there was more rock in that ridge than it had ever been offered. The old three ribs had begun to speak, low on the left. He walked on them, and thought of a man with an arm on a slat, a stride ahead, who had not been told.
+
+Teague's hand went up flat a mile short of the gap, in the lee of a step, and eleven people stood.
+
+It was the last water that they would drink on that side, and the skins went along the file from hand to hand. Brom was looking at the lashings on a mule, and the lean old woman at a captain's linen. Teague's boy had come across the yard of stone that lay between the two crews, as he had come once before, with nothing in his hand this time.
+
+"If it goes up," he said to Lira. "And I'm under it. Is it like the other? Like your stair in the dark?"
+
+"No. Yours stays where it is. That thing takes nothing off anybody; it only stands there."
+
+"Then what's hard in it?"
+
+"Staying."
+
+She looked him over, from the collar to the boots, as she looked at a person on the other side of a square of pegs.
+
+"You're quick. I told you so in a yard. Quick's a fine thing when there's a pole coming. Under one of his, the whole of the trick is that you go nowhere, whatever you see. I stood under it in a stair with a knife in my hand, and I wanted to go six times."
+
+"Did you?"
+
+"Once. I went over a landing. I'd been told that I might."
+
+He chewed on that.
+
+"I'll stay," he said. "I said *noted*."
+
+"You did. I should think that they heard you at the mill."
+
+He went the colour of a brick, and grinned, which Cael had not seen him do. There was a cloth folded through his belt. It was the one that he wrung out for a wrist on every cold night, and he wore it as another boy might have worn a knife.
+
+He had wanted for the whole of a road to be something besides the cloth. He had said a figure aloud as he stepped over a bar of iron, so that nobody should forget that he was on the count; and Cael, who had spent a great many nights of his own putting figures into a book for much the same reason, had not found it in him to smile.
+
+"Where'll you be?" he said.
+
+"At the back, with the old man."
+
+"Oh," said the boy.
+
+It was a small sound. Cael heard it, and thought nothing of it, and remembered it afterward for a long while.
+
+The boy went back to his own, where the broad man had his crossbow out of its cover and was turning it over in his hands. Somebody had bound the split stock in the night with a wet thong, turn upon turn, and the thong had dried as hard as horn. Cael did not need to be told whose big chapped fingers had done it.
+
+"It'll loose twice," said the bow, to his captain. "I'd not ask it for three."
+
+Then two fingers came up, and they went on.
+
+The healer walked in the middle, with the mule's rope in her fist, as though she had never owned any other road. She was six days past the end of hers that morning. Cael had it in his book, counted from a cairn, and he did not suppose that she had left off counting it.
+
+---
+
+The mouth was eight strides wide, and there was nobody in it.
+
+Brom had hobbled the mule in a nook of the rock, fifty yards short, with her nose in a bag of the mill's corn. She had not looked up when they left her.
+
+They went in along the foot of the bank, in a knot, as a captain had ordered it. On the right hand the pool lay under the sheer wall, as flat as a slate, with the sky in it. On the left the shale went up at a pitch that hurt the neck. Cael looked along the top of it. There was a line of rock against the brightening east, and two long low shapes upon the line, and beside the nearer one a dead tree, quite white, with a rope about its trunk.
+
+Nothing moved up there, and nobody called to them.
+
+At the Span a man had hung a light in the air and told them to stand. He understood from that silence, better than from anything that Seln had counted, that these had not been posted to ask.
+
+"This is the place," said Vastin.
+
+He had stopped a yard inside the mouth, where a stroke of charcoal had said. He stood for a breath with both hands on the ash and looked at the stones of a dry bed.
+
+"I once told a man on a road that I should prefer not to be helped to sit," he said. "I find that I must be. I should be obliged if it were done quickly."
+
+Brom was behind him already.
+
+He put his two arms under the old man's, from the back, as he would have taken up a full churn. He bent his knees, and let that weight down toward the stones a hand at a time, with the stiff leg sliding out before it; and it was while his back was bent, and both his hands were full, that the first flight came.
+
+Cael heard the strings: three of them, close together, like a stick drawn along a paling.
+
+One bolt went into the stones a yard from Karis's boot. One struck the southern wall and sang off it. The third went through the flesh of Brom's left forearm, a hand below the elbow, where a bruise from another shelf was still going green. It stood there, with its feathers on the one side of the arm and its head on the other.
+
+He had not been grey, and he could not have been. A man cannot go to stone and set another down gently in the same breath; and Brom had been offered that choice in a stream-bed, with three bows bent on him, and had made it without so much as lifting his head to see what it would cost.
+
+He grunted, and he did not let go. He lowered the old man the last hand's breadth, until he sat square on the bed with his back straight, and only then did he stand up and look at what was in his arm.
+
+"That's one," he said.
+
+The slate came up his neck as he said it, too late for that one.
+
+*One*, Cael began, since a bow takes something over twenty to bend.
+
+The old man had not looked round. He sat in a stream-bed as he would have sat a bench, upright, with the bound leg laid out before him like a thing left on a table. He shifted the ash to his right hand. He reached it out behind his own hip, without turning his head, and found a place for its foot among the stones.
+
+Then he brought it down.
+
+There was no sound that Cael could have named. A line of dust stood up out of the bed, from the foot of the sheer wall to the foot of the bank, as straight as a cord that a joiner has snapped; and it ran through the stick, and behind an old man's back, across the whole of the mouth.
+
+The air did not stand up from it, as it had in a cut. It leaned.
+
+He felt it go over him. It went up from that line and forward, above their heads, eastward, like the lid of a great chest being let down; and where its far corner met the bank, twenty-five strides on and three times the height of a man, a little shale ran, and stopped.
+
+In him a post asked its two words of the mouth, as it asked them of any line, and he told it no.
+
+*Nineteen. Twenty.*
+
+The second flight struck while he was still looking up.
+
+There were three small flat knocks over their heads, where there was nothing, and three puffs of dust hung there. The pieces came sliding down the air toward the mouth, rattling like dice on a board, and dropped off its edge behind the old man's back.
+
+Then he could see it, since the dust had shown him where to look. It was a roof, and it had no thickness at all. It began at the stones behind a brown coat, and rose away over eleven people to a high edge against the hill, with the morning coming in under that edge like light under a barn door.
+
+"It is up," said Vastin.
+
+His voice was quite level, though his face had gone the colour of the stones that he sat on.
+
+"I am informed that it can be done sitting," he said. "I had rather have learned it on some other day."
+
+On the shelf, forty feet above them, three bows were being bent again.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-55.md
+
+# Chapter 55 — A Stride Outside
+
+The third flight was not meant for the roof.
+
+It came at the count of twenty-three, and all three bolts went to the one place: low down, by the mouth, at an old man who sat on the stones with his back to them. Cael heard them strike. They broke a yard above the grey head, where the lean of the thing was lowest, and the pieces skittered off behind.
+
+Vastin's shoulders moved, once, as a post moves under a mallet. Nothing else of him did.
+
+"They have learned what it is," said Seln.
+
+He was at the foot of the bank, with his back against the rock, looking straight up. He had not raised his voice.
+
+"They will not spend another on it. One of them has gone to the frame."
+
+Cael looked where he looked. Under the high edge of the roof there was a strip of shelf to be seen, and the end of a heap, and a dead white tree. Beside the tree a hood was standing with something long across his shoulder.
+
+"Then we'll learn what a lean-to's worth," said Teague.
+
+He stood at the wedge's high end with his feet apart, a stride inside the edge, and his three were about him: the tall man on his right hand, with the spear grounded, and the boy behind, and the broad man leaning on his pine. Cael was at his left. It was the only place under that roof where a person could see the shelf at all, and so it was where a captain had put himself.
+
+In the middle, where the lean stood well over their heads, the healer had Brom by the elbow.
+
+"Arm," said Oryn. "May I?"
+
+"Aye."
+
+"I'll not draw it under a hill that's about to come down. I'll take the feathers off, so that you don't catch them on anything, and you'll have the rest out when I can see what I'm doing."
+
+She broke the shaft between her two hands, close to the skin, and Brom looked at the roof while she did it. The lean old woman had a strip of linen round the place before the stub had stopped moving.
+
+*Nineteen*, said the count. *Twenty.*
+
+At the low end a girl crouched by a brown coat with her knife out, watching the bank. Karis sat beyond her on the stones, with the flat on her back, and her bound hand laid on it as on a child.
+
+He heard the maul before he heard the strings.
+
+It was a single dull knock, like a post being driven; and then the three bows went, together, and he never learned where those bolts fell, since the hill had begun to move.
+
+The frame went out from under the heap as a stool goes from under a man. The dead pine leaned over the lip, slowly, with its rope as tight as a bar; and then the stones came, the whole length of a cart of them, pouring over the edge in one grey sheet with the tree turning in the midst of it.
+
+They did not fall alone. The bank took fire from them, as dry grass takes it. From the top to the bottom the loose shale let go, all at once, like a blanket that somebody has dragged off a bed; and the noise of it was not a noise, but a thing that stood in his chest and shook.
+
+It came onto the roof.
+
+He had his head down between his shoulders and his eyes open. He saw the first of it strike, a man's height above the boy's cap. It did not come through. It turned, as water turns on a slate, and went away westward down the lean; and after that there was nothing over them but stone, going by. It went above their hair like a mill-race in flood, a yard off, roaring, and not one pebble of it fell among the twelve. The tree went over roots first, white and clawed, and was gone.
+
+Then the light changed, and the roaring ran down into a rattle, and stopped.
+
+He turned round.
+
+The mouth was shut. Where there had been eight strides of morning, and a pool, there was a heap of broken shale as high as a tall man's head, still smoking; and the dead pine lay along the top of it from wall to wall, like the bar across a door.
+
+Most of it had gone by him. A thing that has come down twenty-five strides of slope does not stop at the foot. The old man sat a yard inside the line that he had drawn, with the dust of a hillside settling on his shoulders, and his back had not bent by the width of a finger. But his mouth was open. Both his hands were shut upon the ash, and they were the colour of the bandages that had once been on them.
+
+It had come down through him like a house. Cael had seen what one hound did to that man, through that wall. He did not know what a hill did.
+
+"I have it," said Vastin.
+
+It was hardly a voice.
+
+"I have perhaps a hundred breaths of it left. I cannot tell you nearer." He drew one, and Cael counted it. "I should be obliged if some use were found for them."
+
+---
+
+It was the bank that Cael looked at then, and not the shelf.
+
+He had been taught to see a thing that was out of its place. The whole of that slope was out of its place. It lay in the mouth behind him, under a tree. What stood where it had been was a slab of grey rock, as bare as a washed slate, going up at a steep pitch from the stones of the bed to the lip of the shelf. There was not a loose plate left on it from end to end of the gap. The first heap's fall had taken the quilt off the table.
+
+Seln was a third of the way up it already.
+
+He had not said a word to anybody. He went as a lizard goes on a wall, flat, on his fingers and the sides of his boots, close in under the roof's high corner, where a man on the shelf would have had to lean out over forty feet of air to see him.
+
+Teague had seen him. The grey eyes went up the slab once, and across to the shelf, and Cael watched a field being done over again in the space of a breath.
+
+"Bow," said Teague.
+
+The broad man was moving before the word was out.
+
+He went on his pine and his boarded shin, with the crossbow under his arm, to the southern corner of the roof's high end, where the sheer wall stood. It took him eight strides, and each of them cost him something. He set his shoulder against the rock there, and leaned the stick on his hip, and brought the lashed stock up.
+
+Cael understood it as the string went.
+
+The hoods had not wasted a fifth flight on the roof. Three shapes were going east along the lip, bent low, toward a place from which the high edge would no longer cover what stood beneath it. They were looking for a way in under. And a man with a split bow and one sound leg had gone out to the very end of the shelter to give them something else to look at, for the length of one flight, since there was a small grey shape on a slab that they must on no account look at instead.
+
+His bolt struck the rock of the lip, a hand below a hood's knee. All three of them went flat.
+
+"It'll loose the once more," said the bow, to his own thong.
+
+He got the stock down between his knees, to bend it again. He could not put a boot in the iron as another man would; he had to sit to it, against the wall, with the bound leg out, and haul. He had the string a hand from the nut when they stood up on the shelf and loosed.
+
+It took him in the right shoulder.
+
+He went over on his side, away from the wall, with the bow under him. His legs were beneath the roof. His head and his arms lay out upon the stones beyond its edge, in the light.
+
+*One*, said the count in Cael, since it knew no better. *Two.*
+
+The man was not dead, or near it. He had got his cheek off the stones. He turned his head, slowly, and looked back under the roof for his own, as anybody who is hurt will look.
+
+Cael saw the eyes go along them. They passed over a captain, who was watching the shelf. They passed over a spear. They came to the boy, and there they stopped, since the boy was the one who was looking at him.
+
+He did not call. He did not lift a finger. There was no order in it, and no asking; it was only the place where a hurt man's eyes had come to rest.
+
+Teague's boy went.
+
+He went as he had gone over a bar of iron beside a fence, a half-beat before he had seen what was there. The tall man was two yards off, on the far side of his captain. Cael saw the big chapped hand come out flat, at the height of a breastbone, and close upon the air.
+
+There was no pair of boots in front of the boy this time. They were twenty strides behind him, at the low end, with an old man.
+
+*Seven. Eight.*
+
+He was out. He was a stride beyond the edge, in the sun, with both his hands under the broad man's arms and his heels dug into the loose stones, hauling. He was all wrists. He had moved that weight the half of a pace.
+
+"Leave me!" said the bow. It was the only thing that Cael had ever heard him shout.
+
+*Twenty*, said the count. Cael opened his mouth.
+
+He heard it arrive.
+
+The boy sat down. He did it all at once, as he had sat down in the corner of a hut two days before, when everything that could be asked of him had been done; and it was the same sitting down, like a felled thing, with his back against nothing. Then he lay over on his side.
+
+He did not get up from it. Cael knew that before anybody had moved, by the way that the hands lay.
+
+---
+
+It was the broad man who brought him in.
+
+He did it with the one arm that he had, lying on his face, with a bolt in his shoulder and a shin on a board. He got his fist into the collar of that coat and dragged, and dragged again, until he had brought the boy back the single stride that the boy had gone out for him. Then he lay still, with his fist where it was.
+
+The healer was there. She had come up the wedge at a run, which Cael had never seen her do, and she went down on the stones at the boy's head.
+
+"May I?" said Oryn.
+
+It was the form, and she kept it. The boy could not give her a word. Cael had heard that woman refuse to go into a broken shin upon a nod; and he saw her wait, for the length of one breath, for an answer that was not coming. Then she put her hands on a person without it. He did not think that she had ever done so before.
+
+One broad hand went under the neck, and one came down flat on the breast. Her eyes shut. Her lips moved.
+
+They stopped sooner than he had ever seen them stop.
+
+She took her hands away. She held them a little off the coat, with the fingers open, and looked at them. A healer shut what was open, and knit what was broken; she had said above a weir that she mended what was brought to her. Nothing had been put in front of her. It had gone before her hands came down.
+
+The lean old woman stood over them with her board under her arm, and there was nothing for her to bind.
+
+The broad man said a word.
+
+It was the boy's name. Cael had walked a road behind that boy, and eaten at one fire with him the night before. He had seen him blush, and grin, and nod like a horse; and he had never once heard what he was called, since that crew did not use its names where the six could hear, and he had not thought to wonder. He heard it now, in a stream-bed. It was said quite low, as a man speaks across a yard at dusk to somebody who ought to come in.
+
+Nobody said it a second time.
+
+Cael looked back down the wedge, since he could not look any longer at what was in front of him.
+
+An old man sat at the foot of his own roof with his face toward them. He had seen every part of it, down the whole length of the thing that he was holding up; a man who is the foot of a wall has nowhere else to turn his eyes. He could not get up. He could not have crawled. The plane that he had raised could not be shifted one stride eastward by any power that he owned, since it stood where it had been drawn, as it always had. That was the nature of it, and he had known it for as long as he had held the thing.
+
+The hands on the ash had been white before. They were whiter now.
+
+Teague had turned his head.
+
+Cael marked it. He had seen that man hear one of his own go off a ledge, two days before, and keep his eyes where they were. He looked now, for the length of one breath, at what lay under the high edge of the roof. Something went out of the heavy face then which Cael did not see come back that day. Then the eyes went up to the shelf, and along it, to the stair.
+
+"There's your *and then*," said Teague.
+
+A hood was walking east along the lip with a maul on his shoulder. He went past the three with the bows, who were bent over their strings, and came to the second heap, and knelt down by the foot of its frame. He did not strike. He waited there, looking down at the bed.
+
+"He's keeping that for whoever goes for the stair," Cael said.
+
+"He is. And the quiet one's over that lip inside a flight, behind three bows with nothing on the string. That's the only time there'll ever be to go." The left hand had gone to the axe in his belt. "It's five and thirty strides to that heap, and I've to pass under it."
+
+The thing along Cael had been at that frame since the dust cleared. It had found grey timber on a ledge of rock, and it had not looked at anything since.
+
+"I'll see to the frame," he said.
+
+Teague's eyes came round to him.
+
+"With what?"
+
+"With something that nobody'll hear. I can't tell you more; it's not mine alone to tell." He found that his voice was steady. "You said that you'd say when you'd seen it. I've seen my piece. I'm up that slab when you're by it."
+
+"You asked me for nobody declaring."
+
+"Nobody'll have anything to carry to a boat."
+
+The captain looked at him for a breath, as he had once looked along a row of iron.
+
+"I'll not wait on you," he said.
+
+Brom had come up the wedge. There was a hand of broken bolt standing out of his left forearm, with linen round it, and he was the colour of slate to the hair. He looked once at what lay at the roof's edge. He did not say anything. He walked out past it, into the open mouth of the shelter, and turned his face up to the shelf, and stood there like a door that has been shut.
+
+The seventh flight was loosed at him.
+
+Cael heard two of them knock, and the third sing off the edge of the roof.
+
+"That's three," said Brom.
+
+Above him, in that same breath, a small grey shape came up over the lip of the shelf behind three empty bows.
+
+"Now," said Teague.
+
+---
+
+They went out of the shelter together, and it was the second time in three days that he had gone at a captain's shoulder toward people with bows.
+
+*One. Two.*
+
+He did not keep the shoulder. A heavy man does not go fast over loose stones with one arm lashed across his breast, and the tall man would not leave that man's side; they went at a hard jog, with the ash held low between them. Cael ran. The stones turned under his boots, and up on the shelf somebody shouted, and it was not a word.
+
+*Eight.*
+
+He was under the second heap with the two of them a dozen strides behind him, and he went at the slab.
+
+It was steeper than it had looked from under the roof. He went up it on his fingers and the edges of his soles, as he had seen it done, and the bruise on his collar-bone told him at every reach what a stave weighs. There was a held breath in the soles of his feet that would have set him upon that shelf in one stride, with a crack to it that every hood on the ridge must have heard. He kept it where it was. He went up as anybody would have had to.
+
+*Nineteen. Twenty.*
+
+He got his elbows over the lip.
+
+The frame was a yard from his face. It was two uprights and a cross-piece of squared timber, grey with weather, and a long prop running down aslant from the cross-piece to a notch in the rock; and behind it the heap stood chest-high, of stones no bigger than loaves, as long as a cart. There was a wedge under the prop's foot.
+
+The wedge was half out.
+
+The hood had struck once, as two men came into the bed below him. Cael saw the whole frame shift upon that blow, a finger's breadth, and heard the heap speak, as a load of gravel speaks before it runs. The man had the maul up for the second. Then he saw a boy's head and shoulders come up over the lip at his elbow.
+
+He did what anybody would have done beside a thing that was going. He let the maul fall, and jumped back from it, flat against the inner wall.
+
+Cael got his knees onto the shelf.
+
+It was moving. It was a thing moving which ought to be stopped; a captain had taught him the name for that on a ridge, with his arm in linen. The top of the heap had begun to lean out over the lip. Beneath that lip, on the bed, there were two men with their heads down, running.
+
+He could not hold a cartload of stone, and nobody could. But a thing had been said across a boy's head in a meadow, to a carter who wanted a second cart shifted; and he had lined himself against a slab on the shale, the evening before, and had learned where his own hip was.
+
+He set his right heel in a crack of the shelf.
+
+He laid his right palm flat upon the frame's western upright, with the fingers spread. The timber was dry and rough, and it was trembling.
+
+The line came more quickly than it had behind a step of shale. Perhaps the thing found it for him. The knee went in over the heel, and the shoulder turned and went down; and he was standing in one straight road, from a crack in a ledge to a hand on a post, with every joint in its place.
+
+He looked along it before he did anything else.
+
+It ran eastward, down the length of the shelf. Beyond the heap the rock widened into a hollow of the back wall. There was a fire in the hollow, and a kettle, and nine heaps of bedding. There was nobody. The hood with the maul was on his left hand, flat to the rock, to one side of that road; and nothing of this kind went to either side.
+
+It wanted one word of him, and it had waited two days for it.
+
+*Yes.*
+
+There was no light in it, and there was no sound but the stone's.
+
+The frame went, with everything behind it. It did not fall outward, as it had been built to fall. It was put. The uprights, and the prop, and the cartload of loaves went together along the shelf, a body's length, as a drawer goes home into a chest; and they stopped dead in the mouth of the hollow, and came apart there against the back wall, as a load comes apart when the cart stops short. The fire went out under them. A handful of grit ran off the lip, and fell on the bed where two men had passed.
+
+Not one stone of it went over.
+
+Then it came back.
+
+He had watched it come back along a captain's arm, twice. It came up his own like a pole that has been struck on its end, from the palm to the elbow and through the shoulder; and it did not go down to any heel. It had never been going to reach so far. It stopped low on the left, in three old places at once, like a foot going through a cracked board.
+
+He did not hear the sound that he made. He was on his knees on the shelf, with his forehead against the rock, and there was no air to be had anywhere.
+
+---
+
+It was some little time before he could lift his head.
+
+When he did, he could see the whole length of the shelf, and he counted it, since counting was a thing that he could do without breath.
+
+To the west there were three hoods and a small grey man. One of the three had his arms bound to his sides by a thin cord with a pear of lead on the end of it. One had let his bow fall, and was looking at it. The third had backed against the rock with his hands open. Nobody had a string bent. Seln stood among them with a short knife held low, at his own pace, and he had not touched any of them with it.
+
+To the east a hand had come over the top of the stair.
+
+It was a left hand. Teague came up after it, a step at a time, hauling, with the right arm carried on its slat against his breast like something in a sling. He had the axe in his belt still, and had not drawn it. He got one knee onto the shelf, and stood.
+
+The tall man came up behind him.
+
+He had reversed his spear. Cael saw that before he saw the long quiet face. The leaf of steel was behind him, pointing at the stones of the stair, and it was the butt of the ash that he carried foremost: seven feet of pole, blunt end first, as he had carried it in a square of pegs under a tree, where a touch was only a touch.
+
+He had seen a boy sit down in a stream-bed. He had put out a hand for that boy, and it had closed on nothing. And he had come up a stair to the people who did it with the harmless end of the only weapon that he owned.
+
+There were nine of them. Cael had the count at last, with the three by the bows, and the one against the wall, and five more who had come out of the rocks beyond the hollow with staves.
+
+They looked at the hollow. The thing that they had built to hold a pass lay in it, in a heap, on their own blankets. They looked at a small man standing among their bows, and at a captain on their shelf, and a spear.
+
+Somebody whistled, two low notes.
+
+He knew those notes. He had heard them in a stepped cut under a town.
+
+They went. The cleft was at the shelf's eastern end, a few strides from the stair's head, and to reach it they had to pass the two men who stood there. Nobody barred them. The first hood came on with a stave half raised, and saw which end of an ash pole was toward him, and went by it at the length of an arm and up into the rock. The others followed, one behind another, quickly, and not one turned to look. The three from the west had to pass a boy who knelt on their shelf with his arms round his own ribs. They went by him at the length of a stave, and nobody lifted a hand.
+
+The tall man could have put steel into any of nine backs. His hands had gone white upon the ash.
+
+When the last of them was by, he lifted the pole's butt a hand from the rock, and grounded it, once.
+
+Cael had seen him do that in a yard, a whole cold term ago. It was how that man marked a touch that had been taken.
+
+Seln had let the cord fall from a pair of arms himself, and stood back; and that one went last, rubbing his wrists. At the cleft he turned his hood toward the shelf for the space of a breath. There was nothing in it. There never had been.
+
+Teague stood at the foot of the cleft with his hand on the head of an axe, and watched nine people go up to the ridge and along it toward the east.
+
+He did not follow them by a step. *Nobody dies*, a boy with a book had asked of his field, behind a brow, when it had cost nothing to ask; and a captain had answered with one word. He was keeping that word on a ledge, with one of his own lying forty feet beneath him. Cael did not think that he would see a harder thing kept if he lived to be as old as the man on the stick.
+
+None was taken. Nobody had seen a face.
+
+Seln came to the lip, and called one word down into the bed.
+
+"Nine."
+
+It was the first time that Cael had ever heard that man raise his voice.
+
+Seln had taken the high ground from that team by going up the one slope which its own rig had swept bare for him; and an old man sitting in a stream-bed had bought him the time to climb it.
+
+The captain came along the shelf.
+
+He stopped at the hollow. He looked at the heap that lay in it, and at a wedge half drawn from a notch on the lip, where nothing stood any longer; and then he looked at a boy on his knees who was holding his left side with both arms.
+
+He had not seen it go. He had been upon a stair, with his face to the rock. He saw a heap where there had been a rig, and he saw that somebody had paid for it; and a man who has settled every account of his life out of the one wrist knows the look of a bill, whatever he does not know of the goods.
+
+He did not ask.
+
+"Can you get down?"
+
+"Yes."
+
+"Then get down. I've one to see to."
+
+---
+
+Seln took him down the stair, with a shoulder under his right arm, and said nothing the whole way.
+
+They were coming out from under the roof by its high end when he reached the bed. A captain had ordered it from the shelf, in three words. The lean old woman had the broad man sitting against the southern wall, in the sun, and the healer was on her heels beside him.
+
+"Shoulder," Cael heard her say. "May I?"
+
+"Aye."
+
+There was a blanket over what lay at the roof's edge. He did not know who had laid it.
+
+At the low end only three were left. The girl stood up from beside the brown coat, and she spoke to its owner as Cael had once spoken to him on a frozen road.
+
+"They've gone. Up over the ridge, all nine. Seln counted them. You can leave off."
+
+"You are certain."
+
+"He counted."
+
+Vastin shut his eyes.
+
+The dust that had been lying upon nothing came down. It fell the whole length of the wedge at once, in one soft grey sheet, like flour through a sieve, and lay along the stones of the bed in the shape of a roof. Above it there was the sky, and a shelf with nobody on it.
+
+He did not bend over his stick, as he had in a cut. There were no feet under him to stand on. He went over sideways, quite slowly, like a sack that has been stood on end, and lay upon the stones with his cheek on his arm. The bound leg was laid out straight before him still, where a healer had told him to put it.
+
+Karis had sat down by him before the dust had settled.
+
+She did it on the bare bed, with the flat on her back, and she put out her left hand, in its linen, and laid it on his shoulder. She did not say anything, and she did not take it away.
+
+Cael went up the bed, since there was a thing at its other end that he had to stand by.
+
+Teague had come down. He stood for a breath beside the blanket. Then he knelt, in one piece, as he did everything, and laid his left hand flat upon it.
+
+Cael stopped a stride behind his left shoulder. It was where he had been put, and he did not know where else a person stood.
+
+"A wall keeps everyone behind it, and one of mine wasn't."
+
+He had not turned his head. But Cael knew to whom it was said, since he had given four people a doctrine in two words that morning, and had been answered by one of them.
+
+There was no blame in it. He looked for the blame, because he could have carried that. It was a captain setting down a sum, as he set down a piece of ground: what a thing did, and what it did not do, and where his own had been standing. It was the second lesson about a wall which Cael had been given by a man who had paid for it. It was a good deal worse than the first.
+
+They carried the blanket out by the eastern mouth, the tall man and Brom, with one good arm apiece.
+
+Cael walked behind it, holding his side. The gap opened in front of him, and the walls fell away on either hand; and he came out upon a lip of rock with the whole of the east below.
+
+It went down from his boots in broad shallow steps, and then it left off stepping. There was a plain. It was pale, and very wide, and it had a low light lying on it; and there was not a tree in it anywhere, or a roof, or the smoke of a fire.
+
+A small pale woman had ruled a line once, on a calfskin, along a strip of brass. He had walked along it since a table in a healer's yard. He had thought of it, on every one of those days, as a thing made with a pencil.
+
+He looked back. Four people were setting a blanket down on a flat of rock, in the mouth of a gap.
+
+[[TIER-B: the far-mouth realization — the plan gives it only in summary (at the far mouth Cael understands something about what the line had been drawn in), with the fragment "was not ink" fixed. Staged here: he has come out by the eastern mouth behind the blanket and stands on the lip above the plain; the three paragraphs above bring him to the pencil line and then to the blanket being set down behind him, and stop. I have not written the realization in other words. It closes the chapter — coordinator to supply protected text]]
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-56.md
+
+# Chapter 56 — Eleven
+
+They buried him at the eastern mouth, on a flat of rock above the dry bed, where a person lying down would have had the whole plain in front of him.
+
+It was Teague's crew that did it, and they did it in an order. Nobody gave the order aloud. Cael stood off with the rest of the six, on the bed, and watched three people go about a thing that they had plainly done before for somebody else; and he understood that no part of it was his to offer.
+
+The lean old woman was first. She knelt by the blanket with a skin of water, and turned back one fold of it, and drew the cloth out of the boy's belt.
+
+It was the one that he had wrung out for a wrist on every cold night since he joined them. She wet it. She washed the face with it, slowly, as she bound a shin, without once looking at her own fingers; and when she had done she folded it small and put it into his two hands, and laid the blanket over.
+
+The tall man had been gathering all that while. He had brought flat stones up out of the bed, one at a time, and set them edge to edge upon the rock in a shape as long as a person. He lifted the blanket onto it by himself. Cael had not known until then how slight a boy could be who was all wrists and collar.
+
+Then the broad man came, on his stick.
+
+He had a shoulder bound across his chest, and a shin on a board, and he could not stoop. He stood over the place for a while. The tall man put a stone into his left hand, a round one, the size of a loaf; and the bow went down on his one sound knee, which took him a long time, and set it at the feet.
+
+That was the first stone, and it was set by the man for whom the boy had gone out.
+
+Brom had been watching it with his jaw shut. His own left forearm was wound in linen for the whole of its length, and the bolt was out of it; a healer had seen to that under the southern wall, when she had finished with a shoulder. He went up onto the flat, heavily, and stopped a yard from a captain.
+
+"There's a good deal of stone in that bed," he said. "We'd carry it. If you'd have it carried."
+
+Teague looked at him, and past him, at four people standing on the stones and an old man who lay on them.
+
+"Carry," he said.
+
+So the six carried, all but the one who could not, and they laid nothing.
+
+It was the only thing that they had been given leave to do, and they did it for the better part of an hour. Brom took two at a time in the crook of his right arm. Lira went farthest down the bed, where the big ones lay, and Seln brought small flat ones that would lock. Karis carried them one by one against her chest, since she was not to lean on a hand; and every stone that came up was taken at the edge of the flat by the tall man or the old woman, and set by them, and by nobody else.
+
+Cael carried with his right arm.
+
+Each stone was a line drawn low across his left side, from front to back, and he found that he could not draw a whole breath under it. He had not told a healer. She sat against the southern wall with her head on her knees, the colour of old ash, as she had sat in a ravine; and he thought that he had earned the walk up that bed a good many times over, and went down it again.
+
+The old man could not carry.
+
+A healer had told him that he would not get up, and for an hour he had not. Then he had asked it of Karis; and she had got him onto his feet, with her shoulder under his arm and the stick in his other hand. He stood now at the edge of the flat with the most of his weight upon her, as upright as he had stood at a post in a mill yard. Nobody had told him to stand at this.
+
+"He was a stride from it," said Vastin.
+
+He said it very low, to nobody. It was Karis who answered him.
+
+"You could not have moved it."
+
+"No. I could not. That is the nature of the thing." He was looking at the cairn. "I have known what it would not do for the whole of my service. I have never before been made to watch what that costs somebody else."
+
+She did not tell him that he was not to blame. Cael marked that she did not, and thought the better of her for it. She stood at his elbow with a stone held against her coat, and waited until the tall man came and took it.
+
+Teague set the last.
+
+He had stood by the whole time with his right arm on its slat, and had not carried, since he could not. When the heap was as high as a man's hip he took the stone that the old woman held out to him, left-handed, and laid it upon the top, and pressed it down until it sat.
+
+Nobody had said the name. It had been said once, in a stream-bed, and that seemed to be all the saying that it was to have.
+
+Teague straightened. He looked at his own, as he had looked at them on the lip of a ravine: at the tall man, with dust to the elbows, and the broad man on his stick, and the old woman, who was on nobody's count. Cael saw his lips shape the beginning of a figure.
+
+He shut his mouth on it.
+
+"We'll lie here," he said. "Out of that gap, on the open rock, where I can see what's coming."
+
+"There is a mule on the far side of the heap," said Seln. "She has three boxes on her."
+
+"I'll go," said Lira.
+
+She had said it before he had finished. She was looking at the ridge, and she did not look at anybody else.
+
+---
+
+Seln took her by the team's own road, since there was no other that a mule could come back by.
+
+It went up the stair, and through the cleft at the shelf's end, and out upon the back of the ridge. He climbed it without haste. He had gone up the other way that morning, on his fingers, over rock that had been a quilt of loose stone an hour before; and he found that he did not wish to hurry over anything for the rest of that day.
+
+He had been through the hollow first, alone, while the stone was being carried.
+
+It had told him what such places generally told him. There were nine heaps of bedding under the spilled heap, and the place for a tenth, swept and never lain on. There was a kettle. There were two bundles of bolts, with never a thread of colour upon a feather, and a second maul. He had turned over every blanket that he could reach, and there was not a scrap of paper in the whole of it, or a mark burned into a stave, or a name scratched on a spoon.
+
+The timber of the frames was grey right through the checks. He had put his thumbnail into one. It had stood in that weather for two cold terms, and he would have laid a month's pay upon three.
+
+So it had been built for whoever came. He had said the same of some iron, at a fence, and he had been right there by a good deal more than he knew.
+
+But there was a thing that had not been the same. At the fence a man had hung a light in the air and called to them to stand and declare. In the gap nobody had called. Three bows had loosed on a big man who was setting an old one down, without a word, at twenty strides.
+
+He set the two side by side, as he would have set two returns from one office. He did not go past what they said. At the fence they had been told to hold a place, and to see what came to it. Here somebody had been told to stop a crew. And between the one order and the other, seven people had walked east for a day with what they had seen across a row of bars.
+
+That was a finding. He would give it as one, tonight, and say that it was no more.
+
+The path ran along the ridge's back, a pace wide, trodden to the rock. It swung out presently to the southern edge, above the gap, and the girl stopped there.
+
+He came up beside her and looked down.
+
+He had not seen it from above. The slab lay under them like the side of a roof, grey and clean, with the sun on it. He could see the place where he had gone up. It had seemed a long way at the time, and it was nothing: forty feet of bare rock that a child might have managed. He could see the shelf, and a notch on its lip where a wedge had been.
+
+Beneath it the mouth was stopped. The heap filled it from wall to wall, and the dead pine lay along the top, quite white, with its roots in the air. On the near side of the heap, upon the stones of the bed, there was a long pale shape drawn in dust. It was broad at one end and came to nothing at the other.
+
+At its narrow end there was a mark where a man had been sitting.
+
+"He asked me where I'd be," said Lira.
+
+She had not turned her head. She stood with her arms hanging, looking down at the dust.
+
+"Teague's boy. At that halt, before the gap. He'd asked what it was like under one, and I told him. I told him that the whole trick was to stay. Then he asked where I'd be, and I said at the back." She breathed. "He watched my boots, at the fence. When the bow went over that edge. I saw him do it; he looked down at my feet, and he stayed where he was, and I thought, good. That's a thing I can give him. I'll stand where he can see me."
+
+Seln said nothing. He had learned in a long service that there is a kind of return which must be let run to its foot.
+
+"I was twenty strides behind him, with a knife out, minding an old man that nobody ever came near."
+
+"You were put there by the person whose field it was," said Seln.
+
+He said it once, and mildly, as he said anything.
+
+"You were set to keep the one thing which was keeping eleven people alive, and it was kept. I do not tell you so to ease you. It will not. I tell you because it is the entry. You will wish to alter it tonight, and tomorrow night, and it will still be the entry."
+
+She was silent for a little.
+
+"Is that what you do with yours?"
+
+"I have gone over mine three times since noon," he said.
+
+It was true, and he had not meant to say it.
+
+---
+
+He gave it to her as they walked, since she had asked, and since he had found that a sum which will not lie down is sometimes quieter for being said to another person.
+
+"A boy was killed by the sixth flight. I went over the lip as the seventh was loosed. There is one flight between the two, and I have asked myself where I lost it." He kept his eyes on the path. "Before the fourth there was no slab. There was a bank that would not have borne a cat. From the foot of the bare rock to the lip took me three flights, at the pace that a man goes who must not be seen. I have made it that each time. It does not come out as two."
+
+"So there wasn't one to lose."
+
+"There was not. I marked that. I marked also that I have done the sum three times, which I do not ordinarily do with one that has come out."
+
+The girl looked at him sideways, and for the first time since a stream-bed something in her face eased by the width of a hair.
+
+"You're as bad as he is," she said. "With his book."
+
+"I have read his book. I have sometimes thought that he keeps it for much the same reason."
+
+They went on. The ridge was bare, and the wind came over it out of the west, and behind them the plain lay under the afternoon like a floor that nobody had walked on. He did not look round at it yet. He had the habit of taking one thing at a time, and the thing before him was a mule.
+
+There was another matter that he turned over as he went, and he did not give that one to the girl.
+
+He had stood on a shelf that morning with a man's two arms bound in his cord, and a knife in his own hand. The man had been a foot from him. There had been a cloth over the lower part of a face, tied behind, with a knot that Seln could have named. He had wanted a face from those people since a rim above a stair. He had broken a crossbow on a stone for want of one.
+
+He had not lifted the cloth.
+
+He had seen that he would not, in the instant when he might have. A face would have been a fact, and he valued facts above most things. It would also have been a hand laid upon somebody who had left off fighting; and a boy had asked a captain for something behind a brow, in three short sentences, and the captain had kept it on a ledge with his own dead under him. Seln did not care to be the one of the eleven who had kept it worse.
+
+So they were faceless still. He entered that he had chosen it.
+
+The case lay against his breastbone, under his coat, shut. He had gone up a slab with it there, and over a lip, and had not once thought of it. He marked that as well. It altered nothing.
+
+The path came down off the ridge half a mile north of the gap, by a long slant in the hill's western side, and they walked back along the foot to the nook.
+
+She was where the big one had left her.
+
+She stood on three legs, with the fourth hoof tipped, and her nose in a bag that had been empty for some hours. The three boxes were on her back, and the sack of meal, and a healer's pannier. Not a lashing had shifted. She was asleep.
+
+The girl stopped in front of her.
+
+Twelve had gone into that gap with the sun behind them. There had been three bows, and a hill coming down, and a wall made out of nothing; a boy had been killed, and nine people had gone away over a ridge. And fifty yards off, round a corner of rock, a brown mule had eaten her corn to the last grain and gone to sleep.
+
+"She doesn't know," said Lira.
+
+"She never does. I have thought before now that it is the reason why she is the easiest of us to be near."
+
+The mule opened one eye, and found that there was no corn in it, and shut it again.
+
+Lira put her forehead down against the brown neck, and stood so. He turned his back and looked at the heap in the mouth, where a pool had been, for as long as it was wanted.
+
+They brought her over by the path.
+
+She went up the slant well enough, and along the back of the ridge, with the girl at her head; and she came down through the cleft and the stair as she had once come down a notch above a mill, sideways, with her ears back, complaining. The sun was nearly under the hills behind them when they came out of the eastern mouth.
+
+He looked at the plain then, since there was time for it.
+
+It had gone grey from edge to edge. A long way out upon it, lower than the rest, there was something that had not. It lay there small and pale, holding the last of the day after everything round it had let go.
+
+He looked at it for some time, and ruled nothing.
+
+There was a fire on the open rock below the mouth, and a heap of stones beyond it as high as a man's hip. He counted the fire as he came down to it, since he had counted every fire that he ever walked up to.
+
+It came to eleven, and a mule, which he had by the rope.
+
+---
+
+Brom laid seven bowls.
+
+He had laid seven the night before, under a step of shale, and a boy on the other side of the fire had laid five. Cael watched him set them down now, on bare rock, with one hand. The big fingers went along the row when it was done, counting.
+
+Then he looked across the yard of stone that lay between the two crews.
+
+Nobody was laying that side. The tall man sat with his forearms on his knees and his hands hanging, and the broad man was propped against a pack with his eyes shut. Teague stood beyond them at the edge of the light, looking east, and the lean old woman was at his arm with her board.
+
+It had been the boy's work. Cael did not suppose that anybody had ever told him to do it.
+
+Brom got up. He went round the fire, heavily, to the place where a sack of turned bowls lay by a stranger's kettle; and he took out four, and set them along the far side, a yard apart, as the boy had set them. Nobody stopped him. The tall man's eyes followed his hand from one to the next.
+
+There was a fifth in the sack.
+
+Brom had it out before he saw what he was doing. He stood holding it. It was of a different turning from his own, darker, with a chip in the rim; and Cael saw that he did not know where on that rock a person was to put such a thing down.
+
+He had said the night before that he never in his life had wanted so much to see an empty bowl.
+
+The lean old woman came. She took it out of his fingers, without a word, as she had taken a stone at the edge of a flat. She looked at it for a breath. Then she put it into the bosom of her coat, and went back to a captain's arm.
+
+Brom came round the fire again, and sat down in his own place, and looked for a while at his two hands as though one of them had done something without asking the other.
+
+"Eleven," he said.
+
+It was all that he said, and nobody added to it.
+
+They ate. Seln gave his finding while the pot went round, in six sentences, and said twice that it was no more than a finding.
+
+"So they were told to stop us," said Teague. He had heard it with his back to the fire. "Not to see what we'd do. To stop us, with a hill."
+
+"Somebody was told so. I can put it no higher. I do not know who gave the word, or where; I know that it had changed between a fence and a gap, and that seven people walked from the one to the other."
+
+"With five of us in their eyes," said Lira. "Standing on that grass."
+
+"With five in their eyes. They saw nothing that worked there, and I should be glad to think that they carried nothing more than the sight of it. But the sight was enough to alter an order."
+
+Teague nodded, once, and asked nothing further. Cael understood that he had been handed one more thing for a column in which there were a good many already, and that he would add it up on the road home, by himself.
+
+Karis had the three boxes off the mule and had counted every lashing. Beside her the old man sat propped against the middle one, with a blanket over his legs; and Lira was on her heels before him with a bowl.
+
+"I am informed that I cannot lift it," said Vastin. "I have tried the information twice, and I find that it is correct."
+
+"Then open your mouth," said Lira, "and don't make a speech about it."
+
+He considered her for a breath, gravely, as he would have considered a clerk who had spoken out of turn. Then he opened his mouth. She fed him as she might have fed a child that she was a little afraid of, and neither of them looked at anybody; and on the far side of the fire the broad man, who had not opened his eyes, let his breath go through his nose in a way that Cael had heard once before, under a step of shale.
+
+The cloth came when the bowls were done.
+
+It was the tall man who brought it. He had begged a strip of linen from the old woman's roll, and heated water in his own cup, since there was no kettle to spare; and he wrung the thing out with those big chapped hands until it had nearly left off steaming. He had wrung it too hard. He carried it round to his captain upon both palms, as it had always been carried, and stood there.
+
+It was not the cloth. Everybody on that rock knew where the cloth was.
+
+Teague looked at what was held out to him. Then he put his right arm forward on its slat, as far as it would go, and let the man lay it on.
+
+Cael looked into the fire, since it was not a thing to be watched.
+
+A shadow had come between him and the embers.
+
+It was the healer, standing over him, and he had not heard her come.
+
+---
+
+She had her sleeves pushed up, and her face in the firelight had got some of its brown back.
+
+"I've had a shoulder and a forearm since noon, and a knee to look at. The knee's held; he sat, and it never took a pound. I've been too spent to see past the end of my own hands." She looked down at him. "You carried stone for an hour with one arm. You've sat since with the other across you, and you've not once breathed to the bottom. I taped three of those myself, and I know what they sound like when they're let alone. Up, if you can get up. I don't put my hands in anybody at a fire with ten people looking on."
+
+He got up, by way of his right side and his knees, and went after her round a shoulder of the rock, to a flat place where the fire was only a glow on the stone. There she went down on her heels.
+
+"Ribs. May I?"
+
+"Yes."
+
+"Then lie back. It's flat enough."
+
+He lay back, and it took him two tries.
+
+She undid his coat herself, and put her right hand flat upon his left side, low down, over the shirt.
+
+He shut his eyes, since he knew the way of it by now, and left every door in him standing as it stood. He felt her current set out from under her palm, slow and limping, with the old hitch in it. It did not go far. It went along three ribs, one after another, as a thumb is run along a crack in a plank.
+
+Then it left them. It went up, through the cage, toward the shoulder; and he felt it turn there, and go down the arm to the palm of his right hand, and come back the same way. It did that twice.
+
+Her lips had stopped.
+
+"That's a line," she said. "That's not yours."
+
+He opened his eyes.
+
+She was looking at him as she had looked across a ravine, two days before, at a captain's hanging arm. She had read that arm from a baulk of timber, at her stride and a half. She had told its owner what a third time would cost, and had called it a fact.
+
+"It's mine now."
+
+She did not move her hand.
+
+"I counted twelve of yours at a mill," she said slowly, "and I told you that I'd not ask how many more you meant to bring me. You tried to hand me one across a fence."
+
+"You'd not take a count over iron."
+
+"No. I'd not." Her eyes went back the way that they had come, toward a glow on a rock, and a man beside it with his arm on a slat. "It's his."
+
+"It came at the timbers, at a stride. I was behind his shoulder when he let it go." He kept it level, and low, as he had by a weir. "He doesn't know. I can't tell him how it came without telling him how they all came, and that's not mine alone. It's written down beside the old man's, as a debt. I had it lined once on the shale and took my hand away. This morning I let it go, for the first time, on the frame of the second heap. Along the shelf. There was nobody on the road of it; I looked."
+
+"And it came back along the road that it went."
+
+"To the place where it leaves me."
+
+"It leaves him at a wrist." She pressed, very lightly, and he felt all three answer. "It leaves you at three breaks that knit as they pleased under my tape, since I couldn't shut what I couldn't read. You've put a hillside through them."
+
+"A cartload."
+
+"Don't mend my sums." But there was no edge on it. She sat back on her heels, and rubbed her eyes with the heel of her hand, and for a breath she looked as old as the woman with the board. "Two are cracked along the old line. The third's whole, and angry. Nothing's gone into anything that it shouldn't. I can ease them, and I will, and I'll tape you so that you remember them."
+
+"And the term?"
+
+He asked it since she always set one, and since he owed her the asking.
+
+She was silent for some time.
+
+"I'd set you ten days flat," she said. "And tomorrow there's a thing out on that plain, a morning's walk off, that you've come the length of a country to stand in; and you'd get up off my blanket and walk to it. Then I'd have set a term to be broken. I did that once, with a knee, and I learned what it teaches a person." She shook her head. "No term tonight. Ask me again when you've stood where you're going."
+
+She put both her hands on him then, and he felt the warmth go in along three lines of fire and lay them down, one by one, as a person banks a hearth.
+
+He lay on the rock and looked up. There was a ridge against the stars, with one square piece gone out of it; and under that, though he could not see it from where he lay, there was a heap of stones as high as a man's hip.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-57.md
+
+# Chapter 57 — No Language
+
+Oryn left him lying when she had taped him, and went on a little way by herself, and sat down at the edge of the rock, where the ground went off toward the plain.
+
+She had her hands in her lap, and she had carried them so across twenty yards of stone, a little out from her, as a person carries something that has been spilt on.
+
+She had walked that country for thirty rounds, and people had died on every one of them, and she had never pretended otherwise. They had died before she reached a gate; she had come down a hill-foot more than once, with her pannier, and been shown a blanket in a byre. They had died after she went on. A man whom she had left mending had got up too soon, or a fever that she had turned came back when she was three holds away, and she had heard of it a cold term later from a carter.
+
+She had never had one go with her hands on him.
+
+It was not luck, and she did not call it skill; it was a rule. When a thing was past her, she said so, and she took her hands off before it was past everybody. She had said it of a girl's arm on a hillside, and she had said it at a mill, of something that was not an injury at all. A healer who keeps her hands on a body after she has left off being of use to it is doing that for herself.
+
+Today she had put them on, and they had come off with nothing done.
+
+She went over it, since she went over everything that she had laid a palm to, and she did not spare herself the order of it. There had been a boy on his side on the stones, with a broad fist in his collar. She had gone down at his head; and she had known, in her knees, before she touched him, what she was going to find. A person who has read flow for thirty rounds can tell from a yard off when there is none.
+
+She had asked him all the same.
+
+That was the first of the two things which she had to look at tonight, and it was the smaller.
+
+She did not ask because it was polite. She had worked in a house once, inside a wall, where a sheet hung at the foot of every bed, and where nobody had asked a woman from the river sheds one thing from the day that she was carried in. The asking was the whole of the difference between that house and a plank across two kegs. It said that the body on the plank belonged to whoever was lying on it. She had not gone into a shin on a nod, two days since, with the bone lying two ways.
+
+She had said the two words to a boy who could not answer them, and had waited for the length of a breath; and then she had gone in without.
+
+A person who cannot speak has not said no. She turned that over, and it would not quite do. He had not said yes either. If he could have said anything, she would not have needed to ask in such a hurry.
+
+She found that she would do it again. She found also that she was not going to tell herself that it had been the same as being given leave, since it had not; and she put it where she kept such things, which was in no book, and let it be exactly as heavy as it was.
+
+The second thing was what her hands had met.
+
+She had gone into a great many bodies, and each of them was a country with its water running: fast in one place and slow in another, banked up behind a break, gone thin where a fever had been. That was her whole trade. She found where a stream was stopped, and she let it go on.
+
+In the boy every bank had been there. She had felt them all at once, under her two palms, as plain as the lanes of a field after rain: the big one in the chest, and the fine ones that went out to the fingers. There was nothing wrong with any of them that she could have put a name to.
+
+But there had been nothing in them. It had been running a breath before, and it had stopped, all of it together, as a mill stops when the sluice goes down; and so there had been no place for her to push, since a healer cannot mend a channel by filling it from her own, and she had known that since she was younger than the boy.
+
+So she had taken her hands away, and looked at them.
+
+---
+
+She sat for a long time at the rock's edge, and the glow of the fire went down behind her.
+
+It was six days since she had stood at a cairn, at noon, and looked up a mule-path that went north over a saddle; she had counted them. Three gates lay up that path. There was a woman at the middle one who would be near her time by now, and an old man at the last whose chest she listened to at every thaw. She had sent them word from a mill: a week, or more.
+
+It was the *more* that she was into.
+
+She had walked on east for three reasons, and she said them over. There had been a shoulder that wanted a week of her eye, and the week was out. There had been a knee on her linen; and the knee had sat in a stream-bed today, because she had told it to, and was no worse. The third was an edge. She had said in a loft, on the far side of a cold term, where a person of her trade ought to be standing when a crew walked over such a thing.
+
+They had walked over one at a fence, and she had counted a big man across it. There was one more, which lay out there in the dark, and tomorrow they would come to it. She would stand at that; and then she owed three gates a healer, and she would pay them.
+
+Her mind went back to the boy with the book, since it generally did.
+
+She had found a road in him tonight that was not his own. It went from the heel to the palm, as straight as a rule, through the middle of the cage, and it had the mark of a captain's all over it; she had read that captain's arm from a baulk of timber, two days since, and she would have known the make of the thing in the dark.
+
+He had owned to it in three words, as a carter puts his thumb to a slip for a load that he has already driven off with.
+
+That made thirteen, and she knew how they came to him. She had stood in front of him once, on purpose, and let him have the feel of what she did, since she had sooner be asked than taken from. A captain had not been asked, and neither had an old man, and they did not know that there was anything to ask about.
+
+That was a debt, and it was not hers. She mended what was brought to her; she did not carry one person's account to another, and she would not begin tonight because she was tired and sore and wanted something that she could put right.
+
+She had set no term on those ribs, and she looked at that as well.
+
+What she had told him was true, and it was not the whole of it. The whole of it was that a healer who has just had a boy stop under her hands will tie down every living thing within her reach. She had felt it come up in her when she found those two cracks. *Ten days. Flat. You'll not stir.* It had not been the ribs speaking. It had been the stream-bed.
+
+She did not set terms out of fright. So she had set none, and he would walk on two cracked ribs to wherever he was going; and they would hold, since she had at least made sure of that much before she took her hands away.
+
+There was the other place in him, and she did not go round it tonight in her mind. She had gone round it for forty minutes at a mill, with all that she had, and had said what she found: there was nothing there for her kind of hand, and everything else in him went about it. It was not what she had met today. In the boy there had been banks, with the water just gone out of them. In the other there had never been a bank.
+
+She had no more than that. She had told a girl so, and she would not dress it up at midnight because she was low.
+
+Somebody sat down beside her.
+
+It was done stiffly, with a staff, and a little grunt at the end. Oryn did not need to turn her head, since she knew the sound of that staff as she knew the mule's feet.
+
+The lean old woman said nothing. Not one word had come from her to any of the six since a cold term began, and Oryn had long since given up wondering whether it was a rule or only a habit. She had a strip of linen in her hands, and it was steaming.
+
+She laid it over Oryn's two hands, where they lay in her lap, and folded the ends under.
+
+It was hot, nearly too hot. Oryn felt it go in at the knuckles, and across the palms, where a boy's coat had been; and she had not known until then that her hands were as cold as the stones.
+
+She did not thank her, since it did not seem to be what was wanted.
+
+They had nodded to one another across a shin, those two. One had held her own binding open, at a fire, so that the other could put her hands in under it. Oryn had thought on those evenings that she was being shown a courtesy, as one trade shows it to another. She saw now that she had been wrong about which of the two had the more to teach.
+
+This woman could not knit a bone, and she had never been able to shut a hole. She had a board, and some webbing, and she could keep a thing still. For more cold terms than Oryn had walked rounds, people must have gone from under those thin fingers, with nothing in the fingers that could call them back.
+
+And she had learned what to do with a pair of hands afterward. It was a small thing, and it was hot.
+
+They sat so. Behind them there was a heap of stones as high as a man's hip, and in front of them the plain lay black, and a long way out upon it something pale still kept a little of the day.
+
+Oryn looked at that, and knew no more of it than that she had once been told of a ring on a sheet of paper. She had not heard what was written on the leaf in the boy's coat; she had told a girl at a mill why she would not have it read at her table, and she found that she was of the same mind tonight, though a good deal less easy in it.
+
+When the cloth was cold, the old woman took it off, and wrung it out upon the rock. She looked at Oryn once; then she nodded, and got up on her staff, and went back to a man with a bound shoulder.
+
+Oryn stayed a little longer. She had been asked for a term tonight, and had given none, and she gave one now to herself: she went and lay down beside the mule, on her back, as she had told a great many other people to lie, and was still.
+
+---
+
+Cael got up when the tape had set.
+
+He did it by turning onto his right side first, and then onto his knees, as he had seen an old man do it for a month; and by the time that he was on his feet, and round the rock again, the fire was a red eye. Beyond it there was a lamp burning on the lid of the middle box, with a small pale woman bent over it, and Brom sitting by with his bound arm across his lap, since he had not yet found the way to lie on it.
+
+"I want the cord," said Cael.
+
+Karis looked up.
+
+"You have not touched it in a hundred and thirty-eight days."
+
+"I know how long. I said *hold*, in a yard, and I'm not lifting that. I'm taking one more reading for it." He had thought about how to say this, and he said it plainly. "Tomorrow you'll put that cord round the oldest of them, and I'll be standing by with my hands itching for an end. I'd sooner know tonight what my hand's worth on it."
+
+"It is a fair reason. It is also the night of a day on which you have been hurt, and I should want that written upon the entry."
+
+"Write it."
+
+She took the tarred case from beside the old man, who slept sitting against a box with his mouth a little open, and she drew out the cord herself, and the slip of ash.
+
+They did it on the flat of the rock, by the lamp, and they did it as it had been done at Lowmarch: one length, and four knots, and two strides. Brom held the brass eye down on a white stone with his boot. Karis ran the cord out to its fourth knot, and Brom came up; she ran it again, and laid the slip down twice. She set a second stone where it ended.
+
+"Forty-two," she said. "Brom."
+
+He did it after her, one-handed, with her boot on the eye, and he took a good deal longer over it.
+
+"Forty-two. I'd have been surprised."
+
+Cael took the cord.
+
+It was tarred hemp, no thicker than a pencil, and it lay in his fingers like anything else; he had not known that he remembered the feel of it. He set the eye under Brom's boot, and ran it out to the fourth knot, and marked; and to the fourth again. Then he laid the slip of ash from his mark.
+
+Its far end lay on the second stone.
+
+He looked at that for a breath; and then he lifted the slip, and laid it again from the same scratch, and its far end lay on the stone.
+
+"Again," said Karis. "From the eye."
+
+He did the whole of it three times, and each time the slip went down once, and there was no room upon that rock to lay it a second time.
+
+"Forty-one," said Brom slowly. "It was forty-one and a bit, in the yard. I stood there. You could lay half the slip again."
+
+"It was a piece. It is a stride." Karis had her notebook open already. "Now the edges."
+
+She pricked the lid of the box with a needle at either end of the Ternhall brass, holding it herself, and did the same for Hesk's, a hand lower down. Then she gave them to him, one after the other, and bent with the lamp.
+
+In his hand the Ternhall strip stopped short of its own prick. Hesk's went past.
+
+She had a hair in the back of her notebook, which she had kept there since the hundred and sixty-eighth day, and it had been the whole of the difference then. She laid it in the first gap, and looked; she pulled a second out of her own head, and laid that beside it.
+
+"A hair and a half," she said. "And for the other, two."
+
+She took the strips back. In her own fingers each of them lay from prick to prick, as true as the day that it was cut.
+
+Nobody spoke for a little. The lamp's flame stood up straight.
+
+"It's more," said Brom.
+
+"It is more than it was. I shall write that it is more." Her pencil was moving. "I shall not write that it grows. I have the hundred and sixty-eighth day and I have this one. Two readings do not make a line, and I told a room so once."
+
+She turned the page toward him when she had done, since it was his.
+
+*Three hundred and sixth day. The open rock east of the gap; by lamp; he had been hurt that morning. The same cord, the same two edges, the same hand. Cord: a stride short in forty-two, where it was a piece. Edges: a hair and a half; two. True in mine, and in Brom's. Cause: not found. No inference entered.*
+
+"That's how I'd have it," said Cael.
+
+He stood and looked at a slip of ash on a stone. A cord did not know whose hand was on it. He had told himself as much about a light, in a loft, when it had not been steady for the count of one; made things did not know. He told it to himself again. It was a good deal harder to say with a whole stride lying there on the rock.
+
+He did not draw a line through it. There was nothing that he could have drawn it to.
+
+---
+
+He went back round the shoulder of the rock afterward, by himself, to the flat place where a healer had taped him.
+
+The plain was in front of him. A long way out there was a pale thing lying on it, low down, no bigger than a thumbnail. He sat with his back against stone, since he could not well stand, and for some time he did nothing at all.
+
+Then he looked at the one thing that he generally left alone.
+
+It lay a hand's breadth from the left side of his face, where other people kept theirs. He had seen an old man's eyes go to that place on a hillside, when a sigil came back to him whole. He had seen a girl's go to it at the edge of four floors. His own had gone to it on a plate, when he was fourteen. Something had lit there, late, and shown him a word, and gone out.
+
+It was dark. It was as dark as it had been in a meadow and under a town. He had wondered once why a quiet floor took nothing from him, and the answer had turned out to be dull enough: there was nothing lit in him for it to put out. That was the same tonight. He marked that it was, and left it.
+
+There was a thing that he had by heart, and it was in no book.
+
+He went over it in the order in which it had been given. There had been a cup of water set an inch from his hand. There had been a man with red eyes, speaking to a plank of oak, who said what kind of thing he read and what every such thing had in common. Then there had been a sentence without an end. It was about a thing that ought not to be of that kind, and about the tool reading it all the same.
+
+He was not to tell that man. He was not to tell anybody. He was only to remember that it had been said.
+
+He had remembered. For seven days it had cost him nothing, and then it had turned over in him on a plank, beside a stopped wheel, and given him two words. He had not let it give him a third.
+
+He asked himself whose leave he had.
+
+He had got round a healer's words once, at a milestone, and had told her so. He took them out now and looked at them honestly. She had ruled, above a weir, that nothing of his was to be turned while her hands were in him. She had said in the same breath that afterward he was on a road, with his own eyes to spend, and that she did not keep people. That was not a thing which he had to bend. It said what it said.
+
+She had set no term tonight, either. He would not make a leave out of that; it had been given for a reason of her own.
+
+The man who owned the tool had told him what it was not for. Cael had put that into his own cataloguing in three words. And on a plank it had looked at the middle of him and had not said *nothing*.
+
+He knew what he was about to be told. That was the truth of it. He had known since the three hundredth breath of a healer's count. Tomorrow he would walk into the oldest of those places and stand in the middle of it; and he would not go there without knowing what he was bringing.
+
+He shut his eyes.
+
+He did not go to the place. He had been told what a person does with a sore spot. He only let the folded thing behind his eyes come about, as he had stopped it from doing at tables and bridges for fifteen days; and for once he gave it nothing else to look at.
+
+It leaned in.
+
+*Still.*
+
+It was as flat as it had been on the plank.
+
+*Set.*
+
+He kept his hands open on his knees. He had felt the shape of a third, eight nights ago, as a tongue feels the gap where a tooth has been. He did not put it down this time.
+
+*Bones.*
+
+It was not the tool's own word. It was the man's. He had said that he looked for the bones of a thing before he would look at a letter on it: which part bore, and which was carried. It came as flatly as the others.
+
+After that there were no more words. It gave him the thing itself, all at once, as it had given him a whole blanket of sheets on the shale; and he had to find his own words for it, which he did slowly, with the water beginning to run from under his lids.
+
+Something in it bore.
+
+It lay beneath everything else in that place, level, and whole, from side to side. He had knelt on such a thing on the ninety-sixth day and had found that it was all one piece. And nothing was carried upon this. There was no course on it, and no upright. It was a floor with nothing built on it.
+
+And it leaned.
+
+That was the part which he could not get past. A record sat. A man had shown that to a small pale woman at the end of a reed, and a boy holding a lamp had seen it over her shoulder. An instruction did not sit; it leaned, sign after sign, as every row on fourteen sheets had lain one way along a strip of brass.
+
+This leaned so, steadily, and there was not a mark upon it. There was no sign. There was no letter that a woman with twenty-three of them could ever have turned. It was an instruction with no language.
+
+He could not have said what it leaned at. There was nothing in him to take a bearing by.
+
+[[TIER-B: "The same kind of thing, to that instrument, as the sites were to Cleon's." — the packet gives this as one quoted sentence of narration (BOOK_MAP §2 item 37 has it in lower case, as part of a longer sentence), with no word of how it begins. Staged here: it stands as Cael's own summing of what the twelfth has just given him, in his head, alone on the rock, after the three words and the shape; the fixed log below says the same in his hand. I have not written it in other words. If the full sentence opens differently, the paragraph above ends where it can be joined — coordinator to supply protected text]]
+
+He did not go one step past that.
+
+There was a step. He could feel where it was, as he had felt a word eight nights ago. He left it alone. It was one look, by a tool whose owner had said that it could not look there; and what he had got from it was a shape, and not a meaning. He would put the shape into the book. He would not put down a syllable of what it might mean, since he did not know, and since a guess written in that hand had a way of becoming a finding by morning.
+
+He told nobody.
+
+He went over the three of them, to be sure that it was a ruling and not a flinch. A healer had a finding of her own about that place. It was whole, and it had cost her something to say; he would not lay a second reading across it. Karis had two pages already which she would not have joined, and this was a third of the same sort. She would have told him, besides, that a second glance by the same eye is no second witness. And he had said to Lira that he would tell her on the road.
+
+A man with red eyes had told him to tell nobody. Cael found that for the first time he was entirely of that mind.
+
+The pale thing out on the plain had a ring round it now, like a moon in mist, and he could no longer tell where its edge was.
+
+---
+
+He wrote it by feel, with his back to the rock and the pencil's butt against his thumb, since he could not have seen a line if he had been given a lamp.
+
+*Three hundred and sixth day. The open rock below the eastern mouth of the gap. A hundred and twenty-three. Vastin: twenty-seven; he held a roof today, sitting down, by Oryn's leave, and the knee never took a pound of it. Oryn is six days past her cairn.*
+
+*The gap was kept. Nine, with three bows, on a shelf; two heaps of stone rigged to fall. Twelve of us went in. Eleven came out. Teague's boy went a stride past the edge of the wall, for the bow, and was killed there. I heard his name once. I am not writing it; it was not said to me.*
+
+*The thirteenth is used. Once: on the frame of the second heap, along the shelf, at nobody. It came back to the three ribs, where I said that it would. Oryn has been told whose it was. Teague has not.*
+
+Then he wrote the other, and it came all in one piece, as such entries did.
+
+*Turned the Rune fragment on myself. Cleon said don't. The reading only ever told me the still place was nothing — no flow, no current, a hole where a man should have a middle. The Rune sense says it's not a hole. It says it's* built like something *— like one of those floors with nothing standing on it. Same shape to that fragment as the sites are to Cleon's. I'm not going to write what that might mean, because I don't know, and because the last time I wrote something true in this log a healer made me swear an oath about it. The instruments read wronger for me than they did at Lowmarch. The trend's climbing. My Arbiter's still dark—nothing in me to go quiet, same as always. Tomorrow, the oldest one. I've spent the whole year wanting to stand in the middle of it. I think part of me already knows what I'm going to feel. Nothing. I think I'm going to feel nothing, and I think that's going to be the loudest thing that's ever happened to me.*
+
+He set the count beneath it, since a count was owed.
+
+*Deployment since the Line: thirty-three, and the frame this morning: thirty-four. Myself, tonight, with the twelfth: not counted, as the five with the tenth were not. Thirteen.*
+
+"You're writing blind."
+
+It was Lira. She was standing over him, and by her voice she had been there for a little while.
+
+"Yes."
+
+"I can hear the water going. That's the thing that only charges when it's looked." She went down on her heels. "You did it on purpose, this time."
+
+"Yes."
+
+"And it's in there."
+
+"All of it. I've kept nothing out of the book." He shut it on the pencil, and held it out toward where her voice was. "You've read this whenever you pleased, and I never minded. I'd not stop you now. I'm asking you not to read that one. Not until after tomorrow."
+
+"Why after tomorrow?"
+
+"Because I know what it looks like, and I don't know what it is; and tomorrow I might. If you read it tonight, you'll walk out onto that plain watching me, and not where you're putting your feet."
+
+He heard her breath go in at the last word. He had not chosen it to hurt her, and he could not have taken it back.
+
+"I asked you at a mill whether it was bad," she said, after a moment. "You said that you didn't know what it was. Is that still the answer?"
+
+"It's still the answer."
+
+"That's three clerk's answers. I'm keeping the count."
+
+Her palm came down flat upon the cover of the book. She pushed it back against his chest, on the right side, where it would not hurt him.
+
+"You said the road. I said if there's road. I don't read ahead." Her voice was not quite steady. "I never in my life wanted to so much. Put it away, before I'm a worse person than I am."
+
+He put it into his coat.
+
+She did not go back to the fire. She lay down where she was, on the bare rock, a yard from him, with her back turned, so that he should be able to hear that she was not looking at anything.
+
+He sat with his arm across his eyes, and waited for them to finish.
+
+There was a leaf in his coat that nobody had read but the hand which wrote it. He had told no one. He had not thought, when he made that ruling, how much it would resemble being alone; and he found that it did not, quite, since there was a girl on the rock beside him who had been handed the book and had given it back.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-58.md
+
+# Chapter 58 — The First Cut
+
+They went down onto the plain at first light, eleven of them and a mule, and nobody looked round at the gap.
+
+It was the slowest that they had ever walked. A captain who had built a heap of stones the day before set the pace with his own boots, and it was one that an old man could keep who had been spent to the bed of a stream. Vastin kept it. He had got up by himself in the grey, on the ash, in three movements, and had stood for some time afterward with his eyes shut; and when the healer came to look at him he had said that he was informed there was a thing to be seen at the end of this, and that he did not propose to be carried to it.
+
+"You'll go at the bow's pace," Oryn had said. "And you'll stop when he stops."
+
+"I am obliged. I had not supposed that I should outrun him."
+
+So there were two sticks at the tail again, a pine and an ash, twenty yards apart, and they stopped within a breath of one another as they always had.
+
+Cael walked at a captain's shoulder, a stride back, with a healer's tape drawn so tight round him that he could count his own ribs by it. He could not carry; the three boxes were on the mule, and nobody had asked him to try.
+
+The steps of the shale went on for a mile, and then they began to fail. Each was a little lower than the last, and its edge a little rounder, until a person could not have said where one left off; and after that there was only rock, grey and bare, going gently down in front of them under a sky that had nothing in it.
+
+He had never been in so much light. There was not a tree on that ground to throw a shadow, and no grass to drink it. It came down white, and lay on the stone, and came up again from underfoot, and the eleven of them went through it very small. He thought of a boy who was all wrists, lying on a flat of rock with this in front of him, and he put the thought where he had put the name.
+
+"It's worn," said Brom.
+
+He had stopped, and put the side of his boot against a swell of the rock.
+
+"Look at it. There's not a sharp edge left on the whole of this. I've seen a doorstep go like that, at a hold, where sixty cold terms of boots had been over it. But there's been no boots here. There's not a path." He frowned at the east. "It's all of it worn, and it's all of it worn the one way: down, toward wherever we're going. Like a sill."
+
+"By what?" said Lira.
+
+"Wind, if you're asking me. And I'd not care to say for how long. I've nothing to price it against."
+
+It went on so for the last mile. The rock sloped in from every hand, so gently that the feet knew it before the eyes did, as the floor of a dish slopes; and Seln, who was a furlong ahead, went smaller, and then lower, and then stood still with neither hand raised.
+
+They came up to him, and looked down.
+
+It lay low. That was what Cael had not been able to picture, for all the nights that he had tried, since he had thought of something that stood up. The ring on the Fallow stood up, and so did the bridge; the Stair went down, and a hall had a roof with a marsh on it. This did neither. The worn rock ran in to an edge, and stopped, and beyond the edge there was a floor. He had seen the court of a great house once, at Ostrand, through a gate, with every door round it shut: a paved place, open to the sky, with nothing standing in it. It was the only thing that he had ever looked at which was at all like this. He called it the court, in his own head, from that hour, for want of any better word.
+
+It was of the grey, which he would have known anywhere. It was as level as water in a bowl, and as bare, and it went away from his boots until the far side of it was only a line under the sky. There was nothing on it at all. The whole of that light lay upon it and did not come back; it stayed, as it had once stayed on a white floor at dusk, so that the thing seemed a little brighter than the day round it.
+
+"There are stones," said Lira. She had her hand over her eyes. "Inside the edge. They're hardly stones. They're stumps."
+
+He found them when she had shown him where to look. They stood along the rim, a long way apart, each no higher than a milking stool: round grey nubs, a stride in from where the floor began.
+
+"Eleven," she said, when she had gone right round with her finger. "I've counted twice."
+
+"The Fallow has eleven," said Brom.
+
+"It has. I counted those myself." Karis had the hide under her arm, and her voice was very small and very steady. "I am not going to say what that is. I am not going to say anything about this place until I have had a cord round it; and nobody is to put a boot over that edge before I have."
+
+"Nor after," said Oryn, "till I've had my fingers on somebody's wrist."
+
+Behind his eyes the folded thing had come about, toward the whole of it, as a head turns to the only voice in a room. He looked at his bootlaces, and counted them, and it lay down. But it did not lie down far, and he knew that he would be giving his eyes other work for the whole of that day, with a floor half a mile wide at his elbow that a hand had made.
+
+---
+
+The edge was a cut.
+
+He saw that when they had gone down to it. The grey did not simply begin: a line had been sunk in it, as wide as two fingers and as deep, running away to the left hand and the right until it was lost in the light; and the plain's worn rock ran to the outer lip of that line and went no farther. It was as sharp as if the tool had been lifted out of it that morning.
+
+Inside it, between the cut and the stumps and for some way beyond them, the floor was written on. He knew the courses before he was near enough to see a sign; they went round with the rim, row within row, like the rings in a felled tree, and beyond them the grey was bare to the middle.
+
+He kept his eyes off the rows, since he had a pencil, and a book, and had been given a thing to do with them.
+
+"I want a mark that will not move," said Karis.
+
+She was looking at the old man.
+
+"We came to the edge at this stump. I shall begin here, and go round by the left hand, and I must know to a stride when I have come back. Will you stand at it?"
+
+"I am told that it is the one thing which I may be relied upon to do," said Vastin.
+
+"Sit," said Oryn. "On a box. A mark doesn't want legs."
+
+So he sat on the middle box, at the first stump, a pace outside the cut, with the ash held upright before him in both hands like a surveyor's pole. He looked along the line to the north, and then to the south, as he might have looked over a form before he signed it.
+
+They began a little before noon.
+
+Lira took the brass eye. She did not walk beside the line; she walked on it, with one boot set before the other along the cut's outer lip, heel to toe, as she would have gone along the top of a wall. No part of her was over. Seln came behind with the cord's tail, and laid its fourth knot to the scratch that she left; and Karis went beside them on the worn rock with her notebook, and called each length as it was made.
+
+"One."
+
+"One," said Cael, and put down a stroke.
+
+It was all that he was to do. He was to answer her, and keep the tally in fives, so that there should be two counts in two heads; and he was not to put so much as a finger on the hemp. Nobody had needed to say that to him, since a slip of ash had lain on a stone the night before.
+
+Brom walked outside them all, with a skin of water on his good shoulder and his bound arm in his coat. Up on the lip of the dish a tall man stood with a spear, quite still, looking outward. A quarter of the way round, on another swell, a captain stood with his arm on a slat. He had said one thing when he saw the court. He had said that there was no cover on it for a mile, and nobody on it, and that he would see to the rest of the country while they played with string.
+
+She called, and he answered, and the strokes went down in their fives.
+
+The line did not seem to bend, and that was the strangest part of the morning. He walked along a cut that ran dead straight before him, for as far as he could see, and there was a floor on his right hand the whole way. Yet when he looked back, at the twentieth length, an old man on a box was no longer behind him. He was behind and to the right, and at the fortieth he was farther round; the straight line was carrying them about a middle that none of them had seen.
+
+They came to the second stump at the fourteenth length, and the third at the twenty-ninth.
+
+"They are not evenly set," said Karis. She had written both. "Nor are the Fallow's. I shall want to know whether they are unevenly set in the same places."
+
+She did not stop for it, and she did not stop for the rows either, which went by a stride from her left boot, hour upon hour, cut as deep as a finger. He saw her eyes go to them, and come away. She had waited the best part of her life for a wall of that hand, and had learned to read it under a town; and she walked past half a mile of it with her pencil on a column of figures.
+
+"One thing at a time," she said, to nobody, at about the fiftieth.
+
+There was a place in the rock a little outside the cut, at the thirty-ninth, that Seln stooped to as he passed: a hole, as round as a thumb, with a rim of old rust.
+
+"A peg," he said. "Set, and drawn again." He laid his finger near it. "That is an office's station. They put eight round a place, and take the measure at each, and carry their iron home with them. They fenced the last one. This they have only pegged."
+
+He did not say what he made of that, and Karis wrote down the hole.
+
+---
+
+At the seventy-ninth length they stood opposite the place where they had begun.
+
+Cael knew it by the tally and by nothing else. He looked across, and there was the whole of that floor between, holding the afternoon; and on the far side of it, on the rim, there was a mark no bigger than a seed. He supposed that it was an old man on a box, though he could not have told a mule from a healer.
+
+Standing in the middle of this was what he had wanted since a night under a town; and the middle was out there, and he could not find it. There was nothing on that grey to say where it was: no stone, and no step, and no change in the light.
+
+"It's a long way in," said Lira.
+
+She had stopped, with her two boots on the lip and the brass eye in her fist; she had gone a mile heel to toe, and had not once put a foot wrong.
+
+"How far?" said Cael.
+
+"I shall tell you when the round is shut, and not before," said Karis.
+
+The sun went over, and the water in Brom's skin went down. The fourth station was behind them, and the fifth, and at each of the holes she had done a thing that he did not at first understand. She had made Lira and Seln draw one length of the cord dead straight between two points of the cut. Then she had laid the slip of ash across, at the second knot, from the taut hemp to the lip, and had marked the slip with her thumbnail.
+
+"What's that for?" Brom asked her, at the sixth.
+
+"It is how I shall know whether it is round. A straight cord laid across the edge of a round thing stands off from it in the middle. If the thing is truly round, it stands off by the same amount wherever I lay it." She held the slip up. There were six nail-marks on it, and he could not have told them apart. "A span and two fingers. I have never had six that agreed so."
+
+By the hundred and thirtieth his ribs had begun to tell him how far two miles is, and he walked with his left arm held in, and wrote with the book against his hip.
+
+The mark on the rim grew. It became a box, with a brown coat upon it, and an upright stick, and there were people about it now, and a mule. The old man had not shifted. Cael could see, at two hundred yards, that he was sitting exactly as he had been left, with both his hands on the ash and his face to the north, like a post that somebody has driven and gone away from.
+
+"A hundred and fifty-eight," said Karis.
+
+"A hundred and fifty-eight."
+
+There was not room for another length. Lira let the eye fall; she took the slip from Karis, and went on along the lip with it, laying it end over end, and saying the figures herself.
+
+She laid it nineteen times, and on the nineteenth its far end touched the foot of a length of ash.
+
+"Nineteen," said Lira, and sat down on the worn rock where she stood, and put her head on her knees.
+
+"A hundred and fifty-eight lengths, and nineteen strides," said Karis.
+
+"I've the same," said Cael. He turned the book to her, where there were thirty-one fives, and three strokes, and a nineteen written small.
+
+She did the sum standing, and he watched the pencil. A length was twenty strides, and she set down three thousand, one hundred and seventy-nine. Then she divided, as a joiner divides who wants the width of a wheel from its rim: by three, and a seventh.
+
+"A thousand and eleven," she said. "And a half. It is fifty lengths across, and eleven strides or twelve."
+
+"Fifty cords," said Brom. "About."
+
+"About fifty. Something over eleven hundred yards; I make it eleven hundred and seven, as near as hemp will say." She looked at the slip of ash, with its eight nail-marks all in the one place. "And it is round. I have measured a millstone that was not so round. I do not know what was used to cut it."
+
+It was sharp, and it was perfect. Cael looked along the cut, to where it went away into the low sun, and thought of every made thing that he had ever handled: a brass rule that an old man swore was true to a hair, and a cord that a dead surveyor had knotted, and a wheel. Not one of them had been so nearly what it was meant to be as this; and it had lain out here under that sky with nobody to look at it.
+
+"And the half of it?" said Cael.
+
+Karis looked at him. Then she did that sum also, since he had asked.
+
+"Five hundred and six strides," she said. "From the cut to the middle. You will not see the middle when you come to it. There is nothing there."
+
+---
+
+She went to the rows then.
+
+She had waited for them the whole of that day. She knelt now on the worn rock at the first stump, a hand outside the cut, with her notebook on her knee; and she would not lean over, even by the breadth of her own bound palm. She read what she could see from there, which was three courses, with the sun going down behind her and lying in every stroke.
+
+She was a long time silent.
+
+"It is one hand," she said at last.
+
+"It's always one hand," said Lira. "You said so under the Stair."
+
+"I said so, and I was mistaken. I had four places, and at every one of them I saw the same forty-one kinds in the same order, cut alike, and I called it one hand." She did not look up. "Those are cut to the depth of my thumbnail. These are cut to the depth of my finger. And these were cut by somebody who was not looking at anything else while he did it."
+
+"How can you tell that?" said Brom.
+
+"He slipped."
+
+She pointed with the pencil's butt. Cael looked at the place, and gave his eyes nothing more than the place; it was a sign like a gate, in the second course, and from its lower corner a scratch ran out aslant, the length of a finger joint, where a tool had skidded on the grey.
+
+"That is an accident, and nobody means a thing like that. A hand went wrong, a very long time ago, and left it." She had two sheets on her knee already, which Lira had fetched out of the middle box at a word: one that she had drawn in a ravine three days before, and one from under a marsh. "It is on the west pier, in the second course. It is on this, from the hall. I drew it both times, and took it for part of the sign. It is cut there as carefully as everything else, to the same depth as everything else, at the same slant."
+
+Nobody spoke.
+
+"A person who makes a mark for himself does not make the slip a second time," said Karis. "A person who is copying, and has been told to leave nothing out, copies the slip. I have seen it in a clerk's hand at the foot of six sheets." She laid her palm flat on the notebook. "I have read strata since I was a girl. I have laid these floors under everything that I had. And there has been one more under them, all the time."
+
+[[TIER-B: "The others are copies." — the packet gives the three words after "this is the first cut" and pins no speaker. Staged here: at the western stump, a hand outside the cut, after Karis has shown the copied slip of the tool on two of her own sheets and said that one stratum lay under all that she had; the conclusion itself is left for this line, and I have not written it in other words. Karis is the natural owner; Lira or Brom could say it to her. The next paragraph stands for any of them — coordinator to supply protected text]]
+
+She sat back on her heels. Her face was quite white, and Cael had seen it so only once before, in a gallery, on the morning when she said that she could read. He thought that being believed, which had lain so heavy on her beside a lamp two nights ago, could hardly have been heavier than this.
+
+She had the hide out a little later, on the flat top of a box, with the clean sheet pinned to its edge.
+
+"I said that I should ink this when I had had a cord round it." There was a ring on that paper which a thumbnail had made. She went round it with a pen, slowly, and blew on it. "Now it is a place."
+
+The Ternhall brass went down along the pencil line, through four rings, and ended a finger short of the join.
+
+"I shall want the other," she said. "It is lent, I know."
+
+He gave her Hesk's strip from its cloth, and did not touch the hide. She laid it down from the middle of the fourth ring to the middle of the fifth, by itself, without looking at the first; and then she slid it along its own length, a hair at a time, until its end met the end of the Ternhall.
+
+They met square, and there was not a thread of light between the two edges and the pencil.
+
+"Both," said Karis. "By two makers. I ruled it with the one at a grey stone, and I have checked it with the other at the end, and they agree."
+
+Cael looked at two strips of brass lying in one line across a calfskin. An old man had sent him the second, over a river, with a note about a thing that his grandmother used to say. He did not think of the note now so much as of the woman, whom he had never seen. She had been right, and she had not known the half of it, since somebody had drawn that line before either strip was rolled.
+
+"And past it?" said Lira.
+
+She had been up on the dish's eastern lip with Seln, where the worn rock was highest, and had come back with her face burnt by the light.
+
+"Nothing. I looked till my eyes ran. There's no gap in anything, and no road, and not a bump. It's plain till it's sky."
+
+"There are eight peg-holes round this place, and no ninth beyond it," said Seln. "No path leaves it."
+
+"And the paper has no sixth." Karis turned the flat's oldest row with one finger. "There is no sheet. There is no group of signs that I have not placed. The sheets for the place behind us give a run from it to this; these give a run to nowhere." She looked at her pencil line, which went on for a hand's breadth beyond the inked ring and stopped at the paper's edge. "I said that I would not draw a stop which I had not been given. I have still not been given one. I shall leave that as it is, and write what I have."
+
+She wrote three words under the ring, small. He read them upside down, as he had once read everything.
+
+*No sixth found.*
+
+He took out his own book, and wrote the day's entry standing, since he could not well sit, and since he found that he did not care to sit down in front of that floor.
+
+*Three hundred and seventh day. The fifth place, at the end of the line. A hundred and twenty-three. Vastin: twenty-eight; he was the mark that the round closed on. Oryn is seven days past her cairn. Eleven of us.*
+
+*A floor of the grey, bare, lying low. Eleven stumps. A cut for an edge. A hundred and fifty-eight lengths and nineteen strides round, by Karis's cord, in three people's hands that were not mine; about fifty lengths across. Round to a nail's breadth. Five hundred and six strides to the middle.*
+
+*Both edges laid on the line by Karis. They agree. No sixth found.*
+
+*Nobody has crossed. Deployment since the Line: thirty-four.*
+
+---
+
+Teague came down off his swell when the sun was a hand above the plain.
+
+"Well?" he said. "What's out there besides us?"
+
+"Nine people's marks leave the foot of the ridge where their path comes down, and go south," said Seln. "I followed them a mile this morning before you were awake. They did not come onto this rock. I have seen no smoke in any quarter since."
+
+"South. With three bows, and a day in hand."
+
+He said it quietly, and he was looking back the way that they had come, where a ridge stood small and brown against the west with one notch in it.
+
+Cael had known since the stream-bed that he would have to say it again. It had been easy behind a brow, when nobody had been hurt, and he had only been asking a man to spare seven strangers whom he had no cause to hate.
+
+He gave the captain the same three sentences that he had given him four nights before, in a fold of the ridge, in the same order; and he did not count the hoods afresh. Then he added one, since it was owed.
+
+"And if they're on that plain, they're let off it."
+
+The grey eyes came round to him.
+
+It was a long look, and there was a heap of stones in it, seven miles off, and a cloth, and a bowl with a chip in its rim.
+
+"I heard you the first time," said Teague. "I'd not have heard you yesterday at noon. I'll say that, so you know what you're asking." His left hand had closed on his belt. "It stands. I kept it on a shelf with him lying under me, and I'll not unkeep it on a flat."
+
+He turned from that, as a man turns from a thing that he has finished.
+
+"You, with the hide. I'm asking. What is it?"
+
+"It is the fifth place, and it has two bars to its stroke, and its first sheet is older than any that I have a figure for." Karis spoke as she read a label. "I can tell you what four such places have done to seven people. They took what each carried, at a stride, and gave it back at a stride, whole. I cannot tell you that this one does as the four did. I should want one person over, and back, before a second went."
+
+"With my fingers on him," said Oryn.
+
+"It's past the line," said Teague. He looked at Cael. "You said how, at the fence. Say it here."
+
+"As it was there. One at a time, and each says what he finds."
+
+The light was going level. Out on the plain the rock had begun to turn the colour of ash, as rock does at that hour; and the floor had not, but lay under them, pale, and kept what it had been given.
+
+Lira was first.
+
+She stood at the cut with her wrist held out. The healer asked her two words, as she asked everybody, and was answered, and laid two fingers on it. Lira had done this at four places, and by night on one of them, nine times, with her foot bare on the frost. She lifted her boot now over a line two fingers wide as she would have stepped over a sill at home.
+
+Cael saw her shoulders go tight, and ease.
+
+"Four," said Oryn. Her lips had stopped. "The same."
+
+Lira brought the boot back.
+
+"Right," she said.
+
+It was the word that she kept for a thing which had turned out to be exactly what it was.
+
+Brom went next, with his wrist asked for and held, and came to a stop a stride inside, beside the first stump. He did not come back at once; he looked down at the thing, and then he put his palm on the top of it.
+
+"It's the same stone as the floor," he said. "It comes up out of it. And it was taller. You can see by the foot; that's the foot of a thing as tall as the Fallow's." He rubbed his thumb across the grey. "I saw a stake put to this stuff once, under a floor, with a mallet behind it. It might as well have been put to the sea. And something's had this down to a stool."
+
+"What'd do that?" said Lira.
+
+"The same as did the plain. Weather." He took his hand away. "I've priced a good many things. I can't price that. I've not got a figure with enough on the end of it."
+
+He stepped back over, and a healer let go of his wrist.
+
+Karis went over with her notebook shut. She stood a stride inside, with the rows running away from her feet on either hand; and for the first time that day she let herself look along them.
+
+"It's the first one," she said.
+
+Then she came out, and wiped her eyes with the back of her bound hand, and was not ashamed of it.
+
+Seln was last of the four. He went a stride in, and stood, and came a stride back, with a healer's fingers on him the whole way.
+
+"That is four of us," he said. "One stride each. Each went dark at the same place, and each is whole again at the same place. I make it as it was on the Fallow, and at the Stair, and under the marsh, and inside the iron."
+
+---
+
+The old man had got up from his box.
+
+Nobody had bidden him. He came to the cut on the ash, at his own beat, and he did not hold out his wrist to anybody. He stopped with the stick's foot a finger short of the line, and looked down at it.
+
+It was a sunk stroke in a grey floor, two fingers wide, and he looked at it as Cael had seen him look at a seal.
+
+[[TIER-B: "I stood at a line for forty years," Vastin said, "and told people which side of it they were. I never once asked who drew it." … "This is where they drew it." — Tier A 21 pins both parts to Vastin and elides what stands between them. Staged here: he says the first part standing on the ash at the cut, looking down at it, with nine people behind him; the elision is left for whatever the plan holds (a beat, or his crossing); the second part is his as well. After it, in my next paragraph, he puts the stick over and the stiff leg after it, stands a stride inside for a breath, and comes back — coordinator to supply protected text]]
+
+He set the ash over the cut, and the bound leg after it.
+
+Cael watched his eyes go to the air beside his own face, as they had gone on a hillside by a fence, and stay there for a breath. Then he brought the leg back across, and stood on the worn rock with both hands on the stick, and said nothing more to anybody. It was the second time in his life.
+
+The healer had let the others go by under her fingers, and she did not ask for a wrist now.
+
+She went to the cut by herself, and stood on the near side of it, with her boots together, like a person at the edge of a pond. She put both her arms out in front of her, at the height of her waist, so that her two hands were over the line and the rest of her was not; and she turned the palms down.
+
+Cael had seen her stand so once before, at a stone on the Fallow, in the last of the light, and he had not asked her then what she was about.
+
+She kept them there while a person might have counted fifty. Then she stepped over, one stride, and stood; and stepped back.
+
+[[TIER-B: "Nothing," … "Everything, round it." … "Same as you." — Tier A 21 pins all three pieces to Oryn and elides twice. Staged here: she has held her hands out over the cut, palms down, as she did at the Fallow's stone (Book 7 ch27), then gone one stride in and one stride back; she says the first two pieces to the floor and the third with her eyes on Cael. Nothing on the page says what she laid her hands to or what the likeness is. The paragraph below has it go unanswered — coordinator to supply protected text]]
+
+Nobody answered her.
+
+Cael did not. He knew the make of those words, since she had used very nearly the same of one other place, on a plank, beside a stopped wheel. He did not ask what her hands had met over a cut in a floor; he had a leaf in his coat which he had not shown her, and he had no right to the question.
+
+She looked at him a breath longer. Then she pulled her sleeves down, and went and stood by the mule.
+
+That left a captain.
+
+He had not been over one. He had said so at a fence, in front of his own people, and had looked at a boy, who went. He came down to the cut now with his three behind him: a tall man, and a broad one on a stick, and a lean old woman, at none of whom he looked round.
+
+He stepped over.
+
+Cael saw it take him. The heavy shoulders went back, as though somebody had drawn a pack off them from behind; and the left hand came up, slowly, and closed upon the right wrist, where there was linen, and a slat, and under those a joint that had paid for everything that he had ever done. He stood so for the length of three breaths.
+
+He stepped back.
+
+[[TIER-B: "My crew's stood at four of these. It's stood at enough." … "Field's mine. This isn't field." — Tier A 21 pins both parts to Teague and elides between. Staged here: he has gone one stride over the cut, for the first time at any such place, and one stride back, with his three standing behind him at the rim; he says it facing the floor. In my next paragraph he does not send the tall man or the broad man over, lifts two fingers, and the tall man turns his spear to the west — coordinator to supply protected text]]
+
+He did not put his three across. Cael saw the tall man's eyes go to the cut, and to his captain; and the captain shook his head, by the width of a finger.
+
+Then Teague lifted two fingers of his left hand.
+
+The tall man turned his spear about, so that its head lay toward the west; the broad man got his stick under him, and the old woman took up her board. They did not go anywhere; the light was nearly gone, and there were seven miles of rock between that place and a gap. But they had turned. Their packs went round to the western side of the fire, and they sat down with their backs to the floor, three people and a healer of no Path, who had come the length of a country on another crew's line and had left one of their own at a gap in it.
+
+So there were six at the rim, and a healer with a mule.
+
+The plain had gone dark from edge to edge, and the floor had not. It lay under the first stars as it had lain under the sun, pale and level, with eleven small stumps along its rim. It seemed to Cael that there was more light in it now than there was in the sky.
+
+Lira had come to his shoulder.
+
+She did not say anything for a while. She was looking where he was looking, which was nowhere, since there was nothing out there to look at; and he could hear, behind the two of them, a big man and a small pale woman and a quiet one, and a stick, who had all come to stand at that rim without being asked.
+
+[[TIER-B: the S23 close — "Every other one, yours worked and ours died." / "Yes." / "You think this one's different." / "I think this one's the first one they made," … "I think if any place on the continent is going to tell me what I am, it's the one they built to make sure I'd never be." / He stepped over the line. / His Path did not die. It also did not *notice* it should have. / "Wait here," he said, and did not look back, and walked toward the center of the oldest quiet, alone. — the plan calls this "Lira's fixed exchange" and gives it with one elision, so no speaker is pinned line by line and the break inside the long speech is not shown. Staged here: dusk at the western stump; Lira at Cael's left shoulder, the other four of the six behind them, Oryn by the mule, Teague's three turned away; the first and third lines hers, the second and fourth his; nothing of mine stands between her coming to his shoulder and this unit, and it closes the chapter. OWNER-pending #57's sentence stands inside it as the plan prints it — coordinator to supply protected text]]
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-59.md
+
+# Chapter 59 — Five Hundred and Six
+
+*One.*
+
+He counted, since he counted everything, and since a small pale woman had given him a figure to walk to.
+
+The first twenty strides were over the rows. He did not look down at them. He felt them through the soles of his boots, course after course, each cut as deep as a finger, as a person feels the boards of a bridge; and he kept his eyes upon a star that stood low in the east, a little to the left of where the far rim must be. He had chosen it before he lifted his foot, since there was nothing else out there to steer by.
+
+*Twenty.*
+
+Then the cutting stopped, and the grey was bare.
+
+He had not known how much noise a plain makes until he was off it. There had been grit under his boots for two days, and the rattle of shale; here there was a small dry sound at each step, and nothing came back from it. The floor was as smooth as the lid of a box, and it had no joint in it, and no bed; he had put his weight on such a thing on the ninety-sixth day, and had found that it was all one piece, and it was the same under him now for as far as he could have walked in any direction.
+
+*Thirty-one. Thirty-two.*
+
+There was more light under him than over. That was the thing that he could not get used to. The sky had gone the colour of slate, with the first stars in it, and the plain behind him was black; but the floor kept what the day had given it, and gave it up slowly. He could see his own boots, dark, going one before the other upon a pale ground. He threw no shadow. There was nothing above him bright enough to throw one.
+
+He did not look back. He had not looked back at the cut, and it had cost him something; there were five people standing at that rim, and a healer, who had each walked the length of a country to it. He had asked them to wait while he went in by himself.
+
+It was not that he wished to be alone, since he had been alone for a good part of his life, and had not cared for it. But every one of them would have left something at that cut which he would not. They would have walked beside him across this floor as people walk who have set down everything that they carry; and he would have gone among them with his hands full. He had not been able to face being the only one of six with a coat on.
+
+*Fifty.*
+
+The things that he carried were as they were on any ground.
+
+He went over them, as he might have gone over his pockets. There was a held breath in the soles of his feet, and a deep narrow thing under his breastbone, and a hot grain by the left hand. Something waited, through the whole of his frame, for a load that was worth sending down. There was a lid, which he kept shut. There were lanes, and a thin note, and a short edge; a slow limping current that knew its owner; a post, which had asked its two words at the cut and been told no. There was a rule folded on a shelf behind his eyes. And along him, from the heel to the palm, lay the newest, which had cracked two ribs for him the day before and was listening now to the hardest thing that it had ever stood upon.
+
+That made thirteen. Not one of them had so much as blinked at the line.
+
+They went round what they had always gone round. He did not go to look at that. He walked.
+
+*Seventy-eight. Seventy-nine.*
+
+His side had begun to speak, under the tape. He could not draw a whole breath, and so he counted upon the half of one.
+
+He thought, somewhere about the ninetieth stride, of a plate.
+
+He had stood on that when he was fourteen, with a great many people looking on. Every one of them had seen a sigil light for some child before him, and they were waiting to see his. The plate had lit late. He had stood there for the count of eleven with nothing happening, and had learned in those eleven what it is to be on a floor that was made for everybody else.
+
+He had been walking away from that plate ever since. He saw now, on a pale floor at the far end of the country, with five people waiting behind him at a cut, that he had also been walking toward this.
+
+*A hundred.*
+
+He stopped.
+
+---
+
+He went down on his knees, since a thing had to be done here, and he could not do it standing.
+
+It took him three movements, and the middle one was bad. He stayed for a little with his hands on his thighs, getting his breath. The grey was a foot from his face. He could see it by its own light, and there was nothing whatever to see: no stroke, and no grain. It was only pale, like the inside of a shell.
+
+He had turned the folded thing upon himself, the night before, on a shoulder of rock, and he had known then that he would do this as well. A reading that has been taken once is a hope; and he had the other half of the comparison lying under his knees, half a mile wide, where nobody would see his eyes afterward.
+
+He did it on purpose. He meant to write that down, since it was the first time that he had ever looked at a made thing with that tool and meant to; all the others had been taken from him between one breath and the next. He would count it. A thing that is chosen is counted.
+
+He let it come about.
+
+It leaned at the floor.
+
+*Still.*
+
+He had known that it would say so, and his heart struck once all the same.
+
+*Set.*
+
+It did not say *sits*, as it said of a page. It did not say *goes*, as it had said of every course of signs from the Fallow to a pier.
+
+*Bones.*
+
+Then it gave him the shape, with no more words, as it had given it in the dark.
+
+There was something that bore. It lay level under everything, whole, from one side of that place to the other, and nothing whatever was carried upon it. Here he was past the last of the rows, and there was not a mark. And it leaned. The whole bare floor leaned, as a line of cut signs leans, steadily, at he could not have said what.
+
+It was the same reading.
+
+He knelt there and went over the two of them, as Karis would have laid two sheets side by side with the lamp low. He could find no difference. There was the order of the words, and the flatness of them; there was the thing beneath that carried nothing, and the lean, and no letter. If he had been handed both with his eyes shut, he could not have told which was a floor in a plain and which was a place under his own ribs.
+
+His eyes were shut, by then. The water had begun.
+
+It came faster than it ever had. He had looked for the length of five breaths, and he was being charged as though he had read a wall; and he thought, kneeling there with the heels of his hands in his eye-sockets, that it was a fair price. He had asked that tool for more in two nights than its owner would have asked of it in a year.
+
+When he could bear to open them, the floor had a ring round every part of it.
+
+He got up. That was worse than the kneeling.
+
+The star was gone. There was a smear where it had been, with a halo to it, among a great many other smears; he chose the lowest, and hoped. He had four hundred and six strides still to go, and he would have to walk them as a person crosses a room in the dark, with nothing to trust but the count.
+
+*A hundred and one.*
+
+He went on.
+
+It was a long way. He had not understood that, with a pencil in his hand and a figure in a notebook. It was as far as from a ferry's landing to the top of a meadow, and there was nothing in the whole of it to pass. A person who walks a road has a tree to come up to, and a bend. There was only the pale under his boots, swimming, and the black over his head; and after a time it began to seem to him that he was not moving at all, but treading on the one spot while a number went up.
+
+*Two hundred and forty.*
+
+He kept his left arm in against the tape, and let the right one swing.
+
+He thought of Lira, who had told a boy that a line was the last step of a stair in the dark; and then he thought of the boy, for whom he had a heap of stones, seven miles off, and no name that he would ever write.
+
+*Three hundred.*
+
+He did not think of what he would find. He had written the night before that he expected nothing, and he had not written it for comfort. He had stood on the crown of a bridge three days ago, in the middle of a place twice the size of any that he knew, with a quarter of a mile of grass on every hand; and there had been wind, and a view. It was possible that this was only larger.
+
+*Four hundred. Four hundred and one.*
+
+His breath was going in and out of him in halves. The water had slowed. He could tell the floor from the sky again, though not much else.
+
+*Five hundred.*
+
+He took the last six as he had taken the first, one at a time, and set his left foot beside his right.
+
+*Five hundred and six.*
+
+---
+
+There was nothing there. She had told him that there would not be.
+
+He stood. The wind came over the floor from the west, as it came over the plain, and went on. The stars had steadied a little. The rim was gone on every side; he could not see a stump, or the worn rock, or anything by which a person might have said that this place was the middle and another was not.
+
+He waited.
+
+He was a boy with a book who had run out of things to count, and he could not have said what he had meant to do upon arriving. He had wanted this since a fire in a stable yard; he had said so on his feet, to six people, in the only speech that he had ever made. He had not thought past the standing.
+
+Nothing happened.
+
+There was no sound. Nothing lit, and nothing went out. The thirteen were where they had been at the rim, each in its place, as on any ground: a breath, and a grain, and a post; a prop along him, listening.
+
+He noticed it then.
+
+It did not come like a blow. It came as a person notices that a noise has stopped which he had long since left off hearing: a mill-wheel, or rain.
+
+He had never gone to that place under his breastbone without a tool. He had been forbidden, and the order was a good one. But he had always known where it was. He could not have helped knowing. It had a shape, as a stone has in the bed of a stream, which he knew by everything that parted on it. Twelve things went round it, and then thirteen. A healer's current had divided upon it like a river at a pier. For as long as he had been able to feel anything in himself at all, there had been the rest of him, and there had been that; and there had been a place where the one left off and the other began.
+
+It was not there.
+
+He looked for it. He did not turn anything upon it; he had no eyes left for that, and no wish. He only felt for it, as a man feels in the morning for the edge of the bed.
+
+There was no edge.
+
+The thirteen went round as they always had. But he could not find what they went round. It had not gone; he would have known that, as other people knew when a sigil went. It was only that the thing in him had a floor's stillness, and he was standing on a floor, and he could not have said where the one stopped. It did not stop at his skin. The floor did not stop at his boots.
+
+He put his palm flat upon his own breastbone, like a fool, and felt his heart going.
+
+There was no seam.
+
+He had been turned away from every made thing that he ever stood in front of. A plate had kept him waiting. A registry had found a word for him. A cord came up a stride short in his hand, and a brass rule lied by two hairs. He had thought for the whole of his life that he was a thing with the wrong edge on it, which went into nothing; and it had come to seem the plainest fact that he knew.
+
+He heard his own voice. He had not meant to speak.
+
+"Not the Quiet."
+
+It went out over the floor and did not come back.
+
+He knew what the quiet was. He had watched it take five people, and seven, at a stride. It took what was lit. It had never had anything of his to take, and it had taken nothing now; every one of the thirteen was whole.
+
+"Not a fragment."
+
+He had written that, in a log, a long while ago. It had not come from anybody. It had not poured, or stood itself up, or turned over, or lain down along him. It was older than the log in which he had first written it down.
+
+Those two had been the whole of the entry, and he had carried it so for the better part of two hundred days.
+
+"The same kind of made."
+
+He said it to a floor, and the floor did not know that it had been spoken to.
+
+He did not go past that. He had a healer's finding, and a tool's reading taken twice, and now this, which no instrument had given him. He had only stood here. He would not hang a meaning on it, in the dark, with his eyes still running. But he knew what it had been like.
+
+A girl had told a boy that a line was the last step of a stair, when there is one fewer than the foot expects. Cael had gone down that stair all his life. Every floor that he ever stood on had been a step short for him, or a step over; he had braced for it so long that he no longer felt himself brace.
+
+Here the foot arrived.
+
+That was all. It was a small thing. It was the loudest that had ever happened to him, and there was not a sound in it.
+
+He fit.
+
+It was not an accident. He knew that as he knew that the cut at the rim was not a crack in a rock. He did not know what it was instead.
+
+There was a step beyond that, and he felt where it lay. He left it lying.
+
+He stood there for as long as it takes to say a slip through twice. Then he turned round, and there was a red point on the western rim, very small, where eleven people had a fire.
+
+He walked to it, and counted.
+
+It came to five hundred and six.
+
+---
+
+They were where he had left them.
+
+He saw that from a long way off, as the red point grew, and shapes came up against it. Nobody had gone to a blanket: there were five at the first stump, standing; and a sixth a little apart, square, with her sleeves pushed up.
+
+He stepped over the cut.
+
+Lira did not move. She had not moved, he thought, since he told her to wait; she stood exactly where a stride had left her, with her arms hanging. She looked at his face, and at the tape, and at his face again.
+
+It was the healer who spoke.
+
+"You've been on your knees," said Oryn. "And you've been at the thing that bills your eyes. I can see both from here." She came the last three paces. "I told you last night to ask me again when you'd stood where you were going. You've stood. May I?"
+
+"Yes."
+
+"Then stand still. I'll not lay you down on this."
+
+She put her left hand behind his neck, and her right flat upon his breastbone. He shut his eyes, which were glad of it, and left every door as it stood. Behind them the folded thing lay where it had fallen, and he had nothing to hold down; it had been spent to the floor, as an old man had been in a stream-bed, and could not have turned if he had bidden it.
+
+Her current went out, and along, with the old hitch in it. He felt it come up his left side. He felt it reach the place, and part.
+
+It went round. She sent it by the left hand, and by the right, and it joined beyond, and came again, as a river had once gone round a pier under a grey bridge while he counted so that he need not look.
+
+She was not long.
+
+"The same finding," said Oryn.
+
+She took her hands away, and looked at him for the space of a breath, as she had looked at him across a cut in the last of the light. She did not ask him anything. She had given her terms at a mill; she mended what was brought to her, and he had brought her nothing.
+
+"Well?" said Lira.
+
+It was one word, and she had been holding it since a mill.
+
+He looked at her. She had pushed a book back against his chest, the night before, without opening it; and she had stood at this stump while he walked half a mile into a thing and half a mile out, and had not come one stride after him.
+
+He could not tell her here. He did not have it in a form that would go into a mouth. He had a hand laid on his own breastbone, in the dark, and a foot that arrived.
+
+"I'll tell you on the road," said Cael. "If there's road."
+
+Her eyes stayed on him. Then her chin came down, by the width of a finger. It was not a clerk's answer this time, and she seemed to know it.
+
+"Then give me something," said Brom. "I've stood here an hour with my arm in a rag, watching a boy get smaller. I'll not go to my blanket on nothing."
+
+So he gave them the count.
+
+"Five hundred and six," said Cael. "In. And five hundred and six out."
+
+"As I made it," said Karis, very low. She had her notebook open already.
+
+"There's nothing in the middle. You said that there wouldn't be. I'd not have known it for the middle if you hadn't given me the figure." He found that he could say that much, and that it was all true. "I stood there. Nothing happened. Nothing went, of mine. I'll put it in the book tonight."
+
+"Nothing," said Seln. He said it as he had once said it of a gap in some hills, and did not go on.
+
+The old man had been listening from his box. He had sat upon it since noon, when a healer told him to, and nobody had told him since that he might get down.
+
+[[TIER-B: "Twenty-nine tomorrow," / "Thirty's the month," — the packet sets the two lines directly after "gives them the count instead" and pins neither speaker. Staged here: at the western stump, after Cael's count of strides, with Vastin on his box and Oryn two paces off; the first reads as the old man's own count of his days (or as Cael's, who has kept it for him in the log) and the second as the healer's answer. The paragraph above and the one below stand for either — coordinator to supply protected text]]
+
+It was the only other count that anybody had left that night. Cael went to the fire with it, and sat down by turning onto his right side first, and took out his book.
+
+---
+
+Vastin did not get down from the box when the others went to the fire.
+
+He had been set there as a mark. It was a kind of posting, and it was the first that he had held since he left a seal in a tray; and he found that he had no wish to end it merely because the thing that it served was done. A round had been shut upon the foot of his stick, six hours since, by a girl walking heel to toe. He had felt the slip of ash touch the wood. Not many acts of his own life had been of such plain use to anybody.
+
+So he sat on in the dark, with both hands on the ash, and looked at a line.
+
+It was two fingers wide. He could see it by the light of the floor beyond, which had not gone out with the day, and which he did not pretend to understand; and the cut lay a pace from his boots, and ran away on either hand until it was lost.
+
+He had stood at a great many lines.
+
+He told them over, as an officer tells over his postings. There had been a sill of stone under a gate, on a river, which he had crossed four times with a seal and once without. There had been the walls of towns: three in a certain town, with a coat of another colour at each. There had been eleven floors where a thing was declared, and he had stood upon every one of them as the part which could not be gone round.
+
+And there had been the rings. He had stood at those oftenest of all. A child stepped into one, on the right day; and a man in grey stood by with a sheet, to write down what the child now was, and to put his name to it. He remembered a girl in a red cap. He remembered a boy who had laughed.
+
+He had told every one of them on which side of something they stood, and it had been his whole trade. He had been good at it, and scrupulous, and he had believed for the most of a long service that scruple was the same as justice.
+
+He had said what he had to say about that a few hours since, standing, in the hearing of nine people. He did not say it over. A thing that has been entered once is entered.
+
+But he looked at the cut.
+
+He had stepped across it at dusk. It had been one stride, upon a stick, with a leg that a healer had bound; and the thing that had stood beside his face since he was fourteen had gone out.
+
+It had been the second time. On the first, at a fence, he had thought for the length of a breath that he was dying; he had not known that a person could be so entirely by himself. He had looked at the place where it was not, and had found that he could still stand. This evening he had looked at that place again, and had found something that he had not had the leisure to notice before.
+
+There had been a man there. He was old, and he had a bad knee, and a coat too short in the sleeve. He was not an officer of anything. He had not ceased to be for want of the thing beside his face.
+
+It had come back, at the stride, to the grain, and he had been glad of it. He marked that he had not been so glad as the first time, and he did not yet know what to make of that.
+
+His mind went to the stream-bed, since it was bound to.
+
+He had been at more inquiries than he could number, and he held this one as he had held those, since he knew no other way. A wall had been asked for, by nobody; and he had offered it, by leave of the person entitled, and had raised it in the form that she allowed. It had taken three flights and the side of a hill, and had not let one pebble through. The rule for such a thing had been told, once, in two words, to four people, and had been answered. A boy had gone a stride beyond its edge, for a man who was down.
+
+No officer whom he had ever sat beside would have found a fault in the one who held that wall. He would have written the finding himself, in an afternoon, and gone to his dinner.
+
+He had written a great many such. He had never before understood that the man whom they cleared went on sitting in the stream-bed.
+
+*He was a stride from it.* He had said that aloud, by a heap of stones, and a small pale woman had told him only what was true. She had not told him that he was blameless. He was more obliged to her for that than he would ever find the form to say.
+
+A captain had put it better than either of them, kneeling, in one sentence. Vastin had heard it from where he lay. He had turned it over ever since, as he would have turned a ruling from a higher bench, and he could find nothing in it to appeal.
+
+---
+
+The fire had gone down to a red eye, and the court had not gone down at all.
+
+He considered what he was.
+
+It was a thing that he had not been obliged to consider for ten days, since a captain had stood at a bench and said a count of ten, and he had been one of six in it, for the purposes of that sheet. He had walked a stride behind a big man who was slow to answer, and had carried a tarred case, and it had been the first posting in some years that he understood.
+
+But it had been a contract, and its maker had been exact about that. He would not have it called more. It ran to the end of a line.
+
+This was the end of the line. A tall man had turned his spear at dusk. In the morning that captain would take his own home, past a heap of stones; and there would be no sheet anywhere in the country with an old man's stroke upon it.
+
+He would be nothing yet. A one-armed man had said so at a plank, on the first morning, in a ledger's voice, and it had been exact.
+
+He looked at that for some time, and found that he was not afraid of it. He had been afraid of it for three hundred miles.
+
+There was the case. It lay against the box, by his sound leg: a cord, and a mallet, and one stake that had never been driven. He had taken it up at a fork-stone, unasked, when nobody else had a hand for it; nobody had told him to, and nobody had taken it from him since.
+
+He would take it up in the morning, if they went, and walk a stride behind the big one. If anybody said that he was to set it down, he would set it down, and thank them for the loan of the road.
+
+He did not mean to ask them anything.
+
+He had not asked for the whole of his life; he had required, which was a different verb, and he had lately been taught the difference by a quiet man at a hatch. He did not know the form for asking, where there was no form. And he had seen, in a stream-bed, what it is to put a thing to a person so that he must answer it. A man had only looked, and a boy had gone.
+
+He would not look at the six of them so.
+
+They had a thing among them which he was not told, and he had known that since a spring. *It's six people's*, the boy had said, on a road, and Vastin had found it the most courteous refusal that he had ever been given. He did not guess at it. He had spent a working life guessing at what people kept, with a seal to make them show it, and he had come out here in part to leave off.
+
+He had watched that boy walk into the pale tonight until he could no longer be told from it. He had watched him come back, an hour later, with his arm held in against his side and his eyes running, and give a count of strides to five people who had asked for more.
+
+Vastin knew that face. He had worn it. It was the face of a clerk who has found the entry that he was sent for, and has decided, for reasons that are in his keeping, not to read it out.
+
+He did not grudge it. He had two seals of his own that he could have named.
+
+The old sentence began itself in him then, as it did whenever he was tired: the one about a man, and an apparatus. He had been stopped in it twice by a bound hand, and he found that he no longer needed the hand. He set it down unfinished, among the nine orders that he had not drafted on a shelf of shale, and it lay there quietly enough.
+
+Somebody was coming along the rim.
+
+It was a heavy tread, and unhurried. A blanket was put round his shoulders from behind, by one arm, with some trouble.
+
+"You've sat on that box since noon," said Brom.
+
+"I was posted to it."
+
+"The round shut six hours ago. I stood and watched it shut."
+
+"I am aware. Nobody has relieved me."
+
+The big man was silent for a breath. Vastin could hear him pricing it.
+
+"You're relieved," said Brom.
+
+"I am obliged to you."
+
+He got down. It took him three movements, and a thick forearm was there for the second of them, unasked, and was gone again before he could have qualified it. He took up the tarred case by its strap. He went along the rim to the fire, on the ash, at his own beat; and behind him the cut lay where it had been drawn, with nobody on either side of it.
+
+---
+
+## CHAPTER — editions/monroe-1.3/book-08-before-the-paths/manuscript/chapter-60.md
+
+# Chapter 60 — West
+
+He wrote the ledger by the fire, on the night of the three hundred and seventh day, with his eyes still sore.
+
+It was not a log. He kept a log for the day, and it took what the day had brought. This was the other form, which he had learned from an old man at Denvash: the whole of what a person holds, set down in order, with what is owed beneath it. He had written one at Lowmarch, when a river shut, and one in a loft under a town. He did not write one often; he wrote it when a thing was finished, and he wished to know what he had come out of it with.
+
+Karis had lent him her lamp. She sat across the fire with the hide rolled on her knees, and she was not reading; she was looking at the pale beyond the rim, as she had looked at it for most of an hour. Brom lay on his back, and Lira was a yard off, on her side, with her eyes open. On the far side of the fire three people and an old woman had lain down with their feet to the west. Nobody asked him what he put down.
+
+*Three hundred and seventh day, night. The rim of the fifth place. A hundred and twenty-three. Vastin: twenty-eight. Oryn is seven days past her cairn. Eleven of us tonight. At first light four go west, and one north.*
+
+He looked at that for a little, and then he wrote the inventory; and it came as such things did when they were ready, without a word struck out.
+
+*Thirteen: Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force. One anomaly, the still place, read by two instruments — the tenth, which says nothing, and the twelfth, which says a shape — and understood by neither. Not the Quiet. Not a fragment. The same kind of made. That is as far as the instruments go and I am not going past them.*
+
+He read it over, and it was true to the last stop.
+
+He had added three words to an entry that had stood unaltered since a session with a healer, on the far side of a cold term. They were not a finding. Karis would have told him so, and she would have been right, since no ruler had been laid on anything. They were only what he had said aloud on a floor, to nobody, with his palm on his own chest. He had put them down because he would not keep a book that left out the one thing which he had walked a year to say.
+
+There was more that he might have written, and he knew where on the leaf it would have gone, and he did not go there.
+
+He set down the counts.
+
+*Deployment since the Line: thirty-three, on the shale. The frame of the second heap, at the gap: thirty-four. The twelfth, turned on the floor at a hundred strides, on purpose: thirty-five. Myself, last night, with the twelfth: not counted. Oryn read me at the cut, asked first.*
+
+*Instruments, in my hand: a stride short in forty-two; a hair and a half; two. Karis has the entry. Ruling: hold.*
+
+Then the accounts, since a ledger that has no accounts in it is only a list.
+
+*Owed, in money: nothing. Owed otherwise, and entered side by side: to Vastin, the eleventh, which came while he held a wall for us in a stair. To Teague, the thirteenth, which came at a stride while I kept his left. Neither has been told. Neither can be until the whole of it can be, and the whole of it is six people's. I used the second of them yesterday over that captain's head, on a thing that would have killed him. It does not pay the debt. A debt is not paid by something that the creditor is not let to know.*
+
+He stopped there, with the pencil lifted.
+
+He had thought, on a shelf, with his forehead on the rock, that he had perhaps paid a little of it, and he had gone over that since. He would not have taken such a payment from another person; and Brom, who priced things, had told him behind a step of shale to pay when it could be paid, and not a day sooner, and not to ease his own back.
+
+He put down the last line. It was the one that he had walked to.
+
+*Stood in the middle of the first one. Nothing. Entered.*
+
+He shut the book.
+
+It said *nothing*, and that was exact, since nothing had lit, and nothing had gone out; he had not been spoken to, or shown anything, or changed. A person who read that line in a hundred days would learn precisely what had happened on that floor.
+
+He would not learn what it had been like. Cael had the words for that: he had a stair in the dark, and a foot that arrived. They were not an entry. They were what he would give to a girl, on a road, when there was a road.
+
+"It is done?" said Seln.
+
+He had come in from the dark without a sound, as he came in from any watch, and stood at the fire's edge with his hands empty.
+
+"It's done."
+
+"Then I shall add one thing to it, which you may enter or not. Those people have reached for us three times. They came up a stair under a town, and they stood to a pair of timbers at a fence, and yesterday they let a hill go." His voice was as mild as ever. "Each time they have gone away again, and each time they knew a little more than they had known. I have never once seen what any of them looks like. I do not think that the third was the last."
+
+"No," said Cael. "Nor do I."
+
+"I should have liked to tell you otherwise, tonight of all nights." He inclined his head, and went to find his blanket.
+
+---
+
+He wrote the letter afterward, on a leaf torn from the back of the book, since a captain would be at a ferry long before he was.
+
+It was to Hesk. He had not written to him since the last boat before the ice. He had sent a line by the first one after it to a boy who lost at staves, and none to the old man at Denvash. There had been nothing that he could say, since he had been walking toward a thing without knowing what it was, and Hesk did not care for letters that were all weather.
+
+He had the old man's two notes in the satchel, and he did not need to take them out. The first had come over a river with a strip of brass, and had told him his age, and a thing that his grandmother used to say about people who catalogue. The second had come up a hill to a hayloft, with a pair of dividers, and had told him what lines were for. The first had ended with three words about a shape, and he had carried those the length of a country.
+
+He thought for some time about how much to put.
+
+He could not put the floor. He could not put a leaf of skin, or thirteen of anything, in a letter that would lie in a bag on a landing and be carried by whoever was going; and Hesk would not have wanted it. Hesk had spent a good many years teaching him to say the true thing in the fewest words that would hold it, and to leave a careful man to work out the rest.
+
+So he wrote six sentences, and signed it with one letter, as the old man signed his.
+
+*Nineteen. Your grandmother's line was already drawn. I followed it to the end; both edges agreed. Tell Lira's family I said so. Mind the shape, you said. I'm minding it. — C.*
+
+He read it once. It was shorter than either of the notes that it answered, and he thought that the old man would turn it over to see whether there was more, and would find that there was not, and would be perfectly satisfied. Then he folded it small, and wrote *Hesk; Denvash* on the outside.
+
+Karis had been watching him.
+
+"Is that for the west?"
+
+"For a ferry. Teague'll have it in a bag at Lowmarch before we've seen a river."
+
+"Then I shall add nothing to it," she said. "I thought for a moment that I wanted to send a line of my own. I find that there is nobody to whom I could send it who would not want the paper as well; and I had sooner carry the paper there myself."
+
+"Fifty-two sheets."
+
+"Sixty-one. And a calfskin with five rings on it, and a line." She looked down at the roll on her knees. "I ruled that line off the edge of a hide, on a guess, with a strip of brass. I have stood at the end of it. I have been believed for twenty-three days, and I have not been wrong yet, and I am so tired that I could lie down on this rock and not get up."
+
+"Then lie down," said Brom, from his back. "It's what the rest of us are trying to do."
+
+She almost laughed. Cael heard it. Then she reached across and blew out the lamp, and there was only the red of the fire, and the pale beyond the rim, which needed no oil.
+
+He lay on his right side, since it was the only one that he had.
+
+The girl a yard off had not shut her eyes, and he could see the pale in them. She did not ask him anything; she had asked her one word at the cut, and had been answered, and she was keeping to it as she kept to a count. But after a while her hand came out across the rock, and found his sleeve, and took hold of a fold of it. She had done that once before, under a town, when he could not see.
+
+He let her keep it.
+
+Across the dead side of the fire somebody had got up. It was the tall man. He had a cup of his own on the embers, and a strip of linen, and he wrung the one out of the other with his big chapped hands, a little less hard than he had the night before; and he carried it on both palms to where a captain lay with his arm along a slat. Cael did not watch the rest. But he marked that there had been a second night of it, and he thought that there would be a third.
+
+He did not sleep much. He lay and listened to ten people breathing, and a mule, and tried to tell them apart; and he found that he kept counting on to eleven, and that the count would not close.
+
+Toward morning the floor began to go grey. It did not fade. The day came up round it, slowly, until there was as much light in the sky as in the stone, and then more; and it lay there in the sun as it had lain the noon before, level and bare, a thing in a plain.
+
+---
+
+Teague's crew were lashed before the light was fairly up.
+
+There was not much to lash. A tall man had a pack and a spear. A broad man had a stick, and a shoulder bound across his chest, and nothing on his back; and the lean old woman had her board, and her staff, and whatever she kept inside her coat. They stood on the western side of a dead fire with their faces toward a ridge.
+
+Brom went across to them first, since he had the contract by heart.
+
+"What a thing cost was to be carried the same," he said to the captain. "So far as a cost can be. That was the second head, at Pike's bench. I'd not say that it was."
+
+"No," said Teague. "It wasn't."
+
+"I carried a pack. It's all I had to put against it."
+
+"I saw what you carried, and I saw what you took in the arm setting an old man down." The grey eyes went over him once. "A count can't do that part. I knew it when I made the count. I'd not have you think that I hold you short."
+
+Brom nodded, slowly, and went and stood by his box.
+
+The broad man had come a little way from the others, on his pine.
+
+He stopped in front of the old man, who was sitting upon a box with the ash across his knees. They had sat side by side at one fire, those two, like a pair of gateposts set too close; they had walked at the tail of the same file for two days, and had stopped within a breath of one another at every halt, and had never once turned their heads. The broad man looked down at a bound knee. The old man looked up at a bound shoulder.
+
+Vastin inclined his head, by about the width of a finger.
+
+"Aye," said the bow.
+
+He turned on his stick, and went back to his own. It was the only word that Cael had ever heard him give to any of them, and he did not think that it had once been wasted.
+
+The captain came to Cael then.
+
+He came by himself, with the right arm on its slat and the left thumb in his belt, and stopped a stride off. He looked as he had looked on a shelf of shale, with a hill behind him; except that something had gone from the heavy face two days ago, in a stream-bed, and had not come back.
+
+Cael held out the letter.
+
+"It's for the bag at the landing. To Denvash."
+
+"I'll put it into Pike's hand." Teague took it left-handed, and turned it over once, and read the outside, and put it inside his coat. "He'll ask me what was at the end of his bearing. He's two columns empty in that book."
+
+"What'll you tell him?"
+
+"That it was read right, and that it's a floor. That my crew stood at the edge of it, and that I'm one short." He said that last without any change of voice. "He'll want a price for the line, and I've none to give him. He's never yet written a thing down without one."
+
+"He left the season line empty once. On purpose."
+
+"So he did." The eyes rested on him. "You kept my left, at a fence. I told you so. I'll tell you the rest, since I'll not see you for a good while. You said three things to me behind a brow, and I said one word. I thought that I was humouring a boy. I've kept it twice now, and the second time it was the hardest thing that I was ever asked. I'd keep it again."
+
+Cael could not find an answer to that. He had a thing lying along him from the heel to the palm, which belonged to this man, and which had cracked two ribs for him the day before yesterday; and he stood and was thanked for a doctrine.
+
+[[TIER-B: Teague's departure — "The thaw's past," / "Noted," / "After the next thaw." … "Whatever's on the next line. My crew comes." — Tier A 22 heads the unit "Teague:" but does not say which of the first two lines is his and which the answer, and it elides between "After the next thaw." and "Whatever's on the next line." Staged here: dawn of the 308th at the western side of the fire, Teague a stride from Cael with the letter already in his coat, his three standing behind him; the term that he set at Lowmarch ("After the thaw. Whatever's on that bearing. My crew comes.") has been kept, and this is its successor. Nothing of mine stands between his last speech above and this unit; the paragraph below has him go — coordinator to supply protected text]]
+
+No hand was offered. None had been offered at a bench, either, and Cael had learned since what that man meant by it.
+
+But the tall man had been looking at him. He stood behind his captain's right shoulder, with seven feet of ash in his fist; and when Cael's eyes came to him, he lifted the pole's butt a hand from the rock, and grounded it, once.
+
+He had done that in a yard for every touch that was fairly taken, and Cael had earned exactly one of those from him in a whole cold term.
+
+Then Teague turned his head, and looked at his own.
+
+Cael saw the eyes go from one to the next, as they had gone on the lip of a ravine and beside a heap of stones: the tall man, and the broad man on his stick, and the old woman, who was on nobody's count. He saw the lips begin.
+
+The captain did not say the number. He lifted two fingers.
+
+They went west across the worn rock, toward a ridge with one notch in it, and a gap, and what stood at its mouth. The tall man went in front. The broad man and the old woman came after, at the pace of a pine stick; and behind them all, last, where a bow had always walked, there went a captain with one arm.
+
+Nobody at the rim spoke until they were small.
+
+---
+
+The healer had the mule unloaded by then.
+
+She had done it herself. Three boxes stood in a row upon the rock, with the flat on top of them and the sack of meal beside, and there was only a pannier left upon that brown back, and a roll of canvas.
+
+"Low side first," said Oryn, to nobody. "She's forgotten what it is to have her own spine."
+
+It was the eighth day since she had stood at a cairn. Cael did not say so, since she knew it better than his book did.
+
+She went along them, before she would get up, as she had gone along six people at a fork-stone. She looked under the linen on Brom's forearm, having asked, and told him that he was to keep it out of the wet and that the colours on his chest were coming on nicely. She took Karis's left hand, by her leave, and turned it to the light. She told Lira nothing whatever, since there was nothing that wanted telling, and Lira said that she had noticed.
+
+She stood for a good while in front of the old man.
+
+"Knee," she said. "May I?"
+
+"Yes," said Vastin.
+
+Her two hands went round the linen, above the laths and below. It did not take her long.
+
+"It's sound, and it's a day from done. You'll keep the stick for that day, and you'll keep the laths, and after it you'll take them off yourself and walk on it as if you'd never met me." She let go. "You asked me fairly for something, at a shale step, and I've not forgotten that you asked. Most people break a thing first and tell me afterward."
+
+"I had tried that method," said Vastin, "and I did not find that it answered."
+
+Something happened at the corner of her mouth, and went.
+
+She came to Cael last. She did not ask to read him, since she had done that at the cut, in the dark, and had her finding. She looked at the tape through his shirt, and at the box which stood nearest to his feet.
+
+He had a folded paper in Hesk's book. A girl had offered it to this woman at a mill, in so many words, and had been told where it might be said. There had been a great deal of road since, and he had not once found the mile for it; there had been a fence, and a gap, and a heap of stones.
+
+He had not laid it across her finding, and he would not. But it had walked out of an archive, and she had asked at a fork for whatever did.
+
+"There's a leaf," he said. "You said on the road. There was road, and I never told you. When will you hear it?"
+
+[[TIER-B: Oryn's departure — "The day I have to." / "Noted," / "Everybody says that." … "They'll carry. They'll hurt," … "After the thaw: bring the map, and lie still when I say." — Tier A 22 heads the unit "Oryn:" and elides twice; the "Noted," between her first and third lines is not pinned. Staged here: dawn of the 308th at the rim, the mule unloaded, three boxes on the rock at Cael's feet; her first line answers his question above about the leaf (she has still not heard it); "Noted," reads as his; "They'll carry. They'll hurt," is said of his ribs with her eyes on the box that he must take up; the last line is her term, as in her letter. If "The day I have to." answers something else, my question above wants turning. The paragraph below has her go — coordinator to supply protected text]]
+
+She got up onto the mule.
+
+Cael had never seen her ride. She did it from a box, heavily, with a grunt, and sat sideways with her feet hanging and the rope in her fist, like a woman on a wall; and the mule, which had carried a researcher's whole archive across a country without complaint, laid back both ears at a healer.
+
+"She's carried worse," said Oryn.
+
+She had asked a captain, the night before, what lay to the north on this side of the ridge. He had told her what three carters once told him: that there was a salt road, two days up, which went over. Beyond that were three gates that had been promised a week, or more.
+
+She turned the brown head toward it.
+
+She did not look back, as she had not looked back at a fork-stone. Cael watched her go along the rim of the court, and past the third stump, and out onto the plain, until there was only a small square shape above four legs, going steadily north.
+
+Brom had put his hand to the lashing of his box. There was a bowl under it, of the mill's turning, which he had carried empty from a fork to a town and back.
+
+"I'll lay it," he said. "I always did."
+
+"There's her place, then," said Lira, very low.
+
+She had named a chair at a mill, for a woman who would not be counted, and who had sat down in it on her own terms. She did not say this to anybody. She was watching a brown speck on a plain.
+
+---
+
+So there were three boxes on the rock, and nothing with hooves to put them on.
+
+Brom laid his palm on the heaviest. He tried its weight with the one arm, and left it standing for the moment, and looked at the other two.
+
+"Give me that," said Lira.
+
+She had the second by its beckets before Cael could bend. She slung it on her back, with both her arms through, as she had carried it down a border road.
+
+"And that's mine," he said.
+
+"You've two cracked ribs."
+
+"She said that they'd carry."
+
+"She said that they'd hurt."
+
+"She said both." He got the third up, and it was the reserve's box, which was the lightest; and they did hurt, in two straight lines, and they carried. "I'm entering that you were told."
+
+"Enter what you like."
+
+Karis had the courier's flat on her back, and the hide under her arm, and her notebook in her coat. She had gone to the cut once more, by herself, when the light came, and had stood there for some time with her bound hand held a little out from her, as though she would have liked to lay it on something; and she did not say what she had looked at.
+
+The old man had got up from the place where he slept.
+
+He did it in three movements. He stood for a breath upon the ash, with the bound leg a little forward; and then he bent, stiffly, from the hips, and took up a tarred case by its strap. It had a cord in it which had been round the oldest thing in the country, and a mallet, and one stake that had never been driven.
+
+Nobody had told him to. Nobody told him not to.
+
+He slung it above his sound leg, and came across the rock, at his own beat, and stopped a stride behind a big man with a box, where he had stood since a ford. He looked at nobody. He had asked nothing of any of them, that morning or on any other, and nobody had asked a thing of him.
+
+Cael saw Brom's head turn, by the width of a finger, and turn back.
+
+Seln had been out along the worn rock since before the fire was dead. He came in now from the west, small and grey, with his hands empty, and he gave his report as he gave any.
+
+"Six. Six and no mule. Nothing behind. Nothing beside."
+
+Cael looked at them. There was a quiet man, and a girl with a box on her back, and a big one with his arm in linen. There was a small pale woman who had been right, and an old man on a stick, with a surveyor's case. He made the sixth himself.
+
+It was not the six that he had counted at a board in a ferry town, and he did not pretend that it was. One of those had gone north an hour since, on a mule. One of these had come over a river alone, and had asked for a bed, and for nothing else since. But it was the six that a quiet man had found on that rock when he came in to count; and Cael, who had never yet mended one of Seln's figures, did not begin with this one.
+
+He looked once more at the court.
+
+It lay in the morning as it had lain for longer than anybody had a figure for. There was nobody on it. Eleven small stumps stood along its rim, and a cut ran round it that a hand had made, and from the place where he stood to the middle of it was five hundred and six strides.
+
+"West," Cael said.
+
+"West," said Brom, and picked up the box.
+
+They went. He did not write any of it, that day or the next. But he had it as it had come to him the night before, on the way out, with a count running in his head and a red point growing on the rim; and he carried it west with him in that form.
+
+He had spent the whole year learning that the world was built to prevent him — four hundred years of tiers and registries and a machine that lit for everyone but him, all of it laid down so that what he was would never come again. And at the center of the first place they ever made, the oldest silence on the continent, the one built before there was a word for it, he had felt no exclusion and no prevention and no wall. He had felt at home. He did not have a word for that yet. But he knew, now, walking back out across a floor older than the system that had expelled him, that it was not an accident — that the place built to end him was the one place he fit — and that the difference between *the system was built to exclude me* and *the system was built to prevent me* had a third sentence past it, waiting, that he was not ready to write. Someone had made the pattern. He was, he was beginning to understand, the pattern. That was as far as he could say.
+
+---
+
+## FORMULA ALIGNMENT — EDITORIAL, NOT BLIND
+
+# O'Connor 1.3.0 — numerical author formula
+
+# Applying the owner's numerical craft formula
+
+The owner explicitly selected
+`/Users/drive/penname/research/ironprince-craft-formula.md` to govern this book.
+Use its craft instructions more or less exactly, including the numbers. These
+are active design targets for the planning model and Opus/Fable author, not merely
+editorial observations. The compiler embeds sections 2–6 and 8–9 verbatim below
+these instructions and records the source hash so runs can be compared.
+
+Let the sentence-length distribution, short/long sentence shares, paragraph
+rhythm and Flesch reading targets influence the actual prose. Let the POV shares,
+front-loaded progression vocabulary and distributed character-development rates
+influence how the book is built. Preserve section 8's secondary/use-to-taste
+status; do not turn its explicitly excluded filler/repetition tics into quotas.
+
+Write original scenes in open-range movements of six or more chapters. The formula constrains the intended
+shape and cadence; the author still chooses conversations, tactics, discoveries
+and how events unfold. Do not reduce this brief to “clear writing with progression.”
+The owner names the cast. No source novel quotations, character substitutions or
+scene-by-scene replication belong in the manuscript.
+
+Aim at the supplied distributions across a movement and the cumulative book.
+Book-third teaching proportions and book-level POV proportions need not be met
+independently by each chapter. Do not stop after each sentence or chapter to run a
+gate. Write the full movement, then compare target versus observed results in the
+existing editorial pass and make a focused same-author repair for material drift.
+Do not silently broaden tolerances or drop inconvenient targets.
+
+Keep the source's own caveats: pause-derived paragraph/scene measures are
+directional proxies, and development counts are heuristic. Their adoption as
+design targets does not establish that they accurately measure the printed book.
+The full source-book audit remains unfinished. Keep source values such as ~1.7x
+and ~950 words unchanged; the known arithmetic/denominator questions belong in
+the audit, not a silent rewrite of the owner's chosen prompt. If competing targets
+cannot be reconciled, report the conflict rather than fabricating a passing score.
+
+This prompt guides output; it does not train model weights or guarantee exact
+statistical compliance. Compliance must be measured after prose exists.
+
+Source: /Users/drive/penname/research/ironprince-craft-formula.md
+Source SHA-256: 9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8
+
+The following craft sections (2–6, 8–9) are included verbatim. Sections 1 and 7's legal discussion is not drafting guidance. Use original names, world, systems, events and phrasing; the owner names the cast.
+
+## 2. Sentence rhythm
+
+| Metric | Target |
+|---|---|
+| Mean sentence length | 14.6 words |
+| Median sentence length | 11 words |
+| Spread (population stdev) | ~26 words — wide, meaning short declaratives sit right next to long compound-complex sentences, not clustered near the mean |
+| Share of very short sentences (≤5 words) | 27.7% |
+| Share of very long sentences (≥40 words) | 3.3% |
+
+**Read:** roughly 1 sentence in 4 is a hard, short beat (often a single clause landing a
+punch after a longer setup) — this is the "short sentence for impact" technique, not
+uniform mid-length prose. Target this ratio, not just the mean; a manuscript that hits mean
+14.6 but has no short-sentence spikes will not read the same.
+
+## 3. Paragraph and scene rhythm (ASR-inferred proxy)
+
+Whisper transcripts carry no typographic paragraph marks — this section is inferred from
+pause gaps between narrated speech segments, not a count of the print manuscript's actual
+paragraph breaks. Treat as directional, not exact.
+
+| Metric | Target |
+|---|---|
+| Inferred paragraph length (pause ≥0.6s) | median 18 words, mean 26.8 words — short, frequent beats |
+| Inferred scene/section length (pause ≥1.6s) | mean ~950 words between scene-level breaks, ~8.7 scene breaks per 10k words |
+
+**Read:** short paragraphs are the default texture, with scenes running roughly 900–1000
+words before a beat change (POV settle, location change, or time-skip). Avoid long
+unbroken expository blocks; break early and often.
+
+## 4. Progression-mechanic ("change frequency") callout rate
+
+| Metric | Target |
+|---|---|
+| Progression/stat-vocabulary density | ~58 hits per 10k words (rank, growth-analog, spec, level-up, stat-block language) |
+| Placement | front-loaded — the opening third of the book carries roughly 1.7x the progression-callout density of the middle and closing thirds (900 vs. 471 vs. 514 hits, by third) |
+
+**Read:** the system gets *established* early and hard, then recedes into the background
+as character and plot take over — it does not stay evenly dense through the whole book.
+Build your own progression system's vocabulary (do not reuse his axis names — see §7), but
+match this front-loaded shape: teach the mechanic aggressively in the first third, then let
+it surface only at genuine turning points afterward.
+
+## 5. Character-development beat cadence
+
+Methodology: named-character mention within ~120 characters of a reflection/interiority
+marker ("realized," "decided," "for the first time," "swore," "no longer," etc.) — a
+heuristic count, not a scene-by-scene read.
+
+| Metric | Target |
+|---|---|
+| Protagonist development-moment rate | 4.5 per 10k words |
+| Protagonist distribution across thirds | roughly even (41 / 56 / 50 — a slight middle-third bump, not backloaded) |
+| Supporting-cast development-moment rate | an order of magnitude lower per character (0.1–0.7 per 10k words each), spread across 8–10 named characters rather than concentrated in one deuteragonist |
+
+**Read:** growth beats for the lead land steadily throughout, not saved up for a finale —
+and the supporting cast gets *many* small beats each rather than one character getting a
+big secondary arc. If your story gives one best-friend character 80% of the secondary
+development budget, that's a different shape than this book's.
+
+## 6. POV structure
+
+| Metric | Target |
+|---|---|
+| Protagonist POV share | ~87% of chapter-word-volume (combining his given-name and surname references) |
+| Secondary-character POV/focus share | ~13%, spread across 4–5 named characters at 2.5–3.7% each — brief cutaways, not sustained alternating-POV chapters |
+
+**Read:** this is single-POV-dominant with occasional short cutaway scenes to a handful of
+other named characters, not a true multi-POV structure. If you want to signal "feels like
+Iron Prince," don't build alternating-chapter dual POV — keep the lead's POV overwhelming
+and let other characters get glimpses, not chapters.
+
+## 8. Supporting craft signals (secondary, use to taste)
+
+- **Filler-word discipline:** "that" runs hot (92.1 per 10k words) — a known, common genre
+  tic, not a target to imitate; if anything, tighten below this. Other fillers ("just,"
+  "almost," "felt," "seemed") sit in the 5–25-per-10k band — moderate, not aggressively
+  self-edited, not sloppy either.
+- **Adverb density:** ~161 -ly adverbs per 10k words — fairly high; this is a book that
+  lets adverbs carry tone rather than insisting on pure show-don't-tell. Not a craft flaw
+  to correct, a genre-register signal to optionally match.
+- **Dialogue-tag (reporting-verb) density:** ~41 per 10k words — moderate dialogue presence,
+  consistent with an action/interiority-forward book rather than a dialogue-driven one.
+- **Combat-vocabulary density:** ~22 per 10k words (strike/block/dodge/blade/impact/etc.) —
+  present throughout, not just in set-piece fight chapters.
+- **Readability:** Flesch Reading Ease 72.3, Flesch-Kincaid grade 6.8 — accessible YA/adult
+  crossover register, short-to-medium sentence construction, low jargon-density outside the
+  progression-vocabulary spikes.
+- **Repetition discipline:** common connective 3-grams ("out of the," "one of the," "for a
+  moment") sit at 2–4 per 10k words — normal English-prose background rate, not a
+  distinctive tic to replicate. Don't chase these; they're noise, not signature.
+
+---
+
+## 9. One-paragraph brief for the drafting agent
+
+> Write single-POV-dominant (~85–90% lead-character screen time), short-paragraph,
+> pause-heavy prose (median paragraph ~18 words, scenes breaking roughly every 900–1000
+> words). Mix short punch sentences (~28% of all sentences ≤5 words) against longer
+> compound-complex ones (mean 14.6 words, wide spread) rather than settling into uniform
+> mid-length sentences. Establish your progression system hard and often in the first
+> third of the book, then let it recede to occasional high-stakes surfacing afterward. Land
+> a protagonist growth/realization beat roughly every 2,200 words, spread evenly across the
+> book rather than saved for the climax, and give 8–10 supporting characters small
+> development beats each rather than concentrating growth in one deuteragonist. Moderate
+> dialogue-tag and adverb use; accessible ~7th-grade reading level; combat vocabulary
+> present in the background throughout, not confined to fight scenes. Every name, every
+> system-label, every scene: yours, invented, original.
+
+
+---
+
+## NUMERICAL REVIEW
+
+# Numerical formula alignment — after the movement
+
+This is an informed editorial pass, not a blind cold read. Read the supplied
+formula and full movement, then report target, observed result, method, coverage
+and uncertainty. Keep numerical alignment separate from reader scores.
+
+- Sentence mean, median, population standard deviation; shares ≤5 and ≥40 words.
+- Written paragraph mean/median and actual scene/section boundaries. Compare with
+  the requested targets, but do not equate typography with ASR pause segmentation.
+- Flesch Reading Ease and Flesch-Kincaid grade. Identify the sentence tokenizer and
+  syllable estimator; proper names/system terms can affect estimates.
+- Progression vocabulary hits per 10,000 words, and placement by equal word-count
+  book thirds once available. Define a project-specific lexicon before counting;
+  do not borrow the source novel's names. An incomplete book cannot confirm the
+  full front-loading ratio. Report provisional cumulative coverage instead.
+- Lead development moments and supporting-cast distribution: cite actual choices
+  or realizations and distinguish manually identified beats from regex proxies.
+- POV word share: identify viewpoint segments, not the most frequently mentioned
+  name. Track the lead and secondary viewpoints against the book-level allocation.
+- Secondary signals: -ly words, reporting verbs, combat terms, fillers and repeated
+  phrases. Publish lexicons and counting definitions. A suffix count is not proof
+  that every matched word is an adverb. Preserve optional/non-target distinctions.
+
+Use reproducible counts when tooling exists. Otherwise mark a metric UNMEASURED;
+never estimate a precise score by intuition. Save the method or command with the
+report so later runs use the same definitions. Inspect ASR reference limitations
+without discarding the owner's chosen drafting targets.
+
+Locate meaningful departures, especially uniform sentence lengths, missing short
+beats, reading level drift, dense paragraphs, late teaching or a coequal second
+lead replacing the requested POV shape. Consolidate the most important repairs
+with continuity findings into the existing bounded author repair. Protect exact
+owner text and successful scenes. Do not iterate indefinitely to hit decimals or
+hide irreconcilable targets. Bring consequential formula conflicts to the owner.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/EDITION_BRIEF.md
+
+# The Fractured Path — Monroe Jackson 1.3 edition (O'Connor 1.3 seat)
+
+Owner direction, 2026-10-01: rewrite the whole Fractured Path series through the
+O'Connor 1.3 seat on the Monroe Jackson 1.3 foundation, with Claude Opus 5.5 as the
+manuscript author, at about 300,000 words per book. When a book is complete, render
+every chapter through Breeze and publish it as a new edition. The current edition
+stays exactly as it is; this edition is new and recoverable.
+
+Public byline: Monroe Jackson. Seat: `oconnor` 1.3.0. Foundation: Monroe Jackson 1.3.0.
+Requested author: Opus (Claude Opus 5.5). Coordinator: this orchestrator session.
+Review seat: Sol (gpt-5.6-sol via `codex exec`) — a different model family from the author.
+
+## What "rewrite" means here
+
+This is a retelling at full length, not a copy-edit. The prose is new. The story is the
+same series.
+
+**Keep (canon — binding):**
+- Every book's spine: the major events, their order and outcomes, who lives and dies,
+  the ending state, ages, the calendar where later books depend on it.
+- Cael's fragment acquisitions — which fragment, in which book, under what engagement —
+  and the counts at each book's close. The system notice texts that later books quote.
+- The SECRET reveal schedule in `universe/CANON_RULES.md` and every reserved truth. A
+  rewrite may plant more; it may never disclose earlier than the schedule.
+- The universe rules, costs and limits in `universe/UNIVERSE_BIBLE.md`.
+- Relationships and their turning points as the existing books establish them.
+- Lines a later book quotes or calls back (log entries, notices, signature exchanges).
+  The book planner lists these as protected wording.
+
+**Change (the point of the edition):**
+- Length: about 300,000 words per book (owner). The existing books are 100–125k. The
+  extra ~190k comes from: developed fights given room (1,500–2,500+ words when the
+  changing problem earns it); learning encounters and training that show effort turning
+  into capability; events the current edition summarizes, put on the page; supporting
+  cast given private wants, independent decisions and arcs across the formula's 8–10
+  person cast; humor and warmth between people; brief POV cutaways; new episodes that
+  fit canon and do not alter any book's end state.
+- Shape: open-range movements of six or more chapters, one compact brief per movement,
+  no per-chapter cards or per-chapter gates. Roughly 55–65 chapters of ~5,000 words per
+  book in 7–9 movements; the author owns chapter boundaries.
+- Rhythm: the owner-selected numerical formula (compiled into every prompt). Baseline
+  of the current edition, measured by `tools/formula_metrics.py`: sentence mean ~17.5
+  (target 14.6), paragraph median ~44 words (target ~18), Flesch RE ~67 (target 72.3),
+  FK grade ~8.3 (target 6.8). The edition should move toward the targets.
+- POV: about 87% Cael, about 13% brief purposeful cutaways spread over 4–5 named
+  characters. Cutaways may never reveal what a reserved-truth boundary withholds.
+
+## Non-negotiable
+
+- **Reader Standard (Gate 27, owner):** written for a thirteen-year-old. Clean language
+  (no profanity, obscenity, crude slang or blasphemy, including "damn", "hell" as an
+  oath, "bastard" and softer cousins); moral goodness (honesty, courage, loyalty,
+  restraint, care for the weak, at a cost; wrong named as wrong; cruelty never
+  rewarded); violence with cost, fear and consequence and no gore; no sexual content
+  or innuendo. Outranks every voice preference. See `craft/VOICE_CHARTER.md` end section.
+- **Names:** keep every existing canon name. The registry's flagged collisions
+  (Vell/Velmere, the -vane cluster, Wray/Greyvane, Bracken/Brom) are the owner's call
+  and are NOT renamed in this edition. New minor characters the expansion needs may be
+  named by the planner, screened by ear against `craft/NAME_REGISTRY.md`, and listed
+  under "Names pending owner approval" in the book map. Never invent a name for an
+  existing canon role.
+- **Audio-first:** this ships as an audiobook. Clear referents, clear attribution,
+  names distinct by ear, punctuation that exposes meaning.
+
+## Where things live
+
+- Canon (read-only for this edition): `universe/UNIVERSE_BIBLE.md`,
+  `universe/CANON_RULES.md`, `universe/STATE_LEDGER.md`, `craft/NAME_REGISTRY.md`,
+  `craft/VOICE_CHARTER.md`, `series/THE_FRACTURED_PATH_SERIES.md`.
+- Source edition (the story being retold): `books/<book>/CHAPTER_ARCHITECTURE.md` and
+  `books/<book>/chapters/chapter-NN.md`. Read them for events, not for sentences.
+- This edition: `editions/monroe-1.3/<book>/` — `BOOK_MAP.md`, `STATE_LEDGER.md`,
+  `packets/MOVEMENT-NNN.md`, `manuscript/chapter-NN.md`, `state/movement-NNN/`.
+- Series-level edition maps: `editions/monroe-1.3/SERIES_MAP.md`, `CHARACTERS.md`.
+- Metrics: `python3 editions/monroe-1.3/tools/formula_metrics.py <chapters...>`.
+
+## Rhythm calibration (measured, 2026-10-01)
+
+Book 1 Movement 1 — the first movement drafted from this brief — overshot the formula in
+the short direction: sentence mean 8.8 words (target 14.6), 41% of sentences at five
+words or fewer (target ~28%), 0.3% at forty-plus (target ~3.3%), Flesch-Kincaid grade 2.8
+(target 6.8), about 106 dialogue tags per 10k words (target ~41). Paragraph median (15)
+and scene spacing were close. So, when drafting:
+
+- Let thought, action and description run in full, well-built sentences. Compound and
+  complex sentences with a clear hierarchy are the house texture, not the exception.
+- Join a run of three or four clipped statements into one sentence when they are one thought.
+- Keep short sentences for beats that land — a recognition, a hit, a turn — not as default.
+- Give each chapter a few deliberately long, readable sentences (forty words or more)
+  where an action or a thought earns the length.
+- Drop "he said" / "she said" when the paragraph already makes the speaker clear.
+- Keep short paragraphs (median ~18 words) and scene breaks about every 950 words.
+
+## No scripted prose surgery (2026-10-01)
+
+Rhythm and length repairs are done by reading, sentence by sentence, never by a script that
+splits sentences or paragraphs at clause or sentence boundaries. Two repairs did that and
+each needed a recheck to find the splits that broke a thought. Where the formula and a
+character's speech disagree, keep the speech: one-to-three-word dialogue lines and the short
+landing beats of a fight are not drift to be repaired.
+
+## Working ranges and accepted drift (coordinator, 2026-10-01, after five repairs)
+
+Five movement repairs show three of the formula's numbers pulling against the brief's other
+asks (full sentences as house texture, speech kept as people speak, paragraphs broken where the
+thought turns). Repairs that chase one of them push another out. So, until the owner rules
+otherwise, these are the working ranges a movement is held to, and repairs aim at them — not at
+the decimals:
+
+| Measure | Formula target | Working range | Why |
+|---|---|---|---|
+| Sentence mean | 14.6 | 13–15.5 | primary target — keep |
+| ≥40-word share | 3.3% | 2.5–4.5% | primary target — keep |
+| Words per scene | ~950 | 850–1,050 | primary target — keep |
+| ≤5-word share | 27.7% | up to ~34% | dialogue-heavy movements; short speech is kept |
+| Paragraph median | ~18 | up to ~30 | the 18 is an ASR pause proxy, not print; long cutaways run longer |
+| Flesch-Kincaid grade | 6.8 | 3.5–6 | clear short words; the syllable estimator is approximate |
+
+Measured drift outside a working range is reported in the movement's review; a repair is for
+the primary three and for concrete defects.
+
+## Source-reuse gate tightened to 8 words (coordinator, 2026-10-02)
+
+The 10-word gate let distinctive source phrasing through in 6–9-word fragments (the first
+movement's opening line, for example, echoed the current edition's). Measured at 8 words, movements
+written after authors began self-checking run 1–6 shared runs per 10k; the worst ran ~30. From now
+on `ed.sh overlap` and every editorial review use runs of **8 or more** words. Every listed run that
+BOOK_MAP does not protect is rewritten — re-composed, not a synonym swapped. Names, Path names,
+ranks and plain facts of canon will sometimes share a short run; re-compose the sentence around them.
+Movements closed under the 10-word gate get one book-level 8-word sweep at book completion.
+
+## Draft from your own event list, not from the source page (coordinator, 2026-10-02)
+
+Book 3 Movement 6's review found the retold scenes in ch42–44 to be close paraphrase: 23–32% of
+sentences followed a source sentence word for word in order, with words varied enough to pass the
+8-word gate. Everything the author invented was clean. The cause is drafting with the source open.
+So, for every movement:
+
+1. Read the source chapters the packet names, once, for what happens and who these people are.
+2. Close them. Write a private event list in your own words — what happens, in what order, who
+   wants what, what changes. Keep it in your working notes, not in the manuscript.
+3. Draft from that list and the book map. Do not reopen the source chapters while drafting.
+   Choose your own entry point into each scene and your own order of beats; the source's scene
+   shape is not canon, only its events are.
+4. Only protected wording (BOOK_MAP) is copied, exactly, from the map — not from the source page.
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-08-before-the-paths/BOOK_MAP.md
+
+# BOOK MAP — The Fractured Path, Book 8: Before the Paths (Monroe Jackson 1.3 edition)
+
+Seat: O'Connor 1.3.0 (`oconnor`), foundation Monroe Jackson 1.3.0. Public byline: Monroe Jackson.
+Planning seat model: Claude Opus 5.5 (`claude-opus-5-5`), as reported by the runtime. Requested manuscript author: Opus.
+Plan date: 2026-10-01. Status: PLAN ONLY. No manuscript prose exists for this edition.
+
+Historical planning sources: `books/book-08-before-the-paths/chapters/chapter-01.md` … `chapter-24.md` and the associated architecture/rulings. Those source chapters were used by the planner and are reviewer-only under the no-source method. Monroe 1.3 canon is the edition manuscript and CLOSED ledgers. Book 8 entry canon is the CLOSED Book 7 manuscript, especially edition chapters 45–60, and Book 7 `STATE_LEDGER.md` AFTER MOVEMENT 7 and 8. The seam forward remains the series bible's Book 9 entry (§15). [B7-reconciled 2026-10-11: amendment 3]
+
+**Shape at a glance:** 9 movements · 60 chapters · 300,000 words · average 5,000 words per chapter · largest movement 36,000 words.
+
+**Book promise (series bible):** make the reader feel the weight of history: the present is built on something that was deliberately buried.
+**Internal arc:** *the system was built to exclude me* → *the system was built specifically to prevent me* → at the oldest centre, *he fit*. The third sentence past those two stays unwritten.
+**The title:** "Before the Paths" names two things. It is the era before the classification existed, when the un-bound walked in the land. It is also the book's argument: everything in Valdris was laid on top of a buried thing by someone who wanted it to stay buried. The book's image is a Compact registry built on the roof of a pre-Compact quarry it has never read.
+
+---
+
+## 1. Entry state and ending state (binding)
+
+### Entry (Book 7 close; source Ch1 opens on the hundred and thirty-first day past the Line)
+
+- **When/where:** Lowmarch, the hundred and thirty-first morning, after the Book 7 hearth scene at the lower inn. The first snow fell on day 129; the last ferry crossed and its lines were taken in on day 130; Oryn's letter arrived through a hand's depth of snow on day 131. Book 8 continues later that morning. The Book 8 count remains day 131 to day 308. [B7-reconciled 2026-10-11: amendment 4]
+- **Cael:** nineteen. **There is no birthday in this book.** His own Arbiter woke at Kindling, its plate lit eleven seconds late, the failed-safe word replaced the old name, and it went dark; he has no Path. He has **ten confirmed fragments**: Wind (Lira), Pressure (`the Bronze from Ardenmere` in spoken inventories), Iron (Brom), Compression (Reydan), Ember (Karis), Shadow (Seln; sealed; used exactly twice, at Ring and Stair), Storm (Daeva), Anchor (unnamed; used once each way), Blade (Ephram), and Tide (Oryn; partial; Iron; self and contact; clinical; *ask first, every time*). Deployment since the Line: **twenty-seven**. **The still place** is not a fragment and is not counted: read three times, told to Oryn and then described to the other four, untouched since Oryn ordered him to write it down and stop touching it. His ribs have been quiet since the morning of day 129. The living purse holds 96 marks. Open accounts are listed below; `nothing owed` is false. [B7-reconciled 2026-10-11: amendment 4]
+- **The five at Lowmarch:** Lira (Wind, Iron R1 formal) has all eight left-forearm marks whole, but the arm is slung high and holds nothing until Oryn says; the right ankle is taped and unmended. She carries Oryn's crossbow, hook and one bolt and cannot span it herself. Brom (Iron Skin, Copper formal) has the right shoulder mended twice, not a third, held in four yards of webbing by the drover's turn; the older healer says it will do. Karis (Ember, **Iron Rank Three**) has 52 copied sheets (11 Ring / 29 Stair / 12 Hall), the dead surveyor's ledger, the carter's map with four circles and the line off the hide, and the Ternhall straightedge; her voice is whole and her larger hypothesis remains unspoken and unentered. Seln (Shadow, Bronze; fifteen years' service) has his **locked case**, carried shut for twelve years and unopened. Cael has Hesk's brass straightedge and satchel. [B7-reconciled 2026-10-11: amendment 4]
+- **Objects/accounts:** the tarred-canvas kit case, strap, cord knotted at the fives, unused stake 32 with stroke/bar and bright turned point, and mallet are at the back-room table; the dead man's ledger is shut beside them. Three boxes stand at the warm wall. The cart-and-gelding reserve remains sealed under five thumbprints in the third box, separate from the 96-mark living purse. The Fallow hundred and Stair 300 remain in Pike's box, unmarked and not crew-payable debts. The ferryman is owed 60 yards of four-strand rope, not wanted before the thaw. The forty-mark axe-head fence is taken and not begun. Teague forfeited the four-mark weir slip. The six-mark back room is paid through the cold term; hearth space is covered by standing-money. Two westbound letters cost one copper apiece. [B7-reconciled 2026-10-11: amendment 4]
+- **Letters/animals:** Hesk's brass and note and Oryn's bark have arrived. Letters to Hesk and Vell went west on the last ferry; Ephram's is deferred to the first boat of the thaw. The brown mule is with the five. Oryn has the grey jenny and the thirty-foot three-strand rope. [B7-reconciled 2026-10-11: amendment 4]
+- **Oryn:** last located at Thornwater, with route work north next. The old debt ran Cael→Oryn and is **PAID**: three self-readings and the full telling. Her withheld answer was never a debt. Her exact letter is: `Route's whole. The knee held. Nobody died of three weeks. After the thaw: bring the map, and lie still when I say. — O.` Lira's arm waits on Oryn's in-person word. [B7-reconciled 2026-10-11: amendment 4]
+- **Teague's crew:** stays through the cold term at Lowmarch's upper inn: four practitioners plus the older healer of no Path, all unnamed except Teague. His exact term is: `After the thaw. Whatever's on that bearing. My crew comes.` / `Noted.` He has the cold road; the five have the axe-head fence. [B7-reconciled 2026-10-11: amendment 4]
+- **The Quieting:** four sites lie on one straight edge of the map. The Ring, Stair and Hall were entered. The fourth was seen and paced from outside at **440 yards and two strides** radius, behind registry-iron stake 34 repeated one per pace. It is unentered, unnamed, undated and untested; its grey central upright is unresolved and its effect unknown. `Someone made this pattern.` was said once and not answered. [B7-reconciled 2026-10-11: amendment 4]
+- **Pike/the Compact:** Pike has nine completed lines under the five names; the ninth is the Stair and reads *three hundred; taken; not paid*. The first-snow season line is written with no number against it. The five names remain **eleventh**. The Compact has a Fallow completion report, the Stair rim's observations and a clerk's packet saying the crew kept the kit; it does not know that fragments work inside. [B7-reconciled 2026-10-11: amendment 4] It has reached across the Line twice: on paper (the Fallow completion report) and in person (the six on the Stair's rim). The asset-restriction is pending. **Vastin is still inside**, writing nothing, with one window in Book 7. [B7-reconciled 2026-10-11: coordinator ruling] (restored: entry content the amendment's replacement had dropped)
+- **Who knows the integration mechanism:** Cael, Lira, Brom, Karis, Seln and Oryn — six. Oryn knows sources by Path and not by person except those she has touched; she does not know Seln supplied Shadow-adjacent. **Not** Vastin, Teague, Pike or Cleon. All six know the still-place phenomenon; only Cael and Oryn are shown hearing/saying its label. Cael, Lira, Brom, Karis and Seln know the fourth-site survey; Oryn, Teague and Pike do not know that result at entry. [B7-reconciled 2026-10-11: amendment 4]
+
+### Ending (source Ch24, dawn of the 308th; must hand off to Book 9)
+
+- **Cael:** nineteen, with **thirteen confirmed fragments**. Iron Wall came from Vastin in the Treswick alley (entered, **not told**; the debt stands; deployment none). Rune came from Cleon in the chamber (told to Cleon; the warning stands). Force came from Teague at the Span's barricade (first and only use on stone at the pass; the recoil stops in the ribs; never used on a person). **The still place** has been read by two instruments and understood by neither. Tide reads nothing, with everything going round it. Rune reads a shape with bones, a floor with nothing built on it. At the court's centre there was **no edge**: "Not the Quiet. Not a fragment. The same kind of made." **He told no one the Rune finding.** His Arbiter is dark and unchanged. The instruments read wrong in his hands and only his, with the **trend up** (a hair at Lowmarch; a stride short and "a hair and a half, two" at the plain's edge). That fact is unsourced. 123 marks; nothing owed.
+- **The reveal is delivered once, in the record's voice:** the leaf in the Deepstacks. "The Architect" is the record's title; the name is scraped away; it was about four hundred years ago; the purpose was "that the un-bound should not come again". The chronicle's "went into the ordering he had made, and is in it —" is **marked, not read**.
+- **Five sites lie on one bearing, ages ascending east.** The court is the fifth and the oldest, about 1,107 yards across, and the end of the line. [B7-reconciled 2026-10-11: amendment 5] It is **unnamed** ("the court", lowercase). The taxonomy is decoded: a stroke alone, a stroke and bar, a stroke and two bars.
+- **Karis's lamps finding** is stated and filed unexplained, on a page separate from the leaf, with no line drawn between them.
+- **The crack:** a directive and a filed objection under two seals that Vastin could name and does not.
+- **Vastin** is on the stick until the thirtieth day of Oryn's treatment month [B7-reconciled 2026-10-11: amendment 6] ("Thirty's the month"). He walks with the five **unadmitted**. He has not asked to join and nobody has asked him.
+- **Oryn** turns north on her mule at dawn ("The day I have to." / "After the thaw: bring the map, and lie still when I say." [B7-reconciled 2026-10-11: OWNER-pending #48]). She has **not heard the leaf**. She still owes three holds.
+- **Teague** turns west with three practitioners and the healer of no Path. **The young one is dead**, buried under stone at the pass's east mouth. His name was said once by the broad man and is never written. [OWNER-pending #54] Teague carries Cael's letter to Hesk. "After the next thaw. Whatever's on the next line. My crew comes." [B7-reconciled 2026-10-11: OWNER-pending #48]
+- **The faceless faction** has reached three times (the alley, the Span's watch, the pass) and broken each time. It is unnamed, unlocated and faceless.
+- **Count at the rim:** "Six. Six and no mule." That is Cael, Lira, Brom, Karis, Seln and Vastin. The word is "West."
+- **Body ledger at close:** Brom's forearm is bound (bolt, pass) and he has a week of colours. Karis's left hand is bound and will scar ("It'll leave a line"). The broad man's leg is knit and his shoulder bound. Teague's arm faces a splint warning. Vastin is on day 29 of 30. Cael's ribs "will carry. They'll hurt."
+- **Cleon** stays under Treswick with the leaf and the board: "Work. Not a finding."
+
+---
+
+## 2. The spine — every major source event, in order (all KEEP)
+
+Dates are the Line's count. A source chapter is shown as (S*n*).
+
+1. **KEEP — The cold-term frame (S1, 131st–264th).** [B7-reconciled 2026-10-11: amendment 6] The ferry has gone and the count has stopped moving. Inventory: nineteen, ten fragments, 96 marks. The cold stay is priced [B7-reconciled 2026-10-11: amendment 6]: "Meadow rate is four a month for a crew that's on my sheet" / "Eleventh", twenty paid in front, leaving 76. Teague's chin-lift across the yard; the season line left blank on purpose.
+2. **KEEP — Pike's cold-term board and the fence (140th).** [B7-reconciled 2026-10-11: amendment 6] Two days out to the axe-head hold. Forty-one posts. Seln finds two of Teague's posts a hand off true and tells only Brom. Forty is paid at the gate: 116. PAID becomes the tenth line.
+3. **KEEP — The river is a road (161st); the kit on the table.** The cord is knotted at the fives, the stake is number thirty-two, plus the mallet and the field ledger with the radius line. The Stair's designation sits in an unreadable index above the stopped line "third site confirmed on bearing". Karis learns the kit.
+4. **KEEP — The anomaly (168th).** The yard paces forty-two strides for everyone and "forty-one and a piece" for Cael, three times. The Ternhall edge reads a hair short in his hand and Hesk's edge a hair long. Karis's ruler sentence is said twice: a rule, then not a rule. Logged: "Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold."
+5. **KEEP — The thaw (230th–264th).** The ice goes. The Thornwater road opens. Karis says her sentence about west "in pieces since the fence", and in full on the 263rd.
+6. **KEEP — Thornwater (265th–266th).** The ford in thaw. Oryn's yard. Lira's arm is released ("Five months and twenty days." [OWNER-pending #56] / "That's a season. Take it off."). Lira asks, for the first time since Norhold: "Will you mend it." / "Lie still". The ankle is mended. "Thank you." / "Route's whole. The knee held. Nobody died of three weeks." The map on Thornwater's table: "That's a line." Cael tells her about the cord: "I don't know what that is. Neither do you. Write that down too." Oryn comes down because Lowmarch and Millrace are her first stops after the thaw [B7-reconciled 2026-10-11: amendment 6]. Nobody asked her.
+7. **KEEP — Six at Lowmarch (268th).** 118 marks (the mule's shed and the rope-house roof). Karis makes her case to six: the carvings are instructions; the index; west; **Treswick and the Deepstacks named**; the scholars' provision; "a man there who is". Oryn's reservation about the station goes unsaid. **KEEP — the closing log (270th)**, verbatim (§10).
+8. **KEEP — The ferry (277th).** Vastin arrives alone, in a brown coat, with an ash stick, a pack mended with cord and a bad knee. "Not that. Not for some months. Vastin will do; it did for my father." Pike prices him: "What'd he do?" → "Then he's nothing yet." He pays a copper and a half for bread. Teague reads his hands a step longer than a crew looks. Lira's face for men in grey doesn't fit.
+9. **KEEP — The long table (277th midday).** The Seln–Vastin doorway exchange, their first words ever. The short thing: resigned or walked. Brom: "Three hundred miles is a demonstration." The layer: Karis supplies its existence; Vastin's new fact is "Cannot. There is no key." The name is a citation to a designer, and the trail dead-ends at Treswick. Vastin has nothing to do afterwards. "Why us." Oryn on the knee: "Then I still haven't asked." "What follows you": nothing that can cross the Line. Cael remembers the Book 6 sentence and says only: "Ask him the thing you want to ask him." Karis asks; Vastin's close (§10). The ferry goes west.
+10. **KEEP — The handover (277th evening)**, in Vastin's stated order. First, the records: a courier's flat of six years of survey abstracts, the anomaly column ("Total"), six rows, "More than four", and the completion report as the last sheet. Second, the page: "—of the Architect: see the lower archive at Treswick, which holds it in full—". Third, the technician's sheet: the deep-layer line and the brush bar; Karis copies it and writes "not read". Seln goes still and does not say the sum. Vastin's vertigo; Karis owns the response. Cael's hand stays a hand's width from the page. Nobody says *west*.
+11. **KEEP — The slip (278th).** Clearance at the cut below the shoulder hold, twenty. "Ours" twice. Pike writes a sixth line for the healer. Vastin is not on the sheet and walks at the back.
+12. **KEEP — The cut (279th).** Iron Wall is first shown: a plane across the road, rooted, and therefore loud. Brom fights silent with a rock. Lira works the scree. Cael bursts away, then goes still on the scree; the pack turns back and breaks on the wall. The heap. Seln in the heap. Five dead and three into the sink. Costs: Brom's foot; **Vastin's knee**, bound by Oryn for "a month". The lesson: "The wall held the line. And someone else had to be the reason they wanted the line." / "You do now." The log (§10).
+13. **KEEP — The spring (280th).** Three readers: Karis for pattern, Seln for omission, Vastin for procedure. The office's instruments. **"Behaves as device. Cannot be."** Karis stops her lamps sentence with the ruler rule. **The grade:** the same stroke and bar on all four sites, the fourth's twice the size. "Two copies of one ignorance." Vastin's three reflexes: directive, classification, "This has to go up". The second row counts a sheet short in Cael's hands. Seln sets the technician's sheet before Cael without a word. Cael does the sum (the date matches his Kindling day; "six years" is the office's survey-record rounding; no numeric span since Kindling is computed [B7-reconciled 2026-10-11: amendment 7]), does **not** write it down, and puts the sheet back. "You keep drafting orders." / "Habit." / "Out here the habit's the tell. Draft nothing. Just look." Cleon is named for the first time.
+14. **KEEP — The fork-stone (280th evening–281st first light).** Oryn's terms: "I'm not an archive person"; the city she left; "Leaving and routing are different verbs." "Three weeks" (Seln). **The promise** is written in the log and read back. She prices everyone. The Millrace rendezvous. "Bring me whatever walks out of that archive with you. All of it." "Not the steps. Not the square." The mule goes north with her. Cael turns at a quarter-mile. Treswick comes into view from the rise; the light on the crown is not looked at.
+15. **KEEP — The last day of the road (281st).** Lira makes the same discipline of the crown, unasked. The reading inward, a fourth and fifth time: "a cord on a stone"; the instrument is wrong for a stillness. Vastin sits; "You were the instrument. I was the error." Vastin's confession, narrowed (ruling 18): "I declined to read you a second time. You know that. What you do not know is why." Cael gives him the instrument's nothing. It is not friendship; it is ground. The log (§10).
+16. **KEEP — Treswick's outer district (282nd).** The grey bridge is older than the walls. The outer gate counts and does not ask. The mule at the trough. The inn with two doors: 136. Each of the crew looks in their own way. "I have papers I will not show. I want that said once." "They shoe by the tier." The road to the registry crosses the square, and the promise holds. Seln's report: the quarry; the provision; hands by count, up to four; the clerk; the exposure. "Four hands." / "I've two." "Entered by count. That's the door." The close (§10).
+17. **KEEP — Cleon at noon (283rd).** "Off floors." / "Fifty-two sheets." His terms. He stops a step late.
+18. **KEEP — The provision (284th).** Four hands go up by count: Cael, Brom, Lira and Vastin. Seln is not on the count. The square is avoided by Seln's route. The clerk does not ask and writes "four". **Lira's ladder does not pull** ("Four hands." / "Four." / "Right."). The iron door. Cleon pulls the iron to.
+19. **KEEP — The Deepstacks (284th).** Cleon is already reading. The sheets are laid out 11/29/12. "Older than [UNBOUND]." "I know that hand." "Being believed … It's the end of being able to be wrong." "Give me a week." Cael is unfiled for the first time.
+20. **KEEP — The yard door (285th).** Vastin's reflex: "Vastin. Archmarshal, Compact enforcement. You'll find the name is —". **Seln answers truthfully** (ruling 25; Gate 27): "He's on the count … the form asks what a hand's for, not what he was." The narration enters that Seln did not lie. "I'm sorry." / "Don't be sorry. Be nobody." The log (§10).
+21. **KEEP — The marks (285th–287th).** The lamp trade. Cleon's board is matched to the Hall's fourth sheet: bearer, carried, ornament. "They're orders." **The limit**, verbatim. "Same make." Cael wants it turned on himself and does not say so. **Brom's yard:** he rights a cart with his back, no Path, is offered the life, and picks up the box on the bound shoulder. "Good. I'd hate to have turned down a real job for a wrong hunch." **Seln's night walk** from a roof below the walls: "I looked at it." Vastin: "How long did it take you." / "I was fourteen. I'm nineteen. I'm not there yet either." Cleon's close (§10). The 288th–289th are undramatized in the source.
+22. **KEEP — The alley (290th, dusk).** Six faceless attackers: four above with a crossbow, two below with staves, one of the four a signaller on the landing. Vastin roots the cut wall to wall ("there is no round"). Nobody declares. Brom with a rock, Lira's drop, Cael still at the plane's foot ("the reason"), Seln's weighted cord from the roof. The cache was on the roof the whole time. They leave; none taken, no faces. Costs: Karis's left hand (a step's edge), bound by Brom with thread and teeth because no healer inside the gate would touch it; Vastin spent, the knee again. **The Iron-Wall notice** (§10). "I put the wall in front of it anyway. I'd like that entered" / "It's entered." Not told. The log (§10).
+23. **KEEP — The reader (291st).** By the carts' street in daylight. Cleon's inside: "An instruction leans … This is a stair." Karis: "The strata lean too." **Acquisition at "there".** Cael tells Lira first ("Twelfth. His. Lean."), then Cleon at the bell. "You did what." "That's not supposed to be possible. That's —" / "No. I'll not say that one." The cup of water; **the warning**. "He went back to the carving." Vastin and Cael take the case up together. The notice on the stair. The eyes are paid on the last flight. "Cael did not tell anyone. He remembered."
+24. **KEEP — Dividers (292nd).** Hesk's parcel and note. The meal: four marks, two cups kept for Karis and Oryn, Seln's slip read and burned ("Closed"); 130 marks. Vastin and the cups: "Out here you count who's owed a seat." The first inventory written inside walls (§12 C10). **The station's light is "not steady" for a count of one**: a pressure, "an instrument turning toward him". It becomes the fourth entry on the page. He does not cross; the promise holds at its first cost.
+25. **KEEP — The leaf (293rd morning).** It is read aloud **once** by Karis (§9). The chronicle leaf is **marked**. Vastin reaches ("the mark that is given at the kindling —") and Karis answers: two pages. The copy with the gap drawn. "Older. Made. Us."
+26. **KEEP — The yard fire (293rd evening).** Seln is told on the street ("Made." "For a kind."). Cleon comes up, the only time. **Lira first:** "So the whole time they weren't afraid you'd break something. They were afraid you'd *exist*." Brom's price. Seln keeps the cache "a while longer". Karis's two pages, then she falls asleep on a bucket. Brom to Cleon: "Good." Vastin: imperfect → corrupt → "aimed … At a category. Which turned out to be a person. Who's sitting across the fire." Lira: "You signed the mark at kindlings." / "I would have." **Pole two**, said aloud (§10). "I want to stand in the middle of it."
+27. **KEEP — The list of parts (294th) and Cleon's goodbye at the bell:** "Work. Not a finding." / "Mind the stair. It leans."
+28. **KEEP — The road east (295th–297th).** The bridge (five piers counted; the crown not looked at). The spring. The fork passed. The shoulder hold's factor: "He said you'd say that." **The cut revisited** ("Here"): the stick briefly off the ground; "Two words. Both of them ours." / "Noted." The feeling of being *known* is entered. Lowmarch at dusk on the 297th. Pike: "Treswick. Survey read. Bearing." The season line is dated. Cael no longer reads pages the other way round. **Teague's term and contract:** ten on a wall's count; shares by count; the field is Teague's; the reading is Karis's; "Contract. Not more than that."; "The wall's still the wall."
+29. **KEEP — Force seen (298th morning).** The meadow cart: the frame lined up heel to palm, a body's length; the wrist clicks; the young one's cloth. "Don't put it in front of anything that needs doing twice."
+30. **KEEP — The grade cracked (298th morning).** Three marks. Cleon's list puts the mark at the kindling and the mark on a sheet in one line: "A mark is a grade." Ages by first sheet: 61, 94, 138, 206. The third-tier point lies past the fourth, on the line. **Oldest-last.** "It's observation." **Vastin's first "Noted."** Teague: "Oldest last." / "Then that's where we're going." The log (§10).
+31. **KEEP — Millrace (298th evening–299th dawn).** "Eleven off the ridge." / "I know." The two healers look at each other and then at Brom's shoulder. Vastin is ordered to stand ("Nineteen days." / "Then it's eleven more.") and takes the order without walking it back. Oryn's terms restated. "Sixth chair." / "On my terms. Which are the only kind." **She asks each patient first ("May I?").** The readings: shoulder, arm ("Once is once more than I priced"), Karis's hand ("Who sewed this."), the knee ("It held in a cut"; "Noted" / "That's new." / "It's a useful word." / "It's his."). **The deep reading**, with consent. **Rune turns inward unbidden: *still*, then *set*.** Withheld. Oryn's finding (§10). The leaf is offered: "Tell me on the road, if there's road. Not at my table." Twelve and a mule at dawn.
+32. **KEEP — The leg (299th–303rd)**, five dated entries: the Stair's bowl (299th); Oryn's road turning north at a cairn at noon on the 300th, where she walks on east; the Hall's marsh (300th); two camps with no water (301st–302nd); the crest (303rd). "Known" is entered under each.
+33. **KEEP — The crest (303rd).** The watch-post: a hut, a fire, kit under a hide, a two-timber barricade, seven hoods, two crossbows, one low practitioner. "They knew." "That iron's been in the ground years. Not one cold term." [B7-reconciled 2026-10-11: amendment 6] Teague: "Drawn?" "Nobody declares. Nobody dies … Noted?" / Teague's first **"Noted."**
+34. **KEEP — The Span (304th).** First exchange: the watch's declaration is unanswered; Brom takes bolts on Iron. Teague goes through the middle (the barricade a body's length back) → **Force acquired** at a stride. Recoil: wrist, then elbow. The watch reforms. **Width:** "Nothing was gained inside" is entered first. "By count": five over stake thirty-four (Cael, Lira, Karis, the young one, Vastin), four on the shelf. They walk to the pinch. Eleven seconds. "You'll die in there." / "We've been in three times." The watch goes east, unpursued. The win sentence (§10). The broad man goes over the sink's edge in the fourth second; Teague does not turn. Oryn sets and knits the leg and is grey for a quarter-hour. The healers' nod. Teague's arm: "That's a fact about a line." / "Noted" / "Everybody says that now." Brom's bill. **The Span** at noon: an arch on two piers over the sink, carvings on the piers' inner faces, the bearing "Through". Nothing happens on the crown. The thirteenth listens. The log (§10).
+35. **KEEP — The shale camp (305th).** The blanket. The rows lean along the bearing. The point is fixed. **The lamps finding** (§10). Vastin: "If a man designed the apparatus, then the sigils —" / the ruler rule. Two pages. Cael does not add his own third page (the Kindling date). **The directive and the objection**: "That's not a monolith. That's a crack." Seals unnamed. "The Compact … Yes. Part of it." The broad man's "Aye". The healers' third exchange (hands in the other's work). Seln on the pass. The fixed close (§10).
+36. **KEEP — The pass (306th).** Seln's reconnaissance (the shelf, the rig, nine or more, three crossbows). "It's through." The doctrine is told to Teague's four; **the young one's whole-head nod**. **The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] speaks to the six for the first time.** [B7-reconciled 2026-10-11: amendment 6] The wall is set as a lean-to slant. Brom's forearm is bolted before the wall goes up. The pine and stack fall down the plane and close the mouth behind them. The scree is swept clean. Seln climbs. The broad man is hit at the slant's high edge; the young one drags him and is **killed by the sixth volley**, a stride outside the plane. Oryn's hands on him: the first time they come off with nothing done. The name is said once. [OWNER-pending #54] Seln goes over the lip at the seventh volley. **Cael's first use of Force** on the second stack's brace (stone, along the shelf); the recoil stops in the ribs. Teague takes the stair left-handed. The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] reverses her spear. The team breaks east along the ridge, none taken. Vastin goes down; Karis sits with her hand on his shoulder. Teague kneels. "A wall keeps everyone behind it, and one of mine wasn't." At the far mouth Cael understands the line was not drawn in ink.
+37. **KEEP — The plain's edge (306th).** The burial at the east mouth by Teague's crew, with the six carrying at his leave. Lira and Seln recover the mule by the ridge path. **Eleven.** Oryn on the ribs: "Ribs. May I?" / "Yes." "That's a line. That's not yours." / "It's mine now." No term tonight. **Rune turned inward deliberately:** bones; a floor with nothing built on it; an instruction with no language; "the same kind of thing, to that instrument, as the sites were to Cleon's." Told to no one. The Arbiter unchanged. The instruments read wronger; the trend is up. The log (§10, "the whole year"). [OWNER-pending #58]
+38. **KEEP — The court (307th).** It lies low, and the plain is worn down to it. about 1,107 yards across (about fifty cords of the kit's twenty-stride cord) [M1 audit: 159 cords would be about 3,500 yards at Book 7's scale] [B7-reconciled 2026-10-11: amendment 6]. The stratum under everything. The first cut ("The others are copies"). The bearing ends, with no sixth. The council. **At the line:** every sigil dark at the same stride; the reactions: Lira's "Right."; Brom pricing the stump; Karis's "It's the first one."; Seln's count; Vastin's line (§10). Oryn steps in one stride: "Nothing. Everything, round it. Same as you." It is unanswered. Teague steps in one stride and steps back: "My crew's stood at four of these. It's stood at enough … Field's mine. This isn't field." The turning begins. Lira's fixed exchange. "Wait here."
+39. **KEEP — The centre (307th dusk).** 506 strides. Rune turned on the floor at a hundred strides gives the same reading. The eyes are paid. **No edge, no seam.** "Not the Quiet." "Not a fragment." "The same kind of made." He fit. It was not an accident. The third sentence goes unsaid. Oryn reads him at the line ("May I?"): "The same finding." Lira: "Well?" / "I'll tell you on the road. If there's road." He told nobody. The count. "Twenty-nine tomorrow." / "Thirty's the month."
+40. **KEEP — The ledger, the letter, and the dawn (307th night–308th).** Teague goes west carrying the letter; Oryn goes north; "Six. Six and no mule."; Vastin is unadmitted; "West." The closing prose (§10).
+
+---
+
+## 3. The expansion plan — where the extra ≈197,000 words come from
+
+Nothing below may change an end state, move a death, add an acquisition, or disclose a reserved truth early (§11). Every new episode must fit the sequence locks in §13. Word figures are planning estimates, not quotas.
+
+### A. Fights and set pieces given developed room (≈46,000)
+
+| Fight / set piece | Source | Edition allowance | Why |
+|---|---|---|---|
+| **The cut** (stillhounds; Iron Wall's first showing) | S4, ~1,800 | 3,500–4,000 plus a scouting scene | Iron Wall's limit must be taught here (rooted, loud, the man is the plane's foot) before the alley pays it off. The crew's silent doctrine is re-taught to a man who has only ever stood. |
+| **The alley** (the stepped cut, six faceless) | S12, ~2,400 | 4,000 | The corridor rewards the wall the road punished. Cael learns "being the reason" from inside it. The acquisition minute needs its long, quiet middle. |
+| **The Span** (watch-post; barricade; width) | S19, ~2,600 | 4,500 | Force must be witnessed for a full exchange. The width tactic is invented live and fairly priced: nothing is gained inside the line. |
+| **The pass** (rig; seven volleys; the death) | S21, ~3,800 | 5,500 | This is the book's costliest fight. The terrain causes two beats (the fall, the swept scree). The young one's death must be prepared and not gratuitous. Force's first use is paid in the ribs. |
+| **NEW — The shale-back herd at the axe-head fence** (cold weather) [B7-reconciled 2026-10-11: amendment 6] | summarized as "we walked the fence" | 3,000 | A cold-weather set piece [B7-reconciled 2026-10-11: amendment 6] needing no Path: a herd of armoured grazers sheltering on the fence line's slope must be moved without stampeding them ("lethal on a slope when herded wrong"). It teaches the Iron read on frozen ground, Lira benched by her sling, Seln's posts, and Brom reading a line. |
+| **NEW — The ice road** (161st) | one line | 3,000 | A carter's cart goes through the river-ice. Cael, Brom and Seln haul it out without declaring, reading load on the ice. The fragments are taught as practical knowledge. It pays later at the cut's frozen runnel. |
+| **NEW — The silent yard** (cold-weather learning bouts with Teague's crew) [B7-reconciled 2026-10-11: amendment 6] | absent | 3 bouts × ~1,500 = 4,500 | No Paths, steel and bodies only, in the frozen meadow. Cael loses to the tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59]'s spear reach (she never speaks), then corrects. One-armed Lira coaches from the bench. The rival clock appears on the page. This must not touch the sequence locks in §13 (no wall drill; Seln teaches nobody). |
+| **NEW — Lira's return to the floor** (270th–276th) | absent | 2,000 | Her first two-armed bout since the Ring, against Cael. The arm "tells her" once and she does not stop. That is a visible correction, and it pays at Millrace ("Once."). |
+| **NEW — The ferry's first landing** (277th, high water) | quiet landing | 1,500 | Rope and flood. Vastin is seen holding a physical line, with no Path, before anyone knows it is him. Iron Wall must not show before the cut. |
+| **NEW — The tail in Treswick** (291st–292nd) | absent | 2,500 | After the alley, Seln and Cael tail a hood through the outer district at night. The hood passes through a tier gate Cael cannot legally cross. The faction stays faceless and unlocated, and the promise and the bar become physical. |
+| **NEW — Water at the seep** (301st–302nd, dry camps) | "two camps with no water" | 3,000 | The two crews must water themselves and a mule at a seep where shale-backs stand on a slope. Teague's field captaincy is shown. The young one moves too fast and the tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] stops him with a hand. That is his habit, set up for the pass. |
+| **Lesser exchanges given their beats** | — | ~4,500 | The alley's aftermath; the Span's broad-man fall; the ridge recovery of the mule; the court's pacing as a physical task. |
+
+### B. Learning and training arcs (≈30,000)
+
+1. **Cael's working inventory during the cold term** [B7-reconciled 2026-10-11: amendment 6] (≈6,000; first third). Through private practice in the ferryman's shed and the frozen meadow, the reader learns all ten fragments as costs and limits. Wind's burst and its locked landing beat. Pressure's narrow channel. The Iron read as "the workhorse". Compression's frame. Ember, one point at a time, with its burn (used at the Ring and the Stair in Book 7). [B7-reconciled 2026-10-11: coordinator ruling] Shadow's idle draw and the seal's logic. Storm, its lanes and their bills (ten / ten / twelve) [B7-reconciled 2026-10-11: coordinator ruling]. Anchor used both ways. Blade, short and sharp. Tide "ask first"; he has read himself three times and Oryn twice, each outward use after an ask and explicit yes. **Invent no new numeric ceilings. Preserve every numeric ceiling and bill fixed by canon.** [B7-reconciled 2026-10-11: amendment 7]
+2. **The kit and the cord** (≈3,000). Karis teaches the crew to pace with the cord. The anomaly is discovered **as a scene** on the 168th, not as a log line.
+3. **Vastin learning the crew's doctrine and "to be nobody"** (≈5,000, distributed). Day one of the border road is a silent-movement drill: walk silent, signal by hand, nobody declares unless meant to be loud. Then the cut's lesson, the spring's "Draft nothing", the yard door's "Be nobody", his week of moving toward the lamp and stopping (four times, then two), and the first order he takes and keeps (Millrace).
+4. **The Deepstacks decipherment** (≈8,000). The chamber days 285–292 are put on the page, including the undramatized 288th–289th. Cleon's method (bones before words), the board's numerals, Karis's letters coming one at a time from the three floors, and the lamp's discipline. Karis refuses to guess. **The leaf must not become readable on the page before the seventh day** (§13).
+5. **Rune practice and cost** (≈3,000). After the 291st Cael catches himself reading made things everywhere: the inn table's joints, the bridge's arches, the dividers' hinge. He learns that the eyes pay, and pays it in the dark (Millrace). It is never used on a person. He does not turn it on himself until it turns unbidden.
+6. **Force, dry** (≈2,000). On the shale step (305th) he lines his frame without firing. The thirteenth "listens" and the ribs warn him. The first actual use comes at the pass.
+7. **Lira's arm** (≈3,000). The rehab runs from the release to Millrace's "an arm": grip work, the floor-testing rise, the left hand into the coat and out to check it moves, and two arms used on the scree at the cut.
+
+### C. Summarized events put on the page (≈46,000)
+
+- **The cold months (131st–264th)** [B7-reconciled 2026-10-11: amendment 6] (≈14,000). The first week of ice. The pricing scene at the inn. The cold-term board [B7-reconciled 2026-10-11: amendment 6]. The fence trip. The river becoming a road. Hesk and Vell's letters gone west on the last ferry, with the answers pending. Karis's back room. The long dark. The thaw. Pike in his room. The source's log entries become scenes, and the log stays as punctuation between them.
+- **The week before the ferry (270th–276th)** (≈4,000). Tents return to the meadow. Teague's crew prepares for the road after the thaw. [B7-reconciled 2026-10-11: amendment 6] Oryn's first Lowmarch stop: patients at the plank, seen from the outside.
+- **Treswick's days** (≈8,000). The outer district as a mechanism: brokers' tally boards, the smith's two forges, the ring road at night. The undramatized chamber days.
+- **The 294th: the list of parts** (≈2,000). Copying all day, Cleon's finger on the last line, and his correction "Your hand's better than mine on the fourth line".
+- **The road east (295th–297th)** (≈5,000). Each halt read backwards. The cut revisited. "Known".
+- **The leg (299th–303rd)** (≈9,000). The Stair's bowl rim, where Karis checks a number for an hour. The cairn: Oryn chooses east. The Hall's marsh, where Cael read himself twice earlier at the Hall. [B7-reconciled 2026-10-11: amendment 6] Two dry camps. Two crews learning each other. The crest at dusk.
+- **The court's pacing** (≈2,000). The pacing, about fifty cords [M1 audit: not 159], with Lira on the line and the count spoken.
+- **The burial and the mule** (≈2,000).
+
+### D. Supporting-cast arcs — ten people, many small beats each (≈40,000 including cutaways)
+
+| Person | Private want | Independent decisions this book (on the page) | Small beats (target count) |
+|---|---|---|---|
+| **Lira** | To find out what she is without a ladder | Asks Oryn to mend the ankle (her first ask since Norhold). Fights on through the arm's first warning (M2), then listens at the second. Keeps her registry paper in her coat and goes up as a hand. Looks at the whole ladder and it does not pull. Holds her question at the court ("Well?") and accepts "on the road". | 12 |
+| **Brom** | Worth without a number | Prices Vastin at three hundred miles. Takes the cart's weight on the good shoulder and pays for it. Declines the broker's post by picking up the box. Says "Good" to Cleon. Carries at Teague's leave. | 10 |
+| **Karis** | To be right and believed, with a primary source | Learns the kit. Makes the case for west. Owns the response to Vastin's flat. Reads the leaf once and asks that nobody say it back. Keeps two pages at a spring, a hole and a fire. Sits with Vastin after the pass. | 14 |
+| **Seln** | To keep his old life undecided and his own | Tells only Brom about the posts. Sets the sheet before Cael without a word. Teaches Vastin the first thing he ever teaches anyone. Truthful deflection at the yard door. Walks the tiers and decides nothing. Keeps the cache "a while longer". Climbs the swept scree. | 10 |
+| **Oryn** | The route; to be nobody's recruit | Releases the arm only when Lira lifts the sling herself. Comes to Lowmarch unasked. Sets the station term in the log. Routes north. Rejoins as a stop. Asks every time. Walks on east at the cairn. Will not hear the leaf at her table. Turns north "the day I have to". | 11 |
+| **Vastin** | To dig one thing up before he's done; to learn to navigate without authority | Walks three hundred miles alone. Carries the case unasked. Consents to be counted as a hand. Holds the wall with nothing behind it. Asks for the wall to be entered. Does not name the seals. Takes Oryn's order. Does not ask to join. | 14 |
+| **Cleon** | The work finished and believed, without leaving the Deepstacks | Sets terms at noon. Shows the inside of the Path to no one before Karis. Refuses to finish the sentence. Looks away from the boy deliberately. Comes up the stair once. | 6 |
+| **Teague** | To be at the front of the thing; to keep his people | Holds the after-thaw term. [B7-reconciled 2026-10-11: amendment 6] Names the contract's terms. Goes through the middle. Does not turn when the broad man falls. Does not put his three across the court's line. Carries the letter. | 7 |
+| **Pike** | An honest ledger | Prices the cold term. [B7-reconciled 2026-10-11: amendment 6] Prices Vastin at nothing yet. Leaves the season line blank, then dates it. | 4 |
+| **The young one** (Teague's; unnamed; his name is never written) [OWNER-pending #54] | To be counted as crew, not the boy with the cloth | Carries the cloth. Volunteers at the seep and is stopped. Steps over the iron when Teague looks at him ("Four"). Nods with his whole head. Goes to the broad man. | 5 |
+
+The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59], the broad man and the older healer get two or three beats each, inside Teague's arc. **Keep every member of Teague's crew unnamed** (canon: "keep unnamed unless a later card needs one"; never invent a name for an existing role).
+
+### E. New episodes inside canon (≈23,000; most are counted under A above)
+
+The shale-back fence, the ice road, the silent yard, Lira's return to the floor, the ferry landing, the tail in Treswick, and the water at the seep (see A). Also Oryn's north circuit (cutaways only): Oxhollow's gate, a man with a wrist set wrong, a birth, and **a hold child's Kindling**, where Oryn watches a fourteen-year-old see a sigil nobody else can see. No patient dies under her hands (§13).
+
+### F. Humour and warmth (≈12,000, distributed; no quota)
+
+Each person keeps their own comic habit. Brom says "It's a boot" and gives one-word essays ("They shoe by the tier"). Pike speaks ledger. Oryn: "Everybody says that now" and "I'm going to have to find another word". Lira finds an essay in a single word. "Noted" spreads through the cast like a borrowed tool, in the sequence locked in §13. Running jokes: the mule's empty chair; the mule as the only one of twelve who never knows what happened; the ferryman watching people use his river; Vastin's good manners from a man "served all his life and never once fed". When pain is in the room, humour stops performing.
+
+---
+
+## 4. Movements
+
+| # | Title | Chapters | Words | Source retold | Reason (one line) |
+|---|---|---|---|---|---|
+| 1 | The Count Stopped Moving | 1–6 | 30,000 | S1 (whole) | Put the cold term on the page [B7-reconciled 2026-10-11: amendment 6]; teach the ten fragments, the kit and the anomaly hard; pay the Thornwater promise; end on six and west. |
+| 2 | No Sanction | 7–12 | 30,000 | S2, S3 (+270th–276th) | Bring Vastin in through the board and hand over the three things in his order; the book's question arrives as paper. |
+| 3 | The Border Road | 13–19 | 34,000 | S4, S5, S6 | First fight and first wall; the records read three ways; the sum Cael does not write; Oryn routes north with the promise in the log. |
+| 4 | Inside Walls | 20–26 | 34,000 | S7, S8, S9 | The wrong instrument for a stillness; the enforcer's confession; the city as a machine; entered by count; the dark opens. |
+| 5 | No Authority | 27–33 | 35,000 | S10, S11, S12 | The archive's first days; Vastin unlearning his name; Cleon's bones; Brom offered the life; the alley and the eleventh. |
+| 6 | Before the Paths | 34–40 | 34,000 | S13, S14, S15, S16 | The twelfth and the warning; dividers and the light's wrong count; the leaf read once; pole two at the fire. |
+| 7 | The Straightedge | 41–46 | 32,000 | S17, S18 | East by the same road; two crews by contract; Force seen; the grade cracked oldest-last; Millrace and the second instrument turned inward. |
+| 8 | The Sunken Span | 47–53 | 35,000 | S19, S20 (+the leg) | The leg on the page; the watch, the width and the thirteenth; the lamps finding and the crack. |
+| 9 | The Center | 54–60 | 36,000 | S21, S22, S23, S24 | The pass and the cost; the still place read as made; the oldest line; no edge; west. |
+
+**Totals:** 60 chapters, 300,000 words. The first third (≈100,000) ends inside Movement 4 (around chapter 20). The middle third ends at the close of Movement 6 (chapter 40, ≈197,000).
+
+**Quiet-movement statement:** Movement 4 is the book's one deliberately partial-quiet movement. Its tension is legal and bodily: a [SHATTERED] body enters a Compact city whose top holds a station. Its learning encounter is the reading inward (the instrument fails). Its physical load is labour: four hands, three tiers, two gates, a bad knee and a box. It may carry one small physical beat of the author's choosing, but it does not need a fight. Every other movement has at least one fight, set piece or learning bout.
+
+---
+
+## 5. POV plan
+
+**Cael ≈87% (≈261,000 words).** It is close third, tinted by his habit of cataloguing. The source's long, accumulating "catalogue" sentence is his signature, and the edition keeps the habit while breaking the chains (§7.4).
+
+**Cutaways ≈13% (≈39,000), five characters at 2.3–3.0% each.** Each is brief: 1,200–2,500 words, placed as a scene inside a Cael chapter, never as an alternating-POV chapter.
+
+| Cutaway | Budget | Placement (guidance; the author owns it) | Allowed to know | Must NOT know or show |
+|---|---|---|---|---|
+| **Vastin** | ≈8,000 (4) | M2: the last miles to the Line and the ferry (the three people who told him "go to the plank"; the page in his coat). M4: the outer district's "first honest district". M6: alone after the leaf ("aimed"). M9: the court's rim at night. | His career; what he read; the citation; "no key"; the technician's line **and the bar**; the completion report; his knee; his own declining of the second reading. | **The date's arithmetic.** He never computes the deep-layer date against Cael's Kindling. The integration mechanism (he is never told). The directive and the objection before the 305th. The two seals' names. Any wish to *ask* to join, or any vote (Book 9). The Arbiter–apparatus connection (his sentence stays stopped even in his head). |
+| **Karis** | ≈7,500 (3) | M1: a cold night [B7-reconciled 2026-10-11: amendment 6] with the kit's index (her want; the cord reads wrong only for him, and she refuses a theory). M5: decipherment (board numerals; the first letters). M8: the night after the lamps finding (the refusal held in her own head). | The sheets; strata; the index (as unreadable until the 298th); the leaf (after the 293rd); the lamps finding. | The Rune finding (nobody knows it). The integration of Rune before Cael tells Lira. **Drawing the line**: her interior names that the sentence exists and refuses it. The deep-layer date as Cael's Kindling. The leaf's content before it is read aloud. |
+| **Seln** | ≈7,500 (4) | M3: the spring, doing the sum and setting the sheet. M5: the night walk on the roof with the cache. M8: the crest at night or the perimeter before the Span. M9: the ridge with Lira to recover the mule. | The sum (the date ≈ Cael's Kindling day), unspoken; the office's habits; the faction's craft; the cache's existence and weight. | **The cache's contents** (it stays unopened). Any decision about the cache. Any theory of what the deep layer is. The Rune finding. Teaching anyone before Vastin at the spring. |
+| **Oryn** | ≈7,000 (3) | M4: the north circuit (Oxhollow's gate; the wrist; a birth). M6: a hold child's Kindling witnessed from outside. M9: the night after the first death. | Her readings; the still place as "nothing, everything round it"; twelve then thirteen currents; the mechanism (her Tide was taken at her direction). | **The leaf** (she has not heard it). The Rune finding. Any patient dying under her hands before the pass. An explanation of "Same as you". No cutaway at the court itself. |
+| **Teague** | ≈7,000 (3) | M1: the upper inn during the cold term [B7-reconciled 2026-10-11: amendment 6], watching the five; the young one asking to learn; the wrist. M7: deciding the contract's terms; the meadow. M8: the watch's hut after the Span, counting. | His crew; Force and its line; the contract; the board; that he does not read. | The integration mechanism, including any suspicion that the boy took his Force. **The young one's name.** [OWNER-pending #54] Any reading or writing (he does not read). |
+
+**No cutaway may disclose a reserved truth (§11) or any sequence lock (§13).** A cutaway may show a person's private want and an independent decision. It must not reveal a fact the plot later "discovers" in Cael's POV.
+
+---
+
+## 6. Calendar spine (continuity; the author may move scenes within a day)
+
+| Day | Event |
+|---|---|
+| 131 | Ferry gone; ice skins the shallows |
+| 133 | Cold stay priced (76) [B7-reconciled 2026-10-11: amendment 6] |
+| ~140 | The fence trip (two days out; shale-backs); paid (116) |
+| 161 | The river is a road; the ice road rescue |
+| 168 | The anomaly (yard, edges) |
+| 230 | The river is a river again at the middle |
+| 263–264 | Karis's sentence about west in full; ice going; Thornwater road open |
+| 265–266 | Thornwater; **arm released (count day 1 = 266)**; ankle mended |
+| 268 | Six at Lowmarch; Karis's case (118) |
+| 270 | Closing log ("Ice goes next week") |
+| 270–276 | Tents; Lira's return bout; Teague's after-thaw term [B7-reconciled 2026-10-11: amendment 6] |
+| 277 | Ferry; Vastin; long table; handover |
+| 278 | Slip; road day one; silent drill |
+| 279 | The cut; **Vastin's knee (Oryn's month: day 1 = 280)**; 138 |
+| 280 | The spring (records); the fork-stone at evening |
+| 281 | Oryn north at first light; the rise; the last post (reading inward; confession) |
+| 282 | Treswick outer district (136) |
+| 283 | Cleon at noon |
+| 284 | The provision; the iron door |
+| 285 | Yard door; chamber day 2 |
+| 286–287 | The board; Brom's yard; Seln's night walk; Cleon's close |
+| 288–289 | Chamber days (put on the page) |
+| 290 | The alley; **Karis's hand cut**; fragment eleven |
+| 291 | The reader; fragment twelve; the warning |
+| 291–292 | (NEW) the tail in the outer district |
+| 292 | Dividers; the meal (130); the light's count of one |
+| 293 | The leaf read aloud (morning); the yard fire (evening) |
+| 294 | The list of parts; Cleon's goodbye at the bell |
+| 295 | Bridge; spring |
+| 296 | Shoulder hold; the cut revisited (Vastin day 17) |
+| 297 | Lowmarch at dusk; Pike's line; Teague's contract |
+| 298 | Force seen (meadow); the grade; Millrace at evening (127) |
+| 299 | Dawn: twelve and a mule; the Stair's bowl |
+| 300 | Cairn at noon (Oryn walks on); the Hall's marsh |
+| 301–302 | Dry camps; (NEW) water at the seep |
+| 303 | The crest; the watch-post |
+| 304 | The Span (Vastin day 25); fragment thirteen (123) |
+| 305 | Shale camp; lamps finding; the crack (Vastin day 26) |
+| 306 | The pass; the death; burial; plain's edge; Rune inward (day 27) |
+| 307 | The court; the line; the centre (day 28) |
+| 308 | Dawn: departures; "West." (day 29) |
+
+Running counts that must reconcile: **Lira's arm** "fifteen days" at 280, "twenty-five" at 290, "twenty-seven" at 292 and "thirty-three" at 298 (counting the 266th as day 1). **Karis's hand** is eight days old on the 298th. **Cash:** 96 → 76 → 116 → 118 → 138 → 136 → 130 → 127 → 123. **Oryn's route:** count "days past the end of her road" from the cairn on the 300th (§12 C3).
+
+---
+
+## 7. Progression plan
+
+### 7.1 Capabilities: where they appear or change, at what cost
+
+| Capability | Where | Cost / limit shown | Status at close |
+|---|---|---|---|
+| The ten (entry) | Taught as working inventory in M1, through practice, the ice road and the fence herd | Preserve the closed Book 7 rules: Iron air-or-body at Gold weight; Storm 10/10/12 laid and 11/11/13 clean, fourth untested; Shadow twice and sealed; Anchor 14/12/10 perception, contact unbinding and once-each-way counted use; Tide self/contact/clinical, ask and explicit yes outward. Deployment enters at 27. [B7-reconciled 2026-10-11: amendment 7] | Unchanged |
+| **Iron Wall (Vastin's Path)** | Witnessed at the cut (M3) and the alley (M5) | Rooted; the man is the plane's foot; it cannot chase; it is loud to anything that hunts discharge; reserve spent to the floor; the knee | Shown three ways: road (punished), corridor (rewarded), slant (the pass) |
+| **11 · Iron-Wall-adjacent** | Acquired in the alley's quiet middle minute (M5) | Notice verbatim (§10). Deployment none | **Entered, not told**; the debt to Vastin stands |
+| **Rune Path (Cleon's)** | Taught from outside in M5 (bones), from inside in M6 (lean) | Structure, not meaning; made things only; not a river, not a man; eyes for an hour; no use in a fight | — |
+| **12 · Rune-adjacent** | Acquired at "there" (M6) | Eyes paid on the stair. Turned inward **unbidden** at Millrace (M7): *still*, then *set*. Turned **deliberately** at the plain's edge (M9): bones / a floor with nothing built / an instruction with no language. On the court's floor at a hundred strides: the same reading | Told to Cleon; **the inward finding told to no one** |
+| **Force Path (Teague's)** | Seen in the meadow (M7) and at the barricade (M8) | Line of the frame at contact; needs a thing to push against; a body's length; recoil back along the line (wrist, then elbow; a splint warning) | — |
+| **13 · Force-adjacent** | Acquired at a stride at the barricade (M8) | "Listens". Dry stance only on the shale (M8). **First use** at the pass on stone along the shelf (M9); the recoil stops in the ribs | "It's mine now." Never used on a person |
+| **Tide (the tenth)** | Reading inward (M4): "a cord on a stone". Oryn's deep reading (M7). Her post-centre reading (M9) | "Ask first, every time"; Oryn's consent ritual at every reading (S18 montage, Cael at S18, S22, S24) | Same finding, certain |
+| **The still place** | M4 (Tide: absence of current); M7 (Rune: set); M9 (Rune: bones; centre: no edge) | — | Not the Quiet; not a fragment; "the same kind of made" |
+| **The Arbiter** | Checked M9 | Dark since Kindling; nothing for the Quiet to take | Unchanged |
+| **The instruments** (Book 11 plant) | M1 (cord; edges: a hair); M3 (the row counts a sheet short); M6 (the station's light for a count of one); M8 (the row short at the Span); M9 (a stride short; a hair and a half, two) | Deniable each time | Trend up; unsourced; "no line drawn" |
+| **Oryn's Tide** | Thornwater; Millrace; the Span (a quarter-hour grey); the pass | Reserve at roughly the rate of damage; nothing inside the line; she cannot heal the dead | The first death is under her hands |
+
+**The rate** is three integrations in one book, against one or two in Books 5–7. The log says so ("three of them in one city and one bridge — rate's climbing"). The bible's "22 by Book 10" is left to Book 9 (§12 C8).
+
+### 7.2 Front-loaded teaching (owner formula §4)
+
+Target ≈58 progression-vocabulary hits per 10k words overall (≈1,740 over 300k), front-loaded about 1.7×: **first third ≈82 per 10k (≈820 hits), middle ≈43 (≈430), last ≈49 (≈490).** The first third does most of the teaching:
+- The cold-term inventory and practice [B7-reconciled 2026-10-11: amendment 6] (fragment names, costs, the seal, "deployment notes").
+- The board's ranking (eleventh; Teague's four at the top; "the board doesn't ask what a crew was").
+- Tiers and Paths in Teague's crew, in Vastin, and in Treswick's machinery (Copper/Iron/Bronze/Silver; passes; tier gates; the smith's two forges; the provision's columns).
+- Iron Wall's first showing; the records' grade; the reading inward.
+
+After the first third, progression language surfaces at turning points: the three notices, the grade, the court's line.
+**Measurement caution (as OWNER-DECISIONS #14):** the last third carries **grade vocabulary** (first-, second- and third-tier; the mark; the stroke and bar). Counted as progression vocabulary, it inflates the closing third. Report two counts at each review, with and without grade/taxonomy terms.
+
+### 7.3 Development cadence (owner formula §5)
+
+- **Cael:** about 4.5 realization/decision beats per 10k words, ≈135 across the book, spread evenly with a slight middle bump (≈42 / 48 / 45). That is about 15 per movement, so roughly one every 2,200 words.
+- **Supporting cast:** many small beats each (§3.D), 0.1–0.7 per 10k per person. No single deuteragonist takes the budget. Karis and Vastin run highest (≈14 each across the book); Pike and the young one run lowest.
+
+### 7.4 Prose and rhythm targets (formula §2–3, §8–9; measured after each movement with `tools/formula_metrics.py`)
+
+**Source baseline** (measured 2026-10-01 over all 24 chapters):
+
+| Metric | Source | Target |
+|---|---|---|
+| Sentence mean | 21.3 | 14.6 |
+| Sentence median | 8 | 11 |
+| Spread (sd) | 27.2 | ~26 |
+| Sentences ≤5 words | 39.3% | 27.7% |
+| Sentences ≥40 words | **19.1%** | 3.3% |
+| Paragraph median | **51** | ~18 |
+| Paragraph mean | 66.4 | ~26.8 |
+| Words per scene | 808 | ~950 |
+| Scene breaks per 10k | 10.0 | ~8.7 |
+| Flesch Reading Ease | 85.0 | 72.3 |
+| FK grade | 6.7 | 6.8 |
+
+The source's signature is the accumulating catalogue sentence, chained with "and … and … because …". That produces both the 19% of sentences over forty words and the paragraphs of fifty-plus words, while very short beats pull the median and the Flesch score up. **For this edition:**
+- Break the catalogue chains into well-built compound and complex sentences of 12–25 words.
+- Keep a few deliberate forty-plus sentences per chapter where accumulation is the effect, such as an inventory or a crossing.
+- Bring paragraphs down toward a median of 18 by ending the paragraph when the thought turns.
+- Keep short punch sentences for landings, not as default (EDITION_BRIEF rhythm calibration).
+- Hold a scene break roughly every 950 words.
+- Drop dialogue tags where the speaker is clear.
+- Adverbs and fillers are to taste: do not chase "that".
+
+**Logs are exempt from the chain-breaking only where §10 fixes their text.**
+
+---
+
+## 8. Major fights and set pieces: planning allowances (private staging the author owns)
+
+- **The cut (M3).** A hundred strides of road cut to a cart's width, with scree on both sides and a frozen runnel a stride wide down the middle. A sink lies fifty-five yards below [B7-reconciled 2026-10-11: amendment 6] on the north side, iced and in shadow; there are eight hounds. Positions: Brom on stone at the south edge with a rock; Vastin a stride behind him; Lira on the south scree; Seln on the north scree, unseen; Cael twenty strides west, past the sink; Karis, Oryn and the mule at the east end. The decisions: the wall goes up and everything turns to the loudest thing; Brom and Lira work its south end silently; Cael bursts **away**, then goes still on the scree as the lock beat lands; the pack returns to the wall and breaks on it; the heap; the runnel. The opponent learns too: the den has learned the road. Costs to carry: Brom's foot; Vastin's knee (a month); Cael's burst bill.
+- **The alley (M5).** Twenty-two steps in five flights, a stride and a half wide, walled three men high with no doors. There are four at the top (a crossbow and a signaller on the landing) and two coming up from the yard gate with staves. The plane sits at the second flight's top step, wall to wall; Cael stands two feet below it. Brom has a loose step-stone. Lira drops from the second flight. Seln's cord comes from the roof onto the signaller's arm and the rail. It lasts "a minute and some". The opponent's plan was built for a declaration and meets a wall and a rock. Costs: Karis's hand; Vastin past his limit; Brom's good shoulder used wrong.
+- **The Span (M8).** A shelf a cart's width wide, with the sink's three-man drop on the left and the iron on the right; the line lies a stride past the iron. A barricade of two timbers stands at the shelf's narrowest; past the fire is a pinch a stride and a half wide, then a perimeter road a pace wide. There are seven defenders: two crossbows and an empty-handed low practitioner. Exchange one belongs to the watch. Exchange two: Teague's line, with Cael at his left a stride back. Exchange three: width (five inside two strides in, four on the shelf; walk; eleven seconds). Then the fall. **Fairness is entered before the act:** nothing is gained inside.
+- **The pass (M9).** A dry defile a hundred strides long with a loose-stone stream-bed. The west wall is scree to a shelf two-thirds up, carrying two timber-braced stacks, one with a roped dead pine; the east wall is sheer. The wall is a lean-to slant, high edge at the west wall ahead, low edge at the mouth behind. There are seven numbered volleys: Brom's forearm (1); the wall up (2); the fall (4); the broad man (5); the young one (6); Seln over the lip (7). Cael's push takes the second stack along the shelf, not off it. Teague goes up the stair left-handed; the tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] reverses her spear. The team breaks along the ridge. **Win sentence:** Seln removed the team's ability to hold the high ground by climbing the slope its own rig had swept clean, and the wall bought him the climb.
+- **New set pieces** (shale-back fence; ice road; silent yard; Lira's bout; ferry landing; the tail; the seep). Each develops a problem the reader can follow: terrain, positions, objective, limit, a change of decision, and a cost carried forward. **Never put a Path or declaration on display that a sequence lock forbids** (§13).
+
+---
+
+## 9. The record passages: exact limits
+
+- **The leaf is read aloud once**, by Karis, in the chamber, on the 293rd morning (M6). It is not quoted again by anyone who heard it. Cael gives Lira the page to read; nobody says it back.
+- **"Four hundred years"** appears only in the record's voice (the leaf's head, given in Karis's single paraphrase) and at the fixed positions: Cael's pole-two sentence, the 298th log, the 305th close dialogue and the closing prose. Do not add uses.
+- **"The Architect"** is the record's **title** ("a title, not a name; the name's gone"). After the leaf it appears again only as a historical comparison ("as old as the Architect"). Nobody uses it as a present agent.
+- **The chronicle's hole stays a hole.** "Marked." There is no gloss, guess or second source.
+- **The un-bound / [UNBOUND]:** the word is live as a historical *kind* in the leaf. Before that, Karis uses it once as a stratum limit ("Older than [UNBOUND]") at Cleon's table.
+- **Two pages, no line.** The leaf and the lamps finding are never joined: not in dialogue, not in any interior (including cutaways), not in the narration. Vastin's sentence stops twice (in the chamber; on the shale). The words *terminal*, *circuit* and *infrastructure* are never used for Arbiters.
+- **The deep-layer sheet:** "Sequence initiated … Correlated with classification event —" and the bar. Only Cael and Seln do the sum. Neither says or writes it. Nobody interprets the sequence.
+
+---
+
+## 10. Protected wording (verbatim; canon quotes or calls back these, or Book 9 inherits them)
+
+Tier A is quoted in the canon files (bible, ledger, series entry) or is a system notice. Tier B is wording from earlier books that this book quotes; it is binding from its own book. Tier C is fixed by the source architecture as closers or fixed lines; keep it verbatim, because Book 9's planning will read the source. Straight quotes and em dashes as in the source; italics are not wording.
+
+### Tier A — canon-quoted and system text
+
+1. **The leaf (S15):** "In the years of the unmaking, when the un-bound walked in the land and no wall stood against them and no law held, and the cities of the east were emptied and the cities of the west were emptied and the rivers ran wrong" … "there came one who saw the shape of it, and set himself to the ordering. And he made the measure, and the seat, and the tier, and the mark that is given at the kindling, that each should know what he is and none should be what he is not. And he set the apparatus over all the land, and the land was ordered, and the un-bound came no more." / "And the" [the scraped name: four or five letters' width, the first upright stroke showing] "— set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it. And this is the reason of the apparatus, and this is all of its reason, and let none who come after forget it, though the un-bound be forgotten: that they should not come again."
+2. **The chronicle (S15):** "— and of him it is said that he did not die in the way of men, but went into the ordering he had made, and is in it —" [a thumb's width of hole]. Karis: "Marked." Cleon: "Marked."
+3. **Karis's copy and finding (S15):** "and the" [gap drawn] "set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it." / *Older. Made. Us.*
+4. **Vastin's page (S3):** "—of the Architect: see the lower archive at Treswick, which holds it in full—"
+5. **The technician's sheet (S3):** "Deep layer. Sequence initiated" [a Compact date] "Unreadable. Not halted. Running. Correlated with classification event —" [brush bar]. Karis's note: *not read*.
+6. **The surveyor's remark (S5):** "Behaves as device. Cannot be."
+7. **Directive and objection (S20):** "Findings under the fifth column to be held. Not for onward transmission. Not for citation. Not for the seat." / "Objection entered: the holding of a finding is not the finding's disproof. Refer to the seat." / Vastin: "Somebody wanted this buried. Somebody else put it in writing that it shouldn't be. That's not a monolith. That's a crack."
+8. **The lamps finding (S20):** "They fail the way a hundred lamps fail when one wire's cut. Not the way a hundred souls fall silent."
+9. **Cleon's limit (S11):** "I can tell you these are orders. I can't tell you what they order. For that you need the language, and the language is in the text, not the stone. That's her work, not mine." And: "It doesn't work on a river, and it doesn't work on a man, and it doesn't work on a tree, because nobody chose where the branches went. It costs me my eyes for an hour after and nothing else."
+10. **Cleon's warning (S13):** "I'm going to pretend you didn't tell me that," he said, "for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute." … "Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — " He stopped. "Don't tell me. Don't tell anyone. Just remember I said it." Chapter-close sentence: "Cael did not tell anyone. He remembered."
+11. **Cleon's goodbye (S17):** "Work. Not a finding." / "Mind the stair. It leans."
+12. **Fragment eleven (S12):** "Iron-Wall-adjacent. Vastin. Partial. Iron family. Held. A plane, not a body: the ground told not to give. Distinct from the third — Iron-adjacent, the bed; this is not the bed hardened, this is a line drawn on it and kept. Engagement field: defensive; rooted. Tier equivalent unknown. Deployment: none. Eleventh."
+13. **Fragment twelve (S13):** "Rune-adjacent. Cleon. Partial. Rune family. A made thing's lean — the direction a maker put in it; which mark bears, which is borne, which is nothing; whether a run sits or goes. Structure, not meaning: it will tell me a thing is an instruction and will not tell me what it instructs. Made things only. Not a river. Not a man. Costs the eyes, after. No use in a fight. Engagement field: inscriptive — the second field that is not a fight, after clinical; given, not taken. Tier equivalent unknown. Deployment: none. Twelfth." Then: *He looked away. Kept.* *Not a man.*
+14. **Fragment thirteen (S19):** "Force-adjacent. Teague. Partial. Bronze. Impulse along the line of the frame at contact: from the ground, through the man, out at the hand, and nothing to either side of the line. Needs a thing to push against — the barricade, the ground under the feet; nothing at a distance; nothing from the air. A body's length. The cost back along the same line, every time, at the place the line comes out. Engagement field: close; braced. Tier equivalent unknown. Deployment: none. Thirteenth."
+(Notice typography follows the edition's convention for system text. The notices must read aloud as prose.)
+15. **Hesk's dividers note (S14):** "A rule says a line is true. A divider says how far, and carries it. You've the first. Here's the second, and mind the points; they'll go through a thumb as easy as a sheet. Lines are for finding out how far a thing is from another thing. Everything is. — H."
+16. **The grade (S17):** "A mark is a grade. The one they give a boy at fourteen says what he's *for*." … "The one on a sheet says how *old* the thing is." / "Somebody laid them down in order" / "It's observation. I'm telling you what the paper says. Not what it means." / Teague: "Oldest last." … "Then that's where we're going."
+17. **Pole two (S16):** Lira: "So the whole time they weren't afraid you'd break something. They were afraid you'd *exist*." Cael: "Since my Kindling I thought the system forgot to make room for me," … "It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen." … "I happened anyway." / Lira: "Yeah." … "Now what." / Cael: "Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine." … "I want to stand in the middle of it." [B7-reconciled 2026-10-11: OWNER-pending #48]
+18. **Vastin at the fire (S16):** "I believed it was imperfect." … "Now you're telling me it was *aimed*." … "At a category. Which turned out to be a person. Who's sitting across the fire." / Lira: "You signed the mark at kindlings." / "I did." / "His?" / "No. I read it, after. I did not sign it." … "I would have." / "Yes," Lira said. "You would have."
+19. **Ribs (S22):** "That's a line," she said. "That's not yours." / "It's mine now."
+20. **Teague's lesson (S21):** "A wall keeps everyone behind it, and one of mine wasn't."
+21. **The court (S23–24):** Vastin: "I stood at a line for forty years," Vastin said, "and told people which side of it they were. I never once asked who drew it." … "This is where they drew it." / Karis: "It's the first one." / Lira: "Right." / Oryn: "Nothing," … "Everything, round it." … "Same as you." / Teague: "My crew's stood at four of these. It's stood at enough." … "Field's mine. This isn't field." / at the centre: "Not the Quiet." "Not a fragment." "The same kind of made."
+22. **Departures (S24):** Teague: "The thaw's past," / "Noted," / "After the next thaw." … "Whatever's on the next line. My crew comes." / Oryn: "The day I have to." / "Noted," / "Everybody says that." … "They'll carry. They'll hurt," … "After the thaw: bring the map, and lie still when I say." / Seln: "Six. Six and no mule. Nothing behind. Nothing beside." / "West," Cael said. / "West," said Brom, and picked up the box. / "Twenty-nine tomorrow," / "Thirty's the month," [B7-reconciled 2026-10-11: OWNER-pending #48]
+23. **Pike (S2; S17):** "What'd he do?" / "Nothing," Vastin said. "Out here. Nothing yet." / "Then he's nothing yet." And the 297th line: *Treswick. Survey read. Bearing.*
+24. **Vastin's papers (S8):** "I have papers I will not show. I want that said once, so that nobody asks twice."
+25. **Oryn at Millrace (S18):** "There's a place in you I can't read because it isn't *flow*. I've spent my life reading flow. Whatever that is, it's not the kind of thing my Path was built for." / "Then it's not mine." … "Tell me on the road, if there's road. Not at my table." … "Lie still when I say. That's still the term." / "Sixth chair." / "On my terms. Which are the only kind."
+26. **The rate (S19 log):** "Thirteen things that aren't a Path, and I got three of them in one city and one bridge. Rate's climbing and I'm writing that down because Hesk taught me to note the trend."
+27. **The contract (S17):** "Ten of us on a wall's count. Your six and my four." … "Contract. Not more than that. I'll not have it called more." / "The wall's still the wall." / Force: "Don't put it in front of anything that needs doing twice."
+
+### Tier B — earlier books' wording quoted here (binding from source)
+
+- Karis (B7 edition `chapter-52.md:311`): `A measurement is a fact about a ruler, not about the hand that held it.` [B7-reconciled 2026-10-11: amendment 8]
+- Karis (B7 edition `chapter-57.md:99`; `chapter-60.md:251`): `Three points make a line. Four make an argument.` / `Someone made this pattern.` [B7-reconciled 2026-10-11: amendment 8]
+- Oryn (B7 edition `chapter-58.md:51–55`; `chapter-60.md:215,229`): `Find me at Thornwater.` / `Bring the map.` Her letter: `Route's whole. The knee held. Nobody died of three weeks. After the thaw: bring the map, and lie still when I say. — O.` / `Six, by letter.` [B7-reconciled 2026-10-11: OWNER-pending #48]
+- Hesk's straightedge note (B7 edition `chapter-60.md:67`): `Nineteen. I'm told it's late; the ferry's fault, not mine. Your grandmother said a man who catalogues everything eventually needs to draw a line through it. This one's true to a hair. Mind the shape. — H.` [B7-reconciled 2026-10-11: amendment 8]
+- Teague and Pike (B7 edition `chapter-59.md:199,221–225`): `After the thaw. Whatever's on that bearing. My crew comes.` / `Noted.` / `I've kept this ledger thirty years. First time it's been wrong about a crew by being too small.` [B7-reconciled 2026-10-11: OWNER-pending #48]
+- Vastin (B6): "I knew the system was imperfect. I didn't know it was designed to be."
+- The still-place inventory (B7 edition `chapter-60.md:39`): `One anomaly. Session nine. Tide-adjacent. Not an entry any more; a location. The still place. Read three times. Doesn't flow. Doesn't change. Everything goes around it. Not the Quiet. Not a fragment. Older than the log. Observation continues.` Oryn's order (B7 edition `chapter-55.md:289`): `Write it down and stop touching it.` The Tide rule (B7 edition `chapter-60.md:37`): `ask first, every time`. [B7-reconciled 2026-10-11: amendment 8]
+- The kit's ledger (B7 edition `chapter-52.md:223`): `third site confirmed on bearing`. The audio rule remains `the Bronze from Ardenmere` in spoken inventories. [B7-reconciled 2026-10-11: amendment 8]
+
+### Tier C — source-fixed lines and closers (keep verbatim)
+
+- **Ch1 closing log (270th):** "The ferry runs when the ice goes. Karis has a bearing, an index she can't read, and a language she can't read, and she says the answers are in a border archive nobody's opened since before the Compact. Since my Kindling I've stayed out of registries because a registry is where they file you. She wants me to walk into the oldest one on the continent. The kit reads everyone but me. So does the world, mostly. Nineteen. Ice goes next week. West, and inside, for the first time since the academy above Ostrand — which is a sentence I did not think I'd write again." [B7-reconciled 2026-10-11: OWNER-pending #48] And the 168th: "Claim: something. Evidence: a cord, two edges, a hair. Ruling: hold."
+- **Thornwater:** "Five months and twenty days." [OWNER-pending #56] / "That's a season. Take it off." / "Will you mend it." / "Lie still" / "It's an arm. Use it. It'll be slow for a month and it'll ache in the wet for a year and then it won't. Don't fall on it." / "I don't know what that is." … "Neither do you. Write that down too."
+- **S2 doorway:** "You came through the board," / "I came through the board." / "Then you already know it doesn't care who you were." / "I'm learning," Vastin said. **S2 close:** "Because a council would file it," Vastin said, "and I spent forty years being the man they sent to make sure the filing held. I know exactly how deep a thing has to be buried before no one goes looking. This is deeper than that." … "I helped bury smaller things. I'd like to dig one up before I'm done." Also: "Not that. Not for some months. Vastin will do; it did for my father." / "Three hundred miles is a demonstration." / "Not *will not*. *Cannot.* There is no key."
+- **S4 lesson and log:** "The wall held the line," … "And someone else had to be the reason they wanted the line." … "I have never once in forty years needed someone else to be the reason." / "You do now," / "I know fields. I don't know packs." … "I'll learn or I won't." Log: "Vastin fought. He rooted the road and nearly got eaten for it — a wall's no good if you're the only thing making noise behind it. He knows fields. He doesn't know packs. He'll learn or he won't. Watched an Iron Wall go up two feet from me. Filed it. Note the day: an Archmarshal took a wound out here and there was no one to report it to. He looked almost free. Almost."
+- **S5:** "You keep drafting orders." / "Habit." / "Out here the habit's the tell." … "Draft nothing. Just look." / "Two copies of one ignorance." Close: "Six years," Karis said. "They measured all of it. They graded it — the sites are ranked by something, and it's the same something in the kit, and I can't read either one." … "Everything I can't read points at the same place." / "Treswick," / "The archive under it. Cleon." / "Who's Cleon?" / "The only historical-Path practitioner registered west of the Line. If the language is anywhere, it's under his hands. A day and a half." … "And then I find out whether I've been right for five years or wrong for five years, and I don't know which I'm more afraid of." [OWNER-pending #52]
+- **S6:** "I'm not an archive person." / "Leaving and routing are different verbs. I'm doing the second." / "You go inside, you don't go near the station. Not the steps, not the square. You promise me in that log of yours, because I've seen what the log does to you." / the log entry: "The fork. Oryn north; five holds; routing, not the other verb. Her term, given at the fire, taken in the log because that's the form she'll take it in: inside Treswick I do not go near the station. Not the steps. Not the square. Written here so she can read it, and so I can." / "Bring me whatever walks out of that archive with you. All of it." / "Not the steps," … "Not the square."
+- **S7 log:** "Ran the reading on myself again. Same nothing at the center. I think the reading can't do it — you can't measure a stillness with a thing that only feels movement. I need an instrument for what doesn't move. Karis says there's a man in Treswick who reads how things are built. Maybe that's the instrument. Maybe I'm about to hand a stranger the one question I've never let anyone hold. Tomorrow. The walls are close enough now to have a color." ("color" stands in the log, per ruling 19.) Also: "You were the instrument," … "I was the error." / "I declined to read you a second time. You know that. What you do not know is why."
+- **S8:** "Entered by count. That's the door." Close: "Last time we walked into a place like this," … "it took four years and a hearing to walk out." [OWNER-pending #53] / "Last time we didn't know what we were looking for." / "Do we now?" / "A name and a reason," … "Older than the walls, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." … "That's us. That's the whole reason it's still buried. We're the first ones who are both." (On "four years" see §12 C2: this is the one place where Cael's spoken rounding stands.)
+- **S9:** "Off floors," / "Fifty-two sheets." / "Four hands," / "Four." / "Right." / the log: "Lira looked at the whole ladder from the top of it and it didn't pull. She priced it. She's carrying a box."
+- **S10:** "Older than [UNBOUND]," / "I know that hand." / "Being believed — " … "It's the end of being able to be wrong." / "Give me a week." / "I'm sorry," / "Don't be sorry," Seln said. "Be nobody." Log: "Karis has been looking for this room her whole life. Cleon's been sitting in it for thirty years waiting for her. Vastin tried to open a door with his rank and nearly closed all of them — an Archmarshal's worth nothing here, which he's taking about as well as I took [SHATTERED]. Down here the stone's older than the Compact, so the Compact doesn't reach. First place inside walls I've ever stood where nobody can file me, and it's a hole under a city, and it's because everything down here is older than the machine that files. Karis says give her a week. I've got a box to carry and a promise to keep about a station upstairs. I can wait."
+- **S11 close:** "You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anything the Compact admits." … "Here's what the strata can't tell you. These aren't the ruins of something. This is the *documentation* of something. Somebody wrote these down so the thing could be *built the same way twice*." … "In thirty years I never had the stone to match the text. You walked in with three floors." … "I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since." Also: "You think Karis is right? That it's all built on something?" / "I think we're about to find out." / "Good. I'd hate to have turned down a real job for a wrong hunch." / Seln: "I looked at it." / log: "Brom was offered the life. He picked up the box." / "Seln looked at it. Decided nothing."
+- **S12:** "I put the wall in front of it anyway. I'd like that entered somewhere, since I'm not the one who keeps the ledger any more." / "It's entered," Log: "Eleventh. Iron Wall, from Vastin, in an alley, while he held a line for us with nothing behind him but the decision to. It's not Brom's — Brom gets harder, this holds. Since my Kindling I've learned to give ground and disappear. Now I've got the opposite in me, from the man who spent forty years being the wall they put in front of people like me. He held it for us instead. I don't have a word for what that is. I wrote it down anyway." [B7-reconciled 2026-10-11: OWNER-pending #48]
+- **S13:** "An instruction *leans*." … "This is a stair." / "The strata lean too." / "Twelfth. His. Lean." / "You did what." / "That's not in the classification system. That's not *supposed* to be possible. That's — " / "No," … "No. I'll not say that one. Not down here. Not to you."
+- **S14 log lines:** "Hesk sent dividers. Lines are for finding out how far a thing is from another thing. Everything is. I'll enter that as a rule and see what it's worth." / "The promise stands. Not the steps. Not the square." Also: "Out here you count who's owed a seat," … "It's a different ledger."
+- **S17 log:** "Karis cracked the grade. The sites are ranked by age and the bearing runs oldest-last — somebody laid them out in order, and the order runs into the deep edge, toward the first one they ever made. Second-tier's the fourth site, the one the Compact fenced. Third-tier's out past it, on the line, quiet for centuries. Teague's crew came after the thaw like he said — ten of us now, and he's still better at this than I am, and the ledger still says so. Two crews, one bearing, and a straightedge my guardian sent me because my grandmother said a man who catalogues everything eventually needs to draw a line through it. Turns out she was right about the line. Turns out the line was already drawn four hundred years ago. We're just the first to follow it to the end." [B7-reconciled 2026-10-11: OWNER-pending #48] Also: "Two words," … "Both of them ours." / "Noted."
+- **S19:** "Nobody declares. Nobody dies. They're seven people on a posting. Noted?" / "Noted," / "You'll die in there." / "We've been in three times," / win sentence: "The crews had removed the watch's ability to hold the approach by making the only safe retreat a line the watch would not cross and the crews would." / Teague's arm: "A third time on that arm and I'll set it in a splint. That's not a healer's opinion. That's a fact about a line." / "Noted," / "Everybody says that now," Log body: "Twelfth—no, count it again—thirteenth. Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force. Thirteen things that aren't a Path, and I got three of them in one city and one bridge. Rate's climbing and I'm writing that down because Hesk taught me to note the trend. The Span's the fourth site and the Compact fenced it, years ago by the scale on the iron, and left men on it. They knew. They've always known. The bearing runs through it and keeps going, oldest-last, and the oldest one's out there in the deep edge, quiet since they built the machine. One more site. I've wanted to stand in the middle of it since Karis said *someone made this.* Tomorrow I find out what standing in the middle of the first one feels like."
+- **S20 close:** "It's here," Karis said. "Third-tier, documented four hundred years back — as old as the record, as old as the Architect, as old as the machine. The first one they made, or near it." / "And it's on the line." / "It's the *end* of the line. Oldest-last. Everything before it was practice, or maintenance, or — I don't have the word. This is the one that's been quiet since before quiet had a name." … "You still want to stand in the middle of it." / "More than I've wanted anything since I was fourteen." / "Why." / "Because every other site, my Path worked while everyone's died. I want to know what the *oldest* one does to me. I think it's going to tell me something the records can't." [OWNER-pending #57] / He was right. He did not yet know how right.
+- **S21:** "Behind it. Noted?" / "Noted," (the young one). The far-mouth realization: the line "was not ink".
+- **S22 log body:** "Turned the Rune fragment on myself. Cleon said don't. The reading only ever told me the still place was nothing — no flow, no current, a hole where a man should have a middle. The Rune sense says it's not a hole. It says it's *built like something* — like one of those floors with nothing standing on it. Same shape to that fragment as the sites are to Cleon's. I'm not going to write what that might mean, because I don't know, and because the last time I wrote something true in this log a healer made me swear an oath about it. The instruments read wronger for me than they did at Lowmarch. The trend's climbing. My Arbiter's still dark—nothing in me to go quiet, same as always. Tomorrow, the oldest one. I've spent the whole year wanting to stand in the middle of it. I think part of me already knows what I'm going to feel. Nothing. I think I'm going to feel nothing, and I think that's going to be the loudest thing that's ever happened to me." [OWNER-pending #58] ("the whole year", never "the whole book".) [OWNER-pending #58]
+- **S23 close:** "Every other one, yours worked and ours died." / "Yes." / "You think this one's different." / "I think this one's the first one they made," … "I think if any place on the continent is going to tell me what I am, it's the one they built to make sure I'd never be." / He stepped over the line. / His Path did not die. It also did not *notice* it should have. [OWNER-pending #57] / "Wait here," he said, and did not look back, and walked toward the center of the oldest quiet, alone.
+- **S24 ledger:** "Thirteen: Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force. One anomaly, the still place, read by two instruments — the tenth, which says nothing, and the twelfth, which says a shape — and understood by neither. Not the Quiet. Not a fragment. The same kind of made. That is as far as the instruments go and I am not going past them." / "Stood in the middle of the first one. Nothing. Entered." **The letter:** "Nineteen. Your grandmother's line was already drawn. I followed it to the end; both edges agreed. Tell Lira's family I said so. Mind the shape, you said. I'm minding it. — C." [OWNER-pending #55] (§12 C11.) Lira: "Well?" / "I'll tell you on the road," … "If there's road."
+- **Closing prose (S24):** "He had spent the whole year learning that the world was built to prevent him — four hundred years of tiers and registries and a machine that lit for everyone but him, all of it laid down so that what he was would never come again. And at the center of the first place they ever made, the oldest silence on the continent, the one built before there was a word for it, he had felt no exclusion and no prevention and no wall. He had felt at home. He did not have a word for that yet. But he knew, now, walking back out across a floor older than the system that had expelled him, that it was not an accident — that the place built to end him was the one place he fit — and that the difference between *the system was built to exclude me* and *the system was built to prevent me* had a third sentence past it, waiting, that he was not ready to write. Someone had made the pattern. He was, he was beginning to understand, the pattern. That was as far as he could say." [OWNER-pending #57] [OWNER-pending #58]
+
+---
+
+## 11. Reserved truths and release limits for this book
+
+| Truth | Reveal book | Book 8 limit |
+|---|---|---|
+| **The Fractured Path predates the classification system** (the Architect designed it; ~400 years; the purpose was the un-bound) | **8 — DELIVER** | Deliver once, in the leaf (M6), in the record's voice. Karis paraphrases it once. Name scraped; "the Architect" is a title. The narrative reports the record's rationale and **does not endorse it**. |
+| The Arbiter system is the Architect's live infrastructure | 9 | Plants only: "Behaves as device. Cannot be."; "no key"; the lamps finding on its own page; the dark Arbiter unchanged. Never join the leaf to the sigils. No *terminal / circuit / infrastructure*. The Arbiter never speaks. |
+| Cael is a recurrence (the tomb; the un-bound practitioner's record) | 9 | Never say "recurrence". No tomb, no hint of one. "The same kind of made" and "the pattern" are the ceiling. The third sentence stays unwritten. |
+| The court's name | 9 | "The court", lowercase, descriptive only. Never "the Court", never "Still Court". |
+| Vastin's request and the 3–2 vote | 9 | Not staged, hinted or scheduled. He does not ask; nobody asks; nobody discusses whether he should. "Unadmitted." |
+| The Compact's open internal fracture | 9 | One closed pre-echo: the directive and objection. Seals unnamed. Not pried. |
+| The Architect's will is active and hunting Cael | 11 | Three deniable plant families only: (1) the running sub-layer sequence (S3/S5); (2) "is in it —", marked (S15); (3) the instruments and the station clustering on Cael, trending up (S1/S5/S14/S22, plus the Span row). Attributed in-world to his unreadability. "Made things do not know." Nothing says or implies agency. |
+| The Quieting's source, spread and reset | 10–11 | Every site is old and stable. **No first-tier site is produced** (the box stays unfilled). No maker's present will, no purpose beyond the leaf's, no spread, no reset. |
+| The Fractured Path is primordial | 13 | Never *primordial / before / source* about Cael. Interior read as *structure*, felt not explained. |
+| The Architect's motive was legitimate | 13–14 | The record's fear is reported, not sympathized with. |
+| The still place | far horizon | Not resolved. Not the Quiet. Not a fragment. |
+| The Rune finding | — | Told to no one. No cutaway carries it. |
+| Seln's Book 12 choice | 12 | No foreshadow beyond the cache kept undecided. |
+
+---
+
+## 12. Canon conflicts found in the source (with the edition's working ruling)
+
+- **C1 — Vastin's age.** No numeric age for Vastin appears in plan, packet, narration or dialogue; "forty years" is career length only. OWNER #8/#17 govern. [B7-reconciled 2026-10-11: amendment 11] OWNER-DECISIONS #8/#17 default: *age never stated; career "forty years"*. **Edition: no stated age.** "Forty years" is kept as his own rounding (ruling 20). *Owner ruling welcome; it does not block.*
+- **C2 — Academy-era spans given as numbers.** Examples: "The Compact spent four years trying to file this boy" (S2); "I read your file for four years" (S7); the cache carried "four years" (S11, S16); "in the four years Cael had known him" (S5); "it took four years and a hearing" (S8, a fixed line). These sit against the locked timeline (Kindling at fourteen, academy from about sixteen) and OWNER-DECISIONS #9/#18 ("since his Kindling", no number, for B4–B6). **Edition:** no numeric span since Kindling. Anchor academy/cache spans to events; office survey records may keep their own six-year rounding where explicitly identified as the office's. The protected S8 four-year line remains word for word under [OWNER-pending #53] and is never repeated as fact. [B7-reconciled 2026-10-11: amendment 11]
+- **C3 — Oryn's days past her road.** S20 has "two days past the end of the road that had been hers" (305th) and S23 "three days past" (307th). The cairn where her road turns north is on the 300th, which makes them five and seven days. **Edition: count from the cairn**, or drop the number.
+- **C4 — The grandmother.** The universe ledger lists "Hesk's grandmother" as the owner of the straightedge saying. Book 7 edition chapter 60's note (chapter-60.md:67) [B7-reconciled 2026-10-11: amendment 11] ("Your grandmother said…") and S17/S24 make her **Cael's** grandmother, Hesk's late wife. **Edition follows the prose.** The ledger line is a slip.
+- **C5 — Rune's tier.** The universe bible says "Cael's twelfth (Rune-adjacent, partial, Bronze)". The notice says "Rune family … Tier equivalent unknown". **Edition follows the notice.** Bronze is Cleon's tier.
+- **C6 — Architecture residue.** The architecture's header, plant ledger and checkpoint still say Cael turns twenty in Ch14, the terminus is "the Still Court", and there is a "sixth" site. **Superseded** by rulings 12 and 13 and by the closed prose: nineteen throughout, "the court", the fifth.
+- **C7 — Reveal locus.** CANON_RULES says "ancient records in edge-territory ruins"; the bible says a "pre-Compact archive at a border city". The source stages both: the leaf is in the Treswick archive and its key is the ruins' carvings. **Flag for the bible pass.**
+- **C8 — Fragment trajectory.** The bible's "22 integrations by Book 10" leaves nine for Book 9 and the Book 10 skip. DECISIONS row 11 left this OPEN with a proposal (≈17 by Book 10, 22 by Book 11). **Not Book 8's to settle.** Book 9's planner must plan the rate and say so.
+- **C9 — Lira's paper.** S8 calls it Lira's paper "on paper from a circuit". Canon (Book 5) makes her Iron R1 **formal at the Ostrand station**. **Edition:** "her registry paper", Iron, first rank, formal, carried unshown.
+- **C10 — The "first entry inside walls".** S14 calls the 292nd inventory "the first entry in the plain hand that had ever been made in a city", but daily log entries are written inside Treswick on the 282nd, 285th and 290th. **Edition:** it is the first *inventory* (the year's ledger form) written inside walls.
+- **C11 — "Tell Lira's family I said so"** (S24 letter to Hesk, kept by the final review). The referent is unclear: no Book 8 scene sets up Hesk carrying word to Lira's family. **Kept verbatim as source-fixed; owner to confirm intent** (it may be a callback the edition's earlier books should plant). [OWNER-pending #55]
+- **C12 — Office "six years" and the Kindling date.** "Six years" is the office's survey-record rounding. It is not paired with a numeric count since Cael's Kindling. [B7-reconciled 2026-10-11: amendment 11]
+- **C13 — Reader Standard repairs already made in the source.** Seln does not lie at the yard door (ruling 25). Consent is asked before every reading (S18 montage and Cael, S22, S24). **The edition carries both and adds no exception.** The source has no profanity and no gore to remove.
+- **C14 — Calendar of the leg.** STATE_RUNNING's first Ch19 note put the cairn on the 301st; the closed prose puts it on the 300th, with the crest on the 303rd. **Edition follows the prose** (§6).
+- **C15 — Rhythm (not canon).** The source runs a 21.3-word sentence mean, 19% of sentences at forty words or more, and a paragraph median of 51. The edition re-builds the sentences (§7.4), and Tier C wording stays verbatim.
+
+---
+
+## 13. Sequence locks — firsts and silences the expansion must not break
+
+New cold-term, Treswick and leg episodes [B7-reconciled 2026-10-11: amendment 6] must leave each of these intact:
+- **Lira asks nobody for anything** from Norhold until "Will you mend it." (266th).
+- **Cael lies still for no one but Oryn,** and she has read him three times (sack, table, marsh's edge) until Millrace. [B7-reconciled 2026-10-11: coordinator ruling — in the edition's Book 7 Oryn's hands were on Cael for several surface reads that found nothing (the mountain; the ford at Oxhollow; the stake), for the long reading on the 100th (the table), and at the Hall on the 120th (the marsh's edge); Cael has read Oryn twice, each time after asking and an explicit yes.] **Oryn does not read Cael** before Millrace's deep reading; she reads his ribs' surface at most.
+- **Seln teaches nobody anything** before "Draft nothing. Just look." (280th, to Vastin).
+- **Seln and Vastin exchange no words** before the 277th long-table doorway.
+- **No Iron Wall is shown** before the cut (279th). No Force is shown in Cael's presence before the meadow cart (298th).
+- **Teague's crew never drills under Vastin's wall** before the pass morning, when the doctrine is told to them once.
+- **The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] says nothing to any of the six** until her question at the pass. **The broad man says nothing to them** until "Aye" (305th). **The older healer never speaks to them.** **The young one's name is never written** (said once, by the broad man, in the stream-bed). [OWNER-pending #54]
+- **"Noted" adoption:** Vastin's first is the 298th (the grade); Teague's first is the 303rd (the crest); Oryn's "Everybody says that now" comes on the 304th.
+- **Vastin** takes no order without walking it back before Millrace's "Stand there". He does not sit in front of the crew between the cut and the road's last post (281st).
+- **Cleon** is above ground with the crew only once (the yard fire). Otherwise he is at noon at his tavern, or on the stair. He takes no notice of Cael until he is told.
+- **Oryn's hands** never come off a person with nothing done before the young one (no deaths on her north circuit).
+- **The mule** goes north with Oryn on the 281st and returns at Millrace on the 298th. From the fork to Millrace the boxes are carried on backs (ruling 16).
+- **The square and the station steps:** Cael never sets foot on them. He never looks at the crown except at the count-of-one.
+- **Cleon's name** is first heard by Cael on the 280th. **Treswick and the Deepstacks** are first spoken aloud at the 268th table.
+- **Karis cannot read the index as a grade** until the 298th. The leaf is not readable on the page before the seventh day of Cleon's week.
+- **Vastin has not read the directive or objection** before the shale camp (305th).
+- **Cael reads pages the wrong way round** until somewhere on Treswick's stair, and no longer does by the 297th.
+- **The clerk** stays unnamed and "do not name" holds. He has not asked three things by the 291st.
+
+---
+
+## 14. Names
+
+**Names pending owner approval: none required.** Every new figure the expansion needs is carried by role: the axe-head hold's factor, the carter at the ice road, the ferryman and his boy, Oryn's route patients (at Oxhollow and unnamed holds), the hold child at the Kindling, the broker's men, and the hood in the tail. This keeps the audio load low in a book whose cast is already heavy with role-names (Teague's crew must stay unnamed by canon). If the author finds a recurring role that needs a name in the audio, it is listed here for approval before drafting, and drafted under the proposed name per the edition's policy (RUN-LEDGER 18:41).
+
+**Existing names stay exactly as canon has them.** Never "Halcenvane" on the page; use "the academy above Ostrand". The registry collisions are untouched (OWNER-DECISIONS #6). **Audiobook read-through list** (carried): Cleon/Cael (KLEE-on/KAYL; never in one spoken run); Span/Stair; Treswick/Ternhall (keep them out of one spoken inventory); the O-onset stack Oryn/Oxhollow/Ostrand; Pike/Fiske. Places minted by canon only: Treswick, the Deepstacks, the Sunken Span, "the court" (description), the shoulder hold, the cut, the pass. **Do not name new holds** on Oryn's route. Use Oxhollow or Thornwater, or none.
+
+---
+
+## 15. Handoff to Book 9 (series bible: *What Was Lost*)
+
+Book 9 opens with: the court's centre (no edge; "the same kind of made"); the Rune finding that nobody else knows; the dark Arbiter; the instruments trending wrong; the crack; Vastin unadmitted (Book 9 stages his formal request and the 3–2 vote, with Seln deciding); Oryn's three future holds and "After the thaw: bring the map, and lie still when I say."; Teague's "After the next thaw" and his grief; Cleon under Treswick; thirteen fragments; the leaf's copies with the gap drawn; the mule with Oryn; Cael remains nineteen at the Book 9 opening. Do not place or calculate his next birthday until the owner rules the series calendar. [B7-reconciled 2026-10-11: OWNER-pending #48] Book 9 owns the tomb in the deepest edge territory, the word "recurrence", the Compact's open fracture (Seln's documents), and the Quieting's first visible spread into a city's outer districts. **Do not pre-pay any of these in Book 8.**
+
+---
+
+## 16. Run notes
+
+- This plan was written by the planning seat in one session from the files listed at the head. No manuscript was drafted. The other book-map files were not edited.
+- The baseline metrics in §7.4 were measured with `editions/monroe-1.3/tools/formula_metrics.py` over the 24 source chapters.
+- Book 7 is CLOSED through Movement 8. Its final seam was re-verified in state/B7-RECONCILIATION-H-RERUN.md; §1 and STATE_LEDGER.md must match that final audit before Movement 1 is compiled. [B7-reconciled 2026-10-11: amendment 11]
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-08-before-the-paths/STATE_LEDGER.md
+
+# STATE LEDGER — Book 8: Before the Paths (Monroe 1.3 edition)
+
+This is the book's entry state from the CLOSED Monroe 1.3 Book 7 manuscript, chiefly chapters 45–60, and Book 7 `STATE_LEDGER.md` AFTER MOVEMENT 7 and 8. Historical Book 8 source chapters are planning/reviewer aids only. After each movement is drafted, append one section from surviving edition prose, not from the plan. Where prose and plan differ, record the prose. The binding end state is `BOOK_MAP.md` §1; sequence locks are §13; owner-controlled lines are §12 and `OWNER-DECISIONS.md`. [B7-reconciled 2026-10-11: amendment 12]
+
+---
+
+## ENTRY — Movement 1, chapter 1 (Lowmarch lower inn; the hundred and thirty-first morning past the Line; after Oryn's letter and the Book 7 closing hearth scene; last ferry and rope-taking were day 130) [B7-reconciled 2026-10-11: amendment 13]
+
+### Bodies
+
+| Who | State |
+|---|---|
+| Cael | Nineteen; no birthday this book. Ribs quiet since day 129. His Arbiter woke at Kindling, its plate lit eleven seconds late, the failed-safe word replaced the old name, and it went dark. He has no Path. Ten fragments at rest; the still place untouched since Oryn's order. **Birthday rule:** never place either birthday beside a season name, month order or count back (OWNER-pending #42/#48). [B7-reconciled 2026-10-11: amendment 13] |
+| Lira | Wind; Iron R1 formal. All eight left-forearm marks whole; arm slung high and holds nothing until Oryn says. Right ankle taped and unmended. Oryn's crossbow, hook and one bolt; cannot span it herself. [B7-reconciled 2026-10-11: amendment 13] |
+| Brom | Iron Skin; Copper formal. Right shoulder mended twice and not a third time this season; held in four yards of webbing by the drover's turn. Older healer: `It'll do.` [B7-reconciled 2026-10-11: amendment 13] |
+| Karis | Ember; **Iron Rank Three**. Voice whole. Fit at entry. [B7-reconciled 2026-10-11: amendment 13] |
+| Seln | Shadow; Bronze; fifteen years' service. Fit. Locked case carried shut for twelve years and unopened; the protected six-year line is not the case's age. [B7-reconciled 2026-10-11: amendment 13] |
+| Oryn | Tide; Iron R4 provisional. Last located at Thornwater, with route work north next; grey jenny and thirty-foot three-strand rope with her. [B7-reconciled 2026-10-11: amendment 13] |
+| Teague's crew | Staying through the cold term at Lowmarch's upper inn: Teague, tall spear man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59], broad crossbow man, young one, older healer of no Path. All but Teague unnamed. [OWNER-pending #54] [B7-reconciled 2026-10-11: amendment 13] |
+| Vastin | Last prose position: inside a registry office, returning the Fallow completion report to its folder unannotated. No numeric age; `forty years` is career length only. [B7-reconciled 2026-10-11: amendment 13] |
+| Pike | Lowmarch board-keeper; one arm; lower inn board room. [B7-reconciled 2026-10-11: amendment 13] |
+| Hesk | At Denvash. His brass straightedge and note reached Cael on the last ferry. [B7-reconciled 2026-10-11: amendment 13] |
+
+### Knowledge [B7-reconciled 2026-10-11: amendment 14]
+
+**Cael knows:** ten fragments with current costs/deployment notes; deployment since the Line is 27. The still place is a location under the breastbone, read three times, with all ten going round it and none through; `Not the Quiet. Not a fragment.` He has obeyed the no-touch order. Four sites lie on one map edge: Ring, Stair and Hall entered; fourth unentered, unnamed, undated and untested at 440 yards and two strides radius behind stake 34 repeated one per pace. The three entered sites stop live Arbiters while his already-dark Arbiter remains dark and his fragments answer. He has no Path; nobody knows why. He knows the kit's radius line, 41-kind index, stroke/bar and `third site confirmed on bearing`; Karis's `Someone made this pattern.` remains unanswered.
+
+**Who knows the integration mechanism:** Cael, Lira, Brom, Karis, Seln and Oryn — six. Oryn knows sources by Path and not by person except those she has touched; she does not know Seln supplied Shadow-adjacent. **Not** Vastin, Teague, Pike or Cleon.
+
+**Still-place sharing:** all six know the phenomenon. Cael said the label `the still place` to Oryn; the other four were told the three-sentence description without the label.
+
+**Lira knows:** the mechanism and still-place description; the three entered sites; and the fourth site's outside survey, repeated stake 34 and unknown effect. She did not cross or test it.
+
+**Brom knows:** the mechanism and still-place description; the three entered sites; and the fourth site's outside survey, repeated stake 34 and unknown effect. He refused entry without Oryn and without knowing what the larger circle would do.
+
+**Karis knows:** 52 sheets (11 Ring / 29 Stair / 12 Hall); 41 kinds at Ring/Stair and 33 of those 41 on the sampled Hall wall; the three centres lie on one straight edge and a fourth circle lies on that line. She knows the fourth site's outside measurements but has no sheet from inside it. Her larger hypothesis is unspoken and unentered. She knows `[UNBOUND]` only as the one-time stratum limit from Book 7 edition `chapter-42.md:269`; she does not yet know what the kit's index indexes.
+
+**Seln knows:** the faction's craft, the completion report went west, the rival clock, the dead surveyor's paper and the fourth site's outside survey. His case remains unopened and undecided.
+
+**Oryn knows:** the mechanism by Path, the full still-place telling and label, and the three entered sites on one bearing. She left at the day-122 fork and does not know the day-123 fourth-site survey or result at entry.
+
+**Teague knows:** six returned from the Fallow; one declared more than one kind leaving the Stair; six returned wet from the Hall; the map's brass runs through three places and off its edge. He knows neither the mechanism nor that anything works inside.
+
+**Pike knows:** the nine board outcomes, the first-snow season line and the crew's return record. He knows neither the mechanism nor what works inside.
+
+**The Compact knows:** quiet ground exists and stops Arbiters; the Fallow completion report identifies the crew; the Stair rim saw a declaration; a clerk's packet says the crew kept the kit. It does not know that Cael's fragments work inside.
+
+**He does not know:** that the index is a grade; the Architect; Treswick's archive or Cleon; anything Vastin carries; that instruments will read wrong in his hands. The last is discovered on the 168th (Book 7 ends with the instruments reading TRUE in his hand; Book 8 Ch1 owns the first hair). [B7-reconciled 2026-10-11: coordinator ruling] (restored: entry content the amendment's replacement had dropped)
+- The faceless faction has reached twice: on paper (a completion report naming the crew that walks out) and in person on the Stair's rim. Book 6's sentence from Vastin stands: "I knew the system was imperfect. I didn't know it was designed to be." [B7-reconciled 2026-10-11: coordinator ruling]
+
+**Terminology:** `the Quieting` is the process at quiet ground, not a place. `[UNBOUND]` is a historical stratum-limit word, not a current classification. `the still place` is Cael's old private log label for the non-flowing location in him; it is not the Quiet and not a fragment. `the Compact` is the institution; do not use it as a new name for the faction or the Quieting.
+
+### Resources and accounts [B7-reconciled 2026-10-11: amendment 15]
+
+- **Living purse:** 96 marks (102 less six paid to the lower inn for the back room through the cold term). Hearth space for five is covered by standing-money. Two letters went west at a copper each.
+- **Separate reserve:** cart-and-gelding reserve sealed under five thumbprints in the third box; unopened and unspent. Never merge it into the living purse.
+- **Pike:** nine completed lines under the five names. Ninth/Stair: *three hundred; taken; not paid*. First-snow season line written, with no number against it. Five names eleventh; Teague ten up. Fallow hundred and Stair 300 remain in Pike's box unmarked; neither is a crew-payable debt.
+- **Open work/debts:** ferryman owed 60 yards of four-strand rope, not wanted before the thaw. Forty-mark axe-head fence taken by the five and not begun; a day's posts and far side remain. Teague's four-mark weir job was forfeited.
+- **Kit:** tarred-canvas case and strap; cord knotted at the fives; unused stake 32 with stroke/bar and bright turned point; mallet. Dead surveyor's ledger shut beside it. No pen.
+- **Karis/research:** 52 sheets in three copies, 11/29/12; carter's map with four circles and pencil line through them and off the hide; Ternhall straightedge; dead surveyor's ledger.
+- **Cael:** Hesk's brass folding straightedge; Hesk's satchel holding the current log, old volume, observation notebook, Hesk's letter/note, Ephram's and Vell's letters, both broker papers, Pike's bark and Oryn's bark.
+- **Seln:** locked case, shut and unopened.
+- **Animals/boxes:** brown mule with the five; grey jenny with Oryn. Three boxes at the back room's warm wall; reserve in the third.
+- **Weapon:** Oryn's crossbow, hook and one bolt with Lira; four bolts remain in the wold-wyrm.
+- **Letters:** received Hesk's brass/note and Oryn's bark. Sent west on day 130: Hesk and Vell (`The session still stands`), plus the clerk's packet. Ephram's reply is deferred to the first boat of the thaw.
+
+### Fragments and progression (ten confirmed; the still place uncounted)
+
+| # | Fragment | Source | Standing notes at entry |
+|---|---|---|---|
+| 1 | Wind-adjacent | Lira | Burst; locked landing beat; loud to discharge hunters. [B7-reconciled 2026-10-11: amendment 16] |
+| 2 | Pressure-adjacent | `the Bronze from Ardenmere` | Narrow, deep channel. [B7-reconciled 2026-10-11: amendment 16] |
+| 3 | Iron-adjacent | Brom | At Gold weight reads air or body/ground, never both; holding Storm's air read loses body/ground. Edge workhorse. [B7-reconciled 2026-10-11: amendment 16] |
+| 4 | Compression-adjacent | Reydan | Contact absorption/frame. Hall bill carries in the old ribs/right arm. [B7-reconciled 2026-10-11: amendment 16] |
+| 5 | Ember-adjacent | Karis | Small, hot, exact; Stair point billed the left palm. [B7-reconciled 2026-10-11: amendment 16] |
+| 6 | Shadow-adjacent | Seln | Idle cost from waking; used exactly twice (Ring, Stair); Stair bill dead to elbows; seal held and is shut at entry. [B7-reconciled 2026-10-11: amendment 16] |
+| 7 | Storm-adjacent | Daeva | Laid lanes 10/10/12; clean at 11/11/13; fourth lane untested; ten-count Stair late-beat bill. [B7-reconciled 2026-10-11: amendment 16] |
+| 8 | Anchor-adjacent | unnamed hand | Perception absent at 14 feet, faint at 12, sure at 10. Purposeful contact unbinding at a knot is a deployment. A held point thins all other fragments. Two counted uses: Stair unbinding and Hall holding, once each way; Hall kerb trial not counted. [B7-reconciled 2026-10-11: amendment 16] |
+| 9 | Blade-adjacent | Ephram | Sharp, short. [B7-reconciled 2026-10-11: amendment 16] |
+| 10 | Tide-adjacent | Oryn | Partial; Iron; self and contact; clinical. Self-read three times; Oryn read twice, each after ask and explicit yes. Outward bills: right hand for an hour and most of a loaf; slow hand after the telling. `ask first, every time`. [B7-reconciled 2026-10-11: amendment 16] |
+| — | The still place | — | A location, not an entry; read three times; does not flow or change; everything goes around it. Not the Quiet. Not a fragment. Older than the log. Untouched by order. [B7-reconciled 2026-10-11: amendment 16] |
+
+**Deployment since the Line: 27.** Trace: ford 1; Ring 12; Tide/Oryn ridge 1; Stair 9; Hall 3; Tide/Oryn marsh 1. Self-readings and the Hall kerb trial are excluded. **Invent no new numeric ceilings. Preserve every numeric ceiling and bill fixed by canon.** [B7-reconciled 2026-10-11: amendment 16]
+
+### Relationships
+
+| With | State at entry |
+|---|---|
+| Lira | Always first. Has read the log. Has a thing about the tops of walls since the walls at the academy above Ostrand. [B7-reconciled 2026-10-11: amendment 17] "What am I becoming if nobody's measuring" is still open. Has asked nobody for anything since Norhold. |
+| Brom | Silent anchor; prices things; "It's a boot". Has found his worth in Pike's ledger, not a family's tier. |
+| Karis | Holds a bearing, an index and a language she cannot read. Her rule: "A measurement is a fact about a ruler, not about the hand that held it." |
+| Seln | Says a thing once. Watches the rival clock. Gave the kit's ledger to Karis on the road and did not ask for it back. |
+| Oryn | Terms of service; a route she owns. Cael's three readings and full telling are paid. Her withheld answer was never a debt and still stands. Her rule is in her hand and his. [B7-reconciled 2026-10-11: amendment 17] |
+| Teague | Rival captain; honest; priced. A term set in the snow. Better field captain, and the ledger says so. |
+| Pike | The ledger's conscience. Stopped numbering the five because his book was "wrong about a crew by being too small". |
+| Vastin | Off the page. The last contact was a borrowed office in Ostrand and one sentence. |
+| Hesk, Vell | Letters. Hesk's next parcel (the dividers) arrives in Treswick on the 292nd. |
+
+### Open threads at entry
+
+- The fourth Book 7 site: closed at entry as unentered, unnamed, undated and untested; Book 8 later identifies/enters it as the Sunken Span. [B7-reconciled 2026-10-11: amendment 17]
+- The kit's index: decoded on the 298th as a grade.
+- "Someone made this pattern": answered in part by the leaf (Movement 6).
+- The still place: deepened, not resolved.
+- Oryn's old Book 7 debt: paid. Book 8's Millrace deep reading is a new event, not settlement of an entry debt. [B7-reconciled 2026-10-11: amendment 17]
+- Lira's arm and ankle: released and mended at Thornwater (Movement 1).
+- Brom's shoulder: read at Millrace.
+- Teague's after-thaw term. [B7-reconciled 2026-10-11: amendment 17]
+- The faceless faction: three reaches this book.
+- Asset-restriction pending.
+- Carried and untouched: Reydan's "find me later"; Daeva's rematch; Vell's session; Hesk's full history; Coss's grade; the market stranger; the Iron Skin watcher; the Anchor operative's "account". [B7-reconciled 2026-10-11: amendment 17, Brom's advancement review deleted as closed history] Each gets a log line at most.
+
+---
+
+*(Append one section per movement below, from the drafted prose: bodies, injuries, knowledge, resources and cash, fragments, relationships, open threads, and any plan/prose difference.)*
+
+
+## AFTER MOVEMENT 1 — chapters 1–6, days 131–270 past the Line (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Seam with the locked Book 7 ratified** (Sol plan audit): day 131 at Lowmarch; the five; ten fragments; the debt to Oryn paid, not forgiven; the still place told and here neither read nor touched; the fourth site unentered and untested; the kit, the dead man's ledger and fifty-two sheets; the brown mule with the five.
+- **Deployment since the Line: TWENTY-NINE.** Twenty-eight on the 140th (the Iron read on frozen ground beside a trapped calf) and twenty-nine on the 161st (the read on the river ice): both in earnest. Shed and meadow work is logged "Trials. Not counted". Anchor's counted uses stay at two; Shadow twice and sealed; no Tide use (asked of Lira and refused); no self-reading; Oryn does not read Cael.
+- **Teague's spear is a tall MAN** (OWNER-pending #59; Book 8 follows the locked Book 7). This movement uses no pronoun. He, the broad man and the older healer have not spoken to the five. Teague's crew is unnamed. **Teague can read.**
+- **The kit's cord** is twenty strides, knotted at the fives: four knots is a length; a slip of ash a stride long counts odd strides; the yard at Lowmarch is one length and four knots and two strides. No yardage is given for a cord. (The court later is about fifty cords across, about 1,107 yards; not 159.)
+- **The stroke and bar** is on stakes thirty-two and thirty-four only. Karis cannot read the index and does not know it is a grade.
+- **"The first hair"** (the instruments reading wrong in his hand) is discovered on the 168th and logged; no theory; deniable.
+- **Thornwater, days 265–266:** Lira's arm released (OWNER-pending #56 "Five months and twenty days.", said by Lira); **Lira asks and Oryn mends the ankle** ("Lie still," Oryn said; "Thank you." said by Lira; "Route's whole. The knee held. Nobody died of three weeks."). Before this Lira had asked once, on the mountain in Book 7, and nobody since.
+- **"West" was first said aloud at the six-person table on the 268th**, in Karis's protected speech (Treswick, the last Compact city on the Line; the registry office on the old town; the Deepstacks under it). Cleon is not named. The protected closing log is on the 270th.
+- **Lowmarch's cold term:** Pike's rate and "Eleventh" (said by Pike, to the keeper's "Pike,"); the axe-head hold's fence worked; the silent yard with Teague's crew (learning bouts, no wall drilled, no Force shown in Cael's presence); the ice road on the 161st; Seln's notched wand (the first notch is day 131).
+- **Withheld and intact:** no Vastin, no Iron Wall; nobody says who or why about the pattern; the still place untouched.
+- **Owner defaults in these chapters:** #18 and #48 wordings as the map now gives them; #56 verbatim. **Names:** none minted. **Length:** about 30,900 against 30,000, accepted.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial, cold read, source-distance (4 tracked passages, no dense scene; probe 1% / 4%), plan / canon / protected-text audit (RATIFY WITH LINE FIXES — fourteen applied by the coordinator, including the four protected units the author had left as markers and the cord's length). The audit also settled five conflicts between Book 8's plan and the locked Book 7 (the spear; Teague reading; Lira's asking; the stroke and bar; the cord), all resolved in the plan, not in Book 7. Same-author repair r1 in progress when this block was written; the CLOSED note follows when the recheck returns.
+
+### New canon minted (author's list)
+- **Lowmarch in the cold (flag).** The ferryman's round shed has reed hurdles tied between its posts for the cold; its horse-walk is eight strides across; there is a stone trough inside the door, a mounting block, and a lean-to **rope-house** against it where he keeps his blocks and cordage. The hauling rope lies coiled against the drum. He has watched the river for "twenty cold terms". His ice: the shelf, then a skin that takes the snow, then "one night it goes blue"; it went blue on the 153rd night; he sounds it with an iron bar and marks his track with a double row of spruce boughs ("my green"), which swings wide at the bend above the landing, where a side water comes in under the western bank and the ice never shuts sound. He pulled the green on the 224th. Open water down the middle on the 230th. He has the scow on blocks before the 263rd and begins to knock them out on the night of the 270th.
+- **What four a month buys (flag):** the hearth's end; the pot at dusk, a bowl a head; and the crew's names said to anybody who comes asking. Not bread, candles, the back room or the mule. "A cold term's five by my book": twenty, in front. The keeper comes out to his own door, behind the plank, to hear his floor priced (the join for the restored `The keeper said, "Pike," and Pike said, "Eleventh."`).
+- **Teague's sign at the plank (repair r1):** Brom sees the salt sacks first and says that Teague will be "a fortnight" up the cold road (he is back on the 147th). Cael puts up an open hand, as carters do; Teague, bent at a girth, answers with his chin by the width of a finger. Brom: "It was for the fence… He's handed it over."
+- **The cold-term board:** *Roof, the ferryman's rope-house; shingles found; five, when it has kept a thaw out.* · *The well-house at the south fork; a door hung and a hearthstone laid; three, and flour.* · the fence at forty. The five take the roof (five strokes). The roof is paid on the 268th and Pike says its line twice: **eleven lines** in his book at the movement's end.
+- **The axe-head hold (flag):** two days up the cold road, which follows the north water and then climbs a side valley; a gate with an axe-head nailed to its top bar; a long house under turf and a longer byre with sixty head. Its **factor**: short and thick, a tally stick, a sheepskin; his thumb-mark is shaped like a wedge; he asks no name. The long fence leaves the yard at the gate, climbs a four-hundred-yard hillside aslant and runs east along the foot of a band of grey rock; posts six strides apart. **Teague's crew dug all forty-one remaining holes before the frost and capped each with a flat stone and straw.** Two of Teague's standing posts, the twentieth and twenty-first from the gate, stood a hand north of the line; Brom re-set them. "At the hold above, in my father's time, a dog got in among the calves… It's pasture now."
+- **Shale-backs, added to Book 7's account (flag):** a herd will lie up for the cold under a lee, on rock that it has scraped bare; it rises hind end first; a calf in fright makes a thin grinding cry and its plates stand on end; a herd roused by a calf lies down again when the calf is quiet; they will follow a strip of uncovered lichen at about thirty-eight to forty yards in the hour and will take lichen from a cap. Seventeen in this herd, four of them calves. The read was tried at 350, 200 and 60 yards and, in earnest, at a pace and a half: no answer was seen. Karis has entered both and calls neither a test.
+- **The silent yard (flag):** a square trodden under the ash, twelve strides on a side, a hazel peg at each corner, a bench from the upper inn on its western edge. Teague's rules: three touches; "a touch is what the one who took it calls"; over the pegs is a touch; nobody strikes what a healer has had her hands on this season. The name is the three grey men's. Bouts on the 148th (three to none) and the 158th (three to one); a sack game on the 190th, three a side.
+- **Teague's spear, as seen (flag; see Owner flags):** a long quiet face under a wool cap, pale eyes, big chapped hands; fights with a seven-foot ash pole with a rag bound over one end; turns on the back heel; draws the pole back through the leading hand "like a bolt through a staple"; marks a touch taken by lifting the pole's butt a hand and grounding it once; shortens the grip to the pole's middle and uses both ends.
+- **Teague's wrist (flag):** the leather has been on it "since before the boy could lift a pack"; the joint is thicker than its fellow by the width of a finger; it "clicks"; "A Force paid where the line came out of him." The older healer binds it to her board at night and tells him to leave his Path shut till the thaw. A block lies on the second ledge of the cold road, with a herd lying up above it; he will shift it "as a carter would". The young one has brought him a hot cloth for it on every cold night since he joined. In his own window Teague is named as a Force for the first time in this edition. No Force is used on the page.
+- **Fragment observations (flag; no new numeric ceiling):** Wind's locked count is the same for four strides as for eight ("it's paying for the stop"). Ember's heat comes back to the hand that carries the lit thing. Compression on one heel leaves half the load in him; "It needs ground worth sending a load to." Pressure goes through what it strikes and on into what is behind it, and comes back off a curved surface. Blade's edge lasts "about as long as a struck match", and the steel pays. Leaned on for long, the read takes his near sight: an hour after the calf, longer after the ice; lying flat it reads through his chest and forearms at the same pace and a half. Sound ice takes a weight "in a wide shallow dish"; rotten ice takes it on one side; frozen ground "rings". A point of Anchor that he has set himself can be taken down with his hand on it.
+- **The ice road (flag):** a four-wheeled cart behind two mules, eighty yards out, with a dozen barrels and two pigs of iron for the smith; the carter heavy and grey-bearded, unnamed; one barrel of fish lost. Hauled out on the ferry's own rope and drum by Oryn's brown mule. Pike: "That's said. It's not entered."
+- **The kit as a tool (flag; as amended by the audit's five line fixes):** the cord is tarred hemp no thicker than a pencil, with a knot at every fifth stride and a brass eye whipped into one end; it is run out to its last knot, **the fourth**, and **"Four knots is a length"** (four five-stride intervals; no yardage is given anywhere); odd strides are taken with a notched slip of ash "a stride long by the dead man's reckoning". Karis cut a peg of peeled hazel to the stake's length. The inn yard, from the plank's left-hand post to a scratch on the stone trough by the gate: **"one length and four knots and two strides"**, forty-two; for Cael the slip laid once from the fourth knot leaves room for only half of it again. Karis measured the cord against the Ternhall brass on the 116th and again on the 170th: thirty-one lays "and a piece under half" to the first knot, unchanged, and the second, third and fourth knots the same.
+- **The edges (flag):** each strip's length pricked into the deal with a needle. In Cael's hand the Ternhall strip stops a hair short of its prick and Hesk's goes a hair past; the gap is one of Karis's own hairs, which she keeps in her notebook. True in the other four hands, and true again when he takes his hand away.
+- **Karis (flag):** her rule dates from the day, "as a girl", when a registrar laid her card before her and could not say what instrument it had been taken with. She once read the archive's name "on the spine of a catalogue that she was not allowed to open". The mark stands "beside the Stair twice over and beside the fourth place", and not beside the Fallow or the Hall (as Book 7's stakes have it). Her leaf: *What I should have to be able to show.*, eleven lines.
+- **Her case, as said on the 268th (flag; the place itself is now given only in her restored protected speech):** mine are the two steps before it: "I think that they are instructions." (the same forty-one kinds in the same order on three floors; a line that carries the circle's own measure), and that a key to the index exists and "is kept". The hide lies on Seln's oilcloth with the brass along its pencil line. Then the coordinator's three joins and the protected speech, in which **"west", "Treswick" and "the Deepstacks" are said aloud for the first time**. My earlier description of the archive, of the provision and of Karis's certificate is gone. **After the speech, mine:** Seln adds only what the speech does not have (a gate with a book in it; a station on its crown; the paper that executes "on the hour when any of us shows a certificate inside the Line"; one file not shut); Lira's certificate ("Iron, Rank One, with a seal on it"); Cael's "A registry's where they file you"; no ruling. The scene closes on "her first two words", which none of the six had ever said aloud as a place to go.
+- **Seln's wand (repair r1):** one notch each morning from the 131st, the day after the clerk's packet went over on the 130th: eighteen on the 148th (the first bout, now headed with its day), twenty-eight on the 158th, the hundredth on the 230th; a second wand at forty on the 270th.
+- **Lira's knife (repair r1):** dull since Blade was laid on it on the Fallow; Cael has the smith put an edge on it on the 181st, for a copper of his own; she cuts the loaf in five with it.
+- **The lore moved out of the opening (repair r1):** the three entered places, the line where Arbiters stop and the fragments' answering inside are now told in the back room, at the open kit ("The hole that it came out of was one of three."); why nobody declares on a road is told at the head of chapter 2.
+- **Thornwater's yard (repair r1):** the mule finds Oryn first; she is on her heels at the bench's end binding an old man's hand, and her right hand goes out behind her to the mule's cheek; she looks the five over only after the old man is sent off, Cael first and briefly, then Brom's knot, Lira's boot, and last the sling.
+- **Thornwater (flag):** the ford in thaw is thigh-deep over the sill, with the white stones and the bar under water; Lira finds the ledge by the smooth water and the line of standing waves below it. The ankle "had knit as it lay in a river, crooked"; an hour. Oryn: "It stops being mine when you take it." She will not undo the older healer's knot and will look at the shoulder "beside her". The bowman comes down off his platform during the mending. The steading's woman counts for a sixth.
+- **Roles (all unnamed):** the axe-head hold's factor; the carter on the ice; the ferryman and his boy; the lower inn's keeper; the older healer; the tall one; the bow; the young one; the bowman and the steading's woman at Thornwater; the hide-woman; the three grey men.
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+**Calendar.** The night of the **two hundred and seventieth day past the Line**, at Lowmarch. Days on the page: 131, 133, 138–146 (the fence; the herd on the 140th), 147, 148, 150, 158, 161, 168, 170 (Karis), 176, 190, 224, 230, 263, 264–265 (the saddle; the ford), 265–266 (Thornwater), 267–268 (down), 268, 270. No season, month or English weekday name is on the page. The river: shelf ice on the 131st; a road from the 154th; open at the middle on the 230th; "a week" from carrying a boat on the 268th; the scow's blocks being knocked out on the night of the 270th.
+
+**Where everyone is.** Six at the lower inn: Cael, Lira, Brom, Karis, Seln, and Oryn, who came down from Thornwater unasked because Lowmarch is her first stop after a thaw and the mill her second. Her brown mule is in the ferryman's shed. The mill's grey jenny is not mentioned after Book 7. Teague's five are at the upper inn; they do not appear after the 190th.
+
+**Cael.** Nineteen. **Ten fragments.** **Deployment since the Line: twenty-nine** (twenty-seven at entry; the read on frozen ground at the calf, the 140th; the read on river ice, the 161st). All ten tried in the cold term and written up as *The ten, by use*: Wind (the lock cannot be shortened, only placed), Ember (the burn), Shadow (held, not opened), Compression (both heels; ground worth a load), Pressure (seen coming; narrow and deep; comes back), Blade (short; the steel pays), the read (ground or air; a pace and a half; the eyes), Storm (one lane; ten counts; a fourth untried), Anchor (a point held to thirty; ten, twelve and fourteen feet), Tide (asked of Lira; told no; not used). Shadow used twice in all and shut. Anchor's counted uses still two. Tide: Oryn twice, himself three times, nobody else. **The still place** has not been read or touched. **The instruments:** on the 168th the kit's cord (four knots to a length) measured the inn yard at forty-two strides for Karis, Lira, Brom and Seln and at forty-one and a piece for him, three times; the Ternhall brass read a hair short in his hand and Hesk's a hair long; he has touched none of the three since; his ruling is *hold*; Oryn has been told and has no answer. Nobody has offered a cause. He lost to Teague's spear three to none (148th) and three to one (158th). He has entered Teague as the better captain. He has not ruled on Karis's case. He has written *West, and inside*. Body: sound; knuckles skinned on the 140th; near sight lost for an hour on the 140th and for an evening on the 161st, and back.
+
+**Lira.** Wind; Iron, Rank One. No burst. Her long knife has an edge again (the 181st). **Left arm released on the 266th: she undid Oryn's knot herself.** All eight marks pale. "It'll be slow for a month and it'll ache in the wet for a year… Don't fall on it." It has held a boot and lifted a bench. **Right ankle mended on the 266th**, an hour on Oryn's plank; she stands on the ball of the foot. She wears the carter's great boot without its packing. She still has Oryn's crossbow and its one bolt (not mentioned as returned). She coached Cael's feet from the bench ("out" and "home") and the young one's. **She asked for the ankle on the 266th, and said "Thank you." to Oryn afterward; before that she asked nobody for anything in this movement.**
+
+**Brom.** Iron Skin; Copper. No declaration. **Right shoulder still in the older healer's webbing;** Oryn would not undo another woman's knot and will look at it beside her. He set forty-one posts left-handed and re-set two of Teague's. He fetched the carter out of the river lying flat, with the bill's hook. He keeps a second dead slip (the fence) inside his shirt. He lays six bowls and takes none back.
+
+**Karis.** Ember; Iron, Rank Three. **She has made her case to six** (the 268th): instructions; an index with a key that is kept; and then, in her protected speech, west, Treswick, the registry office on the old town, the Deepstacks under it, the old scholars' provision for a registered historical-studies practitioner, which she is not, and "a man there who is" (unnamed). She said the sentence whole to Cael on the 263rd, without the word west. She cannot read the four signs and has put no meaning on the stroke and the bar. She knows how the kit's cord is used and has taught the five. She has entered the anomaly as *Cause: not found. No inference entered.* and has written no sentence joining it to anything. Fifty-two sheets; the hide; the kit; the dead man's ledger, open now; a hair in her notebook. She keeps the purse.
+
+**Seln.** Shadow; Bronze. Unmarked. He kept the door at every trial with his back turned. He told only Brom about two posts. He counts the days since the clerk's packet went over on the 130th, a notch a morning from the 131st: eighteen on the 148th, twenty-eight on the 158th, a hundred on the 230th, and forty more on a second wand by the 270th. He watched the fire "as if he knew the road she meant" when Karis laid her palm where the bearing leaves the hide. He has taught nobody anything. **The case is on him, shut.**
+
+**Oryn.** Tide; Iron, Rank Four. She released the arm only when Lira took it; mended the ankle; answered Lira's thanks with "Route's whole… The knee held. Nobody died of three weeks."; left the shoulder to the woman who tied it. She has seen the map with four rings and the line ("That's a line.") and has been told of the fourth site: twice the size, fenced, unentered. She has been told of the cord and the edges. **She has not read Cael** and has said that she will know what she is reading for before she does. At the word *station* she shut her mouth on a sentence and said nothing. She did not sit in the sixth place. She does not know that Seln is Shadow's source.
+
+**Teague and his crew.** He proposed and ran the silent yard to make his people better at fighting with no Path. He sent the young one to learn from Lira. His wrist is bound shut till the thaw on the older healer's order. His term stands. He knows nothing of the mechanism; he has seen a light in the shed and a guard at its door, heard a Wind's crack on two nights, and watched a pair of boots refuse something three times. The tall one, the bow and the older healer have said nothing to the five. Nobody in his crew is named.
+
+**Pike's book and the cloth.** At the pricing the keeper said, "Pike," and Pike said, "Eleventh." **Eleven lines:** the tenth is the fence (*forty; paid*), the eleventh the rope-house roof. The season line's number is still blank, "on purpose". **Eleventh on the cloth**, unmoved all cold term. The ice road was "said, not entered".
+
+**Objects and money.** **A hundred and eighteen marks in hand** (96 − 20 for the cold stay; + 40 for the fence; + 5 for the roof; − 3 for the mule's shed). The reserve sealed and unopened. Owed: sixty yards of four-strand rope to the ferryman, wanted with the first boat; one reed hurdle; a letter to Ephram. Stake thirty-two has still never been driven. Both brass edges are in their cloths.
+
+**The Quieting, as known.** Unchanged from Book 7's end. Nobody has been near a line in this movement.
+
+**Who knows what.** The mechanism: six. The anomaly of the cord and the edges: the six. Karis's case: the six. Outside them nobody knows that anything works inside a line. Nobody has said who made the pattern, or why, or what the instruments' behaviour means.
+
+**Words said aloud for the first time.** *West* (as the place to go), *Treswick* and *the Deepstacks*: all three by Karis, in her protected speech at the board on the 268th, and by nobody before it. Cael writes *West, and inside* on the 270th. Not said at all: Cleon's name; Vastin's.
+
+**Open threads.** A ruling that Cael has put off until daylight. A ferry that runs in a week, and whatever a desk has had a hundred and forty days to send over on it. A provision that nobody has seen used. A sentence that a healer swallowed. A cord that reads short in one hand. Four signs and a mark. A shoulder in another woman's knot. An arm that is slow. A captain's term. A rope, a hurdle and a letter.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Packet 002 already carries day 270, the six, Oryn's first post-thaw stop, Lira's two uncertain arms, Brom's bound/unread shoulder, the one-week ferry prediction, and Karis's unanswered case (`packets/MOVEMENT-002.md:18-20`). Its author must additionally inherit:
+
+- **Cael and the fragments:** deployment is 29, not 27; the calf and river-ice reads are the two counted additions. Shadow remains exactly twice and sealed; Anchor's counted uses remain two; Tide was refused and unused; the still place remains untouched (`manuscript/chapter-02.md:225-229`; `manuscript/chapter-04.md:239-243`; `manuscript/chapter-05.md:211-217`; `manuscript/chapter-06.md:189-201`). His near sight recovered after both read bills, and his day-140 knuckles are old minor damage by day 270 (`manuscript/chapter-02.md:217-225`; `manuscript/chapter-04.md:191-209`).
+- **The anomaly:** the cord reads forty-two strides in four hands and forty-one and a piece in Cael's, three times; Ternhall is a hair short and Hesk a hair long only in his hand; the tools are sound; Karis has preserved one hair; ruling `hold`; no cause or inference (`manuscript/chapter-05.md:3-155,259`). Oryn knows these facts and has offered no theory (`manuscript/chapter-06.md:189-201`).
+- **Cord definition:** after fixes, one full kit cord is twenty strides, four knots at five-stride intervals; the ash slip takes leftover strides (`manuscript/chapter-05.md:9-13,25-49`; fixes 3–7).
+- **Lira:** her right ankle is newly mended; she walks on the ball of it and wears the oversized carter boot without its old stuffing. Her left arm is released but slow for a month, aches in wet for a year, and is not to be fallen on (`manuscript/chapter-06.md:127-151`). She still has Oryn's crossbow, hook, and one bolt; no return occurs (`manuscript/chapter-02.md:7`; `manuscript/chapter-05.md:283`).
+- **Brom:** the right shoulder remains in the older healer's four-yard drover's knot. Oryn declined to undo another healer's work and will inspect it beside her (`manuscript/chapter-06.md:139-143`). His hook was used on the ice rescue but remains with the crossbow kit (`manuscript/chapter-04.md:139-153`).
+- **Karis:** fifty-two sheets, map, two straightedges, kit, opened field ledger, one stored hair, and the eleven-line case remain under her control. She cannot read the four-sign index or know it is a grade; she has entered no causal theory (`manuscript/chapter-04.md:253-281`; `manuscript/chapter-05.md:145-195`; `manuscript/chapter-06.md:227-253`). After fix 14, *west* has now been spoken once at the day-268 table.
+- **Seln:** his locked case remains shut; he taught nobody; he has begun a second hazel wand and reaches forty notches on day 270; he already recognized Treswick/Deepstacks when Karis said them (`manuscript/chapter-06.md:247,253,283`). He still does not explain the rival clock.
+- **Oryn:** she knows the fourth-site description, the map line, and the instrument anomaly, but has not read Cael and will not until she knows the purpose (`manuscript/chapter-06.md:163-209`). She did not take the sixth chair (`manuscript/chapter-06.md:223-225`). Her grey jenny remains at Thornwater; the brown mule is with the six at Lowmarch (`book-07-void-roads/manuscript/chapter-60.md:131-147`; `manuscript/chapter-06.md:65-77,217`).
+- **Teague's five:** they remain at the upper inn; the wrist is bound under the older healer's no-Force order, the after-thaw term stands, the silent-yard relationship exists, and Teague is entered as the better captain (`manuscript/chapter-03.md:157-223`; `manuscript/chapter-05.md:219-231`). Apply the forward rulings that the spear is a man and Teague can read (§2.1–2.2).
+- **Money, board, debts, and letters:** 118 living marks; sealed reserve untouched; eleven completed Pike lines; cloth still eleventh; sixty yards of four-strand rope owed for the first boat; one reed hurdle owed; Ephram's letter still due on the first boat; mule's cold-term shed fee paid (`manuscript/chapter-01.md:271`; `manuscript/chapter-03.md:295-299`; `manuscript/chapter-06.md:215-219,281-283`; `book-07-void-roads/manuscript/chapter-60.md:75-91`).
+- **Fourth site and knowledge perimeter:** still unentered, unnamed, and untested; no sheet; no theory; nobody outside the six knows the mechanism, the instrument anomaly, or Karis's case (`manuscript/chapter-06.md:163-201,227-275`). The Compact response cannot have crossed the shut river before the day-277 ferry (`manuscript/chapter-01.md:99-103`; `manuscript/chapter-05.md:233-241`).
+
+**Movement 1 CLOSED (2026-10-11).** Sol recheck of repair r1: CLOSE WITH LINE FIXES; all four tracked passages RESOLVED against the source; no new tracking; every binding ruling above borne out by the surviving prose. Two fixes applied by the coordinator: ch3, the author's own "his Path" (of Teague) now reads "the Force"; ch6, Seln's sentence after Karis's protected speech now gives the asset-restriction as locked Book 6 ch58 states it — **the paper executes when an enrolled name is written in a book inside a district, and must be served within the hour** (not "a certificate inside the Line"). The "New canon minted" and "State at movement end" sections above were refreshed from the post-repair author report after the fixes. Final: 30,941 prose words; gates 0; overlap 0 unprotected (9 protected). Purse 118 marks; deployment twenty-nine; day 270 at Lowmarch.
+
+
+## AFTER MOVEMENT 2 — chapters 7–12, days 271–277 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 1 ratified** (Sol plan audit): day 271 opens at Lowmarch with six; 118 marks; the released arm and mended ankle; Brom's shoulder still in the older healer's knot; the second wand at forty-one notches.
+- **Deployment since the Line: THIRTY.** One use added: the Iron read in earnest on the bank at the landing on the 277th (the post's foot and the old sill), paid in near sight until the afternoon; logged twice. Pressure, Anchor and Wind were refused at the landing; Wind and the read refused in Lira's bout; Tide unused; Shadow held, twice and sealed; Oryn has not read Cael.
+- **Vastin** came over on the first boat on the 277th: a brown frieze coat, an ash stick, a bad knee, raw hands (the left does not open flat), a small purse; no age; **no Iron Wall shown** (he held the stern strap with a turn on a post, his boots and his back). He holds no office and nobody sent him. He has asked for a bed and for nothing else; he has not asked to join and nobody has framed him as joining. He sleeps in the loft over the tap.
+- **What Vastin added about the layer is exactly four things:** it cannot be reached (there is no key); a citation to a designer; the suppressed survey records; the technician's line. The layer's existence was Karis's already (her protected line stands unglossed, OWNER-pending #48). Nothing says that menders, technicians or any office know more; nothing says it has been tried.
+- **The three papers.** (1) **The records:** a seat-courier's flat of waxed leather; six taped rows, a year to a row, of survey abstracts measured in lengths, knots and strides, with the dead surveyor's four-sign index printed at their heads; an **anomaly column** in which every sheet, in every hand, for six years carries the one word *Total* (an entry, not a sum; no figure); "More than four" (Karis, counting distinct sign-groups; she gives no number); the Fallow completion report is the last, loose sheet, and carries **five strokes for a name and a count of six** (locked Book 7 ch40, ch43), not five names. (2) **The page:** a COPY in Vastin's own hand of one line from an old register, carried in oilcloth in his coat: "—of the Architect: see the lower archive at Treswick, which holds it in full—". "The Architect" is a title, not a name, and a word Karis has never met in any stratum. It is never called a leaf; **the leaf has not appeared**. (3) **The technician's sheet:** the two protected lines with a date between them, a brush bar across what followed, and Karis's *not read*. **The date is a Compact date, a registry year and a day in it, and is never printed as figures** (the source gives none; no owner decision is needed). The office had filed the sheet at the end of the second row and it lies there again.
+- **Seln went still at the date** and said only "I have read it." He has not said the sum. Cael does not know what it was and has not read the date closely. **Nobody has connected the date to anyone**, and nobody has interpreted the sequence. "Classification event" is not defined.
+- **Speakers (protected):** "Archmarshal" is Cael's; "What follows you," is Lira's; "More than four." is Karis's; "She's right. Go and lie down, and don't take the stairs fast," is Oryn's (Karis owns the order to bed). The long table's close is verbatim. "Nothing that can cross the Line"; the rim of the Stair "is not mine".
+- **Karis's receipt** (unsealed, signed K.) is in Vastin's coat. Karis holds all three papers and her copy of the sheet. Seln's second wand (forty-seven notches, a hundred and forty-seven days) lies under the lamp; he will cut no more.
+- **Cael has not touched the page.** He will rule at the plank in the morning (the 278th), in daylight, and ask for hands. Nobody said *west* in the back room.
+- **Teague's spear** now has "he/his" on the page (OWNER-pending #59 stands as defaulted). Teague's wrist is unbound and unused; forty sacks of salt at the landing; whether he has left for the cold road is open.
+- **Lowmarch:** the mule's stool at the board's end (Oryn stands beside it); Pike's new cloth, Teague first, the five carried **eleventh** by place; Oryn's bench a yard past Pike's right-hand post; the first boat took people only; the hauling rope has two yarns gone and the stern strap is improvised; the sixty yards of cordage are still on the western bank and the rope debt stands; the hurdle is paid. Ephram's letter went west on the afternoon boat. **Purse: 118 marks.**
+- **Oryn's swallowed sentence** has now been shut in three times (the 268th, the 271st, the night of the 277th).
+- **Names:** none minted. **Length:** 30,105 after repair, against 30,000.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial; cold read; source-distance (1 tracked passage, ch12 scene 3; probe 2% / 12%, the excess being protected and plan-quoted document text); plan / canon / protected-text audit (REPAIR; 46 exact fixes, of which the coordinator applied 24 — protected units restored, two speakers corrected, "leaf" to "page" — and sent 22 to the author to recompose in voice). Coordinator rulings against the audit: the technician's date is NOT owner-pending (the source prints no value; the page shows a date and no figures); the completion report carries five strokes, not five names (Book 7 ch43:51), where the audit's fix kept "five names". **Repair r1 in progress with the same author.**
+
+### New canon minted (author's list)
+- **The ferry's rig (flag).** The scow hangs from the cable by two running blocks, one over her bow and one over her stern, each on **a strap of plaited hide as long as a man** to a post at her rail. In slack water she crosses "set a little aslant on her two straps, so that the current itself shouldered her along the cable"; the hauling rope from her bow turns through a block lashed to **an oak post at the landing's head** and so into the shed. The drum has **an iron dog** (a pawl) hinged to the shed's king-post. The ferryman had two hauling ropes "before the snow"; the second, sent across by a skiff when the first strands, is the sixty yards owed. The old slip's **sill** lies under the mud two strides south of the post. In flood the cable bellies to the south; she crossed light in three minutes and came home in twenty-two. The rope has "two yarns gone where she bore on the sheave". The new stern strap is rove out of the tail of the stern line. The fare is a copper a head.
+- **The first boat (flag):** first light on the 277th; eight passengers (a man with a ledger who carries the bag; two carters; a woman and a child; a drover; a lad; Vastin) and no goods; **the cordage stays on the western landing**. The bag had eleven pieces and none for the five. After noon she goes over again with twelve carters on foot, the bag and Ephram's letter; still no wheels.
+- **The week (flag):** seven fires on the 271st, nineteen and thirty carts on the 276th. The river up a foot in the three days to the 271st; the last of the shelf on the 275th; rain on the night of the 275th; water over the landing's lowest plank on the 276th; down a hand on the night before the boat and another by noon.
+- **The mule's stool (flag):** a three-legged milking stool from the keeper's kitchen, set at the board's end on the 271st with the sixth bowl. Oryn will not sit on it; Lira names it; Vastin asks whether the place is taken and is told whose it is.
+- **Seln's account of the gate (flag):** a man in the gate asks each person "for a name, and where the name is registered", and writes it; "every counter in every district keeps a list", read against each name as it is written; **the man who writes the name is the man who serves the paper.** What it holds: Lira's and Karis's certificates, kept for a slip, pending; Brom's Copper and the unsigned finding, "frozen as they stand"; and of Cael, "the thing that it holds is you… You would be produced", to a frame. Seln is not one of the four ("I was employed"). **Vastin, from the inside (ch11):** the instrument is drawn on the code's fourteenth chapter, ninth part; it does not wait upon a frame and does not lapse; he could not have lifted it when he held the seal; nothing lifts it "short of the settling of his status; and his status can be settled only on a plate."
+- **Oryn at Lowmarch (flag):** her bench is a form set along the wall under the eave, a yard past the right-hand post of Pike's plank, by the door of the keeper's wash-house, where she works with the door open. Nine on the first morning. She takes payment in kind. "I'll not spend on what grease will do." She does not go up the bank to the older healer.
+- **The new cloth (flag):** Pike paints a new cloth at the thaw; each crew's season figure is carried over and the cloth hangs in the order of the figures; "A hold reads down from the top until it comes to a crew that it can pay." The five have no figure, "So I carry the place": eleventh on the new cloth. Teague is first.
+- **Teague (flag):** the wrist was unbound on the 272nd, a hundred and twenty-four days after it was bound. He has forty sacks of salt for the first boat and sees it over himself; then the block on the second ledge of the cold road. He did not put a day in his term; if the six are gone when he comes down, Cael is to leave word with Pike. The tall man has put the steel back on his pole.
+- **The bout (flag):** the 273rd, in the silent yard's square; a stave a hand taller than Lira against Cael's short one; 2–3 to her. Her left hand comes a beat behind her right. The arm "told" her once, in the third exchange, at a square block. She fell beside it, not on it.
+- **Ephram's letter (flag), sent on the 277th:** *Ephram. You lose because you run it alone. I lost to a seven-foot pole all the cold term, three to none and then three to one, and each time somebody on a bench told me what I'd done before I had wiped the snow off. Find a bench. Tell Rooke the yard out here is quieter too. He'd not say it was worse. — C.*
+- **Vastin as he arrives (flag):** a drover's coat of brown frieze, too short in the sleeve, bought "at the last market inside the Line"; the grey one left on its hook; an ash stick cut out of a hedge; a pack with one strap mended in cord; a small purse on a cord; the flat carried under the pack against his back, and **a single copied page** inside his coat in oilcloth. **The knee** "had begun to complain at about the hundredth mile and had left off being civil at the two hundredth"; no side is given; ten miles a day. He left "the seal of his office in the tray marked *done*, some months ago, on a morning of rain, with nothing written to go beside it". At the last station he looks in at the plate and remembers only what Book 5 shows: a plate, a file and a set of questions carried up a bluff, "and all three had told him nothing"; and that he declined a second reading and never said why. He crossed the sill on the 265th and reached the western landing on the evening of the 276th. His left hand would not open after the strap and has not lain flat since. He has paid a copper for the fare, a copper and a half for a loaf, a copper for a bowl and a copper for the loft. He sleeps in **the loft over the tap, up the keeper's stair**.
+- **What Vastin adds about the layer (repaired: four facts and no more).** (1) It cannot be reached: he asked to be shown what the office holds upon the thing beneath the function; "The office has one page upon the matter, and it is the office's own. The page says that the layer is not to be opened; and it gives as its reason that it cannot be"; it "reserves no leave to anybody". (2) The citation: in the oldest register of housings that he was let to see, the line for the layer has no maker's name but a word and a place. (3) The held records (the flat). (4) The technician's line. **Cut in repair:** the frame-shop mender, the shimmed frame, the rule of the shop, the office's schedules, and any history of attempts. He could not go to the archive himself: an archive on the Line keeps a book at its door. Brom and Lira say what it changes: "So there's nobody to ask"; "it'll not be the people who own the plates that tell him."
+- **The completion report (repaired to Book 7).** It carries the Fallow posting's head, a town on no registry map and a board; **"where a crew's name should have been there were five strokes, and after the strokes a count, which was six."** No names. It reached Vastin as a courtesy copy with no routing note; it took him the cold term to find the file that it belonged to, "which stands in no register". He does not know who had the abstracts held, and looked. Whether the copy was sent to him on purpose is Seln's question, left open.
+- **The flat (repaired):** a seat-courier's flat of waxed leather, "as broad as a man's shoulders and no thicker than two fingers", stamped *BY SEAT COURIER. BY HAND.*; six rows, a year to a row, the newest uppermost, each in a tape; a pocket in the lid. **The abstracts:** printed forms; four signs and a number at the head (the Stair's sheet has the dead surveyor's four signs and thirty-two); a column for the day in the office's reckoning; a measure given in lengths, knots and strides; and a narrow right-hand column whose printed head says that it is for **the anomaly**. **In every clerk's hand, in every one of six years, that column holds the single word *Total*, and nobody has written a second word beside it.** There is no figure and no sum. Karis counts more than four different groups of signs in the newest row, on her fingers, and will not say a number until she has checked it in daylight. No sheets are counted.
+- **The page (repaired): a copy.** One sheet of the house's plain desk paper, folded twice, in Vastin's own square upright hand, in fresh ink. He copied the line "from a record that is older than the section it is filed in, in a room where I had the right to read and no right to copy", with the word and the place "exactly as they are written there, letter for letter", and the schedule of housings round it (a number, a date of setting and a mender's mark to each) to show where the line falls. He read the pages on both sides and did not copy them. **No cut edge, no blade, no inquiry, and no prompt from the ninth fragment.**
+- **The sheet (repaired):** thin stock, newer than the rest, a printed head, "a quick sloping hand"; a technician's return ("When a man who services the stations finds a thing that he was not sent to find, he is bound to write it up on such a sheet, on the day, and send it in"). **The office had filed it with the surveys, at the end of the second row; Vastin carried it in the lid to keep it dry; Karis has laid it back at the foot of the second row.** Its date is a registry year and a day in it, in the office's reckoning; **no figures are printed anywhere.** The bar is as broad as a thumb, laid on both sides, cracked in drying; Vastin has seen such a bar "on perhaps a dozen papers in forty years" and never with initials. He does not know which classification event is meant.
+- **Karis's receipt (repaired), 12:173:** *Received of Vastin, at Lowmarch, day two hundred and seventy-seven past the Line: one courier's flat, holding six rows of abstracts in their tapes, one row looked through and no sheet counted; one broker's report; one page, copied by him from a register; one technician's sheet, copied by me this night and laid back in the second row. Read in part. Understood in no part. — K.*
+- **Names given at the board (ch10):** the six tell Vastin their names; he had Cael's and Karis's from paper and "took some trouble never to learn" the others. Seln gives his.
+- **Roles (all unnamed):** the courier with the cut hat-brim and the old carter with pale eyes (both from Book 7's road); the boy with a tally stick on the western landing; the landing broker and his clerk; the man with the ledger who carries the bag; the passengers; the woman with the loaves; the keeper.
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+**Calendar.** The night of the **two hundred and seventy-seventh day past the Line**, at Lowmarch. Days on the page: 271, 272, 273, 275, 276, 277; Vastin's window, 265–276. No season, month or English weekday name is on the page.
+
+**Where everyone is.** Seven under the lower inn's roof: Cael, Lira, Brom, Karis, Seln; Oryn, who is on her road and at her bench by first light; and **Vastin, in the loft over the tap, at a copper a night**, who is on nobody's sheet and has asked for nothing but a bed. Teague's five are at the upper inn, with forty sacks of salt on the bank. The brown mule is in the ferryman's shed.
+
+**Cael.** Nineteen. **Ten fragments.** **Deployment since the Line: thirty** (the read on the ground at the landing, the 277th). Shadow used twice in all and shut; held at dusk on the 272nd and the 277th. Anchor's counted uses still two. Tide: Oryn twice, himself three times, nobody else; he did not ask to read the knee. **The still place** has not been read, touched or named. He has not touched the cord or either brass edge for a hundred and nine days; the ruling is *hold*. His near sight went at the landing and was back for print by the afternoon. **He has not ruled.** He will say it "at the plank in the morning, in daylight" and ask for hands. He has not touched the copied page; his hand lay a hand's width from it for the whole of a lamp. **He has not read the technician's date**: he was at the table's far end; he knows that it is a registry year and a day, and that it is the line at which Seln stopped; he chose not to go up the table and read it. He lost the bout to Lira, two touches to three. He has written to Ephram. He kept back his own question to Vastin (why the second reading was declined). He has told Vastin nothing of what he carries.
+
+**Lira.** Wind; Iron, Rank One. No burst. **Left arm: the eighth day out of the wool on the 273rd. It told her once, in the bout, and she did not stop.** It is slow; it ached after rain. She did not fall on it. Right ankle sound in the great boot. Her certificate is in her coat. She still has Oryn's crossbow and its one bolt (not mentioned in these chapters). She sat last at the table; she asked "Why us." and "What follows you,"; she read the technician's sheet aloud, without its figures.
+
+**Brom.** Iron Skin; Copper. No declaration; no grey at the landing. **Right shoulder still in the older healer's webbing**; she pressed the knot on the 272nd and went away. He shored the post with a timber on the left shoulder. He has the purse; a hundred and eighteen. He roped the three boxes for carrying on the night of the 277th.
+
+**Karis.** Ember; Iron, Rank Three. Her case stands "not by a line" altered. She holds, received and receipted: **the flat, with six rows in their tapes (one row looked through; no sheet counted) and the technician's sheet laid back at the foot of the second row; the broker's completion report; Vastin's copied page**, which lies on its oilcloth at the bare end of her table; and **her own exact copy of the technician's sheet**, with the office's date figures as they stand, a ruled box and *not read* in it, and a note of where the sheet lies. She has said that the word on the page is a title and not a name, that she has never met it in any stratum, and nothing more. She has said "More than four" and no number. She has seen *Total* in the anomaly column on every sheet she turned, in the newest row and the oldest. She cannot read the index; it is an office's index now and not only the dead man's. She has connected nothing to anything. She keeps the lamp.
+
+**Seln.** Shadow; Bronze. He has spoken with Vastin for the first time (the doorway) and has given him his name. He has stopped his count at **forty-seven notches on the second wand (a hundred and forty-seven days)** and laid the wand on Karis's table. **He went still when Karis's pencil came to the date on the technician's sheet**, and said only "I have read it." He has taught nobody anything. He thinks the completion report may have been sent to Vastin on purpose and cannot tell. **The case is on him, shut.**
+
+**Oryn.** Tide; Iron, Rank Four. A bench under the eave since the 272nd. She saw the bout and said nothing. She has not asked about the knee, and Vastin has offered it to nobody; she seconded Karis's order to bed with one line about the stairs. **She has not read Cael.** She has shut her mouth three times on the same sentence. She did not sit on the stool. She does not know that Seln is Shadow's source.
+
+**Vastin.** No office, no seal, no rank; he left the seal in a tray "some months" ago and walked three hundred miles. **No age is stated.** A bad knee; raw hands; a left hand that will not lie flat. **No Iron Wall has been shown or named.** He has handed over three things in his own order and holds Karis's receipt in his coat. He has said: that he holds no office and has no sanction; that the layer cannot be opened ("There is no key"), on the authority of the office's own page; that the one line which should name its maker cites a title and sends its reader to Treswick's lower archive (his own copy of it); that nothing of his follows him and the Stair's rim is not his; that the pending paper is unchanged; why he did not take it to a council. He knows the six by name. **He does not know** the mechanism, what Cael carries, the instruments' behaviour in Cael's hand, Karis's case or the sites (beyond hearing Brom say "four on the hide" and Lira name the Stair), who held the abstracts, which classification event the sheet means, or what is under the bar. He has not weighed the sheet's date. He has not read the flat's last row through, and nothing has been said of a directive or an objection. He has not asked to join and nobody has spoken of it. He was sent to bed, began to argue twice, took four stairs fast and the rest slowly; whether that was the order or the knee is not settled.
+
+**Teague and his crew.** The wrist is unbound; he has tried it on nothing. He asked "When?" and was told "I don't know." His term holds without a day in it. The tall man drove the wedge at the post and grounded his spear for Lira; he, the bow and the older healer have said nothing to the six. Teague looked at Vastin's hands a stride longer than a crew looks, and said nothing. Nobody in his crew is named. He knows nothing of the mechanism or of what was said at the table.
+
+**Pike's book and the cloth.** **Eleven lines.** The season line's number still blank. **Eleventh on the new cloth**, painted on the 272nd. Vastin is "nothing yet" and is not entered. Oryn is on no slip.
+
+**Objects and money.** **A hundred and eighteen marks in hand**, unchanged. The reserve sealed. Owed: **sixty yards of four-strand rope** to the ferryman (the cordage is on the western landing; his one hauling rope has two yarns gone). **The hurdle is paid.** **The letter to Ephram is sent.** The three boxes are at the hearth's end, roped. Stake thirty-two has still never been driven. On Karis's table: the flat (the sheet inside it), the broker's paper beside it, Seln's wand beside that, and the copied page at the far end.
+
+**The Quieting, as known.** Unchanged in the field. On paper: an office has surveyed the sites for six years by cord, has classed each under four signs, and has written one word, *Total*, in its anomaly column every time; its abstracts were held where nobody received them; the places are more than four.
+
+**Who knows what.** The mechanism: six, as before. The anomaly of the cord and the edges: the six. Karis's case: the six. What Vastin brought: the six and Vastin. Nobody has said who made the layer, or why, or what is running in it. Nobody has connected the sheet's date to anybody; only Seln has reacted to it, and only Cael has noticed that it was the date.
+
+**Words said aloud for the first time.** *Vastin* (Seln, at the landing). *Treswick* by Vastin, at noon, from the other side. On paper only, and said by nobody: the title on the page. Not said aloud by anybody in chapters 10–12: *west*.
+
+**Open threads.** A ruling to be given at the plank in the morning. A page that Cael has not touched. A date that stopped Seln and that Cael has not read. A bar with something under it. A count that Karis has not checked. A paper that came to a desk with no routing note. A sentence that a healer has swallowed three times. A knee that nobody has asked about. A man in a loft with a receipt and nothing to do. A rope on the wrong bank. A captain's term with no day in it. A question that Cael kept.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Packet 003 already carries day 278, the clearance slip, Vastin at the door end and not on the sheet, the silent drill, the cut, the spring, the date sum, the fork and days 279–281 (`packets/MOVEMENT-003.md:20–38`). Its author must additionally inherit:
+
+- **Paper custody and exact positions.** Karis holds the courier's flat, six taped rows, the completion report, Vastin's copied page, the technician's sheet, and her exact copy with the ruled box and *not read* (`manuscript/chapter-12.md:3–15,59–65,101–135,157–169`). At the close (as repaired), the flat and the completion report are under the lamp; the original technician's sheet lies back at the end of the second row, where the office had filed it, and Karis has noted its place beneath her copy; the copied page is on oilcloth at the bare far end. Vastin holds Karis's unsealed receipt inside the brown coat (`manuscript/chapter-12.md:157–175`). Seln's forty-seven-notch wand lies under the lamp beside the broker's sheet; he will cut no forty-eighth (`manuscript/chapter-12.md:251–255`).
+- **What each knows.** All six and Vastin have heard no key, the citation/title/place, suppressed survey records and the technician's visible line/bar (`manuscript/chapter-10.md:149–193`; `manuscript/chapter-11.md:201–257`; `manuscript/chapter-12.md:59–151`). Karis has not finished the records and cannot read the index or bar (`manuscript/chapter-11.md:223–253`; `manuscript/chapter-12.md:129–135,285–289`). Seln has done an unexplained sum and said only “I have read it”; Cael does not know the sum (`manuscript/chapter-12.md:137–153`). Vastin does not know the integration mechanism, directive, objection, what Cael carries, or what lies under the bar (`manuscript/chapter-10.md:129–131`; `manuscript/chapter-12.md:119–129`). Nobody connects the date to anyone (`manuscript/chapter-12.md:137–153`). Oryn has not read Cael and has not asked to read Vastin's knee (`manuscript/chapter-11.md:29–47`).
+- **Vastin's physical state and status.** Brown frieze coat, ash stick, bad knee, raw hands and a left hand that does not open flat; no age; no Iron Wall shown; not joined and has asked only for a bed (`manuscript/chapter-08.md:197–201`; `manuscript/chapter-09.md:115–143,187–191`; `manuscript/chapter-10.md:231–271`; `manuscript/chapter-11.md:19–23`). He sleeps in the loft over the tap, up the keeper's stair, after beginning the climb fast and finishing slowly (`manuscript/chapter-10.md:263–271`; `manuscript/chapter-12.md:193–219,297`).
+- **Bodies and equipment.** Lira's arm will be on day 13 out of wool on day 278, still slow and wet-aching; her ankle is sound in the large boot (`manuscript/chapter-06.md:127–151`; `manuscript/chapter-08.md:3–5,71–135,147`). Brom's right shoulder remains in the older healer's knot (`manuscript/chapter-07.md:173–183`). The three boxes are roped tight for carrying with beckets out (`manuscript/chapter-12.md:243–249,281–283`). Seln's locked case remains shut (`manuscript/chapter-11.md:191–199`; `packets/MOVEMENT-003.md:37`).
+- **Ferry and road state.** The ferry runs, but the stern strap is improvised from the stern line and the hauling rope has two yarns damaged; no wheels have crossed (`manuscript/chapter-09.md:151–153`; `manuscript/chapter-11.md:129–145`). The sixty yards of cordage remain on the western bank (`manuscript/chapter-08.md:151–167`; `manuscript/chapter-11.md:143–149`). Teague's forty sacks remain at the landing and his departure for the cold-road block is unresolved (`manuscript/chapter-07.md:213–243`; `manuscript/chapter-09.md:255`).
+- **Ledger state.** It is the night before day 278; crew purse 118 marks; deployment thirty; ten fragments; Shadow still sealed after two prior uses; Anchor still two counted uses; Tide unused here; still place untouched (`manuscript/chapter-08.md:151–153`; `manuscript/chapter-09.md:263–265`; `manuscript/chapter-12.md:291–295`). Cael has not touched the page and has promised a daylight ruling at the plank with hands (`manuscript/chapter-12.md:223–241,267–299`).
+
+**Movement 2 CLOSED (2026-10-11).** Same-author repair r1: the 24 coordinator-applied fixes kept and their joins smoothed; the page made a copy; the layer cut to four facts (Lira and Brom say what it changes: there is nobody to ask); *Total* made the anomaly column's entry; the technician's sheet read out by Lira with a date and no figures, filed at and laid back at the end of the second row; Seln's stillness re-entered in a new order; receipt and night log made literally true ("Read in part. Understood in no part."); the completion report's five strokes and count of six; ch7's opening oriented. Sol recheck: CLOSE WITH LINE FIXES; the tracked passage RESOLVED; every binding ruling above borne out; the day arithmetic confirmed (ice 111 days; the wrist 124; the sling 170; the rim 163; the cord 109; the report 175). Three fixes applied by the coordinator: ch7 "a healer's Path" → "a healer's craft" (no possessive before Path in narration); ch8's bluff memory cut back to what Book 5 shows; ch10 "through a frame shop" removed. Rulings from the recheck: **Lira reading the sheet aloud is the author's staging and stands** (the map protects the wording, the sum and the withholding, not the reader); the two descriptions of the cited record agree. The "New canon minted" and "State at movement end" sections above were refreshed from the post-repair author report. Final: 30,105 prose words; gates 0; overlap 0 unprotected (11 protected). Purse 118 marks; deployment thirty; the night before day 278 at Lowmarch.
+
+
+## AFTER MOVEMENT 3 — chapters 13–19, days 278–281 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 2 ratified** (Sol plan audit): day 278 at Lowmarch; purse 118; deployment thirty; the papers with Karis; Vastin off the sheet and following; the ferry for people only; the cordage on the western bank **refused as three-strand** — sixty yards of four-strand are still owed to the ferryman.
+- **The slip:** *Clearance. The cut below the shoulder hold, on the border road, two days west.* Twenty. "Ours" (Karis), "Ours" (Brom); five hands; Pike's sixth line: *And a healer; of her own road; at her own price.* Brom holds the thumbed slip.
+- **Deployment since the Line: THIRTY-TWO**, both on the 279th at the cut: one grain of Ember at the mark (thirty-one; the heat came home along the left arm) and one Wind burst **away**, ten strides, to the north bank inside the wall (thirty-two). Pressure, Anchor, Edge, Storm and the read refused there. Shadow held, twice and sealed; Tide unused; no self-reading; Oryn has not read Cael. **Ten fragments: nothing came of standing two feet from the wall; the eleventh has not come.**
+- **The cut (the author's staging stands; BOOK_MAP §8 allows it).** A hundred strides, a stride of ice down the middle, scree on the south, a low north bank, the sink fifty-five yards below it. Eight hounds (five seen, three hidden). The den had learned the road: it runs to where a declaration ENDS. Karis, Oryn and the mule were at the foot; Vastin, a stride behind Brom, stepped out and **declared Iron Wall** — a plane across the road from a line struck with his stick, wall to wall, two feet from Cael, rooted (he may not lift a foot), loud, spending him to the floor. Brom's rock (twice), Lira's knife with the left hand holding, Seln in the heap; five dead; **three went through the rotten ice of the sink and did not come up**. Costs: Brom's right foot (two toes, ten days from the 279th); **Vastin's right knee** (four holes shut by Oryn after "May I?" / "Yes"; the joint bound with laths; **a month** from the 279th: stick, no kneeling, no running, no wall). Karis's sixth line: *It goes to where a declaration ends, if it has learned that the declaring moves.* Twenty paid; **purse 138**.
+- **Protected (speakers):** "Carters declare, on the ice." (the factor, unnamed, no pronoun); "It's clear because it's empty, not because it's safe," (Seln — the plan quotes only this clause; the source's fuller sentence contradicts the staging and was not restored); the wall lesson (Vastin) / "You do now," (Cael) / "I know fields…" (Vastin); the log verbatim.
+- **The spring (the 280th).** Six rows counted twice by two people. Five columns on every abstract: the day in the registry's reckoning; the station (eight points); the measure; *Instruments* ("Cord true. Edge true. Level true." on every line for six years); the anomaly (*Total*). **Karis matches FOUR sign-groups to the hide by their measures (three alike to the stride, one double) and gives no number of places; no fifth place is described** (held for the 298th). The measures have not changed in six years. The remark *Behaves as device. Cannot be.* stands in a ruled space on the Stair's sheet in the fourth row; **its hand is not identified**; the space for remarks is gone from the next year's printing. **The grade:** a ruled square at the head of every sheet with the same stroke and bar on all four matched places, drawn no larger on the place whose measure is double; in the field it is on stake thirty-two and on the fourth site's thirty-fours only. Karis: a class, unread; "Two copies of one ignorance." Nobody says who set it or why. Karis stopped her lamps sentence with the ruler line and did not finish it.
+- **The date.** Seln drew the technician's sheet from the foot of the second row; the row counted a sheet short in Cael's hands; Seln set the sheet before him without a word. **Cael read the date and knew it for the day of his own Kindling** (the first line of his file). Only Cael and Seln know; neither has said or written it; neither knows what the other made of it; nobody has interpreted the sequence. Karis knows both have read the sheet. **No figures are printed, no span is computed, and there is NO second calendar** (the author's stations'-year offset was cut: the series calendar is the owner's). The sheet lies again at the foot of the second row.
+- **Vastin's three reflexes** (a directive; a classification; "This has to go up") and **the first thing Seln ever taught anyone:** "You keep drafting orders." / "Habit." / "Out here the habit's the tell." / "Draft nothing. Just look." **Cleon** was named for the first time (Vastin: "Treswick,"; Karis: "The archive under it. Cleon."; Cael: "Who's Cleon?"); OWNER-pending #52 verbatim, as Karis's own rounding.
+- **The fork (the 280th evening; the 281st).** Oryn: "I'm not an archive person."; her past (a house for the sick in a city inside the Line; the column for the patient's tier; a woman from the river sheds whom she mended off the sheet; she walked out of a gate and has not been through one since — the author's, kept); "Leaving and routing are different verbs. I'm doing the second."; Seln's "Three weeks"; **the station term, written in the log and read back (verbatim)**; she priced all six, Vastin as long as the rest; "That's on me. It's the one thing I'm walking up that road owing, and I'll pay it." (the reading she has not given Cael); "Bring me whatever walks out of that archive with you. All of it."; "Not the steps," … "Not the square." She went north with the brown mule, her linen and the crossbow with its one bolt: five gates, the ford, Millrace in three weeks.
+- **Loads from the fork:** boxes on Brom (good shoulder), Lira (both arms) and Cael; Karis the flat and the hide; **Vastin took up the tarred kit case unasked** and has walked beside Cael since the rise. Brom carries Oryn's empty bowl.
+- **The rise (the 281st, near noon):** Treswick a day's walk off — a bluff in a river loop, three walls in tiers, a pale steady light on the crown that Cael does not look at. **Cael laid his hand on the page** (the author's; kept); it stays in its oilcloth in Karis's coat.
+- **Teague** was at the landing with forty sacks on the 278th; his term stands; the tall man has he/his. **Names:** none minted. **Length:** about 34,000.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial; cold read; source-distance (3 tracked passages, none dense; probe 2% / 15%); plan / canon / protected-text audit (REPAIR; 102 exact fixes). Coordinator rulings against the audit, after checking the source and the locked Book 7: the cut's staging, the Ember use and the count of thirty-two KEPT (BOOK_MAP §8: private staging the author owns; the audit's 39 re-staging fixes declined); Oryn's past KEPT; Cael's touch of the page KEPT; the slip left as the packet quotes it; "every bar of a fence" KEPT (Book 7 ch58). Accepted from the audit: the six markers' speakers (two filled with the plan's own clause only); the loads for Movement 4; no fifth place or number; no second calendar; the remark's hand unidentified. Eleven fixes applied by the coordinator; the rest recomposed by the author. **Repair r1 in progress with the same author.**
+
+### New canon minted (author's list)
+*(Refreshed after repair r1. Line numbers are those of the repaired chapters.)*
+
+- **The slip and Pike's rule.** The clearance slip came over in the bag on the 277th; Pike drew a road between two heaps beside it. Twenty, "at the hold's own gate, on the factor's thumb, when the factor's walked it". **Pike will not write a clearance taken until a healer is said** (his own rule since his second year, when one of a crew of four bled for two days on a hurdle). His sixth line: *And a healer; of her own road; at her own price.*, the first column he has had for Oryn.
+- **Oryn's round this thaw.** West with the six as the slip's healer; from the fork-stone north to "five gates up along the hill-foot", one with a child that she was to have heard a cold term ago; then "down the far water to the ford, and over, and on to the mill from above". Three weeks puts her at Millrace.
+- **Teague.** The forty sacks went aboard on backs on the morning of the 278th; he is still on the east landing when the six cross, bound for the block on the cold road. He had first call on the slip by the cloth and left it. "A man that holds a thing so doesn't leave off because nobody's asked him. I'd know what I had at my back." The word left with Pike: the cut, two days west by the border road, and whatever is beyond it; no day.
+- **The ferry and the rope.** On the 278th she crossed in the forenoon with people, led beasts and carried sacks; no wheels. A copper a head, the mule a head. **The broker's cordage on the western landing is three-strand, hawser-laid. Brom refused it.** The sixty yards of four-strand are still owed.
+- **The border road.** One of two roads out of the western landing. Alders, then moor; a halting-ground in a fold by a beck, eleven miles out, with a dozen dead rings; a long shoulder of hill; the cut; four miles of high moor to a spring; six more to the fork-stone; a long rise of a mile and more.
+- **The four hands.** Flat, palm down: *stand*. A shut fist: *seen*. Two fingers: *come on*. A hand turned over empty: *nothing*. The doctrine in one line: "Nobody declares unless they're meant to be loud. One of us, once, in a place that we've chosen beforehand."
+- **Stillhounds, added to Book 7's account.** One paced the column for half a mile in the hour before sunrise and stopped at a beck. **Karis's sixth line (16:119):** *It goes to where a declaration ends, if it has learned that the declaring moves.* Eight laired round the sink, three of them under the north bank where the lip hides four yards.
+- **The shoulder hold and its factor.** A foot-track from a cairn below the spur; a plain bar in a wall as thick as a cart; a small clean yard, a long low house, a salting-shed with empty hooks. The factor: spare, grey, a leather apron, a slate on a cord, a sheep-crook, pale eyes; a thumb-mark like a crook; **no name and no pronoun on the page**. Three carts, a carter and two mules lost since the frost.
+- **The cut.** A hundred strides, a cart and a man wide, rising east to west by the height of two men. South bank: thirty feet of scree, with the hold's sheep-walk on its lip. North bank: low; beyond it fifty-five yards of scree down to the sink, a round bowl in shadow where water goes into the hill, iced grey and rotten. A seep at the cut's head runs down the middle of the road under ice that never thaws in that shade. Three runs worn over the north bank in the upper half. Three wrecked carts at the foot.
+- **Iron Wall as shown.** Named by Vastin (16:109); **no tier is stated**. He steps into the road and brings the stick's foot down once; a line runs from his boots across the cut and cracks the ice white; "the air stood up from it": a face from bank to bank as tall as the scree, seen only by the frost that lies on it. It holds eight hounds at a run. It does not go anywhere; **he may not lift a foot**; each blow on it comes down through him into the stiff leg; it goes out of him steadily; it shuts the road and not the banks. "A Path of the tribunal floor… taught for fields; and a field is ground where a thing has been declared, a hearing, or a square, or a gate with a crowd at it." "I have stood on eleven such."
+- **The fight's count.** Brom's rock at the plane's south end; Lira, two-handed, on the hound at Vastin's knee; one broken on the plane in the second run; Seln's knife on one standing in the runnel; Brom's rock on the other. Three over the north bank and through the sink's ice. Seln was on the north bank above the sink when he said that the cut was clear because it was empty.
+- **Bodies.** Vastin: four holes and a tear below the right knee, shut by Oryn; the joint bound with linen and two laths; **the bad knee is the right**. Brom: the right boot torn; two toes bruised, bound together, ten days.
+- **Oryn's past (kept by the coordinator as written; the order of telling changed in r1).** "I'd my rank off a board at the foot of a bed." A house for the sick "inside a wall", forty beds, six healers; her Iron fourth rank is provisional because she "never stayed to have it confirmed". **A sheet on a board at each bed's foot: name, complaint, what had been spent, and a column for the patient's tier.** In a week of fever the spending went down the column from the top; a woman from the river sheds with no tier went to the bottom of the heap; Oryn went to her at night, off the sheet, and it was enough (**nobody died**); the woman who kept the house said that a healer who spends off the sheet has stolen from whoever stood next on it. Asked where, she will not say: "They keep the same sheet at the foot of every bed inside the Line." She walked out of a gate in the coat she stood in and has not been through one since.
+- **The spring.** A furlong south of the road, four miles past the cut: an outcrop as big as a barn, a stone-built basin, and a fallen slab twelve feet by six, waist-high, out of the wind.
+- **The abstracts, read in daylight.** Karis counted every row twice and had each counted again; **no figure for any row is printed**. **She gives no number of places.** She sorted the sheets by their sign-groups, matched **four** to the hide by their measures (three alike to the stride, one double), and will not call the unmatched groups places until a sign can be read (17:27–39). **Five columns:** the day, in the registry's reckoning; the station (eight points); the measure; *Instruments*; and the anomaly. No radius of the four has changed by a stride in six years; four surveyors by their figures; three clerks' hands. The fourth column reads *Cord true. Edge true. Level true.* on every sheet. The three oldest rows have a ruled space at the foot headed *Remarks*, empty but once: **the Stair's sheet in the fourth row carries the protected four words, in a hand that is none of the three clerks'; Karis laid the dead man's ledger beside it and will not swear to the hand either way.** From the next year's printing the space is gone. Brom counts the three findings on his fingers (17:61, 17:77, 17:139).
+- **Seln's five omissions:** no routing head; no surveyor's name, a number in its place; nothing to say who ordered the survey; no column for a cause; the remarks space struck from the block after the year of the remark.
+- **Vastin on the form.** "A survey abstract of the second schedule… the sheet that stands in place of the field book when the book has been called in. The book itself does not survive it." Drawn at the year's end in the office that has the charge of the stations. "A clerk enters what the form has a column for. What it has no column for goes with the book." His two false starts: an order to re-tape each row under two hands, and "restricted matter… under the first article of the closed schedule". **No second calendar: the stations' year and the difference are gone.**
+- **The box.** To the right of the four signs and the number, on every abstract, a small printed square with a heading in the unread signs. **On all four of the hide's places it holds the short stroke and the bar, drawn alike**, the double-sized place included. "It is a class." Nobody says who filled it or by what rule. Nothing is said of any other sheet's square.
+- **The date.** The registry writes, on the first line of a person's file, after the name and before the bracketed word, the day on which the person was classed; every paper served on Cael began with it. Seln copied that line twice when he was employed at the house above Ostrand. The technician's sheet carries a registry year and a day in it, and it is that day. Seln knew it by the lamp, doubted a date read once over a shoulder in another person's pencil, and read the original a figure at a time in daylight. Cael laid the one date against the other, twice. **No figure, no span, no arithmetic owed to anybody; nothing spoken; nothing written.**
+- **The fork-stone and the fold.** A slab as tall as Brom, a worn hand cut on each face. A round drovers' pen of dry stone a little down the northern branch, a quarter of it roofed, with a hearth and flue in the wall and a stack of peat: "You burn what you want, and you cut as much again before you go."
+- **The loads from the fork (r1).** Boxes on Brom (left shoulder), Lira (both arms through the beckets) and Cael. Seln carries none: he goes ahead with his hands empty. **The tarred case was left leaning on the fork-stone; Karis stopped forty strides up; Vastin went back for it unasked, after Oryn was out of sight, hooked its strap with his stick without kneeling, and slung it above his sound leg.** He told Cael so at once: "I waited until she could not be put to the trouble of forbidding it a third time." "It is a cord, a mallet and one stake."
+- **Seln on the provision:** "A provision of that kind is granted by the week."
+- **Treswick from the rise.** A green plain with hedged fields; a river out of the north in loops; a bluff in the nearest loop; three walls in steps; a small pale steady light above the highest roofs. A day's walk off.
+- **Roles (all unnamed):** the shoulder hold's factor and "the hold's woman"; the broker and his clerk on the western landing; the keeper of the house for the sick, the Gold with the wrist and the woman from the river sheds in Oryn's account.
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+*(Refreshed after repair r1.)*
+
+**Calendar.** A little before noon on the **two hundred and eighty-first day past the Line**, going down the western side of the long rise, a day's walk from Treswick. Days on the page: 278, 279, 280, 281. No season, month or weekday name; no figures for the technician's date; no count of years since the Kindling.
+
+**Where everyone is.** Six going down off the rise: Seln in front, Lira, Brom, Karis, and then **Cael with Vastin walking beside him on the ditch side** (from the top of the rise; nobody asked him to and nobody told him no). Oryn and the brown mule went north from the fork at first light and did not look back. Teague's five are east of the river.
+
+**Cael.** Nineteen. **Ten fragments; no eleventh.** **Deployment thirty-two.** Left palm stung by Ember. He ruled on a job and has made no vow. **He has read the technician's date, laid it against the first line of his own file, and knows it for the day of his own Kindling. He has not written it, has told nobody, and has put no verb to it.** He said "You do now" to Vastin at the hold. He has written in the log, at Oryn's asking, that inside Treswick he does not go near the station. **He has laid his hand on the page once, on the rise, and Karis has it again.** He has seen the light on the crown and turned from it. He carries a box. He asked "Who's Cleon?" and has the name.
+
+**Lira.** Wind; Iron, Rank One. No burst. **Arm: the sixteenth day out of the wool on the 281st.** It held a hound by the scruff while the right hand struck; it votes; **she carries a box on her back with both arms through its beckets.** Oryn: slow for as long again; don't fall on it. **She no longer has the crossbow.** She knows that Cael has put something away and has not asked.
+
+**Brom.** Iron Skin; Copper. No grey at any point. Right shoulder still in the older healer's knot (if it tells him anything he is to put the load down and leave it down). **Right foot: two toes bruised, bound; ten days from the 279th, eight left on the 281st.** One box on the left shoulder. He has the purse and Pike's thumbed slip. He lays seven bowls and will carry Oryn's empty.
+
+**Karis.** Ember; Iron, Rank Three; one point set in the peats. She holds the flat (six rows, counted twice by two people and re-taped, the technician's sheet at the foot of the second), the completion report, the page in its oilcloth inside her coat, her copy, the hide, the kit's ledger and her notebook. She knows: four sign-groups matched to the hide and others matched to nothing, **no number given and none of the others called a place**; five columns; no measure changed in six years; the instruments true; the remark, and that she will not swear to its hand; the box, the same on all four; what an abstract is. She cannot read the index or the box. She began a sentence about lamps and stopped it with her rule, verbatim. She heard "I've read it" from Cael as she had from Seln and asked neither. She named the archive and Cleon. Six findings on her stillhound leaf.
+
+**Seln.** Shadow; Bronze. One hound with a short knife; "It's clear because it's empty, not because it's safe". **He has read the original date in daylight, has told nobody, and has set the sheet before Cael without a word; he does not know for certain that it was read.** He has taught for the first time ("Draft nothing. Just look.", to Vastin). **He carries no box.** **The case is on him, shut; no ruling upon it.**
+
+**Oryn.** Tide; Iron, Rank Four, provisional. On Pike's slip as its healer. She asked Vastin and had an explicit yes; shut four holes; bound the joint; two fingers on his wrist. She has priced all six and given Vastin as long as any. **She has not read Cael**: "It's the one thing I'm walking up that road owing, and I'll pay it." She has told the house, the column and why she left, and will not say where. She has her term in his log and has read it there. Gone north with the mule, her linen, and her crossbow with its one bolt; five gates, the ford, then Millrace in three weeks. She does not know that Vastin is carrying the kit's case.
+
+**Vastin.** No office; **no age stated**. **Iron Wall declared once, on the 279th, in the cut**; spent to the floor. **Right knee: bitten, shut, bound stiff; the 281st is the second day of thirty**; on the stick; no kneeling, running or walls. He qualified every instruction. **He has not sat in front of the crew since the cut.** **He carries the tarred kit case (cord, mallet, stake thirty-two) on the shoulder above his sound leg, taken up unasked at the fork-stone after Oryn had gone, and has told Cael so.** **He walks beside Cael from the top of the rise.** He said the town's name at the spring, the first to say it since the page. He knows the four hands, the doctrine and where a post stands. He has heard the daylight reading whole. **He does not know that the date means anything to anybody**, the mechanism, what Cael carries, the instruments' behaviour in Cael's hand, or what is under the bar; nothing has been said of a directive or an objection. He has not asked to join and nobody has spoken of it.
+
+**Teague and his crew.** On the east bank; salt going over; then the cold road. He knows the six went west to the cut "and what's beyond it", and that Vastin walks behind them. His term is "where I left it".
+
+**Pike's book.** Eleven completed lines. The clearance is taken (five strokes and a healer's line) and not yet said closed; **the thumbed slip is in Brom's shirt**. The season line's number still blank. Eleventh on the cloth.
+
+**Objects and money.** **A hundred and thirty-eight marks.** The reserve sealed. **Owed: sixty yards of four-strand rope to the ferryman.** Three boxes on Brom, Lira and Cael. The kit's case with Vastin. Stake thirty-two never driven. The cord and both edges untouched by Cael since the 168th. Hesk's book has the term on the 280th's leaf and no line for the date.
+
+**The Quieting, as known.** On paper: the four places of the hide, measured for six years with no change; instruments true inside; one word in the fifth column; one surveyor's remark, and the space for remarks removed afterward; a class mark that is the same on all four. Other sign-groups in the rows, unmatched and uncounted on the page. In the field: unchanged.
+
+**Who knows what.** The mechanism: six, as before. The daylight reading: the six at the slab, and Oryn by hearing. **The date: Cael and Seln, each alone.** Nobody has interpreted the sequence, said who classed the places or why, or joined the remark to anything or anybody.
+
+**Words said aloud for the first time.** *Iron Wall* (Vastin, 16:109). The town's name, for the first time since the page (Vastin, 18:215). *Cleon* (Karis, 18:219).
+
+**Open threads.** A date that two people know and neither has said. "All of it." Sign-groups that are not yet places. A box that nobody can read. A lamps sentence stopped. A knee on its second day, and a case on the shoulder above the other. A reading that a healer owes. Two sentences in a log about a flight of steps and a paved place. A rope of the wrong lay. A question that Cael kept from Vastin at Lowmarch, still kept.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Movement 4 already carries day 281, six people/no mule, boxes on Brom/Lira/Cael, kit case on Vastin, the road posts, the inward reads, the station promise, and no new fragment (`packets/MOVEMENT-004.md:24,31–33,43–46`). Its author must additionally inherit the following surviving details:
+
+- **Paper custody:** Karis has the flat under one arm and the hide under the other; inside the flat are six counted/re-taped rows with the original technician's sheet restored to the end of row two, plus the completion report and her copy; Vastin's copied page remains in its oilcloth inside her coat; Cael laid his hand on it once, on the rise, and gave it back (coordinator ruling: the author's beat is kept) (`manuscript/chapter-18.md:141–149,155–157`; `manuscript/chapter-19.md:207,271–291`). Karis also has the dead surveyor's ledger/notebook; Seln's case remains shut on his own strap (`manuscript/chapter-17.md:183–187`; `manuscript/chapter-18.md:39–41`).
+- **Knowledge:** Cael and Seln alone know that the unprinted date matches Cael's Kindling day; neither has said or written it, neither has interpreted the sequence, and neither knows for certain what the other concluded (`manuscript/chapter-18.md:3–31,59–65,85–149`). Karis knows both men have read the sheet but not what they made of it (`manuscript/chapter-18.md:143–149`). Vastin heard the records reading but does not know the arithmetic, integration mechanism or Cael's fragments (`manuscript/chapter-18.md:159–205`; `STATE_LEDGER.md:266`). Oryn heard the archive discussion from the basin but not the date conclusion (`manuscript/chapter-18.md:229–231`; `packets/MOVEMENT-003.md:56`).
+- **Bodies:** Vastin's right knee is shut, lath-bound and on day two of Oryn's thirty-day month on the 281st; stick, no kneeling, no running, no wall, and he has finally accepted being priced equally (`manuscript/chapter-16.md:27–65`; `manuscript/chapter-19.md:151–169`). Brom's right two toes are bound with eight days left on the ten-day term, and his right shoulder remains in the older healer's knot; he must put a load down if it speaks (`manuscript/chapter-16.md:75`; `manuscript/chapter-19.md:131–139`). Lira's arm remains slow and is on day sixteen out of wool (`manuscript/chapter-19.md:119–129`).
+- **Oryn:** she and the brown mule are north of the fork on the reverse circuit; she has her linen and crossbow with one bolt. Her stated route is five gates, the ford and Millrace, where she expects the six in three weeks; she still owes Cael the proper reading and expects “all of it” from the archive (`manuscript/chapter-19.md:63–81,171–219`).
+- **Money/objects:** purse 138; reserve sealed; sixty yards of four-strand still owed; Pike's thumbed slip is in Brom's shirt; no cordage was bought (`manuscript/chapter-13.md:149–165`; `manuscript/chapter-16.md:99–101,187`). Oryn's empty bowl is Brom's to carry (`manuscript/chapter-19.md:221–223`).
+- **Progression:** ten fragments, deployment THIRTY-TWO (coordinator ruling: one Ember grain at the mark and one Wind burst away, both at the cut); Shadow sealed, Anchor still two, Tide unused, no self-read, no eleventh (`manuscript/chapter-15.md:133–163,223–227`; `manuscript/chapter-16.md:205–211`). Vastin has shown Iron Wall once; Cael witnessed it but did not acquire it (`packets/MOVEMENT-003.md:55`; `packets/MOVEMENT-005.md:52`).
+- **Treswick/day:** it is a little before noon on day 281, at the top of the long rise, a day's walk from Treswick. The six have seen a bluff, river loops, three tiered walls and the pale steady station light; Cael turned his eyes to the lowest wall, and Lira has not yet performed the packet's unasked matching discipline (`manuscript/chapter-19.md:233–269`; `packets/MOVEMENT-004.md:24,43`).
+
+**Movement 3 CLOSED (2026-10-11).** Same-author repair r1 (ch13, ch16–19; ch14–15 untouched): the eleven coordinator-applied fixes kept and their joins smoothed (Seln on the north bank beside the factor; Cael had not known that he would say "You do now,"; Vastin names the town); no number of places and no fifth place (Karis counted groups, not places; four matched to the hide; the other sheets' corners turned down, uncounted and undescribed); the second calendar cut (Seln knew the day because he had copied that line of Cael's file twice; Cael laid the date he knows against the sheet's, a figure at a time, twice); three tracked passages re-ordered; the ruler line verbatim at the stopped lamps sentence; the remark's hand unidentified; Brom counts the spring's three findings on his fingers; the loads and the closing file made to meet Movement 4 (**Vastin took the kit case against the letter of Oryn's "you're not to" and told Cael so at once; Oryn does not know**; he walks a shoulder off Cael's left from a dozen strides down the rise). Sol recheck: CLOSE WITH LINE FIXES; all tracked passages RESOLVED; every binding ruling borne out; the settled rulings (the cut's staging, thirty-two, Oryn's past, the hand on the page) confirmed in the surviving prose. Two fixes applied by the coordinator: ch16 "Two days ago, at a board" (was three); ch18 Seln "has spent fifteen years among the seat's paper" (he copied for twelve). The "New canon minted" and "State at movement end" sections above were refreshed from the post-repair author report. Final: 34,751 prose words (about 2% over; accepted — the added scene carries the loads and the seam); gates 0; overlap 0 unprotected (16 protected). Purse 138 marks; deployment thirty-two; day 281, near noon, going down off the rise toward Treswick.
+
+
+## AFTER MOVEMENT 4 — chapters 20–26, days 281–284 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 3 ratified** (Sol plan audit): day 281 going down off the rise; six and no mule; the loads; deployment thirty-two; ten fragments; purse 138; bodies; the papers with Karis (the flat, the hide, the copied page in oilcloth, the dead surveyor's ledger, her notebook).
+- **The road hold lifts at the first hedge** below the rise: on a town's ground a person may speak and **nobody declares** (there a declaration draws a clerk, not a hound). **The Line at Treswick is the river; the sill lies under the outer gate.** Wayposts at nine, six and three miles; the six slept at the three-mile pull-in on the 281st.
+- **The reading inward (the 281st): the fourth and fifth self-readings**, with Tide, ROUND the still place and never in; **not counted** ("Myself, twice: not counted, as before"); a palm on a gatepost while it was open is a trial. Finding (protected): "He had been putting a cord on a stone and writing down *no length*." — the tenth feels only what flows; where nothing flows it returns nothing, and that nothing is the instrument's limit, not a finding about the place (a gatepost and the middle of himself come back alike). **He needs an instrument for what does not move.** He read Oryn's order for the leave he wanted, has logged that, and **owes her the telling at the mill before anything else is said**. Lira asked and is entered as having asked. **Deployment since the Line: thirty-two; ten fragments; none acquired.**
+- **Vastin and Cael at the three-mile post.** Vastin SAT for the first time since the cut, of his own choosing, where he could not rise without Cael's arm. "I read your file" (no span of years). Cael: "You were the instrument," … "I was the error." (protected, Cael's). **Why he declined** (the author's, amended to locked Book 6): the case shown him at Ostrand is the true and causal reason — the office had shown him what it did with honest readings; and privately part of him was relieved never to learn what a plate would say (a second silence would have been turned on Cael; a plate that lit would have been turned on nine thousand of his own readings). A sound act, and glad of it for a bad reason. **What Cael gave him:** that the place has been read twice that day with "the one thing I've got that reads", and nothing came back because that thing only feels what moves. NOT what reads, nor fragments, the mechanism, the date. Vastin did not ask. "It is a place where two people can stand": ground, not friendship. The S7 log verbatim ("color" stands).
+- **Treswick (the 282nd).** The grey bridge on five piers is of dark, dry-laid stone with no mortar and is OLDER than the walls (Karis, from the masons' fitting of the pale stone to it); the same dark stone is the registry's three lowest courses, the undercroft's end and the frame of the iron door. The outer gate: one keeper counts feet on a bead-frame ("Six"); another writes only loads that come on wheels to be sold. **No name of the six was written.** The outer district works by brokers' slate boards and counted labour: cards with a coloured edge (blue to the second wall, buff to the third) carry a figure, are counted in with a pen and torn at each gate, and are good for the day named. **Iron passes the second wall by right, Bronze the third** — on a certificate that is read out and WRITTEN. The smith's two forges (charcoal; an Ember's held bed for a horse with a blue band): Brom, "They shoe by the tier." (protected). The rope-walk: sixty yards of four-strand priced (no figure printed) and to be bought going out; the Lowmarch debt stands. **The inn with two doors** (the painted door has a book; the yard half-door takes money): the long loft over the stable for a week from the 282nd, the pot at dusk, seven bowls; two marks paid; **purse 136**. Lira hung a blanket over the loft's uphill window.
+- **Vastin:** "I have papers I will not show. I want that said once, so that nobody asks twice." (three sheets under one seal, in oilskin, beside Karis's receipt). He has certified Treswick on four occasions. His cutaway: "the first honest district". He has sat three times; no age; no wall; **the right knee is day five of thirty on the 284th**; he came down twenty-two steps and caught one slip with his left hand.
+- **Seln's report (the 282nd night):** the old town stands on a quarry cut from inside; the lower archive is behind one iron door in the undercroft beneath the registry's yard; a practitioner registered under historical studies has standing entry by the week and may have matter brought down; **"Rune Path. Bronze."**; one clerk keeps the provision's book, which has had one name in it; the form has a line for the matter, a line for its bearer (one), and **a line for hands, entered by count**. Protected: Karis "Four hands." / Seln "Four… By count." / Lira "Four hands," … "I've two." / Cael wrote: *Entered by count. That's the door.* The S8 close verbatim (Cael; Karis), with OWNER-pending #53 ("four years and a hearing") as Cael's rough spoken figure, never repeated.
+- **Cleon at noon (the 283rd)**, at the cook-house against the second wall: he looked at one sheet from its foot upward. Protected: "Off floors," (Cleon) / "Fused. Grey. No join. Three of them. I copied every mark on all three. Fifty-two sheets," (Karis) / "Fifty-two sheets," (Cleon). His terms: not on a counter; all the sheets, in their places; they come down to him; no names (his is on the card and is not said aloud); **not a word of what she thinks they are until he has looked**; one lamp goes down with them, his, held where he says; no other carried light and no fire of anybody's. He gave a buff-edged card for the 284th at the second bell. He never looked at Cael. He stopped a step late on the paving. **His Path has not been shown.**
+- **The 284th.** Seln is NOT on the count (a clerk might know his face; somebody must watch the door). **Vastin said "Yes" before a mouth was open** and is the fourth hand. Karis is the card's unnamed bearer; **Cael, Brom, Lira and Vastin are the four hands**. Both upper keepers counted ("One, and four") and tore a corner; the way to the yard goes by the load lane under the third wall and a cut of **twenty-two steps in five flights, a stride and a half wide, walled three men high with no door or window** — never across the square. **Cael did not set foot on the square or its steps and did not look at the crown; Lira kept the same discipline unasked** and walked between him and each alley's end. **Lira's ladder did not pull** ("It's a hill with a tax on it"); protected: "Four hands," (Lira) / "Four." (Cael) / "Right." (Lira); the S9 log verbatim. Her registry paper stayed in her coat. **The yard clerk (unnamed) asked nothing and wrote *four*.** None of the four restricted names has been written; the asset-restriction is still pending.
+- **The iron door** is low, of plates laid like slates, with no lock or handle on the outside; the clerk knocks; Cleon opened it from within, counted loads, not people, and shut it behind them. Inside: Cael, Brom, Lira, Vastin and Karis with three boxes, the kit case, the flat and the hide; the clerk and Seln outside. "The tiers closed, and the dark opened."
+- **Oryn (cutaways):** at her first gate north (unnamed) she re-broke and set, with his leave, the wrist of a carter of Oxhollow that had knit wrong over the cold term (spent to greyness; a day lost); at her second (unnamed) she turned a child lying across and a daughter was born alive at first light on the 284th. No patient died. She has heard of no leaf. She still owes Cael the reading and is a day behind her round.
+- **Names:** none minted (the clerk, keepers, porters, innkeeper and both holds unnamed). **Length:** about 35,200 against 34,000, accepted.
+
+### Review record
+All reads on Sol (gpt-5.6-sol), with the audit instructed to separate protected text and plan facts from the source's staging: editorial; cold read; source-distance (2 tracked passages, both in ch26; probe 2% / 10%); plan / canon / protected-text audit (bounded line repair; 10 exact fixes; every piece of the author's staging and city mechanics ratified). Nine fixes applied by the coordinator (five markers restored whole with speakers; the full inward-finding sentence; Shadow's ordinal; Cleon's lamp term; the parapet exchange moved); the tenth (the weighting of Vastin's refusal against Book 6) recomposed by the author. **Repair r1 in progress with the same author.**
+
+### New canon minted (author's list)
+*(Refreshed after repair r1, 2026-10-11: the entries for Cleon, the clerk and Vastin below are as the repaired text stands.)*
+
+All of this is mine and is flagged for ruling.
+
+- **Where the Line is at Treswick.** The river is the Line; the sill (one long stone, worn hollow, a socket at each end for a bar) lies under the outer gate's arch. The hedged fields east of the bridge are "ground that the town uses and does not own", worked to the foot of the moor, with a watch that rides as far as the fields go. **The road's hold is lifted at the first hedge, in one half only:** they may speak; nobody declares ("Out there a declaration draws a thing with teeth. In here it draws a clerk.").
+- **The road in.** Wayposts of dressed stone at nine, six and three miles, each with a figure and three short bars one above another. The six-mile post stands by a brook with a plank bridge. At three miles a carters' pull-in: a stone trough, a ring of blackened stones, a thorn hedge, a bank and ditch at the road's edge. The gate is shut at sunset and opened at first light.
+- **The bridge.** Five piers; one cart wide, with a bay over each pier; a dark stone with no beds in it, laid dry and cut to fit; the roadway worn in two grooves deeper than a wheel's rim. The pale mortared gate-tower is cut to lie against the bridge's end, course by course: the bridge was there first. Vastin has ridden over it four times.
+- **The outer gate.** A keeper in undyed grey on a high stool, with a frame of three wires and wooden beads (feet, wheels, hooves); he counts and asks nothing. A second keeper beside a strapped book on a sloped desk, who writes only those who come to sell ("A load on wheels is the town's business. A load on a back is the back's.").
+- **How the town sorts (the mechanism).** Three walls. **Iron walks through the second gate by right; Bronze through the third.** A stranger who comes by right shows a certificate, which is read aloud and written with the hour, and the entry goes to a counter before night. Everybody else goes up on a **card with a coloured edge** (blue for the second wall, buff for the third) that states a door, a purpose and a count; the keeper counts caps against the figure, makes one stroke, and tears a corner off the card. Cards carry an hour and a day. Keepers wear the gate's coat: grey, dark blue, pale buff. The second gate has two keepers and a groove for a portcullis; the third is a low round arch with one old keeper.
+- **The outer district.** The brokers' street from the gate to the bluff's foot, with a slate tally board at every door (*Wanted*; a load or a number of hands; the landing, the second wall or the third; a rate; a daub of colour for the card that goes with the work); the porters' bench; loads up on the right hand and down on the left. The rope-walk: a shed three hundred yards long against the inside of the town wall, ending in a yard of tar barrels above a quay; **Brom found four-strand laid round a heart, asked the price of sixty yards, found it fair, and did not buy** ("I'll take it going out"); no figure is printed. A public trough forty feet long at the street's head, where a brown mule that is not theirs was drinking (theirs has the white foot). A ring road under the second wall, right round the bluff. A landing with six flat boats, a treadwheel hoist and a cable ferry.
+- **The smith's two forges.** One with a hood, charcoal and a lad on the bellows, shoeing carters' beasts; one with no bellows and a white even bed held by a hired Ember in a dark blue coat (Karis: "Rank Two work, at the most"), shoeing a bay with a blue band in its forelock. Both smiths draw bar from one rack and nails from one keg.
+- **The inn with two doors.** A long house one street back from the trough, with a carriage-arch. A painted street door with a book on a stand inside it ("that side's for names"); a half-door under the arch where a woman takes money in front and writes nothing. **Two marks for the long loft over the stable for a week, the six of them, with the pot at dusk: 136.** A lower room off the yard with one long table and a hatch. Lira hung a horse-blanket over the loft's gable window, which looks up the hill.
+- **The road to the registry.** One street climbs from the trough through both gates and, eighty yards beyond the third, opens into the square. The registry's front door faces the station's steps across it. Loads go another way: from the third gate, a lane on the right hand under the wall, two hundred paces, with four alleys opening off it toward the square; then either the carts' street to the left (half a mile round the crown, past a bar and a weigh-beam where every load is written against an owner) or **the cut**: five flights, twenty-two steps, a stride and a half wide, between walls three men high with no door or window, down the bluff's north side to the registry's yard. (The cut's measures are BOOK_MAP §8's.) At the cut's head a waist-high parapet looks down over the whole town.
+- **The cook-house** built against the second wall beside the blue gate: a counter down one side, the wall's own stone behind it; a roofed wood-yard at its lower end where porters are fed through a hatch; the yard door open to the room.
+- **Cleon, as seen.** Not tall; grey hair cut short and badly; a coat the colour of dust; round shoulders; square pale hands with the nails pared to the quick; red-rimmed wet eyes, which he keeps shut while he eats; a voice "like a hinge". He looks at a sheet from its foot upward. He eats at the counter's end by the yard door at noon and goes down within the hour. **Cael knows him for Cleon at the counter** (the name said at a spring) and reads it once, written, at the head of the card in Lira's hands on the 283rd; nobody says it aloud. Karis told him at the counter what the floors are (the protected line: fused, grey, no join; three of them; fifty-two sheets), so his questions after it are of method only (rubbed or drawn; what light; which edge north; how far apart). **His terms (mine, one amended by the audit):** not on a counter; all of them, not a choice; they come down to him and he does not come up; his card, written at the counter (the matter; its bearer, one; hands, a figure), good for the next day only, at the second bell; no names given or wanted; not a word of what she thinks they are until he has looked; **one lamp goes down with them, his, held where he says, and no other carried light or fire of anybody's** (a light already burning below is not excluded). He pushed her sheet back without touching it. He left by the street door and stopped a full stride beyond it for three breaths. **He never looked toward the yard.** The Path is not shown; only that he rests his eyes.
+- **The provision, as Seln reports it.** The oldest and shortest leave in the registry's book: a practitioner registered under historical studies has standing entry to a lower archive, by the week, renewed at the yard door, and may have matter brought down to him. When matter is brought the form has a line for the matter (described), a line for **the matter's bearer, who is one**, and a line for hands. **Karis goes as the bearer**; nobody's name is on the card but the practitioner's. One clerk has kept the provision's book at the yard door for many years, with a single name in it. The exposure: the form neither requires nor forbids the clerk to ask who a bearer or a hand is.
+- **The quarry, as Seln reports it** (from a porter who has carried to the yard for eleven years and has never been below): the crown of the bluff was quarried from the inside, by galleries, before there was a wall on it; the later town kept its records there, since it was dry; the Compact built its registry across the quarry's mouth and never brought the old records up; one iron door in the undercroft, with the registry's wall built round its frame.
+- **The registry's back, the clerk and the door.** A sloping paved yard with a dock, sheds and a weigh-beam; five storeys of pale stone with small barred windows; **the lowest three courses are of the bridge's dark, dry-laid stone**. A low door, a hatch and a bench. **The clerk (re-ordered in repair):** no name; no particular age; a grey coat with ink on the right cuff; a narrow book bound in green cloth. He sits at the hatch with the book open and enters the matter before he looks at anybody; makes one mark in a narrow column; lifts his eyes along the paving at the height of a boot and writes *four* in a narrower one; blots it. Only then does he unlock the low door, stand on its sill and look at the people; his eyes rest on Vastin; his mouth opens and shuts; he looks at the card's old seal and at his shut book, and stands aside. He asked nothing and said nothing. The undercroft: a vault of pale stone with iron lamps, pillars, and the registry's lumber, with clerks' feet overhead; at a pillar the pale stone ends and the walls are dark and dry-laid and the air dry and cold. **The door:** low, broad, of black iron plates laid like slates, no lock or handle on the outer side, in a frame of dark stone to which the pale masonry is cut; the clerk knocks three times; it is drawn from within and swings inward; an iron sill worn bright; a stair going down into no light. Cleon counted the loads ("Three. And the case."), not the people.
+- **Vastin.** He told Cael beforehand that he would sit and could not rise without him; he sat on the bank at the three-mile post (the first time since the cut), in the inn's lower room (the second), and on the yard's bench (the third). **What he says of the file:** he read it first in the week before he came up the bluff, by the candles of four inns, and last on the morning he left a seal in a tray. **Why he declined (as repaired, in line with locked Book 6):** the reason he gave at Ostrand *was* the reason and he does not take it back: five young people had shown him what the office he served did with honest readings, and he would not lend it his name for one more; he wrote *declined* on a form that has no line for why, and would have written it had there been no night awake. **What he adds, and has told nobody else:** he had set out what a second reading could come to (a second silence, for which an office finds a word; or a plate that lit, which would have made his three days and nine thousand readings worth what a sheet of brass said); he could afford neither answer; it was the second that kept him awake; and when the pen was down he was relieved, on his own account, that he need never learn what the plate would say. "I had kept my hand off a door for a sound reason, and I was thankful of it for a poor one." He answers for the refusal and takes no credit for the gladness. His sentence from forty years of inquiries, "The instrument is not at fault. It has told you where its reach ends," is said aloud here; he wrote it once of a person, in an assessment that a seat declined to receive (Book 6). **His papers:** three sheets under one seal, in oilskin, which would open both gates and bring an officer down the hill; he does not know who reads the town's books at night. He has certified the town four times. In his window: every district he inspected had been told four days before that he was coming.
+- **Oryn's north road.** The first gate lies a day and a half north of the fork: a small hold with a wall of field-stone, a gate of oak bars, and a gate-house and bench on the wall's outer face; she has sat there on thirty rounds and never been through the gate. **The carter:** of Oxhollow, big, red-bearded, there for the hay; his right wrist was broken under a wheel a week after she passed Oxhollow before the snow, and strapped at Oxhollow's gate by the keeper's wife with a wet strap and two spoons; it knit a thumb's breadth out. She would not part it tired or without his word; he gave it in the morning; she re-set and knit it in an hour and was grey; six weeks in the binding; paid in oats. She spent her one day in hand there. **The second gate,** nine miles on, reached after dark on the 283rd: a boy of three whose chest she was to have heard a cold term ago, and who had mended himself; the keeper's son's wife in a gate-house built outside the wall, in labour since first light with the child lying across; "May I?" / "Yes. Yes. Do it."; she turned it from outside over some hours, giving it what she had kept for the road; **a daughter, alive, at first light on the 284th.** Nobody died. In her own head she has called the place in Cael "a stone" and "a join" and has decided that it was neither; she has no word.
+- **Small things.** Brom carries a flint, a steel and charred rag. Brom stood over Karis with a bowl on the 283rd. Oryn's empty bowl rides under the lashing of Brom's box. Children in the tar yard play at gates ("Then I'm the gate"). A house for the sick inside the second wall hangs its hours on a slate at the door: *First bell: buff. Second bell: blue. Cards, after the fourth, at the side door, as the house's means allow.* (Vastin: the ninth article of a schedule.)
+- **Roles (all unnamed):** two carters at the pull-in; the three gate keepers and the book-keeper at the outer gate; a broker's clerk; the ropemaker; the two smiths and the hired Ember; the inn's woman; an old woman porter at the kerb; a girl with eggs; the cook-house boy; Seln's porter; a yard-man; the clerk; Oryn's patients, the carter, the old woman who catches the hold's children, the mother and the keeper's son.
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+*(Refreshed after repair r1, 2026-10-11. No fact of the calendar, bodies, money, loads or deployment changed in repair; the lines for Cael, Lira, Vastin, Cleon and the clerk are as the repaired text stands, and the markers are gone.)*
+
+**Calendar.** The forenoon of the **two hundred and eighty-fourth day past the Line**, under Treswick, on the head of the stair inside the iron door. Days on the page: 281 (the rise's foot; the posts; the three-mile pull-in), 282 (the bridge; the outer gate; the district; the inn; the district's edge; Seln's report), 283 (the cook-house at noon; the route; the evening), 284 (the inn yard at dawn; the second bell; two gates; the lane; the cut; the yard; the clerk; the door). Oryn: the first gate at dusk on the 282nd and the morning of the 283rd; the second gate from the night of the 283rd to first light on the 284th. No season, month or weekday name; no figure for the technician's date; no count of years since the Kindling.
+
+**Where everyone is.** Five inside the iron door: Karis, Brom, Lira, Vastin, Cael, with Cleon at the stair's head holding one lamp. The clerk is outside it with his lantern. **Seln is above ground, on no card, where he can see who comes to look at the door**; nobody saw him on the climb. Oryn and the brown mule are at the second of her five gates, north along the hill-foot, with three gates, the ford and Millrace ahead and her day in hand spent. Teague's five are east of the river (not on the page).
+
+**Cael.** Nineteen. **Ten fragments. Deployment thirty-two.** He has read himself a fourth and a fifth time (the 281st), round and not in. **Finding:** the reading feels what moves; the place has nothing that moves; the reading's nothing was never an answer; he needs an instrument for what does not move, and knows of two (the station, which he has promised to stay away from, and the man under the town). He has entered that he read Oryn's order for the leave he wanted, and that she is to be told so at the mill before anything else. **He has told Vastin** that the place was read twice that day and came back with nothing, and that what he reads with cannot read what does not move; **not what reads, or how.** Lira has read the log's entry. He has not told anybody the date, and has not written it. **He has not set foot on the square or the steps and has not looked at the crown**; the term has cost him something for the first time (the lane with four alleys). He has seen Cleon at five strides and was not looked at; he is afraid that the man will "look up". He wrote *Entered by count. That's the door.* in the log on the night of the 282nd, and said the #53 line that night as his own rough figure. He went into the registry as one of *four* in a green book, with his eyes on his boots. Body: sound; a box-strap's mark on his neck.
+
+**Lira.** Wind; Iron, Rank One. No burst. Arm: the nineteenth day out of the wool on the 284th; it carries a box by both beckets. **She has kept her eyes off the crown since the rise, unasked, hung a blanket over the loft's window, and walked between Cael and the square in the lane.** **Her registry paper is in her coat and has not been touched or shown.** At the cut's head she priced the whole town from the top ("a hill with a tax on it"; "Two gates. And a view."), shouldered her box, called the count ("Four hands," / Cael: "Four." / "Right.") and was first into the cut; Cael understood only afterward that it had not pulled. She has read the 281st's log and has said that she never asked for the question.
+
+**Brom.** Iron Skin; Copper. No grey. Right shoulder in the older healer's knot (it has not spoken). Right foot: five days left on the 284th; he favours it on hills. One box, with Oryn's bowl under its lashing. **The purse: a hundred and thirty-six.** Pike's thumbed slip in his shirt. He has looked at four-strand and will take it "going out". He lays seven bowls.
+
+**Karis.** Ember; Iron, Rank Three; shut since the fork. She has said, on the evidence of her own eyes, that the bridge is older than the walls; she has seen the same dark stone under the registry's back and under her bare hand in the undercroft, and has said nothing of it yet. She laid one sheet on a counter, answered a craftsman's questions, and **said that she came to ask how the thing stands, not what it says**. She has agreed to his terms and has kept her case to herself. She carried the card as its bearer; it has two corners gone. She holds the flat, the hide, the page in her coat, the ledger and her notebook. She has told Cael that she cannot tell her happiness from terror. She does not know what Cael meant by "look up" and did not ask.
+
+**Seln.** Shadow; Bronze. He lifted the road's silence and said what a town puts in its place. He learned the quarry, the provision, the clerk and the practitioner from a porter, without going above the trough; went up once on the 283rd as a counted hand with lamp oil and found the two ways round; **is on no card** ("I should cost you the count"). He has said the practitioner's Path and tier. The case is on him, shut; not mentioned.
+
+**Vastin.** No office; no age stated. **Right knee: the fifth day of thirty on the 284th**; on the stick; no kneeling, no running, no wall. It did nine miles on the 281st and twenty-two steps down on the 284th; the stick slipped once and he caught himself on the wall with the left hand. **He has sat three times.** He has told Cael the rest of why he declined the second reading: the Ostrand reason stands as the cause, and beside it his private relief at never learning what a plate would say (glad of a right act for a wrong reason). He holds what Cael gave him and has not asked what read it. He does not know the mechanism, what Cael carries, the sum, or what is under the bar; he does no date arithmetic. He has said once that he has papers he will not show. He consented to be the fourth before he was asked and went through three counts as a hand, looking at his boots, "very ill" and then a little better; the clerk looked at him after the line was blotted, opened his mouth, and did not ask. He has not asked to join and nobody has spoken of it. He carries the kit case, still against the letter of Oryn's instruction; Oryn does not know.
+
+**Oryn.** Tide; Iron, Rank Four, provisional. Two gates done of five. She parted and re-knit a carter's wrist at the first (asked; told yes in the morning) and turned a child at the second (asked; told yes). **Nobody has died under her hands.** She is spent to grey and a day behind her own reckoning. She has not been through a gate. She has the mule, her linen and the crossbow. She owes Cael the reading and has thought about it twice; she has heard of no leaf and knows nothing of what happened on the road's edge.
+
+**Cleon.** Named by the narration in chapter 24 (at the counter, and in the tags of the protected exchange) and once in chapter 26; never said aloud by anybody in this movement; Cael has read the name on the card. Rune Path, Bronze, by Seln's report only. He has set terms, written a card, and pulled the iron to. He has taken no notice of Cael. He has been told what the floors are (fused, grey, no join; three; fifty-two sheets) and nothing of what the sheets are thought to mean.
+
+**The clerk.** Unnamed. He asked nothing and spoke to nobody. *Four* is in his green book, blotted before he looked at a face.
+
+**Objects and money.** **136 marks** (138 less two at the inn's yard door). The reserve sealed in the third box, which is on Cael's back. Three boxes, the kit case, the flat and the hide are inside the iron door. Karis's fifty-two first copies are back in their box in their order. The card is in Cleon's hand. Still owed: sixty yards of four-strand to the Lowmarch ferryman. The loft is paid for a week from the 282nd.
+
+**Who knows what.** The mechanism: six, as before (Oryn among them); not Vastin, Cleon or the clerk. The inward finding of the 281st: Cael, Lira (from the log) and, in its outline, Vastin. The why of the declining: Cael and Vastin. The sum: Cael and Seln, each alone. Nobody has interpreted anything.
+
+**Open threads.** A date that two people know. A question that Cael has never carried to anybody, and a man who has not looked up. A dark stone under a bridge and under a registry. A clerk who nearly asked. A term in a log that now has a square at the end of four alleys. A paper in a coat that did not pull. A knee on its fifth day, and a healer who has not been told about the case. A reading owed at Millrace, and an admission owed with it. A rope to be bought going out.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Movement 5's packet carries the M3 baseline and its own 284th opening, but not the following surviving M4 particulars. Its author must inherit all of them:
+
+- **Who is below.** Inside the iron door are Cael, Brom, Lira, Vastin and Karis, with Cleon at the stair head; the unnamed clerk and his lantern remain outside. Seln is above ground, not on the 284th card or count, positioned to see who comes to the door. Oryn and the brown mule are at the second unnamed gate north (`ch25:87–117`; `ch26:183–279`; `AUTHOR-REPORT:101`).
+- **Loads and papers.** Boxes remain on Brom, Lira and Cael; the kit case remains on Vastin; Karis has the flat, hide/calfskin, copied page in oilcloth, dead surveyor's ledger and notebook. The fifty-two first copies are back in their box in order; Oryn's bowl is under Brom's lashing; Seln retains his closed case; Cleon has the two-cornered card (`ch24:199–225,275–293`; `ch25:89–117,229–237`; `ch26:195,213,261–267`; inherited M3 custody at `STATE_LEDGER:306–308`).
+- **What Cleon has seen and been told.** He has seen one drawn sheet from fused, grey, joinless floors; he knows there are three places and fifty-two sheets; he has been told they are older than what the Compact found, but not Karis's theory, purpose or proposed meaning. He has not noticed Cael. His terms are all sheets in order, brought below, no theory before he looks, his carried lamp under his control, no other carried light or fire (`ch24:65–181` after fixes 7–8).
+- **Inn.** The six—Cael, Brom, Lira, Karis, Seln and Vastin—have the warm long loft over the stable for a week from the 282nd, with the pot at dusk and seven bowls; the street door is for names and the yard half-door takes money without writing (`ch22:181–209`; `ch23:3–57,227–233`). Price paid: two marks. Purse: 136 (`ch22:195–199`; `ch24:265`).
+- **Count and restriction.** Karis is the unnamed bearer; Cael, Brom, Lira and Vastin are the four hands. Seln is not on the 284th count. Both upper keepers counted the card; the yard clerk asked nothing and wrote *four*. None of the four restricted names has been written, so the asset-restriction remains pending (`ch25:97–117,145–171,225–247`; `ch26:183–223`; `book-06 ch58:49–53`).
+- **Day and bodies.** It is the forenoon of the 284th. Vastin's right knee is day five of thirty, still stiff, with stick/no kneeling/no running/no wall; he has now sat three times and descended twenty-two steps, catching one slip with his left hand. Brom has five days left on the two right toes and the older shoulder knot; Lira's arm is day nineteen out of wool and has carried the box with both arms. Cael is sound apart from the box strap (`ch25:87,197–205`; `ch26:47–127,153`; `AUTHOR-REPORT:103,105,107,113`).
+- **Cael's state.** Ten fragments; deployment thirty-two. He has made the fourth and fifth self-readings, both around/not in, and concluded that Tide reports only current and cannot read the still place. He owes Oryn an admission at Millrace. Lira has read the log. The square/steps/crown promise still holds and has now cost him something (`ch20:95–215`; `ch21:49–65,227–247`; `ch26:9–25,175`).
+- **Vastin and Cael.** Vastin has confessed both the sound institutional reason for refusing certification and his private relief at not learning what another plate would say. Cael has given him the fact of two self-readings and the instrument's limit, but not what reads, fragments, mechanism, date or arithmetic. Each holds one fact from the other; the relationship is explicitly ground, not friendship (`ch21:121–223` after fix 4).
+- **Other live state.** Lira's Iron-first paper remains unshown; the ladder no longer pulls. Karis has recognized the bridge's dark stone under the registry and has not yet stated a conclusion. The sixty yards of four-strand remain owed and Brom intends to buy them going out. Oryn has delivered a live daughter, is spent and a day behind her circuit, has heard of no leaf, and still owes Cael the reading (`ch22:125–127,215–283`; `ch24:219–231`; `ch25:3–83`; `ch26:47–79,137–145`).
+
+**Movement 4 CLOSED (2026-10-11).** Same-author repair r1 (a bounded line repair; nothing re-staged): the nine coordinator-applied fixes kept and their joins smoothed (the boulder image made to agree with "*no length*"; Karis looks at three boxes and a case before "Four hands."; the cook-house questions after the restored exchange are of method only; "Four." given to Cael at the parapet); Vastin's refusal recomposed to locked Book 6 (the Ostrand case stated as the cause, twice, and not taken back; beside it "I had kept my hand off a door for a sound reason, and I was thankful of it for a poor one"; entered "on a form which has no line for why"); the two tracked passages in ch26 re-ordered (Lira prices the ladder aloud and shoulders the box before Cael understands; the clerk writes *four* and blots it before he looks at a face, then opens the door, looks at Vastin, opens his mouth and shuts it); Wind's ceiling removed; **Cleon's name comes to Cael at the cook-house counter and is then read on the card — nobody has said it aloud**; second tellings of the name-versus-count idea trimmed. Sol recheck: CLOSE WITH LINE FIXES; both tracked passages RESOLVED; every binding ruling borne out; the day arithmetic confirmed (161 days since the last self-reading; four days since the board; 282 days since the first sill; Oryn's gates). One punctuation fix applied by the coordinator (a broken dialogue join in ch21). The "New canon minted" and "State at movement end" sections above were refreshed from the post-repair author report. Final: 35,179 prose words; gates 0; overlap 0 unprotected (12 protected). Purse 136 marks; deployment thirty-two; ten fragments; the forenoon of day 284, inside the iron door under Treswick.
+
+
+## AFTER MOVEMENT 5 — chapters 27–33, days 284–290 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 4 ratified** (Sol plan audit): the five inside the iron door on the 284th with Cleon's one carried lamp; Seln above ground and off the count; the loads; purse 136; deployment thirty-two; bodies.
+- **The Deepstacks.** Inside the iron door: a sliding bar; **twenty-seven steps of the dark stone in three flights of nine**; a cross-passage; three galleries side by side, cut in the bluff's pale bedded rock (the rock was cut first; the dark stone laid against it second; the town's mortared work third — Karis's first finding, undated). **The middle gallery** is about a hundred and ten strides, shelved to the roof with nothing ticketed; sorting tables from ninety strides; Cleon's sloped desk at the end under a fixed lamp on an iron arm, with a shelf above it (a cup, a jar, a thick bundle tied both ways in brown tape, and a black oak plank in sacking). The eastern gallery holds the old town's tall tally-books; the western, quarrymen's gear. **The fifty-two sheets lie on three cleared tables, 11 / 29 / 12 (the Ring, the Stair, the Hall), as they lay on the floors, and stay there; the boxes go up at the clerk's bell each evening and come down each morning on a fresh card.**
+- **Cleon.** Protected, all his: "I know that hand." (of the Hall's fourth sheet); "Being believed — … It's the end of being able to be wrong."; "Give me a week." (the 284th); "They're orders."; the two-part limit ("I can tell you these are orders. I can't tell you what they order…"; "It doesn't work on a river, and it doesn't work on a man, and it doesn't work on a tree… It costs me my eyes for an hour after and nothing else."); "Same make."; and the 287th close ("documentation… built the same way twice… never once slept well since."), in which he uses Karis's name (he heard Brom say it). Karis: "Older than [UNBOUND]." **His Path has been shown from OUTSIDE only**: he looks at a made thing from its foot upward, without blinking, and says which signs BEAR (white), which are CARRIED (black) and which are NOTHING (red, packing); his plank's four rows are the same lines as rows on the Hall's fourth, the Stair's ninth and twenty-first, and the Ring's sixth sheets. **On the 287th he set his own week to run from that day to the 293rd, with everything else put aside**; at its end every sheet goes up. The bundle on his shelf ("Paper. Not stone.", from the same shelf as the plank) is tied and unread. He has not noticed Cael, who holds his lamp ("a hand to the left"); he knows nothing of the alley, the fragments or the mechanism.
+- **The decipherment (Karis alone).** Of the forty-one kinds of sign: **seven bear, twenty-three are carried, eleven are nothing**; the carried are what a word is spelled in. The plank's cutter counted each row in figures (a ring is five, a peck one) and then wrote the number out in words, in the old town's tongue or its near kin; she proved it against the old tally-books by pattern alone before looking. **Fourteen of twenty-three letters by the 290th; she reads numbers and number-words only**, has refused to guess one tempting six-sign word, has not untied the bundle, and has not shown Cleon Vastin's copied page (it is in her coat). **The leaf has not appeared.**
+- **The yard door, the 285th.** The clerk's form had no line for matter that had gone up and come back; he asked one question ("The same?") and was about to send up for the under-registrar. **Vastin gave his old name, rank and office aloud** (protected: "Vastin. Archmarshal, Compact enforcement. You'll find the name is —"); the clerk's pen came up and **wrote nothing of it**. **Seln, posing as a porter on the hatch's bench, answered truthfully** (protected, whole: "He's on the count. Four hands, same as yesterday, entered by the practitioner and answered for by her, and the form asks what a hand's for, not what he was. The researcher's at your counter and she'll want to be told we're through,"). The clerk wrote *The same* and *four*, and has done so each day since. **The cost: a Treswick registry clerk now knows Seln's face and voice.** "I'm sorry." (Vastin) / "Don't be sorry. Be nobody." (Seln). Seln watches from the roof above the cut's head from then on. No restricted name has been written.
+- **Brom (the 286th)** righted a broker's dray off a lad's foot in the registry's yard with his back and **no Path opened**, wrenching the LEFT (good) shoulder; a broker's man offered a guard's post inside the second wall (a sealed monthly pass, a bed, the house's coat, four marks and found; "Ask for the factor."); "I'll think on it."; he took up his box on the bound RIGHT shoulder ("Cart was heavier"), and carries it there — **a debt Cael has entered, owed at the mill to two healers**. "You think Karis is right?…" / "Good. I'd hate to have turned down a real job for a wrong hunch." His two toes were done on the 289th.
+- **Seln's night walk (the 286th night):** from a warehouse roof below the blue gate he looked at the registry, its three doors (the front for names; the yard for loads; a returns hatch at the side where a courier may lay a sealed thing unasked) and the station's light, and at the case on his chest; **he decided nothing**. "I looked at it." The case is **shut** (never write "unopened": this edition's Book 6 opened it for the five); its contents are named nowhere in this book. He has seen the same watcher three times (horseman's boots with the spur-rests cut away).
+- **Vastin** went toward the lamp four times on the 287th, twice on the 288th, not at all on the 290th. "How long did it take you." / "I was fourteen. I'm nineteen. I'm not there yet either." (protected).
+- **The alley (the 290th dusk)** — the cut of twenty-two steps (an iron rail at its mouth). Six, hooded, faces tied: two came in by the yard gate with shod staves and barred it; four held the head (a crossbow, a stave, one who came down to the plane, and a signaller with a shuttered lantern). **Vastin turned uphill and struck Iron Wall on the ninth step, wall to wall** — "In that place there is no round." Two bolts broke on it. Nobody else declared: Brom tipped the loose third tread and let it go, and sat on his box; Lira dropped from the landing and put her knife into a stave's shaft (her arm touched nothing; the right shoulder took the wall); **Cael went one step up and stood square at the plane's foot, the reason, for a minute and some (eighty-one counts)**; Seln's weighted cord from the roof bound the signaller's arm to the rail and the lantern was never shown. They left at a walk: none taken, no faces, nobody dead; a shortened watchman's stave and two plain bolts left behind.
+- **THE ELEVENTH.** In that quiet minute **Cael acquired Iron-Wall-adjacent, from Vastin** — it did not fill, it *set*, "as a post is stood in its hole"; its prompt is *This far?*; he has told it no each time. **Not deployed. Not told to Vastin.** The protected lines are Cael's own cataloguing, printed once in italics (not a system block): "Iron-Wall-adjacent. Vastin. Partial. Iron family. Held. … Tier equivalent unknown. Deployment: none. Eleventh." **Eleven fragments; deployment since the Line: thirty-two.** Vastin: "I put the wall in front of it anyway. I'd like that entered…" ("it" is what Cael is, which he could not read) / "It's entered," — and Cael has entered more than the man knows: **a debt he cannot yet pay** ("Not told. I can't tell the taking without telling the rest, and the rest is six people's"). Lira has read the log.
+- **Costs.** **Karis's LEFT palm** cut on a step's edge: seven stitches, Brom's, bound in a strip of his shirt (no healer inside the gate will touch a hand without writing a name; she writes with the right). **Vastin's right knee has gone again on the eleventh day of Oryn's thirty** (a wall on it, against her order, which he heard word for word and asks that she be told): a lath cracked, re-splinted with a slat from Brom's box, twice its size; on the night of the 290th he cannot stand or hold a bowl. Brom: both shoulders. Lira: the right shoulder bruised; day twenty-five out of wool.
+- **Seln's finding (a finding, not a fact):** the six opened no Path because they cannot be written down in that town either; they wanted one of the crew to declare, a light shown for it to a watcher below, and a box carried off; they saw a wall and a rock and nothing of quiet ground or what Cael carries. **They know the loft and have shown that they know** (the watcher stood in the light of the painted door). Cael has ruled only that the cut is not climbed at dusk again.
+- **Money:** a second week of the loft paid on the 289th (to the 295th): **purse 134 marks**. **Names:** none minted. **Length:** about 36,000 against 35,000, accepted.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial; cold read; source-distance (1 tracked passage, ch27 scene 2; probe 2% / 14%); plan / canon / protected-text audit (RATIFY WITH LINE FIXES; ten exact fixes; all nineteen author flags and every minted item KEPT). Eight applied by the coordinator (five markers restored whole with speakers — two of Cleon's had been staged as Karis's — and three joins). Two DECLINED: the audit wanted the eleventh's lines printed as system text under a FRAGMENT ACQUIRED heading; the protected unit is Cael's own cataloguing (it names Vastin and says "Eleventh"; the twelfth says "me"), so the author's frame stands and the coordinator set the unit in italics instead of a code fence. **Repair r1 in progress with the same author.**
+
+### New canon minted (author's list)
+All of this is mine and is flagged for ruling.
+
+- **The Deepstacks' ground.** Inside the iron door a bar of black iron as long as a man's arm, shot from within. A stair of the dark dry-laid stone, **twenty-seven steps in three flights of nine**, with two landings, low-roofed, unworn. At its foot a cross-way a dozen strides long, lined with the dark stone; off it **three galleries side by side**, each as broad as a cart, cut in the bluff's pale bedded rock with a pick. **The middle gallery** is shelved to the roof in bays divided by uprights of black oak, about a hundred and ten strides long; nothing on its shelves has a ticket (some bundles have tags on their under sides). From ninety strides the old town's sorting tables stand end to end down the middle; at the end, against the cut rock, a high sloped desk of black oak with a lamp in a glass chimney on an iron arm, and a shelf above it (a cup, a jar of water, a thick bundle tied both ways in brown tape, and the board in sacking). **The eastern gallery** holds the old town's ledgers; its tall books stand as high as the roof and are reached by ladders. **The western gallery** is the quarry's own: the board lay on its bottom shelf under quarrymen's wedges. The cold does not move; a flame stands straight; no sound comes down from the registry. **On the 284th** he gave his orders for the three tables over his shoulder, with his finger still on its line, and told them to get their loads off; when Cael next looked he was standing at the first bare table and the leaf lay face upward on the desk with nothing across it to keep the place. The Hall's table is not six strides from the desk, and nothing said there is too low to be heard at it.
+- **The clerk's bell.** A small bell on a wire at the stair's foot, pulled by the clerk from the vault a quarter of an hour before he shuts his yard.
+- **Why the loads go up and down daily.** Cleon keeps on his tables only what he is reading: the fifty-two first copies lie there from the 284th, in three heaps as they lay on the floors (the Stair's twenty-nine in three rows, north toward the stair). The boxes go up at the bell and come down in the morning. Each day's card is written by Cleon the evening before.
+- **Karis on the stone (her stated conclusion):** the rock was cut first; the dark stone was laid against the cut; the town's mortared work is third. She puts no year to any.
+- **The clerk at the hatch (285th).** His voice: thin, dry, exact. His difficulty was his own form: matter entered on the 284th had gone up at his bell and come back, and his book would have said six boxes and two cases. He said that he must send up to **the under-registrar, who keeps the schedules**. After Seln spoke he wrote *The same*, the day, his mark and *four*, and has written *the same* each day since. He asked one thing ("The same?"). He looked at Seln "properly, from the cap to the boots".
+- **What Seln's truth cost.** He had been on the yard's bench since the first bell as a porter with a hired frame. By standing and speaking he showed his face to a registry's clerk and joined it to the four and the card. He watches from **the roof of the last building above the cut's head, which has a parapet**, from the 286th. His reason, said in the loft: his own rule of the 282nd, which he had not meant to except himself from.
+- **The lamp.** Low; a hand to the left of what is looked at; held on one knee. Lira on the stair; Brom ("You're a wall. I asked for a lamp."); from the third hour of the 285th, Cael. Cleon says *lamp*, *left*, *up a finger*; he has carried it himself for thirty years, "one hand for the light, and half an eye for where I'd put it". By the 289th Cael moves it before the word: all the looking runs from the low left corner of a thing upward to the right.
+- **The chairs.** One before the desk's slope, with a cushion in the shape of one man; one against the wall, heaped with bundles on the 284th, cleared and wiped on the 285th, and carrying his cushion on the 287th (his own chair has none). Karis is found sitting on it on the 288th.
+- **Cleon.** He missed his noon bowl on the 284th and has gone up for it on the other days. He does not touch paper with his skin: he points with a reed as long as a forearm. Three bowls of counters (white pebbles, black pebbles, red squares of broken tile). He does not blink while he looks; his eyes run; he rests them shut for an hour. To Cael at two feet the Path "made no sound at all". Brom said Karis's name in his hearing on the 286th ("I said no names." / "I never gave it to you. I gave it to her."). "It was the first thing I did when I came here": he has looked at the grey bridge twice. He made a sound "that was nearly a laugh" on the 290th.
+- **The board.** A plank of black oak as long as a man's arm and two hands broad, cut on one face with four rows of the floors' kinds of sign; found by Cleon ten years ago on the bottom shelf of the west gallery, with its face to the wall. At each row's end a count in figures (**a ring is five, a peck is one**) and after the figures a short group of signs. Rows of twelve, nine, twelve and seven signs. Its first row is the top row of the Hall's fourth sheet; its second is on the Stair's ninth; its third on the Ring's sixth; its fourth on the Stair's twenty-first.
+- **Bearer, carried, nothing.** "White" bears (take it out and the row comes down); "black" is carried (it hangs from the white); "red" is nothing (packing, so that a row fills its stone). **Of the forty-one kinds: seven bear, twenty-three are carried, eleven are nothing** (Karis's count on the 288th, when all fifty-two sheets had been laid). A bearer stands at the head of every run. Vastin: "To do a thing; to what; and how many times."
+- **Cleon's week (as repaired).** On the 284th, from his chair, with his eyes shut, Cleon said what being believed was to him (protected) and then asked for a week (protected: "Give me a week."); Karis asked the five for the same week in her own words ("I should like his week"), and Cael said that it was hers. On the 287th he re-set it: he had spent the half of the first on his own page, which he read every morning before he would look at hers; that is put by, and the week is his, from that day, with nothing else on the desk. At its end every sheet goes up and the clerk writes that it is gone (he will not have matter lying a month under *the same*). Its seventh day is the 293rd; three days are left after the 290th.
+- **The bundle.** On the shelf beside the jar, tied across both ways in tape gone brown; it came off the same shelf as the board, behind it. "Paper. Not stone." He put two fingers on it and did not take it down. Nobody has untied it. Karis has not asked for it.
+- **The decipherment.** (1) The pecked figures equal the number of signs in each row: the cutter counted his own work. (2) The sign-group after each figure is the count in words. Karis tested it without looking at the board: from the oldest of the old town's tally-books (the eastern gallery, third bay on the left, the eleventh shelf) she wrote only the pattern of like and unlike letters in that hand's spelling of twelve, nine and seven, and then laid the pattern against the cutting. It held in every place. The tongue is the old town's "or that tongue's grandmother". **Eight letters** from the board. (3) The carried signs on the floors spell further numbers: *ten* on the Ring's fifth sheet and the number after ten on the Stair's fourteenth confirm the eight; two more letters from the Ring's ninth, confirmed on the Hall's eighth (**ten**, the 288th); three more from the Stair, confirmed on the Hall (**thirteen**, the 289th); one more from the Hall (**fourteen**, the 290th). Three signs are described: a hooked upright, a thing like a gate, a thing like a fork. **She has read no word that is not a number.** One group of six signs stands four times in the Stair's twenty-nine, always after a bearer; she has four of its letters and a word that she wishes to find there, and she has covered it and not written it.
+- **Brom's yard.** A broker's dray (two wheels as tall as Lira, one mule, a square of slate painted on its side) loaded with roofing slate shed its near wheel on the yard's slope; the slates slid and pinned the carter's lad by the boot against the dock's kerb. Brom stopped the yard-men's lever at the high side, took the low corner on his left shoulder with no grey, held while Lira drew the lad out by his belt, and was let down onto two split logs driven under the axle by Cael and a yard-man. The lad's five toes bend. **The broker's factor** (a good grey cloak, a broad hat, a shaved chin, clean hands, a tally; no name, no face): the house is the third on the brokers' street with the slate above its door; a guard's post at its store inside the second wall; a standing pass, sealed, by the month; a bed in the house above the wall; the house's coat; **four marks, and found**. His master "keeps eleven on his doors" who will not shift a keg until they have lit up, "and then it's a line in somebody's book". Brom: "I'd have taken it at sixteen and written home the same night."
+- **Seln's night (the 286th).** The district is empty at night; a watch's handcart goes its round with a lantern; the blue gate is shut, with a brazier in the arch. He sat on the leads of **the chandler's warehouse on the ring road, the tallest roof below the blue gate** (four floors, a hoist-beam, an outside stair with no door). The case weighs "something under three pounds"; its key is in his waistcoat. **Every registry on the Line has three doors**: the front for names; the yard for loads; and a returns hatch at the side, with a lamp and a night clerk, where a courier lays a sealed thing at any hour and neither may ask the other a question: "A registry enters what is laid on its ledge." Treswick's is down a passage off the square's eastern corner. He considered the hatch and put it by; he considered leaving the case on the Deepstacks' unticketed shelves and saw that for filing; he ruled nothing. He marked that a clerk had seen his face and that nothing had fallen.
+- **The watchers.** A man in the smith's doorway opposite the inn's arch on the night of the 286th; a porter on the kerb opposite the cut's head on the 288th, from the second bell to the third, with nothing on his frame; the same boots both times, a horseman's with the spur-rests cut away. On the night of the 290th the same boots, hooded, on the step of the painted door under its lamp, waiting until the five had come in under the arch.
+- **Vastin.** At the yard on the 286th he held the dray's mule by the cheek-strap with the left hand and gave no order. On the 287th he moved toward the lamp four times (Lira counted); on the 288th twice; on the 290th not at all. On the 288th he began to post a watch and stopped ("That's one"). On the 289th he held three tall books at Lira's word, qualifying it ("I cannot undertake to carry them to a table"). His three heads on the night of the 290th: the knee (he had Oryn's words in his mind as the stick came down, and asks that she be told that he heard her); what the six came for (they looked past him at Cael); and that he knows no more of what Cael is than the plate did.
+- **The alley.** The gate at the cut's foot can be barred from inside the cut. **An iron bar is let into the wall at the cut's mouth, beside the parapet, for people coming up under loads.** Six, hooded, each with a cloth over the lower face: two with shod staves from the yard; above, one kneeling with a crossbow on the highest landing, one with a stave beside him, one who came down to the plane, and one at the rail with a shuttered lantern. The plane stood from the lip of the ninth step, wall to wall and to the sky, seen for a breath as a bloom on the dusk. Two bolts broke on it (the second a hand from Cael's face); a palm and one shoulder were laid on it. Brom dropped his box across the fourth step, tipped up the loose third tread (a slab of dark stone a forearm long and a hand thick), lifted it to his thighs and let it go down the steps at the first stave. Lira came off the landing over the box and drove her knife a third of its length into the second stave's shaft; she took the wall on her right shoulder. Brom's boot put the second man down the steps; one of them then hauled on the box's becket, and Brom sat on the box. Karis's boot went from under her on the dished sixth step; her bare left hand opened on the lip of the step above. The hood on the landing lifted two fingers; the lantern was raised to the parapet; **Seln's cord (a clerk's page-weight: a pear of lead on a thin cord) took the arm to the rail** before the shutter opened. Two low notes whistled. They left at a walk: the bow unstrung, the cord cut in two places, the dead lantern taken up, the gate unbarred. Cael's count was eighty-one. **A stave was left** (a watchman's, shortened, its ferrule filed) and **two bolts** (plain, no fletcher's thread).
+- **Seln's finding.** They opened no Path, though the one on the landing stood like a man who has one: a Path opened under that wall is entered by whoever sees it, and they took the same care as the six to have nothing of theirs entered. The bow was to make somebody open; the light was to tell somebody below. They went for a box and not for Brom: they were told to bring away what was carried. "What they would have been glad to find was on a roof above their heads." The four went two east and two west along the lane, hoods back before the first corner; the two below left by the carts' gate, which had been left on the latch for them.
+- **Karis's hand.** A straight cut across the heel of the left palm, from the root of the thumb to the wrist's other side; "not deep… only long". Bound in the cut with Brom's neckcloth; sewn in the loft with **seven stitches** of waxed thread on a curved roping needle held in the lantern's flame; the thread bitten; bound with a strip of his shirt. She said her fourteen letters over, one to a stitch. She writes with the right. Why no healer: in the district's house the entry on the sheet at a bed's foot (name, registry, tier) precedes the treatment, and after the fourth bell a card waits until those with names have been seen.
+- **The eleventh's lines** are set in italics, as Cael's own plain words for what stands in the place behind his eyes (the coordinator took them out of the fenced block; the frame sentence before them is unchanged).
+- **Small things.** Brom keeps a twist of cloth under his box's lashing with a roping needle and waxed thread. A pot of horse liniment was begged from the stable for his left shoulder. Vastin mended the becket of Cael's box with the stable's awl. The old keeper at the third gate did not write the lateness against the card on the 290th. The third tread of the cut's bottom flight is now out of its bed.
+- **Roles (all unnamed):** the carter's lad; two yard-men; the broker's factor; the under-registrar (spoken of); the watch; the six in hoods.
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+**Calendar.** The night of the **two hundred and ninetieth day past the Line**, in the long loft at Treswick. Days on the page: 284 (the Deepstacks), 285 (the hatch; the lamp), 286 (the dray; the board; Seln's roof at night), 287 (the morning log; the figures; four times; Cleon's week and close; the parapet), 288 (the test; ten letters; "We are looked at"), 289 (the loft paid; the ladders; thirteen), 290 (fourteen; the alley; the loft). No season, month or weekday name; no figure for the technician's date; no count of years since the Kindling.
+
+**Where everyone is.** Six in the loft: Cael, Lira, Brom, Karis, Vastin (on a pallet under the blanketed gable window, unable to stand), and Seln on the ladder's head. Cleon is under the registry with fifty-two sheets on three tables, the board against the third, and tomorrow's card written and given. The clerk has written *the same* on six days. Oryn and the brown mule are north on her round (not on the page in this movement). Teague's five are east of the river (not on the page).
+
+**Cael.** Nineteen. **Eleven fragments. Deployment thirty-two.** He has stood unfiled in the middle gallery. He has been the lamp since the 285th and has knelt two feet from Rune in use for five days; nothing has come of that. He has begun to put the light where the looking will go. He wanted the Path tried on himself, wrote that he had not said so, and has not said so. He has the eleventh (Iron-Wall-adjacent), has read its lines, has told it no three times, and has not used it. **He has not told Vastin**, and holds that he cannot without telling the mechanism, which is the six's. He has not set foot on the square or its steps and has not looked at the crown; he has walked the lane with its four alleys fourteen times. He has ruled that the cut is not climbed at dusk again and has ruled nothing else for the morning. Body: sound; a tarred case struck his ear.
+
+**Lira.** Wind; Iron, Rank One. No burst. **Arm: day twenty-five out of the wool on the 290th.** It held a lamp-ring, a ladder's rail and a belt; she has practised dropping off a ladder with it tucked (eleven times before the 289th) and came off a landing so in the alley. **Right shoulder bruised on a wall; the arm took nothing.** Her knife is sound. Her registry paper has not been touched. She keeps the square's side of Cael in the lane. She has read the 285th's log and the 290th's.
+
+**Brom.** Iron Skin; Copper. **No grey at any point.** Toes done on the 289th. **Left shoulder wrenched under the dray on the 286th and made worse by the slab on the 290th; he cannot raise either arm above the elbow.** He has carried his box on the bound right shoulder since the 286th and took two falling people on that arm on the 290th: owed to two healers at the mill, entered by Cael as his own debt as much as Brom's. He was offered the broker's post and has, in his own mind, turned it down (the factor has been told only "I'll think on it"). **The purse: a hundred and thirty-four.** He sewed Karis's hand. He means to buy the rope going out.
+
+**Karis.** Ember; Iron, Rank Three; no point struck since the fork. She has said "Older than [UNBOUND]" once, at Cleon's table. She has heard Cleon say, of himself, what being believed is, and has known it for her own as well; she told Brom what had believed him (her fifty-two sheets agree with the thing on his shelf). She asked the five for his week and was given it. **Fourteen letters of twenty-three; she can read the cutter's figures and number-words and nothing else, and will not guess.** She knows that seven kinds bear, twenty-three are carried and eleven are nothing; that a bearer heads every run; that the board and the floors carry the same rows. She has not asked for the bundle. **Vastin's page is in her coat, unshown; the title on it has not been spoken.** She holds the flat, the hide, the ledger, her notebook and the day's card. **Left palm: seven stitches, bound in a strip of Brom's shirt.** Three days of Cleon's week remain.
+
+**Seln.** Shadow; Bronze. A clerk of the Treswick registry knows his face and has heard him speak. He watches from the roof over the cut. He has looked at the registry, its three doors and the station's light from a roof, with the case on him, and has ruled nothing. **The case is on him, shut; its contents are not named in this movement.** He has the better half of his cord and the stave. He has seen the same boots three times.
+
+**Vastin.** No office; no age stated. **He stood a wall on the eleventh day of thirty.** The knee let go sideways when he released it; one lath cracked; Brom has bound it again with a slat; it is twice its size; he cannot stand or hold a bowl on the night of the 290th. He knows what Oryn said it would cost. He gave his name, rank and office at the yard hatch on the 285th and was not written. He has apologised to Seln and been told to be nobody. He has asked for the wall to be entered and has been told that it is. **He does not know** the mechanism, what Cael carries, that anything was taken from him, the sum, or what is under the bar; he does not know what the six in hoods hoped to see and has said that he does not ask. He has not asked to join and nobody has spoken of it. Whether he heard Seln speak of the roof is not known.
+
+**Cleon.** Rune Path, Bronze; shown from outside only. He has said that he knows the hand; has shown the board; has said what bears, what is carried and what is nothing; has given the limit in both its parts; has said what being believed is to him and asked for a week (the 284th); has re-set that week to run from the 287th with his own page put by; has spoken his close; has Karis's name and has used it once. **He has taken no notice of Cael.** He does not know that anybody was set upon in the cut.
+
+**The clerk.** Unnamed. One question asked ("The same?"). He has heard a name, a rank and an office said at his hatch and has written none of them.
+
+**The faction.** Six, hooded, unnamed, faceless. It reached inside the third wall, opened no Path, took nobody and nothing, and saw a wall, a rock, a knife in a stave and a boy standing on a step. **It saw nothing of what Cael carries.** It saw Vastin's face uncovered and an Iron Wall. It knows the loft, and has shown that it knows.
+
+**Objects and money.** **134 marks** (136 less two for the loft's second week, paid on the 289th; the loft is theirs to the 295th). The reserve sealed in the third box. Three boxes, the kit case, the flat and the hide are in the loft. The fifty-two first copies are on Cleon's tables. In the loft besides: a shortened watchman's stave with a knife-cut in it; the card for the 291st. Two bolts were left lying in the cut. Still owed: sixty yards of four-strand to the Lowmarch ferryman.
+
+**Who knows what.** The mechanism: six, as before; not Vastin, Cleon or the clerk. The eleventh: Cael and Lira (from the log). The sum: Cael and Seln, each alone. Cael's wish to be read: Cael and his book (Lira reads the book).
+
+**Open threads.** A debt to a man who cannot be told. A knee that may have bought a stick. Two shoulders and a hand for two healers at a mill. A bundle that nobody has untied, and a page that has not been shown. Nine letters to find, and one word covered with a glove. A boy who knows which way a lamp will be wanted. A question that he has not asked, of a man who has not looked up. A case that has been looked at. A clerk who has heard a name. Boots under a lamp. A stair that will not be climbed at dusk, and no ruling yet on what is to be climbed instead.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Packet 006 carries the 291st, borrowed handcart, Karis's bound left hand, eleven fragments, and the fact that three clerk questions remain unasked (`MOVEMENT-006.md:26–28`). Its author must additionally inherit the following surviving particulars:
+
+- **Deepstacks geography and custody.** Inside the iron door: black sliding bar; twenty-seven dark-stone steps in three flights; a short cross-way; three side-by-side galleries. Middle gallery: roughly 110 strides, shelving to the roof, old sorting tables from ninety strides, Cleon's sloped desk and fixed lamp at the end, with cup/jar/brown-taped bundle/board shelf above. Eastern gallery: tall old-town ledgers and ladders. Western gallery: quarry material, where the board was found. Fifty-two first copies remain on three tables; the board is against the third and the bundle remains tied on the shelf (`chapter-27.md:5–121`; `chapter-30.md:263–273`; `chapter-33.md:305`).
+- **What has been deciphered and by whom.** Karis alone has fourteen of twenty-three letters; she can read figures and number-words only. She knows seven kinds bear, twenty-three are carried and eleven are ornament/nothing, that a bearer heads a run, and that board and floors repeat the same rows. She has covered one tempting six-sign group and has not guessed it. Vastin's copied page remains in her coat, unshown to Cleon (`chapter-31.md:63–189,319–339`; `chapter-32.md:3–19`; `AUTHOR-REPORT.md:111`).
+- **Cleon's knowledge and statements.** Cleon knows Karis's name and has used it once; he knows the hand, has externally demonstrated bearer/carried/ornament and “orders,” has stated both limits, has matched the same make, and has delivered the documentation/built-twice close. His week runs from the 287th through the 293rd. He has not noticed Cael, learned of the alley, shown the inside/lean, or acquired knowledge of the mechanism (`chapter-27.md:187–199`; `chapter-29.md:193–289`; `chapter-30.md:253–279`; `AUTHOR-REPORT.md:117`).
+- **The eleventh and its entry.** Iron-Wall-adjacent, from Vastin, partial/held/defensive/rooted, tier equivalent unknown, deployment none. Cael has read it, refused its *This far?* three times, deployed nothing, and told only the log; Lira has therefore read it. Vastin has not been told. Cael recorded both Vastin's requested wall entry and more than Vastin knows (`chapter-32.md:237–257`; `chapter-33.md:149–175,205–227,291–299`; `AUTHOR-REPORT.md:105,125`).
+- **Vastin.** Right knee, original day eleven of thirty: gone sideways again, re-lathed with one slat from Brom's box, twice its former size; on the night of the 290th he cannot stand or hold a bowl. He knowingly heard and broke Oryn's no-wall order and asks that she be told he heard. He has no office on the page, no stated age, and still knows nothing of the mechanism or eleventh (`chapter-33.md:129–145,185–227,285`; `AUTHOR-REPORT.md:115`).
+- **Karis.** Left palm has a long shallow cut and seven stitches, bound in a strip of Brom's shirt; she writes right-handed. No healer inside the gate has seen her. She has three days left of Cleon's week (`chapter-33.md:63–125,277,305`; `AUTHOR-REPORT.md:111`).
+- **Brom.** Toes are done. The older right shoulder remains bound; the left/good shoulder was wrenched under the dray and worsened by the alley slab, leaving neither arm raisable above the elbow. He carries his box on the bound right shoulder. He has effectively rejected the broker's four-marks-and-found guard post, but the factor heard only `I'll think on it.` Cael has entered the shoulders as a debt for the mill's healers (`chapter-29.md:45–147`; `chapter-31.md:265–271`; `chapter-32.md:117–137`; `AUTHOR-REPORT.md:109`).
+- **What the faction knows.** It knows the loft and has deliberately shown that knowledge. It saw Vastin's uncovered face and Iron Wall, plus a rock/knife/still boy, but no Path from another crew member, no face of its own was secured, and it saw nothing of quiet ground or Cael's fragments. Seln's finding is that it wanted a visible declaration and a carried box and avoided being entered itself (`chapter-33.md:247–289`; `AUTHOR-REPORT.md:121`).
+- **Inn, purse, count and day.** Six are in the long loft over the stable; it is paid through the 295th, with pot at dusk and seven bowls. Purse 134, reserve sealed in the third box. The below-ground daily count remains Karis as bearer plus four hands; Seln is never one of them. Night of day 290 is complete; Movement 6 opens day 291. The cut will not be climbed at dusk again, but no further route ruling has been made (`chapter-31.md:265–267`; `chapter-33.md:277–305`; `AUTHOR-REPORT.md:101–103,123`).
+- **Lira and remaining objects.** Lira is day twenty-five out of wool, has a bruised right shoulder, and the left arm took nothing. Three boxes, kit case, flat and hide are in the loft; the 291st card is there; the shortened watchman's stave is with Seln; two plain bolts remain in the cut; sixty yards of four-strand are still owed and Brom means to buy them going out (`chapter-33.md:285–307`; `AUTHOR-REPORT.md:107,123`).
+- **Seln and the case.** Seln is at the ladder head/roof watch, knows the same altered boots through three sightings, and has the better half of his cord and the stave. A Treswick clerk knows his face and voice. His case is on him and **shut**; five people know its contents from Book 6, but this movement names none. He looked at the registry/front-yard-returns-door choice and decided nothing (`chapter-30.md:3–151`; `chapter-33.md:183,247–275`; `book-06 chapter-38.md:167`; `book-06 chapter-39.md:5,15,217`; `AUTHOR-REPORT.md:113`).
+
+**Movement 5 CLOSED (2026-10-12).** Same-author repair r1 (ch27–31; ch32–33 untouched apart from the eleventh's lines set in italics): the eight coordinator-applied fixes kept and re-joined — **ch27's scene at the Hall's table now turns on Cleon** (Cael's "Then what is it?" goes to Karis, who does not answer; Cleon, eyes shut at his desk, says the "Being believed" unit to himself in the hearing of five; Karis tells Brom who has believed him; Cleon opens his eyes for "Give me a week."; **Karis then asks the five in her own words — "I should like his week" — and Cael says it is hers**); ch30, Cleon re-sets his own week from the 287th (half the first went on his own page each morning; that is put by); ch31's opening keeps only her side of being believed; Seln's line at the hatch whole, with the narration noting that he said nothing that was not in the clerk's own book or at his ledge, "and he had said *we*, which lay in no book at all"; Cleon's close whole with the author's joins. The tracked passage re-ordered (Cleon gives his table orders over his shoulder with his finger on his line; when Cael looks again the chair is empty and the leaf lies face up, unmarked); two physical anchors in the cipher proof; restated method compressed; first-use anchors added. Sol recheck: **CLOSE, no line fixes**; the tracked passage RESOLVED; every binding ruling borne out; the coordinator's ruling on the eleventh's lines (Cael's own cataloguing, in italics, not a system block) treated as settled and consistent on the page. The "New canon minted" and "State at movement end" sections above were refreshed from the post-repair author report. Final: 35,987 prose words; gates 0; overlap 0 unprotected (17 protected). Purse 134 marks; deployment thirty-two; **eleven fragments**; the night of day 290, in the loft at Treswick.
+
+
+## AFTER MOVEMENT 6 — chapters 34–40, days 291–293 (drafted 2026-10-11, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 5 ratified** (Sol plan audit): the loft on the night of the 290th; eleven fragments; deployment thirty-two; purse 134; Vastin's knee re-splinted; Karis's left palm stitched; the fifty-two sheets on their three tables.
+- **THE TWELFTH.** On the 291st, at Cleon's "There," (his finger at the end of the Stair's fifth row), **Cael acquired Rune-adjacent, from Cleon** — "given, not taken": it did not pour or set, it *turned*. Protected, Cleon's, in this order: "A record sits … An instruction *leans* … This is a stair."; then Karis's "The strata lean too."; then "There,". The protected lines are Cael's own cataloguing, printed once in italics (never a system block): "Rune-adjacent. Cleon. Partial. Rune family. A made thing's lean … Deployment: none. Twelfth." with *He looked away. Kept.* and *Not a man.* **Twelve fragments; deployment since the Line: thirty-two.** It gives single words (*goes*, *sits*, *bears*, *nothing*); it costs the eyes afterward (paid on the stair, Vastin guiding him); made things only.
+- **How the twelfth behaves (ruled against the audit).** **It leans at every made thing, unbidden, outward** — the board, a rope-walk, a bridge, a hinge, a table — and Cael is learning not to look ("it looks before I've said that it may"). That is the plan's own wording ("the twelfth leans at every made thing … He learns not to look"; "catches himself reading made things everywhere") and stands. **It has never been turned inward, on Cael's own still place**, and he refused that turn once, deliberately, until Oryn has been asked. **The first INWARD turn is unbidden and belongs to Millrace (Movement 7).** It has never been used on a person, the crown or the leaf. A few unmeant outward glances (the rope-walk on the night of the 291st; Hesk's dividers; the inn table) are not counted as deployments.
+- **Who knows the twelfth:** Lira first, on the stair ("Twelfth. His. Lean."); Brom, Karis and Seln; **Cleon, told by Cael at the bell, in the order he has it** ("You did what." / "That's not in the classification system. That's not *supposed* to be possible. That's — " / "No. I'll not say that one. Not down here. Not to you."). Cleon knows how this ONE fragment came and nothing of any other. **Not Oryn; not Vastin.** **Cleon's warning** (protected, whole: "I'm going to pretend you didn't tell me that … Everything I read is *made* … If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — … Don't tell me. Don't tell anyone. Just remember I said it.") is known to Cael and Cleon only and **is in no book**. "Cael did not tell anyone. He remembered." Cleon looks away from the boy on purpose from then on.
+- **The honest way up (the 291st on).** The carts' street: a paved shelf round the bluff to a banded pole and a weigh-beam; the beam-man chalks four weights against the practitioner's name on the card and will not weigh a man. The stable's handcart is theirs while the loft is (to the 295th); Brom between the shafts; **Vastin rides on the boxes, sleeps in the end stall of the stable (he does not go up the loft ladder again), and takes the inner stair on his seat and hands.** The clerk has written *The same* and *four* on ten days and has left three things unasked.
+- **The tail (night of the 291st).** Cael and Seln followed the cut boots for three hours round the lower town (a trough, the brokers' street, eleven minutes in the rope-walk, the quay, the ring road) to the blue gate, where the man showed something in his palm and was let through a small door in the grating. **No face, no name, no base.** Seln: "It was worth one night to learn that it is not worth two"; he will not follow again and expects them on the road east. Shadow asked for three hours and was told no (sealed; twice in all).
+- **The 292nd.** Hesk's parcel (the dividers; **Hesk's note, verbatim**) came by the carrier with the cut hat; Cael has not opened them on any distance. The dinner: four marks, seven cups poured and two kept under saucers (Karis; Oryn): **purse 130**. Protected, **Cael's, said to Vastin**: "Out here you count who's owed a seat … It's a different ledger." Seln read a slip, burned it and said "Closed."; what was on it is not given. **The first inventory written inside walls.**
+- **The light.** On the night of the 292nd the thread of the crown's light on the loft's boards was **not steady for a count of one**. Cael felt "the particular weight of an instrument turning toward him", gave himself three plain causes, did not cross and did not look again; it is the fourth entry on the page, ruling *hold*. Lira drew the blanket to the frame without looking. **Nothing in the text likens the light to a plate, a ring, an Arbiter or a thing that attends** (the draft's comparison was cut).
+- **Oryn's fourth gate** (unnamed hold): she watched a girl's Kindling from a bench, with no office, plate or clerk, and laid hands on nobody. She is two days behind, will not come late to the mill, and will read Cael "as deep as she went", asked first. She has heard of no leaf and no twelfth.
+- **THE LEAF (the 293rd).** A single leaf of horn-coloured skin between beech boards from the bundle on Cleon's shelf; twenty-six lines on its face in the floors' letters; a list on its back, **not gone into**; a place four or five letters wide scraped pale, with one upright stroke left. **Karis read it aloud ONCE** (protected, whole, in the record's voice: "In the years of the unmaking … that they should not come again."). Her one account: "It's a title, not a name; the name's gone."; ***The Architect*** (spoken once, by her; the word on Vastin's copied page); by the year at the leaf's head, in the old town's count, **about four hundred years ago**; the purpose is the un-bound. "Older," she said. "Made. Us." **Heard by Karis, Cleon, Cael and Vastin; nobody who heard it quotes it.** Karis has all twenty-three letters (her first word that was not a number was *and*; the covered six-sign word was *set*).
+- **The chronicle.** Under the lower board, a later year-book of the town on paper. Karis read one line out (protected: "— and of him it is said that he did not die in the way of men, but went into the ordering he had made, and is in it —") and stopped at a thumb-wide hole: "I am not going to read into a hole." "Marked." (Karis) / "Marked." (Cleon). **The hole stays a hole: no gloss, no guess, no second source, and nobody speaks of the line again.**
+- **Two pages.** Vastin reached once aloud (protected: "The apparatus … And the mark that is given at the kindling — ") and Karis stopped him: evidence on one page, inference on another, and the second page has nothing on it. **Nobody joins the leaf to the lamps, the sigils, the plates, the Arbiters or the stations**; *terminal*, *circuit*, *infrastructure* do not occur. Karis made two copies with the gap ruled as an empty box; the fair one is in Cael's coat.
+- **The street and the fire (the 293rd evening).** At the inner stair's head Cael read Karis's page **the right way up** for the first time ("There was no desk on the other side of this."). He told Seln on the carts' street; **both lines are Seln's**: "Made." / "For a kind." At the yard fire Lira read first; the fixed order held; Cleon came above ground once, ate half a bowl and undertook that the skin stays under his hand and goes to no counter. **Seln:** the case is on his chest, **shut**, its contents unnamed; "I'll keep it a while longer." (a decision, not a disclosure; no count of years is printed here — closed chapter 18 says twelve). **Vastin** (protected): "I believed it was imperfect." / "Now you're telling me it was *aimed*." / "At a category. Which turned out to be a person. Who's sitting across the fire."; to Lira's "His?": "No. I read it, after. I did not sign it." / "I would have." Brom priced it and withheld a verdict ("I'd want to hear the other side"): **the record's fear is reported and not endorsed.**
+- **POLE TWO.** Cael, on his feet at the fire (protected): "Since my Kindling I thought the system forgot to make room for me … It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen." / "I happened anyway." Lira: "Yeah." / "Now what." Cael: "Now we find out how old the oldest one is … There's a site at the end of the line that's been quiet since they built the machine." / "I want to stand in the middle of it." **It is not in the log.** "Four hundred" stands exactly twice in the movement (Karis's account; pole two).
+- **Still withheld:** the eleventh from Vastin (the debt entered as heavier); the twelfth from Oryn and Vastin; the deep-layer date (Cael and Seln, each alone, unsaid, unwritten); what is in Seln's case; the back of the leaf.
+- **Bodies.** Vastin's right knee: **day fourteen of thirty on the 293rd**, slat-bound; stick; no kneeling, running or Wall. Karis's left palm stitched under linen (she has begun to use it without noticing). Brom: neither arm above the elbow. Lira: day twenty-eight out of wool; right shoulder bruised. Cael sound; eyes recovered.
+- **Money:** **purse 130 marks**; the reserve sealed in the third box; loft and handcart to the 295th; sixty yards of four-strand still owed to the Lowmarch ferryman. **Names:** none minted. **Length:** about 36,100 against 34,000, accepted.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial; cold read; source-distance (5 tracked passages; probe 3% / 18%; the two capacity-failed lanes were relaunched and ran); plan / canon / protected-text audit (REPAIR, bounded; thirty-seven exact fixes; all thirteen author flags KEPT). **Seventeen applied by the coordinator**: the sixteen marker restorations and the light. **Four AMENDED to the plan's own pieces** where the source's fuller wording clashed with this edition (Cleon's speech uses a term the edition never has; the leaf's aside contradicts the live first reading; the title sentence would have doubled *The Architect*; Seln's speech put the case on his back for four years against closed chapter 18's chest and twelve). **Twenty DECLINED**: fix 17, and fixes 18–36 as a class (the audit read "does not turn unbidden until Millrace" as forbidding the outward lean that the same packet prescribes). The editorial read's "marked, not read" objection to the chronicle is DECLINED (the line is protected text that must stand once; the hole is what is not read). Speakers the author's staging had left open and the audit pinned: the cups line is Cael's; both street lines are Seln's; "there" is Cleon's. **Repair r1 by the same author (claude-opus-5-5): thirteen joins written, five tracked chains broken, two orientation cues; Sol recheck CLOSE with no line fixes.**
+
+### New canon minted (author's list)
+*(Refreshed after repair r1, 2026-10-12. The plan audit ruled every item below KEEP except the light's comparison, which is cut. Entries changed in repair are marked r1.)*
+
+All of this is mine and is flagged for ruling.
+
+- **The carts' street and the beam.** (r1: in the yard Seln names the risk before the ruling — "a bar at the foot of it, and a beam, and a man who writes" — and Cael answers that he would "sooner be weighed in front of fifty carters than shut in where nobody's looking"; the card is spelled out as one bearer, Karis, and a figure of four meaning Cael, Lira, Brom and Vastin by count, with Seln on no card.) From the lane's end a broader way opens to the left between the last house and the top wall: a shelf cut into the bluff on its outer side, paved with grooved setts, wide enough for two drays; up-traffic keeps the wall, down-traffic the kerb; it curls in under an archway to **a banded pole let down between two posts**, with the weigh-beam beside it (a pan as broad as a cartwheel on three chains; a man in a leather cap with a ruled slate, eleven years at that beam). His rule: "What goes by the slot's the hatch's. What comes on wheels is mine." **The honest way:** Karis lays the card on his ledge and says that it is matter for the lower archive on its practitioner's card; he reads the card's head with his lips and chalks four weights against that name. No name is spoken; none of the four restricted names is written. He will not weigh a man ("There's no column"). Vastin had given Cael the rule beforehand in the yard ("a load that travels on a practitioner's card is entered to the head of the card… it has an article, which I do not give you") and says one sentence at the beam and no article. Karis tells Cleon that his name is on a slate ("It's been on worse").
+- **The handcart.** The stable's own, two wheels and a pair of shafts, lent by the woman at the half-door while the loft is theirs, "if it comes back swept". Brom goes between the shafts (leaning up; walking backward as the brake down). Vastin rides on the boxes, facing backward, and is got off the wheels at the dock's corner.
+- **Vastin from the 291st.** Let down the loft ladder on a box-rope, with a turn round the ladder-post under Brom's weight; he does not go up it again and sleeps in the end stall of the stable, on straw, at no charge. He goes below because the card written the evening before says *four*. He comes down the inner stair on his seat, Cael taking his heel at each step, and goes up it backward on his hands. On the 293rd he takes the whole stair alone, a quarter of an hour early, and is three steps from the iron at the bell. He uses the road's hand-signs (*seen*; *nothing?*) from his straw.
+- **The three things the clerk has not asked** (the packet gives the fact; the three are mine): the name, rank and office laid on his ledge on the 285th; the same matter arriving by the bottom gate on wheels with another man's chalk against it; a bearer's hand and a hand's leg changed overnight, with a tread out of its bed and two bolts found in his cut. He writes *The same* and *four*.
+- **What Cleon learns of the 290th:** that Karis cut her hand on a stair ("Which lays?" / "The other."), and no more.
+- **Cleon's speech at the board (r1; the three plan pieces fixed, the rest mine).** Of the tally-book: "A load came in at a gate. It was paid on, and when the day was done a clerk put it down. He might have begun at the head of his column or the foot of it; it'd be the same tally. There's not a mark on that leaf that's waiting for anything." Of the Stair's sheet: "Whoever cut this set each sign where it is for the sake of the one after it. Take them out of their order and you've a pile of chippings. Leave them in it, and you're handed on, sign to sign, whether you can read a letter of it or not. I don't read it. I'm walked down it." The word "bearer" is not used of signs. **"There" is Cleon's**, said as his finger stops above the last sign of the fifth row. **The acquisition as re-ordered:** Cael first sees the board's four rows go aslant at the tail of his eye and takes it for the lamp; checks the flame; then looks at the fifth row (*Goes*); then knows it and whose it is. The comparison with how the earlier fragments came is gone from this scene.
+- **Rune from inside, as Cael has it.** The twelfth does not ask; it leans, and gives single words (*goes*, *sits*, *bears*, *nothing*). A made thing is looked at from where it stands on the ground toward where it is going, which is why the light belongs low and to the left. A run's lean "comes down flat" where it ends; Cleon can therefore mark where each run stops (**"red"** squares of tile between signs), which gives Karis the lengths of the words.
+- **The decipherment, 291st–293rd.** Fifteen and sixteen on the 291st from a five-sign word and a second (the sixteenth is the old word for twenty, a score); seventeen at the bell. Eighteen to twenty-one on the 292nd. **Her first word that is not a number is *and*.** **The six-sign word that she had covered is *set*** ("as a stone is set, or a stake"); she had wished for a name. The twenty-second and twenty-third come from the leaf itself on the 293rd ("It spells them for me"). **(r1) Before she says "I can read it" she makes three unlike checks, not three passes:** one of the two new signs laid against a word in the last tall tally-book; a question to Cleon ("The fourth line… Does it sit, or does it go?" / "Sits. The lot of it sits. There's not an order on that skin from the head to the tail… Somebody's telling you what was done. He's not telling you to do it."); and a word near the leaf's foot covered with her glove, written out beforehand from the letters' use at the head, and then uncovered. She shows Vastin's copied page to Cleon only after the reading.
+- **The refusal to turn it inward (r1).** One present choice, near the bell, after he has seen that he must tell Cleon: Oryn's order (*Write it down and stop touching it.*), which he "had got round… once already, at a waypost" and does not get round now. Cleon's limit is not recited beside it; it stands in the notice (*Not a man.*).
+- **The telling (35.3).** Cael's own account of why Cleon may be told and Vastin still may not: the taking from Cleon would go on every hour at his elbow, and his own term was that he be told what a thing is once he has looked; the eleventh sits unused and cannot be told without the whole. Brom: "Tell him what's his. I'd not tell him ours." Seln, that night: "I should have said yes… I should have been a good deal longer about it."
+- **The cup of water.** Cleon takes down the cup and the jar, pours, and sets the cup on the bare corner of the third table an inch from Cael's hand, without a word. Cael drinks half. **(r1) The warning's joins:** he speaks to the oak from the table's corner; squares the reed with one finger between the first and second pieces; and at "He stopped" the finger comes off the reed.
+- **How Cleon looks away.** At the board his eyes come as far as Cael's sleeve and wrist and he turns his whole head to the oak; on the 292nd they stop at the edge of the lamp's brass ("There's tar on my lamp"); on the stair he passes with his face to the wall; at the fire he keeps them off the boy for an hour.
+- **The tail.** Out by the stable's muck-door and a barrow-wide lane. Seln's three rules (look where he will be in twenty strides; never be the nearest thing that moves; when he stops, you do not). The watch: two men in leather caps, a handcart, a lantern on a pole (one is telling the other about a goose). The hood drinks at the trough's pipe; walks the brokers' street; **stands eleven minutes inside the rope-walk** (Cael counts seven hundred between two tar barrels); walks the quay past six boats and the ferry's cable; goes a quarter of the ring road, where the watch nods to him; warms his hands at the keepers' brazier; shows something low in his palm; is let through **a small door in the foot of the grating**, and turns in it for a breath. The blue gate at night: the grating down, a brazier, two keepers (a pike; a board on a cord). A keeper to Cael: "First bell… And you'll want your card." The groove is "a hand wide". Seln's finding: "It was worth one night to learn that it is not worth two"; the man was showing how much time they have. No face; no name; nothing located beyond "he may go through the blue gate by night".
+- **The parcel.** The carrier with his hat cut away on one side lies the night of the 292nd at the inn on his way to the western landing with the bag; he knows Brom's back from that landing and breaks the bag "for a thumb that the old man knows" (Brom's thumb, in hub-grease, on his way-slip; a copper of Cael's own). The dividers: two brass legs a hand long, flat on the inner side, points of blued steel in a round of cork, a broad flat rivet, a turned stalk. Karis asks for the loan of them "when I have a hide in front of me again". Cael does not open them on any distance (his ruling of the 168th).
+- **The meal.** Brom's ruling ("A parcel's come the breadth of the country to a hayloft, and found it. That's eaten on"); four marks at the half-door; the lower room; a goose, a pie, a white loaf, baked apples, cider; seven cups poured, two kept under saucers (Karis, above with her letters; Oryn). **Purse 130.** **(r1) The cups line is Cael's:** Vastin says of the two absent women, "I have kept the count at a great many boards. I should have struck both"; Cael answers with the protected line, across the table; Vastin: "I see that it is… I was never shown the book." Brom fills his cup. (Vastin's remark over the dividers and Brom's "That's so" are cut.)
+- **Seln's slip (r1: entered late).** Cael smells paper burning; a curl of black lies in the candle's dish under Seln's fingers, with one white corner and a line and a half of close writing on it before the flame has that too; "Closed." Lira: "What is?" / Seln: "It is in the dish." Cael did not see it come out of the sleeve or be read. **What was on it is not given.**
+- **The light.** A thread of the crown's light has come in each night by a gap at the left of the blanket and lain on the loft's boards like a chalk line. On the night of the 292nd it thickens and thins for a count of one. Cael feels "the particular weight of an instrument turning toward him" (r1: the comparison with the eleven seconds in a chalk ring is cut by the coordinator's fix 37; nothing likens the light to a plate, a ring or a thing that attends) and answers himself ("A needle swings to iron. Nobody says that the needle has seen the iron"; a draught; a lamp-trimmer; his own tired eyes). He does not cross three strides of boards and does not look again. Lira crosses, without lifting the corner, and draws the blanket to the frame.
+- **Oryn's fourth gate** (unnamed; r1: her scene now opens "On the evening of that same day, the two hundred and ninety-second, and four gates north of a fork-stone"; nine on the bench, the third of them a grandfather): a larger hold, stone to a man's head with split oak above. The hold's old woman, who keeps its days, rings the fourteen-year-olds on a threshing floor of beaten clay "at the first light after the moon's full", with a hazel stick. No office, plate or clerk. The girl (unnamed; a plait; a sheepskin too big) steps in; her eyes go to a place a hand's breadth from her cheek; she listens; her knees give a little; she tells her grandmother in her ear. Oryn sits forty yards off with her hands in her sleeves and lays a hand on nobody. "Whether it needed the ring, Oryn had never learned. Nobody at any of those gates had been willing to try it without." She has watched forty such. **Her decision:** the fifth gate has its day, the ford an hour, and she will not come late to the mill; and the reading she owes will go "as deep as she went", asked first. She is two days behind.
+- **The leaf as a thing.** In a bundle between two thin boards of beech. A single leaf of skin the colour of old horn, stiff, curled at one corner, the lamp showing through it; written with a point and rubbed dark; twenty-six lines on its first face, in the floors' letters; a list on its back, not gone into. A little below the middle a place four or five letters wide scraped pale and thin, with one upright stroke left at its left side. Cleon: "One hand. One sitting. He ruled it first… a fair copy… scraped since it was written. I can't tell you by whom." Its head gives a year in the count that the old town's books keep. **Beneath the lower board: a dozen or more leaves of paper, a year-book of the town in its old ink hand** (floods, a murrain, who was reeve), which Karis reads at sight and puts later than the skin ("It speaks of the walls"). The chronicle's line stands on its first leaf beside a worm-hole or damp-hole a thumb wide.
+- **The reading's joins (r1).** In the first half Karis's breath gives out "upon a comma" after "the rivers ran wrong" and she takes another without lifting her finger; nothing of the record is missing there. At the scraped place her finger stops above the one stroke and she says, in her own voice: "It is scraped. A word as wide as four of his letters, or five. I have the first stroke of it, and nothing after." After *The Architect* (said once, heard by Cael for the first time) the pencil's butt goes from the head of the skin to the pale place, and she says the title clause. **"Older. Made. Us." is Karis's, said aloud**, shutting three fingers into her palm "as a big man had counted findings at a spring". Vastin's reach is the restored line from the box.
+- **Who heard it.** Karis, Cleon, Cael, Vastin. Lira and Brom were in the eastern gallery with the carried lamp, putting twelve tally-books back (Cleon would not have the tape touched while a book was out of its bay). Karis reads it once, asks that nobody say it back ("A thing that is said twice begins to be said differently"), and makes two copies; the fair one goes into Cael's coat.
+- **The page the right way up (the §13 lock).** At the head of the inner stair on the evening of the 293rd, by the lamp in Lira's hand, Cael sees the first line of Karis's copy lying the right way up: "There was no desk on the other side of this."
+- **Cleon's day over.** At the bell of the 293rd: "They lie tonight… I said a week. I'll be a day over it. There's the back of that skin to do." (To meet the next packet's 294th.)
+- **The street (r1).** Both protected lines are Seln's. Cael, asked not to say the leaf over, gives two sentences "as a carter gives a load": "It's one man's work. All of it; the tiers, and the rest. He says so himself." / "Made," / "And he says who it was built against. It wasn't a house. It was a sort of people." / "For a kind." Seln says nothing for ten paces, with his left hand on the strap; then, "I have had two sentences, which is as much as I trust from any mouth."
+- **The fire, as re-joined (r1).** Lira reads once; Cael turns his face away and watches eight bowls cool; she folds the page and says her line **to the fire**, before anything else; then the hole and the ruled box ("There's a stroke in the hole." / "Yes."); then she puts her thumb on the place through the paper and looks across at him. What her line does to him is told while Brom reads. **Seln (only "I'll keep it a while longer." fixed):** "There is a house on that hill which would give a great deal to have it laid upon its ledge; and I have asked myself on a good many nights what it was that I kept it out of… I had only ever seen that house from the inside of its own books. It stands upon this. I know now what the office is for, which I did not know at noon; and I had rather know it and carry the thing, than carry it blind." No count of years; the case on his chest, shut; nothing in it named. **Cael sits** on the fifth bucket when Seln hands the page back, so that Vastin's "Who's sitting across the fire" is so, and **gets up off it** for pole two. **Vastin's joins:** "I held that for the whole of my service, and was easy in it. Above Ostrand I was shown that the fault was meant. I called it corrupt; I put down a seal upon that word, and walked three hundred miles on it, and thought that I had come to the floor." He lifts his eyes from the fire only for the last piece. Before "I would have.": "He could have left it there, and it would have been true." **Pole two's joins:** "He had breath left for three words." / "It was Lira, and she had not taken her eyes off him since he got up." / "He stopped there, since the rest of it was not a plan."
+- **The yard fire.** The stable's iron fire-basket on three legs, by the stall door; Brom's flint; upturned oak buckets; eight bowls ("I'd laid one for a mule before now"). Cleon comes in by the yard, having asked a keeper which street; he sits with his back half to the flame and eats half a bowl. Asked by Lira whether it is true: "I read how a thing's made… it's as old as it says it is… Whether he's told the truth in it, I can't say." His undertaking, to which Brom says "Good.": "That skin stays where it's lain… they'll not learn it from me." Brom's price: whatever was built was built over the whole country and down to every child; "Nobody spends so on a thing that he thinks is small… A price isn't a verdict… I'd want to hear the other side." After Lira's "You would have." she empties the old man's cold bowl into the pot and fills it hot. Cael does not write what he said.
+- **Roles (all unnamed):** the beam-man; the two watchmen; the keepers of the blue gate by night; the carrier with the cut hat (from Book 7); the hold's old woman, the girl in her year and her small brother; a girl in a red cap and a boy who laughed (Vastin's memory of kindlings he signed).
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+*(Refreshed after repair r1, 2026-10-12. No fact of the calendar, bodies, money, fragments or deployment changed in repair. The sixteen markers are gone; the speakers of three restored units are as the coordinator ruled.)*
+
+**Calendar.** The night of the **two hundred and ninety-third day past the Line**, in the long loft at Treswick. Days on the page: 291 (the ladder; the carts' street; the beam; the hatch; the gallery; the inside; the twelfth; the telling; the stair), the night of 291–292 (the tail), 292 (below; the parcel; the meal; the inventory; the light), Oryn at her fourth gate from dusk on the 292nd to first light on the 293rd, 293 (the leaf; the chronicle; the copy; Vastin's afternoon and stair; the street; the yard fire). No season, month or weekday name; no figure for the technician's date; no count of years since the Kindling.
+
+**Where everyone is.** Five in the loft (Cael, Lira, Brom, Karis, Seln at the ladder's head) and Vastin in the end stall beneath. Cleon has gone back up through the blue gate; the leaf, the chronicle and the board are under the registry; the fifty-two sheets lie on their tables one night more. Oryn and the brown mule are between her fourth gate and her fifth. Teague's five are east of the river (not on the page).
+
+**Cael.** Nineteen. **Twelve fragments. Deployment thirty-two.** The twelfth is acquired, read, told to Cleon, and held shut; three unmeant glances, not counted; never on a person, the crown, the leaf or himself. He keeps Cleon's warning and has told nobody. He has ruled that the twelfth is not turned inward until Oryn has been asked. He has not set foot on the square or its steps and has not looked at the crown; one unsteady moment was seen on the loft's boards and entered fourth on the page of the inventory, ruling *hold*. He has stood at the blue gate's groove by night and gone back down. He has heard the leaf, carried its copy, and said pole two aloud on his feet at the fire; it is not in the log. **Vastin is still not told of the eleventh**; the debt is entered as heavier. He owes Oryn two tellings at the mill (the readings round the place; the twelfth). Body: sound; tar on his palms; eyes recovered.
+
+**Lira.** Wind; Iron, Rank One. No burst. Arm: day twenty-eight out of the wool on the 293rd; it steadied a page and drew a blanket along two nails. Right shoulder still bruised. She was told first and read the page first. She has twice been refused something Cael had no leave to give (the warning; the leaf before the fire) and has said so. She closed the gap by the blanket without looking. Her registry paper is untouched.
+
+**Brom.** Iron Skin; Copper. No grey. Neither arm above the elbow; the box on the bound right shoulder; he was the handcart's horse and brake. He put his thumb to a carrier's slip. **The purse: a hundred and thirty.** He means to buy the rope before the gate. Owed at the mill to two healers.
+
+**Karis.** Ember; Iron, Rank Three; no point struck since the fork (she did not light the yard fire). **All twenty-three letters.** She has read the first face of the leaf aloud once, given one account of it, shown Vastin's copied page to Cleon, marked one line of the chronicle and not read on, and made two copies with the gap ruled as an empty box and the one stroke drawn. She has kept two pages in the chamber and at the fire. She has not gone into the leaf's back (a list). Left palm: stitches in, under linen; she has begun to use the hand without noticing.
+
+**Seln.** Shadow; Bronze. He taught a second person (Cael: three rules of following). He has read the page. The case is on him, **shut**; at the fire he said that a house on the hill would give a great deal to have it laid on its ledge, that he knows now what the office is for, and "I'll keep it a while longer." He was told on the street in two sentences and answered "Made." and "For a kind." He burned a slip and said "Closed." He will not follow the boots again. He expects them on the road east.
+
+**Vastin.** No office; no age stated. **Right knee: day fourteen of thirty on the 293rd**; slat-bound; he rides the cart, sleeps in a stall, and takes the inner stair on his seat. He kept silent at the beam after one sentence. He heard the leaf; reached once aloud and was stopped; has stopped the same sentence in his own head; has said his piece at the fire (imperfect; the fault meant, which he called corrupt; aimed) and answered Lira ("I would have."). He was told across a dinner table that out here one counts who is owed a seat. He does not know the mechanism, the eleventh, the twelfth, the sum, or what is under the bar. He has not asked to join and nobody has spoken of it.
+
+**Cleon.** Rune, Bronze. He has shown the inside of the Path to Karis; has been told by Cael how the twelfth came; refused to finish a sentence; gave a cup of water and a warning; looks away from the boy on purpose and has kept it for two days and an hour at a fire. He has heard the leaf that lay on his shelf ten years. He has been above ground with the crew once. He has said that the leaf stays under his hand and goes to no counter. Tomorrow: the list of parts.
+
+**Oryn.** Tide; Iron, Rank Four, provisional. Four gates done of five; two days behind. She watched a Kindling from a bench and laid hands on nobody. Nobody has died under her hands. She has heard of no leaf. She has decided not to come late to the mill and to read Cael as deep as she goes, asked first.
+
+**The clerk.** Unnamed. *The same* and *four* on ten days. Three things not asked.
+
+**The faction.** One watcher (the cut boots), walked for three hours on the night of the 291st and seen through the blue gate; not on the kerb on the 293rd. Faceless, unnamed, unlocated. It has been shown a porter twice.
+
+**Objects and money.** **130 marks** (134 less four for the dinner). The reserve sealed in the third box. Hesk's dividers are shut in Hesk's book; his note with them. The fair copy of the leaf is in Cael's hand; the other in Karis's notebook. The stable's handcart is theirs while the loft is (to the 295th). Still owed: sixty yards of four-strand to the Lowmarch ferryman.
+
+**Who knows what.** The mechanism: six, as before; **Cleon knows how one fragment came**; not Vastin or the clerk. The twelfth: the six (Oryn not yet) and Cleon. The warning: Cael and Cleon. The leaf: Karis, Cleon, Cael and Vastin by ear; Lira, Brom and Seln from the page; not Oryn, Teague or Pike. The unsteady light: Cael and Lira (from the log). The sum: Cael and Seln, each alone, unchanged.
+
+**Open threads.** The back of a leaf. A line with a hole in it, under a slip. A second page with nothing on it. A warning that is in no book. A debt to a man in a stall. Two tellings owed at a mill. A light that was not steady once. Boots that may be on the road east. A case kept a while longer. A rope to buy before the gate.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Movement 7 already carries the 294th, all-day list, twelve fragments, Karis's bound hand, Vastin day fifteen and no mule (`packets/MOVEMENT-007.md:28–30`). Its author must additionally inherit:
+
+- **Leaf audience and wording discipline.** Karis, Cleon, Cael and Vastin heard the record once; Lira, Brom and Seln read Karis's page; Oryn has not heard it (`manuscript/chapter-38.md:3–29,95–105,251–269`; `manuscript/chapter-40.md:3–37,53–103`). Nobody who heard it quotes it. The surviving public reductions are *made*, *for a kind*, Lira's existence conclusion, Vastin's *aimed/category/person*, and Cael's built-to-prevent conclusion (`manuscript/chapter-39.md:179–189`; `manuscript/chapter-40.md:37,135,187` after fixes 10, 12 and 14).
+- **Fragments and knowledge.** Twelve fragments; deployment thirty-two. The eleventh remains unused and known to Lira through the log but not Vastin. The twelfth is known to Cael, Lira, Brom, Karis, Seln and Cleon; Oryn and Vastin have not been told. Cleon knows how this one fragment came but no other acquisition history. The warning is known only to Cael and Cleon and is in no book (`manuscript/chapter-35.md:197–239,279–339`; `manuscript/chapter-36.md:15–63`; `manuscript/chapter-37.md:219–227`). **Coordinator ruling (overrides the audit here):** the twelfth leans at made things UNBIDDEN and OUTWARD in Movement 6 (the board, the rope-walk, the bridge, the dividers, the inn table), and Cael is learning not to look; a few unmeant outward glances are on the page and are not counted as deployments. It has never been turned INWARD, and he refused that turn once, deliberately, until Oryn has been asked. Movement 7's beat is the first INWARD turn, and it comes unbidden.
+- **Cleon.** He has shown the Path's inside, been told the twelfth's mechanism, declined a dangerous sentence, given the warning, deliberately looked away for two days, promised the leaf stays under his hand and above no counter, and said “Tomorrow the rest of the leaf. The list of parts.” (`manuscript/chapter-35.md:15–239`; `manuscript/chapter-40.md:115–125,227–239`). He let the fifty-two sheets lie one extra night and has written the 294th card (`manuscript/chapter-39.md:117–125`).
+- **Object positions at night on the 293rd.** The original skin leaf is between its beech boards under Cleon's jar at his desk; the paper chronicle remains under the registry with its hole slipped/marked; the shelf bundle is untied and the leaf's back/list is unread (`manuscript/chapter-38.md:31–43,163–193`; `manuscript/chapter-39.md:137`; `manuscript/chapter-40.md:289`). Karis's fair copy is in Cael's hand/coat after Seln returns it; Karis retains the second copy in her notebook (`manuscript/chapter-39.md:123–127`; `manuscript/chapter-40.md:249–251`). The fifty-two sheets lie on their three tables one night more, and the black-oak plank remains against the third table (`manuscript/chapter-39.md:117–121`; inherited location `STATE_LEDGER.md:552`). The three boxes, flat and hide are back in the loft; the bearing is on the calfskin in the second box, the reserve stays sealed in the third, and Cael sits against the third (`manuscript/chapter-40.md:267–289`). Vastin is in the end stall; the tarred kit case is last explicit in his hands on the returning cart, and the prose does not state whether it finishes in the stall or loft (`manuscript/chapter-39.md:173–205`; `manuscript/chapter-40.md:253–265`). M7 must not silently choose a different custody if the case matters.
+- **Bodies.** Vastin's right knee is day fourteen of thirty on the 293rd, still slat-bound, with stick/no kneeling/no running/no Wall; he sleeps in the end stall and can take only the inner stair on his seat/hands (`manuscript/chapter-39.md:53–113`; `manuscript/chapter-40.md:253–263`). Karis's left palm remains stitched and bound; she writes right-handed but has begun to steady/use the left without noticing (`manuscript/chapter-38.md:227–247`; `manuscript/chapter-40.md:249`). Brom still cannot raise either arm above the elbow; Lira is day twenty-eight out of wool on the 293rd (`manuscript/chapter-34.md:71–79`; `manuscript/chapter-37.md:281–285`).
+- **Money, lodging and tools.** Purse 130; reserve sealed in the third box; loft/handcart through the 295th; sixty yards of four-strand still owed. Hesk's dividers and note are shut in Hesk's book with Cael (`manuscript/chapter-37.md:95–99,141–143,267–273`; `manuscript/chapter-40.md:267–289`).
+- **Faction and route.** Last sighting: the altered boots pass the blue gate on the night of the 291st; no face, name or base learned, and Seln will not follow again. No watcher is on the kerb/doorways on the 293rd; Seln expects the road east watched (`manuscript/chapter-36.md:285–379`; `manuscript/chapter-39.md:191–221`; `manuscript/chapter-40.md:219–223`). Cael still will not cross the square/steps or take the dusk cut.
+- **Seln and the case.** The case remains on him and shut; its contents remain unnamed. He has read the leaf copy and decided the case is worth keeping “a while longer” (`manuscript/chapter-40.md:91–105` after fix 11). His cache decision is not a declaration or disclosure.
+- **Light and date.** Cael alone saw the unsteady line; Lira knows only the written claim and closed the blanket gap. The ruling is *hold* (`manuscript/chapter-37.md:239–285`). The deep-layer date remains known only and separately to Cael and Seln, unsaid and unwritten (`manuscript/chapter-36.md:21–23`; `BOOK_MAP.md:339`).
+- **Reading orientation.** At the inner stair head Cael reads Karis's page right way up for the first time; M7 must preserve that change (`manuscript/chapter-39.md:143–163`; `BOOK_MAP.md:475`).
+
+**Movement 6 CLOSED (2026-10-12).** Chapters 34–40, days 291–293, 36,152 words. Same-author repair r1; Sol recheck (gpt-5.6-sol, 372k tokens): CLOSE, no line fixes — every protected unit whole, once and on the right speaker; all thirteen former joins judged the author's own and source-distant; the five tracked passages RESOLVED; overlap 0 unprotected / 27 protected; gates 0; every chapter inside the three working ranges; listening pass on all seven chapters. Recheck rulings on repair-minted items, all KEEP: Cleon's "Sits. The lot of it sits." classifies the leaf's visible FACE as a record and makes no claim about the unread back; Vastin's fire join is supported clause by clause in closed text; Cael sits on the unused bucket before Vastin speaks and rises for pole two. Text is closed for the movement, NOT locked: the book's completion pass (whole-arc read, texture lanes, listening proof) may still touch it.
+
+
+## AFTER MOVEMENT 7 — chapters 41–46, days 294–299 (drafted 2026-10-12, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 6 ratified** (Sol plan audit): twelve fragments; deployment thirty-two; purse 130; the loft and handcart to the 295th; the leaf's back unread; Vastin's knee day fourteen on the 293rd; Karis's stitched palm; Brom's arms; Lira's days out of wool; sixty yards of rope owed.
+- **The 294th: the list of parts.** Cleon turned the skin between boards; its back is paler, scored and not inked, **nine short lines, a thing and its number to each**. Karis can spell all nine and turn four (the four things the face says were made); the other five are spelled and unturned, and **she has said none of the numbers aloud**. **The fourth line is the mark's:** the word for the mark is what bears; two runs hang from it LEVEL (those who are kindled; and a six-sign word in the scraped-thin place), and after both the number *three*. Cleon made a second copy, drawn and not read, and gave it to Karis ("Your hand's better than mine on the fourth line."). The fifty-two sheets were counted into three boxes under two hands, K. and V. The clerk wrote *Withdrawn by its bearer* and *four* and ruled the account off. Protected, Cleon's, at the iron door: "Work. Not a finding." / "Mind the stair. It leans." **He is not above ground and did not look at Cael.** This edition has no noun "bearer" for a sign (signs bear, are carried, or are nothing).
+- **The road east (the 295th–297th).** The rope: **sixty yards of four-strand, two marks (purse 128)**, bought at the walk under Treswick's wall and paid to the Lowmarch ferryman, who waived the fare; the debt is closed. Out by the outer arch: six out as six in, none written. **The bridge: five piers counted; the crown not looked at** ("the promise held to the gate and is done; the not looking was mine"). The spring, with the wind in their faces. The fork-stone passed.
+- **How Vastin travelled (ruled against the audit).** After the alley his knee would not carry him a day's road: **he rode the rope-walk dray's tail-board for three days at a copper a day of his own, got down for every hill, and walked the whole cut**; on the 298th Teague put him on a salt cart ("It's owed a seat. For him. I'll not walk ten at the pace of one."). **From the ford on the 299th he walks in the file.** The packet's "walked again on a bad knee" is met by the hills and the cut; closed Movement 6 (a rope down a ladder, a stall, a handcart, a stair on his seat) governs the rest.
+- **The shoulder hold.** The factor offered twenty at each first frost to the five; Brom declined ("We're walking east"). Protected: "He said you'd say that." — **"he" is Teague**, who took the salt up himself, asked the factor twice how long the wall stood and whether its maker moved, and built his term on the answer. (The draft's offer of a seat at the hold's fire for Vastin was CUT: where he belongs is not this book's to open.)
+- **The cut revisited (the 296th).** Protected, **Vastin's**: "Here."; he stood on the bound leg once with the stick off the ground; Brom, low: "Held,"; "Two words," … "Both of them ours." (Vastin's, one speech — the two words are "Here" and "Held"); Cael: "Noted" — the first time he has given that word to this man. **A horseman kept a mile behind from the cut to the dark; a riderless horse stood in the alders on the western bank on the 297th.** No face, no name; Seln "can put it no higher". Nothing was seen east of the river.
+- **Lowmarch (the 297th).** Pike's twelfth line is the clearance (*Eight. Twenty; paid.*); the thirteenth, protected: *Treswick. Survey read. Bearing.*, with price and outcome left empty and said to be empty. **Cael read it the right way up, from Pike's side of the bench.** Pike put a DAY against the season line (nothing printed; "Eleventh. And dated."). **Teague's term, taken as a contract** (protected: "Ten of us on a wall's count. Your six and my four." … "Contract. Not more than that. I'll not have it called more." / "The wall's still the wall." — all Teague's): **ten on the count — Cael, Lira, Brom, Karis, Seln, Vastin; Teague, the tall man with the spear, the bow, the young one; NEITHER healer**; shares and costs by the count; **the field is Teague's** (Cael: "It's yours. I'd have asked you to take it."); the reading is Karis's ("You'll be asked."). The wall has a month on it and is not stood before the month is out. No hand was offered; the cloth still reads first and eleventh.
+- **Teague (cutaway).** He is going "to be at the front of the thing" and says so. He knows that a factor saw an Iron Wall and that its maker "had been somebody … and had left off being it"; **nothing of the mechanism, the fragments, the leaf, the list, the date, or who Vastin was.** The bow (a broad man with a bad hip), the tall man and the older healer (a lean old woman with a staff and a board, "not counted … not told where to stand") have not spoken to the six. The young one "does what he's told a little too soon".
+- **Force SEEN, not acquired (the 298th, first light).** Teague lined heel, knee, hip, shoulder and palm from an ash root to a sunk salt cart and put it a body's length; the recoil came back down the same line to the wrist (a click heard at twenty strides); the young one's cloth; the old woman's board. Protected, Teague's: "Don't put it in front of anything that needs doing twice." **Nothing came. Twelve. Thirty-two.** The two crews walked the meadow in file to four hand-signs (*stand*, *seen*, *come on*, *nothing*); no drill under a wall.
+- **The march order (Teague's):** Seln ahead; the tall man; Teague, **with Cael at his left shoulder a stride back**; Lira; the young one (watching her feet); Karis, the healers and the mule in the middle; Brom; Vastin a stride behind him; the bow last.
+- **THE GRADE (the 298th).** By laying Cleon's drawn copy on her own, Karis has four of the six signs: the word is ***set***. The fourth line: the mark, over those who are kindled and what is set; three. **Three marks:** a stroke alone (a box ruled and EMPTY — no sheet carries it; no first-tier site appears); a stroke with one bar (stake thirty-two, the dead surveyor's book, every sheet of the four places); a stroke with two bars (six sheets of a FIFTH place). Protected, Karis's: "A mark is a grade. The one they give a boy at fourteen says what he's *for*." … "The one on a sheet says how *old* the thing is."; "Somebody laid them down in order"; "It's observation. I'm telling you what the paper says. Not what it means." **Ages, each counted from the office's first sheet for the place: the Fallow sixty-one, the Stair ninety-four, the Hall a hundred and thirty-eight, the place behind the iron two hundred and six**; the fifth place has two unread signs where its figure should be ("older than two hundred and six", no figure). The paper says how long ago a first sheet was drawn and nothing of who walked there since. **Vastin's first "Noted."** Protected, Teague's: "Oldest last." … "Then that's where we're going." Hesk's dividers were **opened by Karis on Cael's loan** ("They're lent. I'll not open them."): the office's run from the fourth place to the fifth is "three days past the iron, a little less"; its compass point and its figure in lengths are unsaid. Stake thirty-two is back in the tarred case, never driven.
+- **The log of the 298th** (protected, whole, once; the grandmother is Cael's, Hesk's late wife): "Karis cracked the grade … Turns out the line was already drawn four hundred years ago. We're just the first to follow it to the end." **"Four hundred" stands nowhere else in the movement**; the centuries and the figure are Cael's own inference, put on his own page.
+- **Millrace (the 298th evening).** "Eleven off the ridge." (the woman with the net, as in Book 7) / "I know." (Oryn). Oryn to Vastin: "Stand there."; he stood an hour without a clause. Protected: "Nineteen days," (Vastin) / "Then it's eleven more." (Oryn). Oryn's terms: three holds owed yet on her round; "I'm a stop on my own route."; on nobody's count. "Sixth chair." (Lira) / "On my terms. Which are the only kind." (Oryn); she sat. **Readings, each asked first:** Brom's LEFT shoulder mended (a quarter-hour; she was grey), the right re-tied shorter by the older healer ("That'll do"); Lira's arm ("You listened when it told you the second time." / "Once." / "Once is once more than I priced." — "It's an arm."); Karis's palm ("Who sewed this." — the seven stitches drawn; "Write. Don't lean."); Vastin's knee — he told her of the alley wall himself; "It held in a cut," (Oryn); new linen and two laths; **the month stands as counted**; "Noted," (Vastin) / "That's new." (Oryn) / "It's a useful word." (Vastin) / "It's his." (Oryn). **Purse 127** (meal and a flitch, one mark).
+- **What Oryn was told before she read him:** the two self-readings of the 281st and why; **the eleventh** (Vastin's, in the stair; he does not know); **the twelfth** (from "a man under the registry"; made things only; "Not a man."). Her ruling: nothing is turned "on my plank"; the road is his own.
+- **THE DEEP READING.** "May I?" / "Yes." Forty minutes, to her own floor; she found the eleventh ("stands in the stream like a post") and the twelfth ("a little flat thing behind your eyes") unprompted; her current went round the still place from every side. **At about the three hundredth breath the twelfth turned inward, unbidden: *Still.* Then *Set.*** He kept his jaw and hands loose and did not let the next word come. Oryn felt only "Something turned over … out at the edge of you. One of yours, in its sleep," and dismissed it. **Her finding, protected, whole:** "There's a place in you I can't read because it isn't *flow*. I've spent my life reading flow. Whatever that is, it's not the kind of thing my Path was built for." **The two findings do not agree, and the two words are told to NO ONE** — not Oryn, not Lira. Lira offered the leaf; protected: "Is it a finding?" / "It's a leaf" … "Then it's not mine." … "Tell me on the road, if there's road. Not at my table." … "Lie still when I say. That's still the term." **Oryn has not heard the leaf.** The eyes paid in the dark. Lira knows that something unasked came and has said that she will wait; the log gives four reasons for writing nothing ("Four is not mine to write") and the ruling *hold*. **Cleon's warning "has begun to lean".**
+- **Dawn, the 299th.** "Twelve," … "And a mule." (Seln). The mule carries the three boxes, the flat, a sack of meal, Oryn's pannier and canvas. Karis pinned a clean sheet to the hide's eastern edge, pricked the divider's point on it, and ruled the pencil line from the fourth ring through the point and a hand's breadth past ("I am not going to draw a stop that the paper does not give me").
+- **Bodies at dawn on the 299th.** Vastin: **day twenty of thirty**, Oryn's linen and two laths, stick, walking. Brom: both arms up to the shoulder. Lira: the arm released. Karis: stitches out, linen on, not to lean. Teague: the right wrist in linen under the leather. Cael: sound.
+- **Money:** 130 → 128 → **127 marks**; the reserve sealed in the third box. **Names:** none minted. **Length:** about 32,000 against 32,000.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial 316k; cold 98k; source-distance 190k (2 tracked passages; probe 1% / 12%); plan / canon / protected-text audit 744k tokens (REPAIR; seventy-six exact fixes). **Twenty-five applied by the coordinator** (the sixteen marker restorations, minimal, with the source's speakers; two sign-nouns; a broken join; three thaw intervals; the factor's seat cut), five of them amended. **Fifty-one DECLINED:** Vastin made to walk the whole road (the audit did not weigh closed Movement 6's knee); the ages re-derived from a printed date (date subtraction is reserved to the unspoken sum; the author softens the corner figure's claim instead); the Millrace count given to a "ford-keeper" (the woman with the net is locked Book 7's); the night exchange with Lira cut whole (only "You went stiff" is wrong; the author re-grounds it); "Twelve. And a mule." taken from Seln. **Repair r1 by the same author (claude-opus-5-5): seven joins written, the ages passage softened, Lira's knowledge re-grounded in his eyes, two tracked chains broken, a referent pass; Sol recheck CLOSE WITH LINE FIXES (two, both applied).**
+
+### New canon minted (author's list)
+*(Refreshed after repair r1, 2026-10-12. Line numbers are those of the repaired chapters.)* All of this is mine and is flagged for ruling; the coordinator's rulings on each item are in `plan-audit-apply.md` and `REPAIR-BRIEF.md`.
+
+- **The back of the leaf (41:29–49; 41:55–59; 41:113–135).** Paler than the face; nine short lines in a column, ruled first; each a noun and a number written out in words. The first four begin with the four things that the face names, in the face's order; the other five are nouns that Karis can spell and cannot turn. No number is said aloud. The fourth line (the mark's) crosses the thin place behind the scraping: the face's word for the mark, which "bears"; two runs hung level from it (five signs; six signs); and the number *three*. On the 294th the first run is "the people at a kindling"; of the second, three signs of six are sure. Nobody asks whether the back sits or goes. This edition has no noun "bearer" for a sign (the card's bearer at 41:221 is a person).
+- **Cleon turns the skin** between two boards without touching it; **his copy** is drawn sign for sign and not read, with a red tick where each run ends; he strikes his own fourth line through and has Karis put hers in; he gives it to her at the iron, rolled in the bundle's brown tape; he takes his own lamp back from Cael's fingers. The narration names him in the copying scene and at the bell.
+- **The fifty-two sheets go up** on a tally kept by Vastin at Karis's asking and signed K. and V. **The clerk's last entry:** *Withdrawn by its bearer*, *four*, and a line ruled beneath both columns.
+- **The rope (42:13–23):** the coil that Brom looked at on the 282nd, kept by for him; **two marks**. **The rope-walk's dray (42:31–63):** two brown cobs, forty coils of four-strand for the western landing's broker; "the wrong kind of excellent" is a saying on that landing; the carter is a lean man with a straw in his mouth. The coil rides free. **Vastin rides the tail-board on the level at a copper a day of his own and gets down for every hill** (ruled KEPT).
+- **The outer gate going out:** the keeper moves two beads for the boots on the tail-board: "Six out. Six in, the day I had you."
+- **The bridge:** the twelfth is refused by counting the piers; Cael finds that he is free to turn and does not, because he ruled *hold* on the light.
+- **The road east:** an east wind; Vastin walks the rise and turns once at its top; Brom touches Oryn's bowl at the fork-stone; the spring's slab is open to the wind and no paper is laid out; Seln stands at the basin with his back to the slab, and nothing is said.
+- **Cael to Vastin (42:149–159):** "It's six people's. That's why."
+- **Sheep on the high moor;** thirty-one carts up the cut in a fortnight.
+- **The factor's offer (43:19–41), as repaired:** twenty at each first frost to the five who walk the cut before a wheel goes on, with the long house's fire and the pot for the week. Brom declines. **The seat for Vastin is cut.** **"He" is Teague,** who brought the hold's salt up, asked what the factor saw, asked it again (how long the wall stood; whether its maker lifted a foot), and said that the five were for the east.
+- **The cut on the 296th (43:47–97).** Water in it and no glass; the white crack is gone. "Here," is **Vastin's**, said to the wet stones; he lifts the stick a hand's breadth and stands on the bound leg for a breath and a half; **Brom, on his stone, says "Held,"** (mine: the second of the two words); "Two words. Both of them ours." is **Vastin's**; Cael answers "Noted," and has never before given him that word. The three wrecks have been broken up.
+- **Why nothing came at the wall on the 279th (Cael's own inference, 43:109–111).**
+- **The horseman** on the skyline above the cut, a mile behind all the afternoon of the 296th; a riderless horse in the alders above the western landing on the 297th. No face; nothing identified (ruled KEPT).
+- **The halting-ground:** Vastin sits before the six; "I am told that a road has no keeper."; no copper is laid; Lira's flat hand, and he does it bent.
+- **The ferry:** the river two feet lower; the ferryman opens the lay with his nail, drags the coil to his rope-house himself, and waives the fare: "Today she's paid."
+- **Teague's window (44:3–97).** A week home from the shoulder hold; he has never seen an Iron Wall and does not ask who the old man was; a wall cannot come to the trouble and wants a count of who is behind it; "I mean to be at the front of the thing. I'll not dress it."; the bow's objection and his answer; the older healer comes for the wrist, uncounted; the young one is told that he is one of four and nods with his whole head; the ice "had been gone more than four weeks"; why "contract" and no more ("He had four, and he meant to walk four home").
+- **Pike (44:101–163).** The twelfth line: *Clearance; the cut below the shoulder hold. Eight. Twenty; paid.* The thirteenth is the protected line, its last two columns empty and said to be empty. **The season line is dated:** a day in its ruled space by his own book's reckoning, nothing printed; "Eleventh. And dated." **As repaired, Cael reads the line as it is written without marking where he stands; Pike's "You're on my side." comes after the season line, and Cael then sees that he has read two leaves the right way up over the stump of an arm.**
+- **The contract (44:165–215), as repaired.** Teague opens with the protected count and **closes** with "Contract. Not more than that. I'll not have it called more."; the four heads stand between in my words (neither healer on the count; shares and costs by the count; the field his; the reading Karis's). "The wall's still the wall." is **Teague's**, to Brom's "You've built your count on a thing that you've never seen stand."; Cael answers that there is a month on it with twelve days to run; Teague: "I'd not ask a thing with a month on it to be shown for a count." No hand is offered.
+- **The meadow cart (44:219–265).** A salt cart sunk to its axle by the great ash; heel against the ash's root, palm on the cart's bed; every joint in one line, held three breaths; the cart goes the length of a body and stops dead; the wrist clicks at twenty strides; the young one's cloth. Brom names the Force and has seen one at a quarry. The protected line is **Teague's, said to the carter** who points at a second cart, in a voice that carries to the bench. Cael's log quotes none of it.
+- **The file (44:269–315):** Seln; the tall man; Teague with Cael at his left a stride back; Lira; the young one; the papers and whoever is healing in the middle, with a beast when there is one; Brom; Vastin a stride behind him; the bow last. Nobody asks to see the wall.
+- **How the grade comes off the sheets (45:3–189), as repaired.**
+  - Two copies of the fourth line laid one on the other give Karis four signs of six, and the word is *set*, which stands four times on the Stair's floor "always behind a sign that bears". The line: the mark, over those who are kindled and what is set; three. Stake thirty-two, the dead man's first page and the Stair's abstract lie together under the window. **Karis:** "A mark is a grade. The one they give a boy at fourteen says what he's *for*." (45:45).
+  - Three ruled boxes: a stroke with a bar (the four places of the hide); a stroke with two bars (the unmatched sheets of the spring: one group, six sheets; she saw their square at the spring and kept silent); and a first box ruled and empty. Lira: "It's tiers."
+  - **The corner figure (45:79–103), softened as ruled:** a small number at each sheet's foot, falling by one from row to row (the Stair's: 94 to 89). Vastin: it is "the year of its series: the count of years from the first sheet that the office holds upon the place… It does not say that anybody walked there in each of those years. It says how long ago the first sheet was drawn, and no more." The newest row: the Fallow in its sixty-first year, the Stair in its ninety-fourth, the hall a hundred and thirty-eight, the place behind the iron two hundred and six. Cael's sum is only that. Seln: "I had supposed that it was six years." Nothing is said of a sheet in every year or of sheets kept back.
+  - **The two-bar place:** no figure in its corner, two unread signs of the index; older than two hundred and six, and no figure given. Then **Karis:** "The one on a sheet says how *old* the thing is." (45:115).
+  - **Stake thirty-two goes back into the tarred case** in Vastin's hands (45:117); it has still never been driven.
+  - **The office's distance:** one line above the eight stations on the two-bar sheets (the fourth place's four signs; a point of the compass; a measure in lengths); neither is printed; "three such days, less a little". Hesk's dividers are opened for the first time on a distance by Karis, on Cael's loan; the point falls a hand's breadth off the skin, in the brass's shadow. "Three days past the iron." / "As we walk. A little less."
+  - "Somebody laid them down in order," is **Karis's**, said to the hide; Lira's "Who?"; Vastin's drawn breath; **Karis:** "It's observation. I'm telling you what the paper says. Not what it means."; **Vastin's first "Noted,"** (45:173). **Teague:** "Oldest last." — Karis nods — "Then that's where we're going."
+- **The south road (45:193–243).** Vastin rides the salt cart to the fork above the mill on Teague's ruling and walks down the notch (ruled KEPT). After the protected log, one sentence marks what is Cael's own: only the ranking and a place older than two hundred and six are the paper's; "the centuries, and the figure near its foot, he had from a gallery" (45:231).
+- **Millrace (45:247–313), as repaired.** The woman with the net and Oryn's "I know." (KEPT). "Stand there." is Oryn's; Vastin hangs no clause on it; "Nineteen days," **Vastin**; "Then it's eleven more." **Oryn**. Teague speaks to Oryn for the first time; her answer in my words (three holds owed yet on this round, lying their way "for a day and some"; "You'll not count me, and you'll not send me. A crew doesn't write a well on its sheet because the road happens to pass it.") and then the protected "I'm a stop on my own route." A mark's worth of meal and a flitch: **127**. Brom sets her bowl before an upturned keg; "Sixth chair," **Lira**; "On my terms. Which are the only kind." **Oryn**; she sits.
+- **The readings (45:317–409), as repaired.** Brom: the older healer unties her own knot; Oryn shuts the wrench in the left shoulder (the arm to the height of his chin); the right is re-tied in two yards; "That'll do." Lira: the protected three lines are Oryn / Lira / Oryn; "It's an arm." Karis: the seven stitches drawn; "Write. Don't lean." Vastin: he has stood at the post the better part of an hour; he tells her of the wall himself; "It held in a cut," **Oryn**, "And then you asked it for a second, with eleven days on it"; the slat off, two new laths, the month as counted; "Noted," **Vastin** / "That's new." **Oryn** / "It's a useful word." **Vastin** / "It's his." **Oryn**, who does not look round at the boy, and whose mouth goes down at one corner.
+- **The two tellings (46:3–63):** unchanged. Oryn is told the eleventh as well as the twelfth; "But not on my plank."
+- **The deep reading (46:67–177):** unchanged in substance; the twelfth and the eleventh are named by their labels at the points of decision. *Still.* *Set.* A next word, not let come. Oryn's half-notice stands.
+- **After the reading (46:181–237), as repaired.** The scene opens with her hands already off and Oryn on her feet; **she gives the finding standing, and only then finds the keg**; the greyness is what the saying cost. Lira reminds her of "all of it" and offers the paper; "Is it a finding?" **Oryn** / "It's a leaf," **Lira**, who adds only that somebody wrote it down, that one of them can read it, and that it is not about a body; "Then it's not mine." — Oryn's reason in my words (a plank and two hands; a sheet at the foot of every bed that "was never once the patient") — "Tell me on the road, if there's road. Not at my table." The paper is not unfolded. Her last word to Cael as she sends them to bed: "Lie still when I say. That's still the term."
+- **The cart-shed (46:241–291), as repaired.** Lira knows by his eyes: he would not look at the lantern, he looked at the roof while he was told, and she can hear the water going; "I had you by the sleeve across a vault, seven days ago, with your lids shut… It only charges when it's looked." He tells her that something came, unasked, and that he has no name for it; neither word is told. The four reasons stand in the log. The warning has begun to lean.
+- **Dawn (46:295–343):** unchanged. Seln: "Twelve. And a mule." Karis rules the line from the fourth ring over the join and a hand's breadth past the divider's prick, with the bound left hand.
+- **Roles (all unnamed):** the woman of the half-door; the woman with the tarred hands; the rope-walk's carter; the keeper with the bead-frame; the factor of the shoulder hold (no pronoun); the horseman; the landing's broker and his clerk; the ferryman; the salt carter; the miller and the miller's wife; the woman with the net; Teague's tall man, bow, boy (the young one) and old woman.
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+*(Refreshed after repair r1. No fact of the calendar, the purse, the loads, the bodies or the counts changed in repair; what changed is noted in italics.)*
+
+**Calendar.** First light on the **two hundred and ninety-ninth day past the Line**, at the head of the notch above Millrace. Days on the page: 294, 295, 296, 297, 298, 299 (dawn). No season, month or weekday name; no figure for the technician's date; no date printed for Pike's season line; no count of years since the Kindling.
+
+**Where everyone is.** Twelve and a mule, in file: Seln ahead; the tall man; Teague, with Cael at his left shoulder a stride back; Lira; the young one; Karis, the two healers and the brown mule in the middle; Brom; Vastin a stride behind him; the bow last. Cleon is under Treswick with the leaf, the chronicle and the board. Pike is at Lowmarch.
+
+**Cael.** Nineteen. **Twelve fragments. Deployment thirty-two.** He was a lamp for ten days and has entered it. He did not look back at the crown from the bridge. He has told Oryn the two self-readings of the 281st, the eleventh and the twelfth. He has told nobody the two words (*still*; *set*), the warning, or the date. He holds Oryn's finding word for word and has not written it; he has written that one thing came under her hands, unasked, and four reasons for not writing what. He has told Lira that something came and that he has no name for it. He walks at Teague's left and has said aloud that the field is Teague's. He lent the dividers twice and did not open them. *He has marked, beside the protected log, which of its claims are the paper's and which are his own.* The eleventh's debt stands. Body: sound; the eyes paid on the night of the 298th.
+
+**Lira.** Wind; Iron, Rank One. No burst. The arm is "an arm" (day thirty-three out of the wool on the 298th); Oryn: she listened the second time it told her. She said "Sixth chair." She offered the leaf and was declined. *She knows from his eyes that the twelfth looked at something on the night of the 298th; she did not see him change on the plank.* She has agreed to wait.
+
+**Brom.** Iron Skin; Copper. No grey. Left shoulder mended by Oryn; right re-tied by the older healer in two yards; both arms come up to his shoulders on the 299th. *He said "Held," in the cut.* The rope debt is paid; the thumbed slip is with Pike. **The purse: a hundred and twenty-seven.**
+
+**Karis.** Ember; Iron, Rank Three; no point struck. She holds her own copy of the leaf's back and Cleon's drawn copy. She has the fourth line (the mark; those who are kindled; what is set; three), the three boxes with the first empty, *the four series years (61, 94, 138, 206: years counted from the first sheet that the office holds for each place)*, a fifth place of the two-bar mark with no figure, and the office's run to it. She has not said the compass point or the figure in lengths aloud; five lines of the list are unturned. Left palm: stitches drawn, in Oryn's linen; she writes and draws with it. The hide has a clean sheet pinned to its eastern edge, with a prick at the divider's point and a line ruled a hand's breadth past it.
+
+**Seln.** Shadow; Bronze. Out front. He has seen a horseman who behaves as a watcher would, and a riderless horse; he puts it no higher. *He has said only that he had supposed the survey to be six years old.* The case is on him, shut; not mentioned.
+
+**Vastin.** No office; no age stated. **Right knee: day twenty of thirty on the 299th**; Oryn's linen and two new laths; the month as counted. He rode on the level and walked every hill, the cut and the notch. *"Here," and "Two words. Both of them ours." are his;* he stood on the leg once with the stick up. He kept and signed the tally. He sat before the six and laid no copper. He took Oryn's "Stand there." without a clause, gave her "Nineteen days," and stood an hour. He has said "Noted" twice (the grade; the knee). *He put stake thirty-two back into the tarred case, which he carries.* He is on Teague's count as one of "your six"; that is a count for a contract; he has not asked to join and nobody has spoken of it. *The factor made him no offer.* He does not know the mechanism, the eleventh, the twelfth, the two words, the date, or what is under the bar; he knows that he is not told, and that it is "six people's".
+
+**Oryn.** Tide; Iron, Rank Four, provisional. Nobody has died under her hands. She has read Brom, Lira, Karis and Vastin, each asked first, and Cael, asked first, for forty minutes, to her own floor; her finding is given (46:189), standing. She knows of twelve and whose the eleventh and twelfth were; she felt "something turn over, out at the edge" and thought nothing of it. **She has not heard the leaf** and has not been shown the grade. *She has three holds owed yet on this round; her road lies with theirs for a day and some and then turns;* she is on nobody's count and is sent by nobody; she has sat in the sixth place.
+
+**Teague and his crew.** The contract is taken: ten on the count; shares and costs by the count; the field his; the reading Karis's. *"The wall's still the wall." and the Force line are his.* His wrist was used once, on a cart, and is wrapped in linen under the leather. He has not said "Noted." The tall man, the bow and the older healer have said nothing to the six. What his four have been told: that an office's survey was read at Treswick and gave a bearing; that the wall has a month on it; the four figures on the hide and "three days past the iron". Not told: the leaf, the list, the mechanism, any fragment, the date, who Vastin was.
+
+**Pike's book and the cloth.** Thirteen lines; the thirteenth with its last two columns empty. The season line is dated (a day; no figure). Eleventh on the cloth.
+
+**Cleon.** Rune, Bronze. He turned the skin, drew its back, gave Karis his copy, took his lamp back, and said his two lines at the iron. He did not look at Cael. He is not above ground.
+
+**The faction.** One horseman, unidentified, on the 296th; a riderless horse on the western bank on the 297th. Nothing east of the river in these chapters.
+
+**Objects and money.** **130 → 128** (the 295th: the rope, two marks) **→ 127** (the 298th: meal and a flitch, one mark). Coppers are small money: Vastin's three to the dray's carter; the ferry's fare waived. The reserve sealed in the third box. The rope debt is paid. On the mule: three boxes, the flat, a sack of meal, Oryn's pannier and canvas. With Karis: the hide with its pinned sheet, the Ternhall brass, her notebook, Cleon's roll, the sheet of three boxes, Vastin's copied page. With Cael: Hesk's book, the dividers shut in it, the fair copy of the leaf. With Vastin: the tarred kit case, *with stake thirty-two back in it, never driven*.
+
+**Who knows what.** The mechanism: six, as before; Cleon knows how one fragment came. The twelfth: the six (Oryn now among them) and Cleon. The eleventh: Cael, Lira (the log) and Oryn; not Vastin. The warning: Cael and Cleon. **The two words: Cael alone.** That something came on the plank: Cael; Lira (by his eyes and his word); Oryn only as "one of yours, in its sleep". The leaf: unchanged (not Oryn, Teague or Pike). The list's fourth line and the grade: the six and Vastin; Teague in part. The date: Cael and Seln, each alone.
+
+**Open threads.** Two findings that do not agree, and one of them in nobody's book. A warning that has begun to lean. A box ruled for a mark that no sheet carries. A fifth place with no figure and two signs unread in its corner. Five lines of a list spelled and not turned. A compass point and a measure that Karis has not said aloud. A line ruled past a point. A debt to a man who walks a stride behind Brom. A horse in the alders. A wrist in linen. Oryn's road, which runs with theirs for a day and some.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+- **Inventory and order:** twelve fragments; deployment thirty-two; Seln ahead, tall spear, Teague with Cael at his left a stride back, Lira, young one, Karis plus both healers and mule in the middle, Brom, Vastin a stride behind, bow last (`chapter-44.md:281–291`; `chapter-46.md:337–341`).
+- **Contract exactly as accepted:** Cael/Lira/Brom/Karis/Seln/Vastin plus Teague/tall/bow/young = ten; neither healer; shares and costs by count; field Teague's; reading Karis's; contract only, not merger (`chapter-44.md:167–201`).
+- **Teague's knowledge perimeter:** survey read and bearing; wall under a month; four ages and “three days past the iron.” His crew does not know leaf, list, mechanism, fragments, date, Vastin's former office, or the two inward words (`chapter-44.md:117–147,197–199`; `chapter-45.md:149–151`). Tall, bow and older healer still have not spoken to the six.
+- **Oryn:** knows both self-readings and why, eleven and twelve and their sources/limits, and that Cael had not deliberately turned the twelfth inward; has not heard the leaf or seen the grade; was refused nothing she was owed, but Cael keeps *still/set*, Cleon's warning and the date. She sensed only “one of yours” turn and dismissed it (`chapter-46.md:9–63,171–175,221–227`). Her own finding is known to Cael and Lira because it was spoken before both (`46:193–219`).
+- **Cael's two findings:** Oryn's exact finding is held but not copied; *still* then *set* is Cael's alone; the next word was suppressed; the four reasons and “hold” are in the log without the words (`chapter-46.md:197–211,267–289`).
+- **Grade and sheet:** three marks; first-tier box unused; four second-tier first-sheet ages 61/94/138/206; two-bar point past the fourth on the line; compass point and length figure remain unspoken; clean sheet pinned to the hide; pencil line from fourth circle through and a hand's breadth past the divider point (`chapter-45.md:53–177`; `chapter-46.md:319–335`).
+- **Dividers and stake:** Karis has opened Hesk's dividers twice on the office distance, on Cael's leave; Cael has not opened them and they end shut in his book (`chapter-45.md:129–143`; `chapter-46.md:323–335`). Stake thirty-two is back in Vastin's tarred case and has never been driven.
+- **Bodies/counts at dawn 299:** Vastin day 20 of 30, Oryn's linen/two laths, stick; Brom's left shoulder mended, right re-tied, both arms to shoulder height; Lira's arm released; Karis's stitches out, linen on, scar promised, do not lean; Teague's wrist wrapped; Cael's eyes paid in the dark (`chapter-45.md:295–377`; `chapter-46.md:233–239,299–317`).
+- **Money/load:** purse 127; reserve sealed in third box; mule carries three boxes, flat, meal sack, Oryn's pannier and canvas; Cael carries fair leaf copy and dividers; Karis has hide/pinned sheet, notebook, Cleon roll, three-box sheet and Vastin copy (`chapter-45.md:283`; `chapter-46.md:303–307,321–335`).
+- **Watcher pressure:** an unidentified rider kept a mile back on the 296th and a riderless horse stood in the western alders on the 297th; no sighting east of the river and no identity (`chapter-43.md:117–171,245`).
+- **Other live threads:** Cleon remains below with skin leaf, chronicle and board; Seln's case stays shut on his chest, contents unnamed; Vastin's debt and ignorance stand; Pike has thirteen lines and a dated season-space with no printed date; rope debt is paid; Oryn's road is her own and will diverge (`chapter-41.md:213`; `chapter-44.md:137–157,205–211`; `chapter-46.md:31–47,337–341`).
+
+**Movement 7 CLOSED (2026-10-12).** Chapters 41–46, days 294–299, 32,168 words. Same-author repair r1; Sol recheck (gpt-5.6-sol, 342k tokens): CLOSE WITH LINE FIXES — two in chapter 45, applied (a leftover "one sheet to a year"; Lira "stepping off a stair", not a ladder, as closed chapter 32 has it). Every protected unit whole, once and on the ruled speaker; all former joins the author's own; both tracked passages RESOLVED; overlap 0 unprotected / 14 protected; gates 0; every chapter inside the three working ranges. Recheck rulings on repair-minted items, all KEEP: Brom's "Held," (so that the two words are "Here" and "Held"); Lira's sleeve across the vault (true to closed chapter 35); Oryn's sick-house sentence (supported by closed chapter 19). "Four hundred" stands once, in the fixed log. Text is closed for the movement, NOT locked: the book's completion pass may still touch it.
+
+
+## AFTER MOVEMENT 8 — chapters 47–53, days 299–305 (drafted 2026-10-12, author claude-opus-5-5, NO-SOURCE method)
+
+### Coordinator rulings (binding)
+- **Entry seam with Movement 7 ratified** (Sol plan audit): dawn of the 299th at Millrace ford; twelve and a mule in Teague's march order; the contract's ten; purse 127; Vastin day twenty, walking; Teague's wrist in linen; twelve fragments; deployment thirty-two.
+- **The leg (the 299th–303rd).** The Stair's rim at noon on the 299th: Karis laid the kit's cord on the dead surveyor's figure (nine lengths and a piece, old iron to floor: "I am not checking the place; I am checking the cord"); her marker stone had been lifted and a turf relaid "since the thaw" (Seln: "Somebody has been round this place with a spade and made it agree with his sheet."). Teague began teaching Cael to read ground ("a piece of ground's a sum"; three things worth a fist: out of its place; stopped and ought to move; moving and ought to be stopped). **The cairn at noon on the 300th**, at the bend before the Hall's marsh, where a mule-path goes north over a saddle to three holds: **Oryn looked up it once and walked on east.** Her sum: Brom's shoulder wants a week of her eye (to the 305th), Vastin's knee is on her linen, and there is an edge twice any she has stood at; the three holds have had word ("a week, or more"). **Count her days past her road from this cairn** (one on the 301st … five on the 305th). She passed the chock-stones (locked Book 7's north fork) on the 302nd without a look. **Purse 123** (four marks at a hold's gate on the 300th: two skins, meal, a cheese, corn). A keeper said that a man on a bay had ridden through two days before and told him a crew would want water; two holds on the east road were barred at noon with nobody on the walk. No face, no name.
+- **The seep (the 302nd).** Nineteen shale-backs on the slope over the only water. Teague's reading led (never below them; never loud below them; the hour, the old cow, the way in from the west; three steps and a stand; no Path opened on that hill). The young one started down too fast and **the tall man stopped him with a hand on the breastbone, wordlessly.** **Cael asked leave and used the read on the ledge (six breaths; the eyes for an hour): a bucket of water behind a loose leaf of shale; he wanted Pressure and went without; Brom drew the leaf with both arms.** *Ruled against the audit:* the use stands. **Deployment since the Line: THIRTY-THREE from the 302nd.** A keg's hoop and five made heels at the pan: the post is watered from that fold.
+- **The crest (the 303rd, dusk).** The fourth place: a fence of iron bars a pace apart round a bowl; in the middle a grey arch on two piers over a sink — the carters' name, from Teague, is **the Sunken Span**. On a shelf between a dry ravine and the iron: a hut, a fire, kit under a hide, two squared timbers on trestles, **seven hoods (two crossbows, four staves, one low practitioner who shows a white light)**. Protected: "They knew." (Karis); "That iron's been in the ground years. Not one cold term." (Seln); "Drawn?" (Teague); "Nobody declares. Nobody dies. They're seven people on a posting. Noted?" (Cael) / **Teague's FIRST "Noted."** Vastin entered beforehand that he will not stand a wall (twenty-four of thirty).
+- **Seln (cutaway).** Three ages of iron in the fence and a path trodden a hand deep into the shale outside it: a posting far older than one cold term, kept on somebody's form. The practitioner keeps three yards from the bars: he alone of the seven has something the line would take. The case is on Seln's chest, **shut**; it "altered nothing about the case". He lay beyond the gap (a stride and a half between the last bar and the ravine's lip) to count what went out.
+- **THE SPAN FIGHT (the 304th, first light).** (1) The watch called "Stand where you are, and declare"; nobody answered. Brom walked the shelf with Iron Skin up, silent, and took two bolts (breastbone; left forearm). (2) Teague went up the middle at a walk with **Cael at his left a stride back**, keeping his left side with the alley's cut stave for three breaths (a stave's shoe on Cael's left collar-bone; he did not give the stride). Teague put the barricade a body's length; the recoil went to the wrist **and then the elbow**. Protected: "Through." (Teague). **THE THIRTEENTH: Force-adjacent, from Teague, acquired at a stride** — protected, Cael's own cataloguing, printed once in italics: "Force-adjacent. Teague. Partial. Bronze. Impulse along the line of the frame at contact … Deployment: none. Thirteenth." It does not ask; it **listens**. **Teague is not told.** (3) The watch reformed with one bow. Teague asked Karis whether the ground past the iron would bear a body ("It is ground."). Protected: Cael's entry before the act, "Nothing was gained inside."; then Teague handed him the ground past the iron ("You've stood on three of them. I've stood on none. Say how.") and Cael gave the order: "By count." **Five went over stake thirty-four: Cael, Lira, Karis, the young one ("Four."), Vastin** ("I am forbidden a wall. I am not, I think, forbidden to stand."); four stayed on the shelf (Teague, the tall man, Brom, the broad man with the second bow). Every ordinary Path went at the stride and came back whole at the stride ("It is all there … To the grain," Vastin); a place of twice the measure does as the three did. The five walked sixty strides inside the iron to the gap and stood: **eleven seconds**. "You'll die in there." (one of the watch) / "We've been in three times." (Cael). Cael refused the eleventh at the gap and the thirteenth at the ravine's lip. (4) **At the fourth second the watch's bow shot at the broad man's; he went over the ravine's lip with a yard of rotten shale, and Teague did not turn.** The seven went east through the gap one at a time and were not followed. **Win sentence (protected):** "The crews had removed the watch's ability to hold the approach by making the only safe retreat a line the watch would not cross and the crews would." **Nobody died. Nothing was opened inside the line.**
+- **What the watch saw and carried east:** silent Iron taking bolts; silent Force shifting timber; five people — one a boy, one an old man on a stick — standing whole inside the line. Nothing working inside; no Path named.
+- **Costs.** **The broad man: the RIGHT shin (his good leg) broken clean;** laid straight by the older healer on her board and **knit by Oryn, asked first and answered in a word** (a quarter of an hour; she was grey; the two healers nodded to one another); he walks on a stick cut from the watch's trestle. **Teague's right arm: in linen to the shoulder on a slat, the hand not shutting** — protected: "A third time on that arm and I'll set it in a splint. That's not a healer's opinion. That's a fact about a line." (Oryn) / "Noted," (Teague) / "Everybody says that now," (Oryn). Brom: two bruises, "a week of colours"; he carries the broad man's pack. Cael: a welt on the left collar-bone (ten days). The young one held his ground inside the line when the broad man fell, by watching Lira's boots.
+- **Teague (cutaway).** "Four." He counted the young one as a man and knows now that the boy "will go wherever he is looked at, a half-beat before he has seen what is there". He kept his rule about ledges against one of his own. Under the hide: meal, bolts, a mallet, a knotted cord, and **a dozen new bars stamped with two figures and a stroke with a bar** (they stay at the post). He knows nothing of the mechanism, the fragments, the leaf or the lamps page.
+- **The Span itself (the 304th, noon).** Six went down (Karis, Lira, Brom, Seln, Vastin, Cael); Oryn tried Brom at the iron first ("Four … The same.") and would not be told a count across it. The arch is of the grey, in one piece with its piers, a cart's width, **no step**: a road on its back, never wheeled. **Cael stood on the crown: nothing.** The thirteenth listened to the grey; the old three ribs ached low on the left — the cost will come out of him there. Lira found the **square notch** in the hills on the line. Under the arch the sink goes down without a bottom; the piers' inner faces are cut in the floors' hand, and **Karis can read it**: nine sheets drawn. Protected: "Through" (Karis, of a word on the west pier). **Cael counted a course of fifty-two signs as fifty-one, twice** (ruling: hold). The twelfth took one unbidden breath of that course: *Goes.* **The log of the 304th (protected, whole, once):** "Twelfth—no, count it again—thirteenth … Tomorrow I find out what standing in the middle of the first one feels like." (He let "tomorrow" stand: three days by the office's figure.)
+- **Who knows the thirteenth:** Cael; Lira ("Thirteenth. His. A line."); Brom; Karis and Seln by the log. **NOT Teague, NOT Vastin** (two unpaid debts, entered side by side). **Oryn has not been told** as of the 305th — she refused the count at the fence; Cael means to tell her when she will hear it.
+- **The shale camp (the 305th).** A slow day behind two men on sticks; a halt under a step of shale four or five miles short of the notch. **One blanket:** the hide turned to the notch; one sheet of the Fallow, three of the Stair, one of the Hall and the nine of the piers, each laid as its wall stood; the flat; her notebook at the list, Cleon's roll, the sheet of three boxes; **the folded copy of the leaf under a pebble at one corner, unopened.** The twelfth, unbidden, over fourteen sheets: **every row lies with the brass and goes east** (entered by Karis as Cael's single unchecked glance). Lira's "Each one at the next" was REFUSED by Karis ("Going east, the next is the older, every time … I have that they lie one way. I have not what for."). The fifth place's two corner signs are **a year written by its first letters in the old town's count**; Karis has one other year in that count (at the leaf's head), laid nothing beside anything on the blanket, worked it alone that night (her entry: "*not shown to be the same year; shown to be near it.*"), and said it once, in the close. The point is a **thumbnail ring** round the divider's prick, uninked until corded.
+- **THE LAMPS FINDING** (protected, Karis's, aloud, from her table of every crossing by seven people): "They fail the way a hundred lamps fail when one wire's cut. Not the way a hundred souls fall silent." Vastin: "If a man designed the apparatus, then the sigils —" (stopped). Karis: "A measurement is a fact about a ruler, not about the hand that held it." **Two pages:** she tore the ruled leaf out and laid it at the corner farthest from the folded copy, with the whole blanket between and nothing across. **Vastin's THIRD "Noted."** **Cael did not add his own third page** (the technician's sheet stays at the foot of the second row; its day unsaid, unwritten; only he and Seln have done that sum).
+- **The two slips**, pinned under the knot of the oldest row's tape (protected): "*Findings under the fifth column to be held. Not for onward transmission. Not for citation. Not for the seat.*" (red wax) / "*Objection entered: the holding of a finding is not the finding's disproof. Refer to the seat.*" (dark wax, a different seal). Vastin: "Somebody wanted this buried. Somebody else put it in writing that it shouldn't be. That's not a monolith. That's a crack." / "The Compact," … "Yes. Part of it." (both Vastin's). **He knows both seals and names neither**; the slips are re-pinned where they were; nobody pried.
+- **One fire** on the 305th (wood for one), in two halves. Vastin moved his stick a hand's breadth to make room; **the broad man: "Aye."** — his first word to the six. The healers' third exchange: the older healer held her own binding open and Oryn's hands went in under it. Teague to Cael: "You kept my left … I never had the place behind my shoulder stay so full."
+- **Force, dry.** Behind the step Cael set heel to a rib of rock and palm to a slab and lined himself until the thirteenth "stood"; he did not let it go; the ribs gave one clear line of warning. "A trial; not counted." Lira and Brom saw it.
+- **Karis (cutaway).** She knows that a six-word sentence exists and neither says nor writes it; the two pages lay a hand apart on the box lid; her entry: "*Second page: nothing entered. Not for want of a pencil.*" *Ruled against the audit:* this is the plan's refusal and is no join.
+- **Seln on the notch:** a square gap, water-cut, a dry bed going in, the only way through for five miles either hand; no fire, nobody on either wall, not a heel-mark, though seven went that way a day ahead. "I looked at it." He looks again from nearer at first light before Teague moves a stick.
+- **The close of the 305th (protected, whole):** "It's here," Karis said. "Third-tier, documented four hundred years back — as old as the record, as old as the Architect, as old as the machine. The first one they made, or near it." … "Because every other site, my Path worked while everyone's died. I want to know what the *oldest* one does to me. I think it's going to tell me something the records can't." / "He was right. He did not yet know how right." **"Four hundred years" and "the Architect" stand nowhere else in the movement.**
+- **State at the night of the 305th:** twelve and the mule under the shale step; **thirteen fragments; deployment thirty-three; purse 123**; Vastin **twenty-six of thirty**; Oryn five days past her cairn; Teague's arm on a slat; two men on sticks. **Names:** none minted. **Length:** about 37,200 against 35,000, accepted.
+
+### Review record
+All reads on Sol (gpt-5.6-sol): editorial 295k; cold 118k; source-distance 200k (1 tracked passage; probe 2% / 9%); plan / canon / protected-text audit 630k tokens (REPAIR, bounded; forty-one exact fixes). **Fourteen applied by the coordinator** (the ten marker restorations, minimal, with the source's speakers; Lira's false memory of the plank; Karis's bar; two "five years"). **Twenty-seven DECLINED:** the read at the seep removed and deployment forced to thirty-two (no plan text fixes the figure); Karis's night stripped of the two pages (it is the plan's refusal); the year mechanism replaced by flat lines (the protected close needs its ground — the author trims the display instead); the gloss after the log; nested asterisks in the log; Seln's "one to a year"; a sentence telling Oryn of the thirteenth. **Repair r1 by the same author (claude-opus-5-5): the joins written, the year's display trimmed, the lean chain broken, listener anchors added; Sol recheck CLOSE with no line fixes.**
+
+### New canon minted (author's list)
+All of this is mine and is flagged for ruling.
+
+- **The calendar of the leg, laid against Book 7 (47–49).** The 299th: the Stair's brow a little after noon; camp at a beck a mile short of the halting-ring. The 300th: the road's swing at noon; the track's end above the hall's marsh at dusk. The 301st: the east road; two living holds; the dead hold at dusk. The 302nd: the heap of chock-stones two hours after sunrise; the ridge by noon; the seep in the afternoon; a hollow on the ridge's back. The 303rd: the ridge; the brow at dusk. Stair to hall in a day and a half of hard walking against Book 7's two days and a morning at a survey's pace (said on the page at 47:253).
+- **The cairn (47:197–201).** At the bend where the carters' road swings south to the hold, a built cairn as high as a man's hip marks a mule-path that goes north over a saddle to "three gates"; it is not Book 7's heap of chock-stones, which is passed on the 302nd (48:109–117).
+- **Oryn's reason and her word north (47:237–249).** Brom's shoulder, shut on the 298th, wants a week of her eye (the 305th); the knee on her linen; an edge twice the size with ten going at it. She sent "a week, or more" up the water from Millrace with the miller's man before the eleven came down the notch. She is counted from the cairn in each log (one day on the 301st … five on the 305th).
+- **The hold south of the cairn (47:205–233).** Four marks at its gate for two new water-skins, meal, a cheese and corn for the mule: **123**. Teague's four buy their own (a side of bacon). The keeper had skins filled and priced since the day before: a man on a bay rode through two days earlier, bought nothing, gave no name, and said that a crew would want them.
+- **The Stair's bowl on the 299th (47:35–49; 47:53–81; 47:131).** (r1: the file's make-up is said once at 47:9–11 — twelve and a mule; six and a captain's four on a contract; two healers whom the count of ten leaves out.) Karis's grey stone is gone from between the two irons and a square of turf has been laid in its place with a spade, since the thaw; Seln: "There is one to a year." She sets another stone. Her number: the dead surveyor's *North station to floor*, nine lengths and a piece from the old iron to the grey's lip, which is also on the Stair's sheet in each of six years; laid with the kit's own cord from Vastin's case, by Karis, Lira and Seln, in an hour and ten minutes; "I am not checking the place; I am checking the cord." Cael does not touch it (a hundred and thirty-one days). Teague's three hold the rim unasked, the tall man on the spot where he stood in Book 7.
+- **Teague's two lessons.** The brow (47:83–127): "A piece of ground's a sum … you put down what a man needs, and it comes out as a place"; the bow goes on the short walk and the legs go far; the captain stands where a voice carries to the other three. The dead hold (48:65–97): he sits down beside Cael a second time; "Tell me what I've seen as well"; **three things worth a fist** — a thing out of its place; a thing stopped that ought to be moving; a thing moving that ought to be stopped. Cael gives him "Noted" there (48:93).
+- **The boy and Lira (47:153–181).** He has had a sigil since he was fourteen and has never been without it; carters say that in such a place "it's like being a child again"; her account: the last step of a stair in the dark; it has never come back short; "Don't find out on a morning when somebody's shooting at you." On the first dry night he wrings the cloth for Teague's wrist out of his own cup of water and goes to his blanket dry (told by Lira, 49:15–19).
+- **Vastin on the leg.** He finds for himself how a stick keeps a file (47:11–13). At the hall's rise: "I have put my name to a good many papers which said that such a thing could not be … I am glad to have been spared the sight until I had left off signing" (47:265–271). His stick and the older healer's staff fall into one beat (48:23). At noon on the 303rd he says before he is asked that he will not stand a wall on day twenty-four, and that he does not know what he is for without it (49:33–49); Lira: "You can stand."
+- **The country east of the marsh (48:5; 48:9–39).** Every beck goes into the ground within a mile. Both living holds on the east road have their gates barred at noon and no head on the walk; the second lets down one bucket for the mule on a rope, for a copper. The dead hold's well is ten feet of steining on dry rubble: "That's what kills them, out here."
+- **The seep (48:131–143; 48:147–209; 48:213–285; 48:289–311).** A fold in the ridge's southern flank; a band of dark shale across it; a weeping ledge and a trodden pan under the band's western end; nineteen shale-backs, four of them calves. Teague: they lick the wet at first light and at dusk and mow along the band between; a Force shifted a block under a ledge herd on the cold road in Pike's time and "they found two mules" (this is Book 7's tale, with Teague now saying that he has stood where it was done). His rule for the fold: in by the west along the band's foot, never on the fall of the hill under a beast, two at a time, three steps and a stand, nobody steps quick near a calf. A skin takes more than six minutes at the drip. **The tall man stops the boy with a flat hand on the breastbone (48:197–209).** The read finds a bucket of water behind a loose leaf of shale; Pressure is wanted and refused; Brom draws the leaf with both arms; the tall man lifts his free hand from his knee and brings it down once. The old cow stands over them for the last skins. The mule drinks four skins from Oryn's canvas; the tall man and then the boy fetch four more at dusk; the bow takes one skin out of the boy's hand. Seln finds a keg's hoop and five made heels at the pan, the newest a week old: "a posting sends for its water."
+- **The name (49:77–83).** Teague has had it from three carters on a salt road two days north that looks down into the place from far off: a hole where the country's water goes, and a span over it, sunk in the dish. "The Sunken Span." He calls the hole "the sink".
+- **The fourth place's ground (49:85–97; 49:127–145; 50:3–9; 50:155; 50:231; 51:203–207; 51:261–267).** A dry ravine comes down from the north; for a hundred yards it runs along the outside of the fence, and the level strip between its lip and the irons is the shelf (a cart wide; the drop three men deep on the left hand going east; the irons on the right; the line a stride past them). Two squared timbers on trestles at the shelf's narrowest, forty yards in from its mouth; behind them five strides of width, a hut of turf and stone with a blanket for a door, a fire, a keg, a hide weighted with stones; at the east end the ravine bends inward and its lip comes to within a stride and a half of the last bar; beyond that gap a trodden path a pace wide goes on round the fence. The ravine cuts the fence there (the bars stop on one lip and begin on the other, twelve yards off) and runs to the middle. **The Span:** two piers of the grey rising out of the ravine's rock walls, with no course and no join, and an arch in one piece; on its back the grey comes up out of the turf a cart wide, with no kerb and no step, rises to a crown and goes down into the grass again; no wheel has marked it. Twenty yards beyond the arch the ravine's bed ends in a round hole as wide as a cart is long, with no bottom to be seen.
+- **The watch (49:95–111; 49:223–255; 50:9–27; 50:131–135; 50:219–225; 50:293–299).** Seven, hooded, faces tied even at night among themselves: two crossbows, four shod staves, one empty-handed practitioner whose Path is not named; he makes a point of white light the size of a fist and hangs it over the shelf, and calls, "This ground is posted. Stand where you are, and declare." He keeps the ravine's side of the shelf always and never comes within three yards of the bars. One of the seven has a wet cough; one walks the path two hundred paces east and back. Leaving, they take the broken bow and leave the sound one on the baulk, with a stave and their fire.
+- **Seln's reading of the iron (49:187–219).** Three ages in the fence: most bars scaled like the Stair's old stake; here and there a newer one driven into an old hole; and every thirty or forty paces a thicker bar under a heavier mallet's head, whose scale "had scaled again". All three kinds carry thirty-four with the stroke and bar. The path is a groove a hand deep in the shale. He thinks of the sheets that a posting of seven needs, and of "that house's hands"; the case is on his breastbone, shut; nothing about it is altered. "That made eight, with himself, for fifteen years."
+- **The fight's choreography inside the plan's four exchanges (50).** Positions: Seln in the grass above the path sixty yards east of the gap; the healers and the mule at the old ruts; nine at the shelf's mouth with Brom in front. *One:* two bolts on Iron under a buttoned coat — the breastbone and the left forearm; the neck and hands go "the colour of a slate that is drying after rain"; no sound. *Two:* Teague walks, since the Force wants three breaths of stillness; Cael keeps his left with the shortened watchman's stave from the alley (Seln's, handed over behind the brow) and takes the third stave across the left collar-bone without giving the stride; the tall man keeps the right with the ash crosswise and the steel high; both timbers and their trestles go a body's length back in one piece; five hoods go down; a crossbow's stock breaks under the lower baulk; nobody is under a timber; the wrist clicks and then the elbow. "Through" is Teague's, said to the place where the timbers stood (50:115–117). *Three:* the watch reforms behind the timbers where they lie, one bow spanned, the light relit; Teague cannot shut his right hand; he sees the width past the iron and asks Karis whether it is ground ("It is ground."). **(r1) Cael's entry, made in his head before a boot goes over, "in the tense that it would have to be true in afterward": *Nothing was gained inside.* (50:173–177; the sentence at 50:175). Teague then turns his head for the first time that morning and hands him the ground past the iron: "You've stood on three of them. I've stood on none. Say how." / "By count," said Cael (50:179–185).** Cael over first ("Grass"); Lira a stride in and a stride back ("Gone." / "Back. All of it." — "It's the same"); Karis; the boy when Teague looks at him; Vastin ("I am forbidden a wall. I am not, I think, forbidden to stand."). Sixty strides, two paces inside the iron; the watch's bow cannot turn without giving its side to Brom, the spear and the broad man's crossbow; the empty-handed man hauls back by the collar the one stave who starts for the iron. *The pinch:* eleven counts; **(r1) between two and three the empty-handed man calls "You'll die in there." across the iron, "as a person calls to a child on thin ice", and Cael answers "We've been in three times," for the crew that has stood on three such floors (50:253–259);** at four the watch's bowman looses at the broad man, the bolt takes his crossbow in the stock, his hip goes and a yard of rotten lip goes with it; Teague checks for half a stride and does not turn; the boy looks at Lira's boots and stays; at eleven the first stave is dropped and seven go through the gap singly. Seln counts seven through the gap and again over the second rise, a mile on (51:11).
+- **How the thirteenth comes (50:117–129).** Up through his own heels, out of the same stone, to the right hand, where it finds nothing to be laid against; "It lay along him from the heel to the palm, as a prop lies under a beam before the wedges are driven. Then it listened." It does not ask. It attends to whatever braced thing stands in front of him (the timbers; the ravine's lip; the grey of the Span's crown; a slab on the shale), and the old three ribs, low on the left, ache where its road would leave him.
+- **Costs carried forward.** The broad man's right shin (the good leg), broken in the ravine's bed; drawn straight on the older healer's board, knit by Oryn in a quarter of an hour, bound to the board in four turns of webbing; he walks on a trestle's leg from the 305th. Teague's right arm, wrist and elbow, in linen to the shoulder on a slat; he cannot feel the fingers. Brom: a round bruise the size of a saucer on the breastbone and a ridged one along the left forearm; Oryn will not spend on them ("You'll have a week of colours"). Cael: a welt across the left collar-bone, "a bruise on a bone", ten days. A crossbow with a bolt standing in its split stock.
+- **After the fall (50:307–367; 51:3–75).** The boy runs when Teague lifts two fingers and holds the broad man's head off the stones. Oryn asks; a nod; "I don't go in on a nod. I'll have it in a word."; the word is given and does not carry up the rock. The two healers nod, once each, across the leg. Vastin, coming out over the iron: "It is all there … To the grain." Brom carries the broad man's pack as the contract's second head ("I can carry what was on his back") and leaves three coppers of his own on the watch's keg for a skin of water. Cael to Lira: "Thirteenth. His. A line." / "It listens. I'd have liked it better if it asked." The tier in the fragment's lines is the thing that he once declined to read off that wrist at a marsh's edge.
+- **Teague's window (51:79–175).** He counts three by breathing and the spear by a shadow at the gap. The elbow has gone once before, "a long while ago, on a ledge". The bow to him: "And you never turned your head." / "If you'd turned, I'd have had something to say to you from the bottom of that hole"; "It's the good one"; of Oryn, "She asked me first. With my leg lying two ways." The boy asleep sitting, the dry cloth in his fist. Teague's reckoning: the boy "would go wherever he was looked at, a half-beat before he had seen what was there", and held at the grass by a girl's boots; "He would have to think about whose boots a boy watched." Of Cael: a left side kept with a stick and nothing else; "Teague could put that in a column." **Under the hide:** a sack and a half of meal, a bundle of bolts with no thread on their feathers, a mallet, a tarred cord knotted every few feet, and a dozen new bars, never driven, each stamped with two figures and the stroke and bar. He does not read it further; "It was not his to read."
+- **Noon at the Span (51:179–241).** Oryn at the irons, two fingers on Brom's wrist, asked first: "Four. The same." She will not be told how many "across a row of iron". Six go down: Karis, Lira, Brom, Seln, Vastin, Cael. The twelfth leans at the whole of the thing and is refused by counting bootlaces. On the crown: nothing; the thirteenth listens to the grey; the ribs.
+- **The notch (51:245–259).** Lira sees it from the crown: a gap low in the second ridge, square; "The brass goes through it. I'd lay my knife." Seln looks at it longer than either.
+- **The piers' inner faces (51:261–327).** Reached from the ravine's bed by a rib of rock on the western side; five courses to the height of a man, in the floors' hand, unworn; Karis draws nine sheets in two hours on a board of Brom's, with a tick where each run ends. **The lowest course of the west pier has fifty-two signs; Cael counts fifty-one, twice, and fifty-two with Lira's finger beside his** (the Book 11 plant; ruling *hold*, 51:351). The twelfth takes that course for a breath: *Goes*, eastward, out of the face toward the other pier. Karis can turn one group in the second course and reads it off the stone once: "Through" (51:329). (r1: she looks under the hide and comes back saying nothing; she keeps no bar.)
+- **The 304th's log (51:335–353).** After the fixed text Cael sees that he has written *tomorrow* for three days and lets it stand: "It was not a true count; it was the truth about how near the thing had come."
+- **The 305th's road (52:3–37).** The tall man cuts the broad man's stick out of the watch's trestle. The file goes round the outside of the iron by the trodden path; from the far side the road on the Span's back lies end-on and the same line runs out to the gap. A captain's pace "that a child could have kept"; two sticks at the back that stop within a breath of one another and never look round. Stepped shale with a thin red moss and no water. Camp in the middle of the afternoon under a step a man's head high, with forty yards of flat before it and the gap four or five miles off. Seln goes on alone.
+- **The blanket (52:41–101).** Brom's blanket, twenty yards upwind of the fire. In the middle the hide, turned until its pencil line runs at the gap, the Ternhall brass upon it; one sheet from the Fallow, three from the Stair, one from the hall and the nine of the piers, each turned to lie as its wall stood (she had noted on every sheet which wall and which way it faced); the flat at the head with its six rows; her notebook at the list, Cleon's roll and the sheet of three boxes at the foot; the fair copy from Cael's coat at one corner, folded, under a pebble, not opened. **The lean:** kneeling to hold a corner, Cael has the twelfth take all fourteen sheets in a breath: *Goes*, every run, one way, along the brass, east. **(r1)** He has it by the brass: whatever leans on the blanket lies with that strip and nothing goes across it; "They go east." He tells Karis, Lira and Brom (Vastin is at the fire). Karis enters it as his, as one unchecked glance — "that the rows agree with the brass, and which way" — and will not ask for a second. Lira offers "Then they point on … Each one at the next"; Karis refuses it: "*The next* is yours, and I shall not enter it … Going east, the next is the older, every time … A thing that leans at what was there before it may as well be looking back as going on. I have that they lie one way. I have not what for." (52:77–97).
+- **The corner (52:105–157).** The two signs in the corner of the two-bar sheets are two of the twenty-three letters: the first letters of a year's number-words, as the old town's clerks headed a page when short of room; an office's clerk has copied them forward "as he would copy a blot". **(r1)** She says that she has exactly one other year in that count, at the head of a thing that she read aloud once; she lays nothing beside anything, does not turn back a leaf, and says only that she will work it that night, alone, and say a figure once. "The office wrote down that this place is older than two hundred and six, by leaving the figure out. That is as much as the corner has said aloud." **The thumbnail ring** goes round the prick; "I shall ink that when I have had a cord round it." Vastin reads the oldest row standing ("I have never read a paper standing that I did not afterward wish I had read sitting").
+- **The lamps finding's ground (52:161–221).** A ruled table kept since the Fallow: who crossed, what each carries, of what rank, and the stride; three ranks of Iron, a Copper, a Bronze, and since the 304th the boy and "a man who signed for other people's for forty years"; she has asked six people beside herself. The same stride for every one, whole, no dimming, back whole. After Vastin's stopped sentence and her rule she tears the ruled leaf out and carries it the length of the blanket to the corner farthest from the folded paper: "Two pages … Whoever wants a line from the one to the other will have to find something to rule it with." **Cael's third page** (52:213–221): the technician's sheet lies at the foot of the second row; he does not know to which corner it would lie the nearer, and keeps it off the wool. Nothing is said or written.
+- **The two slips (52:225–285).** Folded small and pinned under the knot of the oldest row's tape; a wafer of red wax on the directive and a broader, nearly black one on the objection, with different impressions. **(r1)** Brom: "Who's the somebody else? … who it is that can say no to a thing like that, and put wax on it." Vastin: "The Compact," — he hears how that sounds, and looks at the two wafers — "Yes. Part of it." (52:255–261). Vastin knows both seals at a glance and will not name them ("I should have drafted nine. I can feel all of them."). Karis pins them back where they were and enters the day, the place, and "read aloud and understood in part".
+- **One fire (53:3–71).** Wood for one, carried by the boy from the watch's stack; seven bowls and five. Vastin moves the foot of his stick a hand to the left: "I am informed that the ground falls away on that side." The two sticks stand in one crack. **The healers' third exchange:** the older woman holds two turns of her own webbing apart and Oryn's hands go in under them. Teague to Cael: "You kept my left … I never had the place behind my shoulder stay so full."
+- **Force, dry (53:75–151).** Behind the step's corner: the right heel on a rib of rock, the right palm on a fallen slab, a body's length apart; the line found by moving the hip a finger's breadth; the thing "standing, as a prop stands when the weight has come onto it"; the ribs give "one clear line of warning … such as a cracked board gives". Three reasons for not letting it go: never fired, and a camp forty yards off; the ribs unread for this; its owner round the corner, not told. Lira: "You looked like him." Brom has the read and the thirteenth said at last: "you'll pay it when it can be paid, and not a day sooner."
+- **Karis's night (53:155–229).** **(r1)** She works the reduction on the lid, twice, and the page does not count with her: "a year that is written by its first letters is a year with a door left open in it"; her entry is "*not shown to be the same year; shown to be near it.*"; she will say the figure to the nearest hundred, and "or near it", once. Being believed is heavier than not being believed. The ruled leaf and her copy of the skin lie on the lid with a hand's breadth of bare wood between; she knows that a sentence exists and that it is six words long, as she once knew the length of a word under a glove; she covers the wood with her bound hand, does not say it, and writes: "*Second page: nothing entered. Not for want of a pencil.*"
+- **Seln on the gap (53:233–261).** A gap in a ridge, square because both walls are rock; a dry bed going in; the only way through for five miles on either hand; he lay a mile off until dark and saw no fire, no person and no heel-mark. "A watch that I can count is a watch that I can plan for." Teague will not move a stick until he has looked again from nearer at first light.
+- **Roles (all unnamed):** the keeper of the hold south of the cairn; the man on a bay; the people of the two barred holds; the seven of the watch (the empty-handed man; the two bowmen; the four staves, one with a cough); Teague's tall man, bow (the broad man), boy (the young one) and old woman; the miller's man (spoken of).
+
+### State at movement end (author; governed by the rulings above and by the surviving prose)
+**Calendar.** The night of the **three hundred and fifth day past the Line**, on a shelf of shale under a step, four or five miles short of a square gap in the hills to the east, a day's walk past the fourth place. Days on the page: 299 (the ridge; the Stair's brow; the beck), 300 (the cairn at noon; the track; the hall's marsh at dusk), 301 (the east road; the dead hold), 302 (the chock-stones; the ridge; the seep; the hollow), 303 (the ridge; the brow at dusk; the fold; Seln's night), 304 (the shelf at first light; the ravine's bed; the hut; the Span at noon; the watch's fire at dusk), 305 (round the fence; the shale; the blanket; one fire; the step; Karis's lamp; Seln's return). No season, month or weekday name; no figure for the technician's date; no count of years since the Kindling.
+
+**Where everyone is.** Twelve and a mule in one camp under the step, at one fire in two halves: Cael, Lira, Brom, Karis, Seln, Vastin; Teague, the tall man, the broad man, the young one, the older healer; Oryn and the brown mule. Seln is back from the gap and is to look again at first light; nobody moves until he has. Cleon is under Treswick. Pike is at Lowmarch. The watch's seven went east along the perimeter path on the morning of the 304th and have not been seen since.
+
+**Cael.** Nineteen. **Thirteen fragments. Deployment since the Line thirty-three** (thirty-two, and the read at the seep on the 302nd). The thirteenth (Force-adjacent, from Teague, at the timbers, at a stride) is unused; he has lined it dry once and taken his palm away; he knows that its cost would come out at the old three ribs, low on the left, and has that to tell Oryn "when she'll hear it". **Teague is not told**; the debt is entered beside the first (Vastin's). He has told Lira; Brom has it from her. The twelfth has taken two unbidden looks (the west pier's lowest course; the blanket) and been refused twice; never inward; never on a person. **The two words are still told to no one.** He stood on the Span's crown at noon on the 304th: nothing. He kept a captain's left for three breaths with a stick and opened nothing; he stood inside the line at the pinch with the eleventh asking and the thirteenth listening and told both no. He drew the shelf for Teague and asked one term of his field. He counted a course of fifty-two as fifty-one, twice (ruling *hold*). He has not put the date on any page; he has not written his own third page. He made the entry *Nothing was gained inside* before the crossing, gave "By count" for the ground past the iron when Teague handed it to him, and answered the watch's call ("We've been in three times"). He has heard Karis fix the point and say the figure, once, at the close. He has not touched the cord (a hundred and thirty-seven days on the 305th) or opened the dividers. Body: a stave's bruise on the left collar-bone, ten days from the 304th; the ribs talk when the thirteenth has ground; eyes paid on the night of the 304th and to be paid for the blanket.
+
+**Lira.** Wind; Iron, Rank One. No burst. The arm is an arm. She read the herd beside Teague, walked Cael in and out under it, went a stride over the fourth line and back ("It's the same"), stood in the row of five, and did not move her feet when the broad man fell. She coaches the boy and is watched by him. She knows the thirteenth and that Teague is not told; she saw the dry stance. She does not know the two words.
+
+**Brom.** Iron Skin; Copper. **He went grey at the shelf on the 304th and took two bolts** (breastbone; left forearm): two bruises, a week of colours, not mended. Both arms to the shoulder; he drew a leaf of shale with them at the seep and broke a rafter at the dead hold. He carries the broad man's pack on the mended shoulder. **The purse: a hundred and twenty-three.** He laid three coppers of his own on the watch's keg. His week under Oryn's eye ended on the 305th.
+
+**Karis.** Ember; Iron, Rank Three; no point struck. She has: the cord's figure at the Stair confirmed; nine sheets of the piers' inner faces; one word turned on the west pier ("Through"); the agreement of fourteen sheets' rows with the brass, and which way, entered as Cael's and unchecked (she has refused "the next"); the two corner signs read as an old-style year, which her night's reduction shows to be near the skin's year and does not show to be the same; the point ringed with a thumbnail; **the lamps finding**, said aloud and filed on a leaf torn from her notebook, which is now in the back of that notebook with the line "Second page: nothing entered. Not for want of a pencil."; the two slips entered as present, under two unlike seals, unnamed. She has said the figure once, to Cael, at the close. She said "They knew" on the brow. She knows that a six-word sentence exists and has not said or written it. She still has not said the office's compass point or its figure in lengths aloud. Left palm in linen; she writes; she carried a box one-handed.
+
+**Seln.** Shadow; Bronze. He read three ages of iron in the fence and the watch's habits from the grass; counted seven out; looked at the gap from a mile and saw nothing, and does not like it. He has seen a keg's hoop and five made heels at the seep. He gave the watchman's stave to Cael. The case is on his breastbone, shut; nothing about it is altered; not mentioned aloud.
+
+**Vastin.** No office; no age stated. **Right knee: day twenty-six of thirty on the 305th**; Oryn's linen and two laths; stick; he walked the whole leg in the file, a stride behind Brom. He said on the 303rd that he would not stand a wall and did not. **He stood inside the fourth line on the 304th, fifth of five; the sigil went out for the first time in his life and came back "to the grain".** He has said "Noted" a third time (to Karis's two pages). He began the sentence about the apparatus and the sigils and was stopped. He read the oldest row through, found the two slips, read both aloud, said that the objection came from the Compact, "part of it", knows both seals and has named neither; he drafted nothing. He made room for the broad man's stick. He does not know the mechanism, the eleventh (his own), the twelfth, the thirteenth, the two words, the date, or that the lean of the rows was seen. He has not asked to join and nobody has spoken of it.
+
+**Oryn.** Tide; Iron, Rank Four, provisional. **Five days past the cairn on the 305th** (she looked up her road once at noon on the 300th and walked on east; her reasons were a shoulder's week, a knee, and an untested edge). She knit the broad man's shin on the 304th, asked first and answered in a word, and was grey for a quarter of an hour; she read it again on the 305th inside the older healer's binding. She counted Brom over the fourth line: "Four. The same." She would not spend on Brom's bruises or be told the count of fragments across the iron: **she has not been told of the thirteenth.** She has not heard the leaf; she was at the fire, not the blanket. Nobody has died under her hands. Three holds are still owed, with word sent.
+
+**Teague and his crew.** His right arm is in linen to the shoulder on a slat; the wrist and the elbow went at the timbers; Oryn has warned him that a third time means a splint. He said "Noted" for the first time on the 303rd (to Cael's term) and a second time on the 304th (to Oryn). He handed Cael the ground past the iron ("Say how."). He did not turn when the broad man fell, and has told the broad man why. He thanked Cael for his left side. **He does not know that anything came to Cael at the timbers.** He knows what lies under the watch's hide and has left the reading of it to Karis. The broad man: right shin knit and bound to a board; a trestle's leg for a stick; his crossbow's stock split; he has said "Aye" to Vastin and to Oryn and nothing else to any of the six. The tall man has said nothing to any of them; he stopped the boy with a hand at the seep, kept Teague's right at the timbers, cut the stick. The young one: stepped over stake thirty-four fourth ("Four"), stood at the pinch, held when the broad man fell, ran when he might; he walked the seep at dusk. The older healer has spoken to none of the six; she set the shin and nodded once to Oryn. **Teague's four have seen:** five people stand inside the line and come out whole; a boy with a stick. **They have not been told:** the mechanism, any fragment, the leaf, the list, the lamps finding, the two slips, the date, who Vastin was, or the doctrine "behind it". No wall has been drilled or stood.
+
+**The watch.** Seven, hooded, faceless, unnamed, one with a Path that throws light. It saw: a big man take two bolts on Iron; a Force put a barricade a body's length; five people cross the iron, walk sixty strides inside it, and stand; an old man on a stick among them. **It saw nothing work inside the line, and no light, crack or named thing from either crew.** Nobody was killed or taken. It went east.
+
+**Objects and money.** **127 → 123** (the 300th: four marks at a hold's gate for two water-skins, meal, a cheese and corn). No other spending from the purse. Coppers, kept apart from it as the closed text keeps them: one for the mule's bucket on the 301st; three of Brom's own on the watch's keg. The reserve is sealed in the third box. On the mule: three boxes (the fifty-two sheets, with fourteen of them and the nine new ones handled on the 305th and put back), the flat, meal, Oryn's pannier and canvas. With Karis: the hide with its pinned sheet (the prick now ringed with a thumbnail, uninked), the Ternhall brass, her notebook (the torn lamps leaf in its back), Cleon's roll, the sheet of three boxes, Vastin's copied page, nine sheets of the piers. With Cael: Hesk's book, the dividers shut in it, the fair copy of the leaf (laid on the blanket folded and returned). With Vastin: the tarred kit case (cord, mallet, stake thirty-two, never driven; the cord was used at the Stair by Karis and put back). The two slips are pinned again under the knot of the oldest row's tape, in the flat. Left at the watch's post: its hut, fire, keg, meal, bolts, mallet, cord, a dozen new bars, a sound crossbow on the baulk, a stave. Ten water-skins between the crews (two bought on the 300th).
+
+**Who knows what.** The mechanism: six, as before; Cleon knows how one fragment came. **The thirteenth: Cael, Lira, Brom** (Karis and Seln by Lira or the log; not staged); not Oryn, Teague or Vastin. The two words: Cael alone. The lean of the rows: Cael, Karis, Lira, Brom. The corner's year and the ringed point: the five at the blanket and Vastin; the figure itself, Karis and Cael (said once, at the close). The lamps finding: Karis, Cael, Lira, Brom, Vastin; nobody has laid it on the leaf, aloud or silently. The two slips: the same five; the seals' owners: Vastin alone. The date: Cael and Seln, each alone, unchanged. The short row: Cael, Karis, Lira.
+
+**Open threads.** A gap in the hills where seven went and nothing shows. A thing that listens and has never been let go, whose owner is forty yards off and not told. Two debts of one kind. A healer who has not been told a count, and has ribs to hear about. A sentence six words long that is in nobody's book. A third page that was kept off a blanket. Two seals that one man can name. A ring in a sheet of paper with no ink in it, two days off. A boy who goes where he is looked at. A captain with one arm. A week that ended today, and a healer who is still here.
+
+### Next-movement inheritance (Sol plan audit §8; also written into the next packet)
+Movement 9 must inherit the following surviving particulars in addition to its packet:
+
+- **Fragments and knowledge:** thirteen fragments; **deployment thirty-three** (coordinator ruling: the read at the seep on the 302nd stands and is counted). The thirteenth is Force-adjacent from Teague, partial Bronze, unused; it listens along a braced heel-to-palm line and costs back along that line. Cael, Lira, Brom, Karis and Seln know of it; **Oryn has NOT been told** (coordinator ruling: fix 25 declined — she refused the count at the fence on the 304th, and Cael means to tell her when she will hear it); Teague and Vastin do not. Teague is the second unpaid acquisition debt, beside Vastin. The twelfth has leaned outward at the west pier and at fourteen made sheets, never inward here. The two words *still/set* remain Cael's alone (`chapter-50.md:121–157`; `chapter-51.md:55–75,311–351`; `chapter-52.md:71–101`; `chapter-53.md:75–151`).
+- **What went east:** seven hooded watch members left singly with a day's start. They saw Brom take two bolts on silent Iron, Teague move the barricade with silent Force, and five people—including a boy and an old man on a stick—stand and walk inside the line. They saw nothing work inside and nobody die. They carried the broken bow; the sound bow and one stave remained at the post (`chapter-50.md:35–65,99–105,181–301`; `chapter-51.md:7–11`).
+- **Bodies:** the broad man's right shin is knit, boarded and stick-bearing; his crossbow stock is split. Teague's right wrist/elbow are in linen to the shoulder on a slat and the hand is unreliable; a third use would mean a splint. Brom has a breastbone bruise and ridged left-forearm bruise through a week of colours. Cael has a ten-day left collar-bone welt. Vastin's right knee is day twenty-six of thirty. Two men—Vastin and the broad man—are on sticks (`chapter-51.md:15–37,79–175`; `chapter-52.md:3–9`; `chapter-53.md:17–67,265`).
+- **Teague's crew:** they know five people crossed and stood whole and that a boy did it with a stick; they do not know mechanism, fragments, leaf, lamps page, slips, date, Vastin's former office, or “behind it.” The young one follows where he is looked at; the tall man and older healer still have not spoken to the six (`chapter-50.md:181–299`; `chapter-51.md:79–175`).
+- **Three record objects/pages:** (1) Karis holds the torn lamps-finding leaf in the back of her notebook, filed on its own; (2) Cael holds the folded fair copy of the chamber leaf in Hesk's book/coat, still not quoted; (3) the technician's sheet remains at the foot of the second row in the flat, its deep-layer date known separately to Cael and Seln and said/written by neither. No line joins (1) and (2), and Cael added no page of his own (`chapter-52.md:181–221`; `chapter-53.md:263–275`).
+- **Map point and notch:** the fifth point is a thumbnail ring around the prick, uninked until corded. The bearing runs through the square notch; Seln looked from a mile, saw no fire, person, movement or heel-mark, disliked the absence, and will look again from nearer at first light before Teague moves (`chapter-52.md:149–157`; `chapter-53.md:233–261,281–289`).
+- **Oryn:** five days past the noon-300 cairn; she stayed for Brom's week, Vastin's knee and the large edge, with three holds still owed and word already sent. She has not heard the chamber leaf. She does NOT yet know of the thirteenth or of what it would cost his ribs (coordinator ruling), and does not know *still/set* (`chapter-47.md:195–245`; `chapter-53.md:25,265`; fix 25).
+- **Seln:** he has looked at the pass and said only “I looked at it.” His case remains shut on his chest, contents unnamed (`chapter-49.md:187–219`; `chapter-53.md:233–261`).
+- **Day, bodies, money and load:** night of the 305th; twelve people and the brown mule; purse 123; no purse spend after the four marks. The mule bears three boxes, the flat, meal, Oryn's pannier and canvas. Karis has the hide/pinned sheet, brass, notebook, Cleon's roll, three-box sheet, Vastin's copied page and nine pier sheets; Cael has Hesk's book, shut dividers and folded fair copy; Vastin has the tarred kit case with cord, mallet and never-driven stake thirty-two. The two slips are re-pinned under the oldest row's knot, seals unnamed (`chapter-52.md:41–69,225–283`; `chapter-53.md:263–289`).
+
+**Movement 8 CLOSED (2026-10-12).** Chapters 47–53, days 299–305, 37,134 words. Same-author repair r1; Sol recheck (gpt-5.6-sol, 346k tokens): CLOSE, no line fixes — every protected unit whole, once and on the ruled speaker; all former joins the author's own; the tracked passage RESOLVED; every ledger bullet borne out; overlap 0 unprotected / 20 protected; gates 0; every chapter inside the three working ranges. Thirteen fragments; deployment thirty-three; purse 123; nobody dead. Text is closed for the movement, NOT locked: the book's completion pass may still touch it.
+
+---
+
+## PROJECT EVIDENCE — universe/CANON_RULES.md
+
+# CANON RULES — The Fractured Path
+
+Canon status markers used throughout all planning documents.
+
+---
+
+## Status Definitions
+
+**LOCKED**
+Established fact. Cannot be changed without cascading revisions across multiple documents. Treat as fixed. If a locked fact conflicts with a new idea, the new idea must adapt, not the locked fact.
+
+**PROVISIONAL**
+Working assumption. Likely correct and consistent with locked facts, but the specific details may shift during drafting. Flag in writing so the detail can be confirmed or revised before the book is finalized.
+
+**SECRET**
+True information that exists in the planning layer but is not known to characters (or not known to the reader) at the point indicated. Secrets have a reveal book where they become known. Before the reveal book, they must be planted — not disclosed.
+
+**OPEN**
+Genuinely undecided. The planning layer acknowledges this question exists and deliberately does not answer it yet. Open items must be resolved before the relevant book enters chapter architecture.
+
+**RUMOR**
+Information that exists in the story world but is incorrect, distorted, or deliberately falsified. Used to track what characters believe vs. what is actually true. Rumors must be traceable to their source.
+
+---
+
+## Using Status Markers
+
+Every significant fact in a series bible or universe bible should carry a status marker. Format:
+
+> **LOCKED:** The Path system uses seven tiers.
+
+> **SECRET (reveals Book 9):** The Architect built the system to suppress Fractured Paths, not organize existing potential.
+
+> **OPEN:** Whether Warden Coss survives the series.
+
+> **RUMOR (source: Compact Registry):** [SHATTERED] classifications indicate dangerous instability.
+
+When writing chapter architecture, check the relevant universe bible and series bible entries. If a scene requires disclosing a SECRET before its reveal book, flag it explicitly and return to the planning layer before drafting.
+
+---
+
+## Reveal Schedule
+
+The following secrets have locked reveal books. Do not disclose earlier.
+
+| Secret | Reveal book | How it's revealed |
+|---|---|---|
+| The Fractured Path can integrate witnessed abilities | Book 3 | Cael uses Lira's Wind ability in combat without thinking |
+| The Fractured Path predates the classification system | Book 8 | Ancient records in edge-territory ruins |
+| The Compact falsifies Path classifications | Book 6 | Seln's intelligence cache |
+| The Arbiter system is the Architect's infrastructure | Book 9 | Fractured Path practitioner's tomb |
+| The Architect's will is active and hunting Cael | Book 11 | Direct encounter |
+| The Architect's true motivation (not malevolent) | Book 13-14 | Direct confrontation |
+| The Fractured Path is primordial — what all Paths were | Book 13 | Cael achieves full integration |
+
+---
+
+## Planting Requirements
+
+Every SECRET must be planted before its reveal. Minimum planting requirements:
+
+| Reveal book | Earliest plant | Minimum plant count |
+|---|---|---|
+| Book 3 | Book 1 | 1 plant |
+| Book 6 | Book 3 | 2 plants |
+| Book 8 | Book 5 | 2 plants |
+| Book 9 | Book 6 | 2 plants |
+| Book 11 | Book 8 | 3 plants |
+| Book 13-14 | Book 10 | 3 plants |
+
+Plants are tracked in each book's chapter architecture under the heading `## Clue / Plant Ledger`.
+
+---
+
+## Continuity Checkpoints
+
+At the end of each book's chapter architecture, a continuity checkpoint must confirm:
+
+- [ ] No SECRET disclosed before its reveal book
+- [ ] All OPEN items from this book identified and flagged for resolution
+- [ ] State ledger updated: Cael's ability list, companion status, antagonist status
+- [ ] Any PROVISIONAL facts used in this book confirmed or flagged as still provisional
+- [ ] Plant ledger: all required plants for future reveals present in chapter architecture
+
+---
+
+## PROJECT EVIDENCE — universe/UNIVERSE_BIBLE.md
+
+# UNIVERSE BIBLE — The Fractured Path
+**Canon status: LOCKED unless noted**
+**Last updated: 2026-08-25**
+
+---
+
+## The World: Valdris
+
+A single continent of tiered city-states. Physical geography is not unusual — mountains, plains, coastlines, edge territories — but the governing structure is entirely organized around the Path system. Every settlement above a village has concentric tiers of access: outer districts for low-rank or unranked citizens, inner districts for higher ranks, with the administrative core accessible only to Bronze and above.
+
+The spaces between city-states are called the **edge territories** — ungoverned, monster-populated, and the only place in Valdris where rank means less than survival skill. Most people never go there. The companions spend the entire third arc there.
+
+**PROVISIONAL:** The edge territories contain ancient ruins that predate the current Path system. What the ruins were for, and who built them, is a major discovery of Arc 3.
+
+---
+
+## The Path System
+
+**LOCKED:** The foundational civic and metaphysical structure of Valdris. Every human being in Valdris has latent Path potential — an internal energy architecture that becomes active at age 14.
+
+### Kindling
+
+At age 14, every person undergoes Kindling: the moment their latent Path potential activates. Kindling is involuntary — it happens regardless of whether the person is ready. An **Arbiter** appears at the moment of Kindling: a small glowing sigil that only the Kindling person can see and hear. The Arbiter evaluates the person's internal architecture and assigns their Path classification.
+
+The classification is recorded in the Compact Registry — the official continental record of all Path holders — and is effectively permanent. Classification cannot be appealed, reassigned, or removed.
+
+### The Tiers
+
+**LOCKED:**
+
+| Tier | Color | Population who hold it | Notes |
+|---|---|---|---|
+| Copper | Dim orange | ~60% of active practitioners | Entry tier; most adults plateau here |
+| Iron | Silver-grey | ~25% of active practitioners | Journeyman level; professional fighters, tradespeople |
+| Bronze | Warm gold | ~10% | Guild officers, minor academy graduates, respected figures |
+| Silver | Bright silver | ~4% | National-level respected; academy honors graduates |
+| Gold | Deep amber | <1% | Regional events; legendary status while living |
+| Platinum | White-blue | Historical figures only | No living Platinum holders as of Book 1 |
+| Void | Unknown | Mythological | Not confirmed to exist by the general population |
+
+Each tier contains ten ranks (Rank 1 through Rank 10). Rank 10 is the threshold for advancement to the next tier. Advancement requires both rank accumulation through use and a formal evaluation by a registered Arbiter station.
+
+### Ability Acquisition
+
+As a practitioner advances through ranks, new abilities manifest — presented by the Arbiter as visible ability declarations, experienced as text-like constructs in the practitioner's perception. These are called **Path declarations** and are specific to the practitioner's Path type.
+
+**Example format (Iron-tier Blade Path practitioner):**
+
+```
+PATH DECLARATION — IRON RANK 3
+[Edge Instinct] — Passive. Your reflexes respond to drawn steel within 6 meters before
+conscious thought. Movement penalty negated in first exchange of any combat.
+```
+
+Declarations are private by default — only the practitioner sees them. Sharing them is possible but considered intimate.
+
+### City Access by Rank
+
+**LOCKED:**
+
+| Rank tier | City district access |
+|---|---|
+| Unranked / [SHATTERED] | Unranked Districts only; cannot legally enter inner city |
+| Copper | Outer districts; limited market access |
+| Iron | General city access; guild district access with credentials |
+| Bronze | Full city access; administrative district entry |
+| Silver | All districts; inter-city travel credentials |
+| Gold | Continental access; diplomatic consideration |
+
+---
+
+## The Guilds Compact
+
+**LOCKED (existence); PROVISIONAL (internal structure)**
+
+The continent's dominant institutional power. Ostensibly a confederation of professional Path guilds — Blade Guild, Storm Guild, Ember Guild, etc. — that standardizes Path training, certification, and inter-city commerce. In practice, the Guilds Compact controls the Compact Registry, sets advancement evaluation standards, and has had quiet administrative authority over the Arbiter system for the past two centuries.
+
+**SECRET:** The Guilds Compact has been falsifying Path classifications for political control since its founding generation. Practitioners who would naturally develop abilities threatening to Compact interests are reclassified into lesser Paths. The falsification is subtle, hard to detect, and has been operating for so long that most current Compact officials believe the system is legitimate.
+
+**SECRET:** The Compact does not know about the Architect. Their control of the Arbiter system is a second-order effect — they learned to manipulate the interface, not the underlying architecture.
+
+### Archmarshal Vastin
+
+**PROVISIONAL (character arc)**
+
+The Compact's senior enforcement officer. Age 51 at Book 4. Silver-tier, Iron Wall Path — exceptional defense and institutional authority. Appears in Book 5 as a legitimate authority figure, becomes the Compact's direct antagonist in Book 6, and by Book 9 has switched sides when he understands what the Architect's will is actually doing.
+
+His arc: the man who enforced a corrupt system for legitimate reasons, and what he does when he understands the system is far more corrupt than he knew.
+
+---
+
+## The Fractured Path
+
+**LOCKED (existence and surface mechanics); SECRET (true nature — revealed progressively)**
+
+The classification [SHATTERED] has appeared in the Compact Registry four times in recorded history. In each prior case, the practitioner was eliminated within weeks of Kindling. The official records describe all four as dangerous instabilities who posed systemic risk.
+
+**SECRET:** All four were eliminated by the Guilds Compact on Architect-system instruction. The Arbiter system flags [SHATTERED] classifications to a deep-layer protocol that the Compact inherited without understanding it. When a [SHATTERED] appears, the Compact receives pressure — administrative, social, legal — to resolve the anomaly. They have always complied. Until Cael survives long enough to make compliance difficult.
+
+### What the Fractured Path actually is — revealed in layers
+
+**Book 1-3 (what Cael believes):** His Fractured Path is a collection of unrelated ability shards — fragments of multiple Paths, none complete. The shards work, individually, but he has no Path declaration sequence, no tier advancement, no Arbiter guidance.
+
+**Book 4-6 (first real discovery):** The shards can integrate witnessed abilities. When Cael observes another practitioner use a Path declaration, he can absorb a version of it into his own shard structure — permanently. It is not copying. It is closer to digestion: the absorbed ability becomes native to his architecture, not a foreign element.
+
+**Book 7-9 (second discovery):** The Fractured Path predates the classification system. Ancient records from before the Compact use a different word for Cael's condition — not [SHATTERED] but [UNBOUND]. The distinction matters: [SHATTERED] implies breakage. [UNBOUND] implies the absence of a container that was never supposed to be there.
+
+**Book 10-12 (the Architect's confirmation):** The Architect's preserved will, now active, confirms the truth by trying to eliminate it: Cael's Fractured Path is what all human Path potential looked like before the Architect designed the classification system. The system was not built to organize existing potential. It was built to contain and cap it.
+
+**Book 13-15 (full understanding):** The Fractured Path is the primordial source — the raw, unlimited, individual potential that existed before anyone decided it needed to be structured. Cael is not an aberration. He is what everyone would be if the system had never been built.
+
+### Fractured Path mechanics — visible to reader
+
+Cael does not receive standard Path declarations. Instead he receives what he privately calls **fragment notices** — irregular, incomplete, different in format from the standard Arbiter declaration:
+
+```
+FRAGMENT ACQUIRED
+[unnamed] — Wind-adjacent. Duration: undetermined. Integration: partial.
+Tier equivalent: unknown.
+```
+
+As he advances through the series, the fragment notices become more complete, more named, and eventually begin to look like declarations — except they span multiple Path types simultaneously, which is structurally impossible under the standard system.
+
+---
+
+## The Arbiter System
+
+**LOCKED (existence); SECRET (true nature)**
+
+Arbiters are experienced as personal spiritual entities — small glowing sigils, unique to each practitioner, that appear at Kindling and remain accessible throughout a practitioner's life for advancement evaluation and Path guidance.
+
+**SECRET:** Arbiters are not spiritual entities. They are interface nodes to the Architect's underlying system — an ancient constructed architecture that pervades Valdris below the level of human perception. The Architect designed and deployed this architecture before recorded history. Every Arbiter in Valdris is a terminal to a single system.
+
+**SECRET:** The Arbiter system has a deliberate flaw: it cannot evaluate [UNBOUND] / [SHATTERED] architecture. The Architect built in an automatic flag and elimination protocol rather than an evaluation pathway — they did not believe a Fractured Path practitioner could survive long enough to require one.
+
+---
+
+## The Quieting
+
+**PROVISIONAL (mechanism); SECRET (source)**
+
+First observed in Arc 3. Ancient sites in the edge territories where Path abilities cease functioning — where Arbiters go silent, where Path declarations cannot be invoked, where practitioners experience their potential as inaccessible. The Quieting spreads across Arc 4.
+
+**SECRET:** The Quieting is not a natural phenomenon. It is the Architect's preserved will beginning to prime Valdris for a systemic reset — a reversion of the Path architecture to its original design parameters, which would eliminate all current practitioner classifications and rebuild the system from scratch. The Architect's reset protocol treats current practitioners as acceptable collateral.
+
+**SECRET:** The Quieting cannot affect Cael's Fractured Path because the Fractured Path does not run through the Architect's system. It is prior to it.
+
+### Observable mechanics — PROVISIONAL, on the page from Book 7 (Void Roads), 2026-09-04
+
+What the edge territories call *quiet ground* and what Karis names *the Quieting* (B7 Ch15). Everything below is shown, measured or paced in Book 7's prose; nothing about SOURCE is disclosed or theorized there.
+
+- **Perimeter:** a perfect circle. Paced with cord at the Fallow Ring: sixty-two cords of twenty metres and twenty strides — a two-hundred-metre radius (B7 Ch10). Same radius at the Long Stair and the Drowned Hall (the Compact's own survey ledger carries the radius line). **The fourth site is twice the radius — four hundred metres — and cordoned in numbered Compact iron a pace apart; not entered (B7 Ch23).**
+- **The line is sharp, not a gradient:** a stride inside, the Arbiter is dark and no declaration renders; a stride outside, it is back — practitioners describe the return as a clock resuming (Lira's clock). Every Arbiter in a party fails identically, at the same stride, one way and back the same, regardless of Path or tier (B7 Ch10–11, Ch18, Ch21).
+- **Inside**, a practitioner is exactly what body and training make them: Lira still runs, Brom is still large, Karis knows where a lattice would go and cannot ignite it, Seln is still a professional, a Tide healer can set a bone and cannot mend one.
+- **The Fractured Path is unaffected** (LOCKED consequence, shown never explained): all ten fragments function inside; five companions know; the Compact does not (the Stair's rim saw a declaration on the way out, nothing inside — B7 Ch19).
+- **Central structures:** fused grey stone floors — circular, level, lipped, seamless, older than any masonry Karis can date — each with a different superstructure: a ring of broken uprights (the Fallow Ring); a stair descending to a ten-stride carved chamber (the Long Stair); a hall half-drowned in a spring (the Drowned Hall); the fourth, larger, standing, unseen whole. Carved lines on every one, copied (52 sheets by book's end) and unread.
+- **Sites lie on one alignment.** Three centres to a stride and a fourth near enough sit on a single straightedge; a Compact surveyor's bearing runs the same line ("Three points make a line. Four make an argument." — B7 Ch23). "Someone made this pattern." (Karis, B7 Ch24) — unanswered on the page.
+- **The Compact knows quiet ground exists and surveys it** (registry-stamped stakes, a kit, a cord, a field ledger with an index of forty-one kinds and a stroke-and-bar mark, recovered B7 Ch20; the fourth site's cordon says they have been there more than once). The Compact has been suppressing Quieting data for six years (Book 8's material) — Book 7 shows only the fieldwork, never the policy.
+- **Fauna den inside** because prey that walks into quiet ground cannot answer (stillhounds, B7 Ch10–11); the Hall's water holds a thing that hunts what stays (the wold-wyrm, B7 Ch21).
+- **Locals** know it as folklore-with-teeth: the void roads skirt it, carters carry crossbows through it, nobody has mapped it.
+
+---
+
+## The Architect
+
+**LOCKED (existence by Book 8); SECRET (nature and intent until Book 13-14)**
+
+The entity — or long-dead person's preserved will — who designed the Path system. The Architect built the Arbiter architecture, deployed it across Valdris, and has been dormant in it for centuries. The Architect did not die. They converted themselves into the system's deep-layer governance protocol.
+
+**SECRET:** The Architect's motivation was not malevolent. In the era before the Path system, Fractured Path practitioners — [UNBOUND] — were extraordinarily dangerous. Their unlimited potential, without structure or classification, produced catastrophic conflicts. The Architect designed the classification system specifically to prevent Fractured Paths from ever forming again. The system worked. For four centuries.
+
+**SECRET:** The Architect's error was categorical, not motivational. They believed the problem was [UNBOUND] potential. The actual problem was [UNBOUND] potential without any framework for understanding it. The Path system did not solve the problem — it suppressed the symptoms while eliminating anyone who could have addressed the root cause.
+
+**OPEN:** Whether the Architect, confronted by Cael in Books 13-14, is capable of recognizing this distinction.
+
+---
+
+## Tide Path — PROVISIONAL (defined in Book 7, 2026-09-04)
+
+Flow architecture. Where Ember declares ignition and Iron Skin declares density, Tide declares *current* — the perception and redirection of internal energy flow, the practitioner's own and, at contact, another's. Civil face: healing (restoring flow so the body does the rest). Diagnostic technique: **the reading** — contact, both hands, the healer's current run through the patient's architecture ("listening with my hands to how you're built"). Two modes, taught before either is load-bearing (B7 Ch7): the *surface* reading (hands on the hurt, seconds) and the *deep* reading (both hands, whole architecture, minutes, patient still and uninjured, at a mending's cost). Costs and limits: contact range only; healing spends the healer's reserve at roughly the rate of the damage repaired — no crowds, no self-healing; a Tide practitioner **cannot heal what she cannot read**; combat use is a *stall* (a hand on a wrist, a breath, the declaration doesn't render) at brutal cost — Oryn has done it three times in her life. Inside quiet ground: nothing.
+
+**Cael's Tide-adjacent fragment (B7 Ch13):** partial; Iron; self and contact; the first fragment that does nothing in a fight; engagement field *clinical*; **the standing rule, in Oryn's hand and his: ask first, every time.** Consistent with B2's "Tide-adjacent" anomaly label and Book 15's "Oryn's Tide Path burns out."
+
+---
+
+## The Edge Territories — PROVISIONAL (established in Book 7)
+
+A margin, not a wilderness: holds, fords and one real town, settled by people the tiered cities priced out. No Arbiter station beyond the Registry Line; rank exists and is worth what it demonstrates. **Lowmarch** — the one town, a river-ford three days east of the Line where the last good road forks into the void roads: a contract board, a ferry, two inns, a smith, no wall. **The board** (kept by **Pike**, sixties, one arm, retired Copper Force Path): contracts posted by holds, carters and brokers; completion witnessed and entered; the board-keeper's ledger is the only reputation out here, earned by outcome not tier. **Healers are the scarcest trade**; a traveling healer runs a **route** — a circuit of holds that owe her and whom she owes (Oryn's: seven stops, Thornwater, Oxhollow and Millrace among them). **Void roads:** on Compact maps, roads beyond the Line inked dashed and unlabeled; in the edge idiom, the stretches through quiet ground walked fast and silent.
+
+---
+
+## Edge Fauna — PROVISIONAL (Book 7)
+
+Path-deformed animals; none speak, think or carry a Path. **Stillhounds** — grey, low, silent pack predators that hunt by Path discharge and are nearly blind to a body not using one; they den in quiet ground. **Shale-backs** — armored grazers the size of a cart, placid in herds, lethal on a slope when herded wrong. **The wold-wyrm** — carters' name; singular, enormous, under the Drowned Hall's spring; hunts what stays; never seen whole.
+
+---
+
+## Antagonist Ledger
+
+| Antagonist | Active books | Nature | Fate |
+|---|---|---|---|
+| Warden Coss | 1-3 | Bureaucratic enforcer, Compact agent | OPEN |
+| The Guilds Compact | 3-9 | Institutional system | Collapses (Book 10) |
+| Archmarshal Vastin | 4-9 | Compact enforcer → ally | Switches sides (Book 9) |
+| The Quieting | 7-11 | Systemic phenomenon | Resolved (Book 13) |
+| The Architect's will | 11-15 | Preserved directive intelligence | Confronted and addressed (Book 14-15) |
+
+---
+
+## Continuity Rules
+
+1. **The Compact Registry is the authority on Path classification.** Any scene involving official rank must be consistent with what the Registry would show for that character at that point in the story.
+
+2. **Path declarations follow standard format.** Only Cael's fragment notices deviate. All other practitioners receive standard declarations.
+
+3. **Tier advancement is not instant.** No character advances a tier in a single scene. Advancement is earned across multiple books for major characters.
+
+4. **The Architect's will is not omniscient.** It can detect [SHATTERED] signatures and issue systemic pressure, but it cannot directly perceive or target individuals until Book 11 when it becomes actively deployed.
+
+5. **The Quieting spreads from ancient sites outward.** It does not appear suddenly in cities. It begins at edge-territory ruins and expands. This gives the companions time to investigate before it becomes a continental crisis.
+
+6. **Cael's ability integration has limits.** He cannot integrate an ability he has not witnessed in use. Seeing a written description does not qualify. The ability must be performed in his presence.
+
+7. **The found family is permanent.** No companion exits the series without narrative justification. The loss in Book 12 is a choice, not a death — the companion is still alive, their relationship with Cael changed.
+
+---
+
+## Book 8 (Before the Paths) — PROVISIONAL sections, on the page 2026-09-05
+
+Everything below is shown, read, paced or logged in Book 8's drafted prose. SECRET markers above are untouched: no character says what the still place is, what the Quieting's source is, or that the Architect is present; the Court is not named on the page.
+
+### The Quieting site taxonomy — PROVISIONAL (decoded Ch17, fixed Ch20)
+The Compact's suppressed records and the recovered survey kit's index use the same grading. Every site sheet carries a mark by the stamp: **a stroke alone** (first-tier — the form rules a box for a site recent on paper, a life or less; the office never had one to fill); **the stroke and the bar** (second-tier, "stable across generations" — the Fallow Ring, the Long Stair, the Drowned Hall, the fourth, the fourth's mark twice the size); **the stroke and two bars** (third-tier, "stable across centuries", documented back to the first sheet the office ever kept — "the setting", the form's own word — one sheet, a copy of a copy). Age is by FIRST SHEET: Ring 61 years, Stair 94, Hall 138, the fourth 206; the third-tier site older than the office. The sites' ages ASCEND along the bearing, oldest last, into the deep edge ("somebody laid them out in order"). Observational only: who graded them and why is not on the page. The carvings' rows LEAN along the bearing (Cleon's reading); which end is first is undecided on the page.
+
+### The Sunken Span — PROVISIONAL (the fourth site, entered Ch19)
+Eight hundred metres across (twice the Ring); the Compact's registry-stamped iron a pace apart, numbered (thirty-four on the crest's stakes), the stroke-and-bar beside the number, in the ground "years, not one winter" (undated). Inside: the ground drops into a SINK; at the centre an arched bridge of seamless grey stone on two piers over the sink, the crown taller than a man; carvings on the piers' inner faces, same make, copied. The bearing runs along the arch. A Compact WATCH-POST on the perimeter shelf (timber hut, fire, kit under a hide, a two-timber barricade; seven hooded, two crossbows, one low practitioner) routed there after the completion report; broke east along the perimeter road; not pursued; no faces. Nothing happened to Cael on the crown (as at every site).
+
+### The Court — PROVISIONAL (the fifth site; the oldest; entered Ch23–24; NOT named on the page — "the court" as description)
+A half-day beyond a dry defile (the pass) east of the Span, at the END of the bearing: a level seamless grey floor 1,012 metres across (Karis's cord), uprights round it weathered to stumps knee-to-waist high, the plain's rock worn DOWN to the floor's level from a mile out; a stratum in the rock a hair below the stumps' base under everything; the marks on the stumps' inner faces the same notation with the cuts worn deeper — by the strata the FIRST cut ("the others are copies" — a finding about rock). Nothing on the floor. The line sharp and perfect; every sigil dark at the stride identically (the last time the book shows it). At the centre (506 strides): NOTHING — no edge to feel; "the same kind of made" (Cael's own revision of his sentence; 'Not the Quiet' and 'Not a fragment' stand). The bearing ends here; no site is on any sheet past it.
+
+### The leaf — PROVISIONAL (the primary source, read Ch15; the reveal LOCKED as drafted)
+Under Treswick's registry, in the Deepstacks (the old quarry the walls were cut from; a single iron leaf on pins; Cleon's key), among a bundle Cleon pulled from the galleries thirty years ago: twelve horn-coloured point-written leaves older than the board. One passage, read aloud once by Karis: the years of the unmaking, when the un-bound walked in the land; one who "made the measure, and the seat, and the tier, and the mark that is given at the kindling … and set the apparatus over all the land"; the name scraped to the fibre (four or five letters; the first stroke); "that the un-bound should not come again"; ~four hundred years by the leaf's head. **The Architect** is the record's TITLE for the maker (Karis: "a title, not a name; the name's gone"). A later chronicle leaf: "he did not die in the way of men, but went into the ordering he had made, and is in it —" then a thumb's width of nothing — MARKED, not read (Book 11's plant). The leaf's "list of parts" names the mark at the kindling and the mark on a sheet in the same line ("A mark is a grade"). The leaf stays on Cleon's shelf; the crew carries copies with the gap drawn.
+
+### Rune Path — PROVISIONAL (Cleon, Ch11–13)
+Reads MADE things: which mark bears, which is borne, whether a run sits or goes — "structure, not meaning"; an instruction LEANS, a record sits. Not a river, not a man. Costs the eyes for an hour after. No use in a fight. Cael's twelfth (Rune-adjacent, partial, Bronze) came from watching Cleon read a board from two feet. Cleon's warning stands verbatim in canon: "If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — Don't tell me. Don't tell anyone. Just remember I said it."
+
+### Force Path — PROVISIONAL (Teague, Ch17–21)
+Impulse along the line of the practitioner's frame at contact, from the ground through the body out at the hand; needs a thing to push against; a body's length; nothing at a distance; the RECOIL comes back along the same line every time (Teague's wrist clicks; the elbow; the shoulder — a third use in a fortnight would splint the arm). Cael's thirteenth (Force-adjacent, partial, Bronze) came at the Span's barricade; first used on stone at the pass (the second stack), recoil into the ribs; never on a person.
+
+### The Compact's records — PROVISIONAL (Vastin's file, Ch5, Ch20)
+Six years of surveys on the office's form; the fifth column (the sigil going out at the line, every practitioner, same distance, same instant) — one remark in the whole file: *Behaves as device. Cannot be.*; a deep-layer sheet dated ~six years back (the office's rounding — Cael's private count is his Kindling day); a DIRECTIVE at the file's head ordering the fifth-column findings held ("Not for onward transmission. Not for citation. Not for the seat.") with a filed OBJECTION on its back in a second hand and seal ("the holding of a finding is not the finding's disproof") — "That's not a monolith. That's a crack." (Vastin; not pursued). Karis's finding (Book 9's plant, stated Ch20): they fail "the way a hundred lamps fail when one wire's cut, not the way a hundred souls fall silent"; filed as unexplained; the two findings kept on two pages with no line drawn.
+
+### Treswick and the Deepstacks — PROVISIONAL (Ch7–16)
+The oldest registry on the Line: a tiered city on a bluff — three walls, the ring road and outer district INSIDE the first wall (no paper asked), three tiers and two gates to the crown; a station on the crown that reads bodies (its light "not steady for a count of one", once, for Cael — Book 11's plant); the scholars' provision (a registered practitioner plus hands entered BY COUNT, up to four). **Cleon** — registered historical-Path practitioner, Rune, Bronze, sixties, thirty years down the stair; a house in the old town; noon at a tavern on the third tier; his cup is water; "Work. Not a finding."
+
+### The wall's count and the contract — PROVISIONAL (Ch17)
+Ten on a wall's count = the crew's six (Karis included — a wall counts who walks a site) + Teague's four; healers off it. Shares by count; the field Teague's; the reading Karis's; "Contract. Not more than that." The young one of Teague's crew died at the pass (Ch21), a stride outside Vastin's plane; Teague's lesson: "A wall keeps everyone behind it, and one of mine wasn't." "Next spring. Whatever's on the next line. My crew comes."
+
+---
+
+## PROJECT EVIDENCE — editions/monroe-1.3/book-08-before-the-paths/packets/MOVEMENT-009.md
+
+# Movement brief 009 — The Center
+
+- PWA book id: fractured-path/book-08-before-the-paths (Monroe 1.3 edition)
+- Series id: fractured-path
+- Author: Opus (Claude Opus 5.5)
+- Chapters: 54–60 (7 chapters) → `manuscript/chapter-54.md` … `chapter-60.md`
+- Word budget: ~36,000
+- Owner names: no new names. **The young one's name is said once, in the stream-bed, and is never written.** [OWNER-pending #54]
+
+> **[Coordinator rulings after the Movement 1 audit, 2026-10-11 — binding; they override any plan text below that differs.]** (1) **Teague's spear is a tall MAN** (he / him): the locked Book 7 wrote him so (ch25, ch51, ch52), and Book 8 follows its own edition (OWNER-pending #59). Where the plan says "the tall woman", read "the tall man"; his silence toward the six until his question at the pass stands. (2) **Teague can read** (locked Book 7 ch25: he read a slip twice). Never write that he cannot; if he does not read a sheet it is because it is not in front of him or he has no need. (3) **Lira's asking:** she asked Oryn once about the ankle on the mountain in Book 7 and asked nobody for anything from then until Thornwater; do not call Thornwater her first ask since Norhold. (4) **The stroke and bar** is on stake thirty-two (the Stair's newer stake and the kit's unused one) and on the fourth site's thirty-four ONLY; stakes thirty-one and thirty-three do not carry it. Later records may show the grade on survey SHEETS; the field stakes do not all carry it. (5) **The cord:** the kit's cord is twenty strides, knotted at the fives (four knots to a length); Book 7's Ring was sixty-two cords and twenty strides round. The court is about 1,107 yards across, which is about FIFTY cords, not 159. Give no yardage for a cord. (6) **"West"** was first said aloud at the six-person table on the 268th (Karis's protected "It's west… Treswick…" speech, printed once in ch6). (7) **Deployment since the Line is twenty-nine** at the end of Movement 1 (two uses of the Iron read in earnest); trials are not counted.
+
+> **[Coordinator rulings after the Movement 2 audit, 2026-10-11 — binding; they override any plan text below that differs.]** (1) **Vastin's second paper is "the page": a COPY in his own hand** of one line from an old register ("—of the Architect: see the lower archive at Treswick, which holds it in full—"). It was never cut from anything and is never called a leaf; "the leaf" is the chamber record of Movement 6 only. (2) **The technician's sheet carries a Compact date (a registry year and a day in it) that is NEVER printed as figures** anywhere in this book; whoever reads it reads a date, and the page does not give its numbers. The office filed that sheet at the end of the second row of the records, and it lies there. (3) **The anomaly column:** on every survey abstract, in every hand, for six years, the entry is the one word *Total* — an entry, not a sum. (4) **The Fallow completion report** carries five strokes for a name and a count of six (locked Book 7), not five written names. (5) **What Vastin has told the six about the layer is four things only:** no key (it cannot be reached); the citation; the suppressed records; the technician's line. He has not defined "classification event" and does not know which event is meant. Nothing on the page says that menders, technicians or any office have tried to open it or know more. (6) **Speakers:** "What follows you," was Lira's; "She's right. Go and lie down, and don't take the stairs fast," was Oryn's. (7) **Deployment since the Line is thirty** at the end of Movement 2 (the Iron read at the landing on the 277th). Purse 118 marks. (8) **Teague's spear** has "he/his" on the page from chapter 7 (OWNER-pending #59 as defaulted). (9) Vastin has shown no Iron Wall, has no stated age, has asked only for a bed, and holds Karis's unsealed receipt. Cael has not touched the page and has not read the sheet's date closely.
+
+> **[Coordinator rulings after the Movement 3 audit, 2026-10-11 — binding; they override any plan text below that differs.]** (1) **Deployment since the Line is thirty-two** at the end of Movement 3 (one Ember grain and one Wind burst away, both at the cut on the 279th). Ten fragments; the eleventh has not come; nothing came of standing two feet from Vastin's wall. Purse 138 marks. (2) **Iron Wall has been shown once** (the cut): a plane from a line struck with the stick, wall to wall, rooted — he may not lift a foot — loud to anything that hunts a Path, and it spent him to the floor. **Vastin's RIGHT knee** was bitten there; Oryn shut the holes and bound the joint with laths for a month from the 279th (stick; no kneeling, no running, no wall); he said "I cannot undertake" and has kept it to the letter. Brom's right foot, two toes, ten days from the 279th. (3) **The date:** Cael and Seln each know that the technician's sheet carries the day of Cael's Kindling. Neither has said or written it; neither knows what the other made of it; nobody has interpreted the sequence. No figures are ever printed, no span of years is computed, and there is **no second calendar or offset** (one registry reckoning only). Vastin does no date arithmetic and knows nothing of it. (4) **The records at the spring:** Karis has matched FOUR sign-groups to the hide and has given NO number of places; no fifth place has been described. The same stroke and bar stands in a ruled square on all four matched places' sheets (in the field: stake thirty-two and the fourth site's thirty-fours only). The remark "Behaves as device. Cannot be." is on the Stair's sheet in the fourth row; its hand is NOT identified. The instruments column reads true on every line. (5) **Seln has taught one thing, to Vastin** ("Draft nothing. Just look."). Cleon has been named (by Karis) and nothing more is known of him than her protected lines give. (6) **Oryn** went north from the fork on the 281st with the brown mule, her linen and her crossbow with one bolt; Millrace in three weeks; she owes Cael the reading ("the one thing I'm walking up that road owing"); the station term is written in the log. Her past as told at the fork: a house for the sick in a city inside the Line, the column for the patient's tier, a woman from the river sheds mended off the sheet; she has not been through a gate since. (7) **Loads:** boxes on Brom (good shoulder), Lira (both arms) and Cael; the tarred kit case on Vastin, taken up unasked at the fork-stone; Karis the flat and the hide, with the copied page in oilcloth in her coat. **Cael laid his hand on that page once, on the rise.** Vastin has walked beside Cael since the rise. (8) **Stillhounds:** a den that has learned a road runs to where a declaration ends (Karis's sixth line). The sixty yards of four-strand rope are still owed to the Lowmarch ferryman.
+
+> **[Coordinator rulings after the Movement 4 audit, 2026-10-11 — binding; they override any plan text below that differs.]** (1) **Who is where on the 284th:** inside the iron door are Cael, Brom, Lira, Vastin and Karis, with three boxes, the tarred kit case, the flat and the hide; Cleon let them in, counted loads and not people, and shut the door. The unnamed yard clerk is outside; **Seln is above ground, NOT on the card or the count**, watching who comes to the door. Oryn is two gates north with the brown mule. (2) **The count:** Karis is the card's unnamed bearer; Cael, Brom, Lira and Vastin are the four hands, entered by count; the clerk asked nothing and wrote *four*. None of the four restricted names has been written anywhere; the asset-restriction is still pending. Cards are good only for the day written on them and are torn at each gate; Iron passes the second wall and Bronze the third by right, on a certificate that is read out and written. The way to the registry's yard is the load lane under the third wall and a cut of **twenty-two steps in five flights, a stride and a half wide, walled three men high with no door or window**; it never crosses the square. Cael has not set foot on the square or its steps and has not looked at the crown; Lira keeps the same discipline unasked. (3) **Cleon's terms** (given at the cook-house on the 283rd): all the sheets, in their places; they come down to him; no names (his is on the card and is never said aloud by him); **nobody tells him what the sheets are or how old until he has looked**; one lamp goes down with them, his, held where he says; no other carried light and no fire of anybody's. He has seen one drawn sheet and knows there are three places and fifty-two sheets, older than what the Compact found; he has not noticed Cael. **His Path has not been shown.** "Rune Path. Bronze." is all that is known of it, from Seln. (4) **Cael:** ten fragments; deployment thirty-two; the fourth and fifth self-readings were made on the 281st, round the still place and not in, uncounted; Tide feels only what flows and returned nothing ("a cord on a stone… *no length*"); he needs an instrument for what does not move, and owes Oryn the telling at the mill. Lira has read the log. (5) **Vastin and Cael:** Vastin has told him why he declined the second reading (the Ostrand case, causal; and a private relief at never learning what a plate would say); Cael has told him that the place was read twice and returned nothing, and nothing of what reads. Ground, not friendship. Vastin carries three sheets under one seal that he will not show; he has sat three times; his right knee is day five of thirty on the 284th (stick; no kneeling, running or wall) and he caught a slip on the steps with his left hand. Brom's two toes: five days left on the 284th. Lira's arm: day nineteen out of wool; her registry paper unshown; the ladder did not pull. (6) **The inn:** the long loft over the stable, by the yard half-door (the painted door has a book), for a week from the 282nd, pot at dusk, seven bowls; **purse 136 marks**. The outer gate counts feet on a bead-frame and writes no name. (7) **Stone:** the grey bridge, the registry's three lowest courses, the undercroft's end and the iron door's frame are one dark dry-laid stone older than the walls; Karis has seen it and stated no conclusion beyond "the bridge was first". The iron door has no lock or handle outside; the clerk knocks. (8) The sixty yards of four-strand were priced at the rope-walk and are to be bought going out.
+
+> **[Coordinator rulings after the Movement 5 audit, 2026-10-11 — binding; they override any plan text below that differs.]** (1) **Eleven fragments; deployment since the Line thirty-two; purse 134 marks** at the end of Movement 5 (the night of the 290th). The eleventh, Iron-Wall-adjacent, came from Vastin in the alley's quiet minute; it did not fill, it *set*; its prompt is *This far?*; it has not been deployed and **Vastin has not been told** (Cael holds that as a debt he cannot yet pay; Lira has read the log). (2) **How acquisition lines are printed in this book:** the protected "Fragment eleven" and "Fragment twelve" units are CAEL'S OWN cataloguing of what he reads — set once, in italics, framed as his plain words; they are NOT printed as a system block and take no FRAGMENT ACQUIRED heading or code fence. (3) **The Deepstacks:** an iron door with a sliding bar inside; twenty-seven steps in three flights of nine; three galleries. Middle gallery about 110 strides, Cleon's sloped desk and fixed lamp at its end, a shelf above it with a jar, a tied bundle ("Paper. Not stone.") and the black oak plank's sacking; the fifty-two sheets on three tables, 11/29/12; the plank stands against the third table. Eastern gallery: the old town's tall tally-books. One CARRIED lamp, Cleon's, held "a hand to the left" (Cael holds it and has begun to put it where the eyes are about to go). The boxes go up at the clerk's bell and come down each morning on a fresh card; the clerk writes *The same* and *four*. (4) **Cleon** knows Karis's name (he heard Brom say it and has used it once); his own is on the card and has never been said aloud. He has shown his Path from OUTSIDE only (bear / carried / nothing; "They're orders."; "Same make."; the limit: it does not work on a river, a man or a tree, and costs his eyes for an hour). **His week runs from the 287th to the 293rd.** He has not noticed Cael and knows nothing of the alley or the mechanism. (5) **Karis** has fourteen of twenty-three letters and reads numbers and number-words only; seven kinds bear, twenty-three are carried, eleven are nothing; the bundle is tied and unread; Vastin's copied page is in her coat, unshown to Cleon. Her LEFT palm has seven stitches of Brom's under a strip of his shirt; she writes with the right. (6) **Vastin:** his right knee went again in the alley on the eleventh day of Oryn's thirty (a wall on it against her order, which he heard and asks that she be told); re-splinted with a slat from Brom's box, twice its size; on the night of the 290th he cannot stand or hold a bowl. He gave his name, rank and office aloud at the yard hatch on the 285th; nothing of it was written. He still knows nothing of what Cael carries. (7) **Brom:** the left (good) shoulder wrenched under a dray on the 286th and worse after the alley; he carries his box on the bound right shoulder, a debt entered for the mill's healers; the broker's offer (a guard's post inside the second wall) was answered "I'll think on it." and declined in fact. Lira: day twenty-five out of wool on the 290th; a bruised right shoulder; she drops from heights without the arm. (8) **Seln:** a registry clerk knows his face and voice (the price of a truthful answer at the hatch); he watches from the roof above the cut. His case is **SHUT** — never "unopened" (this edition's Book 6 opened it for the five) — and its contents are named nowhere in this book. He has seen one watcher three times (horseman's boots with the spur-rests cut away). (9) **The faction** (six, hooded, no faces, no Path opened) knows the loft and has shown that it knows; it saw Vastin's wall, a rock, a knife and a boy who stood still, and nothing of quiet ground or the fragments. Cael has ruled that the cut is not climbed at dusk again. The loft is paid to the 295th.
+
+> **[Coordinator rulings after the Movement 6 audit, 2026-10-12 — binding; they override any plan text below that differs.]** (1) **Twelve fragments; deployment since the Line thirty-two.** The twelfth is **Rune-adjacent, from Cleon** ("given, not taken"), acquired at his "There," on the 291st; it gives single words (*goes*, *sits*, *bears*, *nothing*), reads made things only, and costs the eyes afterward. Its lines are Cael's own cataloguing, printed once in italics in Movement 6 and never reprinted. (2) **How it behaves:** it leans at every made thing, unbidden and OUTWARD, and Cael is learning not to look; it has never been used on a person, the crown or the leaf, and **never turned inward**. He refused the inward turn once, deliberately, until Oryn has been asked. **The first inward turn is unbidden, at Millrace, under Oryn's deep reading** (*still*, then *set*); the deliberate inward turn belongs to the plain's edge in Movement 9. (3) **Who knows the twelfth:** Lira, Brom, Karis, Seln and Cleon. **Not Oryn (owed at the mill, with the readings round the place); not Vastin** (who also still does not know the eleventh or the mechanism). **Cleon's warning** ("If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — …") is known to Cael and Cleon only and is in no book; Cael tells nobody. (4) **The leaf** was read aloud once by Karis and heard by Karis, Cleon, Cael and Vastin; Lira, Brom and Seln read her copy; Oryn has not heard it. **Nobody quotes the leaf's wording again.** The reductions that may be said: *made*; *for a kind*; "the Architect" as a **title** (historical comparison only — "as old as the Architect" — never a present agent); "four hundred years" only where this packet's plan fixes it. (5) **The chronicle's line is marked and nobody speaks of it again**; the hole is never glossed. **Nobody joins the leaf to the lamps, sigils, plates, Arbiters or stations**; no *terminal*, *circuit*, *infrastructure*; no light, plate or instrument is said to attend, notice or want. (6) **Pole two was said aloud at the yard fire and is not in the log.** The line of march from it: "a site at the end of the line that's been quiet since they built the machine" — "I want to stand in the middle of it." (7) **Seln's case is on his chest, shut, contents unnamed; he keeps it "a while longer".** Closed chapter 18 says he has carried it twelve years; print no other count. He will not follow the cut boots again and expects them on the road east. (8) **State at the night of the 293rd:** purse **130**; the reserve sealed in the third box; loft and handcart to the 295th; sixty yards of four-strand still owed to the Lowmarch ferryman; Hesk's dividers and note shut in Hesk's book (never opened on a distance); Karis's fair copy in Cael's coat, the other in her notebook; the skin leaf under Cleon's jar and going to no counter; its back (a list of parts) unread — Cleon's work for the 294th. **Vastin: right knee day fourteen of thirty on the 293rd**, slat-bound, stick, no kneeling, running or Wall; he sleeps in the stable's end stall and rides the handcart. Karis's left palm stitched (Brom's seven); Brom neither arm above the elbow; Lira day twenty-eight out of wool on the 293rd. (9) **Oryn** watched a Kindling at her fourth gate, is two days behind, will not come late to the mill, and means to read Cael "as deep as she went", asked first.
+
+> **[Coordinator rulings after the Movement 7 audit, 2026-10-12 — binding; they override any plan text below that differs.]** (1) **Twelve fragments; deployment thirty-two; purse 127 marks** at dawn on the 299th (130 less two for the rope, less one for meal at the mill; the rope debt to the Lowmarch ferryman is paid). Force was SEEN on the 298th (Teague, at a sunk salt cart: heel to palm in one line, a body's length, the recoil down the same line to the wrist) and **not acquired**; "Don't put it in front of anything that needs doing twice." is Teague's. (2) **The contract** (all Teague's words: "Ten of us on a wall's count. Your six and my four." … "Contract. Not more than that. I'll not have it called more." / "The wall's still the wall."): the ten are Cael, Lira, Brom, Karis, Seln, Vastin; Teague, the tall man with the spear, the bow (a broad man with a bad hip), the young one. **Neither healer is on it.** Shares and costs by the count; **the field is Teague's**; the reading is Karis's ("You'll be asked."). The wall is under a healer's month and is not stood before the month is out. **Teague's four know:** a survey was read at Treswick and gave a bearing; the four ages and "three days past the iron"; that an old man's wall stood in a cut. **They do NOT know** the mechanism, any fragment, the leaf or the list, the date, or who Vastin was. The tall man, the bow and the older healer (a lean old woman with a staff and a board) have not yet spoken to the six. Teague has not yet said "Noted". (3) **March order (Teague's):** Seln ahead; the tall man; Teague, with **Cael at his left shoulder a stride back**; Lira; the young one, watching her feet; Karis, the two healers and the mule in the middle; Brom; Vastin a stride behind him; the bow last. Four hand-signs, Lira's: flat hand *stand*; fist *seen*; two fingers *come on*; hand turned over empty *nothing*. (4) **Vastin: day twenty of thirty on the 299th**; Oryn's linen and two laths; stick; **he walks in the file from the ford** (he rode a tail-board on the level from the 295th to the 298th and walked the hills and the cut). He has said "Noted" twice (the grade; the knee) — it is Cael's word and he says so. He is on the contract's count as one of "your six"; he has not asked to join the six and nobody has spoken of it. He does not know the mechanism, the eleventh (his own), the twelfth, the two words or the date; he knows that he is not told and that it is "six people's". (5) **The grade:** three marks — a stroke alone (a box ruled and EMPTY; no first-tier site exists on any sheet); a stroke with one bar (the four places; stake thirty-two; the dead surveyor's book); a stroke with two bars (six sheets of a fifth place). "A mark is a grade … what he's *for* … how *old* the thing is" (Karis). **Ages counted from the office's first sheet for each place: the Fallow 61, the Stair 94, the Hall 138, the place behind the iron 206**; the fifth place has two unread signs for its figure ("older than two hundred and six"). **Oldest-last.** The office's run from the fourth place to the fifth is "three days past the iron, a little less"; its compass point and its figure in lengths have not been said aloud. The fourth line of the leaf's list: the mark, over *those who are kindled* and *what is set*, level; *three*. Karis has said none of the list's numbers aloud and five of its nine lines are unturned. **Nothing joins this to lamps, sigils, plates, Arbiters or stations**; "four hundred years" stood once, in Cael's log of the 298th, as his own inference — in this movement it may stand only where this packet's plan fixes it. (6) **Hesk's dividers** have been opened twice, by Karis, on Cael's loan; Cael has never opened them. The hide has a clean sheet pinned to its eastern edge with a prick at the divider's point and the pencil line ruled through it and a hand's breadth past. Stake thirty-two is in the tarred case, never driven. (7) **Oryn** knows the two self-readings, the eleventh and the twelfth; her ruling was "not on my plank". **Her finding** ("There's a place in you I can't read because it isn't *flow* …") is known to Cael and Lira. **Cael's own — the twelfth turned inward unbidden under her hands: *still*, then *set* — is told to NO ONE**, and the next word was not let come; Lira knows only that something unasked came and is waiting; the log holds four reasons and the ruling *hold*. Oryn has not heard the leaf ("Tell me on the road, if there's road. Not at my table."). Cleon's warning has "begun to lean". She walks east in the middle of the file with the mule, on nobody's count: three holds owed on her round; "I'm a stop on my own route." (8) **Bodies at dawn on the 299th:** Brom's left shoulder mended, the right re-tied, both arms to shoulder height; Lira's arm released ("It's an arm."); Karis's stitches out, linen on, "Write. Don't lean."; Teague's right wrist in linen under the leather. (9) **Watchers:** a horseman a mile behind on the 296th and a riderless horse in the western alders on the 297th; nothing seen east of the river; no face, name or base. (10) **Seln's case is "shut"** — never write "unopened" or "locked … unopened" (this packet's cutaway note says so and is overridden here); on his chest; contents unnamed; no count of years printed.
+
+> **[Coordinator rulings after the Movement 8 audit, 2026-10-12 — binding; they override any plan text below that differs.]** (1) **Thirteen fragments; deployment since the Line THIRTY-THREE; purse 123 marks** on the night of the 305th. The thirty-third use was the read on the wet ledge at the seep (the 302nd). The thirteenth is **Force-adjacent, from Teague**, acquired at a stride at the Span's timbers (the 304th); its lines are Cael's own cataloguing, printed once in italics in Movement 8 and never reprinted. It does not ask; it **listens**. It has been lined dry once (the 305th: heel to a rib of rock, palm to a slab, every joint in one straight road) and **never let go**: "A trial; not counted." **Its first use belongs to this movement's pass** (on the second stack's brace, along the shelf; never at a person), and the cost comes back along the line to the place where the line leaves him — **the old three ribs, low on the left**. That use is a deployment and is counted. (2) **Who knows the thirteenth:** Cael; Lira; Brom; Karis and Seln by the log. **NOT Teague** (whose it was) **and NOT Vastin** (who also does not know the eleventh, his own): two unpaid debts, entered side by side, which cannot be paid without telling what is six people's. **Oryn has NOT been told** — she refused the count across the iron on the 304th, and Cael means to tell her "when she'll hear it"; "Ribs. May I?" … "That's a line. That's not yours." / "It's mine now." is where she meets it. Teague thanked Cael for keeping his left at the timbers and does not know what Cael came away with. (3) **Teague's right arm is in linen to the shoulder on a slat and the hand does not shut**; Oryn: "A third time on that arm and I'll set it in a splint." He goes up the pass's stair LEFT-handed. **The tall man's spear is HIS** (he / him; this packet's "reverses her spear" is the source's pronoun and is overridden — OWNER #59). The tall man and the older healer have still not spoken to the six; the broad man's first word to them was "Aye" on the 305th. **The broad man:** right shin (his good leg) broken at the Span, knit by Oryn, boarded, walking on a stick cut from the watch's trestle, at the tail; his crossbow's stock is split by a bolt. **The young one** went over the iron when Teague looked at him ("Four."), held his feet inside the line by watching Lira's boots, "goes wherever he is looked at, a half-beat before he has seen what is there", and nods with his whole head; he is still unnamed (OWNER-pending #54 governs the one saying of his name). (4) **What Teague's four know:** five people stood whole inside the line; a boy kept a captain's left with a stick; nothing of the mechanism, any fragment, the leaf, the lamps page, the slips, the date, or who Vastin was. **The doctrine "behind it" has NOT been told to them; no wall has been drilled or stood.** Vastin entered on the 303rd that he will not stand a wall before his month is out (he stood inside the line at the Span instead, and what he carries went and came back "to the grain"); the 306th is **day twenty-seven of thirty**. (5) **The watch** (seven, hooded, faceless: two crossbows, four staves, one low practitioner) went east through the gap a day ahead, carrying one broken bow; they saw silent Iron take bolts, silent Force shift timber, and five people stand inside the line; they saw nothing work inside. Nobody died at the Span. **Seln** looked at the square notch from a mile on the evening of the 305th: a dry bed going in, the only way through for five miles either hand, no fire, nobody on either wall, not a heel-mark — "I looked at it." — and is to look again from nearer at first light before Teague moves. (6) **Pages, and who holds each:** Karis has the torn ruled leaf with the lamps finding ("They fail the way a hundred lamps fail when one wire's cut. Not the way a hundred souls fall silent.") in the back of her notebook, and under her initial "*Second page: nothing entered. Not for want of a pencil.*"; Cael has the folded fair copy of the chamber leaf in Hesk's book; the technician's sheet lies at the foot of the second row in the flat, its day unsaid and unwritten (only Cael and Seln have done that sum, each alone). **Nobody has laid one of these across another; Cael added no page of his own; Vastin's sentence stopped twice.** The two sealed slips are re-pinned under the knot of the oldest row; Vastin knows both seals and has named neither ("That's a crack." … "The Compact," … "Yes. Part of it."). (7) **The fifth place:** a thumbnail ring round the divider's prick on the clean sheet, uninked until corded; "three days past the iron, a little less" (one walked on the 305th); its two corner signs are a year written by its first letters in the old town's count, which Karis worked alone and said once, in the close of the 305th: "Third-tier, documented four hundred years back — as old as the record, as old as the Architect, as old as the machine. The first one they made, or near it." **In this movement "four hundred years" may stand only where this packet's plan fixes it; "the Architect" not at all unless the plan prints it.** Every row on every sheet leans the one way, along the brass, east (one unbidden glance of the twelfth, entered by Karis as Cael's and unchecked). At the Span a course of fifty-two signs counted as fifty-one in Cael's hands, twice (ruling: hold) — the instruments' trend. (8) **Oryn** is five days past her cairn on the 305th (the cairn is at noon on the 300th; six on the 306th, seven on the 307th, eight on the 308th); three holds still owe her a visit and have had word ("a week, or more"). She has not heard the leaf. She knit a shin on the 304th (asked first, answered in a word) and had her hands in it again on the 305th under the older healer's binding. **Nobody has yet died under her hands.** (9) **Bodies otherwise:** Brom, two bruises in "a week of colours", both arms sound to the shoulder, carrying the broad man's pack; Cael, a welt on the left collar-bone and the ribs speaking; Karis, the left palm in linen ("Write. Don't lean."); Lira, the arm whole. **Load:** the mule has the three boxes, the flat, meal, Oryn's pannier and canvas; Vastin the tarred case (cord, mallet, stake thirty-two, never driven); Cael Hesk's book with the dividers shut in it (opened only ever by Karis). (10) **Seln's case is "shut"**, on his chest, contents unnamed, no count of years.
+
+> **[Coordinator note 2026-10-12 — inheritance from Movement 8's surviving prose (Sol plan audit §8), binding.]** Read the edition's own closed chapters from disk and STATE_LEDGER "AFTER MOVEMENT 8" before drafting. The audit's list follows.
+>
+> Movement 9 must inherit the following surviving particulars in addition to its packet:
+>
+> - **Fragments and knowledge:** thirteen fragments; **deployment thirty-three** (coordinator ruling: the read at the seep on the 302nd stands and is counted). The thirteenth is Force-adjacent from Teague, partial Bronze, unused; it listens along a braced heel-to-palm line and costs back along that line. Cael, Lira, Brom, Karis and Seln know of it; **Oryn has NOT been told** (coordinator ruling: fix 25 declined — she refused the count at the fence on the 304th, and Cael means to tell her when she will hear it); Teague and Vastin do not. Teague is the second unpaid acquisition debt, beside Vastin. The twelfth has leaned outward at the west pier and at fourteen made sheets, never inward here. The two words *still/set* remain Cael's alone (`chapter-50.md:121–157`; `chapter-51.md:55–75,311–351`; `chapter-52.md:71–101`; `chapter-53.md:75–151`).
+> - **What went east:** seven hooded watch members left singly with a day's start. They saw Brom take two bolts on silent Iron, Teague move the barricade with silent Force, and five people—including a boy and an old man on a stick—stand and walk inside the line. They saw nothing work inside and nobody die. They carried the broken bow; the sound bow and one stave remained at the post (`chapter-50.md:35–65,99–105,181–301`; `chapter-51.md:7–11`).
+> - **Bodies:** the broad man's right shin is knit, boarded and stick-bearing; his crossbow stock is split. Teague's right wrist/elbow are in linen to the shoulder on a slat and the hand is unreliable; a third use would mean a splint. Brom has a breastbone bruise and ridged left-forearm bruise through a week of colours. Cael has a ten-day left collar-bone welt. Vastin's right knee is day twenty-six of thirty. Two men—Vastin and the broad man—are on sticks (`chapter-51.md:15–37,79–175`; `chapter-52.md:3–9`; `chapter-53.md:17–67,265`).
+> - **Teague's crew:** they know five people crossed and stood whole and that a boy did it with a stick; they do not know mechanism, fragments, leaf, lamps page, slips, date, Vastin's former office, or “behind it.” The young one follows where he is looked at; the tall man and older healer still have not spoken to the six (`chapter-50.md:181–299`; `chapter-51.md:79–175`).
+> - **Three record objects/pages:** (1) Karis holds the torn lamps-finding leaf in the back of her notebook, filed on its own; (2) Cael holds the folded fair copy of the chamber leaf in Hesk's book/coat, still not quoted; (3) the technician's sheet remains at the foot of the second row in the flat, its deep-layer date known separately to Cael and Seln and said/written by neither. No line joins (1) and (2), and Cael added no page of his own (`chapter-52.md:181–221`; `chapter-53.md:263–275`).
+> - **Map point and notch:** the fifth point is a thumbnail ring around the prick, uninked until corded. The bearing runs through the square notch; Seln looked from a mile, saw no fire, person, movement or heel-mark, disliked the absence, and will look again from nearer at first light before Teague moves (`chapter-52.md:149–157`; `chapter-53.md:233–261,281–289`).
+> - **Oryn:** five days past the noon-300 cairn; she stayed for Brom's week, Vastin's knee and the large edge, with three holds still owed and word already sent. She has not heard the chamber leaf. She does NOT yet know of the thirteenth or of what it would cost his ribs (coordinator ruling), and does not know *still/set* (`chapter-47.md:195–245`; `chapter-53.md:25,265`; fix 25).
+> - **Seln:** he has looked at the pass and said only “I looked at it.” His case remains shut on his chest, contents unnamed (`chapter-49.md:187–219`; `chapter-53.md:233–261`).
+> - **Day, bodies, money and load:** night of the 305th; twelve people and the brown mule; purse 123; no purse spend after the four marks. The mule bears three boxes, the flat, meal, Oryn's pannier and canvas. Karis has the hide/pinned sheet, brass, notebook, Cleon's roll, three-box sheet, Vastin's copied page and nine pier sheets; Cael has Hesk's book, shut dividers and folded fair copy; Vastin has the tarred kit case with cord, mallet and never-driven stake thirty-two. The two slips are re-pinned under the oldest row's knot, seals unnamed (`chapter-52.md:41–69,225–283`; `chapter-53.md:263–289`).
+
+> **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
+
+- Read before drafting:
+  - Source `chapter-21.md`, `chapter-22.md`, `chapter-23.md` and `chapter-24.md`.
+  - The previous ending is this edition's `manuscript/chapter-53.md`.
+  - From `BOOK_MAP.md`: §1 Ending; §2 items 36–40; §3 A (the pass), C (burial; pacing); §5 (the Seln, Oryn and Vastin cutaways); §7.1 (the Force first use; Rune inward; the still place; the instruments; the Arbiter); §8 (the pass); §9; §10 Tier A 19–22 and the S21–S24 Tier C lines, including the closing prose; **§11**; §12 C3, C11; §13; §15.
+  - `STATE_LEDGER.md`, latest section.
+
+## Where we enter
+
+It is first light on the 306th, at the shale camp below the notch. Seln comes back wet to the ankle from the pass's floor. Twelve and a mule. Vastin is on day 27. The ribs have been quiet since the marsh, and the thirteenth is listening.
+
+## What this movement is for
+
+The book's cost, then its answer. The pass takes a life that did not have to be lost and that the found family can only witness. That night the second instrument is turned inward on purpose, and the still place reads as made. At the end of the line, at the oldest floor, Cael walks alone to the centre. There is no edge there and no seam, and he fits. He does not say the third sentence. Everyone takes their own road home.
+
+Consequential turns and promises:
+- **The pass (306th; ~5,500, developed; BOOK_MAP §8).**
+  - Seln's reconnaissance. "It's through." Cael draws it and tells the doctrine to Teague's four, once: "Behind it. Noted?" / "Noted." The young one nods with his whole head.
+  - **The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] speaks to the six** for the first time [B7-reconciled 2026-10-11: amendment 27]: "And then?"
+  - The wall goes up as a lean-to slant. Brom's forearm is bolted before it is up.
+  - The pine and the stack come down the plane and close the mouth behind them. The scree is swept clean, and Seln climbs it.
+  - The broad man is hit at the slant's high edge. **The young one goes out a stride to drag him and is killed by the sixth volley.** Oryn's hands are on him, and come off with nothing done. Vastin cannot move. The broad man says the name, once. [OWNER-pending #54]
+  - Seln goes over the lip at the seventh volley. **Cael's first use of Force** on the second stack's brace, taking it along the shelf. The recoil stops in the ribs.
+  - Teague takes the stair left-handed. The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] reverses her spear. The team breaks east along the ridge; none taken.
+  - Vastin goes down. Karis sits with her bound hand on his shoulder. Teague kneels by his own dead. **"A wall keeps everyone behind it, and one of mine wasn't."** At the far mouth Cael understands that the line was not drawn in ink.
+- **Burial and the plain's edge (306th).** Teague's crew builds the cairn in their own order. The six carry at his leave. Lira and Seln recover the mule by the ridge path. **Eleven.** Oryn: "Ribs. May I?" / "Yes." **"That's a line. That's not yours." / "It's mine now."** No term tonight.
+- **The still place, read as made (~3,000).** He recalls the warning by heart. Then **the twelfth turned inward on purpose**: still; set; *bones*; *a floor with nothing built on it*; *an instruction with no language*. "The same kind of thing, to that instrument, as the sites were to Cleon's." He tells no one, not Lira, not Oryn, not Karis. The Arbiter is unchanged. **The instruments read wronger**: the cord a stride short, the edges a hair and a half to two out. The trend is up and he draws no line. **The log, verbatim** ("the whole year"). [OWNER-pending #58]
+- **The court (307th; ~6,000).** It lies low on the plain, and the rock is worn to the floor for a mile. The stumps. **The pacing: about fifty cords** [M1 audit: not 159; the kit's cord is twenty strides, knotted at the fives], Lira on the line, about 1,107 yards across [B7-reconciled 2026-10-11: OWNER-pending #48; coordinator ruling], sharp and perfect. The cuts are deeper, there is a stratum under everything, and this is the first cut: "The others are copies." The bearing ends, with no sixth site. The log is written standing. The council: the same three sentences as the crest, and one more.
+- **At the line (dusk).** Every sigil goes dark at the same stride. Lira: "Right." Brom prices the stump. Karis: "It's the first one." Seln gives the count. Vastin: "This is where they drew it." Oryn steps in one stride and back: "Nothing. Everything, round it. Same as you." It goes unanswered. Teague steps in one stride and back: "Field's mine. This isn't field." The turning begins. **The fixed exchange, then "Wait here."**
+- **The centre.** 506 strides. At a hundred strides, the twelfth is turned on the floor: the same reading. The eyes pay. **No edge. No seam.** "Not the Quiet." "Not a fragment." "The same kind of made." He fit. It was not an accident. **The third sentence stays unsaid.** He counts the strides back.
+- **The line again.** Oryn: "May I?" / "Yes." "The same finding." Lira: "Well?" / "I'll tell you on the road. If there's road." He tells nobody what the centre felt like and gives them the count instead. "Twenty-nine tomorrow." / "Thirty's the month."
+- **The ledger, the letter and the dawn (307th night–308th), verbatim.** Teague: "After the next thaw … My crew comes." [B7-reconciled 2026-10-11: OWNER-pending #48] Oryn: "The day I have to." … "After the thaw: bring the map, and lie still when I say." [B7-reconciled 2026-10-11: OWNER-pending #48] "Six. Six and no mule." Vastin is unadmitted. "West." **Closing prose, verbatim.**
+
+**Physical challenge:** the pass (the book's major fight), the burial, the ridge path, and the pacing as a physical task.
+**Cutaways (~5,800):** Seln, ~1,800, on the ridge with Lira to recover the mule: the swept scree below, the dead pine. Oryn, ~2,000, the night after the first death under her hands. **She has not heard the leaf. No cutaway at the court.** Vastin, ~2,000, at the court's rim at night: the line he never asked about. **He is unadmitted and not asking. There is no hint of Book 9's request.**
+**Development:** about 15 Cael beats. Supporting: Teague 2, Oryn 2, Lira 2, Vastin 2, Karis 1–2, Seln 1–2, Brom 1.
+
+## What must remain true / withheld
+
+- **There is no word for what Cael is.** Never "recurrence", "primordial", "before" or "source". No tomb. "The court" stays lowercase and descriptive.
+- **The still place is not the Quiet**, and the sentence is revised aloud: "Not the Quiet" stands. The addition is "the same kind of made", nothing more. There is no shared tool and no next-fit design.
+- Made things do not know. **The site has no agency** and nobody theorizes a maker's present will. The instruments' trend is unsourced.
+- Every reading has consent: the montage, the ribs, and after the centre (Gate 27).
+- The death is brief and not graphic. Its cost carries: eleven, the gap where a fourth stood, and Teague one short and not saying the number. Nobody strikes a retreating opponent.
+- Vastin does not ask and is not asked; there is no vote. Oryn has not heard the leaf. Cael is nineteen.
+- Count Oryn's days past her road from the cairn (§12 C3). The letter's "Tell Lira's family I said so" stays verbatim (§12 C11). [OWNER-pending #55]
+
+## What the author owns
+
+The pass's volleys between the fixed beats. The burial's details within Teague's order. The plain's light. Each person's moment at the line beyond the fixed lines. The physical feel of the 506 strides. Where the narration rests between the ledger and the dawn.
+
+## Where we leave pressure
+
+West, six and no mule. Three holds still owe a healer a visit. A captain walks home past a cairn. A marshal with a stick has stood at the line where they drew it and has not asked. Thirteen fragments. A still place read by two instruments and understood by neither. A third sentence waits past *exclude* and *prevent* that he is not ready to write. Book 9 begins with that sentence.

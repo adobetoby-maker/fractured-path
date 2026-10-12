@@ -182,7 +182,7 @@ Nobody spoke.
 
 "A person who makes a mark for himself does not make the slip a second time," said Karis. "A person who is copying, and has been told to leave nothing out, copies the slip. I have seen it in a clerk's hand at the foot of six sheets." She laid her palm flat on the notebook. "I have read strata since I was a girl. I have laid these floors under everything that I had. And there has been one more under them, all the time."
 
-[[TIER-B: "The others are copies." — the packet gives the three words after "this is the first cut" and pins no speaker. Staged here: at the western stump, a hand outside the cut, after Karis has shown the copied slip of the tool on two of her own sheets and said that one stratum lay under all that she had; the conclusion itself is left for this line, and I have not written it in other words. Karis is the natural owner; Lira or Brom could say it to her. The next paragraph stands for any of them — coordinator to supply protected text]]
+"The others are copies," said Karis.
 
 She sat back on her heels. Her face was quite white, and Cael had seen it so only once before, in a gallery, on the morning when she said that she could read. He thought that being believed, which had lain so heavy on her beside a lamp two nights ago, could hardly have been heavier than this.
 
@@ -306,7 +306,11 @@ Nobody had bidden him. He came to the cut on the ash, at his own beat, and he di
 
 It was a sunk stroke in a grey floor, two fingers wide, and he looked at it as Cael had seen him look at a seal.
 
-[[TIER-B: "I stood at a line for forty years," Vastin said, "and told people which side of it they were. I never once asked who drew it." … "This is where they drew it." — Tier A 21 pins both parts to Vastin and elides what stands between them. Staged here: he says the first part standing on the ash at the cut, looking down at it, with nine people behind him; the elision is left for whatever the plan holds (a beat, or his crossing); the second part is his as well. After it, in my next paragraph, he puts the stick over and the stiff leg after it, stands a stride inside for a breath, and comes back — coordinator to supply protected text]]
+"I stood at a line for forty years," Vastin said, "and told people which side of it they were. I never once asked who drew it."
+
+{{JOIN}}
+
+"This is where they drew it."
 
 He set the ash over the cut, and the bound leg after it.
 
@@ -320,7 +324,11 @@ Cael had seen her stand so once before, at a stone on the Fallow, in the last of
 
 She kept them there while a person might have counted fifty. Then she stepped over, one stride, and stood; and stepped back.
 
-[[TIER-B: "Nothing," … "Everything, round it." … "Same as you." — Tier A 21 pins all three pieces to Oryn and elides twice. Staged here: she has held her hands out over the cut, palms down, as she did at the Fallow's stone (Book 7 ch27), then gone one stride in and one stride back; she says the first two pieces to the floor and the third with her eyes on Cael. Nothing on the page says what she laid her hands to or what the likeness is. The paragraph below has it go unanswered — coordinator to supply protected text]]
+"Nothing," Oryn said. "Everything, round it."
+
+{{JOIN}}
+
+"Same as you."
 
 Nobody answered her.
 
@@ -338,7 +346,11 @@ Cael saw it take him. The heavy shoulders went back, as though somebody had draw
 
 He stepped back.
 
-[[TIER-B: "My crew's stood at four of these. It's stood at enough." … "Field's mine. This isn't field." — Tier A 21 pins both parts to Teague and elides between. Staged here: he has gone one stride over the cut, for the first time at any such place, and one stride back, with his three standing behind him at the rim; he says it facing the floor. In my next paragraph he does not send the tall man or the broad man over, lifts two fingers, and the tall man turns his spear to the west — coordinator to supply protected text]]
+"My crew's stood at four of these. It's stood at enough," Teague said.
+
+{{JOIN}}
+
+"Field's mine. This isn't field."
 
 He did not put his three across. Cael saw the tall man's eyes go to the cut, and to his captain; and the captain shook his head, by the width of a finger.
 
@@ -354,4 +366,16 @@ Lira had come to his shoulder.
 
 She did not say anything for a while. She was looking where he was looking, which was nowhere, since there was nothing out there to look at; and he could hear, behind the two of them, a big man and a small pale woman and a quiet one, and a stick, who had all come to stand at that rim without being asked.
 
-[[TIER-B: the S23 close — "Every other one, yours worked and ours died." / "Yes." / "You think this one's different." / "I think this one's the first one they made," … "I think if any place on the continent is going to tell me what I am, it's the one they built to make sure I'd never be." / He stepped over the line. / His Path did not die. It also did not *notice* it should have. / "Wait here," he said, and did not look back, and walked toward the center of the oldest quiet, alone. — the plan calls this "Lira's fixed exchange" and gives it with one elision, so no speaker is pinned line by line and the break inside the long speech is not shown. Staged here: dusk at the western stump; Lira at Cael's left shoulder, the other four of the six behind them, Oryn by the mule, Teague's three turned away; the first and third lines hers, the second and fourth his; nothing of mine stands between her coming to his shoulder and this unit, and it closes the chapter. OWNER-pending #57's sentence stands inside it as the plan prints it — coordinator to supply protected text]]
+"Every other one, yours worked and ours died," Lira said.
+
+"Yes," Cael said.
+
+"You think this one's different."
+
+"I think this one's the first one they made," he said. "I think if any place on the continent is going to tell me what I am, it's the one they built to make sure I'd never be."
+
+He stepped over the line.
+
+His Path did not die. It also did not *notice* it should have.
+
+"Wait here," he said, and did not look back, and walked toward the center of the oldest quiet, alone.

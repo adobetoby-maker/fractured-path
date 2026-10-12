@@ -368,4 +368,4 @@ A small pale woman had ruled a line once, on a calfskin, along a strip of brass.
 
 He looked back. Four people were setting a blanket down on a flat of rock, in the mouth of a gap.
 
-[[TIER-B: the far-mouth realization — the plan gives it only in summary (at the far mouth Cael understands something about what the line had been drawn in), with the fragment "was not ink" fixed. Staged here: he has come out by the eastern mouth behind the blanket and stands on the lip above the plain; the three paragraphs above bring him to the pencil line and then to the blanket being set down behind him, and stop. I have not written the realization in other words. It closes the chapter — coordinator to supply protected text]]
+It was not ink.

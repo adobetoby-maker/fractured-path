@@ -144,7 +144,7 @@ He put his palm flat upon his own breastbone, like a fool, and felt his heart go
 
 There was no seam.
 
-He had been turned away from every made thing that he ever stood in front of. A plate had kept him waiting. A registry had found a word for him. A cord came up a stride short in his hand, and a brass rule lied by two hairs. He had thought for the whole of his life that he was a thing with the wrong edge on it, which went into nothing; and it had come to seem the plainest fact that he knew.
+He had been turned away from every made thing that he ever stood in front of. A plate had kept him waiting. A registry had found a word for him. A cord came up a stride short in his hand, and a brass rule read false by two hairs. He had thought for the whole of his life that he was a thing with the wrong edge on it, which went into nothing; and it had come to seem the plainest fact that he knew.
 
 He heard his own voice. He had not meant to speak.
 
@@ -240,7 +240,9 @@ So he gave them the count.
 
 The old man had been listening from his box. He had sat upon it since noon, when a healer told him to, and nobody had told him since that he might get down.
 
-[[TIER-B: "Twenty-nine tomorrow," / "Thirty's the month," — the packet sets the two lines directly after "gives them the count instead" and pins neither speaker. Staged here: at the western stump, after Cael's count of strides, with Vastin on his box and Oryn two paces off; the first reads as the old man's own count of his days (or as Cael's, who has kept it for him in the log) and the second as the healer's answer. The paragraph above and the one below stand for either — coordinator to supply protected text]]
+"Twenty-nine tomorrow," Vastin said.
+
+"Thirty's the month," said Oryn.
 
 It was the only other count that anybody had left that night. Cael went to the fire with it, and sat down by turning onto his right side first, and took out his book.
 

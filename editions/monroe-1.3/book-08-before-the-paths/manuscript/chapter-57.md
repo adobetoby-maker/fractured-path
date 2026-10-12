@@ -226,7 +226,7 @@ This leaned so, steadily, and there was not a mark upon it. There was no sign. T
 
 He could not have said what it leaned at. There was nothing in him to take a bearing by.
 
-[[TIER-B: "The same kind of thing, to that instrument, as the sites were to Cleon's." — the packet gives this as one quoted sentence of narration (BOOK_MAP §2 item 37 has it in lower case, as part of a longer sentence), with no word of how it begins. Staged here: it stands as Cael's own summing of what the twelfth has just given him, in his head, alone on the rock, after the three words and the shape; the fixed log below says the same in his hand. I have not written it in other words. If the full sentence opens differently, the paragraph above ends where it can be joined — coordinator to supply protected text]]
+The same kind of thing, to that instrument, as the sites were to Cleon's.
 
 He did not go one step past that.
 
