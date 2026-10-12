@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated": "2026-10-12T19:14:45Z",
+  "generated": "2026-10-12T20:24:40Z",
   "universe": "The Fractured Path",
   "sourceBranch": "main",
   "books": [
@@ -2281,7 +2281,7 @@
       "title": "No Path Given (Monroe 1.3 edition)",
       "edition": "monroe-1.3",
       "totalChapters": 61,
-      "renderedChapters": 15,
+      "renderedChapters": 16,
       "chapters": [
         {
           "number": 1,
@@ -2594,6 +2594,27 @@
               "sha256": "4b6b5d0e6d60078cde6e2c9782eadb9fcd7e9629567f583fe525debb8b7bf6b7",
               "sourceSha256": "2d7205b3d7821a40f67b457842e88163c2caa83e3afbae472f85049047fa1771",
               "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-03/local-breeze-directors-cut/chapter-15.mp3",
+              "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
+            }
+          ]
+        },
+        {
+          "number": 16,
+          "title": "Chapter 16 — Three Pages",
+          "manuscript": "books/fractured-path-monroe-1.3/book-03/manuscript/chapter-16.md",
+          "renders": [
+            {
+              "render": "local-breeze-directors-cut-audition",
+              "engine": "Local Breeze TTS 2 8-bit MLX (mlx-community/Breeze-TTS-2-mlx-8bit)",
+              "voice": "Original Calder clone · Local Breeze Director's Cut",
+              "methodId": "breeze-tts2-original-calder-local-directors-cut",
+              "finishState": "objective-qa-and-owner-listening-pending",
+              "file": "audio/fractured-path-monroe-1.3-book-03/local-breeze-directors-cut/chapter-16.mp3",
+              "bytes": 13990317,
+              "durationSec": 1748.7,
+              "sha256": "1a899a5e885695050e817933615f305ca04438b5fa4120f352d9eb0e4c5f3c5b",
+              "sourceSha256": "b1d53ca47f7211448495962f374ffd683054c31c2b474eeebdff80c12a8825a8",
+              "url": "https://media.githubusercontent.com/media/adobetoby-maker/fractured-path/main/audio/fractured-path-monroe-1.3-book-03/local-breeze-directors-cut/chapter-16.mp3",
               "note": "Listening audition · research/non-commercial licence · objective QA and owner listening pending. Standalone square-bracket directions were parsed into the following segment's instruct field and were never sent as spoken text. This audition is not production-approved or Finished."
             }
           ]
