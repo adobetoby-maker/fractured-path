@@ -128,3 +128,12 @@ Stations: Karis, Oryn and the mule at the east mouth (the foot). The line, sixty
 - **Ch17 sc.1:** Karis gives the number that she promised in daylight: five groups of signs, the same five in all six rows; the fifth "larger again than the fourth", not on the hide, its place unknown. **Sc.2:** the remark is in the fourth row, on the Stair's sheet, in a hand that she cannot tell from the dead surveyor's. **Sc.3:** Seln's fifth omission: the space for remarks is gone from the next year's printing.
 - **Ch18:** the cutaway ran to about 2,130 words (planned 1,850). Seln sets the sheet down with its head away from Cael, as every paper has lain before him. Seln's "a town at the end of that road" leaves "a day and a half" to Karis's close.
 - **Ch19 sc.5:** Vastin says nothing on the rise. Custody of the page does not change: Cael lays his hand on it and Karis puts it back in her coat.
+
+## Changes made in repair r1 (2026-10-11)
+
+- **Markers:** all six filled by the coordinator (Seln; Cael; Karis; Vastin / Karis / Cael; Oryn; Oryn). The "Protected units" list above describes the first draft.
+- **Ch13 sc.1:** one anchoring sentence for the page.
+- **Ch16 sc.2:** Seln is on the north bank beside the factor when he says that the cut is clear because it is empty. **Sc.3:** Cael had not known that he would say "You do now".
+- **Ch17 sc.1:** no number and no fifth place. Karis sorts the sign-groups, matches four to the hide, and will not call the others places. **Sc.2:** Brom counts the findings on his fingers; Karis will not swear to the hand of the four words either way; the ruler line stands verbatim where she stops the lamps sentence. **Sc.3:** no second calendar; Brom's join to the Stair's dead surveyor is gone. **Sc.4:** the same stroke and bar on all four, and nothing said of any other sheet.
+- **Ch18:** the date is a registry date laid against a registry date, by Seln and then by Cael, with no arithmetic. Vastin names the town at the close.
+- **Ch19 sc.1:** Oryn begins with the board at the foot of a bed and refuses the place only when Brom asks. **Sc.4–5:** boxes on Brom, Lira and Cael; Seln carries none; Vastin goes back for the tarred case after Oryn has gone and tells Cael so. **Sc.6:** Vastin walks beside Cael from the top of the rise. The chapter now has six scenes.

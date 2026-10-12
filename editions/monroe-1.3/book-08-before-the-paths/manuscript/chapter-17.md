@@ -22,23 +22,21 @@ Brom sat on the basin's rim with his right boot off and his bound toes in the ov
 
 "Now," said Karis.
 
-She had gone back to the uppermost row. She went through it a third time, quickly, looking only at the heads, and she laid a finger of her left glove on the rock for every group of four signs that she had not yet met in that row. The thumb went down last. She did the same with the second row, and the third, and so to the sixth, and each time the thumb went down, and no sixth finger was wanted.
+She had gone back to the uppermost row. She went through it a third time, quickly, looking only at the heads; and this time she did not count upon her fingers, as she had by the lamp. She sorted. Where the four signs at a sheet's head were the same four as on the sheet before, it stayed where it lay. Where they were another four, she turned its corner up. She could not read a sign of them. She could tell one group from another as she could tell Brom's face from Lira's.
 
-"Five," she said. "I said more than four, by a lamp, and that I should give a number when I had checked it in daylight. It is five. It is the same five in every one of six years; I cannot read a sign of them, and I can tell one group from another as I can tell your five faces."
+"I said by a lamp that I should give you a number when I had checked it in daylight," she said. "I have checked it, and I am not going to give one, and I owe you the reason. What I counted that night were groups of signs. I let you think that I was counting places, and I thought so myself." She laid her pencil down. "I do not know that. Two clerks may sign one place in two ways. One place may be entered under one group for its floor and under another for its fence. Until somebody can read a sign, a group is a group, and I shall not put my name to how many holes in the ground it comes to."
 
-"Four on the hide," said Brom. "And one over."
+"There's four on the hide," said Brom.
 
-"Wait. I do not yet know that our four are among them. I have only supposed it." She had the calfskin out, and she unrolled it at the slab's end, under four pebbles of her own choosing, with the pencil line running through its four rings. "The Stair I know, since his book gives me its signs. For the others I have only the measures. Three of our places were of one size, and the fourth was twice that, by the bend of its fence. If these sheets say the same, I shall believe them."
+"There are, and with those I can do something." She had the calfskin out, and she unrolled it at the slab's end, under four pebbles of her own choosing, with the pencil line running through its four rings. "The Stair I know, since his book gives me its signs. For the others I have only the measures. Three of our places were of one size, and the fourth was twice that, by the bend of its fence. If four groups in these rows say the same, I shall believe them."
 
-She took one sheet from each of four groups, and laid them side by side, and read down the third column of each with her lips moving. A cord knotted at the fives had been run out from a centre to an edge. She did not need to turn lengths and knots into anything; she needed only to see whether four entries agreed.
+She drew out a sheet from under one turned corner after another, and read down the third column of each with her lips moving. A cord knotted at the fives had been run out from a centre to an edge. She did not need to turn lengths and knots into anything; she needed only to see which entries agreed. It was some time before she laid four sheets side by side.
 
-"Three alike, to the stride," she said. "And one that is double. They are ours."
+"Three alike, to the stride," she said. "And one that is double. Those are ours: the Fallow, and the Stair, and the hall, and the place behind the iron."
 
-"And the fifth?" said Lira.
+"And the others?" said Lira. She was looking at the corners that were still turned up.
 
-Karis looked at the fifth group's sheet, which she had not lifted from its row.
-
-"The fifth is larger again than the fourth. I have read its measure and nothing else, and I shall say nothing else until I have turned every sheet that it has. It is not on the hide. I do not know where it is. These are an office's signs for a place, and I cannot read them; if I could, I should not have needed to walk here."
+"The others are sheets whose signs I have matched to nothing. I shall not call them places, and I should be glad if nobody else did." Karis turned the corners down again, one after another, and squared the row. "They go back as they came out. When a sign can be read, I shall know what I was holding."
 
 Nobody spoke. Cael looked at the calfskin, where a ruled line went through four rings and off the edge of the skin onto bare rock. He had watched a small pale woman slide a strip of brass along that line, a hand at a time, on the first night of a cold term, past the fourth ring and onto the table, as though the deal might have something to say about where it went next.
 
@@ -52,13 +50,17 @@ He had not sat. Oryn had rebound the knee at the basin as soon as they halted, w
 
 Karis put one gloved finger at the head of the nearest sheet.
 
-"There are five columns, and they are the same five on every sheet in six rows. The first is the day, in the office's reckoning. The second is the station: he measures from eight points round the edge, by the compass and its halves, as the man did whose book I have. The third is the measure. The fourth is headed *Instruments*. And the fifth is the narrow one, which is headed in plain letters for the anomaly."
+"There are five columns, and they are the same five on every sheet in six rows. The first is the day, in the registry's reckoning. The second is the station: he measures from eight points round the edge, by the compass and its halves, as the man did whose book I have. The third is the measure. The fourth is headed *Instruments*. And the fifth is the narrow one, which is headed in plain letters for the anomaly."
 
 She went down them, a column at a time, across all six rows, and it took her a long while, and she gave it to them as she found it.
 
-The measure did not change. That was the first thing, and she read it three times before she would say it. Each of the five places had been run out from its eight stations in every one of six years, by four different surveyors, to judge by the figures' shapes; and not one radius had altered by a single stride. She had expected that a thing would grow, or shrink. A marsh did, and a river-bed. These had sat where they were as a millstone sits.
+The measure did not change. That was the first thing, and she read it three times before she would say it. Each of the four places on the hide had been run out from its eight stations in every one of six years, by four different surveyors, to judge by the figures' shapes; and not one radius had altered by a single stride. She had expected that a thing would grow, or shrink. A marsh did, and a river-bed. These had sat where they were as a millstone sits.
 
 "Whatever they are, they are not spreading," she said. "And they are not going away. I had not known until this morning that I was afraid of the one or hoping for the other."
+
+"So that's the first thing," said Brom, from the basin. He put up a thumb. "Six years, and nothing's moved."
+
+"That is the first thing."
 
 The fifth column she had read by a lamp already. There were three clerks' hands in six years: a round one, and a cramped one that leaned backward, and one that made its capitals like gates. Each of them had written the same single word against every station of every place.
 
@@ -72,31 +74,43 @@ Cael felt it in his stomach before he had understood why.
 
 Nobody looked at him. He was grateful for that, and he knew what it cost at least one of them. A surveyor's cord had been carried into each of those places, year upon year, by men whose business was to notice if it read amiss; and it had read true, every time, as it had in an inn yard for Karis and Lira and Brom and Seln. There had never been anything the matter with the cord.
 
+"That's the second," said Brom. A finger went up beside the thumb. He was looking at the water, and at nobody. "Their tools work in there. It's sigils that stop, and nothing else that they carried."
+
 Karis did not lift her eyes from the sheet. She had a hair pressed in the fold of her notebook, and a line under it that said *no inference entered*, and she turned the leaf of the abstract over a little faster than she had turned the others.
 
 "There is a sixth thing on the older forms," she said. "It is not a column. It is a space at the foot, ruled off, and headed *Remarks*. It is empty on every sheet in the three lowest rows but one."
 
-She drew that one out. It was from the fourth row, and it had the Stair's signs at its head, and the number thirty-two. At its foot, in the ruled space, there were four words in a hand that was small, and upright, and pressed hard.
+She drew that one out. It was from the fourth row, and it had the Stair's signs at its head, and the number thirty-two. At its foot, in the ruled space, there were four words. They were not in any of the three clerks' hands.
 
-She did not read them at once. She reached behind her, to the tarred case, and brought out the dead man's ledger, and laid it open beside the sheet; and she looked from the one to the other for as long as it took Brom to draw his foot out of the water.
+She did not read them at once. She reached behind her, to the tarred case, and brought out the dead man's ledger, and laid it open beside the sheet; and she looked from the one to the other for as long as it took Brom to draw his foot out of the water. Then she shut the ledger.
 
-"It is his," she said. "I should not swear to a hand on four words. I shall say that I see no difference." She read it then, to the whole slab, in the voice that she kept for another person's finding.
+"I shall not swear to a hand on four words," she said. "I shall not say that it is his, and I shall not say that it is another's. I tell you so now, so that nobody need ask me."
+
+She read the words to the whole slab, in the voice that she kept for another person's finding.
 
 *Behaves as device. Cannot be.*
 
 "What does?" said Brom.
 
-"The place. He has written it against the fifth column, under the word that they all write." Her finger lay beside the ruled space, not on it. "He was a man who lived among instruments. He knew how a made thing behaves: it does the same at every hour, for every person who comes to it, and it has an edge that you could rule. That is what he found at the line. And then he has written that it cannot be one."
+"The place. He has written it against the fifth column, under the word that they all write. He was a man who lived among instruments, whoever he was, and he knew what a device does. It does the same thing at every hour, for every person who comes to it, and it has an edge that you could rule." She had laid her pencil across the sheet's foot, to keep the wind from its corner. "That is what he found at the line. And then he has written that it cannot be one."
 
 "Why can't it?"
 
-"He does not say. I suppose that nobody could tell him who had made such a thing, or how it would be made; and a surveyor is not paid to suppose." She had taken her hand away. "I felt it, at three of those lines. So did four of you. There was no dimming. It went out at one stride, for a third rank and a first and a Copper alike, and came back at the same stride, whole. It was not as a person tires. It was as a row of lamps—"
+"He does not say. He had room for four words, and he spent two of them on that."
+
+She took up the pencil again, and turned it in her fingers.
+
+"I felt it, at three of those lines. So did four of you. There was no dimming. It went out at one stride, for a third rank and a first and a Copper alike, and came back at the same stride, whole. It was not as a person tires. It was as a row of lamps—"
 
 She stopped.
 
 Cael had never seen her stop so. Her mouth stayed a little open on the next word, and he watched her look at it, as she would have looked at a figure that had come out too neatly.
 
-"No," said Karis. "I have a rule for this, and I said it twice in a yard. I was about to tell you what a thing is from how it felt in my own hand, and my hand is the only ruler that I had there. I shall not finish that."
+"No," said Karis. "A measurement is a fact about a ruler, not about the hand that held it."
+
+She had said it twice in an inn yard, a hundred and twelve days ago, to him. She said it now to herself.
+
+"I was about to tell you what a thing is from how it went out in me. I was the ruler, at those lines; I had no other. I shall not finish that."
 
 "You'd got as far as lamps," said Lira.
 
@@ -110,27 +124,31 @@ Seln had read all six rows while she was at the fourth column, standing at her s
 
 He had his hands in his sleeves. He spoke to the paper.
 
-"There is no routing head on any sheet. That you knew. There is no surveyor's name; a field book is signed, and an abstract ought to carry the name that the book carried, and these carry a number in its place. There is nothing to say who ordered a man to walk round the same five places for six years. And there is no column for a cause." He let that stand a moment. "A form is a list of the questions that its maker expected to be asked. Somebody expected to be asked the day, and the measure, and whether the cord was true. Nobody expected to be asked why the thing happens. I have never before seen an office measure a matter so carefully and show so little wish to understand it."
+"There is no routing head on any sheet. That you knew. There is no surveyor's name; a field book is signed, and an abstract ought to carry the name that the book carried, and these carry a number in its place. There is nothing to say who ordered a man to walk round the same places for six years. And there is no column for a cause." He let that stand a moment. "A form is a list of the questions that its maker expected to be asked. Somebody expected to be asked the day, and the measure, and whether the cord was true. Nobody expected to be asked why the thing happens. I have never before seen an office measure a matter so carefully and show so little wish to understand it."
 
 "That is four," said Karis.
 
-"The fifth is yours. You found the remark; I looked for what came after it." He drew a sheet from the third row, and one from the second, and laid them beside the Stair's. "On the form that he wrote upon, there is a space at the foot for remarks. On the next year's printing there is none. The rule that closed it off has been taken out of the block, and the fifth column runs to the foot of the sheet. Somebody read those four words. It is the only sign in six rows that anybody read anything at all; and what he did, having read them, was to see that no surveyor should have room to write four more."
+"The fifth is yours. You found the remark; I looked for what came after it."
+
+He drew a sheet from the third row, and one from the second, and laid them beside the Stair's.
+
+"On the form that those four words were written upon, there is a space at the foot for remarks. On the next year's printing there is none. The rule that closed it off has been taken out of the block, and the fifth column runs to the foot of the sheet." His mild voice did not alter. "Somebody read them. It is the only sign in six rows that anybody read anything at all; and what he did, having read them, was to see that no surveyor should have room to write four more."
 
 Lira let her breath go through her teeth.
 
-"And the man who wrote them went down forty steps with a stake," said Brom slowly, "and never came up."
+"That's the third, then, and it's the worst," said Brom. He had three fingers up, and he looked at them. "One man wrote down what he thought. The year after, there's nowhere on the sheet to think."
 
-"I do not join those," said Seln. "I only lay them where they can be seen."
+"I do not say why," said Seln. "I only lay the two sheets where they can be seen."
 
 Vastin had listened to the whole of it with his head a little bent, as he might have listened to a junior presenting a file. When he spoke it was to Karis, since it was she who had asked him.
 
-"You wished to know what the form is. It is a survey abstract of the second schedule: that is to say, it is the sheet that stands in place of the field book when the book has been called in. The book itself does not survive it. I think that you hold the only one that ever escaped; and it escaped because its owner did not come home." His left hand, which would not open, lay on the stick's head. "The sheets are drawn at the year's end, in the office that has the charge of the stations. You will have seen that the days run strangely."
+"You wished to know what the form is. It is a survey abstract of the second schedule: that is to say, it is the sheet that stands in place of the field book when the book has been called in. The book itself does not survive it. I think that you hold the only one that ever escaped; and it escaped because its owner did not come home." His left hand, which would not open, lay on the stick's head. "The sheets are drawn at the year's end, in the office that has the charge of the stations. A clerk enters what the form has a column for. What it has no column for goes with the book."
 
-"I have seen that I cannot make them agree with the broker's paper, which gives a day past the Line."
+"So when a space is taken out of the form," said Karis slowly, "whatever a man would have written in it is not lost by anybody's hand. It is only never copied."
 
-"You will not. That office does not keep the seat's year; it keeps its own, which opens later. It is an old quarrel about who was founded first, and I shall not weary you with it. A day that is written in the stations' count must be turned before it can be laid beside a registry date, and the turning is a matter of taking off the difference." He gave the difference, which was a number of days that any child could have subtracted, and Karis wrote it in her margin. "Every junior does that sum in his first week, and gets it wrong once. A return that comes up from a station is dated so. A paper that goes down from the seat, to a district or to a person, is dated the other way."
+"That is how it is done. I have signed a good many amended forms, and I did not once ask what the amendment was for."
 
-"Thank you," said Karis. "That is the first thing in these rows that anybody has been able to explain to me."
+"Thank you. That is the first thing in these rows that anybody has been able to explain to me."
 
 He had been looking along the slab while he spoke: at six loose heaps, and their tapes lying in a tangle, and the wind lifting a corner.
 
@@ -160,7 +178,7 @@ He took that without a word. Seln's eyes had not left him.
 
 "There is a thing at the head of each sheet which I have left until last," said Karis, "since I knew that I should not be able to keep my temper with it."
 
-She had the four sheets side by side again, the three that were alike and the one that was double. She laid her pencil along the top of them. To the right of the four signs and the number, on every one, a small square had been ruled off by the printer, with a heading above it in the same signs that nobody could read; and in the square, in ink, a clerk had made a mark.
+She had the four sheets side by side again, the three that were alike and the one that was double. She laid her pencil along the top of them. To the right of the four signs and the number, on every one, a small square had been ruled off by the printer, with a heading above it in the same signs that nobody could read; and in the square, in ink, a clerk had set a mark.
 
 It was a short stroke, and beneath the stroke a bar.
 
@@ -174,17 +192,17 @@ Cael knew it before she had moved the pencil. It was struck into the head of an 
 
 "Then what's it for?" said Lira.
 
-"It has a square. A printer cut a block with a ruled place in it, and a heading over the place, for a clerk to fill. Nobody rules a place on a form for a thing that is always the same." She was speaking very fast now, and very small. "It is a class. It is the kind of thing that a certificate has, at its head, where it says what its bearer is. And I shall tell you one thing more, and then I shall stop, since I can see the edge of what I know. On the sheets of the fifth place, that square is not filled as ours are."
+"It has a square. A printer cut a block with a ruled place in it, and a heading over the place, for a clerk to fill. Nobody rules a place on a form for a thing that is always the same." She was speaking very fast now, and very small. "It is a class. It is the kind of thing that a certificate has, at its head, where it says what its bearer is."
 
-"How is it filled?"
+"A class of what?"
 
-"I shall draw it, exactly, and show it to nobody until I can say what I am showing. I have learned what comes of describing a mark before I can read it. I had two with and two without for the whole of a cold term, and I made nothing of them."
+"I cannot read the heading. I cannot read the mark." Her pencil had stopped. "I had two with it and two without for the whole of a cold term, and I made nothing of them. I have four alike this morning, and I can make no more of four."
 
-She took the dead man's ledger, and opened it at its first page, and set it down above the four sheets, so that a small pressed stroke and bar in pencil lay over four in a clerk's ink.
+She took the dead man's ledger again, and opened it at its first page, and set it down above the four sheets, so that a small pressed stroke and bar in pencil lay over four in a clerk's ink.
 
 Karis said, "Two copies of one ignorance."
 
-Nobody at the slab asked who had filled that square, or by what rule, since there was not a person there who could have answered. Cael looked at five small marks. He had been stood on a plate once, and something had been written at the head of a sheet about him, in a place that a printer had ruled for it. It appeared that a hole in the ground could be filed in the same fashion. He put that where he put the rest, and added no verb to it.
+Nobody at the slab asked who had filled that square, or by what rule, since there was not a person there who could have answered. Cael looked at the small marks, the one in pencil and the four in ink. He had been stood on a plate once, and something had been written at the head of a sheet about him, in a place that a printer had ruled for it. It appeared that a hole in the ground could be filed in the same fashion. He put that where he put the rest, and added no verb to it.
 
 Vastin had drawn breath, and Cael saw him shut his mouth on it. It was the first time that he had done so of himself.
 

@@ -1,12 +1,12 @@
 # Chapter 18 — A Year and a Day
 
-Seln had taken the sheet an hour before, from the foot of the second row, while a small pale woman was reading a dead man's four words aloud; and it had troubled him a little that it was still so easy.
+Seln had taken the sheet an hour before, from the foot of the second row, while a small pale woman was reading four words aloud from the foot of another; and it had troubled him a little that it was still so easy.
 
 He had lifted papers out of heaps under their owners' eyes for the better part of his working life. One did not snatch. One was seen to be handling the heap for an honest reason, as he had been, reading six rows for what they left out. One's left hand squared the sheets while the right went on turning them. The sheet was in his sleeve before the pebble was back on its corner. Nobody at the slab had looked up. They were the only six people living from whom he had never before taken anything.
 
 He stood at the basin now, with his back to the rock, and held the thing low against his body, where the wind could not get at it.
 
-He had read it once already, on the night of the two hundred and seventy-seventh, over a shoulder, by one lamp. He had not meant to read the date at all. Karis's pencil had come to it, and written a year and a day in a clerk's figures, exactly as they stood; and a man who has copied the seat's paper for fifteen years does not see a station's date without turning it, any more than a carter sees a load without knowing what it weighs. The turning had been done before he knew that he was doing it. A day had come out.
+He had read it once already, on the night of the two hundred and seventy-seventh, over a shoulder, by one lamp. He had not meant to read the date at all. Karis's pencil had come to it, and written a year of the registry's and a day in that year, in a clerk's figures, exactly as they stood; and a man who has copied the seat's paper for fifteen years reads such a date as a carter reads a load, whether he chooses to or not. He had read it before he knew that he was reading.
 
 He had known that day. He had written it.
 
@@ -16,15 +16,13 @@ So he had stopped. He remembered it without any pride: his hands, and his breath
 
 He had not been certain. That was the reason that he had given himself, and it had been a good one for two days.
 
-A sum done in the head, by lamplight, over another person's shoulder, at the end of such a day, by a man who would have paid a year's wages for it to come out otherwise, was not a finding. He might have taken one figure for another. He might have had the difference wrong; it was a long while since he had needed it. He might, after fifteen years of files, have laid the wrong day at the head of the right one. There were three places where he could have slipped, and he had spent two days on a road going over each of the three.
+A date read once, by lamplight, over another person's shoulder, in another person's pencil, at the end of such a day, by a man who would have paid a year's wages to find it otherwise, was not a finding. He might have taken one figure for another. So might she, for all that she never did. He might, after fifteen years of files, have laid the wrong day at the head of the right one. There were three places where it could have slipped, and he had spent two days on a road going over each of the three.
 
-This morning a man on a stick had given the difference aloud, to a notebook, in front of seven people, and it was the difference that Seln had used.
+He read it again now, properly.
 
-He did the sum again now, properly.
+He had the sheet itself this time, and daylight, and nobody at his shoulder. He read the technician's date a figure at a time, with his thumb moving under it, as he had not read anything since he was a junior: the year first, and then the day. He turned the sheet over, and looked at the brush's work on its back, and turned it again, and read the date a second time from its last figure to its first. Then he shut his eyes. He set the other date beside it, the one that he had copied twice, and went along the two of them together, as a clerk goes down a copy against its original.
 
-He did it first as he had been taught to, taking off. Then he did it the other way about, from the day that he remembered, adding, to see whether he came back to the figure on the sheet. He checked the year. He turned the sheet over, and looked at the brush's work on its back, and turned it again. He read the technician's date a figure at a time, with his thumb moving under it, as he had not read anything since he was a junior. He tried it a third time by a different road, through the day column of the abstract that had lain next to it in the row.
-
-It came out as it had by the lamp. It came out so all three times.
+They agreed. They had agreed by the lamp, and they agreed now.
 
 He stood for a while and watched the water run over the basin's lip.
 
@@ -56,7 +54,7 @@ The kindest thing that he knew how to do for the boy was, in every particular th
 
 He wanted the boy to have it, and to be free of him in the having.
 
-That was all. The boy could read a registry date; he had read them upside down on other people's desks for as long as Seln had known him. He had heard the difference given an hour ago, and he forgot nothing that had a number in it. If the sheet lay before him he would turn it, or he would not. If he did not, it was not yet his to carry. If he did, then he might write it or burn it, and tell five people or none. Nobody alive would have the right to ask him what he had made of it. Seln would least of all, having said nothing.
+That was all. The boy could read a registry date; he had read them upside down on other people's desks for as long as Seln had known him. He knew this one a great deal better than Seln did, since every paper that had ever been served on him began with it. If the sheet lay before him he would see what it was, or he would not look. If he did not look, it was not yet his to carry. If he did, then he might write it or burn it, and tell five people or none. Nobody alive would have the right to ask him what he had made of it. Seln would least of all, having said nothing.
 
 It had a cost, and he made himself price it, as that large young man would have.
 
@@ -72,7 +70,7 @@ He heard the boy give a figure. He heard a pencil stop. *Again*, said Karis, qui
 
 Seln turned round.
 
-He had not thought of it. He had taken one sheet from the foot of one row, to keep a thing from being said before it was sure. He had forgotten that she never trusted a count until a second person had made it. She had put that row into the one pair of hands in which a cord had read short. He saw those hands now. They lay flat on the rock, on either side of the heap, and they had gone the colour of the paper. The boy was looking at them as a man looks at a tool that has failed him twice.
+He had not thought of it. He had taken one sheet from the foot of one row, to be sure of a thing before he did anything with it. He had forgotten that she never trusted a count until a second person had made it. She had put that row into the one pair of hands in which a cord had read short. He saw those hands now. They lay flat on the rock, on either side of the heap, and they had gone the colour of the paper. The boy was looking at them as a man looks at a tool that has failed him twice.
 
 Seln had been wrong about a desk, after a hundred and forty-seven days of counting it. He had been wrong about this by the width of a slab of rock, and it had taken him less than an hour.
 
@@ -98,17 +96,15 @@ He had heard it read, by a lamp, in Lira's voice, from the far end of a table. T
 
 The second line he had never seen. It was a date. There was a year of the registry's in it, and a day in that year, in a clerk's figures.
 
-It told him nothing, at first. It was near a date that he knew, and it was not that date. He had read a great many, upside down, on a great many desks, and they were all of them near to one another. He would have left it there. But a man on a stick had said this morning that a return which came up from a station was dated in the stations' count, and had to be turned. He had said by how much.
+He read it as he would have read any other, and went on to the line beneath. Then his eyes came back. He had read a great many such dates, upside down, on a great many desks, and they were all of them much alike; but this one he seemed to have met, as a person seems to have met a face in a crowd.
 
-It was not a hard sum. A child could have done it, the man had said.
+He did not trust that. He did it as a sum is done.
 
-He took off the difference.
+There was one date that he knew as he knew his own name. He set it beside the technician's, in his head, and went along the two of them a figure at a time: the year, and then the day. He did it without moving his lips, with his two hands flat on the rock. He did not believe what he had, and he did it again from the far end, backward, from the last figure to the first.
 
-He did it without moving his lips, with his two hands flat on the rock. He did not believe what he had, and he did it the other way about, from the far end, adding. He came back to the figures that lay before him in a stranger's ink.
+They were one date.
 
-He knew the day.
-
-It was written in his own file, on the first line of the first sheet. It came after his name and before a word in square brackets, where the registry puts the day on which a person was classed. He had first read it at fourteen, the wrong way up, across a counter, while a woman with a pen made a small mark beside it. Every paper that the Compact had ever served on him had begun with it: a summons, and a challenge under a seal, and an order for a room and an hour. It was the day on which he had stood in a windowless building and put his hand where he was shown. A plate of brass had taken eleven seconds over him.
+He knew the day. It was written in his own file, on the first line of the first sheet. It came after his name and before a word in square brackets, where the registry puts the day on which a person was classed. He had first read it at fourteen, the wrong way up, across a counter, while a woman with a pen made a small mark beside it. Every paper that the Compact had ever served on him had begun with it: a summons, and a challenge under a seal, and an order for a room and an hour. It was the day on which he had stood in a windowless building and put his hand where he was shown. A plate of brass had taken eleven seconds over him.
 
 He had been waiting for it, he found, without knowing that he waited. A quiet man had stopped like a clock over that date, by a lamp. There was only one day in the registry's whole count that could have stopped him so on Cael's account.
 
@@ -130,13 +126,11 @@ His left hand had gone into his coat.
 
 It had Hesk's book half out before he knew what it was about. He had written down everything that had ever happened to him. It was how an old man had taught him to keep from being told what he was: one noted the day, and the count, and the trend. He had the pencil. He had the place, under yesterday's line.
 
-He looked at the blank beneath it for as long as he could have held his breath.
+He looked at the blank beneath it for as long as he could have held his breath, and it frightened him more than the date had.
 
 If he wrote the two days side by side, he would have drawn the line himself. It would not matter that he added no verb. A sum set down with its answer showing is a sentence. Anybody who opened that book would finish it for him: Lira, who had read it, or a healer, who had made him swear by it once. And it was not his alone. A man at a basin had carried it for three days, and had put it into his hands without a word, so that it need never be said.
 
 He put the book back.
-
-It was the first thing since he had learned to hold a pencil that he had known and had not entered. He was a little afraid of how easy it was.
 
 He lifted the second row with both hands, and laid the technician's sheet in at its foot, where an office had filed it, and squared the heap upon it.
 
@@ -150,6 +144,8 @@ She had been given those words before, in a store, by another man, about the sam
 
 Lira was looking at him across the rock, with her chin up. She had a look for when he had put a thing away where she could not get at it, and he had seen it perhaps four times in his life. She gave it to him now, and held it, and let it go.
 
+He had entered every day that had happened to him since an old man put a pencil into his hand, and he supposed that he would go on doing so. There was one line now that Hesk's book would never have. He would always know the place where it was not.
+
 ---
 
 "That is all six," said Karis. "Counted twice, by two people, and agreed."
@@ -158,7 +154,7 @@ She had the rows back in the leather in their order, and the flap down. Nobody h
 
 Vastin had stood through the whole of the morning. He was standing now, a yard from the rock, with both hands on the head of his stick and his eyes on that flat of waxed leather. Cael, who had had reason to watch faces that day, saw something gather in his.
 
-"There are five places," the old man said slowly. He was not speaking to anybody. "They have been measured for six years by an office that told no other office. They are classed, by a mark that the survey's own people carry on their iron. A surveyor who formed a view of them had the space for his view struck off the form, and is dead. And a return upon the deepest thing that the Compact owns has been laid among their sheets, for want of a shelf, with a brush drawn through it." His voice had quickened, and gone level. "This has to go up."
+"There are places in that country," the old man said slowly. He was not speaking to anybody. "They have been measured for six years by an office that told no other office. They are classed, by a mark that the survey's own people carry on their iron. A surveyor who formed a view of them had the space for his view struck off the form. And a return upon the deepest thing that the Compact owns has been laid among their sheets, for want of a shelf, with a brush drawn through it." His voice had quickened, and gone level. "This has to go up."
 
 Nobody answered him.
 
@@ -218,6 +214,8 @@ She turned her head, and looked westward, where the road went over the next swel
 
 "Treswick," Vastin said.
 
+He had said it once before, at a board, as a man reads a place off a waybill. He did not say it so now.
+
 Karis said, "The archive under it. Cleon."
 
 "Who's Cleon?" Cael said.
@@ -230,7 +228,7 @@ She took one glove off, a finger at a time, and looked at the hand inside it.
 
 Nobody answered her at once.
 
-It was the first time that the town had been named aloud since a page was opened on a table. It lay on the moor now among the seven of them, like a thing set down. Cael turned the other name over. It was a short one, and he had never heard it. A man sat under that town with his hands on a language, and had a name, and had been waiting there, it seemed, for somebody to bring him three floors.
+It was the first time that the town had been named aloud since a page was opened on a table, and the man who had carried the page was the one to do it. It lay on the moor now among the seven of them, like a thing set down. Cael turned the other name over. It was a short one, and he had never heard it. A man sat under that town with his hands on a language, and had a name, and had been waiting there, it seemed, for somebody to bring him three floors.
 
 At the basin a square woman had stopped wringing linen. She stood with a wet cloth in her two fists and her head a little turned. She had heard a station spoken of twice at a board, and had shut her mouth on something each time; she had heard an archive spoken of today. He saw her put the cloth down on the stones, very deliberately, as she put down a thing that she meant to come back to.
 
@@ -246,7 +244,7 @@ At the basin a square woman had stopped wringing linen. She stood with a wet clo
 
 Karis put the glove on.
 
-He went and got the mule himself. Nobody had asked for hands, and nobody did. There was a road, and it went one way. A job had put them on it, and what lay at its end had been named now by the person with the best right to name it. He found that he had no ruling left to give. He had only to pick up a box.
+He went and got the mule himself. Nobody had asked for hands, and nobody did. There was a road, and it went one way. A job had put them on it, and what lay at its end had been named now by the two people with the best right to name it. He found that he had no ruling left to give. He had only to pick up a box.
 
 "The fork by dark," he said. "Oryn, how far is it?"
 

@@ -2,7 +2,7 @@
 
 The page lay where it had lain all night, on its square of oilcloth at the bare end of the deal, and the first grey light out of the one small window showed Cael that nobody had moved it.
 
-He had slept beside it, after a fashion, on the meal-sacks. He had got up twice in the dark to see that it was there, which was foolish, since a sheet of desk paper does not walk; and each time he had stood over it, keeping both hands by him, and had gone back to the sacks.
+He had slept beside it, after a fashion, on the meal-sacks. It was one line out of an old register, copied by a man who had then walked three hundred miles to lay it on that table, and it sent whoever read it to a town. He had got up twice in the dark to see that it was there, which was foolish, since a sheet of desk paper does not walk; and each time he had stood over it, keeping both hands by him, and had gone back to the sacks.
 
 Karis came in before the smith's first hammer, with her gloves on already.
 
@@ -31,8 +31,6 @@ Five of them read it together from the left-hand post, since Lira and Brom had c
 Nobody answered him at once.
 
 Cael read the slip a second time, as he read anything, and it was the last five words that he read. Two roads left the western landing. One ran away to the south and west for three hundred miles, to a ford and a station and a house with a seal, and an old man had come down it on a stick. The other was the border road. It went up over a moor to the Line by the short way, and Cael knew what stood at the end of it, since a small pale woman had laid her palm on a strip of oilcloth and told him; and last night he had read it again, in a square black copy, under a title.
-
-He did not need to look round to know that the other four were reading the same five words.
 
 "Two days west," said Lira, with her lips. She did not say the rest.
 
@@ -254,9 +252,7 @@ Lira had her chin on her knee. She had been studying the man across the dead rin
 
 "No. It is as much of one as I should care to see entered against a person who had been on your road for eight hours."
 
-She let it go, and Cael saw that it had not displeased her.
-
-With the dark, the quietest of the ten came up in him to the height of his knees, and he held it there, as he did at every dusk. A healer sat on the next stone with her sleeves down. She had looked at a stiff leg four times since the bread was cut, and Tide, the tenth, lay as still in him as she sat, and for the same reason: nobody had been asked.
+With the dark, the quietest of the ten came up in Cael to the height of his knees, and he held it there, as he did at every dusk. A healer sat on the next stone with her sleeves down. She had looked at a stiff leg four times since the bread was cut, and Tide, the tenth, lay as still in him as she sat, and for the same reason: nobody had been asked.
 
 Brom had brought seven bowls out of the pannier, and nobody had seen him count. He filled the seventh with what there was, which was cold barley and a heel of cheese, and set it on a stone; and Vastin thanked him by name. A little afterward a copper lay on that stone beside the empty bowl. Brom looked at it for a while, and left it where it was.
 

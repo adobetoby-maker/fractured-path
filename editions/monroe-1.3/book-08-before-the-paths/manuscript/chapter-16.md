@@ -88,11 +88,13 @@ The crook was leaned against the bank. The factor climbed the low side with the 
 
 "That's rotten. It's been rotten a week; I'd not have put a lamb on it." There was a long silence. "I never saw that water give back anything that went in."
 
-"So it's clear," said Brom.
+"So it's clear," said Brom, from his stone.
+
+Seln had come up onto the bank at the factor's other side. Cael had not seen him climb it. He was wet to the shins still, and he was looking down at a piece of black water the shape of a slate, as he looked at a paper that he had finished with.
 
 "It's clear because it's empty, not because it's safe," said Seln.
 
-Nobody added to it, and the factor came down off the bank.
+The factor turned to look at him, and found nothing to dispute, and came down off the bank.
 
 "Empty's what I posted. I never asked anybody for safe. I've lived on this shoulder since I was born, and that seep'll have its glass back by morning." A hand went into the apron. "There's another den'll find it, in a year, or in five. They'll have to learn it from the beginning, as these did; and by then I'll have had thirty carts of salt up."
 
@@ -164,7 +166,9 @@ Nobody answered him. The fire ticked.
 
 "You do now," Cael said.
 
-Vastin received it as he had received the price of a loaf. He bowed his head by a little, toward the voice, and it was not the short stiff bow; it was a good deal less practised than that.
+He had not known that he was going to say it. It was out before he had weighed it, at a board, to a man who had once sat across a table from him with a file; and nobody at that board looked surprised but himself.
+
+Vastin received it as he had received the price of a loaf. He bowed his head by a little, toward the bench's end, and it was not the short stiff bow; it was a good deal less practised than that.
 
 "I know fields. I don't know packs." Vastin took up the stick. "I'll learn or I won't."
 
