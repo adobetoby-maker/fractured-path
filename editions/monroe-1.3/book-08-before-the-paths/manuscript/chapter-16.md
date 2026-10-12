@@ -10,7 +10,7 @@ Vastin had straightened. He had his back to the south bank and both hands on the
 
 "I am in no immediate—"
 
-"I'll say when it's my turn to be told." She did not go nearer. "Three days ago, at a board, I opened my mouth about that leg, and you answered a thing that I'd not yet put. You said that you offered it to nobody. So I said that I still hadn't asked, and I let it lie, since that's my rule and I keep it." She pushed her left sleeve a little higher. "This is the asking. There are teeth in that, and under the teeth a joint that's been walked three hundred miles and then stood on by eight of those. I want my hands on it. And I want two fingers on your wrist while I'm there, to learn what's left in you. May I?"
+"I'll say when it's my turn to be told." She did not go nearer. "Two days ago, at a board, I opened my mouth about that leg, and you answered a thing that I'd not yet put. You said that you offered it to nobody. So I said that I still hadn't asked, and I let it lie, since that's my rule and I keep it." She pushed her left sleeve a little higher. "This is the asking. There are teeth in that, and under the teeth a joint that's been walked three hundred miles and then stood on by eight of those. I want my hands on it. And I want two fingers on your wrist while I'm there, to learn what's left in you. May I?"
 
 He did not answer at once.
 

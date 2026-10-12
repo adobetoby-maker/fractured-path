@@ -6,7 +6,7 @@ He had lifted papers out of heaps under their owners' eyes for the better part o
 
 He stood at the basin now, with his back to the rock, and held the thing low against his body, where the wind could not get at it.
 
-He had read it once already, on the night of the two hundred and seventy-seventh, over a shoulder, by one lamp. He had not meant to read the date at all. Karis's pencil had come to it, and written a year of the registry's and a day in that year, in a clerk's figures, exactly as they stood; and a man who has copied the seat's paper for fifteen years reads such a date as a carter reads a load, whether he chooses to or not. He had read it before he knew that he was reading.
+He had read it once already, on the night of the two hundred and seventy-seventh, over a shoulder, by one lamp. He had not meant to read the date at all. Karis's pencil had come to it, and written a year of the registry's and a day in that year, in a clerk's figures, exactly as they stood; and a man who has spent fifteen years among the seat's paper reads such a date as a carter reads a load, whether he chooses to or not. He had read it before he knew that he was reading.
 
 He had known that day. He had written it.
 
