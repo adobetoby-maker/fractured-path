@@ -152,9 +152,7 @@ He looked at it now, in a loft that smelled of hay and horse and a pot of barley
 
 The lines were where they had always been, and nobody under those slates could see them but himself. He took them as he had taken the last, on a healer's plank: slowly, from the top, putting each into the plain words in which he would have to write it.
 
-```
-Iron-Wall-adjacent. Vastin. Partial. Iron family. Held. A plane, not a body: the ground told not to give. Distinct from the third — Iron-adjacent, the bed; this is not the bed hardened, this is a line drawn on it and kept. Engagement field: defensive; rooted. Tier equivalent unknown. Deployment: none. Eleventh.
-```
+*Iron-Wall-adjacent. Vastin. Partial. Iron family. Held. A plane, not a body: the ground told not to give. Distinct from the third — Iron-adjacent, the bed; this is not the bed hardened, this is a line drawn on it and kept. Engagement field: defensive; rooted. Tier equivalent unknown. Deployment: none. Eleventh.*
 
 Eleven.
 

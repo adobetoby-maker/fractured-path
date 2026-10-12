@@ -1,0 +1,309 @@
+# Chapter 28 — Be Nobody
+
+The second card took them through two gates, on the two hundred and eighty-fifth day, a good deal more easily than the first.
+
+The keepers in blue had seen it now. One of them said *lower archive* to the other, as a man says the name of a bird that he saw once and has now seen twice; then the feather of his pen went along five caps without stopping at any. The old keeper at the round arch read the seal from its stamp inward, exactly as before, and said *one, and four*, and told them again to mind their lame one on the steps.
+
+Cael went down the lane with his eyes on Brom's heels. The four alleys were white again, in the forenoon, and a box went by between him and each of them.
+
+In the cut the third tread of the bottom flight rocked under Brom, as it had rocked the evening before.
+
+"Still wants bedding," he said.
+
+"You could bed it," said Lira.
+
+"It's not my stair."
+
+The yard was as it had been: a wagon at the dock, and a man with a slate at the beam, and nobody who looked round. There was a porter on the bench under the hatch, at its far end, a small man with a carrying-frame between his knees and his cap pulled down, asleep. Cael gave him the glance that he gave to a post. He had been told, on a ladder's head, not to look twice at anything in that yard which was not a door.
+
+Karis laid the card on the ledge. The shutter was up already, and the clerk sat sideways within, with the green book open under his hand.
+
+He counted the boxes with his eyes, as he had the day before, and he dipped his pen. Then he stopped.
+
+It was a small thing to see. The pen had gone down to the leaf, and it did not write. It hung a finger's breadth above a clean line, and the clerk looked at the three boxes on the paving, and at the tarred case, and then he laid his left hand on the book and turned it back by one leaf.
+
+"This is entered," he said.
+
+Cael had not heard him speak before; it was a thin voice, dry and exact, with a short stop after each thing, as though the words were being taken one at a time out of a drawer.
+
+"Three boxes, corded. One surveyor's case, tarred. One courier's flat. One hide, rolled. Brought down for study on the two hundred and eighty-fourth." He read it from his own line, with his finger under it. Then he looked up, at the small pale woman on the other side of his ledge; and it was the first thing that he had ever asked any of them. "The same?"
+
+"The same," said Karis.
+
+"Then they went up again."
+
+"At your bell."
+
+"I know that they did. I let you out; I saw them go by me." He did not sound angry; he sounded like a man who has found a pebble in a dish of peas. "The form is for matter brought down. It has a line for that, and I filled it yesterday, and it was right. It has no line for matter which has gone up and come back."
+
+Nobody answered him, since Karis had been told to give that man nothing which he did not ask for, and he had not asked.
+
+"If I enter them today, my book will say that there are six boxes below, and two cases. There are three, and one." The pen had begun to tremble a very little. "It would not be so. I have kept this book for a great many years, and there is not a line in it that is not so."
+
+He laid the pen down in its tray.
+
+"I shall have to send up. The under-registrar keeps the schedules, and he will know how it is to be put. He will want to see the matter, and the card, and whoever has brought them." He was reaching already for a slip of paper. "He is very thorough. I should not think that it would take him above an hour."
+
+Cael's stomach went cold.
+
+He saw the whole of it, as he would have seen a bad landing a stride before his foot came down. An officer of the registry would come down four flights with a clerk behind him. He would not count. He would look at each of them in turn, as an officer must, and he would have a pen; and the first thing that any such man had ever said to Cael, on any floor, was *and you are?*
+
+They had come two hundred and eighty-five days to that hatch, and got through it once on a figure. It was going to be shut on them by an honest man, who would not write six for three.
+
+---
+
+He did not see the old man move.
+
+He heard the stick, twice, sharp on the paving, and then a brown coat had gone past him and stood at the ledge. He knew that walk. He had last seen it cross a room on a bluff, with a file under its arm; it had four feet of table in front of it then, and every clerk in the building upon his feet.
+
+Vastin knew the ruling. Cael understood that in the same breath, and too late. There was not a schedule in the code that the man could not have said from memory, with its article, and for forty years he had been the person sent for when a clerk could not tell how a thing was to be put. A clerk was in difficulty over a form, six feet away from him. He had gone to it as a healer goes to a bench.
+
+His back was perfectly straight, and he did not look at his boots.
+
+"Vastin. Archmarshal, Compact enforcement. You'll find the name is —"
+
+The clerk's hand had gone to his pen. It was not done on purpose, any more than the other thing had been; a man who has sat at a hatch all his life hears a name and a rank and an office, in their proper order, and his fingers go for the ink. The pen was up, and it was coming over the leaf toward the margin, where a registry writes whatever it is told at its own door.
+
+The porter at the end of the bench had stood up.
+
+Cael had not known him, and he knew him now by the way that he rose, which made no more noise than a coat sliding from a chair. Seln had the cap in his left hand and the frame held by one strap in his right. He was three strides from the ledge, in the plain light of a registry's yard, with a clerk's eyes coming round to him; and he had told five people at a pump that this was the one place in the town where he could not afford to be seen.
+
+He spoke to the clerk, and not to the old man, in the mild voice in which he would have told a carter the hour.
+
+"He's on the count. Four hands, same as yesterday, entered by the practitioner and answered for by her, and the form asks what a hand's for, not what he was. The researcher's at your counter and she'll want to be told we're through," Seln said.
+
+The pen stopped.
+
+It hung over the margin, with a bead of ink gathered at its point, and for the space of three breaths nothing in that corner of the yard moved at all. Behind them a carter was backing a mule to the dock, and telling it under his breath what he thought of it.
+
+The clerk looked at the small grey man who had spoken. He looked at him properly, from the cap to the boots, as he had not looked at any of the four; and Cael watched a face go into a memory that kept things. Then the clerk looked at the old one, who stood with his mouth still a little open upon a word that he had not been let to finish.
+
+He lifted the pen away from the leaf, and carried it, very steadily, clear of the book's edge, and touched its point to the cuff of his right sleeve, where there was ink already. The bead went into the grey cloth.
+
+"A hand," he said, to nobody. He turned his eyes down to his own line of the day before, and his lips moved over it. "Brought down. For study." He looked at the three boxes once more. Something eased in his face then, slowly, as a knot eases when the right end is found.
+
+He dipped, and wrote two words under yesterday's entry, and the day after them. Cael read them the wrong way up, across the ledge. *The same.* The pen went to the narrow column, and made its single mark; and it went on to the narrower one at the edge of the leaf.
+
+He wrote *four*, and blotted it.
+
+"It needn't go up," he said. There was a kind of wonder in the thin voice. "It is the same matter. I can write that it is the same."
+
+The shutter came down, and a key turned in the low door.
+
+Seln had not lied.
+
+Cael went over it, standing there with a box on his back, since he could not help going over a thing. Every word that the man had said would have stood under two hands. He had told a clerk what was true of a count and of a form. He had not said that an old porter was wandering in his wits, or that it was a carrier's joke, or that the fellow had once swept an Archmarshal's stair and liked to play at it; and any of the three would have shut that clerk's ears a great deal faster than what he did say. He had left the thing that the old man had put upon the ledge lying where it was put, and it was true, and a clerk of the registry now had it.
+
+He had paid for it in the only coin that he owned.
+
+For fifteen years no desk had been able to say what Seln looked like, and that was the whole of his trade. A clerk remembered furniture, and he had taken care to be furniture that was never spoken to; he had kept off a card yesterday for exactly that. Today he had stood up in a yard, and shown his face to a man who forgot nothing, and joined it with his own mouth to four porters and a card. He would not sit on that bench again, and Cael did not think that he would so much as walk through that yard.
+
+The door had opened. The clerk stood on its sill, with the book shut under his arm, and he looked at Vastin once, as a man looks at an inkwell that has gone over and has by some mercy missed the page. Then he stood aside.
+
+Karis went in, and Brom, and Lira. The old man had not stirred from the ledge; his two raw hands were on the head of the stick, and they were shaking.
+
+"I'm sorry," Vastin said.
+
+"Don't be sorry," Seln said. "Be nobody."
+
+He put his cap on. He swung the frame to his shoulder, as a porter does who has given up waiting for a load, and walked away down the yard toward the carts' gate, without haste, among the wagons; and he did not look back at a door.
+
+---
+
+The lamp had gone to Brom that morning, and it went down the stair in front of him.
+
+Cael went below the stick, as he had the day before. The man in the dusty coat had counted three boxes and a case at the iron, with his eyes on the floor, and gone ahead of them into the dark; he had seen nothing in an old porter's face, since he did not look at faces.
+
+On the first landing the stick stopped.
+
+The light went on down. Cael watched it sink, a tread at a time, with Brom's bent back above it and two shadows following, until the low roof of the second flight took it and there was only a greyness on the wall. He stood on the landing's lower edge and waited, and he could hear the old man's breath, which was not the breath of a knee.
+
+"I gave him the whole of it," said Vastin.
+
+He said it to the wall.
+
+"The name, the rank, and the office, in the order of the roll. I did not decide to do it. I heard it as a man hears a clock strike in his own house; and by the time that I knew what the sound was, it had struck three." The stick's foot grated on the stone. "He had his pen up. He would have written it. It would have stood in that book tonight, under a card with one name on it, and gone up to a counter by the fourth bell."
+
+"He'd begun."
+
+"He had. I have watched ten thousand clerks begin."
+
+Cael said nothing for a moment. He could have told the man that it had come to no harm, and it would have been true by the width of a pen's point, and neither of them would have been the better for it.
+
+"It wasn't him sending up that did it," he said. "You'd stood that. You stood a whole gate of it yesterday, twice. It was that you knew the answer."
+
+"I knew the article." It came out before the old man could stop it, and he heard it, and was silent. Then, more slowly: "Yes. He had a difficulty with a form, and I have never in my life stood by while a clerk had a difficulty with a form. I had the schedule in my mouth. I was three words from telling him its number."
+
+"And then he'd have asked who was telling him."
+
+"I told him before he asked. I have always found it quicker."
+
+There was something in that which was very nearly a joke, and it was a good deal worse than if he had not made it.
+
+Cael looked at the dark where a brown coat was, and he knew what he was looking at, which he had not expected to.
+
+He had had a name once that was only a name. A plate had put a word after it, in a building with no windows; and from that day he had not been able to give the one without the other arriving behind it, like a dog behind a cart. So he had learned to say the word himself. He had said it first, and flatly, across every counter that he came to, and looked the clerk in the eye while he did it, so that it should cost the man something to write. It had been the only blade that he owned. He had carried it for longer than he liked to count; and he had laid it down for the first time yesterday, at that same hatch, and been a pair of boots.
+
+This man's name had been a key: it had opened every door on the continent for forty years, and at each of them somebody had been standing ready with a book. It opened nothing now; it was a knife that had lost its haft, and there was no way left of taking it up that did not cut whoever stood nearest.
+
+"I used to say mine first," said Cael. "The word they put after it. I thought that if I got it out before they did, it was mine and not theirs."
+
+"And was it?"
+
+"No. It only saved them the trouble."
+
+The stick shifted.
+
+"I looked at my boots yesterday," Cael said. "At that ledge, with his pen over the line. I'd never done it. Not for a registrar or a warden, or for you. It was the hardest thing I've done in a yard, and I've been carried out of one."
+
+"I observed that you did it."
+
+"I know. You were doing it beside me."
+
+"I was doing it for the second day, and I did it rather well, and I had begun to think it learned." The breath went out of him. "It appears that a thing is not learned until it has been tried by the one matter that you care for. I can keep my tongue while I am counted. I had not yet been asked to keep it while a form was filled wrongly."
+
+"He didn't fill it wrongly. He worked it out."
+
+"He did. He needed nobody." There was a long pause. "That is the part which I shall be some time over."
+
+Far below them the lamp had come out into the passage, and somebody had turned to look back up the stair; Cael could see a small bright point at the bottom of the three flights, and a shape beside it that was a girl.
+
+"He told me what to be," said Vastin. "He did not tell me how it is done."
+
+"He told you at a spring. You look at what's there. You leave your hands where they are." Cael felt for the next tread with his heel. "That's all I've ever had of it. It's nine steps to the next landing. I'm below you."
+
+"So you are," said the old man; and the stick came down.
+
+---
+
+The second chair had been cleared.
+
+Cael saw it from the gallery, over Brom's shoulder, before the man at the desk had turned his page. There were two chairs at that desk, of which one stood before the slope, and had a cushion on it, flattened by more years than he could guess into the shape of one person. The other stood against the wall at the desk's side. It had been heaped yesterday, like every flat thing in that place, with bundles to the height of its back; and it was bare now, and somebody had wiped it.
+
+Karis saw it, and did not sit; she stood by it with the flat under her arm until the grey head came round.
+
+"Sit," said the man. "I'll want you answering, and I'll not have you swaying over my shoulder. Lamp."
+
+Brom brought it.
+
+"Not the wall. I said so."
+
+So it went to Lira, and she held it for an hour in her right hand, with her elbow on her knee; and at the end of the hour the flame had begun to shiver, by so little that Cael could tell it only from the edge of a shadow on the Ring's third sheet. She looked at her own wrist as though it had spoken out of turn.
+
+Vastin's eyes had gone to the ring. He could not kneel, and he had one hand for the stick, and he knew both of those things; Cael saw him know them, and look away.
+
+"Give it here," said Cael.
+
+He had not planned it; he took the ring out of her fingers before the man could say that it had moved.
+
+He went down on his left knee, a hand to the left of the place where two red eyes were resting, and laid his right forearm along his thigh, and let the lamp hang from two fingers as a mason lets a plumb-bob hang. Then he did the one thing that he knew how to do in such a case: he let his breath go long. He counted it, as a healer had taught him on a plank, to ten and to ten again, and he gave over wanting to be anywhere else.
+
+He knew how to be a post, which was most of what he had learned since a plate lit. He had stood still in the corners of halls so that he should not be looked at, and at the edges of yards. He had stood locked on a bank of scree for a whole count, with six hounds coming and not a finger that would answer him. He had never before been asked for it as a skill.
+
+The flame stood up like a painted one.
+
+Nothing was said for a long while. The man went along the Ring's eleven again, and he did it otherwise than yesterday: he did not go sheet by sheet now, but across them, from a mark on one to a mark on its neighbour, with his head moving a little from side to side. When he moved, Cael moved, a hand to the left. He found that he could tell where the eyes would go next by the set of the shoulders.
+
+"This edge," the man said, to the chair by the wall. "Did the stone break there, or did the cutting stop?"
+
+"It stopped."
+
+"Clean?"
+
+"With a border. A double line, cut shallower than the signs."
+
+"Hm."
+
+That was all that he gave her for it. He had asked how a thing was made, and been told, and what he had made of the telling went nowhere that Cael could see. Karis wrote nothing; she sat forward on a bare chair with her gloved hands shut, and watched him as she would have watched a pot that she was not allowed to stir.
+
+Somewhere among the Stair's twenty-nine he stopped, and straightened his back with a hand in the small of it.
+
+"That'll do," he said. "Leave it with that one."
+
+Lira, on the floor by the table's leg, looked up.
+
+"He means you."
+
+"He means the lamp," said Cael, without moving his lips more than he must.
+
+He did, for the red eyes had not come within a yard of the hand that held the ring, and they never did. When the man wanted the light he said *lamp*, and when he wanted it elsewhere he said *left*, or *up a finger*, and it went; he took no more notice of what moved it than a clerk takes of the hook on which his coat is hung.
+
+"Thirty years I've carried that myself," the rough voice said, a while after, to the sheet in front of it. "One hand for the light, and half an eye for where I'd put it. I'd forgotten what it was to have the two of them together."
+
+Cael knelt on cold rock and turned that over. He had been a name with a word after it for the whole of his life since his Kindling. Yesterday he had been the quarter part of a figure; and today he was a lamp. It was a rise, of a sort; a lamp was at least good at something.
+
+And he was two feet from it. He had wished, in a wood-yard, to see how that man looked at a thing. He saw it now for hours together, from closer than Karis sat, with every sheet lying foot toward him and wrong way up, as he had read every paper of his life. The eyes began where the weight came down, and they asked the pencil for nothing that it had not offered. He could not see what they found; he could only see that they found it.
+
+The bell went at noon, somewhere above, too far to hear; but the man heard his own stomach, and put both hands on the table.
+
+"I'm going up for an hour. Set it on the table's end. Touch nothing." He went by them toward the stair with his eyes already half shut. "There's a jar of water on the shelf. You may have what's in it."
+
+When his steps had gone, Brom walked up the gallery and stood looking at the two chairs, the cushioned and the bare.
+
+"That's thirty years of one man," he said, of the cushion. "It's the shape of him. I'd not fit it."
+
+"It'd not fit you," said Lira. "It's had a lot less to do."
+
+"He cleared the other," said Karis. She had not got up from it. She laid one glove flat on the wiped wood, beside her knee. "He did that last night, after we had gone up. I do not suppose that anybody has sat here in his lifetime."
+
+Nobody said anything to that. Brom cut the loaf.
+
+---
+
+Seln was in the loft before them, sitting on the ladder's head with his feet on the second rung.
+
+He had no frame. He had given it back to the man that he hired it of, and paid the copper; and he looked exactly as he had looked on every other evening, which Cael thought must have taken some doing.
+
+"I shall not sit on that bench again," he said, before anybody could begin. "There is a roof above the cut's head, on the last building, with a parapet to it. I can see the yard from there, and the door, and the whole of the stair; and nobody looks at a roof."
+
+"He saw you," said Lira. "That clerk. I watched him do it. He looked at you like a thing that he was going to draw."
+
+"He did. He will know me in ten years, in another town, in a different coat."
+
+The old man had come up the ladder last, on one leg and two hands, and he stood at the gable under the blanket and had not yet let go of the stick.
+
+"I have said that I am sorry. I am told that it is the wrong coin." His voice was level, and it cost him to keep it so. "I shall say then only what was done. You had kept your face from every desk in the Compact for fifteen years, and I spent it for you in a breath, to save a clerk an hour."
+
+"You spent nothing. I stood up. It was my own leg that I did it with."
+
+"You might have had it cheaper," said Cael.
+
+He had not meant to ask; but it had gone round in him through four hours of holding a lamp, and he wanted it out.
+
+"There were things you could have said that'd have shut him up for good. That he was simple. That he'd been somebody's servant once and it took him that way. He'd have believed you; he wanted to. And he'd not have looked at you twice."
+
+"I had three such, and each was quicker." Seln put his hands into his sleeves. "I told this loft, three nights ago, that I would not have a lie told at a registry's door by anybody who means to go on standing on this side of the Line. I did not then except myself. I found this morning that I had not meant to."
+
+"That's a dear way to be right," said Brom.
+
+"It is the only way that I have found which stays right afterward."
+
+Nobody added to it. Brom went down for the pot, and brought it up on a board, with seven bowls, and set the seventh at the end by itself; and the old man took his standing and thanked him once.
+
+Shadow lifted while they ate, and Cael felt every other sound in him sink, as a yard goes quiet under snow, and he told it no, and it lay down.
+
+He took out Hesk's book when the bowls had gone, and set the day at its head.
+
+*Two hundred and eighty-fifth day. Treswick; the loft. A hundred and thirty-six. Deployment since the Line: thirty-two. Lamp, from about the third hour. He says left and I go left.*
+
+He looked at that last line, and let it stand, since it was the first use that anybody had found for him inside a wall. Then he wrote the rest, and it came all in one piece, as it did when he had carried a thing the whole day.
+
+*Karis has been looking for this room her whole life. Cleon's been sitting in it for thirty years waiting for her. Vastin tried to open a door with his rank and nearly closed all of them — an Archmarshal's worth nothing here, which he's taking about as well as I took [SHATTERED]. Down here the stone's older than the Compact, so the Compact doesn't reach. First place inside walls I've ever stood where nobody can file me, and it's a hole under a city, and it's because everything down here is older than the machine that files. Karis says give her a week. I've got a box to carry and a promise to keep about a station upstairs. I can wait.*
+
+He turned the book round. Lira read it with her chin down and her lips going, and stopped at the third line, and looked across the lantern at a brown coat by the gable.
+
+"That's not well," she said, very low. "You've put that he's taking it as you did. You took it like a cat takes a bath."
+
+"I know how I took it."
+
+"He said sorry. Out loud, in a yard, to the one of us he'd most cause to be afraid of." She gave him the book. "You never said it to anybody."
+
+"There wasn't anybody to say it to."
+
+"No," said Lira. "That was the trouble with it." She lay down on her pallet, on the right side, with the slow arm uppermost. "I held that lamp an hour. My hand's still going. How do you do it?"
+
+"I stop wanting to be anywhere."
+
+"That's horrible."
+
+"It's useful," said Cael; and he shut the book on the pencil, and found that he meant both.

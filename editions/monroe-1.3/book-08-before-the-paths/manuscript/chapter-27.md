@@ -218,9 +218,9 @@ He looked at the sheet, since she was looking at it. He saw what he had seen und
 
 She was shaking again. It was not as she had shaken in a hayloft, with a card on her knee. He saw her take hold of it, a breath at a time, and put it down.
 
-[[TIER-B: "Being believed — " … "It's the end of being able to be wrong." — the plan quotes this unit with an elision and does not pin its speaker; staged here as Karis's answer to Cael at the Hall's table; coordinator to supply protected text]]
+Cleon said, "Being believed — " He stopped. "I had thought it would be a relief. It's not. It's the end of being able to be wrong."
 
-He had no answer for her. He had lain awake over this day, as she had, and he had been afraid on her account of one thing only: that a man would look at three floors and shake his head. It had not come into his mind to be afraid of the other.
+Cael had no answer for her. He had lain awake over this day, as she had, and he had been afraid on her account of one thing only: that a man would look at three floors and shake his head. It had not come into his mind to be afraid of the other.
 
 Brom had come up on her far side. He had a loaf out of his box, and Lira's knife, and he cut it against his chest into five, and laid a piece on the bare wood at the table's very corner, a long way from any paper.
 
@@ -232,9 +232,9 @@ Brom had come up on her far side. He had a loaf out of his box, and Lira's knife
 
 She turned round to them. She was the smallest person in that gallery, and she stood with her back to fifty-two sheets, as she had once stood at a broker's plank with a hide.
 
-"Give me a week."
+Cleon opened his eyes. "Give me a week."
 
-Brom had the figures before she had shut her mouth.
+Brom had the figures before the words had settled.
 
 "The loft's paid to the two hundred and eighty-eighth. A week from today wants two marks more, and I've got them. It's seven days of the hill, both ways." He looked at a bound leg. "And of that stair."
 

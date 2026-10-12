@@ -70,7 +70,7 @@ Cael had not known him, and he knew him now by the way that he rose, which made 
 
 He spoke to the clerk, and not to the old man, in the mild voice in which he would have told a carter the hour.
 
-[[TIER-B: Seln: "He's on the count … the form asks what a hand's for, not what he was." — the plan quotes this unit with an elision; staged as Seln's answer to the clerk at the hatch, cutting across Vastin's unfinished sentence; coordinator to supply protected text]]
+"He's on the count. Four hands, same as yesterday, entered by the practitioner and answered for by her, and the form asks what a hand's for, not what he was. The researcher's at your counter and she'll want to be told we're through," Seln said.
 
 The pen stopped.
 

@@ -270,7 +270,7 @@ His hand had gone up to the shelf. It did not go to the place where the sacking 
 
 He took his fingers away, and turned round; and for the first time in four days he looked straight at her, and not at her boots.
 
-[[TIER-B: Cleon's close (S11): "You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anything the Compact admits." … "Here's what the strata can't tell you. These aren't the ruins of something. This is the *documentation* of something. Somebody wrote these down so the thing could be *built the same way twice*." … "In thirty years I never had the stone to match the text. You walked in with three floors." … "I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since." — the plan quotes this speech in four pieces with elisions; staged as Cleon's, to Karis, at his desk at the end of the 287th, with the bundle untouched on its shelf; coordinator to supply protected text]]
+"You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anything the Compact admits." His eyes went down the gallery to the plank. "Here's what the strata can't tell you. These aren't the ruins of something. This is the *documentation* of something. Somebody wrote these down so the thing could be *built the same way twice*." He rubbed his eyes. "In thirty years I never had the stone to match the text. You walked in with three floors." He stopped. "I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since."
 
 Nobody spoke.
 

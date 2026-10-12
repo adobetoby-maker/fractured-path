@@ -216,7 +216,7 @@ He could not have said what he had looked for in it. A Path, as he had met them,
 
 The reed had gone back to the sheet, and it went along the white pebbles, the first and the second, and came to rest.
 
-[[TIER-B: "They're orders." — the plan quotes this line whole but does not pin its speaker; staged here as Cleon's, said over the board and the Hall's fourth sheet; coordinator to supply protected text]]
+Cleon said, "They're orders."
 
 Karis had risen from the chair, and did not seem to know that she had. She stood with a black pebble shut in her glove, and she had gone so white that Brom took a step.
 
@@ -274,7 +274,7 @@ The man came down within the hour, and it was done as she had said. He went alon
 
 The fourth row was the shortest, of seven signs, and it stood near the foot of the Stair's twenty-first sheet. When he had found it he straightened, and put both hands in the small of his back.
 
-[[TIER-B: "Same make." — the plan quotes this line whole but does not pin its speaker; staged here as Cleon's, of the board and the three floors, after its fourth row is found; coordinator to supply protected text]]
+Cleon said, "Same make."
 
 Cael kept the flame where it was wanted, and did not hear what Karis answered. He saw her glove come down upon the table's edge, flat, an inch from her own pencil, where she had been told that nobody was to lean; and the man beside her looked at the glove, and for once did not say so.
 
