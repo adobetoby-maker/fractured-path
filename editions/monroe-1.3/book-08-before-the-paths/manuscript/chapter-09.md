@@ -174,7 +174,7 @@ He had seen a man stand so in a doorway in Ostrand, on a landing three flights u
 
 "Vastin," Seln said, beside him, in the voice for an inventory, and it was not an inventory.
 
-He had said it very low, at Cael's shoulder, and to nobody on the planks. It was the first time that any of the six had spoken that name east of the Line.
+He had said it very low, and to nobody on the planks. It was the first time that any of the six had spoken that name east of the Line.
 
 The shape came up the landing. It grew larger and less clear with every stride, as everything did that morning, and it stopped where the planks ended, with the stick grounded. Somewhere above the brown coat there was a grey head, and Cael looked at where its eyes must be.
 

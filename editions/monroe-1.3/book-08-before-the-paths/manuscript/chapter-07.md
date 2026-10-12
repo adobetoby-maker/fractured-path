@@ -4,9 +4,11 @@ The scow went into the river stern first, on the two hundred and seventy-first m
 
 She had sat all the cold term on a baulk of squared oak at the slip's head, with blocks under her bilges, and the blocks had been knocked out in the night. Now she rode on six rollers of peeled alder. The ferryman's boy ran round from her stern with each roller as it came free and laid it down again under her bow, and Brom walked backward down the slope with his good shoulder against her and his boots sliding in the tallow. Cael had a line from her rail, with two turns of it round a pile, and he gave it out a hand at a time when he was told to.
 
+He had his back to the far bank, and he was aware of it the whole time, as a man is aware of a door behind him. Three nights ago a small pale woman had asked him, at a board, to go back over that river, to a town inside the Line with a gate and a book in it. He had said that he would rule, and he had not ruled. Nothing could come over that water to change what a ruling would cost, and nobody could go over it to pay, until this boat swam.
+
 "Hold her," said the ferryman.
 
-He held her, with the river a yard below her stern and going by a good deal faster than a man could walk. It had come up a foot since the two hundred and sixty-eighth, and it was the colour of the inn's small beer. What was left of the shelf stood along the bank in a rotten grey lip; and out in the stream the rest of it was going south in pieces, some no bigger than a trencher and some as big as the scow herself, turning as they went.
+He held her, with the river a yard below her stern and going by a good deal faster than a man could walk. It had come up a foot in three days, and it was the colour of the inn's small beer. What was left of the shelf stood along the bank in a rotten grey lip; and out in the stream the rest of it was going south in pieces, some no bigger than a trencher and some as big as the scow herself, turning as they went.
 
 "Now give."
 
@@ -46,7 +48,7 @@ Seln stood on the landing's last plank with the second hazel wand in his left ha
 
 "I do not know. It is the third that I have never been able to count."
 
-Cael looked at the far bank, since he had a ruling to give that he had put off for three nights, and he saw no honest way to give it while that bank stood empty.
+Cael turned at last, and looked at the far bank. He saw no honest way to give a ruling while it stood empty.
 
 ---
 

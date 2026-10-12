@@ -22,7 +22,7 @@ In all the dealings that those two had ever had, neither had said a word to the 
 
 Seln moved his shoulder from the post by the width of a hand. From him that was a door held wide.
 
-Cael turned the four sentences over while the stick came across the floor, since he had never heard that man waste one. A person who arrived in this country with a seal came over the board's head: he sent a clerk to the plank, or a paper, and had himself posted. This one had been told three times to go to twelve feet of oak, and had gone, and had read it from the left-hand post as any carter's boy would have; he had been asked what he had done, and had answered for himself, and had been set down as nothing yet. He had paid a copper and a half for a loaf that cost the meadow a copper. The board had done to him what it did to everybody. Seln had wanted to know, before he stood away from a door, whether the man had noticed.
+Cael turned the four sentences over while the stick came across the floor, since he had never heard that man waste one. A person who arrived in this country with a seal came over the board's head: he sent a clerk to the plank, or a paper, and had himself posted. This one had been told three times to go to twelve feet of oak, and had gone, and had read it from the left-hand post as any carter's boy would have; he had been asked what he had done, and had answered for himself, and had been taken at his word. He had paid a copper and a half for a loaf that cost the meadow a copper. The board had done to him what it did to everybody. Seln had wanted to know, before he stood away from a door, whether the man had noticed.
 
 Vastin came in. He made his bow, the short stiff one, to the room and to nobody in it; and then he stood at the board's foot with his stick, and Cael understood that a man who had been shown to a chair in every room of his life did not know which one was his.
 
@@ -136,43 +136,45 @@ Nobody had said it today, and when he looked for the fear it was not where he ha
 
 He had turned a little on the bench, toward Karis, since it was she who had laid it out for him.
 
-"I read it, and I said what it was, and I went home. I did the one thing that I had told you I should do. After that I did what an evaluator does with any finding, which is to go back and see what it stands upon. There was a leaf in that case. It said that a function had been appended to the reading, and that it was not the reading."
+"I read it, and I said what it was, and I went home. I did the one thing that I had told you I should do. After that I did what an evaluator does with any finding, which is to go back and see what it stands upon. There was a paper in that case which said that a function had been appended to the reading, and that it was not the reading."
 
 "And that it altered nothing in what the reading showed," said Karis. She had not needed to look anything up.
 
-"Yes. I had certified that reading in every district of the Compact for forty years, and had written two sections of the protocol that governs it, and I had never once asked what the function was appended *to*." He turned his left hand over on the board, and it did not open the whole way. "I asked; and I did not ask by paper, having learned what became of my paper. I went down a stair to the house's frame shop, where an old man in an apron mends the stations' frames, and I asked him what lay under the function."
-
-"He told you?" said Lira.
-
-"He told me what every mender is told in his first year, and it took him as long as it takes to wipe his hands. There is a thing beneath the plate which is not the office's work. A mender services the housing, and the frame, and the function that sits upon the reading, and he does not go below. I believed him the more readily for a thing that I had watched him do in that shop some while before. A river station had sent in a frame that read a fraction slow on wet mornings. There was nothing the matter with it; it was reporting the damp, and its fraction never varied, but the station did not care to be told about the damp. So he put a slip of brass into the housing, and it left off telling them, and he wrote in his note that they now had a worse frame. He knew that nobody would read the note." Vastin's eyes had gone to the window. "A man who will write that, knowing it will lie unread, does not trouble to deceive me about what is under a plate. I asked whether it was so in our house's frames only, or—"
+"Yes. I had certified that reading in every district of the Compact for forty years, and had written two sections of the protocol that governs it, and I had never once asked what the function was appended *to*." He turned his left hand over on the board, and it did not open the whole way. "So I asked. I did not ask by paper, having learned what became of my paper. I asked to be shown what the office holds upon the thing that lies beneath the function, and I asked whether it lay so beneath our own house's frames only, or—"
 
 "Under every station on the continent. I said so at a table before we left Ostrand."
 
-Karis had not lifted her voice. Her pencil had stopped.
+Karis had not lifted her voice. Her pencil had stopped, and she added nothing.
 
-"I had it from that same leaf, by inference, and from the three oldest papers in the case. I said that the reading was older than the function, and that I could not tell by how much, and that nothing in the box reached down so far. I entered it as a limit." She looked at him steadily. "I did not expect to have it confirmed by a man in an apron."
+Vastin looked at her for a breath, as a man looks who has been spared a page of explaining.
 
-"He would be surprised to hear that he had confirmed anything. To him it is a rule of the shop, like not leaving oil by a flame."
+"Then I have carried one half of this a long way to people who had the other," he said. "You know that it is there. There is one thing about it which I do not think that any case could have told you."
 
-"And they'll not open it," said Lira. Her hand lay on the board between them. "That's what you've come to say, isn't it? There's a thing under every plate that they found there, and somebody up a stair keeps it shut, and they'll not open it for you or for anybody."
+"That they'll not open it," said Lira. Her hand lay on the board between them. "That's what you've come to say, isn't it? There's a thing under those plates that they found there, and somebody up a stair keeps it shut, and they'll not open it for you or for anybody."
 
 "Not *will not*. *Cannot.* There is no key."
 
 It was said without any weight, as he had asked the price of a loaf. Cael watched it go along the board. Brom had stopped with a crust half way to his mouth. Oryn's head had come round.
 
-"I supposed what you suppose," Vastin went on. "I supposed that somebody above my desk kept the thing shut, and I went to look for the door that it was kept behind, meaning to learn who held the other half of the lock. There is an office that has the charge of the stations, and it keeps a schedule for the housing, and one for the plate, and one for the frame; it keeps a schedule for the function, which it maintains very well indeed. Below the function it has a single page. The page says that the layer is not to be opened, and it gives as its reason that it cannot be."
+"I supposed what you suppose," Vastin went on. "I supposed that somebody above my desk kept the thing shut, and I went to look for the door that it was kept behind, meaning to learn who held the other half of the lock. The office has one page upon the matter, and it is the office's own. The page says that the layer is not to be opened; and it gives as its reason that it cannot be."
 
 "That might be a way of saying *must not*," said Seln.
 
-"I thought so, and I read further, to be certain. It has been attempted, more than once, by the people whose business it is, with the best that they have. Nothing that they own will open it, and nothing that they own will read it. It is not locked against them. A lock is a thing that somebody has the fellow to." His hand closed on the board, slowly. "They sit upon it, and they have built the whole of their record on the top of it; and they could no more go into it than I could go into that hearthstone."
+"I thought so, and I read it again to be certain. I have read forty years of orders that said *must not*, and every one of them says who may grant leave. This one reserves no leave to anybody. It is not locked against the office. A lock is a thing that somebody has the fellow to." His hand closed on the board, slowly. "They sit upon it, and they have built the whole of their record on the top of it; and they could no more go into it than I could go into that hearthstone."
 
-Nobody spoke.
+Lira had not moved her hand.
+
+"So there's nobody to ask," she said. "I've thought ever since Ostrand that there was a room somewhere, up a stair, with a person in it who knew what that thing was and wasn't saying. I'd have liked to find the room. You're telling me that it's empty."
+
+"I am telling you that I looked for it through a whole cold term, and that the best-kept office in the Compact does not know what it is standing upon."
+
+"Then it's no good anybody knocking at them," said Brom. He laid the crust down. "Not for that. If a person wants to know what's under a plate, it'll not be the people who own the plates that tell him."
+
+"No," said Vastin.
 
 Cael thought of a plate in a windowless room at the far end of the country, and of eleven seconds. He had told an old frame on a hill that the layer beneath it had not been able to finish its work on him. He had supposed, when he said it, that some office somewhere understood that layer. He put that supposition down now, carefully, and put nothing in its place.
 
-"That agrees with what I had," said Karis slowly. She wrote four words, and looked at them. "It goes no further than what I had, in one way; I still cannot say what the thing is. But I had only an inference. You have it from the people who hold the tools."
-
-"Something that nobody's got the key to," said Brom. "Under every plate there is. And they stand people on it at fourteen."
+"Something that nobody can get into," said Brom. "And they stand people on it at fourteen."
 
 "Yes," said Vastin. "I stood a good many there myself."
 
@@ -194,7 +196,7 @@ He did not go on directly, and Cael saw that he was choosing an order, as a man 
 
 Cael had never heard a room change so without a sound.
 
-Nobody started, since they were not people who started. But Karis's right hand, which had been lying on her notebook, had gone flat upon it as if the leaf might blow away; Seln's eyes had left the yard, and Lira's fingers, on the board, had drawn in. Brom had laid his crust down on the board with great care. And at the board's end a healer who had swallowed a sentence nine days ago, at this same table, when a station was spoken of, stood with her bowl in both hands and looked at nobody.
+Nobody started, since they were not people who started. But Karis's right hand, which had been lying on her notebook, had gone flat upon it as if the leaf might blow away; Seln's eyes had left the yard, and Lira's fingers, on the board, had drawn in. Brom's two hands had stopped on the board. And at the board's end a healer who had swallowed a sentence nine days ago, at this same table, when a station was spoken of, stood with her bowl in both hands and looked at nobody.
 
 It was nine days since a small pale woman had laid her palm on a strip of oilcloth and said that town's name for the first time in his hearing. She had come to it from the east, off fifty-two sheets of rubbed stone and a dead man's ledger. This man had come to it from the other side, out of the Compact's own house, down a stair and through a frame shop. Neither had known that the other was on the road.
 
@@ -244,7 +246,7 @@ Cael saw it happen, and it took him a breath to understand what he was seeing. T
 
 There was a spoon there, in an empty bowl.
 
-Cael could guess how a sitting had ended for him, on every day of forty years: with a leaf to be signed, or a seal to be set, and a clerk at the door to gather what was to go down a stair; and then with the next thing, drawn toward him across a desk. There had always been a next thing. Cael had been the next thing himself, once, on a bluff, for three days.
+Cael could guess how a sitting had ended for him, on every day of forty years: with a paper to be signed, or a seal to be set, and a clerk at the door to gather what was to go down a stair; and then with the next thing, drawn toward him across a desk. There had always been a next thing. Cael had been the next thing himself, once, on a bluff, for three days.
 
 The hand lay by the spoon. It did not take it up.
 

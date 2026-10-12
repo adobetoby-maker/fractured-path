@@ -12,7 +12,7 @@ It was a slow look and a level one. A man does not round a figure up, who has lo
 
 "And the third?" said Brom, from the tub.
 
-"The third is a sheet of paper which reached my desk by mistake. It had this town's name on it, and five others. I had not known where you were gone, and I had been at some pains not to learn. It told me. You shall have it tonight; it is the last sheet in what I carry."
+"The third is a sheet of paper which reached my desk by mistake. It had this town's name on it, and a board's; and where a crew's name should have stood, it had five strokes, and a count of six. I had not known where you were gone, and I had been at some pains not to learn. I knew of only one five who had gone that way. You shall have the sheet tonight; it is the last in what I carry."
 
 Lira did not take her eyes from him.
 
@@ -50,19 +50,19 @@ He carried a piece of her Tide himself, the tenth of the ten, under a rule that 
 
 "What follows you," Lira said.
 
-Seln had waited for the healer to finish. He had not moved from the door-post, and he asked it as he would have asked the weight of a parcel.
+She had not waited for the healer's sleeve to come down. She put it as she had put her other question, with nothing leaning on it; and Seln, at the door-post, who had plainly had the same thing ready and would have dressed it better, let her have it.
 
-"Nothing that can cross the Line," said Vastin. "I shall be exact, since you will want it so. I broke no article of the code in leaving that I know of. If a query has been raised on me, it is a personnel matter, and it runs in a district. It wants a counter to be served at. It will have gone as far as the last station on the east road, where there is a counter, and a book, and nobody to open either. My old office never had a hand on this side of that sill. It would not know how to send one."
+"Nothing that can cross the Line," said Vastin. "I shall be exact, since you ask it so. I broke no article of the code in leaving that I know of. If a query has been raised on me, it is a personnel matter, and it runs in a district. It wants a counter to be served at. It will have gone as far as the last station on the east road, where there is a counter, and a book, and nobody to open either. My old office never had a hand on this side of that sill. It would not know how to send one."
 
-"And the things that you carry? They will be missed."
+"And the things that you carry?" said Seln. "They will be missed."
 
 "They will. I do not know by whom." The left hand closed. "That is the part that I can tell you least about, and so I shall say it most carefully. Whoever was keeping those papers cannot send an officer after them, since there is no office in whose name it could be done. What else such a person might send, you are a better judge than I."
 
-"We've met what he sends," said Lira.
+"We've met what gets sent," said Lira.
 
 Her voice had gone hard. She jerked her chin at Brom's back, at four yards of webbing.
 
-"A hundred and sixty-three days ago six people stood on a rim, over a place called the Stair, with crossbows. They'd cloths across their faces. No seals, no word, nothing you could have written down. One of them put a bolt in him. They knew which hole we were in before we'd climbed out of it." She leaned across the board. "You say nothing of yours crosses the Line. Something did."
+"It's why I asked you. A hundred and sixty-three days ago six people stood on a rim, over a place called the Stair, with crossbows. They'd cloths across their faces. No seals, no word, nothing you could have written down. One of them put a bolt in him. They knew which hole we were in before we'd climbed out of it." She leaned across the board. "You say nothing of yours crosses the Line. Something did."
 
 Vastin looked at the webbing for some time. It was the look that he had given a margin with a clerk's four lines folded inside it.
 
@@ -94,7 +94,7 @@ He could ask now. There was no office in the room, and no record but Karis's, an
 
 Cael looked at the two raw hands lying on the board. He thought of a sentence that he had heard said to a window, in a room with nothing of anybody's in it, by a man who had just read forty margins: that he had known a thing to be imperfect, and had not known that it was meant to be. It had taken that man two hours of silence to get so far. He had then gone home, and spent the whole of a cold term finding out how far down the meaning went, and had brought what he found to the only people who had ever shown him anything and wanted nothing for it.
 
-It was not the day for the other question. That one was about a boy. This was about a thing under every plate on the continent, and the man who had carried it here had one answer still in him that somebody ought to draw out; and the person to draw it was the one with the pencil.
+It was not the day for the other question. That one was about a boy. This was about a thing that lay under plates, and the man who had carried it here had one answer still in him that somebody ought to draw out; and the person to draw it was the one with the pencil.
 
 "Karis," he said. "Ask him the thing you want to ask him."
 
@@ -108,7 +108,7 @@ He stopped. His left hand had shut on the board, and it was that hand which he w
 
 "I helped bury smaller things. I'd like to dig one up before I'm done."
 
-Karis did not write it down. She sat with her fingers laced, as still as she sat before a leaf that she had not expected to be able to read; and Cael, who had kept his own question, did not grudge the keeping.
+Karis did not write it down. She sat with her fingers laced, as still as she sat before a sheet that she had not expected to be able to read; and Cael, who had kept his own question, did not grudge the keeping.
 
 "Then you want it read," she said, after a time.
 
@@ -234,11 +234,17 @@ Four signs stood at the head of the abstract, in print, and after them the same.
 
 "He copied them from this," she said. "Or from the list that this was copied from. I told you that a clerk had looked it up." She did not sound pleased. She sounded like a person who has been right about where a wall is, in the dark, by walking into it. "It is the same index. I can read it no better than I could. But it is not a dead man's private mark any longer. It is an office's."
 
-There was one more column, at the right of every sheet, narrow, and ruled off from the rest, and each line in it had a small stroke or had none. Karis turned to the last sheet of the row. At the foot of that column a clerk had written one word, in plain letters that anybody could read, and after it a small figure, which Cael's eyes were not yet equal to from the far end of a table.
+There was one more column, at the right of every sheet, narrow, and ruled off from the rest. Its printed head was in plain letters, and it said what the office kept that column for: the anomaly. Karis went down it on the first sheet with one gloved finger. She turned to the second sheet, and the third; and then she lifted a corner in the lowest row of the six, which was the oldest, and looked there. It was the same on every sheet. In every clerk's hand, in every one of six years, that column held a single word, and nobody had ever written a second word beside it.
 
 *Total.*
 
-She looked at the figure for a long breath. Then she did a thing that was very like her. She went back through the whole row from its first sheet, quickly, looking at nothing but the heads; and each time that she met a group of four signs which she had not met before, she laid one finger of her left glove down upon the deal. She could not read a group. She could tell one from another, as a person with no letters can still tell his own mark from his neighbour's.
+She turned the sheet so that the table could read it, and nobody asked her what it meant. Five of the seven people in that room had carried a sigil over such a line, and had felt it go out like a lamp. They did not need a clerk to tell them how much of it went.
+
+"One word," said Lira. "For six years."
+
+"It is all that they had a column for," said Karis.
+
+Then she did a thing that was very like her. She went back through the whole row from its first sheet, quickly, looking at nothing but the heads; and each time that she met a group of four signs which she had not met before, she laid one finger of her left glove down upon the deal. She could not read a group. She could tell one from another, as a person with no letters can still tell his own mark from his neighbour's.
 
 The thumb went down last.
 
@@ -250,9 +256,9 @@ The thumb went down last.
 
 "How many more?" said Lira.
 
-"I shall not say tonight. I have not turned every sheet in six rows; and the clerk's figure and my own count do not agree, so that I have two numbers and no finding. He may have been counting visits, or instruments, or men, where I was counting places. A stroke in a column is a stroke, and the heading over this one is in the signs that I cannot read." She lifted her hand from the deal. "Both of them are more than four. That is what the paper says, and I shall say the rest when a sheet tells me."
+"I shall not say a number tonight. I have turned one row of six, by a lamp, and I have counted signs that I cannot read by telling one group from another. I should not put my name to such a count." She lifted her hand from the deal. "I shall say how many when I have checked it in daylight."
 
-Nobody spoke. The hide stood rolled in the corner by the meal-sacks, with four rings on it. Cael had walked round three of those rings, and had counted the bars of a fence about the fourth, and he had supposed that a calfskin held all that there was to hold. Somebody at a desk had known better than that for six years, and had drawn a stroke in a narrow column each time, and had sent the sheet where nobody would receive it.
+Nobody spoke. The hide stood rolled in the corner by the meal-sacks, with four rings on it. Cael had walked round three of those rings, and had counted the bars of a fence about the fourth, and he had supposed that a calfskin held all that there was to hold. Somebody at a desk had known better than that for six years, and had written the same word in a narrow column each time, and had sent the sheet where nobody would receive it.
 
 "There is one sheet more in that flat," said Vastin. "It lies under the sixth row, and it is not the office's. I should prefer that you had counted the rest before you saw it."
 

@@ -178,7 +178,7 @@ He stood over that board longer than a toll deserved. He had sat once on an inqu
 
 The station stood above the water on the farther side, and he would have known it for one at any distance, since he had inspected such houses for the whole of his service. There was the low stone house with its slate roof, and the bench under the wall, and the board for the day's hours, which the rain had washed clean; and behind the house stood the second building, with no window and a wide door. Somebody had mended the slates with twists of wire. Somebody had swept the floor. There was a heather broom by the hearth, and turf in the basket, and on the counter a book lay open at its ribbon.
 
-The wide door of the second building stood a hand's breadth open. He went as far as that door, and looked in at a plate lying in the floor under its frame, brown as an old coin, with dust on it. He had put his name for forty years to the protocol that governed every such plate. He had once had a boy stood on one, on a bluff, and watched it stutter and go dark; and when the form came round that would have stood the boy there a second time, he had declined. He had never told the boy why. He drew the door to, as he had found it, and went back into the house.
+The wide door of the second building stood a hand's breadth open. He went as far as that door, and looked in at a plate lying in the floor under its frame, brown as an old coin, with dust on it. He had put his name for forty years to the protocol that governed every such plate. He had once carried a plate up a bluff, with a file and a set of questions, to a boy, and all three had told him nothing; and when the form came round that would have had the boy read a second time, he had declined. He had never told the boy why. He drew the door to, as he had found it, and went back into the house.
 
 He read the page that it was open at, since it was a station's register and he had never in his life walked past one.
 
@@ -186,7 +186,7 @@ It was ruled in the printed columns that he could have drawn in his sleep. There
 
 He knew what belonged in that column. He had certified the instrument that filled it, in every district of the Compact, for longer than that keeper had been a man. He knew as well what the narrow one was for, having read forty of its entries on a scrubbed table in a borrowed room, each with an order clipped behind it.
 
-His hand went to the corner of the leaf. A register is turned back as a matter of course; an inspecting officer reads a year of it before he so much as asks for the keys.
+His hand went to the corner of the page. A register is turned back as a matter of course; an inspecting officer reads a year of it before he so much as asks for the keys.
 
 He was not an inspecting officer. He had left the seal of his office in the tray marked *done*, some months ago, on a morning of rain, with nothing written to go beside it. His clerk had come for that tray at the usual hour. Whether what he had done was a resignation, or only a man going down a stair, was a question for an office to settle, and he had not waited to hear it settled.
 
@@ -260,7 +260,7 @@ It was the first valuation that anybody had put on him since he was a junior in 
 
 He did not mind the sum. What he minded was that he had planned no further than the handing over. He had decided, somewhere about the hundred and fiftieth mile, the order in which three things should be laid on a table; and he had never asked himself what a man does with his hands on the following morning.
 
-There was a sheet in the flat's lid which he had taken out at a dozen halts. It had a date at its head, in the office's reckoning, and he had read past that every time, as he read past the date on any return. What he looked at was its foot, where somebody had drawn a brush across a line. He knew that bar. He had not been able to leave it alone.
+There was a sheet in the flat's lid, where he had put it out of the wet, which he had taken out at a dozen halts. It had a date in it, in the office's reckoning, and he had read past that every time, as he read past the date on any return. What he looked at was its foot, where somebody had drawn a brush across a line. He knew that bar. He had not been able to leave it alone.
 
 The river went by in the dark with a noise like carts on a bridge. Over the water one light showed under the long roof. He watched it until it went out.
 

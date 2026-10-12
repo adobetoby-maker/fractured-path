@@ -8,7 +8,7 @@ Vastin put his hand into the flat, beneath the sixth row, and drew out a single 
 
 "This is not the office's," he said. "It is how I knew where to walk."
 
-It was a broker's paper, with a hook pressed in dark wax at its foot and a bar under the hook. Lira read its head upside down from the meal-sacks, with her lips, and Cael read it with her. *Fallow Ring: crew returned, instruments not recovered.* Under that stood a town on no registry map, and a board, and five names.
+It was a broker's paper, with a hook pressed in dark wax at its foot and a bar under the hook. Lira read its head upside down from the meal-sacks, with her lips, and Cael read it with her. *Fallow Ring: crew returned, instruments not recovered.* Under that stood a town on no registry map, and a board; and where a crew's name should have been there were five strokes, and after the strokes a count, which was six.
 
 "That's us," said Lira. "In a folder."
 
@@ -28,7 +28,7 @@ It was a broker's paper, with a hook pressed in dark wax at its foot and a bar u
 
 Seln had come down off the sill. He stood over the broker's sheet with his hands in his sleeves, and he studied its top margin, where a routing note ought to have been.
 
-"A paper does not lose its note by accident," he said. "I have sent a good many, and each was meant to seem a slip. Either somebody wished you to have this, or somebody wished to learn what you would do when you had it."
+"A paper does not lose its note by accident," he said. "Either somebody wished you to have this, or somebody wished to learn what you would do when you had it."
 
 "I considered both. I have no means of telling them apart." Vastin's left hand closed. "If it was the second, they have learned. They know by now that I walked."
 
@@ -48,19 +48,19 @@ Vastin's right hand had gone to the breast of the brown coat.
 
 It came out in a fold of oilcloth no bigger than a man's palm, and he opened the cloth on the deal as a person opens a thing that has ridden against his heart for a long time.
 
-There was one leaf in it. It was old, of a thick soft stock that had gone the brown of weak tea, and along its left edge ran a row of small holes where a binder's thread had been. The opposite edge was clean. Somebody had cut it there with a knife, close and straight, against a rule.
+There was one sheet in it, folded twice. It was of the plain paper that the Compact's house gives out to its desks, and it was written from head to foot in a square upright hand, in an ink that had not had time to fade.
 
-*Edge?* The ninth of the ten asked it of that cut, as it asked it of every rim and corner that came under Cael's eye, and he told it no without looking away.
+"It is a copy," said Vastin. "I shall say so before I am asked, since she will ask. The line stands in a record that is older than the section it is filed in, in a room where I had the right to read and no right to copy. I copied it. I set down the word and the place exactly as they are written there, letter for letter, and what stands round them, so that nobody need take my account of where the line sits."
 
-"I cut it," said Vastin. "I shall say so before I am asked. It stood in a bound register, in a room where I had the right to read and no right to take, and I took a blade to it. I sat once upon the inquiry into an archivist who had done the same, and I found against him, and he lost his place." He did not look away from the leaf. "I was right to find so, and I should find so again, against myself. I do not offer it as a thing well done. I offer it as the only way that this line was ever going to leave that room."
+"It is your hand," said Karis.
 
-Nobody answered him. He had named a wrong as a wrong, and Cael thought that there was not a person at that table who liked him the less for having done it aloud.
+"It is. I have no better warrant to give you, and I know what such a warrant is worth to a person of your trade."
 
-Karis had brought her stool down to the bare end. She bent over the page with her gloved hands behind her.
+"I shall write that it is a copy, and whose." She had brought her stool down to the bare end, and she bent over the page with her gloved hands behind her. "Then I shall read it with the same care as if it were not."
 
-Most of it was a schedule. Cael could read it, since it lay the other way up to him: a column of housings, each with its number, and against each a line of small faded writing that gave the date of a setting and a mender's mark. It was a clerk's list, as dull as a tally of sacks, and it ran from the head of the leaf to its foot.
+Most of it was a schedule. Cael could read it, since it lay the other way up to him: a column of housings, each with its number, and against each a line that gave the date of a setting and a mender's mark. It was a clerk's list, as dull as a tally of sacks, and a careful man had copied the whole of it down a page in order to show where one line fell.
 
-One line of it was not about a housing. It broke into the middle of an entry and out again, between two strokes of the pen, in the same brown ink and the same hand.
+That line was not about a housing. It broke into the middle of an entry and out again, between two strokes of the pen, and he had copied the strokes.
 
 *—of the Architect: see the lower archive at Treswick, which holds it in full—*
 
@@ -90,7 +90,7 @@ He had put his thick finger down on the deal beside the page, not touching it, u
 
 "It is not on the page before it, either," said Vastin. "I read the pages on both sides; the entry begins here, and it ends here, and it goes on directly to a housing on the coast. Whoever wrote that line supposed that his reader would know what was meant. I did not, and I am the reader that he had."
 
-"A line that sends its reader elsewhere is written by a clerk who has been told not to set the matter down," said Seln. "I have copied a good many. It is how an office contrives to keep a thing, and to keep from knowing that it has it."
+"A line that sends its reader elsewhere is written by a clerk who has been told not to set the matter down," said Seln. "It is how an office contrives to keep a thing, and to keep from knowing that it has it."
 
 Cael looked at the copied page, which lay a hand's width from the ends of his fingers. He had been sent for by paper before, in his life, more than once: by a summons, and by a challenge under a seal, and by an order for a room and an hour; and each of those had carried his name. This one had no name on it but a town's. The line it copied had been written a long while before he was born, by a clerk who was thinking about housings.
 
@@ -98,23 +98,25 @@ He did not move his hands.
 
 ---
 
-"The third is in the lid," said Vastin.
+"The third is in the lid," said Vastin. "It did not lie there. I put it there to keep it out of the wet."
 
 Karis carried the lamp back up the table. The bare end went dim behind her, and the page lay there in the half dark on its square of oilcloth, where Cael could see that it was pale and no more.
 
 There was a pocket stitched inside the flat's lid, and out of it came a sheet of thin stock, folded once. It was newer than anything else that he had brought. It had a printed head, and under the head a few lines in a quick sloping hand, which leaned a little to the right, as a man writes who is used to writing on his knee.
 
-"It is a technician's return," said Vastin. "The stations' office keeps a few men whose business is the function; they are the only people in the Compact who are sent as far down as that. When one of them finds a thing that he was not sent to find, he is bound to write it up on such a sheet, on the day, and send it in. This is one of those, and I do not understand it; I have read it at every halt for three hundred miles, and I understand it no better than I did at the first."
+"It is a technician's return," said Vastin. "When a man who services the stations finds a thing that he was not sent to find, he is bound to write it up on such a sheet, on the day, and send it in. The office had filed this one with the surveys, at the end of the second row, since it had no other shelf for it; and I should be glad if it went back there when you have done. I do not understand it. I have read it at every halt for three hundred miles, and I understand it no better than I did at the first."
 
-He laid it before her, and the lamp showed it to the whole table.
+He laid it before her, under the lamp. Cael had it the wrong way up and a table's length off, and he could see no more than that there were four short lines, and that something black lay across the last of them. It was Lira who read it out, from the meal-sacks, since she was nearest, and since she had never in her life looked at a paper without moving her lips.
 
 *Deep layer. Sequence initiated*
 
-[[TIER-B: the technician's sheet — the Compact date that stands after "Sequence initiated" — coordinator to supply protected text]]
+"Then there's a date," she said. "Clerk's figures. A year of the registry's, and a day in it."
 
 *Unreadable. Not halted. Running. Correlated with classification event —*
 
-It stopped there, at a stroke of the pen. Across everything that had followed, somebody had drawn a brush. The bar was as broad as a thumb and as black as a hearth-back, and it had been laid on so thickly that the ink had cracked in drying, like mud in a rut.
+"And that's where it stops. There's a great black stripe across the rest."
+
+Karis turned the sheet a little, and the lamp showed the stripe to the whole table. Somebody had drawn a brush across everything that followed that last stroke of the pen. The bar was as broad as a thumb and as black as a hearth-back, and it had been laid on so thickly that the ink had cracked in drying, like mud in a rut.
 
 "What's under it?" said Lira.
 
@@ -122,7 +124,7 @@ It stopped there, at a stroke of the pen. Across everything that had followed, s
 
 "What's a classification event?" said Brom.
 
-"The office's phrase for any occasion upon which a person is classed. A Kindling is one. So is a rank confirmed, or a second reading. There are some thousands of them in a year." His hand came away. "A technician found a thing in the layer that had begun on a certain day, and was going on. That is the whole of what those lines say, and I can add nothing to them. He had begun to set down what it went with, when the brush came down."
+"I do not know which event he meant," said Vastin. "The sheet does not say; and whatever would have said it is under that bar."
 
 "Running," said Lira. "What's running?"
 
@@ -134,23 +136,25 @@ She had her notebook open at a clean leaf already, and she copied the sheet as s
 
 "I do not write *illegible*," she said, to nobody. "A thing is illegible when the hand is poor. This was a good hand. Somebody prevented it."
 
-Seln had come to stand behind her stool.
+She went down her copy against the sheet, a word at a time, with the butt of her pencil. Then she did as she had been asked. She slipped the tape of the uppermost row and lifted that row out whole, and slid the technician's sheet in at the foot of the row beneath, and laid the first back upon it.
 
-Cael had not seen him leave the window. He had read the sheet over her shoulder, as he read everything, once. Now his eyes had gone back to the date, and had stopped there.
+"The second row, at its end," she said. "I shall know where to find it."
 
-He was a still man, and had been still in every room that Cael had ever shared with him, as a habit, and a craft. This was something else. For the space of four or five breaths nothing about him moved at all: his hands did not stir in their sleeves, or his lids, and Cael could not see that his chest rose. He looked like a man who has laid two papers side by side, and found that their edges met.
+The lamp had begun to smoke. Brom said so, from the door, and Lira leaned over from the meal-sacks and pinched the wick down between a wetted finger and thumb; and it was in that small business that Cael looked for Seln, and did not find him where he had been.
 
-"Seln?" said Cael.
+He had been behind Karis's stool. Cael had seen him come round the table while she copied, to read over her shoulder, as he read any paper that had a registry hand upon it. He was at the window again now, with his back to the room and his face to the black glass.
 
-The eyes came up. They passed over Cael's face, and he had never had such a look from that man in all the time that he had known him. It was the look that a person gives a step which he has decided not to take in the dark. Then it was gone, and Seln was only regarding the lamp.
+"Seln," said Karis. She had not turned round. "You have read more of the office's dates than I have. Is that one written as it should be?"
 
 "I have read it," he said.
 
-It was true, and it was all that he said. He went back to the sill, and sat down upon it with his face to the black glass.
+It was true, and it was no answer to what she had asked. She waited a breath for the rest of it; and then she bent to her notebook again, since she had known him long enough to tell when there would be no rest.
 
-Cael did not know what he had seen. He had looked at that date himself. It stood in the office's reckoning, which he had never learned to turn into days, and it had told him nothing. He knew better than to ask twice, since that man said a thing once, when he was sure of it, and until then he could not be made to say it at all.
+Cael went back over it, as he would have gone back over a touch that he had not seen land. The others had all been looking at the bar. Seln had not. He had stood behind that stool with his eyes on her pencil; and when the pencil came to the figures he had stopped, hands and breath together, like a clock that somebody has laid a finger on, and had stayed so for exactly as long as it took her to write down a year and a day.
 
-He put it with the cord, and the hair, and a healer's shut mouth. There was getting to be a good deal in that place.
+It was the date, then, and not the stripe.
+
+Cael did not know what a year and a day had said to that man. He could have gone up the table and read the figures for himself, since a registry date was a thing that he had been reading upside down, on other people's desks, since his Kindling. He stayed where he was. There was one paper in that room which he had not let himself touch all evening, and he did not go looking for a second.
 
 ---
 
@@ -166,13 +170,13 @@ She held it out to him across the table. Cael had seen her hold out a pair of gl
 
 Vastin took it. He read it as he read everything, from its head to its foot, with the lamp on his face.
 
-*Received of Vastin, at Lowmarch, day two hundred and seventy-seven past the Line: one courier's flat, holding six rows of abstracts in their tapes, the sheets not yet counted, and one broker's report; one leaf cut out of a register; one technician's sheet, copied this night. Examined by nobody. — K.*
+*Received of Vastin, at Lowmarch, day two hundred and seventy-seven past the Line: one courier's flat, holding six rows of abstracts in their tapes, one row looked through and no sheet counted; one broker's report; one page, copied by him from a register; one technician's sheet, copied by me this night and laid back in the second row. Read in part. Understood in no part. — K.*
 
 "It has a name," he said.
 
 "Out here that is what there is."
 
-"Yes. I was told so at a door." He folded the leaf in three, along no crease but his own. Then he put it into the breast of the brown coat, into the place where the oilcloth had ridden.
+"Yes. I was told so at a door." He folded it in three, along no crease but his own. Then he put it into the breast of the brown coat, into the place where the oilcloth had ridden.
 
 He stood so for a moment, with his hand flat on his coat.
 
@@ -192,17 +196,17 @@ She had got up. She was not half his weight, and she stood before him with her g
 
 Oryn had not moved from the hinges. "She's right. Go and lie down, and don't take the stairs fast," she said in the voice for a finding.
 
-Vastin looked down at her. Cael thought that he had given that order a thousand times, in one form or another, to clerks who stayed too late; he had very likely not been given it since he was a junior with a file under his arm.
+It was the first thing that the healer had said to him since noon, and she had still not asked him anything. Vastin looked from the one woman to the other, and then down at the small one who stood before him. Cael thought that he had given that order a thousand times, in one form or another, to clerks who stayed too late; he had very likely not been given it since he was a junior with a file under his arm.
 
-"I am perfectly recovered," he said. "It was the lamp. I should prefer to remain until your copy has been compared with—"
+"I am perfectly recovered," he said. "It was the lamp. I should prefer to remain until the rows have been counted, and—"
 
-"I compare my own copies."
+"I count in daylight," said Karis. "I have said so."
 
 "There is the matter of the tapes, which ought to be—"
 
 "Bed," said Karis.
 
-He stood a moment longer. Then he took his arm, very politely, out of Brom's hand, and found his stick against the table's leg, and made the short bow. He made it to her.
+He stood a moment longer. Then he took his arm, very politely, out of Brom's hand, and found his stick against the table's leg, and made the short bow. He made it to Karis; and then, since he was a just man, he made a shorter one toward the hinges.
 
 "Good night," he said.
 
@@ -214,23 +218,23 @@ Then the stick stopped.
 
 There was a silence, of about the length of a breath. When the stick came down again it came slowly, and waited, and came again; and they heard it so, a step at a time, all the way to the top.
 
-"He started fast," said Lira, very low. "She told him, and he started fast."
+"He started fast," said Lira, very low. "Oryn told him, and he started fast."
 
-"That's the knee, the rest," said Brom. "He'd not have taken it from her. The knee's taken it out of his hands."
+"That's the knee, the rest," said Brom. "He'd not have taken it from either of them. The knee's taken it out of his hands."
 
-Nobody below could have said which it was. Seln, at the window, did not offer an opinion; he was looking at the black glass as though a date were written on it.
+Oryn had her head a little on one side, as she held it to hear a chest, and she gave no finding. Nobody below could have said which it was. Seln, at the window, did not offer an opinion; he was looking at the black glass as though a date were written on it.
 
 ---
 
 Six people stood in a room that had been built for sacks, and nobody put a hand to the latch.
 
-Karis had come back to her stool. She took off the gloves a finger at a time and laid them on the flat. Under the lamp lay a courier's leather with six rows in it, and a broker's sheet, and a technician's sheet with a bar across its foot; and at the far end, in the half dark, there lay a page on a square of oilcloth, with a title on it and a place.
+Karis had come back to her stool. She took off the gloves a finger at a time and laid them on the flat. Under the lamp lay a courier's leather with six rows in it, and a barred sheet at the foot of the second, and beside the leather a broker's paper; and at the far end, in the half dark, there lay a page on a square of oilcloth, with a title on it and a place.
 
 Cael's right hand was on the deal beside that page. It had been there since the lamp was first carried down to him, and it had not gone a finger nearer.
 
 He knew what was written there, and so did everybody in the room. It was a town inside the Line, behind a gate with a book in it, under a station; and there was a paper in a drawer that would be served upon four of them within the hour if any one of their names were written there. That had been the price nine days ago. A man who used to certify such papers had told them at noon that it was the price still.
 
-Nobody said the word for where the town lay. Karis had said it aloud once, at the board, and it had gone round in him for nine days; tonight the town itself lay beside his hand in brown ink, a hand's width off.
+Nobody said the word for where the town lay. Karis had said it aloud once, at the board, and it had gone round in him for nine days; tonight the town itself lay beside his hand, in a square black copy, a hand's width off.
 
 "You said that you'd rule when the boat was in," said Lira.
 
@@ -264,7 +268,7 @@ It was the third time. She shut it, as she had shut it at a board on the two hun
 
 That left three, and the lamp was going down.
 
-Karis set a second point on the wick, without looking at it, and the flame stood up again. She had drawn the technician's sheet toward her, and she was not reading it: she had her own copy beside it, and she was going down the two together, a word against a word, with the butt of her pencil.
+Karis set a second point on the wick, without looking at it, and the flame stood up again. She had her own copy before her, with the ruled box in it, and she was not reading it: she was writing beneath it, very small, where the sheet itself now lay, and who had laid it there.
 
 Lira got up off the meal-sacks. She stretched her left arm over her head, slowly, and brought it down, and looked at the hand. Then she came along the table to its bare end, and stood beside him, and looked at the page, and at his fingers, and at the strip of bare deal between.
 
@@ -284,15 +288,15 @@ He did not answer her. She had asked him as she asked the height of a wall that 
 
 She went out to help with the boxes. He heard her say something to Brom in the next room, and Brom answer, and a rope begin to go round a corner of wood, turn upon turn, with a large man counting under his breath.
 
-"You have not asked me whether this alters my case," said Karis. She had not lifted her head from the two sheets.
+"You have not asked me whether this alters my case," said Karis. She had not lifted her head from the notebook.
 
 "Does it?"
 
-"Not by a line. I had a bearing, and an index that I cannot read, and forty-one marks that I cannot read. I have now, beside those, an office's count that I cannot read, and a title that I have never met, and a box that I have ruled round nothing." Her pencil went down another word. "I have more that I cannot read tonight than I had this morning. It is the most that anybody has ever given me."
+"Not by a line. I had a bearing, and an index that I cannot read, and forty-one marks that I cannot read. I have now, beside those, six years of an office's sheets under that same index, and a title that I have never met, and a box that I have ruled round nothing." Her pencil went on. "I have more that I cannot read tonight than I had this morning. It is the most that anybody has ever given me."
 
 Cael took Hesk's book out of his coat with his left hand, and opened it beside the page, and wrote.
 
-*Two hundred and seventy-seventh day, night. The first boat brought no paper for us. It brought one man, who was the Archmarshal and is not. He held the ferry on her cable with his back. He has handed over three things: six years of an office's counting, which it told nobody; one line, cut out of a register, that sends its reader to a town; and a sheet that somebody stopped with a brush. Karis has all three and has read none of them. The town is the one that she named. The price is what it was. I said that I would rule when the boat was in. Tomorrow, at the plank, with hands.*
+*Two hundred and seventy-seventh day, night. The first boat brought no paper for us. It brought one man, who was the Archmarshal and is not. He held the ferry on her cable with his back. He has handed over three things: six years of an office's surveys, which it told nobody; one line, copied from a register, that sends its reader to a town; and a sheet that somebody stopped with a brush. Karis has all three. She has looked through one row and copied one sheet, and she says that she understands none of it yet. The town is the one that she named. The price is what it was. I said that I would rule when the boat was in. Tomorrow, at the plank, with hands.*
 
 *Deployment since the Line: thirty.*
 

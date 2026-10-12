@@ -126,3 +126,17 @@ Supporting: Vastin 3 (the line; "nothing yet" and what he pays; the close) · Ka
 - **Nobody says the direction's name** in chapters 10, 11 or 12, in speech. The boy's cry at the landing is "Boat's going over". Seln says that the report "went over" on the hundred and second day.
 - **Marker:** one, as planned. **Deployment:** thirty, logged twice on the 277th (9:265 and 12:295).
 - **The Vastin window** is 2,118 words (the map gives about 2,500).
+
+## Repair r1 (after the four Sol reads; see `REPAIR-REPORT-r1.md`)
+
+The list above is the plan as drafted. The repaired text differs from it in these events, and the repaired text governs:
+
+- **The page is Vastin's own copy** on the house's desk paper, not a leaf cut from a register. No blade, no cut edge, no inquiry, no Blade prompt.
+- **The layer:** Vastin adds four facts and no more (it cannot be reached; the citation; the held records; the technician's line). No frame-shop mender, no shimmed frame, no schedules, no history of attempts. Karis's line stands unglossed. Lira and Brom say what it changes.
+- ***Total*** is the single word in the office's anomaly column on every sheet for six years. There is no figure and no disagreement of counts. Karis still counts the groups of signs on her fingers and says "More than four"; she gives no number because she has not checked it.
+- **The technician's sheet** was filed at the end of the second row; Vastin carried it in the lid to keep it dry; Karis lays it back in the second row after copying it. Lira reads it out, and its date is given only as "a year of the registry's, and a day in it". Cael, at the far end, has not read the date. Vastin does not define a classification event. Seln stops when Karis's pencil reaches the figures; Cael works out afterward that it was the date, and does not go to look.
+- **"What follows you,"** is Lira's. **The stairs line** is Oryn's, seconding Karis's order.
+- **The broker's report** carries five strokes for a name and a count of six, as Book 7 has it; no names.
+- **The receipt and the night log** say exactly what Karis has done: one row looked through, one sheet copied, nothing understood.
+- **Chapter 8:** at the frame-house door Vastin remembers only what Book 5 shows (a plate, a file and a set of questions carried up a bluff, and all three told him nothing).
+- **Chapter 7** opens with Cael's back to the far bank and the ruling that he has not given.
