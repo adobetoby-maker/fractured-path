@@ -164,7 +164,7 @@ The leather came off first, which had been on that wrist since before the boy co
 
 "It's saying more." She turned the hand over and pressed with her thumb in the hollow beside the bone, where she knew to press, and watched his face and not her thumb. He gave her nothing, and she had been reading that nothing for nine cold terms. "There. And it clicks. I heard it click on the ridge above the mill, when you'd done no more than lift a pack."
 
-He did not deny it. A Force paid where the line came out of him. Every time that he had put his Path through a thing, the thing had gone where he sent it, and something of the same size had come home along the bone; and the bone kept the account. He had known that at twenty, and had not then known what the sum would look like with a good many cold terms of it added up.
+He did not deny it. A Force paid where the line came out of him. Every time that he had put the Force through a thing, the thing had gone where he sent it, and something of the same size had come home along the bone; and the bone kept the account. He had known that at twenty, and had not then known what the sum would look like with a good many cold terms of it added up.
 
 "Leave it shut till the thaw, and I'll hand you a wrist," she said. "Use it on that road and I'll hand you this board, and you'll walk up to your bearing with your arm on a plank."
 

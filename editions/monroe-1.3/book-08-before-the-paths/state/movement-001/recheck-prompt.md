@@ -1,0 +1,29 @@
+You are the review seat doing a TARGETED RECHECK (Sol, via codex; the author is Claude Opus 5.5). Do not modify any manuscript file. Working directory: /Users/drive/fractured-path-monroe13.
+
+book-08-before-the-paths, Movement 1 (chapters 1–6) of the Monroe 1.3 edition of The Fractured Path, after the same-author repair r1. Files under editions/monroe-1.3/book-08-before-the-paths/:
+- brief: state/movement-001/REPAIR-BRIEF.md
+- reviews: state/movement-001/review-editorial.md, review-cold.md
+- author's report: state/movement-001/AUTHOR-REPORT.md ("## Repair r1")
+- pre-repair: state/movement-001/pre-repair/
+- current text: manuscript/chapter-01.md … chapter-06.md
+- context: BOOK_MAP.md, STATE_LEDGER.md (latest "After Movement" block and the entry state), the movement packet packets/MOVEMENT-001.md (incl. coordinator notes), the previous chapters, and the source chapters in books/book-08-before-the-paths/chapters/.
+
+Read the FULL current movement, then follow editions/monroe-1.3/tools/RECHECK-TEMPLATE.md exactly: (1) brief items RESOLVED/PARTIAL/NOT with quoted evidence (diff -U0 vs pre-repair); (2) continuity; (3) formula — run `python3 editions/monroe-1.3/tools/formula_metrics.py` on the chapters, `bash editions/monroe-1.3/tools/ed.sh overlap book-08-before-the-paths 1`, `bash editions/monroe-1.3/tools/ed.sh gates book-08-before-the-paths 1`, `bash editions/monroe-1.3/tools/sweep_probe.sh book-08-before-the-paths 1 1`; (4) reader clarity; (5) listening proof on every chapter.
+
+COORDINATOR NOTES FOR THIS RECHECK (they override the generic file list above where they differ):
+- The author's repair report is state/movement-001/REPAIR-REPORT-r1.md. The baseline for diff -U0 is state/movement-001/pre-repair-r1/ (the frozen draft plus the coordinator's fourteen plan-audit line fixes); state/movement-001/pre-repair/ is the draft the reads saw.
+- Also read state/movement-001/plan-audit.md and source-tracking.md, state/movement-001/LEDGER-RULINGS.md (the coordinator's rulings, now in STATE_LEDGER "AFTER MOVEMENT 1" — check EVERY bullet against the surviving prose and report any the text does not bear out, with chapter:line), packets/MOVEMENT-002.md (with its coordinator notes), and OWNER-DECISIONS.md #18, #35, #42, #46–#59. The seam authority is the LOCKED Book 7 (book-07-void-roads manuscript ch53–60; STATE_LEDGER "AFTER MOVEMENT 8"; DIRECTOR_CUT_READY.md).
+- Settled, not findings: the flags ruled in REPAIR-BRIEF.md (the spear a tall man, pronoun-free here, OWNER-pending #59; Teague can read; the count of twenty-nine; the length; cutaways and vocabulary under plan).
+- **The 268th table (ch6) after repair.** Karis's protected "It's west… Treswick… the Deepstacks…" speech must stand whole and once; "west", "Treswick" and "Deepstacks" must not be said before it. The author then has SELN add "only what the speech lacks (the gate with a book, the station on its crown, the paper that executes, the file not shut)". Judge that addition strictly against the packet's withheld list and BOOK_MAP §11/§13: Seln teaches nobody; nothing about where the file is or what it says; the asset-restriction's terms as Book 6 ch58–60 state them (served within the hour if an enrolled name is written in a book inside a district); nothing that pre-empts Movement 2 (Vastin; the ferry line; the citation; the suppressed records). KEEP or give exact fixes.
+- **The cord (ch5):** twenty strides, knotted at the fives; four knots a length; a slip of ash a stride long; the yard "one length and four knots and two strides"; Karis's cutaway checking the second, third and fourth knots. Confirm every mention agrees and no yardage is given; check it against Book 7 (ch52, ch57, ch60: "a cord knotted at the fives").
+- **Seln's notches:** first notch day 131; eighteen on the 148th; twenty-eight on the 158th; a hundred on the 230th; forty on the second wand on the 270th. Confirm the arithmetic and that the newly dated first bout (the 148th) agrees with BOOK_MAP §6 and the rest of ch3–4.
+- **The opening (ch1) and what moved:** the three entered sites and the fragments answering inside them moved to the back-room scene at the open kit; why nobody declares on a road moved to the head of ch2. Confirm a cold reader is oriented and that nothing says WHY the fragments answer; never "his Path" in the author's own prose.
+- **The added beat (ch5, the 181st):** Cael has the smith put an edge back on Lira's knife; she asks for nothing (BOOK_MAP §13: Lira asks nobody for anything before Thornwater). Check money (the purse and marks must still add up) and that it conflicts with nothing.
+- Source distance: for the four passages sent back (ch1 the stalled counts; ch1 Teague's sign; ch5 the 230th; ch6 the Thornwater yard), open the source chapter named in source-tracking.md and rule each RESOLVED or STILL TRACKING by the same standard (same content in the same order = tracking, even reworded). Say whether the repair introduced new tracking.
+- Confirm: deployment ends at twenty-nine and every log line adds up; every sequence lock and withheld item intact; the four restored protected units verbatim, each once; OWNER-pending #56 ("Five months and twenty days.") verbatim and unglossed; season-blind; no year count since Kindling.
+- If you propose a line fix, do not introduce a run of eight or more words that also stands in the source; never inside a protected unit. Run no git commands.
+
+Write state/movement-001/recheck-r1.md: verdict FIRST (CLOSE / CLOSE WITH LINE FIXES / SECOND REPAIR, with scope), then sections (1)–(5), then exact line fixes in exactly this format, each old string verified with grep to match exactly once:
+N. `manuscript/chapter-NN.md`
+   old: `...`
+   new: `...`

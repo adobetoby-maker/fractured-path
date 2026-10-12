@@ -256,7 +256,7 @@ Karis answered him without looking away from the map.
 
 "It's west," she said. "Treswick. The last Compact city on the Line. There's a registry office on the old town, and under the old town there's an archive that was there before the Compact was — the Deepstacks, the scholars call it, when they call it anything — records nobody converted because nobody was ordered to and nobody needed to. Whatever these are" — her hand on the oilcloth — "if there's a word for them anywhere on the continent, it's in a book under that registry that nobody has opened since before there was a registry to open it. And there's a provision. The old scholars' provision. It lets a registered historical-studies practitioner in. I'm not one, out here. There's a man there who is."
 
-"It has a gate, with a book in it," said Seln. He had not taken his eyes from the fire. "And a station on its crown. There is a paper of ours that executes on the hour when any of us shows a certificate inside the Line; I told you so on the ninth day, and nothing has changed it. And there is one among us whose file is not shut."
+"It has a gate, with a book in it," said Seln. He had not taken his eyes from the fire. "And a station on its crown. There is a paper of ours that executes when an enrolled name is written in a book inside a district; it must be served within the hour. I told you so on the ninth day, and nothing has changed it. And there is one among us whose file is not shut."
 
 Cael felt the whole board take care not to look at him.
 
