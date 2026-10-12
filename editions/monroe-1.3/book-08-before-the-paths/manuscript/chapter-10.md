@@ -198,7 +198,7 @@ Cael had never heard a room change so without a sound.
 
 Nobody started, since they were not people who started. But Karis's right hand, which had been lying on her notebook, had gone flat upon it as if the leaf might blow away; Seln's eyes had left the yard, and Lira's fingers, on the board, had drawn in. Brom's two hands had stopped on the board. And at the board's end a healer who had swallowed a sentence nine days ago, at this same table, when a station was spoken of, stood with her bowl in both hands and looked at nobody.
 
-It was nine days since a small pale woman had laid her palm on a strip of oilcloth and said that town's name for the first time in his hearing. She had come to it from the east, off fifty-two sheets of rubbed stone and a dead man's ledger. This man had come to it from the other side, out of the Compact's own house, down a stair and through a frame shop. Neither had known that the other was on the road.
+It was nine days since a small pale woman had laid her palm on a strip of oilcloth and said that town's name for the first time in his hearing. She had come to it from the east, off fifty-two sheets of rubbed stone and a dead man's ledger. This man had come to it from the other side, out of the Compact's own house and down a stair. Neither had known that the other was on the road.
 
 He had a rule about lines. Two points could be ruled together by anybody, and he had been joined to things himself on no better evidence. He did not join these. He only saw where each of them stopped, and it was the same door.
 
