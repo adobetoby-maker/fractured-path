@@ -68,17 +68,17 @@ Karis had the second chair, with a board across her knees and her notebook open 
 
 "I had not counted myself. I am the worst of them."
 
-The man had not sat down. He had fetched a sheet of his own from under the desk's slope, a square of the stiff stock that his cards were cut from, and a pen; and Cael saw, with some surprise, that he meant to write.
+Cleon had not sat down. He had fetched a sheet of his own from under the desk's slope, a square of the stiff stock that his cards were cut from, and a pen; and Cael saw, with some surprise, that he meant to write.
 
 He did not read as she read. He set his pen at the foot of the first line and drew what was there, sign for sign, as a joiner copies a moulding, without once asking what it said; and wherever a run came down flat he made a small tick beneath it, in red, from a second pot.
 
-"She'll take hers away, and it'll be right," he said, to the skin. "And in a month she'll want to know whether a stroke was his or the knife's, and she'll be three hundred miles off. So there's to be one that's drawn and not read. That's mine. It goes with her."
+"She'll take hers away, and it'll be right," he said, to the skin. "And in a month she'll want to know whether a stroke was the writer's or the knife's, and she'll be three hundred miles off. So there's to be one that's drawn and not read. That's mine. It goes with her."
 
 "I had not asked it of you," said Karis.
 
 "No. You'd not have."
 
-That was all, and they went on, two pens at one leaf. There was a quick small hand that turned a dead tongue into words, and a slow square one that turned it into nothing and kept its shape. Cael held the flame along the skin for both, and moved it up a finger as each line was done. He did not need to be told. He had known for three days where that man's eyes would go next, and he kept his own upon his knuckles while he knew it.
+That was all, and they went on, two pens at one leaf. There was a quick small hand that turned a dead tongue into words, and a slow square one that turned it into nothing and kept its shape. Cael held the flame along the skin for both, and moved it up a finger as each line was done. He did not need to be told. He had known for three days where the red eyes would go next, and he kept his own upon his knuckles while he knew it.
 
 Behind him the tables were being stripped.
 
@@ -118,7 +118,7 @@ Everybody watched. Cael saw the linen darken a very little, at the palm's edge, 
 
 The line was a bad one. Somebody had scraped a word from the leaf's face, long ago, and had borne down to do it; and where the edge had gone, the skin was no thicker than the film on a pan of milk. What had been scored on the back at that place had lost its depth. A stroke that lay a hair deep on either side of it was there no more than the scratch that a nail leaves on a slate.
 
-"There's his," said the man. The reed was in his fingers, an inch above the leaf. "And there's the knife's, coming through from the other side. They cross. You'll want to tell which is which before you call any of it a letter."
+"There's the writer's," said Cleon. The reed was in his fingers, an inch above the leaf. "And there's the knife's, coming through from the other side. They cross. You'll want to tell which is which before you call any of it a letter."
 
 "I know that I shall."
 
@@ -152,11 +152,11 @@ She took the card. She looked at him for a breath; and it was the first time in 
 
 "It is three signs of six," she said at last. "I could have five by supper, if I let myself. I have a word in my head that would fit the three like a key." Her eyes had gone down to the thin place. "I had a word in my head once before, under a glove, and it was the wrong one. I shall not tell you what this one is."
 
-"Good," said the man. "Then I'll not have to forget it."
+"Good," said Cleon. "Then I'll not have to forget it."
 
 ---
 
-The bell went with his finger on the last line.
+The bell went with Cleon's finger on the last line.
 
 It had been there some time. He had drawn all nine, and had gone back to the foot of the ninth, to see whether it came down flat or was only broken off by the skin's edge. He stood so, bent over the slope, with the water running from his eyes and one square finger in the air above the last scratch on that leaf, when the wire stirred at the stair's foot and the small flat stroke came up the gallery.
 

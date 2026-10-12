@@ -66,7 +66,9 @@ Vastin had got down at the head, as he had undertaken to do for every slope. He 
 
 There was nothing there to stop for. Wet stones lay in the road, and gravel beside them, with a tuft of dead bent growing out of it. No crack ran from bank to bank. That had been made in ice, and it had gone where the ice went.
 
-Vastin said, "Here."
+He did not turn to see who was near him. He looked at the wet stones, and spoke to them.
+
+"Here," said Vastin.
 
 It was the place. Cael knew it by Brom's stone, three strides below, and by the lie of the two banks; there was no other sign of it in the world. A plane had stood on that spot from one bank to the other, as high as the scree, and a man had been the foot of it.
 
@@ -80,7 +82,11 @@ The stick came down.
 
 The knee had held. It was not mended; anybody could have seen that, by the sweat that had sprung on the old forehead in that cold shade. But it had borne a man once, with nothing beside it, on the very ground where eight hounds had been stopped by it and where four holes had been torn in it afterward. He had not been told to try it. He had not asked leave of anybody; and Cael noticed that for once he did not turn to see who would enter the thing.
 
-Brom had turned on his stone, below. He had put out one flat hand, without knowing that he did it, as a man steadies the foot of a ladder that somebody else is on.
+Brom had turned on his stone, below. He had put out one flat hand, without knowing that he did it, as a man steadies the foot of a ladder that somebody else is on; and when the ash came down he let the hand fall.
+
+"Held," he said, low.
+
+The old man looked from the big man to the stones. He had said one word in that cut, and had been given one. Seventeen days ago, on the same ground, the loudest thing on the whole moor had been his.
 
 "Two words," Vastin said. "Both of them ours."
 

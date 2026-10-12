@@ -130,21 +130,15 @@ He felt the room take that. It was a registry town, the last on the Line, with t
 
 "A bearing," said Cael.
 
-Pike considered him. Then the pen went into the horn, and he wrote, slowly, in the square black hand; and it was only as the third word went down that Cael understood where he himself was standing.
-
-He had not gone to the front of that bench. The room had pressed in behind Brom, and he had been carried round the bench's end with the press, and had fetched up at the one-armed man's elbow, on the side where the candle was. He was looking down at the leaf over the stump of an arm.
+Pike considered him. Then the pen went into the horn, and he wrote, slowly, in the square black hand.
 
 *Treswick. Survey read. Bearing.*
 
-It was the right way up.
+Cael read it as it went down, a word at a time, and thought only that it was short.
 
-He had read every line of that book across twelve feet of tarred oak, with its head toward the man who kept it. It had been turned for him, once, in front of fifty people, and nobody had turned it tonight. He had only walked round a bench, without thinking, to where the writing faced him; and it had not once come into his head to wonder whether he was allowed.
+The pen had gone on to the two ruled columns at the line's end, where a price stood, and what became of it. It hung over the first, and passed on, and hung over the second.
 
-"You're on my side," said Pike, without looking up.
-
-"I'll go round."
-
-"Stop where you are. It reads the same from there. I never said that it didn't." The pen had gone on to the two ruled columns at the line's end, where a price stood, and what became of it. It hung over the first, and passed on, and hung over the second. "I've nothing for those. It paid nothing, and it's not out yet. They'll stand empty, and I'll say that they're empty."
+"I've nothing for those," said Pike. "It paid nothing, and it's not out yet. They'll stand empty, and I'll say that they're empty."
 
 He said so, to the room. Then he turned back three leaves.
 
@@ -156,6 +150,16 @@ He wrote it in the space, small: the day, by his own book's reckoning, and no fi
 
 "That's when I left off looking," he said. "It's not a number. It says that on this day the keeper of this book knew what he didn't know, and signed for it." He blotted the place with the heel of his hand. "Eleventh. And dated."
 
+Then he looked sideways, and up.
+
+"You're on my side."
+
+Cael looked at where his own boots were. The room had pressed in behind Brom, and he had been carried round the bench's end with the press, and had fetched up at the one-armed man's elbow, on the side where the candle was. He had read two leaves of that ledger over the stump of an arm. Every line of them had lain the right way up, and he had not once marked it.
+
+"I'll go round."
+
+"Stop where you are. It reads the same from there. I never said that it didn't."
+
 ---
 
 Teague came down between the benches while the ink was wet.
@@ -164,17 +168,15 @@ He did not hurry; he stopped a stride from the bench's end, with his thumbs in h
 
 "I said after the thaw. It's a month gone. I said whatever's on that bearing, and I've just heard him write the word." His eyes went along them, and they did not stop at five; they went on to the door-post, where a stick was grounded. "I'll say it here, where it's heard."
 
-Teague said, "Ten of us on a wall's count. Your six and my four."
+He let the room wait for it.
 
-{{JOIN}}
-
-Teague said, "Contract. Not more than that. I'll not have it called more."
+"Ten of us on a wall's count. Your six and my four."
 
 Cael heard the count before he heard anything else, and so did the room.
 
 There had been five names on that cloth for the whole of a cold term and more. A captain had just said six of them, aloud, and nobody at the bench had corrected him; it was a count for a contract. It was not an admission, and it had not been made by any of the five; and Cael, who did not turn his head, knew by the stillness at the door-post that an old man had heard exactly how much it was and how much it was not.
 
-"Say what it holds," said Brom. "I'll not put my thumb to a word."
+"Say what it holds," said Brom. "I'll not put my thumb to a figure."
 
 "It holds four things. The count's the first, and you've had it. Neither healer's on it. A healer goes where she's wanted, and I'll not have one sent." Teague drew a thumb out of his belt. "Shares by the count. Whatever it pays is cut ten ways; and what it costs is carried the same, so far as a cost can be."
 
@@ -196,11 +198,17 @@ He priced it, as he had been taught to price a thing by a big man who would not 
 
 "And him?" said Brom. He had not looked toward the door-post. "You've built your count on a thing that you've never seen stand."
 
-Teague said, "The wall's still the wall."
+Teague had not looked that way either.
+
+"The wall's still the wall."
 
 "There's a month on it," said Cael. "It's a healer's, and it's got twelve days to run. He stood one in the middle of it, against her word, for us, and it very nearly cost him the leg. Nobody stands it up before the month's out. Not for your field, and not for mine."
 
 "I'd not ask a thing with a month on it to be shown for a count." Teague looked once more toward the door-post, and it was the look of a man reading a load that he does not mean to lift yet. "I asked what I needed, of a factor. I know where it stands, and that it stays. That'll do me."
+
+He put both thumbs back into his belt, like a man drawing the last rope over a load.
+
+"Contract. Not more than that. I'll not have it called more."
 
 He nodded, by the width of a finger, and it was done, and he had not offered his hand. There was a cloth on a nail behind Pike's head with one name alone on its first line and five in a row on its eleventh; and a contract did not take either of them down. Cael found that he did not wish it to. He would sooner walk east beside a man who was ten places better at a thing, and said so, than beside a friend who had to be reminded which of them the ledger preferred.
 
@@ -246,7 +254,9 @@ The cloth was round it before the arm had dropped.
 
 The carter had found his tongue, and was pointing down the meadow, to where a second cart stood canted in the same soft ground.
 
-Teague said, "Don't put it in front of anything that needs doing twice."
+Teague looked where he pointed. He answered across the boy's head, in the voice that he kept for a string of mules, and it carried to the bench.
+
+"Don't put it in front of anything that needs doing twice."
 
 Then the tall man and the bow went down the meadow with three iron bars and a baulk of timber, and the second cart was shifted as a carter would have shifted it, in the better part of an hour.
 

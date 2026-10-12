@@ -134,11 +134,11 @@ She went round, and round again. Her voice had sunk to almost nothing. The heel 
 
 It was at about the three hundredth breath that the twelfth turned.
 
-He had not bidden it, or so much as thought of it, since he had been counting, and the count was all of him that was awake. It had lain where she said, a little flat thing behind his eyes, folded; for seven days it had leaned at whatever a hand had made, at pegs and rivets and the piers of a bridge, and each time he had given his eyes some other work, and it had come up short.
+He had not bidden it, or so much as thought of it, since he had been counting, and the count was all of him that was awake. The twelfth had lain where she said, a little flat thing behind his eyes, folded; for seven days it had leaned at whatever a hand had made, at pegs and rivets and the piers of a bridge, and each time he had given his eyes some other work, and it had come up short.
 
 His eyes were shut now, and there was nothing that he could give them to do.
 
-And something was being drawn in him, under her hands, which had never been drawn before. It was an outline. Her current went round the place on every side, and round again; and the thing behind his eyes came about to that, mildly, as a head comes round in a dark room toward the only sound in it.
+And something was being drawn in him, under her hands, which had never been drawn before. It was an outline. Her current went round the place on every side, and round again; and the twelfth came about to that, mildly, as a head comes round in a dark room toward the only sound in it.
 
 It did not look outward. It leaned in.
 
@@ -146,11 +146,11 @@ It did not look outward. It leaned in.
 
 He could not shut that door, and he was not to open it, and so he left it as it stood.
 
-It leaned, for the space of three breaths, at the middle of him.
+The twelfth leaned, for the space of three breaths, at the middle of him.
 
 *Still.*
 
-There was no voice in it; it was only there, as the weight of a stone is there in the hand that lifts it. It was not *nothing*. He knew how the thing said that: flatly, of a red square of tile, or of a table's idle leg. It was not *sits*, which it said of a page. It was a word that he had never had of it before; and he had used that very word himself, in a log, for longer than he had owned the thing which now said it.
+There was no voice in it; it was only there, as the weight of a stone is there in the hand that lifts it. It was not *nothing*. He knew how the twelfth said that: flatly, of a red square of tile, or of a table's idle leg. It was not *sits*, which it said of a page. It was a word that he had never had of it before; and he had used that very word himself, in a log, for longer than he had owned the thing which now said it.
 
 Her current made one more round, coming up from beneath, and parted, and joined.
 
@@ -162,11 +162,11 @@ His heart struck once, hard, against the heel of a healer's hand.
 
 He let the breath out slowly, like a man asleep, to the count, and he drew the next. He had stood on a river bar with a hound's teeth in the sack on his arm, and had not answered it, and that had been easier than this. He kept his jaw loose, and he kept his two hands lying open on the plank, with the palms upward, and did not let one finger of them close.
 
-*Set*: as a stone is set, or a stake. He knew three places where he had met that word. A thing had come into him in a stair, not as a filling, but as a post is stood in its hole; a small pale woman had found it under her own glove, when she had wished for a name; and it stood in the fourth line of a list on the back of a skin, hung level with the people at a kindling.
+*Set*: as a stone is set, or a stake. He knew three places where he had met that word. The eleventh had come into him in a stair, not as a filling, but as a post is stood in its hole; a small pale woman had found the word under her own glove, when she had wished for a name; and it stood in the fourth line of a list on the back of a skin, hung level with the people at a kindling.
 
 There was a next word. He could feel the shape of it, as a tongue feels the gap where a tooth has been.
 
-He did not let it come. He put it down, as he had seen an old man put down a sentence in a gallery, with one hand off the stick; and he lay under a healer's palm and went on with his count.
+He did not let the next word come. He put it down, as he had seen an old man put down a sentence in a gallery, with one hand off the stick; and he lay under a healer's palm and went on with his count.
 
 "Something turned over," said Oryn.
 
@@ -178,29 +178,23 @@ He left it. He was at three hundred and eleven, and he had never in his life lai
 
 ---
 
-She came out of him at the four hundred and ninetieth breath.
+"That's forty minutes," said Oryn.
 
-He knew it by her hands: the one on his breastbone lifted first, and then she drew the other from under his neck, a little at a time, and let his head down upon the wood. She stood for a moment with both of them hanging; then she felt behind her for the keg, and sat on it heavily, and put her elbows on her knees.
+She was on her feet yet, a pace from the plank, with both hands hanging. The count of his breaths lay behind him, a little short of five hundred, and Cael had sat up without knowing that he did it. Lira had come off the bench; she stood at the lean-to's post with a cup of water from the race, held out, which had not been taken.
 
-He had seen her grey, and he had not seen her so. Her face in the lantern was the colour of the ash in a dead ring, and her cropped head hung, and her lips went to fifty, and began again at one.
+"I said that I'd go as deep as I went, and that's it. There's a floor to me, and I've had both feet on it this quarter-hour. You'll want it plain, and I've only the one way of giving it."
 
-Lira had come off the bench. She stood at the lean-to's post with a cup of water from the race, and she did not offer it until the second count was done.
-
-"That's forty minutes," said Oryn at last, and drank. "I said that I'd go as deep as I went, and that's it. There's a floor to me, and I've had both feet on it this quarter-hour."
-
-Cael had sat up. The lantern had begun to hurt him a little at the edges, already, and he looked at the turf of the roof instead.
-
-"You'll want it plain," she said. "I've only the one way of giving it."
-
-She set the cup down upon the shelf, among her things.
+The lantern had begun to hurt him a little at the edges, already, and he looked at the turf of the roof instead.
 
 "There's a place in you I can't read because it isn't *flow*. I've spent my life reading flow. Whatever that is, it's not the kind of thing my Path was built for."
 
 The race ran by in the dark, and nobody said anything.
 
+Then she felt behind her for the keg, and sat on it heavily, and took the cup. He had seen her grey, and he had not seen her so. Her face in the lantern was the colour of the ash in a dead ring, and her cropped head hung; and it came to him that the forty minutes had not done the whole of that.
+
 He had heard her say before that a thing was past her hands. She had said it on a hillside, of a girl's arm; and she had told him afterward that when she said so he was to believe her, and not stand looking at her as though she had kept something back. He believed her. She had gone round that place for the better part of half an hour, at every height, with all that she had, and she had not come out and said that it was nothing. She had said what she was, and where she ended.
 
-It cost her to say it. He saw that, and he thought that it had cost more than the forty minutes. A person who has read every body that was ever laid before her, for thirty rounds of a country, had sat down on a keg in front of a boy and a girl and told them the size of her own tool.
+It had cost her to say it. A person who has read every body that was ever laid before her, for thirty rounds of a country, had stood in front of a boy and a girl and told them the size of her own tool, and had only then sat down.
 
 It was a whole finding, and it was hers.
 
@@ -220,27 +214,27 @@ It was not the first thing that he had kept back. He had kept a date from everyb
 
 Lira had not moved from the post. She had her chin up, and Cael knew what was coming, since he knew that girl. A thing had been asked for at a fork-stone, in so many words, and she had carried the asking for eighteen days as she would have carried a count.
 
-Oryn said, "Is it a finding?"
+"You said all of it," said Lira. "At the fork. Whatever walked out of that archive. There's a paper in his coat that did."
 
-"It's a leaf," Lira said.
+"Is it a finding?" Oryn had not lifted her head.
 
-{{JOIN}}
+"It's a leaf," Lira said. "It's a thing that somebody wrote down, which one of us can read, and the rest of us had to be handed. It's not about a body. I'll not tell you that it is."
 
-Oryn said, "Then it's not mine."
+"Then it's not mine."
 
-{{JOIN}}
+It was said without any heat.
 
-Oryn said, "Tell me on the road, if there's road. Not at my table."
-
-{{JOIN}}
-
-Oryn said, "Lie still when I say. That's still the term."
+"I've a plank and two hands. What goes on that plank is what I can put the hands on, and say afterward that I felt it. I worked in a house once where a sheet was hung at the foot of every bed, with what somebody had written of the person in it; and it was never once the patient." She drank. "Tell me on the road, if there's road. Not at my table."
 
 The paper stayed where it was. Cael had put his hand to his coat when the girl began, and he took it away again.
 
-He was not sorry. A leaf had been read once, in a gallery, by the one person who could read it; and the woman on the keg had spent herself to the floor that night upon the one thing that she had come down a river for. She had drawn a line round her own table. It was the same line that a small pale woman had drawn on a desk with a bound hand: what a person had found went on one page, and what a person had been told went on another.
+He was not sorry. She had drawn a line round her own table; and it was the same line that a small pale woman had drawn on a desk with a bound hand: what a person had found went on one page, and what a person had been told went on another.
 
 "Go to bed," said Oryn. "The pair of you. I'm going to sit here until I can stand."
+
+Her eyes came up to Cael as he got off the plank; and they were as level as a board, tired as she was.
+
+"Lie still when I say. That's still the term."
 
 ---
 
@@ -250,7 +244,7 @@ It came as it had come on a stair under a registry: first a dryness, and then sa
 
 They had been given the cart-shed, with last year's hay thrown down between the wheels. Ten people lay in it, and a big man's breathing went up and down at the far end like a slow saw. He found his place by his hands, and lay down on his back with his arm across his face, and let the water run.
 
-It ran for a long time. Somewhere beyond the hay a broad man turned over on his bad hip, and grunted, and a boy said three words in his sleep which might have been a count. He had not turned the thing; it had turned of itself, and he had not looked at anything, with his eyes or without them. It billed him all the same, to the grain, as a toll-keeper charges a cart that was pushed through his gate by somebody else.
+It ran for a long time. He had not turned the twelfth; it had turned of itself, and he had not looked at anything, with his eyes or without them. It billed him all the same, to the grain, as a toll-keeper charges a cart that was pushed through his gate by somebody else.
 
 "You're awake," said Lira.
 
@@ -258,7 +252,7 @@ She was a yard from him in the dark, and by her voice she had not lain down.
 
 "Yes."
 
-"You went stiff, on the plank, somewhere past the middle of it. She didn't see; she'd her eyes shut. I hadn't."
+"You'd not look at her lantern. You looked at the roof for the whole time that she was telling you, and you came across that yard like a man going by a forge. And I can hear the water going now." Her voice was quite low. "I had you by the sleeve across a vault, seven days ago, with your lids shut. I know what it is that bills them. It only charges when it's looked."
 
 He did not answer at once. He could not have told that girl a false thing, and there was no need to; he had only to find the true one that was his to give.
 

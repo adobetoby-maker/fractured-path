@@ -40,11 +40,9 @@ A short stroke had been struck into the iron, and beneath the stroke a bar. The 
 
 "That is a thing which was made to be set in the ground," said Karis. "It has a mark on it, which I turned over for a hundred and eighty-three days, and called two copies of one ignorance. I had the word for it all the time. I had read it aloud, once, in another line, and it had not occurred to me that a hole in a moor and a child of fourteen could be given a thing out of the same drawer."
 
-Karis said, "A mark is a grade. The one they give a boy at fourteen says what he's *for*."
+She laid her bound hand flat beside the three of them.
 
-{{JOIN}}
-
-Karis said, "The one on a sheet says how *old* the thing is."
+"A mark is a grade. The one they give a boy at fourteen says what he's *for*."
 
 Cael looked at the three marks, in iron and lead and ink.
 
@@ -76,7 +74,7 @@ She drew that in the right-hand box; and then she laid her pencil down on the le
 
 "It's tiers," said Lira. She had come to the table's corner, and she was looking at the three ruled squares as she had looked at three walls from a rise. "First, second, third. They've a ladder for holes in the ground."
 
-"It is three marks. Call them what you like; I must call them something, and I shall call them so." Karis took the pencil up. "But a grade grades something. The one that is given at a kindling grades a person, and there is a man in this room who signed for a good many. This one is not for size, as I showed you at the spring; a place of twice the measure has the same bar. It is not for which is fenced. So I have gone through everything else in which one of these sheets differs from another."
+"It is three marks. Call them what you like." Karis took the pencil up. "But a grade grades something. The one that is given at a kindling grades a person, and there is a man in this room who signed for a good many. This one is not for size, as I showed you at the spring; a place of twice the measure has the same bar. It is not for which is fenced. So I have gone through everything else in which one of these sheets differs from another."
 
 She turned the Stair's newest sheet so that its foot lay toward them, and set her finger in the right-hand corner.
 
@@ -88,9 +86,9 @@ There was a number there, small, after a clerk's flourish; Cael had seen it at t
 
 He had not moved from the table's end; he spoke to the sheet, low, and with great care, as a man walks across ice that has let him through once.
 
-"I can tell you what the form is, which is very nearly the only thing that I am good for. Where an office makes a return of the same matter in every year, each sheet is numbered from the first that the office holds. The number is carried forward by whoever draws the next, and nobody is obliged to ask where it began." He stopped. "I have signed a great many returns with such a figure in the corner. I never once read it. I say what the form is; I do not say who drew the first."
+"I can tell you what the form is. A return of that kind carries the year of its series: the count of years from the first sheet that the office holds upon the place. The figure is carried forward by whoever draws the next, and nobody is obliged to ask where it began." He stopped. "It does not say that anybody walked there in each of those years. It says how long ago the first sheet was drawn, and no more. I say what the form is; I do not say who drew the first."
 
-"Thank you. That is exactly as much as I wanted." Her finger had gone to the hide, and it touched each ring in turn, going east. "The Fallow's newest sheet is its sixty-first, and the Stair's is its ninety-fourth; the hall's is a hundred and thirty-eight. And the place behind the iron—"
+"Thank you. That is exactly as much as I wanted." Her finger had gone to the hide, and it touched each ring in turn, going east. "The Fallow's newest sheet stands in its sixty-first year, and the Stair's in its ninety-fourth; the hall's is a hundred and thirty-eight. And the place behind the iron—"
 
 She laid the sheet down upon the fourth ring.
 
@@ -98,9 +96,9 @@ She laid the sheet down upon the fourth ring.
 
 Nobody at that table said anything at all.
 
-Cael did the sum, since it was there to be done, and it was not a hard one. A sheet a year. Somebody had measured the place behind that fence, from eight points, with a cord, and written that the instruments read true and that the anomaly was total; and somebody had done so in every year for longer than any registry clerk now living had been alive, or his father, or his father's father. Six rows of it lay on this table, and the others stood in a drawer.
+Cael did the sum, since it was there to be done. The paper did not say who had gone to that fence, or how often. It said only that a first sheet of the place behind it had been drawn two hundred and six years before the one that lay under her hand.
 
-"I had supposed that it was six years," said Seln, very quietly. "I read the rows as the whole of the matter. They were only as much of it as had been kept from the people who ought to have received it."
+"I had supposed that it was six years," said Seln, very quietly.
 
 "And the two bars?" said Lira.
 
@@ -111,6 +109,12 @@ Karis turned up the corner of the sixth sheet.
 "A series that was opened before the present manner of numbering is carried under its old style," said Vastin. "I should expect it, and I do not know when the manner changed."
 
 "Then I can say that it is older than two hundred and six, and I can say nothing more. I shall not put a figure to it until I have one."
+
+She laid her pencil down across the three ruled boxes.
+
+"The one on a sheet says how *old* the thing is."
+
+The old man had taken the iron up from under the window while she spoke. He laid it back in the tarred case, beside the cord and the mallet, and drew the strap; it had still never been driven.
 
 ---
 
@@ -126,9 +130,7 @@ Cael had not heard him come, and did not know how long he had stood there. He ha
 
 "By a point of the compass, which I shall lay against the hide before I say it aloud." She held out her right hand, across the table, toward Cael. "You have a pair of brass legs in your coat. I asked for the loan of them when I should have a hide in front of me again."
 
-He had known that it was coming since she said *run*.
-
-He took out Hesk's book, and the dividers slid from between its leaves into his palm, shut, with the cork upon their points. He had carried them for six days, under a ruling of his own that was a hundred and thirty days old: he did not put his hand to a thing that measured, since a cord had run short in it and two edges had disagreed. An old man in Denvash had sent these to step off a line with, and had written that lines were for finding out how far a thing is from another thing.
+He took out Hesk's book, and the dividers slid from between its leaves into his palm, shut, with the cork upon their points. He had carried them for six days, under a ruling of his own that was a hundred and thirty days old: he did not put his hand to a thing that measured, since a cord had run short in it and two edges had disagreed. An old man in Denvash had sent them to step off a line with.
 
 Cael laid them on the deal, and pushed them across with one finger.
 
@@ -156,13 +158,15 @@ It stood on the bare deal, a hand's breadth beyond the calfskin's edge, hard aga
 
 Cael looked along the skin, from the left hand to the right. There were four rings, and a point that was not yet drawn, and a number against each: sixty-one, and ninety-four, and a hundred and thirty-eight, and two hundred and six. They rose as they went. Beyond the last of them, in a strip of shadow, stood something that the office had stopped counting.
 
-"Somebody laid them down in order," said Karis.
+"Somebody laid them down in order," said Karis. She said it to the hide, as she would have read out a measure.
 
 "Who?" said Lira.
 
 It was the question, which had been asked on a road once, of a pattern, and had not been answered. The old man at the table's end had drawn breath, and Cael saw the right hand leave the stick, and begin to rise.
 
-Karis said, "It's observation. I'm telling you what the paper says. Not what it means."
+Karis had not turned her head; but her bound hand had come down flat upon the sheet of three boxes.
+
+"It's observation. I'm telling you what the paper says. Not what it means."
 
 The hand came down upon the ash.
 
@@ -178,11 +182,11 @@ Lira had turned her head. So had Brom.
 
 The man in the door had not followed any of that; he had been looking at the hide the whole while, as he looked at a load.
 
-Teague said, "Oldest last."
+"Oldest last," said Teague.
 
-{{JOIN}}
+It was not put as a question. Karis answered it all the same, with one small nod, as she would have passed a figure that had been read back to her correctly; and he took his thumbs out of his belt.
 
-Teague said, "Then that's where we're going."
+"Then that's where we're going."
 
 ---
 
@@ -190,7 +194,7 @@ They were on the south road by the middle of the forenoon, in the file that a ca
 
 It held. Cael had not been sure that it would, outside a meadow. A quiet man went ahead, small against the pale grass, and after him seven feet of ash with a leaf of steel on it. Then came a pair of shoulders that did not look round; and Cael walked a stride behind the left of those, where he had been put. He had never in his life walked at anybody's shoulder to be asked what he saw.
 
-Behind him he could hear the rest by their feet. There was a quick tread and a quicker one after it, which kept changing its length. There was Karis's, with the flat and the hide, and beside it the tap of a lean old woman's staff. A big man came next with a box; and last of all there was a slow uneven step, the bad hip of a man with a crossbow on his back.
+Behind him he could hear the rest by their feet. There was Karis's, with the flat and the hide, and beside it the tap of a lean old woman's staff. A big man came next with a box; and last of all there was a slow uneven step, the bad hip of a man with a crossbow on his back.
 
 There was no stick in it.
 
@@ -202,9 +206,9 @@ The old man had opened his mouth. Then he had looked at the nine who would have 
 
 So a cart went on a furlong ahead, with a brown coat on its tail, and for the fourth day together Cael walked toward a pair of boots that hung.
 
-They passed the well at the fork, which had a house over it now, with a door hung and a new rope on the windlass; a crew had taken that from the plank in the cold. He put his hand on the curb as he went by, since he had hauled foul air out of that shaft for three days on a bitten leg, a long while ago. Then the road climbed, and they were on the back of the ridge.
+They passed the well at the fork, which had a house over it now, with a door hung and a new rope on the windlass; a crew had taken that from the plank in the cold. Then the road climbed, and they were on the back of the ridge.
 
-It was the same pale grass, combed all one way, and the same wind. The country fell off on both hands. He had come along it once in the dark before a frost, behind a mule, to ask a healer whether she would come; and he had gone back along it with the answer. He had not known then that the left-hand ruts ran to anything but three holes in the ground.
+It was the same pale grass, combed all one way, and the same wind. He had come along it once in the dark before a frost, behind a mule, to ask a healer whether she would come; and he had gone back along it with the answer.
 
 Nobody spoke. Twice a flat hand went up, far ahead, for nothing that Cael ever saw, and the file stood, and went on at two fingers. The second time the boy stood exactly when Lira did.
 
@@ -224,7 +228,7 @@ Then he wrote the rest as it came, and it came all in one piece.
 
 *Deployment since the Line: thirty-two.*
 
-He read it through, and it was more than she would have let him say at a table. He had not said it at a table; he had put it where he put what he thought, with his own name to it, and he let it stand.
+He read it through. Only the ranking was the paper's, with a place past the fourth that was older than two hundred and six. The centuries, and the figure near its foot, he had from a gallery, where a thing was read aloud once; he had laid them beside her morning's work himself, and it was more than she would have let him say at a table. He had not said it at a table. He had put it where he put what he thought, with his own name to it, and he let it stand.
 
 A hand came over his shoulder; he gave Lira the book, and she read it with her lips.
 
@@ -232,17 +236,13 @@ A hand came over his shoulder; he gave Lira the book, and she read it with her l
 
 "Hesk's wife, and I never knew her. She's only ever been a sentence on an order-leaf."
 
-"It's a good one." She read the last lines again. "You've put a figure on it."
-
-"I've put what I think. Karis has a box with nothing in it; I'm allowed a page."
-
-She shut the book and handed it back, and looked down the notch, where a wheel was knocking.
+"It's a good one," she said. She shut the book and handed it back, and looked down the notch, where a wheel was knocking.
 
 ---
 
 The valley was green, and the water came down it brown and fast over a weir of stakes and stone.
 
-Three of the stakes were gone from the weir. Cael saw the gap as they came round the shoulder, and saw a captain see it; that had been a slip on Pike's plank once, at four marks, and it had been forfeited for a walk along a ridge. The tall grey building stood beyond, with its wheel going round in a white fall. There was the fence of split posts, and the dozen roofs, and the ford below with a flat stone on either bank.
+Three of the stakes were gone from the weir, and Cael saw a captain see the gap. The tall grey building stood beyond, with its wheel going round in a white fall. There was the fence of split posts, and the dozen roofs, and the ford below with a flat stone on either bank.
 
 A woman sat on the nearer stone with a net across her knees.
 
@@ -256,7 +256,7 @@ The answer came from a lean-to against the mill's southern wall, low and hoarse,
 
 There was a brown mule tied to a fence-post, with a white foot. She had her head up already, and both ears pricked at a big man with a box; and Brom, who could not lift an arm to her, stopped in the track and said something under his breath that was not meant for anybody else.
 
-The bench along the mill's wall was empty. It was the end of a day, and whoever had sat there since first light had been seen and sent home. The old man had come down the notch last, a tread at a time, behind the locked wheel; he reached the bench as the others reached the fence, and looked at it, and plainly thought it wiser to be found on his feet.
+The bench along the mill's wall was empty, at the end of a day. The old man had come down the notch last, a tread at a time, behind the locked wheel; he reached the bench as the others reached the fence, and looked at it, and plainly thought it wiser to be found on his feet.
 
 Oryn came out of the lean-to, wiping her hands a finger at a time.
 
@@ -274,31 +274,39 @@ It was a stride to his left, by the lean-to's post, where the light was.
 
 Cael watched him. He had heard that man answer every instruction that was ever put to him, for three hundred miles: with *I cannot undertake*, with *as to the last*, with a clause hung on the end like a seal on a ribbon. He saw the mouth open.
 
-It shut again. The stick moved, and the leg after it, and the old man stood where he had been told, and said nothing whatever.
+It shut again. The stick moved, and the leg after it, and the old man stood where he had been told. He hung no clause upon it. He gave her a figure instead, as he would have handed up a return.
 
 "Nineteen days," Vastin said.
 
-Oryn said, "Then it's eleven more."
+She did not so much as glance at the slat.
+
+"Then it's eleven more."
 
 "There's a count," said Teague.
 
-He had come down to the fence with his thumbs in his belt. It was the first time that he had spoken to her; in her ten days at Lowmarch she had not once gone up the bank.
+He had come down to the fence with his thumbs in his belt. It was the first time that he had spoken to her.
 
 "Ten on it, for a line that runs east. It's contract, and it's mine in the field, and neither of you is on it." His chin went to the old woman. "She's said that she'll not be counted. I'd sooner hear yours from you than be told it by a boy."
 
 Oryn looked at him as she looked at a patient who has walked in on a broken foot and wishes to discuss the weather.
 
-{{JOIN}}
+"I've three holds owed yet on this round," she said. "They lie the way that you're walking, for a day and some; and after that my road turns, and yours doesn't. You'll not count me, and you'll not send me. A crew doesn't write a well on its sheet because the road happens to pass it."
 
-Oryn said, "I'm a stop on my own route."
+She threw the cloth over her shoulder.
+
+"I'm a stop on my own route."
 
 Nobody argued it. Brom had gone into the mill by then, and he came out with the miller's wife behind him and a sack on the bound shoulder; it was a mark's worth of meal and a flitch, for five days of country with no gate in it. He said the figure as he came: a hundred and twenty-seven.
 
-Then he set down what he had carried under his box's lashing for seventeen days, which was a wooden bowl, on the end of the bench.
+Then he set down what he had carried under his box's lashing for seventeen days, which was a wooden bowl, on the end of the bench; and he turned a keg up on its end before it.
 
-Lira said, "Sixth chair."
+Lira looked at the keg, and then at the healer.
 
-Oryn said, "On my terms. Which are the only kind."
+"Sixth chair," she said.
+
+Oryn considered it for the space of a breath, as she had once considered a milking stool.
+
+"On my terms. Which are the only kind."
 
 She sat.
 
@@ -316,7 +324,7 @@ The old woman had already gone to the right, and she did not ask; it was her own
 
 Then her own thick fingers went round the left shoulder, before and behind.
 
-"That's a wrench," she said, with her eyes shut. "It's a fortnight old, near enough, and you've used it since. You took a weight on it that was coming down, and you took it as a man. There's nothing of yours in it. If you'd brought the grey up, I'd be feeling a different thing."
+"That's a wrench," she said, with her eyes shut. "It's a fortnight old, near enough, and you've used it since. You took a weight on it that was coming down, and you took it as a man. There's nothing of yours in it."
 
 "I'd a clerk's yard all round me; I'd have been a line in a book."
 
@@ -338,15 +346,15 @@ It was as much as either had said to the other, and Cael thought that it was a g
 
 "Yes," said Lira.
 
-She had it out already, bare to the elbow, with the eight marks pale along it. She sat on the plank with her chin up, as she had sat on a block at Thornwater when a knot was undone; and the healer took the forearm in her two hands and went along it from the wrist.
+She had it out already, bare to the elbow, with the eight marks pale along it. She sat on the plank with her chin up, as she had sat on a block at Thornwater when a knot was undone; and the healer took the forearm in her two hands and went along it from the wrist, with her eyes shut.
 
-Oryn said, "You listened when it told you the second time."
+"You listened when it told you the second time."
 
 "Once," said Lira.
 
-Oryn said, "Once is once more than I priced."
+Cael thought of a girl coming off a ladder, under a town, with that arm tucked against her.
 
-"It's an arm," said Oryn, and laid it down in the girl's lap.
+"Once is once more than I priced." The healer opened her eyes. "It's an arm," she said, and laid it down in the girl's lap.
 
 Lira looked at it there, and shut the hand, and opened it. She did not say anything; but she drew her sleeve down over the eight marks herself, which Cael had not seen her do since the Fallow.
 
@@ -356,13 +364,11 @@ Karis had to be asked twice, since she had brought her notebook to the lean-to's
 
 "Yes. I beg your pardon. Yes."
 
-The strip of shirt came off, turn by turn. Under it the palm was laid open to the light: a long straight seam across the heel, from the root of the thumb to the wrist's far side, drawn together with seven stitches of black waxed thread, each as thick as a bootlace's end.
+The strip of shirt came off, turn by turn. Under it the palm was laid open to the light: a long straight seam across the heel, drawn together with seven stitches of black waxed thread, each as thick as a bootlace's end.
 
 "Who sewed this."
 
 "I did," said Brom. He had gone red. "With a roping needle. There wasn't a healer inside that gate who'd touch her without a name."
-
-Oryn bent closer, and turned the hand to the lantern, and looked along the seam as a person looks along a furrow.
 
 "It's the ugliest piece of sewing that I ever saw hold," she said. "It's held; it's shut from end to end, and it's clean." She had a small knife out. "They've done what they were put in for. I'll have them out, and I'll spend a little where the thumb pulls. You've been writing with it."
 
@@ -380,8 +386,6 @@ He was still standing at it; he had stood there for the better part of an hour, 
 
 "I was told to stand there," said Vastin. "I was not told that I might leave off."
 
-Something went across her tired face that was not a smile and was a good deal nearer one than he had ever had of her.
-
 "Sit on the plank. Leg out. I want my hands on that knee, and on your wrist. May I?"
 
 "Yes." He let himself down. "There is a thing which you must have first. I asked that you be told it, eight days ago, and I find that I had rather tell you. I stood a wall upon that leg on the eleventh day, and I had your words in my head as the stick came down. I heard them, and I did it."
@@ -390,14 +394,16 @@ Something went across her tired face that was not a smile and was a good deal ne
 
 Her hands went round the joint, above the slat and below.
 
-"It held in a cut," said Oryn.
+"It held in a cut," said Oryn. Her thumbs moved. "And then you asked it for a second, with eleven days on it. I can feel the pair."
 
 She did not spend on it. She took the slat off, and bound the joint again in her own linen with two new laths; and what she said, when she had counted his wrist, was that the month stood as it had been counted, and that he was not to mistake that for a kindness.
 
 "Noted," Vastin said.
 
-Oryn said, "That's new."
+Her hands stopped on the linen.
 
-Vastin said, "It's a useful word."
+"That's new."
 
-Oryn said, "It's his."
+"It's a useful word."
+
+"It's his." She did not look round at the lean-to's post, where a boy stood. She tied off the last turn, and her mouth went down at one corner, which with her was most of the way to a smile.
