@@ -12,7 +12,23 @@ He looked from its foot. Cael had moved the flame before the grey head moved, an
 
 He spoke while he looked. That was new as well. He had always looked first, and said afterward what the looking had found, in as few words as would carry it.
 
-"A record," Cleon said, "sits." {{JOIN}} "An instruction *leans*." {{JOIN}} "This is a stair."
+"A record," Cleon said, "sits."
+
+His chin had gone toward the brown page.
+
+"A load came in at a gate. It was paid on, and when the day was done a clerk put it down. He might have begun at the head of his column or the foot of it; it'd be the same tally. There's not a mark on that leaf that's waiting for anything."
+
+The eyes came across to her pencil, and the water ran.
+
+"An instruction *leans*."
+
+He said it more slowly, as a man says a thing that he has only ever said to himself.
+
+"Whoever cut this set each sign where it is for the sake of the one after it. Take them out of their order and you've a pile of chippings. Leave them in it, and you're handed on, sign to sign, whether you can read a letter of it or not. I don't read it. I'm walked down it."
+
+He looked from the one to the other once more, the book and then the sheet.
+
+"This is a stair."
 
 Nobody in the gallery moved.
 
@@ -28,27 +44,27 @@ The man made a sound in his chest. It was not the grunt that he gave for a thing
 
 The finger began at the low left corner, and went up, a row at a time, and across.
 
-Cael had the light there before it, and did not have to think of where. He had been looking where that man looked for six days together, a hand to the left of him, and had taken it for a groom's knowledge of a horse. The finger came to the fifth row, and went along the signs, the white and the three black and the red, without touching one of them, and slowed as it went.
+Cael had the light there before it, and did not have to think of where. The finger came to the fifth row. It went along the signs, the white and the three black and the red, without touching one of them, slower and slower; and above the last sign of the run it stopped.
 
-"There," Cleon said.
+"There," said the man.
 
 It came at that word.
 
-It did not come as any of the eleven had come. Nine of them had come out of a blow, or a throw, or a bar set across a doorway. Tide had filled him like a cup under a healer's palm; and a wall had been stood in him only the evening before, as a post is stood in its hole. This was neither poured nor planted. It was turned. He had read every paper of his life from the wrong side of somebody's desk, with its head toward the person who owned it; and it was as though a hand had reached across, without a word, and turned the sheet about, so that for once it lay facing him.
+He did not know it for what it was; he knew only that something at the tail of his eye had altered, and he took it for the lamp. A dark thing stood propped against the table's edge, with its head a little back, and it had four rows cut in it; and all four had gone aslant, the same way, like the rails of four stairs seen from below. He looked at his own hand: the ring hung from two fingers, and the flame stood up like a painted one.
 
-The fifth row leaned.
+So he looked at the sheet, where the finger was.
 
-Nothing on the paper had stirred; the signs stood where her pencil had put them, square and small, each in its place. But the row had a way to it now, as a field of barley has a way when the wind has gone over it and every stalk still bows a little toward where the wind went. The white sign at the head stood up straight, and all that followed it hung from it, and inclined, each toward the next. At the row's end the lean came down flat, like a foot arriving on a floor.
+Nothing on the paper had stirred; the signs stood where her pencil had put them, square and small, each in its place. But the fifth row had a way to it now, as a field of barley has a way when the wind has gone over it and every stalk still bows a little toward where the wind went. The white sign at the head stood up straight, and all that followed it hung from it, and inclined, each toward the next. At the row's end the lean came down flat, like a foot arriving on a floor.
 
 *Goes*, it said, of that row. It said it without any voice at all; it was only there, as the weight of a stone is there in the hand that lifts it.
 
-At the tail of his eye there was something dark, propped against the table's edge with its head a little back. He did not turn his face to it, and had no need to: it had four rows cut in it, and every one of the four leaned as the fifth row did, down from a white.
+He knew it then, and he knew whose it was. He had been a hand to its left for six days.
 
-He put his eyes on his own knuckles, and kept them there.
+He had read every paper of his life from the wrong side of somebody's desk, with its head toward the person who owned it. It was as though a hand had reached across, without a word, and turned the sheet about, so that for once it lay facing him.
 
-There was a table under that sheet, with pegs in it. There was a ring of brass in his fingers, and a desk six strides off, and a stair of dark stone that somebody had laid. The new thing inclined toward each of them in turn, mildly, like a head coming round. He did not let it look. He had been given a pair of eyes that were not his, in a room that belonged to the man they came from, and he did not know yet what they cost.
+He put his eyes on his own knuckles, and kept them there. There was a table under that sheet, with pegs in it, and a ring of brass in his fingers, and a desk six strides off, and a stair of dark stone that somebody had laid; and the new thing inclined toward each of them in turn, mildly, like a head coming round. He did not let it look. He had been given a pair of eyes that were not his, in a room that belonged to the man they came from, and he did not know yet what they cost.
 
-It was the twelfth. He knew whose it was, and he had been a hand to its left for six days.
+It was the twelfth.
 
 ---
 
@@ -66,29 +82,15 @@ She was at the tall book before he had done. Cael held the flame for her, a hand
 
 "Fifteen."
 
-Cael knelt, and kept the light where it was wanted, and thought about what he had.
+Cael knelt, and kept the light where it was wanted; and he found that he had put it there, twice, before the finger moved.
 
-It leaned at the tall book, when her hand turned a leaf. *Sits*, it would have said of that page, if he had let it: he could feel the word waiting, flat and level, like a board laid on two trestles. It leaned at the lamp-ring, and at the joint of the table's leg, a foot from his knee, where one peg did the work and another had been put in for show. He told it no each time. It was an easier thing to refuse than Shadow, which pulled, or the wall, which asked; this one only offered, like a clerk holding out a sheet that need not be taken.
+He had done as much for three days, and it was not the same. He had moved the lamp then because the eyes always went one way, and he had learned the way as a groom learns a horse. He moved it now because he could see where the row was going. A made thing was looked at from where it stood upon the ground, toward where it went, and a light set anywhere else lay across the grain of it. He was glad to have that; it explained six days of *left* and *up a finger*.
 
-He understood the lamp now. He had put it low and to the left for six days because he was told to, and had moved it ahead of the word because the eyes always went one way. They went one way because the thing itself did. A made thing was looked at from where it stood upon the ground, toward where it was going, and a light set anywhere else lay across the grain of it.
+It also made him a thief, or would by the morning.
 
-That was a small matter, and he was glad to have it; it was the only part of the business that he felt sure he had come by honestly.
+A man had shown a stranger the inside of his trade, for the first time in thirty years, because she had asked him honestly for something that he could not hand her; and the boy who held his lamp had come away with a piece of it. He had not reached. He never did reach. But he would kneel at that elbow tomorrow, and the day after, with the man's own way of looking folded behind his eyes; and each time that the finger went along a row, he would know where it was going before it went.
 
-There was the other part.
-
-He had wanted this, and had written so, on the second night of the lamp, in three words, and had written that he did not say it. He had come to that town with a place under his breastbone which five readings had gone round and none had entered, and he had put down in a book, at a fire, that he wanted an instrument for what does not move. He had one now, resting an inch behind his eyes, as quiet as a folded rule.
-
-He looked at that squarely, with his breath going long and the flame standing up.
-
-It would take no time; he need not so much as shift his knee. He had only to let the thing come round, as it kept trying to come round to a table's leg, and turn it instead upon the one place in himself that he had never been able to read.
-
-He did not do it.
-
-There were two reasons, and he made himself set them in order, since a wish is quick and a reason has to be fetched. The man who owned this had told a gallery what it was not for, five days ago, in the voice of a carter giving his rate. It did not work on a man. And a healer had put an order on that place, on a plank, a long way east: *Write it down and stop touching it.* He had read her order once already for the leave that he wanted. He had gone round the place with what he had, at a waypost, and had called it obedience, since he had not gone in. He had been ashamed enough of that to write it, and to owe her the telling.
-
-He would not read her twice. He would be at her mill inside of eight days, and she could be asked.
-
-*Not until she's heard it*, he said, to the thing behind his eyes; and it lay down, having only ever offered.
+That was not a thing that had been taken once, in an alley, and now sat idle. It would be taken again every hour, for as long as the lamp was his. He would have to tell him. He did not see how; he saw only that it would not keep.
 
 "Sixteen," said Karis. She had dust on her cheek, and her left hand had come up out of her lap and was holding the tall book's leaf flat, on its bound palm, as though it had forgotten that it was hurt. "It is a score. It is the old word for twenty, and there are a hundred of them on this page."
 
@@ -96,11 +98,17 @@ He would not read her twice. He would be at her mill inside of eight days, and s
 
 "I am not saying how he counted. I am saying what I can spell."
 
-The third thing was harder than both, and it was not in him at all. It stood at the table's end with its hands in the small of its back.
+The thing leaned at the tall book, when her hand turned the leaf. *Sits*, it would have said of that page, if he had let it: he could feel the word waiting, flat and level, like a board laid on two trestles. It leaned at the lamp-ring, and at the joint of the table's leg, a foot from his knee, where one peg did the work and another had been put in for show. He told it no each time. It was an easier thing to refuse than Shadow, which pulled, or the wall, which asked; this one only offered, like a clerk holding out a sheet that need not be taken.
 
-A man had shown a stranger the inside of his trade, for the first time in thirty years, because she had asked him honestly for something that he could not hand her. And the boy who held his lamp had come away with a piece of it. He had not reached. He never did reach. But he would kneel at that elbow tomorrow, and the day after, with the man's own way of looking folded behind his eyes; and each time that the finger went along a row, he would be able to see where it was going before it went.
+Near the bell it offered one thing more, and that was not a table's leg.
 
-That was not a thing that had been taken once, in an alley, and now sat idle. It would be taken again every hour, for as long as the lamp was his.
+He had come to that town with a place under his breastbone which five readings had gone round and none had entered, and he had written at a fire that he wanted an instrument for what does not move. He had one now, resting an inch behind his eyes, as quiet as a folded rule. It would take no time; he need not so much as shift his knee.
+
+*Write it down and stop touching it.*
+
+A healer had put that on him, on a plank, a long way east. He had got round her words once already, at a waypost, by going about the place and not into it; and he had been ashamed enough of that to write it, and to owe her the telling. He did not get round them now. She would be at a mill inside of eight days, and she could be asked.
+
+*Not until she's heard it*, he said, to the thing behind his eyes; and it lay down, having only ever offered.
 
 "Seventeen," said Karis, when the flame had begun to smoke. She said it as a person says the name of a town that she has walked to.
 
@@ -226,7 +234,17 @@ He did not say what it was for; it was water, and it was the first thing that he
 
 Cael drank the half of it. He had not known that his mouth was dry.
 
-"I'm going to pretend you didn't tell me that," he said, "for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute." {{JOIN}} "Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — " {{JOIN}} "Don't tell me. Don't tell anyone. Just remember I said it."
+The man stood at the table's corner, where he had set the cup down, with his face to the plank. He spoke to the oak.
+
+"I'm going to pretend you didn't tell me that," he said, "for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute."
+
+The reed lay along the table's edge, and he squared it with one finger, to the grain.
+
+"Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — "
+
+He stopped. The square finger had come off the reed.
+
+"Don't tell me. Don't tell anyone. Just remember I said it."
 
 He went back to the carving.
 

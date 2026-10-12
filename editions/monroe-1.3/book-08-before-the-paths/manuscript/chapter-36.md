@@ -254,7 +254,7 @@ Cael had not heard a step, and he let his breath go.
 
 "He stood for eleven minutes. I heard him not walking, which is a sound that I know." Seln was looking down at the quay. "He is in no hurry at all. I begin to dislike that more than I should dislike a man who ran."
 
-The quay was long and bare; six flat boats lay along it, nose to tail, with their sweeps shipped. Beyond them the great wheel of the hoist stood up against the water, and beyond that again a cable went out over the river into the dark.
+The quay was long and bare. Six flat boats lay along it, nose to tail, with their sweeps shipped. Beyond them the great wheel of the hoist stood up against the water, and beyond that again a cable went out over the river into the dark.
 
 Cael looked at the cable, and his stomach went cold.
 
@@ -314,7 +314,7 @@ Seln looked at him, and did not say that it was foolish. He said, "A person may 
 
 So Cael walked up it, in the middle, as the other had.
 
-It was two hundred yards, and he had gone up them on eight mornings with a card in front of him and a box on his back; he had never done it with his hands empty. The brazier grew as he climbed, and the two long coats took on a colour, which was dark blue.
+It was two hundred yards, and he had gone up them on eight mornings with a card in front of him and a box on his back. He had never done it with his hands empty. The brazier grew as he climbed, and the two long coats took on a colour, which was dark blue.
 
 *This far?*
 

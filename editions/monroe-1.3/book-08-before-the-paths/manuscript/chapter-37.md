@@ -40,7 +40,7 @@ The flame was there.
 
 It was a long day, and Karis made it longer by being right four times.
 
-The man gave her his joins from the second bell. He went along the Ring's eleven with his finger, and the Stair's twenty-nine, and at every place where a run came down flat he said *red*, and she laid a square of tile. By noon each of the fifty-two sheets was parted, in broken tile, into pieces of the length of words. She had the tall books open along the table's edge. She laid a word against a word.
+The man gave her his joins from the second bell. He went along the Ring's eleven with his finger, and the Stair's twenty-nine, and at every place where a run came down flat he said *red*, and she laid a square of tile. By noon each of the fifty-two sheets was parted, in broken tile, into pieces of the length of words.
 
 "Eighteen," she said, in the forenoon; and at noon, with her bread untouched, "Nineteen."
 
@@ -152,8 +152,6 @@ She had learned by now that it was his pot. She put two saucers on the board, an
 
 He set a saucer over each of the two cups, to keep the dust out, and stood them at the table's end. One was a small pale woman's, who was above their heads with a lantern and twenty-one letters. The other had been carried under the lashing of his box, as an empty bowl, for eleven days; and the person whom it was kept for was a long way north along a hill-foot, with a mule.
 
-Cael ate until he could not. He had not known how thin a thing a pot of barley was until there was a goose beside it.
-
 He made his second mistake of the day over the pie.
 
 He had his elbows on the board, and his eyes had gone down to the wood, idly, as a person's do who is full. It was an old table. It had been mended. *Bears*, the thing said, of the two trestles in the middle; and of the leg at the far end, by the old man's stick, it said *nothing*, as flatly as it had said so of a red square of tile.
@@ -174,33 +172,33 @@ Cael began to laugh. He could not have stopped it. He put the heels of his hands
 
 "You go and look at what's sitting on it," said Brom, mildly. "I told that fellow so. He's a good eye, for a man who never lifted anything."
 
-The dividers went round the table once, shut, with the cork on. Seln turned them over in his fingers and gave them back without a word, which was praise. The old man held them for some time. He opened the legs a little way, and set the two points upon the board, an inch apart, and looked at the inch.
+The dividers went round the table once, shut, with the cork on. Seln turned them over in his fingers and gave them back without a word, which was praise.
 
-"It carries a distance," he said. "It does not say what the distance means. I have signed a great many instruments in my time that did the second and could not do the first."
+It was near the end, when the apples had gone, that Cael smelled paper burning.
 
-He shut them, and passed them on.
-
-It was near the end, when the apples had gone, that Seln put two fingers into his sleeve.
-
-He drew out a slip of paper, folded once. Cael had not seen it go in. It was no bigger than a card, and there was writing on it, close, on one face. The small grey man read it through by the candle, with no more change in his face than when he read a broker's slate. Then he held one corner of it in the flame.
-
-It took, and he turned it as it burned, and laid the last of it in the dish, and watched until it was black.
+He looked along the board. There was a curl of black in the candle's dish, under a small grey man's fingers, with one corner of it still white; he saw close writing on that corner, a line and a half, before the flame had it as well. Seln turned the last of it over with his nail, and watched until it was ash.
 
 "Closed."
 
-Nobody asked him what; he had not offered it to be asked. Cael counted the word, as he counted anything, and put it beside three others that the same man had given him at a pump; and he understood this one no better, and found that he had not expected to.
+"What is?" said Lira.
+
+"It is in the dish."
+
+She looked into the dish, and at him, and let it go. Cael went back over the minute before, since he went over anything. He had not seen a slip come out of a sleeve, nor seen it read; he had been watching a pair of brass legs go round a table. He put the word beside three others that the same man had given him at a pump. He understood this one no better, and found that he had not expected to.
 
 Vastin had been looking at the two covered cups.
 
 He had looked at them a good deal, through the goose and the pie, as he looked at an entry that he could not at once place. He had sat at more boards than anybody in that room. At every one of them a cover had been laid for whoever was present, in the order of the roll, and a person who was not in the room had no place in it.
 
-"One of those is for a lady who is in a hayloft with a pencil," he said. "The other is for a woman who went north eleven days ago, and does not know that there is a table."
-
-"That's so," said Brom.
+"One of those is for a lady who is in a hayloft with a pencil," he said. "The other is for a woman who went north eleven days ago, and does not know that there is a table. I have kept the count at a great many boards. I should have struck both."
 
 "Out here you count who's owed a seat," Cael said. "It's a different ledger."
 
-Nobody added to that. The old man turned his own cup a quarter round upon the board, and looked into it; and Brom reached over with the jug, since he could reach, and filled it.
+He had said it across the table, to the one person at it who had audited seats for a registry; and he had not known that he knew it until it was out. A big man had been laying a bowl too many for a long while, and nobody had ever asked him to show the sum.
+
+"I see that it is," said Vastin. He turned his own cup a quarter round upon the board, and looked into it. "I was never shown the book."
+
+Brom reached over with the jug, since he could reach, and filled it.
 
 ---
 
@@ -232,7 +230,7 @@ That was two. He took the dividers out of his coat and laid them, shut, on the o
 
 *Hesk sent dividers. Lines are for finding out how far a thing is from another thing. Everything is. I'll enter that as a rule and see what it's worth.*
 
-He looked at the brass for a moment. He had a ruling upon himself, a hundred and twenty-four days old, that he was not to try a measure with his own hand; and here was a thing whose whole purpose was to be opened upon a distance and carried. He did not open it. He had a hair in a small pale woman's notebook to remind him why.
+He did not open the brass upon any distance. He had a ruling against that, a hundred and twenty-four days old, and a hair in a small pale woman's notebook to remind him why.
 
 ---
 
@@ -286,13 +284,11 @@ There was no line on the boards.
 
 ---
 
-The fourth of the five gates had a child in its fourteenth year, and Oryn was asked to stand by.
+On the evening of that same day, the two hundred and ninety-second, and four gates north of a fork-stone, Oryn was asked to stand by for a child in her fourteenth year.
 
-She came to it at dusk on that same day, two days behind her own reckoning and no longer troubling to count them. It was a larger hold than the others. Its wall was of stone, as high as a man's head, with a fence of split oak above; and the bench under its gate-house eave was long enough for twelve.
+She had come in at dusk, two days behind her own reckoning and no longer troubling to count them. It was a larger hold than the others, walled in stone to a man's head with split oak above, and there were nine on the bench under its gate-house eave. She went along them at her stride and a half, with two fingers for each wrist: a herdsman's foot that a beast had trodden; a baby with a rash, and a mother who had not slept; a grandfather who wished only to be told that the thing in his chest was the same thing as last year, and it was. She asked each one, and had each one's yes, and it was full dark before she had her hands in the butt.
 
-There were nine on it, and she went along them at her stride and a half, with two fingers for each wrist. A herdsman's foot that a beast had trodden. A baby with a rash, and a mother who had not slept. An old woman who wished only to be told that the thing in her chest was the same thing as last year, and it was. She asked each one, and had each one's yes, and it was full dark before she had her hands in the butt.
-
-The old woman had waited. She was the one who kept that hold's days, as some woman did in each of them: when the rams went in, and when the beans; who was owed what, and whose turn it was at the gate.
+An old woman had waited for that. She was the one who kept that hold's days, as some woman did in each of them: when the rams went in, and when the beans; who was owed what, and whose turn it was at the gate.
 
 "There's a thing at first light," she said. "I'd take it kindly if you were on that bench for it. Not to do anything. Only to be there."
 

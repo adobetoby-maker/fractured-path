@@ -4,55 +4,47 @@ Lira read it with her chin down and her lips going, as she read everything, and 
 
 It was full dark by then. The lamp over the painted door made a round of yellow on the far side of the arch, and the basket made another in the yard, redder, with the pump and the mounting block standing at its edge. A horse shifted in the stable, and somewhere up the hill a bell was rung for the shutting of a gate.
 
-She had turned on her bucket so that the fire came over her shoulder onto the page. It was one leaf, in a small upright hand, folded in three; she held it in her right hand and steadied its foot with the left, which was slow, and which had come to it without being told.
+Cael went back to the stable wall, and turned his face from her; he had been given that much by three people in a gallery, and he could give it to her.
 
-Cael went back to the stable wall, and did not watch her face. He had been given that much by three people in a gallery, and he could give it to her.
+He watched the bowls instead. Brom had set eight of them on the board, and for once he was not eating, but held his own on his knee and looked at the steam. Seln had his hands in his sleeves, and the small pale woman sat nearest the basket, very upright, with her eyes shut. On the mounting block an old man held a bowl that he did not lift; and on the sixth bucket, with his back half turned to the flame, sat a person who had not been above ground with them before, and who kept his own eyes closed against the light.
 
-He watched the fire instead, and the round of faces that it lit. Brom had sat down at last, with a bowl on his knee, and was eating as he did everything, steadily. Seln had his hands in his sleeves, and the small pale woman sat nearest the basket, very upright, with her eyes shut. On the mounting block an old man held a bowl that he did not lift. And on the sixth bucket, with his back half turned to the flame, sat a person who had not been above ground with them before, and who kept his own eyes closed against the light.
+The steam went up straight, and thinned, and a skin came over the barley in the bowl on the block.
 
-It took her a long time. She was not a quick reader, and it was not a thing to be read quickly.
+It took her a long time; she was not a quick reader, and it was not a thing to be read quickly. He heard one word go by under her breath, four times, the same each time, as she said a thing over until it had left off being strange. He knew which word it was, and he looked at the bowls.
 
-He knew how she read, having handed her a book across two pallets on most nights of three hundred. She took a line as she took a wall: she found the first hold, and did not go on to the second until the first had been tried with her whole weight; and when a word was strange to her she said it over under her breath, twice, until it had left off being strange. She did that four times in the first reading, and he saw her lips make the same shape each time, and he knew which word it was, and he looked at the fire.
+Brom had opened his mouth, once; Seln's eyes had gone to him, and he had put a spoon into it.
 
-She came to the foot; Cael knew, since her lips stopped. She did not look up, but went back to the head, and began again; and this time her lips did not move at all.
+Then the paper was folded, and Cael heard that: three creases, shut one upon another.
 
-Half-way down the second reading she put her thumb upon a place.
+"So the whole time they weren't afraid you'd break something. They were afraid you'd *exist*."
 
-"There's a hole in it," she said, to nobody.
+She had not raised her voice; she had said it as she would have read a figure off a slip, and she had said it to the fire.
 
-"There's a hole in the skin," said Karis, without opening her eyes. "I have drawn it as it is."
+Nobody answered, and when she spoke again it was of another thing.
+
+"There's a hole in it. She's ruled a box, with nothing inside."
+
+"There is a hole in the skin," said Karis, without opening her eyes. "I have drawn it as it is."
 
 "There's a stroke in the hole."
 
 "Yes."
 
-Lira said nothing more, and she finished. She laid the page on her knee, face upward, and put her hand flat upon it, as a person keeps a paper from the wind. She looked into the basket for as long as it takes a log to settle.
+Lira turned the folded page over upon her knee. She found the place through the paper with her thumb, and kept the thumb there; and only then did she lift her head, and look across the basket at the stable wall.
 
-Nobody explained it to her; Brom had opened his mouth, once, and Seln's eyes had gone to him, and he had put a spoon into it.
-
-Cael waited; he had known that girl since a lane in Ardenmere. He had seen her read a board, and a bracket, and a ladder built out of stone; and he had learned that the thing which she said first, after reading, was generally the whole of the matter with the wrapping off. He found that he was afraid of it; he had spent a day not picking that thing up, and she would do it in one breath.
-
-She lifted her head, and looked across the fire at him.
-
-"So the whole time they weren't afraid you'd break something. They were afraid you'd *exist*."
-
-She had not raised her voice; she had said it as she would have read a figure off a slip.
-
-It went into him like a blade laid flat.
-
-He had been ready for a harder thing and a softer one. He had not been ready for a true one, said plainly, by the one person who had known him when he had nothing in him but a word in square brackets. Every clerk who had ever looked at him over a desk had looked at him as at a thing that might go off. He had taken it so, and had built himself, a year at a time, into somebody who would not: who stood in corners, and kept twelve doors shut, and told a Path no at a tar barrel with a man five yards away.
-
-He had been careful not to break anything. Nobody had been afraid of that.
-
-He did not answer her; it was not yet his to answer. He stood against the stable wall, with his hands open, and kept his feet.
+Cael looked back at her, with his hands open, and kept his feet; he did not answer, since it was not yet his to answer.
 
 "Give it here," said Brom.
 
 ---
 
-Brom read it once.
+Brom read it once, with the page held a long way off, and his head on one side, as he looked at a wall that he had been asked to buy; and it gave Cael the length of a slow reader's page to stand under what she had said.
 
-He did it with the page held a long way off, and his head on one side, as he looked at a wall that he had been asked to buy. When he had done he did not read it again; he handed it up to Seln, across the fire, and sat for some time with his forearms on his knees.
+It had gone into him like a blade laid flat. He had been ready for a harder thing and a softer one, and not for a true one, said plainly, by the one person who had known him when he had nothing in him but a word in square brackets. Every clerk who had ever looked at him over a desk had looked as at a thing that might go off. He had taken it so, and had built himself, a year at a time, into somebody who would not: who stood in corners, and kept twelve doors shut, and told a Path no at a tar barrel with a man five yards away.
+
+He had been careful not to break anything. Nobody had been afraid of that.
+
+When Brom had done he did not read it again; he handed it up to Seln, across the fire, and sat for some time with his forearms on his knees.
 
 "I can't tell you what it means," he said. "She'll not, and she's the one who can read it, so I'll not. I can tell you what it cost."
 
@@ -70,7 +62,7 @@ Nobody stopped him; it was his trade.
 
 His eyes had come to Cael, and gone away again, quite gently.
 
-Cael heard that as he would have heard a figure read out in a court, and it was a strange comfort, and he took it for one. Nobody at that fire had said that the leaf was false, since nobody could. But a big man who had been weighed all his life by a house in Velmere had looked at the largest scale that anybody ever built, and had declined to take its own word for what it was worth.
+Cael took a strange comfort from that. A big man who had been weighed all his life by a house in Velmere had looked at the largest scale that anybody ever built, and had declined to take its own word for what it was worth.
 
 "So the floors are —"
 
@@ -88,21 +80,15 @@ She did not say anything more, and her chin went down upon the collar of her coa
 
 "Nine days," he said, very low. "And a hand sewn. She's earned a bucket."
 
-Seln had read the page standing.
+Seln had read the page standing, as a man reads who has copied other people's papers for twelve years: once, from the head to the foot, without a change in his face, and Cael did not think that he would ever need to see it a second time. He folded it in three, on its own creases, and did not give it back at once.
 
-He had read it as a man reads who has copied other people's papers for twelve years: once, from the head to the foot, without a change in his face, and Cael did not think that he would ever need to see it a second time. He folded it in three, on its own creases, and did not give it back at once.
+His left hand had come out of its sleeve, and it went to the strap that crossed the breast of his coat, and rested there, in the firelight, in front of six people. Cael had seen that hand go to that strap perhaps four times in all the roads since Ostrand; he had never seen it go there when anybody was looking.
 
-His left hand had come out of its sleeve.
-
-It went to the strap that crossed the breast of his coat, and rested there, in the firelight, in front of six people. Cael had seen that hand go to that strap perhaps four times in all the roads since Ostrand; he had never seen it go there when anybody was looking.
-
-"I came into this town carrying a thing that I had not decided," said Seln. "I looked at it from a roof. I looked at three doors, and at a shelf with no ticket on it, and I ruled nothing. I had supposed that it was the largest thing that I should ever be asked to hold." He looked down at the folded page. "I find that it is not."
-
-{{JOIN}} "I'll keep it a while longer."
+"I came into this town carrying a thing that I had not decided," said Seln. "I looked at it from a roof, and at three doors, and I ruled nothing. There is a house on that hill which would give a great deal to have it laid upon its ledge; and I have asked myself on a good many nights what it was that I kept it out of." He looked down at the folded page. "I had only ever seen that house from the inside of its own books. It stands upon this. I know now what the office is for, which I did not know at noon; and I had rather know it and carry the thing, than carry it blind." The hand shut upon the strap. "I'll keep it a while longer."
 
 He put his hand back into its sleeve, and held the page out across the fire.
 
-Nobody asked him how long a while was; he had given a great many words, for that purse.
+Nobody asked him how long a while was; he had given a great many words, for that purse. Cael came round the basket for the paper; there was a bucket beside the girl's that nobody had used, and he sat down on it at last, since his legs had been asking for an hour.
 
 ---
 
@@ -110,7 +96,7 @@ Nobody asked him how long a while was; he had given a great many words, for that
 
 She had not asked the fire; she had turned on her bucket, and asked the man in the dusty coat.
 
-He had not eaten; he sat with the bowl in both hands, and his eyes shut, and his face turned a little away from the basket; and he was silent for so long that Brom began to say that the fellow need not answer.
+He had not eaten; he sat with the bowl in both hands, and his eyes shut, and his face turned a little away from the basket. He was silent for so long that Brom began to say that the fellow need not answer.
 
 "I read how a thing's made," said the voice like a hinge. "I'll tell you that, and no more, since it's all I have. It's one hand. He ruled it before he wrote it. He pressed like a mason and he didn't hurry, and it's as old as it says it is; I'd put my name to that at any counter." The square thumbs went round the bowl's rim. "Whether he's told the truth in it, I can't say. A man can write a lie in a fair hand. I've a hundred and ten strides of them."
 
@@ -130,13 +116,21 @@ On the mounting block the old man had set his own bowl down.
 
 He had held it since the pot came, and had not once lifted it. He put it on the stone beside his hip, carefully, as he did everything; and he laid both hands upon the head of the ash, and looked into the fire.
 
-Cael knew that he was going to speak. He knew something else, a breath later, from the way that the old shoulders hung. Whatever was coming had not been set in order, and there were no heads to it. The man had the look of somebody about to read out a paper that he had not been let to see beforehand.
+Cael knew that he was going to speak, and he knew something else, a breath later, from the way that the old shoulders hung. Whatever was coming had not been set in order, and there were no heads to it. The man had the look of somebody about to read out a paper that he had not been let to see beforehand.
 
-"I believed it was imperfect." {{JOIN}} "Now you're telling me it was *aimed*." {{JOIN}} "At a category. Which turned out to be a person. Who's sitting across the fire."
+"I believed it was imperfect."
+
+He said it to the basket, and what came after it was a while coming.
+
+"I held that for the whole of my service, and was easy in it. Above Ostrand I was shown that the fault was meant. I called it corrupt; I put down a seal upon that word, and walked three hundred miles on it, and thought that I had come to the floor." The stick's foot turned upon the cobbles. "Now you're telling me it was *aimed*."
+
+He had gone hoarse; he lifted his eyes from the fire for the last of it, and not before.
+
+"At a category. Which turned out to be a person. Who's sitting across the fire."
 
 Nobody moved.
 
-On the sixth bucket the red eyes had shut again, and the grey head had turned a little farther from the flame, and Brom was looking at his boots. Cael stood where he was, with the heat of the basket on his shins; and he found that he could be looked at by that man, across a fire, and stand under it.
+On the sixth bucket the red eyes had shut again, and the grey head had turned a little farther from the flame, and Brom was looking at his boots. Cael sat where he was, with the heat of the basket on his shins; and he found that he could be looked at by that man, across a fire, and bear it.
 
 It was Lira who answered. She had been waiting, with her hand flat on her knee, as she waited at the head of a bad piece of road.
 
@@ -146,7 +140,11 @@ It was Lira who answered. She had been waiting, with her hand flat on her knee, 
 
 "His?"
 
-"No. I read it, after. I did not sign it." {{JOIN}} "I would have."
+"No. I read it, after. I did not sign it."
+
+The raw hands had tightened upon the ash; he could have left it there, and it would have been true.
+
+"I would have."
 
 "Yes," Lira said. "You would have."
 
@@ -164,7 +162,7 @@ The old man looked at the bowl.
 
 He lifted the spoon.
 
-Cael had watched the whole of that from the wall. He had believed, for the whole of his time on a bluff, that the worst thing which one person could do to another was to write him down. He had now heard a man say across a fire that he would have signed the sheet. He had seen a girl agree that it was so, to his face, and then feed him; and he looked in himself for the wish that she had done otherwise, and it was not there.
+Cael had watched the whole of that from his bucket. He had believed, for the whole of his time on a bluff, that the worst thing which one person could do to another was to write him down. He had now heard a man say across a fire that he would have signed the sheet. He had seen a girl agree that it was so, to his face, and then feed him; and he looked in himself for the wish that she had done otherwise, and it was not there.
 
 ---
 
@@ -174,7 +172,7 @@ Cael had known that it would come round to him. It had come round at a plank in 
 
 He had been carrying the thing since a desk, and he had it still, level, in both hands.
 
-He thought of Hesk's book. It was in his coat, against his ribs, with a pair of brass legs shut in its pages; and ever since a plate lit he had taken whatever was too large for him and put it there, a line at a time, in the order of its coming. He had done so with a word on a plate, and with twelve fragments, and with a place that did not move. He knew exactly how this would go down, if he let it: *Claim. Evidence. Ruling.*
+He thought of Hesk's book, in his coat, against his ribs, with a pair of brass legs shut in its pages. Ever since a plate lit he had taken whatever was too large for him and put it there, a line at a time, in the order of its coming. He had done so with a word on a plate, and with twelve fragments, and with a place that did not move. He knew exactly how this would go down, if he let it: *Claim. Evidence. Ruling.*
 
 He did not take the book out.
 
@@ -182,9 +180,13 @@ It was not a ruling; there was nothing in it to hold, or to try again in dayligh
 
 So he set it down in the only other place there was.
 
-He came away from the stable wall, and went the three paces to the basket, into the light, and stood there on both heels with his hands at his sides. He was not going to say it sitting; he did not know why that mattered, and it did.
+He got up off the bucket, and stood at the basket's edge, in the light, on both heels, with his hands at his sides. He was not going to say it sitting; he did not know why that mattered, and it did.
 
-"Since my Kindling I thought the system forgot to make room for me," he said. "It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen." {{JOIN}} "I happened anyway."
+"Since my Kindling I thought the system forgot to make room for me," he said. "It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen."
+
+He had breath left for three words.
+
+"I happened anyway."
 
 The fire ticked.
 
@@ -194,9 +196,13 @@ He had expected one of two things. He had thought that it would break him a litt
 
 He was only standing; it was a yard, with a pump in it. There were six people round an iron basket, of whom one was asleep and one would not look at him, for his own sake; and he had said the worst thing that he knew, aloud, and the cobbles were where they had been.
 
-It had not got lighter for being said. He found that he could carry it standing up, which he had not been sure of in a gallery.
+It had not got lighter for being said; he found that he could carry it standing up, which he had not been sure of in a gallery.
 
-"Yeah." {{JOIN}} "Now what."
+"Yeah."
+
+It was Lira, and she had not taken her eyes off him since he got up.
+
+"Now what."
 
 He looked at her.
 
@@ -204,7 +210,11 @@ She had asked it as she had called a count at the head of a cut. It was not kind
 
 He had an answer, and he had not known that he had, until she wanted one.
 
-"Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine." {{JOIN}} "I want to stand in the middle of it."
+"Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine."
+
+He stopped there, since the rest of it was not a plan.
+
+"I want to stand in the middle of it."
 
 "That's east," said Brom.
 
@@ -228,7 +238,7 @@ The man in the dusty coat stood up.
 
 He had eaten the half of his bowl. He set it on the board, among the others, and stood a moment with one hand before him, by habit, though there was light enough in that yard to have read by.
 
-He had not looked at Cael, and he did not look now. He had come down through two gates and asked a keeper his road, and sat an hour on a bucket with the fire hurting his eyes; and he had kept one thing the whole of that hour, which was where he did not put them. Cael had seen people look away from him all his life. They had done it at counters, and in the corridors of a house on a bluff, as a person turns from something that may be catching. He had not known that it could be done as a courtesy, and held to, like a term.
+He had not looked at Cael, and he did not look now. He had come down through two gates and asked a keeper his road, and sat an hour on a bucket with the fire hurting his eyes; and he had kept one thing the whole of that hour, which was where he did not put them. Cael had seen people look away from him all his life; they had done it at counters, and in the corridors of a house on a bluff, as a person turns from something that may be catching. He had not known that it could be done as a courtesy, and held to, like a term.
 
 Cleon said, "Tomorrow the rest of the leaf. The list of parts."
 
@@ -250,7 +260,7 @@ They got Karis up the ladder between them, Lira above and Cael below, more aslee
 
 Seln took the ladder's head; he had the folded page yet, and he gave it into Cael's hand as he went by, without a word.
 
-They put the old man into his stall; he went on the stick, and one shoulder, and let himself down into the straw by his hands; and when he was down he lay looking at the boards over his head, where six people would sleep.
+They put the old man into his stall; he went on the stick, and one shoulder, and let himself down into the straw by his hands. When he was down he lay looking at the boards over his head, where six people would sleep.
 
 "Fourteen," he said.
 
@@ -262,15 +272,11 @@ They put the old man into his stall; he went on the stick, and one shoulder, and
 
 "I marked that. I sat for mine. I do not think that I could have done otherwise, with this leg; but I should have liked to." He shut his eyes. "Good night."
 
-Cael went up.
-
-He sat down against the third box, and took out Hesk's book, and the dividers slid from it into his lap. He set the day at the head of a clean leaf.
+Cael went up, and sat down against the third box, and took out Hesk's book, and the dividers slid from it into his lap, and he set the day at the head of a clean leaf.
 
 *Two hundred and ninety-third day. Treswick; the yard, and then the loft; one in the stall. A hundred and thirty. A leaf read once, below, by Karis. A copy made. Read at a fire by the three who had not heard it. The reader came up, and ate half a bowl. Deployment since the Line: thirty-two.*
 
-He held the pencil over the leaf for some time.
-
-Then he ruled a line under what he had, and wrote nothing beneath it.
+He held the pencil over the leaf for some time; and then he ruled a line under what he had, and wrote nothing beneath it.
 
 Lira had turned on her pallet. She put out her hand for the book, as she always did, and read the short lines by the last of the lantern; and she turned the leaf over, to see whether the rest was on its back.
 
@@ -286,7 +292,7 @@ She thought about that, with the slow arm uppermost and her eyes on the slates.
 
 "No," she said. "I don't suppose that it is."
 
-There was a bearing on a calfskin, in the second box, with four rings on it and a line that ran off the edge. There was a set of marks in a ruled square which nobody could yet read. There was a bundle on a shelf with its tape untied, and the back of a leaf to be gone through in the morning; and after the morning there was a gate, and a bridge on five piers, and a road that went the way they had come and farther.
+There was a bearing on a calfskin, in the second box, with four rings on it and a line that ran off the edge, and a set of marks in a ruled square which nobody could yet read. There was a bundle on a shelf with its tape untied, and the back of a leaf to be gone through in the morning; and after the morning there was a gate, and a bridge on five piers, and a road that went the way they had come and farther.
 
 He blew out the lantern.
 

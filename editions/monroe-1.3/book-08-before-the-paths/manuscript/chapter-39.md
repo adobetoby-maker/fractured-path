@@ -4,8 +4,6 @@ Vastin had been given three words in his life for the thing that he had served, 
 
 He did it on a box, by a bay of bundles, in the afternoon of the two hundred and ninety-third day. Nobody wanted him. The lamp had come back to the long table, and the boy knelt beside it, a hand to the left, as he had knelt on every other afternoon. The small pale woman was making a second copy. The man in the dusty coat sat in his chair with his eyes shut. It was a room with one office in it, and Vastin had not once that day felt his boot begin to move.
 
-He noted that. He did not take much credit for it; he had something else to look at.
-
 The first word was *imperfect*.
 
 He had held that one for very nearly the whole of his service, and he had held it comfortably. A scale has an error. A careful officer learns the error, and allows for it, and does not throw away the scale. He had sat through eleven fields and nine thousand readings on that footing. Where a plate gave a wrong answer he had called it a wrong answer, and had written so, and had been thought rather too scrupulous by people who were not obliged to sign.
@@ -68,13 +66,13 @@ It was dark from the second tread. He had no need of light; he had learned those
 
 A man who goes up a stair backward looks at where he has been.
 
-He had not thought of that when he began to do it. There was nothing to see. There was only the dark at the foot, and a little grey in it where the lamp burned a long way off down a gallery; but he faced it, tread after tread, and it grew smaller.
+There was nothing to see but the dark at the foot, and a little grey in it where a lamp burned a long way off down a gallery; but he faced it, tread after tread, and it grew smaller.
 
 He thought about the walls.
 
 He had been a wall. He did not say that with any pity for himself; it was the plainest account of Iron Wall, and of his office, and of what a seat had used him for. A crowd came to a gate, or a hearing drew too many, and he was sent for. He struck his stick upon the ground, and whatever stood on the far side of the line stayed there. He had done it eleven times for a seat, and twice since for no seat at all. He had believed, each of the eleven times, that the thing behind him was the law, and that it was imperfect, and that it was a great deal better than what would come through if he lifted his heel.
 
-He was not sure that he had been wrong in every case. He would not let himself off so cheaply as to say that he had been wrong in all of them, either. He would have to go over the eleven, one at a time, when he had a table and a month. It was the kind of work that he was good at.
+He would have to go over the eleven, one at a time, when he had a table and a month. It was the kind of work that he was good at.
 
 Nine. The first landing. He rested with his hands open on his thighs.
 
@@ -176,21 +174,23 @@ Cael watched him do it. It took no longer than the count of five. The mild eyes 
 
 He asked nothing. He never did, in a street. He walked at the cart's tail with his frame on one shoulder, and waited to be told as much as could be said between a bar and a lane.
 
-It took two lines.
+Cael had been asked not to say it over, and he did not. He gave it as a carter gives a load to the man who is to take the other shaft: who had put it up, and whom it was meant for.
+
+"It's one man's work. All of it; the tiers, and the rest. He says so himself."
 
 "Made," said Seln.
 
+"And he says who it was built against. It wasn't a house. It was a sort of people."
+
 "For a kind."
 
-Seln walked ten paces on that.
-
-He did not turn his head. Cael, beside him, saw only what there was to see: that the left hand had come out of its sleeve, and had gone to a strap across the chest of a grey coat, and rested there for the length of those ten paces as it had rested once in a loft.
+He said nothing after it. He walked ten paces on those two words, and did not turn his head. Cael, beside him, saw only what there was to see: that the left hand had come out of its sleeve, and had gone to a strap across the chest of a grey coat, and rested there for the length of those ten paces as it had rested once in a loft.
 
 "On paper?" he said at last.
 
 "On skin. She's made it fair. It's in my coat, and it's to be read; she's asked that nobody say it."
 
-"Then I shall read it. I am glad to be spared a telling. I have never yet heard one that was the same size as the thing." The hand went back into its sleeve. "The boots were not on the kerb today, nor in any doorway that I could see. I do not take comfort from it. I only tell you."
+"Then I shall read it. I have had two sentences, which is as much as I trust from any mouth. I have never yet heard a telling that was the same size as the thing." The hand went back into its sleeve. "The boots were not on the kerb today, nor in any doorway that I could see. I do not take comfort from it. I only tell you."
 
 "He's time. You said."
 
@@ -232,7 +232,7 @@ They brought the old man out of his stall between them, and set him on the mount
 
 Cael did not sit. He stood with his back to the stable wall and his hand inside his coat.
 
-It was the first fire that they had had in thirteen days. He marked that as the wood caught. They had lain in a loft for eleven nights on another person's hearth, under a term that said no fire of anybody's, in a town where a struck point was a line in a book. He had forgotten how a yard changes when there is a flame in the middle of it: how the dark draws back to the walls, and people's faces come up out of it, one at a time, each lit from below.
+It was the first fire that they had had in thirteen days. He marked that as the wood caught. They had lain in a loft for eleven nights on another person's hearth, in a town where a struck point was a line in a book. He had forgotten how a yard changes when there is a flame in the middle of it: how the dark draws back to the walls, and people's faces come up out of it, one at a time, each lit from below.
 
 Brom came across the cobbles with the pot on a board.
 

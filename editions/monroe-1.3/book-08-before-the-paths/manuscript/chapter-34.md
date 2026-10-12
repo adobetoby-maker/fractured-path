@@ -22,15 +22,17 @@ They put the old man on the mounting block, with the leg out along it. He looked
 
 "I was fed like one last night, and came to no harm."
 
-Nobody laughed. He had not said it to be laughed at.
-
 Cael gave the rest of his ruling then, with his hair still wet from the pump. He had promised it for the morning, when he could see it; and he had lain awake a good part of the night finding how little there was to see. He had six people, and a hill with two gates in it, and a card that was good for one day; and there was a slot in a wall at the top of that hill, twenty-two steps long, which had been shut on them at both ends like a box.
 
 "We're done with the cut," he said. "At dusk, and at noon as well. It's two ends and no middle, and they know its hours as well as we do."
 
 "That leaves the carts' street," said Seln. He stood by the pump, with his hands in his sleeves. "I walked it once, under a keg of oil. It is half a mile, round the back of the crown, and there is not a yard of it that is ever empty by day."
 
-"That's why. Nobody bars a road with a dray coming up it every minute." Cael looked at the three boxes, in their row beside the block. "And we go on wheels. A man had his fist through a becket last evening, and it took the whole of Brom to stop him. He'd not have got far with a cart."
+"That's why."
+
+"And there is a bar at the foot of it," said Seln, "and a beam, and a man who writes."
+
+"I know there is. I'd sooner be weighed in front of fifty carters than shut in where nobody's looking. Nobody bars a road with a dray coming up it every minute." Cael looked at the three boxes, in their row beside the block. "And we go on wheels. A man had his fist through a becket last evening, and it took the whole of Brom to stop him. He'd not have got far with a cart."
 
 "I'd as soon not sit on them a second time," said Brom. "There's a handcart in that stable, with shafts for one. I've asked. She says we may have the use of it while the loft's ours, if it comes back swept."
 
@@ -38,13 +40,13 @@ Cael gave the rest of his ruling then, with his hair still wet from the pump. He
 
 "She wants it swept."
 
-Karis had come down the ladder last, with the flat held against her by one arm. The other hand lay in the breast of her coat, in a strip of a big man's shirt. She had not complained of it, and she had not slept.
+Karis had come down the ladder last, with the flat held against her by one arm. The other hand lay in the breast of her coat, in a strip of a big man's shirt. She had not complained of it, and she had not slept. There were three days left of a week that a man below had called his own; her working sheets were in those boxes, and they were wanted on his tables at the second bell.
 
 "The card says four," she said.
 
 They all looked at the mounting block.
 
-It was a square of card with a buff edge, and it had been written the evening before, a hundred and ten strides under a registry, by a man who knew nothing of what had waited for them in a stair. It gave a door, and a purpose, and one bearer, and under her a figure; and that figure would be counted against caps at two gates and against boots at a hatch.
+It was a square of card with a buff edge, and it had been written the evening before, a hundred and ten strides under a registry, by a man who knew nothing of what had waited for them in a stair. It gave a door, and a purpose, and one bearer, who was Karis; and under her it gave a figure. The figure was four. It meant Cael and Lira and Brom and the old man, by count and by no name, and it would be told off against caps at two gates and against boots at a hatch. Seln was on no card, and never had been.
 
 "Three, with a four on the card, is a question," said Seln. "It would be put civilly. It would be put three times."
 
@@ -54,13 +56,13 @@ It was a square of card with a buff edge, and it had been written the evening be
 
 Seln had already turned toward the arch.
 
-"I cannot keep a roof over half a mile of street. I shall be on the ground, in front of you, and if you see me I have done it poorly." He stopped. "Nobody walks alone. No box is set down where a hand is not upon it. And nobody opens anything. I only say again what was ruled; it has been tried once since then, and it held."
+"I cannot keep a roof over half a mile of street. I shall be on the ground, in front of you, and if you see me I have done it poorly." He stopped. "Nobody walks alone. No box is set down where a hand is not upon it. And nobody opens anything."
 
 He was gone before the sentence had quite ended, as he generally was.
 
 The old man put out one raw hand, when the boxes were going onto the cart, and touched Cael's sleeve.
 
-"There is a thing which I should rather say here, where it costs nothing. At the foot of that street there is a bar, and a beam, and a man who writes a weight against whoever owns the load. He will ask whose it is." The grey eyes were level. "A load that travels on a practitioner's card is entered to the head of the card. That is the rule, and it has an article, which I do not give you. I have told you now, in a yard. I shall not tell him."
+"There is a thing which I should rather say here, where it costs nothing. The man at that beam writes each weight against whoever owns the load, and he will ask whose it is." The grey eyes were level. "A load that travels on a practitioner's card is entered to the head of the card. That is the rule, and it has an article, which I do not give you. I have told you now, in a yard. I shall not tell him."
 
 "You'll want to."
 
@@ -110,10 +112,6 @@ It was two hundred paces, under the wall, and he had walked it fourteen times wi
 
 The four alleys were white. Each laid its bar across the setts in front of the wheels, and the wheels went through it, and then his own boots. At every one a girl was on his left, bent to the rail, between him and whatever stood at the alley's far end. She had not said that she would be. She never had.
 
-At the third there was no broom going. There was only the white, and the quiet of a paved place a hundred yards off, with nobody on it so early.
-
-He found that his neck had not set, as it had on the first day. He did not make much of that. A person can learn to walk past anything, if it is put in his road twice a day; it does not mean that the thing has grown smaller.
-
 At the lane's end the cobbles tipped downhill, toward a parapet and a slot in a wall. Two plain bolts would be lying in that slot yet, unless somebody had swept. Brom did not so much as turn his head. He swung the shafts left, where a broader way opened between the last house and the wall, and the handcart rattled out onto the carts' street.
 
 ---
@@ -131,8 +129,6 @@ He had turned round between the shafts, and now he walked backward into the hill
 Cael kept his eyes on the roofs.
 
 He had to put them somewhere. The wall was on his right hand, and above the wall was the crown; and he knew, without having once looked, where on that crown a pale thing stood. He had felt it go round him all that way, like a lamp carried round a room behind a person's back. So he looked left, and down, at a town laid out in three steps to a brown river. There was the bridge. It was small and dark and it stood on five piers; and a square woman had gone north from a fork with a mule, ten days ago, and would be at a mill before he was.
-
-*Bring me whatever walks out of that archive with you.* He had brought fourteen letters, as yet, in another person's notebook.
 
 The street curled in under an archway and came out at a bar.
 

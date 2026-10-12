@@ -26,7 +26,7 @@ She stood by the second chair, with her notebook against her chest. She had slep
 
 He stood at the desk's left side, a hand off, where the lamp would have been.
 
-There was a fourth in that end of the gallery, and nobody had placed him. The old man sat on Brom's box by the nearest bay, six strides from the desk, with the bound leg out along its plank and both hands on the ash. He had come down the stair on his seat, and could not have followed a ladder to the eastern gallery, and he had not been asked to; he was only where he had been set down, as he was every morning.
+There was a fourth in that end of the gallery. The old man sat on Brom's box by the nearest bay, six strides from the desk, with the bound leg out along its plank and both hands on the ash; he could not have followed a ladder, and he was only where he had been set down, as he was every morning.
 
 The man reached up to the shelf.
 
@@ -40,7 +40,7 @@ Cael looked at what lay beneath, since he had been told to stand there, and sinc
 
 It was a single leaf, and it was not paper.
 
-It had the colour of old horn, and it was stiff, like horn, and a little curled at one corner; and where the lamp struck the curl, the light came through it, brown and clouded, as it comes through the pane of a stable lantern. Somebody had made it of a skin, a long while ago, and scraped it thin.
+It had the colour of old horn, and it was stiff, like horn, and a little curled at one corner; and where the lamp struck the curl, the light came through it, brown and clouded, as it comes through the pane of a stable lantern.
 
 It had not been written with a pen; he saw that at once, from his side of the desk, with the head of it away from him. There was no ink that lay upon the surface. Every sign had been pressed into the skin with a point, as a thing is scored on a slate, and some dark stuff had been rubbed into the scoring afterward and had mostly gone. The lines stood in it like the tracks of a very small bird across a crust of snow.
 
@@ -70,17 +70,27 @@ She stood at the slope of the desk, where he had stood, with her notebook open b
 
 They stopped for a long time.
 
-He had watched that woman read since a reading room above Ostrand. She read as some people eat, quickly, with her whole attention, and a page was gone before another person had found its first line. She did not read so now; her eyes went along one sign at a time, and her lips were shut. Twice the pencil went to the notebook and wrote a single letter, and went back; and once she turned to the last of the tall books, which she had kept by her, and found something in it, and nodded, and shut it.
+He had watched that woman read since a reading room above Ostrand. She read as some people eat, quickly, with her whole attention, and a page was gone before another person had found its first line. She did not read so now; her eyes went along one sign at a time, and her lips were shut. Twice the pencil went to the notebook and wrote a single letter, and went back.
 
-"There were two that I had not," she said, to nobody. "It spells them. It spells each of them twice."
+"There were two that I had not," she said, to nobody. "It spells them for me."
 
-Then she began again at the head.
+She did not take the leaf's word for either. She turned to the last of the tall books, which she had kept by her, and hunted the old clerk's column for a word with the first of the two in its middle; and when she had found one she laid her pencil along both, the brown ink and the scored skin, and nodded.
 
-Cael counted, since there was nothing else for him to do. He counted the lines on the skin, by the pale place, and made them twenty-six; he counted the breaths of the man beside him, which were slow. He looked at the lamp on its iron arm, and saw the oil in the glass stand a finger lower than when the tape came off.
+Cael counted, since there was nothing else for him to do. He counted the lines on the skin, by the pale place, and made them twenty-six. From the eastern gallery, a long way off and round a corner of rock, there came now and then the small dry knock of a book going home upon a shelf.
 
-Nobody spoke. From the eastern gallery, a long way off and round a corner of rock, there came now and then the small dry knock of a book going home upon a shelf.
+"The fourth line," said Karis. She had not turned her head. "I should like to know how it stands. Does it sit, or does it go?"
 
-She went through it three times. He knew when each ended, since her eyes came up from the foot and rested on the wall for the space of a breath. After the second her right hand had begun to shake. She laid the pencil down, and put that hand flat on the desk, beside the other, and went through it a third time with nothing in her fingers at all.
+The red eyes opened, and the man came the two paces back to his desk, and bent, and looked along the line from its foot; and the water ran.
+
+"Sits. The lot of it sits. There's not an order on that skin from the head to the tail." He straightened. "Somebody's telling you what was done. He's not telling you to do it."
+
+"Thank you. I had thought so, and I did not wish to have only thought it."
+
+He went back to his two paces, and shut his eyes.
+
+There was one thing more, and she did it with her glove: she laid it over a word near the foot of the skin. On her notebook she wrote out what that word would have to be, sign for sign, if the letters meant at the foot what she had taken them to mean at the head; and then she lifted the glove, and looked from the one to the other, with the pencil gone quite still in her fingers.
+
+The oil in the lamp's glass stood a finger lower than when the tape came off.
 
 When she lifted her head, she did not look at any of them.
 
@@ -92,15 +102,21 @@ When she lifted her head, she did not look at any of them.
 
 "I've had that on a shelf ten years, a hand's breadth from my head, and I never knew a word that was in it. I'll hear it before I'm older."
 
-She was silent a moment.
-
 "Once," she said. "I shall read it once, aloud, as nearly as I can put a dead tongue into ours. I shall not do it twice. It is the first face only; there is more on its back, which is a list, and I have not gone into that." Her voice was low, and quite steady, and it cost her to keep it so. "It has a head, and then it begins."
 
 She set one gloved finger in the air above the first line, an inch off the skin, as a man had taught her.
 
-"*In the years of the unmaking, when the un-bound walked in the land and no wall stood against them and no law held, and the cities of the east were emptied and the cities of the west were emptied and the rivers ran wrong* {{JOIN}} *there came one who saw the shape of it, and set himself to the ordering. And he made the measure, and the seat, and the tier, and the mark that is given at the kindling, that each should know what he is and none should be what he is not. And he set the apparatus over all the land, and the land was ordered, and the un-bound came no more.*"
+"*In the years of the unmaking, when the un-bound walked in the land and no wall stood against them and no law held, and the cities of the east were emptied and the cities of the west were emptied and the rivers ran wrong*" — her breath had given out upon a comma, and she took another without lifting her finger — "*there came one who saw the shape of it, and set himself to the ordering. And he made the measure, and the seat, and the tier, and the mark that is given at the kindling, that each should know what he is and none should be what he is not. And he set the apparatus over all the land, and the land was ordered, and the un-bound came no more.*"
 
-"*And the* — " {{JOIN}} "*— set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it. And this is the reason of the apparatus, and this is all of its reason, and let none who come after forget it, though the un-bound be forgotten: that they should not come again.*"
+"*And the* — "
+
+Her finger had stopped, and it hung over the pale place, above the one stroke that was left.
+
+"It is scraped," she said, in her own voice. "A word as wide as four of his letters, or five. I have the first stroke of it, and nothing after."
+
+The finger went on, to where the signs began again.
+
+"*— set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it. And this is the reason of the apparatus, and this is all of its reason, and let none who come after forget it, though the un-bound be forgotten: that they should not come again.*"
 
 Her finger had come to the foot of the first face.
 
@@ -132,9 +148,11 @@ The butt of her pencil went to the head of the skin, and then to the sheet.
 
 It was the first time that Cael had heard it spoken. He had seen it written, in fresh ink, on a table at Lowmarch; and his hand had lain a hand's width from it for the whole of a lamp.
 
+The pencil's butt went down the skin, from its head to the pale place below the middle, and rested there.
+
 "It's a title, not a name; the name's gone."
 
-"It gives its own year, at the head," she said. "It is in the count that the old town's books keep, and I have had twelve of those open for a week. By that count this was written about four hundred years ago. I should want a day with the tallies to say it nearer, and I am not going to be given the day."
+"It gives its own year, at the head," she said. "It is in the count that the old town's books keep, and I have had twelve of those open for a week. By that count this was written about four hundred years ago."
 
 "And the rest?" said the man.
 
@@ -143,6 +161,8 @@ It was the first time that Cael had heard it spoken. He had seen it written, in 
 She folded the oilcloth over the sheet.
 
 "That is my whole account. I have read no more than the first face, and I have said no more than is on it."
+
+She looked down at her right hand, and shut three fingers of it into the palm, one at a time, as a big man had counted findings at a spring.
 
 "Older," she said. "Made. Us."
 
@@ -156,7 +176,7 @@ He counted the uprights between the desk and the nearest bay, and there were fou
 
 It was all there, and he had it to the last peg.
 
-He knew what he was doing. An old man in Denvash had taught him to write the count first, and he had made a habit of it, and the habit had served him in a stair three nights ago and on a scree before that. He was counting a gallery so that he need not count the one thing in it which the leaf concerned. He let himself. He thought that he would be given the rest of the day to stand in this room; he would not be given it to stand in the other.
+He knew what he was doing. He was counting a gallery so that he need not count the one thing in it which the leaf concerned. He let himself. He thought that he would be given the rest of the day to stand in this room; he would not be given it to stand in the other.
 
 "There's more in that," said the man. His chin had gone toward the bundle. "Under the board."
 
@@ -284,6 +304,6 @@ He thought about that honestly, since it was she who asked.
 
 "I know it wasn't. I've not got further than old. I've been counting the room."
 
-She looked at him a moment longer. Then she turned, and looked for the first time at the leaf of horn on its board, from six feet off. She put her left hand into her coat, slowly, and took it out again, as she did when she wished to be sure that a thing still moved.
+She looked at him a moment longer; and then, for the first time, at the leaf of horn on its board, from six feet off.
 
 "Tonight, then," said Lira. "I'll hold you to the page."
