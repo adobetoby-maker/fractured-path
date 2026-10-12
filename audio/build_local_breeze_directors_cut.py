@@ -115,6 +115,22 @@ BOOKS = {
             "[Firm, deliberate narration; carry the binding discoveries cleanly and let the final road remain open]",
         ],
     },
+    "book-08-before-the-paths": {
+        "title": "Before the Paths",
+        "chapter_count": 60,
+        "movement_ranges": [(1, 6), (7, 12), (13, 19), (20, 26), (27, 33), (34, 40), (41, 46), (47, 53), (54, 60)],
+        "movement_tags": [
+            "[Quiet, exact narration; let the expedition's altered terms emerge through work and consequence]",
+            "[Observant, controlled narration; keep records, trust, and the growing anomaly clearly distinct]",
+            "[Focused, analytical narration; make each measurement and inference legible without overexplaining it]",
+            "[Measured, watchful narration; hold the buried history beneath the practical work]",
+            "[Patient, strategic narration; let the crew's choices and obligations accumulate by degrees]",
+            "[Dry, precise narration; keep institutional language, dates, and evidence sharply readable]",
+            "[Taut, spatially clear narration; sustain danger without rushing the thinking under pressure]",
+            "[Restrained, intimate narration; give the discoveries, consent boundaries, and personal costs room to land]",
+            "[Firm, deliberate narration; carry the oldest quiet and the departures cleanly, then leave the road open]",
+        ],
+    },
 }
 
 SCENE_RULES = [
