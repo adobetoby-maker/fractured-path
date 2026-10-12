@@ -116,7 +116,7 @@ It was not said as a question. She had got it out as she got out a count, level,
 
 Oryn regarded her. Something went over that square brown countenance which Cael had seen there only once, on the edge of a marsh, and it was gone before he could have put a name to it.
 
-"Lie still," said Oryn.
+"Lie still," Oryn said.
 
 She took her in to the plank. The door of the back room stood open, since that healer never shut a door on anything but a long reading, and from the well they could see a broad back, and a pair of elbows, and at the table's end a bare foot. They heard what she said first, as she said it to every person who lay down there: what she would do, and why, and what it would be like. It had knit as it lay in a river, crooked. She would have to open the way and hold it open, for the better part of an hour, and the girl would feel it going right, which was worse to feel than a thing going wrong.
 
@@ -130,7 +130,11 @@ She walked to the well, and it was not how she had walked since the fifty-third 
 
 The healer had followed her as far as the sill. She was grey about the mouth, and she had one hand on the door-post.
 
-[[TIER-B: "Thank you." / "Route's whole. The knee held. Nobody died of three weeks." — the plan places this exchange after the ankle is mended but does not pin who speaks its first line; coordinator to supply protected text]]
+"Thank you."
+
+Lira said it to Oryn.
+
+"Route's whole," Oryn said. "The knee held. Nobody died of three weeks."
 
 Oryn sat down on her keg after that, with her head lowered, for a count of fifty. When she raised it she looked at the arm.
 
@@ -242,13 +246,13 @@ She moved the finger to the kit's ledger, which lay shut at her elbow.
 
 "Where?" said Brom.
 
-"There is a town on the border, inside the Line. It is called Treswick. It has a wall. Under the wall, and older than the wall, there is an archive that was cut out of the rock before the registry had an office anywhere. The few who have written of it call it the Deepstacks. I do not think that anybody has been down into the oldest part of it since before the Compact."
+Karis put her palm on the oilcloth where the bearing left the hide.
 
-Cael had not heard either name before, and he saw by the fire that Seln had.
+Seln watched the fire as if he knew the road she meant.
 
-"There is a provision there for scholars," Karis went on. "I have seen it cited. I have never seen it used, and I cannot tell you what it asks of the person who uses it. I hold one paper still that such a place might honour: Iron, the third rank, certified and retained."
+Karis answered him without looking away from the map.
 
-[[TIER-B: Karis's line ending "a man there who is" — the plan gives only its last words; coordinator to supply protected text]]
+"It's west," she said. "Treswick. The last Compact city on the Line. There's a registry office on the old town, and under the old town there's an archive that was there before the Compact was — the Deepstacks, the scholars call it, when they call it anything — records nobody converted because nobody was ordered to and nobody needed to. Whatever these are" — her hand on the oilcloth — "if there's a word for them anywhere on the continent, it's in a book under that registry that nobody has opened since before there was a registry to open it. And there's a provision. The old scholars' provision. It lets a registered historical-studies practitioner in. I'm not one, out here. There's a man there who is."
 
 "It has a gate, with a book in it," said Seln. He spoke to the fire, as he did when he would rather not have been asked. "It has a registry office over that archive, and a station on its crown. There is a paper of ours that executes on the hour when any of us shows a certificate inside the Line; I told you so on the ninth day, and nothing has changed it. And there is one among us whose file is not shut."
 

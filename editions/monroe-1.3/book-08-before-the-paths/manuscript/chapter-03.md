@@ -62,7 +62,7 @@ He was aware by then of what his own feet were doing. Wind was in them, as it ha
 
 The read asked next, civilly, as it always did. A pace and a half would have had that pole from the moment that its butt left the snow: its weight, and which way the weight was going, a full beat before his eyes could tell him. It did not feel like doing anything. Not a person in that meadow would have known. Teague had said *not a sigil*, and Cael had no sigil, and never had.
 
-He knew a clerk's way through a rule when he was the one finding it. He had been on the wrong end of such ways since he was fourteen, and he knew exactly what they were worth to the person on the other side. He shut the read, and kept it shut.
+He knew a clerk's way through a rule when he was the one finding it. He had been on the wrong end of such ways since his Kindling, and he knew exactly what they were worth to the person on the other side. He shut the read, and kept it shut.
 
 He tried the outside. He went round to the tall one's left at a fighter's shuffle, to make the pole come across its owner's body; and the tall one turned on the back heel, a hand's breadth, with no more effort than a door takes, so that the rag was pointing at his breastbone again. He ducked in under it. It drew back through the leading hand like a bolt through a staple, a yard, and came out, and struck him on the point of the right shoulder.
 

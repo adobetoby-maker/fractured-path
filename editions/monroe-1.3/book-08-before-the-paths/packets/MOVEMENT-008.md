@@ -7,6 +7,8 @@
 - Word budget: ~35,000
 - Owner names: no new names. The watch is faceless. Teague's crew stays unnamed.
 
+> **[Coordinator rulings after the Movement 1 audit, 2026-10-11 — binding; they override any plan text below that differs.]** (1) **Teague's spear is a tall MAN** (he / him): the locked Book 7 wrote him so (ch25, ch51, ch52), and Book 8 follows its own edition (OWNER-pending #59). Where the plan says "the tall woman", read "the tall man"; his silence toward the six until his question at the pass stands. (2) **Teague can read** (locked Book 7 ch25: he read a slip twice). Never write that he cannot; if he does not read a sheet it is because it is not in front of him or he has no need. (3) **Lira's asking:** she asked Oryn once about the ankle on the mountain in Book 7 and asked nobody for anything from then until Thornwater; do not call Thornwater her first ask since Norhold. (4) **The stroke and bar** is on stake thirty-two (the Stair's newer stake and the kit's unused one) and on the fourth site's thirty-four ONLY; stakes thirty-one and thirty-three do not carry it. Later records may show the grade on survey SHEETS; the field stakes do not all carry it. (5) **The cord:** the kit's cord is twenty strides, knotted at the fives (four knots to a length); Book 7's Ring was sixty-two cords and twenty strides round. The court is about 1,107 yards across, which is about FIFTY cords, not 159. Give no yardage for a cord. (6) **"West"** was first said aloud at the six-person table on the 268th (Karis's protected "It's west… Treswick…" speech, printed once in ch6). (7) **Deployment since the Line is twenty-nine** at the end of Movement 1 (two uses of the Iron read in earnest); trials are not counted.
+
 > **[Coordinator note 2026-10-11 — NO-SOURCE drafting, binding.]** Draft WITHOUT opening any source chapter under `books/`. The source-chapter references in the line below are retained for the coordinator's and reviewers' tools only; the author does not read them. Events come from this packet, `BOOK_MAP.md` (the plan sections, the protected-text section and the reserved-truths section) and `STATE_LEDGER.md`. Write `EVENT-LIST.md` first. Where a protected unit is quoted in the plan only in part, leave `[[TIER-B: <unit> — coordinator to supply protected text]]` and write around it. [B7-reconciled 2026-10-11: amendment 1]
 
 - Read before drafting:
@@ -29,7 +31,7 @@ Consequential turns and promises:
   - The Stair's bowl: Karis spends an hour at the rim checking a number she already has.
   - **The cairn at noon on the 300th:** Oryn looks once, straight, and walks on east.
   - The Hall's marsh, where Cael read himself twice earlier at the Hall. [B7-reconciled 2026-10-11: amendment 26]
-  - **Two dry camps, and water at the seep (~3,000 set piece).** Shale-backs stand on the slope by the only water. Teague's field reading leads. The young one moves too fast and the tall woman stops him with a hand, wordlessly.
+  - **Two dry camps, and water at the seep (~3,000 set piece).** Shale-backs stand on the slope by the only water. Teague's field reading leads. The young one moves too fast and the tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] stops him with a hand, wordlessly.
   - "Known" is entered under each date. The crest at dusk on the 303rd.
 - **The crest.** The watch-post: hut, fire, kit under a hide, two timbers, seven hoods, two crossbows, one low practitioner. "They knew." Seln: "That iron's been in the ground years. Not one cold term." [B7-reconciled 2026-10-11: OWNER-pending #48] Teague: "Drawn?" Cael draws it. "Nobody declares. Nobody dies. They're seven people on a posting. Noted?" / Teague's **first "Noted."**
 - **The Span fight (304th; ~4,500, developed; BOOK_MAP §8).**
@@ -58,7 +60,7 @@ Consequential turns and promises:
 - Teague is **not told** Cael took his Force. The Force is not used, only lined dry. "First use" belongs to the pass.
 - The two pages stay separate in every head. Never use *terminal*, *circuit* or *infrastructure*. "Recent administration" means **the Compact**. Nobody reaches for "someone else".
 - The cairn is on the 300th. Count Oryn's days from it (§12 C3). No cutaway at the court.
-- The tall woman and the older healer still do not speak to the six. The broad man's first word to them is "Aye", on the 305th.
+- The tall man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59] and the older healer still do not speak to the six. The broad man's first word to them is "Aye", on the 305th.
 
 ## What the author owns
 

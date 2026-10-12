@@ -16,7 +16,7 @@ This is the book's entry state from the CLOSED Monroe 1.3 Book 7 manuscript, chi
 | Karis | Ember; **Iron Rank Three**. Voice whole. Fit at entry. [B7-reconciled 2026-10-11: amendment 13] |
 | Seln | Shadow; Bronze; fifteen years' service. Fit. Locked case carried shut for twelve years and unopened; the protected six-year line is not the case's age. [B7-reconciled 2026-10-11: amendment 13] |
 | Oryn | Tide; Iron R4 provisional. Last located at Thornwater, with route work north next; grey jenny and thirty-foot three-strand rope with her. [B7-reconciled 2026-10-11: amendment 13] |
-| Teague's crew | Staying through the cold term at Lowmarch's upper inn: Teague, tall spear woman, broad crossbow man, young one, older healer of no Path. All but Teague unnamed. [OWNER-pending #54] [B7-reconciled 2026-10-11: amendment 13] |
+| Teague's crew | Staying through the cold term at Lowmarch's upper inn: Teague, tall spear man [B7-reconciled 2026-10-11: M1 audit; OWNER-pending #59], broad crossbow man, young one, older healer of no Path. All but Teague unnamed. [OWNER-pending #54] [B7-reconciled 2026-10-11: amendment 13] |
 | Vastin | Last prose position: inside a registry office, returning the Fallow completion report to its folder unannotated. No numeric age; `forty years` is career length only. [B7-reconciled 2026-10-11: amendment 13] |
 | Pike | Lowmarch board-keeper; one arm; lower inn board room. [B7-reconciled 2026-10-11: amendment 13] |
 | Hesk | At Denvash. His brass straightedge and note reached Cael on the last ferry. [B7-reconciled 2026-10-11: amendment 13] |

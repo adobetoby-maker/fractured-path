@@ -6,11 +6,11 @@ Karis drove her hazel peg into the inn yard at noon on the hundred and sixty-eig
 
 She had chosen her ground with care. The peg stood against the left-hand post of Pike's plank, under the eave. At the yard's far side, by the gate, there was a stone trough with a scratch cut in its foot that morning with her knife. The snow between had been trodden as hard as a floor by a cold term of boots.
 
-She showed them how it was done, and she was a long time about it, since she had never before had anybody to show. The brass eye went over the peg. The cord was run out to its last knot, which was the fifth, and drawn until it had left the snow along the whole of its length and no tighter. A pebble was set down at the end. Then the peg was lifted, and carried to the pebble, and driven there, and the cord was run out again.
+She showed them how it was done, and she was a long time about it, since she had never before had anybody to show. The brass eye went over the peg. The cord was run out to its last knot, which was the fourth, and drawn until it had left the snow along the whole of its length and no tighter. A pebble was set down at the end. Then the peg was lifted, and carried to the pebble, and driven there, and the cord was run out again.
 
-"He has knotted it at the fives, which is five strides of his own. Five knots is a length. So a person counts lengths, and then knots, and then whatever strides are left over, by this." She held up a slip of ash with a notch at each end, a stride long by the dead man's reckoning. "It is not clever. It only wants doing the same way every time."
+"He has knotted it at the fives, which is five strides of his own. Four knots is a length. So a person counts lengths, and then knots, and then whatever strides are left over, by this." She held up a slip of ash with a notch at each end, a stride long by the dead man's reckoning. "It is not clever. It only wants doing the same way every time."
 
-She did it herself, and the yard came to one length and three knots and two strides.
+She did it herself, and the yard came to one length and four knots and two strides.
 
 "Forty-two," said Brom, who had been adding.
 
@@ -22,7 +22,7 @@ Lira could not drive a peg, and Seln drove it for her. She ran the cord out with
 
 He took the eye off the peg and went back to the plank.
 
-He had watched four of them do it, and he did it as they had: he ran the cord out, and drew it until it left the snow, and set his pebble, and moved the peg, and ran it out again, and counted three knots along from there. Then he took the slip of ash and laid it down from the third knot toward the trough, once, and went to lay it a second time.
+He had watched four of them do it, and he did it as they had: he ran the cord out, and drew it until it left the snow, and set his pebble, and moved the peg, and ran it out again, and counted four knots along from there. Then he took the slip of ash and laid it down from the fourth knot toward the trough, once, and went to lay it a second time.
 
 It would not go. The scratch on the stone was under the middle of the slip.
 
@@ -44,7 +44,7 @@ Brom drew it with the whole of his left arm and his back, until the hemp creaked
 
 "Then it is not the drawing," she said, to herself. "A third time, Cael. Slowly. I shall set your pebbles for you."
 
-She set them. She drove the peg herself. He did no more than run the cord out and hold its end; and when the slip of ash had been laid down once from the third knot, there was room for only half of it again before the line cut in the stone.
+She set them. She drove the peg herself. He did no more than run the cord out and hold its end; and when the slip of ash had been laid down once from the fourth knot, there was room for only half of it again before the line cut in the stone.
 
 She took the cord out of his hand. Without moving the peg she drew the last length herself, and laid the slip, and laid it again; and the second time its notch came down upon the scratch as a key comes into a lock.
 
@@ -104,7 +104,7 @@ She had the hair between her finger and thumb, and she was looking at it as she 
 
 She said it again then, to the table.
 
-[[TIER-B: Karis's ruler sentence, said the second time and not as a rule — the plan gives the first saying only; coordinator to supply protected text]]
+"A measurement is a fact about a ruler," Karis said, "not about the hand that held it."
 
 Nobody answered her. She shut the notebook on the hair, and put the two edges back into their cloths, each in its own, and would not be spoken to for the rest of that day.
 

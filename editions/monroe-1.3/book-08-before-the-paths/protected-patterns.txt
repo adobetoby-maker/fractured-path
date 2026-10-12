@@ -1,2 +1,6 @@
 # Book 8 protected patterns (regex lines; apostrophes as .?) — BOOK_MAP protected units and packet lines kept whole
 # Patterns are added by the coordinator after each movement, verified against the plan or restored by the Sol audit.
+# M1 — Tier B units restored whole by the Sol plan audit — plan-quoted lines (kept whole)
+a measurement is a fact about a ruler karis said not about the hand that held it
+# M1 — Karis's protected "It's west…" speech at the 268th table, restored whole by the Sol plan audit (ch6)
+it.?s west she said treswick the last compact city on the line there.?s a registry office on the old town and under the old town there.?s an archive that was there before the compact was the deepstacks the scholars call it when they call it anything records nobody converted because nobody was ordered to and nobody needed to whatever these are her hand on the oilcloth if there.?s a word for them anywhere on the continent it.?s in a book under that registry that nobody has opened since before there was a registry to open it and there.?s a provision the old scholars provision it lets a registered historical studies practitioner in i.?m not one out here there.?s a man there who is

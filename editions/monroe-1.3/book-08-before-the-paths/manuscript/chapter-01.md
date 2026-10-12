@@ -216,7 +216,7 @@ He opened the ledger at their heading and laid his stone on the leaf.
 
 "Meadow rate is four a month for a crew that's on my sheet," said Pike.
 
-[[TIER-B: "Eleventh" — the one-word line that follows Pike's rate in the cold-stay pricing; its speaker is not pinned by the plan; coordinator to supply protected text]]
+The keeper said, "Pike," and Pike said, "Eleventh."
 
 "What's it buy?" said Brom.
 
