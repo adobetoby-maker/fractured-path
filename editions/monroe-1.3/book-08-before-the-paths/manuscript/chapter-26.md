@@ -78,6 +78,12 @@ She swung the box off the parapet, and got her arms through the beckets, the rig
 
 "It's worth the look," she said. "I've looked."
 
+"Four hands," she said.
+
+"Four."
+
+"Right."
+
 Karis had turned to her, with the flat under one arm. She did not say anything, since she never did when a thing was finished. She only moved aside, so that the girl with the box should go first into what lay beyond the parapet.
 
 It was the cut.
@@ -214,7 +220,7 @@ He wrote for some time. He looked at the boxes, and counted them with his eyes, 
 
 He wrote *four*.
 
-[[TIER-B: "Four hands," / "Four." / "Right." — coordinator to supply protected text]]
+
 
 He blotted the line. He did not turn the book round for anybody to sign, since there was no place in it where a hand could have signed. He stepped back from the sill, and stood aside, with the green cloth shut against his chest.
 

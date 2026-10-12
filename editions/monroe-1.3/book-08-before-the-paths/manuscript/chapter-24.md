@@ -74,7 +74,11 @@ Cael had watched a great many people read. He had watched registrars do it, and 
 
 It took him no longer than it takes to swallow. He laid the spoon down.
 
-[[TIER-B: "Off floors," / "Fifty-two sheets." — coordinator to supply protected text]]
+"Off floors," Cleon said.
+
+"Fused. Grey. No join. Three of them. I copied every mark on all three. Fifty-two sheets," Karis said.
+
+"Fifty-two sheets," Cleon said.
 
 The eyes had gone back to the sheet. One square pale finger came out, and did not touch it; it moved along above a row of her drawing, an inch off the paper, and stopped.
 
@@ -160,7 +164,7 @@ Karis took the card, and held it by its edges.
 
 "That," said Karis, "I can do. I have had a good deal of practice."
 
-"One lamp below. Mine. Whoever holds it, holds it where I tell them. No other light, and no other fire of anybody's, however it's made." He looked at her hands on the roll, briefly, and Cael could not tell what he saw there. "There's paper under that town that's waited longer than the town has for somebody to drop a spark on it. It's not going to be one of yours."
+"One lamp goes down with you. Mine. Whoever holds it, holds it where I tell them. No other carried light, and no other fire of anybody's, however it's made." He looked at her hands on the roll, briefly, and Cael could not tell what he saw there. "There's paper under that town that's waited longer than the town has for somebody to drop a spark on it. It's not going to be one of yours."
 
 "No."
 

@@ -272,7 +272,13 @@ The word was strange to Cael. He had stood on floors against a good many Paths, 
 
 "The fourth is what the form asks, when matter is brought." He drew his hands into his sleeves. "It was drawn a long while ago, when a scholar's bundles came with whoever happened to be carrying them, and nobody thought such people worth a line apiece. So it has a line for the matter, which is described. It has a line for the matter's bearer, who is one. And it has a line for hands."
 
-[[TIER-B: "Four hands." / "I've two." "Entered by count. That's the door." — coordinator to supply protected text]]
+Karis said, "Four hands."
+
+"Four," Seln said. "By count."
+
+Lira said, to nobody, "Four hands," and then, "I've two."
+
+Cael wrote: *Entered by count. That's the door.*
 
 Nobody spoke at once. Below them a horse blew through its nose, and stamped.
 
@@ -308,4 +314,10 @@ Karis laid her pencil down on the flat. Her hand was not quite steady.
 
 Brom turned the lantern low. The blanket hung over the gable, with a faint paleness round its edges that did not flicker; and Cael lay on his back, with his eyes on the slates a yard above him, and spoke to them.
 
-[[TIER-B: the S8 close — "Last time we walked into a place like this," … "it took four years and a hearing to walk out." / "Last time we didn't know what we were looking for." / "Do we now?" / "A name and a reason," … "Older than the walls, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." … "That's us. That's the whole reason it's still buried. We're the first ones who are both." — coordinator to supply protected text]]
+"Last time we walked into a place like this," Cael said, "it took four years and a hearing to walk out."
+
+"Last time we didn't know what we were looking for," Karis said.
+
+"Do we now?"
+
+"A name and a reason," Karis said. "Older than the walls, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." She drew breath. "That's us. That's the whole reason it's still buried. We're the first ones who are both."

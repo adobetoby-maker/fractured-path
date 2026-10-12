@@ -114,7 +114,7 @@ Cael did not answer. He had sat across a counter at fourteen while a woman with 
 
 "Four feet. I measured it, as I measure everything." His voice had not altered at all, and it was that which made it hard to listen to. "I brought to those three days whatever forty years had given me: I have stood on eleven fields, and made something over nine thousand evaluations, and I can tell a man's rank from the way that he takes a stair, before he has reached the head of it. At the end of the third day I went down your hill with nothing whatever. The plate had lain as flat as a dish; every question had been answered, civilly, and I believe that every answer was true; and I could not have built one finding upon the whole of them. I had never in my life come away from a person without a figure."
 
-[[TIER-B: "You were the instrument," … "I was the error." — coordinator to supply protected text]]
+"You were the instrument," Cael said. "I was the error."
 
 Nothing was said for a while after that. A cart went by on the road at their backs, late for the gate and hurrying, and its lantern threw the shadow of the post out across the ditch and drew it in again.
 

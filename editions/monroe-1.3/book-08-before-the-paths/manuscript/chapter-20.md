@@ -164,7 +164,7 @@ There was the held note, thin and steady, like a nail that has been driven and h
 
 Higher than that, in his right arm, a wet finger went round the rim of a glass. Blade would put an edge on steel for as long as a struck match burns, and it was the steel that paid.
 
-The ninth he knew by what was missing. By day Shadow lay shut under its seal, and it made no sound whatever; he could tell where it was only as a person tells where a rug lies in a dark room, because the floor does not ring there. It would lift at dusk, as it lifted every dusk. He would tell it no.
+Shadow he knew by what was missing. By day Shadow lay shut under its seal, and it made no sound whatever; he could tell where it was only as a person tells where a rug lies in a dark room, because the floor does not ring there. It would lift at dusk, as it lifted every dusk. He would tell it no.
 
 Under everything lay Storm, the heaviest, a sea turning over a long way off, so low that he had it in his teeth before he had it in his ears. It was laid a lane at a time, and every lane came with its own bill.
 
@@ -194,7 +194,7 @@ Every line of it was about a thing that moved. It told him where the Wind leaned
 
 The going-along felt current, and it had never done anything else. It had been a healer's means of telling how the rivers ran in a body, quick or slow or choked, and it knew a river only by going along with it. Set it where nothing ran, and it did not come back and say *empty*. It did not come back and say *full*, either. It had nothing to go along with, and so it said nothing at all; and for the better part of a year he had been writing that nothing down in pencil, with the day at its head, as though it had been an answer.
 
-It was a cord on a stone. A man might run a cord round a boulder in a field, and knot it, and carry the knot home with him, and know to the width of a finger how far it was about; and he would know no more of what lay inside the boulder than he had known at breakfast.
+He had been putting a cord on a stone and writing down *no length*. A man might run a cord round a boulder in a field, and knot it, and carry the knot home with him, and know to the width of a finger how far it was about; and he would know no more of what lay inside the boulder than he had known at breakfast.
 
 He took his fingers from his wrist, and put his right hand down to push himself up.
 
