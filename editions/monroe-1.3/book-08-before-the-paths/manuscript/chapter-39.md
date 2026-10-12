@@ -178,7 +178,9 @@ He asked nothing. He never did, in a street. He walked at the cart's tail with h
 
 It took two lines.
 
-[[TIER-B: "Made." "For a kind." — the packet gives these two lines as how Seln is told on the street ("Seln is told on the street ('Made.' 'For a kind.')") and pins neither speaker; staged on the carts' street at dusk, between the bar and the lane, with Seln walking at the handcart's tail as a hired porter and Cael pushing beside him; nothing of the leaf's wording is said. The lines before and after are written so that either of the two could own either line; coordinator to supply protected text]]
+"Made," said Seln.
+
+"For a kind."
 
 Seln walked ten paces on that.
 

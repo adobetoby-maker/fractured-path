@@ -17,7 +17,7 @@ for P in $BOOK/packets/MOVEMENT-0*.md; do
   g=$(cd /Users/drive/fractured-path-monroe13 && bash editions/monroe-1.3/tools/ed.sh gates $BN $m | awk '{s+=substr($3,17)+substr($4,10)+substr($5,8)} END{print s+0}')
   if [ "${o:-1}" != "0" ] || [ "$g" != "0" ]; then echo "ABORT: $BN movement $m has overlap=$o gates=$g — nothing published"; exit 2; fi
 done
-if grep -l "\[\[TIER-B" $(for c in $(seq 1 $N); do printf "$BOOK/manuscript/chapter-%02d.md " $c; done) 2>/dev/null | grep -q .; then echo "ABORT: TIER-B marker present — nothing published"; exit 2; fi
+if grep -l -e "\[\[TIER-B" -e "{{JOIN}}" $(for c in $(seq 1 $N); do printf "$BOOK/manuscript/chapter-%02d.md " $c; done) 2>/dev/null | grep -q .; then echo "ABORT: TIER-B or {{JOIN}} marker present — nothing published"; exit 2; fi
 cd $APP && git fetch -q origin && git worktree add -q --detach "$W" origin/main 2>&1 | grep -v "pointers\|public/audio" || true
 (cd $ED && PWA_APP="$W" python3 tools/pwa_publish.py $K $N "$@") | tail -1
 cd "$W" && ln -s $APP/node_modules node_modules

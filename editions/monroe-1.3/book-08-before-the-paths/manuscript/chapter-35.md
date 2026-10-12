@@ -12,7 +12,7 @@ He looked from its foot. Cael had moved the flame before the grey head moved, an
 
 He spoke while he looked. That was new as well. He had always looked first, and said afterward what the looking had found, in as few words as would carry it.
 
-[[TIER-B: Cleon: "A record sits … An instruction *leans* … This is a stair." — the plan quotes this speech in three pieces with elisions (packet, "The reader (291st)"; BOOK_MAP §10 Tier C S13 gives the second and third pieces); staged as Cleon's, said to Karis while his eyes go between the open tally-book (a record of loads) and the Stair's ninth sheet laid beside it foot to foot, with Cael on one knee a hand to the left holding the lamp; coordinator to supply protected text]]
+"A record," Cleon said, "sits." {{JOIN}} "An instruction *leans*." {{JOIN}} "This is a stair."
 
 Nobody in the gallery moved.
 
@@ -30,7 +30,7 @@ The finger began at the low left corner, and went up, a row at a time, and acros
 
 Cael had the light there before it, and did not have to think of where. He had been looking where that man looked for six days together, a hand to the left of him, and had taken it for a groom's knowledge of a horse. The finger came to the fifth row, and went along the signs, the white and the three black and the red, without touching one of them, and slowed as it went.
 
-[[TIER-B: "there" — the packet names this as the word at which the twelfth arrives ("the acquisition at 'there'") and gives neither its sentence nor its speaker; staged as the next thing said over the Stair's ninth sheet, at the moment when Cleon's finger comes to rest above the end of the fifth row. The paragraphs after this line are written so that Cleon or Karis could own the word. If the word falls inside Cleon's speech above, strike this marker and let Karis's "The strata lean too." follow the acquisition; coordinator to supply protected text]]
+"There," Cleon said.
 
 It came at that word.
 
@@ -214,7 +214,7 @@ The plank went back against the table's edge. He set it there with both hands, s
 
 His voice had risen. Cael had not heard it rise in eight days, for a dray or a cut hand or a lamp that moved; and it had gone up now like a clerk's who has turned a leaf and found a figure where no figure can be.
 
-[[TIER-B: "No," … "No. I'll not say that one. Not down here. Not to you." — the plan quotes this unit with an elision (BOOK_MAP §10 Tier C S13; the packet gives "No. I'll not say that one."); staged as Cleon's, breaking off his own sentence at the board, with his back still to Cael; coordinator to supply protected text]]
+"No," Cleon said, to himself. "No. I'll not say that one. Not down here. Not to you."
 
 Cael did not ask him for the word.
 
@@ -226,7 +226,7 @@ He did not say what it was for; it was water, and it was the first thing that he
 
 Cael drank the half of it. He had not known that his mouth was dry.
 
-[[TIER-B: Cleon's warning (BOOK_MAP §10 Tier A 10): "I'm going to pretend you didn't tell me that," he said, "for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute." … "Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — " He stopped. "Don't tell me. Don't tell anyone. Just remember I said it." — the plan gives the unit with an elision between its halves; staged as Cleon's, said at the third table after he has set the cup of water down, to the board and not to Cael's face; coordinator to supply protected text]]
+"I'm going to pretend you didn't tell me that," he said, "for your sake, not mine. But I'll tell you one thing for free, since you can apparently take my whole trade by watching me work it for a minute." {{JOIN}} "Everything I read is *made*. Stone, ink, seal — somebody built it, so I can see how. If that fragment ever reads something for you that shouldn't be *made* and reads it anyway — " {{JOIN}} "Don't tell me. Don't tell anyone. Just remember I said it."
 
 He went back to the carving.
 

@@ -98,7 +98,7 @@ It went to the strap that crossed the breast of his coat, and rested there, in t
 
 "I came into this town carrying a thing that I had not decided," said Seln. "I looked at it from a roof. I looked at three doors, and at a shelf with no ticket on it, and I ruled nothing. I had supposed that it was the largest thing that I should ever be asked to hold." He looked down at the folded page. "I find that it is not."
 
-[[TIER-B: Seln: "… a while longer" — the packet gives only this phrase ("Seln will keep the cache 'a while longer'"); staged as Seln's one sentence at the yard fire about the case on his chest, said with his left hand on its strap and Karis's copy folded in his right, after he has read the page standing. Nothing of the case's contents is named in the lines before or after (this edition calls it "the case", never the cache); coordinator to supply protected text]]
+{{JOIN}} "I'll keep it a while longer."
 
 He put his hand back into its sleeve, and held the page out across the fire.
 
@@ -132,7 +132,7 @@ He had held it since the pot came, and had not once lifted it. He put it on the 
 
 Cael knew that he was going to speak. He knew something else, a breath later, from the way that the old shoulders hung. Whatever was coming had not been set in order, and there were no heads to it. The man had the look of somebody about to read out a paper that he had not been let to see beforehand.
 
-[[TIER-B: Vastin at the fire (BOOK_MAP §10 Tier A 18): "I believed it was imperfect." … "Now you're telling me it was *aimed*." … "At a category. Which turned out to be a person. Who's sitting across the fire." — the plan gives this speech in three pieces with elisions; staged as Vastin's, said into the fire from the mounting block with both hands on his stick, after Lira, Brom, Seln and Karis have each had their turn and Cleon has spoken; Cael is standing against the stable wall on the far side of the basket; coordinator to supply protected text]]
+"I believed it was imperfect." {{JOIN}} "Now you're telling me it was *aimed*." {{JOIN}} "At a category. Which turned out to be a person. Who's sitting across the fire."
 
 Nobody moved.
 
@@ -146,7 +146,7 @@ It was Lira who answered. She had been waiting, with her hand flat on her knee, 
 
 "His?"
 
-[[TIER-B: Vastin: "No. I read it, after. I did not sign it." … "I would have." — the plan gives this answer with an elision (BOOK_MAP §10 Tier A 18); staged as Vastin's reply to Lira's "His?", said across the fire from the mounting block; coordinator to supply protected text]]
+"No. I read it, after. I did not sign it." {{JOIN}} "I would have."
 
 "Yes," Lira said. "You would have."
 
@@ -184,7 +184,7 @@ So he set it down in the only other place there was.
 
 He came away from the stable wall, and went the three paces to the basket, into the light, and stood there on both heels with his hands at his sides. He was not going to say it sitting; he did not know why that mattered, and it did.
 
-[[TIER-B: Pole two, Cael's sentence (BOOK_MAP §10 Tier A 17): "Since my Kindling I thought the system forgot to make room for me," … "It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen." … "I happened anyway." — the plan gives this speech in three pieces with elisions; staged as Cael's, said aloud on his feet at the fire-basket in the inn's yard, to all of them and to nobody in particular, with Hesk's book left in his coat; he does not write it down afterward; coordinator to supply protected text]]
+"Since my Kindling I thought the system forgot to make room for me," he said. "It didn't forget. It was *built* so there'd be no room. Four hundred years of a whole world, so that I wouldn't happen." {{JOIN}} "I happened anyway."
 
 The fire ticked.
 
@@ -196,7 +196,7 @@ He was only standing; it was a yard, with a pump in it. There were six people ro
 
 It had not got lighter for being said. He found that he could carry it standing up, which he had not been sure of in a gallery.
 
-[[TIER-B: Pole two, Lira (BOOK_MAP §10 Tier A 17): "Yeah." … "Now what." — the plan gives her two lines with an elision between them; staged as Lira's, from her bucket, the first thing said by anybody after Cael's sentence; coordinator to supply protected text]]
+"Yeah." {{JOIN}} "Now what."
 
 He looked at her.
 
@@ -204,7 +204,7 @@ She had asked it as she had called a count at the head of a cut. It was not kind
 
 He had an answer, and he had not known that he had, until she wanted one.
 
-[[TIER-B: Pole two, Cael's answer (BOOK_MAP §10 Tier A 17): "Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine." … "I want to stand in the middle of it." — the plan gives this speech with an elision before its last sentence; staged as Cael's, standing at the fire-basket, in answer to Lira's "Now what."; coordinator to supply protected text]]
+"Now we find out how old the oldest one is. Karis has a bearing and the marks, and the records to read them against. There's a site at the end of the line that's been quiet since they built the machine." {{JOIN}} "I want to stand in the middle of it."
 
 "That's east," said Brom.
 

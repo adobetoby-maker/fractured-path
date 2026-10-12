@@ -98,7 +98,9 @@ She was silent a moment.
 
 She set one gloved finger in the air above the first line, an inch off the skin, as a man had taught her.
 
-[[TIER-B: The leaf (BOOK_MAP §10 Tier A 1), read aloud once by Karis: "In the years of the unmaking, when the un-bound walked in the land and no wall stood against them and no law held, and the cities of the east were emptied and the cities of the west were emptied and the rivers ran wrong" … "there came one who saw the shape of it, and set himself to the ordering. And he made the measure, and the seat, and the tier, and the mark that is given at the kindling, that each should know what he is and none should be what he is not. And he set the apparatus over all the land, and the land was ordered, and the un-bound came no more." / "And the" [the scraped name: four or five letters' width, the first upright stroke showing] "— set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it. And this is the reason of the apparatus, and this is all of its reason, and let none who come after forget it, though the un-bound be forgotten: that they should not come again." — the plan gives the unit with an elision in its first sentence and a bracketed place for the scraped name; staged as Karis's one reading, standing at Cleon's desk under the fixed lamp, her finger an inch above the skin, with Cleon two paces back with his eyes shut, Cael at the desk's left side and Vastin on a box six strides off; the object (horn-coloured, point-written, the scraped place with its one upright stroke) is described before this line and is not described again; coordinator to supply protected text]]
+"*In the years of the unmaking, when the un-bound walked in the land and no wall stood against them and no law held, and the cities of the east were emptied and the cities of the west were emptied and the rivers ran wrong* {{JOIN}} *there came one who saw the shape of it, and set himself to the ordering. And he made the measure, and the seat, and the tier, and the mark that is given at the kindling, that each should know what he is and none should be what he is not. And he set the apparatus over all the land, and the land was ordered, and the un-bound came no more.*"
+
+"*And the* — " {{JOIN}} "*— set the apparatus over all the land, that the un-bound should not come again, who had near unmade the world before the ordering of it. And this is the reason of the apparatus, and this is all of its reason, and let none who come after forget it, though the un-bound be forgotten: that they should not come again.*"
 
 Her finger had come to the foot of the first face.
 
@@ -130,7 +132,7 @@ The butt of her pencil went to the head of the skin, and then to the sheet.
 
 It was the first time that Cael had heard it spoken. He had seen it written, in fresh ink, on a table at Lowmarch; and his hand had lain a hand's width from it for the whole of a lamp.
 
-[[TIER-B: Karis: "a title, not a name; the name's gone" — BOOK_MAP §9 gives this fragment of Karis's single paraphrase and not its sentence; staged as her next words at the desk, with the pencil's butt on the word at the leaf's head and then on the scraped place; coordinator to supply protected text]]
+"It's a title, not a name; the name's gone."
 
 "It gives its own year, at the head," she said. "It is in the count that the old town's books keep, and I have had twelve of those open for a week. By that count this was written about four hundred years ago. I should want a day with the tallies to say it nearer, and I am not going to be given the day."
 
@@ -142,7 +144,7 @@ She folded the oilcloth over the sheet.
 
 "That is my whole account. I have read no more than the first face, and I have said no more than is on it."
 
-[[TIER-B: *Older. Made. Us.* — BOOK_MAP §10 Tier A 3 heads this "Karis's copy and finding" and prints it after the copy; the packet sets it directly after her single paraphrase and before Cael's catalogue of the room, and pins no speaker or writer; placed here, by the packet's order. The lines before and after are written so that Karis (said, or written at the foot of her notebook's leaf) or Cael (his own reduction) could own it; coordinator to supply protected text]]
+"Older," she said. "Made. Us."
 
 It was three words. Cael counted them, as he counted anything, and found that he could go no further along that road than the count.
 
@@ -196,7 +198,7 @@ It was the stick that broke the quiet.
 
 It came down upon the rock, once, six strides away. The old man had sat through a reading and an account with his hands shut upon it, and his face turned to a bay of bundles; and whatever he had been holding off had got past him. He spoke to the shelves, low, and with care, as he had once begun to draft an order at a spring.
 
-[[TIER-B: Vastin: "… the mark that is given at the kindling —" — the packet gives only the stopped end of his sentence ("Vastin reaches ('the mark that is given at the kindling —')") and BOOK_MAP §9 says that his sentence stops in the chamber; staged as said from Brom's box by the nearest bay, six strides from the desk, to the shelves and not to any person, and broken off by Karis's next line; coordinator to supply protected text]]
+"The apparatus," he said. "The measure, the seat, the tier, the mark. He made it and he set it over the land. And the mark that is given at the kindling — "
 
 "Two pages," said Karis.
 

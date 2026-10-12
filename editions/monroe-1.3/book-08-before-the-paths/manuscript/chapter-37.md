@@ -198,7 +198,7 @@ He had looked at them a good deal, through the goose and the pie, as he looked a
 
 "That's so," said Brom.
 
-[[TIER-B: "Out here you count who's owed a seat," … "It's a different ledger." — the plan quotes this unit with an elision (BOOK_MAP §10 Tier C, S14) and does not pin its speaker (the packet has only "Vastin and the cups"); staged at the long table of the inn's lower room, after Vastin has remarked on the two cups kept under saucers for Karis and Oryn and Brom has said "That's so". The lines before and after are written so that either Vastin (as a thing he has worked out) or Brom (as his answer) could own it; coordinator to supply protected text]]
+"Out here you count who's owed a seat," Cael said. "It's a different ledger."
 
 Nobody added to that. The old man turned his own cup a quarter round upon the board, and looked into it; and Brom reached over with the jug, since he could reach, and filled it.
 
@@ -248,7 +248,7 @@ It did not go out; it thickened, and thinned, as a lamp's flame does when a hand
 
 He sat quite still, with the pencil off the leaf.
 
-There was a weight on him. He knew it, and he would have given a good deal not to. He had stood in a chalk ring once, in a room with no window, and had felt a thing at the edge of his sight attend to him for eleven seconds while a plate stayed dark. This was fainter than that, and it came from farther off. But it was of the same kind. It was the particular weight of an instrument turning toward him.
+There was a weight on him. He knew it, and he would have given a good deal not to. It was the particular weight of an instrument turning toward him.
 
 He made himself go on from there, since that was the place where a person stops thinking and begins to be afraid.
 
