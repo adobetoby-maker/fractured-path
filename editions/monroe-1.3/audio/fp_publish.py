@@ -13,7 +13,20 @@ from pathlib import Path
 REPO = Path("/Users/drive/fractured-path")
 RUN = Path("/Users/drive/.local/share/monroe-tts/fractured-directors-run")
 ED = Path(__file__).resolve().parents[1]
-BOOKS = {"book-01-the-shattered": ("fractured-path-monroe-1.3-book-01", "The Shattered (Monroe 1.3 edition)", 60)}
+BOOKS = {
+    "book-01-the-shattered": (
+        "fractured-path-monroe-1.3-book-01",
+        "The Shattered (Monroe 1.3 edition)",
+        60,
+        "book-01",
+    ),
+    "book-03-no-path-given": (
+        "fractured-path-monroe-1.3-book-03",
+        "No Path Given (Monroe 1.3 edition)",
+        61,
+        "book-03",
+    ),
+}
 
 
 def git(*a, check=True):
@@ -22,7 +35,7 @@ def git(*a, check=True):
 
 def main():
     book, n = sys.argv[1], int(sys.argv[2])
-    eid, etitle, total = BOOKS[book]
+    eid, etitle, total, manuscript_book = BOOKS[book]
     d = RUN / f"{book}-ch{n:02d}"
     wav = d / f"{d.name}.breeze-directed.wav"
     src = (ED / book / "manuscript" / f"chapter-{n:02d}.md").read_bytes()
@@ -59,7 +72,8 @@ def main():
         ch = next((c for c in b["chapters"] if c["number"] == n), None)
         if ch is None:
             ch = {"number": n, "title": title,
-                  "manuscript": f"books/fractured-path-monroe-1.3/book-01/manuscript/chapter-{n:02d}.md", "renders": []}
+                  "manuscript": f"books/fractured-path-monroe-1.3/{manuscript_book}/manuscript/chapter-{n:02d}.md",
+                  "renders": []}
             b["chapters"].append(ch); b["chapters"].sort(key=lambda c: c["number"])
         ch["title"] = title
         ch["renders"] = [render] + [
