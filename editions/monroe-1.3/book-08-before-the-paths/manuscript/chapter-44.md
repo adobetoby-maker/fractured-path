@@ -72,7 +72,7 @@ The old woman had not looked up from her board, where she was cutting linen into
 
 The boy came with the cloth.
 
-There was no frost to speak of; the thaw was three weeks old, and the joint had not talked since the board came off. He brought it all the same, wrung out of the kettle, on his two palms, as he had on every night since he joined. Teague held out the arm; he had tried to tell him once that it was not wanted, and had seen the boy's face, and had let it be wanted.
+There was no frost to speak of; the ice had been gone more than four weeks, and the joint had not talked since the board came off. He brought it all the same, wrung out of the kettle, on his two palms, as he had on every night since he joined. Teague held out the arm; he had tried to tell him once that it was not wanted, and had seen the boy's face, and had let it be wanted.
 
 "Ten," the boy said. He had been listening on the stair, as he listened to everything. "You said ten, to him. Their six, and us."
 
@@ -162,9 +162,13 @@ Teague came down between the benches while the ink was wet.
 
 He did not hurry; he stopped a stride from the bench's end, with his thumbs in his belt over the hand-axe, as he had stopped at that hearth on a night of snow; and the room, which had begun to talk, left off again.
 
-"I said after the thaw. It's three weeks gone. I said whatever's on that bearing, and I've just heard him write the word." His eyes went along them, and they did not stop at five; they went on to the door-post, where a stick was grounded. "I'll say it here, where it's heard."
+"I said after the thaw. It's a month gone. I said whatever's on that bearing, and I've just heard him write the word." His eyes went along them, and they did not stop at five; they went on to the door-post, where a stick was grounded. "I'll say it here, where it's heard."
 
-[[TIER-B: "Ten of us on a wall's count. Your six and my four." … "Contract. Not more than that. I'll not have it called more." — elided between its two parts; the plan pins the term on Teague and gives the heads (ten on a wall's count; shares by count; the field Teague's; the reading Karis's) without their wording. Staged as Teague's, said to Cael at the bench's end before the whole room, with his eyes having just gone to Vastin at the door-post. The four heads follow below in my own words, as his, so that the restored unit may stand before them or round them — coordinator to supply protected text]]
+Teague said, "Ten of us on a wall's count. Your six and my four."
+
+{{JOIN}}
+
+Teague said, "Contract. Not more than that. I'll not have it called more."
 
 Cael heard the count before he heard anything else, and so did the room.
 
@@ -192,7 +196,7 @@ He priced it, as he had been taught to price a thing by a big man who would not 
 
 "And him?" said Brom. He had not looked toward the door-post. "You've built your count on a thing that you've never seen stand."
 
-[[TIER-B: "The wall's still the wall." — whole, but the plan pins no speaker. Staged as the answer to Teague's term, at the bench's end, with the talk having just come round to Vastin's wall. It could be Cael's (the contract does not make the wall the field's to place); it could be Teague's own (whatever the thing is called, a wall is what the count is built on); it could be Vastin's, from the door-post. The lines after it are written to follow any of the three — coordinator to supply protected text]]
+Teague said, "The wall's still the wall."
 
 "There's a month on it," said Cael. "It's a healer's, and it's got twelve days to run. He stood one in the middle of it, against her word, for us, and it very nearly cost him the leg. Nobody stands it up before the month's out. Not for your field, and not for mine."
 
@@ -214,7 +218,7 @@ He wrote it at the hearth's end, when the room had thinned.
 
 The cart had gone down in the night.
 
-Cael saw it from the bench under the great ash as soon as there was light to see by, on the two hundred and ninety-eighth day, when the meadow was grey and forty fires were being blown up out of their ashes. It was a salt cart, with a pair of mules, and it had been drawn onto the grass at dusk by a carter who did not know how soft three weeks of thaw had left that corner. It stood now with its near wheels sunk to the axle. Half its sacks lay on the turf beside it. The carter had the mules out and was standing with his cap in his hand.
+Cael saw it from the bench under the great ash as soon as there was light to see by, on the two hundred and ninety-eighth day, when the meadow was grey and forty fires were being blown up out of their ashes. It was a salt cart, with a pair of mules, and it had been drawn onto the grass at dusk by a carter who did not know how soft the thaw had left that corner. It stood now with its near wheels sunk to the axle. Half its sacks lay on the turf beside it. The carter had the mules out and was standing with his cap in his hand.
 
 He was standing before Teague.
 
@@ -242,7 +246,7 @@ The cloth was round it before the arm had dropped.
 
 The carter had found his tongue, and was pointing down the meadow, to where a second cart stood canted in the same soft ground.
 
-[[TIER-B: "Don't put it in front of anything that needs doing twice." — whole, but the plan pins no speaker; it is listed under the contract with the word "Force". Staged in the meadow a breath after the one use, with the arm already in the young one's cloth, when the carter points to a second cart sunk twenty yards off: as Teague's answer, and loud enough to carry to the bench. Teague could own it (to the carter, or across the yard to Cael, who has watched); the lines that follow do not depend on which — coordinator to supply protected text]]
+Teague said, "Don't put it in front of anything that needs doing twice."
 
 Then the tall man and the bow went down the meadow with three iron bars and a baulk of timber, and the second cart was shifted as a carter would have shifted it, in the better part of an hour.
 

@@ -22,7 +22,7 @@ She put the butt of her pencil on the card.
 
 She had turned to the Stair's sheets. Her finger went to a group of signs on the nearest; and to the same group on the next, lower down; and to the third.
 
-"It stands four times on that floor, always behind a bearer. I uncovered it on my ninth day under the town, and it was not the word that I had wished for. It was only *set*, as a stone is set, or a stake."
+"It stands four times on that floor, always behind a sign that bears. I uncovered it on my ninth day under the town, and it was not the word that I had wished for. It was only *set*, as a stone is set, or a stake."
 
 Nobody spoke. Vastin had come to the door by then, on the stick, with the tarred case under his arm; he had stopped on the sill as a man stops who is not sure of a room.
 
@@ -40,7 +40,11 @@ A short stroke had been struck into the iron, and beneath the stroke a bar. The 
 
 "That is a thing which was made to be set in the ground," said Karis. "It has a mark on it, which I turned over for a hundred and eighty-three days, and called two copies of one ignorance. I had the word for it all the time. I had read it aloud, once, in another line, and it had not occurred to me that a hole in a moor and a child of fourteen could be given a thing out of the same drawer."
 
-[[TIER-B: "A mark is a grade. The one they give a boy at fourteen says what he's *for*." … "The one on a sheet says how *old* the thing is." — elided between its halves, and the plan pins no speaker (the packet says only that Cleon's list puts the kindling mark and the sheet mark in one line). Staged as Karis's, at the table, with stake thirty-two, the dead surveyor's first page and the Stair's abstract laid together under the window, to the six and Vastin. The first half can stand here. The second half ("how old") is earned on the page only in the next scene, by the running numbers; if the unit must stand whole in one place, it can be moved down to follow "Two hundred and six." without touching either scene — coordinator to supply protected text]]
+Karis said, "A mark is a grade. The one they give a boy at fourteen says what he's *for*."
+
+{{JOIN}}
+
+Karis said, "The one on a sheet says how *old* the thing is."
 
 Cael looked at the three marks, in iron and lead and ink.
 
@@ -72,7 +76,7 @@ She drew that in the right-hand box; and then she laid her pencil down on the le
 
 "It's tiers," said Lira. She had come to the table's corner, and she was looking at the three ruled squares as she had looked at three walls from a rise. "First, second, third. They've a ladder for holes in the ground."
 
-"It is three marks. Call them what you like; I must call them something, and I shall call them so." Karis took the pencil up. "But a grade grades something. The one that is given at a kindling grades a person, and there is a man in this room who signed for a good many." "This one is not for size, as I showed you at the spring; a place of twice the measure has the same bar. It is not for which is fenced. So I have gone through everything else in which one of these sheets differs from another."
+"It is three marks. Call them what you like; I must call them something, and I shall call them so." Karis took the pencil up. "But a grade grades something. The one that is given at a kindling grades a person, and there is a man in this room who signed for a good many. This one is not for size, as I showed you at the spring; a place of twice the measure has the same bar. It is not for which is fenced. So I have gone through everything else in which one of these sheets differs from another."
 
 She turned the Stair's newest sheet so that its foot lay toward them, and set her finger in the right-hand corner.
 
@@ -152,13 +156,13 @@ It stood on the bare deal, a hand's breadth beyond the calfskin's edge, hard aga
 
 Cael looked along the skin, from the left hand to the right. There were four rings, and a point that was not yet drawn, and a number against each: sixty-one, and ninety-four, and a hundred and thirty-eight, and two hundred and six. They rose as they went. Beyond the last of them, in a strip of shadow, stood something that the office had stopped counting.
 
-[[TIER-B: "Somebody laid them down in order" — a fragment (no stop given), and the plan pins no speaker. Staged at the table, with the four running numbers read along the hide from west to east and the divider's point standing past the fourth ring: the first thing said aloud once all five are in view. Brom could own it, pricing what he sees; so could Lira, or Cael; Karis could own it only as a thing that the paper shows. The next lines follow from any of them — coordinator to supply protected text]]
+"Somebody laid them down in order," said Karis.
 
 "Who?" said Lira.
 
 It was the question, which had been asked on a road once, of a pattern, and had not been answered. The old man at the table's end had drawn breath, and Cael saw the right hand leave the stick, and begin to rise.
 
-[[TIER-B: "It's observation. I'm telling you what the paper says. Not what it means." — whole, but the plan pins no speaker. Staged as Karis's, at the table, to Lira's "Who?" and to Vastin's drawn breath, with her bound hand flat on the sheet of three boxes. If it is another's (Cael's, said for her), the lines on either side still stand — coordinator to supply protected text]]
+Karis said, "It's observation. I'm telling you what the paper says. Not what it means."
 
 The hand came down upon the ash.
 
@@ -174,7 +178,11 @@ Lira had turned her head. So had Brom.
 
 The man in the door had not followed any of that; he had been looking at the hide the whole while, as he looked at a load.
 
-[[TIER-B: Teague: "Oldest last." … "Then that's where we're going." — elided between its two parts; the plan pins Teague. Staged in the doorway of the back room, with his eyes on the hide and the divider's point, to nobody in particular and then to Cael. Whatever stands between the two parts may be his or another's (a question from Cael, or Karis's assent); the scene ends on the second part — coordinator to supply protected text]]
+Teague said, "Oldest last."
+
+{{JOIN}}
+
+Teague said, "Then that's where we're going."
 
 ---
 
@@ -268,7 +276,9 @@ Cael watched him. He had heard that man answer every instruction that was ever p
 
 It shut again. The stick moved, and the leg after it, and the old man stood where he had been told, and said nothing whatever.
 
-[[TIER-B: "Nineteen days." / "Then it's eleven more." — the two lines are whole, but the plan pins neither speaker. Staged at the lean-to's post, with Vastin standing where he has just been ordered to stand and Oryn looking at the slat from her stride and a half; one of the two gives the count and the other the remainder. Vastin could own the first (he has called his own day every morning since the cut) and Oryn the second; or the other way about. Nothing after this depends on which — coordinator to supply protected text]]
+"Nineteen days," Vastin said.
+
+Oryn said, "Then it's eleven more."
 
 "There's a count," said Teague.
 
@@ -278,13 +288,17 @@ He had come down to the fence with his thumbs in his belt. It was the first time
 
 Oryn looked at him as she looked at a patient who has walked in on a broken foot and wishes to discuss the weather.
 
-[[TIER-B: Oryn's terms restated — the packet gives only two fragments, "three holds owed" and "a stop on my own route"; its sense is given too (she comes east as a healer on her own round, and is on nobody's count). Staged as Oryn's, at the fence, in answer to Teague, with the six and Teague's four in hearing. Her own sentences are not written here — coordinator to supply protected text]]
+{{JOIN}}
+
+Oryn said, "I'm a stop on my own route."
 
 Nobody argued it. Brom had gone into the mill by then, and he came out with the miller's wife behind him and a sack on the bound shoulder; it was a mark's worth of meal and a flitch, for five days of country with no gate in it. He said the figure as he came: a hundred and twenty-seven.
 
 Then he set down what he had carried under his box's lashing for seventeen days, which was a wooden bowl, on the end of the bench.
 
-[[TIER-B: "Sixth chair." / "On my terms. Which are the only kind." — the second line is Oryn's (Tier A 25 lists it with her Millrace lines); the plan does not pin the speaker of the first. Staged at the mill's bench at dusk, with Brom's bowls laid along it and Oryn's own bowl set at its end before an upturned keg. Lira could own "Sixth chair." (she told Oryn at this mill that there was a bowl); so could Brom, or Cael. Oryn answers, and sits — coordinator to supply protected text]]
+Lira said, "Sixth chair."
+
+Oryn said, "On my terms. Which are the only kind."
 
 She sat.
 
@@ -326,7 +340,11 @@ It was as much as either had said to the other, and Cael thought that it was a g
 
 She had it out already, bare to the elbow, with the eight marks pale along it. She sat on the plank with her chin up, as she had sat on a block at Thornwater when a knot was undone; and the healer took the forearm in her two hands and went along it from the wrist.
 
-[[TIER-B: "You listened when it told you the second time." / "Once." / "Once is once more than I priced" — the third line is given without its stop, and no speaker is pinned. Staged on the plank, with Oryn's hands on the forearm: Oryn reading what the arm has done since Thornwater, Lira answering in one word, Oryn's reply. That order of speakers is the natural one and is not the plan's — coordinator to supply protected text]]
+Oryn said, "You listened when it told you the second time."
+
+"Once," said Lira.
+
+Oryn said, "Once is once more than I priced."
 
 "It's an arm," said Oryn, and laid it down in the girl's lap.
 
@@ -372,8 +390,14 @@ Something went across her tired face that was not a smile and was a good deal ne
 
 Her hands went round the joint, above the slat and below.
 
-[[TIER-B: "It held in a cut" — a fragment, with no speaker pinned. Staged on the plank, with Oryn's hands on the knee and her eyes shut, after Vastin has told her of the wall on the eleventh day. Oryn could own it (reading the joint: what it bore on the road and what it was then asked to bear in a stair); Vastin could own it, of the one time he stood on it with the stick up, two days ago; Cael could, speaking for him. Her verdict follows in my words — coordinator to supply protected text]]
+"It held in a cut," said Oryn.
 
 She did not spend on it. She took the slat off, and bound the joint again in her own linen with two new laths; and what she said, when she had counted his wrist, was that the month stood as it had been counted, and that he was not to mistake that for a kindness.
 
-[[TIER-B: "Noted" / "That's new." / "It's a useful word." / "It's his." — four lines, none pinned to a speaker. Staged on the plank as the close of the knee's reading: one of them answers her verdict with the word; she remarks on it; it is defended; and its owner is named. Vastin could own the first and third, Oryn the second, and Vastin or Lira the fourth (with a look toward Cael, who stands at the lean-to's post); the scene ends on it — coordinator to supply protected text]]
+"Noted," Vastin said.
+
+Oryn said, "That's new."
+
+Vastin said, "It's a useful word."
+
+Oryn said, "It's his."

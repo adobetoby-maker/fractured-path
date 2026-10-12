@@ -22,9 +22,7 @@ Nobody answered, since it was a road. But they were at the lip of a hold's own g
 
 "What's the offer?" said Brom.
 
-"Twenty, at each first frost, on the same bar, to the five that walk it before I let a wheel on. The long house's fire for the week that it takes, and the pot." The crook's foot came round, without haste, and pointed at the tail-board. "And for him, a seat at that fire for the whole of a cold term, every year that he cares to come, with nothing asked of him but to be within a shout of my road. I'll not say what for. I was on the lip."
-
-The old man had not stirred. He looked at the crook's foot as he had once looked at a milking stool, with grave attention, and it was plain that he did not mean to answer for a thing which had been put to another person's purse.
+"Twenty, at each first frost, on the same bar, to the five that walk it before I let a wheel on. The long house's fire for the week that it takes, and the pot."
 
 Brom priced it. Cael watched him do it, with his head a little on one side and his weight on both feet, as he priced any wall.
 
@@ -68,7 +66,7 @@ Vastin had got down at the head, as he had undertaken to do for every slope. He 
 
 There was nothing there to stop for. Wet stones lay in the road, and gravel beside them, with a tuft of dead bent growing out of it. No crack ran from bank to bank. That had been made in ice, and it had gone where the ice went.
 
-[[TIER-B: "Here." — the packet gives the one word and pins no speaker. Staged at the place where the line was struck on the 279th, forty strides below the cut's head and three above Brom's flat stone, with the file halted on the dry edge and nothing on the ground to mark it. Vastin could own it (he has stopped there of himself and is looking at the road); Cael could own it (he is the nearest to him and is the only other who stood at that line). Nobody else is within four strides — coordinator to supply protected text]]
+Vastin said, "Here."
 
 It was the place. Cael knew it by Brom's stone, three strides below, and by the lie of the two banks; there was no other sign of it in the world. A plane had stood on that spot from one bank to the other, as high as the scree, and a man had been the foot of it.
 
@@ -84,7 +82,7 @@ The knee had held. It was not mended; anybody could have seen that, by the sweat
 
 Brom had turned on his stone, below. He had put out one flat hand, without knowing that he did it, as a man steadies the foot of a ladder that somebody else is on.
 
-[[TIER-B: "Two words," … "Both of them ours." — elided, and the plan pins no speaker. Staged as the next thing said on the dry edge after the stick comes down, low, as the road allows at a halt; Cael's "Noted." follows it and answers it. Vastin could own it, speaking of what this road has taught him to say; so could Brom, who has turned on his stone three strides below and is looking up at the two of them — coordinator to supply protected text]]
+"Two words," Vastin said. "Both of them ours."
 
 "Noted," Cael said.
 
@@ -188,7 +186,7 @@ She turned the hand over, empty.
 
 Cael wrote by feel, on his knee, when the light was gone.
 
-*Two hundred and ninety-sixth day. The halting-ground in the fold; thirteen miles. The cut walked east. Water in it, and no glass, and sheep on the top. Vastin walked it: seventeen of thirty. He stood on the leg once, with the stick off the ground, where the line had been. The factor offered twenty at each first frost, and a seat for the old man at the hold's fire. Brom said no. A hundred and twenty-eight.*
+*Two hundred and ninety-sixth day. The halting-ground in the fold; thirteen miles. The cut walked east. Water in it, and no glass, and sheep on the top. Vastin walked it: seventeen of thirty. He stood on the leg once, with the stick off the ground, where the line had been. The factor offered twenty at each first frost. Brom said no. A hundred and twenty-eight.*
 
 *Known, twice. The factor had been told what we should answer, by Teague, who took the salt up; he asked how long the wall stood and whether its maker moved. And a man on a horse kept a mile behind us from the cut to the dark. Seln cannot put a name to him. The one kind of being known offers a wage. I do not know yet what the other kind is for.*
 

@@ -122,7 +122,7 @@ The line was a bad one. Somebody had scraped a word from the leaf's face, long a
 
 "I know that I shall."
 
-"The first of it's sound. It's the word you had on the face, for the mark." He did not say it as she would have said it; he said it as a man names a beam. "That's the bearer, and there's only the one. Two runs hang from it." The reed moved. "One there, of five. One there, of six, and that's the one in the thin. And after the pair of them, his number."
+"The first of it's sound. It's the word you had on the face, for the mark." He did not say it as she would have said it; he said it as a man names a beam. "That's what bears, and there's only the one. Two runs hang from it." The reed moved. "One there, of five. One there, of six, and that's the one in the thin. And after the pair of them, his number."
 
 "*Three*," said Karis. "I have the number."
 

@@ -220,7 +220,21 @@ It was not the first thing that he had kept back. He had kept a date from everyb
 
 Lira had not moved from the post. She had her chin up, and Cael knew what was coming, since he knew that girl. A thing had been asked for at a fork-stone, in so many words, and she had carried the asking for eighteen days as she would have carried a count.
 
-[[TIER-B: "Is it a finding?" / "It's a leaf …" / "Then it's not mine." … "Tell me on the road, if there's road. Not at my table." … "Lie still when I say. That's still the term." — elided in three places; the plan says only that Lira offers the leaf and that Oryn does not hear it. Staged in the lean-to after the finding: Lira reminds Oryn that she asked at the fork for whatever walked out of the archive, all of it, and says that there is a paper in Cael's coat which did; Oryn asks whether it is a finding; Lira answers; Oryn declines to have it read at her table, and restates her term. The fair copy stays in Cael's coat throughout and is not unfolded. Oryn's last line may belong here or to the first scene of this chapter, where her term is given in my words — coordinator to supply protected text]]
+Oryn said, "Is it a finding?"
+
+"It's a leaf," Lira said.
+
+{{JOIN}}
+
+Oryn said, "Then it's not mine."
+
+{{JOIN}}
+
+Oryn said, "Tell me on the road, if there's road. Not at my table."
+
+{{JOIN}}
+
+Oryn said, "Lie still when I say. That's still the term."
 
 The paper stayed where it was. Cael had put his hand to his coat when the girl began, and he took it away again.
 
