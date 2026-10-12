@@ -60,7 +60,7 @@ She had a clean sheet before her already; she laid the brass along it, held the 
 
 "You said nothing of their squares," said Seln, from the sill. "I remarked it."
 
-"I thought that you had; I saw the square, and I shut my mouth on it. A second mark, on sheets that I would not so much as call a place, was the first step of a theory; and I had six people round a rock who would have taken the second step for me." She had drawn the sheets out while she spoke, from under six turned corners, one from each row. "They are one group: the same four signs on all six, one sheet to a year. And this is what their square holds."
+"I thought that you had; I saw the square, and I shut my mouth on it. A second mark, on sheets that I would not so much as call a place, was the first step of a theory; and I had six people round a rock who would have taken the second step for me." She had drawn the sheets out while she spoke, from under six turned corners, one from each row. "They are one group: the same four signs on all six. And this is what their square holds."
 
 It was a stroke, and beneath the stroke two bars.
 
@@ -352,7 +352,7 @@ She had it out already, bare to the elbow, with the eight marks pale along it. S
 
 "Once," said Lira.
 
-Cael thought of a girl coming off a ladder, under a town, with that arm tucked against her.
+Cael thought of a girl stepping off a stair, under a town, with that arm folded against her ribs.
 
 "Once is once more than I priced." The healer opened her eyes. "It's an arm," she said, and laid it down in the girl's lap.
 
