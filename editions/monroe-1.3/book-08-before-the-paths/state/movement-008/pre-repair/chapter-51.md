@@ -1,0 +1,355 @@
+# Chapter 51 — Nothing on the Crown
+
+They carried the broad man up out of the ravine on his own blanket, four to the corners, and it took them the better part of an hour.
+
+Brom had one corner, and the tall man another. The boy had the third, and would not give it up; and Cael, who had only the one arm that morning, was told by Lira to stand aside and took the fourth all the same until she put him off it with her shoulder. They laid the man in the hut that seven strangers had slept in, on a heap of somebody else's bracken. He had not made a sound that could be heard at five yards, from the bed of the ravine to the blanket in the door.
+
+Seln was on the shelf when they came out.
+
+He had walked in along the trodden path from the east, at his own pace, with his hands empty, and he gave his report to a captain as he gave any.
+
+"Seven. I counted them through the gap, and I counted them again over the second rise, a mile on. They did not stop to speak to one another. Nobody came up that path to meet them, and nobody has been upon it since the dew but those seven and myself." He glanced once at the timbers, where they lay askew. "They have left a bow, a stave and their fire. I should say that they do not mean to come back for any of it today."
+
+Teague heard it standing. He had not sat since the lip, and his right arm hung as it had hung there.
+
+The healer had been watching that arm for some time.
+
+She was grey still, from a shin. She had come up the broken stair of rock a tread at a time, behind the blanket, and had sat down on the upper baulk with her elbows on her knees; and from there, at her stride and a half and a little more, she had looked at a hand that did not shut.
+
+The old woman had the board out already, and a roll of linen. She stood at the captain's right side and waited, as she had plainly waited there a great many times, for him to remember that he had an arm.
+
+[[TIER-B: "A third time on that arm and I'll set it in a splint. That's not a healer's opinion. That's a fact about a line." / "Noted," / "Everybody says that now," — three lines; BOOK_MAP §13 gives the third to Oryn ("Oryn's 'Everybody says that now' comes on the 304th"); the first two are not pinned. Staged on the shelf, an hour after the fall: Oryn on the upper baulk, grey from the shin, speaking to the arm from her distance without touching it (she has not been asked to read it, and the older healer has it on her board); Teague standing; so Oryn / Teague / Oryn. If the first line is the older healer's, it cannot be said in the six's hearing in this movement — coordinator to supply protected text]]
+
+Teague held the arm out to the board after that, and looked over the old woman's head at the dish while she bound it.
+
+It was Brom who undid his own coat.
+
+He did it by the fire, with his back to the hut, and he did it slowly, since the cloth had dried to him across the breast. There was no hole in him. Under the shirt, in the middle of that great chest, there was a mark the size of a saucer, perfectly round, and already going the colour of a plum; and a second, longer, lay along the outside of the left forearm, with a ridge in it.
+
+Oryn looked at the two from the baulk.
+
+"Is anything broken under either?"
+
+"No."
+
+"Then I'll not spend on them, and you'll not ask me to. That's what your sort of skin buys you: it keeps the point out and takes the knock." She rubbed her eyes with the heel of her hand. "You'll have a week of colours. I'd like to see them when they go green."
+
+"I had worse off a post," said Brom.
+
+He buttoned the coat. Then he went to the hut's door, where a pack lay that was not his, and looked at it, and at a contract.
+
+"What it costs is carried the same, so far as a cost can be," he said. "That was the second head. I can't carry a man's shin for him." He picked the pack up by its straps, and settled it on the shoulder that had been mended at a mill. "I can carry what was on his back."
+
+Nobody in the hut said a word to that. But the boy, who was kneeling by the bracken, looked up at a very big man with an expression that Cael had last seen on a child being handed a second helping.
+
+There was a keg by the fire, three parts full. Brom had drawn a skin from it before anybody could tell him not to, and then he had stood over it, frowning, and laid three coppers of his own on its lid.
+
+"They shot at me twice," he said, when Lira looked at him. "I'll not have it said that I stole their water as well."
+
+Cael found her at the gap, a little later, looking east along the path.
+
+His left arm would lift again, to the height of his belt. The stave had left a welt across the collar-bone as broad as two fingers, and Oryn had looked at it from her distance and said that it was a bruise on a bone and would tell him so for ten days.
+
+He stopped at Lira's shoulder, and gave it to her as he had once given her another, on a stair.
+
+"Thirteenth. His. A line."
+
+She did not turn her head.
+
+"At the timbers," she said. "I saw your back. You went as stiff as you did on a plank, and I thought that it was the stick on your neck." Her eyes were still on the path. "Does he know?"
+
+"No."
+
+"That's two of them, then. An old man and a captain."
+
+"It's the same debt. I can't tell either how it came without telling both the whole of it."
+
+"I know why. I'm only counting." She was silent for a breath. "What does it do?"
+
+"It listens. I'd have liked it better if it asked."
+
+He did not tell her the rest, which had come to him on the shelf while a wrist was being bound. He had sat beside that man once, at a marsh's edge, with that same wrist a foot from his hand, and had known that a count of ten would give him its owner's tier. He had left it where it lay, and had asked a question in words. It was the thing in all that year of which he had been most nearly proud.
+
+And the tier had come to him this morning, unasked, as one word in his own cataloguing.
+
+He had not taken it, and he could not give it back. He found that those two facts did not make it sit any easier.
+
+---
+
+Teague counted them by their breathing, as he had every night of his life, though it was the middle of the day.
+
+There were three to be had so, in the hut. The old woman's was the lightest; she had sat down against the turf wall with her board across her knees, and gone to sleep sitting up, between one sentence and the next, as she always could. The bow's was short, and it caught at the top. The boy's was long.
+
+The fourth he had by a shadow. It lay across the blanket in the door, as narrow as a post, and it had not shifted in an hour. The spear was at the gap.
+
+*Four.* He had said it on the lip, aloud, since he had needed to hear it.
+
+His right arm lay on a slat along his thigh, in linen to the shoulder. He could not feel the fingers. He had known that he would not; he had felt the wrist go at the timbers, as it went every time, and then he had felt the thing go on up the bone to the elbow, which it had done only once before, a long while ago, on a ledge.
+
+He had been told what that meant, an hour since, on the shelf, in three short sentences. He did not go over them again. A man who has been told the weight of a load is a fool if he stands and argues with the scale.
+
+"You heard me," said the bow.
+
+Teague had thought him asleep. He lay on a stranger's bracken with his leg on a board and his eyes on the roof.
+
+"I heard you."
+
+"And you never turned your head."
+
+"No."
+
+It was said without heat on either side. Teague had been waiting for it since the lip, and had not known which way it would be put.
+
+He went over it once more, as he had gone over it a dozen times already. He had been ten strides from those timbers, with one bow in front of him and five people standing on the grass at the back of it. They had gone over that iron because he looked at it. One of them was his. If seven hoods had seen a captain turn his back, with his arm hanging, to run and look into a hole, they would have seen a crew with its head off; and they had four staves and a great deal less to lose than he had supposed. He had heard a man whom he had walked beside for a great many cold terms go off a ledge. He had put his foot down.
+
+He would do it again. He knew that as well, and it did not help.
+
+"I'd made a rule about ledges," he said. "In an inn, before we walked. I'd told myself that a man who turns back on one for somebody who isn't his gets his own killed. I thought that I'd have to keep it against one of theirs." He looked at the linen. "I never priced keeping it against you."
+
+The bow breathed for a little.
+
+"If you'd turned, I'd have had something to say to you from the bottom of that hole," he said. "I'd a deal of breath for it, till I landed." His mouth worked. "It's the good one. That's what I can't get past. I've favoured the other for more cold terms than I'll own to, and it's sound as a bell, and I've gone and broken the one that I was favouring it with."
+
+"She says it's knit."
+
+"She says it's knit, and that it'll carry me on a stick tomorrow if I'm not a fool. I've never seen anything like it. She put her hands round it, and I could feel it being done." He turned his head on the bracken, and his voice dropped. "She asked me first. With my leg lying two ways. She'd not lay a finger on it until I'd said."
+
+"I saw."
+
+"I've had a bone set by that one for half my life," said the bow, with his chin toward the turf wall, "and she's never once asked me anything but whether I'd finished squealing."
+
+The old woman, who was asleep, said nothing.
+
+The boy had not stirred. He had gone down as a felled thing goes down, an hour since, in the corner by the door, sitting, with his head against the turf and his mouth open. He had run the length of a shelf and down a fall of rock. He had held a man's head off the stones for a quarter of an hour without being told to. He had carried water down, and the board's webbing, and a healer's pannier, and had come up under one corner of a blanket. Then he had sat down to wait until he was wanted, and it had taken him like a blow.
+
+The cloth was in his fist. It was dry. He had got it out for a wrist, Teague supposed, and found that there was an old woman at the wrist already, and had not known what else to do with it.
+
+---
+
+Teague looked at him for a good while.
+
+He had looked at him on the shelf, across a row of iron, and the boy had gone over. That was the whole of what had been done. No word had been given. A captain had turned his head and let his eyes rest; and a boy had lifted his foot as high as a child's and put it down in a place where, by everything that he had ever been told, a person left off being what he was.
+
+*Four,* he had said, in there. Teague had heard it from the shale.
+
+He had counted a boy as a man in an inn, to stop him fretting on a stair. He had not thought much about what the boy would do with it. He knew now. He would go wherever he was looked at, a half-beat before he had seen what was there, and he would say the count as he went, so that nobody should forget that he was on it.
+
+That was a thing to know about one of one's own. It was a thing to be a good deal more careful with than Teague had been this morning.
+
+He had held, though, at the edge of that grass. The bow had gone off a ledge thirty feet from him, and he had stood. Teague had seen that too, out of the tail of his eye, and had not had the leisure to wonder at it. There had been no hand on him. There had been a girl's boots.
+
+He would have to think about whose boots a boy watched.
+
+The other boy he did not have to think about, since he had been within a stride of him for the only three breaths that mattered.
+
+He had asked for a left side kept, with a stick, and he had been given exactly that. A stave had come at his own bent head, and it had been met. Another had come across at the boy's throat, and the boy had put a stick up on end and taken the rest on his neck, and had not given back the length of a boot. Teague had felt the place stay full behind his shoulder. A man who is setting a line can feel that, as he feels a floor.
+
+And that was all that the boy had done.
+
+Teague had seen him do other things. He had stood on a ridge at dusk and watched a Wind's crack, and a fire, and something that went up a ditch like a squall, all out of one small shape with its arm raised. He did not know what that one carried; he had left off supposing that he would be told. But whatever it was, it had been within a yard of a stave this morning, and it had stayed where it was kept.
+
+*Nobody declares.* The boy had asked that of another man's field, and then he had paid for it himself, in bone, with a stick out of a town.
+
+Teague could put that in a column. It was the first thing about that one which he ever had been able to.
+
+He got up, since he could not sit any longer with it. The arm came with him like a parcel. He went out past the blanket, and round the hut to the ravine's side, where a hide lay over something with stones along its edge.
+
+He had had the spear lift a corner of it, in the forenoon, and had looked, and had let it fall. He lifted it himself now, left-handed.
+
+There was a sack of meal, and half of another. There was a bundle of bolts in a thong, with never a thread of colour on their feathers. There was a mallet with an iron head, and a coil of tarred cord no thicker than a pencil, with a knot in it at every few feet.
+
+And there were the bars.
+
+They lay in a bundle, a dozen of them, tied with a strip of hide: square iron as thick as two fingers, drawn to a point, and never driven. They were new. There was not so much as a bloom of rust upon one. He turned the nearest to the light with his boot, and read what was struck beneath its head, since he could read a stamp as well as a slip.
+
+It was two figures, and under the two figures a short stroke with a bar across its foot.
+
+He knew the mark. He had seen it in pencil on a sheet of paper, in a back room, with a small pale woman's finger beside it; he had gathered that it was a grade of some kind, and had to do with how old a thing was. He had not come for marks. He had said so, at her door.
+
+But he stood over a bundle of bright iron for some time, with a dead arm, on a shelf that seven people had been paid to keep; and he thought that whoever sent a dozen new bars to the far end of the country, with a mallet to drive them and seven people to do the driving, was not a person who had forgotten that the place was here.
+
+He let the hide fall.
+
+It was not his to read. He had given the reading away in front of fifty people, and he would not take it back for a thing under a hide. He would tell the pale one what lay there, when she came up from that bridge, and she would make of it what a paper made.
+
+He went back to count his four.
+
+---
+
+They went down to it at noon, when the sun stood over the dish and nothing in it had a shadow.
+
+There were six. Karis had the hide and a roll of paper, and Lira the pebbles. Brom came, since he said that he had not walked five days to look at a bridge from a hill, and Seln, who said nothing. The old man had got up from the upper baulk when he saw them go to the iron, and had taken his place a stride behind Brom without being asked.
+
+The healer was at the bars before them, with her sleeves pushed up.
+
+"I said that I'd be here for this, on a morning when nobody was shooting," she said. "It's noon, and I'll take it. Wrist. May I?"
+
+"Aye," said Brom.
+
+She put two fingers on it, and he stepped over. Cael watched her lips. They moved, and they stopped, as he had seen them stop at a stone above a stair and at a kerb in a marsh.
+
+"Four," said Oryn. "The same."
+
+She drew him back by the wrist, and the count went on past four, and she let him go.
+
+"It's twice the size and it does the one thing. That's all that I wanted, and I'll want it again when you come out." She looked at the six of them, and last at Cael. He had a figure ready for her, and had been turning over how to give it with an old man standing five feet off. She saw that he had something. She shook her head, by the width of a finger. "Not at a fence. I said that I'd not ask how many, and I'll not be told across a row of iron either."
+
+They went down the turf.
+
+It was four hundred and forty yards, and two strides. He had seen the figure written by lamplight, on a night when nobody would cross. It was a long way to walk with nothing on either hand, and the grey thing grew as they came, and he found that he could not make it stop growing.
+
+Then they were at the foot of it.
+
+The ravine came in from their left, under the turf's edge, and ran on before them; it was deeper here than at the shelf, and its walls were the same dark rock. Two piers stood up out of it. They were of the grey. He knew that grey as he knew the colour of his own hands. There was no course in them, and no join; they rose out of the rock of either wall as the stones on the Fallow rose out of their floor, and the arch sprang from the one to the other in a single piece.
+
+There was a road on its back.
+
+It was the thing which nobody had been able to make, from the brow. The grey came up out of the turf at their feet, a cart wide, with no kerb to it and no step, and went on upward as a road goes up a hill; it rose over the piers to a crown, and went down the other side, and into the grass again. A person might have driven a loaded wain across it. There was not the mark of a wheel anywhere upon it.
+
+"No stair," said Brom. "The last one was all stair."
+
+"It is not for going down," said Karis. She had stopped with one boot on the grey. "It is for going over."
+
+Behind his eyes the folded thing had come about.
+
+Cael had been waiting for that. It had leaned at a bridge once before, and at a plank, and at a hinge; it leaned now at the whole of this, with a steadiness that he had never had from it, like a head turned toward the only voice in a room. He gave his eyes the turf. He counted his own bootlaces, twice. It came up short at last, and lay down, and he did not think that it had gone far.
+
+He walked up the grey.
+
+It took him forty strides. The wind met him as he rose, and the dish opened round him, and he came to the place where the road stopped climbing.
+
+He stood on the crown.
+
+The middle of such a place was what he had wanted, ever since a small pale woman said three words on a road. He had said so on his feet, at a fire, to six people. This was the middle of the fourth: the centre of a ring half a mile across, which an office had held a sheet upon for two hundred and six years and had fenced with iron and left seven people to walk round.
+
+Nothing happened.
+
+There was the wind. There were the things that he carried, each in its place, as they were in a meadow: a held breath in his soles, and a hot grain, and a thin note; a post, and a rule folded on a shelf. Under his breastbone they went round what they had always gone round, and he did not go to look.
+
+There was no bird over that ground, and no beast on it.
+
+Only the newest of them had altered. It lay along him, from the heel to the hand, and it was listening to what he stood on.
+
+He understood why. A man had tried to drive a stake into this grey once, under a floor, and had struck twice, and had laid his mallet down. Nothing went into it. Of everything that a person might brace a heel against in all that country, there was not a thing so hard; and the prop that lay along him knew it, as a mason's hand knows a sound stone. It had found one end of a line, the best that it would ever be offered.
+
+The old three ribs ached, low on the left, in a row.
+
+He had it then, standing in the wind. What a push cost was paid upon the road that it had gone by, every time, at the place where that road left the body. It came out of a captain at the wrist, since that was where that man was weakest. The thing knew where it would come out of him.
+
+"Well?" said Lira, from the foot of the road.
+
+"Nothing," said Cael. "Grass, and a view."
+
+---
+
+It was Lira who found the notch.
+
+She had come up beside him, on the crown, and stood with her hand over her eyes; and she was not looking at the dish, as he had been; she was looking along the grey, the way that it ran, over the far fence and out.
+
+"There," she said. "On the line. Past the second ridge."
+
+He followed her finger, to where the hills stood up beyond the dish, blue behind brown, in the soft uneven rows that hills make; and in one of those rows there was a gap, low down.
+
+"It's square," said Lira. "Hills aren't. Look at the foot of it."
+
+"A cut?"
+
+"Or a place that's been used for one. I can't tell at that distance, and I'd be guessing." She let her hand fall. "The brass goes through it. I'd lay my knife."
+
+Seln had come up on Cael's other side without a sound. He looked at that gap for longer than either of them had, and his face told nothing.
+
+They went down under the arch by a rib of rock on the western side.
+
+It was cool in the ravine's bed, and dry; the two piers went up on either hand like the legs of a table, and between them the daylight came down grey off the underside of the road. Twenty yards on, where the bed ended, there was a hole.
+
+It was round, and as wide as a cart is long, and the rock went into it smooth, as the sides of a funnel go, and there was no bottom that he could see. Brom picked up a stone as big as his fist, and looked at Karis, and put it down again.
+
+"That is where it goes," she said. "Whatever falls on this country. I shall not drop anything into it; I do not know what is under."
+
+She had turned from it already, to the western pier.
+
+Its inner face was cut.
+
+He had known that it would be. The sunk lines ran in their courses from the bed upward, five to the height of a man, straight and hooked and crossing, as close as the words on a page; they were as sharp as on the day that they were made, since no foot had ever worn them and no rain had reached them there. She stood before that face with her gloves off, and for the space of a dozen breaths she did not move.
+
+"It is the same hand," she said. "And I can read it." Her voice shook a little, and she steadied it. "I stood in front of four walls of this under a floor, with six hours of oil, and I could not have told you that they were letters. Sheet."
+
+Lira had it against her fingers before the word was done.
+
+They were two hours in that place. Karis did not rub; she drew, with the paper pinned to a board of Brom's, sign after sign, and a small tick wherever a run ended, as a man under a town had taught her. Cael had no lamp to hold. She gave him the other thing, which was to count.
+
+"The lowest course, on this face. The signs in it, from the corner to the corner. I want it against my drawing."
+
+He counted, going along the stone with his finger held a hair off it, as he would have gone along a row of figures, and at the far corner he had fifty-one.
+
+"Fifty-two," said Karis, without looking up.
+
+"I've fifty-one."
+
+"Then one of us has missed a sign. Do it again."
+
+He did it again, from the corner, more slowly, and he had fifty-one.
+
+He stood and looked at the stone: a row of cut marks, in good light, each a hand's breadth from the next. He had counted the heads of a herd at a furlong, two days since, and had not been out by one.
+
+"Lira," he said.
+
+She came, and put her own finger to the corner, and they went along the course together, he saying the figures and she moving her lips.
+
+"Fifty-two," said Lira.
+
+"Fifty-two," said Cael.
+
+He had had it that time; he could not have said which sign his eye had gone over twice before, since they all stood there now, as plain as fence posts.
+
+Karis had lifted her head. She looked at him for the space of a breath, and then at the course, and she did not say anything at all. She had measured an inn yard once at forty-two strides in four people's hands, and at forty-one and a piece in his. He saw her remember it.
+
+"It was fifty-two," he said. "I'll enter that I made it less, twice. I'll not enter why, since I don't know."
+
+"That is how I should enter it," said Karis.
+
+Behind his eyes the folded thing had leaned again, and he had let his finger go on along the stone and given his eyes the bed of the ravine; but he had not been quick enough. It had had the lowest course for the length of a breath. It gave him what it gave of such things, flatly, with no voice in it.
+
+*Goes.*
+
+It went eastward, and he would have known which way without being told. Every run of that course leaned as the grey road leaned over his head: out from the western pier, across twelve yards of air, to the face of its fellow, and on.
+
+Karis had stopped drawing.
+
+She had the pencil's butt on a group of signs in the second course, at the height of her chin. It stood by itself, with a tick on either side of it, and she had gone back to it three times.
+
+"I have a word here that I can turn," she said. "It is the only one on this face that I am sure of."
+
+[[TIER-B: the bearing runs "Through" — the packet gives the single quoted word at the Span ("The bearing runs 'Through'") and pins no speaker. Staged as the word that Karis turns on the western pier's inner face, said by her in the ravine's bed under the arch, as observation and not meaning; the scene's last lines below (Brom's and hers) stand after it. If it is instead a remark of Teague's or Cael's about the line, the lead-in above about a word on the stone wants a different object — coordinator to supply protected text]]
+
+"So it's a gate," said Brom.
+
+"It is a word on a pier. I am telling you what the stone says, and where it stands. I shall want all of these on a blanket before I tell you anything more."
+
+---
+
+He wrote it by the watch's fire, at dusk, with eleven people about it and one in a hut.
+
+Karis had been told what lay under a hide. She had gone and looked, and had come back with one of the new bars across her two palms, and had sat for some time with it in her lap, saying nothing. Then she had asked the captain's leave to keep it, as though it had been his.
+
+*Three hundred and fourth day. The watch's post, on the shelf above the fourth place. A hundred and twenty-three. Vastin: twenty-five; he stood inside the line this morning, and it took what he carries, and gave it back. Oryn is four days past her cairn. She knit a shin in the ravine's bed and was grey for a quarter of an hour.*
+
+Then he wrote the rest, and it came as the last had come, at a fork, all in one piece.
+
+*Twelfth—no, count it again—thirteenth. Wind, Pressure, Iron, Compression, Ember, Shadow, Storm, Anchor, Blade, Tide, Iron Wall, Rune, Force. Thirteen things that aren't a Path, and I got three of them in one city and one bridge. Rate's climbing and I'm writing that down because Hesk taught me to note the trend. The Span's the fourth site and the Compact fenced it, years ago by the scale on the iron, and left men on it. They knew. They've always known. The bearing runs through it and keeps going, oldest-last, and the oldest one's out there in the deep edge, quiet since they built the machine. One more site. I've wanted to stand in the middle of it since Karis said* someone made this. *Tomorrow I find out what standing in the middle of the first one feels like.*
+
+He read it over.
+
+He had written *tomorrow*, and it was three days, by an office's figure, and a little less; he had seen the divider's point come down on a clean sheet. He looked at the word for a while, and he let it stand. It was not a true count; it was the truth about how near the thing had come, and he had no other word for that.
+
+He set the count beneath it, since a count was owed.
+
+*The thirteenth came at the timbers, at a stride, from Teague. It is not used. He is not told. That is the second such debt, and it is entered beside the first.*
+
+*Nothing opened today: not on the shelf, and not over the iron. The read at the seep was the last. Deployment since the Line: thirty-three.*
+
+*A course on the west pier: fifty-two signs. I made it fifty-one, twice. Ruling: hold.*
+
+*I stood on the crown at noon. Nothing.*
+
+The fire had a ring round it by then, like a moon in mist. He had not turned the folded thing upon that pier; it had taken one course of cut stone for itself, between a breath and the next, and it was charging him for the look all the same. He shut the book, and put the heel of his hand to each eye in turn, and sat with his face to the dark until it should have done.
