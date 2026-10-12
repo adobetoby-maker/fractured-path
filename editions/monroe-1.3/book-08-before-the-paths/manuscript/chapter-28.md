@@ -68,7 +68,7 @@ The porter at the end of the bench had stood up.
 
 Cael had not known him, and he knew him now by the way that he rose, which made no more noise than a coat sliding from a chair. Seln had the cap in his left hand and the frame held by one strap in his right. He was three strides from the ledge, in the plain light of a registry's yard, with a clerk's eyes coming round to him; and he had told five people at a pump that this was the one place in the town where he could not afford to be seen.
 
-He spoke to the clerk, and not to the old man, in the mild voice in which he would have told a carter the hour.
+It was the clerk that he looked at, and not the old man; and he used the mild voice in which he would have told a carter the hour.
 
 "He's on the count. Four hands, same as yesterday, entered by the practitioner and answered for by her, and the form asks what a hand's for, not what he was. The researcher's at your counter and she'll want to be told we're through," Seln said.
 
@@ -92,7 +92,7 @@ The shutter came down, and a key turned in the low door.
 
 Seln had not lied.
 
-Cael went over it, standing there with a box on his back, since he could not help going over a thing. Every word that the man had said would have stood under two hands. He had told a clerk what was true of a count and of a form. He had not said that an old porter was wandering in his wits, or that it was a carrier's joke, or that the fellow had once swept an Archmarshal's stair and liked to play at it; and any of the three would have shut that clerk's ears a great deal faster than what he did say. He had left the thing that the old man had put upon the ledge lying where it was put, and it was true, and a clerk of the registry now had it.
+Cael went over it, standing there with a box on his back, since he could not help going over a thing. Every word that the man had said would have stood under two hands. He had told a clerk nothing but what lay already in the clerk's own book, or stood at the clerk's own ledge; and he had said *we*, which lay in no book at all. He had not said that an old porter was wandering in his wits, or that it was a carrier's joke, or that the fellow had once swept an Archmarshal's stair and liked to play at it; and any of the three would have shut that clerk's ears a great deal faster than what he did say. He had left the thing that the old man had put upon the ledge lying where it was put, and it was true, and a clerk of the registry now had it.
 
 He had paid for it in the only coin that he owned.
 
@@ -214,7 +214,7 @@ Nothing was said for a long while. The man went along the Ring's eleven again, a
 
 "Hm."
 
-That was all that he gave her for it. He had asked how a thing was made, and been told, and what he had made of the telling went nowhere that Cael could see. Karis wrote nothing; she sat forward on a bare chair with her gloved hands shut, and watched him as she would have watched a pot that she was not allowed to stir.
+That was all that he gave her for it. Karis wrote nothing; she sat forward on a bare chair with her gloved hands shut, and watched him as she would have watched a pot that she was not allowed to stir.
 
 Somewhere among the Stair's twenty-nine he stopped, and straightened his back with a hand in the small of it.
 
@@ -232,7 +232,7 @@ He did, for the red eyes had not come within a yard of the hand that held the ri
 
 Cael knelt on cold rock and turned that over. He had been a name with a word after it for the whole of his life since his Kindling. Yesterday he had been the quarter part of a figure; and today he was a lamp. It was a rise, of a sort; a lamp was at least good at something.
 
-And he was two feet from it. He had wished, in a wood-yard, to see how that man looked at a thing. He saw it now for hours together, from closer than Karis sat, with every sheet lying foot toward him and wrong way up, as he had read every paper of his life. The eyes began where the weight came down, and they asked the pencil for nothing that it had not offered. He could not see what they found; he could only see that they found it.
+And he was two feet from it. He had wished, in a wood-yard, to see how that man looked at a thing; and he saw it now for hours together, from closer than Karis sat, with every sheet lying foot toward him and wrong way up, as he had read every paper of his life. He could not see what the eyes found. He could only see that they found it.
 
 The bell went at noon, somewhere above, too far to hear; but the man heard his own stomach, and put both hands on the table.
 

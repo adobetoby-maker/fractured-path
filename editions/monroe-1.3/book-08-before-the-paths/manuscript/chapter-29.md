@@ -4,7 +4,7 @@ The dray came into the yard behind them, on the two hundred and eighty-sixth day
 
 Cael marked it only because it was the heaviest thing there. It had two wheels as tall as Lira, and one mule between the shafts, and it was loaded to the rails with roofing slate, stacked on edge in straw. A lad of twelve or so walked at the mule's head. A man in a good grey cloak and a broad hat walked beside the tail-board, with a tally in his hand; and there was a square of slate painted on the dray's side, which was some broker's sign.
 
-Loads came into that yard all day, and Cael had learned in two mornings how it took them. Whatever had wheels came up from the bottom, past the beam, where a man with a slate wrote a weight against an owner; whatever had legs came down the slot in the wall, as they had, and was written nowhere until it reached a hatch. The yard sloped between the two a good deal more steeply than a carter would have chosen, and its paving had been worn into one long shallow trough by more iron tyres than anybody had counted.
+Loads came into that yard all day, and Cael had learned in two mornings how it took them. Whatever had wheels came up from the bottom, past the beam, where a man with a slate wrote a weight against an owner; whatever had legs came down the slot in the wall, as they had, and was written nowhere until it reached a hatch. The yard sloped between the two a good deal more steeply than a carter would have chosen.
 
 The four of them had come out of the cut a moment before, and Karis had gone to the hatch with the card. Brom had set his box down by the bench. He was looking at the dray as he looked at any load, to see how it had been put together.
 
@@ -30,7 +30,7 @@ It was not. A single plate shifted in the heap while he spoke, and the rail came
 
 *What does it weigh?* asked the read.
 
-It asked under the soles of Cael's feet, low and even, as it had asked of every rut for nine days; and it asked also which way the weight was going, since that was the half of its trade. It could have told him to a stone. It could have told him which slate would move next.
+It was the third of the ten that he carried, a piece of Brom's own Iron come to him at second hand, and it asked under the soles of Cael's feet, low and even, as it had asked of every rut for nine days; it asked also which way the weight was going, since that was the half of its trade. It could have told him to a stone. It could have told him which slate would move next.
 
 He told it no. He stood in a registry's yard, twenty feet from a hatch with its shutter up. A girl with eggs had been turned from a gate in that town for the wrong hour on a card; he did not care to learn what was written against a porter who was seen to know a thing that he had no way of knowing.
 
@@ -262,9 +262,9 @@ He said it as a carter states his rate, and then he went up for his bowl.
 
 Karis counted while he was gone.
 
-She did it without a pebble, on a leaf of her notebook, going from sheet to sheet of the Hall's twelve with the pencil held upright. She had forty-one kinds of sign, and had had them for the better part of a year; and she knew now, of the twelve that stood in one row, which kind bore and which was carried. It did not give her the rest. She said so, twice, to nobody.
+She did it without a pebble, on a leaf of her notebook, going from sheet to sheet of the Hall's twelve with the pencil held upright. She had forty-one kinds of sign, and had had them for the better part of a year; and she knew now, of the twelve that stood in one row, which kind bore and which was carried.
 
-"I shall want every row," she said. "On every sheet. He will have to go through all fifty-two with that reed, and I shall have to lay each one and write it; and only then shall I be able to say how many kinds are white."
+"I shall want every row," she said. "He will have to go through all fifty-two with that reed, and I shall have to lay each one and write it, before I can say how many kinds are white."
 
 "That's your week," said Brom.
 
@@ -272,9 +272,9 @@ She did it without a pebble, on a leaf of her notebook, going from sheet to shee
 
 The man came down within the hour, and it was done as she had said. He went along the Hall's table through the afternoon with the reed, and she laid, and wrote; and between the sheets he went back to the plank. The second of its rows stood on the Stair's ninth sheet, nine signs long, and the third on the Ring's sixth. He found each as a carpenter finds a joint in the dark, by going to where it ought to be. Each time the reed came back to the plank, and the pebbles went down along the table's edge in the order in which they had gone down on paper, white and black and red.
 
-The fourth row was the shortest, of seven signs, and it stood near the foot of the Stair's twenty-first sheet. When he had found it he straightened, and put both hands in the small of his back.
+The fourth row was the shortest, of seven signs, and it stood near the foot of the Stair's twenty-first sheet. When he had found it he straightened, and put both hands in the small of his back. Cleon looked from the plank to the three tables, and at the plank again.
 
-Cleon said, "Same make."
+"Same make."
 
 Cael kept the flame where it was wanted, and did not hear what Karis answered. He saw her glove come down upon the table's edge, flat, an inch from her own pencil, where she had been told that nobody was to lean; and the man beside her looked at the glove, and for once did not say so.
 

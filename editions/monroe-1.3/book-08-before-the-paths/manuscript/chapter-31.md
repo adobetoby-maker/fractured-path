@@ -6,9 +6,9 @@ She had not struck a point for it; Brom had lit the thing at the kitchen fire, w
 
 A man had spoken to her at the bell.
 
-She did not go over what he had said. She had it by heart, every word, with the place where he had stopped to rub his eyes; and she had put the whole of it into the box where she kept things that might be so and could not yet be shown. It was a large thing for that box, and the lid would not quite shut on it.
+She did not go over what he had said. She had it by heart, every word, with the place where his fingers had gone back to the tape; and she had put the whole of it into the box where she kept things that might be so and could not yet be shown. It was a large thing for that box, and the lid would not quite shut on it.
 
-He had believed her, and that was what she could not get used to. She had walked into a cook-house with fifty-two sheets and a lifetime of being smiled at by better-placed people, and a stranger had cleared three tables and given her his cushion and told her that he knew the hand. She had not understood until now how light a pencil is in the fingers of a person whom nobody attends to. She might draw a line wrong on one evening and rub it out on the next, and no harm came of it to anybody.
+He had said another thing, three days before, from his chair, with his eyes shut, and had said it of himself. She had not answered him. She had stood at the Hall's table and known it for her own as well. She had walked into a cook-house with fifty-two sheets and a lifetime of being smiled at by better-placed people, and a stranger had cleared three tables and given her his cushion and told her that he knew the hand; and she had not understood until then how light a pencil is in the fingers of a person whom nobody attends to.
 
 The pencil was not light tonight. A man had waited ten years with a board, and thirty with a lamp in one hand, and he was going to build upon whatever she said next.
 
@@ -28,9 +28,7 @@ A careful man writes a sum twice, once in figures and once in words, so that the
 
 It was a handsome idea, and it explained why two twelves were followed by the same six signs. It did not explain it any better than three others that she could think of. The six might be a maker's mark, set on every full row. They might say *checked*.
 
-She had a sentence for occasions of this kind, and had said it over a cord in a frozen yard.
-
-A person who knows what she is hoping to find will find it. She was hoping, tonight, harder than she had hoped for anything since she was a girl. That was the very reason why she could not be the one to say what those signs were. Something else would have to say it, which did not care.
+She was hoping, tonight, harder than she had hoped for anything since she was a girl; and a person who knows what she is hoping to find will find it. Something else would have to say what those signs were, which did not care.
 
 She took a clean leaf, and headed it in her small upright hand.
 
@@ -38,7 +36,7 @@ She took a clean leaf, and headed it in her small upright hand.
 
 If the groups were number-words, they were words in some tongue, and she did not know the tongue; but there were not many that it could be. The stone of that archive was older than the town's first wall, and the oldest paper in it would be the nearest in age to whoever had cut the board. She had been told that the old town's first tally-books stood in the eastern gallery, on shelves that she had not yet seen. A tally-book wrote its numbers out in full, as every clerk's did.
 
-She would not trust her memory of how such a hand spelled. She had read perhaps a dozen leaves of that age in her life, at Ternhall, in copies, and a copy carries the copier's wishes. She would have the book itself.
+She would not trust her memory of how such a hand spelled; she would have the book itself.
 
 And she would not look at the board again until she had written down, from the book alone, what the board would have to show.
 
@@ -46,9 +44,7 @@ That was the whole of the method, and she set it out in three lines. From the ol
 
 If they did not, in a single place, the idea was dead, and she would have killed it herself before it could be built on.
 
-Under the three lines she wrote the ways in which it could fail. There were four. She found a fifth, and wrote that as well; and somewhere behind the fifth, with the lantern guttering and Brom breathing like a felled tree, she understood that she had not been so nearly content since a store behind a chimney.
-
-She was not happy. That was another thing, and it had terror in it. This was only the old plain pleasure of having found a way to be proved wrong.
+Under the three lines she wrote the ways in which it could fail, and there were five; and somewhere behind the fifth, with the lantern guttering and Brom breathing like a felled tree, she understood that she had not been so nearly content since a store behind a chimney.
 
 ---
 
@@ -68,7 +64,7 @@ It was as broad as a paving stone. It came down the ladder against a thin chest,
 
 She did not take it to the board; she took it to the bare end of the long table, a good way from any sheet of her own, and opened it at the middle.
 
-It was a tally of loads, as she had known that it would be. A cramped brown hand had written, line under line, what had come in at some gate and what had been paid on it; and the hand wrote every figure out, in full, in the old spelling, with the strokes that she had learned at Ternhall to call the long *s* and the open *e*.
+It was a tally of loads, as she had known that it would be. A cramped brown hand had written, line under line, what had come in at some gate and what had been paid on it; and the hand wrote every figure out, in full, in the old spelling.
 
 She found *twelve* within the first leaf, and *nine*, twice, spelled alike both times. *Seven* took her longer; this town had brought in a great many things by the dozen and the score, and few by sevens.
 
@@ -84,13 +80,13 @@ She had not meant to say it so. The boy came, without a word, and went down on o
 
 She laid the leaf on the rock at the board's foot. She put the point of her pencil in the air above the first group, the six signs that followed two rings and two pecks.
 
-The third sign was a small upright with a hook. She went along. The sixth was an upright with a hook.
+The third sign was a small upright with a hook. She went along. The sixth was an upright with a hook. She set the pencil's point under the one and the tip of her little finger under the other, and had the pair of them between the two ends of her own hand: third and last, as the old clerk's *twelve* had them.
 
 Her hand had begun to shake, and she stopped, and held it with the other until it was still.
 
 The four signs after the nine. The first, a thing like a gate; the third, a gate. The last was an upright with a hook.
 
-She did not let herself breathe out. The seven. Five signs. The second was the hooked upright, and so was the fourth. The third was a sign like a fork, and she went back up the board to the fifth of the six, and it was a fork. The last was a gate.
+She did not let herself breathe out. The seven. Five signs. The second was the hooked upright, and so was the fourth. The third was a sign like a fork. She kept her pencil on it, and said *up*; and the boy carried the light up the plank to the first row, where the fifth of the six stood out of the dark, and it was a fork. He brought the flame down again without being told. The last was a gate.
 
 There was not one place where it failed.
 
@@ -140,7 +136,7 @@ A carving under a ring of stones had told somebody to do a thing ten times, or t
 
 On the fourteenth sheet of the Stair there was a longer one, of six signs, and all six were hers. She spelled it out with her lips shut. It was the number after ten; and the hooked upright stood in it three times over, exactly where the old clerk's letter did.
 
-That gave her nothing new; it only made the eight more certain, and she was glad of it as a mason is glad of a second plumb.
+That gave her nothing new; it only made the eight more certain.
 
 The new ones were harder, and she would not be hurried.
 
@@ -170,11 +166,11 @@ She did not write it, and she did not say it, even in the place behind her eyes 
 
 There were two other things in that gallery which she did not look at.
 
-One lay on a shelf above the desk, beside a jar, tied across both ways in brown tape. He had put two fingers on it and told her what it was made of. She had wanted it from that moment as she had once wanted a page with four signs upon it; and she had not asked. She would not open that tape with ten letters. She would only read into it what she had been told to expect.
+One lay on a shelf above the desk, beside a jar, tied across both ways in brown tape. He had put two fingers on it and told her what it was made of; she had wanted it from that moment as she had once wanted a page with four signs upon it, and she had not asked.
 
-The other was in her own coat: it was a single sheet, folded twice, in oilcloth, in an old man's square hand, and it had one line on it with a word that she had never met in any stratum. The man at the desk had made it a term that nobody should tell him what a thing was before he had looked. She found that she had made the same term for herself. If she showed him that word, he would see it in everything. If she let herself think of it now, so would she.
+The other was in her own coat: a single sheet, folded twice, in oilcloth, in an old man's square hand, with one line on it and a word that she had never met in any stratum. The man at the desk had made it a term that nobody should tell him what a thing was before he had looked, and she found that she had made the same term for herself.
 
-It could wait until she could read; she had waited a good deal longer for less.
+Both could wait until she could read; she had waited a good deal longer for less.
 
 "How many?" said the rough voice, when the bell was near.
 

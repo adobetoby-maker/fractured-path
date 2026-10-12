@@ -14,9 +14,9 @@ The old man stood at the gable, under the blanket, as he stood every night until
 
 Shadow had lifted at dusk, in the lane, between the second alley and the third. Cael had told it no while a bar of pale light went over his boots. It lay shut now, and the other nine had come back, each to its own place.
 
-He could not sleep. He had written three words about a wish, and the writing had not put it down.
+He could not sleep; he had written three words about a wish, and the writing had not put it down.
 
-The lantern went out. He lay with his hands behind his head and listened to the loft, as he had listened to every room that he had ever slept in.
+When the lantern went out he lay with his hands behind his head and listened to the loft, as he had listened to every room that he had ever slept in.
 
 A room full of sleepers has a shape, and he had known this one's for five nights. Brom made the most of it, in the middle, breathing like something felled. Lira lay on her right side, a yard from Cael's elbow, and Karis by the boxes, small and quick, with a catch at the top of every breath that had been there since a cook-house. There was the old man's, upright, by the gable. And there was a place near the ladder's head where nothing was. He had learned to know it as a person knows where a rug lies in a dark room, because the floor does not ring there.
 
@@ -46,7 +46,7 @@ It was harder than holding a lamp. He stopped wanting to be at the ladder, as he
 
 Seln went down the ladder on the outer ends of the rungs, where the wood does not speak, and crossed the yard in the shadow of the pump.
 
-He did not look up at the loft. He knew that the boy was awake. He had known it by the breathing, which was a little too even, and he had found that he did not much mind. There had been a time when he would have waited an hour for it to change.
+He did not look up at the loft, though he knew that the boy was awake. He had known it by the breathing, which was a little too even, and he had found that he did not much mind. There had been a time when he would have waited an hour for it to change.
 
 The half-door was shut and barred at that hour, and the woman who leaned on it was asleep. He went out by the carriage-arch, past the painted door. Its lamp burned, and the book lay open on its stand within, with a pen on a chain, for whoever came late and had a name to give.
 
@@ -60,7 +60,7 @@ The whole hill stood in front of him.
 
 He had not seen it so before. He had gone up it once as a counted hand, with his eyes where a porter's eyes are, on the setts; and he had watched a yard from a bench, and a door from a parapet. From here it was laid out as a plan is. The second wall went round below his feet, with the blue gate in it, shut, and a brazier burning in the arch where two keepers stood their night. Above that the slate roofs climbed, close and dark. Above the slates ran the third wall, the old one, low and pale; and over the wall, like the back of a great book stood on a shelf, the registry.
 
-It was five storeys. He could see three of them. There was a light in one window, high up, where somebody was working late or had forgotten a lamp.
+It was five storeys, and he could see three of them. There was a light in one window, high up, where somebody was working late or had forgotten a lamp.
 
 To the left of it, and a little higher, there was the other light.
 
@@ -80,7 +80,7 @@ It was shut. That was all that he needed to have about it tonight.
 
 He had stood over a spring six days since, with a stolen sheet in his sleeve, and had gone through the three things that his training let him do with a fact. He had not been able to look at the case that morning. He had said to himself that a man cannot hold two closed things up to the light at once; and it had been true, and it had also been convenient.
 
-He had opened the one. He had set it between two hands on a rock, and gone to stand by the water.
+He had opened the one: he had set it between two hands on a rock, and gone to stand by the water.
 
 This was a night, and he had nothing in his sleeve. He looked down at the dark leather against his coat, squarely, as he would have looked at another man's file.
 
@@ -100,7 +100,7 @@ A line would be written. *One case, locked. By hand.* It would go up in the morn
 
 There were four names, besides, which must not be written inside a wall. He had counted an hour for them, on a ladder. What was in the case had those names nowhere in it, and it led to them all the same, as a road leads to a house.
 
-So it was not that door. He had known it before he sat down. He had come up here to learn whether he still wished that it were, and he found that he could not tell.
+So it was not that door, and he had known it before he sat down. He had come up here to learn whether he still wished that it were, and he found that he could not tell.
 
 There was a fourth thing which he had not thought of at the spring, since it had not then existed.
 
@@ -124,7 +124,7 @@ There was a man in the smith's doorway, across the open place, where the trough 
 
 He stood as Seln would have stood.
 
-It was one man, in one doorway, seen once. A district is full of people who have reasons to stand in doorways at night, and nine in ten of the reasons are a girl or a debt. Seln did not make a finding of it. He put it where he put a date read once by lamplight, over another person's shoulder: to be looked at again by day, before anything was done.
+It was one man, in one doorway, seen once. A district is full of people who have reasons to stand in doorways at night, and nine in ten of the reasons are a girl or a debt; and Seln did not make a finding of it.
 
 He sat until the brazier in the blue gate had burned low. He had looked at the registry, and at its three doors, and at a pale light that did not flicker; and he had looked at the thing on his chest for the first time in twelve years without his hand going to the key.
 
@@ -136,7 +136,7 @@ Cael was at the pump when the light came, with his head under it.
 
 He had not heard the ladder. He straightened, with the water running off his chin, and there was a small grey man beside the trough, with his hands in his sleeves, looking as he looked on every morning.
 
-Nobody else was down. A horse stamped in the stable, under the place where five people slept.
+Nobody else was down; a horse stamped in the stable, under the place where five people slept.
 
 "You were awake," said Seln.
 
@@ -168,7 +168,7 @@ There was a cushion on the second chair that morning. It had been flattened by a
 
 Karis looked at the cushion for as long as it takes to draw a breath. She did not sit. She had the plank before she had her gloves off.
 
-She did not touch it. She stood over it with her notebook, and for once it was she who spoke first to the man at the desk.
+She did not touch it; she stood over it with her notebook, and for once it was she who spoke first to the man at the desk.
 
 "The clusters at the row's end. The pecks, and the rings. Are they of the same cutting as the rows?"
 
@@ -222,7 +222,7 @@ At noon the man went up for his bowl, and the lamp stood on the table's end, as 
 
 Vastin crossed to it. He went as he would have gone to a clerk who had blotted a line, with his right hand coming up already to turn the wick; and he was standing over the thing, with two fingers a hand's breadth from the brass, before he remembered what had been said about touching.
 
-He stood there for some time. Nobody helped him.
+He stood there for some time, and nobody helped him.
 
 "It wants trimming," he said at last.
 
@@ -252,9 +252,9 @@ Cael stood, and put his arm up, and held the flame above the plank's head for as
 
 "A week," said the man, when the bell was a quarter of an hour off.
 
-He had put the reed down. He stood by his desk with one hand on its slope, and he was speaking to the chair by the wall.
+He had put the reed down, and he stood by his desk with one hand on its slope, speaking to the chair by the wall.
 
-"Mine. From today. I'll give it nothing else. And at the end of it the whole lot goes up that stair, every sheet, and the fellow with the green book writes that it's gone." He rubbed his eyes. "He entered three boxes three days back, and he's written *the same* under them ever since. If they lie on my tables a month, he'll begin to wonder what *the same* is. I've been asked for things before."
+"I asked you for one, the first day, and I've spent the half of it on my own page; I've read that every morning before I'd so much as look at yours. That's put by. A week. Mine. From today, and nothing else on the desk. And at the end of it the whole lot goes up that stair, every sheet, and the fellow with the green book writes that it's gone." He rubbed his eyes. "He entered three boxes three days back, and he's written *the same* under them ever since. If they lie on my tables a month, he'll begin to wonder what *the same* is. I've been asked for things before."
 
 "A week from today is the two hundred and ninety-third," said Karis.
 
@@ -270,13 +270,13 @@ His hand had gone up to the shelf. It did not go to the place where the sacking 
 
 He took his fingers away, and turned round; and for the first time in four days he looked straight at her, and not at her boots.
 
-"You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anything the Compact admits." His eyes went down the gallery to the plank. "Here's what the strata can't tell you. These aren't the ruins of something. This is the *documentation* of something. Somebody wrote these down so the thing could be *built the same way twice*." He rubbed his eyes. "In thirty years I never had the stone to match the text. You walked in with three floors." He stopped. "I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since."
+"You've been reading the strata. Old, older, oldest — I know, I read your face, you've dated these past anything the Compact admits." His chin went toward the three tables, and his eyes did not leave her. "Here's what the strata can't tell you. These aren't the ruins of something. This is the *documentation* of something. Somebody wrote these down so the thing could be *built the same way twice*." The two fingers found the brown tape again, behind him, without his looking for it. "In thirty years I never had the stone to match the text. You walked in with three floors." He let the hand fall from the shelf. "I don't think you're going to like what you've found, Karis. I've had a piece of it for a decade and I've never once slept well since."
 
 Nobody spoke.
 
 He had used her name. He had said, the day before, that he did not forget things; and it seemed that he had kept that one, and had chosen his time to give it back.
 
-Karis had not moved in the chair. Her two gloves lay shut in her lap. Cael, at the table's end, could not see her face, and he thought that he ought not to try.
+Karis had not moved in the chair; her two gloves lay shut in her lap. Cael, at the table's end, could not see her face, and he thought that he ought not to try.
 
 The bell went.
 
@@ -300,7 +300,7 @@ It had been forty-nine steps for that knee, with the stair inside the iron. At t
 
 "I held it because it was plunging. Nothing plunges in that gallery. There is only a thing that wants doing, quietly, by somebody else, and I am to watch it done."
 
-He was silent. A cart went along the ring road, far below, with a lantern.
+He was silent, and a cart went along the ring road, far below, with a lantern.
 
 "How long did it take you."
 

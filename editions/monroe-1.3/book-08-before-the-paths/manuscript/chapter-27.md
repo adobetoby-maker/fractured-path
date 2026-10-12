@@ -24,7 +24,7 @@ The stick came last but one. Cael went below it, backward, as he had gone down a
 
 "It was an observation, and not a complaint."
 
-The treads were of the dark stone, and so were the walls; each block lay against its neighbour without mortar, so close that his fingers could not find the joint until they had passed it. Nothing had worn them. A sill above had been rubbed bright by more feet than he could reckon, and here, a dozen steps beneath it, the edges were as sharp as on the day they were cut. Few of those feet had come farther than the door.
+The treads were of the dark stone, and so were the walls; each block lay against its neighbour without mortar, so close that his fingers could not find the joint until they had passed it. A sill above had been rubbed bright by more feet than he could reckon; here, a dozen steps beneath it, the edges were as sharp as on the day they were cut.
 
 At the ninth step there was a landing, and at the eighteenth another. Lira did not count aloud. He saw her lips go, in the lamp's edge.
 
@@ -32,7 +32,7 @@ The cold deepened with every flight. He had felt cold in a good many places sinc
 
 *There?* he waited to hear, from the thin held note; and he did not hear it.
 
-He marked that. Anchor had asked at every sill and gate since Ostrand, and at an iron door it had asked very low. It asked nothing here. There was nothing in that place to set a bar across, and the fragment seemed to know so before he did.
+He marked that. Anchor was the eighth of the ten things that he carried, a piece of the craft by which the Compact holds a person where he stands; it had asked his leave to bar every sill and gate since Ostrand, and at an iron door it had asked very low. It asked nothing here. There was nothing in that place to set a bar across, and the fragment seemed to know so before he did.
 
 "Twenty-seven," said Vastin, on the floor. He was breathing through his nose, and he stood for a moment with both hands on the ash and the bound leg thrust out. "He can count as well. I had begun to think it a rare accomplishment in this town."
 
@@ -68,7 +68,7 @@ He counted his strides instead, since it was something to count.
 
 The floor was the bluff's own rock, cut level, and it was clean. No dust lay on it as dust lies in a loft; there was only a fine pale bloom along the foot of each bay, where nobody walked, and it was the colour of a certain coat. The air smelled of dry paper, and of old glue, and of cold stone, and under those of nothing whatever. It was the smell of a book that has stood shut on a shelf since before its reader was born.
 
-He listened for the feet. There had been five storeys of clerks over his head in the vault outside, going to and fro, and he had carried the sound of them down to an iron sill. It was gone. He could hear the lamp burn. He could hear the old man's stick, and Brom's breath, and the small dry rub of a calfskin against a sleeve.
+He listened for the feet of five storeys of clerks, which he had carried down with him to an iron sill, and they were gone. He could hear the lamp burn. He could hear the old man's stick, and Brom's breath, and the small dry rub of a calfskin against a sleeve.
 
 "There is no register of this," said Vastin.
 
@@ -84,7 +84,7 @@ At ninety strides the shelves on the right hand gave place to tables. They stood
 
 The last three were bare.
 
-He saw that before he saw the man, and it stopped his counting at a hundred and four. Three tables had been cleared to the wood, and wiped; and along the floor beside each, in rows as straight as a clerk's ruling, stood what had been taken off them. There were a great many bundles in those rows. Each lay under a slip, and the slips ran in an order. Somebody had lifted the work of years from where it lay, a piece at a time, and set it down on cold rock so that it might be put back exactly; and he had done it between yesterday's noon and this morning's second bell.
+He saw that before he saw the man, and it stopped his counting at a hundred and four. Three tables had been cleared to the wood, and wiped; and along the floor beside each, in rows as straight as a clerk's ruling, stood what had been taken off them. Each bundle lay under a slip, and the slips ran in an order. Somebody had lifted the work of years from where it lay, a piece at a time, and set it down on cold rock so that it might be put back exactly; and he had done it between yesterday's noon and this morning's second bell.
 
 Karis had seen it too. He heard her breath go in.
 
@@ -96,25 +96,29 @@ Lira stopped at the edge of his light, and so they all stopped.
 
 He did not turn round. He raised his left hand a little from the desk, with the palm toward them, as a carter checks a horse; and then he laid it down again, and went on reading.
 
-Brom looked at Cael. Cael lifted one shoulder, under the strap. The box on it held a third part of fifty-two sheets, and a purse sealed under five thumbs, and it had been on his back since a frost in an inn yard; he found that he could carry it for one page more.
+"Tables," said Cleon, to the leaf in front of him. "There are three bare. Which place is which?"
 
-It was a long page. Lira counted the lines by the finger, since she could not help it, and he saw her reach nineteen. Brom let his own box down to the floor by inches, with his knees, so that it should make no noise, and stood beside it with his arms hanging. Karis did not put anything down. She stood with the flat under one arm and the hide under the other, at the very rim of that good light, and her face had gone as still as water in a butt. She had waited the whole of her life for this room. It appeared that she could wait for a stranger to finish his paragraph.
-
-It was Vastin whom Cael watched.
-
-He did not think that anybody had kept that man standing at the bottom of a room in forty years. Rooms had risen when he came into them. Books had been held out to him, open, at the gate of this very town. He stood now with a case on his shoulder, behind a girl with a lamp, while a Bronze of the least-regarded class on the roll read to the foot of a leaf; and Cael saw the right hand leave the stick, and hang, and go back. The old mouth had set. Then, slowly, as a thing is done that has been practised, the grey eyes came away from the reader's back and went to the shelves, and stayed there, on a bay of boards.
-
-The finger reached the page's foot. The man turned the leaf face down, and laid a slip across it, and turned round.
-
-"Tables," said Cleon. "Which place is which?"
+Karis had her voice at the second attempt.
 
 "The first lies under a ring of standing stones, and it has eleven sheets. The second is under a stair: twenty-nine. The third is a hall. Twelve."
 
-"Then eleven there. Twenty-nine on the long one; it'll take them in three rows. Twelve there." The finger went from table to table. "As they lay on the floors. North to the stair. If two sheets met on the stone, they meet on my table, and if there was a gap, I want the gap."
+"Then eleven on the nearest. Twenty-nine on the long one; it'll take them in three rows. Twelve on the last." His finger had not left its line, and he had not so much as lifted his head. "As they lay on the floors. North to the stair. If two sheets met on the stone, they meet on my table, and if there was a gap, I want the gap."
 
 "I have the gaps measured."
 
-"I'd thought you might." His red eyes went to the lamp then, and to nothing that was near it. "That comes with me. Low. As low as you had it on the stair. A hand to the left of whatever I'm at; not on it, and not behind me, and not where I've been. Is that understood?"
+"I'd thought you might. Get your loads off. I'll come when I've done here."
+
+Brom looked at Cael, and Cael lifted one shoulder, under the strap. They got the loads off. Brom let his own box down to the floor by inches, with his knees, so that it should make no noise in that place; and the third came off Cael's back, with a third part of fifty-two sheets in it and a purse sealed under five thumbs, for the first time since a frost in an inn yard. Karis did not put anything down. She stood with the flat under one arm and the hide under the other, at the very rim of that good light, and her face had gone as still as water in a butt. She had waited the whole of her life for this room. It appeared that she could wait while a stranger came to the end of his paragraph.
+
+It was Vastin whom Cael watched.
+
+He did not think that anybody had kept that man standing at the bottom of a room in forty years. Books had been held out to him, open, at the gate of this very town. He stood now with a case on his shoulder, behind a girl with a lamp, while a Bronze of the least-regarded class on the roll gave his orders over one shoulder and went on with his page; and Cael saw the right hand leave the stick, and hang, and go back. The old mouth had set. Then, slowly, as a thing is done that has been practised, the grey eyes came away from the reader's back and went to the shelves, and stayed there, on a bay of boards.
+
+When Cael looked at the desk again, the chair before it was empty.
+
+The man stood at the head of the first bare table, with his hands behind him. The leaf lay on the slope as it had lain, face upward under the good light, with nothing put across it to keep the place; he had come to the foot of it and walked away, and not one of five people had seen him do either.
+
+"That comes with me." His red eyes had gone to the lamp, and to nothing that was near it. "Low. As low as you carried it in. A hand to the left of whatever I'm at; not on it, and not behind me, and not where I've been. Is that understood?"
 
 "It's understood," said Lira.
 
@@ -128,9 +132,9 @@ She had the second box unroped on the floor, and the oilcloth open, and she carr
 
 Then he opened them, and began.
 
-He did not read. Cael had seen that at a cook-house counter, and he saw it now for two hours together, from four strides off, with nothing to do but watch. The man bent over the first of the Ring's eleven, at its southern edge, where the foot of the sheet lay nearest him. His eyes went to the lowest row of her drawing and rested there. Then they climbed. They went up the sheet as a mason's eyes go up a wall that he has been asked to buy, stopping wherever a thing seemed to bear weight, and going back down from it to see what it stood on; and when they came to the top they did not go on to the next line, since there was none. They went to the next sheet's foot.
+He did not read. Cael had seen that at a cook-house counter, and he saw it now for two hours together, from four strides off, with nothing to do but watch. The man bent over the first of the Ring's eleven, at its southern edge, where the foot of the sheet lay nearest him; and his eyes went up it as a mason's go up a wall that he has been asked to buy, stopping wherever a thing seemed to bear weight, and going back down from it to see what it stood on. When they came to the top they went to the next sheet's foot.
 
-He did not blink. That was the second thing. Cael counted to sixty, once, and to sixty again, and the lids had not come down; and the red rims had begun to run. Water went down beside the man's nose and dripped from his chin onto the breast of his coat. He paid it no more heed than a carter pays to rain.
+He did not blink. That was the second thing. Cael counted to sixty, once, and to sixty again, and the lids had not come down; and the red rims had begun to run. Water went down beside the man's nose and dripped from his chin onto the breast of his coat.
 
 "It moved," he said.
 
@@ -160,7 +164,7 @@ She held it in her right hand alone after that, and she did not change. Cael wat
 
 The long table took the man the greater part of the time. He went down its three rows from the south, and came back, and went down them again; and there was a place in the second row where he stood so long that Karis took a step toward him, and checked herself. He said nothing. He went on.
 
-A bell would have rung by now in the town, for noon. Cael knew it by his stomach. A porter had told Seln that this man went up for his bowl on every day that anybody could remember, and stood at one end of a counter, and came down again within the hour.
+A bell would have rung by now in the town, for noon. A porter had told Seln that this man went up for his bowl on every day that anybody could remember.
 
 "He's missed his dinner," said Brom, under his breath.
 
@@ -168,7 +172,7 @@ Karis heard that. She did not turn her head; but her gloved hand shut on the edg
 
 At the third table he was quicker, until he came to the fourth of the Hall's twelve.
 
-He stopped over that one as a dog stops at a gate. He looked at it from its foot. Then he went round the table's corner, and looked at it from the side, with his head laid over; and he came back, and bent until his face was a hand's breadth from her pencil, and stayed so for longer than he had given to any six of the others. Lira brought the light round to his left side, a hand off, without being told. He did not seem to know that she had done it.
+He stopped over that one as a dog stops at a gate. He looked at it from its foot. Then he went round the table's corner, and looked at it from the side, with his head laid over; and he came back, and bent until his face was a hand's breadth from her pencil, and stayed so for longer than he had given to any six of the others. Lira brought the light round to his left side, a hand off, without being told.
 
 When he straightened, he had to feel for the table's edge. He stood holding it, with his eyes shut and the water drying on his face.
 
@@ -176,9 +180,9 @@ When he straightened, he had to feel for the table's edge. He stood holding it, 
 
 "Older than [UNBOUND]," Karis said.
 
-Cael had heard her say that word once before, at a trestle under a marsh, and shut her mouth upon it afterward as upon a box. She had said then that she would not say it twice. She had kept it for this table.
+Cael had heard her say that word once before, at a trestle under a marsh, and shut her mouth upon it afterward as upon a box. It was a registrar's word, which the Compact had once written in square brackets against whatever its plates could not class, and had long since struck out of its books; and it was the oldest thing that she knew how to date by. She had said then that she would not say it twice. She had kept it for this table.
 
-The man knew it. Cael saw that he did, though his eyes did not open: the square hands tightened upon the wood, and were still. There could not be many living people to whom that word was a date, and there were two of them now in one gallery.
+The man knew it. Cael saw that he did, though his eyes did not open: the square hands tightened upon the wood, and were still.
 
 He asked nothing more. He let go of the table, and walked to his desk with one hand before him, by habit, as a man crosses his own bedroom in the dark. There was a shelf above the desk, under the lamp's iron arm, and on it a cup, and a jar, and a thick bundle tied with tape; and at its end a long flat thing wrapped in sacking. He took that down. He stood with his back to all of them, and turned the sacking open, and looked at whatever lay in it. He looked from its foot.
 
@@ -202,9 +206,9 @@ He felt in his coat, and brought out a square of card with a buff edge, and went
 
 Karis did not go away from the third table.
 
-She stood at its corner, where a square pale hand had rested, and looked down at the fourth of the Hall's twelve. Cael came and stood beside her. He had left the box against a bay. The carried lamp burned at the table's end, a yard from them, where Lira had set it down as carefully as an egg; and the other, on its iron arm, lit a grey head that did not move.
+She stood at its corner, where a square pale hand had rested, and looked down at the fourth of the Hall's twelve. Cael came and stood beside her. He had left the box against a bay. The carried lamp burned at the table's end, a yard from them, where Lira had set it down as carefully as an egg; and the other, on its iron arm, lit a grey head that did not move. The desk was not six strides off.
 
-He looked at the sheet, since she was looking at it. He saw what he had seen under a marsh, by a lantern, with water to his knees: rows of small cut signs, drawn square, in her hard clean pencil. He could not have said why a man should stop at that one. He was reading it the wrong way up, from the far side of the table, as he read everything; and it came to him that he stood at the sheet's foot, where the man himself had begun.
+He looked at the sheet, since she was looking at it, and could not have said why a man should stop at that one. He was reading it the wrong way up, from the far side of the table, as he read everything; and it came to him that he stood at the sheet's foot, where the man himself had begun.
 
 "He knows the hand," he said, very low. "He's got something on that shelf that's cut the same. He looked at it, and he came back, and he said so. That's not a mason's pattern-book."
 
@@ -216,23 +220,35 @@ He looked at the sheet, since she was looking at it. He saw what he had seen und
 
 "Then what is it?"
 
-She was shaking again. It was not as she had shaken in a hayloft, with a card on her knee. He saw her take hold of it, a breath at a time, and put it down.
+She was shaking again. It was not as she had shaken in a hayloft, with a card on her knee. He saw her take hold of it, a breath at a time; and she did not answer him.
 
-Cleon said, "Being believed — " He stopped. "I had thought it would be a relief. It's not. It's the end of being able to be wrong."
+It was the desk that answered. Nothing can be said low enough in a place where the air does not move, and Cleon had not opened his eyes.
 
-Cael had no answer for her. He had lain awake over this day, as she had, and he had been afraid on her account of one thing only: that a man would look at three floors and shake his head. It had not come into his mind to be afraid of the other.
+"Being believed — " He stopped. "I had thought it would be a relief. It's not. It's the end of being able to be wrong."
 
-Brom had come up on her far side. He had a loaf out of his box, and Lira's knife, and he cut it against his chest into five, and laid a piece on the bare wood at the table's very corner, a long way from any paper.
+He had said it to the dark behind his own lids, and he gave no sign of knowing that five people had heard.
 
-"Eat that," he said. "Then say what you want of us. He'll not say. He doesn't say things."
+Karis had turned round. She was looking at the grey head as a person looks who has heard her own trouble told in a stranger's voice.
 
-"How long's it going to take him?" said Lira. She had sat down on the floor with her back against a table's leg and her right hand open on her knee. She was working the fingers. "I only want to know how many days I'm a lamp."
+Cael had no answer for either of them. He had lain awake over this day, and he had been afraid on her account of one thing only: that a man would look at three floors and shake his head. It had not come into his mind that the man might have something of his own to lose by nodding.
 
-"I do not know. I do not believe that he knows." Karis took up the bread, and looked at it, and set it down. "I have one man who can see how a thing stands, and he has seen it for two hours. I do not yet know what he saw. Whatever it was, I shall have to lay it against all that I have, sheet by sheet; and I shall not be hurried over it, by him or by myself."
+"Who's believed him?" said Brom, under his breath. He had come up on her far side, with a loaf out of his box and Lira's knife. "He's not told anybody anything."
 
-She turned round to them. She was the smallest person in that gallery, and she stood with her back to fifty-two sheets, as she had once stood at a broker's plank with a hide.
+"I have," said Karis. She did not take her eyes from the desk. "He has had a thing on that shelf, in sacking, for I do not know how long, and a hand in it that no other person knew. I walked in with fifty-two sheets, and they agree with it. I do not suppose that anything has agreed with him before."
 
-Cleon opened his eyes. "Give me a week."
+Brom cut the loaf against his chest into five, and laid a piece on the bare wood at the table's very corner, a long way from any paper.
+
+"Eat that," he said.
+
+"How long's it going to take him?" said Lira. She had sat down on the floor with her back against a table's leg and her right hand open on her knee, and she was working the fingers. "I only want to know how many days I'm a lamp."
+
+"I do not know. He has seen how the thing stands, for two hours, and he has not yet said what he saw." Karis took up the bread, and looked at it, and set it down. "It is his to say how long."
+
+At the desk the red eyes had come open. Cleon was looking down the gallery at three tables.
+
+"Give me a week."
+
+The eyes shut again. It had not been put as a thing that anybody was likely to refuse.
 
 Brom had the figures before the words had settled.
 
@@ -242,13 +258,17 @@ Brom had the figures before the words had settled.
 
 He stood a little apart, by the nearest bay. He had been looking at it, Cael saw, for most of two hours, and he had not put out a hand to it. There were tags on some of those bundles after all, on the under side, where a string went through; and the old man's fingers had gone toward one, and stopped a hand's breadth off, and gone back to the ash.
 
+Karis had turned back to them. She was the smallest person in that gallery, and she stood with her back to fifty-two sheets, as she had once stood at a broker's plank with a hide.
+
+"It is not mine to promise him," she said. "It is seven days of your backs, and of a card with a figure on it, in a town where not one of you ought to be. But I am asking you for it. I should like his week."
+
 "You'd want me to say it," said Cael. They were looking at him; they had been doing so since a plank at Lowmarch. "It's not a slip. There's nothing to take or leave. She's asked for a week, and it's hers."
 
 "A week," said Brom. "It's priced."
 
 Karis picked up the bread again. She ate it standing, with her eyes on the dark end of the passage that they had come down, where the black stone was.
 
-"I can give you one thing today," she said, when it was gone. "It is small. The rock was cut first. The dark stone was laid against the cut, which makes it second. And what the town has built on the top of both, in mortar, is third." She brushed a crumb from her glove. "That is three kinds of work, one upon another, and I have had my hand on all three since the second bell. I cannot put a year to any of them."
+"I can give you one thing today," she said, when it was gone. "The rock was cut first. The dark stone was laid against the cut; and what the town has built on the top of both, in mortar, is third." She brushed a crumb from her glove. "That is three kinds of work, one upon another, and I cannot put a year to any of them."
 
 "It's your tree," said Brom. "With the rings."
 
@@ -262,13 +282,11 @@ Nobody had forbidden it. There was a term against a carried light, and he carrie
 
 He did not at once know what it was that he was listening for.
 
-He had been in a great many buildings since he was fourteen, and in every one of them there had been a drawer. There was a counter at Denvash, with a pen on it. There was a house on a bluff, where a file had grown as thick as a man's hand; there was a district seat, and a borrowed office, and a counter in every town between them. He had learned to feel for the drawer on any threshold, as a dog feels for the one board in a floor that gives. Even on the kind side of the Line there had been a book, kept by a man with one arm; that one had been honest, and he had been glad to stand in it, and it had put him eleventh all the same.
+He had been in a great many buildings since he was fourteen, and in every one of them there had been a drawer. There was a counter at Denvash, with a pen on it. There was a house on a bluff, where a file had grown as thick as a man's hand; there was a district seat, and a borrowed office. He had learned to feel for the drawer on any threshold, as a dog feels for the one board in a floor that gives. Even on the kind side of the Line there had been a book, kept by a man with one arm; that one had been honest, and he had been glad to stand in it, and it had put him eleventh all the same.
 
 He stood among those shelves, and felt for it, and there was nothing to find.
 
 Paper rose on both sides of him to the roof, more of it than a hall above Ostrand had held, and not a leaf of the whole had a line for what he was. It could not have had. Whoever had tied those tapes had done it before there was a plate to stand a child on, or a word in square brackets to put after his name; he had that on the word of a small pale woman, who did not give her word lightly, and of a man who had gone without his dinner.
-
-He drew a breath of the dry cold, and let it go.
 
 It was a strange thing to find in himself. He would have expected to feel light; and he did, a little, as he had felt at a hedge when a rule was lifted off a road. But he did not know how to stand. He had braced against that drawer for so long that his shoulders had forgotten any other way to hang, and he stood between two walls of other people's records with his hands open and nothing to set them against.
 
@@ -282,7 +300,7 @@ It was a sound that brought him round. It was small and flat, like a spoon struc
 
 "That's him," said the voice like a hinge, from the far end, without stirring. "He pulls a wire. You've a quarter of an hour before he shuts his yard."
 
-They roped the boxes and went up. The second was lighter by fifty-two sheets, and Lira said that she could tell. The man came behind them as far as the iron, and drew the bar, and stood back against the wall with his eyes on their boots; and the clerk was waiting in the vault with his lantern, exactly where he had been left, as though he had not moved since the morning.
+They roped the boxes and went up. The man came behind them as far as the iron, and drew the bar, and stood back against the wall with his eyes on their boots. The clerk was waiting in the vault with his lantern, exactly where he had been left, as though he had not moved since the morning.
 
 The cut was harder going up. Vastin went first, since the slowest must set the pace, and Cael went two steps below him, where a man would fall. On the bottom flight a tread rocked under Brom's weight, and he stopped, and trod on it again to be sure.
 
