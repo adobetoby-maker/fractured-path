@@ -31,3 +31,6 @@ Both lanes were worked by the book's own author seat (claude-opus-5-5, no-source
 ## Joins sent to the listening proof for a second ear
 - Lane A: ch13:29–33; ch15:105; ch19:305–307; ch22:179–181; ch28:247–249; ch28:283 (now restored); ch29:299; ch14:47 and ch20:279; ch24:131.
 - Lane B: 31:71; 36:191 (now restored); 38:135; 42:193; 43:249–257; 45:147; 46:231; 48:57; 52:29; 54:249; 57:295; 60:97; and ruling 4 above (ch60, "the old man").
+
+## Step 4 — listening proof (Sol) and lock
+Four full-text proofs (ch1–15, 16–30, 31–45, 46–60; 395k, 321k, 318k and 352k tokens), each PASS with no required and no optional fix; the merged record is `listening-proof.md`. The coordinator accepted the runs as full reads after matching the first and last six words of all 324 scenes in the notes files to the manuscript. Every lane join sent for a second ear was ruled sound, and part 4 ruled that "the old man" in ch60 does not blur between Hesk and Vastin, so Lane B ruling 4 closes with no change. One coordinator line fix after the proofs: ch36:375, "Night of the 291st." → "Night of the two hundred and ninety-first." (the book's only Arabic numeral outside chapter headings; the author's own log line, not a protected unit). Overlap re-run after the fix: 0 unprotected in all nine movements; gates 0 in all sixty chapters. Hashes bound in `HASHES.sha256`.

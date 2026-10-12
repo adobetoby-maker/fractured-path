@@ -372,7 +372,7 @@ Cael turned his own hand over, empty, and the old man shut his eyes.
 
 There was a greyness over the roofs by then, and he washed at the pump, and the tar would not come off his palms; he had not known that he had leaned upon a barrel. He wrote three lines by the last of the lantern, with the book held at the length of his arm.
 
-*Night of the 291st. Followed the boots, with S., round the whole of the lower town. All of them asked; Shadow asked for three hours. One look that I didn't mean, with the twelfth, at the rope-walk: a grain in each eye. Not counted. Nothing opened.*
+*Night of the two hundred and ninety-first. Followed the boots, with S., round the whole of the lower town. All of them asked; Shadow asked for three hours. One look that I didn't mean, with the twelfth, at the rope-walk: a grain in each eye. Not counted. Nothing opened.*
 
 *He may go through the blue gate at night. I may not go through it at all, except as a figure. It is a hand wide.*
 
