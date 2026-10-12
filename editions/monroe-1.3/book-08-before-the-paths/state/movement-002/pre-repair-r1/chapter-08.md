@@ -1,0 +1,267 @@
+# Chapter 8 — Both Hands
+
+Lira took the longest stave in the bundle, on the two hundred and seventy-third morning, and nobody who knew her could have mistaken why.
+
+It was a hand taller than she was, and as thick as her wrist. A person could not have swung it with one arm, or even carried it far. She took it up from the wet grass by its middle with her right hand, and then, slowly, as she had set her fingers to a reed the night before, she put her left upon it a yard lower down.
+
+The square was as Teague had left it, twelve strides on a side, with a hazel peg at each corner and the bench along its western edge. The snow had gone from it. What lay there now was last year's grass, flattened and brown, with a skin of frost on it that would be water by the middle of the forenoon. Brom sat on the bench to keep the count. At its far end the tall man had come down by himself, as he had on most mornings of the cold term, with his spear upright between his knees and its new leaf of steel in a leather cap.
+
+"Three touches," said Lira. "Whoever takes it calls it. Over the pegs is a touch. And that's all the rules there are; I told you about the other one last night."
+
+"You told me."
+
+"Then don't look at my arm. Look at the wood."
+
+Cael had his own stave, which was no longer than his forearm and hand, with a rag bound round the grip. He stood four strides off. Wind was in his feet, as it was at the start of everything; it leaned him away to the right, with a burst ready behind the lean, and he told it no and felt his own two legs take the weight instead. The read asked next, civilly, for the ground under that stave. He shut it. No Paths meant the ten, whatever he called them, and he had written so. They were not much. He had bought them on this grass, a touch at a time, from a seven-foot pole.
+
+She came at him as a staff is meant to be used, with both ends.
+
+The right-hand end came first, low, at his knee. He took it on his stave and felt it through his elbow. The other end was already coming, over the top, for his left shoulder, and he got back out of its way. Then it was the right again, and the left, and he went round the square before her like a man backing away from a mill. She was quicker than he was, as she had always been. Her feet in that great boot found the ground under the frost as though they had laid it themselves.
+
+But he had been counted by her for ten mornings, a quick beat and a slow one, and by the fourth stroke he was counting her.
+
+It was the left. Everything that came from her right side came whole, with her shoulders and her hips behind it, and arrived when her body said that it would. Everything from the left came a little after. He could see the order given: her shoulder turned, and her weight went over. Then there was a wait, no longer than a blink, while a thin white arm that had hung in grey wool for a hundred and seventy days gathered itself to push the lower end of that stave round.
+
+*Out,* he thought, when the right came. *Home.* The left started. He did not go back from it. He went in down the outside of the wood, with his sleeve brushing along it, while the stroke was still on its way to the place where he had been; and he laid the end of his stave against her hip.
+
+She stopped as if she had walked into a door.
+
+"One," said Lira.
+
+She had called it without any heat, as she would have called it for a stranger. She stepped back to four strides, and rolled her shoulders, and he saw her left hand come off the wood.
+
+He did not understand at first what she had done. She had slid her right hand down to the stave's heavy middle, and tucked the upper half of it along her forearm, as a person carries a pole through a doorway. She had a short stout stick now, in one hand. She came in with it very fast, and low. The thing darted at his thigh and was gone before his own wood got there, and came again at his wrist; and when he covered the wrist she went past him on the mended foot, turning, and rapped him smartly across the back of the knee.
+
+"One all," he said.
+
+Brom had both feet flat on the ground. On the far end of the bench the tall man had not stirred, but his pale eyes were on the girl's left hand, which hung open at her side.
+
+"You let go," said Cael.
+
+"I won it."
+
+"You won it with one arm." He had not meant to say it so plainly, and having begun he could not stop half way. "You've fought with one for a hundred and seventy days, and you're better at it than I am with two. I can't touch you like that. But it isn't what you came out here for. You said so, on that floor, with a reed in your hand."
+
+She looked at him with her chin up. She had told him on this bench, in the snow, that he went back along a pole because he had never learned to do anything else. He had not liked hearing it either.
+
+"You went round my right," she said. "Every stroke. Three times you'd my left side open, and you looked at it and went somewhere else."
+
+"I went in on your left to get the touch."
+
+"On my arm's lateness. Not at my arm. There's a difference, and you know what it is, because somebody did it to you with a pole all the cold term and you wrote it down." She put her left hand back on the stave, a yard below the right, and shut the fingers one at a time. "I'll keep it on. You stop minding it. That's a bargain."
+
+"It's a bargain."
+
+"Then come and hit me properly."
+
+---
+
+He came in with his whole weight, since she had asked for that.
+
+It was a down-stroke, from his right shoulder at hers, such as he would have given Teague's bow or the boy. She did not slip it. She brought the stave up level in both hands and took him square, on the bare wood between her two fists, and the shock of it ran up his own arm to the teeth.
+
+He saw it run up hers.
+
+Her right arm took its half and held. The left took the other half, and it was the first blow of any kind that had landed on it since the hounds had it on a white floor. Her face went the colour of the frost. The fingers of that hand came open, all four at once, as if somebody had cut a string, and the lower end of the stave dropped a foot toward the grass.
+
+He checked. He had his next stroke begun, at her open side, and he held it in the air.
+
+"Don't you stop!"
+
+It came out of her between her teeth. He had stopped already, and it was half a breath before he could make himself go on. In that half breath he watched her do the thing that she had come out there to do. The hand was shaking; she looked at it, once, as she might have looked at a dog that had run from a noise. The fingers closed again on the wood. They closed in their slow order, the first and then the next, and when the last was shut she heaved with the whole of that side, and the stave's lower end came round under his guard and thumped against his right ribs.
+
+"Two," he said. "To you."
+
+She stood breathing. The colour was coming back about her mouth.
+
+"It told me," she said.
+
+"What did it say?"
+
+"That it's there. And that it didn't care for that." She opened the hand and shut it. "It's said so. I heard. Again."
+
+"Lira—"
+
+"You've still not struck at it. I felt where that was going, and it was going at my right. I'm not made of two sorts of girl. Hit the left."
+
+He knew what she was asking, and it was harder than anything that pole had ever asked of him. He had spent a cold term watching that arm held against her breast in a healer's knot. Every habit that he had was a habit of going round it. The tall man had fought him through a cold term and had never once struck at the taped side; but the tall man had a rule for it, and she had taken the rule away.
+
+He cut at her left flank, backhanded and hard.
+
+She got the wood there. It came late, with the slow hand driving it, and she had to give ground to make the time; she went back two quick steps, and at the second of them the great boot came down on the skin of frost with its heel first.
+
+The heel shot from under her.
+
+He saw her know that she was falling, and he saw what she did with the knowledge. She was going over to the left. She threw the stave clear with her right hand and wrenched her whole body round in the air, like a cat that has been dropped, so that the left arm came up and across her chest. She struck the ground with the point of her right shoulder and her right hip, hard enough to bring a grunt out of her, and lay there with a thin white hand held up off the grass.
+
+Wind had him half way to her before the fall was finished, and he told it no, and walked the four strides. He touched the toe of her boot with his stave.
+
+"Two all," said Lira, from the ground. "I didn't fall on it."
+
+"No."
+
+"I fell beside it. That's allowed."
+
+He held down his hand to her. She looked at it, and she put up the left.
+
+He did not take it. He had pulled her to her feet a good many times, on floors and on gravel, and always by the other. She lay with her arm stretched up to him, shaking a little with its own weight, and waited.
+
+"It's an arm," she said. "I've been told so by somebody who knows."
+
+He took it by the wrist, and she took his, and he leaned back. It was like lifting on a rope that he could feel every strand of. But it held; she came up off the frost, with wet grass all down her right side, and stood, and let go of him without hurry.
+
+She did not pick the stave up by its middle this time. She took it as he had seen another person take a pole on that same ground, with her two hands a yard apart about its centre, so that she had as much wood before the leading hand as behind it.
+
+"Last," she said.
+
+The left end came at him. It was slow, and he could see every part of it: the shoulder, and the weight, and the blink of waiting while the arm gathered. *Home*, said his legs, which had been taught to go in on exactly that. He went in.
+
+It had never been meant to arrive. She had sent the slow hand out to be seen, as a person holds up a lantern, and while he was walking down the outside of it the right-hand end came round from behind her hip with all her quickness in it and stopped an inch from his breastbone.
+
+She tapped him there, lightly, with the end of the wood.
+
+"Three," said Cael.
+
+"It's slow." She was grinning, with her teeth showing and her hair full of frost. "So I'll use it slow. It can't hit you yet. It can make you look at it."
+
+Brom had got up off the bench. Beyond him the tall man lifted his spear's butt a hand's breadth from the turf and brought it down, and sat as he had sat before.
+
+Lira saw it. She did not turn her head toward that end of the bench; but she stood a little straighter in her one great boot. Then her eyes went past Cael, sixty yards down the meadow, to the long eave. A square woman was standing there in an open doorway with a child's wrist between her fingers. She had plainly been standing there for some time. She looked at a girl with grass down one side and an arm hanging whole, and she said nothing whatever, and went in.
+
+"She saw," said Lira.
+
+"She saw you not fall on it."
+
+"I know what she saw." Lira bent for the stave that she had thrown, and took it up left-handed.
+
+---
+
+The last of the shelf went on the two hundred and seventy-fifth day, in one piece as long as the landing, and after it the river began to rise in earnest.
+
+Cael wrote his letter that afternoon, at the meal-sack end of the deal. He had owed it since a wash on the Stair road, to a tall exact person on a bluff who had written that he still lost every time he ran it. For the whole of a cold term he had not known what to say to a friend who was walking a bout through by himself in an empty yard. He knew now, since a girl with grass in her hair had shown him.
+
+*Ephram. You lose because you run it alone. I lost to a seven-foot pole all the cold term, three to none and then three to one, and each time somebody on a bench told me what I'd done before I had wiped the snow off. Find a bench. Tell Rooke the yard out here is quieter too. He'd not say it was worse. — C.*
+
+He put no place on it. He folded it, and laid a copper on top, and left the two together inside Hesk's book for the boat.
+
+It rained that night, for the first time since the snow, and in the morning Lira came to the board with her left arm held in against her and her mouth shut. A healer had told her that it would ache in the wet for a year. She did not speak of it. When Brom wanted the new hurdle lifted into its place between the shed's posts, she took one end of it in both hands before anybody else had stirred, and walked it round the drum with her jaw set, and lashed her end to its post herself.
+
+By the two hundred and seventy-sixth the water was over the landing's lowest plank. It came down the colour of a ploughed field, with a noise that could be heard in the inn's kitchen, and it brought whole trees with it, and once a drowned sheep, and once the better part of somebody's footbridge. The cable hung over it in a long belly. The ferryman sat on his keg from first light with his arms folded, and for an hour he did nothing but look. Half the meadow stood on the bank and looked at him, for there were nineteen fires along that grass now, and thirty carts with their shafts down.
+
+Seln had forty-six notches. Brom had asked Karis for the purse, and had it in his fist.
+
+"A hundred and eighteen," he said. "I'd have it in my hand when that sheet comes off his cordage. I'd like to see the man's face who tells me a thing is four-strand when I've the price of it showing."
+
+"He will not take silver," said Karis. "He said so on the far bank."
+
+"The ferryman won't. The broker will. I buy it of the one and I carry it to the other, and then there's a line gone out of your book that's had no figure on it since before the snow."
+
+The ferryman had got up. He walked to the end of the planks, and spat into the river, and watched where the spittle went.
+
+"Tomorrow," he said. "Light, the first time, to see what she does with me. Then people. I'll not put a wheel or a bale on her in that, for the broker or for anybody."
+
+Brom looked at the purse in his hand, and across a hundred yards of brown water at a stack under tarred sheets.
+
+"So it lies there," he said.
+
+"It lies there till she drops. It's lain all the cold term; it'll not spoil." The ferryman went by him toward the shed. "You've waited a cold term to pay me. I can wait a week to be paid."
+
+---
+
+Twelve days before that boat, when the count at Lowmarch stood at two hundred and sixty-five, Vastin had come down to the last ford on the east road with a stick in his hand. He had never heard of the count.
+
+It was the day on which five people waded a river in flood to reach a healer's gate, a long way to the east of him. He knew nothing of that. He knew that his knee had begun to complain at about the hundredth mile and had left off being civil at the two hundredth. The water before him was cold, and came to the top of his boots, and would have to be walked through.
+
+He walked through it. On the near shingle a flat boat lay with its bottom stove in, and two black posts leaned beside it. A board had been left face upward in the grass. The paint had gone out of its letters, but they had been cut before they were painted. *Foot. Horse. Cart, loaded.* At the head of it was the registry's seal.
+
+He stood over that board longer than a toll deserved. He had sat once on an inquiry into a ferryman's book, in a district on the coast, and had found for the ferryman. It had not occurred to him then to ask what became of the names.
+
+The station stood above the water on the farther side, and he would have known it for one at any distance, since he had inspected such houses for the whole of his service. There was the low stone house with its slate roof, and the bench under the wall, and the board for the day's hours, which the rain had washed clean; and behind the house stood the second building, with no window and a wide door. Somebody had mended the slates with twists of wire. Somebody had swept the floor. There was a heather broom by the hearth, and turf in the basket, and on the counter a book lay open at its ribbon.
+
+The wide door of the second building stood a hand's breadth open. He went as far as that door, and looked in at a plate lying in the floor under its frame, brown as an old coin, with dust on it. He had put his name for forty years to the protocol that governed every such plate. He had once had a boy stood on one, on a bluff, and watched it stutter and go dark; and when the form came round that would have stood the boy there a second time, he had declined. He had never told the boy why. He drew the door to, as he had found it, and went back into the house.
+
+He read the page that it was open at, since it was a station's register and he had never in his life walked past one.
+
+It was ruled in the printed columns that he could have drawn in his sleep. There was the day, and the name, and the age; there was the reading, and beside the reading a narrow column with no heading on it; and last there was *Entered*. The final line had a girl's name in it, and an age, which was fourteen. After the age there was nothing. A keeper's careful hand had come as far as the fourth column, and had not gone into it.
+
+He knew what belonged in that column. He had certified the instrument that filled it, in every district of the Compact, for longer than that keeper had been a man. He knew as well what the narrow one was for, having read forty of its entries on a scrubbed table in a borrowed room, each with an order clipped behind it.
+
+His hand went to the corner of the leaf. A register is turned back as a matter of course; an inspecting officer reads a year of it before he so much as asks for the keys.
+
+He was not an inspecting officer. He had left the seal of his office in the tray marked *done*, some months ago, on a morning of rain, with nothing written to go beside it. His clerk had come for that tray at the usual hour. Whether what he had done was a resignation, or only a man going down a stair, was a question for an office to settle, and he had not waited to hear it settled.
+
+He took his hand away, and left the book at its ribbon.
+
+Between the house and the windowless building a sill of stone was set in the ground from wall to wall, with a socket at either end for a bar. There had been a keeper here to lift that bar, and an officer, when the district sent one, to stand beside him and put out a hand for whatever a traveller carried. It was the last place on that road where it could be done.
+
+He was the only man within a hundred miles who had ever been such an officer. He stood at the sill in a drover's coat of brown frieze, which was too short in the sleeve and smelled of sheep; he had bought it at the last market inside the Line, and had left a grey one on its hook. He had an ash stick, cut out of a hedge. He had a pack with one strap mended in cord. Under the pack, flat against his back, lay a seat-courier's flat of waxed leather, which he had carried so for three hundred miles less a few. Inside his coat, in a fold of oilcloth, there was a single copied page.
+
+Nobody asked him for any of it. The wind went over the slates, and a door that had not been latched moved a little on its hinges.
+
+He stepped over the stone, bad leg first.
+
+---
+
+It took him twelve days to come down to the river, and in the course of them three people told him the same thing.
+
+He kept to the road, since there was nothing else to keep to. It was a country without a wall or a gate or a board of hours, and for the first two days he met nobody at all. He slept under a pine. He learned to put the bad leg down straight and to let the stick take what the knee would not, and he learned that he could do ten miles so, and not eleven.
+
+The first was a woman on a mule, at a ford where two rivers ran together. There was a cairn on his bank and another on the far one, and they did not stand opposite. He was looking at that when she rode into the water from the other side and came over on the slant, cairn to cairn, with the stream never above the animal's knee. She was brown and spare, and her hat had the brim cut away on the right. A hatchet hung at her saddle with its edge turned outward.
+
+"I am looking for five people," said Vastin, "who came east by this road before the last cold. Where would a man ask after them?"
+
+She looked at him as she might have looked at a letter that somebody held out, to judge what it weighed. Her eyes went to his boots, and his stick, and came up.
+
+"Go to the plank," she said.
+
+"Which plank is that?"
+
+But she had turned the mule already, and was riding it forty yards down the bank before she let it drink. She had not asked him who he was. He stood on the shingle and understood that he had never before in his grown life spoken to a stranger who did not know.
+
+The second was an old man with three carts, on a halting-ground beside the river, at dusk. There were rings of stones on that ground, and nobody had lit a fire in any of them. The old man came along his wheels while Vastin was lowering himself onto a stump, and looked him over without haste. He had pale eyes, with the skin about them folded very small.
+
+"You're paper," he said.
+
+Vastin had not heard the word used so. He did not need it explained.
+
+"I was."
+
+"It doesn't wash off. It wears. Keep quiet, and it wears quicker."
+
+"I am looking for five people who came this way. They would have had a cart, and a shod horse."
+
+"I know who they'd have had." The old man turned to go back to his mules. "Go to the plank."
+
+A boy came along the carts a little afterward, with a flat cake in his hand, and laid it on the stump at Vastin's elbow, and went away again without a word. It was warm. Vastin had been waited upon at tables for the whole of his service, by people whose names he had taken care to learn, and he had thanked every one of them. He looked along the carts for somebody to thank, and nobody was looking back. So he ate the cake, and put a copper on the stump where it had lain. The copper was there in the morning, with the frost on it.
+
+The third was a boy with a tally stick, on the western landing, on the evening of the twelfth day.
+
+Vastin had come over the last low rise in the afternoon and seen a river in flood, and on its far side a long low roof, and a taller one behind with two chimneys. There was a cable. On his own bank a stack of goods lay under tarred sheets, and a score of carts stood waiting with their shafts down, and by a post with a cord on it the boy was counting wheels.
+
+"It's over the water," said the boy. "Under the low inn. You'll not get there tonight; he's not run her since the snow. First light, if she lets him." He looked at the stick with some sympathy. "Go to the plank when you're over. He'll know them, or he'll know who does."
+
+There was a man on that landing who was hiring. He was brisk and well-kept, with ink on his cuffs and a clerk at his elbow, and he went along the waiting carters and the men without carts and looked at each as he would have looked at a bale, for the mark. He came to Vastin last.
+
+"Can you lift?"
+
+"A little."
+
+"Can you stand at a rail for six crossings, and look as though you were paying attention?"
+
+"I have done very little else for forty years."
+
+The broker laughed. Then he looked at the knee, and at the river, and the laugh went out of his face without any unkindness.
+
+"No," he said. "You'd be off the rail at the first cake of ice. I can't use you. I'd not give a copper for you tonight, and I mean nothing by it."
+
+"I took nothing by it. It is an accurate figure."
+
+It was the first valuation that anybody had put on him since he was a junior in a district house. He turned it over that night, sitting against a cart's wheel with the flat under him so that the damp should not come at it. He had been worth a seal, and a signature that a seat needed. He had been worth nine thousand findings. A man with ink on his cuffs had looked at what was left when those were taken away and had named the sum honestly.
+
+He did not mind the sum. What he minded was that he had planned no further than the handing over. He had decided, somewhere about the hundred and fiftieth mile, the order in which three things should be laid on a table; and he had never asked himself what a man does with his hands on the following morning.
+
+There was a sheet in the flat's lid which he had taken out at a dozen halts. It had a date at its head, in the office's reckoning, and he had read past that every time, as he read past the date on any return. What he looked at was its foot, where somebody had drawn a brush across a line. He knew that bar. He had not been able to leave it alone.
+
+The river went by in the dark with a noise like carts on a bridge. Over the water one light showed under the long roof. He watched it until it went out.
+
+At first light a long sour man came across with an empty boat.

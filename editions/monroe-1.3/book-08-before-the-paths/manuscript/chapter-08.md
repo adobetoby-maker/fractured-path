@@ -194,7 +194,7 @@ He took his hand away, and left the book at its ribbon.
 
 Between the house and the windowless building a sill of stone was set in the ground from wall to wall, with a socket at either end for a bar. There had been a keeper here to lift that bar, and an officer, when the district sent one, to stand beside him and put out a hand for whatever a traveller carried. It was the last place on that road where it could be done.
 
-He was the only man within a hundred miles who had ever been such an officer. He stood at the sill in a drover's coat of brown frieze, which was too short in the sleeve and smelled of sheep; he had bought it at the last market inside the Line, and had left a grey one on its hook. He had an ash stick, cut out of a hedge. He had a pack with one strap mended in cord. Under the pack, flat against his back, lay a seat-courier's flat of waxed leather, which he had carried so for three hundred miles less a few. Inside his coat, in a fold of oilcloth, there was a single leaf.
+He was the only man within a hundred miles who had ever been such an officer. He stood at the sill in a drover's coat of brown frieze, which was too short in the sleeve and smelled of sheep; he had bought it at the last market inside the Line, and had left a grey one on its hook. He had an ash stick, cut out of a hedge. He had a pack with one strap mended in cord. Under the pack, flat against his back, lay a seat-courier's flat of waxed leather, which he had carried so for three hundred miles less a few. Inside his coat, in a fold of oilcloth, there was a single copied page.
 
 Nobody asked him for any of it. The wind went over the slates, and a door that had not been latched moved a little on its hinges.
 

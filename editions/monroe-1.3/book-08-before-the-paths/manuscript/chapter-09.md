@@ -172,7 +172,7 @@ Cael knew the stance before he knew the face.
 
 He had seen a man stand so in a doorway in Ostrand, on a landing three flights up, before he would come into a room. He had seen it on a bluff, for three days, across four feet of table. It was how a person stood who had spent his whole life being sent into rooms to say what was in them, and who meant to be fair to the room.
 
-"Vastin," said Seln, in the voice that he kept for an inventory.
+"Vastin," Seln said, beside him, in the voice for an inventory, and it was not an inventory.
 
 He had said it very low, at Cael's shoulder, and to nobody on the planks. It was the first time that any of the six had spoken that name east of the Line.
 

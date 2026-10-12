@@ -94,9 +94,9 @@ He ate first. He ate as he had eaten the bread, neatly and to the end, and when 
 
 Seln had left the door. He had come to his place at the wall, where he could see both the board and the yard, and he spoke from there, to the board.
 
-"There is a thing that ought to be said, and I am the one of us who was trained to say it. In my old trade there is a grade of approach which begins exactly so. A man arrives with nothing: he has no seal, and no escort, and he limps. He has been wronged by the house that he comes from, and has left it; and he brings a gift, which is true, since only a true gift is ever opened." His hands were in his sleeves. "It is the best-made thing that the service has. I built two of them myself."
+"There is a thing that ought to be said, and I am the one of us who was trained to say it. In my old trade there is a grade of approach which begins exactly so. A man arrives with nothing: he has no seal, and no escort, and he limps. He has been wronged by the house that he comes from, and has left it; and he brings a gift, which is true, since only a true gift is ever opened." His hands were in his sleeves.
 
-"I know the grade," said Vastin. "I sat on the findings against three men who had worked it. Two of them had limps."
+"I know the grade," said Vastin.
 
 "And?"
 
@@ -216,7 +216,7 @@ It was all that he gave, and he saw the man take it as a thing given exactly, an
 
 "I should prefer—"
 
-"I know that you would, and you are right to. But I have carried it three hundred miles without saying it aloud, and I would have you meet it as it stands, in its own ink, before you meet it in my mouth. I am not a witness to what it means. I should only be putting my voice between you and the page."
+"I know that you would, and you are right to. But I have carried it three hundred miles without saying it aloud, and I would have you meet it as it stands on the page before you meet it in my mouth. I am not a witness to what it means. I should only be putting my voice between you and the page."
 
 Karis looked at him. She had refused, for as long as Cael had known her, to take any person's account of a stone that she could go and rub for herself; he saw her recognise her own rule in another person's coat, and give way to it.
 

@@ -48,7 +48,7 @@ He carried a piece of her Tide himself, the tenth of the ten, under a rule that 
 
 ---
 
-"What follows you?"
+"What follows you," Lira said.
 
 Seln had waited for the healer to finish. He had not moved from the door-post, and he asked it as he would have asked the weight of a parcel.
 
