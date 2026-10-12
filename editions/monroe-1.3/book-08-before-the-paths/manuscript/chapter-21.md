@@ -194,7 +194,7 @@ Vastin had gone very still.
 
 "No. Nobody did. It was the one honest reading of you that the Compact ever held, and it said that I could not make one."
 
-"So you'd have had the first of your two," said Cael. "I can't swear it; a plate's not what I've got. But there's nothing in that place that moves, and I think a plate's the same sort of tool as mine. It would have lain flat, and I'd have been two blanks on one file, and they'd have found their word." "Nobody has that but you. It's not in the book yet. I've not told her, and she's read every line I ever wrote."
+"So you'd have had the first of your two," said Cael. "I can't swear it; a plate's not what I've got. But there's nothing in that place that moves, and I think a plate's the same sort of tool as mine. It would have lain flat, and I'd have been two blanks on one file, and they'd have found their word. Nobody has that but you. It's not in the book yet. I've not told her, and she's read every line I ever wrote."
 
 "Why is it given to me?"
 
