@@ -1,7 +1,7 @@
 # Book 8 completion pass — plan (coordinator, 2026-10-12)
 
 **Book 8 "Before the Paths":** ch1–60, nine movements. Movements 1–8 are closed and published; M9 (ch54–60,
-the last) is being drafted. This plan runs once M9 closes. Review seat: Sol (gpt-5.6-sol, ChatGPT plan).
+the last) closed on 2026-10-12. All nine movements are closed; this plan now runs. Review seat: Sol (gpt-5.6-sol, ChatGPT plan).
 The whole book was drafted by the no-source method; every movement had a Sol source-distance read, a plan /
 canon / protected-text audit ruled on by the coordinator against the edition's own closed text, one
 same-author repair round and a Sol recheck.
@@ -12,7 +12,7 @@ same-author repair round and a Sol recheck.
 M5 3%/14%, M6 3%/18%, M7 1%/13%, M8 2%/9%. Overlap is 0 unprotected in every movement. Two chapters reach
 6% skeleton or more: ch38 (7%; the leaf read aloud, whole, protected) and ch40 (6%; the fire and pole two,
 protected). The whole-arc read's §11 re-judges every chapter at 6% or more by reading, with protected text
-excluded. Append M9's line before Step 2.
+excluded. M9 (closed 2026-10-12): 3%/16%; ch60 reaches 6% (the ledger, the letter and the closing prose, all protected). Three chapters in all at 6% or more: 38, 40, 60.
 
 ## Step 2 — Whole-arc read (Sol, fresh context)
 

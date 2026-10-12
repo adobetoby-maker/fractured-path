@@ -67,3 +67,12 @@ chapter-51.md	sentences=250	skeleton=4%	close=10%
 chapter-52.md	sentences=247	skeleton=3%	close=12%
 chapter-53.md	sentences=214	skeleton=5%	close=11%
 TOTAL	sentences=1689	skeleton=2%	close=9%
+== book-08-before-the-paths M9 (ch54–60)
+chapter-54.md	sentences=260	skeleton=0%	close=11%
+chapter-55.md	sentences=260	skeleton=2%	close=17%
+chapter-56.md	sentences=224	skeleton=0%	close=11%
+chapter-57.md	sentences=240	skeleton=5%	close=20%
+chapter-58.md	sentences=256	skeleton=4%	close=11%
+chapter-59.md	sentences=232	skeleton=2%	close=20%
+chapter-60.md	sentences=200	skeleton=6%	close=20%
+TOTAL	sentences=1672	skeleton=3%	close=16%
