@@ -1,0 +1,341 @@
+# Chapter 31 — One at a Time
+
+Karis sat up that night against the boxes, with the lantern turned low between her boots and her notebook open on her knee.
+
+She had not struck a point for it; Brom had lit the thing at the kitchen fire, with a spill, as he did every evening now, and it gave a brown uneven light that she would once have been ashamed to work by. She had got used to it in six nights, and it appeared that a person could get used to a great deal.
+
+A man had spoken to her at the bell.
+
+She did not go over what he had said. She had it by heart, every word, with the place where his fingers had gone back to the tape; and she had put the whole of it into the box where she kept things that might be so and could not yet be shown. It was a large thing for that box, and the lid would not quite shut on it.
+
+He had said another thing, three days before, from his chair, with his eyes shut, and had said it of himself. She had not answered him. She had stood at the Hall's table and known it for her own as well. She had walked into a cook-house with fifty-two sheets and a lifetime of being smiled at by better-placed people, and a stranger had cleared three tables and given her his cushion and told her that he knew the hand; and she had not understood until then how light a pencil is in the fingers of a person whom nobody attends to.
+
+The pencil was not light tonight. A man had waited ten years with a board, and thirty with a lamp in one hand, and he was going to build upon whatever she said next.
+
+So she would say nothing next. She would read a number.
+
+She turned back a leaf, to where she had copied the plank's four rows that forenoon, squared to a hand's breadth, with the lamp held low upon the left.
+
+Twelve signs, and after them two rings and two pecks; nine signs, and a ring and four; twelve again; seven, and a ring and two. She had that much, and it was sound; a child could have had it. The cutter had counted his own work in figures, and his figures were of the plainest kind that there is.
+
+It was what stood after the figures that had kept her awake.
+
+There were six signs after the first twelve, and four after the nine. After the second twelve there were six again; and they were the same six, sign for sign, in the same order, as had followed the first; and after the seven there were five.
+
+She knew what she thought it was. She had known it on her heels in front of the board, with a girl asking, and had shut her notebook on it.
+
+A careful man writes a sum twice, once in figures and once in words, so that the one may be checked against the other, and a clerk at any counter did it still. If this cutter had done it, then those little groups were the names of his numbers; and if they were, each sign in them was not a thing that bore or hung. It was a sound.
+
+It was a handsome idea, and it explained why two twelves were followed by the same six signs. It did not explain it any better than three others that she could think of. The six might be a maker's mark, set on every full row. They might say *checked*.
+
+She was hoping, tonight, harder than she had hoped for anything since she was a girl; and a person who knows what she is hoping to find will find it. Something else would have to say what those signs were, which did not care.
+
+She took a clean leaf, and headed it in her small upright hand.
+
+*What would have to be so. And how it could fail.*
+
+If the groups were number-words, they were words in some tongue, and she did not know the tongue; but there were not many that it could be. The stone of that archive was older than the town's first wall, and the oldest paper in it would be the nearest in age to whoever had cut the board. She had been told that the old town's first tally-books stood in the eastern gallery, on shelves that she had not yet seen. A tally-book wrote its numbers out in full, as every clerk's did.
+
+She would not trust her memory of how such a hand spelled; she would have the book itself.
+
+And she would not look at the board again until she had written down, from the book alone, what the board would have to show.
+
+That was the whole of the method, and she set it out in three lines. From the old hand's own spelling of *twelve*, and of *nine*, and of *seven*, she would write which letters in each were alike, and which letter of one word stood also in another; a pattern of same and different, and nothing more. She would fold that leaf; then she would carry it to the plank, and lay it beside the cutting, and see whether the signs repeated where the letters did.
+
+If they did not, in a single place, the idea was dead, and she would have killed it herself before it could be built on.
+
+Under the three lines she wrote the ways in which it could fail, and there were five; and somewhere behind the fifth, with the lantern guttering and Brom breathing like a felled tree, she understood that she had not been so nearly content since a store behind a chimney.
+
+---
+
+The book came down from the eleventh shelf of the eastern gallery, on the two hundred and eighty-eighth day, in a girl's right hand.
+
+Karis had asked for it at the desk, before the man had turned his first page. He had told her the bay without looking round: the third on the left, the tall books, as high as the roof. He had said that the lamp might go there and come back, and that it was not to be set down on any shelf.
+
+So the boy carried the lamp, and held it low, and Lira went up a ladder that had not borne anybody's weight in a lifetime.
+
+She went up it like a cat going up a curtain. Karis stood at the foot with her neck bent back, and saw the great boot find each rung, and the left hand come to the rail a beat behind the right. It did come; it closed, and held.
+
+"Which?" said the girl, from the dark under the roof.
+
+"The oldest. It will be the one whose back has gone."
+
+It was as broad as a paving stone. It came down the ladder against a thin chest, a rung at a time, and it was put into Karis's arms with a cloud of that pale dust.
+
+She did not take it to the board; she took it to the bare end of the long table, a good way from any sheet of her own, and opened it at the middle.
+
+It was a tally of loads, as she had known that it would be. A cramped brown hand had written, line under line, what had come in at some gate and what had been paid on it; and the hand wrote every figure out, in full, in the old spelling.
+
+She found *twelve* within the first leaf, and *nine*, twice, spelled alike both times. *Seven* took her longer; this town had brought in a great many things by the dozen and the score, and few by sevens.
+
+She did not look toward the plank at all; she kept her shoulder to it.
+
+On her folded leaf she wrote the three words as that clerk had written them, one under another. Then she wrote the pattern, as she had sworn to, and nothing else. In the first word, six letters; the third and the sixth alike. In the second, four; the first and the third alike, and its last the same as that pair in the word above. In the third, five; its second and fourth alike, and the same again as that letter; its third the same as the fifth of the first word; its last the same as the first of the second.
+
+She read it over. It was a dull little table of sameness, such as a child makes of a counting-rhyme, and it had no sign in it, and no wish.
+
+"Lamp," she said.
+
+She had not meant to say it so. The boy came, without a word, and went down on one knee a hand to the left of the plank; and she saw the corner of his mouth, and was too frightened to be ashamed.
+
+She laid the leaf on the rock at the board's foot. She put the point of her pencil in the air above the first group, the six signs that followed two rings and two pecks.
+
+The third sign was a small upright with a hook. She went along. The sixth was an upright with a hook. She set the pencil's point under the one and the tip of her little finger under the other, and had the pair of them between the two ends of her own hand: third and last, as the old clerk's *twelve* had them.
+
+Her hand had begun to shake, and she stopped, and held it with the other until it was still.
+
+The four signs after the nine. The first, a thing like a gate; the third, a gate. The last was an upright with a hook.
+
+She did not let herself breathe out. The seven. Five signs. The second was the hooked upright, and so was the fourth. The third was a sign like a fork. She kept her pencil on it, and said *up*; and the boy carried the light up the plank to the first row, where the fifth of the six stood out of the dark, and it was a fork. He brought the flame down again without being told. The last was a gate.
+
+There was not one place where it failed.
+
+She sat back on her heels, and the rock was very cold through her skirt, and the lamp stood up beside her like a painted one, and she could hear the man at the desk turn a leaf.
+
+It was a tongue. It was the old town's, or that tongue's grandmother; and a man who had cut orders into the floors of three buried places had counted his rows in it, as a carter counts sacks.
+
+"Well?" said the rough voice, from the desk.
+
+"They are the figures over again. In words."
+
+"Whose words?"
+
+"This town's. From before its walls; or kin to that, and near."
+
+He grunted, and it was the sound that he had made at a counter when she told him that her light was always on the left, and she had learned by now what it was worth.
+
+She wrote them in a column on a fresh leaf, each sign and the sound that it stood for. The hooked upright. The gate. The fork. There were eight when she had done, from three small words.
+
+She found then that she was sitting on the cushion, and she did not remember crossing to the chair. The man had turned his head, by a very little, and seen where she sat; and he said nothing about it, and went back to his page.
+
+---
+
+"Read the rest, then," said Lira, at noon.
+
+She was on the floor against the table's leg, with her bread, and she said it as she would have told somebody with a key to open a door.
+
+"I have eight letters."
+
+"Of how many?"
+
+"Twenty-three." Karis had that figure now. The last of the Ring's eleven had been laid that morning, and she had gone down all fifty-two with her pencil upright. "Seven kinds bear. Eleven are nothing at all. And there are twenty-three which are carried; and those, it appears, are what a word is spelled in."
+
+"That's a third of them. You could have a go at it, with a third."
+
+"I could. I should be very good at it." She brushed dust from her glove. "I should look at a word with two letters in it out of six, and I should know at once what I wished it to say, and I should fill the other four from my own head. And then it would say that for ever. I should never see it plain again."
+
+"So what d'you do?"
+
+"I look for more numbers."
+
+It was slower than anything that she had ever done, and she did it through the whole of that afternoon, with the lamp moving beside her and the man's reed going over her shoulder from time to time, to tell her where a run began.
+
+She went along the carried signs only, looking for a group of the right length, in which every sign was one of her eight; and on the fifth sheet of the Ring she found one. It had three signs, and she did not say it aloud. She wrote down what the three letters were, in their order, and then she turned to the tally-book, and it was *ten*.
+
+A carving under a ring of stones had told somebody to do a thing ten times, or to ten of something. She did not know which. She knew ten.
+
+On the fourteenth sheet of the Stair there was a longer one, of six signs, and all six were hers. She spelled it out with her lips shut. It was the number after ten; and the hooked upright stood in it three times over, exactly where the old clerk's letter did.
+
+That gave her nothing new; it only made the eight more certain.
+
+The new ones were harder, and she would not be hurried.
+
+There was a group on the Ring's ninth sheet, of five signs, which began with one of hers and ended with her hooked upright, twice. Two in the middle were strangers. She knew what number, in that old spelling, was shaped so. She could have written the two strangers into her column then and there.
+
+She covered the place with her glove.
+
+"That's one that you know," said the boy.
+
+It was the first thing that he had said to her below ground since the day they came. He had seen her hand go down.
+
+"It is one that I suspect. I shall have it when it is spelled for me a second time, in a different place, by a word that I did not choose." She took the glove away. "If I am right, there will be a longer number somewhere that has those same two signs in its middle. If I am wrong, there will not."
+
+It was on the Hall's eighth sheet, near the foot. It took her until the reed had gone twice more round the long table to find it: eight signs, with the two strangers standing second and fourth, and everything else in it hers.
+
+She wrote them into the column, and that made ten.
+
+They had come to her from three floors, one at a time, like guests to a house in bad weather. She thought of that, and thought it fanciful, and let it stand.
+
+There were other groups, which were not numbers.
+
+She saw them now on every sheet, and had no means of not seeing them. One stood four times in the Stair's twenty-nine: six signs, always the same six, always after a white. She had four of its letters. She had turned the old tongue over in her head, before she could stop herself, and found a word that would lie in those four as a hand lies in a glove.
+
+It was a word that she very much wished to find there.
+
+She did not write it, and she did not say it, even in the place behind her eyes where she said things first; she turned the notebook's leaf over upon it and went back to the tally-book.
+
+There were two other things in that gallery which she did not look at.
+
+One lay on a shelf above the desk, beside a jar, tied across both ways in brown tape. He had put two fingers on it and told her what it was made of; she had wanted it from that moment as she had once wanted a page with four signs upon it, and she had not asked.
+
+The other was in her own coat: a single sheet, folded twice, in oilcloth, in an old man's square hand, with one line on it and a word that she had never met in any stratum. The man at the desk had made it a term that nobody should tell him what a thing was before he had looked, and she found that she had made the same term for herself.
+
+Both could wait until she could read; she had waited a good deal longer for less.
+
+"How many?" said the rough voice, when the bell was near.
+
+"Ten."
+
+"Of twenty-three."
+
+"Yes."
+
+"You're slow."
+
+"I am."
+
+"Good," said Cleon; and he bent to his page.
+
+---
+
+Seln was at the ladder's foot that evening before they had the boxes off.
+
+He did not wait for the pot; he stood in the round of the lantern, with his hands in his sleeves, and he gave it as he would have given a count of days.
+
+"We are looked at."
+
+Brom set his box down very slowly, with his knees.
+
+"Two nights ago there was a man in the smith's doorway, across from this arch, at an hour when nobody has business in a doorway. I saw him once. I did not speak of it, since one is not a finding." The mild voice did not alter. "Today there was a porter on the kerb opposite the cut's head, in the lane, with a frame at his feet. He sat there from the second bell until the third, and nothing was put on the frame. I do not know his face. I know his boots. They were a horseman's, with the spur-rests cut away, and so were the boots in the doorway."
+
+"By who?" said Lira.
+
+"I cannot tell you whose he is. I can tell you how he stands, and it is how I was taught to."
+
+Nobody spoke; Karis had her notebook shut against her chest in both arms.
+
+"It's the card," said Brom. "Those two in blue had never seen one. They'll have said so at a table by the first night."
+
+"That is the likeliest road. I should have used it myself." Seln's eyes went, for a breath, to the gable. "There is another. I said in a back room, eleven days ago, that a paper does not lose its routing note by accident. A man was sent such a paper, and he walked; and whoever sent it knows what was written on the sheet."
+
+"I told you then that I could not tell the one case from the other," said Vastin. He was standing under the blanket, with the stick. "I cannot now. I looked for the hand that sent it, and I did not find one."
+
+"I do not say that they are yours. I say that a man may be followed without being told."
+
+The old mouth had opened, and Cael saw it shut again, and saw what it had shut on.
+
+"I was about to post a watch," said Vastin. "By turns, with a relief at the half-night, and a word."
+
+"That's one," said Lira.
+
+"It is. I am obliged to you for the count."
+
+They were all looking at Cael by then, as he had known that they would be.
+
+He went over what he had, and it took no time at all, since it was so little. He had ten things in him, and not one of them could be opened on that hill; a declaration under those walls drew a clerk, and a clerk was the end of four people. He had a lamp to hold. He had a girl with a slow arm, and a man with two bad shoulders, and another with one leg; and a researcher who had this afternoon learned the tenth letter of a tongue that nobody had read in the life of the town.
+
+"We don't move," he said. "The loft's ours for tonight, and I'd pay again tomorrow. There aren't three houses under this wall that'd take seven bowls and no names. If we shift, we've told him that we saw him."
+
+"And the way up?" said Brom.
+
+"It's the cut. It's that or the square, or a beam with a book on it. We knew that at the start." He looked at Seln. "You'll be on that roof."
+
+"From first light. I shall see both ends of it."
+
+"Then nobody walks it alone, and no box gets set down where a hand's not on it. And nobody opens anything. Whatever comes." He heard how it sounded, and did not soften it. "If we're pushed, we're porters. We've hands and backs. That's all that anybody in this town has seen of us, and it's all that they're going to see."
+
+"I've a knife," said Lira.
+
+"You've a knife. That's a hand."
+
+Karis let her breath go.
+
+"I have five days of his week," she said. "I should like to be alive for them."
+
+"So'd I," said Brom, and went down for the pot.
+
+It was a quiet meal; and when the bowls had gone round, Lira leaned over from her pallet.
+
+"He went for that lamp twice today," she said, in Cael's ear. "The old one. I'd been counting. It was four yesterday."
+
+"I saw the second."
+
+"He's getting better at it. Or he's only getting tired."
+
+"I don't think that he knows which."
+
+"No," said Lira. "Nor did you."
+
+---
+
+Brom paid at the half-door in the morning, on the two hundred and eighty-ninth day, and the woman swept two marks off her ledge with the side of her hand.
+
+"A hundred and thirty-four," he said, to the purse.
+
+He had his right boot off before he went up the hill; he sat on the mounting block, and unwound a strip of linen from two toes, and bent them one at a time.
+
+"Ten days," he said. "She said ten. That's her to the hour."
+
+"You've two shoulders owing," said Lira.
+
+"That's shoulders. I'm speaking of a foot."
+
+Nobody sat on the kerb at the cut's head when they came down the lane. Cael looked at every doorway. Then he looked at the roof of the last building, where a parapet ran along above the slot, and saw nothing whatever, and took what comfort he could from that.
+
+Karis wanted three more of the tall books, and so the lamp went into the eastern gallery again, and Lira went up.
+
+She handed them down this time, since they were the size of hearthstones, and there was nobody at the ladder's foot who could take them. Brom could not lift either arm above the elbow, and Cael had the light.
+
+"You," she said, from the seventh rung, to a brown coat. "You've a hand. Hold these."
+
+Cael heard the stick shift.
+
+"I can take them against my chest, with the one arm," said Vastin, "and I can stand under them. I cannot undertake to carry them to a table. I should require the other hand for that, and it is spoken for."
+
+"Did I say carry?"
+
+"You did not. I wished it to be clear."
+
+He stood at the foot, with the stick's head in his right hand and his left arm crooked, and she put the books into it one upon another, as wood is stacked. He held them as he would have held a seal on a cushion, with his chin lifted and his eyes on nothing; and when the third was laid on, and the dust of it went into his face, he did not sneeze. Cael thought that he had seldom seen a person so pleased to be a shelf.
+
+Lira came down.
+
+She did not come down the last of it. At the fifth rung she let go with both hands, and stepped off backward into the air.
+
+He had the lamp, and could do nothing but watch. She dropped the height of a man, and her knees went, and she took the whole of it on her two feet and her haunches, with the left arm folded tight against her ribs; and she came up out of the crouch without having put a finger to the rock.
+
+"Don't," said Cael.
+
+"I didn't. Did you see that arm touch anything?"
+
+"She told you not to fall on it."
+
+"She told me not to fall *on* it. I've not. I've done that eleven times since the first day, down the dark end, when nobody had the light." She was breathing a little quickly, and her chin was up. "I can't use it to catch me. So I'm learning to come down without it. If I'm ever to go off something in a hurry, I'd sooner not find out then where it goes."
+
+"And if you're wrong, it's the arm."
+
+"If I'm wrong, it's the arm whether I've practised or not."
+
+He had nothing to set against that; he was afraid for her, and he had said so once, which was all that she had ever allowed him.
+
+"It didn't touch," he said.
+
+"No," said Lira. "It didn't." She took the top book off an old man's arm. "You can put those down now. Thank you."
+
+"It was no trouble," said Vastin; and it was plain that he meant it.
+
+Cael knelt at the plank through the afternoon.
+
+Karis had the tall books open along the table's edge, and the man with the reed was going back and forth between her sheets and the board, for a row that she wanted. It was dull work for a lamp. He let his breath go long, and watched the grey head and the square pale hands, as he had watched them for four days, with nothing else to do.
+
+"Lef—"
+
+The flame was there.
+
+He had moved it before the word. He knew that he had, since the word had been cut off in the man's mouth; and he had not decided to. He went back over it: the eyes had been at the foot of the third row, and they would go up from there, and across, as they always went. He had put the light where they were about to be.
+
+It happened twice more before the bell.
+
+He turned it over on the cold rock, with his forearm along his thigh. He had thought that he was learning one man's habits, as a groom learns a horse. That was not quite it. All the looking in that gallery ran one way. It began at the low left corner of whatever was looked at, and it climbed to the right; and it did so on the plank, and on every sheet of fifty-two, and it had done so at a cook-house counter. The board stood propped against the table's edge, with its head a little back; and he found that he knew, without the grey head's help, which end of each row the reed would come to first.
+
+He could not have said how he knew, since he had not been told anything; and he did not make a finding of it. He put it with a cord that read short, and a hair, and a wish; and the heap was getting large.
+
+"Thirteen," said Karis, at the bell. She had dust to the elbows. "Three more today. They came out of the Stair together, in one word, and I had to wait for the Hall to spell it again."
+
+"Of twenty-three," said the man.
+
+"Yes."
+
+"You've four days."
+
+"I know what I have," said Karis; and she shut the tall book very gently, as a thing is shut that will be wanted in the morning.

@@ -44,7 +44,7 @@ There was one thing that he permitted himself, since it was not a conclusion. It
 
 He looked along the tables at the boy.
 
-Three nights ago, in a stair, six people had come to see what that boy was; and he had stood upon a step with his stick, on the eleventh day of thirty, and put a wall in front of him. He had not known then what stood behind it. He had said so, on a pallet, when he could not hold a bowl. He knew a little more this afternoon. He found that he would do it again, knowing; and that in a day which had taken the floor out from under forty years, it was the single act of his that he could look at without wishing to revise.
+Three nights ago, in a stair, six people had come to see what that boy was; and he had stood upon a step with his stick, on the eleventh day of thirty, and put a wall in front of him. He had not known then what stood behind it. He had said so, on a pallet, when he could not hold a bowl. He knew a little more this afternoon. He would do it again, knowing; and that in a day which had taken the floor out from under forty years, it was the single act of his that he could look at without wishing to revise.
 
 ---
 

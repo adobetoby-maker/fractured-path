@@ -1,0 +1,321 @@
+# Chapter 44 — A Wall's Count
+
+Teague counted them off the scow, from the window on the rise, as he counted anything that came over that river.
+
+There were six, and there was no mule; and he marked the mule's absence first. A crew that went west with a beast and came home without one had sold it, or eaten it, or lent it; and that crew did not sell what belonged to a healer. So she was off on her own road, with the beast under her, and they had carried three boxes on their backs for as long as she had been gone.
+
+They carried them poorly: the big one had his on the right shoulder, which was the bound one, and neither of his arms came up above the elbow when he shifted it. The small pale one walked with her left hand laid flat against her coat. The girl had both her arms, which was new since the thaw; she used the left as a person uses a tool that has just come back from the smith. The boy with the book was sound, and came last but one, as he always had.
+
+Last of all a stick came off the planks, and a stiff leg after it, and then the old man.
+
+Teague looked at him longer than at the rest.
+
+He had been home from the shoulder hold for a week. He had taken that salt up himself, behind the first carts, when he might have sent it with the bow and saved his own boots; the bow had said so, and had been right. But a cut that had eaten three carts in one cold term had been opened in an afternoon by the eleventh crew on Pike's cloth, and Teague had wished to see the ground.
+
+There had been little to see, since it was a wet road between two banks. He had stood in it for a quarter of an hour, and then he had gone up to the gate, where a grey factor with a crook was counting sacks; and he had asked what was done there, and by whom.
+
+He had been told about a rock, and a knife, and a boy who lit a thing no bigger than a barley grain and walked away from it. He had expected as much, since those five fought as he would have had his own fight, with nothing showing. Then the factor told him the rest.
+
+Eight had come down that road at a run, and had stopped in the air.
+
+He had made the factor say it twice. The old man with the stick had stepped out, and struck the ice once, and there had been a thing across the cut from one bank to the other, as high as the scree. Eight hounds broke on it. It stood for exactly as long as the man never lifted a foot; and when it went, he went down with it, like a tent with the pole drawn.
+
+Teague had never seen an Iron Wall. He had heard of them, as a man who works the holds hears of what is kept behind the walls of towns. They belonged to tribunals, and a person did not come by one in a meadow. Whoever carried such a thing up a border road on a stick had been somebody, a long way from here, and had left off being it; and Teague was not such a fool as to ask what.
+
+He had asked something else, and it was what a captain needed to know. Could the man move?
+
+He could not. That was the whole of it, and Teague had carried it home down a moor, turning it over.
+
+The Force went out along a line and was done. He had been paid for that for the better part of his life, and it had made him first on a sheet of sailcloth: he could put his palm to a thing that six men could not shift, and it shifted. It was a thing for roads: a block came down on a ledge, or a wheel went into a ditch, or a gate would not open; and he arrived, and it was settled, and the wrist kept the account.
+
+A wall did not arrive. It stayed. It could not come to the trouble; the trouble had to be brought to it, and whoever stood behind it had to be worth the bringing. He had seen that much from a factor's telling; the boy with the book had seen it from two feet away, and had gone and stood there.
+
+So a wall wanted a count. It was the first thing that such a tool asked of whoever meant to use it: how many are behind? A captain who did not know that figure before the thing went up would learn it afterward, by who was left outside.
+
+He had it counted before he was off the moor. There were their five, and the old man made six; there were his own three, and himself; and it made ten.
+
+The scow's bow touched. He watched six people go up the bank toward the lower inn, with a stick behind them, and saw that the stick was no longer a dozen strides back.
+
+---
+
+"It pays nothing," said the bow.
+
+He was on the settle, with the bad leg to the heat, running a thumb along a string that did not want it. He had said the same on a night of snow, and again when the ice went; he was a man who liked a thing said three times before he would leave it alone.
+
+"It pays nothing that I can show you," said Teague.
+
+"Then what's it for? We've the cloth. We've salt work waiting on four holds, and a weir at the mill that wants three stakes yet. I'm not a young man, and that's a week's walk to stand at the edge of a field and watch another crew go into it."
+
+"We'll not be watching."
+
+"We'll not be going in to any purpose, either. You said it yourself, at their hearth. In there I'm a man with a bad hip."
+
+Teague did not answer at once. He owed that man a true answer; the bow had walked behind him for a great many cold terms, and had never once asked to be told a comfortable thing.
+
+"I've been first on that sheet a long while," he said. "It says who brought the goods home. That's all it was ever for, and I've never asked more of it." He looked at the fire. "For the whole of a cold term the only thing in this country worth a man's knowing went on in a shed down that bank, behind a hurdle, with a guard on the door. I was first, and I was on the wrong side of the hurdle. I didn't care for it."
+
+"So it's pride."
+
+"It's that I mean to be at the front of the thing. I'll not dress it. A captain who tells his people that he's going for their sake, when he's going for his own, gets them killed for a lie." He turned his head. "You're not bound. I said my crew comes, and I said it to fifty people. I never said that every man of it must."
+
+The bow snorted, and let the string go.
+
+"I'd like to see you find the mill without me," he said. It was his whole answer, and Teague took it as he would have taken a thumb on a slip.
+
+The old woman had not looked up from her board, where she was cutting linen into lengths with a small knife.
+
+"There's a valley up the north water that breaks its legs every dry spell," she said. "It's done so without me before now. I'm coming for that wrist. I'll not be counted, and I'll not be told where to stand."
+
+"I'd not have counted you."
+
+"See that the others don't."
+
+The boy came with the cloth.
+
+There was no frost to speak of; the ice had been gone more than four weeks, and the joint had not talked since the board came off. He brought it all the same, wrung out of the kettle, on his two palms, as he had on every night since he joined. Teague held out the arm; he had tried to tell him once that it was not wanted, and had seen the boy's face, and had let it be wanted.
+
+"Ten," the boy said. He had been listening on the stair, as he listened to everything. "You said ten, to him. Their six, and us."
+
+"I did."
+
+"Is that four of us?" He had gone red. "Or is it three, and me carrying?"
+
+Teague looked at him, and he was all wrists still. He had grown the width of two fingers since the snow, and had learned from a girl on a bench to wait for a pole; but he went at each thing a half-beat before he had seen the whole of it, and nobody had yet got that out of him.
+
+"You've two legs, and a Path, and you do what you're told a little too soon," he said. "That's a man. I can count as far as four."
+
+The boy nodded, with his whole head, like a horse; and he went away to the stair very quickly, so that nobody should see what his face was doing.
+
+Teague laced the leather, and stood up, and went over his terms once more, as he went over a load before the ropes were drawn.
+
+There were ten on the count, and neither healer; a healer who is counted is a healer who is sent. Whatever the thing paid was to be shared by that count, and so was whatever it cost. The field was his. When it came to steel on a road there would be one voice, and he had heard the boy admit, with his feet, in a square of snow, whose voice it ought to be. And the reading was the pale one's. He could read a slip, and a ledger, and a man's hands; he could not read a calfskin with four rings on it, and he would not stand at her shoulder pretending.
+
+There was one thing more, and it was the name.
+
+He had seen two crews lie up together for a cold term and come out of it as one. He had seen them bury each other's dead as kin. It was a fine thing, and it was how a captain came to turn back for a man who was not his, on a ledge, with his own people strung out behind him. He had four, and he meant to walk four home. He would call the thing by the smallest word that would hold it, and he would not let anybody make it larger.
+
+He put his thumbs in his belt, and went down the bank.
+
+---
+
+The long room of the lower inn was as full as Cael had ever seen it, and Pike had the bench under the cloth.
+
+Every crew that had lain up for the cold was there, and a good many carters. The hide-woman had a stool by the hearth, and the three grey men had their board on a keg and were not throwing. It was the hour at which a one-armed man read out what the day had brought to his plank; and the room had gone quiet for it, as it had on a night of first snow, when a crew came in with white on its shoulders.
+
+Brom did not wait to be called. He went down between the benches with his box still on his shoulder, since he could not get it off without help, and laid a strip of bark on the open ledger.
+
+"That's yours," he said. "To draw the tack on."
+
+Pike took it up, and held it to the candle in his double fashion; a thumb had been set to its foot, in grease, and had left a mark like a crook.
+
+"The shoulder hold. I had a carter in here ten days since, with salt money, who said that he'd come down that cut with his wheels in running water and never a finger lit." He dipped his pen. "I don't write on a carter's word. I write on a thumb."
+
+He wrote, and said it over, twice, to the room.
+
+"*Clearance; the cut below the shoulder hold. Eight. Twenty; paid.* That's twelve lines." The stone went back on the leaf. "And then you never came home. You left word with me: the cut, and whatever lay beyond. A crew's been gone eighteen days past its slip, and I've a line to rule for it, and I don't know what to put. Where's beyond?"
+
+"Treswick," said Cael.
+
+He felt the room take that. It was a registry town, the last on the Line, with three walls and a book at its gate; and there was not a crew on that cloth which had not come east to be out of reach of such places. Somebody set a cup down.
+
+"What'd you do there?"
+
+"We read a survey," said Karis. She stood at Cael's shoulder, with the flat under her arm. "An office has measured four places beyond this river for six years. I had its sheets, and I could not read them; and there was a man there who could show me how such a thing is put together. I have read them now."
+
+"What'd it pay?"
+
+"Nothing."
+
+"And what came of it?"
+
+"A bearing," said Cael.
+
+Pike considered him. Then the pen went into the horn, and he wrote, slowly, in the square black hand.
+
+*Treswick. Survey read. Bearing.*
+
+Cael read it as it went down, a word at a time, and thought only that it was short.
+
+The pen had gone on to the two ruled columns at the line's end, where a price stood, and what became of it. It hung over the first, and passed on, and hung over the second.
+
+"I've nothing for those," said Pike. "It paid nothing, and it's not out yet. They'll stand empty, and I'll say that they're empty."
+
+He said so, to the room. Then he turned back three leaves.
+
+It was the season's line, with its ruled space at the end. Cael had seen that space left blank on purpose at first snow, and carried blank over a thaw onto a new cloth.
+
+"I said that I'd leave that until I'd a column for it," said Pike. "I've not found the column. I've had a hundred and sixty-eight days to look." He dipped. "A blank's a kind of entry, so long as a man knows why it's there. But a blank with nothing against it can't be told from one that was forgotten. So I'll put a day."
+
+He wrote it in the space, small: the day, by his own book's reckoning, and no figure after it.
+
+"That's when I left off looking," he said. "It's not a number. It says that on this day the keeper of this book knew what he didn't know, and signed for it." He blotted the place with the heel of his hand. "Eleventh. And dated."
+
+Then he looked sideways, and up.
+
+"You're on my side."
+
+Cael looked at where his own boots were. The room had pressed in behind Brom, and he had been carried round the bench's end with the press, and had fetched up at the one-armed man's elbow, on the side where the candle was. He had read two leaves of that ledger over the stump of an arm. Every line of them had lain the right way up, and he had not once marked it.
+
+"I'll go round."
+
+"Stop where you are. It reads the same from there. I never said that it didn't."
+
+---
+
+Teague came down between the benches while the ink was wet.
+
+He did not hurry; he stopped a stride from the bench's end, with his thumbs in his belt over the hand-axe, as he had stopped at that hearth on a night of snow; and the room, which had begun to talk, left off again.
+
+"I said after the thaw. It's a month gone. I said whatever's on that bearing, and I've just heard him write the word." His eyes went along them, and they did not stop at five; they went on to the door-post, where a stick was grounded. "I'll say it here, where it's heard."
+
+He let the room wait for it.
+
+"Ten of us on a wall's count. Your six and my four."
+
+Cael heard the count before he heard anything else, and so did the room.
+
+There had been five names on that cloth for the whole of a cold term and more. A captain had just said six of them, aloud, and nobody at the bench had corrected him; it was a count for a contract. It was not an admission, and it had not been made by any of the five; and Cael, who did not turn his head, knew by the stillness at the door-post that an old man had heard exactly how much it was and how much it was not.
+
+"Say what it holds," said Brom. "I'll not put my thumb to a figure."
+
+"It holds four things. The count's the first, and you've had it. Neither healer's on it. A healer goes where she's wanted, and I'll not have one sent." Teague drew a thumb out of his belt. "Shares by the count. Whatever it pays is cut ten ways; and what it costs is carried the same, so far as a cost can be."
+
+"It's paid nothing yet."
+
+"I know what it's paid. My bow's told me three times." He drew the other thumb. "The field's mine. On a road, with steel out, there's one voice, and it's the one that's had the most practice. I'd not ask it if I thought that you'd say otherwise."
+
+It was said to Cael, and it was said level.
+
+He priced it, as he had been taught to price a thing by a big man who would not let a figure go unsaid. He had led five people into three places where a Path was worth nothing, and had brought them out; nobody else in that room could say as much. But he had been touched three times in a square of snow without once seeing it come, and the man in front of him had learned more from his boots in those three touches than Cael had learned from a face in a year. On open ground, with a watch to be read and ten people to be put somewhere, there was one of them who was better. Cael had written so in a book. He had not been asked to say it in front of fifty.
+
+"It's yours," he said. "I'd have asked you to take it."
+
+"And the reading's hers." The chin went toward Karis, by the width of a finger. "Where it runs, and what a place is when we're stood in front of it. I'll take that from her as I'd take a ford from a man who'd crossed it. I can't read that skin, and I'll not pretend."
+
+"I shall want to be asked before anybody steps over a thing," said Karis. "I shall not always be quick."
+
+"You'll be asked."
+
+"And him?" said Brom. He had not looked toward the door-post. "You've built your count on a thing that you've never seen stand."
+
+Teague had not looked that way either.
+
+"The wall's still the wall."
+
+"There's a month on it," said Cael. "It's a healer's, and it's got twelve days to run. He stood one in the middle of it, against her word, for us, and it very nearly cost him the leg. Nobody stands it up before the month's out. Not for your field, and not for mine."
+
+"I'd not ask a thing with a month on it to be shown for a count." Teague looked once more toward the door-post, and it was the look of a man reading a load that he does not mean to lift yet. "I asked what I needed, of a factor. I know where it stands, and that it stays. That'll do me."
+
+He put both thumbs back into his belt, like a man drawing the last rope over a load.
+
+"Contract. Not more than that. I'll not have it called more."
+
+He nodded, by the width of a finger, and it was done, and he had not offered his hand. There was a cloth on a nail behind Pike's head with one name alone on its first line and five in a row on its eleventh; and a contract did not take either of them down. Cael found that he did not wish it to. He would sooner walk east beside a man who was ten places better at a thing, and said so, than beside a friend who had to be reminded which of them the ledger preferred.
+
+He wrote it at the hearth's end, when the room had thinned.
+
+*Two hundred and ninety-seventh day. Lowmarch; the hearth's end, and one on the keeper's settle. Eleven miles, and the ferry. The rope is paid: sixty yards of four, and he would take no fare. Pike has twelve lines, and a thirteenth with nothing in its last two columns. He has put a day against the season. A hundred and twenty-eight. Vastin: eighteen of thirty.*
+
+*Teague's term is taken. Ten on his count, by a contract and nothing else. The field is his. He is still the better at it.*
+
+*Known: Pike had a carter's word for the cut before we were home, and Teague had his terms by heart when he came down the room. I read Pike's line from his own side of the bench.*
+
+*Deployment since the Line: thirty-two.*
+
+---
+
+The cart had gone down in the night.
+
+Cael saw it from the bench under the great ash as soon as there was light to see by, on the two hundred and ninety-eighth day, when the meadow was grey and forty fires were being blown up out of their ashes. It was a salt cart, with a pair of mules, and it had been drawn onto the grass at dusk by a carter who did not know how soft the thaw had left that corner. It stood now with its near wheels sunk to the axle. Half its sacks lay on the turf beside it. The carter had the mules out and was standing with his cap in his hand.
+
+He was standing before Teague.
+
+They were too far off to be heard: twenty strides, across the square of the old silent yard, where the pegs still stood. Brom sat at Cael's side with his arms hanging. They watched a captain look at a cart for some time, as he looked at any load, and then at a lean old woman who had come down the bank with her board under her arm. She said one thing to him, and he answered it; and she shut her mouth, and stood back.
+
+"He's going to do something," said Brom.
+
+Teague walked round the cart's tail. The ash had put a root out there, as thick as a man's thigh, a pace behind the sunk wheel. He set his right heel against it, with care, shifting the boot twice, like a mason bedding a stone. Then he laid his right palm flat on the end of the cart's bed, with the fingers spread.
+
+What he did next took him longer than the thing itself.
+
+He lined himself up; Cael had no better word for it. The heel was set, and the knee came in over the heel, and the hip over the knee; the shoulder dropped, and turned, until the whole of that side of him ran straight from a root in the ground to a palm on a board, like a prop that is set under a beam before the wedges are driven. Not a part of him lay off that line. He stood so for three breaths, and Cael saw the boy move up behind him, on the left, with a cloth steaming across both hands.
+
+There was no light, and there was no sound but the cart's.
+
+It went forward. It did not roll; it was put. The mud let go of two wheels with a noise like a boot drawn out of a bog, and a ton and more of oak and salt went the length of a man's body up onto firm ground, and stopped there, dead, as though a team of six had taken it up at once and then been cut out of the traces.
+
+It went that far and not a hand farther.
+
+Something came back. Cael saw it arrive: the straight arm jarred, from the palm to the shoulder, like a pole that has been struck on its end. And he heard the wrist, at twenty strides, across a meadow: one small dry click, such as a latch makes.
+
+The cloth was round it before the arm had dropped.
+
+"That's a Force," said Brom, very low. "I'd wondered what he kept in that leather. It comes up out of the ground, through a man, and out at the hand; I saw one shift a block at a quarry once, when I was small. They'd sent for him from three valleys off." He was watching the old woman, who had the arm on her board already. "They said that he'd been a deal stronger at twenty."
+
+The carter had found his tongue, and was pointing down the meadow, to where a second cart stood canted in the same soft ground.
+
+Teague looked where he pointed. He answered across the boy's head, in the voice that he kept for a string of mules, and it carried to the bench.
+
+"Don't put it in front of anything that needs doing twice."
+
+Then the tall man and the bow went down the meadow with three iron bars and a baulk of timber, and the second cart was shifted as a carter would have shifted it, in the better part of an hour.
+
+Cael had the book on his knee before the first bar was set.
+
+Nothing had come to him, and he had not looked for it. He was twenty strides off, on a bench, and nobody in that meadow had meant anything at anybody; a man had put his hand to a cart. But he had seen a line drawn through a body, plainer than he had ever seen one drawn on a hide, and he knew better than to trust it to his memory.
+
+*Seen, at first light, the meadow, from twenty strides. Teague's is Force. He set a heel against a root and a palm against a cart's tail, and stood until every joint between the two lay straight. Then it went: one push, the length of a body, and no more of it after. It wants firm ground behind and a thing in front. What comes back comes down the same road and is paid where it left him. The wrist. I heard it.*
+
+*One use, and the arm is on a healer's board. He would not do a second. Nothing came. Twelve.*
+
+He did not know, that morning, where he would next see that line drawn, or what it would be drawn at.
+
+---
+
+"File," said Teague.
+
+He had the leather on again, over a turn of the old woman's linen, and he carried the arm a little away from his side. He stood under the ash with eight people before him, in the square where they had once hit one another with sticks.
+
+"I'll not drill you. There's no time, and you've your way and I've mine. But ten people who've never walked a road together will walk it like two crews, and a thing that hunts will count two. So we'll walk this meadow, round, till it's one. Nobody speaks. Nobody lights a finger. I'm told that there are hands."
+
+"There are four," said Lira.
+
+She showed them, as she had shown them to an old man on a moor. A flat hand, palm down, was *stand*. A shut fist was *seen*. Two fingers lifted were *come on*, and a hand turned over empty was *nothing*.
+
+The tall man made each of them once, with a big chapped hand, exactly, and grounded his spear. He had not spoken to any of the six in all the days that Cael had known him, and it appeared that four more words which were not spoken suited him very well. The bow made them from the settle of his hip, sourly; and the boy, who had them at the first showing, made them again, quickly, to himself, and then a third time behind his back.
+
+"You're early on the flat one," said Lira. "It's not a race. You go still when you've seen it, not when you think I'm about to."
+
+"I saw your shoulder go."
+
+"Then you stood for my shoulder. Somebody else'll have a different shoulder." She did not smile; she had been taught by a healer how a thing was told. "Wait for the hand."
+
+He nodded with his whole head.
+
+Teague set the file as Cael would have laid out a bout, from the ground upward, and he gave a reason for each place.
+
+"The quiet one's out front, where he's always been. I'll not move him. I couldn't find him to move." It was said without a smile, and Seln, at the north-west peg, inclined his head by a hair. "Then my spear. Then me; and the one with the book at my left hand, a stride back, since he sees a thing before he knows that he's seen it, and I want to be told. Then the girl, and the boy behind her. He'll watch her feet."
+
+"And the papers?" said Brom. "She's at a table, and she'll not be fetched from it."
+
+"Then she'll be told. In the middle, with whoever's healing, and a beast when there's a beast. Then the big one, since he's slow to answer and hard to hurt." His eyes came to the end of the row, where an old man stood on a stick. "Then you. A stride behind him. I'm told that's where you've stood."
+
+"It is," said Vastin.
+
+"And my bow last, where he can see all our backs and the road behind them."
+
+It was the first time that those two had exchanged a word, and Cael marked it. The old man had opened his mouth afterward, as he opened it after any instruction, and Cael waited for the clause; but Teague had already turned to the pegs, and whatever had been prepared was not called for.
+
+They walked the meadow.
+
+They went round it in file, at a road's pace, between the fires. Carters stopped with their bowls half lifted to watch nine people go by without a word. It went badly at first: the two halves of the file kept a different distance, and at the first flat hand the front stood like posts while the back was still closing up. At the first fist the boy looked, and the bow did not, since he had never in his life been told where to look by a girl's hand.
+
+By the third round they stood together.
+
+It was a small thing. Cael, at a captain's left shoulder, a stride back, felt it happen behind him, as a person feels a door shut somewhere in his own house: nine people stopped on one flat hand, and there was not a sound in that corner of the meadow but the fires. He glanced once to his right, and Teague had not turned his head. But the chin had come up, by the width of a finger, at nothing at all.
+
+They were in the fourth when Lira left the file. A small clear voice had called her name from the gate of the inn yard, twice, in a tone that Cael knew. She was gone for as long as it takes to cross a yard, and she came back at a run, and touched his sleeve.
+
+Her face had a look on it that he had last seen at a parapet, above a town, when she priced the whole of a hill in one breath.
+
+"She wants you," said Lira. "Now. She's ruled three boxes on a sheet, and I don't think that she's drawn breath since the second."

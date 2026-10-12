@@ -146,7 +146,7 @@ The child thought about that. Cael found that he had stopped walking, by a barre
 
 There was an uproar. He went on before it was settled, since a stranger who stands and watches children is marked in any town; but he carried it with him up the quay, and it was a little while before he could have said whether it had made him want to laugh.
 
-The road brought him round at last, by the back of the smith's, into the open place where the trough was. He had gone the whole circuit of the bluff, and he had not once lifted his eyes above a line of pale stone.
+The road brought him round at last, by the back of the smith's, into the open place where the trough was. He had gone the whole way round the bluff, and he had not once lifted his eyes above a line of pale stone.
 
 He stopped at the foot of the street that climbed.
 
