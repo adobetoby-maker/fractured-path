@@ -178,7 +178,7 @@ He looked a moment longer, at the blue band in a bay's forelock, and at a carter
 
 "They shoe by the tier."
 
-He picked up his box. Nobody added anything, and Cael did not think that anything could have been added. He had spent the whole of his life since his Kindling learning how the Compact sorted people. He had read it in codes, and argued it at hearings, and had it explained to him by a registrar with a mirror. Brom had found the whole of it in a smith's yard, in the time that it takes to drink a cup of water, and had said it in five words.
+He picked up his box. Nobody added anything, and Cael did not think that anything could have been added.
 
 Beyond the smith's the ground went up steeply, and one street climbed it. At its head, two hundred yards above them, stood the second wall, with an arch in it; and in the arch were two figures in long coats of that same dark blue. Cael looked at the coats. He did not look higher.
 

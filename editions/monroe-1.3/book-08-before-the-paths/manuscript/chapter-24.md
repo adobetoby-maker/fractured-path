@@ -56,6 +56,8 @@ Cael looked at that for some time. The man did not blink them shut and open them
 
 His hands were square, with the nails pared to the quick, and they were as pale as roots.
 
+So this was Cleon. The name had been said at a spring, by a small pale woman with one glove off, and asked after once; nobody had said it since. It sat on a dusty coat and a pair of shut eyes no better and no worse than a name ever sits on a stranger.
+
 Nobody stood next to him. There was room for two at that end of the counter, and the clerks had left it, as the carters on a bench had made room for a keeper; but this was the other kind of room, and Cael knew it well. It was the space that people leave about a person whom they have long since stopped trying to talk to.
 
 Then Karis came in by the street door.
@@ -72,7 +74,7 @@ He did not read it.
 
 Cael had watched a great many people read. He had watched registrars do it, and magisters, and a small pale woman who went along a line as a hen goes along a row of seed; and this man's eyes did not go along anything. They went to the foot of the sheet first, and stayed there, and then they climbed, as Brom's had climbed a pier on a river bank, from the footing upward, stopping at whatever seemed to be holding weight. He might have been looking at a wall.
 
-It took him no longer than it takes to swallow. He laid the spoon down.
+It took him no longer than it takes to swallow, and then he laid the spoon down.
 
 "Off floors," Cleon said.
 
@@ -100,11 +102,7 @@ He grunted. It was a short sound, down in the chest; and Cael, who had spent thr
 
 "The top. I took it from a needle each time, and it is written in the corner."
 
-"I saw it was written. I asked if it was so." The finger moved. "How many places?"
-
-"Three."
-
-"Far apart?"
+"I saw it was written. I asked if it was so." The finger moved. "Three, you said. Far apart?"
 
 "Many days. The same forty-one kinds of sign are on all three, and they stand in one order." Her voice had gone thin, and she steadied it; he heard her do it. "I cannot date stone, but I can date what lies upon it. One of those floors is beneath a ring that nobody remembers raising, and one under a stair, and one under a hall that has a marsh grown over its roof; and I have laid them against every stratum of paper that I know, and they are underneath all of it."
 
@@ -112,7 +110,7 @@ He grunted. It was a short sound, down in the chest; and Cael, who had spent thr
 
 "Under what the Compact found when it came. Under that, again."
 
-He was silent. He had not looked at her yet; he had looked at nothing in that room but a sheet of paper, since his eyes opened.
+He was silent, and he had not looked at her yet; he had looked at nothing in that room but a sheet of paper, since his eyes opened.
 
 "And you want me to say what's written," he said at last. There was a great weariness in it. "They come every few years, with a rubbing off a lintel. They want it read to them."
 
@@ -130,7 +128,7 @@ He looked at her then, for the first time, as he had looked at the sheet: from t
 
 "Not here," he said.
 
-He had picked up his spoon again. He spoke between mouthfuls, to the wall, in short pieces, like a man reading down a bill; and Cael, by the doorpost, with a bowl going cold in his hand, understood that he was hearing a list that had been ready for a very long time.
+He had picked up his spoon again, and he spoke between mouthfuls, to the wall, in short pieces, like a man reading down a bill; and Cael, by the doorpost, with a bowl going cold in his hand, understood that he was hearing a list that had been ready for a very long time.
 
 "I don't read on a counter. There's gravy on it. That's the first."
 
@@ -138,7 +136,7 @@ He had picked up his spoon again. He spoke between mouthfuls, to the wall, in sh
 
 "All of them. Not the ones you like. I'll not be shown a choice."
 
-"They are here. All fifty-two, with the bad ones in their places."
+"You will not be. The bad ones are in their places."
 
 The spoon stopped for the space of a breath, and went on.
 
@@ -182,7 +180,7 @@ He turned, and went up the room toward the street door.
 
 He passed within two strides of the yard, and of a boy of nineteen who stood against a doorpost with a bowl; and his red eyes did not come that way at all. They were on the floor, and they went along the flags, a joint at a time, as though he were reading how those had been laid as well.
 
-Cael had wished to be nobody in that yard, and he had been, and he ought to have been the easier for it. He found that some part of him had wanted the head to turn. It was the part that had lain behind a hedge at a brook and come to the end of the only instrument that it owned, and had been told by a catalogue that a man under a town could see how things stood; and it had now watched that man look at a sheet of paper as nobody had ever looked at a boy. He set it by, to be gone over later.
+Cael had wished to be nobody in that yard, and he had been, and he ought to have been the easier for it. He found that some part of him had wanted the head to turn. He set it by, to be gone over later.
 
 The man went out by the street door. He went a full stride beyond it, onto the paving, into the noon, with one hand coming up already to shade his eyes.
 
@@ -224,6 +222,8 @@ Lira had the card, since she had lifted it off Karis's knee by its edges, as it 
 
 "*Matter*," she read, with her lips. "*Its bearer, one. Hands—*" She stopped. "There's a figure. And his name, at the top, and a rank, and a number as long as my arm. And a day." She turned it over. The back was blank. "That's all that there is. That'd take five people through the buff gate and up to the top of everything. And it's not got one of them on it."
 
+He had read the card's head across her thumb, the wrong way up, as he read anything. It was five letters, in a blunt square hand, above a Path and a tier; he had heard that name once, and had thought it at a counter, and he had not before seen it written. She had not read it out, and he found that he did not care to either.
+
 "It's got how many," said Brom.
 
 "It's got how many." She was quiet for a moment, holding it. "I've a paper in this coat that would walk me through the blue on my own two feet, with a keeper reading my name out like a herald. I worked for that paper harder than I've worked for anything." She did not touch the pocket. "And this one's a scrap of card with a number, and it goes higher."
@@ -256,11 +256,7 @@ He did not sit; he took a straw from the nearest pallet, and went down on his he
 
 "I shall take them as they come. I should prefer that to being weighed."
 
-Nobody said who was to carry.
-
-Cael marked it, as he marked anything that people took care to step round. There was a figure on that card. There were three boxes, and they had three backs under them. There was a tarred case, which had ridden on one shoulder since a fork-stone, where nobody had asked for it and nobody had forbidden it. And there was a man with a straw in his fingers who went ahead of every load and had never yet been counted with one.
-
-It could be left until morning. He thought that it would not be any easier in the morning.
+Nobody said who was to carry. There was a figure on that card, and three boxes had three backs under them; and there was a tarred case, and a man with a straw in his fingers who went ahead of every load and had never yet been counted with one. Cael marked it, as he marked anything that people took care to step round. It could be left until morning.
 
 ---
 
@@ -274,7 +270,7 @@ He wrote the day by the lantern, when the pot had gone round.
 
 Shadow had lifted while he wrote, and he had told it no without raising his pencil.
 
-He read the entry over, and it was thinner than what he had seen. He had gone to that yard to learn how the man looked at a thing; and he had learned it, and did not yet know what to do with the knowledge. Every reading that had ever been made of him had begun at the top, with a name, and a day, and a word, and had gone on down the sheet looking for whatever would bear the word out. At a cook-house counter he had watched a pair of sore eyes begin at the foot of a drawing, where the weight came down, and climb, and ask the paper for nothing that it had not offered. He did not know whether a person could be looked at so. He did not know whether he wished to be.
+He read the entry over, and it was thinner than what he had seen. Every reading that had ever been made of him had begun at the top, with a name, and a day, and a word, and had gone on down the sheet looking for whatever would bear the word out. At a cook-house counter he had watched a pair of sore eyes begin at the foot of a drawing, where the weight came down, and climb, and ask the paper for nothing that it had not offered. He did not know whether a person could be looked at so. He did not know whether he wished to be.
 
 The loft was quiet. Brom slept as he always slept, like something felled, with seven bowls stacked by his head, and Lira lay on her side with her back to the gable. Vastin stood at it, since he would not lie down while anybody else was awake, and the awl was still going in his fingers, in and out of a strap, by feel.
 

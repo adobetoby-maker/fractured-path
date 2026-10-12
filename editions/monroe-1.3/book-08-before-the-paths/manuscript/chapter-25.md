@@ -122,7 +122,7 @@ He had said it before a mouth was open. He stood at the foot of the ladder, with
 
 "If he asks who you are."
 
-"Then I shall look at my boots, as a hand does, and somebody with more wit will answer him." The old mouth moved. "I am aware of what I am being entered as, since I have signed a great many sheets with that column on them. It is a narrow one, and it has never yet had anything in it but a number."
+"Then I shall look at my boots, as a hand does, and somebody with more wit will answer him." The old mouth moved. "I am aware of what I am being entered as. I have signed a great many sheets with that column on them."
 
 "Nobody's ordered it," said Brom.
 
@@ -190,7 +190,7 @@ The roofs were slate, every one. The street had a gutter down each side of it, w
 
 Nobody looked at them.
 
-It was not as the outer street had not looked, where everybody was carrying and a box was only a thing in the way. People here were not carrying anything. They walked with their hands free, in good cloth, at their own pace; and their eyes went over four backs under loads as eyes go over a row of posts. A woman drew her skirt aside for Brom without breaking her talk. Cael had been stared at by such people for the whole of his life since a Kindling. He had not known that there was a way of standing so low that they could not find him.
+It was not as the outer street had not looked, where everybody was carrying and a box was only a thing in the way. People here were not carrying anything. They walked with their hands free, in good cloth, at their own pace; and their eyes went over four backs under loads as eyes go over a row of posts. A woman drew her skirt aside for Brom without breaking her talk.
 
 Karis had not looked at a single slate. She walked with her face turned to the house-fronts on the upper side, where the street had been cut into the hill and the footings of the houses stood on the bluff's own rock; and twice she put out two gloved fingers, in passing, and drew them along a bed of pale stone at the height of her hip, as another person might have touched a dog.
 

@@ -32,7 +32,7 @@ They went on between the hedges, and for half a mile nobody used the leave that 
 
 The road found its tongue sooner than they did. A cart came out of a field gate ahead of them, piled with dung and steaming, and the man at the horse's head was whistling. He whistled the same four notes over and over, badly, and did not leave off when he saw six strangers under loads. He looked at the boxes, and at the beckets, and pulled his horse over to let the weight go by, as one carrier does for another. He had given Cael the same length of glance that he gave the hedge.
 
-After him there was a boy with a switch and nine geese, and a woman under a yoke, and two men mending a hurdle; and not one of them gave the six more than a glance, which took in the loads and priced the distance. Cael counted them, since he counted anything. He had been stared at on roads since he was fourteen, by people who had been told what to look for, and for the better part of a year he had walked where there was nobody to stare. This was a third thing. He was a back with a box on it. He thought that he could have borne a great deal of that.
+After him there was a boy with a switch and nine geese, and a woman under a yoke, and two men mending a hurdle; and not one of them gave the six more than a glance, which took in the loads and priced the distance. Cael counted them, since he counted anything. He had been stared at on roads since he was fourteen, by people who had been told what to look for, and for the better part of a year he had walked where there was nobody to stare. This was a third thing. He was a back with a box on it.
 
 Vastin went beside him on the ditch side, a shoulder off. The stick came down a little after each of Cael's strides, and the tarred case knocked softly against a brown coat, and neither of them spoke; of the six they were the two who found the leave hardest to use. Cael had kept one question from that man since a board at Lowmarch. He thought that the man was keeping something too. He walked like somebody carrying a full bowl.
 
@@ -86,7 +86,7 @@ She walked with the flat under one arm and the hide under the other, as she had 
 
 She went on counting beds of rock, and he let her go ahead.
 
-He turned the phrase over for a furlong, with the box riding on his shoulders. *How a thing is built.* He had not thought to ask before what kind of reader sat under that town. He had only known that there was one more of them.
+He turned the phrase over for a furlong, with the box riding on his shoulders. *How a thing is built.*
 
 Then he went over what he was carrying there, a stride at a time; and it was not the box.
 
@@ -150,7 +150,7 @@ At ten the short reading gave him the moving. It was his own gait, quick and slo
 
 He went on beyond ten, into the deep reading. They came up out of it one at a time, as they always had, like the furniture of a room when the eyes have grown used to the dark.
 
-Wind was first, since it was the oldest, and it had always leaned toward a girl. It was a dry hiss in his feet, like pale grass going over in a breath of air. It was good for ten strides, and it had to be paid for at the end of them with a locked beat in which he could not have lifted a heel. He had spent it two days ago in a cut, running away from the people whom he was guarding.
+Wind was first, since it was the oldest, and it had always leaned toward a girl. It was a dry hiss in his feet, like pale grass going over in a breath of air. Two days ago, in a cut, it had carried him ten strides to a bank, away from the people whom he was guarding; and he had paid for those at the end of them, as he paid for every burst, with a locked beat in which he could not have lifted a heel.
 
 The read went round beneath it, under his soles, low and even: a millstone heard through a floor. That one was Brom's, and it worked for its keep. It would tell him the weight of anything within a pace and a half, and which way the weight was going; and if he leaned on it long it took his near sight for an hour.
 
@@ -194,7 +194,7 @@ Every line of it was about a thing that moved. It told him where the Wind leaned
 
 The going-along felt current, and it had never done anything else. It had been a healer's means of telling how the rivers ran in a body, quick or slow or choked, and it knew a river only by going along with it. Set it where nothing ran, and it did not come back and say *empty*. It did not come back and say *full*, either. It had nothing to go along with, and so it said nothing at all; and for the better part of a year he had been writing that nothing down in pencil, with the day at its head, as though it had been an answer.
 
-He had been putting a cord on a stone and writing down *no length*. A man might run a cord round a boulder in a field, and knot it, and carry the knot home with him, and know to the width of a finger how far it was about; and he would know no more of what lay inside the boulder than he had known at breakfast.
+He had been putting a cord on a stone and writing down *no length*. A cord is made to be run out along a road, and it tells a person how far he may go. Laid on a boulder in a field it has nowhere to run. A patient man may walk it round the outside, and knot it, and learn how far the thing is about; but of what lies in the stone the cord gives no figure whatever, and it was that blank which he had been entering, with the day at its head, as though the stone had told him so.
 
 He took his fingers from his wrist, and put his right hand down to push himself up.
 

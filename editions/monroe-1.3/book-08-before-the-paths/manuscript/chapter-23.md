@@ -102,7 +102,7 @@ She said something that Cael could not hear, quickly, with her chin up.
 
 Cael took his shoulder off the butt.
 
-He had been afraid of that gate since a back room, and he saw now that he had been afraid of the wrong thing. He had pictured a machine that would catch him and grind. This one had not teeth of that kind. It sorted whatever it could see, by a colour, and what it could not sort it did not see at all. A girl with eggs was a card with the wrong hour on it, and a carter was a number of caps.
+He had been afraid of that gate since a back room, and he saw now that he had been afraid of the wrong thing. He had pictured a machine that would catch him and grind. This one had not teeth of that kind. It sorted whatever it could see, by a colour, and what it could not sort it did not see at all.
 
 There was a colour for Copper, even. It was the street below, and the one behind.
 
@@ -236,7 +236,7 @@ It was the large young man who had set it there, and he had six others on a boar
 
 Seln came up the ladder after dark, with dust to the knees.
 
-Brom had begged a lantern of the woman at the half-door, and it hung from a rafter in the middle of the loft, lit at the kitchen fire with a spill. The six sat or lay in the round of it. Nobody had gone to sleep.
+Brom had begged a lantern of the woman at the half-door, and it hung from a rafter in the middle of the loft, lit at the kitchen fire with a spill. The six sat or lay in the round of it, and nobody had gone to sleep. Cael had Hesk's book open on his knee, with the day at its head and nothing under it yet.
 
 "I did not go above the trough," said Seln. He sat down on the ladder's head with his feet on the second rung, which was as near as he came to resting. "I hired a frame for a copper, and I sat for three hours on the porters' bench at the top of the street, and was twice offered work. The man beside me has carried to the registry's yard for eleven years, and he likes to be listened to. I have four things from him, and one difficulty. I shall give them in his order."
 
@@ -260,7 +260,7 @@ Her breath went in, and she said nothing more.
 
 "Rune Path. Bronze."
 
-The word was strange to Cael. He had stood on floors against a good many Paths, and had the pieces of ten of them in him, and he had never met that one on any list of bouts; it was not a thing that a person fought with, then. He lay and turned it over, and it told him nothing.
+The word was strange to Cael. He had stood on floors against a good many Paths, and had the pieces of ten of them in him, and he had never met that one on any list of bouts; it was not a thing that a person fought with, then. He turned it over, and it told him nothing.
 
 "He comes up at noon to eat," said Seln, "at the cook-house which is built against the wall, beside the blue gate; he stands at its counter, and goes down again within the hour. He has done so on every day that my porter can remember, and he is said to dislike being spoken to."
 
@@ -270,7 +270,9 @@ The word was strange to Cael. He had stood on floors against a good many Paths, 
 
 "And the fourth is how we get in," said Lira.
 
-"The fourth is what the form asks, when matter is brought." He drew his hands into his sleeves. "It was drawn a long while ago, when a scholar's bundles came with whoever happened to be carrying them, and nobody thought such people worth a line apiece. So it has a line for the matter, which is described. It has a line for the matter's bearer, who is one. And it has a line for hands."
+"The fourth is what the form asks, when matter is brought." He drew his hands into his sleeves. "It was drawn a long while ago, when a scholar's bundles came with whoever happened to be carrying them, and nobody thought such people worth a line apiece. So it has a line for the matter, which is described. It has a line for the matter's bearer, who is one. And it has a line for hands, to carry, which takes a figure and no more; the figure may not be above four."
+
+The small pale woman on the pallet had turned her head. She was looking at the row under the eaves, where three boxes lay with their beckets to the wall and a tarred case leaned against the last; and her lips moved.
 
 Karis said, "Four hands."
 
@@ -278,17 +280,25 @@ Karis said, "Four hands."
 
 Lira said, to nobody, "Four hands," and then, "I've two."
 
+She had turned her own over in the lantern-light, the right and the slow left, as though she had been asked to produce them.
+
+He had the pencil in his fingers already.
+
 Cael wrote: *Entered by count. That's the door.*
 
-Nobody spoke at once. Below them a horse blew through its nose, and stamped.
+Below them a horse blew through its nose, and stamped.
 
-"So it wants a figure," said Brom slowly. "For the ones that carry. It doesn't want to know who."
+"A hand's a person," said Brom, after some thought. "It's four of us. It's not four of those."
 
-"It doesn't even want to know what," said Lira. She had sat up, with her arms round her knees. "That's the whole trick of this town, and it's taken me a day to see it. If you walk in on your own paper they write you down, because you're somebody. If you walk in under a load you're a stroke of a pen. There's nothing to write." She looked across the lantern. "He's spent his whole life being a name with a word after it. And the only way they'll let him into the one place that might know what the word means is as a number."
+"I know what a hand is. I was seeing what I'd got."
+
+She put the two of them away, and sat up, with her arms round her knees.
+
+"He's spent his whole life being a name with a word after it," she said, across the lantern. "And the one place that might know what the word means will have him as a stroke of a pen."
 
 Cael had got there a breath before her, and it did not feel any better for being said aloud.
 
-He had been filed in every registry that had ever had him in reach. He had learned to read upside down so that he might know what was in the file. Now he lay in a hayloft under the oldest registry on the Line, and learned that it had one lawful door which a person of no tier could go through; and the door did not ask for his name. It did not ask for anything that he had spent his life refusing to give. It wanted to know how many of him there were.
+The door did not ask for anything that he had spent his life refusing to give. It wanted to know how many of him there were.
 
 ---
 
@@ -312,7 +322,7 @@ The lantern had burned down a finger's breadth, and Brom had carried seven bowls
 
 Karis laid her pencil down on the flat. Her hand was not quite steady.
 
-Brom turned the lantern low. The blanket hung over the gable, with a faint paleness round its edges that did not flicker; and Cael lay on his back, with his eyes on the slates a yard above him, and spoke to them.
+Brom turned the lantern low. The blanket hung over the gable, with a faint paleness round its edges that did not flicker; and Cael lay back, with the book shut on his chest and his eyes on the slates a yard above him.
 
 "Last time we walked into a place like this," Cael said, "it took four years and a hearing to walk out."
 
@@ -320,4 +330,4 @@ Brom turned the lantern low. The blanket hung over the gable, with a faint palen
 
 "Do we now?"
 
-"A name and a reason," Karis said. "Older than the walls, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." She drew breath. "That's us. That's the whole reason it's still buried. We're the first ones who are both."
+"A name and a reason," Karis said. "Older than the walls, under our feet, and nobody's read it because nobody's had a reason to look and a person who could read it in the same lifetime." Her hand lay flat on the courier's leather, and it had stopped shaking. "That's us. That's the whole reason it's still buried. We're the first ones who are both."

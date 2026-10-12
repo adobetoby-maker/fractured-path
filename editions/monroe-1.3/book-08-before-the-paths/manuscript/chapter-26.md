@@ -44,35 +44,19 @@ Then the cobbles tipped, and the lane began to go down.
 
 It turned as it fell. The houses ended on the left hand, and the wall on the right dropped to a parapet no higher than his waist, where the crown of the bluff broke off; and for the length of ten yards there was nothing on that side but air.
 
-Lira stopped.
+"It's a hill with a tax on it," said Lira.
 
-She set her box down on the parapet's top, and held it there by one becket, and looked.
+She had stopped. Her box stood on the parapet's top, held there by one becket, and she had said it to the air beyond, in the voice in which she would have read a figure off a slip.
 
-The whole town lay under them. They had come round to the bluff's northern edge, and the ground fell away so steeply below the parapet that Cael could have dropped a stone onto a slate roof. He saw the second wall from above, going round the hill's waist like a belt, with the blue gate in it no bigger than a keyhole. He saw the roofs change below that from slate to tile and thatch. He saw the outer wall, and the long shed of the rope-walk laid against it, and the river coming round under the quay; and far out, small and dark across the brown water, a bridge on five piers.
+The whole town lay under them. They had come round to the bluff's northern edge, and the ground fell away so steeply below the parapet that Cael could have dropped a stone onto a slate roof. He saw the second wall from above, going round the hill's waist like a belt, with the blue gate in it no bigger than a keyhole. He saw the outer wall, and the long shed of the rope-walk laid against it, and the river coming round under the quay; and far out, small and dark across the brown water, a bridge on five piers.
 
 It went down in three steps. She had said so, from a rise, three days ago. *They've built the ladder out of stone.*
 
-He watched her, and not the town.
-
-He knew what the top of a thing did to Lira. He had seen it on the wall of a house above Ostrand, and on a roof there, and on a mountain. Her weight went forward onto the balls of her feet. Her chin came up, and something lit behind her face, as a lamp is lit in a room. She had wanted to stand at the head of that ladder for as long as he had known her. She had been told that it was where she belonged by everybody who had ever had the raising of her; and there was a paper in her coat which said that she had set her foot on it.
-
-He waited for her weight to go forward.
-
-It did not. She stood flat on both heels, with one hand on a box, and she looked the whole of it over, from the parapet to the bridge, slowly, with her lips moving. She had looked at a factor's fence so, on a hillside, when she was asked what it would take to mend.
-
-"Two gates," she said at last. "And a view."
-
-Nobody spoke.
-
-"That's all that it is. I've been trying to see what else there was since the first one." She did not take her eyes from it. "It's three walls, one inside the next. You go through a gate and the roofs get better. You go through another, and there's a tap that you needn't pay at. And when you're right at the top, what you've got is this. You can see everybody who isn't."
+"Two gates," she said. "And a view. That's all that it is. I've been trying to see what else there was since the first one." Her eyes went over the whole of it, from the parapet to the bridge, slowly, with her lips moving. "You go through a gate and the roofs get better. You go through another, and there's a tap that you needn't pay at. And when you're right at the top, what you've got is this. You can see everybody who isn't."
 
 "It's a good view," said Brom.
 
-"It's a very good view. I'd have given everything I had for it. I very nearly did; I'd my foot on it." Her left hand had come out of its pocket, and she looked at that for a moment, the long thin fingers that had been in wool for the better part of half a year, and shut them. "And I'm stood on it, and it doesn't want anything of me. I thought that it'd pull. I've been waiting for it since the rise. I had it all ready, what I'd say to myself when it did."
-
-"And it doesn't," said Cael.
-
-"It's a hill with a tax on it." She said it with a kind of wonder. "You can't want a place the same once you've been its porter. I don't think you can, anyway. I've carried fifty-two sheets up the inside of it, and seen who fetches its eggs."
+"It's a very good view. I'd have given everything I had for it. I very nearly did." Her left hand had come out of its pocket, and she looked at that for a moment, the long thin fingers that had been in wool for the better part of half a year, and shut them. "I've carried fifty-two sheets up the inside of it, and seen who fetches its eggs. You can't want a place the same once you've been its porter. I don't think you can, anyway."
 
 She swung the box off the parapet, and got her arms through the beckets, the right and then the left.
 
@@ -84,13 +68,19 @@ She swung the box off the parapet, and got her arms through the beckets, the rig
 
 "Right."
 
-Karis had turned to her, with the flat under one arm. She did not say anything, since she never did when a thing was finished. She only moved aside, so that the girl with the box should go first into what lay beyond the parapet.
+It was Cael who had given her the figure. She had thrown the count at him across the top of her box, as a crew's count is called at the head of a bad piece of road, and he had answered it before he had taken in what he was agreeing to.
 
-It was the cut.
+She was into the slot in the wall beyond the parapet before Brom had his own box off the stones; and it was her back that Cael stood looking at, going down between two blind walls, when he understood what he had just been present at.
 
-It opened in the wall of the last building, a slot a stride and a half wide, and it went down. Cael saw the first flight: five steps of dark worn stone, and a landing, and the head of the next. The walls went up on either hand, three times the height of a man, without a door or a window or so much as a drain. The sky was a strip at the top. It was like looking down a well that had been laid on its side.
+He had been looking at a town. He ought to have been looking at her. He knew what the top of a thing did to Lira, since he had seen it on the wall of a house above Ostrand, and on a roof there, and on a mountain: the weight going forward onto the balls of her feet, and the chin coming up, and something lit behind her face like a lamp in a room. Everybody who had ever had the raising of her had told her that the head of that ladder was where she belonged; and there was a paper in her coat which said that she had set a foot on it. He went back over the minute at the parapet for any of that, and none of it was there. She had stood flat on both heels, with one hand on a box, and read the place off like a fence that wanted mending. Whatever he had been waiting for on her account, since the rise, had not come. She had not waited for it at all. She had picked up her load.
 
-Brom went in first, and his box all but brushed both walls.
+Karis had seen it. She did not say anything, since she never did when a thing was finished; she only looked after the box, with the flat under her arm, and then stood aside from the slot's mouth.
+
+It was the cut that Seln had drawn in the dust.
+
+It opened in the wall of the last building, a slot a stride and a half wide, and it went down. Cael saw the first flight: five steps of dark worn stone, and a landing, and the head of the next. The walls went up on either hand, three times the height of a man, without a door or a window or so much as a drain. The sky was a strip at the top.
+
+Brom went in after her, and his box all but brushed both walls.
 
 "I shall go before you," said Cael.
 
@@ -166,7 +156,7 @@ Then he wrote what he had seen.
 
 *Lira looked at the whole ladder from the top of it and it didn't pull. She priced it. She's carrying a box.*
 
-It was three short lines in the plain hand, and it was the largest thing that he had entered since a fork. He had known her for longer than he had known anybody but an old man in Denvash, and he had watched her go up a great many walls. He had half believed, at a board in Lowmarch, that the first blue coat would have her, and that he would lose her to a keeper reading her name aloud. He had said nothing of it, to her or to the book, since a person does not enter a fear about a friend where the friend will read it.
+It was three short lines in the plain hand, and it was the largest thing that he had entered since a fork. He had half believed, at a board in Lowmarch, that the first blue coat would have her, and that he would lose her to a keeper reading her name aloud. He had said nothing of it, to her or to the book, since a person does not enter a fear about a friend where the friend will read it.
 
 She was reading it now, upside down, across his knee.
 
@@ -178,7 +168,7 @@ She was reading it now, upside down, across his knee.
 
 He left it. He shut the book on the pencil, and sat with it between his hands.
 
-Somewhere above him, on the far side of five storeys of pale stone, there was a square. He did not know how many yards off it lay; a building's thickness, and a flight of steps. He had come round it by a lane with four keyholes, and down a slot, and he sat now with its whole registry between himself and it, on the low side, among the firewood. He had not set a foot on its paving. He had not lifted his eyes to what stood over it.
+Somewhere above him, on the far side of five storeys of pale stone, there was a square. He had come round it by a lane with four keyholes, and down a slot, and he sat now with its whole registry between himself and it, on the low side, among the firewood. He had not set a foot on its paving. He had not lifted his eyes to what stood over it.
 
 It had been easy to write, at a fire. It had cost him something to keep, in a lane. He thought that the healer had known the difference when she asked for it in pencil.
 
@@ -186,47 +176,45 @@ The hatch's shutter moved.
 
 ---
 
-The low door opened, and the clerk came out with a book.
+The clerk did not come out.
 
-He was a man of no particular age. He had a grey coat with ink on its right cuff and none upon the left, and a narrow book bound in green cloth, and a pen. He was pale, as people are who are kept indoors, and he blinked once at the daylight. Cael did not learn his name that day, or on any day after it.
+He was at the hatch. The shutter had gone up on a square of dimness, and a man sat within it, sideways to the yard, with a narrow book bound in green cloth lying open on the ledge under his hand; and he was writing in it before Cael had got to his feet.
 
-He had the card in his fingers. He stood on the sill and read it again, slowly, though he must have read it at the hatch. Then he looked at the small pale woman who had brought it.
+He was a man of no particular age, in a grey coat with ink on its right cuff and none upon the left. Cael did not learn his name that day, or on any day after it. He had the card propped against his inkwell, and he did not look at the bench at all. He looked past it, at what stood on the paving. There were three boxes, which he counted with his eyes, and wrote. There were a tarred case, and a courier's flat, and a calfskin, and he wrote those. He did not ask what was in any of them.
 
-Cael had stood up. So had the others; he heard the stick find the paving.
+They were all standing by then; Cael had heard the stick find the stones.
 
-This was the place. A quiet man had told them so on a ladder's head, and had not been able to shorten it. There was a line in that green book, and a pen above the line, and a person holding the pen who was neither forbidden to ask nor required to. A hundred clerks, Seln had said. Eighty would.
+This was the place. A quiet man had told them so on a ladder's head, and had not been able to shorten it. There was a line in that green book, and a pen upon the line, and a person holding the pen who was neither forbidden to ask nor required to. A hundred clerks, Seln had said. Eighty would.
 
-The clerk's eyes left Karis. They came along the bench.
+The pen moved to the right, into a narrow column, and made a single mark there. Then it went to a narrower one, at the very edge of the leaf, and waited; and the clerk lifted his eyes to the bench for the first time.
 
-They went to Brom, and to the box at his feet with a bowl wedged under its lashing. They went to Lira, who was looking at a cart. They came to Cael; and Cael, who had been read by registrars since he was fourteen, and had learned to meet each of them in the eye so that it should cost them something, looked down at the toes of his boots.
-
-He had not known that it would be so hard. It was the only thing that he had ever had to set against a pen, and he gave it up, and was a hand.
-
-The eyes went on. They reached an old man who stood very straight, with a stick, and a bound leg, and a tarred case; and there they rested.
-
-Nobody moved in that yard, by the bench. A log fell off a wagon, somewhere behind them, and rang on the stones.
-
-The clerk's mouth had opened.
-
-Cael saw it from under his brows. He saw the breath taken, and the pen come up an inch from the page; and he saw, at the edge of his sight, a raw hand close on the head of an ash stick until the linen round it creaked. Vastin was looking at the ground. He was doing it a little better than he had done it at a gate.
-
-The clerk shut his mouth.
-
-He looked down again at the card, at the seal in its corner, which was old, and had a piece gone. Something went over his face, and Cael could not have sworn to what it was. It was not suspicion. It was not much like curiosity either. If he had been made to put a word to it, he would have said that a man who had kept a book with one name in it, for a great many years, had at last been handed a second line to write, and did not mean to spoil it by learning anything that he would then be obliged to set down.
-
-He opened the green book on his forearm.
-
-He wrote for some time. He looked at the boxes, and counted them with his eyes, and wrote. He looked at the case, and the courier's flat, and the calfskin, and wrote those. He did not ask what was in any of them. Then his pen moved to the right, to a narrow column, and made a single mark there; and then to a narrower one, at the very edge of the leaf.
+He did not lift them far. They came along the paving at the height of a boot, as a grey keeper's had at a gate. Cael had been read by registrars since he was fourteen, and had learned to meet each of them in the eye, so that it should cost them something. He looked down at his own toes. He had not known that it would be so hard. It was the only thing that he had ever had to set against a pen; and he gave it up, and was a pair of boots among four.
 
 He wrote *four*.
 
+He blotted the line.
 
+Nobody by that bench let a breath go. Seln had never said that a clerk asks before he writes. He had said that eighty would ask; and a man who has laid down his pen has his mouth free.
 
-He blotted the line. He did not turn the book round for anybody to sign, since there was no place in it where a hand could have signed. He stepped back from the sill, and stood aside, with the green cloth shut against his chest.
+The shutter came down. A key turned, and the low door beside the hatch opened inward, and the clerk stood on its sill with the card in his fingers and the green book shut under his arm. He blinked once at the daylight, as people do who are kept indoors. Then, having finished with the loads, he looked at what had carried them.
+
+His eyes passed over a big man, and a bowl wedged under the lashing of a box. They passed over a girl, who was looking at a cart. They reached an old man who stood very straight, with a stick, and a bound leg, and the lightest load of the four; and there they rested.
+
+A log fell off a wagon, somewhere behind, and rang on the stones.
+
+The clerk's mouth had opened.
+
+Cael saw it from under his brows, and saw the breath taken. A line that has been blotted can still be struck through; and a name said aloud on that sill would be a name said at a registry's door, with a yard-man going by. At the edge of his sight a raw hand closed on the head of an ash stick until the linen round it creaked. Vastin was looking at the ground. He was doing it a little better than he had done it at a gate.
+
+The clerk shut his mouth.
+
+He looked down at the card instead, at the seal in its corner, which was old, and had a piece gone; and then at the green cloth under his arm. Something went over his face, and Cael could not have sworn to what it was. It was not suspicion, and it was not much like curiosity either. If he had been made to put a word to it, he would have said that a man who had kept a book with one name in it, for a great many years, had at last been given a second line to write; that he had written it, and blotted it, and it was clean; and that he did not mean to spoil it now by learning anything which he would then be obliged to set down underneath.
+
+He stepped back from the sill, and stood aside.
 
 Lira had her box up before the door was clear.
 
-Cael got his arms through the beckets. He had been a name with a word after it on every sheet that the Compact had ever kept of him; and he had spent his life since a Kindling on other people's wrong side of a counter, reading that word upside down. He went past a clerk of the oldest registry on the Line, into its foundations, as the quarter part of a figure in the last column of a green book. The man did not look at him as he went by. He was looking at the line that he had written, with something very like satisfaction.
+Cael got his arms through the beckets. He went past a clerk of the oldest registry on the Line, into its foundations, as the quarter part of a figure at the edge of a leaf; and the man did not look at him as he went by. He was looking at the shut green book, with something very like satisfaction.
 
 ---
 
@@ -236,7 +224,7 @@ It was a short flight, of the pale stone, and it brought them into a vault that 
 
 Overhead there were feet.
 
-He heard them through the vault's crown, dull and many, going to and fro: five storeys of clerks, at their desks and between them. A whole town was up there, above that again, with its gates and its coats and its chalked boards, sorting everybody who came within reach of it by a colour. It had a book at every door. It had looked at him four times since a bridge and seen a back.
+He heard them through the vault's crown, dull and many, going to and fro: five storeys of clerks, at their desks and between them. A whole town was up there, above that again, with its gates and its coats and its chalked boards; and it had looked at him four times since a bridge and seen a back.
 
 The clerk had come down behind them with a lantern. He did not lead; he only walked at the rear, as a man does who is seeing a load to its place.
 

@@ -8,7 +8,7 @@ Seln had known it for some time. He had read two boards at two lane-ends, and bo
 
 There was a place made for it: a strip of trodden ground between the road and the river meadows, as long as four wagons, with a stone trough at one end and a ring of blackened stones at the other, and a thorn hedge along its weather side. A bank and a ditch ran the length of it at the road's edge, and carters who missed the gate had been pulling in there for longer than the post had stood.
 
-Two of them had it tonight, with a wagon of hurdles under a sheet, and four horses on a line, and a fire at the trough's end. The elder lifted one hand from his knee when the boxes came in off the road; he looked at the loads, and at the old man on the stick, and went back to his pot. He did not ask where they were from, and it came to Cael that inside a hedge a person was not asked.
+Two of them had it tonight, with a wagon of hurdles under a sheet, and four horses on a line, and a fire at the trough's end. The elder lifted one hand from his knee when the boxes came in off the road; he looked at the loads, and at the old man on the stick, and went back to his pot.
 
 Brom built the fire in the ring, from thorn that he bought of the carters for a copper.
 
@@ -98,8 +98,6 @@ He said it to the moor. They sat a yard apart, with the post between them, facin
 
 "You have seen the sheets. I am speaking of what it was."
 
-He was quiet for a moment. Down at the fire somebody laughed, and it was Brom, which was rare enough to mark.
-
 "It began with a day, and a word in square brackets, and after those two lines it was instruments: a registrar at a market town, with a counter and a pen; wardens, who came and stood in a yard and wrote; a panel; the frames of a house on a hill, at the end of every term, and the officers who watched the frames. Each of them laid upon you whatever he had been issued, and wrote down what it showed him, and what it showed him went under the last sheet and was sent up." The left hand moved on the stick. "There was not a paper in that folder which was not somebody's reading of you. I have handled a great many files, and I had not before met one in which the subject had been asked nothing and measured so often."
 
 "They asked. They asked the same six things."
@@ -116,13 +114,13 @@ Cael did not answer. He had sat across a counter at fourteen while a woman with 
 
 "You were the instrument," Cael said. "I was the error."
 
-Nothing was said for a while after that. A cart went by on the road at their backs, late for the gate and hurrying, and its lantern threw the shadow of the post out across the ditch and drew it in again.
+Nothing more was said for a while. A cart went by on the road at their backs, late for the gate and hurrying, and its lantern threw the shadow of the post out across the ditch and drew it in again.
 
 "I declined to read you a second time," said Vastin. "You know that. What you do not know is why."
 
 "You told us. In a room at Ostrand, with five of us at a table." Cael kept his eyes on the moor. "You said there were three things you'd not do. That was the third. You said it was the only sentence you had left that they still needed."
 
-"I did say so, and it was true. It was the reason that I could give with my back straight, to five young people who had that hour shown me that the house I served was rotten at the sill. I have let it stand for the whole reason ever since. It is not the whole."
+"I did say so, and it was true. It was the reason, and you are not to think otherwise for anything that I say next. Five young people had laid a case on a table that hour, and shown me what the office I served did with honest readings; I would not lend it my name for one more. I have let that stand for the whole of the matter ever since. It is not the whole."
 
 He lifted the stick an inch from his knees, and laid it down.
 
@@ -144,21 +142,21 @@ The old man was not looking at him. He was looking at his own right leg, laid ou
 
 "You wrote *declined*."
 
-"I wrote *declined*, and I gave a reason, which was a true one, and I have been thought the better of for it by six people on a moor." He shut his eyes. "I did not decline in order to spare you a plate; I declined so that I need never learn what the plate would say, and I kept my hand off a door. You were left a blank on the Compact's books so that an old man might go on supposing that he could read. That is what I have carried from the seat to this bank, and it is not in the flat."
+"I wrote *declined*, on a form which has no line for why; and I should have written it if there had been no such night. The reason that I gave you at Ostrand was the reason. I do not take it back." He shut his eyes. "But when the pen was down I found that I was glad, and it was not on your account that I was glad. I was relieved that I need never learn what the plate would say. I had kept my hand off a door for a sound reason, and I was thankful of it for a poor one. I have been thought the better of since, by six people on a moor, for the half that I let them see. That is what I have carried from the seat to this bank, and it is not in the flat."
 
 ---
 
 Cael sat with it.
 
-He had wanted that answer for four days, since a board at Lowmarch, where he had kept the question behind his teeth and let a small pale woman ask hers. He saw now that he had wanted it for a great deal longer. He had turned it over at an academy, and on a bluff, and across two hundred and eighty days of country; and he had tried mercy in the place where the reason should go, and then policy, and then some long game of the seat's, and every one of them had been a thing done to him or for him. It had not once occurred to him that it might have been done for the sake of a man's sleep.
+He had wanted that answer for four days, since a board at Lowmarch, where he had kept the question behind his teeth and let a small pale woman ask hers. He saw now that he had wanted it for a great deal longer. He had turned it over at an academy, and on a bluff, and across two hundred and eighty days of country; and he had tried mercy in the place where the reason should go, and then policy, and then some long game of the seat's, and every one of them had been a thing done to him or for him. He had been given the true one in a borrowed room, and had never quite believed that it was all. It had not once occurred to him that what lay folded inside it might be a man's relief on his own account.
 
 It ought to have made the man smaller, and he waited for it to do so.
 
-It did not. There had been people in his life who had filed him because they were afraid, and each of them had called it procedure to the end. This one had walked three hundred miles on a bad knee and then got down on a bank, where he could not rise, to say what it had been.
+It did not. There had been people in his life who had filed him because they were afraid, and each of them had called it procedure to the end. This one had done a right thing, for the reason that he gave. He had then walked three hundred miles on a bad knee and got down on a bank, where he could not rise, to say that he had also been glad of it for a wrong one. Nobody had asked him. Nobody living could have found it out.
 
 "It kept me off the plate," said Cael.
 
-"It did. I shall not take credit for where a thing fell that I dropped."
+"The refusal did, and I shall answer for the refusal, since it was honestly made. I shall not take credit for the gladness."
 
 "I'm not offering any. I'm saying what happened."
 
@@ -196,9 +194,7 @@ Vastin had gone very still.
 
 "No. Nobody did. It was the one honest reading of you that the Compact ever held, and it said that I could not make one."
 
-A night bird had begun somewhere down in the meadows, two notes and a stop.
-
-"So you'd have had the first of your two," said Cael. "I can't swear it; a plate's not what I've got. But there's nothing in that place that moves, and I think a plate's the same sort of tool as mine. It would have lain flat, and I'd have been two blanks on one file, and they'd have found their word." He rubbed his cold hands on his knees. "Nobody has that but you. It's not in the book yet. I've not told her, and she's read every line I ever wrote."
+"So you'd have had the first of your two," said Cael. "I can't swear it; a plate's not what I've got. But there's nothing in that place that moves, and I think a plate's the same sort of tool as mine. It would have lain flat, and I'd have been two blanks on one file, and they'd have found their word." "Nobody has that but you. It's not in the book yet. I've not told her, and she's read every line I ever wrote."
 
 "Why is it given to me?"
 
@@ -242,7 +238,7 @@ He had not known that he was afraid of it until the pencil said so. He had kept 
 
 He wrote two lines more, since they were owed.
 
-*V. sat. He told me why. I told him what the reading can't do, and nothing of what reads. The rest of that is his, and it isn't entered.*
+*V. sat. He told me the rest of why. I told him what the reading can't do, and nothing of what reads. What he said is his, and it isn't entered.*
 
 *Deployment since the Line: thirty-two. Myself, twice: not counted, as before.*
 
