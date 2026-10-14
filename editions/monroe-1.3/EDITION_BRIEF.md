@@ -8,7 +8,7 @@ stays exactly as it is; this edition is new and recoverable.
 
 Public byline: Monroe Jackson. Seat: `oconnor` 1.3.0. Foundation: Monroe Jackson 1.3.0.
 Requested author: Opus (Claude Opus 5.5). Coordinator: this orchestrator session.
-Review seat: Sol (gpt-5.6-sol via `codex exec`) — a different model family from the author.
+Review seat: Sol (via `codex exec`, ChatGPT plan) — a different model family from the author. Books 1–8 were reviewed on gpt-5.6-sol, as their ledgers record; from 2026-10-13 the owner's standing choice for every Codex / ChatGPT CLI call is gpt-6.1-sol (needs Codex CLI 0.162 or later), and each run still records the model it actually used.
 
 ## What "rewrite" means here
 

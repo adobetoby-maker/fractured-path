@@ -62,7 +62,7 @@ Use \\n for a line break inside a fix. Give chapter:line for every claim. Never 
 P
 (cd $E && REVIEW_SEAT=codex bash tools/ed.sh review $B $N 2>&1 | tail -2)
 for k in source-tracking plan-audit; do
-  env -u OPENAI_API_KEY -u OPENAI_BASE_URL nohup codex exec -m "${SOL_MODEL:-gpt-5.6-sol}" -c model_reasoning_effort="${SOL_EFFORT:-high}" --cd $ROOT --skip-git-repo-check -o $S/$k.lastmsg.md "$(cat $S/$k-prompt.md)" < /dev/null > $S/$k.stdout.log 2>&1 &
+  env -u OPENAI_API_KEY -u OPENAI_BASE_URL nohup codex exec -m "${SOL_MODEL:-gpt-6.1-sol}" -c model_reasoning_effort="${SOL_EFFORT:-high}" --cd $ROOT --skip-git-repo-check -o $S/$k.lastmsg.md "$(cat $S/$k-prompt.md)" < /dev/null > $S/$k.stdout.log 2>&1 &
   echo $! > $S/$k.pid
 done
 for k in review-editorial review-cold source-tracking plan-audit; do
